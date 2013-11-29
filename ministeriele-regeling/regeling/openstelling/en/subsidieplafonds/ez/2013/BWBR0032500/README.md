@@ -15,26 +15,27 @@ Besluit:
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling 2013  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *Subsidieregeling starten, groeien en overdragen van ondernemingen*   |
-| 1.1  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten  | 01-01 t/m  31-12  | 1.000.000.000  |
+| 1.1  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | 01-01 t/m  31-12  | 680.000.000  |
+| --- |Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) |2.3 |Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers) |15-07 t/m  31-12  |25.000.000 |
 | --- | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bodemsaneringsborgstellings-kredieten  | --- | --- |
 | 1.2  | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit)  | 3.2  | --- | 01-01 t/m  31-12  | 50.000.000  |
 | 1.3  | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemersfinanciering en garantstelling gericht op bankgaranties)  | 3.12b  en  3.12v  | --- | 01-01 t/m  31-12  | 150.000.000  |
 | 1.4  | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemingsfinanciering curatieve zorg)  | 3.12m  | --- | --- | --- |
-| 1.5  | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)  | 4.3  | --- | 01-01 t/m  30-03  | 16.000.000  |
-| --- | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)  | 4.3  | Creatieve industrie  | 01-01 t/m  30-03  | 4.000.000  |
+| 1.5  | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)  | 4.3  | --- | 15-07 t/m   30-09  | 12.000.000  |
+| --- | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)  | 4.3  | Creatieve industrie  | 15-07 t/m   30-09  | 4.000.000  |
 | 1.6  | Subsidieregeling Starten, groeien en overdragen van ondernemingen (valorisatieprogramma)  | 5.2  | --- | --- | --- |
 | 1.7  | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten)  | 6.2  | --- | --- | --- |
 | 1.8  | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf)  | 7.2  | --- | --- | --- |
-| 1.9  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw)  | 8.3  | --- | 01-01 t/m 31-12  | 1.000.000.000  |
+| 1.9  | Subsidieregeling starten, groeien en overdragen van ondernemingen (garantie scheepsnieuwbouwfinanciering)  | 8.3  | --- | 01-01 t/m 31-12  | 1.000.000.000  |
 | 1.10  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.3  | --- | --- | --- |
 |  *Subsidieregeling innoveren*   |
-| 2.1  | [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (Eurostars-projecten)  | 2.2  | --- | 10-01 t/m 24-01  | 4.560.000  |
+| 2.1  | [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (Eurostars Projecten)  | 2.2  | --- | 18-07 t/m 30-07  | 6.560.000  |
 | 2.2  | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Klinische ontwikkelingsprojecten  | 01-01 t/m  31-12  | 25.000.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Technische ontwikkelingsprojecten  | 01-01 t/m  31-12  | 55.000.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Duurzame technische ontwikkelingsprojecten  | --- | --- |
 | 2.3  | Subsidieregeling innoveren (innovatieprestatiecontracten)  | 4.3  | --- | --- | --- |
 | 2.4  | Subsidieregeling innoveren (innovatieprestatiecontracten)  | 4.10  | --- | 09-01 t/m 06-11  |  *750.000*   |
-| 2.5  | Subsidieregeling innoveren (innovatieprestatiecontracten)  | 4.18  | --- | --- | --- |
+| 2.5  | Subsidieregeling innoveren (innovatieprestatiecontracten)  | 4.18  | --- |01/05 t/m 20/06 |7.000.000 |
 | 2.6  | Subsidieregeling innoveren (innovatievouchers)  | 5.2  | Aantal beschikbare grote vouchers  | --- | --- |
 | 2.7  | Subsidieregeling innoveren (innovatievouchers)  | 5.3  | Aantal beschikbare kleine vouchers  | --- | --- |
 | 2.8  | Subsidieregeling innoveren (innovatievouchers)  | 5.7  | --- | --- | --- |
@@ -44,11 +45,12 @@ Besluit:
 | 2.12  | Subsidieregeling innoveren (innovatievouchers elektrische mobiliteit)  | 5c.2  | Aantal beschikbare vouchers  | 01-01 t/m  31-12  |  *100*   |
 | 2.13  | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)  | 6.2  | --- | --- | --- |
 |  *Subsidieregeling sterktes in innovatie*   |
-| 3.1  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (TKI-toeslag)  | 1a.2  | --- | --- | --- |
+| 3.1  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (TKI-toeslag)  | 1a.2, onderdeel a  | --- |02-12-2013 t/m 03-02-2014 | --- |
+| --- |Subsidieregeling sterktes in innovatie (TKI-toeslag)  |1a.2, onderdeel b | --- |02-12-2013 t/m 15-09-2014 | --- |
 | 3.2  | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten  | --- | --- |
-| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | *2*.2  | Opkomende markten innovatieprojecten  | --- | --- |
-| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | CATRENE-innovatieprojecten  | --- | --- |
-| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | ITEA2-innovatieprojecten  | --- | --- |
+| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  |  *2*.2   | Opkomende markten innovatieprojecten  | --- | --- |
+| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | CATRENE-innovatieprojecten  |06-09 t/m 20-09  |8.600.000 |
+| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | ITEA2-innovatieprojecten  |22-03 t/m 05-04 |7.000.000 |
 | 3.3  | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Genomics (periode vooraanmelding)  | --- | --- |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Genomics  | --- | --- |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | EMVT (periode vooraanmelding)  | --- | --- |
@@ -70,9 +72,9 @@ Besluit:
 | 3.4  | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden)  | 4.2  | --- | --- | --- |
 | 3.5  | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden)  | 4.11  | --- | --- | --- |
 | 3.6  | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden)  | 4.20  | --- | --- | --- |
-| 3.7  | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten)  | 5.2  | --- | --- | --- |
+| 3.7  | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten)  | 5.2  | --- |03-06 t/m 23-09 |600.000 |
 | 3.8  | Subsidieregeling sterktes in innovatie (FND innovatieprojecten)  | 5.9  | --- | --- | --- |
-| 3.9  | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten)  | 5.19  | --- | --- | --- |
+| 3.9  | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten)  | 5.19  | --- |03-06 t/m 23-09 |5.150.000 |
 | 3.10  | Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten)  | 6.2  | --- | --- | --- |
 | 3.11  | Subsidieregeling sterktes in innovatie (HTAS-internationale innovatieprojecten)  | 6.9  | --- | --- | --- |
 | 3.12  | Subsidieregeling sterktes in innovatie (HTAS-EVT-projecten)  | 6.18  | --- | --- | --- |
@@ -112,13 +114,14 @@ Besluit:
 | 5.4  | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen)  | 3.1.2  | --- | --- | --- |
 | 5.5  | Subsidieregeling energie en innovatie (duurzame biomassa-import)  | 3.2.2  | --- | --- | --- |
 | 5.6  | Subsidieregeling energie en innovatie (investeringen verlaging elektriciteitsaansluiting warmtepomphouders)  | 3.3.2  | --- | --- | --- |
-| 5.7  | Subsidieregeling energie en innovatie (aardwarmteproject)  | 3.4.2, eerste lid, onder a  | --- | 18-03 t/m 14-06  | 30.600.000  |
-| 5.7.a  | Subsidieregeling energie en innovatie (diep aardwarmteproject)  | 3.4.2, eerste lid, onder b  | --- | 18-03 t/m 13-05  | 12.750.000  |
+| 5.7  | Subsidieregeling energie en innovatie (aardwarmteproject)  | 3.4.2, eerste lid, onder a  | --- |18-03 t/m 14-06  |43.350.000 |
+|5.7.a  |Subsidieregeling energie en innovatie (diep aardwarmteproject)  |3.4.2, eerste lid, onder b | --- |18-03 t/m 13-05  |12.750.000 |
 | 5.8  | Subsidieregeling energie en innovatie (bioraffinage)  | 3.5.2  | Demonstratieproject bioraffinage  | --- | --- |
 | --- | Subsidieregeling energie en innovatie (bioraffinage)  | 3.5.2  | Pilotproject bioraffinage  | --- | --- |
 | 5.9  | Subsidieregeling energie en innovatie (vergassing)  | 3.6.2  | Voorbereidingsstudies vergassing  | --- | --- |
 | --- | Subsidieregeling energie en innovatie (vergassing)  | 3.6.2  | Demonstratieprojecten vergassing  | --- | --- |
-| 5.10  | Subsidieregeling energie en innovatie (Wind op Zee-projecten)  | 3.7.2  | --- | --- | --- |
+| 5.10  | Subsidieregeling energie en innovatie (Wind op Zee-projecten)  | 3.7.2  |fundamenteel en industrieel wind op zee-project  |t/m 6 juni 2013 17.00 uur  |5.050.000  |
+|5.10a  |Subsidieregeling energie en innovatie (Wind op Zee-projecten)  |3.7.2  |experimenteel en demonstratie wind op zee-project  |1 juli t/m 12 september 2013 17.00 uur  |5.300.000 |
 | 5.11  | Subsidieregeling energie en innovatie (programma industriële warmtebenutting)  | 3.8.2  | --- | --- | --- |
 | 5.12  | Subsidieregeling energie en innovatie (programma industriële warmtebenutting)  | 3.8.8  | --- | --- | --- |
 | 5.13  | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen)  | 3.9.2  | Pilotprojecten vergistingketen  | --- | --- |
@@ -148,20 +151,65 @@ b. de opslag voor technische ontwikkelingsprojecten: 2 procent per jaar;
 
 c. de opslag voor klinische ontwikkelingsprojecten: 5 procent per jaar;  
 
-d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.    
+d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.   
+
+### Artikel  3a  
+
+1.  Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) voor de in kolom 1 genoemde artikelen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 4; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
+2.  Activiteiten komen slechts in aanmerking voor subsidie wanneer zij passen binnen de in kolom 3 genoemde thema’s, opgenomen in het programma in de in kolom 2 genoemde bijlage bij de [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md).   
+3.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste en tweede lid wordt per in kolom 4 genoemde periode vastgesteld: het daarbij behorende in kolom 5 genoemde bedrag in euro’s of voucheraantal.  
+
+| 1. Artikel  | 2. Programma  | 3. Thema’s  | 4. Openstelling  | 5. plafond  |
+|:---|:---|:---|:---|:---|
+| 1c.21 MIT-R&D- samenwerkingsprojecten  | Bijlage 1 HTSM  | 1 t/m 16  | 25-09 t/m 03-10  | 1.557.756  |
+| 1c.4 MIT-haalbaarheidsstudies  1c.9 MIT-kennisvouchers  1c.17 inhuur personeel  1c.21 MIT-R&D samenwerkingsprojecten  | Bijlage 3 Logistiek  | 1 t/m 5  | 25-09 t/m 03-10  | 1.220.500  |
+| 1c.4 MIT-haalbaarheidsstudies  | Bijlage 5 Water  | 1 t/m 11  | 25-09 t/m 03-10  | 510.343  |
+| 1b.4 Netwerkactiviteiten  | Bijlage 5 Water  | 5 t/m 7  | 25-11 t/m 28-11  | 25.000  |
+| 1b.4 Netwerkactiviteiten  | Bijlage 5 Water  | 8 t/m 11  | 25-11 t/m 28-11  | 25.000  |
+| 1b.7 Innovatiemakelaars  | Bijlage 5 Water  | 8 t/m 11  | 25-11 t/m 28-11  | 12.500  |
+| 1c.4 MIT- haalbaarheidsstudies  | Bijlage 6 Chemie, Biobased en Energie  | 1C t/m 7C  | 25-09 t/m 03-10  | 169.500  |
+| 1c.4 MIT-haalbaarheidsstudies  | Bijlage 6 Chemie, Biobased en Energie  | 8B t/m 12B  | 25-09 t/m 03-10  | 100.000  |
+| 1b.4 Netwerkactiviteiten  | Bijlage 6 Chemie, Biobased en Energie  | 13E t/m 40E  | 25-11 tm 28-11  | 20.000  |
+| 1c.21 MIT-R&D- samenwerkingsverband  | Bijlage 7 Creatief  | 1 t/m 5  | 25-09 t/m 03-10  | 723.457  |
+| 1c.21 MIT-R&D- samenwerkingsverband  | Bijlage 8 T&U  | 1 t/m 4  | 25-09 t/m 03-10  | 1.474.637  |
+| 1c.4 MIT-haalbaarheidsstudies  | Bijlage 8 T&U  | 1 t/m 4  | 25-09 t/m 03-10  | 350.000  |
+| 1c.9 MIT-kennisvouchers  | Bijlage 8 T&U  | 1 t/m 4  | 25-09 t/m 03-10  | 67 vouchers  |
+
+### Artikel  3b  
+
+1.  Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
+2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 3 genoemde periode vastgesteld: het daarbij behorende in kolom 4 genoemde bedrag in euro’s.  
+
+| 1.  Paragraaf van de [Subsidieregeling Energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | 2.  Project  | 3. openstellingsperiode in 2013  | 4.  subsidieplafond  |
+|:---|:---|:---|:---|
+| [2.4.1](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | BBE innovatieproject  | t/m 19 september  | 3,7 mln  |
+| [2.4.2](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | BBE KEW-project  | t/m 19 september  | 6,7 mln  |
+| [2.4.3](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | STEM-project  | t/m 12 september  | 1 mln  |
+| [2.4.4](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | BBEG-project  | t/m 19 september  | 5,9 mln  |
+| [2.4.5](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | GG-project  | t/m 19 september  | 12 mln  |
+| [2.4.6](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | UGas-project  | t/m 5 september  | 0,5 mln  |
+| [2.4.7](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | LNG-project  | t/m 5 september  | 1,5 mln  |
+| [2.4.8](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | SGas-project  | t/m 5 september  | 0,9 mln  |
+| [2.4.9](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | SDGas-project  | t/m 5 september  | 0,4 mln  |
+| [2.4.10](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | GAS-project  | t/m 5 september  | 0,3 mln  |
+| [2.4.11](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | WBS-project  | t/m 19 september  | 3,5 mln  |
+| [2.4.12](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | ZEGO-project  | t/m 19 september  | 7 mln  |
+| [2.4.13](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | EnerGO-project  | t/m 19 september  | 4,8 mln  |
+|[2.4.14](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  |DFP-project  |t/m 19 september  |1,2 mln  |
+| [3.10](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | Smartgrids-project  | t/m 12 september  | 5,35 mln  |
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2013.  
+Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ‘s-Gravenhage 
 12 december 2012   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp.   
+Minister van Economische Zaken, 
+H.G.J. Kamp.     

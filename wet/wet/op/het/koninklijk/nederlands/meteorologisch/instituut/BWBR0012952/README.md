@@ -28,11 +28,11 @@ e. luchtvaartmeteorologische inlichtingen: inlichtingen ten behoeve van het luch
 
 f. KNMI-gegevens: door het KNMI uit eigen waarneming of in internationaal verband verkregen gegevens met betrekking tot meteorologische en andere geofysische feiten en omstandigheden, uitgezonderd de luchtvaartmeteorologische inlichtingen en het algemeen weerbericht;  
 
-g. onderzoek: wetenschappelijk onderzoek op het terrein van de meteorologie en andere geofysische terreinen.    
+g. onderzoek: wetenschappelijk onderzoek op het terrein van de meteorologie en andere geofysische terreinen.   
 
 ### Artikel  1a  
 
-Deze wet is, met uitzondering van de artikelen 3, eerste lid, onderdeel a en c, 5, 8, en 8a, mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+Deze wet is, met uitzondering van de artikelen 3, eerste lid, onderdeel a en c, 5, 8, en 8a, mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Hoofdstuk  2  
 
@@ -41,7 +41,7 @@ Deze wet is, met uitzondering van de artikelen 3, eerste lid, onderdeel a en c, 
 ### Artikel  2  
 
 1.  Er is een KNMI, dat ressorteert onder Onze Minister.   
-2.  De leiding van het KNMI berust bij de hoofddirecteur. Onze Minister benoemt, schorst en ontslaat de hoofddirecteur.   
+2.  De leiding van het KNMI berust bij de hoofddirecteur. Onze Minister benoemt, schorst en ontslaat de hoofddirecteur.  
 
 ### Artikel  3  
 
@@ -63,8 +63,8 @@ g. het onderhouden van de nationale infrastructuur voor de meteorologie en ander
 
 h. het ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba op exclusieve basis beschikbaar maken, houden en stellen van luchtvaartmeteorologische inlichtingen, en  
 
-i. andere door Onze Minister aangewezen taken ten aanzien van de openbare lichamen Bonaire, Sint Eustatius en Saba op het terrein van de meteorologie en andere geofysische terreinen.     
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld inzake de inhoud en reikwijdte van de in het eerste lid genoemde taken.   
+i. andere door Onze Minister aangewezen taken ten aanzien van de openbare lichamen Bonaire, Sint Eustatius en Saba op het terrein van de meteorologie en andere geofysische terreinen.    
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld inzake de inhoud en reikwijdte van de in het eerste lid genoemde taken.  
 
 ### Artikel  3a  
 
@@ -75,11 +75,11 @@ a. het niet voldoen of niet kunnen voldoen door de verlener van wiens diensten g
 
 b. strijd met het recht, of  
 
-c. strijd met het belang van een veilig, ordelijk en vlot verloop van het luchtverkeer voor zover het betreft de taak bedoeld in artikel 3, eerste lid, onderdeel h.     
+c. strijd met het belang van een veilig, ordelijk en vlot verloop van het luchtverkeer voor zover het betreft de taak bedoeld in artikel 3, eerste lid, onderdeel h.    
 
 ### Artikel  4  
 
-Bij regeling van Onze Minister worden regels gesteld inzake het vaststellen van een onderzoeksprogramma, een onderzoeksplan, een jaarplan en een jaarverslag.  
+Bij regeling van Onze Minister worden regels gesteld inzake het vaststellen van een onderzoeksprogramma, een onderzoeksplan, een jaarplan en een jaarverslag. 
 
 ### Hoofdstuk  3  
 
@@ -113,7 +113,7 @@ j. waarschuwingen voor extreme weersomstandigheden;
 k. berichten bij calamiteiten waarbij het weer een belangrijke rol speelt     
 3.  Voor zover zich relevante verschillen in het weer boven Nederland of de Noordzee voordoen, kan een regionale detaillering in de berichtgeving worden aangebracht.   
 4.  Waarschuwingen, berichten bij calamiteiten waarbij het weer een belangrijke rol speelt en verdere weersverwachtingen waarbij de veiligheid in het geding is, worden voorzover het KNMI over de relevante gegevens beschikt en deze redelijkerwijs heeft kunnen omzetten in een algemeen weerbericht, terstond beschikbaar gesteld. Overige onderdelen van het algemeen weerbericht worden, behoudens indien zich geen significante weersontwikkelingen voordoen, ten minste 3-uurlijks beschikbaar gesteld.   
-5.  Bij regeling van Onze Minister worden regels gesteld inzake de inhoud en de beschikbaarheid van het algemeen weerbericht. Hierbij wordt rekening gehouden met de actuele stand van wetenschap en techniek.   
+5.  Bij regeling van Onze Minister worden regels gesteld inzake de inhoud en de beschikbaarheid van het algemeen weerbericht. Hierbij wordt rekening gehouden met de actuele stand van wetenschap en techniek.  
 
 ### Hoofdstuk  4  
 
@@ -129,32 +129,32 @@ a. worden de gevallen waarin een prijs verschuldigd is voor de beschikbaarstelli
 b. worden de grondslagen voor de berekening van de prijs vastgesteld waarbij ten aanzien van de beschikbaarstelling van KNMI-gegevens wordt uitgegaan van de integrale kosten van de beschikbaarstelling en ten aanzien van het gebruik van die gegevens van een prijs die strekt tot een bijdrage in de kosten van de productie van de KNMI-gegevens, tenzij uit internationale verplichtingen anders voortvloeit, en  
 
 c. kunnen andere regels inzake de inhoud van de overeenkomst en regels voor de voor het sluiten ervan benodigde informatie en bescheiden worden gesteld.     
-3.  De regels, bedoeld in het tweede lid, kunnen verschillen al naar gelang het soort gebruik van de KNMI-gegevens of de soort afnemer.   
+3.  De regels, bedoeld in het tweede lid, kunnen verschillen al naar gelang het soort gebruik van de KNMI-gegevens of de soort afnemer.  
 
 ### Artikel  7  
 
 1.  Onze Minister stelt beleidsregels in een catalogus vast welke beschikbare KNMI-gegevens beschrijft met vermelding van de hoogte van de prijs voor de beschikbaarstelling en voor het gebruik alsmede de voorwaarden voor de beschikbaarstelling.   
-2.  De catalogus wordt ter inzage gelegd bij het KNMI. Hiervan doet Onze Minister mededeling in de Staatscourant.   
+2.  De catalogus wordt ter inzage gelegd bij het KNMI. Hiervan doet Onze Minister mededeling in de Staatscourant.  
 
 ### Hoofdstuk  5  
 
 ####Luchtvaartmeteorologische inlichtingen
 
-### Artikel  8  
+###Artikel 8 
 
-1.  Het KNMI wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie, als bedoeld in artikel 9, eerste lid, van de verordening (EG) nr. 550/2004 van het Europees Parlement en de Raad van de Europese Unie van 10 maart 2004 betreffende de verlening van luchtvaartnavigatiediensten in het gemeenschappelijk Europees luchtruim (PbEU L 96).   
-2.  Het KNMI draagt zorg voor het regelmatig raadplegen van gebruikers van meteorologische diensten voor de luchtvaartnavigatie omtrent de kostengrondslag en het vergoedingenbeleid van die dienstverlening. De raadpleging kan tevens op verzoek van de gebruikers plaatsvinden.   
+1. Het KNMI wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie, als bedoeld in artikel 9, eerste lid, van de verordening (EG) nr. 550/2004 van het Europees Parlement en de Raad van de Europese Unie van 10 maart 2004 betreffende de verlening van luchtvaartnavigatiediensten in het gemeenschappelijk Europees luchtruim (PbEU L 96). 
+2.  Het KNMI draagt zorg voor het regelmatig raadplegen van gebruikers van meteorologische diensten voor de luchtvaartnavigatie omtrent de kostengrondslag en het vergoedingenbeleid van die dienstverlening. De raadpleging kan tevens op verzoek van de gebruikers plaatsvinden. 
 
-### Artikel  8a  
+###Artikel 8a 
 
-1.  Het KNMI kan, onverminderd zijn verantwoordelijkheid voor het verlenen van de diensten, bedoeld in artikel 8, na schriftelijke instemming van Onze Minister gebruikmaken van de diensten van een andere verlener van meteorologische diensten voor luchtvaartnavigatie voor het uitvoeren van de in artikel 3, eerste lid, onderdeel c, bedoelde taak.   
-2.  Gronden waarop instemming als bedoeld in het eerste lid kan worden onthouden zijn: 
+1. Het KNMI kan, onverminderd zijn verantwoordelijkheid voor het verlenen van de diensten, bedoeld in artikel 8, na schriftelijke instemming van Onze Minister gebruikmaken van de diensten van een andere verlener van meteorologische diensten voor luchtvaartnavigatie voor het uitvoeren van de in artikel 3, eerste lid, onderdeel c, bedoelde taak.
+2. Gronden waarop instemming als bedoeld in het eerste lid kan worden onthouden zijn:
 
-a. het niet voldoen of niet kunnen voldoen door de verlener van wiens diensten gebruik zal worden gemaakt aan de op grond van [artikel 5.14d, derde lid, van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) aan het certificaat van het KNMI gestelde beperkingen en voorschriften;  
+a.het niet voldoen of niet kunnen voldoen door de verlener van wiens diensten gebruik zal worden gemaakt aan de op grond van [artikel 5.14d, derde lid, van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) aan het certificaat van het KNMI gestelde beperkingen en voorschriften;
 
-b. strijd met het belang van een veilig, ordelijk en vlot verloop van het luchtverkeer; of  
+b.strijd met het belang van een veilig, ordelijk en vlot verloop van het luchtverkeer; of
 
-c. strijd met het recht.     
+c.strijd met het recht.
 
 ### Artikel  8b  
 
@@ -174,7 +174,7 @@ a. op te nemen in een algemeen verkrijgbare uitgave;
 
 b. op te nemen in een vanwege het KNMI algemeen verkrijgbaar gestelde periodiek, of  
 
-c. ter inzage te leggen bij het KNMI, in kopie te verstrekken of uit te lenen.     
+c. ter inzage te leggen bij het KNMI, in kopie te verstrekken of uit te lenen.    
 
 ### Artikel  10  
 
@@ -187,7 +187,7 @@ a. de interne rekening voor die onderzoeken gescheiden is van die voor de overig
 b. alle kosten en opbrengsten van die onderzoeken, op grond van consequent toegepaste en objectief te rechtvaardigen beginselen inzake kostprijsadministratie, worden toegerekend;  
 
 c. de beginselen inzake kostprijsadministratie volgens welke de gescheiden boekhouding wordt gevoerd, duidelijk zijn vastgelegd.     
-4.  Bij regeling van Onze Minister worden nadere regels gesteld inzake de aan het onderzoek verbonden kosten die worden doorberekend en inzake de administratie van de kosten die aan de doorberekening ten grondslag liggen.   
+4.  Bij regeling van Onze Minister worden nadere regels gesteld inzake de aan het onderzoek verbonden kosten die worden doorberekend en inzake de administratie van de kosten die aan de doorberekening ten grondslag liggen.  
 
 ### Hoofdstuk  7  
 
@@ -199,7 +199,7 @@ c. de beginselen inzake kostprijsadministratie volgens welke de gescheiden boekh
 2.  De raad heeft tot taak het wetenschappelijk niveau van het KNMI te bewaken en daarover te rapporteren.   
 3.  De raad bestaat uit minimaal vijf en maximaal negen door Onze Minister voor vier jaar op grond van bekwaamheid te benoemen leden, waaronder de voorzitter. Herbenoeming kan éénmaal en voor ten hoogste vier jaar plaatshebben.   
 4.  De leden van de raad worden op eigen aanvraag door Onze Minister ontslagen. Zij kunnen voorts door Onze Minister worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.   
-5.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de rechtspositie van de leden van de KNMI-raad.   
+5.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de rechtspositie van de leden van de KNMI-raad.  
 
 ### Hoofdstuk  8  
 
@@ -207,23 +207,23 @@ c. de beginselen inzake kostprijsadministratie volgens welke de gescheiden boekh
 
 ### Artikel  12  
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. Hiertoe behoort in ieder geval de mate van toegankelijkheid van het algemeen weerbericht.  
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. Hiertoe behoort in ieder geval de mate van toegankelijkheid van het algemeen weerbericht. 
 
 ### Artikel  13  
 
-Het Reglement voor het Koninklijk Nederlands Meteorologisch Instituut wordt ingetrokken.  
+Het Reglement voor het Koninklijk Nederlands Meteorologisch Instituut wordt ingetrokken. 
 
 ### Artikel  14  
 
-Wijzigt de Ambtenarenwet.   
+Wijzigt de Ambtenarenwet.  
 
 ### Artikel  15  
 
-Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  16  
 
-Deze wet wordt aangehaald als: Wet op het Koninklijk Nederlands Meteorologisch Instituut.  
+Deze wet wordt aangehaald als: Wet op het Koninklijk Nederlands Meteorologisch Instituut. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

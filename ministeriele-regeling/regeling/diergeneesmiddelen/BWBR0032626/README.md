@@ -31,13 +31,13 @@ Verordening (EG) nr. 1234/2008 van de Commissie van de Europese Gemeenschappen v
 
 Verordening (EU) nr. 37/2010 van de Commissie van de Europese Unie van 22 december 2009 betreffende farmacologisch werkzame stoffen en de indeling daarvan op basis van maximumwaarden voor residuen in levensmiddelen van dierlijke oorsprong (PbEU 2010, L 15);
 
-de [artikelen 2.19, derde lid, onderdelen c, d en f](../../../../wet/wet/dieren/BWBR0030250/README.md), [2.20, derde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [2.22, derde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [2.25, tweede lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [5.1, vierde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.2, eerste lid, tweede volzin, en tweede lid, tweede volzin, aanhef](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.3, derde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.4, tweede lid, onderdeel a](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.5, vierde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.6, eerste en derde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.9](../../../../wet/wet/dieren/BWBR0030250/README.md), [9.1, eerste en vierde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), en [6.4](../../../../wet/wet/dieren/BWBR0030250/README.md) in samenhang met [2.19, tweede, vierde en vijfde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [2.20, tweede lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [2.21, eerste lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [2.22, tweede lid](../../../../wet/wet/dieren/BWBR0030250/README.md), [7.2, eerste lid, eerste volzin, tweede lid, eerste volzin, en derde lid](../../../../wet/wet/dieren/BWBR0030250/README.md), en [7.6, eerste lid, van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md);
+de artikelen 2.19, derde lid, onderdelen c, d en f, 2.20, derde lid, 2.22, derde lid, 2.25, tweede lid, 5.1, vierde lid, 7.2, eerste lid, tweede volzin, en tweede lid, tweede volzin, aanhef, 7.3, derde lid, 7.4, tweede lid, onderdeel a, 7.5, vierde lid, 7.6, eerste en derde lid, 7.9, 9.1, eerste en vierde lid, en 6.4 in samenhang met 2.19, tweede, vierde en vijfde lid, 2.20, tweede lid, 2.21, eerste lid, 2.22, tweede lid, 7.2, eerste lid, eerste volzin, tweede lid, eerste volzin, en derde lid, en 7.6, eerste lid, van de Wet dieren;
 
-de [artikelen 4, eerste lid](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), [5, onderdeel b](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), en [6, tweede lid, van de Wet op de uitoefening van de Diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md),
+de artikelen 4, eerste lid, 5, onderdeel b, en 6, tweede lid, van de Wet op de uitoefening van de Diergeneeskunde 1990,
 
-de [artikelen 2.1, vierde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.3, derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.5, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.8, tweede lid, onderdeel b](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.13, onderdelen a, b, d, e en j](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.14, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.18, vierde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.1, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.2, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.4, vierde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.5, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.6, vijfde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.19, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [3.22, vierde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.1, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.2, tweede en derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.3, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.6, onderdeel d, onder 2°](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.8, onderdelen d, e en g](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.9, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.10, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.11, derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.18, eerste lid, aanhef](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.21, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [4.23](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [5.1, derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [5.2, eerste, tweede en derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [5.3. tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [5.4, tweede tot en met vierde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [5.7, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [5.8, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [6.2, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [7.6, eerste lid, onderdelen g, h en i](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8.1, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8.3](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8.4](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8.5, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.1, vijfde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.2, zesde en zevende lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.3, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.5, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.8, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.11, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [8A.13, derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [9.1](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [9.3 van het Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md);
+de artikelen 2.1, vierde lid, 2.3, derde lid, 2.5, tweede lid, 2.8, tweede lid, onderdeel b, 2.13, onderdelen a, b, d, e en j, 2.14, tweede lid, 2.18, vierde lid, 3.1, tweede lid, 3.2, tweede lid, 3.4, vierde lid, 3.5, eerste lid, 3.6, vijfde lid, 3.19, tweede lid, 3.22, vierde lid, 4.1, tweede lid, 4.2, tweede en derde lid, 4.3, tweede lid, 4.6, onderdeel d, onder 2°, 4.8, onderdelen d, e en g, 4.9, eerste lid, 4.10, tweede lid, 4.11, derde lid, 4.18, eerste lid, aanhef, 4.21, tweede lid, 4.23, 5.1, derde lid, 5.2, eerste, tweede en derde lid, 5.3. tweede lid, 5.4, tweede tot en met vierde lid, 5.7, tweede lid, 5.8, eerste lid, 6.2, tweede lid, 7.6, eerste lid, onderdelen g, h en i, 8.1, tweede lid, 8.3, 8.4, 8.5, eerste lid, 8A.1, vijfde lid, 8A.2, zesde en zevende lid, 8A.3, tweede lid, 8A.5, eerste lid, 8A.8, tweede lid, 8A.11, eerste lid, 8A.13, derde lid, 9.1, 9.3 van het Besluit diergeneesmiddelen;
 
-de [artikelen 8](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) en [11 van het Besluit paraveterinairen](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md);
+de artikelen 8 en 11 van het Besluit paraveterinairen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -63,9 +63,9 @@ Besluit:
 
 – *Beschikking 1999/879/EG:* Beschikking van de Raad van 17 december 1999 betreffende het op de markt brengen en het toedienen van boviene somatotropine (BST) en tot intrekking van Beschikking 90/218/EEG (PbEG 1999 L 879);  
 
-– *besluit:*[Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md);  
+– *besluit:*Besluit diergeneesmiddelen;  
 
-– *Bureau diergeneesmiddelen:* Bureau diergeneesmiddelen, organisatorische eenheid ressorterend onder het Agentschap College ter Beoordeling van Geneesmiddelen (ACBG), bedoeld in [artikel 3, vijfde lid, onderdeel a, onder 3°, van het Organisatiebesluit VWS 2010](../../../../ministeriele-regeling/organisatiebesluit/vws/2010/BWBR0027812/README.md);  
+– *Bureau diergeneesmiddelen:* Bureau diergeneesmiddelen, organisatorische eenheid ressorterend onder het Agentschap College ter Beoordeling van Geneesmiddelen (ACBG), bedoeld in artikel 3, vijfde lid, onderdeel a, onder 3°, van het Organisatiebesluit VWS 2010;  
 
 – *Commissie:* Commissie registratie diergeneesmiddelen, bedoeld in artikel 2.1;  
 
@@ -91,7 +91,7 @@ Besluit:
 
 a. waarin is vermeld de naam en het registratienummer van het middel, het nummer van de desbetreffende partij en de partijgrootte,  
 
-b. dat ondertekend is door de persoon die verantwoordelijk is voor de kwaliteitszorg, bedoeld in [artikel 4.2, eerste lid, onderdeel f, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md),  
+b. dat ondertekend is door de persoon die verantwoordelijk is voor de kwaliteitszorg, bedoeld in artikel 4.2, eerste lid, onderdeel f, van het besluit,  
 
 c. dat een verklaring bevat dat: 
 
@@ -122,6 +122,12 @@ c. dat een verklaring bevat dat:
 – *Verordening (EU) nr. 37/2010:* Verordening (EU) nr. 37/2010 van de Commissie van de Europese Unie van 22 december 2009 betreffende farmacologisch werkzame stoffen en de indeling daarvan op basis van maximumwaarden voor residuen in levensmiddelen van dierlijke oorsprong (PbEU 2010, L 15);     
 2.  Onder een gewaarmerkt afschrift wordt mede verstaan een elektronisch verschaft afschrift waaruit de authenticiteit van het origineel genoegzaam blijkt.   
 
+### Artikel  1.1a  
+
+####Grondslag
+
+Deze regeling berust mede op artikel 3.22, tweede lid, van het Besluit diergeneesmiddelen.  
+
 ### Hoofdstuk  2  
 
 ####Behandeling aanvraag van een vergunning voor het in de handel brengen van een diergeneesmiddel
@@ -143,7 +149,7 @@ c. dat een verklaring bevat dat:
 
 ####Voorbereiding van het advies door de Commissie
 
-De minister en de Commissie voor de voorbereiding van haar adviezen kunnen een beoordeling van een document als bedoeld in [artikel 2.3, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) laten verrichten door het: 
+De minister en de Commissie voor de voorbereiding van haar adviezen kunnen een beoordeling van een document als bedoeld in artikel 2.3, eerste lid, van het besluit laten verrichten door het: 
 
 a. Centraal Veterinair Instituut, onderdeel van de Stichting Dienst Landbouwkundig Onderzoek;  
 
@@ -167,7 +173,7 @@ Het formulier, bedoeld in artikel 2.3, is verkrijgbaar bij Bureau diergeneesmidd
 
 ####Samenvatting van de productkenmerken
 
-De samenvatting van de productkenmerken, bedoeld in [artikel 2.3, eerste lid, onderdeel a, onder 5°, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), bevat in onderstaande volgorde de volgende informatie: 
+De samenvatting van de productkenmerken, bedoeld in artikel 2.3, eerste lid, onderdeel a, onder 5°, van het besluit, bevat in onderstaande volgorde de volgende informatie: 
 
 a. de naam van het diergeneesmiddel met vermelding van de concentratie en de farmaceutische vorm,  
 
@@ -225,27 +231,27 @@ f. de volgende farmaceutische gegevens:
 
 6°. bijzondere voorzorgsmaatregelen bij de verwijdering van niet-toegepaste diergeneesmiddelen of, in voorkomend geval, van afvalstoffen die ontstaan bij het toepassen van diergeneesmiddelen,    
 
-g. de houder van de vergunning voor het in de handel brengen, bedoeld in [artikel 2.12 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md),  
+g. de houder van de vergunning voor het in de handel brengen, bedoeld in artikel 2.12 van het besluit,  
 
-h. het nummer van de vergunning, bedoeld in [artikel 2.12 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md),  
+h. het nummer van de vergunning, bedoeld in artikel 2.12 van het besluit,  
 
 i. de datum van de eerste verstrekking van de vergunning en indien van toepassing van de verlenging van de vergunning, en  
 
-j. datum van herziening van de samenvatting van de productkenmerken na een besluit tot verlenging, wijziging of gedeeltelijke intrekking van de vergunning, bedoeld in [hoofdstuk 2, paragraaf 5, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).    
+j. datum van herziening van de samenvatting van de productkenmerken na een besluit tot verlenging, wijziging of gedeeltelijke intrekking van de vergunning, bedoeld in hoofdstuk 2, paragraaf 5, van het besluit.    
 
 ### Artikel  2.6  
 
 ####Uitvoerige, kritische samenvattingen
 
-1.  De uitvoerige, kritische samenvattingen, bedoeld in [artikel 2.3, eerste lid, onderdeel b, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) worden opgesteld en ondertekend door personen die de vereiste technische capaciteiten of beroepskwalificaties bezitten.   
-2.  De personen, bedoeld in het eerste lid, rechtvaardigen een eventuele verwijzing naar een bibliografie als bedoeld in [artikel 3.10 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
+1.  De uitvoerige, kritische samenvattingen, bedoeld in artikel 2.3, eerste lid, onderdeel b, van het besluit worden opgesteld en ondertekend door personen die de vereiste technische capaciteiten of beroepskwalificaties bezitten.   
+2.  De personen, bedoeld in het eerste lid, rechtvaardigen een eventuele verwijzing naar een bibliografie als bedoeld in artikel 3.10 van het besluit.   
 3.  Bij de samenvattingen, bedoeld in het eerste lid, wordt een beknopt curriculum vitae van de personen, bedoeld in het eerste lid, in een bijlage opgenomen, waarin de technische capaciteiten en beroepskwalificaties van deze personen zijn vermeld.   
 
 ### Artikel  2.7  
 
 ####Controle van diergeneesmiddelen
 
-De minister kan bij de behandeling van een aanvraag als bedoeld in [artikel 2.1 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) een diergeneesmiddel, waaronder een grondstof, tussenproduct of ander bestanddeel van dat diergeneesmiddel, onderwerpen aan een onderzoek door een laboratorium aangewezen krachtens een EU-rechtshandeling of krachtens [artikel 8.3 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) om: 
+De minister kan bij de behandeling van een aanvraag als bedoeld in artikel 2.1 van het besluit een diergeneesmiddel, waaronder een grondstof, tussenproduct of ander bestanddeel van dat diergeneesmiddel, onderwerpen aan een onderzoek door een laboratorium aangewezen krachtens een EU-rechtshandeling of krachtens artikel 8.3 van het besluit om: 
 
 a. te verzekeren dat de door de fabrikant toegepaste en in het dossier beschreven controlemethoden bevredigend zijn en  
 
@@ -255,7 +261,7 @@ b. zich ervan te vergewissen, met name door overleg met het aangewezen laborator
 
 ####Beoordelingsrapport
 
-Een beoordelingsrapport als bedoeld in [artikel 2.12, onder c, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), bevat tenminste de beoordeling van en opmerkingen over het dossier betreffende de resultaten van: 
+Een beoordelingsrapport als bedoeld in artikel 2.12, onder c, van het besluit, bevat tenminste de beoordeling van en opmerkingen over het dossier betreffende de resultaten van: 
 
 a. de farmaceutische proeven,  
 
@@ -271,7 +277,7 @@ e. de milieurisicobeoordeling.
 
 ####Aanvraag in twee of meer EER-lidstaten en wederzijdse erkenning
 
-1.  De aanvrager van een vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in [artikel 2.4 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), overlegt documenten waarin hij: 
+1.  De aanvrager van een vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 2.4 van het besluit, overlegt documenten waarin hij: 
 
 a. verklaart dat het ingediende dossier en de uitvoerige kritische samenvattingen in alle EER-lidstaten geheel gelijk zijn en  
 
@@ -334,7 +340,7 @@ f. is bestemd voor de behandeling van paardachtigen met een substantie als bedoe
 
 ####Aanwijzing als diergeneesmiddel dat wordt verstrekt na te zijn voorgeschreven
 
-De minister verbindt aan de vergunning voor het in de handel brengen van een diergeneesmiddel het voorschrift dat het diergeneesmiddel uitsluitend wordt afgeleverd na te zijn voorgeschreven als bedoeld in [artikel 5.8, eerste lid, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), indien: 
+De minister verbindt aan de vergunning voor het in de handel brengen van een diergeneesmiddel het voorschrift dat het diergeneesmiddel uitsluitend wordt afgeleverd na te zijn voorgeschreven als bedoeld in artikel 5.8, eerste lid, onderdeel a, van het besluit, indien: 
 
 a. voor het diergeneesmiddel een leverings- of gebruiksbeperking geldt, waaronder: 
 
@@ -366,7 +372,7 @@ f. het diergeneesmiddel een farmacologisch werkzame stof bevat die nog geen vijf
 
 ####Advies van de Commissie registratie diergeneesmiddelen
 
-De minister kan aan de vergunning voor het in de handel brengen van een diergeneesmiddel het voorschrift verbinden dat het diergeneesmiddel uitsluitend wordt afgeleverd na te zijn voorgeschreven als bedoeld in [artikel 5.8, eerste lid, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), indien de Commissie registratie diergeneesmiddelen dit adviseert, omdat een diergeneesmiddel een risico met zich brengt voor het dier, degene die het diergeneesmiddel toepast, de volksgezondheid of het milieu.  
+De minister kan aan de vergunning voor het in de handel brengen van een diergeneesmiddel het voorschrift verbinden dat het diergeneesmiddel uitsluitend wordt afgeleverd na te zijn voorgeschreven als bedoeld in artikel 5.8, eerste lid, onderdeel a, van het besluit, indien de Commissie registratie diergeneesmiddelen dit adviseert, omdat een diergeneesmiddel een risico met zich brengt voor het dier, degene die het diergeneesmiddel toepast, de volksgezondheid of het milieu.  
 
 ### Artikel  2.15  
 
@@ -412,9 +418,9 @@ b. houders van dieren onder verantwoordelijkheid van een dierenarts kunnen worde
 
 De regels, gesteld in deze paragraaf, zijn van toepassing als: 
 
-a. voorwaarde in verband met het overleggen van documenten als bedoeld in [artikel 2.3, derde lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en  
+a. voorwaarde in verband met het overleggen van documenten als bedoeld in artikel 2.3, derde lid, van het besluit en  
 
-b. voorschrift voor het in de handel brengen van een diergeneesmiddel met betrekking tot de verpakking en informatie op, bij of in de verpakking als bedoeld in [artikel 2.13 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).    
+b. voorschrift voor het in de handel brengen van een diergeneesmiddel met betrekking tot de verpakking en informatie op, bij of in de verpakking als bedoeld in artikel 2.13 van het besluit.    
 
 ### Artikel  2.20  
 
@@ -457,7 +463,7 @@ c. het nummer van de fabricagepartij;
 
 d. het nummer van de vergunning voor het in de handel brengen, vooraf gegaan door de letters ‘Reg. NL’;  
 
-e. de naam of handelsnaam en de woonplaats of plaats van vestiging van de houder van de vergunning voor het in de handel brengen als bedoeld in [artikel 2.1, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en, in voorkomend geval, van de door de houder van de vergunning voor het in de handel brengen aangewezen vertegenwoordiger,  
+e. de naam of handelsnaam en de woonplaats of plaats van vestiging van de houder van de vergunning voor het in de handel brengen als bedoeld in artikel 2.1, eerste lid, van het besluit en, in voorkomend geval, van de door de houder van de vergunning voor het in de handel brengen aangewezen vertegenwoordiger,  
 
 f. de diersoort waarvoor het diergeneesmiddel uitsluitend is bestemd, onder vermelding van de dosering, de wijze van gebruik en eventueel de wijze van toepassing;  
 
@@ -475,7 +481,7 @@ l. de vermelding ‘diergeneesmiddel’ of ‘geneesmiddel voor diergeneeskundig
 
 1°. die zonder te zijn voorgeschreven verkrijgbaar zijn: ‘Vrij’.  
 
-2°. die uitsluitend na te zijn voorgeschreven verkrijgbaar zijn als bedoeld in [artikel 5.8, eerste lid van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) ‘alleen afgeven op voorschrift van een dierenarts’ en in een blauw omlijnd kader de wijze van afleveren van het diergeneesmiddel: 
+2°. die uitsluitend na te zijn voorgeschreven verkrijgbaar zijn als bedoeld in artikel 5.8, eerste lid van het besluit ‘alleen afgeven op voorschrift van een dierenarts’ en de wijze van afleveren van het diergeneesmiddel: 
 
 1°. ‘uitsluitend op recept afleveren, dan wel ‘U.R.A.’;  
 
@@ -483,7 +489,7 @@ l. de vermelding ‘diergeneesmiddel’ of ‘geneesmiddel voor diergeneeskundig
 
 3°. ‘uitsluitend toepassing door de dierenarts’, dan wel: ‘U.D.D.’;         
 2.  In afwijking van het eerste lid, onderdeel b, kan de minister bij de vergunning voor het in de handel brengen toestaan dat de farmaceutische vorm en de inhoud naar gewicht, volume of doseringseenheid, alleen op de buitenverpakking wordt aangegeven.   
-3.  Het eerste lid, onderdeel l, is overeenkomstig artikel 58, vijfde lid, van richtlijn 2001/82/EG van toepassing op een diergeneesmiddel waarvoor krachtens artikel 35, tweede lid, van Verordening (EG) nr. 726/2004 een vergunning voor het in de handel brengen is verstrekt.   
+3.  Het eerste lid, onderdeel l, is overeenkomstig artikel 58, vijfde lid, van richtlijn 2001/82/EG mede van toepassing op een diergeneesmiddel waarvoor krachtens artikel 35, tweede lid, van Verordening (EG) nr. 726/2004 een vergunning voor het in de handel brengen is verstrekt met dien verstande dat de vermelding met betrekking tot de wijze van afleveren, bedoeld in het eerste lid, onderdeel l, subonderdeel 2°, in een blauw omlijnd kader is opgenomen.   
 
 ### Artikel  2.23  
 
@@ -540,13 +546,13 @@ b. de bijsluiter niet in het Nederlands behoeft te worden opgesteld.
 
 ####Etiket homeopathisch diergeneesmiddel
 
-Het etiket van een diergeneesmiddel waarvoor overeenkomstig [artikel 3.5 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) een vergunning voor het in de handel brengen is verstrekt, vermeldt in afwijking van artikel 2.22, eerste lid, onderdeel l, aanhef, duidelijk leesbaar: ‘homeopathisch diergeneesmiddel’ of homeopathisch geneesmiddel voor diergeneeskundig gebruik’.  
+Het etiket van een diergeneesmiddel waarvoor overeenkomstig artikel 3.5 van het besluit een vergunning voor het in de handel brengen is verstrekt, vermeldt in afwijking van artikel 2.22, eerste lid, onderdeel l, aanhef, duidelijk leesbaar: ‘homeopathisch diergeneesmiddel’ of homeopathisch geneesmiddel voor diergeneeskundig gebruik’.  
 
 ### Artikel  2.28  
 
 ####Etiket homeopathisch diergeneesmiddel na vereenvoudigde aanvraag
 
-Het etiket van een diergeneesmiddel waarvoor overeenkomstig [artikel 3.4 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) een vergunning voor het in de handel brengen is verstrekt, vermeldt in afwijking van de artikelen 2.22 en 2.27: uitsluitend de volgende informatie: 
+Het etiket van een diergeneesmiddel waarvoor overeenkomstig artikel 3.4 van het besluit een vergunning voor het in de handel brengen is verstrekt, vermeldt in afwijking van de artikelen 2.22 en 2.27: uitsluitend de volgende informatie: 
 
 a. ‘homeopathisch diergeneesmiddel zonder goedgekeurde therapeutische indicaties’ of homeopathisch geneesmiddel voor diergeneeskundig gebruik zonder goedgekeurde therapeutische indicaties’;  
 
@@ -554,7 +560,7 @@ b. de naam van het diergeneesmiddel en de wetenschappelijke benaming van de home
 
 c. het nummer waaronder de vergunning is verstrekt, voorafgegaan door de letters ‘Reg. NL H’;  
 
-d. de naam of handelsnaam en het adres van de houder van de vergunning voor het in de handel brengen als bedoeld in [artikel 2.1, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) alsmede, indien de houder van de vergunning voor vervaardiging niet tevens houder van de vergunning voor het in de handel brengen is, de naam, de handelsnaam of het merk van de houder van de vergunning voor vervaardiging als bedoeld in [artikel 4.1, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) voor het bereiden van een diergeneesmiddel;  
+d. de naam of handelsnaam en het adres van de houder van de vergunning voor het in de handel brengen als bedoeld in artikel 2.1, eerste lid, van het besluit alsmede, indien de houder van de vergunning voor vervaardiging niet tevens houder van de vergunning voor het in de handel brengen is, de naam, de handelsnaam of het merk van de houder van de vergunning voor vervaardiging als bedoeld in artikel 4.1, eerste lid, van het besluit voor het bereiden van een diergeneesmiddel;  
 
 e. de diersoort of diersoorten waarvoor de dosering of doseringen waarin en de wijze of wijzen waarop het betrokken diergeneesmiddel uitsluitend mag worden gebruikt;  
 
@@ -574,7 +580,7 @@ k. zonodig de veiligheidsmaatregelen en bijzondere waarschuwingen voor de gebrui
 
 ####Etiket en bijsluiter bij ontheffing of vrijstelling
 
-Alle ingevolge deze paragraaf voorgeschreven informatie is van overeenkomstige toepassing bij een diergeneesmiddel waarvoor een vrijstelling of een ontheffing is verleend met toepassing van [hoofdstuk 3, paragraaf 5, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
+Alle ingevolge deze paragraaf voorgeschreven informatie is van overeenkomstige toepassing bij een diergeneesmiddel waarvoor een vrijstelling of een ontheffing is verleend met toepassing van hoofdstuk 3, paragraaf 5, van het besluit.  
 
 ### §  5  
 
@@ -584,7 +590,7 @@ Alle ingevolge deze paragraaf voorgeschreven informatie is van overeenkomstige t
 
 ####Veiligheidsverslag bij verlenging
 
-De vergunninghouder overlegt bij de aanvraag om verlenging van de vergunning voor het in de handel brengen het verslag, bedoeld in artikel 6.1, onderdeel b, over perioden waarover nog geen verslag is overgelegd voorzover de informatie in dit verslag niet is opgenomen in een document in de lijst, bedoeld in [artikel 2.17, tweede lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
+De vergunninghouder overlegt bij de aanvraag om verlenging van de vergunning voor het in de handel brengen het verslag, bedoeld in artikel 6.1, onderdeel b, over perioden waarover nog geen verslag is overgelegd voorzover de informatie in dit verslag niet is opgenomen in een document in de lijst, bedoeld in artikel 2.17, tweede lid, van het besluit.  
 
 ### §  6  
 
@@ -594,7 +600,7 @@ De vergunninghouder overlegt bij de aanvraag om verlenging van de vergunning voo
 
 ####Toepasselijkheid van deze paragraaf
 
-Deze paragraaf is uitsluitend van toepassing op een wijziging van een vergunning voor het in de handel brengen die niet met toepassing van een procedure als bedoeld in de [artikelen 2.1, derde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.4, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.23](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.24](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) of [2.25 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) is verstrekt.  
+Deze paragraaf is uitsluitend van toepassing op een wijziging van een vergunning voor het in de handel brengen die niet met toepassing van een procedure als bedoeld in de artikelen 2.1, derde lid, 2.4, tweede lid, 2.23, 2.24 of 2.25 van het besluit is verstrekt.  
 
 ### Artikel  2.32  
 
@@ -620,7 +626,7 @@ c. bij een ingrijpende wijziging: artikel 9.8, onderdeel a en artikel 9.9, onder
 ####Kleine wijziging van de eerste categorie
 
 1.  Een kennisgeving van een kleine wijziging van de eerste categorie van een vergunning voor het in de handel brengen van een diergeneesmiddel wordt in behandeling genomen in overeenstemming met artikel 13bis van Verordening (EG) nr. 1234/2008.   
-2.  Met overeenkomstige toepassing van [artikel 2.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
+2.  Met overeenkomstige toepassing van artikel 2.6 van het besluit kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
 3.  Indien het besluit niet binnen de termijn, genoemd in artikel 13bis, tweede lid, van Verordening (EG) nr. 1234/2008 wordt genomen, wordt de vergunning met toepassing van paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van rechtswege gewijzigd overeenkomstig de geldige kennisgeving.   
 
 ### Artikel  2.35  
@@ -628,7 +634,7 @@ c. bij een ingrijpende wijziging: artikel 9.8, onderdeel a en artikel 9.9, onder
 ####Kleine wijziging van de tweede categorie
 
 1.  Een aanvraag omtrent een kleine wijziging van de tweede categorie van een vergunning voor het in de handel brengen van een diergeneesmiddel wordt behandeling genomen in overeenstemming met artikel 13 ter of artikel 20 van Verordening (EG) nr. 1234/2008.   
-2.  Met overeenkomstige toepassing van [artikel 2.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
+2.  Met overeenkomstige toepassing van artikel 2.6 van het besluit kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
 3.  Een besluit wordt genomen binnen de termijn, genoemd in artikel 13 ter, tweede lid, of artikel 20, zevende lid, onderdeel b, van Verordening (EG) nr. 1234/2008 tenzij aan de houder van de vergunning bij toepassing van artikel 13 ter, tweede lid, van Verordening (EG) nr. 1234/2008: 
 
 a. een ongunstig advies is gestuurd of  
@@ -643,7 +649,7 @@ b. een gelegenheid is geboden als bedoeld in het tweede lid.
 ####Ingrijpende wijziging
 
 1.  Een aanvraag omtrent een ingrijpende wijziging van een vergunning voor het in de handel brengen van een diergeneesmiddel wordt behandeling genomen in overeenstemming met artikel 13 quater of artikel 20 van Verordening (EG) nr. 1234/2008.   
-2.  Met overeenkomstige toepassing van [artikel 2.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) kan een aanvrager in de gelegenheid worden gesteld om een aanvraag aan te vullen, ingeval de aanvraag ongeldig is.   
+2.  Met overeenkomstige toepassing van artikel 2.6 van het besluit kan een aanvrager in de gelegenheid worden gesteld om een aanvraag aan te vullen, ingeval de aanvraag ongeldig is.   
 
 ### Artikel  2.37  
 
@@ -659,7 +665,7 @@ Indien een kennisgeving of een aanvraag als bedoeld in artikel 2.33 betrekking h
 
 ####Toepasselijkheid van deze paragraaf
 
-Deze paragraaf is uitsluitend van toepassing op een wijziging van een vergunning voor het in de handel brengen die met toepassing van een procedure als bedoeld in de [artikelen 2.1, derde lid in samenhang met het vierde lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.4, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.23](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.24](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) of [2.25 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) is verstrekt.  
+Deze paragraaf is uitsluitend van toepassing op een wijziging van een vergunning voor het in de handel brengen die met toepassing van een procedure als bedoeld in de artikelen 2.1, derde lid in samenhang met het vierde lid, 2.4, tweede lid, 2.23, 2.24 of 2.25 van het besluit is verstrekt.  
 
 ### Artikel  2.39  
 
@@ -685,7 +691,7 @@ c. bij een ingrijpende wijziging: artikel 9.8, onderdelen b en c, artikel 9.9, o
 ####Kleine wijziging van de eerste categorie
 
 1.  Een kennisgeving van een kleine wijziging van de eerste categorie van een vergunning voor het in de handel brengen van een diergeneesmiddel wordt behandeling genomen volgens de procedure, bedoeld in artikel 8 van Verordening (EG) nr. 1234/2008, in samenhang met artikel 11 van deze Verordening en bijlage IV bij deze Verordening.   
-2.  Met overeenkomstige toepassing van [artikel 2.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
+2.  Met overeenkomstige toepassing van artikel 2.6 van het besluit kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
 3.  Indien het besluit niet binnen de termijn, genoemd in artikel 8, tweede lid, van Verordening (EG) nr. 1234/2008 wordt genomen, wordt de vergunning met toepassing van paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van rechtswege gewijzigd overeenkomstig de geldige kennisgeving.   
 
 ### Artikel  2.42  
@@ -697,7 +703,7 @@ c. bij een ingrijpende wijziging: artikel 9.8, onderdelen b en c, artikel 9.9, o
 a. overeenkomstig de procedure, bedoeld in artikel 9 van Verordening (EG) nr. 1234/2008, in samenhang met artikel 11 van deze Verordening en bijlage IV bij deze Verordening, of, voor zover van toepassing,  
 
 b. overeenkomstig de procedure, bedoeld in artikel 20 van Verordening (EG) nr. 1234/2008, in samenhang met bijlagen IV en V bij deze Verordening.     
-2.  Met overeenkomstige toepassing van [artikel 2.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
+2.  Met overeenkomstige toepassing van artikel 2.6 van het besluit kan een indiener in de gelegenheid worden gesteld om een kennisgeving aan te vullen, ingeval de kennisgeving ongeldig is.   
 3.  Een besluit wordt genomen binnen de termijn, genoemd in artikel 9, tweede lid, of artikel 20, zevende lid, onderdeel b, van Verordening (EG) nr. 1234/2008 tenzij aan de houder van de vergunning bij toepassing van artikel 9, tweede lid, van Verordening (EG) nr. 1234/2008: 
 
 a. een ongunstig advies is gestuurd of  
@@ -741,7 +747,7 @@ Een aanvrager kan aan Bureau diergeneesmiddelen verzoeken een bijeenkomst van de
 
 ####Het register
 
-1.  Het register, bedoeld in [artikel 2.26, derde lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), berust bij en wordt bijgehouden door Bureau diergeneesmiddelen en openbaar gemaakt op een website.   
+1.  Het register, bedoeld in artikel 2.26, derde lid, van het besluit, berust bij en wordt bijgehouden door Bureau diergeneesmiddelen en openbaar gemaakt op een website.   
 2.  In het register worden in voorkomend geval ter zake van het betrokken diergeneesmiddel onder vermelding van de datum aangetekend: 
 
 a. de verstrekking van een vergunning;  
@@ -773,8 +779,8 @@ h. het uitstel van het vervallen van een vergunning.
 
 ####Vereenvoudigde aanvraag vergunning voor homeopathisch diergeneesmiddel
 
-1.  Een vereenvoudigde aanvraag als bedoeld in [artikel 3.4 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) om vergunning voor een homeopathisch diergeneesmiddel wordt in behandeling genomen, indien het dossier voldoet aan artikel 12, derde lid, van Richtlijn 2001/82/EG, met uitzondering van artikel 12, derde lid, eerste alinea, onderdelen e, h tot en met k, n, p, en de tweede alinea van Richtlijn 2001/82/EG en in overeenstemming met bijlage I, titel IV, onder 2 van richtlijn 2001/82/EG.   
-2.  Een vereenvoudigde aanvraag om vergunning voor een homeopathisch diergeneesmiddel dat is bestemd of mede is bestemd voor dieren die bestemd zijn voor de productie van levensmiddelen en overeenkomstig [artikel 3.4, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) is ingediend in overeenstemming met Verordening (EG) nr. 470/2009, voldoet aan Verordening (EU) nr. 37/2010.   
+1.  Een vereenvoudigde aanvraag als bedoeld in artikel 3.4 van het besluit om vergunning voor een homeopathisch diergeneesmiddel wordt in behandeling genomen, indien het dossier voldoet aan artikel 12, derde lid, van Richtlijn 2001/82/EG, met uitzondering van artikel 12, derde lid, eerste alinea, onderdelen e, h tot en met k, n, p, en de tweede alinea van Richtlijn 2001/82/EG en in overeenstemming met bijlage I, titel IV, onder 2 van richtlijn 2001/82/EG.   
+2.  Een vereenvoudigde aanvraag om vergunning voor een homeopathisch diergeneesmiddel dat is bestemd of mede is bestemd voor dieren die bestemd zijn voor de productie van levensmiddelen en overeenkomstig artikel 3.4, eerste lid, van het besluit is ingediend in overeenstemming met Verordening (EG) nr. 470/2009, voldoet aan Verordening (EU) nr. 37/2010.   
 3.  Een vereenvoudigde aanvraag die betrekking heeft op een reeks diergeneesmiddelen die van dezelfde homeopathische grondstof of grondstoffen is afgeleid gaat vergezeld van de in artikel 18, tweede volzin, van Richtlijn 2001/82/EG genoemde documenten.   
 4.  Indien bij een vereenvoudigde aanvraag een verklaring wordt overgelegd dat de documenten die bij de aanvraag worden overgelegd identiek zijn aan de documenten, bedoeld in artikel 25, onderdeel b, van de Geneesmiddelenwet, worden die documenten slechts beoordeeld indien dat in verband met de toepassing op dieren in het belang van de volksgezondheid, diergezondheid, dierenwelzijn of het milieu nodig is.   
 
@@ -810,7 +816,7 @@ b. een in Nederland octrooirechtelijk of door middel van een aanvullend bescherm
 
 ####Aanvraag afgeleide vergunning
 
-Een besluit omtrent een afgeleide vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in [artikel 3.15 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt genomen binnen 90 dagen na ontvangst van een volledige aanvraag.  
+Een besluit omtrent een afgeleide vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 3.15 van het besluit wordt genomen binnen 90 dagen na ontvangst van een volledige aanvraag.  
 
 ### §  2  
 
@@ -820,15 +826,15 @@ Een besluit omtrent een afgeleide vergunning voor het in de handel brengen van e
 
 ####Werkzame substanties
 
-Vrijstelling wordt verleend tot 1 januari 2015 van het verbod in artikel 2.19, eerste lid van de wet inzake het in de handel brengen van een diergeneesmiddel voor toepassing van de in bijlage 2 vermelde werkzame substanties onder de voorwaarden, genoemd in [artikel 3.16 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
+Vrijstelling wordt verleend tot 1 januari 2015 van het verbod in artikel 2.19, eerste lid van de wet inzake het in de handel brengen van een diergeneesmiddel voor toepassing van de in bijlage 2 vermelde werkzame substanties onder de voorwaarden, genoemd in artikel 3.16 van het besluit.  
 
 ### Artikel  3.7  
 
 ####Vrijstelling diergeneesmiddelen voor specifieke diersoorten
 
-1.  Vrijstelling wordt verleend van het verbod, gesteld in artikel 2.19, eerste lid, van de wet voor het in de handel brengen, vervoeren, aanbieden, ontvangen, voorhanden of in voorraad hebben en afleveren van diergeneesmiddelen die uitsluitend bestemd zijn voor toepassing bij dieren als bedoeld in [artikel 3.19, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), indien: 
+1.  Vrijstelling wordt verleend van het verbod, gesteld in artikel 2.19, eerste lid, van de wet voor het in de handel brengen, vervoeren, aanbieden, ontvangen, voorhanden of in voorraad hebben en afleveren van diergeneesmiddelen die uitsluitend bestemd zijn voor toepassing bij dieren als bedoeld in artikel 3.19, eerste lid, van het besluit, indien: 
 
-a. het diergeneesmiddel is vervaardigd of ingevoerd in overeenstemming met hoofdstuk 4 van het besluit, met uitzondering van [artikel 4.6, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md),  
+a. het diergeneesmiddel is vervaardigd of ingevoerd in overeenstemming met hoofdstuk 4 van het besluit, met uitzondering van artikel 4.6, onderdeel a, van het besluit,  
 
 b. de verpakking en de etikettering van het diergeneesmiddel voldoen aan hoofdstuk 2, paragraaf 4, met uitzondering van artikel 2.22, eerste lid, onderdelen d en e, eerste zinsdeel, met betrekking tot de vergunning voor in de handel brengen,  
 
@@ -842,13 +848,13 @@ b. de minister voor het diergeneesmiddel op aanvraag toestemming heeft verleend 
 c. het diergeneesmiddel geen wezenlijke verschillen vertoont in samenstelling en werkzaamheid met een diergeneesmiddel waarvoor in een EER-lidstaat een vergunning voor het in de handel brengen van een diergeneesmiddel is verstrekt,  
 
 d. alle wijzigingen van het diergeneesmiddel aan Bureau diergeneesmiddelen zijn gemeld en volgens de aanwijzingen van Bureau diergeneesmiddelen zijn aangebracht.     
-3.  De [artikelen 2.1, tweede lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.2](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.3, eerste lid, aanhef](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.5](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.6](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.9, eerste lid, onderdelen b, c, d, f tot en met i](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.12 tot met 2.17](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.18, eerste, tweede en derde lid, vierde lid, eerste zinsdeel](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), en [2.20, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), [2.21, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), 2.22 en 2.26 van het besluit, het krachtens die artikelen bepaalde en de artikelen 2.3, 2.4, 2.11, 2.12 en 2.46 zijn van overeenkomstige toepassing bij een aanvraag om toestemming als bedoeld in het tweede lid.   
+3.  De artikelen 2.1, tweede lid, 2.2, 2.3, eerste lid, aanhef, 2.5, 2.6, 2.9, eerste lid, onderdelen b, c, d, f tot en met i, 2.12 tot met 2.17, 2.18, eerste, tweede en derde lid, vierde lid, eerste zinsdeel, en 2.20, eerste lid, 2.21, eerste lid, 2.22 en 2.26 van het besluit, het krachtens die artikelen bepaalde en de artikelen 2.3, 2.4, 2.11, 2.12 en 2.46 zijn van overeenkomstige toepassing bij een aanvraag om toestemming als bedoeld in het tweede lid.   
 
 ### Artikel  3.8  
 
 ####Vrijstelling toepassing bij dierproeven
 
-Vrijstelling wordt verleend van het verbod, gesteld in artikel 2.19, eerste lid, van de wet voor het in Nederland brengen, vervoeren, ontvangen, voorhanden hebben, in voorraad hebben of toepassen van diergeneesmiddelen ten behoeve van dierproeven, voor zover deze proeven worden verricht met toepassing van de Wet op de dierproeven door de in die wet bedoelde vergunninghouders, onverminderd artikel 3.11.  
+Vrijstelling wordt verleend van het verbod, gesteld in artikel 2.19, eerste lid, van de wet, voor het bereiden, bewerken, verwerken, verpakken, etiketteren, in Nederland brengen, vervoeren, ontvangen, voorhanden hebben, in voorraad hebben of toepassen van diergeneesmiddelen ten behoeve van dierproeven, voor zover deze proeven worden verricht met toepassing van de Wet op de dierproeven door de in die wet bedoelde vergunninghouders, onverminderd artikel 3.11.  
 
 ### Artikel  3.9  
 
@@ -1227,7 +1233,7 @@ Aanvragen om een vergunning voor groothandel en een vergunning voor kleinhandel 
 
 ####Lokalen
 
-De houder van een vergunning voor groothandel en de houder van een vergunning voor kleinhandel dragen er zorg voor dat de lokalen, bedoeld in artikel 5.2, eerste lid, onderdeel b, van het besluit: 
+1.   De houder van een vergunning voor groothandel en de houder van een vergunning voor kleinhandel dragen er zorg voor dat de lokalen, bedoeld in artikel 5.2, eerste lid, onderdeel b, van het besluit: 
 
 a. goed onderhouden worden, schoon en opgeruimd zijn en goed worden verlicht;  
 
@@ -1250,6 +1256,7 @@ i. zodanig zijn ingericht dat diergeneesmiddelen die zich op laad- en losplaatse
 j. door het ontwerp, inrichting, en uitrusting blootstelling van het personeel aan gevaren van in het lokaal opgeslagen werkzame stoffen voorkomen;  
 
 k. voor dieren een behuizing voor dieren bevat die goed is afgescheiden van andere ruimtes.    
+2.  Het eerste lid, onderdeel b, is van overeenkomstige toepassing ten aanzien van transportmiddelen waarmee diergeneesmiddelen worden vervoerd.   
 
 ### Artikel  5.3  
 
@@ -1295,22 +1302,20 @@ De houder van de vergunning voor groothandel beschikt over een noodplan voor het
 
 ####Verpakking bij afleveren aan een houder van dieren
 
-1.  Een houder van een vergunning voor kleinhandel levert een diergeneesmiddel slechts af aan een houder van een dier af, indien: 
+1.  Een houder van een vergunning voor kleinhandel levert een diergeneesmiddel slechts af aan een houder van een dier met een niet verbroken, oorspronkelijke sluiting van de primaire verpakking en in voorkomend geval de buitenverpakking, en indien: 
 
 a. de houdbaarheidstermijn van het diergeneesmiddel niet verstreken is;  
 
 b. de aanduidingen op de primaire verpakking en in voorkomend geval de buitenverpakking of bijsluiter, in overeenstemming zijn met hoofdstuk 2, paragraaf 4;  
 
-c. met een niet verbroken, oorspronkelijke sluiting van de primaire verpakking en in voorkomend geval de buitenverpakking, en  
-
-d. het diergeneesmiddel wordt afgeleverd na te zijn voorgeschreven en een goed zichtbare, duidelijk leesbare en onuitwisbare aanduiding van de volgende vermeldingen bevat: 
+c. het diergeneesmiddel, voor zover het is voorgeschreven, een goed zichtbare, duidelijk leesbare en onuitwisbare aanduiding van de volgende vermeldingen bevat: 
 
 1°. het woord ‘dierenarts’, ‘apotheker’ of ‘vergunninghouder’;  
 
 2°. de naam en het adres van de betreffende houder van de vergunning voor kleinhandel;  
 
 3°. de datum van afleveren van het diergeneesmiddel.       
-2.  Het eerste lid, aanhef, in samenhang met onderdeel c, is niet van toepassing indien: 
+2.  Het eerste lid, aanhef, is niet van toepassing indien: 
 
 a. een diergeneesmiddel wordt afgeleverd door een dierenarts of apotheker en  
 
@@ -1320,13 +1325,19 @@ b. de oorspronkelijke sluiting is vervangen door een sluiting welke is voorzien 
 
 ####Plaats van afleveren van diergeneesmiddelen die zijn voorgeschreven
 
-Een houder van een vergunning voor kleinhandel levert diergeneesmiddelen die uitsluitend worden afgeleverd na te zijn voorgeschreven slechts af: 
+Een houder van een vergunning voor kleinhandel houdt diergeneesmiddelen die uitsluitend worden afgeleverd na te zijn voorgeschreven, met het oog op het afleveren slechts voorhanden of in voorraad in een lokaal als bedoeld in artikel 5.2, en levert deze slechts af: 
 
-a. in een lokaal als bedoeld in artikel 5.1 aan een houder van een dier,  
+a. in een lokaal als bedoeld in artikel 5.2 aan een houder van een dier,  
 
-b. vanuit een lokaal als bedoeld in artikel 5.1 met een voor het diergeneesmiddel geschikte wijze van vervoer op het bedrijf van de houder van het dier dat behandeld wordt, of  
+b. vanuit een lokaal als bedoeld in artikel 5.2 met een voor het diergeneesmiddel geschikte wijze van vervoer op het bedrijf van de houder van het dier dat behandeld wordt, of  
 
-c. vanuit een lokaal als bedoeld in artikel 5.1 met een voor het diergeneesmiddel geschikte wijze van vervoer aan huis bij de houder van het dier, indien het dier niet voor de productie wordt gehouden.    
+c. vanuit een lokaal als bedoeld in artikel 5.2 met een voor het diergeneesmiddel geschikte wijze van vervoer aan huis bij de houder van het dier, indien het dier niet voor de productie wordt gehouden.    
+
+### Artikel  5.8a  
+
+####Gevoeligheidsbepaling bij afleveren aangewezen diergeneesmiddelen
+
+Artikel 8a.6a van het besluit en artikel 9a.9 zijn van overeenkomstige toepassing op het afleveren van diergeneesmiddelen.  
 
 ### §  4  
 
@@ -1706,7 +1717,7 @@ c. een schriftelijke verklaring dat met betrekking tot de ter controle aangebode
 3°. het in subonderdeel 1° bedoelde monster in elk geval een primaire verpakking van elk type omvat, indien de partij uit verschillende voor de gebruiker bestemde typen primaire verpakkingen bestaat, en  
 
 4°. overeenstemming bestaat over het doen uitvoeren van een experimentele keuring.       
-4.  De houder van de vergunning voor het in de handel brengen stelt het monster, bedoeld in het vierde lid, onderdeel c, subonderdeel 1°, op verzoek van Bureau diergeneesmiddelen binnen vijf dagen beschikbaar voor onderzoek door een door de minister aangewezen laboratorium.   
+4.  De houder van de vergunning voor het in de handel brengen stelt het monster, bedoeld in het derde lid, onderdeel c, subonderdeel 1°, op verzoek van Bureau diergeneesmiddelen binnen vijf dagen beschikbaar voor onderzoek door een door de minister aangewezen laboratorium.   
 
 ### Artikel  8.6  
 
@@ -2065,7 +2076,7 @@ i. € 8.626 voor een aanvraag als bedoeld in artikel 2.1, eerste lid, in voork
 
 3°. de behandeling van de aanvraag vindt plaats overeenkomstig artikel 2.4, tweede lid, van het besluit, waarbij Nederland geen referentielidstaat is;    
 
-j. € 3.623 voor een aanvraag als bedoeld in artikel 2.1, eerste lid, in voorkomend geval, in samenhang met 2.18, tweede lid,, van het besluit, indien aan elk van de volgende voorwaarden is voldaan: 
+j. € 3.623 voor een aanvraag als bedoeld in artikel 2.1, eerste lid, in voorkomend geval, in samenhang met 2.18, tweede lid, van het besluit, indien aan elk van de volgende voorwaarden is voldaan: 
 
 1°. de termijn bedoeld in artikel 3.9 van het besluit is verstreken voor het diergeneesmiddel en de diersoorten waarop de aanvraag betrekking heeft en artikel 3.6 is van toepassing;  
 
@@ -2229,7 +2240,7 @@ De kosten van een controle als bedoeld in bedoeld in artikel 9.1, eerste lid, on
 
 ####Retributie kosten certificaat voor uitvoer
 
-De kosten verbonden aan de behandeling van een aanvraag van een certificaat voor uitvoer als bedoeld in bedoeld in artikel 9.1, eerste lid, onderdeel g, van de wet in samenhang met artikel 4.23 van het besluit bedragen € 56.  
+De kosten verbonden aan de behandeling van een aanvraag van een certificaat als bedoeld in artikel 8.2, tweede lid, van het besluit, in samenhang met artikel 9.1, eerste lid, onderdeel a, van de wet, of de behandeling van een aanvraag van een certificaat voor uitvoer als bedoeld in bedoeld in artikel 9.1, eerste lid, onderdeel g, van de wet in samenhang met artikel 4.23 van het besluit bedragen € 56.  
 
 ### Hoofdstuk  9a  
 
@@ -2243,7 +2254,11 @@ De kosten verbonden aan de behandeling van een aanvraag van een certificaat voor
 
 ####Administratie dierenarts en andere personen
 
-1.  Onverminderd artikel 5.16 bevat de administratie van een dierenarts en, in voorkomend geval, een andere persoon als bedoeld in artikel 5.8, eerste lid, onderdeel c, van het besluit een afschrift van ieder door een dierenarts of een ander persoon opgesteld recept.   
+1.  Onverminderd artikel 5.16 bevat de administratie van een dierenarts en, in voorkomend geval, een andere persoon als bedoeld in artikel 5.8, eerste lid, onderdeel c, van het besluit: 
+
+a. een afschrift van ieder door een dierenarts of een ander persoon opgesteld recept;  
+
+b. een afschrift van iedere uitslag van een gevoeligheidsbepaling als bedoeld in artikel 8A.6a, eerste lid, van het besluit.     
 2.  Artikel 5.16 is van overeenkomstige toepassing op de toepassing van diergeneesmiddelen door een dierenarts of persoon als bedoeld in het eerste lid, met dien verstande dat in het vierde lid, onderdeel b, onder 4°, onder afgeleverde hoeveelheid wordt verstaan toegepaste hoeveelheid.   
 3.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende vijf jaar bewaard.   
 
@@ -2277,7 +2292,7 @@ i. de vastgestelde wachttermijn.
 
 ####Aantekening door de dierenarts in administratie houder van dieren
 
-1.  Onverminderd de artikelen 5.16, 5.19 en 9A.2 tekent de dierenarts en, in voorkomend geval, een andere persoon als bedoeld in artikel 5.8, eerste lid, onderdeel c, van het besluit bij toepassing van een diergeneesmiddel als bedoeld in de artikelen 2.13 en 4.12 in de administratie van de houder van dieren aan: 
+1.  Onverminderd de artikelen 5.16, 5.19 en 9A.2 tekent de dierenarts en, in voorkomend geval, een andere persoon als bedoeld in artikel 5.8, eerste lid, onderdeel c, van het besluit bij toepassing van een diergeneesmiddel als bedoeld in de artikelen 2.13, 2.14 en 4.12 in de administratie van de houder van dieren aan: 
 
 a. de datum van de behandeling met diergeneesmiddelen voor zover door de dierenarts uitgevoerd;  
 
@@ -2301,7 +2316,7 @@ De dierenarts informeert de houder van dieren:
 
 a. voorafgaand aan de toepassing van een diergeneesmiddel als bedoeld in de artikelen 8A.1 en 8A.2 van besluit over de toepassing van middelen in afwijking van de in de vergunning voor het in de handel brengen vermelde toepassing of over de ex tempore bereiding en toepassing van een diergeneesmiddel en over de mogelijk daaraan verbonden risico’s.  
 
-b. onverminderd artikelen 5.16, 9A.2 en 9A.3, bij aflevering of bij het voorschrijven van diergeneesmiddelen als bedoeld in de artikelen 2.13 en 4.12, schriftelijk, indien de diergeneesmiddelen bestemd zijn voor dieren, die gehouden worden voor de productie van levensmiddelen over: 
+b. onverminderd artikelen 5.16, 9A.2 en 9A.3, bij aflevering of bij het voorschrijven van diergeneesmiddelen als bedoeld in de artikelen 2.13, 2.14 en 4.12, schriftelijk, indien de diergeneesmiddelen bestemd zijn voor dieren, die gehouden worden voor de productie van levensmiddelen over: 
 
 a. naam en hoeveelheid van het afgeleverde diergeneesmiddel, en  
 
@@ -2340,7 +2355,7 @@ f. de door de dierenarts opgegeven wachttermijn, indien voor het betrokken dierg
 
 ####Administratie dierenarts substantie voor paardachtigen
 
-Dierenartsen noteren de bijzonderheden van een behandeling met een substantie als bedoeld in artikel 2.12, onderdeel d, in hoofdstuk IX van het identificatiedocument voor paardachtigen, bedoeld in verordening (EG) nr. 504/2008.  
+Dierenartsen noteren in hoofdstuk IX van het identificatiedocument voor paardachtigen, bedoeld in verordening (EG) nr. 504/2008, de bijzonderheden van een behandeling met een substantie als bedoeld in artikel 2.12, onderdeel f.  
 
 ### §  2  
 
@@ -2375,6 +2390,17 @@ c. de datum waarop het diervoeder met medicinale werking werd voorgeschreven;
 d. de in acht te nemen wachttermijn.     
 4.  De administratie, bedoeld in het eerste, tweede en derde lid, en de bescheiden die verband houden met de aantekeningen in de administratie, worden gedurende vijf jaar bewaard.   
 
+### §  3  
+
+####Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
+
+### Artikel  9a.9  
+
+####Voorwaarden gevoeligheidsbepaling
+
+1.  Diergeneesmiddelen die werkzame stoffen bevatten behorende tot de groep van derde en vierde generatie cefalosporinen en fluoroquinolonen en diergeneesmiddelen als bedoeld in artikel 8A.1, eerste lid, onderdeel b, of artikel 8A.2, eerste lid, onderdeel b, van het besluit welke een antimicrobiële werking bezitten, worden aangewezen als diergeneesmiddelen, bedoeld in artikel 8A.6a, eerste lid, van het besluit.   
+2.  De gevoeligheidsbepaling wordt uitgevoerd in overeenstemming met de eisen die ingevolge de geldende goede veterinaire praktijken, waaronder gidsen voor goede praktijken als bedoeld in artikel 8.44 van de wet, aan een betrouwbare gevoeligheidsbepaling worden gesteld.   
+
 ### Hoofdstuk  10  
 
 ####Overgangsrecht en overige bepalingen
@@ -2383,22 +2409,29 @@ d. de in acht te nemen wachttermijn.
 
 ####Overgangsrecht antimicrobieel diergeneesmiddel vijf grams verpakking
 
-1.  In afwijking van artikel 3.7, tweede lid, is het de houder van een vergunning voor vervaardiging tot een door de minister vast te stellen datum na 1 juli 2013 toegestaan een verpakking als bedoeld in artikel 77, tweede lid, van de Diergeneesmiddelenregeling, zoals dat artikel gold bij de inwerkingtreding van deze regeling, dat een antimicrobieel diergeneesmiddel met één van de werkzame stoffen chloortetracycline, tetracycline, oxytetracycline of een sulfonamide bevat voor het afleveren aan een houder van een dier te bereiden, te bewerken, te verwerken, te verpakken, te etiketteren, in de handel te brengen, in of buiten Nederland te brengen, te vervoeren, aan te bieden, aan te prijzen, af te leveren, te ontvangen, voorhanden of in voorraad te hebben met dien verstande dat voor 1 juli 2013 een aanvraag als bedoeld in artikel 3.7, tweede lid, onder b, wordt ingediend.   
-2.  De minister maakt binnen twee weken na 1 juli 2013 met overeenkomstige toepassing van artikel 2.26 van het besluit bekend voor welke diergeneesmiddelen door welke aanvrager geen aanvraag als bedoeld in artikel 3.7, tweede lid, onderdeel b, is ingediend onder vermelding van de datum waarop deze diergeneesmiddelen uit de handel genomen worden.   
-3.  De minister maakt binnen twee weken na 1 januari 2014 met overeenkomstige toepassing van artikel 2.26 van het besluit bekend voor welke diergeneesmiddelen door welke aanvrager geen volledige aanvraag als bedoeld in artikel 3.7, tweede lid, is ingediend onder vermelding van de datum waarop deze diergeneesmiddelen uit de handel genomen worden.   
-4.  In afwijking van artikel 3.7, tweede lid, is het iedere natuurlijke persoon en rechtspersoon toegestaan een verpakking als bedoeld in artikel 77, tweede lid, van de Diergeneesmiddelenregeling, zoals dat artikel gold bij de inwerkingtreding van deze regeling, dat een antimicrobieel diergeneesmiddel met één van de werkzame stoffen chloortetracycline, tetracycline, oxytetracycline of een sulfonamide bevat aan een houder van dieren af te leveren tot een datum als bedoeld in het tweede of derde lid.   
+1.  In afwijking van artikel 3.7, tweede lid, is het de houder van een vergunning voor vervaardiging toegestaan een verpakking als bedoeld in artikel 77, tweede lid, van de Diergeneesmiddelenregeling, zoals dat artikel gold bij de inwerkingtreding van deze regeling, voor het afleveren aan een houder van een dier te bereiden, te bewerken, te verwerken, te verpakken, te etiketteren, in de handel te brengen, in of buiten Nederland te brengen, te vervoeren, aan te bieden, aan te prijzen, af te leveren, te ontvangen, voorhanden of in voorraad te hebben met dien verstande dat voor 1 januari 2014 een aanvraag als bedoeld in artikel 3.7, tweede lid, onder b, of een aanvraag, als bedoeld in artikel 2.1, van het besluit voor een diergeneesmiddel als bedoeld in artikel 77, tweede lid, van de Diergeneesmiddelenregeling, zoals dat artikel gold bij de inwerkingtreding van deze regeling wordt ingediend.   
+2.  Indien voor 1 januari 2014 een aanvraag als bedoeld in het eerste lid wordt ingediend, blijft het na 1 januari 2014 toegestaan het diergeneesmiddel, bedoeld in het eerste lid, te vervaardigen en in de handel te brengen tot een besluit op de aanvraag is genomen en het diergeneesmiddel met betrekking tot de verpakking en informatie in, op of bij de verpakking voldoet aan het dossier dat bij de aanvraag is ingediend.   
+3.  In afwijking van artikel 3.7, tweede lid, is het iedere natuurlijke persoon en rechtspersoon toegestaan een verpakking als bedoeld in artikel 77, tweede lid, van de Diergeneesmiddelenregeling, zoals dat artikel gold bij de inwerkingtreding van deze regeling, aan een houder van dieren af te leveren tot 1 januari 2014 en, na die datum, tot het tijdstip waarop een besluit als bedoeld in het tweede lid is genomen, met inachtneming van de informatie als bedoeld in dat lid.   
+4.  Een vergoeding als bedoeld in artikel 9.2, eerste en vierde lid, wordt niet geheven tot een besluit als bedoeld in het tweede lid is genomen.   
 
 ### Artikel  10.2  
 
 ####Overgangsrecht etikettering
 
-In afwijking van artikel 2.22, eerste lid, onderdeel l, onder 1° en onder 2°, aanhef, is het toegestaan aan: 
+1.  In afwijking van artikel 2.22, eerste lid, onderdeel l, onder 1° en onder 2°, aanhef, is het toegestaan aan: 
 
-a. een houder van een vergunning voor vervaardiging of een vergunning voor invoer tot 1 januari 2014 een diergeneesmiddel zonder de aanduiding ‘Vrij’ of zonder een blauw omlijnd kader te verpakken of te etiketteren,  
+a. een houder van een vergunning voor vervaardiging of een vergunning voor invoer tot 1 januari 2015 een diergeneesmiddel zonder de aanduiding ‘Vrij’ te verpakken of te etiketteren,  
 
-b. een houder van een vergunning voor vervaardiging, een vergunning voor invoer of een vergunning voor groothandel tot 1 januari 2015 een diergeneesmiddel zonder de aanduiding ‘Vrij’ of zonder een blauw omlijnd kader af te leveren aan een houder van een vergunning voor groothandel of een vergunning voor kleinhandel,  
+b. een houder van een vergunning voor vervaardiging, een vergunning voor invoer of een vergunning voor groothandel tot 1 januari 2016 een diergeneesmiddel zonder de aanduiding ‘Vrij’ af te leveren aan een houder van een vergunning voor groothandel of een vergunning voor kleinhandel,  
 
-c. een houder van een vergunning voor kleinhandel tot 1 januari 2016 een diergeneesmiddel zonder de aanduiding ‘Vrij’ of zonder een blauw omlijnd kader af te leveren aan het publiek.    
+c. een houder van een vergunning voor kleinhandel tot 1 januari 2017 een diergeneesmiddel zonder de aanduiding ‘Vrij’ af te leveren aan het publiek.     
+2.  In afwijking van artikel 2.22, eerste lid, onderdeel l, onder 1° en onder 2°, aanhef, jo. artikel 2.22, derde lid, is het toegestaan aan: 
+
+a. een houder van een vergunning voor vervaardiging of een vergunning voor invoer tot 1 maart 2014 een diergeneesmiddel zonder een blauw omlijnd kader te verpakken of te etiketteren,  
+
+b. een houder van een vergunning voor vervaardiging, een vergunning voor invoer of een vergunning voor groothandel tot 1 januari 2015 een diergeneesmiddel zonder een blauw kader af te leveren aan een houder van een vergunning voor groothandel of van een vergunning voor kleinhandel,  
+
+c. een houder van een vergunning voor kleinhandel tot 1 januari 2016 een diergeneesmiddel zonder een blauw omlijnd kader af te leveren aan het publiek.     
 
 ### Artikel  10.3  
 
@@ -2420,53 +2453,60 @@ De artikelen 15a, 16, eerste en tweede lid, 17 tot en met 20, 21, eerste lid, 22
 
 In afwijking van artikel 3.8 tot en met artikel 3.10 beschikken de instellingen vermeld in bijlage V van de Diergeneesmiddelenregeling, zoals die bijlage luidde bij de inwerkingtreding van deze regeling tot 1 januari 2015, over een ontheffing als bedoeld in artikel 3.22, derde lid, van het besluit, voor het voorhanden en op voorraad hebben alsmede toepassen van een substantie als bedoeld in artikel 2.12, onderdelen d en e. Zij worden opgenomen in het register, bedoeld in artikel 4.17, tweede lid, van het besluit onder vermelding van de aard van de ontheffing.  
 
+### Artikel  10.5a  
+
+####Overgangsrecht kanalisatiestatus antimicrobiële diergeneesmiddelen
+
+1.  Tot 1 maart 2014 is het toegestaan dat antimicrobiële middelen, met uitzondering van middelen die intraveneus mogen worden toegepast of die de werkzame stof tilmicosine bevatten en parenteraal mogen worden toegepast, overeenkomstig art 2.16 door een dierenarts of op recept van een dierenarts door een apotheker worden afgeleverd.   
+2.  Met ingang van 1 maart 2014 mogen antimicrobiële diergeneesmiddelen, overeenkomstig artikel 2.17, eerste lid, uitsluitend worden afgeleverd door toepassing door de dierenarts.   
+
 ### Artikel  10.6  
 
-####Overgangsrecht [Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003](../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/enten/ai-gevoelige/dieren/dierentuinen/etc/BWBR0014990/README.md)
+####Overgangsrecht Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003
 
 Wijzigt de Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003.   
 
 ### Artikel  10.7  
 
-####Overgangsrecht [Regeling tijdelijke maatregelen dierziekten](../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md)
+####Overgangsrecht Regeling tijdelijke maatregelen dierziekten
 
 Wijzigt de Regeling tijdelijke maatregelen dierziekten.   
 
 ### Artikel  10.8  
 
-####Overgangsrecht [Tijdelijke vrijstellingsregeling gasverdoving biggen](../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/gasverdoving/biggen/2008/BWBR0024406/README.md)
+####Overgangsrecht Tijdelijke vrijstellingsregeling gasverdoving biggen
 
 Wijzigt de Tijdelijke vrijstellingsregeling gasverdoving biggen.   
 
 ### Artikel  10.9  
 
-####Intrekking [Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop](../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/vaccinatie/hobbypluimvee/biologische/etc/BWBR0019657/README.md)
+####Intrekking Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop
 
-De [tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop](../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/vaccinatie/hobbypluimvee/biologische/etc/BWBR0019657/README.md) wordt ingetrokken.  
+De tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop wordt ingetrokken.  
 
 ### Artikel  10.10  
 
-#### [Regeling toegelaten handelingen](../../../../ministeriele-regeling/regeling/toegelaten/handelingen/BWBR0005265/README.md) 
+#### Regeling toegelaten handelingen 
 
 Wijzigt de Regeling toegelaten handelingen.   
 
 ### Artikel  10.11  
 
-####Intrekking [Regeling verbod handel met bepaalde stoffen behandelde dieren en producten](../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md)
+####Intrekking Regeling verbod handel met bepaalde stoffen behandelde dieren en producten
 
-De [Regeling verbod handel met bepaalde stoffen behandelde dieren en producten](../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md) wordt ingetrokken.  
+De Regeling verbod handel met bepaalde stoffen behandelde dieren en producten wordt ingetrokken.  
 
 ### Artikel  10.12  
 
-####Wijziging [Regeling ingevolge artikelen 5 en 6 van de WUD 1990](../../../../ministeriele-regeling/regeling/ingevolge/artikelen/5/en/6/van/de/wud/1990/BWBR0005305/README.md)
+####Wijziging Regeling ingevolge artikelen 5 en 6 van de WUD 1990
 
 Wijzigt de Regeling ingevolge artikelen 5 en 6 van de WUD 1990.   
 
 ### Artikel  10.13  
 
-####Intrekking [Diergeneesmiddelenregeling](../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md)
+####Intrekking Diergeneesmiddelenregeling
 
-De [Diergeneesmiddelenregeling](../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md) wordt ingetrokken.  
+De Diergeneesmiddelenregeling wordt ingetrokken.  
 
 ### Hoofdstuk  11  
 
@@ -2494,7 +2534,7 @@ H.G.J.Kamp
 
 ### Bijlage  1  
 
-####Lijst van andere personen als bedoeld in artikel 2.18, tweede lid
+####Lijst van andere personen als bedoeld in artikel 2.18, tweede lid 
 
 1. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een embryotransplanteur als bedoeld in artikel 5 van het Besluit paraveterinairen zonder recept van een dierenarts toegepast kunnen worden : 
 
@@ -2560,13 +2600,13 @@ j. diergeneesmiddelen die als werkzaam bestanddeel β-agonisten bevatten, voor z
 
 ### Bijlage  2  
 
-####Substanties als bedoeld in artikel 3.6
+####Substanties als bedoeld in artikel 3.6 
 
 Acium aceticum (tot en met 30%) Acidum hydrochloricum dilutum Adeps lanae hydrosus Aether cum Spritu Alcohol alle sterkten Ammonia (tot en met 10%) Aqua Aurantil Ploris Aqua Foeniculi Aquz Hamamelidis Aqua Menthae pipertae Aqua Rosae Argenti Nitra in bacilis Collodium Collodium cum Oleo Ricini Glycerium Glycerium cum Solutio Camphorae spirituosa Liquor Formaldehydi saponatus Lotio contra Pytyriasin Paraformaldehydi tabletten Pulvis Acidi Salicylici cum Talco Sapo aromaticus Solutio Camphorae spirituosa Solutio Formaldehydi (tot en met 10%) Solutio Hydrogenii Peroxydi (tot en met 3%) Solutio Iodii spirituosa 2% (buisje max. 3 ml.) Spiritus dilitus cum Acido salicylico 1% Spiritus Ketonatus dilitus cum Mentholo 2% Spiritus saponatus Succus Liquiritiae Succus Liquiritiae of Succus Liquiritiae deglycyrrhizinatus gemengd met Amomonii Chloridum Talcum cum Mentholo 2% 
 
 ### Bijlage  3  
 
-####Lijst van instellingen als bedoeld in artikel 3.10, tweede lid
+####Lijst van instellingen als bedoeld in artikel 3.10, tweede lid 
 
 a. Centraal Veterinair Instituut, onderdeel Stichting Dienst Landbouwkundig Onderzoek;  
 
@@ -2576,7 +2616,7 @@ c. Rijksinstituut voor volksgezondheid en milieuhygiëne.
 
 ### Bijlage  4  
 
-####Lijst van vrijstellingen als bedoeld in artikel 3.12
+####Lijst van vrijstellingen als bedoeld in artikel 3.12 
 
 ### A  
 
@@ -2684,7 +2724,7 @@ c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften o
 
 ### Bijlage  6  
 
-####Lijst van de basisvakken als bedoeld in artikel 4.6, eerste lid, onderdeel a, onder 2°
+####Lijst van de basisvakken als bedoeld in artikel 4.6, eerste lid, onderdeel a, onder 2° 
 
 – experimentele natuurkunde,  
 
@@ -2712,7 +2752,7 @@ c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften o
 
 ### Bijlage  7  
 
-####Voorwaarden voor het toepassen van immunologische diergeneesmiddelen door houders van varkens als bedoeld in bijlage 1, vijfde lid, onderdeel b
+####Voorwaarden voor het toepassen van immunologische diergeneesmiddelen door houders van varkens als bedoeld in bijlage 1, vijfde lid, onderdeel b 
 
 De aanwijzing van immunologische diergeneesmiddelen, bedoeld in bijlage 1, vijfde lid, onderdeel b, is van toepassing op: 
 
@@ -2730,7 +2770,7 @@ b. een immunologisch diergeneesmiddel dat bestemd is om te worden toegepast bij 
 
 ### Bijlage  8  
 
-####Voorwaarden voor de toepassing van entstoffen onderscheidenlijk diergeneesmiddelen door een houder van varkens onder begeleiding bij het gebruik door een dierenarts als bedoeld in bijlage 7, onderdeel b, onder 2°
+####Voorwaarden voor de toepassing van entstoffen onderscheidenlijk diergeneesmiddelen door een houder van varkens onder begeleiding bij het gebruik door een dierenarts als bedoeld in bijlage 7, onderdeel b, onder 2° 
 
 1. In deze bijlage wordt verstaan onder: 
 
@@ -2744,7 +2784,7 @@ d. *dierenarts:* dierenarts die partij is bij de overeenkomst;
 
 e. *NEN-EN 45004:* algemene criteria voor het functioneren van verschillende soorten instellingen die keuringen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden op 1 oktober 1996.    
 
-2. Voor de entstof onderscheidenlijk het immunologisch diergeneesmiddel is een vergunning voor het in de handel brengen van een diergeneesmiddel verstrekt als bedoel in [artikel 2.12 van het Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
+2. Voor de entstof onderscheidenlijk het immunologisch diergeneesmiddel is een vergunning voor het in de handel brengen van een diergeneesmiddel verstrekt als bedoel in artikel 2.12 van het Besluit diergeneesmiddelen.  
 
 3. De overeenkomst: 
 
@@ -2774,7 +2814,7 @@ b. bezoekt ten minste eenmaal per vier weken alle lokaliteiten waar door de houd
 
 1°. de noodzaak tot het toepassen van de entstoffen, antimicrobiële diergeneesmiddelen, onderscheidenlijk immunologische diergeneesmiddelen;  
 
-2°. nakoming van de verplichting, bedoeld in artikel 5.20 van de Regeling diergeneesmiddelen;    
+2°. nakoming van de verplichting, bedoeld in artikel 9A.8;    
 
 c. maakt een verslag van elk bezoek als bedoeld in onderdeel b en bewaart dat verslag tot ten minste één jaar na de datum van het bezoek;  
 
@@ -2789,3 +2829,188 @@ b. bewaart de entstof, het antimicrobiële diergeneesmiddel, onderscheidenlijk h
 c. beschikt uitsluitend over entstoffen, antimicrobiële diergeneesmiddelen, onderscheidenlijk immunologische diergeneesmiddelen, die zijn afgeleverd door de dierenarts of door een apotheker op recept van de dierenarts;  
 
 d. beschikt uitsluitend over entstoffen, antimicrobiële diergeneesmiddelen onderscheidenlijk immunologische diergeneesmiddelen gedurende de periode, bedoeld in onderdeel 4, onder a.     
+
+### Bijlage  9  
+
+####Voorwaarden voor het toepassen van antimicrobiële diergeneesmiddelen door houders van dieren
+
+Treedt in werking per 01-03-2014   
+
+### 1  
+
+####Begripsbepaling
+
+In deze bijlage wordt verstaan onder: 
+
+– *varken:* varken dat wordt gehouden op een bedrijf dat varkens houdt met het oog op de fokkerij of mesterij;  
+
+– *vleeskalf:* rund dat niet ouder is dan twaalf maanden en dat wordt gehouden met het oog op de productie van vlees;  
+
+– *melkveerund:* rund dat wordt gehouden op een bedrijf dat runderen houdt met het oog op de productie van melk of een verwerking daarvan, bestemd voor humane consumptie, met inbegrip van kalveren van deze dieren die op dit bedrijf aanwezig zijn;  
+
+– *vleeskuiken:* dier van de soort Gallus gallus dat wordt gehouden op een bedrijf dat pluimvee houdt met het oog op de productie van vlees.    
+
+### 2  
+
+####Reikwijdte aanwijzing antimicrobiële diergeneesmiddelen
+
+De aanwijzing van antimicrobiële diergeneesmiddelen, bedoeld in bijlage 1, vijfde onderdeel, subonderdeel k, is van toepassing op: 
+
+a. een houder die meer dan 5 varkens, meer dan 5 vleeskalveren, meer dan 5 melkveerunderen of meer dan 250 vleeskuikens houdt, voor zover met betrekking tot die dieren wordt voldaan aan de voorwaarden, bedoeld in de onderdelen 3 tot en met 8 van deze bijlage;  
+
+b. een houder die dieren, anders dan de dieren, bedoeld in onderdeel a, houdt, voor zover de houder van het dier waarbij het antimicrobiële diergeneesmiddel wordt toegepast handelt overeenkomstig het behandeladvies van de dierenarts.    
+
+### 3  
+
+####Overeenkomst dierhouder en dierenarts
+
+1. Er is een schriftelijke overeenkomst tussen de houder en een dierenarts, met dien verstande dat de houder per diersoort één overeenkomst met een dierenarts kan sluiten.  
+
+2. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de onderdelen 4, 5, eerste en tweede lid en 6, eerste lid, opgenomen.  
+
+3. De houder en dierenarts handelen overeenkomstig het bepaalde in de overeenkomst.    
+
+### 4  
+
+####Diergeneeskundige zorg
+
+De houder: 
+
+a. neemt alle diergeneeskundige zorg die ingevolge het bepaalde bij of krachtens artikel 4.1 van de wet uitsluitend door een dierenarts wordt uitgevoerd, af van de dierenarts met wie hij de overeenkomst sluit, met uitzondering van die gevallen waarin: 
+
+1°. een diergeneeskundige noodzaak vereist dat hiervan wordt afgeweken;  
+
+2°. een dierenarts bij de uitvoering van de overeenkomst en na instemming van de houder zich laat bijstaan door een andere dierenarts met specifieke kundigheid, expertise of ervaring.    
+
+b. verschaft de dierenarts toegang tot alle ruimten waar de houder dieren houdt waar de overeenkomst betrekking op heeft;  
+
+c. verschaft de dierenarts inzage in de administratie, bedoeld in artikel 9A.8.    
+
+### 5  
+
+####Regelmatig bedrijfsbezoek
+
+1. De veehouder vraagt de dierenarts waarmee hij een overeenkomst heeft gesloten regelmatig een bezoek op zijn bedrijf af te leggen.  
+
+2. De dierenarts: 
+
+a. brengt regelmatig een bezoek aan het bedrijf van de houder waarmee hij een overeenkomst heeft gesloten;  
+
+b. maakt een verslag van elk bezoek, bedoeld in onderdeel a.    
+
+3. Een bezoek als bedoeld in het eerste en tweede lid, bestaat ten minste uit: 
+
+a. het beoordelen van de algehele gezondheidstoestand van de dieren waarop de overeenkomst betrekking heeft;  
+
+b. het evalueren van het gebruik van antimicrobiële middelen.    
+
+4. Een bezoek als bedoeld in het eerste en tweede lid, vindt ten minste overeenkomstig de volgende frequentie plaats: 
+
+a. voor vleeskuikens eenmaal per ronde dat een koppel wordt opgezet;  
+
+b. voor varkens eenmaal per maand;  
+
+c. voor vleeskalveren of melkveerunderen eenmaal per drie maanden.    
+
+5. In afwijking van het vierde lid, kan het bezoek voor melkveerunderen eenmaal per zes maanden plaatsvinden, mits in de tussenliggende periode een beoordeling en een evaluatie als bedoeld in het derde lid, onderdelen a respectievelijk b, plaatsvindt en hiervan een verslag wordt gemaakt.  
+
+6. De houder bewaart de verslagen, bedoeld in het tweede lid, onderdeel b, en het vijfde lid, gedurende vijf jaar op zijn bedrijf.    
+
+### 6  
+
+####Bedrijfsdossier
+
+1. De houder en de dierenarts handelen met betrekking tot alle diergeneeskundige zorg overeenkomstig een bedrijfsdossier, met uitzondering van die gevallen waarin een diergeneeskundige noodzaak vereist dat hiervan wordt afgeweken.  
+
+2. De dierenarts stelt het bedrijfsdossier op, in overleg met de houder.  
+
+3. De houder bewaart het bedrijfsdossier gedurende vijf jaar op zijn bedrijf.  
+
+4. Het bedrijfsdossier bestaat ten minste uit: 
+
+a. een analyse van de diergezondheidssituatie en de toepassing van diergeneesmiddelen op het bedrijf gedurende het voorgaande jaar;  
+
+b. een overzicht van de te nemen maatregelen ter verbetering van de diergezondheidssituatie op het bedrijf, waaronder in ieder geval maatregelen gericht op het verminderen van de toepassing van antimicrobiële middelen op het bedrijf, waaraan een reductiedoelstelling en een uitvoeringstermijn worden verbonden;  
+
+c. een bedrijfsspecifiek overzicht van aandoeningen en ziektes bij door de houder gehouden dieren waar de overeenkomst betrekking op heeft, waarbij is weergegeven op welke wijze de aandoeningen en ziektes worden behandeld;  
+
+d. een beschrijving van de voorziening voor noodzakelijke vervanging van de dierenarts.    
+
+5. In het bedrijfsdossier is met betrekking tot antimicrobiële middelen in ieder geval opgenomen dat: 
+
+a. de dierenarts uitsluitend op basis van een klinische inspectie van de te behandelen dieren en de op grond daarvan gestelde diagnose antimicrobiële middelen aflevert waarmee deze dieren overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden;  
+
+b. de dierenarts antimicrobiële middelen aflevert en de houder en de dierenarts antimicrobiële middelen toepassen overeenkomstig de geldende goede veterinaire praktijken, waaronder gidsen voor goede praktijken als bedoeld in artikel 8.44 van de wet;  
+
+c. de houder en de dierenarts afspraken maken over het volgen van de te behandelen dieren tijdens de behandeling.    
+
+6. In afwijking van het vijfde lid, onderdeel a, kan in het bedrijfsdossier worden opgenomen dat de dierenarts ter behandeling van in het bedrijfsdossier genoemde aandoeningen of ziekten antimicrobiële middelen af kan leveren en dat de houder bij deze aandoeningen of ziekten zelf kan overgaan tot individuele behandeling van de dieren met deze middelen. Dit betreft slechts antimicrobiële middelen die ingevolge de goede veterinaire praktijken, waaronder gidsen voor goede praktijken als bedoeld in artikel 8.44 van de wet, 
+
+a. als middel van eerste keuze zijn aangemerkt;  
+
+b. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van mastitis bij melkveerunderen;  
+
+c. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van diarree bij pasgeboren melkveerunderen mits: 
+
+1°. het middel dient ter behandeling van pasgeboren melkveerunderen die direct contact hebben gehad met zieke melkveerunderen of melkveerunderen die worden geboren in de twee weken na aflevering van het middel;  
+
+2°. de dierenarts in een periode van 14 dagen voorafgaand aan de toepassing van het middel, het bedrijf heeft bezocht en heeft geconstateerd dat behandeling van dieren met een middel van de tweede keus noodzakelijk is;  
+
+3°. de dierenarts een schriftelijke instructie inzake het gebruik van het middel achterlaat, waarin in ieder geval de mogelijk te behandelende dieren ondubbelzinnig geïdentificeerd worden, dan wel het moederdier indien het een ongeboren dier betreft;  
+
+4°. in het bedrijfsdossier maatregelen zijn opgenomen om de uitbraak te bestrijden en herhaling te voorkomen;    
+
+d. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van luchtwegaandoeningen, enteritis of artritis bij vleeskalveren mits voldaan wordt aan de voorwaarden, opgenomen in onderdeel c, onder 2°, 3° en 4°;  
+
+e. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van neonatale diarree door E. coli, speendiarree door E. coli en meningo-encephalitis door Streptococcus suis bij varkens mits voldaan wordt aan de voorwaarden, opgenomen in onderdeel c, onder 2°, 3° en 4°.    
+
+7. Op het bedrijf van de houder mogen niet meer antimicrobiële middelen aanwezig zijn dan de hoeveelheid: 
+
+a. afgeleverd overeenkomstig het vijfde lid, onderdeel a, ten behoeve van het voltooien van een behandeling, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
+
+b. afgeleverd overeenkomstig het zesde lid, onderdeel a of b, waarmee 15% van de op het bedrijf aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
+
+c. afgeleverd overeenkomstig het zesde lid, onderdeel c of e, waarmee het aantal door de dierenarts als mogelijk te behandelen geïdentificeerde, op het bedrijf aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
+
+d. afgeleverd overeenkomstig het zesde lid, onderdeel d, waarmee 5% van de in een stal aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking.    
+
+8. Antimicrobiële middelen, afgeleverd, overeenkomstig het zesde lid, onderdeel c, d of e, mogen niet langer op het bedrijf van de houder aanwezig zijn dan een periode van 14 dagen nadat de dierenarts het bedrijf heeft bezocht en heeft geconstateerd dat behandeling van de dieren noodzakelijk is.  
+
+9. De dierenarts evalueert, in overleg met de houder het bedrijfsdossier ten minste jaarlijks en stelt dit, indien nodig, bij. Een verslag van de evaluatie wordt door de houder en de dierenarts ondertekend. Het verslag vormt een onderdeel van het bedrijfsdossier.  
+
+10. Op houders die minder dan 25 varkens, minder dan 25 vleeskalveren of minder dan 25 melkveerunderen houden is het zesde lid van toepassing met dien verstande dat: 
+
+a. de verplichting in het vierde lid, aanhef en onderdeel c niet van toepassing is;  
+
+b. van de mogelijkheid van het zesde lid gebruik gemaakt kan worden zonder opname daarvan in een bedrijfsdossier en zonder dat er sprake is van behandeling van de in een bedrijfsdossier genoemde aandoeningen of ziekten;   voor zover geen van de door de houder gehouden dieren waarop de overeenkomst betrekking heeft afkomstige producten in de handel worden gebracht en, al dan niet na verwerking, voor humane consumptie worden gebruikt.    
+
+### 7  
+
+####Beëindiging van de overeenkomst
+
+1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in onderdeel 5, tweede lid, onderdeel b, en vijfde lid, en het bedrijfsdossier, bedoeld in onderdeel 6, ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.  
+
+2. De reden van het opzeggen van de overeenkomst wordt door de dierenarts waarmee de overeenkomst eindigt, in het bedrijfsdossier vermeld.    
+
+### 8  
+
+####Melding van de overeenkomst
+
+De dierenarts doet binnen tien werkdagen na het sluiten of eindigen van de overeenkomst bij de minister melding van de volgende gegevens: 
+
+a. de naam van de houder en het UBN van zijn bedrijf;  
+
+b. de naam van de dierenarts en het nummer waaronder hij is opgenomen in het register, bedoeld in artikel 4.3, eerste lid, van de wet.    
+
+### 9  
+
+####Overgangstermijn gebruik tweede keus middelen
+
+Met ingang van 1 maart 2016 wordt deze bijlage als volgt gewijzigd: 
+
+1. onder vervanging van de puntkomma aan het eind van onderdeel 6, zesde lid, onderdeel b, door een punt, vervallen de onderdelen c, d en e;  
+
+2. onder vervanging van de puntkomma aan het eind van onderdeel 6, zevende lid, onderdeel b, door een punt, vervallen de onderdelen c en d;  
+
+3. het achtste lid van onderdeel 6 vervalt.    
+

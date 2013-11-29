@@ -13,55 +13,55 @@ Besluit:
 
 ####Valuta
 
-De tarieven zijn weergegeven in euro en exclusief BTW.  
+De tarieven zijn weergegeven in euro en exclusief BTW. 
 
 ### Artikel  1.2  
 
 ####Tarieven [Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) worden door de Minister van Infrastructuur en Milieu vastgesteld in de [Regeling tarieven scheepvaart 2005](../../../../../../../../ministeriele-regeling/regeling/tarieven/scheepvaart/2005/BWBR0017739/README.md) en zijn vermeld in bijlage I.  
+Tarieven van producten die hun grondslag vinden in de [Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) worden door de Minister van Infrastructuur en Milieu vastgesteld in de [Regeling tarieven scheepvaart 2005](../../../../../../../../ministeriele-regeling/regeling/tarieven/scheepvaart/2005/BWBR0017739/README.md) en zijn vermeld in bijlage I. 
 
 ### Artikel  1.3  
 
 ####Tarieven [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage II.  
+Tarieven van producten die hun grondslag vinden in de [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage II. 
 
 ### Artikel  1.4  
 
 ####Tarieven [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden door de Minister van Infrastructuur en Milieu vastgesteld in de [Regeling tarieven luchtvaart 2008](../../../../../../../../ministeriele-regeling/regeling/tarieven/luchtvaart/2008/BWBR0023145/README.md) en zijn vermeld in bijlage III.  
+Tarieven van producten die hun grondslag vinden in de [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden door de Minister van Infrastructuur en Milieu vastgesteld in de [Regeling tarieven luchtvaart 2008](../../../../../../../../ministeriele-regeling/regeling/tarieven/luchtvaart/2008/BWBR0023145/README.md) en zijn vermeld in bijlage III. 
 
 ### Artikel  1.5  
 
 ####Tarieven [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn vermeld in bijlage IV.  
+Tarieven van producten die hun grondslag vinden in de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn vermeld in bijlage IV. 
 
 ### Artikel  1.6  
 
 ####Tarieven [Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Wet Personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage V.  
+Tarieven van producten die hun grondslag vinden in de [Wet Personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage V. 
 
 ### Artikel  1.7  
 
-#### [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) 
+####[Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage VI.  
+Tarieven van producten die hun grondslag vinden in de [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage VI. 
 
 ### Artikel  1.8  
 
-#### [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) 
+####[Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage VII.  
+Tarieven van producten die hun grondslag vinden in de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en niet geregeld zijn in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage VII. 
 
 ### Artikel  1.9  
 
 ####Tarieven [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md)
 
-Tarieven van producten die hun grondslag vinden in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage VIII.  
+Tarieven van producten die hun grondslag vinden in de [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md) zijn vermeld in bijlage VIII. 
 
 ### Hoofdstuk  2  
 
@@ -71,25 +71,25 @@ Tarieven van producten die hun grondslag vinden in de [Regeling taken Centraal B
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  2.2  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2013.  
+Deze regeling wordt aangehaald als: Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2013. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 Centraal Bureau Rijvaardigheidsbewijzen 
 S.M. Zijderveld,  
-algemeen directeur.  
+algemeen directeur. 
 
 R.A.L. Verstraeten,  
-financieel directeur.   
+financieel directeur.  
 
-### Bijlage  I  
+### Bijlage I 
 
-####bij artikel 1.2  Tarieven [Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md)
+#### bij artikel 1.2  Tarieven [Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md)
 
 De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de [Regeling tarieven scheepvaart 2005](../../../../../../../../ministeriele-regeling/regeling/tarieven/scheepvaart/2005/BWBR0017739/README.md) en luiden als volgt:  
 
@@ -160,9 +160,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Duplicaat diploma  | € 18,50  |
 | Op voorhand keuren van vaartijd  | € 18,50  |
 
-### Bijlage  II  
+### Bijlage II 
 
-####bij artikel 1.3  Tarieven [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)
+#### bij artikel 1.3  Tarieven [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)
 
 | --- | --- |
 |:---|:---|
@@ -260,8 +260,8 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Vakbekwaamheid ROC modules  | € 15,10  |
 | --- | --- |
 |  *(*) Aangepast tarief geldig voor*   | --- |
-| – *de certificering van een herhalingscursus wanneer de initiële cursus reeds gecertificeerd is of wanneer deze gelijktijdig worden aangevraagd. Dit geldt ook vice versa*  | --- |
-| – *de certificering van een opgeknipte nascholingscursus wanneer de volledige cursus reeds gecertificeerd is of wanneer deze gelijktijdig worden aangevraagd*  | € 71,85  |
+| – *de certificering van een herhalingscursus wanneer de initiële cursus reeds gecertificeerd is of wanneer deze gelijktijdig worden aangevraagd. Dit geldt ook vice versa*   | --- |
+| – *de certificering van een opgeknipte nascholingscursus wanneer de volledige cursus reeds gecertificeerd is of wanneer deze gelijktijdig worden aangevraagd*   | € 71,85  |
 | --- | --- |
 |  *Overig*   | --- |
 | Toeslag Spoedbehandeling C, D, E bij C of E bij D  | € 17,00  |
@@ -273,9 +273,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Administratiekosten aanvraag duplicaat diploma, certificaat, bewijs van afgifte t.b.v. chauffeursdiploma, omwisselcertificaat/deelcertificaat voor basiskwalificatie/nascholing  | € 18,50  |
 | Locatiekeuring inzake examens op locatie  | € 141,65  |
 
-### Bijlage  III  
+### Bijlage III 
 
-####bij artikel 1.4  Tarieven [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)
+#### bij artikel 1.4  Tarieven [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)
 
 De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de [Regeling tarieven luchtvaart 2008](../../../../../../../../ministeriele-regeling/regeling/tarieven/luchtvaart/2008/BWBR0023145/README.md) en luiden als volgt:  
 
@@ -287,9 +287,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Examen PPL (A/H)  | € 97,00  |
 | Examen CPL (FB)  | € 97,00  |
 
-### Bijlage  IV  
+### Bijlage IV 
 
-####bij artikel 1.5  Tarieven [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)
+#### bij artikel 1.5  Tarieven [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)
 
 | --- | --- |
 |:---|:---|
@@ -299,9 +299,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Administratiekosten  | € 17,00  |
 | Administratiekosten aanvraag duplicaat diploma of certificaat en vrijstellingsverzoeken  | € 18,50  |
 
-### Bijlage  V  
+### Bijlage V 
 
-####bij artikel 1.6  Tarieven [Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)
+#### bij artikel 1.6  Tarieven [Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)
 
 | --- | --- |
 |:---|:---|
@@ -328,9 +328,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Administratiekosten  | € 17,00  |
 | Administratiekosten aanvraag duplicaat diploma of certificaat en vrijstellingsverzoeken  | € 18,50  |
 
-### Bijlage  VI  
+### Bijlage VI 
 
-####bij artikel 1.7  Tarieven [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)
+#### bij artikel 1.7  Tarieven [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)
 
 | --- | --- |
 |:---|:---|
@@ -361,9 +361,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Administratiekosten  | € 17,00  |
 | Administratiekosten aanvraag duplicaat diploma  | € 18,50  |
 
-### Bijlage  VII  
+### Bijlage VII 
 
-####bij artikel 1.8  Tarieven [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)
+#### bij artikel 1.8  Tarieven [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)
 
 | --- | --- |
 |:---|:---|
@@ -374,7 +374,7 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Wegvervoer Goederen  | € 128,85  |
 | Calculatie  | € 80,15  |
 | Financieel Management  | € 80,15  |
-| Vrijstelling ondernemersexamen  | € 18,50  |
+|  Vrijstelling ondernemersexamen  | € 18,50  |
 | Inzage examens meerkeuzevragen  | € 18,50  |
 | Inzage examens open vragen  | € 28,00  |
 | Individueel (voorlees) examen Calculatie  | € 160,35  |
@@ -388,9 +388,9 @@ De tarieven zijn door de Minister van Infrastructuur en Milieu vastgesteld in de
 | Administratiekosten  | € 17,00  |
 | Administratiekosten aanvraag duplicaat diploma of certificaat en vrijstellingsverzoeken  | € 18,50  |
 
-### Bijlage  VIII  
+### Bijlage VIII 
 
-####bij artikel 1.9  Tarieven [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md)
+#### bij artikel 1.9  Tarieven [Regeling taken Centraal Bureau Rijvaardigheidsbewijzen](../../../../../../../../ministeriele-regeling/regeling/taken/centraal/bureau/rijvaardigheidsbewijzen/BWBR0032377/README.md)
 
 | --- | --- |
 |:---|:---|

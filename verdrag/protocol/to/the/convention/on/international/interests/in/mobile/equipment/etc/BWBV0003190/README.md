@@ -4,10 +4,10 @@
 
 ####Protocol to the Convention on International Interests in Mobile Equipment on matters specific to aircraft equipment
 
-The states parties to this protocol, Considering it necessary to implement the *Convention on International Interests in Mobile Equipment* (hereinafter referred to as “the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) ”) as it relates to aircraft equipment, in the light of the purposes set out in the preamble to the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), Mindful of the need to adapt the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) to meet the particular requirements of aircraft finance and to extend the sphere of application of the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) to include contracts of sale of aircraft equipment, Mindful of the principles and objectives of the *Convention on International Civil Aviation*, signed at Chicago on 7 December 1944,   Have agreed upon the following provisions relating to aircraft equipment:     
+The states parties to this protocol, Considering it necessary to implement the *Convention on International Interests in Mobile Equipment* (hereinafter referred to as “the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)”) as it relates to aircraft equipment, in the light of the purposes set out in the preamble to the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), Mindful of the need to adapt the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) to meet the particular requirements of aircraft finance and to extend the sphere of application of the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) to include contracts of sale of aircraft equipment, Mindful of the principles and objectives of the *Convention on International Civil Aviation*, signed at Chicago on 7 December 1944,   Have agreed upon the following provisions relating to aircraft equipment:     
 ### CHAPTER  I  
 
-####SPHERE OF APPLICATION AND GENERAL PROVISIONS
+####SPHERE OF APPLICATION AND GENERAL PROVISIONS 
 
 ### Article  I  
 
@@ -62,14 +62,14 @@ n) “primary insolvency jurisdiction” means the Contracting State in which th
 
 o) “registry authority” means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention; and  
 
-p) “State of registry” means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register.     
+p) “State of registry” means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register.    
 
 ### Article  II  
 
 ####Application of [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) as regards aircraft objects
 
 1.  The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall apply in relation to aircraft objects as provided by the terms of this Protocol.   
-2.  The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.   
+2.  The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.  
 
 ### Article  III  
 
@@ -81,7 +81,7 @@ The following provisions of the [Convention](../../../../../../../../../../../..
 
 ####Sphere of application
 
-1.  Without prejudice to [Article 3(1) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall also apply in relationto a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.   
+1.  Without prejudice to [Article 3(1) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.   
 2.  For the purposes of the definition of “internal transaction” in [Article 1 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md): 
 
 a) an airframe is located in the State of registry of the aircraft of which it is a part;  
@@ -89,7 +89,7 @@ a) an airframe is located in the State of registry of the aircraft of which it i
 b) an aircraft engine is located in the State of registry of the aircraft on which it is installed or, if it is not installed on an aircraft, where it is physically located; and  
 
 c) a helicopter is located in its State of registry, at the time of the conclusion of the agreement creating or providing for the interest.     
-3.  The parties may, by agreement in writing, exclude the application of Article XI and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except Article IX (2)-(4).   
+3.  The parties may, by agreement in writing, exclude the application of Article XI and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except Article IX (2)-(4).  
 
 ### Article  V  
 
@@ -103,19 +103,19 @@ b) relates to an aircraft object of which the seller has power to dispose; and
 
 c) enables the aircraft object to be identified in conformity with this Protocol.     
 2.  A contract of sale transfers the interest of the seller in the aircraft object to the buyer according to its terms.   
-3.  Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.   
+3.  Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.  
 
 ### Article  VI  
 
 ####Representative capacities
 
-A person may enter into an agreement or a sale, and register an international interest in, or a sale of, an aircraft object, in an agency, trust or other representative capacity. In such case, that person is entitled to assert rights and interests under the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).  
+A person may enter into an agreement or a sale, and register an international interest in, or a sale of, an aircraft object, in an agency, trust or other representative capacity. In such case, that person is entitled to assert rights and interests under the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md). 
 
 ### Article  VII  
 
 ####Description of aircraft objects
 
-A description of an aircraft object that contains its manufacturer’s serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the object for the purposes of [Article 7(c) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and Article V(1)(c) of this Protocol.  
+A description of an aircraft object that contains its manufacturer’s serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the object for the purposes of [Article 7(c) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and Article V(1)(c) of this Protocol. 
 
 ### Article  VIII  
 
@@ -123,11 +123,11 @@ A description of an aircraft object that contains its manufacturer’s serial nu
 
 1.  This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).   
 2.  The parties to an agreement, or a contract of sale, or a related guarantee contract or subordination agreement may agree on the law which is to govern their contractual rights and obligations, wholly or in part.   
-3.  Unless otherwise agreed, the reference in the preceding paragraph to the law chosen by the parties is to the domestic rules of law of the designated State or, where that State comprises several territorial units, to the domestic law of the designated territorial unit.   
+3.  Unless otherwise agreed, the reference in the preceding paragraph to the law chosen by the parties is to the domestic rules of law of the designated State or, where that State comprises several territorial units, to the domestic law of the designated territorial unit.  
 
 ### CHAPTER  II  
 
-####DEFAULT REMEDIES, PRIORITIES AND ASSIGNMENTS
+####DEFAULT REMEDIES, PRIORITIES AND ASSIGNMENTS 
 
 ### Article  IX  
 
@@ -150,17 +150,17 @@ b) the authorised party certifies to the registry authority, if required by that
 
 a) interested persons specified in [Article 1(m)(i) and (ii) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); and  
 
-b) interested persons specified in [Article 1(m)(iii) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.     
+b) interested persons specified in [Article 1(m)(iii) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.    
 
 ### Article  X  
 
-####Modification of provisionsregarding relief pending final determination
+####Modification of provisions regarding relief pending final determination
 
 1.  This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.   
 2.  For the purposes of [Article 13(1) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), “speedy” in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.   
 3.  [Article 13(1) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) applies with the following being added immediately after sub-paragraph (d): 
 
-“(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,   and [Article 43(2)](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) applies with the insertion after the words “ [Article 13(1)(d)](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) ” of the words “and (e)”.   
+“(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,   and [Article 43(2)](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) applies with the insertion after the words “[Article 13(1)(d)](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)” of the words “and (e)”.   
 4.  Ownership or any other interest of the debtor passing on a sale under the preceding paragraph is free from any other interest over which the creditor’s international interest has priority under the provisions of [Article 29 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).   
 5.  The creditor and the debtor or any other interested person may agree in writing to exclude the application of [Article 13(2) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).   
 6.  With regard to the remedies in Article IX(1): 
@@ -168,7 +168,7 @@ b) interested persons specified in [Article 1(m)(iii) of the Convention](../../.
 a) they shall be made available by the registry authority and other administrative authorities, as applicable, in a Contracting State no later than five working days after the creditor notifies such authorities that the relief specified in Article IX(1) is granted or, in the case of relief granted by a foreign court, recognised by a court of that Contracting State, and that the creditor is entitled to procure those remedies in accordance with the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); and  
 
 b) the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.     
-7.  Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.   
+7.  Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.  
 
 ### Article  XI  
 
@@ -211,14 +211,14 @@ b) give the creditor the opportunity to take possession of the aircraft object, 
 3.  The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.   
 4.  The creditor shall provide evidence of its claims and proof that its international interest has been registered.   
 5.  If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2, or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.   
-6.  The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.   
+6.  The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.  
 
 ### Article  XII  
 
 ####Insolvency assistance
 
 1.  This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).   
-2.  The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article XI.   
+2.  The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article XI.  
 
 ### Article  XIII  
 
@@ -227,7 +227,7 @@ b) give the creditor the opportunity to take possession of the aircraft object, 
 1.  This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).   
 2.  Where the debtor has issued an irrevocable de-registration and export request authorisation substantially in the form annexed to this Protocol and has submitted such authorisation for recordation to the registry authority, that authorisation shall be so recorded.   
 3.  The person in whose favour the authorisation has been issued (the “authorised party”) or its certified designee shall be the sole person entitled to exercise the remedies specified in Article IX(1) and may do so only in accordance with the authorisation and applicable aviation safety laws and regulations. Such authorisation may not be revoked by the debtor without the consent in writing of the authorised party. The registry authority shall remove an authorisation from the registry at the request of the authorised party.   
-4.  The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in Article IX.   
+4.  The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in Article IX.  
 
 ### Article  XIV  
 
@@ -236,7 +236,7 @@ b) give the creditor the opportunity to take possession of the aircraft object, 
 1.  A buyer of an aircraft object under a registered sale acquires its interest in that object free from an interest subsequently registered and from an unregistered interest, even if the buyer has actual knowledge of the unregistered interest.   
 2.  A buyer of an aircraft object acquires its interest in that object subject to an interest registered at the time of its acquisition.   
 3.  Ownership of or another right or interest in an aircraft engine shall not be affected by its installation on or removal from an aircraft.   
-4.  [Article 29(7) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.   
+4.  [Article 29(7) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.  
 
 ### Article  XV  
 
@@ -244,7 +244,7 @@ b) give the creditor the opportunity to take possession of the aircraft object, 
 
 [Article 33(1) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) applies as if the following were added immediately after sub-paragraph (b): 
 
-“and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.”    
+“and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.”   
 
 ### Article  XVI  
 
@@ -255,11 +255,11 @@ b) give the creditor the opportunity to take possession of the aircraft object, 
 a) its creditor and the holder of any interest from which the debtor takes free pursuant to [Article 29(4) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) or, in the capacity of buyer, Article XIV(1) of this Protocol, unless and to the extent that the debtor has otherwise agreed; and  
 
 b) the holder of any interest to which the debtor’s right or interest is subject pursuant to [Article 29(4) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) or, in the capacity of buyer, Article XIV(2) of this Protocol, but only to the extent, if any, that such holder has agreed.     
-2.  Nothing in the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) or this Protocol affects the liability of a creditor for any breach of the agreement under the applicable law in so far as that agreement relates to an aircraft object.   
+2.  Nothing in the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) or this Protocol affects the liability of a creditor for any breach of the agreement under the applicable law in so far as that agreement relates to an aircraft object.  
 
 ### CHAPTER  III  
 
-####REGISTRY PROVISIONS RELATING TO INTERNATIONAL INTERESTS IN AIRCRAFT OBJECTS
+####REGISTRY PROVISIONS RELATING TO INTERNATIONAL INTERESTS IN AIRCRAFT OBJECTS 
 
 ### Article  XVII  
 
@@ -269,20 +269,20 @@ b) the holder of any interest to which the debtor’s right or interest is subje
 2.  Where the international entity referred to in the preceding paragraph is not able and willing to act as Supervisory Authority, a Conference of Signatory and Contracting States shall be convened to designate another Supervisory Authority.   
 3.  The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.   
 4.  The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.   
-5.  The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.   
+5.  The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.  
 
 ### Article  XVIII  
 
 ####First regulations
 
-The first regulations shall be made by the Supervisory Authority so as to take effect upon the entry into force of this Protocol.  
+The first regulations shall be made by the Supervisory Authority so as to take effect upon the entry into force of this Protocol. 
 
 ### Article  XIX  
 
 ####Designated entry points
 
 1.  Subject to paragraph 2, a Contracting State may at any time designate an entity or entities in its territory as the entry point or entry points through which there shall or may be transmitted to the International Registry information required for registration other than registration of a notice of a national interest or a right or interest under [Article 40](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) in either case arising under the laws of another State.   
-2.  A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.   
+2.  A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.  
 
 ### Article  XX  
 
@@ -293,7 +293,7 @@ The first regulations shall be made by the Supervisory Authority so as to take e
 3.  The fees referred to in [Article 17(2)(h) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by [Article 17(2) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).   
 4.  The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.   
 5.  The amount of the insurance or financial guarantee referred to in [Article 28(4) of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall, in respect of each event, not be less than the maximum value of an aircraft object as determined by the Supervisory Authority.   
-6.  Nothing in the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under [Article 28 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).   
+6.  Nothing in the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under [Article 28 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).  
 
 ### CHAPTER  IV  
 
@@ -303,41 +303,41 @@ The first regulations shall be made by the Supervisory Authority so as to take e
 
 ####Modification of jurisdiction provisions
 
-For the purposes of [Article 43 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and subject to [Article 42 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), a court of a Contracting State also has jurisdiction where the object is a helicopter, or an airframe pertaining to an aircraft, for which that State is the State of registry.  
+For the purposes of [Article 43 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and subject to [Article 42 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), a court of a Contracting State also has jurisdiction where the object is a helicopter, or an airframe pertaining to an aircraft, for which that State is the State of registry. 
 
 ### Article  XXII  
 
 ####Waivers of sovereign immunity
 
 1.  Subject to paragraph 2, a waiver of sovereign immunity from jurisdiction of the courts specified in [Article 42](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) or [Article 43 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) or relating to enforcement of rights and interests relating to an aircraft object under the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall be binding and, if the other conditions to such jurisdiction or enforcement have been satisfied, shall be effective to confer jurisdiction and permit enforcement, as the case may be.   
-2.  A waiver under the preceding paragraph must be in writing and contain a description of the aircraft object.   
+2.  A waiver under the preceding paragraph must be in writing and contain a description of the aircraft object.  
 
 ### CHAPTER  V  
 
-####RELATIONSHIP WITH OTHER CONVENTIONS
+####RELATIONSHIP WITH OTHER CONVENTIONS 
 
 ### Article  XXIII  
 
 ####Relationship with the Convention on the International Recognition of Rights in Aircraft
 
-The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall, for a Contracting State that is a party to the *Convention on the International Recognition of Rights in Aircraft*, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), the Geneva Convention shall not be superseded.  
+The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall, for a Contracting State that is a party to the *Convention on the International Recognition of Rights in Aircraft*, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), the Geneva Convention shall not be superseded. 
 
 ### Article  XXIV  
 
 ####Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
 1.  The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall, for a Contracting State that is a Party to the *Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft*, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.   
-2.  A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.   
+2.  A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.  
 
 ### Article  XXV  
 
 ####Relationship with the UNIDROIT Convention on International Financial Leasing
 
-The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall supersede the *Unidroit Convention on International Financial Leasing*, signed at Ottawa on 28 May 1988, as it relates to aircraft objects.  
+The [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) shall supersede the *Unidroit Convention on International Financial Leasing*, signed at Ottawa on 28 May 1988, as it relates to aircraft objects. 
 
 ### CHAPTER  VI  
 
-####FINAL PROVISIONS
+####FINAL PROVISIONS 
 
 ### Article  XXVI  
 
@@ -347,7 +347,7 @@ The [Convention](../../../../../../../../../../../../../verdrag/convention/on/in
 2.  This Protocol shall be subject to ratification, acceptance or approval by States which have signed it.   
 3.  Any State which does not sign this Protocol may accede to it at any time.   
 4.  Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.   
-5.  A State may not become a Party to this Protocol unless it is or becomes also a Party to the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).   
+5.  A State may not become a Party to this Protocol unless it is or becomes also a Party to the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).  
 
 ### Article  XXVII  
 
@@ -355,14 +355,14 @@ The [Convention](../../../../../../../../../../../../../verdrag/convention/on/in
 
 1.  A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Protocol may similarly sign, accept, approve or accede to this Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Protocol. Where the number of Contracting States is relevant in this Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.   
 2.  The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Protocol in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.   
-3.  Any reference to a “Contracting State” or “Contracting States” or “State Party” or “States Parties” in this Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.   
+3.  Any reference to a “Contracting State” or “Contracting States” or “State Party” or “States Parties” in this Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.  
 
 ### Article  XXVIII  
 
 ####Entry into force
 
 1.  This Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of the eighth instrument of ratification, acceptance, approval or accession, between the States which have deposited such instruments.   
-2.  For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.   
+2.  For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.  
 
 ### Article  XXIX  
 
@@ -378,7 +378,7 @@ a) the debtor is considered to be situated in a Contracting State only if it is 
 
 b) any reference to the location of the object in a Contracting State refers to the location of the object in a territorial unit to which the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol apply; and  
 
-c) any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol apply and any reference to the national egister or to the registry authority in that Contracting State shall be construed as referring to the aircraft register in force or to the registry authority having jurisdiction in the territorial unit or units to which the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol apply.     
+c) any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol apply and any reference to the national egister or to the registry authority in that Contracting State shall be construed as referring to the aircraft register in force or to the registry authority having jurisdiction in the territorial unit or units to which the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and this Protocol apply.    
 
 ### Article  XXX  
 
@@ -388,20 +388,20 @@ c) any reference to the administrative authorities in that Contracting State sha
 2.  A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply Article X of this Protocol, wholly or in part. If it so declares with respect to Article X(2), it shall specify the time-period required thereby.   
 3.  A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of Alternative A, or the entirety of Alternative B of Article XI and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting State making a declaration pursuant to this paragraph shall specify the time-period required by Article XI.   
 4.  The courts of Contracting States shall apply Article XI in conformity with the declaration made by the Contracting State which is the primary insolvency jurisdiction.   
-5.  A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of Article XXI, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.   
+5.  A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of Article XXI, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.  
 
 ### Article  XXXI  
 
 ####Declarations under the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)
 
-Declarations made under the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), including those made under [Articles 39](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [40](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [50](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [53](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [54](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [55](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [57](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [58](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and [60 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), shall be deemed to have also been made under this Protocol unless stated otherwise.  
+Declarations made under the [Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), including those made under [Articles 39](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [40](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [50](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [53](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [54](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [55](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [57](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [58](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) and [60 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), shall be deemed to have also been made under this Protocol unless stated otherwise. 
 
 ### Article  XXXII  
 
 ####Reservations and declarations
 
 1.  No reservations may be made to this Protocol but declarations authorised by Articles XXIV, XXIX, XXX, XXXI, XXXIII and XXXIV may be made in accordance with these provisions.   
-2.  Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.   
+2.  Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.  
 
 ### Article  XXXIII  
 
@@ -409,14 +409,14 @@ Declarations made under the [Convention](../../../../../../../../../../../../../
 
 1.  A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under [Article 60 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.   
 2.  Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.   
-3.  Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.   
+3.  Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.  
 
 ### Article  XXXIV  
 
 ####Withdrawal of declarations
 
 1.  Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with Article XXXI under [Article 60 of the Convention](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.   
-2.  Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.   
+2.  Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.  
 
 ### Article  XXXV  
 
@@ -424,7 +424,7 @@ Declarations made under the [Convention](../../../../../../../../../../../../../
 
 1.  Any State Party may denounce this Protocol by notification in writing to the Depositary.   
 2.  Any such denunciation shall take effect on the first day of the month following the expiration of twelve months after the date of receipt of the notification by the Depositary.   
-3.  Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.   
+3.  Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.  
 
 ### Article  XXXVI  
 
@@ -440,7 +440,7 @@ b) the judicial interpretation given to, and the application made of the terms o
 c) the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; and  
 
 d) whether any modifications to this Protocol or the arrangements relating to the International Registry are desirable.     
-3.  Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIII relating to its entry into force.   
+3.  Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIII relating to its entry into force.  
 
 ### Article  XXXVII  
 
@@ -465,7 +465,7 @@ b) transmit certified true copies of this Protocol to all Contracting States;
 
 c) provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; and  
 
-d) perform such other functions customary for depositaries.     
+d) perform such other functions customary for depositaries.    
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorised, have signed this Protocol. DONE at Cape Town, this sixteenth day of November, two thousand and one, in a single original in the English, Arabic, Chinese, French, Russian and Spanish languages, all texts being equally authentic, such authenticity to take effect upon verification by the Joint Secretariat of the Conference under the authority of the President of the Conference within ninety days hereof as to the conformity of the texts with one another.  
 
@@ -475,7 +475,7 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorise
 
 Annex referred to in Article XIII   
 
-[Insert Date] To: [Insert Name of Registry Authority] Re: Irrevocable De-Registration and Export Request Authorisation The undersigned is the registered [operator] [owner] of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer’s serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”). <sup> 1)  Select the term that reflects the relevant nationality registration criterion.  </sup> This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests: 
+[Insert Date] To: [Insert Name of Registry Authority] Re: Irrevocable De-Registration and Export Request Authorisation The undersigned is the registered [operator] [owner]<sup> 1) Select the term that reflects the relevant nationality registration criterion. </sup> of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer’s serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”). This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests: 
 
 (i) recognition that the authorised party or the person it certifies as its designee is the sole person entitled to: 
 
@@ -496,10 +496,10 @@ b) procure the export and physical transfer of the aircraft from [insert name of
 
 ####Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden
 
-De Partijen bij dit Protocol, Overwegende dat het nodig is het [Verdrag inzake internationale zakelijke rechten op mobiel materieel](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (hierna te noemen „het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) ”) voor zover het betrekking heeft op luchtvaartuigmaterieel, in het licht van de in de preambule tot het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) vervatte doeleinden ten uitvoer te leggen, Indachtig de behoefte het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) aan te passen om tegemoet te komen aan de specifieke vereisten van de financiering van luchtvaartuigen en de reikwijdte van het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) uit te breiden tot verkoopcontracten van luchtvaartuigmaterieel, Indachtig de beginselen en doeleinden van het Verdrag inzake de internationale burgerluchtvaart, ondertekend te Chicago op 7 december 1944,   Zijn de volgende bepalingen met betrekking tot luchtvaartuigmaterieel overeengekomen:     
+De Partijen bij dit Protocol, Overwegende dat het nodig is het [Verdrag inzake internationale zakelijke rechten op mobiel materieel](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (hierna te noemen „het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)”) voor zover het betrekking heeft op luchtvaartuigmaterieel, in het licht van de in de preambule tot het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) vervatte doeleinden ten uitvoer te leggen, Indachtig de behoefte het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) aan te passen om tegemoet te komen aan de specifieke vereisten van de financiering van luchtvaartuigen en de reikwijdte van het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) uit te breiden tot verkoopcontracten van luchtvaartuigmaterieel, Indachtig de beginselen en doeleinden van het Verdrag inzake de internationale burgerluchtvaart, ondertekend te Chicago op 7 december 1944,   Zijn de volgende bepalingen met betrekking tot luchtvaartuigmaterieel overeengekomen:     
 ### HOOFDSTUK  I  
 
-####TOEPASSINGSBEREIK EN ALGEMENE BEPALINGEN
+####TOEPASSINGSBEREIK EN ALGEMENE BEPALINGEN 
 
 ### Artikel  I  
 
@@ -554,20 +554,20 @@ n. „primaire bevoegdheid bij insolventie”: de Verdragsluitende Staat waar he
 
 o. „registratieautoriteit”: de nationale autoriteit of de gemeenschappelijke registratieautoriteit die in een Verdragsluitende Staat een luchtvaartuigregister houdt en verantwoordelijk is voor de inschrijving en doorhaling van de inschrijving van een luchtvaartuig in overeenstemming met het Verdrag van Chicago; en  
 
-p. „Staat van inschrijving”: ten aanzien van een luchtvaartuig, de Staat in wiens nationale register een luchtvaartuig is ingeschreven of de Staat waar de gemeenschappelijke registratieautoriteit die het luchtvaartuigregister houdt, is gelegen.     
+p. „Staat van inschrijving”: ten aanzien van een luchtvaartuig, de Staat in wiens nationale register een luchtvaartuig is ingeschreven of de Staat waar de gemeenschappelijke registratieautoriteit die het luchtvaartuigregister houdt, is gelegen.    
 
 ### Artikel  II  
 
 ####Toepassing van het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) ten aanzien van luchtvaartuigzaken
 
 1.  Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is van toepassing op luchtvaartuigzaken zoals voorzien door de bepalingen van dit Protocol.   
-2.  Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol zijn bekend als het Verdrag inzake internationale zakelijke rechten op mobiel materieel zoals toegepast op luchtvaartuigzaken.   
+2.  Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol zijn bekend als het Verdrag inzake internationale zakelijke rechten op mobiel materieel zoals toegepast op luchtvaartuigzaken.  
 
 ### Artikel  III  
 
 ####Toepassing van het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) op verkopen
 
-De volgende bepalingen van het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) zijn van toepassing alsof verwijzingen naar een overeenkomst waarbij een internationaal zakelijk recht wordt gevestigd of in zo’n zakelijk recht wordt voorzien verwijzingen waren naar een verkoopcontract en alsof verwijzingen naar een internationaal zakelijk recht, een toekomstig internationaal zakelijk recht, de schuldenaar en de schuldeiser verwijzingen waren naar respectievelijk een verkoop, een toekomstige verkoop, de verkoper en de koper: de [artikelen 3](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en [4](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); [artikel 16, eerste lid, onderdeel a](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); [artikel 19, vierde lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); [artikel 20, eerste lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (ten aanzien van de inschrijving van een verkoopcontract of een toekomstige verkoop); [artikel 25, tweede lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (ten aanzien van een toekomstige verkoop); en [artikel 30](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md). Bovendien zijn de algemene bepalingen van [artikel 1](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [artikel 5](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), de [Hoofdstukken IV tot en met VII](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [artikel 29](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (anders dan [artikel 29, derde lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), dat is vervangen door artikel XIV, eerste en tweede lid), [Hoofdstuk X](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [Hoofdstuk XII](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (anders dan [artikel 43](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)), [Hoofdstuk XIII](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en [Hoofdstuk XIV](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (anders dan [artikel 60](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)) van toepassing op verkoopcontracten en toekomstige verkopen.  
+De volgende bepalingen van het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) zijn van toepassing alsof verwijzingen naar een overeenkomst waarbij een internationaal zakelijk recht wordt gevestigd of in zo’n zakelijk recht wordt voorzien verwijzingen waren naar een verkoopcontract en alsof verwijzingen naar een internationaal zakelijk recht, een toekomstig internationaal zakelijk recht, de schuldenaar en de schuldeiser verwijzingen waren naar respectievelijk een verkoop, een toekomstige verkoop, de verkoper en de koper: de [artikelen 3](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en [4](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); [artikel 16, eerste lid, onderdeel a](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); [artikel 19, vierde lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md); [artikel 20, eerste lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (ten aanzien van de inschrijving van een verkoopcontract of een toekomstige verkoop); [artikel 25, tweede lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (ten aanzien van een toekomstige verkoop); en [artikel 30](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md). Bovendien zijn de algemene bepalingen van [artikel 1](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [artikel 5](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), de [Hoofdstukken IV tot en met VII](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [artikel 29](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (anders dan [artikel 29, derde lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), dat is vervangen door artikel XIV, eerste en tweede lid), [Hoofdstuk X](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [Hoofdstuk XII](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (anders dan [artikel 43](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)), [Hoofdstuk XIII](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en [Hoofdstuk XIV](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) (anders dan [artikel 60](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)) van toepassing op verkoopcontracten en toekomstige verkopen. 
 
 ### Artikel  IV  
 
@@ -581,7 +581,7 @@ a. bevindt een luchtvaartuigcasco zich in de Staat van inschrijving van het luch
 b. bevindt een luchtvaartuigmotor zich in de Staat van inschrijving van het luchtvaartuig waarop hij is geïnstalleerd of, indien de motor niet op een luchtvaartuig is geïnstalleerd, waar hij zich fysiek bevindt, en  
 
 c. bevindt een helikopter zich in zijn Staat van inschrijving,   op het tijdstip van het sluiten van de overeenkomst waarbij het zakelijk recht wordt gevestigd of in het zakelijk recht wordt voorzien.   
-3.  De partijen kunnen, door middel van een schriftelijke overeenkomst, de toepassing van artikel XI uitsluiten en, in hun onderlinge betrekkingen, van de bepalingen van dit Protocol afwijken of de rechtsgevolgen ervan wijzigen, met uitzondering van artikel IX, tweede, derde en vierde lid.   
+3.  De partijen kunnen, door middel van een schriftelijke overeenkomst, de toepassing van artikel XI uitsluiten en, in hun onderlinge betrekkingen, van de bepalingen van dit Protocol afwijken of de rechtsgevolgen ervan wijzigen, met uitzondering van artikel IX, tweede, derde en vierde lid.  
 
 ### Artikel  V  
 
@@ -595,19 +595,19 @@ b. betrekking heeft op een luchtvaartuigzaak ten aanzien waarvan de verkoper bes
 
 c. het mogelijk maakt de luchtvaartuigzaak te identificeren in overeenstemming met dit Protocol.     
 2.  Een verkoopcontract draagt de rechten van de verkoper op de luchtvaartuigzaak in overeenstemming met de bedingen van de overeenkomst over op de koper.   
-3.  De inschrijving van een verkoopcontract blijft voor onbepaalde duur van kracht. De inschrijving van een toekomstige verkoop blijft van kracht totdat deze wordt doorgehaald of totdat het eventueel in de inschrijving vermelde tijdvak is verstreken.   
+3.  De inschrijving van een verkoopcontract blijft voor onbepaalde duur van kracht. De inschrijving van een toekomstige verkoop blijft van kracht totdat deze wordt doorgehaald of totdat het eventueel in de inschrijving vermelde tijdvak is verstreken.  
 
 ### Artikel  VI  
 
 ####Vertegenwoordigingsbevoegdheid
 
-Een persoon kan in het kader van een agentschap, trust of in een andere vertegenwoordigende hoedanigheid een overeenkomst of verkoop sluiten en een internationaal zakelijk recht op of verkoop van een luchtvaartuigzaak inschrijven. In een dergelijk geval is die persoon bevoegd rechten en zakelijke rechten ingevolge het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) te doen gelden.  
+Een persoon kan in het kader van een agentschap, trust of in een andere vertegenwoordigende hoedanigheid een overeenkomst of verkoop sluiten en een internationaal zakelijk recht op of verkoop van een luchtvaartuigzaak inschrijven. In een dergelijk geval is die persoon bevoegd rechten en zakelijke rechten ingevolge het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) te doen gelden. 
 
 ### Artikel  VII  
 
 ####Beschrijving van luchtvaartuigzaken
 
-Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant, de naam van de fabrikant en de aanduiding van het model bevat is noodzakelijk en voldoende om het voorwerp te identificeren voor de toepassing van [artikel 7, onderdeel c, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en artikel V, eerste lid, onderdeel c, van dit Protocol.  
+Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant, de naam van de fabrikant en de aanduiding van het model bevat is noodzakelijk en voldoende om het voorwerp te identificeren voor de toepassing van [artikel 7, onderdeel c, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en artikel V, eerste lid, onderdeel c, van dit Protocol. 
 
 ### Artikel  VIII  
 
@@ -615,11 +615,11 @@ Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant,
 
 1.  Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge artikel XXX, eerste lid, heeft afgelegd.   
 2.  De partijen bij een overeenkomst, of een verkoopcontract, of een daaraan gerelateerde garantieovereenkomst of achterstellingsovereenkomst kunnen overeenkomen door welk recht hun contractuele rechten en verplichtingen, geheel of ten dele, worden beheerst.   
-2.  Tenzij anders is overeengekomen, is de verwijzing in het voorgaande lid naar het door de partijen gekozen recht een verwijzing naar de regels van het nationale recht van de aangewezen Staat of, indien die Staat uit meerdere territoriale eenheden bestaat, het nationale recht van de aangewezen territoriale eenheid.   
+2.  Tenzij anders is overeengekomen, is de verwijzing in het voorgaande lid naar het door de partijen gekozen recht een verwijzing naar de regels van het nationale recht van de aangewezen Staat of, indien die Staat uit meerdere territoriale eenheden bestaat, het nationale recht van de aangewezen territoriale eenheid.  
 
 ### HOOFDSTUK  II  
 
-####RECHTSMIDDELEN BIJ VERZUIM, RANGORDE EN CESSIE
+####RECHTSMIDDELEN BIJ VERZUIM, RANGORDE EN CESSIE 
 
 ### Artikel  IX  
 
@@ -642,7 +642,7 @@ b. de gemachtigde partij aan de registratieautoriteit, indien zij zulks verlangt
 
 a. de in [artikel 1, onderdeel m, onder i en ii, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) bedoelde belanghebbenden; en  
 
-b. de in [artikel 1, onderdeel m, onder iii, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) bedoelde belanghebbenden die binnen een redelijke tijd voorafgaand aan de doorhaling van de inschrijving en uitvoer aan de nemer van een zakelijk recht kennisgeving van hun rechten hebben gedaan.     
+b. de in [artikel 1, onderdeel m, onder iii, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) bedoelde belanghebbenden die binnen een redelijke tijd voorafgaand aan de doorhaling van de inschrijving en uitvoer aan de nemer van een zakelijk recht kennisgeving van hun rechten hebben gedaan.    
 
 ### Artikel  X  
 
@@ -652,7 +652,7 @@ b. de in [artikel 1, onderdeel m, onder iii, van het Verdrag](../../../../../../
 2.  Voor de toepassing van [artikel 13, eerste lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) wordt in verband met het verkrijgen van redres onder „spoedig” verstaan, binnen het aantal werkdagen, vanaf de dag van indiening van het verzoek om redres, dat wordt vermeld in een door de Verdragsluitende Staat waarin het verzoek wordt gedaan afgelegde verklaring.   
 3.  [Artikel 13, eerste lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is van toepassing, met toevoeging, onmiddellijk na onderdeel d, van het volgende: 
 
-„e. indien de schuldenaar en de schuldeiser zulks op enig tijdstip in het bijzonder overeenkomen, de verkoop en aanwending van de opbrengsten daarvan”,   en [artikel 43, tweede lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), is van toepassing met invoeging van de woorden „en onderdeel e”, na de woorden „ [artikel 13, eerste lid, onderdeel d](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) ”.   
+„e. indien de schuldenaar en de schuldeiser zulks op enig tijdstip in het bijzonder overeenkomen, de verkoop en aanwending van de opbrengsten daarvan”,   en [artikel 43, tweede lid](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), is van toepassing met invoeging van de woorden „en onderdeel e”, na de woorden „[artikel 13, eerste lid, onderdeel d](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)”.   
 4.  De eigendom of elk ander recht van de schuldenaar dat overgaat bij een verkoop ingevolge het voorgaande lid is vrij van elk ander recht waarboven het internationale zakelijk recht van de schuldeiser krachtens de bepalingen van [artikel 29 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) voorrang heeft.   
 5.  De schuldeiser en schuldenaar of andere belanghebbenden kunnen schriftelijk overeenkomen de toepassing van [artikel 13, tweede lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) uit te sluiten.   
 6.  Ten aanzien van de in artikel IX, eerste lid, genoemde rechtsmiddelen geldt dat: 
@@ -660,7 +660,7 @@ b. de in [artikel 1, onderdeel m, onder iii, van het Verdrag](../../../../../../
 a. deze beschikbaar worden gesteld door de registratieautoriteit en andere administratieve autoriteiten in een Verdragsluitende Staat, naargelang hetgeen van toepassing is, uiterlijk vijf werkdagen nadat de schuldeiser die autoriteiten ervan kennis heeft gegeven dat het in artikel IX, eerste lid, bedoelde redres is toegekend of, ingeval het redres is toegekend door een buitenlands gerecht, is erkend door een gerecht van die Verdragsluitende Staat, en dat de schuldeiser gerechtigd is die rechtsmiddelen in overeenstemming met het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) te bewerkstelligen; en  
 
 b. de desbetreffende autoriteiten met spoed met de schuldeiser samenwerken en deze bijstaan bij de toepassing van deze rechtsmiddelen in overeenstemming met de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.     
-7.  Het tweede en zesde lid doen geen afbreuk aan de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.   
+7.  Het tweede en zesde lid doen geen afbreuk aan de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.  
 
 ### Artikel  XI  
 
@@ -703,14 +703,14 @@ b. de schuldeiser in de gelegenheid zal stellen de luchtvaartuigzaak, in overeen
 3.  Het in het voorgaande lid, onderdeel b, bedoelde toepasselijke recht kan het gerecht toestaan te verlangen dat een aanvullende maatregel wordt genomen of een aanvullende garantie wordt gesteld.   
 4.  De schuldeiser levert bewijs van zijn vorderingen en bewijst dat zijn internationale zakelijk recht is ingeschreven.   
 5.  Indien de curator of de schuldenaar, naargelang hetgeen van toepassing is, geen kennisgeving doet in overeenstemming met het tweede lid, of indien de curator of de schuldenaar heeft verklaard dat hij de schuldeiser in de gelegenheid stelt de luchtvaartuigzaak in bezit te nemen, maar verzuimt zulks te doen, kan het gerecht de schuldeiser toestaan de luchtvaartuigzaak in bezit te nemen op de door het gerecht bevolen voorwaarden en kan het gerecht verlangen dat een aanvullende maatregel wordt genomen of een aanvullende garantie wordt gesteld.   
-6.  Hangende een beslissing door een gerecht ter zake van de vordering en het internationale zakelijk recht, wordt de luchtvaartuigzaak niet verkocht.   
+6.  Hangende een beslissing door een gerecht ter zake van de vordering en het internationale zakelijk recht, wordt de luchtvaartuigzaak niet verkocht.  
 
 ### Artikel  XII  
 
 ####Bijstand bij insolventie
 
 1.  Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge artikel XXX, eerste lid, heeft afgelegd.   
-2.  De gerechten van een Verdragsluitende Staat waarin zich een luchtvaartuigzaak bevindt, werken bij de uitvoering van de bepalingen van artikel XI, in overeenstemming met het recht van de Verdragsluitende Staat, in de ruimst mogelijke mate samen met buitenlandse gerechten en buitenlandse curatoren.   
+2.  De gerechten van een Verdragsluitende Staat waarin zich een luchtvaartuigzaak bevindt, werken bij de uitvoering van de bepalingen van artikel XI, in overeenstemming met het recht van de Verdragsluitende Staat, in de ruimst mogelijke mate samen met buitenlandse gerechten en buitenlandse curatoren.  
 
 ### Artikel  XIII  
 
@@ -719,7 +719,7 @@ b. de schuldeiser in de gelegenheid zal stellen de luchtvaartuigzaak, in overeen
 1.  Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge artikel XXX, eerste lid, heeft afgelegd.   
 2.  Indien de schuldenaar een onherroepelijke machtiging voor doorhaling van een inschrijving en een uitvoerverzoek heeft afgegeven die in hoofdzaak overeenstemt met het bij dit Protocol gevoegde formulier, en deze machtiging ter inschrijving bij de registratieautoriteit heeft ingediend, wordt die machtiging aldus ingeschreven.   
 3.  De persoon ten gunste van wie de machtiging is afgegeven (de „gemachtigde partij”) of de officieel door hem aangewezen persoon is de enige persoon die gerechtigd is de in artikel IX, eerste lid, bedoelde rechtsmiddelen toe te passen en kan dit uitsluitend doen in overeenstemming met de machtiging en de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart. Deze machtiging kan niet door de schuldenaar worden ingetrokken zonder de schriftelijke instemming van de gemachtigde partij. Op verzoek van de gemachtigde partij verwijdert de registratieautoriteit een machtiging uit het register.   
-4.  De registratieautoriteit en andere administratieve autoriteiten in Verdragsluitende Staten werken met spoed samen met de gemachtigde partij en verlenen haar bijstand bij de toepassing van de in artikel IX bedoelde rechtsmiddelen.   
+4.  De registratieautoriteit en andere administratieve autoriteiten in Verdragsluitende Staten werken met spoed samen met de gemachtigde partij en verlenen haar bijstand bij de toepassing van de in artikel IX bedoelde rechtsmiddelen.  
 
 ### Artikel  XIV  
 
@@ -728,7 +728,7 @@ b. de schuldeiser in de gelegenheid zal stellen de luchtvaartuigzaak, in overeen
 1.  Een koper van een luchtvaartuigzaak krachtens een ingeschreven verkoop verwerft zijn recht op die zaak vrij van een later ingeschreven recht en vrij van een niet ingeschreven recht, zelfs wanneer de koper feitelijk op de hoogte is van het niet ingeschreven recht.   
 2.  Een koper van een luchtvaartuigzaak verwerft zijn recht op die zaak onder voorbehoud van een recht dat ten tijde van diens verwerving was ingeschreven.   
 3.  De installatie van een luchtvaartuigmotor op een luchtvaartuig of de verwijdering daarvan doet geen afbreuk aan de eigendom van die motor of een ander recht of zakelijk recht daarop.   
-4.  [Artikel 29, zevende lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is van toepassing op een onderdeel, anders dan een zaak, die op een luchtvaartuigcasco, luchtvaartuigmotor of helikopter zijn geïnstalleerd.   
+4.  [Artikel 29, zevende lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is van toepassing op een onderdeel, anders dan een zaak, die op een luchtvaartuigcasco, luchtvaartuigmotor of helikopter zijn geïnstalleerd.  
 
 ### Artikel  XV  
 
@@ -736,7 +736,7 @@ b. de schuldeiser in de gelegenheid zal stellen de luchtvaartuigzaak, in overeen
 
 [Artikel 33, eerste lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is van toepassing alsof het volgende onmiddellijk na onderdeel b was toegevoegd: 
 
-„en c. de schuldenaar schriftelijk heeft ingestemd, ongeacht het feit of de instemming al dan niet voorafgaand aan de cessie is gegeven of daarin de cessionaris wordt genoemd.”    
+„en c. de schuldenaar schriftelijk heeft ingestemd, ongeacht het feit of de instemming al dan niet voorafgaand aan de cessie is gegeven of daarin de cessionaris wordt genoemd.”   
 
 ### Artikel  XVI  
 
@@ -747,11 +747,11 @@ b. de schuldeiser in de gelegenheid zal stellen de luchtvaartuigzaak, in overeen
 a. zijn schuldeiser en de houder van een zakelijk recht waarvan het door de schuldenaar verworven recht vrij is gebleven ingevolge [artikel 29, vierde lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) of, in de hoedanigheid van koper, artikel XIV, eerste lid, van dit Protocol, tenzij en voorzover de schuldenaar anders is overeengekomen; en  
 
 b. de houder van een zakelijk recht waaraan het recht van de schuldenaar onderworpen is ingevolge [artikel 29, vierde lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) of, in de hoedanigheid van koper, artikel XIV, tweede lid, van dit Protocol, doch uitsluitend in de mate waarin die houder daarmee eventueel heeft ingestemd.     
-2.  Niets in het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) of dit Protocol doet afbreuk aan de aansprakelijkheid van een schuldeiser wegens niet-nakoming van de overeenkomst ingevolge het toepasselijke recht voorzover die overeenkomst betrekking heeft op een luchtvaartuigzaak.   
+2.  Niets in het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) of dit Protocol doet afbreuk aan de aansprakelijkheid van een schuldeiser wegens niet-nakoming van de overeenkomst ingevolge het toepasselijke recht voorzover die overeenkomst betrekking heeft op een luchtvaartuigzaak.  
 
 ### HOOFDSTUK  III  
 
-####BEPALINGEN INZAKE DE INSCHRIJVING VAN INTERNATIONALE ZAKELIJKE RECHTEN OP LUCHTVAARTUIGZAKEN
+####BEPALINGEN INZAKE DE INSCHRIJVING VAN INTERNATIONALE ZAKELIJKE RECHTEN OP LUCHTVAARTUIGZAKEN 
 
 ### Artikel  XVII  
 
@@ -761,20 +761,20 @@ b. de houder van een zakelijk recht waaraan het recht van de schuldenaar onderwo
 2.  Indien de in het vorige lid bedoelde internationale entiteit niet in staat en bereid is als Toezichthoudende Autoriteit op te treden, wordt een Conferentie van de Ondertekenende en Verdragsluitende Staten bijeengeroepen teneinde een andere Toezichthoudende Autoriteit aan te wijzen.   
 3.  De Toezichthoudende Autoriteit en haar leidinggevenden en medewerkers genieten de immuniteit van gerechtelijke en administratieve vervolging zoals toegekend krachtens de op hen als internationale entiteit of anderszins van toepassing zijnde regels.   
 4.  De Toezichthoudende Autoriteit kan een commissie van deskundigen instellen, samengesteld uit door de Ondertekenende en Verdragsluitende Staten voorgedragen personen met de nodige kwalificaties en ervaring, en deze commissie opdragen de Toezichthoudende Autoriteit bij de vervulling van haar taken bij te staan.   
-5.  De eerste Bewaarder beheert het Internationaal Register voor een tijdvak van vijf jaren, te rekenen vanaf de datum van inwerkingtreding van dit Protocol. Daarna wordt de Bewaarder met regelmatige tussenpozen van vijf jaren door de Toezichthoudende Autoriteit benoemd of herbenoemd.   
+5.  De eerste Bewaarder beheert het Internationaal Register voor een tijdvak van vijf jaren, te rekenen vanaf de datum van inwerkingtreding van dit Protocol. Daarna wordt de Bewaarder met regelmatige tussenpozen van vijf jaren door de Toezichthoudende Autoriteit benoemd of herbenoemd.  
 
 ### Artikel  XVIII  
 
 ####Eerste reglement
 
-Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat dit van kracht wordt bij de inwerkingtreding van dit Protocol.  
+Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat dit van kracht wordt bij de inwerkingtreding van dit Protocol. 
 
 ### Artikel  XIX  
 
 ####Aangewezen punten van invoer
 
 1.  Onverminderd het tweede lid kan een Verdragsluitende Staat te allen tijde een of meer organen op zijn grondgebied aanwijzen als punt of punten van invoer via welke informatie aan het Internationaal Register moet of kan worden verzonden die vereist is voor de inschrijving, anders dan de inschrijving van een kennisgeving van een nationaal zakelijk recht of een recht of zakelijk recht ingevolge [artikel 40](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) die in beide gevallen ontstaan ingevolge het recht van een andere Staat.   
-2.  Een aanwijzing ingevolge het voorgaande lid kan het gebruik van een aangewezen punt of punten van invoer toestaan, doch niet opleggen, voor informatie vereist voor inschrijvingen ten aanzien van luchtvaartuigmotoren.   
+2.  Een aanwijzing ingevolge het voorgaande lid kan het gebruik van een aangewezen punt of punten van invoer toestaan, doch niet opleggen, voor informatie vereist voor inschrijvingen ten aanzien van luchtvaartuigmotoren.  
 
 ### Artikel  XX  
 
@@ -785,7 +785,7 @@ Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat d
 3.  De in [artikel 17, tweede lid, onderdeel h, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) bedoelde tarieven worden zodanig vastgesteld dat deze dekkend zijn voor de redelijke kosten van de instelling, exploitatie en reglementering van het Internationaal Register en de redelijke kosten van de Toezichthoudende Autoriteit samenhangend met de vervulling van de taken, uitoefening van de bevoegdheden, en nakoming van de verplichtingen vervat in [artikel 17, tweede lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md).   
 4.  De gecentraliseerde taken van het Internationaal Register worden door de Bewaarder 24 uur per dag uitgeoefend en beheerd. De diverse punten van invoer functioneren ten minste gedurende de werktijden in hun respectieve grondgebieden.   
 5.  De in [artikel 28, vierde lid, van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) bedoelde hoogte van de verzekering of financiële garantie bedraagt, per gebeurtenis, ten minste de maximumwaarde van een luchtvaartuigzaak zoals vastgesteld door de Toezichthoudende Autoriteit.   
-6.  Niets in dit Verdrag belet de Bewaarder voor een verzekering of financiële garantie te zorgen die gebeurtenissen dekt waarvoor de Bewaarder ingevolge [artikel 28 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) niet aansprakelijk is.   
+6.  Niets in dit Verdrag belet de Bewaarder voor een verzekering of financiële garantie te zorgen die gebeurtenissen dekt waarvoor de Bewaarder ingevolge [artikel 28 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) niet aansprakelijk is.  
 
 ### HOOFDSTUK  IV  
 
@@ -795,37 +795,37 @@ Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat d
 
 ####Wijziging van bepalingen inzake rechtsmacht
 
-Voor de toepassing van [artikel 43 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en onder voorbehoud van [artikel 42 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), is een gerecht van een Verdragsluitende Staat eveneens bevoegd indien de zaak een helikopter, of een bij een luchtvaartuig behorend luchtvaartuigcasco is, ten aanzien waarvan die Staat de Staat van inschrijving is.  
+Voor de toepassing van [artikel 43 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en onder voorbehoud van [artikel 42 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), is een gerecht van een Verdragsluitende Staat eveneens bevoegd indien de zaak een helikopter, of een bij een luchtvaartuig behorend luchtvaartuigcasco is, ten aanzien waarvan die Staat de Staat van inschrijving is. 
 
 ### Artikel  XXII  
 
 ####Afstand van soevereine immuniteit
 
 1.  Onverminderd het tweede lid is afstand van soevereine immuniteit van rechtsmacht van de in [artikel 42](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) of [artikel 43 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) bedoelde gerechten of met betrekking tot de handhaving van rechten en zakelijke rechten die ingevolge het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) betrekking hebben op een luchtvaartuigzaak, bindend, en, indien aan de andere voorwaarden voor deze rechtsmacht of handhaving is voldaan, ontstaat hierdoor, naargelang van het geval, bevoegdheid en wordt hierdoor handhaving mogelijk.   
-2.  Afstand zoals bedoeld in het voorgaande lid dient schriftelijk te geschieden en dient een beschrijving van de luchtvaartuigzaak te bevatten.   
+2.  Afstand zoals bedoeld in het voorgaande lid dient schriftelijk te geschieden en dient een beschrijving van de luchtvaartuigzaak te bevatten.  
 
 ### HOOFDSTUK  V  
 
-####VERHOUDING TOT ANDERE VERDRAGEN
+####VERHOUDING TOT ANDERE VERDRAGEN 
 
 ### Artikel  XXIII  
 
 ####Verhouding tot het Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen
 
-Ten aanzien van een Verdragsluitende Staat die Partij is bij het *Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen*, ondertekend te Genève op 19 juni 1948, heeft het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol, en op luchtvaartuigzaken. Ten aanzien van door dit [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) niet bestreken of geraakte rechten of zakelijke rechten heeft dit [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) geen voorrang boven het Verdrag van Genève.  
+Ten aanzien van een Verdragsluitende Staat die Partij is bij het *Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen*, ondertekend te Genève op 19 juni 1948, heeft het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol, en op luchtvaartuigzaken. Ten aanzien van door dit [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) niet bestreken of geraakte rechten of zakelijke rechten heeft dit [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) geen voorrang boven het Verdrag van Genève. 
 
 ### Artikel  XXIV  
 
 ####Verhouding tot het Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen
 
 1.  Ten aanzien van een Verdragsluitende Staat die Partij is bij het *Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen,* ondertekend te Rome op 29 mei 1933, heeft het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol.   
-2.  Een Verdragsluitende Staat die Partij is bij het bovengenoemde Verdrag kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij dit artikel niet toepast.   
+2.  Een Verdragsluitende Staat die Partij is bij het bovengenoemde Verdrag kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij dit artikel niet toepast.  
 
 ### Artikel  XXV  
 
 ####Verhouding tot het Unidroit-verdrag inzake internationale financiële leasing
 
-Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) heeft voorrang boven het *Unidroit-verdrag inzake internationale financiële leasing*, ondertekend te Ottawa op 28 mei 1988, voorzover dit betrekking heeft op luchtvaartuigzaken.  
+Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) heeft voorrang boven het *Unidroit-verdrag inzake internationale financiële leasing*, ondertekend te Ottawa op 28 mei 1988, voorzover dit betrekking heeft op luchtvaartuigzaken. 
 
 ### HOOFDSTUK  VI  
 
@@ -839,7 +839,7 @@ Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/inter
 2.  Dit Protocol is onderworpen aan bekrachtiging, aanvaarding of goedkeuring door Staten voor welke het is ondertekend.   
 3.  Staten die dit Protocol niet ondertekenen kunnen er te allen tijde tot toetreden.   
 4.  Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een formele akte daartoe bij de Depositaris.   
-5.  Een Staat kan uitsluitend Partij bij dit Protocol worden indien hij tevens Partij bij het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is of wordt.   
+5.  Een Staat kan uitsluitend Partij bij dit Protocol worden indien hij tevens Partij bij het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) is of wordt.  
 
 ### Artikel  XXVII  
 
@@ -847,14 +847,14 @@ Het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/inter
 
 1.  Een regionale organisatie voor economische integratie die door soevereine Staten is ingesteld en bevoegdheid heeft over bepaalde door dit Protocol beheerste kwesties, kan dit Protocol eveneens ondertekenen, aanvaarden, goedkeuren of ertoe toetreden. De regionale organisatie voor economische integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat, voorzover die organisatie bevoegdheid heeft over zaken die door dit Protocol worden beheerst. Indien het aantal Verdragsluitende Staten in dit Protocol van belang is, telt de regionale organisatie voor economische integratie niet als een extra Verdragsluitende Staat naast haar lidstaten die Verdragsluitende Staat zijn.   
 2.  De regionale organisatie voor economische integratie legt, op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding, aan de Depositaris een verklaring af die de door dit Protocol beheerste zaken vermeldt ten aanzien waarvan haar lidstaten hun bevoegdheid aan die organisatie hebben overgedragen. De regionale organisatie voor economische integratie geeft de Depositaris onverwijld kennis van alle wijzigingen van de in overeenstemming met dit lid in de verklaring vermelde verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden.   
-3.  Elke verwijzing in dit Protocol naar „Verdragsluitende Staat” of „Verdragsluitende Staten” of „Staat die Partij is” of „Staten die Partij zijn” is, indien de context zulks vereist, eveneens van toepassing op een regionale organisatie voor economische integratie.   
+3.  Elke verwijzing in dit Protocol naar „Verdragsluitende Staat” of „Verdragsluitende Staten” of „Staat die Partij is” of „Staten die Partij zijn” is, indien de context zulks vereist, eveneens van toepassing op een regionale organisatie voor economische integratie.  
 
 ### Artikel  XXVIII  
 
 ####Inwerkingtreding
 
 1.  Dit Protocol treedt in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van de achtste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tussen de Staten die dergelijke akten hebben nedergelegd.   
-2.  Ten aanzien van andere Staten treedt dit Protocol in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.   
+2.  Ten aanzien van andere Staten treedt dit Protocol in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.  
 
 ### Artikel  XXIX  
 
@@ -870,7 +870,7 @@ a. wordt de schuldenaar uitsluitend geacht zich in een Verdragsluitende Staat te
 
 b. verwijst elke verwijzing naar de plaats van de zaak in een Verdragsluitende Staat naar de plaats van de zaak in een territoriale eenheid waarop het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol van toepassing zijn; en  
 
-c. wordt elke verwijzing naar de administratieve autoriteiten in die Verdragsluitende Staat uitgelegd als een verwijzing naar de administratieve autoriteiten die bevoegd zijn in een territoriale eenheid waarop het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol van toepassing zijn en wordt elke verwijzing naar het nationale register of naar de registratieautoriteit in die Verdragsluitende Staat uitgelegd als een verwijzing naar het luchtvaartuigregister dat van kracht is of naar de registratieautoriteit die bevoegd is in de territoriale eenheid of eenheden waarop het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol van toepassing zijn.     
+c. wordt elke verwijzing naar de administratieve autoriteiten in die Verdragsluitende Staat uitgelegd als een verwijzing naar de administratieve autoriteiten die bevoegd zijn in een territoriale eenheid waarop het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol van toepassing zijn en wordt elke verwijzing naar het nationale register of naar de registratieautoriteit in die Verdragsluitende Staat uitgelegd als een verwijzing naar het luchtvaartuigregister dat van kracht is of naar de registratieautoriteit die bevoegd is in de territoriale eenheid of eenheden waarop het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en dit Protocol van toepassing zijn.    
 
 ### Artikel  XXX  
 
@@ -880,20 +880,20 @@ c. wordt elke verwijzing naar de administratieve autoriteiten in die Verdragslui
 2.  Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij artikel X van dit Protocol, geheel of ten dele, zal toepassen. Indien hij een dergelijke verklaring aflegt ten aanzien van artikel X, tweede lid, vermeldt hij het daarin vereiste tijdvak.   
 3.  Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij het volledige Alternatief A, of het volledige Alternatief B, van artikel XI zal toepassen en, in dat geval, de eventuele soorten insolventieprocedures aanduiden waarop hij Alternatief A zal toepassen, en de eventuele soorten insolventieprocedures aanduiden waarop hij Alternatief B zal toepassen. Een Verdragsluitende Staat die een verklaring ingevolge dit lid aflegt, vermeldt het door artikel XI vereiste tijdvak.   
 4.  De gerechten van Verdragsluitende Staten passen artikel XI toe in overeenstemming met de door de Verdragsluitende Staat die de primaire rechtsmacht bij insolventie heeft, afgelegde verklaring.   
-5.  Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij de bepalingen van artikel XXI, geheel of gedeeltelijk, niet zal toepassen. In de verklaring moet worden vermeld onder welke voorwaarden het desbetreffende artikel zal worden toegepast, indien het gedeeltelijk zal worden toegepast, of anders welke andere vormen van voorlopig redres zullen worden toegepast.   
+5.  Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij de bepalingen van artikel XXI, geheel of gedeeltelijk, niet zal toepassen. In de verklaring moet worden vermeld onder welke voorwaarden het desbetreffende artikel zal worden toegepast, indien het gedeeltelijk zal worden toegepast, of anders welke andere vormen van voorlopig redres zullen worden toegepast.  
 
 ### Artikel  XXXI  
 
 ####Verklaringen ingevolge het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md)
 
-Verklaringen afgelegd ingevolge het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), met inbegrip van verklaringen krachtens de [artikelen 39](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [40](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [50](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [53](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [54](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [55](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [57](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [58](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en [60 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), worden geacht eveneens te zijn afgelegd ingevolge dit Protocol, behoudens andersluidende verklaring.  
+Verklaringen afgelegd ingevolge het [Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), met inbegrip van verklaringen krachtens de [artikelen 39](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [40](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [50](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [53](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [54](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [55](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [57](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), [58](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) en [60 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md), worden geacht eveneens te zijn afgelegd ingevolge dit Protocol, behoudens andersluidende verklaring. 
 
 ### Artikel  XXXII  
 
 ####Voorbehouden en verklaringen
 
 1.  Ten aanzien van dit Protocol kunnen geen voorbehouden worden gemaakt, maar uit hoofde van de artikelen XXIV, XXIX, XXX, XXXI, XXXIII en XXXIV toegestane verklaringen kunnen in overeenstemming met deze artikelen worden afgelegd.   
-2.  Van elke verklaring of latere verklaring of elke intrekking van een verklaring ingevolge dit Protocol wordt schriftelijke kennisgeving aan de Depositaris gedaan.   
+2.  Van elke verklaring of latere verklaring of elke intrekking van een verklaring ingevolge dit Protocol wordt schriftelijke kennisgeving aan de Depositaris gedaan.  
 
 ### Artikel  XXXIII  
 
@@ -901,14 +901,14 @@ Verklaringen afgelegd ingevolge het [Verdrag](../../../../../../../../../../../.
 
 1.  Een Staat die Partij is kan te allen tijde na de datum waarop dit Protocol voor hem in werking is getreden door middel van een daartoe aan de Depositaris gerichte kennisgeving een latere verklaring afleggen, anders dan een in overeenstemming met artikel XXXI uit hoofde van [artikel 60 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) afgelegde verklaring.   
 2.  Later afgelegde verklaringen worden van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris. Indien in de kennisgeving een langer tijdvak voor het van kracht worden van die verklaring is vermeld, wordt de verklaring van kracht na het verstrijken van dit langere tijdvak na de ontvangst van de kennisgeving door de Depositaris.   
-3.  Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die latere verklaring zijn ontstaan, van toepassing alsof geen latere verklaring was afgelegd.   
+3.  Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die latere verklaring zijn ontstaan, van toepassing alsof geen latere verklaring was afgelegd.  
 
 ### Artikel  XXXIV  
 
 ####Intrekking van verklaringen
 
 1.  Elke Staat die Partij is en die een verklaring uit hoofde van dit Protocol heeft afgelegd, anders dan een in overeenstemming met artikel XXXI uit hoofde van [artikel 60 van het Verdrag](../../../../../../../../../../../../../verdrag/convention/on/international/interests/in/mobile/equipment/BWBV0003189/README.md) afgelegde verklaring, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Depositaris. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris.   
-2.  Niettegenstaande het voorgaande lid blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die intrekking zijn ontstaan, van toepassing alsof de verklaring niet was ingetrokken.   
+2.  Niettegenstaande het voorgaande lid blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die intrekking zijn ontstaan, van toepassing alsof de verklaring niet was ingetrokken.  
 
 ### Artikel  XXXV  
 
@@ -916,7 +916,7 @@ Verklaringen afgelegd ingevolge het [Verdrag](../../../../../../../../../../../.
 
 1.  Elke Staat die Partij is kan dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.   
 2.  De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van twaalf maanden na de datum waarop de kennisgeving door de Depositaris is ontvangen.   
-3.  Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van een opzegging zijn ontstaan, van toepassing alsof geen opzegging had plaatsgevonden.   
+3.  Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van een opzegging zijn ontstaan, van toepassing alsof geen opzegging had plaatsgevonden.  
 
 ### Artikel  XXXVI  
 
@@ -932,7 +932,7 @@ b. de gerechtelijke interpretatie en de toepassing van de bepalingen van dit Pro
 c. de werking van het internationale registratiesysteem, de prestaties van de Bewaarder en het toezicht op hem door de Toezichthoudende Autoriteit, met inachtneming van de verslagen van de Toezichthoudende Autoriteit; en  
 
 d. de vraag of het wenselijk is wijzigingen aan te brengen in dit Protocol of in de regelingen inzake het Internationaal Register.     
-3.  Een wijziging van dit Protocol wordt goedgekeurd met een meerderheid van ten minste tweederde van de Staten die Partij zijn en die aan de in het voorgaande lid bedoelde Conferentie deelnemen, en treedt vervolgens in werking ten aanzien van de Staten die de wijziging hebben bekrachtigd, aanvaard of goedgekeurd indien deze, in overeenstemming met de bepalingen van artikel XXVIII inzake zijn inwerkingtreding, door acht Staten is bekrachtigd, aanvaard of goedgekeurd.   
+3.  Een wijziging van dit Protocol wordt goedgekeurd met een meerderheid van ten minste tweederde van de Staten die Partij zijn en die aan de in het voorgaande lid bedoelde Conferentie deelnemen, en treedt vervolgens in werking ten aanzien van de Staten die de wijziging hebben bekrachtigd, aanvaard of goedgekeurd indien deze, in overeenstemming met de bepalingen van artikel XXVIII inzake zijn inwerkingtreding, door acht Staten is bekrachtigd, aanvaard of goedgekeurd.  
 
 ### Artikel  XXXVII  
 
@@ -957,7 +957,7 @@ b. zendt gewaarmerkte afschriften van dit Protocol aan alle Verdragsluitende Sta
 
 c. doet de Toezichthoudende Autoriteit en de Bewaarder een afschrift toekomen van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tezamen met de datum van nederlegging daarvan, van elke verklaring of intrekking of wijziging van een verklaring en van elke kennisgeving van opzegging, tezamen met de datum van kennisgeving daarvan, zodat de daarin vervatte informatie eenvoudig en volledig beschikbaar is; en  
 
-d. verricht de overige voor een Depositaris gebruikelijke taken.     
+d. verricht de overige voor een Depositaris gebruikelijke taken.    
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe naar behoren gemachtigd, dit Protocol hebben ondertekend. GEDAAN te Kaapstad, op de zestiende november tweeduizendeen, in een enkel oorspronkelijk exemplaar in de Engelse, de Arabische, de Chinese, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek; deze authenticiteit is geldig na verificatie, binnen negentig dagen na heden, van de onderlinge overeenstemming van de teksten door het Gemeenschappelijk Secretariaat van de Conferentie onder het gezag van de Voorzitter van de Conferentie.  
 
@@ -967,7 +967,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe naar behoren gemac
 
 Bijlage waarnaar in artikel XIII  wordt verwezen  
 
-[datum invoegen] Aan: [Naam van registratieautoriteit invoegen] Betreft: Onherroepelijke machtiging voor doorhaling van de inschrijving en voor een uitvoerverzoek Ondergetekende is de ingeschreven [exploitant] [eigenaar] van de [naam van de fabrikant van het luchtvaartuigcasco of de helikopter en het modelnummer invoegen] met serienummer van de fabrikant [serienummer fabrikant invoegen] en inschrijvings- [nummer] [teken] [inschrijvingsnummer/-teken invoegen] (tezamen met alle geïnstalleerde, ingebouwde of bevestigde toebehoren, onderdelen en apparatuur, het „luchtvaartuig”). <sup> 1)  Selecteer de term die overeenkomt met het relevante criterium voor nationaliteitsregistratie.  </sup> Dit document is een onherroepelijke machtiging voor doorhaling van de inschrijving en voor een uitvoerverzoek, afgegeven door de ondergetekende ten gunste van [naam van schuldeiser invoegen] („de gemachtigde partij”) krachtens artikel XIII van het Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden. In overeenstemming met dat artikel verzoekt de ondergetekende hierbij: 
+[datum invoegen] Aan: [Naam van registratieautoriteit invoegen] Betreft: Onherroepelijke machtiging voor doorhaling van de inschrijving en voor een uitvoerverzoek Ondergetekende is de ingeschreven [exploitant] [eigenaar]<sup> 1) Selecteer de term die overeenkomt met het relevante criterium voor nationaliteitsregistratie. </sup> van de [naam van de fabrikant van het luchtvaartuigcasco of de helikopter en het modelnummer invoegen] met serienummer van de fabrikant [serienummer fabrikant invoegen] en inschrijvings- [nummer] [teken] [inschrijvingsnummer/-teken invoegen] (tezamen met alle geïnstalleerde, ingebouwde of bevestigde toebehoren, onderdelen en apparatuur, het „luchtvaartuig”). Dit document is een onherroepelijke machtiging voor doorhaling van de inschrijving en voor een uitvoerverzoek, afgegeven door de ondergetekende ten gunste van [naam van schuldeiser invoegen] („de gemachtigde partij”) krachtens artikel XIII van het Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden. In overeenstemming met dat artikel verzoekt de ondergetekende hierbij: 
 
 i. erkenning dat de gemachtigde partij of de officieel door haar aangewezen persoon de enige persoon is die gerechtigd is: 
 
