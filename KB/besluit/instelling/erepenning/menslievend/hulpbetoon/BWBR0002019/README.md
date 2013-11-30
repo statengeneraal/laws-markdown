@@ -16,7 +16,7 @@ Hebben goedgevonden en verstaan: Onder intrekking van het Koninklijk besluit van
 
 ### Artikel  2  
 
-1.  Deze eerepenning bestaat uit een Koninklijke kroon, waaraan bevestigd een ovale draagpenning, metende een totale hoogte van 6 centimeter, op welks voorzijde voorkomt het beeld der Naastenliefde en de woorden: "Voor Menschlievend Hulpbetoon" en aan de keerzijde de woorden: "De Koningin aan", waaronder telkens de naam van den begiftigde zal worden gesteld, een en ander overeenkomstig de bij Ons besluit van 11 April 1912, no. 4, gevoegde teekening.   
+1.  Deze eerepenning bestaat uit een Koninklijke kroon, waaraan bevestigd een ovale draagpenning, metende een totale hoogte van 6 centimeter, op welks voorzijde voorkomt het beeld der Naastenliefde en de woorden: "Voor Menschlievend Hulpbetoon" en aan de keerzijde de woorden: "De Koning aan", waaronder telkens de naam van den begiftigde zal worden gesteld, een en ander overeenkomstig de bij Ons besluit van 11 April 1912, no. 4, gevoegde teekening.   
 2.  De eerepenning wordt op de linkerborst gedragen, aan een oranje-moiré lint van 3 centimeter breedte, hebbende in het midden een roode bies ter breedte van 0,7 centimeter.   
 3.  De eerepenning wordt door officieren gedragen op het lint, in welk geval dit een breedte zal hebben van 2,5 centimeter.   
 

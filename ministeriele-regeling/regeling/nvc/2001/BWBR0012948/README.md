@@ -66,7 +66,7 @@ a) op landelijk niveau, indien er sprake is van een nationale crisis en het NCC 
 
 b) indien er sprake is van een nationale crisis, die zich beperkt tot één departement; in dat geval kan de directeur Voorlichting van het betreffende departement een beroep doen op het NVC om voorlichters te leveren uit de pool van crisisvoorlichters ter ondersteuning;  
 
-c) bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koningin.     
+c) bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koning.     
 
 ### Artikel  6  
 

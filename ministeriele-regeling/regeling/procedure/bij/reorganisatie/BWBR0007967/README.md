@@ -7,26 +7,26 @@ Overwegende dat het wenselijk is om in de rijksdienst een aantal standaard in ac
 
 dat deze procedures per ministerie of hoog college van staat nader dienen c.q. kunnen worden uitgewerkt zodat kan worden voldaan aan de specifieke situaties;
 
-Gelet op de [artikelen 49a, eerste lid](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [50 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (Stb. 1931, 248) en de [artikelen 84a](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en [85 van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) (Stb.1979, 123);
+Gelet op de artikelen 49a, eerste lid en 50 van het Algemeen Rijksambtenarenreglement (Stb. 1931, 248) en de artikelen 84a en 85 van het Ambtenarenreglement Staten-Generaal (Stb.1979, 123);
 Besluit:    
 
 ### Artikel  1  
 
 ####De werkingssfeer
 
-1.  Dit besluit is van toepassing bij een reorganisatie van een ministerie met uitzondering van het ministerie van Defensie, de Staten-Generaal, de Stenografische Dienst, de Griffie voor de interparlementaire betrekkingen, de Algemene Rekenkamer, de Hoge Raad van Adel, het Kabinet der Koningin, de Kanselarij der Nederlandse Orden, de Nationale Ombudsman en de Raad van State   
-2.  Artikel 5, derde en vierde lid is niet van toepassing bij een reorganisatie van de Staten-Generaal, de Stenografische Dienst, de Griffie voor de interparlementaire betrekkingen, de Algemene Rekenkamer, de Hoge Raad van Adel, het Kabinet der Koningin, de Kanselarij der Nederlandse Orden, de Nationale Ombudsman en de Raad van State.   
+1.  Dit besluit is van toepassing bij een reorganisatie van een ministerie met uitzondering van het ministerie van Defensie, de Staten-Generaal, de Stenografische Dienst, de Griffie voor de interparlementaire betrekkingen, de Algemene Rekenkamer, de Hoge Raad van Adel, het Kabinet van de Koning, de Kanselarij der Nederlandse Orden, de Nationale Ombudsman en de Raad van State   
+2.  Artikel 5, derde en vierde lid is niet van toepassing bij een reorganisatie van de Staten-Generaal, de Stenografische Dienst, de Griffie voor de interparlementaire betrekkingen, de Algemene Rekenkamer, de Hoge Raad van Adel, het Kabinet van de Koning, de Kanselarij der Nederlandse Orden, de Nationale Ombudsman en de Raad van State.   
 3.  Dit besluit is niet van toepassing op een reorganisatie waarvan vooraf vaststaat dat deze: 
 
-a. niet leidt tot de aanwijzing van herplaatsingskandidaten als bedoeld in de [artikelen 49d](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [49e van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en de [artikelen 84d](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en [84e van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), of  
+a. niet leidt tot de aanwijzing van herplaatsingskandidaten als bedoeld in de artikelen 49d en 49e van het Algemeen Rijksambtenarenreglement en de artikelen 84d en 84e van het Ambtenarenreglement Staten-Generaal, of  
 
-b. wel leidt tot de aanwijzing van herplaatsingskandidaten als bedoeld in de [artikelen 49d](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [49e van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en de [artikelen 84d](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en [84e van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en deze herplaatsingskandidaten met ingang van de datum van die aanwijzing herplaatst worden in een andere, passende, functie als bedoeld in [artikel 49h van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) respectievelijk [artikel 84h van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md).     
+b. wel leidt tot de aanwijzing van herplaatsingskandidaten als bedoeld in de artikelen 49d en 49e van het Algemeen Rijksambtenarenreglement en de artikelen 84d en 84e van het Ambtenarenreglement Staten-Generaal en deze herplaatsingskandidaten met ingang van de datum van die aanwijzing herplaatst worden in een andere, passende, functie als bedoeld in artikel 49h van het Algemeen Rijksambtenarenreglement respectievelijk artikel 84h van het Ambtenarenreglement Staten-Generaal.     
 
 ### Artikel  2  
 
 ####De bevoegdheden
 
-Indien de bepalingen in dit besluit worden toegepast op de personeelsleden van de Staten-Generaal, de Stenografische Dienst, de Griffie voor de interparlementaire betrekkingen, de Algemene Rekenkamer, de Hoge Raad van Adel, het Kabinet der Koningin, de Kanselarij der Nederlandse Orden, de Nationale Ombudsman en de Raad van State, dient voor de Minister, hoofd van het betrokken departement, telkens te worden gelezen de Voorzitter van de Eerste Kamer, de Voorzitter van de Tweede Kamer, het College van de Algemene Rekenkamer, de Voorzitter van de Hoge Raad van Adel, de directeur van het Kabinet der Koningin, de Kanselier der Nederlandse Orden, de Nationale Ombudsman of de Vice-President van de Raad van State.  
+Indien de bepalingen in dit besluit worden toegepast op de personeelsleden van de Staten-Generaal, de Stenografische Dienst, de Griffie voor de interparlementaire betrekkingen, de Algemene Rekenkamer, de Hoge Raad van Adel, het Kabinet van de Koning, de Kanselarij der Nederlandse Orden, de Nationale Ombudsman en de Raad van State, dient voor de Minister, hoofd van het betrokken departement, telkens te worden gelezen de Voorzitter van de Eerste Kamer, de Voorzitter van de Tweede Kamer, het College van de Algemene Rekenkamer, de Voorzitter van de Hoge Raad van Adel, de directeur van het Kabinet van de Koning, de Kanselier der Nederlandse Orden, de Nationale Ombudsman of de Vice-President van de Raad van State.  
 
 ### Artikel  3  
 
