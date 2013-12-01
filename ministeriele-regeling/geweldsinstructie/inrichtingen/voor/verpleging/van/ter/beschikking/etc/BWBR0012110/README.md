@@ -3,7 +3,7 @@
 ##Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden
 
 De Minister van Justitie,  
-Gelet op [artikel 30, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);
+Gelet op artikel 30, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden;
 
 Gezien het advies van de Centrale Raad voor de Strafrechtstoepassing van 15 maart 2000, nr. 5014147/00TvdW/yr;
 Besluit:     
@@ -27,7 +27,7 @@ e.  *geweldsmiddel:*
 
 1°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;  
 
-2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 millimeter maal 19 millimeter;  
+2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 millimeter maal 19 millimeter of Walther P99Q van hetzelfde kaliber;  
 
 3°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;  
 
@@ -39,7 +39,7 @@ f.  *vrijheidsbeperkende middelen:*
 
 2°. een broekstok;  
 
-3°. middelen als bedoeld in de [bijlage bij de Regeling toepassing mechanische middelen verpleegden](../../../../../../../../../../ministeriele-regeling/regeling/toepassing/mechanische/middelen/verpleegden/BWBR0011109/README.md).    
+3°. middelen als bedoeld in de bijlage bij de Regeling toepassing mechanische middelen verpleegden.    
 
 g. *het gebruik van een vuurwapen:* het trekken, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.    
 
@@ -113,7 +113,7 @@ b. anders dan in gesloten ruimten ter verspreiding van menigten van verpleegden 
 ### Artikel  7a  
 
 1.  Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in artikel 1, onder e en f, met het doel onttrekkingen aan het toezicht als bedoeld in artikel 2a te voorkomen.   
-2.  Een ander middel, als bedoeld in het eerste lid, moet ten minste voldoen aan de eisen, die gesteld worden aan een mechanisch middel in de [Regeling toepassing mechanische middelen verpleegden](../../../../../../../../../../ministeriele-regeling/regeling/toepassing/mechanische/middelen/verpleegden/BWBR0011109/README.md).   
+2.  Een ander middel, als bedoeld in het eerste lid, moet ten minste voldoen aan de eisen, die gesteld worden aan een mechanisch middel in de Regeling toepassing mechanische middelen verpleegden.   
 3.  Het andere middel wordt gebruikt overeenkomstig het in deze regeling bepaalde.   
 4.  Een proef, als bedoeld in het eerste lid, heeft een maximale duur van één jaar.   
 5.  Iedere proef wordt geëvalueerd.   
@@ -130,6 +130,8 @@ b. anders dan in gesloten ruimten ter verspreiding van menigten van verpleegden 
 ### §  5  
 
 ####Het inrichtingspersoneel
+
+Vervallen per 01-07-2007   
 
 ### §  6  
 

@@ -3,7 +3,7 @@
 ##Geweldsinstructie penitentiaire inrichtingen
 
 De Minister van Justitie,  
-Gelet op [artikel 35, vierde lid, van de Penitentiaire beginselenwet](../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
+Gelet op artikel 35, vierde lid, van de Penitentiaire beginselenwet;
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 19 mei 1998 (nr. 697460/98);
 Besluit:    
@@ -14,7 +14,7 @@ In deze instructie wordt verstaan onder:
 
 a. *meerdere:* de ambtenaar of medewerker die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;  
 
-b. *selectiefunctionaris:* een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in [artikel 15, derde lid, van de Penitentiaire beginselenwet](../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+b. *selectiefunctionaris:* een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in artikel 15, derde lid, van de Penitentiaire beginselenwet;  
 
 c. *eenheid:* een eenheid bij de Landelijke Bijzondere Bijstandsverlening van de Dienst Justitiële Inrichtingen;  
 
@@ -26,7 +26,7 @@ f.  *geweldsmiddel:*
 
 1°. de semi-automatische uitvoering van de Heckler en Koch, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;  
 
-2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 maal 19 millimeter;  
+2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 maal 19 millimeter of Walther P99Q van hetzelfde kaliber;  
 
 3°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;  
 

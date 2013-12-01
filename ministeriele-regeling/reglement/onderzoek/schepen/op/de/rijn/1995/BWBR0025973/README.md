@@ -241,7 +241,11 @@ In dit reglement wordt verstaan onder:
 
 90. *personen met beperkte mobiliteit:* personen die specifieke moeilijkheden hebben bij het gebruik van openbare vervoermiddelen, zoals oudere mensen, gehandicapten, personen met een handicap op het gebied van de zintuigen, rolstoelgebruikers, zwangere vrouwen en personen die kleine kinderen begeleiden;  
 
-91. *ADN:* het in de bijlagen bij het Europees verdrag inzake het internationaal vervoer van gevaarlijke goederen over de binnenwateren vermelde reglement (ADN).    
+91. *ADN:* het in de bijlagen bij het Europees verdrag inzake het internationaal vervoer van gevaarlijke goederen over de binnenwateren vermelde reglement (ADN);  
+
+92. *erkende deskundige:* een persoon die door een bevoegde autoriteit of door een geautoriseerde instantie van één der Rijnoeverstaten of van België is erkend, op grond van zijn vakkundige opleiding en ervaring bijzondere kennis op het te beproeven gebied heeft, met de ter zake dienende voorschriften en algemeen erkende technische regels (bijvoorbeeld EN-normen, specifieke reglementen, technische regels van andere EU-lidstaten) volkomen vertrouwd is en de betrokken installaties of inrichtingen kan keuren en met kennis van zaken kan beoordelen;  
+
+93. *deskundige:* een persoon die op grond van zijn vakkundige opleiding en ervaring voldoende kennis op het te beproeven gebied heeft en met de ter zake dienende voorschriften en algemeen erkende technische regels (bijvoorbeeld EN-normen, specifieke reglementen, technische regels van andere EU-lidstaten) zover vertrouwd is, dat hij de bedrijfszekerheid van de betrokken installaties en inrichtingen kan beoordelen.    
 
 ### Artikel  1.02  
 
@@ -261,7 +265,7 @@ b. schepen die beschikken over een certificaat van goedkeuring als bedoeld in he
 c. passagiersschepen;  
 
 d. drijvende werktuigen.     
-3.  Dit reglement is niet van toepassing op veerponten als bedoeld in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md).   
+3.  Dit reglement is niet van toepassing op veerponten als bedoeld in het Rijnvaartpolitiereglement.   
 
 ### Artikel  1.03  
 
@@ -303,15 +307,15 @@ De Centrale Commissie voor de Rijnvaart kan voorschriften van tijdelijke aard va
 ####Commissie van Deskundigen
 
 1.  In bepaalde daarvoor in aanmerking komende havens zijn door de Oeverstaten en België Commissies van Deskundigen ingesteld.   
-2.  De Commissies van Deskundigen bestaan uit een voorzitter en deskundigen. Als deskundigen maken van iedere Commissie ten minste deel uit: 
+2.  De Commissies van Deskundigen bestaan uit een voorzitter en erkende deskundigen. Als erkende deskundigen maken van iedere Commissie ten minste deel uit: 
 
 a. een ambtenaar van het bevoegd gezag op het gebied van de scheepvaart;  
 
-b. een deskundige op het gebied van de bouw van binnenschepen en hun machines,  
+b. een erkende deskundige op het gebied van de bouw van binnenschepen en hun machines,  
 
 c. een erkend nautisch deskundige die in het bezit is van een binnenvaartschipperspatent, dat het voeren van het te onderzoeken schip toestaat.     
-3.  De voorzitter en de deskundigen van elke Commissie worden benoemd door de autoriteiten van de staat waartoe de Commissie behoort. De voorzitter en de deskundigen dienen bij de aanvaarding van hun functie schriftelijk te verklaren dat zij deze in alle onpartijdigheid zullen vervullen. Van ambtenaren wordt een dergelijke verklaring niet geëist.   
-4.  De Commissies van Deskundigen kunnen zich onder de voorwaarden, zoals door elk der betrokken staten zullen worden vastgesteld, doen bijstaan door gespecialiseerde deskundigen.   
+3.  De voorzitter en de erkende deskundigen van elke Commissie worden benoemd door de autoriteiten van de staat waartoe de Commissie behoort. De voorzitter en de erkende deskundigen dienen bij de aanvaarding van hun functie schriftelijk te verklaren dat zij deze in alle onpartijdigheid zullen vervullen. Van ambtenaren wordt een dergelijke verklaring niet geëist.   
+4.  De Commissies van Deskundigen kunnen zich onder de voorwaarden, zoals door elk der betrokken staten zullen worden vastgesteld, doen bijstaan door gespecialiseerde erkende deskundigen.   
 
 ### Artikel  2.02  
 
@@ -352,7 +356,7 @@ d. vaartuigen waarbij niet aan alle voorwaarden voor de afgifte van een certific
 
 e. vaartuigen die zodanige schade hebben geleden dat de staat waarin zij verkeren niet meer overeenstemt met het in het certificaat van onderzoek gestelde;  
 
-f. drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van [artikel 1.21, eerste lid, van het Rijnvaart-politiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) bevoegde autoriteit de vergunning voor een bijzonder transport afhankelijk stelt van het hebben van een voorlopig certificaat van onderzoek;  
+f. drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van artikel 1.21, eerste lid, van het Rijnvaart-politiereglement bevoegde autoriteit de vergunning voor een bijzonder transport afhankelijk stelt van het hebben van een voorlopig certificaat van onderzoek;  
 
 g. vaartuigen waarvoor een Commissie van Deskundigen gelijkwaardige voorzieningen als bedoeld in artikel 2.19, tweede lid, toestaat, voor die gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.     
 2.  Het voorlopige certificaat van onderzoek wordt volgens het model van bijlage D afgegeven, wanneer de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht. Het moet de voorwaarden bevatten die door de Commissie van Deskundigen nodig worden geacht en is geldig: 
@@ -379,7 +383,7 @@ b. 10 jaren voor alle andere vaartuigen.   In met redenen omklede gevallen kan d
 ####Aantekeningen in en wijzigingen van het certificaat van onderzoek
 
 1.  Elke verandering van naam, overgang van de eigendom, iedere hermeting van een vaartuig alsmede elke wijziging van de teboekstelling of van de thuishaven moet door de eigenaar of zijn vertegenwoordiger ter kennis worden gebracht van een Commissie van Deskundigen. Hij moet daarbij tevens het certificaat van onderzoek aan deze Commissie ter wijziging voorleggen.   
-2.  Alle aantekeningen in of wijzigingen van het certificaat van onderzoek, voorzien in dit reglement, in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) en in andere, in gemeen overleg door de Oeverstaten en België vastgestelde bepalingen, kunnen door iedere Commissie van Deskundigen worden aangebracht.   
+2.  Alle aantekeningen in of wijzigingen van het certificaat van onderzoek, voorzien in dit reglement, in het Rijnvaartpolitiereglement en in andere, in gemeen overleg door de Oeverstaten en België vastgestelde bepalingen, kunnen door iedere Commissie van Deskundigen worden aangebracht.   
 3.  Wanneer een Commissie van Deskundigen in het certificaat een wijziging aanbrengt of daarin een aantekening stelt, moet zij daarvan kennis geven aan de Commissie die het betrokken certificaat heeft afgegeven.   
 
 ### Artikel  2.08  
@@ -422,7 +426,7 @@ De eigenaar van een vaartuig of zijn vertegenwoordiger kan op elk moment om een 
 
 ####Inhouding en teruggave van het certificaat van onderzoek
 
-1.  Wanneer een Commissie van Deskundigen tijdens een onderzoek bemerkt dat een vaartuig of de uitrusting daarvan ernstige gebreken vertoont, en dat daardoor de veiligheid van de zich aan boord bevindende personen of de scheepvaart in gevaar wordt gebracht, dient het certificaat te worden ingehouden en dient de Commissie die het heeft afgegeven hiervan onverwijld in kennis te worden gesteld. Bij duwbakken en schepen bestemd voor bouwwerkzaamheden dient ook de in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voorgeschreven metalen plaat te worden ingehouden. Wanneer de Commissie van Deskundigen heeft geconstateerd dat de gebreken zijn verholpen wordt het certificaat aan de eigenaar of zijn vertegenwoordiger teruggegeven. Dit constateren en de teruggave van het certificaat kunnen op verzoek van de eigenaar of zijn vertegenwoordiger door tussenkomst van een andere Commissie geschieden. Wanneer de Commissie van Deskundigen die het certificaat heeft ingehouden vermoedt dat de gebreken niet binnen afzienbare tijd worden verholpen, wordt het certificaat gezonden aan de Commissie van Deskundigen die het heeft afgegeven of, in geval van verlenging, die het het laatst heeft verlengd.   
+1.  Wanneer een Commissie van Deskundigen tijdens een onderzoek bemerkt dat een vaartuig of de uitrusting daarvan ernstige gebreken vertoont, en dat daardoor de veiligheid van de zich aan boord bevindende personen of de scheepvaart in gevaar wordt gebracht, dient het certificaat te worden ingehouden en dient de Commissie die het heeft afgegeven hiervan onverwijld in kennis te worden gesteld. Bij duwbakken en schepen bestemd voor bouwwerkzaamheden dient ook de in het Rijnvaartpolitiereglement voorgeschreven metalen plaat te worden ingehouden. Wanneer de Commissie van Deskundigen heeft geconstateerd dat de gebreken zijn verholpen wordt het certificaat aan de eigenaar of zijn vertegenwoordiger teruggegeven. Dit constateren en de teruggave van het certificaat kunnen op verzoek van de eigenaar of zijn vertegenwoordiger door tussenkomst van een andere Commissie geschieden. Wanneer de Commissie van Deskundigen die het certificaat heeft ingehouden vermoedt dat de gebreken niet binnen afzienbare tijd worden verholpen, wordt het certificaat gezonden aan de Commissie van Deskundigen die het heeft afgegeven of, in geval van verlenging, die het het laatst heeft verlengd.   
 2.  Wanneer een vaartuig definitief is opgelegd of gesloopt, moet de eigenaar het certificaat terugzenden aan de Commissie van Deskundigen die het heeft afgegeven.   
 
 ### Artikel  2.14  
@@ -495,14 +499,14 @@ Schepen moeten volgens goed scheepsbouwgebruik zijn gebouwd.
 
 a. Bij nieuwbouw van een schip en bij verbouwingen waardoor de sterkte van het schip kan worden beïnvloed, dient door berekeningen te worden aangetoond dat de scheepsromp sterk genoeg is. Dit is niet nodig, indien een klassecertificaat of een verklaring van een erkend classificatiebureau wordt overgelegd.  
 
-b. Bij onderzoeken als bedoeld in artikel 2.09 moeten de minimale diktes van de bodem-, kim- en zijbeplating van de scheepshuid overeenkomstig de volgende methode worden gecontroleerd: Bij schepen die van staal zijn gebouwd moet als minimale dikte t <sub>min</sub> de grootste van de aan de hand van de volgende formules vastgestelde waarden worden genomen: 
+b. Bij onderzoeken als bedoeld in artikel 2.09 moeten bij schepen die van staal zijn gebouwd als minimale dikte van de bodem-, kim- en zijbeplating ten minste de grootste van de aan de hand van de volgende formules vastgestelde waarden worden genomen: 
 
 1. Voor schepen met een lengte van meer dan 40 m: t <sub>min</sub>  = f · b · c (2,3 + 0,04 L) [mm] voor schepen met een lengte van 40 m of minder: t <sub>min</sub>  = f · b · c (1,5 + 0,06 L) [mm], echter ten minste 3,0 mm.  
 
 2. Voor schepen ongeacht de lengte: t <sub>min</sub>  = 0,005 · a √ T [mm] In deze formules betekent:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a =  | spantafstand in [mm];  |
 | --- | --- |
 | f =  | factor voor spantafstand:  |
@@ -516,7 +520,7 @@ b. Bij onderzoeken als bedoeld in artikel 2.09 moeten de minimale diktes van de 
 Bij de berekening van de minimumdikte van de kimbeplating kan voor de factor voor de spantafstand worden uitgegaan van f = 1. De minimumdikte van de kimbeplating mag echter in geen geval minder zijn dan die van de bodem- en zijbeplating.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | c =  | factor voor bouwwijze:  |
 | --- | c = 0,95 voor schepen met een dubbele bodem en zijtanks, waarvan het laadruimlangsschot in de zijde verticaal onder de denneboom is geplaatst  |
 | --- | c = 1,0 voor schepen met een andere bouwwijze.  |
@@ -575,15 +579,15 @@ c. bij de plaats van onderhoud die het verst verwijderd is van de uitgang een dr
 ####Vrijboord
 
 1.  Het vrijboord bedraagt voor schepen met een doorlopend dek zonder zeeg en zonder bovenbouw 150 mm.   
-2.  Bij schepen met zeeg en bovenbouw wordt het vrijboord berekend volgens de formule:   ![244588](http://wetten.overheid.nl/Illustration/244588)
+2.  Bij schepen met zeeg en bovenbouw wordt het vrijboord berekend volgens de formule:   ![]()
 In deze formule betekent: α de correctie-coëfficiënt, waarin met alle aanwezige bovenbouwen rekening wordt gehouden; β <sub>v</sub> de correctie-coëfficiënt voor de invloed van de voorste zeeg, veroorzaakt door de aanwezigheid van bovenbouwen in het voorste vierde deel van de scheepslengte L; β <sub>a</sub> de correctie-coëfficiënt voor de invloed van de achterste zeeg, veroorzaakt door de aanwezigheid van bovenbouwen in het achterste vierde deel van de scheepslengte L; Se <sub>v</sub> de in rekening te brengen voorste zeeg in mm; Se <sub>a</sub> de in rekening te brengen achterste zeeg in mm.   
-3.  De coëfficiënt wordt berekend volgens de formule:   ![244588](http://wetten.overheid.nl/Illustration/244588)
-In deze formule betekent: le <sub>m</sub> de in rekening te brengen lengte van een bovenbouw in m op de middelste helft van de scheepslengte L; le <sub>v</sub> de in rekening te brengen lengte van een bovenbouw in m in het voorste vierde deel van de scheepslengte L; le <sub>a</sub> de in rekening te brengen lengte van een bovenbouw in m in het achterste vierde deel van de scheepslengte L. De in rekening te brengen lengte van een bovenbouw wordt berekend volgens de volgende formules:   ![244588](http://wetten.overheid.nl/Illustration/244588)
+3.  De coëfficiënt wordt berekend volgens de formule:   ![]()
+In deze formule betekent: le <sub>m</sub> de in rekening te brengen lengte van een bovenbouw in m op de middelste helft van de scheepslengte L; le <sub>v</sub> de in rekening te brengen lengte van een bovenbouw in m in het voorste vierde deel van de scheepslengte L; le <sub>a</sub> de in rekening te brengen lengte van een bovenbouw in m in het achterste vierde deel van de scheepslengte L. De in rekening te brengen lengte van een bovenbouw wordt berekend volgens de volgende formules:   ![]()
 In deze formules betekent: l de werkelijke lengte van de desbetreffende bovenbouw in m; b de breedte van de desbetreffende bovenbouw in m; B <sub>1</sub> de breedte van het schip in m, gemeten op de buitenkant van de huidbeplating ter hoogte van het dek, gemeten op de halve lengte van de desbetreffende bovenbouw; h de hoogte van de desbetreffende bovenbouw in m. Voor luikhoofden wordt h evenwel berekend door de hoogte van de luikhoofden met de halve veiligheidsafstand overeenkomstig artikel 4.01 te verminderen. Voor h wordt in geen geval een hogere waarde dan 0,36 m aangenomen. Wanneer het quotiënt van b en B of van b en B <sub>1</sub> kleiner is dan 0,6 moet de in rekening te brengen lengte van de bovenbouw le gelijk aan nul worden gesteld.   
-4.  De coëfficiënten β <sub>v</sub> en β <sub>a</sub> worden volgens de volgende formules berekend:   ![244588](http://wetten.overheid.nl/Illustration/244588)
+4.  De coëfficiënten β <sub>v</sub> en β <sub>a</sub> worden volgens de volgende formules berekend:   ![]()
 
-5.  De respectievelijk in rekening te brengen voorste en achterste zeeg Se <sub>v</sub> en Se <sub>a</sub> wordt volgens de volgende formules berekend: Se <sub>v</sub> = s <sub>v</sub> · p, Se <sub>a</sub> = s <sub>a</sub> · p. In deze formules betekent: S <sub>v</sub> de werkelijke zeeg in het voorschip in mm; voor S <sub>v</sub> mag echter geen grotere waarde dan 1000 mm worden aangenomen; S <sub>a</sub> de werkelijke zeeg in het achterschip in mm; voor S <sub>a</sub> mag echter geen grotere waarde dan 500 mm worden aangenomen; p een coëfficiënt, die volgens de volgende formule wordt berekend:   ![244588](http://wetten.overheid.nl/Illustration/244588)
-Hierin is × de van het scheepseinde af gemeten abscis tot het punt waar de zeeg gelijk is aan 0,25 S <sub>v</sub> of 0,25 S <sub>a</sub> (zie onderstaande schets):   ![244588](http://wetten.overheid.nl/Illustration/244588)
+5.  De respectievelijk in rekening te brengen voorste en achterste zeeg Se <sub>v</sub> en Se <sub>a</sub> wordt volgens de volgende formules berekend: Se <sub>v</sub> = s <sub>v</sub> · p, Se <sub>a</sub> = s <sub>a</sub> · p. In deze formules betekent: S <sub>v</sub> de werkelijke zeeg in het voorschip in mm; voor S <sub>v</sub> mag echter geen grotere waarde dan 1000 mm worden aangenomen; S <sub>a</sub> de werkelijke zeeg in het achterschip in mm; voor S <sub>a</sub> mag echter geen grotere waarde dan 500 mm worden aangenomen; p een coëfficiënt, die volgens de volgende formule wordt berekend:   ![]()
+Hierin is × de van het scheepseinde af gemeten abscis tot het punt waar de zeeg gelijk is aan 0,25 S <sub>v</sub> of 0,25 S <sub>a</sub> (zie onderstaande schets):   ![]()
 Voor de coëfficiënt p mag echter geen waarde groter dan 1 worden genomen.   
 6.  Wanneer de waarde van β <sub>a</sub>.Se <sub>a</sub> groter is dan die van β <sub>v</sub>.Se <sub>v</sub> wordt in plaats van de waarde van β <sub>a</sub>.Se <sub>a</sub> die van β <sub>v</sub>.Se <sub>v</sub> genomen.   
 
@@ -639,7 +643,7 @@ Schepen en samenstellen moeten over voldoende vaar- en manoeuvreereigenschappen 
 1.  De vaar- en manoeuvreereigenschappen dienen door proefvaarten te worden aangetoond. Daarbij dient te worden vastgesteld:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | snelheid (vooruitvaren)  | (art. 5.06);  |
 | stopeigenschappen  | (art. 5.07);  |
 | achteruitvaareigenschappen  | (art. 5.08);  |
@@ -790,11 +794,11 @@ e. het uitvallen van de voorgeschreven buffersystemen.
 2.  Een groen lampje in de stuurstelling moet aangeven dat de stuurautomaat voor gebruik gereed is. Uitval, ontoelaatbare afwijkingen van de spanning van de voeding en ontoelaatbare daling van de rotatiefrequentie van de gyroscoop moeten worden gecontroleerd.   
 3.  Wanneer er naast de stuurautomaat nog andere besturingssystemen aanwezig zijn, moet bij de stuurstelling duidelijk te zien zijn welk systeem is ingeschakeld. De omschakeling van het ene systeem naar het andere moet onmiddellijk kunnen geschieden. Storingen van stuurautomaten mogen het betrouwbaar functioneren van de stuurinrichting niet kunnen beïnvloeden.   
 4.  De voeding van de elektrische energie van de stuurautomaat moet onafhankelijk zijn van andere verbruikers.   
-5.  De in stuurautomaten gebruikte gyroscopen, sensoren of bochtaanwijzers moeten voldoen aan de minimumeisen van de ‘Voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor bochtaanwijzers in de Rijnvaart’, die zijn opgenomen in [bijlage 1.7 van de regeling](../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).   
+5.  De in stuurautomaten gebruikte gyroscopen, sensoren of bochtaanwijzers moeten voldoen aan de minimumeisen van de ‘Voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor bochtaanwijzers in de Rijnvaart’, die zijn opgenomen in bijlage 1.7 van de regeling.   
 
 ### Artikel  6.09  
 
-####Keuring en terugkerende testen
+####Keuring
 
 1.  De correcte installatie van de stuurinrichting dient door een Commissie van Deskundigen te worden gekeurd. Daartoe kan de Commissie van Deskundigen om de volgende bescheiden vragen: 
 
@@ -888,7 +892,7 @@ e. controle van de optische en akoestische controle-instrumenten.
 1.  Navigatielichten, evenals de lantaarnhuizen en toebehoren, dragen het keurmerk, dat in de Richtlijn nr. 96/98/EG van de Raad van de Europese Unie van 20 december 1996, inzake uitrusting van zeeschepen, gewijzigd door Richtlijn 2008/67/EG van de Commissie van de Europese Unie van 30 juni 2008, is voorgeschreven of voldoen aan de eisen van Richtlijn nr. 2006/87/EG van het Europees Parlement en van de Raad van 12 december 2006, tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn nr. 82/714/EEG van de Raad.   
 2.  Voor zover de controle van de navigatielichten niet rechtstreeks vanuit het stuurhuis mogelijk is, moeten ter controle van deze lichten in het stuurhuis stroomaanwijslampen of gelijkwaardige inrichtingen, zoals controlelampjes, zijn aangebracht.   
 3.  Bij éénmansstuurstellingen voor het varen op radar moeten ter controle van de navigatielichten en de lichtseinen controlelampen in de stuurstelling zijn ingebouwd. De schakelaars van de navigatielichten moeten in of vlakbij de daarbij behorende controlelampen zijn aangebracht en daar duidelijk bij behoren. De groepering en de kleur van de controlelampen van de navigatielichten en de lichtseinen moeten overeenkomen met de werkelijke opstelling en de kleur van de ingeschakelde navigatielichten en de lichtseinen. Het niet-functioneren van een navigatielicht of lichtsein moet het uitgaan van de overeenkomstige controlelamp tot gevolg hebben dan wel op andere wijze door de betreffende controlelamp worden aangegeven.   
-4.  Bij éénmansstuurstellingen voor het varen op radar dient de bediening van de geluidsseinen met de voet te kunnen geschieden. Dit geldt niet voor het in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) bedoelde ‘blijf weg’-sein.   
+4.  Bij éénmansstuurstellingen voor het varen op radar dient de bediening van de geluidsseinen met de voet te kunnen geschieden. Dit geldt niet voor het in het Rijnvaartpolitiereglement bedoelde ‘blijf weg’-sein.   
 
 ### Artikel  7.06  
 
@@ -902,7 +906,7 @@ a. mag het radarscherm niet wezenlijk buiten de blikrichting van de roerganger v
 b. moet het radarbeeld zonder kap of scherm, ongeacht de buiten het stuurhuis heersende lichtomstandigheden, duidelijk zichtbaar zijn;  
 
 c. moet de bochtaanwijzer direct boven of onder het radarbeeld zijn geplaatst of hierin zijn geïntegreerd.     
-3.  De Inland AIS-apparatuur moet van een type zijn dat voor de Rijn is goedgekeurd door de bevoegde autoriteit van één van de Oeverstaten of van België op grond van de teststandaard (besluit 2007-I-15). Aan de in bijlage N, deel I, vermelde voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur moet worden voldaan. De teststandaard en de lijsten van de overeenkomstig Bijlage N of op grond van als gelijkwaardig erkende typegoedkeuringen toegelaten AIS-appartuur worden door de Centrale Commissie gepubliceerd.   
+3.  De Inland AIS-apparatuur moet van een type zijn dat voor de Rijn is goedgekeurd door de bevoegde autoriteit van één van de Oeverstaten of van België op grond van de teststandaard (besluit 2007-I-15), editie 2.0. Aan de in bijlage N, deel I, vermelde voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur moet worden voldaan. De teststandaard en de lijsten van de overeenkomstig Bijlage N of op grond van als gelijkwaardig erkende typegoedkeuringen toegelaten AIS-appartuur worden door de Centrale Commissie gepubliceerd.   
 
 ### Artikel  7.07  
 
@@ -966,7 +970,13 @@ Wanneer een schip voldoet aan de in de artikelen 7.01, 7.04 tot en met 7.08 en 7
 ####Algemene bepalingen
 
 1.  Werktuigen alsmede de bijbehorende installaties moeten vakkundig zijn ontworpen, uitgevoerd en geïnstalleerd.   
-2.  Installaties die controle vereisen zoals stoomketels, andere drukvaten, alsmede hun toebehoren en liften moeten voldoen aan de voorschriften van één der Oeverstaten of van België.   
+2.  Drukvaten voor de bedrijfsvoering van het schip moeten 
+
+a. vóór de eerste ingebruikstelling,  
+
+b. vóór een hernieuwde ingebruikstelling na een verandering of reparatie, en  
+
+c. met regelmaat en ten minste elke vijf jaar,   door een erkende deskundige op de bedrijfszekerheid worden gekeurd. Deze keuring bestaat uit een interne en externe controle. Voor persluchthouders die intern niet onberispelijk gecontroleerd kunnen worden, of waarvan de onberispelijke staat bij de interne controle niet afdoend kon worden vastgesteld, moet bijkomend een andere niet-destructieve keuringsprocedure of een waterdrukcontrole worden toegepast. Inzake de keuring moet een door de erkende deskundige ondertekende verklaring worden opgesteld waaruit de datum van de keuring blijkt. Andere installaties die controle vereisen zoals stoomketels, andere drukvaten, alsmede hun toebehoren en liften moeten voldoen aan de voorschriften van één der Rijnoeverstaten of van België.   
 3.  Er mogen alleen verbrandingsmotoren worden geïnstalleerd die brandstoffen gebruiken met een vlampunt boven 55 °C.   
 
 ### Artikel  8.02  
@@ -1056,10 +1066,10 @@ b. Wanneer brandstof wordt ingenomen van bunkerstations die door hun eigen techn
 
 1.  Iedere waterdichte afdeling moet afzonderlijk kunnen worden gelenst. Dit geldt niet voor waterdichte afdelingen die tijdens de vaart gewoonlijk luchtdicht zijn afgesloten.   
 2.  Op schepen waarvoor een bemanning is voorgeschreven, moeten twee onafhankelijk van elkaar werkende lenspompen aanwezig zijn, die niet in dezelfde ruimte mogen staan, en waarvan er ten minste één door een motor wordt aangedreven. Indien deze schepen echter een motorvermogen hebben van minder dan 225 kW of een laadvermogen van minder dan 350 t, dan wel, in geval van schepen die niet bestemd zijn voor het vervoer van goederen, een waterverplaatsing van minder dan 250 m <sup>3</sup>, is een hand- of motorlenspomp voldoende. Elk der voorgeschreven pompen moet voor elke waterdichte afdeling te gebruiken zijn.   
-3.  De minimale capaciteit Q <sub>1</sub> van de eerste lenspomp moet worden berekend volgens de volgende formule:   ![244592](http://wetten.overheid.nl/Illustration/244592)
-d <sub>1</sub> moet worden berekend volgens de volgende formule:   ![244592](http://wetten.overheid.nl/Illustration/244592)
-De minimale capaciteit Q <sub>2</sub> van de tweede lenspomp moet worden berekend volgens de volgende formule:   ![244592](http://wetten.overheid.nl/Illustration/244592)
-d <sub>2</sub> moet worden berekend volgens de volgende formule:   ![244592](http://wetten.overheid.nl/Illustration/244592)
+3.  De minimale capaciteit Q <sub>1</sub> van de eerste lenspomp moet worden berekend volgens de volgende formule:   ![]()
+d <sub>1</sub> moet worden berekend volgens de volgende formule:   ![]()
+De minimale capaciteit Q <sub>2</sub> van de tweede lenspomp moet worden berekend volgens de volgende formule:   ![]()
+d <sub>2</sub> moet worden berekend volgens de volgende formule:   ![]()
 De afmeting d <sub>2</sub> behoeft echter niet groter te zijn dan de afmeting d <sub>1</sub>. Bij het berekenen van Q <sub>2</sub> heeft l betrekking op de langste waterdichte afdeling. In deze formules betekent: l: de lengte van de desbetreffende waterdichte afdeling in [m]; d <sub>1</sub>: de rekenkundige inwendige diameter van de hoofdlensleiding in [mm]; d <sub>2</sub>: de rekenkundige inwendige diameter van de aftakking van de lensleiding in [mm].   
 4.  Indien de lenspompen zijn aangesloten op een lenssysteem moet de inwendige diameter van de lensleidingen ten minste afmeting d <sub>1</sub> hebben, in mm, en de inwendige diameter van de aftakkingen ten minste afmeting d <sub>2</sub>, in mm. Voor schepen met een lengte L van minder dan 25 m mogen de afmetingen d <sub>1</sub> en d <sub>2</sub> worden verminderd tot 35 mm.   
 5.  Er zijn slechts zelfaanzuigende lenspompen toegestaan.   
@@ -1138,7 +1148,7 @@ In dit hoofdstuk wordt verstaan onder:
 2.  De uitstoot van deze motoren van koolmonoxide (CO), koolwaterstoffen (HC), stikstofoxide (NO <sub>x</sub>) en van deeltjes (PT) mag, met betrekking tot het nominale toerental n, de volgende waarden niet overschrijden:  
 
 | P <sub>N</sub>  [kW]  | CO  [g/kWh]  | HC  [g/kWh]  | NO <sub>x</sub>  [g/kWh]  | PT  [g/kWh]  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 19 ≤ P <sub>N</sub>  < 37  | 5,5  | 1,5  | 8,0  | 0,8  |
 | 37 ≤ P <sub>N</sub> < 75  | 5,0  | 1,3  | 7,0  | 0,4  |
 | 75 ≤ P <sub>N</sub>  < 130  | 5,0  | 1,0  | 6,0  | 0,3  |
@@ -1205,7 +1215,7 @@ b. een herzien certificaat van typegoedkeuring (met een uitbreidingsnummer) indi
 1.  Met gebruikmaking van de navolgende tabel gelden typegoedkeuringen overeenkomstig de Richtlijnen van de Europese Gemeenschap als gelijkwaardig aan de typegoedkeuringen overeenkomstig de voorwaarden en de bepalingen van dit hoofdstuk:  
 
 | Doel van de motor  | Richtlijn  | Motorcategorie  |
-|:---|:---|:---|
+|---|---|---|
 | Hoofdaandrijving van het schip  | 2004/26/EG  | V  |
 | Hulpmotor met constant toerental  | 2004/26/EG  | V  |
 | H, I, J, K  |
@@ -1303,7 +1313,7 @@ d. soort en doorsnede van de kabels.   In geval van onbemande vaartuigen hoeven 
 De minimum beschermingsgraad van de permanent geïnstalleerde delen van de installaties moet in overeenstemming zijn met de plaats van opstelling, zoals aangegeven in de onderstaande tabel:  
 
 |--- | Minimumbeschermingsgraad (volgens de internationale norm IEC 60529 : 1992)  | Plaats van opstelling  | Generatoren  | Motoren  | Transformatoren  | Schakelborden, verdeelkasten en schakelapparatuur  | Installatiemateriaal  | Verlichting  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|
 | Dienstruimten, machinekamers, stuurmachinekamers  | IP 22  | IP 22  | 2)  IP 22  | 1)2)  IP 22  | IP 44  | IP 22  |
 | Laadruimen  | --- | --- | --- | --- | IP 55  | IP 55  |
 | Ruimten voor accumulatoren en verven  | --- | --- | --- | --- | --- | IP 44  en (Ex)3)  |
@@ -1330,7 +1340,7 @@ In ruimten waarin zich explosieve gassen of gasmengsels kunnen ophopen, zoals ac
 4.  De doorsnede van de aardleiding moet tenminste gelijk zijn aan de waarde zoals aangegeven in de onderstaande tabel:  
 
 | Doorsnede van de stroomgeleider [mm <sup>2</sup> ]  | Minimum doorsnede van de aardleiding  |--- | In geïsoleerde kabels [mm <sup>2</sup> ]  | Separate kabels [mm <sup>2</sup> ]  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 0,5 t/m 4  | gelijk aan de doorsnede van de stroomgeleider  | 4  |
 | > 4 t/m 16  | gelijk aan de doorsnede van de stroomgeleider  | gelijk aan de doorsnede van de stroomgeleider  |
 | > 16 t/m 35  | 16  | 16  |
@@ -1344,7 +1354,7 @@ In ruimten waarin zich explosieve gassen of gasmengsels kunnen ophopen, zoals ac
 1.  Spanningen mogen de volgende waarden niet overschrijden:  
 
 | Soort van installatie  | Ten hoogste toegestane spanning bij  |--- | Gelijkstroom  | Wisselstroom  | Draaistroom  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | a. Kracht- en verwarmingsinstallaties met inbegrip van de wandcontactdozen voor algemeen gebruik  | 250 V  | 250 V  | 500 V  |
 | b. Installaties voor verlichting, communicatie en signalering met inbegrip van de wandcontactdozen voor algemeen gebruik  | 250 V  | 250 V  | –  |
 | c. Wandcontactdozen voor de voeding van apparaten die bij het gebruik in de hand worden gehouden en die op het open dek of in nauwe of vochtige ruimten, met uitzondering van stoomketels of tanks, worden gebruikt:  | --- | --- | --- |
@@ -1544,7 +1554,7 @@ a. De volgende testbelastingen mogen niet leiden tot schade aan of verkeerd func
 b. Spannings- en frequentieafwijkingen:  
 
 |--- |--- | Afwijkingen  |--- | eenheid  | blijvend  | kortstondig  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | Algemeen  | frequentie  | ± 5%  | ± 10% 5 s  |
 | --- | spanning  | ± 10%  | ± 20% 1,5 s  |
 | Accumulatorwerking  | spanning  | + 30%/– 25%  | --- |
@@ -1579,11 +1589,11 @@ c. de vermindering van de stoorgevoeligheid van het aan storing blootstaande app
 
 ####Ankeruitrusting
 
-1.  Schepen die voor het vervoer van goederen zijn bestemd, met uitzondering van zeeschipbakken met een lengte L van ten hoogste 40 m, moeten zijn uitgerust met boegankers, waarvan de totale massa P wordt berekend met behulp van de volgende formule: *p = k · B · T [kg]*. In deze formule betekent: k: een coëfficiënt die rekening houdt met de verhouding tussen de lengte L en de breedte B en met het soort vaartuig:   ![244594](http://wetten.overheid.nl/Illustration/244594)
+1.  Schepen die voor het vervoer van goederen zijn bestemd, met uitzondering van zeeschipbakken met een lengte L van ten hoogste 40 m, moeten zijn uitgerust met boegankers, waarvan de totale massa P wordt berekend met behulp van de volgende formule: *p = k · B · T [kg]*. In deze formule betekent: k: een coëfficiënt die rekening houdt met de verhouding tussen de lengte L en de breedte B en met het soort vaartuig:   ![]()
 Voor duwbakken wordt k gelijkgesteld aan c; c: een ervaringscoëfficiënt overeenkomstig de volgende tabel:  
 
 | Laadvermogen  | Ervaringscoëfficiënt c  |
-|:---|:---|
+|---|---|
 | t/m 400 t  | 45  |
 | > 400 t/m 650 t  | 55  |
 | > 650 t/m 1000 t  | 65  |
@@ -1613,7 +1623,7 @@ c. 60 m voor schepen met een lengte L van meer dan 50 m.   De kettingen van de h
 
 a. bij ankers met een massa tot en met 500 kg: R = 0,35 · P' [kN];  
 
-b. bij ankers met een massa van meer dan 500 t/m 2000 kg:   ![244594](http://wetten.overheid.nl/Illustration/244594)
+b. bij ankers met een massa van meer dan 500 t/m 2000 kg:   ![]()
 
 c. bij ankers met een massa van meer dan 2000 kg: R = 0,25 · P' [kN]. In deze formules betekent: P': de overeenkomstig het eerste tot en met het vierde lid en het zesde lid bepaalde theoretische massa van het betreffende anker. De breeksterkte van de ankerkettingen wordt bepaald aan de hand van de daarvoor in één der Oeverstaten of België geldende normen. Indien zwaardere ankers worden gekozen dan in het eerste tot en met het zesde lid beschreven, wordt de minimum breeksterkte van de ankerketting bepaald aan de hand van de gegeven grotere massa.     
 12.  Indien zwaardere ankers worden gekozen dan in het eerste tot en met het zesde lid beschreven, wordt de minimum breeksterkte van de ankerketting bepaald aan de hand van de gegeven grotere massa. Indien dergelijke zwaardere ankers en de bijbehorende sterkere ankerkettingen aan boord zijn, moeten desondanks in het certificaat van onderzoek de massa’s en de minimum breeksterkte worden ingevuld die zijn voorgeschreven op grond van het eerste tot en met zesde lid en het elfde lid.   
@@ -1624,7 +1634,7 @@ c. bij ankers met een massa van meer dan 2000 kg: R = 0,25 · P' [kN]. In deze f
 
 ####Overige uitrusting
 
-1.  De volgende in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) bedoelde uitrustingsstukken moet ten minste aanwezig zijn: 
+1.  De volgende in het Rijnvaartpolitiereglement bedoelde uitrustingsstukken moeten ten minste aanwezig zijn: 
 
 a. marifooninstallatie;  
 
@@ -1632,11 +1642,21 @@ b. apparaten en installaties die nodig zijn voor het geven van de voorgeschreven
 
 c. onafhankelijk van het aan boord aanwezige elektriciteitsnet werkende lichten ter vervanging van de voor het stilliggen voorgeschreven lichten;  
 
-d. een brandbestendig verzamelreservoir met deksel voor oliehoudende poetslappen dat als zodanig is aangeduid;  
+d. de volgende verzamelreservoirs: 
 
-e. een apart brandbestendig verzamelreservoir voor het overig vast klein chemisch afval en een brandbestendig reservoir met deksel voor vloeibaar klein chemisch afval als bedoeld in het Rijnvaartpolitiereglement dat telkens als zodanig is aangeduid;  
+1°. als zodanig aangeduide verzamelreservoirs voor huisvuil;  
 
-f. een brandbestendig verzamelreservoir met deksel voor slops dat als zodanig is aangeduid.     
+2°. een als zodanig aangeduid verzamelreservoir van staal of van ander stootvast brandbestendig materiaal met sluitend deksel van voldoende grootte, maar ten minste 10 l inhoud, voor het verzamelen van: 
+
+aa. oliehoudende poetslappen;  
+
+bb. vast klein chemisch afval;  
+
+cc. vloeibaar klein chemisch afval, en voor zover dit geproduceerd kan worden, voor het verzamelen van  
+
+dd. slops;  
+
+ee. overig vethoudend scheepsbedrijfsafval.         
 2.  Voorts moeten ten minste aanwezig zijn: 
 
 a. stalen trossen voor het meren: 
@@ -1649,9 +1669,9 @@ a. stalen trossen voor het meren:
 
 * 3de tros: 1/3 van de eerste tros.   Bij schepen met een lengte L van minder dan 20 m kan de kortste tros achterwege blijven. Deze trossen moeten berekend zijn op een minimum breeksterkte Rs die met behulp van de volgende formule wordt vastgesteld: 
 
-* voor L × B × T tot 1000 m <sup>3</sup>:   ![244596](http://wetten.overheid.nl/Illustration/244596)
+* voor L × B × T tot 1000 m <sup>3</sup>:   ![]()
 
-* voor L × B × T groter dan 1000 m <sup>3</sup>:   ![244596](http://wetten.overheid.nl/Illustration/244596)
+* voor L × B × T groter dan 1000 m <sup>3</sup>:   ![]()
 Voor de voorgeschreven stalen trossen moet zich een keuringsbewijs volgens de Europese norm EN 10204 : 1991, model 3.1, aan boord bevinden. Deze trossen mogen worden vervangen door andere kabels van dezelfde lengte en met dezelfde breeksterkte. De breeksterkte voor deze kabels moet in een keuringsbewijs worden aangetoond.  
 
 b. trossen voor het slepen: Sleepboten moeten zijn uitgerust met een bij hun functie passend aantal trossen. De hoofdtros moet echter ten minste 100 m lang zijn en een breeksterkte hebben in kN die overeenkomt met ten minste een derde van het totale vermogen in kW van de voortstuwingsmotor(en). Motorschepen en duwboten die mogen slepen moeten ten minste zijn uitgerust met een sleeptros van 100 m lengte, waarvan de breeksterkte in kN overeenkomt met ten minste een kwart van het totale vermogen in kW van de voortstuwingsmotor(en);  
@@ -1675,21 +1695,21 @@ i. een vanuit de stuurstand bedienbare schijnwerper.
 
 ####Draagbare blustoestellen
 
-1.  Op de volgende plaatsen moet telkens één draagbaar blustoestel overeenkomstig de Europese norm EN 3:1996, aanwezig zijn: 
+1.  Op de volgende plaatsen moet telkens één draagbaar blustoestel, voor Nederlandse vaartuigen overeenkomstig de Europese de Europese normen EN 3-7 : 2007 en EN 3-8 : 2007 en voor overige vaartuigen overeenkomstig de Europese norm EN 3 : 1996, aanwezig zijn: 
 
-a. in het stuurhuis;  
+a. in het stuurhuis,  
 
-b. in de nabijheid van iedere toegang van het dek naar de verblijven;  
+b. in de nabijheid van iedere toegang van het dek naar de verblijven,  
 
-c. in de nabijheid van iedere toegang tot niet van de verblijven uit toegankelijke bedrijfsruimten waarin zich verwarmings-, kook-, of koelinstallaties bevinden, die op vaste of vloeibare brandstoffen werken dan wel op vloeibaar gas;  
+c. in de nabijheid van iedere toegang tot niet van de verblijven uit toegankelijke bedrijfsruimten waarin zich verwarmings-, kook-, of koelinstallaties bevinden, die op vaste of vloeibare brandstoffen werken dan wel op vloeibaar gas,  
 
-d. bij iedere toegang tot machinekamers of ketelruimen;  
+d. bij iedere toegang tot machinekamers of ketelruimen,  
 
-e. op een geschikte plaats benedendeks in de machinekamers, wanneer het motorvermogen in totaal meer dan 100 kW bedraagt.     
-2.  Als draagbare blustoestellen, voorgeschreven in het eerste lid, mogen slechts poederblussers worden gebruikt met een inhoud van ten minste 6 kg dan wel andere draagbare blustoestellen met eenzelfde bluscapaciteit. Zij moeten geschikt zijn voor de brandklassen A, B en C alsmede voor het blussen van branden in elektrische installaties tot 1000 V.   
+e. op een geschikte plaats benedendeks in de machinekamers, wanneer het motorvermogen in totaal meer dan 100 KW bedraagt.     
+2.  Als draagbare blustoestellen, voorgeschreven in het eerste lid, mogen slechts poederblussers worden gebruikt met een inhoud van ten minste 6 kg dan wel andere draagbare blustoestellen met eenzelfde bluscapaciteit. Zij moeten geschikt zijn voor de brandklassen A, B en C alsmede voor het blussen van branden in elektrische installaties tot 1000 V. Op Nederlandse vaartuigen zijn afwijkend daarvan, op schepen waarop geen vloeibaargasinstallaties zijn geïnstalleerd, sproeischuimbrandblussers met tot – 20 °C vorstvrije blusmiddelen bestaande uit water met AFFF-AR-schuim (Aqua Film Forming Foam) toegestaan, ook wanneer deze niet voor de brandklasse C geschikt zijn. De minimuminhoud van deze brandblussers moet 9 liter bedragen. Alle brandblussers op Nederlandse Vaartuigen moeten voor het blussen van branden in elektrische installaties tot 1000 V geschikt zijn.   
 3.  Daarnaast mogen poederblussers, blussers met vloeibare inhoud of schuimblussers worden gebruikt indien deze ten minste geschikt zijn voor die brandklasse, welke in de ruimte waarvoor het toestel bestemd is het meest waarschijnlijk relevant is.   
 4.  Draagbare blustoestellen die als blusmiddel CO <sub>2</sub> bevatten mogen slechts voor het blussen van branden in keukens en elektrische inrichtingen worden aangewend. De inhoud van deze blustoestellen mag niet meer bedragen dan 1 kg voor iedere 15 m <sup>3</sup> van de ruimte waarin zij worden bewaard en gebruikt.   
-5.  Draagbare blustoestellen moeten ten minste iedere twee jaar worden gekeurd. Hiervan moet een verklaring worden afgegeven, ondertekend door degene die de keuring heeft verricht, en waarin de datum van de keuring is aangegeven.   
+5.  Draagbare blustoestellen moeten ten minste iedere twee jaar door een deskundige worden gekeurd. Hiervan moet een kenmerking op het blustoestel worden aangebracht, ondertekend door de deskundige die de keuring heeft verricht, en waarop de datum van de keuring is aangegeven.   
 6.  Wanneer draagbare blustoestellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusapparaat’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig schets 3 van bijlage I.   
 
 ### Artikel  10.03a  
@@ -1703,21 +1723,21 @@ e. op een geschikte plaats benedendeks in de machinekamers, wanneer het motorver
 5.  Installaties die een kleinere hoeveelheid water sproeien moeten beschikken over een typegoedkeuring op grond van de IMO-Resolutie A.800 (19) dan wel van een andere door de Centrale Commissie voor de Rijnvaart erkende norm. De typegoedkeuring wordt uitgevoerd door een erkend classificatiebureau of door een gemachtigde testinstelling. De gemachtigde testinstelling moet voldoen aan de Europese normen inzake de algemene eisen aan de kundigheid van test- en kalibreerlaboratoria (EN ISO/IEC 17025: 2000).   
 6.  De installaties moeten: 
 
-a. voor ingebruikstelling;  
+a. vóór de eerste ingebruikstelling,  
 
-b. voor hernieuwde ingebruikstelling na in werking te zijn geweest;  
+b. voor hernieuwde ingebruikstelling na in werking te zijn geweest,  
 
-c. na verandering of reparatie;  
+c. vóór een hernieuwde ingebruikstelling na een wezenlijke verandering of reparatie, en  
 
-d. met regelmaat tenminste elke twee jaar,   door een deskundige worden gekeurd.   
-7.  Bij de keuring, bedoeld in het zesde lid, moet de deskundige controleren of de installaties aan de eisen van dit artikel voldoen. De keuring moet tenminste bestaan uit: 
+d. met regelmaat en ten minste elke twee jaar,   door een erkende deskundige worden gekeurd. Keuringen overeenkomstig onderdeel d kunnen ook door een deskundige van een bedrijf dat deskundig is op het gebied van brandblusinstallaties worden uitgevoerd.   
+7.  Bij de keuring, bedoeld in het zesde lid, moet de erkende deskundige of de deskundige controleren of de installaties aan de eisen van dit artikel voldoen. De keuring moet tenminste bestaan uit: 
 
 a. inspectie van de buitenkant van de installatie als geheel;  
 
 b. controle van de bedrijfszekerheid van de veiligheidssystemen en de sproeikoppen;  
 
 c. controle van het systeem van druktanks en pompen.     
-8.  Betreffende de keuring moet een verklaring worden opgesteld die door de deskundige wordt ondertekend en waarin de datum van de keuring is vermeld.   
+8.  Met betrekking tot de keuring moet een door de erkende deskundige of de deskundige ondertekende verklaring worden opgesteld waaruit de datum van de keuring blijkt.   
 9.  Het aantal van de aanwezige installaties moet in het certificaat van onderzoek worden aangetekend.   
 
 ### Artikel  10.03b  
@@ -1804,15 +1824,15 @@ a. De installatie mag slechts worden geïnstalleerd of omgebouwd door een bedrij
 
 b. De installatie moet: 
 
-aa. voor ingebruikstelling;  
+aa. vóór de eerste ingebruikstelling,  
 
-bb. voor hernieuwde ingebruikstelling na in werking te zijn geweest;  
+bb. voor hernieuwde ingebruikstelling na in werking te zijn geweest,  
 
-cc. na verandering of reparatie;  
+cc. vóór een hernieuwde ingebruikstelling na een wezenlijke verandering of reparatie, en  
 
-dd. met regelmaat tenminste elke twee jaar,   door een deskundige worden gekeurd.  
+dd. met regelmaat en ten minste elke twee jaar,   door een erkende deskundige worden gekeurd. Keuringen overeenkomstig onderdeel dd kunnen ook door een deskundige van een bedrijf dat deskundig is op het gebied van brandblusinstallaties worden uitgevoerd.  
 
-c. Bij de keuring moet de deskundige controleren of de installatie aan de eisen van dit hoofdstuk voldoet.  
+c. Bij de keuring moet de erkende deskundige of de deskundige controleren of de installatie aan de eisen van dit artikel voldoet.  
 
 d. De keuring moet tenminste betrekking hebben op: 
 
@@ -1942,8 +1962,26 @@ d. passagiersschepen.
 1.  Dekken en gangboorden moeten vlak zijn en moeten vrij zijn van obstakels waarover men kan struikelen; ze moeten zodanig zijn uitgevoerd dat er geen water op kan blijven staan.   
 2.  Dekken alsmede gangboorden, machinekamervloeren, bordessen, trappen en de bolderdeksels in de gangboorden moeten veiligheid bieden tegen uitglijden.   
 3.  Bolderdeksels in de gangboorden en hindernissen in de verkeerswegen, zoals bijvoorbeeld randen van traptreden, moeten in een met het omgevende dek contrasterende kleur zijn geverfd.   
-4.  Buitenkanten van de dekken en de werkplekken, waarbij de valhoogte meer dan 1 m kan bedragen, moeten zijn voorzien van een verschansing of den van elk ten minste 0,70 m hoogte of van relingen die voldoen aan de Europese norm EN 711 : 1995, die bestaan uit een handreling, een tussenroede op kniehoogte en een voetlijst. Bij gangboorden moet een voetlijst en een doorlopende handreling aan de dennenboom zijn aangebracht. De handreling aan de dennenboom kan achterwege worden gelaten, indien het gangboord voorzien is van een niet neerklapbare reling.   
-5.  Voor werkplekken, waar de valhoogte meer dan 1 meter bedraagt, kan de Commissie van Deskundigen geschikte inrichtingen en uitrustingen ten behoeve van het veilig werken eisen.   
+4.  De buitenkanten van de dekken, de gangboorden en de werkplekken, waarbij de valhoogte meer dan 1 m kan bedragen, moeten zijn voorzien van een verschansing of dennenboom van elk ten minste 0,90 m hoogte of van doorlopende relingen die voldoen aan de Europese norm EN 711 : 1995. Indien het gangboord een neerklapbare reling bezit, dan moeten 
+
+a. aan de dennenboom tevens doorlopende handrelingen met een diameter van 0,02 tot 0,04 m op een hoogte tussen 0,7 en 1,1 m en  
+
+b. op goed zichtbare plaatsen aan het begin van het gangboord tekens overeenkomstig Bijlage I, schets 10, met een diameter van ten minste 15 cm zijn aangebracht.     
+5.  In afwijking van het vierde lid hoeven bij duwbakken en sleepschepen zonder verblijven geen verschansingen of relingen aanwezig te zijn, indien 
+
+a. aan de buitenkanten van de dekken en gangboorden voetlijsten,  
+
+b. aan de dennenbomen handrelingen als bedoeld in het vierde lid, onderdeel a, en  
+
+c. op goed zichtbare plaatsen op het dek tekens overeenkomstig Bijlage I, schets 10, met een diameter van ten minste 15 cm zijn aangebracht.     
+6.  In afwijking van het vierde lid hoeven bij schepen met een glad- of trunkdek de relingen niet onmiddellijk aan de buitenkanten van dat dek of in de gangboorden te zijn aangebracht, indien 
+
+a. de verkeerswegen over deze dekken lopen,  
+
+b. de verkeerswegen en werkgebieden op deze dekken door vaste relingen overeenkomstig de Europese norm EN 711 : 1995 zijn omgeven en  
+
+c. op goed zichtbare plaatsen op de passages naar de niet door relingen beschermde gebieden tekens overeenkomstig Bijlage I, schets 10, met een diameter van ten minste 15 cm zijn aangebracht.     
+7.  Voor werkplekken, waar de valhoogte meer dan 1 meter bedraagt, kan de Commissie van Deskundigen geschikte inrichtingen en uitrustingen ten behoeve van het veilig werken voorschrijven.   
 
 ### Artikel  11.03  
 
@@ -1956,7 +1994,7 @@ Werkplekken moeten zo groot zijn dat iedere persoon die er werkt voldoende beweg
 ####Gangboord
 
 1.  De vrije breedte van het gangboord moet ten minste 0,60 m bedragen. Op de plaats van bepaalde ingebouwde noodzakelijke constructies (zoals afsluiters voor dekwasleidingen) behoeft dit slechts 0,50 m te zijn en bij bolders en klampen 0,40 m.   
-2.  De vrije breedte van het gangboord kan tot een hoogte van 0,90 m daarboven tot 0,54 m beperkt blijven wanneer de vrije breedte in het gedeelte daarboven tussen de buitenkant van de scheepshuid en de binnenkant van de opening van het laadruim ten minste 0,65 m bedraagt. In dit geval kan de vrije breedte van het gangboord tot 0,50 m beperkt blijven, indien aan de buitenkant van het gangboord een reling is aangebracht als voorziening tegen overboord vallen van personen, die voldoet aan de Europese norm EN 711 : 1995. Deze reling behoeft niet te zijn aangebracht op schepen met een lengte van 55 m of minder die slechts verblijven op het achterschip hebben.   
+2.  De vrije breedte van het gangboord kan tot een hoogte van 0,90 m daarboven tot 0,50 m beperkt blijven wanneer de vrije breedte in het gedeelte daarboven tussen de buitenkant van de scheepshuid en de binnenkant van de opening van het laadruim ten minste 0,65 m bedraagt.   
 3.  Het eerste en tweede lid gelden tot een hoogte van 2,00 m boven het gangboord.   
 
 ### Artikel  11.05  
@@ -2039,27 +2077,26 @@ d. eventueel serienummer.
 3.  Op elke kraan moet de ten hoogste toelaatbare belasting duurzaam en duidelijk zichtbaar zijn aangebracht. Bij kranen waarvan de bedrijfslast niet meer bedraagt dan 2000 kg hoeft alleen de ten hoogste toelaatbare bedrijfslast bij de grootste vlucht van de kraan duurzaam en duidelijk zichtbaar te zijn aangebracht.   
 4.  Ter voorkoming van het gevaar van persoonlijk letsel moeten beschermende voorzieningen aanwezig zijn. De buitenste delen van de kraan moeten ten opzichte van alle delen van de omgeving van de kraan een veiligheidsafstand naar boven, beneden en naar opzij van ten minste 0,50 m hebben. De veiligheidsafstand naar opzij is buiten het gebied waar gewerkt en gelopen wordt niet noodzakelijk.   
 5.  Kranen die mechanisch worden aangedreven moeten kunnen worden beschermd tegen gebruik door onbevoegden. Ze mogen slechts aan de voor de kraan voorziene bedieningsinrichting in werking kunnen worden gesteld. De bedieningsorganen moeten automatisch in de stopstand terugkeren (schakelaar die niet automatisch in de in werking gestelde stand blijft); duidelijk zichtbaar moet zijn in welke richting zij functioneren. Bij het uitvallen van de aandrijfenergie mag de last niet automatisch kunnen teruglopen. Onopzettelijke kraanbewegingen moeten worden voorkomen. De opwaartse beweging van het hijsmiddel en de overschrijding van de bedrijfslast moeten door adequate voorzieningen zijn beperkt. De neerwaartse beweging van het hijsmiddel moet beperkt zijn wanneer bij het voorziene gebruik van de kraan, op het moment dat het hijsmiddel wordt bevestigd aan de last, minder dan twee wikkelingen van de hijskabel op de liertrommel over zijn. Na het aanspreken van de automatische (beveiligings-)voorzieningen, moet de respectieve tegengestelde beweging nog mogelijk zijn. De breeksterkte van draadkabels voor het lopende werk moet ten minste het vijfvoudige van de maximaal toelaatbare kabeltreksterkte bedragen. De constructie van de draadkabel moet onberispelijk zijn en moet geschikt zijn voor het gebruik bij kranen.   
-6.  Voor de eerste ingebruikneming en voor het opnieuw in gebruik nemen na ingrijpende wijzigingen dient de aanwezigheid van voldoende stevigheid en stabiliteit rekenkundig en door een belastingsproef aan boord te worden aangetoond. Voor kranen waarvan de bedrijfslast niet meer bedraagt dan 2000 kg kan de deskundige beslissen het rekenkundige bewijs geheel of gedeeltelijk te vervangen door een proef met het 1,25-voudige van de bedrijfslast die over het hele werkgebied wordt uitgevoerd. De in de eerste of tweede alinea bedoelde keuring moet door een door de Commissie van Deskundigen erkende deskundige worden verricht.   
-7.  Kranen dienen regelmatig, echter ten minste eens in de twaalf maanden, door een deskundige te worden onderzocht. Hierbij dient door visuele controle en controle van het functioneren te worden vastgesteld dat de kraan veilig is.   
-8.  Uiterlijk om de 10 jaar na de keuring dient de kraan opnieuw door een door de Commissie van Deskundigen erkende deskundige te worden getest.   
-9.  Kranen waarvan de bedrijfslast meer dan 2000 kg bedraagt, die dienen voor de overslag van vracht, of die aan boord van bokken, pontons en andere drijvende werktuigen of schepen bestemd voor bouwwerkzaamheden zijn opgesteld, moeten bovendien voldoen aan de voorschriften van een Oeverstaat of van België.   
-10.  Voor alle kranen moeten ten minste de volgende bescheiden aan boord aanwezig zijn: 
+6.  Kranen moeten: 
 
-a. de gebruiksaanwijzing van de fabrikant van de kraan. Deze moet ten minste de volgende gegevens bevatten: 
+a. vóór de eerste ingebruikstelling,  
 
-– toepassing en functie van de bedieningsorganen;  
+b. vóór een hernieuwde ingebruikstelling na een wezenlijke verandering of reparatie, en  
 
-– maximaal toelaatbare bedrijfslast overeenkomstig de vlucht;  
+c. met regelmaat en ten minste elke tien jaar,   door een erkende deskundige worden gekeurd. Daarbij dient de aanwezigheid van voldoende stevigheid en stabiliteit rekenkundig en door een belastingsproef aan boord te worden aangetoond. Voor kranen waarvan de bedrijfslast niet meer bedraagt dan 2000 kg kan de erkende deskundige beslissen het rekenkundige bewijs geheel of gedeeltelijk te vervangen door een proef met het 1,25-voudige van de bedrijfslast die over het hele werkgebied wordt uitgevoerd. Inzake de keuring moet een door de erkende deskundige ondertekende verklaring worden opgesteld waaruit de datum van de keuring blijkt.   
+7.  Kranen dienen regelmatig, echter ten minste één keer per jaar, door een deskundige te worden gekeurd. Hierbij dient door visuele controle en controle van het functioneren te worden vastgesteld dat de kraan veilig is. Hiervan moet een verklaring worden afgegeven, ondertekend door de deskundige die de keuring heeft verricht, en waarin de datum van de keuring is aangegeven.   
+8.  Kranen waarvan de bedrijfslast meer dan 2000 kg bedraagt, die dienen voor de overslag van vracht, of die aan boord van bokken, pontons en andere drijvende werktuigen of schepen bestemd voor bouwwerkzaamheden zijn opgesteld, moeten bovendien voldoen aan de voorschriften van een Oeverstaat of van België.   
+9.  Voor kranen moeten de gebruiksaanwijzingen van de fabrikant van de kraan aan boord aanwezig zijn. Deze moeten ten minste de volgende gegevens bevatten: 
 
-– maximaal toelaatbare helling van de kraan;  
+a. toepassing en functie van de bedieningsorganen;  
 
-– handleiding voor montage en onderhoud;  
+b. maximaal toelaatbare bedrijfslast overeenkomstig de vlucht;  
 
-– richtlijnen voor de regelmatige controles;  
+c. maximaal toelaatbare helling van de kraan;  
 
-– algemene technische gegevens.    
+d. handleiding voor montage en onderhoud;  
 
-b. de verklaring over uitgevoerde testen als bedoeld in het zesde, zevende, achtste of negende lid.     
+e. algemene technische gegevens.     
 
 ### Artikel  11.13  
 
@@ -2409,11 +2446,17 @@ Op een geschikte plaats aan boord moet een gebruiksaanwijzing zijn aangebracht; 
 
 ####Keuring
 
-Vóór de ingebruikneming van een vloeibaargasinstallatie, na iedere verandering of reparatie en bij iedere vernieuwing van de in artikel 14.15 bedoelde aantekening moet de gehele installatie worden gekeurd door een deskundige die als zodanig door de Commissie van Deskundigen is erkend. Deze deskundige moet bij de keuring nagaan of de installatie in overeenstemming is met dit hoofdstuk. Bij passagiersschepen moet hij bovendien vaststellen of een geldige verklaring over de conformiteit van de inbouw van de in artikel 15.15, negende lid, bedoelde alarminstallatie, of over de controle van die installatie aanwezig is. Hij moet aan de Commissie van Deskundigen een verslag van de keuring uitbrengen.  
+Vloeibaargasinstallaties moeten 
+
+a. vóór de eerste ingebruikstelling,  
+
+b. vóór een hernieuwde ingebruikstelling na een wezenlijke verandering of reparatie, en  
+
+c. bij iedere vernieuwing van de in artikel 14.15 bedoelde aantekening,   door een erkende deskundige worden gekeurd. De erkende deskundige moet controleren of de installatie aan de eisen van dit hoofdstuk voldoet. Met betrekking tot de keuring moet een door de erkende deskundige ondertekende verklaring worden opgesteld waaruit de datum van de keuring blijkt. Hiervan moet een kopie aan de Commissie van Deskundigen worden overgelegd.  
 
 ### Artikel  14.14  
 
-####Beproevingen
+####Voorwaarden voor beproevingen
 
 Het beproeven van de installatie moet onder de volgende voorwaarden geschieden: 
 
@@ -2439,9 +2482,214 @@ b. een beproeving van de luchtdichtheid, uitgevoerd met lucht of met een inert g
 
 ####Attest
 
-1.  Voor elke vloeibaargasinstallatie die in overeenstemming is met dit hoofdstuk moet een aantekening worden geplaatst in het certificaat van onderzoek.   
+1.  Voor elke vloeibaargasinstallatie die aan de eisen van dit hoofdstuk voldoet moet een aantekening worden geplaatst in het certificaat van onderzoek.   
 2.  Deze aantekening wordt door de Commissie van Deskundigen geplaatst na de in artikel 14.13 bedoelde keuring.   
 3.  De geldigheidsduur van de aantekening bedraagt ten hoogste drie jaar. Vóór iedere vernieuwing dient een nieuwe keuring overeenkomstig artikel 14.13 plaats te vinden. Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen omkleed verzoek van de eigenaar of zijn vertegenwoordiger de geldigheidsduur van de aantekening met ten hoogste drie maanden verlengen, zonder dat eerst een keuring overeenkomstig artikel 14.13 heeft plaatsgehad. Deze verlenging wordt in het certificaat van onderzoek aangetekend.   
+
+### Hoofdstuk  14a  
+
+####Boordzuiveringsinstallaties
+
+### Artikel  14a.01  
+
+####Definities
+
+In dit hoofdstuk wordt verstaan onder: 
+
+1. *boordzuiveringsinstallatie:* een compact gebouwde zuiveringsinstallatie voor de reiniging van huishoudelijk afvalwater aan boord van schepen;  
+
+2. *typegoedkeuring:* de beslissing waardoor de bevoegde autoriteit verklaart dat een boordzuiveringsinstallatie aan de technische voorschriften van dit hoofdstuk voldoet;  
+
+3. *bijzondere keuring:* de procedure overeenkomstig artikel 14a.11, waarbij door de bevoegde autoriteit wordt gewaarborgd dat de in een vaartuig gebruik zijnde boordzuiveringsinstallatie aan de voorschriften van dit hoofdstuk voldoet;  
+
+4. *fabrikant:* de persoon of organisatie die tegenover de bevoegde autoriteit verantwoordelijk is voor alle aspecten van de typegoedkeuringsprocedure en voor de conformiteit van de productie. Het is niet noodzakelijk dat deze persoon of organisatie rechtstreeks betrokken is bij alle fasen van de bouw van de boordzuiveringsinstallatie. Indien de boordzuiveringsinstallatie pas na haar oorspronkelijke fabricage door veranderingen en aanvullingen wordt aangepast voor gebruik op een vaartuig in de zin van dit reglement, is de fabrikant degene die deze veranderingen of aanvullingen heeft uitgevoerd;  
+
+5. *inlichtingenformulier:* het formulier, bedoeld in bijlage R, deel II, waarin staat vermeld welke gegevens door de aanvrager moeten worden verstrekt;  
+
+6. *informatiedossier:* het geheel van gegevens, tekeningen, foto’s en andere bescheiden die de aanvrager overeenkomstig de eisen van het inlichtingenformulier aan de technische dienst of de bevoegde autoriteit moet verstrekken;  
+
+7. *informatiepakket:* het informatiedossier plus alle testrapporten en andere documenten die de technische dienst of de bevoegde autoriteit tijdens de uitvoering van hun taken aan het informatiedossier hebben toegevoegd;  
+
+8. *certificaat van typegoedkeuring:* het document, bedoeld in bijlage R, deel III, waarin de bevoegde autoriteit de typegoedkeuring vaststelt;  
+
+9. *proces-verbaal van de kenmerken van de boordzuiveringsinstallatie:* het document, bedoeld in bijlage R, deel VIII, waarin alle kenmerken van de boordzuiveringsinstallatie, met inbegrip van de onderdelen (componenten) en afstellingen die een weerslag hebben op het niveau van de afvalwaterreiniging, evenals alle veranderingen daarvan, vastgelegd zijn;  
+
+10. *inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en kenmerken van de boordzuiveringsinstallatie:* het document, bedoeld in artikel 14a.11, vierde lid, ten behoeve van de bijzondere keuringen;  
+
+11. *huishoudelijk afvalwater:* afvalwater uit keukens, eetruimten, wasruimten en bijkeukens, evenals uit de toiletten;  
+
+12. *zuiveringsslib:* restanten die bij gebruik van een zuiveringsinstallatie aan boord van het schip ontstaan.    
+
+### Artikel  14a.02  
+
+####Algemeen
+
+1.  Dit hoofdstuk is van toepassing op alle boordzuiveringsinstallaties die geïnstalleerd zijn in vaartuigen, voor zover deze boordzuiveringsinstallaties niet onder de desbetreffende richtlijnen van de Europese Gemeenschap met betrekking tot de afvalwaterreiniging vallen.   
+2.  
+
+a. Boordzuiveringsinstallaties moeten bij de typekeuring aan de volgende grenswaarden voldoen:  Tabel 1: Tijdens de typekeuring bij de afvoer van de boordzuiveringsinstallatie (testinstallatie. na te komen grenswaarden 
+
+| Kenmerk  | Concentratie  | Monstertype  | Fase I  vanaf 1.11.2009  | Fase II  vanaf 1.12.2011  |
+|---|---|---|---|---|
+| Biochemische zuurstofbehoefte (BZB <sub>5</sub>)  ISO 5815-1 en 5815-2 : 2003 <sup>1</sup>  | 25 mg/l  | 20 mg/l  | 24-u-mengmonster, gehomogeniseerd  |
+| 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
+| Chemische zuurstofbehoefte (CZB) <sup>2</sup> ISO 6060 : 1989 <sup>1</sup>  | 125 mg/l  | 100 mg/l  | 24-u-mengmonster, gehomogeniseerd  |
+| 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
+| Totaal organisch gebonden koolstof (TOC) EN 1484 : 1997 <sup>1</sup>  | –  | 35 mg/l  | 24-u-mengmonster, gehomogeniseerd  |
+| –  | 45 mg/l  | Steekproef, gehomogeniseerd  |
+
+<sup>1</sup> De Rijnoeverstaten en België kunnen gelijkwaardige procedures voorzien. <sup>2</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de typekeuring ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.  
+
+b. Bij gebruik moet aan de volgende controlewaarden worden voldaan:  Tabel 2: Tijdens gebruik aan boord van passagiersschepen bij de afvoer van de boordzuiveringsinstallatie na te komen controlewaarden 
+
+| Kenmerk  | Concentratie  | Monstertype  | Fase I  vanaf 1.11.2009  | Fase II  vanaf 1.12.2011  |
+|---|---|---|---|---|
+| Biochemische zuurstofbehoefte (BZB <sub>5</sub>)  ISO 5815-1 en 5815-2 : 2003 <sup>1</sup>  | 40 mg/l  | 25 mg/l  | Steekproef, gehomogeniseerd  |
+| Chemische zuurstof-behoefte (CZB) <sup>2</sup> ISO 6060 : 1989 <sup>1</sup>  | 180 mg/l  | 125 mg/l  | Steekproef, gehomogeniseerd  |
+| --- | –  | 150 mg/l  | Steekproef  |
+| Totaal organisch gebonden koolstof (TOC) EN 1484 : 1997 <sup>1</sup>  | –  | 45 mg/l  | Steekproef, gehomogeniseerd  |
+
+<sup>1</sup> De Rijnoeverstaten en België kunnen gelijkwaardige procedures voorzien. <sup>2</sup> In plaats van de chemische zuurstofbehoefte (CZB) kan voor de controle ook van het totaal organisch gebonden koolstof (TOC) worden uitgegaan.   
+3.  Procedures met gebruik van chloorhoudende stoffen zijn niet toegestaan. Het is evenmin toegelaten, het huishoudelijk afvalwater te verdunnen om de specifieke belasting te verminderen en daardoor een verwerking mogelijk te maken.   
+4.  Voor de opslag, conservering (voor zover noodzakelijk) en afgifte van het slib moeten de nodige voorzorgsmaatregelen worden getroffen. Dit houdt tevens een beheerplan voor het zuiveringsslib in.   
+5.  Het voldoen aan de grenswaarden, bedoeld in het tweede lid, tabel 1, wordt door een typekeuring bevestigd en door een typegoedkeuring vastgesteld. De typegoedkeuring wordt vastgelegd in een certificaat van typegoedkeuring. De eigenaar of zijn gevolmachtigde moet een kopie van het certificaat van typegoedkeuring voegen bij de aanvraag van het onderzoek, bedoeld in artikel 2.02. Een kopie van het certificaat van typegoedkeuring en van het proces-verbaal van de kenmerken van de boordzuiveringsinstallatie moeten zich aan boord bevinden.   
+6.  Na de inbouw van de boordzuiveringsinstallatie aan boord, moet, voordat de installatie normaal in gebruik wordt genomen, door de fabrikant een controle van het functioneren worden uitgevoerd. De boordzuiveringsinstallatie moet met de onderstaande gegevens onder nummer 52 van het certificaat van onderzoek worden ingeschreven: 
+
+a. naam,  
+
+b. typegoedkeuringsnummer,  
+
+c. serienummer, en  
+
+d. bouwjaar van de boordzuiveringsinstallatie.     
+7.  Na elke belangrijke wijziging van een boordzuiveringsinstallatie die een invloed heeft op de reiniging van huishoudelijk afvalwater, moet altijd een bijzondere keuring, bedoeld in artikel 14a.11, derde lid, plaatsvinden.   
+8.  De bevoegde autoriteit kan zich voor de vervulling van taken, bedoeld in dit hoofdstuk doen bijstaan door een technische dienst.   
+9.  Om zeker te zijn dat de boordzuiveringsinstallatie functioneert, moet de installatie regelmatig overeenkomstig de indicaties van de fabrikant worden onderhouden. Een dienovereenkomstig bewijs van onderhoud moet zich aan boord bevinden.   
+
+### Artikel  14a.03  
+
+####Aanvraag van een typegoedkeuring
+
+1.  Een aanvraag van een typegoedkeuring voor een boordzuiveringsinstallatietype moet door de fabrikant bij de bevoegde autoriteit worden ingediend. Bij de aanvraag moet een informatiedossier, bedoeld in artikel 14a.01, zesde lid, het ontwerp van een proces-verbaal van de kenmerken de boordzuiveringsinstallatie, bedoeld in artikel 14a.01, negende lid, en het ontwerp van een inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en de kenmerken van het boordzuiveringsinstallatietype, bedoeld in artikel 14a.01, tiende lid, worden gevoegd. De fabrikant moet voor de typegoedkeuring een prototype van een boordzuiveringsinstallatie demonstreren.   
+2.  Indien de bevoegde autoriteit in het geval van een aanvraag van een typegoedkeuring van een boordzuiveringsinstallatie vaststelt dat de ingediende aanvraag met betrekking tot het gepresenteerde prototype van de boordzuiveringsinstallatie, voor de in bijlage R, deel II, aanhangsel 1, beschreven kenmerken van dit boordzuiveringsinstallatietype niet representatief is, moet een ander, en eventueel een extra, prototype dat door de bevoegde autoriteit wordt aangewezen ten behoeve van de goedkeuring, bedoeld in het eerste lid, ter beschikking worden gesteld.   
+3.  Een aanvraag van een typegoedkeuring voor een boordzuiveringsinstallatietype mag bij niet meer dan één bevoegde autoriteit worden ingediend. Voor ieder goed te keuren boordzuiveringsinstallatietype moet een afzonderlijke aanvraag worden ingediend.   
+
+### Artikel  14a.04  
+
+####Typegoedkeuringsprocedure
+
+1.  De bevoegde autoriteit bij wie de aanvraag wordt ingediend, verleent de typegoedkeuring voor het boordzuiveringsinstallatietype dat met de gegevens in het informatiedossier overeenstemt en aan de voorschriften van dit reglement voldoet. Het voldoen aan deze voorschriften wordt overeenkomstig bijlage S van dit reglement gecontroleerd.   
+2.  De bevoegde autoriteit vult voor ieder boordzuiveringsinstallatietype waarvoor zij goedkeuring verleent, alle desbetreffende onderdelen van het certificaat van typegoedkeuring in, waarvan het model is opgenomen in bijlage R, deel III; zij stelt een inhoudsopgave van het informatiepakket op of verifieert deze. De certificaten van typegoedkeuring moeten volgens het systeem aangegeven in bijlage R, deel IV, worden genummerd. Het ingevulde certificaat van typegoedkeuring en de bijbehorende bijlagen worden aan de aanvrager toegezonden.   
+3.  Indien de goed te keuren boordzuiveringsinstallatie haar functie slechts vervult of bijzondere kenmerken slechts vertoont in combinatie met andere onderdelen van het vaartuig waarin de boordzuiveringsinstallatie zal worden ingebouwd, en om die reden de naleving van één of meer eisen slechts kan worden geverifieerd, wanneer de goed te keuren boordzuiveringsinstallatie in combinatie met andere echte of gesimuleerde onderdelen van het vaartuig functioneert, moet de geldigheid van de typegoedkeuring van deze boordzuiveringsinstallatie dienovereenkomstig worden beperkt. In dergelijke gevallen moeten in het certificaat van typegoedkeuring van een boordzuiveringsinstallatietype de eventuele beperkingen in het gebruik, alsmede eventuele voorwaarden waaraan bij montage moet worden voldaan, worden vermeld.   
+4.  Elke bevoegde autoriteit zendt: 
+
+a. bij iedere wijziging aan de andere bevoegde autoriteiten een lijst die de in bijlage R, deel V, vermelde gegevens bevat, van de goedkeuringen van de boordzuiveringsinstallatietypes, die zij in de betrokken periode heeft verleend, geweigerd of ingetrokken;  
+
+b. op verzoek van een andere bevoegde autoriteit: 
+
+aa. een kopie van het certificaat van typegoedkeuring van het boordzuiveringsinstallatietype, al dan niet met het informatiepakket, van ieder boordzuiveringsinstallatietype waarvoor zij een goedkeuring heeft verleend, geweigerd of ingetrokken, en zo nodig  
+
+bb. de lijst van boordzuiveringsinstallaties die zijn geproduceerd in overeenstemming met de verleende typegoedkeuringen, omschreven in artikel 14a.06, derde lid, met de gegevens, bedoeld in bijlage R, deel VI.       
+5.  Elke bevoegde autoriteit zendt jaarlijks en bovendien bij ontvangst van een daartoe strekkend verzoek aan het secretariaat van de Centrale Commissie voor de Rijnvaart een kopie van het in bijlage R, deel VII, bedoelde gegevensformulier betreffende boordzuiveringsinstallatietypes die sinds de laatste kennisgeving zijn goedgekeurd.   
+
+### Artikel  14a.05  
+
+####Wijziging van typegoedkeuringen
+
+1.  De bevoegde autoriteit die de typegoedkeuring heeft verleend, moet de nodige maatregelen treffen om ervoor te zorgen dat zij in kennis wordt gesteld van iedere wijziging van de gegevens in het informatiepakket.   
+2.  De aanvraag om wijziging of uitbreiding van een typegoedkeuring wordt uitsluitend ingediend bij de bevoegde autoriteit die de oorspronkelijke typegoedkeuring heeft verleend.   
+3.  Indien in het informatiepakket beschreven kenmerken van de boordzuiveringsinstallatie worden gewijzigd, verstrekt de bevoegde autoriteit: 
+
+a. indien nodig, de herziene bladzijden van het informatiepakket, waarbij zij op elke afzonderlijke bladzijde de aard van de wijziging en de datum van de herziene versie duidelijk dient te vermelden. Bij iedere heruitgave van bladzijden moet ook de inhoudsopgave van het informatiepakket (dat bij het certificaat van typegoedkeuring is gevoegd) worden gewijzigd om deze in overeenstemming te brengen met de laatste stand van zaken;  
+
+b. een herzien certificaat van typegoedkeuring (met een uitbreidingsnummer), indien de daarin voorkomende gegevens (met uitzondering van de bijlagen) zijn gewijzigd of indien de minimumeisen van dit hoofdstuk sinds de oorspronkelijke datum van de goedkeuring zijn gewijzigd. In dit herziene certificaat moeten duidelijk de reden voor de herziening en de datum van afgifte van de herziene versie worden vermeld.   Indien de bevoegde autoriteit die de typegoedkeuring heeft verleend, vastgesteld heeft dat een voorgenomen wijziging van het informatiepakket aanleiding is voor nieuwe proeven of tests, stelt zij de fabrikant daarvan in kennis en geeft zij de bovengenoemde documenten pas af, nadat de nieuwe proeven of tests met goed gevolg zijn verricht.   
+
+### Artikel  14a.06  
+
+####Conformiteit van de typegoedkeuring
+
+1.  De fabrikant brengt op iedere boordzuiveringsinstallatie die conform de typegoedkeuring is geproduceerd, de in bijlage R, deel I, vastgestelde merktekens aanbrengen, met inbegrip van het typegoedkeuringsnummer.   
+2.  Indien de typegoedkeuring overeenkomstig artikel 14a.04, derde lid, beperkingen aan het gebruik bevat, moeten door de fabrikant bij iedere gefabriceerde eenheid gedetailleerde gegevens over deze beperkingen en de volledige inbouwvoorschriften worden bijgeleverd.   
+3.  De fabrikant zendt op verzoek van de bevoegde autoriteit die de typegoedkeuring heeft verleend, binnen 45 dagen na het einde van ieder kalenderjaar en onmiddellijk na ieder verder tijdstip dat door de bevoegde autoriteit is vastgesteld, een lijst met serienummers van alle boordzuiveringsinstallaties die conform de eisen van dit hoofdstuk zijn geproduceerd sinds de laatste lijst werd ingediend of sinds de datum waarop deze voorschriften voor het eerst van kracht werden. Deze lijst moet het verband tussen de serienummers en de daarbij behorende boordzuiveringsinstallatietypes en de typegoedkeuringsnummers aangeven. Bovendien moet de lijst bijzondere gegevens bevatten indien de fabrikant niet langer een typegoedgekeurd boordzuiveringsinstallatietype produceert. Indien de bevoegde autoriteit niet verlangt dat deze lijst haar regelmatig wordt toegezonden, moet de fabrikant de geregistreerde gegevens gedurende ten minste 40 jaar bewaren.   
+
+### Artikel  14a.07  
+
+####Erkenning van andere gelijkwaardige normen
+
+1.  Met gebruikmaking van de in de navolgende tabel vermelde voorschriften gelden de genoemde typegoedkeuringen als gelijkwaardig aan de typegoedkeuringen overeenkomstig de voorwaarden en bepalingen van dit Reglement:  
+
+| Gebruik van de zuiveringsinstallatie  | Voorschrift  | Indeling/Categorie  | Eisen  |
+|---|---|---|---|
+| --- | --- | --- | --- |
+
+2.  De Centrale Commissie voor de Rijnvaart kan de gelijkwaardigheid erkennen van andere overeenstemmende normen vastgelegd in internationale regelingen, of van een derde land, met de voorwaarden en bepalingen van dit reglement inzake de typegoedkeuring van boordzuiveringsinstallaties.   
+
+### Artikel  14a.08  
+
+####Controle van de serienummers
+
+1.  De bevoegde autoriteit die een typegoedkeuring verleent, zorgt ervoor dat de serienummers van de boordzuiveringsinstallaties die overeenkomstig de voorschriften van dit hoofdstuk zijn geproduceerd, zo nodig in samenwerking met de andere bevoegde autoriteiten, worden geregistreerd en gecontroleerd.   
+2.  Een bijkomende controle van de serienummers kan plaatsvinden ter gelegenheid van de controle van de conformiteit van de productie, bedoeld in artikel 14a.09.   
+3.  Met betrekking tot de controle van de serienummers verstrekken de fabrikant of zijn in de Rijnoeverstaten of België gevestigde agenten op verzoek van de bevoegde autoriteit onverwijld alle benodigde gegevens betreffende de cliënten alsook de serienummers van de boordzuiveringsinstallaties, waarvan is medegedeeld dat zij conform artikel 14a.06, derde lid, zijn geproduceerd.   
+4.  Indien een fabrikant, na een verzoek daartoe van de bevoegde autoriteit, niet in staat is de in artikel 14a.06 bedoelde voorschriften na te komen, kan de goedkeuring voor de betreffende boordzuiveringsinstallatie worden ingetrokken. Daarvan wordt kennis gegeven volgens de procedure overeenkomstig artikel 14a.10, vierde lid.   
+
+### Artikel  14a.09  
+
+####Conformiteit van de productie
+
+1.  De bevoegde autoriteit die een typegoedkeuring verleent, vergewist er zich van tevoren van, zo nodig in samenwerking met de andere bevoegde autoriteiten, dat de met betrekking tot bijlage R, deel I, passende voorzorgsmaatregelen zijn getroffen om een doeltreffende controle van de conformiteit van de productie te waarborgen.   
+2.  De bevoegde autoriteit die een typegoedkeuring heeft verleend, vergewist er zich van, zo nodig in samenwerking met de andere bevoegde autoriteiten, dat de in het eerste lid bedoelde voorzorgsmaatregelen met betrekking tot de bepalingen van bijlage R, deel I, nog steeds afdoende zijn en elke geproduceerde boordzuiveringsinstallatie die krachtens dit reglement van een typegoedkeuringsnummer is voorzien, nog steeds beantwoordt aan de beschrijving die in het certificaat van typegoedkeuring en de daarbij horende bijlagen inzake het boordzuiveringsinstallatietype is gegeven.   
+3.  De bevoegde autoriteit kan vergelijkbare controles van andere bevoegde autoriteiten met betrekking tot de bepalingen in het eerste en tweede lid als gelijkwaardig erkennen.   
+
+### Artikel  14a.10  
+
+####Non-conformiteit met het typegoedgekeurde boordzuiveringsinstallatietype
+
+1.  Er is sprake van non-conformiteit met het typegoedgekeurde boordzuiveringsinstallatietype, indien er afwijkingen worden vastgesteld van de kenmerken in het certificaat van typegoedkeuring of eventueel in het informatiepakket, indien deze afwijkingen niet door de bevoegde autoriteit die de typegoedkeuring heeft verleend zijn toegestaan op grond van artikel 14a.05, derde lid.   
+2.  Indien de bevoegde autoriteit die een typegoedkeuring heeft verleend, vaststelt dat boordzuiveringsinstallaties niet conform zijn met het boordzuiveringsinstallatietype waarvoor zij de goedkeuring heeft verleend, neemt zij de nodige maatregelen om ervoor te zorgen dat de in productie zijnde boordzuiveringsinstallaties opnieuw in overeenstemming worden gebracht met het typegoedgekeurde boordzuiveringsinstallatietype. De bevoegde autoriteit die de non-conformiteit heeft vastgesteld, stelt de andere bevoegde autoriteiten en het secretariaat van de Centrale Commissie voor de Rijnvaart in kennis van de genomen maatregelen, die tot intrekking van de typegoedkeuring kunnen leiden.   
+3.  Indien een bevoegde autoriteit kan aantonen dat boordzuiveringsinstallaties die van een typegoedkeuringsnummer zijn voorzien, niet conform zijn met het typegoedgekeurde boordzuiveringsinstallatietype, kan zij van de bevoegde autoriteit die de typegoedkeuring heeft verleend, verzoeken te controleren of de in productie zijnde boordzuiveringsinstallaties conform zijn met het typegoedgekeurde boordzuiveringsinstallatietype. De hiertoe vereiste maatregelen moeten binnen zes maanden na de datum van het verzoek worden genomen.   
+4.  De bevoegde autoriteiten stellen elkaar in kennis van en informeren het secretariaat van de Centrale Commissie voor de Rijnvaart binnen één maand over de intrekking van een typegoedkeuring en van de redenen daarvoor.   
+
+### Artikel  14a.11  
+
+####Steekproefmeting/bijzondere keuring
+
+1.  Uiterlijk drie maanden na de ingebruikname van het passagiersschip of na de inbouw achteraf en de overeenkomstige controle van het functioneren van de boordzuiveringsinstallatie, neemt de bevoegde autoriteit tijdens de exploitatie van het passagiersschip een steekproef ter controle van het nakomen van de in artikel 14a.02, tweede lid, tabel 2 vermelde controlewaarden. De bevoegde autoriteit controleert bovendien door middel van steekproefmetingen van tijd tot tijd zonder vaste regelmaat het goede functioneren van de boordzuiveringsinstallatie om vast te stellen of de in artikel 14a.02, tweede lid, tabel 2, vermelde controlewaarden nog worden nagekomen. Indien de bevoegde autoriteit vaststelt dat de waarden van de steekproefmetingen de controlewaarden, bedoeld in artikel 14a.02, tweede lid, tabel 2, niet nakomen dan kan zij eisen: 
+
+a. dat de gebreken van de boordzuiveringsinstallatie worden verholpen, zodat de installatie weer naar behoren werkt;  
+
+b. dat de conformiteit van de boordzuiveringsinstallatie met de typegoedkeuring wordt hersteld; of  
+
+c. dat een bijzondere keuring overeenkomstig het derde lid wordt verricht.   Indien de gebreken worden verholpen en de conformiteit van de boordzuiveringsinstallatie met de vereisten van de typegoedkeuring wordt hersteld, kan de bevoegde autoriteit opnieuw steekproefmetingen verrichten. Indien de gebreken niet worden verholpen of indien de conformiteit van de boordzuiveringsinstallatie met de vereisten van de typegoedkeuring niet wordt hersteld, verzegelt de bevoegde autoriteit de boordzuiveringsinstallatie en informeert de Commissie van Deskundigen, die vervolgens een overeenkomstige aantekening op het certificaat van onderzoek onder nummer 52 maakt.   
+2.  De metingen van de steekproeven moeten geschieden volgens de in artikel 14a.02, derde lid, tabel 2, voorgeschreven normen.   
+3.  Indien de bevoegde autoriteit aan de boordzuiveringsinstallatie bijzonderheden vaststelt die op een afwijking van de typegoedkeuring zou kunnen wijzen, dan voert de bevoegde autoriteit een bijzondere keuring uit, om de feitelijke toestand van de boordzuiveringsinstallatie met betrekking tot de onderdelen, de ijking en de afstellingen van de parameters zoals die in het proces-verbaal van de kenmerken van de boordzuiveringsinstallatie zijn gespecificeerd. Indien de bevoegde autoriteit vaststelt dat de boordzuiveringsinstallatie niet conform is met het typegoedgekeurde boordzuiveringsinstallatietype, kan zij eisen dat: 
+
+a. de conformiteit van de boordzuiveringsinstallatie wordt hersteld, of  
+
+b. de typegoedkeuring als bedoeld in artikel 14a.05 dienovereenkomstig wordt gewijzigd, of  
+
+c. een meting overeenkomstig het keuringsvoorschrift wordt uitgevoerd, als bedoeld in bijlage S.   Indien de conformiteit niet wordt hersteld of de typegoedkeuring niet dienovereenkomstig wordt aangepast, of indien de uitgevoerde metingen, bedoeld onder onderdeel b, aantonen dat de vastgestelde grenswaarden, bedoeld in artikel 14a.02, tweede lid, tabel 1, niet worden nagekomen, verzegelt de bevoegde autoriteit de boordzuiveringsinstallatie en informeert de Commissie van Deskundigen, die vervolgens een overeenkomstige aantekening op het certificaat van onderzoek onder nummer 52 maakt.   
+4.  De keuringen als bedoeld in het derde lid geschieden aan de hand van het inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en de kenmerken van de boordzuiveringsinstallatie. In dit formulier, dat door de fabrikant wordt opgesteld en dat door een bevoegde autoriteit moet worden goedgekeurd, worden de onderdelen die betrekking hebben op de afvalwaterreiniging alsmede de instellingen, dimensioneringscriteria, en kenmerken gespecificeerd, bij toepassing waarvan kan worden uitgegaan van een onafgebroken inachtneming van de waarden van artikel 14a.02, tweede lid, tabel 1 en 2. Daarin wordt ten minste vermeld: 
+
+a. het boordzuiveringsinstallatietype met een beschrijving van de werkwijze en of afvalwaterverzameltanks vóór de boordzuiveringsinstallatie moeten worden geïnstalleerd;  
+
+b. een lijst van de voor de reiniging van het afvalwater specifieke componenten;  
+
+c. toegepaste bouw- en dimensioneringscriteria, dimensioneringsvereisten enregelgeving;  
+
+d. schematische weergave van de boordzuiveringsinstallatie met niet te verwarren merktekens om de toegelaten componenten betrekking hebbend op de afvalwaterreiniging te identificeren (bijv. nummers van onderdelen die zich op de componenten bevinden).     
+5.  Na een verzegeling mag de buiten bedrijf gestelde boordzuiveringsinstallatie alleen na een bijzondere keuring, bedoeld in het derde lid, eerste paragraaf, weer in gebruik genomen worden   
+
+### Artikel  14a.12  
+
+####Bevoegde autoriteiten en technische diensten
+
+1.  De Rijnoeverstaten en België delen aan het secretariaat van de Centrale Commissie voor de Rijnvaart de namen en de adressen van de bevoegde autoriteiten en technische diensten mede, die verantwoordelijk zijn voor de uitvoering van dit hoofdstuk. De technische diensten moeten voldoen aan de Europese normen voor het functioneren van testlaboratoria (EN ISO/IEC 17025 : 2000), en voldoen aan de volgende voorwaarden: 
+
+a. de fabrikanten van boordzuiveringsinstallaties kunnen niet als technische dienst worden erkend;  
+
+b. voor de toepassing van doeleinden van dit hoofdstuk mag een technische dienst met toestemming van de bevoegde autoriteit gebruik maken van inrichtingen buiten zijn eigen testinstelling.     
+2.  Technische diensten niet gelegen in de lidstaten van de Centrale Commissie voor de Rijnvaart kunnen slechts op aanbeveling van de Centrale Commissie voor de Rijnvaart worden erkend.   
 
 ### Hoofdstuk  15  
 
@@ -2480,7 +2728,7 @@ e. Vloeibaargasinstallaties als bedoeld in hoofdstuk 14.
 
 1.  Bij een onderzoek overeenkomstig artikel 2.09 wordt de dikte van de scheepshuid van stalen passagiersschepen als volgt vastgesteld: 
 
-a. De minimale dikte t <sub>min</sub> van de bodem-, kim- en zijbeplating van de scheepshuid van passagiersschepen wordt bepaald volgens de grootste waarde van de volgende formules:   ![244597](http://wetten.overheid.nl/Illustration/244597)
+a. De minimale dikte t <sub>min</sub> van de bodem-, kim- en zijbeplating van de scheepshuid van passagiersschepen wordt bepaald volgens de grootste waarde van de volgende formules:   ![]()
 Daarbij betekent: f = 1 + 0,0013· (a – 500); a = spantafstand in de lengte of de breedte [mm]; bij een kleinere spantafstand dan 400 mm moet a = 400 mm worden genomen.  
 
 b. De uit onderdeel a voortvloeiende minimale waarde voor de plaatdikte behoeft niet te worden gehaald, wanneer de toegestane waarde op basis van een rekenkundig bewijs voor de voldoende sterkte van de scheepsromp (langs- en dwarssterkte als ook plaatselijke sterkte) is vastgelegd en dit uit een verklaring blijkt.  
@@ -2494,7 +2742,7 @@ d. Platen moeten worden vervangen, wanneer de dikte van de bodem-, kim- of zijpl
 5.  De schotten die bij de lekberekening als bedoeld in artikel 15.03, zevende tot en met dertiende lid, in aanmerking zijn genomen, moeten waterdicht zijn en tot boven het schottendek opgetrokken zijn. Ontbreekt het schottendek, dan moeten zij tenminste 0,20 m boven de indompelingsgrenslijn zijn opgetrokken.   
 6.  Het aantal openingen in deze schotten moet zo gering worden gehouden als vanwege de bouwwijze en voor de normale bedrijfsvoering van het schip toelaatbaar is. Openingen en doorvoeringen mogen de waterdichte functie van de schotten niet nadelig beïnvloeden.   
 7.  In het aanvaringsschot zijn openingen en deuren niet toegestaan.   
-8.  In schotten als bedoeld in het vijfde lid die machinekamers van passagiersruimten of woonruimten voor het boordpersoneel scheiden, zijn deuren niet toegestaan.   
+8.  In schotten die machinekamers van passagiersruimten of woonruimten voor het boordpersoneel scheiden, zijn deuren niet toegestaan.   
 9.  Met de hand te bedienen deuren in schotten als bedoeld in het vijfde lid die niet op afstand bediend kunnen worden, zijn slechts toegestaan buiten de voor passagiers bestemde plaatsen. Zij moeten: 
 
 a. voortdurend gesloten blijven en mogen slechts voor passage kortstondig worden geopend;  
@@ -2542,14 +2790,14 @@ c. bij het eind van de vaart 100% passagiers, 10% brandstof en drinkwater, 98% a
 d. leeg schip geen passagiers, 10% brandstof en drinkwater, geen afvalwater.   Voor alle standaard beladingcondities moet uitgegaan worden van lege dan wel volle ballasttanks, overeenkomstig hun normale gebruik. Om te kunnen ballasten tijdens de vaart moet de volgende beladingconditie voor het derde lid, onder d, worden aangetoond: 100% passagiers, 50% brandstof en drinkwater, 50% afvalwater, het totaal van de andere vloeistoftanks met inbegrip van ballast voor 50% gevuld.   
 3.  Het bewijs van voldoende stabiliteit van het onbeschadigde schip via een berekening moet worden geleverd met toepassing van de volgende eisen voor voldoende stabiliteit van het onbeschadigde schip en voor de in het tweede lid, onder a tot en met d, genoemde standaard beladingcondities: 
 
-a. De maximale oprichtende arm van statische stabiliteit h <sub>max</sub> moet bij een slagzij van φ <sub>max</sub> ≥ (φ <sub>mom</sub> + 3°) optreden en moet ten minste 0,20 m bedragen. Wanneer φ <sub>f</sub> < φ <sub>max</sub> is moet de oprichtende arm van statische stabiliteit bij een hoek van het onder water komen φ <sub>f</sub> ten minste 0,20 m bedragen.  
+a. De maximale oprichtende arm h <sub>max</sub> moet bij een slagzij van φ <sub>max</sub> ≥ (φ <sub>mom</sub> + 3°) optreden en moet ten minste 0,20 m bedragen. Wanneer φ <sub>f</sub> < φ <sub>max</sub> is moet de oprichtende arm bij een hoek van het onder water komen φ <sub>f</sub> ten minste 0,20 m bedragen.  
 
 b. De hoek van het onderwater komen φ <sub>f</sub> mag niet kleiner zijn dan (φ <sub>mom</sub> + 3°).  
 
-c. Het vlak A onder de kromme van de oprichtende arm van statische stabiliteit moet, afhankelijk van de positie van φ <sub>f</sub> en φ <sub>max</sub> tenminste de volgende waarden bereiken:  
+c. Het vlak A onder de kromme van de oprichtende arm moet, afhankelijk van de positie van φ <sub>f</sub> en φ <sub>max</sub> tenminste de volgende waarden bereiken:  
 
 | Geval  |--- | φ <sub>max</sub>  | A  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | φ <sub>max</sub>  ≥ 15° of φ <sub>f</sub> ≥ 15°  | --- | 0,05 m·rad tot aan kleinste van de hoeken φ <sub>max</sub> of φ <sub>f</sub>  |
 | 2  | 15° < φ <sub>max</sub>  < 30°  | φ <sub>max</sub> ≤ φ <sub>f</sub>  | 0,035 + 0,001*(30 – φ <sub>max</sub>) m·rad tot aan de hoek φ <sub>max</sub>  |
 | 3  | 15° < φ <sub>f</sub> < 30°  | φ <sub>max</sub>  > φ <sub>f</sub>  | 0,035 + 0,001*(30 – φ <sub>f</sub>) m·rad tot aan de hoek φ <sub>f</sub>  |
@@ -2558,13 +2806,13 @@ c. Het vlak A onder de kromme van de oprichtende arm van statische stabiliteit m
 Daarbij betekent:  
 
 | --- | --- |
-|:---|:---|
-| h <sub>max</sub>  | de maximale oprichtende arm van statische stabiliteit  |
+|---|---|
+| h <sub>max</sub>  | de maximale oprichtende arm  |
 | φ  | de hoek van de slagzij  |
 | φ <sub>f</sub>  | de hoek van het onderwater komen, dat wil zeggen de hoek van de slagzij waarbij de openingen in de scheepsromp, in de opbouwen of dekhuizen, die niet waterdicht gesloten kunnen worden, onderwater komen te staan  |
 | φ <sub>mom</sub>  | de maximale hoek van de slagzij als bedoeld onder e  |
-| φ <sub>max</sub>  | de hoek van de slagzij waarbij sprake is van de maximale oprichtende arm van statische stabiliteit  |
-| A  | vlakken onder de kromme van de oprichtende arm van statische stabiliteit  |
+| φ <sub>max</sub>  | de hoek van de slagzij waarbij sprake is van de maximale oprichtende arm  |
+| A  | vlakken onder de kromme van de oprichtende arm  |
 
 d. De metacentrische hoogte bij het begin van GM <sub>o</sub>, gecorrigeerd in verband met het effect van de vrije oppervlakken in vloeistoftanks, mag niet minder bedragen dan 0,15 m;  
 
@@ -2577,11 +2825,11 @@ bb. op basis van het kenterende moment tengevolge van personen en het draaien va
 f. Het resterende vrijboord mag bij een kenterend moment tengevolge van personen, wind en het draaien van het schip als bedoeld in het vierde, vijfde en zesde lid, niet minder bedragen dan 0,2 m.  
 
 g. De resterende veiligheidsafstand moet voor schepen met vensters, of andere openingen in de scheepshuid die beneden het schottendek zijn gelegen en die niet waterdicht gesloten zijn, tenminste 0,1 m bedragen uitgaande van de drie kenterende momenten, bedoeld in onderdeel f.     
-4.  Het kenterende moment tengevolge van een concentratie van personen (M <sub>P</sub>) op één plaats moet op grond van de volgende formule als volgt worden berekend:   ![244598](http://wetten.overheid.nl/Illustration/244598)
+4.  Het kenterende moment tengevolge van een concentratie van personen (M <sub>P</sub>) op één plaats moet op grond van de volgende formule als volgt worden berekend:   ![]()
 In deze formule betekent:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | P =  | totale massa van personen aan boord in [t], te berekenen uit de som van het ten hoogste toegelaten aantal passagiers en het maximale aantal van het boordpersoneel en de bemanning onder normale bedrijfsomstandigheden onder aanname van een gemiddelde massa van 0,075 t per persoon  |
 | y =  | zijdelingse afstand van het zwaartepunt van de massa van personen P vanaf de middellijn van het schip in [m]  |
 | g =  | acceleratie van de zwaartekracht (g = 9,81 m/s <sup>2</sup>)  |
@@ -2597,17 +2845,17 @@ In deze formule betekent:
 De berekening moet worden uitgevoerd zowel voor een concentratie van personen aan stuurboord als voor een concentratie aan bakboord. De verdeling van personen moet de meest ongunstige zijn vanuit het oogpunt van stabiliteit. Ingeval er hutten aanwezig zijn moet voor de berekening van het moment van personen ervan worden uitgegaan dat deze niet bezet zijn. Voor de berekening van beladen situaties moet het middelpunt van de zwaarte van een persoon worden genomen op 1 m boven het laagste punt van het betreffende dek op 0,5 L <sub>wl</sub> zonder rekening te houden met een verlaging of verhoging in het dek of de kromming van het dek en onder aanname van een massa van 0,075 per persoon. Een gedetailleerde vaststelling van de vlakken aan dek, die door personen bezet zijn, kan achterwege blijven, indien de volgende waarden worden toegepast:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | P =  | 1,1· F <sub>max</sub> · 0,075 in het geval van schepen voor dagtochten  1,5· F <sub>max</sub> · 0,075 in het geval van hotelschepen  In deze formules betekent:  F <sub>max</sub> = het ten hoogste aan boord toegelaten aantal passagiers;  y = B/2 in [m]  |
 
-5.  Het moment tengevolge van wind (M <sub>w</sub>) moet als volgt worden berekend: M <sub>w</sub>  = p <sub>w</sub> ·A <sub>w</sub> · (I <sub>w</sub>  + T/2) [kNm] In deze formule betekent: p <sub>w</sub> = specifieke winddruk van 0,25 kN/m <sup>2</sup>; A <sub>w</sub> = zijdelings oppervlak van het schip boven het vlak van de inzinking in [m <sup>2</sup> ] die overeenkomt met de betreffende beladingstoestand; l <sub>w</sub> = afstand van het zwaartepunt van het zijdelingse vlak A <sub>w</sub> tot het vlak van de inzinking in m die overeenkomt met de betreffende beladingstoestand in [m].   
+5.  Het moment tengevolge van wind (M <sub>w</sub>) moet als volgt worden berekend: M <sub>w</sub>  = p <sub>w</sub> ·A <sub>w</sub> · (I <sub>w</sub>  + T/2) [kNm] In deze formule betekent: p <sub>w</sub> = specifieke winddruk van 0,25 kN/m <sup>2</sup>; A <sub>w</sub> = zijdelings oppervlak van het schip boven het vlak van de inzinking, en voor Nederlandse vaartuigen het vlak van de grootste inzinking, in [m <sup>2</sup> ] die overeenkomt met de betreffende beladingstoestand; l <sub>w</sub> = afstand van het zwaartepunt van het zijdelingse vlak A <sub>w</sub> tot het vlak van de inzinking in m die overeenkomt met de betreffende beladingstoestand in [m].   
 6.  Het moment tengevolge van de centrifugale kracht (M <sub>dr</sub>), veroorzaakt door het draaien van het schip, moet als volgt worden berekend: M <sub>dr</sub>  = c <sub>dr</sub> · C <sub>B</sub> · v <sup>2</sup> · D/L <sub>WL</sub> ·(KG – T/2) [kNm] In deze formule betekent: c <sub>dr</sub> = coëfficiënt van 0,45; C <sub>B</sub> = de blokcoëfficiënt (indien niet bekend moet hiervoor 1,0 worden aangenomen); v = grootste snelheid van het schip in m/s; KG = afstand van het zwaartepunt tot de bovenkant van de kiel in m. In geval het passagierschip is uitgerust met een aandrijfsysteem overeenkomstig artikel 6.06 moet M <sub>dr</sub> worden afgeleid uit beproevingen op ware grootte dan wel met modellen, hetzij op basis van daarmee overeenkomende berekeningen.   
 7.  De aanvrager moet met een berekening, die berust op de procedure van het wegvallen van het drijfvermogen, aantonen dat de lekstabiliteit van het schip voldoende is. Alle berekeningen moeten zodanig worden uitgevoerd dat daarbij aan trim en inzinking geen vaste waarden zijn toegekend.   
 8.  Het drijfvermogen in lekke toestand moet voor de in het tweede lid bedoelde standaard beladingcondities worden aangetoond. Hierbij moet voor drie tussenstadia van het volstromen (25%, 50% en 75% van de eindtoestand van het volgestroomd zijn) en voor de eindtoestand van het volgelopen zijn aan het rekenkundig bewijs van voldoende stabiliteit zijn voldaan.   
 9.  Passagiersschepen moeten voldoen aan de 1-compartimentstatus en aan de 2-compartimentstatus. De volgende indicaties moeten voor het geval van een lekke toestand in acht worden genomen:  
 
 |--- | 1-compartimentstatus  | 2-compartimentstatus  |
-|:---|:---|:---|
+|---|---|---|
 | Omvang van het lek aan de zijde  | --- |
 | in langsrichting l [m]  | 0,10 – L <sub>WL, maar niet minder dan 4 m</sub>  | 0,05 – L <sub>WL, maar niet minder dan 2,25 m</sub>  |
 | in dwarsrichting b [m]  | B/5  | 0,59  |
@@ -2617,7 +2865,7 @@ De berekening moet worden uitgevoerd zowel voor een concentratie van personen aa
 | in dwarsrichting b [m]  | B/5  |
 | loodrecht h [m]  | 0,59; pijpleidingen die overeenkomstig artikel 15.02, dertiende lid, onder c , zijn aangelegd kunnen als onbeschadigd worden beschouwd  |
 
-a. Voor de 1-compartimentstatus kunnen de schotten als onbeschadigd worden beschouwd, wanneer de onderlinge afstand tussen twee aangrenzende schotten groter is dan de lengte van het lek. Langsschotten die zich op een afstand van minder dan B/3 ten opzichte van de scheepshuid bevinden, gemeten in een rechte hoek ten opzichte van de scheepsmiddellijn in het vlak van de grootste inzinking, mogen in de berekening niet worden meegenomen.  
+a. Voor de 1-compartimentstatus kunnen de schotten als onbeschadigd worden beschouwd, wanneer de onderlinge afstand tussen twee aangrenzende schotten groter is dan de lengte van het lek. Langsschotten die zich op een afstand van minder dan B/3 ten opzichte van de scheepshuid bevinden, gemeten in een rechte hoek ten opzichte van de scheepsmiddellijn in het vlak van de grootste inzinking, mogen in de berekening niet worden meegenomen. Een sprong of een nis in een dwarsschot, waarvan de lengte groter is dan 2,50 m, wordt als een langsschot beschouwd.  
 
 b. Voor de 2-compartimentstatus wordt ieder schot dat is gelegen binnen het gebied waar het lek van invloed is als beschadigd aangemerkt. Dit betekent dat de plaats van de schotten zodanig moet worden gekozen, dat het passagiersschip na het volstromen van twee of meer aangrenzende compartimenten in de langsrichting nog kan blijven drijven.  
 
@@ -2647,11 +2895,11 @@ d. Voor de berekening van het effect van de vrije oppervlakken bij alle tussenst
 
 a. de hoek van de slagzij φ <sub>E</sub> mag niet meer bedragen dan 10°;  
 
-b. afgezien van de evenwichtssituatie moet het positieve bereik van de kromme van armen van statische stabiliteit een oprichtende arm van statische stabiliteit aangeven van GZ <sub>R</sub> ≥ 0,02 m gecombineerd met een vlak A ≥ 0,0025 m∙rad. Deze minimumwaarden van de stabiliteit moeten worden bereikt tot aan het onder water komen van de eerste onbeschermde opening of in ieder geval vóór het bereiken van een hoek van de slagzij van 25°;   ![244598](http://wetten.overheid.nl/Illustration/244598)
+b. afgezien van de evenwichtssituatie moet het positieve bereik van de kromme van armen van statische stabiliteit een oprichtende arm van statische stabiliteit aangeven van GZ <sub>R</sub> ≥ 0,02 m gecombineerd met een vlak A ≥ 0,0025 m∙rad. Deze minimumwaarden van de stabiliteit moeten worden bereikt tot aan het onder water komen van de eerste onbeschermde opening of in ieder geval vóór het bereiken van een hoek van de slagzij van 25°;   ![]()
 Daarbij betekent  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | φ <sub>E</sub>  | de hoek van de slagzij bij het volledig onderwater komen met inachtneming van het moment als bedoeld in het vierde lid;  |
 | φ <sub>m</sub>  | de hoek van de afnemende stabiliteit dan wel de hoek waarbij de eerste onbeschermde opening onder water komt, of 25°; de kleinste van deze waarden moet worden aangehouden;  |
 | GZ <sub>R</sub>  | de resterende oprichtende arm van statische stabiliteit bij volledig onder water komen met inachtneming van het kenterende moment als bedoeld in het vierde lid;  |
@@ -2709,7 +2957,7 @@ c. het aantal beschikbare bedden voor passagiers op hotelschepen, die voor reize
 
 a. zich op alle dekken achter het vlak van het aanvaringsschot en, voorzover ze onder het schottendek zijn gelegen, vóór het vlak van het achterpiekschot bevinden, en  
 
-b. gasdicht gescheiden zijn van machinekamers en ketelruimen.     
+b. gasdicht gescheiden zijn van machinekamers en ketelruimen.   Dekzones, die door dekzeilen of dergelijke mobiele inrichtingen niet alleen naar boven, maar ook zijdelings gedeeltelijk of geheel zijn overdekt, moeten aan dezelfde eisen als aan gesloten passagiersverblijven voldoen.   
 2.  Kasten als bedoeld in artikel 11.13 en ruimten voor brandbare vloeistoffen moeten zich buiten het gebied bestemd voor passagiers bevinden.   
 3.  Aantal en breedte van uitgangen van passagiersverblijven moeten aan de volgende voorwaarden voldoen: 
 
@@ -2823,7 +3071,7 @@ c. Indien de openingen en inrichtingen voor embarkeren en debarkeren niet vanuit
 12.  Loopplanken moeten overeenkomstig de Europese norm EN 114206 : 2003, zijn vervaardigd. In afwijking van artikel 10.02, tweede lid, onder d, mag hun lengte minder dan 4 m bedragen.   
 13.  Doorgangsruimten die zijn bestemd voor gebruik door personen met beperkte mobiliteit moeten een vrije breedte van tenminste 1,30 m hebben en vrij zijn van drempels en opstaande randen die een hoogte van 0,025 m te boven gaan. Wanden van doorgangsruimten die zijn bestemd voor gebruik door personen met beperkte mobiliteit moeten zijn voorzien van handrelingen op een hoogte van 0,90 m boven de vloer.   
 14.  Glazen deuren, glazen wanden van doorgangsruimten en vensterruiten moeten van voorgespannen glas of van gelaagd glas zijn vervaardigd. Zij mogen ook van kunststof zijn vervaardigd, indien dit uit een oogpunt van brandveiligheid toelaatbaar is. Doorzichtige deuren en tot aan de vloer doorlopende doorzichtige wanden van doorgangsruimten moeten opvallend zijn gemarkeerd.   
-15.  Opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan mogen slechts van materiaal zijn vervaardigd dat ingeval van schade de kans op verwonding van personen aan boord zo klein mogelijk houdt.   
+15.  Opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan, of overdekkingen door dekzeilen of dergelijke mobiele inrichtingen evenals de constructies daaronder mogen slechts van dergelijk materiaal zijn vervaardigd en dusdanig zijn gerealiseerd dat in geval van schade de kans op verwonding van personen aan boord zo klein mogelijk is.   
 16.  Drinkwaterinstallaties moeten tenminste aan de eisen van artikel 12.05 voldoen.   
 17.  Er moeten toiletten voor passagiers beschikbaar zijn. Tenminste één toilet moet volgens een betreffende norm of voorschrift van een van de Rijnoeverstaten of België voor het gebruik door personen met beperkte mobiliteit uitgevoerd zijn en via een passagiersverblijf dat is bestemd voor het gebruik door personen met beperkte mobiliteit te bereiken zijn.   
 18.  Hutten die geen venster hebben dat geopend kan worden moeten zijn aangesloten op een airconditioning- of ventilatiesysteem.   
@@ -2995,35 +3243,23 @@ bb. gelijkwaardige voorschriften van één der Rijnoeverstaten of België.
 e. De Commissie van Deskundigen kan in overeenstemming met de code voor brandtestmethoden een test voor een model scheidingsvlak voorschrijven teneinde zeker te stellen dat aan de voorschriften inzake weerstandsvermogen en temperatuurverhoging, bedoeld in het tweede lid, is voldaan.     
 2.  Scheidingsvlakken 
 
-a. Scheidingsvlakken van ruimten moeten worden uitgevoerd in overeenstemming met de volgende tabellen: 
+a) Scheidingsvlakken van ruimten moeten worden uitgevoerd in overeenstemming met de volgende tabellen: 
 
-aa. Tabel voor scheidingsvlakken van ruimten waarin geen sprinklerinstallaties als bedoeld in artikel 10.03a zijn geïnstalleerd.  
+aa) Tabel voor scheidingsvlakken van ruimten waarin geen sprinklerinstallaties als bedoeld in artikel 10.03a zijn geïnstalleerd.   ![]()
 
-| Ruimten  | Controleposten  | Trappenschachten  | Verzamelruimten  | Verblijfsruimten  | Machinekamers  | Keukens  | Voorraadruimten  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| Controleposten  | –  | A 0  | A 0/B 15 <sup>1</sup>  | A 30  | A 60  | A 60  | A 60  |
-| Trappenschachten  | --- | –  | A 0  | A 30  | A 60  | A 60  | A 60  |
-| Verzamelruimten  | --- | --- | –  | A 30/B15 <sup>2</sup>  | A 60  | A 60  | A 60  |
-| Verblijfsruimten  | --- | --- | --- | –/B 15 <sup>3</sup>  | A 60  | A 60  | A 60  |
-| Machinekamers  | --- | --- | --- | --- | A 60/A 0 <sup>4</sup>  | A 60  | A 60  |
-| Keukens  | --- | --- | --- | --- | --- | A 0  | A 60/B15 <sup>5</sup>  |
-| Voorraadruimten  | --- | --- | --- | --- | --- | --- | –  |
+bb) Tabel voor scheidingsvlakken van ruimten waarin sprinklerinstallaties als bedoeld in artikel 10.03a zijn geïnstalleerd.   ![]()
 
-<sup>1</sup> Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15. <sup>1</sup> Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15. <sup>3</sup> Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. <sup>4</sup> Scheidingsvlakken tussen machinekamers, bedoeld in de artikelen 15.07 en 15.10, zesde lid, moeten voldoen aan type A60, en overigens aan type A0. <sup>5</sup> Voor scheidingsvlakken tussen keukens en koelruimten of voorraadruimten voor levensmiddelen is B15 voldoende.  
+1) Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15.  
 
-bb. Tabel voor scheidingsvlakken van ruimten waarin sprinklerinstallaties als bedoeld in artikel 10.03a zijn geïnstalleerd.  
+2) Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15.  
 
-| Ruimten  | Controleposten  | Trappenschachten  | Verzamelruimten  | Verblijfsruimten  | Machinekamers  | Keukens  | Voorraadruimten  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| Controleposten  | –  | A 0  | A 0/ B 15 <sup>6</sup>  | A 0  | A 60  | A 60  | A 30  |
-| Trappenschachten  | --- | –  | A 0  | A 0  | A 60  | A 30  | A 0  |
-| Verzamelruimten  | --- | --- | –  | A 30/B15 <sup>7</sup>  | A 60  | A 60  | A 60  |
-| Verblijfsruimten  | --- | --- | --- | –/B 0 <sup>8</sup>  | A 60  | A 30  | A 0  |
-| Machinekamers  | --- | --- | --- | --- | A 60/A 0 <sup>9</sup>  | A 60  | A 60  |
-| Keukens  | --- | --- | --- | --- | --- | –  | B 15  |
-| Voorraadruimten  | --- | --- | --- | --- | --- | --- | –  |
+3) Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. Scheidingsvlakken tussen hutten en sauna’s moeten voldoen aan type A0 en ruimten met sprinklerinstallaties aan type B15.  
 
-<sup>6</sup> Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15. <sup>7</sup> Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15. <sup>8</sup> Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. <sup>9</sup> Scheidingsvlakken tussen machinekamers, bedoeld in de artikelen 15.07 en 15.10, zesde lid, moeten voldoen aan type A60, en overigens aan type A0.    
+4) Scheidingsvlakken tussen machinekamers, bedoeld in de artikelen 15.07 en 15.10, zesde lid, moeten voldoen aan type A60, en overigens aan type A0.  
+
+5) Scheidingsvlakken tussen voorraadruimten voor de opslag van brandbare vloeistoffen en controleposten evenals verzamelruimten moeten voldoen aan type A60 en ruimten met sprinklerinstallaties aan type A 30.  
+
+6) Voor scheidingsvlakken tussen keukens en koelruimten of voorraadruimten voor levensmiddelen is B15 voldoende.      
 
 b. Scheidingsvlakken van het type ‘A’ zijn schotten, wanden en dekken, die aan de volgende eisen voldoen: 
 
@@ -3043,10 +3279,11 @@ bb. Ze hebben een zodanige isolatiewaarde, dat de gemiddelde temperatuur aan de 
 
 cc. Ze zijn zodanig gebouwd dat ze de doorvoer van vuur verhinderen tot aan het eind van het eerste half uur van de standaard brandtest.       
 3.  In ruimten, met uitzondering van machinekamers en voorraadruimten, toegepaste verf, lak en andere producten voor het behandelen van oppervlakken, alsmede bedekking van dekken moeten moeilijk ontvlambaar zijn. Vaste vloerbedekking, stoffen, gordijnen en andere hangende materialen van textiel, alsmede gestoffeerde meubels en beddengoed, moeten moeilijk ontvlambaar zijn voorzover de ruimten waarin ze zich bevinden niet beschikken over een automatisch werkende sprinklerinstallatie als bedoeld in artikel 10.03a.   
-4.  De in ruimten voor passagiers aangebrachte plafonds en stofferingen van wanden met inbegrip van de constructies daaronder moeten, voorzover die ruimten niet over een automatisch werkende sprinklerinstallatie beschikken als bedoeld in artikel 10.03a, van onbrandbaar materiaal zijn vervaardigd met uitzondering van de oppervlakken ervan die tenminste moeilijk ontvlambaar moeten zijn.   
+4.  De in ruimten voor passagiers aangebrachte plafonds en stofferingen van wanden met inbegrip van de constructies daaronder moeten, voorzover die ruimten niet over een automatisch werkende sprinklerinstallatie beschikken als bedoeld in artikel 10.03a, van onbrandbaar materiaal zijn vervaardigd met uitzondering van de oppervlakken ervan die tenminste moeilijk ontvlambaar moeten zijn. De eerste volzin geldt niet voor sauna’s aan boord van vaartuigen.   
 5.  Meubels en constructies in verblijfsruimten, waarin zich verzamelruimten bevinden, moeten, voorzover die ruimten niet beschikken over een automatisch werkende sprinklerinstallatie als bedoeld in artikel 10.03a, van onbrandbaar materiaal zijn vervaardigd.   
 6.  Verf, lak en andere stoffen, die worden toegepast op onbeschermde oppervlakken aan de binnenkant, mogen bij brand niet meer dan normale hoeveelheden rook en giftige stoffen ontwikkelen. Dit moet worden aangetoond met toetsing aan de code voor brandtestmethoden.   
 7.  Isolatiemateriaal in verblijfsruimten moet onbrandbaar zijn. Dit geldt niet voor isolaties van leidingen voor koelvloeistof. De oppervlakken van de isolatie van deze leidingen moeten tenminste moeilijk ontvlambaar zijn.   
+7a.  Dekzeilen of dergelijke mobiele inrichtingen, waarmee dekzones gedeeltelijk of geheel worden overdekt, evenals constructies daaronder moeten moeilijk ontvlambaar zijn.   
 8.  Deuren in scheidingsvlakken als bedoeld in het tweede lid moeten aan de volgende eisen voldoen: 
 
 a. Ze moeten aan dezelfde eisen, bedoeld in het tweede lid, voldoen als de scheidingsvlakken zelf.  
@@ -3242,7 +3479,7 @@ dd. gebruik van bepaalde inrichtingen.     Deze instructies moeten in het Duits,
 
 ####Voorzieningen voor het verzamelen en het verwijderen van huishoudelijk afvalwater
 
-1.  Passagiersschepen moeten ofwel van verzameltanks voor afvalwater ofwel van geschikte zuiveringsinstallaties zijn voorzien.   
+1.  Passagiersschepen moeten ofwel van verzameltanks voor huishoudelijk afvalwater overeenkomstig het tweede lid ofwel van boordzuiveringsinstallaties overeenkomstig hoofdstuk 14a zijn voorzien.   
 2.  Tanks voor het verzamelen van afvalwater moeten voldoende capaciteit hebben. De tanks moeten zijn voorzien van een inrichting waarmee het niveau kan worden vastgesteld, dan wel hoever de tank gevuld is. Om de tanks leeg te maken moeten aan boord pompen en leidingen aanwezig zijn, waarmee het afvalwater op aanlegplaatsen aan beide zijden van het schip kan worden afgegeven. Doorvoer van afvalwater van andere schepen moet mogelijk zijn. De leidingen moeten zijn voorzien van een aansluiting voor afgifte overeenkomstig de Europese norm EN 1306 : 1996.   
 
 ### Artikel  15.15  
@@ -3352,7 +3589,7 @@ b. Assisterende en slepende schepen moeten zijn uitgerust met een vanuit het stu
 
 c. Als sleepinrichting moeten sleeplieren of een sleephaak aanwezig zijn. De sleepinrichtingen moeten vóór de schroeven zijn aangebracht. Dit geldt niet voor sleepboten die met het aandrijforgaan worden gestuurd, zoals een roerpropeller of cycloïdaalschroef;  
 
-d. In afwijking van c is bij schepen die uitsluitend worden gebruikt voor het slepen van motorschepen in de zin van het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) ook een sleepinrichting zoals bolders of gelijkwaardige inrichtingen voldoende. Het onder b gestelde is van overeenkomstige toepassing;  
+d. In afwijking van c is bij schepen die uitsluitend worden gebruikt voor het slepen van motorschepen in de zin van het Rijnvaartpolitiereglement ook een sleepinrichting zoals bolders of gelijkwaardige inrichtingen voldoende. Het onder b gestelde is van overeenkomstige toepassing;  
 
 e. Wanneer de sleeptrossen op een achterschip zouden kunnen blijven haken dienen daar sleepbogen met draadvangers te zijn aangebracht.     
 2.  Schepen met een lengte L van meer dan 86 m mogen niet worden toegelaten om afvarend te slepen.   
@@ -3505,14 +3742,14 @@ h. vrije oppervlakken van vloeistof;
 i. dynamische traagheidskrachten;  
 
 k. andere mechanische inrichtingen.   Daarbij dienen momenten die tegelijkertijd kunnen inwerken te worden opgeteld.   
-4.2.  Het moment tengevolge van de winddruk dient te worden berekend volgens de volgende formule:   ![244601](http://wetten.overheid.nl/Illustration/244601)
+4.2.  Het moment tengevolge van de winddruk dient te worden berekend volgens de volgende formule:   ![]()
 In deze formule betekent: c de vormafhankelijke weerstandscoëfficiënt; Voor vakwerk moet worden uitgegaan van c = 1,2 en voor gesloten constructies van c = 1,6, waarbij rekening is gehouden met de invloed van windstoten. Het windvangend oppervlak is de omhullende oppervlakte van het vakwerk. p <sub>w</sub> de specifieke winddruk; deze moet uniform op 0,25 kN/m <sup>2</sup> worden gesteld; A het zijdelings oppervlak boven het vlak van de grootste inzinking in m <sup>2</sup>; I <sub>W</sub> de afstand van het zwaartepunt van het zijdelings oppervlak A tot het vlak van de grootste inzinking in m.   
 4.3.  Voor de vaststelling van de momenten bij de draaibeweging als bedoeld in lid 4.1, onder d, dient bij drijvende werktuigen met mechanische middelen tot voortbeweging de formule van artikel 15.03, zesde lid, te worden gebruikt.   
 4.4.  Het door dwarsstroming als bedoeld in lid 4.1, onder e, veroorzaakte moment hoeft alleen te worden meegerekend bij drijvende werktuigen die gedurende het werk in stromend water dwarsliggend met ankers of kabels zijn vastgemaakt.   
 4.5.  Bij de berekening van de momenten resulterend uit vloeibare ballast en vloeibare voorraden als bedoeld in lid 4.1, onder f, dient de voor de stabiliteit meest ongunstige vullingsgraad van de tanks te worden vastgesteld en het dienovereenkomstige moment in de berekening te worden opgenomen.   
 4.6.  Met het uit dynamische traagheidskrachten resulterende moment als bedoeld in lid 4.1, onder i, moet op passende wijze rekening worden gehouden, wanneer door bewegingen van de lading en van de werkinrichtingen een beïnvloeding van de stabiliteit te verwachten is.   
-5.  De oprichtende momenten kunnen bij drijvende voorwerpen met loodrechte zijwanden worden berekend volgens de formule:   ![244601](http://wetten.overheid.nl/Illustration/244601)
-In deze formule betekent:   ![244601](http://wetten.overheid.nl/Illustration/244601)
+5.  De oprichtende momenten kunnen bij drijvende voorwerpen met loodrechte zijwanden worden berekend volgens de formule:   ![]()
+In deze formule betekent:   ![]()
 de metacentrumhoogte in m; φ de hellingshoek in °. Deze formule is van toepassing tot hellingshoeken van ten hoogste 10° of tot een hellingshoek waarbij de zijde van het dek wordt ingedompeld of de bodem boven water uitkomt. Daarbij is de kleinste hoek doorslaggevend. Bij schuin lopende zijwanden is de formule van toepassing tot hellingshoeken van ten hoogste 5°; voor het overige zijn de criteria als bedoeld in het derde lid en in de leden 4.1 tot en met 4.6, van toepassing. Wanneer de bijzondere vorm van het drijvend voorwerp of de drijvende voorwerpen dit niet toelaat, zijn stabiliteitskrommen als bedoeld in het tweede lid, onder c, vereist.   
 
 ### Artikel  17.08  
@@ -3779,10 +4016,10 @@ f. van hoofdstuk 14:
 
 ####Algemene bepalingen
 
-1.  Indien volgens het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voor schepen die containers vervoeren stabiliteitsbescheiden zijn vereist, is dit hoofdstuk van toepassing. De stabiliteitsbescheiden moeten door een Commissie van Deskundigen worden geverifieerd en van haar waarmerk worden voorzien.   
+1.  Indien volgens het Rijnvaartpolitiereglement voor schepen die containers vervoeren stabiliteitsbescheiden zijn vereist, is dit hoofdstuk van toepassing. De stabiliteitsbescheiden moeten door een Commissie van Deskundigen worden geverifieerd en van haar waarmerk worden voorzien.   
 2.  De stabiliteitsbescheiden moeten de schipper begrijpelijke informatie bieden over de stabiliteit van het schip in elke voorkomende beladingstoestand. De stabiliteitsbescheiden moeten ten minste bevatten: 
 
-a. gegevens betreffende de toelaatbare stabiliteitscoëfficiënten, de toegestane   ![244604](http://wetten.overheid.nl/Illustration/244604)
+a. gegevens betreffende de toelaatbare stabiliteitscoëfficiënten, de toegestane   ![]()
 of de toegestane zwaartepuntshoogten van de lading;  
 
 b. gegevens betreffende de ruimten die met ballastwater kunnen worden gevuld;  
@@ -3799,43 +4036,43 @@ d. een berekeningsvoorbeeld of handleiding voor de schipper.
 
 1.  Voor niet-vastgezette containers moet bij elke berekeningsmethode om de stabiliteit van het schip vast te stellen van de volgende criteria worden uitgegaan: 
 
-a. De metacentrumhoogte   ![244620](http://wetten.overheid.nl/Illustration/244620)
+a. De metacentrumhoogte   ![]()
 mag niet minder zijn dan 1,00 m.  
 
 b. Onder de gelijktijdige invloed van de middelpuntvliedende kracht bij het draaien van het schip, de winddruk en de vrije vloeistofoppervlakken mag de optredende slagzij niet meer zijn dan 5° en mag de zijde van het dek niet in het water komen.  
 
-c. De arm van het moment veroorzaakt door de middelpuntvliedende kracht bij het draaien van het schip wordt berekend volgens de formule:   ![244620](http://wetten.overheid.nl/Illustration/244620)
-In deze formule betekent: C <sub>KZ</sub> coëfficiënt c <sub>KZ</sub> = 0,04 [s <sup>2</sup> /m]; v de grootste snelheid van het schip ten opzichte van het water [m/s];   ![244620](http://wetten.overheid.nl/Illustration/244620)
+c. De arm van het moment veroorzaakt door de middelpuntvliedende kracht bij het draaien van het schip wordt berekend volgens de formule:   ![]()
+In deze formule betekent: C <sub>KZ</sub> coëfficiënt c <sub>KZ</sub> = 0,04 [s <sup>2</sup> /m]; v de grootste snelheid van het schip ten opzichte van het water [m/s];   ![]()
 de hoogte van het gewichtszwaartepunt van het geladen schip boven de basis [m]; T' de diepgang van het geladen schip [m].  
 
-d. De arm van het moment veroorzaakt door de winddruk wordt berekend volgens de formule:   ![244620](http://wetten.overheid.nl/Illustration/244620)
+d. De arm van het moment veroorzaakt door de winddruk wordt berekend volgens de formule:   ![]()
 In deze formule betekent: C <sub>KW</sub> coëfficiënt (C <sub>KW</sub> = 0,025) [t/m <sup>2</sup> ]; A' het lateraal oppervlak van het geladen schip boven water [m <sup>2</sup> ]; D' het deplacement van het geladen schip [t]; I <sub>W</sub> de afstand van het zwaartepunt van het lateraal oppervlak A' boven de waterlijn [m]; T' de diepgang van het geladen schip [m].  
 
-e. De arm van het moment veroorzaakt door de vrije vloeistofoppervlakken van regen- en restwater in het laadruim of de dubbele bodem wordt berekend volgens de formule:   ![244620](http://wetten.overheid.nl/Illustration/244620)
+e. De arm van het moment veroorzaakt door de vrije vloeistofoppervlakken van regen- en restwater in het laadruim of de dubbele bodem wordt berekend volgens de formule:   ![]()
 In deze formule betekent: c <sub>KfO</sub> coëfficiënt (c <sub>KfO</sub> = 0,015) [t/m <sup>2</sup> ] b de breedte van het desbetreffende ruim of ruimgedeelte [m]; <sup> 1  Ruimgedeelten van vrije vloeistofoppervlakken ontstaan, indien door waterdichte langs- en/of dwars-verdelingen van elkaar onafhankelijke vrije vloeistofoppervlakken worden gevormd.  </sup> l de lengte van het desbetreffende ruim of ruimgedeelte [m]; <sup> 2  Ruimgedeelten van vrije vloeistofoppervlakken ontstaan, indien door waterdichte langs- en/of dwars-verdelingen van elkaar onafhankelijke vrije vloeistofoppervlakken worden gevormd.  </sup> D' het deplacement van het geladen schip [t].  
 
 f. Voor elke beladingstoestand moet met de halve voorraad aan brandstof en drinkwater worden gerekend.     
-2.  De stabiliteit van een met niet-vastgezette containers geladen schip wordt geacht voldoende te zijn wanneer de aanwezige   ![244620](http://wetten.overheid.nl/Illustration/244620)
-gelijk aan of kleiner is dan   ![244620](http://wetten.overheid.nl/Illustration/244620)
-volgens de volgende formules. Daarbij moet   ![244620](http://wetten.overheid.nl/Illustration/244620)
+2.  De stabiliteit van een met niet-vastgezette containers geladen schip wordt geacht voldoende te zijn wanneer de aanwezige   ![]()
+gelijk aan of kleiner is dan   ![]()
+volgens de volgende formules. Daarbij moet   ![]()
 worden berekend voor verschillende verplaatsingen over het gehele diepgangsbereik. 
 
-a.   ![244620](http://wetten.overheid.nl/Illustration/244620)
-Voor   ![244620](http://wetten.overheid.nl/Illustration/244620)
+a.   ![]()
+Voor   ![]()
 mag geen kleinere waarde dan (11,5 worden genomen 11,5 = 1/tan5°).  
 
-b.   ![244620](http://wetten.overheid.nl/Illustration/244620)
-De kleinere waarde voor   ![244620](http://wetten.overheid.nl/Illustration/244620)
-uit de formule a of b is doorslaggevend. In deze formules betekent:   ![244620](http://wetten.overheid.nl/Illustration/244620)
-de maximaal toelaatbare hoogte van het gewichtszwaartepunt van het geladen schip boven de basis [m];   ![244620](http://wetten.overheid.nl/Illustration/244620)
-de hoogte van het metacentrum boven de basis [m] volgens de benaderingsformule in het derde lid; F het voorhanden vrijboord op ½ van de lengte L [m]; Z coëfficiënt voor de middelpuntvliedende kracht bij het draaien van het schip   ![244620](http://wetten.overheid.nl/Illustration/244620)
+b.   ![]()
+De kleinere waarde voor   ![]()
+uit de formule a of b is doorslaggevend. In deze formules betekent:   ![]()
+de maximaal toelaatbare hoogte van het gewichtszwaartepunt van het geladen schip boven de basis [m];   ![]()
+de hoogte van het metacentrum boven de basis [m] volgens de benaderingsformule in het derde lid; F het voorhanden vrijboord op ½ van de lengte L [m]; Z coëfficiënt voor de middelpuntvliedende kracht bij het draaien van het schip   ![]()
 v de grootste snelheid van het schip ten opzichte van het water [m/s]; T <sub>m</sub> gemiddelde diepgang [m]; h <sub>KW</sub> de arm van het moment veroorzaakt door de zijdelingse winddruk als bedoeld in het eerste lid, onder d [m]; h <sub>KfO</sub> som van de momenten veroorzaakt door de vrije vloeistofoppervlakken als bedoeld in het eerste lid, onder e [m].     
-3.  Benaderingsformule voor   ![244620](http://wetten.overheid.nl/Illustration/244620)
+3.  Benaderingsformule voor   ![]()
 Indien geen carènediagram ter beschikking is, kan voor de berekening volgens het tweede lid en artikel 22.03, tweede lid, de waarde van KM met behulp van bijvoorbeeld de onderstaande benaderingsformules worden berekend: 
 
-a. voor schepen met een pontonvorm   ![244620](http://wetten.overheid.nl/Illustration/244620)
+a. voor schepen met een pontonvorm   ![]()
 
-b. voor andere schepen   ![244620](http://wetten.overheid.nl/Illustration/244620)
+b. voor andere schepen   ![]()
 
 ### Artikel  22.03  
 
@@ -3843,7 +4080,7 @@ b. voor andere schepen   ![244620](http://wetten.overheid.nl/Illustration/244620
 
 1.  Voor vastgezette containers moet bij elke berekeningsmethode om de stabiliteit van het schip vast te stellen van de volgende criteria worden uitgegaan: 
 
-a. De metacentrumhoogte   ![244636](http://wetten.overheid.nl/Illustration/244636)
+a. De metacentrumhoogte   ![]()
 mag niet minder zijn dan 0,50 m.  
 
 b. Onder de gelijktijdige invloed van de middelpuntvliedende kracht bij het draaien van het schip, de winddruk en de vrije vloeistofoppervlakken mag geen opening van de scheepsromp onder water komen.  
@@ -3851,31 +4088,31 @@ b. Onder de gelijktijdige invloed van de middelpuntvliedende kracht bij het draa
 c. De armen van de momenten veroorzaakt door de middelpuntvliedende kracht bij het draaien van het schip, door de winddruk en de vrije vloeistofoppervlakken worden berekend volgens de formules van artikel 22.02, eerste lid onder c, d en e.  
 
 d. Voor elke beladingstoestand moet met de halve voorraad aan brandstof en drinkwater worden gerekend.     
-2.  De stabiliteit van een met vastgezette containers geladen binnenschip wordt geacht voldoende te zijn, wanneer de aanwezige   ![244636](http://wetten.overheid.nl/Illustration/244636)
-waarde gelijk aan of kleiner is dan   ![244636](http://wetten.overheid.nl/Illustration/244636)
-volgens de volgende formules. Daarbij moet   ![244636](http://wetten.overheid.nl/Illustration/244636)
+2.  De stabiliteit van een met vastgezette containers geladen binnenschip wordt geacht voldoende te zijn, wanneer de aanwezige   ![]()
+waarde gelijk aan of kleiner is dan   ![]()
+volgens de volgende formules. Daarbij moet   ![]()
 worden berekend voor verschillende verplaatsingen over het gehele diepgangsbereik. 
 
-a.   ![244636](http://wetten.overheid.nl/Illustration/244636)
-Voor   ![244636](http://wetten.overheid.nl/Illustration/244636)
-mag geen kleinere waarde dan 6,6 worden genomen en voor   ![244636](http://wetten.overheid.nl/Illustration/244636)
+a.   ![]()
+Voor   ![]()
+mag geen kleinere waarde dan 6,6 worden genomen en voor   ![]()
 geen kleinere waarde dan 0.  
 
-b.   ![244636](http://wetten.overheid.nl/Illustration/244636)
-De kleinere waarde voor   ![244636](http://wetten.overheid.nl/Illustration/244636)
-uit de formule a of b is doorslaggevend. In de formules betekent: l het dwarstraagheidsmoment van de waterlijn bij T <sub>m</sub> [m <sup>4</sup> ], overeenkomstig de benaderingsformule van het derde lid; i het dwarstraagheidsmoment van de waterlijn evenwijdig aan de basis bij een diepgang van T <sub>m</sub> + ⅔ F' [m <sup>4</sup> ];   ![244636](http://wetten.overheid.nl/Illustration/244636)
-de waterverplaatsing van het schip bij T <sub>m</sub> [m <sup>3</sup> ]; F' het denkbeeldige vrijboord   ![244636](http://wetten.overheid.nl/Illustration/244636)
+b.   ![]()
+De kleinere waarde voor   ![]()
+uit de formule a of b is doorslaggevend. In de formules betekent: l het dwarstraagheidsmoment van de waterlijn bij T <sub>m</sub> [m <sup>4</sup> ], overeenkomstig de benaderingsformule van het derde lid; i het dwarstraagheidsmoment van de waterlijn evenwijdig aan de basis bij een diepgang van T <sub>m</sub> + ⅔ F' [m <sup>4</sup> ];   ![]()
+de waterverplaatsing van het schip bij T <sub>m</sub> [m <sup>3</sup> ]; F' het denkbeeldige vrijboord   ![]()
 , waarbij de kleinste van de beide waarden dient te worden genomen; 
 
 a. verticale afstand van de onderkant van de bij een helling het eerst onder water komende opening tot de waterlijn in rechte stand van het schip [m];  
 
-b. de afstand van deze opening tot hart schip [m];   H' de denkbeeldige hoogte in de zijde   ![244636](http://wetten.overheid.nl/Illustration/244636)
+b. de afstand van deze opening tot hart schip [m];   H' de denkbeeldige hoogte in de zijde   ![]()
 q de som der inhouden van dekhuizen, luiken, trunks en andere opbouwen tot een hoogte van maximaal 1,00 m boven H, of tot de laagste opening van de desbetreffende ruimte, waarbij de kleinste waarde kleiner maatgevend is. Ruimten gelegen op minder dan 0,05 L van de scheepseinden blijven buiten beschouwing [m <sup>3</sup> ].   
 3.  Benaderingsformule voor l. Indien geen carènediagram ter beschikking is, kan voor de berekening volgens het tweede lid de waarde van het dwarstraagheidsmoment van de waterlijn l met behulp van de onderstaande benaderingsformules worden berekend: 
 
-a. voor schepen met een pontonvorm:   ![244636](http://wetten.overheid.nl/Illustration/244636)
+a. voor schepen met een pontonvorm:   ![]()
 
-b. voor andere schepen:   ![244636](http://wetten.overheid.nl/Illustration/244636)
+b. voor andere schepen:   ![]()
 
 ### Artikel  22.04  
 
@@ -3909,40 +4146,54 @@ De voldoende sterkte van de scheepsromp als bedoeld in artikel 3.02, eerste lid,
 
 ####Drijfvermogen en stabiliteit
 
-1.  Op vaartuigen met een lengte L van meer dan 110 m, met uitzondering van passagiersschepen, zijn de leden 2 tot en met 9 van toepassing.   
-2.  De voldoende stabiliteit met inbegrip van de lekstabiliteit moet voor de ongunstigste beladingstoestand worden aangetoond. De basisgegevens voor de stabiliteitsberekening – ledig scheepsgewicht en ligging gewichtszwaartepunt – moeten worden bepaald door: 
-
-– een hellingproef; of  
-
-– door een gedetailleerde gewichtsberekening. Hierbij moet het ledig scheepsgewicht door een diepgangsmeting aan boord van het vaartuig worden gecontroleerd, waarbij het met behulp van de gewichtsberekening verkregen gewicht niet meer dan ± 5% van het met behulp van de diepgangscontrole verkregen scheepsgewicht mag afwijken.     
-3.  Het drijfvermogen in lekke toestand moet voor het vol beladen vaartuig worden aangetoond. Hierbij moet voor de kritische stadia tijdens het vervullen, en voor de eindtoestand van het vervuld zijn, het rekenkundig bewijs van voldoende stabiliteit worden geleverd. Treden in stadia tijdens het vervullen negatieve stabiliteitswaarden op, dan kunnen zij door de bevoegde autoriteit worden geaccepteerd indien voor opvolgende stadia tijdens het vervullen voldoende *stabiliteit wordt aangetoond.*   
+1.  Op vaartuigen met een lengte L van meer dan 110 m, met uitzondering van passagiers-schepen, zijn de leden 2 tot en met 10 van toepassing.   
+2.  De basisgegevens voor de stabiliteitsberekening – ledig scheepsgewicht en ligging gewichtszwaartepunt – moeten worden bepaald door een hellingproef overeenkomstig bijlage I van de IMO-Resolutie MSC 267 (85).   
+3.  De aanvrager moet met een berekening die berust op de procedure van het wegvallen van het opdrijvend vermogen, aantonen dat het drijfvermogen en de lekstabiliteit van het schip voldoende zijn. Alle berekeningen moeten zodanig worden uitgevoerd dat daarbij aan trim en inzinking geen vaste waarden zijn toegekend. Het bewijs van voldoende drijfvermogen en stabiliteit van het schip in lekke toestand moet worden aangetoond bij een belading, die met de grootste inzinking van het schip overeenkomt en gelijkmatig over alle laadruimten is verdeeld, en bij maximale voorraden en een volle tank van het schip. Bij een ongelijksoortige lading, moet de stabiliteitsberekening worden gebaseerd op de meest ongunstige beladingstoestand. Deze stabiliteitsberekening moet aan boord worden bewaard. Hierbij moet voor tussenstadia van het volstromen (25%, 50% en 75% van de eindtoestand van het volgestroomd zijn en, indien van toepassing, vlak vóór het volstromen uit dwarsrichting) en vóór de eindtoestand van het volgelopen zijn, onder de bovenstaande beladingcondities aan het rekenkundig bewijs van voldoende stabiliteit zijn voldaan.   
 4.  Voor de lekke toestand moeten de volgende uitgangspunten in acht worden genomen: 
 
 a. Omvang van de schade aan een scheepszijde: langsscheeps: ten minste 0,10 L, dwarsscheeps: 0,59 m, verticaal: vanaf de basis naar boven onbegrensd.  
 
 b. Omvang van de schade aan de scheepsbodem: langsscheeps: ten minste 0,10 L, dwarsscheeps: 3,00 m, verticaal: vanaf de basis naar boven 0,39 m, lensput uitgezonderd.  
 
-c. Alle in de beschadigde zone aanwezige schotten zijn als lek te beschouwen, dat wil zeggen dat de schotindeling zo gekozen moet zijn dat het vaartuig ook bij het vervuld raken van twee of meer direct achter elkaar liggende afdelingen blijft drijven. Voor de hoofdmachinekamer behoeft slechts het drijfvermogen aangetoond te worden voor de ééncompartimentsstandaard, d.w.z. machinekamer eindschotten worden als niet beschadigd beschouwd. Bij een bodembeschadiging moeten ook dwarsscheeps naast elkaar liggende afdelingen als vervuld worden beschouwd.  
+c. Alle in de beschadigde zone aanwezige schotten zijn als lek te beschouwen, dat wil zeggen dat de schotindeling zo gekozen moet zijn dat het vaartuig ook bij het vollopen van twee of meer direct achter elkaar liggende afdelingen blijft drijven. Voor de hoofdmachinekamer behoeft slechts het drijfvermogen aangetoond te worden voor de ééncompartimentsstandaard, dat wil zeggen machinekamereindschotten worden als niet beschadigd beschouwd. Bij een bodembeschadiging moeten ook dwarsscheeps naast elkaar liggende afdelingen als volgelopen worden beschouwd.  
 
-d. Permeabiliteit Er moet met een permeabiliteit van 95% worden gerekend. In afwijking hiervan mag met de volgende permeabiliteit worden gerekend:  
+d. Er moet met een permeabiliteit van 95% worden gerekend. Wordt door een berekening aangetoond dat de gemiddelde permeabiliteit van een compartiment kleiner is dan 95%, dan kan de berekende waarde worden aangehouden. De volgende waarden moeten ten minste worden bereikt: 
 
-| --- | --- |
-|:---|:---|
-| – Machinekamers en bedrijfsruimten  | 85%  |
-| – Dubbele bodems, brandstoftanks, ballasttanks enz. al naar gelang deze tanks  | 0 of 95%  |
+– Machinekamers en bedrijfsruimten: 85%  
 
-uit hoofde van hun bestemming bij het in het vlak van de grootste inzinking liggende vaartuig als vol of leeg moeten worden aangenomen Wordt met behulp van een berekening aangetoond dat in een of andere afdeling de gemiddelde permeabiliteit kleiner is, dan kan de berekende waarde worden aangehouden.  
+– Laadruimen: 70%  
 
-e. De onderzijde van niet waterdicht afsluitbare openingen (bijv. van deuren, ramen, toegangsluiken) moet in de eindtoestand van het vervuld zijn ten minste 100 mm boven het vlak van inzinking liggen.     
-5.  De stabiliteit in lekke toestand is voldoende, indien op basis van de uitgangspunten in het vierde lid: 
+– Dubbele bodems, brandstoftanks, ballasttanks enz. en al naar gelang deze tanks uit hoofde van hun bestemming bij het in het vlak van de grootste inzinking liggende vaartuig als vol of als ledig moeten worden aangenomen: 0 of 95%.    
 
-a. in de eindtoestand van het vervuld raken de resterende veiligheidsafstand niet minder bedraagt dan 100 mm en de slagzij van het vaartuig niet groter is dan 5°; of  
+e. Voor de berekening van het effect van de vrije oppervlakken bij alle tussenstadia van het volstromen wordt uitgegaan van het bruto grondvlak van de beschadigde ruimten.     
+5.  Bij alle tussenstadia van het vollopen als bedoeld in het derde lid moet aan de volgende criteria worden voldaan: 
 
-b. berekeningen volgens het ADN in deel 9 voorgeschreven methode voor lekberekeningen een positieve uitkomst hebben.     
-6.  Indien dwars- of overloopopeningen ter vermindering van de asymmetrie worden aangebracht moet het evenwicht binnen 15 minuten worden bereikt, indien in de tussenliggende stadia lekstabiliteitswaarden, die voldoende zijn, worden aangetoond.   
-7.  Indien openingen, waardoor onbeschadigde afdelingen alsnog vol kunnen lopen, waterdicht kunnen worden afgesloten, dan moeten deze afsluitinrichtingen overeenkomstig hun gebruikseisen van opschriften zijn voorzien.   
-8.  Het rekenkundig bewijs als bedoeld in het tweede tot en met vijfde lid wordt geacht te zijn geleverd wanneer lekstabiliteitsberekeningen, bedoeld in het ADN, deel 9, met een positief resultaat worden overlegd.   
-9.  Indien het noodzakelijk is om aan de voorwaarden van lid 2 of 3 te voldoen moet het vlak van de grootste inzinking opnieuw worden vastgesteld.   
+a. De hoek van de slagzij φ van de evenwichtssituatie van het betreffende tussenstadium mag niet meer bedragen dan 15° (5° bij niet vastgezette containers).  
+
+b. Afgezien van de slagzij vanuit de evenwichtssituatie van het betreffende tussenstadium moet het positieve bereik van de kromme van de armen van statische stabiliteit een oprichtende arm van statische stabiliteit aangeven van GZ ≥ 0,02 m (0,03 m bij niet vastgezette containers), voordat de eerste onbeschermde opening onder water komt dan wel een hoek van de slagzij φ van 27° (15° bij niet vastgezette containers) bereikt wordt.  
+
+c. Niet waterdichte openingen mogen niet onder water komen voordat de hoek van de slagzij van de evenwichtssituatie van het betreffende tussenstadium is bereikt.     
+6.  Bij de eindtoestand van het volgestroomd zijn moet aan de volgende criteria worden voldaan: 
+
+a. De onderzijde van niet waterdicht afsluitbare openingen (bijv. van deuren, ramen, toegangsluiken) moet in de eindtoestand van het volgelopen zijn ten minste 0,10 m boven het vlak van inzinking liggen.  
+
+b. De hoek van de slagzij van de evenwichtssituatie mag niet meer bedragen dan 12° (5° bij niet vastgezette containers).  
+
+c. Afgezien van de slagzij vanuit de evenwichtssituatie moet het positieve bereik van de kromme van de armen van statische stabiliteit een oprichtende arm van statische stabiliteit aangeven van GZR ≥ 0,05 m en het vlak onder de kromme moet ten minste 0,0065 m rad bereiken, voordat de eerste onbeschermde opening onder water komt dan wel een hoek van de slagzij van φ 27° (10° bij niet vastgezette containers) bereikt wordt.   ![]()
+
+d. Indien niet waterdichte openingen onder water komen voordat de evenwichtssituatie is bereikt, wordt het vollopen van de ruimten die daarmee in verbinding staan in de berekening van de lekstabiliteit meegenomen.     
+7.  Wanneer doorstroomopeningen in de langsschotten worden voorzien ten behoeve van vermindering van asymmetrisch volstromen, moet aan de volgende voorwaarden worden voldaan: 
+
+a. Voor de berekening van het uit dwarsrichting volstromen moet de IMO-Resolutie A.266 (VIII) worden toegepast;  
+
+b. ze moeten automatisch functioneren;  
+
+c. ze mogen niet van afsluitmechanismen zijn voorzien;  
+
+d. de tijd die nodig is voor een volledige vereffening mag niet meer bedragen dan 15 minuten.     
+8.  Indien openingen, waardoor onbeschadigde afdelingen alsnog vol kunnen lopen, waterdicht kunnen worden afgesloten, dan moeten deze afsluitinrichtingen aan beide zijden goed leesbaar van het volgende opschrift zijn voorzien: ‘Opening na doorgang direct sluiten’.   
+9.  Het rekenkundig bewijs als bedoeld in het derde tot en met zevende lid wordt geacht te zijn geleverd wanneer lekstabiliteitsberekeningen overeenkomstig Deel 9 van het ADN, met een positief resultaat worden overlegd.   
+10.  Indien het noodzakelijk is om aan de voorwaarden van het derde lid te voldoen moet het vlak van de grootste inzinking opnieuw worden vastgesteld.   
 
 ### Artikel  22a.05  
 
@@ -3963,7 +4214,7 @@ a. in geval van averij in het middelste derde deel van het vaartuig kunnen worde
 
 b. een document van een erkend classificatiebureau overleggen, waarmee het drijfvermogen, de trimsituatie en de stabiliteit van de gedeelde stukken van het schip worden aangetoond; hieruit dient tevens te blijken vanaf welke beladingstoestand het drijfvermogen van de beide delen niet meer gewaarborgd is. Het document moet aan boord aanwezig zijn;  
 
-c. als dubbelwandig schip volgens het ADN zijn gebouwd. Motorschepen moeten aan de nummers 9.10.91 tot en met 9.10.95 en tankschepen aan de nummers 9.3.2.11.7 en 9.3.2.13 tot en met 9.3.2.15 van deel 9 van het ADN voldoen;  
+c. als dubbelwandig schip volgens het ADN zijn gebouwd. Motorschepen moeten aan de nummers 9.1.0.91 tot en met 9.1.0.95 en tankschepen aan de nummers 9.3.2.11.7 en 9.3.2.13 tot en met 9.3.2.15 van deel 9 van het ADN voldoen;  
 
 d. beschikken over een meerschroefsaandrijving overeenkomstig het eerste lid, onder a, eerste alinea;  
 
@@ -3979,6 +4230,12 @@ c. beschikken over een meerschroefsaandrijving met tenminste twee van elkaar ona
 d. de hekankers van uit het stuurhuis direct kunnen presenteren.  
 
 e. een notitie in het certificaat van onderzoek onder punt 52 hebben, dat zij voldoen aan de bijzondere eisen overeenkomstig de onderdelen a tot en met d     
+
+### Artikel  22a.06  
+
+####Toepasselijkheid van Deel IV  in geval van ombouw
+
+Op vaartuigen die worden omgebouwd tot schepen met een lengte van meer dan 110 m mag de Commissie van Deskundigen hoofdstuk 24 slechts toepassen op grond van bijzondere aanbevelingen van de Centrale Commissie voor de Rijnvaart.  
 
 ### Hoofdstuk  22b  
 
@@ -4193,7 +4450,7 @@ c. op 1 januari 2023 aan de overige voorschriften.
 
 ####Uitrusting van schepen
 
-1.  Onverminderd de overige bepalingen van dit reglement en met toepassing van artikel 3.14 van het Reglement betreffende het scheepvaartpersoneel op de Rijn, moeten motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig de voorschriften van het Reglement betreffende het scheepvaartpersoneel op de Rijn te worden geëxploiteerd, aan één van de volgende standaarden voldoen:. 
+1.  Onverminderd de overige bepalingen van dit reglement en met toepassing van artikel 3.14 van het Reglement betreffende het scheepvaartpersoneel op de Rijn, moeten motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig de voorschriften van het Reglement betreffende het scheepvaartpersoneel op de Rijn te worden geëxploiteerd, aan één van de volgende standaarden voldoen: 
 
 1.1 Standaard S1 
 
@@ -4205,7 +4462,7 @@ c) De brandstoftoevoer en de koeling van de hoofdmotoren dienen automatisch te g
 
 d) De bediening van de stuurinrichting moet zelfs bij de grootste toegelaten inzinking door één persoon zonder bijzondere krachtsinspanning kunnen worden verricht.  
 
-e) De bij het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voorgeschreven optische tekens en geluidsseinen van varende schepen dienen vanaf de stuurstelling te kunnen worden gegeven.  
+e) De bij het Rijnvaartpolitiereglement voorgeschreven optische tekens en geluidsseinen van varende schepen dienen vanaf de stuurstelling te kunnen worden gegeven.  
 
 f) Indien geen rechtstreeks contact mogelijk is tussen de stuurstelling en het voorschip, het achterschip, de verblijven en de machinekamer, dient een spreekverbinding te zijn aangebracht. Voor contact met de machinekamer mogen in plaats van een spreekverbinding optische en akoestische signalen worden gebruikt.  
 
@@ -4304,7 +4561,7 @@ b. totdat de aanpassing heeft plaatsgevonden, voldoen aan het op 31 december 199
 Hoofdstuk 3 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 3.03, lid 1, onder a  | Plaats van het aanvaringsschot  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 3.03, lid 2  | Verblijven  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 3.03, lid 2  | Noodzakelijke voorzieningen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4318,13 +4575,13 @@ Hoofdstuk 3
 Hoofdstuk 5 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 5.06, lid 1, eerste zin  | Minimum snelheid  | Voor vaartuigen met een bouwjaar van vóór 1996 bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 
 Hoofdstuk 6 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 6.01, lid 1  | Manoeuvreereigenschappen volgens hoofdstuk 5  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 6.01, lid 3  | Helling en omgevingstemperatuur  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 6.01, lid 7  | Doorvoering van roerkoningen  | Voor vaartuigen met een bouwjaar van vóór 1996 bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4342,7 +4599,7 @@ Hoofdstuk 6
 Hoofdstuk 7 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 7.02, lid 3, tweede alinea  | Vrij uitzicht in de zichtas van de roerganger  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 7.02, lid 5  | Gekleurde vensters  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 7.03, lid 7  | Buiten werking stellen van alarmen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek voor zover geen éénmansstuurstelling voor het varen op radar aanwezig is  |
@@ -4356,7 +4613,7 @@ Hoofdstuk 7
 | 7.06, lid 1  | Navigatieradarinstallaties die vóór 1 januari 1990 zijn toegelaten  | Navigatieradarinstallaties die vóór januari 1990 waren toegelaten, en vóór 1 januari 2000 werden ingebouwd, mogen tot de verlenging van het certificaat van onderzoek na 31 december 2009, maar uiterlijk tot en met 31 december 2011, met een geldige inbouwverklaring (1989-I-35) ingebouwd zijn en gebruikt worden.  |
 | Bochtaanwijzers die vóór 1 januari 1990 zijn toegelaten  | Bochtaanwijzers die vóór januari 1990 waren toegelaten, en vóór 1 januari 2000 werden ingebouwd, mogen tot de verlenging van het certificaat van onderzoek na 1 januari 2015 met een geldige inbouwverklaring (1989-I-35) ingebouwd zijn en gebruikt worden.  |
 | Navigatieradarinstallaties en bochtaanwijzers die vanaf 1 januari 1990 waren toegelaten  | Navigatieradarinstallaties en bochtaanwijzers, die vanaf 1 januari 1990 op grond van de voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor navigatieradarinstallaties voor de Rijnvaart evenals van de voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor bochtaanwijzers voor de Rijnvaart waren toegelaten, kunnen verder ingebouwd en, indien een geldige inbouwverklaring op grond van de voorschriften omtrent de inbouw en de controle van het functioneren van navigatieradarinstallaties en bochtaanwijzers in de Rijnvaart of van Bijlage M, deel III, van dit Reglement aanwezig is, gebruikt worden.  |
-| 7.06, lid 3  | Inland AIS-apparatuur  | De IMO Class A Transponders die aantoonbaar vóór 1.4.2008 waren ingebouwd, zijn tot en met 31.12.2011 toegestaan.  |
+| 7.06, lid 3  | Inland AIS-apparatuur  | Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt.  |
 | --- | --- | --- |
 | 7.09  | Alarminstallatie  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 7.12, eerste alinea  | In hoogte verstelbare stuurhuizen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek. In het geval van niet hydraulisch kunnen neerlaten: uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
@@ -4365,7 +4622,7 @@ Hoofdstuk 7
 Hoofdstuk 8 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 8.01, lid 3  | Alleen verbrandingsmotoren waarvan het vlampunt van de brandstof boven 55° ligt  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 8.02, lid 1  | Beveiliging van machine-installaties tegen onopzettelijke in bedrijf stelling  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 8.02, lid 4  | Afscherming van verbindingen van leidingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2025  |
@@ -4392,14 +4649,14 @@ Hoofdstuk 8
 Hoofdstuk 8a 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | --- | Hoofdstuk 8a  Uitstoot van schadelijke gassen en luchtverontreinigende deeltjes door dieselmotoren  | De voorschriften gelden niet  a. voor motoren die vóór 1.1.2003 aan boord ingebouwd waren,  en  b. voor vervangingsmotoren <sup>1</sup>, die tot en met 31.12.2011 aan boord van schepen, die op 1.1.2002 in bedrijf waren, geïnstalleerd worden  |
 | 8a.02, lid 2  | Grenswaarden  | Voor motoren die vóór 1.7.2007 aan boord ingebouwd waren, gelden de grenswaarden van de volgende tabel:  |
 
 <sup>1</sup> Een vervangingsmotor is een gebruikte, gereviseerde motor, die voor wat betreft vermogen, toerental en installatievoorwaarden vergelijkbaar is met de motor die deze vervangt.  
 
 | P <sub>N</sub>  [kW]  | CO  [g/kWh]  | HC  [g/kWh]  | NO <sub>x</sub>  [g/kWh]  | PT  [g/kWh]  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 37 ≤ P <sub>N</sub>  < 75  | 6,5  | 1,3  | 9,2  | 0,85  |
 | 75 ≤ P <sub>N</sub>  < 130  | 5,0  | 1,3  | 9,2  | 0,70  |
 | P <sub>N</sub> ≥ 130  | 5,0  | 1,3  | n ≥ 2800 min <sup>–1</sup>  = 9,2  500 ≤ n < 2800 min <sup>–1</sup>  = 45· n <sup>(–0,2)</sup>  | 0,54  |
@@ -4407,7 +4664,7 @@ Hoofdstuk 8a
 Hoofdstuk 9 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 9.01, lid 1, tweede zin  | Benodigde bescheiden voorleggen aan de Commissie van Deskundigen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 9.01, lid 2, onder b  | Schema’s van hoofd- en noodschakelbord en de verdeelkasten moeten zich aan boord bevinden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 9.01, lid 3  | Omgevingstemperatuur in het schip en aan dek  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
@@ -4428,8 +4685,9 @@ Hoofdstuk 9
 Hoofdstuk 10 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 10.01  | Ankeruitrusting  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
+| 10.02, lid 1, onderdeel d, onder 2°  | Verzamelreservoirs van staal of van een ander stootvast en onbrandbaar materiaal met ten minste 10 l inhoud.  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 10.02, lid 2, onder a  | Keuringsbewijs voor stalen trossen en andere kabels  | Voor de eerste tros die op het schip wordt vervangen: N.V.O., uiterlijk 1.1.2008. Voor de tweede en derde tros: 1.1.2013  |
 | 10.03, lid 1  | Europese norm  | Bij vervanging, uiterlijk 1.1.2010  |
 | 10.03, lid 2  | Geschiktheid voor brandklasse A, B en C  | Bij vervanging, uiterlijk 1.1.2010  |
@@ -4442,9 +4700,11 @@ Hoofdstuk 10
 * 1. Vóór 1 oktober 1980 vast ingebouwde CO <sub>2</sub> -brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan artikel 7.03, vijfde lid, in de versie van protocol 1975-I-23. 2. Vóór 1 april 1992 vast ingebouwde brandblusinstallaties die met het blusmiddel Halon 1301 (CBrF3) werken blijven tot aan de verlenging van het certificaat van onderzoek na 1.1.2005, echter uiterlijk tot 1.1.2010, toegelaten, wanneer zij voldoen aan artikel 7.03, vijfde lid, in de versie van protocol 1985-II-26. 3. Tussen 1 april 1992 en 1 januari 1995 vast ingebouwde CO <sub>2</sub> -brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan artikel 7.03, vijfde lid, van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn. 4. Tussen 1 april 1992 en 1 januari 1995 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van artikel 7.03, vijfde lid, van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig. 5. Artikel 10.03b, tweede lid onder a, geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.  Hoofdstuk 11 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
-| 11.02, lid 4  | Voorziening aan de buitenkanten van dekken, gangboorden en andere werkplekken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
-| 11.04  | Gangboord  | ** Bij eerste verlenging van het certificaat van onderzoek na 1.1.2035 bij een breedte van meer dan 7,30 m  |
+|---|---|---|
+| 11.02, lid 4  | Voorziening aan de buitenkanten van dekken, gangboorden en andere werkplekken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
+| --- | Hoogte van de dennenbomen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
+| 11.04, lid 1  | Vrije breedte van het gangboord  | **) N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035 bij schepen van een breedte van meer dan 7,30 m  |
+| 11.04, lid 2  | Relingen van gangboorden  | Voor schepen met L < 55 m en verblijven uitsluitend op het achterschip geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 11.05, lid 1  | Toegang tot de werkplekken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 11.05, lid 2 en lid 3  | Deuren, in- en uitgangen en gangen die hoogte verschillen van meer dan 0,50 m hebben  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 11.05, lid 4  | Trappen bij permanent bezette werkplekken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
@@ -4453,13 +4713,13 @@ Hoofdstuk 10
 | 11.07, lid 2 en lid 3  | --- | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 11.10  | Luiken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 11.11  | Lieren  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
-| 11.12, lid 2 tot en met lid 6 en lid 8 tot en met lid 10  | Kranen: fabriekslabel, maximaal toelaatbare bedrijfslast, beveiliging, rekenkundig bewijs, controle door deskundige, bescheiden aan boord  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 11.12, lid 2,4, 5 en 9  | Fabriekslabel, beveiliging, bescheiden aan boord  | N.V.O., uiterlijk bij de eerste verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 11.13  | Opslag van brandbare vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 
 ** Dit artikel geldt voor schepen waarvan de kiel is gelegd ná 31.12.1994 en voor in bedrijf zijnde schepen met in acht name van het volgende: Bij vernieuwingswerkzaamheden, het gehele laadruim omvattend, is artikel 11.04 van toepassing. Bij een verbouwing, die de totale lengte van de gangboorden omvat en waardoor de vrije breedte van het gangboord wordt gewijzigd: a. is artikel 11.04 van toepassing, indien de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, moet worden verminderd; b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, niet worden verminderd, indien deze afmetingen kleiner zijn dan die bedoeld in artikel 11.04.  Hoofdstuk 12 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 12.01, lid 1  | Verblijven voor de gewoonlijk aan boord verblijvende personen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 12.02, lid 3  | Positie van de vloer  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 12.02, lid 4  | Woon- en slaapruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
@@ -4472,14 +4732,22 @@ Hoofdstuk 10
 | 12.02, lid 13  | Leidingen van gevaarlijke gassen en vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 12.03  | Sanitaire voorzieningen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 12.04  | Keukens  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
-| 12.05  | Drinkwaterinstallaties  | N.V.O., uiterlijk 31.12.2006  |
 | 12.06  | Verwarming en ventilatie  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 12.07, lid 1, tweede zin  | Overige bepalingen inzake de inrichting van de verblijven  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
+
+Hoofdstuk 14a 
+
+| --- | --- | --- |
+|---|---|---|
+| 14a.02 lid 2, tabel 1 en 2 en lid 5  | Grens-/controlewaarden en typegoedkeuringen  | N.V.O. voor zover  |
+| --- | --- | a. de grens- en controlewaarden de waarden van fase II met niet meer dan de factor 2 overschrijden;  |
+| --- | --- | b. de boordzuiveringsinstallatie over een certificaat van de fabrikant of een erkende deskundige beschikt, waarin bevestigd wordt dat de installatie de voor het schip kenmerkende belasting aankan, en  |
+| --- | --- | c. een zuiveringsslibmanagement beschikbaar is, dat aan de voorwaarden voor het gebruik van een boordzuiveringsinstallatie op een passagiersschip voldoet.  |
 
 Hoofdstuk 15 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 15.01, lid 1, onder c  | Niet van toepassing zijn van art. 8.08, lid 2, 2e zin  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.01, lid 1, onder d  | Niet van toepassing zijn van art. 9.14, lid 3, 2e zin, bij nominale spanningen boven 50 V  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 15.01, lid 2, onder c  | Verbod van oliekachels met verdampingsbranders bedoeld in art. 13.04  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
@@ -4491,11 +4759,16 @@ Hoofdstuk 15
 | 15.02, lid 12  | Alarminstallatie in het stuurhuis die aangeeft welke schottendeur open is  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 15.02, lid 15  | Hoogte van de dubbele bodem, breedte van dubbele wanden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.03, lid 1 t/m 6  | Stabiliteit van het onbeschadigde schip  | N.V.O., en bij verhoging van het toegelaten aantal passagiers uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.03, lid 7 t/m 13  | Lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.03, lid 9  | 2-compartimentstatus  | N.V.O.  |
+| 15.03, lid 7 en 8  | Lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| lid 9  | Lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| --- | Omvang recht omhoog van het lek in de bodem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045.  |
+| --- | --- | Voor schepen met een waterdicht dek op een afstand van ten minste 0,50 m en minder dan 0,60 m van de scheepsbodem, aan welke voor het eerst een certificaat van onderzoek vóór 31.12.2005 werd afgegeven, geldt N.V.O.  |
+| --- | 2-compartimentstaturs  | N.V.O.  |
+| 10 t/m 13  | lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.05, lid 2, onder a  | Aantal passagiers waarvoor een verzamelruimte bedoeld in art. 15.06, lid 8, is aangetoond  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.05, lid 2, onder b  | Aantal passagiers waarvoor de stabiliteitsberekening bedoeld in art. 15.03 is uitgevoerd  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.06, lid 1, onder a  | Passagiersverblijven op alle dekken achter het aanvaringsschot en voor het achterpiekschot  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| 15.06 lid 1, 1e zin  | Passagiersverblijven op alle dekken achter het aanvaringsschot en vóór het achterpiekschot  | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| 15.06 lid 1, 2e zin  | Eisen aan dekzones die overdekt zijn  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 15.06, lid 2  | Kasten en ruimten bedoeld in art. 11.13 voor brandbare vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.06, lid 3, onder c, 1 <sup>e</sup> zin  | Vrije hoogte van uitgangen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 3, onder c, 2 <sup>e</sup> zin  | Vrije breedte van deuren van hutten voor passagiers en andere kleine verblijven  | Voor de breedte van 0,7 m geldt N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
@@ -4516,7 +4789,8 @@ Hoofdstuk 15
 | 15.06, lid 12  | Loopplanken overeenkomstig de Europese norm EN 14206 : 2003  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.06, lid 13  | Doorgangsruimten en wanden van doorgangsruimten die zijn bestemd voor het gebruik door personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 14, 1 <sup>e</sup> zin  | Vervaardiging van glazen deuren, glazen wanden van doorgangsruimten en vensterruiten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.06, lid 15  | Eisen aan opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| 15.06, lid 15, onderdeel a  | Eisen aan opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan  | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| --- | Eisen aan overdekkingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 15.06, lid 16  | Drinkwaterinstallaties overeenkomstig art. 12.05  | N.V.O., uiterlijk 31.12.2006  |
 | 15.06, lid 17, 2e zin  | Eisen aan toiletten voor personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 18  | Ventilatiesysteem voor hutten zonder vensters die geopend kunnen worden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
@@ -4555,6 +4829,7 @@ Hoofdstuk 15
 | 15.11, lid 5  | Meubels en constructies in verzamelruimten van onbrandbaar materiaal  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.11, lid 6  | Brandtestmethode volgens de Code  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.11, lid 7  | Isolatiemateriaal in verblijfsruimten onbrandbaar  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| 15.11, lid 7a  | Dekzeilen of dergelijke mobiele inrichtingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 15.11, lid 8  | Eisen aan deuren in scheidingsvlakken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.11, lid 9  | Wanden van dek tot dek als bedoeld in het tweede lid  | Op hotelschepen zonder sprinkler-installatie eindigen van de wanden tussen hutten: N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 15.11, lid 10  | Scheidingsvlakken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
@@ -4588,7 +4863,7 @@ Hoofdstuk 15
 Hoofdstuk 17 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 17.02, lid 3  | Aanvullende bepalingen  | Dezelfde overgangsbepalingen als van kracht voor de in dit lid genoemde artikelen  |
 | 17.03, lid 1  | Algemene alarminstallatie  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 17.03, lid 4  | Maximaal toelaatbare last van heftoestellen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
@@ -4600,14 +4875,14 @@ Hoofdstuk 17
 Hoofdstuk 20 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 20.01  | Artikelen 7.01, lid 2, 8.05, lid 13, en 8.10  | Voor zeeschepen die niet zijn bestemd voor het vervoer van goederen in de zin van het ADNR en waarvan de kiel is gelegd vóór 1.10.1987: N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 20.01  | 8.09, lid 2  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 
 Hoofdstuk 21 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 21.01 en 21.02  | --- | Deze voorschriften gelden voor pleziervaartuigen die zijn gebouwd vóór 1.1.1995 pas bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 
 ### Artikel  24.03  
@@ -4621,7 +4896,7 @@ Hoofdstuk 21
 – ‘Verlenging certificaat’: aan het voorschrift moet zijn voldaan bij de eerstvolgende verlenging van de geldigheidsduur van het certificaat van onderzoek na de daarop aangegeven datum.    Hoofdstuk 3 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 3.03, lid 1  | Plaats van het aanvaringsschot  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 3.04, lid 2  | Begrenzingsvlakken van bunkers met ruimten bestemd voor passagiers en verblijven  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 3.04, lid 7  | Ten hoogste toegestane niveau van de geluidsdruk  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4629,27 +4904,27 @@ Hoofdstuk 21
 Hoofdstuk 4 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 4.01, lid 2, 4.02 en 4.03  | Veiligheidsafstand, vrijboord, kleinste vrijboord  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 
 Hoofdstuk 7 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 7.01, lid 2  | Niveau van de geluidsdruk voortgebracht door het schip  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 7.05, lid 2  | Controle van de navigatielichten  | Bij verlenging van het certificaat van onderzoek  |
 
 Hoofdstuk 8 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 8.08, lid 3 en lid 4  | Minimale capaciteit en diameter van de lensleidingen  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 8.10, lid 2  | Door een varend schip voortgebracht geluid  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 
 Hoofdstuk 9 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 9.01  | Eisen aan elektrische installaties  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 9.03  | Bescherming tegen aanraken, binnendringen van vreemde voorwerpen en water  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 9.06  | Ten hoogste toegelaten spanningen  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4663,13 +4938,13 @@ Hoofdstuk 9
 Hoofdstuk 12 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 12.02, lid 5  | Geluidshinder en trillingen in verblijven  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 
 Hoofdstuk 15 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
-|:---|:---|:---|
+|---|---|---|
 | 15.02, lid 5, lid 6, 1e zin, lid 7 tot en met lid 11 en lid 13  | Indompelingsgrenslijn indien er geen schottendek is  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.02, lid 16  | Waterdichte vensters  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.04  | Veiligheidsafstand, vrijboord, inzinkingsmerken  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
@@ -4708,7 +4983,7 @@ Hoofdstuk 15
 – ‘Verlenging certificaat’: aan het voorschrift moet zijn voldaan bij de eerstvolgende verlenging van de geldigheidsduur van het certificaat van onderzoek na de daarop aangegeven datum.    Hoofdstuk 3 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 3.03, lid 7  | Voorschip; ankernissen  | Het voorschrift geldt vanaf 01.01.2001 bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2041  | 1.10.1999  |
 | 3.03, lid 3, tweede zin  | Isolaties in machinekamers  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.04.2003  |
 | 3.04, lid 3, derde en vierde zin  | Openingen en afsluitorganen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.10.2003  |
@@ -4716,7 +4991,7 @@ Hoofdstuk 15
 Hoofdstuk 6 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 6.01, lid 1  | Verdubbeling van stuurventielen bij hydraulisch aangedreven installaties  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.4.2007  |
 | --- | Gescheiden pijpleidingsysteem voor de tweede voortstuwingsinstallatie bij hydraulisch aangedreven installaties  | N.V.O., uiterlijk bij verlenging van hetcertificaat van onderzoek na 1.1.2020  | 1.4.2007  |
 | 6.07, lid 2, onder a  | Niveau-alarm van de hydraulische tanks en alarm van de systeemdruk  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.4.2007  |
@@ -4724,7 +4999,7 @@ Hoofdstuk 6
 Hoofdstuk 7 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 7.04, lid 3  | Signalering  | Voorzover geen éénmansstuurstelling voor het varen op radar aanwezig is:  N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.4.2007  |
 | 7.04, lid 9, 3 <sup>e</sup> zin  | Bediening door middel van een hefboom  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.4.2007  |
 | 7.04, lid 9, 4 <sup>e</sup> zin  | Ontoelaatbaarheid van het aangeven van de stuwrichting  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | --- |
@@ -4732,12 +5007,12 @@ Hoofdstuk 7
 | 7.06, lid 1  | Navigatieradarinstallaties die vóór 1 januari 1990 zijn toegelaten  | Navigatieradarinstallaties die vóór januari 1990 waren toegelaten, en vóór 1 januari 2000 werden ingebouwd, mogen tot de verlenging van het certificaat van onderzoek na 31 december 2009, maar uiterlijk tot en met 31 december 2011, met een geldige inbouwverklaring (1989-I-35) ingebouwd zijn en gebruikt worden.  | 1.12.2009  |
 | Bochtaanwijzers die vóór 1 januari 1990 zijn toegelaten  | Bochtaanwijzers die vóór januari 1990 waren toegelaten, en vóór 1 januari 2000 werden ingebouwd, mogen tot de verlenging van het certificaat van onderzoek na 1 januari 2015 met een geldige inbouwverklaring (1989-I-35) ingebouwd zijn en gebruikt worden.  | 1.12.2009  |
 | Inbouw en gebruik van navigatieradarinstallaties en bochtaanwijzers die vanaf 1 januari 1990 waren toegelaten  | Navigatieradarinstallaties en bochtaanwijzers, die vanaf 1 januari 1990 op grond van de voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor navigatieradarinstallaties in de Rijnvaart evenals van de voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor bochtaanwijzers in de Rijnvaart waren toegelaten, kunnen verder ingebouwd en, indien een geldige inbouwverklaring op grond van de voorschriften omtrent de inbouw en de controle van het functioneren van navigatieradarinstallaties en bochtaanwijzers voor de Rijnvaart of van Bijlage M, deel III, van dit Reglement aanwezig is, gebruikt worden.  | 1.12.2009  |
-| 7.06, lid 3  | Inland AIS-apparatuur  | De IMO Class A Transponders die aantoonbaar vóór 1.4.2008 waren ingebouwd, zijn tot en met 31.12.2011 toegestaan  | --- |
+| 7.06, lid 3  | Inland AIS-apparatuur  | Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt.  | --- |
 
 Hoofdstuk 8 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 8.02, lid 4  | Afscherming van verbindingen van leidingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2025  | 1.4.2007  |
 | 8.02, lid 5  | Mantelbuissystemen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2025  | 1.4.2007  |
 | 8.02, lid 6  | Isolatie van machineonderdelen  | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek  | 1.4.2003  |
@@ -4751,14 +5026,14 @@ Hoofdstuk 8
 Hoofdstuk 8a 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | De voorschriften gelden niet  a. voor motoren die vóór 1.1.2003 aan boord ingebouwd waren,  en  b. voor vervangingsmotoren <sup>1</sup>, die tot 31.12.2011 aan boord van schepen, die op 1.1.2002 in bedrijf waren, geïnstalleerd worden  | 1.1.2002  |
 | 8a.02, lid 2  | Grenswaarden  | Voor motoren die vóór 1.7.2007 aan boord ingebouwd waren, gelden de grenswaarden van de volgende tabel:  | 1.7.2007  |
 
 <sup>1</sup> Een vervangingsmotor is een gebruikte, gereviseerde motor, die voor wat betreft vermogen, toerental en installatievoorwaarden vergelijkbaar is met de motor die deze vervangt.  
 
 | P <sub>N</sub>  [kW]  | CO  [g/kWh]  | HC  [g/kWh]  | NO <sub>x</sub>  [g/kWh]  | PT  [g/kWh]  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 37 ≤ P <sub>N</sub>  < 75  | 6,5  | 1,3  | 9,2  | 0,85  |
 | 75 ≤ P <sub>N</sub>  < 130  | 5,0  | 1,3  | 9,2  | 0,70  |
 | P <sub>N</sub> ≥ 130  | 5,0  | 1,3  | n ≥ 2800 min <sup>–1</sup>  = 9,2  500 n < 2800 min <sup>–1</sup>  = 45 · n <sup>(–0,2)</sup>  | 0,54  |
@@ -4766,7 +5041,8 @@ Hoofdstuk 8a
 Hoofdstuk 10 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
+| 10.02, lid 1, onderdeel d, onder 2°  | Verzamelreservoirs van staal of van een ander stootvast en onbrandbaar materiaal met ten minste 10 l inhoud.  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.12.2011  |
 | 10.02, lid 2, onder a  | Keuringsbewijs voor stalen trossen en andere kabels  | Voor de 1 <sup>e</sup> tros die op het schip wordt vervangen: N.V.O., uiterlijk 1.1.2008.  Voor de 2 <sup>e</sup> en 3 <sup>e</sup> tros: 1.1.2009, 1.1.2013  | 1.4.2003  |
 | 10.03, lid 1  | Europese norm  | Bij vervanging, uiterlijk 1.1.2010  | 1.4.2002  |
 | 10.03, lid 2  | Geschiktheid voor brandklasse A, B en C  | Bij vervanging, uiterlijk 1.1.2010  | 1.4.2002  |
@@ -4779,19 +5055,33 @@ Hoofdstuk 10
 ** 1. Tussen 1 januari 1995 en 31 maart 2003 vast ingebouwde CO <sub>2</sub> -brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan artikel 10.03, vijfde lid, van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn. 2. Tussen 1 januari 1995 en 31 maart 2002 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van artikel 10.03, vijfde lid, van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig. 3. Artikel 10.03b, tweede lid, onder a, geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.  Hoofdstuk 11 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
+| 11.02, lid 4  | Hoogte van de verschansingen en dennebomen evenals van de relingen van gangboorden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.12.2011  |
+| --- | Hoogte van de dennebomen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  | 1.12.2011  |
+| --- | Hoogte van de dennenbomen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  | 1.12.2011  |
+| 11.04, lid 2  | Relingen van gangboorden  | Voor schepen met L < 55 m en verblijven uitsluitend op het achterschip geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.12.2011  |
+| 11.12, lid 2, 4, 5 en 9  | Fabriekslabel, beveiliging, bescheiden aan boord  | N.V.O., uiterlijk bij de eerste verlenging van het certificaat van onderzoek na 1.1.2015  | 1.12.2012  |
 | 11.13  | Opslag van brandbare vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.10.2002  |
 
 Hoofdstuk 12 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
-| 12.05  | Drinkwaterinstallaties  | N.V.O., uiterlijk 31.12.2006  | 1.4.2001  |
+|---|---|---|---|
+| --- | --- | --- | --- |
+
+Hoofdstuk 14a 
+
+| --- | --- | --- | --- |
+|---|---|---|---|
+| 14a.02 lid 2, tabel 1 en 2 en lid 5  | Grens-/controlewaarden en typegoedkeuringen  | N.V.O. voor zover  | 1.12.2011  |
+| --- | --- | a. de grens- en controlewaarden de waarden van fase II met niet meer dan de factor 2 overschrijden;  | --- |
+| --- | --- | b) de boordzuiveringsinstallatie over een certificaat van de fabrikant of een erkende deskundige beschikt, waarin bevestigd wordt dat de installatie de voor het schip kenmerkende belasting aankan, en  | --- |
+| --- | --- | c) een zuiveringsslibmanagement beschikbaar is, dat aan de voorwaarden voor het gebruik van een boordzuiveringsinstallatie op een passagiersschip voldoet.  | --- |
 
 Hoofdstuk 15 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 15.01, lid 1, onder c  | Niet van toepassing zijn van art. 8.06, lid 2, 2 <sup>e</sup> zin  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
 | 15.01, lid 1, onder d  | Niet van toepassing zijn van art. 9.14, lid 3, 2 <sup>e</sup> zin, bij nominale spanningen boven 50 V  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
 | 15.01, lid 1, onder e  | Niet van toepassing zijn van art. 8.08, lid 2, 2 <sup>e</sup> zin  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.4.2007  |
@@ -4802,11 +5092,16 @@ Hoofdstuk 15
 | 15.02, lid 5, 2 <sup>e</sup> zin  | Indompelingsgrenslijn indien geen schottendek  | Voor passagiersschepen waarvan de kiel is gelegd vóór 1.1.1996 geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.02, lid 15  | Hoogte van dubbele bodem en breedte van dubbele wanden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.03, lid 1 t/m 6  | Stabiliteit van het onbeschadigde schip  | N.V.O., en bij verhoging van het toegelaten aantal passagiers uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.03, lid 7 t/m 13  | Lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.03, lid 9  | 2-compartimentstatus  | N.V.O.  | 1.1.2006  |
+| 15.03, lid 7en 8  | Lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| lid 9  | Lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| --- | Omvang recht omhoog van het lek in de bodem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045.  | 1.1.2006  |
+| --- | --- | Voor schepen met een waterdicht dek op een afstand van ten minste 0,50 m en minder dan 0,60 m van de scheepsbodem, aan welke voor het eerst een certificaat van onderzoek vóór 31.12.2005 werd afgegeven, geldt N.V.O.  | 1.12.2012  |
+| --- | 2-compartimentstaturs  | N.V.O.  | 1.1.2006  |
+| 10 t/m 13  | lekstabiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.05, lid 2, onder a  | Aantal passagiers waarvoor een verzamelruimte bedoeld in art. 15.06, lid 8, is aangetoond  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.05, lid 2, onder b  | Aantal passagiers waarvoor de stabiliteitsberekening bedoeld in art. 15.03 is uitgevoerd  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.06, lid 1  | Passagiersverblijven op alle dekken achter het aanvaringsschot  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| 15.06 lid 1, 1e zin  | Passagiersverblijven op alle dekken achter het aanvaringsschot en vóór het achterpiekschot  | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| 15.06 lid 1, 2e zin  | Eisen aan dekzones die overdekt zijn  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.12.2012  |
 | 15.06, lid 2  | Kasten en ruimten als bedoeld in art. 11.13 voor brandbare vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
 | 15.06, lid 3, onder c, 1 <sup>e</sup> zin  | Vrije hoogte van uitgangen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 3, onder c, 2 <sup>e</sup> zin  | Vrije breedte van deuren van hutten voor passagiers en andere kleine verblijven  | Voor de maat 0,7 m geldt N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
@@ -4827,7 +5122,8 @@ Hoofdstuk 15
 | 15.06, lid 12  | Loopplanken overeenkomstig de Europese norm EN 14206 : 2003  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
 | 15.06, lid 13  | Doorgangsruimten en wanden van doorgangsruimten die zijn bestemd voor het gebruik door personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 14, 1 <sup>e</sup> zin  | Vervaardiging van glazen deuren, glazen wanden van doorgangsruimten en vensterruiten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.06, lid 15  | Eisen aan opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| 15.06, lid 15, onderdeel a  | Eisen aan opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan  | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| --- | Eisen aan overdekkingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.12.2012  |
 | 15.06, lid 16  | Drinkwaterinstallaties overeenkomstig art. 12.05  | N.V.O., uiterlijk 31.12.2006  | 1.1.2006  |
 | 15.06, lid 17, 2 <sup>e</sup> zin  | Eisen aan toiletten voor personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 18  | Ventilatiesysteem voor hutten zonder vensters die geopend kunnen worden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
@@ -4867,6 +5163,7 @@ Hoofdstuk 15
 | 15.11, lid 5  | Meubels en constructies in verzamelruimten van onbrandbaar materiaal  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.11, lid 6  | Brandtestmethode volgens de Code  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.11, lid 7  | Isolatiemateriaal in verblijfsruimten onbrandbaar  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| 15.11, lid 7a  | Dekzeilen of dergelijke mobiele inrichtingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.12.2012  |
 | 15.11, lid 8, onder a, b, c 2e zin, en d  | Eisen aan deuren in scheidingsvlakken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.11, lid 9  | Wanden van dek tot dek overeenkomstig lid 2  | Op hotelschepen zonder sprinklerinstallatie eindigen van de wanden tussen hutten: N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
 | 15.11, lid 10  | Scheidingsvlakken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
@@ -4897,7 +5194,7 @@ Hoofdstuk 15
 Hoofdstuk 22A 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  | Van kracht  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 22a.05, lid 2  | Aanvullende eisen voor vaartuigen met L van meer dan 110 m die bovenstrooms van Mannheim willen varen  | Voor vaartuigen die een op 30.9.2001 nog geldige vergunning van een bevoegde autoriteit bezitten, gelden de voorschriften op het te bevaren riviergedeelte, waarvoor de vergunning was verleend, niet.  | 1-10-2001  |
 | 22b.03 lid 3  | In werking stellen van de tweede onafhankelijke aandrijving of van de handaandrijving  | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2025.  | 1-04-2005  |
 
@@ -4929,7 +5226,7 @@ De certificaten van goedkeuring die krachtens het met besluit 2001-II-27 aangeno
 Voor het hieronder beschreven vaartuig wordt bij de Commissie van Deskundigen te ..... een eerste onderzoek/bijzonder onderzoek/ aanvullend onderzoek/vrijwillig onderzoek ..... aangevraagd.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1  | Naam en woonplaats van de eigenaar: .....  |
 | 2  | Naam van het vaartuig: .....  |
 | 3  | Plaats en no. van teboekstelling: .....  |
@@ -4981,7 +5278,7 @@ Voor het hieronder beschreven vaartuig wordt bij de Commissie van Deskundigen te
 <sup>1</sup> Doorhalen wat niet van toepassing is Aanwijzingen bij nr.:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 6  | Voor schepen aangeven:  |
 | --- | sleepboot, duwboot, motorvrachtschip, motortankschip, sleeptankschip, vrachtduwbak, tankduwbak, zeeschipbak, passagiersschip, zeeschip of ander soort schip.  |
 | --- | Bij drijvende werktuigen nauwkeurig het soort werktuig aangeven.  |
@@ -4995,7 +5292,7 @@ Voor het hieronder beschreven vaartuig wordt bij de Commissie van Deskundigen te
 ####Model van het certificaat van onderzoek
 
 | --- |
-|:---|
+|---|
 |  *NAAM VAN DE STAAT/WAPEN VAN DE STAAT*   |
 |  *CERTIFICAAT VAN ONDERZOEK*   |
 |  *Nr. ..........*   |
@@ -5014,7 +5311,7 @@ Voor het hieronder beschreven vaartuig wordt bij de Commissie van Deskundigen te
 Opmerkingen: Het vaartuig mag op grond van dit certificaat slechts zolang voor de vaart worden gebruikt, als het zich in de toestand bevindt zoals in het certificaat is aangegeven. Na iedere wezenlijke verandering of schade mag het vaartuig eerst dan weer in de vaart worden gebracht, wanneer het op grond van een bijzonder onderzoek daarvoor opnieuw is toegelaten. Iedere naamsverandering, iedere wisseling van eigenaar, iedere nieuwe ijking van het vaartuig zowel als iedere verandering van de teboekstelling of van de thuishaven moet de eigenaar of zijn vertegenwoordiger ter kennis brengen van de Commissie van Deskundigen. Daarbij moet hij het certificaat van onderzoek voorleggen om daarin de veranderingen aan te laten tekenen. ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1. Naam van het vaartuig  | 2. Soort vaartuig  | 3. Uniek Europees scheepsidentificatienummer  |
 | 4. Naam en adres van de eigenaar  |
 | 5. Plaats en nummer van teboekstelling  | 6. Thuishaven  |
@@ -5033,7 +5330,7 @@ Opmerkingen: Het vaartuig mag op grond van dit certificaat slechts zolang voor d
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 12. Het nummer van het certificaat van onderzoek (1), het uniek Europees scheepsidentificatienummer (2), het nummer van teboekstelling (3) en het nummer van meting (4) zijn met de bijbehorende tekens op de volgende plaatsen op het schip aangebracht:  1 ..........  2 ..........  3 ..........  4 . ..........  |
 | 13. De grootste toegelaten inzinking wordt aan iedere zijde van het schip aangegeven door  – twee – .......... – inzinkingsmerken*).  – de bovenste ijkmerken*).  Er zijn twee diepgangsschalen aangebracht*).  De achterste ijkmerken fungeren als diepgangsschalen; zij zijn daartoe aangevuld met cijfers, die de diepgang aangeven*).  |
 | 14. Het vaartuig is, met inachtname van de onder 15 en 52 aangegeven beperkingen*), geschikt om:  |
@@ -5050,21 +5347,21 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- |
-|:---|
+|---|
 | 15. Toegelaten samenstellen  |
 | 1. Het vaartuig is voor de voortbeweging van de volgende samenstellen toegelaten:  |
 
 | Nummer samenstel  | Beperkingen op grond van de hoofdstukken 5 en 16  | maximale afmetingen  | vaarrichting en belading  | maximaal ingedompelde doorsnede in m <sup>2</sup>  | Opmerkingen  |--- | OPVAART  | AFVAART  | opvaart  | afvaart  | Lengte  | Breedte  | belading t  | leeg  | belading t  | leeg  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-![249172](http://wetten.overheid.nl/Illustration/249172)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 2. Koppelingen:  |
 | Soort van de koppelingen: ..........  | Aantal koppelingen per zijde: ..........  |
 | Aantal koppelingsdraden: ..........  | Lengte per koppelingsdraad: ..........  |
@@ -5085,7 +5382,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 16. Meetbrief nr. .......... afgegeven door: .......... op ..........  |
 | 17a Lengte o.a. m  | 18a. Breedte o.a. m  | 19. Grootste diepgang m  | 20. Vrijbord cm  |
 | 17b Lengte L m  | 18b. Breedte B m  | --- | --- |
@@ -5110,7 +5407,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 36. Aantal en plaats van afsluiters bedoeld in artikel 8.08, tiende en elfde lid  |
 | 37. Ankers  Aantal boegankers  | Totaal gewicht .......... kg  | Aantal hekankers  | Totaal gewicht .......... kg  |
 | 38. Ankerkettingen  Aantal boegankerkettingen  Aantal hekankerkettingen  | Lengte per ketting .......... m  Lengte per ketting .......... m  | Breeksterkte per ketting .......... kN  Breeksterkte per ketting .......... kN  |
@@ -5128,7 +5425,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 42. Overige uitrusting  | --- | --- |
 | Werplijn  Loopplank volgens artikel 10.02, lid 2 d*)/volgens artikel 15.06, lid 12*), lengte ..... m  | Intercom  | tweezijdig afwisselend*)  tweezijdig tegelijkertijd*)  Interne bedrijfstelefoon d.m.v. marifoon*)  |
 | Bootshaak  Aantal verbandtrommels .....  Verrekijker  Bord betreffende het redden van drenkelingen  | Marifoon-installatie  | schip – schipverkeer  nautische informatie  Schip-havendienst  |
@@ -5147,28 +5444,28 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- |
-|:---|
+|---|
 | 46. Het vaartuig is geschikt voor de exploitatievormen A1*), A2*), B*).  |
 | 47. Uitrusting van het schip overeenkomstig artikel 23.09  Het schip voldoet*)/voldoet niet*) aan artikel 23.09 nr. 1.1*)/artikel 23.09 nr. 1.2*)  De minimumbemanning moet overeenkomstig artikel 3.18 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn als volgt worden versterkt*)/niet worden versterkt:  |
 | *) Doorhalen wat niet van toepassing is.  |
 
 |--- | Exploitatiewijze  |
-|:---|:---|
+|---|---|
 | --- | A1  | A2  | B  |
 | Matroos ..........  Vervanging van matroos door matroos-motordrijver  | ..........  ..........  | ..........  ..........  | ..........  ..........  |
 
 | --- |
-|:---|
+|---|
 | Opmerkingen en bijzondere voorwaarden:  ..........  ..........  ..........  |
 | 48. Minimumbemanning overeenkomstig artikel 3.19 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn  |
 
 |--- | Exploitatiewijze  |
-|:---|:---|
+|---|---|
 | --- | A1  | A2  | B  |
 | Schipper..........  Stuurman..........  Volmatroos..........  Matroos..........  Lichtmatroos..........  Matroos-motordrijver..........  Machinis..........t  | ..........  ..........  ..........  ..........  ..........  ..........  ..........  | ..........  ..........  ..........  ..........  ..........  ..........  ..........  | ..........  ..........  ..........  ..........  ..........  ..........  ..........  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Opmerkingen en bijzondere voorwaarden:  ..........  ..........  ..........  ..........  |
 | *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  | --- |
 | --- | --- |
@@ -5180,7 +5477,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*) wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
 | .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
 | --- | ..........  (Handtekening)  |
@@ -5197,7 +5494,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*) wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
 | .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
 | --- | ..........  (Handtekening)  |
@@ -5214,11 +5511,11 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- |
-|:---|
+|---|
 | 50. *Verklaring betreffende de vloeibaargasinstallatie(s)*  De op het vaartuig aanwezige vloeibaargasinstallatie(s) is/zijn*) geinspecteerd door de erkend deskundige*) ..........  ..........  gezien zijn verklaring d.d. .......... is (zijn)*) de installatie(s) overeenkomstig de voorgeschreven eisen uitgevoerd.  De installatie(s) omvat(ten)*) de volgende gebruiksapparaten:  |
 
 | Installatie  | Volgnr.  | Soort  | Merk  | Type  | Plaats  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
@@ -5228,7 +5525,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 | --- | --- | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Deze verklaring is geldig tot ..........  | --- |
 | .......... , ..........  (Plaats) (Datum)  ..........  Stempel  | Commissie van Deskundigen  ..........  Erkend deskundige*)  |
 | --- | ..........  (Handtekening)  |
@@ -5240,21 +5537,21 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- |
-|:---|:---|
-| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
+|---|---|
+| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de erkende deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
 | .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
 | --- | ..........  (Handtekening)  |
-| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
+| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de erkende deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
 | .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
 | --- | ..........  (Handtekening)  |
-| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
+| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de erkende deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
 | .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
 | --- | ..........  (Handtekening)  |
 
 ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 52. Aanhangsel bij het certificaat van onderzoek  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  |
 | *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  | --- |
 | Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
@@ -5266,14 +5563,14 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 
 ####Model van het register der certificaten van onderzoek
 
-![244650](http://wetten.overheid.nl/Illustration/244650)
+![]()
 
 ### Bijlage  D  
 
 ####als bedoeld in artikel 2.05, tweede lid 
 
-(Model)   ![249031](http://wetten.overheid.nl/Illustration/249031)
-![249031](http://wetten.overheid.nl/Illustration/249031)
+(Model)   ![]()
+![]()
 
 ### Bijlage  E  
 
@@ -5287,7 +5584,7 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 
 ####Model van het speciale certificaat voor zeeschepen die de Rijn bevaren
 
-![244673](http://wetten.overheid.nl/Illustration/244673)
+![]()
 
 ####Uittreksel uit het Reglement betreffende het verlenen van Rijnschipperspatenten
 
@@ -5295,21 +5592,21 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 
 Voor het vaststellen van de bemanning moeten zeeschepen: 
 
-1. hetzij Deel II van het [Reglement betreffende het Scheepvaartpersoneel op de Rijn](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (‘RSP’) toepassen  
+1. hetzij Deel II van het Reglement betreffende het Scheepvaartpersoneel op de Rijn (‘RSP’) toepassen  
 
-2. hetzij de bemanningsregeling toepassen overeenkomstig de bepalingen van Resolutie A.481 (XII) van de Internationale Maritieme Organisatie (IMO) en van het internationale verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning, voorgeschreven in Deel II van het RSP volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de [artikelen 3.14](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.18](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   In dit geval moeten de betreffende bescheiden, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het Grote Patent bedoeld in het RSP, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze houder van dit patent vervangen worden door een andere houder van dit patent. In het logboek moeten de volgende aantekeningen worden gemaakt: 
+2. hetzij de bemanningsregeling toepassen overeenkomstig de bepalingen van Resolutie A.481 (XII) van de Internationale Maritieme Organisatie (IMO) en van het internationale verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning, voorgeschreven in Deel II van het RSP volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de artikelen 3.14 en 3.18.   In dit geval moeten de betreffende bescheiden, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het Grote Patent bedoeld in het RSP, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze houder van dit patent vervangen worden door een andere houder van dit patent. In het logboek moeten de volgende aantekeningen worden gemaakt: 
 
 – de namen van de houders van het Grote Patent die zich aan boord bevinden en het begin en einde van hun diensttijd;  
 
 – begin, onderbreking, voortzetting en einde van de vaart met telkens daarbij de vermelding van datum, tijdstip en plaats met aanduiding van de kilometerraai.   Dit certificaat is alleen geldig indien het schip is voorzien van geldige certificaten voor de zee- of kustvaart en ten hoogste tot ..........  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | .......... ,  (Plaats)  | de ..........  (Datum)  |
 | Stempel  | ..........  Commissie van Deskundigen  |
 | --- | ..........  (Handtekening)  |
 
-![244675](http://wetten.overheid.nl/Illustration/244675)
+![]()
 
 ### Artikel  4  
 
@@ -5398,7 +5695,7 @@ c. de tijd, gemoeid met reparaties of overwintering, een en ander tot een totaal
 10. Bedrijfsvoorwaarden De apparaten of onderdelen daarvan moeten onder de volgende voorwaarden bedrijfszeker werken:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | – omgevingstemperatuur:  | 0°C tot + 40 °C;  |
 | – vochtigheid:  | tot 85% relatieve vochtigheid van de omgevingslucht;  |
 | – elektrische beschermingsgraad:  | IP54 volgens IEC-Aanbeveling 529;  |
@@ -5439,14 +5736,15 @@ Bij de installatie van tachografen aan boord moet aan de volgende voorwaarden wo
 
 ####Veiligheidstekens
 
-Schets 1 Verboden voor onbevoegden Kleur: rood/wit/zwart   ![244678](http://wetten.overheid.nl/Illustration/244678)
-Schets 2 Vuur, open licht en roken verboden Kleur: rood/wit/zwart   ![244678](http://wetten.overheid.nl/Illustration/244678)
-![244678](http://wetten.overheid.nl/Illustration/244678)
-Schets 4 Waarschuwing voor algemeen gevaar Kleur: zwart/geel   ![244678](http://wetten.overheid.nl/Illustration/244678)
-Schets 5 Brandslang Kleur: rood/wit   ![244678](http://wetten.overheid.nl/Illustration/244678)
-Schets 6 Brandblusinstallatie Kleur: rood/wit   ![244678](http://wetten.overheid.nl/Illustration/244678)
-Schets 7 Gehoorbescherming verplicht Kleur: blauw/wit   ![244678](http://wetten.overheid.nl/Illustration/244678)
-![244678](http://wetten.overheid.nl/Illustration/244678)
+Schets 1 Verboden voor onbevoegden Kleur: rood/wit/zwart   ![]()
+Schets 2 Vuur, open licht en roken verboden Kleur: rood/wit/zwart   ![]()
+![]()
+Schets 4 Waarschuwing voor algemeen gevaar Kleur: zwart/geel   ![]()
+Schets 5 Brandslang Kleur: rood/wit   ![]()
+Schets 6 Brandblusinstallatie Kleur: rood/wit   ![]()
+Schets 7 Gehoorbescherming verplicht Kleur: blauw/wit   ![]()
+![]()
+Schets 10 Zwemvest gebruiken Kleuren: Blauw / Wit   ![]()
 De gebruikte pictogrammen mogen enigszins variëren of meer gedetailleerd zijn dan de illustraties in deze bijlage, mits de betekenis ervan niet wordt veranderd en verschillen en aanpassingen de betekenis niet onbegrijpelijk maken. 
 
 ### Bijlage  K  
@@ -5458,7 +5756,7 @@ De gebruikte pictogrammen mogen enigszins variëren of meer gedetailleerd zijn d
 Model van het uniek Europees scheepsidentificatienummer (ENI) 
 
 | A  | A  | A  | X  | X  | X  | X  | X  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | Code van de bevoegde  autoriteit die het Europees  scheepsnummer toewijst  | Serienummer  |
 
 In dit model staat ‘AAA’ voor de code van drie cijfers die de bevoegde autoriteit toekent bij de toewijzing van het Europees scheepsidentificatienummer, waarbij de volgende nummers moeten worden gerespecteerd voor de landen in kwestie: Cijferreeks voor de bevoegde autoriteiten 001–019 Frankrijk 020–039 Nederland 040–059 Duitsland 060–069 België 070–079 Zwitserland 080–099 gereserveerd voor de schepen van landen die geen verdragspartijen van de Akte van Mannheim zijn, en waarvoor vóór 1 april 2007 een Rijnvaartcertificaat is afgegeven. 100–119 Noorwegen 120–139 Denemarken 140–159 Verenigd Koninkrijk 160–169 IJsland 170–179 Ierland 180–189 Portugal 190–199 gereserveerd 200–219 Luxemburg 220–239 Finland 240–259 Polen 260–269 Estland 270–279 Littouwen 280–289 Letland 290–299 gereserveerd 300–309 Oostenrijk 310–319 Liechtenstein 320–329 Tschechische Republiek 330–339 Slowakije 340–349 gereserveerd 350–359 Croatie 360–369 Serbië 370–379 Bosnië-Herzegovina 380–399 Hongarije 400–419 Russische Federatie 420–439 Ukraïne 440–449 Wit-Rusland 450–459 Republiek Moldavië 460–469 Roemenië 470–479 Bulgarije 480–489 Georgië 490–499 gereserveerd 500–519 Turkije 520–539 Griekenland 540–549 Cyprus 550–559 Albanië 560–569 Voormalige Joegoslavische Republiek Macedonië 570–579 Slovenië 580–589 Montenegro 590–599 gereserveerd 600–619 Italië 620–639 Spanje 640–649 Andorra 650–659 Malta 660–669 Monaco 670–679 San Marino 680–699 gereserveerd 700–719 Zweden 720–739 Canada 740–759 Verenigde Staten van Amerika 760–769 Israël 770–799 gereserveerd 800–809 Azerbaidjan 810–819 Kazachstan 820–829 Kirghizistan 830–839 Tadzjikistan 840–849 Turkmenistan 850–859 Oezbekistan 860–869 Iran 870–999 gereserveerd ‘xxxxx’ staat voor het door de bevoegde autoriteit toegekende serienummer van vijf cijfers. 
@@ -5825,7 +6123,7 @@ De metingen van de uitgezonden storingen worden overeenkomstig de Europese norm 
 
 ####Aanhangsel
 
-![246028](http://wetten.overheid.nl/Illustration/246028)
+![]()
 Fig. 1 Tolerantiegrenzen voor bochtaanwijzers   
 
 ### Bijlage  M  
@@ -5961,29 +6259,29 @@ Na een succesvolle keuring overeenkomstig artikel 9 geeft de bevoegde autoriteit
 Soort/naam v.h. schip; ..... Uniek Europees scheepsidentificatienummer of officieel scheepsnummer: ..... Eigenaar van het schip Naam: ..... Adres ..... ..... Tel. .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | --- |
 | Radartoestellen  | Aantal: .....  |
 | --- | --- |
 
 | Volgnr.  | Verklaring  | Type  | Goedkeuringsnummer  | Serienummer  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | --- |
 | Bochtaanwijzers  | Aantal: .....  |
 | --- | --- |
 
 | Volgnr.  | Verklaring  | Type  | Goedkeuringsnummer  | Serienummer  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Hierbij wordt verklaard dat de radarinstallatie en de bochtaanwijzer van dit schip aan de voorschriften van bijlage M, deel III, van het Reglement Onderzoek schepen op de Rijn, omtrent de inbouw en de controle van het functioneren van radarinstallaties en bochtaanwijzers voor de Rijnvaart voldoen.  *Erkend bedrijf*  Naam: ..... Adres ..... ..... Tel. .....  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 | Stempel  | Plaats .....  | Datum .....  |
 | .....  | --- | --- |
@@ -6003,7 +6301,7 @@ Hierbij wordt verklaard dat de radarinstallatie en de bochtaanwijzer van dit sch
 ####Lijst van de volgens het Reglement Onderzoek schepen op de Rijn voor het toelaten van navigatieradarinstallaties en bochtaanwijzers bevoegde autoriteiten
 
 | Land  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | België  | --- | --- | --- | --- |
 | Duitsland  | --- | --- | --- | --- |
 | Frankrijk  | --- | --- | --- | --- |
@@ -6017,7 +6315,7 @@ Is geen autoriteit vermeld, dan betekent dat de betrokken staat geen bevoegde au
 ####Lijst van de volgens het Reglement Onderzoek schepen op de Rijn toegelaten navigatieradarinstallaties en bochtaanwijzers
 
 | Nr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | --- | --- |
 
 ### 3  
@@ -6025,7 +6323,7 @@ Is geen autoriteit vermeld, dan betekent dat de betrokken staat geen bevoegde au
 ####Lijst van de volgens het Reglement Onderzoek schepen op de Rijn op grond van gelijkwaardige typegoedkeuringen toegelaten navigatieradarinstallaties en bochtaanwijzers
 
 | Nr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | --- | --- |
 
 ### 4  
@@ -6035,31 +6333,31 @@ Is geen autoriteit vermeld, dan betekent dat de betrokken staat geen bevoegde au
 België 
 
 | Nr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Duitsland 
 
 | Nr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Frankrijk 
 
 | Nr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Nederland 
 
 | Nr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Zwitserland 
 
 | Nr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  
@@ -6072,7 +6370,7 @@ Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd er
 
 ### *A. Vereisten voor Inland AIS-apparatuur* 
 
-De AIS-apparatuur moet voldoen aan de in deel protocol 2007-I-15 vermelde vereisten van de teststandaard. De conformiteit wordt aangetoond met een typegoedkeuringsonderzoek van een bevoegde autoriteit. 
+De AIS-apparatuur moet voldoen aan de in besluit 2007-I-15 vermelde eisen van de teststandaard, editie 2.0. De conformiteit wordt aangetoond met een typegoedkeuringsonderzoek van een bevoegde autoriteit. 
 ### *B. Controle van de inbouw en van het functioneren van Inland AIS-apparatuur aan boord* 
 
 Bij de inbouw van Inland AIS-apparatuur aan boord moet aan de volgende voorwaarden worden voldaan: 
@@ -6081,17 +6379,28 @@ Bij de inbouw van Inland AIS-apparatuur aan boord moet aan de volgende voorwaard
 
 2. Het Inland AIS-apparaat moet in het stuurhuis of op een andere goed toegankelijke plaats zijn geïnstalleerd.  
 
-3. Het moet zichtbaar zijn of het apparaat in bedrijf is.Het apparaat moet permanent door elektrische energie worden gevoed door middel van een stroomkring die tegen uitvallen beschermd is en voorzien van een eigen beveiliging, en het moet rechtstreeks aan de stroombron zijn aangesloten.  
+3. De functionaliteit van een interne of externe MKD (minimum keyboard and display) moet voor de schipper bereikbaar zijn. Alarmfuncties en statusinformatie van het Inland AISapparaat moeten zich in het directe gezichtsveld van de roerganger bevinden. Het is echter mogelijk dat direct zicht op andere apparaten die bij het varen gebruikt worden, een hogere prioriteit heeft. Alle waarschuwingslampjes moeten na de inbouw zichtbaar blijven.  
 
-4. De antennen van de Inland AIS apparatuur moeten zo zijn geïnstalleerd en aan de apparatuur zijn aangesloten dat deze onder alle normale bedrijfsomstandigheden veilig functioneren.Een ander apparaat mag slechts worden aangesloten indien de interfaces van beide apparaten compatibel zijn.  
+4. Het moet zichtbaar zijn of het apparaat in bedrijf is.Het apparaat moet permanent door elektrische energie worden gevoed door middel van een stroomkring die tegen uitvallen beschermd is en voorzien van een eigen beveiliging, en het moet rechtstreeks aan de stroombron zijn aangesloten.  
 
-5. Vóór de eerste inbedrijfstelling na de inbouw, bij vernieuwing of verlenging van het certificaat van onderzoek (met uitzondering van artikel 2.09, tweede lid, van het Reglement Onderzoek schepen op de Rijn), alsmede na elke verbouwing van het schip die de operationele toestand van deze installaties zou kunnen beïnvloeden, moet door de bevoegde autoriteit of door een erkend bedrijf een controle op de inbouw en het functioneren worden uitgevoerd.  
+5. De antennen van de Inland AIS apparatuur moeten zo zijn geïnstalleerd en aan de apparatuur zijn aangesloten dat deze onder alle normale bedrijfsomstandigheden veilig functioneren.Een ander apparaat mag slechts worden aangesloten indien de interfaces van beide apparaten compatibel zijn.  
 
-6. Het gespecialiseerde bedrijf dat de inbouw en de goede werking van de installatie heeft gecontroleerd, geeft over de bijzondere kenmerken en de juiste functionering van het Inland AIS-apparaat, een verklaring overeenkomstig bijlage N, deel II af.  
+6. Uitsluitend typegoedgekeurde externe sensoren mogen met het Inland AIS-apparaat worden verbonden. De externe sensoren die met het Inland AIS-apparaat zijn verbonden, moeten een typegoedkeuring hebben conform de volgende overeenkomstige maritieme standaarden.  
 
-7. De verklaring moet blijvend aan boord worden bewaard.  
+| Sensor  | Sensor Minimum Performance  Standard (IMO)  | ISO/IEC Standard  |
+|---|---|---|
+| GPS  | MSC.112(73)  | IEC 61108-1 : 2003  |
+| DGPS/DGLONASS  | MSC.114(73)  | IEC 61108-4 : 2004  |
+| Galileo  | MSC.233(82)  | IEC 61108-3 : 2010  |
+| Heading/GPS Compass  | MSC.116(73)  | ISO 22090-3 : 2004  Part 3 : GNSS principles  |
 
-8. Een gebruiksaanwijzing om aan boord te worden bewaard moet zijn afgegeven. Dit moet in de verklaring met betrekking tot de installatie worden aangetekend.   
+7. Vóór de eerste inbedrijfstelling na de inbouw, bij vernieuwing of verlenging van het certificaat van onderzoek (met uitzondering van artikel 2.09, tweede lid, van het Reglement Onderzoek schepen op de Rijn), alsmede na elke verbouwing van het schip die de operationele toestand van deze installaties zou kunnen beïnvloeden, moet door de bevoegde autoriteit of door een erkend bedrijf een controle op de inbouw en het functioneren worden uitgevoerd.  
+
+8. Het gespecialiseerde bedrijf dat de inbouw en de goede werking van de installatie heeft gecontroleerd, geeft over de bijzondere kenmerken en de juiste functionering van het Inland AIS-apparaat, een verklaring overeenkomstig bijlage N, deel II af.  
+
+9. De verklaring moet blijvend aan boord worden bewaard.  
+
+10. Een gebruiksaanwijzing om aan boord te worden bewaard moet zijn afgegeven. Dit moet in de verklaring met betrekking tot de installatie worden aangetekend.   
 ### *C. Informatie van de Centrale Commissie voor de Rijnvaart* 
 
 De Rijnoeverstaten en België brengen onverwijld de volgende gegevens in kennis van de Centrale Commissie voor de Rijnvaart: 
@@ -6109,13 +6418,13 @@ c. iedere erkenning van een bedrijf dat zich in de inbouw van Inland AIS-apparat
 Soort/naam v.h. schip; Uniek Europees scheepsidentificatienummer of officieel scheepsnummer; Eigenaar van het schip Naam: Adres Tel. Inland AIS-apparaat  
 
 | Type  | Fabrikant  | Goedkeuringsnummer  | Serienummer  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | --- | --- |
 
 Hiermee wordt veklaard dat het Inland AIS-apparaat van dit schip aan de voorschriften van de bijlage N, Deel I, van het Reglement Onderzoek schepen op de Rijn – Voorwaarden voor Inland AISapparatuur en voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur – voldoet en dat een gebruiksaanwijzing om aan boord te worden bewaard is afgegeven. Erkend deskundig bedrijf Naam: Adres Tel.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Stempel  | Plaats  | Datum  |
 | Handtekening:  | --- | --- |
 
@@ -6128,7 +6437,7 @@ Bevoegde autoriteit voor de erkenning van het gespecialiseerde bedrijf Naam: Adr
 ####Lijst van de het volgens het Reglement Onderzoek schepen op de Rijn voor het toelaten van Inland AIS-apparatuur bevoegde autoriteiten
 
 | Land  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | België  | --- | --- | --- | --- |
 | Duitsland  | --- | --- | --- | --- |
 | Frankrijk  | --- | --- | --- | --- |
@@ -6139,18 +6448,34 @@ Is geen autoriteit vermeld, dan betekent dat de betrokken staat geen bevoegde au
 
 ### 2  
 
-####Lijst van de volgens het Reglement Onderzoek schepen op de Rijn toegelaten Inland AIS-apparatuur
+####Lijst van de volgens het Reglement onderzoek schepen op de Rijn toegelaten Inland AIS-apparatuur
 
-| Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeurings-nummer  |
-|:---|:---|:---|:---|:---|:---|:---|
+Lijst van de vanaf 1 april 2008 tot en met 18 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 1.0 en 1.01, toegelaten Inland AIS-apparatuur. Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt.  
+
+| Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
+|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
+
+Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 2.0, toegelaten Inland AIS-apparatuur.  
+
+| Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
+|---|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | --- | --- |
 
 ### 3  
 
 ####Lijst van de volgens het Reglement Onderzoek schepen op de Rijn op grond van gelijkwaardige typegoedkeuringen toegelaten Inland AIS-apparatuur
 
-| Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeurings-nummer  |
-|:---|:---|:---|:---|:---|:---|:---|
+Lijst van de vanaf 1 april 2008 tot en met 18 oktober 2012 op grond van type-goedkeuringen overeenkomstig de teststandaard, editie 1.0 en 1.01, toegelaten Inland AIS-apparatuur. Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt.  
+
+| Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
+|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
+
+Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard editie 2.0, toegelaten Inland AIS-apparatuur  
+
+| Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
+|---|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | --- | --- |
 
 ### 4  
@@ -6160,31 +6485,31 @@ Is geen autoriteit vermeld, dan betekent dat de betrokken staat geen bevoegde au
 België 
 
 | Volgnr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Duitsland 
 
 | Volgnr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Frankrijk 
 
 | Volgnr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Nederland 
 
 | Volgnr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  Zwitserland 
 
 | Volgnr.  | Naam  | Adres  | Telefoon  | E-mail  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
 
 Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd erkend.  
@@ -6194,7 +6519,7 @@ Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd er
 Lijst van de aan het certificaat van onderzoek volgens artikel 1.03 als gelijkwaardig erkende bevoegdheidsbewijzen en modaliteiten voor de erkenning van die bevoegdheidsbewijzen 
 
 | Nr.  | Aan het certificaat van onderzoek volgens artikel 1.03  als gelijkwaardig erkende bevoegdheidsbewijzen  | Modaliteiten van de erkenning  | Datum van de erkenning  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | Na 30 december 2008 afgegeven of hernieuwde communautaire certificaten voor binnenschepen, die bevestigen dat de desbetreffende schepen, onverminderd de overgangsvoorschriften volgens hoofdstuk 24, bijlage II, volledig voldoen aan de technische voorschriften van bijlage II van de laatst geldende versie van Richtlijn 2006/87/EG inzake vaststelling van de technische voorschriften voor binnenvaartschepen en tot intrekking van Richtlijn 82/714/EEG.  | Schepen op de Rijn, waaraan na 30 december 2008 een communautair certificaat is afgegeven, moeten van motoren zijn voorzien, die voldoen aan ofwel de grenswaarden van de Centrale Commissie voor de Rijnvaart, zoals vastgelegd in het Reglement onderzoek schepen op de Rijn, ofwel aan vergelijkbare grenswaarden krachtens Richtlijn 97/68/EG in zijn laatst geldende versie.  | 27 november 2008  |
 
 ### Bijlage  P  
@@ -6252,3 +6577,179 @@ B. Indien beschikbaar:
 9. ATIS-code;  
 
 10. type, nummer, autoriteit die het certificaat afgeeft en de geldigheidsdatum van andere certificaten.     
+
+### Bijlage  Q  
+
+(Zonder inhoud) 
+
+### Bijlage  S  
+
+####Boordzuiveringsinstallaties
+
+####– Testprocedure –
+
+### 1  
+
+####Algemene gegevens
+
+1.1 Grondslag Het keuringsvoorschrift dient ter controle van de geschiktheid van boordzuiveringsinstallaties aan boord van passagiersschepen. Bij deze procedure wordt aan de hand van een testopstelling de toegepaste proces- en behandelingstechniek onderzocht en toegelaten. De conformiteit tussen de testopstelling en de later aan boord in gebruik zijnde boordzuiveringsinstallaties wordt gewaarborgd door de toepassing van identieke criteria voor het concept en de dimensionering.  
+
+1.2 Verantwoordelijkheid en keuringsplaats De testopstelling van een reeks boordzuiveringsinstallatietypes moet door een technische dienst worden gekeurd. De keuringsvoorwaarden op de keuringsplaats vallen onder de verantwoordelijkheid van de technische dienst en moeten met de onderstaande voorwaarden overeenstemmen.  
+
+1.3 In te dienen documenten De keuring geschiedt aan de hand van het inlichtingenformulier, bedoeld in Bijlage R, Deel II.  
+
+1.4 Eisen aan de dimensionering van de boordzuiveringsinstallatie Een boordzuiveringsinstallatie moet zodanig worden gedimensioneerd en uitgevoerd, dat de vastgestelde waarden voor haar afvoer niet hoger zijn dan de in artikel 14a.02, tweede lid, tabel 1 en 2, genoemde grenswaarden.    
+
+### 2  
+
+####Voorbereidende maatregelen voor de uitvoering van de keuring
+
+2.1 Algemene gegevens Vóór het begin van de keuring moet de fabrikant aan de technische dienst bouw- en procestechnische gegevens betreffende de testopstelling, inclusief een volledige serie tekeningen en verklarende berekeningen, bedoeld in Bijlage R, Deel II, evenals volledige informatie over de eisen aan de inbouw, het bedrijf en het onderhoud van de boordzuiveringsinstallatie voorleggen. De fabrikant moet aan de technische dienst informatie over de mechanische, elektrische en technische veiligheid van de te beproeven boordzuiveringsinstallatie verstrekken.  
+
+2.2 Inbouw en ingebruikstelling De testopstelling moet door de fabrikant zodanig voor de test worden geïnstalleerd, dat zij overeenstemt met de voorziene inbouwomstandigheden aan boord van een passagiersschip. De fabrikant moet vóór de test de boordzuiveringsinstallatie monteren en in gebruik nemen. De ingebruikstelling moet overeenkomstig het handboek van de fabrikant geschieden en moet door de technische dienst worden gecontroleerd.  
+
+2.3 Inloopfase De fabrikant moet de technische dienst in kennis stellen van de nominale tijdsduur van de inloopfase tot het normale bedrijf, uitgedrukt in weken. De fabrikant geeft aan wanneer de inloopfase beëindigd is, en met de test kan worden begonnen.  
+
+2.4 Toevoerkengetallen Voor de keuring van de testopstelling moet onbehandeld huishoudelijk afvalwater worden gebruikt. De toevoerkengetallen betreffende de vuilconcentraties worden vastgesteld aan de hand van de dimensioneringsbescheiden van de fabrikant van de boordzuiveringsinstallatie overeenkomstig bijlage R, Deel II, door het quotiënt van de doorstomingshoeveelheid van organische stoffen zoals BZB <sub>5</sub> -massa in kg/d en het voorziene debiet van het afvalwatervolume Qd in m <sup>3</sup> /d te berekenen. De toevoerkengetallen moeten dienovereenkomstig door de technische dienst worden afgesteld.   ![]()
+Formule I – Berekening van het toevoerkengetal  Indien aan de hand van formule 1 een geringer gemiddelde BZB <sub>5</sub> -concentratie van C <sub>BZB, gemiddelde</sub> = 500 mg/l wordt verkregen, dan moet in het toevoerwater een gemiddelde <sub>5</sub> -concentratie van ten minste 500 mg/l worden afgesteld. De technische dienst mag het instromende onbehandelde afvalwater niet eerst behandelen in een vermaalinrichting. Het verwijderen (o.a. afzeven) van zand is toegestaan.    
+
+### 3  
+
+####Testprocedure
+
+3.1 Belastingsfasen en hydraulische aanvoer De testperiode beslaat 30 testdagen. De testopstelling wordt op het proefveld met huishoudelijk afvalwater gevuld, overeenkomstig de in tabel 1 genoemde belasting. Er worden verschillende belastingsmodi onderzocht: Bij het verloop van de test zijn fasen van normale en bijzondere belasting voorzien, zoals over-, en onderbelasting en een stand-by bedrijfsmodus. De duur van de desbetreffende fasen (aantal testdagen) is in tabel 1 gespecificeerd. De gemiddelde dagelijkse hydraulische belasting voor de dienovereenkomstige belastingsmodi moet volgens tabel 1 worden vastgesteld. De gemiddelde vuilconcentratie, die overeenkomstig lid 2.4 moet worden afgesteld, wordt constant gehouden.  Tabel 1: Af te stellen belasting en duur van de test voor de belastingsmodi 
+
+| Modus  | Aantal testdagen  | Dagelijkse hydraulische belasting  | Vuilconcentratie  |
+|---|---|---|---|
+| Normale belasting  | 20 dagen  | Q <sub>d</sub>  | C <sub>BZB5</sub> conform lid 2.4  |
+| Overbelasting  | 3 dagen  | 1,25 Q <sub>d</sub>  | C <sub>BZB5</sub> conform lid 2.4  |
+| Onderbelasting  | 3 dagen  | 0,5 Q <sub>d</sub>  | C <sub>BZB5</sub> conform lid 2.4  |
+| Stand-by  | 4 dagen  | Dag 1 en dag 2 Q <sub>d</sub> = 0  dag 3 en dag 4 Q <sub>d</sub>  | C <sub>BZB5</sub> conform lid 2.4  |
+
+De testperiodes die overeenkomen met de bijzondere belastingsfasen ‘overbelasting’, ‘onderbelasting’ en ‘stand-by-bedrijf’ moeten telkens zonder onderbreking worden uitgevoerd, de testperiode die overeenkomt met de normale belastingsmodus moet in meerdere testreeksen worden onderverdeeld. De test moet met een telkens minstens vijf dagen durende reeks in normale belastingsmodus worden begonnen en beëindigd. Afhankelijk van het ingestelde bedrijf van de boordzuiveringsinstallatie moeten een lineair verloop op dagbasis van de hydraulische aanvoer worden afgesteld. De keuze van het dagelijks lineair verloop van de aanvoer moet overeenkomen met het bedrijfsconcept van de boordzuiveringsinstallatie. Daarbij wordt een onderscheid gemaakt tussen een boordzuiveringsinstallatie met of zonder een voorgeschakelde verzameltank van het afvalwater. De lineaire verlopen van de aanvoer (lineair verloop op dagbasis) zijn in figuur 1 en figuur 2 weergegeven. Over de gehele duur moet worden gewaarborgd dat de toevoer per uur gelijkmatig verloopt. De gemiddelde stroom van het afvalwatervolume per uur Qh,gemiddelde komt overeen met 1/24 van de dagelijkse hydraulische belasting in overeenstemming met tabel 1. De technische dienst moet de toevoer voortdurend meten. Het dagelijkse lineaire verloop moet een grensafwijking van ± 5% inhouden.   ![]()
+Figuur 1: Dagelijks lineair verloop van de boordzuiveringsinstallatie met voorgeschakelde verzameltank van het afvalwater    ![]()
+Figuur 2: Dagelijks lineair verloop van de boordzuiveringsinstallatie zonder voorgeschakelde verzameltank van het afvalwater   
+
+3.2 Onderbreking of stop van de test Een onderbreking van de test kan noodzakelijk zijn, wanneer de testopstelling vanwege een stroomuitval of het uitvallen van een onderdeel of component niet meer naar behoren kan functioneren. De test kan voor de duur van de reparatie worden onderbroken. In dit geval moet de test niet geheel worden herhaald, maar uitsluitend de fase tijdens welk het aggregaat is uitgevallen. Na de tweede onderbreking van de test moet de technische dienst beslissen of de test voortgezet kan worden of dat hij moet worden gestopt. De beslissing moet met redenen omkleed in het testverslag worden vastgelegd. Wordt de test gestopt, dan moet hij volledig worden herhaald.  
+
+3.3 Onderzoek naar de reinigingsprestatie en naleving van afvoergrenswaarden De technische dienst moet in de toevoer naar de testopstelling monsters nemen en deze analyseren om de overeenstemming met de toevoerkengetallen te bevestigen. Ter bepaling van de reinigingsprestatie en de naleving van de vereiste afvoergrenswaarden, moeten monsters van het afvalwater uit de afvoer van de testopstelling worden genomen en geanalyseerd. Bij de monsterneming worden steekproeven en 24u-mengmonsters genomen. Bij de 24u-mengmonsters kunnen debiet- of tijdproportionele monsters genomen worden. De aard van een 24u-mengmonster wordt door de technische dienst bepaald. De monsternemingen in de aan- en afvoer moeten gelijktijdig en gelijkwaardig geschieden. Voor de beschrijving en de weergave van de omgevings- en testomstandigheden moeten behalve de controlekenmerken BZB <sub>5</sub>, CZB en TOC de volgende kenmerken voor de toevoer en voor de afvoer worden geregistreerd: <sup> 1  Het TOC-kenmerk wordt vanaf grenswaardefase II van tabel 1 in artikel 14a.02, tweede lid, getest.  </sup> 
+
+a. Affiltreerbare stoffen (AFS)  
+
+b. pH-waarde  
+
+c. Geleidingsvermogen  
+
+d. Temperatuur van de vloeibare fasen   Het aantal controles geschiedt in overeenstemming met de desbetreffende belastingsmodi en is in tabel 2 gespecificeerd. Het aantal monsternemingen betreft telkens de toe- en afvoer van de testopstelling.  Tabel 2: Eisen met betrekking tot het aantal en tijdstip van de bemonstering in de toe- en afvoer van de testopstelling. 
+
+| Belastingsmodus  | Aantal testdagen  | Aantal bemonsteringen  | Eisen m.b.t. het tijdstip van de bemonstering  |
+|---|---|---|---|
+| Normale belasting  | 20 dagen  | 24u-mengmonsters: 8  steekproeven :8  | De bemonsteringen moeten gelijkmatig over de tijdspanne worden verdeeld  |
+| Overbelasting  | 3 dagen  | 24u-mengmonsters: 2  steekproeven :2  | De bemonsteringen moeten gelijkmatig over de tijdspanne worden verdeeld  |
+| Onderbelasting  | 3 dagen  | 24u-mengmonsters: 2  steekproeven :2  | De bemonsteringen moeten gelijkmatig over de tijdspanne worden verdeeld  |
+| Stand by  | 4 dagen  | 24u-mengmonsters: 2  steekproeven :2  | 24u-mengmonster: start van de bemonstering na inschakelen toevoer en 24u later  Steekproef 1 uur na inschakelen toevoer en 24u later  |
+| Totale aantal 24u-mengmonsters: 14  | Totale aantal 24u-mengmonsters: 14  |
+
+Verder moeten, voor zover beschikbaar – de volgende bedrijfskenmerken tijdens het nemen van de steekproeven worden geregistreerd: 
+
+a. Concentratie van de opgeloste zuurstof in de bioreactor  
+
+b. Gehalte droge stoffen in de bioreactor  
+
+c. Temperatuur in de bioreactor  
+
+d. Omgevingstemperatuur  
+
+e. Overige bedrijfskenmerken overeenkomstig het desbetreffende inlichtingenformulier van de fabrikant.    
+
+3.4 Evaluatie van de onderzoeken Ten behoeve van de vastlegging van de geconstateerde reinigingsprestatie en ten behoeve van de controle van de naleving van de afvoergrenswaarden moeten voor de controlekenmerken BZB <sub>5</sub>, CZB en TOC evenals voor de AFS-kenmerken het minimumresultaat van het monster (min), het maximumresultaat van het monster (max) en het rekenkundige gemiddelde (gemiddelde waarde) worden vermeld. Voor de maximumwaarde van het monster moet bovendien de belastingsmodus worden vermeld. Alle belastingsmodi moeten gezamenlijk worden geëvalueerd. De resultaten moeten worden gepresenteerd zoals in de volgende tabel:  Tabel 3a: Eisen met betrekking tot de statistische verwerking van geregistreerde gegevens -evaluatie ter vastlegging van de naleving van de afvoergrenswaarden 
+
+| Kenmerk  | Monstertype  | Aantal monsters dat aan de afvoergrenswaarden voldoet  | Gemiddelde waarde  | Min  | Max  |
+|---|---|---|---|---|---|
+| Waarde  | Modus  |
+| Toevoer BZB <sub>5</sub>  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer BZB <sub>5</sub>  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer BZB <sub>5</sub>  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer BZB <sub>5</sub>  | Steekproeven  | --- | --- | --- | --- | --- |
+| Toevoer CZB  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer CZB  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer CZB  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer CZB  | Steekproeven  | --- | --- | --- | --- | --- |
+| Toevoer TOC TOC  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer TOC  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer TOC  | Steekproeven  | --- | --- | --- | --- | --- |
+| Toevoer AFS  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer AFS  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer AFS  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer AFS  | Steekproeven  | --- | --- | --- | --- | --- |
+
+Tabel 3b: Eisen met betrekking tot de statistische verwerking van geregistreerde gegevens – evaluatie ter vastlegging van reinigingsprestatie 
+
+| Kenmerken  | Monstertype  | Gemiddelde waarde  | Min  | Max  |
+|---|---|---|---|---|
+| Eliminatieprestatie BZB <sub>5</sub>  | 24u-mengmonsters  | --- | --- | --- |
+| Eliminatieprestatie BZB <sub>5</sub>  | Steekproeven  | --- | --- | --- |
+| Eliminatieprestatie CZB  | 24u-mengmonsters  | --- | --- | --- |
+| Eliminatieprestatie CZB  | Steekproeven  | --- | --- | --- |
+| Eliminatieprestatie TOC  | 24u-mengmonsters  | --- | --- | --- |
+| Eliminatieprestatie TOC  | Steekproeven  | --- | --- | --- |
+| Eliminatieprestatie AFS  | 24u-mengmonsters  | --- | --- | --- |
+| Eliminatieprestatie AFS  | Steekproeven  | --- | --- | --- |
+
+De overige kenmerken, bedoeld in lid 3.3, onderdeel b tot en met d, evenals de bedrijfskenmerken, bedoeld in lid 3.3, moeten in een overzicht in tabelvorm, met vermelding van de minimumresultaten (min), de maximumresultaten (max) en de rekenkundige gemiddelden (gemiddelde waarde), worden weergegeven.  
+
+3.5 Naleving van de eisen van hoofdstuk 14a Aan de grenswaarden, bedoeld in artikel 14a.02, tweede lid, tabel 1 en 2, wordt geacht te zijn voldaan, indien voor elk kenmerk CZB, BZB <sub>5</sub> en TOC 
+
+a. de gemiddelde waarden van alle 14 afvoermonsters en  
+
+b. ten minste 10 van de 14 afvoermonsters   niet meer bedragen dan de voorgeschreven grenswaarden voor de 24u-mengmonsters en steekproeven.  
+
+3.6 Bedrijf en onderhoud tijdens de test Het bedrijf van de testopstelling moet gedurende de gehele test volgens de aanwijzingen van de fabrikant geschieden. Routinematige controle en onderhoud moet, met inachtneming van de gebruiksaanwijzing van de fabrikant, routinematig worden uitgevoerd. Het overtollig slib dat door de door de biologische reinigingsprocedure ontstaat, mag uitsluitend uit de zuiveringsinstallatie worden verwijderd, indien de fabrikant dit in de gebruiksaanwijzing heeft voorzien. Alle uitgevoerde onderhoudswerkzaamheden moeten door de technische dienst worden genoteerd en in het testverslag worden vastgelegd. Tijdens de test mogen onbevoegden geen toegang tot de testopstelling krijgen.  
+
+3.7 Monsteranalyse/analyseprocedure De te onderzoeken kenmerken moeten worden geanalyseerd met erkende normprocedures. De gebruikte normprocedure moet worden vermeld.    
+
+### 4  
+
+####Testverslag
+
+4.1 De technische dienst is verplicht over de uitgevoerde typekeuring een verslag op te stellen. Het verslag moet ten minste de volgende gegevens bevatten: 
+
+a. Bijzonderheden over de geteste boordzuiveringsinstallatie, zoals het type, gegevens over de nominale dagelijkse massa afvalwater evenals de door de fabrikant gebruikte dimensioneringsbases;  
+
+b. Gegevens over de conformiteit van de geteste boordzuiveringsinstallatie met de vóór de keuring ter beschikking gestelde bescheiden;  
+
+c. Gegevens over de afzonderlijke meetresultaten evenals over de evaluatie van de reinigingsprestatie en de naleving van de vereiste afvoergrenswaarden;  
+
+d. Bijzonderheden over de verwijdering van het overtollig slib, zoals de frequentie en het volume van de verwijderingen;  
+
+e. Gegevens over alle tijdens de test uitgevoerde bedrijfs-, onderhouds- en reparatiewerkzaamheden;  
+
+f. Gegevens over alle tijdens de test opgetreden kwaliteitsverslechteringen van boordzuiveringsinstallatie en over de onderbrekingen van de test;  
+
+g. Gegevens over problemen die zich tijdens de test hebben voorgedaan;  
+
+h. Lijst van de verantwoordelijke personen, met vermelding van naam en functie, die aan de typekeuring van de boordzuiveringsinstallatie hebben deelgenomen;  
+
+i. Naam en adres van het laboratorium dat de watermonsters heeft geanalyseerd;  
+
+j. Gebruikte onderzoeksmethoden.      
+
+### Bijlage  S  
+
+####, aanhangsel 1
+
+####Voorbeelden van het verloop van een test
+
+![]()
+Voorbeeld 1  Tag = dag   ![]()
+Voorbeeld 2   
+
+### Bijlage  S  
+
+####, aanhangsel 2
+
+####Opmerkingen over de bepaling van de biochemische zuurstofbehoefte na 5 dagen (BZB <sub>5</sub>) in 24u-mengmonsters
+
+De Europese norm ISO 5815-1 en 5815-2 : 2003 schrijft voor, dat ter bepaling van de biochemische zuurstofbehoefte na 5 dagen de watermonsters onmiddellijk na de monsterneming in een tot de rand gevulde, goed gesloten fles bij een temperatuur van 0 tot 4°C tot de uitvoering van de analyse moet worden bewaard. De bepaling van de BZB <sub>5</sub> 5-waarde moet zo snel mogelijk of binnen 24 uur na beëindiging van de monsterneming worden gestart. Teneinde te voorkomen dat het biochemische afbraakproces in de 24u-mengmonsters begint, wordt in de praktijk tijdens de periode van monsterneming het watermonster tot uiterlijk 4°C afgekoeld en op deze temperatuur gehouden totdat de monsterneming is voltooid. De daartoe benodigde monsternemingapparatuur zijn op de markt beschikbaar.  
+

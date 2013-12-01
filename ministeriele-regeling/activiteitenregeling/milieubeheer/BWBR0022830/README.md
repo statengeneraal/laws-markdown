@@ -5,7 +5,7 @@
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Handelende in overeenstemming met de Minister van Verkeer en Waterstaat;
 
-Gelet op de [artikelen 1.7](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [2.9, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [2.10](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [2.16, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.5, derde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.8](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.12, achtste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.14, vierde en vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.16](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.18, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.19](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.20, derde lid, onderdeel b](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.24, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.28, vierde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.30](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.1, eerste en zevende lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.2, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.3, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.5, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.6](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.7, vierde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.11, derde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.12](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.15](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.16](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.17](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.19, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.20, eerste en tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.21, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.24, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.25](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.27, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.30, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.31](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.37](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.43](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.48](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.50, derde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.51](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.55, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.56](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.59](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.60, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.61](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.62, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.63](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.65, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.67](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.68, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.69](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.72, derde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.76, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.79](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.81, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.83](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.84, vierde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.87](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.88](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.93](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.95, tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.99, negende lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.100, negende lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.103](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.110](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.112](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.114](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.115 van het besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);
+Gelet op de artikelen 1.7, 2.9, tweede lid, 2.10, 2.16, eerste lid, 3.5, derde lid, 3.8, 3.12, achtste lid, 3.14, vierde en vijfde lid, 3.16, 3.18, tweede lid, 3.19, 3.20, derde lid, onderdeel b, 3.24, eerste lid, 3.28, vierde lid, 3.30, 4.1, eerste en zevende lid, 4.2, eerste lid, 4.3, eerste lid, 4.5, eerste lid, 4.6, 4.7, vierde lid, 4.11, derde lid, 4.12, 4.15, 4.16, 4.17, 4.19, eerste lid, 4.20, eerste en tweede lid, 4.21, tweede lid, 4.24, eerste lid, 4.25, 4.27, tweede lid, 4.30, eerste lid, 4.31, 4.37, 4.38, 4.43, 4.48, 4.50, derde lid, 4.51, 4.55, eerste lid, 4.56, 4.59, 4.60, tweede lid, 4.61, 4.62, tweede lid, 4.63, 4.65, tweede lid, 4.67, 4.68, tweede lid, 4.69, 4.72, derde lid, 4.76, eerste lid, 4.79, 4.81, tweede lid, 4.83, 4.84, vierde lid, 4.87, 4.88, 4.93, 4.95, tweede lid, 4.99, negende lid, 4.100, negende lid, 4.103, 4.110, 4.112, 4.114, 4.115 van het besluit algemene regels voor inrichtingen milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,15 +17,23 @@ Besluit:
 
 ### Artikel  1.1  
 
-In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichting voor het afleveren van aardgas aan voertuigen die aardgas als motorbrandstof gebruiken, bestaande uit een compressorinstallatie, een (eventuele) bufferopslag en één of meerdere aflevertoestellen. Dit met inbegrip van alle leidingen en toebehoren; accreditatie-instantie: nationale accreditatie-instantie als bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218); afdekking: voorziening aangebracht op of in een bovengronds mestbassin, aansluitend of in het geval van een drijvende afdekking nagenoeg aansluitend tegen de rand van het mestbassin en boven de drijfmest of digestaat of een voorziening die als vloer kan fungeren boven een ondergronds mestbassin, niet zijnde een mestkelder; afgewerkte olie: afgewerkte olie als bedoeld in [artikel 1, eerste lid, onderdeel b van het Besluit inzamelen afvalstoffen](../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md); afleverzuil: bovengronds gelegen gedeelte van de afleverinstallatie bestaande uit pompen, leidingen, meet- en regelwerken, schakelaars en afleverpistolen omgeven door een omkasting of daarmee direct in verbinding staand; A-hout: ongeverfd en onbehandeld hout; baanzool: bodem of vloer tussen de standplaats of standplaatsen van de schutter en de kogelvanger; besluit: [Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md); B-hout: hout dat geen A-hout of C-hout is; bovengronds: geheel boven de bodem gelegen; C-hout: geïmpregneerd hout; emissieterm L <sub>E</sub>: het jaargemiddelde geluidsvermogen dat door een windturbine wordt uitgestraald per octaafband i per beoordelingsperiode; ETBE: ethyl-tertiair-butylether; foliebassin: opslagvoorziening uitgevoerd als een met afdichtingsfolie beklede grondput; geomembraanbaksysteem: een ondergronds aangelegd kunststof foliesysteem dat waarborgt dat geen vloeistof aan de niet met vloeistof belaste zijde van dat systeem kan komen; gesloten proces: een proces of bewerking, als bedoeld in de NRB, waarbij de gebruikte stoffen bij normale bedrijfsvoering binnen de procesomhulling blijven en de desbetreffende installaties niet geopend hoeven te worden; grondwaterbeschermingsgebied: een gebied dat krachtens [artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bij de provinciale milieuverordening is aangewezen en waarvoor regels zijn gesteld ter bescherming van het grondwater met het oog op de waterwinning; immissiepunt: plaats waarop de geluidsbelasting wordt bepaald; kaliber: binnendiameter van een loop van een vuurwapen; kogelvanger: vanginrichting voor projectielen, opgesteld achter het doel waarop geschoten wordt; kwaliteitsverklaring mestbassin: attest, afgegeven door een door de Raad voor Accreditatie geaccrediteerde instelling op basis van BRL 2342 voor mestbassins en afdekking voor mestbassins; LQ: Limited Quantities, gelimiteerde hoeveelheden als bedoeld in het ADR; mestdicht: een zeer beperkte en acceptabele hoeveelheid mest als vloeistof doorlatend naar de bodem; mestzak: mestbassin, geheel of grotendeels bovengronds gelegen, voornamelijk opgebouwd uit kunststoffolie waarvan de bodemafdichting en afdekking een geheel vormen; MTBE: methyl-tertiair-butylether; noodstopvoorziening: een voorziening die bij activering de spanning op alle afleverzuilen wegneemt; ondergronds: geheel of gedeeltelijk in de bodem gelegen of ingeterpt; referentieperiode mestbassins: periode dat een mestbassin dan wel de afdekking voldoet aan de eisen van BRL 2342; schoudervuurwapen: vuurwapen in de vorm van een karabijn of geweer; UN-nummer: het stofidentificatienummer: getal van vier cijfers dat een gevaarlijke stof identificeert tijdens het transport, volgens de ‘Recommendations on the Transport of Dangerous Goods’ van de Verenigde Naties; vuistvuurwapen: vuurwapen in de vorm van een pistool of revolver; vulplaats: de plaats waar of de ruimte waarin de flessen worden gevuld en gecontroleerd; vulstation: een combinatie van vulplaats en gasopslag; WBDBO: Weerstand tegen branddoorslag en brandoverslag in minuten volgens NEN 6068.  
+In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichting voor het afleveren van aardgas aan voertuigen die aardgas als motorbrandstof gebruiken, bestaande uit een compressorinstallatie, een (eventuele) bufferopslag en één of meerdere aflevertoestellen. Dit met inbegrip van alle leidingen en toebehoren; accreditatie-instantie: nationale accreditatie-instantie als bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218); afdekking: voorziening aangebracht op of in een bovengronds mestbassin, aansluitend of in het geval van een drijvende afdekking nagenoeg aansluitend tegen de rand van het mestbassin en boven de drijfmest of digestaat of een voorziening die als vloer kan fungeren boven een ondergronds mestbassin, niet zijnde een mestkelder; afgewerkte olie: afgewerkte olie als bedoeld in artikel 1, eerste lid, onderdeel b van het Besluit inzamelen afvalstoffen; afleverzuil: bovengronds gelegen gedeelte van de afleverinstallatie bestaande uit pompen, leidingen, meet- en regelwerken, schakelaars en afleverpistolen omgeven door een omkasting of daarmee direct in verbinding staand; A-hout: ongeverfd en onbehandeld hout; baanzool: bodem of vloer tussen de standplaats of standplaatsen van de schutter en de kogelvanger; besluit: Activiteitenbesluit milieubeheer; B-hout: hout dat geen A-hout of C-hout is; bovengronds: geheel boven de bodem gelegen; C-hout: geïmpregneerd hout; emissieterm L <sub>E</sub>: het jaargemiddelde geluidsvermogen dat door een windturbine wordt uitgestraald per octaafband i per beoordelingsperiode; ETBE: ethyl-tertiair-butylether; foliebassin: opslagvoorziening uitgevoerd als een met afdichtingsfolie beklede grondput; geomembraanbaksysteem: een ondergronds aangelegd kunststof foliesysteem dat waarborgt dat geen vloeistof aan de niet met vloeistof belaste zijde van dat systeem kan komen; gesloten proces: een proces of bewerking, als bedoeld in de NRB, waarbij de gebruikte stoffen bij normale bedrijfsvoering binnen de procesomhulling blijven en de desbetreffende installaties niet geopend hoeven te worden; grondwaterbeschermingsgebied: een gebied dat krachtens artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer bij de provinciale milieuverordening is aangewezen en waarvoor regels zijn gesteld ter bescherming van het grondwater met het oog op de waterwinning; immissiepunt: plaats waarop de geluidsbelasting wordt bepaald; kaliber: binnendiameter van een loop van een vuurwapen; kogelvanger: vanginrichting voor projectielen, opgesteld achter het doel waarop geschoten wordt; kwaliteitsverklaring mestbassin: attest, afgegeven door een door de Raad voor Accreditatie geaccrediteerde instelling op basis van BRL 2342 voor mestbassins en afdekking voor mestbassins; LQ: Limited Quantities, gelimiteerde hoeveelheden als bedoeld in het ADR; mestdicht: een zeer beperkte en acceptabele hoeveelheid mest als vloeistof doorlatend naar de bodem; mestzak: mestbassin, geheel of grotendeels bovengronds gelegen, voornamelijk opgebouwd uit kunststoffolie waarvan de bodemafdichting en afdekking een geheel vormen; MTBE: methyl-tertiair-butylether; noodstopvoorziening: een voorziening die bij activering de spanning op alle afleverzuilen wegneemt; ondergronds: geheel of gedeeltelijk in de bodem gelegen of ingeterpt; referentieperiode mestbassins: periode dat een mestbassin dan wel de afdekking voldoet aan de eisen van BRL 2342; schoudervuurwapen: vuurwapen in de vorm van een karabijn of geweer; tijdelijke opslag van gevaarlijke stoffen: opslag van gevaarlijke stoffen in verpakking of CMR-stoffen in verpakking die zijn geadresseerd aan derden en, voorafgaand aan of aansluitend op transport, buiten een opslagvoorziening voor gevaarlijke stoffen in verpakking of CMR-stoffen in verpakking verblijven; UN-nummer: het stofidentificatienummer: getal van vier cijfers dat een gevaarlijke stof identificeert tijdens het transport, volgens de ‘Recommendations on the Transport of Dangerous Goods’ van de Verenigde Naties; vuistvuurwapen: vuurwapen in de vorm van een pistool of revolver; vulplaats: de plaats waar of de ruimte waarin de flessen worden gevuld en gecontroleerd; vulstation: een combinatie van vulplaats en gasopslag; WBDBO: Weerstand tegen branddoorslag en brandoverslag in minuten volgens NEN 6068.  
 
 ### Artikel  1.2  
 
 1.  In deze regeling wordt verstaan onder: 
 
+*BRL 2005:* BRL 2005, Nationale beoordelingsrichtlijn voor het KOMO productcertificaat voor PE-buizen voor binnenriolering, 2012;  
+
+*BRL 2006:* BRL 2006, Nationale beoordelingsrichtlijn voor het KOMO productcertificaat voor PE-hulpstukken voor binnenriolering, 2012;  
+
+*BRL 2013:* BRL 2013, Nationale beoordelingsrichtlijn voor het KOMO productcertificaat voor gevulkaniseerde rubberproducten voor koud en heet niet-drinkwater toepassingen. Techniekgebied F2: leidingsystemen voor niet industriële toepassingen, 2012;  
+
 *BRL 2307:* BRL 2307: Nationale beoordelingsrichtlijn voor het KOMO attest met productiecertificaat voor AVI-bodemas voor ongebonden toepassing op of in de bodem in grond- en wegenbouwkunde, 2003;  
 
 *BRL 2342:* Nationale Beoordelingsrichtlijn voor mestbassins en afdekkingen voor mestbassins, Kiwa N.V. Certificatie en Keuringen, versie van 15 november 2010;  
+
+*BRL 5211:* BRL 5211, Nationale beoordelingsrichtlijn voor het KOMO productcertificaat voor elementen voor lijnafwateringen, 2008;  
 
 *BRL K537:* BRL K537/04, Beoordelingsrichtlijn voor het verwerken van kunststoffolie, Kiwa N.V. Certificatie en Keuringen, versie van 14 juni 2002;  
 
@@ -86,6 +94,8 @@ In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichtin
 *NEN 6966:* NEN 6966:2005: Nederlandse norm voor Milieu – Analyse van geselecteerde elementen in water, eluaten en destruaten – Atomaire emissiespectrometrie met inductief gekoppeld plasma, december 2005 en C1:2006, juni 2006;  
 
 *NEN 7557:* NEN 7557: 2009: Nederlandse norm voor Autodemontagetechnieken – Neutralisatie airbags en gordelspanners uit autowrakken, april 2009;  
+
+*NEN-EN 206-1:* Europese norm voor Beton – Deel 1: Specificatie, eigenschappen, vervaardiging en conformiteit, mei 2001;  
 
 *NEN-EN 858-1:* NEN-EN 858-1:2002: Europese norm voor Afscheiders en slibvangputten voor lichte vloeistoffen (bijv. olie en benzine) – Deel 1: Ontwerp, eisen en beproeving, merken en kwaliteitscontrole, juni 2002;  
 
@@ -177,6 +187,8 @@ In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichtin
 
 *NEN-EN-ISO 15682:* NEN-EN-ISO 15682:2001: Europese norm voor Water – Bepaling van het gehalte aan chloride met doorstroomanalyse (CFA en FIA) en fotometrische of potentiometrische detectie, september 2001;  
 
+*NEN-EN-ISO 16852:* Europese norm voor Vlamdovers – Prestatie-eisen, beproevingsmethoden en begrenzingen bij gebruik, mei 2010;  
+
 *NEN-EN-ISO 17294-2:* NEN-EN-ISO 17294-2:2004: Europese norm voor Water – Toepassing van massaspectrometrie met inductief gekoppelde plasma (ICP-MS) – Deel 2: Bepaling van 62 elementen, november 2004;  
 
 *NEN-EN-ISO 17993:* NEN-EN-ISO 17993:2004: Europese norm voor Water – Bepaling van 15 polycyclische aromatische koolwaterstoffen (PAK) in water met HPLC met fluorescentiedetectie na vloeistof-vloeistof extractie, juni 2004;  
@@ -205,6 +217,8 @@ In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichtin
 
 *NPR 2578:* NPR 2578:2007: Nederlandse praktijkrichtlijn voor Beheer en onderhoud van LPG-, propaan- en butaaninstallaties, augustus 2007;  
 
+*NPR 7910-1:* Europese norm voor Gevarenzone-indeling met betrekking tot explosiegevaar – Deel 1: Gasexplosiegevaar, gebaseerd op NEN-EN-IEC 60079-10-1:2009, versie 2010+C1:2012, maart 2012;  
+
 *NTA 7379:* NTA 7379, 2012: Richtlijnen ‘Predictive emission monitoring systems’ (PEMS) – Realisatie en kwaliteitsborging, januari 2012;  
 
 *NVN 11400-0:* NVN 11400-0:1999/A1 2005: Nederlandse voornorm voor Windturbines – Deel 0: Voorschriften voor typecertificatie – Technische eisen, februari 2005;  
@@ -217,29 +231,37 @@ In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichtin
 
 *PGS 13:* Richtlijn PGS 13, getiteld ‘Ammoniak als koudemiddel in koelinstallaties en warmtepompen’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 13: 2009 versie 1.0 (2-2009);  
 
-*PGS 15:* Richtlijn PGS 15, getiteld ‘Opslag van verpakte gevaarlijke stoffen’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 15: 2005 (6-2005) en de errata van 28 juni 2005, 4 oktober 2007, 7 januari 2008, 3 april 2008, 15 mei 2008, 25 juni 2008, 15 september 2008, 21 november 2008, 11 december 2008 en 12 december 2008;  
+*PGS 15:* Richtlijn PGS 15, getiteld ‘Opslag van verpakte gevaarlijke stoffen’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 15:2011 versie 1.1 (december 2012);  
 
 *PGS 19:* Richtlijn PGS 19, getiteld ‘Opslag van propaan’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 19: 2008 versie 0.1 (2-2009);  
 
 *PGS 23:* Richtlijn PGS 23, getiteld ‘Propaan,Vulstations van butaan- en propaanflessen’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 23: 1994 versie 0.1 (2-2009);  
 
-*PGS 25:* Richtlijn PGS 25, getiteld ‘Gecomprimeerd aardgas, Afleverstations voor motorvoertuigen’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 25: 1998 (6-2005);  
+*PGS 25:* Richtlijn PGS 25, getiteld ‘Aardgas – afleverinstallaties voor motorvoertuigen’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 25:2009 versie 1.2 (december 2012);  
 
-*PGS 28:* Richtlijn PGS 28, getiteld ‘Vloeibare aardolieproducten, Afleverinstallaties en ondergrondse opslag’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 28: 2000 (3-2005);  
+*PGS 28:* Richtlijn PGS 28, getiteld ‘Vloeibare brandstoffen – ondergrondse tankinstallaties en afleverinstallaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 28: 2011 versie 1.0 (december 2011);  
 
-*PGS 30:* Richtlijn PGS 30, getiteld ‘Vloeibare aardolieproducten, Buitenopslag in kleine installaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 1999 versie 0.1 (2-2009);  
+*PGS 30:* Richtlijn PGS 30, getiteld ‘Vloeibare brandstoffen – bovengrondse tankinstallaties en afleverinstallaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 2011 versie 1.0 (december 2011);  
+
+*PGS-klasse 1:* Vloeistoffen met een vlampunt lager dan 23 graden Celsius en een beginkookpunt hoger dan 35 graden Celsius;  
+
+*PGS-klasse 2:* Vloeistoffen met een vlampunt hoger dan 23 graden Celsius en ten hoogste 55 graden Celsius;  
+
+*PGS-klasse 3:* Vloeistoffen met een vlampunt hoger dan 55 graden Celsius en ten hoogste 100 graden Celsius;  
+
+*PGS-klasse 4:* Vloeistoffen met een vlampunt hoger dan 100 graden Celsius;  
 
 *Praktijkrichtlijn Lasrook:* beschrijving doeltreffende maatregelen bij blootstelling aan rook en/of gassen en/of verwante processen: opgesteld door de sociale partners in de metaal: CNV Bedrijvenbond, FNV Bondgenoten, Vereniging FME-CWM, Koninklijke Metaalunie, De Unie en VHP Metalektro, augustus 2006.     
-2.  Bij de toepassing van het [besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt ten aanzien van de in het besluit opgenomen niet-publiekrechtelijke regelingen, voorschriften uit de NeR en de NRB de tekst in acht genomen als genoemd in het eerste lid.   
+2.  Bij de toepassing van het besluit wordt ten aanzien van de in het besluit opgenomen niet-publiekrechtelijke regelingen, voorschriften uit de NeR en de NRB de tekst in acht genomen als genoemd in het eerste lid.   
 
 ### Artikel  1.3  
 
-1.  Als oppervlaktewaterlichamen die met het oog op het lozen geen bijzondere bescherming behoeven als bedoeld in [artikel 1.7, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden aangewezen de in bijlage 2 opgenomen oppervlaktewaterlichamen.   
+1.  Als oppervlaktewaterlichamen die met het oog op het lozen geen bijzondere bescherming behoeven als bedoeld in artikel 1.7, eerste lid, onderdeel b, van het besluit, worden aangewezen de in bijlage 2 opgenomen oppervlaktewaterlichamen.   
 2.  De in het eerste lid bedoelde aanwijzing beperkt zich tot het gedeelte van een oppervlaktewaterlichaam dat valt onder het beheer van de beheerder die bij het betreffende oppervlaktewaterlichaam in de bijlage vermeld staat.   
 
 ### Artikel  1.3a  
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in de artikelen 3.10, tweede lid, 3.14, tweede lid, en 4.8, vierde lid.  
+Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in de artikelen 3.10, tweede lid, 3.14, tweede lid, en 4.8, vierde lid.  
 
 ### Afdeling  1.2  
 
@@ -247,7 +269,7 @@ Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet
 
 ### Artikel  1.4  
 
-Als soorten biologische agentia als bedoeld in [artikel 1.14a, eerste lid, onder b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden aangewezen de soorten die in bijlage 3 zijn opgenomen.  
+Als soorten biologische agentia als bedoeld in artikel 1.14a, eerste lid, onder b, van het besluit, worden aangewezen de soorten die in bijlage 3 zijn opgenomen.  
 
 ### Hoofdstuk  2  
 
@@ -263,9 +285,9 @@ Als soorten biologische agentia als bedoeld in [artikel 1.14a, eerste lid, onder
 
 ### Artikel  2.1  
 
-1.  Een binnen de inrichting als bodembeschermende voorziening toegepaste vloeistofdichte vloer of verharding of geomembraanbaksysteem is overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument beoordeeld en goedgekeurd door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+1.  Een binnen de inrichting als bodembeschermende voorziening toegepaste vloeistofdichte vloer of verharding of geomembraanbaksysteem is overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument beoordeeld en goedgekeurd door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 2.  Het eerste lid is niet van toepassing op een vloeistofdichte vloer of verharding die niet inspecteerbaar is als bedoeld in CUR/PBV-aanbeveling 44. Een dergelijke voorziening wordt eens per zes jaar beoordeeld en goedgekeurd overeenkomstig een door het bevoegd gezag goedgekeurde wijze. Het vijfde lid is daarop van overeenkomstige toepassing.   
-3.  De eerste beoordeling en goedkeuring vindt in afwijking van het eerste lid, plaats binnen zes jaar na aanleg, indien de vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf dat daartoe beschikt over een erkenning op grond van dat besluit.   
+3.  De eerste beoordeling en goedkeuring vindt in afwijking van het eerste lid, plaats binnen zes jaar na aanleg, indien de vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf dat daartoe beschikt over een erkenning op grond van dat besluit.   
 4.  Een vloeistofdichte vloer of verharding of een geomembraanbaksysteem wordt ten minste eens per zes jaar beoordeeld en goedgekeurd overeenkomstig het eerste lid.   
 5.  Degene die de inrichting drijft draagt zorg voor: 
 
@@ -277,20 +299,20 @@ b. een jaarlijkse controle van de bodembeschermende voorziening overeenkomstig b
 ### Artikel  2.2  
 
 1.  Indien een geomembraanbaksysteem als bodembeschermende voorziening is toegepast, waarop op grond van artikel 6.2 het eerste lid van artikel 2.1 niet van toepassing is, worden twee grondwaterpeilbuizen geïnstalleerd overeenkomstig paragraaf 1.3 van bijlage 3 van deel 3 bij de NRB zodat bodemverontreiniging door vloeibare brandstoffen kan worden gesignaleerd.   
-2.  Indien stoffen als bedoeld in [artikel 3.29 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is opgeslagen in een ondergrondse opslagtank wordt per opslagtank ten minste één grondwaterpeilbuis geïnstalleerd overeenkomstig paragraaf 1.3 van bijlage 3 van deel 3 bij de NRB. Indien er meerdere opslagtanks zijn dan wordt per groep van drie opslagtanks, die binnen tien meter van elkaar zijn gelegen, ten minste één grondwaterpeilbuis geïnstalleerd.   
+2.  Indien stoffen als bedoeld in artikel 3.29 van het besluit is opgeslagen in een ondergrondse opslagtank wordt per opslagtank ten minste één grondwaterpeilbuis geïnstalleerd overeenkomstig paragraaf 1.3 van bijlage 3 van deel 3 bij de NRB. Indien er meerdere opslagtanks zijn dan wordt per groep van drie opslagtanks, die binnen tien meter van elkaar zijn gelegen, ten minste één grondwaterpeilbuis geïnstalleerd.   
 3.  Het tweede lid is niet van toepassing op een ondergrondse opslagtank, die: 
 
 a. dubbelwandig is uitgevoerd met een systeem voor lekdetectie in de wand, of  
 
-b. in een afgedekte betonnen bak is geplaatst met een systeem voor lekdetectie in deze bak die zich onder de opslagtank bevindt.   Het systeem voor lekdetectie voldoet aan BRL K910 en wordt ten minste eenmaal per jaar beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-4.  De grondwaterpeilbuizen als bedoeld in het eerste en tweede lid, worden zo vaak als de omstandigheden daartoe aanleiding geven, doch ten minste eens per jaar bemonsterd overeenkomstig NEN 5744. Bij bemonstering van grondwaterpeilbuizen bij een ondergrondse opslagtank met vloeibare brandstof of afgewerkte olie worden de monsters onderzocht op aanwezigheid van minerale oliecomponenten overeenkomstig NEN-EN-ISO 9377-2, vluchtige aromaten (BETX) volgens NEN-EN-ISO 15680 en, voor zover er sprake is van de opslag van lichte olie, tevens op MTBE en ETBE door een laboratorium, dat daartoe beschikt over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md). Bij bemonstering van grondwaterpeilbuizen bij een ondergrondse opslagtank met pekel worden de monsters op aanwezigheid van chloride onderzocht overeenkomstig NEN-EN-ISO 15682 door een laboratorium, dat daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit.   
-5.  De installatie van een grondwaterpeilbuis als bedoeld in het eerste en tweede lid, en de bemonstering als bedoeld in het vierde lid, vinden plaats door een bedrijf, dat daartoe beschikt over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-6.  Degene die de inrichting drijft, zendt de gegevens van de bemonstering en analyse van de grondwaterpeilbuizen ten aanzien van de stoffen MTBE en ETBE, bedoeld in het vierde lid, terstond door aan het bestuursorgaan, bedoeld in [artikel 27, eerste lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), indien: 
+b. in een afgedekte betonnen bak is geplaatst met een systeem voor lekdetectie in deze bak die zich onder de opslagtank bevindt.   Het systeem voor lekdetectie voldoet aan BRL K910 en wordt ten minste eenmaal per jaar beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+4.  De grondwaterpeilbuizen als bedoeld in het eerste en tweede lid, worden zo vaak als de omstandigheden daartoe aanleiding geven, doch ten minste eens per jaar bemonsterd overeenkomstig NEN 5744. Bij bemonstering van grondwaterpeilbuizen bij een ondergrondse opslagtank met vloeibare brandstof of afgewerkte olie worden de monsters onderzocht op aanwezigheid van minerale oliecomponenten overeenkomstig NEN-EN-ISO 9377-2, vluchtige aromaten (BETX) volgens NEN-EN-ISO 15680 en, voor zover er sprake is van de opslag van lichte olie, tevens op MTBE en ETBE door een laboratorium, dat daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit. Bij bemonstering van grondwaterpeilbuizen bij een ondergrondse opslagtank met pekel worden de monsters op aanwezigheid van chloride onderzocht overeenkomstig NEN-EN-ISO 15682 door een laboratorium, dat daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit.   
+5.  De installatie van een grondwaterpeilbuis als bedoeld in het eerste en tweede lid, en de bemonstering als bedoeld in het vierde lid, vinden plaats door een bedrijf, dat daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit.   
+6.  Degene die de inrichting drijft, zendt de gegevens van de bemonstering en analyse van de grondwaterpeilbuizen ten aanzien van de stoffen MTBE en ETBE, bedoeld in het vierde lid, terstond door aan het bestuursorgaan, bedoeld in artikel 27, eerste lid, van de Wet bodembescherming, indien: 
 
 a. de geanalyseerde waarde van de MTBE- of ETBE-verontreiniging hoger is dan 1 microgram per liter, voor zover de inrichting is gelegen in een grondwaterbeschermingsgebied;  
 
 b. de geanalyseerde waarde van de MTBE- of ETBE-verontreiniging hoger is dan 15 microgram per liter, voor zover de inrichting is gelegen buiten een grondwaterbeschermingsgebied.     
-7.  Het eerste tot en met het zesde lid, zijn niet van toepassing ten aanzien van inrichtingen waar de gemiddeld laagste grondwaterstand zich meer dan vijf meter beneden het maaiveld bevindt. Indien deze inrichting echter is gelegen in een grondwaterbeschermingsgebied is er een systeem voor lekdetectie aanwezig dat voldoet aan BRL K910 en dat ten minste eenmaal per jaar wordt beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+7.  Het eerste tot en met het zesde lid, zijn niet van toepassing ten aanzien van inrichtingen waar de gemiddeld laagste grondwaterstand zich meer dan vijf meter beneden het maaiveld bevindt. Indien deze inrichting echter is gelegen in een grondwaterbeschermingsgebied is er een systeem voor lekdetectie aanwezig dat voldoet aan BRL K910 en dat ten minste eenmaal per jaar wordt beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 
 ### Artikel  2.3  
 
@@ -330,7 +352,7 @@ b. er geen hemelwater op of in terecht kan komen, tenzij het hemelwater regelmat
 
 ### Artikel  2.5  
 
-De bij deze regeling gestelde regels, die tot doel hebben te voldoen aan een verwaarloosbaar bodemrisico, zijn niet van toepassing op een bodembedreigende activiteit waarvoor het bevoegd gezag op grond van [artikel 6.10, eerste lid van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) met een maatwerkvoorschrift heeft bepaald dat een aanvaardbaar bodemrisico kan worden gerealiseerd.  
+De bij deze regeling gestelde regels, die tot doel hebben te voldoen aan een verwaarloosbaar bodemrisico, zijn niet van toepassing op een bodembedreigende activiteit waarvoor het bevoegd gezag op grond van artikel 6.10, eerste lid van het besluit met een maatwerkvoorschrift heeft bepaald dat een aanvaardbaar bodemrisico kan worden gerealiseerd.  
 
 ### §  2.1.4  
 
@@ -346,14 +368,17 @@ b. het aanleggen of installeren van bodembeschermende voorzieningen, ondergronds
 
 c. het uitvoeren van bodem- en grondwateronderzoek, worden de resultaten van dat onderzoek binnen de inrichting bewaard en ter inzage gehouden voor het bevoegd gezag of op een door het bevoegd gezag te stellen termijn beschikbaar gesteld;  
 
-d. het stellen van financiële zekerheid, wordt het schriftelijk bewijsstuk als bedoeld in [artikel 2.25](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [2.26 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) binnen de inrichting bewaard en ter inzage gehouden voor het bevoegd gezag of op een door het bevoegd gezag te stellen termijn beschikbaar gesteld.     
+d. het stellen van financiële zekerheid, wordt het schriftelijk bewijsstuk als bedoeld in artikel 2.25 en 2.26 van het besluit binnen de inrichting bewaard en ter inzage gehouden voor het bevoegd gezag of op een door het bevoegd gezag te stellen termijn beschikbaar gesteld.     
 2.  Voor de toepassing van het eerste lid wordt onder beschikbaar zijn en ter inzage houden mede verstaan: digitaal beschikbaar zijn en via elektronische weg ter inzage houden.   
 
 ### Afdeling  2.2  
 
 ####Verkeer en vervoer
 
-### Artikel  2.7  
+Treedt in werking op een nader te bepalen tijdstip   
+
+### Artikel  2.7   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Degene die een inrichting drijft waar meer dan 50 werknemers werkzaam zijn, treft ten aanzien van het vervoer van de eigen werknemers van en naar de inrichting de volgende maatregelen: 
 
@@ -362,12 +387,13 @@ a. in de interne en externe communicatie wordt de bereikbaarheid per openbaar ve
 b. de in bijlage 1 opgenomen maatregelen tot het aantal punten dat op grond van tabel 2.8 voor de inrichting van toepassing.     
 2.  Het eerste lid, onderdeel b, is niet van toepassing indien degene die de inrichting drijft kan aantonen dat ten aanzien van het vervoer van de eigen werknemers van en naar de inrichting 9 van de 10 werknemers niet met de auto naar de inrichting komen.   
 
-### Artikel  2.8  
+### Artikel  2.8   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Voor de toepassing van tabel 2.8 worden de volgende gemeenten als een normaal regime aangemerkt: Alkmaar, Almelo, Almere, Alphen aan den Rijn, Amersfoort, Amstelveen, Amsterdam, Apeldoorn, Arnhem, Assen, Bergen op Zoom, Breda, Capelle aan den IJssel, Delft, Deventer, Diemen, Doetinchem, Dordrecht, Ede, Eindhoven, Emmen, Enschede, Goes, Gorinchem, Gouda, ‘s-Gravenhage, Groningen, Haarlem, Haarlemmermeer, Heemstede, Heerhugowaard, Heerlen, Helmond, Hengelo, ’s-Hertogenbosch, Hilversum, Hoorn, Houten, Leeuwarden, Leiden, Leiderdorp, Leidschendam-Voorburg, Maastricht, Nieuwegein, Nijmegen, Oegstgeest, Oss, Papendrecht, Roermond, Roosendaal, Rotterdam, Rijswijk, Schiedam, Sittard-Geleen, Sliedrecht, Tilburg, Utrecht, Veenendaal, Veghel, Velsen, Venlo, Vlaardingen, Waddinxveen, Westland, Woerden, Zaanstad, Zeist, Zoetermeer, Zoeterwoude, Zwijndrecht en Zwolle. 
 ### *Tabel 2.8* 
 
-![242821](http://wetten.overheid.nl/Illustration/242821)
+![]()
 
 ### Afdeling  2.3  
 
@@ -375,7 +401,7 @@ Voor de toepassing van tabel 2.8 worden de volgende gemeenten als een normaal re
 
 ### Artikel  2.9  
 
-1.  De categorieën van afvalstoffen, bedoeld in [artikel 2.12, vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), waarin de afvalstoffen in ieder geval vergelijkbaar zijn wat betreft aard, samenstelling en concentratie, zijn de categorieën genoemd in de [bijlage bij de Regeling scheiden en gescheiden houden van gevaarlijke afvalstoffen](../../../../ministeriele-regeling/regeling/scheiden/en/gescheiden/houden/van/gevaarlijke/afvalstoffen/BWBR0009515/README.md), en: 
+1.  De categorieën van afvalstoffen, bedoeld in artikel 2.12, vierde lid, van het besluit, waarin de afvalstoffen in ieder geval vergelijkbaar zijn wat betreft aard, samenstelling en concentratie, zijn de categorieën genoemd in de bijlage bij de Regeling scheiden en gescheiden houden van gevaarlijke afvalstoffen, en: 
 
 a. autowrakken die vloeistoffen of gevaarlijke stoffen bevatten;  
 
@@ -385,7 +411,7 @@ c. LPG-tanks;
 
 d. lege, ongereinigde verpakkingen van gevaarlijke stoffen;  
 
-e. IBC-bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+e. IBC-bouwstoffen als bedoeld in artikel 1 van het Besluit bodemkwaliteit;  
 
 f. oliedrukkabels;  
 
@@ -413,7 +439,7 @@ q. papier- en kunststofgeïsoleerde kabels en restanten, uitgezonderd oliedrukka
 
 r. asfalt, anders dan teerhoudend asfalt;  
 
-s. bouwstoffen, als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) die binnen dat besluit toepasbaar zijn, uitgezonderd IBC-bouwstoffen, cellenbeton, dakafval en asfalt;  
+s. bouwstoffen, als bedoeld in artikel 1 van het Besluit bodemkwaliteit die binnen dat besluit toepasbaar zijn, uitgezonderd IBC-bouwstoffen, cellenbeton, dakafval en asfalt;  
 
 t. textiel;  
 
@@ -436,37 +462,37 @@ d. dakgrind verkleefd met teer of bitumen.
 
 ### Artikel  2.10  
 
-De monitoring van emissies, het opstellen van een reductieprogramma, het opstellen van een oplosmiddelenboekhouding en de emissiemetingen ter controle op de naleving van de emissiegrenswaarden, bedoeld in [artikel 2.32 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoen aan de eisen gesteld in de artikelen 2.11 tot en met 2.15.  
+De monitoring van emissies, het opstellen van een reductieprogramma, het opstellen van een oplosmiddelenboekhouding en de emissiemetingen ter controle op de naleving van de emissiegrenswaarden, bedoeld in artikel 2.32 van het besluit, voldoen aan de eisen gesteld in de artikelen 2.11 tot en met 2.15.  
 
 ### Artikel  2.11  
 
-1.  Degene die een oplosmiddeleninstallatie drijft, meet continu of een afgaskanaal, waarop nabehandelingsapparatuur is aangesloten en die aan de uitlaatzijde gemiddeld in totaal meer dan 10 kilogram totaal organische koolstof per uur uitwerpt, voldoet aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in [artikel 2.29 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).   
+1.  Degene die een oplosmiddeleninstallatie drijft, meet continu of een afgaskanaal, waarop nabehandelingsapparatuur is aangesloten en die aan de uitlaatzijde gemiddeld in totaal meer dan 10 kilogram totaal organische koolstof per uur uitwerpt, voldoet aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in artikel 2.29 van het besluit.   
 2.  In een oplosmiddeleninstallatie die gemiddeld in totaal minder dan 10 kilogram totaal organische koolstof per uur uitwerpt, voert degene die de oplosmiddeleninstallatie drijft, om de drie jaar metingen uit van totaal organische koolstof, waarbij gedurende elke meting ten minste drie meetresultaten worden geregistreerd.   
-3.  Metingen ter controle op de naleving van de emissiegrenswaarden zijn niet vereist indien nabehandelingsapparatuur niet noodzakelijk is om te voldoen aan het [besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).   
+3.  Metingen ter controle op de naleving van de emissiegrenswaarden zijn niet vereist indien nabehandelingsapparatuur niet noodzakelijk is om te voldoen aan het besluit.   
 
 ### Artikel  2.12  
 
-1.  Bij continue metingen is aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in [artikel 2.29, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldaan indien onder normale bedrijfsomstandigheden: 
+1.  Bij continue metingen is aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in artikel 2.29, eerste lid, van het besluit, voldaan indien onder normale bedrijfsomstandigheden: 
 
 a. het 24-uursgemiddelde voor een bepaalde stof de daarvoor geldende emissiegrenswaarde niet overschrijdt, waarbij het 24-uursgemiddelde wordt berekend van alle geldige metingen gedurende een periode van 24 uur waarin een oplosmiddeleninstallatie onder normale omstandigheden in bedrijf is, met uitzondering van het opstarten en stilleggen van de installatie en het onderhoud van de apparatuur, en  
 
 b. geen van de uurgemiddelden hoger is dan 1,5 maal de emissiegrenswaarden.     
-2.  Bij periodieke metingen is aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in [artikel 2.29, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldaan indien bij die meting: 
+2.  Bij periodieke metingen is aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in artikel 2.29, eerste lid, van het besluit, voldaan indien bij die meting: 
 
 a. het gemiddelde van alle meetresultaten onder normale omstandigheden de emissiegrenswaarden niet overschrijdt, en  
 
 b. geen van de uurgemiddelden onder normale omstandigheden hoger is dan 1,5 maal de emissiegrenswaarden.     
-3.  Of aan de emissiegrenswaarden, bedoeld in [artikel 2.30, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt voldaan, wordt vastgesteld op basis van de som van de massaconcentraties van de verschillende betrokken vluchtige organische stoffen. Of aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in [artikel 2.29, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt voldaan, wordt vastgesteld op basis van de totale massa organische koolstof die wordt uitgestoten, tenzij in tabel 2.28a van het besluit anders is bepaald.   
+3.  Of aan de emissiegrenswaarden, bedoeld in artikel 2.30, tweede lid, van het besluit wordt voldaan, wordt vastgesteld op basis van de som van de massaconcentraties van de verschillende betrokken vluchtige organische stoffen. Of aan de emissiegrenswaarden, niet zijnde de diffuse-emissiegrenswaarden, en de totale emissiegrenswaarden, bedoeld in artikel 2.29, eerste lid, van het besluit wordt voldaan, wordt vastgesteld op basis van de totale massa organische koolstof die wordt uitgestoten, tenzij in tabel 2.28a van het besluit anders is bepaald.   
 4.  Gasvolumes mogen worden toegevoegd om de afgassen af te koelen of te verdunnen indien dit technisch gerechtvaardigd is. De toegevoegde gasvolumes worden niet betrokken bij het vaststellen van de massaconcentratie van de verontreinigende stof in het afgas.   
 
 ### Artikel  2.13  
 
-1.  Bij de opzet van een reductieprogramma als bedoeld in [artikel 2.29, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden in ieder geval de volgende factoren betrokken: 
+1.  Bij de opzet van een reductieprogramma als bedoeld in artikel 2.29, tweede lid, van het besluit, worden in ieder geval de volgende factoren betrokken: 
 
 a. indien vervangingsproducten met weinig of geen oplosmiddelen nog in ontwikkeling zijn, heeft degene die een oplosmiddeleninstallatie drijft, extra tijd voor de uitvoer van het reductieprogramma;  
 
 b. het referentiepunt voor de emissiebeperking komt zo goed mogelijk overeen met de emissie die het resultaat zou zijn als er geen beperkende maatregelen zouden worden genomen.     
-2.  Aan een gelijkwaardige emissiebeperking als bedoeld in [artikel 2.29, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij een oplosmiddeleninstallatie waar voor het product een constant gehalte aan vaste stof kan worden aangenomen, in ieder geval voldaan indien de feitelijke emissie van oplosmiddelen, bepaald aan de hand van de oplosmiddelenboekhouding, kleiner is dan of gelijk is aan de beoogde emissie, die als volgt wordt berekend: 
+2.  Aan een gelijkwaardige emissiebeperking als bedoeld in artikel 2.29, tweede lid, van het besluit wordt bij een oplosmiddeleninstallatie waar voor het product een constant gehalte aan vaste stof kan worden aangenomen, in ieder geval voldaan indien de feitelijke emissie van oplosmiddelen, bepaald aan de hand van de oplosmiddelenboekhouding, kleiner is dan of gelijk is aan de beoogde emissie, die als volgt wordt berekend: 
 
 a. bereken de jaarlijkse referentie-emissie als volgt: 
 
@@ -478,7 +504,7 @@ b. vermenigvuldig de jaarlijkse referentie-emissie met het in tabel 2.13 vermeld
 3.  De vermenigvuldigingsfactor, bedoeld in het tweede lid, mag voor een individuele oplosmiddeleninstallatie worden aangepast om rekening te houden met een aangetoonde stijging van het rendement bij het gebruik van vaste stoffen.  Tabel 2.13 
 
 | Nummer activiteit tabel 2.28a Besluit  | Activiteit  | Drempelwaarde (voor oplosmiddelenverbruik in ton/jaar)  | Vermenigvuldigingsfactor jaarlijkse referentie-emissie  | Reductiepercentage beoogde emissie  | Bijzondere bepalingen  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | --- | --- | --- | --- | --- | In deze tabel wordt onder bestaande oplosmiddeleninstallatie verstaan: oplosmiddeleninstallatie die op 1 april 2002 in werking was.  |
 | 2  | Illustratiediepdruk  | >25  | 4  | 15% (<sup>1</sup>)  | (<sup>1</sup>) Reductiepercentage beoogde emissie bestaande oplosmiddeleninstallaties: 20%  |
 | 3  | Andere rotatiediepdruk, flexografie, rotatiezeefdruk, lamineer- of lakeenheden, rotatiezeefdruk op textiel/karton  | >15  | 4  | 30%  | --- |
@@ -506,9 +532,9 @@ Degene die een oplosmiddeleninstallatie drijft, voert een oplosmiddelenboekhoudi
 
 a. wordt aangetoond dat is voldaan aan: 
 
-1°. de emissiegrenswaarden, diffuse-emissiegrenswaarden of de totale emissiegrenswaarden, bedoeld in de [artikelen 2.29, eerste, vierde en vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [2.30, tweede en derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en  
+1°. de emissiegrenswaarden, diffuse-emissiegrenswaarden of de totale emissiegrenswaarden, bedoeld in de artikelen 2.29, eerste, vierde en vijfde lid, en 2.30, tweede en derde lid, van het besluit, en  
 
-2°. indien van toepassing, de eisen van het reductieprogramma, bedoeld in [artikel 2.29, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);    
+2°. indien van toepassing, de eisen van het reductieprogramma, bedoeld in artikel 2.29, tweede lid, van het besluit;    
 
 b. de mogelijkheden voor emissiebeperking in de toekomst worden gespecificeerd, en  
 
@@ -521,10 +547,10 @@ c. informatie aan eenieder kan worden verstrekt over het verbruik en de emissie 
 a. omvat een periode van twaalf maanden en wordt binnen dertien weken na afloop van die periode afgesloten, en  
 
 b. voldoet aan het tweede tot en met het negende lid.     
-2.  Ter controle op de naleving van een reductieprogramma als bedoeld in [artikel 2.29, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt het oplosmiddelenverbruik berekend aan de hand van de volgende formule: V = I1 – O8.   
+2.  Ter controle op de naleving van een reductieprogramma als bedoeld in artikel 2.29, tweede lid, van het besluit wordt het oplosmiddelenverbruik berekend aan de hand van de volgende formule: V = I1 – O8.   
 3.  Voor de berekening van de jaarlijkse referentie-emissie, bedoeld in artikel 2.13, tweede lid, wordt de in coatings gebruikte hoeveelheid vaste stof bepaald overeenkomstig de formule, genoemd in het tweede lid.   
 4.  Ter controle op de naleving van een totale emissiegrenswaarde wordt de totale emissie berekend aan de hand van de volgende formule: E = F + O1.   
-5.  Ter controle op de naleving van [artikel 2.30, derde lid, onder b, onder 2°, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt de totale emissie van alle betrokken activiteiten bepaald en vergeleken met de totale emissie die zou zijn veroorzaakt als [artikel 2.29 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voor elke activiteit afzonderlijk zou zijn nageleefd.   
+5.  Ter controle op de naleving van artikel 2.30, derde lid, onder b, onder 2°, van het besluit wordt de totale emissie van alle betrokken activiteiten bepaald en vergeleken met de totale emissie die zou zijn veroorzaakt als artikel 2.29 van het besluit voor elke activiteit afzonderlijk zou zijn nageleefd.   
 6.  Ter controle op de naleving van een diffuse emissiegrenswaarde wordt de diffuse emissie berekend aan de hand van een van de volgende formules: 
 
 a. F = I1 – 01 – 05 – 06 – 07 – 08, of  
@@ -535,7 +561,7 @@ b. F = 02 + 03 + 04 + 09.
 9.  Onder de in dit artikel genoemde symbolen wordt verstaan:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | E  | Totale emissie  |
 | F  | Diffuse emissie  |
 | V  | Verbruik  |
@@ -567,7 +593,7 @@ b. F = 02 + 03 + 04 + 09.
 
 ### Artikel  3.1  
 
-Ter beperking van de nadelige gevolgen voor het milieu als bedoeld in [artikel 3.5, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt het huishoudelijk afvalwater bij lozing in de bodem geleid door een infiltratievoorziening die zodanig wordt uitgevoerd en onderhouden, dat: 
+Ter beperking van de nadelige gevolgen voor het milieu als bedoeld in artikel 3.5, tweede lid, van het besluit wordt het huishoudelijk afvalwater bij lozing in de bodem geleid door een infiltratievoorziening die zodanig wordt uitgevoerd en onderhouden, dat: 
 
 a. het vanuit de zuiveringsvoorziening geloosde water in de infiltratievoorziening niet in direct contact met het grondwater komt,  
 
@@ -577,7 +603,7 @@ c. nadelige gevolgen voor de volksgezondheid worden voorkomen.
 
 ### Artikel  3.2  
 
-Ter beperking van de nadelige gevolgen voor het milieu als bedoeld in [artikel 3.5, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt het huishoudelijk afvalwater geleid door een zuiveringsvoorziening die voldoet aan het bepaalde in de artikelen 3.3 en 3.4.  
+Ter beperking van de nadelige gevolgen voor het milieu als bedoeld in artikel 3.5, derde lid, van het besluit wordt het huishoudelijk afvalwater geleid door een zuiveringsvoorziening die voldoet aan het bepaalde in de artikelen 3.3 en 3.4.  
 
 ### Artikel  3.3  
 
@@ -608,10 +634,10 @@ b. wordt zo vaak als voor de goede werking daarvan nodig is onderhouden.
 
 ### Artikel  3.4b  
 
-1.  De geurbelasting, bedoeld in de [artikelen 3.5b, eerste en tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [6.19b, tweede tot en met het vijfde lid van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bepaald met de rekenmethode van het Nieuw Nationaal Model (Uitgave 1998, ISBN 90-76323-003) of een daaraan gelijkwaardige methode.   
+1.  De geurbelasting, bedoeld in de artikelen 3.5b, eerste en tweede lid en 6.19b, tweede tot en met het vijfde lid van het besluit, wordt bepaald met de rekenmethode van het Nieuw Nationaal Model (Uitgave 1998, ISBN 90-76323-003) of een daaraan gelijkwaardige methode.   
 2.  De geuremissie vanuit een zuiveringstechnisch werk is de som van de emissies door de verschillende procesonderdelen, uitgedrukt in odour units per seconde, die worden bepaald met behulp van de emissiefactoren, genoemd in bijlage 5 bij deze regeling.   
 3.  Indien voor een procesonderdeel als bedoeld in het tweede lid geen emissiefactor is opgenomen in bijlage 5, kan het bevoegd gezag bij maatwerkvoorschrift aanvullend geuronderzoek eisen.   
-4.  Het bevoegd gezag kan, indien de geurhinder als gevolg van het opslaan en verladen van slib een aanvaardbaar niveau overschrijdt en [artikel 3.5b, eerste en tweede lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [artikel 6.19b, tweede tot en met het vijfde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) niet toereikend zijn om de overschrijding ongedaan te maken, aanvullend maatwerkvoorschriften stellen met betrekking tot de technische voorzieningen in het zuiveringtechnisch werk en te treffen gedragsmaatregelen.   
+4.  Het bevoegd gezag kan, indien de geurhinder als gevolg van het opslaan en verladen van slib een aanvaardbaar niveau overschrijdt en artikel 3.5b, eerste en tweede lid, en artikel 6.19b, tweede tot en met het vijfde lid, van het besluit niet toereikend zijn om de overschrijding ongedaan te maken, aanvullend maatwerkvoorschriften stellen met betrekking tot de technische voorzieningen in het zuiveringtechnisch werk en te treffen gedragsmaatregelen.   
 
 ### Artikel  3.4c  
 
@@ -619,7 +645,7 @@ Ten behoeve van het realiseren van een aanvaardbaar bodemrisico voldoet het ontw
 
 ### Artikel  3.4d  
 
-1.  Ten behoeve van het realiseren van een aanvaardbaar bodemrisico gebeurt de controle op de lekdichtheid van de bedrijfsonderdelen van de zuiveringstechnische werken, bedoeld in [artikel 3.5a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), met een grondwatermonitoringssysteem dat bestaat uit: 
+1.  Ten behoeve van het realiseren van een aanvaardbaar bodemrisico gebeurt de controle op de lekdichtheid van de bedrijfsonderdelen van de zuiveringstechnische werken, bedoeld in artikel 3.5a van het besluit, met een grondwatermonitoringssysteem dat bestaat uit: 
 
 a. een horizontaal monitoringssysteem bij installaties aangelegd op of na 1 januari 2012,  
 
@@ -651,12 +677,103 @@ b. verticale peilbuizen bij installaties aangelegd voor die datum.
 a. worden de daarna te nemen monsters geanalyseerd op de stoffen, genoemd in NEN 5740, en  
 
 b. wordt in overleg met en met instemming van het bevoegd gezag een herstelplan opgesteld.     
-8.  Het plaatsen van de peilbuizen, de analyses van de grondwatermonsters en het opstellen van de rapporten, bedoeld in het eerste tot en met zevende lid, en in artikel 3.4e, worden uitgevoerd door een persoon of een instelling die daartoe beschikt over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
+8.  Het plaatsen van de peilbuizen, de analyses van de grondwatermonsters en het opstellen van de rapporten, bedoeld in het eerste tot en met zevende lid, en in artikel 3.4e, worden uitgevoerd door een persoon of een instelling die daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit.   
 
 ### Artikel  3.4g  
 
 1.  Indien de controle op de lekdichtheid, bedoeld in artikel 3.4d, uitsluitend plaatsvindt via een grondwatermonitoringssysteem, worden ten minste één keer per 15 jaar de dilatatievoegen en onderlinge overgangen van bassins, tanks en leidingen visueel geïnspecteerd overeenkomstig CUR/PBV-Aanbeveling 44.   
 2.  De bevindingen worden vastgelegd in een logboek, dat in de inrichting aanwezig is of binnen een termijn die wordt gesteld door het bevoegd gezag voor deze beschikbaar.   
+
+### Artikel  3.4ga   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Het bemonsteren van stedelijk afvalwater, het analyseren van de monsters en het beoordelen van de resultaten daarvan, bedoeld in artikel 3.5g, eerste lid, van het besluit vindt plaats overeenkomstig de artikelen 3.4gb en 3.4gc.  
+
+### Artikel  3.4gb   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Voor de toepassing van dit artikel wordt onder ‘het te zuiveren stedelijk afvalwater’ verstaan: het aangevoerde stedelijk afvalwater voor eventuele vermenging met een of meer deelstromen die bij het zuiveringsproces vrijkomen en die op het zuiveringtechnisch werk worden teruggevoerd.   
+2.  De plaats van bemonstering wordt daar gekozen waar een zo representatief mogelijk beeld van de concentraties van de te bepalen parameters in het te zuiveren stedelijk afvalwater of in het na zuivering te lozen stedelijk afvalwater kan worden verkregen.   
+3.  Het te zuiveren stedelijk afvalwater wordt volumeproportioneel over een etmaal bemonsterd.   
+4.  Het na zuivering te lozen stedelijk afvalwater wordt, ingeval van een zuiveringtechnisch werk met een ontwerpcapaciteit van: 
+
+a. meer dan 100.000 inwonerequivalenten: volumeproportioneel over een etmaal bemonsterd, of  
+
+b. ten hoogste 100.000 inwonerequivalenten: volumeproportioneel dan wel tijdproportioneel over een etmaal bemonsterd.     
+5.  De na zuivering geloosde hoeveelheid stedelijk afvalwater wordt dagelijks bepaald.   
+6.  Het minimum aantal te nemen monsters per jaar is afhankelijk van de ontwerpcapaciteit in inwonerequivalenten van het zuiveringtechnisch werk en wordt met gelijkmatige tussenpozen verdeeld over het jaar genomen conform: 
+
+a. tabel 3.4.gb1, met betrekking tot de vaststelling van de per zuiveringtechnisch werk te zuiveren en na zuivering geloosde hoeveelheid totaal stikstof en totaal fosfor;  
+
+b. tabel 3.4gb2, met betrekking tot de vaststelling per zuiveringtechnisch werk van het na zuivering geloosde biochemisch zuurstofverbruik gedurende vijf dagen, het chemisch zuurstofverbruik en de geloosde hoeveelheid onopgeloste stoffen.    Tabel 3.4gb1 
+
+| Ontwerpcapaciteit in inwonerequivalenten  | Aantal te nemen monsters  |
+|---|---|
+| – 2.000 tot 5.000 inwonerequivalenten:  | minimaal 12 per jaar  |
+| – 5.000 tot 50.000 inwonerequivalenten:  | minimaal 24 per jaar  |
+| – 50.000 tot en met 100.000 inwonerequivalenten:  | minimaal 48 per jaar  |
+| – meer dan 100.000 inwonerequivalenten:  | minimaal 60 per jaar  |
+
+Tabel 3.4gb2 
+
+| Ontwerpcapaciteit in inwonerequivalenten  | Aantal te nemen monsters  |
+|---|---|
+| – minder dan 10.000 inwonerequivalenten:  | minimaal 12 per jaar in het eerste jaar.  na het eerste jaar:  – indien een monster aan de grenswaarden, bedoeld in artikel 3.5e, vierde lid, van het besluit voldoet: 4 per jaar  – indien een monster niet aan de grenswaarden, bedoeld in artikel 3.5e, vierde lid, van het besluit voldoet: 12 per jaar in het daarop volgende jaar  |
+| – 10.000 tot 50.000 inwonerequivalenten:  | minimaal 12 per jaar  |
+| – 50.000 inwonerequivalenten of meer:  | minimaal 24 per jaar  |
+
+7.  Indien op grond van metingen aangetoond kan worden dat in het te zuiveren stedelijk afvalwater het gehalte aan nitriet- en nitraatstikstof voortdurend minder dan 1% is ten opzichte van het gehalte aan Kjeldahlstikstof, kan worden volstaan met de meting van het gehalte aan Kjeldahlstikstof in dat water.   
+8.  De etmaalmonsters worden individueel geanalyseerd.   
+
+### Artikel  3.4gc   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Het na zuivering te lozen stedelijk afvalwater voldoet aan de eisen, bedoeld in artikel 3.5e, vijfde lid, van het besluit, indien voor iedere parameter afzonderlijk uit monsters van dat afvalwater blijkt dat het op de volgende wijze voldoet aan de grenswaarde voor de betreffende parameter: 
+
+a. voor de parameters biochemisch zuurstofverbruik, chemisch zuurstofverbruik en onopgeloste stoffen is het aantal monsters dat de grenswaarde van de betrokken parameter, genoemd in artikel 3.5e, vierde lid, van het besluit overschrijdt, niet hoger dan het in tabel 3.4gc opgenomen maximaal toegestaan aantal monsters.  Tabel 3.4gc Maximaal toegestaan aantal monsters dat niet voldoet 
+
+| Aantal gedurende een jaar genomen monsters  | Maximaal toegestaan aantal monsters dat niet voldoet  |
+|---|---|
+| 4–7  | 1  |
+| 8–16  | 2  |
+| 17–28  | 3  |
+| 29–40  | 4  |
+| 41–53  | 5  |
+| 54–67  | 6  |
+| 68–81  | 7  |
+| 82–95  | 8  |
+| 96–110  | 9  |
+| 111–125  | 10  |
+| 126–140  | 11  |
+| 141–155  | 12  |
+| 156–171  | 13  |
+| 172–187  | 14  |
+| 188–203  | 15  |
+| 204–219  | 16  |
+| 220–235  | 17  |
+| 236–251  | 18  |
+| 252–268  | 19  |
+| 269–284  | 20  |
+| 285–300  | 21  |
+| 301–317  | 22  |
+| 318–334  | 23  |
+| 335–350  | 24  |
+| 351–365  | 25  |
+
+b. het maximaal toegestaan aantal monsters dat niet voldoet, bedoeld in onderdeel a, bevat een overschrijding van de grenswaarden voor de parameters, genoemd in dat onderdeel, van ten hoogste: 
+
+1°. 100 procent voor biochemisch zuurstofverbruik,  
+
+2°. 100 procent voor chemisch zuurstofverbruik, of  
+
+3°. 150 procent voor onopgeloste stoffen,       
+2.  De grenswaarde voor totaal stikstof en totaal fosfor, bedoeld in artikel 3.5e, vierde lid, van het besluit, in het te lozen stedelijk afvalwater wordt uitgedrukt als de voortschrijdend jaargemiddelde concentratie totaal stikstof of totaal fosfor.   
+
+### Artikel  3.4gd   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Het totale zuiveringsrendement van de zuiveringstechnische werken waarvoor het openbaar lichaam of een andere rechtspersoon als bedoeld in artikel 3.5e, zevende lid, van het besluit met de zorg is belast, wordt berekend overeenkomstig bijlage 8.   
+2.  Voor de meting van de hoeveelheid stedelijk afvalwater in kubieke meter wordt een methode gehanteerd waarvan de onnauwkeurigheid in de debietmeting kleiner is dan 5%. Dit wordt door ijking vastgesteld.   
 
 ### §  3.1.3  
 
@@ -868,24 +985,24 @@ Indien reinigingswerkzaamheden of conserveringswerkzaamheden worden uitgevoerd a
 
 ### Artikel  3.5  
 
-1.  Aan de [artikelen 3.10](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.10a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt voor zover het betreft de uitstoot van totaal stof bij de verbranding van brandstof in vloeibare vorm in ieder geval voldaan indien het asgehalte van de brandstof in massaprocent lager is dan de toepasselijke emissie-eis gedeeld door 800 en door middel van een keuring als bedoeld in artikel 3.7m kan worden aangetoond dat de concentratie van koolstof-monoxide (CO) in het rookgas lager ligt dan 100 mg/Nm3.   
-2.  Aan de [artikelen 3.10a](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.10b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt voor zover het betreft de uitstoot van totaal stof bij de verbranding van hout, in ieder geval voldaan indien: 
+1.  Aan de artikelen 3.10 en 3.10a van het besluit wordt voor zover het betreft de uitstoot van totaal stof bij de verbranding van brandstof in vloeibare vorm in ieder geval voldaan indien het asgehalte van de brandstof in massaprocent lager is dan de toepasselijke emissie-eis gedeeld door 800 en door middel van een keuring als bedoeld in artikel 3.7m kan worden aangetoond dat de concentratie van koolstof-monoxide (CO) in het rookgas lager ligt dan 100 mg/Nm3.   
+2.  Aan de artikelen 3.10a en 3.10b van het besluit wordt voor zover het betreft de uitstoot van totaal stof bij de verbranding van hout, in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen worden gevoerd door een elektrostatische E-filter waarvan door middel van een rapport van de leverancier kan worden aangetoond dat aan de emissie-eisen in [artikel 3.10a](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of [3.10b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) kan worden voldaan; en  
+a. de afgezogen stofemissies die vrijkomen worden gevoerd door een elektrostatische E-filter waarvan door middel van een rapport van de leverancier kan worden aangetoond dat aan de emissie-eisen in artikel 3.10a of 3.10b van het besluit kan worden voldaan; en  
 
 b. de elektrostatische E-filter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.     
-3.  Aan de [artikelen 3.10a](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.10b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt voor zover het betreft de uitstoot van stikstofoxiden (NO <sub>x</sub>) bij de verbranding van hout, in ieder geval voldaan indien: 
+3.  Aan de artikelen 3.10a en 3.10b van het besluit wordt voor zover het betreft de uitstoot van stikstofoxiden (NO <sub>x</sub>) bij de verbranding van hout, in ieder geval voldaan indien: 
 
-a. de inrichtinghouder een meetrapport van de leverancier kan overleggen waaruit blijkt dat aan de in [artikel 3.10a](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of [3.10b](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) opgenomen emissiegrenswaarden van het besluit kan worden voldaan; en  
+a. de inrichtinghouder een meetrapport van de leverancier kan overleggen waaruit blijkt dat aan de in artikel 3.10a of 3.10b opgenomen emissiegrenswaarden van het besluit kan worden voldaan; en  
 
 b. in de ketelinstallatie het houttype wordt gestookt waarop het onder a bedoelde rapport is betrokken.     
 
 ### Artikel  3.6  
 
-1.  Een meting als bedoeld in [artikel 3.10j van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet aan de eisen in de artikelen 3.7 tot en met 3.7j en de artikelen 3.7o en 3.7p.   
-2.  Ten behoeve van het doelmatige beheer van afvalwater, bedoeld in [artikel 3.10k van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet het spuien van een stoomketel aan artikel 3.7k.   
-3.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 3.10o van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet een stookinstallatie aan artikel 3.7l.   
-4.  Ten behoeve van keuring van en onderhoud op veilig functioneren, optimale verbranding en energiezuinigheid van een stookinstallatie als bedoeld in [artikel 3.10p van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet een stookinstallatie aan de artikelen 3.7m tot en met 3.7p.   
+1.  Een meting als bedoeld in artikel 3.10j van het besluit voldoet aan de eisen in de artikelen 3.7 tot en met 3.7j en de artikelen 3.7o en 3.7p.   
+2.  Ten behoeve van het doelmatige beheer van afvalwater, bedoeld in artikel 3.10k van het besluit voldoet het spuien van een stoomketel aan artikel 3.7k.   
+3.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.10o van het besluit voldoet een stookinstallatie aan artikel 3.7l.   
+4.  Ten behoeve van keuring van en onderhoud op veilig functioneren, optimale verbranding en energiezuinigheid van een stookinstallatie als bedoeld in artikel 3.10p van het besluit, voldoet een stookinstallatie aan de artikelen 3.7m tot en met 3.7p.   
 5.  Het eerste lid is niet van toepassing op de uitstoot van totaal stof, stikstofoxiden (NO <sub>x</sub>) of koolmonoxiden (CO), indien voldaan wordt aan artikel 3.5.   
 
 ### Artikel  3.7  
@@ -893,7 +1010,7 @@ b. in de ketelinstallatie het houttype wordt gestookt waarop het onder a bedoeld
 1.  De concentraties aan stikstofoxiden (NO <sub>x</sub>), zwaveldioxide (SO <sub>2</sub>), totaal stof en onverbrande koolwaterstoffen (C <sub>x</sub> H <sub>y</sub>, uitgedrukt in C) in het rookgas worden bepaald door continue of afzonderlijke meting.   
 2.  In afwijking van het eerste lid, wordt de concentratie aan stikstofoxiden (NO <sub>x</sub>) in het rookgas bepaald door continue meting, indien ter bestrijding van de uitworp van stikstofoxiden (NO <sub>x</sub>) met rookgasinjectie van water of stoom, een inert materiaal dan wel ammoniak of ureum wordt toegepast.   
 3.  In afwijking van het tweede lid mag worden volstaan met afzonderlijke meting indien een logboek wordt bijgehouden waarin de hoeveelheid geïnjecteerde stoom of water, de hoeveelheid toegepast inert materiaal of de hoeveelheid toegevoegde ammoniak of ureum gedurende een kalenderjaar wordt bijgehouden en de betreffende emissiegrenswaarden niet worden overschreden.   
-4.  De concentraties van stoffen waarvoor emissiegrenswaarden zijn vastgesteld worden voor een vervangende stookinstallatie als bedoeld in [artikel 3.10h van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) binnen vier weken na de inbedrijfstelling van die vervangende installatie bepaald door middel van een afzonderlijke meting.   
+4.  De concentraties van stoffen waarvoor emissiegrenswaarden zijn vastgesteld worden voor een vervangende stookinstallatie als bedoeld in artikel 3.10h van het besluit binnen vier weken na de inbedrijfstelling van die vervangende installatie bepaald door middel van een afzonderlijke meting.   
 
 ### Artikel  3.7a  
 
@@ -967,7 +1084,7 @@ Bij een continue meting als bedoeld in artikel 3.7f wordt aan een emissiegrensw
 ### Artikel  3.7h  
 
 1.  Indien de concentraties aan stikstofoxiden (NO <sub>x</sub>), zwaveldioxide (SO <sub>2</sub>), onverbrande koolwaterstoffen (C <sub>x</sub> H <sub>y</sub>, uitgedrukt in C) of totaal stof continu worden gemeten, wordt de uitworp tijdens het opstarten en stilleggen van de stookinstallatie niet meegerekend bij het bepalen of aan de desbetreffende emissiegrenswaarde wordt voldaan.   
-2.  Indien de concentratie aan stikstofoxiden (NO <sub>x</sub>), zwaveldioxide (SO <sub>2</sub>), onverbrande koolwaterstoffen (C <sub>x</sub> H <sub>y</sub>, uitgedrukt in C) of totaal stof continu wordt gemeten en de stookinstallatie is uitgerust met nageschakelde apparatuur die is bedoeld voor het verminderen van de emissie van de genoemde stoffen, wordt de uitworp tijdens perioden als bedoeld in [artikel 3.10g van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), niet meegerekend.   
+2.  Indien de concentratie aan stikstofoxiden (NO <sub>x</sub>), zwaveldioxide (SO <sub>2</sub>), onverbrande koolwaterstoffen (C <sub>x</sub> H <sub>y</sub>, uitgedrukt in C) of totaal stof continu wordt gemeten en de stookinstallatie is uitgerust met nageschakelde apparatuur die is bedoeld voor het verminderen van de emissie van de genoemde stoffen, wordt de uitworp tijdens perioden als bedoeld in artikel 3.10g van het besluit, niet meegerekend.   
 
 ### Artikel  3.7i  
 
@@ -1032,7 +1149,7 @@ Van een meting of monstername als bedoeld in deze afdeling wordt een rapport gem
 
 ### Artikel  3.8  
 
-Deze paragraaf is van toepassing op het in werking hebben van een installatie voor het reduceren van aardgasdruk, meten en regelen van aardgashoeveelheid of aardgaskwaliteit als bedoeld in [artikel 3.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+Deze paragraaf is van toepassing op het in werking hebben van een installatie voor het reduceren van aardgasdruk, meten en regelen van aardgashoeveelheid of aardgaskwaliteit als bedoeld in artikel 3.11 van het besluit.  
 
 ### Artikel  3.9  
 
@@ -1041,7 +1158,7 @@ Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorva
 ### Artikel  3.10  
 
 1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan voldoet de opslag van tetrahydrothiofeen in bovengrondse opslagtanks of condensaat in ondergrondse opslagtanks behorende bij een inrichting waar aardgasdruk wordt gereduceerd of aardgashoeveelheid wordt gemeten ten minste aan de richtlijn tankinstallaties (PBV Rapport P 107776 2004-01-12) of gelijkwaardig hieraan.   
-2.  Een opgestelde Risico Inventarisatie en -evaluatie overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit, waarin is aangetoond dat de installatie aan deze richtlijn voldoet en een verklaring van een geaccrediteerde certificatie-instelling dat het non-standaard-deel van de installatie is uitgevoerd overeenkomstig de Risico Inventarisatie en -evaluatie wordt binnen drie maanden na installatie aan het bevoegd gezag overlegd. In geval van relevante wijzigingen wordt deze procedure herhaald.   
+2.  Een opgestelde Risico Inventarisatie en -evaluatie overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit, waarin is aangetoond dat de installatie aan deze richtlijn voldoet en een verklaring van een geaccrediteerde certificatie-instelling dat het non-standaard-deel van de installatie is uitgevoerd overeenkomstig de Risico Inventarisatie en -evaluatie wordt binnen drie maanden na installatie aan het bevoegd gezag overlegd. In geval van relevante wijzigingen wordt deze procedure herhaald.   
 
 ### §  3.2.3  
 
@@ -1049,7 +1166,7 @@ Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorva
 
 ### Artikel  3.11  
 
-Deze paragraaf is van toepassing op windturbines als bedoeld in [artikel 3.13 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+Deze paragraaf is van toepassing op windturbines als bedoeld in artikel 3.13 van het besluit.  
 
 ### Artikel  3.12  
 
@@ -1072,7 +1189,7 @@ b. NVN 11400-0.
 
 ### Artikel  3.14a  
 
-Het rapport van een akoestisch onderzoek, bedoeld in [artikel 1.11, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), bevat de volgende gegevens: 
+Het rapport van een akoestisch onderzoek, bedoeld in artikel 1.11, derde lid, van het besluit, bevat de volgende gegevens: 
 
 a. de naam van de opdrachtgever van het onderzoek;  
 
@@ -1178,7 +1295,7 @@ c. de effectiviteit van het waterbehandelingsprogramma met betrekking tot legion
 d. de risico’s voor de omgeving, te bepalen volgens de risicocategorie-indeling in tabel 3.16a.  Tabel 3.16a. Risicocategorie-indeling voor natte koeltorens 
 
 | Risico categorie  | Locatie natte koeltoren  |
-|:---|:---|
+|---|---|
 | 1 (hoogste risico)  | Natte koeltoren in de nabijheid (< 200 m) van een ziekenhuis, verpleeghuis of andere (medisch georiënteerde) zorginstelling waar mensen verblijven met een verminderd immuunsysteem  |
 | 2  | Natte koeltoren in de nabijheid (< 200 m) van verzorgingstehuizen, hotels of andere gebouwen waarin zich veel mensen bevinden  |
 | 3  | Natte koeltoren in de nabijheid (< 600 m) van een woonomgeving  |
@@ -1216,7 +1333,7 @@ e. een juiste en veilige werking van de natte koeltoren conform de processpecifi
 
 ### Artikel  3.16b  
 
-Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in [artikel 3.16d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet een ammoniakkoelinstallatie ten minste aan: 
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in artikel 3.16d van het besluit, voldoet een ammoniakkoelinstallatie ten minste aan: 
 
 a. de minimale veiligheidsvoorzieningen in relatie tot de hoeveelheid ammoniak van PGS 13, paragraaf 2.2 tot en met 2.5 en de hieraan gerelateerde functionele uitvoeringseisen uit PGS 13, hoofdstuk 4, en  
 
@@ -1228,7 +1345,7 @@ b. de voorschriften 3.2.5 tot en met 3.2.9, de voorschriften uit hoofdstuk 5, de
 
 ### Artikel  3.16d  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld [artikel 3.16f van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet een wisselverwarmingsinstallatie aan [artikel 3.16e](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld artikel 3.16f van het besluit voldoet een wisselverwarmingsinstallatie aan artikel 3.16e.  
 
 ### Artikel  3.16e  
 
@@ -1245,7 +1362,25 @@ c. is gewaarborgd dat gemorste of gelekte stoffen direct worden opgeruimd.
 5.  Morsingen en lekkages worden overeenkomstig de bedrijfsinterne procedures en werkinstructies, bedoeld in het tweede lid, verholpen en opgeruimd.   
 6.  Degene die de inrichting drijft draagt er zorg voor dat de in het kader van de bedrijfsinterne procedures en werkinstructies noodzakelijke absorptiemiddelen en andere materialen en middelen ter bescherming van de bodem binnen de inrichting in voldoende mate aanwezig zijn en dat er voldoende in het gebruik van deze middelen geïnstrueerd personeel aanwezig is.   
 7.  Bevindingen van controles van of onderhoud aan wisselverwarmingseenheden, alsmede acties genomen na incidenten met bodembedreigende stoffen, die mogelijk hebben geleid tot een bodemverontreiniging, worden opgenomen in een logboek dat te allen tijde beschikbaar is voor het bevoegd gezag.   
-8.  [Artikel 2.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is niet van toepassing op wisselverwarmingseenheden die vloeibare bodembedreigende stoffen bevat.   
+8.  Artikel 2.11 van het besluit is niet van toepassing op wisselverwarmingseenheden die vloeibare bodembedreigende stoffen bevat.   
+
+### §  3.2.8  
+
+####Installeren en in werking hebben van een gesloten bodemenergiesysteem
+
+### Artikel  3.16f  
+
+1.  Voor het bijhouden van een registratie met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem overeenkomstig artikel 3.16n, eerste lid, onder a, van het besluit worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 0,3°C en een frequentie van ten minste eenmaal per 15 minuten.   
+2.  Voor het bijhouden van een registratie met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem overeenkomstig artikel 3.16n, eerste lid, onder b, van het besluit worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 5 % en een frequentie van ten minste eenmaal per 15 minuten.   
+
+### Artikel  3.16fa  
+
+Het energierendement dat een gesloten bodemenergiesysteem behaalt bij de levering van warmte of koude aan een bouwwerk, wordt bepaald overeenkomstig de volgende formule: waarbij wordt verstaan onder:   ![]()
+*Q <sub>w</sub>*: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid warmte per jaar in MWh; *Q <sub>k</sub>*: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid koude per jaar in MWh; *E*: de door het bodemenergiesysteem verbruikte hoeveelheid elektriciteit per jaar in MWh; *G*: de door het bodemenergiesysteem verbruikte hoeveelheid gas per jaar in MWh.  
+
+### Artikel  3.16g  
+
+Artikel 2.11 van het besluit is niet van toepassing op het installeren en in werking hebben van een gesloten bodemenergiesysteem.  
 
 ### Afdeling  3.3  
 
@@ -1257,11 +1392,11 @@ c. is gewaarborgd dat gemorste of gelekte stoffen direct worden opgeruimd.
 
 ### Artikel  3.17  
 
-Deze paragraaf is van toepassing op een inrichting voor zover sprake is van het afleveren van vloeibare brandstof en gecomprimeerd aardgas, bedoeld in [artikel 3.17, eerste en tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+Deze paragraaf is van toepassing op een inrichting voor zover sprake is van het afleveren van vloeibare brandstof en gecomprimeerd aardgas, bedoeld in artikel 3.17, eerste en tweede lid, van het besluit.  
 
 ### Artikel  3.17a  
 
-Als testprocedure voor dampretour fase-II als bedoeld in [artikel 3.20, vierde lid, onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt aangewezen de Test Procedure voor Damp Retour Systemen in Benzinepompen voor Nederland van het NMi Certin van 1 februari 2011, dan wel een aan die testprocedure gelijkwaardige procedure, ter beoordeling door het bevoegd gezag.  
+Als testprocedure voor dampretour fase-II als bedoeld in artikel 3.20, vierde lid, onder a, van het besluit, wordt aangewezen de Test Procedure voor Damp Retour Systemen in Benzinepompen voor Nederland van het NMi Certin van 1 februari 2011, dan wel een aan die testprocedure gelijkwaardige procedure, ter beoordeling door het bevoegd gezag.  
 
 ### Artikel  3.18  
 
@@ -1285,53 +1420,89 @@ Als testprocedure voor dampretour fase-II als bedoeld in [artikel 3.20, vierde l
 
 ### Artikel  3.21  
 
-1.  De vaste afleverinstallatie is uitgevoerd en geïnstalleerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling die daartoe beschikt over een erkenning op grond van dat besluit. Het vervangen en repareren van gedeelten van een afleverinstallatie wordt uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-2.  De vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstof aan motorvoertuigen voor het wegverkeer of bij het afleveren van vloeibare brandstoffen aan spoorvoertuigen aan de voorschriften 5.8, 6.5, 6.7, 7.1, 7.7, 9.3, 9.5, 9.6, 9.6.1.1 tot en met 9.6.1.5 van PGS 28.   
-3.  Onverminderd het tweede lid: 
+1.  Een vaste afleverinstallatie is uitgevoerd en geïnstalleerd en wordt vervangen en gerepareerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  De vaste afleverinstallatie, bedoeld in het eerste lid, voldoet bij het afleveren van vloeibare brandstof aan motorvoertuigen voor het wegverkeer of aan spoorvoertuigen aan de volgende onderdelen van PGS 28: 
 
-a. wordt het temperatuurgevoelige element eenmaal in de twee jaar gecontroleerd. Indien naar aanleiding van deze controle blijkt dat het temperatuurgevoelige element niet goed meer functioneert wordt deze terstond gerepareerd of vervangen.  
+a. de voorschriften 2.3.8 en 2.3.11 tot en met 2.3.13;  
 
-b. is binnen een inrichting ten minste één noodstopvoorziening aangebracht. Bij uitsluitend bemande aflevering van vloeibare brandstof is die voorziening bij de kassa te bedienen. Bij geheel of gedeeltelijk onbemande aflevering van vloeibare brandstof is die voorziening op ten minste één voor een ieder goed bereikbare plaats te bedienen, die duidelijk zichtbaar en aangegeven is bij elke afleverzuil. Het uitschakelen van de noodstopvoorziening, waardoor het afleveren kan worden hervat, geschiedt eerst nadat de drijver van de inrichting heeft vastgesteld dat de gevaarlijke situatie die heeft geleid tot het inschakelen van de noodstopvoorziening, is opgeheven.     
+b. de voorschriften 3.4.2 tot en met 3.4.11;  
+
+c. de voorschriften 5.5.1 en 5.5.3, en  
+
+d. de paragrafen 5.6 en 5.7.     
+3.  Het temperatuurgevoelige element in de vaste afleverinstallatie wordt eenmaal per twee jaar door een daartoe opgeleid persoon of installateur op de goede werking gecontroleerd.   
 
 ### Artikel  3.21a  
 
-1.  In afwijking van artikel 3.21 voldoet een vaste afleverinstallatie bij het afleveren van minder dan 25 kubieke meter vloeibare brandstof per jaar, aan het tweede tot en met zesde lid.   
-2.  Het vulpistool wordt goed weggehangen. Na gebruik lekt er geen brandstof uit het vulpistool. De afleverslang is voorzien van een automatisch afslaand vulpistool om overvullen van het motorvoertuig te voorkomen.   
-3.  Als een deel van de afleverinstallatie, leidingen of de afleverslang zich onder het hoogste vloeistofniveau van de tank kunnen bevinden, is een antihevel beveiliging aangebracht tussen de tank en de flexibele afleverslang.   
-4.  Bij het toepassen van een handpomp is de afleverslang na gebruik leeg, waarbij eventueel aanwezige brandstofresten worden teruggevoerd naar de tank. Een vulpistool van een elektrische pomp is voorzien van een automatisch afslagmechanisme.   
-5.  De afleverinstallatie is voorzien van een vulkraan die, indien deze buiten gebruik is, niet in werking kan worden gesteld door onbevoegden.   
-6.  Een afleverinstallatie met een elektrische pomp is voorzien van een aan- en uitschakelaar.   
+In afwijking van artikel 3.21 wordt bij het afleveren van vloeibare brandstof aan motorvoertuigen voor het wegverkeer of aan spoorvoertuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, voldaan aan de voorschriften 3.4.1, 3.4.4, 3.4.5 en 3.4.8 van PGS 30.  
 
 ### Artikel  3.21b  
 
-1.  Onverminderd de artikelen 3.21 en 3.21a voldoet een vaste afleverinstallatie voor het inpandig afleveren van lichte olie dat is toegestaan op grond van [artikel 6.22b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan het tweede en derde lid.   
-2.  Nabij de afleverinstallatie is ten minste één draagbaar blustoestel aanwezig met een vulling van ten minste 6 kilogram of liter blusstof.   
-3.  De afleverinstallatie wordt voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.   
+In de gevallen dat inpandig afleveren van lichte olie is toegestaan op grond van artikel 6.22b van het besluit, is een vaste afleverinstallatie voor het inpandig afleveren van lichte olie voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.  
 
 ### Artikel  3.22  
 
-Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie aan motorvoertuigen voor het wegverkeer of aan spoorvoertuigen aan de voorschriften 5.8 en 9.6.2.1 tot en met 9.6.2.5 van PGS 28.  
+Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie aan motorvoertuigen voor het wegverkeer aan bijlage D van PGS 28.  
 
 ### Artikel  3.23  
 
-Een aardgas-afleverinstallatie voldoet bij het afleveren van gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer aan hoofdstuk 7 tot en met 14 van PGS 25 met uitzondering van de paragrafen 7.1.8, 7.3.8 tot en met 7.3.13, 7.7.1, 7.9, 8.6, 8.7, 8.8, 9.2, 10.8 en 13.4.  
+1.  Voor zover de nominale compressorcapaciteit per compressor ten minste 14,3 Nm <sup>3</sup> per uur bedraagt, voldoet een aardgas-afleverinstallatie bij het afleveren van gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer aan de volgende onderdelen van PGS 25: 
+
+a. de paragrafen 5.1 tot en met 5.3, met uitzondering van de subparagraaf 5.1.6, eerste en tweede alinea, en de paragrafen 5.5 en 5.7 tot en met 5.11, met uitzondering van de subparagraaf 5.10.1,  
+
+b. de paragrafen 6.1 en 6.2;  
+
+c. de paragrafen 7.1 en 7.3 tot en met 7.7;  
+
+d. de paragrafen 8.1 tot en met 8.7, 8.10 en 8.11, en  
+
+e. de hoofdstukken 9 tot en met 12, met uitzondering van paragraaf 11.4.     
+2.  Bij het inpandig afleveren van gecomprimeerd aardgas wordt voldaan aan de paragrafen 13.1, 13.2 en 13.4 van PGS 25.   
+
+### Artikel  3.24  
+
+1.  Voor zover de nominale compressorcapaciteit per compressor minder dan 14,3 Nm <sup>3</sup> per uur bedraagt, voldoet een aardgas-afleverinstallatie bij het afleveren van gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer aan het tweede tot en met vierde lid.   
+2.  Een installatie als bedoeld in het eerste lid, die is voorzien van meerdere compressoren waarvan de uitlaatzijden zijn gekoppeld, voldoet aan de volgende onderdelen van PGS 25: 
+
+a. de paragrafen 5.1 tot en met 5.3, met uitzondering van de subparagrafen 5.1.1 en 5.1.6, eerste en tweede alinea, en de paragrafen 5.5 en 5.7 tot en met 5.11, met uitzondering van subparagraaf 5.10.1;  
+
+b. de paragrafen 6.1 en 6.2;  
+
+c. de paragrafen 8.1 tot en met 8.7, 8.10 en 8.11, en  
+
+d. de hoofdstukken 9 tot en met 12, met uitzondering van de paragrafen 11.4 en 12.2.     
+3.  Indien een installatie als bedoeld in het tweede lid is voorzien van een bufferopslag, voldoet de installatie tevens aan de paragrafen 7.1 en 7.3 tot en met 7.7 van PGS 25.   
+4.  Een installatie als bedoeld in het eerste lid, die niet is voorzien van compressoren die aan de uitlaatzijde zijn gekoppeld maar die is voorzien van een bufferopslag, voldoet aan de volgende onderdelen van PGS 25: 
+
+a. de paragrafen 5.1 tot en met 5.3, met uitzondering van de subparagrafen 5.1.1 en 5.1.6, eerste en tweede alinea, en de paragrafen 5.5, 5.7 en 5.9 tot en met 5.11, met uitzondering van subparagraaf 5.10.1;  
+
+b. paragraaf 7.1 en de paragrafen 7.3 tot en met 7.7;  
+
+c. de paragrafen 8.1 tot en met 8.7, 8.10 en 8.11, en  
+
+d. de hoofdstukken 9 tot en met 12, met uitzondering van de paragrafen 9.1, 11.4 en 12.2.     
 
 ### Artikel  3.25  
 
 1.  Het afleveren van vloeibare brandstof aan motorvoertuigen voor het wegverkeer of aan spoorvoertuigen vindt plaats boven een vloeistofdichte vloer of verharding.   
-2.  De vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus één meter, met een minimum van vijf meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan drie meter. In de laatste situatie is de afleverslang niet langer dan vier meter. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste één meter vanaf het hart van de afleverzuil.   
-3.  In afwijking van het eerste lid vindt het afleveren van vloeibare brandstof aan motorvoertuigen of aan spoorvoertuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, plaats boven een bodembeschermende voorziening.   
-4.  In afwijking van het tweede lid is een mobiele afleverinstallatie opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
-5.  Het afleveren van ureum aan motorvoertuigen voor het wegverkeer vindt plaats boven de bodembeschermende voorziening die op grond van het eerste tot en met vierde lid is voorgeschreven voor het afleveren van vloeibare brandstof.   
+2.  De vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus één meter, met een minimum van vijf meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan drie meter. In de laatste situatie is de afleverslang niet langer dan vier meter. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste één meter vanaf het hart van de afleverzuil.   
+3.  De afwateringssystemen van de vloeistofdichte vloer of verharding zijn vloeistofdicht uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit. Terstond na de installatie en beproeving op dichtheid wordt de riolering afgedekt.   
+4.  De riolering, de olieafscheider en de kolken en putten van de afwateringssystemen zijn aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+5.  Een afleverinstallatie is geplaatst boven een vloeistofdichte vloer of verharding. Doorvoeringen door en afsluitingen van deze vloeistofdichte vloer of verharding zijn eveneens vloeistofdicht.   
+6.  Gelekte vloeistoffen worden vanaf de vloeistofdichte vloer of verharding, bedoeld in het vijfde lid, afgevoerd naar het afwateringssysteem of naar de in het eerste lid bedoelde vloeistofdichte vloer of verharding. Indien gebruik wordt gemaakt van afsluiters of terugslagkleppen zijn deze geplaatst boven een vloeistofdichte vloer of verharding.   
+7.  Pompeilanden en aanwezige doorvoeren zijn vloeistofdicht en zijn aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+8.  In afwijking van het eerste tot en met het zevende lid vindt het afleveren van vloeibare brandstof aan motorvoertuigen of aan spoorvoertuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, plaats boven een bodembeschermende voorziening.   
+9.  In afwijking van het tweede lid is een mobiele afleverinstallatie opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
+10.  Het afleveren van ureum aan motorvoertuigen voor het wegverkeer vindt plaats boven de bodembeschermende voorziening die op grond van het eerste tot en met negende lid is voorgeschreven voor het afleveren van vloeibare brandstof.   
 
 ### Artikel  3.26  
 
-1.  In afwijking van artikel 3.25, eerste tot en met vierde lid, kan het afleveren van vloeibare brandstof plaatsvinden boven een geomembraanbaksysteem, indien: 
+1.  In afwijking van artikel 3.25, eerste tot en met negende lid, kan het afleveren van vloeibare brandstof plaatsvinden boven een geomembraanbaksysteem, indien: 
 
 a. de inrichting is gelegen binnen de bebouwde kom waarbij de afleverzuilen in één rij parallel aan de naastgelegen weg staan opgesteld en het afleveren uitsluitend aan de wegzijde op of aan de openbare weg plaatsvindt, of  
 
 b. op basis van een onderzoek naar de grondmechanica dat vóór het aanbrengen van het geomembraanbaksysteem is uitgevoerd, is gebleken dat het aanbrengen van een vloeistofdichte vloer of verharding onevenredig hoge kosten met zich brengt.     
-2.  Een geomembraanbaksysteem als bedoeld in het eerste lid is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
+2.  Een geomembraanbaksysteem als bedoeld in het eerste lid is aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit.   
 
 ### §  3.3.2  
 
@@ -1339,12 +1510,12 @@ b. op basis van een onderzoek naar de grondmechanica dat vóór het aanbrengen v
 
 ### Artikel  3.27  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico op grond van [artikel 3.23b, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt het uitwendig wassen van motorvoertuigen, werktuigen of spoorvoertuigen plaats boven een vloeistofdichte vloer of verharding. De bij het wassen vrijkomende vloeistoffen lopen niet over de rand van de vloeistofdichte vloer of verharding.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico op grond van artikel 3.23b, eerste lid, van het besluit vindt het uitwendig wassen van motorvoertuigen, werktuigen of spoorvoertuigen plaats boven een vloeistofdichte vloer of verharding. De bij het wassen vrijkomende vloeistoffen lopen niet over de rand van de vloeistofdichte vloer of verharding.   
 2.  In afwijking van het eerste lid is het toegestaan motorvoertuigen, werktuigen en spoorvoertuigen te wassen in of op een mobiele wasinstallatie die zodanig is uitgevoerd dat vloeistoffen niet in de bodem kunnen geraken, met dien verstande dat een mobiele wasinstallatie niet langer dan zes maanden aaneengesloten op eenzelfde locatie is geplaatst.   
 
 ### Artikel  3.27a  
 
-Een zuiveringsvoorziening als bedoeld in [artikel 3.24, tweede en vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md): 
+Een zuiveringsvoorziening als bedoeld in artikel 3.24, tweede en vierde lid, van het besluit: 
 
 a. verwijdert ten minste 95% van de gewasbeschermingsmiddelen uit het afvalwater;  
 
@@ -1367,17 +1538,17 @@ b. een bufferopslag en doseereenheid waarmee het afvalwater geleidelijk en gelij
 
 ### Artikel  3.27c  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt het aftappen van vloeistoffen en het demonteren van vloeistof bevattende onderdelen bij een inrichting waar autowrakken worden gedemonteerd plaats boven een vloeistofdichte vloer of verharding.  
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.26a van het besluit vindt het aftappen van vloeistoffen en het demonteren van vloeistof bevattende onderdelen bij een inrichting waar autowrakken worden gedemonteerd plaats boven een vloeistofdichte vloer of verharding.  
 
 ### Artikel  3.27d  
 
 1.  Ten behoeve van: 
 
-a. een doelmatig beheer van afvalstoffen als bedoeld in het [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),  
+a. een doelmatig beheer van afvalstoffen als bedoeld in het artikel 3.26a van het besluit,  
 
-b. het voorkomen of beperken van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en  
+b. het voorkomen of beperken van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in artikel 3.26a van het besluit, en  
 
-c. het realiseren van een verwaarloosbaar bodemrisico, bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),   wordt bij het bewerken van autowrakken bij een inrichting waar autowrakken worden gedemonteerd, voldaan aan het tweede tot en met zesde lid.   
+c. het realiseren van een verwaarloosbaar bodemrisico, bedoeld in artikel 3.26a van het besluit,   wordt bij het bewerken van autowrakken bij een inrichting waar autowrakken worden gedemonteerd, voldaan aan het tweede tot en met zesde lid.   
 2.  Zo spoedig mogelijk, doch uiterlijk binnen tien werkdagen na ontvangst van het autowrak, worden de volgende stoffen, preparaten of producten, indien aanwezig, afgetapt of gedemonteerd en opgeslagen: 
 
 a. motorolie;  
@@ -1428,7 +1599,7 @@ d. onderdelen die lood, kwik, cadmium of zeswaardig chroom bevatten en als zodan
 
 ### Artikel  3.27e  
 
-1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet de opslag van afgetapte of gedemonteerde stoffen, preparaten of producten bij een inrichting waar autowrakken worden gedemonteerd, aan het tweede tot en met vijfde lid.   
+1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in artikel 3.26a van het besluit voldoet de opslag van afgetapte of gedemonteerde stoffen, preparaten of producten bij een inrichting waar autowrakken worden gedemonteerd, aan het tweede tot en met vijfde lid.   
 2.  Afgetapte of gedemonteerde stoffen, preparaten of producten als bedoeld in artikel 3.27b, tweede lid, worden voor zover dat nodig is voor product- of materiaalhergebruik of nuttige toepassing afzonderlijk bewaard.   
 3.  Afgetapte of gedemonteerde stoffen, preparaten of producten als bedoeld in artikel 3.27b, vijfde lid, worden op een zodanige wijze opgeslagen dat de mogelijkheden voor product- of materiaalhergebruik of nuttige toepassing niet worden geschaad.   
 4.  Niet voor producthergebruik geschikte stoffen, preparaten of producten, waarvoor wel een mogelijkheid van materiaalhergebruik of nuttige toepassing bestaat, worden gescheiden gehouden en gescheiden afgevoerd naar een inrichting met een milieuhygiënisch verantwoorde en doelmatige verwerkingsmogelijkheid.   
@@ -1436,7 +1607,7 @@ d. onderdelen die lood, kwik, cadmium of zeswaardig chroom bevatten en als zodan
 
 ### Artikel  3.27f  
 
-1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet de opslag van autowrakken bij een inrichting waar autowrakken worden gedemonteerd, aan het tweede tot en met zevende lid.   
+1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in artikel 3.26a van het besluit voldoet de opslag van autowrakken bij een inrichting waar autowrakken worden gedemonteerd, aan het tweede tot en met zevende lid.   
 2.  Autowrakken die nog niet zijn ontdaan van de stoffen, preparaten of producten, bedoeld in artikel 3.27b, tweede lid, worden direct bij binnenkomst in de inrichting en in afwachting van verdere bewerking op een specifiek daarvoor aangewezen gedeelte van de inrichting opgeslagen en worden niet gestapeld.   
 3.  Autowrakken die nog niet zijn ontdaan van alle stoffen, preparaten of producten als bedoeld in artikel 3.27b, vijfde lid, worden maximaal twee hoog, met een maximale hoogte van 4,5 meter, gestapeld op een daartoe aangewezen gedeelte van de inrichting, dan wel worden op een zodanige wijze in stellingen gestapeld dat deze gemakkelijk kunnen worden geïnspecteerd en gedemonteerd.   
 4.  Autowrakken waarvan de stoffen, preparaten of producten, bedoeld in artikel 3.27b, tweede en vijfde lid, zijn afgetapt of gedemonteerd, worden uitsluitend rechtstreeks uit de inrichting afgevoerd naar een inrichting waarin zich een shredderinstallatie bevindt en waarin autowrakken worden gescheiden in direct als materiaal te hergebruiken metaalschroot en shredderafvalstoffen.   
@@ -1446,7 +1617,7 @@ d. onderdelen die lood, kwik, cadmium of zeswaardig chroom bevatten en als zodan
 
 ### Artikel  3.27g  
 
-1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij de ontvangst van een autowrak bij een inrichting waar autowrakken worden gedemonteerd, voldaan aan het tweede tot en met vierde lid.   
+1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in artikel 3.26a van het besluit wordt bij de ontvangst van een autowrak bij een inrichting waar autowrakken worden gedemonteerd, voldaan aan het tweede tot en met vierde lid.   
 2.  Bij de ontvangst van een autowrak met een kenteken dat verstrekt is door een in een andere lidstaat van de Europese Unie daartoe aangewezen instantie, wordt desgevraagd aan degene die zich van dat autowrak ontdoet een certificaat van vernietiging als bedoeld in artikel 5, derde lid, van de autowrakkenrichtlijn afgegeven, waarin in ieder geval de volgende gegevens zijn opgenomen: 
 
 a. de naam, het adres en de handtekening van degene die het certificaat van vernietiging afgeeft;  
@@ -1465,7 +1636,7 @@ f. de naam, het adres, de nationaliteit en de handtekening van de eigenaar of ho
 
 ### Artikel  3.27h  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het demonteren van LPG-tanks en de opslag van de gedemonteerde LPG-tanks ten minste voldaan aan het tweede tot en met zesde lid.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.26a van het besluit wordt bij het demonteren van LPG-tanks en de opslag van de gedemonteerde LPG-tanks ten minste voldaan aan het tweede tot en met zesde lid.   
 2.  Het aftappen van LPG uit een LPG-tank bij een inrichting type B is niet toegestaan.   
 3.  Het demonteren van een LPG-tank geschiedt in de open lucht of in een goed geventileerde ruimte.   
 4.  De gedemonteerde LPG-tanks waarvan LPG nog niet is afgetapt, worden bij een inrichting type B ten minste eenmaal per twee maanden uit de inrichting afgevoerd.   
@@ -1474,7 +1645,7 @@ f. de naam, het adres, de nationaliteit en de handtekening van de eigenaar of ho
 
 ### Artikel  3.27i  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in het [artikel 3.26a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het neutraliseren van airbags of gordelspanners uit autowrakken of de opslag van gedemonteerde airbags of gordelspanners binnen de inrichting tot een maximale hoeveelheid van 1000 gedemonteerde airbags en gordelspanners, voldaan aan het tweede tot en met het twaalfde lid.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in het artikel 3.26a van het besluit, wordt bij het neutraliseren van airbags of gordelspanners uit autowrakken of de opslag van gedemonteerde airbags of gordelspanners binnen de inrichting tot een maximale hoeveelheid van 1000 gedemonteerde airbags en gordelspanners, voldaan aan het tweede tot en met het twaalfde lid.   
 2.  Het neutraliseren van airbags en gordelspanners gebeurt overeenkomstig paragraaf 6 van NEN 7557.   
 3.  Het ontsteken van mechanische airbags wordt niet uitgevoerd bij een inrichting type A of type B.   
 4.  Na demontage worden de gedemonteerde airbags of gordelspanners, met uitzondering van de werkvoorraad, opgeslagen in een daarvoor bestemde, voor transport van gedemonteerde airbags en gordelspanners geschikte container of een voor opslag bestemde ruimte, die zodanig is uitgevoerd dat voldoende drukontlasting mogelijk is en waar de gedemonteerde airbags en gordelspanners gescheiden worden van de overige stoffen en materialen door middel van een afscheiding van gaas van voldoende sterkte bestaande uit staaldraad met een vrije opening van maximaal vijf centimeter dan wel door opslag in een separaat brandcompartiment.   
@@ -1485,17 +1656,17 @@ f. de naam, het adres, de nationaliteit en de handtekening van de eigenaar of ho
 9.  De airbags worden met de afdekkap naar boven geplaatst.   
 10.  Elektrische airbags en gordelspanners worden niet aan statische lading blootgesteld indien de bekabeling, die direct gemonteerd is aan een airbag of gordelspanner, beschadigd is.   
 11.  Bij een inrichting type A of type B worden geen elektrische airbags of gordelspanners ontstoken die zodanig beschadigd zijn dat de airbags en gordelspanners niet op een veilige wijze in het autowrak kunnen worden geneutraliseerd.   
-12.  De airbags en gordelspanners, bedoeld in het tiende lid, worden gedemonteerd en worden na demontage afgevoerd naar een persoon als bedoeld in [artikel 10.37, tweede lid, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+12.  De airbags en gordelspanners, bedoeld in het tiende lid, worden gedemonteerd en worden na demontage afgevoerd naar een persoon als bedoeld in artikel 10.37, tweede lid, van de wet.   
 
 ### Artikel  3.27j  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in het [artikel 3.26b, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden stof en gassen die vrijkomen bij het ontsteken van airbags of gordelspanners voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
-2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in het [artikel 3.26b, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden stof en gassen, ontstaan bij het ontsteken van airbags of gordelspanners, die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in het artikel 3.26b, tweede lid, van het besluit, worden stof en gassen die vrijkomen bij het ontsteken van airbags of gordelspanners voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
+2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in het artikel 3.26b, tweede lid, van het besluit, worden stof en gassen, ontstaan bij het ontsteken van airbags of gordelspanners, die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan in het belang van de luchtkwaliteit met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, bedoeld in het tweede lid.   
 
 ### Artikel  3.27k  
 
-Aan [artikel 3.26b, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 3.26b, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
 a. op jaarbasis minder dan 5000 autowrakken worden gedemonteerd, of  
 
@@ -1507,7 +1678,7 @@ b. de afgezogen emissies die vrijkomen bij het ontsteken van airbags en gordelsp
 
 ### Artikel  3.27l  
 
-Ten behoeve van het doelmatig verspreiden van emissies, het voorkomen, dan wel zoveel mogelijk beperken van geurhinder en het voorkomen dan wel zoveel mogelijk beperken van luchtverontreiniging door benzeen als bedoeld in [artikel 3.26e van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), bij mechanische ventilatie in een parkeergarage die deel uitmaakt van een inrichting met ten minste 20 parkeerplaatsen: 
+Ten behoeve van het doelmatig verspreiden van emissies, het voorkomen, dan wel zoveel mogelijk beperken van geurhinder en het voorkomen dan wel zoveel mogelijk beperken van luchtverontreiniging door benzeen als bedoeld in artikel 3.26e van het besluit, bij mechanische ventilatie in een parkeergarage die deel uitmaakt van een inrichting met ten minste 20 parkeerplaatsen: 
 
 a. worden de aanzuigopeningen ten behoeve van de ventilatie in een verkeersluwe omgeving, of, indien dat niet mogelijk is, op ten minste vijf meter boven het straatniveau en buiten de beïnvloeding van de uitblaasopeningen aangebracht;  
 
@@ -1521,7 +1692,7 @@ c. bedraagt de snelheid van de uitgeblazen lucht, gemeten bij de rand van de uit
 
 ### Artikel  3.27m  
 
-Aan [artikel 3.26j, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien een plan voor het in ontvangst nemen en verder beheren van afvalstoffen de volgende elementen bevat: 
+Aan artikel 3.26j, derde lid, van het besluit wordt in ieder geval voldaan indien een plan voor het in ontvangst nemen en verder beheren van afvalstoffen de volgende elementen bevat: 
 
 a. een beoordeling van de behoefte aan voorzieningen voor de ontvangst van afvalstoffen, gelet op de behoefte van de zeegaande pleziervaartuigen die gewoonlijk de jachthaven aandoen;  
 
@@ -1551,12 +1722,12 @@ i. vermelding van één of meerdere personen die verantwoordelijk zijn voor de u
 
 ### Artikel  3.28  
 
-Deze paragraaf is van toepassing op inrichtingen waarbij sprake is van het opslaan van propaan als bedoeld in [artikel 3.27 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+Deze paragraaf is van toepassing op inrichtingen waarbij sprake is van het opslaan van propaan als bedoeld in artikel 3.27 van het besluit.  
 
 ### Artikel  3.29  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan is een opslagtank met propaan die op een bouwplaats is opgesteld en in gebruik is ten behoeve van bouwactiviteiten, voorzover van toepassing, in overstemming met het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en voldoet de opslagtank met propaan voorts aan hoofdstuk 7 van PGS 19.   
-2.  Een opslagtank met propaan die anders dan op een bouwplaats is opgesteld of anders dan ten behoeve van bouwactiviteiten in gebruik is, is, voorzover van toepassing, in overeenstemming met het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en voldoet voorts aan hoofdstuk 2 en de hoofdstukken 4 tot en met 6 van PGS 19.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan is een opslagtank met propaan die op een bouwplaats is opgesteld en in gebruik is ten behoeve van bouwactiviteiten, voorzover van toepassing, in overstemming met het Warenwetbesluit drukapparatuur en voldoet de opslagtank met propaan voorts aan hoofdstuk 7 van PGS 19.   
+2.  Een opslagtank met propaan die anders dan op een bouwplaats is opgesteld of anders dan ten behoeve van bouwactiviteiten in gebruik is, is, voorzover van toepassing, in overeenstemming met het Warenwetbesluit drukapparatuur en voldoet voorts aan hoofdstuk 2 en de hoofdstukken 4 tot en met 6 van PGS 19.   
 
 ### Artikel  3.30  
 
@@ -1572,55 +1743,88 @@ Van de bevindingen van de keuringen en herkeuringen als bedoeld in artikel 3.30 
 
 ### Artikel  3.33  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 3.30 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het opslaan in, het vullen van en het betrekken uit ondergrondse opslagtanks van stoffen, alsmede alle handelingen die met dat opslaan, vullen of betrekken in onmiddellijk verband staan, met dien verstande dat daaronder niet wordt begrepen de aflevering van vloeibare brandstoffen, mengsmering en aardgas, voldaan aan artikel 3.34 tot en met 3.37.  
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.30 van het besluit, wordt bij het opslaan in, het vullen van en het betrekken uit ondergrondse opslagtanks van stoffen, alsmede alle handelingen die met dat opslaan, vullen of betrekken in onmiddellijk verband staan, met dien verstande dat daaronder niet wordt begrepen de aflevering van vloeibare brandstoffen, mengsmering en aardgas, voldaan aan artikel 3.34 tot en met 3.37.  
 
 ### Artikel  3.34  
 
-1.  Een ondergrondse opslagtank met de daarbij behorende leidingen en appendages is uitgevoerd en geïnstalleerd en wordt gerepareerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-2.  Indien de ondergrondse opslagtank of de daarbij behorende leidingen of appendages van staal zijn, is een bodemweerstandsmeting uitgevoerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md). Indien uit een bodemweerstandsmeting blijkt dat de specifieke elektrische weerstand van de bodem minder is dan 100 ohmmeter worden de opslagtank en de leidingen tegen corrosie beschermd door middel van een kathodische bescherming, aangebracht overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-3.  De vulpunten en aftappunten van een ondergrondse opslagtank zijn geplaatst boven of in een lekbak of boven een vloeistofdichte vloer of verharding.   
-4.  Een ondergrondse opslagtank met een lengte van meer dan 10 meter en een ondergrondse opslagtank die is gelegen in een grondwaterbeschermingsgebied zijn voorzien van twee peilopeningen.   
+1.  Een ondergrondse opslagtank met de daarbij behorende leidingen en appendages is uitgevoerd en geïnstalleerd en wordt gerepareerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Indien de ondergrondse opslagtank of de daarbij behorende leidingen of appendages van staal zijn, is een bodemweerstandsmeting uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit. Indien uit een bodemweerstandsmeting blijkt dat de specifieke elektrische weerstand van de bodem minder is dan 100 ohmmeter worden de opslagtank en de leidingen tegen corrosie beschermd door middel van een kathodische bescherming, aangebracht overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit. De termijn waarbinnen de bodemweerstandsmeting wordt uitgevoerd is gelijk aan de keuringstermijn, bedoeld in artikel 3.35, tweede lid.   
+3.  Een aansluitpunt van een vul- of leegzuigleiding wordt geplaatst boven of in een vulpuntmorsbak of boven een vloeistofdichte vloer of verharding. Een vloeistofdichte vloer of verharding is bij het afleveren van meer dan 25 kubieke meter vloeibare brandstoffen per jaar, aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit. De oppervlakte van de vloeistofdichte vloer of verharding bij een vulpunt bedraagt ten minste 12 vierkante meter, bij voorkeur met een afmeting van 4 meter bij 3 meter.   
 
 ### Artikel  3.35  
 
-1.  Een ondergrondse opslagtank van staal met de daarbij behorende leidingen en appendages waarin vloeibare brandstof, een organisch oplosmiddel of een vloeibare bodembedreigende stof als bedoeld in [artikel 3.29, onder a en onder c tot en met j, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is opgeslagen wordt ten minste eens in de 15 jaar overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument beoordeeld en goedgekeurd door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit. Deze termijn is 20 jaar indien de opslagtank aantoonbaar is voorzien van een inwendige coating overeenkomstig BRL K779 en aangebracht overeenkomstig BRL K790 dan wel dubbelwandig is uitgevoerd met een systeem voor lekdetectie in de wand, dat voldoet aan BRL K910 en ten minste eens per jaar wordt beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit. In afwijking van de eerste twee volzinnen bedraagt de termijn 10 jaar indien de ondergrondse opslagtank is gelegen in een grondwaterbeschermingsgebied.   
-2.  In afwijking van het eerste lid vindt de beoordeling en goedkeuring ten minste eens in de 10 jaar plaats indien de ondergrondse opslagtank van kunststof is vervaardigd. Deze termijn is 15 jaar indien de opslagtank aantoonbaar is voorzien van een inwendige coating overeenkomstig BRL K548 dan wel dubbelwandig is uitgevoerd met een systeem voor lekdetectie in de wand, dat voldoet aan BRL K910 en ten minste eens per jaar wordt beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit. In afwijking van de eerste twee volzinnen bedraagt de termijn 10 jaar indien de ondergrondse opslagtank is gelegen in een grondwaterbeschermingsgebied.   
-3.  Een ondergrondse opslagtank waarin afgewerkte olie is opgeslagen wordt ten minste eens in de vijf jaar overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument beoordeeld en goedgekeurd door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-4.  Een ondergrondse opslagtank als bedoeld in het eerste lid, wordt ten minste eens per jaar gecontroleerd op de aanwezigheid van water en bezinksel overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-5.  Indien tijdens de controle als bedoeld in het vierde lid, water of bezinksel is aangetroffen wordt dit onmiddellijk verwijderd. Van het verwijderde water worden de elektrische geleidbaarheid en de zuurgraad beoordeeld overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit. Indien op grond van de beoordeling overeenkomstig dit normdocument een inwendige beoordeling van de opslagtank noodzakelijk is, wordt dit terstond gemeld aan het bevoegd gezag en wordt een inwendige beoordeling uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-6.  Een ondergrondse opslagtank waarvan het vermoeden bestaat dat deze lek is of in een slechte toestand verkeert, wordt terstond op dichtheid gecontroleerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-7.  Een ondergrondse opslagtank waarin afgewerkte olie wordt opgeslagen wordt ten minste eens per jaar geleegd.   
-8.  Indien een beoordeling of controle als bedoeld in het eerste, tweede, derde, vijfde of zesde lid, leidt tot afkeuring van de ondergrondse opslagtank, wordt dit terstond gemeld aan het bevoegd gezag.   
-9.  Na de afkeuring als bedoeld in het achtste lid, wordt binnen acht weken het opslaan van vloeistoffen in de ondergrondse opslagtank beëindigd en de vloeistof die zich in de opslagtank bevindt, verwijderd.   
-10.  In afwijking van het eerste, tweede en vijfde lid, is een inwendige beoordeling bij de keuring van een ondergrondse opslagtank niet noodzakelijk indien deze opslagtank dubbelwandig is uitgevoerd met een systeem voor lekdetectie in de wand. Het systeem voor lekdetectie voldoet aan BRL K910 en wordt ten minste eens per jaar beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+1.  Een ondergrondse opslagtank met de daarbij behorende leidingen en appendages van staal of van kunststof waarin vloeibare brandstof of een organisch oplosmiddel als bedoeld in artikel 3.29, onderdelen c tot en met i, van het besluit dan wel de stof, bedoeld in artikel 3.29, onderdeel j, van het besluit is opgeslagen, wordt beoordeeld en gecontroleerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Voor een ondergrondse opslagtank met de daarbij behorende leidingen en appendages gelden de keurings- en herkeuringstermijnen van tabel 3.35.  Tabel 3.35 
+
+| (Her)keuringstermijnen voor een ondergrondse opslagtank met de daarbij behorende leidingen en appendages voor vloeistoffen van PGS-klasse 1 tot en met PGS-klasse 4  | Staal enkelwandig  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- | Jaarlijkse controle van het lekdetectiesysteem  |--- | Jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  | 15 jaar  | 20 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+
+| Kunststof enkelwandig of dubbelwandig  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| Kunststof tank Enkelwandige/dubbelwandige (GVK)  | 15 jaar  | 15 jaar  |
+
+3.  Een dubbelwandige ondergrondse opslagtank van staal met de daarbij behorende appendages en dubbelwandige leidingen wordt jaarlijks gecontroleerd op de goede werking.   
+4.  Bij de ondergrondse opslagtank, bedoeld in het eerste lid, vindt jaarlijks een controle plaats van: 
+
+a. de lekdetectie van een dubbelwandige opslagtank en de dubbelwandige leidingen, en  
+
+b. de aarding en de potentiaalvereffening van de vul- en dampretourleiding indien in de ondergrondse opslagtank vloeistoffen van PGS-klasse 1 en 2 zijn opgeslagen.     
+5.  Een ondergrondse opslagtank wordt bij herkeuring inwendig gereinigd en beoordeeld door middel van betreding van de tank. Inwendige inspectie met behulp van een camera is toegestaan bij een volledig inwendig gecoate tank, indien deze inspectie wordt uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument. Indien bij herkeuring een ondergrondse opslagtank niet kan worden betreden of, indien toegestaan, middels een camera-inspectie inwendig geïnspecteerd kan worden, wordt de opslagtank afgekeurd. Het gebruik van de opslagtank is in geval van afkeuring toegestaan tot de uiterste herkeuringsdatum.   
+6.  In afwijking van het tweede lid wordt een ondergrondse opslagtank eenmaal per tien jaar herkeurd indien de ondergrondse opslagtank is gelegen in een grondwaterbeschermingsgebied.   
+7.  In afwijking van het tweede lid wordt een ondergrondse opslagtank waarin afgewerkte olie is opgeslagen ten minste eenmaal per vijf jaar beoordeeld en gekeurd. De tank wordt daarbij ook inwendig beoordeeld.   
+8.  In afwijking van het vierde lid vindt de controle, bedoeld in artikel 3.36, vijfde lid, eenmaal per drie jaar plaats indien de opslagtank aantoonbaar is voorzien van een inwendige coating overeenkomstig BRL K779 en die coating is aangebracht door een bedrijf dat daartoe is gecertificeerd op basis van BRL K790.   
+9.  Een ondergrondse opslagtank waarvan het vermoeden bestaat dat deze lek is of in een slechte toestand verkeert, wordt terstond op dichtheid gecontroleerd.   
+10.  Een ondergrondse opslagtank waarin afgewerkte olie wordt opgeslagen, wordt ten minste eenmaal per jaar geleegd.   
+11.  Indien een beoordeling als bedoeld in het eerste, vijfde of zevende lid of een controle als bedoeld in het eerste, vierde, achtste, negende lid of als bedoeld in artikel 3.36, zesde lid, leidt tot afkeuring van de ondergrondse opslagtank, wordt dit terstond gemeld aan het bevoegd gezag. Na de afkeuring wordt binnen acht weken het opslaan van vloeistoffen in de ondergrondse opslagtank beëindigd en wordt de vloeistof die zich in de opslagtank bevindt, verwijderd.   
+12.  In afwijking van het vijfde, zevende lid en artikel 3.36, zesde lid, is een inwendige beoordeling of inwendige inspectie bij de keuring van een ondergrondse opslagtank niet noodzakelijk indien deze opslagtank dubbelwandig is uitgevoerd met een lekdetectiesysteem in de wand.   
+13.  Een elektronisch lekdetectiesysteem voldoet aan de voorschriften 2.2.5 tot en met 2.2.7 van PGS 28.   
 
 ### Artikel  3.36  
 
-1.  Een kathodische bescherming wordt ten minste eens per jaar op zijn goede werking gecontroleerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-2.  Indien uit de controle, bedoeld in het eerste lid, blijkt dat de kathodische bescherming niet goed functioneert, wordt deze direct hersteld overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-3.  Indien een ondergrondse opslagtank niet behoeft te zijn voorzien van een kathodische bescherming, wordt ten minste eens per 15 jaar een bodemweerstandsmeting uitgevoerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-4.  Indien een ondergrondse opslagtank niet is voorzien van een kathodische bescherming, wordt ten minste eens per jaar een stroomopdrukproef uitgevoerd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een instelling, die voor deze werkzaamheid beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), tenzij de specifieke elektrische weerstand van de bodem meer bedraagt dan 100 ohmmeter en beschadiging van de tankinstallatie door zwerfstromen niet te verwachten is.   
+1.  Een kathodische bescherming wordt ten minste eens per jaar op zijn goede werking gecontroleerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Plaatsen waar de uitwendige bekleding van de installatie is beschadigd en die niet kunnen worden gerepareerd, worden kathodisch beschermd indien de isolatieweerstand van de uitwendige bekleding groter is dan 25 kOhm per vierkante meter, bepaald volgens een daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+3.  Indien uit de controle, bedoeld in het eerste lid, blijkt dat de kathodische bescherming niet goed functioneert, wordt deze direct hersteld overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit.   
+4.  Indien een ondergrondse opslagtank van staal of de daarbij behorende stalen leidingen of appendages niet zijn voorzien van een kathodische bescherming, wordt ten minste eens per jaar een stroomopdrukproef uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een instelling, die voor deze werkzaamheid beschikt over een erkenning op grond van dat besluit, tenzij de specifieke elektrische weerstand van de bodem meer bedraagt dan 100 ohmmeter en beschadiging van de tankinstallatie door zwerfstromen niet te verwachten is.   
+5.  Bij de ondergrondse opslagtank, bedoeld in artikel 3.35, eerste lid, vindt jaarlijks een controle plaats op de aanwezigheid van water en bezinksel. Een jaarlijkse controle op de aanwezigheid van water en bezinksel is niet noodzakelijk indien vloeistoffen van PGS-klasse 4 in de ondergrondse opslagtank zijn opgeslagen.   
+6.  Indien tijdens de controle, bedoeld in het vijfde lid, water of bezinksel is aangetroffen, wordt dit terstond verwijderd. Van het verwijderde water worden de elektrische geleidbaarheid en de zuurgraad beoordeeld. Wanneer bij de derde opeenvolgende meting blijkt dat de zuurgraad en de elektrische geleidbaarheid van het in het bezinksel aangetroffen water buiten de normeisen vallen, wordt een inwendige inspectie van de ondergrondse opslagtank uitgevoerd. Indien een inwendige inspectie noodzakelijk is, wordt dit terstond gemeld aan het bevoegd gezag.   
 
 ### Artikel  3.37  
 
-1.  Een ondergrondse opslagtank met de daarbij behorende leidingen en appendages wordt binnen de in artikel 3.35, eerste, tweede en derde lid, genoemde termijnen verwijderd.   
-2.  Het eerste lid is niet van toepassing indien de opslagtank met de daarbij behorende leidingen en appendages binnen de in het eerste lid bedoelde termijnen is goedgekeurd overeenkomstig artikel 3.35, eerste, tweede of derde lid.   
-3.  Degene die het opslaan van vloeistof heeft beëindigd, verwijdert de ondergrondse opslagtank met de daarbij behorende leidingen en appendages binnen acht weken na de beëindiging. Indien verwijdering als gevolg van de ligging redelijkerwijs niet kan worden gevergd wordt de ondergrondse opslagtank met de daarbij behorende leidingen en appendages binnen acht weken na de beëindiging onklaar gemaakt.   
-4.  Het verwijderen of het onklaar maken van een ondergrondse opslagtank met de daarbij behorende leidingen en appendages geschiedt overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en wordt ten minste tien dagen voor aanvang van de werkzaamheden schriftelijk gemeld aan het bevoegd gezag.   
-5.  Na het verwijderen of het onklaar maken van de ondergrondse opslagtank met de daarbij behorende leidingen en appendages wordt een door een bedrijf als bedoeld in het vierde lid, opgestelde schriftelijke rapportage van het verwijderen of het onklaar maken binnen drie maanden na afronding van de werkzaamheden aan het bevoegd gezag overgelegd. In deze rapportage worden ten minste vermeld: 
+1.  Een ondergrondse opslagtank met de daarbij behorende leidingen en appendages die is afgekeurd, wordt binnen acht weken na afloop van de termijn, bedoeld in artikel 3.35, tweede lid, verwijderd.   
+2.  Degene die een ondergrondse opslagtank overeenkomstig het eerste lid verwijdert, verwijdert de ondergrondse opslagtank met de daarbij behorende leidingen en appendages binnen acht weken na het verstrijken van de keuringstermijn. Indien verwijdering als gevolg van de ligging redelijkerwijs niet kan worden gevergd wordt de ondergrondse opslagtank met de daarbij behorende leidingen en appendages binnen acht weken na het verstrijken van de keuringstermijn onklaar gemaakt.   
+3.  Het verwijderen of het onklaar maken van een ondergrondse opslagtank met de daarbij behorende leidingen en appendages geschiedt overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit en wordt ten minste tien dagen voor aanvang van de werkzaamheden schriftelijk gemeld aan het bevoegd gezag.   
+4.  Na het verwijderen of het onklaar maken van de ondergrondse opslagtank met de daarbij behorende leidingen en appendages wordt een door een bedrijf als bedoeld in het derde lid, opgestelde schriftelijke rapportage van het verwijderen of het onklaar maken binnen drie maanden na afronding van de werkzaamheden aan het bevoegd gezag overgelegd. In deze rapportage worden ten minste vermeld: 
 
 a. het adres waar de opslagtank is gelegen met een nadere aanduiding van de situering;  
 
 b. de vloeistoffen die in de opslagtank opgeslagen zijn geweest, en  
 
 c. indien de opslagtank onklaar gemaakt is, de wijze van het onklaar maken en de toegepaste vulmassa.     
-6.  Voordat een ondergrondse opslagtank onklaar wordt gemaakt wordt deze inwendig gereinigd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
-7.  Na het inwendig reinigen van de ondergrondse opslagtank wordt de opslagtank gevuld met een inerte vulmassa overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van [dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en wordt het vulpunt verwijderd, dan wel worden andere maatregelen getroffen, die verder gebruik voorkomen.   
+5.  Voordat een ondergrondse opslagtank onklaar wordt gemaakt wordt deze inwendig gereinigd.   
+6.  Indien de ondergrondse opslagtank onklaar wordt gemaakt, wordt de ondergrondse opslagtank na het inwendig reinigen gevuld met een inerte vulmassa overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit en wordt het vulpunt verwijderd, dan wel worden andere maatregelen getroffen, die verder gebruik voorkomen.   
+7.  Het inwendig reinigen van een ondergrondse opslagtank vindt plaats overeenkomstig een krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 
 ### Artikel  3.38  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico of het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 3.30 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het opslaan van stoffen als bedoeld in [artikel 3.29, onder a tot en met j, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ondergrondse opslagtanks alsmede het vullen en legen van deze opslagtanks voldaan aan de onderdelen 5.5.1, 6.1.2, 6.1.3, 6.2, 6.4, 7.4.4, 7.4.5, 7.5, 9.1, 9.2, 9.5 en 9.7 van PGS 28.   
-2.  Indien een ondergrondse opslagtank die gebruikt is voor opslag van afgewerkte olie gebruikt gaat worden voor het opslaan van een andere vloeistof dan afgewerkte olie vindt voor de wisseling van de opgeslagen vloeistof een beoordeling en goedkeuring van de opslagtank plaats overeenkomstig artikel 3.35, derde lid.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico of het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.30 van het besluit, wordt bij het opslaan van stoffen als bedoeld in artikel 3.29, onder a tot en met j, van het besluit in ondergrondse opslagtanks alsmede het vullen en legen van deze opslagtanks voldaan aan de volgende onderdelen van PGS 28: 
+
+a. de voorschriften 2.3.3 en 3.2.3 tot en met 3.2.5;  
+
+b. de paragrafen 3.3 en 5.2, en  
+
+c. de voorschriften 6.2.6 en 6.2.8.     
+2.  Indien een ondergrondse opslagtank die gebruikt is voor opslag van afgewerkte olie gebruikt gaat worden voor het opslaan van een andere vloeistof dan afgewerkte olie vindt voor de wisseling van de opgeslagen vloeistof een beoordeling en goedkeuring van de opslagtank plaats overeenkomstig artikel 3.35, eerste en tweede lid.   
+3.  Met inachtneming van de opslagcapaciteit, de aard van de opgeslagen vloeistoffen en de aard van de inrichting wordt bij inrichtingen waar lichte olie wordt afgeleverd een noodplan opgesteld overeenkomstig bijlage C van PGS 28. Dit noodplan is aanwezig bij de inrichting overeenkomstig de voorschriften 6.2.2 en 6.2.3 van PGS 28.   
+4.  Het legen van een ondergrondse opslagtank met afgewerkte olie vindt plaats overeenkomstig paragraaf 3.5 van PGS 28.   
 
 ### §  3.4.3  
 
@@ -1628,11 +1832,11 @@ c. indien de opslagtank onklaar gemaakt is, de wijze van het onklaar maken en de
 
 ### Artikel  3.39  
 
-Voor de toepassing van [artikel 3.31, vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden onder inerte goederen, in ieder geval de volgende goederen verstaan, voor zover deze niet verontreinigd zijn met bodembedreigende stoffen: 
+Voor de toepassing van artikel 3.31, vierde lid, van het besluit worden onder inerte goederen, in ieder geval de volgende goederen verstaan, voor zover deze niet verontreinigd zijn met bodembedreigende stoffen: 
 
-a. bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) die binnen dat besluit toepasbaar zijn, uitgezonderd IBC-bouwstoffen als bedoeld in dat artikel;  
+a. bouwstoffen als bedoeld in artikel 1 van het Besluit bodemkwaliteit die binnen dat besluit toepasbaar zijn, uitgezonderd IBC-bouwstoffen als bedoeld in dat artikel;  
 
-b. grond en baggerspecie als bedoeld in [artikel 39 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+b. grond en baggerspecie als bedoeld in artikel 39 van het Besluit bodemkwaliteit;  
 
 c. A-hout en ongeshredderd B-hout;  
 
@@ -1660,21 +1864,21 @@ n. vlakglas.
 
 ### Artikel  3.40  
 
-1.  Aan [artikel 3.32, aanhef en onder c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij buitenopslag van goederen in ieder geval voldaan indien: 
+1.  Aan artikel 3.32, aanhef en onder c, van het besluit wordt bij buitenopslag van goederen in ieder geval voldaan indien: 
 
 a. op de laad- en loskade tot 2 meter uit de kaderand of oever geen opslag van goederen plaatsvindt, of  
 
 b. er een deugdelijke keerwand aanwezig is en er geen product tussen de keerwand en de kade of oever ligt.     
-2.  Om te voldoen aan [artikel 3.32, aanhef en onder c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het laden en lossen van schepen het schoonmaken van grijpers zo uitgevoerd dat overslagresten of spoelwater niet in het oppervlaktewater geraken.   
+2.  Om te voldoen aan artikel 3.32, aanhef en onder c, van het besluit wordt bij het laden en lossen van schepen het schoonmaken van grijpers zo uitgevoerd dat overslagresten of spoelwater niet in het oppervlaktewater geraken.   
 
 ### Artikel  3.41  
 
-1.  Aan [artikel 3.32, aanhef en onder c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het laden en lossen van schepen met inerte goederen voldaan indien: 
+1.  Aan artikel 3.32, aanhef en onder c, van het besluit wordt bij het laden en lossen van schepen met inerte goederen voldaan indien: 
 
 a. bij het laden en lossen van inerte goederen de afstand tussen wal en schip zo klein mogelijk is, en in ieder geval niet groter is dan 5 meter, of  
 
 b. het schip, waarin of waaruit wordt overgeslagen, met de wal wordt verbonden door een ponton of een morsklep.     
-2.  Aan [artikel 3.32, aanhef en onder c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het laden en lossen van schepen met andere goederen dan inerte goederen voldaan indien: 
+2.  Aan artikel 3.32, aanhef en onder c, van het besluit wordt bij het laden en lossen van schepen met andere goederen dan inerte goederen voldaan indien: 
 
 a. bij het laden en lossen van gevaarlijke stoffen, CMR-stoffen en goederen waaruit vloeibare bodembedreigende stoffen kunnen lekken de afstand tussen wal en schip zo klein mogelijk is, en in ieder geval niet groter is dan 1 meter,  
 
@@ -1699,13 +1903,13 @@ b. boven een doelmatige fysieke voorziening die vrijgekomen stoffen keert zolang
 3.  In afwijking van het tweede lid vindt de opslag plaats boven een vloeistofkerende voorziening indien deze zodanig tegen inregenen is beschermd dat uitlogen wordt voorkomen.   
 4.  In afwijking van het tweede lid vindt de opslag van zink plaats boven een bodembeschermende voorziening, indien opslag overeenkomstig het derde lid redelijkerwijs niet mogelijk is.   
 5.  Het bevoegd gezag kan bij maatwerkvoorschrift bepalen dat voor de opslag van andere metalen dan zink het tweede lid niet van toepassing is, indien opslag conform het derde lid redelijkerwijs niet mogelijk is, de opslag plaatsvindt boven ten minste een vloeistofkerende voorziening, en het belang van de bescherming van het milieu zich daartegen niet verzet.   
-6.  C-hout met KOMO-certificaat, grond en niet verpompbare baggerspecie, bedoeld en geschikt voor toepassing overeenkomstig het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), die ter plaatse van de opslag niet voldoen aan de [artikelen 52](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [59](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) of [60 van dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), worden opgeslagen boven een bodembeschermende voorziening.   
-7.  Verpompbare baggerspecie, bedoeld en geschikt voor toepassing overeenkomstig het Besluit bodemkwaliteit, die ter plaatse van de opslag niet voldoet aan de [artikelen 52](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [59](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) of [60 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) wordt opgeslagen in een foliebassin.   
+6.  C-hout met KOMO-certificaat, grond en niet verpompbare baggerspecie, bedoeld en geschikt voor toepassing overeenkomstig het Besluit bodemkwaliteit, die ter plaatse van de opslag niet voldoen aan de artikelen 52, 59 of 60 van dat besluit, worden opgeslagen boven een bodembeschermende voorziening.   
+7.  Verpompbare baggerspecie, bedoeld en geschikt voor toepassing overeenkomstig het Besluit bodemkwaliteit, die ter plaatse van de opslag niet voldoet aan de artikelen 52, 59 of 60 van het Besluit bodemkwaliteit wordt opgeslagen in een foliebassin.   
 8.  Op het opslaan, bedoeld in het zevende lid, zijn de artikelen 3.68 en 3.69 van overeenkomstige toepassing.   
 
 ### Artikel  3.44  
 
-1.  Voor de toepassing van [paragraaf 3.3.3. van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en de artikelen 3.42 en 3.43 worden als goederen waaruit vloeibare bodembedreigende stoffen kunnen lekken, in ieder geval aangemerkt: 
+1.  Voor de toepassing van paragraaf 3.3.3. van het besluit en de artikelen 3.42 en 3.43 worden als goederen waaruit vloeibare bodembedreigende stoffen kunnen lekken, in ieder geval aangemerkt: 
 
 a. nat afval van het vegen van openbare straten en terreinen, markten en evenementen;  
 
@@ -1719,11 +1923,11 @@ e. autowrakken die vloeistoffen bevatten;
 
 f. onderdelen van autowrakken die vloeistoffen bevatten;  
 
-g. van buiten de inrichting afkomstige grond of baggerspecie waarvan de kwaliteit niet is vastgesteld op grond van [artikel 38 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+g. van buiten de inrichting afkomstige grond of baggerspecie waarvan de kwaliteit niet is vastgesteld op grond van artikel 38 van het Besluit bodemkwaliteit;  
 
-h. van buiten de inrichting afkomstige grond of baggerspecie waarvan de kwaliteit de waarden, bedoeld in de [artikelen 59](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [60, van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) overschrijdt, tenzij die ter plaatse van de opslag voldoet aan [artikel 52 van dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+h. van buiten de inrichting afkomstige grond of baggerspecie waarvan de kwaliteit de waarden, bedoeld in de artikelen 59 en 60, van het Besluit bodemkwaliteit overschrijdt, tenzij die ter plaatse van de opslag voldoet aan artikel 52 van dat besluit;  
 
-i. afgedankte elektrische en elektronische apparatuur, waaruit vloeibare bodembedreigende stoffen kunnen lekken, uitgezonderd de apparatuur van particuliere huishoudens, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) die overeenkomstig [artikel 4 van die regeling](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) is ingenomen;  
+i. afgedankte elektrische en elektronische apparatuur, waaruit vloeibare bodembedreigende stoffen kunnen lekken, uitgezonderd de apparatuur van particuliere huishoudens, bedoeld in artikel 1, eerste lid, onderdeel i, van de Regeling beheer elektrische en elektronische apparatuur die overeenkomstig artikel 4 van die regeling is ingenomen;  
 
 j. metalen met aanhangende olie of emulsie voorafgaand aan en tijdens scheiding;  
 
@@ -1738,7 +1942,7 @@ n. beschadigde oliehoudende apparaten;
 o. betonproducten in bekisting, waaruit ontkistingsmiddelen kunnen lekken.     
 2.  Voor de toepassing van artikel 3.43 worden onder goederen waaruit een significante hoeveelheid bodembedreigende stoffen kunnen uitlogen, in ieder geval verstaan: 
 
-a. IBC-bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+a. IBC-bouwstoffen als bedoeld in artikel 1 van het Besluit bodemkwaliteit;  
 
 b. metalen met aanhangende olie of emulsie resterende na afscheiden van de olie of emulsie door centrifugeren of 48 uur uitlekken;  
 
@@ -1768,12 +1972,12 @@ n. droog afval van het vegen van openbare straten en terreinen, markten en evene
 
 o. droog afval van het legen van openbare afvalbakken en het opruimen van stranden;  
 
-p. restafval waarin vaste bodembedreigende stoffen die in een significante hoeveelheid kunnen uitlogen, kan voorkomen, tenzij toepassing is gegeven aan [artikel 2.14b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of anderszins is geborgd dat dit deze stoffen niet bevat.     
+p. restafval waarin vaste bodembedreigende stoffen die in een significante hoeveelheid kunnen uitlogen, kan voorkomen, tenzij toepassing is gegeven aan artikel 2.14b van het besluit of anderszins is geborgd dat dit deze stoffen niet bevat.     
 
 ### Artikel  3.45  
 
-1.  [Artikel 2.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is niet van toepassing op het opslaan van grond en baggerspecie als bedoeld in [artikel 35 van het Besluit bodemkwaliteit,](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor zover het opslaan van grond en baggerspecie binnen de inrichting eenmalig plaatsvindt.   
-2.  Het eerste lid van [artikel 2.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is niet van toepassing op het opslaan van grond en baggerspecie als bedoeld in [artikel 35 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), voor zover het opslaan van grond en baggerspecie binnen de inrichting vaker dan eenmalig plaatsvindt.   
+1.  Artikel 2.11 van het besluit is niet van toepassing op het opslaan van grond en baggerspecie als bedoeld in artikel 35 van het Besluit bodemkwaliteit, voor zover het opslaan van grond en baggerspecie binnen de inrichting eenmalig plaatsvindt.   
+2.  Het eerste lid van artikel 2.11 van het besluit is niet van toepassing op het opslaan van grond en baggerspecie als bedoeld in artikel 35 van het Besluit bodemkwaliteit, voor zover het opslaan van grond en baggerspecie binnen de inrichting vaker dan eenmalig plaatsvindt.   
 
 ### Artikel  3.46  
 
@@ -1782,42 +1986,42 @@ p. restafval waarin vaste bodembedreigende stoffen die in een significante hoeve
 
 ### Artikel  3.47  
 
-1.  Aan [artikel 3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij de buitenopslag van goederen behorend tot de stuifklasse S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien de stoffen door besproeiing vochtig worden gehouden.   
-2.  Aan [artikel 3.38, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij opslag van goederen behorend tot de stuifklasse S1 en S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien afgezogen lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+1.  Aan artikel 3.32, aanhef en onder a en b, van het besluit wordt bij de buitenopslag van goederen behorend tot de stuifklasse S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien de stoffen door besproeiing vochtig worden gehouden.   
+2.  Aan artikel 3.38, tweede lid, van het besluit wordt bij opslag van goederen behorend tot de stuifklasse S1 en S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien afgezogen lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
 
 ### Artikel  3.48  
 
-1.  Aan [artikel 3.38, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het mengen van goederen behorend tot de stuifklassen S1, S2, S3 of S4 van bijlage 4.6 van de NeR in een gesloten ruimte in ieder geval voldaan indien de ruimte op onderdruk wordt gehouden en de afgezogen lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
-2.  Aan [artikel 3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het mengen van goederen behorend tot de stuifklasse S2 en S4 van bijlage 4.6 van de NeR in de buitenlucht in ieder geval voldaan indien bij het opbouwen en afgraven van een menghoop deze goederen worden bevochtigd.   
+1.  Aan artikel 3.38, tweede lid, van het besluit wordt bij het mengen van goederen behorend tot de stuifklassen S1, S2, S3 of S4 van bijlage 4.6 van de NeR in een gesloten ruimte in ieder geval voldaan indien de ruimte op onderdruk wordt gehouden en de afgezogen lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+2.  Aan artikel 3.32, aanhef en onder a en b, van het besluit wordt bij het mengen van goederen behorend tot de stuifklasse S2 en S4 van bijlage 4.6 van de NeR in de buitenlucht in ieder geval voldaan indien bij het opbouwen en afgraven van een menghoop deze goederen worden bevochtigd.   
 
 ### Artikel  3.49  
 
-1.  Aan [artikel 3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij overslag van stuifgevoelige goederen in ieder geval voldaan indien: 
+1.  Aan artikel 3.32, aanhef en onder a en b, van het besluit wordt bij overslag van stuifgevoelige goederen in ieder geval voldaan indien: 
 
 a. bij het laden en lossen in de open lucht de storthoogte wordt beperkt tot minder dan één meter,  
 
 b. goederen uit de stuifklasse S2 en S4 van bijlage 4.6 van de NeR afdoende worden bevochtigd, zo mogelijk vooraf, of  
 
 c. de stofemissie van goederen uit de stuifklasse S2 en S4 van bijlage 4.6 van de NeR tijdens het laden en lossen met een nevelgordijn wordt tegengegaan.     
-2.  Aan [artikel 3.38 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het vullen van een gesloten opslagruimte met goederen behorend tot de stuifklasse S1 en S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien het overstortpunt en daarmee de ruimte worden afgezogen, en de afgezogen luchtstroom wordt gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+2.  Aan artikel 3.38 van het besluit wordt bij het vullen van een gesloten opslagruimte met goederen behorend tot de stuifklasse S1 en S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien het overstortpunt en daarmee de ruimte worden afgezogen, en de afgezogen luchtstroom wordt gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
 
 ### Artikel  3.50  
 
-1.  Onverminderd artikel 3.49 wordt aan de [artikelen 3.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij continu mechanisch transport van goederen behorend tot stofklasse S1 en S3 van bijlage 4.6 van de NeR in ieder geval voldaan indien deze in een gesloten systeem worden getransporteerd, waarbij: 
+1.  Onverminderd artikel 3.49 wordt aan de artikelen 3.38 en 3.32, aanhef en onder a en b, van het besluit bij continu mechanisch transport van goederen behorend tot stofklasse S1 en S3 van bijlage 4.6 van de NeR in ieder geval voldaan indien deze in een gesloten systeem worden getransporteerd, waarbij: 
 
 a. de inlaat- en afwerpzijde van de transporteur zijn omkast, deze omkasting continu wordt afgezogen en het afgezogen stof zoveel mogelijk wordt teruggevoerd in de productstroom, of  
 
 b. de inlaat- en afwerpzijde van de transporteur zijn voorzien van een afscherming in de vorm van windreductieschermen of sproeiers.     
-2.  Onverminderd artikel 3.49 wordt aan de [artikelen 3.38, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij continu mechanisch transport van goederen behorend tot stuifklasse S2 en S4 van bijlage 4.6 van de NeR in ieder geval voldaan indien: 
+2.  Onverminderd artikel 3.49 wordt aan de artikelen 3.38, tweede lid, van het besluit en 3.32, aanhef en onder a en b, van het besluit bij continu mechanisch transport van goederen behorend tot stuifklasse S2 en S4 van bijlage 4.6 van de NeR in ieder geval voldaan indien: 
 
 a. goederen die in een open systeem worden getransporteerd zodanig worden bevochtigd, dat verstuiving wordt voorkomen, of  
 
 b. open transportsystemen in de buitenlucht worden afgeschermd tegen windinvloeden door middel van langsschermen, dwarsschermen of halfronde overkappingen.     
-3.  Onverminderd artikel 3.49 wordt aan de [artikelen 3.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij continu mechanisch transport van goederen behorend tot stuifklasse S3 van bijlage 4.6 van de NeR in ieder geval voldaan indien goederen in open transportsystemen in de buitenlucht worden afgeschermd tegen windinvloeden door middel van langsschermen, dwarsschermen of halfronde overkappingen.   
+3.  Onverminderd artikel 3.49 wordt aan de artikelen 3.38 en 3.32, aanhef en onder a en b, van het besluit bij continu mechanisch transport van goederen behorend tot stuifklasse S3 van bijlage 4.6 van de NeR in ieder geval voldaan indien goederen in open transportsystemen in de buitenlucht worden afgeschermd tegen windinvloeden door middel van langsschermen, dwarsschermen of halfronde overkappingen.   
 
 ### Artikel  3.51  
 
-Onverminderd artikel 3.49 wordt aan de [artikelen 3.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij het overslaan van goederen behorend tot: 
+Onverminderd artikel 3.49 wordt aan de artikelen 3.38 en 3.32, aanhef en onder a en b, van het besluit bij het overslaan van goederen behorend tot: 
 
 a. stuifklasse S1 van bijlage 4.6 van de NeR door middel van storttrechters in ieder geval voldaan indien de trechters zijn voorzien van een afzuiginrichting;  
 
@@ -1829,15 +2033,15 @@ d. stuifklasse S4 van bijlage 4.6 van de NeR door middel van storttrechters in 
 
 ### Artikel  3.52  
 
-Onverminderd artikel 3.49 wordt aan de [artikelen 3.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij het laden en lossen van goederen behorend tot stuifklasse S1, S2 en S3 van bijlage 4.6 van de NeR met behulp van grijpers in ieder geval voldaan indien het laden en lossen plaatsvindt met deugdelijke en van de bovenkant afgesloten grijpers.  
+Onverminderd artikel 3.49 wordt aan de artikelen 3.38 en 3.32, aanhef en onder a en b, van het besluit bij het laden en lossen van goederen behorend tot stuifklasse S1, S2 en S3 van bijlage 4.6 van de NeR met behulp van grijpers in ieder geval voldaan indien het laden en lossen plaatsvindt met deugdelijke en van de bovenkant afgesloten grijpers.  
 
 ### Artikel  3.53  
 
-Onverminderd artikel 3.49 wordt aan de [artikelen 3.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij het beladen en lossen van lichters met goederen behorend tot de stuifklasse S1, S2, S3 en S4 van bijlage 4.6 van de NeR in ieder geval voldaan indien de lichterbelader is uitgerust met een stortkoker die nagenoeg tot op de bodem van het ruim of tot op het reeds gestorte materiaal reikt.  
+Onverminderd artikel 3.49 wordt aan de artikelen 3.38 en 3.32, aanhef en onder a en b, van het besluit bij het beladen en lossen van lichters met goederen behorend tot de stuifklasse S1, S2, S3 en S4 van bijlage 4.6 van de NeR in ieder geval voldaan indien de lichterbelader is uitgerust met een stortkoker die nagenoeg tot op de bodem van het ruim of tot op het reeds gestorte materiaal reikt.  
 
 ### Artikel  3.54  
 
-Onverminderd artikel 3.49 wordt aan de [artikelen 3.38](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.32, aanhef en onder a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bij het laden en lossen van stuifgevoelige goederen met behulp van pneumatische elevatoren in ieder geval voldaan indien stofverspreiding wordt tegengegaan door: 
+Onverminderd artikel 3.49 wordt aan de artikelen 3.38 en 3.32, aanhef en onder a en b, van het besluit bij het laden en lossen van stuifgevoelige goederen met behulp van pneumatische elevatoren in ieder geval voldaan indien stofverspreiding wordt tegengegaan door: 
 
 a. de weegbunkers en overstortpunten gesloten uit te voeren,  
 
@@ -1847,12 +2051,14 @@ c. de stortschoen af te zuigen.
 
 ### Artikel  3.55  
 
-1.  Ten behoeve van het voorkomen dan wel beperken van diffuse emissie en het bevorderen van de doelmatige verspreiding van emissies naar de buitenlucht worden ten minste bij het inpandig opslaan en overslaan van stuifgevoelige goederen de emissies, bedoeld in [artikel 3.38 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw is gelegen, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
-2.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen met betrekking tot de ligging en uitvoering van het afvoerpunt van de emissies naar de lucht, bedoeld in [artikel 3.38 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).   
+1.  Ten behoeve van het voorkomen dan wel beperken van diffuse emissie en het bevorderen van de doelmatige verspreiding van emissies naar de buitenlucht worden ten minste bij het inpandig opslaan en overslaan van stuifgevoelige goederen de emissies, bedoeld in artikel 3.38 van het besluit, die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw is gelegen, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
+2.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen met betrekking tot de ligging en uitvoering van het afvoerpunt van de emissies naar de lucht, bedoeld in artikel 3.38 van het besluit.   
 
 ### §  3.4.4  
 
 ####Het demonteren van autowrakken
+
+Vervallen per 01-01-2013   
 
 ### §  3.4.5  
 
@@ -1860,7 +2066,7 @@ c. de stortschoen af te zuigen.
 
 ### Artikel  3.65  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en ten behoeve van het voorkomen van de verontreiniging van een oppervlaktewaterlichaam op grond van [artikel 3.48 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het opslaan van agrarische bedrijfsstoffen voldaan aan het tweede tot en met negende lid.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en ten behoeve van het voorkomen van de verontreiniging van een oppervlaktewaterlichaam op grond van artikel 3.48 van het besluit wordt bij het opslaan van agrarische bedrijfsstoffen voldaan aan het tweede tot en met negende lid.   
 2.  Indien agrarische bedrijfsstoffen langer dan twee weken maar korter dan een half jaar op een onverhard oppervlak op een locatie worden opgeslagen, vindt het opslaan in elk geval plaats: 
 
 a. boven een absorberende laag met een dikte van ten minste 0,15 meter en een organische stofgehalte van ten minste 25%, en  
@@ -1876,7 +2082,7 @@ b. zodanig dat contact met hemelwater wordt voorkomen.
 a. in een afgedekte container en wordt de pluimveemest ten minste eenmaal per twee weken uit de inrichting afgevoerd, of  
 
 b. in een speciaal hiervoor bestemde afgesloten ruimte met een mestdichte vloer en voldoende ventilatie.     
-9.  [Artikel 2.11, eerste tot en met negende lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is niet van toepassing op het opslaan van agrarische bedrijfsstoffen.   
+9.  Artikel 2.11, eerste tot en met negende lid, van het besluit is niet van toepassing op het opslaan van agrarische bedrijfsstoffen.   
 
 ### §  3.4.6  
 
@@ -1884,8 +2090,8 @@ b. in een speciaal hiervoor bestemde afgesloten ruimte met een mestdichte vloer 
 
 ### Artikel  3.66  
 
-1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de emissie van ammoniak op grond van [artikel 3.52, onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het opslaan van drijfmest of digestaat voldaan aan de artikelen 3.67 tot en met 3.69.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico op grond van [artikel 3.52, onder b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het opslaan van drijfmest of digestaat voldaan aan de artikelen 3.68 tot en met 3.70.   
+1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de emissie van ammoniak op grond van artikel 3.52, onder a, van het besluit wordt bij het opslaan van drijfmest of digestaat voldaan aan de artikelen 3.67 tot en met 3.69.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico op grond van artikel 3.52, onder b, van het besluit wordt bij het opslaan van drijfmest of digestaat voldaan aan de artikelen 3.68 tot en met 3.70.   
 
 ### Artikel  3.67  
 
@@ -1899,7 +2105,7 @@ Een mestbassin, niet zijnde een mestkelder, is voorzien van een afdekking.
 
 ### Artikel  3.69  
 
-1.  Een mestbassin en een afdekking worden overeenkomstig het daartoe in de [Regeling bodemkwaliteit](../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md) aangewezen normdocument beoordeeld en goedgekeurd door een persoon of instelling, die daartoe beschikt over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
+1.  Een mestbassin en een afdekking worden overeenkomstig het daartoe in de Regeling bodemkwaliteit aangewezen normdocument beoordeeld en goedgekeurd door een persoon of instelling, die daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit.   
 2.  De beoordeling, bedoeld in het eerste lid, vindt plaats ten minste vier weken voor het aflopen van de referentieperiode mestbassins.   
 3.  Bij goedkeuring van een mestbassin en een afdekking wordt door de persoon of instelling, bedoeld in het eerste lid, een nieuwe referentieperiode mestbassins vastgesteld.   
 4.  Indien de goedkeuring, bedoeld in het derde lid, onder voorwaarden wordt gegeven, wordt binnen een termijn, gesteld door een persoon of instelling als bedoeld in het eerste lid, aan die voorwaarden voldaan.   
@@ -1924,7 +2130,7 @@ Het vul- en zuigpunt van een mestbassin bevindt zich boven een lekbak.
 
 ### Artikel  3.71  
 
-1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geurhinder op grond van [artikel 3.54 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het opslaan van vloeibare bijvoedermiddelen voldaan aan het tweede en derde lid.   
+1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geurhinder op grond van artikel 3.54 van het besluit wordt bij het opslaan van vloeibare bijvoedermiddelen voldaan aan het tweede en derde lid.   
 2.  Het opslaan van vloeibare bijvoedermiddelen vindt plaats in een gesloten systeem.   
 3.  Het bevoegd gezag kan, indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt, met inachtneming van de NeR bij maatwerkvoorschrift eisen stellen aan: 
 
@@ -1940,7 +2146,7 @@ c. de situering van het opslaan van de bijvoedermiddelen ten opzichte van geurge
 
 ### Artikel  3.71a  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 3.54b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is in de vulplaats bij het vullen van gasflessen ten hoogste 300 liter aan gassen in flessen aanwezig.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.54b van het besluit is in de vulplaats bij het vullen van gasflessen ten hoogste 300 liter aan gassen in flessen aanwezig.   
 2.  Het vulstation voldoet aan paragraaf 8.2.1, 8.2.2 en 8.2.6, 11.1, 12.1 en bijlage III van PGS 23.   
 
 ### §  3.4.9  
@@ -1949,9 +2155,9 @@ c. de situering van het opslaan van de bijvoedermiddelen ten opzichte van geurge
 
 ### Artikel  3.71b  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 3.54d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet de opslag van gasolie en afgewerkte olie in bovengrondse opslagtanks aan de artikelen 3.71c tot en met 3.71h.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 3.54d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet de opslag van smeerolie in bovengrondse opslagtanks aan de artikelen 3.71f en 3.71h.   
-3.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van verontreiniging van een oppervlaktewaterlichaam als bedoeld in [artikel 3.54d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet de opslag van gasolie, smeerolie of afgewerkte olie in bovengrondse opslagtanks boven een oppervlaktewaterlichaam aan de artikelen 3.71g en 3.71h.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.54d van het besluit, voldoet de opslag van gasolie en afgewerkte olie in bovengrondse opslagtanks aan de artikelen 3.71c tot en met 3.71h.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.54d van het besluit voldoet de opslag van smeerolie in bovengrondse opslagtanks aan de artikelen 3.71f en 3.71h.   
+3.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van verontreiniging van een oppervlaktewaterlichaam als bedoeld in artikel 3.54d van het besluit voldoet de opslag van gasolie, smeerolie of afgewerkte olie in bovengrondse opslagtanks boven een oppervlaktewaterlichaam aan de artikelen 3.71g en 3.71h.   
 4.  Het eerste lid is niet van toepassing op de opslag van afgewerkte olie van een gasgestookte warmtekrachtinstallatie waaraan geen stoffen zijn toegevoegd en welke geen lager vlampunt heeft dan 55°C.   
 
 ### Artikel  3.71c  
@@ -1963,21 +2169,76 @@ c. de situering van het opslaan van de bijvoedermiddelen ten opzichte van geurge
 
 ### Artikel  3.71d  
 
-1.  Stationaire bovengrondse opslagtanks met de daarbij behorende leidingen en appendages voor de opslag van gasolie en afgewerkte olie zijn uitgevoerd en geïnstalleerd en worden gerepareerd of vervangen overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-2.  De opslag van de in het eerste lid genoemde stoffen in stationaire bovengrondse opslagtanks inclusief de bijbehorende leidingen en appendages voldoet aan de voorschriften 4.1.3, 4.2.4 tot en met 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.1 tot en met 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.2, 4.5.3, 4.5.9, 4.5.12 en de voorschriften in paragraaf 4.6 van PGS 30.   
-3.  Onverminderd voorschrift 4.2.9 van PGS 30 wordt de kathodische bescherming voor ondergrondse stalen leidingen jaarlijks op zijn goede werking gecontroleerd overeenkomstig artikel 3.36, eerste en tweede lid.   
-4.  Het lekdetectiesysteem bij dubbelwandige stationaire bovengrondse opslagtanks voor opslag van de in het eerste lid genoemde stoffen wordt eenmaal per jaar overeenkomstig KC 111 gecontroleerd op een goede werking. Bij het constateren van gebreken die kunnen leiden tot het optreden van niet gedetecteerde lekken, wordt het lekdetectiesysteem binnen een periode van een maand hersteld. Van de controle wordt een aantekening in het logboek gemaakt.   
-5.  In afwijking van voorschrift 4.4.4 van PGS 30 hoeft een stationaire bovengrondse opslagtank met afgewerkte olie niet te worden gecontroleerd op de aanwezigheid van water. Stationaire bovengrondse opslagtanks met afgewerkte olie worden jaarlijks geledigd door een hiervoor erkende verwerker.   
-6.  Alle stationaire bovengrondse opslagtanks voor opslag van de in het eerste lid genoemde stoffen worden onderhouden en beoordeeld overeenkomstig KC 111.   
+1.  Een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor het opslaan van gasolie en afgewerkte olie is uitgevoerd en geïnstalleerd en wordt gerepareerd of vervangen en beoordeeld of gecontroleerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het opslaan van gasolie en afgewerkte olie in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voldoet aan de volgende onderdelen van PGS 30: 
+
+a. de paragrafen 2.2 en 2.3;  
+
+b. de voorschriften 2.4.3, 2.6.1, 2.6.3 tot en met 2.6.6 en 2.6.14, en  
+
+c. paragraaf 4.2, met uitzondering van de voorschriften 4.2.3, 4.2.9, 4.2.12, 4.2.13, eerste volzin, en tabel 4.1.     
+3.  Een opslagtank als bedoeld in het eerste lid bevindt zich niet op een verdieping.   
+4.  Het gebruik van een opslagtank waarin het opslaan, vullen en afleveren van gasolie en afgewerkte olie plaatsvindt in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages, voldoet aan de volgende onderdelen van PGS 30: 
+
+a. voorschrift 3.2.4;  
+
+b. de paragrafen 3.3, 3.5, 3.6, 5.2, 5.4, en  
+
+c. de voorschriften 5.5.1, 5.5.2, 5.6.1, 5.6.3 en 5.6.4.     
+5.  Een stationaire bovengrondse opslagtank voor het inpandig opslaan van gasolie en afgewerkte olie in een werkruimte, in een ruimte met een noodstroomaggregaat of onder een woning heeft een inhoud van ten hoogste 3 kubieke meter.   
+6.  Voor een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages gelden de keurings- en herkeuringstermijnen van tabel 3.71d.  Tabel 3.71d 
+
+| (Her)keuringstermijnen voor een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor vloeistoffen van PGS-klasse 2 tot en met PGS-klasse 4  | Staal enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectiepot-systeem  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- | jaarlijkse controle van het lekdetectiesysteem  |--- | jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  | 15 jaar  | 20 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+
+| Kunststof enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| --- | 15 jaar  | 15 jaar  |
+
+| Kunststof dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- |--- | jaarlijkse controle van het lekdetectiesysteem  |--- | jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|---|
+| --- | 15 jaar  | 20 jaar  | 15 jaar  | 20 jaar  |
+
+7.  Een dubbelwandige stationaire bovengrondse opslagtank van staal of kunststof met de daarbij behorende appendages en dubbelwandige leidingen wordt jaarlijks op de goede werking gecontroleerd.   
+8.  Bij de bovengrondse opslagtank, bedoeld in het eerste lid, vindt een jaarlijkse controle plaats: 
+
+a. van de kathodische bescherming van ondergrondse leidingen;  
+
+b. van de lekdetectie van een dubbelwandige opslagtank en de dubbelwandige leidingen;  
+
+c. van de aarding en de potentiaalvereffening van de vul- en dampretourleiding indien in de bovengrondse opslagtank vloeistoffen van PGS-klasse 1 en 2 zijn opgeslagen;  
+
+d. op de aanwezigheid van water en bezinksel in een stalen bovengrondse opslagtank. Een jaarlijkse controle op de aanwezigheid van water en bezinksel is niet noodzakelijk indien vloeistoffen van PGS-klasse 4 in de bovengrondse tank zijn opgeslagen.     
+9.  Een bovengrondse opslagtank wordt bij herkeuring inwendig gereinigd en beoordeeld door middel van betreding van de tank. Inwendige inspectie met behulp van een camera is toegestaan bij een volledig inwendig gecoate tank, indien deze inspectie wordt uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument. Indien bij herkeuring een ondergrondse opslagtank niet kan worden betreden of, indien toegestaan, middels een camera-inspectie inwendig geïnspecteerd kan worden, wordt de opslagtank afgekeurd. Het gebruik van de opslagtank is in geval van afkeuring toegestaan tot de uiterste herkeuringsdatum.   
+10.  Het bevoegd gezag kan ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bij maatwerkvoorschrift het derde lid niet van toepassing verklaren en toestaan dat een opslagtank zich op een verdieping bevindt.   
+11.  Bij een maatwerkvoorschrift als bedoeld in het tiende lid kunnen eisen worden gesteld om de toegankelijkheid van de opslagtank voor de brandbestrijding te borgen.   
+12.  In afwijking van het achtste lid vindt de controle, bedoeld in onderdeel d van dat lid, eenmaal per drie jaar plaats indien de opslagtank aantoonbaar is voorzien van een inwendige coating overeenkomstig BRL K779 en die coating is aangebracht door een bedrijf dat daartoe is gecertificeerd op basis van BRL K790.   
+13.  Indien tijdens de controle, bedoeld in het achtste lid, onderdeel d, water of bezinksel is aangetroffen, wordt dit terstond verwijderd. Van het verwijderde water worden de elektrische geleidbaarheid en de zuurgraad beoordeeld. Wanneer bij de derde opeenvolgende meting blijkt dat de zuurgraad en de elektrische geleidbaarheid van het in het bezinksel aangetroffen water buiten de normeisen vallen, wordt een inwendige inspectie van de bovengrondse opslagtank uitgevoerd. Indien een inwendige inspectie noodzakelijk is, wordt dit terstond gemeld aan het bevoegd gezag.   
+14.  In afwijking van het negende en dertiende lid is een inwendige beoordeling of inwendige inspectie bij de keuring van een bovengrondse opslagtank niet noodzakelijk indien deze opslagtank dubbelwandig is uitgevoerd met een lekdetectiesysteem in de wand.   
 
 ### Artikel  3.71e  
 
-De opslag van gasolie in mobiele bovengrondse opslagtanks inclusief de bijbehorende leidingen en appendages, voldoet aan paragraaf 4.9 van PGS 30.  
+De opslag van gasolie in mobiele bovengrondse opslagtanks inclusief de bijbehorende leidingen en appendages, voldoet aan bijlage D van PGS 30.  
 
 ### Artikel  3.71f  
 
 1.  De opslag van gasolie, smeerolie en afgewerkte olie in bovengrondse opslagtanks vindt plaats boven een lekbak.   
-2.  Het eerste lid is niet van toepassing op een opslagtank die dubbelwandig is uitgevoerd met een systeem voor lekdetectie dat ten minste eenmaal per jaar wordt beoordeeld en is goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het eerste lid is niet van toepassing op een opslagtank die dubbelwandig is uitgevoerd met een systeem voor lekdetectie dat ten minste eenmaal per jaar wordt beoordeeld en is goedgekeurd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 3.  De vulpunten en aftappunten van een bovengrondse opslagtank met gasolie, smeerolie en afgewerkte olie zijn geplaatst boven een vloeistofdichte vloer of verharding of boven of in een lekbak.   
 4.  De opslagtank en de vulleiding zijn voorzien van een overvulbeveiliging.   
 5.  Boven de lekbak, bedoeld in het eerste lid, vindt geen opslag van andere gevaarlijke stoffen plaats, indien die kunnen reageren met de stoffen in de bovengrondse opslagtank.   
@@ -1985,7 +2246,7 @@ De opslag van gasolie in mobiele bovengrondse opslagtanks inclusief de bijbehore
 ### Artikel  3.71g  
 
 1.  De opslag van gasolie, smeerolie en afgewerkte olie in bovengrondse opslagtanks boven een oppervlaktewaterlichaam vindt plaats boven een voorziening die zich rondom of onder de opgeslagen stoffen bevindt en in staat is de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen op te vangen.   
-2.  Het eerste lid is niet van toepassing op een opslagtank die dubbelwandig is uitgevoerd met een systeem voor lekdetectie dat ten minste eenmaal per jaar wordt beoordeeld en is goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het eerste lid is niet van toepassing op een opslagtank die dubbelwandig is uitgevoerd met een systeem voor lekdetectie dat ten minste eenmaal per jaar wordt beoordeeld en is goedgekeurd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 3.  De vulpunten en aftappunten van een bovengrondse opslagtank met gasolie, smeerolie en afgewerkte olie boven een oppervlaktewaterlichaam zijn geplaatst boven of in een voorziening die zich rondom of onder de opgeslagen stoffen bevindt en die de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen kan opvangen.   
 4.  De voorzieningen, bedoeld in het eerste en derde lid, zijn zodanig uitgevoerd dat: 
 
@@ -2005,7 +2266,7 @@ b. er geen hemelwater op of in terecht kan komen, tenzij het hemelwater regelmat
 
 ####Agrarische activiteiten
 
-### §  3.5.1.  
+### §  3.5.1  
 
 ####Telen of kweken van gewassen in een kas
 
@@ -2013,24 +2274,24 @@ b. er geen hemelwater op of in terecht kan komen, tenzij het hemelwater regelmat
 
 1.  Voor het meten van: 
 
-a. de hoeveelheid drainwater, bedoeld in [artikel 3.67, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+a. de hoeveelheid drainwater, bedoeld in artikel 3.67, eerste lid, van het besluit;  
 
-b. de hoeveelheid voedingswater, bedoeld in [artikel 3.72, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+b. de hoeveelheid voedingswater, bedoeld in artikel 3.72, eerste lid, onderdeel a, van het besluit;  
 
-c. de hoeveelheid drainagewater, bedoeld in [artikel 3.72, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en  
+c. de hoeveelheid drainagewater, bedoeld in artikel 3.72, eerste lid, onderdeel b, van het besluit, en  
 
-d. de hoeveelheid drainagewater, bedoeld in [artikel 3.72, eerste lid, onderdeel c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),   is een doelmatige volumemeter geïnstalleerd.   
+d. de hoeveelheid drainagewater, bedoeld in artikel 3.72, eerste lid, onderdeel c, van het besluit,   is een doelmatige volumemeter geïnstalleerd.   
 2.  Een volumemeter wordt ten minste eenmaal per drie jaar op de goede werking gecontroleerd en onderhouden door een deskundige op het gebied van volumemeters.   
 3.  Een bewijs van de controle en het onderhoud is binnen de inrichting aanwezig.   
 4.  Het bevoegd gezag kan, indien het belang van de bescherming van het milieu daartoe noodzaakt, bij maatwerkvoorschrift eisen stellen aan de verzegeling van de volumemeter.   
 
 ### Artikel  3.73  
 
-De rapportage, bedoeld in de [artikelen 3.68, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [3.73, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt plaats met gebruikmaking van het model dat is opgenomen in bijlage 6.  
+De rapportage, bedoeld in de artikelen 3.68, eerste lid, en 3.73, eerste lid, van het besluit vindt plaats met gebruikmaking van het model dat is opgenomen in bijlage 6.  
 
 ### Artikel  3.74  
 
-De volgorde van lozen, bedoeld in [artikel 3.63, vierde lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is: 
+De volgorde van lozen, bedoeld in artikel 3.63, vierde lid, onderdeel b, van het besluit is: 
 
 a. huishoudelijk afvalwater;  
 
@@ -2070,10 +2331,10 @@ r. ander afvalwater dan bedoeld in de onderdelen a tot en met q.
 
 ### Artikel  3.75  
 
-De indeling van gewassen, bedoeld in [artikel 3.66, vijfde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is de indeling, zoals opgenomen in tabel 3.75.  Tabel 3.75 Categorie-indeling van gewassen 
+De indeling van gewassen, bedoeld in artikel 3.66, vijfde lid, van het besluit is de indeling, zoals opgenomen in tabel 3.75.  Tabel 3.75 Categorie-indeling van gewassen 
 
 | Categorie van gewassen  | Gewassen  |
-|:---|:---|
+|---|---|
 | Categorie 1  | Overige groenten  |
 | Categorie 2  | Anthurium, kuipplanten, perkplanten  |
 | Categorie 3  | Orchidee (Cymbidium)  |
@@ -2086,9 +2347,9 @@ De indeling van gewassen, bedoeld in [artikel 3.66, vijfde lid, van het besluit]
 
 ### Artikel  3.76  
 
-1.  Het meten van de hoeveelheid drainwater die wordt geloosd en de hoeveelheid voedingswater die wordt toegediend, bedoeld in [artikel 3.67, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt plaats bij ieder lozingspunt.   
-2.  Het registreren van de hoeveelheid drainwater die wordt geloosd en de hoeveelheid voedingswater die is toegediend, bedoeld in [artikel 3.67, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt plaats per periode van vier weken, beginnend op 1 januari.   
-3.  Het meten en registreren van het gehalte aan totaal stikstof en totaal fosfor, natrium en de geleidingswaarde in het drainwater, bedoeld in [artikel 3.67, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt ten minste een keer per periode van acht weken plaats, beginnend op 1 januari en ten minste een keer in de weken 49 tot 52.   
+1.  Het meten van de hoeveelheid drainwater die wordt geloosd en de hoeveelheid voedingswater die wordt toegediend, bedoeld in artikel 3.67, eerste lid, onderdeel a, van het besluit vindt plaats bij ieder lozingspunt.   
+2.  Het registreren van de hoeveelheid drainwater die wordt geloosd en de hoeveelheid voedingswater die is toegediend, bedoeld in artikel 3.67, eerste lid, onderdeel a, van het besluit vindt plaats per periode van vier weken, beginnend op 1 januari.   
+3.  Het meten en registreren van het gehalte aan totaal stikstof en totaal fosfor, natrium en de geleidingswaarde in het drainwater, bedoeld in artikel 3.67, eerste lid, onderdeel b, van het besluit vindt ten minste een keer per periode van acht weken plaats, beginnend op 1 januari en ten minste een keer in de weken 49 tot 52.   
 4.  De afwijking van de nauwkeurigheid van de instrumenten die worden gebruikt voor het meten van de hoeveelheden, bedoeld in het eerste lid, bedraagt ten hoogste tien procent.   
 5.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan: 
 
@@ -2100,10 +2361,10 @@ c. het meten en registreren, bedoeld in het derde lid.
 
 ### Artikel  3.77  
 
-1.  De maximaal toegestane hoeveelheden aan totaal stikstof, bedoeld in [artikel 3.71, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) zijn de hoeveelheden genoemd in tabel 3.77a.  Tabel 3.77a Ten hoogste toegestaan verbruik van stikstof 
+1.  De maximaal toegestane hoeveelheden aan totaal stikstof, bedoeld in artikel 3.71, derde lid, van het besluit zijn de hoeveelheden genoemd in tabel 3.77a.  Tabel 3.77a Ten hoogste toegestaan verbruik van stikstof 
 
 | Gewas / gewasgroep  | Ten hoogste toegestaan verbruik in kg N / ha / jr.  |
-|:---|:---|
+|---|---|
 | Sierteelt  | --- |
 | --- | --- |
 | (Bloemisterij)  | --- |
@@ -2129,10 +2390,10 @@ c. het meten en registreren, bedoeld in het derde lid.
 | Vruchtgroenten  | 2000  |
 | Groenten overig  | 1000  |
 
-2.  De maximaal toegestane hoeveelheden aan totaal fosfor, bedoeld in [artikel 3.71, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) zijn de hoeveelheden genoemd in tabel 3.77b.  Tabel 3.77b Ten hoogste toegestaan verbruik van fosfor 
+2.  De maximaal toegestane hoeveelheden aan totaal fosfor, bedoeld in artikel 3.71, derde lid, van het besluit zijn de hoeveelheden genoemd in tabel 3.77b.  Tabel 3.77b Ten hoogste toegestaan verbruik van fosfor 
 
 | Gewas / gewasgroep  | Ten hoogste toegestaan verbruik in kg P / ha / jr.  |
-|:---|:---|
+|---|---|
 | Sierteelt  | --- |
 | --- | --- |
 | (Bloemisterij)  | --- |
@@ -2161,23 +2422,23 @@ c. het meten en registreren, bedoeld in het derde lid.
 
 ### Artikel  3.78  
 
-1.  Het meten van de hoeveelheid drainagewater die wordt geloosd, bedoeld in [artikel 3.72, eerste lid, onderdeel c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt plaats bij een representatief lozingspunt.   
+1.  Het meten van de hoeveelheid drainagewater die wordt geloosd, bedoeld in artikel 3.72, eerste lid, onderdeel c, van het besluit vindt plaats bij een representatief lozingspunt.   
 2.  Het registreren van: 
 
-a. de hoeveelheid voedingswater die wordt toegediend, bedoeld in [artikel 3.72, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+a. de hoeveelheid voedingswater die wordt toegediend, bedoeld in artikel 3.72, eerste lid, onderdeel a, van het besluit;  
 
-b. de hoeveelheid drainagewater die wordt hergebruikt, bedoeld in [artikel 3.72, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en  
+b. de hoeveelheid drainagewater die wordt hergebruikt, bedoeld in artikel 3.72, eerste lid, onderdeel b, van het besluit, en  
 
-c. de hoeveelheid drainagewater die wordt geloosd, bedoeld in [artikel 3.72, eerste lid, onderdeel c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),   vindt per periode van vier weken plaats, beginnend op 1 januari.   
-3.  Het meten en registreren van het gehalte aan totaal stikstof en totaal fosfor in het te lozen drainagewater, bedoeld in [artikel 3.72, eerste lid, onderdeel d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt bij een representatief lozingspunt ten minste een keer per periode van dertien weken plaats, beginnend op 1 januari.   
+c. de hoeveelheid drainagewater die wordt geloosd, bedoeld in artikel 3.72, eerste lid, onderdeel c, van het besluit,   vindt per periode van vier weken plaats, beginnend op 1 januari.   
+3.  Het meten en registreren van het gehalte aan totaal stikstof en totaal fosfor in het te lozen drainagewater, bedoeld in artikel 3.72, eerste lid, onderdeel d, van het besluit vindt bij een representatief lozingspunt ten minste een keer per periode van dertien weken plaats, beginnend op 1 januari.   
 4.  De afwijking van de nauwkeurigheid van de instrumenten die worden gebruikt voor het meten van de hoeveelheid, bedoeld in het eerste lid, bedraagt ten hoogste tien procent.   
 5.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan de uitvoering van het meten of berekenen en registreren van de hoeveelheid: 
 
-a. voedingswater die wordt toegediend, bedoeld in [artikel 3.72, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+a. voedingswater die wordt toegediend, bedoeld in artikel 3.72, eerste lid, onderdeel a, van het besluit;  
 
-b. drainagewater die wordt hergebruikt, bedoeld in [artikel 3.72, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en  
+b. drainagewater die wordt hergebruikt, bedoeld in artikel 3.72, eerste lid, onderdeel b, van het besluit, en  
 
-c. drainagewater die wordt geloosd, bedoeld in [artikel 3.72, eerste lid, onderdeel c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).     
+c. drainagewater die wordt geloosd, bedoeld in artikel 3.72, eerste lid, onderdeel c, van het besluit.     
 6.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan het meten en registreren, bedoeld in het derde lid.   
 7.  Om de behoefte van de gewassen, genoemd in artikel 3.77 te bepalen, wordt per gewas of groep van gewassen met hetzelfde bemestingsniveau: 
 
@@ -2188,13 +2449,13 @@ b. de hoeveelheid toegediende meststoffen geregistreerd onder vermelding van de 
 c. de hoeveelheid toegediende totaal stikstof en totaal fosfor per oppervlakte-eenheid per jaar geregistreerd.     
 8.  Het verbruik aan totaal stikstof en totaal fosfor wordt uitgedrukt in kilogrammen totaal stikstof en totaal fosfor en berekend door voor iedere te onderscheiden samenstelling van de meststoffen het verbruik van totaal stikstof en totaal fosfor te berekenen en vervolgens de som van de uitkomsten van die berekeningen te nemen.   
 
-### §  3.5.2.  
+### §  3.5.2  
 
 ####Telen van gewassen in de open lucht
 
 ### Artikel  3.79  
 
-1.  Een emissiescherm als bedoeld in de [artikelen 3.79, zevende lid, onderdeel b, onder 2°](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.80, vierde lid, onderdeel c, onder 4°](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [3.85, zesde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet aan het tweede tot en met zesde lid.   
+1.  Een emissiescherm als bedoeld in de artikelen 3.79, zevende lid, onderdeel b, onder 2°, 3.80, vierde lid, onderdeel c, onder 4°, en 3.85, zesde lid, van het besluit voldoet aan het tweede tot en met zesde lid.   
 2.  Het emissiescherm is aan de grond verankerd.   
 3.  Van het emissiescherm kunnen geen afdruipende spuitvloeistoffen in een oppervlaktewaterlichaam geraken.   
 4.  Het emissiescherm is vervaardigd van niet-doorlaatbaar materiaal of van gaas met een windreductie van ten minste 50%.   
@@ -2203,7 +2464,7 @@ c. de hoeveelheid toegediende totaal stikstof en totaal fosfor per oppervlakte-e
 
 ### Artikel  3.80  
 
-1.  Een vanggewas als bedoeld in de [artikelen 3.80, eerste lid, onderdeel b, onder 4°, vierde lid, onderdeel c, onder 2°](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [3.85, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet aan het tweede en derde lid.   
+1.  Een vanggewas als bedoeld in de artikelen 3.80, eerste lid, onderdeel b, onder 4°, vierde lid, onderdeel c, onder 2°, en 3.85, derde lid, van het besluit voldoet aan het tweede en derde lid.   
 2.  Het vanggewas is ten minste van gelijke hoogte als die van het te bespuiten gewas op het perceel en als die van de hoogste in gebruik zijnde spuitdop.   
 3.  Het vanggewas is met uitzondering van een doorrijscherm op de kopakker aaneengesloten.   
 
@@ -2214,7 +2475,7 @@ c. de hoeveelheid toegediende totaal stikstof en totaal fosfor per oppervlakte-e
 a. de in tabel 3.81a genoemde typen spuitdoppen, voor zover deze worden gebruikt met een voor dat type spuitdop voorgeschreven minimale dopmaat en een spuitdruk die gelijk is aan of lager is dan de voor dat type spuitdop voorgeschreven maximale spuitdruk;  Tabel 3.81a 
 
 | Driftarme spuitdop  |--- |--- |
-|:---|:---|:---|
+|---|---|---|
 | type spuitdop  | Minimale dopmaat  | Maximale spuitdruk  |
 | Agrotop AirMix AM 110  | 03  | 1 bar  |
 | Agrotop AirMix AM 110  | 04  | 1 bar  |
@@ -2252,7 +2513,7 @@ a. de in tabel 3.81a genoemde typen spuitdoppen, voor zover deze worden gebruikt
 b. de in tabel 3.81b genoemde driftarme doppen, voor zover deze worden gebruikt bij een spuitdruk die gelijk is aan de daarbij genoemde combinatie van vloeistofdruk en luchtdruk.  Tabel 3.81b 
 
 | Driftarme spuitdop  | Spuitdruk  Vloeistofdruk/lucht-druk (bar)  |
-|:---|:---|
+|---|---|
 | Cleanacres Airtec 35  | 4,0/0.30 of 5.0/0.30  |
 | Cleanacres Airtec 40  | 4,0/0.30 of 5.0/0.30  |
 | John Deere Twin Fluïd TKSS 10/035  | 6,0/0,35  |
@@ -2266,10 +2527,10 @@ b. de in tabel 3.81b genoemde driftarme doppen, voor zover deze worden gebruikt 
 
 ### Artikel  3.82  
 
-Als spuitdoppen als bedoeld in [artikel 3.80, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 3°, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden aangewezen de in tabel 3.82 genoemde spuitdoppen voor zover deze worden gebruikt bij een spuitdruk die gelijk is aan of lager is dan de daarbij vermelde spuitdruk.  Tabel 3.82 
+Als spuitdoppen als bedoeld in artikel 3.80, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 3°, van het besluit worden aangewezen de in tabel 3.82 genoemde spuitdoppen voor zover deze worden gebruikt bij een spuitdruk die gelijk is aan of lager is dan de daarbij vermelde spuitdruk.  Tabel 3.82 
 
 | Spuitdop  | Maximale spuitdruk (bar)  |
-|:---|:---|
+|---|---|
 | Tee Jet DG 80-015  | 3  |
 | Tee Jet DG 80-03  | 3  |
 | Tee Jet DG 80-04  | 3  |
@@ -2278,7 +2539,7 @@ Als spuitdoppen als bedoeld in [artikel 3.80, tweede lid, onderdeel a, onder 2°
 
 ### Artikel  3.83  
 
-1.  Een waarschuwingssysteem als bedoeld in [artikel 3.80, tweede lid, onderdeel b, onder 1°, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet aan het tweede tot en met vierde lid.   
+1.  Een waarschuwingssysteem als bedoeld in artikel 3.80, tweede lid, onderdeel b, onder 1°, van het besluit voldoet aan het tweede tot en met vierde lid.   
 2.  Het waarschuwingssysteem voorziet ten minste eenmaal per dag gedurende zes dagen per week in een advies over het bespuiten van het gewas.   
 3.  Het advies is gebaseerd op: 
 
@@ -2291,7 +2552,7 @@ c. de gevoeligheid van het gewas voor botrytis.
 
 ### Artikel  3.84  
 
-1.  De testmethode, bedoeld in [artikel 3.83, tweede lid, onder b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) waarmee het driftarme karakter van spuitdoppen wordt vastgesteld, voldoet aan de artikelen 3.85 tot en met 3.89.   
+1.  De testmethode, bedoeld in artikel 3.83, tweede lid, onder b, van het besluit waarmee het driftarme karakter van spuitdoppen wordt vastgesteld, voldoet aan de artikelen 3.85 tot en met 3.89.   
 2.  Aan de testmethode, bedoeld in het eerste lid, zijn in ieder geval gelijkwaardig: 
 
 a. testmethoden op grond van het Local Environmental Risk Assesment for Pesticides Scheme gericht op de classificatie van driftreducerende technieken met twee of meer sterren door middel van LERAP-low drift star rating, uitgevoerd door het Silsoe Reseach Institute te Bedford en het Central of Science Laboratory te York, Verenigd Koninkrijk;  
@@ -2338,7 +2599,7 @@ b. een referentiedop zijnde de grensdop van de klasse fijn en midden volgens de 
 11.  Aan het tiende lid wordt in elk geval voldaan, indien per dop 10.000 druppels zijn gemeten.   
 12.  Per dop wordt driemaal gemeten.   
 13.  Het gemiddelde van de resultaten van de drie metingen wordt per druppelgroottekarakteristiek berekend en geldt als de waarde van de respectievelijke druppelgroottekarakteristieken.   
-14.  Wanneer de meting van de druppelgroottekarakteristieken niet door een deskundig en onafhankelijk instituut als bedoeld in [artikel 3.83, tweede lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is uitgevoerd, beoordeelt dat instituut de juistheid van de meting aan de hand van de waarde, berekend overeenkomstig het dertiende lid.   
+14.  Wanneer de meting van de druppelgroottekarakteristieken niet door een deskundig en onafhankelijk instituut als bedoeld in artikel 3.83, tweede lid, onderdeel a, van het besluit is uitgevoerd, beoordeelt dat instituut de juistheid van de meting aan de hand van de waarde, berekend overeenkomstig het dertiende lid.   
 
 ### Artikel  3.89  
 
@@ -2383,7 +2644,7 @@ a. een scherm, of
 
 b. een USB-aansluiting.     
 
-### §  3.5.3.  
+### §  3.5.3  
 
 ####Aanmaken of transporteren via vaste leidingen of apparatuur van gewasbeschermingsmiddelen, biociden of bladmeststoffen
 
@@ -2401,7 +2662,7 @@ b. een USB-aansluiting.
 2.  Pompen, vaatwerk en leidingen voor het aanmaken en doseren van gewasbeschermingsmiddelen, biociden of bladmeststoffen staan niet in rechtstreekse vaste verbinding met een drinkwaterleiding.   
 3.  Drinkwater dat wordt gebruikt voor het aanmaken van gewasbeschermingsmiddelen, biociden of bladmeststoffen wordt uitsluitend door middel van een onderbreektank aan de waterleiding onttrokken.   
 
-### §  3.5.4.  
+### §  3.5.4  
 
 ####Het behandelen van gewassen
 
@@ -2414,7 +2675,7 @@ b. een USB-aansluiting.
 5.  Een buitenopslag voor gedompelde of gedouchte producten of voor tijdens het dompelen gebruikte emballage is tegen inregenen beschermd.   
 6.  Het bevoegd gezag kan, indien het belang van de bescherming van de bodem daartoe noodzaakt, bij maatwerkvoorschrift eisen stellen aan de locatie en de opstelling van het dompelbad of de douche-installatie, de gedompelde of gedouchte producten en de emballage, bedoeld in het tweede tot en met zesde lid.   
 
-### §  3.5.5.  
+### §  3.5.5  
 
 ####Composteren
 
@@ -2429,7 +2690,7 @@ a. in de periode van 1 september tot en met 31 maart afgedekt met vezeldoek, ant
 b. geplaatst boven een adsorberende laag met een dikte van ten minste 0,15 meter en een organische stofgehalte van ten minste 25%.     
 4.  Indien de composteringshoop wordt verwijderd, wordt de adsorberende laag, bedoeld in het derde lid, onderdeel b, eveneens verwijderd.   
 
-### §  3.5.6.  
+### §  3.5.6  
 
 ####Houden van landbouwhuisdieren in dierenverblijven
 
@@ -2520,12 +2781,12 @@ Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot ee
 
 ### Artikel  3.103  
 
-1.  Ten behoeve van het voorkomen, dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in [artikel 3.132 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden afgezogen dampen en gassen van het bereiden van voedingsmiddelen als bedoeld in [artikel 3.130, onder b, c en d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) die naar de buitenlucht worden geëmitteerd: 
+1.  Ten behoeve van het voorkomen, dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in artikel 3.132 van het besluit, worden afgezogen dampen en gassen van het bereiden van voedingsmiddelen als bedoeld in artikel 3.130, onder b, c en d, van het besluit die naar de buitenlucht worden geëmitteerd: 
 
 a. ten minste twee meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen bebouwing afgevoerd; of  
 
 b. geleid door een doelmatige ontgeuringsinstallatie.     
-2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder, bedoeld in [artikel 3.132 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden dampen die vrijkomen bij het bereiden van voedingsmiddelen, bedoeld in [artikel 3.130, onder b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), in een ruimte bij grillen, anders dan met houtskool, dan wel frituren of bakken in olie of vet, afgezogen en voordat zij in de buitenlucht worden afgevoerd, geleid door een doelmatig verwisselbaar of reinigbaar vetvangend filter.   
+2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder, bedoeld in artikel 3.132 van het besluit, worden dampen die vrijkomen bij het bereiden van voedingsmiddelen, bedoeld in artikel 3.130, onder b, van het besluit, in een ruimte bij grillen, anders dan met houtskool, dan wel frituren of bakken in olie of vet, afgezogen en voordat zij in de buitenlucht worden afgevoerd, geleid door een doelmatig verwisselbaar of reinigbaar vetvangend filter.   
 3.  Het eerste en tweede lid zijn niet van toepassing indien het mogelijke effect van de geuremissie van de uittredende lucht van een afzuiginstallatie beperkt blijft tot een gezoneerd industrieterrein of een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
 4.  Het bevoegd gezag kan indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt vanwege het slecht functioneren van de ontgeuringsinstallatie, onvoldoende verspreiding van afgezogen dampen, geuremissies die niet via de afzuiging worden afgevoerd of incidentele geurpieken, in aanvulling op het eerste lid, met inachtneming van de NeR, maatwerkvoorschriften stellen met betrekking tot: 
 
@@ -2543,11 +2804,11 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  3.104  
 
-1.  Ten behoeve van het voorkomen, dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in de [artikelen 3.135](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.136 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md): 
+1.  Ten behoeve van het voorkomen, dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in de artikelen 3.135 en 3.136 van het besluit: 
 
-a. wordt bij het slachten van dieren als bedoeld in [artikel 3.133, onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) ten minste de vaste dierlijke mest die vrijkomt bij het slachten in afgesloten, lekvrije tonnen of bakken opgeslagen;  
+a. wordt bij het slachten van dieren als bedoeld in artikel 3.133, onder a, van het besluit ten minste de vaste dierlijke mest die vrijkomt bij het slachten in afgesloten, lekvrije tonnen of bakken opgeslagen;  
 
-b. worden afgezogen dampen en gassen van het broeien of koken van dierlijke bijproducten als bedoeld in [artikel 3.133, onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), indien deze op de buitenlucht worden geëmitteerd: 
+b. worden afgezogen dampen en gassen van het broeien of koken van dierlijke bijproducten als bedoeld in artikel 3.133, onder a, van het besluit, indien deze op de buitenlucht worden geëmitteerd: 
 
 1°. ten minste twee meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen gebouwen afgevoerd; of  
 
@@ -2565,8 +2826,8 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  3.105  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 3.135 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt het pekelen van dierlijke bijproducten en organen als bedoeld in [artikel 3.133, onder a en d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) plaats boven een bodembeschermende voorziening.   
-2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de verontreiniging van een oppervlaktewaterlichaam en ter bescherming van de doelmatige werking van voorzieningen voor het beheer van afvalwater als bedoeld in [artikel 3.135 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden bij het pekelen van dierlijke bijproducten en organen, bedoeld in [artikel 3.133, onder a en d,van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), ten minste de gemorste of gelekte stoffen zoveel mogelijk zonder verder toevoegen van water opgeruimd en afgevoerd als afvalstof en wordt zoveel mogelijk voorkomen dat deze stoffen in het afvalwater terecht kunnen komen. Deze werkwijze wordt opgenomen in de bedrijfsinterne procedures en werkinstructies, bedoeld in artikel 2.3, tweede lid.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.135 van het besluit vindt het pekelen van dierlijke bijproducten en organen als bedoeld in artikel 3.133, onder a en d, van het besluit plaats boven een bodembeschermende voorziening.   
+2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de verontreiniging van een oppervlaktewaterlichaam en ter bescherming van de doelmatige werking van voorzieningen voor het beheer van afvalwater als bedoeld in artikel 3.135 van het besluit worden bij het pekelen van dierlijke bijproducten en organen, bedoeld in artikel 3.133, onder a en d,van het besluit, ten minste de gemorste of gelekte stoffen zoveel mogelijk zonder verder toevoegen van water opgeruimd en afgevoerd als afvalstof en wordt zoveel mogelijk voorkomen dat deze stoffen in het afvalwater terecht kunnen komen. Deze werkwijze wordt opgenomen in de bedrijfsinterne procedures en werkinstructies, bedoeld in artikel 2.3, tweede lid.   
 
 ### §  3.6.3  
 
@@ -2574,16 +2835,16 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  3.106  
 
-Aan [artikel 3.141, vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 3.141, vierde lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het vervaardigen en bewerken van voedingsmiddelen of dranken waarbij voedingsmiddelen of grondstoffen daarvan worden gedroogd, gemalen, gebrand of geroosterd of waarbij goederen behorend tot de stuifklasse S1, S2, S3 of S4 worden gemengd, worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 3.141, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het vervaardigen en bewerken van voedingsmiddelen of dranken waarbij voedingsmiddelen of grondstoffen daarvan worden gedroogd, gemalen, gebrand of geroosterd of waarbij goederen behorend tot de stuifklasse S1, S2, S3 of S4 worden gemengd, worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 3.141, tweede lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  3.107  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies wordt stofklasse S dat vrijkomt bij het vervaardigen en bewerken van voedingsmiddelen of dranken als bedoeld in [artikel 3.141 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) waarbij voedingsmiddelen of grondstoffen daarvan worden gedroogd, gemalen, gebrand of geroosterd of waarbij goederen behorend tot de stuifklasse S1, S2, S3 of S4 worden gemengd, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
-2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht, worden de afgezogen emissies die vrijkomen bij het vervaardigen en bewerken van voedingsmiddelen of dranken als bedoeld in [artikel 3.141 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), waarbij voedingsmiddelen of grondstoffen daarvan worden gedroogd, gemalen, gebrand of geroosterd of waarbij goederen behorend tot de stuifklasse S1, S2, S3 of S4 worden gemengd en naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies wordt stofklasse S dat vrijkomt bij het vervaardigen en bewerken van voedingsmiddelen of dranken als bedoeld in artikel 3.141 van het besluit waarbij voedingsmiddelen of grondstoffen daarvan worden gedroogd, gemalen, gebrand of geroosterd of waarbij goederen behorend tot de stuifklasse S1, S2, S3 of S4 worden gemengd, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
+2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht, worden de afgezogen emissies die vrijkomen bij het vervaardigen en bewerken van voedingsmiddelen of dranken als bedoeld in artikel 3.141 van het besluit, waarbij voedingsmiddelen of grondstoffen daarvan worden gedroogd, gemalen, gebrand of geroosterd of waarbij goederen behorend tot de stuifklasse S1, S2, S3 of S4 worden gemengd en naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, bedoeld in het tweede lid.   
 
 ### Afdeling  3.7  
@@ -2596,27 +2857,27 @@ b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek g
 
 ### Artikel  3.108  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in [artikel 3.143 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt stofklasse S dat vrijkomt bij het schieten op een binnenschietbaan, voor zover dat redelijkerwijs mogelijk is, doelmatig afgezogen.   
-2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in [artikel 3.143 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden de afgezogen emissies die vrijkomen bij het schieten op een binnenschietbaan en die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in artikel 3.143 van het besluit, wordt stofklasse S dat vrijkomt bij het schieten op een binnenschietbaan, voor zover dat redelijkerwijs mogelijk is, doelmatig afgezogen.   
+2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in artikel 3.143 van het besluit, worden de afgezogen emissies die vrijkomen bij het schieten op een binnenschietbaan en die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, bedoeld in het tweede lid.   
 
 ### Artikel  3.109  
 
-Aan [artikel 3.143, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 3.143, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het schieten op een binnenschietbaan worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 3.143, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en  
+a. de afgezogen stofemissies die vrijkomen bij het schieten op een binnenschietbaan worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 3.143, eerste lid, van het besluit te voldoen, en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  3.110  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 3.144, aanhef en onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het schieten op een binnenschietbaan ten minste voldaan aan het tweede en derde lid.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.144, aanhef en onder a, van het besluit, wordt bij het schieten op een binnenschietbaan ten minste voldaan aan het tweede en derde lid.   
 2.  De constructie van een binnenschietbaan voldoet ten minste aan de in tabel 3.110 aangegeven maatvoering.   
 3.  Een binnenschietbaan heeft een doelmatige kogelvanger die ten minste voldoet aan de in tabel 3.110 aangegeven maatvoering.   
 4.  Het bevoegd gezag kan in het belang van de veiligheid voor de omgeving maatwerkvoorschriften stellen aan de uitvoering van de constructie en kogelvanger, bedoeld in het tweede en derde lid.  Tabel 3.110 
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | wapens met een kaliber tot en met .22  | vuistvuurwapens met een kaliber tot .50 en overige vuurwapens voorzien van pistoolmunitie  | schoudervuurwapens met een kaliber tot .50  |
 | plafond/dak  | 50 mm beton of 100 mm gasbeton  | 100 mm beton of 150 mm gasbeton  | 200 mm beton of 150 mm gasbeton  |
 | zijwanden  | 100 mm metselwerk of kalkzandsteen of 50 mm beton of 100 mm gasbeton  | 100 mm metselwerk of kalkzandsteen of 100 mm beton of 150 mm gasbeton  | 200 mm metselwerk of kalkzandsteen of 200 mm beton of 150 mm gasbeton  |
@@ -2632,17 +2893,17 @@ b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek g
 
 ### Artikel  3.111  
 
-1.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, zoveel mogelijk beperken van de belasting van de bodem, bedoeld in [artikel 3.144, aanhef en onder b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het schieten op een binnenschietbaan ten minste voldaan aan het tweede tot en met het derde lid.   
+1.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, zoveel mogelijk beperken van de belasting van de bodem, bedoeld in artikel 3.144, aanhef en onder b, van het besluit, wordt bij het schieten op een binnenschietbaan ten minste voldaan aan het tweede tot en met het derde lid.   
 2.  Indien bij het schieten hulzen van verschoten munitie vrijkomen, vindt het schieten plaats boven een bodembeschermende voorziening.   
 3.  De kogelvanger, bedoeld in artikel 3.110, derde lid, is opgesteld boven een bodembeschermende voorziening.   
 
 ### Artikel  3.112  
 
-Bij het bepalen van het langtijdgemiddelde beoordelingsniveau (L <sub>Ar,LT</sub>) en het maximaal geluidsniveau L <sub>Amax</sub> als gevolg van een inrichting met een binnenschietbaan, bedoeld in [artikel 3.144, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt gemeten volgens het in bijlage 7 opgenomen Meetvoorschrift binnenschietinrichtingen.  
+Bij het bepalen van het langtijdgemiddelde beoordelingsniveau (L <sub>Ar,LT</sub>) en het maximaal geluidsniveau L <sub>Amax</sub> als gevolg van een inrichting met een binnenschietbaan, bedoeld in artikel 3.144, tweede lid, van het besluit, wordt gemeten volgens het in bijlage 7 opgenomen Meetvoorschrift binnenschietinrichtingen.  
 
 ### Artikel  3.113  
 
-Ingevolge [artikel 1.11, tiende lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), bevat het rapport van een akoestisch onderzoek, bedoeld in artikel 1.11, derde lid, onder f, van het besluit, de volgende gegevens: 
+Ingevolge artikel 1.11, tiende lid, van het besluit, bevat het rapport van een akoestisch onderzoek, bedoeld in artikel 1.11, derde lid, onder f, van het besluit, de volgende gegevens: 
 
 a. een gedetailleerde beschrijving (naam, type, fabricaat) van de gemeten representatieve wapens en de gebruikte munitie (type en LOT-nummer);  
 
@@ -2666,8 +2927,8 @@ h. de weersomstandigheden indien metingen buiten zijn uitgevoerd.
 
 ### Artikel  3.114  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in [artikel 3.146 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het traditioneel schieten ten minste voldaan aan het vierde tot en met zevende lid.   
-2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de belasting van de bodem, bedoeld in [artikel 3.146 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het traditioneel schieten voldaan aan het derde, vierde en zevende lid.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in artikel 3.146 van het besluit, wordt bij het traditioneel schieten ten minste voldaan aan het vierde tot en met zevende lid.   
+2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de belasting van de bodem, bedoeld in artikel 3.146 van het besluit, wordt bij het traditioneel schieten voldaan aan het derde, vierde en zevende lid.   
 3.  Indien bij het schieten hulzen van verschoten munitie vrijkomen, vindt het schieten plaats boven een bodembeschermende voorziening.   
 4.  Het schieten vindt op zodanige wijze plaats dat alle afgeschoten kogels worden opgevangen in een voorziening. De voorziening is opgesteld boven een bodembeschermende voorziening.   
 5.  Gedurende de periode dat wordt geschoten bevinden zich geen personen of veediersoorten in de onveilige zone, uitgezonderd de schutter, de baancommandant en één of meerdere door de baancommandant aangewezen personen. De onveilige zone omvat de oppervlakte van een rechthoek van twee meter aan weerszijde van de voorziening waarin de afgeschoten kogels worden opgevangen, bedoeld in het vierde lid, bij acht meter. De zone bevindt zich aan de zijde waar op het doel wordt geschoten.   
@@ -2689,7 +2950,7 @@ b. met betrekking tot de onveilige zone.
 
 ### Artikel  3.115  
 
-1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in [artikel 3.156 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet een inrichting waar een gemeente gelegenheid biedt om grove huishoudelijke afvalstoffen achter te laten ten minste aan het tweede tot en met het vierde lid.   
+1.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in artikel 3.156 van het besluit voldoet een inrichting waar een gemeente gelegenheid biedt om grove huishoudelijke afvalstoffen achter te laten ten minste aan het tweede tot en met het vierde lid.   
 2.  Bij een inrichting waar een gemeente gelegenheid biedt om grove huishoudelijke afvalstoffen achter te laten zijn voorzieningen aanwezig voor het gescheiden achterlaten van de volgende grove huishoudelijke afvalstoffen: 
 
 a. afgedankte elektrische en elektronische apparatuur;  
@@ -2727,14 +2988,14 @@ p. papier en karton;
 q. textiel, niet zijnde tapijt; en  
 
 r. vlakglas.     
-3.  Het tweede lid is niet van toepassing op grove huishoudelijke afvalstoffen die de inrichting niet inneemt. De inrichtinghouder zorgt er in dat geval voor dat bij de inrichting duidelijk is aangegeven waar de inwoners van de gemeente deze afvalstoffen wel kunnen aanbieden. Verder neemt de inrichtinghouder in dat geval in de procedures van acceptatie en controle bedoeld in [artikel 2.14b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) op hoe ervoor gezorgd wordt dat deze afvalstoffen niet worden ingenomen.   
-4.  Onverminderd [artikel 2.14b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) draagt de inrichtinghouder er zorg voor dat zoveel mogelijk wordt voorkomen dat afvalstoffen waarvoor specifieke voorzieningen aanwezig zijn in de voorziening voor het restafval worden gedeponeerd. De inrichtinghouder neemt in de procedures van acceptatie en controle bedoeld in artikel 2.14b van het besluit op hoe hier invulling aan gegeven wordt.   
+3.  Het tweede lid is niet van toepassing op grove huishoudelijke afvalstoffen die de inrichting niet inneemt. De inrichtinghouder zorgt er in dat geval voor dat bij de inrichting duidelijk is aangegeven waar de inwoners van de gemeente deze afvalstoffen wel kunnen aanbieden. Verder neemt de inrichtinghouder in dat geval in de procedures van acceptatie en controle bedoeld in artikel 2.14b van het besluit op hoe ervoor gezorgd wordt dat deze afvalstoffen niet worden ingenomen.   
+4.  Onverminderd artikel 2.14b van het besluit draagt de inrichtinghouder er zorg voor dat zoveel mogelijk wordt voorkomen dat afvalstoffen waarvoor specifieke voorzieningen aanwezig zijn in de voorziening voor het restafval worden gedeponeerd. De inrichtinghouder neemt in de procedures van acceptatie en controle bedoeld in artikel 2.14b van het besluit op hoe hier invulling aan gegeven wordt.   
 5.  Bij maatwerkvoorschrift kan het bevoegd gezag toestaan dat een of meer van de voorzieningen, bedoeld in het tweede lid, onder f tot en met r, niet aanwezig zijn, op voorwaarde dat de inrichtinghouder op een redelijke in het voorschrift te stellen termijn via nascheiding of op andere wijze een zelfde niveau van afvalscheiding bereikt.   
 6.  Bij maatwerkvoorschrift als bedoeld in het vijfde lid kunnen voorwaarden worden gesteld aan de wijze van nascheiding of andere alternatieve verwerking en het overleggen van bescheiden hierover.   
 
 ### Hoofdstuk  4  
 
-####Bepalingen met betrekking tot overige activiteiten in inrichtingen; niet geldend voor inrichtingen type C met uitzondering van de in [artikel 1.4, derde lid, onderdeel b tot en met e van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) genoemde activiteiten
+####Bepalingen met betrekking tot overige activiteiten in inrichtingen; niet geldend voor inrichtingen type C met uitzondering van de in artikel 1.4, derde lid, onderdeel b tot en met e van het besluit genoemde activiteiten
 
 ### Afdeling  4.1  
 
@@ -2746,10 +3007,10 @@ r. vlakglas.
 
 ### Artikel  4.1  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 4.1, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij de opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking, niet zijnde vuurwerk, andere ontplofbare stoffen, vaste kunstmeststoffen of organische peroxiden als bedoeld in [artikel 4a, onder d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), ten minste voldaan aan de artikelen 4.2 tot en met 4.9b en 4.10, vierde lid.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.1, zevende lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt bij het opslaan van gevaarlijke stoffen in verpakking, vloeibare bodembedreigende stoffen in verpakking, afvalstoffen waaruit vloeibare bodembedreigende stoffen kunnen lekken en CMR-stoffen in verpakking, niet zijnde vuurwerk, andere ontplofbare stoffen, vaste kunstmeststoffen, of organische peroxiden als bedoeld in [artikel 4a, onder d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldaan aan de artikelen 4.2, 4.9, 4.9a, 4.9b en 4.10.   
-3.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van verontreiniging van het oppervlaktewater als bedoeld in [artikel 4.1, negende lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het boven oppervlaktewater opslaan van gevaarlijke stoffen in verpakking, vloeibare bodembedreigende stoffen in verpakking en CMR-stoffen in verpakking, niet zijnde vuurwerk, vaste kunstmeststoffen, organische peroxiden als bedoeld in [artikel 4a, onder d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), asbest, gedemonteerde airbags en gordelspanners en andere ontplofbare stoffen voldaan aan de artikelen 4.2 en 4.10a.   
-4.  Van een voldoende brandwerende voorziening als bedoeld in [artikel 4.1, derde en vijfde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), is in ieder geval sprake indien de wand een brandwerendheid van ten minste 60 minuten heeft, een hoogte heeft van twee meter en aan weerszijden van de opslagvoorziening een lengte heeft van ten minste twee meter, horizontaal gemeten vanaf de opslagvoorziening.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 4.1, eerste lid, van het besluit wordt bij de opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking, niet zijnde vuurwerk, andere ontplofbare stoffen, vaste kunstmeststoffen of organische peroxiden als bedoeld in artikel 4a, onder d, van het besluit, ten minste voldaan aan de artikelen 4.2 tot en met 4.9b en 4.10, vierde lid.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.1, zevende lid, van het besluit, wordt bij het opslaan van gevaarlijke stoffen in verpakking, vloeibare bodembedreigende stoffen in verpakking, afvalstoffen waaruit vloeibare bodembedreigende stoffen kunnen lekken en CMR-stoffen in verpakking, niet zijnde vuurwerk, andere ontplofbare stoffen, vaste kunstmeststoffen, of organische peroxiden als bedoeld in artikel 4a, onder d, van het besluit, voldaan aan de artikelen 4.2, 4.9, 4.9a, 4.9b en 4.10.   
+3.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van verontreiniging van het oppervlaktewater als bedoeld in artikel 4.1, negende lid, van het besluit wordt bij het boven oppervlaktewater opslaan van gevaarlijke stoffen in verpakking, vloeibare bodembedreigende stoffen in verpakking en CMR-stoffen in verpakking, niet zijnde vuurwerk, vaste kunstmeststoffen, organische peroxiden als bedoeld in artikel 4a, onder d, van het besluit, asbest, gedemonteerde airbags en gordelspanners en andere ontplofbare stoffen voldaan aan de artikelen 4.2 en 4.10a.   
+4.  Van een voldoende brandwerende voorziening als bedoeld in artikel 4.1, derde en vijfde lid, van het besluit, is in ieder geval sprake indien de wand een brandwerendheid van ten minste 60 minuten heeft, een hoogte heeft van twee meter en aan weerszijden van de opslagvoorziening een lengte heeft van ten minste twee meter, horizontaal gemeten vanaf de opslagvoorziening.   
 
 ### Artikel  4.2  
 
@@ -2757,115 +3018,203 @@ De verpakking van gevaarlijke stoffen, gevaarlijke afvalstoffen, vloeibare bodem
 
 ### Artikel  4.3  
 
-Gevaarlijke stoffen en gevaarlijke stoffen in verpakking en CMR stoffen in verpakking worden opgeslagen in een opslagvoorziening die is uitgevoerd overeenkomstig de voorschriften uit de paragrafen 3.1, 3.2 met uitzondering van voorschrift 3.2.1.6 en uit de paragrafen 3.4, 3.8 tot en met 3.20, voorschrift 3.21.1 en paragraaf 3.23 van PGS 15.  
+1.  Gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking worden opgeslagen in een opslagvoorziening die is uitgevoerd en wordt gebruikt overeenkomstig de volgende onderdelen van PGS 15: 
+
+a. paragraaf 3.1, met uitzondering van voorschrift 3.1.2, paragraaf 3.2, met uitzondering van voorschrift 3.2.12, en paragraaf 3.4;  
+
+b. de paragrafen 3.8 tot en met 3.20, met uitzondering van voorschrift 3.10.5;  
+
+c. voorschrift 3.21.1, eerste alinea, en  
+
+d. paragraaf 3.23.     
+2.  Het eerste lid is niet van toepassing op: 
+
+a. gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking van de klassen 1, 4 of 7 van het ADR;  
+
+b. gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking van de klasse 9 van het ADR, met uitzondering van de stoffen met classificatiecode M6 of M7 die het aquatisch milieu verontreinigen;  
+
+c. gasflessen, spuitbussen, gaspatronen of aanstekers van de klasse 2 van het ADR, en  
+
+d. accu’s.     
 
 ### Artikel  4.4  
 
-1.  In afwijking van artikel 4.3, eerste lid, worden: 
+Spuitbussen, gaspatronen of aanstekers van de klasse 2 van het ADR worden opgeslagen in een opslagvoorziening die is uitgevoerd en wordt gebruikt overeenkomstig de volgende onderdelen van PGS 15: 
 
-a. spuitbussen , gaspatronen of aanstekers behorende tot de klasse 2 van het ADR opgeslagen in een opslagvoorziening die is uitgevoerd overeenkomstig: 
+a. de voorschriften 3.1.1 en 3.1.3;  
 
-1°. de voorschriften van de paragrafen 3.1, met uitzondering van de voorschriften 3.1.4 en 3.1.5;  
+b. paragraaf 3.2, met uitzondering van voorschrift 3.2.12, en paragraaf 3.4;  
 
-2°. de voorschriften van paragraaf 3.2, met uitzondering van voorschrift 3.2.1.6;  
+c. de paragrafen 3.10 tot en met 3.20, met uitzondering van voorschrift 3.10.5 en paragraaf 3.14;  
 
-3°. de voorschriften van de paragrafen 3.4, 3.7, 3.11 tot en met 3.13, 3.15 tot en met 3.20, voorschrift 3.21.1, 3.23 en de voorschriften van de paragrafen 7.1, 7.3 tot en met 7.6 van PGS 15;    
+d. voorschrift 3.21.1, eerste alinea;  
 
-b. stoffen van de klasse 4 van het ADR opgeslagen in een opslagvoorziening die is uitgevoerd overeenkomstig de voorschriften van de paragrafen 8.5.1 en 8.5.2 van PGS 15, dan wel in een brandveiligheidsopslagkast die is uitgevoerd overeenkomstig paragraaf 3.10 van PGS 15 en wordt voldaan aan de voorschriften uit hoofdstuk 3 van PGS 15;  
+e. paragraaf 3.23, en  
 
-c. gasflessen behorende tot de klasse 2 van het ADR opgeslagen in een opslagvoorziening die is uitgevoerd overeenkomstig: 
+f. de voorschriften 7.3.1 tot en met 7.3.5, 7.4.1 en 7.4.2.    
 
-1°. de voorschriften van paragraaf 3.1, met uitzondering van de voorschriften 3.1.4 en 3.1.5;  
+### Artikel  4.4a  
 
-2°. de voorschriften van paragraaf 3.2 met uitzondering van voorschrift 3.2.1.6;  
+1.  Gasflessen van de klasse 2 van het ADR worden opgeslagen in een opslagvoorziening die is uitgevoerd en wordt gebruikt overeenkomstig de volgende onderdelen van PGS 15: 
 
-3°. de voorschriften van de paragrafen 3.4, 3.7, 3.11, 3.15 tot en met 3.20, voorschrift 3.21.1 en de voorschriften 3.23, 6.2.1 tot en met 6.2.16 van PGS 15.    
+a. de voorschriften 3.1.1 en 3.1.3;  
 
-d. accu’s opgeslagen boven een vloeistofdichte vloer of verharding of een lekbak.     
-2.  Het eerste lid, onderdeel c is niet van toepassing op de opslag van flessen met kooldioxide met een doelmatige drukontlastvoorziening, noch op flessen met blusgas. Op de opslag van deze flessen zijn de voorschriften 6.2.3, 6.2.9 en 6.2.13 van PGS 15 van toepassing. Een opslagplaats voor flessen met kooldioxide of blusgas is vanaf de buitenzijde als zodanig herkenbaar, op een duidelijke wijze gemarkeerd en niet voor onbevoegden toegankelijk.   
-3.  De vloeistofdichte vloer of verharding en de lekbak, bedoeld in het eerste lid, onderdeel d, is voldoende sterk om weerstand te kunnen bieden aan de als gevolg van een lekkage optredende vloeistofdruk. Het oppervlak van de vloeistofdichte vloer of verharding of de lekbak is niet groter dan 20 vierkante meter en de opvangcapaciteit is ten minste gelijk aan de totale inhoud van de opgeslagen accu’s.   
-4.  Het eerste lid, onderdeel d, en artikel 4.3, eerste lid, zijn niet van toepassing op nieuwe accu’s.   
-5.  Een accu staat rechtop.   
+b. paragraaf 3.2, met uitzondering van voorschrift 3.2.12, en paragraaf 3.4, met uitzondering van voorschrift 3.4.5;  
+
+c. de paragrafen 3.11 en 3.15 tot en met 3.20;  
+
+d. voorschrift 3.21.1, eerste alinea;  
+
+e. paragraaf 3.23, en  
+
+f. de voorschriften 6.1.2 en 6.1.3.     
+2.  Gasflessen van de klasse 2 van het ADR in een brandveiligheidsopslagkast worden opgeslagen overeenkomstig de volgende onderdelen van PGS 15: 
+
+a. de voorschriften 6.2.1 tot en met 6.2.3;  
+
+b. de voorschriften 6.2.7 tot en met 6.2.16, en  
+
+c. de voorschriften 6.3.2 tot en met 6.3.6.     
+3.  Het opslaan van gasflessen anders dan in een brandveiligheidsopslagkast voldoet aan paragraaf 6.2 van PGS 15.   
+4.  Het eerste, tweede en derde lid zijn niet van toepassing op gasflessen van de klasse 2 van het ADR met: 
+
+a. kooldioxide met een doelmatige drukontlastvoorziening;  
+
+b. kooldioxide bij horecagelegenheden, of  
+
+c. blusgas.     
+5.  Een opslagplaats voor de gasflessen, bedoeld in het vierde lid, is vanaf de buitenzijde als zodanig herkenbaar, op een duidelijke wijze gemarkeerd en niet voor onbevoegden toegankelijk.   
+6.  Gasflessen buiten een opslagvoorziening als bedoeld in het eerste lid voldoen aan de voorschriften 6.2.3, 6.2.10 en 6.2.14 van PGS 15.   
+
+### Artikel  4.4b  
+
+1.  Gevaarlijke stoffen in verpakking van de klasse 4 van het ADR worden opgeslagen in een opslagvoorziening als bedoeld in artikel 4.3, eerste lid.   
+2.  Het opslaan van gevaarlijke stoffen in verpakking van de klasse 4 van het ADR anders dan in een brandveiligheidsopslagkast voldoet aan voorschrift 8.5.1 van PGS 15.   
+3.  Het opslaan van gevaarlijke stoffen in verpakking van de klasse 4.1 van het ADR anders dan in een brandveiligheidsopslagkast voldoet aan voorschrift 8.5.2 van PGS 15.   
+
+### Artikel  4.4c  
+
+1.  Gebruikte accu’s worden opgeslagen boven een vloeistofdichte vloer, verharding of lekbak.   
+2.  De vloeistofdichte vloer, verharding of lekbak, bedoeld in het eerste lid: 
+
+a. is voldoende sterk om weerstand te bieden aan optredende vloeistofdruk als gevolg van een lekkage;  
+
+b. heeft een oppervlak dat niet groter is dan 20 vierkante meter, en  
+
+c. heeft een opvangcapaciteit die ten minste gelijk is aan de totale inhoud van de opgeslagen accu’s.     
+3.  Een accu staat rechtop.   
 
 ### Artikel  4.5  
 
-Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot het opslaan van gevaarlijke stoffen als bedoeld in deze paragraaf, voorzover in deze paragraaf wordt verwezen naar de voorschriften 3.1.1, 3.1.2, 3.1.3, 3.1.4, 3.1.6, 3.2.1.5a, 3.18 uit PGS 15, voorzover deze voorschriften uit PGS 15 voorzien in de mogelijkheid tot afwijkende voorschriften.  
+1.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan het opslaan van gevaarlijke stoffen als bedoeld in deze paragraaf, voor zover in deze paragraaf wordt verwezen naar de voorschriften 3.1.1, 3.1.3, 3.1.4, 3.1.5, 3.2.9, 3.2.10, 3.10.4, 3.18.1, 6.2.4 tot en met 6.2.6, 6.3.6, 8.5.1 en 10.2.1 van PGS 15 en deze voorschriften van PGS 15 voorzien in de mogelijkheid tot afwijkende voorschriften.   
+2.  Het bevoegd gezag kan bij maatwerkvoorschrift bij het opslaan van gevaarlijke stoffen de aanwezigheid van een deskundige als bedoeld in voorschrift 3.17.1 van PGS 15, voorschrijven, voor zover in deze paragraaf wordt verwezen naar dat voorschrift.   
+3.  Het tweede lid is eveneens van toepassing op inrichtingen waar minder dan 2.500 kilogram verpakte gevaarlijke stoffen of CMR-stoffen worden opgeslagen.   
 
 ### Artikel  4.6  
 
-1.  De artikelen 4.3 en 4.4 zijn niet van toepassing op: 
+1.  Artikel 4.3, eerste lid, is niet van toepassing op de volgende stoffen van klasse 3 van het ADR: 
 
-a. gevaarlijke stoffen en CMR-stoffen in verpakking van de klasse 1, klasse 7 en de klasse 9 van het ADR met uitzondering van de stoffen met classificatiecode M6 en M7 die het aquatisch milieu verontreinigen;  
+a. alcoholhoudende dranken in consumentenverpakking;  
 
-b. de volgende stoffen van klasse 3 van het ADR: 
+b. dieselolie, gasolie of lichte stookolie met een vlampunt tussen 60 graden Celsius en 100 graden Celsius;  
 
-1°. alcoholhoudende dranken in consumentenverpakking;  
+c. verwarmde brandbare vloeistoffen met UN-nummer 3256, of  
 
-2°. dieselolie, gasolie of lichte stookolie met een vlampunt tussen 61 graden celsius en 100 graden celsius;  
+d. niet giftige, niet-bijtende en niet-milieugevaarlijke viskeuze oplossingen en homogene mengsels met een vlampunt van 23 graden Celsius en hoger, die niet zijn onderworpen aan de voorschriften van het ADR.     
+2.  De artikelen 4.3, eerste lid, 4.4, 4.4a, eerste tot en met vijfde lid, 4.4b en 4.4c zijn niet van toepassing op gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking die: 
 
-3°. verwarmde brandbare vloeistoffen met UN-nummer 3256;  
+a. tijdelijk worden opgeslagen overeenkomstig artikel 4.7;  
 
-4°. niet giftige en niet bijtende viskeuze oplossingen en homogene mengsels met een vlampunt van 23 graden celsius en hoger.    
+b. als werkvoorraad aanwezig zijn;  
 
-c. de werkvoorraad gevaarlijke stoffen en CMR-stoffen in verpakking, de in een verkoopruimte aanwezige gevaarlijke stoffen en CMR-stoffen in verpakking, de gevaarlijke stoffen en CMR-stoffen in verpakking in vervoerseenheden, tijdelijke opslag van gevaarlijke stoffen en CMR-stoffen in verpakking, gevaarlijke stoffen en CMR-stoffen in verpakking die via leidingen is aangesloten op een installatie en op gevaarlijke stoffen en CMR-stoffen in verpakking in hoeveelheden kleiner dan de in tabel 4.6 weergegeven ondergrenzen berekend naar rato.     
-2.  Onverminderd onderdeel c geldt een aanvullende vrijstelling tot in totaal de dubbele hoeveelheid van de in tabel 4.6 genoemde hoeveelheid voor verpakking die onder het regime van gelimiteerde hoeveelheden valt. Deze aanvullende vrijstelling geldt alleen indien de stoffen in een gesloten verpakking, die voldoet aan de daartoe gestelde eisen van de ADR zijn opgeslagen. Voor stoffen met een bijkomend gevaar geldt dat de laagste ondergrens bepalend is.  Tabel 4.6. Gevaar overeenkomstig de ADR-klasse 
+c. in vervoerseenheden aanwezig zijn;  
 
-| Zonder bijkomend gevaar  | Verpakkinggroep  | Ondergrens in kilogram of liter  |
-|:---|:---|:---|
-| Alle klassen en de CMR stoffen  | I  | 1  |
-| 2  | n.v.t.  | 50  |
-| (UN 1950 Spuitbussen & UN 2037 Houders, klein, gas)  | --- | --- |
+d. in een verkoopruimte aanwezig zijn;  
+
+e. via leidingen zijn aangesloten op een installatie, of  
+
+f. aanwezig zijn in hoeveelheden kleiner dan de in tabel 4.6 weergegeven hoeveelheden. Indien sprake is van stoffen uit verschillende klassen in hoeveelheden die kleiner zijn dan de in tabel 4.6 opgenomen ondergrens, wordt naar rato berekend of de ondergrens wordt overschreden.    Tabel 4.6 
+
+| Klasse van het ADR zonder bijkomend gevaar  | Verpakkingsgroep  | Ondergrens in kilogram of liter  |
+|---|---|---|
+| Alle klassen  | I  | 1  |
+| CMR-stoffen  | n.v.t.  | 1  |
+| 2 (UN-nummer 1950: Spuitbussen en UN-nummer 2037: Houders, klein, gas)  | n.v.t.  | 50  |
 | 3  | II  | 25  |
 | 3  | III  | 50  |
 | 4.1, 4.2, 4.3  | II en III  | 50  |
 | 5.1  | II en III  | 50  |
 | 6.1  | II en III  | 50  |
 | 6.2 categorie I3, I4  | II en III  | 50  |
-| Totaal voorgaande klassen  | –  | 50  |
+|  *Totaal voorgaande klassen*   | –  | 50  |
 | 8  | II en III  | 250  |
 | 9  | II en III  | 250  |
-| 2 (Gasflessen)  | n.v.t  | 125 liter waterinhoud  |
+| 2 (Gasflessen)  | n.v.t.  | 125 liter waterinhoud  |
 | Gewasbeschermingsmiddelen en biociden  | --- | 400  |
 
-### Artikel  4.6a  
-
-Gasflessen waarop de artikelen 4.3 en 4.4 niet van toepassing zijn, voldoen aan de voorschriften 6.2.3, 6.2.9 en 6.2.13 van PGS 15.  
+3.  Onverminderd het tweede lid geldt een vrijstelling tot de dubbele hoeveelheid van de in tabel 4.6 genoemde ondergrenzen voor verpakkingen als LQ. Deze vrijstelling geldt alleen indien de stoffen zijn opgeslagen in een gesloten verpakking die voldoet aan de daartoe in het ADR gestelde eisen.   
+4.  Voor stoffen met een bijkomend gevaar is de laagste ondergrens bepalend.   
 
 ### Artikel  4.7  
 
-1.  De tijdelijke opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking voldoet aan de volgende eisen: 
+1.  Tijdelijke opslag van gevaarlijke stoffen vindt plaats: 
 
-a. er zijn één of meerdere laad- en losgedeelten in de inrichting aanwezig waarin opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking plaatsvindt die binnen 48 uur de inrichting verlaten en aan derden zijn geadresseerd. Deze tijdelijke opslag voldoet aan voorschrift 3.1.6 van PGS 15. Op enig moment bedraagt in deze laad- en losgedeelten, de gezamenlijke hoeveelheid gevaarlijke stoffen niet meer dan 10.000 kilogram;  
+a. in één of meer speciaal daarvoor bestemde opslagvoorzieningen, of  
 
-b. onverminderd onderdeel a en voorschrift 3.1.6 van PGS 15 kunnen gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking aan derden geadresseerd, die langer dan 48 uur binnen de inrichting verblijven, worden opgeslagen in één of meerdere speciaal hiervoor bestemde opslagvoorzieningen binnen de inrichting;  
+b. in één of meer laad- en losgedeelten tijdens de aanwezigheid van een deskundige als bedoeld in voorschrift 3.17.1 van PGS 15.     
+2.  Tijdelijke opslag van gevaarlijke stoffen als bedoeld in het eerste lid voldoet aan de volgende onderdelen van PGS 15: 
 
-c. de constructie van de opslagvoorziening als bedoeld in onderdeel b is zodanig dat ten minste drie zijden van de opslagvoorziening worden omgeven door zodanige wanden met een minimale hoogte van 3 meter en een WBDBO van ten minste 60 minuten ten opzichte van een naastgelegen ruimte wordt bereikt;  
+a. de voorschriften 3.2.9 en 3.4.1 tot en met 3.4.4;  
 
-d. in de opslagvoorziening als bedoeld in onderdeel b worden gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking: 
+b. de paragrafen 3.8, 3.9, 3.11, 3.13 tot en met 3.18, met uitzondering van voorschrift 3.16.2, en paragraaf 3.20;  
 
-1°. opgeslagen op ten minste 50 centimeter van de open zijde; en  
+c. voorschrift 3.21.1, eerste alinea;  
 
-2°. gestapeld tot een hoogte van ten hoogste 50 centimeter onder de bovenrand van de scheidingswand; en  
+d. paragraaf 3.23, en  
 
-3°. die heftig met elkaar kunnen reageren gescheiden van elkaar opgeslagen.   De bovengenoemde afstanden worden op een duidelijke wijze gemarkeerd op de wanden en de vloer. Nabij de opslagvoorziening, bedoeld in onderdeel b, is voldoende absorptiemiddel aanwezig.  
+e. de voorschriften 10.2.1 en 10.4.1 tot en met 10.4.7, met uitzondering van voorschrift 10.4.4.     
+3.  In de opslagvoorziening, bedoeld in het eerste lid, onderdeel a, en in het laad- en losgedeelte, bedoeld in het eerste lid, onderdeel b, zijn geen stoffen aanwezig van: 
 
-e. op enig moment bedraagt in de opslagvoorzieningen, bedoeld in onderdeel b, de gezamenlijke hoeveelheid gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking niet meer dan 10.000 kilogram. Gevaarlijke stoffen van verpakkingsgroep I en gevaarlijke stoffen van de klasse 1, 6.2 behoudens categorie I3 en I4, en 7 van het ADR, alsmede een hoeveelheid van meer dan 2.000 kilogram brandbare vloeistoffen van klasse 3 van het ADR zijn niet in een opslagvoorziening als bedoeld in onderdeel b aanwezig.     
-2.  De tijdelijke opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking, bedoeld in het eerste lid, onderdelen a en b, voldoet aan voorschrift 3.18.1 van PGS 15.   
+a. verpakkingsgroep I van het ADR;  
+
+b. de klasse 1, 2.3 en 7 van het ADR;  
+
+c. de klasse 5.2 van het ADR, met uitzondering van gelimiteerde hoeveelheden tot 1.000 kg, of  
+
+d. de klasse 6.2 van het ADR, met uitzondering van stoffen UN-nummer 3291 en UN-nummer 3373.     
+4.  Het derde lid is van overeenkomstige toepassing op gasflessen.   
+5.  Onverminderd het tweede tot en met vierde lid geldt voor de opslag, bedoeld in het eerste lid, onderdeel a, dat: 
+
+a. deze voldoet aan de voorschriften 10.5.1 tot en met 10.5.4 van PGS 15, en  
+
+b. de gezamenlijke hoeveelheid gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in een brandcompartiment ten hoogste 10.000 kilogram bedraagt.     
+6.  Onverminderd het tweede tot en met vierde lid geldt voor de opslag, bedoeld in het eerste lid, onderdeel b, dat: 
+
+a. deze voldoet aan de voorschriften 10.6.2 tot en met 10.6.4 van PGS 15;  
+
+b. de gezamenlijke hoeveelheid gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in een brandcompartiment ten hoogste 10.000 kilogram bedraagt, en  
+
+c. de gezamenlijke hoeveelheid gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in de inrichting ten hoogste 10.000 kilogram bedraagt indien de tijdelijke opslagvoorziening niet is gesitueerd in een brandcompartiment met een WBDBO van 60 minuten of hoger.     
+7.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan de tijdelijke opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in de buitenlucht.   
 
 ### Artikel  4.8  
 
 1.  De opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in een voor het publiek toegankelijke verkoopruimte is brandveilig.   
-2.  Aan het eerste lid wordt voldaan indien: 
+2.  Aan het eerste lid wordt voldaan indien gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking: 
 
-a. gevaarlijke stoffen in verpakking of CMR-stoffen in verpakking zijn opgeslagen in een voorziening die voldoet aan PGS 15, dan wel aan de artikelen 4.3 tot en met 4.5 van deze regeling; of  
+a. zijn opgeslagen overeenkomstig de artikelen 4.3, 4.4, 4.4a, 4.4b, 4.4c en 4.5, of  
 
-b. gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking niet in grotere hoeveelheden in een verkoopruimte zijn opgeslagen dan is aangegeven in tabel 4.8, opgenomen aan het slot van dit artikel.     
-3.  Dit artikel is niet van toepassing op verpakkingen met producten bestemd voor de persoonlijke verzorging, waaronder spuitbussen.   
-4.  Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot een andere wijze van opslag dan genoemd in het tweede lid op basis van een door de inrichtinghouder ingediend Programma van Eisen met betrekking tot de bouwkundige, installatietechnische en organisatorische maatregelen, waarin is aangetoond dat de opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in een voor het publiek toegankelijke verkoopruimte brandveilig is. Voordat de betreffende verkoopruimte in gebruik wordt genomen, is door een inspectie-instelling, die geaccrediteerd is door een accreditatie-instelling volgens NEN-EN-ISO/IEC 17020, door middel van een goedkeurend inspectierapport aangetoond dat de met het oog op de brandveiligheid getroffen voorzieningen en maatregelen zijn uitgevoerd overeenkomstig het Programma van Eisen. Dit inspectierapport is binnen de inrichting aanwezig.   
+b. niet in grotere hoeveelheden in een verkoopruimte zijn opgeslagen dan is aangegeven in tabel 4.8.     
+3.  Dit artikel is niet van toepassing op: 
+
+a. verpakkingen met producten bestemd voor de persoonlijke verzorging, waaronder spuitbussen, of  
+
+b. alcoholhoudende dranken in consumentenverpakkingen.     
+4.  Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot een andere wijze van opslag dan genoemd in het tweede lid op basis van een door de inrichtinghouder ingediend uitgangspuntendocument met betrekking tot de bouwkundige, installatietechnische en organisatorische maatregelen, waarin is aangetoond dat de opslag van gevaarlijke stoffen in verpakking en CMR-stoffen in verpakking in een voor het publiek toegankelijke verkoopruimte brandveilig is. Voordat de betreffende verkoopruimte in gebruik wordt genomen, is door een inspectie-instelling, die geaccrediteerd is door een accreditatie-instelling volgens NEN-EN-ISO/IEC 17020, door middel van een goedkeurend inspectierapport aangetoond dat de met het oog op de brandveiligheid getroffen voorzieningen en maatregelen zijn uitgevoerd overeenkomstig het uitgangspuntendocument. Dit inspectierapport is binnen de inrichting aanwezig.   
 5.  Een lekbak als bedoeld in tabel 4.8 is onbrandbaar en productbestendig en kan ten minste 100% van de daarboven opgeslagen vloeistoffen bevatten.  Tabel 4.8: 
 
 | Maximale hoeveelheid gevaarlijke stoffen en CMR-stoffen in verpakking in de verkoopruimte in liters  | Nr.  | Soort verpakte gevaarlijke stoffen en CMR-stoffen  | Woon-, bijeenkomst-, onderwijs-, cel-, gezondheidszorg- en/of logiesfunctie(s) (van derden) boven verkoopruimte  | Geen woon-, bijeenkomst-, onderwijs-, cel-, gezondheidszorg- en/of logiesfunctie(s) (van derden) boven verkoopruimte <sup>1</sup>  |--- | Opslag ADR klasse 3 zonder lekbak aanwezig  | Overige opslag situaties, waaronder ADR klasse 3 in of boven lekbak  | Opslag ADR klasse 3 zonder lekbak aanwezig  | Overige opslag situaties, waaronder ADR klasse 3 in of boven lekbak  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | I  | Gevaarlijke stoffen en CMR-stoffen in verpakking, exclusief III, maar inclusief II  | 500  | 750  | 1.000  | 1.500  |
 | --- | --- | --- | --- | --- | --- |
 | II  | ADR klasse 2 en 3 m.u.v. gebruiksklare ruitensproeiervloeistof met vlampunt > 40ºC  | Verkoopruimte is brandcompartiment met wbdbo <sup>2</sup> tussen woon-, bijeenkomst-, onderwijs-, cel-, gezondheidszorg- en/of logiesfunctie(s) (van derden) ≥ 60 minuten?  | 300  | 800  |
@@ -2890,12 +3239,49 @@ c. worden periodiek gecontroleerd op vloeistofdichtheid.
 
 ### Artikel  4.9a  
 
-1.  In afwijking van artikel 4.9 worden bovengrondse stationaire verpakkingen voor de opslag van afgetapte vloeibare brandstoffen bij een autodemontagebedrijf, met de daarbij behorende leidingen en appendages, met een inhoud van maximaal 270 liter per verpakking uitgevoerd, geïnstalleerd, gerepareerd en vervangen overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit door een bedrijf dat op grond van die BRL daartoe is gecertificeerd.   
-2.  Alle verpakkingen, bedoeld in het eerste lid, inclusief de bijbehorende leidingen en appendages worden onderhouden en beoordeeld overeenkomstig KC 111.   
-3.  De opslag van de verpakkingen inclusief de bijbehorende leidingen en appendages, bedoeld in het eerste lid, voldoet aan de voorschriften 4.1.3, 4.2.4 tot en met 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.1 tot en met 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.2, 4.5.3, 4.5.9, 4.5.12 en de voorschriften 4.6.2 tot en met 4.6.7 van PGS 30.   
-4.  Het lekdetectiesysteem bij de verpakkingen, bedoeld in het eerste lid, wordt éénmaal per jaar overeenkomstig KC 111 gecontroleerd op de werking ervan.   
-5.  Bij het constateren van gebreken die kunnen leiden tot het optreden van niet gedetecteerde lekken, wordt het lekdetectiesysteem, bedoeld in het vierde lid, binnen een periode van een maand hersteld.   
-6.  Het bevoegd gezag kan ten behoeve van het voorkomen van risico’s voor de omgeving maatwerkvoorschriften stellen aan de opstelplaats en de veiligheidsvoorzieningen van de verpakkingen, bedoeld in het eerste lid.   
+1.  In afwijking van artikel 4.9 zijn stationaire bovengrondse verpakkingen voor het opslaan van afgetapte vloeibare brandstoffen bij een autodemontagebedrijf, met de daarbij behorende leidingen en appendages, met een inhoud van ten hoogste 270 liter per verpakking, uitgevoerd en geïnstalleerd en worden gerepareerd of vervangen en beoordeeld overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het opslaan van afgetapte vloeibare brandstoffen bij een autodemontagebedrijf in stationaire bovengrondse verpakkingen met de daarbij behorende leidingen en appendages voldoet aan de volgende onderdelen van PGS 30: 
+
+a. de paragrafen 2.2 en 2.3;  
+
+b. de voorschriften 2.4.3, 2.6.1, 2.6.3 tot en met 2.6.6, 2.6.11 en 2.6.14, en  
+
+c. paragraaf 4.2, met uitzondering van voorschrift 4.2.3 en tabel 4.1.     
+3.  Een ruimte waarin verpakkingen als bedoeld in het eerste lid worden opgeslagen, bevindt zich niet op een verdieping.   
+4.  Het gebruik van de verpakkingen waarin het opslaan, vullen en afleveren van afgetapte vloeibare brandstoffen bij een autodemontagebedrijf plaatsvindt in stationaire bovengrondse verpakkingen met de daarbij behorende leidingen en appendages, voldoet aan de volgende onderdelen van PGS 30: 
+
+a. voorschrift 3.2.4;  
+
+b. de paragrafen 3.3, 3.5, 3.6, 5.2 en 5.4, en  
+
+c. de voorschriften 5.5.1, 5.5.2, 5.6.1, 5.6.3 en 5.6.4.     
+5.  Voor stationaire bovengrondse verpakkingen met de daarbij behorende leidingen en appendages gelden de keurings- en herkeuringstermijnen van tabel 4.9a.  Tabel 4.9a 
+
+| (Her)keuringstermijnen voor bovengrondse verpakkingen met de daarbij behorende leidingen en appendages voor vloeistoffen van PGS-klasse 2 tot en met PGS-klasse 4  | Staal enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectiepotsysteem  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- | jaarlijkse controle van het lekdetectiesysteem  |--- | jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  | 15 jaar  | 20 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+
+| Kunststof enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| --- | 15 jaar  | 15 jaar  |
+
+| Kunststof dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- |--- | jaarlijkse controle van het lekdetectiesysteem  |--- | jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|---|
+| --- | 15 jaar  | 20 jaar  | 15 jaar  | 20 jaar  |
 
 ### Artikel  4.9b  
 
@@ -2940,15 +3326,15 @@ c. worden periodiek gecontroleerd op vloeistofdichtheid.
 
 ### Artikel  4.11  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt theatervuurwerk opgeslagen in ten minste een brandveiligheidsopslagkast als bedoeld in voorschrift 3.10 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.   
-2.  Inbeslaggenomen vuurwerk met aan consumentenvuurwerk vergelijkbare eigenschappen dat wordt opgeslagen in politiebureaus wordt opgeslagen in ten minste een brandveiligheidsopslagkast als bedoeld in voorschrift 3.10 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt theatervuurwerk opgeslagen in ten minste een brandveiligheidsopslagkast die voldoet aan de voorschriften 3.10.1 tot en met 3.10.4 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.   
+2.  Inbeslaggenomen vuurwerk met aan consumentenvuurwerk vergelijkbare eigenschappen dat wordt opgeslagen in politiebureaus wordt opgeslagen in ten minste een brandveiligheidsopslagkast die voldoet aan de voorschriften 3.10.1 tot en met 3.10.4 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.   
 
 ### Artikel  4.12  
 
 1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt rookzwak kruit ten minste opgeslagen in een brandcompartiment. Binnen het brandcompartiment wordt het rookzwak kruit opgeslagen in vakken. De vakken zijn vervaardigd van 105 millimeter metselwerk voor de wanden, en 70 millimeter beton voor de horizontale verdeling. Per vak is maximaal 1 kilogram rookzwak kruit aanwezig in de standaardverpakking . Voor de vakken is minimaal 1 meter vrije ruimte aanwezig. De toegang tot het brandcompartiment bestaat uit een deur die 60 minuten brandwerend is, zelfsluitend is uitgevoerd, naar buiten opent en als drukontlasting kan fungeren.   
 2.  Het kruit, bedoeld in het eerste lid, wordt zodanig opgeslagen dat er minimaal 10 centimeter ruimte tussen de voorzijde van het vak en de voorzijde van de fles met rookzwak kruit aanwezig is.   
 3.  Het eerste lid en tweede lid, zijn van overeenkomstige toepassing op de opslag van zwart kruit met dien verstande dat van zwart kruit niet meer dan 250 gram per vak aanwezig is.   
-4.  Noodsignalen worden opgeslagen in een brandcompartiment dan wel in een brandveiligheidsopslagkast als bedoeld in voorschrift 3.10 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.   
+4.  Noodsignalen worden opgeslagen in een brandcompartiment dan wel in een brandveiligheidsopslagkast die voldoet aan de voorschriften 3.10.1 tot en met 3.10.4 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.   
 
 ### §  4.1.3  
 
@@ -2960,13 +3346,13 @@ c. worden periodiek gecontroleerd op vloeistofdichtheid.
 
 ### Artikel  4.13  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 4.6 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet de opslag van halfzware olie, polyesterhars, stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar, PER of stoffen van klasse 5.1 van het ADR in bovengrondse opslagtanks aan de artikelen 4.14 tot en met 4.19.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.6 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet de opslag van vloeibare bodembedreigende stoffen als bedoeld in [artikel 4.4a, onder e en f, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), in een bovengrondse opslagtank aan artikel 4.18.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 4.6 van het besluit, voldoet de opslag van halfzware olie, polyesterhars, stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar, PER of stoffen van klasse 5.1 van het ADR in bovengrondse opslagtanks aan de artikelen 4.14 tot en met 4.19.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.6 van het besluit, voldoet de opslag van vloeibare bodembedreigende stoffen als bedoeld in artikel 4.4a, onder e en f, van het besluit, in een bovengrondse opslagtank aan artikel 4.18.   
 3.  Ten behoeve van: 
 
-a. het voorkomen dan wel, voor zover dat niet mogelijk, is het zoveel mogelijk beperken van verontreiniging van een oppervlaktewaterlichaam, bedoeld in [artikel 4.6 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md); en  
+a. het voorkomen dan wel, voor zover dat niet mogelijk, is het zoveel mogelijk beperken van verontreiniging van een oppervlaktewaterlichaam, bedoeld in artikel 4.6 van het besluit; en  
 
-b. het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in [artikel 4.6 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),   voldoet de opslag van halfzware olie, stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar, PER, stoffen van klasse 5.1 van het ADR, polyesterhars of andere vloeibare bodembedreigende stoffen, in een opslagtank boven een oppervlaktewaterlichaam aan artikel 4.18a.   
+b. het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in artikel 4.6 van het besluit,   voldoet de opslag van halfzware olie, stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar, PER, stoffen van klasse 5.1 van het ADR, polyesterhars of andere vloeibare bodembedreigende stoffen, in een opslagtank boven een oppervlaktewaterlichaam aan artikel 4.18a.   
 
 ### Artikel  4.14  
 
@@ -2977,24 +3363,112 @@ b. het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel
 
 ### Artikel  4.15  
 
-1.  Stationaire bovengrondse opslagtanks met de daarbij behorende leidingen en appendages voor de opslag van halfzware olie, polyesterhars of stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar, zijn uitgevoerd en geïnstalleerd en worden gerepareerd of vervangen overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-2.  De opslag van de in het eerste lid genoemde stoffen in stationaire bovengrondse opslagtanks inclusief de bijbehorende leidingen en appendages voldoet aan de voorschriften 4.1.3, 4.2.4 tot en met 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.1 tot en met 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.2, 4.5.3, 4.5.9, 4.5.12 en de voorschriften in paragraaf 4.6 van PGS 30.   
-3.  Onverminderd voorschrift 4.2.9 van PGS 30 wordt de kathodische bescherming voor ondergrondse stalen leidingen jaarlijks op zijn goede werking gecontroleerd overeenkomstig artikel 3.36, eerste en tweede lid.   
-4.  Het lekdetectiesysteem bij stationaire bovengrondse dubbelwandige opslagtanks voor opslag van de in het eerste lid genoemde stoffen wordt eenmaal per jaar overeenkomstig KC 111 gecontroleerd op goede werking. Bij het constateren van gebreken die kunnen leiden tot het optreden van niet gedetecteerde lekken, wordt het lekdetectiesysteem binnen een periode van een maand hersteld. Van de controle wordt een aantekening in het logboek gemaakt.   
-5.  Alle stationaire bovengrondse opslagtanks voor opslag van de in het eerste lid genoemde stoffen worden onderhouden en beoordeeld overeenkomstig KC 111.   
+1.  Een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor het opslaan van halfzware olie, polyesterhars of stoffen van de klasse 8 van het ADR, verpakkingsgroepen II en III zonder bijkomend gevaar, is uitgevoerd en geïnstalleerd en wordt gerepareerd of vervangen en beoordeeld overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het opslaan van halfzware olie, polyesterhars of stoffen van de klasse 8 van het ADR, verpakkingsgroepen II en III zonder bijkomend gevaar in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voldoet aan de volgende onderdelen van PGS 30: 
+
+a. de paragrafen 2.2 en 2.3;  
+
+b. de voorschriften 2.4.3, 2.6.1, 2.6.3 tot en met 2.6.6, 2.6.11 en 2.6.14, en  
+
+c. paragraaf 4.2, met uitzondering van voorschrift 4.2.3 en tabel 4.1.     
+3.  Een opslagtank als bedoeld in het eerste lid bevindt zich niet op een verdieping.   
+4.  Het gebruik van de installaties waarin het opslaan, vullen en afleveren van halfzware olie, polyesterhars of stoffen van de klasse 8 van het ADR, verpakkingsgroepen II en III zonder bijkomend gevaar plaatsvindt in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages, voldoet aan de volgende onderdelen van PGS 30: 
+
+a. voorschrift 3.2.4;  
+
+b. de paragrafen 3.3, 3.5, 3.6, 5.2 en 5.4, en  
+
+c. de voorschriften 5.5.1, 5.5.2, 5.6.1, 5.6.3 en 5.6.4.     
+5.  Voor een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages gelden de keurings- en herkeuringstermijnen van tabel 4.15.  Tabel 4.15 
+
+| (Her)keuringstermijnen voor stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor halfzware olie, polyesterhars of stoffen van de klasse 8 van het ADR, verpakkingsgroepen II en III  | Staal enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectiepotsysteem  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  |
+
+| Staal dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- | jaarlijkse controle van het lekdetectiesysteem  |--- | jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|
+| Zonder coating of niet volledig gecoat  | 15 jaar  | 15 jaar  | 15 jaar  | 20 jaar  |
+| Volledig gecoat niet overeenkomstig BRL K790 of BRL K779  | 15 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+| Volledig gecoat overeenkomstig BRL K790 of BRL K779  | 20 jaar  | 20 jaar  | 20 jaar  | 20 jaar  |
+
+| Kunststof enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
+|---|---|---|
+| --- | 15 jaar  | 15 jaar  |
+
+| Kunststof dubbelwandig met lekdetectie overeenkomstig BRL K910  | Eerste (her)keuring  | Volgende herkeuring  |--- |--- | jaarlijkse controle van het lekdetectiesysteem  |--- | jaarlijkse controle van het lekdetectiesysteem  |
+|---|---|---|---|---|---|---|---|
+| --- | 15 jaar  | 20 jaar  | 15 jaar  | 20 jaar  |
+
+6.  Het bevoegd gezag kan ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bij maatwerkvoorschrift het derde lid niet van toepassing verklaren en toestaan dat een opslagtank zich op een verdieping bevindt.   
+7.  Bij maatwerkvoorschrift als bedoeld in het zesde lid kunnen eisen worden gesteld om de toegankelijkheid van de opslagtank voor de brandbestrijding te borgen.   
+8.  Het inpandig opslaan van halfzware olie als bedoeld in artikel 4.4a, eerste lid, onderdeel c, van het besluit is slechts toegestaan indien de volgende maatregelen zijn getroffen: 
+
+a. de tankinstallatie is geaard en voorzien van potentiaalvereffening;  
+
+b. de ontluchting is naar buiten op ten minste 5 meter hoogte en niet nabij openingen;  
+
+c. een goede ventilatie van de opslagruimte volgens NPR 7910-1 is in werking;  
+
+d. een waarschuwing of alarm treedt in werking indien de temperatuur in de opslagruimte boven het vlampunt van de vloeistof kan komen;  
+
+e. een vlamdover met CE-markering is volgens NEN-EN-ISO 16852 en de ATEX-richtlijnen 137 en 95 geïnstalleerd;  
+
+f. het vulpunt is buiten, en  
+
+g. de opslagtank is voorzien van elektronische peilvoorziening of een handmatige peilvoorziening met een zelfsluitende peildop.     
+9.  Uitpandige opslag van halfzware olie als bedoeld in artikel 4.4a, eerste lid, onderdeel c, van het besluit is slechts toegestaan indien de volgende maatregelen zijn getroffen: 
+
+a. de opslagtank is van kunststof of staal;  
+
+b. de opslagtank is geplaatst in een niet-brandbare lekbak van staal of beton. Indien een stalen tank dubbelwandig is uitgevoerd is geen lekbak nodig;  
+
+c. de tankinstallatie is geaard en voorzien van potentiaalvereffening;  
+
+d. de ontluchting is op ten minste 5 meter boven maaiveld;  
+
+e. een vlamdover met CE-markering is volgens NEN-EN-ISO 16852 en de ATEX-richtlijn geïnstalleerd;  
+
+f. de vul-, zuig- en persleidingen zijn beveiligd tegen aanrijding;  
+
+g. de opslagtank is voorzien van elektronische peilvoorziening of een handmatige peilvoorziening met een zelfsluitende peildop, en  
+
+h. de tank is voorzien van lichte bekleding of van een verfsysteem.     
 
 ### Artikel  4.16  
 
-De opslag van PER en de opslag van stoffen klasse 5.1 van het ADR in stationaire bovengrondse opslagtanks inclusief de bijbehorende leidingen en appendages voldoet aan de voorschriften 4.1.3, 4.2.4 tot en met 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.2 tot en met 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.9 en 4.6 van PGS 30.  
+1.  In afwijking van artikel 1.2, eerste lid, wordt in dit artikel onder ‘PGS 30’ verstaan: Richtlijn PGS 30, getiteld ‘Vloeibare aardolieproducten, Buitenopslag in kleine installaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 1999 versie 0.1 (2-2005).   
+2.  Het opslaan van PER en van stoffen van de klasse 5.1 van het ADR in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voldoet aan de volgende onderdelen van PGS 30: 
+
+a. voorschrift 4.1.3;  
+
+b. de voorschriften 4.2.4 tot en met 4.2.7, 4.2.9, 4.2.10 en 4.2.14;  
+
+c. de voorschriften 4.3.2 tot en met 4.3.4, 4.3.6, 4.3.8, 4.3.9 en 4.3.11;  
+
+d. de voorschriften 4.4.1, 4.4.3, 4.4.4, 4.4.7 en 4.4.8, en  
+
+e. de voorschriften 4.5.1, 4.5.9 en 4.6.     
+3.  Indien wordt beoordeeld of een stationaire bovengrondse opslagtank voor het opslaan van PER of stoffen van de klasse 5.1 van het ADR voldoet aan de eisen van PGS 30, zijn het vierde, vijfde en zesde lid van toepassing.   
+4.  De stationaire bovengrondse opslagtank wordt geïnspecteerd overeenkomstig de voorschriften 4.5.2 en 4.5.3 van PGS 30 en wordt onder druk beproefd overeenkomstig voorschrift 4.5.5 van PGS 30. De inwendige inspectie van een stationaire bovengrondse opslagtank hoeft niet plaats te vinden bij de keuring waarmee voor een bestaande installatie die niet onder certificaat is aangelegd alsnog een installatiecertificaat kan worden afgegeven, indien wordt aangetoond dat de stationaire bovengrondse opslagtank minder dan vijftien jaar voor de inspectie nieuw in gebruik is genomen. In dat geval vindt de inwendige inspectie plaats vijftien jaar na de eerste ingebruikname.   
+5.  Indien de stationaire bovengrondse opslagtank niet inwendig kan worden geïnspecteerd, wordt deze overeenkomstig voorschrift 4.5.9 van PGS 30 op de keuringsdatum buiten gebruik gesteld.   
+6.  Van de beoordeling wordt een keuringsrapport opgesteld.   
 
 ### Artikel  4.17  
 
-De opslag van halfzware olie in mobiele bovengrondse opslagtanks inclusief bijbehorende leidingen en appendages voldoet aan paragraaf 4.9 van PGS 30.  
+De opslag van halfzware olie in mobiele bovengrondse opslagtanks inclusief bijbehorende leidingen en appendages voldoet aan bijlage D van PGS 30.  
 
 ### Artikel  4.18  
 
 1.  Het opslaan van vloeibare gevaarlijke stoffen of vloeibare bodembedreigende stoffen in bovengrondse opslagtanks vindt plaats boven een lekbak.   
-2.  Het eerste lid is niet van toepassing op een opslagtank, die dubbelwandig is uitgevoerd met een systeem voor lekdetectie in deze wand. Het systeem voor lekdetectie voldoet aan BRL K910 en wordt ten minste eens per jaar beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het eerste lid is niet van toepassing op een opslagtank, die dubbelwandig is uitgevoerd met een systeem voor lekdetectie in deze wand. Het systeem voor lekdetectie voldoet aan BRL K910 en wordt ten minste eens per jaar beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 3.  De vulpunten en aftappunten van een bovengrondse opslagtank met vloeibare gevaarlijke stoffen of bodembedreigende stoffen zijn geplaatst boven een vloeistofdichte vloer of verharding of boven of in een lekbak, of zijn uitgevoerd met een vulpunt morsbak.   
 4.  De opslagtank en de vulleiding zijn voorzien van een overvulbeveiliging.   
 5.  Boven de lekbak, bedoeld in het eerste lid, vindt geen opslag van andere gevaarlijke stoffen plaats, indien die kunnen reageren met de stoffen in de bovengrondse opslagtank.   
@@ -3002,7 +3476,7 @@ De opslag van halfzware olie in mobiele bovengrondse opslagtanks inclusief bijbe
 ### Artikel  4.18a  
 
 1.  Het opslaan van vloeibare bodembedreigende stoffen in opslagtanks boven een oppervlaktewaterlichaam vindt plaats boven een voorziening die zich rondom of onder de opgeslagen stoffen bevindt en in staat is de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen op te vangen.   
-2.  Het eerste lid is niet van toepassing op een opslagtank die dubbelwandig is uitgevoerd met een systeem voor lekdetectie dat voldoet aan BRL K910 en dat ten minste eenmaal per jaar wordt beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het eerste lid is niet van toepassing op een opslagtank die dubbelwandig is uitgevoerd met een systeem voor lekdetectie dat voldoet aan BRL K910 en dat ten minste eenmaal per jaar wordt beoordeeld en goedgekeurd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
 3.  De vulpunten en aftappunten van een opslagtank met vloeibare bodembedreigende stoffen zijn geplaatst boven of in een voorziening die zich rondom of onder de opgeslagen stoffen bevindt en die de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen kan op vangen.   
 4.  De voorzieningen, bedoeld in het eerste en derde lid, zijn zodanig uitgevoerd dat: 
 
@@ -3085,7 +3559,7 @@ b. bij een opslagtank van meer dan 10 kubieke meter: 3 meter.
 ### Artikel  4.20a  
 
 1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan voldoet de opslag van propeen aan het tweede tot en met het vierde lid.   
-2.  Een opslagtank met propeen is, voorzover van toepassing, in overeenstemming met het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en voldoet aan hoofdstuk 2 en de hoofdstukken 4 tot en met 6 van PGS 19.   
+2.  Een opslagtank met propeen is, voorzover van toepassing, in overeenstemming met het Warenwetbesluit drukapparatuur en voldoet aan hoofdstuk 2 en de hoofdstukken 4 tot en met 6 van PGS 19.   
 3.  Een opslagtank met propeen met toebehoren, leidingen en andere installatieonderdelen wordt gekeurd, herkeurd en onderhouden overeenkomstig NEN-EN 12817 en NPR 2578.   
 4.  Van de bevindingen van de keuringen en herkeuringen, bedoeld in het derde lid, zijn binnen de inrichting gedagtekende verklaringen aanwezig of op een door het bevoegd gezag te stellen termijn beschikbaar gesteld, die zijn afgegeven door of namens degene die de keuringen of herkeuringen heeft uitgevoerd. Deze verklaringen zijn, evenals alle relevante informatie voor een juist gebruik van de installatie en rapportages van uitgevoerd onderhoud en uitgevoerde werkzaamheden, opgenomen of samengevat in een installatieboek.   
 
@@ -3104,8 +3578,8 @@ b. bij een opslagtank van meer dan 10 kubieke meter: 3 meter.
 
 ### Artikel  4.22  
 
-1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk, is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in [artikel 4.9 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet de opslag in verpakking van stoffen van ADR klasse 5.2 type C of het gebruik of de opslag in verpakking van stoffen van ADR klasse 5.2, type D tot en met F, bedoeld in [artikel 4.8 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan de artikelen 4.23 tot en met 4.27.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.9 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet de opslag in verpakking van stoffen van ADR klasse 5.2 type C of het gebruik of de opslag in verpakking van stoffen van ADR klasse 5.2 type D tot en met F als bedoeld in [artikel 4.8 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan de artikelen 4.23, 4.26 en 4.27.   
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk, is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bedoeld in artikel 4.9 van het besluit, voldoet de opslag in verpakking van stoffen van ADR klasse 5.2 type C of het gebruik of de opslag in verpakking van stoffen van ADR klasse 5.2, type D tot en met F, bedoeld in artikel 4.8 van het besluit, aan de artikelen 4.23 tot en met 4.27.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.9 van het besluit, voldoet de opslag in verpakking van stoffen van ADR klasse 5.2 type C of het gebruik of de opslag in verpakking van stoffen van ADR klasse 5.2 type D tot en met F als bedoeld in artikel 4.8 van het besluit, aan de artikelen 4.23, 4.26 en 4.27.   
 
 ### Artikel  4.23  
 
@@ -3126,8 +3600,8 @@ b. de afstand tot interne objecten waar zich over het algemeen geen mensen bevin
 
 ### Artikel  4.25  
 
-1.  Artikel 4.23 is niet van toepassing op stoffen van ADR klasse 5.2 type D, E en F, waarvoor volgens het ADR temperatuurbeheersing niet vereist is, indien deze stoffen worden opgeslagen in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in verpakking als LQ en in een voorziening die is uitgevoerd overeenkomstig de voorschriften uit de paragrafen 3.1, 3.2 met uitzondering van voorschrift 3.2.1.6, en uit de paragrafen 2.4, 3.8 tot en met 3.20, voorschrift 3.21.1, paragraaf 3.23 en paragraaf 9.2 van PGS 15.   
-2.  Stoffen van ADR klasse 5.2 type C waarvoor volgens het ADR temperatuurbeheersing niet vereist is, worden opgeslagen in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in verpakking als LQ en in een voorziening die is uitgevoerd overeenkomstig voorschrift 3.21.1 en de voorschriften uit de paragrafen 3.1, 3.2 met uitzondering van voorschrift 3.2.1.6, 3.4, 3.8 tot en met 3.20, 3.23 en 9.2 van PGS 15.   
+1.  Artikel 4.23 is niet van toepassing op stoffen van ADR klasse 5.2 type D, E en F, waarvoor volgens het ADR temperatuurbeheersing niet vereist is, indien deze stoffen worden opgeslagen in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in verpakking als LQ en in een opslagvoorziening als bedoeld in artikel 4.3, eerste lid, en overeenkomstig de voorschriften 9.2.2 en 9.2.3 van PGS 15.   
+2.  Stoffen van ADR klasse 5.2 type C waarvoor volgens het ADR temperatuurbeheersing niet vereist is, worden opgeslagen in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in verpakking als LQ en in een opslagvoorziening als bedoeld in artikel 4.3, eerste lid, en overeenkomstig de voorschriften 9.2.2 en 9.2.3 van PGS 15.   
 
 ### Artikel  4.26  
 
@@ -3144,6 +3618,8 @@ b. de afstand tot interne objecten waar zich over het algemeen geen mensen bevin
 ### §  4.1.6  
 
 ####Het vullen van gasflessen met propaan en/of butaan
+
+Vervallen per 01-01-2013   
 
 ### §  4.1.7  
 
@@ -3169,13 +3645,19 @@ b. de afstand tot interne objecten waar zich over het algemeen geen mensen bevin
 
 ####Installaties
 
+Vervallen per 01-01-2013   
+
 ### §  4.2.1  
 
 ####In werking hebben van een stookinstallatie
 
+Vervallen per 01-01-2013   
+
 ### §  4.2.2  
 
 ####In werking hebben van een koelinstallatie
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  4.3  
 
@@ -3193,9 +3675,9 @@ b. de afstand tot interne objecten waar zich over het algemeen geen mensen bevin
 
 ### Artikel  4.39  
 
-Aan [artikel 4.21, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.21, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij mechanische bewerking van hout, kurk, dan wel van houten, kurken of houtachtige voorwerpen worden gevoerd door een filtrerende afscheider, die geschikt is om aan [artikel 4.21, eerste lid van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij mechanische bewerking van hout, kurk, dan wel van houten, kurken of houtachtige voorwerpen worden gevoerd door een filtrerende afscheider, die geschikt is om aan artikel 4.21, eerste lid van het besluit te voldoen; en  
 
 b. de filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
@@ -3240,15 +3722,15 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.41  
 
-Aan [artikel 4.23, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.23, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het coaten of lijmen van hout, kurk dan wel houten, kurken of houtachtige voorwerpen door middel van vernevelen met een nevelspuit en emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.23, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het coaten of lijmen van hout, kurk dan wel houten, kurken of houtachtige voorwerpen door middel van vernevelen met een nevelspuit en emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.23, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.42  
 
-1.  Ter uitvoering van [artikel 4.24, eerste lid van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft: 
+1.  Ter uitvoering van artikel 4.24, eerste lid van het besluit, past degene die de inrichting drijft: 
 
 a. bij het coaten of lijmen van hout, kurk dan wel houten, kurken of houtachtige voorwerpen: 
 
@@ -3285,21 +3767,21 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt bij het
 
 ### Artikel  4.44  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in [artikel 4.27a, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt stofklasse S dat vrijkomt bij mechanische bewerking van rubber, kunststof of rubber- of kunststofproducten, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
-2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in [artikel 4.27a, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden de afgezogen emissies die vrijkomen bij mechanische bewerking van rubber, kunststof of rubber- of kunststofproducten die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in artikel 4.27a, tweede lid, van het besluit wordt stofklasse S dat vrijkomt bij mechanische bewerking van rubber, kunststof of rubber- of kunststofproducten, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
+2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in artikel 4.27a, tweede lid, van het besluit, worden de afgezogen emissies die vrijkomen bij mechanische bewerking van rubber, kunststof of rubber- of kunststofproducten die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, als bedoeld in het tweede lid.   
 
 ### Artikel  4.45  
 
-Aan [artikel 4.27a, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.27a, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij mechanische bewerking van rubber, kunststof of rubber- of kunststofproducten worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.27a, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en  
+a. de afgezogen stofemissies die vrijkomen bij mechanische bewerking van rubber, kunststof of rubber- of kunststofproducten worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.27a, eerste lid, van het besluit te voldoen, en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.45a  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.27b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), vindt het shredderen van rubber, kunststof of rubber- of kunststofproducten waarbij gebruik wordt gemaakt van een installatie met een olie- of koelvloeistofcircuit plaats boven een bodembeschermende voorziening.  
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.27b, van het besluit, vindt het shredderen van rubber, kunststof of rubber- of kunststofproducten waarbij gebruik wordt gemaakt van een installatie met een olie- of koelvloeistofcircuit plaats boven een bodembeschermende voorziening.  
 
 ### §  4.4.2  
 
@@ -3307,7 +3789,7 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld i
 
 ### Artikel  4.46  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in [artikel 4.31 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden dampen en gassen die vrijkomen bij: 
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies als bedoeld in artikel 4.31 van het besluit worden dampen en gassen die vrijkomen bij: 
 
 a. het reinigen, coaten of lijmen van kunststof en kunststof producten door middel van vernevelen van vluchtige organische stoffen met een nevelspuit;  
 
@@ -3316,9 +3798,9 @@ b. het coaten van kunststof en kunststof producten door middel van het opbrengen
 c. het reinigen, coaten of lijmen van kunststof en kunststof producten met vluchtige organische stoffen door middel van dompeling in open of halfgesloten baden, uitgezonderd de toepassing van hoogkokende stoffen;  
 
 d. het aansluitend aan voornoemde activiteiten, drogen dan wel uitharden van met vluchtige organische stoffen behandelde materialen dan wel het moffelen van materialen die zijn van voorzien van een poedercoating, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.     
-2.  Ten behoeve van het voorkomen, dan wel tot een aanvaardbaar niveau beperken van stofhinder als bedoeld in [artikel 4.31 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden emissies van stofklasse S, waaronder coating-, lijm- of poederdeeltjes, die vrijkomen bij het uitpandig coaten en lijmen van kunststof en kunststof producten door middel van vernevelen met een nevelspuit, voorkomen, dan wel beperkt door het treffen van doelmatige afschermingen.   
-3.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in [artikel 4.31 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden de overeenkomstig het eerste lid, onderdeel b, afgezogen dampen en gassen, die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
-4.  Ten behoeve van het voorkomen dan wel tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in [artikel 4.31 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden de overeenkomstig het eerste lid onderdelen a, c en d, afgezogen dampen en gassen, die op de buitenlucht worden geëmitteerd: 
+2.  Ten behoeve van het voorkomen, dan wel tot een aanvaardbaar niveau beperken van stofhinder als bedoeld in artikel 4.31 van het besluit, worden emissies van stofklasse S, waaronder coating-, lijm- of poederdeeltjes, die vrijkomen bij het uitpandig coaten en lijmen van kunststof en kunststof producten door middel van vernevelen met een nevelspuit, voorkomen, dan wel beperkt door het treffen van doelmatige afschermingen.   
+3.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht als bedoeld in artikel 4.31 van het besluit, worden de overeenkomstig het eerste lid, onderdeel b, afgezogen dampen en gassen, die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+4.  Ten behoeve van het voorkomen dan wel tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in artikel 4.31 van het besluit worden de overeenkomstig het eerste lid onderdelen a, c en d, afgezogen dampen en gassen, die op de buitenlucht worden geëmitteerd: 
 
 a. ten minste 2 meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen gebouwen afgevoerd; of  
 
@@ -3338,15 +3820,15 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.47  
 
-Aan [artikel 4.29, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.29, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het coaten of lijmen van van rubber, kunststof of rubber- of kunststofproducten door middel van vernevelen met een nevelspuit en de emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden afgezogen en worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.29, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het coaten of lijmen van van rubber, kunststof of rubber- of kunststofproducten door middel van vernevelen met een nevelspuit en de emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden afgezogen en worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.29, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.48  
 
-1.  Ter uitvoering van [artikel 4.30, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft: 
+1.  Ter uitvoering van artikel 4.30, eerste lid, van het besluit, past degene die de inrichting drijft: 
 
 a. bij het coaten of lijmen van rubber, kunststof of rubber- of kunststofproducten: 
 
@@ -3371,7 +3853,7 @@ iv. indien reiniging niet mogelijk is in een gesloten systeem, om redenen van te
 
 ### Artikel  4.49  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.31 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt bij het reinigen, coaten of lijmen van rubber, kunststof of rubber- of kunststofproducten het verwerken van lakken, verdunners en lijmen alsmede het reinigen, het chemisch ontlakken en het logen van rubber, kunststof of rubber- of kunststofproducten plaats boven een bodembeschermende voorziening.  
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.31 van het besluit vindt bij het reinigen, coaten of lijmen van rubber, kunststof of rubber- of kunststofproducten het verwerken van lakken, verdunners en lijmen alsmede het reinigen, het chemisch ontlakken en het logen van rubber, kunststof of rubber- of kunststofproducten plaats boven een bodembeschermende voorziening.  
 
 ### §  4.4.3  
 
@@ -3379,21 +3861,21 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld i
 
 ### Artikel  4.49a  
 
-1.  Ten behoeve van het voorkomen dan wel het zoveel mogelijk beperken van diffuse emissies als bedoeld in [artikel 4.31b, vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt stofklasse S die vrijkomt bij het wegen of mengen van rubbercompounds, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
-2.  Ten behoeve van een doelmatige verspreiding van emissies naar de buitenlucht als bedoeld in [artikel 4.31b, vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden emissies die vrijkomen bij het wegen of mengen van rubbercompounds of het verwerken van rubber, thermoplastische kunststof of polyesterhars, voor zover die worden afgezogen, bovendaks en omhoog gericht naar de buitenlucht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein of een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+1.  Ten behoeve van het voorkomen dan wel het zoveel mogelijk beperken van diffuse emissies als bedoeld in artikel 4.31b, vierde lid, van het besluit wordt stofklasse S die vrijkomt bij het wegen of mengen van rubbercompounds, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
+2.  Ten behoeve van een doelmatige verspreiding van emissies naar de buitenlucht als bedoeld in artikel 4.31b, vierde lid, van het besluit worden emissies die vrijkomen bij het wegen of mengen van rubbercompounds of het verwerken van rubber, thermoplastische kunststof of polyesterhars, voor zover die worden afgezogen, bovendaks en omhoog gericht naar de buitenlucht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein of een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan, in het belang van de luchtkwaliteit en met inachtneming van de NeR, maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van emissies naar de buitenlucht, bedoeld in het tweede lid.   
 
 ### Artikel  4.49b  
 
-Aan [artikel 4.31b, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.31b, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het wegen of mengen van rubbercompounds worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.31b, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en  
+a. de afgezogen stofemissies die vrijkomen bij het wegen of mengen van rubbercompounds worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.31b, eerste lid, van het besluit te voldoen, en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.49c  
 
-1.  Stoffen als bedoeld in het [4.31b, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), die bij het mengen van rubbercompounds of het verwerken van rubber of thermoplastische kunststof worden toegepast en in ieder geval onder een minimalisatieverplichting vallen, zijn: 
+1.  Stoffen als bedoeld in het 4.31b, tweede lid, van het besluit, die bij het mengen van rubbercompounds of het verwerken van rubber of thermoplastische kunststof worden toegepast en in ieder geval onder een minimalisatieverplichting vallen, zijn: 
 
 a. benzyl butyl ftalaat (BBP);  
 
@@ -3406,7 +3888,7 @@ d. di-isobutyl ftalaat (DIBP).
 
 ### Artikel  4.49d  
 
-1.  Ten behoeve van het voorkomen of, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van de geurhinder, bedoeld in [artikel 4.31c van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft de volgende emissiereducerende maatregelen met betrekking tot styreen toe, tenzij deze niet kosteneffectief of niet technisch uitvoerbaar zijn: 
+1.  Ten behoeve van het voorkomen of, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van de geurhinder, bedoeld in artikel 4.31c van het besluit, past degene die de inrichting drijft de volgende emissiereducerende maatregelen met betrekking tot styreen toe, tenzij deze niet kosteneffectief of niet technisch uitvoerbaar zijn: 
 
 a. toepassen van harsen met additieven die verdamping van styreen bij het uitharden beperken;  
 
@@ -3441,7 +3923,7 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.49e  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.31d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt het: 
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.31d van het besluit vindt het: 
 
 a. mengen van rubbercompounds;  
 
@@ -3463,31 +3945,31 @@ c. verwerken van polyesterhars, waaronder tevens wordt verstaan het reinigen van
 1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies, worden stof en rook die vrijkomen bij smeden, droogverspanende bewerkingen, thermische bewerkingen en mechanische eindafwerking van metalen, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
 2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht, worden voor zover het afgezogen emissies betreft, die vrijkomen bij smeden, droogverspanende bewerkingen, thermische bewerkingen en mechanische eindafwerking van metalen en die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan in het belang van de luchtkwaliteit met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, bedoeld in het tweede lid.   
-4.  Indien vanwege het volume of het gewicht van het te bewerken object, bedoeld in [artikel 4.32, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), het uitvoeren van fijnverspanende bewerkingen aan metalen in de buitenlucht plaatsvindt, worden emissies die hierbij in de buitenlucht vrijkomen voorkomen, dan wel beperkt door het toepassen van doelmatige stofarme technieken, tenzij dit redelijkerwijs niet mogelijk is.   
+4.  Indien vanwege het volume of het gewicht van het te bewerken object, bedoeld in artikel 4.32, tweede lid, van het besluit, het uitvoeren van fijnverspanende bewerkingen aan metalen in de buitenlucht plaatsvindt, worden emissies die hierbij in de buitenlucht vrijkomen voorkomen, dan wel beperkt door het toepassen van doelmatige stofarme technieken, tenzij dit redelijkerwijs niet mogelijk is.   
 5.  Indien het toepassen van doelmatige stofarme technieken als genoemd in het vierde lid redelijkerwijs niet mogelijk is, worden de emissies van stof die vrijkomen bij het uitvoeren van fijnverspanende bewerkingen aan metalen in de buitenlucht, gereduceerd door het plaatsen van een doelmatige omkapping van geschikt materiaal.   
 6.  Ten aanzien van het zoveel mogelijk voorkomen, dan wel tot een aanvaardbaar niveau beperken van stofhinder bij het uitvoeren van fijnverspanende bewerkingen aan metalen in de buitenlucht, kan het bevoegd gezag met inachtneming van de NeR maatwerkvoorschriften stellen ter uitwerking van het vierde en vijfde lid.   
 
 ### Artikel  4.51  
 
-Aan [artikel 4.33, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.33, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij het smeden, droogverspanende bewerkingen, thermische bewerkingen en mechanische eindafwerking van metalen, worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.33, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij het smeden, droogverspanende bewerkingen, thermische bewerkingen en mechanische eindafwerking van metalen, worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.33, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.52  
 
-Aan [artikel 4.34, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.34, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij droogverspanende bewerkingen, thermische bewerkingen en mechanische eindafwerking van roestvast staal, worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.34, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij droogverspanende bewerkingen, thermische bewerkingen en mechanische eindafwerking van roestvast staal, worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.34, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.53  
 
-Aan [artikel 4.35, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.35, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij het snijden van koper worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.35, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij het snijden van koper worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.35, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
@@ -3501,7 +3983,7 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vinden verspa
 
 ### Artikel  4.54a  
 
-Bij het lassen van metalen wordt de volgende klassenindeling, bedoeld in [artikel 4.40, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aangehouden: 
+Bij het lassen van metalen wordt de volgende klassenindeling, bedoeld in artikel 4.40, tweede lid, van het besluit, aangehouden: 
 
 a. Klasse I en II: 
 
@@ -3543,27 +4025,27 @@ d. Klasse V, VI en VII:
 
 ### Artikel  4.56  
 
-1.  Aan de [artikelen 4.40, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [4.41, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.42, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien de afgezogen lucht afkomstig van alle klassen laswerkzaamheden wordt gerecirculeerd.   
-2.  Bij laswerkzaamheden klasse III wordt aan [artikel 4.40, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval voldaan indien per jaar niet meer dan 6.500 kilogram lastoevoegmateriaal en -elektroden wordt verbruikt. Op verzoek van het bevoegd gezag wordt aangetoond wat het jaarverbruik is aan lastoevoegmateriaal en -elektroden.   
-3.  Bij laswerkzaamheden klasse III wordt aan [artikel 4.40, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval voldaan indien: 
+1.  Aan de artikelen 4.40, eerste lid, 4.41, eerste lid, en 4.42, eerste lid, van het besluit wordt in ieder geval voldaan indien de afgezogen lucht afkomstig van alle klassen laswerkzaamheden wordt gerecirculeerd.   
+2.  Bij laswerkzaamheden klasse III wordt aan artikel 4.40, eerste lid, van het besluit in ieder geval voldaan indien per jaar niet meer dan 6.500 kilogram lastoevoegmateriaal en -elektroden wordt verbruikt. Op verzoek van het bevoegd gezag wordt aangetoond wat het jaarverbruik is aan lastoevoegmateriaal en -elektroden.   
+3.  Bij laswerkzaamheden klasse III wordt aan artikel 4.40, eerste lid, van het besluit in ieder geval voldaan indien: 
 
-a. de afgezogen lasrook die vrijkomt voordat deze wordt afgevoerd, wordt gevoerd door een filtrerende afscheider of elektrostatisch filter, die geschikt is om aan [artikel 4.40, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen lasrook die vrijkomt voordat deze wordt afgevoerd, wordt gevoerd door een filtrerende afscheider of elektrostatisch filter, die geschikt is om aan artikel 4.40, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of het elektrostatisch filter in goede staat van onderhoud verkeert, deze periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.     
-4.  Indien bij laswerkzaamheden klasse IV niet wordt gerecirculeerd als bedoeld in het eerste lid, wordt in ieder geval aan [artikel 4.40, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldaan, indien: 
+4.  Indien bij laswerkzaamheden klasse IV niet wordt gerecirculeerd als bedoeld in het eerste lid, wordt in ieder geval aan artikel 4.40, eerste lid, van het besluit voldaan, indien: 
 
-a. de afgezogen lasrook die vrijkomt, voordat deze wordt afgevoerd, wordt gevoerd door een filtrerende afscheider of elektrostatisch filter die geschikt is om aan [artikel 4.40, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen lasrook die vrijkomt, voordat deze wordt afgevoerd, wordt gevoerd door een filtrerende afscheider of elektrostatisch filter die geschikt is om aan artikel 4.40, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of elektrostatisch filter in goede staat van onderhoud verkeert, deze periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.     
-5.  Bij laswerkzaamheden klasse V, VI en VII waarbij roestvast gelast wordt met beklede elektroden of met MAG gevulde draad, of indien andere materialen gelast worden met gelegeerde elektrode of met gelegeerde gevulde draad, wordt aan de [artikelen 4.40, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.41, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval voldaan indien per jaar niet meer dan 200 kilogram lastoevoegmateriaal en -elektroden wordt gebruikt. Op verzoek van het bevoegd gezag wordt aangetoond wat het jaarverbruik is aan lastoevoegmateriaal en -elektroden.   
-6.  Bij laswerkzaamheden klasse V, VI en VII waarbij roestvast staal gelast wordt met beklede elektroden of met MAG gevulde draad, of indien andere materialen gelast worden met gelegeerde elektrode of met gelegeerde gevulde draad, wordt aan de [artikelen 4.40, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [4.41, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval voldaan indien: 
+5.  Bij laswerkzaamheden klasse V, VI en VII waarbij roestvast gelast wordt met beklede elektroden of met MAG gevulde draad, of indien andere materialen gelast worden met gelegeerde elektrode of met gelegeerde gevulde draad, wordt aan de artikelen 4.40, eerste lid, en 4.41, eerste lid, van het besluit in ieder geval voldaan indien per jaar niet meer dan 200 kilogram lastoevoegmateriaal en -elektroden wordt gebruikt. Op verzoek van het bevoegd gezag wordt aangetoond wat het jaarverbruik is aan lastoevoegmateriaal en -elektroden.   
+6.  Bij laswerkzaamheden klasse V, VI en VII waarbij roestvast staal gelast wordt met beklede elektroden of met MAG gevulde draad, of indien andere materialen gelast worden met gelegeerde elektrode of met gelegeerde gevulde draad, wordt aan de artikelen 4.40, eerste lid en 4.41, eerste lid, van het besluit in ieder geval voldaan indien: 
 
-a. de afgezogen lasrook die vrijkomt voordat deze wordt afgevoerd, wordt gevoerd door een filtrerende afscheider of elektrostatisch filter die geschikt is om aan de [artikelen 4.40, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.41, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen lasrook die vrijkomt voordat deze wordt afgevoerd, wordt gevoerd door een filtrerende afscheider of elektrostatisch filter die geschikt is om aan de artikelen 4.40, eerste lid, en 4.41, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of het elektrostatisch filter in goede staat van onderhoud verkeert, deze periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.     
-7.  Bij laswerkzaamheden klasse V, VI en VII, waarbij met loodmenie geverfd staal wordt gelast en niet wordt gerecirculeerd als bedoeld in het eerste lid, wordt in ieder geval aan de [artikelen 4.40, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.41, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldaan indien: 
+7.  Bij laswerkzaamheden klasse V, VI en VII, waarbij met loodmenie geverfd staal wordt gelast en niet wordt gerecirculeerd als bedoeld in het eerste lid, wordt in ieder geval aan de artikelen 4.40, eerste lid, en 4.41, eerste lid, van het besluit voldaan indien: 
 
-a. de afgezogen emissies van lood- en loodverbindingen die vrijkomen bij het lassen van met loodmenie geverfd staal worden gevoerd door een filtrerende afscheider of elektrostatisch filter die geschikt is om aan [artikel 4.42, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies van lood- en loodverbindingen die vrijkomen bij het lassen van met loodmenie geverfd staal worden gevoerd door een filtrerende afscheider of elektrostatisch filter die geschikt is om aan artikel 4.42, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of het elektrostatisch filter in goede staat van onderhoud verkeert, deze periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.     
 
@@ -3579,21 +4061,21 @@ b. die filtrerende afscheider of het elektrostatisch filter in goede staat van o
 
 ### Artikel  4.58  
 
-Aan de [artikelen 4.44, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.45 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan de artikelen 4.44, eerste lid, en 4.45 van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het solderen van metalen worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikelen 4.44, eerste lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.45 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het solderen van metalen worden gevoerd door een filtrerende afscheider die geschikt is om aan artikelen 4.44, eerste lid, en 4.45 van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.59  
 
-Aan [artikel 4.46 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.46 van het besluit wordt in ieder geval voldaan indien: 
 
 a. het jaarlijks verbruik aan vloeimiddelen minder is dan 100 kilogram;  
 
-b. de afgezogen gasvormige emissies die vrijkomen bij het solderen met vloeimiddelen die vluchtige organische stoffen bevatten worden gevoerd door een adsorptiefilter die geschikt is om aan [artikel 4.46 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en het adsorptiefliter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt; of  
+b. de afgezogen gasvormige emissies die vrijkomen bij het solderen met vloeimiddelen die vluchtige organische stoffen bevatten worden gevoerd door een adsorptiefilter die geschikt is om aan artikel 4.46 van het besluit te voldoen, en het adsorptiefliter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt; of  
 
-c. de afgezogen gasvormige emissies die vrijkomen bij het solderen met zure vloeimiddelen, worden gevoerd door een gaswasser of een aërosol- of mistfilter die geschikt is om aan [artikel 4.46 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en die gaswasser aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt.    
+c. de afgezogen gasvormige emissies die vrijkomen bij het solderen met zure vloeimiddelen, worden gevoerd door een gaswasser of een aërosol- of mistfilter die geschikt is om aan artikel 4.46 van het besluit te voldoen, en die gaswasser aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt.    
 
 ### §  4.5.4  
 
@@ -3608,15 +4090,15 @@ a. in een daarvoor bestemde en ingerichte gesloten kast, cabine of ruimte; of
 b. indien het redelijkerwijs niet mogelijk is te stralen als bedoeld in het eerste lid, onderdeel a, in een gesloten ruimte met gesloten deuren en ramen, waarbij wordt voorkomen dat bij het openen van deuren en ramen stof naar de buitenlucht vrijkomt.     
 2.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht, worden bij het stralen van metalen de stofemissies, die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
 3.  Het bevoegd gezag kan in het belang van de luchtkwaliteit met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, als bedoeld in het tweede lid.   
-4.  Indien vanwege de omvang van het te stralen object, bedoeld in [artikel 4.49, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), het stralen in de buitenlucht plaatsvindt, worden emissies van stof die vrijkomen bij het stralen van metalen in de buitenlucht, voorkomen, dan wel beperkt door het toepassen van doelmatige stofvrije of stofarme straalmethodes, tenzij dit redelijkerwijs niet mogelijk is.   
+4.  Indien vanwege de omvang van het te stralen object, bedoeld in artikel 4.49, tweede lid, van het besluit, het stralen in de buitenlucht plaatsvindt, worden emissies van stof die vrijkomen bij het stralen van metalen in de buitenlucht, voorkomen, dan wel beperkt door het toepassen van doelmatige stofvrije of stofarme straalmethodes, tenzij dit redelijkerwijs niet mogelijk is.   
 5.  Indien het toepassen van een doelmatige stofvrije of stofarme straaltechniek als genoemd in het vierde lid redelijkerwijs niet mogelijk is, wordt de emissie van stof tijdens straalwerkzaamheden in de buitenlucht gereduceerd door het plaatsen van een doelmatige omkapping van geschikt materiaal.   
 6.  Ten aanzien van het zoveel mogelijk voorkomen, dan wel tot een aanvaardbaar niveau beperken van stofhinder bij het stralen van metalen in de buitenlucht kan het bevoegd gezag met inachtneming van de NeR maatwerkvoorschriften stellen, ter uitwerking van het vierde en vijfde lid.   
 
 ### Artikel  4.61  
 
-Aan [artikel 4.50, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.50, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies als bedoeld in [artikel 4.50, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) die vrijkomen bij het stralen van metalen worden gevoerd door een filtrerende afscheider of elektrostatische filterinstallatie die geschikt is om aan [artikel 4.50, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies als bedoeld in artikel 4.50, eerste lid, van het besluit die vrijkomen bij het stralen van metalen worden gevoerd door een filtrerende afscheider of elektrostatische filterinstallatie die geschikt is om aan artikel 4.50, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of elektrostatische filterinstallatie in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
@@ -3667,16 +4149,16 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.65  
 
-Aan [artikel 4.54, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.54, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij het coaten en lijmen van metalen voorwerpen door middel van vernevelen met een nevelspuit en de emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden afgezogen en worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.54, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij het coaten en lijmen van metalen voorwerpen door middel van vernevelen met een nevelspuit en de emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden afgezogen en worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.54, eerste lid, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.65a  
 
-1.  Aan [artikel 4.54a, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt, voor zover het betreft het schoonbranden van metalen waarbij gebruik wordt gemaakt van een elektrische oven, in ieder geval voldaan indien de uit de oven afgezogen dampen via condensatie of absorptie worden behandeld en teruggeleid naar de oven zonder dat een emissie naar de lucht optreedt.   
-2.  Aan [artikel 4.54a, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt, voor zover het betreft het schoonbranden van metalen waarbij gebruik wordt gemaakt van een gasgestookte oven met een capaciteit kleiner dan 5 ton te reinigen product, in ieder geval voldaan indien: 
+1.  Aan artikel 4.54a, derde lid, van het besluit wordt, voor zover het betreft het schoonbranden van metalen waarbij gebruik wordt gemaakt van een elektrische oven, in ieder geval voldaan indien de uit de oven afgezogen dampen via condensatie of absorptie worden behandeld en teruggeleid naar de oven zonder dat een emissie naar de lucht optreedt.   
+2.  Aan artikel 4.54a, derde lid, van het besluit wordt, voor zover het betreft het schoonbranden van metalen waarbij gebruik wordt gemaakt van een gasgestookte oven met een capaciteit kleiner dan 5 ton te reinigen product, in ieder geval voldaan indien: 
 
 a. de rookgassen uit de oven worden geleid door een naverbrander, die geschikt is om aan artikel 4.54a, derde lid, te voldoen en zo is ingeregeld dat: 
 
@@ -3693,7 +4175,7 @@ b. de rookgassen alleen via de naverbrander uit de oven kunnen worden afgevoerd;
 c. het temperatuurverloop van oven en naverbrander continu geregistreerd wordt, en  
 
 d. de oven en de naverbrander in goede staat van onderhoud verkeren, periodiek gecontroleerd worden en zo vaak als voor de goede werking nodig is, worden schoongemaakt en vervangen.     
-3.  Aan [artikel 4.54a, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt, voor zover het betreft het schoonbranden van metalen waarbij gebruik wordt gemaakt van een gasgestookte oven met een capaciteit groter dan of gelijk aan 5 ton te reinigen product, in ieder geval voldaan indien: 
+3.  Aan artikel 4.54a, derde lid, van het besluit wordt, voor zover het betreft het schoonbranden van metalen waarbij gebruik wordt gemaakt van een gasgestookte oven met een capaciteit groter dan of gelijk aan 5 ton te reinigen product, in ieder geval voldaan indien: 
 
 a. de rookgassen uit de oven worden geleid door een naverbrander, die geschikt is om aan artikel 4.54a, derde lid, te voldoen en zo is ingeregeld dat: 
 
@@ -3723,7 +4205,7 @@ i. de oven en de naverbrander in goede staat van onderhoud verkeren, ten minste 
 
 ### Artikel  4.66  
 
-1.  Ter uitvoering van [artikel 4.55, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft: 
+1.  Ter uitvoering van artikel 4.55, eerste lid, van het besluit, past degene die de inrichting drijft: 
 
 a. bij het coaten en lijmen van metalen voorwerpen: 
 
@@ -3777,14 +4259,14 @@ c. het voorkomen of beperken van diffuse geuremissies; of
 
 d. het beperken van incidentele geurpieken tot specifieke tijdstippen.     
 9.  In afwijking van het zesde lid kan het bevoegd gezag indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt en de bevoegdheden genoemd in het achtste lid onvoldoende zijn om de overschrijding ongedaan te maken met inachtneming van de NeR maatwerkvoorschriften stellen met betrekking tot de aanwezigheid van een ontgeuringsinstallatie of een grotere afvoerhoogte van de afgezogen dampen en gassen.   
-10.  Indien vanwege de omvang van het te bewerken object, als bedoeld in [artikel 4.57, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), het schooperen in de buitenlucht plaatsvindt worden emissies van stof die vrijkomen bij het schooperen van metalen in de buitenlucht, voorkomen, dan wel beperkt door het aanbrengen van doelmatige geheel gesloten omkappingen om het te behandelen werkstuk. Een omkapping bestaat uit doek, zeil of een ander stofdicht materiaal.   
+10.  Indien vanwege de omvang van het te bewerken object, als bedoeld in artikel 4.57, tweede lid, van het besluit, het schooperen in de buitenlucht plaatsvindt worden emissies van stof die vrijkomen bij het schooperen van metalen in de buitenlucht, voorkomen, dan wel beperkt door het aanbrengen van doelmatige geheel gesloten omkappingen om het te behandelen werkstuk. Een omkapping bestaat uit doek, zeil of een ander stofdicht materiaal.   
 11.  Ten behoeve van het zoveel mogelijk voorkomen, dan wel tot een aanvaardbaar niveau beperken van stofhinder vanwege het in de buitenlucht schooperen van metalen kan het bevoegd gezag met inachtneming van de NeR maatwerkvoorschriften stellen, ter uitwerking van het tiende lid.   
 
 ### Artikel  4.69  
 
-Aan [artikel 4.58 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.58 van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het aanbrengen van anorganische deklagen op metalen worden gevoerd door een filtrerende afscheider of elektrostatische filterinstallatie, die geschikt is om aan [artikel 4.58 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het aanbrengen van anorganische deklagen op metalen worden gevoerd door een filtrerende afscheider of elektrostatische filterinstallatie, die geschikt is om aan artikel 4.58 van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of elektrostatische filterinstallatie in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
@@ -3804,11 +4286,11 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt het aan
 
 ### Artikel  4.72  
 
-Aan [artikel 4.60, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.60, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
 a. de totale oppervlakte van de aanwezige beits- en etsbaden met eenzelfde werkzame badvloeistof minder bedraagt dan 3 vierkante meter,<sup></sup>de temperatuur van de baden niet hoger is dan 50 graden Celsius<sup></sup>en er geen agitatie van de vloeistof in de baden plaatsvindt; of  
 
-b. de afgezogen emissies die vrijkomen bij het elektrolytisch of stroomloos beitsen en etsen van metalen worden gevoerd door een gaswasser of aërosol- of mistfilter die geschikt is om aan [artikel 4.60, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is wordt schoongemaakt.    
+b. de afgezogen emissies die vrijkomen bij het elektrolytisch of stroomloos beitsen en etsen van metalen worden gevoerd door een gaswasser of aërosol- of mistfilter die geschikt is om aan artikel 4.60, eerste lid, van het besluit te voldoen; en die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is wordt schoongemaakt.    
 
 ### Artikel  4.73  
 
@@ -3829,9 +4311,9 @@ b. de afgezogen emissies die vrijkomen bij het elektrolytisch of stroomloos beit
 
 ### Artikel  4.75  
 
-Aan [artikel 4.62, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.62, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij het elektrolytisch en stroomloos aanbrengen van chroom- of cadmiumlagen op metalen worden gevoerd door een gaswasser of aërosol- of mistfilter die geschikt is om aan [artikel 4.62, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij het elektrolytisch en stroomloos aanbrengen van chroom- of cadmiumlagen op metalen worden gevoerd door een gaswasser of aërosol- of mistfilter die geschikt is om aan artikel 4.62, eerste lid, van het besluit te voldoen; en  
 
 b. die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt.    
 
@@ -3852,19 +4334,19 @@ b. die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeer
 
 ### Artikel  4.78  
 
-Aan [artikel 4.65, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.65, eerste lid, onderdeel a, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij het chroomzuuranodiseren worden gevoerd door een gaswasser of aërosol- of mistfilter, die geschikt is om [artikel 4.65, eerste lid, onderdeel a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij het chroomzuuranodiseren worden gevoerd door een gaswasser of aërosol- of mistfilter, die geschikt is om artikel 4.65, eerste lid, onderdeel a, van het besluit te voldoen; en  
 
 b. die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is wordt schoongemaakt.    
 
 ### Artikel  4.79  
 
-Aan [artikel 4.65, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.65, eerste lid, onderdeel b, van het besluit wordt in ieder geval voldaan indien: 
 
 a. de temperatuur van de zwavelzuurbaden ten behoeve van het zwavelzuuranodiseren lager is dan 60 graden Celsius; of  
 
-b. de afgezogen emissies die vrijkomen bij het zwavelzuuranodiseren worden gevoerd door een gaswasser of aërosol- of mistfilter, die geschikt is om aan [artikel 4.65, eerste lid, onderdeel b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is wordt schoongemaakt.    
+b. de afgezogen emissies die vrijkomen bij het zwavelzuuranodiseren worden gevoerd door een gaswasser of aërosol- of mistfilter, die geschikt is om aan artikel 4.65, eerste lid, onderdeel b, van het besluit te voldoen, en die gaswasser of aërosol- of mistfilter in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is wordt schoongemaakt.    
 
 ### Artikel  4.80  
 
@@ -3883,13 +4365,13 @@ b. de afgezogen emissies die vrijkomen bij het zwavelzuuranodiseren worden gevoe
 
 ### Artikel  4.82  
 
-Aan [artikel 4.68, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.68, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofvormige emissies die vrijkomen bij het thermisch aanbrengen van metaallagen op metalen worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.68, eerste lid, onderdelen a en b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofvormige emissies die vrijkomen bij het thermisch aanbrengen van metaallagen op metalen worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.68, eerste lid, onderdelen a en b, van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
 
-c. de afgezogen dampvormige emissies die vrijkomen bij het thermisch aanbrengen van metaallagen op metalen worden gevoerd door een gaswasser die geschikt is om aan [artikel 4.68, eerste lid, onderdeel c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+c. de afgezogen dampvormige emissies die vrijkomen bij het thermisch aanbrengen van metaallagen op metalen worden gevoerd door een gaswasser die geschikt is om aan artikel 4.68, eerste lid, onderdeel c, van het besluit te voldoen; en  
 
 d. die gaswasser in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is wordt schoongemaakt.    
 
@@ -3900,11 +4382,11 @@ d. die gaswasser in goede staat van onderhoud verkeert, periodiek wordt gecontro
 
 ### §  4.5.11  
 
-####Lozen van afvalwater afkomstig van activiteiten in [§ 4.5.1 tot en met § 4.5.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)
+####Lozen van afvalwater afkomstig van activiteiten in § 4.5.1 tot en met § 4.5.11 van het besluit
 
 ### Artikel  4.84  
 
-1.  Bij het lozen van afvalwater afkomstig van activiteiten in [§ 4.5.1 tot en met § 4.5.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt ter beperking van het lozen van metalen en hulpstoffen ten minste voldaan aan het tweede tot en met het vierde lid.   
+1.  Bij het lozen van afvalwater afkomstig van activiteiten in § 4.5.1 tot en met § 4.5.11 van het besluit wordt ter beperking van het lozen van metalen en hulpstoffen ten minste voldaan aan het tweede tot en met het vierde lid.   
 2.  Degene die de inrichting drijft stelt gedragsvoorschriften op die zijn gericht op het voorkomen van nadelige gevolgen voor het milieu en een doelmatige afvoer van het bedrijfsafvalwater én draagt ervoor zorg dat de gedragsregels worden nageleefd.   
 3.  In de gedragsvoorschriften wordt ten minste aangegeven: 
 
@@ -3958,13 +4440,13 @@ d. vinden reiniging en ontstoffing van apparatuur en werkruimten plaats door geb
 
 ### Artikel  4.84b  
 
-Aan [artikel 4.74b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.74b van het besluit wordt in ieder geval voldaan indien: 
 
 a. mechanische bewerking van steen plaatsvindt met waterkoeling en de waterstraal of het watergordijn zodanig is gedimensioneerd dat geen zichtbare stofvorming optreedt; of  
 
-b. de afgezogen stofemissies die vrijkomen bij mechanische bewerking van steen worden gevoerd door een filtrerende afscheider, die geschikt is om aan [artikel 4.74b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen en in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen; of  
+b. de afgezogen stofemissies die vrijkomen bij mechanische bewerking van steen worden gevoerd door een filtrerende afscheider, die geschikt is om aan artikel 4.74b van het besluit te voldoen en in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen; of  
 
-c. bij mechanische ruimteafzuiging gebruik wordt gemaakt van een waterwand die geschikt is om aan [artikel 4.74b van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen en in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt.    
+c. bij mechanische ruimteafzuiging gebruik wordt gemaakt van een waterwand die geschikt is om aan artikel 4.74b van het besluit te voldoen en in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt.    
 
 ### §  4.5a.2  
 
@@ -3996,9 +4478,9 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.84d  
 
-Aan [artikel 4.74f van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.74f van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij het aanbrengen van lijmen, harsen of coatings op steen worden gevoerd door een filtrerende afscheider, die geschikt is om aan [artikel 4.74f van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij het aanbrengen van lijmen, harsen of coatings op steen worden gevoerd door een filtrerende afscheider, die geschikt is om aan artikel 4.74f van het besluit te voldoen; en  
 
 b. de filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
@@ -4021,12 +4503,12 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt bij het
 
 ### Artikel  4.84g  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies en het bevorderen van een doelmatige verspreiding van emissies naar de buitenlucht als bedoeld in [artikel 4.74j, derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden bij het doseren en mengen ten behoeve van de vervaardiging van betonmortel de emissies die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw is gelegen, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein of op een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies en het bevorderen van een doelmatige verspreiding van emissies naar de buitenlucht als bedoeld in artikel 4.74j, derde lid, van het besluit, worden bij het doseren en mengen ten behoeve van de vervaardiging van betonmortel de emissies die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw is gelegen, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein of op een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
 2.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de lucht.   
 
 ### Artikel  4.84h  
 
-Aan [artikel 4.74j, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het doseren en mengen ten behoeve van de vervaardiging van betonmortel in ieder geval voldaan indien de via ontluchtingsopeningen ontwijkende lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
+Aan artikel 4.74j, tweede lid, van het besluit wordt bij het doseren en mengen ten behoeve van de vervaardiging van betonmortel in ieder geval voldaan indien de via ontluchtingsopeningen ontwijkende lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
 
 ### §  4.5a.5  
 
@@ -4034,7 +4516,7 @@ Aan [artikel 4.74j, tweede lid, van het besluit](../../../../AMvB/activiteitenb
 
 ### Artikel  4.84i  
 
-1.  Ter uitvoering van [artikel 4.74o, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft bij het op bekisting aanbrengen van ontkistingsmiddelen: 
+1.  Ter uitvoering van artikel 4.74o, eerste lid, van het besluit, past degene die de inrichting drijft bij het op bekisting aanbrengen van ontkistingsmiddelen: 
 
 a. maatregelen ten aanzien van de bedrijfsvoering ter voorkoming van onnodige emissies van vluchtige organische stoffen;  
 
@@ -4043,7 +4525,7 @@ b. oplosmiddelarme producten en efficiënte applicatiemethoden toe.
 
 ### Artikel  4.84j  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.74p van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt: 
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.74p van het besluit vindt: 
 
 a. het op bekisting aanbrengen van ontkistingsmiddelen,  
 
@@ -4055,16 +4537,16 @@ b. het uitwassen van beton,   plaats boven een vloeistofdichte vloer of verhardi
 
 ### Artikel  4.84k  
 
-Aan [artikel 4.74r van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het breken van steenachtig materiaal in de buitenlucht in ieder geval voldaan indien het te breken materiaal door besproeiing vochtig wordt gehouden en de dosering van het sproeiwater zodanig is afgestemd op de behoefte dat hierbij geen afvalwater vrijkomt.  
+Aan artikel 4.74r van het besluit wordt bij het breken van steenachtig materiaal in de buitenlucht in ieder geval voldaan indien het te breken materiaal door besproeiing vochtig wordt gehouden en de dosering van het sproeiwater zodanig is afgestemd op de behoefte dat hierbij geen afvalwater vrijkomt.  
 
 ### Artikel  4.84l  
 
-Aan [artikel 4.74s, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt bij het inpandig breken van steenachtig materiaal in ieder geval voldaan indien de via ontluchtingsopeningen ontwijkende lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
+Aan artikel 4.74s, eerste lid, van het besluit wordt bij het inpandig breken van steenachtig materiaal in ieder geval voldaan indien de via ontluchtingsopeningen ontwijkende lucht door een filtrerende afscheider wordt gevoerd die in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
 
 ### Artikel  4.84m  
 
-1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies en het bevorderen van een doelmatige verspreiding van emissies naar de buitenlucht, bedoeld in [artikel 4.74s van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden bij het inpandig breken van steenachtig materiaal de emissies overeenkomstig artikel 4.74s, tweede lid, van het besluit die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw is gelegen, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein of op een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
-2.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de lucht, bedoeld in [artikel 4.74s, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).   
+1.  Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies en het bevorderen van een doelmatige verspreiding van emissies naar de buitenlucht, bedoeld in artikel 4.74s van het besluit, worden bij het inpandig breken van steenachtig materiaal de emissies overeenkomstig artikel 4.74s, tweede lid, van het besluit die naar de buitenlucht worden afgevoerd, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw is gelegen, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein of op een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
+2.  Het bevoegd gezag kan in het belang van de luchtkwaliteit en met inachtneming van de NeR maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de lucht, bedoeld in artikel 4.74s, tweede lid, van het besluit.   
 
 ### Afdeling  4.6  
 
@@ -4073,6 +4555,8 @@ Aan [artikel 4.74s, eerste lid, van het besluit](../../../../AMvB/activiteitenb
 ### §  4.6.1  
 
 ####Bieden van parkeergelegenheid in een parkeergarage
+
+Vervallen per 01-01-2013   
 
 ### §  4.6.2  
 
@@ -4085,15 +4569,21 @@ Aan [artikel 4.74s, eerste lid, van het besluit](../../../../AMvB/activiteitenb
 
 a. de gevaarlijke eigenschappen van de brandstoffen,  
 
-b. de absorptie- en hulpmiddelen, bedoeld in [artikel 4.78 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),  
+b. de absorptie- en hulpmiddelen, bedoeld in artikel 4.78 van het besluit,  
 
 c. het noodplan, bedoeld in het zevende lid, en  
 
-d. de instructies, bedoeld in artikel 36 van [bijlage 3.8 bij de Binnenvaartregeling](../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md),   en dat direct kan ingrijpen bij morsingen, incidenten en calamiteiten.   
+d. de instructies, bedoeld in artikel 36 van bijlage 3.8 bij de Binnenvaartregeling,   en dat direct kan ingrijpen bij morsingen, incidenten en calamiteiten.   
 3.  Bij een op de wal geplaatste vaste afleverinstallatie voor het afleveren van vloeibare brandstoffen aan vaartuigen en bij het vulpunt van een bunkerstation indien dit vulpunt op de kant is gelegen, worden voorzieningen getroffen of maatregelen genomen om schade aan de afleverinstallatie en het vulpunt door aanrijdingen te voorkomen.   
 4.  Een op de wal geplaatste vaste afleverinstallatie voor het afleveren van vloeibare brandstoffen aan vaartuigen en een bunkerstation zijn zodanig gelegen, dat de bereikbaarheid voor passerende vaartuigen is gewaarborgd en een zo laag mogelijk aanvaringsrisico wordt bereikt.   
-5.  Een op de wal geplaatste vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen aan vaartuigen aan de voorschriften 5.8, 6.5, 7.1, 7.7, 9.5, 9.6, 9.6.1.1, 9.6.1.3, 9.6.1.4 en 9.6.1.5 van PGS 28, waarbij voor ‘voertuig’ wordt gelezen ‘vaartuig’.   
-6.  Op een op de wal geplaatste vaste afleverinstallatie voor het afleveren van vloeibare brandstoffen aan vaartuigen zijn de artikelen 21, 35b, e, f, j en k, 36, 45, 46 en 47 van [bijlage 3.8 bij de Binnenvaartregeling](../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md) van overeenkomstige toepassing.   
+5.  Een op de wal geplaatste vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstoffen aan vaartuigen aan de volgende onderdelen van PGS 28: 
+
+a. de voorschriften 2.3.8, 2.3.11 en 2.3.12;  
+
+b. de voorschriften 3.4.4 en 3.4.6 tot en met 3.4.11, en  
+
+c. de voorschriften 5.5.1, 5.5.3, 5.6.1, 5.6.2 en 5.7.1,   waarbij voor ‘voertuig’ wordt gelezen ‘vaartuig’.   
+6.  Op een op de wal geplaatste vaste afleverinstallatie voor het afleveren van vloeibare brandstoffen aan vaartuigen zijn de artikelen 21, 35b, e, f, j en k, 36, 45, 46 en 47 van bijlage 3.8 bij de Binnenvaartregeling van overeenkomstige toepassing.   
 7.  Op verzoek van het bevoegd gezag stelt de houder van een inrichting waar vloeibare brandstof wordt afgeleverd aan vaartuigen aan de hand van de opslagcapaciteit, de aard van de opgeslagen producten en de aard van de inrichting een doelmatig noodplan op om: 
 
 a. lekkage zo spoedig mogelijk te stoppen en gelekte brandstof op te ruimen,  
@@ -4107,15 +4597,25 @@ d. indien nodig de installatie stil te leggen of te ontruimen,
 e. hulpdiensten, omwonenden en bevoegd gezag te informeren, en  
 
 f. zo nodig hulp te kunnen bieden aan degenen die zich op het bedrijfsterrein bevinden en aan omwonenden.     
-8.  Aan een schip dat gevaarlijke stoffen vervoert, bedoeld in [artikel 3.14, tweede en derde lid van het Rijnvaartpolitiereglement 1995](../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md), wordt geen vloeibare brandstof afgeleverd.   
-9.  Aan een schip dat gevaarlijke stoffen vervoert, bedoeld in [artikel 3.14, eerste lid van het Rijnvaartpolitiereglement 1995](../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md), wordt geen vloeibare brandstof afgeleverd indien de gevaarlijke stoffen gassen zijn.   
-10.  Bij een bunkerstation waar lichte olie wordt afgeleverd aan vaartuigen, wordt geen vloeibare brandstof afgeleverd aan een schip dat gevaarlijke stoffen vervoert, bedoeld in [artikel 3.14, eerste lid, van het Rijnvaartpolitiereglement 1995](../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md)   
+8.  Aan een schip dat gevaarlijke stoffen vervoert, bedoeld in artikel 3.14, tweede en derde lid van het Rijnvaartpolitiereglement 1995, wordt geen vloeibare brandstof afgeleverd.   
+9.  Aan een schip dat gevaarlijke stoffen vervoert, bedoeld in artikel 3.14, eerste lid van het Rijnvaartpolitiereglement 1995, wordt geen vloeibare brandstof afgeleverd indien de gevaarlijke stoffen gassen zijn.   
+10.  Bij een bunkerstation waar lichte olie wordt afgeleverd aan vaartuigen, wordt geen vloeibare brandstof afgeleverd aan een schip dat gevaarlijke stoffen vervoert, bedoeld in artikel 3.14, eerste lid, van het Rijnvaartpolitiereglement 1995   
 
 ### Artikel  4.86a  
 
-1.  Onverminderd artikel 4.86 voldoet een bunkerstation bij het afleveren van vloeibare brandstof aan vaartuigen ten minste aan de voorschriften 5.8, 6.5, 7.1, 7.7, 9.5, 9.6, 9.6.1.1, 9.6.1.3, 9.6.1.4 en 9.6.1.5 van PGS 28, waarbij voor ‘voertuig’ wordt gelezen ‘vaartuig’ en aan de artikelen 21, 35b, e, f, j en k, 36, 45, 46 en 47 van [bijlage 3.8 bij de Binnenvaartregeling](../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).   
-2.  Het bevoegd gezag kan indien de technische staat van het bunkerstation onvoldoende is bij maatwerkvoorschrift eisen stellen die leiden tot een beschermingsniveau dat gelijkwaardig is aan [bijlage 3.8 bij de Binnenvaartregeling](../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).   
-3.  Dit artikel is niet van toepassing op een bunkerstation dat beschikt over een certificaat als bedoeld in [artikel 6 van het Binnenvaartbesluit](../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md).   
+1.  Onverminderd artikel 4.86 voldoet een bunkerstation bij het afleveren van vloeibare brandstof aan vaartuigen ten minste aan: 
+
+a. de volgende onderdelen van PGS 28: 
+
+1°. de voorschriften 2.3.8, 2.3.11 en 2.3.12;  
+
+2°. de voorschriften 3.4.4 en 3.4.6 tot en met 3.4.11, en  
+
+3°. de voorschriften 5.5.1, 5.5.2, 5.5.3, 5.6.1, 5.6.2 en 5.7.1,   waarbij voor ‘voertuig’ wordt gelezen ‘vaartuig’ en  
+
+b. de artikelen 21, 35 aanhef en onder b, e, f, j, k, 36, 45, 46 en 47 van bijlage 3.8 bij de Binnenvaartregeling.     
+2.  Het bevoegd gezag kan indien de technische staat van het bunkerstation onvoldoende is bij maatwerkvoorschrift eisen stellen die leiden tot een beschermingsniveau dat gelijkwaardig is aan bijlage 3.8 bij de Binnenvaartregeling.   
+3.  Dit artikel is niet van toepassing op een bunkerstation dat beschikt over een certificaat als bedoeld in artikel 6 van het Binnenvaartbesluit.   
 
 ### Artikel  4.87  
 
@@ -4153,48 +4653,86 @@ Indien blijkt dat bij het afleveren van vloeibare brandstoffen aan vaartuigen en
 
 ### Artikel  4.91  
 
-Een vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen aan de voorschriften 5.8, 6.5, 6.7, 7.1, 7.7, 9.3, 9.5, 9.6 en 9.6.1.1 tot en met 9.6.1.5 van PGS 28.  
+Een vaste afleverinstallatie voldoet bij het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen aan de volgende onderdelen van PGS 28: 
+
+a. de voorschriften 2.3.8 en 2.3.11 tot en met 2.3.13;  
+
+b. de voorschriften 3.4.2 tot en met 3.4.11;  
+
+c. de voorschriften 5.5.1 en 5.5.3, en  
+
+d. de paragrafen 5.6 en 5.7.    
 
 ### Artikel  4.92  
 
-1.  In afwijking van artikel 4.91 voldoet een vaste afleverinstallatie bij het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, aan het tweede tot en met zesde lid.   
-2.  Het vulpistool wordt goed weggehangen. Na gebruik lekt er geen brandstof uit het vulpistool. De afleverslang is voorzien van een automatisch afslaand vulpistool om overvullen van het tankende voertuig te voorkomen.   
-3.  Als een deel van de afleverinstallatie, leidingen of de afleverslang zich onder het hoogste vloeistofniveau van de tank kunnen bevinden is een antihevel beveiliging aangebracht tussen de tank en de flexibele afleverslang.   
-4.  Bij het toepassen van een handpomp is de afleverslang na gebruik leeg. Eventueel aanwezige brandstofresten worden teruggevoerd naar de tank. Een vulpistool van een elektrische pomp is voorzien van een automatisch afslagmechanisme.   
-5.  Een afleverinstallatie is voorzien van een vulkraan, die indien deze buiten gebruik is, niet in werking kan worden gesteld door onbevoegden.   
-6.  Een afleverinstallatie met een elektrische pomp is voorzien van een aan- en uitschakelaar.   
+In afwijking van artikel 4.91 voldoet het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, aan de voorschriften 3.4.1, 3.4.4, 3.4.5 en 3.4.8 van PGS 30.  
 
 ### Artikel  4.92a  
 
-1.  Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, aan het tweede en derde lid.   
-2.  Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie aan de voorschriften 5.8 en 9.6.2.1 tot en met 9.6.2.5 van PGS 28.   
-3.  Een mobiele afleverinstallatie is opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
+1.  Een mobiele afleverinstallatie voldoet bij het afleveren van lichte olie, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, aan bijlage D van PGS 28.   
+2.  Een mobiele afleverinstallatie voldoet bij het afleveren van gasolie, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, aan bijlage D van PGS 30.   
 
 ### Artikel  4.92b  
 
-1.  Onverminderd de artikelen 4.91, 4.92 en 4.92a voldoet een vaste afleverinstallatie voor het inpandig afleveren van lichte olie, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, die is toegestaan op grond van [artikel 6.34, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), aan het tweede en derde lid.   
-2.  Nabij de afleverinstallatie is ten minste één draagbaar blustoestel aanwezig met een vulling van ten minste 6 kg of liter blusstof.   
-3.  De afleverinstallatie wordt voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.   
+Onverminderd de artikelen 4.91 en 4.92 is een vaste afleverinstallatie voor het inpandig afleveren van lichte olie, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, die is toegestaan op grond van artikel 6.34, van het besluit, voorzien van een thermische brandmelder die is aangesloten op een akoestisch signaal.  
 
 ### Artikel  4.93  
 
-Een aardgas-afleverinstallatie voldoet bij het afleveren van gecomprimeerd aardgas, anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, aan de hoofdstukken 7 tot en met 14 van PGS 25, met uitzondering van de paragrafen 7.1.8, 7.3.8 tot en met 7.3.13, 7.7.1, 7.9, 8.6, 8.7, 8.8, 9.2, 10.8 en 13.4.  
+1.  Voor zover de nominale compressorcapaciteit per compressor ten minste 14,3 Nm <sup>3</sup> per uur bedraagt, voldoet een aardgas-afleverinstallatie voor het afleveren van gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen aan: 
+
+a. de paragrafen 5.1 tot 5.3, met uitzondering van subparagraaf 5.1.6, eerste en tweede alinea, en de paragrafen 5.5 en 5.7 tot en met 5.11, met uitzondering van subparagraaf 5.10.1 van PGS 25;  
+
+b. de paragrafen 6.1 en 6.2 van PGS 25;  
+
+c. de paragrafen 7.1 en 7.3 tot en met 7.7 van PGS 25;  
+
+d. de paragrafen 8.1 tot en met 8.7, 8.10 en 8.11 van PGS 25, en  
+
+e. de hoofdstukken 9 tot en met 12, met uitzondering van paragraaf 11.4, van PGS 25.     
+2.  Inpandig afleveren van gecomprimeerd aardgas vindt plaats overeenkomstig de paragrafen 13.1, 13.2 en 13.4 van PGS 25.   
+
+### Artikel  4.93a  
+
+1.  Een aardgas-afleverinstallatie voldoet bij het afleveren van gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, voor zover de nominale compressorcapaciteit per compressor minder dan 14,3 Nm <sup>3</sup> per uur bedraagt en voor zover de installatie is voorzien van een bufferopslag of van meerdere compressoren waarvan de uitlaatzijden zijn gekoppeld, aan het tweede tot en met vijfde lid.   
+2.  Een installatie als bedoeld in het eerste lid, die is voorzien van meerdere compressoren waarvan de uitlaatzijden zijn gekoppeld, voldoet aan de volgende onderdelen van PGS 25: 
+
+a. de paragrafen 5.1 tot en met 5.3, met uitzondering van de subparagrafen 5.1.1 en 5.1.6, eerste en tweede alinea, en de paragrafen 5.5 en 5.7 tot en met 5.11, met uitzondering van de subparagraaf 5.10.1;  
+
+b. de paragrafen 6.1 en 6.2;  
+
+c. de paragrafen 8.1 tot en met 8.7, 8.10 en 8.11, en  
+
+d. de hoofdstukken 9 tot en met 12, met uitzondering van de paragrafen 11.4 en 12.2.     
+3.  Indien een installatie als bedoeld in het tweede lid is voorzien van een bufferopslag, voldoet de installatie tevens aan de paragrafen 7.1 en 7.3 tot en met 7.7 van PGS 25.   
+4.  Een installatie als bedoeld in het eerste lid, die niet is voorzien van compressoren die aan de uitlaatzijde zijn gekoppeld maar die is voorzien van een bufferopslag, voldoet aan de volgende onderdelen van PGS 25: 
+
+a. de paragrafen 5.1 tot en met 5.3, met uitzondering van de subparagrafen 5.1.1 en 5.1.6, eerste en tweede alinea, en de paragrafen 5.5, 5.7 en 5.9 tot en met 5.11, met uitzondering van de subparagraaf 5.10.1;  
+
+b. paragraaf 7.1 en de paragrafen 7.3 tot en met 7.7;  
+
+c. de paragrafen 8.1 tot en met 8.7, 8.10 en 8.11, en  
+
+d. de hoofdstukken 9 tot en met 12, met uitzondering van de paragrafen 9.1, 11.4 en 12.2.     
 
 ### Artikel  4.94  
 
 1.  Het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen vindt plaats boven een vloeistofdichte vloer of verharding.   
-2.  De vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit, en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus 1 meter, met een minimum van 5 meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan 3 meter. In de laatste situatie is de afleverslang niet langer dan 4 meter. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld, strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste 1 meter vanaf het hart van de afleverzuil.   
-3.  In afwijking van het eerste lid vindt het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, plaats boven een bodembeschermende voorziening.   
-4.  In afwijking van het tweede lid is een mobiele afleverinstallatie opgesteld op een vloeistofdichte vloer of verharding die reikt tot ten minste 1 meter buiten de projectie van de afleverinstallatie.   
+2.  De vloeistofdichte vloer of verharding, bedoeld in het eerste lid, is aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit, en strekt zich, voor zover erfafscheidingen, gebouwen en andere fysieke begrenzingen dit toelaten, vanaf de afleverzuil uit over een afstand van ten minste de lengte van de afleverslang plus 1 meter, met een minimum van 5 meter. Indien de vloeistofdichte vloer of verharding zich daardoor zou uitstrekken tot over de openbare weg dan strekt deze vloer of verharding zich uit tot de openbare weg met dien verstande dat deze afstand niet minder bedraagt dan 3 meter. In de laatste situatie is de afleverslang niet langer dan 4 meter. Aan de zijde waar geen tankende voertuigen kunnen worden opgesteld, strekt de vloeistofdichte vloer of verharding zich uit tot een afstand van ten minste 1 meter vanaf het hart van de afleverzuil.   
+3.  De afwateringssystemen van de vloeistofdichte vloer of verharding zijn vloeistofdicht uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit. Terstond na de installatie en beproeving op dichtheid wordt de riolering afgedekt.   
+4.  De riolering, olieafscheider en de kolken en putten van de afwateringssystemen zijn aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+5.  Een afleverinstallatie is geplaatst boven een vloeistofdichte vloer of verharding. Doorvoeringen en afsluitingen van deze vloeistofdichte vloer of verharding zijn eveneens vloeistofdicht.   
+6.  Gelekte vloeistoffen worden vanaf de in het vijfde lid bedoelde vloeistofdichte vloer afgevoerd naar het afwateringssysteem of naar de in het eerste lid bedoelde vloeistofdichte vloer of verharding. Indien gebruik wordt gemaakt van afsluiters of terugslagkleppen zijn deze geplaatst boven een vloeistofdichte vloer of verharding.   
+7.  Pompeilanden en aanwezige doorvoeren zijn vloeistofdicht en zijn aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+8.  In afwijking van het eerste tot en met het zevende lid vindt het afleveren van vloeibare brandstof anders dan aan motorvoertuigen voor het wegverkeer, spoorvoertuigen en vaartuigen, waarbij minder dan 25 kubieke meter per jaar wordt afgeleverd, plaats boven een bodembeschermende voorziening.   
 
 ### Artikel  4.94a  
 
-1.  In afwijking van artikel 4.94, eerste tot en met vierde lid, kan het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, plaatsvinden boven een geomembraanbaksysteem, indien: 
+1.  In afwijking van artikel 4.94, eerste tot en met zevende lid, kan het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor het wegverkeer en vaartuigen, plaatsvinden boven een geomembraanbaksysteem, indien: 
 
 a. de inrichting is gelegen binnen de bebouwde kom waarbij de afleverzuilen in een rij parallel aan de naastgelegen weg staan opgesteld en het afleveren uitsluitend aan de wegzijde op of aan de openbare weg plaatsvindt, of  
 
 b. op basis van een onderzoek naar de grondmechanica dat voor het aanbrengen van het geomembraanbaksysteem is uitgevoerd, is gebleken dat het aanbrengen van een vloeistofdichte vloer of verharding onevenredig hoge kosten met zich meebrengt.     
-2.  Een geomembraanbaksysteem als bedoeld in het eerste lid is aangelegd overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Een geomembraanbaksysteem als bedoeld in het eerste lid is aangelegd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een bedrijf, dat daartoe beschikt over een erkenning op grond van dat besluit.   
 
 ### §  4.6.4  
 
@@ -4262,7 +4800,7 @@ c. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.101  
 
-Aan de procesmatige scheiding als bedoeld in [artikel 4.91, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien de inkt aan de zeefdrukmachine wordt verwijderd en één van de volgende technieken wordt toegepast: 
+Aan de procesmatige scheiding als bedoeld in artikel 4.91, tweede lid, van het besluit wordt in ieder geval voldaan indien de inkt aan de zeefdrukmachine wordt verwijderd en één van de volgende technieken wordt toegepast: 
 
 a. een automatische drukvormwasinstallatie;  
 
@@ -4284,11 +4822,11 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt het zee
 
 ### Artikel  4.102b  
 
-Aan [artikel 4.94 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.94 van het besluit wordt in ieder geval voldaan indien: 
 
 a. het gebruik van anti-smetpoeder minder bedraagt dan 500 kg per jaar; of  
 
-b. de afgezogen stofemissies die vrijkomen bij vellenoffsetdrukpersen worden gevoerd door een filtrerende afscheider, die geschikt is om aan [artikel 4.94 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
+b. de afgezogen stofemissies die vrijkomen bij vellenoffsetdrukpersen worden gevoerd door een filtrerende afscheider, die geschikt is om aan artikel 4.94 van het besluit te voldoen, in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.102c  
 
@@ -4305,12 +4843,12 @@ c. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.102d  
 
-1.  Ter uitvoering van [artikel 4.94a, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft: 
+1.  Ter uitvoering van artikel 4.94a, eerste lid, van het besluit, past degene die de inrichting drijft: 
 
 a. bij het toepassen van vluchtige organische stoffen in het vochtwater een zo laag als redelijkerwijs mogelijk gehalte aan vluchtige organische stoffen toe;  
 
 b. maatregelen ten aanzien van de bedrijfsvoering toe, ter voorkoming van onnodige emissie van vluchtige organische stoffen bij het offsetdrukken en het reinigen van de hierbij gebruikte apparatuur.     
-2.  Ter uitvoering van [artikel 4.94a, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) stelt degene die de inrichting drijft een plan op ter reductie van het gebruik van isopropylalcohol of andere vluchtige organische stoffen die aan het vochtwater worden toegevoegd. Dit plan: 
+2.  Ter uitvoering van artikel 4.94a, eerste lid, van het besluit stelt degene die de inrichting drijft een plan op ter reductie van het gebruik van isopropylalcohol of andere vluchtige organische stoffen die aan het vochtwater worden toegevoegd. Dit plan: 
 
 a. bevat een beschrijving van de getroffen of te treffen maatregelen ter reductie van het gehalte aan isopropylalcohol of andere vluchtige organische stoffen in het vochtwater;  
 
@@ -4331,8 +4869,8 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt bij het
 
 ### Artikel  4.102ea  
 
-1.  Ten behoeve van het voorkomen dan wel het zoveel mogelijk beperken van diffuse emissies als bedoeld in [artikel 4.94de van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden gassen en dampen die vrijkomen bij het heatsetdrogen, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
-2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in [artikel 4.94de van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden de afgezogen gassen en dampen, die naar de buitenlucht worden afgevoerd, ten minste twee meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen gebouwen afgevoerd.   
+1.  Ten behoeve van het voorkomen dan wel het zoveel mogelijk beperken van diffuse emissies als bedoeld in artikel 4.94de van het besluit, worden gassen en dampen die vrijkomen bij het heatsetdrogen, voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
+2.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in artikel 4.94de van het besluit, worden de afgezogen gassen en dampen, die naar de buitenlucht worden afgevoerd, ten minste twee meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen gebouwen afgevoerd.   
 3.  Het tweede lid is niet van toepassing indien het mogelijke effect van de geuremissie van de uittredende lucht van een afzuiginstallatie beperkt blijft tot een gezoneerd industrieterrein of een bedrijventerrein met minder dan één geurgevoelig object per hectare.   
 4.  Het bevoegd gezag kan, indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt vanwege onvoldoende verspreiding van afgezogen dampen of gassen, met betrekking tot geuremissies die niet via de afzuiging worden afgevoerd of incidentele geurpieken met inachtneming van de NeR in aanvulling op het tweede lid maatwerkvoorschriften stellen inzake: 
 
@@ -4345,7 +4883,7 @@ c. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.102eb  
 
-Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.94de van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), vindt bij het bedrukken met rotatieoffset druktechniek het verwerken van inkten, verdunningsmiddelen, reinigingsmiddelen en toevoegingsmiddelen plaats boven een bodembeschermende voorziening.  
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.94de van het besluit, vindt bij het bedrukken met rotatieoffset druktechniek het verwerken van inkten, verdunningsmiddelen, reinigingsmiddelen en toevoegingsmiddelen plaats boven een bodembeschermende voorziening.  
 
 ### §  4.7.1c  
 
@@ -4353,7 +4891,7 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld i
 
 ### Artikel  4.102ec  
 
-1.  Ten behoeve van het voorkomen dan wel het zoveel mogelijk beperken van diffuse emissies als bedoeld in [artikel 4.94di van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden gassen en dampen die vrijkomen bij: 
+1.  Ten behoeve van het voorkomen dan wel het zoveel mogelijk beperken van diffuse emissies als bedoeld in artikel 4.94di van het besluit, worden gassen en dampen die vrijkomen bij: 
 
 a. het mengen van oplosmiddelhoudende inkt en lak;  
 
@@ -4362,7 +4900,7 @@ b. drukpersen, lakkeer- en lamineermachines;
 c. het destilleren van oplosmiddelresten, of  
 
 d. het spoelen van verpakkingen van oplosmiddelhoudende inkt, lak of lijm   voor zover dat redelijkerwijs mogelijk is, doelmatig aan de bron afgezogen.   
-2.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in [artikel 4.94di van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), worden de afgezogen gassen en dampen, die naar de buitenlucht worden afgevoerd: 
+2.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in artikel 4.94di van het besluit, worden de afgezogen gassen en dampen, die naar de buitenlucht worden afgevoerd: 
 
 a. ten minste twee meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen gebouwen afgevoerd, of  
 
@@ -4381,14 +4919,14 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.102ed  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.94di van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt bij het toepassen van verpakkingsdiepdruktechniek: 
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.94di van het besluit vindt bij het toepassen van verpakkingsdiepdruktechniek: 
 
 a. het bedrukken, lakken of lamineren;  
 
 b. het mengen van watergedragen inkt of lak, of  
 
 c. het spoelen van verpakkingen van watergedragen inkt, lak of lijm,   plaats boven een bodembeschermende voorziening.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 4.94di van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) vindt bij het toepassen van flexodruktechniek: 
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.94di van het besluit vindt bij het toepassen van flexodruktechniek: 
 
 a. het mengen van oplosmiddelhoudende inkt en lak;  
 
@@ -4398,7 +4936,7 @@ c. het spoelen van verpakkingen van oplosmiddelhoudende inkt, lak of lijm,   pla
 
 ### Artikel  4.102ef  
 
-Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 4.94di van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), vindt bij de toepassing van verpakkingsdiepdruktechniek de destillatie van oplosmiddelen plaats in een brandcompartiment. In dit brandcompartiment vindt geen opslag van of handelingen met gevaarlijke stoffen of brandbare goederen plaats, uitgezonderd opslag of handelingen die gericht is of zijn op destillatie.  
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 4.94di van het besluit, vindt bij de toepassing van verpakkingsdiepdruktechniek de destillatie van oplosmiddelen plaats in een brandcompartiment. In dit brandcompartiment vindt geen opslag van of handelingen met gevaarlijke stoffen of brandbare goederen plaats, uitgezonderd opslag of handelingen die gericht is of zijn op destillatie.  
 
 ### Afdeling  4.7a  
 
@@ -4434,7 +4972,7 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.102g  
 
-1.  Ter uitvoering van [artikel 4.94e, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) past degene die de inrichting drijft bij het lijmen, coaten en lamineren van papier of karton: 
+1.  Ter uitvoering van artikel 4.94e, eerste lid, van het besluit past degene die de inrichting drijft bij het lijmen, coaten en lamineren van papier of karton: 
 
 a. maatregelen ten aanzien van de bedrijfsvoering toe ter voorkoming van onnodige emissie van vluchtige organische stoffen;  
 
@@ -4453,7 +4991,7 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt bij het
 
 ### Artikel  4.102j  
 
-Aan [artikel 4.94g, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien de afgezogen emissies die vrijkomen bij het versnipperen van papier en karton en van papieren of kartonnen producten worden gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
+Aan artikel 4.94g, eerste lid, van het besluit wordt in ieder geval voldaan indien de afgezogen emissies die vrijkomen bij het versnipperen van papier en karton en van papieren of kartonnen producten worden gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.  
 
 ### Artikel  4.102k  
 
@@ -4465,10 +5003,10 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt het mec
 
 ### Artikel  4.103  
 
-De selectielijst meetplaatsen PER-imissiemeting als bedoeld in de [artikelen 4.99, negende lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), en [4.100, negende lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is opgenomen in tabel 4.103.  Tabel 4.103 
+De selectielijst meetplaatsen PER-imissiemeting als bedoeld in de artikelen 4.99, negende lid, en 4.100, negende lid, van het besluit is opgenomen in tabel 4.103.  Tabel 4.103 
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Monsternameprotocol buitenmeting  | C-31  |
 | Selectielijst meetplaatsen PER-imissiemeting  |
 | Bedrijfscode :  Locatie :  Beoordelaar :  |
@@ -4481,7 +5019,7 @@ De selectielijst meetplaatsen PER-imissiemeting als bedoeld in de [artikelen 4.9
 | 5  | ...  | ...  | ...  | ...  | ...  |
 | Selectie  | JA/NEE  | JA/NEE  | JA/NEE  | JA/NEE  |
 | Omschrijving gevoelige objecten:  1 =  2 =  3 =  4 =  |
-| Opmerkingen:  – de mate van imissie wordt ingeschat op basis van ervaring en deskundigheid van de beoordelaar  – de afstanden tot gevoelige objecten als bedoeld in [artikel 4.96, vijfde lid van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden geschat en ingedeeld in de volgende groepen O O O = > 25 m M O O = 15-25 m M M O = 5-15 m M M M = < 5 m  – op de geselecteerde plaatsen worden metingen met behulp van PEM uitgevoerd  |
+| Opmerkingen:  – de mate van imissie wordt ingeschat op basis van ervaring en deskundigheid van de beoordelaar  – de afstanden tot gevoelige objecten als bedoeld in artikel 4.96, vijfde lid van het besluit worden geschat en ingedeeld in de volgende groepen O O O = > 25 m M O O = 15-25 m M M O = 5-15 m M M M = < 5 m  – op de geselecteerde plaatsen worden metingen met behulp van PEM uitgevoerd  |
 
 ### Artikel  4.104  
 
@@ -4500,9 +5038,9 @@ De selectielijst meetplaatsen PER-imissiemeting als bedoeld in de [artikelen 4.9
 
 ### Artikel  4.104b  
 
-Aan [artikel 4.103a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.103a van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het geautomatiseerd weven, spinnen en breien van textiel en het verkleinen van textiel en producten van textiel worden gevoerd door een filtrerende afscheider, die geschikt is om aan [artikel 4.103a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het geautomatiseerd weven, spinnen en breien van textiel en het verkleinen van textiel en producten van textiel worden gevoerd door een filtrerende afscheider, die geschikt is om aan artikel 4.103a van het besluit te voldoen; en  
 
 b. de filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
@@ -4549,15 +5087,15 @@ d. het beperken van incidentele geurpieken tot specifieke tijdstippen.
 
 ### Artikel  4.104e  
 
-Aan [artikel 4.103d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.103d van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij het coaten en lijmen van textiel door middel van vernevelen met een nevelspuit worden gevoerd door een filtrerende afscheider die geschikt is om aan [artikel 4.103d van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij het coaten en lijmen van textiel door middel van vernevelen met een nevelspuit worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 4.103d van het besluit te voldoen; en  
 
 b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.104f  
 
-1.  Ter uitvoering van [artikel 4.103e, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), past degene die de inrichting drijft bij het lijmen en coaten van textiel: 
+1.  Ter uitvoering van artikel 4.103e, eerste lid, van het besluit, past degene die de inrichting drijft bij het lijmen en coaten van textiel: 
 
 a. maatregelen toe ten aanzien van de bedrijfsvoering ter voorkoming van onnodige emissie van vluchtige organische stoffen;  
 
@@ -4604,13 +5142,19 @@ b. een bufferopslag en doseereenheid waarmee het afvalwater geleidelijk en gelij
 
 ####Bieden van gelegenheid tot het afmeren van pleziervaartuigen
 
+Vervallen per 01-01-2013   
+
 ### §  4.8.3  
 
 ####Bereiden van voedingsmiddelen
 
+Vervallen per 01-01-2013   
+
 ### §  4.8.4  
 
 ####Slachten van dieren, uitsnijden van vlees en vis en bewerken van dierlijke bijproducten
+
+Vervallen per 01-01-2013   
 
 ### §  4.8.5  
 
@@ -4619,15 +5163,19 @@ b. een bufferopslag en doseereenheid waarmee het afvalwater geleidelijk en gelij
 ### Artikel  4.109  
 
 1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vindt het met een acculader laden van een accu die vloeibare bodembedreigende stoffen bevat, plaats boven een bodembeschermende voorziening   
-2.  [Artikel 2.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is niet van toepassing op het met een acculader laden van een accu die vloeibare bodembedreigende stoffen bevat.   
+2.  Artikel 2.11 van het besluit is niet van toepassing op het met een acculader laden van een accu die vloeibare bodembedreigende stoffen bevat.   
 
 ### §  4.8.6  
 
 ####In werking hebben van een noodstroomaggregaat
 
+Vervallen per 01-01-2013   
+
 ### §  4.8.7  
 
 ####Traditioneel schieten
+
+Vervallen per 01-01-2013   
 
 ### §  4.8.8  
 
@@ -4647,9 +5195,9 @@ b. een bufferopslag en doseereenheid waarmee het afvalwater geleidelijk en gelij
 
 ### Artikel  4.113  
 
-1.  Aan [artikel 4.119 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+1.  Aan artikel 4.119 van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij crematieprocessen worden gevoerd door een adsorptiemedium en filtrerende afscheider, welke combinatie geschikt is om aan [artikel 4.119 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen emissies die vrijkomen bij crematieprocessen worden gevoerd door een adsorptiemedium en filtrerende afscheider, welke combinatie geschikt is om aan artikel 4.119 van het besluit te voldoen; en  
 
 b. het adsorptiemedium en filtrerende afscheider in goede staat van onderhoud verkeren, periodiek worden gecontroleerd en zo vaak als voor de goede werking nodig is, worden schoongemaakt en vervangen.     
 2.  Bij het ontwerp, de uitvoering en het onderhoud van het adsorptiemedium en de filtrerende afscheider, bedoeld in het eerste lid, is rekening gehouden met het voorkomen van dioxine- en furanenvorming in het filter, en het afvangen van de eventueel in de afgassen aanwezige dioxinen en furanen.   
@@ -4662,22 +5210,22 @@ b. het adsorptiemedium en filtrerende afscheider in goede staat van onderhoud ve
 2.  Verstrooiing van crematie-as geschiedt gelijkmatig en zodanig dat de as niet door verwaaiing buiten het terrein van de inrichting of het strooiveld terechtkomt of terecht kan komen.   
 3.  Indien er meer dan 90 maar minder dan 370 verstrooiingen per hectare per jaar plaatsvinden, worden de volgende maatregelen getroffen: 
 
-a. het onderzoek naar de bodemkwaliteit, bedoeld in [artikel 2.11, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), vindt tevens plaats voordat een strooiveld in gebruik wordt genomen. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden nadat het strooiveld in gebruik is genomen, toegestuurd aan het bevoegd gezag;  
+a. het onderzoek naar de bodemkwaliteit, bedoeld in artikel 2.11, eerste lid, van het besluit, vindt tevens plaats voordat een strooiveld in gebruik wordt genomen. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden nadat het strooiveld in gebruik is genomen, toegestuurd aan het bevoegd gezag;  
 
-b. onverminderd [artikel 2.11, tweede en derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt ten minste eenmaal per 25 jaar de bodemkwaliteit ter plaatse van het strooiveld bepaald. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden na uitvoering van het onderzoek toegestuurd aan het bevoegd gezag;  
+b. onverminderd artikel 2.11, tweede en derde lid, van het besluit, wordt ten minste eenmaal per 25 jaar de bodemkwaliteit ter plaatse van het strooiveld bepaald. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden na uitvoering van het onderzoek toegestuurd aan het bevoegd gezag;  
 
 c. de immissie van fosfaat naar de bodem wordt bepaald door middel van uitloogproeven. Deze proeven worden uitgevoerd op een representatief bodemmonster van het strooiveld. Deze bepaling wordt uiterlijk binnen drie maanden na oprichting van het strooiveld en daarna telkens tenminste eenmaal per 25 jaar verricht. De immissie is niet hoger dan 1.000 milligram per vierkante meter per jaar.     
 4.  Indien er meer dan 370 verstrooiingen per hectare per jaar plaatsvinden, worden de volgende maatregelen getroffen: 
 
-a. het onderzoek naar de bodemkwaliteit, bedoeld in [artikel 2.11, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), vindt tevens plaats voordat een strooiveld in gebruik wordt genomen. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden nadat het strooiveld in gebruik is genomen, toegestuurd aan het bevoegd gezag;  
+a. het onderzoek naar de bodemkwaliteit, bedoeld in artikel 2.11, eerste lid, van het besluit, vindt tevens plaats voordat een strooiveld in gebruik wordt genomen. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden nadat het strooiveld in gebruik is genomen, toegestuurd aan het bevoegd gezag;  
 
-b. onverminderd [artikel 2.11, tweede en derde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt ten minste eenmaal per vijf jaar de bodemkwaliteit ter plaatse van het strooiveld bepaald. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden na uitvoering van het onderzoek toegestuurd aan het bevoegd gezag;  
+b. onverminderd artikel 2.11, tweede en derde lid, van het besluit, wordt ten minste eenmaal per vijf jaar de bodemkwaliteit ter plaatse van het strooiveld bepaald. Een rapport met de resultaten van het onderzoek wordt uiterlijk binnen drie maanden na uitvoering van het onderzoek toegestuurd aan het bevoegd gezag;  
 
 c. de immissie van fosfaat naar de bodem wordt bepaald door middel van uitloogproeven. Deze proeven worden uitgevoerd op een representatief bodemmonster van het strooiveld. Deze bepaling wordt uiterlijk binnen drie maanden na oprichting van het strooiveld en daarna telkens tenminste eenmaal per vijf jaar verricht. De immissie is niet hoger dan 1.000 milligram per vierkante meter per jaar.     
 5.  Indien er meer dan 3200 verstrooiingen per hectare per jaar plaatsvinden, kan het bevoegd gezag maatwerkvoorschriften stellen ten aanzien van het voorkomen dan wel zoveel mogelijk beperken van de belasting van de bodem.   
-6.  De onderzoeken en rapporten, bedoeld in het derde en het vierde lid, worden uitgevoerd onderscheidenlijk opgesteld door een persoon of een instelling die daartoe beschikt over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
+6.  De onderzoeken en rapporten, bedoeld in het derde en het vierde lid, worden uitgevoerd onderscheidenlijk opgesteld door een persoon of een instelling die daartoe beschikt over een erkenning op grond van het Besluit bodemkwaliteit.   
 7.  De bepaling van de onderzoeksstrategie bij de bepaling van de bodemkwaliteit, bedoeld in het derde en het vierde lid, gebeurt conform NEN 5740.   
-8.  Indien uit rapporten als bedoeld in het derde en het vierde lid blijkt dat de belasting van de bodem is toegenomen ten opzichte van de eerder vastgestelde kwaliteit van de bodem wordt overeenkomstig [artikel 2.11, vijfde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), de bodemkwaliteit hersteld.   
+8.  Indien uit rapporten als bedoeld in het derde en het vierde lid blijkt dat de belasting van de bodem is toegenomen ten opzichte van de eerder vastgestelde kwaliteit van de bodem wordt overeenkomstig artikel 2.11, vijfde lid, van het besluit, de bodemkwaliteit hersteld.   
 9.  Bij het gebruik van wisselvelden kan het bevoegd gezag bij maatwerkvoorschrift in afwijking van het derde lid, onderdelen b en c, en het vierde lid, onderdelen b en c, een afwijkende onderzoeksfrequentie voorschrijven voor het bepalen van de bodemkwaliteit en het bepalen van de immissie van fosfaat.   
 
 ### Artikel  4.115  
@@ -4724,18 +5272,18 @@ b. worden stof, rook en dampen die vrijkomen bij activiteiten in een laboratoriu
 
 ### Artikel  4.118  
 
-Aan [artikel 4.125, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien: 
+Aan artikel 4.125, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
 
-a. de afgezogen stofemissies die vrijkomen bij laboratoriumproeven worden gevoerd door een filtrerende afscheider of elektrostatische filterinstallatie die geschikt is om aan [artikel 4.125, eerste lid van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen; en  
+a. de afgezogen stofemissies die vrijkomen bij laboratoriumproeven worden gevoerd door een filtrerende afscheider of elektrostatische filterinstallatie die geschikt is om aan artikel 4.125, eerste lid van het besluit te voldoen; en  
 
 b. die filtrerende afscheider of elektrostatisch filter in goede staat van onderhoud verkeert, deze periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.    
 
 ### Artikel  4.119  
 
-1.  Aan [artikel 4.125, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) wordt in ieder geval voldaan indien het verbruik aan stoffen ingedeeld in de klassen gA1, gA2, gA3, gO1, gO2 en gO3 in kilogram per jaar lager is dan de in [artikel 2.6 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voor de betreffende stofklasse genoemde vrijstellingsgrens en de som van de stoffen ingedeeld in de klassen gO1, gO2 en gO3 niet meer bedraagt dan 250 kilogram per jaar.   
-2.  Tevens wordt in ieder geval aan [artikel 4.125, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldaan indien: 
+1.  Aan artikel 4.125, tweede lid, van het besluit wordt in ieder geval voldaan indien het verbruik aan stoffen ingedeeld in de klassen gA1, gA2, gA3, gO1, gO2 en gO3 in kilogram per jaar lager is dan de in artikel 2.6 van het besluit voor de betreffende stofklasse genoemde vrijstellingsgrens en de som van de stoffen ingedeeld in de klassen gO1, gO2 en gO3 niet meer bedraagt dan 250 kilogram per jaar.   
+2.  Tevens wordt in ieder geval aan artikel 4.125, tweede lid, van het besluit voldaan indien: 
 
-a. de afgezogen emissies die vrijkomen bij laboratoriumproeven met stoffen ingedeeld in de klassen gA1, gA2 en gA3 worden gevoerd door een gaswasser, aërosolfilter of mistfilter die geschikt is om aan de emissieconcentratie-eisen genoemd in [artikel 4.125, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) te voldoen, en  
+a. de afgezogen emissies die vrijkomen bij laboratoriumproeven met stoffen ingedeeld in de klassen gA1, gA2 en gA3 worden gevoerd door een gaswasser, aërosolfilter of mistfilter die geschikt is om aan de emissieconcentratie-eisen genoemd in artikel 4.125, tweede lid, van het besluit te voldoen, en  
 
 b. de gaswasser, aërosolfilter of mistfilter, bedoeld onder a, in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is wordt schoongemaakt, en  
 
@@ -4771,7 +5319,7 @@ Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico vinden activi
 
 ### Artikel  5.1  
 
-De meting van de emissies, waaronder tevens begrepen wordt de berekening, registratie en rapportage van de meting, bedoeld in [artikel 5.13 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet aan de eisen in de artikelen 5.2 tot en met 5.8.  
+De meting van de emissies, waaronder tevens begrepen wordt de berekening, registratie en rapportage van de meting, bedoeld in artikel 5.13 van het besluit, voldoet aan de eisen in de artikelen 5.2 tot en met 5.8.  
 
 ### §  5.1.1  
 
@@ -4808,7 +5356,7 @@ b. de temperatuur;
 c. de druk;  
 
 d. het waterdampgehalte van het afgas, tenzij het als monster gebruikte afgas wordt gedroogd alvorens de emissies in de lucht worden geanalyseerd.     
-2.  De resultaten van de overeenkomstig deze afdeling verrichte metingen worden herleid tot een massaconcentratie bij het genormaliseerde zuurstofgehalte, bedoeld in [artikel 5.3, vierde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), overeenkomstig de volgende formule: E <sub>s</sub> = (21-O <sub>s</sub>)/(21-O <sub>m</sub>) x E <sub>m</sub>, waarbij wordt verstaan onder: E <sub>s</sub> = de berekende emissieconcentratie bij het genormaliseerde zuurstofgehalte E <sub>m</sub> = de gemeten emissieconcentratie O <sub>s</sub> = het genormaliseerde zuurstofgehalte O <sub>m</sub> = het gemeten zuurstofgehalte   
+2.  De resultaten van de overeenkomstig deze afdeling verrichte metingen worden herleid tot een massaconcentratie bij het genormaliseerde zuurstofgehalte, bedoeld in artikel 5.3, vierde lid, van het besluit, overeenkomstig de volgende formule: E <sub>s</sub> = (21-O <sub>s</sub>)/(21-O <sub>m</sub>) x E <sub>m</sub>, waarbij wordt verstaan onder: E <sub>s</sub> = de berekende emissieconcentratie bij het genormaliseerde zuurstofgehalte E <sub>m</sub> = de gemeten emissieconcentratie O <sub>s</sub> = het genormaliseerde zuurstofgehalte O <sub>m</sub> = het gemeten zuurstofgehalte   
 
 ### §  5.1.2  
 
@@ -4819,7 +5367,7 @@ d. het waterdampgehalte van het afgas, tenzij het als monster gebruikte afgas wo
 1.  De bemonsteringen, analyses en metingen van de parameters die nodig zijn om te bepalen of wordt voldaan aan de emissiegrenswaarden alsmede de andere metingen en berekeningen die in deze afdeling zijn voorgeschreven, worden uitgevoerd volgens onderstaande normbladen:  Tabel 5.5 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Normbladen voor continue meting van emissies naar lucht*   |
 | Totaal stof  | NEN-EN 13284-2  |
 |  *Normbladen voor periodieke en parallelmetingen van emissies naar lucht*   |
@@ -4837,7 +5385,7 @@ d. het waterdampgehalte van het afgas, tenzij het als monster gebruikte afgas wo
 | Monsternamestrategie, meetdoel, -plan en -rapportage  | NEN-EN 15259  |
 | Richtlijnen voor Predictive Emission Monitoring Systems (PEMS)  | NTA 7379  |
 
-2.  Op de vaststelling van het zwavelgehalte van een brandstof is de [Regeling brandstoffen luchtverontreiniging](../../../../ministeriele-regeling/regeling/brandstoffen/luchtverontreiniging/BWBR0029916/README.md) van overeenkomstige toepassing.   
+2.  Op de vaststelling van het zwavelgehalte van een brandstof is de Regeling brandstoffen luchtverontreiniging van overeenkomstige toepassing.   
 
 ### Artikel  5.6  
 
@@ -4878,7 +5426,7 @@ a. geen gevalideerd maandgemiddelde de toepasselijke emissiegrenswaarde overschr
 b. geen gevalideerd daggemiddelde 110% van de toepasselijke emissiegrenswaarde overschrijdt;  
 
 c. 95% van alle gevalideerde uurgemiddelden over een jaar niet hoger is dan 200% van de toepasselijke emissiegrenswaarde.     
-2.  Voor de toepassing van het eerste lid worden niet meegerekend: meetuitkomsten, verkregen tijdens periodes waarin een stookinstallatie op grond van [artikel 5.10](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of [5.11 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in werking mag zijn, meetuitkomsten verkregen tijdens storingen in de apparatuur die de emissiereductie bewerkstelligt en meetuitkomsten verkregen tijdens periodes van opstarten en stilleggen.   
+2.  Voor de toepassing van het eerste lid worden niet meegerekend: meetuitkomsten, verkregen tijdens periodes waarin een stookinstallatie op grond van artikel 5.10 of 5.11 van het besluit in werking mag zijn, meetuitkomsten verkregen tijdens storingen in de apparatuur die de emissiereductie bewerkstelligt en meetuitkomsten verkregen tijdens periodes van opstarten en stilleggen.   
 3.  De periodes van opstarten en stilleggen worden bepaald in overeenstemming met uitvoeringsbesluit van de Commissie van 7 mei 2012 betreffende de vaststelling van opstart- en stilleggingsperioden voor de toepassing van Richtlijn 2010/75/EU van het Europees Parlement en de Raad inzake industriële emissies (2012/249/EU) (PbEU L 123).   
 4.  Aan de van toepassing zijnde emissiegrenswaarde wordt, voor zover periodiek wordt gemeten, in ieder geval voldaan indien geen enkele gevalideerde meetuitkomst de emissiegrenswaarde overschrijdt.   
 
@@ -4892,11 +5440,11 @@ c. 95% van alle gevalideerde uurgemiddelden over een jaar niet hoger is dan 200%
 
 ### Artikel  5.9  
 
-1.  De meting van de emissies, waaronder tevens begrepen wordt de berekening, registratie en rapportage van de meting als bedoeld in [artikel 5.29, eerste lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voldoet aan de eisen in de artikelen 5.10 tot en met 5.24.   
-2.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in [artikel 5.29, tweede lid, onder a, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt voldaan aan artikel 5.26.   
-3.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in [artikel 5.29, tweede lid, onder b, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt voldaan aan artikel 5.25, 5.28 en 5.29.   
-4.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van verontreiniging van het oppervlaktewater als bedoeld in [artikel 5.29, tweede lid, onder c, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt voldaan aan artikel 5.28 en 5.29.   
-5.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in [artikel 5.29, tweede lid, onder d, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), wordt voldaan aan de artikelen 5.25 en 5.27.   
+1.  De meting van de emissies, waaronder tevens begrepen wordt de berekening, registratie en rapportage van de meting als bedoeld in artikel 5.29, eerste lid, van het besluit voldoet aan de eisen in de artikelen 5.10 tot en met 5.24.   
+2.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 5.29, tweede lid, onder a, van het besluit, wordt voldaan aan artikel 5.26.   
+3.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 5.29, tweede lid, onder b, van het besluit, wordt voldaan aan artikel 5.25, 5.28 en 5.29.   
+4.  Ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van verontreiniging van het oppervlaktewater als bedoeld in artikel 5.29, tweede lid, onder c, van het besluit, wordt voldaan aan artikel 5.28 en 5.29.   
+5.  Ten behoeve van een doelmatig beheer van afvalstoffen als bedoeld in artikel 5.29, tweede lid, onder d, van het besluit, wordt voldaan aan de artikelen 5.25 en 5.27.   
 6.  Onder nominale capaciteit van een afvalverbrandings- of afvalmeeverbrandingsinstallatie wordt voor de toepassing van deze afdeling verstaan: gezamenlijke verbrandingscapaciteit van de ovens waaruit een afvalverbrandingsinstallatie of een afvalmeeverbrandingsinstallatie bestaat, zoals berekend door de fabrikant en bevestigd door de drijver van de inrichting, met inachtneming van de verbrandingswaarde van het afval, uitgedrukt als de hoeveelheid afval die per uur kan worden verbrand.   
 
 ### §  5.2.1  
@@ -4914,7 +5462,7 @@ c. 95% van alle gevalideerde uurgemiddelden over een jaar niet hoger is dan 200%
 
 a. zwaveldioxide (SO <sub>2</sub>), totaal organische koolstof, zoutzuur, koolmonoxide, totaal stof en stikstofoxiden (NO <sub>x</sub>);  
 
-b. waterstoffluoride, tenzij voor zoutzuur behandelingsstappen worden gevolgd die waarborgen dat de in de [artikelen 5.19](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [5.20](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [5.22 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voor zoutzuur opgenomen emissiegrenswaarden niet worden overschreden.     
+b. waterstoffluoride, tenzij voor zoutzuur behandelingsstappen worden gevolgd die waarborgen dat de in de artikelen 5.19, 5.20 en 5.22 van het besluit voor zoutzuur opgenomen emissiegrenswaarden niet worden overschreden.     
 2.  In het geval voor zoutzuur behandelingsstappen worden gevolgd die voldoen aan het eerste lid, onder b, wordt periodiek ten minste tweemaal per jaar gemeten.   
 3.  In afwijking van het eerste lid wordt het gehalte zoutzuur, waterstoffluoride of zwaveldioxide (SO <sub>2</sub>) periodiek ten minste om de zes maanden gemeten, of worden er geen metingen verricht, indien de drijver van de afvalverbrandings- of afvalmeeverbrandingsinstallatie kan aantonen dat die emissie in geen geval hoger is dan de toepasselijke emissiegrenswaarde.   
 4.  In afwijking van het eerste lid wordt de emissie van stikstofoxide (NO <sub>x</sub>) van een afvalverbrandingsinstallatie periodiek ten minste om de zes maanden gemeten, indien: 
@@ -4923,7 +5471,7 @@ a. de afvalverbrandingsinstallatie een nominale capaciteit heeft van minder dan 
 
 b. vergunning is verleend of een ontvankelijke aanvraag om een vergunning is ingediend voor 28 december 2002 en de afvalverbrandingsinstallatie uiterlijk op 28 december 2004 in gebruik is genomen;  
 
-c. degene die de afvalverbrandingsinstallatie drijft, aan de hand van informatie over de kwaliteit van het betreffende afval, de gebruikte technologieën en de resultaten van de monitoring van de emissies aantoont dat emissies van stikstofoxiden in geen geval de emissiegrenswaarden, bedoeld in [artikel 5.19 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), kunnen overschrijden.     
+c. degene die de afvalverbrandingsinstallatie drijft, aan de hand van informatie over de kwaliteit van het betreffende afval, de gebruikte technologieën en de resultaten van de monitoring van de emissies aantoont dat emissies van stikstofoxiden in geen geval de emissiegrenswaarden, bedoeld in artikel 5.19 van het besluit, kunnen overschrijden.     
 
 ### Artikel  5.12  
 
@@ -5010,9 +5558,9 @@ c. op het punt waar het afvalwater na de zuivering wordt geloosd.
 
 ### Artikel  5.17  
 
-1.  De resultaten van de overeenkomstig deze afdeling verrichte metingen worden herleid tot een massaconcentratie bij het genormaliseerde zuurstofgehalte, bedoeld in de [artikelen 5.19](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [5.20](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [5.22 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), overeenkomstig de volgende formule: E <sub>s</sub> = (21-O <sub>s</sub>)/(21-O <sub>m</sub>) x E <sub>m</sub>, waarbij wordt verstaan onder: E <sub>s</sub> = de berekende emissieconcentratie bij het genormaliseerde zuurstofgehalte E <sub>m</sub> = de gemeten emissieconcentratie O <sub>s</sub> = het genormaliseerde zuurstofgehalte O <sub>m</sub> = het gemeten zuurstofgehalte   
+1.  De resultaten van de overeenkomstig deze afdeling verrichte metingen worden herleid tot een massaconcentratie bij het genormaliseerde zuurstofgehalte, bedoeld in de artikelen 5.19, 5.20 en 5.22 van het besluit, overeenkomstig de volgende formule: E <sub>s</sub> = (21-O <sub>s</sub>)/(21-O <sub>m</sub>) x E <sub>m</sub>, waarbij wordt verstaan onder: E <sub>s</sub> = de berekende emissieconcentratie bij het genormaliseerde zuurstofgehalte E <sub>m</sub> = de gemeten emissieconcentratie O <sub>s</sub> = het genormaliseerde zuurstofgehalte O <sub>m</sub> = het gemeten zuurstofgehalte   
 2.  In afwijking van het eerste lid mogen indien afvalstoffen in een met zuurstof verrijkte atmosfeer worden verbrand of meeverbrand, meetresultaten worden herleid tot een zuurstofgehalte waarvan de drijver van de afvalverbrandings- of afvalmeeverbrandingsinstallatie aantoont dat dit de bijzondere omstandigheden van het geval weergeeft.   
-3.  Indien de emissies in de lucht van stoffen, waarvoor bij [paragraaf 5.2 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) emissiegrenswaarden zijn gesteld, worden verminderd door behandeling van het afgas in een afvalverbrandings- of afvalmeeverbrandingsinstallatie waarin gevaarlijke afvalstoffen worden behandeld, geschiedt herleiding naar de in het eerste lid bedoelde zuurstofgehaltes alleen indien het in de desbetreffende periode voor de betrokken verontreinigende stof gemeten zuurstofgehalte hoger is dan het relevante genormaliseerde zuurstofgehalte.   
+3.  Indien de emissies in de lucht van stoffen, waarvoor bij paragraaf 5.2 van het besluit emissiegrenswaarden zijn gesteld, worden verminderd door behandeling van het afgas in een afvalverbrandings- of afvalmeeverbrandingsinstallatie waarin gevaarlijke afvalstoffen worden behandeld, geschiedt herleiding naar de in het eerste lid bedoelde zuurstofgehaltes alleen indien het in de desbetreffende periode voor de betrokken verontreinigende stof gemeten zuurstofgehalte hoger is dan het relevante genormaliseerde zuurstofgehalte.   
 
 ### §  5.2.2  
 
@@ -5023,7 +5571,7 @@ c. op het punt waar het afvalwater na de zuivering wordt geloosd.
 De bemonsteringen, analyses en metingen van de parameters die nodig zijn om te bepalen of wordt voldaan aan de emissiegrenswaarden alsmede de andere metingen en berekeningen die zijn voorgeschreven, worden uitgevoerd volgens onderstaande normbladen:  Tabel 5.18 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Normbladen voor continue van meting emissies naar lucht*   |
 | Totaal stof  | NEN-EN 13284-2  |
 |  *Normbladen voor periodieke en parallelmetingen van emissies naar lucht*   |
@@ -5079,7 +5627,7 @@ g. waterstoffluoride: 40% van de emissiegrenswaarde of 0,4 mg/Nm <sup>3</sup>.
 5.  Bij de bepaling van de totale concentratie van dioxinen en furanen worden de massaconcentraties van de in tabel 5.19 genoemde dioxinen en dibenzofuranen vóór het optellen met de in die tabel genoemde toxische equivalentiefactoren (teq) vermenigvuldigd.  Tabel 5.19 
 
 | Stof  | Teq  |
-|:---|:---|
+|---|---|
 | 2,3,7,8 -tetrachloordibenzodioxine (tcdd)  | 1  |
 | 1,2,3,7,8 -pentachloordibenzodioxine (pecdd)  | 0,5  |
 | 1,2,3,4,7,8 -hexachloordibenzodioxine (hxcdd)  | 0,1  |
@@ -5145,7 +5693,7 @@ Aan de van toepassing zijnde emissiegrenswaarden voor emissies naar water wordt 
 
 a. bij metingen van de totale hoeveelheid onopgeloste bestanddelen 95% en 100% van de meetwaarden de toepasselijke emissiegrenswaarden niet overschrijdt,  
 
-b. bij metingen van kwik, cadmium, thallium, arseen, lood, chroom, nikkel, zink, antimoon, kobalt, mangaan, vanadium en tin niet meer dan eenmaal per jaar de toepasselijke emissiegrenswaarden worden overschreden, of, indien meer dan twintig steekproeven per jaar worden uitgevoerd, bij niet meer dan 5% van deze steekproeven de emissiegrenswaarden van [artikel 5.27 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) worden overschreden, en  
+b. bij metingen van kwik, cadmium, thallium, arseen, lood, chroom, nikkel, zink, antimoon, kobalt, mangaan, vanadium en tin niet meer dan eenmaal per jaar de toepasselijke emissiegrenswaarden worden overschreden, of, indien meer dan twintig steekproeven per jaar worden uitgevoerd, bij niet meer dan 5% van deze steekproeven de emissiegrenswaarden van artikel 5.27 van het besluit worden overschreden, en  
 
 c. bij metingen van dioxinen en furanen de emissiegrenswaarden niet worden overschreden.    
 
@@ -5155,7 +5703,7 @@ c. bij metingen van dioxinen en furanen de emissiegrenswaarden niet worden overs
 
 ### Artikel  5.23  
 
-1.  Voor zover het betreft een afvalverbrandingsinstallatie wordt aan [artikel 5.18, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval voldaan, indien: 
+1.  Voor zover het betreft een afvalverbrandingsinstallatie wordt aan artikel 5.18, tweede lid, van het besluit in ieder geval voldaan, indien: 
 
 a. de afvalverbrandingsinstallatie op een zodanige wijze wordt geëxploiteerd dat een niveau van thermische behandeling wordt bereikt waarbij de totale hoeveelheid organische koolstof in de slakken en de bodemas minder bedraagt dan 3% van het droge gewicht van het materiaal, of het gloeiverlies van de slakken en de bodemas minder bedraagt dan 5% van het droge gewicht van het materiaal, zo nodig na voorbehandeling van het afval met passende technieken,  
 
@@ -5165,10 +5713,10 @@ c. elke verbrandingskamer van de afvalverbrandingsinstallatie wordt uitgerust me
 
 d. de hulpbrander ook tijdens de inwerkingstelling en de stillegging van de afvalverbrandingsinstallatie wordt gebruikt teneinde ervoor te zorgen dat de op grond van de onderdelen b en c vereiste temperatuur gedurende deze in werking stelling en stillegging steeds wordt gehandhaafd zolang zich onverbrande afvalstoffen in de verbrandingskamer bevinden,  
 
-e. naar de hulpbrander geen brandstoffen worden toegevoerd die hogere emissies kunnen veroorzaken dan bij het stoken van gasolie voor de scheepvaart als omschreven in [artikel 1.1 van het Besluit brandstoffen luchtverontreiniging](../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md), vloeibaar gas of aardgas het geval is, en  
+e. naar de hulpbrander geen brandstoffen worden toegevoerd die hogere emissies kunnen veroorzaken dan bij het stoken van gasolie voor de scheepvaart als omschreven in artikel 1.1 van het Besluit brandstoffen luchtverontreiniging, vloeibaar gas of aardgas het geval is, en  
 
 f. bij de exploitatie van de afvalverbrandingsinstallaties gebruik wordt gemaakt van een automatisch systeem dat de toevoer van afvalstoffen voorkomt totdat bij het in werking stellen de op grond van onderdeel b vereiste temperatuur is bereikt en wanneer de vereiste temperatuur niet gehandhaafd blijft.     
-2.  Voor zover het betreft een afvalmeeverbrandingsinstallatie, wordt aan [artikel 5.18, tweede lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval voldaan, indien: 
+2.  Voor zover het betreft een afvalmeeverbrandingsinstallatie, wordt aan artikel 5.18, tweede lid, van het besluit in ieder geval voldaan, indien: 
 
 a. de afvalmeeverbrandingsinstallatie zodanig wordt ontworpen, uitgerust, gebouwd en geëxploiteerd dat, zelfs in de meest ongunstige omstandigheden, het door de meeverbranding van afvalstoffen ontstane gas gedurende twee seconden op beheerste en homogene wijze wordt verhit tot ten minste 850° C, dan wel de temperatuur gedurende twee seconden tot ten minste 1100° C opgevoerd, indien gevaarlijke afvalstoffen met een gehalte van meer dan 1% gehalogeneerde organische stoffen, uitgedrukt in chloor, worden meeverbrand, en  
 
@@ -5220,7 +5768,7 @@ c. verontreinigd water dat afkomstig is van brandbestrijding.
 
 ### Artikel  5.30  
 
-De meting van de emissies, waaronder tevens begrepen wordt de berekening, registratie en rapportage van de meting, bedoeld in [artikel 5.38 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voldoet aan de eisen in de artikelen 5.31 tot en met 5.36.  
+De meting van de emissies, waaronder tevens begrepen wordt de berekening, registratie en rapportage van de meting, bedoeld in artikel 5.38 van het besluit, voldoet aan de eisen in de artikelen 5.31 tot en met 5.36.  
 
 ### §  5.3.1  
 
@@ -5276,7 +5824,7 @@ Jaarlijks voor 1 maart wordt aan het bevoegd gezag opgave gedaan van de producti
 De bemonsteringen, analyses en metingen van de parameters die nodig zijn om te bepalen of wordt voldaan aan de emissiegrenswaarden alsmede de andere metingen en berekeningen die zijn voorgeschreven, worden uitgevoerd volgens onderstaande normbladen:  Tabel 5.35 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Normbladen voor continue meting van emissies naar lucht*   |
 | Totaal stof  | NEN-EN 13284-2  |
 |  *Normbladen voor periodieke en parallelmetingen van emissies naar lucht*   |
@@ -5315,7 +5863,7 @@ De bemonsteringen, analyses en metingen van de parameters die nodig zijn om te b
 
 ### Artikel  6.1  
 
-Met een erkenning op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) als bedoeld in: 
+Met een erkenning op grond van het Besluit bodemkwaliteit als bedoeld in: 
 
 a. artikel 2.1, eerste lid, wordt tot en met 30 september 2006 gelijkgesteld een certificaat voor het inspecteren van vloeistofdichte vloeren en verhardingen;  
 
@@ -5323,7 +5871,7 @@ b. artikel 2.1, eerste lid, wordt tot en met 31 december 2006 gelijkgesteld een
 
 c. artikel 2.1, derde lid, artikel 3.25, tweede lid en artikel 3.26, tweede lid, wordt tot en met 31 december 2006 gelijkgesteld een certificaat afgegeven door een geaccrediteerde certificeringsinstelling;  
 
-d. artikel 3.34 tot en met 3.37, wordt tot en met 31 december 2007 gelijkgesteld een certificaat afgegeven door een geaccrediteerde certificeringsinstelling of, indien het een instelling betreft, een accreditatie afgegeven door de Raad voor Accreditatie; overeenkomstig het daartoe krachtens het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocument of een eerdere versie van dat normdocument.    
+d. artikel 3.34 tot en met 3.37, wordt tot en met 31 december 2007 gelijkgesteld een certificaat afgegeven door een geaccrediteerde certificeringsinstelling of, indien het een instelling betreft, een accreditatie afgegeven door de Raad voor Accreditatie; overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument of een eerdere versie van dat normdocument.    
 
 ### Artikel  6.2  
 
@@ -5338,9 +5886,9 @@ c. iedere zes maanden vindt een visuele controle plaats van de verharding die zi
 
 ### Artikel  6.3  
 
-1.  Artikel 2.1 is tot en met 29 februari 2008 niet van toepassing op vloeistofdichte vloeren en verhardingen die zijn aangelegd vóór 1 januari 1992 binnen inrichtingen waarop onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling het [Besluit jachthavens](../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md) van toepassing was.   
-2.  Artikel 2.1 is tot en met 28 februari 2011 niet van toepassing op vloeistofdichte vloeren en verhardingen die zijn aangelegd vanaf 1 januari 1992 tot en met 28 februari 2005 binnen inrichtingen waarop onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling het [Besluit jachthavens](../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md) van toepassing was.   
-3.  Artikel 2.1 is tot en met twee jaar na de aanleg van de desbetreffende vloeren of verhardingen niet van toepassing op vloeistofdichte vloeren en verhardingen die zijn aangelegd vanaf 1 maart 2005 tot en met 31 december 2007 binnen inrichtingen waarop onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling het [Besluit jachthavens](../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md) van toepassing was.   
+1.  Artikel 2.1 is tot en met 29 februari 2008 niet van toepassing op vloeistofdichte vloeren en verhardingen die zijn aangelegd vóór 1 januari 1992 binnen inrichtingen waarop onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling het Besluit jachthavens van toepassing was.   
+2.  Artikel 2.1 is tot en met 28 februari 2011 niet van toepassing op vloeistofdichte vloeren en verhardingen die zijn aangelegd vanaf 1 januari 1992 tot en met 28 februari 2005 binnen inrichtingen waarop onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling het Besluit jachthavens van toepassing was.   
+3.  Artikel 2.1 is tot en met twee jaar na de aanleg van de desbetreffende vloeren of verhardingen niet van toepassing op vloeistofdichte vloeren en verhardingen die zijn aangelegd vanaf 1 maart 2005 tot en met 31 december 2007 binnen inrichtingen waarop onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling het Besluit jachthavens van toepassing was.   
 
 ### Artikel  6.4  
 
@@ -5384,9 +5932,34 @@ In afwijking van artikel 3.14 gelden ten aanzien van een windturbine die voor 1�
 
 In afwijking van artikel 3.29 is een opslagtank met propaan, die in gebruik is genomen voor de inwerkingtreding van artikel 4.20a, gelegen op een afstand van ten minste vijf meter ten opzichte van een ander tot de inrichting behorende opslagtank met propaan.  
 
+### Artikel  6.5aa  
+
+1.  De artikelen 3.23, eerste lid, 3.24, tweede, derde en vierde lid, 4.93, eerste lid, en 4.93a, tweede, derde en vierde lid, zijn niet van toepassing op een aardgas-afleverinstallatie voor gecomprimeerd aardgas die in werking was voor 1 december 2013, tot het moment waarop de aardgas-afleverinstallatie uitgebreid wordt gerenoveerd, voor wat betreft: 
+
+a. de dimensionering van de afblaasveiligheid, bedoeld in paragraaf 5.3.2 van PGS 25;  
+
+b. de gronddekking van ondergrondse leidingen, bedoeld in paragraaf 5.3.10 van PGS 25;  
+
+c. de interne veiligheidsafstanden, bedoeld in paragraaf 5.5 van PGS 25;  
+
+d. het temperatuurgevoelig element in de afleverzuil bij onbemand afleveren, bedoeld in paragraaf 5.11.1 van PGS 25;  
+
+e. de veiligheidsafsluiter voor het gasnet, bedoeld in paragraaf 5.11.1 van PGS 25;  
+
+f. de bouwkundige eisen aan een bufferopslag, bedoeld in paragraaf 7.3 van PGS 25, en  
+
+g. de uitstroomrichting van de afblaasleiding, bedoeld in paragraaf 9.4 van PGS 25,   indien de afleverinstallatie volgens de in de aanhef genoemde artikelen met deze voorzieningen is uitgevoerd.   
+2.  Indien het eerste lid van toepassing is, voldoet de aardgas-afleverinstallatie voor gecomprimeerd aardgas aan de artikelen 3.23 en 4.93, zoals die luidden voor 1 december 2013, voor zover deze artikelen betrekkingen hebben op de voorzieningen, bedoeld in het eerste lid, onderdelen a tot en met g.   
+3.  De artikelen 3.23, tweede lid, en 4.93, tweede lid, zijn tot het moment waarop de aardgas-afleverinstallatie uitgebreid wordt gerenoveerd dan wel uiterlijk tot 1 december 2023 niet van toepassing op het inpandig afleveren van gecomprimeerd aardgas. Tot dat moment of die datum voldoet een inpandige aardgas-afleverinstallatie voor gecomprimeerd aardgas aan de eisen die daaraan voor de 1 december 2013 bij maatwerkvoorschrift werden gesteld.   
+
 ### Artikel  6.5b  
 
-In afwijking van artikel 3.38, eerste lid, is voorschrift 5.5.1 uit PGS 28 ten aanzien van een ondergrondse opslagtank met vloeibare brandstof of afgewerkte olie die is geïnstalleerd voor 1 februari 2003, niet van toepassing tot 1 februari 2018.  
+1.  In afwijking van artikel 3.34, eerste lid, wordt een ondergrondse opslagtank met vloeibare brandstof of afgewerkte olie waarvan het vulpunt is geïnstalleerd voor 1 februari 2003, uiterlijk 1 februari 2018 voorzien van een aansluitmogelijkheid voor het afvoeren van statische elektriciteit.   
+2.  Artikel 3.34, derde lid, is tot 1 december 2028 niet van toepassing op vloeistofdichte vloeren als bedoeld in dat lid die al bestonden voor 1 december 2013.   
+
+### Artikel  6.5ba  
+
+Artikel 3.25, derde lid, en artikel 4.94, derde lid, zijn niet van toepassing totdat er een algehele renovatie van de tankinstallatie plaatsvindt waarbij de vloeistofdichte verharding wordt opengebroken of indien de afleverinstallaties worden vervangen.  
 
 ### Artikel  6.5c  
 
@@ -5440,9 +6013,11 @@ e. 10 jaar voor overige typen mestbassins en afdekkingen.
 
 ### Artikel  6.5ha  
 
-1.  Ten aanzien van een stationaire bovengrondse opslagtank met gasolie of afgewerkte olie die is geïnstalleerd voor 1 januari 2000, zijn de in artikel 3.71d, eerste en tweede lid, genoemde voorschriften 4.2.6 met betrekking tot de gecertificeerde overvulbeveiliging en 4.3.1 met betrekking tot het installatiecertificaat, 4.3.2 met betrekking tot de constructie-eisen voor opvangbakken, 4.5.2 uit PGS 30 en artikel 3.71d, zesde lid, tot 1 januari 2015 niet van toepassing.   
-2.  Onverminderd het eerste lid zijn ten aanzien van een stationaire bovengrondse opslagtank met vloeibare brandstoffen of afgewerkte olie, die aanwezig is in een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten worden verricht en die is geïnstalleerd tussen 1 januari 2000 en 1 januari 2007, artikel 3.71d, eerste lid, en de in artikel 3.71d, tweede lid, genoemde voorschriften 4.2.6 met betrekking tot de gecertificeerde overvulbeveiliging en 4.3.1 met betrekking tot het installatiecertificaat, 4.3.2 met betrekking tot de constructie-eisen voor opvangbakken, 4.5.2 uit PGS 30 en artikel 3.71d, zesde lid, tot 1 januari 2015 niet van toepassing.   
-3.  Artikel 3.71d, derde lid, is niet van toepassing op bovengrondse opslagtanks die zijn geïnstalleerd voor de inwerkingtreding van het besluit én die niet op de bodem staan.   
+1.  In afwijking van artikel 1.2, eerste lid, wordt in dit artikel onder ‘PGS 30’ verstaan: Richtlijn PGS 30, getiteld ‘Vloeibare aardolieproducten, Buitenopslag in kleine installaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 1999 versie 0.1 (2-2005).   
+2.  Op een stationaire bovengrondse opslagtank met gasolie of afgewerkte olie die is geïnstalleerd voor 1 januari 2000 is artikel 3.71d niet van toepassing tot 1 januari 2015.   
+3.  Op een stationaire bovengrondse opslagtank met gasolie of afgewerkte olie die aanwezig is in een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten worden verricht en die is geïnstalleerd tussen 1 januari 2000 en 1 januari 2007 is artikel 3.71d niet van toepassing tot 1 januari 2015.   
+4.  Een opslagtank als bedoeld in het tweede en derde lid met de daarbij behorende leidingen en appendages voldoet tot 1 januari 2015 aan de voorschriften 4.1.3, 4.2.4, 4.2.5, 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.3, 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.3, 4.5.9, 4.5.12 en de voorschriften in paragraaf 4.6 van PGS 30. In afwijking van voorschrift 4.4.4 van PGS 30 hoeft een stationaire bovengrondse opslagtank met afgewerkte olie niet te worden gecontroleerd op de aanwezigheid van water.   
+5.  Artikel 3.71d, derde lid, is niet van toepassing op een bovengrondse opslagtank die is geïnstalleerd voor de datum waarop paragraaf 3.4.9 op de inrichting van toepassing werd en die niet op de vloer staat.   
 
 ### Artikel  6.5i  
 
@@ -5455,28 +6030,41 @@ Artikel 3.99 is niet van toepassing indien de drukkamer, bedoeld in artikel 3.98
 
 ### Artikel  6.6  
 
-In aanvulling op de artikelen 4.3 en 4.4 kan het bevoegd gezag voor inrichtingen die zijn opgericht voor het in werking treden van deze regeling én waarvoor onmiddellijk voorafgaand aan dat tijdstip een vergunning van kracht was, dan wel voorschiften golden op basis van één van de besluiten zoals genoemd in [art. 6.43 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), maatwerkvoorschriften stellen ten aanzien van de bouwkundige eisen zoals gesteld in de voorschriften 3.2.1.1, 3.2.2.1 en 3.2.3.1 van PGS 15. Het maatwerkvoorschrift kan slechts minder strenge eisen aan de bouwkundige voorzieningen bevatten.  
+In aanvulling op de artikelen 4.3 tot en met 4.4c kan het bevoegd gezag voor inrichtingen die zijn opgericht voor het in werking treden van deze regeling én waarvoor onmiddellijk voorafgaand aan dat tijdstip een vergunning van kracht was, dan wel voorschiften golden op basis van één van de besluiten zoals genoemd in art. 6.43 van het besluit, maatwerkvoorschriften stellen ten aanzien van de bouwkundige eisen zoals gesteld in voorschrift 3.2.4 van PGS 15. Het maatwerkvoorschrift kan slechts minder strenge eisen aan de bouwkundige voorzieningen bevatten.  
+
+### Artikel  6.6a  
+
+Artikel 4.4, onderdeel e, is tot 1 december 2014 niet van toepassing op spuitbussen van de klasse 2 van het ADR, met stoffen die zijn aangemerkt als zeer licht ontvlambaar, licht ontvlambaar, ontvlambaar, toxisch, corrosief of oxiderend, voor zover deze aanwezig zijn in een hoeveelheid van minder dan 400 kilogram.  
+
+### Artikel  6.6b  
+
+Artikel 4.7 is tot 1 december 2014 niet van toepassing op het tijdelijk opslaan van gevaarlijke stoffen of CMR-stoffen in verpakking die aan derden zijn geadresseerd, voor zover het opslaan plaatsvindt overeenkomstig artikel 4.7 zoals dat luidde voor 1 december 2013.  
 
 ### Artikel  6.7  
 
-1.  Ten aanzien van inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van [het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of een deel daarvan op een activiteit, op die inrichtingen, een vergunning in werking en onherroepelijk was, dan wel voorschriften golden op basis van één van de besluiten, genoemd in [artikel 6.43 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), zijn de artikelen 3.15, eerste lid, 3.27j, eerste lid, 4.38, tweede lid, 4.40, derde lid, 4.44, tweede lid, 4.46, derde lid, 4.50, tweede lid, 4.55, tweede lid, 4.57, tweede lid, 4.60, tweede lid, 4.64, derde lid, 4.68, vierde lid, 4.71, tweede lid, 4.74, tweede lid, 4.77, tweede lid, 4.81, tweede lid, 4.84a, derde lid4.84g, eerste lid, 4.84m, eerste lid, 4.96, eerste lid, 4.102a, tweede lid, 4.102i, tweede lid, 4.104a, tweede lid, 4.104c, eerste lid, en 4.117, tweede lid, niet van toepassing voor zover er geen verandering van de inrichting plaatsvindt waarvoor een melding krachtens [artikel 1.10 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) nodig is en voor zover er geen verandering van de inrichting plaatsvindt die leidt tot een toename van emissies als bedoeld in de genoemde artikelen of van de wijze van afvoer van die emissies naar de buitenlucht.   
+1.  Ten aanzien van inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van het besluit of een deel daarvan op een activiteit, op die inrichtingen, een vergunning in werking en onherroepelijk was, dan wel voorschriften golden op basis van één van de besluiten, genoemd in artikel 6.43 van het besluit, zijn de artikelen 3.15, eerste lid, 3.27j, eerste lid, 4.38, tweede lid, 4.40, derde lid, 4.44, tweede lid, 4.46, derde lid, 4.50, tweede lid, 4.55, tweede lid, 4.57, tweede lid, 4.60, tweede lid, 4.64, derde lid, 4.68, vierde lid, 4.71, tweede lid, 4.74, tweede lid, 4.77, tweede lid, 4.81, tweede lid, 4.84a, derde lid4.84g, eerste lid, 4.84m, eerste lid, 4.96, eerste lid, 4.102a, tweede lid, 4.102i, tweede lid, 4.104a, tweede lid, 4.104c, eerste lid, en 4.117, tweede lid, niet van toepassing voor zover er geen verandering van de inrichting plaatsvindt waarvoor een melding krachtens artikel 1.10 van het besluit nodig is en voor zover er geen verandering van de inrichting plaatsvindt die leidt tot een toename van emissies als bedoeld in de genoemde artikelen of van de wijze van afvoer van die emissies naar de buitenlucht.   
 2.  In afwijking van het eerste lid kan het bevoegd gezag maatwerkvoorschriften als bedoeld in de artikelen 3.15, tweede lid, 3.27j, tweede lid, 4.38, derde lid, 4.40, vijfde lid, 4.44, derde lid, 4.46, vijfde lid, 4.50, derde lid, 4.55, derde lid, 4.57, derde lid, 4.60, derde lid, 4.64, vijfde lid, 4.68, vijfde lid, 4.71, derde lid, 4.74, derde lid, 4.77, derde lid, 4.81, derde lid, 4.84a, vierde lid4.84g, eerste lid, 4.84m, eerste lid, 4.96, tweede lid, 4.102a, derde lid, 4.102i, derde lid, 4.104a, derde lid, 4.104c, tweede lid en 4.117, derde lid stellen.   
 
 ### Artikel  6.8  
 
-1.  Ten aanzien van inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van het [besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of een deel daarvan op een activiteit, op die inrichtingen, een vergunning in werking en onherroepelijk was, dan wel voorschriften golden op basis van één van de besluiten, genoemd in [artikel 6.43 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), zijn de artikelen 3.27l, 3.103, eerste lid, 3.104, eerste lid, 4.40, vierde lid, 46, vierde lid, 64, vierde lid, 68, zesde lid, 84c, tweede lid, 100, eerste lid, 102c, tweede lid, 102f, tweede lid, en 104d, tweede lid, niet van toepassing, voor zover er geen verandering van de inrichting plaatsvindt waarvoor een melding krachtens [artikel 1.10 van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) nodig is en voor zover er geen verandering van de inrichting plaatsvindt die leidt tot een toename van de geurbelasting op gevoelige gebouwen.   
+1.  Ten aanzien van inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van het besluit of een deel daarvan op een activiteit, op die inrichtingen, een vergunning in werking en onherroepelijk was, dan wel voorschriften golden op basis van één van de besluiten, genoemd in artikel 6.43 van het besluit, zijn de artikelen 3.27l, 3.103, eerste lid, 3.104, eerste lid, 4.40, vierde lid, 46, vierde lid, 64, vierde lid, 68, zesde lid, 84c, tweede lid, 100, eerste lid, 102c, tweede lid, 102f, tweede lid, en 104d, tweede lid, niet van toepassing, voor zover er geen verandering van de inrichting plaatsvindt waarvoor een melding krachtens artikel 1.10 van het besluit nodig is en voor zover er geen verandering van de inrichting plaatsvindt die leidt tot een toename van de geurbelasting op gevoelige gebouwen.   
 2.  In afwijking van het eerste lid kan het bevoegd gezag maatwerkvoorschriften als bedoeld in de artikelen 3.103, vierde lid, 3.104, tweede en derde lid, 4.40, zevende en achtste lid, 4.46, zevende en achtste lid, 4.64, zevende en achtste lid, 4.68, achtste en negende lid, 4.84c, vierde en vijfde lid, 4.100, derde lid, 4.102c, vierde lid, 4.102f, vierde en vijfde lid, en 4.104d, vierde en vijfde lid stellen.   
 3.  In afwijking van het eerste lid, kan het bevoegd gezag indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt met inachtneming van de NeR bij maatwerkvoorschrift bepalen dat 3.103, eerste lid, wel van toepassing is.   
 
 ### Artikel  6.10  
 
-1.  Onverminderd het eerste lid zijn ten aanzien van een bovengrondse stationaire opslagtank met vloeibare brandstoffen of afgewerkte olie, die aanwezig is binnen een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten worden verricht en die is geïnstalleerd tussen 1 januari 2000 en 1 januari 2007, artikel 4.15, eerste lid, en de in artikel 4.15, tweede lid, genoemde voorschriften 4.2.6 met betrekking tot de gecertificeerde overvulbeveiliging en 4.3.1 met betrekking tot het installatiecertificaat, 4.3.2 met betrekking tot de constructie-eisen voor opvangbakken, 4.5.2 uit PGS 30 en artikel 4.15, zesde lid, tot 1 januari 2015 niet van toepassing.   
-2.  Ten aanzien van een bovengrondse opslagtank met stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar die is geïnstalleerd voor inwerkingtreding van deze regeling zijn artikel 4.15, eerste lid en de in artikel 4.15, tweede lid genoemde voorschriften 4.2.6 met betrekking tot de gecertificeerde overvulbeveiliging en 4.3.1 met betrekking tot het installatiecertificaat, 4.3.2 met betrekking tot de constructie-eisen voor opvangbakken, 4.5.2 uit PGS 30 en artikel 4.15 vijfde lid tot 1 januari 2023 niet van toepassing.   
-3.  Ten aanzien van een bovengrondse opslagtank met stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar die is geïnstalleerd in de periode van 1 januari 2008 tot 1 januari 2011 zijn voorschrift 4.3.1 van PGS 30, voor zover het betreft het installatiecertificaat uit PGS 30, en artikel 4.15, vijfde lid, tot 1 juli 2012 niet van toepassing.   
+1.  In afwijking van artikel 1.2, eerste lid, wordt in dit artikel onder ‘PGS 30’ verstaan: Richtlijn PGS 30, getiteld ‘Vloeibare aardolieproducten, Buitenopslag in kleine installaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 1999 versie 0.1 (2-2005).   
+2.  Op een stationaire bovengrondse opslagtank met halfzware olie die is geïnstalleerd voor 1 januari 2000 is artikel 4.15 niet van toepassing tot 1 januari 2015.   
+3.  Op een stationaire bovengrondse opslagtank met halfzware olie die aanwezig is in een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten worden verricht en die is geïnstalleerd tussen 1 januari 2000 en 1 januari 2007 is artikel 4.15 niet van toepassing tot 1 januari 2015.   
+4.  Op een bovengrondse opslagtank met stoffen van klasse 8 van het ADR verpakkingsgroep II en III zonder bijkomend gevaar die is geïnstalleerd voor 1 januari 2000 is artikel 4.15 niet van toepassing tot 1 januari 2023.   
+5.  Een opslagtank als bedoeld in het tweede en derde lid met de daarbij behorende leidingen en appendages voldoet tot 1 januari 2015 aan de voorschriften 4.1.3, 4.2.4, 4.2.5, 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.3, 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.3, 4.5.9, 4.5.12 en de voorschriften in paragraaf 4.6 van PGS 30.   
+6.  De voorschriften genoemd in het vijfde lid zijn tot 1 januari 2023 van overeenkomstige toepassing op een opslagtank als bedoeld in het vierde lid.   
+7.  Het lekdetectiesysteem van een opslagtank, bedoeld in het vierde lid, wordt indien de opslagtank dubbelwandig is eenmaal per jaar overeenkomstig KC 111 gecontroleerd op goede werking. Indien er een gebrek wordt geconstateerd dat kan leiden tot het optreden van niet gedetecteerde lekken, wordt het lekdetectiesysteem binnen een periode van een maand hersteld. Van de controle wordt een aantekening in het logboek gemaakt   
+8.  Artikel 4.15, derde lid, is niet van toepassing op een bovengrondse opslagtank die is geïnstalleerd voor de datum waarop paragraaf 4.1.3 op de inrichting van toepassing werd en die niet op de vloer staat.   
 
 ### Artikel  6.11  
 
-Indien een een bovengrondse opslagtank voor vloeibare brandstoffen die is geïnstalleerd voor 1 januari 2000 niet overeenkomstig voorschrift 4.5.2 van de PGS 30 geïnspecteerd kan worden, wordt deze opslagtank uiterlijk 1 januari 2015 buiten werking gesteld overeenkomstig de bepalingen in de PGS 30.  
+Indien een bovengrondse opslagtank voor vloeibare brandstoffen die is geïnstalleerd voor 1 januari 2000 niet overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit geïnspecteerd kan worden, wordt deze bovengrondse opslagtank uiterlijk 1 januari 2015 buiten werking gesteld.  
 
 ### Artikel  6.11a  
 
@@ -5487,6 +6075,12 @@ Indien een een bovengrondse opslagtank voor vloeibare brandstoffen die is geïns
 
 1.  Artikel 4.84j, aanhef en onder a, is niet van toepassing op een inrichting waarvoor onmiddellijk voorafgaand aan de inwerkingtreding van dat artikel een vergunning onherroepelijk van kracht was en in die vergunning andere bodembeschermende voorzieningen of bodembeschermende maatregelen zijn voorgeschreven waarmee bij het aanbrengen van ontkistingsmiddelen een verwaarloosbaar bodemrisico wordt gelopen.   
 2.  Ten aanzien van een inrichting als bedoeld in het eerste lid blijven, in afwijking van artikel 4.84j, aanhef en onder a, de voorschriften van de vergunning ten behoeve van het realiseren van een verwaarloosbaar bodemrisico bij het op bekisting aanbrengen van ontkistingsmiddelen van toepassing.   
+
+### Artikel  6.11b  
+
+1.  Indien een bovengrondse opslagtank voor gasolie is geïnstalleerd voor het tijdstip van het van toepassing worden van paragraaf 3.4.9 op de inrichting is artikel 3.71d, derde lid, niet van toepassing tot het moment waarop de eerstvolgende keuring behoort plaats te vinden.   
+2.  Indien een bovengrondse opslagtank voor halfzware olie is geïnstalleerd voor het tijdstip van het van toepassing worden van paragraaf 4.1.3 op de inrichting is artikel 4.15, derde lid, niet van toepassing tot het moment waarop de eerstvolgende keuring behoort plaats te vinden.   
+3.  Het bevoegd gezag kan aan een opslagtank als bedoeld in het eerste en tweede lid bij maatwerkvoorschrift eisen stellen om de toegankelijkheid van de opslagtank voor de brandbestrijding te borgen.   
 
 ### Artikel  6.12  
 
@@ -5504,15 +6098,15 @@ De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt in 
 
 De volgende regelingen worden ingetrokken: 
 
-–  [Regeling meldingen tandartspraktijken milieubeheer](../../../../ministeriele-regeling/regeling/meldingen/tandartspraktijken/milieubeheer/BWBR0009189/README.md)   
+–  Regeling meldingen tandartspraktijken milieubeheer   
 
-–  [Regeling amalgaamafscheiders tandartspraktijken milieubeheer](../../../../ministeriele-regeling/regeling/aanwijzing/typen/amalgaamafscheiders/BWBR0009187/README.md)   
+–  Regeling amalgaamafscheiders tandartspraktijken milieubeheer   
 
-–  [Regeling testmethoden amalgaamafscheiders tandartspraktijken milieubeheer](../../../../ministeriele-regeling/regeling/vaststelling/van/de/testmethoden/voor/amalgaamafscheiders/BWBR0009188/README.md)   
+–  Regeling testmethoden amalgaamafscheiders tandartspraktijken milieubeheer   
 
-–  [Aanwijzing vervangende tekst van Handleiding bodemsanering tankstations](../../../../ministeriele-regeling/aanwijzing/vervangende/tekst/van/handleiding/bodemsanering/tankstations/BWBR0007470/README.md)   
+–  Aanwijzing vervangende tekst van Handleiding bodemsanering tankstations   
 
-– [Regeling slibvangputten en vet- of olie-afscheiders](../../../../ministeriele-regeling/regeling/slibvangputten/en/vet-/of/olie-afscheiders/BWBR0010396/README.md).    
+– Regeling slibvangputten en vet- of olie-afscheiders.    
 
 ### Artikel  6.15  
 
@@ -5526,42 +6120,42 @@ c. artikel 4.30;
 
 d. de paragrafen 3.3.4 voor zover het opslag van bilgewater en afgewerkte olie in ondergrondse opslagtanks betreft en 4.1.1 voor zover het de opslag van gevaarlijke afvalstoffen in verpakking betreft afkomstig van onderhoud en reparatie van pleziervaartuigen, ten aanzien van inrichtingen waar gelegenheid wordt geboden voor het afmeren van pleziervaartuigen;  
 
-e. artikel 4.32 voor zover het de opslag van afgedankte apparatuur betreft, ten aanzien van inrichtingen met een opslag tot 35 kubieke meter afgedankte apparatuur, bedoeld in [artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) die conform [artikel 4 van die regeling](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) zijn ingenomen bij het ter beschikking stellen van een nieuw product;  
+e. artikel 4.32 voor zover het de opslag van afgedankte apparatuur betreft, ten aanzien van inrichtingen met een opslag tot 35 kubieke meter afgedankte apparatuur, bedoeld in artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur die conform artikel 4 van die regeling zijn ingenomen bij het ter beschikking stellen van een nieuw product;  
 
-f. artikel 4.32 voor zover het de opslag van autowrakken betreft, ten aanzien van inrichtingen waar onderhoud en reparatie van motorvoertuigen plaatsvindt en waar autowrakken worden opgeslagen waarop op 31 december 2007 het [Besluit inrichtingen voor motorvoertuigen milieubeheer](../../../../AMvB/besluit/inrichtingen/voor/motorvoertuigen/milieubeheer/BWBR0011409/README.md) van toepassing was of zou zijn geweest;  
+f. artikel 4.32 voor zover het de opslag van autowrakken betreft, ten aanzien van inrichtingen waar onderhoud en reparatie van motorvoertuigen plaatsvindt en waar autowrakken worden opgeslagen waarop op 31 december 2007 het Besluit inrichtingen voor motorvoertuigen milieubeheer van toepassing was of zou zijn geweest;  
 
 g. paragraaf 4.1.1 voor zover het de opslag van gevaarlijke afvalstoffen betreft ontstaan bij bouwwerkzaamheden, onderhoudswerkzaamheden of herstelwerkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft, ten aanzien van inrichtingen met een opslag van gevaarlijke afvalstoffen ontstaan bij bouwwerkzaamheden, onderhoudswerkzaamheden of herstelwerkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft, waarop op 31 december 2007 
 
-1°. het [Besluit horeca-, sport- en recreatieinrichtingen milieubeheer](../../../../AMvB/besluit/horeca-/sport-/en/recreatie-inrichtingen/milieubeheer/BWBR0009633/README.md);  
+1°. het Besluit horeca-, sport- en recreatieinrichtingen milieubeheer;  
 
-2°. het [Besluit bouw- en houtbedrijven milieubeheer](../../../../AMvB/besluit/bouw-/en/houtbedrijven/milieubeheer/BWBR0011529/README.md);  
+2°. het Besluit bouw- en houtbedrijven milieubeheer;  
 
-3°. het [Besluit inrichtingen voor motorvoertuigen milieubeheer](../../../../AMvB/besluit/inrichtingen/voor/motorvoertuigen/milieubeheer/BWBR0011409/README.md);  
+3°. het Besluit inrichtingen voor motorvoertuigen milieubeheer;  
 
-4°. het [Besluit textielreinigingsbedrijven milieubeheer](../../../../AMvB/besluit/textielreinigingsbedrijven/milieubeheer/BWBR0012328/README.md), of  
+4°. het Besluit textielreinigingsbedrijven milieubeheer, of  
 
-5°. het [Besluit jachthavens](../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md),   van toepassing was of zou zijn geweest.     
-2.  Artikel 4.30 treedt in werking op het tijdstip waarop de [Regeling bodemkwaliteit](../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md) in werking treedt.   
-3.  Artikel 2.2, vierde lid, tweede volzin, voor zover het MTBE en ETBE betreft, treedt in werking met ingang van 1 januari 2009. Afdeling 2.2 en bijlage 1 treden in werking met ingang van 1 januari 2014.   
+5°. het Besluit jachthavens,   van toepassing was of zou zijn geweest.     
+2.  Artikel 4.30 treedt in werking op het tijdstip waarop de Regeling bodemkwaliteit in werking treedt.   
+3.  Artikel 2.2, vierde lid, tweede volzin, voor zover het MTBE en ETBE betreft, treedt in werking met ingang van 1 januari 2009.   
 4.  De volgende artikelen en paragrafen treden in werking met ingang van een door de Minister in overeenstemming met de Minister van Verkeer en Waterstaat te bepalen tijdstip, dat voor de verschillende artikelen of paragrafen verschillend kan worden vastgesteld: 
 
-a. artikel 4.32 voor zover het de opslag van afgedankte apparatuur betreft, ten aanzien van inrichtingen met een opslag tot 35 kubieke meter afgedankte apparatuur, bedoeld in [artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) die conform [artikel 4 van die regeling](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) zijn ingenomen bij het ter beschikking stellen van een nieuw product;  
+a. artikel 4.32 voor zover het de opslag van afgedankte apparatuur betreft, ten aanzien van inrichtingen met een opslag tot 35 kubieke meter afgedankte apparatuur, bedoeld in artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur die conform artikel 4 van die regeling zijn ingenomen bij het ter beschikking stellen van een nieuw product;  
 
-b. artikel 4.32 voor zover het de opslag van autowrakken betreft, ten aanzien van inrichtingen waar onderhoud en reparatie van motorvoertuigen plaatsvindt en waar autowrakken worden opgeslagen waarop op 31 december 2007 het [Besluit inrichtingen voor motorvoertuigen milieubeheer](../../../../AMvB/besluit/inrichtingen/voor/motorvoertuigen/milieubeheer/BWBR0011409/README.md) van toepassing was of zou zijn geweest;  
+b. artikel 4.32 voor zover het de opslag van autowrakken betreft, ten aanzien van inrichtingen waar onderhoud en reparatie van motorvoertuigen plaatsvindt en waar autowrakken worden opgeslagen waarop op 31 december 2007 het Besluit inrichtingen voor motorvoertuigen milieubeheer van toepassing was of zou zijn geweest;  
 
 c. de paragrafen 3.3.4 voor zover het opslag van bilgewater en afgewerkte olie in ondergrondse opslagtanks betreft en 4.1.1 voor zover het de opslag van gevaarlijke afvalstoffen in verpakking betreft afkomstig van onderhoud en reparatie van pleziervaartuigen, ten aanzien van inrichtingen waar gelegenheid wordt geboden voor het afmeren van pleziervaartuigen;  
 
 d. paragraaf 4.1.1 voor zover het de opslag van gevaarlijke afvalstoffen betreft ontstaan bij bouwwerkzaamheden, onderhoudswerkzaamheden of herstelwerkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft, ten aanzien van inrichtingen met een opslag van gevaarlijke afvalstoffen ontstaan bij bouwwerkzaamheden, onderhoudswerkzaamheden of herstelwerkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft, waarop op 31 december 2007 
 
-1°. het [Besluit horeca-, sport- en recreatieinrichtingen milieubeheer](../../../../AMvB/besluit/horeca-/sport-/en/recreatie-inrichtingen/milieubeheer/BWBR0009633/README.md);  
+1°. het Besluit horeca-, sport- en recreatieinrichtingen milieubeheer;  
 
-2°. het [Besluit bouw- en houtbedrijven milieubeheer](../../../../AMvB/besluit/bouw-/en/houtbedrijven/milieubeheer/BWBR0011529/README.md);  
+2°. het Besluit bouw- en houtbedrijven milieubeheer;  
 
-3°. het [Besluit inrichtingen voor motorvoertuigen milieubeheer](../../../../AMvB/besluit/inrichtingen/voor/motorvoertuigen/milieubeheer/BWBR0011409/README.md);  
+3°. het Besluit inrichtingen voor motorvoertuigen milieubeheer;  
 
-4°. het [Besluit textielreinigingsbedrijven milieubeheer](../../../../AMvB/besluit/textielreinigingsbedrijven/milieubeheer/BWBR0012328/README.md), of  
+4°. het Besluit textielreinigingsbedrijven milieubeheer, of  
 
-5°. het [Besluit jachthavens](../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md),   van toepassing was of zou zijn geweest.     
+5°. het Besluit jachthavens,   van toepassing was of zou zijn geweest.     
 
 ### Artikel  6.16  
 
@@ -5575,10 +6169,11 @@ De
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J.M.Cramer  
 
-### Bijlage  1  
+### Bijlage  1   
+Treedt in werking op een nader te bepalen tijdstip   
 
-![242823](http://wetten.overheid.nl/Illustration/242823)
-![242823](http://wetten.overheid.nl/Illustration/242823)
+![]()
+![]()
 
 ### Bijlage  2  
 
@@ -5663,7 +6258,7 @@ Creilervaart Enservaart Espelervaart Hoge Dwars Vaart Hoge Vaart Kadoelermeer/ka
 1e Industriehaven 2e Industriehaven Afvoerkanaal Akkrumerrak Bakhuizervaart Biggemar Blauwhuisteropvaart Blijaervaart Boksleat Boksumer Zool Bolswardertrekvaart Bolswardervaart Bonkesloot Bosksleat Brandeburevaart Brandemeer Broere Sloot Buitendijksche Hoofdvaart Burmaniasloot Cornjumervaart De Baai De Bliken De Boarn De Drait De Ee De Geeuw De Greuns De Grote Potten De Haven De Lauwers De Lits De Luts De Potmarge De Rijd De Swadde De Tijnje De Zwemmer De Zwette Diepe Dolte Diepsloot Dijgracht Dijkvaart Doezumertocht Dokkumer Ee Dokkumerdiep Dokkumergrootdiep Dolte Drachtstervaart Drogge Dolte Dwarsmeer Dwarsried Exmorravaartje Fammegat Fammensrakken Foudgumervaart Franekervaart Gaastmeer Geeuw Goengahustersleat Gooyumervaart Graft Greft Grietmansrak Groote Brekken Groote Gaastmeer Groote Zijlroede Grote Sluis Haan’s Krite Haiemer Dolte Haklandshop Hallumertrekvaart Harlingervaart Hartwerdervaart Haven Heafeart Heegervar Heerengracht Heerensloot Heerenwegstervaart Heidenschapstervaart Heloma of Jonkersvaart Hennaarderopvaart Henshuister Deel Het Diep Het Diepe Gat Het Ges Het Hop Het Nieuwe Kanaal Het Ouddeel Het Oudhof Het Var Het Vliet Hofmeer Hollegracht Holwerdervaart Horsae Horseweg Houkesloot Houtvaart Idskenhuistervaart Idzegaster Poel Indijk It Swin Jaanvaart Jachthavenkanaal Janssleat Jelsumervaart Jelsumervaart Jeltesloot Johan Friso Kanaal Jongebuurstersleat Jorwerdervaart Joustervaart Jutrijpervaart Kalkhaven Keizersgracht Kerksloot Kipsloot Kleine Zijlroede Koevordermeer Kollumerkanaal Koude Maag Koudumervaart Kromme Grou Kromme Ie Kromme Knjilles Kromme Sleat Kroonduikersvaart Kruiswater Kuikhornstervaart Langdeel Langstaarte Poel Leijenpoel Leijensloot Lemsterrijn Lijkvaart Linde Lollumervaart Louwe Poel Lutkewierumer-opvaart Mantgumervaart Marssumervaart Meinesleat Melkvaart Moddergat Modderige Bol Molendraai Murk Nauwe Galle Nauwe Geeuw Nauwe Greuns Nauwe Larts Nauwe Wijmerts Neare Golle Nieuwe Diep Nieuwe Drait Nieuwe Dwarskanaal Nieuwe Heerenveense kanaal Nieuwe kanaal Nieuwe Vaart Nieuwe Zwemmer Nije Sansleat Nijegaastervaart Nijhuizemervaart Nonnegat Noordbroekstervaart of S Noorder Ee Noordergracht Noordwoldervaart Oosterbrugsloot Oosterse Hei Oosterwierumeroudvaart Oud Dokkumerdiep Ouddiep Oude Drait Oude Geeuw Oude Harlingervaart Oude Meer Oude Ried Oude Vaart Oude weg Peanster Ie Pier Cristiaansloot Pikmeer Pingjumervaart Piter Jehannes gat Polsleat Potmarge Prinsengracht Prinsenwijk Prinses Margrietkanaal Rien Sluis Rijperkerkstervaart Rijstervaart Rjochte Grou Rogsloot Rozengracht Sansleat Scharsterrijn Scheensloot Schipsloot Schoterlandse Compagnonsvaart Sexbierumervaart Singel Sitebuorster Ie Slachtegat Sminkevaart St. Jacobsvaart Steggerdavaart Stienservaart Stroobossertrekvaart Stroomkanaal Terhernster Djip Terhernster Mar Terkaplesterpoelen Tersoalster Zijlroede Tienesloot Tietjerkstervaart Tjonger of Kuinder Trekvaart Tsjaerderfeart Twizelerfeart Tzummarumervaart Ulekrite Vaart van St. Nicolaasga Valomstervaart Van Harinxmakanaal, Lange Meer van Panhuijskanaal Vlakke Brekken Vliet Wartenster Wiid Weidumervaart Welle Welsrijpervaart Wergeasterfeart Westerdijksvaart Westerse Hei Wielhals Wijddraai Wijde Ee Wijde Sloot Wijde Wijmerts Wijmerts Wijtgaardstervaart Wirdumervaart Witakkersvaart Witmarsumervaart Workumertrekvaart Woudmansdiep Woudsenderrakken Woudvaart Wynservaart Zandrak Zandvaart Zijldiep Zijlroede Zijlsterrijd Zijltjessloot Zoolsloot Zuidensstervaart Zuider Ee Zwettehaven  
 
 | Rijkswaterstaat**  | Naam waterlichaam KRW  | Nr. Waterlichaam KRW  |
-|:---|:---|:---|
+|---|---|---|
 | Waddenzee  | NL81_1  |
 | Merwedekanaal  | NL14 7  |
 | Hollandsche IJssel  | NL14 10  |
@@ -5734,7 +6329,7 @@ Creilervaart Enservaart Espelervaart Hoge Dwars Vaart Hoge Vaart Kadoelermeer/ka
 Virussen: 
 
 | Naam ziekte (Engelse benaming)  | Gevoelige diersoort o.a.  | Virus naam  | Species  | Genus  | Subfamily  | Familie  | Inschaling 2008 dierpathogenen  | 2000/54/EG (humaan)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|
 | * Runderpest (Rinderpest)  | Runderen  | Rinderpest virus  | Rinderpest virus  | Morbillivirus  | Paramyxovirinae  | Paramyxoviridae  | 4  | --- |
 | * Mond- en Klauwzeer (Foot and mouth disease)  |  *Varkens, runderen, schapen*   | Foot-and-mouth disease virus (verschillende typen)  | Foot-and-mouth disease virus (verschillende typen)  | Aphthovirus  | --- | Picornaviridae  | 4  | --- |
 | * Klassieke varkenspest (Hog cholera, Classical swine fever)  | Varkens  | Classical swine fever virus/Hog cholera virus  | Classical swine fever virus  | Pestivirus  | --- | Flaviviridae  | 4  | --- |
@@ -5848,10 +6443,10 @@ Virussen:
 | (Rhinotracheitis)  | Kalkoenen  | Turkey rhinotracheitis virus  | Avian metapneumovirus  | Metapneumovirus  | Pneumovirinae  | Paramyxoviridae  | 2  | --- |
 | --- | Runderen  | Vaccinia virus  | Vaccinia virus  | Orthopoxvirus  | Chordopoxvirinae  | Poxviridae  | 2  | 2  |
 
-<sup>1</sup> = hoog pathogeen, velogeen of niet gekarakteriseerd <sup>2</sup> = pathogeen of niet gekarakteriseerd <sup>3</sup> = plus een ‘vectorproof’ voorziening algemeen: voor endemisch voorkomende virustypen kan een verzoek voor lagere inschaling bij de CVO worden voorgelegd * = uit: ‘ [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) ’, Ministerie van Landbouw, Natuur en Voedselkwaliteit, Regeling van 7 juni 2005, nr. TRCJZ/2005/1411 ** = met aanvullende quarantainemaatregelen en persoonsregistratie  Bacteriën/Parasieten* 
+<sup>1</sup> = hoog pathogeen, velogeen of niet gekarakteriseerd <sup>2</sup> = pathogeen of niet gekarakteriseerd <sup>3</sup> = plus een ‘vectorproof’ voorziening algemeen: voor endemisch voorkomende virustypen kan een verzoek voor lagere inschaling bij de CVO worden voorgelegd * = uit: ‘ Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s ’, Ministerie van Landbouw, Natuur en Voedselkwaliteit, Regeling van 7 juni 2005, nr. TRCJZ/2005/1411 ** = met aanvullende quarantainemaatregelen en persoonsregistratie  Bacteriën/Parasieten* 
 
 | Naam ziekte (Engelse benaming)  | Gevoelige diersoort o.a.  | Bacterie naam  | Inschaling 2008 dierpathogeen  | Richtlijn 2000/54/EG (humaan)  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Dourine  | Paarden  | Trypanosoma equiperdum  | 2  | --- |
 | Kwade droes (glanders)  | Paarden  | Burkholderia mallei (Pseudomonas mallei)  | 3  | --- |
 | Miltvuur (Anthrax)  | Meerdere diersoorten  | Bacillus antracis  | 3  | 3  |
@@ -5874,7 +6469,7 @@ Virussen:
 | Tularaemie  | Haasachtigen  | Francisella tularensis type B  | 3  | 2  |
 | Psittacose en Ornithose  | Pluimvee  | Chlamydophila psittaci  | 3  | 3/2***  |
 
-* = uit: ‘ [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) ’, Ministerie van Landbouw, Natuur en Voedselkwaliteit, Regeling van 7 juni 2005, nr. TRCJZ/2005/1411 ** = uitgezonderd BCG stam *** = niet gevogelde stammen 
+* = uit: ‘ Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s ’, Ministerie van Landbouw, Natuur en Voedselkwaliteit, Regeling van 7 juni 2005, nr. TRCJZ/2005/1411 ** = uitgezonderd BCG stam *** = niet gevogelde stammen 
 
 ### Bijlage  5  
 
@@ -5883,7 +6478,7 @@ Virussen:
 Tabel 1. Emissiefactoren ontvangwerk en voorbehandeling 
 
 | Onderdeel  | percentage aanvoer via vrij verval riool  | eenheid  |--- | 0–25%  | 26–50%  | 51–75%  | 76–100%, of bij ijzer-dosering  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 |  *ontvangwerk (put, vijzels etc.)*   | 65  | 46,5  | 28  | 9,5  | ou/s per m <sup>2</sup>  |
 | --- | --- | --- | --- | --- | --- |
 |  *roostergoedverwijdering*   | 65  | 46,5  | 28  | 9,5  | ou/s per m <sup>2</sup>  |
@@ -5913,7 +6508,7 @@ Tabel 1. Emissiefactoren ontvangwerk en voorbehandeling
 Tabel 2. Emissiefactoren biologisch zuiveringsproces RWZI 
 
 | onderdeel:  | slibbelasting (kg BZV/kg d.s.d.)  | Eenheid  |--- | <0,05  | 0,05–0,10  | 0,11–0,20  | 0,21–0,30  | >0,30  |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 |  *Beluchtingstank*   | --- | --- | --- | --- | --- | --- |
 | – aërobe zone:  | --- | --- | --- | --- | --- | --- |
 | * bellenbeluchting  | 0,2  | 0,35  | 0,65  | 1,05  | 1,65  | ou/s per m <sup>2</sup>  |
@@ -5942,7 +6537,7 @@ Tabel 2. Emissiefactoren biologisch zuiveringsproces RWZI
 <sup>1</sup> Voor de overstort van de nabezinktank wordt de emissie niet apart berekend.  Tabel 3. Emissiefactoren sliblijn 
 
 | onderdeel  | Slibkwaliteit  | eenheid  |--- | vers  | aëroob  | anaëroob  | gemengd  |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|
 | voorindikker  | 8  | 3,95  | --- | 8  | ou/s per m <sup>2</sup>  |
 | naindikker  | --- | --- | 3,05  | --- | ou/s per m <sup>2</sup>  |
 | uitgegist slibbuffer  | --- | --- | 3,05  | --- | ou/s per m <sup>2</sup>  |
@@ -5971,7 +6566,7 @@ Tabel 2. Emissiefactoren biologisch zuiveringsproces RWZI
 ####Voor welk jaar is de rapportage?
 
 | --- |
-|:---|
+|---|
 | --- |
 
 ### A2  
@@ -5979,7 +6574,7 @@ Tabel 2. Emissiefactoren biologisch zuiveringsproces RWZI
 ####Bedrijfsgegevens:
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | UO-nummer  | --- | Postadres  | --- |
 | --- | --- | Postcode  | --- |
 | Bedrijfsnaam  | --- | Plaats  | --- |
@@ -5995,7 +6590,7 @@ Tabel 2. Emissiefactoren biologisch zuiveringsproces RWZI
 ####Overige bedrijfsgegevens (aankruisen wat van toepassing is):
 
 | Teeltwijze:  |
-|:---|
+|---|
 | □ Grondteelt  |
 | □ Substraatteelt <sup>1</sup>  |
 | □ Grondteelt en substraatteelt  |
@@ -6013,7 +6608,7 @@ Het bevoegd gezag kan volgens artikel 3.69 van het Activiteitenbesluit in specif
 ####Aangeven waarop drainwater wordt geloosd:
 
 | --- |
-|:---|
+|---|
 | □ Riolering  |
 | □ Oppervlaktewater  |
 | □ Lozing op riolering en oppervlaktewater  |
@@ -6024,7 +6619,7 @@ Het bevoegd gezag kan volgens artikel 3.69 van het Activiteitenbesluit in specif
 ####Oppervlak per periode voor gewas of gewasgroep op substraat (in hectare):
 
 | Gewasgroep (code)  | Periode  | Oppervlakte  |
-|:---|:---|:---|
+|---|---|---|
 | --- | Van week <sup>1</sup>  | Tot en met week <sup>1</sup>  | (in ha)  |
 |  *Onbeteeld (000)*   | --- | --- | --- |
 |  *Geen registratieplicht (999)*   | --- | --- | --- |
@@ -6053,7 +6648,7 @@ Het bevoegd gezag kan volgens artikel 3.69 van het Activiteitenbesluit in specif
 ####Volumes van het geloosde drainwater
 
 | Registratie-  periode  | Hoeveelheid geloosd drainwater  (in m <sup>3</sup>) <sup>1, 2</sup>  |
-|:---|:---|
+|---|---|
 | 1  | --- |
 | 2  | --- |
 | 3  | --- |
@@ -6081,7 +6676,7 @@ U bent verplicht om minimaal 7 keer per jaar een monster te nemen van het geloos
 ####Samenstelling van het geloosde drainwater bij 13 keer monstername <sup>1</sup>
 
 | Registratie-  periode  | Datum monstername (in dag/mnd/jaartal)  | Gehalte aan NH <sub>4</sub> in het drainwater (in mmol per liter)  | Gehalte aan NO <sub>3</sub> in het drainwater  (in mmol per liter)  | Gehalte aan P in het drainwater (in mmol per liter)  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 1  | --- | --- | --- | --- |
 | 2  | --- | --- | --- | --- |
 | 3  | --- | --- | --- | --- |
@@ -6103,7 +6698,7 @@ Opmerking 1: het gehalte aan NH <sub>4</sub>, NO <sub>3</sub> en P wordt éénma
 ####Samenstelling van het geloosde drainwater bij 7 keer monstername <sup>1</sup>
 
 | Registratie-  periode <sup>1</sup>  | Datum monstername (in dag/mnd/jaartal)  | Gehalte aan NH <sub>4</sub> in het drainwater (in mmol per liter)  | Gehalte aan NO <sub>3</sub> in het drainwater (in mmol per liter)  | Gehalte aan P in het drainwater (in mmol per liter)  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 1/2  | --- | --- | --- | --- |
 | 3/4  | --- | --- | --- | --- |
 | 5/6  | --- | --- | --- | --- |
@@ -6126,7 +6721,7 @@ Het bevoegd gezag kan volgens artikel 3.74 van het Activiteitenbesluit in specif
 ####Aangeven waarop drainagewater wordt geloosd:
 
 | --- |
-|:---|
+|---|
 | □ Riolering  |
 | □ Oppervlaktewater  |
 | □ Lozing op riolering en oppervlaktewater  |
@@ -6140,7 +6735,7 @@ Opmerking 1: De optie ‘geen lozing’ geldt alleen als de watergift aantoonbaa
 ####Oppervlak per periode voor gewas, gewasgroep in de grond (in hectare):
 
 | Gewasgroep (code)  | Periode  | Oppervlakte  | Assimilatie-belichting  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | Van  week <sup>1</sup>  | Tot en met week <sup>1</sup>  | (in ha)  | Aankruisen indien van toepassing <sup>2</sup>  |
 |  *Onbeteeld (000)*   | --- | --- | --- | --- |
 |  *Geen registratieplicht (999)*   | --- | --- | --- | --- |
@@ -6169,7 +6764,7 @@ Opmerking 1: Een week in het rapportagejaar. Opmerking 2: Voor een aantal gewass
 ####Gerealiseerd verbruik aan totaal stikstof en totaal fosfor over het gehele afgelopen registratiejaar:
 
 | Onderdeel  | Eenheid  | Verbruik  |
-|:---|:---|:---|
+|---|---|---|
 | N-gift  | Kg N  | --- |
 | P-gift  | Kg P  | --- |
 
@@ -6180,7 +6775,7 @@ Als u geen drainagewater op oppervlaktewater of riolering loost (antwoord vraag 
 ####Volumes en samenstelling van het geloosde drainagewater
 
 | Registratie-  periode  | Hoeveelheid geloosd drainagewater (in m <sup>3</sup>) <sup>1) 2)</sup>  |
-|:---|:---|
+|---|---|
 | 1  | --- |
 | 2  | --- |
 | 3  | --- |
@@ -6202,7 +6797,7 @@ Opmerking 1: de hoeveelheid geloosd drainagewater moet éénmaal per 4 weken wor
 ####Samenstelling van het geloosde drainagewater:
 
 | Registratie-  periode  | Datum monstername  (in dag/mnd/  jaartal)  | Gehalte aan NH <sub>4</sub> in het drainagewater (in mmol per liter)  | Gehalte aan NO <sub>3</sub> in het drainagewater (in mmol per liter)  | Gehalte aan P in het drainagewater (in mmol per liter)  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 1  | --- | --- | --- | --- |
 | 2  | --- | --- | --- | --- |
 | 3  | --- | --- | --- | --- |
@@ -6219,7 +6814,7 @@ Opmerking 1: de samenstelling van het geloosde drainagewater op gehalte aan NH <
 ####Opmerkingen:
 
 | --- |
-|:---|
+|---|
 | --- |
 
 ### D2  
@@ -6227,7 +6822,7 @@ Opmerking 1: de samenstelling van het geloosde drainagewater op gehalte aan NH <
 ####Aldus naar waarheid opgemaakt:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam  | --- |
 | Datum  | --- |
 | Plaats  | --- |
@@ -6238,7 +6833,7 @@ Opmerking 1: de samenstelling van het geloosde drainagewater op gehalte aan NH <
 ####Getoetst op juistheid en volledigheid door geaccepteerde deskundige <sup>1</sup>:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam  | --- |
 | Plaats  | --- |
 | Datum  | --- |
@@ -6269,7 +6864,7 @@ B1 Hier kunt u aangeven of het bedrijf drainwater loost op oppervlaktewater op r
 B2 Hierin wordt u gevraagd aan te geven wat u het afgelopen kalenderjaar heeft geteeld. Per gewas en gewasgroep geeft u aan in welke weken u dit hebt geteeld en op welk oppervlak (in hectare, met een nauwkeurigheid van vier cijfers achter de komma). Als het beteelde oppervlak van een gewas in het jaar wijzigt kunt u hiervoor twee of meer regels gebruiken. Bijv. tomaat: van week 1 tot en met 34 op 1,5340 ha en tomaat van week 34 tot 48 op 2,5280 ha. Bij meer dan 3,5 dagen van een bepaalde teelt wordt dit afgerond naar één week. Onbeteeld oppervlak (uw kas ligt bijvoorbeeld een aantal weken leeg tussen twee teelten) dient u apart te vermelden. Ook als u een periode van het jaar geen registratieverplichting heeft dient u dit apart te vermelden. In de tabel zijn de regels voor ‘onbeteeld oppervlak’ en ‘geen registratieverplichting’ al voorgedrukt. Gewassen waarvoor opkweek plaatsvindt op uw bedrijf dient u apart te vermelden. Voor opkweek kan namelijk een andere norm gelden dan voor reguliere teelt, het apart opnemen is van belang voor de berekening van de juiste bedrijfsnorm voor uw bedrijf. *Geen registratieplicht (code 999)*:  
 
 | --- |
-|:---|
+|---|
 | De term ‘geen registratieplicht’ geldt alleen bij bedrijfsbeëindiging of bij de start van een nieuw bedrijf tijdens het jaar. Voor de periode in dat jaar dat u dan nog niet of niet meer teelt geldt de term ‘geen registratieplicht’. Als een deel van uw kassen niet in gebruik is geldt de term ‘onbeteeld oppervlak’.  Bij verhuur van een deel van de kas behoeft u dat deel niet meer te verantwoorden en zal dus het geregistreerde totale oppervlak verminderen.  |
 
 Als u meer ruimte nodig heeft in de tabel dan kunt u daarvoor een extra pagina toevoegen. Een voorbeeld van het invullen van deze tabel is onderaan de toelichting bijgevoegd.  
@@ -6289,7 +6884,7 @@ C1 Hier kunt u aangeven of het bedrijf drainagewater loost op oppervlaktewater o
 C2 Hier wordt u gevraagd aan te geven wat u het afgelopen kalenderjaar heeft geteeld. Per gewas en gewasgroep geeft u aan in welke weken u dit hebt geteeld en op welk oppervlak (in hectare, met een nauwkeurigheid van vier cijfers achter de komma). Als het beteelde oppervlak van een gewas in het jaar wijzigt kunt u hiervoor twee of meer regels gebruiken. Bijv. tomaat: van week 1 tot en met 34 op 1,5340 ha en tomaat van week 34 tot 48 op 2,5280 ha. Bij meer dan 3,5 dagen van een bepaalde teelt wordt dit afgerond naar één week. Onbeteeld oppervlak (uw kas ligt bijvoorbeeld een aantal weken leeg tussen twee teelten) dient u apart te vermelden. Ook als u een periode van het jaar geen registratieverplichting heeft dient u dit apart te vermelden. In de tabel zijn de regels voor ‘onbeteeld oppervlak’ en ‘geen registratieverplichting’ al voorgedrukt. Gewassen waarvoor opkweek plaatsvindt op uw bedrijf dient u apart te vermelden. Voor opkweek kan namelijk een andere norm gelden dan voor reguliere teelt, het apart opnemen is van belang voor de berekening van de juiste bedrijfsnorm voor uw bedrijf. In de laatste kolom geeft u aan of u voor dit gewas assimilatiebelichting gebruikt. De norm is in enkele gevallen ook afhankelijk van het gebruik van assimilatiebelichting. *Geen registratieplicht (code 999)*:  
 
 | --- |
-|:---|
+|---|
 | De term ‘geen registratieplicht’ geldt alleen bij bedrijfsbeëindiging of bij de start van een nieuw bedrijf tijdens het jaar. Voor de periode in dat jaar dat u dan nog niet of niet meer teelt geldt de term ‘geen registratieplicht’. Als een deel van uw kassen niet in gebruik is geldt de term ‘onbeteeld oppervlak’.  Bij verhuur van een deel van de kas behoeft u dat deel niet meer te verantwoorden en zal dus het geregistreerde totale oppervlak verminderen.  |
 
 Als u meer ruimte nodig heeft in de tabel dan kunt u daarvoor een extra pagina toevoegen. Een voorbeeld van het invullen van deze tabel is onderaan de toelichting bijgevoegd.  
@@ -6311,11 +6906,11 @@ D2 Mocht u toch gebruik maken van dit formulier vergeet dan niet het formulier t
 D3 U kunt de rapportage rechtstreeks invoeren op de website. U kunt de rapportage ook aanleveren via een zogenaamde geaccepteerde deskundige. Op de website van de UO-IMT vindt u een lijst van geaccepteerde deskundigen.  
 
 | --- |
-|:---|
+|---|
 | VOORBEELD  Van het invullen van het Teeltplan  |
 
 | Gewasgroep (code)  | Periode  | Oppervlakte  |
-|:---|:---|:---|
+|---|---|---|
 | --- | Van week <sup>1</sup>  | Tot en met week <sup>1</sup>  | (in ha)  |
 | Onbeteeld oppervlak (000)  | 1  | 2  | 2,3000  |
 | Geen registratieplicht (999)  | --- | --- | --- |
