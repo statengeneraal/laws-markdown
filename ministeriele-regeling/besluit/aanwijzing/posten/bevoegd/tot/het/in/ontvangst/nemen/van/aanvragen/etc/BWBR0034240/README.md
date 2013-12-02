@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Buitenlandse Zaken van 20 september 2013, nr. DJZ/BR/0658-2013 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
+##Besluit van de Minister van Buitenlandse Zaken van 21 november 2013, nr. MinBuZa.2013.326375 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
 
 De Minister van Buitenlandse Zaken,  
 Gelet op [artikel 8, eerste lid, van de Paspoortwet](../../../../../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
@@ -24,15 +24,15 @@ e. tweede paspoorten.
 
 ### Artikel  2  
 
-Het [besluit van de Minister van Buitenlandse Zaken van 21 juni 2013](../../../../../../../../../../../../../../ministeriele-regeling/aanwijzingsbesluit/posten/bevoegd/tot/het/in/ontvangst/nemen/van/aanvragen/etc/BWBR0033617/README.md), nr. DJZ/BR/0455-2013 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten wordt ingetrokken.  
+Het [besluit van de Minister van Buitenlandse Zaken van 20 september 2013, nr. DJZ/BR/0658-2013 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten](../../../../../../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/posten/bevoegd/tot/het/in/ontvangst/nemen/van/aanvragen/etc/BWBR0033922/README.md) wordt ingetrokken.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 1 oktober 2013.  
+Dit besluit treedt in werking met ingang van 2 december 2013.  
 Dit besluit zal met de bijlagen in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zakennamens deze,
+Minister van Buitenlandse Zaken,namens deze:
 De directeur-generaal Europese Samenwerking,
 R.E. deGroot  
 
@@ -53,7 +53,6 @@ R.E. deGroot
 | België  | Brussel  | Ambassade  |
 | België  | Antwerpen  | Consulaat-Generaal  |
 | Benin  | Cotonou  | Ambassade  |
-| Bolivia  | La Paz  | Ambassade  |
 | Bosnië-Herzegovina  | Sarajevo  | Ambassade  |
 | Brazilië  | Brasilia  | Ambassade  |
 | Brazilië  | Rio de Janeiro  | Consulaat-Generaal  |
@@ -83,7 +82,6 @@ R.E. deGroot
 | Egypte  | Cairo  | Ambassade  |
 | Ethiopië  | Addis Abeba  | Ambassade  |
 | Filipijnen  | Manilla  | Ambassade  |
-| Filipijnen  | Cebu  | Honorair Consulaat  |
 | Finland  | Helsinki  | Ambassade  |
 | Frankrijk  | Parijs  | Ambassade  |
 | Georgië  | Tbilisi  | Ambassade  |
@@ -120,7 +118,7 @@ R.E. deGroot
 | Nieuw Zeeland  | Wellington  | Ambassade  |
 | Nieuw Zeeland  | Auckland  | Honorair Consulaat  |
 | Nieuw Zeeland  | Christchurch  | Honorair Consulaat  |
-| Nigeria  | Abuja  | Ambassade  |
+| Nigeria  | Lagos  | Ambassadekantoor  |
 | Noorwegen  | Oslo  | Ambassade  |
 | Oekraïne  | Kiev  | Ambassade  |
 | Oman  | Muscat  | Ambassade  |
@@ -146,7 +144,6 @@ R.E. deGroot
 | Spanje  | La Nucia (Benidorm)  | Honorair Consulaat  |
 | Spanje  | Palma de Mallorca  | Honorair Consulaat  |
 | Spanje  | Santa Cruz de Tenerife  | Honorair Consulaat  |
-| Spanje  | Sevilla  | Honorair Consulaat  |
 | Spanje  | Torremolinos  | Honorair Consulaat  |
 | Sri Lanka  | Colombo  | Ambassade  |
 | Sudan  | Khartoem  | Ambassade  |
@@ -224,7 +221,6 @@ R.E. deGroot
 | Spanje  | La Nucia (Benidorm)  | Honorair Consulaat  |
 | Spanje  | Palma de Mallorca  | Honorair Consulaat  |
 | Spanje  | Santa Cruz de Tenerife  | Honorair Consulaat  |
-| Spanje  | Sevilla  | Honorair Consulaat  |
 | Spanje  | Torremolinos  | Honorair Consulaat  |
 | Tsjechië  | Praag  | Ambassade  |
 | Turkije  | Ankara  | Ambassade  |
