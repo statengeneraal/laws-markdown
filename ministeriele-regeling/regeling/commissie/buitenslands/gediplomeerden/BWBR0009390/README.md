@@ -3,16 +3,16 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 februari 1998, nr. CSZ/BO 982107, tot instelling van de Commissie buitenslands gediplomeerden
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op de artikelen 41, vijfde lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg, artikel 2 van het Besluit buitenslands gediplomeerden volksgezondheid en artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988;
-Besluit:    
+Gelet op de [artikelen 41, vijfde lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg, artikel 2 van het Besluit buitenslands gediplomeerden volksgezondheid](../../../../../../AMvB/besluit/buitenslands/gediplomeerden/volksgezondheid/BWBR0007397/README.md) en [artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md);
+Besluit:     
 
-### Artikel  1  
+###Artikel  1  
 
 Er is een Commissie buitenslands gediplomeerden.  
 
-### Artikel  2  
+###Artikel  2  
 
-1.  Tot voorzitter van de commissie buitenslands gediplomeerden volksgezondheid wordt benoemd, de heer dr. L.R. Kooij, wonende te Bilthoven. Tot plaatsvervangend voorzitter wordt benoemd, de heer B. Leijenaar Mds, wonende te Meppel.   
+1. Tot voorzitter van de commissie buitenslands gediplomeerden volksgezondheid wordt benoemd, de heer dr. L.R. Kooij, wonende te Bilthoven. Tot plaatsvervangend voorzitter wordt benoemd, de heer B. Leijenaar Mds, wonende te Meppel.  
 2.  Per hierna genoemde beroepsgroep worden tot lid, respectievelijk plaatsvervangend lid, van de commissie buitenslands gediplomeerden volksgezondheid benoemd:  *Artsen:*  Op voordracht van de Vereniging Samenwerkende Nederlandse Universiteiten, tot lid: 
 
 – de heer dr. A.J.H.M. Houben, wonende te Eijsden;  
@@ -327,29 +327,29 @@ Er is een Commissie buitenslands gediplomeerden.
 
 – mevrouw A.T. Bakker, wonende te Almere.     
 3.  Als secretaris wordt aan de commissie toegevoegd de heer mr.drs. W. Davidse.   
-4.  Als adviserend lid wordt aan de commissie toegevoegd de hoofdinspecteur voor de gezondheidszorg of diens vertegenwoordiger.   
+4.  Als adviserend lid wordt aan de commissie toegevoegd de hoofdinspecteur voor de gezondheidszorg of diens vertegenwoordiger.  
 
-### Artikel  3  
+###Artikel  3  
 
-De leden en de plaatsvervangend leden van de commissie, de voorzitter daaronder niet begrepen, ontvangen een vacatiegeld van € 190,59 voor iedere dag waarop zij één of meer vergaderingen van de commissie hebben bijgewoond. Tevens hebben zij recht op een reiskostenvergoeding volgens het Reisbesluit binnenland.  
+De leden en de plaatsvervangend leden van de commissie, de voorzitter daaronder niet begrepen, ontvangen een vacatiegeld van € 190,59 voor iedere dag waarop zij één of meer vergaderingen van de commissie hebben bijgewoond. Tevens hebben zij recht op een reiskostenvergoeding volgens het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
 
-### Artikel  4  
+###Artikel  4  
 
 Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt met inachtneming van het Besluit algemene secretarie-aangelegenheden rijksadministratie op overeenkomstige wijze als bij het Ministerie van Volksgezondheid, Welzijn en Sport. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.  
 
-### Artikel  5  
+###Artikel  5  
 
 De Regeling Commissie buitenslands gediplomeerde verpleegkundigen wordt ingetrokken.  
 
-### Artikel  6  
+###Artikel  6  
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 december 1997.  
 
-### Artikel  7  
+###Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling Commissie buitenslands gediplomeerden.  
+Deze regeling wordt aangehaald als: Regeling Commissie buitenslands gediplomeerden. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

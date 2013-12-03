@@ -3,7 +3,7 @@
 ##Regeling invoer, uitvoer en verkeer van planten
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 2 van de Plantenziektenwet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) en op [artikel 14](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), [aanhef en onderdeel d, van het Besluit bestrijding schadelijke organismen](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) 1991;
+Gelet op artikel 2 van de Plantenziektenwet en op artikel 14, aanhef en onderdeel d, van het Besluit bestrijding schadelijke organismen 1991;
 
 Gelet op richtlijn 77/93/EEG van de Raad van de Europese Gemeenschappen van 21 december 1976 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten of voor plantaardige produkten schadelijke organismen(PbEG 1977, L 26) en de daarop gebaseerde richtlijnen;
 
@@ -169,15 +169,23 @@ d. de planten, plantaardige producten of ander materialen gaan, blijkens onderzo
 
 ### Artikel  12a  
 
-Onverminderd de bepalingen van artikel 12 gelden voor knollen van Solanum tuberosum L., andere dan bestemd voor opplant, van oorsprong uit Egypte, de volgende bepalingen: 
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. de aardappelen worden alleen binnengebracht in Eemshaven, Harlingen, Beverwijk, Amsterdam, Rotterdam, Vlissingen en Hansweert;  
+a. *uitvoeringsbesluit 2011/787/EU:* Uitvoeringsbesluit 2011/787/EU van de Commissie van 29 november 2011 tot machtiging van de lidstaten om tijdelijk noodmaatregelen te nemen tegen de verspreiding van Ralstonia solanacearum (Smith) Yabuuchi et al., wat Egypte betreft (PbEU 2011, L 319);  
 
-b. de aardappelen worden op de plaats van binnenkomst gecontroleerd;  
+b. *schadelijk organisme:* Ralstonia solanacearum (Smith) Yabuuchi et al.     
+2.  Knollen van Solanum tuberosum L., andere dan bestemd voor opplant, van oorsprong uit Egypte mogen slechts in de Europese Unie worden binnengebracht indien zij: 
 
-c. de aardappelen worden gecontroleerd overeenkomstig de bijzondere eisen genoemd in punt 2, eerste alinea, en punt 3, eerste alinea, van de bijlage bij beschikking 2004/4/EG van de Commissie van 22 december 2003 houdende machtiging van de lidstaten om ten aanzien van Egypte tijdelijk aanvullende maatregelen te nemen tegen de verspreiding van Pseudomonas solanacearum (Smith) Smith (PbEU L 2) en  
+a. zijn gekweekt in een gebied dat is opgenomen in de lijst van ziektevrijegebieden, bedoeld in artikel 1, tweede lid, van uitvoeringsbesluit 2011/787/EU;  
 
-d. de aardappelen worden gecontroleerd op aanwezigheid van de in punt 1, onderdeel b, sub iv en xi, van de in onderdeel c genoemde bijlage, bedoelde documenten en officiële fytosanitaire certificaten.    
+b. voldoen aan de voorschriften van de bijlage van uitvoeringsbesluit 2011/787/EU;  
+
+c. worden binnengebracht in Eemshaven, Harlingen, Beverwijk, Amsterdam, Rotterdam of Vlissingen;  
+
+d. geïnspecteerd zijn op de aanwezigheid van het schadelijke organisme overeenkomstig de bijlage bij uitvoeringsbesluit 2013/413/EU en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden;  
+
+e. voorzien zijn van een etiket in een officiële taal van de Europese Unie met de vermelding dat ze uit Egypte komen, de naam van het schadelijk organisme vrij gebied, de naam en het identificatienummer van de producent en het nummer van de partij.     
+3.  De afvalstoffen die overblijven na het verpakken en verwerken in de Europese Unie van knollen van Solanum tuberosum L., andere dan bestemd voor opplant, van oorsprong uit Egypte worden zo verwijderd dat het schadelijk organisme zich niet in de Europese Unie kan vestigen of verspreiden.   
 
 ### Artikel  12b  
 
@@ -299,6 +307,43 @@ b. zij, onverminderd de artikelen 12, bij binnenkomst in de Europese Unie overee
 2.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. van oorsprong uit derde landen, mogen slechts in de Europese Unie worden binnengebracht als zij voldoen aan de specifieke invoervoorschriften van bijlage I van uitvoeringsbesluit 2012/756/EU.   
 3.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. mogen slechts binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden van bijlage II van uitvoeringsbesluit 2012/756/EU.   
 
+### Artikel  12n  
+
+Vruchten van Citrus L., Fortunella Swingle, Poncirus Raf. en de hybriden daarvan van oorsprong uit Brazilië mogen slechts in de Europese Unie worden binnengebracht indien zij voldoen aan de voorschriften van de bijlage bij Beschikking 2004/416/EG van de Commissie van 29 april 2004 inzake noodmaatregelen ten aanzien van bepaalde citrusvruchten van oorsprong uit Brazilië (PbEU 2004, L 151), zoals deze laatstelijk gewijzigd is bij Uitvoeringsbesluit 2013/67/EU van de Commissie van 29 januari 2013 tot wijziging van Beschikking 2004/416/EG inzake tijdelijke noodmaatregelen ten aanzien van bepaalde citrusvruchten van oorsprong uit Brazilië (PbEU 2013, L 31).  
+
+### Artikel  12o  
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a. *GN-code:* code als bedoeld in bijlage I van verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256);  
+
+b. *houten verpakkingsmateriaal:* houten verpakkingsmateriaal als bedoeld in artikel 1, onder a, van Uitvoeringsbesluit 2013/92/EU van de Commissie van 18 februari 2013 betreffende het toezicht, de fytosanitaire controles en de te nemen maatregelen met betrekking tot houten verpakkingsmateriaal dat gebruikt wordt voor het vervoer van specifieke goederen van oorsprong uit China (PbEU 2013, L 47).     
+2.  Het houten verpakkingsmateriaal van een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 2514 00 00, 2515, 2516, 6801 00 00 of 6802, wordt onder één van de douaneregelingen, genoemd in artikel 4, zestiende lid, onderdelen a, d, e, f of g, van het communautair douanewetboek geplaatst, indien dit verpakkingsmateriaal, blijkens inspecties als bedoeld in artikel 13 bis, eerste lid, onder b, onder iii, van richtlijn 2000/29/EG, voldoet aan de eisen, bedoeld in Bijlage IV, deel A, Rubriek I, onder 2 en 8, van richtlijn 2000/29/EG.   
+3.  Inspecties als bedoeld in het tweede lid, worden uitgevoerd op de plaats van binnenkomst of op de plaats van bestemming die door de douaneautoriteiten en door de minister is erkend overeenkomstig richtlijn nr. 2004/103/EG.   
+4.  Luchthavenautoriteiten, havenautoriteiten, importeurs of exploitanten kunnen door de minister worden verplicht om een op handen zijnde aankomst van een zending als bedoeld in het tweede lid, vooraf te melden bij het douanekantoor van de plaats van binnenkomst of bij de officiële instantie van de plaats van binnenkomst zodra zij hiervan op de hoogte zijn.   
+5.  Indien het houten verpakkingsmateriaal van een zending als bedoeld in het tweede lid, besmet is met een schadelijk organisme, genoemd in Bijlage I, deel A, van richtlijn 2000/29/EG of niet voldoet aan de eisen, bedoeld in Bijlage IV, deel A, Rubriek I, onder 2 en 8, van richtlijn 2000/29/EG, wordt een maatregel als bedoeld in artikel 13 quater, zevende lid, van richtlijn 2000/29/EG toegepast.   
+
+### Artikel  12p  
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a. *uitvoeringsbesluit 2013/413/EU:* Uitvoeringsbesluit 2013/413/EU van de Commissie van 30 juli 2013 tot machtiging van de lidstaten om voor andere dan voor opplant bestemde aardappelen uit de regio’s Akkar en Bekaa in Libanon af te wijken van sommige bepalingen van Richtlijn 2000/29/EG van de Raad (PbEU 2013, L 205);  
+
+b. *schadelijk organisme:* Clavibacter michiganensis ssp. sepedonicus (Spieckermann en Kotthoff) Davis et al.     
+2.  Knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon mogen slechts in de Europese Unie worden binnengebracht indien zij: 
+
+a. voldoen aan de voorschriften van de bijlage bij uitvoeringsbesluit 2013/413/EU;  
+
+b. voorzien zijn van een fytosanitair certificaat dat voldoet aan de eisen, genoemd in artikel 2 van uitvoeringsbesluit 2013/413/EU;  
+
+c. worden binnengebracht in Eemshaven, Harlingen, Beverwijk, Amsterdam, Rotterdam en Vlissingen;  
+
+d. geïnspecteerd zijn op de aanwezigheid van het schadelijke organisme overeenkomstig artikel 4 van uitvoeringsbesluit 2013/413/EU en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden;  
+
+e. voorzien zijn van een etiket dat voldoet aan de eisen, genoemd in artikel 6 van uitvoeringsbesluit 2013/413/EU.     
+3.  Een importeur brengt overeenkomstig artikel 8 van uitvoeringsbesluit 2013/413/EU de verantwoordelijke officiële instantie van de plaats van binnenkomst voldoende van te voren op de hoogte van zijn intentie om knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon binnen te brengen.   
+4.  De afvalstoffen die overblijven na het verpakken en verwerken in de Europese Unie van knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon worden zo verwijderd dat het schadelijke organisme zich niet in de Europese Unie kan vestigen of verspreiden.   
+
 ### Artikel  13  
 
 1.  Planten, plantaardige produkten of andere materialen, van herkomst uit een derde land en genoemd in bijlage V, deel B, rubriek I, bij richtlijn 2000/29/EG die tevens genoemd zijn in bijlage IV, deel A, rubriek I, bij richtlijn 2000/29/EG moeten bij invoer vergezeld zijn van een bij die zending behorend fytosanitair certificaat, afgegeven door de officiële dienst voor plantenbescherming van het land van oorsprong. Het bepaalde in de eerste volzin is niet van toepassing: 
@@ -376,8 +421,8 @@ f. datum van eerste aanvraag.
 
 ### Artikel  20a  
 
-1.  De ontvanger van een zending aan wie een vergunning is verleend voor elektronische aangifte als bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) kan overeenkomstig die vergunning, de zending op elektronische wijze aanbieden aan de Plantenziektenkundige Dienst voor het onderzoek, bedoeld in artikel 12, eerste lid.   
-2.  Het eerste lid is van overeenkomstige toepassing op een gemachtigde als bedoeld in [artikel 2:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), aan wie vergunning is verleend voor elektronische aangifte als bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md).   
+1.  De ontvanger van een zending aan wie een vergunning is verleend voor elektronische aangifte als bedoeld in artikel 1:11 van de Algemene Douaneregeling kan overeenkomstig die vergunning, de zending op elektronische wijze aanbieden aan de Plantenziektenkundige Dienst voor het onderzoek, bedoeld in artikel 12, eerste lid.   
+2.  Het eerste lid is van overeenkomstige toepassing op een gemachtigde als bedoeld in artikel 2:1 van de Algemene wet bestuursrecht, aan wie vergunning is verleend voor elektronische aangifte als bedoeld in artikel 1:11 van de Algemene Douaneregeling.   
 3.  Het aanbieden voor onderzoek, bedoeld in het eerste en tweede lid, geschiedt via een daarvoor bestemd elektronisch systeem met behulp van een door de Minister beschikbaar gestelde toegang.   
 4.  De Minister kan besluiten de verstrekte toegang te blokkeren, indien de indiener of een met hem geassocieerd bedrijf of organisatie in het verleden een elektronische aanbieding voor onderzoek heeft ingediend in strijd met deze regeling.   
 5.  De Minister kan een elektronische aanbieding voor onderzoek weigeren, indien dit niet overeenkomstig deze regeling is ingediend.   
@@ -385,12 +430,12 @@ f. datum van eerste aanvraag.
 7.  De Minister kan een elektronisch verzonden bericht weigeren voor zover de betrouwbaarheid of vertrouwelijkheid van dit bericht onvoldoende is gewaarborgd, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.   
 8.  De Minister deelt een weigering op grond van dit artikel zo spoedig mogelijk aan de afzender mede.   
 9.  Als tijdstip waarop een elektronisch bericht door de Plantenziektenkundige Dienst elektronisch is ontvangen, geldt het tijdstip waarop het bericht zijn systeem voor gegevensverwerking heeft bereikt.   
-10.  De Minister kan besluiten de elektronische aanbieding voor onderzoek niet te behandelen, indien het elektronisch bericht geheel of gedeeltelijk is geweigerd op grond van het vijfde, zesde en zevende lid. [Artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+10.  De Minister kan besluiten de elektronische aanbieding voor onderzoek niet te behandelen, indien het elektronisch bericht geheel of gedeeltelijk is geweigerd op grond van het vijfde, zesde en zevende lid. Artikel 4:5 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 
 ### Artikel  20b  
 
-1.  Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden, stelt de Plantenziektenkundige Dienst de ontvanger van de zending of diens gemachtigde via het systeem, bedoeld in artikel 20a, derde lid, op de hoogte van de toepassing van artikel 12, elfde lid, dan wel van de onverkorte toepassing van artikel 12, eerste lid. De ontvanger van de zending of diens gemachtigde doet bij de elektronische aangifte ten invoer, bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), mededeling aan de douane over de toepassing van artikel 12, elfde lid.   
-2.  Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden en aan artikel 12, twaalfde lid, toepassing is gegeven, kan het besluit bedoeld in artikel 12, tiende lid, worden bekendgemaakt door elektronische toezending aan degene aan wie vergunning is verleend voor elektronische aangifte als bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md).   
+1.  Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden, stelt de Plantenziektenkundige Dienst de ontvanger van de zending of diens gemachtigde via het systeem, bedoeld in artikel 20a, derde lid, op de hoogte van de toepassing van artikel 12, elfde lid, dan wel van de onverkorte toepassing van artikel 12, eerste lid. De ontvanger van de zending of diens gemachtigde doet bij de elektronische aangifte ten invoer, bedoeld in artikel 1:11 van de Algemene Douaneregeling, mededeling aan de douane over de toepassing van artikel 12, elfde lid.   
+2.  Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden en aan artikel 12, twaalfde lid, toepassing is gegeven, kan het besluit bedoeld in artikel 12, tiende lid, worden bekendgemaakt door elektronische toezending aan degene aan wie vergunning is verleend voor elektronische aangifte als bedoeld in artikel 1:11 van de Algemene Douaneregeling.   
 
 ### Artikel  21  
 
@@ -405,7 +450,11 @@ De Regeling invoer, uitvoer en vervoer van planten wordt ingetrokken.
 ### Artikel  23  
 
 1.  Deze regeling treedt in werking met ingang van 1 juni 1993.   
-2.  Deze regeling kan worden aangehaald als: Regeling invoer, uitvoer en verkeer van planten. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+2.  Artikel 12k vervalt met ingang van 1 oktober 2014.   
+3.  Artikel 12m vervalt met ingang van 1 april 2016.   
+4.  Artikel 12n vervalt met ingang van 1 april 2015.   
+5.  Artikel 12p vervalt met ingang van 1 november 2015.   
+6.  Deze regeling kan worden aangehaald als: Regeling invoer, uitvoer en verkeer van planten. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 26 mei 1993    

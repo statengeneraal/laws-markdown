@@ -10,7 +10,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*[Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md);  
+*besluit:* [Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md);  
 
 *bijlage:* bij deze regeling behorende bijlage;  
 
@@ -26,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 *SVBP2008:* Standaard Vergelijkbare Bestemmingsplannen 2008, opgenomen in bijlage 2;  
 
-*SVBP2012:* Standaard Vergelijkbare Bestemmingsplannen 2012, opgenomen in bijlage 5.    
+*SVBP2012:* Standaard Vergelijkbare Bestemmingsplannen 2012, opgenomen in bijlage 5.   
 
 ### Artikel  2  
 
@@ -40,28 +40,28 @@ b. de standaard IMROPT2012 slechts wordt gebruikt voor zover een visie, plan, be
 a. kunnen de vormgeving, inrichting en elektronische beschikbaarstelling plaatsvinden overeenkomstig de standaarden IMRO2008, SVBP2008 en STRI2008, voor zover het betreft een visie, plan, besluit of verordening als bedoeld in [artikel 1.2.1, eerste lid, van het besluit](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md) die respectievelijk dat is of wordt vastgesteld vóór 1 juli 2013, dan wel, indien [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, voor die datum daarvan een ontwerpbesluit ter inzage is gelegd;  
 
 b. kan de elektronische beschikbaarstelling van een mededeling als bedoeld in [artikel 6.14, eerste lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) tot 1 juli 2013 plaatsvinden overeenkomstig de standaarden IMRO2008 en STRI2008.     
-3.  Het beheer van de in het eerste en tweede lid bedoelde standaarden wordt opgedragen aan een of meer door Onze Minister aan te wijzen instanties.   
+3.  Het beheer van de in het eerste en tweede lid bedoelde standaarden wordt opgedragen aan een of meer door Onze Minister aan te wijzen instanties.  
 
 ### Artikel  3  
 
-Voor zover in de bijlagen bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende diensten van de informatiemaatschappij (PbEG L 204), zoals gewijzigd bij richtlijn nr. 98/48/EG van 20 juli 1998 (PbEG L 217), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.  
+Voor zover in de bijlagen bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende diensten van de informatiemaatschappij (PbEG L 204), zoals gewijzigd bij richtlijn nr. 98/48/EG van 20 juli 1998 (PbEG L 217), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd. 
 
 ### Artikel  4  
 
-De [Regeling standaarden ruimtelijke ordening 2008](../../../../../../../ministeriele-regeling/regeling/standaarden/ruimtelijke/ordening/2008/BWBR0024656/README.md) wordt ingetrokken.  
+De [Regeling standaarden ruimtelijke ordening 2008](../../../../../../../ministeriele-regeling/regeling/standaarden/ruimtelijke/ordening/2008/BWBR0024656/README.md) wordt ingetrokken. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2012.  
+Deze regeling treedt in werking met ingang van 1 oktober 2012. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling standaarden ruimtelijke ordening 2012.  
+Deze regeling wordt aangehaald als: Regeling standaarden ruimtelijke ordening 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die beschikbaar worden gesteld op de website www.geonovum.nl.  
 
 De 
 Minister van Infrastructuur en Milieu, 
-M.H.Schultz van Haegen-Maas Geesteranus  
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ### Bijlage  1  
 
@@ -89,9 +89,9 @@ M.H.Schultz van Haegen-Maas Geesteranus
 
 ### Bijlage  5  
 
-####(SVBP2012)
+####(SVBP 2012)
 
-[Gepubliceerd: http://ro-standaarden.geonovum.nl/2012/SVBP/1.2/SVBP2012-v1.2.pdf.] 
+[Gepubliceerd op: http://ro-standaarden.geonovum.nl/2012/SVBP/1.3/SVBP2012-v1.3.1.pdf.] 
 
 ### Bijlage  6  
 

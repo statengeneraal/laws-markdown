@@ -8,17 +8,21 @@ Besluit:
 
 ### Artikel  1  
 
-Bij het indienen van een aanvraag als bedoeld in [artikel 5, eerste lid, eerste volzin van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) wordt door de aanvrager aan de Minister van Volksgezondheid, Welzijn en Sport een bedrag van € 80,– betaald.  
+Bij het indienen van een aanvraag als bedoeld in [artikel 5, eerste lid, eerste volzin van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) wordt door de aanvrager aan de Minister van Volksgezondheid, Welzijn en Sport een bedrag van € 85,– betaald. 
+
+###Artikel  1a 
+
+Bij het indienen van een aanvraag van een verpleegkundige tot vermelding in het register van de bevoegdheid van de aanvrager de krachtens [artikel 36, veertiende lid](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), aangewezen UR-geneesmiddelen voor te schrijven, wordt door de aanvrager aan de Minister van Volksgezondheid, Welzijn en Sport een bedrag van € 85,– betaald.
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 juli 2012.  
+Deze regeling treedt in werking met ingang van 1 juli 2012. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling tarieven registratie beroepsbeoefenaren Wet BIG.  
+Deze regeling wordt aangehaald als: Regeling tarieven registratie beroepsbeoefenaren Wet BIG. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     
