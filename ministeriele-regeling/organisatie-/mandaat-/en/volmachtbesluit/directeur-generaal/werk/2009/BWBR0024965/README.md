@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008 met kenmerk DGAVIB/SB/2008/35680, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009)
+##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008 met kenmerk DGAVIB/SB/2008/35680, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009) 
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
@@ -13,13 +13,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *directeur-generaal:* de directeur-generaal Werk;  
+a.  *directeur-generaal:* de directeur-generaal Werk;  
 
-b. *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met e en g;  
+b.  *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met e en g;  
 
-c. *directeur:* een functionaris die leiding geeft aan een directie;  
-
-d. *RCN:* Rijksdienst Caribisch Nederland.    
+c.  *directeur:* een functionaris die leiding geeft aan een directie.   
 
 ### §  2  
 
@@ -27,7 +25,7 @@ d. *RCN:* Rijksdienst Caribisch Nederland.
 
 ### Artikel  2  
 
-1.  Onder de directeur-generaal ressorteren: 
+Onder de directeur-generaal ressorteren: 
 
 a. de directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden;  
 
@@ -39,10 +37,9 @@ d. de directie Internationale Zaken;
 
 e. de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving;  
 
-f. een bureau DG-control en Managementondersteuning.  
+f. een bureau DG-control en Managementondersteuning;  
 
-g. de directie Kinderopvang     
-2.  De onder de directeur-generaal Participatie en Inkomenswaarborg ressorterende directie Relatiebeheer, Uitvoeringsontwikkeling en Aansturing ressorteert deels onder de directeur-generaal, uitsluitend voor zover het de in artikel 8A genoemde verantwoordelijkheden betreft.   
+g. de directie Kinderopvang. 
 
 ### §  3  
 
@@ -79,7 +76,7 @@ l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet b
 m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;  
 
 n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
-2.  Het eerste lid, onderdelen h tot en met k, is niet van toepassing op directeuren die leiding geven aan een directie met een omvang van maximaal 12 fulltime-equivalenten.   
+2.  Het eerste lid, onderdelen h tot en met k, is niet van toepassing op directeuren die leiding geven aan een directie met een omvang van maximaal 12 fulltime-equivalenten.  
 
 ### Artikel  4  
 
@@ -99,7 +96,7 @@ f. het beleid met betrekking tot de ontwikkelingen in de primaire, secundaire en
 
 g. de coördinatie van de advisering rond budgettaire en ordeningsvraagstukken in de gehele collectieve sector, mede in relatie tot het inkomens- en werkgelegenheidsbeleid;  
 
-h. de analyse van en beleidsadvisering over de economische ontwikkelingen in Nederland.    
+h. de analyse van en beleidsadvisering over de economische ontwikkelingen in Nederland.   
 
 ### Artikel  5  
 
@@ -117,7 +114,7 @@ e. kennisontwikkeling en -borging, signalering en monitoring op het gebied van a
 
 f. het beschikbaar stellen van informatie over het beleidsgebied;  
 
-g. het bevorderen van de naleving van de wetgeving op het beleidsgebied.    
+g. het bevorderen van de naleving van de wetgeving op het beleidsgebied.   
 
 ### Artikel  6  
 
@@ -133,7 +130,7 @@ d. arbeids- en rusttijden, deeltijdarbeid en aanpassing van arbeidsduur;
 
 e. het combineren van arbeid en zorgtaken;  
 
-f. de aanvullende pensioenen, inclusief de fiscale aspecten van pensioenen en de verplichtstelling van aanvullende pensioenregelingen.    
+f. de aanvullende pensioenen, inclusief de fiscale aspecten van pensioenen en de verplichtstelling van aanvullende pensioenregelingen.   
 
 ### Artikel  7  
 
@@ -153,9 +150,7 @@ f. het coördineren van de internationale expertise-uitwisseling inclusief de re
 
 g. het onderhouden van een internationaal netwerk ten behoeve van voornoemde taken;  
 
-h. het toerusten van het ministerie met het oog op internationale activiteiten;  
-
-i. het zorgdragen voor de afwikkeling van financieel beheersmatige aangelegenheden die verband houden met de voormalige verantwoordelijkheid van de directie Internationale Zaken om de bestuurlijke vernieuwing van de relatie met de Antillen en Bonaire, Sint Eustatius en Saba aan te sturen en te organiseren.    
+h. het toerusten van het ministerie met het oog op internationale activiteiten.   
 
 ### Artikel  8  
 
@@ -171,22 +166,12 @@ d. het afhandelen van aanvragen tot toepassing van de ontheffing bedoeld in [art
 
 e. het innemen van meldingen als bedoeld in de [Wet melding collectief ontslag](../../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), alsmede de afhandeling van verzoeken om toepassing van [artikel 6, derde lid, van die wet](../../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md);  
 
-f. het verzorgen van beleidsinformatie met betrekking tot de aan de directie opgedragen taken.    
-
-### Artikel  8A  
-
-De directie Relatiebeheer, Uitvoeringsontwikkeling en Aansturing is verantwoordelijk voor: 
-
-a. de coördinatie van de (inter)departementale beleidsvorming inzake de openbare lichamen Bonaire, Sint Eustatius en Saba;  
-
-b. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba, waaronder mede begrepen het nemen van besluiten en het behandelen van bezwaar- en beroepszaken die betrekking hebben op deze besluiten;  
-
-c. het namens de minister optreden als opdrachtgever voor de RCN.    
+f. het verzorgen van beleidsinformatie met betrekking tot de aan de directie opgedragen taken.   
 
 ### Artikel  9  
 
-1.  Het bureau DG-Control en Managementondersteuning is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.   
-2.  De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een stelsel van kwalitatief goede en toegankelijke kinderopvang.   
+1. Het bureau DG-Control en Managementondersteuning is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies. 
+2. De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een stelsel van kwalitatief goede en toegankelijke kinderopvang.
 
 ### §  4  
 
@@ -201,7 +186,7 @@ a. de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;
 
 b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
 3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.   
-4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.   
+4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.  
 5.  De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst: 
 
 a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;  
@@ -216,7 +201,7 @@ e. overeenkomsten met betrekking tot raden en commissies;
 
 f. overeenkomsten met betrekking tot onderzoek;  
 
-g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.     
+g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.    
 
 ### §  5  
 
@@ -234,12 +219,12 @@ c. verlof van medewerkers;
 
 d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.     
 2.  Onverminderd het bepaalde in het eerste lid kunnen directeuren, na voorafgaande schriftelijke toestemming van directeur-generaal, hun vertegenwoordigingsbevoegdheden doorverlenen aan functionarissen van een ander organisatieonderdeel, mits de betreffende functionaris daarmee schriftelijk instemt.   
-3.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.   
+3.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.  
 
 ### Artikel  12  
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -248,4 +233,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 Directeur-Generaal Werk, 
-M.R.P.M.Camps   
+M.R.P.M. Camps     

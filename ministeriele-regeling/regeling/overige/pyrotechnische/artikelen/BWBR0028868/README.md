@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010027165, houdende regels betreffende overige pyrotechnische artikelen (Regeling overige pyrotechnische artikelen)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154) en de [artikelen 9.2.2.1](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.4](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.3.2](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [21.6 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154) en de [artikelen 9.2.2.1](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.4](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.3.2 ](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)en [21.6 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -29,7 +29,9 @@ Besluit:
 
 *distributeur:* natuurlijke of rechtspersoon in de leveringsketen die in de uitoefening van zijn bedrijf een pyrotechnisch artikel op de markt beschikbaar maakt;  
 
-*EG-richtlijn pyrotechnische artikelen:*richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154);  
+*EG-richtlijn pyrotechnische artikelen:* richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154);  
+
+*EU-richtlijn pyrotechnische artikelen:* Richtlijn 2013/29/EU van het Europees Parlement en de Raad van 12 juni 2013, betreffende de harmonisatie van de wetgeving van de lidstaten inzake het op de markt aanbieden van pyrotechnische artikelen (herschikking) (PbEU 2013, L 178);
 
 *fabrikant:* natuurlijke of rechtspersoon die een pyrotechnisch artikel ontwerpt, fabriceert of laat ontwerpen of fabriceren, met de bedoeling het in de handel brengen, onder zijn eigen naam of handelsmerk;  
 
@@ -64,7 +66,7 @@ b. Module C, de onderdelen 2 tot en met 4;
 
 c. Module D, de onderdelen 3.4, 4.2 tot en met 4.4, 5 en 6;  
 
-d. Module E, de onderdelen 3.4, 4.2 tot en met 4.4, 5 en 6.     
+d. Module E, de onderdelen 3.4, 4.2 tot en met 4.4, 5 en 6.    
 
 ### Artikel  2  
 
@@ -80,13 +82,13 @@ d. pyrotechnische artikelen die vallen onder de reikwijdte van het [Warenwetbesl
 
 e. explosieven als bedoeld in de [Wet explosieven voor civiel gebruik](../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md);  
 
-f. munitie als bedoeld in de [Wet wapens en munitie](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md).    
+f. munitie als bedoeld in de [Wet wapens en munitie](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md).   
 
 ### Artikel  3  
 
 1.  De minister wijst personen met gespecialiseerde kennis aan die vanwege de uitoefening van hun functie pyrotechnische artikelen behorend tot categorie P2 mogen gebruiken.   
 2.  De aanwijzing kan geschieden voor een of meer daarbij aangegeven categorieën van pyrotechnische artikelen.   
-3.  Pyrotechnische artikelen behorend tot categorie P2 mogen vanwege de uitoefening van hun functie tevens worden gebruikt door personen die ter uitvoering van de EG-richtlijn pyrotechnische artikelen daartoe zijn aangewezen door een bevoegde instantie in een andere lidstaat van de Europese Unie.   
+3.  Pyrotechnische artikelen behorend tot categorie P2 mogen vanwege de uitoefening van hun functie tevens worden gebruikt door personen die ter uitvoering van de EG-richtlijn pyrotechnische artikelen daartoe zijn aangewezen door een bevoegde instantie in een andere lidstaat van de Europese Unie.  
 
 ### Artikel  4  
 
@@ -94,16 +96,16 @@ f. munitie als bedoeld in de [Wet wapens en munitie](../../../../../../wet/wet/w
 2.  Het is verboden pyrotechnische artikelen behorend tot categorie P2, indien bestemd voor gebruik door een ander dan een persoon met gespecialiseerde kennis, binnen het grondgebied van Nederland te brengen, op te slaan, te vervaardigen, voorhanden te hebben of aan een ander ter beschikking te stellen.   
 3.  Het is verboden aan een ander dan een persoon met gespecialiseerde kennis pyrotechnische artikelen behorend tot categorie P2 te verkopen of anderszins ter beschikking te stellen.   
 4.  Het is een persoon met gespecialiseerde kennis verboden anders dan in de uitoefening van zijn functie pyrotechnische artikelen behorend tot categorie P2 op te slaan, voorhanden te hebben of te gebruiken.   
-5.  Het is verboden pyrotechnische artikelen binnen het grondgebied van Nederland te brengen, op te slaan, te vervaardigen, toe te passen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken indien de betrokken artikelen niet voldoen aan het bepaalde bij deze regeling.   
+5.  Het is verboden pyrotechnische artikelen binnen het grondgebied van Nederland te brengen, op te slaan, te vervaardigen, toe te passen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken indien de betrokken artikelen niet voldoen aan het bepaalde bij deze regeling.  
 
 ### Artikel  5  
 
-Het is verboden een pyrotechnisch artikel te gebruiken in strijd met het doel waarvoor het artikel is vervaardigd.  
+Het is verboden een pyrotechnisch artikel te gebruiken in strijd met het doel waarvoor het artikel is vervaardigd. 
 
 ### Artikel  6  
 
 1.  Een wijziging van artikel 10 of 11 van de EG-richtlijn pyrotechnische artikelen, van bijlage IIbij de EG-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in artikel 1, tweede lid, en van bijlage III of IV bij de EG-richtlijn pyrotechnische artikelen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
-2.  De minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid, daarvan mededeling in de Staatscourant.   
+2.  De minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid, daarvan mededeling in de Staatscourant.  
 
 ### Hoofdstuk  2  
 
@@ -121,20 +123,21 @@ Het is verboden een pyrotechnisch artikel te gebruiken in strijd met het doel wa
 
 – Categorie P1: pyrotechnische artikelen die weinig gevaar opleveren;  
 
-– Categorie P2: pyrotechnische artikelen die uitsluitend bestemd zijn om door personen met gespecialiseerde kennis te worden gehanteerd of gebruikt.     
+– Categorie P2: pyrotechnische artikelen die uitsluitend bestemd zijn om door personen met gespecialiseerde kennis te worden gehanteerd of gebruikt.    
 
 ### Artikel  8  
 
-De fabrikant zorgt ervoor dat pyrotechnische artikelen voldoen aan de fundamentele veiligheidseisen.  
+1. De fabrikant zorgt ervoor dat pyrotechnische artikelen voldoen aan de fundamentele veiligheidseisen.  
+2.  De fabrikant zorgt ervoor dat pyrotechnische artikelen voldoen aan punt 4 van bijlage I bij de EU-richtlijn pyrotechnische artikelen. 
 
 ### Artikel  9  
 
 1.  De importeur van pyrotechnische artikelen zorgt ervoor dat de fabrikant aan zijn verplichtingen uit hoofde van deze regeling heeft voldaan of neemt deze verplichtingen op zich.   
-2.  Het eerste lid is van toepassing wanneer de fabrikant niet is gevestigd op het grondgebied van de Europese Unie.   
+2.  Het eerste lid is van toepassing wanneer de fabrikant niet is gevestigd op het grondgebied van de Europese Unie.  
 
 ### Artikel  10  
 
-Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij zich ervan dat het pyrotechnische artikel is voorzien van de vereiste CE-markering en vergezeld gaat van de vereiste documenten.  
+Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij zich ervan dat het pyrotechnische artikel is voorzien van de vereiste CE-markering en vergezeld gaat van de vereiste documenten. 
 
 ### §  2  
 
@@ -145,7 +148,7 @@ Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij z
 1.  Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen die niet voldoen aan de fundamentele veiligheidseisen.   
 2.  Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen indien die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure.   
 3.  Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de artikelen 23 tot en met 25 met betrekking tot de aanduiding en het bezigen van vermeldingen.   
-4.  Het is verboden te handelen in strijd met de artikelen 16, 18, 20, eerste en tweede lid, en 21.   
+4.  Het is verboden te handelen in strijd met de artikelen 16, 18, 20, eerste en tweede lid, en 21.  
 
 ### Artikel  12  
 
@@ -155,13 +158,13 @@ Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij z
 
 a. wordt een zichtbaar teken aangebracht waaruit duidelijk de naam en de datum van de handelsbeurs, tentoonstelling of demonstratie blijken;  
 
-b. is aangegeven dat de artikelen niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen, en niet verkocht mogen worden.     
+b. is aangegeven dat de artikelen niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen, en niet verkocht mogen worden.    
 
 ### Artikel  13  
 
 1.  Artikel 11 is niet van toepassing op pyrotechnische artikelen die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EG-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.   
 2.  Pyrotechnische artikelen als bedoeld in het eerste lid mogen niet beschikbaar worden gesteld of worden gebruikt voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.   
-3.  Op pyrotechnische artikelen als bedoeld in het eerste lid wordt een zichtbaar teken aangebracht waaruit duidelijk blijkt dat ze niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen en niet beschikbaar zijn voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.   
+3.  Op pyrotechnische artikelen als bedoeld in het eerste lid wordt een zichtbaar teken aangebracht waaruit duidelijk blijkt dat ze niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen en niet beschikbaar zijn voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.  
 
 ### §  3  
 
@@ -169,7 +172,7 @@ b. is aangegeven dat de artikelen niet in overeenstemming zijn met de bepalingen
 
 ### Artikel  14  
 
-Pyrotechnische artikelen worden onderworpen aan een conformiteitsbeoordelingsprocedure overeenkomstig deze paragraaf.  
+Pyrotechnische artikelen worden onderworpen aan een conformiteitsbeoordelingsprocedure overeenkomstig deze paragraaf. 
 
 ### Artikel  15  
 
@@ -183,35 +186,35 @@ a. EG-typeonderzoek (module B) en naar keuze van de fabrikant:
 
 3°. de productkwaliteitsborging (module E);    
 
-b. de eenheidskeuring (module G).    
+b. de eenheidskeuring (module G).   
 
 ### Artikel  16  
 
 1.  Indien module B is toegepast, brengt de fabrikant de aangemelde instantie die de technische documentatie betreffende de verklaring van EG-typeonderzoek in haar bezit heeft, op de hoogte van alle wijzigingen van het goedgekeurde artikel die aanvullend moeten worden goedgekeurd als die wijzigingen invloed hebben op de overeenstemming met de fundamentele voorschriften of de voorgeschreven gebruiksvoorwaarden van het artikel. Deze aanvullende goedkeuring wordt gegeven in de vorm van een bijvoegsel bij de oorspronkelijke verklaring van EG-typeonderzoek.   
-2.  Samen met de technische documentatie houdt de fabrikant kopieën van de verklaringen van EG-typeonderzoek en de bijvoegsels bij gedurende ten minste tien jaar vanaf de laatste fabricagedatum van het desbetreffende artikel. Indien de fabrikant niet op het grondgebied van de Europese Unie is gevestigd, rust de verplichting om de technische documentatie ter beschikking te houden bij de importeur of een andere persoon die het product in de handel brengt.   
+2.  Samen met de technische documentatie houdt de fabrikant kopieën van de verklaringen van EG-typeonderzoek en de bijvoegsels bij gedurende ten minste tien jaar vanaf de laatste fabricagedatum van het desbetreffende artikel. Indien de fabrikant niet op het grondgebied van de Europese Unie is gevestigd, rust de verplichting om de technische documentatie ter beschikking te houden bij de importeur of een andere persoon die het product in de handel brengt.  
 
 ### Artikel  17  
 
 1.  Indien module B is toegepast, brengt de aangemelde instantie de andere aangemelde instanties op de hoogte van de relevante informatie betreffende de verklaringen van EG-typeonderzoek en de bijvoegsels die zijn afgegeven of ingetrokken.   
-2.  De andere aangemelde instanties kunnen een kopie van de verklaringen van EG-typeonderzoek of de bijvoegsels krijgen. De bijlagen bij de verklaringen worden ter beschikking van de andere aangemelde instanties gehouden.   
+2.  De andere aangemelde instanties kunnen een kopie van de verklaringen van EG-typeonderzoek of de bijvoegsels krijgen. De bijlagen bij de verklaringen worden ter beschikking van de andere aangemelde instanties gehouden.  
 
 ### Artikel  18  
 
 1.  Indien module C is toegepast, neemt de fabrikant de nodige maatregelen om ervoor te zorgen dat het fabricageproces garandeert dat het gefabriceerde artikel overeenstemt met het type dat is beschreven in de verklaring van EG-typeonderzoek en met de fundamentele veiligheidseisen.   
-2.  De fabrikant houdt een kopie van de verklaring van overeenstemming bij gedurende ten minste tien jaar vanaf de laatste fabricagedatum van het desbetreffende artikel. Indien de fabrikant niet op het grondgebied van de Europese Unie is gevestigd, rust de verplichting om de technische documentatie ter beschikking te houden bij de persoon die het artikel in de handel brengt.   
+2.  De fabrikant houdt een kopie van de verklaring van overeenstemming bij gedurende ten minste tien jaar vanaf de laatste fabricagedatum van het desbetreffende artikel. Indien de fabrikant niet op het grondgebied van de Europese Unie is gevestigd, rust de verplichting om de technische documentatie ter beschikking te houden bij de persoon die het artikel in de handel brengt.  
 
 ### Artikel  19  
 
 1.  Indien module C is toegepast, onderzoekt de door de fabrikant gekozen aangemelde instantie het artikel met willekeurige intervallen, of laat deze instantie het artikel onderzoeken.   
 2.  De aangemelde instantie neemt ter plekke een geschikt monster van de gefabriceerde artikelen, en onderzoekt dit of laat dit onderzoeken. Aan de hand van passende tests zoals gedefinieerd in de toepasselijke geharmoniseerde norm of een gelijkwaardige norm, wordt gecontroleerd of het artikel met de voorschriften van de EG-richtlijn pyrotechnische artikelen overeenstemt. Wanneer een of meer stalen van de onderzochte artikelen niet in overeenstemming blijken te zijn, neemt de aangemelde instantie passende maatregelen.   
-3.  Onder verantwoordelijkheid van de aangemelde instantie brengt de fabrikant tijdens het fabricageproces het identificatienummer van die instantie aan.   
+3.  Onder verantwoordelijkheid van de aangemelde instantie brengt de fabrikant tijdens het fabricageproces het identificatienummer van die instantie aan.  
 
 ### Artikel  20  
 
 1.  Indien module D of E is toegepast, verbindt de fabrikant zich ertoe de verplichtingen die uit het goedgekeurde kwaliteitssysteem voortvloeien, na te komen en ervoor te zorgen dat het goed en efficiënt blijft werken.   
 2.  Indien module D of E is toegepast, informeert de fabrikant de aangemelde instantie die het kwaliteitssysteem heeft goedgekeurd over voorgenomen wijzigingen van het kwaliteitssysteem.   
 3.  De aangemelde instantie beoordeelt de voorgestelde wijzigingen en beslist of het gewijzigde kwaliteitssysteem aan de in bijlage II van de EG-richtlijn pyrotechnische artikelen, punt 3.2 van module D onderscheidenlijk E bedoelde voorschriften zal blijven voldoen dan wel of het systeem opnieuw moet worden beoordeeld.   
-4.  De fabrikant wordt in kennis gesteld van het met redenen omklede beoordelingsbesluit. De kennisgeving bevat de resultaten van het onderzoek.   
+4.  De fabrikant wordt in kennis gesteld van het met redenen omklede beoordelingsbesluit. De kennisgeving bevat de resultaten van het onderzoek.  
 
 ### Artikel  21  
 
@@ -226,13 +229,13 @@ a. het in bijlage II bij de EG-richtlijn pyrotechnische artikelen, onderdeel 3.1
 
 b. de documenten betreffende de wijzigingen, bedoeld in artikel 20, tweede lid,  
 
-c. de in artikel 20, vierde lid, en in artikel 22 bedoelde besluiten en verslagen van de aangemelde instantie.     
+c. de in artikel 20, vierde lid, en in artikel 22 bedoelde besluiten en verslagen van de aangemelde instantie.    
 
 ### Artikel  22  
 
 1.  Indien module D of E is toegepast, voert de aangemelde instantie periodiek controles uit om ervoor te zorgen dat de fabrikant het kwaliteitssysteem handhaaft en toepast en verstrekt de fabrikant een controleverslag.   
 2.  De aangemelde instantie kan bovendien onaangekondigde bezoeken aan de fabrikant brengen. Tijdens dergelijke bezoeken kan de aangemelde instantie, indien noodzakelijk, tests (laten) uitvoeren om na te gaan of het kwaliteitssysteem naar behoren functioneert; de aangemelde instantie verstrekt de fabrikant een verslag van het bezoek en, indien tests zijn uitgevoerd, een testverslag.   
-3.  De aangemelde instantie verstrekt de andere aangemelde instanties de relevante informatie betreffende de goedkeuringen van het kwaliteitssysteem die zijn afgegeven of ingetrokken.   
+3.  De aangemelde instantie verstrekt de andere aangemelde instanties de relevante informatie betreffende de goedkeuringen van het kwaliteitssysteem die zijn afgegeven of ingetrokken.  
 
 ### §  4  
 
@@ -252,7 +255,7 @@ b. deze artikelen zich in een primaire verpakking bevinden waarop de in het eers
 a. zij tot onduidelijkheid kunnen leiden ten aanzien van de betekenis en de vorm van de CE-markering, en  
 
 b. de zichtbaarheid en de leesbaarheid van de CE-markering daardoor in het gedrang komen.     
-5.  Indien de pyrotechnische artikelen onderworpen zijn aan bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie die betrekking hebben op andere aspecten van de CE-markering en een CE-markering voorschrijven, geeft deze markering aan dat deze artikelen ook geacht worden aan de bepalingen van de andere toepasselijke besluiten te voldoen.   
+5.  Indien de pyrotechnische artikelen onderworpen zijn aan bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie die betrekking hebben op andere aspecten van de CE-markering en een CE-markering voorschrijven, geeft deze markering aan dat deze artikelen ook geacht worden aan de bepalingen van de andere toepasselijke besluiten te voldoen.  
 
 ### §  5  
 
@@ -277,14 +280,14 @@ f. in voorkomend geval een minimale veiligheidsafstand, en
 g. de netto explosieve massa (NEM).     
 2.  De gegevens, bedoeld in het eerste lid, zijn in de Nederlandse taal gesteld, zichtbaar, leesbaar en onuitwisbaar.   
 3.  Indien op het pyrotechnische artikel niet voldoende plaats is voor de gegevens, bedoeld in het eerste lid, wordt de informatie op de primaire verpakking weergegeven.   
-4.  Dit artikel is niet van toepassing op de pyrotechnische artikelen, bedoeld in de artikelen 12 en 13.   
+4.  Dit artikel is niet van toepassing op de pyrotechnische artikelen, bedoeld in de artikelen 12 en 13.  
 
 ### Artikel  25  
 
 1.  Het etiket van pyrotechnische artikelen voor voertuigen vermeldt de naam van de fabrikant of, als de fabrikant niet op het grondgebied van de Europese Unie is gevestigd, de naam van de importeur, evenals de naam en het type van het artikel, en de veiligheidsinstructies.   
 2.  Indien het artikel niet voldoende plaats biedt voor de etiketteringsvoorschriften, bedoeld in het eerste lid, wordt de informatie op de verpakking van het artikel vermeld.   
 3.  Een veiligheidsinformatieblad dat is opgesteld volgens de bijlage bij richtlijn nr. 2001/58/EG van de Commissie van de Europese Gemeenschappen van 27 juli 2001 tot tweede wijziging van Richtlijn 91/155/EEG (PbEU L 212) wordt aan de professionele gebruiker verstrekt in de door hem gevraagde taal.   
-4.  Het veiligheidsinformatieblad mag op papier of elektronisch worden geleverd, op voorwaarde dat de ontvanger over de nodige middelen beschikt om er toegang toe te hebben.   
+4.  Het veiligheidsinformatieblad mag op papier of elektronisch worden geleverd, op voorwaarde dat de ontvanger over de nodige middelen beschikt om er toegang toe te hebben.  
 
 ### §  6  
 
@@ -293,7 +296,7 @@ g. de netto explosieve massa (NEM).
 ### Artikel  26  
 
 1.  TÜV Rheinland Nederland B.V. te Apeldoorn wordt aangewezen als instantie die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedures.   
-2.  De aangewezen instantie voldoet ten minste aan de minimumcriteria, opgenomen in bijlage III bij de EG-richtlijn pyrotechnische artikelen.   
+2.  De aangewezen instantie voldoet ten minste aan de minimumcriteria, opgenomen in bijlage III bij de EG-richtlijn pyrotechnische artikelen.  
 
 ### Artikel  27  
 
@@ -304,29 +307,29 @@ a. het beslissen omtrent de afgifte van een verklaring van EG-typeonderzoek in h
 b. het beslissen omtrent de afgifte van een aanvullende goedkeuring in het kader van de toepassing van module B, als bedoeld in bijlage II bij de EG-richtlijn pyrotechnische artikelen, onderdeel 1, onder 6;  
 
 c. het beslissen omtrent het beoordelen of opnieuw beoordelen van het kwaliteitssysteem in het kader van de toepassing van module D, als bedoeld in bijlage II bij de EG-richtlijn pyrotechnische artikelen, onderdeel 3, onder 3.3 en 3.4; of van module E, onderdeel 3, onder 3.3.     
-2.  Een goedkeurende beoordeling kan door de aangewezen instantie worden ingetrokken indien de fabrikant niet langer voldoet aan de vereisten voor een goedkeurende beoordeling.   
+2.  Een goedkeurende beoordeling kan door de aangewezen instantie worden ingetrokken indien de fabrikant niet langer voldoet aan de vereisten voor een goedkeurende beoordeling.  
 
 ### Artikel  28  
 
-De minister ziet toe op de rechtmatige en doeltreffende uitvoering van deze regeling door de aangewezen instantie.  
+De minister ziet toe op de rechtmatige en doeltreffende uitvoering van deze regeling door de aangewezen instantie. 
 
 ### Artikel  29  
 
-De aangewezen instantie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
+De aangewezen instantie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is. 
 
 ### Artikel  30  
 
-De aangewezen instantie beschikt over een behoorlijke administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de beoordeelde pyrotechnische artikelen afdoende te identificeren.  
+De aangewezen instantie beschikt over een behoorlijke administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de beoordeelde pyrotechnische artikelen afdoende te identificeren. 
 
 ### Artikel  31  
 
 1.  Indien een wijziging optreedt in de gegevens op grond waarvan de instantie is aangewezen, doet zij hiervan terstond mededeling aan de minister.   
-2.  Indien de aangewezen instantie voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet zij hiervan terstond mededeling aan de minister. In dat geval draagt zij de gegevens, bedoeld in artikel 30, over aan de minister.   
+2.  Indien de aangewezen instantie voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet zij hiervan terstond mededeling aan de minister. In dat geval draagt zij de gegevens, bedoeld in artikel 30, over aan de minister.  
 
 ### Artikel  32  
 
 1.  Indien de aanwijzing wordt ingetrokken, behouden de door de betrokken instantie afgegeven certificaten van overeenstemming en bijbehorende documenten hun geldigheid.   
-2.  Indien er een dreigend of rechtstreeks gevaar is voor de gezondheid of de veiligheid, kan de minister, in afwijking van het eerste lid, verklaren dat een of meer certificaten van overeenstemming en bijbehorende documenten hun geldigheid hebben verloren.   
+2.  Indien er een dreigend of rechtstreeks gevaar is voor de gezondheid of de veiligheid, kan de minister, in afwijking van het eerste lid, verklaren dat een of meer certificaten van overeenstemming en bijbehorende documenten hun geldigheid hebben verloren.  
 
 ### Hoofdstuk  3  
 
@@ -334,22 +337,22 @@ De aangewezen instantie beschikt over een behoorlijke administratie waarin de ge
 
 ### Artikel  33  
 
-In artikel 4 van de Regeling aanwijzing keuringsinstelling pyrotechnische artikelen wordt na ‘artikelen’ ingevoegd: [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md).  
+In artikel 4 van de Regeling aanwijzing keuringsinstelling pyrotechnische artikelen wordt na ‘artikelen’ ingevoegd: [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md). 
 
 ### Artikel  34  
 
 1.  Deze regeling treedt in werking met ingang van 4 juli 2013.   
 2.  In afwijking van het eerste lid treden de artikelen 27 tot en met 33 in werking op 1 januari 2012.   
-3.  In afwijking van het eerste lid kan een fabrikant of importeur in de periode vanaf 1 januari 2012 tot en met 3 juli 2013 met betrekking tot een pyrotechnisch artikel waarop deze regeling met ingang van 4 juli 2013 van toepassing wordt, toepassing geven aan artikel 14. Indien aan dat artikel toepassing wordt gegeven, zijn de artikelen 6, 7, 15, 16, 17, tweede lid, 18 tot en met 21, 22, eerste en tweede lid, en 23 tot en met 25 van toepassing.   
+3.  In afwijking van het eerste lid kan een fabrikant of importeur in de periode vanaf 1 januari 2012 tot en met 3 juli 2013 met betrekking tot een pyrotechnisch artikel waarop deze regeling met ingang van 4 juli 2013 van toepassing wordt, toepassing geven aan artikel 14. Indien aan dat artikel toepassing wordt gegeven, zijn de artikelen 6, 7, 15, 16, 17, tweede lid, 18 tot en met 21, 22, eerste en tweede lid, en 23 tot en met 25 van toepassing.  
 
 ### Artikel  35  
 
-Deze regeling wordt aangehaald als: Regeling overige pyrotechnische artikelen.  
+Deze regeling wordt aangehaald als: Regeling overige pyrotechnische artikelen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 11 oktober 2010   
 
 De 
-minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-J.C.Huizinga-Heringa   
+minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+J.C. Huizinga-Heringa     

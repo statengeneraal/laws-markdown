@@ -35,54 +35,50 @@ b. gebruiksartikel: technisch voortbrengsel dat
 
 c. verordening (EG) 1935/2004: verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de richtlijnen 80/590/EEG en 89/109/EEG (PbEU L 338);  
 
-d. verordening (EU) 284/2011: verordening (EU) nr. 284/2011 van de Commissie van 22 maart 2011 tot vaststelling van specifieke voorwaarden en gedetailleerde procedures voor de invoer van keukengerei van polyamide- of melaminekunststof van oorsprong of verzonden uit de Volksrepubliek China en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China (PbEU 2011, L 77).    
+d. verordening (EU) 284/2011: verordening (EU) nr. 284/2011 van de Commissie van 22 maart 2011 tot vaststelling van specifieke voorwaarden en gedetailleerde procedures voor de invoer van keukengerei van polyamide- of melaminekunststof van oorsprong of verzonden uit de Volksrepubliek China en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China (PbEU 2011, L 77).  
 
 ### Artikel  2  
 
 1.  Het is verboden te handelen in strijd met artikel 3, eerste lid, en artikel 5.   
 2.  Het is verboden te handelen in strijd met de krachtens artikel 4, eerste lid, gestelde regels.   
 3.  Het is verboden te handelen in strijd met de bij artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid, artikel 17 en de krachtens artikel 5, eerste lid, van verordening (EG) 1935/2004 gestelde voorschriften.   
-4.  Het is verboden te handelen in strijd met de bij artikel 3, eerste en derde lid, 4 en 8 van verordening (EU) 284/2011 gestelde voorschriften.   
+4.  Het is verboden te handelen in strijd met de bij artikel 3, eerste en derde lid, 4 en 8 van verordening (EU) 284/2011 gestelde voorschriften. 
 
 ### Artikel  3  
 
 1.  Een verpakking of gebruiksartikel: 
 
-a. is vervaardigd uit materialen die op grond van hun uit het oogpunt van volksgezondheid goede hoedanigheid zijn aangewezen door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken tezamen zulks onder het stellen van regels omtrent de stoffen, waaruit die materialen zijn vervaardigd;  
+a. is vervaardigd uit materialen die op grond van hun uit het oogpunt van volksgezondheid goede hoedanigheid zijn aangewezen door Onze Minister zulks onder het stellen van regels omtrent de stoffen, waaruit die materialen zijn vervaardigd;  
 
 b. is niet zodanig vervaardigd, dat die verpakking of dat gebruiksartikel uit het oogpunt van volksgezondheid gevaar oplevert of kan opleveren; en  
 
 c. bevindt zich in zindelijke staat.     
-2.  Stoffen, afkomstig van materialen, bedoeld in het eerste lid, onder a, worden niet gerekend tot 
-
-– de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in artikel 1, onder a, 1° of een gebruiksartikel, bedoeld in artikel 1, onder b, 1°,  
-
-– de in de waren, bedoeld onder 1° en 15° van het [Besluit van 26 maart 1921](../../../../../../KB/besluit/aanwijzing/artikelen/welke/worden/beschouwd/als/waren/BWBR0001904/README.md) (Stb. 638), aanwezige stoffen, voor zover deze aan die waren zijn afgegeven door de artikelen gebruikt voor het verpakken daarvan.     
+2.  Stoffen, afkomstig van materialen als bedoeld in het eerste lid, onder a, worden niet gerekend tot de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in artikel 1, onder a, 1°, of een gebruiksartikel, bedoeld in artikel 1, onder b, 1°. 
 
 ### Artikel  4  
 
-1.  Onze Ministers van Volksgezondheid, Welzijn en Sport, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken tezamen kunnen regels stellen met betrekking tot de afgifte van bestanddelen van materialen en voorwerpen die: 
+1.  Onze Minister kan regels stellen met betrekking tot de afgifte van bestanddelen van materialen en voorwerpen die: 
 
 – een gevaar voor de gezondheid van de mens kunnen opleveren;  
 
 – tot een onaanvaardbare wijziging in de samenstelling van de levensmiddelen kunnen leiden; of  
 
 – tot een aantasting van de organoleptische eigenschappen ervan kunnen leiden.     
-2.  Voor de beoordeling of de waren, als bedoeld in dit besluit, voldoen aan de bij of krachtens dit besluit gestelde eisen moet worden gebruik gemaakt van de ter zake door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken tezamen vastgestelde onderzoekingsmethoden.   
+2.  Voor de beoordeling of de waren, als bedoeld in dit besluit, voldoen aan de bij of krachtens dit besluit gestelde eisen moet worden gebruik gemaakt van de ter zake door Onze Minister vastgestelde onderzoekingsmethoden.  
 
 ### Artikel  5  
 
 1.  Verpakkingen of gebruiksartikelen zijn, indien bij het gebruik daarvan bijzondere voorwaarden in acht moeten worden genomen, voorzien van een gebruiksaanwijzing, gesteld in de Nederlandse taal.   
-2.  De vermeldingen, bedoeld in artikel 15, vijfde lid, van verordening (EG) 1935/2004, geschieden in de Nederlandse taal.   
+2.  De vermeldingen, bedoeld in artikel 15, vijfde lid, van verordening (EG) 1935/2004, geschieden in de Nederlandse taal.  
 
 ### Artikel  6  
 
-Als nationale bevoegde autoriteit, bedoeld in artikel 13 van verordening (EG) 1935/2004, wordt aangewezen Onze Minister van Volksgezondheid, Welzijn en Sport.  
+Als nationale bevoegde autoriteit, bedoeld in artikel 13 van verordening (EG) 1935/2004, wordt aangewezen Onze Minister van Volksgezondheid, Welzijn en Sport. 
 
 ### Artikel  6a  
 
-1.  De importeur of zijn vertegenwoordiger is aan de Voedsel en Waren Autoriteit een retributie verschuldigd voor de materiële controles, bedoeld in artikel 6, eerste lid, onder b, van verordening (EU) 284/2011.   
-2.  Het tarief van de retributie, bedoeld in het eerste lid, wordt vastgesteld bij regeling van Onze Minister.   
+1.  De importeur of zijn vertegenwoordiger is aan de Nederlandse Voedsel- en Warenautoriteit een retributie verschuldigd voor de materiële controles, bedoeld in artikel 6, eerste lid, onder b, van verordening (EU) 284/2011.   
+2.  Het tarief van de retributie, bedoeld in het eerste lid, wordt vastgesteld bij regeling van Onze Minister.  
 
 ### Artikel  7  
 
@@ -96,35 +92,35 @@ c. op vleeswaren of fruit aangebrachte bedekkingsmiddelen die niet hiervan kunne
 
 d. natuurprodukten die als zodanig worden gebruikt als verpakking of bestemd zijn voor dat gebruik;  
 
-e. antiquiteiten.    
+e. antiquiteiten.   
 
 ### Artikel  8  
 
-Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](../../../../../../ministeriele-regeling/regeling/verpakkingen-/en/gebruiksartikelen/(warenwet)/BWBR0003276/README.md) op artikel 3, eerste lid, onder a en artikel 4 van dit besluit.  
+Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](../../../../../../ministeriele-regeling/regeling/verpakkingen-/en/gebruiksartikelen/(warenwet)/BWBR0003276/README.md) op artikel 3, eerste lid, onder a en artikel 4 van dit besluit. 
 
 ### Artikel  9  
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Artikel  10  
 
-Wijzigt het Warenwetbesluit Vruchtensappen.   
+Wijzigt het Warenwetbesluit Vruchtensappen.
 
 ### Artikel  11  
 
-Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.   
+Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 ### Artikel  12  
 
-Het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](../../../../../../AMvB/verpakkingen-/en/gebruiksartikelenbesluit/(warenwet)/BWBR0003267/README.md) wordt ingetrokken.  
+Het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](../../../../../../AMvB/verpakkingen-/en/gebruiksartikelenbesluit/(warenwet)/BWBR0003267/README.md) wordt ingetrokken.
 
 ### Artikel  13  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  14  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit verpakkingen en gebruiksartikelen.  
+Dit besluit wordt aangehaald als: Warenwetbesluit verpakkingen en gebruiksartikelen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
