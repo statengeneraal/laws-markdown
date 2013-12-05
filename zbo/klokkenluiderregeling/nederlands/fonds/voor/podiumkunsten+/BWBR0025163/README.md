@@ -10,9 +10,9 @@ Het Nederlands Fonds voor Podiumkunsten+,  Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-1. *Betrokkene:* een personeelslid met een dienstverband bij het Nederlands Fonds voor Podiumkunsten+ (‘het Fonds’) of een subsidieaanvrager die een melding doet van (een vermoeden van) een misstand.  
+1.  *Betrokkene:* een personeelslid met een dienstverband bij het Nederlands Fonds voor Podiumkunsten+ (‘het Fonds’) of een subsidieaanvrager die een melding doet van (een vermoeden van) een misstand.  
 
-2. *(Vermoeden van) een misstand:* een op redelijke gronden gebaseerd vermoeden met betrekking tot het Fonds betreffende: 
+2.  *(Vermoeden van) een misstand:* een op redelijke gronden gebaseerd vermoeden met betrekking tot het Fonds betreffende: 
 
 a. een (dreigend) strafbaar feit;  
 
@@ -22,7 +22,7 @@ c. een (dreiging van) bewust onjuist informeren van publieke organen;
 
 d. een (dreigende) verspilling van overheidsgeld;  
 
-e. (een dreiging van) bewust achterhouden, vernietigen of manipuleren van informatie over deze feiten.      
+e. (een dreiging van) bewust achterhouden, vernietigen of manipuleren van informatie over deze feiten.     
 
 ### Artikel  2  
 
@@ -31,7 +31,7 @@ e. (een dreiging van) bewust achterhouden, vernietigen of manipuleren van inform
 1.  Tenzij er sprake is van een uitzonderingsgrond zoals bedoeld in artikel 5, lid 2 meldt de werknemer (een vermoeden van) een misstand bij de leidinggevende of, indien hij dit niet wenselijk acht, bij de voorzitter van de Raad van Bestuur.  
 ### *Procedure subsidieaanvrager* 
 
-2.  Tenzij er sprake is van een uitzonderingsgrond zoals bedoeld in artikel 5, lid 2 meldt de subsidieaanvrager een (vermoeden van) een misstand bij de voorzitter van de Raad van Bestuur.   
+2.  Tenzij er sprake is van een uitzonderingsgrond zoals bedoeld in artikel 5, lid 2 meldt de subsidieaanvrager een (vermoeden van) een misstand bij de voorzitter van de Raad van Bestuur.  
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ e. (een dreiging van) bewust achterhouden, vernietigen of manipuleren van inform
 2.  Degene bij wie (het vermoeden van) een misstand is gemeld draagt er zorg voor dat de voorzitter van de Raad van Bestuur onverwijld op de hoogte wordt gesteld van een gemeld vermoeden van een misstand en van de datum waarop de melding is ontvangen. Tevens zorgt hij ervoor dat de voorzitter van de Raad van Bestuur een afschrift ontvangt van de vastlegging van de melding.   
 3.  De voorzitter van de Raad van Bestuur stuurt een ontvangstbevestiging aan betrokkene. In de ontvangstbevestiging wordt gerefereerd aan de oorspronkelijke melding.   
 4.  De voorzitter van de Raad van Bestuur geeft onverwijld opdracht voor een onderzoek naar aanleiding van de melding.   
-5.  De behandeling van de melding en het onderzoek naar aanleiding van de melding geschieden vertrouwelijk. Alleen met toestemming van de voorzitter van de Raad van Bestuur kan er informatie omtrent de melding, de behandeling en/of de resultaten worden gegeven.   
+5.  De behandeling van de melding en het onderzoek naar aanleiding van de melding geschieden vertrouwelijk. Alleen met toestemming van de voorzitter van de Raad van Bestuur kan er informatie omtrent de melding, de behandeling en/of de resultaten worden gegeven.  
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ a. hij het niet eens is met het standpunt als bedoeld in lid 1;
 
 b. hij geen standpunt heeft ontvangen binnen de termijn als genoemd in lid 1 c.q. 2;  
 
-c. de termijn bedoeld in lid 2, gelet op alle omstandigheden, onredelijk lang is en betrokkene daartegen bezwaar heeft gemaakt bij de voorzitter van de Raad van Bestuur, doch deze daarop niet een kortere, redelijke termijn heeft aangewezen;     
+c. de termijn bedoeld in lid 2, gelet op alle omstandigheden, onredelijk lang is en betrokkene daartegen bezwaar heeft gemaakt bij de voorzitter van de Raad van Bestuur, doch deze daarop niet een kortere, redelijke termijn heeft aangewezen;    
 
 ### Artikel  5  
 
@@ -78,24 +78,24 @@ d. een eerdere interne melding conform de procedure van in wezen dezelfde missta
 
 e. een wettelijke plicht of bevoegdheid tot direct extern melden.     
 3.  De voorzitter van de Raad van Toezicht behandelt de melding op dezelfde wijze als de voorzitter van de Raad van Bestuur (zoals hiervoor beschreven). In dit geval kan alleen met toestemming van de Raad van Toezicht informatie omtrent de melding, de behandeling en/of de resultaten worden gegeven.   
-4.  De voorzitter van de Raad van Toezicht maakt het standpunt naar aanleiding van de melding bekend aan de voorzitter van de Raad van Bestuur, nadat hij daarvoor van betrokkene toestemming heeft ontvangen. Afhankelijk van de bevindingen kan de voorzitter van de Raad van Toezicht de voorzitter van de Raad van Bestuur bindende aanwijzingen geven voor de afwikkeling van de melding.   
+4.  De voorzitter van de Raad van Toezicht maakt het standpunt naar aanleiding van de melding bekend aan de voorzitter van de Raad van Bestuur, nadat hij daarvoor van betrokkene toestemming heeft ontvangen. Afhankelijk van de bevindingen kan de voorzitter van de Raad van Toezicht de voorzitter van de Raad van Bestuur bindende aanwijzingen geven voor de afwikkeling van de melding.  
 
 ### Artikel  6  
 
 ####Registratie
 
-De melding en de verslaglegging van het onderzoek worden zeven jaar bewaard.  
+De melding en de verslaglegging van het onderzoek worden zeven jaar bewaard. 
 
 ### Artikel  7  
 
 ####Rechtsbescherming
 
-De betrokkene die, met inachtneming van de bepalingen van deze regeling (een vermoeden van) een misstand heeft gemeld, wordt op geen enkele wijze in zijn positie benadeeld voor zover die benadeling enkel en alleen het gevolg zou zijn van de melding.  
+De betrokkene die, met inachtneming van de bepalingen van deze regeling (een vermoeden van) een misstand heeft gemeld, wordt op geen enkele wijze in zijn positie benadeeld voor zover die benadeling enkel en alleen het gevolg zou zijn van de melding. 
 
 ### Artikel  8  
 
 ####Slotbepaling
 
-Deze regeling treedt in werking op 1 januari 2009 en kan worden aangehaald als ‘Klokkenluiderregeling Nederlands Fonds voor Podiumkunsten+’.  
+Deze regeling treedt in werking op 1 januari 2009 en kan worden aangehaald als ‘Klokkenluiderregeling Nederlands Fonds voor Podiumkunsten+’. 
 
-Het Nederlands Fonds voor Podiumkunsten+   
+Het Nederlands Fonds voor Podiumkunsten+    

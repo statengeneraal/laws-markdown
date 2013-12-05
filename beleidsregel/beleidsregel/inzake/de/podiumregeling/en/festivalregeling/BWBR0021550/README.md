@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  1  
 
-Eén en hetzelfde festival kan niet zowel vanuit de Festivalregeling als de Podiumregeling tegelijkertijd subsidie ontvangen.  
+Eén en hetzelfde festival kan niet zowel vanuit de Festivalregeling als de Podiumregeling tegelijkertijd subsidie ontvangen. 
 
 ### Artikel  2  
 
-Beoordeling hiervan is aan het bestuur van het Fonds voor Podiumprogrammering en Marketing.  
+Beoordeling hiervan is aan het bestuur van het Fonds voor Podiumprogrammering en Marketing. 
 
 ### Artikel  3  
 
-Deze beleidsregel wordt aangehaald als ‘Beleidsregel inzake de Podiumregeling en Festivalregeling’.  
+Deze beleidsregel wordt aangehaald als ‘Beleidsregel inzake de Podiumregeling en Festivalregeling’. 
 Aldus besloten in de bestuursvergadering van het Fonds voor Podiumprogrammering en Marketing op 28 februari 2007.  
 
 Het 
 bestuur van het Fonds voor Podiumprogrammering en Marketing, de 
-voorzitter, namens deze: de 
-directeur, 
-M. vanGinkel   
+voorzitter, namens deze:de 
+directeur,
+M. van Ginkel     

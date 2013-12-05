@@ -24,13 +24,13 @@ e. Festival: reeks van presentaties op het gebied van de podiumkunsten met artis
 
 f. Adviescommissie: een commissie als bedoeld in artikel 6, lid 2 van de statuten van het Fonds, die aan het bestuur van het Fonds advies uitbrengt over de subsidieaanvraag.  
 
-g. Productieketen: het proces van scheppen, produceren, programmeren en publieksontwikkeling.    
+g. Productieketen: het proces van scheppen, produceren, programmeren en publieksontwikkeling.   
 
 ### Artikel  2  
 
 ####Doel
 
-Het bestuur van het Fonds kan op aanvraag van een podiumkunstinstelling, of een samenwerkingsverband van podiumkunstinstellingen, voor de periode van 2009–2012 een vierjarige subsidie verstrekken. Deze subsidie wordt verstrekt voor het in continuïteit verrichten van activiteiten ter bevordering van de kwaliteit en diversiteit in het produceren en programmeren van professionele muziek, dans en theater en in het opbouwen en bereiken van een publiek daarvoor in heel Nederland en het buitenland, alsmede ter bevordering van cultureel ondernemerschap.  
+Het bestuur van het Fonds kan op aanvraag van een podiumkunstinstelling, of een samenwerkingsverband van podiumkunstinstellingen, voor de periode van 2009–2012 een vierjarige subsidie verstrekken. Deze subsidie wordt verstrekt voor het in continuïteit verrichten van activiteiten ter bevordering van de kwaliteit en diversiteit in het produceren en programmeren van professionele muziek, dans en theater en in het opbouwen en bereiken van een publiek daarvoor in heel Nederland en het buitenland, alsmede ter bevordering van cultureel ondernemerschap. 
 
 ### Artikel  3  
 
@@ -49,7 +49,7 @@ d. € 5,1 mln. voor de producerende podiumkunstinstellingen in de muziektheate
 
 e. € 10,2 mln. voor de festivals.     
 3.  Het bestuur van het Fonds kan overgaan tot het verhogen van de subsidieplafonds als bedoeld in het eerste en tweede lid.   
-4.  Het bestuur van het Fonds kan niet-benutte bedragen als bedoeld in het tweede lid, toevoegen aan één of meerdere budgetten als bedoeld in het tweede lid.   
+4.  Het bestuur van het Fonds kan niet-benutte bedragen als bedoeld in het tweede lid, toevoegen aan één of meerdere budgetten als bedoeld in het tweede lid.  
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ e. € 10,2 mln. voor de festivals.
 4.  Om in de rangorde te worden opgenomen, dient het oordeel over het criterium ‘kwaliteit’ als bedoeld in artikel 5, eerste lid aanhef en onder a, in ieder geval positief te zijn.   
 5.  Nadat de aanvragen onderling zijn vergeleken en per categorie in rangorde zijn vastgesteld, verdeelt het bestuur van het Fonds de beschikbare subsidie per categorie volgens de rangorde.   
 6.  Het bestuur van het Fonds wijst de resterende aanvragen af.   
-7.  Indien het bestuur van het Fonds het subsidieplafond of de subsidieplafonds conform het bepaalde in artikel 3, derde lid verhoogt, wordt de eerstvolgende aanvraag in de rangorde van de categorie waarin het subsidieplafond is verhoogd, die vanwege de uitputting van het budget is afgewezen, alsnog gehonoreerd, en zo verder.   
+7.  Indien het bestuur van het Fonds het subsidieplafond of de subsidieplafonds conform het bepaalde in artikel 3, derde lid verhoogt, wordt de eerstvolgende aanvraag in de rangorde van de categorie waarin het subsidieplafond is verhoogd, die vanwege de uitputting van het budget is afgewezen, alsnog gehonoreerd, en zo verder.  
 
 ### Artikel  5  
 
@@ -79,7 +79,7 @@ d. Relatie tussen scheppen, produceren, programmeren en publieksontwikkeling
 
 e. Publieksbereik en -ontwikkeling  
 
-f. Cultureel ondernemerschap en bedrijfsvoering.    
+f. Cultureel ondernemerschap en bedrijfsvoering.   
 
 ### Artikel  6  
 
@@ -97,7 +97,7 @@ c. een jaarrekening 2006, indien voorhanden met accountantsverklaring;
 
 d. een kopie van de meest recente oprichtingsakte of statuten en een uittreksel uit het handelsregister (niet ouder dan 12 maanden).     
 4.  Het Fonds kan, indien de aanvraag daartoe aanleiding geeft, de aanvrager om nadere informatie verzoeken.   
-5.  De aanvrager is verantwoordelijk voor een juiste en volledige informatieverstrekking op grond waarvan het bestuur redelijkerwijs tot een besluit kan komen.   
+5.  De aanvrager is verantwoordelijk voor een juiste en volledige informatieverstrekking op grond waarvan het bestuur redelijkerwijs tot een besluit kan komen.  
 
 ### Artikel  7  
 
@@ -108,7 +108,7 @@ d. een kopie van de meest recente oprichtingsakte of statuten en een uittreksel 
 3.  Het bestuur van het Fonds besluit over de aanvragen met inachtneming van het advies van de adviescommissie.   
 4.  Uiterlijk 1 november 2008 stelt het bestuur de aanvrager schriftelijk van zijn besluit in kennis. Het advies wordt met de subsidiebeschikking meegezonden. Wanneer het bestuur afwijkt van het advies van de adviescommissie, wordt dit in het besluit gemotiveerd.   
 5.  Indien de beschikking tot subsidieverlening niet vóór 1 november 2008 kan worden gegeven, stelt het Fonds de aanvrager daarvan in kennis en noemt daarbij de termijn waarbinnen de beschikking tegemoet gezien kan worden.   
-6.  Tijdens de behandeling van een aanvraag wordt over de voortgang daarvan geen inhoudelijke informatie verstrekt.   
+6.  Tijdens de behandeling van een aanvraag wordt over de voortgang daarvan geen inhoudelijke informatie verstrekt.  
 
 ### Artikel  8  
 
@@ -126,9 +126,9 @@ d. kosten voor de in te zetten marketinginstrumenten.
 2.  Genoemde kosten worden alleen in aanmerking genomen, voor zover deze rechtstreeks samenhangen met het verrichten van activiteiten waarvoor subsidie wordt aangevraagd.   
 3.  Niet voor subsidiëring in aanmerking komen: 
 
-a. kosten voor activiteiten die op het moment van indiening van de aanvraag zijn gerealiseerd  
+a. kosten voor activiteiten die op het moment van indiening van de aanvraag zijn gerealiseerd   
 
-b. kosten voor activiteiten die niet relevant zijn in het licht van de doelstelling uit artikel 2.     
+b. kosten voor activiteiten die niet relevant zijn in het licht van de doelstelling uit artikel 2.    
 
 ### Artikel  9  
 
@@ -145,7 +145,7 @@ c. de aanvrager niet beschikt over rechtspersoonlijkheid;
 d. de aanvrager minder dan vier jaar de activiteiten waarvoor wordt aangevraagd, als professionele podiumkunstinstelling verricht;  
 
 e. de te subsidiëren activiteiten niet worden uitgevoerd in de periode 2009–2012;     
-2.  De subsidie wordt voorts geweigerd, indien de aanvrager een vierjaarlijkse instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap voor de periode van 2009–2012 ontvangt.   
+2.  De subsidie wordt voorts geweigerd, indien de aanvrager een vierjaarlijkse instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap voor de periode van 2009–2012 ontvangt.  
 
 ### Artikel  10  
 
@@ -154,21 +154,21 @@ e. de te subsidiëren activiteiten niet worden uitgevoerd in de periode 2009–2
 1.  Van toepassing op deze regeling is het [Algemeen Reglement van het Fonds](../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/podiumkunsten+/BWBR0022753/README.md) waarin algemene bepalingen omtrent de subsidieverstrekking zijn omschreven, zoals aanvraagprocedure, vereisten, voorwaarden en verplichtingen.   
 2.  Deze regeling is een deelreglement als bedoeld in [artikel 4 van het Algemeen Reglement](../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/podiumkunsten+/BWBR0022753/README.md).   
 3.  Eveneens van toepassing op deze regeling is het Huishoudelijk Reglement waarin de interne organisatie van het Fonds wordt geregeld.   
-4.  De reglementen als bedoeld in het eerste en derde lid van dit artikel zijn op verzoek verkrijgbaar bij het secretariaat van het Fonds.   
+4.  De reglementen als bedoeld in het eerste en derde lid van dit artikel zijn op verzoek verkrijgbaar bij het secretariaat van het Fonds.  
 
 ### Artikel  11  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 november 2007.  
+Deze regeling treedt in werking met ingang van 1 november 2007. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling vierjarige subsidies Podiumkunstinstellingen 2009–2012.  
+Deze regeling wordt aangehaald als: Deelregeling vierjarige subsidies Podiumkunstinstellingen 2009–2012. 
 
 Den Haag 
 18 oktober 2007   
 
-Het Nederlands Fonds voor Podiumkunsten+   
+Het Nederlands Fonds voor Podiumkunsten+    
