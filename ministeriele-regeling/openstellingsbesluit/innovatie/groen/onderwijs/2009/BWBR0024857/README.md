@@ -10,24 +10,24 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *regeling:*[Regeling kennisverspreiding en innovatie groen onderwijs](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md);  
+a.  *regeling:* [Regeling kennisverspreiding en innovatie groen onderwijs](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md);  
 
-b. *project:* geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de subsidiedoelstellingen, genoemd in [artikel 2, eerste lid, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md);  
+b.  *project:* geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de subsidiedoelstellingen, genoemd in [artikel 2, eerste lid, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md);  
 
-c. *programma:* programma, bedoeld in [artikel 2, tweede lid, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md);  
+c.  *programma:* programma, bedoeld in [artikel 2, tweede lid, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md);  
 
-d. *programmaonderdeel:* project, passend binnen één van de programma’s, waarvoor de Minister, op grond van [artikel 14 van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md), subsidie heeft verleend.    
+d.  *programmaonderdeel:* project, passend binnen één van de programma’s, waarvoor de Minister, op grond van [artikel 14 van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md), subsidie heeft verleend.   
 
 ### Artikel  2  
 
-De instellingen, genoemd in [artikel 1, onderdeel b, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md), kunnen met ingang van 15 januari 2009 tot en met 2 maart 2009 een aanvraag als bedoeld in [artikel 7](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) of [8 van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) indienen.  
+De instellingen, genoemd in [artikel 1, onderdeel b, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md), kunnen met ingang van 15 januari 2009 tot en met 2 maart 2009 een aanvraag als bedoeld in [artikel 7](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) of [8 van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) indienen. 
 
 ### Artikel  3  
 
 1.  Subsidie kan worden verleend voor programma’s en programmaonderdelen, ingediend in de periode, bedoeld in artikel 2, voor de categorieën en de thema’s, genoemd in de bijlage bij dit openstellingsbesluit.   
 2.  Subsidie voor een project, niet zijnde een programmaonderdeel, wordt uitsluitend verleend voor de categorie kenniscirculatie, genoemd in de bijlage bij dit openstellingsbesluit.   
 3.  Onverminderd [artikel 9](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) en [10 van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) beoordeelt de Minister van Landbouw, Natuur en Voedselkwaliteit een aanvraag als bedoeld in [artikel 7](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) en [8 van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) in voorkomend geval op de mate waarin de activiteiten gericht zijn op de doelgroepen, genoemd in de bijlage bij dit openstellingsbesluit, behorende bij het thema, waarop de aanvraag is gericht.   
-4.  De thema’s, bedoeld in het eerste lid, zijn gerangschikt binnen de hoofdthema’s, genoemd in de bijlage bij dit openstellingsbesluit.   
+4.  De thema’s, bedoeld in het eerste lid, zijn gerangschikt binnen de hoofdthema’s, genoemd in de bijlage bij dit openstellingsbesluit.  
 
 ### Artikel  4  
 
@@ -53,7 +53,7 @@ i) de looptijd van het programma, inclusief de start- en einddatum;
 
 j) een beschrijving van de wijze waarop de kwaliteit van de activiteiten binnen het programma wordt geborgd, en  
 
-k) in voorkomend geval, een beschrijving van het samenwerkingsverband, dat aantoonbaar tot uitdrukking komt in de activiteiten en financiering van het programma en vastgelegd is in één door alle partners getekende samenwerkingsovereenkomst, waarin de personele en financiële bijdragen van de partners zijn vermeld.    
+k) in voorkomend geval, een beschrijving van het samenwerkingsverband, dat aantoonbaar tot uitdrukking komt in de activiteiten en financiering van het programma en vastgelegd is in één door alle partners getekende samenwerkingsovereenkomst, waarin de personele en financiële bijdragen van de partners zijn vermeld.   
 
 ### Artikel  5  
 
@@ -83,7 +83,7 @@ k) een beschrijving van de beoogde wijze van beschikbaar stellen en verspreiden 
 
 l) een beschrijving van de wijze waarop relevantie en succes van het project worden gemeten.     
 2.  Onverminderd het bepaalde in het eerste lid wordt, een aanvraag tot subsidieverlening voor een programmaonderdeel, alleen in behandeling genomen indien de relatie met het programma als bedoeld in artikel 1, onderdeel c, waarbinnen het beoogde programmaonderdeel valt, duidelijk is beschreven.   
-3.  Onverminderd het bepaalde in het eerste lid wordt, in een aanvraag tot subsidieverlening voor een project, niet zijnde een programmaonderdeel, de wijze waarop de kwaliteit van dat project wordt geborgd, beschreven.   
+3.  Onverminderd het bepaalde in het eerste lid wordt, in een aanvraag tot subsidieverlening voor een project, niet zijnde een programmaonderdeel, de wijze waarop de kwaliteit van dat project wordt geborgd, beschreven.  
 
 ### Artikel  6  
 
@@ -100,7 +100,7 @@ l) een beschrijving van de wijze waarop relevantie en succes van het project wor
 
 – € 1.500.000,– voor thema’s binnen de hoofdthema’s Systeemontwikkeling en Onderwijsvernieuwing, genoemd in de bijlage bij deze regeling.     
 3.  Bij onderuitputting van het budget voor projecten, niet zijnde programmaonderdelen, wordt het restant van dat budget op basis van de verhouding, genoemd in het tweede lid, toegevoegd aan de budgetten, bedoeld in dat lid.   
-4.  Bij onderuitputting van het budget dat beschikbaar is voor programmaonderdelen binnen een hoofdthema kan de minister besluiten het resterende budget beschikbaar te stellen voor één van de andere hoofdthema’s.   
+4.  Bij onderuitputting van het budget dat beschikbaar is voor programmaonderdelen binnen een hoofdthema kan de minister besluiten het resterende budget beschikbaar te stellen voor één van de andere hoofdthema’s.  
 
 ### Artikel  7  
 
@@ -117,7 +117,7 @@ a. € 56,–, voor medewerkers, waarvan de hoogte van het salaris valt binnen 
 
 b. € 70,–, voor medewerkers, waarvan de hoogte van het salaris valt binnen één van de schalen 10 tot en met 12, bedoeld in het [Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), en  
 
-c. € 92,–, voor medewerkers, waarvan de hoogte van het salaris valt binnen één van de schalen 13 tot en met 18, bedoeld in het [Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).     
+c. € 92,–, voor medewerkers, waarvan de hoogte van het salaris valt binnen één van de schalen 13 tot en met 18, bedoeld in het [Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).    
 
 ### Artikel  8  
 
@@ -125,7 +125,7 @@ c. € 92,–, voor medewerkers, waarvan de hoogte van het salaris valt binnen 
 2.  De hoogte van het subsidiepercentage met betrekking tot de vergoeding van de subsidiabele kosten voor projecten is maximaal 50% voor kosten, bedoeld in [artikel 5, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md), met uitzondering van de kosten voor de projectleider van een programmaonderdeel waarvoor overeenkomstig het eerste lid deze tot maximaal 100% worden gesubsidieerd en maximaal 75% voor kosten genoemd in [artikel 5, onderdeel b tot en met d, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md).   
 3.  De hoogte van het subsidiepercentage met betrekking tot de vergoeding van de subsidiabele kosten voor projecten is maximaal 75% voor kosten genoemd in [artikel 5, onderdeel b tot en met d, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md).   
 4.  De vergoeding van de kosten bedoeld in [artikel 5, onderdeel b, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) voor projecten is maximaal 20% van de totale opgevoerde kosten, bedoeld in [artikel 5, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md).   
-5.  De vergoeding van de kosten, bedoeld in [artikel 5, onderdeel d, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) is voor projecten maximaal 5% van de totale opgevoerde kosten, bedoeld in [artikel 5, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md).   
+5.  De vergoeding van de kosten, bedoeld in [artikel 5, onderdeel d, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md) is voor projecten maximaal 5% van de totale opgevoerde kosten, bedoeld in [artikel 5, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md).  
 
 ### Artikel  9  
 
@@ -133,7 +133,7 @@ De duur van de subsidieverlening, bedoeld in [artikel 3, vijfde lid, van de rege
 
 a. twee jaar en zes maanden voor programmaonderdelen;  
 
-b. één jaar en zes maanden voor projecten, niet zijnde programmaonderdelen.    
+b. één jaar en zes maanden voor projecten, niet zijnde programmaonderdelen.   
 
 ### Artikel  10  
 
@@ -141,7 +141,7 @@ De hoogte van de voorschotten, bedoeld in [artikel 18, eerste lid, van de regeli
 
 a) bij subsidieverlening voor een programma maximaal 60% van het toegekende subsidiebedrag, gedeeld door de beoogde looptijd van dat programma in jaren, en  
 
-b) bij subsidieverlening voor een project maximaal 60% van het toegekende subsidiebedrag.    
+b) bij subsidieverlening voor een project maximaal 60% van het toegekende subsidiebedrag.   
 
 ### Artikel  11  
 
@@ -153,23 +153,23 @@ b) bijdrage, verstrekt door de Stichting Innovatie Alliantie;
 
 c) bijdrage, verstrekt door de minister in het kader van School als kenniscentrum;  
 
-d) bijdragen ten behoeve van het groene onderwijs, verstrekt door het Deltapunt Beta/techniek.    
+d) bijdragen ten behoeve van het groene onderwijs, verstrekt door het Deltapunt Beta/techniek.   
 
 ### Artikel  12  
 
-Wijzigt de Regeling kennisverspreiding en innovatie groen onderwijs.   
+Wijzigt de Regeling kennisverspreiding en innovatie groen onderwijs. 
 
 ### Artikel  13  
 
-Het [Openstellingsbesluit innovatie groen onderwijs 2008](../../../../../../../ministeriele-regeling/openstellingsbesluit/innovatie/groen/onderwijs/2008/BWBR0023601/README.md) en het [Openstellingsbesluit innovatie groen onderwijs 2007](../../../../../../../ministeriele-regeling/openstellingsbesluit/innovatie/groen/onderwijs/2007/BWBR0022129/README.md) worden ingetrokken.  
+Het [Openstellingsbesluit innovatie groen onderwijs 2008](../../../../../../../ministeriele-regeling/openstellingsbesluit/innovatie/groen/onderwijs/2008/BWBR0023601/README.md) en het [Openstellingsbesluit innovatie groen onderwijs 2007](../../../../../../../ministeriele-regeling/openstellingsbesluit/innovatie/groen/onderwijs/2007/BWBR0022129/README.md) worden ingetrokken. 
 
 ### Artikel  14  
 
-Dit besluit treedt in werking met ingang van 1 januari 2009.  
+Dit besluit treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  15  
 
-Dit besluit wordt aangehaald als: Openstellingsbesluit innovatie groen onderwijs 2009.  
+Dit besluit wordt aangehaald als: Openstellingsbesluit innovatie groen onderwijs 2009. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -177,15 +177,15 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg  
+G. Verburg    
 
-### Bijlage  
+### Bijlage 
 
 ####bij openstellingsbesluit kigo 2009
 
 | Categorieën, bedoeld in artikel 3  en hoofdthema’s, bedoeld in artikel 6  van het openstellingsbesluit  | Thema’s, bedoeld in artikel 3  van het openstellingsbesluit  | Doelgroepen, bedoeld in [artikel 9 van de Regeling](../../../../../../../ministeriele-regeling/regeling/kennisverspreiding/en/innovatie/groen/onderwijs/BWBR0022128/README.md)  |
 |:---|:---|:---|
-| 1. Categorie Kenniscirculatie  | --- | --- |
+| 1. Categorie Kenniscirculatie   | --- | --- |
 | 1.1 Hoofdthema Groene economie:  | Duurzaam ondernemen  Biologische Landbouw  | Ondernemers  |
 | --- | Multifunctionele landbouw  | --- |
 | --- | Mest en mineralen  | --- |
@@ -218,7 +218,7 @@ G.Verburg
 | --- | Instrumentatie onderwijs (leermiddelen, ICT)  |
 | --- | Internationalisering  |
 | --- | --- |
-| 3. Categorie Onderwijsvernieuwing  |
+| 3. Categorie Onderwijsvernieuwing   |
 | Hoofdthema Onderwijsvernieuwing  | Competentiegericht toetsen en beoordelen  |
 | Leren in/uit de praktijk  |
 | --- | Doorlopende leerlijnen en -arrangementen  |

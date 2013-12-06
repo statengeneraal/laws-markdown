@@ -2,12 +2,12 @@
 
 ##Regeling van de minister van Landbouw, Natuur en Voedselkwaliteit van 10 juni 2005, nr. TRCJZ/2005/1614, houdende regels met betrekking tot de subsidiering van het Actieplan BBI-Matra 2005–2008 en tot wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,  
+De Minister van Landbouw, Natuur en Voedselkwaliteit,
 Handelende in overeenstemming met de Staatssecretaris van Buitenlandse Zaken;
 
 Gelet op [artikel 2](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [4 van de Kaderwet LNV-subsidies](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md);
-Besluit:     
-### §  1  
+Besluit:
+###§ 1 
 
 ####Algemene bepalingen
 
@@ -25,15 +25,15 @@ d. oosterbuurlanden: Russische Federatie, Oekraïne, Wit-Rusland, Moldavië, Geo
 
 e. doellanden: kandidaat-lidstaten, de oosterbuurlanden, Servië, Montenegro, Kroatië en Marokko;  
 
-f. project: geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de in deze regeling omschreven subsidiedoelstellingen alsmede gericht op samenwerking, communicatie en kennisoverdracht.    
+f. project: geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de in deze regeling omschreven subsidiedoelstellingen alsmede gericht op samenwerking, communicatie en kennisoverdracht. 
 
 ### Artikel  2  
 
-Op de voet van deze regeling kan de minister op aanvraag subsidie verstrekken in de kosten van projecten die een bijdrage leveren aan de uitvoering van het Actieplan.  
+Op de voet van deze regeling kan de minister op aanvraag subsidie verstrekken in de kosten van projecten die een bijdrage leveren aan de uitvoering van het Actieplan. 
 
 ### Artikel  3  
 
-Voor subsidie komen in aanmerking in Nederland gevestigde privaatrechtelijke rechtspersonen en rechtspersonen naar Nederlands publiekrecht, waarvan de doelstelling past binnen het doel van de subsidieverstrekking en die naar het oordeel van de Minister voldoende kunnen aantonen dat zij in één of meer van de doellanden samenwerken met en ondersteuning bieden aan lokale organisaties.  
+Voor subsidie komen in aanmerking in Nederland gevestigde privaatrechtelijke rechtspersonen en rechtspersonen naar Nederlands publiekrecht, waarvan de doelstelling past binnen het doel van de subsidieverstrekking en die naar het oordeel van de Minister voldoende kunnen aantonen dat zij in één of meer van de doellanden samenwerken met en ondersteuning bieden aan lokale organisaties. 
 
 ### Artikel  4  
 
@@ -47,7 +47,7 @@ c. het stimuleren van ecologisch verantwoord ondernemen met inbegrip van de inte
 
 d. het bijdragen aan maatschappelijke transformatie door het investeren in netwerken van non-gouvermentele organisaties en gouvermentele organisaties op het gebied van biodiversiteit;  
 
-e. het bijdragen aan de Europese eenwording of het Europees Nabuurschap.    
+e. het bijdragen aan de Europese eenwording of het Europees Nabuurschap.   
 
 ### Artikel  5  
 
@@ -60,7 +60,7 @@ b. aantoonbaar gesteund worden door de voor het project relevante overheid in he
 c. in overeenstemming zijn met het algemene buitenlands beleid, met het algemene internationale natuur- en milieubeleid en met het beleid dat Nederland voert ten opzichte van de betreffende regio of het betreffende land;  
 
 d. in de kandidaat-lidstaten in overeenstemming zijn met het toetredingsbeleid van de Europese Unie.     
-2.  Een project dat betrekking heeft op Wit-Rusland komt uitsluitend voor subsidie in aanmerking indien in het kader van het project niet wordt samengewerkt met de centrale overheid van dat land.   
+2.  Een project dat betrekking heeft op Wit-Rusland komt uitsluitend voor subsidie in aanmerking indien in het kader van het project niet wordt samengewerkt met de centrale overheid van dat land.  
 
 ### Artikel  6  
 
@@ -74,7 +74,7 @@ c. de leverantie van uitsluitend materialen of goederen;
 
 d. infrastructurele of bouwactiviteiten;  
 
-e. studiebeurzen of louter wetenschappelijk onderzoek.    
+e. studiebeurzen of louter wetenschappelijk onderzoek.   
 
 ### Artikel  7  
 
@@ -95,34 +95,34 @@ f. reis- en verblijfkosten;
 g. kosten voor tolken en vertalers;  
 
 h. kosten voor de voor de vaststelling van de subsidie benodigde accountantsverklaring tot een maximum van € 2500,–.     
-2.  De subsidie kan worden verhoogd met een opslag voor algemene kosten, van ten hoogste 7,5% van de in het eerste lid genoemde kosten.   
+2.  De subsidie kan worden verhoogd met een opslag voor algemene kosten, van ten hoogste 7,5% van de in het eerste lid genoemde kosten.  
 
-### Artikel  8  
+###Artikel 8 
 
-1.  In afwijking van artikel 7, eerste lid, kan subsidie worden verstrekt op basis van een door de minister goed te keuren dagtarief.   
-2.  Ingeval subsidie wordt verleend op basis van een dagtarief, is artikel 7, tweede lid, niet van toepassing.   
+1. In afwijking van artikel 7, eerste lid, kan subsidie worden verstrekt op basis van een door de minister goed te keuren dagtarief.
+2. Ingeval subsidie wordt verleend op basis van een dagtarief, is artikel 7, tweede lid, niet van toepassing.
 
-### Artikel  9  
+###Artikel 9 
 
-De subsidie bedraagt 100% van de overeenkomstig artikel 7 dan wel 8 berekende kosten.  
+De subsidie bedraagt 100% van de overeenkomstig artikel 7 dan wel 8 berekende kosten.
 
 ### Artikel  10  
 
 1.  Indien voor een project uit anderen hoofde ten laste van ’s Rijks kas subsidies worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies het in artikel 9 genoemde percentage niet overschrijdt.   
-2.  Indien voor een project subsidies door een ander bestuursorgaan dan de minister of financiële middelen door niet-bestuursorganen worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies of de financiële middelen niet meer bedraagt dan 100% van de totale kosten van het project.   
+2.  Indien voor een project subsidies door een ander bestuursorgaan dan de minister of financiële middelen door niet-bestuursorganen worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies of de financiële middelen niet meer bedraagt dan 100% van de totale kosten van het project.  
 
 ### Artikel  11  
 
-1.  Het subsidieplafond bedraagt voor het jaar 2008: € 2.550.500,–.   
-2.  In het jaar 2008 komen projecten waarvan de aangevraagde subsidie meer bedraagt dan € 220.000 niet voor subsidie in aanmerking.   
+1. Het subsidieplafond bedraagt voor het jaar 2008: € 2.550.500,–.
+2. In het jaar 2008 komen projecten waarvan de aangevraagde subsidie meer bedraagt dan € 220.000 niet voor subsidie in aanmerking. 
 
-### §  2  
+###§ 2 
 
 ####Subsidieverlening
 
 ### Artikel  12  
 
-De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari tot en met 17 maart 2008.  
+De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari tot en met 17 maart 2008. 
 
 ### Artikel  13  
 
@@ -151,7 +151,7 @@ g. een communicatieplan waarin wordt aangegeven:
 – op welke wijze met de belanghebbenden bij het project wordt gecommuniceerd over de inhoud, de voortgang en de resultaten, en  
 
 – op welke wijze een breder publiek wordt geïnformeerd over de resultaten en mogelijke gevolgen van het project.       
-4.  Het projectplan wordt in de Nederlandse of de Engelse taal opgesteld.   
+4.  Het projectplan wordt in de Nederlandse of de Engelse taal opgesteld.  
 
 ### Artikel  14  
 
@@ -171,13 +171,13 @@ c. meerdere van de volgende kenmerken heeft:
 
 – het maximaal ten goede komen aan het ontvangende land en daarbij tevens rekening houden met de inbreng en de belangen van Nederland;  
 
-– het hebben van een gunstige kosten-baten verhouding;  
+–het hebben van een gunstige kosten-baten verhouding;
 
 – het ontvangen van medefinanciering door andere organisaties dan LNV;  
 
 – het project verschilt van projecten waaraan in een voorafgaande aanvraagperiode reeds subsidie is verleend;  
 
-– ingeval het een project betreft in de Russische Federatie of Oekraïne, het bijdragen aan de gezamenlijke door Nederland en de Russische Federatie respectievelijk Oekraïne opgestelde werkplannen in het kader van de Memoranda of Understanding op het gebied van respectievelijk milieu bescherming en natuur, met uitzondering van het onderwerp waterkwaliteitsbeheer in het gezamenlijke werkplan met de Russische Federatie.       
+– ingeval het een project betreft in de Russische Federatie of Oekraïne, het bijdragen aan de gezamenlijke door Nederland en de Russische Federatie respectievelijk Oekraïne opgestelde werkplannen in het kader van de Memoranda of Understanding op het gebied van respectievelijk milieu bescherming en natuur, met uitzondering van het onderwerp waterkwaliteitsbeheer in het gezamenlijke werkplan met de Russische Federatie.      
 2.  De minister houdt bij de rangschikking van de aanvragen rekening met een evenwichtige verdeling van de middelen over de thematische invalshoeken, genoemd in artikel 4, over de doellanden en over projecten.   
 3.  Voor de aanvraagperioden in de jaren 2007 en 2008 worden projecten met de volgende thematische invalhoeken of in de volgende doellanden hoger gerangschikt: 
 
@@ -186,16 +186,16 @@ a. projecten ter ondersteuning van nationale beleidsontwikkeling op het gebied v
 b. projecten ter ondersteuning van de totstandkoming van mariene beschermde gebieden;  
 
 c. projecten ter stimulering van de integratie van biodiversiteit in de sectoren landbouw, bosbouw, visserij en recreatie en toerisme.     
-4.  De minister maakt het in het derde lid genoemde besluit bekend in de Staatscourant.   
+4.  De minister maakt het in het derde lid genoemde besluit bekend in de Staatscourant.  
 
 ### Artikel  15  
 
 1.  De minister geeft een beschikking omtrent subsidieverlening binnen vijf maanden na afloop van de desbetreffende aanvraagperiode.   
-2.  De beschikking tot subsidieverlening vermeldt het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.   
+2.  De beschikking tot subsidieverlening vermeldt het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.  
 
-### Artikel  16  
+###Artikel 16 
 
-Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
 
 ### §  3  
 
@@ -203,16 +203,16 @@ Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend
 
 ### Artikel  17  
 
-De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op een eenvoudige wijze alle kosten van het project kunnen worden afgelezen, gespecificeerd overeenkomstig de in artikel 7 onderscheiden kostenposten.  
+De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op een eenvoudige wijze alle kosten van het project kunnen worden afgelezen, gespecificeerd overeenkomstig de in artikel 7 onderscheiden kostenposten. 
 
 ### Artikel  18  
 
 1.  De subsidieontvanger voert het project of programma uit overeenkomstig het projectplan, behoudens door de minister goedgekeurde wijzigingen.   
 2.  Ter verkrijging van goedkeuring, als bedoeld in het eerste lid, wordt een daartoe strekkend verzoek gericht aan de minister en ingediend bij Dienst Regelingen.   
 3.  Goedkeuring, als bedoeld in het eerste en tweede lid, wordt niet verleend voor zover het wijzigingen ten aanzien van de doelstelling betreft.   
-4.  De minister deelt de subsidieontvanger mede of en in welke mate de wijzigingen van het project of programma gevolgen heeft voor de verleende subsidie of voor de bij de verlening van de subsidie vastgestelde verplichtingen. De wijzigingen hebben geen verhoging tot gevolg van het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld.   
+4.  De minister deelt de subsidieontvanger mede of en in welke mate de wijzigingen van het project of programma gevolgen heeft voor de verleende subsidie of voor de bij de verlening van de subsidie vastgestelde verplichtingen. De wijzigingen hebben geen verhoging tot gevolg van het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld.  
 
-### Artikel  18a  
+### Artikel 18a  
 
 Ingeval een project langer dan een jaar duurt, informeert de subsidieontvanger de Minister telkens nadat een jaar is verstreken binnen drie maanden over de voortgang van het project door middel van een verslag, dat ten minste bevat: 
 
@@ -220,11 +220,11 @@ a. een beschrijving van de activiteiten die tot dan toe in het kader van het pro
 
 b. een beschrijving van de mate waarin de activiteiten hebben bijgedragen aan de doelstellingen, omschreven in het projectplan;  
 
-c. een financiële rapportage over de betalingen en kosten die tot dan toe in het kader van het project zijn verricht respectievelijk gemaakt en een financiële planning voor het resterende termijn van het project.    
+c. een financiële rapportage over de betalingen en kosten die tot dan toe in het kader van het project zijn verricht respectievelijk gemaakt en een financiële planning voor het resterende termijn van het project.   
 
 ### Artikel  19  
 
-De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na dagtekening van de beschikking tot subsidieverlening te beginnen met de uitvoering van het project en het project uiterlijk 1 juli 2011 af te ronden.  
+De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na dagtekening van de beschikking tot subsidieverlening te beginnen met de uitvoering van het project en het project uiterlijk 1 juli 2011 af te ronden. 
 
 ### Artikel  20  
 
@@ -232,9 +232,9 @@ De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na da
 2.  Bij de bepaling van de hoogte van de vergoeding, bedoeld in het eerste lid, wordt uitgegaan van de waarde van de met de subsidie verkregen eigendommen en andere vermogensbestanddelen op het tijdstip waarop de financiële vergoeding verschuldigd wordt met dien verstande dat, in geval van ontvangst van schadevergoeding voor verlies of beschadiging van eigendommen, wordt uitgegaan van het bedrag dat de instelling als schadevergoeding ontvangt. Indien het een onroerend goed betreft, geschiedt de waardebepaling door een door de minister aan te wijzen onafhankelijke deskundige.   
 3.  Toepassing van het eerste lid blijft achterwege, indien het project, na toestemming door de minister, door een andere rechtspersoon wordt voortgezet en de activa om niet aan die andere rechtspersoon in eigendom zijn overgedragen.   
 4.  Toepassing van het eerste lid blijft eveneens achterwege, indien bij de subsidievaststelling ten genoegen van de minister wordt aangetoond dat de met het project ontwikkelde activiteiten na de subsidievaststelling tenminste drie jaar worden voortgezet door de subsidieontvanger of, na toestemming door de minister, door een andere rechtspersoon en de activa om niet aan die andere rechtspersoon in eigendom zijn overgedragen.   
-5.  Ter verkrijging van de toestemming, bedoeld in het derde en vierde lid, wordt een daartoe strekkend verzoek gericht aan de minister en ingediend bij Dienst Regelingen.   
+5.  Ter verkrijging van de toestemming, bedoeld in het derde en vierde lid, wordt een daartoe strekkend verzoek gericht aan de minister en ingediend bij Dienst Regelingen.  
 
-### §  4  
+###§ 4 
 
 ####Bevoorschotting
 
@@ -242,10 +242,10 @@ De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na da
 
 1.  De minister kan de subsidieontvanger voorschotten verstrekken van ten hoogste 80% van het bedrag vermeld in de beschikking tot subsidieverlening.   
 2.  Ingeval subsidie is verleend voor meerdere aaneengesloten jaren, kan per jaar één voorschot worden verstrekt, met dien verstande dat het in het eerste lid genoemde percentage naar rato wordt verdeeld over de onderscheiden jaren.   
-3.  Een verzoek om een voorschot wordt uiterlijk 30 juni van het desbetreffende jaar ingediend.   
-4.  De minister kan de subsidieontvanger verzoeken een overzicht van de liquiditeitsbehoefte te overleggen.   
+3.  Een verzoek om een voorschot wordt uiterlijk 30 juni van het desbetreffende jaar ingediend.  
+4.  De minister kan de subsidieontvanger verzoeken een overzicht van de liquiditeitsbehoefte te overleggen.  
 
-### §  5  
+###§ 5 
 
 ####Subsidievaststelling
 
@@ -262,41 +262,41 @@ c. het financiële verloop van het project.
 3.  Indien de totale subsidiabele kosten meer bedragen dan € 22.500,– gaat de aanvraag tot subsidievaststelling vergezeld van een verklaring van een accountant, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat voldaan is aan de bij of krachtens deze regeling gestelde voorwaarden en verplichtingen.   
 4.  De accountant, bedoeld in het derde lid, controleert de aanvraag tot subsidievaststelling met inachtneming van het in bijlage 2 bij deze regeling opgenomen controleprotocol.   
 5.  De goedkeurende accountantsverklaring wordt opgesteld overeenkomstig de in bijlage 1 bij deze regeling opgenomen modelaccountantsverklaring.   
-6.  De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de subsidieontvanger verrichte werkzaamheden.   
+6.  De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de subsidieontvanger verrichte werkzaamheden.  
 
-### §  6  
+###§ 6 
 
 ####Overgangs- en slotbepalingen
 
-### Artikel  23  
+###Artikel 23 
 
-Binnen vijf jaar na inwerkingtreding van deze regeling publiceert de minister een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.  
+Binnen vijf jaar na inwerkingtreding van deze regeling publiceert de minister een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-### Artikel  24  
+###Artikel 24 
 
-1.  Het [Besluit natuurbeheer Midden- en Oost-Europa 2001](../../../../../../../ministeriele-regeling/besluit/natuurbeheer/midden-/en/oost-europa/2001/BWBR0012533/README.md) wordt ingetrokken.   
-2.  Het in het eerste lid bedoelde [besluit](../../../../../../../ministeriele-regeling/besluit/natuurbeheer/midden-/en/oost-europa/2001/BWBR0012533/README.md) blijft van toepassing op op grond daarvan verstrekte subsidies.   
+1. Het [Besluit natuurbeheer Midden- en Oost-Europa 2001](../../../../../../../ministeriele-regeling/besluit/natuurbeheer/midden-/en/oost-europa/2001/BWBR0012533/README.md) wordt ingetrokken.
+2. Het in het eerste lid bedoelde [besluit](../../../../../../../ministeriele-regeling/besluit/natuurbeheer/midden-/en/oost-europa/2001/BWBR0012533/README.md) blijft van toepassing op op grond daarvan verstrekte subsidies.
 
-### Artikel  25  
+### Artikel 25  
 
-Op projecten en programma’s waarvoor voor 23 februari 2007 subsidie is verleend, zijn niet van toepassing de wijzigingen van de [regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 februari 2007, nr. TRCJZ/2007/502, houdende wijziging van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 in verband met wijziging ten aanzien van de doellanden](../../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/subsidiëring/actieplan/bbi-matra/2005–2008/etc/BWBR0021341/README.md) alsmede wijziging van de [Regeling diverse subsidieplafonds en aanvraagperioden LNV](../../../../../../../ministeriele-regeling/regeling/diverse/subsidieplafonds/en/aanvraagperioden/lnv/BWBR0016764/README.md).  
+Op projecten en programma’s waarvoor voor 23 februari 2007 subsidie is verleend, zijn niet van toepassing de wijzigingen van de [regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 februari 2007, nr. TRCJZ/2007/502, houdende wijziging van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 in verband met wijziging ten aanzien van de doellanden](../../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/subsidiëring/actieplan/bbi-matra/2005–2008/etc/BWBR0021341/README.md) alsmede wijziging van de [Regeling diverse subsidieplafonds en aanvraagperioden LNV](../../../../../../../ministeriele-regeling/regeling/diverse/subsidieplafonds/en/aanvraagperioden/lnv/BWBR0016764/README.md).
 
-### Artikel  27  
+###Artikel 27 
 
-Deze regeling wordt aangehaald als: Regeling subsidiëring Actieplan BBI-Matra 2005–2008.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Regeling subsidiëring Actieplan BBI-Matra 2005–2008.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman   
+C.P.Veerman
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####Model-accountantsverklaring, als bedoeld in artikel 22, vijfde lid , van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
 
-Wij hebben de bijgevoegde financiële verantwoording van <naam instelling> te <plaats> inzake het project <naam project> over de periode van ... t/m ... in het kader van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 gecontroleerd. De financiële verantwoording is opgesteld onder de verantwoording van <de leiding van naam instelling / naam persoon>. Het is onze verantwoordelijkheid om een accountantsverklaring inzake de financiële verantwoording te verstrekken. Voor het onderhavige project is bij beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit, kenmerk <nummer> d.d. <datum> een subsidie verleend tot een maximum van € <bedrag>. Onze controle is verricht overeenkomstig de richtlijnen met betrekking tot controle-opdrachten. Volgens de richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de financiële verantwoording geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen in de financiële verantwoording. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel. Wij zijn van oordeel dat de financiële verantwoording voldoet aan de voor dit doel eraan te stellen eisen.  *<plaats en datum>*   *<handtekening>*   *<naam accountant>*   *<naam accountantskantoor>*   *<adres>*   *<postcode en woonplaats>*   *<telefoon>*  
+Wij hebben de bijgevoegde financiële verantwoording van <naam instelling> te <plaats> inzake het project <naam project> over de periode van ... t/m ... in het kader van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 gecontroleerd. De financiële verantwoording is opgesteld onder de verantwoording van <de leiding van naam instelling / naam persoon>.Het is onze verantwoordelijkheid om een accountantsverklaring inzake de financiële verantwoording te verstrekken. Voor het onderhavige project is bij beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit, kenmerk <nummer> d.d. <datum> een subsidie verleend tot een maximum van € <bedrag>.Onze controle is verricht overeenkomstig de richtlijnen met betrekking tot controle-opdrachten. Volgens de richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de financiële verantwoording geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen in de financiële verantwoording.Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel. Wij zijn van oordeel dat de financiële verantwoording voldoet aan de voor dit doel eraan te stellen eisen.*<plaats en datum>**<handtekening>**<naam accountant>**<naam accountantskantoor>**<adres>**<postcode en woonplaats>**<telefoon>*
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####Controleprotocol, als bedoeld in artikel 22, vierde lid , van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
 
@@ -304,18 +304,18 @@ Bij de controle, op basis waarvan de eindrapportage, als bedoeld in artikel 22, 
 
 | Artikel  | Soort aandacht  |
 |:---|:---|
-|  artikel 3    | speciale aandacht  |
-|  artikel 6    | speciale aandacht  |
-|  artikel 7    | speciale aandacht  |
-|  artikel 8    | speciale aandacht  |
-|  artikel 10, eerste lid    | speciale aandacht  |
-|  artikel 10, tweede lid    | speciale aandacht  |
-|  artikel 17    | speciale aandacht  |
-|  artikel 18, eerste lid    | speciale aandacht  |
-|  artikel 18, tweede lid    | speciale aandacht  |
-|  artikel 19    | speciale aandacht  |
-|  artikel 20    | speciale aandacht  |
-|  artikel 22, tweede lid    | normale aandacht  |
+| artikel 3   | speciale aandacht  |
+| artikel 6   | speciale aandacht  |
+| artikel 7   | speciale aandacht  |
+| artikel 8   | speciale aandacht  |
+| artikel 10, eerste lid   | speciale aandacht  |
+| artikel 10, tweede lid   | speciale aandacht  |
+| artikel 17   | speciale aandacht  |
+| artikel 18, eerste lid   | speciale aandacht  |
+| artikel 18, tweede lid   | speciale aandacht  |
+| artikel 19   | speciale aandacht  |
+| artikel 20   | speciale aandacht  |
+| artikel 22, tweede lid   | normale aandacht  |
 
 ####Toelichting op het controleprotocol
 
@@ -345,5 +345,5 @@ Bij de controle, op basis waarvan de eindrapportage, als bedoeld in artikel 22, 
 
 – artikel 20 vierde lid: vaststellen dat, indien de met het project ontwikkelde activiteiten na de subsidievaststelling tenminste drie jaar worden voortgezet door de sub sidieontvanger of door een andere rechtspersoon, dit ten genoegen van de minister wordt aangetoond en indien de met het project ontwikkelde activiteiten na de subsidievaststelling worden voortgezet door een andere rechtspersoon, dit na toestem ming door de minister is gebeurd en de activa om niet aan die andere rechtspersoon in eigendom zijn overgedragen.  
 
-– artikel 22: vaststellen dat de eindrapportage voldoet aan de voor dit doel gestelde eisen.   Onder normale aandacht wordt verstaan: controle met een diepgang die gebruikelijk is voor het afgeven van een accountantsverklaring bij een verantwoording. Onder speciale aandacht wordt verstaan: controle waarbij nadrukkelijk wordt bezien of de desbetreffende voorschriften zijn nageleefd. In dit geval moet dus verder worden gegaan dan normaal bij een controle van een verantwoording. Aan de niet genoemde artikelen behoeft bij de controle geen aandacht te worden besteed, met dien verstande dat, teneinde de controle op de hierboven genoemde artikelen goed te kunnen verrichten, kennisneming van deze overige artikelen noodzakelijk is. De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de aanvrager, aan wie de subsidie ingevolge de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 is verleend, verrichte werkzaamheden.  
+– artikel 22: vaststellen dat de eindrapportage voldoet aan de voor dit doel gestelde eisen.   Onder normale aandacht wordt verstaan: controle met een diepgang die gebruikelijk is voor het afgeven van een accountantsverklaring bij een verantwoording. Onder speciale aandacht wordt verstaan: controle waarbij nadrukkelijk wordt bezien of de desbetreffende voorschriften zijn nageleefd. In dit geval moet dus verder worden gegaan dan normaal bij een controle van een verantwoording. Aan de niet genoemde artikelen behoeft bij de controle geen aandacht te worden besteed, met dien verstande dat, teneinde de controle op de hierboven genoemde artikelen goed te kunnen verrichten, kennisneming van deze overige artikelen noodzakelijk is. De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de aanvrager, aan wie de subsidie ingevolge de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 is verleend, verrichte werkzaamheden. 
 

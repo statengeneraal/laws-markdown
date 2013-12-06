@@ -2,17 +2,17 @@
 
 ##Regeling tot vaststelling van regels ter uitvoering van de BDU verkeer en vervoer en van een beleidsregel ter uitvoering van artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer (Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer)
 
-De Minister van Verkeer en Waterstaat,  
+De Minister van Verkeer en Waterstaat,
 Gelet op [artikel 4, derde lid](../../../../../../../../../AMvB/besluit/bdu/verkeer/en/vervoer/BWBR0018113/README.md), [artikel 5, eerste en derde lid, van het Besluit BDU verkeer en vervoer](../../../../../../../../../AMvB/besluit/bdu/verkeer/en/vervoer/BWBR0018113/README.md) en [artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer](../../../../../../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md);
-Besluit:    
+Besluit:
 
-### Artikel  1  
+###Artikel 1 
 
-In deze regeling wordt verstaan onder: 
+In deze regeling wordt verstaan onder:
 
-a. wet: de [Wet BDU verkeer en vervoer](../../../../../../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md);  
+a.wet: de [Wet BDU verkeer en vervoer](../../../../../../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md);
 
-b. uitkeringsontvanger: de provincie die of het openbaar lichaam dat een uitkering ontvangt.    
+b.uitkeringsontvanger: de provincie die of het openbaar lichaam dat een uitkering ontvangt.
 
 ### Artikel  2  
 
@@ -53,29 +53,29 @@ b. uitkeringsontvanger: de provincie die of het openbaar lichaam dat een uitkeri
 
 ### Artikel  3  
 
-Het absolute aandeel bedraagt voor het uitkeringsjaar 2011 het bij die ontvanger genoemde bedrag in de onderstaande tabel:  
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2014 het bij de uitkeringsontvanger genoemde bedrag in de onderstaande tabel:  
 
-| Uitkeringsontvanger  | Bedrag (* € 1.000)  |
+| Uitkeringsontvanger  | Bedrag (x 1.000 euro)  |
 |:---|:---|
-| Bestuur Regio Utrecht  | 14.133  |
-| Stadsgewest Haaglanden  | 7.126  |
-| Stadsregio Arnhem-Nijmegen  | 9.450  |
-| Stadsregio Amsterdam  | 12.033  |
-| Samenwerkingsverband Regio Eindhoven  | 6.499  |
-| Stadsregio Rotterdam  | 20.348  |
-| Regio Twente  | 3.364  |
-| Provincie Drenthe  | 1.953  |
-| Provincie Flevoland  | 900  |
-| Provincie Friesland  | 4.557  |
-| Provincie Gelderland  | 976  |
-| Provincie Groningen  | 8.302  |
-| Provincie Limburg  | 17.612  |
-| Provincie Noord-Brabant  | 3.432  |
-| Provincie Noord-Holland  | 3.552  |
-| Provincie Overijssel  | 6.608  |
-| Provincie Utrecht  | 4.556  |
-| Provincie Zeeland  | 5.475  |
-| Provincie Zuid-Holland  | 10.937  |
+| Bestuur Regio Utrecht  | 5.952  |
+| Stadsgewest Haaglanden  | 3.553  |
+| Stadsregio Arnhem-Nijmegen  | 9.313  |
+| Stadsregio Amsterdam  | -5.137  |
+| Samenwerkingsverband Regio Eindhoven  | 8.071  |
+| Stadsregio Rotterdam  | 21.518  |
+| Regio Twente  | 3.203  |
+| Provincie Drenthe  | 1.862  |
+| Provincie Flevoland  | 3.246  |
+| Provincie Friesland  | 0  |
+| Provincie Gelderland  | 678  |
+| Provincie Groningen  | 3.808  |
+| Provincie Limburg  | 4.275  |
+| Provincie Noord-Brabant  | 14.004  |
+| Provincie Noord-Holland  | 20.170  |
+| Provincie Overijssel  | 5.148  |
+| Provincie Utrecht  | 23.200  |
+| Provincie Zeeland  | 16.193  |
+| Provincie Zuid-Holland  | 5.377  |
 
 ### Artikel  4  
 
@@ -88,18 +88,18 @@ De rente, bedoeld in [artikel 9, tweede lid, van de wet](../../../../../../../..
 
 ### Artikel  5  
 
-Indien de minister toepassing geeft aan [artikel 11, eerste lid, onder b, van de wet](../../../../../../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md), verlaagt hij de uitkering voor het betreffende uitkeringsjaar met € 150.000.  
+Indien de minister toepassing geeft aan [artikel 11, eerste lid, onder b, van de wet](../../../../../../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md), verlaagt hij de uitkering voor het betreffende uitkeringsjaar met € 150.000. 
 
-### Artikel  6  
+###Artikel 6 
 
-1.  Deze regeling treedt in werking op het tijdstip waarop het [Besluit BDU verkeer en vervoer](../../../../../../../../../AMvB/besluit/bdu/verkeer/en/vervoer/BWBR0018113/README.md) in werking treedt.   
-2.  Deze regeling treedt in afwijking van het eerste lid, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling is geplaatst, indien het [Besluit BDU verkeer en vervoer](../../../../../../../../../AMvB/besluit/bdu/verkeer/en/vervoer/BWBR0018113/README.md) op een daarvoor liggend tijdstip in werking is getreden.   
+1. Deze regeling treedt in werking op het tijdstip waarop het [Besluit BDU verkeer en vervoer](../../../../../../../../../AMvB/besluit/bdu/verkeer/en/vervoer/BWBR0018113/README.md) in werking treedt.
+2. Deze regeling treedt in afwijking van het eerste lid, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling is geplaatst, indien het [Besluit BDU verkeer en vervoer](../../../../../../../../../AMvB/besluit/bdu/verkeer/en/vervoer/BWBR0018113/README.md) op een daarvoor liggend tijdstip in werking is getreden.
 
-### Artikel  7  
+###Artikel 7 
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen I en II, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.   
+Deze regeling wordt aangehaald als: Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen I en II, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 De 
-Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs    
+Minister van Verkeer en Waterstaat,
+K.M.H.Peijs

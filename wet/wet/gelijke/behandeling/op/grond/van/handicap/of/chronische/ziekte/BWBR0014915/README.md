@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met artikel 1 van de Grondwet en alsmede op grond van de Richtlijn nr. 2000/78/EG van de Raad van de Europese Unie van 27 november 2000, tot instelling van een algemeen kader voor gelijke behandeling in arbeid en beroep (PbEG, 2000, L303), ter bevordering van de deelneming op gelijke voet aan het maatschappelijke leven bescherming te bieden tegen discriminatie op grond van handicap of chronische ziekte en dat het daarom wenselijk is behoudens de door de wet genoemde uitzonderingen onderscheid op deze grond te verbieden;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met [artikel 1 van de Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en alsmede op grond van de Richtlijn nr. 2000/78/EG van de Raad van de Europese Unie van 27 november 2000, tot instelling van een algemeen kader voor gelijke behandeling in arbeid en beroep (PbEG, 2000, L303), ter bevordering van de deelneming op gelijke voet aan het maatschappelijke leven bescherming te bieden tegen discriminatie op grond van handicap of chronische ziekte en dat het daarom wenselijk is behoudens de door de wet genoemde uitzonderingen onderscheid op deze grond te verbieden;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1  
 
@@ -20,13 +20,13 @@ a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;
 
 b. direct onderscheid: indien een persoon op grond van handicap of chronische ziekte op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld;  
 
-c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een handicap of chronische ziekte in vergelijking met andere personen bijzonder treft.    
+c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een handicap of chronische ziekte in vergelijking met andere personen bijzonder treft.   
 
 ### Artikel  1a  
 
 1.  Het in deze wet neergelegde verbod van onderscheid houdt mede in een verbod van intimidatie.   
 2.  Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat verband houdt met handicap of chronische ziekte en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.   
-3.  Op het in deze wet neergelegde verbod van intimidatie is artikel 3 niet van toepassing.   
+3.  Op het in deze wet neergelegde verbod van intimidatie is artikel 3 niet van toepassing.  
 
 ### Artikel  2  
 
@@ -41,7 +41,7 @@ a. het onderscheid noodzakelijk is ter bescherming van de veiligheid en de gezon
 b. het onderscheid een regeling, norm of praktijk betreft die tot doel heeft specifieke voorzieningen en faciliteiten te creëren of in stand te houden ten behoeve van personen met een handicap of chronische ziekte;  
 
 c. het onderscheid een specifieke maatregel betreft die tot doel heeft personen met een handicap of chronische ziekte een bevoorrechte positie toe te kennen ten einde feitelijke nadelen verband houdende met de gronden handicap of chronische ziekte op te heffen of te verminderen en het onderscheid in een redelijke verhouding staat tot dat doel.     
-2.  Het in deze wet neergelegde verbod van onderscheid geldt niet ten aanzien van indirect onderscheid indien dat onderscheid objectief gerechtvaardigd wordt door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.   
+2.  Het in deze wet neergelegde verbod van onderscheid geldt niet ten aanzien van indirect onderscheid indien dat onderscheid objectief gerechtvaardigd wordt door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.  
 
 ### §  2  
 
@@ -51,13 +51,13 @@ c. het onderscheid een specifieke maatregel betreft die tot doel heeft personen 
 
 Onderscheid is verboden bij: 
 
-a. de aanbieding van een betrekking en de behandeling bij de vervulling van een openstaande betrekking;  
+a. de aanbieding van een betrekking en de behandeling bij de vervulling van een openstaande betrekking; 
 
 b. het aangaan en het beëindigen van een arbeidsverhouding;  
 
 c. het aanstellen tot ambtenaar en het beëindigen van het dienstverband van een ambtenaar;  
 
-d. de arbeidsbemiddeling;  
+d. de arbeidsbemiddeling; 
 
 e. arbeidsvoorwaarden;  
 
@@ -65,15 +65,15 @@ f. het laten volgen van onderwijs, scholing en vorming tijdens of voorafgaand aa
 
 g. bevordering;  
 
-h. arbeidsomstandigheden.    
+h.arbeidsomstandigheden. 
 
 ### Artikel  5  
 
-Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot het vrije beroep en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep.  
+Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot het vrije beroep en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep. 
 
 ### Artikel  5a  
 
-Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een werkgevers- of werknemersorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.  
+Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een werkgevers- of werknemersorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien. 
 
 ### §  2a  
 
@@ -81,7 +81,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 ### Artikel  5b  
 
-Onderscheid is verboden bij het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs als bedoeld in de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs, voor zover niet begrepen onder artikel 6, onder b.  
+Onderscheid is verboden bij het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs als bedoeld in de [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor zover niet begrepen onder artikel 6, onder b.
 
 ### §  3  
 
@@ -93,7 +93,7 @@ Onderscheid is verboden bij:
 
 a. het verlenen van toegang tot en het geven van loopbaanoriëntatie en beroepskeuzevoorlichting;  
 
-b. het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs dat gericht is op toetreding tot en functioneren op de arbeidsmarkt.    
+b. het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs dat gericht is op toetreding tot en functioneren op de arbeidsmarkt.   
 
 ### §  3a  
 
@@ -103,13 +103,13 @@ b. het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijd
 
 In deze paragraaf wordt onder woonruimte verstaan: 
 
-a. een tot bewoning bestemde gebouwde onroerende zaak die een zelfstandige woning vormt, of een tot zelfstandige of onzelfstandige bewoning bestemd gedeelte van een gebouwde onroerende zaak, met inbegrip van de daarbij behorende gemeenschappelijke ruimte;  
+a. een tot bewoning bestemde gebouwde onroerende zaak die een zelfstandige woning vormt, of een tot zelfstandige of onzelfstandige bewoning bestemd gedeelte van een gebouwde onroerende zaak, met inbegrip van de daarbij behorende gemeenschappelijke ruimte;   
 
-b. een woonwagen, zijnde een voor bewoning bestemd gebouw dat is geplaatst op een standplaats en dat in zijn geheel of in delen kan worden verplaatst;  
+b. een woonwagen, zijnde een voor bewoning bestemd gebouw dat is geplaatst op een standplaats en dat in zijn geheel of in delen kan worden verplaatst;   
 
 c. een woonschip, zijnde een schip dat uitsluitend of in hoofdzaak gebezigd wordt of bestemd is voor bewoning;  
 
-d. een tot bewoning bestemd verblijf van een binnenschip.    
+d. een tot bewoning bestemd verblijf van een binnenschip.  
 
 ### Artikel  6b  
 
@@ -121,13 +121,13 @@ b. het sluiten, uitvoeren, wijzigen of beëindigen van een overeenkomst betreffe
 
 c. het bemiddelen bij een overeenkomst als bedoeld onder b;  
 
-d. het opmaken, uitvoeren of wijzigen van een reglement als bedoeld in artikel 111, onder d, van Boek 5 van het Burgerlijk Wetboek;  
+d. het opmaken, uitvoeren of wijzigen van een reglement als bedoeld in [artikel 111, onder d, van Boek 5 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md);  
 
-e. het inschrijven als woningzoekende.    
+e. het inschrijven als woningzoekende.  
 
 ### Artikel  6c  
 
-Artikel 2 is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.  
+Artikel 2 is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.
 
 ### §  4  
 
@@ -150,40 +150,40 @@ a. het verlenen van de voor het reizen vereiste toegang tot de bij het openbaar 
 b. het aanbieden van openbaar-vervoersdiensten en reisinformatie;  
 
 c. het sluiten, uitvoeren of beëindigen van overeenkomsten met betrekking tot openbaar vervoer.     
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ingevolge het eerste lid, in samenhang met artikel 2, te verrichten aanpassingen als bedoeld in dat artikel.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ingevolge het eerste lid, in samenhang met artikel 2, te verrichten aanpassingen als bedoeld in dat artikel.  
 
-### §  5  
+###§ 5 
 
 ####Rechtsbescherming
 
 ### Artikel  9  
 
 1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 4, wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 4 of terzake bijstand heeft verleend, is vernietigbaar.   
-2.  Onverminderd hoofdstuk 8 van de Algemene wet bestuursrecht, vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Artikel 55 van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.   
+2.  Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
 3.  Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.   
-4.  De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.   
+4.  De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.  
 
-### Artikel  9a  
+###Artikel 9a 
 
-Onverminderd artikel 9 is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.  
+Onverminderd artikel 9 is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
 
-### Artikel  10  
+###Artikel 10 
 
-1.  Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.   
-2.  Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met artikel 2 in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.   
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in artikel 305a van Boek 3 van het Burgerlijk Wetboek en op beroepen ingesteld door belanghebbenden in de zin van artikel 1:2, derde lid, van de Algemene wet bestuursrecht.   
+1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
+2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met artikel 2 in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
 
 ### Artikel  11  
 
-Bedingen in strijd met deze wet zijn nietig.  
+Bedingen in strijd met deze wet zijn nietig. 
 
 ### Artikel  12  
 
-Het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met artikel 2 van deze wet. De artikelen 10, 11, 12, 13, 22 en 23 van de Wet College voor de rechten van de mens zijn van overeenkomstige toepassing.  
+Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met artikel 2 van deze wet. De [artikelen 10](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  13  
 
-Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie, van Sociale Zaken en Werkgelegenheid, van Verkeer en Waterstaat, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Onderwijs, Cultuur en Wetenschappen binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie, van Sociale Zaken en Werkgelegenheid, van Verkeer en Waterstaat, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Onderwijs, Cultuur en Wetenschappen binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### §  6  
 
@@ -191,11 +191,11 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met
 
 ### Artikel  14  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  15  
 
-Deze wet wordt aangehaald als: Wet gelijke behandeling op grond van handicap of chronische ziekte.  
+Deze wet wordt aangehaald als: Wet gelijke behandeling op grond van handicap of chronische ziekte. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

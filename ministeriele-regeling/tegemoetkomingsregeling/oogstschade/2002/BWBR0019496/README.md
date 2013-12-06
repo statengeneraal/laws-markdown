@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 januari 2006, nr. TRCJZ/2006/323, Directie Juridische Zaken, houdende vaststelling van de tegemoetkoming voor de oogstschade 2002 (Tegemoetkomingsregeling oogstschade 2002)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op artikel 87, derde lid, onderdeel c, van het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 74 en 91);
+Gelet op artikel 87, derde lid, onderdeel c, van het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 74 en 91); 
 
 Gelet op de Communautaire richtsnoeren voor staatssteun in de landbouwsector (Pb EG 2000, C 28);
 
@@ -35,7 +35,7 @@ g. boekhouding gewassen: het Overzicht gewaspercelen 2002 bij het aanvragen van 
 
 h. schade-expert: een deskundige die de Gedragscode van expertiseorganisaties van het Verbond voor verzekeraars of een daarmee gelijk te stellen gedragscode in acht neemt;  
 
-i. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.    
+i. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.   
 
 ### Artikel  2  
 
@@ -43,11 +43,11 @@ Deze regeling is van toepassing op natuurlijke personen of rechtspersonen die:
 
 a. in het jaar 2002 in Nederland een landbouwbedrijf voor eigen rekening en risico exploiteerden, en  
 
-b. in de schadetermijn schade hebben geleden.    
+b. in de schadetermijn schade hebben geleden.   
 
 ### Artikel  3  
 
-Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroorzaakte schade aan gewassen verstrekken.  
+Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroorzaakte schade aan gewassen verstrekken. 
 
 ### §  2  
 
@@ -58,12 +58,12 @@ Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroo
 1.  De ingevolge artikel 2, onderdeel b, in aanmerking te nemen schade wordt vastgesteld volgens de formule: A × B – C = D waarbij: A = de totale oppervlakte die in het jaar 2002 op het bedrijf was beteeld met het betreffende gewas; B = het in bijlage 1 voor het betreffende gewas vastgestelde normbedrag voor de opbrengst. Indien daarbij een jaaraanwas is gegeven, wordt het normbedrag vermenigvuldigd met het aantal jaren dat de teelt van het betreffende gewas was gevorderd op het moment van de schade; C = de gerealiseerde opbrengst op basis van de marktwaarde; D = het voor het betreffende gewas berekende schadebedrag.   
 2.  Om voor tegemoetkoming van de schade in aanmerking te komen voldoet de schade aan de volgende voorwaarde: D / (A × B) ≥ 0,3.   
 3.  De tegemoetkoming bedraagt 75% van de in aanmerking te nemen schade per gewas.   
-4.  Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt het in aanmerking te nemen schadebedrag, berekend op grond van artikel 4, met 6/106e deel verminderd.   
+4.  Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt het in aanmerking te nemen schadebedrag, berekend op grond van artikel 4, met 6/106e deel verminderd.  
 
 ### Artikel  5  
 
 1.  Het subsidieplafond voor deze regeling bedraagt € 3.800.000,–.   
-2.  Indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per gewas, bedoeld in artikel 4, derde lid, het subsidieplafond, bedoeld in het eerste lid, overstijgt, wordt het totaal voor de tegemoetkomingen beschikbare bedrag evenredig over de voor tegemoetkoming in aanmerking te nemen schades verdeeld.   
+2.  Indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per gewas, bedoeld in artikel 4, derde lid, het subsidieplafond, bedoeld in het eerste lid, overstijgt, wordt het totaal voor de tegemoetkomingen beschikbare bedrag evenredig over de voor tegemoetkoming in aanmerking te nemen schades verdeeld.  
 
 ### §  3  
 
@@ -79,7 +79,7 @@ b. van de voor deze regeling vereiste gegevens wordt een juiste en volledige opg
 
 c. de gewassen op het landbouwbedrijf zijn ten minste gedurende vijf aaneengesloten jaren verzekerd tegen schade aan gewassen als gevolg van zware regenval, en  
 
-d. voor de schade aan gewassen als gevolg van de zware regenval in de schadeperiode wordt niet reeds uit andere hoofde dan deze regeling een tegemoetkoming ontvangen.    
+d. voor de schade aan gewassen als gevolg van de zware regenval in de schadeperiode wordt niet reeds uit andere hoofde dan deze regeling een tegemoetkoming ontvangen.   
 
 ### §  4  
 
@@ -89,7 +89,7 @@ d. voor de schade aan gewassen als gevolg van de zware regenval in de schadeperi
 
 1.  Een aanvraag voor een tegemoetkoming in de schade geschiedt door middel van het formulier dat daartoe op het internet [www.lnvloket.nl] wordt geplaatst. Een aanvraagformulier is tevens telefonisch opvraagbaar bij de Dienst Regelingen op telefoonnummer: 0800-2233322.   
 2.  Het aanvraagformulier wordt volledig en naar waarheid ingevuld, ondertekend, gedagtekend, en van alle bijlagen voorzien geretourneerd aan Dienst Regelingen, Unit west, Team Uitvoering, Postbus 21, 1110 AA Diemen.   
-3.  De aanvraagperiode loopt van 27 februari 2006 tot en met 20 april 2006. Indien het aanvraagformulier na deze datum wordt ontvangen, wordt de aanvraag niet in behandeling genomen.   
+3.  De aanvraagperiode loopt van 27 februari 2006 tot en met 20 april 2006. Indien het aanvraagformulier na deze datum wordt ontvangen, wordt de aanvraag niet in behandeling genomen.  
 
 ### Artikel  8  
 
@@ -139,32 +139,32 @@ viii) een handtekening van de aanvrager en de schade-expert, bedoeld in artikel 
 
 a. objectieve schriftelijke gegevens ter onderbouwing van de opbrengst, bedoeld in het eerste lid, onderdeel a, onder iv en v, en het tweede lid, onderdeel b, onder iv en v, en  
 
-b. objectieve schriftelijke gegevens ter onderbouwing van de schadebeschrijving, bedoeld in het eerste lid, onderdeel a, onder vi en vii, en het tweede lid, onderdeel b, onder vi en vii.     
+b. objectieve schriftelijke gegevens ter onderbouwing van de schadebeschrijving, bedoeld in het eerste lid, onderdeel a, onder vi en vii, en het tweede lid, onderdeel b, onder vi en vii.    
 
 ### Artikel  9  
 
 1.  De minister beslist binnen tweeëntwintig weken na sluiting van de aanvraagperiode, bedoeld in artikel 7, derde lid.   
-2.  Indien de minister niet binnen tweeëntwintig weken een besluit op de aanvraag kan nemen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een termijn waarbinnen het besluit op de aanvraag wordt genomen.   
+2.  Indien de minister niet binnen tweeëntwintig weken een besluit op de aanvraag kan nemen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een termijn waarbinnen het besluit op de aanvraag wordt genomen.  
 
 ### Artikel  10  
 
 1.  De [afdelingen 4.2.5 tot en met en 4.2.7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing op de verstrekking van een tegemoetkoming op basis van deze regeling.   
-2.  Bij de terugvordering worden onverschuldigd betaalde bedragen ter zake van tegemoetkoming vermeerderd met de wettelijke rente over de periode vanaf de eerste betaling tot aan het moment van algehele voldoening.   
+2.  Bij de terugvordering worden onverschuldigd betaalde bedragen ter zake van tegemoetkoming vermeerderd met de wettelijke rente over de periode vanaf de eerste betaling tot aan het moment van algehele voldoening.  
 
 ### Artikel  11  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002.  
+Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman  
+C.P. Veerman    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####Tabel van normbedragen
 
@@ -238,51 +238,51 @@ Overzicht normen Tegemoetkomingsregeling oogstschade 2002
 | Wittekool  | Industrie  | 6.100  |
 | Wittekool  | verse markt biologisch  | 12.700  |
 | Zetmeelaardappel  | --- | 2.600  |
-| Andijvie  | industrie  | 2.900  |
-| Bladselderij  | industrie  | 3.500  |
-| Boerenkool  | industrie biologisch  | 5.300  |
-| Koolrapen  | verse markt biologisch  | 12.000  |
-| Koolrapen  | industrie  | 3.100  |
-| Knolselderij  | verse markt biologisch  | 17.400  |
-| Kervel  | industrie nateelt  | 2.200  |
-| Koriander  | --- | 4.800  |
-| Thijm  | industrie  | 2.600  |
-| Tuinkers  | drogerij  | 1.700  |
-| Pastinaak  | --- | 7.500  |
-| Pastinaak  | biologisch  | 8.000  |
-| Prei  | verse markt  | 13.900  |
-| Prei  | industrie  | 7.100  |
-| Rode bieten  | --- | 7.400  |
-| Rode bieten  | verse markt biologisch  | 17.700  |
-| Rode bieten  | industrie biologisch  | 13.000  |
-| Savooiekool  | biologisch  | 14.400  |
-| Spinazie  | industrie biologisch  | 4.300  |
-| Stamslabonen  | industrie biologisch  | 3.600  |
-| Winterpeen  | industrie biologisch  | 11.500  |
-| Broccoli  | herfstteelt  | 7.100  |
-| Digitalis lanata  | kruiden  | 4.800  |
-| Erwten  | zaadteelt  | 1.100  |
-| Groene asperge  | eerste oogstjaar  | 2.400  |
-| Groene asperge  | derde t/m negende oogstjaar  | 15.100  |
-| Groene asperge  | vervangingswaarde  | 0,29/plant  |
-| Bloemkool  | zaadteelt  | 6.800  |
-| Kruiden  | potteelt potmaat < 13 cm  | 0,46/pot  |
-| Kruiden  | potteelt potmaat ≥ 13 cm  | 0,68/pot  |
-| Bieslook  | pollenteelt  | 29.700  |
-| Skimmia  | potteelt  | 1,90/pot  |
-| Potchrysanten  | --- | 1,68/pot  |
-| Hypericum  | snijheester derde – vierde oogstjaar  | 58.300  |
-| Hypericum  | snijheester zesde oogstjaar  | 15.500  |
-| Brassica olearacea  | snijteelt  | 0,32/stuk  |
-| Euphorbia Amyg. ‘Purpurea’  | potteelt  | 1,52/pot  |
-| Hebe  | potteelt potmaat < 15 cm  | 0,67/pot  |
-| Hebe  | potteelt potmaat ≥ 15 cm  | 1,10/pot  |
-| Pernethya  | potteelt potmaat < 15 cm  | 0,70/pot  |
-| Pernethya  | potteelt potmaat ≥ 15 cm  | 1,80/pot  |
-| Framboos  | voorjaar/verwarmd  | 153.000  |
-| Appelbomen  | vervangingswaarde driejarige bomen  | 36.000  |
+|Andijvie  |industrie  |2.900 |
+|Bladselderij |industrie  |3.500 |
+|Boerenkool |industrie biologisch |5.300 |
+|Koolrapen |verse markt biologisch |12.000 |
+|Koolrapen |industrie |3.100 |
+|Knolselderij |verse markt biologisch |17.400 |
+|Kervel |industrie nateelt |2.200 |
+|Koriander | --- |4.800 |
+|Thijm  |industrie |2.600 |
+|Tuinkers |drogerij |1.700 |
+|Pastinaak | --- |7.500 |
+|Pastinaak |biologisch |8.000 |
+|Prei  |verse markt |13.900 |
+|Prei  |industrie |7.100 |
+|Rode bieten  | --- |7.400 |
+|Rode bieten  |verse markt biologisch |17.700 |
+|Rode bieten  |industrie biologisch |13.000 |
+|Savooiekool |biologisch |14.400 |
+|Spinazie |industrie biologisch |4.300 |
+|Stamslabonen |industrie biologisch |3.600 |
+|Winterpeen  |industrie biologisch |11.500 |
+|Broccoli |herfstteelt |7.100 |
+|Digitalis lanata |kruiden |4.800 |
+|Erwten |zaadteelt |1.100 |
+|Groene asperge |eerste oogstjaar |2.400 |
+|Groene asperge |derde t/m negende oogstjaar |15.100 |
+|Groene asperge |vervangingswaarde |0,29/plant |
+|Bloemkool  |zaadteelt |6.800 |
+|Kruiden  |potteelt potmaat < 13 cm |0,46/pot |
+|Kruiden  |potteelt potmaat ≥ 13 cm  |0,68/pot |
+|Bieslook |pollenteelt |29.700 |
+|Skimmia |potteelt |1,90/pot |
+|Potchrysanten | --- |1,68/pot |
+|Hypericum |snijheester derde – vierde oogstjaar |58.300 |
+|Hypericum |snijheester zesde oogstjaar |15.500 |
+|Brassica olearacea |snijteelt |0,32/stuk |
+|Euphorbia Amyg. ‘Purpurea’ |potteelt |1,52/pot |
+|Hebe |potteelt potmaat < 15 cm |0,67/pot |
+|Hebe |potteelt potmaat ≥ 15 cm |1,10/pot |
+|Pernethya  |potteelt potmaat < 15 cm |0,70/pot |
+|Pernethya  |potteelt potmaat ≥ 15 cm |1,80/pot |
+|Framboos |voorjaar/verwarmd |153.000 |
+|Appelbomen |vervangingswaarde driejarige bomen |36.000 |
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####Protocol als bedoeld in artikel 8, eerste lid, onderdeel b 
 
