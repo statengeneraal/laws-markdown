@@ -5,7 +5,7 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Minister voor Jeugd en Gezin en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
 
-Gelet op de [artikelen 17c](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en [24b van de Algemene Kinderbijslagwet](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [41](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en [55 van de Algemene nabestaandenwet](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [17e](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en [24b van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [14c](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en [20b van de Toeslagenwet](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [27c](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [36b van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [42](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [57 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [50](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [29c](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [57b van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [79](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [93 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [33b](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [45c van de Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);
+Gelet op de artikelen 17c en 24b van de Algemene Kinderbijslagwet, 41 en 55 van de Algemene nabestaandenwet, 17e en 24b van de Algemene Ouderdomswet, 14c en 20b van de Toeslagenwet, 27c en 36b van de Werkloosheidswet, 42 en 57 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 50 en 65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 29c en 57b van de Wet op de arbeidsongeschiktheidsverzekering, 79 en 93 van de Wet werk en inkomen naar arbeidsvermogen en 33b en 45c van de Ziektewet;
 Besluit:    
 
 ### Artikel  1  
@@ -14,61 +14,61 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *AKW:*[Algemene Kinderbijslagwet](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
+a. *AKW:*Algemene Kinderbijslagwet;  
 
-b. *Anw:*[Algemene nabestaandenwet](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+b. *Anw:*Algemene nabestaandenwet;  
 
-c. *AOW:*[Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+c. *AOW:*Algemene Ouderdomswet;  
 
-d. IOW: [Wet inkomensvoorziening oudere werklozen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md);  
+d. IOW: Wet inkomensvoorziening oudere werklozen;  
 
-e. *TW:*[Toeslagenwet](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+e. *TW:*Toeslagenwet;  
 
-f. *WW:*[Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+f. *WW:*Werkloosheidswet;  
 
-g. *WAZO:*[Wet arbeid en zorg](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+g. *WAZO:*Wet arbeid en zorg;  
 
-h. *Wet Wajong:*[Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+h. *Wet Wajong:*Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-i. *WAZ:*[Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+i. *WAZ:*Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-j. *WAO:*[Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+j. *WAO:*Wet op de arbeidsongeschiktheidsverzekering;  
 
-k. *Wet WIA:*[Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+k. *Wet WIA:*Wet werk en inkomen naar arbeidsvermogen;  
 
-l. *ZW:*[Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+l. *ZW:*Ziektewet;  
 
 m. *schuldenaar:* degene aan wie een bestuurlijke boete is opgelegd of van wie een bedrag wordt teruggevorderd;  
 
 n. *werkgever:* de schuldenaar die tevens werkgever of eigenrisicodrager is;  
 
-o. *bestuurlijke boete:* een bestuurlijke boete als bedoeld in het eerste lid van de [artikelen 17a van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [39 van de Anw](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [17c van de AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [21 van de IOW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [14a van de TW](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [27a van de WW](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [3:16](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:27 van de WAZO](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [2:69](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:40 van de Wet Wajong](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [48 van de WAZ](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [29a van de WAO](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [91 van de Wet WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en in de [artikelen 38, vierde lid](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), [38a, zevende lid](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), [45a, eerste lid](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), en [63c van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+o. *bestuurlijke boete:* een bestuurlijke boete als bedoeld in het eerste lid van de artikelen 17a van de AKW, 39 van de Anw, 17c van de AOW, 21 van de IOW, 14a van de TW, 27a van de WW, 3:16 en 3:27 van de WAZO, 2:69 en 3:40 van de Wet Wajong, 48 van de WAZ, 29a van de WAO, 91 van de Wet WIA, en in de artikelen 38, vierde lid, 38a, zevende lid, 45a, eerste lid, en 63c van de ZW;  
 
 p.  *vordering:*  
 
-a. het bedrag dat wordt teruggevorderd op grond van de [artikelen 24 van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [53 van de Anw](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [24 van de AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [34 van de IOW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [20 van de TW](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [36 van de WW](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [3:16](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:27 van de WAZO](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [2:59](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:56 van de Wet Wajong](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [63 van de WAZ](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [57 van de WAO](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [77 van de Wet WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), of [33 van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md); ;  
+a. het bedrag dat wordt teruggevorderd op grond van de artikelen 24 van de AKW, 53 van de Anw, 24 van de AOW, 34 van de IOW, 20 van de TW, 36 van de WW, 3:16 en 3:27 van de WAZO, 2:59 of 3:56 van de Wet Wajong, 63 van de WAZ, 57 van de WAO, 77 van de Wet WIA, of 33 van de ZW; ;  
 
 b. het bedrag dat als bestuurlijke boete is opgelegd;  
 
-c. het bedrag dat het UWV op de werkgever verhaalt op grond van de [artikelen 71, tweede lid](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [75a, vierde lid](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [75b, zevende lid](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [75f, eerste lid, van de WAO](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [72, tweede lid](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [83, derde lid](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [84, tweede of vierde lid, van de Wet WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [39a, eerste lid](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), of [63a, derde, vierde of vijfde lid, van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) of  
+c. het bedrag dat het UWV op de werkgever verhaalt op grond van de artikelen 71, tweede lid, 75a, vierde lid, 75b, zevende lid, 75f, eerste lid, van de WAO, 72, tweede lid, 83, derde lid, 84, tweede of vierde lid, van de Wet WIA, 39a, eerste lid, of 63a, derde, vierde of vijfde lid, van de ZW of  
 
-d. het bedrag van een aan een werkgever verstrekt re-integratie-instrument dat wordt teruggevorderd op grond van [artikel 77 van de Wet WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);    
+d. het bedrag van een aan een werkgever verstrekt re-integratie-instrument dat wordt teruggevorderd op grond van artikel 77 van de Wet WIA;    
 
-q. *aflossingscapaciteit:* het deel van het inkomen van de schuldenaar dat met inachtneming van de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), kan worden aangewend voor betaling of verrekening van de vordering;  
+q. *aflossingscapaciteit:* het deel van het inkomen van de schuldenaar dat met inachtneming van de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering, kan worden aangewend voor betaling of verrekening van de vordering;  
 
 r. *vermogen:* vermogensrechten, onroerende en roerende zaken, niet zijnde gebruikelijke huisraad, waarvan de dagwaarde per zaak € 1 134 of meer bedraagt;  
 
-s. *inlichtingenverplichting:* de verplichting, bedoeld in de [artikelen 15 van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [35 van de Anw](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [49 van de AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [12, eerste lid, van de IOW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [12 van de TW](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [25 van de WW](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [3:16](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:27 van de WAZO](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [2:7](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:74 van de Wet Wajong](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [70 van de WAZ](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [80 van de WAO](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [27, eerste lid, van de Wet WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [31, eerste lid](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), en [49 van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+s. *inlichtingenverplichting:* de verplichting, bedoeld in de artikelen 15 van de AKW, 35 van de Anw, 49 van de AOW, 12, eerste lid, van de IOW, 12 van de TW, 25 van de WW, 3:16 en 3:27 van de WAZO, 2:7 en 3:74 van de Wet Wajong, 70 van de WAZ, 80 van de WAO, 27, eerste lid, van de Wet WIA en 31, eerste lid, en 49 van de ZW;  
 
-t. *bijstandsnorm:* de voor de schuldenaar op grond van [hoofdstuk 3, paragraaf 3.2](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [paragraaf 3.3, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) geldende bijstandsnorm;  
+t. *bijstandsnorm:* de voor de schuldenaar op grond van hoofdstuk 3, paragraaf 3.2 en paragraaf 3.3, van de Wet werk en bijstand geldende bijstandsnorm;  
 
-u. *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+u. *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-v. *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).    
+v. *SVB:* de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen.    
 
 ### Artikel  1a  
 
-Deze regeling berust mede op de [artikelen 22](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [24, vijfde lid](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [35, vierde lid](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), en [37 van de IOW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).  
+Deze regeling berust mede op de artikelen 22, 24, vijfde lid, 35, vierde lid, en 37 van de IOW.  
 
 ### Artikel  2  
 
@@ -90,7 +90,7 @@ c. de onverschuldigde betaling het gevolg is van een gedraging waarvan het UWV o
 
 d. de vordering het gevolg is van het niet nakomen van de inlichtingenverplichting.     
 2.  Het UWV en de SVB verlenen uitstel van betaling voor ten hoogste 36 maanden. De geldschuld wordt gedurende die periode in termijnen ter hoogte van de volledige aflossingscapaciteit betaald of verrekend.   
-3.  In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de [artikelen 24, derde lid, van de AKW](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [53, derde lid, van de Anw](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [24, derde lid, van de AOW](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [35, tweede lid, van de IOW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [20, derde lid, van de TW](../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [36, derde lid, van de WW](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [3:16](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:27 van de WAZO](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [2:59, derde lid](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), of [3:56, derde lid, van de Wet Wajong](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [63, derde lid, van de WAZ](../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [57, derde lid, van de WAO](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [77, derde lid, van de Wet WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [33, derde lid, van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) niet mogelijk is.   
+3.  In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de artikelen 24, vijfde lid, van de AKW, 53, vijfde lid, van de Anw, 24, vijfde lid, van de AOW, 35, vierde lid, van de IOW, 20, vijfde lid, van de TW, 36, vijfde lid, van de WW, 3:16 en 3:27 van de WAZO, 2:59, vijfde lid, of 3:56, vijfde lid, van de Wet Wajong, 63, vijfde lid, van de WAZ, 57, vijfde lid, van de WAO, 77, vijfde lid, van de Wet WIA of 33, vijfde lid, van de ZW niet mogelijk is.   
 4.  Indien de schuldenaar hogere periodieke betalingen of verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, stelt het UWV of de SVB de termijnen conform dit voorstel vast.   
 5.  De periodieke betaling of verrekening wordt gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm indien: 
 
@@ -136,13 +136,13 @@ b. het voorstel inhoudt dat de gehele vordering binnen 12 maanden, eventueel doo
 a. de vordering gedurende de periode waarover uitstel van betaling is verleend door middel van betalingen of verrekeningen, in periodieken of ineens, wordt voldaan; en  
 
 b. de beschikking tot uitstel van betaling kan worden ingetrokken of gewijzigd indien wijziging plaatsvindt in de hoogte van de inkomsten van de schuldenaar.     
-2.  Het UWV en de SVB bepalen in de beschikking tot uitstel van betaling dat slechts wettelijke rente als bedoeld in artikel 4:98 van de Algemene wet bestuursrecht is verschuldigd vanaf het tijdstip dat de termijn is verstreken waarbinnen volgens die beschikking de betaling had moeten plaatsvinden of had moeten worden verrekend en dat deze rente slechts verschuldigd is over de resterende vordering.   
+2.  Het UWV en de SVB bepalen in de beschikking tot uitstel van betaling dat wettelijke rente als bedoeld in artikel 4:98 van de Algemene wet bestuursrecht is verschuldigd vanaf het tijdstip dat de termijn is verstreken waarbinnen volgens die beschikking de betaling had moeten plaatsvinden of had moeten worden verrekend en dat deze rente verschuldigd is over de resterende vordering.   
 
 ### Artikel  8  
 
-####Versoepeling betalingsregeling na vijf jaar
+####Versoepeling betalingsregeling na tien jaar
 
-Indien de schuldenaar de vordering na vijf jaren, waarin hij zich heeft gehouden aan de vastgestelde periodieke betalingen of verrekeningen, nog niet volledig heeft voldaan wordt de periodieke betaling of verrekening gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm.  
+Indien de schuldenaar de vordering na tien jaren, waarin hij zich heeft gehouden aan de vastgestelde periodieke betalingen of verrekeningen, nog niet volledig heeft voldaan wordt de periodieke betaling of verrekening gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm.  
 
 ### Artikel  9  
 
@@ -156,12 +156,37 @@ Tenzij de schuldenaar een andere vordering aanwijst wordt een betaling, die zou 
 
 De artikelen 3, 4 en 8 zijn niet van toepassing op de werkgever.  
 
+### Artikel  10a  
+
+####Regeling verrekening bestuurlijke boete bij recidive
+
+1.  Indien artikel 14h, vijfde lid, van de TW, 27h, vijfde lid, van de WW, 54a, vijfde lid, van de WAZ, 24a, vijfde lid, van de IOW, 29h, vijfde lid, van de WAO, 3:44, vijfde lid, van de Wet Wajong, 97, vijfde lid, van de Wet WIA, 45h, vijfde lid, van de ZW, 17h, vijfde lid, van de AKW, 45a, vijfde lid, van de Anw of 17j, vijfde lid, van de AOW van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.   
+2.  Voor zover de hoogte van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor: 
+
+a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en  
+
+b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in artikel 2, tweede lid, van de Wet op het kindgebonden budget, dat gelet op het aantal kinderen van toepassing is.     
+3.  Voor zover dit artikel berust op artikel 27h, vijfde lid, van de Werkloosheidswet of artikel 17h, vijfde lid, van de Algemene Kinderbijslagwet wordt als echtgenoot of geregistreerd partner als bedoeld in het tweede lid, onderdeel a, mede aangemerkt de ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste graad. Voor de toepassing van de eerste zin wordt mede als ongehuwd aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.   
+4.  Voor zover dit artikel berust op artikel 27h, vijfde lid, van de Werkloosheidswet of artikel 17h, vijfde lid, van de Algemene Kinderbijslagwet is sprake van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.   
+5.  Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.   
+6.  De vermeerdering, bedoeld in het vijfde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.   
+7.  Onder kale huur als bedoel in het vijfde en zesde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.   
+8.  De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het UWV indien de verrekening plaatsvindt op grond van de TW, WW, WAZ, IOW, WAO, Wet Wajong, Wet WIA of de ZW en bij de SVB indien de verrekening plaatsvindt op grond van de AKW, Anw of de AOW.   
+9.  Door het UWV en de SVB kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.   
+10.  Het op grond van het tweede, vijfde en zesde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vijfde lid.   
+
 ### Artikel  11  
 
 ####Intrekken andere regelingen en overgangsrecht
 
 1.  De Regeling betaling, terugvordering en tenuitvoerlegging van boeten en onverschuldigde betalingen, het Besluit incasso boeten en onverschuldigde betalingen werkgevers en het Besluit invordering boeten en onverschuldigd betaalde bedragen AOW, Anw en AKW worden ingetrokken.   
 2.  Een regeling als bedoeld in het eerste lid blijft van toepassing ten aanzien van een verplichting tot betaling van een geldsom die is vastgesteld voor het tijdstip waarop deze regeling in werking treedt.   
+
+### Artikel  11a  
+
+####Overgangsrecht versoepeling betalingsregeling
+
+Voor de toepassing van artikel 8 geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.  
 
 ### Artikel  12  
 

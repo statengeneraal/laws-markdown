@@ -14,7 +14,7 @@ Het Nationaal Comité heeft tot taak festiviteiten en uitingen van dank of hulde
 
 ### Artikel  3  
 
-De leden van het Nationaal Comité worden benoemd voor een periode tot en met 31 december 2013. Als voorzitter van het Nationaal Comité wordt benoemd dr. G.J. Wijers. De voorzitter van het Nationaal Comité wordt ontslagen op voordracht van Onze Minister-President, Minister van Algemene Zaken. De overige leden alsmede de secretaris van het Nationaal Comité worden benoemd en ontslagen door Onze Minister-President, Minister van Algemene Zaken. Onze Minister-President, Minister van Algemene Zaken, benoemt maximaal vijf adviserende leden.  
+De leden van het Nationaal Comité worden benoemd voor een periode tot 1 maart 2014. Als voorzitter van het Nationaal Comité wordt benoemd dr. G.J. Wijers. De voorzitter van het Nationaal Comité wordt ontslagen op voordracht van Onze Minister-President, Minister van Algemene Zaken. De overige leden alsmede de secretaris van het Nationaal Comité worden benoemd en ontslagen door Onze Minister-President, Minister van Algemene Zaken. Onze Minister-President, Minister van Algemene Zaken, benoemt maximaal vijf adviserende leden.  
 
 ### Artikel  4  
 
@@ -30,7 +30,7 @@ De bescheiden van het Nationaal Comité worden na beëindiging van de werkzaamhe
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2013. Dit besluit vervalt op 1 januari 2014.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2013. Dit besluit vervalt op 1 maart 2014.  
 Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering van dit besluit, dat met nota van toelichting in de Staatscourant zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de in dit besluit genoemde, de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van Aruba, Curaçao en Sint Maarten en de ministeries.   
 
 ’s-Gravenhage 
