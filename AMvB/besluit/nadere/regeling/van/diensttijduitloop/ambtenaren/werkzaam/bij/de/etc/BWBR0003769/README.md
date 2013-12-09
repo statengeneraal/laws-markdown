@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de ambtenaar bedoeld in artikel 4 respectievelijk [artikel 5 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md), die voor 1 januari 1984 in dienst is getreden van de Binnenlandse Veiligheidsdienst en voor wie een der schalen 4, 5 en 6 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) respectievelijk schaal 39 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) 1948 geldt, wordt deze schaal tot en met 30 juni 1984 verlengd op de wijze als bepaald in artikel 2 en nadien op de wijze als bedoeld in artikel 3.  
+Voor de ambtenaar bedoeld in artikel 4 respectievelijk [artikel 5 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md), die voor 1 januari 1984 in dienst is getreden van de Binnenlandse Veiligheidsdienst en voor wie een der schalen 4, 5 en 6 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) respectievelijk schaal 39 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) 1948 geldt, wordt deze schaal tot en met 30 juni 1984 verlengd op de wijze als bepaald in artikel 2 en nadien op de wijze als bedoeld in artikel 3. 
 
 ### Artikel  2  
 
@@ -25,7 +25,7 @@ b. schaal 5 wordt verlengd met het salarisnummer U 18 en het salaris vermeld ach
 
 c. schaal 39 wordt verlengd met het salarisnummer U 16 en het salaris vermeld achter salarisnummer U 14 van schaal 5;  
 
-d. schaal 4 wordt verlengd met het salarisnummer U 18 en het salaris vermeld achter salarisnummer U 14 van schaal 5.    
+d. schaal 4 wordt verlengd met het salarisnummer U 18 en het salaris vermeld achter salarisnummer U 14 van schaal 5.   
 
 ### Artikel  3  
 
@@ -35,15 +35,15 @@ b. schaal 5 wordt verlengd met salarisnummer U17 en het salaris vermeld achter s
 
 c. schaal 39 wordt verlengd met salarisnummer U16 en het salaris vermeld achter salarisnummer U13 van schaal 5;  
 
-d. schaal 4 wordt verlengd met salarisnummer U18 en het salaris vermeld achter salarisnummer U13 van schaal 5.    
+d. schaal 4 wordt verlengd met salarisnummer U18 en het salaris vermeld achter salarisnummer U13 van schaal 5.   
 
 ### Artikel  4  
 
-De in de artikelen 2 en 3 opgenomen schalen worden voor wat betreft de toepassing van het bepaalde in de [artikelen 4 en 5 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) opgenomen bij de daarin genoemde schalen.  
+De in de artikelen 2 en 3 opgenomen schalen worden voor wat betreft de toepassing van het bepaalde in de [artikelen 4 en 5 van de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) opgenomen bij de daarin genoemde schalen. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot 1 januari 1984.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot 1 januari 1984. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.   
 

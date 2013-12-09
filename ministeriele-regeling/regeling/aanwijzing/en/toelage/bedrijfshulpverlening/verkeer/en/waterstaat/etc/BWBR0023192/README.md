@@ -24,7 +24,7 @@ e. basis: bedrijfshulpverlener die alleen basistaken zoals ontruimen verricht.
 
 f. EHBO’er: bedrijfshulpverlener die zich bij een erkende opleidingsinstelling heeft bekwaamd in het verlenen van eerste hulp.  
 
-g. brandwacht: bedrijfshulpverlener die zich bij een erkende opleidingsinstelling heeft bekwaamd in het dragen van adembeschermingsapparatuur.    
+g. brandwacht: bedrijfshulpverlener die zich bij een erkende opleidingsinstelling heeft bekwaamd in het dragen van adembeschermingsapparatuur.   
 
 ### Artikel  2  
 
@@ -54,7 +54,7 @@ d. bij overplaatsing naar een andere bedrijfshulpverleningslocatie;
 
 e. indien de brandwacht de 55 jarige leeftijd bereikt, tenzij deze daarna een andere bedrijfshulpverleningfunctie blijft vervullen;  
 
-f. indien een aanpassing van de bedrijfshulpverleningslocatie daartoe aanleiding geeft.     
+f. indien een aanpassing van de bedrijfshulpverleningslocatie daartoe aanleiding geeft.    
 
 ### Artikel  3  
 
@@ -72,28 +72,28 @@ c. voor de bedrijfshulpverlener met EHBO en brandwacht de toelage vermeldt onder
 4.  De bedrijfshulpverlener die door bevoegd gezag is aangewezen om leidinggevende taken met betrekking tot de bedrijfshulpverlening uit te oefenen ontvangt een toelage van € 120,–, onverminderd derde lid.   
 5.  De aangewezen ambtenaren, bedoeld in het eerste lid, ontvangen vijf jaar na aanwijzing een jubileumtoelage en vervolgend elke vijf jaar daarna zolang de aanwijzing duurt. Na 5 jaar en na 10 jaar bedraagt de jubileumtoelage € 263,–. Na 15 jaar en iedere 5 jaren daarna bedraagt de jubileumtoelage € 382,–.   
 6.  Taken in het kader van de bedrijfshulpverlening die in opdracht van het bevoegd gezag als meerwerk worden verricht, dus buiten de voor de betreffende bedrijfshulpverlener vastgestelde werktijd, worden vergoed conform de bhv-uurvergoeding van € 12,47 per uur.   
-7.  Alle bedragen zijn bruto bedragen.   
+7.  Alle bedragen zijn bruto bedragen.  
 
 ### Artikel  4  
 
 ####Intrekking
 
-De Regeling bedrijfshulpverlening Verkeer en Waterstaat, 1998/3438, vervalt.  
+De Regeling bedrijfshulpverlening Verkeer en Waterstaat, 1998/3438, vervalt. 
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van deze regeling en werkt terug tot en met 1 januari 2007.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van deze regeling en werkt terug tot en met 1 januari 2007. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing en toelage bedrijfshulpverlening Verkeer en Waterstaat 2007.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing en toelage bedrijfshulpverlening Verkeer en Waterstaat 2007. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, namens deze: de 
+Minister van Verkeer en Waterstaat, namens deze:de 
 Secretaris-Generaal, 
-W.J.Kuijken   
+W.J. Kuijken     

@@ -11,7 +11,7 @@ De volgende functionarissen en de door hen aangewezen medewerkers van de Belasti
 
 A.  *Besluiten inzake inlichtingenverstrekking met betrekking tot belastingen en heffingen (andere dan de in* [artikel 3, derde lid, Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) *vermelde heffingen) waarop de* [WIB](../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) *van toepassing is*  De landelijk directeuren Particulieren, dienstverlening en bezwaar, Midden- en kleinbedrijf, Grote ondernemingen en Semi massale processen, met uitzondering van de directeur Belastingdienst/Caribisch Nederland.  
 
-B.  *Besluiten inzake inlichtingenverstrekking met betrekking tot de in* [artikel 3, derde lid, Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) *vermelde heffingen waarop de* [WIB](../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) *van toepassing is*  De algemeen directeur Douane.      
+B.  *Besluiten inzake inlichtingenverstrekking met betrekking tot de in* [artikel 3, derde lid, Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) *vermelde heffingen waarop de* [WIB](../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) *van toepassing is * De algemeen directeur Douane.      
 ### 2  
 
 ####Toelichting
@@ -44,5 +44,5 @@ Den Haag
 28 november 2013   
 
 De 
-Directeur-generaal Belastingdienst, 
-P.W.A.Veld   
+Directeur-generaal Belastingdienst,
+P.W.A. Veld     

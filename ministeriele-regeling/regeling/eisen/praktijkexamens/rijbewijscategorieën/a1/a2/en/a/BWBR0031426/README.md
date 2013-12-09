@@ -35,7 +35,7 @@ j. het op juiste wijze uitvoeren van een maximale remming (noodstop);
 
 k. het op juiste wijze uitvoeren van een remming met vooraf bepaalde lengte (precisiestop);  
 
-l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).    
+l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).   
 
 ### Artikel  2  
 
@@ -59,7 +59,7 @@ h. controle van het oliepeil;
 
 i. controle van de claxon;  
 
-j. controle van de wielophanging en aandrijving.    
+j. controle van de wielophanging en aandrijving.   
 
 ### Artikel  3  
 
@@ -93,7 +93,7 @@ m. via de invoegstrook de doorgaande rijbaan op te rijden (invoegen) en via de u
 
 n. een rotonde te berijden;  
 
-o. te rijden in tunnels.    
+o. te rijden in tunnels.   
 
 ### Artikel  4  
 
@@ -117,7 +117,7 @@ h. het innemen van de juiste plaats op de weg voor het uitvoeren van voorgenomen
 
 i. het houden van voldoende volgafstand ten opzichte van de overige weggebruikers;  
 
-j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.    
+j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.   
 
 ### Artikel  5  
 
@@ -139,15 +139,19 @@ g. onder alle omstandigheden rekening houden met de aard en omvang van het voert
 
 h. tijdig en op doelmatige wijze de snelheid van het voertuig te vertragen, te remmen en te stoppen;  
 
-i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.    
+i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.   
 
 ### §  2  
 
 ####Eisen praktijkexamen rijbewijscategorie A2
 
+### Artikel  5a  
+
+1.  De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).  
+
 ### Artikel  6  
 
-De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A2 is in staat een selectie van de hierna genoemde handelingen uit te voeren bij aanvang van dat examen: 
+De aanvrager van het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voor de rijbewijscategorie A2 is in staat een selectie van de hierna genoemde handelingen uit te voeren bij aanvang van dat examen: 
 
 a. controle op juiste bevestiging van de helm;  
 
@@ -167,11 +171,11 @@ h. controle van het oliepeil;
 
 i. controle van de claxon;  
 
-j. controle van de wielophanging en aandrijving.    
+j. controle van de wielophanging en aandrijving.   
 
 ### Artikel  7  
 
-Tijdens het praktijkexamen wordt getoetst of de aanvrager van het praktijkexamen voor de rijbewijscategorie A2 een selectie van de hierna genoemde vaardigheden beheerst: 
+Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt getoetst of de aanvrager van het praktijkexamen voor de rijbewijscategorie A2 een selectie van de hierna genoemde vaardigheden beheerst: 
 
 a. het voertuig zonder hulp van de motor aan de hand voorwaarts voeren, dit vervolgens achteruit in een (denkbeeldig) parkeervak manoeuvreren en op de juiste wijze op de standaard plaatsen. De motor vervolgens van de standaard halen en verder lopen;  
 
@@ -195,11 +199,11 @@ j. het op juiste wijze uitvoeren van een maximale remming (noodstop);
 
 k. het op juiste wijze uitvoeren van een remming met vooraf bepaalde lengte (precisiestop);  
 
-l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).    
+l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).   
 
 ### Artikel  8  
 
-Tijdens het praktijkexamen voor de rijbewijscategorie A2 dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze: 
+Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voor de rijbewijscategorie A2 dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze: 
 
 a. de kant van de weg of de parkeerruimte te verlaten;  
 
@@ -229,11 +233,11 @@ m. via de invoegstrook de doorgaande rijbaan op te rijden (invoegen) en via de u
 
 n. een rotonde te berijden;  
 
-o. te rijden in tunnels.    
+o. te rijden in tunnels.   
 
 ### Artikel  9  
 
-De aanvrager dient tijdens het praktijkexamen voor de rijbewijscategorie A2 blijk te geven inzicht te hebben ten aanzien van de in artikel 8 genoemde handelingen en manoeuvres door middel van: 
+De aanvrager dient tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voor de rijbewijscategorie A2 blijk te geven inzicht te hebben ten aanzien van de in artikel 8 genoemde handelingen en manoeuvres door middel van: 
 
 a. het letten op tekens en overige aanduidingen op de weg;  
 
@@ -253,11 +257,11 @@ h. het innemen van de juiste plaats op de weg voor het uitvoeren van voorgenomen
 
 i. het houden van voldoende volgafstand ten opzichte van de overige weggebruikers;  
 
-j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.    
+j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.   
 
 ### Artikel  10  
 
-De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A1 dient bij het uitvoeren van de in de artikelen 8 en 9 genoemde examenonderdelen blijk te geven: 
+De aanvrager van het het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) dient bij het uitvoeren van de in de artikelen 8 en 9 genoemde examenonderdelen blijk te geven: 
 
 a. het ontkoppelings- en schakelmechanisme van het voertuig op juiste wijze te bedienen;  
 
@@ -275,7 +279,7 @@ g. onder alle omstandigheden rekening houden met de aard en omvang van het voert
 
 h. tijdig en op doelmatige wijze de snelheid van het voertuig te vertragen, te remmen en te stoppen;  
 
-i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.    
+i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.   
 
 ### §  3  
 
@@ -283,11 +287,11 @@ i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zic
 
 ### Artikel  11  
 
-De artikelen 6 tot en met 10 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).  
+De artikelen 6 tot en met 10 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md). 
 
 ### Artikel  12  
 
-De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel b, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).  
+De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel b, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md). 
 
 ### §  4  
 
@@ -295,21 +299,21 @@ De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers
 
 ### Artikel  13  
 
-Na afloop van het praktijkexamen Voertuigbeheersing en van het praktijkexamen Verkeersdeelneming respectievelijk van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangegeven aan welke exameneisen de aanvrager niet heeft voldaan.  
+Na afloop van het praktijkexamen Voertuigbeheersing en van het praktijkexamen Verkeersdeelneming respectievelijk van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangegeven aan welke exameneisen de aanvrager niet heeft voldaan. 
 
 ### Artikel  14  
 
-De [Regeling eisen praktijkexamens rijbewijscategorie A](../../../../../../../../../../ministeriele-regeling/regeling/eisen/praktijkexamens/rijbewijscategorie/a/BWBR0015603/README.md) wordt ingetrokken.  
+De [Regeling eisen praktijkexamens rijbewijscategorie A](../../../../../../../../../../ministeriele-regeling/regeling/eisen/praktijkexamens/rijbewijscategorie/a/BWBR0015603/README.md) wordt ingetrokken. 
 
 ### Artikel  15  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(implementatie/derde/etc/BWBR0031264/README.md) (Stb. 2012, 39) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(implementatie/derde/etc/BWBR0031264/README.md) (Stb. 2012, 39) in werking treedt. 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A.  
+Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

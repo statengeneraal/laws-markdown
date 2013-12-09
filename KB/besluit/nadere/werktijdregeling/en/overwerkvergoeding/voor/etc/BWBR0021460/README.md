@@ -12,29 +12,35 @@ Gelet op [artikel 21, zevende lid, Algemeen Rijksambtenarenreglement](../../../.
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 04-12-1998 
 
-In afwijking van het bepaalde in [artikel 21, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) wordt de maximale arbeidsduur van door de Minister van Justitie aangewezen ambtenaren die de functie van personenchauffeur uitoefenen, met 30 uur per maand verlengd.  
+In afwijking van het bepaalde in [artikel 21, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) wordt de maximale arbeidsduur van door de Minister van Justitie aangewezen ambtenaren die de functie van personenchauffeur uitoefenen, met 30 uur per maand verlengd. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 04-12-1998 
 
-De krachtens artikel 1 aangewezen ambtenaar ontvangt een maandelijkse toelage die 30 maal het voor hem geldende salaris per uur bedraagt.  
+De krachtens artikel 1 aangewezen ambtenaar ontvangt een maandelijkse toelage die 30 maal het voor hem geldende salaris per uur bedraagt. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  Buiten de voor hem geldende werktijden kan aan de krachtens artikel 1 aangewezen ambtenaar overwerk worden opgedragen tot een maximum van 45 uur per maand tegen een vergoeding van 150% van het voor de aangewezen ambtenaar geldende salaris per uur.   
-2.  Overwerk dat aan de krachtens artikel 1 aangewezen ambtenaar wordt opgedragen dat uitstijgt boven het in het eerste lid van dit artikel genoemde aantal uren per maand, wordt vergoed op basis van verlof, gelijk aan de extra gewerkte tijd en in geld per extra gewerkt uur van 50% van het salaris per uur van de aangewezen ambtenaar.   
+2.   Overwerk dat aan de krachtens artikel 1 aangewezen ambtenaar wordt opgedragen dat uitstijgt boven het in het eerste lid van dit artikel genoemde aantal uren per maand, wordt vergoed op basis van verlof, gelijk aan de extra gewerkte tijd en in geld per extra gewerkt uur van 50% van het salaris per uur van de aangewezen ambtenaar.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 04-12-1998 
 
-De geldelijke vergoeding voor overwerk als bedoeld in het eerste lid van artikel 3, wordt berekend op basis van het in de voorafgaande vier volle kalenderkwartalen gemiddeld verrichte aantal uren overwerk. Het overwerk als bedoeld in het tweede lid van artikel 3 wordt vergoed op basis van een maandelijks door de aangewezen ambtenaar in te dienen declaratie.  
+De geldelijke vergoeding voor overwerk als bedoeld in het eerste lid van artikel 3, wordt berekend op basis van het in de voorafgaande vier volle kalenderkwartalen gemiddeld verrichte aantal uren overwerk. Het overwerk als bedoeld in het tweede lid van artikel 3 wordt vergoed op basis van een maandelijks door de aangewezen ambtenaar in te dienen declaratie. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 04-12-1998 
 
-Voor zover de diensttijd aanvangt en eindigt op het moment dat de aangewezen ambtenaar zijn woning verlaat, respectievelijk daar terugkeert, wordt op de dagelijkse werktijd de normale reistijd voor woon-werkverkeer, die minimaal op één uur wordt gesteld, in mindering gebracht.  
+Voor zover de diensttijd aanvangt en eindigt op het moment dat de aangewezen ambtenaar zijn woning verlaat, respectievelijk daar terugkeert, wordt op de dagelijkse werktijd de normale reistijd voor woon-werkverkeer, die minimaal op één uur wordt gesteld, in mindering gebracht. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 04-12-1998 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1990.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1990. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 

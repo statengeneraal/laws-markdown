@@ -12,38 +12,44 @@ Gelet op [artikel 21, zevende lid, Algemeen Rijksambtenarenreglement](../../../.
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  De maandelijkse werktijd wordt met 30 uren verlengd tot 195 uren. Daarvoor wordt een vaste maandelijkse toelage toegekend van 30/165 van het salaris.   
-2.  Deze toelage behoort tot het ambtelijk inkomen, telt derhalve mee voor het pensioen en wordt doorbetaald bij vakantie en ziekte.   
-3.  Individuele werktijd wordt vastgesteld aan de hand van het geldende dienstrooster.   
+2.   Deze toelage behoort tot het ambtelijk inkomen, telt derhalve mee voor het pensioen en wordt doorbetaald bij vakantie en ziekte.   
+3.   Individuele werktijd wordt vastgesteld aan de hand van het geldende dienstrooster.  
 
 ### Artikel  2  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  Overwerk wordt beperkt tot 45 uren per maand (boven de tot 195 uren verlengde werktijd).   
-2.  Zonodig wordt het aantal extra uren van 75 (30 + 45) bezien op jaarbasis. Boven de normale werktijd van 165 uren per maand komen per jaar dus maximaal 12 * 75 uren voor vergoeding in aanmerking.   
-3.  De overuren worden tot een maximum van gemiddeld 45 uren per maand, ter beoordeling van het bevoegd gezag, 
+2.   Zonodig wordt het aantal extra uren van 75 (30 + 45) bezien op jaarbasis. Boven de normale werktijd van 165 uren per maand komen per jaar dus maximaal 12 * 75 uren voor vergoeding in aanmerking.   
+3.   De overuren worden tot een maximum van gemiddeld 45 uren per maand, ter beoordeling van het bevoegd gezag,  
 
 a. òf vergoed tegen 150% van het uursalaris,  
 
 b. òf gecompenseerd in tijd met een vergoeding van 50% van het uursalaris.     
-4.  In de situatie als bedoeld onder 2.3.b. tellen de in tijd gecompenseerde uren niet mee voor het maximum-aantal te vergoeden overuren.   
-5.  De onder 2.3. genoemde vergoeding is geen ambtelijk inkomen, telt niet mee voor het pensioen en wordt niet doorbetaald bij vakantie en ziekte.   
+4.   In de situatie als bedoeld onder 2.3.b. tellen de in tijd gecompenseerde uren niet mee voor het maximum-aantal te vergoeden overuren.   
+5.   De onder 2.3. genoemde vergoeding is geen ambtelijk inkomen, telt niet mee voor het pensioen en wordt niet doorbetaald bij vakantie en ziekte.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 04-12-1998 
 
-Er bestaat geen aanspraak op de toelage voor onregelmatige dienst.  
+Er bestaat geen aanspraak op de toelage voor onregelmatige dienst. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 04-12-1998 
 
-Voor de lunch wordt een half uur per dag in mindering gebracht, voor de avondmaaltijd geldt dit eveneens indien een maaltijd wordt gedeclareerd.  
+Voor de lunch wordt een half uur per dag in mindering gebracht, voor de avondmaaltijd geldt dit eveneens indien een maaltijd wordt gedeclareerd. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 04-12-1998 
 
-De vergoeding voor het overwerk wordt maandelijks uitbetaald op basis van het in de voorafgaande maand verrichte aantal uren overwerk.  
+De vergoeding voor het overwerk wordt maandelijks uitbetaald op basis van het in de voorafgaande maand verrichte aantal uren overwerk. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 04-12-1998 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 februari 1990.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 februari 1990. 
 
 Onze Minister van Landbouw, Natuurbeheer en Visserij is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 

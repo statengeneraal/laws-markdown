@@ -14,7 +14,7 @@ a. het verstellen van de zitplaats van de bestuurder voor een juiste zithouding;
 
 b. het afstellen van de spiegels, de hoofdsteun en de veiligheidsgordel;  
 
-c. nagaan of de portieren gesloten zijn.    
+c. nagaan of de portieren gesloten zijn.   
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ f. controle van het oliepeil;
 
 g. controle van de claxon;  
 
-h. controle van de koelvloeistof, remvloeistof, ruitensproeiervloeistof en accu.    
+h. controle van de koelvloeistof, remvloeistof, ruitensproeiervloeistof en accu.   
 
 ### Artikel  3  
 
@@ -72,7 +72,7 @@ o. een rotonde te berijden;
 
 p. een aantal bijzondere verrichtingen (vaardigheden) uit te voeren met het voertuig;  
 
-q. te rijden in tunnels.    
+q.te rijden in tunnels. 
 
 ### Artikel  4  
 
@@ -96,7 +96,7 @@ h. het innemen van de juiste plaats op de weg voor het uitvoeren van voorgenomen
 
 i. het houden van voldoende volgafstand ten opzichte van de overige bestuurders en weggebruikers;  
 
-j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.    
+j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.   
 
 ### Artikel  5  
 
@@ -104,7 +104,7 @@ De aanvrager dient bij het uitvoeren van de in de artikelen 3 en 4 genoemde exam
 
 a. het ontkoppelings- en schakelmechanisme van het voertuig op juiste wijze te bedienen;  
 
-b. op juiste en economische wijze zowel versnellend als vertragend over te schakelen;  
+b. zuinig en energie-efficiënt te rijden, waarbij wordt gelet op het aantal omwentelingen per minuut en het schakelen, remmen en versnellen;  
 
 c. zowel de gastoevoer als de remmen van het voertuig op juiste en economische wijze te bedienen;  
 
@@ -114,7 +114,7 @@ e. het voertuig behoorlijk te beheersen;
 
 f. onder alle omstandigheden rekening houden met de aard en omvang van het voertuig en de beperkingen van het gezichtsveld;  
 
-g. tijdig en op doelmatige wijze de snelheid van het voertuig te vertragen, te remmen en te stoppen.    
+g. tijdig en op doelmatige wijze de snelheid van het voertuig te vertragen, te remmen en te stoppen.   
 
 ### Artikel  6  
 
@@ -126,7 +126,7 @@ b. het in een rechte lijn achteruit rijden;
 
 c. het achteruitrijden van aangegeven bochten (bocht achteruit);  
 
-d. het parkeren van het voertuig in een haaks of schuin parkeervak*;*  
+d. het parkeren van het voertuig in een haaks of schuin parkeervak*;*   
 
 e. het op juiste wijze parkeren van het voertuig op een evenwijdig ten opzichte aan de weg gelegen parkeerruimte (file parkeren);  
 
@@ -136,7 +136,7 @@ g. het met het voertuig maken van een halve draai in een vloeiende beweging binn
 
 h. het voertuig op juiste wijze op een helling tot stilstand brengen en weer optrekken (hellingproef);  
 
-i. het na afloop van de rit uitvoeren van de noodzakelijke controlehandelingen om het voertuig veilig achter te kunnen laten.    
+i. het na afloop van de rit uitvoeren van de noodzakelijke controlehandelingen om het voertuig veilig achter te kunnen laten.   
 
 ### Artikel  7  
 
@@ -158,25 +158,25 @@ g. het op juiste wijze beproeven van de remmen;
 
 h. het na afloop van de rit uitvoeren van de noodzakelijke controlehandelingen om het voertuig veilig achter te kunnen laten;  
 
-i. het aan- en afkoppelen van de aanhanger.    
+i. het aan- en afkoppelen van de aanhanger.   
 
 ### Artikel  8  
 
-Na afloop van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangegeven aan welke exameneisen de aanvrager niet heeft voldaan.  
+Na afloop van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangegeven aan welke exameneisen de aanvrager niet heeft voldaan. 
 
 ### Artikel  9  
 
-De Regeling eisen praktijk-examens B en E bij B wordt ingetrokken.  
+De Regeling eisen praktijk-examens B en E bij B wordt ingetrokken. 
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van 30 september 2003.  
+Deze regeling treedt in werking met ingang van 30 september 2003. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B.  
+Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Verkeer en Waterstaat
-K.M.H.Peijs    
+Minister van Verkeer en Waterstaat 
+K.M.H. Peijs      

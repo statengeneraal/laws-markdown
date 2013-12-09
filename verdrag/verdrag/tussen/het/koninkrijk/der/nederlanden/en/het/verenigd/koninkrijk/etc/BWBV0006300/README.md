@@ -18,7 +18,7 @@ For the purposes of this Agreement:
 
 – “Orca Field” means the gas field in the area delimited in the Annex to this Agreement;  
 
-– “Development Plan” means the plan for the exploitation of the Orca Field.    
+– “Development Plan” means the plan for the exploitation of the Orca Field.   
 
 ### Article  2  
 
@@ -29,7 +29,7 @@ For the purposes of this Agreement:
 3.  A unit operator shall be appointed by agreement between the Licensees as their joint agent for the purpose of exploiting the Orca Field in accordance with this Agreement. The appointment of and any change to the unit operator shall be subject to prior approval by the Parties.   
 4.  Production shall not commence until the Development Plan for the Orca Field has been approved by the Parties.   
 5.  Drilling, maintenance and suspension of boreholes from the platform on the Orca Field under the United Kingdom Continental Shelf shall be considered to fall under Dutch legislation.   
-6.  Profits and capital gains arising from the Orca Field shall be taxed in accordance with the laws of the United Kingdom and the Netherlands respectively, including the [Convention between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital Gains](../../../../../../../../../../../../../verdrag/verdrag/tussen/de/regering/van/het/koninkrijk/der/nederlanden/en/de/etc/BWBV0003074/README.md), done at London on 26 September 2008, supplemented by the [Mutual Agreement on the Implementation of paragraph 5 of Article 25](../../../../../../../../../../../../../verdrag/mutual/agreement/on/the/implementation/of/paragraph/5/of/article/25/BWBV0003400/README.md), done at London on 26 September 2008 and The Hague on 2 October 2008, and any Protocol or Protocols to that Convention or any Convention replacing that Convention as may be signed in the future.   
+6.  Profits and capital gains arising from the Orca Field shall be taxed in accordance with the laws of the United Kingdom and the Netherlands respectively, including the [Convention between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital Gains](../../../../../../../../../../../../../verdrag/verdrag/tussen/de/regering/van/het/koninkrijk/der/nederlanden/en/de/etc/BWBV0003074/README.md), done at London on 26 September 2008, supplemented by the [Mutual Agreement on the Implementation of paragraph 5 of Article 25](../../../../../../../../../../../../../verdrag/mutual/agreement/on/the/implementation/of/paragraph/5/of/article/25/BWBV0003400/README.md), done at London on 26 September 2008 and The Hague on 2 October 2008, and any Protocol or Protocols to that Convention or any Convention replacing that Convention as may be signed in the future.  
 
 ### Article  3  
 
@@ -52,7 +52,7 @@ e) The United Kingdom shall inform the Kingdom of the Netherlands about the name
 6.  The competent authorities of the Parties may jointly enter into technical or administrative arrangements relating to the implementation of this Agreement or otherwise in connection with the exploitation of the Orca Field.   
 7.  The Parties shall in first instance seek to resolve any disputes about the interpretation, application or operation of this Agreement through consultation in accordance with paragraph (3) above, but if the dispute cannot be resolved in this manner the dispute shall be submitted at the request of either Party, to an Arbitral Tribunal composed as follows: Each Party shall designate one arbitrator, and the two arbitrators so designated shall elect a third, who shall be the Chairman and who shall not be a national of or habitually reside in the United Kingdom of Great Britain and Northern Ireland or the Kingdom of the Netherlands. If either Party fails to designate an arbitrator within three months of a request to do so, either Party may request the President of the International Court of Justice to appoint an arbitrator. The same procedure shall apply if, within one month of the designation or appointment of the second arbitrator, the third arbitrator has not been elected. The Tribunal shall determine its own procedure, save that all decisions shall be taken, in the absence of unanimity, by majority vote of the members of the Tribunal. The decisions of the Tribunal shall be final and binding upon the Parties.   
 8.  Nothing in this Agreement shall be interpreted as affecting the jurisdiction which each Party has under international law over the Continental Shelf which appertains to it. In particular, any part of the Orca Field located on the Continental Shelf appertaining to the United Kingdom shall be under the jurisdiction of the United Kingdom and any part of the Orca Field located on the Continental Shelf appertaining to the Kingdom of the Netherlands shall be under the jurisdiction of the Kingdom of the Netherlands.   
-9.  Nothing in this Agreement shall be interpreted as prejudicing or restricting the application of the laws of either Party or the exercise of jurisdiction by their courts, in conformity with international law.   
+9.  Nothing in this Agreement shall be interpreted as prejudicing or restricting the application of the laws of either Party or the exercise of jurisdiction by their courts, in conformity with international law.  
 
 ### Article  4  
 
@@ -60,7 +60,7 @@ e) The United Kingdom shall inform the Kingdom of the Netherlands about the name
 
 1.  This Agreement shall enter into force on the date of signature.   
 2.  The Parties may amend or terminate this Agreement at any time by agreement or arrangement.   
-3.  The Annex shall form an integral part of this Agreement.   
+3.  The Annex shall form an integral part of this Agreement.  
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement. DONE in duplicate at The Hague this 27th day of November 2013 in the English language.  *For the Kingdom of the Netherlands,*  M.R.P.M. CAMPS  *For the United Kingdom of Great Britain and Northern Ireland,*  SIR GEOFFREY DOYNE ADAMS  
 

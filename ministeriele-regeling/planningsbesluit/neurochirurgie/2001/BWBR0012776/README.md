@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Planningsbesluit neurochirurgie 2001
+##Planningsbesluit neurochirurgie 2001 
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
 Gelet op [artikel 5 van de Wet op bijzondere medische verrichtingen](../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md) en op [artikel 1, onder b, van het Besluit aanwijzing bijzondere medische verrichtingen](../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/BWBR0005209/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -29,14 +29,14 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Planningsbesluit neurochirurgie 2001.  
-Deze regeling zal met de daarbij behorende bijlage en toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Planningsbesluit neurochirurgie 2001. 
+Deze regeling zal met de daarbij behorende bijlage en toelichting in de Staatscourant worden geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers   
+Minister van Volksgezondheid, Welzijn en Sport,
+E. Borst-Eilers     
 
-### Bijlage  
+### Bijlage 
 
 ####bij het Planningsbesluit neurochirurgie 2001
 
@@ -72,7 +72,7 @@ De uitvoering van vier deelfuncties van bijzondere neurochirurgie (stereotactisc
 
 – Academisch Ziekenhuis Maastricht;  
 
-– Vrije Universiteit Medisch Centrum te Amsterdam.   De neurostimulatie bij bewegingsstoornissen (‘thalamusstimulatie’) vindt in zes centra plaats: 
+– Vrije Universiteit Medisch Centrum te Amsterdam.   De neurostimulatie bij bewegingsstoornissen (‘thalamusstimulatie’) vindt in zes centra plaats:
 
 – Academisch Medisch Centrum te Amsterdam;  
 
@@ -86,7 +86,7 @@ De uitvoering van vier deelfuncties van bijzondere neurochirurgie (stereotactisc
 
 -  Ziekenhuis Leyenburg (in samenwerking met LUMC).   De ‘nervus vagus’-stimulatie vindt in zes centra plaats: 
 
-– Academisch Medisch Centrum te Amsterdam;  
+– Academisch Medisch Centrum te Amsterdam; 
 
 – Medisch Spectrum Twente;  
 
@@ -96,7 +96,7 @@ De uitvoering van vier deelfuncties van bijzondere neurochirurgie (stereotactisc
 
 – Universitair Medisch Centrum Utrecht;  
 
-– Academisch Ziekenhuis Maastricht.    
+– Academisch Ziekenhuis Maastricht.  
 
 ####Voorwaarden en criteria
 
@@ -122,7 +122,7 @@ De deelfunctie stereotactische radiotherapie (radiochirurgie) is momenteel sterk
 
 ####Epilepsiechirurgie
 
-De deelfunctie epilepsiechirurgie is in drie centra geconcentreerd. Tussen de drie centra bestaat een samenwerkingsverband. Sommige deskundigen verwachten dat deze behandelvorm steeds meer toepassing zal vinden in de neuro-oncologie (hersentumorepilepsie) en ook op veel jongere leeftijd zal worden aangewend. Werd de jaarlijkse behandelbehoefte in Nederland enkele jaren geleden nog op vijftig patiënten per jaar geschat, op dit moment gaat een (ruwe) schatting eerder in de richting van honderd of meer patiënten per jaar. Een nauwkeurigere behoefteraming van de deelfunctie epilepsiechirurgie is nodig alvorens tot eventuele verdere uitbreiding van deze functie wordt overgegaan.  
+De deelfunctie epilepsiechirurgie is in drie centra geconcentreerd. Tussen de drie centra bestaat een samenwerkingsverband. Sommige deskundigen verwachten dat deze behandelvorm steeds meer toepassing zal vinden in de neuro-oncologie (hersentumorepilepsie) en ook op veel jongere leeftijd zal worden aangewend. Werd de jaarlijkse behandelbehoefte in Nederland enkele jaren geleden nog op vijftig patiënten per jaar geschat, op dit moment gaat een (ruwe) schatting eerder in de richting van honderd of meer patiënten per jaar. Een nauwkeurigere behoefteraming van de deelfunctie epilepsiechirurgie is nodig alvorens tot eventuele verdere uitbreiding van deze functie wordt overgegaan. 
 
 ####Neurostimulatie
 
@@ -130,7 +130,7 @@ De deelfunctie neurostimulatie bij bewegingsstoornissen wordt inmiddels in samen
 
 ####`Nervus vagus'-stimulatie
 
-`Nervus vagus'-stimulatie is een verrichting waarmee medicamenteus onbehandelbare epilepsiepatiënten, die niet voor epilepsiechirurgie in aanmerking komen, behandeld kunnen worden. Deze verrichting is een zeer complexe, gespecialiseerde en kostbare interventie en wordt tot de verstrekking ziekenhuisverpleging/medisch specialistische zorg gerekend. De effectiviteit van `nervus vagus'-stimulatie is vastgesteld. Er heerst echter nog enige onduidelijkheid over de indicaties. Via de aanscherping van de indicaties en de verdere standaardisatie van de behandeling streven het College voor Zorgverzekeringen en de betrokken centra voor bijzondere neurochirurgie naar een beheerste introductie van `nervus vagus'-stimulatie en het waarborgen van de kwaliteit van zorg. Voor de beheerste introductie en de standaardisatie van de behandeling wordt momenteel een kwaliteitssysteem ontwikkeld.  
+`Nervus vagus'-stimulatie is een verrichting waarmee medicamenteus onbehandelbare epilepsiepatiënten, die niet voor epilepsiechirurgie in aanmerking komen, behandeld kunnen worden. Deze verrichting is een zeer complexe, gespecialiseerde en kostbare interventie en wordt tot de verstrekking ziekenhuisverpleging/medisch specialistische zorg gerekend. De effectiviteit van `nervus vagus'-stimulatie is vastgesteld. Er heerst echter nog enige onduidelijkheid over de indicaties. Via de aanscherping van de indicaties en de verdere standaardisatie van de behandeling streven het College voor Zorgverzekeringen en de betrokken centra voor bijzondere neurochirurgie naar een beheerste introductie van `nervus vagus'-stimulatie en het waarborgen van de kwaliteit van zorg. Voor de beheerste introductie en de standaardisatie van de behandeling wordt momenteel een kwaliteitssysteem ontwikkeld. 
 
 ####Kwaliteit en doelmatigheid
 
@@ -150,5 +150,5 @@ In haar reactie op dit planningsbesluit heeft de IGZ opgemerkt dat de NVvN de kw
 
 ####Doelmatigheid
 
-Uit het bovengenoemde onderzoek van het CVZ is gebleken dat momenteel weinig informatie beschikbaar is over de mate van effectiviteit en efficiëntie waarmee de bijzondere neurochirurgie wordt toegepast. Dit heeft een aantal oorzaken. Binnen het vakgebied van de bijzondere neurochirurgie komen, in verhouding tot andere specialismen, veel aandoeningen voor die een slechte prognose met zich brengen. Hierdoor is het moeilijk om behandelingsresultaten te evalueren in termen van doelmatigheid. Verder is er met betrekking tot de registratie van bijzondere neurochirurgische verrichtingen momenteel sprake van vier verschillende methoden: de LMR, de jaarlijkse artikel-18-enquete, de neventarievenlijst van de Nederlandse Zorgautoriteit en het registratiesysteem van de NVvN. Deze methoden vertonen grote verschillen met betrekking tot omschrijving en detaillering, waardoor zij niet vergelijkbaar zijn. Betrokken partijen dienen er zorg voor te dragen, dat in de komende jaren een uniform registratiesysteem wordt ingevoerd voor bijzondere neurochirurgische verrichtingen. Het moet mogelijk zijn om binnen 1,5 jaar met de ontwikkeling van het systeem te beginnen. Tenslotte is er geen inzicht in de kosten per bijzondere neurochirurgische ingreep, geen vergelijking van productie en aantal formatieplaatsen, e.d.. Het is mijns inziens van het allergrootste belang, dat zowel de overheid als het veld een beter inzicht krijgen in de (on)doelmatigheid in de bijzondere neurochirurgie. Het invoeren van een uniform registratiesysteem voor neurochirurgische verrichtingen heeft daarom een hoge prioriteit. Een dergelijk systeem is onontbeerlijk voor het verkrijgen van betrouwbare informatie over de kwaliteit en de doelmatigheid van zorg.  
+Uit het bovengenoemde onderzoek van het CVZ is gebleken dat momenteel weinig informatie beschikbaar is over de mate van effectiviteit en efficiëntie waarmee de bijzondere neurochirurgie wordt toegepast. Dit heeft een aantal oorzaken. Binnen het vakgebied van de bijzondere neurochirurgie komen, in verhouding tot andere specialismen, veel aandoeningen voor die een slechte prognose met zich brengen. Hierdoor is het moeilijk om behandelingsresultaten te evalueren in termen van doelmatigheid. Verder is er met betrekking tot de registratie van bijzondere neurochirurgische verrichtingen momenteel sprake van vier verschillende methoden: de LMR, de jaarlijkse artikel-18-enquete, de neventarievenlijst van de Nederlandse Zorgautoriteit en het registratiesysteem van de NVvN. Deze methoden vertonen grote verschillen met betrekking tot omschrijving en detaillering, waardoor zij niet vergelijkbaar zijn. Betrokken partijen dienen er zorg voor te dragen, dat in de komende jaren een uniform registratiesysteem wordt ingevoerd voor bijzondere neurochirurgische verrichtingen. Het moet mogelijk zijn om binnen 1,5 jaar met de ontwikkeling van het systeem te beginnen. Tenslotte is er geen inzicht in de kosten per bijzondere neurochirurgische ingreep, geen vergelijking van productie en aantal formatieplaatsen, e.d.. Het is mijns inziens van het allergrootste belang, dat zowel de overheid als het veld een beter inzicht krijgen in de (on)doelmatigheid in de bijzondere neurochirurgie. Het invoeren van een uniform registratiesysteem voor neurochirurgische verrichtingen heeft daarom een hoge prioriteit. Een dergelijk systeem is onontbeerlijk voor het verkrijgen van betrouwbare informatie over de kwaliteit en de doelmatigheid van zorg. 
 

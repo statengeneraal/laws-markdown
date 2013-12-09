@@ -12,26 +12,31 @@ Gelet op [artikel 21, zevende lid, Algemeen Rijksambtenarenreglement](../../../.
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 04-12-1998 
 
-In afwijking van het bepaalde in [artikel 21, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), wordt de maximale arbeidsduur van door de minister van Onderwijs en Wetenschappen aangewezen ambtenaren die de functie van personenchauffeur uitoefenen, met 30 uur per maand verlengd.  
+In afwijking van het bepaalde in [artikel 21, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), wordt de maximale arbeidsduur van door de minister van Onderwijs en Wetenschappen aangewezen ambtenaren die de functie van personenchauffeur uitoefenen, met 30 uur per maand verlengd. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 04-12-1998 
 
-De krachtens artikel 1 aangewezen ambtenaar ontvangt een maandelijkse toelage die 30 maal het voor hem geldende salaris per uur bedraagt.  
+De krachtens artikel 1 aangewezen ambtenaar ontvangt een maandelijkse toelage die 30 maal het voor hem geldende salaris per uur bedraagt. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  Buiten de voor hem geldende werktijden kan aan de krachtens artikel 1 aangewezen ambtenaar overwerk worden opgedragen tot een gemiddelde van 45 uur per maand met een maximum van 540 uur per jaar tegen een vergoeding van 150% van het voor de aangewezen ambtenaar geldende salaris per uur.   
-2.  Overwerk dat aan de krachtens artikel 1 aangewezen ambtenaar wordt opgedragen dat uitstijgt buiten het in het eerste lid van dit artikel genoemde aantal uren berekend over een periode van één jaar wordt vergoed op basis van verlof gelijk aan de extra gewerkte tijd en per extra gewerkt uur 50% van het salaris per uur van de aangewezen ambtenaar.   
+2.   Overwerk dat aan de krachtens artikel 1 aangewezen ambtenaar wordt opgedragen dat uitstijgt buiten het in het eerste lid van dit artikel genoemde aantal uren berekend over een periode van één jaar wordt vergoed op basis van verlof gelijk aan de extra gewerkte tijd en per extra gewerkt uur 50% van het salaris per uur van de aangewezen ambtenaar.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  Op basis van het gemiddeld aantal overuren als bedoeld in het eerste lid van artikel 3 wordt iedere maand een vast aantal uren uitbetaald, met een maximum van 40 overuren per maand. Na een periode van één jaar vindt de verrekening plaats.   
-2.  Het overwerk als bedoeld in het tweede lid van artikel 3 wordt vergoed op basis van een maandelijks door de aangewezen ambtenaar in te dienen declaratie.   
+2.   Het overwerk als bedoeld in het tweede lid van artikel 3 wordt vergoed op basis van een maandelijks door de aangewezen ambtenaar in te dienen declaratie.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 04-12-1998 
 
-Aan de chauffeur, bij wie het gemiddeld aantal overuren (à 150%) per maand, berekend over de 24 maanden voorafgaand aan het moment van invoering, hoger is dan 45 uur, wordt gedurende een periode van 2 jaar op maandbasis een afnemend toeslagpercentage toegekend over het verschil tussen het 24-maands gemiddelde en voornoemde 45 uur. Het toeslagpercentage vertoont het volgende beeld: 
+Aan de chauffeur, bij wie het gemiddeld aantal overuren (à 150%) per maand, berekend over de 24 maanden voorafgaand aan het moment van invoering, hoger is dan 45 uur, wordt gedurende een periode van 2 jaar op maandbasis een afnemend toeslagpercentage toegekend over het verschil tussen het 24-maands gemiddelde en voornoemde 45 uur. Het toeslagpercentage vertoont het volgende beeld:  
 
 1e. halfjaar 80%  
 
@@ -39,11 +44,12 @@ Aan de chauffeur, bij wie het gemiddeld aantal overuren (à 150%) per maand, ber
 
 3e. halfjaar 40%  
 
-4e. halfjaar 20%    
+4e. halfjaar 20%   
 
 ### Artikel  6  
+Materieel uitgewerkt per 04-12-1998 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 augustus 1989.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 augustus 1989. 
 
 Onze Minister van Onderwijs en Wetenschappen is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 

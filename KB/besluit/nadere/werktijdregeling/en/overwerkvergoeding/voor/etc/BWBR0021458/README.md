@@ -14,43 +14,52 @@ Gehoord de Bijzondere Commissie;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 04-12-1998 
 
-In afwijking van het bepaalde in [artikel 21, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) wordt de maximale arbeidsduur van door de Minister van Financiën aangewezen ambtenaren die de functie van personenchauffeurs uitoefenen met 30 uur per maand verlengd.  
+In afwijking van het bepaalde in [artikel 21, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) wordt de maximale arbeidsduur van door de Minister van Financiën aangewezen ambtenaren die de functie van personenchauffeurs uitoefenen met 30 uur per maand verlengd. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 04-12-1998 
 
-De krachtens artikel 1 aangewezen ambtenaar ontvangt maandelijks een toelage die 30 maal het voor hem geldende salaris per uur bedraagt.  
+De krachtens artikel 1 aangewezen ambtenaar ontvangt maandelijks een toelage die 30 maal het voor hem geldende salaris per uur bedraagt. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  Buiten de voor hem geldende werktijden kan aan de krachtens artikel 1 aangewezen ambtenaar overwerk worden opgedragen tot een maximum van gemiddeld 45 uur per maand tegen een vergoeding van 150% van het voor de aangewezen ambtenaar geldende salaris per uur.   
-2.  Overwerk dat aan de krachtens artikel 1 aangewezen ambtenaar wordt opgedragen dat uitstijgt boven het in het eerste lid genoemde aantal uren per maand, wordt vergoed op basis van verlof gelijk aan de extra gewerkte tijd en in geld per extra gewerkt uur van 50% van het salaris per uur van de aangewezen ambtenaar.   
+2.   Overwerk dat aan de krachtens artikel 1 aangewezen ambtenaar wordt opgedragen dat uitstijgt boven het in het eerste lid genoemde aantal uren per maand, wordt vergoed op basis van verlof gelijk aan de extra gewerkte tijd en in geld per extra gewerkt uur van 50% van het salaris per uur van de aangewezen ambtenaar.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  De maandelijkse vergoeding voor overwerk als bedoeld in artikel 3, eerste lid, wordt berekend op basis van het in voorgaande 12 maanden gemiddeld verricht aantal uren overwerk.   
-2.  Het overwerk als bedoeld in artikel 3, tweede lid, wordt vergoed op basis van een maandelijks door de krachtens artikel 1 aangewezen ambtenaar in te dienen declaratie.   
+2.   Het overwerk als bedoeld in artikel 3, tweede lid, wordt vergoed op basis van een maandelijks door de krachtens artikel 1 aangewezen ambtenaar in te dienen declaratie.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 04-12-1998 
 
-Voorzover de werktijd aanvangt en eindigt op het moment dat de krachtens artikel 1 aangewezen ambtenaar zijn huis verlaat respectievelijk daar terugkeert, wordt op de dagelijkse werktijd de normale begeeftijd (reistijd) van 1 uur in mindering gebracht.  
+Voorzover de werktijd aanvangt en eindigt op het moment dat de krachtens artikel 1 aangewezen ambtenaar zijn huis verlaat respectievelijk daar terugkeert, wordt op de dagelijkse werktijd de normale begeeftijd (reistijd) van 1 uur in mindering gebracht. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 04-12-1998 
 
 1.  Indien ambtenaren in dienst treden en worden aangewezen krachtens artikel 1 ontvangen zij de eerste drie maanden een vergoeding voor overwerk op declaratiebasis met dien verstande dat het aantal overuren niet meer dan 45 uur per maand bedraagt.   
-2.  Na de in het eerste lid genoemde 3 maanden wordt de overwerkvergoeding voor overwerk maandelijks vergoed op basis van de voorafgaande maanden totdat op deze manier 12 maanden vooraf zijn gegaan aan de maandelijkse vergoeding.   
+2.   Na de in het eerste lid genoemde 3 maanden wordt de overwerkvergoeding voor overwerk maandelijks vergoed op basis van de voorafgaande maanden totdat op deze manier 12 maanden vooraf zijn gegaan aan de maandelijkse vergoeding.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 04-12-1998 
 
-Bij het uit dienst treden van een krachtens artikel 1 aangewezen ambtenaar vindt geen nacalculatie plaats van het gemiddeld aantal overuren over de voorafgaande 12 maanden.  
+Bij het uit dienst treden van een krachtens artikel 1 aangewezen ambtenaar vindt geen nacalculatie plaats van het gemiddeld aantal overuren over de voorafgaande 12 maanden. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 04-12-1998 
 
-Aan de krachtens artikel 1 aangewezen ambtenaar, bij wie het gemiddeld aantal overuren (à 150%) per maand, berekend over de 12 maanden voorafgaand aan het moment van invoering, hoger is dan 45 uur, wordt gedurende een periode van twee jaar op maandbasis een afnemend toeslagpercentage toegekend over het verschil tussen het 12-maands gemiddelde en voornoemde 45 uur. Het toeslagpercentage ziet er alsvolgt uit: het eerste halfjaar 80% het tweede halfjaar 60% het derde halfjaar 40% het vierde halfjaar 20%  
+Aan de krachtens artikel 1 aangewezen ambtenaar, bij wie het gemiddeld aantal overuren (à 150%) per maand, berekend over de 12 maanden voorafgaand aan het moment van invoering, hoger is dan 45 uur, wordt gedurende een periode van twee jaar op maandbasis een afnemend toeslagpercentage toegekend over het verschil tussen het 12-maands gemiddelde en voornoemde 45 uur. Het toeslagpercentage ziet er alsvolgt uit: het eerste halfjaar 80% het tweede halfjaar 60% het derde halfjaar 40% het vierde halfjaar 20% 
 
 ### Artikel  9  
+Materieel uitgewerkt per 04-12-1998 
 
-Dit besluit treedt in werking met ingang van 1 januari 1993.  
+Dit besluit treedt in werking met ingang van 1 januari 1993. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 
