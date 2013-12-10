@@ -7,63 +7,89 @@ In deze circulaire wordt uiteengezet wat de gevolgen zijn van de CAO voor het Ri
 
 ####Burgemeesters
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### 1  
 
 ####Bezoldiging burgemeesters
+
+Materieel uitgewerkt per 01-01-2008 
 
 In het Sectoroverleg rijkspersoneel is besloten tot een verhoging van 2% van de salarissen van de ambtenaren in de sector Rijk per 1 januari 2006. Op grond van [artikel 8, derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) wordt de bezoldiging van burgemeesters herzien overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Dit betekent dat de bezoldigingen van burgemeesters met ingang van 1 januari 2006 eveneens met 2% worden verhoogd. Voor de definitieve bezoldigingsbedragen verwijs ik u naar bijlage 1 bij deze circulaire. De structurele verhoging van de salarissen werken door naar reeds ingegane wachtgelden en uitkeringen. De bovengenoemde structurele verhoging van salarissen zijn pensioengevend.    
 ### 2  
 
 ####Nominale en procentuele eindejaarsuitkering burgemeesters
 
+Materieel uitgewerkt per 01-01-2008 
+
 Gelet op [artikel 15a van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) geldt onderstaand besluit van het Sectoroverleg rijkspersoneel ook voor de burgemeesters en wordt deze circulaire in de Staatscourant gepubliceerd.   
 ### a  
 
 ####Nominale eindejaarsuitkering
+
+Materieel uitgewerkt per 01-01-2008 
 
 In het Sectoroverleg rijkspersoneel is besloten dat de nominale eindejaarsuitkering van € 550,56 (€ 45,88 per maand) met ingang van 2006 structureel wordt verhoogd tot € 1.000,– per jaar en dat met ingang van het jaar 2006 de eindejaarsuitkering in november wordt uitbetaald (tot en met het jaar 2005 was december de maand van uitbetaling). Dat houdt in dat de opbouw van € 1.000,– in 2006 over 11 maanden plaatsvindt (januari tot en met november) en per maand € 90,91 (€ 1.000,– : 11 maanden) bedraagt. Omdat de nominale eindejaarsuitkering mede is bedoeld als compensatie voor de kosten van de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is voor 2006 (als overgangsjaar) afgesproken dat de totale nominale eindejaarsuitkering voor 2006 (ad € 1.000,–) wordt uitbetaald in drie delen. In april 2006 een deel van 4 maanden (4 × € 90,91), in augustus 2006 een deel van 4 maanden (4 × € 90,91) en in november het restant van drie maanden (3 × € 90,91). Met ingang van het jaar 2007 wordt de nominale eindejaarsuitkering structureel verhoogd naar € 1.100,– per jaar. De uitbetaling vindt plaats in november 2007 (de opbouw vindt plaats van december 2006 tot en met november 2007). De opbouw bedraagt dan € 91,67 (€ 1.100,– : 12 maanden) per maand. Met ingang van 2007 wordt de nominale eindejaarsuitkering geïndexeerd met het percentage van de generieke salarisstijging. Dat kan inhouden dat het bedrag ad € 1.100,– in 2007 nog kan wijzigen. In dat geval zal ik u nader informeren.    
 ### b  
 
 ####Procentuele eindejaarsuitkering
 
+Materieel uitgewerkt per 01-01-2008 
+
 Eveneens is in het Sectoroverleg rijkspersoneel besloten dat de procentuele eindejaarsuitkering vanaf 1 januari 2005 structureel wordt verhoogd van 0,8% naar 1,6%. De verhoging van 0,8% van 2005 kan worden meegenomen in de eerstvolgende salarisbetaling (ter informatie: voor burgemeesters geldt voor 2005 een totale procentuele eindejaarsuitkering van 3,1%; opgebouwd uit: structurele eindejaarsuitkering van 1,6% en de verhoogde eindejaarsuitkering voor burgemeesters van 1,5%). Voorts zal met ingang van het jaar 2006 de eindejaarsuitkering in november wordt uitbetaald (tot en met het jaar 2005 was december de maand van uitbetaling). Dat houdt het volgende in. Burgemeesters hebben in 2006 recht op een eindejaarsuitkering van 3,1% (opgebouwd uit: structurele eindejaarsuitkering van 1,6% en de verhoogde eindejaarsuitkering voor burgemeesters van 1,5%). De eindejaarsuitkering over 2006 wordt berekend over 11 maanden (januari 2006 tot en met november 2006). In verband daarmee dient in de eerste 11 maanden van 2006 als procentuele eindejaarsuitkering 3,38% van het maandsalaris te worden opgebouwd en in november 2006 te worden uitbetaald. Met ingang van het jaar 2007 vindt de uitbetaling plaats in november 2007 (van december 2006 tot en met november 2007 vindt de opbouw plaats). De mogelijkheid bestaat dat de procentuele eindejaarsuitkering met ingang van 2007 nog een wijziging ondergaat. Vooralsnog kunt u over 2007 een eindejaarsuitkering voor burgemeesters hanteren van 3,1%. Bij wijziging zal ik u informeren. De bovengenoemde structurele verhoging van de nominale en procentuele eindejaarsuitkeringen werken door naar reeds ingegane wachtgelden en uitkeringen. De bovengenoemde structurele eindejaarsuitkeringen zijn pensioengevend.     
 ### 3  
 
 ####Eenmalige uitkeringen burgemeesters
+
+Materieel uitgewerkt per 01-01-2008 
 
 In het Sectoroverleg rijkspersoneel is ten aanzien van het arbeidsvoorwaardenbeleid in de contractperiode 1 januari 2005 tot en met 31 december 2006 besloten dat ambtenaren die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner (zoals bedoeld in [artikel 1, eerste lid, onder b, onder 1°, van het Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md)) aanspraak maken op een eenmalige bruto uitkering van € 450,– (vermenigvuldigd met de deeltijdfactor, zoals die geldt per 1 december 2005; de deeltijdfactor mag niet groter zijn dan één). In [artikel 8, vierde lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) is bepaald dat indien aan het personeel in de sector Rijk een éénmalige uitkering wordt toegekend, de burgemeester een uitkering op gelijke voet ontvangt. Gelet op deze bepaling en als gevolg van bovengenoemd overleg hebben de burgemeesters die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner (zoals bedoeld in [artikel 1, eerste lid, onder b, onder 1°, van het Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md)) aanspraak op een eenmalige bruto uitkering van € 450,–.     
 ### B  
 
 ####Wethouders
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### 1  
 
 ####Bezoldiging wethouders
+
+Materieel uitgewerkt per 01-01-2008 
 
 In het Sectoroverleg rijkspersoneel is besloten tot een structurele verhoging van 2% van de salarissen van de ambtenaren in de sector Rijk per 1 januari 2006. Op grond van [artikel 3, tweede lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) worden de bedragen genoemd in de tabel bij het rechtspositiebesluit herzien overeenkomstig de wijziging die de bezoldiging van het personeel in de sector Rijk ondergaat. Dit betekent dat de vergoedingen voor de wethouders met ingang van 1 januari 2006 eveneens worden aangepast. Voor de definitieve vergoedingsbedragen verwijs ik u naar bijlage 2 bij deze circulaire. De structurele verhoging van de salarissen werkt door naar reeds ingegane wachtgelden en uitkeringen. De bovengenoemde structurele verhoging van salarissen zijn pensioengevend.    
 ### 2  
 
 ####Nominale en procentuele eindejaarsuitkering wethouders
 
+Materieel uitgewerkt per 01-01-2008 
+
 Gelet op [artikel 3, derde lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) geldt onderstaand besluit van het Sectoroverleg rijkspersoneel ook voor wethouders.   
 ### a  
 
 ####Nominale eindejaarsuitkering
+
+Materieel uitgewerkt per 01-01-2008 
 
 In het Sectoroverleg rijkspersoneel is besloten dat de nominale eindejaarsuitkering van € 550,56 (€ 45,88 per maand) met ingang van 2006 structureel wordt verhoogd tot € 1.000,– per jaar en dat met ingang van het jaar 2006 de eindejaarsuitkering in november wordt uitbetaald (tot en met het jaar 2005 was december de maand van uitbetaling). Dat houdt in dat de opbouw van € 1.000,– in 2006 over 11 maanden plaatsvindt (januari tot en met november) en per maand € 90,91 (€ 1.000,– : 11 maanden) bedraagt. Omdat de nominale eindejaarsuitkering mede is bedoeld als compensatie voor de kosten van de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is voor 2006 (als overgangsjaar) afgesproken dat de totale nominale eindejaarsuitkering voor 2006 (ad € 1.000,–) wordt uitbetaald in drie delen. In april 2006 een deel van 4 maanden (4 × € 90,91), in augustus 2006 een deel van 4 maanden (4 × € 90,91) en in november het restant van drie maanden (3 × € 90,91). Met ingang van het jaar 2007 wordt de nominale eindejaarsuitkering structureel verhoogd naar € 1.100,– per jaar. De uitbetaling vindt plaats in november 2007 (de opbouw vindt plaats van december 2006 tot en met november 2007). De opbouw bedraagt dan € 91,67 (€ 1.100,– : 12 maanden) per maand. Met ingang van 2007 wordt de nominale eindejaarsuitkering geïndexeerd met het percentage van de generieke salarisstijging. Dat kan inhouden dat het bedrag ad € 1.100,– in 2007 wordt gewijzigd. In dat geval zal ik nader u informeren.    
 ### b  
 
 ####Procentuele eindejaarsuitkering
 
+Materieel uitgewerkt per 01-01-2008 
+
 Eveneens is in het Sectoroverleg rijkspersoneel besloten dat de procentuele eindejaarsuitkering vanaf 1 januari 2005 structureel wordt verhoogd van 0,8% naar 1,6%. De verhoging van 0,8% kan worden meegenomen in de eerstvolgende salarisbetaling. Voorts zal met ingang van het jaar 2006 de eindejaarsuitkering in november worden uitbetaald (tot en met het jaar 2005 was december de maand van uitbetaling). Dat houdt het volgende in. Wethouders hebben in 2006 recht op een structurele eindejaarsuitkering van 1,6%. De eindejaarsuitkering over 2006 wordt berekend over 11 maanden (januari 2006 tot en met november 2006). In verband daarmee dient in de eerste 11 maanden van 2006 als procentuele eindejaarsuitkering 1,75% van het maandsalaris te worden opgebouwd en in november 2006 te worden uitbetaald. Met ingang van het jaar 2007 vindt de uitbetaling plaats in november 2007 (van december 2006 tot en met november 2007 vindt de opbouw plaats). De mogelijkheid bestaat dat de procentuele eindejaarsuitkering met ingang van 2007 wijziging ondergaat. Vooralsnog kunt u over 2007 een eindejaarsuitkering voor wethouders hanteren van 1,6%. Bij wijziging zal ik u informeren. De bovengenoemde structurele verhoging van de nominale en procentuele eindejaarsuitkeringen werken door naar reeds ingegane wachtgelden en uitkeringen. De bovengenoemde structurele eindejaarsuitkeringen zijn pensioengevend.     
 ### 3  
 
 ####Eenmalige uitkeringen wethouders
 
+Materieel uitgewerkt per 01-01-2008 
+
 In het Sectoroverleg rijkspersoneel is ten aanzien van het arbeidsvoorwaardenbeleid in de contractperiode 1 januari 2005 tot en met 31 december 2006 besloten dat ambtenaren die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner (zoals bedoeld in [artikel 1, eerste lid, onder b, onder 1°, van het Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md)) aanspraak maken op een eenmalige bruto uitkering van € 450,– (vermenigvuldigd met de deeltijdfactor, zoals die geldt per 1 december 2005; de deeltijdfactor mag niet groter zijn dan één). In [artikel 3, vierde lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) is bepaald dat indien aan het personeel in de sector Rijk een éénmalige uitkering wordt toegekend, de wethouder een uitkering op gelijke voet ontvangt. Gelet op deze bepaling en als gevolg van bovengenoemd overleg hebben de wethouders die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner (zoals bedoeld in [artikel 1, eerste lid, onder b, onder 1°, van het Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md)) aanspraak op een éénmalige bruto uitkering van € 450,– (vermenigvuldigd met de deeltijdfactor, zoals die geldt per 1 december 2005; de deeltijdfactor mag niet groter zijn dan één).     
 ### C  
 
 ####Vergoeding raadsleden
+
+Materieel uitgewerkt per 01-01-2008 
 
 In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de vergoeding voor werkzaamheden voor raadsleden per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen, geldend voor de maand september van het voorafgaande kalenderjaar. Toepassing van het bovenstaande houdt in dat de bedragen van de vergoeding voor werkzaamheden voor raadsleden per 1 januari 2006 worden verhoogd met 0,5%. Dit is de verhoging van het indexcijfer van 2005 (113,8) ten opzichte van 2004 (113,2). Het maximumbedrag per maand voor de vergoeding van werkzaamheden voor raadsleden genoemd in [artikel 2, eerste lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2006:  Tabel I 
 
@@ -92,9 +118,13 @@ In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden
 
 ####Commissieleden
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### a  
 
 ####Vergoeding bijwonen van vergaderingen commissieleden
+
+Materieel uitgewerkt per 01-01-2008 
 
 In [artikel 14, eerste lid](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md), juncto [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de vergoeding voor het bijwonen van vergaderingen per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar. Toepassing van het bovenstaande houdt in dat de bedragen van de vergoeding voor werkzaamheden voor commissieleden per 1 januari 2006 worden verhoogd met 0,5%. Dit is de verhoging van het indexcijfer van 2005 (113,8) ten opzichte van 2004 (113,2). De maximumvergoeding voor het bijwonen van vergaderingen voor leden van gemeentelijke commissies genoemd in het eerste lid van [artikel 14 van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2006:  Tabel IV 
 
@@ -109,30 +139,42 @@ In [artikel 14, eerste lid](../../../../../../../../AMvB/rechtspositiebesluit/ra
 
 ### b  
 
-####Gevolgen [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) voor commissieleden
+####Gevolgen [Zorgverzekeringswet ](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)voor commissieleden
+
+Materieel uitgewerkt per 01-01-2008 
 
 In [onderdeel 9 van mijn circulaire van 5 december 2005](../../../../../../../../circulaire/circulaire/onkostenvergoeding/vergoeding/en/eindejaarsuitkering/wethouders/etc/BWBR0019162/README.md) (nr. 2005-284761) over de gevolgen van de [Zorgverzekeringwet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) voor commissieleden heb ik gesteld dat voor commissieleden hetzelfde geldt als voor raadsleden. Dit betekent dat over de vergoeding voor het bijwonen van vergaderingen van commissieleden een inkomensafhankelijke bijdrage van 4.4% verschuldigd is. In aanvulling hierop is het van belang te melden dat deze bijdrage niet moet worden ingehouden op de vergoeding. De inkomensafhankelijke bijdrage over de commissievergoeding wordt bij de betrokkenen door de Belastingdienst op aanslag geheven.     
 ### E  
 
 ####Algemeen
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### 1  
 
 ####Vervallen [Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) en [Zvr](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) per 1 januari 2006
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### a  
 
 ####[Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) (Btzr)
+
+Materieel uitgewerkt per 01-01-2008 
 
 De [Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) is met ingang van 1 januari 2006 vervallen. De tegemoetkomingen van de [Btzr](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) werden uitbetaald in de derde maand volgende op die waarop de tegemoetkomingen betrekking hebben. Voor uw informatie merk ik op dat dit inhoudt dat de tegemoetkoming voor de maanden oktober 2005 tot en met december 2005 nog nabetaald dienen te worden.    
 ### b  
 
 ####[Regeling ziektekostenvoorziening rijkspersoneel](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) (Zvr)
 
+Materieel uitgewerkt per 01-01-2008 
+
 Voor uw informatie meld ik u dat de [Zvr](../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) met ingang van 1 januari 2006 is vervallen.     
 ### 2  
 
 ####Informatie op internet
+
+Materieel uitgewerkt per 01-01-2008 
 
 Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de internetsite van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.minbzk.nl, openbaar bestuur, politieke ambtsdragers.      
 
@@ -141,11 +183,13 @@ Hoogachtend,
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur-generaal Koninkrijksrelaties en Bestuur, 
-L.A.M. vanHalder  
+L.A.M. van Halder    
 
 ### Bijlage  1  
 
 ####Bezoldiging burgemeesters
+
+Materieel uitgewerkt per 01-01-2008 
 
 | Regelnummer  | Bezoldiging 01-05-2003  | Bezoldiging 01-01-2006  | INWONERSKLASSE  | Bezoldiging 01-01-2006  | Regelnummer  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -191,6 +235,8 @@ L.A.M. vanHalder
 ### Bijlage  2  
 
 ####Bezoldiging wethouders
+
+Materieel uitgewerkt per 01-01-2008 
 
 Tabel I. Bezoldiging wethouders, bedoeld in artikel 3, eerste lid, van het Rechtspositiebesluit wethouders 
 

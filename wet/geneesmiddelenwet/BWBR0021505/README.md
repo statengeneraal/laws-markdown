@@ -32,7 +32,7 @@ c. immunologisch geneesmiddel: een vaccin, toxine, serum of allergeen;
 
 d. bloedproduct: een uit menselijk bloed of menselijk plasma bereid geneesmiddel;  
 
-e. geneesmiddel voor onderzoek: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder o, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+e. geneesmiddel voor onderzoek: een geneesmiddel als bedoeld in artikel 1, eerste lid, onder o, van de Wet medisch-wetenschappelijk onderzoek met mensen;  
 
 f. homeopathisch geneesmiddel: een geneesmiddel dat volgens een homeopathisch fabricageprocédé, beschreven in de krachtens het Verdrag inzake de samenstelling van een Europese farmacopee van 22 juli 1964, Trb.1966, nr. 115, samengestelde Europese farmacopee of, bij ontstentenis daarvan, in een in een lidstaat officieel in gebruik zijnde farmacopee, wordt verkregen uit grondstoffen die in de homeopathisch-farmaceutische literatuur worden aangeduid als homeopathische grondstoffen;  
 
@@ -68,11 +68,23 @@ t. UAD-geneesmiddel: een geneesmiddel dat zonder recept, doch uitsluitend in een
 
 u. AV-geneesmiddel: een geneesmiddel dat zonder recept ook buiten een apotheek of een verkoper onder toezicht van een drogist, ter hand mag worden gesteld;  
 
+u.1. *vervalst geneesmiddel:* een geneesmiddel met een valse voorstelling van: 
+
+1°. identiteit, waaronder begrepen de verpakking, etikettering, naam, samenstelling van bestanddelen, waaronder begrepen hulpstoffen, of concentratie van bestanddelen;  
+
+2°. oorsprong, waaronder begrepen fabrikant, land van vervaardiging, land van oorsprong, of houder van de handelsvergunning; of  
+
+3°. geschiedenis, waaronder begrepen registers of documenten met betrekking tot gebruikte distributiekanalen;     
+
 v. farmaceutische vorm: de fysieke vorm waarin een geneesmiddel is gebracht met het oog op de toediening of aanwending bij de mens;  
 
 w. naam van een geneesmiddel: een fantasienaam dan wel een algemene of wetenschappelijke benaming, vergezeld van een merk of van de naam van de houder van de handelsvergunning;  
 
 x. algemene benaming: de door de wereldgezondheidsorganisatie aanbevolen internationale benaming of, bij ontstentenis daarvan, de gangbare benaming;  
+
+x.1. *werkzame stof:* een substantie die of een mengsel van substanties dat bestemd is om gebruikt te worden bij de vervaardiging van een geneesmiddel en dat bijgevolg een werkzaam bestanddeel van dat geneesmiddel wordt dat bestemd is om een farmacologisch, immunologisch of metabolisch effect te bewerkstelligen, teneinde fysiologische functies te herstellen, te verbeteren of te wijzigen, onderscheidenlijk een medische diagnose te stellen;  
+
+x.2. *hulpstof:* elk ander bestanddeel van een geneesmiddel dan de werkzame stof of het verpakkingsmateriaal;  
 
 ij. sterkte: het gehalte aan werkzame stoffen, uitgedrukt in een hoeveelheid per doserings-, volume- of gewichtseenheid;  
 
@@ -100,19 +112,21 @@ jj. uitvoeren: het vanuit het grondgebied van Nederland naar het grondgebied van
 
 kk. het drijven van een groothandel: het geheel van activiteiten, bestaande uit het inkopen, in voorraad hebben en afleveren of uitvoeren van door derden bereide of ingevoerde geneesmiddelen;  
 
-ll. ter hand stellen: het rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd, dan wel aan beroepsbeoefenaren als bedoeld in [artikel 36, veertiende lid, onder a tot en met d, van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), mondhygiënisten orthoptisten of optometristen die geneesmiddelen onder zich hebben ten behoeve van toediening aan hun patiënten;  
+kk.1. *bemiddelen in geneesmiddelen:* iedere activiteit in verband met de verkoop of aankoop van geneesmiddelen, niet zijnde het drijven van een groothandel, waarbij geen sprake is van fysieke omgang met de betreffende geneesmiddelen, en die bestaat uit het onafhankelijk onderhandelen namens een andere natuurlijke persoon of rechtspersoon;  
+
+ll. ter hand stellen: het rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd, dan wel aan beroepsbeoefenaren als bedoeld in artikel 36, veertiende lid, onder a tot en met d, van de Wet op de beroepen in de individuele gezondheidszorg, mondhygiënisten orthoptisten of optometristen die geneesmiddelen onder zich hebben ten behoeve van toediening aan hun patiënten;  
 
 mm. fabrikant: de in Nederland gevestigde natuurlijke persoon of rechtspersoon aan wie krachtens artikel 18 vergunning is verleend voor het bereiden of invoeren van geneesmiddelen en het afleveren of uitvoeren van door hem bereide of ingevoerde geneesmiddelen;  
 
-nn. groothandelaar: de in Nederland gevestigde natuurlijke persoon of rechtspersoon aan wie krachtens artikel 18 een vergunning is verleend voor het drijven van een groothandel;  
+nn. groothandelaar: de in Nederland gevestigde natuurlijke persoon of rechtspersoon aan wie krachtens artikel 18 een vergunning is verleend voor het drijven van een groothandel in geneesmiddelen;  
 
 oo. apotheek: een lokaal of een samenhangend geheel van lokalen waarin geneesmiddelen worden bereid, ter hand gesteld en ten behoeve van terhandstelling in voorraad worden gehouden, dan wel alleen ter hand worden gesteld en daartoe in voorraad worden gehouden;  
 
-pp. recept: een door een met naam en werkadres aangeduide beroepsbeoefenaar als bedoeld in [artikel 36, veertiende lid](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), van de onder ll genoemde wet dan wel een daartoe in een andere lidstaat bevoegde beroepsbeoefenaar, opgesteld document waarin aan een persoon of instantie als bedoeld in artikel 61, eerste lid, een voorschrift wordt gegeven om een met zijn stofnaam of merknaam aangeduid geneesmiddel in de aangegeven hoeveelheid, sterkte en wijze van gebruik ter hand te stellen aan een te identificeren patiënt, en dat is ondertekend door de desbetreffende beroepsbeoefenaar dan wel, zonder te zijn ondertekend, met een zodanige code is beveiligd dat een daartoe bevoegde persoon of instantie de authenticiteit ervan kan vaststellen;  
+pp. recept: een door een met naam en werkadres aangeduide beroepsbeoefenaar als bedoeld in artikel 36, veertiende lid, van de onder ll genoemde wet dan wel een daartoe in een andere lidstaat bevoegde beroepsbeoefenaar, opgesteld document waarin aan een persoon of instantie als bedoeld in artikel 61, eerste lid, een voorschrift wordt gegeven om een met zijn stofnaam of merknaam aangeduid geneesmiddel in de aangegeven hoeveelheid, sterkte en wijze van gebruik ter hand te stellen aan een te identificeren patiënt, en dat is ondertekend door de desbetreffende beroepsbeoefenaar dan wel, zonder te zijn ondertekend, met een zodanige code is beveiligd dat een daartoe bevoegde persoon of instantie de authenticiteit ervan kan vaststellen;  
 
-qq. onderzoeksdossier: het dossier, bedoeld in [artikel 1, onder p, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+qq. onderzoeksdossier: het dossier, bedoeld in artikel 1, onder p, van de Wet medisch-wetenschappelijk onderzoek met mensen;  
 
-rr. proefpersoon: de persoon, bedoeld in [artikel 1, eerste lid, onder c, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+rr. proefpersoon: de persoon, bedoeld in artikel 1, eerste lid, onder c, van de Wet medisch-wetenschappelijk onderzoek met mensen;  
 
 ss. bijwerking: een reactie op een geneesmiddel die schadelijk en onbedoeld is;  
 
@@ -170,6 +184,8 @@ iii.2. Risicobeoordelingscomité: het Risicobeoordelingscomité voor geneesmidde
 
 iii.3. Eudravigilance-databank: de databank en het bijbehorende netwerk voor gegevensverwerking, ingesteld krachtens artikel 24 van de verordening;  
 
+iii.4. *EudraGMP-databank:* de databank en het bijbehorende netwerk voor gegevensverwerking, ingesteld krachtens artikel 111, zesde lid, van richtlijn 2001/83.  
+
 jjj. Comité voor kruidengeneesmiddelen: het Comité, opgericht krachtens artikel 16 nonies van richtlijn 2001/83;  
 
 kkk. College: het College ter beoordeling van geneesmiddelen, ingesteld krachtens artikel 2;  
@@ -197,6 +213,7 @@ b. het op schriftelijk verzoek aan de kapitein van een schip dat is bestemd en w
 5.  Voor de toepassing van deze wet wordt onder kruidengeneesmiddel tevens verstaan een geneesmiddel dat als werkzame bestanddelen behalve een of meer kruidensubstanties, een of meer kruidenpreparaten dan wel een combinatie van een of meer kruidensubstanties en kruidenpreparaten, tevens vitaminen of mineralen bevat waarvan de veiligheid op grond van voldoende bewijsstukken gegarandeerd is en de werkzaamheid van de vitaminen of mineralen de werkzaamheid van de werkzame kruidenbestanddelen aanvult met betrekking tot de gespecificeerde indicaties.   
 6.  Indien een product, voor zover het zijn kenmerken betreft, zowel voldoet aan de definitie van geneesmiddel als aan de definitie van een product in een andere wettelijke regeling, is deze wet onverminderd van toepassing ten aanzien van dat product.   
 7.  Deze wet is niet van toepassing op bloed, plasma of bloedcellen van menselijke oorsprong met uitzondering van plasma dat door middel van een industrieel procédé is bewerkt met het oog op de bereiding van geneesmiddelen. Deze wet is voorts niet van toepassing op radionucliden die in de vorm van verzegelde bronnen worden gebruikt.   
+8.  De toepassing van de definitie van vervalst geneesmiddel in het bij of krachtens deze wet bepaalde laat regelgeving omtrent intellectuele eigendom onverlet.   
 
 ### Hoofdstuk  2  
 
@@ -206,7 +223,7 @@ b. het op schriftelijk verzoek aan de kapitein van een schip dat is bestemd en w
 
 1.  Er is een College ter beoordeling van geneesmiddelen.   
 2.  Het College heeft zijn zetel in een door Onze Minister te bepalen gemeente.   
-3.  De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op het College van toepassing.   
+3.  De Kaderwet zelfstandige bestuursorganen is op het College van toepassing.   
 
 ### Artikel  3  
 
@@ -238,7 +255,7 @@ c. de geneesmiddelenbewaking overeenkomstig Hoofdstuk 8;
 
 d. het uitvoering geven aan verordeningen van de Raad van de Europese Unie, van de Raad en het Europees Parlement gezamenlijk of van de Commissie van de Europese Gemeenschappen die betrekking hebben op taken die bij of krachtens deze wet aan het College zijn toebedeeld, alsmede aan beschikkingen van de Raad of de Commissie die zijn gericht tot het College;  
 
-e. de werkzaamheden, bedoeld in [artikel 13m, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+e. de werkzaamheden, bedoeld in artikel 13m, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen;  
 
 f. in voorkomende gevallen deel uitmaken van de Nederlandse delegatie bij comités en organen van de Europese Unie;  
 
@@ -246,7 +263,7 @@ g. het op verzoek van de ter zake bevoegde autoriteit van een andere lidstaat be
 
 h. het desgevraagd verstrekken van wetenschappelijk advies over farmaceutische, preklinische en klinische proeven met geneesmiddelen aan de fabrikant of onderzoeker die aan het College het voornemen heeft geuit een handelsvergunning aan te vragen;  
 
-i. het op verzoek van een aangemelde instantie als bedoeld in artikel 16 van Richtlijn 93/42/EG van de Raad van 14 juni 1993 betreffende medische hulpmiddelen (PbEG L 169) geven van advies over de kwaliteit, de veiligheid en het nut van een geneesmiddel dat in een medisch hulpmiddel als bedoeld in [artikel 1 van de Wet op de medische hulpmiddelen](../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) als integrerend bestanddeel is verwerkt;  
+i. het op verzoek van een aangemelde instantie als bedoeld in artikel 16 van Richtlijn 93/42/EG van de Raad van 14 juni 1993 betreffende medische hulpmiddelen (PbEG L 169) geven van advies over de kwaliteit, de veiligheid en het nut van een geneesmiddel dat in een medisch hulpmiddel als bedoeld in artikel 1 van de Wet op de medische hulpmiddelen als integrerend bestanddeel is verwerkt;  
 
 j. het gevolg geven aan een verzoek van het Bureau om gegevens, bescheiden of andere vormen van informatie, gedaan krachtens verordening 726/2004, onderscheidenlijk aan een verzoek van de bevoegde instantie van een andere lidstaat om zodanige informatie, gedaan krachtens wetgeving van die lidstaat waarin het bij of krachtens richtlijn 2001/83 bepaalde is omgezet.     
 2.  Voor zover het College bij de werkzaamheden, verbonden aan de beoordeling van farmaceutisch-chemische, toxicologische of farmacologische aspecten van de aanvraag om een handelsvergunning, niet wordt ondersteund door het secretariaat, wordt de desbetreffende ondersteuning geboden door het Rijksinstituut voor volksgezondheid en milieu.   
@@ -257,11 +274,11 @@ Bij ministeriële regeling worden tarieven vastgesteld ter dekking van de kosten
 
 ### Artikel  13  
 
-Het College verstrekt desgevraagd aan het College voor zorgverzekeringen, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de inlichtingen die laatstgenoemd college redelijkerwijs nodig heeft voor het vormen van een oordeel in de gevallen waarin het door Onze Minister wordt gehoord over een aanvraag om een geneesmiddel aan te wijzen als behorende tot de farmaceutische zorg waarop aanspraak bestaat krachtens de wettelijke sociale ziektekostenverzekeringen.  
+Het College verstrekt desgevraagd aan het College voor zorgverzekeringen, bedoeld in artikel 58, eerste lid, van de Zorgverzekeringswet, de inlichtingen die laatstgenoemd college redelijkerwijs nodig heeft voor het vormen van een oordeel in de gevallen waarin het door Onze Minister wordt gehoord over een aanvraag om een geneesmiddel aan te wijzen als behorende tot de farmaceutische zorg waarop aanspraak bestaat krachtens de wettelijke sociale ziektekostenverzekeringen.  
 
 ### Artikel  17  
 
-[Afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op besluiten van het College waarmee gevolg wordt gegeven aan een beschikking van de Commissie als bedoeld in artikel 34, derde lid, van richtlijn 2001/83.  
+Afdeling 4.1.2 van de Algemene wet bestuursrecht is niet van toepassing op besluiten van het College waarmee gevolg wordt gegeven aan een beschikking van de Commissie als bedoeld in artikel 34, derde lid, van richtlijn 2001/83.  
 
 ### Hoofdstuk  3  
 
@@ -275,7 +292,7 @@ Het College verstrekt desgevraagd aan het College voor zorgverzekeringen, bedoel
 
 1.  Het is verboden om zonder vergunning van Onze Minister geneesmiddelen voor onderzoek te bereiden of in te voeren. Het is voorts verboden om zonder vergunning van Onze Minister andere geneesmiddelen dan die bedoeld in de eerste volzin, te bereiden, in te voeren, af te leveren of uit te voeren dan wel een groothandel te drijven. Het is tevens verboden om een groothandel te drijven in geneesmiddelen waarvoor geen handelsvergunning is verleend.   
 2.  Aan een vergunning kunnen, teneinde naleving van de bij of krachtens deze wet gestelde verplichtingen van de houder van de vergunning te verzekeren, voorschriften en beperkingen worden verbonden.   
-3.  Een vergunning voor het bereiden of invoeren van geneesmiddelen omvat tevens een vergunning voor het afleveren en uitvoeren van zelf bereide of ingevoerde geneesmiddelen. Onze Minister zendt een afschrift van een vergunning voor het bereiden of invoeren aan het Bureau. Onze Minister zendt voorts, desgevraagd, aan de Commissie of aan een andere lidstaat de relevante gegevens omtrent een door hem verleende vergunning voor het drijven van een groothandel.   
+3.  Een vergunning voor het bereiden of invoeren van geneesmiddelen omvat tevens een vergunning voor het afleveren en uitvoeren van zelf bereide of ingevoerde geneesmiddelen. Onze Minister voert informatie in met betrekking tot fabrikantenvergunningen en groothandelsvergunningen in de EudraGMP-databank. Onze Minister zendt voorts, desgevraagd, aan de Commissie of aan een andere lidstaat de relevante gegevens omtrent een door hem verleende vergunning voor het drijven van een groothandel.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het verlenen, wijzigen en intrekken van vergunningen als bedoeld in het eerste lid.   
 5.  Het eerste lid, tweede volzin, is niet van toepassing op het op kleine schaal bereiden van geneesmiddelen ten behoeve van terhandstelling in een apotheek door of in opdracht van een apotheker of van een in artikel 61, eerste lid, onder b, bedoelde huisarts.   
 6.  Het eerste lid is niet van toepassing op: 
@@ -283,7 +300,7 @@ Het College verstrekt desgevraagd aan het College voor zorgverzekeringen, bedoel
 a. het invoeren, uitvoeren of anderszins binnen of buiten het grondgebied van Nederland brengen van geneesmiddelen die kennelijk zijn bestemd voor eigen gebruik door de persoon die de desbetreffende geneesmiddelen vervoert;  
 
 b. het invoeren van geneesmiddelen door een fabrikant, groothandelaar of apotheker indien daarvoor op zijn aanvraag door het Staatstoezicht op de volksgezondheid ontheffing is verleend teneinde te kunnen voldoen aan een verzoek van een arts voor een bijzonder in de ontheffing aangegeven doel.     
-7.  Het verbod in het eerste lid, eerste volzin, is niet van toepassing op bereidingshandelingen met betrekking tot een geneesmiddel voor onderzoek die voorafgaan aan het gebruik door patiënten in het kader van een medisch-wetenschappelijk onderzoek als bedoeld in [artikel 1, eerste lid, onder b, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) in een instelling als bedoeld in de [Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) waarbij een apotheker is betrokken die met het oog op het gebruik door of de toediening aan proefpersonen de desbetreffende geneesmiddelen voor onderzoek gereed maakt voor zodanig gebruik of toediening.   
+7.  Het verbod in het eerste lid, eerste volzin, is niet van toepassing op bereidingshandelingen met betrekking tot een geneesmiddel voor onderzoek die voorafgaan aan het gebruik door patiënten in het kader van een medisch-wetenschappelijk onderzoek als bedoeld in artikel 1, eerste lid, onder b, van de Wet medisch-wetenschappelijk onderzoek met mensen in een instelling als bedoeld in de Wet toelating zorginstellingen waarbij een apotheker is betrokken die met het oog op het gebruik door of de toediening aan proefpersonen de desbetreffende geneesmiddelen voor onderzoek gereed maakt voor zodanig gebruik of toediening.   
 
 ### Artikel  19  
 
@@ -293,7 +310,7 @@ b. het invoeren van geneesmiddelen door een fabrikant, groothandelaar of apothek
 
 ### Artikel  20  
 
-Behoudens ingeval toepassing is gegeven aan [artikel 4:5 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), stelt Onze Minister de aanvrager binnen 90 dagen na de ontvangst van de aanvraag om een vergunning als bedoeld in artikel 18, eerste lid, eerste of tweede volzin, in kennis van zijn besluit.  
+Behoudens ingeval toepassing is gegeven aan artikel 4:5 van de Algemene wet bestuursrecht, stelt Onze Minister de aanvrager binnen 90 dagen na de ontvangst van de aanvraag om een vergunning als bedoeld in artikel 18, eerste lid, eerste of tweede volzin, in kennis van zijn besluit.  
 
 ### Artikel  21  
 
@@ -319,8 +336,8 @@ b. degene aan wie de vergunning is verleend, naar het oordeel van Onze Minister 
 
 ### Artikel  24  
 
-1.  Indien een vergunning wordt ingetrokken naar aanleiding van een melding door het bevoegde gezag van een andere lidstaat dat de houder van een vergunning als bedoeld in artikel 18, eerste lid, eerste of tweede volzin, een bij of krachtens dit hoofdstuk gestelde verplichting of een aan de vergunning verbonden voorschrift of beperking niet naleeft, deelt Onze Minister zodanig besluit mee aan het bevoegde gezag van de andere lidstaat, aan de Europese Commissie en aan het Europees Bureau.   
-2.  Indien Onze Minister na zodanige melding besluit geen maatregelen te treffen ten aanzien van de houder van de vergunning, worden aan het bevoegde gezag van de andere lidstaat, de Europese Commissie en het Europees Bureau de redenen van dat besluit meegedeeld.   
+1.  Indien een vergunning wordt ingetrokken naar aanleiding van een melding door het bevoegde gezag van een andere lidstaat dat de houder van een vergunning als bedoeld in artikel 18, eerste lid, eerste of tweede volzin, een bij of krachtens dit hoofdstuk gestelde verplichting of een aan de vergunning verbonden voorschrift of beperking niet naleeft, deelt Onze Minister zodanig besluit mee aan het bevoegde gezag van de andere lidstaat, aan de Europese Commissie en aan het Bureau.   
+2.  Indien Onze Minister na zodanige melding besluit geen maatregelen te treffen ten aanzien van de houder van de vergunning, worden aan het bevoegde gezag van de andere lidstaat, de Europese Commissie en het Bureau de redenen van dat besluit meegedeeld.   
 
 ### Artikel  25  
 
@@ -348,8 +365,14 @@ b. de controles worden uitgevoerd door of in opdracht van een persoon die voldoe
 
 ### Artikel  27  
 
-1.  De fabrikant draagt ervoor zorg dat het bereiden van geneesmiddelen geschiedt overeenkomstig bij ministeriële regeling vast te stellen voorschriften inzake goede praktijken bij de vervaardiging. Hij gebruikt uitsluitend werkzame stoffen als grondstoffen voor geneesmiddelen of bij de regeling aangewezen hulpstoffen die overeenkomstig voorschriften als bedoeld in de eerste volzin zijn bereid.   
-2.  Degene die werkzame stoffen als grondstoffen voor geneesmiddelen invoert, draagt ervoor zorg dat de werkzame stoffen in het derde land zijn vervaardigd overeenkomstig voorschriften die gelijkwaardig zijn aan de op de vervaardiging van grondstoffen betrekking hebbende voorschriften van de ministeriële regeling, bedoeld in het eerste lid.   
+1.  De fabrikant draagt ervoor zorg dat het bereiden van geneesmiddelen geschiedt overeenkomstig de bij ministeriële regeling aan te wijzen voorschriften inzake goede vervaardigingspraktijken van geneesmiddelen.   
+2.  De fabrikant draagt ervoor zorg dat uitsluitend werkzame stoffen worden gebruikt die vervaardigd en verhandeld zijn overeenkomstig de bij ministeriële regeling aan te wijzen voorschriften inzake goede vervaardigingspraktijken van werkzame stoffen, onderscheidenlijk voorschriften inzake goede distributiepraktijken van werkzame stoffen. Bij ministeriële regeling worden hiertoe nadere regels gesteld.   
+3.  De fabrikant gebruikt uitsluitend hulpstoffen die geschikt zijn voor gebruik in geneesmiddelen. Bij ministeriële regeling worden hiertoe nadere regels gesteld.   
+
+### Artikel  27a  
+
+1.  De fabrikant verifieert de authenticiteit en kwaliteit van de werkzame stoffen en hulpstoffen die hij gebruikt.   
+2.  De fabrikant meldt onmiddellijk alle informatie of vermoedens over vervalsingen van geneesmiddelen aan het Staatstoezicht op de volksgezondheid en de betreffende houder van de handelsvergunning.   
 
 ### Artikel  28  
 
@@ -365,10 +388,12 @@ d. indien een charge van geneesmiddelen, niet zijnde geneesmiddelen voor onderzo
 
 e. ervoor zorg te dragen dat de bereiding van elke charge van geneesmiddelen voor onderzoek alsmede de kwaliteitscontrole daarop in overeenstemming is met de eisen die daaromtrent zijn beschreven in de productspecificatie en in het onderzoeksdossier;  
 
-f. indien een charge van geneesmiddelen voor onderzoek is bereid dan wel ingevoerd, aan de hand van het verslag, bedoeld in het tweede lid, een document te ondertekenen waarin is vastgelegd dat de charge voldoet aan de onder e bedoelde eisen.     
+f. indien een charge van geneesmiddelen voor onderzoek is bereid dan wel ingevoerd, aan de hand van het verslag, bedoeld in het tweede lid, een document te ondertekenen waarin is vastgelegd dat de charge voldoet aan de onder e bedoelde eisen;  
+
+g. ervoor zorg te dragen dat veiligheidskenmerken als bedoeld in artikel 69, eerste lid, worden aangebracht op de verpakking van geneesmiddelen die bestemd zijn om in de handel te worden gebracht.     
 2.  De fabrikant draagt ervoor zorg dat de personen, bedoeld in het eerste lid, de taken waarmee zij zijn belast naar behoren uitoefenen en verslag maken van hun bevindingen bij de uitvoering daarvan.   
 3.  Indien de fabrikant een natuurlijke persoon is die voldoet aan de krachtens artikel 29 vastgestelde eisen van vakbekwaamheid met betrekking tot de in het eerste en tweede lid bedoelde taken en zelf zodanige taken verricht, is de verplichting om anderen daarmee te belasten niet van toepassing.   
-4.  De verplichting tot het verrichten van de in het eerste lid, onder c, bedoelde analyses, proeven en controles geldt niet indien in het derde land waarin de bereiding van het geneesmiddel heeft plaatsgevonden, zodanige proeven, analyses en controles zijn uitgevoerd en er tussen de Europese Gemeenschap en het derde land een overeenkomst is gesloten, inhoudende dat elk der partijen de voor de andere partij geldende voorschriften inzake goede praktijken bij de vervaardiging als gelijkwaardig erkent. Onze Minister draagt ervoor zorg dat zodanige overeenkomsten in de Staatscourant bekend worden gemaakt.   
+4.  De verplichting tot het verrichten van de in het eerste lid, onder c, bedoelde analyses, proeven en controles geldt niet indien in het derde land waarin de bereiding van het geneesmiddel heeft plaatsgevonden, zodanige proeven, analyses en controles zijn uitgevoerd en er tussen de Europese Gemeenschap en het derde land een overeenkomst is gesloten, inhoudende dat elk der partijen de voor de andere partij geldende voorschriften inzake goede vervaardigingspraktijken van geneesmiddelen als gelijkwaardig erkent. Onze Minister draagt ervoor zorg dat zodanige overeenkomsten in de Staatscourant bekend worden gemaakt.   
 5.  Het eerste lid, onder d onderscheidenlijk onder f, is niet van toepassing op de gedeeltelijke bereiding van een geneesmiddel.   
 6.  Charges van bij ministeriële regeling aangewezen geneesmiddelen die in Nederland zijn bereid dan wel zijn ingevoerd, worden eerst afgeleverd nadat een bij ministeriële regeling aangewezen persoon of instantie heeft vastgesteld dat aan de in het eerste lid, onder b en c, onderscheidenlijk onder e, bedoelde eisen is voldaan. Bij de regeling worden regels gesteld ter zake van de gegevens die moeten worden overgelegd om een onderzoek als bedoeld in de eerste volzin, te kunnen uitvoeren en ter zake van de vergoeding die voor de uitvoering van zodanig onderzoek verschuldigd is. De hoogte van de vergoeding kan voor verschillende categorieën van geneesmiddelen verschillend worden vastgesteld.   
 
@@ -412,7 +437,7 @@ Indien de fabrikant geneesmiddelen aflevert aan degenen die ter hand stellen, dr
 1.  Geneesmiddelen worden door de fabrikant slechts afgeleverd aan andere fabrikanten, groothandelaren en aan degenen die bevoegd zijn de desbetreffende geneesmiddelen ter hand te stellen.   
 2.  In afwijking van het eerste lid, worden geneesmiddelen voor onderzoek door de fabrikant slechts afgeleverd aan: 
 
-a. degene die een medisch-wetenschappelijk onderzoek verricht als bedoeld in [artikel 1, eerste lid, onder f, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md), en die over een apotheek beschikt waarin een apotheker werkzaam is;  
+a. degene die een medisch-wetenschappelijk onderzoek verricht als bedoeld in artikel 1, eerste lid, onder f, van de Wet medisch-wetenschappelijk onderzoek met mensen, en die over een apotheek beschikt waarin een apotheker werkzaam is;  
 
 b. een apotheker die staat ingeschreven in het register van gevestigde apothekers als bedoeld in artikel 61, vijfde lid, en die door degene die een onderzoek als bedoeld onder a, verricht, anders dan op basis van een dienstverband is betrokken bij dat onderzoek.     
 
@@ -427,42 +452,60 @@ b. een apotheker die staat ingeschreven in het register van gevestigde apotheker
 
 ### Artikel  36  
 
-1.  De groothandelaar draagt ervoor zorg dat de opslag en de distributie van geneesmiddelen geschieden overeenkomstig de bij ministeriële regeling vast te stellen voorschriften inzake goede distributiepraktijken. Ter uitvoering van deze taak beschikt hij over een persoon die een daarvoor geaccrediteerde opleiding met goed gevolg heeft afgerond.   
+1.  De groothandelaar draagt ervoor zorg dat de inkoop, opslag en de verhandeling van geneesmiddelen geschiedt overeenkomstig de bij ministeriële regeling aan te wijzen voorschriften inzake goede distributiepraktijken van geneesmiddelen en handelt overeenkomstig de artikelen 80 en 82 van richtlijn 2001/83. Ter uitvoering van deze taak beschikt hij over een persoon die een daarvoor geaccrediteerde opleiding met goed gevolg heeft afgerond.   
 2.  De groothandelaar draagt er voorts voor zorg dat hij over een zodanig assortiment en een zodanige voorraad van geneesmiddelen beschikt dat hij snel kan voldoen aan de vraag naar geneesmiddelen van degenen die bevoegd zijn geneesmiddelen ter hand te stellen.   
 3.  Het eerste lid, tweede volzin, is niet van toepassing indien de groothandelaar een natuurlijke persoon is die zelf gekwalificeerd is om de taak, bedoeld in het eerste lid, uit te voeren en dat ook doet.   
+4.  Indien de groothandelaar niet tevens de houder van de handelsvergunning is, stelt hij de houder van de handelsvergunning en de bevoegde autoriteit van de lidstaat van bestemming in kennis van zijn voorgenomen groothandelsactiviteiten. Indien de handelsvergunning is verleend krachtens verordening 726/2004, stelt hij tevens het Bureau daarvan op de hoogte.   
 
 ### Artikel  37  
 
-De groothandelaar beschikt over een plan waardoor de tenuitvoerlegging wordt gewaarborgd van een actie tot het uit de handel nemen van een geneesmiddel op bevel van het Staatstoezicht op de volksgezondheid als bedoeld in artikel 115, onder b of op verzoek van de fabrikant of de houder van de handelsvergunning.  
+1.  De groothandelaar gaat na of sprake is van een vervalst geneesmiddel door de veiligheidskenmerken, bedoeld in artikel 69, eerste lid, te controleren overeenkomstig bij ministeriële regeling te stellen regels.   
+2.  Indien de groothandelaar een vervalst geneesmiddel identificeert, althans een vermoeden heeft dat er sprake is van een vervalst geneesmiddel, stelt hij het Staatstoezicht op de volksgezondheid en de houder van de handelsvergunning onmiddellijk daarvan in kennis.   
+3.  Geneesmiddelen worden door de groothandelaar slechts afgeleverd aan andere groothandelaars en aan degenen die bevoegd zijn de desbetreffende geneesmiddelen ter hand te stellen.   
+
+### Hoofdstuk  3a  
+
+####Fabrikanten en groothandelaars van werkzame stoffen
 
 ### Artikel  38  
 
-1.  De groothandelaar houdt een administratie bij waarin ter zake van elke inkoop of verkoop van geneesmiddelen de volgende gegevens zijn opgenomen: 
+1.  Het is verboden om zonder registratie werkzame stoffen te bereiden, in te voeren, af te leveren, uit te voeren, dan wel te verhandelen.   
+2.  Registratie als bedoeld in het eerste lid vindt plaats door middel van inschrijving in een door Onze Minister bijgehouden register door middel van een door Onze Minister beschikbaar te stellen registratieformulier. Over de registratie en het toegankelijk maken van registratiegegevens ter uitvoering van richtlijn 2001/83 worden bij ministeriële regeling nadere regels gesteld.   
 
-a. de datum van de desbetreffende inkoop of verkoop;  
+### Artikel  38a  
 
-b. de naam, de sterkte en de verpakkingsgrootte van het geneesmiddel;  
+1.  Onze Minister bevestigt de datum van ontvangst van het registratieformulier, bedoeld in artikel 38, tweede lid.   
+2.  De fabrikant of groothandelaar van werkzame stoffen vangt niet eerder aan met een activiteit als bedoeld in artikel 38, eerste lid, dan 60 dagen na de datum van ontvangst, bedoeld in het eerste lid.   
+3.  Onverminderd het bepaalde in hoofdstuk 11 van deze wet, kan het Staatstoezicht op de volksgezondheid op basis van een risicobeoordeling een inspectie naar aanleiding van het registratieformulier, bedoeld in het eerste lid, uitvoeren. Indien tot laatstgenoemde inspectie wordt besloten, stelt Onze Minister de fabrikant of groothandelaar van werkzame stoffen daarvan in kennis binnen 60 dagen na de datum van ontvangst, bedoeld in het eerste lid. In afwijking van het tweede lid vangt de fabrikant of groothandelaar niet aan met de desbetreffende activiteit dan nadat Onze Minister daartoe uitdrukkelijk toestemming heeft verleend.   
 
-c. de door hem ontvangen en de door hem afgeleverde hoeveelheid van het geneesmiddel en het daarbij behorende chargenummer;  
+### Artikel  38b  
 
-d. de naam en het adres van degene aan wie hij het geneesmiddel heeft afgeleverd en van degene van wie hij het heeft ontvangen.     
-2.  De in het eerste lid bedoelde gegevens worden ten minste vijf jaren bewaard, te rekenen vanaf de datum waarop zij zijn aangetekend.   
+1.  De fabrikant of groothandelaar van werkzame stoffen draagt ervoor zorg dat het bereiden, invoeren, afleveren, uitvoeren, dan wel verhandelen geschiedt overeenkomstig de bij ministeriële regeling aan te wijzen voorschriften inzake goede vervaardigingspraktijken van werkzame stoffen, onderscheidenlijk de voorschriften inzake goede distributiepraktijken van werkzame stoffen.   
+2.  De fabrikant van werkzame stoffen neemt bij de invoer van werkzame stoffen artikel 46ter, tweede en derde lid, van richtlijn 2001/83 in acht.   
+3.  Van het bepaalde in het tweede lid kan Onze Minister ontheffing verlenen volgens bij ministeriële regeling te stellen regels.   
+
+### Artikel  38c  
+
+1.  De fabrikant of groothandelaar van werkzame stoffen verstrekt jaarlijks aan Onze Minister een overzicht van wijzigingen die hebben plaatsgevonden in de gegevens die hij bij registratie heeft verstrekt.   
+2.  In afwijking van het tweede lid meldt de fabrikant of groothandelaar van werkzame stoffen wijzigingen die gevolgen kunnen hebben voor de kwaliteit of veiligheid van de betreffende werkzame stoffen onmiddellijk aan Onze Minister.   
+
+### Artikel  38d  
+
+Indien de fabrikant of groothandelaar van werkzame stoffen niet voldoet aan het bepaalde bij of krachtens dit hoofdstuk, kan Onze Minister de registratie, bedoeld in artikel 38, doorhalen.  
+
+### Hoofdstuk  3b  
+
+####Bemiddelaars
 
 ### Artikel  39  
 
-1.  Geneesmiddelen worden door de groothandelaar slechts ingekocht bij andere groothandelaren, fabrikanten of degenen die in een andere lidstaat een vergunning tot het bereiden of invoeren van geneesmiddelen dan wel tot het drijven van een groothandel hebben verkregen van de daartoe bevoegde autoriteit.   
-2.  Geneesmiddelen worden door de groothandelaar slechts afgeleverd aan andere groothandelaren en aan degenen die bevoegd zijn de desbetreffende geneesmiddelen ter hand te stellen.   
-3.  Bij elke aflevering van geneesmiddelen aan een apotheker of aan een huisarts als bedoeld in artikel 61, eerste lid, onder b, worden door de groothandelaar documenten bijgevoegd waarin de volgende gegevens voorkomen: 
+1.  Het is verboden om zonder registratie te bemiddelen in geneesmiddelen.   
+2.  Registratie als bedoeld in het eerste lid vindt plaats door inschrijving in een door Onze Minister bijgehouden register door middel van een door Onze Minister beschikbaar te stellen registratieformulier. Over de registratie en het toegankelijk maken van registratiegegevens ter uitvoering van richtlijn 2001/83 worden bij ministeriële regeling nadere regels gesteld.   
 
-a. zijn naam en adres;  
+### Artikel  39a  
 
-b. datum van de aflevering;  
-
-c. de naam en de farmaceutische vorm van het geneesmiddel;  
-
-d. de geleverde hoeveelheid;  
-
-e. de naam en het adres van de betrokken apotheker of huisarts.     
+1.  Onverminderd het bepaalde in hoofdstuk 11, neemt de bemiddelaar bij zijn werkzaamheden artikel 85ter, eerste lid, van richtlijn 2001/83 in acht en leeft de bij ministeriële regeling aan te wijzen voorschriften inzake goede distributiepraktijken van geneesmiddelen na.   
+2.  Indien de bemiddelaar niet voldoet aan het bepaalde in het eerste lid, kan Onze Minister de registratie, bedoeld in artikel 39, tweede lid, doorhalen.   
 
 ### Hoofdstuk  4  
 
@@ -502,7 +545,7 @@ h. indien het een geneesmiddel betreft dat wordt ingevoerd of uitgevoerd door ee
 ### Artikel  41  
 
 1.  Onverminderd het tweede lid, kan, met uitzondering van de Staat der Nederlanden, niemand aansprakelijk worden gesteld voor de schade aan de gezondheid van een persoon indien Onze Minister het gebruik van een geneesmiddel voor een indicatie die niet is opgenomen in het dossier op grond waarvan de handelsvergunning is verleend, dan wel van een geneesmiddel waarvoor geen handelsvergunning geldt, heeft aanbevolen of daarom dringend heeft verzocht, teneinde een vermeende of geconstateerde verspreiding van een ziekteverwekker, gifstof, chemisch agens of nucleaire straling die schadelijk kan zijn voor de volksgezondheid, tegen te gaan.   
-2.  De Staat de Nederlanden is niet aansprakelijk voor de schade van het gebruik van een geneesmiddel op de voet van het bepaalde in het eerste lid, voor zover er voor het desbetreffende geneesmiddel aansprakelijkheid geldt in de zin van de [artikelen 185 tot en met 193 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+2.  De Staat de Nederlanden is niet aansprakelijk voor de schade van het gebruik van een geneesmiddel op de voet van het bepaalde in het eerste lid, voor zover er voor het desbetreffende geneesmiddel aansprakelijkheid geldt in de zin van de artikelen 185 tot en met 193 van Boek 6 van het Burgerlijk Wetboek.   
 
 ### Artikel  42  
 
@@ -559,7 +602,7 @@ b. bij beslissing van het College, de bevoegde autoriteit van een andere lidstaa
 
 ### Artikel  44  
 
-1.  Het College bevestigt de ontvangst van een aanvraag om een handelsvergunning of van een aanvulling daarop als bedoeld in [artikel 4:5 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), schriftelijk binnen een week.   
+1.  Het College bevestigt de ontvangst van een aanvraag om een handelsvergunning of van een aanvulling daarop als bedoeld in artikel 4:5 van de Algemene wet bestuursrecht, schriftelijk binnen een week.   
 2.  Het College neemt binnen 210 dagen na ontvangst van een aanvraag een besluit of een handelsvergunning wordt verleend. Deze termijn wordt opgeschort gedurende een door het College gestelde termijn waarbinnen de aanvrager de gelegenheid heeft door het College verlangde aanvullende gegevens over te leggen.   
 3.  Bij ministeriële regeling worden, met het oog op de volgtijdelijke of de gelijktijdige verlening van een handelsvergunning voor hetzelfde geneesmiddel in meer dan één lidstaat, regels gesteld met betrekking tot de door de aanvrager en het College te volgen procedure. De termijn van 210 dagen, bedoeld in het tweede lid, is niet van toepassing.   
 4.  Indien bij het College een aanvraag om een handelsvergunning is ingediend en het College constateert dat in een andere lidstaat reeds een aanvraag om een handelsvergunning voor hetzelfde geneesmiddel in behandeling is, staakt hij de behandeling en deelt de aanvrager mede dat de procedure, bedoeld in het derde lid, van toepassing is.   
@@ -684,7 +727,9 @@ g. niet aan voorschriften gesteld krachtens artikel 45a of 45b is voldaan,
 
 h. de houder van de handelsvergunning de in hoofdstuk 8 neergelegde verplichtingen niet nakomt, of  
 
-i. indien de coördinatiegroep zulks op grond van artikel 107octies van richtlijn 2001/83 heeft besloten.     
+i. indien de coördinatiegroep zulks op grond van artikel 107octies van richtlijn 2001/83 heeft besloten,  
+
+j. indien de bereiding of kwaliteitscontrole door de fabrikant niet in overeenstemming is met de eisen zoals beschreven in het dossier op grond waarvan de desbetreffende handelsvergunning is verleend.     
 2.  Indien werkzame bestanddelen van een kruidengeneesmiddel als bedoeld in artikel 42, achtste lid, worden afgevoerd van de door het Comité voor kruidengeneesmiddelen opgestelde lijst van zodanige bestanddelen, trekt het College de desbetreffende handelsvergunning voor een traditioneel kruidengeneesmiddel in.   
 3.  Het College trekt een handelsvergunning in op schriftelijk verzoek van de houder.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het verlenen, wijzigen, schorsen en intrekken van een handelsvergunning.   
@@ -753,9 +798,9 @@ c. een substantie of bereiding daarvan bevat die vanwege haar nieuwheid nader mo
 d. bestemd is voor parenterale toediening.     
 2.  Het College kan besluiten dat een handelsvergunning voor een UR-geneesmiddel wordt verleend onder de voorwaarde dat het: 
 
-a. uitsluitend ter hand mag worden gesteld of mag worden toegediend in een krachtens [artikel 5 van de Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) als algemeen onderscheidenlijk als psychiatrisch ziekenhuis aangewezen instelling, of  
+a. uitsluitend ter hand mag worden gesteld of mag worden toegediend in een krachtens artikel 5 van de Wet toelating zorginstellingen als algemeen onderscheidenlijk als psychiatrisch ziekenhuis aangewezen instelling, of  
 
-b. uitsluitend mag worden voorgeschreven door een arts of een tandarts die is ingeschreven in een door het College aangewezen, krachtens [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingesteld register van medische onderscheidenlijk tandheelkundige specialisten.     
+b. uitsluitend mag worden voorgeschreven door een arts of een tandarts die is ingeschreven in een door het College aangewezen, krachtens artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg ingesteld register van medische onderscheidenlijk tandheelkundige specialisten.     
 
 ### Artikel  58  
 
@@ -793,13 +838,13 @@ c. daartoe bij ministeriële regeling aangewezen personen en instanties in de in
 3.  De apotheker of de apotheekhoudend arts mag de artsenijbereidkunst slechts in één apotheek uitoefenen.   
 4.  Bij afwezigheid van de apotheker voorziet hij binnen de beroepsgroep in waarneming.   
 5.  De apothekers die in een apotheek hun beroep uitoefenen, zijn evenwel niet bevoegd tot het ter hand stellen van UR-geneesmiddelen dan nadat degene onder hen die belast is met de leiding van de apotheek, op hun verzoek, is ingeschreven in het door het Staatstoezicht op de volksgezondheid ingestelde register van gevestigde apothekers. In het register wordt aangetekend op welk adres de apotheek is gevestigd.   
-6.  Een inschrijving in het register van gevestigde apothekers wordt geweigerd indien de aanvrager niet is ingeschreven in het krachtens [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van apothekers dan wel zijn inschrijving in dat register is geschorst. De inschrijving wordt eveneens geweigerd indien de betrokken apotheker reeds voor een andere apotheek in het register staat ingeschreven.   
-7.  De inschrijving in het register van gevestigde apothekers vervalt van rechtswege indien betrokkene niet meer staat ingeschreven in het krachtens [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van apothekers. De inschrijving wordt doorgehaald indien de betrokkene daarom verzoekt.   
+6.  Een inschrijving in het register van gevestigde apothekers wordt geweigerd indien de aanvrager niet is ingeschreven in het krachtens artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg ingestelde register van apothekers dan wel zijn inschrijving in dat register is geschorst. De inschrijving wordt eveneens geweigerd indien de betrokken apotheker reeds voor een andere apotheek in het register staat ingeschreven.   
+7.  De inschrijving in het register van gevestigde apothekers vervalt van rechtswege indien betrokkene niet meer staat ingeschreven in het krachtens artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg ingestelde register van apothekers. De inschrijving wordt doorgehaald indien de betrokkene daarom verzoekt.   
 8.  Aan beroepsbeoefenaren als bedoeld in artikel 1, eerste lid, onder ll, en derde lid, worden geneesmiddelen slechts ter hand gesteld na ontvangst van een daartoe strekkend schriftelijk verzoek dat is ondertekend. Het verzoek vermeldt de naam, het adres en de hoedanigheid van de verzoeker alsmede de naam en de hoeveelheid van het geneesmiddel.   
 9.  Het is de apotheker die in een apotheek werkt verboden een UR-geneesmiddel ter hand te stellen zonder dat een recept is overgelegd. Hij is evenwel bevoegd in spoedgevallen een UR-geneesmiddel ter hand te stellen zonder dat een recept wordt overgelegd, indien hij zich voldoende zekerheid heeft verschaft dat gevaar voor misbruik niet kan ontstaan.   
 10.  Onze Minister verleent desgevraagd aan een huisarts die de geneeskundige praktijk uitoefent in een aaneengesloten gebied, een vergunning tot het bereiden en het ter hand stellen van UR- of UA-geneesmiddelen aan patiënten van zijn praktijk, indien de afstand tussen de meest dichtbij dat gebied gevestigde apotheker en de in dat gebied meest dichtbij die apotheek wonende potentiële patiënt ten minste 4,5 kilometer is gemeten over de voor het gemotoriseerde verkeer bestemde weg. Indien de in de eerste volzin bedoelde afstand minder dan 4,5 kilometer is, maar meer dan 3,5 kilometer, verleent Onze Minister de vergunning indien dit in het belang is van de geneesmiddelenvoorziening.   
 11.  Onze Minister verleent aan de huisarts die de geneeskundige praktijk uitoefent gezamenlijk met een huisarts aan wie een vergunning als bedoeld in het tiende lid is verleend, desgevraagd, een vergunning om UR- of UA-geneesmiddelen ten behoeve van de patiënten die hij behandelt, te bereiden en aan hen ter hand te stellen in de apotheek van de huisarts met wie hij de praktijk uitoefent.   
-12.  Een vergunning als bedoeld in het tiende lid vervalt van rechtswege indien de vergunninghouder de geneeskundige praktijk beëindigt dan wel niet meer staat ingeschreven in het krachtens [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van artsen.   
+12.  Een vergunning als bedoeld in het tiende lid vervalt van rechtswege indien de vergunninghouder de geneeskundige praktijk beëindigt dan wel niet meer staat ingeschreven in het krachtens artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg ingestelde register van artsen.   
 13.  Onze Minister trekt een vergunning als bedoeld in het tiende lid in indien de grond van de verlening daarvan is vervallen.   
 14.  Een vergunning als bedoeld in het elfde lid vervalt van rechtswege indien de huisarts met wie de houder van die vergunning gezamenlijk de praktijk uitoefent, niet meer over een vergunning als bedoeld in het tiende lid beschikt.   
 
@@ -823,7 +868,7 @@ b. degene aan wie een UAD-geneesmiddel ter hand wordt gesteld, op duidelijke wij
 c. uitsluitend een drogist of een assistent-drogist de in onderdeel b bedoelde voorlichting mag geven, en  
 
 d. in het verkooppunt voldoende drogisten en assistent-drogisten aanwezig zijn die klanten deze voorlichting kunnen geven.     
-3.  Onverminderd hetgeen elders in deze wet is bepaald, is het eenieder verboden AV-geneesmiddelen te koop aan te bieden of ter hand te stellen, met uitzondering van de in het eerste lid, onder a, b, c en d bedoelde personen of instanties, alsmede met uitzondering van degenen die in de uitoefening van een bedrijf verkoopactiviteiten verrichten en daartoe zijn ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/1996/BWBR0007893/README.md).   
+3.  Onverminderd hetgeen elders in deze wet is bepaald, is het eenieder verboden AV-geneesmiddelen te koop aan te bieden of ter hand te stellen, met uitzondering van de in het eerste lid, onder a, b, c en d bedoelde personen of instanties, alsmede met uitzondering van degenen die in de uitoefening van een bedrijf verkoopactiviteiten verrichten en daartoe zijn ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007.   
 
 ### Artikel  63  
 
@@ -840,7 +885,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld voor de geneesmi
 ### Artikel  66  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het bereiden en het ter hand stellen van geneesmiddelen in de apotheek.   
-2.  De apothekers en de apotheekhoudende huisartsen dragen ervoor zorg dat recepten, geneesmiddelen, stoffen voor de bereiding van geneesmiddelen, en middelen als bedoeld in lijst I of lijst II van de [Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md), niet zijnde geneesmiddelen, worden bewaard overeenkomstig bij ministeriële regeling te stellen regels.   
+2.  De apothekers en de apotheekhoudende huisartsen dragen ervoor zorg dat recepten, geneesmiddelen, stoffen voor de bereiding van geneesmiddelen, en middelen als bedoeld in lijst I of lijst II van de Opiumwet, niet zijnde geneesmiddelen, worden bewaard overeenkomstig bij ministeriële regeling te stellen regels.   
 
 ### Artikel  66a  
 
@@ -855,6 +900,16 @@ b. de wijze van verstrekking van de laboratoriumgegevens aan de apotheker.
 
 Het is een ieder verboden via internet geneesmiddelen voor te schrijven aan personen die de voorschrijver nog nooit persoonlijk heeft ontmoet, of die de voorschrijver niet kent of van wie de voorschrijver de medicatiehistorie niet beschikbaar heeft.  
 
+### Artikel  67a  
+
+1.  Onverminderd het bepaalde in artikelen 61, 62 en 67, is het verboden om geneesmiddelen op afstand te koop aanbieden of ter hand te stellen anders dan volgens de bij ministeriële regeling te stellen regels ter uitvoering van richtlijn 2001/83.   
+2.  Ter zake van het op afstand te koop aanbieden of ter hand stellen van geneesmiddelen kunnen ter bescherming van de volksgezondheid bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.   
+
+### Artikel  67b  
+
+1.  Onze Minister draagt zorg voor een nationale website over de verkoop op afstand van geneesmiddelen. Bij ministeriële regeling worden ter uitvoering van richtlijn 2001/83 regels gesteld over de informatievoorziening via deze website.   
+2.  In samenwerking met de Commissie en het Bureau organiseert of bevordert Onze Minister informatiecampagnes over de gevaren van vervalste geneesmiddelen.   
+
 ### Artikel  68  
 
 1.  Het buiten de door het College geregistreerde indicaties voorschrijven van geneesmiddelen is alleen geoorloofd wanneer daarover binnen de beroepsgroep protocollen of standaarden zijn ontwikkeld. Als de protocollen en standaarden nog in ontwikkeling zijn, is overleg tussen de behandelend arts en apotheker noodzakelijk.   
@@ -866,201 +921,22 @@ Het is een ieder verboden via internet geneesmiddelen voor te schrijven aan pers
 
 ### Artikel  69  
 
-1.  Op de buitenverpakking of, indien die ontbreekt, op de primaire verpakking van een geneesmiddel, niet zijnde een geneesmiddel voor onderzoek of voor geavanceerde therapie dan wel een in een apotheek bereid geneesmiddel, worden de volgende gegevens vermeld: 
-
-a. de naam van het geneesmiddel, in gewone letters en in braille, gevolgd door de sterkte en de farmaceutische vorm alsmede, voor zover van toepassing, de vermelding zuigelingen, kinderen of volwassenen;  
-
-b. indien het geneesmiddel niet meer dan drie werkzame bestanddelen bevat, de internationale generieke benaming of, indien deze niet bestaat, de algemene benaming;  
-
-c. de kwalitatieve en kwantitatieve samenstelling aan werkzame bestanddelen per doseringseenheid of, afhankelijk van de toedieningsvorm, voor een bepaald volume of gewicht, waarbij de algemene benamingen worden gebruikt;  
-
-d. de farmaceutische vorm en de inhoud uitgedrukt in gewicht, volume of doseringseenheden;  
-
-e. een opgave van de in het geneesmiddel aanwezige hulpstoffen met een bekende werking of een bekend effect, met dien verstande dat, indien er sprake is van een injecteerbaar geneesmiddel of een geneesmiddel bestemd voor lokaal gebruik of oogheelkundig gebruik, alle hulpstoffen worden vermeld;  
-
-f. de wijze van gebruik en, in daarvoor in aanmerking komende gevallen, de toedieningsweg, waarbij ruimte wordt vrijgelaten voor vermelding van de dosering door de apotheker of de apotheekhoudende huisarts;  
-
-g. een speciale waarschuwing dat het geneesmiddel buiten het bereik en het zicht van kinderen dient te worden gehouden;  
-
-h. een speciale waarschuwing indien dat voor het gebruik van het geneesmiddel kennelijk noodzakelijk is;  
-
-i. een in begrijpelijke woorden gestelde aanduiding van de uiterste gebruiksdatum met de vermelding van maand en jaartal;  
-
-j. de wijze waarop het geneesmiddel bewaard dient te worden;  
-
-k. de voorzorgsmaatregelen die getroffen dienen te worden bij het verwijderen van niet-gebruikte geneesmiddelen of van zodanige geneesmiddelen afgeleide afvalstoffen en eventueel bestaande inzamelingssystemen;  
-
-l. naam en adres van de houder van de handelsvergunning en, voor zover van toepassing, de naam van de door de houder van de handelsvergunning aangewezen vertegenwoordiger;  
-
-m. het nummer van de handelsvergunning;  
-
-n. het chargenummer;  
-
-o. of het een UR-, een UA-, een UAD- of een AV-geneesmiddel is;  
-
-p. een vermelding dat vóór gebruik de bijsluiter geraadpleegd dient te worden;  
-
-q. een gebruiksaanwijzing indien het een UA-, UAD- of een AV-geneesmiddel is.     
-2.  Op de buitenverpakking worden andere gegevens dan die, bedoeld in eerste lid, slechts aangebracht indien het gaat om: 
-
-a. tekens of pictogrammen ter verduidelijking van de in het eerste lid bedoelde gegevens;  
-
-b. andere gegevens, mits deze niet strijdig zijn met de goedgekeurde samenvatting van de kenmerken van het geneesmiddel en nuttig zijn voor de patiënt, een en ander met uitzondering van vermeldingen ter aanprijzing van het geneesmiddel;  
-
-c. gegevens ter identificatie of ter vaststelling van de authenticiteit van het geneesmiddel;  
-
-d. de prijs van het geneesmiddel of de van toepassing zijnde vergoedingsregeling.     
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de in het tweede lid, onder b, c en d, bedoelde gegevens.   
+1.  De fabrikant zorgt voor de etikettering van een geneesmiddel, niet zijnde een geneesmiddel voor onderzoek of voor geavanceerde therapie, dan wel een in een apotheek bereid geneesmiddel, waaronder begrepen het aanbrengen van veiligheidskenmerken als bedoeld in artikel 54, onderdeel o, van richtlijn 2001/83, met inachtneming van de bij ministeriële regeling te stellen regels.   
+2.  De fabrikant draagt tevens zorg voor de aanwezigheid van een bijsluiter in de verpakking van een geneesmiddel, niet zijnde een geneesmiddel voor onderzoek of voor geavanceerde therapie, dan wel een in een apotheek bereid geneesmiddel, met inachtneming van de bij ministeriële regeling te stellen regels.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter zake van de etikettering van geneesmiddelen voor onderzoek, respectievelijk geneesmiddelen die in een apotheek bereid zijn.   
+4.  Het College kan ontheffing verlenen van het bij of krachtens dit hoofdstuk gestelde volgens bij ministeriële regeling te stellen regels.   
 
 ### Artikel  70  
 
-1.  In afwijking van artikel 69, eerste lid, kan op een primaire blisterverpakking die geplaatst is in een buitenverpakking die voldoet aan artikel 69, worden volstaan met de volgende gegevens: 
-
-a. de naam van het geneesmiddel, gevolgd door de sterkte en de farmaceutische vorm en, voor zover van toepassing, de vermelding zuigelingen, kinderen of volwassenen;  
-
-b. indien het geneesmiddel niet meer dan drie werkzame bestanddelen bevat, de internationale generieke benaming of, indien deze niet bestaat, de algemene benaming;  
-
-c. de naam van de houder van de handelsvergunning;  
-
-d. de uiterste gebruiksdatum;  
-
-e. het chargenummer.     
-2.  In afwijking van artikel 69, eerste lid, kan op een primaire verpakking die zo klein is dat het niet mogelijk is daarop de in die bepaling bedoelde gegevens aan te brengen, worden volstaan met de volgende gegevens: 
-
-a. de naam van het geneesmiddel, gevolgd door de sterkte en de farmaceutische vorm en, voor zover van toepassing, de vermelding zuigelingen, kinderen of volwassenen en, in daarvoor in aanmerking komende gevallen, de toedieningsweg;  
-
-b. indien het geneesmiddel niet meer dan drie werkzame bestanddelen bevat, de internationale generieke benaming of, indien deze niet bestaat, de algemene benaming;  
-
-c. de wijze van gebruik;  
-
-d. de uiterste gebruiksdatum;  
-
-e. het chargenummer;  
-
-f. de inhoud, uitgedrukt in gewicht, volume of eenheden.     
+Het Staatstoezicht op de volksgezondheid stelt de Commissie in kennis van niet-receptplichtige geneesmiddelen met een risico op vervalsing en kan de Commissie inlichten over geneesmiddelen waarover op basis van de criteria, bedoeld in artikel 54bis, tweede lid, onderdeel b, van richtlijn 2001/83, geoordeeld kan worden dat er geen risico op vervalsing bestaat.  
 
 ### Artikel  71  
 
-1.  De verpakking van een geneesmiddel, niet zijnde een geneesmiddel voor onderzoek of een in een apotheek bereid geneesmiddel, bevat een bijsluiter. Deze verplichting geldt niet indien de gegevens, bedoeld in het tweede lid, op de buitenverpakking of op de primaire verpakking zijn aangebracht.   
-2.  De bijsluiter, niet zijnde die van een geneesmiddel voor geavanceerde therapie, wordt opgesteld overeenkomstig de samenvatting van de kenmerken van het geneesmiddel en bevat in onderstaande volgorde de volgende gegevens: 
-
-a. de naam van het geneesmiddel, gevolgd door de sterkte en de farmaceutische vorm en, voor zover van toepassing, de vermelding zuigelingen, kinderen of volwassen;  
-
-b. de algemene benaming, indien het geneesmiddel slechts één werkzame stof bevat en de naam van het geneesmiddel een fantasienaam is;  
-
-c. de farmacotherapeutische groep of het soort werking, in voor de patiënt gemakkelijk te begrijpen bewoordingen;  
-
-d. de therapeutische indicaties;  
-
-e. contra-indicaties, de nodige voorzorgsmaatregelen bij gebruik, interacties met andere geneesmiddelen of andere stoffen die de werking van het geneesmiddel kunnen beïnvloeden en speciale waarschuwingen, waarbij: 
-
-1°. rekening wordt gehouden met de bijzondere situatie van bepaalde gebruikersgroepen, waaronder begrepen zwangere of lacterende vrouwen, kinderen, bejaarden en lijders aan een specifieke ziekte;  
-
-2°. de effecten van het gebruik op de rijvaardigheid of op het vermogen om bepaalde machines te bedienen worden vermeld;  
-
-3°. de lijst van hulpstoffen wordt vermeld waarvan de kennis belangrijk is om het geneesmiddel doelmatig en veilig te kunnen gebruiken;    
-
-f. de informatie die noodzakelijk is voor een goed en veilig gebruik van het geneesmiddel, waaronder wordt begrepen: 
-
-1°. de dosering;  
-
-2°. de wijze van gebruik en, voor daarvoor in aanmerking komende gevallen, de toedieningsweg;  
-
-3°. de toedieningsfrequentie waarbij, in daarvoor in aanmerking komende gevallen, het tijdstip waarop het geneesmiddel kan of moet worden toegediend, wordt vermeld;  
-
-4°. de duur van de behandeling indien hiervoor een speciale instructie geldt;  
-
-5°. de te nemen maatregelen in geval van overdosering;  
-
-6°. de te nemen maatregelen indien een of meer doses niet zijn toegediend;  
-
-7°. de vermelding dat ontwenningsverschijnselen kunnen optreden, indien van toepassing;  
-
-8°. in daarvoor aanmerking komende gevallen een specifieke aanbeveling de arts of apotheker ter raadplegen voor nadere informatie omtrent het gebruik van het geneesmiddel;    
-
-g. een beschrijving van de bijwerkingen die kunnen optreden bij een normaal gebruik van het geneesmiddel en, indien deze zich voordoen, van de maatregelen die alsdan dienen te worden getroffen;  
-
-h. een verwijzing naar de uiterste gebruiksdatum op de verpakking die tevens omvat: 
-
-1°. een waarschuwing tegen gebruik na overschrijding van deze datum;  
-
-2°. bijzondere voorzorgsmaatregelen in verband met bewaring;  
-
-3°. een waarschuwing tegen bepaalde tekenen van bederf, indien van toepassing;    
-
-i. voor elke aandieningsvorm een kwalitatieve en kwantitatieve opgave van werkzame bestanddelen alsmede een kwalitatieve opgave van hulpstoffen, waarbij de algemene benaming van de werkzame stoffen wordt gebruikt;  
-
-j. voor elke aandieningsvorm de farmaceutische vorm en de inhoud, uitgedrukt in gewichts-, volume- of doseringseenheden;  
-
-k. de naam en het adres van de houder van de handelsvergunning en, indien hij niet in Nederland is gevestigd, de naam van degene die hem vertegenwoordigt in Nederland;  
-
-l. de naam en het adres van de fabrikant;  
-
-m. indien het geneesmiddel onder andere namen in andere lidstaten in de handel is, een lijst van die namen;  
-
-n. de datum waarop de bijsluiter voor het laatst is herzien.     
-3.  De bijsluiter bevat een vermelding waarin de patiënt uitdrukkelijk wordt verzocht alle vermoedelijke bijwerkingen aan zijn arts, apotheker, of andere beroepsbeoefenaar te melden, dan wel die vermoedelijke bijwerkingen rechtstreeks te melden aan een orgaan van beroepsbeoefenaren en patiëntenorganisaties in de gezondheidszorg als bedoeld in artikel 76, derde lid. In de bijsluiter wordt aangegeven op welke wijze dergelijke meldingen kunnen worden gemaakt.   
-4.  Indien sprake is van een geneesmiddel als bedoeld in artikel 23 van de verordening, wordt de volgende vermelding opgenomen: «Dit geneesmiddel is onderworpen aan aanvullende monitoring». Deze vermelding wordt voorafgegaan door het in artikel 23 van de verordening bedoelde zwarte symbool en gevolgd door een standaardtoelichting.   
-5.  De bijsluiter is in overeenstemming met de uitkomsten van het overleg dat degene die een handelsvergunning heeft aangevraagd voor het desbetreffende geneesmiddel, op verzoek van de organisatie van patiënten voor wie het geneesmiddel bestemd is, dan wel, indien zodanige organisatie niet bestaat, met de overkoepelende instantie van patiëntenorganisaties heeft gevoerd over de duidelijkheid en gebruiksvriendelijkheid van de bijsluiter. Het verslag van dit overleg maakt deel uit van het dossier dat bij de aanvrage om de handelsvergunning wordt overgelegd. De houder van de handelsvergunning draagt ervoor zorg dat op verzoek van patiëntenorganisaties de bijsluiter in een voor blinden en slechtzienden geschikte vorm beschikbaar is.   
-6.  De bijsluiter is zodanig geschreven en ontworpen dat deze de gebruiker in staat stelt, zonodig met hulp van de beroepsbeoefenaar in de individuele gezondheidszorg die het geneesmiddel heeft voorgeschreven of ter hand gesteld, het geneesmiddel op de juiste wijze te gebruiken.   
-7.  Artikel 69, tweede lid, is van overeenkomstige toepassing ten aanzien van de bijsluiter.   
-
-### Artikel  72  
-
-1.  De gegevens, bedoeld in de artikelen 69, 70 en 71, worden duidelijk leesbaar, in de Nederlandse taal, goed te begrijpen en onuitwisbaar op de verpakking en in de bijsluiter aangebracht.   
-2.  De gegevens, bedoeld in het eerste lid, kunnen tevens in een andere taal worden vermeld, mits de gegevens in iedere taal dezelfde zijn.   
-3.  Het College kan op een met redenen omkleed verzoek besluiten dat op de buitenverpakking van bepaalde weesgeneesmiddelen de in artikel 69 bedoelde gegevens in één van de officiële talen van de Europese Gemeenschap worden vermeld.   
-4.  Behoudens maatregelen die het College en het Staatstoezicht op de volksgezondheid ter bescherming van de volksgezondheid noodzakelijk achten, kan het College ontheffing verlenen van de verplichting om bepaalde gegevens op het etiket en in de bijsluiter van het betrokken geneesmiddel te vermelden, onderscheidenlijk volledige of gedeeltelijke ontheffing verlenen van de verplichting om het etiket en de bijsluiter in het Nederlands op te stellen, wanneer: 
-
-a. het geneesmiddel niet bestemd is om rechtstreeks aan de patiënt ter hand te worden gesteld, of  
-
-b. er ernstige problemen zijn in verband met de beschikbaarheid van het geneesmiddel.     
-
-### Artikel  73  
-
-1.  Op de buitenverpakking of, bij het ontbreken daarvan, op de primaire verpakking van een homeopathisch geneesmiddel, niet zijnde een in een apotheek bereid homeopathisch geneesmiddel, wordt duidelijk leesbaar vermeld dat het om een homeopathisch geneesmiddel gaat.   
-2.  De artikelen 69 tot en met 72 zijn niet van toepassing op homeopathische geneesmiddelen als bedoeld in artikel 42, derde lid. Op de buitenverpakking of de primaire verpakking van deze homeopathische geneesmiddelen worden de volgende gegevens vermeld: 
-
-a. de wetenschappelijke benaming van de homeopathische grondstoffen, gevolgd door de verdunningsgraad in de vorm van de daarvoor in een farmacopee als bedoeld in artikel 1, eerste lid, onder f, gebruikte symbolen, met dien verstande dat, indien het homeopathische geneesmiddel is samengesteld uit verschillende homeopathische grondstoffen, de wetenschappelijke benaming kan worden aangevuld met een fantasienaam;  
-
-b. naam en adres van de houder van de handelsvergunning;  
-
-c. de wijze van gebruik en, zo nodig, de wijze van toediening;  
-
-d. de datum tot welke het homeopathische geneesmiddel geschikt voor gebruik wordt geacht, voorafgegaan door de woorden «niet te gebruiken na»;  
-
-e. de farmaceutische vorm;  
-
-f. de inhoud van de verpakking, uitgedrukt in gewicht of volume, dan wel doseringseenheden;  
-
-g. zo nodig, bijzondere voorzorgsmaatregelen voor de bewaring;  
-
-h. zo nodig, een bijzondere waarschuwing, verband houdende met het gebruik;  
-
-i. het charge-nummer van de fabrikant;  
-
-j. het nummer van de handelsvergunning;  
-
-k. de vermelding «homeopathisch geneesmiddel zonder goedgekeurde therapeutische indicaties»;  
-
-l. een waarschuwing waarbij de gebruiker wordt geadviseerd een arts te raadplegen indien de klachten aanhouden;  
-
-m. de prijs alsmede de eventuele regeling voor vergoeding, voor zover deze vermelding door Onze Minister is voorgeschreven.     
-3.  Indien de buitenverpakking van een in het tweede lid bedoeld homeopathisch geneesmiddel een bijsluiter bevat, worden de in het tweede lid bedoelde gegevens tevens in de bijsluiter vermeld.   
-
-### Artikel  74  
-
-1.  Op de buitenverpakking of, bij het ontbreken daarvan, op de primaire verpakking van een kruidengeneesmiddel als bedoeld in artikel 42, achtste lid, en in de bijsluiter wordt vermeld dat het om een traditioneel kruidengeneesmiddel gaat voor gebruik bij een of meer met name genoemde indicaties en dat de desbetreffende indicaties zijn gebaseerd op langdurig gebruik in de praktijk.   
-2.  Op de verpakking, bedoeld in het eerste lid, wordt tevens vermeld dat de gebruiker van het kruidengeneesmiddel een arts of een andere ter zake gekwalificeerde beroepsbeoefenaar in de individuele gezondheidszorg moet raadplegen indien de symptomen tijdens het gebruik van het middel aanhouden.   
-
-### Artikel  75  
-
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter zake van de etikettering van geneesmiddelen die in een apotheek zijn bereid en ter zake van de etikettering van geneesmiddelen voor onderzoek.   
-2.  Dit hoofdstuk is niet van toepassing op geneesmiddelen die: 
+Dit hoofdstuk is niet van toepassing op geneesmiddelen die: 
 
 a. zijn herverpakt door een arts die in die hoedanigheid in dienst is van het Ministerie van Defensie, of  
 
-b. ter hand worden gesteld door daartoe opgeleide militairen van de krijgsmacht voor zover de terhandstelling door die militairen plaatsvindt onder operationele omstandigheden dan wel bij de voorbereiding daarop.     
+b. ter hand worden gesteld door daartoe opgeleide militairen van de krijgsmacht, voor zover de terhandstelling door die militairen plaatsvindt onder operationele omstandigheden, dan wel bij de voorbereiding daarop.    
 
 ### Hoofdstuk  8  
 
@@ -1169,7 +1045,7 @@ In het kader van werkzaamheden op het gebied van signaaldetectie met betrekking 
 
 1.  In dit hoofdstuk wordt verstaan onder: 
 
-a. *beroepsbeoefenaar:* een arts, apotheker, tandarts, verloskundige, verpleegkundige als bedoeld in [artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), apothekersassistent of een natuurlijke persoon of een rechtspersoon als bedoeld in artikel 62, eerste lid, onder d en derde lid;  
+a. *beroepsbeoefenaar:* een arts, apotheker, tandarts, verloskundige, verpleegkundige als bedoeld in artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg, apothekersassistent of een natuurlijke persoon of een rechtspersoon als bedoeld in artikel 62, eerste lid, onder d en derde lid;  
 
 b. *ondernemer:* de houder van een handelsvergunning of van een vergunning als bedoeld in artikel 18, eerste lid, tweede volzin.     
 2.  Voor de toepassing van artikel 94, onder b, voor zover het een bijeenkomst betreft, wordt onder beroepsbeoefenaar tevens verstaan een verpleegkundige die in de uitoefening van zijn beroep in opdracht van een arts, tandarts of verloskundige geneesmiddelen toedient of verstrekt aan patiënten.   
@@ -1203,7 +1079,7 @@ Publieksreclame is verboden voor geneesmiddelen die:
 
 a. uitsluitend op recept ter hand mogen worden gesteld;  
 
-b. zonder recept ter hand mogen worden gesteld en middelen bevatten als bedoeld in [lijst I](../../../wet/opiumwet/BWBR0001941/README.md) of [II van de Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md).    
+b. zonder recept ter hand mogen worden gesteld en middelen bevatten als bedoeld in lijst I of II van de Opiumwet.    
 
 ### Artikel  86  
 
@@ -1256,7 +1132,7 @@ g. daarin wordt aangegeven dat op verstrekking van het geneesmiddel aanspraak be
 
 ### Artikel  90  
 
-De verboden, bedoeld in de artikelen 85, 88, onder d, en 89, onder g, gelden niet voor publieksreclame ter bevordering van deelname aan een nationaal vaccinatieprogramma waarop aanspraak bestaat krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
+De verboden, bedoeld in de artikelen 85, 88, onder d, en 89, onder g, gelden niet voor publieksreclame ter bevordering van deelname aan een nationaal vaccinatieprogramma waarop aanspraak bestaat krachtens de Algemene Wet Bijzondere Ziektekosten.  
 
 ### §  3  
 
@@ -1293,7 +1169,7 @@ d. op het monster is vermeld dat het gratis is en niet verkocht mag worden,
 e. bij het monster een exemplaar van de samenvatting van de kenmerken van het geneesmiddel is gevoegd, en  
 
 f. degene die het gratis monster verstrekt, een administratie bijhoudt waarin is vastgelegd aan wie, op welke datum en in welke hoeveelheid het is verstrekt.     
-2.  Het is verboden aan een beroepsbeoefenaar monsters te verstrekken die middelen bevatten als bedoeld in [lijst I](../../../wet/opiumwet/BWBR0001941/README.md) of [II van de Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md).   
+2.  Het is verboden aan een beroepsbeoefenaar monsters te verstrekken die middelen bevatten als bedoeld in lijst I of II van de Opiumwet.   
 
 ### Artikel  93  
 
@@ -1340,13 +1216,12 @@ Het uitzenden van telewinkelboodschappen is verboden.
 
 ### Artikel  97  
 
-1.  Onze Minister draagt ervoor zorg dat aan een verzoek van het Bureau of een instantie die in een andere lidstaat is belast met het verlenen van vergunningen als bedoeld in artikel 18, eerste lid, om informatie te verstrekken over de naleving van de wettelijke verplichtingen of de aan een vergunning verbonden voorwaarden die op een fabrikant of een groothandelaar van toepassing zijn, zo spoedig mogelijk gevolg wordt gegeven. Hetzelfde geldt voor een verzoek van het Bureau of van zodanige instantie om informatie over een certificaat als bedoeld in artikel 99, tweede of derde lid.   
+1.  Onze Minister draagt ervoor zorg dat aan een verzoek van het Bureau of een instantie die in een andere lidstaat is belast met het verlenen van vergunningen als bedoeld in artikel 18, eerste lid, om informatie te verstrekken over de naleving van de wettelijke verplichtingen of de aan een vergunning verbonden voorwaarden die op een fabrikant of een groothandelaar van toepassing zijn, zo spoedig mogelijk gevolg wordt gegeven. Hetzelfde geldt voor een verzoek van het Bureau of van zodanige instantie om informatie over een certificaat als bedoeld in artikel 100b, eerste tot en met derde lid.   
 2.  Het College draagt ervoor zorg dat aan een verzoek van het Bureau of een instantie die in een andere lidstaat is belast met het verlenen van vergunningen voor het in de handel brengen van geneesmiddelen, om informatie te verstrekken over de naleving van de wettelijke verplichtingen of de aan een handelsvergunning verbonden voorwaarden die op de houder van een handelsvergunning van toepassing zijn, zo spoedig mogelijk gevolg wordt gegeven.   
-3.  Een certificaat dat in een andere lidstaat is verstrekt krachtens een bepaling die materieel overeenkomt met artikel 99, tweede of derde lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens de desbetreffende bepaling afgegeven certificaat.   
+3.  Een certificaat dat in een andere lidstaat is verstrekt krachtens een bepaling die materieel overeenkomt met artikel 100b, eerste tot en met derde lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens de desbetreffende bepaling afgegeven certificaat.   
 4.  Een verslag dat in een andere lidstaat is opgesteld krachtens een bepaling die materieel overeenkomt met artikel 100a, eerste lid, heeft dezelfde rechtsgevolgen als een in Nederland krachtens die bepaling opgesteld verslag.   
 5.  Indien Onze Minister om redenen die verband houden met de volksgezondheid, van mening is dat een in een andere lidstaat afgegeven certificaat als bedoeld in het derde lid, of een in een andere lidstaat opgesteld verslag als bedoeld in het vierde lid, voor Nederland niet dezelfde rechtsgevolgen dient te hebben als de rechtsgevolgen voor de andere lidstaat, stelt hij de Commissie, het Bureau en de betrokken lidstaat daarvan onverwijld in kennis.   
 6.  Indien een andere lidstaat van mening is dat een in Nederland afgegeven certificaat als bedoeld in het derde lid, of een in Nederland opgesteld verslag als bedoeld in artikel 100a, eerste lid, niet dezelfde rechtsgevolgen dient te hebben als de rechtsgevolgen daarvan in Nederland en de Commissie de inspecteur die de inspectie heeft uitgevoerd, verzoekt een nieuwe inspectie uit te voeren, wordt aan dit verzoek gevolg gegeven.   
-7.  De functionaris, bedoeld in 99, eerste lid, draagt ervoor zorg dat een besluit tot het uit de handel nemen of het verbieden van de aflevering een geneesmiddel terstond ter kennis wordt gebracht van het Bureau. Indien zodanig besluit een weerslag kan hebben op de volksgezondheid in een derde land, draagt Onze Minister ervoor zorg dat die informatie ook ter kennis wordt gebracht van de Wereldgezondheidsorganisatie.   
 
 ### Artikel  98  
 
@@ -1355,10 +1230,8 @@ Het uitzenden van telewinkelboodschappen is verboden.
 
 ### Artikel  99  
 
-1.  De functionaris die aan het hoofd staat van het onderdeel van het Staatstoezicht op de volksgezondheid dat is aangewezen krachtens het besluit van Onze Minister, bedoeld in artikel 100, eerste lid, draagt ervoor zorg dat gevolg wordt gegeven aan het verzoek van de Commissie, het Bureau, de toezichthoudende instantie van een andere lidstaat of de instantie die in een andere lidstaat bevoegd is tot het verlenen van handelsvergunningen, om een inspectie uit te voeren bij de fabrikant van een bepaald geneesmiddel, bij degene die een werkzame grondstof voor een bepaald geneesmiddel bereidt, niet zijnde de fabrikant, of bij de houder van de handelsvergunning voor een bepaald geneesmiddel, indien de verzoeker het vermoeden heeft geuit dat de voorschriften inzake goede praktijken bij de vervaardiging, bedoeld in artikel 27, niet worden nageleefd. De functionaris kan ook op uitdrukkelijk verzoek van een fabrikant van werkzame stoffen of hulpstoffen een inspectie bij hem uitvoeren.   
-2.  Indien een inspectie is uitgevoerd bij een natuurlijke persoon of een rechtspersoon die in een derde land geneesmiddelen geheel of gedeeltelijk vervaardigt dan wel grondstoffen als bedoeld in het eerste lid vervaardigt, draagt de functionaris ervoor zorg dat, indien de betrokken persoon bij de vervaardiging voorschriften naleeft die gelijkwaardig zijn aan die, bedoeld in artikel 27, binnen negentig dagen, te rekenen vanaf de dag van de beëindiging van de inspectie, een certificaat wordt verstrekt aan de betrokkene waarin de naleving is vastgelegd.   
-3.  Indien een inspectie is uitgevoerd in het kader van de krachtens het verdrag, bedoeld in artikel 1, eerste lid, onder f, vastgestelde procedure voor het verkrijgen van een certificaat van overeenstemming met de monografieën van de Europese Farmacopee, draagt de functionaris ervoor zorg dat er een certificaat wordt opgesteld en overgelegd aan degene die om de inspectie heeft gevraagd. Een afschrift van het certificaat wordt verstrekt aan degene bij wie de inspectie is uitgevoerd.   
-4.  De functionaris draagt ervoor zorg dat een afschrift van een certificaat in het tweede en derde lid, wordt gezonden aan het Bureau met het verzoek om dit op te nemen in de EudraGMP-databank.   
+1.  Op verzoek van de Commissie, het Bureau, het College, de toezichthoudende instantie van een andere lidstaat of de instantie die in een andere lidstaat bevoegd is tot het verlenen van handelsvergunningen, kan het Staatstoezicht op de volksgezondheid een inspectie uitvoeren bij een fabrikant, een groothandelaar, een fabrikant of groothandelaar van werkzame stoffen, of een fabrikant of importeur van hulpstoffen.   
+2.  Een fabrikant kan het Staatstoezicht op de volksgezondheid verzoeken een inspectie uit te voeren bij fabrikanten of groothandelaars van werkzame stoffen of hulpstoffen.   
 
 ### Hoofdstuk  11  
 
@@ -1367,42 +1240,58 @@ Het uitzenden van telewinkelboodschappen is verboden.
 ### Artikel  100  
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid die daartoe bij besluit van Onze Minister zijn aangewezen. Van zodanig besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
-2.  In afwijking van het eerste lid, zijn met het toezicht op de naleving van deze wet aan boord van schepen die zijn bestemd en worden gebruikt voor de bedrijfsmatige zeevaart of zeevisserij belast de bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.   
+2.  In afwijking van het eerste lid, zijn met het toezicht op de naleving van deze wet aan boord van schepen die zijn bestemd en worden gebruikt voor de bedrijfsmatige zeevaart of zeevisserij belast de bij besluit van Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren van de Inspectie Leefomgeving en Transport.   
 3.  In afwijking van het eerste lid, is Onze Minister van Defensie belast met het toezicht op de naleving van deze wet voor zover betrekking hebbende op haar uitvoering binnen de Nederlandse krijgsmacht.   
-4.  Voor de toepassing van dit hoofdstuk wordt onder Onze Minister tevens verstaan Onze Minister van Verkeer en Waterstaat of Onze Minister van Defensie voor zover het toezicht op de naleving van deze wet plaatsvindt op grond van het tweede onderscheidenlijk het derde lid.   
-5.  De ambtenaren, bedoeld in het eerste en tweede lid, en de ambtenaren die door en namens Onze Minister van Defensie belast zijn met de in het derde lid bedoelde taak, hebben geen financiële belangen of andere belangen in de farmaceutische industrie die hun onpartijdigheid in het gedrang kunnen brengen. Zij verstrekken jaarlijks een verklaring omtrent hun financiële belangen aan de minister onder wie zij ressorteren.   
+4.  Voor de toepassing van dit hoofdstuk wordt onder Onze Minister tevens verstaan Onze Minister van Infrastructuur en Milieu of Onze Minister van Defensie voor zover het toezicht op de naleving van deze wet plaatsvindt op grond van het tweede onderscheidenlijk het derde lid.   
+5.  De ambtenaren, bedoeld in het eerste en tweede lid, en de ambtenaren die door of namens Onze Minister van Defensie belast zijn met de taak, bedoeld in het derde lid: 
+
+a. dragen er zorg voor dat inspecties plaatsvinden overeenkomstig de bij ministeriële regeling vast te stellen voorschriften inzake inspecties; en  
+
+b. hebben geen belangen, financieel of anderszins, in de farmaceutische industrie die belangenverstrengeling met zich mee kunnen brengen. Zij verstrekken een verklaring omtrent hun financiële belangen aan de minister onder wie zij ressorteren.     
 
 ### Artikel  100a  
 
-1.  Indien in verband met het toezicht op de naleving van voorschriften inzake goede praktijken bij de vervaardiging, onderscheidenlijk voorschriften inzake goede distributiepraktijken, bedoeld in artikel 27 en 36, dan wel het bepaalde in hoofdstuk 8 van deze wet een inspectie volgt, wordt hiervan een verslag gemaakt. De functionaris, bedoeld in artikel 99, eerste lid, draagt ervoor zorg dat de inhoud van het verslag wordt medegedeeld aan degene bij wie de inspectie is verricht, waarna deze in de gelegenheid wordt gesteld om opmerkingen te maken voordat het verslag wordt vastgesteld.   
-2.  Indien tijdens een inspectie wordt vastgesteld dat de houder van de handelsvergunning zich niet houdt aan het geneesmiddelenbewakingssysteem zoals beschreven in het betreffende basisdossier geneesmiddelenbewakingssysteem of aan andere verplichtingen op grond van hoofdstuk 8 van deze wet, wijst de functionaris hem daarop en stelt hij hem in de gelegenheid om opmerkingen te maken. De functionaris stelt het College, de andere lidstaten, het Bureau en de Commissie hiervan in kennis.   
-3.  Indien een inspectie uitwijst dat er sprake is van niet-naleving van voorschriften inzake goede praktijken bij de vervaardiging of voorschriften inzake goede distributiepraktijken als bedoeld in het eerste lid, maakt de functionaris hiervan melding in de EudraGMP-databank.   
-4.  Het Staatstoezicht op de volksgezondheid, het College en het Bureau informeren elkaar over geplande en uitgevoerde inspecties. Zij werken samen op het gebied van de coördinatie van inspecties in derdelanden. Op een met redenen omkleed verzoek doet de functionaris verslagen als bedoeld in het eerste lid aan een andere lidstaat of het Bureau elektronisch toekomen.   
+1.  Indien in verband met het toezicht op de naleving van deze wet een inspectie volgt, wordt hiervan een verslag gemaakt. Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat de inhoud van het verslag wordt medegedeeld aan degene bij wie de inspectie is verricht, waarna deze in de gelegenheid wordt gesteld om opmerkingen te maken voordat het verslag wordt vastgesteld.   
+2.  Indien tijdens een inspectie wordt vastgesteld dat de houder van de handelsvergunning zich niet houdt aan het geneesmiddelenbewakingssysteem zoals beschreven in het betreffende basisdossier geneesmiddelenbewakingssysteem of aan andere verplichtingen op grond van hoofdstuk 8 van deze wet, wijst het Staatstoezicht op de volksgezondheid hem daarop en stelt hem in de gelegenheid om opmerkingen te maken. Het Staatstoezicht op de volksgezondheid stelt het College, de andere lidstaten, het Bureau en de Commissie hiervan in kennis.   
+3.  Indien een inspectie uitwijst dat er sprake is van niet-naleving van voorschriften als bedoeld in artikelen 27, eerste of tweede lid, 36, eerste lid, respectievelijk 38b, eerste lid, doet het Staatstoezicht op de volksgezondheid hiervan melding in de EudraGMP-databank, aan Onze Minister en aan het College.   
+4.  Zij werken samen op het gebied van de coördinatie van inspecties in derdelanden. Op een met redenen omkleed verzoek doet het Staatstoezicht op de volksgezondheid verslagen als bedoeld in het eerste lid aan een andere lidstaat of het Bureau elektronisch toekomen.   
+
+### Artikel  100b  
+
+1.  Indien een verslag als bedoeld in artikel 100a, eerste lid, daartoe aanleiding geeft, ontvangt degene bij wie een inspectie is verricht naar de naleving van voorschriften als bedoeld in artikelen 27, eerste of tweede lid, 36, eerste lid, respectievelijk 38b, eerste lid, binnen 90 dagen na de inspectie een certificaat waarin de betreffende naleving is vastgelegd.   
+2.  Indien betrokkene gevestigd is in een derdeland en voorschriften naleeft die gelijkwaardig zijn aan de voorschriften, bedoeld in het eerste lid, wordt zulks tevens in het certificaat tot uitdrukking gebracht.   
+3.  Indien een inspectie is uitgevoerd in het kader van de krachtens het verdrag, bedoeld in artikel 1, eerste lid, onder f, vastgestelde procedure voor het verkrijgen van een certificaat van overeenstemming met de monografieën van de Europese Farmacopee, verstrekt het Staatstoezicht op de volksgezondheid een dergelijk certificaat aan degene die om de inspectie heeft verzocht. Een afschrift van het certificaat wordt verstrekt aan degene bij wie de inspectie is verricht.   
+4.  Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat een afschrift van een certificaat als bedoeld in het eerste tot en met derde lid wordt gezonden aan het Bureau met het verzoek dit op te nemen in de EudraGMP-databank.   
+
+### Artikel  100c  
+
+Het Staatstoezicht op de volksgezondheid, het College en het Bureau informeren elkaar over geplande en uitgevoerde inspecties. Zij werken samen bij de coördinatie van inspecties in derde landen.  
 
 ### Artikel  101  
 
-1.  Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 450 000 ter zake van overtreding van het bepaalde bij of krachtens artikel 18, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 48, 49, 50, 61, 62, 64, 65, 66, 66a, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76a, 77a, 78, eerste en vierde lid, 78a, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95 of 96.   
-2.  Een gedraging als bedoeld in het eerste lid die geen economisch delict is in de zin van de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), is een strafbaar feit indien in de daaraan voorafgaande 24 maanden tweemaal een bestuurlijke boete ter zake van een zelfde gedraging is opgelegd.   
+1.  Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 450.000 ter zake van een overtreding van het bepaalde bij of krachtens artikel 18, 26, 27, 27a, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, eerste lid, 38a, tweede en vierde lid, 38b, eerste en tweede lid, 38c, 39, eerste lid, 39a, eerste lid, 40, 48, 49, 50, 61, 62, 64, 65, 66, 66a, 67, 67a, eerste lid, 69, eerste en tweede lid, 76a, eerste lid, 77a, 78, eerste en derde lid, 78a, eerste lid, 80, eerste en tweede lid, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96 of 122a.   
+2.  Een gedraging als bedoeld in het eerste lid die geen economisch delict is in de zin van de Wet op de economische delicten, is een strafbaar feit indien in de daaraan voorafgaande 24 maanden tweemaal een bestuurlijke boete ter zake van een zelfde gedraging is opgelegd.   
 3.  Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die een strafbaar feit als bedoeld in het tweede lid pleegt.   
 4.  Een strafbaar feit als bedoeld in het tweede lid, is een overtreding.   
 
 ### Artikel  114  
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een bevel als bedoeld in artikel 115, en de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
+De ambtenaren van het Staatstoezicht op de volksgezondheid zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een bevel als bedoeld in artikel 115, en de bij artikel 5:20, eerste lid, van de Algemene wet bestuursrecht gestelde verplichting.  
 
 ### Artikel  115  
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid zijn, ter voorkoming van schade aan de volksgezondheid, bevoegd een bevel te geven om: 
+1.   De ambtenaren van het Staatstoezicht op de volksgezondheid zijn, ter voorkoming van schade aan de volksgezondheid, bevoegd een bevel te geven om: 
 
 a. de bereiding, aflevering, handel, invoer, uitvoer of terhandstelling van een geneesmiddel of een substantie die kennelijk bestemd is ter bereiding van geneesmiddelen, op te schorten of te beëindigen;  
 
 b. een geneesmiddel of een substantie die kennelijk bestemd is ter bereiding van geneesmiddelen, uit de handel te laten nemen;  
 
 c. een apotheek te sluiten indien in die apotheek, naar hun oordeel, niet de nodige waarborgen aanwezig zijn voor een veilige bereiding, opslag of terhandstelling van geneesmiddelen.    
+2.  Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat een besluit tot het uit de handel nemen of het verbieden van de aflevering van een geneesmiddel terstond ter kennis wordt gebracht van het Bureau. Indien zodanig besluit gevolgen kan hebben voor de volksgezondheid in een derdeland, wordt tevens de Wereldgezondheidsorganisatie ter zake ingelicht.   
 
 ### Artikel  116  
 
-1.  De ambtenaren van het Staatstoezicht op de volksgezondheid, de personen, aangewezen bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane zijn belast met de opsporing van de strafbare feiten, bedoeld in artikel 101.   
+1.  De ambtenaren van het Staatstoezicht op de volksgezondheid, de personen, aangewezen bij of krachtens artikel 141 van het Wetboek van Strafvordering en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane zijn belast met de opsporing van de strafbare feiten, bedoeld in artikel 101.   
 2.  De in het eerste lid zijn bedoelde ambtenaren zijn te allen tijde bevoegd tot inbeslagneming alsmede ter inbeslagneming de uitlevering te vorderen van de substanties en voorwerpen die tot ontdekking van de waarheid kunnen dienen of waarvan de verbeurdverklaring, onttrekking aan het verkeer, vernietiging of onbruikbaarmaking kan worden bevolen.   
 
 ### Hoofdstuk  12  
@@ -1415,16 +1304,16 @@ c. een apotheek te sluiten indien in die apotheek, naar hun oordeel, niet de nod
 
 ### Artikel  117  
 
-1.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend voor zowel het bereiden als het afleveren van geneesmiddelen, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het bereiden en afleveren van zodanige middelen.   
-2.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend uitsluitend voor het afleveren van geneesmiddelen na invoer, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het invoeren van zodanige middelen.   
-3.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend voor het uitsluitend afleveren van geneesmiddelen anders dan na invoer, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het drijven van een groothandel.   
-4.  De inschrijvingen in een register als bedoeld in [artikel 3 van de Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) die vóór de inwerkingtreding van deze wet zijn geschied dan wel de vergunningen die krachtens die wet zijn verleend voor het verpakken, etiketteren en afleveren van uit een andere lidstaat betrokken geneesmiddelen worden voor de toepassing van deze wet gelijkgesteld met handelsvergunningen onderscheidenlijk parallelhandelsvergunningen.   
-5.  De inschrijvingen in een register als bedoeld in [artikel 3 van de Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) onderscheidenlijk de aanvragen om zodanige inschrijving die vóór de inwerkingtreding van deze wet zijn geschied onderscheidenlijk zijn ingediend en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met handelsvergunningen onderscheidenlijk aanvragen om een handelsvergunning. De in de eerste volzin bedoelde gelijkstelling geldt evenwel niet voor de toepassing van de in de artikelen 42, vijfde lid, onder a, en 43, tweede lid, bedoelde perioden ten aanzien van referentiegeneesmiddelen waarvoor vóór de inwerkingtreding van deze wet een inschrijving of een aanvraag om inschrijving als bedoeld in de eerste volzin, is geschied onderscheidenlijk is ingediend en waarop nog niet onherroepelijk is beslist. Ten aanzien van de inschrijvingen in een register als bedoeld in de eerste volzin, die vóór 30 oktober 2005 zijn geschied, en de vóór die datum ingediende aanvragen om inschrijving, blijft de beschermingsperiode, bedoeld in [artikel 2, achtste lid, aanhef en onder a, van het Besluit registratie geneesmiddelen](../../../AMvB/besluit/registratie/geneesmiddelen/BWBR0003114/README.md) zoals dat luidde vóór de inwerkingtreding van deze wet, van toepassing, onverminderd het recht met betrekking tot de bescherming van de industriële en commerciële eigendom.   
+1.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de Wet op de Geneesmiddelenvoorziening zijn verleend voor zowel het bereiden als het afleveren van geneesmiddelen, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het bereiden en afleveren van zodanige middelen.   
+2.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de Wet op de Geneesmiddelenvoorziening zijn verleend uitsluitend voor het afleveren van geneesmiddelen na invoer, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het invoeren van zodanige middelen.   
+3.  De vergunningen die vóór de inwerkingtreding van deze wet krachtens de Wet op de Geneesmiddelenvoorziening zijn verleend voor het uitsluitend afleveren van geneesmiddelen anders dan na invoer, worden voor de toepassing van deze wet gelijkgesteld met vergunningen voor het drijven van een groothandel.   
+4.  De inschrijvingen in een register als bedoeld in artikel 3 van de Wet op de Geneesmiddelenvoorziening die vóór de inwerkingtreding van deze wet zijn geschied dan wel de vergunningen die krachtens die wet zijn verleend voor het verpakken, etiketteren en afleveren van uit een andere lidstaat betrokken geneesmiddelen worden voor de toepassing van deze wet gelijkgesteld met handelsvergunningen onderscheidenlijk parallelhandelsvergunningen.   
+5.  De inschrijvingen in een register als bedoeld in artikel 3 van de Wet op de Geneesmiddelenvoorziening onderscheidenlijk de aanvragen om zodanige inschrijving die vóór de inwerkingtreding van deze wet zijn geschied onderscheidenlijk zijn ingediend en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met handelsvergunningen onderscheidenlijk aanvragen om een handelsvergunning. De in de eerste volzin bedoelde gelijkstelling geldt evenwel niet voor de toepassing van de in de artikelen 42, vijfde lid, onder a, en 43, tweede lid, bedoelde perioden ten aanzien van referentiegeneesmiddelen waarvoor vóór de inwerkingtreding van deze wet een inschrijving of een aanvraag om inschrijving als bedoeld in de eerste volzin, is geschied onderscheidenlijk is ingediend en waarop nog niet onherroepelijk is beslist. Ten aanzien van de inschrijvingen in een register als bedoeld in de eerste volzin, die vóór 30 oktober 2005 zijn geschied, en de vóór die datum ingediende aanvragen om inschrijving, blijft de beschermingsperiode, bedoeld in artikel 2, achtste lid, aanhef en onder a, van het Besluit registratie geneesmiddelen zoals dat luidde vóór de inwerkingtreding van deze wet, van toepassing, onverminderd het recht met betrekking tot de bescherming van de industriële en commerciële eigendom.   
 6.   Vervallen.    
 7.  De geneesmiddelen, bedoeld in de bijlagen VII, IX, XI, XII en XIII bij de Toetredingsakte waarvoor onderscheidenlijk in Cyprus, Litouwen, Malta, Polen en Slovenië een handelsvergunning is verleend, komen niet in aanmerking voor behandeling door het College in het kader van de procedure, bedoeld in artikel 44, derde lid, totdat die geneesmiddelen in overeenstemming zijn gebracht met de bepalingen van deze wet inzake kwaliteit, veiligheid en werkzaamheid van geneesmiddelen, doch uiterlijk tot onderscheidenlijk 31 december 2005, 1 januari 2007, 31 december 2006, 31 december 2008 en 31 december 2007.   
 8.  Aanvragen om een vergunning voor het bereiden en afleveren of het uitsluitend afleveren van geneesmiddelen die zijn ingediend vóór de inwerkingtreding van deze wet en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met aanvragen voor vergunningen als bedoeld in artikel 18, eerste lid, tweede en derde volzin.   
-9.  De vergunningen die vóór de inwerkingtreding van deze wet op grond van de [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) zijn verleend voor het bereiden of het invoeren van geneesmiddelen voor onderzoek, worden voor de toepassing van deze wet gelijkgesteld met de vergunningen voor het bereiden of invoeren van geneesmiddelen voor onderzoek. Aanvragen om vergunningen voor het bereiden of invoeren van geneesmiddelen voor onderzoek die zijn ingediend vóór de inwerkingtreding van deze wet en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met aanvragen daarvoor op grond van deze wet.   
-10.  Een erkenning van een laboratorium die voor het tijdstip van inwerkingtreding van deze wet krachtens [artikel 5, vierde lid, van het Besluit bereiding en aflevering van farmaceutische producten](../../../AMvB/besluit/bereiding/en/aflevering/van/farmaceutische/producten/BWBR0003127/README.md) is verleend, wordt voor de toepassing van deze wet gelijkgesteld met een aanwijzing als bedoeld in artikel 26, derde lid.   
+9.  De vergunningen die vóór de inwerkingtreding van deze wet op grond van de Wet op de Geneesmiddelenvoorziening zijn verleend voor het bereiden of het invoeren van geneesmiddelen voor onderzoek, worden voor de toepassing van deze wet gelijkgesteld met de vergunningen voor het bereiden of invoeren van geneesmiddelen voor onderzoek. Aanvragen om vergunningen voor het bereiden of invoeren van geneesmiddelen voor onderzoek die zijn ingediend vóór de inwerkingtreding van deze wet en waarop nog niet onherroepelijk is beslist, worden voor de toepassing van deze wet gelijkgesteld met aanvragen daarvoor op grond van deze wet.   
+10.  Een erkenning van een laboratorium die voor het tijdstip van inwerkingtreding van deze wet krachtens artikel 5, vierde lid, van het Besluit bereiding en aflevering van farmaceutische producten is verleend, wordt voor de toepassing van deze wet gelijkgesteld met een aanwijzing als bedoeld in artikel 26, derde lid.   
 
 ### Artikel  118  
 
@@ -1435,7 +1324,7 @@ c. een apotheek te sluiten indien in die apotheek, naar hun oordeel, niet de nod
 
 ### Artikel  119  
 
-De arts die onmiddellijk vóór de inwerkingtreding van deze wet krachtens [artikel 6 van de Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) bevoegd is tot uitoefening van de artsenijbereidkunst in een uitsluitend aan hem toebehorende apotheek, is bevoegd geneesmiddelen ter hand te stellen aan de patiënten van zijn praktijk. Indien de in de eerste zin bedoelde bevoegdheid is verkregen door een vergunning, wordt deze vergunning gelijkgesteld met de vergunningen, bedoeld in artikel 61, tiende onderscheidenlijk elfde lid.  
+De arts die onmiddellijk vóór de inwerkingtreding van deze wet krachtens artikel 6 van de Wet op de Geneesmiddelenvoorziening bevoegd is tot uitoefening van de artsenijbereidkunst in een uitsluitend aan hem toebehorende apotheek, is bevoegd geneesmiddelen ter hand te stellen aan de patiënten van zijn praktijk. Indien de in de eerste zin bedoelde bevoegdheid is verkregen door een vergunning, wordt deze vergunning gelijkgesteld met de vergunningen, bedoeld in artikel 61, tiende onderscheidenlijk elfde lid.  
 
 ### Artikel  120  
 
@@ -1451,8 +1340,8 @@ c. richtlijn 2001/83,   gaat voor de toepassing van deze wet gelden met ingang v
 
 ### Artikel  121  
 
-1.  De krachtens [artikel 6, vierde, vijfde, zesde of zevende lid, van de Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) genomen beslissingen behouden na de intrekking van die wet hun rechtskracht.   
-2.  De op het tijdstip van die intrekking aanhangige zaken worden op de voet van het in [artikel 6 van de Wet op de Geneesmiddelen](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) bepaalde afgehandeld.   
+1.  De krachtens artikel 6, vierde, vijfde, zesde of zevende lid, van de Wet op de Geneesmiddelenvoorziening genomen beslissingen behouden na de intrekking van die wet hun rechtskracht.   
+2.  De op het tijdstip van die intrekking aanhangige zaken worden op de voet van het in artikel 6 van de Wet op de Geneesmiddelen bepaalde afgehandeld.   
 
 ### Artikel  122  
 
@@ -1515,7 +1404,7 @@ Ter uitvoering van krachtens het Verdrag tot oprichting van de Europese Gemeensc
 
 ### Artikel  132  
 
-De [Wet op de Geneesmiddelenvoorziening](../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) wordt ingetrokken.  
+De Wet op de Geneesmiddelenvoorziening wordt ingetrokken.  
 
 ### Artikel  133  
 

@@ -6,10 +6,14 @@
 
 ####Bezoldiging burgemeesters
 
+Materieel uitgewerkt per 01-01-2010 
+
 De bezoldiging van burgemeesters wijzigt overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Naar aanleiding van de arbeidsvoorwaardenovereenkomst voor het rijkspersoneel, die is overeengekomen voor de periode van 1 januari 2007 tot en met 31 december 2010, bent u bij circulaire van 19 juni 2007, nr. 2007-181639, geïnformeerd over de gevolgen daarvan voor de rechtspositie van burgemeesters. De informatie in de circulaire van 19 juni 2007 over de burgemeesters is nog steeds van toepassing.    
 ### 2  
 
 ####Ambtstoelage burgemeesters
+
+Materieel uitgewerkt per 01-01-2010 
 
 In [artikel 16, tweede lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) is bepaald dat de ambtstoelage van burgemeesters per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2007 is bepaald op 102,07. Voor 2006 was dit indexcijfer 100,74. Dit betekent dat de bedragen van de ambtstoelage per 1 januari 2008 worden verhoogd met 1,3%. Voor uw informatie meld ik u dat het CBS voor het bepalen van het indexcijfer het basisjaar heeft gewijzigd; het basisjaar dat tot nu toe gehanteerd werd voor dit indexcijfer was 2000, dat is nu het jaar 2006 geworden. Met ingang van 1 januari 2008 luiden de bedragen genoemd in [artikel 16, eerste lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) als volgt:  
 
@@ -24,10 +28,14 @@ In [artikel 16, tweede lid, van het Rechtspositiebesluit burgemeesters](../../..
 
 ####Vergoedingen wethouders
 
+Materieel uitgewerkt per 01-01-2010 
+
 De vergoeding van wethouders wijzigt overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Naar aanleiding van de arbeidsvoorwaardenovereenkomst voor het rijkspersoneel, die is overeengekomen voor de periode van 1 januari 2007 tot en met 31 december 2010, bent u bij circulaire van 19 juni 2007, nr. 2007-181639, geïnformeerd over de gevolgen daarvan voor de rechtspositie van wethouders. De informatie in de circulaire van 19 juni 2007 over de wethouders is nog steeds van toepassing.    
 ### 4  
 
 ####Onkostenvergoeding wethouders
+
+Materieel uitgewerkt per 01-01-2010 
 
 In [artikel 25, tweede lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) is bepaald dat de onkostenvergoeding voor wethouders per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2007 is bepaald op 102,07. Voor 2006 was dit indexcijfer 100,74. Dit betekent dat de bedragen van de ambtstoelage per 1 januari 2008 worden verhoogd met 1,3%. Voor uw informatie meld ik u dat het CBS voor het bepalen van het indexcijfer het basisjaar heeft gewijzigd; het basisjaar dat tot nu toe gehanteerd werd voor dit indexcijfer was 2000, dat is nu het jaar 2006 geworden. Met ingang van 1 januari 2008 luiden de bedragen genoemd in [artikel 25, eerste lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) als volgt:  Tabel II 
 
@@ -41,6 +49,8 @@ In [artikel 25, tweede lid, van het Rechtspositiebesluit wethouders](../../../..
 ### 5  
 
 ####Vergoeding raadsleden
+
+Materieel uitgewerkt per 01-01-2010 
 
 In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de vergoeding voor werkzaamheden voor raadsleden per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar. Toepassing van het bovenstaande houdt in dat de bedragen van de vergoeding voor werkzaamheden voor raadsleden per 1 januari 2008 worden verhoogd met 1,5%. Dit is de verhoging van het indexcijfer van 2007 (118,5) ten opzichte van 2006 (116,7). Het maximumbedrag per maand voor de vergoeding van werkzaamheden voor raadsleden genoemd in [artikel 2, eerste lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2008:  Tabel I 
 
@@ -68,6 +78,8 @@ In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden
 ### 6  
 
 ####Onkostenvergoeding raadsleden
+
+Materieel uitgewerkt per 01-01-2010 
 
 In [artikel 2, vijfde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de onkostenvergoeding voor raadsleden per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2007 is bepaald op 102,07. Voor 2006 was dit indexcijfer 100,74. Dit betekent dat de bedragen van de ambtstoelage per 1 januari 2008 worden verhoogd met 1,3%. Voor uw informatie meld ik u dat het CBS voor het bepalen van het indexcijfer het basisjaar heeft gewijzigd; het basisjaar dat tot nu toe gehanteerd werd voor dit indexcijfer was 2000, dat is nu het jaar 2006 geworden. Het maximumbedrag per maand voor de onkostenvergoeding voor raadsleden genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2008:  Tabel II 
 
@@ -119,6 +131,8 @@ Het maximumbedrag per maand voor de onkostenvergoeding voor raadsleden (bij fict
 
 ####Commissieleden
 
+Materieel uitgewerkt per 01-01-2010 
+
 In [artikel 14, eerste lid](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md), juncto [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de vergoeding voor het bijwonen van vergaderingen per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar. Toepassing van het bovenstaande houdt in dat de bedragen van de vergoeding voor werkzaamheden voor commissieleden per 1 januari 2008 worden verhoogd met 1,5%. Dit is de verhoging van het indexcijfer van 2007 (118,5) ten opzichte van 2006 (116,7). De maximumvergoeding voor het bijwonen van vergaderingen voor leden van gemeentelijke commissies genoemd in het eerste lid van [artikel 14 van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2008:  Tabel IV 
 
 | Klasse  | Inwonertal  | Vergoeding per vergadering  |
@@ -134,9 +148,11 @@ In [artikel 14, eerste lid](../../../../../../../../AMvB/rechtspositiebesluit/ra
 
 ####Informatie op internet
 
+Materieel uitgewerkt per 01-01-2010 
+
 Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de internetsite van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.minbzk.nl, openbaar bestuur, politieke ambtsdragers.     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 wnd. directeur-generaal Bestuur, 
-P.P.L. vanKalmthout   
+P.P.L. van Kalmthout     

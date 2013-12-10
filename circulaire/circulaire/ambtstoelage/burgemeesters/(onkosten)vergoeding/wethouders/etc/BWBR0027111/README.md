@@ -6,45 +6,55 @@
 
 ####Bezoldiging burgemeesters
 
+Materieel uitgewerkt per 01-01-2011 
+
 De bezoldiging van burgemeesters wijzigt overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Naar aanleiding van de arbeidsvoorwaardenovereenkomst voor het rijkspersoneel, die is overeengekomen voor de periode van 1 januari 2007 tot en met 31 december 2010, bent u bij [circulaire van 19 juni 2007](../../../../../../../../circulaire/circulaire/bezoldiging/vergoeding/en/eindejaarsuitkering/over/2007/2008/en/etc/BWBR0022154/README.md), nr. 2007-181639, geïnformeerd over de gevolgen daarvan voor de rechtspositie van burgemeesters. De informatie in de circulaire van 19 juni 2007 over de bezoldiging van de burgemeesters is nog steeds van toepassing.    
 ### 2  
 
 ####Ambtstoelage burgemeesters
 
+Materieel uitgewerkt per 01-01-2011 
+
 In [artikel 16, tweede lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) is bepaald dat de ambtstoelage van burgemeesters per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2008 is bepaald op 105,19. Voor 2007 was dit indexcijfer 102,07. Dit betekent dat de bedragen van de ambtstoelage per 1 januari 2009 worden verhoogd met 3,1%. Met ingang van 1 januari 2009 luiden de bedragen genoemd in [artikel 16, eerste lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) als volgt:  
 
 | Inwonersklasse  | Ambtstoelage  |
 |:---|:---|
-| Klasse 1 en 2  | € 626,68  |
-| Klasse 3 en 4  | € 658,79  |
-| Klasse 5 en 6  | € 686,54  |
-| Klasse 7 t/m 11  | € 709,37  |
+| Klasse 1 en 2  | € 626,68   |
+| Klasse 3 en 4  | € 658,79   |
+| Klasse 5 en 6  | € 686,54   |
+| Klasse 7 t/m 11  | € 709,37   |
 
 ### 3  
 
 ####Vergoedingen wethouders
+
+Materieel uitgewerkt per 01-01-2011 
 
 De vergoeding van wethouders wijzigt overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Naar aanleiding van de arbeidsvoorwaardenovereenkomst voor het rijkspersoneel, die is overeengekomen voor de periode van 1 januari 2007 tot en met 31 december 2010, bent u bij circulaire van 19 juni 2007, nr. 2007-181639, geïnformeerd over de gevolgen daarvan voor de rechtspositie van wethouders. De informatie in de circulaire van 19 juni 2007 over vergoeding van de wethouders is nog steeds van toepassing.    
 ### 4  
 
 ####Onkostenvergoeding wethouders
 
-In [artikel 25, tweede lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) is bepaald dat de onkostenvergoeding voor wethouders per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2008 is bepaald op 105,19. Voor 2007 was dit indexcijfer 102,07. Dit betekent dat de bedragen van de onkostenvergoedingen van de wethouders per 1 januari 2009 worden verhoogd met 3,1%. Met ingang van 1 januari 2009 luiden de bedragen genoemd in [artikel 25, eerste lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) als volgt:  Tabel II 
+Materieel uitgewerkt per 01-01-2011 
+
+In [artikel 25, tweede lid, van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) is bepaald dat de onkostenvergoeding voor wethouders per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2008 is bepaald op 105,19. Voor 2007 was dit indexcijfer 102,07. Dit betekent dat de bedragen van de onkostenvergoedingen van de wethouders per 1 januari 2009 worden verhoogd met 3,1%. Met ingang van 1 januari 2009 luiden de bedragen genoemd in [artikel 25, eerste lid, van het Rechtspositiebesluit wethouders ](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md)als volgt:  Tabel II 
 
 | Aantal inwoners gemeente  | Max. onkostenverg. per maand  |
 |:---|:---|
-| --- | –  | 8.000  | € 263,83  |
-| 8.001  | –  | 14.000  | € 433,57  |
-| 14.001  | –  | 18.000  | € 560,86  |
-| 18.001  | –  | --- | € 612,00  |
+| --- | –  | 8.000  | € 263,83   |
+| 8.001  | –  | 14.000  | € 433,57   |
+| 14.001  | –  | 18.000  | € 560,86   |
+| 18.001  | –  | --- | € 612,00   |
 
 ### 5  
 
 ####Vergoeding raadsleden
 
+Materieel uitgewerkt per 01-01-2011 
+
 In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de vergoeding voor werkzaamheden voor raadsleden per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar. Toepassing van het bovenstaande houdt in dat de bedragen van de vergoeding voor werkzaamheden voor raadsleden per 1 januari 2009 worden verhoogd met 5,6%. Dit is de verhoging van het indexcijfer van 2008 (125,1) ten opzichte van 2007 (118,5). Het maximumbedrag per maand voor de vergoeding van werkzaamheden voor raadsleden genoemd in [artikel 2, eerste lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2009:  Tabel I 
 
-| Klasse  | Inwonertal  | Maximum vergoeding werkzaamheden per maand  |
+| Klasse   | Inwonertal  | Maximum vergoeding werkzaamheden per maand  |
 |:---|:---|:---|
 | 1  | --- | –  | 6.000  | € 201,62  |
 | 2  | 6.001  | –  | 8.000  | € 223,32  |
@@ -69,9 +79,11 @@ In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden
 
 ####Onkostenvergoeding raadsleden
 
-In [artikel 2, vijfde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de onkostenvergoeding voor raadsleden per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2008 is bepaald op 105,19. Voor 2007 was dit indexcijfer 102,07. Dit betekent dat de bedragen van de onkostenvergoedingen voor de raadsleden per 1 januari 2009 worden verhoogd met 3,1%. Het maximumbedrag per maand voor de onkostenvergoeding voor raadsleden genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2009:  Tabel II 
+Materieel uitgewerkt per 01-01-2011 
 
-| Klasse  | Inwonertal  | Onkostenvergoeding raadsleden per maand  |
+In [artikel 2, vijfde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de onkostenvergoeding voor raadsleden per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar. De consumentenprijsindex voor 2008 is bepaald op 105,19. Voor 2007 was dit indexcijfer 102,07. Dit betekent dat de bedragen van de onkostenvergoedingen voor de raadsleden per 1 januari 2009 worden verhoogd met 3,1%. Het maximumbedrag per maand voor de onkostenvergoeding voor raadsleden genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2009:  Tabel II  
+
+| Klasse  | Inwonertal  | Onkostenvergoeding raadsleden per maand   |
 |:---|:---|:---|
 | 1  | --- | –  | 6.000  | € 39,18  |
 | 2  | 6.001  | –  | 8.000  | € 41,34  |
@@ -94,7 +106,7 @@ In [artikel 2, vijfde lid, van het Rechtspositiebesluit raads- en commissieleden
 
 Het maximumbedrag per maand voor de onkostenvergoeding voor raadsleden (bij fictieve dienstbetrekking) genoemd in [artikel 2, vierde lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2009:  Tabel III 
 
-| Klasse  | Inwonertal  | Onkostenvergoeding raadsleden (bij fictieve dienstbetrekking) per maand  |
+| Klasse  | Inwonertal  | Onkostenvergoeding raadsleden (bij fictieve dienstbetrekking) per maand   |
 |:---|:---|:---|
 | 1  | --- | –  | 6.000  | € 81,60  |
 | 2  | 6.001  | –  | 8.000  | € 85,95  |
@@ -119,11 +131,13 @@ Het maximumbedrag per maand voor de onkostenvergoeding voor raadsleden (bij fict
 
 ####Commissieleden
 
+Materieel uitgewerkt per 01-01-2011 
+
 In [artikel 14, eerste lid](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md), juncto [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de vergoeding voor het bijwonen van vergaderingen per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar. Toepassing van het bovenstaande houdt in dat de bedragen van de vergoeding voor werkzaamheden voor commissieleden per 1 januari 2009 worden verhoogd met 5,6%. Dit is de verhoging van het indexcijfer van 2008 (125,1) ten opzichte van 2007 (118,5). De maximumvergoeding voor het bijwonen van vergaderingen voor leden van gemeentelijke commissies genoemd in het eerste lid van [artikel 14 van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) bedraagt per 1 januari 2009:  Tabel IV 
 
-| Klasse  | Inwonertal  | Vergoeding per vergadering  |
+| Klasse  | Inwonertal  | Vergoeding per vergadering   |
 |:---|:---|:---|
-| 1  | --- | –  | 10.000  | € 53,64  |
+| 1  | --- | –  | 10.000   | € 53,64  |
 | 2  | 10.001  | –  | 20.000  | € 59,30  |
 | 3  | 20.001  | –  | 50.000  | € 71,15  |
 | 4  | 50.001  | –  | 100.000  | € 87,54  |
@@ -134,9 +148,11 @@ In [artikel 14, eerste lid](../../../../../../../../AMvB/rechtspositiebesluit/ra
 
 ####Informatie op internet
 
+Materieel uitgewerkt per 01-01-2011 
+
 Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de internetsite van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.minbzk.nl, openbaar bestuur, politieke ambtsdragers.     
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur Arbeidszaken Publieke Sector, 
-L.D.P.Lombaers   
+L.D.P. Lombaers     
