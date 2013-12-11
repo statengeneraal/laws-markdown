@@ -15,4 +15,4 @@ De hoofdregel is dat de in de GBA opgenomen gegevens omtrent de nationaliteit(en
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Th.B.Bijleveld-Schouten   
+A.Th.B. Bijleveld-Schouten     

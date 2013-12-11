@@ -12,40 +12,40 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* de Minister van Verkeer en Waterstaat;  
+a.  *minister:* de Minister van Economische Zaken;  
 
-b. *NLR:* de Stichting Nationaal Lucht- en Ruimtevaartlaboratorium;  
+b.  *NLR:* de Stichting Nationaal Lucht- en Ruimtevaartlaboratorium;  
 
-c. *Onderzoeksprogramma NLR:* het in overleg met het Rijk door NLR opgestelde programma van vraaggestuurd onderzoek, bestaande uit de onderdelen Kennis voor beleid, Kennis als vermogen en Faciliteiten als vermogen;  
+c.  *Onderzoeksprogramma NLR:* het in overleg met het Rijk door NLR opgestelde programma van vraaggestuurd onderzoek, bestaande uit de onderdelen Kennis voor beleid, Kennis als vermogen en Faciliteiten als vermogen;  
 
-d. *Kennis voor beleid:* middellange termijn onderzoek, op initiatief van de overheid of het bedrijfsleven, van belang voor beleidsvraagstukken van de overheid en voor economische vraagstukken van strategisch belang voor het bedrijfsleven;  
+d.  *Kennis voor beleid:* middellange termijn onderzoek, op initiatief van de overheid of het bedrijfsleven, van belang voor beleidsvraagstukken van de overheid en voor economische vraagstukken van strategisch belang voor het bedrijfsleven;  
 
-e. *Kennis als vermogen:* lange termijn onderzoek, op initiatief van NLR, gericht op het in stand houden en ontwikkelen van kennis die NLR in staat stelt toekomstige vragen, beleidsvragen daaronder begrepen, te kunnen beantwoorden;  
+e.  *Kennis als vermogen:* lange termijn onderzoek, op initiatief van NLR, gericht op het in stand houden en ontwikkelen van kennis die NLR in staat stelt toekomstige vragen, beleidsvragen daaronder begrepen, te kunnen beantwoorden;  
 
-f. *Faciliteiten als vermogen:* ontwikkeling en instandhouding van de grote onderzoeks- en testfaciliteiten, benodigd voor het uitvoeren of kunnen uitvoeren van de onderdelen Kennis voor beleid en Kennis als vermogen enerzijds en van onderzoeksopdrachten van overheid en bedrijfsleven anderzijds;  
+f.  *Faciliteiten als vermogen:* ontwikkeling en instandhouding van de grote onderzoeks- en testfaciliteiten, benodigd voor het uitvoeren of kunnen uitvoeren van de onderdelen Kennis voor beleid en Kennis als vermogen enerzijds en van onderzoeksopdrachten van overheid en bedrijfsleven anderzijds;  
 
-g. *Programmafinanciering:* subsidie van het Rijk ten behoeve van het Onderzoeksprogramma NLR;  
+g.  *Programmafinanciering:* subsidie van het Rijk ten behoeve van het Onderzoeksprogramma NLR;  
 
-h. *Instandhoudingsbijdrage:* subsidie van het Rijk ten behoeve van de instandhouding van de grote onderzoeks- en testfaciliteiten van NLR. Deze subsidie heeft geen betrekking op de instandhouding dan wel de vervanging van de grote onderdelen van de windtunnel, ook wel aangeduid als Large Low Speed Facility.    
+h.  *Instandhoudingsbijdrage:* subsidie van het Rijk ten behoeve van de instandhouding van de grote onderzoeks- en testfaciliteiten van NLR. Deze subsidie heeft geen betrekking op de instandhouding dan wel de vervanging van de grote onderdelen van de windtunnel, ook wel aangeduid als Large Low Speed Facility.   
 
 ### Artikel  2  
 
 ####Subsidie
 
 1.  De minister verleent jaarlijks op aanvraag subsidie aan NLR in de vorm van Programmafinanciering en een Instandhoudingsbijdrage.   
-2.  De minister kan in bijzondere gevallen op aanvraag subsidie verlenen aan NLR, waaronder in elk geval ten behoeve van de instandhouding dan wel de vervanging van de grote onderdelen van de windtunnel, ook wel aangeduid als Large Low Speed Facility.   
+2.  De minister kan in bijzondere gevallen op aanvraag subsidie verlenen aan NLR, waaronder in elk geval ten behoeve van de instandhouding dan wel de vervanging van de grote onderdelen van de windtunnel, ook wel aangeduid als Large Low Speed Facility.  
 
 ### Artikel  3  
 
 ####Mededeling voornemen
 
-De minister deelt jaarlijks schriftelijk aan NLR mee welk bedrag hij voornemens is beschikbaar te stellen voor de Programmafinanciering onderscheidenlijk de Instandhoudingsbijdrage. De minister doet deze mededeling uiterlijk op 1 oktober van het jaar voorafgaand aan het kalenderjaar waarvoor hij het voorgenomen bedrag beschikbaar wil stellen.  
+De minister deelt jaarlijks schriftelijk aan NLR mee welk bedrag hij voornemens is beschikbaar te stellen voor de Programmafinanciering onderscheidenlijk de Instandhoudingsbijdrage. De minister doet deze mededeling uiterlijk op 1 oktober van het jaar voorafgaand aan het kalenderjaar waarvoor hij het voorgenomen bedrag beschikbaar wil stellen. 
 
 ### Artikel  4  
 
 ####Toepassing Awb
 
-[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van de [artikelen 4:60](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:74](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:75, tweede lid, van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van de [artikelen 4:60](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:74](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:75, tweede lid, van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  5  
 
@@ -61,7 +61,7 @@ b. het voor het desbetreffende kalenderjaar opgestelde instandhoudingsprogramma 
 
 c. een begroting als bedoeld in [artikel 4:61, eerste lid, onder b, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), inclusief de onderbouwing van de kosten van het in onderdeel a bedoelde Onderzoeksprogramma NLR, alsmede van de benodigde middelen voor de instandhouding van de grote onderzoeks- en testfaciliteiten van NLR die in het desbetreffende kalenderjaar ten laste van de Instandhoudingsbijdrage gebracht zullen worden; en  
 
-d. het Strategieplan NLR voor de periode waarin het desbetreffende kalenderjaar valt.     
+d. het Strategieplan NLR voor de periode waarin het desbetreffende kalenderjaar valt.    
 
 ### Artikel  6  
 
@@ -69,7 +69,7 @@ d. het Strategieplan NLR voor de periode waarin het desbetreffende kalenderjaar 
 
 1.  De beschikking op de aanvraag, bedoeld in artikel 5, eerste lid, wordt genomen binnen 13 weken na de ontvangst van de aanvraag.   
 2.  De beschikking tot subsidieverlening bevat in elk geval het voor het desbetreffende kalenderjaar verleende bedrag voor de Programmafinanciering, onderscheidenlijk de Instandhoudingsbijdrage.   
-3.  De minister bepaalt in overleg met de andere bij NLR betrokken ministers de verdeling van de Programmafinanciering over Kennis voor beleid, Kennis als vermogen en Faciliteiten als vermogen en vermeldt deze verdeling in de beschikking tot subsidieverlening.   
+3.  De minister bepaalt in overleg met de andere bij NLR betrokken ministers de verdeling van de Programmafinanciering over Kennis voor beleid, Kennis als vermogen en Faciliteiten als vermogen en vermeldt deze verdeling in de beschikking tot subsidieverlening.  
 
 ### Artikel  7  
 
@@ -81,13 +81,13 @@ a. de aanvraag niet voldoet aan het bepaalde in artikel 5;
 
 b. er in de voorgaande kalenderjaren ten aanzien van de subsidieverlening dan wel de subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [4:50 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); of  
 
-c. NLR de in deze regeling opgenomen verplichtingen in enig kalenderjaar niet heeft nageleefd.    
+c. NLR de in deze regeling opgenomen verplichtingen in enig kalenderjaar niet heeft nageleefd.   
 
 ### Artikel  8  
 
 ####Hoofdstuk XII Rijksbegroting
 
-Indien de Tweede Kamer Hoofdstuk XII van de Rijksbegroting van enig jaar niet heeft goedgekeurd vóór aanvang van het desbetreffende kalenderjaar, wordt de subsidie, bedoeld in artikel 2, eerste lid, voor 50% van het in dat Hoofdstuk opgenomen bedrag verleend en wordt het resterende gedeelte verleend zodra Hoofdstuk XII van de Rijksbegroting is goedgekeurd.  
+Indien de Tweede Kamer Hoofdstuk XII van de Rijksbegroting van enig jaar niet heeft goedgekeurd vóór aanvang van het desbetreffende kalenderjaar, wordt de subsidie, bedoeld in artikel 2, eerste lid, voor 50% van het in dat Hoofdstuk opgenomen bedrag verleend en wordt het resterende gedeelte verleend zodra Hoofdstuk XII van de Rijksbegroting is goedgekeurd. 
 
 ### Artikel  9  
 
@@ -114,13 +114,13 @@ b. een door de controlerend accountant goedgekeurd kostenallocatiesysteem; en
 
 c. een verklaring van de controlerend accountant.     
 3.  NLR draagt er daarnaast zorg voor dat het Onderzoeksprogramma NLR voldoet aan de normaliter geldende kwaliteitseisen ter zake van de mogelijkheden tot spreiding van kennis, de benutting van de ontwikkelde kennis door de overheid en de benutting ten behoeve van de betaalde opdrachten.   
-4.  NLR streeft naar een eigen vermogen van minimaal 25% van het totaal vermogen van NLR. NLR doet onverwijld een schriftelijke mededeling aan de minister zodra aannemelijk is dat het eigen vermogen onder genoemd percentage dreigt te geraken.   
+4.  NLR streeft naar een eigen vermogen van minimaal 25% van het totaal vermogen van NLR. NLR doet onverwijld een schriftelijke mededeling aan de minister zodra aannemelijk is dat het eigen vermogen onder genoemd percentage dreigt te geraken.  
 
 ### Artikel  10  
 
 ####Voorschotverlening
 
-Tegelijkertijd met de beschikking tot subsidieverlening wordt een beschikking tot bevoorschotting gegeven ter hoogte van 100% van de verleende subsidie.  
+Tegelijkertijd met de beschikking tot subsidieverlening wordt een beschikking tot bevoorschotting gegeven ter hoogte van 100% van de verleende subsidie. 
 
 ### Artikel  11  
 
@@ -138,7 +138,7 @@ c. een jaarrekening en een jaarverslag van het desbetreffende kalenderjaar; en
 d. tevredenheidsverklaringen van de andere bij NLR betrokken departementen.     
 3.  De minister beslist binnen 22 weken na ontvangst op de aanvraag tot subsidievaststelling.   
 4.  Voor zover in enig kalenderjaar sprake is van een niet tot besteding gekomen gedeelte van de subsidie die voor dat jaar ten behoeve van de Programmafinanciering is verleend en dit bedrag evenmin geheel in het direct daarop volgende begrotingsjaar tot besteding wordt gebracht, wordt dit overschot of het resterende gedeelte daarvan na beëindiging van het tweede begrotingsjaar volgend op het jaar van terbeschikkingstelling op eerste vordering terugbetaald aan de minister.   
-5.  Voor zover in enig kalenderjaar sprake is van een niet tot besteding gekomen gedeelte van de subsidie die voor dat jaar ten behoeve van de Instandhoudingsbijdrage is verleend en dit bedrag evenmin geheel in de direct daarop volgende acht begrotingsjaren tot besteding wordt gebracht, wordt dit overschot of het resterende gedeelte daarvan na beëindiging van het negende begrotingsjaar volgend op het jaar van terbeschikkingstelling op eerste vordering terugbetaald aan de minister.   
+5.  Voor zover in enig kalenderjaar sprake is van een niet tot besteding gekomen gedeelte van de subsidie die voor dat jaar ten behoeve van de Instandhoudingsbijdrage is verleend en dit bedrag evenmin geheel in de direct daarop volgende acht begrotingsjaren tot besteding wordt gebracht, wordt dit overschot of het resterende gedeelte daarvan na beëindiging van het negende begrotingsjaar volgend op het jaar van terbeschikkingstelling op eerste vordering terugbetaald aan de minister.  
 
 ### Artikel  12  
 
@@ -148,21 +148,25 @@ d. tevredenheidsverklaringen van de andere bij NLR betrokken departementen.
 2.  Een aanvraag tot subsidieverlening als bedoeld in artikel 2, tweede lid, gaat in ieder geval vergezeld van een onderbouwing van de gevraagde subsidie in de vorm van een business case.   
 3.  De beschikking tot verlening van een subsidie als bedoeld in artikel 2, tweede lid, bevat in elk geval het verleende subsidiebedrag en de daarbij in acht te nemen specifieke subsidievoorwaarden.   
 4.  De minister kan de verlening van een subsidie als bedoeld in artikel 2, tweede lid, geheel of gedeeltelijk weigeren, indien de aanvraag niet voldoet aan het bepaalde in artikel 12, tweede lid.   
-5.  NLR dient uiterlijk binnen 22 weken nadat de activiteit waarvoor de subsidie, bedoeld in artikel 2, tweede lid, is verleend is verricht, een aanvraag tot subsidievaststelling in bij de minister, ter attentie van de Directeur-Generaal Luchtvaart en Maritieme Zaken, Postbus 20904, 2500 EX Den Haag.   
+5.  NLR dient uiterlijk binnen 22 weken nadat de activiteit waarvoor de subsidie, bedoeld in artikel 2, tweede lid, is verleend is verricht, een aanvraag tot subsidievaststelling in bij de minister, ter attentie van de Directeur-Generaal Luchtvaart en Maritieme Zaken, Postbus 20904, 2500 EX Den Haag.  
+
+### Artikel  12a  
+
+Deze regeling berust op [artikel 3 van de Kaderwet EZ-subsidies](../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md). 
 
 ### Artikel  13  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010. 
 
 ### Artikel  14  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling NLR.  
+Deze regeling wordt aangehaald als: Subsidieregeling NLR. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat,
+C.M.P.S. Eurlings     

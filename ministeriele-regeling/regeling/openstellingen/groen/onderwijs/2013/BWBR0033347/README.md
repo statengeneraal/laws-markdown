@@ -9,29 +9,29 @@ Besluit:
 ### Artikel  1  
 
 1.  In deze regeling wordt verstaan onder regeling: [Regeling praktijkleren en Groene plus](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md).   
-2.  De begripsomschrijvingen van [artikel 1 van de regeling Praktijkleren en groene plus](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) zijn in deze regeling van overeenkomstige toepassing   
+2.  De begripsomschrijvingen van [artikel 1 van de regeling Praktijkleren en groene plus](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) zijn in deze regeling van overeenkomstige toepassing  
 
 ### Artikel  2  
 
-De kosten voor het inzetten van personeel, bedoeld in [artikel 28, derde lid, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) voor het jaar 2013 worden bepaald op basis van de uurtarieven behorend bij de schalen in het [Bezoldigingsbesluit burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), als volgt: 
+De kosten voor het inzetten van personeel, bedoeld in [artikel 28, derde lid, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) voor het jaar 2014 worden bepaald op basis van de uurtarieven behorend bij de schalen in het [Bezoldigingsbesluit burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), als volgt: 
 
-a. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 1 tot en met 9: ten hoogste € 59,–;  
+a. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 1 tot en met 9: ten hoogste€ 60,–;  
 
-b. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 10 tot en met 12: ten hoogste € 74,–;  
+b. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 10 tot en met 12: ten hoogste € 75,–;  
 
-c. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 13 tot en met 18: ten hoogste € 98,–.    
+c. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 13 tot en met 18: ten hoogste € 98,–.   
 
 ### Artikel  3  
 
-1.  De minister kan subsidie verstrekken voor activiteiten in het kader van het sectorplan AOC 2011-2014. Deze activiteiten beogen het vergroten van de kwaliteit van het onderwijs verbonden aan de agrarische opleidingencentra, waaronder in het bijzonder de kwaliteit van het onderwijs en van de examens van het voorbereidend beroepsonderwijs, en het versterken van hun functioneren in verband met de toelevering van gediplomeerden aan en de kennisverspreiding naar de branches binnen het bedrijfsleven waarvoor de minister verantwoordelijk is. Voor de jaren 2013 en 2014 wordt prioriteit gegeven aan het vergroten van de kwaliteit van het onderwijs en aan versterking van de inzet van de instellingen op de thema’s uit de landelijke agenda.   
+1.  De minister kan subsidie verstrekken voor activiteiten in het kader van het sectorplan AOC 2011-2014. Deze activiteiten beogen het vergroten van de kwaliteit van het onderwijs verbonden aan de agrarische opleidingencentra, waaronder in het bijzonder de kwaliteit van het onderwijs en van de examens van het voorbereidend beroepsonderwijs, en het versterken van hun functioneren in verband met de toelevering van gediplomeerden aan en de kennisverspreiding naar de branches binnen het bedrijfsleven waarvoor de minister verantwoordelijk is. Voor het jaar 2014 wordt prioriteit gegeven aan het vergroten van de algemene kwaliteit van het onderwijs binnen de AOC in relatie tot de inzet van de instellingen op de thema’s uit de landelijke agenda en de activiteiten van de agrarische opleidingscentra op basis van hun meerjarige investeringsprogramma’s.   
 2.  De subsidie kan worden aangevraagd door de AOC-Raad. De aanvraag betreft alleen de landelijke activiteiten en de coördinatie van de inzet van de instellingen en afdelingen binnen deze activiteiten.   
-3.  Het subsidieplafond bedraagt € 280.000,– voor het jaar 2013.   
+3.  Het subsidieplafond bedraagt € 280.000,– voor het jaar 2014.   
 4.  De aanvragen kunnen worden ingediend onder de volgende voorwaarden: 
 
-a. voor 1 juli van het jaar 2013 en 1 april van het jaar 2014 legt de AOC-raad aan de minister een activiteitenplan voor met een aanvraag voor subsidie voor de activiteiten in die plannen. De activiteiten sluiten aan bij het goedgekeurde Sectorplan AOC 2011-2014. De activiteitenplannen voor de jaren 2013 en 2014 gaan vergezeld van een korte voortgangsrapportage en een financieel verslag over het voorgaande jaar.  
+a.  voor 1 april van het jaar 2014 legt de AOC-raad aan de minister een activiteitenplan voor met een aanvraag voor subsidie voor de activiteiten in dat plan. De activiteiten sluiten aan bij het goedgekeurde Sectorplan AOC 2011-2014. Het activiteitenplan voor het jaar 2014 gaat vergezeld van een korte voortgangsrapportage en een financieel verslag over het voorgaande jaar.  
 
 b. het activiteitenplan geeft aan welke activiteiten geheel of gedeeltelijk door een instelling of instellingen zullen worden uitgevoerd, welke instelling of instellingen deze zullen uitvoeren en welke middelen deze instelling of instellingen zal inzetten overeenkomstig het meerjarig investeringsprogramma van deze instelling of instellingen.     
-5.  In het activiteitenverslag en het financieel verslag bij de aanvraag voor de vaststelling van de subsidie specificeert de AOC-Raad de activiteiten die zijn uitgevoerd door de instellingen, het resultaat van deze activiteiten van de afzonderlijke instellingen en de besteding van de subsidie door de afzonderlijke instellingen.   
+5.  In het activiteitenverslag en het financieel verslag bij de aanvraag voor de vaststelling van de subsidie specificeert de AOC-Raad de activiteiten die zijn uitgevoerd door de instellingen, het resultaat van deze activiteiten van de afzonderlijke instellingen en de besteding van de subsidie door de afzonderlijke instellingen.  
 
 ### Artikel  4  
 
@@ -44,7 +44,7 @@ a. indien de aanvrager een agrarisch opleidingscentrum of een hogeschool is, is 
 
 b. de subsidie bedraagt ten hoogste 50% van de begrote kosten;  
 
-c. de bijdrage in de financiering door ten minste één bedrijf of één organisatie namens het bedrijfsleven bedraagt ten minste 25% van de begrote kosten.     
+c. de bijdrage in de financiering door ten minste één bedrijf of één organisatie namens het bedrijfsleven bedraagt ten minste 25% van de begrote kosten.    
 
 ### Artikel  5  
 
@@ -55,7 +55,7 @@ c. de bijdrage in de financiering door ten minste één bedrijf of één organis
 
 a. de doelstelling en de mogelijke inzet van de middelen worden bepaald door het door de minister goedgekeurde Uitvoeringsplan Kies Kleur in Groen: Culturele diversiteit in een internationale groene context 2010-2013; wijziging van de doelstelling en mogelijke inzet behoeft toestemming van de minister op basis van de aanvraag voor ieder jaar;  
 
-b. de aanvraag gaat vergezeld van een jaarlijks projectplan, een begroting en een overzicht van de liquiditeitsbehoefte voor dat jaar en een korte voortgangsrapportage betreffende het voorgaande jaar.     
+b. de aanvraag gaat vergezeld van een jaarlijks projectplan, een begroting en een overzicht van de liquiditeitsbehoefte voor dat jaar en een korte voortgangsrapportage betreffende het voorgaande jaar.    
 
 ### Artikel  6  
 
@@ -70,7 +70,7 @@ b. de subsidie bedraagt voor de afdelingen, per vestiging, voor Wageningen Unive
 
 c. de aanvraag gaat vergezeld van een projectplan voor het eerstvolgend schooljaar, een begroting waaruit blijkt welk deel van de kosten door de instelling wordt bekostigd en een korte voortgangsrapportage betreffende het voorgaande jaar;  
 
-d. de instellingen verantwoorden bestemming en besteding van de middelen in de jaarrekening en het jaarverslag; voor 1 december 2014 zenden de subsidieontvangers, bedoeld in onderdeel b, een eindverslag aan de minister waaruit de borging van de resultaten van de activiteiten blijkt.     
+d. de instellingen verantwoorden bestemming en besteding van de middelen in de jaarrekening en het jaarverslag; voor 1 december 2014 zenden de subsidieontvangers, bedoeld in onderdeel b, een eindverslag aan de minister waaruit de borging van de resultaten van de activiteiten blijkt.    
 
 ### Artikel  7  
 
@@ -81,39 +81,34 @@ d. de instellingen verantwoorden bestemming en besteding van de middelen in de j
 
 a. de subsidie bedraagt ten hoogste 75% van de subsidiabele kosten;  
 
-b. aanvragen gaan vergezeld van een projectplan waaruit ten minste blijkt dat de aanvraag wordt ondersteund door de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en aansluit bij prioriteiten in de Human Capital Agenda van deze topsectoren.     
-
-### Artikel  8  
-
-1.  De minister kan subsidie verstrekken voor activiteiten in het kader van het door de minister goedgekeurde Sectorplan groen hoger onderwijs. Doel van dit plan is het bevorderen van de kwaliteit van het onderwijs verbonden aan de hogescholen en Wageningen Universiteit.   
-2.  De subsidie kan worden aangevraagd door de hogescholen en door Wageningen Universiteit.   
-3.  Het subsidieplafond bedraagt € 20.100.000 voor de periode van 2013 tot en met 2018. De per jaar ter beschikking te stellen subsidies bedragen ten hoogste: voor het jaar 2013 € 2.500.000, voor het jaar 2014 € 4.400.000, voor het jaar 2015 € 5.200.000, voor het jaar 2016 € 5.000.000, voor het jaar 2017 € 2.600.000 en voor het jaar 2018 € 400.000.   
-4.  De aanvragen kunnen in 2013 worden ingediend onder de volgende voorwaarden: 
-
-a. de aanvragen betreffen het inrichten van een centre of expertise met een looptijd van vier jaar voor één van de thema’s greenports, food, dier, open teelt en duurzaam ondernemen. Uit de aanvragen blijkt dat deze zijn afgestemd binnen het Platform groen hoger onderwijs.  
-
-b. de subsidie bedraagt per jaar ten hoogste 50% van de kosten.     
-5.  In afwijking van het bepaalde in [artikel 30, eerste lid, van de regeling](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) worden de aanvragen gedaan bij de directeur van de directie Agrokennis.   
-6.  De aanvragen zullen door de minister worden beoordeeld na advies van de Reviewcommissie hoger Onderwijs en Onderzoek als bedoeld in [artikel 12, tweede lid, van het Besluit experiment prestatiebekostiging hoger onderwijs](../../../../../../../AMvB/besluit/experiment/prestatiebekostiging/hoger/onderwijs/BWBR0032163/README.md).   
+b. aanvragen gaan vergezeld van een projectplan waaruit ten minste blijkt dat de aanvraag inhoudelijk wordt ondersteund door één of meer van de partijen die zich hebben verenigd in de Human Capital Agenda van de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en de Human Capital Agenda Natuur en Leefomgeving.    
 
 ### Artikel  9  
 
 1.  De minister kan subsidie verstrekken aan Aequor voor activiteiten gericht op versterking van zijn inzet voor de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen, zoals nader bepaald door de Human Capital Agenda bij deze topsectoren.   
-2.  Het subsidieplafond bedraagt € 400.000 voor elk van de jaren 2013, 2014 en 2015.   
-3.  De aanvraag gaat vergezeld van een activiteitenplan en van een plan voor de borging en voortzetting van de resultaten van de activiteiten binnen de bedrijfsvoering van Aequor, met een begroting hiervoor. Het activiteitenplan en het plan voor borging en voortzetting hebben de instemming van de Paritaire Commissie. Uit het activiteitenplan blijkt dat de aanvraag wordt ondersteund door de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en aansluit bij prioriteiten in de Human Capital Agenda van deze topsectoren.   
+2.  Het subsidieplafond bedraagt € 400.000 voor elk van de jaren 2014 en 2015.   
+3.  De aanvraag gaat vergezeld van een activiteitenplan en van een plan voor de borging en voortzetting van de resultaten van de activiteiten binnen de bedrijfsvoering van Aequor, met een begroting hiervoor. Het activiteitenplan en het plan voor borging en voortzetting hebben de instemming van de Paritaire Commissie. Uit het activiteitenplan blijkt dat de aanvraag wordt ondersteund door één of meer van de partijen die zich hebben verenigd in de Human Capital Agenda van de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en de Human Capital Agenda Natuur en Leefomgeving.  
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van 1 mei 2013.  
+Deze regeling treedt in werking met ingang van 1 mei 2013. 
+
+### Artikel  10a  
+
+Als het bij koninklijke boodschap van 6 juni 2013 ingediende voorstel van wet (Wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) tot wet is verheven dan berust deze regeling mede op [artikel 3 van de Kaderwet EZ-subsidies](../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md). 
+
+### Artikel  10b  
+
+Deze regeling vervalt met ingang van 1 januari 2016. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling openstellingen groen onderwijs 2013.  
+Deze regeling wordt aangehaald als: Regeling openstellingen groen onderwijs 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 26 april 2013   
 
 De 
-Staatssecretaris van Economische Zaken,
-S.A.M.Dijksma   
+Staatssecretaris van Economische Zaken, 
+S.A.M. Dijksma     

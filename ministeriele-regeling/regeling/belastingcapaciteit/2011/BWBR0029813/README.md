@@ -19,7 +19,7 @@ a. de waarden, genoemd in [artikel 220d van de Gemeentewet](../../../../../wet/g
 
 b. de waarden van gedeelten van onroerende zaken, genoemd in [artikel 220e van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md); of  
 
-c. de waarden van onroerende zaken waarvoor op grond van [artikel 243 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) vrijstelling van gemeentelijke belastingen wordt verleend.     
+c. de waarden van onroerende zaken waarvoor op grond van [artikel 243 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) vrijstelling van gemeentelijke belastingen wordt verleend.    
 
 ### §  2  
 
@@ -27,16 +27,16 @@ c. de waarden van onroerende zaken waarvoor op grond van [artikel 243 van de Gem
 
 ### Artikel  2  
 
-Het college van burgemeester en wethouders verstrekt de ingevolge [artikel 22 van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden jaarlijks aan het Centraal Bureau voor de Statistiek op de wijze zoals in bijlage 1 bij deze regeling is aangegeven.  
+Het college van burgemeester en wethouders verstrekt de ingevolge [artikel 22 van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden jaarlijks aan het Centraal Bureau voor de Statistiek op de wijze zoals in bijlage 1 bij deze regeling is aangegeven. 
 
 ### Artikel  3  
 
 1.  Het college van burgemeester en wethouders doet vóór 1 maart van elk jaar een voorlopige opgave aan het Centraal Bureau voor de Statistiek van de gegevens, bedoeld in artikel 2, zoals die gelden op 1 januari van dat jaar.   
-2.  Het college van burgemeester en wethouders doet vóór 1 april van het jaar, twee jaar volgend op het jaar waarin voorlopige opgave is gedaan, een definitieve opgave aan het Centraal Bureau voor de Statistiek van de gegevens, bedoeld in het eerste lid.   
+2.  Het college van burgemeester en wethouders doet vóór 1 april van het jaar, twee jaar volgend op het jaar waarin voorlopige opgave is gedaan, een definitieve opgave aan het Centraal Bureau voor de Statistiek van de gegevens, bedoeld in het eerste lid.  
 
 ### Artikel  4  
 
-Het college van burgemeester en wethouders maakt voor de gegevensverstrekking gebruik van het in bijlage 2 bij deze regeling opgenomen standaarduitwisselingsformaat.  
+Het college van burgemeester en wethouders maakt voor de gegevensverstrekking gebruik van het in bijlage 2 bij deze regeling opgenomen standaarduitwisselingsformaat. 
 
 ### §  3  
 
@@ -44,28 +44,26 @@ Het college van burgemeester en wethouders maakt voor de gegevensverstrekking ge
 
 ### Artikel  5  
 
-De [Regeling Belastingcapaciteit](../../../../../ministeriele-regeling/regeling/belastingcapaciteit/BWBR0008326/README.md) wordt ingetrokken.  
+De [Regeling Belastingcapaciteit](../../../../../ministeriele-regeling/regeling/belastingcapaciteit/BWBR0008326/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.  
+Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling belastingcapaciteit 2011.  
+Deze regeling wordt aangehaald als: Regeling belastingcapaciteit 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.P.H.Donner.  
+minister van Binnenlandse Zaken en Koninkrijksrelaties,
+J.P.H. Donner.    
 
 ### Bijlage  1  
 
 ####Behorende bij artikel 2  van de Regeling belastingcapaciteit 2011
 
-####Lijst met aan het CBS te verstrekken gegevens
-
-<sup> 1  De tussen haakjes aangeduide code bij de gegevens verwijst naar het nummer dat het desbetreffende gegeven heeft gekregen in het Standaard uitwisselingsformulier, opgenomen als *bijlage 2* bij deze regeling.  </sup>   
+####Lijst met aan het CBS te verstrekken gegevens<sup> 1  De tussen haakjes aangeduide code bij de gegevens verwijst naar het nummer dat het desbetreffende gegeven heeft gekregen in het Standaard uitwisselingsformulier, opgenomen als *bijlage 2* bij deze regeling.  </sup> 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -97,7 +95,7 @@ J.P.H.Donner.
 | Type:  | numeriek  |
 | Lengte:  | 12  |
 | Domein:  | de eerste vier cijfers: een code die voorkomt in de tabel Gemeenten (tabel 33) van  |
-| de Gemeentelijke Basisadminstratie (GBA); de laatste acht cijfers:  | 00000000–99999999  |
+| de basisregistratie personen (BRP); de laatste acht cijfers:  | 00000000–99999999  |
 | Stuf-WOZnummer:  | 01.01  |
 | --- | --- |
 | Huisnummer  | --- |

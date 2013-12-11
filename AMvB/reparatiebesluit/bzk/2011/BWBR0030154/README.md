@@ -14,32 +14,39 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 Hebben goed gevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 28-06-2013 
 
-Wijzigt het Besluit beschikbaarstelling ambtenaren aan Aruba, Curaçao en Sint Maarten.   
+Wijzigt het Besluit beschikbaarstelling ambtenaren aan Aruba, Curaçao en Sint Maarten. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 28-06-2013 
 
-Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens.   
+Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 28-06-2013 
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 28-06-2013 
 
-Wijzigt het Kiesbesluit.   
+Wijzigt het Kiesbesluit. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 28-06-2013 
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 28-06-2013 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat artikel I en II terugwerken tot 10 oktober 2010 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat artikel I en II terugwerken tot 10 oktober 2010 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 28-06-2013 
 
-Dit besluit wordt aangehaald als: Reparatiebesluit BZK 2011.  
+Dit besluit wordt aangehaald als: Reparatiebesluit BZK 2011. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -47,10 +54,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 14 juni 2011  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *zevenentwintigste* juni 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

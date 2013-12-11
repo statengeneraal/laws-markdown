@@ -6,7 +6,7 @@
 
 ####Inleiding
 
-In deze circulaire vragen wij uw aandacht voor het volgende. Bij besluit van 25 mei 2007 heeft het Kabinet ingestemd met een regeling ter afwikkeling van de nalatenschap van de oude Vreemdelingenwet (verder te noemen de regeling). Onderdeel van deze regeling is een procedure waarbij vreemdelingen die onder de werking ervan vallen en aan bepaalde voorwaarden voldoen, eenmalig in de gelegenheid worden gesteld om ten overstaan van de Immigratie- en Naturalisatiedienst (IND) binnen twee maanden hun juiste identiteit (naam, geboortedatum, geboorteplaats en geboorteland) en nationaliteit aan te tonen. Het doel van deze regeling is niet alleen ervoor te zorgen dat de betrokken vreemdeling met de juiste identiteits- en nationaliteitsgegevens in de Nederlandse overheidsadministraties wordt opgenomen, maar ook dat de in de verschillende administraties opgenomen gegevens – binnen de bestaande verantwoordelijkheden en bevoegdheden van degenen die deze administraties bijhouden – op elkaar worden afgestemd. In deze circulaire worden GBA-ambtenaren geïnformeerd over de werkwijze van de IND inzake het afgeven van een verklaring, waarin de bevindingen zijn neergelegd van het door de IND ingestelde onderzoek met betrekking tot de identiteit en nationaliteit van de vreemdeling die onder de werking van de regeling valt. Tevens is in deze circulaire een aanbeveling opgenomen aan GBA-ambtenaren over hoe om te gaan met deze verklaringen van de IND. De beschreven processen zijn daarmee voor GBA-ambtenaren binnen de bestaande wettelijke kaders een handreiking om op eenduidige wijze uitvoering te geven aan de gevolgen van het besluit van het kabinet om de daarin beschreven categorie vreemdelingen eenmalig de mogelijkheid te bieden de juiste gegevens omtrent hun identiteit en nationaliteit naar voren te brengen. De zaken die u ingevolge deze circulaire door de IND zullen worden aangeleverd, betreffen uitsluitend personen ten aanzien van wie geen gegevens zijn opgenomen in Nederlandse akten van de Burgerlijke Stand. Voor de Burgerlijke Stand wordt u verwezen naar het bepaalde in paragraaf 5.    
+In deze circulaire vragen wij uw aandacht voor het volgende. Bij besluit van 25 mei 2007 heeft het Kabinet ingestemd met een regeling ter afwikkeling van de nalatenschap van de oude Vreemdelingenwet (verder te noemen de regeling).  Onderdeel van deze regeling is een procedure waarbij vreemdelingen die onder de werking ervan vallen en aan bepaalde voorwaarden voldoen, eenmalig in de gelegenheid worden gesteld om ten overstaan van de Immigratie- en Naturalisatiedienst (IND) binnen twee maanden hun juiste identiteit (naam, geboortedatum, geboorteplaats en geboorteland) en nationaliteit aan te tonen. Het doel van deze regeling is niet alleen ervoor te zorgen dat de betrokken vreemdeling met de juiste identiteits- en nationaliteitsgegevens in de Nederlandse overheidsadministraties wordt opgenomen, maar ook dat de in de verschillende administraties opgenomen gegevens – binnen de bestaande verantwoordelijkheden en bevoegdheden van degenen die deze administraties bijhouden – op elkaar worden afgestemd. In deze circulaire worden GBA-ambtenaren geïnformeerd over de werkwijze van de IND inzake het afgeven van een verklaring, waarin de bevindingen zijn neergelegd van het door de IND ingestelde onderzoek met betrekking tot de identiteit en nationaliteit van de vreemdeling die onder de werking van de regeling valt. Tevens is in deze circulaire een aanbeveling opgenomen aan GBA-ambtenaren over hoe om te gaan met deze verklaringen van de IND. De beschreven processen zijn daarmee voor GBA-ambtenaren binnen de bestaande wettelijke kaders een handreiking om op eenduidige wijze uitvoering te geven aan de gevolgen van het besluit van het kabinet om de daarin beschreven categorie vreemdelingen eenmalig de mogelijkheid te bieden de juiste gegevens omtrent hun identiteit en nationaliteit naar voren te brengen. De zaken die u ingevolge deze circulaire door de IND zullen worden aangeleverd, betreffen uitsluitend personen ten aanzien van wie geen gegevens zijn opgenomen in Nederlandse akten van de Burgerlijke Stand. Voor de Burgerlijke Stand wordt u verwezen naar het bepaalde in paragraaf 5.    
 ### 2  
 
 ####Op welke vreemdelingen heeft deze circulaire betrekking?
@@ -69,13 +69,13 @@ De IND neemt de uitvoering van de regeling ter hand. Dit betekent dat de IND die
 
 De 
 Staatssecretaris van Justitie, 
-N.Albayrak 
+N. Albayrak   
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Th.B.Bijleveld-Schouten  
+A.Th.B.  Bijleveld-Schouten    
 
-### Bijlage  1  
+### Bijlage  1 
 
 ###VERKLARING OMTRENT IDENTITEIT EN NATIONALITEIT
 
@@ -96,7 +96,7 @@ Hierbij verklaar ik, * (naam) medewerker bij de Immigratie- en Naturalisatiedien
 
 – nationaliteit (volgens de IND):   De thans naar voren gebrachte gegevens acht ik aannemelijk in het licht van de resultaten van een door de IND uitgevoerd nader onderzoek naar de identiteit en nationaliteit van de betrokken persoon. Aldus opgemaakt te * (plaats) op * (datum) en in tweevoud getekend. Ambtenaar IND Document(en) als bijlage bijgevoegd: * 
 
-### Bijlage  2  
+### Bijlage 2  
 
 ###VERKLARING OMTRENT IDENTITEIT EN NATIONALITEIT
 
@@ -117,7 +117,7 @@ Hierbij verklaar ik, * (naam) medewerker bij de Immigratie- en Naturalisatiedien
 
 – nationaliteit (volgens de IND):   De door de vreemdeling naar voren gebrachte gegevens omtrent * identiteit en/of nationaliteit worden * niet/gedeeltelijk onderbouwd door middel van documenten (zie bijlage). Daarbij is mij ambtshalve bekend dat het aannemelijk wordt geacht dat de vreemdeling voor de niet door documenten ondersteunde gegevens in bewijsnood verkeert. De thans naar voren gebrachte gegevens acht ik aannemelijk in het licht van de resultaten van een door de IND nader uitgevoerd onderzoek naar de identiteit en nationaliteit van de betrokken persoon. Aldus opgemaakt te * (plaats) op * (datum) en in tweevoud getekend. Ambtenaar IND Document(en) als bijlage bijgevoegd: * 
 
-### Bijlage  3  
+### Bijlage 3  
 
 ###Verklaring onder eed of belofte ex [artikel 36, lid 2, onder e, van de Wet GBA](../../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md)
 
@@ -129,9 +129,9 @@ O onder belofte   De verklaring is afgelegd door
 
 O de betrokkene in persoon  
 
-O degene die ingevolge de wet GBA bevoegd is de verplichting tot het afleggen van een verklaring onder eed of belofte namens de betrokken persoon te vervullen   De verklaring is afgelegd in de < *taal* > taal Het volgende is door de ondertekenaar van deze verklaring verklaard: Personalia van de persoon op wie deze verklaring van toepassing is: (Geslachts)Naam: Voorna(a)m(en): Geboortedatum: Geboorteplaats: Geboorteland: Ouders, indien deze niet zijn ingeschreven in de GBA Vader: (Geslachts)Naam: Moeder: (Geslachts)Naam: Kind(eren) van de betrokken persoon (Geslachts)Naam: Voorna(a)m(en): Geboortedatum: Geboorteplaats: Geboorteland: (Geslachts)Naam: Voorna(a)m(en): Geboortedatum: Geboorteplaats: Geboorteland: Huwelijkspartner of geregistreerd partner, indien deze niet is ingeschreven in de GBA (Geslachts)Naam: Ondergetekende is zich ervan bewust dat het afleggen van een valse verklaring strafbaar is. Handtekening verklaringgever Handtekening aangewezen ambtenaar Verklaring Tolk Ik, < *naam tolk* >, beëdigd vertaler/tolk in de < *naam taal* > taal, ingeschreven bij het TVCN, verklaar hierbij dat het bovenstaande een woordgetrouwe en nauwkeurige Nederlandse weergave is van de verklaring zoals deze is afgelegd door < *naam vreemdeling* >. Handtekening tolk Bijlage(n): – Verklaring van de IND omtrent identiteit en nationaliteit 
+O degene die ingevolge de wet GBA bevoegd is de verplichting tot het afleggen van een verklaring onder eed of belofte namens de betrokken persoon te vervullen    De verklaring is afgelegd in de <*taal*> taal Het volgende is door de ondertekenaar van deze verklaring verklaard: Personalia van de persoon op wie deze verklaring van toepassing is: (Geslachts)Naam: Voorna(a)m(en): Geboortedatum: Geboorteplaats: Geboorteland: Ouders, indien deze niet zijn ingeschreven in de GBA Vader: (Geslachts)Naam: Moeder: (Geslachts)Naam: Kind(eren) van de betrokken persoon (Geslachts)Naam: Voorna(a)m(en): Geboortedatum: Geboorteplaats: Geboorteland: (Geslachts)Naam: Voorna(a)m(en): Geboortedatum: Geboorteplaats: Geboorteland: Huwelijkspartner of geregistreerd partner, indien deze niet is ingeschreven in de GBA (Geslachts)Naam: Ondergetekende is zich ervan bewust dat het afleggen van een valse verklaring strafbaar is. Handtekening verklaringgever Handtekening aangewezen ambtenaar Verklaring Tolk  Ik, <*naam tolk*>, beëdigd vertaler/tolk in de <*naam taal*> taal, ingeschreven bij het TVCN, verklaar hierbij dat het bovenstaande een woordgetrouwe en nauwkeurige Nederlandse weergave is van de verklaring zoals deze is afgelegd door <*naam vreemdeling*>. Handtekening tolk Bijlage(n): – Verklaring van de IND omtrent identiteit en nationaliteit 
 
-### Bijlage  4  
+### Bijlage 4  
 
 ###Brief inzake opneming dan wel correctie van gegevens in de GBA met betrekking tot een vreemdeling als bedoeld in de regeling afwikkeling nalatenschap Vreemdelingenwet
 
