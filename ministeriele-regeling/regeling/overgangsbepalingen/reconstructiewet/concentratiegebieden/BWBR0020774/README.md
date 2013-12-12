@@ -14,33 +14,33 @@ a. het landinrichtingsplan, bedoeld in [artikel 73 van de Landinrichtingswet](..
 
 b. de terinzagelegging van het plan van tijdelijk gebruik, bedoeld in [artikel 190, tweede lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), wordt gelijkgesteld aan de terinzagelegging van het besluit, bedoeld in [artikel 56, eerste lid, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md);  
 
-c. het plan van tijdelijk gebruik, bedoeld in [artikel 189, eerste lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), wordt gelijkgesteld aan het besluit, bedoeld in [artikel 56, eerste lid, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).    
+c. het plan van tijdelijk gebruik, bedoeld in [artikel 189, eerste lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), wordt gelijkgesteld aan het besluit, bedoeld in [artikel 56, eerste lid, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).   
 
 ### Artikel  2  
 
-De blokken van de ruilverkaveling ‘Rijssen’ worden voltooid volgens de bepalingen van de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md).  
+De blokken van de ruilverkaveling ‘Rijssen’ worden voltooid volgens de bepalingen van de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md). 
 
 ### Artikel  3  
 
-De op het moment van de inwerkingtreding van [hoofdstuk 3, titel 6, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) afgeronde procedure-onderdelen en procedure-momenten worden geacht te zijn afgerond volgens de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).  
+De op het moment van de inwerkingtreding van [hoofdstuk 3, titel 6, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) afgeronde procedure-onderdelen en procedure-momenten worden geacht te zijn afgerond volgens de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md). 
 
 ### Artikel  4  
 
 1.  Gedeputeerde staten nemen voor landinrichtingsprojecten, bedoeld in [artikel 97, eerste lid, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), de verplichtingen, bedoeld in de [artikelen 31, tweede lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), en de kosten, bedoeld in [artikel 222, eerste en tweede lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), over van de Staat.   
 2.  Bevoegdheden van de Minister van Landbouw, Natuur en Voedselkwaliteit die met de verplichtingen en kosten, bedoeld in het eerste lid, samenhangen worden aan gedeputeerde staten overgedragen.   
-3.  Archiefbescheiden van de Minister van Landbouw, Natuur en Voedselkwaliteit betreffende de verplichtingen en kosten, bedoeld in het eerste lid, worden overgedragen aan gedeputeerde staten van de provincie waaraan de verplichtingen worden overgedragen, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.   
+3.  Archiefbescheiden van de Minister van Landbouw, Natuur en Voedselkwaliteit betreffende de verplichtingen en kosten, bedoeld in het eerste lid, worden overgedragen aan gedeputeerde staten van de provincie waaraan de verplichtingen worden overgedragen, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.  
 
 ### Artikel  5  
 
-Wijzigt de Regeling herverkaveling.   
+Wijzigt de Regeling herverkaveling. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 16 juni 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 16 juni 2006. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling overgangsbepalingen Reconstructiewet concentratiegebieden.  
+Deze regeling wordt aangehaald als: Regeling overgangsbepalingen Reconstructiewet concentratiegebieden. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -48,4 +48,4 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman   
+C.P. Veerman     

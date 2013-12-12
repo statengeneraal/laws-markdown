@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt onder sociaal-fiscaalnummer verstaan: het nummer, bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
+In dit besluit wordt onder sociaal-fiscaalnummer verstaan: het nummer, bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet basisregistratie personen](../../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md). 
 
 ### Artikel  2  
 
@@ -23,6 +23,7 @@ In dit besluit wordt onder sociaal-fiscaalnummer verstaan: het nummer, bedoeld i
 2.  Het sociaal-fiscaalnummer kan bij de verwerking van persoonsgegevens ter uitvoering van een spaarregeling die is gericht op een uitkering bij wijze van oudedagsvoorziening worden gebruikt door de ondernemingsspaarfondsen, bedoeld in [artikel 1, eerste lid, onder d, van de Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals die luidde op 31 december 2006.   
 3.  Het sociaal-fiscaalnummer kan bij de verwerking van persoonsgegevens met het oog op hun taakuitoefening worden gebruikt door stichtingen die belast zijn met het uitvoeren van regelingen inzake vervroegd uittreden ingevolge een algemeen verbindend voorschrift.   
 4.  Het sociaal-fiscaalnummer kan bij de verwerking van persoonsgegevens worden gebruikt door Onze Minister van Sociale Zaken en Werkgelegenheid met het oog op het toezicht op de naleving van de [Wet allocatie arbeidskrachten door intermediairs](../../../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md).   
+5.  Het sociaal-fiscaalnummer kan bij de verwerking van persoonsgegevens worden gebruikt door het CAK, genoemd in [artikel 1, onderdeel b, van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), met het oog op de uitoefening van zijn in [artikel 3, eerste en tweede lid, van die wet](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), bedoelde taak. 
 
 ### Artikel  3  
 
@@ -32,7 +33,7 @@ a. Onze Minister van Onderwijs, Cultuur en Wetenschappen, Onze Minister van Land
 
 b. de Universiteit van Amsterdam, het Academisch Ziekenhuis Amsterdam, de Vrije Universiteit van Amsterdam, de Katholieke Universiteit Nijmegen en het Academisch Ziekenhuis Nijmegen met het oog op de uitvoering van het [Besluit werkloosheid onderwijs- en onderzoekspersoneel](../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md);  
 
-c. Het Fonds voor de Letteren en het Fonds voor de Beeldende Kunst, Vormgeving en Bouwkunst met het oog op het toekennen van financiële bijdragen aan personen.    
+c. Het Fonds voor de Letteren en het Fonds voor de Beeldende Kunst, Vormgeving en Bouwkunst met het oog op het toekennen van financiële bijdragen aan personen.   
 
 ### Artikel  4  
 
@@ -40,9 +41,9 @@ Het sociaal-fiscaalnummer kan bij de verwerking van persoonsgegevens worden gebr
 
 a. de waterschappen met het oog op de heffing en invordering van waterschapsbelastingen, bedoeld in de [Waterschapswet](../../../../../../wet/waterschapswet/BWBR0005108/README.md), en de gemeenten met het oog op de uitwisseling van gegevens in het kader van de [Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);  
 
-b. de Belastingdienst met het oog op de uitvoering van de [artikelen 19](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en [24 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
+b.de Belastingdienst met het oog op de uitvoering van de [artikelen 19](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en [24 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md); 
 
-c. Onze minister van Onderwijs, Cultuur en Wetenschap, de Belastingdienst en de colleges van burgemeester en wethouders, ten behoeve van de uitvoering van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
+c. Onze minister van Onderwijs, Cultuur en Wetenschap, de Belastingdienst en de colleges van burgemeester en wethouders, ten behoeve van de uitvoering van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).  
 
 ### Artikel  5  
 
@@ -56,7 +57,7 @@ c. het Landelijk Bureau Inning Onderhoudsbijdragen ten behoeve van de in [artike
 
 d. Onze Minister van Veiligheid en Justitie met het oog op de uitvoering van de [Wet controle op rechtspersonen](../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
-e. Onze Minister van Justitie met het oog op de uitvoering van de sociale zekerheidswetten door het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de gemeenten, voor zover het betreft personen die krachtens een rechterlijk bevel of uitspraak in een strafzaak in detentie verblijven.    
+e. Onze Minister van Justitie met het oog op de uitvoering van de sociale zekerheidswetten door het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de gemeenten, voor zover het betreft personen die krachtens een rechterlijk bevel of uitspraak in een strafzaak in detentie verblijven.   
 
 ### Artikel  6  
 
@@ -69,11 +70,11 @@ b. in hun contacten met de personen en instanties voor zover deze zelf gemachtig
 
 ### Artikel  7  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) in werking treedt. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit gebruik sofi-nummer Wbp.  
+Dit besluit wordt aangehaald als: Besluit gebruik sofi-nummer Wbp. 
 
 Lasten en bevelen dat dit besluit met de daarbij bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -87,4 +88,4 @@ A. H. Korthals
 drieëntwintigste augustus 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

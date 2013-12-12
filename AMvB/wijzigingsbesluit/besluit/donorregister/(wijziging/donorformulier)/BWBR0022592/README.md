@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit donorregister.   
+Wijzigt het Besluit donorregister.
 
 ### Artikel  II  
 
-Vóór de datum van inwerkingtreding van dit besluit aan de ingezetenen, bedoeld in [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), toegezonden donorformulieren en donorformulieren die vóór deze datum in omloop zijn, kunnen ook na inwerkingtreding van dit besluit worden gebruikt om in het donorregister aantekening te maken van de wilsbeschikking omtrent orgaandonatie van betrokkene.  
+Vóór de datum van inwerkingtreding van dit besluit aan de ingezetenen, bedoeld in [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet basisregistratie personen](../../../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), toegezonden donorformulieren en donorformulieren die vóór deze datum in omloop zijn, kunnen ook na inwerkingtreding van dit besluit worden gebruikt om in het donorregister aantekening te maken van de wilsbeschikking omtrent orgaandonatie van betrokkene. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

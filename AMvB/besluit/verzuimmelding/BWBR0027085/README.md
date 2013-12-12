@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De gegevensverstrekking, bedoeld in de [artikelen 21a, eerste, tweede en zesde lid, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), [8.1.8a, eerste en vijfde lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [47b, eerste en vijfde lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) en [28a, eerste en vijfde lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), vindt plaats langs elektronische weg.  
+De gegevensverstrekking, bedoeld in de [artikelen 21a, eerste, tweede en zesde lid, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), [8.1.8a, eerste en vijfde lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [47b, eerste en vijfde lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) en [28a, eerste en vijfde lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), vindt plaats langs elektronische weg. 
 
 ### Artikel  2  
 
-De nadere specificatie van de gegevens, bedoeld in [artikel 21a, elfde lid, van de Leerplicht 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), [8.1.8a, tiende lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [47b, tiende lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) en [28a, tiende lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), is opgenomen in de bijlage bij dit besluit.  
+De nadere specificatie van de gegevens, bedoeld in [artikel 21a, elfde lid, van de Leerplicht 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), [8.1.8a, tiende lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [47b, tiende lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) en [28a, tiende lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), is opgenomen in de bijlage bij dit besluit. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2009.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2009. 
 
 Lasten en bevelen dat dit besluit met de bijlage en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,18 +31,18 @@ Lasten en bevelen dat dit besluit met de bijlage en de daarbij behorende nota va
 23 december 2009  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
+De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 G. Verburg   
 
 de *negentiende* januari 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage 
 
 Bijlage bij artikel 2 van het Besluit Verzuimmelding. Deze bijlage bevat de nadere specificatie, bedoeld in dat artikel.  
 
@@ -67,7 +67,7 @@ Bijlage bij artikel 2 van het Besluit Verzuimmelding. Deze bijlage bevat de nade
 | --- | --- |
 | Telefoonnummer ouder of leerling / deelnemer  | --- |
 | --- | --- |
-| Afwijkend adres leerling / deelnemer:  | Indien verblijfadres afwijkt van GBA-adres  |
+| Afwijkend adres leerling / deelnemer:  | Indien verblijfadres afwijkt van adres in de basisregistratie personen  |
 | Straat  | --- |
 | Huisnummer  | --- |
 | Huisletter  | --- |

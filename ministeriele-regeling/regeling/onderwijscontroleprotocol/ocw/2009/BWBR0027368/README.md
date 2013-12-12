@@ -10,20 +10,26 @@ Besluit:
 
 ####Vaststelling onderwijscontroleprotocol
 
-Het protocol ten behoeve van de controle door de accountant over het jaar 2009 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.  
+Materieel uitgewerkt per 12-03-2012 
+
+Het protocol ten behoeve van de controle door de accountant over het jaar 2009 wordt vastgesteld overeenkomstig de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2009.  
+Materieel uitgewerkt per 12-03-2012 
+
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2009. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling onderwijscontroleprotocol OCW 2009.  
+Materieel uitgewerkt per 12-03-2012 
+
+Deze regeling wordt aangehaald als: Regeling onderwijscontroleprotocol OCW 2009. 
 Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,   
+Minister van Onderwijs, Cultuur en Wetenschap,    

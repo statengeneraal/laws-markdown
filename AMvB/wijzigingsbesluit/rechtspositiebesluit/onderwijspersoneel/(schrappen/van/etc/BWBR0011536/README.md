@@ -14,12 +14,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Rechtspositiebesluit onderwijspersoneel.   
+Wijzigt het Rechtspositiebesluit onderwijspersoneel.  
 
 ### Artikel  II  
 
-1.  De artikelen I -P81, I-P82 en I-P91 zoals deze artikelen luidden tot 1 augustus 1998, blijven van toepassing op beslissingen of op de herziening van beslissingen die betrekking hebben op de periode voorafgaand aan die datum.   
-2.  De artikelen V-P12, V-P13, V-P14 en V-P17 zoals deze artikelen luidden tot 1 augustus 1998, blijven van toepassing op beslissingen of op de herziening van beslissingen die betrekking hebben op de periode voorafgaand aan die datum.   
+1.  De artikelen I-P81, I-P82 en I-P91 zoals deze artikelen luidden tot 1 augustus 1998, blijven van toepassing op beslissingen of op de herziening van beslissingen die betrekking hebben op de periode voorafgaand aan die datum.   
+2.  De artikelen V-P12, V-P13, V-P14 en V-P17 zoals deze artikelen luidden tot 1 augustus 1998, blijven van toepassing op beslissingen of op de herziening van beslissingen die betrekking hebben op de periode voorafgaand aan die datum.  
 
 ### Artikel  III  
 
@@ -27,7 +27,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 a. artikel I, onderdelen I en J, tot en met 1 augustus 1997, en  
 
-b. artikel I, onderdelen D, E, G, eerste tot en met vierde lid, H en artikel II, tot en met 1 augustus 1998.    
+b. artikel I, onderdelen D, E, G, eerste tot en met vierde lid, H en artikel II, tot en met 1 augustus 1998.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -41,7 +41,7 @@ A. H. Korthals
 de *tweeëntwintigste* augustus 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  1H  
 
