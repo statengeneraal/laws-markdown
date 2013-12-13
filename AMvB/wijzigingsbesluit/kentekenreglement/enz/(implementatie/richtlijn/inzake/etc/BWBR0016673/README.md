@@ -11,35 +11,35 @@ Gelet op richtlijn nr. 1999/37/EG van de Raad van de Europese Unie van 29 april 
 De Raad van State gehoord (advies van 14 april 2004, nr. W09.04.0098/V);
 
 Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 26 april 2004, nr. HDJZ/AWW/2004-942, Hoofddirectie Juridische Zaken;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:   
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Kentekenreglement.   
+Wijzigt het Kentekenreglement.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Voertuigreglement.   
+Wijzigt het Voertuigreglement.
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.   
+Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
-### Artikel  IV  
+###Artikel IV 
 
-Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.   
+Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
 ### Artikel  V  
 
-De artikelen 1, onder f, 2, eerste lid, 17, 18, eerste en tweede lid, 35, eerste en tweede lid, 38, tweede lid, en 50, eerste en tweede lid, van het Kentekenreglement, zoals deze artikelen luidden voor de datum van inwerkingtreding van dit besluit, blijven van kracht ten aanzien van voor die datum afgegeven kentekenbewijzen.  
+De artikelen 1, onder f, 2, eerste lid, 17, 18, eerste en tweede lid, 35, eerste en tweede lid, 38, tweede lid, en 50, eerste en tweede lid, van het Kentekenreglement, zoals deze artikelen luidden voor de datum van inwerkingtreding van dit besluit, blijven van kracht ten aanzien van voor die datum afgegeven kentekenbewijzen. 
 
 ### Artikel  VI  
 
-De artikelen 31, 32, 33 en 39 van het Kentekenreglement, zoals deze artikelen luidden voor de datum van inwerkingtreding van dit besluit, blijven van kracht ten aanzien van voor die datum afgegeven driedelige kentekenbewijzen alsmede ten aanzien van kentekenbewijzen die bestaan uit een voor die datum afgegeven deel I, een deel I B en een overschrijvingsbewijs.  
+De artikelen 31, 32, 33 en 39 van het Kentekenreglement, zoals deze artikelen luidden voor de datum van inwerkingtreding van dit besluit, blijven van kracht ten aanzien van voor die datum afgegeven driedelige kentekenbewijzen alsmede ten aanzien van kentekenbewijzen die bestaan uit een voor die datum afgegeven deel I, een deel I B en een overschrijvingsbewijs. 
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking met ingang van 31 mei 2004.  
+Dit besluit treedt in werking met ingang van 31 mei 2004. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

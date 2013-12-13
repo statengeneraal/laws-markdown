@@ -7,47 +7,56 @@ De Minister van Verkeer en Waterstaat,  Besluit:
 ### Artikel  1  
 
 1.  Er is een directoraat-generaal Rijkswaterstaat.   
-2.  Het directoraat-generaal Rijkswaterstaat staat onder leiding van de directeur-generaal Rijkswaterstaat.   
+2.  Het directoraat-generaal Rijkswaterstaat staat onder leiding van de directeur-generaal Rijkswaterstaat.  
 
 ### Artikel  2  
 
 1.  Het directoraat-generaal Rijkswaterstaat is samengesteld uit: 
 
-a. een stafdienst van de directeur-generaal;  
+a. de RWS Bestuursstaf;  
 
-b. regionale diensten;  
+b. regionale organisatieonderdelen;  
 
-c. landelijke diensten;  
+c. centrale organisatieonderdelen;  
 
 d. programmadirecties en  
 
 e. projectdirecties.     
-2.  De Minister van Verkeer en Waterstaat stelt de in het eerste lid genoemde diensten en directies in.   
-3.  De directeur-generaal Rijkswaterstaat kan de in het eerste lid genoemde diensten en directies nader onderverdelen.   
-4.  De directeur-generaal Rijkswaterstaat wijst de directeuren en de direct onder hen ressorterende leidinggevende functionarissen van de in het eerste lid genoemde diensten en directies aan.   
+2.  De directeur-generaal Rijkswaterstaat stelt de in het eerste lid genoemde organisatieonderdelen en directies in en kan deze nader onderverdelen.   
+3.  De directeur-generaal Rijkswaterstaat wijst de directeuren van de in het eerste lid genoemde organisatieonderdelen en directies aan.  
 
 ### Artikel  3  
 
-Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de Minister van Verkeer en Waterstaat is opgedragen, belast met de navolgende hoofdtaken en daarmee samenhangende activiteiten: 
+Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de minister van Infrastructuur en Milieu is opgedragen, belast met de navolgende hoofdtaken en daarmee samenhangende activiteiten: 
 
 a. de aanleg, het beheer en het onderhoud van rijkswaterstaatswerken;  
 
-b. het verrichten dan wel bevorderen van onderzoek en het adviseren van de Minister van Verkeer en Waterstaat over hetgeen dienstig kan zijn voor de uitvoering van de taken genoemd in onderdeel a;  
+b. de uitvoering van beleid met betrekking tot milieu en leefomgeving, mobiliteit en klimaat voor zover dit niet bij of krachtens de wet aan anderen is opgedragen of gemandateerd;  
 
-c. het adviseren over en het toetsen van de uitvoerbaarheid van nieuwe wet- en regelgeving, die voor de uitvoering van de taken genoemd in onderdeel a, van belang is;  
+c. het verrichten dan wel bevorderen van onderzoek en het adviseren van de minister van Infrastructuur en Milieu over hetgeen dienstig kan zijn voor de uitvoering van de taken genoemd in onderdelen a en b;  
 
-d. de vergunningverlening en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Verkeer en Waterstaat is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de Minister van Verkeer en Waterstaat bevoegd gezag is; en  
+d. het adviseren over en het toetsen van de uitvoerbaarheid van nieuwe wet- en regelgeving, die voor de uitvoering van de taken genoemd in onderdelen a en b, van belang is;  
 
-e. de toetsing van de uitvoerbaarheid van plannen, regelingen en projectenvan andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van de taken genoemd in onderdeel a.    
+e. de vergunningverlening en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Infrastructuur en Milieu is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de minister van Infrastructuur en Milieu bevoegd gezag is;  
+
+f. de toetsing van de uitvoerbaarheid van plannen, regelingen en projecten van andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van taken genoemd in onderdeel a;  
+
+g. het beheer van de territoriale zee en de exclusieve economische zone, bedoeld in de [Wet maritiem beheer BES](../../../../../wet-BES/wet/maritiem/beheer/bes/BWBR0028550/README.md), voor zover dit niet bij of krachtens wet aan anderen is opgedragen of gemandateerd; 
+
+h. de uitvoering van de [Wet bescherming Antarctica](../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md); 
+
+i. de uitvoering van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) en de [onteigeningswet](../../../../../wet/onteigeningswet/BWBR0001842/README.md), en  
+
+j. de uitvoering van opdrachten in naam van en voor rekening van tweeden en derden.  
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 1.1 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel 1.1 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md) in werking treedt. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit directoraat-generaal Rijkswaterstaat. Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en wordt in afschrift gezonden aan de Algemene Rekenkamer, de secretaris-generaal, diens plaatsvervanger en de diensthoofden. Dit besluit is met terugwerkende kracht inwerking getreden vanaf 22 december 2009.  
+Dit besluit wordt aangehaald als: Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013. Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en wordt in afschrift gezonden aan de Algemene Rekenkamer, de secretaris-generaal, diens plaatsvervanger en de diensthoofden. Dit besluit is met terugwerkende kracht inwerking getreden vanaf 22 december 2009. 
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

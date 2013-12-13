@@ -29,7 +29,7 @@ In deze regeling wordt verstaan onder:
 
 *erkenninghouder:* houder van een erkenning als bedoeld in [artikel 83 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-*exameninstantie:* door de Minister aangewezen instantie als bedoeld in [artikel 85a, derde lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*exameninstantie:* door de Minister aangewezen instantie als bedoeld in [artikel 85a, derde lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); 
 
 *inrichting:* een bedrijf of bedrijven waarin een mobiele keuringseenheid gerechtigd is keuringen uit te voeren;  
 
@@ -39,7 +39,7 @@ In deze regeling wordt verstaan onder:
 
 *keuringseisen:* op de desbetreffende voertuigcategorie toepasselijke permanente eisen in de [Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
 
-*keuringsinstelling:* keuringsinstelling als bedoeld in [artikel 8.1.1 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+*keuringsinstelling:* keuringsinstelling als bedoeld in [artikel 8.1.1 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md); 
 
 *keuringsplaats:* een perceel of enkele kadastraal aangrenzende percelen waarop een erkenninghouder als bedoeld in [artikel 83 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) de keuring verricht en waarbij de keuringsruimte kan bestaan uit één of meer besloten ruimten gelegen in één gebouw, dan wel in verscheidene belendende of nagenoeg belendende gebouwen, bedoeld om deel uit te maken van een keuringsplaats;  
 
@@ -55,11 +55,11 @@ In deze regeling wordt verstaan onder:
 
 *steekproef:* de steekproefsgewijze herkeuring als bedoeld in [artikel 86 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-*wet:*[Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+*wet:* [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
 
 ### Artikel  2  
 
-De eisen en voorschriften genoemd in deze regeling zijn van toepassing op een vaste keuringsplaats dan wel een mobiele keuringseenheid, tenzij anders bepaald.  
+De eisen en voorschriften genoemd in deze regeling zijn van toepassing op een vaste keuringsplaats dan wel een mobiele keuringseenheid, tenzij anders bepaald. 
 
 ### Hoofdstuk  2  
 
@@ -67,7 +67,7 @@ De eisen en voorschriften genoemd in deze regeling zijn van toepassing op een va
 
 ### Artikel  3  
 
-De aanvraag van een erkenning wordt met inachtneming van de door de Dienst Wegverkeer vastgestelde voorschriften ingediend bij de Dienst Wegverkeer.  
+De aanvraag van een erkenning wordt met inachtneming van de door de Dienst Wegverkeer vastgestelde voorschriften ingediend bij de Dienst Wegverkeer. 
 
 ### Artikel  4  
 
@@ -76,22 +76,22 @@ De aanvraag van een erkenning wordt met inachtneming van de door de Dienst Wegve
 a. één of meer in Nederland gevestigde keuringsplaatsen; of  
 
 b. één of meer in Nederland op naam van de aanvrager geregistreerde mobiele keuringseenheden.     
-2.  Een erkenning APK kan op aanvraag worden verleend indien wordt voldaan aan de in hoofdstuk 3 gestelde erkenningseisen.   
+2.  Een erkenning APK kan op aanvraag worden verleend indien wordt voldaan aan de in hoofdstuk 3 gestelde erkenningseisen.  
 
 ### Artikel  5  
 
-Indien aan de aanvrager van een erkenning APK, al eerder een erkenning is verleend, doch deze op grond van [artikel 87 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is ingetrokken, kan, onverminderd het bepaalde in [artikel 84, derde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), door de Dienst Wegverkeer worden bepaald dat van onderdelen van aanvraag voorschriften als bedoeld in artikel 3 kan worden afgeweken.  
+Indien aan de aanvrager van een erkenning APK, al eerder een erkenning is verleend, doch deze op grond van [artikel 87 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is ingetrokken, kan, onverminderd het bepaalde in [artikel 84, derde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), door de Dienst Wegverkeer worden bepaald dat van onderdelen van aanvraag voorschriften als bedoeld in artikel 3 kan worden afgeweken. 
 
 ### Artikel  6  
 
 1.  Indien de aanvrager van een erkenning APK exploitant is van een keurings- of onderhoudsdienst voor het eigen wagenpark, kan de erkenning op verzoek van de aanvrager worden beperkt tot dat eigen wagenpark.   
 2.  Indien de erkenning wordt verleend voor het eigen wagenpark en een andere rechtspersoon of andere rechtspersonen in een zodanig verband tot de erkenninghouder staan dat er sprake is van één economische eenheid, kunnen alle voertuigen van de desbetreffende economische eenheid worden beschouwd als voertuigen van het eigen wagenpark.   
 3.  Indien de erkenning wordt verleend voor het eigen wagenpark en een andere rechtspersoon of andere rechtspersonen in een zodanig verband tot de erkenninghouder staat of staan dat er sprake is van één economische eenheid, doet de exploitant onder opgave van de naam en het adres van die rechtspersoon of rechtspersonen, terstond na de verlening van de erkenning schriftelijk opgave hiervan aan de Dienst Wegverkeer. Het verband moet ten genoege van de Dienst Wegverkeer worden aangetoond door middel van een uittreksel uit het register van de Kamer van Koophandel of een accountantsverklaring.   
-4.  Gezamenlijk gebruik van een keuringsplaats, een mobiele keuringseenheid of een inrichting door meerdere erkenninghouders is niet toegestaan.   
+4.  Gezamenlijk gebruik van een keuringsplaats, een mobiele keuringseenheid of een inrichting door meerdere erkenninghouders is niet toegestaan.  
 
 ### Artikel  7  
 
-Indien de erkenning voor de betrokken keuringsplaats wordt aangevraagd, is in deze keuringsplaats tenminste één keurmeester werkzaam die bevoegd is de voertuigen aan een keuring te onderwerpen.  
+Indien de erkenning voor de betrokken keuringsplaats wordt aangevraagd, is in deze keuringsplaats tenminste één keurmeester werkzaam die bevoegd is de voertuigen aan een keuring te onderwerpen. 
 
 ### Hoofdstuk  3  
 
@@ -118,8 +118,8 @@ b. bestemd voor het keuren van motorrijtuigen met een verbrandingsmotor met comp
 3°. een systeem dat ervoor zorgt dat de uitlaatgassen die door de roetmeter gaan eveneens worden afgevoerd, en  
 
 4°. afvoerkanalen die bovenstaande onderdelen met elkaar verbinden waardoor de uitlaatgassen direct naar buiten worden afgevoerd.       
-4.  In de keuringsruimte kan de administratie van de keuringen behoorlijk worden uitgevoerd. Tevens is er een afsluitbare kast of bureaulade dan wel een gelijkwaardige voorziening aanwezig, waarin de bescheiden, bedoeld in artikel 18 en de documentatie kunnen worden opgeborgen.   
-5.  In de keuringsruimte is een voorziening aanwezig, geschikt voor het gebruik van datacommunicatie. Deze voorziening bestaat uit een computer of terminal met een modem, geschikt voor de toegangsstructuur van door de Dienst Wegverkeer geaccepteerde netwerken. Tevens is een voorziening aanwezig, geschikt voor aansluiting op de datacommunicatie, ten behoeve van het afdrukken van keuringsrapporten.   
+4.  In de keuringsruimte kan de administratie van de keuringen behoorlijk worden uitgevoerd.   
+5.  In de keuringsruimte is een voorziening aanwezig, geschikt voor het gebruik van datacommunicatie. Deze voorziening bestaat uit een computer of terminal met een modem, geschikt voor de toegangsstructuur van door de Dienst Wegverkeer geaccepteerde netwerken. Tevens is een voorziening aanwezig, geschikt voor aansluiting op de datacommunicatie, ten behoeve van het afdrukken van keuringsrapporten.  
 
 ### Artikel  9  
 
@@ -139,13 +139,13 @@ d. voertuigen waarvan de toegestane maximummassa niet meer bedraagt dan 3500 kg
 a. een vlakke vloer van voldoende afmetingen of een hefinrichting, waarop gelijktijdig zowel het te keuren voertuig als het koplamptestapparaat kan worden geplaatst, of  
 
 b. een vlakke vloer of rails, gelegen voor de hefinrichting, waarop het koplamptestapparaat kan worden geplaatst, waarbij deze vloer of rails in een vlak moet zijn gelegen gelijk of evenwijdig aan de rijplaten van de hefinrichting.     
-5.  De hefinrichting moet deugdelijk zijn en in een goede staat van onderhoud verkeren.   
+5.  De hefinrichting moet deugdelijk zijn en in een goede staat van onderhoud verkeren.  
 
 ### Artikel  10  
 
 1.  Met de mobiele keuringseenheden mogen keuringen worden verricht in erkende keuringsplaatsen waarvan de erkenning niet is ingetrokken of in afzonderlijke inrichtingen, indien die aan de desbetreffende eisen van de artikelen 8 en 9 voldoen en mits deze op het erkenningsbesluit van de betrokken mobiele keuringseenheid zijn vermeld.   
 2.  Indien de ruimte, bedoeld in artikel 8, vierde lid, niet aanwezig is, mag de administratie van de keuringen in de mobiele keuringseenheid worden uitgevoerd. Tevens is er in de mobiele keuringseenheid een afsluitbare kast of bureaulade dan wel een gelijkwaardige voorziening aanwezig, waarin de bescheiden, bedoeld in artikel 18 en de documentatie kunnen worden opgeborgen.   
-3.  In de mobiele keuringseenheid is de voorziening voor het afvoeren van uitlaatgassen, bedoeld in artikel 8, derde lid, aanwezig, wanneer deze in de in het eerste lid bedoelde keuringsplaats of inrichting niet beschikbaar is.   
+3.  In de mobiele keuringseenheid is de voorziening voor het afvoeren van uitlaatgassen, bedoeld in artikel 8, derde lid, aanwezig, wanneer deze in de in het eerste lid bedoelde keuringsplaats of inrichting niet beschikbaar is.  
 
 ### §  2  
 
@@ -171,7 +171,7 @@ g. hulpmiddelen om speling in voertuigonderdelen zichtbaar te maken, zoals een b
 
 h. een rollenremtestbank, platenremtestbank of remvertragingsmeter, die voldoet aan de in artikel 13 gestelde eisen. Indien een erkenning wordt aangevraagd voor voertuigen met een toegestane maximummassa van meer dan 3500 kg is in elk geval een rollenremtestbank aanwezig. Het draagvermogen van een rollenremtestbank of platenremtestbank is voldoende voor de groep voertuigen waarvoor de erkenning voor de betrokken keuringsplaats wordt aangevraagd;  
 
-i. een doelmatige bandenprofieldieptemeter, met verende meetstift en een meetnauwkeurigheid van 0,1 mm.    
+i. een doelmatige bandenprofieldieptemeter, met verende meetstift en een meetnauwkeurigheid van 0,1 mm.  
 
 ### Artikel  12  
 
@@ -197,7 +197,7 @@ c. in geval van een aanvraag voor een erkenning voor motorrijtuigen met een verb
 
 d. in geval van een aanvraag voor een erkenning voor motorrijtuigen die zijn voorzien van een verbrandingsmotor met elektrische ontsteking: een uitlaatgastester met lambda-bepaling;  
 
-e. in geval van een aanvraag voor een erkenning voor motorrijtuigen waarvan de toegestane maximummassa niet meer bedraagt dan 3500 kg: een uitleesapparaat ten behoeve van het uitlezen van het emissiegerelateerd diagnostisch boordsysteem.    
+e. in geval van een aanvraag voor een erkenning voor motorrijtuigen waarvan de toegestane maximummassa niet meer bedraagt dan 3500 kg: een uitleesapparaat ten behoeve van het uitlezen van het emissiegerelateerd diagnostisch boordsysteem.   
 
 ### Artikel  13  
 
@@ -246,11 +246,11 @@ f. de aanwezige fouten in de in ISO 15031-6 vastgestelde codering kunnen weergev
 
 g. voorzien zijn van CE-markering;  
 
-h. voorzien zijn van een handleiding in de Nederlandse taal waarin ook de ondersteunde communicatieprotocollen zijn beschreven. Indien de communicatieprotocollen niet zijn beschreven in de handleiding mogen deze zijn beschreven in een bij het uitleesapparaat behorende fabrikantenverklaring.     
+h. voorzien zijn van een handleiding in de Nederlandse taal waarin ook de ondersteunde communicatieprotocollen zijn beschreven. Indien de communicatieprotocollen niet zijn beschreven in de handleiding mogen deze zijn beschreven in een bij het uitleesapparaat behorende fabrikantenverklaring.   
 
 ### Artikel  14  
 
-De apparatuur, bedoeld in de artikelen 11 en 12, is deugdelijk en verkeert in een goede staat van onderhoud.  
+De apparatuur, bedoeld in de artikelen 11 en 12, is deugdelijk en verkeert in een goede staat van onderhoud. 
 
 ### Hoofdstuk  4  
 
@@ -265,13 +265,13 @@ De apparatuur, bedoeld in de artikelen 11 en 12, is deugdelijk en verkeert in ee
 1.  Vanaf de buitenkant van elke keuringsplaats waarvoor de erkenning geldt, is op een door de Dienst Wegverkeer vastgestelde en in de Staatscourant bekendgemaakte wijze zichtbaar dat de erkenning is verleend. Deze eis geldt niet voor keuringsplaatsen waarvan in het erkenningsbesluit is vastgelegd dat de erkenning alleen geldt voor voertuigen die behoren tot het eigen wagenpark.   
 2.  In elke keuringsplaats waarvoor de erkenning geldt, is het door de Dienst Wegverkeer afgegeven bewijs aanwezig waaruit blijkt dat voor de keuringsplaats een erkenning is verleend en voor welke groep voertuigen de erkenning voor de keuringsplaats geldt.   
 3.  Bij elke mobiele keuringseenheid waarvoor de erkenning geldt, is het door de Dienst Wegverkeer afgegeven bewijs aanwezig waaruit blijkt dat voor de eenheid een erkenning is verleend, voor welke groep voertuigen de erkenning voor de eenheid geldt en in welke inrichtingen de keuringen mogen plaatsvinden.   
-4.  Op verzoek van de aanvrager van een keuringsrapport wordt het in het tweede en derde lid bedoelde bewijs ter inzage gegeven.   
+4.  Op verzoek van de aanvrager van een keuringsrapport wordt het in het tweede en derde lid bedoelde bewijs ter inzage gegeven.  
 
 ### Artikel  16  
 
 1.  De keuringsplaatsen blijven voortdurend voldoen aan de eisen, gesteld in de artikelen artikel 8, 9, 11, 12, 13 en 14.   
 2.  De mobiele keuringseenheden, alsmede de inrichtingen of keuringsplaatsen waarin met een mobiele keuringseenheid keuringen mogen worden verricht blijven voortdurend voldoen aan de eisen, gesteld in de artikelen 9, 10, 11, 12, 13 en 14.   
-3.  In afwijking van het eerste en tweede lid geldt voor erkenningen verleend voor 1 mei 2010 dat tot 1 mei 2014 voor het meten van de remvertraging van een voertuig gebruik kan worden gemaakt van een remvertragingsmeter die voldoet aan de in artikel 17 gestelde eisen. Indien een erkenning wordt aangevraagd voor voertuigen met een toegestane maximummassa van meer dan 3500 kg is in elk geval een rollenremtestbank aanwezig. Het draagvermogen van een rollenremtestbank of platenremtestbank is voldoende voor de groep voertuigen waarvoor de erkenning voor de betrokken keuringsplaats wordt aangevraagd.   
+3.  In afwijking van het eerste en tweede lid geldt voor erkenningen verleend voor 1 mei 2010 dat tot 1 mei 2014 voor het meten van de remvertraging van een voertuig gebruik kan worden gemaakt van een remvertragingsmeter die voldoet aan de in artikel 17 gestelde eisen. Indien een erkenning wordt aangevraagd voor voertuigen met een toegestane maximummassa van meer dan 3500 kg is in elk geval een rollenremtestbank aanwezig. Het draagvermogen van een rollenremtestbank of platenremtestbank is voldoende voor de groep voertuigen waarvoor de erkenning voor de betrokken keuringsplaats wordt aangevraagd.  
 
 ### Artikel  17  
 
@@ -279,7 +279,11 @@ De apparatuur, bedoeld in de artikelen 11 en 12, is deugdelijk en verkeert in ee
 2.  Ten aanzien van de in artikel 8, derde lid, onderdeel a, bedoelde afzuiginstallatie ten behoeve van de roetmeting is steeds een geldig certificaat van goedkeuring aanwezig.   
 3.  Na verwijdering van de rollenremtestbank of de platenremtestbank van zijn fundering waaraan hij was bevestigd teneinde te worden herplaatst op dezelfde plaats of een andere plaats, wordt wederom een certificaat van eerste keuring dan wel herkeuring afgegeven en is de verzegeling aan de fundering aangebracht.   
 4.  Na verplaatsing van de nulemissie-eenheid naar een andere keuringsplaats, moet wederom een certificaat van eerste keuring, dan wel herkeuring worden afgegeven.   
-5.  Wijzigingen ten aanzien van de in het eerste en tweede lid genoemde apparatuur en ten aanzien van de afgifte van een certificaat van herkeuring of goedkeuring worden via de datacommunicatie terstond gemeld aan de Dienst Wegverkeer.   
+5.  Wijzigingen ten aanzien van de in het eerste en tweede lid genoemde apparatuur en ten aanzien van de afgifte van een certificaat van herkeuring of goedkeuring worden via de datacommunicatie terstond gemeld aan de Dienst Wegverkeer.  
+
+### Artikel  17a  
+
+Aan een op grond van [artikel 23k van het Besluit voertuigen](../../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md) bestaande verplichting wordt gevolg gegeven door de tellerstand van een motorrijtuig te verstrekken aan de Dienst Wegverkeer door middel van de voorziening, bedoeld in artikel 8, vijfde lid. 
 
 ### §  2  
 
@@ -295,7 +299,7 @@ b. de doorslag van het steekproefcontrolerapport.   Op de onder a en b genoemde 
 2.  Gedurende de in het eerste lid bedoelde termijn worden de genoemde bescheiden en de controlelijsten desgevraagd onverwijld aan een functionaris van de Dienst Wegverkeer ter inzage gegeven of ter inzage opgestuurd.   
 3.  De erkenninghouder draagt er zorg voor dat de aan hem ten behoeve van datacommunicatie verstrekte code niet toegankelijk is voor onbevoegden.   
 4.  Het boekwerk ‘Regelgeving APK’ alsmede de vereiste certificaten en handleidingen zijn goed geordend aanwezig.   
-5.  De erkenninghouder vermeldt op de factuur bij afgifte van een keuringsrapport het door hem in gevolge van [artikel 86, zesde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan de Dienst Wegverkeer verschuldigde tarief.   
+5.  De erkenninghouder vermeldt op de factuur bij afgifte van een keuringsrapport het door hem in gevolge van [artikel 86, zesde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan de Dienst Wegverkeer verschuldigde tarief.  
 
 ### §  3  
 
@@ -306,15 +310,15 @@ b. de doorslag van het steekproefcontrolerapport.   Op de onder a en b genoemde 
 1.  Indien zich wijzigingen voordoen in de samenstelling van de economische eenheid als bedoeld in artikel 6 worden deze door de erkenninghouder schriftelijk aan de Dienst Wegverkeer gemeld.   
 2.  Indien zich een wijziging voordoet van de natuurlijke persoon, de rechtspersoon of de rechtsvorm, zijn zowel de natuurlijke persoon of rechtspersoon aan wie de erkenning oorspronkelijk was verleend, als degene die de bedrijfsvoering voortzet, verplicht de Dienst Wegverkeer hiervan zo spoedig mogelijk schriftelijk in kennis te stellen.   
 3.  Indien als gevolg van een wijziging als bedoeld in het voorgaande lid de bedrijfsvoering van de natuurlijke persoon, de rechtspersoon of de rechtsvorm waaraan een erkenning APK, is verleend, wordt voortgezet door een andere natuurlijke persoon of rechtspersoon, worden de toegekende bonus- en strafpunten van het systeem als bedoeld in artikel 37 beschouwd als te zijn toegekend aan deze natuurlijke persoon of rechtspersoon.   
-4.  Indien als gevolg van een wijziging als bedoeld in het tweede lid de bedrijfsvoering van de natuurlijke persoon, de rechtspersoon of de rechtsvorm waaraan een erkenning APK is verleend, wordt voortgezet door een andere natuurlijke persoon of rechtspersoon, worden de opgelegde sancties beschouwd als te zijn toegekend aan deze natuurlijke persoon of rechtspersoon.   
+4.  Indien als gevolg van een wijziging als bedoeld in het tweede lid de bedrijfsvoering van de natuurlijke persoon, de rechtspersoon of de rechtsvorm waaraan een erkenning APK is verleend, wordt voortgezet door een andere natuurlijke persoon of rechtspersoon, worden de opgelegde sancties beschouwd als te zijn toegekend aan deze natuurlijke persoon of rechtspersoon.  
 
-### Hoofdstuk  4a  
+###Hoofdstuk  4a  
 
 ####De exameninstantie
 
 ### Artikel  19a  
 
-Als exameninstantie wordt aangewezen de Stichting VAM (IBKI) te Nieuwegein.  
+Als exameninstantie wordt aangewezen de Stichting VAM (IBKI) te Nieuwegein. 
 
 ### Artikel  19b  
 
@@ -322,7 +326,7 @@ De exameninstantie voldoet aan de volgende eisen:
 
 a. de exameninstantie is onafhankelijk en onpartijdig en neemt bij de uitvoering van de werkzaamheden het examenreglement in acht;  
 
-b. de exameninstantie neemt afdoende maatregelen om fraude, voor, tijdens en na het examen te voorkomen.    
+b. de exameninstantie neemt afdoende maatregelen om fraude, voor, tijdens en na het examen te voorkomen.   
 
 ### Artikel  19c  
 
@@ -349,7 +353,7 @@ c. het toezenden van de uitnodiging voor de deelname aan het examen;
 
 d. het factureren van de tarieven, bedoeld in het eerste lid onder c, aan een deelnemer, en  
 
-e. het registreren van individuele en algemene resultaten van de examens als bedoeld in het eerste lid onder a tot en met e.     
+e. het registreren van individuele en algemene resultaten van de examens als bedoeld in het eerste lid onder a tot en met e.    
 
 ### Hoofdstuk  5  
 
@@ -363,18 +367,18 @@ e. het registreren van individuele en algemene resultaten van de examens als bed
 
 1.  De bevoegdheid voertuigen met een toegestane maximummassa hoger dan 3.500 kg dan wel voertuigen met een toegestane maximummassa niet hoger dan 3.500 kg aan een keuring te onderwerpen kan worden verleend aan een natuurlijk persoon die in het bezit is van een, mede door een door de Dienst Wegverkeer aangewezen gecommitteerde ondertekend, diploma keurmeester periodieke keuring zware (bedrijfs)voertuigen respectievelijk diploma keurmeester periodieke keuring lichte voertuigen dat is afgegeven door de Stichting VAM, nadat het examen met goed gevolg bij deze instelling is afgelegd.   
 2.  De Dienst Wegverkeer bepaalt aan welke voorwaarden wordt voldaan alvorens deelgenomen kan worden aan het examen keurmeester periodieke keuring zware (bedrijfs)voertuigen of examen keurmeester periodieke keuring lichte voertuigen. Deze voorwaarden worden in de Staatscourant bekendgemaakt.   
-3.  Het examen wordt afgenomen overeenkomstig een door de Stichting VAM vastgesteld en door de Dienst Wegverkeer goedgekeurd reglement.   
+3.  Het examen wordt afgenomen overeenkomstig een door de Stichting VAM vastgesteld en door de Dienst Wegverkeer goedgekeurd reglement.  
 
 ### Artikel  21  
 
 1.  Ten bewijze van de bevoegdheid voertuigen aan een keuring te onderwerpen wordt aan de keurmeester een bevoegdheidspas overeenkomstig een door de Dienst Wegverkeer vastgesteld model verstrekt. Op de bevoegdheidspas worden ten minste het pasnummer, het diplomanummer en de groep van voertuigen genoemd waarvoor de bevoegdheid voertuigen aan een keuring te onderwerpen geldt alsmede de geldigheidsduur van de pas.   
-2.  Ten behoeve van het afmelden van een voertuig als bedoeld in artikel 30 door middel van datacommunicatie, wordt aan de keurmeester een pincode verstrekt. Deze pincode is strikt persoonlijk.   
+2.  Ten behoeve van het afmelden van een voertuig als bedoeld in artikel 30 door middel van datacommunicatie, wordt aan de keurmeester een pincode verstrekt. Deze pincode is strikt persoonlijk.  
 
 ### Artikel  22  
 
 1.  Nadat de bevoegdheid voertuigen aan een keuring te onderwerpen is verleend, wordt onverminderd het bepaalde in het derde lid en in de artikelen 43 tot en met 46 door de keurmeester iedere twee jaar een toets bij de in artikel 20 genoemde instelling afgelegd.   
 2.  De toets wordt afgenomen overeenkomstig een door de in het eerste lid bedoelde instelling vastgesteld en een door de Dienst Wegverkeer goedgekeurd reglement.   
-3.  Afhankelijk van het resultaat van de toets bedoeld in het eerste lid, wordt de bevoegdheid voertuigen aan een keuring te onderwerpen met twee jaar, twee maanden of niet verlengd.   
+3.  Afhankelijk van het resultaat van de toets bedoeld in het eerste lid, wordt de bevoegdheid voertuigen aan een keuring te onderwerpen met twee jaar, twee maanden of niet verlengd.  
 
 ### Artikel  23  
 
@@ -382,7 +386,7 @@ De aanvrager van de bevoegdheid voertuigen aan een keuring te onderwerpen overle
 
 a. een afschrift van de in de artikel 20 genoemde diploma’s;  
 
-b. indien van toepassing een afschrift van het resultaat van de toets als bedoeld in artikel 22.    
+b. indien van toepassing een afschrift van het resultaat van de toets als bedoeld in artikel 22.   
 
 ### Hoofdstuk  6  
 
@@ -400,13 +404,13 @@ b. indien van toepassing een afschrift van het resultaat van de toets als bedoel
 4.  Met de mobiele keuringseenheid worden in een keuringsplaats of inrichting slechts keuringen verricht van voertuigen waarvoor de erkenning voor de betrokken keuringseenheid geldt.   
 5.  Het boekwerk ‘Regelgeving APK’ wordt door de erkenninghouder beschikbaar gesteld aan de keurmeester; de erkenninghouder draagt er tevens zorg voor dat de voorgeschreven boekwerken tot en met de laatste wijziging zijn bijgewerkt.   
 6.  Aan een bevoegdheid voertuigen aan een keuring te onderwerpen worden de in de artikelen 25 tot en met 32 opgenomen voorschriften verbonden.   
-7.  Aan een erkenning worden de in de artikelen 15 tot en met 19 en 24 tot en met 33 opgenomen voorschriften verbonden.   
+7.  Aan een erkenning worden de in de artikelen 15 tot en met 19 en 24 tot en met 33 opgenomen voorschriften verbonden. 
 
 ### Artikel  24a  
 
 1.  Indien het te keuren motorrijtuig blijkt te zijn voorzien van een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), kan de keurmeester gebruik maken van de overbruggingsfunctie, bedoeld in artikel 4 van [bijlage XXII bij de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   
 2.  In het in het eerste lid bedoelde geval wordt door of namens de deelnemer aan het alcoholslotprogramma aan de erkenninghouder, bedoeld in [artikel 132f, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) daartoe de in artikel 4 van [bijlage XXII bij de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) bedoelde code aangevraagd.   
-3.  Nadat het motorrijtuig is gekeurd, wordt de overbruggingsfunctie door de keurmeester beëindigd.   
+3.  Nadat het motorrijtuig is gekeurd, wordt de overbruggingsfunctie door de keurmeester beëindigd.  
 
 ### §  2  
 
@@ -415,12 +419,12 @@ b. indien van toepassing een afschrift van het resultaat van de toets als bedoel
 ### Artikel  25  
 
 1.  De keurmeester neemt in verband met de periodieke keuring van motorrijtuigen en aanhangwagens het bij en krachtens de [wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bepaalde in acht.   
-2.  De keurmeester controleert of hij de beschikking heeft over het boekwerk ‘Regelgeving APK’ voordat hij een keuring gaat verrichten.   
+2.  De keurmeester controleert of hij de beschikking heeft over het boekwerk ‘Regelgeving APK’ voordat hij een keuring gaat verrichten.  
 
 ### Artikel  26  
 
 1.  Op verzoek van de aanvrager van een keuringsrapport wordt de bevoegdheidspas ter inzage gegeven.   
-2.  De keurmeester draagt er zorg voor dat de aan hem ten behoeve van datacommunicatie verstrekte pincode niet toegankelijk is voor anderen.   
+2.  De keurmeester draagt er zorg voor dat de aan hem ten behoeve van datacommunicatie verstrekte pincode niet toegankelijk is voor anderen.  
 
 ### §  3  
 
@@ -429,7 +433,7 @@ b. indien van toepassing een afschrift van het resultaat van de toets als bedoel
 ### Artikel  27  
 
 1.  Indien bij de erkenninghouder een keuringsrapport wordt aangevraagd, stelt deze, na overleg met de aanvrager, onverwijld het tijdstip voor de keuring vast. De keuring vindt zo spoedig mogelijk na de aanvraag plaats.   
-2.  Er wordt geen keuring verricht dan nadat door de aanvrager de bijlage bij het deel I A dan wel deel I van het kentekenbewijs is overgelegd, indien in het kentekenregister of op het kentekenbewijs bij bijzonderheden is vermeld ‘Taxi, zie bijlage’ of ‘OV-auto, zie bijlage’.   
+2.  Er wordt geen keuring verricht dan nadat door de aanvrager het goedkeuringsdocument als bedoeld in [artikel 3.15, tweede lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) dan wel de bijlage bij het deel I A dan wel deel I van het kentekenbewijs is overgelegd, indien in het kentekenregister of op het kentekenbewijs bij bijzonderheden is vermeld ‘Taxi, zie goedkeuringsdocument’ of ’OV-auto, zie goedkeuringsdocument’.   
 3.  Er wordt geen keuring verricht dan nadat het kentekenregister is geraadpleegd ten aanzien van: 
 
 a. het voor het voertuig opgegeven kenteken;  
@@ -443,18 +447,18 @@ a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste co
 
 b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister;  
 
-c. blijkens het kentekenregister de beperkte geldigheidsduur van het kentekenbewijs verstreken is, waardoor het kentekenbewijs ingevolge [artikel 56, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), zijn geldigheid heeft verloren.     
+c. blijkens het kentekenregister de beperkte inschrijvingsduur van de tenaamstelling verstreken is, waardoor de tenaamstelling ingevolge [artikel 51a, vijfde lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), is vervallen.    
 
 ### Artikel  28  
 
 1.  De keuring wordt verricht in een keuringsruimte met apparatuur die aan de in de artikelen 7, 9, 11, 12 en 13 gestelde eisen voldoet. Van deze eis kan worden afgeweken indien volgens de wijze van keuren zoals vermeld in [hoofdstuk 5 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) een rij- of remproef buiten de keuringsruimte wordt uitgevoerd, mits de buitentemperatuur binnen het temperatuurgebied van de verplichte apparatuur ligt.   
 2.  Bij de keuring wordt het voertuig tevens gecontroleerd aan de hand van de in bijlage 1 opgenomen reparatieadviespunten.   
-3.  De keuring wordt verricht door een keurmeester.   
+3.  De keuring wordt verricht door een keurmeester.  
 
 ### Artikel  29  
 
 1.  Het resultaat van elke keuring wordt door de keurmeester schriftelijk vastgelegd op het keuringsrapport.   
-2.  Voor dit keuringsrapport wordt gebruikgemaakt van het door de Dienst Wegverkeer vastgestelde model keuringsrapport, dat bekend is gemaakt in de Staatscourant.   
+2.  Voor dit keuringsrapport wordt gebruikgemaakt van het door de Dienst Wegverkeer vastgestelde model keuringsrapport, dat bekend is gemaakt in de Staatscourant.  
 
 ### Artikel  30  
 
@@ -533,7 +537,7 @@ i. de naam, adresgegevens en het keuringsinstantienummer van de erkenninghouder.
 5.  Alvorens het keuringsrapport wordt ondertekend, wordt door de keurmeester nagegaan of het rapport volledig is ingevuld.   
 6.  Door een keurmeester worden niet meer dan vier voertuigen per zestig minuten afgemeld.   
 7.  Het keuringsrapport wordt onverwijld aan de aanvrager afgegeven indien het voertuig niet aan een steekproef wordt onderworpen.   
-8.  Indien het voertuig aan een steekproef wordt onderworpen, deelt de erkenninghouder dit aan de aanvrager mede en houdt de erkenninghouder het keuringsrapport onder zich voor een periode van ten hoogste negentig minuten, vanaf het tijdstip van afmelding.   
+8.  Indien het voertuig aan een steekproef wordt onderworpen, deelt de erkenninghouder dit aan de aanvrager mede en houdt de erkenninghouder het keuringsrapport onder zich voor een periode van ten hoogste negentig minuten, vanaf het tijdstip van afmelding.  
 
 ### Artikel  31  
 
@@ -550,12 +554,12 @@ b. indien de keuring verricht is door een mobiele keuringseenheid tevens het voe
 c. het voertuig, ongeacht het tijdstip van aanvang van de steekproef, niet uit de keuringsplaats wordt verwijderd gedurende de steekproef;  
 
 d. de desbetreffende ruimte en apparatuur gedurende de steekproef beschikbaar worden gesteld.     
-6.  Indien bij de steekproef wordt vastgesteld dat het voertuig niet voldoet aan de keuringseisen, het voertuig onterecht is af- of goedgekeurd, het keuringsrapport onjuist of onvolledig is ingevuld of indien wordt geconstateerd dat de voorschriften met betrekking tot de steekproef niet in acht zijn genomen, wordt door de daartoe aangewezen functionaris van de Dienst Wegverkeer een steekproefcontrolerapport opgemaakt dat door deze wordt ondertekend alsmede door de keurmeester.   
+6.  Indien bij de steekproef wordt vastgesteld dat het voertuig niet voldoet aan de keuringseisen, het voertuig onterecht is af- of goedgekeurd, het keuringsrapport onjuist of onvolledig is ingevuld of indien wordt geconstateerd dat de voorschriften met betrekking tot de steekproef niet in acht zijn genomen, wordt door de daartoe aangewezen functionaris van de Dienst Wegverkeer een steekproefcontrolerapport opgemaakt dat door deze wordt ondertekend alsmede door de keurmeester.  
 
 ### Artikel  32  
 
 1.  Indien de eigenaar of houder van het voertuig dat aan een steekproef wordt onderworpen met het voertuig wegrijdt, wordt dit onverwijld door de keurmeester aan de Dienst Wegverkeer gemeld. De eventuele goedkeuring wordt door de Dienst Wegverkeer ingetrokken en het voertuig kan niet meer worden afgemeld.   
-2.  De erkenninghouder draagt er zorg voor dat de eigenaar of houder van een weggereden voertuig op de hoogte is gesteld van de verplichting om een nieuwe aanvraag van een keuringsrapport bij de Dienst Wegverkeer in te dienen.   
+2.  De erkenninghouder draagt er zorg voor dat de eigenaar of houder van een weggereden voertuig op de hoogte is gesteld van de verplichting om een nieuwe aanvraag van een keuringsrapport bij de Dienst Wegverkeer in te dienen.  
 
 ### Artikel  33  
 
@@ -569,7 +573,7 @@ c. de keuring niet met de vereiste apparatuur wordt uitgevoerd;
 
 d. de keuring niet door een persoon die bevoegd is voertuigen aan een keuring te onderwerpen wordt uitgevoerd, of  
 
-e. het resultaat van de keuring niet aan de Dienst Wegverkeer wordt gemeld;   wordt terstond begonnen met een procedure tot intrekking van de erkenning en keuringsbevoegdheid.   
+e. het resultaat van de keuring niet aan de Dienst Wegverkeer wordt gemeld;   wordt terstond begonnen met een procedure tot intrekking van de erkenning en keuringsbevoegdheid.  
 
 ### Hoofdstuk  7  
 
@@ -582,12 +586,12 @@ e. het resultaat van de keuring niet aan de Dienst Wegverkeer wordt gemeld;   wo
 ### Artikel  34  
 
 1.  Het in [artikel 86 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde toezicht geschiedt met inachtneming van de in paragraaf 2 daaromtrent gegeven voorschriften.   
-2.  Het in [artikel 86a van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde toezicht geschiedt met inachtneming van de in paragraaf 3 daaromtrent gegeven voorschriften.   
+2.  Het in [artikel 86a van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde toezicht geschiedt met inachtneming van de in paragraaf 3 daaromtrent gegeven voorschriften.  
 
 ### Artikel  35  
 
-1.  Nadat een erkenning is verleend, wordt door middel van een herschouwing onderzocht of de erkenninghouder en de keuringsplaats nog voldoen aan de erkenningseisen en of de erkenningsvoorschriften worden nageleefd.   
-2.  De in het eerste lid bedoelde controle kan tevens plaatsvinden in het kader van een steekproef van het voertuig.   
+1.  Nadat een erkenning is verleend, wordt door middel van een herschouwing onderzocht of de erkenninghouder en de keuringsplaats nog voldoen aan de erkenningseisen en of de erkenningsvoorschriften worden nageleefd.    
+2.  De in het eerste lid bedoelde controle kan tevens plaatsvinden in het kader van een steekproef van het voertuig.  
 
 ### Artikel  36  
 
@@ -601,12 +605,12 @@ c. het overleggen van bescheiden;
 
 d. het gebruik maken van de benodigde apparatuur;  
 
-e. het in acht nemen van door de betreffende functionaris van de Dienst Wegverkeer aangegeven aanwijzingen.    
+e. het in acht nemen van door de betreffende functionaris van de Dienst Wegverkeer aangegeven aanwijzingen.   
 
 ### Artikel  37  
 
 1.  De Dienst Wegverkeer kan in het kader van het toezicht op de erkenninghouder of de keurmeester een systeem van bonus- en strafpunten vaststellen, dat wordt bekendgemaakt in de Staatscourant. Dit systeem heeft tevens betrekking op artikel 28, tweede lid.   
-2.  Indien een systeem als bedoeld in het eerste lid is vastgesteld, wordt aan de hand daarvan, afhankelijk van de resultaten van het uitgeoefende toezicht, beoordeeld of het toezicht wordt verminderd of verscherpt dan wel of een erkenning wordt gewijzigd of ingetrokken.   
+2.  Indien een systeem als bedoeld in het eerste lid is vastgesteld, wordt aan de hand daarvan, afhankelijk van de resultaten van het uitgeoefende toezicht, beoordeeld of het toezicht wordt verminderd of verscherpt dan wel of een erkenning wordt gewijzigd of ingetrokken.  
 
 ### §  2  
 
@@ -614,25 +618,25 @@ e. het in acht nemen van door de betreffende functionaris van de Dienst Wegverke
 
 ### Artikel  38  
 
-De in deze paragraaf bepaalde eisen zijn, voor zover niet anders bepaald, tevens van toepassing op het toezicht op mobiele keuringseenheden en de inrichtingen waar met behulp van deze mobiele keuringseenheden keuringen worden verricht.  
+De in deze paragraaf bepaalde eisen zijn, voor zover niet anders bepaald, tevens van toepassing op het toezicht op mobiele keuringseenheden en de inrichtingen waar met behulp van deze mobiele keuringseenheden keuringen worden verricht. 
 
 ### Artikel  39  
 
-1.  Deze paragraaf laat onverlet de bevoegdheid tot wijziging, schorsing of intrekking van de erkenning als omschreven in [artikel 87, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), in andere gevallen dan die in deze paragraaf zijn beschreven.   
+1.  Deze paragraaf laat onverlet de bevoegdheid tot wijziging, schorsing of intrekking van de erkenning als omschreven in [artikel 87, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), in andere gevallen dan die in deze paragraaf zijn beschreven.    
 2.  Een wijziging, schorsing of intrekking van een erkenning als bedoeld in [artikel 87, tweede lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), geldt in beginsel uitsluitend voor de betrokken keuringsplaats.   
-3.  In afwijking van het tweede lid kan de Dienst Wegverkeer, als omstandigheden daartoe aanleiding geven, bepalen dat een wijziging, schorsing of intrekking alle keuringsplaatsen of mobiele eenheden betreft waarvoor de erkenning geldt.   
+3.  In afwijking van het tweede lid kan de Dienst Wegverkeer, als omstandigheden daartoe aanleiding geven, bepalen dat een wijziging, schorsing of intrekking alle keuringsplaatsen of mobiele eenheden betreft waarvoor de erkenning geldt.  
 
 ### Artikel  40  
 
-Bij schorsing van een erkenning kan worden bepaald dat, indien niet binnen een termijn van ten hoogste 12 weken wordt aangetoond dat weer aan de erkenningseisen of erkenningsvoorschriften wordt voldaan, alsnog wijziging of intrekking van de erkenning volgt.  
+Bij schorsing van een erkenning kan worden bepaald dat, indien niet binnen een termijn van ten hoogste 12 weken wordt aangetoond dat weer aan de erkenningseisen of erkenningsvoorschriften wordt voldaan, alsnog wijziging of intrekking van de erkenning volgt. 
 
 ### Artikel  41  
 
-Indien de in de artikelen 25 tot en met 32 neergelegde verplichtingen of voorschriften niet worden nageleefd, wordt terstond begonnen met een procedure voor intrekking van de erkenning.  
+Indien de in de artikelen 25 tot en met 32 neergelegde verplichtingen of voorschriften niet worden nageleefd, wordt terstond begonnen met een procedure voor intrekking van de erkenning. 
 
 ### Artikel  42  
 
-De in [artikel 87 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), bedoelde wijziging, schorsing of intrekking van de erkenning kan, indien de erkenningseis of het erkenningsvoorschrift waaraan niet wordt voldaan slechts betrekking heeft op het keuren van een bepaalde groep voertuigen, beperkt blijven tot het keuren van die desbetreffende groep voertuigen.  
+De in [artikel 87 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), bedoelde wijziging, schorsing of intrekking van de erkenning kan, indien de erkenningseis of het erkenningsvoorschrift waaraan niet wordt voldaan slechts betrekking heeft op het keuren van een bepaalde groep voertuigen, beperkt blijven tot het keuren van die desbetreffende groep voertuigen. 
 
 ### §  3  
 
@@ -640,20 +644,20 @@ De in [artikel 87 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWB
 
 ### Artikel  43  
 
-Afhankelijk van het resultaat van de toets, bedoeld in artikel 22, wordt de bevoegdheid voertuigen aan een keuring te onderwerpen met twee jaar, met twee maanden of niet verlengd.  
+Afhankelijk van het resultaat van de toets, bedoeld in artikel 22, wordt de bevoegdheid voertuigen aan een keuring te onderwerpen met twee jaar, met twee maanden of niet verlengd. 
 
 ### Artikel  44  
 
-De in [artikel 87a van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen kan, indien de keuringsbevoegdheidseis, het keuringsbevoegdheidsvoorschrift of het keuringsvoorschrift waaraan niet wordt voldaan slechts betrekking heeft op het keuren van een bepaalde groep voertuigen, beperkt worden tot het keuren van die desbetreffende groep voertuigen.  
+De in [artikel 87a van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen kan, indien de keuringsbevoegdheidseis, het keuringsbevoegdheidsvoorschrift of het keuringsvoorschrift waaraan niet wordt voldaan slechts betrekking heeft op het keuren van een bepaalde groep voertuigen, beperkt worden tot het keuren van die desbetreffende groep voertuigen. 
 
 ### Artikel  45  
 
 1.  Indien er sprake is van een situatie waarin aan een of meer keuringsbevoegdheidseisen, keuringsbevoegdheidsvoorschriften of keuringsvoorschriften niet wordt voldaan, terwijl die situatie op korte termijn kan worden hersteld, kan, in plaats van intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen, overgegaan worden tot schorsing van de bevoegdheid voertuigen aan een keuring te onderwerpen voor een termijn van ten hoogste twaalf weken.   
-2.  Wordt binnen de in het eerste lid genoemde termijn niet aangetoond dat wederom aan de keuringsbevoegdheidseisen, keuringsbevoegdheidsvoorschriften of keuringsvoorschriften wordt voldaan, dan volgt alsnog intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen.   
+2.  Wordt binnen de in het eerste lid genoemde termijn niet aangetoond dat wederom aan de keuringsbevoegdheidseisen, keuringsbevoegdheidsvoorschriften of keuringsvoorschriften wordt voldaan, dan volgt alsnog intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen.  
 
 ### Artikel  46  
 
-Indien door de keurmeester de in de artikelen 25 tot en met 32 neergelegde verplichtingen of voorschriften niet worden nageleefd, wordt terstond begonnen met een procedure voor intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen.  
+Indien door de keurmeester de in de artikelen 25 tot en met 32 neergelegde verplichtingen of voorschriften niet worden nageleefd, wordt terstond begonnen met een procedure voor intrekking van de bevoegdheid voertuigen aan een keuring te onderwerpen. 
 
 ### Hoofdstuk  8  
 
@@ -661,20 +665,20 @@ Indien door de keurmeester de in de artikelen 25 tot en met 32 neergelegde verpl
 
 ### Artikel  47  
 
-Erkenningen en bevoegdheden die zijn verleend krachtens de [Erkenningsregeling APK](../../../../../../../ministeriele-regeling/erkenningsregeling/apk/BWBR0011158/README.md), zoals die regeling luidde voor de inwerkingtreding van deze regeling, worden gelijkgesteld met erkenningen en bevoegdheden die zijn verleend krachtens deze regeling.  
+Erkenningen en bevoegdheden die zijn verleend krachtens de [Erkenningsregeling APK](../../../../../../../ministeriele-regeling/erkenningsregeling/apk/BWBR0011158/README.md), zoals die regeling luidde voor de inwerkingtreding van deze regeling, worden gelijkgesteld met erkenningen en bevoegdheden die zijn verleend krachtens deze regeling. 
 
 ### Artikel  48  
 
-Deze regeling treedt in werking op het tijdstip dat het [Besluit voertuigen](../../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md) in werking treedt, met uitzondering van artikel 30, derde lid, onderdeel e, onder 3, derde lid, onderdeel g, onder 3, vierde lid, onderdeel c, onder 2, en vierde lid, onderdeel e, onder 3, dat in werking treedt op 1 januari 2010.  
+Deze regeling treedt in werking op het tijdstip dat het [Besluit voertuigen](../../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md) in werking treedt, met uitzondering van artikel 30, derde lid, onderdeel e, onder 3, derde lid, onderdeel g, onder 3, vierde lid, onderdeel c, onder 2, en vierde lid, onderdeel e, onder 3, dat in werking treedt op 1 januari 2010. 
 
 ### Artikel  49  
 
-Deze regeling wordt aangehaald als: Regeling erkenning en keuringsbevoegdheid APK.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+Deze regeling wordt aangehaald als: Regeling erkenning en keuringsbevoegdheid APK. 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
 ### Bijlage  1  
 
@@ -686,14 +690,14 @@ Reparatieadviespunten
 | 1.  | Bij personenauto’s, in gebruik genomen na 31 december 2003, waarbij van fabriekswege airbags gemonteerd zijn, moet het airbagsysteem goed functioneren.  | Visuele controle. Op plaatsen waar het beeldmerk ‘AIRBAG’in de personenauto wordt aangetroffen moet een airbag aanwezig zijn. Indien het duidelijk is dat een airbag is verwijderd op de plaats waar het beeldmerk is aangetroffen, wordt dit vermeld op het keuringsrapport.  |
 | 2.  | Bij personenauto’s, in gebruik genomen na 31 december 2003, en die beschikken over een airbagsysteem dat is voorzien van een waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de waarschuwingsinrichting goed functioneren.  | Leden 2 en 3: visuele controle. Indien een airbagsysteem of een gordelspansysteem is voorzien van een waarschuwingslampje, moet het waarschuwingslampje gaan branden als het contact wordt ingeschakeld. Vervolgens dient het waarschuwingslampje te doven, eventueel na het starten van de motor. Wanneer het waarschuwingslampje uitgaat, mag er vanuit worden gegaan dat het systeem functioneert. Indien het waarschuwingslampje blijft branden, wordt dit vermeld op het keuringsrapport.  |
 | 3.  | Bij personenauto’s, in gebruik genomen na 31 december 2003, en die beschikken over een gordelspansysteem dat is voorzien van een waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de waarschuwingsinrichting goed functioneren.  | --- |
-| 4.  | Onderdelen van personenauto’s, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen geen overmatige olielekkage vertonen.  | Visuele controle, terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+|4. |Onderdelen van personenauto’s, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen geen overmatige olielekkage vertonen. |Visuele controle, terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt. |
 | --- |  *Artikel 2*   | --- |
 | 1.  | Bij bedrijfsauto’s, in gebruik genomen na 31 december 2003, waarbij van fabriekswege airbags gemonteerd zijn, moet het airbagsysteem goed functioneren.  | Visuele controle. Op plaatsen waar het beeldmerk ‘AIRBAG’ in de bedrijfsauto wordt aangetroffen moet een airbag aanwezig zijn. Indien het duidelijk is dat een airbag is verwijderd op de plaats waar het beeldmerk is aangetroffen, wordt dit vermeld op het keuringsrapport.  |
 | 2.  | Bij bedrijfsauto’s, in gebruik genomen na 31 december 2003, en die beschikken over een airbagsysteem dat is voorzien van een waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de waarschuwingsinrichting goed functioneren.  | Leden 2 en 3: visuele controle. Indien een airbagsysteem of een gordelspansysteem is voorzien van een waarschuwingslampje, moet het waarschuwingslampje gaan branden als het contact wordt ingeschakeld. Vervolgens dient het waarschuwingslampje te doven, eventueel na het starten van de motor. Wanneer het waarschuwingslampje uitgaat, mag er vanuit worden gegaan dat het systeem functioneert. Indien het waarschuwingslampje blijft branden, wordt dit vermeld op het keuringsrapport.  |
-| 3.  | Bij bedrijfsauto’s, in gebruik genomen na 31 december 2003, en die beschikken over een gordelspansysteem dat is voorzien van een waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de waarschuwingsinrichting goed functioneren.  | --- |
-| 4.  | Onderdelen van bedrijfsauto’s, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen geen overmatige olielekkage vertonen.  | Visuele controle, terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
-| --- |  *Artikel 3*   | --- |
-| --- | Onderdelen van driewielige motorrijtuigen, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen geen overmatige olielekkage vertonen  | Visuele controle.  |
-| --- |  *Artikel 4*   | --- |
-| --- | Onderdelen van aanhangwagens, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurinrichting of het veersysteem, mogen geen overmatige olielekkage vertonen.  | Visuele controle, terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 3.  | Bij bedrijfsauto’s, in gebruik genomen na 31 december 2003, en die beschikken over een gordelspansysteem dat is voorzien van een waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de waarschuwingsinrichting goed functioneren.   | --- |
+|4. |Onderdelen van bedrijfsauto’s, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen geen overmatige olielekkage vertonen. |Visuele controle, terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt. |
+| --- |*Artikel 3* | --- |
+| --- |Onderdelen van driewielige motorrijtuigen, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen geen overmatige olielekkage vertonen |Visuele controle. |
+| --- |*Artikel 4* | --- |
+| --- |Onderdelen van aanhangwagens, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurinrichting of het veersysteem, mogen geen overmatige olielekkage vertonen. |Visuele controle, terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt. |
 
