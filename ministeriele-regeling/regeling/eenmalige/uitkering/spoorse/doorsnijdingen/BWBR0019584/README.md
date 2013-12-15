@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 17, vijfde lid van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 17, vijfde lid van de Financiële-verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
@@ -18,7 +18,7 @@ b. MIT: het Meerjarenprogramma Infrastructuur en Transport;
 
 c. project: project gericht op het opheffen of verminderen van knelpunten rondom het spoor met betrekking tot stedelijke bereikbaarheid en/of een verbetering van de kwaliteit van leefomgeving en/of een verbetering van de veiligheid en/of een positief effect op het spoorgebruik;  
 
-d. spoor: hoofdspoorwegen als aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) en de in onbruik geraakte spoorwegen;  
+d. spoor: hoofdspoorwegen als aangewezen in het Besluit aanwijzing hoofdspoorwegen en de in onbruik geraakte spoorwegen;  
 
 e. plan: een beschrijving van de werkzaamheden die er toe leiden dat een project gerealiseerd wordt.    
 
@@ -61,7 +61,7 @@ h. met het project samenhangende door de minister redelijk geachte schadevergoed
 
 i. voorlichting over de uitvoering van het project als begeleiding gedurende de bouw;  
 
-j. de omzetbelasting die niet op voet van [artikel 15, eerste lid, van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), in aftrek kan worden gebracht en geen recht geeft op een bijdrage uit het BTW-compensatiefonds, waarbij de toepassing van [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](../../../../../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md), buiten aanmerking blijft;  
+j. de omzetbelasting die niet op voet van artikel 15, eerste lid, van de Wet op de omzetbelasting 1968, in aftrek kan worden gebracht en geen recht geeft op een bijdrage uit het BTW-compensatiefonds, waarbij de toepassing van artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds, buiten aanmerking blijft;  
 
 k. de voorbereiding, administratie en toezicht voor zover gerelateerd aan het project. Het percentage is afhankelijk van de hoogte van de bouwkosten: 
 
@@ -106,7 +106,7 @@ c. gegronde reden bestaat om aan te nemen dat de voor de uitvoering van het proj
 d. het project naar het oordeel van de minister strijdig is met het vigerende rijksbeleid;  
 
 e. de uitvoeringswerkzaamheden voor het project al voor publicatiedatum van deze regeling zijn gestart.     
-2.  [Artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+2.  Artikel 4:35 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 
 ### Artikel  7  
 
@@ -152,7 +152,7 @@ c. de verantwoording op de uitkering.
 
 ####Intrekking
 
-[Artikel 4:48 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+Artikel 4:48 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
@@ -160,18 +160,14 @@ c. de verantwoording op de uitkering.
 
 1.  De minister kan in het jaar waarin de uitvoeringswerkzaamheden van het project aanvangen, een voorschot van 100% op de toegekende uitkering verlenen.   
 2.  Het voorschot wordt voor aanvang van de uitvoering van het project betaalbaar gesteld. De uitkeringsontvanger dient hiertoe ten minste vier weken voor de aanvang schriftelijk een verzoek tot betaalbaarstelling in bij de minister.   
-3.  Het voorschot wordt in rekening-courant aangehouden bij ’s Rijks schatkist. De Minister van Financiën vergoedt de uitkeringsontvanger over het creditsaldo op de rekening-courant een marktconforme rente.   
-4.  Ten behoeve van de rekening-courantverhouding met ’s Rijks schatkist opent de uitkeringsontvanger speciaal daartoe een bankrekening, die in concernverband met ’s Rijks schatkist wordt gebracht.   
-5.  De modaliteiten van de rekening-courant bij ’s Rijks schatkist worden in een rekening-courantovereenkomst tussen de Minister van Financiën en de uitkeringsontvanger vastgelegd.   
-6.  Voor uitkeringsontvangers, die in 2006 een positieve beslissing op hun aanvraag van de minister hebben ontvangen, die in 2006 reeds gestart zijn met de werkzaamheden en waaraan in het jaar 2006 een voorschot zal worden uitbetaald, kan tijdelijk een van het vierde lid afwijkende procedure worden toegepast, teneinde de uitbetaling daadwerkelijk in het jaar 2006 kan plaatsvinden.   
 
 ### Artikel  12  
 
 ####Aanvraag vaststelling uitkering
 
-1.  De uitkeringsontvanger neemt in de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md), informatie op over het project.   
+1.  De uitkeringsontvanger neemt in de verantwoordingsinformatie, bedoeld in artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten, informatie op over het project.   
 2.  Indien in de verantwoordingsinformatie, bedoeld in het eerste lid is opgenomen dat het project is afgerond, geldt deze mededeling als een aanvraag tot vaststelling van de uitkering.   
-3.  De [artikelen 4:46](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:47](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:49 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  De artikelen 4:46, 4:47 en 4:49 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  13  
 
@@ -185,7 +181,7 @@ c. de verantwoording op de uitkering.
 
 ####Onverschuldigd betaalde uitkeringen
 
-1.  [Artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+1.  Artikel 4:57 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 2.  Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge artikel 11, derde lid, door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.   
 
 ### Artikel  15  

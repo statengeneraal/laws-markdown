@@ -20,7 +20,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
 
-b. plusregio: een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
+b. plusregio: een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
 
 c. inliggende gemeenten: gemeenten die zijn gelegen binnen een provincie en buiten een plusregio;  
 
@@ -30,7 +30,7 @@ e. uitkering: een brede doeluitkering als bedoeld in artikel 2, eerste lid of ar
 
 f. uitkeringsjaar: het kalenderjaar waarvoor de uitkering wordt verstrekt;  
 
-g. verkeer- en vervoerbeleid: het samenstel van maatregelen gericht op aanleg, verbetering van de functionaliteit en op de instandhouding van de gebruiksfunctie van onroerende voorzieningen ten behoeve van het vervoer van personen en goederen, op exploitatie van openbaar en daarmee gelijkgesteld vervoer als bedoeld in de [Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), op verkeersveiligheid en op de overige maatregelen gericht op beïnvloeden van de keuze van een vervoersmodaliteit.    
+g. verkeer- en vervoerbeleid: het samenstel van maatregelen gericht op aanleg, verbetering van de functionaliteit en op de instandhouding van de gebruiksfunctie van onroerende voorzieningen ten behoeve van het vervoer van personen en goederen, op exploitatie van openbaar en daarmee gelijkgesteld vervoer als bedoeld in de Wet personenvervoer 2000, op verkeersveiligheid en op de overige maatregelen gericht op beïnvloeden van de keuze van een vervoersmodaliteit.    
 
 ### Hoofdstuk  2  
 
@@ -94,7 +94,7 @@ b. het verlenen van een subsidie aan een rechtspersoon die het te voeren gemeens
 a. maatregelen met betrekking tot het provinciaal verkeer- en vervoerbeleid die worden uitgevoerd door de provincie; en  
 
 b. maatregelen met betrekking tot het gemeentelijk en intergemeentelijk verkeer- en vervoerbeleid die worden uitgevoerd door een inliggende gemeente of door een samenwerkingsverband van gemeenten, als bedoeld in artikel 2, tweede lid, onder a.     
-5.  Indien bestuurlijke overeenkomsten zijn gesloten als bedoeld in [artikel 12 van de Planwet verkeer en vervoer](../../../../../../../wet/planwet/verkeer/en/vervoer/BWBR0009642/README.md), wordt hiermee bij het opstellen van het bestedingsplan rekening gehouden.   
+5.  Indien bestuurlijke overeenkomsten zijn gesloten als bedoeld in artikel 12 van de Planwet verkeer en vervoer, wordt hiermee bij het opstellen van het bestedingsplan rekening gehouden.   
 6.  Het bestedingsplan, bedoeld in het eerste lid, wordt aan Onze Minister toegezonden voor 1 februari van het uitkeringsjaar.   
 
 ### Artikel  7  
@@ -110,8 +110,8 @@ b. maatregelen met betrekking tot het gemeentelijk en intergemeentelijk verkeer-
 ### Artikel  9  
 
 1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een gedeelte van de uitkering reserveren voor het doen van uitgaven in de jaren die volgen op het uitkeringsjaar.   
-2.  Het saldo op 1 januari van het uitkeringsjaar van de gereserveerde bedragen met inbegrip van de daarover in de voorafgaande jaren berekende rente, wordt jaarlijks vermeerderd met rente.   
-3.  De rente, bedoeld in het tweede lid, is gelijk aan de herfinancieringsrente zoals die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringsrente welke geldt op de eerste kalenderdag van het desbetreffende uitkeringsjaar.   
+2.   Vervallen.    
+3.   Vervallen.    
 
 ### Hoofdstuk  5  
 
@@ -119,13 +119,13 @@ b. maatregelen met betrekking tot het gemeentelijk en intergemeentelijk verkeer-
 
 ### Artikel  10  
 
-De provincie onderscheidenlijk de plusregio legt financiële verantwoording af over de besteding en reservering ten laste van de uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md).  
+De provincie onderscheidenlijk de plusregio legt financiële verantwoording af over de besteding en reservering ten laste van de uitkering op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet.  
 
 ### Artikel  11  
 
 1.  Onze Minister kan een uitkering ten nadele van de provincie onderscheidenlijk de plusregio wijzigen indien: 
 
-a. uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat de uitkering is besteed aan de voorbereiding en de uitvoering van het provinciale onderscheidenlijk het regionale verkeer- en vervoerbeleid en, indien een gedeelte van de uitkering is gereserveerd, uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat dit is gebeurd in overeenstemming met artikel 9 of de reservering niet herkenbaar in de verantwoording is vastgelegd;  
+a. uit de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat de uitkering is besteed aan de voorbereiding en de uitvoering van het provinciale onderscheidenlijk het regionale verkeer- en vervoerbeleid en, indien een gedeelte van de uitkering is gereserveerd, uit de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat dit is gebeurd in overeenstemming met artikel 9 of de reservering niet herkenbaar in de verantwoording is vastgelegd;  
 
 b. geen verantwoording is afgelegd die overigens voldoet aan de bij of krachtens deze wet gestelde regels.     
 2.  Alvorens tot wijziging over te gaan stelt Onze Minister gedeputeerde staten onderscheidenlijk het dagelijks bestuur in de gelegenheid te worden gehoord.   
@@ -137,7 +137,7 @@ Onverschuldigde betalingen gedaan in het kader van de toepassing van deze wet ku
 
 ### Artikel  13  
 
-1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verstrekken desgevraagd inlichtingen omtrent de besteding en de reservering ten laste van de uitkering aan de door Onze Minister aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verstrekken desgevraagd inlichtingen omtrent de besteding en de reservering ten laste van de uitkering aan de door Onze Minister aangewezen ambtenaren van de accountantsdienst, bedoeld in artikel 66, eerste lid, van de Comptabiliteitswet 2001.   
 2.  De ambtenaren van de accountantsdienst kunnen ten aanzien van de financiële verantwoording door de provincie onderscheidenlijk de plusregio tevens informatie inwinnen bij de in artikel 10, tweede lid, bedoelde accountant.   
 
 ### Artikel  14  
@@ -177,7 +177,8 @@ Wijzigt de Wet verontreiniging oppervlaktewateren.
 
 Wijzigt de Spoorwegwet.   
 
-### Artikel  21  
+### Artikel  21   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Wet kabelbaaninstallaties.   
 
@@ -189,7 +190,7 @@ Wijzigt de Wet kabelbaaninstallaties.
 
 1.  In afwijking van artikel 2, eerste lid, en artikel 3, eerste lid, kan de eerste verstrekking van de uitkering ook plaatsvinden in het jaar waarop de uitkering betrekking heeft.   
 2.  Indien toepassing wordt gegeven aan het eerste lid, wordt in afwijking van artikel 6 door gedeputeerde staten onderscheidenlijk het dagelijks bestuur binnen acht weken na het tijdstip van inwerkingtreding van deze wet een bestedingsplan vastgesteld.   
-3.  Indien toepassing wordt gegeven aan het eerste lid, blijven de regels zoals die golden op de dag voor de inwerkingtreding van deze wet, van toepassing op de bijdrage voor de exploitatie van het openbaar vervoer, bedoeld in [artikel 76 van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), die is verstrekt in het jaar voorafgaand aan de inwerkingtreding van deze wet, met dien verstande dat: 
+3.  Indien toepassing wordt gegeven aan het eerste lid, blijven de regels zoals die golden op de dag voor de inwerkingtreding van deze wet, van toepassing op de bijdrage voor de exploitatie van het openbaar vervoer, bedoeld in artikel 76 van de Wet personenvervoer 2000, die is verstrekt in het jaar voorafgaand aan de inwerkingtreding van deze wet, met dien verstande dat: 
 
 a. de bijdrage kan worden besteed aan of gereserveerd voor verkeer- en vervoerbeleid;  
 
