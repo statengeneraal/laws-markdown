@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Geldleningen kunnen door openbare lichamen slechts worden aangegaan of verstrekt en de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing kan door openbare lichamen slechts worden gegarandeerd, indien de wederzijdse betalingsverplichtingen zijn uitgedrukt in euro of in één van de nationale munteenheden van de lidstaten van de Europese Unie die deelnemen aan de Economische en Monetaire Unie.  
+Geldleningen kunnen door openbare lichamen slechts worden aangegaan of verstrekt en de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing kan door openbare lichamen slechts worden gegarandeerd, indien de wederzijdse betalingsverplichtingen zijn uitgedrukt in euro of in één van de nationale munteenheden van de lidstaten van de Europese Unie die deelnemen aan de Economische en Monetaire Unie. 
 
 ### Artikel  2  
 
@@ -29,15 +29,15 @@ a. geldleningen met een gemiddelde looptijd korter dan 10 jaar die zijn aangegaa
 
 b. de voor de inwerkingtreding van dit besluit gegarandeerde nakoming van verplichtingen ten aanzien van de betaling van rente en aflossing voortvloeiend uit geldleningen, met een gemiddelde looptijd korter dan 10 jaar en waarvan de hoofdsom onderhevig is aan enige vorm van indexatie;  
 
-c. geldleningen die zijn verstrekt voor de inwerkingtreding van dit besluit.    
+c. geldleningen die zijn verstrekt voor de inwerkingtreding van dit besluit.   
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet financiering decentrale overheden](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van het tijdstip waarop de[ Wet financiering decentrale overheden](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md) in werking treedt. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit leningvoorwaarden decentrale overheden.  
+Dit besluit wordt aangehaald als: Besluit leningvoorwaarden decentrale overheden. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -57,4 +57,4 @@ J. M. de Vries
 de *eenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

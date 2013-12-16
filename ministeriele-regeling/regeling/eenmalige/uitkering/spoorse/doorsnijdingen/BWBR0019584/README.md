@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op artikel 17, vijfde lid van de Financiële-verhoudingswet;
+Gelet op [artikel 17, vijfde lid van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -18,22 +18,22 @@ b. MIT: het Meerjarenprogramma Infrastructuur en Transport;
 
 c. project: project gericht op het opheffen of verminderen van knelpunten rondom het spoor met betrekking tot stedelijke bereikbaarheid en/of een verbetering van de kwaliteit van leefomgeving en/of een verbetering van de veiligheid en/of een positief effect op het spoorgebruik;  
 
-d. spoor: hoofdspoorwegen als aangewezen in het Besluit aanwijzing hoofdspoorwegen en de in onbruik geraakte spoorwegen;  
+d. spoor: hoofdspoorwegen als aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) en de in onbruik geraakte spoorwegen;  
 
-e. plan: een beschrijving van de werkzaamheden die er toe leiden dat een project gerealiseerd wordt.    
+e. plan: een beschrijving van de werkzaamheden die er toe leiden dat een project gerealiseerd wordt.   
 
 ### Artikel  2  
 
 ####Doel
 
-De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van een project verstrekken aan gemeenten die aan het spoor gelokaliseerd zijn.  
+De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van een project verstrekken aan gemeenten die aan het spoor gelokaliseerd zijn. 
 
-### Artikel  3  
+### Artikel 3 
 
 ####Plafond
 
-1.  Het totale bedrag van de op grond van deze regeling te verlenen uitkeringen bedraagt € 300 miljoen (prijspeil 2006).   
-2.  Het in het eerste lid genoemde bedrag wordt, voor zover het de reeds betaalde voorschotten overtreft, jaarlijks geïndexeerd met de Index Bruto Overheidsinvesteringen, met dien verstande dat de indexering niet meer kan bedragen dan het bedrag dat de begrotingswetgever voor die indexering beschikbaar heeft gesteld.   
+1. Het totale bedrag van de op grond van deze regeling te verlenen uitkeringen bedraagt € 300 miljoen (prijspeil 2006).
+2. Het in het eerste lid genoemde bedrag wordt, voor zover het de reeds betaalde voorschotten overtreft, jaarlijks geïndexeerd met de Index Bruto Overheidsinvesteringen, met dien verstande dat de indexering niet meer kan bedragen dan het bedrag dat de begrotingswetgever voor die indexering beschikbaar heeft gesteld.
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ h. met het project samenhangende door de minister redelijk geachte schadevergoed
 
 i. voorlichting over de uitvoering van het project als begeleiding gedurende de bouw;  
 
-j. de omzetbelasting die niet op voet van artikel 15, eerste lid, van de Wet op de omzetbelasting 1968, in aftrek kan worden gebracht en geen recht geeft op een bijdrage uit het BTW-compensatiefonds, waarbij de toepassing van artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds, buiten aanmerking blijft;  
+j. de omzetbelasting die niet op voet van [artikel 15, eerste lid, van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), in aftrek kan worden gebracht en geen recht geeft op een bijdrage uit het BTW-compensatiefonds, waarbij de toepassing van [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](../../../../../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md), buiten aanmerking blijft;  
 
 k. de voorbereiding, administratie en toezicht voor zover gerelateerd aan het project. Het percentage is afhankelijk van de hoogte van de bouwkosten: 
 
@@ -79,17 +79,17 @@ a. kosten van algemene bestuurlijke aard;
 b. de kosten die reeds op grond van een andere regeling voor een financiële bijdrage van het Rijk of de Europese Unie in aanmerking komen;  
 
 c. de kosten gemaakt in verband met het verkrijgen van een accountantsverklaring.     
-5.  Indien voor de uitvoering van het project door het Rijk uit andere hoofde bijdragen worden verleend, wordt de uitkering op grond van deze regeling zodanig verlaagd dat de totale bijdrage van het Rijk niet meer dan 50% van de totale kosten bedraagt.   
+5.  Indien voor de uitvoering van het project door het Rijk uit andere hoofde bijdragen worden verleend, wordt de uitkering op grond van deze regeling zodanig verlaagd dat de totale bijdrage van het Rijk niet meer dan 50% van de totale kosten bedraagt.  
 
 ### Artikel  5  
 
 ####Aanvraag uitkering
 
-1.  Een gemeente die een aanvraag voor een uitkering wil indienen, maakt dit voor 1 mei 2006 schriftelijk kenbaar aan de minister.   
+1.  Een gemeente die een aanvraag voor een uitkering wil indienen, maakt dit voor 1 mei 2006 schriftelijk kenbaar aan de minister.  
 2.  De aanvraag voor een uitkering wordt aan de minister gericht en ingediend bij het Directoraat-Generaal Mobiliteit.   
 3.  De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in bijlage 1 van deze regeling en is ondertekend door het bestuur van de gemeente.   
 4.  De minister kan bepalen dat er in aanvulling op de in het derde lid bedoelde gegevens, andere voor de beoordeling van de aanvraag noodzakelijke gegevens worden overgelegd.   
-5.  De aanvraag wordt ingediend vóór 1 juni 2006.   
+5.  De aanvraag wordt ingediend vóór 1 juni 2006.  
 
 ### Artikel  6  
 
@@ -106,7 +106,7 @@ c. gegronde reden bestaat om aan te nemen dat de voor de uitvoering van het proj
 d. het project naar het oordeel van de minister strijdig is met het vigerende rijksbeleid;  
 
 e. de uitvoeringswerkzaamheden voor het project al voor publicatiedatum van deze regeling zijn gestart.     
-2.  Artikel 4:35 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+2.  [Artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
@@ -126,15 +126,15 @@ d. de bijdrage aan het spoorgebruik.
 4.  De rangorde wordt vastgesteld op basis van de verwachte effectiviteit van het project.   
 5.  Nadat de projecten onderling vergeleken en gerangschikt zijn, wordt het plafond verdeeld in volgorde van de projecten met de hoogste score op effectiviteit.   
 6.  Indien in de rangorde een aanvraag aan de orde is, waarvoor een hoger bedrag wordt aangevraagd dan het bedrag dat met toepassing van het plafond resteert, wordt het toe te kennen bedrag bepaald gelijk aan het bedrag dat resteert.   
-7.  De minister wijst de resterende aanvragen af.   
+7.  De minister wijst de resterende aanvragen af.  
 
 ### Artikel  8  
 
 ####Toekenning uitkering
 
 1.  De minister beslist op een aanvraag voor een uitkering voor 1 februari 2007.   
-2.  De uitkering wordt toegekend onder de voorwaarde dat voor het deel van de uitkering dat ten laste van een nog niet vastgestelde begroting komt, voldoende gelden ter beschikking worden gesteld.   
-3.  De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig artikel 3, tweede lid.   
+2.  De uitkering wordt toegekend onder de voorwaarde dat voor het deel van de uitkering dat ten laste van een nog niet vastgestelde begroting komt, voldoende gelden ter beschikking worden gesteld.  
+3. De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig artikel 3, tweede lid.
 
 ### Artikel  9  
 
@@ -146,28 +146,28 @@ a. het moment waarop de uitkeringsontvanger aanvangt met de uitvoering van het p
 
 b. dat de uitkeringsontvanger handelt in overeenstemming met het ingediende project en het daarbij horende plan en het project uitvoert overeenkomstig het ingediende project.  
 
-c. de verantwoording op de uitkering.    
+c. de verantwoording op de uitkering.   
 
 ### Artikel  10  
 
 ####Intrekking
 
-Artikel 4:48 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
+[Artikel 4:48 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
 
-### Artikel  11  
+### Artikel 11 
 
 ####Voorschot en procedure voor de voorschotbetaling
 
-1.  De minister kan in het jaar waarin de uitvoeringswerkzaamheden van het project aanvangen, een voorschot van 100% op de toegekende uitkering verlenen.   
-2.  Het voorschot wordt voor aanvang van de uitvoering van het project betaalbaar gesteld. De uitkeringsontvanger dient hiertoe ten minste vier weken voor de aanvang schriftelijk een verzoek tot betaalbaarstelling in bij de minister.   
+1. De minister kan in het jaar waarin de uitvoeringswerkzaamheden van het project aanvangen, een voorschot van 100% op de toegekende uitkering verlenen.
+2. Het voorschot wordt voor aanvang van de uitvoering van het project betaalbaar gesteld. De uitkeringsontvanger dient hiertoe ten minste vier weken voor de aanvang schriftelijk een verzoek tot betaalbaarstelling in bij de minister.
 
 ### Artikel  12  
 
 ####Aanvraag vaststelling uitkering
 
-1.  De uitkeringsontvanger neemt in de verantwoordingsinformatie, bedoeld in artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten, informatie op over het project.   
-2.  Indien in de verantwoordingsinformatie, bedoeld in het eerste lid is opgenomen dat het project is afgerond, geldt deze mededeling als een aanvraag tot vaststelling van de uitkering.   
-3.  De artikelen 4:46, 4:47 en 4:49 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
+1.  De uitkeringsontvanger neemt in de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md), informatie op over het project.   
+2.  Indien in de verantwoordingsinformatie, bedoeld in het eerste lid is opgenomen dat het project is afgerond, geldt deze mededeling als een aanvraag tot vaststelling van de uitkering.  
+3.  De [artikelen 4:46](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:47](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:49 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  13  
 
@@ -175,43 +175,43 @@ Artikel 4:48 van de Algemene wet bestuursrecht is van overeenkomstige toepassing
 
 1.  De minister neemt binnen twaalf weken na ontvangst een beslissing op de aanvraag tot vaststelling van de uitkering.   
 2.  Indien de beslissing niet binnen twaalf weken kan worden gegeven, stelt de minister de aanvrager daarvan in kennis en noemt hij een redelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-3.  Het bedrag van de uitkering wordt overeenkomstig de vaststelling, binnen 6 weken na vaststelling, betaald onder verrekening van de betaalde voorschotten.   
+3.  Het bedrag van de uitkering wordt overeenkomstig de vaststelling, binnen 6 weken na vaststelling, betaald onder verrekening van de betaalde voorschotten.  
 
-### Artikel  14  
+### Artikel 14 
 
 ####Onverschuldigd betaalde uitkeringen
 
-1.  Artikel 4:57 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
-2.  Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge artikel 11, derde lid, door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.   
+1. [Artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.
+2. Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge artikel 11, derde lid, door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.
 
 ### Artikel  15  
 
 ####Duur regeling
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  16  
 
 ####Titel regeling
 
-Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen.  
+Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
+Minister van Verkeer en Waterstaat,
 
 K.M.H. Peijs    
 
-### Bijlage  1  
+### Bijlage  1 
 
-####als bedoeld in artikel 5, derde lid , van de Regeling eenmalige uitkering spoorse doorsnijdingen
+#### als bedoeld in artikel 5, derde lid , van de Regeling eenmalige uitkering spoorse doorsnijdingen
 
-### *Postadres aanvraag* 
+###*Postadres aanvraag*
 
-De aanvraag wordt gericht aan de minister onder vermelding van ‘aanvraag eenmalige uitkering spoorse doorsnijdingen’. Postadres: Minister van Verkeer en Waterstaat Directoraat-Generaal Mobiliteit Directie Spoorvervoer Postbus 20901 2500 EX Den Haag 
-### *Werkinstructie format* 
+De aanvraag wordt gericht aan de minister onder vermelding van ‘aanvraag eenmalige uitkering spoorse doorsnijdingen’.Postadres: Minister van Verkeer en Waterstaat Directoraat-Generaal Mobiliteit Directie Spoorvervoer Postbus 20901 2500 EX Den Haag
+###*Werkinstructie format*
 
-Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand format. De minister gebruikt bij de beoordeling van de aanvraag de informatie zoals is vermeld in dit format. Bij de invulling van het format dient de gemeente: 
+Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand format. De minister gebruikt bij de beoordeling van de aanvraag de informatie zoals is vermeld in dit format.Bij de invulling van het format dient de gemeente:
 
 – de vraag voldoende gemotiveerd kwalitatief te beantwoorden;  
 
@@ -219,14 +219,14 @@ Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand
 
 – eventueel te verwijzen naar onderliggende stukken. Als wordt verwezen naar onderliggende stukken dan moet een concrete verwijzing naar pagina(s) worden opgenomen. Het is niet de bedoeling dat de beoordelaars van de aanvraag moeten zoeken naar onderbouwingen, toelichtingen en beschrijvingen;  
 
-– aan te geven of en in hoeverre informatie in de aanvraag als vertrouwelijk dient te worden behandeld.   Informatie die niet in het format opgenomen is, wordt niet meegenomen in de beoordeling. De aanvraag dient door het bestuur van de gemeente ondertekend te worden. Zij staat garant voor de juistheid van de informatie in deze aanvraag. Een ondertekende aanvraag bestaande uit het format en eventueel onderliggende stukken dient in tweevoud te worden ingediend. Daarnaast dient een elektronische kopie van de aanvraag en eventuele onderliggende stukken te worden bijgevoegd. 
+– aan te geven of en in hoeverre informatie in de aanvraag als vertrouwelijk dient te worden behandeld.  Informatie die niet in het format opgenomen is, wordt niet meegenomen in de beoordeling. De aanvraag dient door het bestuur van de gemeente ondertekend te worden. Zij staat garant voor de juistheid van de informatie in deze aanvraag.Een ondertekende aanvraag bestaande uit het format en eventueel onderliggende stukken dient in tweevoud te worden ingediend. Daarnaast dient een elektronische kopie van de aanvraag en eventuele onderliggende stukken te worden bijgevoegd. 
 
 ####Het format
 
-### *1. Algemene informatie* 
+###*1. Algemene informatie*
 
 Naam gemeente Naam en functie contactpersoon Betrokken partners Bezoekadres Postadres Postcode Plaats Telefoonnummer Fax E-mail 
-### *2. Beschrijving van het project waarvoor een eenmalige uitkering wordt aangevraagd, waarbij in ieder geval is opgenomen:* 
+###*2. Beschrijving van het project waarvoor een eenmalige uitkering wordt aangevraagd, waarbij in ieder geval is opgenomen:*
 
 – wat de geografische afbakening van het project is;  
 
@@ -235,11 +235,11 @@ Naam gemeente Naam en functie contactpersoon Betrokken partners Bezoekadres Post
 – een plankaart inclusief afbakening;  
 
 – een plan: beschrijving van de werkzaamheden die ertoe leiden dat het project gerealiseerd wordt.   
-### *3. Doel van het project. Wat wil de gemeente met het project bereiken?* 
+###*3. Doel van het project. Wat wil de gemeente met het project bereiken?*
 
-### *4. Welke procedures moeten nog doorlopen worden om het project ten uitvoer te brengen? Hoe verloopt het besluitvormingsproces en wat is de doorlooptijd van deze procedures? De procedures waarnaar gevraagd wordt, zijn onder meer die procedures waar bezwaar mogelijk is en die de realisatie van het project kunnen verhinderen. Hierbij kan worden gedacht aan ruimtelijke-ordeningsprocedures, grondverwervingen, vergunningprocedures en inspraakprocedures.* 
+###*4. Welke procedures moeten nog doorlopen worden om het project ten uitvoer te brengen? Hoe verloopt het besluitvormingsproces en wat is de doorlooptijd van deze procedures? De procedures waarnaar gevraagd wordt, zijn onder meer die procedures waar bezwaar mogelijk is en die de realisatie van het project kunnen verhinderen. Hierbij kan worden gedacht aan ruimtelijke-ordeningsprocedures, grondverwervingen, vergunningprocedures en inspraakprocedures.*
 
-### *5. Wat is de financiële onderbouwing van het project? Dit dient een gedegen kwalitatieve en kwantitatieve onderbouwing te zijn, waarin in ieder geval is opgenomen:* 
+###*5. Wat is de financiële onderbouwing van het project? Dit dient een gedegen kwalitatieve en kwantitatieve onderbouwing te zijn, waarin in ieder geval is opgenomen:*
 
 a. wat de kosten zijn voor het project, opgebouwd volgens de Standaard Systematiek Kostenramingen (SKK, CROW publicatie 137). De volledige onderbouwing van de kostenraming dient meegeleverd te worden.  
 
@@ -249,19 +249,19 @@ c. wat de gevraagde bijdrage is (procentueel en absoluut). Hierbij dient, bij de
 
 d. voor welk jaar/welke jaren wordt de uitkering aangevraagd? (cashflow planning)   
 
-#### *A. Criterium ‘stedelijke bereikbaarheid’* 
+####*A. Criterium ‘stedelijke bereikbaarheid’*
 
-In hoeverre worden nieuwe of bestaande woonwijken beter ontsloten? Hierbij wordt een kwalitatieve beschrijving verwacht als mede een kwantitatieve aanduiding uitgedrukt in omrijtijd en reistijd. In hoeverre worden stedelijke voorzieningen beter ontsloten? Hierbij moet worden aangegeven om welke voorzieningen het gaat en, voorzover bekend, om hoeveel gebruikers het gaat. In hoeverre wordt de relatie tussen functioneel samenhangende stedelijke gebieden verbeterd? Hierbij moet worden aangegeven om welke samenhang het gaat en, indien bekend, om hoeveel gebruikers het gaat. In hoeverre wordt de capaciteit en doorstroming van het onderliggende wegennet verbeterd? Dit dient te worden uitgedrukt in wachttijden voor weggebruikers, onder te verdelen in gemotoriseerde voertuigen (behalve bromfietsen) en andere weggebruikers. Hierbij dient zowel de huidige als de toekomstige situatie te worden beschreven.  
+In hoeverre worden nieuwe of bestaande woonwijken beter ontsloten? Hierbij wordt een kwalitatieve beschrijving verwacht als mede een kwantitatieve aanduiding uitgedrukt in omrijtijd en reistijd. In hoeverre worden stedelijke voorzieningen beter ontsloten? Hierbij moet worden aangegeven om welke voorzieningen het gaat en, voorzover bekend, om hoeveel gebruikers het gaat. In hoeverre wordt de relatie tussen functioneel samenhangende stedelijke gebieden verbeterd? Hierbij moet worden aangegeven om welke samenhang het gaat en, indien bekend, om hoeveel gebruikers het gaat. In hoeverre wordt de capaciteit en doorstroming van het onderliggende wegennet verbeterd? Dit dient te worden uitgedrukt in wachttijden voor weggebruikers, onder te verdelen in gemotoriseerde voertuigen (behalve bromfietsen) en andere weggebruikers. Hierbij dient zowel de huidige als de toekomstige situatie te worden beschreven. 
 
-#### *B. Criterium ‘kwaliteit leefomgeving’* 
+####*B. Criterium ‘kwaliteit leefomgeving’*
 
-Is er sprake van een geluidssituatie waarbij de wettelijke normen worden overtreden? Verandert deze situatie als gevolg van realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval? Is er sprake van een geluidssituatie binnen de wettelijke normen? Verandert deze situatie als gevolg van de realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval? In hoeverre is er sprake van overlast voor de omgeving als gevolg van trillingen? In welke mate wijzigt dit door maatregelen uit het project. In hoeverre leiden de maatregelen uit het project tot een verandering van de luchtkwaliteit? Wat is het effect van het project op de sociale veiligheid in het plangebied? In hoeverre is er draagvlak voor het project bij de inwoners en maatschappelijke organisaties? Hoe beïnvloedt het project de economische ontwikkeling van het plangebied? Hoe beïnvloedt het project de toekomstige stedelijke ontwikkelingen?  
+Is er sprake van een geluidssituatie waarbij de wettelijke normen worden overtreden? Verandert deze situatie als gevolg van realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval? Is er sprake van een geluidssituatie binnen de wettelijke normen? Verandert deze situatie als gevolg van de realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval? In hoeverre is er sprake van overlast voor de omgeving als gevolg van trillingen? In welke mate wijzigt dit door maatregelen uit het project. In hoeverre leiden de maatregelen uit het project tot een verandering van de luchtkwaliteit? Wat is het effect van het project op de sociale veiligheid in het plangebied? In hoeverre is er draagvlak voor het project bij de inwoners en maatschappelijke organisaties? Hoe beïnvloedt het project de economische ontwikkeling van het plangebied? Hoe beïnvloedt het project de toekomstige stedelijke ontwikkelingen? 
 
-#### *C. Criterium veiligheid* 
+####*C. Criterium veiligheid*
 
-Wat is het effect van het project op de ongevalskans op overwegen in het plangebied? In welke mate draagt het project bij aan het verhinderen van vandalisme op en om het spoor? In welke mate draagt het project bij aan het verhinderen van suïcide op en om het spoor? Wat is het effect van het project op de bereikbaarheid van het spoor (voor hulpdiensten en als vluchtwegen)? Wat is het effect van het project op de veiligheid op het omliggende wegennet?  
+Wat is het effect van het project op de ongevalskans op overwegen in het plangebied? In welke mate draagt het project bij aan het verhinderen van vandalisme op en om het spoor? In welke mate draagt het project bij aan het verhinderen van suïcide op en om het spoor? Wat is het effect van het project op de bereikbaarheid van het spoor (voor hulpdiensten en als vluchtwegen)? Wat is het effect van het project op de veiligheid op het omliggende wegennet? 
 
-#### *D. Spoorgebruik* 
+####*D. Spoorgebruik*
 
 In hoeverre is de toekomstvastheid en duurzaamheid van het spoorsysteem geborgd? Wat is het effect van het project op: 
 
@@ -269,11 +269,11 @@ a. de capaciteit van het spoorsysteem?
 
 b. beschikbaarheid van het spoorsysteem?  
 
-c. betrouwbaarheid van het spoorsysteem?   Deze vraag dient zowel voor de nieuwe situatie na realisatie als voor de tijdelijke situatie tijdens de realisatie beantwoord te worden. Wat is het effect van de maatregelen op de kosten van beheer en instandhouding van de spoorweginfrastructuur? Opmerking: Indien het niet mogelijk is deze gegevens voor 1 juni 2006 te leveren, zullen deze op verzoek van de minister ten behoeve van de beoordeling door ProRail worden bepaald.  
+c. betrouwbaarheid van het spoorsysteem?   Deze vraag dient zowel voor de nieuwe situatie na realisatie als voor de tijdelijke situatie tijdens de realisatie beantwoord te worden. Wat is het effect van de maatregelen op de kosten van beheer en instandhouding van de spoorweginfrastructuur? Opmerking: Indien het niet mogelijk is deze gegevens voor 1 juni 2006 te leveren, zullen deze op verzoek van de minister ten behoeve van de beoordeling door ProRail worden bepaald. 
 
-### Bijlage  2  
+### Bijlage  2 
 
-####als bedoeld in artikel 7, eerste lid 
+#### als bedoeld in artikel 7, eerste lid 
 
 #### *A. Stedelijke bereikbaarheid* 
 
@@ -285,7 +285,7 @@ Voor wat betreft het criterium stedelijke bereikbaarheid wordt bezien in hoeverr
 
 3. In hoeverre wordt de relatie tussen functioneel samenhangende stedelijke gebieden verbeterd?  
 
-4. In hoeverre wordt de capaciteit en doorstroming van het onderliggende wegennet verbeterd? Dit element wordt vertaald in wachttijden voor weggebruikers onder te verdelen in gemotoriseerde voertuigen behalve bromfietsen en andere weggebruikers.    
+4. In hoeverre wordt de capaciteit en doorstroming van het onderliggende wegennet verbeterd? Dit element wordt vertaald in wachttijden voor weggebruikers onder te verdelen in gemotoriseerde voertuigen behalve bromfietsen en andere weggebruikers.   
 
 #### *B. Kwaliteit leefomgeving* 
 
@@ -315,7 +315,7 @@ c. geluidsgehinderden.
 
 6. In hoeverre er draagvlak is voor het project bij de inwoners en maatschappelijke organisaties?  
 
-7. In welke mate draagt het plan bij aan de economische ontwikkeling van het plangebied en maakt het toekomstige stedelijke ontwikkelingen mogelijk?    
+7. In welke mate draagt het plan bij aan de economische ontwikkeling van het plangebied en maakt het toekomstige stedelijke ontwikkelingen mogelijk?   
 
 #### *C. Veiligheid* 
 
@@ -329,7 +329,7 @@ c. geluidsgehinderden.
 
 5. In welke mate draagt het project bij aan het verbeteren van de bereikbaarheid van het spoor (voor hulpdiensten en als vluchtwegen)?  
 
-6. In welke mate draagt het project bij aan verbetering van veiligheid op het omliggende wegennet?    
+6. In welke mate draagt het project bij aan verbetering van veiligheid op het omliggende wegennet?   
 
 #### *D. Spoorgebruik* 
 
@@ -343,5 +343,5 @@ b. beschikbaarheid van het spoorsysteem;
 
 c. betrouwbaarheid van het spoorsysteem?    
 
-3. Wat is het financiële en het type effect van de maatregelen op de beheer en instandhoudingskosten van de spoorweginfrastructuur?    
+3. Wat is het financiële en het type effect van de maatregelen op de beheer en instandhoudingskosten van de spoorweginfrastructuur?   
 

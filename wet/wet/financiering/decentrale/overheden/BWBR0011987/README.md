@@ -21,7 +21,7 @@ a. openbare lichamen:
 
 3°. waterschappen;  
 
-4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de Wet gemeenschappelijke regelingen;  
+4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
 
 5°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;    
 
@@ -63,26 +63,26 @@ j. Onze Ministers:
 
 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Infrastructuur en Milieu voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;    
 
-k. begrotingstotaal: de totale lasten op de begroting.    
+k. begrotingstotaal: de totale lasten op de begroting.  
 
 ### Artikel  2  
 
 1.  Openbare lichamen kunnen uitsluitend ten behoeve van de uitoefening van de publieke taak leningen aangaan, middelen uitzetten of garanties verlenen. Voor het overige houden zij hun liquide middelen in ’s Rijks schatkist aan.   
 2.  De middelen die een openbaar lichaam in ’s Rijks schatkist aanhoudt, blijven beschikbaar voor de uitoefening van zijn publieke taak.   
 3.  In afwijking van het eerste lid kunnen openbare lichamen hun liquide middelen in de vorm van leningen uitzetten bij andere openbare lichamen, met dien verstande dat openbare lichamen geen leningen kunnen verstrekken aan openbare lichamen ten aanzien waarvan zij met het financiële toezicht zijn belast. Bij regeling van Onze Ministers worden met betrekking tot deze leningen nadere regels gesteld.   
-4.  Bij regeling van Onze Ministers kunnen bepaalde middelen uitgezonderd worden van de verplichting deze aan te houden in ’s Rijks schatkist.   
+4.  Bij regeling van Onze Ministers kunnen bepaalde middelen uitgezonderd worden van de verplichting deze aan te houden in ’s Rijks schatkist.  
 
 ### Artikel  2a  
 
 1.  Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.   
 2.  Openbare lichamen kunnen derivaten hanteren of de ingevolge artikel 2, vierde lid, uitgezonderde middelen uitzetten indien deze derivaten of uitzettingen een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Bij regeling van Onze Ministers worden ter zake van de uitvoering van dit lid nadere regels gesteld.   
-3.  Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.   
+3.  Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.  
 
 ### Artikel  2b  
 
 1.  Openbare lichamen ontvangen rente over de liquide middelen die zij in ’s Rijks schatkist aanhouden. De rente kan niet negatief zijn.   
 2.  Openbare lichamen hebben een rekening-courantovereenkomst met de Staat der Nederlanden, welke van rechtswege tot stand komt op de dag dat deze overeenkomst is ontvangen door het desbetreffende openbaar lichaam. De overeenkomst luidt overeenkomstig de modelovereenkomst die na overleg met Onze Ministers door Onze Minister van Financiën wordt vastgesteld.   
-3.  Onze Minister van Financiën kan na overleg met Onze Ministers regels stellen ten aanzien van de uitvoering van dit artikel.   
+3.  Onze Minister van Financiën kan na overleg met Onze Ministers regels stellen ten aanzien van de uitvoering van dit artikel.  
 
 ### Artikel  3  
 
@@ -90,7 +90,7 @@ k. begrotingstotaal: de totale lasten op de begroting.
 2.  Voor de kasgeldlimiet geldt een minimumbedrag van € 300 000.   
 3.  Onze Ministers kunnen bij ministeriële regeling een hoger minimumbedrag vaststellen dan het in het tweede lid genoemde bedrag.   
 4.  Het op basis van het eerste lid vast te stellen percentage voor de kasgeldlimiet en het op basis van het derde lid vast te stellen minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.   
-5.  De toezichthouder van de openbare lichamen, bedoeld in artikel 1, onderdeel a, onder 5°, kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.   
+5.  De toezichthouder van de openbare lichamen, bedoeld in artikel 1, onderdeel a, onder 5°, kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen. 
 
 ### Artikel  4  
 
@@ -98,12 +98,12 @@ k. begrotingstotaal: de totale lasten op de begroting.
 2.  Indien een openbaar lichaam voor het derde achtereenvolgende kwartaal de kasgeldlimiet overschrijdt, stelt het daarvan de toezichthouder op de hoogte, en legt het de kwartaalrapportage en een plan om binnen de kasgeldlimiet te blijven ter goedkeuring voor aan de toezichthouder.   
 3.  Zolang het plan, bedoeld in het tweede lid, niet is goedgekeurd dan wel indien blijkt dat het plan niet ten uitvoer wordt gelegd kan de toezichthouder een aanwijzing geven om alsnog een aangepast plan in te zenden en om maatregelen te treffen om te voldoen aan de kasgeldlimiet. De toezichthouder kan voorts bepalen dat voor het aangaan van nieuwe geldleningen met een oorspronkelijke rentetypische looptijd van minder dan één jaar voorafgaande toestemming van de toezichthouder is vereist. De toezichthouder kan daarbij een maximum vaststellen voor de schuld in rekening-courant van het openbare lichaam met inachtneming van de op dat moment bestaande betalingsverplichtingen van het openbare lichaam.   
 4.  Het toezicht, bedoeld in het derde lid, vervalt zodra het in het derde lid bedoelde plan naar het oordeel van de toezichthouder voldoende ten uitvoer wordt gelegd.   
-5.  De toezichthouder kan bij incidentele wijzigingen in het inkomsten- en uitgavenpatroon ontheffing verlenen van de in het eerste lid genoemde verplichting voor een periode van maximaal twee kwartalen. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.   
+5.  De toezichthouder kan bij incidentele wijzigingen in het inkomsten- en uitgavenpatroon ontheffing verlenen van de in het eerste lid genoemde verplichting voor een periode van maximaal twee kwartalen. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.  
 
 ### Artikel  5  
 
 1.  Onze Ministers stellen bij ministeriële regeling een percentage voor de berekening van de renterisiconorm en een minimumbedrag voor de renterisiconorm vast, alsmede regels ten aanzien van de bepaling van het renterisico op het begrotingstotaal.   
-2.  Het op basis van het eerste lid vast te stellen percentage voor de renterisiconorm en minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.   
+2.  Het op basis van het eerste lid vast te stellen percentage voor de renterisiconorm en minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.  
 
 ### Artikel  6  
 
@@ -111,7 +111,7 @@ k. begrotingstotaal: de totale lasten op de begroting.
 2.  De toezichthouder geeft, indien door een openbaar lichaam niet wordt voldaan aan het eerste lid, het openbare lichaam een aanwijzing om maatregelen te nemen ten einde het renterisico op het begrotingstotaal te verminderen.   
 3.  Indien het openbare lichaam geen gehoor geeft aan de aanwijzing van de toezichthouder, bedoeld in het tweede lid, legt het openbare lichaam een plan om aan het eerste lid te voldoen ter goedkeuring voor aan de toezichthouder. Zolang dit plan niet is goedgekeurd dan wel indien blijkt dat het plan niet ten uitvoer wordt gelegd, kan de toezichthouder bepalen dat voor het aangaan van het begrotingstotaal voorafgaande toestemming van de toezichthouder is vereist.   
 4.  Het voorafgaand toezicht, bedoeld in het derde lid, vervalt zodra het in het derde lid bedoelde plan naar het oordeel van de toezichthouder voldoende ten uitvoer wordt gelegd.   
-5.  De toezichthouder kan ontheffing verlenen van de in het eerste lid genoemde verplichting. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.   
+5.  De toezichthouder kan ontheffing verlenen van de in het eerste lid genoemde verplichting. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.  
 
 ### Artikel  8  
 
@@ -134,35 +134,35 @@ g. uitzettingen;
 
 h. verleende garanties met betrekking tot de nakoming van uit geldleningen voortvloeiende verplichtingen; of  
 
-i. het EMU-saldo van de openbare lichamen.     
+i. het EMU-saldo van de openbare lichamen.    
 
 ### Artikel  9  
 
-Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  10  
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet.  
 
 ### Artikel  11  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.  
 
 ### Artikel  12  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet.  
 
 ### Artikel  13  
 
-De Wet financiering lagere overheid wordt ingetrokken.  
+De Wet financiering lagere overheid wordt ingetrokken. 
 
 ### Artikel  15  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  16  
 
-Deze wet wordt aangehaald als: Wet financiering decentrale overheden.  
+Deze wet wordt aangehaald als: Wet financiering decentrale overheden. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -182,4 +182,4 @@ J. M. de Vries
 de *eenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -58,12 +58,13 @@ d. er is geen sprake van één of meer wezenlijke verschillen met een Nederlands
 
 ####Geldigheidsduur
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2010 en vervalt uiterlijk op 1 januari 2014.    
+Vervallen per 01-01-2014 
+
 ### 6  
 
 ####Intrekking
 
-Met ingang van 1 januari 2010 wordt de beleidsregel ‘ [Titulatuur op grond van artikel 7.23 van WHW](../../../../../../../../../../../../zbo/beleidsregel/nederlandse/titulatuur/ex/artikel/7.23/derde/lid/whw/BWBR0020481/README.md) ’ (kenmerk AGOCW/MT/06.048 d.d. 30 oktober 2006 ) ingetrokken.    
+Met ingang van 1 januari 2010 wordt de beleidsregel ‘[Titulatuur op grond van artikel 7.23 van WHW](../../../../../../../../../../../../zbo/beleidsregel/nederlandse/titulatuur/ex/artikel/7.23/derde/lid/whw/BWBR0020481/README.md)’ (kenmerk AGOCW/MT/06.048 d.d. 30 oktober 2006 ) ingetrokken.    
 ### 7  
 
 ####Bekendmaking
@@ -72,4 +73,4 @@ Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk   
+R.H.A. Plasterk     

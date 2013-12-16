@@ -17,7 +17,7 @@ In deze regeling wordt verstaan onder:
 
 a. wet: [Wet op de architectentitel](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md);  
 
-b. register: architectenregister, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md).    
+b. register: architectenregister, bedoeld in [artikel 2 van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md).   
 
 ### Hoofdstuk  II  
 
@@ -27,7 +27,7 @@ b. register: architectenregister, bedoeld in [artikel 2, eerste lid, van de wet]
 
 ####Voorschriften inrichting opleiding architect
 
-1.  Degene die voldoet aan een van de eisen, genoemd in [artikel 9, eerste lid, onderdelen a en c, van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), komt slechts voor inschrijving in het register als architect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen tot architectonische vormgeving die zowel aan esthetische als aan technische en functionele eisen voldoet.   
+1.  Degene die voldoet aan een van de eisen, genoemd in [artikel 9, eerste lid, onderdelen a tot en met c](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), komt slechts voor inschrijving in het register als architect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen tot architectonische vormgeving die zowel aan esthetische als aan technische en functionele eisen voldoet.   
 2.  De opleiding dient hiertoe ten minste de verwerving te waarborgen van: 
 
 a. passende kennis van de geschiedenis en de theorie van de architectuur en aanverwante kunstvormen, technologische vakken en menswetenschappen;  
@@ -52,7 +52,7 @@ j. inzicht in de relatie tussen mensen en architectonische constructies en tusse
 
 k. technische bekwaamheid als ontwerper, teneinde binnen de doo rbegrotingsfactoren en bouwvoorschriften gestelde grenzen te kunnen voldoen aan de eisen van de gebruikers van een gebouw, en  
 
-l. passende kennis van en inzicht in procedures en processen van besluitvorming.     
+l. passende kennis van en inzicht in procedures en processen van besluitvorming.    
 
 ### Artikel  3  
 
@@ -74,7 +74,7 @@ f. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de M
 
 g. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architectuur aan de Hanzehogeschool Groningen, afgegeven door de examencommissie van de Academie van Bouwkunst Groningen, of  
 
-h. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architectuur aan de Hogeschool Zuyd, afgegeven door de examencommissie van de Academie van Bouwkunst Maastricht.    
+h. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architectuur aan de Hogeschool Zuyd, afgegeven door de examencommissie van de Academie van Bouwkunst Maastricht.   
 
 ### Artikel  4  
 
@@ -116,7 +116,7 @@ j. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de d
 
 k. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding bouwkunst op het terrein van de architectuur aan de Fontys Hogescholen Tilburg, afgegeven door de desbetreffende examencommissie te Tilburg, of  
 
-l. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding bouwkunst op het terrein van de architectuur aan de Hogeschool Zuyd, afgegeven door de desbetreffende examencommissie te Maastricht.    
+l. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding bouwkunst op het terrein van de architectuur aan de Hogeschool Zuyd, afgegeven door de desbetreffende examencommissie te Maastricht.   
 
 ### Hoofdstuk  III  
 
@@ -126,7 +126,7 @@ l. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de d
 
 ####Voorschriften inrichting opleiding stedenbouwkundige
 
-1.  Degene die voldoet aan een van de eisen, genoemd in [artikel 10, eerste lid, onderdelen a tot en met d, van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), komt slechts voor inschrijving in het register als stedenbouwkundige in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke concepten en stedenbouwkundige ontwerpen te vervaardigen die zowel aan esthetische als aan technische en functionele eisen voldoen.   
+1.  Degene die voldoet aan een van de eisen, genoemd in [artikel 10, eerste lid, onderdelen a tot en met c, van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), komt slechts voor inschrijving in het register als stedenbouwkundige in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke concepten en stedenbouwkundige ontwerpen te vervaardigen die zowel aan esthetische als aan technische en functionele eisen voldoen.   
 2.  De opleiding dient hiertoe ten minste de verwerving te waarborgen van: 
 
 a. passende kennis van de geschiedenis en de theorie van de stedenbouw en van de relatie met andere bij de ruimtelijke ordening betrokken disciplines;  
@@ -155,7 +155,7 @@ l. het vermogen om in de ontwikkeling van een ruimtelijk concept voor stedenbouw
 
 m. vaardigheid in het toetsen van een stedenbouwkundig ontwerp aan normen en regels van vorm, functie, technische uitvoering, grondexploitatie en milieuvoorwaarden en  
 
-n. passende kennis van en inzicht in procedures en processen van besluitvorming.     
+n. passende kennis van en inzicht in procedures en processen van besluitvorming.    
 
 ### Artikel  6  
 
@@ -171,7 +171,7 @@ c. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de M
 
 d. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Stedenbouw aan de Hogeschool Rotterdam, afgegeven door de examencommissie van de Academie van Bouwkunst Rotterdam, of  
 
-e. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Stedenbouw aan de Fontys Hogescholen Tilburg, afgegeven door de examencommissie van de Academie voor Architectuur en Stedenbouw te Tilburg.    
+e. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Stedenbouw aan de Fontys Hogescholen Tilburg, afgegeven door de examencommissie van de Academie voor Architectuur en Stedenbouw te Tilburg.   
 
 ### Artikel  7  
 
@@ -195,7 +195,7 @@ g. het door de Faculteit Bouwkunde van de Technische Universiteit te Eindhoven a
 
 h. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) uitgereikte diploma van het met goed gevolg afgelegd eindexamen van de afdeling stedenbouwkunde aan: 
 
-1°. de Academie van Bouwkunst te Amsterdam;  
+1°.  de Academie van Bouwkunst te Amsterdam;  
 
 2°. de Academie van Bouwkunst te Rotterdam;  
 
@@ -207,7 +207,7 @@ j. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de d
 
 k. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding bouwkunst op het terrein van de stedenbouwkunde aan de Hogeschool Rotterdam, afgegeven door de desbetreffende examencommissie te Rotterdam, of  
 
-l. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding bouwkunst op het terrein van de stedenbouwkunde aan de Fontys Hogescholen Tilburg, afgegeven door de desbetreffende examencommissie te Tilburg.    
+l. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding bouwkunst op het terrein van de stedenbouwkunde aan de Fontys Hogescholen Tilburg, afgegeven door de desbetreffende examencommissie te Tilburg.   
 
 ### Hoofdstuk  IV  
 
@@ -217,7 +217,7 @@ l. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de d
 
 ####Voorschriften inrichting opleiding tuin- en landschapsarchitect
 
-1.  Degene die voldoet aan een van de eisen, genoemd in [artikel 11, eerste lid, onderdelen a en b, van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), komt slechts voor inschrijving in het register als tuin- en landschapsarchitect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke plannen en concepten te ontwerpen voor de ontwikkeling en inrichting van de buitenruimte, die zowel aan esthetische als aan technische en functionele eisen voldoen.   
+1.  Degene die voldoet aan een van de eisen, genoemd in [artikel 11, eerste lid, onderdelen a tot en met c, van de wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), komt slechts voor inschrijving in het register als tuin- en landschapsarchitect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke plannen en concepten te ontwerpen voor de ontwikkeling en inrichting van de buitenruimte, die zowel aan esthetische als aan technische en functionele eisen voldoen.   
 2.  De opleiding dient hiertoe ten minste de verwerving te waarborgen van: 
 
 a. passende kennis van en inzicht in de geschiedenis en theorie van de tuin- en landschapsarchitectuur in samenhang met de beeldende kunst en de andere architectonische disciplines;  
@@ -238,7 +238,7 @@ h. passende kennis van en inzicht in het planvormingsproces in zijn belangrijkst
 
 i. inzicht in het beroep van tuin- en landschapsarchitect en de rol van de tuin- en landschapsarchitect in de maatschappij en  
 
-j. passende kennis van en inzicht in de technieken om plannen te doen concretiseren.     
+j. passende kennis van en inzicht in de technieken om plannen te doen concretiseren.    
 
 ### Artikel  9  
 
@@ -246,9 +246,11 @@ j. passende kennis van en inzicht in de technieken om plannen te doen concretise
 
 Aan artikel 8 wordt in elk geval voldaan door degene die in het bezit is van: 
 
-a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landscape, Planning and Design, mits in de bijlage bij het getuigschrift is vermeld dat is voldaan aan artikel 8, dan wel het getuigschrift van de Masteropleiding Landscape Architecture and Planning, specialisatie landscape architecture, aan de Wageningen Universiteit, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de Landschapsarchitectuur, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding, of  
+a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landscape, Planning and Design, mits in de bijlage bij het getuigschrift is vermeld dat is voldaan aan artikel 8, dan wel het getuigschrift van de Masteropleiding Landscape Architecture and Planning, specialisatie landscape architecture, aan de Wageningen Universiteit, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de Landschapsarchitectuur, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding,  
 
-b. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de examencommissie van de Academie voor Bouwkunst Amsterdam.    
+b. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de examencommissie van de Academie voor Bouwkunst Amsterdam, of  
+
+c. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de variant Landschapsarchitectuur van de Masteropleiding Architecture, Urbanism and Building Sciences aan de Technische Universiteit Delft verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de bouwkunde met een minor landschapsarchitectuur leidend tot de graad van Bachelor of Science aan de Technische Universiteit Delft, dan wel van een opleiding waarin kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij het met goed gevolg doorlopen van de genoemde bacheloropleiding en minor.  
 
 ### Artikel  10  
 
@@ -266,7 +268,7 @@ d. het getuigschrift van het met goed gevolg afgelegd doctoraal examen Landinric
 
 e. het getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de opleiding van de tweede fase, opleiding voor beroepen op het terrein van landschapsarchitectuur, aan de Academie van Bouwkunst te Amsterdam, of  
 
-f. het getuigschrift van het met goed gevolg afgelegd doctoraal examen van de deeltijdse voortgezette opleiding op het terrein van de landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de desbetreffende examencommissie te Amsterdam.    
+f. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding op het terrein van de landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de desbetreffende examencommissie te Amsterdam.   
 
 ### Hoofdstuk  V  
 
@@ -301,31 +303,29 @@ j. technische bekwaamheid als ontwerper, teneinde binnen de door begrotingsfacto
 
 k. vaardigheden om een ontwerp in beeld, geschrift en woord te communiceren;  
 
-l. inzicht in en vaardigheid met methoden van onderzoek en voorbereiding van een project en  
+l.  inzicht in en vaardigheid met methoden van zelfstandig innovatief onderzoek en voorbereiding van complexe projecten en  
 
-m. passende kennis van en inzicht in procedures en processen van besluitvorming.     
+m. passende kennis van en inzicht in procedures en processen van besluitvorming.    
 
 ### Artikel  12  
 
 ####Opleidingen die aan voorschriften inrichting voldoen
 
-Aan artikel 11 wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan artikel 11, afgegeven door: 
+1.  Aan artikel 11 wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de masteropleiding: 
 
-a. de Gerrit Rietveld Academie;  
+a. Interieurarchitectuur aan de Gerrit Rietveld academie, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;  
 
-b. ArtEZ hogeschool voor de kunsten;  
+b. Interieurarchitectuur aan ArtEZ Hogeschool voor de Kunsten, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;  
 
-c. de Avans Hogeschool;  
+c. Interieurarchitectuur aan Avans Hogeschool, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;  
 
-d. de Hogeschool van Beeldende Kunsten, Muziek en Dans;  
+d. Interieurarchitectuur aan de Hogeschool der Kunsten Den Haag, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;  
 
-e. de Hanzehogeschool Groningen;  
+e. Interieurarchitectuur aan de Hogeschool Zuyd, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding of  
 
-f. de Hogeschool Zuyd;  
+f. Interieurarchitectuur aan de Hogeschool voor de Kunsten Utrecht, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding, of  
 
-g. de Hogeschool Rotterdam of  
-
-h. de Hogeschool voor de Kunsten Utrecht.    
+g. Interior Architecture & Retail Design, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan artikel 11 van deze regeling, afgegeven door de Hogeschool Rotterdam, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding.    
 
 ### Artikel  13  
 
@@ -333,7 +333,25 @@ h. de Hogeschool voor de Kunsten Utrecht.
 
 Voor de inschrijving in het register komt eveneens in aanmerking degene die in het bezit is van: 
 
-a. het getuigschrift van het met goed gevolg afgelegd examen op het gebied van de interieurarchitectuur, afgegeven door: 
+a. het getuigschrift van het met goed gevolg afgelegde examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, mits betrokkene uiterlijk op 31 december 2010 een aanvang heeft gemaakt met de studie voor dat getuigschrift en in de bijlage van het getuigschrift is vermeld dat is voldaan aan artikel 11 van de Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect zoals deze luidde op 30 juni 2012, afgegeven door: 
+
+1°  de Gerrit Rietveld academie;  
+
+2°  ArtEZ Hogeschool voor de Kunsten;  
+
+3°  Avans Hogeschool;  
+
+4°  de Hogeschool der Kunsten Den Haag;  
+
+5°  de Hanzehogeschool Groningen:  
+
+6°  de Hogeschool Zuyd;  
+
+7°  de Hogeschool Rotterdam;  
+
+8°  de Hogeschool voor de Kunsten Utrecht, of   
+
+b. het getuigschrift van het met goed gevolg afgelegd examen op het gebied van de interieurarchitectuur, afgegeven door: 
 
 1°. de Gerrit Rietveld Academie;  
 
@@ -355,7 +373,7 @@ a. het getuigschrift van het met goed gevolg afgelegd examen op het gebied van d
 
 10°. de Hogeschool voor de Kunsten Utrecht,   dan wel een van de instellingen waaruit de genoemde instellingen ontstaan zijn, of  
 
-b. het op grond van artikel 29 van de Nijverheidsonderwijswet, [artikel 29 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte einddiploma van een Academie voor Beeldende kunsten, afdeling architectonische vormgeving, waarop is aangeduid dat het examen betrekking had op de interieurvormgeving.    
+c. het op grond van artikel 29 van de Nijverheidsonderwijswet, [artikel 29 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte einddiploma van een Academie voor Beeldende kunsten, afdeling architectonische vormgeving, waarop is aangeduid dat het examen betrekking had op de interieurvormgeving.   
 
 ### Hoofdstuk  VI  
 
@@ -365,19 +383,19 @@ b. het op grond van artikel 29 van de Nijverheidsonderwijswet, [artikel 29 van d
 
 ####Intrekking
 
-De [Nadere regeling inrichting opleidingen architect, stedebouwkundige en interieurarchitect](../../../../../../../../../../ministeriele-regeling/nadere/regeling/inrichting/opleidingen/architect/stedebouwkundige/en/etc/BWBR0004397/README.md) en de [Nadere regeling inrichting opleidingen tuin- en landschapsarchitecten](../../../../../../../../../../ministeriele-regeling/nadere/regeling/inrichting/opleidingen/tuin-/en/landschapsarchitecten/BWBR0004407/README.md) worden ingetrokken.  
+De [Nadere regeling inrichting opleidingen architect, stedebouwkundige en interieurarchitect](../../../../../../../../../../ministeriele-regeling/nadere/regeling/inrichting/opleidingen/architect/stedebouwkundige/en/etc/BWBR0004397/README.md) en de [Nadere regeling inrichting opleidingen tuin- en landschapsarchitecten](../../../../../../../../../../ministeriele-regeling/nadere/regeling/inrichting/opleidingen/tuin-/en/landschapsarchitecten/BWBR0004407/README.md) worden ingetrokken. 
 
 ### Artikel  15  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop de wet van 9 maart 2006 tot wijziging van de Wet op de architectentitel in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs in werking treedt en werkt terug tot en met 1 september 2002. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst samenvalt met of een latere datum is dan de datum van uitgifte van het Staatsblad waarin de in de eerste zin bedoelde wijzigingswet wordt geplaatst, treedt deze regeling in werking met ingang van de tweede dag na die dagtekening en werkt zij terug tot en met 1 september 2002.  
+Deze regeling treedt in werking op het tijdstip waarop de wet van 9 maart 2006 tot wijziging van de Wet op de architectentitel in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs in werking treedt en werkt terug tot en met 1 september 2002. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst samenvalt met of een latere datum is dan de datum van uitgifte van het Staatsblad waarin de in de eerste zin bedoelde wijzigingswet wordt geplaatst, treedt deze regeling in werking met ingang van de tweede dag na die dagtekening en werkt zij terug tot en met 1 september 2002. 
 
 ### Artikel  16  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect.  
+Deze regeling wordt aangehaald als: Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en tevens worden bekendgemaakt in ‘Uitleg OCW-Regelingen’.   
 
 Den Haag 
@@ -385,12 +403,12 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-S.M.Dekker 
+S.M. Dekker   
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman 
+C.P. Veerman   
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-M.C. van derLaan   
+M.C. van der Laan     

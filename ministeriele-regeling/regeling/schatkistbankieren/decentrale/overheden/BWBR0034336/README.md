@@ -36,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 *de wet:* de [Wet financiering decentrale overheden](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md);  
 
-*zero-balancing:* de aanzuivering dan wel de afroming van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.    
+*zero-balancing:* de aanzuivering dan wel de afroming van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.   
 
 ### Artikel  2  
 
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 3.  De tussenrekening kent een door het openbaar lichaam, in overleg met de staat, vast te stellen intradaglimiet.   
 4.  De tussenrekening mag door het openbaar lichaam alleen voor het doel van zero-balancing worden gebruikt. De minister van Financiën kan een openbaar lichaam toestaan om de tussenrekening ook voor andere doelen dan zero-balancing te gebruiken.   
 5.  Transacties ten laste en ten gunste van de tussenrekening worden door openbare lichamen bij voorkeur niet later dan 15.30 uur verricht.   
-6.  Alle kosten verbonden aan de tussenrekening die banken in rekening brengen bij het openbaar lichaam komen voor rekening van het openbaar lichaam.   
+6.  Alle kosten verbonden aan de tussenrekening die banken in rekening brengen bij het openbaar lichaam komen voor rekening van het openbaar lichaam.  
 
 ### Artikel  3  
 
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 1.  De staat opent op naam van het openbaar lichaam een rekening-courant, waarop het openbaar lichaam de krachtens [artikel 2 van de wet](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md) bedoelde middelen aanhoudt.   
 2.  De staat is verantwoordelijk voor de verwerking van de mutaties op de rekening-courant.   
-3.  Een debetstand in rekening-courant is niet toegestaan.   
+3.  Een debetstand in rekening-courant is niet toegestaan.  
 
 ### Artikel  4  
 
@@ -63,14 +63,14 @@ In deze regeling wordt verstaan onder:
 
 1.  Een openbaar lichaam kan aan de rekening-courant een depositorekening koppelen.   
 2.  De looptijd van een deposito is minimaal gelijk aan 2 dagen en maximaal gelijk aan 30 jaar.   
-3.  Het vervroegd laten vrijvallen van een deposito is uitsluitend mogelijk indien de middelen, of een deel daarvan, benodigd zijn voor het uitoefenen van de publieke taak bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md). Het vervroegd laten vrijvallen gebeurt tegen de actuele marktwaarde, die wordt berekend overeenkomstig de berekening die is opgenomen in [bijlage 1 bij de Regeling rekening-courant- en leningenbeheer derden](../../../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md).   
+3.  Het vervroegd laten vrijvallen van een deposito is uitsluitend mogelijk indien de middelen, of een deel daarvan, benodigd zijn voor het uitoefenen van de publieke taak bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md). Het vervroegd laten vrijvallen gebeurt tegen de actuele marktwaarde, die wordt berekend overeenkomstig de berekening die is opgenomen in [bijlage 1 bij de Regeling rekening-courant- en leningenbeheer derden](../../../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md).  
 
 ### Artikel  5  
 
 ####De modelovereenkomst
 
 1.  De modelovereenkomst, bedoeld in [artikel 2b, tweede lid, van de wet](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md), is opgenomen in de bij deze regeling behorende bijlage.   
-2.  De staat gebruikt de informatie waarover zij uit hoofde van de rekening-courantovereenkomst beschikt uitsluitend ten behoeve van de uitvoering van de rekening-courantovereenkomst en de verantwoording die daarover moet worden afgelegd.   
+2.  De staat gebruikt de informatie waarover zij uit hoofde van de rekening-courantovereenkomst beschikt uitsluitend ten behoeve van de uitvoering van de rekening-courantovereenkomst en de verantwoording die daarover moet worden afgelegd.  
 
 ### Artikel  6  
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 2.  Over een deposito wordt een rente vergoed waarvan de hoogte afhankelijk is van de looptijd van het deposito, waarbij geldt dat voor een deposito met een looptijd van maximaal 12 maanden een rente wordt vergoed die gelijk is aan de bij die looptijd horende DTC-rente, en voor een deposito met een looptijd van meer dan 12 maanden een rente wordt vergoed die gelijk is aan de bij die looptijd horende DSL-rente.   
 3.  Indien de rente, bedoeld in het eerste en tweede lid, negatief is, wordt de betreffende rente gelijk gesteld aan nul.   
 4.  Over een debetstand in de rekening-courant wordt een rente in rekening gebracht die gelijk is aan de daggeldrente, vermeerderd met een boete van 100 basispunten. Indien de daggeldrente negatief is, wordt de rente gelijk gesteld aan 100 basispunten.   
-5.  Bij de berekening van rente wordt, indien de overeengekomen rentevastperiode maximaal gelijk is aan een jaar, de periode waarop de rente betrekking heeft op het juiste aantal dagen gesteld en het jaar op 360 dagen gesteld (‘actual/360’). Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een dag worden zowel het jaar als de periode waarop de rente betrekking heeft op het juiste aantal dagen gesteld, resulterend in de formule ‘actual/actual’.   
+5.  Bij de berekening van rente wordt, indien de overeengekomen rentevastperiode maximaal gelijk is aan een jaar, de periode waarop de rente betrekking heeft op het juiste aantal dagen gesteld en het jaar op 360 dagen gesteld (‘actual/360’). Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een dag worden zowel het jaar als de periode waarop de rente betrekking heeft op het juiste aantal dagen gesteld, resulterend in de formule ‘actual/actual’.  
 
 ### Artikel  7  
 
@@ -93,13 +93,13 @@ a. middelen voor zover deze, gerekend over een kwartaal gemiddeld het drempelbed
 b. middelen aangehouden in de fondsen, bedoeld in [artikel 15.47 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 c. middelen op een G-rekening als bedoeld in [artikel 1, onder k, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](../../../../../../ministeriele-regeling/uitvoeringsregeling/inleners-/keten-/en/opdrachtgeversaansprakelijkheid/etc/BWBR0016131/README.md).     
-2.  Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 0,75% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 250.000 bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 3,75 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.   
+2.  Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 0,75% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 250.000 bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 3,75 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.  
 
 ### Artikel  8  
 
 ####Borgstelling
 
-De minister van Financiën kan een borgstelling voor derden toestaan op middelen die een openbaar lichaam in ’s Rijks schatkist aanhoudt, mits het openbaar lichaam daartoe een verzoek heeft ingediend en de middelen, die het in ’s Rijks schatkist aanhoudt, toereikend zijn.  
+De minister van Financiën kan een borgstelling voor derden toestaan op middelen die een openbaar lichaam in ’s Rijks schatkist aanhoudt, mits het openbaar lichaam daartoe een verzoek heeft ingediend en de middelen, die het in ’s Rijks schatkist aanhoudt, toereikend zijn. 
 
 ### Artikel  9  
 
@@ -110,7 +110,7 @@ De minister van Financiën kan een borgstelling voor derden toestaan op middelen
 a) Het openbaar lichaam beschikt niet over een eigen bankrekening;  
 
 b) Het openbaar lichaam houdt de krachtens [artikel 2 van de wet](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md) bedoelde middelen op de rekening-courant van een ander openbaar lichaam in ’s Rijks schatkist aan.     
-2.  Een lijst van de openbare lichamen die zijn uitgezonderd op grond van het eerste lid wordt gepubliceerd op de website van het Agentschap. Een openbaar lichaam dat is uitgezonderd op grond van het eerste lid stelt het Agentschap zo spoedig mogelijk op de hoogte van wijzigingen in de omstandigheden op grond waarvan de uitzondering is verleend.   
+2.  Een lijst van de openbare lichamen die zijn uitgezonderd op grond van het eerste lid wordt gepubliceerd op de website van het Agentschap. Een openbaar lichaam dat is uitgezonderd op grond van het eerste lid stelt het Agentschap zo spoedig mogelijk op de hoogte van wijzigingen in de omstandigheden op grond waarvan de uitzondering is verleend.  
 
 ### Artikel  10  
 
@@ -118,36 +118,36 @@ b) Het openbaar lichaam houdt de krachtens [artikel 2 van de wet](../../../../..
 
 1.  Voor het kwartaal waarin deze regeling in werking treedt, geldt dat het bedrag aan middelen dat openbare lichamen op grond van [artikel 7, eerste lid](../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md), buiten ’s Rijks schatkist mogen aanhouden niet wordt berekend over het hele kwartaal, maar over 31 dagen.   
 2.  Middelen op een direct opvraagbare spaarrekening waarvoor is bepaald dat over een minimum saldo gedurende een bepaalde periode de financiële instelling waarbij de spaarrekening wordt aangehouden een bonusrente vergoedt (bonusspaarrekeningen) zijn uitgezonderd van de verplichting om deze in ’s Rijks schatkist aan te houden tot 31 december 2013.   
-3.  De minister van Financiën kan een openbaar lichaam dat naar verwachting kort na de inwerkingtreding van deze regeling ophoudt te bestaan een uitzondering verlenen als bedoeld in artikel 9, eerst lid. Daarnaast kan de minister van Financiën de middelen van dit openbaar lichaam voor een bepaalde periode uitzonderen van de verplichting om deze in ’s Rijks schatkist aan te houden.   
+3.  De minister van Financiën kan een openbaar lichaam dat naar verwachting kort na de inwerkingtreding van deze regeling ophoudt te bestaan een uitzondering verlenen als bedoeld in artikel 9, eerst lid. Daarnaast kan de minister van Financiën de middelen van dit openbaar lichaam voor een bepaalde periode uitzonderen van de verplichting om deze in ’s Rijks schatkist aan te houden.  
 
 ### Artikel  11  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip dat de wet tot wijziging van de Wet financiering decentrale overheden in verband met het rentedragend aanhouden van liquide middelen in ’s Rijks schatkist (verplicht schatkistbankieren) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip dat de wet tot wijziging van de Wet financiering decentrale overheden in verband met het rentedragend aanhouden van liquide middelen in ’s Rijks schatkist (verplicht schatkistbankieren) in werking treedt. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling schatkistbankieren decentrale overheden.  
+Deze regeling wordt aangehaald als: Regeling schatkistbankieren decentrale overheden. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën,
-J.R.V.A.Dijsselbloem 
+Minister van Financiën, 
+J.R.V.A. Dijsselbloem   
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-R.H.A.Plasterk 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+R.H.A. Plasterk   
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus    
 
-### Bijlage  
+### Bijlage 
 
-####behorend bij artikel 5  van de Regeling schatkistbankieren decentrale overheden
+#### behorend bij artikel 5  van de Regeling schatkistbankieren decentrale overheden
 
 ####De modelovereenkomst
 
@@ -195,13 +195,13 @@ In deze overeenkomst wordt verstaan onder:
 
 *werkdag:* kalenderdagen, behoudens weekenden, algemeen erkende feestdagen en dagen waarop in Nederland geen giraal betalingsverkeer mogelijk is, waarop de overeengekomen werkzaamheden zullen worden verricht;  
 
-*zero-balancing:* het aanzuiveren dan wel afromen van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.    
+*zero-balancing:* het aanzuiveren dan wel afromen van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.   
 
 ### Artikel  2  
 
 ####Zero-balancing
 
-1. Na afloop van iedere werkdag draagt de staat er zorg voor dat het saldo op de tussenrekening gereguleerd wordt naar nul door afschrijving van de rekening-courant of aanvulling op de rekening-courant.    
+1. Na afloop van iedere werkdag draagt de staat er zorg voor dat het saldo op de tussenrekening gereguleerd wordt naar nul door afschrijving van de rekening-courant of aanvulling op de rekening-courant.   
 
 ### Artikel  3  
 
@@ -211,7 +211,7 @@ In deze overeenkomst wordt verstaan onder:
 
 2. Indien het openbaar lichaam de kredietlimiet overschrijdt, is het openbaar lichaam in verzuim zonder dat daartoe een ingebrekestelling nodig is. Van de vaststelling van het verzuim stelt de staat het openbaar lichaam onverwijld in kennis. De overschrijding van de kredietlimiet wordt door het openbaar lichaam binnen een termijn van vijf werkdagen opgeheven. Gedurende de periode waarin de kredietlimiet wordt overschreden is over het bedrag van de overschrijding rente met boete verschuldigd conform artikel 6, vierde lid, van de regeling.  
 
-3. De staat is gerechtigd om de intradaglimiet op de tussenrekening te verlagen tot EUR 0 nadat de termijn van vijf werkdagen zoals bedoeld in het tweede lid is verstreken. De staat stelt het openbaar lichaam onverwijld in kennis van de verlaging. Eventuele kosten die de bank in rekening brengt voor de verlaging van de intradaglimiet zijn voor rekening van het openbaar lichaam.    
+3. De staat is gerechtigd om de intradaglimiet op de tussenrekening te verlagen tot EUR 0 nadat de termijn van vijf werkdagen zoals bedoeld in het tweede lid is verstreken. De staat stelt het openbaar lichaam onverwijld in kennis van de verlaging. Eventuele kosten die de bank in rekening brengt voor de verlaging van de intradaglimiet zijn voor rekening van het openbaar lichaam.   
 
 ### Artikel  4  
 
@@ -223,7 +223,7 @@ In deze overeenkomst wordt verstaan onder:
 
 3. De rente die verschuldigd is na de verrekening, bedoeld in het tweede lid, wordt verrekend op de rekening-courant per de eerste kalenderdag na afloop van het kwartaal waarop de rente betrekking heeft.  
 
-4. De staat stelt na afloop van ieder kwartaal een rentenota elektronisch aan het openbaar lichaam beschikbaar.    
+4. De staat stelt na afloop van ieder kwartaal een rentenota elektronisch aan het openbaar lichaam beschikbaar.   
 
 ### Artikel  5  
 
@@ -237,7 +237,7 @@ In deze overeenkomst wordt verstaan onder:
 
 4. De rente wordt jaarlijks op de rentevervaldatum van het deposito uitgekeerd, of, als deze dag geen werkdag is, op de eerstvolgende werkdag. De rente over een deposito dat niet afloopt op een rentevervaldatum, wordt uitgekeerd op de afloopdatum van het deposito. De staat schrijft op de afloopdatum het bedrag van de rente en het deposito bij op de rekening-courant.  
 
-5. Bij voortijdige beëindiging van een deposito schrijft de staat het op grond van artikel 4, derde lid, van de regeling verschuldigde bedrag bij op de rekening-courant op de door het openbaar lichaam gevraagde dag.    
+5. Bij voortijdige beëindiging van een deposito schrijft de staat het op grond van artikel 4, derde lid, van de regeling verschuldigde bedrag bij op de rekening-courant op de door het openbaar lichaam gevraagde dag.   
 
 ### Artikel  6  
 
@@ -249,7 +249,7 @@ In deze overeenkomst wordt verstaan onder:
 
 3. Het openbaar lichaam geeft op verzoek van de staat desgevraagd tijdig informatie over verwachte uitgaven ten laste van de rekening-courant of ontvangsten ten gunste van de rekening-courant indien deze op een werkdag tezamen EUR 50 miljoen of meer bedragen.  
 
-4. Het openbaar lichaam controleert, voor zo ver mogelijk, of door of namens het openbaar lichaam gegeven opdrachten door de staat juist en volledig zijn uitgevoerd. Bij constatering van een onjuistheid of onvolledigheid brengt het openbaar lichaam de staat daarvan zo spoedig mogelijk in kennis, waarna de staat, bij akkoordbevinding, een correctie zal uitvoeren.    
+4. Het openbaar lichaam controleert, voor zo ver mogelijk, of door of namens het openbaar lichaam gegeven opdrachten door de staat juist en volledig zijn uitgevoerd. Bij constatering van een onjuistheid of onvolledigheid brengt het openbaar lichaam de staat daarvan zo spoedig mogelijk in kennis, waarna de staat, bij akkoordbevinding, een correctie zal uitvoeren.   
 
 ### Artikel  7  
 
@@ -257,14 +257,14 @@ In deze overeenkomst wordt verstaan onder:
 
 1. Op deze overeenkomst is Nederlands recht van toepassing.  
 
-2. Eventuele geschillen tussen partijen die voortvloeien uit of verband houden met deze overeenkomst, worden aanhangig gemaakt bij de bevoegde rechter te Den Haag, tenzij partijen alsnog arbitrage of bindend advies overeenkomen.    
+2. Eventuele geschillen tussen partijen die voortvloeien uit of verband houden met deze overeenkomst, worden aanhangig gemaakt bij de bevoegde rechter te Den Haag, tenzij partijen alsnog arbitrage of bindend advies overeenkomen.   
 
 ### Artikel  8  
 
 ####Inwerkingtreding
 
-De verplichtingen in deze overeenkomst gaan in op de tweede werkdag na ontvangst van de overeenkomst door het openbaar lichaam, maar niet eerder dan de dag waarop de regeling in werking is getreden.  
-Aldus opgemaakt, te Den Haag op <<datum>> DE MINISTER VAN FINANCIËN, namens deze: << naam agent >> De agent  
+De verplichtingen in deze overeenkomst gaan in op de tweede werkdag na ontvangst van de overeenkomst door het openbaar lichaam, maar niet eerder dan de dag waarop de regeling in werking is getreden. 
+Aldus opgemaakt, te Den Haag op <<datum>> DE MINISTER VAN FINANCIËN, namens deze:  << naam agent >> De agent 
 
 ### Bijlage  
 

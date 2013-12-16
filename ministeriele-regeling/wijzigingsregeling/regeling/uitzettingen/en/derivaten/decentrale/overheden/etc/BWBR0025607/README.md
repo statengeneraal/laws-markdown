@@ -10,21 +10,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling uitzettingen en derivaten decentrale overheden.   
+Wijzigt de Regeling uitzettingen en derivaten decentrale overheden. 
 
 ### Artikel  II  
 
-Wijzigt de Uitvoeringsregeling Financiering decentrale overheden.   
+Wijzigt de Uitvoeringsregeling Financiering decentrale overheden. 
 
 ### Artikel  III  
 
-Artikel I is niet van toepassing op transacties ter uitvoering van de op het tijdstip van inwerkingtreding van deze regeling bestaande overeenkomsten.  
+Artikel I is niet van toepassing op transacties ter uitvoering van de op het tijdstip van inwerkingtreding van deze regeling bestaande overeenkomsten. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de onderdelen A tot en met C van artikel II terugwerken tot en met 1 januari 2009.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de onderdelen A tot en met C van artikel II terugwerken tot en met 1 januari 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Th.B.Bijleveld-Schouten   
+A.Th.B. Bijleveld-Schouten     
