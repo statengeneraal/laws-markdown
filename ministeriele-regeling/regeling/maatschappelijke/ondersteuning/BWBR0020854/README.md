@@ -15,17 +15,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+b.  *wet:* de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
 
-c. *mantelzorger:* een persoon die mantelzorg als bedoeld in [artikel 1, eerste lid, onder b, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) verleent;  
+c.  *mantelzorger:* een persoon die mantelzorg als bedoeld in [artikel 1, eerste lid, onder b, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) verleent;  
 
-d. *CIZ:* het Centrum indicatiestelling zorg;  
+d.  *CIZ:* het Centrum indicatiestelling zorg;  
 
-e. *SVB:* de Sociale verzekeringsbank, bedoeld in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+e.  *SVB:* de Sociale verzekeringsbank, bedoeld in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-f. *bureau jeugdzorg:* een stichting als bedoeld in [artikel 4 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
+f.  *bureau jeugdzorg:* een stichting als bedoeld in [artikel 4 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 
 ### §  2  
 
@@ -35,7 +35,7 @@ f. *bureau jeugdzorg:* een stichting als bedoeld in [artikel 4 van de Wet op de 
 
 1.  Als rechtspersoon als bedoeld in [artikel 16 van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) wordt aangewezen het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
 2.  Als instelling als bedoeld in [artikel 20, vierde lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover het betreft het registreren van werkzaamheden betreffende maatschappelijke opvang en vrouwenopvang wordt aangewezen Prismant, gevestigd te Utrecht.   
-3.  Als instelling als bedoeld in [artikel 20, vierde lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover het betreft het registreren van werkzaamheden betreffende verslavingsbeleid wordt aangewezen de Stichting Databeheer Zorg, gevestigd te Houten.   
+3.  Als instelling als bedoeld in [artikel 20, vierde lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover het betreft het registreren van werkzaamheden betreffende verslavingsbeleid wordt aangewezen de Stichting Databeheer Zorg, gevestigd te Houten.  
 
 ### §  3  
 
@@ -63,7 +63,7 @@ h. gegevens over de ondersteuning of de faciliteiten die de gemeente mantelzorge
 
 i. gegevens over de ondersteuning of de faciliteiten die de gemeente aan vrijwilligers biedt, waarbij onderscheid gemaakt wordt tussen de ondersteuning of faciliteiten aan vrijwilligers in de zorg en die aan overige vrijwilligers;  
 
-j. gegevens over de wijze waarop en de mate waarin de gemeente de hulp bij het huishouden heeft afgestemd met zorgfuncties in het kader van de [AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+j. gegevens over de wijze waarop en de mate waarin de gemeente de hulp bij het huishouden heeft afgestemd met zorgfuncties in het kader van de[ AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 k. gegevens over de soort voorzieningen waarvoor de gemeente een eigen bijdrage vraagt;  
 
@@ -79,7 +79,7 @@ p. gegevens over de ondersteuning of de faciliteiten die de gemeente (of regio w
 
 q. gegevens over de activiteiten die de gemeente (of regio waartoe de gemeente behoort) onderneemt op het terrein van verslavingsbeleid;  
 
-r. gegevens over een inschatting van de uitgaven die bij de uitvoering van de [wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) in het voorgaande jaar zijn gemaakt.    
+r. gegevens over een inschatting van de uitgaven die bij de uitvoering van de [wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) in het voorgaande jaar zijn gemaakt.   
 
 ### §  4  
 
@@ -151,19 +151,19 @@ c. in- en uitstroomgegevens van de cliënt, waaronder gegevens betreffende:
 
 14°. datum uitschrijving;  
 
-15°. doorverwijzing na einde dienstenaanbod.       
+15°.  doorverwijzing na einde dienstenaanbod.       
 2.  De in het eerste lid bedoelde instelling registreert voorts de volgende gegevens: 
 
-a. het aantal beschikbare plaatsen in de instelling;  
+a.  het aantal beschikbare plaatsen in de instelling;  
 
-b. het aantal bezette beschikbare plaatsen in de instelling;  
+b.  het aantal bezette beschikbare plaatsen in de instelling;  
 
-c. het aantal cliëntcontacten.     
-3.  Aan de te registreren gegevens dient een unieke cliëntcode te worden toegevoegd.   
+c.  het aantal cliëntcontacten.     
+3.  Aan de te registreren gegevens dient een unieke cliëntcode te worden toegevoegd.  
 
 ### Artikel  5  
 
-De op grond van [artikel 20, eerste lid en tweede lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) aangewezen gemeenten dragen zorg voor de levering van de in artikel 4 bedoelde gegevens aan de in artikel 2, tweede lid, aangewezen instelling overeenkomstig de regels gesteld in het Handboek Registratie Maatschappelijke Opvang.  
+De op grond van [artikel 20, eerste lid en tweede lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) aangewezen gemeenten dragen zorg voor de levering van de in artikel 4 bedoelde gegevens aan de in artikel 2, tweede lid, aangewezen instelling overeenkomstig de regels gesteld in het Handboek Registratie Maatschappelijke Opvang. 
 
 ### Artikel  6  
 
@@ -171,42 +171,42 @@ De op grond van [artikel 20, eerste lid en tweede lid, van de wet](../../../../.
 
 a. demografische gegevens van de cliënt waaronder verstaan worden gegevens betreffende: 
 
-1e. het geslacht;  
+1e.  het geslacht;  
 
-2e. de geboortedatum of de leeftijd;  
+2e.  de geboortedatum of de leeftijd;  
 
-3e. de woongemeente;  
+3e.  de woongemeente;  
 
-4e. de herkomst en de nationaliteit;  
+4e.  de herkomst en de nationaliteit;  
 
-5e. het opleidingsniveau, de belangrijkste activiteiten en de bron van inkomsten en  
+5e.  het opleidingsniveau, de belangrijkste activiteiten en de bron van inkomsten en  
 
-6e. de woon- en leefsituatie;    
+6e.  de woon- en leefsituatie;    
 
-b. diagnostische gegevens van de cliënt waaronder verstaan worden gegevens betreffende: 
+b.  diagnostische gegevens van de cliënt waaronder verstaan worden gegevens betreffende: 
 
-1e. de wijze van aanmelding;  
+1e.  de wijze van aanmelding;  
 
-2e. de aard, ernst en duur van de problematiek en  
+2e.  de aard, ernst en duur van de problematiek en  
 
-3e. de aard, ernst en duur van het middelengebruik;    
+3e.  de aard, ernst en duur van het middelengebruik;    
 
-c. behandelgegevens van de cliënt, waaronder verstaan worden gegevens betreffende: 
+c.  behandelgegevens van de cliënt, waaronder verstaan worden gegevens betreffende: 
 
-1e. de datum van inschrijving, van de start en van het einde van de behandeling en  
+1e.  de datum van inschrijving, van de start en van het einde van de behandeling en  
 
-2e. het doel en de aard van de behandeling met inbegrip van het verstrekken van vervangende middelen, en het aantal hulpverleningscontacten;    
+2e.  het doel en de aard van de behandeling met inbegrip van het verstrekken van vervangende middelen, en het aantal hulpverleningscontacten;    
 
-d. evaluatiegegevens van de behandeling van de cliënt waaronder verstaan worden gegevens betreffende: 
+d.  evaluatiegegevens van de behandeling van de cliënt waaronder verstaan worden gegevens betreffende: 
 
-1e. de reden van uitschrijving;  
+1e.  de reden van uitschrijving;  
 
-2e. de evaluatie van het middelengebruik;  
+2e.  de evaluatie van het middelengebruik;  
 
-3e. de mate waarin het doel van de hulpverlening is bereikt en  
+3e.  de mate waarin het doel van de hulpverlening is bereikt en  
 
-4e. de verwijzing naar een vervolgbehandeling.       
-2.  De gegevens worden geregistreerd overeenkomstig het Landelijk Alcohol- en Drugsinformatiesysteem (LADIS) van de Stichting Informatievoorziening Verslavingszorg.   
+4e.  de verwijzing naar een vervolgbehandeling.       
+2.  De gegevens worden geregistreerd overeenkomstig het Landelijk Alcohol- en Drugsinformatiesysteem (LADIS) van de Stichting Informatievoorziening Verslavingszorg.  
 
 ### §  4a  
 
@@ -216,7 +216,7 @@ d. evaluatiegegevens van de behandeling van de cliënt waaronder verstaan worden
 
 In deze paragraaf wordt verstaan onder: 
 
-*uitkering:* een uitkering als bedoeld in [artikel 19a van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).    
+*uitkering:* een uitkering als bedoeld in [artikel 19a van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
 
 ### Artikel  6b  
 
@@ -229,33 +229,33 @@ b. de onder a bedoelde persoon de desbetreffende mantelzorger als begunstigde vo
 
 a. waarvan de geldigheidsduur in het totaal ten minste 371 dagen bedraagt, en  
 
-b. de begindatum van elke indicatie niet meer dan 42 dagen na de einddatum van de daaraan voorafgaande indicatie is gelegen.     
+b. de begindatum van elke indicatie niet meer dan 42 dagen na de einddatum van de daaraan voorafgaande indicatie is gelegen.    
 
 ### Artikel  6c  
 
-De bevoegdheid tot het verstrekken van een uitkering als bedoeld in [artikel 19a, eerste lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) wordt gedelegeerd aan de SVB.  
+De bevoegdheid tot het verstrekken van een uitkering als bedoeld in [artikel 19a, eerste lid, van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) wordt gedelegeerd aan de SVB. 
 
 ### Artikel  6d  
 
 1.  De toekenning van een uitkering vindt plaats door de SVB naar aanleiding van een daartoe door de mantelzorger bij de SVB ingediende aanvraag.   
 2.  De SVB zendt een persoon als bedoeld in artikel 6b, eerste lid, onder a, een aanvraagformulier. De SVB vermeldt op het aanvraagformulier de datum van verzending.   
 3.  De aanvraag wordt door de mantelzorger ingediend uiterlijk drie maanden na de dag waarop het aanvraagformulier aan een persoon als bedoeld in artikel 6b, eerste lid, onder a, is toegezonden of uitgereikt. De aanvraag is mede-ondertekend door die persoon.   
-4.  De aanvraag heeft betrekking op het kalenderjaar waarin de in artikel 6b, eerste lid, onder a, bedoelde indicatie is afgegeven.   
+4.  De aanvraag heeft betrekking op het kalenderjaar waarin de in artikel 6b, eerste lid, onder a, bedoelde indicatie is afgegeven.  
 
 ### Artikel  6e  
 
 1.  Voor elke periode van 371 dagen dat een indicatie geldig is kan de in artikel 6b, eerste lid, onder a, bedoelde persoon één mantelzorger als begunstigde aanwijzen.   
 2.  De in artikel 6b, eerste lid, onder a, bedoelde persoon kan, met inachtneming van het vorige lid, na telkens een kalenderjaar na afgifte van de indicatie opnieuw een mantelzorger als begunstigde aanwijzen, indien de indicatie op die datum nog geldig is.   
-3.  Zijn er meerdere indicaties afgegeven als bedoeld in artikel 6b, tweede lid, dan geldt voor de toepassing van het vorige lid de oudste afgiftedatum.   
+3.  Zijn er meerdere indicaties afgegeven als bedoeld in artikel 6b, tweede lid, dan geldt voor de toepassing van het vorige lid de oudste afgiftedatum.  
 
 ### Artikel  6f  
 
 1.  Een persoon als bedoeld in artikel 6b, eerste lid, onder a, kan per kalenderjaar slechts één mantelzorger als begunstigde voor de uitkering aanwijzen.   
-2.  Een mantelzorger kan per kalenderjaar slechts voor het bieden van zorg aan één persoon als begunstigde voor een uitkering worden aangewezen.   
+2.  Een mantelzorger kan per kalenderjaar slechts voor het bieden van zorg aan één persoon als begunstigde voor een uitkering worden aangewezen.  
 
 ### Artikel  6g  
 
-De uitkering bedraagt voor het jaar 2013 €200.  
+De uitkering bedraagt voor het jaar 2014 € 200. 
 
 ### Artikel  6h  
 
@@ -263,15 +263,15 @@ De uitkering wordt door de SVB betaald:
 
 a. met betrekking tot aanvragen die voor 1 oktober van enig jaar zijn ingediend op of rond 10 november van dat jaar;  
 
-b. met betrekking tot aanvragen die na 1 oktober van enig jaar zijn ingediend, zo spoedig mogelijk.    
+b. met betrekking tot aanvragen die na 1 oktober van enig jaar zijn ingediend, zo spoedig mogelijk.   
 
 ### Artikel  6i  
 
-De SVB kan de artikelen 6b en 6d, vierde lid, buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.  
+De SVB kan de artikelen 6b en 6d, vierde lid, buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  6j  
 
-De SVB is belast met de rechtmatige en doelmatige uitvoering van [artikel 19a van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en deze paragraaf, voor zover de uitvoering niet bij de minister berust.  
+De SVB is belast met de rechtmatige en doelmatige uitvoering van [artikel 19a van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en deze paragraaf, voor zover de uitvoering niet bij de minister berust. 
 
 ### Artikel  6k  
 
@@ -281,7 +281,7 @@ De SVB is belast met de rechtmatige en doelmatige uitvoering van [artikel 19a va
 a. de uitvoeringskosten gemaakt bij de uitvoering van deze paragraaf;  
 
 b. de kosten die verband houden met het beëindigen door de SVB van de werkzaamheden ter uitvoering van deze paragraaf.     
-3.  Op de uitgaven komen in mindering de uitkeringen die zijn terugbetaald. Op de kosten komen in mindering baten die voortvloeien uit de uitvoering van deze regeling.   
+3.  Op de uitgaven komen in mindering de uitkeringen die zijn terugbetaald. Op de kosten komen in mindering baten die voortvloeien uit de uitvoering van deze regeling.  
 
 ### Artikel  6l  
 
@@ -295,33 +295,33 @@ c. voor 1 maart van het lopende kalenderjaar een tussentijdse rapportage over h
 
 d. voor 15 juli een jaarrekening, een activiteitenverslag en een aanvraag tot vaststelling, bestaande uit een financiële verantwoording van de in artikel 6k bedoelde uitgaven, kosten en ontvangsten van het vorige kalenderjaar. De minister stelt de hoogte van het definitieve bedrag van de uitkeringen en uitvoeringskosten vast;  
 
-e. voor 15 juli van het jaar volgend op het kalenderjaar een verklaring van de accountant van de SVB overeenkomstig een door de minister vastgestelde modelverklaring. Ten behoeve van de accountantscontrole van de rechtmatigheid, met inbegrip van de getrouwheid, stelt de minister een controleprotocol vast.    
+e. voor 15 juli van het jaar volgend op het kalenderjaar een verklaring van de accountant van de SVB overeenkomstig een door de minister vastgestelde modelverklaring. Ten behoeve van de accountantscontrole van de rechtmatigheid, met inbegrip van de getrouwheid, stelt de minister een controleprotocol vast.   
 
 ### Artikel  6m  
 
 1.  Het boekjaar van de SVB is wat betreft de uitvoering van [artikel 19a van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en deze paragraaf gelijk aan het kalenderjaar.   
-2.  Indien gedurende het boekjaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke uitgaven en ontvangsten en de begrote uitgaven en ontvangsten doet de SVB daarvan onverwijld schriftelijk mededeling aan de minister onder vermelding van de oorzaak van de verschillen en onder overlegging van de relevante stukken.   
+2.  Indien gedurende het boekjaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke uitgaven en ontvangsten en de begrote uitgaven en ontvangsten doet de SVB daarvan onverwijld schriftelijk mededeling aan de minister onder vermelding van de oorzaak van de verschillen en onder overlegging van de relevante stukken.  
 
 ### Artikel  6n  
 
-Ten behoeve van de controle van de in artikel 6k bedoelde uitgaven, kosten en ontvangsten verschaft de SVB desgevraagd aan de door de minister daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), de voor deze controle benodigde informatie en verleent desgevraagd aan deze ambtenaren toegang tot en inzage in alle gegevens die bij de controle op enigerlei wijze een rol spelen.  
+Ten behoeve van de controle van de in artikel 6k bedoelde uitgaven, kosten en ontvangsten verschaft de SVB desgevraagd aan de door de minister daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), de voor deze controle benodigde informatie en verleent desgevraagd aan deze ambtenaren toegang tot en inzage in alle gegevens die bij de controle op enigerlei wijze een rol spelen. 
 
 ### Artikel  6o  
 
-De SVB voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in artikel 6k, eerste en tweede lid, bedoelde uitgaven en kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.  
+De SVB voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in artikel 6k, eerste en tweede lid, bedoelde uitgaven en kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan. 
 
 ### Artikel  6p  
 
 1.  De SVB verstrekt desgevraagd aan de minister kosteloos de voor de uitoefening van zijn taak in verband met [artikel 19a van de wet](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en deze paragraaf benodigde inlichtingen. De minister kan toegang vorderen tot en inzage vorderen in gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak in verband met deze wet redelijkerwijs nodig is en voor zover deze gegevens en bescheiden niet herleidbaar zijn tot gegevens en bescheiden over individuele personen.   
-2.  De minister is bevoegd de door de SVB verstrekte inlichtingen en de informatie verkregen uit de inzage in gegevens en bescheiden, bedoeld in het eerste lid, te gebruiken, te bewerken en aan derden te verstrekken, voor zover deze niet tot gegevens van en inlichtingen over individuele personen herleidbaar zijn.   
+2.  De minister is bevoegd de door de SVB verstrekte inlichtingen en de informatie verkregen uit de inzage in gegevens en bescheiden, bedoeld in het eerste lid, te gebruiken, te bewerken en aan derden te verstrekken, voor zover deze niet tot gegevens van en inlichtingen over individuele personen herleidbaar zijn.  
 
-### §  5  
+### §   5  
 
 ####Wijziging van andere regelingen
 
 ### Artikel  7  
 
-Wijzigt de Regeling OCW dagarrangementen en combinatiefuncties.   
+Wijzigt de Regeling OCW dagarrangementen en combinatiefuncties. 
 
 ### §  6  
 
@@ -329,13 +329,13 @@ Wijzigt de Regeling OCW dagarrangementen en combinatiefuncties.
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2007. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling maatschappelijke ondersteuning.  
+Deze regeling wordt aangehaald als: Regeling maatschappelijke ondersteuning. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M. Ross-van Dorp     

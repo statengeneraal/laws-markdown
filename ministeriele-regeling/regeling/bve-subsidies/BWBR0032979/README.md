@@ -15,32 +15,32 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *wet:* de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *wet:* de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-c. *instelling:* een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de doveninstituten als bedoeld in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *instelling:* een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de doveninstituten als bedoeld in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-d. *onderwijs:* educatie en beroepsonderwijs als bedoeld in [artikel 1.2.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+d.  *onderwijs:* educatie en beroepsonderwijs als bedoeld in [artikel 1.2.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Artikel  2  
 
 ####Doel
 
-Het doel van deze regeling is het stellen van regels voor subsidies die worden verstrekt aan rechtspersonen, bedoeld in [artikel 2.7 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en subsidies die worden verstrekt op het terrein van beroepsonderwijs en volwasseneneducatie.  
+Het doel van deze regeling is het stellen van regels voor subsidies die worden verstrekt aan rechtspersonen, bedoeld in [artikel 2.7 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en subsidies die worden verstrekt op het terrein van beroepsonderwijs en volwasseneneducatie. 
 
 ### Artikel  3  
 
 ####Besteding van de subsidie
 
-De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt verstrekt. Eventuele niet-bestede middelen of overschotten kunnen na afloop van de looptijd van de subsidie worden teruggevorderd.  
+De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt verstrekt. Eventuele niet-bestede middelen of overschotten kunnen na afloop van de looptijd van de subsidie worden teruggevorderd. 
 
 ### Artikel  4  
 
 ####Vergoeding voor derden
 
 1.  Voor het beschikbaar stellen van goederen aan derden of het verrichten van diensten voor derden brengt de subsidieontvanger een vergoeding in rekening die ten minste kostendekkend is.   
-2.  Indien de subsidieontvanger in het kader van de subsidieverstrekking diensten of werkzaamheden door derden wil laten uitvoeren, neemt hij daarbij de Europese aanbestedingsregelgeving in acht.   
+2.  Indien de subsidieontvanger in het kader van de subsidieverstrekking diensten of werkzaamheden door derden wil laten uitvoeren, neemt hij daarbij de Europese aanbestedingsregelgeving in acht.  
 
 ### Artikel  5  
 
@@ -49,14 +49,14 @@ De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt ver
 1.  De subsidieontvanger verstrekt de minister en de door hem aangewezen personen de gevraagde inlichtingen.   
 2.  De subsidieontvanger draagt er zorg voor dat de minister en de door hem aangewezen personen volledig inzage hebben in boeken en bescheiden.   
 3.  De subsidieontvanger verleent de minister en de door hem aangewezen personen toegang tot de door hem gebruikte plaatsen.   
-4.  De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop gericht zijn de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van zijn beleid.   
+4.  De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop gericht zijn de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van zijn beleid.  
 
 ### Artikel  6  
 
 ####Indienen activiteitenplan en begroting
 
 1.  Uiterlijk op 1 december voorafgaand aan het kalenderjaar waarvoor subsidie wordt gevraagd dient de aanvrager de aanvraag tot subsidieverlening in bij de minister.   
-2.  De aanvraag gaat in ieder geval vergezeld van een activiteitenplan en een begroting.   
+2.  De aanvraag gaat in ieder geval vergezeld van een activiteitenplan en een begroting.  
 
 ### Hoofdstuk  2  
 
@@ -77,7 +77,7 @@ a. het stimuleren van deelname aan en het organiseren van nationale en internati
 b. het leveren van bijdragen aan de totstandkoming van normen voor vakbekwaamheid; en  
 
 c. het uitwisselen van kennis over beroepsonderwijs.     
-2.  De minister kan subsidie verstrekken aan de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven voor de organisatie van de landelijke prijs voor het beste leerbedrijf.   
+2.  De minister kan subsidie verstrekken aan de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven voor de organisatie van de landelijke prijs voor het beste leerbedrijf.  
 
 ### Artikel  8  
 
@@ -85,7 +85,7 @@ c. het uitwisselen van kennis over beroepsonderwijs.
 
 1.  Voor subsidieverlening op grond van artikel 7, eerste lid, is per kalenderjaar een bedrag van maximaal € 525.000,– beschikbaar.   
 2.  Voor subsidieverlening op grond van artikel 7, tweede lid, is per kalenderjaar een bedrag van maximaal € 35.000,– beschikbaar.   
-3.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+3.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  2  
 
@@ -97,13 +97,13 @@ c. het uitwisselen van kennis over beroepsonderwijs.
 
 In deze paragraaf wordt verstaan onder: 
 
-a. *CINOP:* de stichting CINOP, gevestigd te ’s-Hertogenbosch;  
+a.  *CINOP:* de stichting CINOP, gevestigd te ’s-Hertogenbosch;  
 
-b. *EQAVET:* EQAVET is het Europees raamwerk voor kwaliteitsborging in het middelbaar beroepsonderwijs in het kader van Leven Lang Leren.  
+b.  *EQAVET:* EQAVET is het Europees raamwerk voor kwaliteitsborging in het middelbaar beroepsonderwijs in het kader van Leven Lang Leren.  
 
-c. *ECVET:* ECVET is een Europees Leven Lang Leren instrument met als doel de (internationale) de transparantie van beroepskwalificaties te bevorderen en hiermee de (internationale) student- en arbeidsmobiliteit.  
+c.  *ECVET:* ECVET is een Europees Leven Lang Leren instrument met als doel de (internationale) de transparantie van beroepskwalificaties te bevorderen en hiermee de (internationale) student- en arbeidsmobiliteit.  
 
-d. *EQF/NLQF:* Het Europese Kwalificatiekader of EQF is bedoeld om kwalificatieniveaus van de verschillende kwalificatiesystemen in het onderwijs op Europees niveau transparant en onderling vergelijkbaar te maken, zodat de mobiliteit in het onderwijs en op de arbeidsmarkt kan worden verbeterd en gelijke kansen in de kennismaatschappij, een leven lang leren en verdere Europese integratie worden bevorderd. Het Nederlands Kwalificatiekader of NLQF is een (gedeeltelijk nieuwe) beschrijving van de kwalificatieniveaus in Nederland in leerresultaten (eindtermen).    
+d.  *EQF/NLQF:* Het Europese Kwalificatiekader of EQF is bedoeld om kwalificatieniveaus van de verschillende kwalificatiesystemen in het onderwijs op Europees niveau transparant en onderling vergelijkbaar te maken, zodat de mobiliteit in het onderwijs en op de arbeidsmarkt kan worden verbeterd en gelijke kansen in de kennismaatschappij, een leven lang leren en verdere Europese integratie worden bevorderd. Het Nederlands Kwalificatiekader of NLQF is een (gedeeltelijk nieuwe) beschrijving van de kwalificatieniveaus in Nederland in leerresultaten (eindtermen).   
 
 ### Artikel  10  
 
@@ -117,7 +117,7 @@ b. de uitvoering van het nationale activiteitenplan in het kader van Euroguidanc
 
 c. de nationale bijdrage voor de Nederlandse vertegenwoordiging in het European Lifelong Guidance Policy Network.     
 2.  De minister kan subsidie verstrekken aan stichting CINOP ten behoeve van het Nationaal Coördinatiepunt EQAVET en ECVET voor de implementatie van ECVET en EQAVET in Nederland.   
-3.  De minister kan subsidie verstrekken aan stichting CINOP ten behoeve van het Nationaal Coördinatiepunt NLQF voor de instandhouding van het Nationaal Coördinatiepunt NLQF ten behoeve van de implementatie van het NLQF en EQF in Nederland.   
+3.  De minister kan subsidie verstrekken aan stichting CINOP ten behoeve van het Nationaal Coördinatiepunt NLQF voor de instandhouding van het Nationaal Coördinatiepunt NLQF ten behoeve van de implementatie van het NLQF en EQF in Nederland.  
 
 ### Artikel  11  
 
@@ -125,9 +125,9 @@ c. de nationale bijdrage voor de Nederlandse vertegenwoordiging in het European 
 
 1.  Voor subsidieverlening op grond van artikel 10, eerste lid, onderdelen a en b, is per kalenderjaar een bedrag van maximaal € 100.000,– beschikbaar.   
 2.  Voor subsidieverlening op grond van artikel 10, eerste lid, onderdeel c, is per kalenderjaar een bedrag van maximaal € 20.000,– beschikbaar.   
-3.  Voor subsidieverlening op grond van artikel 10, tweede lid, is per kalenderjaar een bedrag van maximaal € 200.000,– beschikbaar.   
+3.  Voor subsidieverlening op grond van artikel 10, tweede lid, is het kalenderjaar 2013 en het kalenderjaar 2014 een bedrag van maximaal € 200.000,– beschikbaar.   
 4.  Voor subsidieverlening op grond van artikel 10, derde lid, is per kalenderjaar een bedrag van maximaal € 450.000,– beschikbaar.   
-5.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+5.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  3  
 
@@ -137,14 +137,14 @@ c. de nationale bijdrage voor de Nederlandse vertegenwoordiging in het European 
 
 ####Doel en te subsidiëren activiteiten
 
-De minister kan subsidie verstrekken aan Stichting Innovatie Beroepsonderwijs ten behoeve van het Steunpunt taal en rekenen mbo voor activiteiten ter ondersteuning van instellingen bij het intensiveren en verbeteren van taal- en rekenonderwijs, te weten: het bevorderen van kennisdeling, het informeren en adviseren van instellingen over de invoering van referentieniveaus voor Nederlandse taal en rekenen en over de kwalificatie-eisen moderne vreemde talen.  
+De minister kan subsidie verstrekken aan Stichting Innovatie Beroepsonderwijs ten behoeve van het Steunpunt taal en rekenen mbo voor activiteiten ter ondersteuning van instellingen bij het intensiveren en verbeteren van taal- en rekenonderwijs, te weten: het bevorderen van kennisdeling, het informeren en adviseren van instellingen over de invoering van referentieniveaus voor Nederlandse taal en rekenen en over de kwalificatie-eisen moderne vreemde talen. 
 
 ### Artikel  13  
 
 ####Subsidieplafond
 
 1.  Voor subsidieverlening op grond van deze paragraaf is per kalenderjaar een bedrag van maximaal € 600.000,– beschikbaar.   
-2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  4  
 
@@ -156,7 +156,7 @@ De minister kan subsidie verstrekken aan Stichting Innovatie Beroepsonderwijs te
 
 In deze paragraaf wordt verstaan onder: 
 
-*laaggeletterdheid:* de beperking die mensen ondervinden in hun persoonlijk en maatschappelijk functioneren doordat hun vaardigheden op het gebied van lezen, rekenen en schrijven onder het eindniveau van het instroomniveau beroepsonderwijs liggen.    
+*laaggeletterdheid:* de beperking die mensen ondervinden in hun persoonlijk en maatschappelijk functioneren doordat hun vaardigheden op het gebied van lezen, rekenen en schrijven onder het eindniveau van het instroomniveau beroepsonderwijs liggen.   
 
 ### Artikel  15  
 
@@ -174,7 +174,7 @@ c. het organiseren van de Dag en de Week van de Alfabetisering.
 a. het bevorderen van kennisvergaring en kennisdeling, het informeren, adviseren van instellingen, gemeenten en overige educatieaanbieders over het overheidsbeleid omtrent laaggeletterdheid en volwasseneneducatie;  
 
 b. activiteiten via programmalijnen onderwijs en regio’s uit het Actieplan Laaggeletterdheid 2012–2015.     
-3.  De minister kan subsidie verstrekken aan de Stichting Lezen & Schrijven voor activiteiten voor het pilotprogramma ‘Taal voor het Leven’ die naar het oordeel van de minister bijdragen aan de doelstellingen van het Actieplan Laaggeletterdheid 2012-2015, te weten: ‘activiteiten en communicatie die voortvloeien uit het pilotprogramma “Taal voor het Leven”.’   
+3.  De minister kan subsidie verstrekken aan de Stichting Lezen & Schrijven voor activiteiten voor het pilotprogramma ‘Taal voor het Leven’ die naar het oordeel van de minister bijdragen aan de doelstellingen van het Actieplan Laaggeletterdheid 2012-2015, te weten: ‘activiteiten en communicatie die voortvloeien uit het pilotprogramma “Taal voor het Leven”.’  
 
 ### Artikel  16  
 
@@ -182,7 +182,7 @@ b. activiteiten via programmalijnen onderwijs en regio’s uit het Actieplan Laa
 
 1.  Voor subsidieverlening op grond van artikel 15, eerste en tweede lid, is jaarlijks maximaal een bedrag van € 4.000.000,– beschikbaar.   
 2.  Voor subsidieverlening op grond van artikel 15, derde lid, is jaarlijks maximaal een bedrag van € 5.000.000,– beschikbaar.   
-3.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+3.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  5  
 
@@ -198,14 +198,14 @@ a. het in stand houden van het schoolverlatersinformatiesysteem; en
 
 b. het onderzoek naar de school-werk transities en school-school transities van gediplomeerde en ongediplomeerde schoolverlaters van het (middelbaar) beroepsonderwijs, het voorbereidend middelbaar beroepsonderwijs, het algemeen voortgezet onderwijs en wetenschappelijk onderwijs voorzover het voormalige mbo-studenten betreft.     
 2.  De minister kan aan Stichting Liber subsidie verstrekken voor activiteiten voor het project arbeidsmarktinformatiesysteem voor onderzoek om vier- tot zesjarige prognoses te kunnen doen over de ontwikkelingen op de arbeidsmarkt voor de hele breedte van het beroepenspectrum in relatie tot de hele breedte van opleidingsspectrum van het beroepsonderwijs, te weten: ‘het onderzoek onder voortijdig schoolverlaters’.   
-3.  De subsidie wordt verleend aan de Stichting Liber ten behoeve van het Researchcentrum voor Onderwijs en Arbeidsmarkt te Maastricht.   
+3.  De subsidie wordt verleend aan de Stichting Liber ten behoeve van het Researchcentrum voor Onderwijs en Arbeidsmarkt te Maastricht.  
 
 ### Artikel  18  
 
 ####Subsidieplafond
 
 1.  Voor subsidieverlening op grond van deze paragraaf is per kalenderjaar een bedrag van maximaal € 600.000,– beschikbaar.   
-2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  6  
 
@@ -215,14 +215,14 @@ b. het onderzoek naar de school-werk transities en school-school transities van 
 
 ####Doel en te subsidiëren activiteiten
 
-De minister kan subsidie verstrekken aan de Stichting Expertisecentrum Beroepsonderwijs (ECBO) voor kennisverspreiding en ter uitvoering van programmalijnen zoals opgenomen in het door de programmaraad ECBO vastgestelde jaarprogramma.  
+De minister kan subsidie verstrekken aan de stichting CINOP voor kennisverspreiding en ter uitvoering van programmalijnen zoals opgenomen in het door de programmaraad ECBO vastgestelde jaarprogramma. 
 
 ### Artikel  20  
 
 ####Subsidieplafond
 
-1.  Voor subsidieverlening op grond van deze paragraaf is voor het kalenderjaar 2013 een bedrag van maximaal € 2.100.000,– beschikbaar.   
-2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+1.  Voor subsidieverlening op grond van deze paragraaf is per kalenderjaar een bedrag van maximaal € 2.100.000,– beschikbaar.   
+2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  7  
 
@@ -234,22 +234,22 @@ De minister kan subsidie verstrekken aan de Stichting Expertisecentrum Beroepson
 
 In deze paragraaf wordt verstaan onder: 
 
-a. *Stichting UAF:* de Stichting voor Vluchteling Studenten UAF, gevestigd te Utrecht;  
+a.  *Stichting UAF:* de Stichting voor Vluchteling Studenten UAF, gevestigd te Utrecht;  
 
-b. *vluchtelingen:* vreemdelingen die in Nederland verblijven op grond van [artikel 28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+b.  *vluchtelingen:* vreemdelingen die in Nederland verblijven op grond van [artikel 28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
 ### Artikel  22  
 
 ####Doel en te subsidiëren activiteiten
 
-De minister kan subsidie verstrekken aan stichting UAF voor activiteiten ter ondersteuning van vluchtelingen die vanwege hun herkomst extra begeleiding nodig hebben voor het succesvol afronden van een mbo-opleiding, te weten: ‘het ondersteunen van vluchtelingen bij het volgen van een vakopleiding, een middenkaderopleiding of een specialistenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c t /m e van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in gevallen waarbij de bestaande studiefinancieringsvoorzieningen hierin niet voorzien en voor zover de ondersteuning onderwijsgerelateerd is’.  
+De minister kan subsidie verstrekken aan stichting UAF voor activiteiten ter ondersteuning van vluchtelingen die vanwege hun herkomst extra begeleiding nodig hebben voor het succesvol afronden van een mbo-opleiding, te weten: ‘het ondersteunen van vluchtelingen bij het volgen van een vakopleiding, een middenkaderopleiding of een specialistenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c t /m e van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in gevallen waarbij de bestaande studiefinancieringsvoorzieningen hierin niet voorzien en voor zover de ondersteuning onderwijsgerelateerd is’. 
 
 ### Artikel  23  
 
 ####Subsidieplafond
 
 1.  Voor subsidieverlening op grond van deze paragraaf is jaarlijks maximaal een bedrag van € 250.000,– beschikbaar.   
-2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Paragraaf  8  
 
@@ -259,17 +259,18 @@ De minister kan subsidie verstrekken aan stichting UAF voor activiteiten ter ond
 
 ####Doel en te subsidiëren activiteiten
 
-De minister kan in 2013 subsidie verstrekken aan de vereniging MBO Diensten voor de volgende activiteiten: 
+De minister kan subsidie verstrekken aan de vereniging MBO Diensten voor de volgende activiteiten: 
 
 a. de implementatie, verbreding en verdieping van ontwikkelde producten en instrumenten die de loopbaanoriëntatie en specifieke studie- en beroepskeuze van vmbo- en mbo-studenten ondersteunen;  
 
-b. versterking van de bovensectorale speerpunten.    
+b. versterking van de bovensectorale speerpunten.   
 
 ### Artikel  25  
 
 ####Subsidieplafond
 
-Voor subsidieverlening op grond van deze paragraaf is voor het kalenderjaar 2013 een bedrag van maximaal € 3.000.000,– beschikbaar.  
+1. Voor subsidieverlening op grond van deze paragraaf is per kalenderjaar een bedrag van maximaal € 3.000.000,– beschikbaar.  
+2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant. 
 
 ### Paragraaf  9  
 
@@ -279,14 +280,14 @@ Voor subsidieverlening op grond van deze paragraaf is voor het kalenderjaar 2013
 
 ####Doel en te subsidiëren activiteiten
 
-De minister kan subsidie verstrekken aan stichting saMBO-ICT ten behoeve van het bevorderen en ondersteunen van instellingen ten aanzien van bedrijfsvoering, informatiehuishouding en ICT als gevolg van de implementatie van het Actieplan mbo ‘Focus op vakmanschap 2011–2015’.  
+De minister kan subsidie verstrekken aan stichting saMBO-ICT ten behoeve van het bevorderen en ondersteunen van instellingen ten aanzien van bedrijfsvoering, informatiehuishouding en ICT als gevolg van de implementatie van het Actieplan mbo ‘Focus op vakmanschap 2011–2015’. 
 
 ### Artikel  27  
 
 ####Subsidieplafond
 
 1.  Voor subsidieverlening op grond van deze paragraaf is jaarlijks maximaal een bedrag van € 700.000,– beschikbaar.   
-2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.   
+2.  Bij wijziging van het subsidieplafond maakt de minister daar melding van in de Staatscourant.  
 
 ### Hoofdstuk  3  
 
@@ -300,7 +301,7 @@ De minister kan subsidie verstrekken aan stichting saMBO-ICT ten behoeve van het
 
 ####Overgangsrecht
 
-Aanvragen ingediend op grond van de [Subsidieregeling projectopdrachten bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md), worden met inbegrip van bezwaar- en beroepsprocedures, afgehandeld overeenkomstig die regeling. Bestaande aanspraken en verplichtingen bij, op grond van, of in het kader van die regeling blijven in stand.  
+Aanvragen ingediend op grond van de [Subsidieregeling projectopdrachten bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md), worden met inbegrip van bezwaar- en beroepsprocedures, afgehandeld overeenkomstig die regeling. Bestaande aanspraken en verplichtingen bij, op grond van, of in het kader van die regeling blijven in stand. 
 
 ### Paragraaf  2  
 
@@ -310,7 +311,7 @@ Aanvragen ingediend op grond van de [Subsidieregeling projectopdrachten bve-sect
 
 ####Wijziging
 
-Uit de bijlage behorende bij [artikel 23a, eerste lid, van de Regeling OCW-subsidies](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) wordt de [Subsidieregeling projectopdrachten bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) verwijderd.  
+Uit de bijlage behorende bij artikel 34, eerste lid, van de Regeling OCW-subsidies wordt de [Subsidieregeling projectopdrachten bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) verwijderd. 
 
 ### Paragraaf  3  
 
@@ -320,22 +321,22 @@ Uit de bijlage behorende bij [artikel 23a, eerste lid, van de Regeling OCW-subsi
 
 ####Vervallen van de Subsidieregeling projectopdrachten Bve-sector
 
-De [Subsidieregeling projectopdrachten Bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) vervalt, met uitzondering van de [artikelen 14](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) en [16](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) en met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven.  
+De [Subsidieregeling projectopdrachten Bve-sector](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) vervalt, met uitzondering van de [artikelen 14](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) en [16](../../../../ministeriele-regeling/subsidieregeling/projectopdrachten/bve-sector/BWBR0010355/README.md) en met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven. 
 
 ### Artikel  31  
 
 ####Inwerkingtreding en einddatum
 
 1.  Deze regeling treedt in werking met ingang van de eerste dg na de dagtekening van de Staatscourant waarin zij wordt geplaatst, werkt terug tot 1 januari 2013 en vervalt met ingang van 1 juli 2017.   
-2.  Bestaande aanspraken en verplichtingen bij, op grond van, of in het kader van deze regeling, blijven bestaan na de vervaldatum van deze regeling.   
+2.  Bestaande aanspraken en verplichtingen bij, op grond van, of in het kader van deze regeling, blijven bestaan na de vervaldatum van deze regeling.  
 
 ### Artikel  32  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling BVE-subsidies.  
+Deze regeling wordt aangehaald als: Regeling BVE-subsidies. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker     

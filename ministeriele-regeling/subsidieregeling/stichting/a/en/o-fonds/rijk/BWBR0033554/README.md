@@ -13,20 +13,20 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister voor Wonen en Rijksdienst;  
+a.  *minister:* Minister voor Wonen en Rijksdienst;  
 
-b. *stichting:* Stichting Arbeids- en Opleidingsfonds Rijk.    
+b.  *stichting:* Stichting Arbeids- en Opleidingsfonds Rijk.   
 
 ### Artikel  2  
 
 1.  De minister verstrekt aan de stichting een subsidie voor het uitvoeren van activiteiten of het subsidiëren van projecten ten behoeve van het stimuleren van arbeidsmarkt-, werkgelegenheids- en opleidingsactiviteiten.   
 2.  De subsidie wordt per boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.   
-3.  De minister kan slechts in overeenstemming met de Centrales van Overheidspersoneel besluiten de subsidie, bedoeld in het eerste lid, niet meer te verstrekken; de minister neemt hierbij een termijn van drie jaar in acht.   
+3.  De minister kan slechts in overeenstemming met de Centrales van Overheidspersoneel besluiten de subsidie, bedoeld in het eerste lid, niet meer te verstrekken; de minister neemt hierbij een termijn van drie jaar in acht.  
 
 ### Artikel  3  
 
 1.  De subsidie, bedoeld in artikel 2, eerste lid, bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.   
-2.  De minister kan in overeenstemming met de Centrales van Overheidspersoneel uit de beschikbare arbeidsvoorwaardenruimte aanvullende middelen aan de stichting toekennen.   
+2.  De minister kan in overeenstemming met de Centrales van Overheidspersoneel uit de beschikbare arbeidsvoorwaardenruimte aanvullende middelen aan de stichting toekennen.  
 
 ### §  2  
 
@@ -34,7 +34,7 @@ b. *stichting:* Stichting Arbeids- en Opleidingsfonds Rijk.
 
 ### Artikel  4  
 
-De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober voor de aanvang van het boekjaar waarop de subsidie betrekking heeft.  
+De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober voor de aanvang van het boekjaar waarop de subsidie betrekking heeft. 
 
 ### §  3  
 
@@ -49,7 +49,7 @@ De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober 
 a. 50 procent van de voor een boekjaar verleende subsidie in januari van dat jaar;  
 
 b. 50 procent van de voor een boekjaar verleende subsidie in juni van dat jaar.     
-4.  De minister kan een voorschot een maand later verstrekken, nadat de stichting hiervan in kennis is gesteld.   
+4.  De minister kan een voorschot een maand later verstrekken, nadat de stichting hiervan in kennis is gesteld.  
 
 ### §  4  
 
@@ -57,7 +57,7 @@ b. 50 procent van de voor een boekjaar verleende subsidie in juni van dat jaar.
 
 ### Artikel  6  
 
-De stichting legt alle projecten vast in een projectenadministratie. In deze administratie wordt per project de verplichting vastgelegd, met daaraan gekoppeld de geprognosticeerde benodigde kasbedragen.  
+De stichting legt alle projecten vast in een projectenadministratie. In deze administratie wordt per project de verplichting vastgelegd, met daaraan gekoppeld de geprognosticeerde benodigde kasbedragen. 
 
 ### Artikel  7  
 
@@ -78,7 +78,7 @@ e. indien voorschotten worden aangevraagd, een weergave van de liquiditeitsbehoe
 
 f. het bankrekeningnummer waarop het subsidiebedrag dient te worden gestort, inclusief een bewijs dat de bankrekening op naam van de aanvrager staat;  
 
-g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en Fabrieken en  
+g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en  
 
 h. de wijze van evalueren.    
 
@@ -89,11 +89,11 @@ h. de wijze van evalueren.
 – De verantwoording van projecten met een subsidiebedrag van € 25.000 of meer vindt plaats op basis van een eindverslag omtrent de uitvoering en de resultaten van de activiteiten.  
 
 – De verantwoording van projecten met een subsidiebedrag van € 25.000 gaat vergezeld van een controleverklaring.     
-3.  De stichting draagt zorg voor een adequaat vorderingenbeheer.   
+3.  De stichting draagt zorg voor een adequaat vorderingenbeheer.  
 
 ### Artikel  8  
 
-De stichting licht ten minste eens in de vijf jaar de interne organisatie, de door haar geleverde producten en het door haar gevoerde beleid door op doelmatigheid en doeltreffendheid en deelt de resultaten van haar bevindingen mee aan het Sectoroverleg Rijkspersoneel.  
+De stichting licht ten minste eens in de vijf jaar de interne organisatie, de door haar geleverde producten en het door haar gevoerde beleid door op doelmatigheid en doeltreffendheid en deelt de resultaten van haar bevindingen mee aan het Sectoroverleg Rijkspersoneel. 
 
 ### §  5  
 
@@ -101,20 +101,20 @@ De stichting licht ten minste eens in de vijf jaar de interne organisatie, de do
 
 ### Artikel  9  
 
-Een subsidie die is verleend krachtens de Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk wordt aangemerkt als een subsidie, verleend krachtens deze regeling.  
+Een subsidie die is verleend krachtens de Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk wordt aangemerkt als een subsidie, verleend krachtens deze regeling. 
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2017.  
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2017. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Subsidieregeling Stichting A en O-fonds Rijk.  
+Deze regeling wordt aangehaald als: Subsidieregeling Stichting A en O-fonds Rijk. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 10 juni 2013   
 
 De 
-Minister voor Wonen en Rijksdienst,
-S.A.Blok   
+Minister voor Wonen en Rijksdienst, 
+S.A. Blok     

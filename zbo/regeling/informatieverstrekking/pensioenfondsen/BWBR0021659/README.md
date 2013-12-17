@@ -21,13 +21,13 @@ a. Besluit: [Besluit financieel toetsingskader pensioenfondsen](../../../../../A
 
 b. DNB: De Nederlandsche Bank N.V.; en  
 
-c. fonds: pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) respectievelijk beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).    
+c. fonds: pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) respectievelijk beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
 
 ### Artikel  1.2  
 
 ####Reikwijdte
 
-Deze regeling is van toepassing op fondsen.  
+Deze regeling is van toepassing op fondsen. 
 
 ### Hoofdstuk  2  
 
@@ -51,13 +51,13 @@ e. in het model van staat K501: gegevens betreffende de toepassing van een herst
 
 f. in het model van staat K601: gegevens betreffende de toeslagverlening als bedoeld in [artikel 30, eerste lid, onderdeel h, onder 3°., van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md); en  
 
-g. in het model van staat K602: de kenmerken van uitgevoerde pensioenregelingen als bedoeld in [artikel 30, eerste lid, onderdelen j, onder 1°., en q](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md), en [artikel 30, tweede lid, onderdelen a en c, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md).    
+g. in het model van staat K602: de kenmerken van uitgevoerde pensioenregelingen als bedoeld in [artikel 30, eerste lid, onderdelen j, onder 1°., en q](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md), en [artikel 30, tweede lid, onderdelen a en c, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md).   
 
 ### Artikel  2.2  
 
 ####Eisen aan de gegevensverstrekking
 
-De regels, bedoeld in [artikel 32, aanhef en onderdelen b tot en met e, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md), zijn, voor wat betreft de kwartaalstaten, gesteld in de in bijlage 1 bij deze regeling opgenomen modellen van de kwartaalstaten en de daarbij behorende toelichting.  
+De regels, bedoeld in [artikel 32, aanhef en onderdelen b tot en met e, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md), zijn, voor wat betreft de kwartaalstaten, gesteld in de in bijlage 1 bij deze regeling opgenomen modellen van de kwartaalstaten en de daarbij behorende toelichting. 
 
 ### Artikel  2.3  
 
@@ -78,7 +78,7 @@ e. gegevens over toepassing van een herstelplan: elk vierde kalenderkwartaal;
 f. gegevens betreffende de gevolgen van de wijziging van de pensioenregeling voor de toeslagverlening: elk vierde kalenderkwartaal; en  
 
 g. de kenmerken van uitgevoerde pensioenregelingen: elk vierde kalenderkwartaal en, voor zover dit een ander kwartaal betreft, elk kalenderkwartaal waarin een bestuursbesluit tot wijziging van één of meer pensioenregelingen is genomen.     
-2.  Het fonds waarborgt dat de in artikel 2:1 bedoelde gegevens uiterlijk dertig werkdagen na afloop van het toepasselijke kalenderkwartaal in het bezit van DNB zijn.   
+2.  Het fonds waarborgt dat de in artikel 2:1 bedoelde gegevens uiterlijk dertig werkdagen na afloop van het toepasselijke kalenderkwartaal in het bezit van DNB zijn.  
 
 ### Hoofdstuk  3  
 
@@ -126,23 +126,23 @@ q. in het model van staat J901: verplichtingen van het fonds voor risico van de 
 
 r. in het model van staat J902: uitvoering van een VUT-regeling als bedoeld in [artikel 30, eerste lid, onderdeel n, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md); en  
 
-s. in het model van staat J903: uitvoering van een inkoopregeling als bedoeld in [artikel 30, eerste lid, onderdeel o, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md).    
+s. in het model van staat J903: uitvoering van een inkoopregeling als bedoeld in [artikel 30, eerste lid, onderdeel o, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md).   
 
 ### Artikel  3.2  
 
 ####Eisen aan de gegevensverstrekking
 
-1.  De regels, bedoeld in [artikel 32, aanhef en onderdelen b tot en met e, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md), zijn, voor wat betreft de jaarstaten, gesteld in de in bijlage 2 bij deze regeling opgenomen modellen van de jaarstaten en de daarbij behorende toelichting.   
+1. De regels, bedoeld in [artikel 32, aanhef en onderdelen b tot en met e, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md), zijn, voor wat betreft de jaarstaten, gesteld in de in bijlage 2 bij deze regeling opgenomen modellen van de jaarstaten en de daarbij behorende toelichting.  
 2.  De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, tweede lid, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md) geschiedt door het, door de accountant, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J103 van bijlage 2 bij deze regeling, voorzien van een handgeschreven handtekening van die accountant.   
 3.  De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, derde lid, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md) geschiedt door het, door de actuaris, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J606 van bijlage 2 bij deze regeling, voorzien van een handgeschreven handtekening van die actuaris.   
-4.  De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, vierde lid, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md) geschiedt door het, door het bestuur, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J104 van bijlage 2 bij deze regeling, voorzien van een handgeschreven handtekening van het bestuur.   
+4.  De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, vierde lid, van het Besluit](../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md) geschiedt door het, door het bestuur, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J104 van bijlage 2 bij deze regeling, voorzien van een handgeschreven handtekening van het bestuur. 
 
 ### Artikel  3.3  
 
 ####Indieningstermijn en -frequentie
 
 1.  De in artikel 3:1 bedoelde gegevens worden eenmaal per kalenderjaar aan DNB verstrekt.   
-2.  Het fonds waarborgt dat de in artikel 3:1 bedoelde gegevens uiterlijk 30 juni, na afloop van het kalenderjaar waarop de rapportage betrekking heeft, in het bezit van DNB zijn.   
+2.  Het fonds waarborgt dat de in artikel 3:1 bedoelde gegevens uiterlijk 30 juni, na afloop van het kalenderjaar waarop de rapportage betrekking heeft, in het bezit van DNB zijn.  
 
 ### Hoofdstuk  4  
 
@@ -153,29 +153,29 @@ s. in het model van staat J903: uitvoering van een inkoopregeling als bedoeld in
 ####Overgangsrecht
 
 1.  De op grond van deze regeling te verstrekken gegevens worden voor de eerste maal verstrekt over het boekjaar dat aanvangt op of na 1 januari 2007.   
-2.  Ten aanzien van boekjaar 2006 worden de gegevens verstrekt overeenkomstig het [Besluit staten pensioenfondsen](../../../../../AMvB/besluit/staten/pensioenfondsen/BWBR0009874/README.md) respectievelijk de [artikelen 22 tot en met 26 van het Besluit verplichte beroepspensioenregeling](../../../../../AMvB/besluit/verplichte/beroepspensioenregeling/BWBR0019290/README.md) zoals deze luidden op 31 december 2006.   
+2.  Ten aanzien van boekjaar 2006 worden de gegevens verstrekt overeenkomstig het [Besluit staten pensioenfondsen](../../../../../AMvB/besluit/staten/pensioenfondsen/BWBR0009874/README.md) respectievelijk de [artikelen 22 tot en met 26 van het Besluit verplichte beroepspensioenregeling](../../../../../AMvB/besluit/verplichte/beroepspensioenregeling/BWBR0019290/README.md) zoals deze luidden op 31 december 2006.  
 
 ### Artikel  4.2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007. 
 
 ### Artikel  4.3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen.  
+Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen. 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 en 2, die ter inzage worden gelegd bij DNB.  
 
 De Nederlandsche Bank N.V., de 
-directeur, 
-D.E.Witteveen  
+directeur,
+D.E. Witteveen    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Gepubliceerd op www.dnb.nl.  
+Gepubliceerd op www.dnb.nl.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij De Nederlandsche Bank N.V.  
+Ligt ter inzage bij De Nederlandsche Bank N.V.
