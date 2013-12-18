@@ -18,22 +18,22 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Er is voor de kust van Aruba, Curaçao, Sint Maarten en van de openbare lichamen Bonaire, Sint Eustatius en Saba een visserijzone vanaf de buitengrens van de territoriale zee.   
-2.  De buitengrens van de visserijzone wordt gevormd door de grenslijn die met andere Staten is overeengekomen.   
-3.  Waar nog geen grenslijn met andere Staten is overeengekomen, wordt de buitengrens van de visserijzone gevormd door de middellijn waarvan elk punt even ver verwijderd is van de dichtstbij gelegen punten van de basislijn van waaraf de breedte van de territoriale zee van elk der twee Staten wordt gemeten.   
-4.  De grenslijn tussen de visserijzones van Aruba en Curaçao wordt gevormd door de zeegrens die is vastgesteld bij de [Rijkswet vaststelling zeegrens tussen Aruba en Curaçao](../../../../../../../rijkswet/rijkswet/vaststelling/zeegrens/tussen/aruba/en/curaçao/BWBR0003895/README.md).   
-5.  De grenslijnen tussen de visserijzones van Curaçao en Bonaire en tussen Sint Maarten en Saba worden gevormd door de zeegrenzen tussen Curaçao en Bonaire en tussen Sint Maarten en Saba, vastgesteld bij de Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba.   
+2.   De buitengrens van de visserijzone wordt gevormd door de grenslijn die met andere Staten is overeengekomen.   
+3.   Waar nog geen grenslijn met andere Staten is overeengekomen, wordt de buitengrens van de visserijzone gevormd door de middellijn waarvan elk punt even ver verwijderd is van de dichtstbij gelegen punten van de basislijn van waaraf de breedte van de territoriale zee van elk der twee Staten wordt gemeten.   
+4.   De grenslijn tussen de visserijzones van Aruba en Curaçao wordt gevormd door de zeegrens die is vastgesteld bij de [Rijkswet vaststelling zeegrens tussen Aruba en Curaçao](../../../../../../../rijkswet/rijkswet/vaststelling/zeegrens/tussen/aruba/en/curaçao/BWBR0003895/README.md).   
+5.  De grenslijnen tussen de visserijzones van Curaçao en Bonaire en tussen Sint Maarten en Saba worden gevormd door de zeegrenzen tussen Curaçao en Bonaire en tussen Sint Maarten en Saba, vastgesteld bij de Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba. 
 
 ### Artikel  2  
 
-In de in artikel 1 bedoelde zone oefent het Koninkrijk, met inachtneming van de grenzen die het volkenrecht stelt, de uitsluitende rechtsbevoegdheid uit ten aanzien van visserijaangelegenheden.  
+In de in artikel 1 bedoelde zone oefent het Koninkrijk, met inachtneming van de grenzen die het volkenrecht stelt, de uitsluitende rechtsbevoegdheid uit ten aanzien van visserijaangelegenheden. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede maand na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede maand na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Visserijzonebesluit van het Caribische deel van het Koninkrijk.  
+Dit besluit wordt aangehaald als: Visserijzonebesluit van het Caribische deel van het Koninkrijk. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst.   
 

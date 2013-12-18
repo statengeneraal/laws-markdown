@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Wij behouden Ons de bevoegdheid voor een visserijzone in te stellen in overeenstemming met het bepaalde in de artikelen 2 en 3.  
+Wij behouden Ons de bevoegdheid voor een visserijzone in te stellen in overeenstemming met het bepaalde in de artikelen 2 en 3. 
 
 ### Artikel  2  
 
-Het Koninkrijk oefent de uitsluitende rechtsbevoegdheid ten aanzien van visserij-aangelegenheden uit in een zone ter breedte van ten hoogste 200 zeemijlen, gemeten van de basislijn van de territoriale zee van het Koninkrijk.  
+Het Koninkrijk oefent de uitsluitende rechtsbevoegdheid ten aanzien van visserij-aangelegenheden uit in een zone ter breedte van ten hoogste 200 zeemijlen, gemeten van de basislijn van de territoriale zee van het Koninkrijk. 
 
 ### Artikel  3  
 
-De buitengrens van de visserijzone zal worden bepaald in overeenstemming met die andere Staten van wie een overeenkomstige zone grenst aan die van het Koninkrijk.  
+De buitengrens van de visserijzone zal worden bepaald in overeenstemming met die andere Staten van wie een overeenkomstige zone grenst aan die van het Koninkrijk. 
 
 ### Artikel  4  
 
 1.  Deze Rijkswet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.   
-2.  Zij kan worden aangehaald als "Machtigingswet instelling visserijzone".   
+2.   Zij kan worden aangehaald als "Machtigingswet instelling visserijzone".  
 
 Lasten en bevelen dat deze in het *Staatsblad* en het *Publikatieblad van de Nederlandse Antillen* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

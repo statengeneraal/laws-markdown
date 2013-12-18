@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Er is voor de Nederlandse kust in de Noordzee een visserijzone vanaf de basislijn van de territoriale zee. De buitengrens zal dezelfde zijn als die welke geldt voor de afbakening van het Nederlandse deel van het continentale plat onder de Noordzee.  
+Er is voor de Nederlandse kust in de Noordzee een visserijzone vanaf de basislijn van de territoriale zee. De buitengrens zal dezelfde zijn als die welke geldt voor de afbakening van het Nederlandse deel van het continentale plat onder de Noordzee. 
 
 ### Artikel  2  
 
-In de artikel 1 bedoelde zone oefent het Koninkrijk, met inachtneming van de grenzen die het volkenrecht stelt, de uitsluitende rechtsbevoegdheid ten aanzien van visserij-aangelegenheden uit.  
+In de artikel 1 bedoelde zone oefent het Koninkrijk, met inachtneming van de grenzen die het volkenrecht stelt, de uitsluitende rechtsbevoegdheid ten aanzien van visserij-aangelegenheden uit. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst. 
 
 Onze Minister van Buitenlandse Zaken is belast met de uitvoering van dit besluit, dat met de nota van toelichting in het *Staatsblad* en het *Publikatieblad van de Nederlandse Antillen* zal worden geplaatst.   
 

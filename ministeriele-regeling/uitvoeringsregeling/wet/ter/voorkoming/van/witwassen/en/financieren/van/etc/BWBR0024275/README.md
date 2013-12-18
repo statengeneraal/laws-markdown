@@ -8,7 +8,7 @@ Besluiten:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder wet: [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).  
+In deze regeling wordt verstaan onder wet: [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md). 
 
 ### Artikel  2  
 
@@ -18,17 +18,17 @@ a. de [Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/
 
 1°. geen belastbare winst uit een onderneming als bedoeld in [afdeling 3.2 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geniet;  
 
-2°. geen belastbaar resultaat uit overige werkzaamheden als bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geniet;  
+2°.  geen belastbaar resultaat uit overige werkzaamheden als bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geniet;  
 
 3°. geen aanmerkelijk belang als bedoeld in [afdeling 4.3 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) heeft; en  
 
 4°. geen voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geniet;    
 
-b. de [Successiewet 1956](../../../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md).    
+b. de [Successiewet 1956](../../../../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
 
 ### Artikel  3  
 
-Als staat in de zin van [artikel 6, eerste lid, onderdeel b, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) worden aangewezen: Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Maarten, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland.  
+Als staat in de zin van [artikel 6, eerste lid, onderdeel b, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) worden aangewezen: Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Maarten, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland. 
 
 ### Artikel  3a  
 
@@ -60,8 +60,8 @@ b. een akte of verklaring, opgemaakt onderscheidenlijk afgegeven door een in Ned
 c. een document waaruit blijkt dat een kerkgenootschap of lichaam waarin zij is verenigd, is aangesloten bij het Interkerkelijk Contact in Overheidszaken dan wel dat het kerkgenootschap of lichaam is aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
 d. een document waaruit blijkt dat een zelfstandig onderdeel van een kerkgenootschap als bedoeld in onderdeel c deel uitmaakt van dat kerkgenootschap en het kerkgenootschap voldoet aan het bepaalde in onderdeel c.     
-3.  De identiteit van een cliënt als bedoeld in [artikel 11, derde lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) kan worden geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron.   
-4.  Onverminderd het derde lid kan de identiteit van een vereniging van eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) worden geverifieerd aan de hand van de statuten van die vereniging die deel uitmaken van het reglement van de akte van splitsing als bedoeld in [artikel 111 van Boek 5 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md).   
+3.  De identiteit van een cliënt als bedoeld in [artikel 11, vierde lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) kan worden geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron.   
+4.  Onverminderd het derde lid kan de identiteit van een vereniging van eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) worden geverifieerd aan de hand van de statuten van die vereniging die deel uitmaken van het reglement van de akte van splitsing als bedoeld in [artikel 111 van Boek 5 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md).  
 
 ### Artikel  5  
 
@@ -79,7 +79,7 @@ e. de Stichting Autoriteit Financiële Markten;
 
 f. het Bureau Financieel Toezicht;  
 
-g. de Belastingdienst/Holland-Midden;  
+g. de Belastingdienst/Grote ondernemingen;  
 
 h. de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische Controledienst;  
 
@@ -88,45 +88,45 @@ i. het openbaar ministerie;
 j. de politie.     
 2.  De leden van de commissie worden door de Minister van Financiën en de Minister van Justitie gezamenlijk aangewezen. Bij de samenstelling van de commissie streven de Minister van Financiën en de Minister van Justitie naar een evenwichtige vertegenwoordiging van de instellingen, bedoeld in het eerste lid, onderdeel c.   
 3.  De Minister van Financiën en de Minister van Justitie wijzen gezamenlijk de voorzitter van de commissie aan.   
-4.  De commissie bepaalt haar eigen werkwijze.   
+4.  De commissie bepaalt haar eigen werkwijze.  
 
 ### Artikel  6  
 
-De banken die zijn aangesloten bij de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. zijn vrijgesteld van het toezicht door De Nederlandsche Bank N.V. op de naleving van de [wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) voor zover de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. voldoet aan het bepaalde in [artikel 24, zesde lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).  
+De banken die zijn aangesloten bij de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. zijn vrijgesteld van het toezicht door De Nederlandsche Bank N.V. op de naleving van de [wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) voor zover de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. voldoet aan het bepaalde in [artikel 24, zesde lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md). 
 
 ### Artikel  7  
 
-Wijzigt het Instellingbesluit FIU-Nederland.   
+Wijzigt het Instellingbesluit FIU-Nederland. 
 
 ### Artikel  8  
 
-Wijzigt het Mandaat- en volmachtbesluit gemandateerd beheerder KLPD 2008.   
+Wijzigt het Mandaat- en volmachtbesluit gemandateerd beheerder KLPD 2008. 
 
 ### Artikel  9  
 
-Wijzigt de Mandaatregeling meldpunt ongebruikelijke transacties.   
+Wijzigt de Mandaatregeling meldpunt ongebruikelijke transacties. 
 
 ### Artikel  10  
 
-Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.   
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994. 
 
 ### Artikel  11  
 
-Wijzigt de Beschikking casinospelen 1996.   
+Wijzigt de Beschikking casinospelen 1996. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling Wet ter voorkoming van witwassen en financieren van terrorisme.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling Wet ter voorkoming van witwassen en financieren van terrorisme. 
 
 ### Artikel  13  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) in werking treedt.  
+Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën a.i., 
-A.Rouvoet 
+A. Rouvoet   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

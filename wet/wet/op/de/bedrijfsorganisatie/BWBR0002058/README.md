@@ -323,10 +323,10 @@ Het dagelijks bestuur beheert het vermogen en de inkomsten en uitgaven van de Ra
 ### Artikel  52  
 
 1.  Het dagelijks bestuur doet aan de Raad rekening en verantwoording van het beheer over het afgelopen kalenderjaar, onder overlegging van de rekening der inkomsten en uitgaven.   
-2.  De rekening wordt, met alle daarbij behorende bescheiden en met vermelding van hetgeen het dagelijks bestuur tot zijn verantwoording dienstig acht, aan de Raad overgelegd binnen zes maanden na afloop van het jaar, waarop zij betrekking heeft. Zij wordt ten kantore van het secretariaat voor een ieder ter lezing nedergelegd en, tegen betaling der kosten, algemeen verkrijgbaar gesteld. Van de nederlegging en verkrijgbaarstelling geschiedt openbare kennisgeving, welke ten minste twee weken voorafgaat aan de beraadslagingen, bedoeld in het derde lid.   
-3.  De Raad onderzoekt de rekening en stelt het bedrag der inkomsten en uitgaven vast. De beraadslagingen en de stemming geschieden in het openbaar. De leden van het dagelijks bestuur kunnen bij de beraadslagingen tegenwoordig zijn, doch onthouden zich van medestemmen.   
-4.  Het besluit van de Raad behoeft de instemming van Onze Minister van Sociale Zaken en Werkgelegenheid.   
-5.  De instemming van Onze Minister van Sociale Zaken en Werkgelegenheid strekt, voor zover het de inkomsten en uitgaven betreft waarmee is ingestemd, tot décharge van het dagelijks bestuur, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.   
+2.  De jaarrekening wordt, met alle daarbij behorende bescheiden en met vermelding van hetgeen het dagelijks bestuur tot zijn verantwoording dienstig acht, aan de Raad overgelegd voor 1 april van het jaar volgend op het jaar, waarop zij betrekking heeft. Zij wordt ten kantore van het secretariaat voor een ieder ter lezing nedergelegd en, tegen betaling der kosten, algemeen verkrijgbaar gesteld. Van de nederlegging en verkrijgbaarstelling geschiedt openbare kennisgeving, welke ten minste twee weken voorafgaat aan de beraadslagingen, bedoeld in het vierde lid.   
+3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Raad aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen.   
+4.  De Raad onderzoekt de rekening en stelt het bedrag der inkomsten en uitgaven vast. De beraadslagingen en de stemming geschieden in het openbaar. De leden van het dagelijks bestuur kunnen bij de beraadslagingen tegenwoordig zijn, doch onthouden zich van medestemmen.   
+5.  Het besluit van de Raad tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid.   
 
 ### Artikel  53  
 
@@ -334,17 +334,19 @@ De Raad is verplicht aan Onze Minister van Sociale Zaken en Werkgelegenheid en d
 
 ### §  3  
 
-####Van de inkomsten
+####Middelen
 
 ### Artikel  54  
 
-1.  De middelen tot dekking van de bij de begroting toegestane uitgaven worden verkregen door opslagen te heffen op bedragen, welke krachtens [artikel 49 van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) verschuldigd zijn.   
-2.  Bij algemene maatregel van bestuur kunnen op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid categorieën van ondernemingen of rechtspersonen worden aangewezen waarvoor het eerste lid, niet geldt.   
+1.  De middelen ter dekking van uitgaven van de Raad, voor zover die niet door andere inkomsten worden gedekt, komen ten laste van het Algemeen Werkloosheidsfonds, bedoeld in de Wet financiering sociale verzekeringen.   
+2.  De Raad stelt in de begroting het bedrag dat ten laste komt van het Algemeen Werkloosheidsfonds, vast.   
+3.  De Raad verstrekt voor 1 juli van het kalenderjaar, voorafgaande aan het jaar waar de begroting betrekking op heeft, een raming van de inkomsten en uitgaven van de Raad aan Onze Minister van Sociale Zaken en Werkgelegenheid.   
+4.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld voor dit artikel.   
 
 ### Artikel  55  
 
-1.  De Raad stelt jaarlijks bij verordening het aantal opslagen, als bedoeld in het voorgaande artikel, eerste lid, vast. De Kamers van Koophandel en Fabrieken innen deze opslagen voor de Raad tegelijk met en op dezelfde wijze als de haar krachtens [artikel 49 van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) verschuldigde bedragen.   
-2.  De verordening, bedoeld in het eerste lid, behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid.   
+1.  De Raad kan beschikken over de financiële middelen in de rekening-courant die de Raad aanhoudt bij Onze Minister van Financiën.   
+2.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Financiën, kunnen nadere regels worden gesteld voor dit artikel.   
 
 ### Titel  VII  
 

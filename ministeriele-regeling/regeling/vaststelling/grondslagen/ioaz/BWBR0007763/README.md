@@ -8,24 +8,24 @@ Besluit:
 
 ### Artikel  1  
 
-A. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.567,40;  
+A. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.571,38;  
 
-B. De grondslag voor de alleenstaande gewezen zelfstandige met een of meer kinderen wordt vastgesteld op: € 1.497,89;  
+B. De grondslag voor de alleenstaande gewezen zelfstandige met een of meer kinderen wordt vastgesteld op: € 1.512,79;  
 
-C. De grondslag voor de alleenstaande gewezen zelfstandige zonder kinderen wordt vastgesteld op: € 1.202,83.    
+C. De grondslag voor de alleenstaande gewezen zelfstandige zonder kinderen wordt vastgesteld op: € 1.211,62.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking per 1 januari 1996.  
+Deze regeling treedt in werking per 1 januari 1996. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: [Regeling vaststelling grondslagen IOAZ](../../../../../../ministeriele-regeling/regeling/vaststelling/grondslagen/ioaz/BWBR0007763/README.md).  
+Deze regeling wordt aangehaald als: [Regeling vaststelling grondslagen IOAZ](../../../../../../ministeriele-regeling/regeling/vaststelling/grondslagen/ioaz/BWBR0007763/README.md). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 19 december 1995    
 
-de 
-Minister voornoemd, 
-A.P.W.Melkert    
+de
+Ministervoornoemd, 
+A.P.W. Melkert      

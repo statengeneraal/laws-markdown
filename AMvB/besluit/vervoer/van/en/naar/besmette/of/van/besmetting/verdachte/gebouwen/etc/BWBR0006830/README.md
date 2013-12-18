@@ -19,43 +19,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:
 
-a. *wet:*[Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a.*wet:* [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
 
-b. *richtlijn nr. 2006/88/EG:* richtlijn nr. 2006/88/EG van de Raad van de Europese Gemeenschappen van 24 oktober 2006, betreffende veterinairrechtelijke voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG L 328);  
+b.*richtlijn nr. 2006/88/EG:* richtlijn nr. 2006/88/EG van de Raad van de Europese Gemeenschappen van 24 oktober 2006, betreffende veterinairrechtelijke voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG L 328);
 
-c. *aquacultuurdier:* aquacultuurdier, bedoeld in artikel 3, eerste lid, onderdeel b, van richtlijn nr. 2006/88/EG;  
+c.*aquacultuurdier:* aquacultuurdier, bedoeld in artikel 3, eerste lid, onderdeel b, van richtlijn nr. 2006/88/EG;
 
-d. *gevoelige soort:* gevoelige soort, bedoeld in bijlage I, onderdeel n, van richtlijn nr. 2006/88/EG;  
+d.*gevoelige soort:* gevoelige soort, bedoeld in bijlage I, onderdeel n, van richtlijn nr. 2006/88/EG;
 
-e. *vector:* vector, bedoeld in bijlage I, onderdeel o, van richtlijn nr. 2006/88/EG.    
+e.*vector:* vector, bedoeld in bijlage I, onderdeel o, van richtlijn nr. 2006/88/EG. 
 
 ### Artikel  2  
 
-Als soorten of categorieën van dieren, producten of voorwerpen waarvan het vervoer is verboden van gebouwen en terreinen waar een kenteken als bedoeld in [artikel 22, eerste lid, van de wet](../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geplaatst, worden aangewezen: 
+Als soorten of categorieën van dieren, producten of voorwerpen waarvan het vervoer is verboden van gebouwen en terreinen waar een kenteken als bedoeld in [artikel 22, eerste lid, van de wet](../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geplaatst, worden aangewezen:
 
-a. bij runderpest, brucellose, tuberculose ten gevolge van M. tuberculosis en M. bovis, Afrikaanse varkenspest, rabies, kwade droes, virale paardeëncefalomyelitiden, infectieuze anemie, miltvuur, vesiculaire stomatitis, besmettelijke bovine pleuropneumonie, Teschener-ziekte, vesiculaire varkensziekte, bovine spongiforme encefalopathie, blue tongue, pest van de kleine herkauwer, Rift Valley koorts, schape- en geitepokken, nodulaire dermatose, enzoötische hemorragische ziekte bij herten, psittacose en Amerikaans vuilbroed: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van voor de ziekte vatbare dieren, diervoeders, materiaal, afval, uitwerpselen, strooisel, mest of andere voorwerpen welke dragers van smetstof kunnen zijn;  
+a.bij runderpest, brucellose, tuberculosis ten gevolge van Mycobacterium tuberculosis complex, Afrikaanse varkenspest, rabies, kwade droes, virale paardeëncefalomyelitiden, infectieuze anemie, miltvuur, vesiculaire stomatitis, besmettelijke bovine pleuropneumonie, Teschener-ziekte, vesiculaire varkensziekte, bovine spongiforme encefalopathie, blue tongue, pest van de kleine herkauwer, Rift Valley koorts, schape- en geitepokken, nodulaire dermatose, enzoötische hemorragische ziekte bij herten, psittacose en Amerikaans vuilbroed: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van voor de ziekte vatbare dieren, diervoeders, materiaal, afval, uitwerpselen, strooisel, mest of andere voorwerpen welke dragers van smetstof kunnen zijn;
 
-b. bij mond- en klauwzeer: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van herkauwers of varkens, diervoeders, gereedschap, voorwerpen of andere stoffen welke dragers van smetstof kunnen zijn;  
+b.bij mond- en klauwzeer: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van herkauwers of varkens, diervoeders, gereedschap, voorwerpen of andere stoffen welke dragers van smetstof kunnen zijn;
 
-c. bij klassieke varkenspest: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van varkens, diervoeders, gereedschap of andere voorwerpen en afvallen welke dragers van smetstof kunnen zijn;  
+c.bij klassieke varkenspest: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van varkens, diervoeders, gereedschap of andere voorwerpen en afvallen welke dragers van smetstof kunnen zijn;
 
-d. bij Afrikaanse paardepest: paardachtigen of kadavers van paardachtigen;  
+d.bij Afrikaanse paardepest: paardachtigen of kadavers van paardachtigen;
 
-e. bij vogelpest en pseudo-vogelpest: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van pluimvee, duiven en loopvogels, diervoeders, materiaal, afval, uitwerpselen, strooisel, eieren of andere voorwerpen welke dragers van smetstof kunnen zijn;  
+e.bij vogelpest en pseudo-vogelpest: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van pluimvee, duiven en loopvogels, diervoeders, materiaal, afval, uitwerpselen, strooisel, eieren of andere voorwerpen welke dragers van smetstof kunnen zijn;
 
-f. bij epizoötische hematopoïetische necrose, epizoötisch ulceratief syndroom, besmetting met *Bonamia exitiosa*, besmetting met *Perkinsus marinus*, besmetting met *Microcytos mackini*, Taura syndroom, Yellow head ziekte, virale hemorragische septikemie, infectieuze hematopoïetische necrose, besmetting met koi herpes virus, infectieuze zalmanemie, besmetting met *Marteilia refringens*, besmetting met *Bonamia ostrea*, witte vlekken ziekte: aquacultuurdieren behorend tot soorten die gevoelig zijn, of als vector kunnen fungeren, voor de betreffende ziekte, water waarmee deze dieren in aanraking zijn geweest, de producten van deze dieren of andere voorwerpen welke dragers van smetstof kunnen zijn;  
+f.bij epizoötische hematopoïetische necrose, epizoötisch ulceratief syndroom, besmetting met *Bonamia exitiosa*, besmetting met *Perkinsus marinus*, besmetting met *Microcytos mackini*, Taura syndroom, Yellow head ziekte, virale hemorragische septikemie, infectieuze hematopoïetische necrose, besmetting met koi herpes virus, infectieuze zalmanemie, besmetting met *Marteilia refringens*, besmetting met *Bonamia ostrea*, witte vlekken ziekte: aquacultuurdieren behorend tot soorten die gevoelig zijn, of als vector kunnen fungeren, voor de betreffende ziekte, water waarmee deze dieren in aanraking zijn geweest, de producten van deze dieren of andere voorwerpen welke dragers van smetstof kunnen zijn;
 
-g. bij dourine: paardachtigen;  
+g.bij dourine: paardachtigen;
 
-h. bij endemische leukose bij runderen: alle runderen, voertuigen, afval, uitwerpselen, strooisel, mest of andere voorwerpen welke dragers van smetstof kunnen zijn.    
+h.bij endemische leukose bij runderen: alle runderen, voertuigen, afval, uitwerpselen, strooisel, mest of andere voorwerpen welke dragers van smetstof kunnen zijn. 
 
 ### Artikel  3  
 
-Als soorten of categorieën van dieren, produkten of voorwerpen waarvan het vervoer is verboden naar gebouwen en terreinen waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst, worden aangewezen: 
+Als soorten of categorieën van dieren, produkten of voorwerpen waarvan het vervoer is verboden naar gebouwen en terreinen waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst, worden aangewezen:  
 
-a. bij runderpest, brucellose, tuberculose ten gevolge van M. tuberculosis en M. bovis, Afrikaanse varkenspest, rabies, kwade droes, virale paardeëncefalomyelitiden, infectieuze anemie, miltvuur, vesiculaire stomatitis, besmettelijke bovine pleuropneumonie, Teschener-ziekte, vesiculaire varkensziekte, bovine spongiforme encefalopathie, blue tongue, pest van de kleine herkauwer, Rift Valley fever, schape- en geitepokken, nodulaire dermatose, enzoötische hemorragische ziekte bij herten, psittacose en Amerikaans vuilbroed: alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van voor de ziekte vatbare dieren, diervoeders, materiaal, afval, uitwerpselen, strooisel, mest of andere voorwerpen welke dragers van smetstof kunnen zijn;  
+a. bij runderpest, brucellose, tuberculosis ten gevolge van Mycobacterium tuberculosis complex, Afrikaanse varkenspest, rabies, kwade droes, virale paardeëncefalomyelitiden, infectieuze anemie, miltvuur, vesiculaire stomatitis, besmettelijke bovine pleuropneumonie, Teschener-ziekte, vesiculaire varkensziekte, bovine spongiforme encefalopathie, blue tongue, pest van de kleine herkauwer, Rift Valley fever, schape- en geitepokken, nodulaire dermatose, enzoötische hemorragische ziekte bij herten, psittacose en Amerikaans vuilbroed:  alle soorten of categorieën van dieren, voertuigen, vlees of kadavers van voor de ziekte vatbare dieren, diervoeders, materiaal, afval, uitwerpselen, strooisel, mest of andere voorwerpen welke dragers van smetstof kunnen zijn;  
 
 b. bij mond- en klauwzeer, klassieke varkenspest, vogelpest en pseudo-vogelpest: alle soorten of categorieën van dieren en voertuigen;  
 
@@ -70,15 +70,15 @@ f. bij endemische leukose bij runderen: alle runderen, voertuigen, afval, uitwer
 ### Artikel  4  
 
 1.  Indien gevaar bestaat voor overbrenging van de in de artikelen 2 en 3 genoemde dierziekten buiten Nederland kan Onze Minister andere soorten of categorieën van dieren, produkten of voorwerpen aanwijzen, waarvan het vervoer verboden is van of naar gebouwen en terreinen waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst.   
-2.  Indien gevaar bestaat voor overbrenging buiten Nederland kan Onze Minister ten aanzien van andere dan de in de artikelen 2 en 3 genoemde dierziekten soorten of categorieën van dieren, produkten of voorwerpen aanwijzen waarvan het vervoer verboden is van of naar besmette of van besmetting verdachte gebouwen en terreinen waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst, voorzover deze dierziekten zijn aangewezen krachtens artikel 15, eerste lid, van de wet.   
+2.   Indien gevaar bestaat voor overbrenging buiten Nederland kan Onze Minister ten aanzien van andere dan de in de artikelen 2 en 3 genoemde dierziekten soorten of categorieën van dieren, produkten of voorwerpen aanwijzen waarvan het vervoer verboden is van of naar besmette of van besmetting verdachte gebouwen en terreinen waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst, voorzover deze dierziekten zijn aangewezen krachtens artikel 15, eerste lid, van de wet.  
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit vervoer van en naar besmette of van besmetting verdachte gebouwen en terreinen.  
+Dit besluit wordt aangehaald als: Besluit vervoer van en naar besmette of van besmetting verdachte gebouwen en terreinen. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
