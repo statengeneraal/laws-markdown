@@ -36,38 +36,49 @@ i. school:
 
 2°. school voor voortgezet speciaal onderwijs, school voor speciaal onderwijs voor zover het betreft het voortgezet speciaal onderwijs, school voor speciaal en voortgezet speciaal onderwijs voor zover het betreft het voortgezet speciaal onderwijs, instelling voor speciaal en voortgezet speciaal onderwijs voor zover het betreft het voortgezet speciaal onderwijs, als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-3°. agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor wat betreft het daarin verzorgde voorbereidend beroepsonderwijs.      
+3°. agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor wat betreft het daarin verzorgde voorbereidend beroepsonderwijs.     
 
 ### Artikel  2  
 
 ####Doelomschrijving
 
 1.  De Minister verstrekt subsidie aan het bevoegd gezag van een school in de vorm van Cultuurkaarten.   
-2.  Doel van de subsidie is om te bevorderen dat leerlingen en docenten culturele activiteiten ondernemen.   
+2.  Doel van de subsidie is om te bevorderen dat leerlingen en docenten culturele activiteiten ondernemen.  
 
 ### Artikel  3  
 
 ####Aanvraag
 
 1.  De subsidie wordt op aanvraag verleend.   
-2.  De school dient de aanvraag in bij de CJP die de regeling namens de Minister uitvoert.   
+2.  De school dient de aanvraag in bij de CJP die de regeling namens de Minister uitvoert.  
 
 ### Artikel  4  
 
 ####De Cultuurkaart
 
-1.  De Minister stelt aan het bevoegd gezag van een school voor elke leerling een Cultuurkaart beschikbaar met daaraan gekoppeld een jaarlijks tegoed van € 15.   
-2.  De Minister stelt aan het bevoegd gezag van een school per school en per nevenvestiging van een school en per onderwijstype (praktijkonderwijs, voortgezet speciaal onderwijs, vmbo, havo en vwo) maximaal vier Cultuurkaarten met daaraan gekoppeld een jaarlijks tegoed van € 15 voor docenten beschikbaar.   
-3.  De Minister stelt aan het bevoegd gezag van een school maximaal één budgethouderskaart per klas beschikbaar.   
-4.  De Minister stelt aan alle Cultuurkaart-acceptanten één Cultuurkaart beschikbaar met daaraan gekoppeld een jaarlijks tegoed van € 15.   
-5.  Het cultureel tegoed vervalt steeds op 31 oktober van het jaar volgend op het jaar waarin het tegoed beschikbaar is gesteld.   
+1.  De Minister stelt aan het bevoegd gezag van een school voor elke leerling een Cultuurkaart beschikbaar met daaraan gekoppeld een jaarlijks tegoed van ten minste € 5.   
+2.  De Minister stelt aan het bevoegd gezag van een school per school en per nevenvestiging van een school en per onderwijstype (praktijkonderwijs, vmbo, havo en vwo) maximaal vier Cultuurkaarten met daaraan gekoppeld een jaarlijks tegoed van ten minste € 5 voor docenten beschikbaar.   
+3.  De Minister stelt aan het bevoegd gezag van een school maximaal één budgethouderskaart per klas beschikbaar.  
+
+### Artikel  4a  
+
+####Activeren, besteden en vervallen tegoed
+
+1.  De culturele tegoeden, bedoeld in artikel 4, kunnen klassikaal of individueel worden besteed, en worden per klas toegewezen.   
+2.  Beschikbaarstelling van per klas toegewezen culturele tegoeden vindt plaats nadat ten minste 66 procent van de leerlingen van de betreffende klas vóór 1 april volgend op het jaar waarin de aanvraag door het bevoegde gezag is ingediend, de op naam gestelde Cultuurkaarten heeft geactiveerd. Activering geschiedt via de daartoe bestemde applicatie op de website van de CJP.   
+3.  Indien na het verstrijken van de termijn, bedoeld in het tweede lid, minder dan 66 procent van de leerlingen van een klas de op naam gestelde Cultuurkaarten heeft geactiveerd, vervallen de aan de betreffende klas toegewezen culturele tegoeden.   
+4.  Cultureel tegoed dat met toepassing van het tweede lid beschikbaar is gesteld, vervalt steeds, voor wat betreft: 
+
+a. klassikaal te besteden tegoeden: op 30 september van het jaar volgend op het jaar waarin de beschikbaarstelling heeft plaatsgevonden;  
+
+b. individueel te besteden tegoeden: op 31 augustus van het jaar volgend op het jaar waarin de beschikbaarstelling heeft plaatsgevonden.    
 
 ### Artikel  5  
 
 ####Aanvraag door de scholen
 
 1.  De Minister stelt in overleg met de CJP een reglement vast, waarin in elk geval is vastgelegd hoe de scholen de Cultuurkaarten kunnen aanvragen en hoe, tot wanneer en door wie de verschillende Cultuurkaarten kunnen worden gebruikt.   
-2.  De CJP zendt het reglement, als bedoeld in het eerste lid, jaarlijks aan de bevoegde gezagsorganen van scholen. Daarnaast wordt het reglement op de website van de CJP geplaatst (www.cjp.nl).   
+2.  De CJP zendt het reglement, als bedoeld in het eerste lid, jaarlijks aan de bevoegde gezagsorganen van scholen. Daarnaast wordt het reglement op de website van de CJP geplaatst (www.cjp.nl).  
 
 ### Artikel  6  
 
@@ -76,51 +87,51 @@ i. school:
 1.  De Minister stelt in overleg met de CJP een reglement vast, waarin in elk geval is vastgelegd hoe culturele organisaties en individuele kunstenaars Cultuurkaart-acceptant kunnen worden, aan welke criteria ze daarvoor moeten voldoen, hoe de uitbetaling van het tegoed op de Cultuurkaart wordt geregeld en hoe ze een Cultuurkaart met het daaraan gekoppelde tegoed kunnen aanvragen.   
 2.  De CJP zendt het reglement als bedoeld in het eerste lid jaarlijks aan de bij de CJP bekende culturele organisaties en individuele kunstenaars. Daarnaast wordt het reglement op de website van de CJP geplaatst.   
 3.  De CJP stelt namens de Minister op grond van het reglement als bedoeld in het eerste lid een lijst vast met culturele organisaties en individuele kunstenaars waar de Cultuurkaart kan worden besteed. De CJP draagt zorgt voor openbaarmaking van die lijst op de website van de CJP. De CJP beslist namens de Minister of culturele organisaties of individuele kunstenaars aan deze lijst worden toegevoegd of worden verwijderd.   
-4.  De CJP stelt namens de Minister een lijst met culturele koepelorganisaties vast. De CJP beslist namens de Minister of culturele koepelorganisaties aan deze lijst worden toegevoegd of worden verwijderd.   
+4.  De CJP stelt namens de Minister een lijst met culturele koepelorganisaties vast. De CJP beslist namens de Minister of culturele koepelorganisaties aan deze lijst worden toegevoegd of worden verwijderd.  
 
 ### Artikel  7  
 
 ####Medewerking aan onderzoek
 
-Het bevoegd gezag van een school verstrekt desgevraagd aan de Minister en aan de CJP gegevens die noodzakelijk worden geacht voor te verrichten onderzoek naar doeltreffendheid en effecten van deze regeling.  
+Het bevoegd gezag van een school verstrekt desgevraagd aan de Minister en aan de CJP gegevens die noodzakelijk worden geacht voor te verrichten onderzoek naar doeltreffendheid en effecten van deze regeling. 
 
 ### Artikel  8  
 
 ####Begrotingsvoorbehoud
 
-De meerjarige verstrekking van Cultuurkaarten vindt plaats onder het voorbehoud van goedkeuring van de begrotingswetgever.  
+De meerjarige verstrekking van Cultuurkaarten vindt plaats onder het voorbehoud van goedkeuring van de begrotingswetgever. 
 
 ### Artikel  9  
 
 ####Mandaat
 
-Aan de directeur van de CJP wordt mandaat verleend om namens de Minister besluiten te nemen voor zover die strekken tot uitvoering van deze regeling.  
+Aan de directeur van de CJP wordt mandaat verleend om namens de Minister besluiten te nemen voor zover die strekken tot uitvoering van deze regeling. 
 
 ### Artikel  10  
 
 ####Verantwoording
 
-De CJP stelt jaarlijks voor 1 mei een schriftelijk verslag op over de uitvoering van deze regeling.  
+De CJP stelt jaarlijks voor 1 mei een schriftelijk verslag op over de uitvoering van deze regeling. 
 
 ### Artikel  11  
 
 ####Evaluatie
 
-Vier jaar na inwerkingtreding van deze regeling worden de effecten geëvalueerd.  
+Vier jaar na inwerkingtreding van deze regeling worden de effecten geëvalueerd. 
 
 ### Artikel  12  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2008.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2008. 
 
 ### Artikel  13  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling Cultuurkaart voortgezet onderwijs.  
+Deze regeling wordt aangehaald als: Regeling Cultuurkaart voortgezet onderwijs. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk   
+R.H.A. Plasterk     

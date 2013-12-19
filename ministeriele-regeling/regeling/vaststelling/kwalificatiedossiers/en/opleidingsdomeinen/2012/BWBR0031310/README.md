@@ -217,38 +217,48 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 
 ####: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedossiers en kwalificaties naar opleidingsdomeinen)
 
+![253119](http://wetten.overheid.nl/Illustration/253119)
+![253120](http://wetten.overheid.nl/Illustration/253120)
+![253121](http://wetten.overheid.nl/Illustration/253121)
+![253122](http://wetten.overheid.nl/Illustration/253122)
+![253123](http://wetten.overheid.nl/Illustration/253123)
+![252980](http://wetten.overheid.nl/Illustration/252980)
+
+| Wijzigingen in crebolijst opleidingsdomeinen, kwalificatiedossiers en kwalificaties geldig vanaf 2013  | Soort opleiding  | Leerweg  | Niveau  | SBU's  | Beroepsvereisten  | Prijsfactor  | BRIN Kenniscentrum  | Crebo nummer  | Kwalificatiedossier  | Crebo nummer  | Kwalificatie  | Opleidingsdomein  3. Techniek en procesindustrie 79020  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 22061  | Vliegtuigonderhoud  | --- | --- | --- | BOL/BBL  | --- | --- | --- | 1,70  | 02PR  |
+| --- | --- | 95766  | Monteur  | basisberoepsopleiding  | BOL/BBL  | 2  | 3200  | --- | 1,70  | 02PR  |
+| --- | --- | 95762  | Eerste monteur  | vakopleiding  | BOL/BBL  | 3  | 4800  | --- | 1,70  | 02PR  |
+| --- | --- | 95763  | Technicus avionica  | middenkaderopleiding  | BOL/BBL  | 4  | 6400  | --- | 1,70  | 02PR  |
+| --- | --- | 95764  | Technicus mechanica  | middenkaderopleiding  | BOL/BBL  | 4  | 6400  | --- | 1,70  | 02PR  |
+
 ![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
-![252981](http://wetten.overheid.nl/Illustration/252981)
+![253124](http://wetten.overheid.nl/Illustration/253124)
+![253125](http://wetten.overheid.nl/Illustration/253125)
+![253126](http://wetten.overheid.nl/Illustration/253126)
+![253127](http://wetten.overheid.nl/Illustration/253127)
+![253128](http://wetten.overheid.nl/Illustration/253128)
+![253129](http://wetten.overheid.nl/Illustration/253129)
+![253130](http://wetten.overheid.nl/Illustration/253130)
+![253131](http://wetten.overheid.nl/Illustration/253131)
+![253132](http://wetten.overheid.nl/Illustration/253132)
+![253133](http://wetten.overheid.nl/Illustration/253133)
+![253134](http://wetten.overheid.nl/Illustration/253134)
+![253135](http://wetten.overheid.nl/Illustration/253135)
+![253136](http://wetten.overheid.nl/Illustration/253136)
+![253137](http://wetten.overheid.nl/Illustration/253137)
+![253138](http://wetten.overheid.nl/Illustration/253138)
+![253139](http://wetten.overheid.nl/Illustration/253139)
+![253140](http://wetten.overheid.nl/Illustration/253140)
+![253141](http://wetten.overheid.nl/Illustration/253141)
+![253142](http://wetten.overheid.nl/Illustration/253142)
+![253143](http://wetten.overheid.nl/Illustration/253143)
 
 ### Bijlage  2  
 
 ####: Inhoud van de kwalificatiedossiers 2012–2013
 
-Gepubliceerd op www.kwalificatiesmbo.nl.  
+Gepubliceerd op www.ocwduo.nl.  
 
 ### Bijlage  3  
 

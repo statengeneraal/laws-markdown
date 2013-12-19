@@ -189,8 +189,8 @@ Den Haag
 26 juni 2013   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers  
+staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
 ### Bijlage  1  
 
@@ -323,7 +323,7 @@ Het afschrijvingspercentage is met behulp van de volgende formule bepaald: ﴾1 
 | Af: subsidies en herinvesteringsreserves  | 10.000  |
 | Fiscale aanschafwaarde/boekwaarde (A)  | 20.000  |
 
-n = 15 jaren R = 15% van 30.000 = 4.500 A = 20.000 R/A = 0,2250 De R/A-coëfficiënt van 0,2250 wordt vervolgens in de tabel opgezocht in de kolom die behoort bij een levensduur van 15 jaren. Het bijpassende afschrijvingspercentage ligt tussen 9,4 en 9,5 zodat voor dit zeeschip een afschrijvingspercentage van (afgerond) 9,4 moet worden toegepast.  
+n = 15 jaren R = 15% van 30.000 = 4.500 A = 20.000 R/A = 0,2250 De R/A-coëfficiënt van 0,2250 wordt vervolgens in de tabel opgezocht in de kolom die behoort bij een levensduur van 15 jaren. Het bijpassende afschrijvingspercentage ligt tussen 9,4 en 9,5 zodat voor dit zeeschip een afschrijvingspercentage van (afgerond) 9,4 moet worden toegepast. 
 
 ####Voorbeeld 2 (bedragen x 1.000)
 
@@ -336,5 +336,5 @@ Een zeeschip is voorzien van een selectieve non-katalytische reductie-installati
 | Af: subsidies en herinvesteringsreserves  | Pm  |
 | Fiscale aanschafwaarde/boekwaarde (A) zonder Vamilinvestering  | 32.650  |
 
-n = 15 jaren R = 15% van 33.795 = 5.069 A = 32.650 R/A= 5.069 / 32.650 = 0,1552 Volgens de tabel hoort bij een R/A-coëfficiënt van 0,1552 en een levensduur van 15 jaren een bijpassend afschrijvingspercentage dat ligt tussen 11,6 en 11,7. Voor dit zeeschip kan ten hoogste een afschrijvingspercentage van (afgerond) 11,6 worden toegepast.  
+n = 15 jaren R = 15% van 33.795 = 5.069 A = 32.650 R/A= 5.069 / 32.650 = 0,1552 Volgens de tabel hoort bij een R/A-coëfficiënt van 0,1552 en een levensduur van 15 jaren een bijpassend afschrijvingspercentage dat ligt tussen 11,6 en 11,7. Voor dit zeeschip kan ten hoogste een afschrijvingspercentage van (afgerond) 11,6 worden toegepast. 
 

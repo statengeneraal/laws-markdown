@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 juli 2006, nr. DJZ2006283878, Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op artikel 120 van de Woningwet en op richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestatie van gebouwen (PbEU L1);
+Gelet op [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) en op richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestatie van gebouwen (PbEU L1);
 
 De Raad van State gehoord (advies van 8 september 2006, nr. W08.06.0310/V);
 
@@ -20,8 +20,8 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-1.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder: *airconditioningsysteem*: koelsysteem als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012; *certificaat*: door een door Onze Minister aangewezen rechtspersoon erkende schriftelijke verklaring, afgegeven door een erkende deskundige; *energieprestatiecertificaat*: op een gebouw toegesneden certificaat dat niet ouder is dan tien jaar 1) waarin het resultaat is vermeld van de berekening van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van dat gebouw, waaronder verwarming, warmwatervoorziening, koeling, ventilatie en verlichting, 2) waarin referentie-waarden zijn vermeld waarmee de energieprestatie van het gebouw kan worden vergeleken en beoordeeld, en 3) dat vergezeld gaat van aanbevelingen voor kosteneffectieve verbetering van de energieprestatie; *wet*: Woningwet.   
-2.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt onder gebouw mede verstaan delen van een gebouw die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt.   
+1.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder:  *airconditioningsysteem*: koelsysteem als bedoeld in [artikel 1.1, eerste lid, van het Bouwbesluit 2012](../../../../../ministeriele-regeling/regeling/bouwbesluit/2012/BWBR0031022/README.md); *certificaat*: door een door Onze Minister aangewezen rechtspersoon erkende schriftelijke verklaring, afgegeven door een erkende deskundige;  *energieprestatiecertificaat*: op een gebouw toegesneden certificaat dat niet ouder is dan tien jaar 1) waarin het resultaat is vermeld van de berekening van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van dat gebouw, waaronder verwarming, warmwatervoorziening, koeling, ventilatie en verlichting, 2) waarin referentie-waarden zijn vermeld waarmee de energieprestatie van het gebouw kan worden vergeleken en beoordeeld, en 3) dat vergezeld gaat van aanbevelingen voor kosteneffectieve verbetering van de energieprestatie;  *wet*: [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md).   
+2.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt onder gebouw mede verstaan delen van een gebouw die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt.  
 
 ### Afdeling  2  
 
@@ -32,12 +32,12 @@ Hebben goedgevonden en verstaan:
 1.  Bij de bouw van een gebouw heeft de eigenaar een energieprestatiecertificaat voor dat gebouw.   
 2.  Bij de verhuur van een gebouw verstrekt de eigenaar afschrift van een energieprestatiecertificaat voor dat gebouw aan de huurder.   
 3.  Bij de verkoop van een gebouw verstrekt de eigenaar een energieprestatiecertificaat voor dat gebouw aan de koper.   
-4.  Het derde lid is van overeenkomstige toepassing op de verkoop van een deelnemings- of lidmaatschapsrecht dat recht geeft op het gebruik van een gebouw.   
+4.  Het derde lid is van overeenkomstige toepassing op de verkoop van een deelnemings- of lidmaatschapsrecht dat recht geeft op het gebruik van een gebouw.  
 
 ### Artikel  2.2  
 
-1.  Artikel 2.1 is van toepassing op nieuwe en bestaande gebouwen waarop op grond van artikel 5.2 van het Bouwbesluit 2012 bij nieuwbouw van die gebouwen een energieprestatiecoëfficiënt van toepassing is of zou zijn.   
-2.  In afwijking van het eerste lid is artikel 2.1 niet van toepassing op beschermde monumenten als bedoeld in artikel 1, onder d, van de Monumentenwet 1988, monumenten als bedoeld in een provinciale of gemeentelijke monumentenverordening, op gebouwen die worden gebruikt voor eredienst en religieuze activiteiten en op alleenstaande gebouwen met een gebruiksoppervlakte van minder dan 50 m <sup>2</sup>.   
+1.  Artikel 2.1 is van toepassing op nieuwe en bestaande gebouwen waarop op grond van [artikel 5.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) bij nieuwbouw van die gebouwen een energieprestatiecoëfficiënt van toepassing is of zou zijn.   
+2.  In afwijking van het eerste lid is artikel 2.1 niet van toepassing op beschermde monumenten als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), monumenten als bedoeld in een provinciale of gemeentelijke monumentenverordening, op gebouwen die worden gebruikt voor eredienst en religieuze activiteiten en op alleenstaande gebouwen met een gebruiksoppervlakte van minder dan 50 m<sup>2</sup>.  
 
 ### Artikel  2.3  
 
@@ -45,11 +45,11 @@ Voor een gebouw dat meerdere voor afzonderlijk gebruik ontwikkelde gedeelten bev
 
 a. volstaat een energieprestatiecertificaat dat is afgegeven voor het gehele gebouw indien dat gebouw een gemeenschappelijk verwarmingssysteem heeft, en  
 
-b. kan een energieprestatiecertificaat voor een afzonderlijk gedeelte van het gebouw worden afgegeven op basis van het energieprestatiecertificaat voor een ander representatief gedeelte van het gebouw.    
+b. kan een energieprestatiecertificaat voor een afzonderlijk gedeelte van het gebouw worden afgegeven op basis van het energieprestatiecertificaat voor een ander representatief gedeelte van het gebouw.   
 
 ### Artikel  2.4  
 
-De eigenaar van een gebouw met een totale gebruiksoppervlakte van meer dan 1.000 m <sup>2</sup>, waarin door een overheidsdienst of overheidsinstelling diensten aan het publiek worden verleend en dat met het oog daarop door een groot aantal personen wordt bezocht, heeft een energieprestatiecertificaat. De eigenaar brengt dit aan op een voor het publiek duidelijk zichtbare plaats in het gebouw. Bij ministeriële regeling kan worden bepaald dat de tweede zin van toepassing is op een of meer bij die regeling aan te wijzen onderdelen van het energieprestatiecertificaat.  
+De eigenaar van een gebouw met een totale gebruiksoppervlakte van meer dan 1.000 m<sup>2</sup>, waarin door een overheidsdienst of overheidsinstelling diensten aan het publiek worden verleend en dat met het oog daarop door een groot aantal personen wordt bezocht, heeft een energieprestatiecertificaat. De eigenaar brengt dit aan op een voor het publiek duidelijk zichtbare plaats in het gebouw. Bij ministeriële regeling kan worden bepaald dat de tweede zin van toepassing is op een of meer bij die regeling aan te wijzen onderdelen van het energieprestatiecertificaat. 
 
 ### Afdeling  3  
 
@@ -57,7 +57,7 @@ De eigenaar van een gebouw met een totale gebruiksoppervlakte van meer dan 1.000
 
 ### Artikel  3.1  
 
-Bij ministeriële regeling worden nadere voorschriften gegeven omtrent het in dit besluit bepaalde.  
+Bij ministeriële regeling worden nadere voorschriften gegeven omtrent het in dit besluit bepaalde. 
 
 ### Afdeling  3a  
 
@@ -69,12 +69,12 @@ Bij ministeriële regeling worden nadere voorschriften gegeven omtrent het in di
 2.  De keuring omvat een beoordeling van het rendement van de airconditioning en van de dimensionering ervan, gelet op de koelingsbehoeften van het gebouw.   
 3.  De beoordeling van de dimensionering, bedoeld in het tweede lid, kan achterwege blijven zolang er tussen de eerste keuring en opvolgende keuringen geen veranderingen plaatsvinden aan het verwarmingssysteem of de koelingsbehoeften van het gebouw.   
 4.  Na de keuring wordt aan de eigenaar of huurder van het gebouw een keuringsverslag verstrekt dat ten minste het resultaat van de verrichte keuring alsmede aanbevelingen voor een kostenefficiënte verbetering van de energieprestatie van het gekeurde airconditioningsysteem bevat.   
-5.  Aan een keuring als bedoeld in deze paragraaf staat gelijk een keuring, verricht door een keuringsinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt en die een kwaliteitsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de eisen, bedoeld in dit artikel, wordt nagestreefd.   
+5.  Aan een keuring als bedoeld in deze paragraaf staat gelijk een keuring, verricht door een keuringsinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt en die een kwaliteitsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de eisen, bedoeld in dit artikel, wordt nagestreefd.  
 
 ### Artikel  3a.2  
 
 1.  De keuring wordt op onafhankelijke wijze uitgevoerd door een gekwalificeerde deskundige die voldoet aan de bij ministeriële regeling bepaalde of aangewezen beroeps- en kwaliteitseisen.   
-2.  Aan een deskundige als bedoeld in dit artikel staat gelijk een deskundige die voldoet aan eisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt en die een beroeps- en kwaliteitsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de eisen, bedoeld in dit artikel, wordt nagestreefd.   
+2.  Aan een deskundige als bedoeld in dit artikel staat gelijk een deskundige die voldoet aan eisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt en die een beroeps- en kwaliteitsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de eisen, bedoeld in dit artikel, wordt nagestreefd.  
 
 ### Afdeling  4  
 
@@ -82,15 +82,15 @@ Bij ministeriële regeling worden nadere voorschriften gegeven omtrent het in di
 
 ### Artikel  4.1  
 
-Voor een gebouw waarvoor tussen 1 juli 2002 en het tijdstip van inwerkingtreding van dit artikel een Energie Prestatie Advies is uitgebracht dat voldoet aan de Tijdelijke regeling energiepremies 2003 zoals deze laatstelijk luidde voor haar intrekking, kan aan de in artikel 2.1 gestelde verplichtingen worden voldaan door het verstrekken van dit advies, mits dit niet ouder is dan tien jaar.  
+Voor een gebouw waarvoor tussen 1 juli 2002 en het tijdstip van inwerkingtreding van dit artikel een Energie Prestatie Advies is uitgebracht dat voldoet aan de [Tijdelijke regeling energiepremies 2003](../../../../../ministeriele-regeling/tijdelijke/regeling/energiepremies/2003/BWBR0014481/README.md) zoals deze laatstelijk luidde voor haar intrekking, kan aan de in artikel 2.1 gestelde verplichtingen worden voldaan door het verstrekken van dit advies, mits dit niet ouder is dan tien jaar. 
 
 ### Artikel  4.2  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  4.3  
 
-Dit besluit wordt aangehaald als: Besluit energieprestatie gebouwen.  
+Dit besluit wordt aangehaald als: Besluit energieprestatie gebouwen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -98,10 +98,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 november 2006  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.Winsemius 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+P. Winsemius   
 
 de *vijfde* december 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
