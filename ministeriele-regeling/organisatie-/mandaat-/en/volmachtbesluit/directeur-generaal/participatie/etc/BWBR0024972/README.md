@@ -13,13 +13,17 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *directeur-generaal:* de directeur-generaal Participatie en Inkomenswaarborg;  
+a.  *directeur-generaal:* de directeur-generaal Participatie en Inkomenswaarborg;  
 
-b. *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met d;  
+b.  *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met d;  
 
-c. *directeur:* een functionaris die leiding geeft aan een directie;  
+c.  *directeur:* een functionaris die leiding geeft aan een directie;  
 
-d. *bureauhoofd:* de functionaris die leiding geeft aan het bureau Control en managementondersteuning, genoemd in artikel 2, onderdeel e.    
+d.  *bureauhoofd:* een functionaris die leiding geeft aan het bureau DG Control, genoemd in artikel 2, onderdeel e;  
+
+e. *hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I*: een functionaris die leiding geeft aan de afdeling Bedrijfsvoering, secretariaat en begroting-P&I; 
+
+f.  *RCN:* Rijksdienst Caribisch Nederland.  
 
 ### §  2  
 
@@ -33,11 +37,13 @@ a. de directie Re-integratie en Participatie;
 
 b. de directie Inkomensverzekeringen en -voorzieningen;  
 
-c. de directie Naleving;  
+c. de directie Uitvoeringsbeleid en Naleving;  
 
-d. de directie Relatiebeheer, Uitvoeringsontwikkeling en Aansturing;  
+d. de directie Integratie en Samenleving;  
 
-e. het bureau DG-Control en managementondersteuning.    
+e. het bureau DG-Control;  
+
+f. de afdeling Bedrijfsvoering, secretariaat en begroting-P&I.  
 
 ### §  3  
 
@@ -75,7 +81,7 @@ m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, regi
 
 n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
 2.  Het eerste lid, met uitzondering van de onderdelen h tot en met k, is van overeenkomstige toepassing op het bureauhoofd.   
-3.  Het eerste lid, onderdeel k, is niet van toepassing op directeuren die leiding geven aan een directie met een omvang van maximaal 12 fulltime-equivalenten.   
+3.  Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I. 
 
 ### Artikel  4  
 
@@ -87,7 +93,7 @@ b. het scheppen van voorwaarden voor het re-integreren van mensen met een social
 
 c. het doen inschakelen van mensen met en zonder uitkering in andere vormen van maatschappelijke participatie indien inschakeling in betaalde arbeid nog niet mogelijk blijkt, als stap op weg naar betaald werk;  
 
-d. het zorgdragen voor de uitvoering van de werkzaamheden die verband houden met de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie.    
+d. het zorgdragen voor de uitvoering van de werkzaamheden die verband houden met de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie.  
 
 ### Artikel  5  
 
@@ -95,37 +101,68 @@ De directie Inkomensverzekeringen en -voorzieningen is verantwoordelijk voor:
 
 a. het formuleren van het beleid ten aanzien van de rechten en plichten van de sociale verzekeringen en voorzieningen, gericht op preventie, werk en bescherming;  
 
-b. het formuleren van het financieringsbeleid van de sociale verzekeringen en voorzieningen gericht op het stimuleren werknemers, werkgevers en de uitvoering.    
+b. het formuleren van het financieringsbeleid van de sociale verzekeringen en voorzieningen gericht op het stimuleren werknemers, werkgevers en de uitvoering.   
 
 ### Artikel  6  
 
-De directie Relatiebeheer, Uitvoeringsontwikkeling en Aansturing is verantwoordelijk voor: 
+De directie Uitvoeringsbeleid en Naleving is verantwoordelijk voor: 
 
-a. het beheren van de relatie tussen het ministerie en de buitenwereld in het domein van werk en inkomen, zoals onder meer de uitvoeringsorganisaties en gemeenten;  
+a. het aansturen van de zelfstandige bestuursorganen van het ministerie, het maken van prestatieafspraken, het bewaken van de realisatie daarvan en – indien nodig – optreden;  
 
-b. het aansturen van de uitvoeringsorganisaties, het maken van prestatieafspraken, het bewaken van de realisatie daarvan en – ndien nodig – optreden;  
+b. het vervullen van een accountfunctie voor het Uitvoeringsinstituut Werknemersverzekeringen, de Sociale Verzekeringsbank, de Vereniging van Nederlandse Gemeenten, de Landelijke Cliëntenraad, het Bureau Keteninformatisering Werk en Inkomen, het Inlichtingenbureau en gemeenten;  
 
-c. het aansturen van de samenwerking in de keten van uitvoeringsorganisaties en de gemeenten, gericht op de toeleiding naar werk en het verstrekken van uitkeringen, met inbegrip van de gegevensinfrastructuur en het daartoe ondersteunende gegevensverkeer;  
+c. de afwikkeling van de opgeheven Raad voor Werk en Inkomen;  
 
-d. het zorgdragen voor de ontwikkeling en het beheer van het uitvoeringsstelsel, waarbij innovatie centraal staat;  
+d. de visieontwikkeling op de toekomstige uitvoering en het maken van beleid om verbeteringen door te voeren in het kader van innovatie;  
 
-e. het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en medeoverheden;  
+e. het verkennen van organisatorische consequenties voor de uitvoering in het domein van de sociale zekerheid;  
 
-f. het strategisch en eenduidig opereren in de regio door het ministerie en afstemming met andere departementen en de partners in het netwerk van werk en inkomen hierover.    
+f. gegevensuitwisseling zowel binnen het domein van werk en inkomen als met aanpalende domeinen met als doel een betere dienstverlening, betere handhaving, minder bureaucratie en een efficiëntere overheid;  
+
+g. het ontwikkelen van een brede handhavingsstrategie van het ministerie, met systematische aandacht voor het verbeteren van de effectiviteit van de handhaving;  
+
+h. het geven van beleidsmatige sturing aan de naleving van wet- en regelgeving en het zorgen voor de voorbereiding, monitoring en verantwoording in dit kader;  
+
+i. het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en medeoverheden;  
+
+j. de coördinatie van de (inter)departementale beleidsvorming inzake de openbare lichamen Bonaire, Sint Eustatius en Saba;  
+
+k. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba, waaronder mede begrepen het nemen van besluiten en het behandelen van bezwaar- en beroepszaken die betrekking hebben op deze besluiten;  
+
+l. het namens de minister optreden als opdrachtgever voor de RCN. 
 
 ### Artikel  7  
 
-De directie Naleving is verantwoordelijk voor: 
+De directie Integratie en Samenleving is verantwoordelijk voor: 
 
-a. het ontwikkelen van een brede handhavingsstrategie met systematische aandacht voor handhaven in alle onderdelen van de beleidscyclus en de hele keten van werk en inkomen gericht op een verbetering van de naleving en een vergroting van de effectiviteit van de handhaving (Strategisch handhaven);  
+a. het ontwikkelen en uitvoeren van beleid gericht op het inburgeren van nieuwkomers mede op grond van de [Wet Inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en de [Wet Inburgering Buitenland](../../../../../../../../../wet/wet/inburgering/in/het/buitenland/BWBR0023204/README.md);  
 
-b. het bevorderen van vernieuwingen in het handhavingsbeleid van het ministerie en van de uitvoerende instanties en het (doen) aanpakken van lacunes in beleid, wetgeving en uitvoering (Vernieuwend handhaven);  
+b. het versterken van het bereik van regulier beleid voor migranten, daar waar een generieke aanpak onvoldoende effectief is;  
 
-c. het bevorderen van de samenhang in het handhavings- en opsporingsbeleid van het ministerie en de uitvoerende instanties en met het beleid van externe partijen (Samenhangend handhaven).    
+c. het ontwikkelen van beleid gericht op het omgaan met diversiteit in de samenleving en het tegengaan van sociale spanningen;  
+
+d. het ontwikkelen van beleid tegen discriminatie in Nederland met uitzondering van het beleid ten aanzien van arbeidsmarktdiscriminatie.   
 
 ### Artikel  8  
 
-Het bureau DG-Control en Managementondersteuning is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.  
+Het bureau DG-Control is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies. 
+
+### Artikel  8a  
+
+1.  De afdeling Bedrijfsvoering, secretariaat en begroting-P&I is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met f, verantwoordelijk voor: 
+
+a. alle interne bedrijfsvoeringsprocessen, waaronder de management-, administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;  
+
+b. het aanleveren van managementinformatie op het gebied van de bedrijfsvoeringsprocessen;  
+
+c. het leveren van een bijdrage aan documenten die door de dienstonderdelen van het directoraat-generaal Participatie en Inkomenswaarborg in het kader van de planning- en controlcyclus van het ministerie worden opgesteld;  
+
+d. een goede afstemming met de tweedelijns bedrijfsvoering die centraal voor het gehele ministerie gevoerd wordt;  
+
+e. de coördinatie van de bijdragen van het directoraat-generaal Participatie en Inkomenswaarborg voor de begrotingcyclus;  
+
+f. het financieel beheer.     
+2.  De aansturing van het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I berust bij de directeur, die door de directeur-generaal is aangewezen als plaatsvervangend directeur-generaal.  
 
 ### §  4  
 
@@ -133,14 +170,14 @@ Het bureau DG-Control en Managementondersteuning is verantwoordelijk voor beheer
 
 ### Artikel  9  
 
-1.  Elk van de directeuren, alsmede het bureauhoofd zijn bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.   
+1.  Elk van de directeuren, alsmede het bureauhoofd zijn bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, dan wel bureau, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.   
 2.  Aan elke directeur, alsmede het bureauhoofd wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op: 
 
 a. de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;  
 
 b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
 3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.   
-4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.   
+4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.  
 5.  De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst: 
 
 a. overeenkomsten welke gebaseerd zijn op een mantelovereenkomst;  
@@ -155,7 +192,18 @@ e. overeenkomsten met betrekking tot raden en commissies;
 
 f. overeenkomsten met betrekking tot onderzoek;  
 
-g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.     
+g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.    
+
+### Artikel  9a  
+
+1.  Artikel 9 is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.   
+2.  In afwijking van het eerste lid wordt aan het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd.   
+3.  In afwijking van het eerste lid wordt aan het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I volmacht verleend met betrekking tot het verrichten van de volgende privaatrechtelijke rechtshandelingen, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd: 
+
+a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;  
+
+b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.     
+4.  De directeuren en het bureauhoofd blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.  
 
 ### §  5  
 
@@ -172,13 +220,18 @@ b. het houden van manager-medewerker gesprekken;
 c. verlof van medewerkers;  
 
 d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.     
-2.  Onverminderd het eerste lid kunnen directeuren, na voorafgaande schriftelijke toestemming van de directeur-generaal, hun vertegenwoordigingsbevoegdheden doorverlenen aan functionarissen van een ander organisatieonderdeel, mits de betreffende functionaris daarmee schriftelijk instemt.   
-3.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.   
+2.  Onverminderd het eerste lid kunnen directeuren en het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I, na voorafgaande schriftelijke toestemming van de directeur-generaal, hun vertegenwoordigingsbevoegdheden doorverlenen aan functionarissen van een ander organisatieonderdeel, mits de betreffende functionaris daarmee schriftelijk instemt.   
+3.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.  
+4. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I de volgende bevoegdheden, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd, doorverlenen aan onder hem ressorterende functionarissen: 
+
+a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;  
+
+b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.  
 
 ### Artikel  11  
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -187,4 +240,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 Directeur-Generaal Participatie en Inkomenswaarborg, 
-J.A.M.Hilgersom   
+J.A.M. Hilgersom     

@@ -3,7 +3,7 @@
 ##Subsidieregeling ESF-3 voor onderwijsinstellingen 2000 - 2006
 
 De minister van onderwijs, cultuur en wetenschappen, Mede namens de minister van landbouw, natuurbeheer en visserij;  
-Gelet op: [artikel 4, eerste lid, van de Wet overige OCenW-subsidies](../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op: artikel 4, eerste lid, van de Wet overige OCenW-subsidies;
 
 Overwegende dat de Subsidieregeling ESF-3 (21 juni 2001/AM/ESM/01/40870, (Stc. 2001, nr. 118) regels stelt over de besteding van de middelen die op grond van de Beschikking van de Europese Commissie, kenmerk C(2000)1127, d.d. 8 augustus 2000 voor de periode 20002006 uit het Europees Sociaal Fonds aan Nederland zijn toegewezen ter verwezenlijking van maatregelen op het gebied van het arbeidsmarktbeleid en het beroepsonderwijs, binnen de kaders, als vastgelegd in het ter zake door de Commissie goedgekeurde Enig Programmeringsdocument;
 
@@ -14,7 +14,7 @@ Besluit
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder:   a. minister:  de Minister van Onderwijs, Cultuur en Wetenschap;    b. praktijkonderwijs:  het onderwijs bedoeld in artikel 10f en in [artikel 125, tweede lid onder a, van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);    c. voortgezet speciaal onderwijs:  het onderwijs dat wordt gegeven op een school waaraan voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd;    d. WEB:  de [Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    e. school:  een school of afdeling waaraan praktijkonderwijs wordt verzorgd;    f. instelling:  een instelling als bedoeld in [artikel 1.3.1](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [1.3.3](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instituut als bedoeld in [artikel 12.3.8](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een hogeschool als bedoeld in [artikel 12.3.9 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    g. kenniscentrum beroepsonderwijs bedrijfsleven:  een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    h. aanvrager:  de rechtspersoon waarvan een school, een instelling of een kenniscentrum beroepsonderwijs bedrijfsleven: uitgaat, die een project aanvraagt;    i. startkwalificatie:  een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de [artikelen 7](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [8 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+In deze regeling wordt verstaan onder:   a. minister:  de Minister van Onderwijs, Cultuur en Wetenschap;    b. praktijkonderwijs:  het onderwijs bedoeld in artikel 10f en in artikel 125, tweede lid onder a, van de Wet op het voortgezet onderwijs;    c. voortgezet speciaal onderwijs:  het onderwijs dat wordt gegeven op een school waaraan voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd;    d. WEB:  de Wet educatie en beroepsonderwijs;    e. school:  een school of afdeling waaraan praktijkonderwijs wordt verzorgd;    f. instelling:  een instelling als bedoeld in artikel 1.3.1 en 1.3.3, een instituut als bedoeld in artikel 12.3.8 of een hogeschool als bedoeld in artikel 12.3.9 van de Wet educatie en beroepsonderwijs;    g. kenniscentrum beroepsonderwijs bedrijfsleven:  een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs;    h. aanvrager:  de rechtspersoon waarvan een school, een instelling of een kenniscentrum beroepsonderwijs bedrijfsleven: uitgaat, die een project aanvraagt;    i. startkwalificatie:  een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onder b, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de artikelen 7 onderscheidenlijk 8 van de Wet op het voortgezet onderwijs.     
 
 ### Artikel  2  
 
@@ -47,7 +47,7 @@ c. voor het onderwerp genoemd in artikel 2, onderdeel c, 15,9 % van de middelen,
 
 1.  Projecten bestrijding voortijdig schoolverlaten hebben ten doel dat deelnemers aan het project gedurende de hele looptijd van het project onderwijs gericht op een startkwalificatie volgen, blijkend uit de deelnemersadministratie, dan wel gedurende de looptijd van het project een startkwalificatie behalen.   
 2.  Projecten versterking beroepsbegeleidend onderwijs hebben ten doel dat deelnemers aan het project een beroepspraktijkvormingplaats verwerven, blijkend uit een beroepspraktijkvormingsovereenkomst, en tenminste één deelkwalificatie behalen.   
-3.  Projecten praktijkonderwijs en voortgezet speciaal onderwijs hebben tot doel dat deelnemers aan het project uiterlijk binnen twee en een halve maand na afloop van het project een arbeidsplaats hebben verworven, blijkend uit een arbeidsovereenkomst of een aanstellingsbesluit met een omvang van tenminste 12 uur per week, dan wel een opleiding beroepsbegeleidend onderwijs volgen als bedoeld in [artikel 7.2.2, tweede lid, onderdeel b, van de WEB](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarvoor uiterlijk twee en een halve maand na afloop van dit project een beroepspraktijkvormingsovereenkomst als bedoeld in [artikel 7.2.8 van de WEB](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), is afgesloten.   
+3.  Projecten praktijkonderwijs en voortgezet speciaal onderwijs hebben tot doel dat deelnemers aan het project uiterlijk binnen twee en een halve maand na afloop van het project een arbeidsplaats hebben verworven, blijkend uit een arbeidsovereenkomst of een aanstellingsbesluit met een omvang van tenminste 12 uur per week, dan wel een opleiding beroepsbegeleidend onderwijs volgen als bedoeld in artikel 7.2.2, tweede lid, onderdeel b, van de WEB, waarvoor uiterlijk twee en een halve maand na afloop van dit project een beroepspraktijkvormingsovereenkomst als bedoeld in artikel 7.2.8 van de WEB, is afgesloten.   
 
 ### Artikel  5  
 
@@ -92,7 +92,7 @@ a. de leeftijd van 23 jaren nog niet hebben bereikt,
 
 b. voor wie naar het oordeel van de instelling een verhoogd risico van voortijdig schoolverlaten bestaat indien voor hen geen extra activiteiten worden ondernomen,  
 
-c. die aan een instelling zijn ingeschreven voor een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder a of b van de WEB](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) in de beroepsopleidende leerweg,  
+c. die aan een instelling zijn ingeschreven voor een opleiding als bedoeld in artikel 7.2.2, eerste lid onder a of b van de WEB in de beroepsopleidende leerweg,  
 
 d. die ongediplomeerd zijn dan wel slechts in het bezit zijn van een diploma voorbereidend beroepsonderwijs verkregen op grond van een eindexamen waarbij één of meer vakken volgens het A-programma, of vier of meer vakken volgens het B-programma zijn geëxamineerd dan wel ongediplomeerd zijn uitgestroomd uit één van de vier leerwegen van het voorbereidend middelbaar beroepsonderwijs of in het bezit zijn van een getuigschrift dan wel een diploma van de basisberoepsgerichte leerweg respectievelijk leerwerktraject en niet in het bezit zijn van een overgangsbewijs van het derde naar het vierde leerjaar HAVO/VWO, en  
 
@@ -101,7 +101,7 @@ e. die door de instelling zijn geregistreerd als deelnemer aan het ESF-project e
 
 a. naar het oordeel van de aanvrager daadwerkelijk extra ondersteuningsactiviteiten nodig hebben om aan de beroepsbegeleidende leerweg te kunnen deelnemen,  
 
-b. aan een instelling zijn ingeschreven voor een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder a of b, van de WEB](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) in de beroepsbegeleidende leerweg,  
+b. aan een instelling zijn ingeschreven voor een opleiding als bedoeld in artikel 7.2.2, eerste lid onder a of b, van de WEB in de beroepsbegeleidende leerweg,  
 
 c. niet in het bezit zijn van tenminste een startkwalificatie en  
 
@@ -174,11 +174,11 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 1.  De aanvrager dient een inzichtelijke en controleerbare deelnemersadministratie en een financiële administratie met betrekking tot het project en een administratie van de ontvangen en te ontvangen subsidie per deelnemer bij te houden of te doen bijhouden.   
 2.  De deelnemersadministratie geeft inzicht in de geplande en gerealiseerde deelnemersprestaties, bedoeld in artikel 4.   
-3.  De financiële administratie geeft inzicht in de subsidiabele kosten en in de integrale financiering van het project, uitgesplitst naar subsidie op grond van deze regeling en cofinanciering. De cofinanciering betreft uitsluitend de reguliere bekostiging van de school onderscheidenlijk instelling op grond van de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk de [WEB](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+3.  De financiële administratie geeft inzicht in de subsidiabele kosten en in de integrale financiering van het project, uitgesplitst naar subsidie op grond van deze regeling en cofinanciering. De cofinanciering betreft uitsluitend de reguliere bekostiging van de school onderscheidenlijk instelling op grond van de Wet op het voortgezet onderwijs onderscheidenlijk de WEB.   
 4.  De administratie dient aldus te zijn opgezet dat deze voldoende waarborgen biedt voor correcte en adequate tussentijdse rapportages en dient voldoende mogelijkheden te bieden voor een goede accountantscontrole op de juiste naleving van de subsidievoorwaarden.   
 5.  Bij de vastlegging van de gegevens worden in ieder geval de eisen in acht genomen die in bijlage 2 bij dit besluit ter zake worden gesteld alsmede de eisen zoals opgenomen in het door de minister vastgestelde Handboek ESF-3 voor uitvoerders.   
 6.  Bij de vastlegging van de gegevens wordt gebruik gemaakt van het door de minister ter beschikking gestelde computerprogramma.   
-7.  De aanvrager draagt zorg dat alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project bewaard blijven tot het jaar 2014.   
+7.  De aanvrager draagt er zorg voor dat alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project bewaard blijven tot 1 april 2016. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorste, maakt de minister de gevolgen voor de bewaartermijn bekend in de Staatscourant.   
 8.  De aanvrager zal aan door de minister dan wel door de Europese Commissie daartoe aangewezen personen desgevraagd inzage in of informatie uit deze administratie geven of doen geven. Tevens zal hij de voornoemde personen desgevraagd informatie verschaffen over de voortgang van het voor subsidie in aanmerking gebrachte project.   
 
 ### Artikel  12  
@@ -194,7 +194,7 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 ####Eindrapportage, verzoek tot subsidievaststelling
 
 1.  Een aanvrager dient uiterlijk 30 september van het jaar waarin het project eindigt een verzoek tot subsidievaststelling in door overlegging van een eindrapportage die een beschrijving geeft van de realisatie van het project in relatie tot de projectbeschrijving, bedoeld in artikel 7, tweede lid. In de eindrapportage wordt tevens aangegeven welke extra activiteiten er in aanvulling op de reguliere opleiding hebben plaatsgevonden, waarbij tevens een relatie wordt gelegd tussen de gerealiseerde activiteiten en de gedeclareerde kosten.   
-2.  De eindrapportage, waarvan het verzoek tot subsidievaststelling deel uit maakt, wordt ingediend met gebruikmaking van het door de minister ter beschikking gestelde formulier en is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), overeenkomstig het als bijlage 3 bij deze regeling gevoegde model.   
+2.  De eindrapportage, waarvan het verzoek tot subsidievaststelling deel uit maakt, wordt ingediend met gebruikmaking van het door de minister ter beschikking gestelde formulier en is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek, overeenkomstig het als bijlage 3 bij deze regeling gevoegde model.   
 3.  De accountantsverklaring bevat tevens een oordeel over de naleving van de subsidievoorwaarden door de subsidieontvanger.   
 4.  De minister kan nadere verplichtingen opleggen in verband met de inrichting van de accountantsverklaring.   
 5.  De subsidieontvanger bedingt bij de accountant, dat deze zijn onderzoek inricht overeenkomstig het controleprotocol, neergelegd in bijlage 4 bij deze regeling.   
@@ -214,7 +214,7 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 1.  Een aanvrager is verplicht alle medewerking te verlenen aan toezicht op de naleving door of namens de minister, de minister van Sociale zaken en Werkgelegenheid en de Europese Commissie.   
 2.  Een aanvrager is verplicht ervoor zorg te dragen dat een zelfde medewerking aan toezicht op de naleving wordt verleend door derden die bij het project betrokken zijn.   
-3.  Bij het uitvoeren van toezicht is het bepaalde in [hoofdstuk 5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+3.  Bij het uitvoeren van toezicht is het bepaalde in hoofdstuk 5 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 
 ### Artikel  17  
 
@@ -227,10 +227,11 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 ### Artikel  19  
 
-####Inwerkingtreding
+####Inwerkingtreding en vervallen regeling
 
 1.  Deze regeling treedt in werking met ingang van de derde dag na de datum van uitgifte van Uitleg OCenW-Regelingen, waarin deze regeling is bekend gemaakt en werkt, met inachtneming van het tweede lid, terug tot en met 1 augustus 2001.   
 2.  Voor projecten praktijkonderwijs werkt deze regeling terug tot en met 1 januari 2000.   
+3.  Deze regeling vervalt met ingang van 1 januari 2018.   
 
 ### Artikel  20  
 
