@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Agrarische Groothandel van 6 november 2012, houdende regels ter zake van de heffing voor de periode vanaf 1 januari 2011, op te leggen aan de onder het HBAG ressorterende ondernemers die de groothandel en/of het bedrijf van tussenpersoon in pootaardappelen, consumptie en/of voeraardappelen uitoefenen (Verordening HBAG financieringsheffing aardappelen vanaf 2013)
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en zesde lid van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 3, eerste lid en tweede lid sub a](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [5](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [10](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [11](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), en [13, eerste en derde lid van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) in werking getreden met ingang van 1 januari 2003;
+Gelet op de artikelen 95 en 126, eerste en zesde lid van de Wet op de Bedrijfsorganisatie en de artikelen 3, eerste lid en tweede lid sub a, 5, 10, 11, en 13, eerste en derde lid van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel in werking getreden met ingang van 1 januari 2003;
 
 Gehoord de commissie pootaardappelen en de commissie consumptie-, fabrieks- en voeraardappelen;
 Besluit:     
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel en wordt voorts verstaan onder: 
 
 a) detailhandelaar in pootaardappelen: een ondernemer die pootaardappelen koopt en deze verkoopt aan in Nederland gevestigde aardappeltelers of andere verbruikers;  
 
@@ -39,10 +39,10 @@ i) voeraardappelen: aardappelen bestemd voor veevoer.
 
 ### Artikel  2  
 
-1.  De ondernemer is ten behoeve van de huishoudelijke uitgaven van respectievelijk de commissie pootaardappelen en de commissie consumptie-, fabrieks- en voeraardappelen voor elke hieronder sub a t/m f respectelijk sub g t/m 1 vermelde functie die hij vanaf 1 januari 2013 in een kalenderjaar op enig tijdstip uitoefent aan het hoofdbedrijfschap verschuldigd het hieronder vermelde bedrag aan heffing over zijn omzet in de periode van 1 juli in het betreffende voorgaande kalenderjaar tot 1 juli in het betreffende lopende kalenderjaar:  
+1.  De ondernemer is ten behoeve van de huishoudelijke uitgaven van respectievelijk de commissie pootaardappelen en de commissie consumptie-, fabrieks- en voeraardappelen voor elke hieronder sub a t/m f respectievelijk sub g t/m l vermelde functie die hij in het kalenderjaar 2013 op enig tijdstip uitoefent aan het hoofdbedrijfschap verschuldigd het hieronder vermelde bedrag aan heffing over zijn omzet in de periode van 1 juli 2012 tot 1 juli 2013:  
 
 | omzet  | heffing  |
-|:---|:---|
+|---|---|
 | a)  | detailhandelaar in pootaardappelen:  | 0- 20 ton:  | € 73,--  |
 | --- | --- | 20 - 500 ton:  | € 184,--  |
 | --- | --- | 500 - 1.000 ton:  | € 276,--  |
@@ -71,7 +71,7 @@ i) voeraardappelen: aardappelen bestemd voor veevoer.
 | --- | --- | 10.000- 20.000 ton:  | € 1.781,--  |
 | --- | --- | > 20.000 ton:  | € 2.055,--  |
 
-2.  Op de door de ondernemer in het kader van deze verordening te verstrekken gegevens is de [Verordening HBAG registratie, verstrekking van gegevens en controle 2007](../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) van toepassing.   
+2.  Op de door de ondernemer in het kader van deze verordening te verstrekken gegevens is de Verordening HBAG registratie, verstrekking van gegevens en controle 2007 van toepassing.   
 
 ### Artikel  3  
 
@@ -83,7 +83,7 @@ b) hetzij al dan niet rechtstreeks lid is van een organisatie van ondernemers di
 
 1e krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot tenminste een belangrijk gedeelte van het terrein waarop het hoofdbedrijfschap een taak heeft te vervullen,  
 
-2e voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+2e voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 3e tot de werkingssfeer van het hoofdbedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 

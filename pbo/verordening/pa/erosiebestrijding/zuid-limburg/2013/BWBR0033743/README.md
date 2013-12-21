@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 14 juni 2013 houdende regels over de bestrijding van erosie in Zuid-Limburg (Verordening PA erosiebestrijding Zuid-Limburg 2013)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a. productschap  | :  | Productschap Akkerbouw;  |
 | b. bestuur  | :  | bestuur van het productschap;  |
 | c. secretaris  | :  | secretaris van het productschap;  |
@@ -44,7 +44,7 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-Deze verordening is van toepassing op landbouwgronden met een hellingspercentage groter dan 2% en met een hellinglengte van meer dan 50 meter die geheel of gedeeltelijk zijn gelegen binnen het grondgebied van de provincie Limburg ten zuiden van de doorgaande wegen Sittard - Wehr (tot grens Nederland-Duitsland) en Sittard - Urmond (tot grens Nederland-België), met uitzondering van het winterbed van de Maas en het inundatiegebied van Geul en Gulp.  
+Deze verordening is van toepassing op landbouwgronden die geheel of gedeeltelijk zijn gelegen binnen het grondgebied van de provincie Limburg ten zuiden van de doorgaande wegen Sittard - Wehr (tot grens Nederland-Duitsland) en Sittard - Urmond (tot grens Nederland-België), met uitzondering van het winterbed van de Maas en het inundatiegebied van Geul en Gulp.  
 
 ### §  3  
 
@@ -62,9 +62,9 @@ c. landbouwgronden met een hellingspercentage van 18% of meer uitsluitend als gr
 
 ### Artikel  4  
 
-1.  Onverminderd het bepaalde in artikel 3 is de ondernemer verplicht met betrekking tot elk perceel landbouwgrond als bedoeld in artikel 2 één of meer maatregelen te treffen die zijn opgenomen in bijlage 1.   
+1.  Onverminderd het bepaalde in artikel 3 is de ondernemer verplicht met betrekking tot elk perceel landbouwgrond als bedoeld in artikel 2 met een hellingspercentage van 2% of meer en met een hellingslengte van meer dan 50 meter één of meer maatregelen te treffen die zijn opgenomen in bijlage 1.   
 2.  De ondernemer is verplicht om uiterlijk 1 januari van het lopende teeltjaar melding te doen van de getroffen maatregelen.   
-3.  De voorzitter is, namens het bestuur, bevoegd bij besluit, gehoord de commissie, andere dan de in de bijlage genoemde maatregelen aan te wijzen die de ondernemer dient te treffen ter voorkoming van erosie, totdat bij verordening daarin is voorzien. Als dan wordt het betreffende besluit geacht te zijn ingetrokken.   
+3.  De voorzitter is, namens het bestuur, bevoegd bij besluit, gehoord de commissie, de in de bijlage genoemde maatregelen te wijzigen of aan te vullen dan wel andere maatregelen aan te wijzen die de ondernemer dient te treffen ter voorkoming van erosie, totdat bij verordening daarin is voorzien. Als dan wordt het betreffende besluit geacht te zijn ingetrokken.   
 
 ### §  4  
 
@@ -72,7 +72,7 @@ c. landbouwgronden met een hellingspercentage van 18% of meer uitsluitend als gr
 
 ### Artikel  5  
 
-Deze verordening is, onverminderd het bepaalde in artikel 3, niet van toepassing op landbouwgronden tot een hellingspercentage van 18% indien de ondernemer: 
+Deze verordening is, onverminderd het bepaalde in artikel 3, niet van toepassing op landbouwgronden indien de ondernemer: 
 
 a. geen andere dan de niet-kerende grondbewerking toegepast en een bodembedekking inzaait, waarbij de bodembedekking achterwege kan blijven indien op 15 september nog een gewas op het land staat, of  
 
@@ -112,7 +112,7 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ### Artikel  9  
 
-De [Verordening PA erosiebestrijding Zuid-Limburg 2008](../../../../../../../pbo/verordening/pa/erosiebestrijding/zuid-limburg/2008/BWBR0024328/README.md) wordt ingetrokken.  
+De Verordening PA erosiebestrijding Zuid-Limburg 2008 wordt ingetrokken.  
 
 ### Artikel  10  
 

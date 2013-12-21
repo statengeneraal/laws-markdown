@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Tuinbouw van 25 juni 2013 houdende regels over de bestrijding van erosie in Zuid-Limburg (Verordening PT erosiebestrijding Zuid-Limburg 2013)
 
 Het bestuur van het Productschap Tuinbouw,  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 12](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [13 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid van de Wet op de bedrijfsorganisatie en op de artikelen 12 en 13 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor boomkwekerijproducten, d.d. 4 juni 2013;
 
@@ -24,7 +24,7 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a. productschap  | :  | Productschap Tuinbouw;  |
 | b. bestuur  | :  | bestuur van het productschap;  |
 | c. secretaris  | :  | secretaris van het Productschap Akkerbouw;  |
@@ -45,7 +45,8 @@ Deze verordening verstaat onder:
 | r. (gras)ondergroei  | :  | een bodembedekker die tijdens de aanwezigheid van een (hoofd)gewas wordt ingezaaid in dit (hoofd)gewas, en bij de oogst van het hoofdgewas in stand wordt gehouden;  |
 | s. hoofdgewas  | :  | een gewas geteeld met het doel de opbrengst te verhandelen of te gebruiken;  |
 | t. fruitteelt  | :  | een opstand van bomen, die bedrijfsmatig is aangeplant met het doel de oogst van vruchten;  |
-| u. waterdrempel  | :  | een aarden rug, dwars in de rijen van een teelt op ruggen, dat afstromend water kan bergen.  |
+| u. waterdrempel  | :  | een aarden rug, dwars in de rijen van een teelt op ruggen, dat afstromend water kan bergen;  |
+| v. erosiebevorderend gewas  | :  | alle eenjarige gewassen die worden gezaaid, geplant of gepoot na 1 januari van het betreffende teelt jaar.  |
 
 ### §  2  
 
@@ -53,7 +54,7 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-Deze verordening is van toepassing op tuinbouwgronden met een hellingspercentage groter dan 2% en met een hellinglengte van meer dan 50 meter die geheel of gedeeltelijk zijn gelegen binnen het grondgebied van de provincie Limburg ten zuiden van de doorgaande wegen Sittard - Wehr (tot grens Nederland-Duitsland) en Sittard - Urmond (tot grens Nederland-België), met uitzondering van het winterbed van de Maas en het inundatiegebied van Geul en Gulp.  
+Deze verordening is van toepassing op tuinbouwgronden die geheel of gedeeltelijk zijn gelegen binnen het grondgebied van de provincie Limburg ten zuiden van de doorgaande wegen Sittard - Wehr (tot grens Nederland-Duitsland) en Sittard - Urmond (tot grens Nederland-België), met uitzondering van het winterbed van de Maas en het inundatiegebied van Geul en Gulp.  
 
 ### §  3  
 
@@ -67,11 +68,25 @@ a. zo spoedig mogelijk, doch uiterlijk één maand na elke oogst van het betreff
 
 b. tuinbouwgronden met een hellingspercentage van 18% of meer uitsluitend als grasland te gebruiken.    
 
+### Artikel  3a  
+
+1.  Het is een ondernemer verboden een perceel met een hellingspercentage van 2% of meer voor fruitteelt te gebruiken.   
+2.  De ondernemer mag van het bepaalde in het eerste lid afwijken op voorwaarde dat hij: 
+
+a. het gras in de boomgaard niet korter maait dan 5 cm, en  
+
+b. op een perceel met een hellingspercentage tot 5% de hellingslengte in gebruik voor fruitteelt minder bedraagt dan 300 meter, tenzij het wordt onderbroken door een niet-erosiebevorderend gewas dan wel een extra wendakker, en  
+
+c. op een perceel met een hellingspercentage van 5% of meer de hellingslengte in gebruik voor fruitteelt minder bedraagt dan 200 meter, tenzij het wordt onderbroken dooreen niet-erosiebevorderend gewas dan wel een extra wendakker, en  
+
+d. op een perceel met een hellingspercentage van 5% of meer het mulch/snoeihout onder de bomen niet ruimt vóór 15 juni van elk jaar.     
+3.  Het bepaalde in het tweede lid, onderdeel a. en d., geldt niet voor fruitteelt waarbij de boomrijen dwars op de helling zijn gelegen en er geen eenduidig concentratiepunt is voor het oppervlakkig afstromende water.   
+
 ### Artikel  4  
 
-1.  Onverminderd het bepaalde in artikel 3 is de ondernemer verplicht met betrekking tot elk perceel tuinbouwgrond als bedoeld in artikel 2 één of meer maatregelen te treffen die zijn opgenomen in bijlage 1.   
+1.  Onverminderd het bepaalde in de artikelen 3 en 3A is de ondernemer verplicht met betrekking tot elk perceel tuinbouwgrond als bedoeld in artikel 2 met een hellingspercentage van 2% of meer en met een hellingslengte van 50 meter één of meer maatregelen te treffen die zijn opgenomen in de bijlage.   
 2.  De ondernemer is verplicht om uiterlijk 1 januari van het lopende teelt jaar melding te doen van de getroffen maatregelen.   
-3.  De voorzitter is, namens het bestuur, bevoegd bij besluit andere dan de in bijlage 2 genoemde maatregelen aan te wijzen die de ondernemer dient te treffen ter voorkoming van erosie, totdat bij verordening daarin is voorzien. Als dan wordt het betreffende besluit geacht te zijn ingetrokken.   
+3.  De voorzitter is, namens het bestuur, bevoegd bij besluit de in de bijlage genoemde maatregelen te wijzigen of aan te vullen dan wel andere maatregelen aan te wijzen die de ondernemer dient te treffen ter voorkoming van erosie, totdat bij verordening daarin is voorzien. Als dan wordt het betreffende besluit geacht te zijn ingetrokken.   
 
 ### §  4  
 
@@ -79,7 +94,7 @@ b. tuinbouwgronden met een hellingspercentage van 18% of meer uitsluitend als gr
 
 ### Artikel  5  
 
-Deze verordening is, onverminderd het bepaalde in artikel 3, niet van toepassing op tuinbouwgronden tot een hellingspercentage van 18% indien de ondernemer: 
+Deze verordening is, onverminderd het bepaalde in de artikelen 3 en 3A, niet van toepassing op tuinbouwgronden indien de ondernemer: 
 
 a. geen andere dan de niet-kerende grondbewerking toepast en een bodembedekking inzaait, waarbij de bodembedekking achterwege kan blijven indien op 15 september nog een gewas op het land staat, of  
 
@@ -91,7 +106,7 @@ b. in het teelt jaar uiterlijk op 1 januari een wateropvang heeft met een capaci
 
 ### Artikel  6  
 
-De secretaris is, namens het bestuur, bevoegd om op schriftelijk verzoek, na overleg met het waterschap, ontheffing te verlenen van het bepaalde in de artikelen 3 en 4: 
+De secretaris is, namens het bestuur, bevoegd om op schriftelijk verzoek, na overleg met het waterschap, ontheffing te verlenen van het bepaalde in de artikelen 3, 3A en 4: 
 
 a. op verzoek van één of meerdere ondernemers, waarbij nadere voorschriften kunnen worden gesteld;  
 
@@ -111,7 +126,7 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ### Artikel  8  
 
-De [Verordening PT erosiebestrijding Zuid-Limburg 2009](../../../../../../../pbo/verordening/pt/erosiebestrijding/zuid-limburg/2009/BWBR0025525/README.md) wordt ingetrokken.  
+De Verordening PT erosiebestrijding Zuid-Limburg 2009 wordt ingetrokken.  
 
 ### Artikel  9  
 
@@ -129,7 +144,7 @@ voorzitter
 J.M. Gerritsen  
 secretaris   
 
-### Bijlage  1  
+### Bijlage  
 
 ####Maatregelen (artikel 4 )
 

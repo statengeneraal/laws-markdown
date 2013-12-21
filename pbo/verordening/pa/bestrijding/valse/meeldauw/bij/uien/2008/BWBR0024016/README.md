@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over het beperken van de schimmelziekte valse meeldauw bij uien (Verordening PA bestrijding valse meeldauw bij uien 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit Akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -16,18 +16,19 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Akkerbouw;  |
 | b.  | dagelijks bestuur  | :  | dagelijks bestuur van het productschap;  |
 | c.  | voorzitter  | :  | voorzitter van het productschap;  |
 | d.  | secretaris  | :  | secretaris van het productschap die belast is met teeltaangelegenheden;  |
 | e.  | commissie  | :  | Commissie Teeltaangelegenheden;  |
 | f.  | ondernemer  | :  | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;  |
-| g.  | uien  | :  | allium cepa (zaaiuien, eerste- en tweedejaars plantuien, winteruien, zilveruien, picklers) en allium ascalonicum (sjalotten);  |
-| h.  | valse meeldauw  | :  | de schimmelziekte Peronospora destructor;  |
-| i.  | bestuur  | :  | bestuur van het productschap;  |
-| j.  | uitgangsmateriaal  | :  | uien kennelijk bestemd voor wederuitplant;  |
-| k.  | keuringsdienst  | :  | Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (NAKtuinbouw), dan wel een tot het afgeven van certificaten, verklaringen van goedkeuring of beoordelingsrapporten bevoegde dienst of instelling van een andere EU-lidstaat.  |
+| g.  | uien  | :  | allium cepa en allium ascalonicum;  |
+| h.  | valse meeldauw  | :  | de schimmelziekte veroorzaakt door Peronospora destructor;  |
+| i.  | koprot    | :  | de schimmelziekte veroorzaakt door Botrytis allii;  |
+| j.  | bestuur  | :  | bestuur van het productschap;  |
+| k.  | uitgangsmateriaal  | :  | uien kennelijk bestemd voor wederuitplant;  |
+| l.  | keuringsdienst  | :  | Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (NAKtuinbouw), dan wel een tot het afgeven van certificaten, verklaringen van goedkeuring of beoordelingsrapporten bevoegde dienst of instelling van een andere EU-lidstaat.  |
 
 ### §  2  
 
@@ -35,8 +36,8 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-1.  Het is de ondernemer verboden na 15 april van enig jaar niet-uitgeplante uien of afval van uien aanwezig te hebben waarop groene delen voor komen, zonder op deze uien een zodanige afdekking aan te brengen dat groene delen niet boven deze afdekking kunnen voor komen.   
-2.  Het is de ondernemer verboden om zich van niet-uitgeplante uien of afval van uien te ontdoen, tenzij hij zodanige maatregelen heeft getroffen dat zich aan deze niet-uitgeplante uien of afval van uien geen groene delen kunnen ontwikkelen.   
+1.  Het is de ondernemer verboden na 15 april van enig jaar niet-uitgeplante uien of afval van uien aanwezig te hebben, tenzij op deze uien een afdekking is aangebracht of zodanige maatregelen zijn getroffen zonder welke niet-uitgeplante uien of afval van uien een potentiële bron kunnen zijn voor het verspreiden van valse meeldauw en koprot   
+2.  Het is de ondernemer verboden om zich van niet-uitgeplante uien of afval van uien te ontdoen, tenzij hij zodanige maatregelen heeft getroffen zonder welke zich aan deze niet-uitgeplante uien of afval van uien groene delen kunnen ontwikkelen en zonder welke deze niet-uitgeplante uien of afval van uien een potentiële bron kunnen zijn voor het verspreiden van koprot.   
 
 ### Artikel  2a  
 
