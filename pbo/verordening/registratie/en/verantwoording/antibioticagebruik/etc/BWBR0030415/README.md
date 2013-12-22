@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Pluimvee en Eieren van 9 juni 2011 houdende verplichtingen tot registratie en verantwoording van het gebruik van antibiotica in de pluimveesector (Verordening registratie en verantwoording antibioticagebruik pluimveesector (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 93, 95 en 104 van de Wet op de bedrijfsorganisatie en op artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
 Gehoord de Adviescommissie pluimveegezondheidszorg,
 Besluit:    
@@ -13,9 +13,9 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in [artikel 1, onder ee., van de Regeling identificatie en registratie dieren](../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242);  |
-| b.  | KIP nummer  | :  | registratienummer toegekend op grond van [artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005](../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/broedeieren/etc/BWBR0019280/README.md);  |
+|---|---|---|---|
+| a.  | UBN  | :  | uniek bedrijfsnummer als gedefinieerd in artikel 1, onder ee., van de Regeling identificatie en registratie dieren (Stcrt. 2004, 242);  |
+| b.  | KIP nummer  | :  | registratienummer toegekend op grond van artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005;  |
 | c.  | antibioticum  | :  | antimicrobieel diergeneesmiddel;  |
 | d.  | ondernemer  | :  | de natuurlijke of rechtspersoon die bedrijfsmatig pluimvee houdt ten behoeve van de productie van vleeskuikens, vleeskalkoenen, consumptie-eieren of broedeieren;  |
 | e.  | pluimvee  | :  | kippen van de soort Gallus gallus en kalkoenen die worden opgefokt of gehouden voor de productie van vlees, consumptie-eieren of broedeieren;  |
@@ -32,7 +32,8 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  De ondernemer draagt er voor zorg dat elke levering van een antibioticum op zijn bedrijf binnen twee weken na de dag van levering elektronisch wordt geregistreerd in een door de voorzitter namens het bestuur bij besluit aangewezen databank voor de registratie van voorgeschreven antibiotica in de pluimveesector.   
-2.  Aan de databank als bedoeld in het eerste lid worden de volgende gegevens doorgegeven: 
+2.  Indien de in het eerste lid bedoelde registratie betrekking heeft op de levering van antibiotica op een bedrijf van een ondernemer die vleeskalkoenen houdt, wordt de levering binnen twee weken na de afleverdatum van een koppel geregistreerd.   
+3.  Aan de databank als bedoeld in het eerste lid worden de volgende gegevens doorgegeven: 
 
 naam, adres, woonplaats, UBN en KIP nummer van het pluimveebedrijf;  
 
@@ -43,9 +44,9 @@ per koppel: de datum van levering van het antibioticum, naam en nummer van het m
 gegevens over reden van de behandeling: per koppel de klinische diagnose en het koppelbeeld;  
 
 per koppel waar het antibioticum voor is bestemd: de geboortedatum, het stalnummer en het aantal opgezette kuikens in de stal.   Wanneer geen antibioticum wordt voorgeschreven voor een koppel wordt, binnen twee weken na aflevering van het koppel naar de slachterij, geregistreerd dat geen antibioticum is voorgeschreven.   
-3.  De ondernemer die deelneemt aan een door de voorzitter in het kader van deze verordening erkend kwaliteitssysteem, heeft met de tijdige doorgifte van de gegevens als bedoeld in het tweede lid door de houder van het private kwaliteitssysteem voldaan aan de verplichting als voorzien in het eerste lid.   
-4.  De voorzitter erkent op aanvraag een privaat kwaliteitssysteem dat voldoet aan de erkenningsvoorwaarden opgenomen in de bijlage bij deze verordening. De voorzitter kan nadere voorwaarden verbinden aan de erkenning.   
-5.  Het in het eerste lid bedoelde besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+4.  De ondernemer die deelneemt aan een door de voorzitter in het kader van deze verordening erkend kwaliteitssysteem, heeft met de tijdige doorgifte van de gegevens als bedoeld in het tweede lid door de houder van het private kwaliteitssysteem voldaan aan de verplichting als voorzien in het eerste lid.   
+5.  De voorzitter erkent op aanvraag een privaat kwaliteitssysteem dat voldoet aan de erkenningsvoorwaarden opgenomen in de bijlage bij deze verordening. De voorzitter kan nadere voorwaarden verbinden aan de erkenning.   
+6.  Het in het eerste lid bedoelde besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 ####Diergezondheid
 
@@ -65,9 +66,9 @@ per koppel waar het antibioticum voor is bestemd: de geboortedatum, het stalnumm
 ### Artikel  4  
 
 1.  De door of namens de ondernemer aangeleverde gegevens en de uitslagen van onderzoek kunnen worden gebruikt in rapportages waarin feiten en statistieken inzake typen en hoeveelheden antibiotica door dierenartsen in de pluimveesector zijn voorgeschreven, worden weergegeven.   
-2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de in de databank geregistreerde gegevens voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden voor het overige slechts verstrekt aan derden voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.   
+2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de in de databank geregistreerde gegevens voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens. Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden voor het overige slechts verstrekt aan derden voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.   
 3.  De gegenereerde gegevens worden verwerkt in een periodieke rapportage die ten minste één maal per jaar wordt uitgebracht.   
-4.  De voorzitter kan aan de Nederlandse Voedsel en Waren Autoriteit desgevraagd de in de databank geregistreerde gegevens betreffende individuele houders verstrekken voor zover zulks in overeenstemming is met de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+4.  De voorzitter kan aan de Nederlandse Voedsel en Waren Autoriteit desgevraagd de in de databank geregistreerde gegevens betreffende individuele houders verstrekken voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens.   
 
 ####Controle
 
@@ -100,7 +101,7 @@ e. voor het overige alle medewerking te verlenen ter vervulling van de aan de to
 
 ### Artikel  7  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ####Slotbepalingen
 
@@ -149,7 +150,7 @@ De pluimveehouder is verantwoordelijk voor tijdige aanlevering van de gegevens i
 
 De pluimveehouder geeft toestemming aan het kwaliteitssysteem voor inzage door het productschap in de databank voor controledoeleinden ten aanzien van zowel pluimveehouder als dierenarts;  
 
-De pluimveehouder houdt een logboek/administratie bij over het gebruik van diergeneesmiddelen conform de [Diergeneesmiddelenregeling](../../../../../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md);  
+De pluimveehouder houdt een logboek/administratie bij over het gebruik van diergeneesmiddelen conform de Diergeneesmiddelenregeling;  
 
 De pluimveehouder heeft de afspraken met zijn dierenarts schriftelijk in een overeenkomst vastgelegd;  
 

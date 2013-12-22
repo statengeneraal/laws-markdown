@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Vee en Vlees van 8 december 2010 houdende de mandatering van organisaties tot erkenning van de TSE-resistente status van bepaalde koppels schapen en tot uitgifte van bedrijfscertificaten en tot vaststelling van het model bedrijfscertificaat (Besluit houdende mandatering van organisaties tot erkenning van de TSE-resistente status en uitgifte bedrijfscertificaten en tot vaststelling model bedrijfscertificaat (PVV) 2010)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 13, eerste en tweede lid](../../../../../../../../../../../../pbo/verordening/fokken/op/terugdringing/tse-gevoeligheid/bij/schapen/(pvv)/etc/BWBR0024314/README.md), en [artikel 14, eerste en derde lid, van de Verordening fokken op terugdringing TSE-gevoeligheid bij schapen (PVV) 2008](../../../../../../../../../../../../pbo/verordening/fokken/op/terugdringing/tse-gevoeligheid/bij/schapen/(pvv)/etc/BWBR0024314/README.md);
+Gelet op artikel 13, eerste en tweede lid, en artikel 14, eerste en derde lid, van de Verordening fokken op terugdringing TSE-gevoeligheid bij schapen (PVV) 2008;
 Besluit:    
 
 ### Artikel  1  
@@ -11,16 +11,18 @@ Besluit:
 In dit besluit wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1.  | productschap  | :  | Productschap Vee en Vlees;  |
 | 2.  | bestuur  | :  | het bestuur van het productschap;  |
-| 3.  | verordening  | :  | de [Verordening fokken op terugdringing TSE-gevoeligheid bij schapen (PVV) 2008](../../../../../../../../../../../../pbo/verordening/fokken/op/terugdringing/tse-gevoeligheid/bij/schapen/(pvv)/etc/BWBR0024314/README.md).  |
+| 3.  | verordening  | :  | de Verordening fokken op terugdringing TSE-gevoeligheid bij schapen (PVV) 2008.  |
 
 ### Artikel  2  
 
-De voorzitter van de hierna genoemde erkende organisatie(s) wordt mandaat verleend om namens het bestuur, met inachtneming van het bij of krachtens de verordening bepaalde, te besluiten en stukken te ondertekenen betreffende het erkennen van de TSE-resistente status van bepaalde koppels schapen en het uitgeven van het bedrijfscertificaat, bedoeld in [artikel 13 van de verordening](../../../../../../../../../../../../pbo/verordening/fokken/op/terugdringing/tse-gevoeligheid/bij/schapen/(pvv)/etc/BWBR0024314/README.md): 
+De voorzitter van de hierna genoemde erkende organisatie(s) wordt mandaat verleend om namens het bestuur, met inachtneming van het bij of krachtens de verordening bepaalde, te besluiten en stukken te ondertekenen betreffende het erkennen van de TSE-resistente status van bepaalde koppels schapen en het uitgeven van het bedrijfscertificaat, bedoeld in artikel 13 van de verordening: 
 
-De Nederlandse Schapen- en Geitenfokkers Organisatie NSFO, statutair gevestigd te Deventer.    
+De Nederlandse Schapen- en Geitenfokkers Organisatie NSFO, statutair gevestigd te Deventer;  
+
+De Gezondheidsdienst voor Dieren, statutair gevestigd te Deventer.    
 
 ### Artikel  3  
 
@@ -28,7 +30,7 @@ De ondertekening, bedoeld in artikel 2 luidt: “HET BESTUUR VAN HET PRODUCTSCHA
 
 ### Artikel  4  
 
-Het bedrijfscertificaat, als bedoeld in [artikel 14, derde lid, van de verordening](../../../../../../../../../../../../pbo/verordening/fokken/op/terugdringing/tse-gevoeligheid/bij/schapen/(pvv)/etc/BWBR0024314/README.md), wordt uitgegeven volgens het model zoals opgenomen in de bijlage.  
+Het bedrijfscertificaat, als bedoeld in artikel 14, derde lid, van de verordening, wordt uitgegeven volgens het model zoals opgenomen in de bijlage.  
 
 ### Artikel  5  
 
@@ -56,5 +58,5 @@ S.W.A. Lak
 voorzitter 
 S.B.M. Jongerius  
 secretaris   
-![248382](http://wetten.overheid.nl/Illustration/248382)
+![]()
 
