@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 1 oktober 2007, nr. HDJZ/SCH/2007 - 1217, Hoofddirectie Juridische Zaken;
 
-Gelet op de artikelen 21, tweede lid, 27d, eerste en tweede lid, en 27l, eerste en derde lid, van de Loodsenwet;
+Gelet op de [artikelen 21, tweede lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), [27d, eerste en tweede lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), en [27l, eerste en derde lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md);
 
 De Raad van State gehoord (advies van 25 oktober 2007, nr. W09.07.0356/IV);
 
@@ -20,59 +20,59 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-– *A-tarief:* tarief voor de aanvullende diensten, bedoeld in artikel 4.5;  
+–  *A-tarief:* tarief voor de aanvullende diensten, bedoeld in artikel 4.5;  
 
-– *bevoegde autoriteit:* voor een scheepvaartweg of gedeelte daarvan krachtens artikel 1, onder a, van het Loodsplichtbesluit 1995 aangewezen autoriteit;  
+–  *bevoegde autoriteit:* voor een scheepvaartweg of gedeelte daarvan krachtens [artikel 1, onder a, van het Loodsplichtbesluit 1995](../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md) aangewezen autoriteit;  
 
-– *bijzonder transport:* hetgeen op grond van artikel 1, vijfde lid, van de Scheepvaartverkeerswet mede wordt verstaan onder schip of zeeschip en hetgeen bij of krachtens artikel 4 van die wet wordt verstaan onder een bijzonder transport;  
+–  *bijzonder transport:* hetgeen op grond van [artikel 1, vijfde lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) mede wordt verstaan onder schip of zeeschip en hetgeen bij of krachtens [artikel 4 van die wet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) wordt verstaan onder een bijzonder transport;  
 
-– *call:* combinatie van een inkomende en uitgaande reis in hetzelfde zeehavengebied;  
+–  *call:* combinatie van een inkomende en uitgaande reis in hetzelfde zeehavengebied;  
 
-– *cluster van zusterschepen:* twee of meer zusterschepen die door dezelfde natuurlijke persoon of rechtspersoon worden geëxploiteerd;  
+–  *cluster van zusterschepen:* twee of meer zusterschepen die door dezelfde natuurlijke persoon of rechtspersoon worden geëxploiteerd;  
 
-– *consortium:* twee of meer zusterschepen die onderdeel vormen van een samenwerkingsverband tussen meerdere natuurlijke personen of rechtspersonen waarin schepen regelmatig volgens een vast lijndienstschema, dat op een voor de sector gebruikelijke wijze bekend is gemaakt, eenzelfde vooraf bepaald zeehavengebied aanlopen;  
+–  *consortium:* twee of meer zusterschepen die onderdeel vormen van een samenwerkingsverband tussen meerdere natuurlijke personen of rechtspersonen waarin schepen regelmatig volgens een vast lijndienstschema, dat op een voor de sector gebruikelijke wijze bekend is gemaakt, eenzelfde vooraf bepaald zeehavengebied aanlopen;  
 
-– *diepgang:* grootste diepgang van een schip of een bijzonder transport gedurende de loodsdienst, bepaald in decimeters, waarbij meer dan een halve decimeter naar boven wordt afgerond en waarbij geen rekening wordt gehouden met een toename van de diepgang als gevolg van onvoorziene schade of een ongeval danwel met een tijdelijke toename van de diepgang ten behoeve van het systeem van het aan boord nemen van lading of direct voorvloeiende uit het doel waarvoor het bijzonder transport wordt uitgevoerd;  
+–  *diepgang:* grootste diepgang van een schip of een bijzonder transport gedurende de loodsdienst, bepaald in decimeters, waarbij meer dan een halve decimeter naar boven wordt afgerond en waarbij geen rekening wordt gehouden met een toename van de diepgang als gevolg van onvoorziene schade of een ongeval danwel met een tijdelijke toename van de diepgang ten behoeve van het systeem van het aan boord nemen van lading of direct voorvloeiende uit het doel waarvoor het bijzonder transport wordt uitgevoerd;  
 
-– *frequentiekorting:* korting op de loodsgeldtarieven als bedoeld in artikel 4.9;  
+–  *frequentiekorting:* korting op de loodsgeldtarieven als bedoeld in artikel 4.9;  
 
-– *inkomende reis:* reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht: 
+–  *inkomende reis:* reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht: 
 
 a. vanaf zee tot de ligplaats op zee in een ankergebied of andere locatie; of  
 
 b. vanaf zee of vanaf de ligplaats op zee in een ankergebied of andere locatie tot de ligplaats in een zeehavengebied;    
 
-– *loodsdienst:* dienst van een registerloods, bedoeld in artikel 2, eerste en tweede lid, van de Loodsenwet;  
+–  *loodsdienst:* dienst van een registerloods, bedoeld in [artikel 2, eerste en tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md);  
 
-– *loodsvergoedingen:* vergoedingen ter dekking van de kosten verbonden aan de situaties genoemd in artikel 4.6, eerste lid;  
+–  *loodsvergoedingen:* vergoedingen ter dekking van de kosten verbonden aan de situaties genoemd in artikel 4.6, eerste lid;  
 
-– *organisatie:* krachtens artikel 15a, tweede lid, van de Scheepvaartverkeerswet aangewezen organisatie;  
+–  *organisatie:* krachtens [artikel 15a, tweede lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) aangewezen organisatie;  
 
-– *rendez-vousreis:* inkomende of uitgaande reis ten behoeve waarvan de loodsdienst begint of eindigt op een daarvoor door de bevoegde autoriteit op zee aanwezen locatie in of nabij de vaargeul die de aanloop vormt tot het betreffende zeehavengebied;  
+–  *rendez-vousreis:* inkomende of uitgaande reis ten behoeve waarvan de loodsdienst begint of eindigt op een daarvoor door de bevoegde autoriteit op zee aanwezen locatie in of nabij de vaargeul die de aanloop vormt tot het betreffende zeehavengebied;  
 
-– *S-tarief:* starttarief als bedoeld in artikel 4.3, derde lid;  
+–  *S-tarief:* starttarief als bedoeld in artikel 4.3, derde lid;  
 
-– *schip:* schip als bedoeld in artikel 1, eerste lid, onderdeel b, van de Scheepvaartverkeerswet of een zeeschip als bedoeld in artikel 1, tweede lid, onderdeel c, van die wet dan wel hetgeen daarmee is gelijkgesteld of uitgezonderd op grond van artikel 1, derde lid, van die wet;  
+–  *schip:* schip als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of een zeeschip als bedoeld in artikel 1, tweede lid, onderdeel c, van die wet dan wel hetgeen daarmee is gelijkgesteld of uitgezonderd op grond van artikel 1, derde lid, van die wet;  
 
-– *T-speciaaltarief:* T-tarief ten behoeve van de situaties, bedoeld in artikel 4.4;  
+–  *T-speciaaltarief:* T-tarief ten behoeve van de situaties, bedoeld in artikel 4.4;  
 
-– *T-tarief:* trajecttarief, bedoeld in artikel 4.3, vierde lid;  
+–  *T-tarief:* trajecttarief, bedoeld in artikel 4.3, vierde lid;  
 
-– *uitgaande reis:* reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht: 
+–  *uitgaande reis:* reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht: 
 
 a. vanaf de ligplaats op zee in een ankergebied of andere locatie, naar zee toe;  
 
 b. vanaf de ligplaats in een zeehavengebied naar zee toe of naar een ligplaats op zee in een ankerplaats of andere locatie;    
 
-– *verhaalreis:* reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht anders dan een inkomende of uitgaande reis;  
+–  *verhaalreis:* reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht anders dan een inkomende of uitgaande reis;  
 
-– *wet:*Loodsenwet;  
+–  *wet:* [Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md);  
 
-– *zee:* Noordzee, de Waddenzee, inclusief de monding van de Eems, het Ranzelgat en het Dukegat en de monding van de Westerschelde inclusief de rede van Vlissingen;  
+–  *zee:* Noordzee, de Waddenzee, inclusief de monding van de Eems, het Ranzelgat en het Dukegat en de monding van de Westerschelde inclusief de rede van Vlissingen;  
 
-– *zeehavengebied:* havengebied van Delfzijl-Eemshaven, Harlingen-Terschelling, Den Helder-Den Oever-Oudeschild, Amsterdam-IJmuiden, Rotterdam-Rijnmond inclusief Dordrecht, Moerdijk en Scheveningen of Scheldemonden;  
+–  *zeehavengebied:* havengebied van Delfzijl-Eemshaven, Harlingen-Terschelling, Den Helder-Den Oever-Oudeschild, Amsterdam-IJmuiden, Rotterdam-Rijnmond inclusief Dordrecht, Moerdijk en Scheveningen of Scheldemonden;  
 
-– *zusterschepen:* schepen die ten opzichte van elkaar voldoen aan de volgende eisen: 
+–  *zusterschepen:* schepen die ten opzichte van elkaar voldoen aan de volgende eisen: 
 
 1°. gelijkheid van type, volgens Lloyd’s Register of Ships;  
 
@@ -80,7 +80,7 @@ b. vanaf de ligplaats in een zeehavengebied naar zee toe of naar een ligplaats o
 
 3°. overeenkomstige uitrusting en inrichting van de brug en de navigatie-instrumenten, en,  
 
-4°. overeenkomende manoeuvreereigenschappen, in het bijzonder ten aanzien van de aanwezigheid van boeg- en hekschroeven en het type en het aantal schroeven en roeren.      
+4°. overeenkomende manoeuvreereigenschappen, in het bijzonder ten aanzien van de aanwezigheid van boeg- en hekschroeven en het type en het aantal schroeven en roeren.     
 
 ### Hoofdstuk  2  
 
@@ -92,27 +92,27 @@ b. vanaf de ligplaats in een zeehavengebied naar zee toe of naar een ligplaats o
 
 ### Artikel  2.1  
 
-Het kostentoerekeningssysteem, bedoeld in artikel 27b van de wet, wordt ingericht overeenkomstig deze paragraaf.  
+Het kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), wordt ingericht overeenkomstig deze paragraaf. 
 
 ### Artikel  2.2  
 
-Kosten die geheel aan een afzonderlijke dienst of taak, bedoeld in artikel 27a van de wet, kunnen worden toegerekend, worden slechts aan de desbetreffende dienst of taak toegerekend.  
+Kosten die geheel aan een afzonderlijke dienst of taak, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), kunnen worden toegerekend, worden slechts aan de desbetreffende dienst of taak toegerekend. 
 
 ### Artikel  2.3  
 
-Kosten die gedeeltelijk aan een dienst of taak, bedoeld in artikel 27a van de wet, en gedeeltelijk aan een of meer andere diensten of taken kunnen worden toegerekend, worden slechts in overeenstemming met het daadwerkelijk gebruik of verbruik toegerekend aan de desbetreffende dienst of taak, bedoeld in artikel 27a van de wet.  
+Kosten die gedeeltelijk aan een dienst of taak, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), en gedeeltelijk aan een of meer andere diensten of taken kunnen worden toegerekend, worden slechts in overeenstemming met het daadwerkelijk gebruik of verbruik toegerekend aan de desbetreffende dienst of taak, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md). 
 
 ### Artikel  2.4  
 
-Kosten die niet kunnen worden toegerekend aan een dienst of taak, bedoeld in artikel 27a van de wet, worden niet in het kostentoerekeningssysteem opgenomen.  
+Kosten die niet kunnen worden toegerekend aan een dienst of taak, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), worden niet in het kostentoerekeningssysteem opgenomen. 
 
 ### Artikel  2.5  
 
-Indien de inkomsten uit andere diensten of taken dan die, bedoeld in artikel 27a van de wet, minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens artikel 27f, eerste en tweede lid, van de wet, en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de artikelen 2.3 en 2.4, de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in artikel 27a van de wet. In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in artikel 27a van de wet toegerekend.  
+Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de artikelen 2.3 en 2.4, de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) toegerekend. 
 
 ### Artikel  2.6  
 
-Kosten gemoeid met de verplichtingen, bedoeld in artikel 26, tweede lid, onder a, van de wet, met de evenredigheid, bedoeld in artikel 26, tweede lid, onder b, van de wet, en met de waarborg, bedoeld in artikel 26, tweede lid, onder c, van de wet, worden toegerekend aan de loodsgeldtarieven.  
+Kosten gemoeid met de verplichtingen, bedoeld in [artikel 26, tweede lid, onder a, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), met de evenredigheid, bedoeld in [artikel 26, tweede lid, onder b, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), en met de waarborg, bedoeld in [artikel 26, tweede lid, onder c, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), worden toegerekend aan de loodsgeldtarieven. 
 
 ### Artikel  2.7  
 
@@ -120,7 +120,7 @@ De volgende kosten worden niet toegerekend:
 
 a. de kosten van goodwill;  
 
-b. verbeurde boetes en dwangsommen.    
+b. verbeurde boetes en dwangsommen.   
 
 ### Artikel  2.8  
 
@@ -130,7 +130,7 @@ a. een beschrijving van de gebruikte methoden van berekening en toerekening van 
 
 b. een vermelding van de rechtspersoon, het samenwerkingsverband of het organisatieonderdeel waaraan de desbetreffende kostenpost toevalt;  
 
-c. zowel een gelijktijdige als een volgtijdelijke toerekening van opbrengsten en kosten.    
+c. zowel een gelijktijdige als een volgtijdelijke toerekening van opbrengsten en kosten.   
 
 ### Artikel  2.9  
 
@@ -139,12 +139,12 @@ c. zowel een gelijktijdige als een volgtijdelijke toerekening van opbrengsten en
 3.  De toerekening van de kosten van duurzame productiemiddelen is gebaseerd op afschrijvingsmethoden en -termijnen die volgens algemeen aanvaarde bedrijfseconomische principes zijn bepaald.   
 4.  Kosten van materiële vaste activa worden berekend op basis van de historische kostprijs. Toerekening vindt plaats vanaf het moment dat deze activa in gebruik worden genomen.   
 5.  De toerekening van niet-duurzame productiemiddelen is gebaseerd op de werkelijke kosten.   
-6.  De berekening van vermogenskosten is gebaseerd op een methode, met inbegrip van de daarvan deel uitmakende parameters, die voldoet aan algemeen aanvaarde bedrijfseconomische principes. De Autoriteit Consument en Markt stelt deze methode en parameters bij besluit vast.   
+6.  De berekening van vermogenskosten is gebaseerd op een methode, met inbegrip van de daarvan deel uitmakende parameters, die voldoet aan algemeen aanvaarde bedrijfseconomische principes. De Autoriteit Consument en Markt stelt deze methode en parameters bij besluit vast.  
 
 ### Artikel  2.10  
 
-1.  De toerekening van de kosten, gemoeid met het loodsen van zeeschepen vindt eerst plaats naar rato van het aantal loodsreizen verricht in elk krachtens artikel 27d, eerste lid, van de wet aangewezen zeehavengebied en vervolgens met inachtneming van de in hoofdstuk 4 vastgestelde maatstaven.   
-2.  Bij de toerekening van de kosten gemoeid met het loodsen van zeeschepen wordt inzicht gegeven in de kosten voor de onderscheiden krachtens artikel VII van de Wet markttoezicht registerloodsen vast te stellen klassen van schepen.   
+1.  De toerekening van de kosten, gemoeid met het loodsen van zeeschepen vindt eerst plaats naar rato van het aantal loodsreizen verricht in elk krachtens [artikel 27d, eerste lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) aangewezen zeehavengebied en vervolgens met inachtneming van de in hoofdstuk 4 vastgestelde maatstaven.   
+2.  Bij de toerekening van de kosten gemoeid met het loodsen van zeeschepen wordt inzicht gegeven in de kosten voor de onderscheiden krachtens artikel VII van de Wet markttoezicht registerloodsen vast te stellen klassen van schepen.  
 
 ### §  2  
 
@@ -152,8 +152,8 @@ c. zowel een gelijktijdige als een volgtijdelijke toerekening van opbrengsten en
 
 ### Artikel  2.11  
 
-1.  De algemene raad zendt een door de ledenvergadering overeenkomstig artikel 27b, eerste lid, van de wet vastgesteld kostentoerekeningssysteem ten minste een jaar voorafgaand aan het tijdstip waarop het van kracht zijnde kostentoerekeningssysteem zijn geldigheid verliest aan de Autoriteit Consument en Markt.   
-2.  Indien de Autoriteit Consument en Markt toepassing geeft aan artikel 27b, zesde lid, van de wet, stelt zij daarbij de termijn vast waarbinnen de ledenvergadering het toerekeningssysteem wijzigt. De algemene raad zendt het door de ledenvergadering vastgestelde kostentoerekeningssysteem binnen een week na de datum van vaststelling aan de Autoriteit Consument en Markt.   
+1.  De algemene raad zendt een door de ledenvergadering overeenkomstig [artikel 27b, eerste lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) vastgesteld kostentoerekeningssysteem ten minste een jaar voorafgaand aan het tijdstip waarop het van kracht zijnde kostentoerekeningssysteem zijn geldigheid verliest aan de Autoriteit Consument en Markt.   
+2.  Indien de Autoriteit Consument en Markt toepassing geeft aan [artikel 27b, zesde lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), stelt zij daarbij de termijn vast waarbinnen de ledenvergadering het toerekeningssysteem wijzigt. De algemene raad zendt het door de ledenvergadering vastgestelde kostentoerekeningssysteem binnen een week na de datum van vaststelling aan de Autoriteit Consument en Markt.  
 
 ### Hoofdstuk  3  
 
@@ -161,7 +161,7 @@ c. zowel een gelijktijdige als een volgtijdelijke toerekening van opbrengsten en
 
 ### Artikel  3.1  
 
-De indexering, bedoeld in artikel 27d, tweede lid, van de wet is het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen per maand inclusief bijzondere beloningen, telkens toe te passen over de periode van 12 maanden, eindigend op de laatste dag van de maand februari van het kalenderjaar voorafgaande aan het kalenderjaar waarvoor een tariefvoorstel als bedoeld in artikel 27c van de wet wordt gedaan.  
+De indexering, bedoeld in [artikel 27d, tweede lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) is het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen per maand inclusief bijzondere beloningen, telkens toe te passen over de periode van 12 maanden, eindigend op de laatste dag van de maand februari van het kalenderjaar voorafgaande aan het kalenderjaar waarvoor een tariefvoorstel als bedoeld in [artikel 27c van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) wordt gedaan. 
 
 ### Hoofdstuk  4  
 
@@ -175,15 +175,15 @@ De indexering, bedoeld in artikel 27d, tweede lid, van de wet is het door het Ce
 
 Een kostengeoriënteerd tarief en een kostengeoriënteerde vergoeding voldoen aan de eis dat de geraamde opbrengst uit het betrokken tarief, onderscheidenlijk de betrokken vergoeding, in een kalenderjaar niet meer bedraagt dan de som van: 
 
-a. de met toepassing van het geldende kostentoerekeningssysteem, bedoeld in artikel 27b, eerste lid, van de wet, aan de desbetreffende dienst of taak toegerekende geraamde kosten;  
+a. de met toepassing van het geldende kostentoerekeningssysteem, bedoeld in [artikel 27b, eerste lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), aan de desbetreffende dienst of taak toegerekende geraamde kosten;  
 
 b. de daaraan toegerekende vermogenskostenvergoeding, en,  
 
-c. de daarbij te verrichten verrekening als bedoeld in artikel 27c, zesde lid, onder i, van de wet.    
+c. de daarbij te verrichten verrekening als bedoeld in [artikel 27c, zesde lid, onder i, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md).   
 
 ### Artikel  4.2  
 
-Een tarief of vergoeding is redelijk in verhouding tot de geleverde dienst.  
+Een tarief of vergoeding is redelijk in verhouding tot de geleverde dienst. 
 
 ### §  2  
 
@@ -195,7 +195,7 @@ Een tarief of vergoeding is redelijk in verhouding tot de geleverde dienst.
 2.  Het S-tarief en het T-tarief worden onderscheiden in een afhankelijk van de diepgang te bepalen tarief voor in- of uitgaande reizen, rendez-vousreizen en verhaalreizen.   
 3.  Het S-tarief strekt ter dekking van de kosten die samenhangen met het bestellen van een loods met uitzondering van de kosten die zijn verbonden aan het gebruik van een helikopter, bedoeld in artikel 4.6, eerste lid, onderdeel f.   
 4.  Het T-tarief strekt ter dekking van de kosten die verbonden zijn aan het tijdens de loodsdienst af te leggen traject. Ter nadere bepaling van het T-tarief worden de zeehavengebieden bij ministeriële regeling, ingedeeld in tariefgebieden waaraan steeds een, afhankelijk van de tijd die een in- of uitgaande reis of rendez-vousreis naar dat tariefgebied gebruikelijk in beslag neemt, tariefkolom wordt verbonden.   
-5.  In afwijking van het vierde lid wordt voor de situaties genoemd in artikel 4.4 een T-speciaaltarief vastgesteld.   
+5.  In afwijking van het vierde lid wordt voor de situaties genoemd in artikel 4.4 een T-speciaaltarief vastgesteld.  
 
 ### Artikel  4.4  
 
@@ -207,7 +207,7 @@ b. indien een schip of een bijzonder transport een inkomende-, uitgaande- of ren
 
 c. indien loodsdienst ten behoeve van een verhaalreis wordt verricht; en  
 
-d. indien loodsdienst ten behoeve van een proefvaart van een schip wordt verricht.    
+d. indien loodsdienst ten behoeve van een proefvaart van een schip wordt verricht.   
 
 ### Artikel  4.5  
 
@@ -225,7 +225,7 @@ e. indien de loods aan boord blijft om ankerwacht te houden of om de wacht te ho
 
 f. indien door omstandigheden bij een inkomende, uitgaande, of rendez-vousreis een langere dan de kortst mogelijke route wordt gevaren; en  
 
-g. indien door omstandigheden bij een verhaalreis een langere dan de kortst mogelijke route wordt gevaren.    
+g. indien door omstandigheden bij een verhaalreis een langere dan de kortst mogelijke route wordt gevaren.   
 
 ### Artikel  4.6  
 
@@ -244,7 +244,7 @@ e. verblijf in quarantaine nadat loodsdienst is verricht op een besmet schip;
 f. gebruik van een helikopter voor het aan boord brengen of van boord halen van een of meer loodsen bij rendez-vousreizen of op verzoek van de kapitein; en  
 
 g. reis- en verblijfkosten buiten het betreffende zeehavengebied.     
-2.  Het tarief van een loodsvergoeding kan bestaan uit een forfaitair bedrag of een uurtarief of in het geval bedoeld in eerste lid, onderdeel g, uit werkelijke kosten. Een loodsvergoeding heeft, met uitzondering van de situatie in het eerste lid, onderdeel f, steeds betrekking op de vergoeding per loods.   
+2.  Het tarief van een loodsvergoeding kan bestaan uit een forfaitair bedrag of een uurtarief of in het geval bedoeld in eerste lid, onderdeel g, uit werkelijke kosten. Een loodsvergoeding heeft, met uitzondering van de situatie in het eerste lid, onderdeel f, steeds betrekking op de vergoeding per loods.  
 
 ### Artikel  4.7  
 
@@ -253,7 +253,7 @@ g. reis- en verblijfkosten buiten het betreffende zeehavengebied.
 
 a. een individueel schip indien dat schip binnen een kalenderjaar de in het schema aangegeven frequentie in calls haalt;  
 
-b. een cluster van zusterschepen of een consortium indien dat cluster of consortium de in het schema aangegeven frequentie in calls binnen een kalenderjaar haalt.     
+b. een cluster van zusterschepen of een consortium indien dat cluster of consortium de in het schema aangegeven frequentie in calls binnen een kalenderjaar haalt.    
 
 ### §  3  
 
@@ -266,7 +266,7 @@ b. een cluster van zusterschepen of een consortium indien dat cluster of consort
 3.  Onverminderd het eerste lid, is bij rendez-vousreizen waarbij gelijktijdig gebruik wordt gemaakt van de diensten van meer dan twee registerloodsen, voor elke extra loods 42,85% van het voor die loodsdienst van toepassing zijnde T-en A-tarief verschuldigd.   
 4.  Onverminderd het eerste lid, is, indien bij een inkomende of uitgaande reis of een verhaalreis gelijktijdig gebruik wordt gemaakt van de diensten van meer dan een loods, voor elke extra loods 75% op het voor die loodsdienst van toepassing zijnde T-en A-tarief verschuldigd.   
 5.  Indien zich de situatie, bedoeld in artikel 4.6, eerste lid, onderdeel a, voordoet wordt in afwijking van het eerste lid, geen S- en T-tarief in rekening gebracht, maar slechts de in dat onderdeel bedoelde loodsvergoeding.   
-6.  In afwijking van het eerste lid, eerste volzin, worden voor inkomende en uitgaande reizen van schepen die zijn opgenomen in het Register loodsplicht kleine zeeschepen, bedoeld in artikel 6, eerste lid, van het Loodsplichtbesluit 1995, die alleen op zee loodsplichtig zijn en waarbij geen loodsdienst aan boord van het schip wordt verricht, het S-verhaaltarief en de eerste kolom van het T-verhaaltarief in rekening gebracht.   
+6.  In afwijking van het eerste lid, eerste volzin, worden voor inkomende en uitgaande reizen van schepen die zijn opgenomen in het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6, eerste lid, van het Loodsplichtbesluit 1995](../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), die alleen op zee loodsplichtig zijn en waarbij geen loodsdienst aan boord van het schip wordt verricht, het S-verhaaltarief en de eerste kolom van het T-verhaaltarief in rekening gebracht.  
 
 ### Artikel  4.9  
 
@@ -276,7 +276,7 @@ b. een cluster van zusterschepen of een consortium indien dat cluster of consort
 4.  De korting wordt verleend met ingang van de eerste dag van het kalenderjaar waarin de aanvraag werd gedaan en kan, zolang aan het derde lid wordt voldaan, op voorschotbasis op het te factureren bedrag in mindering worden gebracht.   
 5.  De afrekening van de frequentiekorting vindt plaats na afloop van het betreffende kalenderjaar, waarbij de eventueel verleende voorschotten worden verrekend.   
 6.  Aan een schip, een cluster van zusterschepen of een consortium aan wie voor 1 januari 2014 of op grond van het tweede lid, frequentiekorting is verleend wordt, zolang aan het tweede lid wordt voldaan, steeds zonder dat daartoe een nieuwe aanvraag als bedoeld in het tweede lid hoeft te worden ingediend, frequentiekorting verleend.   
-7.  De organisatie kan nadere inlichtingen vragen ten behoeve van het verlenen van frequentiekorting.   
+7.  De organisatie kan nadere inlichtingen vragen ten behoeve van het verlenen van frequentiekorting. 
 
 ### §  4  
 
@@ -286,17 +286,17 @@ b. een cluster van zusterschepen of een consortium indien dat cluster of consort
 
 1.  Een voorstel van de algemene raad met betrekking tot de loodsgeldtarieven wordt door de algemene raad uiterlijk 15 juli van het jaar voorafgaand aan het jaar waarop die tarieven betrekking hebben aan de Autoriteit Consument en Markt gezonden. De Autoriteit Consument en Markt kan op verzoek van de algemene raad een latere datum vaststellen.   
 2.  De Autoriteit Consument en Markt neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in het eerste lid een beslissing op dat voorstel.   
-3.  Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in artikel 27b van de wet, en dat de bijbehorende ramingen correct zijn opgesteld.   
+3.  Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), en dat de bijbehorende ramingen correct zijn opgesteld.  
 
 ### Artikel  4.11  
 
 1.  Een voorstel van de algemene raad met betrekking tot andere tarieven dan de loodsgeldtarieven wordt door de algemene raad ten minste zeventien weken voorafgaand aan de beoogde datum van inwerkingtreding aan de Autoriteit Consument en Markt gezonden.   
-2.  Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in artikel 27b van de wet.   
+2.  Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md).  
 
 ### Artikel  4.12  
 
-1.  De Autoriteit Consument en Markt stelt in een uitnodiging als bedoeld in artikel 27h, derde lid, van de wet een termijn vast waarbinnen een voorstel als bedoeld in dat lid wordt gedaan.   
-2.  De Autoriteit Consument en Markt neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in artikel 27h, derde lid, van de wet een beslissing op dat voorstel.   
+1.  De Autoriteit Consument en Markt stelt in een uitnodiging als bedoeld in [artikel 27h, derde lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) een termijn vast waarbinnen een voorstel als bedoeld in dat lid wordt gedaan.   
+2.  De Autoriteit Consument en Markt neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in [artikel 27h, derde lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md) een beslissing op dat voorstel.  
 
 ### Hoofdstuk  5  
 
@@ -304,11 +304,11 @@ b. een cluster van zusterschepen of een consortium indien dat cluster of consort
 
 ### Artikel  5.1  
 
-De financiële verantwoording en de verantwoording over het gerealiseerde kwaliteitsniveau, bedoeld in artikel 27j van de wet, zijn zodanig ingericht dat zij geschikt zijn voor nacalculatorisch gebruik.  
+De financiële verantwoording en de verantwoording over het gerealiseerde kwaliteitsniveau, bedoeld in [artikel 27j van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), zijn zodanig ingericht dat zij geschikt zijn voor nacalculatorisch gebruik. 
 
 ### Artikel  5.2  
 
-De financiële verantwoording, bedoeld in artikel 27j, eerste lid, van de wet, wordt opgesteld in overeenstemming met het kostentoerekeningssysteem, bedoeld in artikel 27b van de wet.  
+De financiële verantwoording, bedoeld in [artikel 27j, eerste lid, van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md), wordt opgesteld in overeenstemming met het kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](../../../../../wet/loodsenwet/BWBR0004365/README.md). 
 
 ### Hoofdstuk  6  
 
@@ -316,7 +316,7 @@ De financiële verantwoording, bedoeld in artikel 27j, eerste lid, van de wet, w
 
 ### Artikel  6.1  
 
-De artikelen 1.1 en 4.3 tot en met 4.20, zoals deze artikelen op 30 juni 2013 luidden, blijven van toepassing op de voor het jaar 2013 vastgestelde loodsgeldtarieven, kortingen en loodsvergoedingen voor loodsdiensten die in de periode 1 juli 2013 tot en met 31 december 2013 worden geleverd en op tegen de voor het jaar 2013 vastgestelde loodsgeldtarieven, kortingen en loodsvergoedingen ingediende bezwaar- en beroepschriften.  
+De artikelen 1.1 en 4.3 tot en met 4.20, zoals deze artikelen op 30 juni 2013 luidden, blijven van toepassing op de voor het jaar 2013 vastgestelde loodsgeldtarieven, kortingen en loodsvergoedingen voor loodsdiensten die in de periode 1 juli 2013 tot en met 31 december 2013 worden geleverd en op tegen de voor het jaar 2013 vastgestelde loodsgeldtarieven, kortingen en loodsvergoedingen ingediende bezwaar- en beroepschriften. 
 
 ### Hoofdstuk  7  
 
@@ -324,11 +324,11 @@ De artikelen 1.1 en 4.3 tot en met 4.20, zoals deze artikelen op 30 juni 2013 l
 
 ### Artikel  7.1  
 
-Dit besluit treedt in werking met ingang van 1 januari 2008.  
+Dit besluit treedt in werking met ingang van 1 januari 2008. 
 
 ### Artikel  7.2  
 
-Dit besluit wordt aangehaald als: Besluit markttoezicht registerloodsen.  
+Dit besluit wordt aangehaald als: Besluit markttoezicht registerloodsen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

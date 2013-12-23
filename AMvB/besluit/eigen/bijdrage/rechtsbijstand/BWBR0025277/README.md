@@ -20,13 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *wet:*[Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+*diagnosedocument:* een schriftelijk document, opgesteld in het kader van de verlening van rechtshulp door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), waarin is opgenomen een analyse van het juridisch probleem en een advies over dat probleem, met zo nodig een verwijzing naar ter zake doende instanties en rechtsbijstandverleners;  
 
-b. *eigen bijdrage:* eigen bijdrage, bedoeld in [artikel 35, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+*draagkracht:* draagkracht zoals die overeenkomstig de [wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) wordt berekend;  
 
-c. *draagkracht:* draagkracht zoals die overeenkomstig de [wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) wordt berekend;  
+*eigen bijdrage:* eigen bijdrage, bedoeld in [artikel 35, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
 
-d. *diagnosedocument:* een schriftelijk document, opgesteld in het kader van de verlening van rechtshulp door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), waarin is opgenomen een analyse van het juridisch probleem en een advies over dat probleem, met zo nodig een verwijzing naar ter zake doende instanties en rechtsbijstandverleners.    
+*opvolgend deskundigenoordeel:* het oordeel van een opvolgend rechtsbijstandverlener als bedoeld in de [artikelen 9](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en [20 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) over een zaak waarvoor een toevoeging is verleend aan een andere rechtsbijstandverlener die niet werkzaam is in hetzelfde samenwerkingsverband, met als doel de twijfel die de rechtzoekende heeft over het oordeel van die andere rechtsbijstandverlener weg te nemen;  
+
+*wet:* [Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -34,37 +36,37 @@ d. *diagnosedocument:* een schriftelijk document, opgesteld in het kader van de 
 
 ### Artikel  2  
 
-1.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen: 
+1.  Onverminderd het bepaalde in artikel 2a, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen: 
 
-a. € 125,– per 1 januari 2013: € 129, indien het inkomen niet hoger is dan € 16 800,– per 1 januari 2013: € 17.700;  
+a. € 193,– per 1 januari 2014: € 196, indien het inkomen niet hoger is dan € 17.700,–per 1 januari 2014: € 18.000;  
 
-b. € 183,– per 1 januari 2013: € 188, indien het inkomen meer dan € 16 800,– per 1 januari 2013: € 17.700 en ten hoogste € 17 300,– per 1 januari 2013: € 18.400 bedraagt;  
+b. € 355,– per 1 januari 2014: € 360, indien het inkomen meer dan € 17.700,–per 1 januari 2014: € 18.000 en ten hoogste € 18.400,– per 1 januari 2014: € 18.700bedraagt;  
 
-c. € 297,– per 1 januari 2013: € 305, indien het inkomen meer dan € 17 300,– per 1 januari 2013: € 18.400 en ten hoogste € 18 200,– per 1 januari 2013: € 19.400 bedraagt;  
+c. € 507,– per 1 januari 2014: € 514, indien het inkomen meer dan € 18.400,–per 1 januari 2014: € 18.700 en ten hoogste € 19.400,– per 1 januari 2014: € 19.700bedraagt;  
 
-d. € 503,– per 1 januari 2013: € 516, indien het inkomen meer dan € 18 200,– per 1 januari 2013: € 19.400 en ten hoogste € 20 000,– per 1 januari 2013: € 21.300 bedraagt; en  
+d. € 659,– per 1 januari 2014: € 669, indien het inkomen meer dan € 19.400,–per 1 januari 2014: € 19.700 en ten hoogste € 21.300,– per 1 januari 2014: € 21.600bedraagt; en  
 
-e. € 775,– per 1 januari 2013: € 796, indien het inkomen meer dan € 20 000,– per 1 januari 2013: € 21.300 en ten hoogste € 23 800,– per 1 januari 2013: € 25.200 bedraagt.     
-2.  De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt in andere gevallen: 
+e. € 811,– per 1 januari 2014: € 823, indien het inkomen meer dan € 21.300,–per 1 januari 2014: € 21.600 en ten hoogste € 25.200,– per 1 januari 2014: € 25.600bedraagt.     
+2.  Onverminderd het bepaalde in artikel 2a, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging in andere gevallen: 
 
-a. € 125,– per 1 januari 2013: € 129, indien het inkomen niet hoger is dan € 23 400,– per 1 januari 2013: € 24.800;  
+a. € 193,– per 1 januari 2014: € 196, indien het inkomen niet hoger is dan € 24.800,–per 1 januari 2014: € 25.200;  
 
-b. € 183,– per 1 januari 2013: € 188, indien het inkomen meer dan € 23 400,– per 1 januari 2013: € 24.800 en ten hoogste € 24 200,– per 1 januari 2013: € 25.700 bedraagt;  
+b. € 355,– per 1 januari 2014: € 360, indien het inkomen meer dan € 24.800,–per 1 januari 2014: € 25.200 en ten hoogste € 25.700,–per 1 januari 2014: € 26.100 bedraagt;  
 
-c. € 297,– per 1 januari 2013: € 305, indien het inkomen meer dan € 24 200,– per 1 januari 2013: € 25.700 en ten hoogste € 25 500,– per 1 januari 2013: € 27.000 bedraagt;  
+c. € 507,– per 1 januari 2014: € 514, indien het inkomen meer dan € 25.700,–per 1 januari 2014: € 26.100 en ten hoogste € 27.000,–per 1 januari 2014: € 27.400 bedraagt;  
 
-d. € 503,– per 1 januari 2013: € 516, indien het inkomen meer dan € 25 500,– per 1 januari 2013: € 27.000 en ten hoogste € 28 300,– per 1 januari 2013: € 30.100 bedraagt; en  
+d. € 659,– per 1 januari 2014: € 669, indien het inkomen meer dan € 27.000,–per 1 januari 2014: € 27.400 en ten hoogste € 30.100,–per 1 januari 2014: € 30.500 bedraagt; en  
 
-e. € 775,– per 1 januari 2013: € 796, indien het inkomen meer dan € 28 300,– per 1 januari 2013: € 30.100 en ten hoogste € 33 600,– per 1 januari 2013: € 35.600 bedraagt.     
-3.  In afwijking van het eerste onderscheidenlijk tweede lid bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies, in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen onderscheidenlijk in andere gevallen: 
+e. € 811,– € 823, indien het inkomen meer dan € 30.100,–per 1 januari 2014: € 30.500 en ten hoogste € 35.600,–per 1 januari 2014: € 36.100 bedraagt.    
+3.  In afwijking van het eerste onderscheidenlijk tweede lid en artikel 2a bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies, in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen onderscheidenlijk in andere gevallen: 
 
-a. € 39,– per 1 januari 2013: € 42, indien het inkomen ten hoogste € 17 300,– per 1 januari 2013: € 18.400 onderscheidenlijk ten hoogste € 24 200,– per 1 januari 2013: € 25.700 bedraagt; en  
+a. € 76,–per 1 januari 2014: € 77, indien het inkomen ten hoogste € 18 400,–per 1 januari 2014: € 18.700 onderscheidenlijk ten hoogste € 25 700,–per 1 januari 2014: € 26.100 bedraagt; en  
 
-b. € 72,– per 1 januari 2013: € 77, indien het inkomen meer dan € 17 300,– per 1 januari 2013: € 18.400 en ten hoogste € 23 800,– per 1 januari 2013: € 25.200 onderscheidenlijk meer dan € 24 200,– per 1 januari 2013: € 25.700 en ten hoogste € 33 600,– per 1 januari 2013: € 35.600 bedraagt.     
+b. € 127,–per 1 januari 2014: € 129, indien het inkomen meer dan € 18 400,–per 1 januari 2014: € 18.700 en ten hoogste € 25 200,–per 1 januari 2014: € 25.600 onderscheidenlijk meer dan € 25 700,–per 1 januari 2014: € 26.100 en ten hoogste € 35 600,–per 1 januari 2014: € 36.100 bedraagt.     
 4.  Indien een natuurlijk persoon blijkens een betalingsbewijs de eigen bijdrage, bedoeld in het derde lid, heeft voldaan, wordt deze in mindering gebracht op de eigen bijdrage die hij in geval van een wijziging van de toevoeging als bedoeld in [artikel 24a, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) overeenkomstig het eerste of tweede lid voor de verlening van rechtsbijstand op basis van een toevoeging is verschuldigd.   
-5.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 775,– per 1 januari 2013: € 796.   
-6.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52. verlaagd.   
-7.  In afwijking van het zesde lid wordt de eigen bijdrage, die een natuurlijke persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, verlaagd met € 50,– per 1 januari 2013: € 52 indien de rechtsbijstand wordt verleend: 
+5.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 811,–per 1 januari 2014: € 823.   
+6.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52.per 1 januari 2014: € 53verlaagd.   
+7.  In afwijking van het zesde lid wordt de eigen bijdrage, die een natuurlijke persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, verlaagd met € 50,– per 1 januari 2013: € 52per 1 januari 2014: € 53 indien de rechtsbijstand wordt verleend: 
 
 a. in een strafzaak in eerste aanleg jegens een verdachte als bedoeld in [artikel 1, onderdeel d, van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md);  
 
@@ -79,16 +81,57 @@ e. bij het inbrengen van een zienswijze tegen het voornemen om een verblijfsverg
 f. in een zaak omtrent het opleggen van een sanctie als bedoeld in [artikel 5:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
 g. in een zaak in hoger beroep of cassatie.     
-8.  Het bestuur kan beslissen om de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het zesde lid alvorens een toevoeging aan te vragen.   
+8.  Het bestuur kan beslissen om de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2014: € 53 te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het zesde lid alvorens een toevoeging aan te vragen.  
+9.  In de gevallen bedoeld in de artikelen 2b en 2c, vindt de verlaging van de eigen bijdrage, genoemd in het zesde, zevende en achtste lid, geen toepassing. 
+
+### Artikel  2a  
+
+1.  In afwijking van artikel 2, eerste tot en met derde lid, is een natuurlijk persoon een hogere eigen bijdrage verschuldigd indien de toevoeging ziet op de verlening van rechtsbijstand bij verzoeken die voortkomen uit de verbreking van een huwelijkse of niet-huwelijkse relatie en gegrond zijn op [Titel 5A tot en met 10](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [14, afdelingen 1 tot en met 3a](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [5](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [6](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [15](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [17, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+2.  In de gevallen genoemd in het eerste lid, bedraagt de eigen bijdrage die een natuurlijk persoon, verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen: 
+
+a. € 335,– per 1 januari 2014: € 340, indien het inkomen niet hoger is dan € 17.700,–per 1 januari 2014: € 18.000;  
+
+b. € 406,– per 1 januari 2014: € 412, indien het inkomen meer dan € 17.700,–per 1 januari 2014: € 18.000 en ten hoogste € 18.400,–per 1 januari 2014: € 18.700 bedraagt;  
+
+c. € 558,– per 1 januari 2014: € 566, indien het inkomen meer dan € 18.400,–per 1 januari 2014: € 18.700 en ten hoogste € 19.400,–per 1 januari 2014: € 19.700 bedraagt;  
+
+d. € 710,– per 1 januari 2014: € 720, indien het inkomen meer dan € 19.400,–per 1 januari 2014: € 19.700 en ten hoogste € 21.300,–per 1 januari 2014: € 21.600 bedraagt; en  
+
+e. € 837,– per 1 januari 2014: € 849, indien het inkomen meer dan € 21.300,–per 1 januari 2014: € 21.600 en ten hoogste € 25.200,–per 1 januari 2014: € 25.600 bedraagt.     
+3.  In de gevallen genoemd in het eerste lid, bedraagt de eigen bijdrage die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging in andere gevallen: 
+
+a. € 335,– per 1 januari 2014: € 340, indien het inkomen niet hoger is dan € 24.800,–per 1 januari 2014: € 25.200;  
+
+b. € 406,– per 1 januari 2014: € 412, indien het inkomen meer dan € 24.800,–per 1 januari 2014: € 25.200 en ten hoogste € 25.700,–per 1 januari 2014: € 26.100 bedraagt;  
+
+c. € 558,– per 1 januari 2014: € 566, indien het inkomen meer dan € 25.700,–per 1 januari 2014: € 26.100 en ten hoogste € 27.000,–per 1 januari 2014: € 27.400 bedraagt;  
+
+d. € 710,– per 1 januari 2014: € 720, indien het inkomen meer dan € 27.000,–per 1 januari 2014: € 27.400 en ten hoogste € 30.100,–per 1 januari 2014: € 30.500 bedraagt; en  
+
+e. € 837,– per 1 januari 2014: € 849, indien het inkomen meer dan € 30.100,–per 1 januari 2014: € 30.500 en ten hoogste € 35.600,–per 1 januari 2014: € 36.100 bedraagt.     
+4.  In afwijking van het tweede onderscheidenlijk derde lid bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies, in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen onderscheidenlijk in andere gevallen: 
+
+a. € 106,– per 1 januari 2014: € 108, indien het inkomen ten hoogste € 18.400,–per 1 januari 2014: € 18.700 onderscheidenlijk ten hoogste € 25.700,–per 1 januari 2014: € 26.100 bedraagt; en  
+
+b. € 140,– per 1 januari 2014: € 142, indien het inkomen meer dan € 18.400,–per 1 januari 2014: € 18.700 en ten hoogste € 25.200,–per 1 januari 2014: € 25.600 onderscheidenlijk meer dan € 25.700,–per 1 januari 2014: € 26.100 en ten hoogste € 35.600,–per 1 januari 2014: € 36.100 bedraagt.     
+5.  Het bestuur kan beslissen om de op grond van het tweede of derde lid verschuldigde eigen bijdrage te verlagen naar de eigen bijdrage die verschuldigd is op grond van artikel 2, eerste of tweede lid, indien van de rechtzoekende, gelet op diens financiële situatie, redelijkerwijs niet kan worden verlangd dat de rechtzoekende de hogere eigen bijdrage betaalt voor een toevoeging op grond van het eerste lid.  
+
+### Artikel  2b  
+
+Met inachtneming van artikel 2, negende lid, is de rechtzoekende ingeval van een opvolgend deskundigenoordeel opnieuw een eigen bijdrage verschuldigd die gelijk is aan de eigen bijdrage die de rechtzoekende verschuldigd is ten behoeve van de toevoeging, tenzij het bestuur op grond van artikel 6, eerste of tweede lid, geen eigen bijdrage heeft opgelegd. In laatstgenoemde gevallen is artikel 6, derde lid van toepassing. 
+
+### Artikel  2c  
+
+Indien [artikel 13](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) of [22 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) van toepassing is, is de rechtzoekende, met inachtneming van artikel 2, negende lid, opnieuw een eigen bijdrage verschuldigd waarvan de hoogte gelijk is aan de eigen bijdrage die de rechtzoekende verschuldigd is voor de toevoeging, tenzij het bestuur op grond van artikel 6, eerste of tweede lid, geen eigen bijdrage heeft opgelegd. 
 
 ### Artikel  3  
 
-1.  De inkomensgrenzen, bedoeld in artikel 2, eerste tot en met derde lid, de hoogten van de eigen bijdragen, bedoeld in de artikelen 2 en 4, alsmede het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen en het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](../../../../../../AMvB/besluit/omschrijving/indexcijfer/BWBR0009721/README.md) is van overeenkomstige toepassing.   
-2.  Onze Minister maakt jaarlijks de geïndexeerde bedragen, bedoeld in het eerste lid, bekend door publicatie in de Staatscourant.   
+1.  De inkomensgrenzen, bedoeld in artikel 2, eerste tot en met derde lid, en artikel 2a, tweede tot en met vierde lid, de hoogten van de eigen bijdragen, bedoeld in de artikelen 2, 2a, tweede tot en met vierde lid, en 4, alsmede het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen en het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](../../../../../../AMvB/besluit/omschrijving/indexcijfer/BWBR0009721/README.md) is van overeenkomstige toepassing.   
+2.  Onze Minister maakt jaarlijks de geïndexeerde bedragen, bedoeld in het eerste lid, bekend door publicatie in de Staatscourant.  
 
 ### Artikel  4  
 
-1.  In afwijking van artikel 2, eerste en tweede lid, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, 125,– per 1 januari 2013: € 129, indien het gaat om de verlening van rechtsbijstand: 
+1. In afwijking van artikel 2, eerste en tweede lid, en artikel 2a, tweede en derde lid, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, 193,–, indien het gaat om de verlening van rechtsbijstand: 
 
 a. in hoger beroep tegen de afwijzing van het verzoek om toepassing van de schuldsaneringsregeling, bedoeld in [artikel 292 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
@@ -108,20 +151,14 @@ d. in de periode gedurende welke een schriftelijk vastgelegd akkoord met betrekk
 
 5°. de termijn gedurende welke het saneringsplan van kracht is, met een maximum van drie jaar; en  
 
-6°. dat, indien een organisatie de sanering begeleidt, deze organisatie telkens na verloop van zes maanden ten behoeve van de schuldeisers een verslag uitbrengt over de uitvoering van het saneringsplan alsmede een voorstel doet voor de aanpassing van het bedrag dat buiten de boedel wordt gelaten.       
+6°. dat, indien een organisatie de sanering begeleidt, deze organisatie telkens na verloop van zes maanden ten behoeve van de schuldeisers een verslag uitbrengt over de uitvoering van het saneringsplan alsmede een voorstel doet voor de aanpassing van het bedrag dat buiten de boedel wordt gelaten.      
 2.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 verlaagd.   
-3.  Het bestuur kan beslissen om de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het tweede lid alvorens een toevoeging aan te vragen.   
-
-### Artikel  5  
-
-1.  Indien binnen zes maanden na verlening van een toevoeging ten behoeve van rechtsbijstand aan een natuurlijk persoon, onder oplegging van een eigen bijdrage als bedoeld in artikel 2, eerste of tweede lid, of artikel 4, een of meer toevoegingen ten behoeve van rechtsbijstand worden verleend aan dezelfde persoon of aan degene met wie hij een gezamenlijke huishouding voerde op het moment van verlening van eerstgenoemde toevoeging, bedraagt de eigen bijdrage bij de eerstvolgende en de twee daaropvolgende toevoegingen ten behoeve van rechtsbijstand binnen genoemde termijn van zes maanden, vijftig procent van de eerst opgelegde eigen bijdrage.   
-2.  Voor de toepasselijkheid van het eerste lid wordt met toevoegingen waarbij geen eigen bijdrage wordt opgelegd geen rekening gehouden. Met toevoegingen die zijn verleend aan degene die met de natuurlijk persoon een gezamenlijke huishouding voert, wordt voor de toepasselijkheid van het eerste lid alleen rekening gehouden, indien deze persoon hierom verzoekt en het een zaak betreft waarin geen onderling tegenstrijdige belangen aan de orde zijn.   
-3.  Indien de eigen bijdrage bij een volgende toevoeging ten behoeve van rechtsbijstand zonder toepassing van het in het eerste lid bedoelde kortingspercentage lager is dan met toepassing van dit percentage, legt het bestuur de laagste eigen bijdrage op. De termijn van zes maanden, bedoeld in het eerste lid, vangt in dit geval aan op het moment van verlening van de toevoeging waarbij de laagste eigen bijdrage is opgelegd. De tweede volzin is niet van toepassing indien de volgende toevoeging, bedoeld in de eerste volzin, een toevoeging ten behoeve van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies betreft.   
-4.  Voor de toepasselijkheid van het eerste lid is vereist dat aan de natuurlijk persoon als bedoeld in het eerste lid langs schriftelijke weg of in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md). De eerste volzin is niet van toepassing op zaken als bedoeld in artikel 2, zevende en achtste lid.   
+3.  Het bestuur kan beslissen om de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het tweede lid alvorens een toevoeging aan te vragen.  
+4.  In de gevallen bedoeld in de artikelen 2b en 2c, vindt de verlaging bedoeld in het tweede lid geen toepassing. 
 
 ### Artikel  5a  
 
-Indien een toevoeging ten behoeve van rechtsbijstand wordt verleend in een zaak waarin reeds een toevoeging ten behoeve van mediation is verleend, wordt op de eigen bijdrage, die de rechtzoekende voor de verlening van rechtsbijstand verschuldigd is, het bedrag dat de rechtzoekende als eigen bijdrage voor de verlening van mediation verschuldigd was in mindering gebracht.  
+Indien een toevoeging ten behoeve van rechtsbijstand wordt verleend in een zaak waarin reeds een toevoeging ten behoeve van mediation is verleend, wordt op de eigen bijdrage, die de rechtzoekende voor de verlening van rechtsbijstand verschuldigd is, het bedrag dat de rechtzoekende als eigen bijdrage voor de verlening van mediation verschuldigd was in mindering gebracht.
 
 ### Artikel  6  
 
@@ -135,12 +172,13 @@ c. personen die een vordering in kort geding instellen tegen een beslissing als 
 
 d. minderjarigen ten behoeve van wie een bijzonder curator als bedoeld in [artikel 250 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is benoemd; en  
 
-e. echtgenoten als bedoeld in [artikel 817, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).     
+e. echtgenoten als bedoeld in [artikel 817, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).    
 2.  Het bestuur kan beslissen om geen eigen bijdrage op te leggen in geval van een toevoeging ten behoeve van rechtsbijstand, indien de rechtzoekende geen inkomen of vermogen heeft.   
+3.  Met inachtneming van artikel 2, negende lid, legt in afwijking van het eerste en tweede lid, het bestuur de laagste eigen bijdrage bedoeld in de artikelen 2, eerste en tweede lid, en 2a, tweede en derde lid, op indien een opvolgend deskundigenoordeel wordt gevraagd. 
 
 ### Artikel  7  
 
-De rechtzoekende is geen eigen bijdrage verschuldigd voor de verlening van rechtshulp.  
+De rechtzoekende is geen eigen bijdrage verschuldigd voor de verlening van rechtshulp. 
 
 ### Hoofdstuk  3  
 
@@ -154,15 +192,15 @@ a. de minderjarige 16 jaar of ouder en uitwonend is;
 
 b. de minderjarige thuiswonend is en de ouder of ouders geen kinderbijslag voor hem ontvangen; of  
 
-c. de rechtsbijstand waarvoor de toevoeging wordt aangevraagd betrekking heeft op een geschil van de minderjarige met de ouder of ouders.    
+c. de rechtsbijstand waarvoor de toevoeging wordt aangevraagd betrekking heeft op een geschil van de minderjarige met de ouder of ouders.   
 
 ### Artikel  9  
 
-Indien de rechtzoekende een rechtspersoon is, kan hij bij de indiening van de aanvraag om een toevoeging ten behoeve van rechtsbijstand volstaan met het overleggen van de meest recente jaarrekening. Het bestuur kan verlangen dat de rechtspersoon in aanvulling hierop andere bescheiden overlegt.  
+Indien de rechtzoekende een rechtspersoon is, kan hij bij de indiening van de aanvraag om een toevoeging ten behoeve van rechtsbijstand volstaan met het overleggen van de meest recente jaarrekening. Het bestuur kan verlangen dat de rechtspersoon in aanvulling hierop andere bescheiden overlegt. 
 
 ### Artikel  10  
 
-Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvraag om een toevoeging is gedaan, bedoeld in [artikel 34c, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), binnen de grenzen, genoemd in [artikel 34, eerste en tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), valt, maar de terugval in het inkomen of vermogen, bedoeld in [artikel 34c, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), minder dan 15% bedraagt, wordt hem door het bestuur desondanks een toevoeging ten behoeve van rechtsbijstand verleend.  
+Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvraag om een toevoeging is gedaan, bedoeld in [artikel 34c, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), binnen de grenzen, genoemd in [artikel 34, eerste en tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), valt, maar de terugval in het inkomen of vermogen, bedoeld in [artikel 34c, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), minder dan 15% bedraagt, wordt hem door het bestuur desondanks een toevoeging ten behoeve van rechtsbijstand verleend. 
 
 ### Hoofdstuk  4  
 
@@ -170,15 +208,15 @@ Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvra
 
 ### Artikel  11  
 
-Het [Besluit draagkrachtcriteria rechtsbijstand](../../../../../../AMvB/besluit/draagkrachtcriteria/rechtsbijstand/BWBR0006405/README.md) wordt ingetrokken.  
+Het [Besluit draagkrachtcriteria rechtsbijstand](../../../../../../AMvB/besluit/draagkrachtcriteria/rechtsbijstand/BWBR0006405/README.md) wordt ingetrokken.
 
 ### Artikel  12  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Besluit eigen bijdrage rechtsbijstand.  
+Dit besluit wordt aangehaald als: Besluit eigen bijdrage rechtsbijstand. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
