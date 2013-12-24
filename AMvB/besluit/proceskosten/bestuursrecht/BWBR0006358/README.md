@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Een veroordeling in de kosten als bedoeld in [artikel 8:75](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk een vergoeding van de kosten als bedoeld in [artikel 7:15, tweede lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of [7:28, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan uitsluitend betrekking hebben op: 
+Een veroordeling in de kosten als bedoeld in [artikel 8:75](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk een vergoeding van de kosten als bedoeld in [artikel 7:15, tweede lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of [7:28, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan uitsluitend betrekking hebben op:  
 
 a. kosten van door een derde beroepsmatig verleende rechtsbijstand,  
 
@@ -23,15 +23,15 @@ b. kosten van een getuige, deskundige of tolk die door een partij of een belangh
 
 c. reis- en verblijfkosten van een partij of een belanghebbende,  
 
-d. verletkosten van een partij of een belanghebbende,  
+d. verletkosten van een partij of een belanghebbende,   
 
 e. kosten van uittreksels uit de openbare registers, telegrammen, internationale telexen, internationale telefaxen en internationale telefoongesprekken, en  
 
-f. kosten van het als gemachtigde optreden van een arts in zaken waarin enig wettelijk voorschrift verplicht tot tussenkomst van een gemachtigde die arts is.    
+f. kosten van het als gemachtigde optreden van een arts in zaken waarin enig wettelijk voorschrift verplicht tot tussenkomst van een gemachtigde die arts is.   
 
 ### Artikel  2  
 
-1.  Het bedrag van de kosten wordt bij de uitspraak, onderscheidenlijk de beslissing op het bezwaar of het administratief beroep als volgt vastgesteld: 
+1.  Het bedrag van de kosten wordt bij de uitspraak, onderscheidenlijk de beslissing op het bezwaar of het administratief beroep als volgt vastgesteld:  
 
 a. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel a: overeenkomstig het in de bijlage opgenomen tarief;  
 
@@ -39,26 +39,26 @@ b. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel b: op de vergoedin
 
 c. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel c: overeenkomstig [artikel 11, eerste lid, onderdeel c, van het Besluit tarieven in strafzaken 2003](../../../../../AMvB/besluit/tarieven/in/strafzaken/2003/BWBR0015481/README.md);  
 
-d. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel d: overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen € 7 en € 78 per uur bedraagt;  
+d. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel d: overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen € 7 en € 78 per 1 januari 2014: € 80 per uur bedraagt;  
 
 e. ten aanzien van de kosten, bedoeld in artikel 1, onder e: op de werkelijke kosten,  
 
-f. ten aanzien van de kosten, bedoeld in artikel 1, onder f: met overeenkomstige toepassing van het in de bijlage opgenomen tarief, met dien verstande dat slechts de helft van het aantal uit de bijlage voortvloeiende punten wordt toegekend.     
+f. ten aanzien van de kosten, bedoeld in artikel 1, onder f: met overeenkomstige toepassing van het in de bijlage opgenomen tarief, met dien verstande dat slechts de helft van het aantal uit de bijlage voortvloeiende punten wordt toegekend.      
 2.  Indien een partij of een belanghebbende gedeeltelijk in het gelijk is gesteld, kan het op grond van het eerste lid vastgestelde bedrag worden verminderd. Het op grond van het eerste lid vastgestelde bedrag kan eveneens worden verminderd indien het beroep bij de bestuursrechter is ingetrokken omdat gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen.   
-3.  In bijzondere omstandigheden kan van het eerste lid worden afgeweken.   
+3.   In bijzondere omstandigheden kan van het eerste lid worden afgeweken.  
 
 ### Artikel  3  
 
 1.  Samenhangende zaken worden voor de toepassing van artikel 2, eerste lid, onder a, beschouwd als één zaak.   
-2.  Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in artikel 1, onderdeel a, is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.   
+2.   Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in artikel 1, onderdeel a, is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.  
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 januari 1994.  
+Dit besluit treedt in werking met ingang van 1 januari 1994. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit proceskosten bestuursrecht.  
+Dit besluit wordt aangehaald als: Besluit proceskosten bestuursrecht. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
@@ -87,7 +87,7 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 
 ### A  
 
-####Punten per proceshandeling
+#### Punten per proceshandeling
 
 ### A1  
 
@@ -96,42 +96,42 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 |--- |--- |  *punten*   |
 |:---|:---|:---|
 |  *beroep en hoger beroep*   |
-| 1.  | beroepschrift/verweerschrift (artikel 6:4; 8:42)  | 1  |
-| 2.  | schriftelijk commentaar op conclusie (8:12a, vijfde lid)  | 0,5  |
-| 3.  | repliek/dupliek (8:43, eerste lid) / schriftelijke uiteenzetting (8:43, tweede lid)  | 0,5  |
-| 4.  | verschijnen (inlichtingen)comparitie (8:44)  | 0,5  |
-| 5.  | schriftelijke inlichtingen (8:45, eerste lid)  | 0,5  |
-| 6.  | schriftelijke zienswijze na inlichtingen of advies Europese Commissie (8:45, zesde lid)  | 0,5  |
-| 7.  | bijwonen mondelinge opmerkingen Europese Commissie of raad van bestuur Nederlandse Mededingingsautoriteit (8:45a, tweede lid)  | 0,5  |
-| 8.  | schriftelijke zienswijze na opmerkingen Europese Commissie of raad van bestuur Nederlandse Mededingingsautoriteit (8:45a, vierde lid)  | 0,5  |
-| 9.  | bijwonen getuigenverhoor (8:46)  | 0,5  |
-| 10.  | schriftelijke zienswijze na verslag deskundigenonderzoek (8:47, vijfde lid)  | 0,5  |
-| 11.  | bijwonen onderzoek ter plaatse (8:50, derde lid)  | 0,5  |
-| 12.  | schriftelijke zienswijze na bestuurlijke lus (8:51b, derde lid)  | 0,5  |
-| 13.  | verschijnen zitting (8:55, tiende lid, en 8:56)  | 1  |
-| 14.  | nadere zitting (8:64, vierde lid) na tussenuitspraak (8:80a)  | 1  |
-| 15.  | nadere zitting (8:64) anders dan na tussenuitspraak  | 0,5  |
-| 16.  | schriftelijke zienswijze na incidenteel hoger beroep (8:110, derde lid)  | 1  |
+|  1.   | beroepschrift/verweerschrift (artikel 6:4; 8:42)   | 1   |
+|  2.  | schriftelijk commentaar op conclusie (8:12a, vijfde lid)  | 0,5  |
+|  3.   | repliek/dupliek (8:43, eerste lid) / schriftelijke uiteenzetting (8:43, tweede lid)   | 0,5   |
+|  4.   | verschijnen (inlichtingen)comparitie (8:44)   | 0,5   |
+|  5.   | schriftelijke inlichtingen (8:45, eerste lid)   | 0,5   |
+|  6.  | schriftelijke zienswijze na inlichtingen of advies Europese Commissie (8:45, zesde lid)  | 0,5  |
+|  7.  | bijwonen mondelinge opmerkingen Europese Commissie of Autoriteit Consument en Markt (8:45a, tweede lid)  | 0,5  |
+|  8.  | schriftelijke zienswijze na opmerkingen Europese Commissie of Autoriteit Consument en Markt (8:45a, vierde lid)  | 0,5  |
+|  9.   | bijwonen getuigenverhoor (8:46)   | 0,5   |
+|  10.   | schriftelijke zienswijze na verslag deskundigenonderzoek (8:47, vijfde lid)   | 0,5   |
+|  11.   | bijwonen onderzoek ter plaatse (8:50, derde lid)   | 0,5   |
+|  12.  | schriftelijke zienswijze na bestuurlijke lus (8:51b, derde lid)  | 0,5  |
+|  13.   | verschijnen zitting (8:55, tiende lid, en 8:56)   | 1   |
+|  14.   | nadere zitting (8:64, vierde lid) na tussenuitspraak (8:80a)  | 1   |
+|  15.  | nadere zitting (8:64) anders dan na tussenuitspraak   | 0,5  |
+|  16.  | schriftelijke zienswijze na incidenteel hoger beroep (8:110, derde lid)  | 1  |
 | --- | --- | --- |
 |  *verzet*   |
-| 17.  | verzetschrift (8:55, eerste lid)  | 0,5  |
-| 18.  | verschijnen zitting (8:55, vierde lid)  | 0,5  |
+|  17.   | verzetschrift (8:55, eerste lid)   | 0,5   |
+|  18.   | verschijnen zitting (8:55, vierde lid)   | 0,5   |
 | --- | --- | --- |
 |  *voorlopige voorziening*   |
-| 19.  | verzoekschrift (8:81, 8:87)  | 1  |
-| 20.  | verschijnen zitting (8:83)  | 1  |
+|  19.   | verzoekschrift (8:81, 8:87)   | 1   |
+|  20.   | verschijnen zitting (8:83)   | 1   |
 | --- | --- | --- |
-|  *dit onderdeel is nog niet in werking getreden*   |
-| 21.  | dit onderdeel is nog niet in werking getreden  | --- |
+|  * schadevergoeding onrechtmatig besluit*   |
+|  21.  | verzoekschrift (8:90, eerste lid, en 8:91)  | 1 |
 | --- | --- | --- |
 |  *herziening*   |
-| 22.  | verzoekschrift (8:119)  | 1  |
+|  22.   | verzoekschrift (8:119)   | 1  |
 | --- | --- | --- |
 |  *cassatie*   |
-| 23.  | beroepschrift/verweerschrift/schriftelijke zienswijze na incidenteel beroep  | 2  |
-| 24.  | repliek/dupliek  | 2  |
-| 25.  | mondelinge of schriftelijke toelichting  | 2  |
-| 26.  | schriftelijk commentaar op conclusie procureur-generaal Hoge Raad  | 0,5  |
+|  23.   | beroepschrift/verweerschrift/schriftelijke zienswijze na incidenteel beroep  | 2  |
+|  24.   | repliek/dupliek  | 2  |
+|  25.   | mondelinge of schriftelijke toelichting  | 2  |
+|  26.   | schriftelijk commentaar op conclusie procureur-generaal Hoge Raad  | 0,5  |
 
 ### A2  
 
@@ -139,8 +139,8 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1.  | schriftelijke opmerkingen  | 2  |
-| 2.  | verschijnen mondelinge behandeling  | 2  |
+| 1. |schriftelijke opmerkingen |2 |
+| 2.  |verschijnen mondelinge behandeling |2 |
 
 ### A3  
 
@@ -148,48 +148,48 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1.  | memorie  | 2  |
-| 2.  | pleidooi  | 2  |
+| 1.   |memorie |2 |
+| 2.   |pleidooi |2 |
 
 ### A4  
 
 ####Bezwaar en administratief beroep
 
-|--- |--- |  *punten*   |
+|--- |--- | *punten*  |
 |:---|:---|:---|
-|  *Bezwaar en administratief beroep*   |
-| 1.  | bezwaarschrift/beroepschrift (artikel 6:4)  | 1  |
-| 2.  | verschijnen hoorzitting (artikel 7:2; 7:16)  | 1  |
-| 3.  | nadere hoorzitting (artikel 7:9/7:23)  | 0,5  |
+| *Bezwaar en administratief beroep*   |
+| 1.   | bezwaarschrift/beroepschrift (artikel 6:4)  | 1  |
+| 2.   | verschijnen hoorzitting (artikel 7:2; 7:16)  | 1  |
+| 3.   | nadere hoorzitting (artikel 7:9/7:23)  | 0,5  |
 
 ### B  
 
 ####Waarde per punt
 
-*B1. Beroep en hoger beroep*  1 punt = € 472.  *B2. Bezwaar en administratief beroep*  1. 1 punt = € 235 voor besluiten genomen op grond van een wettelijk voorschrift inzake belastingen of de heffing van premies, dan wel premievervangende belasting voor de sociale verzekeringen, bedoeld in [artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). Dit geldt tevens voor besluiten genomen op grond van een wettelijk voorschrift inzake de heffing van de inkomensafhankelijke bijdragen, dan wel een bijdragevervangende belasting, ingevolge de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 2. 1 punt = € 472 in de overige gevallen.  
+*B1. Beroep en hoger beroep*  1 punt = € 472 Per 1 januari 2014: € 487.  *B2. Bezwaar en administratief beroep*  1. 1 punt = € 235 Per 1 januari 2014: € 243 voor besluiten genomen op grond van een wettelijk voorschrift inzake belastingen of de heffing van premies, dan wel premievervangende belasting voor de sociale verzekeringen, bedoeld in [artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). Dit geldt tevens voor besluiten genomen op grond van een wettelijk voorschrift inzake de heffing van de inkomensafhankelijke bijdragen, dan wel een bijdragevervangende belasting, ingevolge de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 2. 1 punt = € 472 Per 1 januari 2014: € 487 in de overige gevallen. 
 
 ### C  
 
-####Wegingsfactoren
+#### Wegingsfactoren
 
 ### C1  
 
 ####Gewicht van de zaak
 
-| gewicht  | factor  |
+|gewicht  |factor |
 |:---|:---|
-| zeer licht  | 0,25  |
-| licht  | 0,5  |
-| gemiddeld  | 1  |
-| zwaar  | 1,5  |
-| zeer zwaar  | 2  |
+|zeer licht  |0,25 |
+|licht  |0,5 |
+|gemiddeld  | 1 |
+|zwaar  |1,5 |
+|zeer zwaar  |2 |
 
 ### C2  
 
 ####Samenhangende zaken
 
-| aantal samenhangende zaken  | factor  |
+|aantal samenhangende zaken  |factor |
 |:---|:---|
-| minder dan 4  | 1  |
-| 4 of meer  | 1,5  |
+|minder dan 4  |1 |
+|4 of meer  |1,5 |
 
