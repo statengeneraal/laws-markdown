@@ -9,7 +9,10 @@ Besluit:
 
 ####Subsidiabiliteit
 
-### Artikel  1  
+Materieel uitgewerkt per 29-12-2013   
+
+### Artikel  1   
+Materieel uitgewerkt per 29-12-2013   
 
 De criteria die in 2011 worden gehanteerd bij de indiening van operationele programma’s en de voor steun in aanmerking komende uitgaven, zijn opgenomen in de bijlagen bij dit besluit.  
 
@@ -17,12 +20,16 @@ De criteria die in 2011 worden gehanteerd bij de indiening van operationele prog
 
 ####Forfaitaire standaardtarieven
 
-### Artikel  2  
+Materieel uitgewerkt per 29-12-2013   
+
+### Artikel  2   
+Materieel uitgewerkt per 29-12-2013   
 
 1.  In het kader van operationele programma’s kunnen, voor het berekenen van het door het productschap te betalen subsidiebedrag, forfaitaire standaardtarieven worden vastgesteld.   
 2.  Onder forfaitair standaardtarief wordt verstaan: een vast (maximum-) bedrag per eenheid dat dient te worden gebruikt om de te declareren bedragen te kunnen vaststellen en waaraan een document ten grondslag ligt waaruit blijkt hoe de percentages tot stand zijn gekomen.   
 
-### Artikel  3  
+### Artikel  3   
+Materieel uitgewerkt per 29-12-2013   
 
 De volgende forfaitaire standaardtarieven gelden voor 2011: 
 
@@ -55,11 +62,22 @@ tomaat resistentie echte meeldauw On (Oïdium lycopersicum) € 70 per 1000 zade
 
 ijsbergsla resistentie bladluis Nasanovia € 4,50 per 1000 zaden.    
 
-d) 704-45-217: 
+d) Begrotingsregel 704-45-217  <span style="text-decoration-line:underline">Uitgaven voor geënt plantmateriaal</span>  
 
-voor tomaten, aubergines, paprika’s, courgettes en komkommers € 0,75 per plant (inclusief zaadkosten onderstam).  
+1)  <span style="text-decoration-line:underline">Voor de geïntegreerde teelt:</span>   
 
-In alle andere gevallen gelden de werkelijke meerkosten ten opzichte van een niet-geënte plant met een maximum van € 0,75 per plant.    
+| --- | --- | --- |
+|:---|:---|:---|
+| i)  | ronde tomaten en vleestomaten (losse tomaten)  | € 0,30 per plant  |
+| ii)  | trosmaten  | € 0,35 per plant  |
+| iii)  | cherrytomaten, cocktailtomaten en aubergines  | € 0,00 per plant  |
+| iv)  | paprika's, courgettes en komkommers  | € 0,82 per plant  |
+
+2)  <span style="text-decoration-line:underline">voor de biologische teelt</span>   
+
+| --- | --- | --- |
+|:---|:---|:---|
+| i)  | tomaten (alle soorten), aubergines, paprika's, courgettes en komkommers  | € 0,82 per plant  |
 
 e) 709-46-220: 
 
@@ -69,11 +87,15 @@ Hergebruik van meermalige verpakkingen en pallets. Dit betreft de huurkosten met
 
 ####Slotbepalingen
 
-### Artikel  4  
+Materieel uitgewerkt per 29-12-2013   
+
+### Artikel  4   
+Materieel uitgewerkt per 29-12-2013   
 
 Dit besluit wordt aangehaald als: Besluit PT subsidiabiliteit en forfaitaire standaardtarieven medebewind 2011.  
 
-### Artikel  5  
+### Artikel  5   
+Materieel uitgewerkt per 29-12-2013   
 
 Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie, treedt in werking de tweede dag na publicatie en werkt terug tot en met 1 januari 2011.  
 
@@ -87,6 +109,8 @@ voorzitter
 
 ####Circulaire criteria 2011
 
+Materieel uitgewerkt per 29-12-2013   
+
 Geachte heer, mevrouw, In de bijlage van deze circulaire treft u de Criteria voor het in aanmerking nemen van de uitgaven bij de indiening 2011 aan. Deze criteria bevatten meer gedetailleerde informatie omtrent de subsidiabiliteit van uitgaven. Meer algemene informatie omtrent de indiening van de operationele programma’s 2011 per 15 september 2010 is opgenomen in de separaat reeds verzonden handleiding. Wij gaan er vanuit u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, ing. C.G.M. van Leeuwen  *Hoofd afdeling Regelingen*  
 ###Bijlage
 
@@ -96,11 +120,15 @@ Noot: alleen de wijzigingen in onderdeel B zijn gemarkeerd.
 
 ####Circulaire wijzigingen criteria 2011
 
+Materieel uitgewerkt per 29-12-2013   
+
 Geachte heer, mevrouw, In de bijlage Herziene Criteria voor het in aanmerking nemen van uitgaven 2011 treft u aanvullingen en wijzigingen die gelden voor het jaar 2011. Alleen de begrotingsregels met wijzigingen zijn volledig in deze bijlage opgenomen. De wijzigingen zijn in de bijlage gemarkeerd. De niet opgenomen begrotingsregels zijn ongewijzigd gebleven. Daarnaast vindt u de geactualiseerde versie van de lijst van toegelaten GNO’s, die met ingang van 10 september 2011 van kracht is. Wij gaan er vanuit u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, ing. C.G.M. van Leeuwen  *Hoofd afdeling Regelingen*   *Bijlagen*  Herziene Criteria voor het in aanmerking nemen van uitgaven 2011 Toegelaten GNO's geactualiseerde versie PT 31 augustus 2011 
 
 ### Bijlage  4  
 
 ####Herziene criteria voor het in aanmerking nemen van uitgaven 2011
+
+Materieel uitgewerkt per 29-12-2013   
 
 ![249477](http://wetten.overheid.nl/Illustration/249477)
 (VERORDENING (EG) NR. 1234/2007 VAN DE RAAD EN UITVOERINGSVERORDENING (EU) NR. 543/2011 VAN DE COMMISSIE 9 september 2011 Inhoudsopgave:  
@@ -588,6 +616,8 @@ Behoudens de eerder genoemde punten, zijn de volgende uitgaven en investeringen 
 ### Bijlage  5  
 
 ####In aanmerking te nemen toegelaten GNO's (Project GENOEG maart 2009) geactualiseerde versie PT 31 aug. 2011
+
+Materieel uitgewerkt per 29-12-2013   
 
 Tabel 1: Toegelaten GNO's op basis van microörganismen 
 
