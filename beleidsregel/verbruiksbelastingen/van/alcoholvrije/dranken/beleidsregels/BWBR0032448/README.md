@@ -4,37 +4,37 @@
 
 De staatssecretaris van Financiën heeft het volgende besloten.    Dit besluit is een actualisering van het [beleidsbesluit van 16 mei 2012](../../../../../../../beleidsregel/verbruiksbelastingen/van/alcoholvrije/dranken/en/van/enkele/andere/etc/BWBR0031592/README.md), nr. BLKB2012/541M. In [onderdeel 8 van laatstbedoeld besluit](../../../../../../../beleidsregel/verbruiksbelastingen/van/alcoholvrije/dranken/en/van/enkele/andere/etc/BWBR0031592/README.md) is bepaald dat het vervalt met ingang van 1 januari 2013. Ingevolge het Belastingplan 2012 zou de wetgeving verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten immers met ingang van 1 januari 2013 worden ingetrokken. In de [Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013](../../../../../../../wet/wet/uitwerking/fiscale/maatregelen/begrotingsakkoord/2013/BWBR0031798/README.md) is echter nader bepaald dat de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) op een bij koninklijk besluit te bepalen tijdstip zal worden ingetrokken. Tevens is daarin bepaald dat de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten met ingang van 1 januari 2013 uitsluitend van toepassing is op alcoholvrije dranken. Dit betekent dat de verbruiksbelasting van pruimtabak en snuiftabak met ingang van 1 januari 2013 niet meer wordt geheven. Dit heeft tot gevolg dat de beleidsregels opnieuw moeten worden vastgesteld. Naast enige aanpassingen van redactionele aard zijn de volgende beleidsregels vervallen: 
 
-–  *De onder* 5.1 *(aanbrengen van de belastingzegels voor snuiftabak bij het gebruik van een overdoos),* 5.2 *(vermelding op de verpakking van pruimtabak of snuiftabak),* 6.1 *(verkoop beneden de kleinhandelsprijs op de belastingzegels bij opheffing winkelbedrijf) en* 6.2 *(kortingen op de kleinhandelsprijs door geschenken, bonnen en dergelijke) opgenomen beleidsregels vervallen met ingang van 1 januari 2013 omdat de* [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) *met ingang van 1 januari 2013 uitsluitend van toepassing is op alcoholvrije dranken.*      
+– *De onder* 5.1* (aanbrengen van de belastingzegels voor snuiftabak bij het gebruik van een overdoos), *5.2* (vermelding op de verpakking van pruimtabak of snuiftabak), *6.1* (verkoop beneden de kleinhandelsprijs op de belastingzegels bij opheffing winkelbedrijf) en* 6.2* (kortingen op de kleinhandelsprijs door geschenken, bonnen en dergelijke) opgenomen beleidsregels vervallen met ingang van 1 januari 2013 omdat de *[Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)* met ingang van 1 januari 2013 uitsluitend van toepassing is op alcoholvrije dranken.*      
 
 ####Gebruikte begrippen en afkortingen
 
-a.  *wet:* [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)   
+a.  *wet:* [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)  
 
-b.  *besluit:* [Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md)   
+b.  *besluit:* [Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md)  
 
-c.  *regeling:* [Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md)   
+c.  *regeling:* [Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten](../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md)  
 
-d. *IVV:* een inrichting voor verbruiksbelastinggoederen zoals omschreven in [artikel 2, onderdeel b, van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)  
+d.  *IVV:* een inrichting voor verbruiksbelastinggoederen zoals omschreven in [artikel 2, onderdeel b, van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)  
 
-e. *alcoholvrije dranken:* alcoholvrije dranken als bedoeld in [artikel 6 van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)  
+e.  *alcoholvrije dranken:* alcoholvrije dranken als bedoeld in [artikel 6 van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md)  
 
-f. *verbruiksbelastinggoederen:* alcoholvrije dranken   De hoofdstukindeling van dit besluit is voor zover mogelijk gelijk aan de hoofdstukindeling van de [wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md). De inhoudsopgave ziet er daarom als volgt uit: 
+f.  *verbruiksbelastinggoederen:* alcoholvrije dranken   De hoofdstukindeling van dit besluit is voor zover mogelijk gelijk aan de hoofdstukindeling van de [wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md). De inhoudsopgave ziet er daarom als volgt uit: 
 
-1.  Inleidende bepalingen   
+1. Inleidende bepalingen  
 
-2.  Definities van de goederen en tarieven   
+2. Definities van de goederen en tarieven  
 
-3.  Uitslag en Invoer   
+3. Uitslag en Invoer  
 
-4.  Vrijstellingen en teruggaven   
+4. Vrijstellingen en teruggaven  
 
-5.  Bijzondere bepalingen   
+5. Bijzondere bepalingen  
 
-6.  Verbodsbepalingen en strafbepalingen   
+6. Verbodsbepalingen en strafbepalingen  
 
-7.  Intrekking beslu iten   
+7. Intrekking beslu iten  
 
-8.  Inwerkingtreding    De beleidsregels zijn onder de betreffende hoofdstukken (1 t/m 6) opgenomen.    
+8. Inwerkingtreding   De beleidsregels zijn onder de betreffende hoofdstukken (1 t/m 6) opgenomen.    
 ### 1  
 
 ####Inleidende bepalingen
@@ -44,7 +44,7 @@ f. *verbruiksbelastinggoederen:* alcoholvrije dranken   De hoofdstukindeling van
 ####Tijdelijk buiten de inrichting brengen van alcoholvrije dranken
 
 Indien alcoholvrije dranken tijdelijk buiten de IVV worden gebracht om ze elders een bewerking te laten ondergaan is op grond van [artikel 3, eerste lid, van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) sprake van uitslag. Indien de alcoholvrije dranken weer binnen de IVV worden gebracht, kan de verbruiksbelasting worden teruggevraagd. 
-### * *Goedkeuring* * 
+### * * Goedkeuring * * 
 
 Ik keur goed dat de inspecteur toestaat dat alcoholvrije dranken tijdelijk buiten de IVV worden gebracht om elders een eenvoudige bewerking te ondergaan. Dit wordt dan niet aangemerkt als uitslag. De toestemming wordt in de vergunning voor de IVV opgenomen en kan worden verleend onder de volgende voorwaarden: 
 
@@ -111,7 +111,7 @@ m. Iedere wijziging die zich na het verlenen van de toestemming voordoet, moet s
 ####Opslag van alcoholvrije dranken tijdens vervoer onder schorsing
 
 Het grensoverschrijdend vervoer van alcoholvrije dranken onder schorsing van verbruiksbelasting vindt vaak plaats via meerdere expeditiebedrijven. Dit betekent dat tijdens dit internationale vervoer overslag kan plaatsvinden. Daarbij is het opvolgend vervoermiddel niet altijd direct aanwezig. Als de goederen niet direct kunnen worden overgeladen en moeten worden gelost, moeten de alcoholvrije dranken worden opgeslagen in een IVV om te voorkomen dat verschuldigdheid van de verbruiksbelasting ontstaat. Voor het afgeven van een vergunning IVV moet de administratie voldoen aan een aantal eisen. De eisen zijn van zodanige aard dat een doorsnee expeditiebedrijf niet in aanmerking komt voor een vergunning IVV. Bovendien is, volgens [artikel 9 van de regeling](../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md), het afgeven van een vergunning IVV die uitsluitend is gericht op opslag van alcoholvrije dranken alleen mogelijk indien de hoeveelheid die daar gemiddeld over een jaar voorhanden is meer bedraagt dan 50.000 liter. Ook aan deze eis kan veelal niet worden voldaan. De alcoholvrije dranken opgeslagen houden in het vervoermiddel waarmee zij zijn aangebracht, is om economische redenen niet wenselijk. 
-### * *Goedkeuring* * 
+### * * Goedkeuring * * 
 
 Gelet op de logistieke problemen keur ik goed dat, in afwachting van verder vervoer naar een andere lidstaat of naar een derde land, alcoholvrije dranken onder schorsing van de verbruiksbelasting gedurende ten hoogste zes dagen worden opgeslagen buiten een IVV. Bij deze vervoersopslag moeten bescheiden of afdrukken van het uitvoergeleidedocument of de aangifte ten uitvoer ([artikel 4](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md) en [5 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md)) voorhanden zijn waaruit de identiteit en de herkomst van de alcoholvrije dranken blijkt. Deze bescheiden mogen niet ouder zijn dan zes dagen.     
 ### 2  
@@ -220,5 +220,5 @@ Den Haag
 30 november 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers.   
+staatssecretaris van Financiën, 
+F.H.H. Weekers.     

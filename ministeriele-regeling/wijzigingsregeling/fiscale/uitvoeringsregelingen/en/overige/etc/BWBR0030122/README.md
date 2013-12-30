@@ -10,83 +10,83 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.   
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001. 
 
 ### Artikel  II  
 
-Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.   
+Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001. 
 
 ### Artikel  III  
 
-Wijzigt de Uitvoeringsregeling loonbelasting 2011.   
+Wijzigt de Uitvoeringsregeling loonbelasting 2011. 
 
 ### Artikel  IV  
 
-Wijzigt de Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregelingen.   
+Wijzigt de Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregelingen. 
 
 ### Artikel  V  
 
-Wijzigt de Uitvoeringsregeling accijns.   
+Wijzigt de Uitvoeringsregeling accijns. 
 
 ### Artikel  VI  
 
-Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.   
+Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten. 
 
 ### Artikel  VII  
 
-Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.   
+Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering. 
 
 ### Artikel  VIII  
 
-Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.   
+Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering. 
 
 ### Artikel  IX  
 
-Wijzigt de Algemene douaneregeling.   
+Wijzigt de Algemene douaneregeling. 
 
 ### Artikel  X  
 
-Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.   
+Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES. 
 
 ### Artikel  XI  
 
-Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.   
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994. 
 
 ### Artikel  XII  
 
-Wijzigt de Uitvoeringsregeling Invorderingswet 1990.   
+Wijzigt de Uitvoeringsregeling Invorderingswet 1990. 
 
 ### Artikel  XIII  
 
-Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.   
+Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  XIV  
 
-Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.   
+Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken. 
 
 ### Artikel  XV  
 
-Wijzigt de Uitvoeringsregeling Belastingdienst 2003.   
+Wijzigt de Uitvoeringsregeling Belastingdienst 2003. 
 
 ### Artikel  XVI  
 
-Wijzigt de Uitvoeringsbeschikking Registratiewet 1970.   
+Wijzigt de Uitvoeringsbeschikking Registratiewet 1970. 
 
 ### Artikel  XVII  
 
-Wijzigt de Uitvoeringsregeling Wob Financiën.   
+Wijzigt de Uitvoeringsregeling Wob Financiën. 
 
 ### Artikel  XVIII  
 
-Wijzigt de Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (instelling Landelijk kantoor Belastingregio’s).   
+Wijzigt de Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (instelling Landelijk kantoor Belastingregio’s). 
 
 ### Artikel  XIX  
 
-*Artikel III* van de [regeling van de Staatssecretaris van Financiën van 26 april 2011, nr. DB 2011/164M, tot wijziging van de Uitvoeringsregeling Belastingdienst 2003, de Algemene douaneregeling en de Uitvoeringsregeling Douane- en Accijnswet BES in verband met enkele aanpassingen van de organisatie en het besturingsmodel van de Belastingdienst](../../../../../../../../ministeriele-regeling/wijzigingsregeling/uitvoeringsregeling/belastingdienst/2003/enz./etc/BWBR0029914/README.md) (Stcrt. 2011, 7685) vindt mede toepassing voor de periode van 1 januari 2011 tot en met 2 maart 2011. Voorts vervalt *artikel IV* van de in de vorige volzin bedoelde regeling.  
+*Artikel III* van de [regeling van de Staatssecretaris van Financiën van 26 april 2011, nr. DB 2011/164M, tot wijziging van de Uitvoeringsregeling Belastingdienst 2003, de Algemene douaneregeling en de Uitvoeringsregeling Douane- en Accijnswet BES in verband met enkele aanpassingen van de organisatie en het besturingsmodel van de Belastingdienst](../../../../../../../../ministeriele-regeling/wijzigingsregeling/uitvoeringsregeling/belastingdienst/2003/enz./etc/BWBR0029914/README.md) (Stcrt. 2011, 7685) vindt mede toepassing voor de periode van 1 januari 2011 tot en met 2 maart 2011. Voorts vervalt *artikel IV* van de in de vorige volzin bedoelde regeling. 
 
 ### Artikel  XX  
 
-Wijzigt de Uitvoeringsregeling Belastingwet BES.   
+Wijzigt de Uitvoeringsregeling Belastingwet BES. 
 
 ### Artikel  XXI  
 
@@ -107,9 +107,9 @@ f. de artikelen I, III, IV, XV, onderdeel C, XVI, XVII, onderdelen A, onder 7, e
 g. artikel XVIII terugwerkt tot en met 3 maart 2011;  
 
 h. de artikelen XVII, onderdeel B, en XIX, terugwerken tot en met 1 mei 2011.     
-2.  In afwijking van het eerste lid treedt artikel XI, onderdeel B, in werking met ingang van 1 januari 2012.   
+2.  In afwijking van het eerste lid treedt artikel XI, onderdeel B, in werking met ingang van 1 januari 2012.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

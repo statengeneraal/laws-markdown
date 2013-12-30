@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op de artikelen 2.3.6c, derde lid, en 2.5.5c, vierde lid, van de Wet educatie en beroepsonderwijs, 164c, vierde lid, van de Wet op de expertisecentra, 178c, vierde lid, van de Wet op het primair onderwijs en 103d, vierde lid, van de Wet op het voortgezet onderwijs;
+Gelet op de [artikelen 2.3.6c, derde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5c, vierde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [164c, vierde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [178c, vierde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en [103d, vierde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
 Besluit:     
 ### Paragraaf  1  
 
@@ -17,30 +17,30 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *basisregister onderwijs:* basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
+a.  *basisregister onderwijs:* basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-b. *inspectie:* Inspectie van het onderwijs;  
+b.  *inspectie:* Inspectie van het onderwijs;  
 
-c. *Minister:* Minister van Onderwijs, Cultuur en Wetenschap, en, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken, Landbouw en Innovatie;  
+c.  *Minister:* Minister van Onderwijs, Cultuur en Wetenschap, en, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-d. *persoonsgebonden nummer:* burgerservicenummer als bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer of, bij ontbreken daarvan, het door de Minister uitgegeven onderwijsnummer.    
+d.  *persoonsgebonden nummer:* burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of, bij ontbreken daarvan, het door de Minister uitgegeven onderwijsnummer.   
 
-### Artikel  1a  
+###Artikel 1a 
 
 ####Reikwijdte
 
-Deze regeling berust op de artikelen 1.4.1, zevende lid, 1.4a.1, negende lid, 2.3.6c, derde lid, en 2.5.5c, vierde lid, van de Wet educatie en beroepsonderwijs en 164c, vierde lid, van de Wet op de expertisecentra, 178c, vierde lid, van de Wet op het primair onderwijs, 58, achtste lid, en 103d, vierde lid, van de Wet op het voortgezet onderwijs.  
+Deze regeling berust op de [artikelen 1.4.1, zevende lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [1.4a.1, negende lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6c, derde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5c, vierde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [164c, vierde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [178c, vierde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [58, achtste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [103d, vierde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).
 
 ### Paragraaf  2  
 
-####Gebruik gegevens op grond van de artikelen 2.3.6c, derde lid, en 2.5.5c, vierde lid, van de WEB
+####Gebruik gegevens op grond van de [artikelen 2.3.6c, derde lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5c, vierde lid, van de WEB](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
 
 ### Artikel  2  
 
 ####Te verstrekken gegevens
 
-1.  Uit het basisregister onderwijs worden voor iedere instelling afzonderlijk aan de Minister en de inspectie verstrekt de gegevens, bedoeld in artikel 24c, eerste lid, onderdelen d, d1, e, e1 en g, van de Wet op het onderwijstoezicht, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de deelnemers en voormalige deelnemers.   
-2.  De gegevens, bedoeld in het eerste lid, worden gespecificeerd overeenkomstig het bepaalde krachtens de artikelen 1.4.1, zevende lid, eerste volzin, 1.4a.1, negende lid, eerste volzin, 2.3.6a, derde lid, eerste volzin, en 2.5.5a, derde lid, eerste volzin van de Wet educatie en beroepsonderwijs.   
+1.  Uit het basisregister onderwijs worden voor iedere instelling afzonderlijk aan de Minister en de inspectie verstrekt de gegevens, bedoeld in [artikel 24c, eerste lid, onderdelen d, d1, e, e1 en g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de deelnemers en voormalige deelnemers.   
+2.  De gegevens, bedoeld in het eerste lid, worden gespecificeerd overeenkomstig het bepaalde krachtens de [artikelen 1.4.1, zevende lid, eerste volzin](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [1.4a.1, negende lid, eerste volzin](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6a, derde lid, eerste volzin](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.5a, derde lid, eerste volzin van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
 
 ### Artikel  3  
 
@@ -50,13 +50,13 @@ Bij de verstrekking, bedoeld in artikel 2, wordt het persoonsgebonden nummer vo
 
 a. voor de levering aan de Minister door de leeftijd van de deelnemer op 1 augustus, 30 september, 1 oktober en 31 december van het kalenderjaar waarin de peildatum valt en  
 
-b. voor de levering aan de inspectie door de leeftijd van de deelnemer op de eerste dag van elk kwartaal van het studiejaar waarop de gegevens betrekking hebben.    
+b. voor de levering aan de inspectie door de leeftijd van de deelnemer op de eerste dag van elk kwartaal van het studiejaar waarop de gegevens betrekking hebben.   
 
 ### Artikel  4  
 
 ####Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
 
-1.  De verstrekking van de gegevens, bedoeld in artikel 2, die worden gespecificeerd overeenkomstig het bepaalde krachtens de artikelen 2.3.6a, derde lid, eerste volzin en 2.5.5a, eerste volzin, van de Wet educatie en beroepsonderwijs, gebeurt op de volgende tijdstippen: 
+1.  De verstrekking van de gegevens, bedoeld in artikel 2, die worden gespecificeerd overeenkomstig het bepaalde krachtens de [artikelen 2.3.6a, derde lid, eerste volzin](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.5.5a, eerste volzin, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), gebeurt op de volgende tijdstippen: 
 
 a. op 15 november en 8 maart de voorlopige gegevens omtrent de inschrijvingen op 1 oktober van het desbetreffende studiejaar, en op 8 maart de voorlopige gegevens omtrent de inschrijvingen op 1 februari van het desbetreffende studiejaar,  
 
@@ -72,19 +72,19 @@ f. op 8 juli de gegevens, voor zover het beroepsonderwijs betreft na accountants
 
 g. op 8 juli de gegevens omtrent de in- en uitschrijvingen in het studiejaar voorafgaand aan het desbetreffende studiejaar.     
 2.  De gegevens, bedoeld in het eerste lid, kunnen op een latere datum worden verstrekt voor zover zij op de voorgeschreven datum nog niet beschikbaar zijn.   
-3.  Onverminderd het eerste lid worden de gegevens omtrent de examens onmiddellijk na opname in het basisregister onderwijs aan de inspectie verstrekt.   
-4.  De verstrekking van de gegevens, bedoeld in artikel 2, die worden gespecificeerd overeenkomstig het bepaalde krachtens de artikelen 1.4.1, zevende lid, eerste volzin, 1.4a.1, negende lid, eerste volzin, van de Wet educatie en beroepsonderwijs, gebeurt uiterlijk 15 oktober van het desbetreffende studiejaar.   
+3.  Onverminderd het eerste lid worden de gegevens omtrent de examens onmiddellijk na opname in het basisregister onderwijs aan de inspectie verstrekt.  
+4. De verstrekking van de gegevens, bedoeld in artikel 2, die worden gespecificeerd overeenkomstig het bepaalde krachtens de [artikelen 1.4.1, zevende lid, eerste volzin](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [1.4a.1, negende lid, eerste volzin, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), gebeurt uiterlijk 15 oktober van het desbetreffende studiejaar.
 
 ### Paragraaf  3  
 
-####Gebruik gegevens op grond van de artikelen 164c, vierde lid, van de WEC en 178c, vierde lid, van de WPO
+####Gebruik gegevens op grond van de [artikelen 164c, vierde lid, van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md) en [178c, vierde lid, van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md)
 
 ### Artikel  5  
 
 ####Te verstrekken gegevens
 
-1.  Uit het basisregister onderwijs worden voor iedere school afzonderlijk aan de Minister en de inspectie verstrekt de gegevens, bedoeld in artikel 24c, eerste lid, onderdelen a, b en g, van de Wet op het onderwijstoezicht, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de leerlingen en voormalige leerlingen.   
-2.  De gegevens, bedoeld in het eerste lid, worden gespecificeerd overeenkomstig het bepaalde krachtens de artikelen 164a, derde lid, eerste volzin, van de Wet op de expertisecentra en 178a, derde lid, eerste volzin, van de Wet op het primair onderwijs.   
+1.  Uit het basisregister onderwijs worden voor iedere school afzonderlijk aan de Minister en de inspectie verstrekt de gegevens, bedoeld in [artikel 24c, eerste lid, onderdelen a, b en g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de leerlingen en voormalige leerlingen.   
+2.  De gegevens, bedoeld in het eerste lid, worden gespecificeerd overeenkomstig het bepaalde krachtens de [artikelen 164a, derde lid, eerste volzin, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [178a, derde lid, eerste volzin, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md).  
 
 ### Artikel  6  
 
@@ -94,24 +94,24 @@ Bij de verstrekking, bedoeld in artikel 5, wordt het persoonsgebonden nummer vo
 
 a. voor de levering aan de Minister door de leeftijd van de leerling op de voor de bekostiging van belang zijnde peildata, en  
 
-b. voor de levering aan de inspectie door de leeftijd van de leerling op de eerste dag van elk kwartaal.    
+b. voor de levering aan de inspectie door de leeftijd van de leerling op de eerste dag van elk kwartaal.   
 
 ### Artikel  7  
 
 ####Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
 
-De verstrekking, bedoeld in artikel 5, gebeurt wekelijks.  
+De verstrekking, bedoeld in artikel 5, gebeurt wekelijks. 
 
 ### Paragraaf  4  
 
-####Gebruik gegevens op grond van artikel 103d, vierde lid, van de WVO
+####Gebruik gegevens op grond van [artikel 103d, vierde lid, van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
 ### Artikel  8  
 
 ####Te verstrekken gegevens
 
-1.  Uit het basisregister onderwijs worden voor iedere school afzonderlijk aan de Minister en de inspectie verstrekt de gegevens, bedoeld in artikel 24c, eerste lid, onderdelen c, c1 en g, van de Wet op het onderwijstoezicht, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de leerlingen en voormalige leerlingen.   
-2.  De gegevens, bedoeld in het eerste lid, worden gespecificeerd overeenkomstig het bepaalde krachtens de artikelen 58, achtste lid, eerste volzin, en 103, derde lid, eerste volzin, van de Wet op het voortgezet onderwijs.   
+1.  Uit het basisregister onderwijs worden voor iedere school afzonderlijk aan de Minister en de inspectie verstrekt de gegevens, bedoeld in [artikel 24c, eerste lid, onderdelen c, c1 en g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de leerlingen en voormalige leerlingen.   
+2.  De gegevens, bedoeld in het eerste lid, worden gespecificeerd overeenkomstig het bepaalde krachtens de [artikelen 58, achtste lid, eerste volzin](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [103, derde lid, eerste volzin, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
 
 ### Artikel  9  
 
@@ -121,7 +121,7 @@ Bij de verstrekking, bedoeld in artikel 8, wordt het persoonsgebonden nummer vo
 
 a. voor de levering aan de Minister door de leeftijd van de leerling op de voor de bekostiging van belang zijnde peildata en  
 
-b. voor de levering aan de inspectie door de leeftijd van de leerling op de eerste dag van elk kwartaal.    
+b. voor de levering aan de inspectie door de leeftijd van de leerling op de eerste dag van elk kwartaal.   
 
 ### Artikel  10  
 
@@ -133,8 +133,8 @@ a. op 15 november, 29 november, 13 december en 4 januari van ieder schooljaar 
 
 b. op 21 juli van ieder schooljaar de gegevens van de scholen na accountantscontrole naar de stand van zaken op 1 oktober van het desbetreffende schooljaar, alsmede de gegevens omtrent de examens en de gegevens na accountantscontrole omtrent de in- en uitschrijvingen gedurende één jaar, voorafgaand aan de genoemde datum van 1 oktober.     
 2.  De gegevens, bedoeld in het eerste lid, kunnen op een latere datum worden verstrekt voor zover zij op de voorgeschreven datum nog niet beschikbaar zijn.   
-3.  Onverminderd het eerste lid worden de gegevens omtrent de examens onmiddellijk na opname in het basisregister onderwijs aan de inspectie verstrekt.   
-4.  Het eerste lid, onder b, is niet van toepassing op scholen in de zin van artikel 56 van de Wet op het voortgezet onderwijs.   
+3.  Onverminderd het eerste lid worden de gegevens omtrent de examens onmiddellijk na opname in het basisregister onderwijs aan de inspectie verstrekt.  
+4. Het eerste lid, onder b, is niet van toepassing op scholen in de zin van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).
 
 ### Paragraaf  5  
 
@@ -144,15 +144,15 @@ b. op 21 juli van ieder schooljaar de gegevens van de scholen na accountantscont
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling gebruik gegevens bron.  
+Deze regeling wordt aangehaald als: Regeling gebruik gegevens bron. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, 
-A.Rouvoet   
+Minister van Onderwijs, Cultuur en Wetenschap,
+A. Rouvoet     

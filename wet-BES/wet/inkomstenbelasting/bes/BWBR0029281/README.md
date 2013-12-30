@@ -4,7 +4,7 @@
 
 ### Artikel  A  
 
-De [hoofdstukken I](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn van overeenkomstige toepassing op deze wet en de daarop berustende bepalingen.  
+De [hoofdstukken I](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn van overeenkomstige toepassing op deze wet en de daarop berustende bepalingen. 
 
 ### Hoofdstuk  I  
 
@@ -20,7 +20,7 @@ a. zij, die de BES eilanden tijdelijk verlaten, geacht worden nog op de BES eila
 b. zij, die de BES eilanden metterwoon verlaten, maar binnen één jaar zich aldaar weder metterwoon vestigen, geacht worden de BES eilanden tijdelijk te hebben verlaten, tenzij blijkt, dat zij tijdens hun afwezigheid op het grondgebied van Aruba, Curaçao, Sint Maarten, Nederland of van een vreemde staat hebben gewoond;  
 
 c. zij, die tijdelijk op de BES eilanden verblijven en hetzij in Aruba, Curaçao, Sint Maarten, Nederland wonen, hetzij aldaar geacht worden te wonen volgens de daar geldende wetgeving inzake de belasting naar het inkomen, als niet op de BES eilanden wonend worden beschouwd indien hun verblijf niet langer dan een jaar duurt.     
-3.  Aan de inkomstenbelasting zijn mede onderworpen de niet op de BES eilanden wonende personen, die binnenlandse bronnen van inkomen hebben als bedoeld in artikel 17 (buitenlandse belastingplichtigen).   
+3.  Aan de inkomstenbelasting zijn mede onderworpen de niet op de BES eilanden wonende personen, die binnenlandse bronnen van inkomen hebben als bedoeld in artikel 17 (buitenlandse belastingplichtigen).  
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ De volgende verrichtingen van niet op de BES eilanden wonende personen worden, o
 
 a. het vervoer te water of door de lucht van personen en goederen tussen Aruba, Curaçao, Sint Maarten, Nederland en het buitenland enerzijds en plaatsen op de BES eilanden anderzijds;  
 
-b. de werkzaamheden van personeel op vervoermiddelen, die het verkeer met Aruba, Curaçao, Sint Maarten, Nederland en het buitenland onderhouden.    
+b. de werkzaamheden van personeel op vervoermiddelen, die het verkeer met Aruba, Curaçao, Sint Maarten, Nederland en het buitenland onderhouden.   
 
 ### Hoofdstuk  II  
 
@@ -45,7 +45,7 @@ a. roerend kapitaal;
 
 b. onderneming en arbeid;  
 
-c. rechten op periodieke uitkeringen.     
+c. rechten op periodieke uitkeringen.    
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ a. waarvan de belastingplichtige eigenaar is;
 
 b. waarvan de belastingplichtige de grond in erfpacht of huur heeft;  
 
-c. die de belastingplichtige in vruchtgebruik heeft, dat verkregen is krachtens het erfrecht.    
+c. die de belastingplichtige in vruchtgebruik heeft, dat verkregen is krachtens het erfrecht.   
 
 ### Artikel  5  
 
@@ -77,7 +77,7 @@ g. altijddurende rente;
 
 h. liquidatieuitkeringen van vennootschappen, welker kapitaal geheel of ten dele in aandelen is verdeeld, voor zover zij het gestorte kapitaal te boven gaan.     
 2.  Aandeelbewijzen en obligatiën, die aan aandeelhouders anders dan tegen storting van de volle nominale waarde worden uitgereikt, worden als dividenden beschouwd tot het bedrag, ten aanzien waarvan niet blijkt, dat storting heeft plaats gevonden of zal plaats vinden. Bijschrijving op aandeelbewijzen wordt met uitreiking van zodanige bewijzen gelijkgesteld.   
-3.  Gehele of gedeeltelijke teruggave van hetgeen op aandelen is gestort wordt als dividenduitkering aangemerkt, indien en voor zover deze teruggave kan geschieden uit de zuivere winst, tenzij tevoren het maatschappelijk kapitaal van het lichaam dat de teruggave doet, door wijziging in de akte van oprichting, dienovereenkomstig is verminderd. [vervallen]   
+3.  Gehele of gedeeltelijke teruggave van hetgeen op aandelen is gestort wordt als dividenduitkering aangemerkt, indien en voor zover deze teruggave kan geschieden uit de zuivere winst, tenzij tevoren het maatschappelijk kapitaal van het lichaam dat de teruggave doet, door wijziging in de akte van oprichting, dienovereenkomstig is verminderd. [vervallen]  
 
 ### Artikel  6  
 
@@ -104,12 +104,12 @@ h. de uitkeringen van ongevallengelden en ziekengelden ingevolge de [Wet ongeval
 5.  Bij het bepalen van de winst uit onderneming worden de aan het houden van een personenauto verbonden kosten geacht tot een bedrag van ten minste 15% van de nieuwwaarde, met inbegrip van de algemene bestedingsbelasting en de invoerrechten, van die auto niet te zijn gemaakt ten behoeve van de onderneming, tenzij de ondernemer aantoont dat die auto niet voor privé doeleinden, waaronder woon-werkverkeer, wordt gebruikt.   
 6.  Ingeval aan een belastingplichtige in verband met het verrichten van arbeid een personenauto ter beschikking is gesteld, wordt tot de inkomsten uit arbeid gerekend ten minste het bedrag waarmee 15% van de nieuwwaarde, met inbegrip van de algemene bestedingsbelasting en de invoerrechten, van die auto de vergoeding welke de belastingplichtige ter zake van het gebruik, anders dan ten behoeve van het verrichten van arbeid, verschuldigd is, te boven gaat, tenzij de belastingplichtige aantoont dat die auto niet voor privé doeleinden, waaronder woon-werkverkeer, wordt gebruikt.   
 7.  Als personenauto in de zin van dit artikel wordt mede beschouwd een automobiel bestemd voor zowel personen- als goederenvervoer.   
-8.  Voor de toepassing van dit artikel wordt met betrekking tot personenauto’s die voorafgaand aan de inwerkingtreding van deze wet in het kentekenregister zijn geregistreerd onder algemene bestedingsbelasting mede verstaan: omzetbelasting en invoerheffingen.   
+8.  Voor de toepassing van dit artikel wordt met betrekking tot personenauto’s die voorafgaand aan de inwerkingtreding van deze wet in het kentekenregister zijn geregistreerd onder algemene bestedingsbelasting mede verstaan: omzetbelasting en invoerheffingen.  
 
 ### Artikel  7  
 
 1.  De opbrengst van rechten op periodieke uitkeringen omvat onderstanden, lijfrenten, alsmede de verschuldigde verstrekkingen van levensonderhoud, huisvesting of andere zaken, in het algemeen, alle verschuldigde uitkeringen en verstrekkingen, niet aan een ambt of dienstbetrekking verbonden, die bij overlijden van de gerechtigde of van een derde eindigen.   
-2.  Periodieke uitkeringen en verstrekkingen die de tegenwaarde van een prestatie vormen, worden slechts belast voor zover zij, tezamen met op grond van het betreffende recht van de verzekeraar reeds ontvangen uitkeringen en verstrekkingen, de waarde van de prestatie te boven gaan. Tot de waarde van de prestatie worden niet gerekend de bedragen welke niet tot het inkomen zijn gerekend dan wel op het inkomen in mindering konden worden gebracht.   
+2.  Periodieke uitkeringen en verstrekkingen die de tegenwaarde van een prestatie vormen, worden slechts belast voor zover zij, tezamen met op grond van het betreffende recht van de verzekeraar reeds ontvangen uitkeringen en verstrekkingen, de waarde van de prestatie te boven gaan. Tot de waarde van de prestatie worden niet gerekend de bedragen welke niet tot het inkomen zijn gerekend dan wel op het inkomen in mindering konden worden gebracht.  
 
 ### Artikel  8  
 
@@ -145,7 +145,7 @@ n. dividenden tot ten hoogste USD 5.000 per jaar
 
 o. [vervallen]  
 
-q. [vervallen].    
+q. [vervallen].   
 
 ### Artikel  9  
 
@@ -161,7 +161,7 @@ q. [vervallen].
 3e. Onze Minister kan in overeenstemming met de Minister van Economische Zaken, de hiervoren genoemde afschrijving in het algemeen of voor bepaalde groepen van bedrijfsmiddelen beperken of buiten toepassing stellen.     
 6.  Bovendien komt voor aftrek in aanmerking de afschrijving welke nodig mocht zijn wegens het aflopen van een de belastingplichtige toekomend recht dat aan een termijn is gebonden.   
 7.  Onverminderd het bepaalde in het derde lid van dit artikel worden traktementen en andere beloningen alsmede verlofsbezoldigingen, nonactiviteitstraktementen, wachtgelden, onderstanden, pensioenen en gagementen verminderd met de daaraan verbonden verplichte bijdragen voor pensioen en pensioenfondsen, zomede voor spaar- en voorzieningsfondsen, met dien verstande, dat in het laatste geval niet meer in aftrek mag worden gebracht dan vijf ten honderd van de opbrengst der betrekking waaraan de bijdrage is verbonden, tot een maximum van USD 470. In het eerste geval mogen slechts de werknemersbijdragen in aftrek worden gebracht.   
-8.  Behoudens ten aanzien van de opbrengst van bedrijf of beroep worden de kosten tot verwerving, inning en behoud van de opbrengst in aanmerking genomen tot en voor zover in een jaar tegenover die kosten positieve opbrengsten staan. De kosten tot verwerving, inning en behoud van de opbrengst die op grond van het bepaalde in de vorige volzin buiten aanmerking zijn gebleven, kunnen slechts met de positieve opbrengsten van de vijf volgende kalenderjaren worden verrekend en wel in de volgorde waarin ze zijn ontstaan.   
+8.  Behoudens ten aanzien van de opbrengst van bedrijf of beroep worden de kosten tot verwerving, inning en behoud van de opbrengst in aanmerking genomen tot en voor zover in een jaar tegenover die kosten positieve opbrengsten staan. De kosten tot verwerving, inning en behoud van de opbrengst die op grond van het bepaalde in de vorige volzin buiten aanmerking zijn gebleven, kunnen slechts met de positieve opbrengsten van de vijf volgende kalenderjaren worden verrekend en wel in de volgorde waarin ze zijn ontstaan.  
 
 ### Artikel  9a  
 
@@ -197,11 +197,11 @@ c. verplichtingen aangegaan tussen degene die voor meer dan een vierde gedeelte 
 
 a. de verminderingen in het algemeen of voor bepaalde groepen van bedrijfsmiddelen beperken;  
 
-b. de verminderingen in het algemeen of voor bepaalde groepen van bedrijfsmiddelen buiten toepassing stellen.     
+b. de verminderingen in het algemeen of voor bepaalde groepen van bedrijfsmiddelen buiten toepassing stellen.    
 
 ### Artikel  9b  
 
-Het bepaalde in artikel 9, vijfde lid, artikel 9A, eerste lid en artikel 10 vierde lid vindt slechts toepassing, indien door de belastingplichtige een regelmatige boekhouding wordt gevoerd, met geregelde jaarlijkse afsluitingen. Houdt de belastingplichtige op aldus boek te houden dan wordt de reserve volgens artikel 10 lid 4 opgenomen in de winst van het laatste kalenderjaar met regelmatige boekhouding.  
+Het bepaalde in artikel 9, vijfde lid, artikel 9A, eerste lid en artikel 10 vierde lid vindt slechts toepassing, indien door de belastingplichtige een regelmatige boekhouding wordt gevoerd, met geregelde jaarlijkse afsluitingen. Houdt de belastingplichtige op aldus boek te houden dan wordt de reserve volgens artikel 10 lid 4 opgenomen in de winst van het laatste kalenderjaar met regelmatige boekhouding. 
 
 ### Artikel  9c  
 
@@ -255,7 +255,7 @@ a. uitsluitend of nagenoeg uitsluitend geschikt is om bij het verwerven van de i
 
 b. is voorzien van zodanige uiterlijke kenmerken dat daaruit blijkt dat deze uitsluitend is bestemd om bij het verwerven van de inkomsten te dragen. Onze Minister kan nadere regels geven om te bepalen wanneer dit het geval is.     
 6.  Voor zover kosten en lasten die verband houden met een misdrijf bij het bepalen van de winst in aanmerking zijn genomen in een of meer van de vijf jaren voorafgaande aan het jaar waarin de veroordeling, bedoeld in het eerste lid, onderdeel k, onherroepelijk is geworden, dan wel waarin aan de gestelde voorwaarden, bedoeld in het eerste lid, onderdeel l, is voldaan, wordt het bedrag ter grootte van de som van deze kosten en lasten gerekend tot de positieve voordelen van de winst uit bedrijf van het laatstbedoelde jaar.   
-7.  Voor de toepassing van het eerste lid, onderdelen k en l, wordt met de belastingplichtige gelijk gesteld degene die ten behoeve van de belastingplichtige opdracht heeft gegeven tot het misdrijf dan wel aan het misdrijf feitelijk leiding heeft gegeven.   
+7.  Voor de toepassing van het eerste lid, onderdelen k en l, wordt met de belastingplichtige gelijk gesteld degene die ten behoeve van de belastingplichtige opdracht heeft gegeven tot het misdrijf dan wel aan het misdrijf feitelijk leiding heeft gegeven.  
 
 ### Artikel  10  
 
@@ -275,7 +275,7 @@ c. [vervallen].
 4.  In afwijking van het bepaalde in de derde lid kan, ingeval vergoedingen wegens verlies of beschadiging van een niet in het tweede lid, letter b bedoeld bedrijfsmiddel of de opbrengst bij vervreemding van zodanig bedrijfsmiddel de boekwaarde van dat bedrijfsmiddel dan wel van het beschadigde gedeelte overtreffen, bij het bepalen van de in een kalenderjaar genoten winst in elk geval, indien en zolang het voornemen tot vervanging of herstel van het bedrijfsmiddel bestaat, het verschil gereserveerd worden en blijven tot vermindering van de in aanmerking te nemen kosten van vervanging of herstel. Het bepaalde in de vorige volzin vindt overeenkomstige toepassing ingeval aan het voornemen tot vervanging van het bedrijfsmiddel reeds vóór de vervreemding gevolg is gegeven. De reserve wordt, voor zover zij het verschil tussen de kosten van vervanging of herstel en de boekwaarde van het verlorengegane of vervreemde bedrijfsmiddel dan wel het beschadigde gedeelte daarvan overtreft, in de winst opgenomen.   
 5.  De op de voet van het vierde lid gevormde reserve wordt uiterlijk in het vierde kalenderjaar volgende op dat waarin de reserve is ontstaan, in de winst opgenomen, tenzij voor de vervanging of het herstel een langer tijdvak vereist is dan wel de vervanging of het herstel, mits daaraan een begin van uitvoering is gegeven, door bijzondere omstandigheden is vertraagd.   
 6.  Voor de toepassing van artikel 9 vijfde lid, blijft de vermindering van de kosten van vervanging of herstel ingevolge het vierde lid buiten aanmerking; het bedrag van die vermindering wordt geacht naar gelang van de op de voet van artikel 9, vijfde lid, mogelijke afschrijvingen te zijn afgeschreven.   
-7.  Bij het staken van een bedrijf of beroep dan wel bij overdracht of liquidatie van het gedeelte waartoe de in het vierde lid bedoelde reserve behoort, wordt deze reserve aangemerkt als een voordeel in de zin van artikel 6, letter d.   
+7.  Bij het staken van een bedrijf of beroep dan wel bij overdracht of liquidatie van het gedeelte waartoe de in het vierde lid bedoelde reserve behoort, wordt deze reserve aangemerkt als een voordeel in de zin van artikel 6, letter d.  
 
 ### Artikel  11  
 
@@ -331,7 +331,7 @@ a. reguliere voordelen: op het tijdstip bepaald overeenkomstig artikel 16B;
 
 b. vervreemdingsvoordelen: op het tijdstip van de vervreemding, met dien verstande dat in geval van het ophouden van de binnenlandse belastingplicht als tijdstip van genieten wordt aangemerkt het tijdstip dat onmiddellijk voorafgaat aan het ophouden van de binnenlandse belastingplicht.     
 10.  Het tweede lid is niet van toepassing op afkoop van pensioen, behoudens voor zover het betreft een overgang als bedoeld in [artikel 6B, tweede lid, tweede volzin, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
-11.  Het tweede lid is voorts niet van toepassing op afkoop van een recht op lijfrente als bedoeld in artikel 16, eerste lid, onderdeel e, behoudens voor zover het recht wordt omgezet in een ander recht op een soortgelijke lijfrente.   
+11.  Het tweede lid is voorts niet van toepassing op afkoop van een recht op lijfrente als bedoeld in artikel 16, eerste lid, onderdeel e, behoudens voor zover het recht wordt omgezet in een ander recht op een soortgelijke lijfrente.  
 
 ### Artikel  12  
 
@@ -343,23 +343,23 @@ b. vervreemdingsvoordelen: op het tijdstip van de vervreemding, met dien verstan
 | verschuldigde bedrag =  | belastbare som genoten in het belastingtijdvak  | x  | de belasting van het geschatte jaarinkomen  |
 | --- | geschat jaarinkomen  | --- |
 
-volgens het tarief als bedoeld in artikel 24A.   
-3.  Bij de toepassing van dit artikel worden de bedragen, genoemd in de artikelen 9, derde lid, 16, eerste lid, onderdelen c en h, en het vierde lid, en artikel 16A, eerste lid, onderdeel e, tweede lid, onderdeel c, en het vijfde lid, onderdeel a, evenredig toegepast voor het belastingtijdvak waarover de belastingplicht heeft bestaan.   
+volgens het tarief als bedoeld in artikel 24A.  
+3.  Bij de toepassing van dit artikel worden de bedragen, genoemd in de artikelen 9, derde lid, 16, eerste lid, onderdelen c en h, en het vierde lid, en artikel 16A, eerste lid, onderdeel e, tweede lid, onderdeel c, en het vijfde lid, onderdeel a, evenredig toegepast voor het belastingtijdvak waarover de belastingplicht heeft bestaan.  
 
 ### Artikel  13  
 
 1.  Aandelen in de opbrengst van een bedrijf of beroep, dat niet door de belastingplichtige zelve wordt uitgeoefend, worden beschouwd als baten van het kalenderjaar waarin hun bedrag wordt vastgesteld.   
-2.  Heeft die vaststelling plaats nadat de belastingplichtige de BES eilanden metterwoon heeft verlaten dan wel na diens overlijden, dan wordt deze geacht plaats te hebben gehad in het jaar waarin de belastingplichtige de BES eilanden verliet dan wel overleed, doch in ieder geval vóór dit vertrek of overlijden.   
+2.  Heeft die vaststelling plaats nadat de belastingplichtige de BES eilanden metterwoon heeft verlaten dan wel na diens overlijden, dan wordt deze geacht plaats te hebben gehad in het jaar waarin de belastingplichtige de BES eilanden verliet dan wel overleed, doch in ieder geval vóór dit vertrek of overlijden.  
 
 ### Artikel  14  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  15  
 
 1.  Indien de berekening van het zuiver inkomen leidt tot een negatief bedrag wordt dit aangemerkt als een verlies. Een verlies wordt verrekend met de zuivere inkomens van de volgende vijf belastingjaren, te beginnen bij het eerste van die jaren.   
 2.  Ingeval het huwelijk door overlijden van de belastingplichtige wordt ontbonden wordt diens verlies voor zover dat is voortgevloeid uit andere bestanddelen van het zuiver inkomen dan zijn bedoeld in artikel 20, tweede en derde lid, verrekend met zuivere inkomens van de echtgenoot. De vorige volzin is slechts van toepassing indien zowel de belastingplichtige als zijn echtgenoot op het tijdstip van ontbinding van het huwelijk binnenlands belastingplichtig was.   
-3.  Ingeval het huwelijk wordt ontbonden anders dan door overlijden wordt het verlies van een belastingplichtige voor zover dit is voortgevloeid uit bestanddelen van zijn zuiver inkomen welke van de zijde van zijn echtgenoot zijn opgekomen en niet kan worden verrekend met zuiver inkomen van de jaren waarin het huwelijk heeft bestaan, uitsluitend verrekend met zuivere inkomens van de gewezen echtgenoot. Met ontbinding van een huwelijk wordt gelijkgesteld het duurzaam gescheiden gaan leven.   
+3.  Ingeval het huwelijk wordt ontbonden anders dan door overlijden wordt het verlies van een belastingplichtige voor zover dit is voortgevloeid uit bestanddelen van zijn zuiver inkomen welke van de zijde van zijn echtgenoot zijn opgekomen en niet kan worden verrekend met zuiver inkomen van de jaren waarin het huwelijk heeft bestaan, uitsluitend verrekend met zuivere inkomens van de gewezen echtgenoot. Met ontbinding van een huwelijk wordt gelijkgesteld het duurzaam gescheiden gaan leven.  
 
 ### Artikel  16  
 
@@ -381,7 +381,7 @@ e. premies van levensverzekeringen, lijfrente of pensioenverzekering, met uitzon
 
 f. giften aan op de BES eilanden gevestigde kerkelijke, charitatieve, culturele, wetenschappelijke en het algemeen nut beogende instellingen, mits deze giften met schriftelijke bewijsstukken worden aangetoond, indien en voor zover zij in totaal een ten honderd van het inkomen en tevens USD 56 te boven gaan, met dien verstande dat het in mindering te brengen bedrag ten hoogste drie ten honderd van het inkomen beloopt;  
 
-g.  vervallen;   
+g. vervallen;  
 
 h. de volgende kosten welke verband houden met de eigen woning die de belastingplichtige als hoofdverblijf ter beschikking staat: 
 
@@ -399,7 +399,7 @@ h. de volgende kosten welke verband houden met de eigen woning die de belastingp
 
 1°. wordt het bedrag, genoemd in het eerste lid, onderdeel c, verhoogd tot USD 2.794;  
 
-2°. geldt voor de toepassing van het eerste lid, onderdeel f, en het tweede lid, in plaats van het inkomen van de belastingplichtige het gezamenlijke bedrag van het inkomen van de belastingplichtige en dat van zijn echtgenoot.     
+2°. geldt voor de toepassing van het eerste lid, onderdeel f, en het tweede lid, in plaats van het inkomen van de belastingplichtige het gezamenlijke bedrag van het inkomen van de belastingplichtige en dat van zijn echtgenoot.    
 
 ### Artikel  16a  
 
@@ -432,7 +432,7 @@ b. de premie die verschuldigd is ingevolge de [Wet algemene verzekering bijzonde
 a. wordt het bedrag, genoemd in het eerste lid, onderdeel e, verhoogd tot USD 11.174;  
 
 b. geldt voor de toepassing van het tweede lid, onderdeel c, en het vierde lid in plaats van het inkomen van de belastingplichtige het gezamenlijke bedrag van het inkomen van de belastingplichtige en dat van zijn echtgenoot.     
-6.  Onze Minister kan nadere regels stellen op grond waarvan ingeval van twee ongehuwde ouders het recht op aftrek, bedoeld in het derde lid, kan worden overgeheveld naar de andere ouder dan wel in geval van één-ouderschap de aftrek kan worden verdubbeld.   
+6.  Onze Minister kan nadere regels stellen op grond waarvan ingeval van twee ongehuwde ouders het recht op aftrek, bedoeld in het derde lid, kan worden overgeheveld naar de andere ouder dan wel in geval van één-ouderschap de aftrek kan worden verdubbeld.  
 
 ### Artikel  16b  
 
@@ -441,7 +441,7 @@ b. geldt voor de toepassing van het tweede lid, onderdeel c, en het vierde lid i
 a. ontvangen of verrekend zijn, ter beschikking van de belastingplichtige zijn gesteld of rentedragend zijn geworden; dan wel  
 
 b. vorderbaar en tevens inbaar zijn geworden.     
-2.  Op die opbrengsten in mindering te brengen kosten en lasten, zomede de persoonlijke lasten en de buitengewone lasten, worden in aanmerking genomen op het tijdstip waarop zij betaald of verrekend zijn, door de belastingplichtige ter beschikking zijn gesteld of rentedragend zijn geworden.   
+2.  Op die opbrengsten in mindering te brengen kosten en lasten, zomede de persoonlijke lasten en de buitengewone lasten, worden in aanmerking genomen op het tijdstip waarop zij betaald of verrekend zijn, door de belastingplichtige ter beschikking zijn gesteld of rentedragend zijn geworden.  
 
 ### Hoofdstuk  III  
 
@@ -457,7 +457,7 @@ b. schuldvorderingen, welke, wat de hoofdsom betreft, verzekerd zijn door hypoth
 
 c. andere bestanddelen van het roerend kapitaal, geen effecten zijnde, welker opbrengst afhankelijk is hetzij van de opbrengst van een bedrijf of beroep, dat en voor zover het op de BES eilanden wordt uitgeoefend; hetzij van de hoeveelheid of de opbrengst van enig produkt, op de BES eilanden gewonnen, bewerkt of verwerkt;  
 
-d. bedrijven en beroepen (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door henzelf of door een ander vervuld daaronder begrepen), die en voor zover zij persoonlijk of door vaste vertegenwoordigers of gemachtigden op de BES eilanden worden uitgeoefend. Indien die uitoefening slechts tijdelijk geschiedt en korter dan drie maanden achtereen duurt, kan bij landsbesluit gehele of gedeeltelijke ontheffing van belasting worden verleend;  
+d. bedrijven en beroepen (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door henzelf of door een ander vervuld daaronder begrepen), die en voor zover zij persoonlijk of door vaste vertegenwoordigers of gemachtigden op de BES eilanden worden uitgeoefend. Indien die uitoefening slechts tijdelijk geschiedt en korter dan drie maanden achtereen duurt, kan bij ministeriële regeling gehele of gedeeltelijke ontheffing van belasting worden verleend;  
 
 e. aandelen in, of winstbewijzen, obligaties of schuldvorderingen ten laste van een op de BES eilanden gevestigde vennootschap welker kapitaal geheel of ten dele in aandelen is verdeeld;  
 
@@ -468,18 +468,18 @@ g. een bestaande of vroegere dienstbetrekking door henzelf of door een ander ver
 h. uit de lands- of eilandskas bezoldigde ambten, terwijl de aan deze ambten verbonden werkzaamheden buiten de BES eilanden werden verricht.     
 2.  Het eerste lid, onderdelen e en f, is slechts van toepassing op niet op de BES eilanden wonende natuurlijke personen die in de loop van de laatste tien jaren voorafgaande aan het verkrijgen van de opbrengst uit de aandelen, winstbewijzen, obligaties en schuldvorderingen, bedoeld in onderdeel e van genoemd lid dan wel de vervreemding van de aandelen of winstbewijzen, bedoeld in onderdeel f van genoemd lid inwoner van de BES eilanden zijn geweest.   
 3.  Voor de toepassing van het eerste lid, onderdeel f, wordt de verkrijgingsprijs van aandelen en winstbewijzen welke tot een aanmerkelijk belang behoren en ter zake waarvan bij het door de belastingplichtige metterwoon verlaten van de BES eilanden vervreemdingsvoordelen in aanmerking zijn genomen, gesteld op de waarde in het economische verkeer waarvan is uitgegaan voor de berekening van die voordelen.   
-4.  Voor de toepassing van dit artikel wordt een lichaam waarvan de oprichting heeft plaatsgevonden naar het op de BES eilanden geldende recht steeds geacht op de BES eilanden te zijn gevestigd.   
+4.  Voor de toepassing van dit artikel wordt een lichaam waarvan de oprichting heeft plaatsgevonden naar het op de BES eilanden geldende recht steeds geacht op de BES eilanden te zijn gevestigd.  
 
 ### Artikel  18  
 
 1.  De zuivere opbrengst van de in artikel 17 genoemde bronnen van inkomen wordt bepaald met inachtneming van de beginselen van de artikelen 4, 5, 6, 7, 9, 9B en 10.   
 2.  De artikelen 11, 15 en 16 eerste lid letter f zijn op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.   
 3.  [vervallen].   
-4.  Artikel 16 is zijn niet op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.   
+4.  Artikel 16 is zijn niet op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.  
 
 ### Artikel  19  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  IV  
 
@@ -515,44 +515,44 @@ c. zuivere opbrengst van rechten op periodieke uitkeringen:
 
 5°. verkregen ter zake van echtscheiding of scheiding van tafel en bed.       
 4.  De persoonlijke verminderingen van het inkomen zijn de premies als bedoeld in artikel 16, eerste lid, onderdeel e.   
-5.  Bij de scheiding van goederen blijft op verzoek van een dan wel van beide echtgenoten het tweede lid buiten toepassing. In dat geval wordt de belasting berekend als ware het tweede lid wel van toepassing. Vervolgens wordt de door beide echtgenoten tezamen verschuldigde belasting omgeslagen in verhouding van ieders zuiver inkomen.   
+5.  Bij de scheiding van goederen blijft op verzoek van een dan wel van beide echtgenoten het tweede lid buiten toepassing. In dat geval wordt de belasting berekend als ware het tweede lid wel van toepassing. Vervolgens wordt de door beide echtgenoten tezamen verschuldigde belasting omgeslagen in verhouding van ieders zuiver inkomen.  
 
 ### Artikel  20a  
 
 1.  Het persoonlijk inkomen van een minderjarig kind, alsmede de persoonlijke verminderingen van zijn inkomen, wordt aangemerkt als inkomen van dat kind.   
-2.  Het zuiver inkomen van een minderjarig kind, anders dan dat bedoeld in het eerste lid, wordt, onverminderd het bepaalde in artikel 20, tweede lid, aangemerkt als zuiver inkomen van de belastingplichtige die het gezag over dat kind uitoefent.   
+2.  Het zuiver inkomen van een minderjarig kind, anders dan dat bedoeld in het eerste lid, wordt, onverminderd het bepaalde in artikel 20, tweede lid, aangemerkt als zuiver inkomen van de belastingplichtige die het gezag over dat kind uitoefent.  
 
 ### Artikel  21  
 
-Indien ingevolge de artikelen 20 en 20A inkomensbestanddelen van een derde zijn toegerekend aan de belastingplichtige is die derde, onverminderd zijn aansprakelijkheid uit andere hoofde, aansprakelijk voor een evenredig deel van de verschuldigde belasting, bepaald naar verhouding van de zonder toepassing van dat artikel berekende belastbare inkomens.  
+Indien ingevolge de artikelen 20 en 20A inkomensbestanddelen van een derde zijn toegerekend aan de belastingplichtige is die derde, onverminderd zijn aansprakelijkheid uit andere hoofde, aansprakelijk voor een evenredig deel van de verschuldigde belasting, bepaald naar verhouding van de zonder toepassing van dat artikel berekende belastbare inkomens. 
 
 ### Artikel  22  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23a  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23b  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23c  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23d  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  23e  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  V  
 
@@ -573,16 +573,16 @@ a. ten aanzien van binnenlandse belastingplichtigen: het belastbare inkomen verm
 4°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) in aanmerking zou komen voor een uitkering;    
 
 b. ten aanzien van buitenlandse belastingplichtigen: het belastbare inkomen voor zover dit is verkregen uit de opbrengsten, bedoeld in artikel 17, eerste lid, aanhef en onderdelen a, b, c, d, g en h.     
-2.  De belastingvrije som bedraagt USD 10 813.   
-3.  De kindertoeslag bedraagt USD 1 386 per kind, doch niet meer dan USD 2 772.   
-4.  De ouderentoeslag bedraagt USD 1 222.   
+2.  De belastingvrije som bedraagt USD 11.661.   
+3.  De kindertoeslag bedraagt USD 1.496 per kind, doch niet meer dan USD 2.992.   
+4.  De ouderentoeslag bedraagt USD 1.318.   
 5.  In afwijking van het derde lid wordt de kindertoeslag op nihil gesteld indien: 
 
 a. het persoonlijk inkomen van de belastingplichtige lager is dan het persoonlijk inkomen van zijn echtgenoot;  
 
 b. het persoonlijk inkomen van de belastingplichtige gelijk is aan het persoonlijk inkomen van zijn echtgenoot en de belastingplichtige jonger is dan zijn echtgenoot.     
 6.  De belastingplichtige die niet op de BES eilanden woont, komt in een kalenderjaar waarin hij tevens als op de BES eilanden wonende persoon belastingplichtig is, voor zijn periode van buitenlandse belastingplicht, in afwijking in zoverre van het eerste lid, onderdeel b, in aanmerking voor de belastingvrije som voor zover deze in de periode van binnenlandse belastingplicht onbenut is gebleven.   
-7.  In afwijking van het eerste lid, onderdeel b, komt een niet op de BES eilanden woonachtige belastingplichtige die een uit de BES eilanden afkomstige pensioenuitkering geniet die op grond van de voor de BES eilanden geldende fiscale regels wordt belast, in aanmerking voor de in het eerste lid, onderdeel a, onder 2°, genoemde belastingvrije som, met dien verstande dat de belastingvrije som die deze belastingplichtige in aanmerking mag nemen maximaal wordt gesteld op het bedrag van de pensioenuitkering dat volgens de fiscale regels van de BES eilanden mag worden belast.   
+7.  In afwijking van het eerste lid, onderdeel b, komt een niet op de BES eilanden woonachtige belastingplichtige die een uit de BES eilanden afkomstige pensioenuitkering geniet die op grond van de voor de BES eilanden geldende fiscale regels wordt belast, in aanmerking voor de in het eerste lid, onderdeel a, onder 2°, genoemde belastingvrije som, met dien verstande dat de belastingvrije som die deze belastingplichtige in aanmerking mag nemen maximaal wordt gesteld op het bedrag van de pensioenuitkering dat volgens de fiscale regels van de BES eilanden mag worden belast. 
 
 ### Artikel  24a  
 
@@ -590,41 +590,41 @@ b. het persoonlijk inkomen van de belastingplichtige gelijk is aan het persoonli
 
 | Bij een belastbare som van meer dan  | doch niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | 250.000  | –  | 30,4%  |
-| 250.000  | –  | 76.000  | 35,4%  |
+| –  | 269.568  | –  | 30,4%  |
+| 269.568  | –  | 81.949  | 35,4%  |
 
 2.  Voor een belastingplichtige die premieplichtig is in de zin van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) of ingevolge de bij of krachtens de in [artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels, wordt het op basis van het eerste lid berekende bedrag verminderd met het bedrag van de heffingskorting.   
 3.  De heffingskorting bestaat uit de ouderdomsverzekeringskorting, de weduwen- en wezenverzekeringskorting en de zorgverzekeringskorting.   
 4.  De ouderdomsverzekeringskorting geldt voor de belastingplichtige die premieplichtig is in de zin van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en bedraagt het door Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister, op basis van [artikel 27 van de Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die wet premie verschuldigd is.   
 5.  De weduwen- en wezenverzekeringskorting geldt voor de belastingplichtige die premieplichtig is in de zin van de [Wet algemene weduwen en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) en bedraagt het door Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister, op basis van [artikel 30 van de Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die wet premie verschuldigd is.   
 6.  De zorgverzekeringskorting geldt voor de belastingplichtige die premieplichtig is ingevolge de bij of krachtens de in [artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels en bedraagt het door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister, op basis van die algemene maatregel van bestuur bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die algemene maatregel van bestuur premie verschuldigd is.   
-7.  Voor de toepassing van het vierde, vijfde en zesde lid wordt als premiegrondslag ten hoogste een bedrag van USD 26.396 in aanmerking genomen.   
+7.  Voor de toepassing van het vierde, vijfde en zesde lid wordt als premiegrondslag ten hoogste een bedrag van USD 30.140 in aanmerking genomen.   
 8.  Indien in het belastbare inkomen persoonlijke lasten met betrekking tot een eigen woning als bedoeld in artikel 16, eerste lid, onderdeel h, onder 1°, zijn begrepen en de belastbare som: 
 
 a. meer bedraagt dan het in de eerste kolom van de tabel in het eerste lid, vermelde bedrag, of  
 
 b. niet meer bedraagt dan het in de eerste kolom van de tabel in het eerste lid vermelde bedrag maar meer zou bedragen dan dat bedrag indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in artikel 16, eerste lid, onderdeel h, onder 1°, niet zouden zijn begrepen;   wordt in afwijking van het eerste lid de belasting op het belastbare inkomen bepaald met inachtneming van het bepaalde in de volgende leden.   
 9.  In gevallen als bedoeld in het achtste lid, onderdeel a, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in artikel 16, eerste lid, onderdeel h, onder 1°.   
-10.  In gevallen als bedoeld in het achtste lid, onderdeel b, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van het bedrag waarmee de belastbare som het in de eerste kolom van de tabel in het eerste lid vermelde bedrag te boven zou gaan indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in artikel 16, eerste lid, onderdeel h, onder 1°, niet zouden zijn begrepen.   
+10.  In gevallen als bedoeld in het achtste lid, onderdeel b, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van het bedrag waarmee de belastbare som het in de eerste kolom van de tabel in het eerste lid vermelde bedrag te boven zou gaan indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in artikel 16, eerste lid, onderdeel h, onder 1°, niet zouden zijn begrepen.  
 
 ### Artikel  24b  
 
-Het zuivere bedrag van de voordelen, bedoeld in artikel 11, eerste lid, onder 3°, alsmede de opbrengst, bedoeld in artikel 17, eerste lid, onderdelen e en f, wordt belast naar een tarief van 5%.  
+Het zuivere bedrag van de voordelen, bedoeld in artikel 11, eerste lid, onder 3°, alsmede de opbrengst, bedoeld in artikel 17, eerste lid, onderdelen e en f, wordt belast naar een tarief van 5%. 
 
 ### Artikel  24c  
 
-Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsverzekering BES of de algemene weduwen- en wezenverzekering BES of inkomensafhankelijke premie verschuldigd is ingevolge [artikel 11 van het Besluit zorgverzekering BES](../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), geschiedt de heffing van de belasting en premie door middel van één belastingaanslag en voor zover de heffing plaatsvindt bij wege van conserverende aanslag, door middel van één conserverende belastingaanslag. Hierbij zijn de regels die gelden voor de heffing en de invordering van de inkomstenbelasting van overeenkomstige toepassing. In dat geval wordt, indien [artikel 8.22 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) toepassing vindt, die bepaling eenmaal toegepast.  
+Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsverzekering BES of de algemene weduwen- en wezenverzekering BES of inkomensafhankelijke premie verschuldigd is ingevolge [artikel 11 van het Besluit zorgverzekering BES](../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), geschiedt de heffing van de belasting en premie door middel van één belastingaanslag en voor zover de heffing plaatsvindt bij wege van conserverende aanslag, door middel van één conserverende belastingaanslag. Hierbij zijn de regels die gelden voor de heffing en de invordering van de inkomstenbelasting van overeenkomstige toepassing. In dat geval wordt, indien [artikel 8.22 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) toepassing vindt, die bepaling eenmaal toegepast. 
 
 ### Artikel  25  
 
 1.  Bij het begin van het kalenderjaar vervangt Onze Minister de in de artikelen 24 en 24A vermelde bedragen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.   
 2.  De tabelcorrectiefactor is één gedeeld door prijsindexverhouding. De prijsindexverhouding is de verhouding van het gemiddelde van de prijsindexcijfers van de gezinsconsumptie, zoals berekend door het Centraal Bureau voor de Statistiek, betrekking hebbende op de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand en het gemiddelde van die prijsindexcijfers, betrekking hebbende op de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand. Voor de toepassing van de tweede volzin wordt onder prijsindexcijfers verstaan het aan de hand van het aantal inwoners gewogen gemiddelde van de prijsindexcijfers voor Bonaire, Sint Eustatius en Saba. Voor de toepassing van de derde volzin wordt het aantal inwoners van Bonaire gesteld op 15 700, het aantal inwoners van Sint Eustatius op 2 886 en het aantal inwoners van Saba op 1 737.   
 3.  Ingeval de basis voor vorenbedoelde prijsindexcijfers wordt verlegd, geeft Onze Minister regels hoe bij toepassing van de vorige volzin wordt overgegaan van de oude op de nieuwe reeks prijsindexcijfers.   
-4.  Onze minister kan bij algemene maatregel van bestuur bepalen dat, in afwijking in zoverre van het eerste lid, bij het begin van de in die algemene maatregel van bestuur aangewezen kalenderjaren, de in de artikelen 24 en 24A vermelde bedragen worden vervangen door bedragen die worden berekend met een in die algemene maatregel van bestuur aangewezen factor. Deze factor bedraagt tenminste de helft van de tabelcorrectiefactor. De in de eerste volzin bedoelde algemene maatregel van bestuur dient tenminste twee maanden voor het begin van het eerste kalenderjaar waarop deze algemene maatregel van bestuur betrekking heeft tot stand te komen.   
+4.  Onze minister kan bij algemene maatregel van bestuur bepalen dat, in afwijking in zoverre van het eerste lid, bij het begin van de in die algemene maatregel van bestuur aangewezen kalenderjaren, de in de artikelen 24 en 24A vermelde bedragen worden vervangen door bedragen die worden berekend met een in die algemene maatregel van bestuur aangewezen factor. Deze factor bedraagt tenminste de helft van de tabelcorrectiefactor. De in de eerste volzin bedoelde algemene maatregel van bestuur dient tenminste twee maanden voor het begin van het eerste kalenderjaar waarop deze algemene maatregel van bestuur betrekking heeft tot stand te komen.  
 
 ### Artikel  26  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  VI  
 
@@ -632,7 +632,7 @@ Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsver
 
 ### Artikel  27  
 
-Het belastingjaar is het kalenderjaar.  
+Het belastingjaar is het kalenderjaar. 
 
 ### Hoofdstuk  VII  
 
@@ -640,35 +640,35 @@ Het belastingjaar is het kalenderjaar.
 
 ### Artikel  28  
 
-De belasting wordt geheven bij wege van aanslag.  
+De belasting wordt geheven bij wege van aanslag. 
 
 ### Artikel  29  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  30  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  31  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  32  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  33  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  34  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  35  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  VIII  
 
@@ -676,19 +676,19 @@ De belasting wordt geheven bij wege van aanslag.
 
 ### Artikel  36  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  37  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  38  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  39  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  IX  
 
@@ -696,11 +696,11 @@ De belasting wordt geheven bij wege van aanslag.
 
 ### Artikel  40  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  41  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  41a  
 
@@ -710,7 +710,7 @@ a. [Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029
 
 b. Opbrengstbelasting als bedoeld in de [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md);  
 
-c. bronheffing die ten aanzien van op de BES eilanden wonende belastingplichtigen wordt ingehouden door een land waarmee het Koninkrijk der Nederlanden ten behoeve van het voormalige land de Nederlandse Antillen een overeenkomst heeft gesloten betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling.    
+c. bronheffing die ten aanzien van op de BES eilanden wonende belastingplichtigen wordt ingehouden door een land waarmee het Koninkrijk der Nederlanden ten behoeve van het voormalige land de Nederlandse Antillen een overeenkomst heeft gesloten betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling.   
 
 ### Artikel  41b  
 
@@ -722,11 +722,11 @@ b. op grond van [artikel 8, vierde lid, van de Wet loonbelasting BES](../../../.
 
 c. de belastingplichtige binnen 18 maanden na afloop van het belastingjaar aangifte heeft gedaan.     
 2.  In het geval, bedoeld in het eerste lid, onderdeel c, wordt de aanslag vastgesteld op nihil en blijft verrekening van voorheffingen achterwege indien het totaal van die voorheffingen de verschuldigde belasting met niet meer dan USD 84 te boven gaat.   
-3.  Onverminderd het bepaalde in het eerste en tweede lid vindt restitutie op of invordering van een belastingaanslag slechts plaats indien het te restitueren of te vorderen bedrag meer bedraagt dan USD 28 [zie voor een overgangsbepaling artikel VIII, eerste lid, onder a, van P.B. 2001, no. 94]   
+3.  Onverminderd het bepaalde in het eerste en tweede lid vindt restitutie op of invordering van een belastingaanslag slechts plaats indien het te restitueren of te vorderen bedrag meer bedraagt dan USD 28 [zie voor een overgangsbepaling artikel VIII, eerste lid, onder a, van P.B. 2001, no. 94]  
 
 ### Artikel  42  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  X  
 
@@ -747,7 +747,7 @@ c. de belastingplichtige binnen 18 maanden na afloop van het belastingjaar aangi
 
 ### Artikel  53  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  XIV  
 
@@ -755,43 +755,43 @@ c. de belastingplichtige binnen 18 maanden na afloop van het belastingjaar aangi
 
 ### Artikel  54  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  55  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  56  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  57  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  58  
 
-Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet worden vastgesteld.  
+Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet worden vastgesteld. 
 
 ### Artikel  59  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  60  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  61  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  62  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  63  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  XV  
 
@@ -806,46 +806,46 @@ Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet word
 
 ### Artikel  73  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  74  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  74a  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  75  
 
-Deze wet wordt aangehaald als: Wet inkomstenbelasting BES.  
+Deze wet wordt aangehaald als: Wet inkomstenbelasting BES. 
 
 ### Artikel  76  
 
-[vervallen]  
+[vervallen] 
 
 ####Overgangsbepalingen
 
 ### Artikel  77  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  78  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  79  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  80  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  81  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  82  
 
-[vervallen]  
+[vervallen] 

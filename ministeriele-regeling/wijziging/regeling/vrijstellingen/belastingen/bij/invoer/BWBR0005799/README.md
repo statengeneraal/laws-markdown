@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling vrijstellingen belastingen bij invoer.   
+Wijzigt de Regeling vrijstellingen belastingen bij invoer. 
 
 ### Artikel  II  
 
@@ -18,16 +18,16 @@ Wijzigt de Regeling vrijstellingen belastingen bij invoer.
 2.  Het bepaalde in het eerste lid geldt niet ten aanzien van goederen, andere dan vervoermiddelen, die voldoen aan de artikelen 9 en 10 van het Verdrag tot oprichting van de Europese Economische Gemeenschap en die werden ingevoerd vanuit een andere Lid-Staat.   
 3.  Onverminderd het bepaalde in het eerste lid wordt ten aanzien van vervoermiddelen die voor 1 januari 1993 met vrijstelling van omzetbelasting zijn ingevoerd en waarvan de vrijstellinggenietende zijn normale verblijfplaats in een Lid-Staat heeft het beëindigen van de vrijstelling als invoer aangemerkt, tenzij: 
 
-a. het vervoermiddel wordt uitgevoerd uit het grondgebied van de Gemeenschap; of  
+a. het vervoermiddel wordt uitgevoerd uit het grondgebied van de Gemeenschap;  of 
 
-b. wordt aangetoond dat voor 1 januari 1993 over het vervoermiddel omzetbelasting is betaald in een Lid-Staat: of  
+b. wordt aangetoond dat voor 1 januari 1993 over het vervoermiddel omzetbelasting is betaald in een Lid-Staat;  of 
 
-c. de datum van eerste ingebruikneming van het vervoermiddel is gelegen voor 1 januari 1985.     
+c. de datum van eerste ingebruikneming van het vervoermiddel is gelegen voor 1 januari 1985.   
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 1993.  
+Deze regeling treedt in werking met ingang van 1 januari 1993. 
 
-De 
+De
 Staatssecretaris van Financiën. 
-M.J.J. vanAmelsvoort    
+M.J.J. van Amelsvoort      

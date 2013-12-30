@@ -9,7 +9,7 @@ De staatssecretaris van Financiën heeft het volgende besloten     *Dit besluit 
 
 De volgende onderdelen zijn nieuw opgenomen in het besluit: 
 
-– Onderdeel 4.4: aan het onderdeel ‘ *Wijziging gewone aandelen in preferente aandelen* ’ is een alinea ter verduidelijking toegevoegd;  
+– Onderdeel 4.4: aan het onderdeel ‘*Wijziging gewone aandelen in preferente aandelen*’ is een alinea ter verduidelijking toegevoegd;  
 
 – Onderdeel 4.11: dit onderdeel heeft betrekking op een toelichting op een uitspraak van het Hof ’s-Hertogenbosch van 29 oktober 2010, nr. 09/00410, LJN BP3710.  
 
@@ -32,8 +32,8 @@ De volgende onderdelen zijn nieuw opgenomen in het besluit:
 |:---|:---|
 | AB  | aanmerkelijk belang  |
 | BW  | Burgerlijk Wetboek  |
-| URIB  |  [Uitvoeringsregeling inkomstenbelasting 2001](../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md)   |
-| Wet VPB  |  [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)   |
+| URIB  | [Uitvoeringsregeling inkomstenbelasting 2001](../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md)  |
+| Wet VPB  | [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)  |
 
 ### 2  
 
@@ -83,7 +83,7 @@ Als een vennootschap winstbewijzen uitkeert aan haar enige aandeelhouder is spra
 
 ####Verkrijgingsprijs; aandelen in volle en blote eigendom
 
-In het aanmerkelijkbelangregime wordt uitgegaan van de gemiddelde verkrijgingsprijs per soort aandeel. Aan de hand van een voorbeeld wordt hierna uiteengezet hoe de verkrijgingsprijs moet worden bepaald als de belastingplichtige van een gedeelte van de aandelen de blote eigendom heeft en van een gedeelte de volle eigendom.  *Voorbeeld (verkoop vruchtgebruik)*  Y heeft 20 aandelen met een verkrijgingsprijs van € 1.000 per aandeel. Hij verkoopt een recht van vruchtgebruik op 10 aandelen aan een derde voor € 70.000. Op dat moment zijn de aandelen in volle eigendom € 10.000 per stuk waard. Na de verkoop heeft hij nog 10 aandelen met een verkrijgingsprijs van € 1.000 en de blote eigendom van 10 aandelen met een verkrijgingsprijs van € 300. Enkele jaren later koopt Y 10 aandelen van een zelfde soort erbij voor € 15.000 per stuk. De totale verkrijgingsprijs bedraagt: € 10.000 + € 3.000 + € 150.000 = € 163.000 Per aandeel waarvan Y de volle eigendom bezit is de verkrijgingsprijs:   ![250825](http://wetten.overheid.nl/Illustration/250825)
+In het aanmerkelijkbelangregime wordt uitgegaan van de gemiddelde verkrijgingsprijs per soort aandeel. Aan de hand van een voorbeeld wordt hierna uiteengezet hoe de verkrijgingsprijs moet worden bepaald als de belastingplichtige van een gedeelte van de aandelen de blote eigendom heeft en van een gedeelte de volle eigendom.  *Voorbeeld (verkoop vruchtgebruik)*  Y heeft 20 aandelen met een verkrijgingsprijs van € 1.000 per aandeel. Hij verkoopt een recht van vruchtgebruik op 10 aandelen aan een derde voor € 70.000. Op dat moment zijn de aandelen in volle eigendom € 10.000 per stuk waard. Na de verkoop heeft hij nog 10 aandelen met een verkrijgingsprijs van € 1.000 en de blote eigendom van 10 aandelen met een verkrijgingsprijs van € 300. Enkele jaren later koopt Y 10 aandelen van een zelfde soort erbij voor € 15.000 per stuk. De totale verkrijgingsprijs bedraagt: € 10.000 + € 3.000 + € 150.000 = € 163.000 Per aandeel waarvan Y de volle eigendom bezit is de verkrijgingsprijs:  ![250825](http://wetten.overheid.nl/Illustration/250825)
 Per aandeel waarvan Y de blote eigendom bezit is de verkrijgingsprijs: 300/1.000 x € 7.087 = € 2.126 NB De breuk geeft de verhouding weer tussen de waarde van de blote eigendom en de waarde van de volle eigendom op het moment dat het recht van vruchtgebruik wordt gevestigd. Deze breuk blijft voor de berekening van de verkrijgingsprijs ongewijzigd indien op een later moment een nieuwe verkrijgingsprijs moet worden berekend omdat aandelen van een zelfde soort worden bijgekocht.    
 ### 4.3  
 
@@ -107,7 +107,7 @@ Dezelfde gegevens als bij voorbeeld 1, maar nu verhaalt de BV de af te dragen lo
 | --- | --- | --- |
 |:---|:---|:---|
 | --- | --- | --- |
-| Loonkosten  | € 50.000  | --- |
+| Loonkosten   | € 50.000  | --- |
 | Aan informeel kapitaal  | --- | € 29.750  |
 | Aan af te dragen LB/PH  | --- | € 17.000  |
 | Aan af te dragen zorgpremie  | --- | € 3.250  |
@@ -226,7 +226,7 @@ De overgang krachtens erfrecht onder algemene titel of onder bijzondere titel wo
 
 ####Partiële verdeling van een nalatenschap en doorschuiving
 
-De verdeling van een nalatenschap binnen twee jaren na het overlijden van de erflater wordt op verzoek van de gezamenlijke belanghebbenden onder voorwaarden niet als een vervreemding aangemerkt ([artikel 4.17b, eerste lid, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Dit artikel is ook van toepassing bij een zogenoemde partiële verdeling van een nalatenschap waarbij binnen de vermelde tweejaarsperiode alleen de aanmerkelijkbelangaandelen zijn toegedeeld en andere vermogensbestanddelen (voorlopig) nog tot een onverdeelde boedel behoren, mits aan de overige wettelijke voorwaarden is voldaan. Voor degene die de aandelen krachtens erfrecht heeft verkregen, geldt als verkrijgingsprijs (een evenredig deel van) de verkrijgingsprijs van de erflater ([artikel 4.39b, eerste lid, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)).    
+De verdeling van een nalatenschap binnen twee jaren na het overlijden van de erflater wordt op verzoek van de gezamenlijke belanghebbenden onder voorwaarden niet als een vervreemding aangemerkt ([artikel 4.17b, eerste lid, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Dit artikel is ook van toepassing bij een zogenoemde partiële verdeling van een nalatenschap waarbij binnen de vermelde tweejaarsperiode alleen de aanmerkelijkbelangaandelen zijn toegedeeld en andere vermogensbestanddelen (voorlopig) nog tot een onverdeelde boedel behoren, mits aan de overige wettelijke voorwaarden is voldaan. Voor degene die de aandelen krachtens erfrecht heeft verkregen, geldt als verkrijgingsprijs (een evenredig deel van) de verkrijgingsprijs van de erflater ([artikel 4.39b, eerste lid, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)).     
 ### 5.4  
 
 ####Doorschuiven bij schenking
@@ -364,7 +364,7 @@ Ik keur niettemin goed dat een aandelenfusie met ongelijke ruilverhouding wordt 
 
 ####Aandelenruil zonder soortgelijke aandelen
 
-In beginsel kan – mits is voldaan aan de voorwaarden van [artikel 3.55 van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) – een ruil van gewone aandelen tegen uitreiking van soortaandelen worden aangemerkt als een gefacilieerde aandelenfusie. Indien een directe omvorming van gewone aandelen in soortaandelen (dus zonder het door middel van een aandelenruil tussenplaatsen van een houdstermaatschappij) zou kwalificeren als een belaste vervreemding, kan bij de aandelenruil sprake zijn van het ontgaan of het uitstellen van belastingheffing als bedoeld in [artikel 3.55, vierde lid, onderdeel b, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), juncto [artikel 4.41, eerste lid, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Ten aanzien van de vraag of een dergelijke omvorming kwalificeert als een vervreemding verwijs ik naar het hiervoor opgenomen onderdeel 4.4. Een en ander staat ter beoordeling van de competente inspecteur.     
+In beginsel kan – mits is voldaan aan de voorwaarden van [artikel 3.55 van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) – een ruil van gewone aandelen tegen uitreiking van soortaandelen worden aangemerkt als een gefacilieerde aandelenfusie. Indien een directe omvorming van gewone aandelen in soortaandelen (dus zonder het door middel van een aandelenruil tussenplaatsen van een houdstermaatschappij) zou kwalificeren als een belaste vervreemding, kan bij de aandelenruil sprake zijn van het ontgaan of het uitstellen van belastingheffing als bedoeld in [artikel 3.55, vierde lid, onderdeel b, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), juncto [artikel 4.41, eerste lid, van de Wet IB 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Ten aanzien van de vraag of een dergelijke omvorming kwalificeert als een vervreemding verwijs ik naar het hiervoor opgenomen onderdeel 4.4. Een en ander staat ter beoordeling van de competente inspecteur.      
 ### 6  
 
 ####Genietingstijdstip
@@ -426,5 +426,5 @@ Den Haag
 4 september 2012   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

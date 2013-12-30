@@ -8,48 +8,48 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Beschikking attributen inzake de douane.   
+Wijzigt de Beschikking attributen inzake de douane. 
 
 ### Artikel  II  
 
-Wijzigt de Beschikking douane algemeen.   
+Wijzigt de Beschikking douane algemeen. 
 
 ### Artikel  III  
 
-Wijzigt de Beschikking aangiften en documenten inzake de douane.   
+Wijzigt de Beschikking aangiften en documenten inzake de douane. 
 
 ### Artikel  IV  
 
-Wijzigt de Beschikking afgifte certificaten inzake goederenverkeer 1976.   
+Wijzigt de Beschikking afgifte certificaten inzake goederenverkeer 1976. 
 
 ### Artikel  V  
 
-Wijzigt de Regeling bijzondere bestemmingen.   
+Wijzigt de Regeling bijzondere bestemmingen. 
 
 ### Artikel  VI  
 
-Wijzigt de Regeling vrijstellingen belastingen bij invoer.   
+Wijzigt de Regeling vrijstellingen belastingen bij invoer. 
 
 ### Artikel  VII  
 
-Wijzigt de Regeling douanewaarde.   
+Wijzigt de Regeling douanewaarde. 
 
 ### Artikel  VIII  
 
-Wijzigt de Regeling tariefcontingent speciaal walsdraad.   
+Wijzigt de Regeling tariefcontingent speciaal walsdraad. 
 
 ### Artikel  IX  
 
-Wijzigt de Regeling voorwaarden tariefcontingenten runderen.   
+Wijzigt de Regeling voorwaarden tariefcontingenten runderen. 
 
 ### Artikel  X  
 
-Met betrekking tot de interest waarvan de verschuldigdheid wordt vastgesteld vóór de dag van de inwerkingtreding van deze ministeriële regeling blijft artikel 71d van de Beschikking douane algemeen van toepassing, zoals dit artikel luidde voor de inwerkingtreding van deze ministeriële regeling.  
+Met betrekking tot de interest waarvan de verschuldigdheid wordt vastgesteld vóór de dag van de inwerkingtreding van deze ministeriële regeling blijft artikel 71d van de Beschikking douane algemeen van toepassing, zoals dit artikel luidde voor de inwerkingtreding van deze ministeriële regeling. 
 
 ### Artikel  XI  
 
-Deze regeling treedt in werking met ingang van 1 januari 1994. Deze regeling zal in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking met ingang van 1 januari 1994. Deze regeling zal in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Financiën, 
-M.J.J. vanAmelsvoort    
+M.J.J. van Amelsvoort      

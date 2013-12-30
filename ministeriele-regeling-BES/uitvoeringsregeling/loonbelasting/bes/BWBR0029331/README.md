@@ -2,9 +2,13 @@
 
 ##Uitvoeringsregeling loonbelasting BES
 
+De Staatssecretaris van Financiën,  
+Gelet op de [artikelen 8](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [12A van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 58 van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md);
+Besluit:    
+
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 8](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [12A van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 58 van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 8](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [12A van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 58 van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md). 
 
 ### Artikel  2  
 
@@ -22,56 +26,56 @@ e. de maandtabel, opgenomen in bijlage E;
 
 f. de kwartaaltabel, opgenomen in bijlage F.  
 
-g. de tabel bijzondere beloningen, opgenomen in bijlage G.    
+g. de tabel bijzondere beloningen, opgenomen in bijlage G.   
 
 ### Artikel  3  
 
-De loonbelasting- en premietabellen, genoemd in artikel 2, zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) genoemde werknemers.  
+De loonbelasting- en premietabellen, genoemd in artikel 2, zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) genoemde werknemers. 
 
 ### Artikel  4  
 
-De bij deze regeling behorende bijlagen A tot en met G liggen, inclusief toelichting, ter inzage bij de Directie Directe belastingen van het Ministerie van Financiën.  
+De bij deze regeling behorende bijlagen A tot en met G liggen, inclusief toelichting, ter inzage bij de Directie Directe belastingen van het Ministerie van Financiën. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling loonbelasting BES.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling loonbelasting BES. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.  
+Deze regeling treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 23 december 2010   
 
 De 
-Staatssecretaris van Financiën, 
-F.H.H.Weekers  
+Staatssecretaris van Financiën,
+F.H.H. Weekers    
 
-### Bijlage  A  
+###Bijlage A 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
 
-### Bijlage  B  
+###Bijlage B 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
 
-### Bijlage  C  
+###Bijlage C 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
 
-### Bijlage  D  
+###Bijlage D 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
 
-### Bijlage  E  
+###Bijlage E 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
 
-### Bijlage  F  
+###Bijlage F 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
 
-### Bijlage  G  
+###Bijlage G 
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Niet opgenomen.
