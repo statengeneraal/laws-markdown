@@ -13,14 +13,14 @@ Besluit:
 
 ####Reikwijdte en definitie
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [17, tweede lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [32, eerste lid, onder 8°, onderdeel e](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [33, onder 5°](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35b, eerste lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35c, vijfde en achtste lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35d, tweede lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35e, zesde lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [73](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) en [75, eerste lid, van de Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
-2.  Deze regeling verstaat onder wet: [Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [17, tweede lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [33, onder 5° en 6°](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [33a](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35b, eerste lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35c, vijfde en achtste lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35d, tweede lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [35e, zesde lid](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), [73](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) en [75, eerste lid, van de Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
+2.  Deze regeling verstaat onder wet: [Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).  
 
 ### Artikel  3  
 
 ####Toerekening afgezonderd particulier vermogen
 
-[Artikel 4a van de Uitvoeringsregeling inkomstenbelasting 2001](../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md) is van overeenkomstige toepassing op de in [artikel 16 van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bedoelde verkrijging en de in [artikel 17 van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bedoelde schenking.  
+[Artikel 4a van de Uitvoeringsregeling inkomstenbelasting 2001](../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md) is van overeenkomstige toepassing op de in [artikel 16 van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bedoelde verkrijging en de in [artikel 17 van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bedoelde schenking. 
 
 ### Hoofdstuk  II  
 
@@ -30,23 +30,21 @@ Besluit:
 
 ####Aangewezen mogendheid
 
-Als mogendheid als bedoeld in [artikel 32, eerste lid, onder 8°, onderdeel e, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenk- en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.  
+Als mogendheid als bedoeld in [artikel 32, eerste lid, onder 8°, onderdeel e, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenk- en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers. 
 
 ### Artikel  5  
 
 ####Schenking ter zake van een eigen woning
 
-Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt slechts verleend indien: 
+Een vrijstelling als bedoeld in de [artikelen 33, onder 5° en 6°](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), en [33a, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of de aflossing van een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in [artikel 3.119aa van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt slechts verleend indien:
 
-a. de schenking is gedaan: 
+a.de schenking is gedaan:
 
-1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht dan wel een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of een deel daarvan, heeft afgelost, of  
+1°.onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht, een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of een deel van die eigenwoningschuld, heeft afgelost of een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in [artikel 3.119aa van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of een deel van die schuld, heeft afgelost, of
 
-2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van de begunstigde;    
+2°.onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van de begunstigde, en
 
-b. van de schenking een notariële akte is opgemaakt, waarin is opgenomen dat het geschonken bedrag bestemd is voor een van de doeleinden, genoemd in onderdeel a, en  
-
-c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor een van de doeleinden, genoemd in onderdeel a.    
+b.desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor een van de doeleinden, genoemd in onderdeel a. 
 
 ### Artikel  6  
 
@@ -59,7 +57,7 @@ a. de schenking is aangegaan bij notariële akte waarin is vermeld voor de betal
 b. de schenking is gedaan onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet binnen twee kalenderjaren na het jaar waarin de schenking is gedaan aan de studie of opleiding is besteed, en  
 
 c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en, binnen de in onderdeel b bedoelde termijn, door de begunstigde is aangewend voor de in de in onderdeel a bedoelde akte vermelde studie of opleiding.     
-2.  Voor de toepassing van [artikel 33, onder 5°, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) worden kosten voor een studie of de opleiding voor een beroep aangemerkt als aanzienlijk hoger dan gebruikelijk indien deze, exclusief kosten voor levensonderhoud, ten minste € 20 000 per jaar bedragen.   
+2.  Voor de toepassing van [artikel 33, onder 5°, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) worden kosten voor een studie of de opleiding voor een beroep aangemerkt als aanzienlijk hoger dan gebruikelijk indien deze, exclusief kosten voor levensonderhoud, ten minste € 20 000 per jaar bedragen.  
 
 ### Hoofdstuk  III  
 
@@ -73,7 +71,7 @@ c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van 
 2.  Tot een objectieve onderneming als bedoeld in [artikel 35b, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) die toebehoort aan een vennootschap welker kapitaal geheel of ten dele in aandelen is verdeeld, worden mede gerekend de onroerende zaken die op de voet van [artikel 3.92 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) ter beschikking zijn gesteld aan de vennootschap en dienstbaar zijn aan de onderneming van de vennootschap.   
 3.  Indien ingevolge [artikel 35c, vijfde lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bezittingen en schulden van een lichaam voor een gedeelte worden toegerekend aan een ander lichaam, worden deze bezittingen en schulden voor de in [artikel 35b, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) bedoelde bepaling van de totale waarde van het ondernemingsvermogen van de objectieve onderneming, voor het geheel in aanmerking genomen voor zover zij ondernemingsvermogen vormen als bedoeld in artikel 35c van de wet.   
 4.  Indien de verkrijging aandelen betreft in een lichaam waarin de erflater, onderscheidenlijk de schenker, op enig moment in het afgelopen jaar, onderscheidenlijk op enig moment in de afgelopen vijf jaren, indirect aandeelhouder was, wordt voor de toepassing van dit artikel uitgegaan van de situatie als ware de erflater, onderscheidenlijk de schenker, nog steeds indirect aandeelhouder. De eerste volzin is van overeenkomstige toepassing in een situatie waarin de verkrijging aandelen betreft in een lichaam dat is ontstaan bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-5.  Voor het eerste en tweede lid is [artikel 35c, zesde lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) van overeenkomstige toepassing.   
+5.  Voor het eerste en tweede lid is [artikel 35c, zesde lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
@@ -91,7 +89,7 @@ c. ten tijde van de omzetting in preferente aandelen de vennootschap waarop de o
 
 d. de verkrijger van de indirect gehouden preferente aandelen reeds voor ten minste 5% van het geplaatste kapitaal direct of indirect aandeelhouder is van gewone aandelen als bedoeld in onderdeel b.   Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in de eerste volzin ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een juridische splitsing als bedoeld in [artikel 3.56 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of een juridische fusie als bedoeld in [artikel 3.57 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Voorts wordt daaronder ook begrepen een uitgifte van preferente aandelen in het kader van een bedrijfsfusie als bedoeld in [artikel 14 van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
 4.  Indien preferente aandelen zijn ontstaan in het kader van een gefaseerde bedrijfsoverdracht als bedoeld in [artikel 35c, vierde of vijfde lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), dan behouden deze aandelen het karakter dat zij in aanmerking worden genomen voor de toepassing van artikel 35c, eerste lid, onderdeel c, van de wet voor zover de houder van deze preferente aandelen ook houder is van de gewone aandelen die bij het ontstaan van de preferente aandelen zijn toegekend aan de bedrijfsopvolger.   
-5.  Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van [artikel 35c, vierde lid, onderdeel d, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.   
+5.  Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van [artikel 35c, vierde lid, onderdeel d, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.  
 
 ### Artikel  9  
 
@@ -108,7 +106,7 @@ c. ingeval de erflater of schenker medegerechtigde is in de zin van [artikel 3.
 d. ingeval de erflater of schenker resultaat uit een werkzaamheid geniet met betrekking tot een onroerende zaak en de onroerende zaak eerder deel uitmaakte van het ondernemingsvermogen van een voor rekening van de erflater of schenker gedreven onderneming: indien de periode van het genieten van resultaat uit een werkzaamheid en de periode van ondernemerschap tezamen een aaneengesloten periode van ten minste één jaar, onderscheidenlijk van ten minste vijf jaren, vormt.     
 2.  In geval van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden voor de toets of is voldaan aan de periode van één, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), de bezitsperiode van de verkregen aandelen en de bezitsperiode van de afgestane aandelen bij elkaar gevoegd als ware het één periode. De eerste volzin is van overeenkomstige toepassing bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), alsmede bij een juridische fusie als bedoeld in [artikel 3.57 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 3.  In geval van preferente aandelen als bedoeld in [artikel 35c, vierde lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) is aan de periode van één, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), mede voldaan indien de bezitsperiode van de gewone aandelen tenminste één jaar, onderscheidenlijk ten minste vijf jaren, bedroeg.   
-4.  Met betrekking tot ondernemingsvermogen dat de erflater zelf krachtens erfrecht of schenking heeft verkregen en waarop [hoofdstuk IIIA van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) ten aanzien van hem van toepassing is geweest, wordt steeds geacht te zijn voldaan aan de voorwaarde van een periode van één jaar, bedoeld in [artikel 35d, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
+4.  Met betrekking tot ondernemingsvermogen dat de erflater zelf krachtens erfrecht of schenking heeft verkregen en waarop [hoofdstuk IIIA van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) ten aanzien van hem van toepassing is geweest, wordt steeds geacht te zijn voldaan aan de voorwaarde van een periode van één jaar, bedoeld in [artikel 35d, eerste lid, van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md).  
 
 ### Artikel  10  
 
@@ -137,7 +135,7 @@ f. de vervreemding van een onroerende zaak als bedoeld in [artikel 35c, eerste 
 5.  De inspecteur beslist op het in het eerste lid, tweede lid of derde lid bedoelde verzoek bij voor bezwaar vatbare beschikking.   
 6.  Van een gebeurtenis als bedoeld in [artikel 35e van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) is geen sprake indien deze zich voordoet ten gevolge van het overlijden van de verkrijger, of als gevolg van de verdeling van de nalatenschap van deze verkrijger binnen twee jaar na zijn overlijden. Voor de toepassing van artikel 35e van de wet worden voor de resterende duur van de termijn van vijf jaren de rechtsopvolgers krachtens erfrecht of huwelijksvermogensrecht geacht in de plaats te treden van de oorspronkelijke verkrijger.   
 7.  Van een gebeurtenis als bedoeld in [artikel 35e van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) is geen sprake indien deze zich voordoet als gevolg van een overgang onder algemene titel krachtens huwelijksvermogensrecht. Voor de toepassing van artikel 35e van de wet wordt voor de resterende duur van de termijn van vijf jaren de rechtsopvolger krachtens huwelijksvermogensrecht geacht in de plaats te treden van de oorspronkelijke verkrijger. Van een gebeurtenis als bedoeld in artikel 35e van de wet is evenmin sprake indien gedurende de resterende duur van de termijn de huwelijksgemeenschap wordt ontbonden en binnen twee jaar na de ontbinding wordt verdeeld waarbij het ondernemingsvermogen als bedoeld in [Hoofdstuk IIIA van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), wordt toegescheiden aan de oorspronkelijke verkrijger. Voor de toepassing van artikel 35e van de wet treedt de oorspronkelijke verkrijger dan weer voor de resterende duur van de termijn van vijf jaren in de plaats van de in de tweede volzin bedoelde rechtsopvolger krachtens huwelijksvermogensrecht.   
-8.  Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), door de verkrijger een door toepassing van [artikel 35c, zevende lid, van die wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.   
+8.  Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md), door de verkrijger een door toepassing van [artikel 35c, zevende lid, van die wet](../../../../../../wet/successiewet/1956/BWBR0002226/README.md) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.  
 
 ### Hoofdstuk  IV  
 
@@ -151,7 +149,7 @@ De in [artikel 73 van de wet](../../../../../../wet/successiewet/1956/BWBR00022
 
 a. de naam, voornamen, laatste woonplaats en de dagtekening van het overlijden van de erflater;  
 
-b. een omschrijving van de goederen of bewijsstukken, de rechtsverhouding krachtens welke de aangever deze onder zich heeft, en de aanwijzing van hun bestemming.    
+b. een omschrijving van de goederen of bewijsstukken, de rechtsverhouding krachtens welke de aangever deze onder zich heeft, en de aanwijzing van hun bestemming.   
 
 ### Artikel  12  
 
@@ -180,7 +178,7 @@ d. de in het eerste lid, onderdeel d, bedoelde gegevens door de inspecteur zijn
 
 a. in geval van overlijden indien de uitkering aan de echtgenoot plaatsvindt en minder bedraagt dan € 11 345 in kapitaal of € 1134 per jaar aan rente;  
 
-b. in alle andere gevallen indien de uitkering minder bedraagt dan € 1815 in kapitaal of € 908 per jaar aan rente.     
+b. in alle andere gevallen indien de uitkering minder bedraagt dan € 1815 in kapitaal of € 908 per jaar aan rente.    
 
 ### Hoofdstuk  V  
 
@@ -191,21 +189,21 @@ b. in alle andere gevallen indien de uitkering minder bedraagt dan € 1815 in 
 ####Intrekking [Uitvoeringsregeling Successiewet 1956](../../../../../../ministeriele-regeling/uitvoeringsregeling/successiewet/1956/BWBR0003746/README.md)
 
 1.  De [Uitvoeringsregeling Successiewet 1956](../../../../../../ministeriele-regeling/uitvoeringsregeling/successiewet/1956/BWBR0003746/README.md) wordt ingetrokken.   
-2.  De [Uitvoeringsregeling Successiewet 1956](../../../../../../ministeriele-regeling/uitvoeringsregeling/successiewet/1956/BWBR0003746/README.md) blijft van toepassing op belastbare feiten in de zin van de wet, zoals die op 31 december 2009 luidde, die zich hebben voorgedaan voor 1 januari 2010.   
+2.  De [Uitvoeringsregeling Successiewet 1956](../../../../../../ministeriele-regeling/uitvoeringsregeling/successiewet/1956/BWBR0003746/README.md) blijft van toepassing op belastbare feiten in de zin van de wet, zoals die op 31 december 2009 luidde, die zich hebben voorgedaan voor 1 januari 2010.  
 
 ### Artikel  14  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  15  
 
 ####Citeertitel
 
-Deze regeling kan worden aangehaald als: Uitvoeringsregeling schenk- en erfbelasting.  
+Deze regeling kan worden aangehaald als: Uitvoeringsregeling schenk- en erfbelasting. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

@@ -48,17 +48,15 @@ f. kortdurend verblijf als omschreven in artikel 9a;
 
 g. vervoer als omschreven in artikel 10;  
 
-h. het gebruik van een verpleegartikel als omschreven in artikel 11;  
+h. doventolkzorg als omschreven in artikel 12;  
 
-i. doventolkzorg als omschreven in artikel 12;  
+i. voortgezet verblijf als omschreven in artikel 13;  
 
-j. voortgezet verblijf als omschreven in artikel 13;  
+j. zorg als omschreven in artikel 15;  
 
-k. zorg als omschreven in artikel 15;  
+k. een neonatale hielprik;  
 
-l. een neonatale hielprik;  
-
-m. vaccinaties als omschreven in artikel 18.     
+l. vaccinaties als omschreven in artikel 18.     
 2.  De verzekerde heeft geen aanspraak op de zorg, bedoeld in het eerste lid, indien hij ter zake van die zorg een aanspraak heeft op forensische zorg als bedoeld in [artikel 2](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) juncto [artikel 5, eerste lid, van het Interimbesluit forensische zorg](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md).   
 3.  De aanspraak op zorg bestaat slechts voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop is aangewezen.   
 4.  Bij ministeriële regeling kan de aanspraak op de zorg, bedoeld in het eerste lid, nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.   
@@ -116,10 +114,6 @@ Behandeling omvat door een instelling te verlenen behandeling van specifiek medi
 
 Indien de verzekerde zorg als bedoeld in artikel 6 of 8 gedurende een dagdeel in een instelling ontvangt, omvat de zorg tevens vervoer naar en van de instelling indien daarvoor een medische noodzaak bestaat.  
 
-### Artikel  11  
-
-Het gebruik van een verpleegartikel omvat het door een instelling in bruikleen verstrekken van een verpleegartikel gedurende een termijn van ten hoogste zesentwintig weken in verband met een somatische aandoening of beperking.  
-
 ### Artikel  12  
 
 Doventolkzorg omvat zorg door een doventolk bij het voeren van een gesprek in de leefsituatie.  
@@ -175,21 +169,31 @@ g. het individueel gebruik van een rolstoel.
 
 ### Artikel  20  
 
-1.  Aan een verzekerde wordt een vergoeding verstrekt voor kosten van zorg als omschreven in dit besluit, indien die zorg anders dan op de in [artikel 10 van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) omschreven wijze is verkregen als gevolg van de navolgende omstandigheden: 
+1.  Aan een verzekerde wordt een vergoeding verstrekt voor kosten van zorg als omschreven in dit besluit, indien die zorg hier te lande is verleend en anders dan op de in [artikel 10, eerste lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) omschreven wijze is verkregen als gevolg van de navolgende omstandigheden: 
 
-a. tijdelijk verblijf hier te lande buiten het werkgebied van de zorgverzekeraar;  
+a. in spoedeisende gevallen waarin uitstel redelijkerwijs niet kon worden verlangd;  
 
-b. wonen in het buitenland;  
+b. tijdelijk verblijf hier te lande buiten het werkgebied van de zorgverzekeraar.     
+2.  Aan een verzekerde wordt een vergoeding verstrekt voor kosten van zorg als omschreven in dit besluit, indien die zorg buiten het Europese deel van Nederland wordt verleend en anders dan op de in [artikel 10, eerste of tweede lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) omschreven wijze is verkregen als gevolg van de navolgende omstandigheden: 
 
-c. tijdelijk verblijf in het buitenland wegens uitoefening van bedrijf of beroep of wegens andere door het College zorgverzekeringen aan te geven redenen;  
+a. voortzetting van reeds binnen het Europese deel van Nederland aangevangen zorg: een verzekerde aan wie zorg wordt verleend waarop deze aanspraak heeft op grond van hoofdstuk II van dit Besluit, behoudt deze aanspraak gedurende ten hoogste dertien weken per kalenderjaar buiten het Europese deel van Nederland. In dat geval worden de in rekening gebrachte kosten vergoed tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten;  
 
-d. niet ingeschreven zijn bij een zorgverzekeraar;  
+b. voortzetten palliatief terminale zorg: in afwijking van het bepaalde in onderdeel a geldt een periode van ten hoogste één jaar wanneer het palliatief terminale zorg betreft;  
 
-e. in spoedeisende gevallen waarin uitstel redelijkerwijs niet kon worden verlangd.     
-2.  In de omstandigheid, bedoeld in het eerste lid, onderdeel a, bestaat aanspraak op vergoeding, mits de zorg is verleend door zorgaanbieders die in de verblijfplaats van de verzekerde of naaste omgeving daarvan praktijk uitoefenen of gevestigd zijn en ter zake van die zorg een overeenkomst met een zorgverzekeraar hebben gesloten.   
-3.  In de omstandigheden, bedoeld in het eerste lid, onderdelen b en c, bestaat aanspraak op een vergoeding tot een door het College zorgverzekeringen vast te stellen bedrag voor zorg, verleend in het land waar de verzekerde woont of verblijft, voor zover de verlening van de zorg redelijkerwijs niet kon worden uitgesteld tot na de terugkeer in Nederland.   
-4.  In de omstandigheden, bedoeld in het eerste lid, onderdelen d en e, bestaat aanspraak op een vergoeding, mits de zorg is verleend in Nederland. Het College zorgverzekeringen kan nadere voorwaarden stellen voor het verkrijgen van de vergoeding in de omstandigheid, bedoeld in het eerste lid, onderdeel d. Het College zorgverzekeringen kan bepalen dat premies, betaald ten behoeve van een overeenkomst met betrekking tot de verzekering van in dit besluit omschreven zorg of de kosten daarvan, in de omstandigheid, bedoeld in het eerste lid, onderdeel d, gelden als kosten van zodanige zorg.   
-5.  In de omstandigheden, bedoeld in het eerste lid, onderdelen a, d en e, is de vergoeding gelijk aan de kosten van de zorg indien deze is verleend door een zorgaanbieder die ter zake van die zorg een overeenkomst met een zorgverzekeraar heeft gesloten. Indien de zorg is verleend door een ander, is de vergoeding gelijk aan de kosten van de zorg, voor zover deze de kosten van zodanige zorg, verleend door een zorgaanbieder waarmee de zorgverzekeraar een overeenkomst heeft gesloten, niet te boven gaan.   
+c. onvoldoende binnenlands zorgaanbod: een verzekerde kan met voorafgaande toestemming van de zorgverzekeraar gedurende een periode van ten hoogste één jaar zorg buiten het Europese deel van Nederland inroepen, indien, gezien de gezondheidstoestand van betrokkene en het te verwachten verloop daarvan, de noodzakelijke zorg binnen het Europese deel van Nederland niet of niet tijdig genoeg kan worden verkregen. In dat geval worden de in rekening gebrachte kosten vergoed. Voor zover deze kosten die welke in de Nederlandse marktomstandigheden passend zijn te achten overschrijden, wordt het meerdere vergoed voor zover deze naar het oordeel van de zorgverzekeraar in redelijkheid in rekening zijn gebracht;  
+
+d. verblijf buiten het Europese deel van Nederland wegens uitoefening van bedrijf of beroep of uitsluitend wegens studieredenen: een verzekerde die in verband met de uitoefening van bedrijf of beroep al dan niet in dienstbetrekking of uitsluitend wegens studieredenen buiten het Europese deel van Nederland verblijft kan zolang deze omstandigheid voortduurt en de betrokkene ingevolge de wet verzekerd blijft, buiten het Europese deel van Nederland zorg inroepen. In dat geval worden de in rekening gebrachte kosten vergoed, tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten;  
+
+e. gezinsleden: onderdeel d is van overeenkomstige toepassing op een verzekerde die met de verzekerde, bedoeld in dat onderdeel, deel uitmaakt van een gezamenlijke huishouding als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+
+f. spoedeisende zorg bij tijdelijk verblijf: een verzekerde die gedurende een tijdelijk verblijf buiten het Europese deel van Nederland onvoorzien en onmiddellijk noodzakelijke zorg moet inroepen die gelet op de gezondheidstoestand van betrokkene en het te verwachten verloop daarvan, niet kan worden uitgesteld tot de verzekerde is teruggekeerd in het Europese deel van Nederland, kan deze gedurende ten hoogste dertien weken voortzetten. Deze termijn kan door de zorgverzekeraar worden verlengd indien de verzekerde om medische redenen niet gerepatrieerd kan worden.   De in rekening gebrachte kosten worden vergoed tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten.   
+3.  Het in het vorige lid in de onderdelen d, e en f bepaalde, is slechts van toepassing indien door een onafhankelijk arts is vastgesteld dat en in welke omvang de verzekerde op de desbetreffende zorg is aangewezen.   
+4.  Indien de verzekerde op grond van het [Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.   
+5.  Aan een verzekerde die zorg inroept op de in [artikel 10, tweede lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) omschreven wijze, worden de in rekening gebrachte kosten vergoed tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten. Het derde en het vierde lid zijn van overeenkomstige toepassing.   
+
+### Artikel  20a  
+
+De verzekerde heeft gedurende het reizen of het tijdelijk verblijven buiten het Europese deel van Nederland geen aanspraak op zorg als bedoeld in de artikelen 4 tot en met 8, of op een vergoeding van de kosten daarvan, indien de zorg aan de verzekerde wordt verleend door een instelling als bedoeld in [artikel 1, eerste deel, onderdeel e, 1° van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
 
 ### Artikel  21  
 
@@ -203,8 +207,8 @@ e. in spoedeisende gevallen waarin uitstel redelijkerwijs niet kon worden verlan
 ### Artikel  33  
 
 1.  De artikelen 1 tot en met 20 en de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze artikelen komen te luiden na inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31, zijn slechts van toepassing voor verzekerden voor wie op of na het tijdstip waarop die artikelen in werking treden, een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) aangevraagd wordt.   
-2.  Het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en de daarop gebaseerde regelgeving alsmede de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31 blijven, gedurende de geldigheidsduur van hun indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en voor de in hun indicatiebesluit geïndiceerde zorg, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, geïndiceerd waren voor een of meer vormen van zorg als bedoeld in het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md).   
-3.  De [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) en de daarop gebaseerde regelgeving blijven, zolang zij hun recht hierop tot gelding kunnen brengen, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, een recht op zorg als bedoeld in de [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) tot gelding konden brengen.   
+2.  Het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) en de daarop gebaseerde regelgeving alsmede de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31 blijven, gedurende de geldigheidsduur van hun indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en voor de in hun indicatiebesluit geïndiceerde zorg, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, geïndiceerd waren voor een of meer vormen van zorg als bedoeld in het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md).   
+3.  De [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en de daarop gebaseerde regelgeving blijven, zolang zij hun recht hierop tot gelding kunnen brengen, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, een recht op zorg als bedoeld in de [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) tot gelding konden brengen.   
 
 ### Artikel  34  
 
@@ -215,8 +219,7 @@ a. *ADL:* algemene dagelijkse levensverrichtingen;
 b. *ADL-woning:* woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke sociale huurwoningen die tot stand zijn gekomen met behulp van subsidie uit de Regeling Geldelijke Steun Huisvesting Gehandicapten of het Algemeen Fonds Bijzondere Ziektekosten;  
 
 c. *ADL-assistentie:* gedurende het gehele etmaal direct oproepbare persoonlijke assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning.     
-2.  Een verzekerde die in een ADL-woning woont, en voldoet aan de voorwaarden, bedoeld in [artikel 2.9.3, eerste lid, onderdelen a tot en met d, van de Regeling subsidies AWBZ](../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md), zoals dat artikel luidde voor 1 januari 2012, heeft tot 1 januari 2014 aanspraak op ADL-assistentie.   
-3.  Dit artikel vervalt met ingang van 1 januari 2014.   
+2.  Een verzekerde die in een ADL-woning woont, en voldoet aan de voorwaarden, bedoeld in [artikel 2.9.3, eerste lid, onderdelen a tot en met d, van de Regeling subsidies AWBZ](../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md), zoals dat artikel luidde voor 1 januari 2012, heeft aanspraak op ADL-assistentie.   
 
 ### Artikel  35  
 
@@ -229,6 +232,10 @@ Wijzigt dit besluit.
 ### Artikel  39  
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+
+### Artikel  39a  
+
+Dit besluit berust mede op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  40  
 

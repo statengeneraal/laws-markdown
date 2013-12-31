@@ -13,9 +13,9 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 28](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [28a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 28](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [28a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
 
-### Hoofdstuk  1a  
+###Hoofdstuk 1a 
 
 ####Gegevensverstrekking
 
@@ -93,7 +93,7 @@ a. collectieve aangifte:
 
 17°. totaal basispremie WAO/IVA/WGA;  
 
-18°. totaal gedifferentieerde premie WGA;  
+18°. totaal gedifferentieerde premie Whk;  
 
 19°. totaal premie WW Awf;  
 
@@ -142,7 +142,7 @@ a. inkomstenverhouding initieel:
 
 b. natuurlijk persoon: 
 
-1°. BSN/sofinummer;  
+1°. BSN;  
 
 2°. voorletters;  
 
@@ -268,7 +268,7 @@ f. werknemersgegevens:
 
 14°. basispremie WAO/IVA/WGA;  
 
-15°. gedifferentieerde premie WGA;  
+15°. gedifferentieerde premie Whk;  
 
 16°. premie WW Awf;  
 
@@ -310,13 +310,13 @@ g. sector risicogroep:
 
 5°. aanwas in het cumulatieve premieloon sectorfonds;  
 
-6°. premie sectorfonds.       
+6°. premie sectorfonds.      
 
 ### Artikel  1a.2  
 
 ####Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bevat de gegevens, genoemd in artikel 1a.1.  
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bevat de gegevens, genoemd in artikel 1a.1. 
 
 ### Artikel  1a.3  
 
@@ -364,7 +364,7 @@ a. inkomstenverhouding initieel:
 
 b. natuurlijk persoon: 
 
-1°. BSN/sofinummer;  
+1°. BSN;  
 
 2°. geboortedatum;  
 
@@ -376,45 +376,17 @@ c. inkomstenperiode initieel:
 
 2°. code soort inkomstenverhouding/inkomenscode;  
 
-3°. code aard arbeidsverhouding;  
+3°. indicatie loonheffingskorting;  
 
-4°. code invloed verzekeringsplicht;  
+4°. code reden geen bijtelling auto;  
 
-5°. code contract onbepaalde/bepaalde tijd;  
+5°. code loonbelastingtabel;  
 
-6°. code fase indeling F&Z;  
+6°. indicatie verzekerd WAO/IVA/WGA;  
 
-7°. indicatie premiekorting arbeidsgehandicapten;  
+7°. indicatie verzekerd WW;  
 
-8°. indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers;  
-
-9°. indicatie premiekorting in dienst hebben oudere werknemers;  
-
-10°. indicatie loonheffingskorting;  
-
-11°. code reden geen bijtelling auto;  
-
-12°. code loonbelastingtabel;  
-
-13°. indicatie verzekerd WAO/IVA/WGA;  
-
-14°. indicatie verzekerd WW;  
-
-15°. indicatie verzekerd ZW;  
-
-16°. indicatie premievrijstelling marginale arbeid;  
-
-17°. indicatie wachtgeld oude regeling;  
-
-18°. code verzekeringssituatie Zvw;  
-
-19°. indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);  
-
-20°. indicatie loon inclusief WAJONG-uitkering;  
-
-21°. indicatie personeelslening waarvan de rente en/of kostenvoordelen niet tot het loon zijn gerekend;  
-
-22°. indicatie vervoer vanwege inhoudingsplichtige;    
+8°. code verzekeringssituatie Zvw;    
 
 d. werknemersgegevens (gecumuleerd): 
 
@@ -422,60 +394,30 @@ d. werknemersgegevens (gecumuleerd):
 
 2°. loon SV;  
 
-3°. premieloon WAO/IVA/WGA;  
+3°. ingehouden loonbelasting/premie volksverzekeringen;  
 
-4°. premieloon uniforme premie WAO/gedifferentieerde premie WGA;  
+4°. basispremie WAO/IVA/WGA;  
 
-5°. premieloon WW Awf;  
+5°. gedifferentieerde premie WGA;  
 
-6°. premieloon Ufo;  
+6°. premie WW Awf;  
 
-7°. loon belast volgens tabel bijzondere beloningen;  
+7°. premie Ufo;  
 
-8°. ingehouden loonbelasting/premie volksverzekeringen;  
+8°. ingehouden bijdrage Zvw;  
 
-9°. basispremie WAO/IVA/WGA;  
+9°. werkgeversheffing Zvw;  
 
-10°. uniforme premie WAO/gedifferentieerde premie WGA;  
+10°. waarde privégebruik auto;  
 
-11°. premie WW Awf;  
+11°. werknemersbijdrage privégebruik auto;  
 
-12°. premie Ufo;  
+12°. gespaard bedrag levensloopregeling;  
 
-13°. ingehouden bijdrage Zvw;  
+13°. toegepast bedrag levensloopverlofkorting;  
 
-14°. bedrag vergoeding Zvw door inhoudingsplichtige;  
-
-15°. waarde privégebruik auto;  
-
-16°. werknemersbijdrage privégebruik auto;  
-
-17°. gespaard bedrag levensloopregeling;  
-
-18°. toegepast bedrag levensloopverlofkorting;  
-
-19°. bedrag vergoeding reiskosten;  
-
-20°. verrekende arbeidskorting;  
-
-21°. bedrag in uitkering begrepen doorbetaalde alimentatie;  
-
-22°. bedrag rechtstreeks betaalde alimentatie;    
-
-e. sector risicogroep: 
-
-1°. datum aanvang sectorrisicogroep;  
-
-2°. datum einde sectorrisicogroep;  
-
-3°. sector;  
-
-4°. risicopremiegroep;  
-
-5°. premieloon premie sectorfonds;  
-
-6°. premie sectorfonds.       
-4.  De opgave wordt op dezelfde wijze en in dezelfde vorm verstrekt als de aangifte.   
+14°. verrekende arbeidskorting.       
+4.  De opgave wordt op dezelfde wijze en in dezelfde vorm verstrekt als de aangifte.  
 
 ### Hoofdstuk  2  
 
@@ -485,15 +427,15 @@ e. sector risicogroep:
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  2.2  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling gegevensuitvraag loonaangifte.  
+Deze regeling wordt aangehaald als: Regeling gegevensuitvraag loonaangifte. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

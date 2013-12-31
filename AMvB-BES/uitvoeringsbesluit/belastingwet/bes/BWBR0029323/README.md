@@ -18,12 +18,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 8.39](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.69](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.89](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.95](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.109](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.115a van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel 3, vierde lid, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 8.39](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.69](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.89](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.95](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.109](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.115a van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [artikel 3, vierde lid, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 14 van de Wet geldstelsel BES](../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md).   
 2.  Dit besluit verstaat onder: 
 
-a. *wet:*[Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md);  
+a. *wet:* [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md);  
 
-b. *CBS versie 2 mei 1998:* door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities.     
+b. *CBS versie 2 mei 1998:* door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities.    
 
 ### Hoofdstuk  2  
 
@@ -31,7 +31,7 @@ b. *CBS versie 2 mei 1998:* door het Centraal Bureau voor de Statistiek gehantee
 
 ### Artikel  2.1  
 
-Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de artikelen 2.2 tot en met 2.5.  
+Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de artikelen 2.2 tot en met 2.5. 
 
 ### Artikel  2.2  
 
@@ -49,7 +49,7 @@ e. voor het aanplakken van een exploot: USD 3;
 
 f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3;  
 
-g. voor het verzenden van een aanmaning tot betaling: USD 1.    
+g. voor het verzenden van een aanmaning tot betaling: USD 1.  
 
 ### Artikel  2.3  
 
@@ -64,17 +64,17 @@ c. voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten
 d. voor het ingevolge wettelijk voorschrift opmaken van een ander proces-verbaal: USD 12;  
 
 e. voor iedere getuige: USD 8,50 per uur of voor zover de duur niet in volle uren kan worden gerekend, per gedeelte daarvan.     
-2.  Indien de verrichtingen, bedoeld in de onderdelen a en b, ter plaatse langer dan twee uren duren, worden de genoemde bedragen verhoogd met USD 12 voor elk volgend uur of gedeelte daarvan.   
+2.  Indien de verrichtingen, bedoeld in de onderdelen a en b, ter plaatse langer dan twee uren duren, worden de genoemde bedragen verhoogd met USD 12 voor elk volgend uur of gedeelte daarvan.  
 
 ### Artikel  2.4  
 
 1.  Voor de bewaring van in beslag genomen zaken is voor elke dag of gedeelte daarvan verschuldigd: USD 8,50.   
 2.  Het op grond van het eerste lid verschuldigde bedrag komt toe aan de bewaarder.   
-3.  Aan de bewaarder komt geen vergoeding toe indien hij bij de bewaring van de zaken ook overigens belang heeft of in enige andere betrekking met de bewaring is belast.   
+3.  Aan de bewaarder komt geen vergoeding toe indien hij bij de bewaring van de zaken ook overigens belang heeft of in enige andere betrekking met de bewaring is belast.  
 
 ### Artikel  2.5  
 
-Naast de in de artikelen 2.2 tot en met 2.4 genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen.  
+Naast de in de artikelen 2.2 tot en met 2.4 genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen. 
 
 ### Hoofdstuk  3  
 
@@ -114,7 +114,7 @@ n. overige maatschappelijke, sociale en persoonlijke dienstverlening, zoals omsc
 
 o. particuliere huishoudens met personeel in loondienst, voor zover al niet uitgezonderd, zoals omschreven in letter P, onderdeel 95, van de CBS versie 2 mei 1998;  
 
-p. extraterritoriale organisaties en lichamen, voor zover al niet uitgezonderd, zoals omschreven in letter Q, onderdeel 99, van de CBS versie 2 mei 1998.    
+p. extraterritoriale organisaties en lichamen, voor zover al niet uitgezonderd, zoals omschreven in letter Q, onderdeel 99, van de CBS versie 2 mei 1998.   
 
 ### Hoofdstuk  4  
 
@@ -122,7 +122,7 @@ p. extraterritoriale organisaties en lichamen, voor zover al niet uitgezonderd, 
 
 ### Artikel  4.1  
 
-Aan deskundigen en tolken die door de inspecteur met toepassing van [artikel 8.89 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn aangewezen of door de Raad van Beroep voor belastingzaken met toepassing van [artikel 8.109 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn opgeroepen, wordt een vergoeding toegekend overeenkomstig het [Besluit tarieven in burgerlijke zaken BES](../../../../../AMvB-BES/besluit/tarieven/in/burgerlijke/zaken/bes/BWBR0028448/README.md).  
+Aan deskundigen en tolken die door de inspecteur met toepassing van [artikel 8.89 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn aangewezen of door de Raad van Beroep voor belastingzaken met toepassing van [artikel 8.109 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn opgeroepen, wordt een vergoeding toegekend overeenkomstig het [Besluit tarieven in burgerlijke zaken BES](../../../../../AMvB-BES/besluit/tarieven/in/burgerlijke/zaken/bes/BWBR0028448/README.md). 
 
 ### Hoofdstuk  5  
 
@@ -140,7 +140,7 @@ c. reis- en verblijfkosten;
 
 d. verletkosten, en  
 
-e. kosten van uittreksels uit openbare registers, alsmede kosten van telegrammen, internationale telexen, internationale telefaxen en internationale telefoongesprekken.    
+e. kosten van uittreksels uit openbare registers, alsmede kosten van telegrammen, internationale telexen, internationale telefaxen en internationale telefoongesprekken.   
 
 ### Artikel  5.2  
 
@@ -156,12 +156,12 @@ d. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel d: overeenkomsti
 
 e. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel e: op de werkelijke kosten.     
 2.  Indien een partij door de rechter gedeeltelijk in het gelijk wordt gesteld, kan het op grond van het eerste lid vastgestelde bedrag worden verminderd. Het op grond van het eerste lid vastgestelde bedrag kan eveneens worden verminderd indien het beroep bij de Raad van Beroep voor belastingzaken is ingetrokken omdat gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen.   
-3.  In bijzondere omstandigheden kan van het eerste lid worden afgeweken.   
+3.  In bijzondere omstandigheden kan van het eerste lid worden afgeweken.  
 
 ### Artikel  5.3  
 
 1.  Samenhangende zaken worden voor de toepassing van artikel 5.2, eerste lid, onderdeel a, beschouwd als één zaak.   
-2.  Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in artikel 5.1, onderdeel a, is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.   
+2.  Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in artikel 5.1, onderdeel a, is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.  
 
 ### Hoofdstuk  6  
 
@@ -169,7 +169,7 @@ e. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel e: op de werkeli
 
 ### Artikel  6.1  
 
-De in hoofdstuk 5 voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd.  
+De in hoofdstuk 5 voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd. 
 
 ### Hoofdstuk  7  
 
@@ -177,7 +177,15 @@ De in hoofdstuk 5 voorkomende bedragen kunnen bij regeling van Onze Minister van
 
 ### Artikel  7.1  
 
-Ten aanzien van de in artikel 3.1 van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) niet van toepassing.  
+Ten aanzien van de in artikel 3.1 van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) niet van toepassing. 
+
+### Hoofdstuk  7a  
+
+####Aanwijzing bevoegde functionaris
+
+### Artikel  7a.1  
+
+Op het tijdstip van transitie, bedoeld in [artikel 13a, onderdeel a, van de Wet geldstelsel BES](../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), gaan de taken en bevoegdheden van de Gouverneur en het bestuurscollege, bedoeld in de Landsverordening ter bevordering van bedrijfsvestiging en hotelbouw, de Landsverordening belastingfaciliteiten industriële ondernemingen, de Landsverordening renovatie hotels en de Landsverordening ter bevordering van grondontwikkeling, over op de directeur-generaal Belastingdienst, bedoeld in de op [artikel 3 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gebaseerde ministeriële regeling. 
 
 ### Hoofdstuk  8  
 
@@ -185,11 +193,11 @@ Ten aanzien van de in artikel 3.1 van dit besluit opgesomde bedrijfssectoren en 
 
 ### Artikel  8.1  
 
-Dit besluit treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.  
+Dit besluit treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland. 
 
 ### Artikel  8.2  
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit Belastingwet BES.  
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit Belastingwet BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -197,12 +205,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 december 2010  
 Beatrix  
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F. H. H. Weekers   
 
 de *achtentwintigste* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
 
 ### Bijlage  
@@ -240,27 +248,27 @@ Het bedrag van de kosten, bedoeld in artikel 5.1, onderdeel a, van het Uitvoerin
 
 ### B  
 
-####Waarde per punt
+####Waarde per punt 
 
 ### B1  
 
-#### *Beroep* 
+####*Beroep* 
 
-1 punt = USD 391  
+1 punt = USD 391 
 
 ### B2  
 
-#### *Bezwaar* 
+####*Bezwaar* 
 
-1 punt = USD 196  
+1 punt = USD 196 
 
 ### C  
 
-####Wegingsfactoren
+####Wegingsfactoren 
 
 ### C1  
 
-#### *Gewicht van de zaak* 
+####*Gewicht van de zaak* 
 
 | gewicht  | factor  |
 |:---|:---|
@@ -272,7 +280,7 @@ Het bedrag van de kosten, bedoeld in artikel 5.1, onderdeel a, van het Uitvoerin
 
 ### C2  
 
-#### *Samenhangende zaken* 
+####*Samenhangende zaken* 
 
 | aantal samenhangende zaken  | factor  |
 |:---|:---|
