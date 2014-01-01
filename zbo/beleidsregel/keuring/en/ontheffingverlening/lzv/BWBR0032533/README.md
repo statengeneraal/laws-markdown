@@ -15,7 +15,7 @@ Besluit:
 
 Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) overgenomen. Voorts wordt verstaan onder: 
 
-a. *aantekening op het kentekenbewijs:* bijzonderheidscode op het kentekenbewijs waaruit blijkt dat het voertuig na keuring geschikt is bevonden voor gebruik in een LZV;  
+a. *aantekening op het kentekenbewijs dan wel aantekening in het kentekenregister:* bijzonderheidscode op het kentekenbewijs dan wel in het kentekenregister waaruit blijkt dat het voertuig na keuring geschikt is bevonden voor gebruik in een LZV;  
 
 b. *autonome beslisruimte LZV:* de actuele gegevens waarbij de wegbeheerder een weg of weggedeelte als geschikt voor het berijden met een LZV opgeeft waarvoor de Dienst Wegverkeer zonder toestemming als bedoeld in [artikel 149b, tweede lid, van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 4 van het Besluit ontheffing verlening exceptionele transporten](../../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md) ontheffing mag verlenen voor LZV’s onder de daarbij van toepassing zijnde beperkingen en voorschriften;  
 
@@ -54,7 +54,7 @@ b. de incidentele ontheffing LZV, en
 c. de opleidingsontheffing LZV.     
 2.  De Dienst Wegverkeer verleent ontheffingen LZV als bedoeld in het eerste lid, op het kenteken van het trekkende motorrijtuig, indien de geschiktheid tot het samenstellen van een LZV blijkt uit: 
 
-a. een aantekening op het kentekenbewijs, als bedoel in artikel 13, tweede lid, of  
+a. een aantekening op het kentekenbewijs dan wel aantekening in het kentekenregister, als bedoeld in artikel 13, tweede lid, of  
 
 b. een LZV attest als bedoeld in artikel 13, derde lid.     
 
@@ -78,7 +78,7 @@ c. maximaal één trekkend motorrijtuig.
 
 a. aanvragers van een LZV aansluitroute , of  
 
-b. evenementen, waarbij het een noodzakelijke route betreft vanaf of naar de plaats van een evenement ten behoeve of mede ten behoeve van LZV’s, of  
+b. evenementen, waarbij het een noodzakelijke route betreft vanaf of naar de plaats van een evenement ten behoeve of mede ten behoeve van LZV’s dan wel ten behoeve van een praktijkonderzoek geschiktheid wegen, of  
 
 c. stremmingen, waarbij tijdelijk wegen of weggedeeltes geheel of gedeeltelijk ontoegankelijk zijn, en kan worden afgegeven voor wegen of weggedeeltes die: 
 
@@ -172,10 +172,10 @@ De Dienst Wegverkeer verzoekt de wegbeheerders de in CROW- richtlijn 320 LZV’s
 
 ### Artikel  13  
 
-####Aantekening op kentekenbewijs ten behoeve van LZV of LZV attest
+####Aantekening in het kentekenregister ten behoeve van LZV of LZV attest
 
-1.  Een aantekening op het kentekenbewijs ten behoeve van LZV of een LZV attest als bedoeld in artikel 3, tweede lid, onder a en b, wordt op aanvraag afgegeven indien bij een door de Dienst Wegverkeer verrichte keuring naar zijn oordeel is voldaan aan de eisen in bijlage A.   
-2.  Een aantekening op het kentekenbewijs wordt geplaatst, indien het een voertuig met Nederlands kenteken betreft.   
+1.  Een aantekening in het kentekenregister ten behoeve van LZV of een LZV attest als bedoeld in artikel 3, tweede lid, onder a en b, wordt op aanvraag afgegeven indien bij een door de Dienst Wegverkeer verrichte keuring naar zijn oordeel is voldaan aan de eisen in bijlage A.   
+2.  Een aantekening in het kentekenregister wordt geplaatst, indien het een voertuig met Nederlands kenteken betreft.   
 3.  Een LZV attest wordt afgegeven, indien het een voertuig met een buitenlands kenteken betreft.   
 4.  Een aanvraag als bedoeld in het eerste lid dient te worden gedaan op het door de Dienst Wegverkeer vastgestelde model aanvraagformulier.   
 
@@ -206,9 +206,9 @@ d. plaats op de rijbaan;
 
 e. afmetingen en massa’s voertuig en LZV’s in onbeladen toestand en beladen toestand;  
 
-f. eisen trekkend motorrijtuig met aantekening op kentekenbewijs of LZV attest;  
+f. eisen trekkend motorrijtuig met aantekening in het kentekenregister of LZV attest;  
 
-g. eisen getrokken voertuigen met aantekening op kentekenbewijs of LZV attest;  
+g. eisen getrokken voertuigen met aantekening in het kentekenregister of LZV attest;  
 
 h. draaicirkel LZV;  
 
@@ -225,15 +225,7 @@ j. markering achterste voertuig LZV.
 
 ####Overgangsregeling
 
-1.  De onder de [Beleidsregel Ervaringsfase ontheffingverlening LZV 2009](../../../../../../../zbo/beleidsregel/ervaringsfase/ontheffingverlening/lzv/2009/BWBR0026390/README.md) afgegeven ontheffingen behouden hun geldigheid tot de geldigheidsduur van de ontheffing is verstreken.   
-2.  De onder de [Beleidsregel Ervaringsfase ontheffingverlening LZV 2009](../../../../../../../zbo/beleidsregel/ervaringsfase/ontheffingverlening/lzv/2009/BWBR0026390/README.md) afgegeven aantekeningen op het kentekenbewijs alsmede de afgegeven LZV attesten behouden hun geldigheid.   
-3.  Onverminderd het bepaalde in het eerste lid, mogen LZV’s tot 1 januari 2014 zijn voorzien van de volgende markering: 
-
-a. het achterste voertuig van een LZV moet zijn voorzien van een horizontaal geplaatste markering waarop over de volle hoogte van het gele vlak de zijdelingse contour van de betreffende LZV in de kleur zwart is aangebracht;  
-
-b. indien de markering is verdeeld over twee borden, dient de bedoelde contour van de combinatie op het op de linker helft van het voertuig aangebrachte bord te zijn aangebracht;  
-
-c. de totale lengte van de LZV in meters moet in de kleur zwart op de markering zijn aangegeven.     
+1.  De onder de [Beleidsregel Ervaringsfase ontheffingverlening LZV 2009](../../../../../../../zbo/beleidsregel/ervaringsfase/ontheffingverlening/lzv/2009/BWBR0026390/README.md) afgegeven aantekeningen op het kentekenbewijs alsmede de afgegeven LZV attesten behouden hun geldigheid.   
 
 ### Artikel  17  
 
@@ -256,7 +248,7 @@ Algemeen Directeur
 
 ####, als bedoeld in artikel 13, eerste lid 
 
-Keuringseisen aantekening op kentekenbewijs ten behoeve van LZV of afgifte LZV attest. 
+Keuringseisen aantekening in het kentekenregister ten behoeve van LZV of afgifte LZV attest. 
 
 ####Algemeen
 
@@ -266,7 +258,7 @@ Daar waar in deze bijlage naar een richtlijn of verordening wordt verwezen, word
 
 ####keuringseisen trekkend motorrijtuig LZV
 
-1. Een trekkend motorrijtuig moet: 
+Een trekkend motorrijtuig moet: 
 
 a. behoren tot categorie N2 of N3, als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) (onder ‘voertuigen van de voertuigcategorie N’) en waarvoor een kenteken zonder gebruiksbeperking is opgegeven;  
 
@@ -274,11 +266,11 @@ b. uitgerust zijn met een EBS drukluchtremsysteem als bedoeld in ECE 13 par. 5.1
 
 c. een koppeling hebben voor het aankoppelen van een aanhangwagen of oplegger die voldoet aan het bepaalde in richtlijn 94/20/EG en tevens geschikt is voor de grotere krachten (hogere D- en V-waarden) van de LZV; <sup> 2  94/20/EEG van het Europees Parlement en van de Raad van 30 mei 1994 betreffende mechanische koppelinrichtingen van motorvoertuigen en aanhangwagens en de bevestiging van de inrichtingen aan deze voertuigen (PbEG L 195).  </sup>  
 
-d. met uitzondering van trekkers van opleggers zijn voorzien van zijdelingse afscherming als bedoeld in [artikel 5.3.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), die voldoet aan het bepaalde in artikel 1.1. van de bijlage bij richtlijn 89/297/EEG en bestaat uit een doorlopend vlak;  
+d. met uitzondering van trekkers van opleggers, zijn voorzien van zijdelingse afscherming die voldoet aan het bepaalde van de bijlage bij richtlijn 89/297/EEG of het bepaalde van ECE reglement 73, waarbij als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak;  
 
 e. voorzien zijn van opspatafschermingen, die voldoen aan richtlijn 91/226/EEG; <sup> 3  91/226/EEG Richtlijn van de Raad van 27 maart 1991 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake opspatafschermingssystemen bij bepaalde categorieën motorvoertuigen en aanhangwagens daarvan (PbEG L 103).  </sup>  
 
-f. voorzien zijn van opvallende markering als bedoeld in en geïnstalleerd volgens richtlijn 76/756/EEG ongeacht de uitzonderingen die in de richtlijn genoemd worden, en waarvan het toegepaste materiaal voldoet aan ECE-Reglement nr. 104 klasse C , <sup> 4  VN ECE-reglement nr. 104 met uniforme eisen betreffende de goedkeuring van retroreflecterende markering voor zware en lange voertuigen en hun aanhangwagens, behorende bij de overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken, en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen.  </sup>  
+f. voorzien zijn van opvallende markering als bedoeld in en geïnstalleerd volgens richtlijn 76/756/EEG en waarvan het toegepaste materiaal voldoet aan ECE-Reglement nr. 104 klasse C , waarbij als aanvullende eis geldt dat op trekkers van opleggers opvallende markering moet zijn aangebracht; <sup> 1  VN ECE-reglement nr. 104 met uniforme eisen betreffende de goedkeuring van retroreflecterende markering voor zware en lange voertuigen en hun aanhangwagens, behorende bij de overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken, en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen.  </sup>  
 
 g. voorzien zijn van een afscherming als bedoeld in richtlijn 2000/40/EG; <sup> 5  Richtlijn nr. 2000/40/EG van het Europees Parlement en de Raad van de Europese Unie van 26 juni 2000 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende de beschermingsinrichting aan de voorzijde tegen klemrijden van motorvoertuigen en houdende wijziging van richtlijn nr. 70/156/EEG van de Raad (PbEG L 203).  </sup>  
 
@@ -320,7 +312,11 @@ a. behoren tot categorie O3 of O4 als bedoeld in [artikel 1.1 van de Regeling vo
 
 b. uitgerust zijn met een EBS drukluchtremsysteem als bedoeld in ECE Reglement 13, par. 5.1.3.1.2.;  
 
-c. onverminderd [artikel 5.12.48 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), voorzien zijn van een zijdelingse afscherming, die voldoet aan het bepaalde in artikel 1.1 van de bijlage bij richtlijn 89/297/EEG, en bestaat uit een doorlopend vlak oppervlak, afgezien van de in artikel 1.1 van de bijlage bij richtlijn 89/297/EEG bedoelde uitzondering;  
+c. zijn voorzien van zijdelingse afscherming die voldoet aan het bepaalde van de bijlage bij richtlijn 89/297/EEG of het bepaalde in ECE reglement 73, waarbij, met uitzondering van een voertuig van de voertuigcategorie O – niet zijnde oplegger – dat van een koppelingsschotel is voorzien om een oplegger te dragen, als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak, en waarbij: 
+
+1° voertuigen die uitgeschoven kunnen worden in uitgeschoven toestand tot de wettelijke maximale lengte moeten zijn voorzien van zijdelingse afscherming;  
+
+2° bij een middenasaanhangwagen de zijdelingse afscherming moet zijn aangebracht in de ruimte tussen de voorste punt van de opbouw en de eerste as;    
 
 d. voorzien zijn van opspatafschermingen, die voldoen aan richtlijn 91/226/EEG;  
 
@@ -394,13 +390,13 @@ De Directie van de Dienst Wegverkeer namens deze, Divisie Voertuigtechniek,  *Pl
 
 ### Artikel  A  
 
-####Lzv afmetingen en draaipunten
+####LZV aantekening, draaipunten en afmeting
 
-Een LZV: 
+1. Elk voertuig in een LZV moet zijn voorzien van een LZV aantekening op het kentekenbewijs dan wel een LZV aantekening in het kentekenregister dan wel, indien het een buitenlands voertuig betreft, een LZV attest;  
 
-1. heeft ten hoogste 2 draaipunten;  
+2. Een LZV heeft ten hoogste 2 draaipunten;  
 
-2. heeft een totale lengte van ten hoogste 25.25 m. met inbegrip van de lading en met inachtneming van de in [artikel 5.1a.1, tweede lid, onder a, onderdeel 1° tot en met 14° van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) bepaalde meetmethode.    
+3. Een LZV heeft een totale lengte van ten hoogste 25.25 m. met inbegrip van de lading en met inachtneming van de in [artikel 5.1a.1, tweede lid, onder a, onderdeel 1° tot en met 14° van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) bepaalde meetmethode.    
 
 ### Artikel  B  
 
@@ -410,7 +406,7 @@ Een ontheffing LZV mag niet worden gebruikt in combinatie met een ontheffing voo
 
 ### Artikel  C  
 
-####Lzv ontheffing en vervoer ondeelbare lading
+####LZV ontheffing en vervoer ondeelbare lading
 
 Bij gebruik van een ontheffing LZV is het vervoer van ondeelbare lading op de wijze als bedoeld in de [artikelen 5.18.13](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [5.18.14 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) niet toegestaan.  
 
@@ -486,7 +482,7 @@ Voor een LZV geldt een inhaalverbod van alle motorvoertuigen die sneller mogen r
 
 2. Elk afzonderlijk voertuig moet voldoen aan hoofdstuk 5 afdeling 3 voor bedrijfswagens respectievelijk afdeling 12 voor getrokken voertuigen.  
 
-3. Het trekkende motorvoertuig dient zodanig te zijn belast, dat tenminste 1/5 deel van de totale massa van de LZV onder de aangedreven as(sen) rust met als maximum, de maximale toegestane aslast(en), zoals vermeld op het kentekenbewijs.  
+3. Het trekkende motorvoertuig dient zodanig te zijn belast, dat tenminste 1/5 deel van de totale massa van de LZV onder de aangedreven as(sen) rust met als maximum, de maximale toegestane aslast(en), zoals vermeld op het kentekenbewijs dan wel in het kentekenregister.  
 
 4. Een samenstel van twee aanhangwagens die is gekoppeld op een manier waardoor horizontale verdraaiing ten opzichte van elkaar onmogelijk is, vormt voor het gebruik één aanhangwagen zoals bedoeld in [artikel 5.18.1 , zesde lid van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).  
 
@@ -496,11 +492,11 @@ Voor een LZV geldt een inhaalverbod van alle motorvoertuigen die sneller mogen r
 
 ####Trekkend motorrijtuig LZV
 
-Het trekkend motorrijtuig van een LZV moet zijn voorzien van; 
+Het trekkend motorrijtuig van een LZV moet zijn voorzien van: 
 
-1. zijdelingse afscherming als bedoeld in [artikel 5.3.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en bestaat uit een doorlopend vlak oppervlak;  
+1. zijdelingse afscherming als bedoeld in [artikel 5.3.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), waarbij als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak;  
 
-2. opvallende markering als bedoeld in en geïnstalleerd volgens richtlijn 76/756/EEG en waarvan het toegepaste materiaal voldoet aan ECE-Reglement nr. 104 klasse C ). <sup> 1  VN ECE-reglement nr. 104 met uniforme eisen betreffende de goedkeuring van retroreflecterende markering voor zware en lange voertuigen en hun aanhangwagens, behorende bij de overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken, en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen.  </sup>    
+2. opvallende markering als bedoeld in en geïnstalleerd volgens richtlijn 76/756/EEG en waarvan het toegepaste materiaal voldoet aan ECE-Reglement nr. 104 klasse C, waarbij als aanvullende eis geldt dat op trekkers van opleggers opvallende markering moet zijn aangebracht.    
 
 ### Artikel  G  
 
@@ -508,7 +504,11 @@ Het trekkend motorrijtuig van een LZV moet zijn voorzien van;
 
 Het getrokken voertuig van een LZV moet zijn voorzien van: 
 
-1. zijdelingse afscherming als bedoeld in [artikel 5.12.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en bestaat uit een doorlopend vlak oppervlak;  
+1. zijdelingse afscherming als bedoeld in [artikel 5.12.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), met uitzondering een voertuig van de voertuigcategorie O -niet zijnde oplegger- dat van een koppelingsschotel is voorzien om een oplegger te dragen, als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak, en waarbij 
+
+1° voertuigen die uitgeschoven kunnen worden in uitgeschoven toestand tot de wettelijke maximale lengte moeten zijn voorzien van zijdelingse afscherming;  
+
+2° bij een middenasaanhangwagen de zijdelingse afscherming moet zijn aangebracht in de ruimte tussen de voorste punt van de opbouw en de eerste as;    
 
 2. opvallende markering als bedoeld in en geïnstalleerd volgens richtlijn 76/756/EEG en waarvan het toegepaste materiaal voldoet aan ECE-Reglement nr. 104 klasse C ). <sup> 2  VN ECE-reglement nr. 104 als bedoeld bij voetnoot .  </sup>    
 
@@ -530,13 +530,13 @@ De lengte van de laadruimte, zijnde de afstand tussen het voorste punt aan de bu
 
 1. Het achterste voertuig van een LZV moet zijn voorzien van een deugdelijk bevestigde horizontaal geplaatste markering met een afmeting van 1130 mm x 200 mm (+/-5 mm). Aanhangwagens waarvan de bouw, de inrichting of het gebruik zich verzet tegen het aanbrengen van de markering van 1130 mm x 200 mm mogen zijn voorzien van 2 borden van afmeting 565 mm x 200 mm (+/-5 mm)  
 
-2. De markering bedoeld in het eerste lid moet uitgevoerd met een geel retroreflecterend vlak van minimaal klasse 2 als bedoeld in VN ECE-reglement nr. 104 met een rode fluorescerende rand van 40 mm(+/- 1 mm)  
+2. De markering bedoeld in het eerste lid moet uitgevoerd met een geel retro reflecterend vlak van minimaal klasse 2 als bedoeld in VN ECE-reglement nr. 70 met een rode fluorescerende rand van 40 mm(+/- 1 mm)  
 
 3. Op de markering bedoeld het eerste lid moet in zwarte letters de volgende tekst zijn vermeld: ‘ LET OP! EXTRA LANG’.  
 
 4. Wanneer de markering is verdeeld over twee borden, moet de tekst ‘ LET OP!’ op de linker helft respectievelijk de tekst ’ EXTRA LANG ’ op de rechterhelft van de op het voertuig bevestigde bord zijn aangebracht.  
 
-5. De in het derde lid bedoelde tekst moet goed leesbaar te zijn en de uitgevoerd zijn volgens onderstaand model, waarbij: 
+5. De in het derde lid bedoelde tekst moet goed leesbaar te zijn, waarbij: 
 
 a. het lettertype Helvetica neue - black condensed is;  
 

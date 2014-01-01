@@ -3,11 +3,11 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 september 2008, nr. TRCJZ/2007/3190, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de visserij (Uitvoeringsregeling visserij)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op de [artikelen 1, tweede lid, onderdelen a en b, en vijfde lid](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [2c, eerste lid](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [17, eerste en derde lid](../../../../wet/visserijwet/1963/BWBR0002416/README.md), en [24 van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md);
+Gelet op de artikelen 1, tweede lid, onderdelen a en b, en vijfde lid, 2c, eerste lid, 17, eerste en derde lid, en 24 van de Visserijwet 1963;
 
-Gelet op de [artikelen 3](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), [4](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md) en [6d van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md);
+Gelet op de artikelen 3, 4 en 6d van het Reglement zee- en kustvisserij 1977;
 
-Gelet op de [artikelen 1, eerste lid, onderdeel g, tweede en derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [6, derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [8](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10a, eerste en tweede lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [11](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [12](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en [13 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);
+Gelet op de artikelen 1, eerste lid, onderdeel g, tweede en derde lid, 6, derde lid, 8, 10a, eerste en tweede lid, 11, 12 en 13 van het Reglement voor de binnenvisserij 1985;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,11 +19,11 @@ In deze regeling wordt verstaan onder:
 
 a. Minister: de Minister van Economische Zaken;  
 
-b. visserijzone: in [artikel 1, vierde lid, onder a, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md) (Stb. 312) bedoelde zone;  
+b. visserijzone: in artikel 1, vierde lid, onder a, van de wet (Stb. 312) bedoelde zone;  
 
-c. zeegebied: als zodanig in [artikel 1 van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md) (Stb. 176) aangewezen wateren;  
+c. zeegebied: als zodanig in artikel 1 van het Besluit aanwijzing zeegebied en kustwateren 1970 (Stb. 176) aangewezen wateren;  
 
-d. kustwateren: als zodanig in [artikel 2 van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md) aangewezen wateren;  
+d. kustwateren: als zodanig in artikel 2 van het Besluit aanwijzing zeegebied en kustwateren 1970 aangewezen wateren;  
 
 e. binnenwateren: overige Nederlandse wateren, niet behorende tot het zeegebied en de kustwateren;  
 
@@ -49,13 +49,13 @@ o. bordennet: vistuig dat bestaat uit één net dat bij het vissen wordt opengeh
 
 p. handzeef: zeef met een lengte en breedte van ten minste 80 centimeter respectievelijk 60 centimeter, in de lengterichting voorzien van gladde draadvormige spijlen, die op gelijke hoogte en met een onderlinge afstand van ten minste 7 millimeter zijn aangebracht;  
 
-q. functionaris: functionaris als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md);  
+q. functionaris: functionaris als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij;  
 
 r. visvak: in een tussen het Rijk en de huurder gesloten overeenkomst tot verhuur van het visrecht nader aangeduid visgebied, waarin op grond van deze overeenkomst met een aalfuik, staand want, hoekwant, aalkistje, ankerkuil of enig ander vast vistuig mag worden gevist;  
 
 s. staatswateren: wateren waarvan de Staat der Nederlanden de eigendom heeft van de grond eronder;  
 
-t. IJsselmeer: IJsselmeer zoals afgebakend in [artikel 1, tweede en derde lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+t. IJsselmeer: IJsselmeer zoals afgebakend in artikel 1, tweede en derde lid, van het Reglement voor de binnenvisserij 1985;  
 
 u. garnaal: noordzeegarnaal (Crangon crangon).  
 
@@ -69,7 +69,7 @@ y. vergunning voor een mosselzaadinvanginstallatie: vergunning als bedoeld in ar
 
 z. mosselkweekperceel: perceel dat zich bevindt in een kustwater en dat bestemd is voor het kweken van mosselen;  
 
-aa. wet: [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
+aa. wet: Visserijwet 1963;  
 
 bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in bijlage I, tabel 3, van verordening (EG) nr. 26/2004 van de Commissie van de Europese Gemeenschappen van 30 december 2003 betreffende de communautaire gegevensbestand over de vissersvloot (PbEU L5).    
 
@@ -77,11 +77,11 @@ bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in
 
 Deze regeling berust op: 
 
-a. de [artikelen 1, tweede lid, onderdelen a en b](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [2c, eerste lid](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [3a](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [17, eerste en derde lid](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [24](../../../../wet/visserijwet/1963/BWBR0002416/README.md) en [54c van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
+a. de artikelen 1, tweede lid, onderdelen a en b, 2c, eerste lid, 3a, 17, eerste en derde lid, 24 en 54c van de wet;  
 
-b. de [artikelen 3](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), [4](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md) en [6d van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), en  
+b. de artikelen 3, 4 en 6d van het Reglement zee- en kustvisserij 1977, en  
 
-c. de [artikelen 1, eerste lid, onderdeel g, tweede en derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [6, derde lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [7a](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [8](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10a](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [10b](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [11](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), [12](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en [13 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md).    
+c. de artikelen 1, eerste lid, onderdeel g, tweede en derde lid, 6, derde lid, 7a, 8, 10a, 10b, 11, 12 en 13 van het Reglement voor de binnenvisserij 1985.    
 
 ### Hoofdstuk  2  
 
@@ -89,15 +89,15 @@ c. de [artikelen 1, eerste lid, onderdeel g, tweede en derde lid](../../../../AM
 
 ### §  2.1  
 
-####Aanwijzingen op grond van de [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md)
+####Aanwijzingen op grond van de Visserijwet 1963
 
 ### Artikel  2  
 
-Als vissen, onderscheidenlijk schaal- en schelpdieren als bedoeld in [artikel 1, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), worden aangewezen de in de bijlage 1 opgenomen soorten.  
+Als vissen, onderscheidenlijk schaal- en schelpdieren als bedoeld in artikel 1, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de wet, worden aangewezen de in de bijlage 1 opgenomen soorten.  
 
 ### Artikel  4  
 
-Als middelen, bedoeld in [artikel 2c, eerste lid, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), waarmee het verboden is vis te bedwelmen, te verwonden of te doden, worden aangewezen: 
+Als middelen, bedoeld in artikel 2c, eerste lid, van de wet, waarmee het verboden is vis te bedwelmen, te verwonden of te doden, worden aangewezen: 
 
 a. kokkelbonen;  
 
@@ -111,15 +111,15 @@ e. andere vergiftigende, bedwelmende en ontplofbare stoffen.
 
 ### Artikel  5  
 
-Als water waarvoor de bepalingen van [paragraaf 5 van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md) betreffende de huur en verhuur van visrecht niet gelden, wordt aangewezen: het Grevelingenmeer.  
+Als water waarvoor de bepalingen van paragraaf 5 van de wet betreffende de huur en verhuur van visrecht niet gelden, wordt aangewezen: het Grevelingenmeer.  
 
 ### Artikel  5a  
 
-Als vissoort als bedoeld in [artikel 54c, derde lid, onderdeel a, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), worden aangewezen: de aal en de wolhandkrab.  
+Als vissoort als bedoeld in artikel 54c, derde lid, onderdeel a, van de wet, worden aangewezen: de aal en de wolhandkrab.  
 
 ### Artikel  5b  
 
-De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), bedraagt: 
+De afmeting, bedoeld in artikel 2a, eerste lid, van de Visserijwet 1963, bedraagt: 
 
 * 20 centimeter voor bot;  
 
@@ -143,7 +143,7 @@ De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](../../
 
 ### Artikel  5c  
 
-Het tijdvak, bedoeld in [artikel 2a, tweede lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), is 
+Het tijdvak, bedoeld in artikel 2a, tweede lid, van de Visserijwet 1963, is 
 
 * 1 april tot en met 31 mei: baars, barbeel, kopvoorn, snoekbaars en winde;  
 
@@ -157,7 +157,7 @@ Het tijdvak, bedoeld in [artikel 2a, tweede lid, van de Visserijwet 1963](../../
 
 ### §  2.2  
 
-####Aanwijzingen op grond van het [Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md)
+####Aanwijzingen op grond van het Reglement voor de binnenvisserij 1985
 
 ### §  2.3  
 
@@ -165,12 +165,12 @@ Het tijdvak, bedoeld in [artikel 2a, tweede lid, van de Visserijwet 1963](../../
 
 ### Artikel  7  
 
-1.  Degene die in overeenstemming met [artikel 7a van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) vissen aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.   
+1.  Degene die in overeenstemming met artikel 7a van het Reglement voor de binnenvisserij 1985 vissen aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985, zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.   
 2.  Degene die bemiddeling verleent bij het veilen van de vissoorten, genoemd in het eerste lid, is verplicht er voor zorg te dragen dat op bij de op de veiling aanwezige vissoorten de naam van de aanvoerder is vermeld alsmede de herkomst van de vissoorten.   
 
 ### Artikel  8  
 
-1.  In het geval een aanvoerder van aal als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), deze soort onder zich houdt, blijkt uit de administratie, bedoeld in artikel 7, eerste lid: 
+1.  In het geval een aanvoerder van aal als bedoeld in artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985, deze soort onder zich houdt, blijkt uit de administratie, bedoeld in artikel 7, eerste lid: 
 
 a. de hoeveelheid;  
 
@@ -181,7 +181,7 @@ c. de datum van aanvoer en de datum van verkoop;
 d. de herkomst, en  
 
 e. de naam van de afnemer.     
-2.  In het geval een aanvoerder van vis meer dan 5 kilogram, die in overeenstemming met [artikel 7 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) is gevangen, onder zich houdt, als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), moet uit de administratie, bedoeld in artikel 7, eerste lid, blijken: 
+2.  In het geval een aanvoerder van vis meer dan 5 kilogram, die in overeenstemming met artikel 7 van het Reglement voor de binnenvisserij 1985 is gevangen, onder zich houdt, als bedoeld in artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985, moet uit de administratie, bedoeld in artikel 7, eerste lid, blijken: 
 
 a. de vissoort;  
 
@@ -227,9 +227,9 @@ Alle bewijsstukken of bescheiden waarin de gegevens, bedoeld in artikel 8, zijn 
 
 De verplichting om een administratie bij te houden als bedoeld in artikel 7, eerste lid, geldt niet voor: 
 
-a. een inrichting waarvoor een vergunning ingevolge [artikel 3 van de Drank- en Horecawet](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) is vereist;  
+a. een inrichting waarvoor een vergunning ingevolge artikel 3 van de Drank- en Horecawet is vereist;  
 
-b. een inrichting waarvan de ondernemer op grond van [artikel 3 van de Registratieverordening Bedrijfschap Horeca en Catering 2008](../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2008/BWBR0025199/README.md) of [artikel 8 van de Registratieverordening HBD 2005](../../../../pbo/registratieverordening/hbd/2005/BWBR0018359/README.md) verplicht is tot registratie bij het Bedrijfschap Horeca en Catering respectievelijk het Hoofdbedrijfschap Detailhandel.    
+b. een inrichting waarvan de ondernemer op grond van artikel 3 van de Registratieverordening Bedrijfschap Horeca en Catering 2008 of artikel 8 van de Registratieverordening HBD 2005 verplicht is tot registratie bij het Bedrijfschap Horeca en Catering respectievelijk het Hoofdbedrijfschap Detailhandel.    
 
 ### Artikel  10a  
 
@@ -244,7 +244,7 @@ c. de herkomst van de aal;
 d. het aantal en het soort vistuigen waarmee de visser in de betreffende week op aal heeft gevist.     
 2.  De opgave geschiedt op een door de Minister beschikbaar te stellen format.   
 3.  In afwijking van het eerste lid kan een visser die in een bepaalde periode geen gebruik maakt van de vistuigen genoemd in artikel 32a, eerste lid, hiervan voorafgaand aan die periode opgave doen.   
-4.  Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van [artikel 104, tweede lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) alle aalvangsten registreren.   
+4.  Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van artikel 104, tweede lid, van de Uitvoeringsregeling zeevisserij alle aalvangsten registreren.   
 
 ### Hoofdstuk  3  
 
@@ -282,8 +282,8 @@ b. sleepnetten met wekkerkettingen in de gebieden genoemd in bijlage 3a, 3b en 5
 a. de harpoen, de elger, de aalschaar, of enig ander vistuig, hetwelk geëigend is de vis te verwonden, met uitzondering van het hoekwant, de reep, de dobber, de zetangel of fleur, de hengel of spieringtuig, en  
 
 b. een visnet waarvan het netwerk van metaalgaas is vervaardigd, met uitzondering van de kreeftenkorf en enig ander net, bestemd of mede bestemd tot het vangen van schaal- en schelpdieren, zeesterren en zee- of koraalmos.     
-2.  Het is verboden in de kustwateren, genoemd in [artikel 2, eerste lid, van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md), te vissen met een kuilnet waarvan de maaswijdte kleiner is dan 17 mm.   
-3.  Het is verboden in de kustwateren, genoemd in [artikel 2, derde tot en met zevende lid, van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md), met de hierna genoemde vistuigen te vissen, indien de maaswijdte kleiner is dan het aantal millimeters, vermeld achter het desbetreffende vistuig: 
+2.  Het is verboden in de kustwateren, genoemd in artikel 2, eerste lid, van het Besluit aanwijzing zeegebied en kustwateren 1970, te vissen met een kuilnet waarvan de maaswijdte kleiner is dan 17 mm.   
+3.  Het is verboden in de kustwateren, genoemd in artikel 2, derde tot en met zevende lid, van het Besluit aanwijzing zeegebied en kustwateren 1970, met de hierna genoemde vistuigen te vissen, indien de maaswijdte kleiner is dan het aantal millimeters, vermeld achter het desbetreffende vistuig: 
 
 a. de ankerkuil 13 mm;  
 
@@ -304,7 +304,7 @@ Het is verboden de visserij uit te oefenen met een vissersvaartuig waarvan het m
 
 ### Artikel  16  
 
-Het is verboden te vissen met mechanische vistuigen, geschikt voor het vangen van kokkels in de kustwateren, bedoeld in [artikel 2, eerste lid, van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md).  
+Het is verboden te vissen met mechanische vistuigen, geschikt voor het vangen van kokkels in de kustwateren, bedoeld in artikel 2, eerste lid, van het Besluit aanwijzing zeegebied en kustwateren 1970.  
 
 ### Artikel  17  
 
@@ -312,7 +312,7 @@ Het is verboden te vissen met enig vistuig, geschikt voor het vangen van schelpd
 
 a. de gebieden, genoemd in bijlage 4;  
 
-b. de territoriale zee van Nederland, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](../../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md);  
+b. de territoriale zee van Nederland, bedoeld in artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee;  
 
 c. het zeegebied, en  
 
@@ -360,7 +360,7 @@ Het is verboden op of in de nabijheid van enig water, behorend tot de visserijzo
 
 ### Artikel  24  
 
-Als wateren waarin het ingevolge [artikel 7, tweede lid, onderdeel a, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is verboden te vissen tussen twee uur na zonsondergang en één uur vóór zonsopgang worden aangewezen de in bijlage 2 opgenomen wateren.  
+Als wateren waarin het ingevolge artikel 7, tweede lid, onderdeel a, van het Reglement voor de binnenvisserij 1985, is verboden te vissen tussen twee uur na zonsondergang en één uur vóór zonsopgang worden aangewezen de in bijlage 2 opgenomen wateren.  
 
 ### Artikel  25  
 
@@ -376,9 +376,9 @@ Het uitzetten van graskarpers is verboden in:
 
 a. beken en rivieren;  
 
-b. wateren die geheel dan wel ten dele zijn gelegen in gebieden als bedoeld in [artikel 10](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), [10a](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en [12 van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);  
+b. wateren die geheel dan wel ten dele zijn gelegen in gebieden als bedoeld in artikel 10, 10a en 12 van de Natuurbeschermingswet 1998;  
 
-c. wateren die geheel dan wel ten dele zijn gelegen op percelen die als natuurgebied zijn aangewezen in een bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en  
+c. wateren die geheel dan wel ten dele zijn gelegen op percelen die als natuurgebied zijn aangewezen in een bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening, en  
 
 d. overige wateren.    
 
@@ -482,40 +482,32 @@ Het is verboden te vissen met de aaskuil in de gebieden in het IJsselmeer, genoe
 
 1.  De zeevisserij, de kustvisserij en de binnenvisserij zijn in de periode van 1 september tot en met 30 november verboden met de volgende vistuigen: 
 
-a. aaldogger als bedoeld in [artikel 1, onderdeel i, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+a. aaldogger als bedoeld in artikel 1, onderdeel i, van het Reglement voor de binnenvisserij 1985;  
 
-b. aalfuik als bedoeld in [artikel 1, onderdeel e, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+b. aalfuik als bedoeld in artikel 1, onderdeel e, van het Reglement voor de binnenvisserij 1985;  
 
-c. aalhoekwant als bedoeld in [artikel 1, onderdeel h, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+c. aalhoekwant als bedoeld in artikel 1, onderdeel h, van het Reglement voor de binnenvisserij 1985;  
 
-d. aalkistje als bedoeld in [artikel 1, onderdeel g, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+d. aalkistje als bedoeld in artikel 1, onderdeel g, van het Reglement voor de binnenvisserij 1985;  
 
-e. aalzegen als bedoeld in [artikel 1, onderdeel k, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+e. aalzegen als bedoeld in artikel 1, onderdeel k, van het Reglement voor de binnenvisserij 1985;  
 
-f. ankerkuil als bedoeld in [artikel 1, onderdeel f, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+f. ankerkuil als bedoeld in artikel 1, onderdeel f, van het Reglement voor de binnenvisserij 1985;  
 
-g. electrovisapparaat als bedoeld in [artikel 1, onderdeel p, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md);  
+g. electrovisapparaat als bedoeld in artikel 1, onderdeel p, van het Reglement voor de binnenvisserij 1985;  
 
-h. peur als bedoeld in [artikel 1, vijfde lid, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
+h. peur als bedoeld in artikel 1, vijfde lid, van de wet;  
 
-i. visfuik als bedoeld in [artikel 1, eerste lid, onderdeel d, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), of  
+i. visfuik als bedoeld in artikel 1, eerste lid, onderdeel d, van het Reglement voor de binnenvisserij 1985, of  
 
 j. enig ander vistuig, niet zijnde een hengel, dat in hoofdzaak gebruikt wordt of bestemd is voor de vangst van aal.     
 2.  Het is verboden om in de periode, genoemd in het eerste lid, een vistuig als genoemd in het eerste lid, voorhanden te hebben op of in de nabijheid van de Nederlandse wateren.   
 3.  Van het verbod, bedoeld in het eerste lid, onderdeel c, en in het tweede lid, wordt vrijstelling verleend voor de zee- en kustvisserij met een drijvend of in de waterkolom zwevend vistuig bestaande uit een lange lijn met daaraan aan zijlijntjes bevestigde enkeltandige haken, waarvan de kortste afstand tussen de punt en de steel ten minste 10 mm bedraagt, die de zeebodem niet raken.   
-4.  Van het verbod, bedoeld in het eerste lid, onderdeel b, en in het tweede lid, wordt vrijstelling verleend voor de visserij met een aalfuik waarin: 
-
-a. als afsluiting van de fuik achter de laatste inkeling een hoepel van gelijke grootte als de laatste hoepel van de fuik is aangebracht, bespannen met een netwerk met een maaswijdte van ten minste 60 mm, dat zodanig is aangebracht, dat de mazen in de te water staande fuik vierkant van vorm zijn;  
-
-b. als afsluiting van de fuik achter de laatste inkeling een hoepel van gelijke grootte als de laatste hoepel van de fuik is aangebracht, waaraan een in een punt toelopend netwerk met een maaswijdte van ten minste 60 mm is bevestigd, of  
-
-c. waarin achter de laatste inkeling een verlenging van de fuik bevestigd, bestaande uit om twee hoepels van gelijke grootte als de laatste hoepel van de fuik gespannen netwerk met een maaswijdte van ten minste 60 mm.     
-5.  De vrijstelling, bedoeld in het vierde lid, geldt slechts voor ondernemers die voor 1 september van het betreffende jaar een controleovereenkomst hebben gesloten met Productschap Vis.   
 
 ### Artikel  32b  
 
-1.  Aal, gevangen in de visserijzone, het zeegebied, de kustwateren of de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), in de periode, genoemd in artikel 32a, eerste lid, met een vistuig dat niet genoemd is in artikel 32a, eerste lid, onderdelen a tot en met j, wordt onmiddellijk na het lichten van het vistuig levend in hetzelfde water teruggezet.   
-2.  Het is verboden in de periode, bedoeld in artikel 32a, eerste lid, op of nabij het zeegebied, de kustwateren, de visserijzone en de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md), aal voorhanden te hebben.   
+1.  Aal, gevangen in de visserijzone, het zeegebied, de kustwateren of de wateren, bedoeld in artikel 1, vierde lid, onderdeel d, van de wet, in de periode, genoemd in artikel 32a, eerste lid, met een vistuig dat niet genoemd is in artikel 32a, eerste lid, onderdelen a tot en met j, wordt onmiddellijk na het lichten van het vistuig levend in hetzelfde water teruggezet.   
+2.  Het is verboden in de periode, bedoeld in artikel 32a, eerste lid, op of nabij het zeegebied, de kustwateren, de visserijzone en de wateren, bedoeld in artikel 1, vierde lid, onderdeel d, van de wet, aal voorhanden te hebben.   
 
 ### Hoofdstuk  4  
 
@@ -527,7 +519,7 @@ c. waarin achter de laatste inkeling een verlenging van de fuik bevestigd, besta
 
 ### Artikel  33  
 
-1.  Bij het verlenen van vrijstellingen of ontheffingen alsmede bij het daaraan verbinden van voorschriften en het verlenen onder beperkingen, als bedoeld in [artikel 6d, tweede lid, van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), en de [artikel 11](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en [12, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), wordt mede rekening gehouden met de belangen van de natuurbescherming.   
+1.  Bij het verlenen van vrijstellingen of ontheffingen alsmede bij het daaraan verbinden van voorschriften en het verlenen onder beperkingen, als bedoeld in artikel 6d, tweede lid, van het Reglement zee- en kustvisserij 1977, en de artikel 11 en 12, van het Reglement voor de binnenvisserij 1985, wordt mede rekening gehouden met de belangen van de natuurbescherming.   
 2.  Aan vrijstellingen, ontheffingen en vergunningen als bedoeld in onderhavige regeling, kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend. Zij kunnen worden ingetrokken.   
 3.  Niet naleven van beperkingen of voorschriften als bedoeld in het eerste lid, wordt aangemerkt als handelen zonder vrijstelling, ontheffing of vergunning als bedoeld in het tweede lid.   
 
@@ -565,7 +557,7 @@ Het verbod, bedoeld in artikel 23, geldt niet indien het vistuig zodanig is verp
 
 ### Artikel  38  
 
-1.  Van het bepaalde in [artikel 6c, eerste lid, van het Reglement zee- en kustvisserij 1977](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md) wordt vrijstelling verleend: 
+1.  Van het bepaalde in artikel 6c, eerste lid, van het Reglement zee- en kustvisserij 1977 wordt vrijstelling verleend: 
 
 a. voor het uitoefenen van de visserij met de boomkor met vaartuigen, andere dan vissersvaartuigen met een lengte over alles kleiner dan 8 meter, in de visserijzone, het zeegebied en de Westerschelde, alsmede voor het in deze wateren aan boord van zodanige vaartuigen aanwezig hebben van een boomkor, en  
 
@@ -593,7 +585,7 @@ b. met vaartuigen met een lengte over alles kleiner dan 10 meter, voor zover het
 
 ### Artikel  40  
 
-Van [artikel 79, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) wordt vrijstelling verleend voor vaartuigen, andere dan vissersvaartuigen: 
+Van artikel 79, eerste lid, van de Uitvoeringsregeling zeevisserij wordt vrijstelling verleend voor vaartuigen, andere dan vissersvaartuigen: 
 
 a. met een lengte over alles kleiner dan 8 meter, voor zover het betreft het verbod om een boomkor aan boord te hebben in de visserijzone, het zeegebied en de Westerschelde, en  
 
@@ -607,7 +599,7 @@ De vrijstellingen, bedoeld in de artikelen 39 en 40, worden slechts verleend voo
 
 1.  Aan de vrijstellingen, bedoeld in artikel 38, eerste lid, aanhef en onder a, artikel 39 en artikel 40, worden de volgende voorschriften verbonden: 
 
-a. vissoorten als genoemd in de [bijlagen 4](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), [5](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), en [6 van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), met uitzondering van schar en bot gevangen in de bij die vissoorten genoemde wateren, dienen onmiddellijk na het ophalen ervan in hetzelfde water te worden teruggezet;  
+a. vissoorten als genoemd in de bijlagen 4, 5, en 6 van de Uitvoeringsregeling zeevisserij, met uitzondering van schar en bot gevangen in de bij die vissoorten genoemde wateren, dienen onmiddellijk na het ophalen ervan in hetzelfde water te worden teruggezet;  
 
 b. indien de visserij op garnalen wordt uitgeoefend, dient de vangst direct na aan boord te zijn gehaald, te worden gesorteerd met behulp van een handzeef, en  
 
@@ -616,11 +608,11 @@ c. het is verplicht een handzeef aan boord te hebben van het vaartuig waarmee de
 
 a. verordening (EG) nr. 850/98 van de Raad van de Europese Unie van 30 maart 1998 voor de instandhouding van visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen (PbEG L125) wordt, met uitzondering van artikel 29 van voornoemde verordening, bij de uitoefening van de visserij in acht genomen;  
 
-b. aanlandingen in Nederlandse havens vinden slechts overeenkomstig de de [Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) plaats, en  
+b. aanlandingen in Nederlandse havens vinden slechts overeenkomstig de de Uitvoeringsregeling zeevisserij plaats, en  
 
 c. bij aanlanding in een Nederlandse haven is de ondernemer verplicht onverwijld maar uiterlijk binnen een half uur na aanlanding per vissoort opgave van de vangsthoeveelheden te doen.     
-3.  De opgave, bedoeld in het tweede lid, onderdeel c, vindt plaats door middel van het indienen van het logboek, bedoeld in artikel 15, eerste lid, van de controleverordening, bedoeld in [artikel 1, tweede lid, van de Uitvoeringsregeling zeevisseri](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) j.   
-4.  Het indienen van het logboek, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Nederlandse Voedsel- en Warenautoriteit of deponering van het formulier in een opgavebus als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md).   
+3.  De opgave, bedoeld in het tweede lid, onderdeel c, vindt plaats door middel van het indienen van het logboek, bedoeld in artikel 15, eerste lid, van de controleverordening, bedoeld in artikel 1, tweede lid, van de Uitvoeringsregeling zeevisseri j.   
+4.  Het indienen van het logboek, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Nederlandse Voedsel- en Warenautoriteit of deponering van het formulier in een opgavebus als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij.   
 
 ### Artikel  43  
 
@@ -714,7 +706,7 @@ d. eidragende zeekreeften die zijn gevangen in de Oosterschelde, pas verschaalde
 e. de vistuigen worden in spuikommen en havens minimaal 10 meter en in de overige visvakken minimaal 25 meter vanaf de scheidingslijn van 2 visvakken geplaatst, en  
 
 f. indien overeenstemming is bereikt met de rechthebbende op het visrecht in het naastgelegen visvak over de afstand waarop de vistuigen vanaf de scheidingslijn tussen de visvakken worden geplaatst, worden de vistuigen, in afwijking van het bepaalde in onderdeel e, minimaal de overeengekomen afstand vanaf de scheidslijn tussen de visvakken geplaatst.     
-2.  Onderdeel b is niet van toepassing op permanent onder water staande schietfuiken in de kustwateren, genoemd in [artikel 2, tweede tot en met het zevende lid, van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md).   
+2.  Onderdeel b is niet van toepassing op permanent onder water staande schietfuiken in de kustwateren, genoemd in artikel 2, tweede tot en met het zevende lid, van het Besluit aanwijzing zeegebied en kustwateren 1970.   
 
 ### Artikel  52a  
 
@@ -762,7 +754,7 @@ d. het vistuig ten minste eenmaal per etmaal wordt geïnspecteerd en degene die 
 
 ### Artikel  53  
 
-Van het bepaalde in [artikel 2, eerste lid](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en [artikel 5, eerste lid, van het Reglement voor de Binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) wordt vrijstelling verleend voor zover het betreft het vissen met de oesterkor in het Grevelingenmeer.  
+Van het bepaalde in artikel 2, eerste lid en artikel 5, eerste lid, van het Reglement voor de Binnenvisserij 1985 wordt vrijstelling verleend voor zover het betreft het vissen met de oesterkor in het Grevelingenmeer.  
 
 ### §  4.8  
 
@@ -770,7 +762,7 @@ Van het bepaalde in [artikel 2, eerste lid](../../../../AMvB/reglement/voor/de/b
 
 ### Artikel  54  
 
-Van het bepaalde in [artikel 6, eerste lid, onderdeel a, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) wordt vrijstelling verleend voor zover het betreft het vissen met de hengel, geaasd met enig kunstaas, in het Oostvoornsemeer.  
+Van het bepaalde in artikel 6, eerste lid, onderdeel a, van het Reglement voor de binnenvisserij 1985 wordt vrijstelling verleend voor zover het betreft het vissen met de hengel, geaasd met enig kunstaas, in het Oostvoornsemeer.  
 
 ### §  4.9  
 
@@ -778,7 +770,7 @@ Van het bepaalde in [artikel 6, eerste lid, onderdeel a, van het Reglement voor 
 
 ### Artikel  55  
 
-1.  Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die: 
+1.  Het verbod, bedoeld in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985, is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die: 
 
 a. beschikt over minimaal 250 hectare viswater en daarmee inkomsten uit de visserij genereert van minimaal € 8.500,– bruto per jaar;  
 
@@ -787,12 +779,12 @@ b. zich daartoe heeft gemeld bij de Minister;
 c. de melding, bedoeld in onderdeel b, vergezeld heeft doen gaan van een assurance-rapport van een register-accountant of een accountant-administratieconsulent waaruit blijkt dat in het kalenderjaar voorafgaande aan de melding is voldaan aan het criterium, bedoeld in onderdeel a, en  
 
 d. voorts telkens éénmaal in de vier jaar, te rekenen vanaf de melding, bedoeld in onderdeel b, de Minister een rapport heeft doen toekomen als bedoeld in onderdeel c, waaruit blijkt dat in het kalenderjaar voorafgaande aan de toezending van het assurance-rapport nog steeds is voldaan aan het criterium, bedoeld in onderdeel a.     
-2.  Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is niet van toepassing op het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit, alsmede op het vissen in een viskwekerij.   
+2.  Het verbod, bedoeld in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985, is niet van toepassing op het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit, alsmede op het vissen in een viskwekerij.   
 3.  Bij de bepaling van het areaal, bedoeld in het eerste lid, onderdeel a, wordt mede begrepen het oppervlak aan viswater waarvoor vergunning is verleend ingevolge de artikelen 12 en 36, met uitzondering van het viswater waarvoor vergunning is verleend voor recreatief vissen voor uitsluitend eigen gebruik met maximaal twee fuiken of met beperkte lengte hoekwant tot maximaal 200 meter, of met beperkte lengte staand want tot maximaal 150 meter.   
 
 ### Artikel  56  
 
-1.  Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die: 
+1.  Het verbod, bedoeld in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985, is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die: 
 
 a. beschikt over minimaal 250 hectare viswater;  
 
@@ -805,11 +797,11 @@ c. de melding, bedoeld in onderdeel b, vergezeld heeft doen gaan van:
 2°. een assurance-rapport als bedoeld in artikel 55, eerste lid, onderdeel c, waaruit blijkt dat op het tijdstip van de melding is voldaan aan het areaalcriterium, bedoeld in artikel 55, eerste lid, onderdeel a, en    
 
 d. gedurende een periode van twee jaren voorafgaande aan de melding, bedoeld in onderdeel b, niet heeft gevist op basis van de in het eerste lid bedoelde vrijstelling.     
-2.  De in het eerste lid bedoelde vrijstelling van het in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) bedoelde verbod, geldt gedurende een periode van twee jaren, te rekenen vanaf de melding, bedoeld in onderdeel b.   
+2.  De in het eerste lid bedoelde vrijstelling van het in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985 bedoelde verbod, geldt gedurende een periode van twee jaren, te rekenen vanaf de melding, bedoeld in onderdeel b.   
 
 ### Artikel  57  
 
-Van het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is vrijgesteld degene die de visrechthebbende of de houder van de schriftelijke toestemming, bedoeld in de artikelen 55, eerste lid, en 56, eerste lid, behulpzaam is bij het vissen met een vistuig, dat niet door één persoon kan worden bediend.  
+Van het verbod, bedoeld in artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985, is vrijgesteld degene die de visrechthebbende of de houder van de schriftelijke toestemming, bedoeld in de artikelen 55, eerste lid, en 56, eerste lid, behulpzaam is bij het vissen met een vistuig, dat niet door één persoon kan worden bediend.  
 
 ### Artikel  57a  
 
@@ -830,7 +822,7 @@ De Minister bevestigt binnen drie weken de ontvangst van de melding, bedoeld in 
 
 ### Artikel  60a  
 
-Van [artikel 1](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md) en [2 van het Reglement minimummaten en gesloten tijd 1985](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md) en [artikel 7a van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) is vrijgesteld, degene die ten gevolge van plotselinge vissterfte, of van de dreiging daarvan, gebruik maakt van de vistuigen, bedoeld in artikel 7a van het Reglement voor de binnenvisserij 1985, mits de vis, die met dat gebruik wordt verkregen, onverwijld wordt uitgezet in een nabij gelegen water waar een dergelijke dreiging zich niet voordoet.  
+Van artikel 1 en 2 van het Reglement minimummaten en gesloten tijd 1985 en artikel 7a van het Reglement voor de binnenvisserij 1985 is vrijgesteld, degene die ten gevolge van plotselinge vissterfte, of van de dreiging daarvan, gebruik maakt van de vistuigen, bedoeld in artikel 7a van het Reglement voor de binnenvisserij 1985, mits de vis, die met dat gebruik wordt verkregen, onverwijld wordt uitgezet in een nabij gelegen water waar een dergelijke dreiging zich niet voordoet.  
 
 ### §  4.10  
 
@@ -838,7 +830,7 @@ Van [artikel 1](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/
 
 ### Artikel  61  
 
-1.  Van het bepaalde in [artikel 6, eerste lid, aanhef en onderdeel a, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) en van het bepaalde in [artikel 2, aanhef en onderdeel a, van het Reglement minimummaten en gesloten tijden 1985](../../../../AMvB/reglement/minimummaten/en/gesloten/tijden/1985/BWBR0003805/README.md), voor zover het betreft de vissoorten baars, snoek, en snoekbaars wordt jaarlijks vrijstelling verleend vanaf de laatste zaterdag in mei tot en met 31 mei.   
+1.  Van het bepaalde in artikel 6, eerste lid, aanhef en onderdeel a, van het Reglement voor de binnenvisserij 1985 en van het bepaalde in artikel 2, aanhef en onderdeel a, van het Reglement minimummaten en gesloten tijden 1985, voor zover het betreft de vissoorten baars, snoek, en snoekbaars wordt jaarlijks vrijstelling verleend vanaf de laatste zaterdag in mei tot en met 31 mei.   
 2.  De vrijstelling, bedoeld in het eerste lid, is niet van toepassing op het vissen in het IJsselmeer.   
 
 ### §  4.11  
@@ -876,7 +868,7 @@ d. aanwezig blijven en in deugdelijke staat te worden gehouden zolang de graskar
 
 ### Artikel  64  
 
-1.  Van het bepaalde in [artikel 4, tweede lid, van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) wordt voor de spieringvisserij op het IJsselmeer een vrijstelling verleend voor de periode die door de Minister kan worden vastgesteld krachtens artikel 65.   
+1.  Van het bepaalde in artikel 4, tweede lid, van het Reglement voor de binnenvisserij 1985 wordt voor de spieringvisserij op het IJsselmeer een vrijstelling verleend voor de periode die door de Minister kan worden vastgesteld krachtens artikel 65.   
 2.  Vis van andere soorten dan spiering dient onmiddellijk nadat deze is opgehaald weer in hetzelfde water te worden teruggezet.   
 
 ### Artikel  65  
@@ -935,7 +927,7 @@ i. het desgevraagd onverwijld verstrekken aan de Minister van een afschrift van 
 
 a. het plan vóór 1 januari van het desbetreffende jaar ter goedkeuring aan de Minister is voorgelegd;  
 
-b. het plan aangeeft welke maatregelen genomen worden om de ten tijde van de inwerkingtreding van deze regeling op basis van [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) toegestane visserij-inspanning van de aangeslotenen te reduceren, waarbij de reductie met ingang van het jaar 2007 is vastgesteld op 32%, en  
+b. het plan aangeeft welke maatregelen genomen worden om de ten tijde van de inwerkingtreding van deze regeling op basis van artikel 8 van het Reglement voor de binnenvisserij 1985 toegestane visserij-inspanning van de aangeslotenen te reduceren, waarbij de reductie met ingang van het jaar 2007 is vastgesteld op 32%, en  
 
 c. het plan aangeeft welke maatregelen genomen worden om een duurzame wijze van vissen te waarborgen.     
 2.  In afwijking van het eerste lid kan ten genoegen van de Minister een andere datum dan 1 januari worden aangehouden mits deze zich naar het oordeel van de Minister verdraagt met het doel en de effectiviteit van het visplan.   
@@ -955,7 +947,7 @@ Aan de aangeslotenen bij de Coöperatieve Producentenorganisatie Nederlandse Vis
 a. de naam van de vergunninghouder, en  
 
 b. de lettertekens, het nummer, het motorvermogen en de tonnage van het visservaartuig ten behoeve waarvan de vergunning is verleend.     
-2.  Indien de Minister niet binnen de in [artikel 4:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde termijn op een aanvraag voor een vergunning als bedoeld in het eerste lid heeft beslist en de aanvraag is in overeenstemming met het bepaalde in het derde, vierde en vijfde lid, is de vergunning van rechtswege verleend overeenkomstig de aanvraag.   
+2.  Indien de Minister niet binnen de in artikel 4:13 van de Algemene wet bestuursrecht gestelde termijn op een aanvraag voor een vergunning als bedoeld in het eerste lid heeft beslist en de aanvraag is in overeenstemming met het bepaalde in het derde, vierde en vijfde lid, is de vergunning van rechtswege verleend overeenkomstig de aanvraag.   
 3.  Een vergunning als bedoeld in het eerste lid wordt ten aanzien van een vissersvaartuig slechts verleend indien: 
 
 a. het vissersvaartuig dient ter vervanging van een vissersvaartuig of vissersvaartuigen ten aanzien waarvan een vergunning als bedoeld in het eerste lid is verleend en de vergunninghouder afstand heeft gedaan van zijn gehele vergunning ten gunste van de aanvrager van de vergunning en het totaal verleende aantal vergunningen als bedoeld in het eerste lid niet toeneemt;  
@@ -988,7 +980,7 @@ b. de visserijactiviteiten van een vissersvaartuig ten behoeve waarvan de vergun
 
 ### Artikel  72  
 
-Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), wordt slechts verleend, voor zover: 
+Een vergunning, als bedoeld in artikel 8 van het Reglement voor de binnenvisserij 1985, wordt slechts verleend, voor zover: 
 
 a. de bij de desbetreffende vergunning behorende merkjes op of aan het betrokken vistuig of de betrokken vistuigen zijn bevestigd;  
 
@@ -998,24 +990,24 @@ c. niet wordt gevist in strijd met de nadere voorschriften zoals deze in de desb
 
 ### Artikel  73  
 
-1.  Een vergunning als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), wordt slechts verleend aan een ondernemer ten behoeve van een vissersvaartuig, dat in het visserijregister, bedoeld in [artikel 4 van het Besluit registratie visservaartuigen 1998](../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md), staat geregistreerd.   
-2.  De Minister verleent aan de ondernemer die op 31 mei 1996 om 24.00 uur op grond van [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) gerechtigd was te vissen in het IJsselmeer, voor het desbetreffende vissersvaartuig een vergunning als bedoeld in van het [Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md).   
-3.  De reikwijdte van de vergunning, bedoeld in het tweede lid, wordt vastgesteld met inachtneming van de historische rechten waarover de desbetreffende ondernemer in de periode van 1 juni 1995 tot en met 31 mei 1996 op basis van [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) kon beschikken, met een minimum van 30 merkjes.   
-4.  Indien de Minister niet binnen de in [artikel 4:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde termijn op een aanvraag voor een vergunning als bedoeld in het eerste lid heeft beslist en de aanvraag is in overeenstemming met het bepaalde in het eerste, tweede en derde lid, is de vergunning van rechtswege verleend overeenkomstig de aanvraag.   
+1.  Een vergunning als bedoeld in artikel 8 van het Reglement voor de binnenvisserij 1985, wordt slechts verleend aan een ondernemer ten behoeve van een vissersvaartuig, dat in het visserijregister, bedoeld in artikel 4 van het Besluit registratie visservaartuigen 1998, staat geregistreerd.   
+2.  De Minister verleent aan de ondernemer die op 31 mei 1996 om 24.00 uur op grond van artikel 8 van het Reglement voor de binnenvisserij 1985 gerechtigd was te vissen in het IJsselmeer, voor het desbetreffende vissersvaartuig een vergunning als bedoeld in van het Reglement voor de binnenvisserij 1985.   
+3.  De reikwijdte van de vergunning, bedoeld in het tweede lid, wordt vastgesteld met inachtneming van de historische rechten waarover de desbetreffende ondernemer in de periode van 1 juni 1995 tot en met 31 mei 1996 op basis van artikel 8 van het Reglement voor de binnenvisserij 1985 kon beschikken, met een minimum van 30 merkjes.   
+4.  Indien de Minister niet binnen de in artikel 4:13 van de Algemene wet bestuursrecht gestelde termijn op een aanvraag voor een vergunning als bedoeld in het eerste lid heeft beslist en de aanvraag is in overeenstemming met het bepaalde in het eerste, tweede en derde lid, is de vergunning van rechtswege verleend overeenkomstig de aanvraag.   
 
 ### Artikel  74  
 
-1.  Overdracht van een gehele vergunning als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is slechts mogelijk in het geval dat : 
+1.  Overdracht van een gehele vergunning als bedoeld in artikel 8 van het Reglement voor de binnenvisserij 1985, is slechts mogelijk in het geval dat : 
 
 a. ten behoeve van de ondernemer een pandrecht op een vergunning is verleend, indien een verklaring van de pandhouder is overgelegd waaruit blijkt dat deze met de overdracht instemt, en  
 
 b. in het geval dat een aangeslotene is betrokken, indien een schriftelijke verklaring van een erkende producentenorganisatie voor het IJsselmeer is overgelegd waaruit blijkt dat deze organisatie een afschrift van de desbetreffende overdrachtstransactie heeft ontvangen.     
 2.  De instemming van de pandhouder, bedoeld in het eerste lid, onderdeel a, is slechts vereist indien de pandhouder de Minister door middel van een afschrift van de akte van verpanding in kennis heeft gesteld van het gevestigde pandrecht.   
-3.  De overdracht vindt plaats door een gelijktijdige kennisgeving door de Minister aan de aanvrager en aan de ondernemer aan wie de vergunning van het [Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), wordt overgedragen, dat laatstgenoemde deze vergunning is verleend.   
+3.  De overdracht vindt plaats door een gelijktijdige kennisgeving door de Minister aan de aanvrager en aan de ondernemer aan wie de vergunning van het Reglement voor de binnenvisserij 1985, wordt overgedragen, dat laatstgenoemde deze vergunning is verleend.   
 
 ### Artikel  75  
 
-1.  Overdracht van een deel van de vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), is slechts mogelijk voor zover daarin is voorzien door het goedgekeurde visplan, bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md), en kan tijdelijk zijn of voor onbepaalde tijd. Een tijdelijke overdracht kan slechts betrekking hebben op een aaneengesloten periode van ten hoogste 12 maanden, gerekend vanaf 1 juni.   
+1.  Overdracht van een deel van de vergunning, als bedoeld in artikel 8 van het Reglement voor de binnenvisserij 1985, is slechts mogelijk voor zover daarin is voorzien door het goedgekeurde visplan, bedoeld in artikel 8 van het Reglement voor de binnenvisserij 1985, en kan tijdelijk zijn of voor onbepaalde tijd. Een tijdelijke overdracht kan slechts betrekking hebben op een aaneengesloten periode van ten hoogste 12 maanden, gerekend vanaf 1 juni.   
 2.  Een overdracht als bedoeld in het eerste lid, ongeacht of deze tijdelijk dan wel voor onbepaalde tijd is, is slechts mogelijk indien: 
 
 a. De vrijstelling, bedoeld in artikel 67, eerste lid, van kracht is, en  
@@ -1101,33 +1093,33 @@ c. de vaststelling van de exacte locatie van elke aanvrager binnen de gebieden, 
 
 De volgende regelingen worden ingetrokken: 
 
-a. de [Beschikking visserij visserijzone, zeegebied en kustwateren](../../../../ministeriele-regeling/beschikking/visserij/visserijzone/zeegebied/en/kustwateren/BWBR0003150/README.md) (Stcrt 1977, 255);  
+a. de Beschikking visserij visserijzone, zeegebied en kustwateren (Stcrt 1977, 255);  
 
-b. de [Regeling aanwijzing vissen, schaal- en schelpdieren](../../../../ministeriele-regeling/regeling/aanwijzing/vissen/schaal-/en/schelpdieren/BWBR0003561/README.md) (Stcrt. 1982, 253);  
+b. de Regeling aanwijzing vissen, schaal- en schelpdieren (Stcrt. 1982, 253);  
 
-c. de [Regeling aassoorten spieringtuig](../../../../ministeriele-regeling/regeling/aassoorten/spieringtuig/BWBR0003788/README.md) (Stcrt. 1985, 85);  
+c. de Regeling aassoorten spieringtuig (Stcrt. 1985, 85);  
 
-d. de [Aanwijzing verboden middelen tot bedwelming](../../../../ministeriele-regeling/aanwijzing/verboden/middelen/tot/bedwelming/BWBR0003790/README.md) (Stcrt. 1985, 85);  
+d. de Aanwijzing verboden middelen tot bedwelming (Stcrt. 1985, 85);  
 
-e. de [Regeling aanwijzing wateren gesloten tijd](../../../../ministeriele-regeling/regeling/aanwijzing/wateren/gesloten/tijd/BWBR0003800/README.md) (Stcrt. 1985, 103);  
+e. de Regeling aanwijzing wateren gesloten tijd (Stcrt. 1985, 103);  
 
-f. de [Regeling aanwijzing wateren verbod nachtvisserij](../../../../ministeriele-regeling/regeling/aanwijzing/wateren/verbod/nachtvisserij/BWBR0007415/README.md) (Stcrt. 1985, 103);  
+f. de Regeling aanwijzing wateren verbod nachtvisserij (Stcrt. 1985, 103);  
 
-g. de [Uitzondering Grevelingenmeer van bepaling huur- en verhuur visrecht](../../../../ministeriele-regeling/uitzondering/grevelingenmeer/van/bepaling/huur-/en/verhuur/visrecht/BWBR0004153/README.md) (Stcrt. 1987, 80);  
+g. de Uitzondering Grevelingenmeer van bepaling huur- en verhuur visrecht (Stcrt. 1987, 80);  
 
-h. de [Uitzet van graskarpers](../../../../ministeriele-regeling/uitzet/van/graskarpers/BWBR0004763/README.md) (Stcrt. 1990, 104);  
+h. de Uitzet van graskarpers (Stcrt. 1990, 104);  
 
-i. de [Regeling IJsselmeervisserij 1993](../../../../ministeriele-regeling/regeling/ijsselmeervisserij/1993/BWBR0005886/README.md) (Stcrt. 1993, 40);  
+i. de Regeling IJsselmeervisserij 1993 (Stcrt. 1993, 40);  
 
-j. de [Regeling vervroegde opening visseizoen](../../../../ministeriele-regeling/regeling/vervroegde/opening/visseizoen/BWBR0006591/README.md) (Stcrt. 1994, 71);  
+j. de Regeling vervroegde opening visseizoen (Stcrt. 1994, 71);  
 
-k. de [Regeling visserij-inspanning IJsselmeer](../../../../ministeriele-regeling/regeling/visserij-inspanning/ijsselmeer/BWBR0008072/README.md) (Stcrt. 1996, 101);  
+k. de Regeling visserij-inspanning IJsselmeer (Stcrt. 1996, 101);  
 
-l. de [Regeling maat middellijn ringetjes en gaatjes in zijwanden aalkistjes](../../../../ministeriele-regeling/regeling/maat/middellijn/ringetjes/en/gaatjes/in/zijwanden/aalkistjes/BWBR0009007/README.md) (Stcrt. 1997, 220);  
+l. de Regeling maat middellijn ringetjes en gaatjes in zijwanden aalkistjes (Stcrt. 1997, 220);  
 
-m de [Regeling eisen aan administratie inzake zoetwatervis](../../../../ministeriele-regeling/regeling/eisen/aan/administratie/inzake/zoetwatervis/BWBR0014543/README.md) (Stcrt. 2003, 4);  
+m de Regeling eisen aan administratie inzake zoetwatervis (Stcrt. 2003, 4);  
 
-n. de [Vrijstellingsregeling visserij](../../../../ministeriele-regeling/vrijstellingsregeling/visserij/BWBR0020734/README.md) (Stcrt. 2006, 247).    
+n. de Vrijstellingsregeling visserij (Stcrt. 2006, 247).    
 
 ### Artikel  79  
 
@@ -1146,10 +1138,10 @@ G.Verburg
 
 ####, behorend bij artikel 2 
 
-Vissen, schaal- en schelpdieren, bedoeld in [artikel 1, tweede lid, letter a, onderscheidenlijk letter b, van de wet](../../../../wet/visserijwet/1963/BWBR0002416/README.md):  Vissen 
+Vissen, schaal- en schelpdieren, bedoeld in artikel 1, tweede lid, letter a, onderscheidenlijk letter b, van de wet:  Vissen 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1.  | Aal/paling, Anguilla anguilla (Linnaeus, 1758)  |
 | 2.  | Alver, Alburnus alburnus (Linnaeus, 1758)  |
 | 3.  | Amerikaanse hondvis, Umbra pygmaea (de Kay, 1842)  |
@@ -1261,7 +1253,7 @@ Vissen, schaal- en schelpdieren, bedoeld in [artikel 1, tweede lid, letter a, on
 Schaaldieren 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 100a.  | Californische rivierkreeft, Pacifastacus leniusculus (Dana, 1852)  |
 | 100b.  | Geknobbelde Amerikaanse rivierkreeft, Orconectes virilis (Dana, 1852)  |
 | 100c.  | Gestreepte Amerikaanse rivierkreeft, Procambarus acutus  |
@@ -1283,7 +1275,7 @@ Schaaldieren
 Schelpdieren 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 111.  | Alikruik, Littorina littorea (Linnaeus)  |
 | 112.  | Amerikaanse oester, Crassostrea virginica (Gomelin)  |
 | 113.  | Clam, Venus mercenaria, Linnaeus  |
@@ -1348,7 +1340,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 53  | 01 193  | 5  | 05 841  |
 | 53  | 01 061  | 5  | 06 234  |
 | 53  | 00 919  | 5  | 06 096  |
@@ -1361,7 +1353,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 53  | 00 768  | 5  | 09 075  |
 | 53  | 00 813  | 5  | 09 523  |
 | 53  | 00 615  | 5  | 09 569  |
@@ -1374,7 +1366,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 53  | 01 190  | 5  | 10 853  |
 | 53  | 01 361  | 5  | 11 205  |
 | 53  | 01 232  | 5  | 11 378  |
@@ -1386,12 +1378,12 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
-| NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
-| 53  | 10 300  | 5  | 19 055  |
-| 53  | 10 300  | 5  | 20 411  |
-| 53  | 10 030  | 5  | 20 411  |
-| 53  | 10 030  | 5  | 19 055  |
+| NB  | OL  |
+|---|---|
+| 51-10-301  | 05-18-516  |
+| 51-10-301  | 05-19-872  |
+| 51-10-031  | 05-19-872  |
+| 51-10-031  | 05-18-516  |
 
 ### Bijlage  3b  
 
@@ -1404,7 +1396,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 51  | 31 062  | 3  | 21 612  |
 | 51  | 30 902  | 3  | 21 966  |
 | 51  | 30 682  | 3  | 21 706  |
@@ -1417,7 +1409,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 51  | 33 004  | 3  | 16 858  |
 | 51  | 32 806  | 3  | 17 157  |
 | 51  | 32 618  | 3  | 16 839  |
@@ -1430,7 +1422,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 51  | 30 815  | 3  | 16 479  |
 | 51  | 30 682  | 3  | 16 861  |
 | 51  | 30 445  | 3  | 16 644  |
@@ -1445,7 +1437,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | D_1_D:  | 3° 38' 8'  | OL  | 55° 38' 41'  | NB  |
 | D_2_D:  | 4° 15' 36'  | OL  | 55° 21' 54'  | NB  |
 | D_3_GB:  | 2° 45' 44,6'  | OL  | 54° 22' 38'  | NB  |
@@ -1457,7 +1449,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | FF_1  | 5° 14' 1,4'  | OL  | 54° 13' 23,9'  | NB  |
 | FF_2  | 5° 13' 37,6'  | OL  | 53° 49' 47,1'  | NB  |
 | FF_3  | 4° 12' 57,6'  | OL  | 53° 24' 59,3'  | NB  |
@@ -1468,7 +1460,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | KB_1  | 3° 18' 57'  | OL  | 54° 11' 57,8'  | NB  |
 | KB_2  | 3° 19' 3,6'  | OL  | 53° 49' 47,1'  | NB  |
 | KB_3_GB  | 2° 54' 14'  | OL  | 53° 50' 11,2'  | NB  |
@@ -1484,7 +1476,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied gelegen binnen de grenzen van de volgende punten en coördinaten; In het westen en het zuiden begrensd door de kust van Noord-Holland vanaf het sectorlicht achter Berghaven te Den Helder, en de lijn die gevormd wordt door de volgende coördinaten:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | 52.57.667 N  | 004.48.141 O  |
 | 2.  | 52.58.170 N  | 004.48.571 O  |
 | 3.  | 52.58.349 N  | 004.49.919 O  |
@@ -1511,7 +1503,7 @@ Het gebied gelegen binnen de grenzen van de volgende punten en coördinaten; In 
 Het gebied gelegen tussen de kust van Terschelling en de lijn die loopt over de volgende coördinaten:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | 53.20.784 N  | 005.11.011 O  |
 | 2.  | 53.20.179 N  | 005.11.094 O  |
 | 3.  | 53.19.643 N  | 005.09.324 O  |
@@ -1538,7 +1530,7 @@ Het gebied gelegen tussen de kust van Terschelling en de lijn die loopt over de 
 Het gebied gelegen tussen de lijn die gevormd wordt door de volgende coördinaten:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | 53.24.313 N  | 005.44.501 O  |
 | 2.  | 53.25.224 N  | 005.47.017 O  |
 | 3.  | 53.24.865 N  | 005.47.740 O  |
@@ -1558,14 +1550,14 @@ Het gebied gelegen tussen de lijn die gevormd wordt door de volgende coördinate
 Het gebied in het noorden begrensd door de basislijn van de territoriale zee van Nederland tussen coördinaten:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | 53.31.445 N  | 06.27.345 O, en  |
 | 2.  | 53.32.340 N  | 06.34.311 O.  |
 
 In het oosten begrensd door de lijn die gevormd wordt door de volgende coördinaten:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | 53.33.30 N  | 06.37.40 O  |
 | 2.  | 53.32.70 N  | 06.39.50 O  |
 | 3.  | 53.31.72 N  | 06.39.70 O  |
@@ -1576,7 +1568,7 @@ In het oosten begrensd door de lijn die gevormd wordt door de volgende coördina
 In het zuiden begrensd door de kust van de Provincie Groningen, door de lijn: 53.27.74 N 06.50.14 O (Westelijk havenhoofd Eemshaven); tot positie: 53.26.28 N– 06.34.81 O (Haven Noordpolderzijl).  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | In het westen door de lijn getrokken over de posities:  |
 | 1.  | 53.31.44 N  | 06.27.34 O  |
 | 2.  | 53.30.36 N  | 06.27.21 O  |
@@ -1625,7 +1617,7 @@ Het gebied in het zuidwesten begrensd door een lijn tussen de sectorlichten van 
 Het gebied dat wordt begrensd door de Waddenzeekust van Terschelling en de lijn lopend over de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 53  | 24 258  | 5  | 26 012  |
 | 53  | 23 770  | 5  | 28 519  |
 | 53  | 24 303  | 5  | 30 146  |
@@ -1658,7 +1650,7 @@ doch met uitzondering van de hierna genoemde drie gebiedjes:
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
 
 | NB  |--- | OL  |--- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 53  | 27 630  | 6  | 49 853  |
 | 53  | 27 850  | 6  | 48 890  |
 | 53  | 27 743  | 6  | 48 518  |
@@ -1685,7 +1677,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 Het gebied, begrensd door de lijn lopend over de punten met de coördinaten:  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 53°  | 18,819  | N  | 7°  | 11,447  | E  |
 | 53°  | 14,751  | N  | 7°  | 12,433  | E  |
 | 53°  | 14,118  | N  | 7°  | 12,349  | E  |
@@ -1883,7 +1875,7 @@ b. Het gebied begrensd door:
 ####Behorend bij artikel 38, vijfde lid 
 
 | Inschrijvingsletter en nummer vaartuig  | Roepnaam vaartuig  |
-|:---|:---|
+|---|---|
 | A 17  | Snip  |
 | A 32  | Sofie  |
 | A 149  | Jim  |
@@ -1901,7 +1893,7 @@ b. Het gebied begrensd door:
 ####, behorend bij artikel 76, tweede lid : omrekentabel merkjes
 
 | Categorie vistuig  | Omrekenwaarde  | Aantal merkjes per vistuig  |
-|:---|:---|:---|
+|---|---|---|
 | 1 grote fuik  | 5 (vangst)eenheden  | 1 merkje  <sup> 1   De bijlage dient als volgt te worden gelezen: een grote fuik heeft een omrekenwaarde van 5 (vangst)eenheden; aan een dergelijk vistuig is 1 merkje bevestigd.    </sup> |
 | 1 schietfuik binnenvisserij(stelletje)  | 2 (vangst)eenheden  | 1 merkje  |
 | 1 kist  | 1 (vangst)eenheid  | 1 merkje  |
@@ -1914,77 +1906,77 @@ b. Het gebied begrensd door:
 Overzicht van gebieden en mosselkweekpercelen waarvoor een vergunning voor een mosselzaadinvanginstallatie kan worden verleend.  Waddenzee 
 
 | Nr  | Gebied/perceel  | Omschrijving  | Coördinaten in NB en OL, vanaf linksboven kloksgewijs  |
-|:---|:---|:---|:---|
-| 1  | Malzwin  | Het gebied tussen het Gat van de Stier en het Malzwin, gelegen binnen de begrenzing die wordt gevormd door de laterale lijnen M4 – M6 – GvS3/M8 (zuidoost) en GvS1 – GvS3/M8 (noord) en de grens van het kabelgebied.  | 52-59-152  04-50-028  | 52-59-185  04-50-910  | 52-59-113  04-50-977  | 52-58-790  04-50-127  | 52-58-790  04-49-770  | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2  | Zuidwal  | Gebied gelegen in het Malzwin, tegen de Zuidwal met als noordelijke grens de laterale lijn M5 – M7 – M9 – M11.  | 52-58-557  04-50-440  | 52-59-100  04-51-995  | 52-58-992  04-52-110  | 52-58-437  04-50-555  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3  | Afsluitdijk  | In de geul evenwijdig aan de Afsluitdijk, ten noordwesten van de laterale lijn AD14 – AD16.  | 53-01-889  05-12-763  | 53-02-958  05-14-966  | 53-02-906  05-15-038  | 53-01-815  05-12-862  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4  | Texel Oudeschild  | Gebied zuidwestelijk van de haven van Oudeschild, gelegen tegen de steenbestorting van de oeververdediging en zeewaarts ruim binnen de laterale lijn T8 – T10.  | 53-00-932  04-48-698  | 53-01-706  04-50-337  | 53-01-647  04-50-428  | 53-00-829  04-48-854  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5  | Vogelzand  | Gebied gelegen in een ruim en relatief diep deel van de vaarwaters Texelstroom en Scheer.  | 53-02-835  04-57-672  | 53-03-310  04-58-375  | 53-03-310  04-59-271  | 53-02-835  04-58-600  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6  | Scheurrak-Omdraai  | Gebied gelegen tussen de vaarwaters Scheurrak-Omdraai en Breesem, ten Noorden van de laterale lijn SO2-SO4  | 53-04-000  05-01-612  | 53-04-000  05-02-880  | 53-03-845  05-02-288  | 53-03-845  05-01-612  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7  | Gat van Stompe  | Gebied ten zuiden van de plaat Robbenzand. De zuidelijke grens van de MZI-locatie loopt oost-west en de noordelijke grens volgt de plaatrand op een diepte van 5 meter.  | 53-03-465  05-03-290  | 53-03-257  05-05-055  | 53-03-115  05-05-055  | 53-03-115  05-03-290  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8  | Zuidmeep  | De MZI-locatie ligt ten zuiden van de laterale lijn ZM3 – ZM5 – ZM7 – ZM9 en de plaatrand. De oostelijke grens ligt in de buurt van de ZM9, de westelijke grens ergens tussen de ZM3 en ZM5.  | 53-18-131  05-16-890  | 53-18-226  05-16-782  | 53-18-769  05-18-130  | 53-18-784  05-19-000  | 53-18-664  05-19-027  | 53-18-556  05-18-189  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9  | Zoutkamperlaag (vanaf 2012)  | Aan de zuidkant van de Zoutkamperlaag ten westen van de haven van Lauwersoog tot aan de oostelijke begrenzing van het kabelgebied.  | 53-25-300  06-09-892  | 53-25-119  06-10-930  | 53-24-906  06-10-834  | 53-25-100  06-09-806  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheer 13  | --- | 53-02-217  04-59-022  | 53-02-222  04-59-157  | 53-02-043  04-59-176  | 53-02-038  04-59-043  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheer 16  | --- | 53-02-234  04-59-424  | 53-02-240  04-59-558  | 53-02-059  04-59-577  | 53-02-054  04-59-444  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheurrak 27  | --- | 53-04-630  05-05-281  | 53-04-667  05-05-449  | 53-04-567  05-05-513  | 53-04-511  05-05-358  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheurak 34a  | --- | 53-05-131  05-06-737  | 53-05-198  05-06-933  | 53-05-098  05-06-997  | 53-05-029  05-06-801  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheurak 64  | --- | 53-04-566  05-04-200  | 53-04-628  05-04-512  | 53-04-596  05-04-532  | 53-04-533  05-04-219  | --- | --- |
+|---|---|---|---|
+| 1  | Malzwin  | Het gebied tussen het Gat van de Stier en het Malzwin, gelegen binnen de begrenzing die wordt gevormd door de laterale lijnen M4 – M6 – GvS3/M8 (zuidoost) en GvS1 – GvS3/M8 (noord) en de grens van het kabelgebied.  | 52-59-152  04-50-028  | 52-59-185  04-50-910  | 52-59-113  04-50-977  | 52-58-790  04-50-127  | 52-58-790  04-49-770  | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2  | Zuidwal  | Gebied gelegen in het Malzwin, tegen de Zuidwal met als noordelijke grens de laterale lijn M5 – M7 – M9 – M11.  | 52-58-557  04-50-440  | 52-59-100  04-51-995  | 52-58-992  04-52-110  | 52-58-437  04-50-555  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3  | Afsluitdijk  | In de geul evenwijdig aan de Afsluitdijk, ten noordwesten van de laterale lijn AD14 – AD16.  | 53-01-889  05-12-763  | 53-02-958  05-14-966  | 53-02-906  05-15-038  | 53-01-815  05-12-862  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4  | Texel Oudeschild  | Gebied zuidwestelijk van de haven van Oudeschild, gelegen tegen de steenbestorting van de oeververdediging en zeewaarts ruim binnen de laterale lijn T8 – T10.  | 53-00-932  04-48-698  | 53-01-706  04-50-337  | 53-01-647  04-50-428  | 53-00-829  04-48-854  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5  | Vogelzand  | Gebied gelegen in diep gedeelte nabij het vaarwater Texelstroom, ten zuiden gelegen van de laterale lijn T25, T27 en T29.  | 53-03-067 – 04-57-765  | 53-03-364 – 04-59-467  | 53-02-969 – 04-59-651  | 53-02-675 – 04-57-947  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6  | Scheurrak-Omdraai  | Gebied gelegen tussen de vaarwaters Scheurrak-Omdraai en Breesem, ten Noorden van de laterale lijn SO2-SO4  | 53-04-000  05-01-612  | 53-04-000  05-02-880  | 53-03-845  05-02-288  | 53-03-845  05-01-612  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7  | Gat van Stompe  | Gebied ten zuiden van de plaat Robbenzand. De zuidelijke grens van de MZI-locatie loopt oost-west en de noordelijke grens volgt de plaatrand op een diepte van 5 meter.  | 53-03-465  05-03-290  | 53-03-257  05-05-055  | 53-03-115  05-05-055  | 53-03-115  05-03-290  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8  | Zuidmeep  | De MZI-locatie ligt ten zuiden van de laterale lijn ZM3 – ZM5 – ZM7 – ZM9 en de plaatrand. De oostelijke grens ligt in de buurt van de ZM9, de westelijke grens ergens tussen de ZM3 en ZM5.  | 53-18-403 – 05-17-225  | 53-18-775 – 05-18-133  | 53-18-818 – 05-18-971  | 53-18-798 – 05-19-364  | 53-18-664 – 05-19-393  | 53-18-498 – 05-18-042  | 53-18-278 – 05-17-347  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9  | Zoutkamperlaag (vanaf 2012)  | Aan de zuidkant van de Zoutkamperlaag ten westen van de haven van Lauwersoog tot aan de oostelijke begrenzing van het kabelgebied.  | 53-25-300  06-09-892  | 53-25-119  06-10-930  | 53-24-906  06-10-834  | 53-25-100  06-09-806  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheer 13  | --- | 53-02-217  04-59-022  | 53-02-222  04-59-157  | 53-02-043  04-59-176  | 53-02-038  04-59-043  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheer 16  | --- | 53-02-234  04-59-424  | 53-02-240  04-59-558  | 53-02-059  04-59-577  | 53-02-054  04-59-444  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheurrak 27  | --- | 53-04-630  05-05-281  | 53-04-667  05-05-449  | 53-04-567  05-05-513  | 53-04-511  05-05-358  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheurak 34a  | --- | 53-05-131  05-06-737  | 53-05-198  05-06-933  | 53-05-098  05-06-997  | 53-05-029  05-06-801  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheurak 64  | --- | 53-04-566  05-04-200  | 53-04-628  05-04-512  | 53-04-596  05-04-532  | 53-04-533  05-04-219  | --- | --- | --- |
 
 Oosterschelde 
 
 | Nr  | Gebied  | Omschrijving  | Coördinaten in NB en OL, vanaf linksboven kloksgewijs  |
-|:---|:---|:---|:---|
-| 1  | Neeltje Jans  | Gebied gelegen ten zuiden van Neeltje Jans aan de rand van het vaarwater Roompot, ter hoogte van de R24.  | 51-37-047  03-43-862  | 51-37-211  03-45-133  | 51-37-336  03-45-609  | 51-37-273  03-45-654  | 51-37-033  03-44-751  | 51-36-922  03-43-905  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2  | Roggenplaat  | Gebied tegen de zuidrand van de Roggenplaat en ten westen van mosselperceel Hammen 111.  | 51-38-884  03-46-363  | 51-38-908  03-48-042  | 51-38-828  03-48-047  | 51-38-802  03-46-368  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3  | Vuilbaard  | Gebied ten westen van de Zeelandbrug tegen de plaat Vuilbaard, gelegen ten zuiden van de groene betonning van het vaarwater Roompot, tot aan de overloop van Zierikzee.  | 51-37-780  03-51-806  | 51-37-502  03-52-495  | 51-37-213  03-52-936  | 51-36-932  03-52-828  | 51-37-215  03-52-452  | 51-37-700  03-51-647  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4a  | Vondelingsplaat ‘west’  | Gebied ten noorden van de Vondelingsplaat, zuidoost van de laterale lijn EV4 – EV6 (tussen beide kabels).  | 51-35-957  03-55-029  | 51-35-425  03-55-224  | 51-35-171  03-55-219  | 51-35-133  03-55-015  | 51-35-546  03-54-889  | 51-35-920  03-54-921  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4b  | Vondelingsplaat ‘noord’ (vanaf 2012)  | Gebied ten noorden van de Vondelingsplaat, oostelijk van de laterale lijn EV8 – EV10 – O10.  | 51-36-547  03-56-026  | 51-36-433  03-56-139  | 51-36-023  03-54-929  | 51-36-179  03-54-944  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 40  | --- | 51-40-334  03-51-307  | 51-40-272  03-51-400  | 51-40-202  03-51-304  | 51-40-290  03-51-246  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 41  | --- | 51-40-272  03-51-400  | 51-40-210  03-51-492  | 51-40-115  03-51-364  | 51-40-202  03-51-304  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 42  | --- | 51-40-210  03-51-492  | 51-40-181  03-51-533  | 51-40-083  03-51-384  | 51-40-115  03-51-364  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 43  | --- | 51-40-181  03-51-533  | 51-40-154  03-51-576  | 51-40-070  03-51-433  | 51-40-083  03-51-384  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 44  | --- | 51-40-154  03-51-576  | 51-40-114  03-51-633  | 51-40-047  03-51-520  | 51-40-070  03-51-433  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 49  | --- | 51-39-930  03-51-825  | 51-39-865  03-51-903  | 51-39-733  03-51-681  | 51-39-792  03-51-592  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Hammen 101  | --- | 51-38-869  03-50-781  | 51-38-834  03-51-076  | 51-38-793  03-51-079  | 51-38-823  03-50-776  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | OSWD 188  | --- | 51-32-860  03-57-329  | 51-32-823  03-57-493  | 51-32-712  03-57-453  | 51-32-750  03-57-290  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | OSWD 189  | --- | 51-32-823  03-57-493  | 51-32-787  03-57-657  | 51-32-674  03-57-616  | 51-32-712  03-57-453  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Slaak 3  | --- | 51-39-339  04-08-003  | 51-39-349  04-08-243  | 51-39-216  04-09-163  | 51-39-158  04-09-321  | 51-39-105  04-09-299  | 51-39-148  04-09-021  | 51-39-203  04-08-999  | 51-39-349  04-08-000  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Slaak 7  | --- | 51-38-889  04-09-979  | 51-38-776  04-10-250  | 51-38-726  04-10-196  | 51-38-846  04-09-941  | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Slaak 8  | --- | 51-38-769  04-10-298  | 51-38-732  04-10-498  | 51-38-660  04-10-435  | 51-38-699  04-10-240  | --- | --- | --- | --- |
+|---|---|---|---|
+| 1  | Neeltje Jans  | Gebied gelegen ten zuiden van Neeltje Jans aan de rand van het vaarwater Roompot, ter hoogte van de R20, R22 en R20.  | 51-36-992 – 03-43-406  | 51-37-211 – 03-45-133  | 51-37-336 – 03-45-609  | 51-37-273 – 03-45-654  | 51-37-032 – 03-44-749  | 51-36-994 – 03-44-456  | 51-36-694 – 03-44-558  | 51-36-650 – 03-44-222  | 51-36-875 – 03-43-434  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2  | Roggenplaat  | Gebied tegen de zuidrand van de Roggenplaat en ten westen van mosselperceel Hammen 111.  | 51-38-884  03-46-363  | 51-38-908  03-48-042  | 51-38-828  03-48-047  | 51-38-802  03-46-368  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3  | Vuilbaard  | Gebied ten westen van de Zeelandbrug tegen de plaat Vuilbaard, gelegen ten zuiden van de groene betonning van het vaarwater Roompot, tot aan de overloop van Zierikzee.  | 51-37-780  03-51-806  | 51-37-502  03-52-495  | 51-37-213  03-52-936  | 51-36-932  03-52-828  | 51-37-215  03-52-452  | 51-37-700  03-51-647  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4a  | Vondelingsplaat ‘west’  | Gebied ten noorden van de Vondelingsplaat, zuidoost van de laterale lijn EV4 – EV6 (tussen beide kabels).  | 51-35-957  03-55-029  | 51-35-425  03-55-224  | 51-35-171  03-55-219  | 51-35-133  03-55-015  | 51-35-546  03-54-889  | 51-35-920  03-54-921  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4b  | Vondelingsplaat ‘noord’ (vanaf 2012)  | Gebied ten noorden van de Vondelingsplaat, oostelijk van de laterale lijn EV8 – EV10 – O10.  | 51-36-547  03-56-026  | 51-36-433  03-56-139  | 51-36-023  03-54-929  | 51-36-179  03-54-944  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 40  | --- | 51-40-334  03-51-307  | 51-40-272  03-51-400  | 51-40-202  03-51-304  | 51-40-290  03-51-246  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 41  | --- | 51-40-272  03-51-400  | 51-40-210  03-51-492  | 51-40-115  03-51-364  | 51-40-202  03-51-304  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 42  | --- | 51-40-210  03-51-492  | 51-40-181  03-51-533  | 51-40-083  03-51-384  | 51-40-115  03-51-364  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 43  | --- | 51-40-181  03-51-533  | 51-40-154  03-51-576  | 51-40-070  03-51-433  | 51-40-083  03-51-384  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 44  | --- | 51-40-154  03-51-576  | 51-40-114  03-51-633  | 51-40-047  03-51-520  | 51-40-070  03-51-433  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 49  | --- | 51-39-930  03-51-825  | 51-39-865  03-51-903  | 51-39-733  03-51-681  | 51-39-792  03-51-592  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Hammen 101  | --- | 51-38-869  03-50-781  | 51-38-834  03-51-076  | 51-38-793  03-51-079  | 51-38-823  03-50-776  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | OSWD 188  | --- | 51-32-860  03-57-329  | 51-32-823  03-57-493  | 51-32-712  03-57-453  | 51-32-750  03-57-290  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | OSWD 189  | --- | 51-32-823  03-57-493  | 51-32-787  03-57-657  | 51-32-674  03-57-616  | 51-32-712  03-57-453  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Slaak 3  | --- | 51-39-339  04-08-003  | 51-39-349  04-08-243  | 51-39-216  04-09-163  | 51-39-158  04-09-321  | 51-39-105  04-09-299  | 51-39-148  04-09-021  | 51-39-203  04-08-999  | 51-39-349  04-08-000  | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Slaak 7  | --- | 51-38-889  04-09-979  | 51-38-776  04-10-250  | 51-38-726  04-10-196  | 51-38-846  04-09-941  | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Slaak 8  | --- | 51-38-769  04-10-298  | 51-38-732  04-10-498  | 51-38-660  04-10-435  | 51-38-699  04-10-240  | --- | --- | --- | --- | --- |
 
 Voordelta 
 
 | Nr  | Gebied  | Omschrijving  | Coördinaten in NB en OL, vanaf linksboven kloksgewijs  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | Schaar van Renesse  | Gebied ten noorden van het eiland Schouwen ter hoogte van Renesse, gelegen in het vaarwater de Schaar van Renesse.  | 51-45-250  03-47-390  | 51-44-965  03-47-680  | 51-44-891  03-48-490  | 51-44-777  03-48-490  | 51-44-879  03-47-105  | 51-45-250  03-47-105  |
 
 ### Bijlage  14a  
@@ -1993,33 +1985,34 @@ Voordelta
 
 Gebieden en mosselkweekpercelen waarvoor aan de personen, bedoeld in artikel 77a, een vergunning voor een mosselzaadinvanginstallatie kan worden verleend.  Waddenzee Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs 
 
-| Nr  | Gebied/perceel  | 1  | 2  | 3  | 4  | 5  | 6  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| 3  | Afsluitdijk  | 53-01-889  05-12-763  | 53-02-958  05-14-966  | 53-02-906  05-15-038  | 53-01-815  05-12-862  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4  | Texel Oudeschild  | 53-00-932  04-48-698  | 53-01-706  04-50-337  | 53-01-647  04-50-428  | 53-00-829  04-48-854  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5  | Vogelzand  | 53-02-835  04-57-672  | 53-03-310  04-58-375  | 53-03-310  04-59-271  | 53-02-835  04-58-600  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 6  | Scheurrak Omdraai  | 53-04-000  05-01-612  | 53-04-000  05-02-880  | 53-03-845  05-02-288  | 53-03-845  05-01-612  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 7  | Gat van Stompe  | 53-03-465  05-03-290  | 53-03-257  05-05-055  | 53-03-115  05-05-055  | 53-03-115  05-03-290  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8  | Zuidmeep  | 53-18-131  05-16-890  | 53-18-226  05-16-782  | 53-18-769  05-18-130  | 53-18-784  05-19-000  | 53-18-664  05-19-027  | 53-18-556  05-18-189  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 9  | Zoutkamperlaag  | 53-25-300  06-09-892  | 53-25-119  06-10-930  | 53-24-906  06-10-834  | 53-25-100  06-09-806  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheer 16  | 53-02-234  04-59-424  | 53-02-240  04-59-558  | 53-02-059  04-59-577  | 53-02-054  04-59-444  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheurrak 27  | 53-04-630  05-05-281  | 53-04-667  05-05-449  | 53-04-567  05-05-513  | 53-04-511  05-05-358  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Scheurrak 34a  | 53-05-131  05-06-737  | 53-05-198  05-06-933  | 53-05-098  05-06-997  | 53-05-029  05-06-801  | --- | --- |
+| Nr  | Gebied/perceel  | 1  | 2  | 3  | 4  | 5  | 6  |--- |
+|---|---|---|---|---|---|---|---|---|
+| 3  | Afsluitdijk  | 53-01-889  05-12-763  | 53-02-958  05-14-966  | 53-02-906  05-15-038  | 53-01-815  05-12-862  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4  | Texel Oudeschild  | 53-00-932  04-48-698  | 53-01-706  04-50-337  | 53-01-647  04-50-428  | 53-00-829  04-48-854  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5  | Vogelzand  | 53-03-067 – 04-57-765  | 53-03-364 – 04-59-467  | 53-02-969 – 04-59-651  | 53-02-675 – 04-57-947  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6  | Scheurrak Omdraai  | 53-04-000  05-01-612  | 53-04-000  05-02-880  | 53-03-845  05-02-288  | 53-03-845  05-01-612  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7  | Gat van Stompe  | 53-03-465  05-03-290  | 53-03-257  05-05-055  | 53-03-115  05-05-055  | 53-03-115  05-03-290  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8  | Zuidmeep  | 53-18-403 – 05-17-225  | 53-18-775 – 05-18-133  | 53-18-818 – 05-18-971  | 53-18-798 – 05-19-364  | 53-18-664 – 05-19-393  | 53-18-498 – 05-18-042  | 53-18-278 – 05-17-347  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9  | Zoutkamperlaag  | 53-25-300  06-09-892  | 53-25-119  06-10-930  | 53-24-906  06-10-834  | 53-25-100  06-09-806  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheer 16  | 53-02-234  04-59-424  | 53-02-240  04-59-558  | 53-02-059  04-59-577  | 53-02-054  04-59-444  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheurrak 27  | 53-04-630  05-05-281  | 53-04-667  05-05-449  | 53-04-567  05-05-513  | 53-04-511  05-05-358  | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | Scheurrak 34a  | 53-05-131  05-06-737  | 53-05-198  05-06-933  | 53-05-098  05-06-997  | 53-05-029  05-06-801  | --- | --- | --- |
 
 Oosterschelde Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs 
 
 | Nr  | Gebied/perceel  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | 1a  | Neeltje Jans ‘oost’  | 51-37-102  03-44-289  | 51-37-211  03-45-133  | 51-37-336  03-45-609  | 51-37-273  03-45-654  | 51-37-033  03-44-751  | 51-36-978  03-44-331  | --- | --- |
+| 1c  | Neeltje Jans ‘transitie 2013’  | 51-36-992 – 03-43-406  | 51-37-047 – 03-43-862  | 51-36-922 – 03-43-905  | 51-36-994 – 03-44-456  | 51-36-694 – 03-44-558  | 51-36-650 – 03-44-222  | 51-36-875 – 03-43-434  | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2  | Roggenplaat  | 51-38-884  03-46-363  | 51-38-908  03-48-042  | 51-38-828  03-48-047  | 51-38-802  03-46-368  | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2056,7 +2049,7 @@ Oosterschelde Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs 
 
 | Nr  | Gebied  | 1  | 2  | 3  | 4  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1  | Schaar van Renesse  | 51-45-076  | 51-45-166  | 51-45-111  | 51-45-020  |
 | --- | ‘Kavel 2’  | 03-47-142  | 03-47-462  | 03-47-505  | 03-47-186  |
 
@@ -2067,7 +2060,7 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 Gebieden en mosselkweekpercelen waarvoor aan de personen, bedoeld in artikel 77b, een vergunning voor een mosselzaadinvanginstallatie kan worden verleend.  Waddenzee Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs 
 
 | Nr  | Gebied/perceel  | 1  | 2  | 3  | 4  | 5  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | 1  | Malzwin  | 52-59-152  04-50-028  | 52-59-185  04-50-910  | 52-59-113  04-50-977  | 52-58-790  04-50-127  | 52-58-790  04-49-770  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2  | Zuidwal  | 52-58-557  04-50-440  | 52-59-100  04-51-995  | 52-58-992  04-52-110  | 52-58-437  04-50-555  | --- |
@@ -2079,7 +2072,7 @@ Gebieden en mosselkweekpercelen waarvoor aan de personen, bedoeld in artikel 77b
 Oosterschelde Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs 
 
 | Nr  | Gebied/perceel  | 1  | 2  | 3  | 4  | 5  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | 3a  | Vuilbaard 'noord'  | 51-37-780  03-51-806  | 51-37-502  03-52-495  | 51-37-453  03-52-570  | 51-37-287  03-52-333  | 51-37-700  03-51-647  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1b  | Neeltje Jans ‘west’  | 51-37-047  03-43-862  | 51-37-102  03-44-289  | 51-36-978  03-44-331  | 51-36-922  03-43-905  | --- |
@@ -2089,7 +2082,7 @@ Oosterschelde Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs 
 
 | Nr  | Gebied  | 1  | 2  | 3  | 4  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1a  | Schaar van Renesse ‘Kavel 1’  | 51-45-055  | 51-45-111  | 51-45-047  | 51-44-991  |
 | --- | --- | 03-47-307  | 03-47-505  | 03-47-556  | 03-47-358  |
 | --- | --- | --- | --- | --- | --- |
@@ -2193,7 +2186,7 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 
 1. De Oosterschelde, het Zeegat van Goeree, het Brouwershavensche Gat, de buitenhavens van Delfzijl en het Nederlandse gedeelte van de Dollard.  
 
-2.  *In de Waddenzee:*  Verhuurde schelpdierpercelen, met bakens gemarkeerd; het hele kombergingsgebied van het Engelschmangat; het Normerven ten noordwesten van Hippolytushoef en een zone van 1.000 meter er omheen; de groene lijngebieden waartoe krachtens [artikel 20 van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) beperkte toegang mogelijk is, zoals aangegeven op de meest recente hydrografische kaarten nummer 1811 en 1812 van de Dienst der Hydrografie; de bij laagwater droogvallende platen ten noorden, oosten en zuiden van Noorderhaaks voor zover gelegen ten oosten van de lijn van de lichttoren Kijkduin bij Den Helder naar de positie 52‘58’24”NB en 4‘39’30”OL op Noorderhaaks gelegen en vervolgens naar de oriënteertafel op het Loodsmansduin te Texel; alle aan de Waddenzee gelegen open havens en spuihavens; het gedeelte ter breedte van 100 meter langs de Afsluitdijk van Den Oever tot de Kop Afsluitdijk; het gedeelte ter breedte van 100 meter langs de Friese dijk vanaf de Kop Afsluitdijk tot dijkpaal 9.4 bij Koehool; een gedeelte ter breedte van 100 meter langs de havendammen en leidammen van de aan de Afsluitdijk gelegen havens; het gedeelte ter breedte van 100 meter langs de Noorder- en Zuiderpier te Harlingen; het gedeelte ter breedte van 100 meter langs de pieren te Roptazijl; het bij laagwater droogvallende gedeelte langs de Noordvaarder, genaamd Groene Strand; het Oostelijk ras en de Boschplaat inclusief de slenken oost van Rimkeskooi; het gedeelte ter breedte van 200 meter langs de westelijke havendam van Lauwersoog en de Friese Lauwersdijk vanaf het groene havenlicht tot dijkpaal 2.1; het gedeelte ter breedte van 200 meter langs de oostelijke havendam van Lauwersoog en de Groningse Lauwersdijk vanaf het rode havenlicht tot dijkpaal 86,5 en van dijkpaal 85,5 tot dijkpaal 84,5 en het gedeelte ter breedte van 250 meter langs de rijsdam van de toeleidingsgeul naar de haven van Noordpolderzijl.  
+2.  *In de Waddenzee:*  Verhuurde schelpdierpercelen, met bakens gemarkeerd; het hele kombergingsgebied van het Engelschmangat; het Normerven ten noordwesten van Hippolytushoef en een zone van 1.000 meter er omheen; de groene lijngebieden waartoe krachtens artikel 20 van de Natuurbeschermingswet 1998 beperkte toegang mogelijk is, zoals aangegeven op de meest recente hydrografische kaarten nummer 1811 en 1812 van de Dienst der Hydrografie; de bij laagwater droogvallende platen ten noorden, oosten en zuiden van Noorderhaaks voor zover gelegen ten oosten van de lijn van de lichttoren Kijkduin bij Den Helder naar de positie 52‘58’24”NB en 4‘39’30”OL op Noorderhaaks gelegen en vervolgens naar de oriënteertafel op het Loodsmansduin te Texel; alle aan de Waddenzee gelegen open havens en spuihavens; het gedeelte ter breedte van 100 meter langs de Afsluitdijk van Den Oever tot de Kop Afsluitdijk; het gedeelte ter breedte van 100 meter langs de Friese dijk vanaf de Kop Afsluitdijk tot dijkpaal 9.4 bij Koehool; een gedeelte ter breedte van 100 meter langs de havendammen en leidammen van de aan de Afsluitdijk gelegen havens; het gedeelte ter breedte van 100 meter langs de Noorder- en Zuiderpier te Harlingen; het gedeelte ter breedte van 100 meter langs de pieren te Roptazijl; het bij laagwater droogvallende gedeelte langs de Noordvaarder, genaamd Groene Strand; het Oostelijk ras en de Boschplaat inclusief de slenken oost van Rimkeskooi; het gedeelte ter breedte van 200 meter langs de westelijke havendam van Lauwersoog en de Friese Lauwersdijk vanaf het groene havenlicht tot dijkpaal 2.1; het gedeelte ter breedte van 200 meter langs de oostelijke havendam van Lauwersoog en de Groningse Lauwersdijk vanaf het rode havenlicht tot dijkpaal 86,5 en van dijkpaal 85,5 tot dijkpaal 84,5 en het gedeelte ter breedte van 250 meter langs de rijsdam van de toeleidingsgeul naar de haven van Noordpolderzijl.  
 
 3.  *In het Nederlandse gedeelte van de Eems:*  De Eemshaven, het gedeelte ter breedte van 200 meter langs de buitenzijde van de strekdammen van de Eemscentrale; tussen de strekdammen van de Eemscentrale, de Eemsdijk vanaf de oostelijke strekdam van de Eemscentrale in zuidelijke richting tot dijkpaal 38; het gedeelte van het Eemswad begrensd door de noordelijke pier van het Zeehavenkanaal en de lijn tussen het groene havenlicht op de oostelijke punt van de pier en de ton BW 11 van het vaarwater Bocht van Watum en vandaar in zuidelijke richting naar de noordelijke pier; een gedeelte ter breedte van 500 meter van het Borgsweerder wad langs de Oterdumpier; een gedeelte ter breedte van 100 meter van het Borgsweerder wad langs de westelijke strekdam van de haven van Termunterzijl; de buitenhavens van Termunterzijl; een gedeelte ter breedte van 250 meter van het Termunterwad langs de oostelijke strekdam van de haven van Termunterzijl; een gedeelte ter breedte van 500 meter van het Termunterwad gelegen langs de zeedijk vanaf de oostelijke strekdam van de haven van Termunterzijl tot de lijn die gevormd wordt door de kerktoren van Termunten en dijkpaal 16,5 op de dijk; het droogvallende gedeelte vanaf de lijn die gevormd wordt door de dijkpalen 14,5 (nabij het gemaal de Fiemel) tot de meest oostelijke punt van de Punt van Reide.    
 

@@ -36,17 +36,17 @@ a. een basisheffing volgens onderstaand tarief:
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 |  *omzet*   | --- | --- |  *heffing*   |
-| € 20.000  | -  | 200.000  | € 68,07  |
-| € 200.000  | -  | 1.000.000  | € 340,34  |
-| € 1.000.000  | -  | 2.000.000  | € 680,67  |
-| € 2.000.000  | -  | 4.000.000  | € 1.361,34  |
-| > € 4.000.000  | --- | --- | € 6.806,70  |
+| € 20.000  | -  | 200.000  | € 0  |
+| € 200.000  | -  | 1.000.000  | € 0  |
+| € 1.000.000  | -  | 2.000.000  | € 0  |
+| € 2.000.000  | -  | 4.000.000  | € 0  |
+| > € 4.000.000  | --- | --- | € 0  |
 
 Voor de berekening van de basisheffing wordt gebruik gemaakt van het op basis van het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.  
 
-b. een heffing van € 0,— per ha aangekocht zaaizaad van grassen en voedergewassen, dat op contractbasis in Nederland is geteeld.     
-2.  De ondernemer die zaaizaad van grassen en voedergewassen teelt, is verplicht aan het productschap een heffing te betalen van € 0,68 per ha.   
-3.  De kweker van graszoden is verplicht aan het productschap een heffing te betalen van € 3,40 per ha.   
+b. een heffing van € 0 per ha aangekocht zaaizaad van grassen en voedergewassen, dat op contractbasis in Nederland is geteeld.     
+2.  De ondernemer die zaaizaad van grassen en voedergewassen teelt, is verplicht aan het productschap een heffing te betalen van € 0 per ha.   
+3.  De kweker van graszoden is verplicht aan het productschap een heffing te betalen van € 0 per ha.   
 4.  De ondernemer bedoeld in het eerste en derde lid, is verplicht jaarlijks vóór 31 oktober door middel van een door het productschap vastgesteld opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van statistische doeleinden, alsmede voor de vaststelling van de heffing, bedoeld in het eerste en tweede lid. De [Verordening PA algemene bepalingen 2008](../../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
 5.  De ondernemer, bedoeld in het eerste en derde lid, legt, indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale oppervlakte aangekochte zaaizaad van grassen en voedergewassen, die in Nederland op contractbasis is geteeld.   
 6.  De ondernemer, bedoeld in het eerste en derde lid, is verplicht alle medewerking te verlenen aan de Interne Auditdienst van het Hoofdproductschap Akkerbouw ter controle van het opgavenformulier, indien de in het vierde lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant.   

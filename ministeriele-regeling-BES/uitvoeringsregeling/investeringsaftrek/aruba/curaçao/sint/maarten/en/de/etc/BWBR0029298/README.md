@@ -51,20 +51,20 @@ b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwart
 
 ### Artikel  5  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.  
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.  
 
 ### Artikel  6  
 
-1.  De aanmelding van investeringen in bedrijfsmiddelen als bedoeld in artikel 3 wordt aangemerkt als een verzoek om een verklaring van de Minister van Economische Zaken, Landbouw en Innovatie als bedoeld in [artikel 3.42, eerste lid, van de wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-2.  De verklaring van de Minister van Economische Zaken, Landbouw en Innovatie, bedoeld in het eerste lid, vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven terzake.   
-3.  De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een berekening van de energiebesparing over.   
-4.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven bouwvergunning of omgevingsvergunning over indien artikel 3, eerste lid, onderdeel b, van toepassing is.   
-5.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven milieuvergunning, omgevingsvergunning of vergelijkbare vergunning over indien artikel 3, onderdeel c, van toepassing is.   
-6.  De Minister van Economische Zaken, Landbouw en Innovatie neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan artikel 3, onderdelen b en c.   
+1.  De aanmelding van investeringen in bedrijfsmiddelen als bedoeld in artikel 3 wordt aangemerkt als een verzoek om een verklaring van de Minister van Economische Zaken als bedoeld in [artikel 3.42, eerste lid, van de wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+2.  De verklaring van de Minister van Economische Zaken, bedoeld in het eerste lid, vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven terzake.   
+3.  De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.   
+4.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouwvergunning of omgevingsvergunning over indien artikel 3, eerste lid, onderdeel b, van toepassing is.   
+5.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven milieuvergunning, omgevingsvergunning of vergelijkbare vergunning over indien artikel 3, onderdeel c, van toepassing is.   
+6.  De Minister van Economische Zaken neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan artikel 3, onderdelen b en c.   
 
 ### Artikel  7  
 
-1.  De Minister van Economische Zaken, Landbouw en Innovatie kan de in artikel 6 bedoelde verklaring wijzigen of intrekken indien de door of namens belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken, Landbouw en Innovatie bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.   
+1.  De Minister van Economische Zaken kan de in artikel 6 bedoelde verklaring wijzigen of intrekken indien de door of namens belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.   
 2.  De bevoegdheid tot het intrekken of wijzigen van een verklaring op grond van het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.   
 
 ### Hoofdstuk  4  
@@ -88,7 +88,7 @@ b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwart
 
 ### Artikel  10  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.  
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.  
 
 ### Hoofdstuk  5  
 

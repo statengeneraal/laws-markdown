@@ -548,9 +548,10 @@ b. redelijke kosten ter vaststelling van schade en aansprakelijkheid;
 
 c. redelijke kosten ter verkrijging van voldoening buiten rechte.     
 3.  Lid 2 onder b en c is niet van toepassing voor zover in het gegeven geval krachtens [artikel 241 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) de regels betreffende de proceskosten van toepassing zijn.   
-4.  Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist [artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
-5.  De vergoeding volgens de nadere regels als bedoeld in lid 4, eerste volzin, kan indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf, eerst verschuldigd worden nadat de schuldenaar na het intreden van het verzuim, bedoeld in artikel 81 van Boek 6 van het Burgerlijk Wetboek, onder vermelding van de gevolgen van het uitblijven van betaling, waaronder de vergoeding die in overeenstemming met de nadere regels wordt gevorderd, vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende de dag na aanmaning.   
-6.  Indien een schuldenaar voor meer dan een vordering door een schuldeiser kan worden aangemaand als bedoeld in lid 5, dan dient dit in één aanmaning te geschieden. Voor de berekening van de vergoeding worden de hoofdsommen van deze vorderingen bij elkaar opgeteld.   
+4.  In geval van een handelsovereenkomst als bedoeld in artikel 119a lid 1 of artikel 119b lid 1 bestaat de vergoeding van kosten bedoeld in lid 2 onder c uit ten minste een bedrag van 40 euro. Dit bedrag is zonder aanmaning verschuldigd vanaf de dag volgende op de dag waarop de wettelijke of overeengekomen uiterste dag van betaling is verstreken. Hiervan kan niet ten nadele van de schuldeiser worden afgeweken.   
+5.  Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist [artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+6.  De vergoeding volgens de nadere regels kan indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf, eerst verschuldigd worden nadat de schuldenaar na het intreden van het verzuim, bedoeld in artikel 81, onder vermelding van de gevolgen van het uitblijven van betaling, waaronder de vergoeding die in overeenstemming met de nadere regels wordt gevorderd, vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende de dag na aanmaning.   
+7.  Indien een schuldenaar voor meer dan een vordering door een schuldeiser kan worden aangemaand als bedoeld in lid 6, dan dient dit in één aanmaning te geschieden. Voor de berekening van de vergoeding worden de hoofdsommen van deze vorderingen bij elkaar opgeteld.   
 
 ### Artikel  97  
 
@@ -683,15 +684,29 @@ Indien de verbintenis is ontstaan bij de uitoefening van bedrijfs- of beroepsbez
 1.  De schadevergoeding, verschuldigd wegens vertraging in de voldoening van een geldsom, bestaat in het geval van een handelsovereenkomst in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als de uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder handelsovereenkomst wordt verstaan de overeenkomst om baat die een of meer van de partijen verplicht iets te geven of te doen en die tot stand is gekomen tussen een of meer natuurlijke personen die handelen in de uitoefening van een beroep of bedrijf of rechtspersonen.   
 2.  Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd: 
 
-vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of  
+a. vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of  
 
-indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of  
+b. indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of  
 
-indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.     
+c. indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.     
 3.  Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.   
-4.  Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.   
-5.  De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.   
-6.  Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.   
+4.  De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn overeenkomen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op: 
+
+a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;  
+
+b. de aard van de prestatie; en  
+
+c. elke aanmerkelijke afwijking van goede handelspraktijken.     
+5.  Partijen kunnen een uiterste dag van betaling overeenkomen van ten hoogste 60 dagen, tenzij zij uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op: 
+
+a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 60 dagen termijn;  
+
+b. de aard van de prestatie; en  
+
+c. elke aanmerkelijke afwijking van goede handelspraktijken.     
+6.  Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.   
+7.  De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.   
+8.  Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.   
 
 ### Artikel  119b  
 
@@ -719,7 +734,7 @@ c. elke aanmerkelijke afwijking van goede handelspraktijken.
 ### Artikel  120  
 
 1.  De wettelijke rente bedoeld in artikel 119 wordt bij algemene maatregel van bestuur vastgesteld. Wettelijke rente die loopt op het tijdstip van inwerkingtreding van een nieuwe bij algemene maatregel van bestuur vastgestelde rentevoet, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend.   
-2.  De wettelijke rente bedoeld in artikel 119a is gelijk aan de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met zeven procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.   
+2.  De wettelijke rente bedoeld in artikel 119a en artikel 119b is gelijk aan de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met acht procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.   
 
 ### Artikel  121  
 
@@ -1894,7 +1909,7 @@ b. indien de gebruiker aan de wederpartij niet een redelijke mogelijkheid heeft 
 
 ### Artikel  234  
 
-1.  De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld, de voorwaarden overeenkomstig de in artikel 230c voorziene wijze heeft verstrekt of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel en Fabrieken of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.   
+1.  De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld, de voorwaarden overeenkomstig de in artikel 230c voorziene wijze heeft verstrekt of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.   
 2.  De gebruiker heeft tevens aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door haar kunnen worden opgeslagen en voor haar toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten langs elektronische weg of op andere wijze aan haar toezendt.   
 3.  Voor het op de in lid 2 bedoelde wijze bieden van een redelijke mogelijkheid om van de algemene voorwaarden kennis te nemen is de uitdrukkelijke instemming van de wederpartij vereist indien de overeenkomst niet langs elektronische weg tot stand komt.   
 
@@ -1931,7 +1946,7 @@ h. dat voor het geval bij de uitvoering van de overeenkomst schade aan een derde
 
 i. dat de gebruiker de bevoegdheid geeft de door hem bedongen prijs binnen drie maanden na het sluiten van de overeenkomst te verhogen, tenzij de wederpartij bevoegd is in dat geval de overeenkomst te ontbinden;  
 
-j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elektriciteit daaronder begrepen en dag-, nieuws- en weekbladen en tijdschriften niet daaronder begrepen, of tot het geregeld doen van verrichtingen, leidt tot stilzwijgende verlenging of vernieuwing in een overeenkomst voor bepaalde duur, dan wel tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;  
+j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elektriciteit, warmte en koude daaronder begrepen en dag-, nieuws- en weekbladen en tijdschriften niet daaronder begrepen, of tot het geregeld doen van verrichtingen, leidt tot stilzwijgende verlenging of vernieuwing in een overeenkomst voor bepaalde duur, dan wel tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;  
 
 k. dat de bevoegdheid van de wederpartij om bewijs te leveren uitsluit of beperkt, of dat de uit de wet voortvloeiende verdeling van de bewijslast ten nadele van de wederpartij wijzigt, hetzij doordat het een verklaring van haar bevat omtrent de deugdelijkheid van de haar verschuldigde prestatie, hetzij doordat het haar belast met het bewijs dat een tekortkoming van de gebruiker aan hem kan worden toegerekend;  
 

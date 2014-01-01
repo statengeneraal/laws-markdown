@@ -8,18 +8,6 @@ Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor 
 Gezien de goedkeuring van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, gegeven op 20 mei 2011, nummer 301604;
 Besluit:    
 
-### Artikel  1  
-
-####Syllabi 2013
-
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2013, voor de vakken als vermeld in respectievelijk de bijlagen 1a, 1b en 1c bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
-
-### Artikel  2  
-
-####Nadere vaststelling syllabi 2012
-
-De syllabi voor de centrale examens v.w.o. 2012 die bij [Regeling syllabi centrale examens VO 2012](../../../../../../../../../../../../../zbo/regeling/syllabi/centrale/examens/vo/2012/BWBR0029077/README.md) zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in respectievelijk de bijlagen 2a en 2b bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
-
 ### Artikel  3  
 
 ####Preliminaire vaststelling syllabi 2015
@@ -54,36 +42,6 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2013 en
 Het College voor examens, namens deze: 
 de voorzitter 
 H.W. Laan    
-
-### Bijlage  1a  
-
-####Syllabi v.w.o. 2013
-
-Voor de centrale examens v.w.o. 2013 worden syllabi voor de volgende vakken vastgesteld: Nederlands moderne vreemde talen Latijn Grieks Fries wiskunde A wiskunde B wiskunde C natuurkunde scheikunde biologie aardrijkskunde economie management en organisatie maatschappijwetenschappen filosofie muziek.  
-
-### Bijlage  1b  
-
-####Syllabi h.a.v.o. 2013
-
-Voor de centrale examens h.a.v.o. 2013 worden syllabi voor de volgende vakken vastgesteld: Nederlands moderne vreemde talen Fries wiskunde A wiskunde B natuurkunde scheikunde biologie economie management en organisatie maatschappijwetenschappen filosofie muziek beeldende vakken.  
-
-### Bijlage  1c  
-
-####Syllabi v.m.b.o. 2013
-
-Voor de centrale examens v.m.b.o. 2013 worden syllabi voor de volgende vakken vastgesteld:  *algemene vakken:*  aardrijkskunde beeldende vakken biologie dans drama economie Fries geschiedenis en staatsinrichting maatschappijleer II moderne vreemde talen muziek natuur- en scheikunde I natuur- en scheikunde II Nederlands wiskunde.  *beroepsgerichte programma’s:*  administratie bouwtechniek-fijnhoutbewerken bouwtechniek-metselen bouwtechniek-schilderen bouwtechniek-timmeren bouw-breed consumptief-bakken consumptief-breed consumptief-horeca elektrotechniek grafimedia handel en administratie handel en verkoop ict-route instalektro installatietechniek intersectoraal metaaltechniek metalektro mode en commercie sport, dienstverlening en veiligheid techniek-breed technologie in de GL transport en logistiek uiterlijke verzorging verzorging voertuigentechniek zorg-en-welzijn-breed landbouw-plantenteelt landbouw-groene ruimte landbouw-bloembinden en -schikken landbouw-dierhouderij en -verzorging landbouw-verwerking agrarische producten landbouw-agrarische techniek landbouw-agrarische bedrijfseconomie landbouw-breed.  
-
-### Bijlage  2a  
-
-####Nadere vaststelling syllabi v.w.o. 2012
-
-De syllabi voor de centrale examens v.w.o. 2012 die bij [Regeling syllabi centrale examens VO 2012](../../../../../../../../../../../../../zbo/regeling/syllabi/centrale/examens/vo/2012/BWBR0029077/README.md) zijn vastgesteld, worden nader vastgesteld voor de volgende vakken: beeldende vakken.  
-
-### Bijlage  2b  
-
-####Nadere vaststelling syllabi v.m.b.o. 2012
-
-De syllabi voor de centrale examens v.m.b.o. 2012 die bij [Regeling syllabi centrale examens VO 2012](../../../../../../../../../../../../../zbo/regeling/syllabi/centrale/examens/vo/2012/BWBR0029077/README.md) zijn vastgesteld, worden nader vastgesteld voor de volgende vakken: maatschappijleer II.  
 
 ### Bijlage  3  
 

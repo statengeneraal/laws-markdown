@@ -82,7 +82,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 1.  Bij de aanvraag voor een bewijs worden de volgende bescheiden overgelegd: 
 
-a. een gewaarmerkt afschrift van de inschrijving van de indiener van de aanvraag in het handelsregister van de kamer van koophandel en fabrieken in Nederland dan wel in het handelsregister of in een daarmee vergelijkbaar register van zijn land van herkomst, dat niet ouder is dan drie maanden voor dagtekening van de aanvraag;  
+a. een gewaarmerkt afschrift van de inschrijving van de indiener van de aanvraag in het handelsregister van de Kamer van Koophandel in Nederland dan wel in het handelsregister of in een daarmee vergelijkbaar register van zijn land van herkomst, dat niet ouder is dan drie maanden voor dagtekening van de aanvraag;  
 
 b. een technische beschrijving van het draagbare blustoestel;  
 

@@ -109,7 +109,13 @@ e. andere bij ministeriële regeling in verband met het voorkomen van een ernsti
 
 1.  Als onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt aangewezen: 
 
-a. beroepsopleidingen, voor zover verstrekt door instituten welke opgenomen zijn in het Register Kort Beroepsonderwijs of door de uit de openbare kassen bekostigde instellingen genoemd in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of bedoeld bij de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. beroepsopleidingen verzorgd door: 
+
+1°. instellingen die opgenomen zijn in het Instellingenregister Beroepsonderwijs;  
+
+2°. natuurlijke personen die opgenomen zijn in het Docentenregister Beroepsonderwijs voor zover het betreft het verzorgen van beroepsopleidingen die niet worden uitgevoerd als instelling als bedoeld onder 1 <sup>o</sup>, of  
+
+3°. de uit de openbare kassen bekostigde instellingen, genoemd in de bijlage van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of bedoeld bij de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    
 
 b. algemeen vormend onderwijs, ontleend aan het uit de openbare kassen bekostigde onderwijs dat is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel o, 1°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), met uitzondering van het onderwijs dat een vrijetijds-karakter heeft dan wel dient om vaardigheden in de persoonlijke levenssfeer te verwerven;  
 
@@ -159,11 +165,11 @@ b.
 
 c. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 8, onder a](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) door die ondernemer mogelijk is.  
 
-d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Gemeenschap of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Gemeenschap of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek kan worden overgelegd;  
+d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Unie of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Unie of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek kan worden overgelegd;  
 
-e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere Lid-Staat, wordt uitgevoerd uit de Gemeenschap of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;  
+e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat, wordt uitgevoerd uit de Unie of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;  
 
-f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van een nieuw vervoermiddel dat wordt vervoerd naar een andere Lid-Staat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.   In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c te hebben aangesteld.   
+f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.   In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c te hebben aangesteld.   
 3.  In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in [artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
 4.  In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de [Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bij uitslag verschuldigd zou zijn.   
 5.  Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de wijze waarop de aanspraak op toepassing van het tarief van nihil wordt aangetoond.   
@@ -179,7 +185,7 @@ Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, e
 
 a. het overleggen van bescheiden bij de aangifte ter verkrijging van de teruggaaf;  
 
-b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt teruggevraagd, de Gemeenschap hebben verlaten of onder het stelsel van douane-entrepots zijn gebracht op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek.    
+b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt teruggevraagd, de Unie hebben verlaten of onder het stelsel van douane-entrepots zijn gebracht op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek.    
 
 ### Hoofdstuk  IV  
 
@@ -271,9 +277,7 @@ f. na afloop van het boekjaar kan de ondernemer op zijn aangifte over het eerste
 
 1. Dit artikel is slechts van toepassing, indien en voor zover de ondernemer niet op grond van zijn bedrijfsadministratie kan vaststellen welk gedeelte van de ontvangsten betrekking heeft op leveringen van 6%-goederen en welk gedeelte op leveringen van 21%-goederen.  
 
-2. Dit artikel heeft niet betrekking op goederen die worden geleverd ingevolge een overeenkomst van huurkoop of een andere overeenkomst van koop en verkoop op afbetaling.  
-
-3. Ingeval de ondernemer naast leveringen van 6%-goederen en/of 21%-goederen tevens leveringen verricht van tabaksprodukten, als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), is dit artikel op laatstbedoelde goederen van overeenkomstige toepassing.    
+2. Dit artikel heeft niet betrekking op goederen die worden geleverd ingevolge een overeenkomst van huurkoop of een andere overeenkomst van koop en verkoop op afbetaling.    
 
 ### Artikel  16a  
 
@@ -324,7 +328,7 @@ Het bepaalde in de artikelen 16a, 16b, 16c en 16d is van overeenkomstige toepass
 ### Artikel  18  
 
 1.  Grondstoffen en voor verkoop bestemde goederen, die aanwezig zijn bij de aanvang van het eerste belastingtijdvak waarover een in deze afdeling opgenomen regeling wordt toegepast, worden beschouwd als in dat tijdvak te zijn ingekocht. Voor zelf vervaardigde goederen treden hierbij in de plaats de grondstoffen waaruit zij zijn vervaardigd.   
-2.  Het eerste lid vindt bij de in artikel 16 omschreven methode II geen toepassing ten aanzien van 6%-goederen en voor de vervaardiging daarvan bestemde grondstoffen, alsmede ten aanzien van tabaksprodukten als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
+2.  Het eerste lid vindt bij de in artikel 16 omschreven methode II geen toepassing ten aanzien van 6%-goederen en voor de vervaardiging daarvan bestemde grondstoffen.   
 3.  Indien blijkt, dat de voorraad aan goederen als bedoeld in het tweede lid, op enig tijdstip groter is dan bij de aanvang van het eerste belastingtijdvak waarover de in artikel 16 omschreven methode II is toegepast, kan de inspecteur bij voor bezwaar vatbare beschikking bepalen, dat de inkopen van die goederen in een door hem aan te wijzen belastingtijdvak met het verschil in de voorraad worden verminderd.   
 
 ### Artikel  19  
@@ -386,7 +390,7 @@ b. ter zake van de levering van goederen tegen inwisseling van de waardebonnen b
 
 a. werknemer, dienstbetrekking en inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de toepassing van de [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-b. aannemer: degene, die zich jegens een ander, de opdrachtgever, verbindt om buiten dienstbetrekking tegen een te betalen prijs een werk van stoffelijke aard uit te voeren dat betrekking heeft op onroerende zaken of schepen als bedoeld in Bijlage I, deel II, hoofdstuk 89, van verordening (EEG) nr. 2658/87 van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (*PbEG* L 256), dan wel op de vervaardiging en elke daarop gerichte handeling van kleding, andere dan schoeisel;  
+b. aannemer: degene, die zich jegens een ander, de opdrachtgever, verbindt om buiten dienstbetrekking tegen een te betalen prijs een werk van stoffelijke aard uit te voeren dat betrekking heeft op onroerende zaken of schepen als bedoeld in Bijlage I, deel II, hoofdstuk 89, van Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256),  
 
 c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking tegen een te betalen prijs het in onderdeel *b* bedoelde werk geheel of gedeeltelijk uit te voeren.     
 2.  Voor de toepassing van dit artikel wordt de onderaannemer ten opzichte van zijn onderaannemer als aannemer beschouwd.   
@@ -397,7 +401,7 @@ c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienst
 a. een onderaannemer een in het eerste lid, onderdeel *b*, bedoeld werk geheel of gedeeltelijk uitvoert;  
 
 b. een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsplichtige ter beschikking is gesteld van een derde om werkzaam te zijn bij de uitvoering van een in het eerste lid, onderdeel *b*, bedoeld werk.     
-6.  Indien het vijfde lid van toepassing is, dient op de uit te reiken factuur te worden vermeld: omzetbelasting verlegd.   
+6.  Indien het vijfde lid van toepassing is, dient op de uit te reiken factuur te worden vermeld: btw verlegd.   
 7.  De voorgaande leden zijn niet van toepassing: 
 
 1°. indien een werk dat betrekking heeft op onroerende zaken of schepen als bedoeld in het eerste lid, onderdeel *b*, tot de uitvoering waarvan een onderaannemer zich jegens een aannemer heeft verbonden, geheel of grotendeels wordt verricht op de plaats, waar de onderneming van de onderaannemer is gevestigd, of  
@@ -419,7 +423,19 @@ d. een in zekerheid gegeven roerende of onroerende zaak dan wel een recht waaraa
 
 e. een onroerende zaak of een recht waaraan deze is onderworpen, wordt geleverd aan een ondernemer op grond van een executoriale titel door de executieschuldenaar;  
 
-f. een overdracht plaatsvindt van broeikasgasemissierechten, als omschreven in artikel 3 van Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van en regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad, die overdraagbaar zijn overeenkomstig artikel 12 van die richtlijn alsmede de overdracht van andere eenheden die door exploitanten kunnen worden gebruikt om aan de betreffende richtlijn te voldoen.     
+f. een overdracht aan een ondernemer plaatsvindt van broeikasgasemissierechten, als omschreven in artikel 3 van Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van en regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU 2003, L 275), die overdraagbaar zijn overeenkomstig artikel 12 van die richtlijn alsmede de overdracht aan een ondernemer van andere eenheden die door exploitanten kunnen worden gebruikt om aan de betreffende richtlijn te voldoen;  
+
+g. een van de volgende goederensoorten wordt geleverd aan een ondernemer voor een totaalbedrag van € 10 000 of meer per levering per soort goed, de omzetbelasting niet daaronder begrepen: 
+
+1°. mobiele telefoons, zoals toestellen die zijn vervaardigd of aangepast voor gebruik in een netwerk waarvoor een vergunning is afgegeven en die op gespecificeerde frequenties werken, ongeacht of zij nog een ander gebruik hebben;  
+
+2°. geïntegreerde schakelingen, zoals microprocessoren en centrale verwerkingseenheden, voordat deze in een eindproduct zijn ingebouwd;  
+
+3°. spelcomputers, zoals computers waarvan de objectieve kenmerken en voornaamste functies van dien aard zijn dat zij bedoeld zijn voor het spelen van videogames of andere computerspellen, ongeacht of zij nog een ander gebruik hebben;  
+
+4°. tablet pc’s;  
+
+5°. laptops.       
 2.  Artikel 24b, zesde en achtste lid, is van overeenkomstige toepassing.   
 
 ### Artikel  24bb  
@@ -455,7 +471,7 @@ b. het beoogde tijdstip van aanvang van het fiscaal vertegenwoordigerschap;
 c. de vermoedelijke aard en omvang van de belastbare handelingen per kalenderjaar.     
 2.  Het verzoek om een algemene vergunning voor een fiscaal vertegenwoordiger dient voorts de volgende gegevens te bevatten: 
 
-a. naam, adres en woonplaats van de ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft (in dit hoofdstuk: buitenlandse ondernemer) alsmede, indien de ondernemer is gevestigd in een Lid-Staat het btw-identificatienummer dat is toegekend door die Lid-Staat;  
+a. naam, adres en woonplaats van de ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft (in dit hoofdstuk: buitenlandse ondernemer) alsmede, indien de ondernemer is gevestigd in een lidstaat het btw-identificatienummer dat is toegekend door die lidstaat;  
 
 b. de aard van het bedrijf van de buitenlandse ondernemer.     
 3.  Tenzij de inspecteur anders bepaalt wordt een vergunning voor een fiscaal vertegenwoordiger slechts verleend indien de verzoeker: 
@@ -490,7 +506,7 @@ a. de verzoeker kan namens de buitenlandse ondernemer waarvoor hij als fiscaal v
 
 6°. de levering bedoeld in de bij de wet behorende tabel II, onderdeel *a*, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.    
 
-b. de verzoeker is mede aansprakelijk voor de belasting die is verschuldigd ter zake van de in onderdeel *a* genoemde belastbare handelingen en de daarmee samenhangende heffingsrente, invorderingsrente en administratieve boetes.     
+b. de verzoeker is mede aansprakelijk voor de belasting die is verschuldigd ter zake van de in onderdeel *a* genoemde belastbare handelingen en de daarmee samenhangende belastingrente, invorderingsrente en administratieve boetes.     
 6.  De aansprakelijkstelling op grond van het vierde en het vijfde lid vindt plaats met toepassing van [hoofdstuk VI, afdeling 2, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 7.  Het bedrag van de zekerheid wordt door de inspecteur zodanig vastgesteld dat de te verhalen bedragen voldoende verzekerd kunnen worden geacht. De ontvanger beslist of de door de verzoeker aangeboden vorm van zekerheid wordt aanvaard. Het bedrag van de zekerheid kan door de inspecteur worden gewijzigd.   
 8.  De inspecteur kan de vergunning intrekken of wijzigen: 
@@ -635,7 +651,7 @@ b. instellingen op het terrein van het bevorderen sociale samenhang in en leefba
 
 22. militaire tehuizen, mede voor het verstrekken van spijzen en dranken;  
 
-23. bejaardenoorden en andere instellingen op het gebied van bejaardenzorg voor prestaties die in het bijzonder zijn gericht op het handhaven of bevorderen van de mogelijkheden voor ouderen om zo lang mogelijk zelfstandig te blijven wonen, alsmede voor het verstrekken van spijzen en dranken;  
+23. instellingen op het gebied van bejaardenzorg voor prestaties die in het bijzonder zijn gericht op het handhaven of bevorderen van de mogelijkheden voor ouderen om zo lang mogelijk zelfstandig te blijven wonen, mede voor het verstrekken van spijzen en dranken, maar met uitzondering van leveringen en diensten in het kader van personenalarmering;  
 
 24.  vervallen;   
 

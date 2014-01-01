@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 21 juni 2013, 124014-105221B-WJZ houdende regels ten aanzien van de pleegvergoeding (Regeling pleegvergoeding)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie;  
-Gelet op [artikel 28c, eerste en tweede lid, van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel 28c, eerste en tweede lid, van de Wet op de jeugdzorg;
 Besluiten:    
 
 ### Artikel  1  
@@ -14,21 +14,25 @@ In deze regeling wordt verstaan onder:
 
 *pleegzorgaanbieder:* zorgaanbieder die pleegzorg biedt;  
 
-*wet:*[Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
+*wet:*Wet op de jeugdzorg.    
 
 ### Artikel  2  
 
-Het in [artikel 28c, eerste lid, van de wet](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bedoelde basisbedrag van de subsidie voor de verzorging en opvoeding van een pleegkind is het bedrag dat is opgenomen in de bijlage bij deze regeling.  
+Het in artikel 28c, eerste lid, van de wet bedoelde basisbedrag van de subsidie voor de verzorging en opvoeding van een pleegkind is het bedrag dat is opgenomen in de bijlage bij deze regeling.  
 
 ### Artikel  3  
 
 Het basisbedrag, bedoeld in artikel 2, wordt steeds vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het in de bijlage bij deze regeling opgenomen bedrag voor door de pleegouder ten behoeve van het pleegkind noodzakelijk gemaakte kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt, indien: 
 
-a. het pleegkind aanspraak heeft op verblijf bij een pleegouder op grond van [artikel 14 van het Uitvoeringsbesluit Wet op de jeugdzorg](../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md) en de pleegouder in verband hiermee extra kosten moet maken;  
+a. het pleegkind aanspraak heeft op verblijf bij een pleegouder op grond van artikel 14 van het Uitvoeringsbesluit Wet op de jeugdzorg en de pleegouder in verband hiermee extra kosten moet maken;  
 
 b. de pleegouder aan drie of meer pleegkinderen verzorging en opvoeding biedt, vanaf het derde en volgende pleegkind;  
 
 c. de pleegouder verzorging en opvoeding aan een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking biedt die noodzaakt tot het maken van extra kosten.    
+
+### Artikel  3a  
+
+Aan de pleegouder die tevens belast is met voogdij als bedoeld in boek 1 Burgerlijk Wetboek, wordt een door de pleegzorgaanbieder vast te stellen toeslag verleend ten behoeve van voor het pleegkind noodzakelijk te maken bijzondere kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag, bedoeld in artikel 2, dan wel uit de toeslagen, bedoeld in artikel 3, en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt.  
 
 ### Artikel  4  
 
@@ -58,23 +62,23 @@ F.Teeven
 
 ### Bijlage  
 
-####, behorend bij de Regeling pleegvergoeding
+####Basisbedragen en maximale toeslag van de pleegvergoeding per pleegkind 2014
 
-####Basisbedragen en maximale toeslag van de pleegvergoeding per pleegkind 2013
+####Basisbedrag als bedoeld in artikel 2  per leeftijdscategorie
 
-Basisbedrag als bedoeld in artikel 2 per leeftijdscategorie 
+| Leeftijdscategorie  | Bedrag per maand/per dag (in euro)  |
+|---|---|
+| 0 t/m 8 jaar  | € 532 / 17,50  |
+| 9 t/m 11 jaar  | € 538 / 17,70  |
+| 12 t/m 15 jaar  | € 586 / 19,28  |
+| 16 t/m 17 jaar  | € 647 / 21,28  |
+| 18 jaar en ouder  | € 654 / 21,51  |
 
-| Leeftijdscategorie  | Bedrag per maand/per dag  |
-|:---|:---|
-| 0 t/m 8 jaar  | € 516/16,90  |
-| 9 t/m 11 jaar  | € 22/17,10  |
-| 12 t/m 15 jaar  | € 68/18,62  |
-| 16 t/m 17 jaar  | € 628/20,58  |
-| 18 jaar en ouder  | € 634/20,79  |
+####Maximale toeslag, bedoeld in artikel 3 
 
-*Het in*artikel 3*, bedoelde bedrag van de maximale toeslag bedraagt* € 3,38 per dag.  
+Het in artikel 3 bedoelde bedrag van de maximale toeslag bedraagt € 3,48 per dag.  
 
 ####Indexering, bedoeld in artikel 4 
 
-Bij de aanvang van ieder jaar worden het basisbedrag en de toeslagen geïndexeerd met het procentuele verschil tussen de door het Centraal bureau voor de statistiek bekendgemaakte consumentenprijsindex ‘Alle huishoudens’, over de julimaanden van de twee direct aan het betreffende jaar voorafgaande jaren.  
+Bij de aanvang van ieder jaar worden het basisbedrag en de in artikel 3 bedoelde toeslagen geïndexeerd met het procentuele verschil tussen de door het Centraal bureau voor statistiek bekendgemaakte consumentenprijsindex ‘Alle huishoudens’, over de julimaanden van de twee direct aan het betreffende jaar voorafgaande jaren.  
 

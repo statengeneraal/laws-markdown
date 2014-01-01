@@ -34,7 +34,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 1°. combinatie van twee of meer financiële producten die ten minste een financieel product omvat waarvan de waarde afhankelijk is van de ontwikkelingen op financiële markten of andere markten;  
 
-2°. recht van deelneming in een beleggingsinstelling dat niet verhandelbaar is of dat op verzoek van de deelnemers ten laste van de activa direct of indirect wordt ingekocht of terugbetaald;  
+2°. recht van deelneming in een beleggingsinstelling of icbe dat niet verhandelbaar is of dat op verzoek van de deelnemers ten laste van de activa direct of indirect wordt ingekocht of terugbetaald;  
 
 3°. levensverzekering, niet zijnde een natura-uitvaartverzekering of een andere verzekering die uitsluitend strekt tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van een natuurlijke persoon of een verzekering waarbij de verplichting van de verzekeraar tot het doen van een uitkering of een reeks van uitkeringen alleen dan ontstaat, indien het overlijden van degene op wiens leven de verzekering betrekking heeft plaatsvindt voor de in de polis genoemde datum;  
 
@@ -60,19 +60,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 1°. geldkrediet waarbij de consument op verschillende tijdstippen geldsommen kan opnemen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt; of  
 
-2°. goederenkrediet waarbij de aanbieder of een derde gehouden is aan een consument op verschillende tijdstippen het genot van een roerende zaak, financieel instrument of beleggingsobject te verschaffen of een dienst te verlenen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt;   *effectenkrediet:* het aan een consument ter beschikking stellen van een doorlopend krediet tegen onderpand van financiële instrumenten als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarmee de consument transacties kan verrichten in financiële instrumenten en de aanbieder van krediet betrokken is bij die transacties; *eindtermen*: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product; *essentiële beleggersinformatie:* een kort document waarin informatie over de in artikel 66a, eerste lid, genoemde onderwerpen is weergegeven met betrekking tot rechten van deelneming in een beleggingsinstelling die niet verhandelbaar zijn of op verzoek van een deelnemer ten laste van de activa direct of indirect worden ingekocht of terugbetaald; *financieel analist*: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht; *financieel derivaat*: financieel instrument als bedoeld in [artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *financiële bijsluiter:* een document waarin informatie over de in artikel 66, eerste lid, genoemde onderwerpen met betrekking tot een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, is weergegeven; *geldmarktinstrument*: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *gelieerde partij*: 
+2°. goederenkrediet waarbij de aanbieder of een derde gehouden is aan een consument op verschillende tijdstippen het genot van een roerende zaak, financieel instrument of beleggingsobject te verschaffen of een dienst te verlenen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt;   *effectenkrediet:* het aan een consument ter beschikking stellen van een doorlopend krediet tegen onderpand van financiële instrumenten als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarmee de consument transacties kan verrichten in financiële instrumenten en de aanbieder van krediet betrokken is bij die transacties; *eindtermen*: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product; *essentiële beleggersinformatie:* een kort document waarin informatie over de in artikel 66a, eerste lid, genoemde onderwerpen is weergegeven met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe.  *financieel analist*: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht; *financieel derivaat*: financieel instrument als bedoeld in [artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *financiële bijsluiter:* een document waarin informatie over de in artikel 66, eerste lid, genoemde onderwerpen met betrekking tot een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, is weergegeven; *geldmarktinstrument*: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *gelieerde partij*: 
 
-1°. persoon die met een beheerder, beleggingsmaatschappij of bewaarder of met een bestuurder van een beheerder, beleggingsmaatschappij of bewaarder in een formele of feitelijke zeggenschapsstructuur is verbonden;  
+1°. persoon die met een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe of met een bestuurder van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe in een formele of feitelijke zeggenschapsstructuur is verbonden;  
 
-2°. persoon die direct of indirect stemrecht kan uitoefenen of anderszins bepaalde rechten kan uitoefenen waardoor invloed van betekenis kan worden uitgeoefend op het zakelijk of financieel beleid van een beheerder, beleggingsmaatschappij of bewaarder;  
+2°. persoon die direct of indirect stemrecht kan uitoefenen of anderszins bepaalde rechten kan uitoefenen waardoor invloed van betekenis kan worden uitgeoefend op het zakelijk of financieel beleid van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe;  
 
-3°. natuurlijke persoon die in een familierechtelijke betrekking staat tot een bestuurder van een beheerder, beleggingsmaatschappij of bewaarder of tot een natuurlijke persoon als bedoeld onder 1° of 2°;  
+3°. natuurlijke persoon die in een familierechtelijke betrekking staat tot een bestuurder van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe of tot een natuurlijke persoon als bedoeld onder 1° of 2°;  
 
-4°. natuurlijke persoon die een persoonlijke relatie heeft met een bestuurder van een beheerder, beleggingsmaatschappij of bewaarder of met een natuurlijke persoon als bedoeld onder 1° of 2°, in welke relatie hij het handelen van de bestuurder of de natuurlijke persoon met betrekking tot de beheerder, beleggingsmaatschappij of bewaarder kan beïnvloeden;  
+4°. natuurlijke persoon die een persoonlijke relatie heeft met een bestuurder van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe of met een natuurlijke persoon als bedoeld onder 1° of 2°, in welke relatie hij het handelen van de bestuurder of de natuurlijke persoon met betrekking tot de beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe kan beïnvloeden;  
 
-5°. rechtspersoon waarin een bestuurder van een beheerder, beleggingsmaatschappij of bewaarder of een natuurlijke persoon als bedoeld onder 3° of 4°, direct of indirect stemrecht kan uitoefenen of anderszins bepaalde rechten kan uitoefenen waardoor sprake is van invloed van betekenis op het zakelijk of financieel beleid van die rechtspersoon; of  
+5°. rechtspersoon waarin een bestuurder van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe of een natuurlijke persoon als bedoeld onder 3° of 4°, direct of indirect stemrecht kan uitoefenen of anderszins bepaalde rechten kan uitoefenen waardoor sprake is van invloed van betekenis op het zakelijk of financieel beleid van die rechtspersoon; of  
 
-6°. natuurlijke persoon die onderdeel is van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken van een beheerder, beleggingsmaatschappij of bewaarder;   *gelieerd financieel instrument:* een financieel instrument waarvan de prijs sterk wordt beïnvloed door prijsschommelingen van een ander financieel instrument dat het onderwerp van onderzoek op beleggingsgebied is of van een van dit andere financiële instrument afgeleid financieel instrument; *hypothecair krediet*: overeenkomst inzake krediet met een consument, bij het aangaan waarvan een recht van hypotheek wordt gevestigd, strekkende tot verhaal bij voorrang van de vordering tot voldoening van de door de consument verschuldigde betaling, dan wel met betrekking waartoe reeds een zodanig recht is gevestigd en waarbij het krediet wordt verleend tegen een voor hypothecaire financieringen van de aanbieder gebruikelijk jaarlijks kostenpercentage; *incident*: gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een financiële onderneming; *integriteitgevoelige functie*: 
+6°. natuurlijke persoon die onderdeel is van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe;   *gelieerd financieel instrument:* een financieel instrument waarvan de prijs sterk wordt beïnvloed door prijsschommelingen van een ander financieel instrument dat het onderwerp van onderzoek op beleggingsgebied is of van een van dit andere financiële instrument afgeleid financieel instrument; *hypothecair krediet*: overeenkomst inzake krediet met een consument, bij het aangaan waarvan een recht van hypotheek wordt gevestigd, strekkende tot verhaal bij voorrang van de vordering tot voldoening van de door de consument verschuldigde betaling, dan wel met betrekking waartoe reeds een zodanig recht is gevestigd en waarbij het krediet wordt verleend tegen een voor hypothecaire financieringen van de aanbieder gebruikelijk jaarlijks kostenpercentage; *incident*: gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een financiële onderneming; *integriteitgevoelige functie*: 
 
 1°. leidinggevende functie direct onder de personen die het beleid van de financiële onderneming bepalen of mede bepalen; of  
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 a. als onderzoek op beleggingsgebied wordt gepresenteerd of op enigerlei andere wijze wordt voorgesteld als een objectieve of onafhankelijke verklaring van de aangelegenheden die in de aanbeveling aan de orde komen; en  
 
-b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een beleggingsinstelling betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md); *persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij: 
+b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een icbe betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md); *persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij: 
 
 1°. de betrokken relevante persoon handelt anders dan in de normale uitoefening van zijn beroep of bedrijf;  
 
@@ -100,7 +100,7 @@ b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afs
 
 3°. de transactie wordt verricht voor rekening van een persoon met wie de relevante persoon familiebanden of nauwe banden heeft; of  
 
-4°. de transactie wordt verricht voor rekening van een persoon wiens relatie met de relevante persoon van dien aard is dat de relevante persoon een direct of indirect wezenlijk belang heeft bij het resultaat van de transactie afgezien van een provisie voor de uitvoering van de transactie;    *relevante persoon:*  
+4°. de transactie wordt verricht voor rekening van een persoon wiens relatie met de relevante persoon van dien aard is dat de relevante persoon een direct of indirect wezenlijk belang heeft bij het resultaat van de transactie afgezien van een provisie voor de uitvoering van de transactie;   *prime broker:* een entiteit als bedoeld in artikel 4, eerste lid, onderdeel af, van de richtlijn beheerders van alternatieve beleggingsinstellingen;  *relevante persoon:*  
 
 1°. een persoon die het dagelijks beleid bepaalt of een verbonden agent is van een beleggingsonderneming;  
 
@@ -108,7 +108,7 @@ b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afs
 
 3°. een werknemer van de beleggingsonderneming of van een verbonden agent van de beleggingsonderneming of een andere natuurlijke persoon wiens diensten ter beschikking en onder zeggenschap staan van een beleggingsonderneming onderscheidenlijk de verbonden agent en die betrokken is bij het verrichten van beleggingsactiviteiten of het verlenen van beleggingsdiensten door de beleggingsonderneming; of  
 
-4°. een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;   *retourprovisie*: gedeelte van een door of ten laste van een beleggingsinstelling voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267); *risico-indicator*: weergave van het risiconiveau van een complex product; *serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld; *termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan; *toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom;  *uitstaand saldo:*  
+4°. een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;   *retourprovisie*: gedeelte van een door of ten laste van een icbe voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267); *risico-indicator*: weergave van het risiconiveau van een complex product; *serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld; *termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan; *toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom;  *uitstaand saldo:*  
 
 1°. indien het geldkrediet betreft: op enig tijdstip bestaand totaal van de tot en met dat tijdstip door de consument opgenomen geldsommen, vermeerderd met de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;  
 
@@ -187,104 +187,110 @@ d. indien de onderneming is ingeschreven in het handelsregister: een opgave van 
 
 ### §  2.1  
 
-####Eindtermen van vakbekwaamheid
+####Bewijzen van vakbekwaamheid
 
 Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  5  
 
-1.  De personen, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn vakbekwaam, indien zij voldoen aan de in onderdeel 1 van bijlage B genoemde eindtermen alsmede, voorzover zij zich rechtstreeks bezighouden met het verlenen van financiële diensten met betrekking tot de hierna in de onderdelen a tot en met e genoemde onderwerpen, aan de eindtermen genoemd in het daarop betrekking hebbende onderdeel van bijlage B: 
+In deze paragraaf wordt verstaan onder: 
 
-a. hypothecair krediet, al dan niet gecombineerd met opstal-, inboedel-, arbeidsongeschiktheids-, kapitaal- of overlijdensrisicoverzekeringen, waarbij de verplichting van de aanbieder tot het doen van een uitkering of een reeks van uitkeringen alleen dan ontstaat, indien het overlijden van degene op wiens leven de verzekering betrekking heeft plaatsvindt voor de in de polis genoemde datum: onderdeel 2 van bijlage B;  
+*inkomensverzekering:* schadeverzekering ter dekking van het risico van financiële schade ten gevolge van arbeidsongeschiktheid of werkloosheid;  
 
-b. consumptief krediet, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdeel 3 van bijlage B;  
+*pensioen:* pensioenverzekering en premiepensioenvordering als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-c. schadeverzekeringen: onderdeel 4 van bijlage B;  
+*schadeverzekering particulier:* schadeverzekering, niet zijnde een inkomensverzekering of een schadeverzekering zakelijk;  
 
-d. levensverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdeel 5 van bijlage B;  
+*schadeverzekering zakelijk:* schadeverzekering ten behoeve van een cliënt handelend in de uitoefening van zijn beroep of bedrijf, met uitzondering van een inkomensverzekering;  
 
-e. pensioenverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: onderdelen 5 en 7 van bijlage B; of  
+*vermogen:* levensverzekeringen, niet zijnde pensioenverzekeringen, en lijfrentespaarrekeningen als bedoeld in [artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), spaarrekeningen eigen woning als bedoeld in [artikel 3.116a, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), rechten van deelneming in beleggingsinstellingen voor zover vrijgesteld op grond van [artikel 2:104, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en beleggingsobjecten;  
 
-f. premiepensioenvorderingen: onderdeel 7 van bijlage B.     
-2.  Indien de financiëledienstverlener, bedoeld in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), optreedt als gevolmachtigde agent of als ondergevolmachtigde agent, zijn de in dat lid bedoelde personen vakbekwaam, indien zij voldoen aan de in onderdeel 6 van bijlage B genoemde eindtermen en de in het eerste lid bedoelde onderdelen van die bijlage, met betrekking tot het financiële product waarmee zij zich rechtstreeks bezighouden.   
-3.  Het eerste lid is niet van toepassing op het verlenen van financiële diensten met betrekking tot een arbeidsongeschiktheidsverzekeringverzekering als bedoeld in het eerste lid, onderdeel a, b, d of e, of een opstal-, inboedel-, of overlijdensrisicoverzekering als bedoeld in het eerste lid, onderdeel a, die wordt gecombineerd met het in het desbetreffende onderdeel genoemde onderwerp.   
-
-### §  2.2  
-
-####Bewijs van vakbekwaamheid
-
-Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+*zorgverzekering:* een schadeverzekering ten behoeve van een verzekeringsplichtige als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en een aanvullende ziektekostenverzekering.    
 
 ### Artikel  6  
 
-1.  Een financiëledienstverlener voldoet aan [artikel 4:9, tweede lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
+1.  Een financiëledienstverlener voldoet aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
 
-a. zijn werknemers en andere personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met financiële dienstverlening, met uitzondering van feitelijk leidinggevenden, allen beschikken over een geldig diploma voor de in hun geval relevante eindtermen, bedoeld in artikel 5, afgegeven door een door Onze Minister erkend exameninstituut als bedoeld in artikel 9, eerste lid of over een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md); of  
+a. hij zijn bedrijfsvoering zodanig heeft ingericht dat een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende is gewaarborgd;  
 
-b. hij zijn bedrijfsvoering zodanig heeft ingericht dat deze een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende waarborgt.     
-2.  Een financiëledienstverlener voldoet aan [artikel 4:9, tweede lid, tweede volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
+b. de werknemers en andere natuurlijke personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met werkzaamheden als bedoeld in artikel 7, daartoe beschikken over: 
 
-a. de in die volzin bedoelde feitelijk leidinggevenden beschikken over een geldig diploma voor de in hun geval relevante eindtermen, bedoeld in artikel 5, afgegeven door een door Onze Minister erkend exameninstituut of over een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md); of  
+1°. een geldig, op grond van die artikelen vereist diploma, afgegeven door een door Onze Minister erkend exameninstituut als bedoeld in artikel 11a; dan wel  
 
-b. hij een financiëledienstverlener is met een op jaarbasis gemiddeld aantal voltijdse werknemers van meer dan 50 en hij zijn bedrijfsvoering zodanig heeft ingericht dat deze een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten, voldoende waarborgt.     
-3.   Vervallen.    
-4.  Onverminderd het eerste en tweede lid voldoet een bemiddelaar als bedoeld in [artikel 2:81, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan het bepaalde in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien zijn bedrijfsvoering onder de verantwoordelijkheid van de aanbieder voor welke hij bemiddelt zodanig is ingericht dat een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende is gewaarborgd.   
-5.  Onverminderd het eerste en tweede lid voldoet een aangesloten onderneming als bedoeld in [artikel 2:105, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan het bepaalde in [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien haar bedrijfsvoering onder de verantwoordelijkheid van de rechtspersoon waarbij zij is aangesloten zodanig is ingericht dat een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende is gewaarborgd.   
+2°. een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md); en    
+
+c. de personen, bedoeld in onderdeel b, voldoen aan de in artikel 11 gestelde eisen.     
+2.  Het eerste lid, onderdelen b en c, is niet van toepassing op de gevolmachtigde of ondergevolmachtigde agent.   
 
 ### Artikel  7  
 
-1.  Een diploma of een erkenning van beroepskwalificaties is geldig, tenzij de houder ervan: 
+Werknemers en andere natuurlijke personen die zich onder verantwoordelijkheid van een financiëledienstverlener bezighouden met advisering met betrekking tot een in tabel 1 genoemde onderwerp, beschikken daartoe over het ingevolge die tabel vereiste diploma.  Tabel 1. Vereiste diploma's bij advisering 
 
-a. niet voor 1 januari 2014 op de door Onze Minister vastgestelde wijze heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, bedoeld in artikel 8, tweede lid; of  
+| Onderwerp:  | Vereist diploma:  | Modules:  |
+|:---|:---|:---|
+| Basis  | Adviseur basis  | – Basis  |
+| Consumptief krediet  | Adviseur consumptief krediet  | – Basis  – Consumptief krediet  |
+| Schadeverzekering particulier  | Adviseur schadeverzekering particulier  | – Basis  – Schadeverzekeringen particulier  |
+| Schadeverzekering zakelijk  | Adviseur schadeverzekering zakelijk  | – Basis  – Schadeverzekeringen particulier  – Schadeverzekeringen zakelijk  |
+| Zorgverzekering  | Adviseur zorgverzekering  | – Zorgverzekeringen  |
+| Vermogen  | Adviseur vermogen  | – Basis  – Vermogen  |
+| Inkomensverzekering  | Adviseur inkomen  | – Basis  – Inkomen  |
+| Hypothecair krediet  | Adviseur hypothecair krediet  | – Basis  – Vermogen  – Hypothecair krediet  |
+| Pensioen  | Adviseur pensioen  | – Basis  – Vermogen  – Pensioenverzekeringen  |
 
-b. niet voor 1 januari 2014 met goed gevolg een examen heeft afgelegd van een door Onze Minister erkend exameninstituut dat voldoet aan de in zijn geval relevante toetstermen die tegelijkertijd met toetstermen voor permanente educatie openbaar zijn gemaakt.     
-2.  Indien een houder van een diploma of een erkenning van beroepskwalificaties niet binnen de in het eerste lid bedoelde termijn heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, is het diploma of de erkenning van beroepskwalificaties ongeldig vanaf het einde van die termijn tot hij alsnog daaraan voldoet.   
+### Artikel  9  
 
-### §  2.3  
+1.  Een diploma als bedoeld in artikel 7 wordt afgegeven, indien de ingevolge tabel 1 of 2 aan dat diploma ten grondslag liggende modules alle met goed gevolg zijn afgerond.   
+2.  De examens van de modules, bedoeld in het eerste lid, worden afgelegd bij een op grond van artikel 11a erkend exameninstituut.   
+3.  De examens van de modules, bedoeld in het eerste lid, kunnen, indien Onze Minister daar gelegenheid toe biedt, tevens bij Onze Minister worden afgelegd.   
+4.  Bij ministeriële regeling worden de eindtermen en toetstermen vastgesteld voor de in het eerste lid bedoelde modules.   
 
-####Vaststellen toetstermen
+### Artikel  10  
 
-Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Personen die over een in tabel 3 genoemd diploma beschikken, zijn tevens vakbekwaam te adviseren over het daarbij in de tabel vermelde onderwerp, indien de advisering over dat onderwerp gecombineerd wordt met advisering over het onderwerp waarop het diploma betrekking heeft.  Tabel 3. Toegestane bijkomende onderwerpen 
 
-### Artikel  8  
+| Diploma:  | Onderwerp:  |
+|:---|:---|
+| Adviseur consumptief krediet  | Betalingsbeschermers indien gecombineerd met consumptief krediet  |
+| Adviseur vermogen  | Arbeidsongeschiktheidsverzekeringen indien gecombineerd met een levensverzekering  |
+| Adviseur hypothecair krediet  | Betalingsbeschermers, opstal- of inboedel- verzekeringen indien gecombineerd met hypothecair krediet  |
+| Adviseur inkomen  | Ongevallenverzekeringen indien gecombineerd met een inkomensverzekering  |
 
-1.  Bij ministeriële regeling worden toetstermen vastgesteld voor de examens die leiden tot afgifte van een diploma als bedoeld in artikel 10, eerste lid.   
-2.  Indien ontwikkelingen op de financiële markten of relevante wettelijke voorschriften daartoe aanleiding geven worden bij ministeriële regeling toetstermen vastgesteld met betrekking tot permanente educatie, alsmede de wijze waarop aan deze toetstermen kan worden voldaan.   
-3.  Onze Minister draagt er zorg voor dat de inwerkingtreding van de toetstermen voor examens en de inwerkingtreding van de daarbij aansluitende toetstermen voor permanente educatie gelijktijdig plaatsvinden.   
+### Artikel  11  
 
-### §  2.4  
+1.  De houder van een diploma of erkenning als bedoeld in artikel 6, onderdeel b, is uitsluitend bevoegd werkzaamheden als bedoeld in artikel 7 te verrichten, indien hij periodiek, met tussenpozen van ten hoogste 36 maanden, met goed gevolg een examen aflegt. Het eerste periodieke examen dient uiterlijk 36 maanden na het behalen van het diploma of het verkrijgen van de erkenning met goed gevolg te worden afgelegd.   
+2.  De houder van een diploma of erkenning die beschikt over een door een op grond van artikel 11a erkend exameninstituut afgegeven certificaat waaruit blijkt dat hij gedurende een bepaalde periode vakinhoudelijk betrokken is geweest bij het afnemen van examens of de ontwikkeling van examenmateriaal met betrekking tot de voor zijn beroepskwalificatie relevante eindtermen en toetstermen, wordt voor de toepassing van het eerste lid gelijkgesteld met de houder van een diploma of erkenning die op de laatste dag van die periode een examen als bedoeld in het eerste lid heeft afgelegd.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het tweede lid.   
+4.  Indien de houder van een diploma of erkenning op grond van het eerste lid niet langer bevoegd is de in artikel 7 bedoelde werkzaamheden te verrichten, kan hij een bijzonder examen afleggen. Indien dit examen met goed gevolg wordt afgelegd, herleeft de bevoegdheid om de in artikel 7 bedoelde werkzaamheden te verrichten. Vervolgens dient het eerstvolgende periodieke examen uiterlijk 36 maanden na het behalen van het bijzondere examen te worden afgelegd.   
+5.  De examens, bedoeld in het eerste en vierde lid, voldoen aan bij ministeriële regeling vast te stellen eindtermen en toetstermen en worden afgelegd bij een op grond van artikel 11a erkend exameninstituut.   
+6.  De examens, bedoeld in het eerste en vierde lid, voldoen aan bij ministeriële regeling vast te stellen eindtermen en toetstermen en kunnen, indien Onze Minister daar gelegenheid toe biedt, tevens bij Onze Minister worden afgelegd.   
+
+### §  2.2  
 
 ####Exameninstituten
 
 Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
-### Artikel  9  
+### Artikel  11a  
 
-1.  Onze Minister erkent een exameninstituut op aanvraag, indien de aanvrager heeft aangetoond te kunnen voldoen aan artikel 10, tweede, derde, vijfde, zesde en zevende lid, voorzover het in die leden bepaalde op de aanvrager van toepassing is.   
+1.  Onze Minister erkent een exameninstituut op aanvraag, indien de aanvrager aantoont dat zal worden voldaan aan de artikelen 11b en 11c.   
 2.  Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.   
-3.  Onze Minister kan aan een erkenning voorschriften verbinden.   
+3.  Onze Minister kan aan een erkenning voorschriften of een bepaalde termijn verbinden.   
 4.  Onze Minister kan een erkenning intrekken: 
 
 a. op verzoek van het erkende exameninstituut;  
 
-b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning na de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of  
+b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning, na de erkenning zodanig onjuist of onvolledig blijken dat de erkenning zou zijn geweigerd, dan wel niet zonder daaraan voorschriften te verbinden zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest;  
 
-c. indien het exameninstituut niet langer voldoet aan artikel 10 of 11 of aan een voorschrift, verbonden aan de erkenning.     
-5.  Van een besluit tot erkenning of tot intrekking van de erkenning van een exameninstituut doet Onze Minister mededeling in de Staatscourant.   
+c. indien het exameninstituut niet langer voldoet aan de artikelen 11b en 11c;  
 
-### Artikel  10  
+d. indien het exameninstituut artikel 11d of de aan de erkenning verbonden voorschriften niet naleeft.     
+5.  Na intrekking van een erkenning draagt het exameninstituut de administratie inzake certificaten en diploma’s over aan Onze Minister. De vorige volzin is van overeenkomstige toepassing, indien de aan de erkenning verbonden termijn eindigt.   
 
-1.  Een erkend exameninstituut geeft een diploma af aan een kandidaat die een door het erkende exameninstituut afgenomen examen met goed gevolg heeft afgelegd.   
-2.  Een erkend exameninstituut dat tevens opleidingen aanbiedt, brengt een zodanige scheiding aan in de bedrijfsvoering tussen het ontwikkelen en verzorgen van opleidingen en het afnemen van examens dat belangenverstrengeling tussen deze activiteiten wordt voorkomen. Daartoe treft een erkend exameninstituut in ieder geval adequate maatregelen, gericht op: 
+### Artikel  11b  
 
-a. het voeren van gescheiden administraties voor het ontwikkelen en verzorgen van opleidingen en voor het afnemen van examens; en  
-
-b. het voorkomen van toegang tot examenmateriaal van werknemers die op enige wijze betrokken zijn bij de ontwikkeling of de verzorging van een opleiding, gericht op het desbetreffende examen.     
-3.  Een erkend exameninstituut stelt de door hem aangeboden examens open voor een ieder.   
-4.  Een door een erkend exameninstituut af te nemen examen voldoet binnen zes maanden na de openbaarmaking ervan aan de door Onze Minister vastgestelde toetstermen, bedoeld in artikel 8, eerste lid.   
-5.  Een erkend exameninstituut neemt ten aanzien van de wijze van examinering de maatregelen die redelijkerwijs nodig zijn om te bevorderen dat examens op een correcte en eerlijke wijze worden afgelegd.   
-6.  Een erkend exameninstituut draagt zorg voor een vakinhoudelijk juiste en objectieve beoordeling van afgenomen examens.   
-7.  Een erkend exameninstituut beschikt over en handelt in overeenstemming met een examenreglement waarin ten minste de volgende onderwerpen adequaat zijn geregeld: 
+1.  Een erkend exameninstituut neemt ten aanzien van de wijze van examinering de maatregelen die redelijkerwijs nodig zijn om te bevorderen dat examens op een correcte en eerlijke wijze worden afgelegd.   
+2.  Een erkend exameninstituut beschikt over en handelt in overeenstemming met een examenreglement waarin ten minste de volgende onderwerpen adequaat zijn geregeld: 
 
 a. de wijze van aanmelding van kandidaten;  
 
@@ -292,122 +298,131 @@ b. het aantal malen per jaar dat gelegenheid wordt gegeven tot het afleggen van 
 
 c. de wijze van kennisgeving van plaats, datum en tijdstip van aanvang der examens;  
 
-d. de vaststelling van de identiteit van kandidaten;  
+d. de vaststelling van de identiteit van de kandidaten;  
 
 e. de duur en wijze van examineren;  
 
 f. de maatregelen indien onregelmatigheden worden geconstateerd;  
 
-g. de aanwijzing van de examinatoren bij de mondelinge examens;  
+g. de termijn waarbinnen de examenuitslagen worden bekendgemaakt, alsmede de termijn waarbinnen de certificaten en diploma’s worden uitgereikt;  
 
-h. de beoordeling van de examens;  
-
-i. de termijn waarbinnen de examenuitslagen worden bekendgemaakt, alsmede de termijn waarbinnen de diploma’s worden uitgereikt;  
-
-j. de aanwijzing van degene of degenen die de uitslag van het schriftelijk examen vaststelt onderscheidenlijk vaststellen;  
-
-k. de wijze van vaststelling van de beoordelingsnormen en normen voor slagen en afwijzen;  
-
-l. de wijze van verkrijgbaarstelling van de richtlijnantwoorden na afloop van een examen;  
-
-m. de inzage in afgelegde examens;  
-
-n. de bewaartermijnen voor de afgelegde examens; en  
-
-o. de interne klachtenprocedure.     
-8.  Een erkend exameninstituut verstrekt jaarlijks voor 1 juli aan Onze Minister een opgave van het aantal in het vorige kalenderjaar afgenomen en beoordeelde examens, alsmede een analyse van de resultaten van deze examens, de klachten die over de examinering en de resultaten zijn ingediend en de beslissingen hierop van het exameninstituut.   
-9.  Het tweede en derde lid zijn niet van toepassing op uit ’s rijks kas bekostigde opleidingen van instellingen voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-
-### Artikel  11  
-
-1.  Een erkend exameninstituut verstrekt aan Onze Minister op diens verzoek de gegevens die Onze Minister nodig heeft voor de uitoefening van zijn in dit hoofdstukomschreven taken.   
-2.  Met het toezicht op de naleving van de artikelen 9 en 10 zijn belast de bij besluit van Onze Minister aangewezen personen.   
-3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-
-### §  2.5  
-
-####Instituten voor permanente educatie
-
-Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
-
-### Artikel  11a  
-
-Aan artikel 7, eerste lid, voldoet degene die binnen achttien maanden na inwerkingtreding van PE-toetstermen: 
-
-1. beschikt over een certificaat dat is afgegeven door een door Onze Minister erkend instituut voor permanente educatie waaruit blijkt dat hij met goed gevolg een PE-onderwijsprogramma heeft gevolgd met betrekking tot de in zijn geval relevante toetstermen;  
-
-2. beschikt over een certificaat dat is afgegeven door een door Onze Minister erkend exameninstituut waaruit blijkt dat hij met goed gevolg een PE-toets heeft afgelegd met betrekking tot de in zijn geval relevante toetstermen;  
-
-3. beschikt over een certificaat dat is afgegeven door een door Onze Minister erkend exameninstituut waaruit blijkt dat hij vakinhoudelijk betrokken is geweest bij het afnemen van examens of bij de ontwikkeling van examenmateriaal met betrekking tot de in zijn geval relevante toetstermen bij dat exameninstituut; of  
-
-4. beschikt over een certificaat dat is afgegeven door een door Onze Minister erkend instituut voor permanente educatie waaruit blijkt dat hij als geregistreerd docent betrokken is geweest bij de uitvoering van een PE-onderwijsprogramma met betrekking tot de in zijn geval relevante toetstermen bij dat instituut voor permanente educatie.    
-
-### Artikel  11b  
-
-1.  Onze Minister erkent een instituut voor permanente educatie op aanvraag, indien de aanvrager heeft aangetoond te zullen voldoen aan artikel 11c, voor zover het in dat artikel bepaalde op de aanvrager van toepassing is.   
-2.  Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.   
-3.  Onze Minister kan aan een erkenning voorschriften verbinden.   
-4.  Onze Minister kan een erkenning intrekken: 
-
-a. op verzoek van het erkende instituut voor permanente educatie;  
-
-b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning, na de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd of zonder voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of  
-
-c. indien het instituut voor permanente educatie niet langer voldoet aan artikel 11c of artikel 11d of aan een voorschrift of voorwaarde, verbonden aan de erkenning.     
+h. de interne klachtenprocedure.     
 
 ### Artikel  11c  
 
-1.  Een erkend instituut voor permanente educatie beschikt over: 
+1.  Een kandidaat die met goed gevolg het examen voor een module als bedoeld in artikel 9, eerste lid, heeft afgelegd, ontvangt ten bewijze daarvan een certificaat.   
+2.  Een kandidaat die alle voor een diploma benodigde certificaten heeft behaald, ontvangt ten bewijze daarvan een diploma.   
+3.  Een kandidaat die met goed gevolg het examen, bedoeld in artikel 11, eerste of vierde lid, heeft afgelegd, ontvangt ten bewijze daarvan een certificaat.   
 
-a. aantoonbare en actuele ervaring met het op zorgvuldige en betrouwbare wijze vervaardigen en verzorgen van cursussen en het beoordelen van individuele kandidaten;  
+### Artikel  11ca  
 
-b. gekwalificeerde docenten in inhoudelijk, onderwijskundig en toetstechnisch opzicht en maakt daar bij de uitvoering van PE-onderwijsprogramma’s ook uitsluitend gebruik van;  
-
-c. een registratie waaruit de vakbekwaamheid van de docenten voor een PE-onderwijsprogramma blijkt;  
-
-d. een evaluatiesysteem voor het afgenomen PE-onderwijsprogramma;  
-
-e. een adequaat kwaliteitsborgingssysteem.     
-2.  Een erkend instituut voor permanente educatie biedt een PE-onderwijsprogramma meerdere malen in Nederland aan waarbij kandidaten die beschikken over het relevante diploma, bedoeld in artikel 6, worden toegelaten.   
-3.  Een erkend instituut voor permanente educatie stemt in met een door Onze Minister te organiseren controle.   
-4.  Een erkend instituut voor permanente educatie verzorgt het PE-onderwijsprogramma met een toetsend element dat alle PE-toetstermen voor de desbetreffende module omvat en levert daarbij tevens cursusmateriaal dat als naslagwerk kan dienen voor kandidaten.   
-5.  Een erkend instituut voor permanente educatie stelt Onze Minister in kennis van een nieuw ontwikkeld PE-onderwijsprogramma.   
-6.  Een erkend instituut voor permanente educatie legt een nieuw ontwikkeld PE-onderwijsprogramma ter beoordeling voor aan Onze Minister.   
-7.  Een erkend instituut voor permanente educatie draagt zorg voor een vakinhoudelijk juiste en objectieve beoordeling van de aangeboden PE-onderwijsprogramma’s.   
-8.  Een erkend instituut voor permanente educatie neemt de maatregelen die redelijkerwijs nodig zijn om te bevorderen dat PE-onderwijsprogramma’s op een correcte en eerlijke wijze worden aangeboden en draagt zorg voor een vakinhoudelijke juiste en objectieve beoordeling van kandidaten.   
-9.  Het aantal kandidaten per PE-onderwijsprogramma dat een erkend instituut voor permanente educatie aanbiedt, bedraagt ten hoogste 25 personen.   
-10.  Een erkend instituut voor permanente educatie beschikt over en handelt in overeenstemming met een PE-reglement waarin ten minste de volgende onderwerpen met betrekking tot het PE-onderwijsprogramma adequaat zijn geregeld: 
-
-a. wijze van aanmelding van de kandidaten;  
-
-b. aantal malen per jaar dat gelegenheid wordt gegeven tot het volgen van een PE-onderwijsprogramma;  
-
-c. wijze van kennisgeving van plaats, datum en tijdstip van de start- en eindtijden van het PE-onderwijsprogramma;  
-
-d. opbouw, verschillende interactieve onderwijsvormen en uitvoering van PE-onderwijsprogramma’s gericht op actieve participatie van de kandidaten en de wijze van beoordelen van kandidaten ten aanzien van hun inhoudelijke vakbekwaamheid betreffende de PE-toetstermen;  
-
-e. vaststelling van de identiteit van kandidaten en docenten;  
-
-f. vaststelling van de presentie van de kandidaten;  
-
-g. vaststelling van de rechten en plichten van de kandidaten;  
-
-h. maatregelen om fraude te voorkomen;  
-
-i. bewaartermijnen voor de gegevens van afgelegde PE-onderwijsprogramma’s wat betreft inhoud en evaluatie, gegevens van docenten en gegevens van kandidaten;  
-
-j. interne klachtenprocedure.     
+1.  Het certificaat wordt ondertekend door het exameninstituut dat het examen, bedoeld in artikel 11c, eerste lid, heeft afgenomen.   
+2.  Het diploma wordt ondertekend door het exameninstituut dat het laatste examen heeft afgenomen dat benodigd is voor het behalen van het diploma.   
+3.  Het certificaat wordt aan de kandidaat uitgereikt of toegezonden door het exameninstituut, bedoeld in het eerste lid.   
+4.  Het diploma wordt aan de kandidaat uitgereikt of toegezonden door het exameninstituut, bedoeld in het tweede lid.   
+5.  Duplicaten van certificaten en diploma’s worden uitsluitend door Onze Minister verstrekt. Verstrekking geschiedt tegen betaling van de kostprijs.   
+6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de afgifte van certificaten en diploma’s of de verstrekking van duplicaten daarvan.   
 
 ### Artikel  11d  
 
-1.  Een erkend instituut voor permanente educatie verstrekt aan Onze Minister twee maanden na de periode, bedoeld in artikel 7, een opgave van het aantal afgenomen PE-onderwijsprogramma’s, de geanonimiseerde klachten over de PE-onderwijsprogramma’s, de slagingspercentages die zijn geregistreerd door het instituut voor permanente educatie en een analyse daarvan.   
-2.  Een erkend instituut voor permanente educatie verstrekt aan Onze Minister op diens verzoek de gegevens die Onze Minister nodig heeft voor de uitoefening van zijn in dit hoofdstuk omschreven taken.   
-3.  Met het toezicht op de naleving van de artikelen 11b en 11c zijn belast de bij besluit van Onze Minister aangewezen personen.   
-4.  Van een besluit als bedoeld in het derde lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+1.  Een erkend exameninstituut verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
+2.  Een erkend exameninstituut verstrekt jaarlijks voor 1 juli aan Onze Minister een opgave van het aantal in het vorige kalenderjaar afgenomen en beoordeelde examens, alsmede een analyse van de resultaten van deze examens, de klachten die over de examinering en de resultaten zijn ingediend, en de beslissingen hierop van het exameninstituut.   
+3.  Een erkend exameninstituut stemt in met een door Onze Minister aangewezen controle.   
+
+### §  2.3  
+
+####Centrale examenbank
+
+Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  11e  
 
-Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling permanente educatie Wft](../../../../../../../ministeriele-regeling/erkenningsregeling/permanente/educatie/wft/BWBR0023907/README.md) berust na de inwerkingtreding van het [Wijzigingsbesluit financiële markten 2010](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2010/BWBR0026789/README.md) op artikel 11b, eerste lid.  
+1.  Er is een centrale examenbank ten behoeve van de examinering van de examens van de modules, bedoeld in artikel 9, eerste lid, en de examens, bedoeld in artikel 11, eerste en vierde lid. De centrale examenbank wordt beheerd door Onze minster.   
+2.  Een exameninstituut maakt ten behoeve van de examens van de modules, bedoeld in artikel 9, eerste lid, en de examens, bedoeld in artikel 11, eerste en vierde lid, uitsluitend gebruik van de centrale examenbank.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de inrichting en beheer van de centrale examenbank.   
+
+### §  2.4  
+
+####Informatiesysteem inzake beroepskwalificaties
+
+Bepalingen ter uitvoering van het [artikel 4:9a, vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  11f  
+
+1.  Het informatiesysteem inzake beroepskwalificaties, bedoeld in [artikel 4:9a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevat persoonsgegevens van: 
+
+a. kandidaten die beschikken over een diploma als bedoeld in artikel 6, eerste lid, onderdeel b, onder 1°, of een erkenning als bedoeld in artikel 6, eerste lid, onderdeel b, onder 2°;  
+
+b. kandidaten die deelnemen aan een examen als bedoeld in artikel 9, tweede lid, of 11, eerste of vierde lid.     
+2.  Ten aanzien van de in het eerste lid, onderdelen a en b, bedoelde personen worden, naast het in [artikel 4:9a, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), genoemde burgerservicenummer, of bij het ontbreken daarvan aan de kandidaat toegekend nummer, de volgende gegevens opgenomen: 
+
+a. geslachtsnaam, voornamen en voorletters;  
+
+b. geboortedatum;  
+
+c. geboorteplaats;  
+
+d. geslacht;  
+
+e. de afgelegde examens;  
+
+f. de resultaten van afgelegde examens;  
+
+g. de datum waarop betrokkene een diploma als bedoeld in artikel 6, eerste lid, onderdeel b, onder 1°, heeft behaald;  
+
+h. de datum waarop betrokkene een erkenning van beroepskwalificaties als bedoeld in artikel 6, eerste lid, onderdeel b, onder 2°, verkrijgt;  
+
+i. de datum waarop een examen is afgelegd als bedoeld in artikel 9, tweede lid, of 11, eerste of vierde lid;  
+
+j. de datum van de laatste dag van de periode, bedoeld in artikel 11, tweede lid;  
+
+k. de naam van het exameninstituut, waar het examen is afgelegd.     
+
+### Artikel  11g  
+
+1.  Een erkend exameninstituut verstrekt aan de beheerder van het informatiesysteem inzake beroepskwalificaties uit eigen beweging of op verzoek alle gegevens als bedoeld in artikel 11f, tweede lid, die noodzakelijk zijn voor het bijhouden dan wel schonen van de gegevens in het informatiesysteem.   
+2.  Persoonsgegevens die zijn opgenomen in het informatiesysteem inzake beroepskwalificaties worden slechts ter beschikking gesteld aan erkende exameninstituten en aan Onze Minister. De gegevens worden niet gebruikt voor een ander doel dan de uitvoering van de krachtens [artikel 4:9, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gestelde regels.   
+
+### Artikel  11h  
+
+1.  De in het informatiesysteem opgenomen gegevens, bedoeld in artikel 11f, worden verwijderd: 
+
+a. na verloop van tien jaren, of  
+
+b. indien de betrokken persoon is overleden.     
+2.  De termijn, genoemd in het eerste lid, onderdeel a, vangt aan op de dag waarop de laatste mutatie van de in artikel 11f, tweede lid, genoemde gegevens in het informatiesysteem heeft plaatsgevonden.   
+
+### Artikel  11i  
+
+1.  Met betrekking tot het informatiesysteem inzake beroepskwalificaties is Onze Minister de verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  Het eerste lid is van overeenkomstige toepassing op de tijdelijke gegevensverwerking in de centrale examenbank ten behoeve van het afnemen van examens.   
+
+### Artikel  11j  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de inrichting en beheer van het informatiesysteem inzake beroepskwalificaties.  
+
+### §  2.5  
+
+####Doorberekening kosten
+
+Bepalingen ter uitvoering van [artikel 4:9, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  11k  
+
+1.  Onze Minister brengt de kosten die verband houden met de uitvoering van de krachtens [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gestelde regels in rekening bij exameninstituten als bedoeld in artikel 4:9, derde lid, van de wet.   
+2.  De kosten, bedoeld in het eerste lid, zijn: 
+
+a. kosten die verband houden met de ontwikkeling en het beheer van de centrale examenbank;  
+
+b. kosten die verband houden met de ontwikkeling en het beheer van de examenvragen;  
+
+c. kosten die verband houden met de ontwikkeling en het beheer van het informatiesysteem, bedoeld in [artikel 4:9a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+d. kosten die verband houden met de ontwikkeling en het beheer van de eindtermen en toetstermen, bedoeld in artikel 9, vijfde lid, en artikel 11, vijfde en zesde lid;  
+
+e. kosten die verband houden met de controle op een ordelijk verloop van de afname van examens.     
+3.  Bij ministeriële regeling wordt het tarief vastgesteld dat per examen in rekening wordt gebracht in verband met de in het eerste lid bedoelde kosten. Voorts kunnen bij ministeriële regeling nadere regels worden gesteld met betrekking tot de wijze waarop de in het eerste lid genoemde kosten in rekening worden gebracht.   
+4.  De aanvrager van een erkenning als bedoeld in artikel 11a, eerste lid, is voor het in behandeling nemen van een aanvraag een bij ministeriële regeling vastgesteld tarief verschuldigd.   
 
 ### Hoofdstuk  3  
 
@@ -495,47 +510,47 @@ c. de overige belangen van de beheerder, beleggingsmaatschappij, beleggingsonder
 
 ### §  4.1  
 
-####Beheerders, beleggingsinstellingen, bewaarders en pensioenbewaarders
+####Beleggingsinstellingen, icbe’s, hun beheerders, hun bewaarders, en pensioenbewaarders
 
 Bepalingen ter uitvoering van de [artikelen 4:11, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  17  
 
-1.  Een beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder als bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt zorg voor een systematische analyse van integriteitrisico´s.   
-2.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder draagt er zorg voor dat het beleid, bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn neerslag vindt in procedures en maatregelen.   
-3.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder stelt alle relevante bedrijfsonderdelen in kennis van het beleid en de procedures en maatregelen.   
-4.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder draagt zorg voor de uitvoering en de systematische toetsing van het beleid en de procedures en maatregelen.   
-5.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen.   
-6.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf tot een gepaste bijstelling leiden.   
+1.  Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt zorg voor een systematische analyse van integriteitrisico´s.   
+2.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt er zorg voor dat het beleid, bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn neerslag vindt in procedures en maatregelen.   
+3.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder stelt alle relevante bedrijfsonderdelen in kennis van het beleid en de procedures en maatregelen.   
+4.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt zorg voor de uitvoering en de systematische toetsing van het beleid en de procedures en maatregelen.   
+5.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen.   
+6.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf tot een gepaste bijstelling leiden.   
 
 ### Artikel  18  
 
-Een beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van de privé-belangen van personen die het beleid van de financiële onderneming bepalen, personen die onderdeel zijn van een orgaan dat is belast met toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, andere werknemers, of andere personen die in opdracht van de betrokken onderneming op structurele basis werkzaamheden voor haar verrichten met haar belangen of die van haar deelnemers.  
+Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van de privé-belangen van personen die het beleid van de financiële onderneming bepalen, personen die onderdeel zijn van een orgaan dat is belast met toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, andere werknemers, of andere personen die in opdracht van de betrokken onderneming op structurele basis werkzaamheden voor haar verrichten met haar belangen of die van haar deelnemers.  
 
 ### Artikel  19  
 
-1.  Een beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
-2.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
-3.  De beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder informeert de Autoriteit Financiële Markten onverwijld omtrent incidenten.   
+1.  Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
+2.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
+3.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder informeert de Autoriteit Financiële Markten onverwijld omtrent incidenten.   
 
 ### Artikel  20  
 
-1.  Een beheerder, beleggingsmaatschappij, bewaarder of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die hij onderscheidenlijk zij wil benoemen in een integriteitgevoelige functie.   
-2.  De beheerder, beleggingsmaatschappij, bewaarder of pensioenbewaarder draagt zorg voor de beoordeling van de betrouwbaarheid van degenen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden in een integriteitgevoelige functie verrichten.   
+1.  Een beheerder van een icbe, bewaarder van een icbe, maatschappij voor collectieve belegging in effecten of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die hij onderscheidenlijk zij wil benoemen in een integriteitgevoelige functie.   
+2.  De beheerder van een icbe, bewaarder van een icbe, maatschappij voor collectieve belegging in effecten of pensioenbewaarder draagt zorg voor de beoordeling van de betrouwbaarheid van degenen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden in een integriteitgevoelige functie verrichten.   
 
 ### Artikel  21  
 
-1.  Een beleggingsinstelling als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt ter bescherming van de integriteit van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van deelnemers.   
-2.  Onverminderd het bepaalde ingevolge de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) beschikt de beleggingsinstelling over procedures en maatregelen met betrekking tot de identificatie van deelnemers en de verificatie daarvan. De beleggingsinstelling accepteert een deelnemer niet indien zij de identiteit niet heeft vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
-3.  De beleggingsinstelling beschikt ter bescherming van de integriteit van het bedrijf over organisatorische en administratieve procedures en maatregelen die betrekking hebben op risicoclassificaties ten aanzien van cliënten, producten of diensten.   
-4.  De beleggingsinstelling beschikt over procedures en maatregelen met betrekking tot de analyse van gegevens van deelnemers, mede in relatie tot de door de deelnemer afgenomen producten, en de detectie van afwijkende transactiepatronen. Aan de hand van deze procedures en maatregelen bepaalt de beleggingsinstelling tevens de risico’s van bepaalde cliënten, producten of diensten voor de integere uitoefening van haar bedrijf.   
-5.  De beleggingsinstelling draagt zorg voor de documentatie en vastlegging met betrekking tot de acceptatie en indeling naar risico van cliënten, de identificatie en verificatie van de gegevens van cliënten en de bewaking van transacties van cliënten. Dergelijke gegevens worden tot vijf jaar na de dienstverlening of het beëindigen van de relatie bewaard.   
-6.  Het eerste tot en met vijfde lid zijn niet van toepassing voorzover de beleggingsinstelling niet voorafgaand aan het intreden of uittreden van deelnemers in de beleggingsinstelling beslist omtrent acceptatie van deelnemers.   
+1.  Een beleggingsinstelling of icbe als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt ter bescherming van de integriteit van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van deelnemers.   
+2.  Onverminderd het bepaalde ingevolge de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) beschikt de beleggingsinstelling of icbe over procedures en maatregelen met betrekking tot de identificatie van deelnemers en de verificatie daarvan. De beleggingsinstelling of icbe accepteert een deelnemer niet indien zij de identiteit niet heeft vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
+3.  De beleggingsinstelling of icbe beschikt ter bescherming van de integriteit van het bedrijf over organisatorische en administratieve procedures en maatregelen die betrekking hebben op risicoclassificaties ten aanzien van cliënten, producten of diensten.   
+4.  De beleggingsinstelling of icbe beschikt over procedures en maatregelen met betrekking tot de analyse van gegevens van deelnemers, mede in relatie tot de door de deelnemer afgenomen producten, en de detectie van afwijkende transactiepatronen. Aan de hand van deze procedures en maatregelen bepaalt de beleggingsinstelling of icbe tevens de risico’s van bepaalde cliënten, producten of diensten voor de integere uitoefening van haar bedrijf.   
+5.  De beleggingsinstelling of icbe draagt zorg voor de documentatie en vastlegging met betrekking tot de acceptatie en indeling naar risico van cliënten, de identificatie en verificatie van de gegevens van cliënten en de bewaking van transacties van cliënten. Dergelijke gegevens worden tot vijf jaar na de dienstverlening of het beëindigen van de relatie bewaard.   
+6.  Het eerste tot en met vijfde lid zijn niet van toepassing voorzover de beleggingsinstelling of icbe niet voorafgaand aan het intreden of uittreden van deelnemers in de beleggingsinstelling of icbe beslist omtrent acceptatie van deelnemers.   
 
 ### Artikel  22  
 
-1.  Een beleggingsinstelling als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) onderzoekt, op verzoek van de Autoriteit Financiële Markten, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.   
-2.  De beleggingsinstelling verstrekt de uitkomst van het in het eerste lid bedoelde onderzoek, binnen een door de Autoriteit Financiële Markten vast te stellen termijn, aan de Autoriteit Financiële Markten.   
+1.  Een beleggingsinstelling of icbe als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) onderzoekt, op verzoek van de Autoriteit Financiële Markten, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.   
+2.  De beleggingsinstelling of icbe verstrekt de uitkomst van het in het eerste lid bedoelde onderzoek, binnen een door de Autoriteit Financiële Markten vast te stellen termijn, aan de Autoriteit Financiële Markten.   
 
 ### §  4.2  
 
@@ -599,9 +614,13 @@ Bepalingen ter uitvoering van de [artikelen 4:11, tweede en derde lid](../../../
 
 Bepalingen ter uitvoering van [artikel 4:14, tweede lid, aanhef en onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
+### Artikel  29a  
+
+De bedrijfsvoering van een Nederlandse beheerder van een beleggingsinstelling voldoet aan de ingevolge artikel 18 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.  
+
 ### Artikel  30  
 
-1.  De bedrijfsvoering van een beheerder, beleggingsinstelling, beleggingsonderneming, bewaarder of pensioenbewaarder, bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in: 
+1.  De bedrijfsvoering van een beheerder van een icbe, icbe, beleggingsonderneming, bewaarder van een icbe of pensioenbewaarder, bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in: 
 
 a. duidelijke besluitvormingsprocedures en een duidelijke, evenwichtige en adequate organisatiestructuur;  
 
@@ -620,8 +639,8 @@ e. adequate interne controleprocedures om te waarborgen dat beslissingen en proc
 
 ### Artikel  31  
 
-1.  Werknemers van een beheerder of een beleggingsonderneming en andere personen die door de desbetreffende financiële onderneming zijn belast met het beheren van beleggingsinstellingen, het verlenen van beleggingsdiensten of het verrichten van beleggingsactiviteiten beschikken over de nodige vakbekwaamheid en deskundigheid om de hun toevertrouwde verantwoordelijkheid uit te oefenen.   
-2.  Een beheerder van een instelling voor collectieve belegging in effecten of een beleggingsonderneming zorgt ervoor dat werknemers die verscheidene functies uitoefenen, daardoor niet worden of kunnen worden belet een van deze functies op degelijke, eerlijke en professionele wijze uit te oefenen.   
+1.  Werknemers van een beleggingsonderneming of beheerder van een icbe en andere personen die door de desbetreffende financiële onderneming zijn belast met het beheren van icbe’s, het verlenen van beleggingsdiensten of het verrichten van beleggingsactiviteiten beschikken over de nodige vakbekwaamheid en deskundigheid om de hun toevertrouwde verantwoordelijkheid uit te oefenen.   
+2.  Een beheerder van een icbe of een beleggingsonderneming zorgt ervoor dat werknemers die verscheidene functies uitoefenen, daardoor niet worden of kunnen worden belet een van deze functies op degelijke, eerlijke en professionele wijze uit te oefenen.   
 3.  Voor de toepassing van het eerste en tweede lid wordt rekening gehouden met de aard, omvang en risico’s van de financiële onderneming en de werkzaamheden van de beheerder respectievelijk de beleggingsonderneming.   
 
 ### Artikel  31a  
@@ -638,12 +657,12 @@ d. het ten minste jaarlijks rapporteren aan de personen die het dagelijks beleid
 
 ### Artikel  31c  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten of een beleggingsonderneming beschikt over een organisatieonderdeel dat op onafhankelijke en effectieve wijze een compliancefunctie uitoefent.   
+1.  Een beleggingsonderneming of beheerder van een icbe beschikt over een organisatieonderdeel dat op onafhankelijke en effectieve wijze een compliancefunctie uitoefent.   
 2.  Het organisatieonderdeel, bedoeld in het eerste lid, heeft als taak: 
 
 a. het controleren van de naleving van wettelijke regels en van interne regels die de beheerder of de beleggingsonderneming zelf heeft opgesteld;  
 
-b. het adviseren van de personen die verantwoordelijk zijn voor het beheren van instellingen voor collectieve belegging in effecten, het verlenen van beleggingsdiensten of het verrichten van beleggingsactiviteiten bij de naleving van wettelijke regels en interne regels;  
+b. het adviseren van de personen die verantwoordelijk zijn voor het beheren van icbe’s, het verlenen van beleggingsdiensten of het verrichten van beleggingsactiviteiten bij de naleving van wettelijke regels en interne regels;  
 
 c. het toezien op de deugdelijkheid en effectiviteit van de interne regels en procedures;  
 
@@ -654,19 +673,19 @@ e. het tenminste jaarlijks rapporteren aan de personen die het dagelijks beleid 
 
 ### Artikel  31d  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten zorgt ervoor dat de personen die het dagelijks beleid bepalen van de beheerder: 
+1.  Een beheerder van een icbe zorgt ervoor dat de personen die het dagelijks beleid bepalen van de beheerder: 
 
-a. verantwoordelijk zijn voor de uitvoering van het algemene beleggingsbeleid voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten als omschreven in het prospectus, het fondsreglement of de statuten van de beheerder;  
+a. verantwoordelijk zijn voor de uitvoering van het algemene beleggingsbeleid voor elke door de beheerder beheerde icbe als omschreven in het prospectus, het fondsreglement of de statuten van de beheerder;  
 
-b. toezicht houden op de goedkeuring van beleggingsstrategieën voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten;  
+b. toezicht houden op de goedkeuring van beleggingsstrategieën voor elke door de beheerder beheerde icbe;  
 
 c. erop toezien dat de beheerder over een effectieve compliancefunctie beschikt als bedoeld in artikel 31c, eerste lid, heeft, ook al wordt deze functie door een derde uitgeoefend;  
 
-d. ervoor zorgen en zich periodiek van vergewissen dat het algemene beleggingsbeleid, de beleggingsstrategieën en de risicolimieten voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten op behoorlijke en doeltreffende wijze worden uitgevoerd en in acht genomen, ook al wordt de risicobeheerfunctie door een derde uitgeoefend;  
+d. ervoor zorgen en zich periodiek van vergewissen dat het algemene beleggingsbeleid, de beleggingsstrategieën en de risicolimieten voor elke door de beheerder beheerde icbe op behoorlijke en doeltreffende wijze worden uitgevoerd en in acht genomen, ook al wordt de risicobeheerfunctie door een derde uitgeoefend;  
 
-e. periodiek de deugdelijkheid van de interne procedures voor het nemen van beleggingsbeslissingen voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten goedkeuren en evalueren, om te zorgen dat deze beslissingen met de goedgekeurde beleggingsstrategieën verenigbaar zijn; en  
+e. periodiek de deugdelijkheid van de interne procedures voor het nemen van beleggingsbeslissingen voor elke door de beheerder beheerde icbe goedkeuren en evalueren, om te zorgen dat deze beslissingen met de goedgekeurde beleggingsstrategieën verenigbaar zijn; en  
 
-f. periodiek het risicobeheerbeleid en de procedures en maatregelen voor de uitvoering van het risicobeheerbeleid goedkeuren en evalueren, met inbegrip van het risicolimietensysteem voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten.     
+f. periodiek het risicobeheerbeleid en de procedures en maatregelen voor de uitvoering van het risicobeheerbeleid goedkeuren en evalueren, met inbegrip van het risicolimietensysteem voor elke door de beheerder beheerde icbe.     
 2.  De beheerder zorgt ervoor dat ten minste jaarlijks wordt gerapporteerd aan de personen die het dagelijks beleid bepalen van de beheerder over de uitvoering van de beleggingsstrategieën en interne procedures voor het nemen van de beleggingsbeslissingen, bedoeld in het eerste lid, onderdelen b tot en met e.   
 
 ### §  5.2  
@@ -695,53 +714,58 @@ d. regelmatig een controle en indien nodig een gepaste bijstelling van de proced
 
 ### Artikel  32a  
 
-1.  Een aanbieder als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste één jaar vanaf het moment van advisering.   
-2.  Een adviseur als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.   
-3.  Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.   
+1.  Een aanbieder als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
+2.  Een adviseur als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
+3.  Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
 4.  Het eerste, tweede en derde lid zijn niet van toepassing op financiële ondernemingen die bij de advisering uitsluitend te werk gaan volgens een gestandaardiseerde en gesystematiseerde procedure die voor de Autoriteit Financiële Markten verifieerbaar is, en die aan de hand van deze procedure aan de Autoriteit Financiële Markten kunnen aantonen welke informatie zij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) over consumenten onderscheidenlijk cliënten inwinnen en welke adviezen consumenten onderscheidenlijk cliënten op basis van de aldus ingewonnen informatie worden gegeven.   
-5.  Een aanbieder, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die in het kader van een door hem verstrekt advies met een consument of, indien het een verzekering betreft, cliënt een overeenkomst aangaat onderscheidenlijk bemiddelt bij de totstandkoming van een overeenkomst inzake een ander financieel product dan waarover hij de consument onderscheidenlijk de cliënt heeft geadviseerd, is gedurende ten minste één jaar na de totstandkoming van de overeenkomst in staat om aan de Autoriteit Financiële Markten aan te tonen dat de consument onderscheidenlijk de cliënt in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.   
+5.  Een aanbieder, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die in het kader van een door hem verstrekt advies met een consument of, indien het een verzekering betreft, cliënt een overeenkomst aangaat onderscheidenlijk bemiddelt bij de totstandkoming van een overeenkomst inzake een ander financieel product dan waarover hij de consument onderscheidenlijk de cliënt heeft geadviseerd, is gedurende ten minste vijf jaren na de totstandkoming van de overeenkomst in staat om aan de Autoriteit Financiële Markten aan te tonen dat de consument onderscheidenlijk de cliënt in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.   
 
 ### Artikel  33  
 
 Een aanbieder van krediet als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bewaart de informatie die hij ingevolge de [artikelen 4:34, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en 113 en 114 heeft ingewonnen, alsmede de door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, ten minste gedurende vijf jaren na de dag waarop die overeenkomst is afgewikkeld.  
 
+### Artikel  33a  
+
+1.  Een Nederlandse beheerder van een beleggingsinstelling voert met betrekking tot de beleggingsinstellingen die hij beheert, beleid gericht op het beheersen van risico’s die de in [artikel 4:14, tweede lid, onderdeel c, aanhef, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde belangen kunnen schaden.   
+2.  De beheerder beschikt over procedures en maatregelen die waarborgen dat wordt voldaan aan de ingevolge artikel 15, eerste, tweede, derde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde voorwaarden die met het oog op de in het eerste lid bedoelde belangen worden gesteld.   
+
 ### Artikel  34  
 
-1.  De bedrijfsvoering van een beheerder, beleggingsinstelling of bewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
+1.  De bedrijfsvoering van een beheerder van een icbe, icbe of bewaarder van een icbe als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
 
-a. elke transactie waarbij de beleggingsinstelling is betrokken, kan worden gereconstrueerd;  
+a. elke transactie waarbij de icbe is betrokken, kan worden gereconstrueerd;  
 
-b. het beheerde vermogen van de beleggingsinstelling overeenkomstig het beleggingsbeleid en de bij of krachtens de wet gestelde regels wordt belegd;  
+b. het beheerde vermogen van de icbe overeenkomstig het beleggingsbeleid en de bij of krachtens de wet gestelde regels wordt belegd;  
 
-c. een functiescheiding bestaat tussen het verrichten van rechtshandelingen met betrekking tot het vermogen van de beleggingsinstelling en het controleren en administreren van deze handelingen;  
+c. een functiescheiding bestaat tussen het verrichten van rechtshandelingen met betrekking tot het vermogen van de icbe en het controleren en administreren van deze handelingen;  
 
-d. een betrouwbare, juiste en consistente intrinsieke waarde van de beleggingsinstelling wordt bepaald;  
+d. een betrouwbare, juiste en consistente intrinsieke waarde van de icbe wordt bepaald;  
 
-e. het proces van intrinsieke waardebepaling binnen de beheerder of de beleggingsmaatschappij wordt gescheiden van de overige activiteiten van de beheerder of de beleggingsmaatschappij;  
+e. het proces van intrinsieke waardebepaling binnen de beheerder van een icbe of de maatschappij voor collectieve belegging in effecten wordt gescheiden van de overige activiteiten van de beheerder van een icbe of de maatschappij voor collectieve belegging in effecten;  
 
-f. de berekening van de intrinsieke waarde van de beleggingsinstelling aansluit bij de financiële administratie;  
+f. de berekening van de intrinsieke waarde van de icbe aansluit bij de financiële administratie;  
 
 g. de risico’s die samenhangen met het beleggingsproces op een systematische wijze worden beheerst en geanalyseerd; en  
 
-h. er, voorzover mogelijk, een systematische, toegankelijke en actuele administratie van deelnemers in de beleggingsinstelling is waarin, voorzover van toepassing, de met de deelnemers gemaakte afspraken inzichtelijk worden gemaakt.     
+h. er, voorzover mogelijk, een systematische, toegankelijke en actuele administratie van deelnemers in de icbe is waarin, voorzover van toepassing, de met de deelnemers gemaakte afspraken inzichtelijk worden gemaakt.     
 2.  De maatregelen en procedures, bedoeld in het eerste lid, aanhef en onderdeel f, voorzien er in ieder geval in dat de voor de intrinsieke waardebepaling gebruikte subadministraties ten minste een keer per maand worden aangesloten met de saldibalans en dat de daaruit voortvloeiende verschillen worden geanalyseerd en gecorrigeerd.   
-3.  De procedures en maatregelen, bedoeld in het eerste lid, onderdeel g, van een instelling voor collectieve belegging in effecten omvatten in ieder geval een procedure voor de waardevaststelling van financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld.   
-4.  Een beheerder richt voor iedere beleggingsinstelling die hij beheert afzonderlijk een bedrijfsvoering als bedoeld in het eerste lid in.   
+3.  De procedures en maatregelen, bedoeld in het eerste lid, onderdeel g, van een icbe omvatten in ieder geval een procedure voor de waardevaststelling van financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld.   
+4.  Een beheerder van een icbe richt voor iedere icbe die hij beheert afzonderlijk een bedrijfsvoering als bedoeld in het eerste lid in.   
 
 ### Artikel  34a  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten stelt procedures en regelingen vast en past die toe zodat hij in staat is om de Autoriteit Financiële Markten op verzoek zo spoedig mogelijk financiële verslagen te verstrekken die een getrouw beeld geven van zijn financiële positie en die aan alle toepasselijke standaarden en regels voor financiële verslaggeving voldoen.   
-2.  Onverminderd artikel 34 wordt de administratie van een instelling voor collectieve belegging in effecten zodanig gevoerd dat de activa en passiva van de instelling voor collectieve belegging in effecten te allen tijde rechtstreeks kunnen worden geïdentificeerd.   
-3.  Een beheerder van een instelling voor collectieve belegging in effecten onderwerpt de waardevaststelling van financiële derivaten, bedoeld in artikel 34, derde lid, aan een adequate, accurate en onafhankelijke toetsing.   
+1.  Een beheerder van een icbe stelt procedures en regelingen vast en past die toe zodat hij in staat is om de Autoriteit Financiële Markten op verzoek zo spoedig mogelijk financiële verslagen te verstrekken die een getrouw beeld geven van zijn financiële positie en die aan alle toepasselijke standaarden en regels voor financiële verslaggeving voldoen.   
+2.  Onverminderd artikel 34 wordt de administratie van een icbe zodanig gevoerd dat de activa en passiva van de icbe te allen tijde rechtstreeks kunnen worden geïdentificeerd.   
+3.  Een beheerder van een icbe onderwerpt de waardevaststelling van financiële derivaten, bedoeld in artikel 34, derde lid, aan een adequate, accurate en onafhankelijke toetsing.   
 4.  De procedure met betrekking tot de waardevaststelling van financiële derivaten, bedoeld in artikel 34, derde lid, is adequaat en evenredig gelet op de aard en complexiteit van de desbetreffende financiële derivaten.   
 5.  De procedure, bedoeld in het vierde lid, wordt op adequate wijze vastgelegd.   
 
 ### Artikel  34b  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten treft maatregelen die waarborgen dat gegevens ten behoeve van de reconstructie van elke transactie, bedoeld in artikel 34, eerste lid, onderdeel a, worden bijgehouden.   
+1.  Een beheerder van een icbe treft maatregelen die waarborgen dat gegevens ten behoeve van de reconstructie van elke transactie, bedoeld in artikel 34, eerste lid, onderdeel a, worden bijgehouden.   
 2.  De gegevens, bedoeld in het eerste lid, omvatten in ieder geval: 
 
-a. de naam of een andere omschrijving van de instelling voor collectieve belegging in effecten en van de persoon die voor rekening van de instelling voor collectieve belegging in effecten handelt;  
+a. de naam of een andere omschrijving van de icbe en van de persoon die voor rekening van de icbe handelt;  
 
 b. de bijzonderheden die nodig zijn om het financieel instrument te identificeren;  
 
@@ -763,10 +787,10 @@ j. voor uitgevoerde transacties, de tegenpartij en de plaats van uitvoering.
 
 ### Artikel  34c  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten treft redelijke maatregelen om te waarborgen dat de gegevens over ontvangen opdrachten tot inschrijving of terugbetaling van rechten van deelneming met betrekking tot de instelling voor collectieve belegging in effecten na ontvangst van een dergelijke opdracht onmiddellijk centraal worden geadministreerd.   
+1.  Een beheerder van een icbe treft redelijke maatregelen om te waarborgen dat de gegevens over ontvangen opdrachten tot inschrijving of terugbetaling van rechten van deelneming met betrekking tot de icbe na ontvangst van een dergelijke opdracht onmiddellijk centraal worden geadministreerd.   
 2.  De gegevens, bedoeld in het eerste lid, omvatten informatie met betrekking tot de volgende aspecten: 
 
-a. de betrokken instelling voor collectieve belegging in effecten;  
+a. de betrokken icbe;  
 
 b. de persoon die de opdracht tot inschrijving of terugbetaling van rechten van deelneming heeft gegeven of overgedragen;  
 
@@ -790,15 +814,15 @@ k. de brutowaarde van de opdracht inclusief de kosten van inschrijving of het ne
 
 ### Artikel  34d  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten bewaart de gegevens, bedoeld in de artikelen 34b, eerste lid, en 34c, eerste lid, gedurende tenminste vijf jaar.   
-2.  Een beheerder van een instelling voor collectieve belegging in effecten bewaart de gegevens op een duurzame drager in en zodanige vorm en op zodanige wijze dat: 
+1.  Een beheerder van een icbe bewaart de gegevens, bedoeld in de artikelen 34b, eerste lid, en 34c, eerste lid, gedurende tenminste vijf jaar.   
+2.  Een beheerder van een icbe bewaart de gegevens op een duurzame drager in en zodanige vorm en op zodanige wijze dat: 
 
 a. de Autoriteit Financiële Markten vlot toegang kan hebben tot de gegevens en elk stadium van de verwerking van een transactie kan reconstrueren;  
 
 b. alle wijzigingen, alsmede de inhoud van de gegevens voordat wijzigingen zijn aangebracht, gemakkelijk kunnen worden achterhaald; en  
 
 c. de gegevens niet anderszins gemanipuleerd of gewijzigd kunnen worden.     
-3.  Indien de beheerder zijn verantwoordelijkheden met betrekking tot de instelling voor collectieve belegging in effecten aan een andere beheerder overdraagt, worden maatregelen getroffen zodat de gegevens betreffende de voorafgaande vijf jaar voor de andere beheerder toegankelijk zijn.   
+3.  Indien de beheerder zijn verantwoordelijkheden met betrekking tot de icbe aan een andere beheerder overdraagt, worden maatregelen getroffen zodat de gegevens betreffende de voorafgaande vijf jaar voor de andere beheerder toegankelijk zijn.   
 
 ### Artikel  34e  
 
@@ -840,8 +864,8 @@ c. de gegevens niet anderszins gemanipuleerd of gewijzigd kunnen worden.
 
 ### Artikel  35a  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen voor het voorkomen van en omgaan met belangenconflicten tussen de beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming en haar cliënten of tussen haar cliënten onderling.   
-2.  De procedures en maatregelen, bedoeld in het eerste lid, zijn erop gericht dat relevante personen die betrokken zijn bij verschillende bedrijfsactiviteiten waarbij het risico bestaat op een belangenconflict als bedoeld in het eerste lid, deze activiteiten verrichten in een mate van onafhankelijkheid die evenredig is aan de omvang en activiteiten van de beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming en de groep waarvan zij deel uitmaakt, en aan de grootte van het risico dat de belangen van een cliënt worden geschaad.   
+1.  Een beheerder van een icbe of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen voor het voorkomen van en omgaan met belangenconflicten tussen de beheerder van een icbe of beleggingsonderneming en haar cliënten of tussen haar cliënten onderling.   
+2.  De procedures en maatregelen, bedoeld in het eerste lid, zijn erop gericht dat relevante personen die betrokken zijn bij verschillende bedrijfsactiviteiten waarbij het risico bestaat op een belangenconflict als bedoeld in het eerste lid, deze activiteiten verrichten in een mate van onafhankelijkheid die evenredig is aan de omvang en activiteiten van de beheerder van een icbe of beleggingsonderneming en de groep waarvan zij deel uitmaakt, en aan de grootte van het risico dat de belangen van een cliënt worden geschaad.   
 3.  De procedures en maatregelen, bedoeld in het eerste lid, omvatten, voor zover nodig en passend om de mate van onafhankelijkheid, bedoeld in het tweede lid, te waarborgen: 
 
 a. procedures ter voorkoming of controle van de uitwisseling van informatie tussen relevante personen die verschillende activiteiten verrichten waarbij het risico bestaat op een belangenconflict wanneer de uitwisseling van deze informatie de belangen van een cliënt kan schaden;  
@@ -850,21 +874,21 @@ b. controle op de activiteiten van relevante personen wier hoofdtaken bestaan in
 
 c. de uitsluiting van elk direct verband tussen de beloning van relevante personen die hoofdzakelijk betrokken zijn bij de ene activiteit en de beloning van of de inkomsten gegenereerd door andere relevante personen die hoofdzakelijk betrokken zijn bij een andere activiteit, wanneer door deze activiteiten een belangenconflict kan ontstaan;  
 
-d. maatregelen om te voorkomen of het risico te beperken dat een persoon zodanige invloed uitoefent op de wijze waarop een relevante persoon werkzaamheden in verband met het beheer van een instelling voor collectieve belegging in effecten onderscheidenlijk beleggingsdiensten, beleggingsactiviteiten of nevendiensten verricht, dat daardoor een belangenconflict ontstaat of kan ontstaan;  
+d. maatregelen om te voorkomen of het risico te beperken dat een persoon zodanige invloed uitoefent op de wijze waarop een relevante persoon werkzaamheden in verband met het beheer van een icbe onderscheidenlijk beleggingsdiensten, beleggingsactiviteiten of nevendiensten verricht, dat daardoor een belangenconflict ontstaat of kan ontstaan;  
 
-e. maatregelen ter voorkoming of controle van de gelijktijdige of achtereenvolgende betrokkenheid van een relevante persoon bij verschillende werkzaamheden in verband met het beheer van een instelling voor collectieve belegging in effecten onderscheidenlijk beleggingsdiensten, beleggingsactiviteiten of nevendiensten wanneer een dergelijke betrokkenheid kan leiden tot het ontstaan van belangenconflicten.     
-4.  Indien bij vaststelling of toepassing van procedures of maatregelen als bedoeld in het eerste lid niet de in het tweede lid bedoelde mate van onafhankelijkheid kan worden gewaarborgd, draagt de beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming zorg voor alternatieve of aanvullende procedures of maatregelen.   
+e. maatregelen ter voorkoming of controle van de gelijktijdige of achtereenvolgende betrokkenheid van een relevante persoon bij verschillende werkzaamheden in verband met het beheer van een icbe onderscheidenlijk beleggingsdiensten, beleggingsactiviteiten of nevendiensten wanneer een dergelijke betrokkenheid kan leiden tot het ontstaan van belangenconflicten.     
+4.  Indien bij vaststelling of toepassing van procedures of maatregelen als bedoeld in het eerste lid niet de in het tweede lid bedoelde mate van onafhankelijkheid kan worden gewaarborgd, draagt de beheerder van een icbe of beleggingsonderneming zorg voor alternatieve of aanvullende procedures of maatregelen.   
 
 ### Artikel  35b  
 
 1.  Een beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) legt de gegevens vast die betrekking hebben op de soorten door of in naam van de onderneming verrichte beleggingsdiensten, beleggingsactiviteiten of nevendiensten waarbij een belangenconflict is ontstaan of kan ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een of meer cliënten worden geschaad.   
-2.  Een beheerder van een instelling voor collectieve belegging in effecten legt de gegevens vast die betrekking hebben op de soorten door of in naam van de beheerder verrichte werkzaamheden in verband met het beheren van beleggingen waarbij een belangenconflict is ontstaan of kan ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een of meer instellingen voor collectieve belegging in effecten of van de deelnemers worden geschaad.   
-3.  De beheerder zorgt ervoor dat de personen die het dagelijks beleid bepalen van de beheerder onmiddellijk in kennis worden gesteld wanneer de getroffen maatregelen voor het voorkomen van en omgaan met belangenconflicten niet volstaan om met redelijke zekerheid te garanderen dat risico’s dat de belangen van de instelling voor collectieve belegging in effecten of de deelnemers ervan worden geschaad, zullen worden vermeden, zodat zij alle nodige beslissingen kunnen nemen om te waarborgen dat de beheerder in ieder geval handelt in het belang van de instelling voor collectieve belegging in effecten en haar deelnemers.   
-4.  De beheerder stelt de deelnemers van een door hem beheerde instelling voor collectieve belegging in effecten via een duurzame drager op de hoogte van de situaties, bedoeld in het derde lid, met opgave van redenen van de beslissing die de personen die het dagelijks beleid bepalen ter zake hebben genomen.   
+2.  Een beheerder van een icbe legt de gegevens vast die betrekking hebben op de soorten door of in naam van de beheerder verrichte werkzaamheden in verband met het beheren van beleggingen waarbij een belangenconflict is ontstaan of kan ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een of meer icbe's of van de deelnemers worden geschaad.   
+3.  De beheerder zorgt ervoor dat de personen die het dagelijks beleid bepalen van de beheerder onmiddellijk in kennis worden gesteld wanneer de getroffen maatregelen voor het voorkomen van en omgaan met belangenconflicten niet volstaan om met redelijke zekerheid te garanderen dat risico’s dat de belangen van de icbe of de deelnemers ervan worden geschaad, zullen worden vermeden, zodat zij alle nodige beslissingen kunnen nemen om te waarborgen dat de beheerder in ieder geval handelt in het belang van de icbe en haar deelnemers.   
+4.  De beheerder stelt de deelnemers van een door hem beheerde icbe via een duurzame drager op de hoogte van de situaties, bedoeld in het derde lid, met opgave van redenen van de beslissing die de personen die het dagelijks beleid bepalen ter zake hebben genomen.   
 
 ### Artikel  35c  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot persoonlijke transacties.   
+1.  Een beheerder van een icbe of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot persoonlijke transacties.   
 2.  De procedures en maatregelen, bedoeld in het eerste lid, zijn er op gericht dat indien een relevante persoon betrokken is bij het verrichten van activiteiten die een belangenconflict kunnen doen ontstaan, of indien een relevante persoon als gevolg van een activiteit die hij in naam van de beheerder of beleggingsonderneming verricht toegang heeft tot informatie als bedoeld in [artikel 5:53, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of tot andere vertrouwelijke informatie over cliënten of transacties met of voor cliënten: 
 
 a. geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die in strijd is met [artikel 5:56](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [5:58 Wft](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
@@ -881,13 +905,13 @@ f. de relevante persoon geen informatie of advies aan een andere persoon bekendm
 
 ### Artikel  35d  
 
-Een beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt er zorg voor dat relevante personen op de hoogte zijn van de door haar vastgestelde maatregelen en procedures, bedoeld in artikel 35c, eerste lid.  
+Een beheerder van een icbe of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt er zorg voor dat relevante personen op de hoogte zijn van de door haar vastgestelde maatregelen en procedures, bedoeld in artikel 35c, eerste lid.  
 
 ### Artikel  35e  
 
-1.  De procedures en maatregelen bedoeld in artikel 35c, eerste lid, houden in dat de beheerder of beleggingsonderneming onverwijld in kennis wordt gesteld van elke persoonlijke transactie.   
-2.  De beheerder of beleggingsonderneming houdt gegevens bij van aan haar gemelde of door haar onderkende persoonlijke transacties en vermeldt daarbij in voorkomend geval tevens of de desbetreffende transactie is toegestaan.   
-3.  Ingeval van uitbesteding draagt de beheerder of beleggingsonderneming zorg voor registratie door de onderneming waaraan de activiteit wordt uitbesteed van gegevens met betrekking tot persoonlijke transacties. Deze gegevens worden desgevraagd onverwijld aan de beheerder of beleggingsonderneming verstrekt.   
+1.  De procedures en maatregelen bedoeld in artikel 35c, eerste lid, houden in dat de beleggingsonderneming of beheerder van een icbe onverwijld in kennis wordt gesteld van elke persoonlijke transactie.   
+2.  De beleggingsonderneming of beheerder van een icbe houdt gegevens bij van aan haar gemelde of door haar onderkende persoonlijke transacties en vermeldt daarbij in voorkomend geval tevens of de desbetreffende transactie is toegestaan.   
+3.  Ingeval van uitbesteding draagt de beleggingsonderneming of beheerder van een icbe zorg voor registratie door de onderneming waaraan de activiteit wordt uitbesteed van gegevens met betrekking tot persoonlijke transacties. Deze gegevens worden desgevraagd onverwijld aan de beleggingsonderneming of beheerder van een icbe verstrekt.   
 4.  Het eerste tot en met het derde lid zijn niet van toepassing op achtereenvolgende persoonlijke transacties, met uitzondering van de eerste persoonlijke transactie, die worden uitgevoerd namens een relevante persoon overeenkomstig vooraf door de relevante persoon gegeven instructies, wanneer de instructies ongewijzigd van kracht blijven.   
 
 ### Artikel  35f  
@@ -896,7 +920,7 @@ De artikelen 35c, 35d en 35e, eerste tot en met het derde lid, zijn niet van toe
 
 a. persoonlijke transacties verricht in het kader van het beheer van een individueel vermogen of collectief beheer van een beleggingsportefeuille waarbij het vermogen respectievelijk de portefeuille op discretionaire basis wordt beheerd en waarbij over de transactie geen voorafgaande communicatie heeft plaatsgevonden tussen de vermogensbeheerder en de relevante persoon of een andere persoon als bedoeld in de definitie van *persoonlijke transactie*, onder 3° of 4°, in artikel 1, voor wiens rekening de transactie wordt uitgevoerd;  
 
-b. persoonlijke transacties in rechten van deelneming in instellingen voor collectieve belegging in effecten, indien noch de relevante persoon, noch een persoon als bedoeld in de definitie van *persoonlijke transactie*, onder 3° of 4°, in artikel 1, voor wiens rekening de transacties worden uitgevoerd, bij de leiding van de betreffende instelling betrokken is.    
+b. persoonlijke transacties in rechten van deelneming in icbe's, indien noch de relevante persoon, noch een persoon als bedoeld in de definitie van *persoonlijke transactie*, onder 3° of 4°, in artikel 1, voor wiens rekening de transacties worden uitgevoerd, bij de leiding van de betreffende instelling betrokken is.    
 
 ### Artikel  35g  
 
@@ -944,7 +968,7 @@ Bepalingen ter uitvoering van artikel 4:16, tweede en derde lid, van de wet
 
 Dit hoofdstuk is niet van toepassing op: 
 
-a. beheerders van instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat, instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders; en  
+a. beheerders van icbe’s met zetel in een andere lidstaat, icbe’s met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders van icbe’s; en  
 
 b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, beleggingsinstellingen met zetel in een aangewezen staat en de eventueel aan die beleggingsinstellingen verbonden bewaarders.    
 
@@ -952,28 +976,33 @@ b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, bele
 
 Een financiële onderneming gaat niet over tot het uitbesteden van werkzaamheden indien dat een belemmering vormt voor een adequaat toezicht op de naleving van het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
 
+### Artikel  37a  
+
+1.  Uitbesteding van werkzaamheden in een door een Nederlandse beheerder beheerde beleggingsinstelling door een beheerder of een derde is slechts toegestaan, indien wordt voldaan aan de ingevolge artikel 20 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
+2.  Een bewaarder neemt bij de uitbesteding aan een derde van taken die hij ten behoeve van een beleggingsinstelling verricht de ingevolge artikel 21, elfde en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels in acht.   
+
 ### Artikel  38  
 
-1.  Indien een beheerder of bewaarder in het kader van het beheer van een beleggingsinstelling onderscheidenlijk in het kader van de bewaring van de activa van een beleggingsinstelling een of meer werkzaamheden uitbesteedt: 
+1.  Indien een beheerder van een icbe of bewaarder van een icbe in het kader van het beheer van een icbe onderscheidenlijk in het kader van de bewaring van de activa van een icbe een of meer werkzaamheden uitbesteedt: 
 
-a. is de derde op ieder door de beheerder, de door de beheerder beheerde beleggingmaatschappij of de bewaarder gewenst moment in staat verantwoording af te leggen over de door hem uitgevoerde werkzaamheden en de beheerder, de door de beheerder beheerde beleggingsmaatschappij of de bewaarder daar inzicht in te bieden;  
+a. is de derde op ieder door de beheerder van de icbe, de door de beheerder beheerde maatschappij voor collectieve belegging in effecten of de bewaarder van de icbe gewenst moment in staat verantwoording af te leggen over de door hem uitgevoerde werkzaamheden en de beheerder van de icbe, de door de beheerder beheerde maatschappij voor collectieve belegging in effecten of de bewaarder van de icbe daar inzicht in te bieden;  
 
-b. kan de beheerder of de bewaarder te allen tijde instructies omtrent de uitvoering van de werkzaamheden geven aan de derde en kan hij de uitbesteding met onmiddellijke ingang beëindigen indien dit in het belang van de beleggers is; en  
+b. kan de beheerder van de icbe of de bewaarder van de icbe te allen tijde instructies omtrent de uitvoering van de werkzaamheden geven aan de derde en kan hij de uitbesteding met onmiddellijke ingang beëindigen indien dit in het belang van de beleggers is; en  
 
-c. is de derde, gelet op de aard van de opdracht, aantoonbaar in staat om de opdracht in overeenstemming met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te vervullen.     
-2.  Een beheerder besteedt het bepalen van het beleggingsbeleid van een beleggingsinstelling niet uit.   
-3.  Iedere overeenkomst die een beheerder of een bewaarder aangaat in het kader van het uitbesteden van het beheer van de beleggingsinstelling onderscheidenlijk in het kader van de bewaring van de activa van de beleggingsinstelling, wordt schriftelijk vastgelegd.   
+c. is de derde, gelet op de aard van de opdracht, aantoonbaar in staat om de opdracht in overeenstemming met de wet te vervullen.     
+2.  Een beheerder van een icbe besteedt het bepalen van het beleggingsbeleid van een icbe niet uit.   
+3.  Iedere overeenkomst die een beheerder van een icbe of een bewaarder van een icbe aangaat in het kader van het uitbesteden van het beheer van een icbe onderscheidenlijk in het kader van de bewaring van de activa van een icbe, wordt schriftelijk vastgelegd.   
 
 ### Artikel  38a  
 
-1.  Indien een beheerder van een instelling voor collectieve belegging in effecten voornemens is werkzaamheden uit te besteden, stelt hij de Autoriteit Financiële Markten daarvan in kennis. De Autoriteit Financiële Markten geeft deze informatie onverwijld door aan de toezichthoudende instantie van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten.   
-2.  Onverminderd artikel 38 draagt een beheerder die het beheer van een instelling voor collectieve belegging in effecten uitbesteedt aan een derde er zorg voor dat: 
+1.  Indien een beheerder van een icbe voornemens is werkzaamheden uit te besteden, stelt hij de Autoriteit Financiële Markten daarvan in kennis. De Autoriteit Financiële Markten geeft deze informatie onverwijld door aan de toezichthoudende instantie van de lidstaat van de zetel van de icbe.   
+2.  Een beheerder van een icbe die het beheer van een icbe uitbesteedt draagt er zorg voor dat: 
 
 a. uitbesteding van het beheer van beleggingengeschiedt aan een derde waaraan voor het beheren van beleggingsinstellingen of het beheren van individuele vermogens een vergunning of erkenning is verleend en die aan prudentieel toezicht is onderworpen;  
 
 b. bij uitbesteding van het beheer van beleggingen aan een derde met zetel in een staat die geen lidstaat of aangewezen staat is, de samenwerking van de toezichthouders met de toezichthoudende instanties van de staat van de zetel van de derde op grond van een overeenkomst is gewaarborgd;  
 
-c. de belangen van de derde niet strijdig zijn met die van de beheerder zelf, de bewaarder of de deelnemers in de instelling voor collectieve belegging in effecten;  
+c. de belangen van de derde niet strijdig zijn met die van de beheerder zelf, de bewaarder of de deelnemers in de icbe;  
 
 d. de uitbesteding niet verhindert dat wordt gehandeld in het beste belang van de deelnemers; en  
 
@@ -1289,9 +1318,9 @@ Bepaling ter uitvoering van [artikel 4:18c, vierde lid, van de wet](../../../../
 
 ### Artikel  49b  
 
-Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een beleggingsonderneming op schriftelijk verzoek als professionele belegger worden behandeld indien is voldaan aan het in [artikel 4:18c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde, en: 
+Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een beleggingsonderneming of beheerder van een beleggingsinstelling op schriftelijk verzoek als professionele belegger worden behandeld indien is voldaan aan het in [artikel 4:18c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde, en: 
 
-a. de beleggingsonderneming de cliënt schriftelijk waarschuwt voor het lagere beschermingsniveau en het niet van toepassing zijn van het beleggerscompensatiestelsel; en  
+a. de beleggingsonderneming of beheerder van een beleggingsinstelling de cliënt schriftelijk waarschuwt voor het lagere beschermingsniveau en het niet van toepassing zijn van het beleggerscompensatiestelsel; en  
 
 b. de cliënt in een afzonderlijk document bevestigt dat hij zich bewust is van de gevolgen die aan het lagere beschermingsniveau verbonden zijn.    
 
@@ -1303,26 +1332,26 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 
 ### Artikel  50  
 
-1.  Een beheerder houdt de volgende gegevens beschikbaar op zijn website: 
+1.  Een beheerder van een icbe houdt de volgende gegevens beschikbaar op zijn website: 
 
-a. de gegevens omtrent hemzelf, de door hem beheerde beleggingsinstellingen en de bewaarders die aan de beleggingsinstellingen zijn verbonden welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen;  
+a. de gegevens omtrent hemzelf, de door hem beheerde icbe’s en de bewaarders die aan de icbe’s zijn verbonden welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen;  
 
 b. de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 c. zijn vergunning; en  
 
-d. elk door de Autoriteit Financiële Markten genomen geldend besluit tot ontheffing van het ingevolge deze wet bepaalde met betrekking tot hemzelf, de door hem beheerde beleggingsinstellingen en de eventueel daaraan verbonden bewaarder.   De beheerder verstrekt deze gegevens desgevraagd tegen ten hoogste de kostprijs aan een ieder.   
-2.  Een beheerder publiceert ten behoeve van de deelnemers in een door hem beheerde beleggingsinstelling maandelijks een opgave met toelichting van de hierna te noemen gegevens op zijn website, waarbij tussen de tijdstippen van opstelling een periode van ten minste een week ligt. De opgave is, indien van toepassing, mede door de bewaarder ondertekend en bevat ten minste de volgende gegevens: 
+d. elk door de Autoriteit Financiële Markten genomen geldend besluit tot ontheffing van het ingevolge deze wet bepaalde met betrekking tot hemzelf, de door hem beheerde icbe’s en de eventueel daaraan verbonden bewaarder.   De beheerder van een icbe verstrekt deze gegevens desgevraagd tegen ten hoogste de kostprijs aan een ieder.   
+2.  Een beheerder van een icbe publiceert ten behoeve van de deelnemers in een door hem beheerde icbe maandelijks een opgave met toelichting van de hierna te noemen gegevens op zijn website, waarbij tussen de tijdstippen van opstelling een periode van ten minste een week ligt. De opgave is, indien van toepassing, mede door de bewaarder van een icbe ondertekend en bevat ten minste de volgende gegevens: 
 
-a. de totale waarde van de beleggingen van de beleggingsinstelling;  
+a. de totale waarde van de beleggingen van de icbe;  
 
 b. een overzicht van de samenstelling van de beleggingen;  
 
 c. het aantal uitstaande rechten van deelneming; en  
 
-d. voorzover het betreft een beleggingsinstelling waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald: de meest recente bepaalde intrinsieke waarde van de rechten van deelneming, onder vermelding van het moment waarop de bepaling van de intrinsieke waarde plaatsvond.   De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aan de deelnemers in de beleggingsinstelling.   
+d. de meest recente bepaalde intrinsieke waarde van de rechten van deelneming, onder vermelding van het moment waarop de bepaling van de intrinsieke waarde plaatsvond.   De beheerder van een icbe verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aan de deelnemers in de icbe.   
 3.  Een beleggingsinstelling met zetel in een aangewezen staat waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, deelt desgevraagd aan ieder de intrinsieke waarde van de rechten van deelneming mee. De intrinsieke waarde wordt bepaald op het meest recente moment van in- en uittreden van deelnemers in de beleggingsinstelling.   
-4.  Het eerste tot en met derde lid zijn niet van toepassing op beheerders van instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat voor zover het gaat om de soort informatieverschaffing aan de deelnemers.   
+4.  Het eerste tot en met derde lid zijn niet van toepassing op beheerders van icbe’s met zetel in een andere lidstaat voor zover het gaat om de soort informatieverschaffing aan de deelnemers.   
 
 ### Artikel  50a  
 
@@ -1410,8 +1439,8 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 6.  Indien een financiële onderneming in een reclame-uiting via de televisie of de radio informatie verstrekt over een historisch of toekomstig rendement van een complex product, verstrekt zij daarbij of op enig ander moment voorafgaande aan de totstandkoming van een overeenkomst inzake dat product informatie over de belangrijkste kosten van dat product.   
 7.  Indien een financiële onderneming voorafgaande aan de totstandkoming van een overeenkomst inzake een complex product informatie verstrekt over een gegarandeerd rendement, verstrekt zij daarbij of, indien de informatie wordt verstrekt in een reclame-uiting, op enig ander moment voorafgaande aan de totstandkoming van de overeenkomst inzake dat product, informatie over de belangrijkste voorwaarden van die garantie.   
 8.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.   
-9.  Het eerste tot en met achtste lid zijn niet van toepassing indien het een complex product betreft, niet zijnde een recht van deelneming in een beleggingsinstelling, ten aanzien waarvan uitsluitend financiële diensten worden verleend aan personen die handelen in de uitoefening van hun bedrijf of beroep.   
-10.  Het eerste lid, met uitzondering van de verplichting om een risico-indicator te verstrekken, en het derde tot en met zevende lid, zijn niet van toepassing op beleggingsondernemingen voor zover zij beleggingsdiensten of nevendiensten verlenen met betrekking tot deelnemingsrechten in beleggingsinstellingen.   
+9.  Het eerste tot en met achtste lid zijn niet van toepassing indien het een complex product betreft, niet zijnde een recht van deelneming in een beleggingsinstelling of icbe, ten aanzien waarvan uitsluitend financiële diensten worden verleend aan personen die handelen in de uitoefening van hun bedrijf of beroep.   
+10.  Het eerste lid, met uitzondering van de verplichting om een risico-indicator te verstrekken, en het derde tot en met zevende lid, zijn niet van toepassing op beleggingsondernemingen voor zover zij beleggingsdiensten of nevendiensten verlenen met betrekking tot deelnemingsrechten in beleggingsinstellingen of icbe's.   
 
 ### Artikel  53  
 
@@ -1470,25 +1499,25 @@ De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze
 
 ### Artikel  55  
 
-1.  In een reclame-uiting over een beheerder of beleggingsinstelling worden in ieder geval vermeld: 
+1.  In een reclame-uiting over een beheerder van een beleggingsinstelling, beleggingsinstelling, beheerder van een icbe of icbe worden in ieder geval vermeld: 
 
-a. de naam van de beheerder of beleggingsinstelling;  
+a. de naam van de beheerder van een beleggingsinstelling, beleggingsinstelling, beheerder van een icbe of icbe;  
 
-b. het feit dat het een beheerder of beleggingsinstelling betreft;  
+b. het feit dat het een beheerder van een beleggingsinstelling, beleggingsinstelling, beheerder van een icbe of icbe betreft;  
 
-c. dat de beheerder of de beleggingsinstelling is opgenomen in het register dat wordt gehouden door de Autoriteit Financiële Markten; en  
+c. dat de beheerder van een beheerder van een beleggingsinstelling, beleggingsinstelling, beheerder van een icbe of icbe is opgenomen in het register dat wordt gehouden door de Autoriteit Financiële Markten; en  
 
-d. indien het een instelling voor collectieve belegging in effecten betreft: waar het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verkrijgbaar is.     
+d. indien het een icbe betreft: waar het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verkrijgbaar is.     
 2.  Het eerste lid, onderdelen c en d, is niet van toepassing op reclame-uitingen op radio en televisie.   
-3.  Onverminderd artikel 52 wordt in een reclame-uiting anders dan via de televisie of radio over een instelling voor collectieve belegging in effecten, indien van toepassing, duidelijk de aandacht gevestigd op het feit dat: 
+3.  Onverminderd artikel 52 wordt in een reclame-uiting anders dan via de televisie of radio over een icbe, indien van toepassing, duidelijk de aandacht gevestigd op het feit dat: 
 
-a. de instelling voor collectieve belegging in effecten voornamelijk belegt in financiële derivaten;  
+a. de icbe voornamelijk belegt in financiële derivaten;  
 
-b. de instelling voor collectieve belegging in effecten een aandelen- of obligatie-index volgt;  
+b. de icbe een aandelen- of obligatie-index volgt;  
 
-c. de waarde van de activa van de instelling voor collectieve belegging in effecten als gevolg van het beleggingsbeleid sterk kan fluctueren; of  
+c. de waarde van de activa van de icbe als gevolg van het beleggingsbeleid sterk kan fluctueren; of  
 
-d. aan de instelling voor collectieve belegging in effecten een ontheffing als bedoeld in artikel 136, tweede lid, is verleend onder vermelding van de staat, het openbaar lichaam of de internationale organisatie die de financiële instrumenten, bedoeld in het artikel 136, tweede lid, uitgeeft of garandeert waarin de instelling voor collectieve belegging in effecten beleggingsinstelling voor meer dan vijfendertig procent van het beheerde vermogen belegt.     
+d. aan de icbe een ontheffing als bedoeld in artikel 136, tweede lid, is verleend onder vermelding van de staat, het openbaar lichaam of de internationale organisatie die de financiële instrumenten, bedoeld in het artikel 136, tweede lid, uitgeeft of garandeert waarin de icbe voor meer dan vijfendertig procent van het beheerde vermogen belegt.     
 
 ### Artikel  56  
 
@@ -1579,7 +1608,7 @@ d. eventuele marge- of soortgelijke verplichtingen die van toepassing zijn op he
 3.  Een beleggingsonderneming die aan een niet-professionele belegger informatie verstrekt over een financieel instrument waarvoor overeenkomstig de richtlijn prospectus een prospectus is gepubliceerd, deelt de cliënt mede waar dit prospectus verkrijgbaar is.   
 4.  Indien aangenomen mag worden dat de risico´s die verbonden zijn aan een financieel instrument dat uit twee of meer verschillende financiële instrumenten bestaat, groter zijn dan de risico´s die verbonden zijn aan elk van de financiële instrumenten afzonderlijk, verstrekt de beleggingsonderneming een adequate beschrijving van de verschillende financiële instrumenten waaruit het instrument bestaat en van de risicoverhogende wisselwerking daartussen.   
 5.  Een beleggingsonderneming verstrekt over een financieel instrument dat een garantie van een derde omvat, aan een niet-professionele belegger voldoende bijzonderheden over de garantie en de garantiegever.   
-6.  De essentiële beleggersinformatie wordt voor de toepassing van [artikel 4:20, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot een recht van deelneming in een beleggingsinstelling als passende informatie aangemerkt.   
+6.  De essentiële beleggersinformatie wordt voor de toepassing van [artikel 4:20, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot een recht van deelneming in een icbe als passende informatie aangemerkt.   
 
 ### Artikel  58d  
 
@@ -1603,7 +1632,7 @@ c. een vermelding van de desbetreffende buitenlandse valuta en de toepasselijke 
 d. vermelding van de mogelijkheid dat transacties die verband houden met het financiële instrument of de beleggingsdienst, nog andere kosten, voor de niet-professionele belegger kunnen meebrengen die niet via de beleggingsonderneming worden betaald of door haar worden opgelegd;  
 
 e. de regelingen voor betaling of andere prestaties met betrekking tot de uitvoering van de beleggings- of nevendienst.     
-2.  De essentiële beleggersinformatie wordt voor de toepassing van [artikel 4:20, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot een recht van deelneming in een beleggingsinstelling als passende informatie aangemerkt wat de aan de beleggingsinstelling zelf verbonden kosten en bijbehorende lasten, met inbegrip van de instap- en uitstapprovisies, betreft.   
+2.  De essentiële beleggersinformatie wordt voor de toepassing van [artikel 4:20, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot een recht van deelneming in een icbe als passende informatie aangemerkt wat de aan de icbe zelf verbonden kosten en bijbehorende lasten, met inbegrip van de instap- en uitstapprovisies, betreft.   
 
 ### Artikel  58f  
 
@@ -1635,7 +1664,7 @@ b. de kosten die worden ingehouden op de inleg of de premie, onderverdeeld naar 
 
 c. de kosten die worden ingehouden op de vermogensopbouw of uitkering, onderverdeeld naar soorten kosten zoals in elk geval eerste kosten, doorlopende kosten en aan- en verkoopkosten;  
 
-d. de kosten die de beheerder van de beleggingsinstelling jaarlijks in rekening brengt voor het beheer van rechten van deelneming in die beleggingsinstelling;  
+d. de kosten die de beheerder van een beleggingsinstelling of beheerder van een icbe jaarlijks in rekening brengt voor het beheer van rechten van deelneming in die beleggingsinstelling of icbe;  
 
 e. de invloed van het gemiddelde jaarlijkse percentage van de kosten, bedoeld onder b, c en d, op het rendement en de vermogensopbouw of uitkering, verbonden aan de overeenkomst; en  
 
@@ -1645,8 +1674,8 @@ f. de wijze waarop de kosten, bedoeld onder b, c en d, worden verdeeld over de l
 a. overeenkomsten met betrekking tot beleggingsobjecten; en  
 
 b. overeenkomsten met betrekking tot het verlenen van een beleggingsdienst of nevendienst.     
-4.  Het tweede lid, aanhef en de onderdelen b tot en met f, zijn niet van toepassing op een levensverzekeraar die een levensverzekering aanbiedt waarbij de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling.   
-5.  Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onderdeel d, onder 1°, 4° of 11° samenstellen en dat product in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
+4.  Het tweede lid, aanhef en de onderdelen b tot en met f, zijn niet van toepassing op een levensverzekeraar die een levensverzekering aanbiedt waarbij de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe.   
+5.  Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onderdeel d, onder 1°, 4° of 11° samenstellen en dat product in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling of icbe betreft, cliënten.   
 
 ### Artikel  59aa  
 
@@ -1769,7 +1798,7 @@ d. een nauwkeurige omschrijving van de valuta waarin de premie of de uitkering i
 
 e. een nauwkeurige omschrijving van de omzettingsmethode indien bij een uitkering omzetting plaatsvindt in euro’s of een andere valuta;  
 
-f. de aard van de waarden, waaronder aandelen of andersoortige rechten van deelneming in een beleggingsinstelling, indien de uitkering daarin wordt uitgedrukt;  
+f. de aard van de waarden, waaronder aandelen of andersoortige rechten van deelneming in een beleggingsinstelling of icbe, indien de uitkering daarin wordt uitgedrukt;  
 
 g. de wijze van berekening en toewijzing van de winstdeling, indien de overeenkomst een recht op winstdeling omvat;  
 
@@ -1781,13 +1810,13 @@ j. een opgave of de premie eenmalig is verschuldigd dan wel periodiek;
 
 k. de periode gedurende welke premie verschuldigd is;  
 
-l. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling: 
+l. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe of icbe: 
 
 1°. de kosten die worden ingehouden op de premie, bedoeld in onderdeel i, onderverdeeld naar eerste kosten, doorlopende kosten en aan- en verkoopkosten;  
 
 2°. de kosten die worden ingehouden op de waarde van de rechten van deelneming, onderverdeeld naar eerste kosten, doorlopende kosten en aan- en verkoopkosten;  
 
-3°. de kosten die de beheerder van de beleggingsinstelling jaarlijks in rekening brengt voor het beheer van de rechten van deelneming in die beleggingsinstelling;  
+3°. de kosten die de beheerder van een beleggingsinstelling of icbe of beheerder van een icbe jaarlijks in rekening brengt voor het beheer van de rechten van deelneming in die beleggingsinstelling of icbe;  
 
 4°. de invloed van het gemiddelde jaarlijkse percentage van de kosten, bedoeld onder 1°, 2° en 3°, op het rendement en de uitkering, verbonden aan de overeenkomst;  
 
@@ -1882,18 +1911,18 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 
 ### Artikel  65  
 
-1.  Een aanbieder van een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, stelt voor dat product een financiële bijsluiter op.   
-2.  Een aanbieder van rechten van deelneming in een beleggingsinstelling die niet verhandelbaar zijn of die op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, stelt voor elke beleggingsinstelling waarvan door hem rechten van deelneming worden aangeboden een document met de essentiële beleggersinformatie op.   
+1.  Een aanbieder van een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, stelt voor dat product een financiële bijsluiter op.   
+2.  Een aanbieder van rechten van deelneming in een icbe, stelt voor elke icbe waarin door hem rechten van deelneming worden aangeboden essentiële beleggersinformatie op.   
 3.  Het eerste lid is niet van toepassing op complexe producten ten aanzien waarvan uitsluitend financiële diensten worden verleend aan anderen dan consumenten.   
-4.  Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onder 1°, 4° of 11°, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
+4.  Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onder 1°, 4° of 11°, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling of icbe betreft, cliënten.   
 
 ### Artikel  65a  
 
 1.  Een aanbieder van een complex product houdt een bijgewerkte versie van de financiële bijsluiter respectievelijk de essentiële beleggingsinformatie beschikbaar op zijn website.   
-2.  De aanbieder van een complex product niet zijnde rechten van deelneming in een beleggingsinstelling verstrekt de financiële bijsluiter onverwijld kosteloos op verzoek van een consument.   
-3.  Indien een complex product niet zijnde rechten van deelneming in een beleggingsinstelling wordt aangeboden door tussenkomst van een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent, wordt een financiële bijsluiter door deze bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent onverwijld kosteloos op verzoek van de consument verstrekt, tenzij de aanbieder en de bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent zijn overeengekomen dat de aanbieder zelf aan de verplichting voldoet.   
-4.  Een aanbieder van rechten van deelneming in een beleggingsinstelling of degene die beleggingsdiensten verleent als bedoeld in artikel 1, onderdelen a, b, of d, van de wet, met betrekking tot rechten van deelneming in een beleggingsinstelling, verstrekt geruime tijd voorafgaand aan een inschrijving op de rechten van deelneming in een beleggingsinstelling kosteloos de essentiële beleggersinformatie aan de cliënt. De essentiële beleggersinformatie wordt schriftelijk, op een duurzame drager of via een website verstrekt. Op verzoek wordt de essentiële beleggersinformatie kosteloos schriftelijk aan de cliënt verstrekt.   
-5.  Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onder 1°, 4° of 11°, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
+2.  De aanbieder van een complex product niet zijnde rechten van deelneming in een beleggingsinstelling of icbe verstrekt de financiële bijsluiter onverwijld kosteloos op verzoek van een consument.   
+3.  Indien een complex product niet zijnde rechten van deelneming in een beleggingsinstelling of icbe wordt aangeboden door tussenkomst van een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent, wordt een financiële bijsluiter door deze bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent onverwijld kosteloos op verzoek van de consument verstrekt, tenzij de aanbieder en de bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent zijn overeengekomen dat de aanbieder zelf aan de verplichting voldoet.   
+4.  Een aanbieder van rechten van deelneming in een icbe of degene die beleggingsdiensten verleent als bedoeld in artikel 1, onderdelen a, b, of d, van de wet, met betrekking tot rechten van deelneming in een icbe, verstrekt geruime tijd voorafgaand aan een inschrijving op de rechten van deelneming in een icbe kosteloos de essentiële beleggersinformatie aan de cliënt. De essentiële beleggersinformatie wordt schriftelijk, op een duurzame drager of via een website verstrekt. Op verzoek wordt de essentiële beleggersinformatie kosteloos schriftelijk aan de cliënt verstrekt.   
+5.  Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onder 1°, 4° of 11°, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling of icbe betreft, cliënten.   
 
 ### Artikel  66  
 
@@ -1919,9 +1948,9 @@ h. bij ministeriële regeling aan te wijzen andere onderwerpen.
 
 ### Artikel  66a  
 
-1.  In de essentiële beleggersinformatie wordt de volgende informatie over de beleggingsinstelling opgenomen: 
+1.  In de essentiële beleggersinformatie wordt de volgende informatie over de icbe opgenomen: 
 
-a. de identificatie van de beleggingsinstelling;  
+a. de identificatie van de icbe;  
 
 b. een korte beschrijving van de beleggingsdoelstellingen en beleggingsbeleid;  
 
@@ -1929,7 +1958,7 @@ c. het historisch rendement of, indien relevant, toekomstscenario’s;
 
 d. de kosten; en  
 
-e. het risico-opbrengstprofiel van het recht van deelneming, waaronder voldoende toelichting en waarschuwingen met betrekking tot de risico’s die aan het recht van deelneming in de desbetreffende beleggingsinstelling zijn verbonden.     
+e. het risico-opbrengstprofiel van het recht van deelneming, waaronder voldoende toelichting en waarschuwingen met betrekking tot de risico’s die aan het recht van deelneming in de desbetreffende icbe zijn verbonden.     
 2.  De essentiële beleggingsinformatie vermeldt duidelijk: 
 
 a. waar en hoe aanvullende informatie over de aangeboden rechten van deelneming en het prospectus kan worden verkregen;  
@@ -1937,10 +1966,9 @@ a. waar en hoe aanvullende informatie over de aangeboden rechten van deelneming 
 b. dat de jaarrekening en halfjaarcijfers op de website van de beheerder beschikbaar zijn en dat deze stukken te allen tijde op verzoek kosteloos kunnen worden verkregen bij de beheerder; en  
 
 c. in welke taal de informatie, bedoeld in de onderdelen a en b, voor de deelnemers beschikbaar is.     
-3.  De essentiële beleggersinformatie wordt zodanig opgesteld dat cliënten de aard en de risico’s verbonden aan de rechten van deelneming in een beleggingsinstelling kunnen begrijpen, zonder dat naar andere documenten wordt verwezen.   
+3.  De essentiële beleggersinformatie wordt zodanig opgesteld dat cliënten de aard en de risico’s verbonden aan de rechten van deelneming in een icbe kunnen begrijpen, zonder dat naar andere documenten wordt verwezen.   
 4.  Een vertaling van de essentiële beleggersinformatie bevat geen andere wijzigingen of aanvullingen ten opzichte van het vertaalde document, dan noodzakelijk vanwege de vertaling.   
 5.  Met betrekking tot de essentiële beleggersinformatie zijn nadere regels gesteld in verordening nr. 583/2010 van de Europese Commissie van 1 juli 2010 tot uitvoering van Richtlijn 2009/65/EG van het Europees Parlement en de Raad van de Europese Unie wat betreft essentiële beleggersinformatie en de voorwaarden waaraan moet worden voldaan als de essentiële beleggersinformatie of het prospectus op een andere duurzame drager dan papier of via een website wordt verstrekt (PbEU L 176).   
-6.  De verordening, bedoeld in het vijfde lid, is van overeenkomstige toepassing op aanbieders van rechten van deelneming in een beleggingsinstelling, niet zijnde een instelling voor collectieve belegging in effecten, voor zover de aard van de beleggingsinstelling zich hiertegen niet verzet.   
 
 ### §  8.1.6  
 
@@ -1987,7 +2015,7 @@ b. om advies over oversluitmogelijkheden in te winnen bij de aanbieder of een an
 1.  Een beleggingsonderneming die voor rekening van een cliënt een order met betrekking tot een financieel instrument heeft uitgevoerd die niet strekt ter uitvoering van een beslissing in verband met het beheren van een individueel vermogen, verstrekt aan de cliënt onmiddellijk de belangrijkste informatie over de uitvoering van deze order.   
 2.  Een beleggingsonderneming die een order als bedoeld in het eerste lid heeft uitgevoerd voor een niet-professionele belegger geeft de cliënt, onverminderd het eerste lid, onverwijld en uiterlijk op de eerste werkdag na de uitvoering van de order kennis van de uitvoering van de order. Indien de beleggingsonderneming een bevestiging van de uitvoering ontvangt van een derde, geeft de beleggingsonderneming de cliënt daarvan kennis uiterlijk op de eerste werkdag na ontvangst van de bevestiging van deze derde, tenzij deze derde de cliënt reeds onmiddellijk in kennis heeft gesteld.   
 3.  In afwijking van het eerste en tweede lid informeert een beleggingsonderneming die een order als bedoeld in het eerste lid met betrekking tot obligaties ter financiering van een hypothecair krediet heeft uitgevoerd, de cliënt die dit krediet is aangegaan over de uitvoering van de order bij de mededeling van de kredietsom, doch uiterlijk een maand na uitvoering van de order.   
-4.  Indien een beleggingsonderneming periodiek orders met betrekking tot rechten van deelneming in een beleggingsinstelling uitvoert voor een niet-professionele belegger, kan een beleggingsonderneming de kennisgeving, bedoeld in het tweede lid, éénmaal per zes maanden verstrekken.   
+4.  Indien een beleggingsonderneming periodiek orders met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe uitvoert voor een niet-professionele belegger, kan een beleggingsonderneming de kennisgeving, bedoeld in het tweede lid, éénmaal per zes maanden verstrekken.   
 5.  Een beleggingsonderneming verstrekt de cliënt desgevraagd informatie over de status van diens order.   
 6.  De kennisgeving, bedoeld in tweede lid, bevat, voorzover van toepassing en voorzover relevant in overeenstemming met tabel 1 van bijlage 1 bij de uitvoeringsverordening markten voor financiële instrumenten, de volgende informatie: 
 
@@ -2190,7 +2218,7 @@ c. voorzover zulks niet blijkt uit een wijziging van de polisvoorwaarden: iedere
 
 d. de jaarlijkse winstdeling;  
 
-e. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling: een jaarlijkse opgave over het voorafgaande jaar van: 
+e. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe: een jaarlijkse opgave over het voorafgaande jaar van: 
 
 1°. de waarde-ontwikkeling van het opgebouwde kapitaal;  
 
@@ -2200,12 +2228,12 @@ e. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggi
 
 4°. het op het opgebouwde kapitaal behaalde rendement;    
 
-f. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling: een jaarlijkse prognose van de hoogte van het eindkapitaal op basis van een pessimistische voorspelling of het historisch rendement;  
+f. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe: een jaarlijkse prognose van de hoogte van het eindkapitaal op basis van een pessimistische voorspelling of het historisch rendement;  
 
-g. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling: het gevoerde beheer van de beleggingsinstelling;  
+g. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe: het gevoerde beheer van de beleggingsinstelling of icbe;  
 
 h. indien de cliënt daarom verzoekt: een opgave van de premievrije waarde op de einddatum van de verzekering, onder vermelding van het voor de berekening gehanteerde rendementspercentage, of een opgave van de wegens afkoop verschuldigde kosten en de actuele afkoopwaarde.     
-2.  Indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling verstrekt de levensverzekeraar, onverminderd het eerste lid, aanhef en onderdeel h, aan de cliënt die verzoekt zijn premie te verhogen of te verlagen of zijn polis premievrij te maken: een aan de nieuwe premie aangepaste opgave overeenkomstig artikel 60, eerste lid, onderdeel l, onder 1°, 2° en 3°.   
+2.  Indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe verstrekt de levensverzekeraar, onverminderd het eerste lid, aanhef en onderdeel h, aan de cliënt die verzoekt zijn premie te verhogen of te verlagen of zijn polis premievrij te maken: een aan de nieuwe premie aangepaste opgave overeenkomstig artikel 60, eerste lid, onderdeel l, onder 1°, 2° en 3°.   
 3.  Het eerste lid, aanhef en onderdelen e, f en h, en het tweede lid zijn niet van toepassing indien de cliënt een werkgever is die de overeenkomst heeft afgesloten ten behoeve van zijn werknemers in verband met een door hem toegezegd pensioen.   
 
 ### Artikel  74  
@@ -2240,7 +2268,7 @@ c. voorzover [artikel 4:17 van de wet](../../../../../../../wet/wet/op/het/finan
 
 d. zijn inschrijving in het door de toezichthouder gehouden register;  
 
-e. de naam van de Kamer van Koophandel en Fabrieken in het handelsregister waarvan hij is ingeschreven en het nummer van de inschrijving;  
+e. het nummer van de inschrijving in het handelsregister;  
 
 f. de belangrijkste kenmerken van het financiële product;  
 
@@ -2422,27 +2450,33 @@ Een aanbieder van een hypothecair krediet offreert voor een consument die voorne
 
 ### Artikel  82  
 
-1.  Een beheerder, beleggingsmaatschappij of beleggingsonderneming benadert personen die geen professionele belegger zijn, die geen deelnemer zijn in de beleggingsinstelling of aan wie de beleggingsonderneming nog geen beleggingsdienst heeft verleend, direct noch indirect in persoon, anders dan door middel van een techniek voor communicatie op afstand als bedoeld in artikel 81, tenzij: 
+1.  Een maatschappij voor collectieve belegging in effecten, beleggingsonderneming of beheerder van een icbe benadert personen die geen professionele belegger zijn, die geen deelnemer zijn in de icbe of aan wie de beleggingsonderneming nog geen beleggingsdienst heeft verleend, direct noch indirect in persoon, anders dan door middel van een techniek voor communicatie op afstand als bedoeld in artikel 81, tenzij: 
 
 a. de betrokkene daarmee vooraf uitdrukkelijk schriftelijk dan wel elektronisch mee heeft ingestemd; of  
 
 b. de betrokkene in het contact slechts informatiemateriaal wordt aangeboden.     
-2.  Het eerste lid is niet van toepassing op: 
-
-a. beheerders van instellingen voor collectieve beleggingen in effecten met zetel in een andere lidstaat, instellingen voor collectieve beleggingen in effecten met zetel in een ander lidstaat en de eventueel aan die instellingen verbonden bewaarders; en  
-
-b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, beleggingsinstellingen met zetel in effecten met zetel in een aangewezen staat en de eventueel aan die beleggingsinstellingen verbonden bewaarders.     
+2.  Het eerste lid is niet van toepassing op beheerders van icbe’s met zetel in een andere lidstaat, icbe’s met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders.   
 
 ### Artikel  83  
 
-1.  Een beheerder, beleggingsmaatschappij of bewaarder handelt in het belang van de deelnemers in de beleggingsinstelling.   
-2.  Een beheerder of beleggingsmaatschappij behandelt deelnemers onder vergelijkbare omstandigheden op gelijke wijze.   
-3.  Door of namens een beleggingsinstelling worden geen transacties uitgevoerd voor haar rekening met een zodanige frequentie of van een zodanige omvang dat dit gezien de omstandigheden kennelijk slechts strekt tot bevoordeling van de beheerder, de beleggingsinstelling of met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.   
-4.  Het eerste tot en met derde lid zijn niet van toepassing op: 
+1.  Een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe handelt in het belang van de deelnemers in de icbe.   
+2.  Een beheerder van een icbe of maatschappij voor collectieve belegging in effecten behandelt deelnemers onder vergelijkbare omstandigheden op gelijke wijze.   
+3.  Door of namens een icbe worden geen transacties uitgevoerd voor haar rekening met een zodanige frequentie of van een zodanige omvang dat dit gezien de omstandigheden kennelijk slechts strekt tot bevoordeling van de beheerder van de icbe, de icbe of met de beheerder van de icbe, maatschappij voor collectieve belegging in effecten of bewaarder van de icbe gelieerde partijen.   
+4.  Het eerste tot en met derde lid is niet van toepassing op beheerders van icbe’s met zetel in een andere lidstaat die geen icbe’s met zetel in Nederland beheren, icbe’s met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders.   
 
-a. beheerders van instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat die geen instellingen voor collectieve belegging in effecten met zetel in Nederland beheren, instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat en de eventueel aan die instellingen verbonden bewaarders; en  
+### Artikel  83a  
 
-b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, beleggingsinstellingen met zetel in effecten met zetel in een aangewezen staat en de eventueel aan die beleggingsinstellingen verbonden bewaarders.     
+1.  Een Nederlandse beheerder van een beleggingsinstelling neemt jegens de deelnemers in de beleggingsinstelling de in artikel 12, eerste lid, onderdelen b, d, e, f, alsmede de laatste volzin van het eerste lid, en tweede lid, aanhef en onderdeel a, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels in acht.   
+2.  De Autoriteit Financiële Markten neemt bij het toezicht op de naleving van regels, bedoeld in het eerste lid, de ingevolge artikel 12, derde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde criteria in acht.   
+
+### Artikel  83b  
+
+1.  Een Nederlandse beheerder van een beleggingsinstelling treedt niet op als bewaarder van die beleggingsinstelling.   
+2.  Een Nederlandse beheerder van een beleggingsinstelling kan een prime broker aanstellen als bewaarder, indien wordt voldaan aan de in artikel 21, vierde lid, onderdeel b, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde voorwaarden.   
+
+### Artikel  83c  
+
+Bij de vervulling van de taken van de bewaarder neemt de bewaarder de in artikel 21, tiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels in acht.  
 
 ### Artikel  84  
 
@@ -2463,7 +2497,7 @@ Een financiële onderneming voert een beleid inzake beloningen dat erop is geric
 
 ### Artikel  86b  
 
-Artikelen 86c is uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na inwerkingtreding van dat artikel.  
+Artikel 86c is uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na inwerkingtreding van dat artikel.  
 
 ### Artikel  86c  
 
@@ -2477,7 +2511,11 @@ b. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende finan
 c. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;  
 
 d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die, in combinatie met een complex product of een hypothecair krediet, beleggingsdiensten verleent als bedoeld in onderdeel a of d van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op personen die ingevolge [artikel 2:104, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld van [artikel 2:96, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor zover die personen in Nederland beleggingsdiensten mogen verlenen: 
+
+a. als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe voor zover die personen in Nederland orders mogen doorgeven aan beleggingsinstellingen of icbe’s die in Nederland rechten van deelneming mogen aanbieden en aan banken en beleggingsondernemingen die in Nederland beleggingsdiensten mogen verlenen;  
+
+b. als bedoeld in onderdeel d van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe.     
 
 ### Artikel  86d  
 
@@ -2609,38 +2647,80 @@ c. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis nie
 
 ####Melding wijzigingen door financiële ondernemingen
 
+### §  9.1.0  
+
+####Afwikkelondernemingen
+
+Bepaling ter uitvoering van [artikel 4:26, achtste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  87a  
+
+1.  Een afwikkelonderneming waaraan de Nederlandsche Bank een vergunning heeft verleend voor het uitoefenen van het bedrijf van afwikkelonderneming geeft aan de Autoriteit Financiële Markten schriftelijk kennis van het voornemen tot een substantiële wijziging van: 
+
+a. de wijze waarop zij eerlijke en vrije toegang biedt tot haar diensten en systemen op basis van objectieve, risicogebaseerde en openbaar gemaakte deelnemingscriteria;  
+
+b. de wijze waarop zij zorg draagt voor het tijdig en efficiënt verlenen van haar diensten;  
+
+c. de mechanismen waarmee periodiek het kostenniveau, prijsniveau en serviceniveau en de efficiëntie van de door haar verleende diensten worden beoordeeld;  
+
+d. de internationaal aanvaarde communicatieprocedures en -standaarden waarvan zij gebruik maakt ter ondersteuning van een efficiënte dienstverlening of de wijze waarop zij het gebruik daarvan bevordert; en  
+
+e. de wijze waarop zij betaaldienstverleners waarmee zij een overeenkomst heeft gesloten, inzicht biedt in de financiële risico’s en de kosten die zijn verbonden aan de afwikkeldiensten.     
+2.  Met betrekking tot het voornemen legt de afwikkelonderneming over: 
+
+a. een beschrijving van de voorgenomen wijziging, bedoeld in het eerste lid;  
+
+b. gegevens op basis waarvan de Autoriteit Financiële Markten redelijkerwijs kan beoordelen of wordt voldaan aan de [artikelen 4:76a tot en met 4:76d van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+3.  De afwikkelonderneming geeft geen uitvoering aan het voornemen voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent instemming: 
+
+a. binnen zes weken na ontvangst van de kennisgeving; of  
+
+b. indien de Autoriteit Financiële Markten binnen twee weken na ontvangst van de kennisgeving om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de kennisgeving.     
+
 ### §  9.1.1  
 
-####Beheerders
+####Beheerders van beleggingsinstellingen en beheerders van icbe’s
 
-Bepalingen ter uitvoering van [artikel 4:26, achtste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van [artikel 4:26, negende lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:37c, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  87  
 
-Deze paragraaf is niet van toepassing op beheerders van instellingen voor collectieve belegging in effecten met zetel in een andere lidstaat en op beheerders van beleggingsinstellingen met zetel in een aangewezen staat.  
+Deze paragraaf is niet van toepassing op beheerders van icbe’s met zetel in een andere lidstaat en op beheerders van beleggingsinstellingen of icbe's met zetel in een aangewezen staat.  
 
 ### Artikel  88  
 
-1.  Een beheerder meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door hemzelf of door een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van: 
+1.  Een beheerder van een icbe meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door hemzelf of door een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van: 
 
-a. de personen die het beleid van de beheerder, van een door hem beheerde beleggingsmaatschappij of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen of mede bepalen; of  
+a. de personen die het beleid van de beheerder van een icbe, van een door hem beheerde maatschappij voor collectieve belegging in effecten of van een bewaarder die is verbonden aan een door hem beheerde icbe bepalen of mede bepalen; of  
 
-b. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder, van een door hem beheerde beleggingsmaatschappij of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling.     
-2.  De beheerder meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen.   
+b. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder van een icbe, van een door hem beheerde maatschappij voor collectieve belegging in effecten of van een bewaarder die is verbonden aan een door hem beheerde icbe.     
+2.  De beheerder van een icbe meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen.   
+
+### Artikel  88a  
+
+1.  Een Nederlandse beheerder van een beleggingsinstelling meldt de Autoriteit Financiële Markten het voornemen tot een belangrijke wijziging van de in het kader van de aanvraag verstrekte informatie.   
+2.  De procedure inzake de in het eerste lid bedoelde wijzigingen voldoet aan de in artikel 10, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
+
+### Artikel  88b  
+
+1.  Een Nederlandse beheerder van een beleggingsinstelling meldt voorgenomen wijzigingen van de gegevens, bedoeld in [artikel 4:37c, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ten minste een maand voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
+2.  In afwijking van het eerste lid meldt de beheerder wijzigingen die hij niet heeft kunnen voorzien onverwijld nadat de wijziging is doorgevoerd aan de Autoriteit Financiële Markten.   
+3.  Indien de beheerder als gevolg van de voorgenomen wijziging niet meer aan de ingevolge de wet gestelde regels zou voldoen, deelt de Autoriteit Financiële Markten hem mede dat de voorgenomen wijziging niet doorgevoerd kan worden.   
+4.  De melding, bedoeld in het eerste lid, voldoet aan de ingevolge artikel 31, vijfde lid, onderdeel b, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
 
 ### Artikel  89  
 
-1.  Een beheerder meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorzover het betreft gegevens over: 
+1.  Een beheerder van een icbe meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorzover het betreft gegevens over: 
 
-a. de activiteiten van de beheerder en de soorten beleggingsinstellingen die hij beheert of voornemens is te beheren, bedoeld in onderdeel 1.b. van bijlage D;  
+a. de activiteiten van de beheerder en de soorten icbe's die hij beheert of voornemens is te beheren, bedoeld in onderdeel 1.b. van bijlage H;  
 
-b. de personen die het dagelijks beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen, bedoeld in onderdeel 2.1.a van bijlage D;  
+b. de personen die het dagelijks beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde icbe bepalen, bedoeld in onderdeel 2.1.a van bijlage H;  
 
-c. de personen die het beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen of mede bepalen, bedoeld in onderdeel 2.1.b. van bijlage D;  
+c. de personen die het beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde icbe bepalen of mede bepalen, bedoeld in onderdeel 2.1.b. van bijlage H;  
 
-d. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling, bedoeld in onderdeel 2.1.c van bijlage D; of  
+d. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde icbe, bedoeld in onderdeel 2.1.c van bijlage H; of  
 
-e. de algemene gegevens betreffende de beheerder en de bewaarders, bedoeld in onderdeel 3 van bijlage D.     
+e. de algemene gegevens betreffende de beheerder en de bewaarders, bedoeld in onderdeel 3 van bijlage H.     
 2.  De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, aanhef en onderdeel a, voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent de instemming binnen vier weken na ontvangst van de melding.   
 3.  De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, aanhef en onderdeel b, c of d, voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent de instemming: 
 
@@ -2672,37 +2752,36 @@ d. een opgave van referenten.
 
 ### Artikel  90  
 
-Een beheerder zendt een afschrift van elke met een bewaarder gesloten overeenkomst alsmede van wijzigingen van een met een bewaarder gesloten overeenkomst binnen twee weken na ondertekening of wijziging van de overeenkomst aan de Autoriteit Financiële Markten.  
+Een beheerder van een icbe zendt een afschrift van elke met een bewaarder van een icbe gesloten overeenkomst alsmede van wijzigingen van een met een bewaarder van een icbe gesloten overeenkomst binnen twee weken na ondertekening of wijziging van de overeenkomst aan de Autoriteit Financiële Markten.  
 
 ### Artikel  91  
 
-1.  Een beheerder meldt een wijziging van de gegevens, bedoeld in [artikel 4:50, eerste lid, met uitzondering van onderdeel g, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een door hem beheerde beleggingsinstelling, niet zijnde een instelling voor collectieve belegging in effecten, ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
-2.  Een beheerder meldt een wijziging van de gegevens, bedoeld in [artikel 4:50, eerste lid, met uitzondering van de onderdelen a, d, g en i van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een door hem beheerde instelling voor collectieve belegging in effecten ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
-3.  Een beheerder meldt een wijziging in het fondsreglement of de statuten van een door hem beheerde instelling voor collectieve belegging in effecten ten minste een maand voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
-4.  Een beheerder van een instelling voor collectieve belegging in effecten meldt het voornemen tot vervanging van de beheerder of de bewaarder die aan de instelling voor collectieve belegging in effecten is verbonden ten minste een maand tevoren schriftelijk aan de Autoriteit Financiële Markten.   
-5.  De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het derde en vierde lid, voordat de Autoriteit Financiële Markten daarmee heeft ingestemd.   
+1.  Een beheerder van een icbe meldt een wijziging van de gegevens, bedoeld in [artikel 4:50, eerste lid, met uitzondering van de onderdelen a, d, g en i van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een door hem beheerde icbe ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
+2.  Een beheerder van een icbe meldt een wijziging in het fondsreglement of de statuten van een door hem beheerde icbe ten minste een maand voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
+3.  Een beheerder van een icbe meldt het voornemen tot vervanging van de beheerder of de bewaarder die aan de icbe is verbonden ten minste een maand tevoren schriftelijk aan de Autoriteit Financiële Markten.   
+4.  De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het tweede en derde lid, voordat de Autoriteit Financiële Markten daarmee heeft ingestemd.   
 
 ### Artikel  92  
 
-1.  Een beheerder die vanuit een in een andere lidstaat gelegen bijkantoor een instelling voor collectieve belegging in effecten beheert of rechten van deelneming in door hem beheerde instellingen voor collectieve belegging in effecten in die lidstaat aanbiedt, meldt aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat schriftelijk ten minste een maand tevoren: 
+1.  Een beheerder van een icbe die vanuit een in een andere lidstaat gelegen bijkantoor een icbe beheert of rechten van deelneming in door hem beheerde icbe’s in die lidstaat aanbiedt, meldt aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat schriftelijk ten minste een maand tevoren: 
 
 a. een wijziging in het adres in de lidstaat waar documenten kunnen worden opgevraagd;  
 
 b. een wijziging in de identiteit van de personen die het dagelijks beleid van het bijkantoor bepalen; of  
 
-c. het voornemen om het aanbieden van rechten van deelneming in door hem beheerde instellingen voor collectieve belegging in effecten vanuit het in de andere lidstaat gelegen bijkantoor te staken.     
-2.  Een beheerder die vanuit een in een andere lidstaat gelegen bijkantoor een instelling voor collectieve belegging in effecten beheert of rechten van deelneming in door hem beheerde instellingen voor collectieve belegging in effecten in die lidstaat aanbiedt, meldt aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat schriftelijk ten minste een maand tevoren het voornemen tot wijziging van de financiële diensten die hij vanuit het bijkantoor verleent, de organisatiestructuur van het bijkantoor, de procedure voor risicobeheer en de afhandeling van klachten.   
-3.  De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het tweede lid, voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen twee maanden na ontvangst van de melding en stemt in met de wijziging, tenzij de bedrijfsvoering of de financiële positie van de beheerder gelet op de voorgenomen wijziging niet toereikend is.   
+c. het voornemen om het aanbieden van rechten van deelneming in door hem beheerde icbe’s vanuit het in de andere lidstaat gelegen bijkantoor te staken.     
+2.  Een beheerder van een icbe die vanuit een in een andere lidstaat gelegen bijkantoor een icbe beheert of rechten van deelneming in door hem beheerde icbe’s in die lidstaat aanbiedt, meldt aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat schriftelijk ten minste een maand tevoren het voornemen tot wijziging van de financiële diensten die hij vanuit het bijkantoor verleent, de organisatiestructuur van het bijkantoor, de procedure voor risicobeheer en de afhandeling van klachten.   
+3.  De beheerder van een icbe geeft geen uitvoering aan het voornemen, bedoeld in het tweede lid, voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen twee maanden na ontvangst van de melding en stemt in met de wijziging, tenzij de bedrijfsvoering of de financiële positie van de beheerder van een icbe gelet op de voorgenomen wijziging niet toereikend is.   
 
 ### Artikel  92a  
 
-Een beheerder die door middel van het verrichten van diensten een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat beheert of rechten van deelneming in door hem beheerde instellingen voor collectieve belegging in effecten in een andere lidstaat aanbiedt, meldt een wijziging van de financiële diensten die hij in de andere lidstaat verleent, de procedure voor risicobeheer en de afhandeling van klachten ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat.  
+Een beheerder van een icbe die door middel van het verrichten van diensten een icbe met zetel in een andere lidstaat beheert of rechten van deelneming in door hem beheerde icbe’s in een andere lidstaat aanbiedt, meldt een wijziging van de financiële diensten die hij in de andere lidstaat verleent, de procedure voor risicobeheer en de afhandeling van klachten ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat.  
 
 ### §  9.1.2  
 
 ####Beleggingsondernemingen
 
-Bepalingen ter uitvoering van [artikel 4:26, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van [artikel 4:26, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  93  
 
@@ -2830,7 +2909,7 @@ b. de maatregelen gericht op het bevorderen en handhaven van een integere bedrij
 
 ####Collectieve vergunninghouders
 
-Bepalingen ter uitvoering van [artikel 4:26, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van [artikel 4:26, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  100  
 
@@ -2848,7 +2927,7 @@ d. indien een aangesloten onderneming is ingeschreven in het handelsregister: he
 
 ####Financiëledienstverleners
 
-Bepalingen ter uitvoering van [artikel 4:26, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van [artikel 4:26, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  101  
 
@@ -2870,7 +2949,7 @@ a. de personen die het beleid van de financiëledienstverlener bepalen of mede b
 
 b. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiëledienstverlener.     
 2.  De financiëledienstverlener meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen.   
-3.  Het eerste en tweede lid zijn niet van toepassing op financiëledienstverleners die tevens beheerder of beleggingsonderneming zijn.   
+3.  Het eerste en tweede lid zijn niet van toepassing op financiëledienstverleners die tevens beleggingsonderneming, beheerder van een beleggingsinstelling of beheerder van een icbe zijn.   
 
 ### Artikel  103  
 
@@ -2936,20 +3015,42 @@ Bepalingen ter uitvoering van [artikel 4:27, vierde lid, van de wet](../../../..
 
 ### Artikel  107  
 
-1.  De door een accountant als bedoeld in [artikel 4:27, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op grond van [artikel 4:27, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verstrekken gegevens zijn: 
+1.  De door een accountant als bedoeld in [artikel 4:27, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op grond van artikel 4:27, vierde lid, van de wet te verstrekken gegevens zijn: 
 
 a. het accountantsverslag aan de bestuurders en de raad van commissarissen;  
 
 b. de directiebrieven; en  
 
 c. correspondentie tussen de accountant en de financiële onderneming die rechtstreeks betrekking heeft op de verklaring omtrent de getrouwheid van de jaarrekening van de financiële onderneming.     
-2.  De directiebrieven, bedoeld in het eerste lid, onderdeel b, met betrekking tot een beheerder en een beleggingsinstelling bevatten in ieder geval een verklaring van de accountant of en zo ja, in hoeverre hij de inrichting van de bedrijfsvoering heeft beoordeeld.   
+2.  De directiebrieven, bedoeld in het eerste lid, onderdeel b, met betrekking tot een icbe en een beheerder van een icbe bevatten in ieder geval een verklaring van de accountant of en zo ja, in hoeverre hij de inrichting van de bedrijfsvoering heeft beoordeeld.   
 
 ### Artikel  108  
 
 1.  Een accountant die voornemens is gegevens als bedoeld in artikel 107 te verstrekken, stelt de financiële onderneming daarvan in kennis.   
 2.  Indien de financiële onderneming dat wenst, kan zij zelf de gegevens aan de Autoriteit Financiële Markten verstrekken. In dat geval stelt zij de accountant daarvan in kennis. De accountant vergewist zich ervan dat de Autoriteit Financiële Markten de gegevens heeft ontvangen en dat de inhoud van de gegevens hem geen aanleiding geeft alsnog gegevens aan de Autoriteit Financiële Markten te verstrekken.   
 3.  Indien de accountant schriftelijk gegevens verstrekt aan de Autoriteit Financiële Markten, zendt hij onverwijld aan de financiële onderneming een afschrift van de gegevens en, indien van toepassing, van de begeleidende brief.   
+
+### Afdeling  9.3  
+
+####Instemmingsvereiste centrale tegenpartij
+
+Bepaling ter uitvoering van [artikel 4:27a, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  108a  
+
+1.  Een centrale tegenpartij als bedoeld in verordening (EU) nr. 648/2012 van het Europees Parlement en de Raad van 4 juli inzake otc-derivaten, centrale tegenpartijen en transactieregisters (PbEU 2012, L 201) geeft aan de Nederlandsche Bank schriftelijk kennis van het voornemen tot een substantiële wijziging van de wijze waarop zij invulling geeft aan hetgeen is bepaald in de titels IV en V van die verordening.   
+2.  Met betrekking tot het voornemen legt de afwikkelonderneming over: 
+
+a. een beschrijving van de voorgenomen wijziging, bedoeld in het eerste lid;  
+
+b. gegevens op basis waarvan de Nederlandsche Bank redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen in de titels IV en V van de verordening, bedoeld in het eerste lid, is bepaald.     
+3.  De centrale tegenpartij geeft geen uitvoering aan het voornemen voordat de Nederlandsche Bank heeft ingestemd met de wijziging. De Nederlandsche Bank neemt een besluit omtrent instemming: 
+
+a. binnen zes weken na ontvangst van de kennisgeving;  
+
+b. indien de Nederlandsche Bank binnen twee weken na ontvangst van de kennisgeving om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de kennisgeving; of  
+
+c. indien de Nederlandsche Bank de Autoriteit Financiële Markten om advies heeft gevraagd, binnen vier weken na ontvangst van dat advies.     
 
 ### Hoofdstuk  10  
 
@@ -3013,7 +3114,8 @@ j. de gegevens op jaarbasis per serie van beleggingsobjecten waarvan het beleggi
 
 ####Elektronisch geld
 
-Bepalingen ter uitvoering van de [artikelen 4:20, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:31, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de artikelen 4:20, eerste lid, en 4:31, tweede lid, van de wet   
+Vervallen per 01-01-2012   
 
 ### Afdeling  10.2  
 
@@ -3129,6 +3231,7 @@ Alvorens met een consument een overeenkomst inzake krediet aan te gaan waarvan h
 2°. de koopsom of aannemingsom dan wel de kosten volgens de begroting van een bouwkundig bedrijf, eventueel vermeerderd met de kosten van de grond, kosten van de bouw, inclusief de kosten voor meerwerk, bouwrente en renteverlies tijdens de bouwperiode, en de aansluiting op nutsvoorzieningen; of  
 
 3°. de marktwaarde van de woning blijkens een door een deskundig taxateur opgemaakt taxatierapport dat op het moment van aangaan van het hypothecair krediet niet ouder is dan een jaar, eventueel na verbouwing.     
+7.  In afwijking van het zesde lid, onder 3°, mag tevens worden uitgegaan van de waarde van de woning zoals laatstelijk bepaald op grond van de [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), indien sprake is van een aanvraag van een hypothecair krediet met betrekking tot een woning die reeds geheel of gedeeltelijk in eigendom is van de consument of met betrekking tot een woning die door erfopvolging geheel of gedeeltelijk door de consument wordt verkregen.   
 
 ### Artikel  115a  
 
@@ -3136,50 +3239,247 @@ Een aanbieder van krediet rekent geen hogere kredietvergoeding dan op grond van 
 
 ### Afdeling  10.3  
 
-####Rechten van deelneming in een beleggingsinstelling
+####Rechten van deelneming in een beleggingsinstelling of icbe
 
 ### §  10.3.1  
 
-####Regels voor alle beheerders, beleggingsinstellingen en bewaarders
+####Regels voor beheerders van beleggingsinstellingen, beleggingsinstellingen en bewaarders van beleggingsinstellingen
 
-Bepalingen ter uitvoering van de [artikelen 4:43, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:47, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:48, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:49, tweede lid, aanhef en onderdeel e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:52, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van [4:37c, negende lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37e, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37f, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37g, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37h, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37i, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37k, zesde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37l, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37m, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37n](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37o, zesde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37t, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  115b  
+
+De informatie, bedoeld in [artikel 4:37c, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die voorafgaand aan het aanbieden van rechten van deelneming aan de Autoriteit Financiële Markten dient te worden verstrekt, voldoet aan de ingevolge artikel 31 van de richtlijn beheerders van alternatieve beleggingsinstellingen vastgestelde normen.  
+
+### Artikel  115c  
+
+1.  Een Nederlandse beheerder van een beleggingsinstelling beschikt over procedures en maatregelen die waarborgen dat wordt voldaan aan de ingevolge artikel 14 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels aangaande het voorkomen van en omgaan met belangenconflicten.   
+2.  Indien aan een beheerder van een beleggingsinstelling diensten worden verleend door een prime broker neemt de beheerder de in artikel 14, derde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels in acht.   
+
+### Artikel  115d  
+
+De taken van de bewaarder van een beleggingsinstelling, bedoeld in [artikel 4:37f, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), omvatten in ieder geval de uitvoering van de ingevolge artikel 21, zevende, achtste, negende en zeventiende lid, onderdeel c, van de richtlijn beheerders van alternatieve beleggingsinstellingen bedoelde taken.  
+
+### Artikel  115e  
+
+1.  Een overeenkomst inzake beheer en bewaring als bedoeld in [artikel 4:37f van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voldoet aan de ingevolge artikel 21, tweede, twaalfde, dertiende, veertiende, vijftiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
+2.  In de overeenkomst inzake beheer en bewaring wordt een beding opgenomen op grond waarvan de beleggingsinstelling of de deelnemers in de beleggingsinstelling rechtstreeks een beroep kunnen doen op de bepalingen die in de overeenkomst zijn opgenomen ingevolge de in artikel 21, twaalfde, dertiende, veertiende, vijftiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
+
+### Artikel  115f  
+
+1.  Indien de bewaarder aansprakelijkheid geheel of gedeeltelijk uitsluit als bedoeld in [artikel 4:37g, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), worden door de bewaarder de ingevolge artikel 21, zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels, in acht genomen.   
+2.  Indien financiële instrumenten als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in bewaring worden genomen in een staat die geen lidstaat is als bedoeld in [artikel 4:37g, tweede lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is de bewaarder niet aansprakelijk voor verlies van de financiële instrumenten, indien wordt voldaan aan de in artikel 21, veertiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen, gestelde voorwaarden.   
+
+### Artikel  115g  
+
+Een entiteit die niet voldoet aan het bepaalde in [artikel 4:37h, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kan slechts als bewaarder van de beleggingsinstellingen, bedoeld in artikel 4:37h, tweede lid, van de wet optreden indien die entiteit: 
+
+a. de taken als bewaarder verricht in het kader van haar beroeps- of bedrijfsuitoefening; en  
+
+b. in het kader van de in onderdeel a bedoelde beroeps- of bedrijfsuitoefening verplicht is zich in te schrijven in een wettelijk erkend beroepsregister of moet voldoen aan regelgeving inzake de beroepsmoraal.    
+
+### Artikel  115h  
+
+Een Nederlandse beheerder van een niet-Europese beleggingsinstelling kan een bewaarder aanstellen die is gevestigd in een staat die geen lidstaat is, indien wordt voldaan aan de ingevolge artikel 21, zesde en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde voorwaarden.  
+
+### Artikel  115i  
+
+De waardering van de activa en de berekening van de intrinsieke waarde per recht van deelneming van een Nederlandse beheerder van een beleggingsinstelling voldoet aan de ingevolge artikel 19 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.  
+
+### Artikel  115j  
+
+Het prospectus, bedoeld in [artikel 4:37l, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, eerste volzin, van de richtlijn beheerders van alternatieve beleggingsinstellingen.  
+
+### Artikel  115k  
+
+1.  De informatie, bedoeld in [artikel 4:37m, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste de gegevens, bedoeld in artikel 23, tweede lid, tweede volzin, vierde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.   
+2.  De beheerder van een beleggingsinstelling neemt bij het verstrekken van de gegevens, bedoeld in het eerste lid de ingevolge artikel 23, zesde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen door de Europese Commissie gestelde regels in acht.   
+
+### Artikel  115l  
+
+1.  De beheerder van een beleggingsinstelling verstrekt de gegevens genoemd in artikel 24, eerste, tweede en vierde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen, voor zover op hem van toepassing. De beheerder van een beleggingsinstelling verstrekt daarnaast, voor zover de Autoriteit Financiële Markten hierom verzoekt, alle gegevens genoemd in artikel 24, derde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen. Deze gegevens voldoen aan de ingevolge artikel 24, zesde lid, van deze richtlijn door de Europese Commissie gestelde eisen.   
+2.  In afwijking van het eerste lid, eerste volzin, worden de in die volzin genoemde gegevens die reeds aan de Nederlandsche Bank zijn verstrekt, niet aan de Autoriteit Financiële Markten verstrekt, tenzij de Autoriteit Financiële Markten hierom verzoekt.   
+
+### Artikel  115m  
+
+1.  Het jaarverslag, bedoeld in [artikel 4:37o, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen en de in artikel 29, tweede lid, van deze richtlijn genoemde informatie.   
+2.  Het jaarverslag voldoet aan de ingevolge artikel 22, vierde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
+
+### Artikel  115n  
+
+De kennisgeving, bedoeld in [artikel 4:37t, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 27, derde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.  
+
+### Artikel  115o  
+
+Het jaarverslag, bedoeld in [artikel 4:37u, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat de gegevens, bedoeld in artikel 29, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.  
+
+### §  10.3.1.1  
+
+####Aanvullende regels voor beheerders van beleggingsinstellingen inzake het aanbieden van rechten van deelneming aan niet-professionele beleggers
+
+Bepalingen ter uitvoering van [artikel 4:37p van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  115p  
+
+Deze paragraaf is van toepassing voor zover een beheerder van een beleggingsinstelling rechten van deelneming aanbiedt aan niet-professionele beleggers in Nederland.  
+
+### Artikel  115q  
+
+1.  Een beheerder voert een adequaat beleid dat een integere uitoefening van zijn bedrijf waarborgt. Hieronder wordt verstaan dat: 
+
+a. belangenverstrengeling wordt tegengegaan;  
+
+b. wordt tegengegaan dat de beheerder of haar werknemers strafbare feiten of andere wetsovertredingen begaan die het vertrouwen in de beheerder of in de financiële markten kunnen schaden;  
+
+c. wordt tegengegaan dat wegens haar cliënten het vertrouwen in de beheerder of in de financiële markten kan worden geschaad; en  
+
+d. wordt tegengegaan dat andere handelingen door de beheerder of haar werknemers worden verricht die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in de beheerder of in de financiële markten ernstig kan worden geschaad.     
+2.  [Artikel 4:11, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de artikelen 17, 19 en 20 zijn van overeenkomstige toepassing.   
+
+### Artikel  115r  
+
+1.  Werknemers van een beheerder en andere personen die door de desbetreffende beheerder zijn belast met het beheren van beleggingsinstellingen, beschikken over de nodige vakbekwaamheid en deskundigheid om de hun toevertrouwde verantwoordelijkheid uit te oefenen.   
+2.  Voor de toepassing van het eerste lid wordt rekening gehouden met de aard, omvang en risico’s van de beheerder en zijn werkzaamheden.   
+
+### Artikel  115s  
+
+1.  De bedrijfsvoering van een beheerder omvat ten minste procedures en maatregelen die waarborgen dat: 
+
+a. een functiescheiding bestaat tussen het verrichten van rechtshandelingen met betrekking tot het vermogen van de beleggingsinstelling en het controleren en administreren van deze handelingen;  
+
+b. de berekening van de intrinsieke waarde van de beleggingsinstelling aansluit bij de financiële administratie;  
+
+c. er, voor zover mogelijk, een systematische, toegankelijke en actuele administratie van deelnemers in de beleggingsinstelling is waarin, voor zover van toepassing, de met de deelnemers gemaakte afspraken inzichtelijk worden gemaakt.     
+2.  De maatregelen en procedures, bedoeld in het eerste lid, aanhef en onderdeel b, voorzien er in ieder geval in dat de voor de intrinsieke waardebepaling gebruikte subadministraties ten minste een keer per maand worden aangesloten met de saldibalans en dat de daaruit voortvloeiende verschillen worden geanalyseerd en gecorrigeerd.   
+3.  Een beheerder richt voor iedere beleggingsinstelling die hij beheert afzonderlijk een bedrijfsvoering als bedoeld in het eerste lid in.   
+
+### Artikel  115t  
+
+1.  Een beheerder draagt zorg voor een adequate behandeling van klachten van niet-professionele beleggers over zijn financiële diensten of financiële producten. Hiertoe: 
+
+a. beschikt de beheerder over een interne klachtenprocedure, gericht op een spoedige en zorgvuldige behandeling van klachten; en  
+
+b. is de beheerder aangesloten bij een door Onze Minister erkende geschilleninstantie die geschillen behandelt met betrekking tot zijn financiële diensten of financiële producten, tenzij er geen zodanige geschilleninstantie is.     
+2.  De artikelen 40 tot en met 44 zijn van overeenkomstige toepassing.   
+
+### Artikel  115u  
+
+Een beheerder behandelt deelnemers onder vergelijkbare omstandigheden op gelijke wijze.  
+
+### Artikel  115v  
+
+1.  Een beheerder beschikt over een website.   
+2.  De beheerder vermeldt het adres van de website in het prospectus, bedoeld in [artikel 4:37l van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in de halfjaarcijfers, bedoeld in artikel 115y, in zijn jaarverslag en in de jaarverslagen van de door hem beheerde beleggingsinstellingen, bedoeld in [artikel 4:37o, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+3.  Telkens wanneer een beleggingsinstelling rechten van deelneming aanbiedt, verkoopt, inkoopt of daarop terugbetaalt, publiceert de beheerder de intrinsieke waarde van de rechten van deelneming onverwijld op zijn website, onder vermelding van het moment waarop de bepaling van de intrinsieke waarde plaatsvond.   
+4.  De [artikelen 4:46, tweede en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:46a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 50, eerste en tweede lid, zijn van overeenkomstige toepassing.   
+
+### Artikel  115w  
+
+1.  Een beheerder heeft op zijn website de voorwaarden die gelden tussen een door hem beheerde beleggingsinstelling en de deelnemers beschikbaar.   
+2.  [Artikel 4:47, tweede, derde en zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 116b zijn van toepassing, met dien verstande dat de informatie alleen op de website van de beheerder gepubliceerd dient te worden.   
+3.  [Artikel 4:47, vierde en vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
+
+### Artikel  115x  
+
+1.  Onverminderd [artikel 4:37l, eerste tot en met derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 115j bevat het prospectus tevens: 
+
+a. de gegevens, genoemd in bijlage I, met uitzondering van de onderdelen 1.3, 1.5, 1.6, 1.8, 3.1, 3.2, 3.3, 3.5, 4.7, 5.1, 5.3, 5.12, 5.15–5.18, 5.20, 7.1, 7.4, en 11.1.  
+
+b. de gegevens, genoemd in bijlage I, onderdelen 3.2, 4.7 en 5.12, met dien verstande dat publicatie alleen geschiedt op de website van de beheerder.  
+
+c. de gegevens die voor beleggers noodzakelijk zijn om zich een oordeel te vormen over de beleggingsinstelling en de daaraan verbonden kosten en risico’s;  
+
+d. een verklaring van de beheerder dat hijzelf, de beleggingsinstelling en de eventueel daaraan verbonden bewaarder voldoen aan de bij of krachtens de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde regels en dat het prospectus voldoet aan de bij of krachtens de wet gestelde regels;  
+
+e. een mededeling van een accountant, onder vermelding van zijn naam en kantooradres, dat het prospectus de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorgeschreven gegevens bevat.     
+2.  De Autoriteit Financiële Markten kan verlangen dat het prospectus, bedoeld in [artikel 4:37l van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een beheerder, in een of meer door haar te bepalen talen beschikbaar wordt gesteld indien dit, gelet op de voorgenomen verspreiding van het prospectus, noodzakelijk is voor een adequate informatieverschaffing aan het publiek.   
+3.  Artikel 118, tweede en derde lid, is van overeenkomstige toepassing.   
+
+### Artikel  115y  
+
+1.  Een beheerder en een bewaarder verstrekken binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [391, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  De beheerder en de bewaarder verstrekken de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, wat de indeling en inhoud betreft onverminderd de artikelen 122 tot en met 124, in de vorm waarin deze zijn opgemaakt krachtens of de internationale jaarrekeningstandaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikel 396, zevende lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), voor zover het de vrijstelling van de verplichting, bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), betreft en [artikel 403 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor zover het een beheerder betreft.   
+3.  De beheerder maakt binnen zes maanden na afloop van het boekjaar de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, openbaar door publicatie op de website van de beheerder.   
+4.  De beheerder maakt binnen zes maanden na afloop van het boekjaar een jaarrekening en een jaarverslag van de door hem beheerde beleggingsinstellingen, bedoeld in [artikel 4:37o, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), openbaar door publicatie op zijn website.   
+5.  Het jaarverslag van een beleggingsinstelling, bedoeld in [artikel 4:37o, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat een verklaring van de beheerder dat hij voor de beleggingsinstelling beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de [artikelen 3:17, tweede lid, onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en dat de bedrijfsvoering van de beleggingsinstelling effectief en overeenkomstig de beschrijving functioneert.   
+6.  De beheerder verstrekt binnen negen weken na afloop van de eerste helft van het boekjaar zijn halfjaarcijfers en de halfjaarcijfers van de door hem beheerde beleggingsinstellingen aan de Autoriteit Financiële Markten.   
+7.  De beheerder maakt binnen negen weken na afloop van de eerste helft van het boekjaar de halfjaarcijfers, bedoeld in het vijfde lid, openbaar door publicatie op de website van de beheerder.   
+8.  De beheerder houdt de informatie, bedoeld in het tweede, derde en zesde lid, gedurende ten minste drie jaar beschikbaar op zijn website.   
+9.  De artikelen 122 tot en met 125 zijn van overeenkomstige toepassing.   
+10.  Het eerste tot en met het negende lid is niet van toepassing op beheerders die beleggingsinstellingen beheren waarvan de rechten van deelneming zijn toegelaten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt en niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald.   
+11.  Onverminderd het bepaalde in [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) kan de Autoriteit Financiële Markten op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste tot en met het negende lid, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.   
+
+### Artikel  115z  
+
+Indien van de in Nederland gevoerde of te voeren naam van een beheerder of een door hem beheerde beleggingsinstelling gevaar voor verwarring of misleiding is te duchten, kan de Autoriteit Financiële Markten verlangen dat de beheerder onderscheidenlijk de beleggingsinstelling: 
+
+a. de naam wijzigt; of  
+
+b. een verklarende vermelding aan de naam toevoegt.    
+
+### Artikel  115aa  
+
+Indien een beheerder de inkoop of terugbetaling van rechten van deelneming in een door hem beheerde beleggingsinstelling opschort, stelt hij de Autoriteit Financiële Markten, onverwijld daarvan op de hoogte.  
+
+### Artikel  115bb  
+
+1.  Een beheerder stelt voor elke beleggingsinstelling, met rechten van deelneming die niet verhandelbaar zijn of die op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, waarvan door hem rechten van deelneming worden aangeboden een document met de essentiële beleggersinformatie op.   
+2.  Een beheerder houdt een bijgewerkte versie van de essentiële beleggingsinformatie beschikbaar op zijn website.   
+3.  Een beheerder of degene die beleggingsdiensten verleend als bedoeld in artikel 1, onderdelen a, b, of d, van de wet, met betrekking tot rechten van deelneming in een beleggingstelling verstrekt geruime tijd voorafgaand aan een inschrijving op de rechten van deelneming in een beleggingsinstelling kosteloos de essentiële beleggersinformatie aan de cliënt. De essentiële beleggersinformatie wordt schriftelijk, op een duurzame drager of via een website verstrekt. Op verzoek wordt de essentiële beleggersinformatie kosteloos schriftelijk aan de cliënt verstrekt.   
+4.  De essentiële beleggersinformatie wordt in de Nederlandse taal verstrekt. De informatie kan in een andere taal worden verstrekt indien het gebruik van de desbetreffende taal door de Autoriteit Financiële Markten is goedgekeurd.   
+5.  De artikelen 58c, zesde lid, en 58e, tweede lid, zijn van overeenkomstige toepassing.   
+6.  Artikel 66a is van overeenkomstige toepassing met dien verstande dat de verordening, bedoeld in artikel 66a, vijfde lid, van overeenkomstige toepassing is voor zover de aard van de beleggingsinstelling zich hiertegen niet verzet.   
+
+### Artikel  115cc  
+
+Een beheerder benadert personen die geen professionele belegger zijn, of die geen deelnemer zijn in de beleggingsinstelling, direct noch indirect in persoon, anders dan door middel van een techniek voor communicatie op afstand als bedoeld in artikel 81, tenzij: 
+
+a. de betrokkene daarmee vooraf uitdrukkelijk schriftelijk dan wel elektronisch mee heeft ingestemd; of  
+
+b. de betrokkene in het contact slechts informatiemateriaal wordt aangeboden.    
+
+### Artikel  115dd  
+
+Door of namens een beleggingsinstelling worden geen transacties uitgevoerd voor haar rekening met een zodanige frequentie of van een zodanige omvang dat dit gezien de omstandigheden kennelijk slechts strekt tot bevoordeling van de beheerder, de beleggingsinstelling of met de beheerder, of bewaarder gelieerde partijen.  
+
+### §  10.3.2  
+
+####Regels voor beheerders van icbe’s, icbe’s en bewaarders van icbe’s
+
+Bepalingen ter uitvoering van de [artikelen 4:43, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:47, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:48, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:49, tweede lid, aanhef en onderdeel e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:52, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:56, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:59a, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:59e, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:60, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  116  
 
-De tussen een beheerder en een bewaarder te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bepaalt in ieder geval dat: 
+De tussen een beheerder van een icbe en een bewaarder van een icbe te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bepaalt in ieder geval dat: 
 
-a. de bewaarder bij het bewaren in het belang van de deelnemers in de beleggingsinstelling optreedt;  
+a. de bewaarder van een icbe bij het bewaren in het belang van de deelnemers in de icbe optreedt;  
 
-b. de bewaring ten name van de beleggingsinstelling op een zodanige wijze geschiedt dat over de in bewaring gegeven activa slechts kan worden beschikt door de beheerder en de bewaarder tezamen;  
+b. de bewaarder van een icbe de in bewaring gegeven activa slechts afgeeft tegen ontvangst van een verklaring van de beheerder van een icbe waaruit blijkt dat afgifte wordt verlangd in verband met de regelmatige uitoefening van de beheerfunctie;  
 
-c. de bewaarder de in bewaring gegeven activa slechts afgeeft tegen ontvangst van een verklaring van de beheerder waaruit blijkt dat afgifte wordt verlangd in verband met de regelmatige uitoefening van de beheerfunctie;  
+c. de bewaarder van een icbe volgens het recht van de staat waar de icbe haar zetel heeft jegens de icbe en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook indien de bewaarder van een icbe de bij hem in bewaring gegeven activa geheel of gedeeltelijk aan een derde heeft toevertrouwd;  
 
-d. de bewaarder volgens het recht van de staat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook indien de bewaarder de bij hem in bewaring gegeven activa geheel of gedeeltelijk aan een derde heeft toevertrouwd;  
+d. indien bewijzen van rechten van deelneming worden afgegeven, deze bewijzen door de bewaarder van een icbe worden ondertekend;  
 
-e. indien bewijzen van rechten van deelneming worden afgegeven, deze bewijzen door de bewaarder worden ondertekend;  
+e. indien de overeenkomst de activa van een icbe betreft, dat de bewaarder van een icbe: 
 
-f. een voorstel door de beheerder tot wijziging van de tussen de beleggingsinstelling en de deelnemers geldende voorwaarden tezamen met de bewaarder wordt gedaan; en  
+1°. zich ervan vergewist dat het aanbieden, verkoop, inkoop en intrekking van alsmede terugbetaling op rechten van deelneming voor rekening van de icbe, overeenkomstig de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de icbe geschieden;  
 
-g. indien de overeenkomst de activa van een instelling voor collectieve belegging in effecten betreft, dat de bewaarder: 
+2°. zich ervan vergewist dat bij transacties met betrekking tot de activa van de icbe de tegenprestatie binnen de gebruikelijke termijnen wordt voldaan;  
 
-1°. zich ervan vergewist dat het aanbieden, verkoop, inkoop en intrekking van alsmede terugbetaling op rechten van deelneming voor rekening van de beleggingsinstelling, overeenkomstig de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de beleggingsinstelling geschieden;  
+3°. zich ervan vergewist dat de opbrengsten van de icbe een bestemming krijgen in overeenstemming met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de icbe;  
 
-2°. zich ervan vergewist dat bij transacties met betrekking tot de activa van de beleggingsinstelling de tegenprestatie binnen de gebruikelijke termijnen wordt voldaan;  
+4°. zich ervan vergewist dat de waarde van de rechten van deelneming wordt berekend overeenkomstig de wet of de statuten onderscheidenlijk het fondsreglement van de icbe; en  
 
-3°. zich ervan vergewist dat de opbrengsten van de beleggingsinstelling een bestemming krijgen in overeenstemming met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de beleggingsinstelling;  
-
-4°. zich ervan vergewist dat de waarde van de rechten van deelneming wordt berekend overeenkomstig de wet of de statuten onderscheidenlijk het fondsreglement van de beleggingsinstelling; en  
-
-5°. de aanwijzingen van de beheerder dient uit te voeren, tenzij deze in strijd zijn met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de beleggingsinstelling.      
+5°. de aanwijzingen van de beheerder van een icbe dient uit te voeren, tenzij deze in strijd zijn met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de icbe.      
 
 ### Artikel  116a  
 
-1.  Onverminderd artikel 116 bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen een beheerder van een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat en een bewaarder met zetel in een andere lidstaat, tevens de gegevens, genoemd in bijlage G.   
-2.  Verplichtingen tot vertrouwelijkheid die op de beheerder en de bewaarder bij de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten tot relevante informatie.   
+1.  Onverminderd artikel 116 bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen een beheerder van een icbe met zetel in een andere lidstaat en een bewaarder van een icbe met zetel in een andere lidstaat, tevens de gegevens, genoemd in bijlage G.   
+2.  Verplichtingen tot vertrouwelijkheid die op de beheerder van een icbe en de bewaarder van een icbe bij de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de icbe tot relevante informatie.   
 
 ### Artikel  116b  
 
-De advertentie en mededeling op de website van de beheerder, bedoeld in [artikel 4:47, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevatten tenminste: 
+De advertentie en mededeling op de website van de beheerder van een icbe, bedoeld in [artikel 4:47, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevatten tenminste: 
 
 a. een beschrijving van de voorgestelde voorwaardenwijziging;  
 
@@ -3202,217 +3502,210 @@ Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../..
 1.  Onverminderd [artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevat het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de gegevens, genoemd in bijlage I.   
 2.  In het prospectus worden in afzonderlijke paragrafen de gegevens opgenomen over: 
 
-a. de kosten van de beleggingsinstelling en de wijze waarop zij ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de beleggingsinstelling; en  
+a. de kosten van de icbe en de wijze waarop zij ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de icbe; en  
 
-b. de aan de beleggingsinstelling verbonden risico’s.     
+b. de aan de icbe verbonden risico’s.     
 3.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in bijlage I, worden opgenomen in het prospectus.   
 
 ### Artikel  119  
 
-Een beheerder, beleggingsinstelling of bewaarder verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat de indeling en inhoud betreft, onverminderd de artikelen 121 tot en met 124 en 146, in de vorm waarin deze zijn opgemaakt krachtens [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden.  
+Een beheerder van een icbe, icbe of bewaarder van een icbe verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat de indeling en inhoud betreft, onverminderd de artikelen 121 tot en met 124 en 146, in de vorm waarin deze zijn opgemaakt krachtens [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden.  
 
 ### Artikel  120  
 
-1.  Een beheerder stelt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:52, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de halfjaarcijfers, bedoeld in [artikel 4:52, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kosteloos verkrijgbaar voor deelnemers in de beleggingsinstelling.   
-2.  De openbaarmaking van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:52, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geschiedt door publicatie op de website van de beheerder. Gelijktijdig met de publicatie op de website deelt de beheerder in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, mee dat voor deelnemers op verzoek bij de beheerder een afschrift van de jaarrekening, het jaarverslag en de overige gegevens van de beheerder, de beleggingsinstelling of de bewaarder voor de deelnemers in de beleggingsinstelling kosteloos verkrijgbaar is.   
+1.  Een beheerder van een icbe stelt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:52, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de halfjaarcijfers, bedoeld in artikel 4:52, tweede lid, kosteloos verkrijgbaar voor deelnemers in de icbe.   
+2.  De openbaarmaking van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:52, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geschiedt door publicatie op de website van de beheerder van de icbe. Gelijktijdig met de publicatie op de website deelt de beheerder in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, mee dat voor deelnemers op verzoek bij de beheerder een afschrift van de jaarrekening, het jaarverslag en de overige gegevens van de beheerder, de icbe of de bewaarder van een icbe voor de deelnemers in de icbe kosteloos verkrijgbaar is.   
 3.  De openbaarmaking van de halfjaarcijfers, bedoeld in [artikel 4:52, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geschiedt overeenkomstig het tweede lid.   
-4.  De beheerder houdt de informatie, bedoeld in het tweede en derde lid, gedurende ten minste drie jaar beschikbaar op zijn website.   
+4.  De beheerder van een icbe houdt de informatie, bedoeld in het tweede en derde lid, gedurende ten minste drie jaar beschikbaar op zijn website.   
 
 ### Artikel  121  
 
-1.  Het jaarverslag van een beleggingsinstelling, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat een verklaring van de beheerder dat hij voor de beleggingsinstelling beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de [artikelen 3:17, tweede lid, onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en dat de bedrijfsvoering van de beleggingsinstelling effectief en overeenkomstig de beschrijving functioneert.   
-2.  Het eerste lid is niet van toepassing op het jaarverslag van beleggingsinstellingen met zetel in een aangewezen staat.   
+1.  Het jaarverslag van een icbe, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat een verklaring van de beheerder van een icbe dat hij voor de icbe beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de [artikelen 3:17, tweede lid, onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en dat de bedrijfsvoering van de icbe effectief en overeenkomstig de beschrijving functioneert.   
 
 ### Artikel  122  
 
-1.  De toelichting op de balans en de winst- en verliesrekening van een beleggingsinstelling bevat ten minste de volgende gegevens: 
+1.  De toelichting op de balans en de winst- en verliesrekening van een icbe bevat ten minste de volgende gegevens: 
 
 a. een sluitend overzicht van het verloop gedurende het boekjaar van de beleggingen waarbij de beleggingen worden onderscheiden naar soort;  
 
 b. een overzicht van de samenstelling van de activa aan het einde van het boekjaar;  
 
-c. een vergelijkend overzicht over de laatste drie jaren van de intrinsieke waarde van de beleggingsinstelling, het aantal uitstaande rechten van deelneming en de intrinsieke waarde per recht van deelneming, een en ander per het einde van het boekjaar;  
+c. een vergelijkend overzicht over de laatste drie jaren van de intrinsieke waarde van de icbe, het aantal uitstaande rechten van deelneming en de intrinsieke waarde per recht van deelneming, een en ander per het einde van het boekjaar;  
 
 d. een mededeling in hoeverre activa die geen financiële instrumenten zijn die zijn toegelaten tot de handel op een gereglementeerde markt of een andere markt in financiële instrumenten door een onafhankelijke deskundige zijn gewaardeerd, volgens welke methode de waardering heeft plaatsgevonden, alsmede de regelmaat waarmee deze waardering plaatsvindt;  
 
 e. het bedrag der verplichtingen, onderscheiden naar soort aan het einde van het boekjaar, die voortvloeien uit dekkingstransacties met betrekking tot koers- en wisselkoersrisico in verband met de beleggingen, voorzover een en ander niet reeds in de balans en winst- en verliesrekening is begrepen;  
 
-f. een gespecificeerde opgave van de activa van de beleggingsinstelling die deelnemingen zijn in de zin van [artikel 389, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); en  
+f. een gespecificeerde opgave van de activa van de icbe die deelnemingen zijn in de zin van [artikel 389, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); en  
 
-g. indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: de gegevens, bedoeld in de onderdelen a, b, c, d en e, met betrekking tot de andere beleggingsinstelling.     
-2.  Onverminderd [artikel 379, derde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vermeldt de beleggingsinstelling onder de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het totale persoonlijke belang dat de bestuurders van de beheerder of de beleggingsmaatschappij bij iedere belegging van de beleggingsinstelling aan het begin en het einde van het boekjaar hebben gehad.   
+g. indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: de gegevens, bedoeld in de onderdelen a, b, c, d en e, met betrekking tot de andere beleggingsinstelling of icbe.     
+2.  Onverminderd [artikel 379, derde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vermeldt de beheerder van een icbe onder de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het totale persoonlijke belang dat de bestuurders van de beheerder van een icbe of de maatschappij voor collectieve belegging in effecten bij iedere belegging van de icbe aan het begin en het einde van het boekjaar hebben gehad.   
 
 ### Artikel  123  
 
-1.  De toelichting op de balans en de winst- en verliesrekening van een beleggingsinstelling bevat de volgende gegevens: 
+1.  De toelichting op de balans en de winst- en verliesrekening van een icbe bevat de volgende gegevens: 
 
-a. voorzover van toepassing: de kosten van oprichting van de beleggingsinstelling, de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de beleggingsinstelling en welk gedeelte ten goede is gekomen aan de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, of aan met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen;  
+a. voorzover van toepassing: de kosten van oprichting van de icbe, de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de icbe en welk gedeelte ten goede is gekomen aan de beheerder van een icbe, de bewaarder van een icbe, de bestuurders van de beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe, of aan met de beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe gelieerde partijen;  
 
-b. de naar soort onderscheiden kosten, gemoeid met het beheer van de beleggingsinstelling, de bewaring van activa van de beleggingsinstelling, de accountant, het toezicht op de beleggingsinstelling en de marketing, met inbegrip van de berekeningsgrondslag en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de beleggingsinstelling;  
+b. de naar soort onderscheiden kosten, gemoeid met het beheer van de icbe, de bewaring van activa van de icbe, de accountant, het toezicht op de icbe en de marketing, met inbegrip van de berekeningsgrondslag en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de icbe;  
 
-c. de transactiekosten die geïdentificeerd en gekwantificeerd kunnen worden en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de beleggingsinstelling;  
+c. de transactiekosten die geïdentificeerd en gekwantificeerd kunnen worden en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de icbe;  
 
-d. indien van toepassing: de kosten die zijn gemaakt of vergoedingen die zijn gevraagd in verband met het in- en uitlenen van financiële instrumenten en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de beleggingsinstelling onderscheidenlijk aan wie deze vergoedingen ten goede zijn gekomen;  
+d. indien van toepassing: de kosten die zijn gemaakt of vergoedingen die zijn gevraagd in verband met het in- en uitlenen van financiële instrumenten en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de icbe onderscheidenlijk aan wie deze vergoedingen ten goede zijn gekomen;  
 
-e. indien van toepassing: de kosten voor het uitbesteden van werkzaamheden in het kader van het beheer van de beleggingsinstelling of de bewaring van de activa van de beleggingsinstelling en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de beleggingsinstelling;  
+e. indien van toepassing: de kosten voor het uitbesteden van werkzaamheden in het kader van het beheer van de icbe of de bewaring van de activa van de icbe en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de icbe;  
 
-f. het totaal betaalde bedrag aan vergoedingen voor het aanbrengen van deelnemers indien dit bedrag hoger is dan één tiende procent van het gemiddelde beheerde vermogen van de beleggingsinstelling, de wijze waarop dit bedrag ten laste is gekomen van het resultaat, in mindering is gebracht op het beheerde vermogen of anderszins ten laste is gekomen van de deelnemers in de beleggingsinstelling en, indien van toepassing, de namen van met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen aan wie deze aanbrengprovisies ten goede zijn gekomen;  
+f. het totaal betaalde bedrag aan vergoedingen voor het aanbrengen van deelnemers indien dit bedrag hoger is dan één tiende procent van het gemiddelde beheerde vermogen van de icbe, de wijze waarop dit bedrag ten laste is gekomen van het resultaat, in mindering is gebracht op het beheerde vermogen of anderszins ten laste is gekomen van de deelnemers in de icbe en, indien van toepassing, de namen van met de maatschappij voor collectieve belegging in effecten, de beheerder van een icbe of de bewaarder van een icbe gelieerde partijen aan wie deze aanbrengprovisies ten goede zijn gekomen;  
 
-g. alle andere dan in onderdeel a tot en met f bedoelde naar soort onderscheiden kosten die hoger zijn dan tien procent van de totale kosten, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de beleggingsinstelling;  
+g. alle andere dan in onderdeel a tot en met f bedoelde naar soort onderscheiden kosten die hoger zijn dan tien procent van de totale kosten, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste zijn gekomen van het resultaat, in mindering zijn gebracht op het beheerde vermogen of anderszins ten laste zijn gekomen van de deelnemers in de icbe;  
 
 h. de wijze waarop de op- en afslagen zijn berekend, aan wie de op- en afslagen ten goede zijn gekomen en, voor zover van toepassing, de wijze waarop zij zijn verwerkt in de jaarrekening;  
 
-i. de overige eenmalige kosten die deelnemers in de beleggingsinstelling betalen bij in- en uittreding, inclusief de berekeningsgrondslag;  
+i. de overige eenmalige kosten die deelnemers in de icbe betalen bij in- en uittreding, inclusief de berekeningsgrondslag;  
 
 j. een vergelijkend overzicht van de naar soort onderscheiden volgens het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), te maken kosten en de daadwerkelijk gemaakte kosten;  
 
-k. de naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen;  
+k. de naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen of icbe’s of icbe’s;  
 
-l. het niveau van de kosten van de beleggingsinstelling gerelateerd aan haar gemiddelde intrinsieke waarde, onder vermelding van de kosten die daarbij buiten beschouwing zijn gelaten; indien de beleggingsinstelling gemiddeld tien procent of meer van haar vermogen direct of indirect in andere beleggingsinstellingen belegt, worden de kosten van de andere beleggingsinstellingen meegenomen bij het bepalen van het niveau van de kosten van de beleggingsinstelling of wordt vermeld dat en waarom het niet mogelijk is de kosten van een andere beleggingsinstelling mee te nemen, alsmede dat de kosten van de betreffende andere beleggingsinstelling van invloed zijn op het resultaat van de beleggingsinstelling;  
+l. het niveau van de kosten van de icbe gerelateerd aan haar gemiddelde intrinsieke waarde, onder vermelding van de kosten die daarbij buiten beschouwing zijn gelaten; indien de icbe gemiddeld tien procent of meer van haar vermogen direct of indirect in andere belegginginstellingen of icbe’s of icbe’s belegt, worden de kosten van de andere beleggingsinstellingen of icbe’s of icbe’s meegenomen bij het bepalen van het niveau van de kosten van de icbe of wordt vermeld dat en waarom het niet mogelijk is de kosten van een andere beleggingsinstelling of icbe mee te nemen, alsmede dat de kosten van de betreffende andere beleggingsinstelling of icbe van invloed zijn op het resultaat van de icbe;  
 
-m. indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: het niveau van de kosten van de andere beleggingsinstelling gerelateerd aan de gemiddelde intrinsieke waarde van de andere beleggingstelling, onder vermelding van de kosten die daarbij buiten beschouwing zijn gelaten;  
+m. indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: het niveau van de kosten van de andere beleggingsinstelling of icbe gerelateerd aan de gemiddelde intrinsieke waarde van de andere beleggingstelling of icbe, onder vermelding van de kosten die daarbij buiten beschouwing zijn gelaten;  
 
-n. indien van toepassing: de retourprovisies die niet ten goede zijn gekomen aan de beleggingsinstelling en aan wie deze retourprovisies ten goede zijn gekomen;  
+n. indien van toepassing: de retourprovisies die niet ten goede zijn gekomen aan de icbe en aan wie deze retourprovisies ten goede zijn gekomen;  
 
-o. indien van toepassing: de door de beheerder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, de bewaarder, de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van de beleggingsinstelling ontvangen of in het vooruitzicht gestelde goederen; en  
+o. indien van toepassing: de door de beheerder van een icbe, de bestuurders van de beleggingsmaatschappij, de beheerder van een icbe of de bewaarden van de icbe, de bewaarder van de icbe, de met de beheerder van de icbe, maatschappij voor collectieve belegging in effecten of bewaarder van de icbe gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van icbe ontvangen of in het vooruitzicht gestelde goederen; en  
 
 p. de omloopsnelheid van de beleggingen en een vergelijking met de in het voorgaande boekjaar gerealiseerde omloopsnelheid van de beleggingen.     
-2.  Het eerste lid, onderdeel p, is niet van toepassing op beleggingsinstellingen die uitsluitend of vrijwel uitsluitend beleggen in onroerende zaken.   
-3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop inzicht wordt verschaft in het niveau van de kosten van de beleggingsinstelling, bedoeld in het eerste lid, onderdelen l en m, en de daaraan ten grondslag liggende berekening en de wijze van berekening van de omloopsnelheid van de activa, bedoeld in het eerste lid, onderdeel p.   
+2.  Het eerste lid, onderdeel p, is niet van toepassing op icbe’s die uitsluitend of vrijwel uitsluitend beleggen in onroerende zaken.   
+3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop inzicht wordt verschaft in het niveau van de kosten van de icbe, bedoeld in het eerste lid, onderdelen l en m, en de daaraan ten grondslag liggende berekening en de wijze van berekening van de omloopsnelheid van de activa, bedoeld in het eerste lid, onderdeel p.   
 4.  De toelichting op de balans en de winst en verliesrekening van een beheerder bevat ten minste de volgende gegevens: 
 
-a. indien van toepassing: de door de beheerder of diens bestuurders ontvangen retourprovisies;  
+a. indien van toepassing: de door de beheerder van een icbe of diens bestuurders ontvangen retourprovisies;  
 
-b. indien van toepassing: de door de beheerder of diens bestuurders voor het uitvoeren van opdrachten ten behoeve van de beheerder of de door de beheerder beheerde beleggingsinstellingen ontvangen of in het vooruitzicht gestelde goederen; en  
+b. indien van toepassing: de door de beheerder van een icbe of diens bestuurders voor het uitvoeren van opdrachten ten behoeve van de beheerder van een icbe of de door de beheerder van een icbe beheerde beleggingsinstellingen of icbe’s ontvangen of in het vooruitzicht gestelde goederen; en  
 
-c. de vergoedingen die zijn ontvangen in verband met het in- en uitlenen van financiële instrumenten van de door de beheerder beheerde beleggingsinstellingen.     
+c. de vergoedingen die zijn ontvangen in verband met het in- en uitlenen van financiële instrumenten van de door de beheerder van een icbe beheerde beleggingsinstellingen of icbe’s.     
 5.  De in het eerste en vierde lid bedoelde gegevens worden cijfermatig en tekstueel toegelicht.   
-6.  In de toelichting op de balans en de winst- en verliesrekening van de beheerder en de beleggingsinstelling worden de in het vierde onderscheidenlijk het eerste lid bedoelde gegevens in één paragraaf opgenomen.   
+6.  In de toelichting op de balans en de winst- en verliesrekening van de beheerder van een icbe en de icbe worden de in het vierde onderscheidenlijk het eerste lid bedoelde gegevens in één paragraaf opgenomen.   
 
 ### Artikel  124  
 
-1.  Een beleggingsinstelling vermeldt in de toelichting op de balans en de winst en verliesrekening: 
+1.  Een icbe vermeldt in de toelichting op de balans en de winst en verliesrekening: 
 
-a. indien van toepassing: de met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen aangegane overeenkomsten en een beschrijving van de hoofdlijnen van die overeenkomsten;  
+a. indien van toepassing: de met de met de maatschappij voor collectieve belegging in effecten, de beheerder van een icbe of de bewaarder van een icbe gelieerde partijen aangegane overeenkomsten en een beschrijving van de hoofdlijnen van die overeenkomsten;  
 
-b. welk percentage van het totale transactievolume van de beleggingsinstelling is uitgevoerd via de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen;  
+b. welk percentage van het totale transactievolume van de beleggingsinstelling is uitgevoerd via de met de maatschappij voor collectieve belegging in effecten, de beheerder van een icbe of de bewaarder van een icbe gelieerde partijen;  
 
-c. indien van toepassing: een opsomming van de soorten transacties die via de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen zijn uitgevoerd en de voorwaarden waaronder die transacties plaatsvinden. Indien een transactie met een gelieerde partij niet tegen marktconforme voorwaarden heeft plaatsgevonden wordt tevens de naam van de gelieerde partij, de prijs, de relevante voorwaarden, de getaxeerde waarde en de reden voor niet marktconform handelen vermeld;  
+c. indien van toepassing: een opsomming van de soorten transacties die via de met de maatschappij voor collectieve belegging in effecten, de beheerder van een icbe of de bewaarder van een icbe gelieerde partijen zijn uitgevoerd en de voorwaarden waaronder die transacties plaatsvinden. Indien een transactie met een gelieerde partij niet tegen marktconforme voorwaarden heeft plaatsgevonden wordt tevens de naam van de gelieerde partij, de prijs, de relevante voorwaarden, de getaxeerde waarde en de reden voor niet marktconform handelen vermeld;  
 
-d. indien van toepassing: het totaalbedrag gemoeid met transacties met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verricht;  
+d. indien van toepassing: het totaalbedrag gemoeid met transacties met de met de maatschappij voor collectieve belegging in effecten, de beheerder van een icbe of de bewaarder van een icbe gelieerde partijen die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verricht;  
 
-e. indien van toepassing: dat de beleggingsinstelling direct of indirect belegt in een andere beleggingsmaatschappij die een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij is of in een andere beleggingsinstelling die beheerd wordt door een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij en onder welke voorwaarden verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere beleggingsinstelling plaatsvindt;  
+e. indien van toepassing: dat de icbe direct of indirect belegt in een andere maatschappij voor collectieve belegging in effecten of beleggingsmaatschappij die een met de beheerder van de icbe, maatschappij voor collectieve belegging in effecten, of bewaarder van de icbe gelieerde partij is of in een andere icbe of beleggingsinstelling die beheerd wordt door een met de beheerder van de icbe, maatschappij voor collectieve belegging in effecten, of bewaarder van de icbe gelieerde partij en onder welke voorwaarden verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere icbe of beleggingsinstelling plaatsvindt;  
 
-f. indien van toepassing: beleggingen in met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen, niet zijnde beleggingsinstellingen, die meer dan tien procent van het vermogen van de gelieerde partij of van het beheerde vermogen van de beleggingsinstelling uitmaken, met een uiteenzetting van de relatie met de gelieerde partijen en het land van vestiging van de betreffende gelieerde partijen indien dit niet Nederland is;  
+f. indien van toepassing: beleggingen in met de maatschappij voor collectieve belegging in effecten, beheerder van een icbe of bewaarder van een icbe gelieerde partijen, niet zijnde beleggingsinstellingen of icbe’s, die meer dan tien procent van het vermogen van de gelieerde partij of van het beheerde vermogen van de icbe uitmaken, met een uiteenzetting van de relatie met de gelieerde partijen en het land van vestiging van de betreffende gelieerde partijen indien dit niet Nederland is;  
 
-g. indien de beheerder of bewaarder in het kader van het beheer van de beleggingsinstelling onderscheidenlijk de bewaring van de activa van de beleggingsinstelling werkzaamheden heeft uitbesteed: de naam van degene aan wie werkzaamheden zijn uitbesteed en een beschrijving van de werkzaamheden die zijn uitbesteed;  
+g. indien de beheerder van een icbe of bewaarder van een icbe in het kader van het beheer van de icbe onderscheidenlijk de bewaring van de activa van de icbe werkzaamheden heeft uitbesteed: de naam van degene aan wie werkzaamheden zijn uitbesteed en een beschrijving van de werkzaamheden die zijn uitbesteed;  
 
 h. indien financiële instrumenten worden in- of uitgeleend: 
 
 1°. de waarde van de in- en uitgeleende financiële instrumenten; deze informatie dient in de toelichting op de balans onder de balanspost financiële instrumenten te worden vermeld; en  
 
-2°. de zekerheden die de beleggingsinstelling heeft verkregen;    
+2°. de zekerheden die de icbe heeft verkregen;    
 
-i. indien de beleggingsinstelling gemiddeld twintig procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: 
+i. indien de icbe gemiddeld twintig procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: 
 
-1°. waar de meest recente jaarrekening en het meest recente jaarverslag van de andere beleggingsinstelling verkrijgbaar zijn;  
+1°. waar de meest recente jaarrekening en het meest recente jaarverslag van de andere beleggingsinstelling of icbe verkrijgbaar zijn;  
 
-2°. of en, zo ja, waar de andere beleggingsinstelling onder toezicht staat;  
+2°. of en, zo ja, waar de andere beleggingsinstelling of icbe onder toezicht staat;  
 
-3°. het relatieve belang van de beleggingsinstelling in de andere beleggingsinstelling aan het begin en het einde van het boekjaar van de beleggingsinstelling;  
+3°. het relatieve belang van de icbe in de andere beleggingsinstelling of icbe aan het begin en het einde van het boekjaar van de icbe;  
 
-4°. de intrinsieke waarde van de rechten van deelneming in de andere beleggingsinstelling aan het einde van het meest recente boekjaar van die andere beleggingsinstelling;  
+4°. de intrinsieke waarde van de rechten van deelneming in de andere beleggingsinstelling of icbe aan het einde van het meest recente boekjaar van die andere beleggingsinstelling of icbe;  
 
-5°. de samenstelling van de beleggingsportefeuille van de andere beleggingsinstelling aan het begin en het einde van het meest recente boekjaar van die andere beleggingsinstelling;  
+5°. de samenstelling van de beleggingsportefeuille van de andere beleggingsinstelling of icbe aan het begin en het einde van het meest recente boekjaar van die andere beleggingsinstelling of icbe;  
 
-6°. een beschrijving van het beleggingsresultaat van de andere beleggingsinstelling aan de hand van de meest recente jaarrekening van die andere beleggingsinstelling; en  
+6°. een beschrijving van het beleggingsresultaat van de andere beleggingsinstelling of icbe aan de hand van de meest recente jaarrekening van die andere beleggingsinstelling of icbe; en  
 
-7°. indien van toepassing: de afspraken tussen de beleggingsinstelling en de andere beleggingsinstelling over de verdeling van kosten en aan wie het voordeel ten goede komt; en    
+7°. indien van toepassing: de afspraken tussen de icbe en de andere beleggingsinstelling of icbe over de verdeling van kosten en aan wie het voordeel ten goede komt; en    
 
-j. indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: het beleggingsbeleid van de andere beleggingsinstelling.     
+j. indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: het beleggingsbeleid van de andere beleggingsinstelling of icbe.     
 2.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in het eerste lid, wordt opgenomen in de jaarrekening.   
 
 ### Artikel  125  
 
-1.  De halfjaarcijfers van een beleggingsinstelling bevatten ten minste de volgende gegevens: 
+1.  De halfjaarcijfers van een icbe bevatten ten minste de volgende gegevens: 
 
-a. de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen van de beleggingsmaatschappij of van het beheerde vermogen van het beleggingsfonds met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden;  
+a. de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen van de maatschappij voor collectieve belegging in effecten of van het beheerde vermogen van het fonds voor collectieve belegging in effecten met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden;  
 
-b. een overzicht van de samenstelling van de activa van de beleggingsinstelling;  
+b. een overzicht van de samenstelling van de activa van de icbe;  
 
-c. een opgave van de intrinsieke waarde van de beleggingsinstelling en het aantal uitstaande rechten van deelneming en de intrinsieke waarde per recht van deelneming;  
+c. een opgave van de intrinsieke waarde van de icbe en het aantal uitstaande rechten van deelneming en de intrinsieke waarde per recht van deelneming;  
 
 d. indien van toepassing: de vermelding, bedoeld in artikel 122, tweede lid; en  
 
-e. indien van toepassing: een mededeling dat de beleggingsinstelling interimdividend heeft uitgekeerd of voornemens is dat te doen.     
-2.  De halfjaarcijfers van een beheerder bevatten ten minste de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikel 403](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of de internationale jaarrekeningstandaarden.   
-3.  Indien de halfjaarcijfers van de beheerder of de beleggingsinstelling door een accountant zijn onderzocht, wordt diens verklaring gevoegd bij de stukken die ingevolge [artikel 4:51, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Autoriteit Financiële Markten worden verstrekt.   
-
-### §  10.3.2  
-
-####Aanvullende regels voor beheerders van instellingen voor collectieve belegging in effecten en instellingen voor collectieve belegging in effecten
-
-Bepalingen ter uitvoering van de [artikelen 4:56, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:59a, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:59b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:59e, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:60, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+e. indien van toepassing: een mededeling dat de icbe interimdividend heeft uitgekeerd of voornemens is dat te doen.     
+2.  De halfjaarcijfers van een beheerder van een icbe bevatten ten minste de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikel 403](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of de internationale jaarrekeningstandaarden.   
+3.  Indien de halfjaarcijfers van de beheerder van een icbe of de icbe door een accountant zijn onderzocht, wordt diens verklaring gevoegd bij de stukken die ingevolge [artikel 4:51, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Autoriteit Financiële Markten worden verstrekt.   
 
 ### Artikel  126  
 
-1.  [Artikel 4:56, eerste lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op instellingen voor collectieve belegging in effecten die beleggingsmaatschappij zijn waarvan de rechten van deelneming zijn toegelaten tot de notering op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is en die uitsluitend op dat handelsplatform worden verhandeld. De statuten van de beleggingsmaatschappij vermelden in dat geval de methoden voor de berekening van de intrinsieke waarde van die rechten.   
-2.  [Artikel 4:56, eerste lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is tevens niet van toepassing op instellingen voor collectieve beleggingen in effecten die beleggingsmaatschappij zijn waarvan de rechten van deelneming voor ten minste tachtig procent op een in de statuten vermeld handelsplatform worden verhandeld, indien: 
+1.  [Artikel 4:56, eerste lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op icbe’s die maatschappij voor collectieve belegging in effecten zijn waarvan de rechten van deelneming zijn toegelaten tot de notering op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is en die uitsluitend op dat handelsplatform worden verhandeld. De statuten van de maatschappij voor collectieve belegging in effecten vermelden in dat geval de methoden voor de berekening van de intrinsieke waarde van die rechten.   
+2.  [Artikel 4:56, eerste lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is tevens niet van toepassing op icbe’s die maatschappij voor collectieve belegging in effecten zijn waarvan de rechten van deelneming voor ten minste tachtig procent op een in de statuten vermeld handelsplatform worden verhandeld, indien: 
 
-a. de belangen van de deelnemers in de beleggingsmaatschappij worden beschermd op een wijze die gelijkwaardig is aan de bescherming uit hoofde van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en dit besluit;  
+a. de belangen van de deelnemers in de maatschappij voor collectieve belegging in effecten worden beschermd op een wijze die gelijkwaardig is aan de bescherming uit hoofde van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en dit besluit;  
 
 b. de rechten van deelneming zijn toegelaten tot de notering op een handelsplatform van de lidstaat waar zij verhandeld worden;  
 
-c. de door de beleggingsmaatschappij niet op het handelsplatform verrichte transacties in haar rechten van deelneming slechts tegen beurskoers plaatsvinden;  
+c. de door de maatschappij voor collectieve belegging in effecten niet op het handelsplatform verrichte transacties in haar rechten van deelneming slechts tegen beurskoers plaatsvinden;  
 
-d. de statuten het handelsplatform vermelden waarvan de notering de prijs bepaalt voor de transacties die door de beleggingsmaatschappij in de staat waar dat handelsplatform is gelegen, buiten het handelsplatform worden verricht; en  
+d. de statuten het handelsplatform vermelden waarvan de notering de prijs bepaalt voor de transacties die door de maatschappij voor collectieve belegging in effecten in de staat waar dat handelsplatform is gelegen, buiten het handelsplatform worden verricht; en  
 
 e. de statuten de methoden voor de berekening van de intrinsieke waarde van de rechten van deelneming vermelden.     
 
 ### Artikel  126a  
 
-1.  Het beleid ter zake van het voorkomen van belangenconflicten, bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is gericht op het herkennen van in ieder geval de volgende situaties waarbij een beheerder van een instelling voor collectieve belegging in effecten, een relevante persoon of een persoon die met de beheerder is verbonden door een zeggenschapsband: 
+1.  Het beleid ter zake van het voorkomen van belangenconflicten, bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is gericht op het herkennen van in ieder geval de volgende situaties waarbij een beheerder van een icbe, een relevante persoon of een persoon die met de beheerder is verbonden door een zeggenschapsband: 
 
-a. financieel gewin kan behalen of een financieel verlies kan vermijden ten koste van de instelling voor collectieve belegging in effecten;  
+a. financieel gewin kan behalen of een financieel verlies kan vermijden ten koste van de icbe;  
 
-b. een belang heeft bij het resultaat van een ten behoeve van de instelling voor collectieve belegging in effecten of een cliënt verrichte dienst of activiteit of een namens de instelling voor collectieve belegging in effecten of cliënt uitgevoerde transactie, dat verschilt van het belang van de instelling voor collectieve belegging in effecten bij dit resultaat;  
+b. een belang heeft bij het resultaat van een ten behoeve van de icbe of een cliënt verrichte dienst of activiteit of een namens de icbe of cliënt uitgevoerde transactie, dat verschilt van het belang van de icbe bij dit resultaat;  
 
-c. een financiële of andere drijfveer heeft om het belang van een andere cliënt of groep cliënten te laten voorgaan boven het belang van de instelling voor collectieve belegging in effecten;  
+c. een financiële of andere drijfveer heeft om het belang van een andere cliënt of groep cliënten te laten voorgaan boven het belang van de icbe;  
 
-d. dezelfde werkzaamheden uitoefent voor de instelling voor collectieve belegging in effecten en voor een cliënt die geen instelling voor collectieve belegging in effecten is; of  
+d. dezelfde werkzaamheden uitoefent voor de icbe en voor een cliënt die geen icbe is; of  
 
-e. van een andere persoon dan de cliënt ten behoeve van de cliënt verrichte werkzaamheden in verband met het beheer van instellingen voor collectieve belegging in effecten een provisie ontvangt die verschilt van de gebruikelijke provisie voor deze dienst, of een dergelijke provisie zal ontvangen.     
+e. van een andere persoon dan de cliënt ten behoeve van de cliënt verrichte werkzaamheden in verband met het beheer van icbe's een provisie ontvangt die verschilt van de gebruikelijke provisie voor deze dienst, of een dergelijke provisie zal ontvangen.     
 2.  De beheerder houdt bij het bepalen van de soorten van belangenconflicten rekening met: 
 
-a. zijn eigen belang, inclusief de belangen die voortvloeien uit het feit dat hij deel uitmaakt van een groep of uit het verrichten van diensten en activiteiten, de belangen van cliënten en de verplichtingen van de beheerder ten opzichte van de instelling voor collectieve belegging in effecten; en  
+a. zijn eigen belang, inclusief de belangen die voortvloeien uit het feit dat hij deel uitmaakt van een groep of uit het verrichten van diensten en activiteiten, de belangen van cliënten en de verplichtingen van de beheerder ten opzichte van de icbe; en  
 
-b. de belangen van door hem beheerde instellingen voor collectieve belegging in effecten.     
+b. de belangen van door hem beheerde icbe's.     
 
 ### Artikel  126b  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten legt het beleid, bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de aard, omvang en complexiteit van zijn bedrijf.   
+1.  Een beheerder van een icbe legt het beleid, bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de aard, omvang en complexiteit van zijn bedrijf.   
 2.  Indien de beheerder deel uitmaakt van een groep, heeft het beleid ook betrekking op belangenconflicten die kunnen ontstaan als gevolg van de structuur en bedrijfsactiviteiten van andere ondernemingen die deel uitmaken van de groep.   
-3.  Het beleid omschrijft, onder verwijzing naar de werkzaamheden in verband met het beheer van instellingen voor collectieve belegging in effecten die door of in naam van de beheerder worden verricht, de omstandigheden die een belangenconflict vormen of kunnen doen ontstaan dat een wezenlijk risico met zich brengt dat de belangen van de instelling voor collectieve belegging in effecten of van een of meer cliënten worden geschaad, alsmede de te volgen procedures en te nemen maatregelen voor het omgaan met een dergelijk conflict.   
+3.  Het beleid omschrijft, onder verwijzing naar de werkzaamheden in verband met het beheer van icbe’s die door of in naam van de beheerder worden verricht, de omstandigheden die een belangenconflict vormen of kunnen doen ontstaan dat een wezenlijk risico met zich brengt dat de belangen van de icbe of van een of meer cliënten worden geschaad, alsmede de te volgen procedures en te nemen maatregelen voor het omgaan met een dergelijk conflict.   
 4.  Het beleid vermeldt de te volgen procedures en te nemen maatregelen voor het beheersen van een belangenconflict als bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  126c  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten beschikt over een adequate en effectieve strategie en daarbij behorend beleid waaruit blijkt wanneer en op welke wijze de stemrechten die zijn verbonden aan financiële instrumenten waarin de instelling voor collectieve belegging in effecten belegt, zullen worden uitgeoefend in het uitsluitende voordeel van de betrokken instelling voor collectieve belegging in effecten.   
+1.  Een beheerder van een icbe beschikt over een adequate en effectieve strategie en daarbij behorend beleid waaruit blijkt wanneer en op welke wijze de stemrechten die zijn verbonden aan financiële instrumenten waarin de icbe belegt, zullen worden uitgeoefend in het uitsluitende voordeel van de betrokken icbe.   
 2.  De strategie omvat maatregelen en procedures voor: 
 
 a. het monitoren van relevante gebeurtenissen binnen de onderneming;  
 
-b. het garanderen dat de uitoefening van stemrechten in overeenstemming met de beleggingsdoelstellingen en het beleggingsbeleid van de betrokken instelling voor collectieve belegging in effecten plaatsvindt; en  
+b. het garanderen dat de uitoefening van stemrechten in overeenstemming met de beleggingsdoelstellingen en het beleggingsbeleid van de betrokken icbe plaatsvindt; en  
 
 c. het voorkomen of beheersen van eventuele belangenconflicten die uit de uitoefening van stemrechten voortvloeien.     
-3.  De beheerder stelt een samenvatting van de strategie beschikbaar aan de deelnemers van de door hem beheerde instellingen voor collectieve belegging in effecten.   
-4.  De beheerder verstrekt kosteloos op verzoek informatie met betrekking tot bijzonderheden over de genomen maatregelen op grond van de strategie aan de deelnemers van de door hem beheerde instellingen voor collectieve belegging in effecten.   
+3.  De beheerder stelt een samenvatting van de strategie beschikbaar aan de deelnemers van de door hem beheerde icbe's.   
+4.  De beheerder verstrekt kosteloos op verzoek informatie met betrekking tot bijzonderheden over de genomen maatregelen op grond van de strategie aan de deelnemers van de door hem beheerde icbe's.   
 
 ### Artikel  126d  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten die een opdracht van een deelnemer tot inschrijving of terugbetaling van rechten van deelneming uitvoert, geeft de deelnemer onverwijld en uiterlijk op de eerste werkdag na uitvoering van de opdracht kennis van de uitvoering op een duurzame drager.   
+1.  Een beheerder van een icbe die een opdracht van een deelnemer tot inschrijving of terugbetaling van rechten van deelneming uitvoert, geeft de deelnemer onverwijld en uiterlijk op de eerste werkdag na uitvoering van de opdracht kennis van de uitvoering op een duurzame drager.   
 2.  Indien de beheerder een bevestiging van de uitvoering van de opdracht ontvangt van een derde, stelt de beheerder de deelnemer daarvan in kennis uiterlijk op de eerste werkdag na ontvangst van de bevestiging van de derde, tenzij de derde de deelnemer reeds onmiddellijk in kennis heeft gesteld.   
-3.  Indien een beheerder periodiek voor een deelnemer opdrachten tot inschrijving of terugbetaling van rechten van deelneming in een instelling voor collectieve belegging in effecten uitvoert, kan een beheerder de kennisgeving, bedoeld in het eerste en tweede lid, eenmaal per zes maanden verstrekken.   
+3.  Indien een beheerder periodiek voor een deelnemer opdrachten tot inschrijving of terugbetaling van rechten van deelneming in een icbe uitvoert, kan een beheerder de kennisgeving, bedoeld in het eerste en tweede lid, eenmaal per zes maanden verstrekken.   
 4.  Een beheerder verstrekt de deelnemer desgevraagd informatie over de status van zijn opdracht tot inschrijving of terugbetaling.   
 5.  De kennisgeving, bedoeld in het eerste en tweede lid, bevat, voor zover van toepassing, de volgende informatie: 
 
@@ -3424,7 +3717,7 @@ c. de datum en het tijdstip van de opdracht tot inschrijving of terugbetaling en
 
 d. de datum van uitvoering;  
 
-e. de identificatiegegevens van de instelling voor collectieve belegging in effecten;  
+e. de identificatiegegevens van de icbe;  
 
 f. de aard van de opdracht;  
 
@@ -3440,60 +3733,60 @@ k. de totale kosten die in rekening zijn gebracht en, indien de deelnemer daarom
 
 ### Artikel  126e  
 
-1.  Een beheerder die orders van instellingen voor collectieve belegging in effecten uitvoert: 
+1.  Een beheerder van een icbe die orders van icbe's uitvoert: 
 
-a. registreert orders die in naam van instellingen voor collectieve belegging in effecten worden uitgevoerd onmiddellijk en correct en wijst deze orders onmiddellijk en correct toe; en  
+a. registreert orders die in naam van icbe's worden uitgevoerd onmiddellijk en correct en wijst deze orders onmiddellijk en correct toe; en  
 
-b. voert vergelijkbare orders van instellingen voor collectieve belegging in effecten in volgorde van ontvangst en onmiddellijk uit, tenzij de aard van de order of de heersende marktomstandigheden dit onmogelijk maken of in het belang van de instelling voor collectieve belegging in effecten anders moet worden gehandeld.     
-2.  Een beheerder die verantwoordelijk is voor de controle op of de afwikkeling van een uitgevoerde order neemt alle redelijke maatregelen om ervoor te zorgen dat alle financiële instrumenten of gelden die bij de afwikkeling van de uitgevoerde order worden ontvangen, onmiddellijk op correcte wijze op de rekening van de instelling voor collectieve belegging in effecten worden bijgeschreven.   
-3.  Een beheerder maakt geen misbruik van informatie over lopende orders van instellingen voor collectieve belegging in effecten en neemt alle redelijke maatregelen om misbruik van dergelijke informatie door zijn medewerkers te voorkomen.   
+b. voert vergelijkbare orders van icbe's in volgorde van ontvangst en onmiddellijk uit, tenzij de aard van de order of de heersende marktomstandigheden dit onmogelijk maken of in het belang van de icbe anders moet worden gehandeld.     
+2.  Een beheerder van een icbe die verantwoordelijk is voor de controle op of de afwikkeling van een uitgevoerde order neemt alle redelijke maatregelen om ervoor te zorgen dat alle financiële instrumenten of gelden die bij de afwikkeling van de uitgevoerde order worden ontvangen, onmiddellijk op correcte wijze op de rekening van de icbe worden bijgeschreven.   
+3.  Een beheerder van een icbe maakt geen misbruik van informatie over lopende orders van icbe's en neemt alle redelijke maatregelen om misbruik van dergelijke informatie door zijn medewerkers te voorkomen.   
 
 ### Artikel  126f  
 
-1.  Een beheerder voert een order in naam van een instelling voor collectieve belegging in effecten of een transactie voor eigen rekening niet samen met een andere order van een instelling voor collectieve belegging in effecten of cliënt, tenzij: 
+1.  Een beheerder van een icbe voert een order in naam van een icbe of een transactie voor eigen rekening niet samen met een andere order van een icbe of cliënt, tenzij: 
 
-a. het onwaarschijnlijk is dat de samenvoeging van de orders en transacties nadelig is voor de betrokken instelling voor collectieve belegging in effecten of cliënt; en  
+a. het onwaarschijnlijk is dat de samenvoeging van de orders en transacties nadelig is voor de betrokken icbe of cliënt; en  
 
 b. hij een ordertoewijzingsbeleid heeft vastgesteld en geïmplementeerd dat voldoende nauwkeurig voorziet in een billijke toewijzing van samengevoegde orders en transacties en dat onder meer voorschrijft hoe het volume en de prijs van orders bepalend zijn voor de toewijzingen en de behandeling van gedeeltelijke uitvoeringen.     
-2.  Indien een beheerder een order samenvoegt met andere orders van instellingen voor collectieve belegging in effecten of cliënten en de samengevoegde order slechts ten dele wordt uitgevoerd, wijst hij de desbetreffende transacties toe overeenkomstig zijn ordertoewijzingsbeleid.   
+2.  Indien een beheerder van een icbe een order samenvoegt met andere orders van icbe's of cliënten en de samengevoegde order slechts ten dele wordt uitgevoerd, wijst hij de desbetreffende transacties toe overeenkomstig zijn ordertoewijzingsbeleid.   
 
 ### Artikel  126g  
 
-1.  Een beheerder die een transactie voor eigen rekening samenvoegt met een order van een instelling voor collectieve belegging in effecten of cliënt, wijst de desbetreffende transactie niet toe op een voor de instelling voor collectieve belegging in effecten respectievelijk cliënt nadelige wijze.   
-2.  Indien een beheerder een order van een instelling voor collectieve belegging in effecten of cliënt samenvoegt met een transactie voor eigen rekening en de samengevoegde order slechts ten dele wordt uitgevoerd, geeft hij de order van de instelling voor collectieve belegging in effecten of cliënt bij de toewijzing van de desbetreffende transactie voorrang op zijn eigen transactie. Het is de beheerder slechts toegestaan een transactie als bedoeld in de vorige volzin naar evenredigheid toe te wijzen overeenkomstig zijn orderuitvoeringsbeleid, bedoeld in artikel 126f, eerste lid, onderdeel b, indien hij kan aantonen dat de order van de instelling voor collectieve belegging in effecten of cliënt niet of niet op dezelfde gunstige voorwaarden had kunnen uitvoeren als deze niet was samengevoegd.   
+1.  Een beheerder van een icbe die een transactie voor eigen rekening samenvoegt met een order van een icbe of cliënt, wijst de desbetreffende transactie niet toe op een voor de icbe respectievelijk cliënt nadelige wijze.   
+2.  Indien een beheerder van een icbe een order van een icbe of cliënt samenvoegt met een transactie voor eigen rekening en de samengevoegde order slechts ten dele wordt uitgevoerd, geeft hij de order van de icbe of cliënt bij de toewijzing van de desbetreffende transactie voorrang op zijn eigen transactie. Het is de beheerder van een icbe slechts toegestaan een transactie als bedoeld in de vorige volzin naar evenredigheid toe te wijzen overeenkomstig zijn orderuitvoeringsbeleid, bedoeld in artikel 126f, eerste lid, onderdeel b, indien hij kan aantonen dat de order van de icbe of cliënt niet of niet op dezelfde gunstige voorwaarden had kunnen uitvoeren als deze niet was samengevoegd.   
 
 ### Artikel  126h  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten verschaft of ontvangt voor het beheer van de beleggingen of administratie ten behoeve van een instelling voor collectieve belegging in effecten geen beloning of vergoeding, in welke vorm dan ook, die niet noodzakelijk is voor het beheer van de beleggingen of administratie of dit mogelijk maakt.   
+1.  Een beheerder van een icbe verschaft of ontvangt voor het beheer van de beleggingen of administratie ten behoeve van een icbe geen beloning of vergoeding, in welke vorm dan ook, die niet noodzakelijk is voor het beheer van de beleggingen of administratie of dit mogelijk maakt.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a. beloningen of vergoedingen die worden verschaft door of aan de instelling voor collectieve belegging in effecten of degene die namens de instelling voor collectieve belegging in effecten optreedt; en  
+a. beloningen of vergoedingen die worden verschaft door of aan de icbe of degene die namens de icbe optreedt; en  
 
 b. beloningen of vergoedingen die worden verschaft door of aan een derde of degene die namens de derde optreedt, indien: 
 
-1°. de instelling voor collectieve belegging in effecten op uitvoerige, accurate en begrijpelijke wijze mededeling wordt gedaan van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening daarvan, van de beloning of vergoeding voordat tot het beheren van beleggingen of administratie ten behoeve van de instelling voor collectieve belegging in effecten wordt overgegaan; en  
+1°. de icbe op uitvoerige, accurate en begrijpelijke wijze mededeling wordt gedaan van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening daarvan, van de beloning of vergoeding voordat tot het beheren van beleggingen of administratie ten behoeve van de icbe wordt overgegaan; en  
 
-2°. de verschaffing van de beloning of vergoeding de kwaliteit van het beheren van beleggingen of administratie ten behoeve van de instelling voor collectieve belegging in effecten ten goede komt en geen afbreuk doet aan de verplichting van de beheerder om zich in te zetten voor de belangen van de instelling voor collectieve belegging in effecten.       
+2°. de verschaffing van de beloning of vergoeding de kwaliteit van het beheren van beleggingen of administratie ten behoeve van de icbe ten goede komt en geen afbreuk doet aan de verplichting van de beheerder om zich in te zetten voor de belangen van de icbe.       
 3.  De beheerder voldoet aan de voorwaarde, bedoeld in het tweede lid, aanhef en onderdeel b, onder 1°, indien hij in samengevatte vorm mededeling doet van de essentiële voorwaarden van de regelingen voor beloningen of vergoedingen en hij de deelnemers informeert over de mogelijkheid om nadere informatie te verkrijgen en deze op verzoek van de deelnemer verstrekt.   
 
 ### Artikel  126i  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten neemt bij het selecteren en continu monitoren van beleggingen de nodige zorgvuldigheid in acht.   
-2.  Een beheerder van een instelling voor collectieve belegging in effecten heeft voldoende kennis en begrip van de activa waarin de door hem beheerde instellingen voor collectieve belegging in effecten beleggen.   
+1.  Een beheerder van een icbe neemt bij het selecteren en continu monitoren van beleggingen de nodige zorgvuldigheid in acht.   
+2.  Een beheerder van een icbe heeft voldoende kennis en begrip van de activa waarin de door hem beheerde icbe's beleggen.   
 
 ### Artikel  126j  
 
-1.  Een beheerder van een instelling voor collectieve belegging in effecten zorgt ervoor dat billijke, correcte en transparante prijsbepalingsmodellen en waarderingssystemen worden aangewend.   
-2.  Een beheerder van een instelling voor collectieve belegging in effecten moet kunnen aantonen dat de deelnemingen in door hem beheerde instellingen voor collectieve belegging in effecten correct worden gewaardeerd.   
+1.  Een beheerder van een icbe zorgt ervoor dat billijke, correcte en transparante prijsbepalingsmodellen en waarderingssystemen worden aangewend.   
+2.  Een beheerder van een icbe moet kunnen aantonen dat de deelnemingen in door hem beheerde icbe's correct worden gewaardeerd.   
 
 ### Artikel  127  
 
-1.  Een instelling voor collectieve belegging in effecten als bedoeld in artikel 126 draagt een accountant op om zich ten minste eenmaal per kwartaal ervan te vergewissen dat de berekening van de waarde van rechten van deelneming plaatsvindt overeenkomstig haar statuten en dit besluit en dat de activa van de beleggingsmaatschappij zijn belegd in overeenstemming met haar statuten en met de artikelen 130 tot en met 143, waarbij tussen elk van de tijdstippen van vergewissing een periode van ten minste een week ligt.   
-2.  Een instelling voor collectieve beleggingen in effecten als bedoeld in artikel 126 koopt of verkoopt al dan niet door tussenkomst van een derde haar rechten van deelneming dan wel geeft deze uit, om te voorkomen dat de waarde van haar rechten van deelneming op het handelsplatform meer dan vijf procent afwijkt van de intrinsieke waarde.   
+1.  Een icbe als bedoeld in artikel 126 draagt een accountant op om zich ten minste eenmaal per kwartaal ervan te vergewissen dat de berekening van de waarde van rechten van deelneming plaatsvindt overeenkomstig haar statuten en dit besluit en dat de activa van de maatschappij voor collectieve belegging in effecten zijn belegd in overeenstemming met haar statuten en met de artikelen 130 tot en met 143, waarbij tussen elk van de tijdstippen van vergewissing een periode van ten minste een week ligt.   
+2.  Een icbe als bedoeld in artikel 126 koopt of verkoopt al dan niet door tussenkomst van een derde haar rechten van deelneming dan wel geeft deze uit, om te voorkomen dat de waarde van haar rechten van deelneming op het handelsplatform meer dan vijf procent afwijkt van de intrinsieke waarde.   
 
 ### Artikel  128  
 
-De statuten of het fondsreglement van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vermelden: 
+De statuten of het fondsreglement van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vermelden: 
 
 a. de wijze waarop de bepaling plaatsvindt van de prijs bij het aanbieden, de verkoop- of inkoopprijs, en het bedrag bij terugbetaling van de waarde van de rechten van deelneming; en  
 
@@ -3501,41 +3794,41 @@ b. de aard van de kosten die ten laste komen van het resultaat, in mindering wor
 
 ### Artikel  129  
 
-Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die belegt in rechten van deelneming in andere beleggingsinstellingen die door haar beheerder worden beheerd of die worden beheerd door een beheerder waarmee haar beheerder in een formele of feitelijke zeggenschapsstructuur is verbonden, brengt geen kosten in rekening voor inschrijving of aflossing ten aanzien van de rechten van deelneming in die andere beleggingsinstellingen.  
+Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die belegt in rechten van deelneming in andere beleggingsinstellingen die door haar beheerder worden beheerd of die worden beheerd door een beheerder waarmee haar beheerder in een formele of feitelijke zeggenschapsstructuur is verbonden, brengt geen kosten in rekening voor inschrijving of aflossing ten aanzien van de rechten van deelneming in die andere beleggingsinstellingen.  
 
 ### Artikel  130  
 
-Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt uitsluitend belegd in: 
+Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt uitsluitend belegd in: 
 
 a. effecten en geldmarktinstrumenten die zijn toegelaten tot de notering of worden verhandeld op een gereglementeerde markt of een multilaterale handelsfaciliteit;  
 
-b. effecten en geldmarktinstrumenten die zijn toegelaten tot de notering of worden verhandeld op een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, voorzover de statuten of het fondsreglement van de instelling voor collectieve belegging in effecten voorzien in belegging in deze financiële instrumenten;  
+b. effecten en geldmarktinstrumenten die zijn toegelaten tot de notering of worden verhandeld op een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, voorzover de statuten of het fondsreglement van de icbe voorzien in belegging in deze financiële instrumenten;  
 
-c. effecten waarvan het aannemelijk is dat zij binnen een jaar na emissie zullen worden toegelaten tot de notering of ter verhandeling zullen worden aangeboden op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is voorzover de statuten of het fondsreglement van de instelling voor collectieve belegging in effecten voorzien in belegging in deze financiële instrumenten;  
+c. effecten waarvan het aannemelijk is dat zij binnen een jaar na emissie zullen worden toegelaten tot de notering of ter verhandeling zullen worden aangeboden op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is voorzover de statuten of het fondsreglement van de icbe voorzien in belegging in deze financiële instrumenten;  
 
-d. rechten van deelneming in instellingen voor collectieve belegging in effecten voor het aanbieden waarvan op grond van [artikel 2:65 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een vergunning is verleend of in instellingen voor collectieve belegging in effecten die overeenkomstig de herziene richtlijn beleggingsinstellingen in een andere lidstaat zijn toegelaten, indien de betreffende instellingen voor collectieve belegging in effecten volgens hun statuten of fondsreglementen niet meer dan tien procent van hun beheerde vermogen beleggen in rechten van deelneming in andere beleggingsinstellingen;  
+d. rechten van deelneming in icbe’s voor het aanbieden waarvan op grond van [artikel 2:65 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een vergunning is verleend of in icbe’s die overeenkomstig de richtlijn instellingen voor collectieve belegging in effecten in een andere lidstaat zijn toegelaten, indien de betreffende icbe’s volgens hun statuten of fondsreglementen niet meer dan tien procent van hun beheerde vermogen beleggen in rechten van deelneming in andere beleggingsinstellingen;  
 
-e. rechten van deelneming in beleggingsinstellingen met zetel in een aangewezen staat of in beleggingsinstellingen waarop het toezicht naar het oordeel van de toezichthoudende instanties in andere lidstaten gelijkwaardig is aan de herziene richtlijn beleggingsinstellingen en ten aanzien waarvan de samenwerking tussen de toezichthouders en de toezichthoudende instanties genoegzaam is gewaarborgd, indien: 
+e. rechten van deelneming in beleggingsinstellingen met zetel in een aangewezen staat of in icbe’s waarop het toezicht naar het oordeel van de toezichthoudende instanties in andere lidstaten gelijkwaardig is aan de richtlijn instellingen voor collectieve belegging in effecten en ten aanzien waarvan de samenwerking tussen de toezichthouders en de toezichthoudende instanties genoegzaam is gewaarborgd, indien: 
 
-1°. de rechten van deelneming in de beleggingsinstellingen op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald;  
+1°. de rechten van deelneming in de beleggingsinstellingen of icbe’s op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald;  
 
-2°. het reglementaire of statutaire doel van de beleggingsinstellingen uitsluitend is het beleggen in effecten, geldmarktinstrumenten, deposito’s of financiële derivaten met toepassing van het beginsel van risicospreiding;  
+2°. het reglementaire of statutaire doel van de beleggingsinstellingen of icbe’s uitsluitend is het beleggen in effecten, geldmarktinstrumenten, deposito’s of financiële derivaten met toepassing van het beginsel van risicospreiding;  
 
-3°. de op de beleggingsinstellingen toepasselijke regels inzake scheiding van het vermogen, opnemen en verstrekken van leningen en verkopen van effecten en geldmarktinstrumenten vanuit een ongedekte positie gelijkwaardig zijn aan de voorschriften van de herziene richtlijn beleggingsinstellingen; en  
+3°. de op de beleggingsinstellingen of icbe’s toepasselijke regels inzake scheiding van het vermogen, opnemen en verstrekken van leningen en verkopen van effecten en geldmarktinstrumenten vanuit een ongedekte positie gelijkwaardig zijn aan de voorschriften van de richtlijn instellingen voor collectieve belegging in effecten; en  
 
-4°. de beleggingsinstellingen volgens hun statuten of fondsreglementen niet meer dan tien procent van hun beheerde vermogen beleggen in rechten van deelneming in andere beleggingsinstellingen;    
+4°. de beleggingsinstellingen of icbe’s volgens hun statuten of fondsreglementen niet meer dan tien procent van hun beheerde vermogen beleggen in rechten van deelneming in andere beleggingsinstellingen of icbe’s;    
 
 f. deposito’s;  
 
-g. financiële derivaten die zijn toegelaten tot de notering of worden verhandeld op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, voorzover de waarde afhankelijk is van de in dit artikel genoemde financiële instrumenten en deposito’s, financiële indices, rentetarieven, wisselkoersen of valuta’s waarin de instelling voor collectieve belegging in effecten krachtens haar statuten of reglementen mag beleggen;  
+g. financiële derivaten die zijn toegelaten tot de notering of worden verhandeld op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, voorzover de waarde afhankelijk is van de in dit artikel genoemde financiële instrumenten en deposito’s, financiële indices, rentetarieven, wisselkoersen of valuta’s waarin de icbe krachtens haar statuten of reglementen mag beleggen;  
 
 h. financiële derivaten die niet op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is worden verhandeld, indien: 
 
-1°. de waarde afhankelijk is van de in dit artikel genoemde financiële instrumenten en deposito’s, financiële indices, rentetarieven, wisselkoersen of valuta’s waarin instellingen voor collectieve belegging in effecten krachtens haar statuten of reglementen mag beleggen;  
+1°. de waarde afhankelijk is van de in dit artikel genoemde financiële instrumenten en deposito’s, financiële indices, rentetarieven, wisselkoersen of valuta’s waarin icbe’s krachtens haar statuten of reglementen mag beleggen;  
 
 2°. de tegenpartij een aan prudentieel toezicht onderworpen instelling is en behoort tot de categorieën die erkend zijn door de Autoriteit Financiële Markten of een toezichthoudende instantie in een andere lidstaat; en  
 
-3°. zij aan betrouwbare en verifieerbare dagelijkse waardering onderworpen zijn en te allen tijde tegen hun waarde in het economisch verkeer op initiatief van de instelling voor collectieve belegging in effecten kunnen worden verkocht, te gelde gemaakt of afgesloten door een compenserende transactie; of    
+3°. zij aan betrouwbare en verifieerbare dagelijkse waardering onderworpen zijn en te allen tijde tegen hun waarde in het economisch verkeer op initiatief van de icbe kunnen worden verkocht, te gelde gemaakt of afgesloten door een compenserende transactie; of    
 
 i. geldmarktinstrumenten die niet op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is worden verhandeld, indien de emissie of de emittent van deze instrumenten zelf aan regelgeving is onderworpen met het oog op de bescherming van beleggers en spaargelden, en deze instrumenten: 
 
@@ -3549,112 +3842,112 @@ i. geldmarktinstrumenten die niet op een gereglementeerde markt, een multilatera
 
 ### Artikel  131  
 
-1.  In afwijking van artikel 130 kan het beheerde vermogen van een instelling voor collectieve belegging in effecten: 
+1.  In afwijking van artikel 130 kan het beheerde vermogen van een icbe: 
 
 a. voor ten hoogste tien procent worden belegd in effecten en geldmarktinstrumenten die niet zijn toegelaten tot of worden verhandeld op een gereglementeerde markt of een andere markt in financiële instrumenten;  
 
-b. indien het een beleggingsmaatschappij betreft: worden belegd in zaken die rechtstreeks noodzakelijk zijn voor de uitoefening van haar werkzaamheid; of  
+b. indien het een maatschappij voor collectieve belegging in effecten betreft: worden belegd in zaken die rechtstreeks noodzakelijk zijn voor de uitoefening van haar werkzaamheid; of  
 
 c. worden aangehouden in accessoir liquide middelen.     
-2.  In afwijking van artikel 130 kan het beheerd vermogen van een feeder-instelling voor collectieve belegging in effecten voor maximaal vijftien procent: 
+2.  In afwijking van artikel 130 kan het beheerd vermogen van een feeder-icbe voor maximaal vijftien procent: 
 
 a. worden belegd in financiële derivaten, bedoeld in artikel 130, onderdelen g en h, die alleen met het doel om risico af te dekken mogen worden gebruikt;  
 
-b. indien het een beleggingsmaatschappij betreft: worden belegd in zaken die rechtstreeks noodzakelijk zijn voor de uitoefening van haar werkzaamheid; of  
+b. indien het een maatschappij voor collectieve belegging in effecten betreft: worden belegd in zaken die rechtstreeks noodzakelijk zijn voor de uitoefening van haar werkzaamheid; of  
 
 c. worden aangehouden in accessoir liquide middelen.     
 
 ### Artikel  132  
 
-Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet belegd in edele metalen of in certificaten die deze metalen vertegenwoordigen.  
+Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet belegd in edele metalen of in certificaten die deze metalen vertegenwoordigen.  
 
 ### Artikel  133  
 
-1.  De instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) doet de Autoriteit Financiële Markten ten minste jaarlijks mededeling van de tot haar activa behorende soorten financiële derivaten, de onderliggende risico’s, de kwantitatieve begrenzingen en de methodes die zijn gekozen om de aan transacties in deze financiële instrumenten verbonden risico’s te ramen.   
+1.  De icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) doet de Autoriteit Financiële Markten ten minste jaarlijks mededeling van de tot haar activa behorende soorten financiële derivaten, de onderliggende risico’s, de kwantitatieve begrenzingen en de methodes die zijn gekozen om de aan transacties in deze financiële instrumenten verbonden risico’s te ramen.   
 2.  De Autoriteit Financiële Markten evalueert de regelmatigheid en de volledigheid van de informatie, bedoeld in het eerste lid.   
-3.  Het totale risico van een instelling voor collectieve belegging in effecten wordt dagelijks berekend.   
-4.  Voor de berekening van het totale risico in financiële derivaten van een feeder-instelling voor collectieve belegging in effecten wordt het eigen directe risico in financiële derivaten, bedoeld in artikel 131, tweede lid, onderdeel a, van de feeder-instelling voor collectieve belegging gecombineerd met: 
+3.  Het totale risico van een icbe wordt dagelijks berekend.   
+4.  Voor de berekening van het totale risico in financiële derivaten van een feeder-icbe wordt het eigen directe risico in financiële derivaten, bedoeld in artikel 131, tweede lid, onderdeel a, van de feeder-icbe gecombineerd met: 
 
-a. het reële risico in financiële derivaten van de master-instelling voor collectieve belegging in effecten naar evenredigheid van de belegging van de feeder-instelling voor collectieve belegging in effecten in rechten van deelneming in de master-instelling voor collectieve belegging in effecten; of  
+a. het reële risico in financiële derivaten van de master-icbe naar evenredigheid van de belegging van de feeder-icbe in rechten van deelneming in de master-icbe; of  
 
-b. het potentiële totale maximumrisico in financiële derivaten dat de master-instelling voor collectieve belegging in effecten volgens haar fondsreglement of statuten, naar evenredigheid van de belegging van de feeder-instelling voor collectieve belegging in effecten in rechten van deelneming in de master-instelling voor collectieve belegging in effecten, mag aangaan.     
-5.  Het totale risico van de instelling voor collectieve belegging in effecten bedraagt niet meer dan tweemaal de totale nettowaarde van de activa. Het totale risico van een beleggingsinstelling wordt met niet meer dan tien procent van de totale nettowaarde van haar portefeuille vergroot door het aangaan van kortlopende leningen, in welk geval het totale risico van de instelling voor collectieve belegging in effecten niet meer dan 210 procent bedraagt van de totale nettowaarde van haar portefeuille.   
-6.  Het totale risico van de instelling voor collectieve belegging in effecten in financiële derivaten overschrijdt niet de totale nettowaarde van de activa. Voor de berekening van het risico worden de dagwaarde van de onderliggende activa, het tegenpartijrisico, toekomstige marktbewegingen en de voor de liquidatie van de posities beschikbare tijd in aanmerking genomen.   
-7.  Het beheerde vermogen van de instelling voor collectieve belegging in effecten kan in het kader van het beleggingsbeleid en binnen de in artikel 137 gestelde begrenzingen worden belegd in financiële derivaten voorzover het risico met betrekking tot de onderliggende activa in totaal niet de in de artikelen 134, 135, 136, eerste lid, en 137 gestelde begrenzingen overschrijdt. Indien het beheerde vermogen van de instelling voor collectieve belegging in effecten in op een index gebaseerde financiële derivaten wordt belegd, worden die beleggingen voor de toepassing van de in de artikelen 134, 135, 136, eerste lid, en 137 gestelde begrenzingen bepaalde bovengrens niet samengeteld.   
+b. het potentiële totale maximumrisico in financiële derivaten dat de master-icbe volgens haar fondsreglement of statuten, naar evenredigheid van de belegging van de feeder-icbe in rechten van deelneming in de master-icbe, mag aangaan.     
+5.  Het totale risico van de icbe bedraagt niet meer dan tweemaal de totale nettowaarde van de activa. Het totale risico van een beleggingsinstelling wordt met niet meer dan tien procent van de totale nettowaarde van haar portefeuille vergroot door het aangaan van kortlopende leningen, in welk geval het totale risico van de icbe niet meer dan 210 procent bedraagt van de totale nettowaarde van haar portefeuille.   
+6.  Het totale risico van de icbe in financiële derivaten overschrijdt niet de totale nettowaarde van de activa. Voor de berekening van het risico worden de dagwaarde van de onderliggende activa, het tegenpartijrisico, toekomstige marktbewegingen en de voor de liquidatie van de posities beschikbare tijd in aanmerking genomen.   
+7.  Het beheerde vermogen van de icbe kan in het kader van het beleggingsbeleid en binnen de in artikel 137 gestelde begrenzingen worden belegd in financiële derivaten voorzover het risico met betrekking tot de onderliggende activa in totaal niet de in de artikelen 134, 135, 136, eerste lid, en 137 gestelde begrenzingen overschrijdt. Indien het beheerde vermogen van de icbe in op een index gebaseerde financiële derivaten wordt belegd, worden die beleggingen voor de toepassing van de in de artikelen 134, 135, 136, eerste lid, en 137 gestelde begrenzingen bepaalde bovengrens niet samengeteld.   
 8.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot de berekening van het risico, de wijze van vaststelling van de dagwaarde van de onderliggende activa, de soorten verplichtingen die leiden tot een tegenpartijrisico, het meewegen van toekomstige marktbewegingen bij de vaststelling en de methodes die mede afhankelijk van de aard van het financiële instrument waarin wordt belegd, voor berekening van de risico’s kunnen worden gehanteerd.   
 
 ### Artikel  134  
 
-1.  Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste tien procent belegd in effecten en geldmarktinstrumenten die zijn uitgegeven door dezelfde instelling. Een instelling voor collectieve belegging in effecten belegt niet meer dan twintig procent van het beheerde vermogen in deposito’s bij één bank.   
-2.  Het tegenpartijrisico van de instelling voor collectieve belegging in effecten bij een transactie in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bedraagt niet meer dan: 
+1.  Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste tien procent belegd in effecten en geldmarktinstrumenten die zijn uitgegeven door dezelfde instelling. Een icbe belegt niet meer dan twintig procent van het beheerde vermogen in deposito’s bij één bank.   
+2.  Het tegenpartijrisico van de icbe bij een transactie in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bedraagt niet meer dan: 
 
 a. tien procent van haar vermogen wanneer de tegenpartij een bank is; of  
 
 b. vijf procent van haar vermogen, in andere gevallen.     
-3.  De totale waarde van de effecten en de geldmarktinstrumenten die de instelling voor collectieve belegging in effecten houdt in uitgevende instellingen waarin zij per instelling voor meer dan vijf procent belegt, bedraagt niet meer dan veertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten. Deze begrenzing is niet van toepassing op deposito’s en transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bij onderscheidenlijk met instellingen die aan prudentieel toezicht onderworpen zijn.   
-4.  Onverminderd de in het eerste en tweede lid bepaalde individuele begrenzingen wordt het beheerde vermogen van de instelling voor collectieve belegging in effecten tot ten hoogste twintig procent belegd in één instelling in een combinatie van: 
+3.  De totale waarde van de effecten en de geldmarktinstrumenten die de icbe houdt in uitgevende instellingen waarin zij per instelling voor meer dan vijf procent belegt, bedraagt niet meer dan veertig procent van het beheerde vermogen van de icbe. Deze begrenzing is niet van toepassing op deposito’s en transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bij onderscheidenlijk met instellingen die aan prudentieel toezicht onderworpen zijn.   
+4.  Onverminderd de in het eerste en tweede lid bepaalde individuele begrenzingen wordt het beheerde vermogen van de icbe tot ten hoogste twintig procent belegd in één instelling in een combinatie van: 
 
 a. effecten en geldmarktinstrumenten die door die instelling zijn uitgegeven;  
 
 b. deposito’s bij die instelling; of  
 
 c. risico’s ten gevolge van transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, met betrekking tot die instelling.     
-5.  Bij de berekening van de door de instelling voor collectieve belegging in effecten gelopen risico’s bij beleggingen als bedoeld in het eerste tot en met vierde lid, wordt het risico bepaald aan de hand van het maximale verlies voor de instelling voor collectieve belegging in effecten wanneer een tegenpartij in gebreke blijft. De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de berekening van het tegenpartijrisico en de daarbij in aanmerking te nemen zekerheden als beperking van het door de instelling voor collectieve belegging in effecten gelopen tegenpartijrisico.   
+5.  Bij de berekening van de door de icbe gelopen risico’s bij beleggingen als bedoeld in het eerste tot en met vierde lid, wordt het risico bepaald aan de hand van het maximale verlies voor de icbe wanneer een tegenpartij in gebreke blijft. De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de berekening van het tegenpartijrisico en de daarbij in aanmerking te nemen zekerheden als beperking van het door de icbe gelopen tegenpartijrisico.   
 
 ### Artikel  135  
 
-1.  In afwijking van artikel 134 kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het [Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) van een bepaalde uitgevende bank.   
-2.  Indien het beheerde vermogen van een instelling voor collectieve belegging in effecten voor meer dan vijf procent wordt belegd in obligaties als bedoeld in het eerste lid die door één instelling zijn uitgegeven, bedraagt de totale waarde van deze beleggingen niet meer dan tachtig procent van de activa van die uitgevende instelling.   
+1.  In afwijking van artikel 134 kan het beheerde vermogen van een icbe tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het [Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) van een bepaalde uitgevende bank.   
+2.  Indien het beheerde vermogen van een icbe voor meer dan vijf procent wordt belegd in obligaties als bedoeld in het eerste lid die door één instelling zijn uitgegeven, bedraagt de totale waarde van deze beleggingen niet meer dan tachtig procent van de activa van die uitgevende instelling.   
 
 ### Artikel  136  
 
-1.  In afwijking van artikel 134, eerste lid, kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste vijfendertig procent worden belegd in effecten en geldmarktinstrumenten die zijn uitgegeven of gegarandeerd door een lidstaat, een openbaar lichaam met verordenende bevoegdheid in een lidstaat, een staat die geen lidstaat is, of een internationale organisatie waarin een of meer lidstaten deelnemen.   
-2.  De Autoriteit Financiële Markten kan een instelling voor collectieve belegging in effecten op aanvraag ontheffing verlenen van het eerste lid indien: 
+1.  In afwijking van artikel 134, eerste lid, kan het beheerde vermogen van een icbe tot ten hoogste vijfendertig procent worden belegd in effecten en geldmarktinstrumenten die zijn uitgegeven of gegarandeerd door een lidstaat, een openbaar lichaam met verordenende bevoegdheid in een lidstaat, een staat die geen lidstaat is, of een internationale organisatie waarin een of meer lidstaten deelnemen.   
+2.  De Autoriteit Financiële Markten kan een icbe op aanvraag ontheffing verlenen van het eerste lid indien: 
 
 a. zij effecten en geldmarktinstrumenten van ten minste zes verschillende emissies van een in het eerste lid bedoelde uitgevende staat, openbaar lichaam of internationale organisatie in portefeuille heeft;  
 
-b. de financiële instrumenten van een zelfde emissie niet meer bedragen dan dertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten;  
+b. de financiële instrumenten van een zelfde emissie niet meer bedragen dan dertig procent van het beheerde vermogen van de icbe;  
 
-c. de uitgevende staat, het openbaar lichaam of de internationale organisatie in de statuten of het fondsreglement van de instelling voor collectieve belegging in effecten wordt genoemd; en  
+c. de uitgevende staat, het openbaar lichaam of de internationale organisatie in de statuten of het fondsreglement van de icbe wordt genoemd; en  
 
-d. de deelnemers in de instelling voor collectieve belegging in effecten bescherming genieten die gelijkwaardig is aan de bescherming die voortvloeit uit het eerste lid en de artikelen 134, 135 en 137.     
+d. de deelnemers in de icbe bescherming genieten die gelijkwaardig is aan de bescherming die voortvloeit uit het eerste lid en de artikelen 134, 135 en 137.     
 
 ### Artikel  137  
 
 1.  De in de artikelen 135 en 136, eerste lid, bedoelde financiële instrumenten worden niet in aanmerking genomen voor de toepassing van de in artikel 134, derde lid, bedoelde begrenzing van veertig procent.   
-2.  De overeenkomstig de artikelen 134, 135, en 136, eerste lid, verrichte beleggingen in door één instelling uitgegeven effecten en geldmarktinstrumenten dan wel in deposito’s bij of financiële derivaten van die instelling, bedragen samen in geen geval meer dan vijfendertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten.   
-3.  Voor de berekening van de in de artikelen 134, 135, en 136, eerste lid, gestelde begrenzingen worden ondernemingen die tot een groep worden gerekend voor de opstelling van geconsolideerde jaarrekeningen, overeenkomstig de richtlijn geconsolideerde jaarrekening of andere erkende internationale financiële verslagleggingsregels, tezamen als een instelling beschouwd, met dien verstande dat de beleggingen, bedoeld in artikel 134, eerste lid, eerste volzin, in de afzonderlijke ondernemingen die tot die groep behoren ten hoogste twintig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten kunnen bedragen.   
-4.  De activa van beleggingsinstellingen in wier rechten van deelneming de instelling voor collectieve belegging in effecten belegt worden voor het vaststellen van de in artikelen 134, 135, 136, eerste lid, en 137 bedoelde begrenzingen niet opgeteld bij de beleggingen van de instelling voor collectieve belegging in effecten.   
+2.  De overeenkomstig de artikelen 134, 135, en 136, eerste lid, verrichte beleggingen in door één instelling uitgegeven effecten en geldmarktinstrumenten dan wel in deposito’s bij of financiële derivaten van die instelling, bedragen samen in geen geval meer dan vijfendertig procent van het beheerde vermogen van de icbe.   
+3.  Voor de berekening van de in de artikelen 134, 135, en 136, eerste lid, gestelde begrenzingen worden ondernemingen die tot een groep worden gerekend voor de opstelling van geconsolideerde jaarrekeningen, overeenkomstig de richtlijn geconsolideerde jaarrekening of andere erkende internationale financiële verslagleggingsregels, tezamen als een instelling beschouwd, met dien verstande dat de beleggingen, bedoeld in artikel 134, eerste lid, eerste volzin, in de afzonderlijke ondernemingen die tot die groep behoren ten hoogste twintig procent van het beheerde vermogen van de icbe kunnen bedragen.   
+4.  De activa van beleggingsinstellingen in wier rechten van deelneming de icbe belegt worden voor het vaststellen van de in artikelen 134, 135, 136, eerste lid, en 137 bedoelde begrenzingen niet opgeteld bij de beleggingen van de icbe.   
 
 ### Artikel  138  
 
-1.  In afwijking van artikel 134, eerste lid, kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste twintig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling indien in het fondsreglement of de statuten van de instelling voor collectieve belegging in effecten is bepaald dat het beleggingsbeleid van de instelling voor collectieve belegging in effecten erop is gericht de samenstelling van een bepaalde aandelen- of obligatie-index te volgen, en deze index voldoet aan de volgende voorwaarden: 
+1.  In afwijking van artikel 134, eerste lid, kan het beheerde vermogen van een icbe tot ten hoogste twintig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling indien in het fondsreglement of de statuten van de icbe is bepaald dat het beleggingsbeleid van de icbe erop is gericht de samenstelling van een bepaalde aandelen- of obligatie-index te volgen, en deze index voldoet aan de volgende voorwaarden: 
 
 a. de samenstelling van de index is gediversifieerd;  
 
 b. de index is representatief voor de markt waarop hij betrekking heeft; en  
 
 c. de index wordt op passende wijze bekendgemaakt.     
-2.  De Autoriteit Financiële Markten kan op aanvraag ontheffing verlenen van het eerste lid indien uitzonderlijke marktomstandigheden daartoe aanleiding geven. In dat geval kan het beheerde vermogen van de instelling voor collectieve belegging in effecten tot ten hoogste vijfendertig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling.   
+2.  De Autoriteit Financiële Markten kan op aanvraag ontheffing verlenen van het eerste lid indien uitzonderlijke marktomstandigheden daartoe aanleiding geven. In dat geval kan het beheerde vermogen van de icbe tot ten hoogste vijfendertig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling.   
 
 ### Artikel  139  
 
-1.  Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste twintig procent belegd in rechten van deelneming in beleggingsinstellingen als bedoeld in artikel 130, onderdeel d of e, die zijn uitgegeven door dezelfde beleggingsinstelling.   
-2.  De beleggingen in rechten van deelneming in beleggingsinstellingen als bedoeld in artikel 130, onderdeel e, bedragen in totaal niet meer dan dertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten.   
+1.  Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste twintig procent belegd in rechten van deelneming in beleggingsinstellingen of icbe’s als bedoeld in artikel 130, onderdeel d of e, die zijn uitgegeven door dezelfde beleggingsinstelling of icbe.   
+2.  De beleggingen in rechten van deelneming in beleggingsinstellingen of icbe’s als bedoeld in artikel 130, onderdeel e, bedragen in totaal niet meer dan dertig procent van het beheerde vermogen van de icbe.   
 
 ### Artikel  140  
 
-1.  Een beheerder verwerft, voor de door hem beheerde instellingen voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gezamenlijk, niet meer dan twintig procent van de aandelen met stemrecht in dezelfde uitgevende instelling.   
-2.  Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet belegd in meer dan: 
+1.  Een beheerder van een icbe verwerft, voor de door hem beheerde icbe’s als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gezamenlijk, niet meer dan twintig procent van de aandelen met stemrecht in dezelfde uitgevende instelling.   
+2.  Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet belegd in meer dan: 
 
 a. tien procent van de aandelen zonder stemrecht van dezelfde uitgevende instelling;  
 
 b. tien procent van de obligaties van dezelfde uitgevende instelling;  
 
-c. vijfentwintig procent van de rechten van deelneming in een beleggingsinstelling waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald van dezelfde beleggingsinstelling; of  
+c. vijfentwintig procent van de rechten van deelneming in een beleggingsinstelling of icbe’s waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald van dezelfde beleggingsinstelling of icbe’s; of  
 
 d. tien procent van de geldmarktinstrumenten van dezelfde uitgevende instelling.     
-3.  De begrenzingen, bedoeld in het tweede lid, aanhef en onderdelen b, c en d, hoeven niet in acht te worden genomen indien de bruto waarde van de obligaties of geldmarktinstrumenten of de nettowaarde van de rechten van deelneming in een beleggingsinstelling op het tijdstip van verwerving niet kan worden berekend.   
+3.  De begrenzingen, bedoeld in het tweede lid, aanhef en onderdelen b, c en d, hoeven niet in acht te worden genomen indien de bruto waarde van de obligaties of geldmarktinstrumenten of de nettowaarde van de rechten van deelneming in een beleggingsinstelling of icbe’s op het tijdstip van verwerving niet kan worden berekend.   
 
 ### Artikel  141  
 
@@ -3662,32 +3955,32 @@ Artikel 140, eerste en tweede lid, is niet van toepassing op het verwerven van o
 
 a. effecten en geldmarktinstrumenten die zijn uitgegeven of worden gegarandeerd door een lidstaat, een openbaar lichaam met verordenende bevoegdheid in een lidstaat, een staat die geen lidstaat is of een internationale organisatie waarin een of meer lidstaten deelnemen;  
 
-b. aandelen in het kapitaal van een rechtspersoon, gevestigd in een staat die geen lidstaat is, die met inachtneming van de begrenzingen, bedoeld in de artikelen 134, 135, 136, eerste lid, 137, 139 en 140 zijn vermogen in hoofdzaak belegt in effecten van uitgevende instellingen, gevestigd in die staat, wanneer krachtens de wet van die staat een dergelijke deelneming voor de instelling voor collectieve belegging in effecten de enige mogelijkheid is om in effecten van uitgevende instellingen in die staat te beleggen; of  
+b. aandelen in het kapitaal van een rechtspersoon, gevestigd in een staat die geen lidstaat is, die met inachtneming van de begrenzingen, bedoeld in de artikelen 134, 135, 136, eerste lid, 137, 139 en 140 zijn vermogen in hoofdzaak belegt in effecten van uitgevende instellingen, gevestigd in die staat, wanneer krachtens de wet van die staat een dergelijke deelneming voor de icbe de enige mogelijkheid is om in effecten van uitgevende instellingen in die staat te beleggen; of  
 
-c. aandelen in het kapitaal van een dochteronderneming van de beleggingsmaatschappij die uitsluitend ten behoeve van de beleggingsmaatschappij bepaalde beheers-, advies- of verhandelingswerkzaamheden verricht in de staat waar de dochteronderneming is gevestigd, met het oog op de inkoop van rechten van deelneming op verzoek van deelnemers.    
+c. aandelen in het kapitaal van een dochteronderneming van de maatschappij voor collectieve belegging in effecten die uitsluitend ten behoeve van de maatschappij voor collectieve belegging in effecten bepaalde beheers-, advies- of verhandelingswerkzaamheden verricht in de staat waar de dochteronderneming is gevestigd, met het oog op de inkoop van rechten van deelneming op verzoek van deelnemers.    
 
 ### Artikel  142  
 
-1.  De artikelen 134 tot en met 139 zijn gedurende zes maanden na het eerste aanbod van de rechten van deelneming in een instelling voor collectieve belegging in effecten niet van toepassing. De instelling voor collectieve belegging in effecten neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.   
-2.  De artikelen 134 tot en met 139 zijn gedurende zes maanden na een fusie niet van toepassing op een verkrijgende instelling voor collectieve belegging in effecten. De verkrijgende instelling voor collectieve belegging in effecten neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.   
+1.  De artikelen 134 tot en met 139 zijn gedurende zes maanden na het eerste aanbod van de rechten van deelneming in een icbe niet van toepassing. De icbe neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.   
+2.  De artikelen 134 tot en met 139 zijn gedurende zes maanden na een fusie niet van toepassing op een verkrijgende icbe. De verkrijgende icbe neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.   
 
 ### Artikel  143  
 
-1.  De in deze paragraaf gestelde begrenzingen gelden niet bij de uitoefening van voorkeurrechten die zijn verbonden aan effecten en geldmarktinstrumenten die deel uitmaken van de activa van de instelling voor collectieve belegging in effecten.   
-2.  Wanneer de in deze paragraaf gestelde begrenzingen buiten de wil van de instelling voor collectieve belegging in effecten of ten gevolge van de uitoefening van voorkeurrechten worden overschreden, treft de instelling voor collectieve belegging in effecten, met inachtneming van de belangen van de deelnemers, de nodige maatregelen opdat deze overschrijding zo snel mogelijk ongedaan wordt gemaakt.   
+1.  De in deze paragraaf gestelde begrenzingen gelden niet bij de uitoefening van voorkeurrechten die zijn verbonden aan effecten en geldmarktinstrumenten die deel uitmaken van de activa van de icbe.   
+2.  Wanneer de in deze paragraaf gestelde begrenzingen buiten de wil van de icbe of ten gevolge van de uitoefening van voorkeurrechten worden overschreden, treft de icbe, met inachtneming van de belangen van de deelnemers, de nodige maatregelen opdat deze overschrijding zo snel mogelijk ongedaan wordt gemaakt.   
 
 ### Artikel  144  
 
-Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) legt binnen vier weken na een verzoek daartoe van de Autoriteit Financiële Markten, dan wel binnen vier weken na afloop van het boekjaar, een mededeling van een accountant over aan de Autoriteit Financiële Markten waaruit blijkt dat de instelling voor collectieve belegging in effecten in overeenstemming heeft gehandeld met de artikelen 130 tot en met 143.  
+Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) legt binnen vier weken na een verzoek daartoe van de Autoriteit Financiële Markten, dan wel binnen vier weken na afloop van het boekjaar, een mededeling van een accountant over aan de Autoriteit Financiële Markten waaruit blijkt dat de icbe in overeenstemming heeft gehandeld met de artikelen 130 tot en met 143.  
 
 ### Artikel  145  
 
-1.  Gelijktijdig met de verkrijgbaarstelling van het prospectus, bedoeld in [artikel 4:50, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zendt de beheerder een afschrift van het prospectus en van de essentiële beleggersinformatie van de instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Autoriteit Financiële Markten.   
-2.  De beheerder van een instelling voor collectieve belegging in effecten zendt wijzigingen in de essentiële beleggersinformatie aan de Autoriteit Financiële markten.   
+1.  Gelijktijdig met de verkrijgbaarstelling van het prospectus, bedoeld in [artikel 4:50, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zendt de beheerder een afschrift van het prospectus en van de essentiële beleggersinformatie van de icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Autoriteit Financiële Markten.   
+2.  De beheerder van een icbe zendt wijzigingen in de essentiële beleggersinformatie aan de Autoriteit Financiële markten.   
 
 ### Artikel  146  
 
-1.  De balans en winst- en verliesrekening van een instelling voor collectieve belegging in effecten of de toelichtingen daarop bevatten de volgende gegevens: 
+1.  De balans en winst- en verliesrekening van een icbe of de toelichtingen daarop bevatten de volgende gegevens: 
 
 a. tegoeden bij banken;  
 
@@ -3701,7 +3994,7 @@ b. een onderscheid in de overzichten van de beleggingen, bedoeld in artikel 122,
 
 4°. financiële instrumenten als bedoeld in artikel 131, onderdeel a;    
 
-c. een sluitend overzicht van de gesaldeerde mutaties in de verslagperiode in het eigen vermogen van de beleggingsmaatschappij of het beheerde vermogen van het beleggingsfonds ten gevolge van en uitgesplitst naar: 
+c. een sluitend overzicht van de gesaldeerde mutaties in de verslagperiode in het eigen vermogen van de maatschappij voor collectieve belegging in effecten of het beheerde vermogen van het fonds voor collectieve belegging in effecten ten gevolge van en uitgesplitst naar: 
 
 1°. inkomsten uit beleggingen;  
 
@@ -3711,55 +4004,55 @@ c. een sluitend overzicht van de gesaldeerde mutaties in de verslagperiode in he
 
 4°. de bestemming, of voorgestelde bestemming, van het nettoresultaat;  
 
-5°. de vermeerdering of vermindering van het eigen vermogen van de beleggingsmaatschappij of van het beheerde vermogen van het beleggingsfonds;  
+5°. de vermeerdering of vermindering van het eigen vermogen van de maatschappij voor collectieve belegging in effecten of van het beheerde vermogen van het fonds voor collectieve belegging in effecten;  
 
 6°. meer- en minderwaarde op beleggingen; en  
 
 7°. overige mutaties van de activa en passiva; en    
 
 d. het bedrag van de verplichtingen onderscheiden naar soort aan het einde van het boekjaar die voortvloeien uit verrichtingen met betrekking tot financiële derivaten en voorzover deze niet reeds in de balans en de winst- en verliesrekening zijn opgenomen.     
-2.  Onverminderd artikel 125, eerste lid, neemt een instelling voor collectieve belegging in effecten in de halfjaarcijfers de gegevens op, bedoeld in het eerste lid, onderdelen a en b, zoals deze luidden aan het einde van de eerste helft van het boekjaar.   
+2.  Onverminderd artikel 125, eerste lid, neemt een icbe in de halfjaarcijfers de gegevens op, bedoeld in het eerste lid, onderdelen a en b, zoals deze luidden aan het einde van de eerste helft van het boekjaar.   
 
 ### Artikel  147  
 
-1.  Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) publiceert telkens wanneer zij of haar beheerder rechten van deelneming aanbiedt, verkoopt, inkoopt, of daarop terugbetaalt de koers, de verkoop- onderscheidenlijk inkoopprijs en het bedrag van de terugbetaling op de website van haar beheerder. De Autoriteit Financiële Markten kan op verzoek besluiten dat de instelling voor collectieve belegging in effecten deze bekendmaking eenmaal per maand doet, indien de belangen van de deelnemers daardoor niet worden geschaad.   
-2.  Het eerste lid is niet van toepassing op instellingen voor collectieve beleggingen in effecten als bedoeld in artikel 126, eerste lid.   
-3.  Onverminderd [artikel 4:46a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) brengt een instelling voor collectieve beleggingen in effecten als bedoeld in artikel 126 de intrinsieke waarde van de rechten van deelneming ten minste tweemaal per week ter kennis van de Autoriteit Financiële Markten en publiceert zij de intrinsieke waarde van de rechten van deelneming tweemaal per maand op de website van haar beheerder waarbij tussen elk van de tijdstippen van publicatie een periode van ten minste een week ligt.   
-4.  Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verschaft desgevraagd aan een deelnemer gegevens betreffende kwantitatieve begrenzingen die van toepassing zijn op het risicobeheer, de daartoe gekozen methodes en de recente ontwikkeling van de risico’s en rendementen van de voornaamste categorie financiële instrumenten.   
+1.  Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) publiceert telkens wanneer zij of haar beheerder rechten van deelneming aanbiedt, verkoopt, inkoopt, of daarop terugbetaalt de koers, de verkoop- onderscheidenlijk inkoopprijs en het bedrag van de terugbetaling op de website van haar beheerder. De Autoriteit Financiële Markten kan op verzoek besluiten dat de icbe deze bekendmaking eenmaal per maand doet, indien de belangen van de deelnemers daardoor niet worden geschaad.   
+2.  Het eerste lid is niet van toepassing op icbe’s als bedoeld in artikel 126, eerste lid.   
+3.  Onverminderd [artikel 4:46a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) brengt een icbe als bedoeld in artikel 126 de intrinsieke waarde van de rechten van deelneming ten minste tweemaal per week ter kennis van de Autoriteit Financiële Markten en publiceert zij de intrinsieke waarde van de rechten van deelneming tweemaal per maand op de website van haar beheerder waarbij tussen elk van de tijdstippen van publicatie een periode van ten minste een week ligt.   
+4.  Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verschaft desgevraagd aan een deelnemer gegevens betreffende kwantitatieve begrenzingen die van toepassing zijn op het risicobeheer, de daartoe gekozen methodes en de recente ontwikkeling van de risico’s en rendementen van de voornaamste categorie financiële instrumenten.   
 
 ### §  10.3.2.1  
 
-####Aanvullende regels voor master-instellingen voor collectieve belegging in effecten en feeder-instellingen voor collectieve belegging in effecten en de overeenkomst tussen de betrokken accountants en bewaarders
+####Aanvullende regels voor master-icbe en feeder-icbe en de overeenkomst tussen de betrokken accountants en bewaarders
 
 Bepalingen ter uitvoering van de [artikelen 4:57a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:57b, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:57c, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61a, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:61b, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  147a  
 
-1.  In afwijking van artikel 139, eerste lid, kan het beheerde vermogen van een instelling voor collectieve belegging in effecten voor meer dan twintig procent worden belegd in een bepaalde master-instelling voor collectieve belegging in effecten indien de Autoriteit Financiële Markten daarmee heeft ingestemd. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen vijftien werkdagen na ontvangst van de aanvraag van instemming.   
-2.  De Autoriteit Financiële Markten stemt met de aanvraag in, indien de beheerder aantoont dat de feeder-instelling voor collectieve belegging in effecten, haar bewaarder, haar accountant en de master-instelling voor collectieve belegging in effecten zullen voldoen aan het bepaalde ingevolge de [artikelen 4:57a tot en met 4:57c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en het bepaalde in deze paragraaf.   
+1.  In afwijking van artikel 139, eerste lid, kan het beheerde vermogen van een icbe voor meer dan twintig procent worden belegd in een bepaalde master-icbe indien de Autoriteit Financiële Markten daarmee heeft ingestemd. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen vijftien werkdagen na ontvangst van de aanvraag van instemming.   
+2.  De Autoriteit Financiële Markten stemt met de aanvraag in, indien de beheerder aantoont dat de feeder-icbe, haar bewaarder, haar accountant en de master-icbe zullen voldoen aan het bepaalde ingevolge de [artikelen 4:57a tot en met 4:57c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en het bepaalde in deze paragraaf.   
 3.  De aanvraag van instemming geschiedt onder opgave van de volgende gegevens: 
 
-a. het fondsreglement of de statuten van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten;  
+a. het fondsreglement of de statuten van de feeder-icbe en de master-icbe;  
 
-b. het prospectus en de essentiële beleggersinformatie van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten;  
+b. het prospectus en de essentiële beleggersinformatie van de feeder-icbe en de master-icbe;  
 
-c. de overeenkomst tot uitwisseling van informatie tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten, bedoeld in artikel 147b, eerste lid, of de interne regels met betrekking tot de bedrijfsvoering, bedoeld in artikel 147b, vierde lid;  
+c. de overeenkomst tot uitwisseling van informatie tussen de feeder-icbe en de master-icbe, bedoeld in artikel 147b, eerste lid, of de interne regels met betrekking tot de bedrijfsvoering, bedoeld in artikel 147b, vierde lid;  
 
 d. indien van toepassing, de aan de deelnemers te verstrekken informatie, bedoeld in artikel 147f, eerste lid;  
 
-e. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen de bewaarder van de feeder-instelling voor collectieve belegging in effecten en de bewaarder van de master-instelling voor collectieve belegging in effecten;  
+e. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen de bewaarder van de feeder-icbe en de bewaarder van de master-icbe;  
 
-f. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen de accountant van de feeder-instelling voor collectieve belegging in effecten en de accountant van de master-instelling voor collectieve belegging in effecten; en  
+f. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen de accountant van de feeder-icbe en de accountant van de master-icbe; en  
 
-g. indien het een master-instelling voor collectieve belegging in effecten met zetel in een andere lidstaat betreft: een verklaring van de toezichthoudende instantie van de lidstaat van de zetel van de master-instelling voor collectieve belegging in effecten dat deze een instelling voor collectieve belegging in effecten is en voldoet aan de onderdelen b en c, in de definitie van master-instelling voor collectieve belegging in effecten in artikel 1 van de wet.     
+g. indien het een master-icbe met zetel in een andere lidstaat betreft: een verklaring van de toezichthoudende instantie van de lidstaat van de zetel van de master-icbe dat deze een icbe is en voldoet aan de onderdelen b en c, in de definitie van master-icbe in artikel 1 van de wet.     
 4.  De gegevens, bedoeld in het derde lid, worden verstrekt in het Nederlands of in een taal die door de Autoriteit Financiële Markten is goedgekeurd.   
 
 ### Artikel  147b  
 
-1.  Een feeder-instelling voor collectieve belegging in effecten sluit een overeenkomst tot uitwisseling van informatie met de master-instelling voor collectieve belegging in effecten.   
-2.  De overeenkomst voorziet er in dat de master-instelling voor collectieve belegging in effecten alle informatie aan de feeder-instelling voor collectieve belegging in effecten verstrekt die de feeder-instelling voor collectieve belegging in effecten nodig heeft om te voldoen aan de regels die ingevolge de wet aan haar worden gesteld.   
-3.  De overeenkomst is op verzoek kosteloos beschikbaar voor de deelnemers van de feeder-instelling voor collectieve belegging in effecten.   
-4.  Indien de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten worden beheerd door dezelfde beheerder, kan in afwijking van het eerste lid, worden volstaan met bedrijfsvoeringsregels van de beheerder die waarborgen dat uitwisseling van informatie plaatsvindt tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten. Het tweede lid is van overeenkomstige toepassing op de interne bedrijfsvoeringsregels.   
+1.  Een feeder-icbe sluit een overeenkomst tot uitwisseling van informatie met de master-icbe.   
+2.  De overeenkomst voorziet er in dat de master-icbe alle informatie aan de feeder-icbe verstrekt die de feeder-icbe nodig heeft om te voldoen aan de regels die ingevolge de wet aan haar worden gesteld.   
+3.  De overeenkomst is op verzoek kosteloos beschikbaar voor de deelnemers van de feeder-icbe.   
+4.  Indien de feeder-icbe en de master-icbe worden beheerd door dezelfde beheerder, kan in afwijking van het eerste lid, worden volstaan met bedrijfsvoeringsregels van de beheerder die waarborgen dat uitwisseling van informatie plaatsvindt tussen de feeder-icbe en de master-icbe. Het tweede lid is van overeenkomstige toepassing op de interne bedrijfsvoeringsregels.   
 5.  Onverminderd het tweede lid voorziet de overeenkomst, bedoeld in het eerste lid, respectievelijk voorzien de bedrijfsvoeringsregels, bedoeld in het vierde lid, in het bepaalde in bijlage J.   
 
 ### Artikel  147c  
@@ -3768,90 +4061,90 @@ De overeenkomst tot uitwisseling van informatie tussen de bewaarders als bedoeld
 
 ### Artikel  147d  
 
-1.  Indien een feeder-instelling voor collectieve belegging in effecten en haar master-instelling voor collectieve belegging in effecten beide hun zetel in Nederland hebben is uitsluitend het Nederlands recht van toepassing op de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid.   
-2.  Indien de feeder-instelling voor collectieve belegging in effecten of de master-instelling voor collectieve belegging in effecten haar zetel in een andere lidstaat heeft, dan bepaalt de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, dat uitsluitend het Nederlands recht of het recht van die andere lidstaat van toepassing is op die overeenkomst.   
-3.  Het recht van de lidstaat dat op grond van het eerste of tweede lid van toepassing is op een overeenkomst tot uitwisseling van informatie is eveneens van toepassing op een overeenkomst tussen de bewaarders van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en een overeenkomst tussen de accountants van de feeder-instelling voor collectieve belegging in effecten en master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
-4.  Indien de overeenkomst is vervangen door bedrijfsvoeringsregels als, bedoeld in artikel 147b, vierde lid, voorziet een overeenkomst tussen bewaarders als bedoeld [artikel 4:57b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), respectievelijk tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) erin dat het recht van de lidstaat van de zetel van de feeder-instelling voor collectieve belegging in effecten of het recht van de lidstaat van de zetel van de master-instelling voor collectieve belegging in effecten bij uitsluiting van toepassing is op de overeenkomst.   
+1.  Indien een feeder-icbe en haar master-icbe beide hun zetel in Nederland hebben is uitsluitend het Nederlands recht van toepassing op de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid.   
+2.  Indien de feeder-icbe of de master-icbe haar zetel in een andere lidstaat heeft, dan bepaalt de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, dat uitsluitend het Nederlands recht of het recht van die andere lidstaat van toepassing is op die overeenkomst.   
+3.  Het recht van de lidstaat dat op grond van het eerste of tweede lid van toepassing is op een overeenkomst tot uitwisseling van informatie is eveneens van toepassing op een overeenkomst tussen de bewaarders van de feeder-icbe en de master-icbe als bedoeld in [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en een overeenkomst tussen de accountants van de feeder-icbe en master-icbe als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+4.  Indien de overeenkomst is vervangen door bedrijfsvoeringsregels als, bedoeld in artikel 147b, vierde lid, voorziet een overeenkomst tussen bewaarders als bedoeld [artikel 4:57b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), respectievelijk tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) erin dat het recht van de lidstaat van de zetel van de feeder-icbe of het recht van de lidstaat van de zetel van de master-icbe bij uitsluiting van toepassing is op de overeenkomst.   
 5.  De overeenkomsten, bedoeld in de [artikelen 4:57b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 147b, eerste lid, bepalen dat de rechter van de lidstaat waarvan het recht van toepassing is op de overeenkomst, wordt aangewezen voor de kennisneming van geschillen welke naar aanleiding van de overeenkomst ontstaan of zullen ontstaan.   
 
 ### Artikel  147e  
 
-Een bewaarder van een master-instelling voor collectieve belegging in effecten meldt aan de Autoriteit Financiële Markten in ieder geval de volgende onregelmatigheden op grond van [artikel 4:57a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
+Een bewaarder van een master-icbe meldt aan de Autoriteit Financiële Markten in ieder geval de volgende onregelmatigheden op grond van [artikel 4:57a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
 
-a. fouten in de berekening van de intrinsieke waarde van de master-instelling voor collectieve belegging in effecten;  
+a. fouten in de berekening van de intrinsieke waarde van de master-icbe;  
 
-b. fouten in transacties voor afwikkeling van de aankoop van, inschrijving op, het verzoek om inkoop of terugbetaling van rechten van deelneming in de master-instelling voor collectieve belegging in effecten door de feeder-instelling voor collectieve belegging in effecten;  
+b. fouten in transacties voor afwikkeling van de aankoop van, inschrijving op, het verzoek om inkoop of terugbetaling van rechten van deelneming in de master-icbe door de feeder-icbe;  
 
-c. door de master-instelling voor collectieve belegging in effecten veroorzaakte fouten bij de betaling of kapitalisatie van inkomsten, of fouten in de berekening van de bronbelasting;  
+c. door de master-icbe veroorzaakte fouten bij de betaling of kapitalisatie van inkomsten, of fouten in de berekening van de bronbelasting;  
 
-d. inbreuken op de beleggingsdoelstellingen, het beleggingsbeleid of de beleggingsstrategie van de master-instelling voor collectieve belegging in effecten, zoals beschreven in haar fondsreglement of statuten, prospectus of essentiële beleggersinformatie; en  
+d. inbreuken op de beleggingsdoelstellingen, het beleggingsbeleid of de beleggingsstrategie van de master-icbe, zoals beschreven in haar fondsreglement of statuten, prospectus of essentiële beleggersinformatie; en  
 
 e. inbreuken op ingevolge de wet, het fondsreglement, de statuten, prospectus of essentiële beleggersinformatie vastgestelde limieten bij beleggingen of het aangaan van leningen.    
 
 ### Artikel  147f  
 
-1.  Indien een instelling voor collectieve belegging in effecten voornemens is ten minste 85 procent van haar vermogen in rechten van deelneming in een master-instelling voor collectieve belegging in effecten te beleggen of een feeder-instelling voor collectieve belegging in effecten voornemens is haar rechten van deelneming te beleggen in een andere master-instelling voor collectieve belegging in effecten verstrekt zij de volgende informatie aan haar deelnemers: 
+1.  Indien een icbe voornemens is ten minste 85 procent van haar vermogen in rechten van deelneming in een master-icbe te beleggen of een feeder-icbe voornemens is haar rechten van deelneming te beleggen in een andere master-icbe verstrekt zij de volgende informatie aan haar deelnemers: 
 
-a. een verklaring dat de Autoriteit Financiële Markten met de voorgenomen belegging in de master-instelling voor collectieve belegging in effecten heeft ingestemd;  
+a. een verklaring dat de Autoriteit Financiële Markten met de voorgenomen belegging in de master-icbe heeft ingestemd;  
 
-b. de essentiële beleggersinformatie van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten;  
+b. de essentiële beleggersinformatie van de feeder-icbe en de master-icbe;  
 
-c. de datum waarop de instelling voor collectieve belegging in effecten uitvoering zal geven aan haar voornemen; en  
+c. de datum waarop de icbe uitvoering zal geven aan haar voornemen; en  
 
 d. een verklaring dat deelnemers binnen dertig dagen na de informatieverstrekking kunnen eisen dat hun rechten van deelneming worden ingekocht of terugbetaald.     
-2.  Indien de beheerder van een instelling voor collectieve belegging in effecten een kennisgeving heeft gedaan als bedoeld in [artikel 2:123, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt de instelling voor collectieve belegging in effecten de informatie, bedoeld in het eerste lid, in de officiële taal of een van de officiële talen van de lidstaat waar zij rechten van deelneming aanbiedt, of in een taal die door de toezichthoudende instantie van de desbetreffende lidstaat is goedgekeurd.   
+2.  Indien de beheerder van een icbe een kennisgeving heeft gedaan als bedoeld in [artikel 2:123, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt de icbe de informatie, bedoeld in het eerste lid, in de officiële taal of een van de officiële talen van de lidstaat waar zij rechten van deelneming aanbiedt, of in een taal die door de toezichthoudende instantie van de desbetreffende lidstaat is goedgekeurd.   
 3.  De informatie, bedoeld in het eerste lid, wordt ten minste dertig dagen voor de datum, bedoeld in het eerste lid, onderdeel c, verstrekt.   
-4.  De instelling voor collectieve belegging in effecten gaat niet over tot een belegging van meer dan twintig procent van haar beheerd vermogen in rechten van deelneming in de master-instelling voor collectieve belegging in effecten voordat de termijn, bedoeld in het derde lid, is verstreken.   
-5.  De instelling voor collectieve belegging in effecten brengt bij inkoop of terugbetaling van rechten van deelneming als bedoeld in het eerste lid, onderdeel d, geen andere kosten in rekening dan desinvesteringskosten.   
-6.  De instelling voor collectieve belegging in effecten kan de informatie, bedoeld in het eerste lid, in plaats van schriftelijk op een andere duurzame drager verstrekken na toestemming van de deelnemer en indien dat past in de context waarin zij, of in voorkomend geval de beheerder, met de deelnemer zaken doet.   
-7.  De verstrekking van informatie door de instelling voor collectieve belegging in effecten aan de deelnemer via elektronische mededelingen past in de context waarin de instelling voor collectieve belegging in effecten respectievelijk haar beheerder met de deelnemer zaken doet of gaat doen, indien is bewezen dat de deelnemer regelmatig toegang heeft tot internet. Het gegeven dat de deelnemer een e-mailadres opgeeft om zaken te kunnen doen geldt in ieder geval als bewijs hiervan.   
+4.  De icbe gaat niet over tot een belegging van meer dan twintig procent van haar beheerd vermogen in rechten van deelneming in de master-icbe voordat de termijn, bedoeld in het derde lid, is verstreken.   
+5.  De icbe brengt bij inkoop of terugbetaling van rechten van deelneming als bedoeld in het eerste lid, onderdeel d, geen andere kosten in rekening dan desinvesteringskosten.   
+6.  De icbe kan de informatie, bedoeld in het eerste lid, in plaats van schriftelijk op een andere duurzame drager verstrekken na toestemming van de deelnemer en indien dat past in de context waarin zij, of in voorkomend geval de beheerder, met de deelnemer zaken doet.   
+7.  De verstrekking van informatie door de icbe aan de deelnemer via elektronische mededelingen past in de context waarin de icbe respectievelijk haar beheerder met de deelnemer zaken doet of gaat doen, indien is bewezen dat de deelnemer regelmatig toegang heeft tot internet. Het gegeven dat de deelnemer een e-mailadres opgeeft om zaken te kunnen doen geldt in ieder geval als bewijs hiervan.   
 
 ### Artikel  147g  
 
-Een feeder-instelling voor collectieve belegging in effecten vermeldt in alle door of namens haar verstrekt of beschikbaar gestelde relevante informatie dat zij ten minste 85 procent van haar beheerd vermogen belegt in rechten van deelneming in een master-instelling voor collectieve belegging in effecten.  
+Een feeder-icbe vermeldt in alle door of namens haar verstrekt of beschikbaar gestelde relevante informatie dat zij ten minste 85 procent van haar beheerd vermogen belegt in rechten van deelneming in een master-icbe.  
 
 ### Artikel  147h  
 
-1.  Een feeder-instelling voor collectieve belegging in effecten zendt een afschrift van het prospectus, de essentiële beleggersinformatie en alle wijzigingen daarin, het jaarverslag en de halfjaarcijfers van de master-instelling voor collectieve belegging in effecten waarin zij belegt aan de Autoriteit Financiële Markten.   
-2.  Een feeder-instelling voor collectieve belegging in effecten verstrekt haar deelnemers, op verzoek, kosteloos een afschrift van het prospectus, het jaarverslag en halfjaarcijfers van de master-instelling voor collectieve belegging in effecten waarin zij belegt.   
+1.  Een feeder-icbe zendt een afschrift van het prospectus, de essentiële beleggersinformatie en alle wijzigingen daarin, het jaarverslag en de halfjaarcijfers van de master-icbe waarin zij belegt aan de Autoriteit Financiële Markten.   
+2.  Een feeder-icbe verstrekt haar deelnemers, op verzoek, kosteloos een afschrift van het prospectus, het jaarverslag en halfjaarcijfers van de master-icbe waarin zij belegt.   
 
 ### Artikel  147i  
 
-1.  Het jaarverslag van een feeder-instelling voor collectieve belegging in effecten bevat een verklaring met betrekking tot de totale kosten van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten.   
-2.  Het jaarverslag en de halfjaarcijfers van een feeder-instelling voor collectieve belegging in effecten vermelden de plaats waar het jaarverslag en de halfjaarcijfers van de master-instelling voor collectieve belegging in effecten waarin de feeder-instelling voor collectieve belegging in effecten belegt, verkregen kunnen worden.   
+1.  Het jaarverslag van een feeder-icbe bevat een verklaring met betrekking tot de totale kosten van de feeder-icbe en de master-icbe.   
+2.  Het jaarverslag en de halfjaarcijfers van een feeder-icbe vermelden de plaats waar het jaarverslag en de halfjaarcijfers van de master-icbe waarin de feeder-icbe belegt, verkregen kunnen worden.   
 
 ### Artikel  147j  
 
-Een feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten waarin zij belegt, voorkomen dat hun deelnemers op verschillende tijdstippen worden geïnformeerd over de intrinsieke waarde van de deelnemingen door het treffen van maatregelen om het tijdstip van de berekening en de publicatie van de intrinsieke waarde te coördineren.  
+Een feeder-icbe en de master-icbe waarin zij belegt, voorkomen dat hun deelnemers op verschillende tijdstippen worden geïnformeerd over de intrinsieke waarde van de deelnemingen door het treffen van maatregelen om het tijdstip van de berekening en de publicatie van de intrinsieke waarde te coördineren.  
 
 ### Artikel  147k  
 
-Een feeder-instelling voor collectieve belegging in effecten controleert de werkzaamheden van de master-instelling voor collectieve belegging in effecten. Zij baseert zich hierbij op de informatie die is verstrekt door de master-instelling voor collectieve belegging in effecten of diens beheerder, bewaarder of accountant tenzij de feeder-instelling voor collectieve belegging in effecten reden heeft om te twijfelen aan de juistheid van deze informatie.  
+Een feeder-icbe controleert de werkzaamheden van de master-icbe. Zij baseert zich hierbij op de informatie die is verstrekt door de master-icbe of diens beheerder, bewaarder of accountant tenzij de feeder-icbe reden heeft om te twijfelen aan de juistheid van deze informatie.  
 
 ### Artikel  147l  
 
-Een beloning of vergoeding die een feeder-instelling voor collectieve belegging in effecten, haar beheerder dan wel een derde die namens de feeder-instelling voor collectieve belegging in effecten of haar beheerder optreedt, ontvangt in verband met de belegging in rechten van deelneming van een master-instelling voor collectieve belegging in effecten, komt ten gunste van de activa van de feeder-instelling voor collectieve belegging in effecten.  
+Een beloning of vergoeding die een feeder-icbe, haar beheerder dan wel een derde die namens de feeder-icbe of haar beheerder optreedt, ontvangt in verband met de belegging in rechten van deelneming van een master-icbe, komt ten gunste van de activa van de feeder-icbe.  
 
 ### Artikel  147m  
 
-1.  Een master-instelling voor collectieve belegging in effecten verstrekt de Autoriteit Financiële Markten onverwijld de naam van elke feeder-instelling voor collectieve belegging in effecten die in haar rechten van deelneming belegt.   
+1.  Een master-icbe verstrekt de Autoriteit Financiële Markten onverwijld de naam van elke feeder-icbe die in haar rechten van deelneming belegt.   
 2.  Indien de feeder-icbe een zetel heeft in een andere lidstaat, stelt de Autoriteit Financiële Markten de toezichthoudende instantie van de lidstaat van de zetel van de feeder-icbe in kennis van de belegging, bedoeld in het eerste lid.   
 
 ### Artikel  147n  
 
-Een master-instelling voor collectieve belegging in effecten houdt alle informatie die zij ingevolge het recht, het fondsreglement of statuten beschikbaar moet houden, beschikbaar voor de feeder-instelling voor collectieve belegging in effecten of, indien van toepassing, haar beheerder, en voor de Autoriteit Financiële Markten, de bewaarder en de accountant van de feeder-instelling voor collectieve belegging in effecten.  
+Een master-icbe houdt alle informatie die zij ingevolge het recht, het fondsreglement of statuten beschikbaar moet houden, beschikbaar voor de feeder-icbe of, indien van toepassing, haar beheerder, en voor de Autoriteit Financiële Markten, de bewaarder en de accountant van de feeder-icbe.  
 
 ### Artikel  147o  
 
-Een master-instelling voor collectieve belegging in effecten brengt geen inschrijvingskosten of inkoopkosten in rekening voor het deelnemen van een feeder-instelling voor collectieve belegging in effecten in haar rechten van deelneming of voor de vervreemding daarvan.  
+Een master-icbe brengt geen inschrijvingskosten of inkoopkosten in rekening voor het deelnemen van een feeder-icbe in haar rechten van deelneming of voor de vervreemding daarvan.  
 
 ### Artikel  147p  
 
-1.  Uiterlijk twee maanden na de datum van de bekendmaking van een voornemen tot liquidatie van de master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zendt de feeder-instelling voor collectieve belegging in effecten de volgende gegevens aan de Autoriteit Financiële Markten: 
+1.  Uiterlijk twee maanden na de datum van de bekendmaking van een voornemen tot liquidatie van de master-icbe als bedoeld in [artikel 4:61a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zendt de feeder-icbe de volgende gegevens aan de Autoriteit Financiële Markten: 
 
-a. indien de feeder-instelling voor collectieve belegging in effecten voornemens is ten minste 85 procent van haar beheerd vermogen te beleggen in rechten van deelneming in een andere master-instelling voor collectieve belegging in effecten: 
+a. indien de feeder-icbe voornemens is ten minste 85 procent van haar beheerd vermogen te beleggen in rechten van deelneming in een andere master-icbe: 
 
-1°. een aanvraag van instemming voor het beleggen in rechten van deelneming in een andere master-instelling voor collectieve belegging in effecten;  
+1°. een aanvraag van instemming voor het beleggen in rechten van deelneming in een andere master-icbe;  
 
 2°. een aanvraag van instemming met de voorgestelde wijzigingen van het fondsreglement of statuten;  
 
@@ -3859,47 +4152,47 @@ a. indien de feeder-instelling voor collectieve belegging in effecten voornemens
 
 4°. de documenten, bedoeld in artikel 147a, derde lid, onderdelen c tot en met g;    
 
-b. indien de feeder-instelling voor collectieve belegging in effecten voornemens is zich om te zetten in een instelling voor collectieve belegging in effecten, niet zijnde een feeder-instelling voor collectieve belegging in effecten: 
+b. indien de feeder-icbe voornemens is zich om te zetten in een icbe, niet zijnde een feeder-icbe: 
 
 1°. een aanvraag van instemming met de voorgestelde wijzigingen van het fondsreglement of de statuten; en  
 
 2°. de wijzigingen van het prospectus en de essentiële beleggersinformatie;    
 
-c. indien de feeder-instelling voor collectieve belegging in effecten voornemens is om tot liquidatie over te gaan, een kennisgeving van dat voornemen.     
-2.  In afwijking van het eerste lid, zendt de feeder-instelling voor collectieve belegging in effecten de gegevens, bedoeld in het eerste lid, uiterlijk binnen drie maanden voorafgaand aan de aanvang van de voorgenomen liquidatie van de master-instelling voor collectieve belegging in effecten aan de Autoriteit Financiële Markten, indien de master-instelling voor collectieve belegging in effecten de bekendmaking van het voornemen tot liquidatie meer dan vijf maanden voor de datum van de aanvang van de liquidatie aan de feeder-instelling voor collectieve belegging in effecten heeft bekendgemaakt.   
-3.  De feeder-instelling voor collectieve belegging in effecten informeert haar deelnemers onverwijld over een voornemen tot liquidatie van de feeder-instelling voor collectieve belegging in effecten.   
+c. indien de feeder-icbe voornemens is om tot liquidatie over te gaan, een kennisgeving van dat voornemen.     
+2.  In afwijking van het eerste lid, zendt de feeder-icbe de gegevens, bedoeld in het eerste lid, uiterlijk binnen drie maanden voorafgaand aan de aanvang van de voorgenomen liquidatie van de master-icbe aan de Autoriteit Financiële Markten, indien de master-icbe de bekendmaking van het voornemen tot liquidatie meer dan vijf maanden voor de datum van de aanvang van de liquidatie aan de feeder-icbe heeft bekendgemaakt.   
+3.  De feeder-icbe informeert haar deelnemers onverwijld over een voornemen tot liquidatie van de feeder-icbe.   
 
 ### Artikel  147q  
 
 1.  De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens een besluit op een aanvraag van instemming als bedoeld in artikel 147p, eerste lid, onderdeel a of b.   
-2.  De feeder-instelling voor collectieve belegging in effecten informeert de master-instelling voor collectieve belegging in effecten over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.   
-3.  De feeder-instelling voor collectieve belegging in effecten neemt na ontvangst van de instemming, bedoeld in artikel 147p, eerste lid, onderdeel a, onder 1° en 2°, zo spoedig mogelijk maatregelen om aan het bepaalde in artikel 147f te voldoen.   
-4.  Uitbetaling van liquidatieopbrengsten van de master-instelling voor collectieve belegging in effecten aan de feeder-instelling voor collectieve belegging in effecten die plaatsvindt voorafgaand aan de datum waarop de feeder-instelling voor collectieve belegging in effecten haar beleggingsbeleid overeenkomstig artikel 147p, eerste lid, onderdeel a of b, wijzigt, behoeft instemming van de Autoriteit Financiële Markten. De Autoriteit Financiële Markten stemt in met de uitbetaling indien: 
+2.  De feeder-icbe informeert de master-icbe over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.   
+3.  De feeder-icbe neemt na ontvangst van de instemming, bedoeld in artikel 147p, eerste lid, onderdeel a, onder 1° en 2°, zo spoedig mogelijk maatregelen om aan het bepaalde in artikel 147f te voldoen.   
+4.  Uitbetaling van liquidatieopbrengsten van de master-icbe aan de feeder-icbe die plaatsvindt voorafgaand aan de datum waarop de feeder-icbe haar beleggingsbeleid overeenkomstig artikel 147p, eerste lid, onderdeel a of b, wijzigt, behoeft instemming van de Autoriteit Financiële Markten. De Autoriteit Financiële Markten stemt in met de uitbetaling indien: 
 
-a. de feeder-instelling voor collectieve belegging in effecten de uitbetaling van de liquidatieopbrengsten ontvangt: 
+a. de feeder-icbe de uitbetaling van de liquidatieopbrengsten ontvangt: 
 
 1°. in contanten; of  
 
-2°. in de vorm van een gehele of gedeeltelijke overdracht van activa in natura, indien de feeder-instelling voor collectieve belegging in effecten dit wenst en voor zover de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, en het besluit tot liquidatie daarin voorzien; en    
+2°. in de vorm van een gehele of gedeeltelijke overdracht van activa in natura, indien de feeder-icbe dit wenst en voor zover de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, en het besluit tot liquidatie daarin voorzien; en    
 
-b. de feeder-instelling voor collectieve belegging in effecten de contanten uitsluitend herbelegd met het oog op een efficiënt contantenbeheer.     
-5.  De feeder-instelling voor collectieve belegging in effecten heeft het recht de overgedragen activa in natura geheel of gedeeltelijk te verzilveren.   
+b. de feeder-icbe de contanten uitsluitend herbelegd met het oog op een efficiënt contantenbeheer.     
+5.  De feeder-icbe heeft het recht de overgedragen activa in natura geheel of gedeeltelijk te verzilveren.   
 
 ### Artikel  147r  
 
-1.  Binnen een maand nadat een feeder-instelling voor collectieve belegging in effecten informatie met betrekking tot een voorgenomen fusie of splitsing van de master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ontvangen, zendt de feeder-instelling voor collectieve belegging in effecten de volgende gegevens aan de Autoriteit Financiële Markten: 
+1.  Binnen een maand nadat een feeder-icbe informatie met betrekking tot een voorgenomen fusie of splitsing van de master-icbe als bedoeld in [artikel 4:61b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ontvangen, zendt de feeder-icbe de volgende gegevens aan de Autoriteit Financiële Markten: 
 
-a. indien de feeder-instelling voor collectieve belegging in effecten voornemens is ten minste 85 procent van haar activa te beleggen in rechten van deelneming van dezelfde master-instelling voor collectieve belegging in effecten: 
+a. indien de feeder-icbe voornemens is ten minste 85 procent van haar activa te beleggen in rechten van deelneming van dezelfde master-icbe: 
 
-1°. een aanvraag van instemming met het beleggen in rechten van deelneming in dezelfde master-instelling voor collectieve belegging in effecten;  
+1°. een aanvraag van instemming met het beleggen in rechten van deelneming in dezelfde master-icbe;  
 
 2°. indien van toepassing, een aanvraag van instemming met de voorgestelde wijzigingen van het fondsreglement of statuten; en  
 
 3°. indien van toepassing, de wijzigingen van het prospectus en de essentiële beleggersinformatie;    
 
-b. indien de feeder-instelling voor collectieve belegging in effecten voornemens is ten minste 85 procent van haar activa te beleggen in rechten van deelneming van een andere master-instelling voor collectieve belegging in effecten: 
+b. indien de feeder-icbe voornemens is ten minste 85 procent van haar activa te beleggen in rechten van deelneming van een andere master-icbe: 
 
-1°. een aanvraag van instemming met het beleggen in rechten van deelneming in de desbetreffende master-instelling voor collectieve belegging in effecten;  
+1°. een aanvraag van instemming met het beleggen in rechten van deelneming in de desbetreffende master-icbe;  
 
 2°. een aanvraag van instemming met de voorgestelde wijzigingen van het fondsreglement of statuten;  
 
@@ -3907,45 +4200,45 @@ b. indien de feeder-instelling voor collectieve belegging in effecten voornemens
 
 4°. de documenten, bedoeld in artikel 147a, derde lid, onderdelen c tot en met g;    
 
-c. indien de feeder-instelling voor collectieve belegging in effecten voornemens is zich om te zetten in een instelling voor collectieve belegging in effecten, niet zijnde een feeder-instelling voor collectieve belegging in effecten: 
+c. indien de feeder-icbe voornemens is zich om te zetten in een icbe, niet zijnde een feeder-icbe: 
 
 1°. een aanvraag van instemming met de voorgestelde wijzigingen van het fondsreglement of de statuten; en  
 
 2°. de wijzigingen van het prospectus en de essentiële beleggersinformatie;    
 
-d. indien de feeder-instelling voor collectieve belegging in effecten voornemens is om tot liquidatie over te gaan een kennisgeving van dat voornemen.     
+d. indien de feeder-icbe voornemens is om tot liquidatie over te gaan een kennisgeving van dat voornemen.     
 2.  Het eerste lid, aanhef en onderdeel a, is van toepassing indien: 
 
-a. de master-instelling voor collectieve belegging in effecten de verkrijgende master-instelling voor collectieve belegging in effecten is bij een voorgenomen fusie; en  
+a. de master-icbe de verkrijgende master-icbe is bij een voorgenomen fusie; en  
 
-b. de feeder-instelling voor collectieve belegging in effecten een deelnemer wordt van een uit een splitsing voortkomende instelling voor collectieve belegging in effecten die materieel niet afwijkt van de master-instelling voor collectieve belegging in effecten.     
+b. de feeder-icbe een deelnemer wordt van een uit een splitsing voortkomende icbe die materieel niet afwijkt van de master-icbe.     
 3.  Het onder het eerste lid, aanhef en onderdeel b, is van toepassing indien: 
 
-a. de master-instelling voor collectieve belegging in effecten de verdwijnende instelling voor collectieve belegging in effecten is en de feeder-instelling voor collectieve belegging in effecten door de voorgenomen fusie een deelnemer wordt van de verkrijgende instelling voor collectieve belegging in effecten; en  
+a. de master-icbe de verdwijnende icbe is en de feeder-icbe door de voorgenomen fusie een deelnemer wordt van de verkrijgende icbe; en  
 
-b. de feeder-instelling voor collectieve belegging in effecten een deelnemer wordt van een uit een splitsing voortkomende instelling voor collectieve belegging in effecten die materieel afwijkt van de master-instelling voor collectieve belegging in effecten.     
-4.  In afwijking van het eerste lid zendt de feeder-instelling voor collectieve belegging in effecten de gegevens, bedoeld in het eerste lid, uiterlijk drie maanden voor de beoogde ingangsdatum van de fusie of splitsing van de master-instelling voor collectieve belegging in effecten aan de Autoriteit Financiële Markten, indien de master-instelling voor collectieve belegging in effecten de informatie, bedoeld in [artikel 4:61b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), meer dan vier maanden voor de beoogde ingangsdatum van de fusie of splitsing aan de feeder-instelling voor collectieve belegging in effecten heeft verstrekt.   
-5.  De feeder-instelling voor collectieve belegging in effecten informeert haar deelnemers en de master-instelling voor collectieve belegging in effecten onverwijld over haar voornemen tot liquidatie.   
+b. de feeder-icbe een deelnemer wordt van een uit een splitsing voortkomende icbe die materieel afwijkt van de master-icbe.     
+4.  In afwijking van het eerste lid zendt de feeder-icbe de gegevens, bedoeld in het eerste lid, uiterlijk drie maanden voor de beoogde ingangsdatum van de fusie of splitsing van de master-icbe aan de Autoriteit Financiële Markten, indien de master-icbe de informatie, bedoeld in [artikel 4:61b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), meer dan vier maanden voor de beoogde ingangsdatum van de fusie of splitsing aan de feeder-icbe heeft verstrekt.   
+5.  De feeder-icbe informeert haar deelnemers en de master-icbe onverwijld over haar voornemen tot liquidatie.   
 
 ### Artikel  147s  
 
 1.  De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens, een besluit op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel a, b of c.   
-2.  De feeder-instelling voor collectieve belegging in effecten informeert de master-instelling voor collectieve belegging in effecten over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.   
-3.  De feeder-instelling voor collectieve belegging in effecten neemt na ontvangst van de instemming op een aanvraag, als bedoeld in artikel 147r, eerste lid, onderdeel b, onder 1° en 2°, zo spoedig mogelijk de maatregelen om aan het bepaalde in artikel 147f te voldoen.   
-4.  Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel b of c, biedt de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten ter inkoop of terugbetaling aan op grond van de [artikelen 4:61b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:62h van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op de werkdag voorafgaand aan de laatste dag waarop de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in de master-instelling voor collectieve belegging ter inkoop of terugbetaling kan aanbieden.   
-5.  De feeder-instelling voor collectieve belegging in effecten biedt haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten op grond van het vierde lid tevens aan om te zorgen dat geen afbreuk wordt gedaan aan het recht van haar deelnemers, bedoeld in artikel 147f, eerste lid, onderdeel d.   
-6.  Alvorens de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in een master-instelling voor collectieve belegging in effecten op grond van het vierde lid ter inkoop of terugbetaling aanbiedt, onderzoekt zij alternatieve oplossingen die kunnen bijdragen de transactiekosten of andere negatieve effecten voor haar eigen deelnemers te vermijden of te verminderen.   
-7.  De feeder-instelling voor collectieve belegging in effecten ontvangt opbrengsten van de inkoop of terugbetaling van haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten: 
+2.  De feeder-icbe informeert de master-icbe over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.   
+3.  De feeder-icbe neemt na ontvangst van de instemming op een aanvraag, als bedoeld in artikel 147r, eerste lid, onderdeel b, onder 1° en 2°, zo spoedig mogelijk de maatregelen om aan het bepaalde in artikel 147f te voldoen.   
+4.  Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel b of c, biedt de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling aan op grond van de [artikelen 4:61b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:62h van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op de werkdag voorafgaand aan de laatste dag waarop de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling kan aanbieden.   
+5.  De feeder-icbe biedt haar rechten van deelneming in de master-icbe op grond van het vierde lid tevens aan om te zorgen dat geen afbreuk wordt gedaan aan het recht van haar deelnemers, bedoeld in artikel 147f, eerste lid, onderdeel d.   
+6.  Alvorens de feeder-icbe haar rechten van deelneming in een master-icbe op grond van het vierde lid ter inkoop of terugbetaling aanbiedt, onderzoekt zij alternatieve oplossingen die kunnen bijdragen de transactiekosten of andere negatieve effecten voor haar eigen deelnemers te vermijden of te verminderen.   
+7.  De feeder-icbe ontvangt opbrengsten van de inkoop of terugbetaling van haar rechten van deelneming in de master-icbe: 
 
 a. in contanten; of  
 
-b. in de vorm van een gehele of gedeeltelijk overdracht van activa in natura, indien de feeder-instelling voor collectieve belegging in effecten dit wenst en de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, daarin voorzien.     
-8.  De feeder-instelling voor collectieve belegging in effecten heeft het recht de overgedragen activa in natura geheel of gedeeltelijk te verzilveren.   
-9.  De Autoriteit Financiële Markten stemt in met het herbeleggen van contanten als bedoeld in het zevende lid voorafgaand aan de datum waarop de feeder-instelling voor collectieve belegging in effecten in de nieuwe master-instelling voor collectieve belegging in effecten of in overeenstemming met haar nieuwe beleggingsdoelstellingen en beleggingsbeleid zal gaan beleggen, indien de feeder-instelling voor collectieve belegging in effecten uitsluitend herbelegd met het oog op een efficiënt contantenbeheer.   
+b. in de vorm van een gehele of gedeeltelijk overdracht van activa in natura, indien de feeder-icbe dit wenst en de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, daarin voorzien.     
+8.  De feeder-icbe heeft het recht de overgedragen activa in natura geheel of gedeeltelijk te verzilveren.   
+9.  De Autoriteit Financiële Markten stemt in met het herbeleggen van contanten als bedoeld in het zevende lid voorafgaand aan de datum waarop de feeder-icbe in de nieuwe master-icbe of in overeenstemming met haar nieuwe beleggingsdoelstellingen en beleggingsbeleid zal gaan beleggen, indien de feeder-icbe uitsluitend herbelegd met het oog op een efficiënt contantenbeheer.   
 
 ### §  10.3.2.2  
 
-####Fusies tussen instellingen voor collectieve belegging in effecten
+####Fusies tussen icbe's
 
 Bepalingen ter uitvoering van de [artikelen 4:62b, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:62e, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:62g, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
@@ -3953,24 +4246,24 @@ Bepalingen ter uitvoering van de [artikelen 4:62b, derde lid](../../../../../../
 
 1.  De bij de kennisgeving van de voorgenomen fusie te verstrekken gegevens, bedoeld in [artikel 4:62b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
 
-a. het door de betrokken instellingen voor collectieve belegging in effecten goedgekeurde gemeenschappelijk fusievoorstel;  
+a. het door de betrokken icbe's goedgekeurde gemeenschappelijk fusievoorstel;  
 
-b. een actuele versie van het prospectus en de essentiële beleggersinformatie van de verkrijgende instelling voor collectieve belegging in effecten indien deze haar zetel heeft in een andere lidstaat;  
+b. een actuele versie van het prospectus en de essentiële beleggersinformatie van de verkrijgende icbe indien deze haar zetel heeft in een andere lidstaat;  
 
-c. een verklaring van elk van de betrokken bewaarders van de instellingen voor collectieve belegging in effecten waarin wordt bevestigd dat de in artikel 147u, onderdelen a, f en g, bedoelde gegevens in overeenstemming zijn met het fondsreglement of de statuten van de desbetreffende instelling voor collectieve belegging in effecten; en  
+c. een verklaring van elk van de betrokken bewaarders van de icbe's waarin wordt bevestigd dat de in artikel 147u, onderdelen a, f en g, bedoelde gegevens in overeenstemming zijn met het fondsreglement of de statuten van de desbetreffende icbe; en  
 
-d. de informatie over de voorgenomen fusie die de betrokken instellingen voor collectieve belegging in effecten aan hun deelnemers voornemens zijn te verstrekken.     
-2.  De gegevens, bedoeld in het eerste lid, worden verstrekt in de Nederlandse taal en, indien van toepassing, de officiële taal van de lidstaat van de zetel van de verkrijgende instelling voor collectieve belegging in effecten of in een andere taal die door de Autoriteit Financiële Markten en de toezichthoudende instantie van de betrokken lidstaat is goedgekeurd.   
+d. de informatie over de voorgenomen fusie die de betrokken icbe's aan hun deelnemers voornemens zijn te verstrekken.     
+2.  De gegevens, bedoeld in het eerste lid, worden verstrekt in de Nederlandse taal en, indien van toepassing, de officiële taal van de lidstaat van de zetel van de verkrijgende icbe of in een andere taal die door de Autoriteit Financiële Markten en de toezichthoudende instantie van de betrokken lidstaat is goedgekeurd.   
 
 ### Artikel  147u  
 
 Het gemeenschappelijk fusievoorstel, bedoeld in [artikel 4:62e, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat in ieder geval de volgende gegevens: 
 
-a. het soort fusie en de betrokken instellingen voor collectieve belegging in effecten;  
+a. het soort fusie en de betrokken icbe's;  
 
 b. de achtergrond en redenen van de voorgenomen fusie;  
 
-c. de verwachte gevolgen van de voorgenomen fusie voor de deelnemers van zowel de verdwijnende instelling voor collectieve belegging in effecten als de verkrijgende instelling voor collectieve belegging in effecten;  
+c. de verwachte gevolgen van de voorgenomen fusie voor de deelnemers van zowel de verdwijnende icbe als de verkrijgende icbe;  
 
 d. de criteria die zijn vastgesteld voor de waardering van de activa, en indien van toepassing, de passiva;  
 
@@ -3978,17 +4271,17 @@ e. de berekeningsmethode voor de ruilverhouding;
 
 f. de beoogde ingangsdatum van de fusie;  
 
-g. de regels die van toepassing zijn op de overdracht van activa, respectievelijk het omruilen van de rechten van deelneming in de verdwijnende instelling voor collectieve belegging in effecten tegen rechten van deelneming in de verkrijgende instelling voor collectieve belegging in effecten; en  
+g. de regels die van toepassing zijn op de overdracht van activa, respectievelijk het omruilen van de rechten van deelneming in de verdwijnende icbe tegen rechten van deelneming in de verkrijgende icbe; en  
 
-h. in geval van een nieuw op te richten instelling voor collectieve belegging in effecten het fondsreglement of de statuten van die instelling voor collectieve belegging in effecten.    
+h. in geval van een nieuw op te richten icbe het fondsreglement of de statuten van die icbe.    
 
 ### Artikel  147v  
 
-Een bewaarder van een verdwijnende instelling voor collectieve belegging in effecten en de bewaarder van een verkrijgende instelling voor collectieve belegging in effecten gaat na of de in het gemeenschappelijk fusievoorstel opgenomen gegevens, bedoeld in artikel 147u, onderdelen a, f en g, in overeenstemming zijn met hetgeen ingevolge de wet is bepaald en met het fondsreglement of de statuten van de desbetreffende instelling voor collectieve belegging in effecten.  
+Een bewaarder van een verdwijnende icbe en de bewaarder van een verkrijgende icbe gaat na of de in het gemeenschappelijk fusievoorstel opgenomen gegevens, bedoeld in artikel 147u, onderdelen a, f en g, in overeenstemming zijn met hetgeen ingevolge de wet is bepaald en met het fondsreglement of de statuten van de desbetreffende icbe.  
 
 ### Artikel  147w  
 
-1.  De te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de betrokken instellingen voor collectieve belegging in effecten, bedoeld in [artikel 4:62g, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is beknopt en in niet-technische bewoordingen opgesteld en omvat in ieder geval: 
+1.  De te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de betrokken icbe's, bedoeld in [artikel 4:62g, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is beknopt en in niet-technische bewoordingen opgesteld en omvat in ieder geval: 
 
 a. de achtergrond en redenen van de voorgenomen fusie;  
 
@@ -3996,42 +4289,42 @@ b. de verwachte gevolgen van de voorgenomen fusie voor de deelnemers, waaronder 
 
 c. de eventuele fiscale consequenties van de fusie;  
 
-d. de bijzondere rechten van de deelnemers, waaronder in elk geval het recht op aanvullende informatie, het recht op een afschrift van het verslag van de accountant indien daarom wordt verzocht, het recht op het laten inkopen of laten terugbetalen van rechten van deelneming of zo mogelijk laten omzetten van hun rechten van deelneming in een andere instelling voor collectieve belegging in effecten en tot welke datum de bijzondere rechten kunnen worden uitgeoefend;  
+d. de bijzondere rechten van de deelnemers, waaronder in elk geval het recht op aanvullende informatie, het recht op een afschrift van het verslag van de accountant indien daarom wordt verzocht, het recht op het laten inkopen of laten terugbetalen van rechten van deelneming of zo mogelijk laten omzetten van hun rechten van deelneming in een andere icbe en tot welke datum de bijzondere rechten kunnen worden uitgeoefend;  
 
 e. de relevante procedurele aspecten en de beoogde ingangsdatum van de fusie; en  
 
-f. een afschrift van de actuele essentiële beleggersinformatie van de verkrijgende instelling voor collectieve belegging in effecten.     
-2.  De essentiële beleggersinformatie, bedoeld in het eerste lid, onderdeel f, wordt aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten verstrekt en wordt tevens aan de deelnemers van de verkrijgende instelling voor collectieve belegging in effecten verstrekt indien de essentiële beleggersinformatie is gewijzigd met het oog op de voorgenomen fusie.   
+f. een afschrift van de actuele essentiële beleggersinformatie van de verkrijgende icbe.     
+2.  De essentiële beleggersinformatie, bedoeld in het eerste lid, onderdeel f, wordt aan de deelnemers van de verdwijnende icbe verstrekt en wordt tevens aan de deelnemers van de verkrijgende icbe verstrekt indien de essentiële beleggersinformatie is gewijzigd met het oog op de voorgenomen fusie.   
 3.  Indien aan het begin van het document met informatie over de voorgenomen fusie een samenvatting van de hoofdpunten van het fusievoorstel wordt verstrekt, wordt verwezen naar de delen van het document waar nadere informatie over die hoofdpunten is opgenomen.   
 4.  Artikel 147f, zesde en zevende lid, is van overeenkomstige toepassing op het verstrekken van informatie over de voorgenomen fusie, bedoeld in het eerste lid.   
 
 ### Artikel  147x  
 
-1.  De te verstrekken informatie, bedoeldin artikel 147w, eerste lid, onderdeel b, aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten omvat: 
+1.  De te verstrekken informatie, bedoeldin artikel 147w, eerste lid, onderdeel b, aan de deelnemers van de verdwijnende icbe omvat: 
 
-a. alle verschillen in de rechten van de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten voordat en nadat de voorgenomen fusie van kracht wordt;  
+a. alle verschillen in de rechten van de deelnemers van de verdwijnende icbe voordat en nadat de voorgenomen fusie van kracht wordt;  
 
-b. een vergelijking van de verschillen in risico-indicatoren indien in de essentiële beleggersinformatie van de verdwijnende instelling voor collectieve belegging in effecten en de verkrijgende instelling voor collectieve belegging in effecten risico-indicatoren in verschillende categorieën worden beschreven of in de begeleidende beschrijving op verschillende materiële risico’s wordt gewezen;  
+b. een vergelijking van de verschillen in risico-indicatoren indien in de essentiële beleggersinformatie van de verdwijnende icbe en de verkrijgende icbe risico-indicatoren in verschillende categorieën worden beschreven of in de begeleidende beschrijving op verschillende materiële risico’s wordt gewezen;  
 
-c. een vergelijking van de kosten voor beide instellingen voor collectieve belegging in effecten op basis van de in de essentiële beleggersinformatie bekendgemaakte bedragen;  
+c. een vergelijking van de kosten voor beide icbe’s op basis van de in de essentiële beleggersinformatie bekendgemaakte bedragen;  
 
-d. indien de verdwijnende instelling voor collectieve belegging in effecten een prestatievergoeding toepast, een toelichting op welke wijze deze zal worden toegepast totdat de fusie ingaat;  
+d. indien de verdwijnende icbe een prestatievergoeding toepast, een toelichting op welke wijze deze zal worden toegepast totdat de fusie ingaat;  
 
-e. indien de verkrijgende instelling voor collectieve belegging in effecten een prestatievergoeding toepast, een beschrijving op welke wijze deze verder zal worden toegepast om de eerlijke behandeling te waarborgen van de deelnemers die voorheen rechten van deelneming in de verdwijnende instelling voor collectieve belegging in effecten bezaten;  
+e. indien de verkrijgende icbe een prestatievergoeding toepast, een beschrijving op welke wijze deze verder zal worden toegepast om de eerlijke behandeling te waarborgen van de deelnemers die voorheen rechten van deelneming in de verdwijnende icbe bezaten;  
 
-f. indien kosten in verband met de voorbereiding en afronding van de fusie bij de verdwijnende of verkrijgende instelling voor collectieve belegging in effecten of bij een van de deelnemers ervan in rekening kunnen worden gebracht, een beschrijving hoe deze kosten worden toegewezen; en  
+f. indien kosten in verband met de voorbereiding en afronding van de fusie bij de verdwijnende of verkrijgende icbe of bij een van de deelnemers ervan in rekening kunnen worden gebracht, een beschrijving hoe deze kosten worden toegewezen; en  
 
-g. een toelichting of de beheerder van de verdwijnende instelling voor collectieve belegging in effecten voornemens is een herschikking van de portefeuille door te voeren voordat de fusie van kracht wordt.     
-2.  De aan de deelnemers van de verkrijgende instelling voor collectieve belegging in effecten te verstrekken informatie, bedoeld in artikel 147w, eerste lid, onderdeel b, omvat tevens een toelichting of de beheerder van de verkrijgende instelling voor collectieve belegging in effecten verwacht dat de fusie enig materieel effect op de portefeuille van de verkrijgende instelling voor collectieve belegging in effecten zal hebben en of het voornemen bestaat een herschikking van de portefeuille door te voeren voordat of nadat de fusie ingaat.   
+g. een toelichting of de beheerder van de verdwijnende icbe voornemens is een herschikking van de portefeuille door te voeren voordat de fusie van kracht wordt.     
+2.  De aan de deelnemers van de verkrijgende icbe te verstrekken informatie, bedoeld in artikel 147w, eerste lid, onderdeel b, omvat tevens een toelichting of de beheerder van de verkrijgende icbe verwacht dat de fusie enig materieel effect op de portefeuille van de verkrijgende icbe zal hebben en of het voornemen bestaat een herschikking van de portefeuille door te voeren voordat of nadat de fusie ingaat.   
 
 ### Artikel  147y  
 
 1.  De te verstrekken informatie aan de deelnemers, bedoeldin artikel 147w, eerste lid, onderdeel d,omvat: 
 
-a. informatie over hoe zal worden omgegaan met alle nog te ontvangen inkomsten in de instellingen voor collectieve belegging in effecten; en  
+a. informatie over hoe zal worden omgegaan met alle nog te ontvangen inkomsten in de icbe's; en  
 
 b. informatie op welke wijze het verslag van de accountant, bedoeld in [artikel 4:62f, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kan worden verkregen.     
-2.  Indien het gemeenschappelijk fusievoorstel een bepaling omvat betreffende een bijbetaling als bedoeld in [artikel 4:62a, onderdeel a of b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt informatie verstrekt over de bijbetaling en onder meer over wanneer en op welke wijze deelnemers van de verdwijnende instelling voor collectieve belegging in effecten de bijbetaling zullen ontvangen.   
+2.  Indien het gemeenschappelijk fusievoorstel een bepaling omvat betreffende een bijbetaling als bedoeld in [artikel 4:62a, onderdeel a of b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt informatie verstrekt over de bijbetaling en onder meer over wanneer en op welke wijze deelnemers van de verdwijnende icbe de bijbetaling zullen ontvangen.   
 
 ### Artikel  147z  
 
@@ -4042,31 +4335,31 @@ a. indien van toepassing de procedure op grond waarvan de algemene vergadering z
 b. nadere informatie over een voorgenomen opschorting van de verhandeling van rechten van deelneming; en  
 
 c. informatie over wanneer de fusie van kracht zal worden.     
-2.  Indien op grond van [artikel 317](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [330 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een besluit tot fusie wordt genomen door de algemene vergadering, bevat de informatie aan de deelnemers een aanbeveling van de beheerder of van degenen die het dagelijks beleid bepalen van de beleggingsmaatschappij zonder aparte beheerder.   
+2.  Indien op grond van [artikel 317](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [330 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een besluit tot fusie wordt genomen door de algemene vergadering, bevat de informatie aan de deelnemers een aanbeveling van de beheerder of van degenen die het dagelijks beleid bepalen van de maatschappij voor collectieve belegging in effecten zonder aparte beheerder.   
 
 ### Artikel  147aa  
 
-Onverminderd de artikelen 147w, 147x, eerste lid, 147y en 147z omvat de te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten tevens: 
+Onverminderd de artikelen 147w, 147x, eerste lid, 147y en 147z omvat de te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de verdwijnende icbe tevens: 
 
-a. de termijn waarbinnen het inschrijven op of vragen om terugbetaling van rechten van deelneming in de verdwijnende instelling voor collectieve belegging in effecten mogelijk blijft;  
+a. de termijn waarbinnen het inschrijven op of vragen om terugbetaling van rechten van deelneming in de verdwijnende icbe mogelijk blijft;  
 
-b. de termijn waarbinnen de deelnemers, die niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van [artikel 4:62h, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), hun rechten als deelnemer van de verkrijgende instelling voor collectieve belegging in effecten kunnen uitoefenen; en  
+b. de termijn waarbinnen de deelnemers, die niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van [artikel 4:62h, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), hun rechten als deelnemer van de verkrijgende icbe kunnen uitoefenen; en  
 
-c. een toelichting dat indien een besluit tot fusie dient te worden genomen door de algemene vergadering van de verdwijnende instelling voor collectieve belegging in effecten op grond van [artikel 317](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [330van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en het fusiebesluit met de vereiste meerderheid is genomen, de deelnemers die niet hebben gestemd, tegen het fusievoorstel hebben gestemd, of niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van [artikel 4:62h, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), deelnemers worden van de verkrijgende instelling voor collectieve belegging in effecten.    
+c. een toelichting dat indien een besluit tot fusie dient te worden genomen door de algemene vergadering van de verdwijnende icbe op grond van [artikel 317](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [330van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en het fusiebesluit met de vereiste meerderheid is genomen, de deelnemers die niet hebben gestemd, tegen het fusievoorstel hebben gestemd, of niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van [artikel 4:62h, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), deelnemers worden van de verkrijgende icbe.    
 
 ### Artikel  147bb  
 
-1.  De aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten te verstrekken informatie over de voorgenomen fusie voldoet aan de behoeften van de deelnemers die geen voorafgaande kennis over de kenmerken en de bedrijfsvoering van de verkrijgende instelling voor collectieve belegging in effecten hebben. De verdwijnende instelling voor collectieve belegging in effecten wijst haar deelnemers op de essentiële beleggersinformatie van de verkrijgende instelling voor collectieve belegging in effecten en benadrukt de wenselijkheid om die te lezen.   
-2.  De aan de deelnemers van de verkrijgende instelling voor collectieve belegging in effecten te verstrekken informatie spitst zich toe op de voorgenomen fusie en de potentiële gevolgen daarvan voor de verkrijgende instelling voor collectieve belegging in effecten.   
-3.  Bij een voorgenomen grensoverschrijdende fusie licht de instelling voor collectieve belegging in effecten met zetel in Nederland in begrijpelijke taal alle termen en procedures betreffende de andere instelling voor collectieve belegging in effecten toe die verschillen van die welke in Nederland worden gebruikt.   
+1.  De aan de deelnemers van de verdwijnende icbe te verstrekken informatie over de voorgenomen fusie voldoet aan de behoeften van de deelnemers die geen voorafgaande kennis over de kenmerken en de bedrijfsvoering van de verkrijgende icbe hebben. De verdwijnende icbe wijst haar deelnemers op de essentiële beleggersinformatie van de verkrijgende icbe en benadrukt de wenselijkheid om die te lezen.   
+2.  De aan de deelnemers van de verkrijgende icbe te verstrekken informatie spitst zich toe op de voorgenomen fusie en de potentiële gevolgen daarvan voor de verkrijgende icbe.   
+3.  Bij een voorgenomen grensoverschrijdende fusie licht de icbe met zetel in Nederland in begrijpelijke taal alle termen en procedures betreffende de andere icbe toe die verschillen van die welke in Nederland worden gebruikt.   
 
 ### Artikel  147cc  
 
-Indien de informatie over de voorgenomen fusie, bedoeld in artikel 147w, aan de deelnemers van de betrokken instellingen voor collectieve belegging in effecten is verstrekt, wordt dezelfde informatie verstrekt tot de dag waarop de fusie van kracht wordt aan een ieder die rechten van deelneming in de verdwijnende of verkrijgende instelling voor collectieve belegging in effecten aankoopt of daarop inschrijft of verzoekt om het fondsreglement of de statuten, het prospectus of essentiële beleggersinformatie van een van de betrokken instellingen voor collectieve belegging in effecten.  
+Indien de informatie over de voorgenomen fusie, bedoeld in artikel 147w, aan de deelnemers van de betrokken icbe's is verstrekt, wordt dezelfde informatie verstrekt tot de dag waarop de fusie van kracht wordt aan een ieder die rechten van deelneming in de verdwijnende of verkrijgende icbe aankoopt of daarop inschrijft of verzoekt om het fondsreglement of de statuten, het prospectus of essentiële beleggersinformatie van een van de betrokken icbe's.  
 
 ### Artikel  147dd  
 
-Indien de beheerder van een verdwijnende instelling voor collectieve belegging in effecten of een verkrijgende instelling voor collectieve belegging in effecten op grond van de [artikelen 2:123](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [2:124a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) rechten van deelneming in een door hem beheerde instelling voor collectieve belegging in effecten aanbiedt in een andere lidstaat verstrekt de desbetreffende instelling voor collectieve belegging in effecten de informatie, bedoeld in artikel 147w, aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal.  
+Indien de beheerder van een verdwijnende icbe of een verkrijgende icbe op grond van de [artikelen 2:123](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [2:124a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) rechten van deelneming in een door hem beheerde icbe aanbiedt in een andere lidstaat verstrekt de desbetreffende icbe de informatie, bedoeld in artikel 147w, aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal.  
 
 ### Afdeling  10.4  
 
@@ -4089,23 +4382,6 @@ Bepalingen ter uitvoering van [artikel 4:71, vierde lid, van de wet](../../../..
 ####Aanvullende regels betreffende bemiddelen
 
 ### Afdeling  11.1  
-
-####Algemeen
-
-Bepalingen ter uitvoering van de [artikelen 4:71a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:72, derde lid, aanhef en onderdelen a en c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:73, derde lid, aanhef en onderdelen a en c, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
-
-### Artikel  149b  
-
-1.  Een adviseur die niet tevens aanbieder is of een bemiddelaar verstrekt in het kader van het tot stand brengen van een overeenkomst met een consument inzake een complex product of hypothecair krediet een dienstverleningsdocument aan de consument.   
-2.  Het dienstverleningsdocument bevat de volgende informatie: 
-
-a. de aard en reikwijdte van zijn dienstverlening;  
-
-b. de verschillende wijzen van zijn beloning, onderscheiden naar soort financieel product, alsmede een specificatie van de hoogte van de beloning.     
-3.  Het dienstverleningsdocument wordt voorafgaand aan het adviseren of, indien het een bemiddelaar betreft die niet adviseert voorafgaand aan het bemiddelen verstrekt.   
-4.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in het tweede lid, in het dienstverleningsdocument wordt geformuleerd, gepresenteerd of verstrekt.   
-
-### Afdeling  11.2  
 
 ####Krediet
 
@@ -4155,7 +4431,7 @@ Een bemiddelaar heeft over de periode waarin een consument ten minste twee maand
 1.  Een bemiddelaar krijgt geen provisie uitbetaald indien hij uit hoofde van dit besluit geen aanspraak heeft op provisie.   
 2.  Provisie wordt uitsluitend betaald in giraal geld.   
 
-### Afdeling  11.3  
+### Afdeling  11.2  
 
 ####Verzekeringen
 
@@ -4190,6 +4466,34 @@ Bepaling ter uitvoering van [artikel 4:76, tweede lid, van de wet](../../../../.
 ### Artikel  161  
 
 De artikelen 159 en 160 zijn van overeenkomstige toepassing op de beroepsaansprakelijkheidsverzekering en de vergelijkbare voorziening, bedoeld in [artikel 4:76, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+
+### Hoofdstuk  12a  
+
+####Aanvullende regels betreffende afwikkelondernemingen
+
+Bepalingen ter uitvoering van de [artikelen 4:76a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:76b, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:76c, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:76d, tweede lid van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  161a  
+
+1.  De deelnemingscriteria van een afwikkelonderneming zijn erop gericht de veiligheid en efficiëntie voor de afwikkelonderneming en haar deelnemers te waarborgen.   
+2.  Een afwikkelonderneming ziet op permanente basis toe op de naleving van haar criteria voor deelneming.   
+3.  Een afwikkelonderneming heeft openbare procedures op grond waarvan de deelneming kan worden geschorst of beëindigd indien niet meer aan de deelnemingscriteria wordt voldaan.   
+
+### Artikel  161b  
+
+Ten behoeve van het tijdig en efficiënt verlenen van diensten, bedoeld in [artikel 4:76b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), heeft een afwikkelonderneming duidelijk omschreven doelen die meetbaar en haalbaar zijn met betrekking tot een minimaal dienstenniveau, risicobeheersingsverwachtingen en zakelijke prioriteiten.  
+
+### Artikel  161c  
+
+De afwikkelonderneming maakt gebruik van communicatieprocedures die een effectieve communicatie van informatie van de afwikkelonderneming en haar deelnemers mogelijk maken met behulp van gestandaardiseerde berichtverzending.  
+
+### Artikel  161d  
+
+Het inzicht, bedoeld in [artikel 4:76d, eerste lid, van de we](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) t dat een afwikkelonderneming biedt in de financiële risico’s en de kosten die zijn verbonden aan afwikkeldiensten, heeft betrekking op tarieven en basisgegevens over transactievolumes- en waarden en omvat een beschrijving van het gebruikte systeem.  
+
+### Artikel  161e  
+
+De Autoriteit Financiële Markten kan ter uitvoering van internationaal aanvaarde standaarden nadere regels stellen met betrekking tot de toegang en de criteria voor deelneming op basis van risicogerelateerde eisen, de communicatieprocedures, de doelen die een afwikkelonderneming heeft ten behoeve van het tijdig en efficiënt verlenen van diensten, de communicatieprocedures en het inzicht dat een afwikkelonderneming biedt in de financiële risico’s en de kosten die zijn verbonden aan afwikkeldiensten.  
 
 ### Hoofdstuk  13  
 
@@ -4313,7 +4617,7 @@ Een beleggingsonderneming als bedoeld in [artikel 4:87, eerste en tweede lid, va
 
 ### Artikel  166  
 
-Een vermogensbeheerder die tevens beheerder van een instelling voor collectieve belegging in effecten met zetel in Nederland is, belegt in het kader van het beheer van een individueel vermogen de gelden van de cliënt niet geheel of gedeeltelijk in door hem beheerde beleggingsinstellingen zonder de voorafgaande schriftelijke toestemming van de cliënt.  
+Een vermogensbeheerder die tevens beheerder van een icbe met zetel in Nederland is, belegt in het kader van het beheer van een individueel vermogen de gelden van de cliënt niet geheel of gedeeltelijk in door hem beheerde beleggingsinstellingen of icbe’s zonder de voorafgaande schriftelijke toestemming van de cliënt.  
 
 ### Artikel  167  
 
@@ -4377,18 +4681,33 @@ e. de frequentie van rapportage aan de cliënt.
 
 ### Artikel  168a  
 
-1.  Een beleggingsonderneming verschaft of ontvangt voor het verlenen van een beleggingsdienst of nevendienst geen provisie die niet noodzakelijk is voor het verlenen van de betreffende dienst of deze mogelijk maakt.   
+1.  Een beleggingsonderneming verschaft of ontvangt, rechtstreeks of middellijk, geen provisie met betrekking tot het verlenen van een beleggingsdienst of nevendienst.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a. provisies die worden verschaft door of aan de cliënt;  
+a. provisies die rechtstreeks worden verschaft door de cliënt of degene die namens hem optreedt;  
 
-b. provisies die worden verschaft door of aan een derde, indien: 
+b. provisies die noodzakelijk zijn voor het verlenen van de betreffende dienst of de betreffende dienst mogelijk maken;  
 
-1°. de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling wordt gedaan van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening daarvan, van de provisie voordat de desbetreffende dienst wordt verleend; en  
+c. provisies met betrekking tot het verlenen van een beleggingsdienst of nevendienst aan een professionele belegger of een in aanmerking komende tegenpartij en provisies voor het verlenen van een beleggingsdienst als bedoeld in de onderdelen e en f van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
 
-2°. de verschaffing van de provisie de kwaliteit van de desbetreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de beleggingsonderneming om zich in te zetten voor de belangen van de cliënt.       
-3.  De beleggingsonderneming voldoet aan de voorwaarde, bedoeld in het tweede lid, onderdeel b, aanhef en onder 1°, indien zij in samengevatte vorm mededeling doet van de essentiële voorwaarden van de regelingen voor provisies en zij de cliënt informeert over de mogelijkheid om nadere bijzonderheden te verkrijgen en deze op verzoek van de cliënt verstrekt.   
-4.  Onder cliënt of derde in de zin van het tweede lid worden mede verstaan personen die handelen namens de cliënt onderscheidenlijk de derde.   
+1°. de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling wordt gedaan van het bestaan, de aard en het bedrag, of indien het bedrag niet kan worden achterhaald, de wijze van berekening daarvan, van de provisie voordat de desbetreffende dienst wordt verleend; en  
+
+2°. de provisie de kwaliteit van de desbetreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de beleggingsonderneming om zich in te zetten voor de belangen van de cliënt;    
+
+d. provisies die worden verschaft door een beleggingsonderneming aan een door die beleggingsonderneming met inachtneming van [artikel 2:97, vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangemelde verbonden agent dan wel provisies die door die verbonden agent aan de betrokken beleggingsonderneming worden verschaft;  
+
+e. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
+
+### Artikel  168aa  
+
+1.  Artikel 168a is niet van toepassing op het verlenen van beleggingsdiensten of nevendiensten met betrekking tot transacties in financiële instrumenten, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe die op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, die voor 1 januari 2014 zijn verricht. Op de bedoelde diensten blijft artikel 168a zoals dat luidde op 31 december 2013 van toepassing.   
+2.  Artikel 168a is tot en met 31 december 2014 niet van toepassing op het verlenen van beleggingsdiensten of nevendiensten met betrekking tot transacties in rechten van deelneming in een beleggingsinstelling of icbe die op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, indien: 
+
+1°. de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling wordt gedaan van het bestaan, de aard en het bedrag, of indien het bedrag niet kan worden achterhaald, de wijze van berekening daarvan, van de provisie voordat de desbetreffende dienst wordt verleend;  
+
+2°. de provisie de kwaliteit van de desbetreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de beleggingsonderneming om zich in te zetten voor de belangen van de cliënt;  
+
+3°. de provisie in zijn geheel wordt doorbetaald aan de cliënt.     
 
 ### Hoofdstuk  14a  
 
@@ -4466,24 +4785,14 @@ Tot 1 oktober 2007 is artikel 6 niet van toepassing op financiëledienstverlene
 
 ### Artikel  171  
 
-1.  Een financiëledienstverlener die op 31 december 2013 over een vergunning beschikt en op die datum voldoet aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), hoeft tot en met 30 juni 2015 niet te voldoen aan artikel 4:9, tweede lid, van de wet.   
-2.  Een financiëledienstverlener die voor 1 juli 2014 een vergunning heeft aangevraagd voor het verlenen van financiële diensten, hoeft vanaf de datum dat de vergunning is aangevraagd tot en met 30 juni 2014 niet te voldoen aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
-3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6, onderdeel b, in dienst heeft, hoeft voor die personen tot en met 30 juni 2015 niet te voldoen aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover die personen op 31 december 2013 een geldig diploma of geldige erkenning van beroepskwalificaties bezitten.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gelijkstelling van reeds bestaande diploma’s met diploma’s als bedoeld in de artikelen 7 en 8.   
+1.  Een financiëledienstverlener die onmiddellijk voorafgaand aan de inwerkingtreding van [artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2013/BWBR0032731/README.md), over een vergunning beschikte en op dat moment voldeed aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop genoemd artikel I, onderdeel E, in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
+2.  Een financiëledienstverlener die binnen zes maanden, gerekend vanaf de dag waarop [artikel I, onderdeel E, van het Wijzigingsbesluit](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2013/BWBR0032731/README.md), in werking treedt, een vergunning heeft aangevraagd, behoeft gedurende die zes maanden niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
+3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6 eerste lid, onderdeel b, in dienst heeft, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop [artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2013/BWBR0032731/README.md), in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b, voor zover die personen op de dag voorafgaand aan de inwerkingtreding van genoemd artikel I, onderdeel E, over een geldig diploma of geldige erkenning van beroepskwalificaties beschikten.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gelijkstelling van reeds bestaande diploma’s met diploma’s als bedoeld in artikel 7.   
 
 ### Artikel  172  
 
 Artikel 28, tweede lid, is niet van toepassing ten aanzien van personen die zich op 1 januari 2006 reeds onder de verantwoordelijkheid van de financiëledienstverlener, bedoeld in het eerste lid van dat artikel, rechtstreeks bezighielden met het verlenen van financiële diensten.  
-
-### Artikel  173  
-
-Tot 1 april 2007 is artikel 52, vijfde lid, niet van toepassing op financiële ondernemingen voorzover zij: 
-
-a. onverminderd artikel 65, eerste lid, aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt een financiële bijsluiter verstrekken voorafgaande aan de totstandkoming van de overeenkomst;  
-
-b. in de informatie die zij aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt verstrekken over het complexe product geen financiële bijsluiter opnemen die is opgesteld op grond van het [Besluit financiële bijsluiter](../../../../../../../AMvB/besluit/financiële/bijsluiter/BWBR0013263/README.md), zoals dat gold voor het tijdstip van inwerkingtreding van het [Besluit financiële dienstverlening](../../../../../../../AMvB/besluit/financiële/dienstverlening/BWBR0019283/README.md); en  
-
-c. de consument adequaat schriftelijk informeren over de verschillen tussen de berekening van de rendementen, kosten en risico’s ten behoeve van de financiële bijsluiter, bedoeld in artikel 66, eerste lid, onderdelen c en g, onderscheidenlijk tweede lid, onderdelen d en f, en de berekeningen die ten grondslag liggen aan de overige informatie die zij aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt verstrekken.    
 
 ### Artikel  173a  
 
@@ -4534,7 +4843,7 @@ c) het verschil tussen de data die bij de berekeningsmethoden worden gebruikt, w
 
 d) de uitkomst van de berekening wordt ten minste tot op de eerste decimaal weergegeven. Als de volgende decimaal groter is dan of gelijk is aan 5, wordt de eerste decimaal met 1 vermeerderd.  
 
-e) de vergelijking kan met slechts één sommatie worden herschreven aan de hand van het begrip flux (Ak). De flux is positief of negatief, dat wil zeggen wordt gedurende de perioden 1 tot en met k respectievelijk betaald of ontvangen, en wordt uitgedrukt in jaren:   ![248908](http://wetten.overheid.nl/Illustration/248908)
+e) de vergelijking kan met slechts één sommatie worden herschreven aan de hand van het begrip flux (Ak). De flux is positief of negatief, dat wil zeggen wordt gedurende de perioden 1 tot en met k respectievelijk betaald of ontvangen, en wordt uitgedrukt in jaren:   ![248909](http://wetten.overheid.nl/Illustration/248909)
 S is het saldo van de geactualiseerde flux en bedraagt nul indien de flux gelijkwaardig is.    
 
 II.  *Aanvullende hypothesen voor de berekening van het jaarlijks kostenpercentage:*  
@@ -5054,15 +5363,15 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 #### *Gegevens betreffende de door de partijen bij de overeenkomst te verrichten diensten en te volgen procedures:* 
 
-a. een beschrijving van de procedures, inclusief de procedure betreffende bewaarneming, die moeten worden vastgesteld voor elke soort activa van de instelling voor collectieve belegging in effecten die aan de bewaarder wordt toevertrouwd;  
+a. een beschrijving van de procedures, inclusief de procedure betreffende bewaarneming, die moeten worden vastgesteld voor elke soort activa van de icbe die aan de bewaarder wordt toevertrouwd;  
 
-b. een beschrijving van de te volgen procedures indien de beheerder het fondsreglement of het prospectus van een instelling voor collectieve belegging in effecten wil wijzigen, en het aangeven van de situaties waarin de bewaarder in kennis dient te worden gesteld, of waarin een voorafgaande goedkeuring van de bewaarder is vereist om de wijziging door te voeren;  
+b. een beschrijving van de te volgen procedures indien de beheerder het fondsreglement of het prospectus van een icbe wil wijzigen, en het aangeven van de situaties waarin de bewaarder in kennis dient te worden gesteld, of waarin een voorafgaande goedkeuring van de bewaarder is vereist om de wijziging door te voeren;  
 
 c. een beschrijving van de procedures aan de hand waarvan de bewaarder een onderzoek kan instellen naar het gedrag van de beheerder en de kwaliteit van de meegedeelde informatie kan beoordelen, inclusief via bezoeken ter plaatse;  
 
 d. een beschrijving van de procedures aan de hand waarvan de beheerder de prestaties van de bewaarder in het kader van diens contractuele verplichtingen kan beoordelen;  
 
-e. indien niet in een andere schriftelijke overeenkomst opgenomen: een beschrijving van de middelen en procedures aan de hand waarvan de bewaarder aan de beheerder alle relevante informatie meedeelt die zij nodig heeft voor de uitoefening van haar taken, met inbegrip van een beschrijving van de middelen en procedures voor de uitoefening van eventueel aan financiële instrumenten verbonden rechten, alsook van de aangewende middelen en procedures om de beheerder en de instelling voor collectieve belegging in effecten in staat te stellen tijdige en accurate toegang tot informatie betreffende de rekening van de instelling voor collectieve belegging in effecten te verkrijgen; en  
+e. indien niet in een andere schriftelijke overeenkomst opgenomen: een beschrijving van de middelen en procedures aan de hand waarvan de bewaarder aan de beheerder alle relevante informatie meedeelt die zij nodig heeft voor de uitoefening van haar taken, met inbegrip van een beschrijving van de middelen en procedures voor de uitoefening van eventueel aan financiële instrumenten verbonden rechten, alsook van de aangewende middelen en procedures om de beheerder en de icbe in staat te stellen tijdige en accurate toegang tot informatie betreffende de rekening van de icbe te verkrijgen; en  
 
 f. indien niet in een andere schriftelijke overeenkomst opgenomen: een beschrijving van de middelen en procedures aan de hand waarvan de bewaarder toegang verkrijgt tot alle relevante informatie die hij nodig heeft om zijn taken te kunnen uitoefenen.    
 
@@ -5070,7 +5379,7 @@ f. indien niet in een andere schriftelijke overeenkomst opgenomen: een beschrijv
 
 #### *Gegevens betreffende de uitwisseling van informatie, de verplichtingen inzake vertrouwelijkheid en het witwassen van geld en de financiering van terrorisme:* 
 
-a. een lijst van alle informatie die tussen de instelling voor collectieve belegging in effecten, haar beheerder en de bewaarder dient te worden uitgewisseld betreffende de inschrijving, terugbetaling, uitgifte, intrekking en inkoop van rechten van deelneming in de instelling voor collectieve belegging in effecten;  
+a. een lijst van alle informatie die tussen de icbe, haar beheerder en de bewaarder dient te worden uitgewisseld betreffende de inschrijving, terugbetaling, uitgifte, intrekking en inkoop van rechten van deelneming in de icbe;  
 
 b. de verplichtingen met betrekking tot vertrouwelijkheid die op de beheerder en de bewaarder van toepassing zijn; en  
 
@@ -5098,9 +5407,9 @@ c. de voorwaarden die vereist zijn om de overgang naar een andere bewaarder te v
 
 #### *Overige gegevens met betrekking tot de overeenkomst:* 
 
-a. dat op de overeenkomst het recht van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten van toepassing is;  
+a. dat op de overeenkomst het recht van de lidstaat van de zetel van de icbe van toepassing is;  
 
-b. de instellingen voor collectieve belegging in effecten waar de overeenkomst betrekking op heeft; en  
+b. de icbe's waar de overeenkomst betrekking op heeft; en  
 
 c. indien de beheerder en de bewaarder overeenkomen dat alle informatiestromen tussen hen geheel of gedeeltelijk langs elektronische weg plaatsvinden, bepalingen die garanderen dat over dergelijke informatie gegevens worden bijgehouden.    
 
@@ -5110,107 +5419,107 @@ c. indien de beheerder en de bewaarder overeenkomen dat alle informatiestromen t
 
 ### 1  
 
-####Gegevens over de werkzaamheden van de beheerder
+####Gegevens over de werkzaamheden van de beheerder van een icbe
 
-De werkzaamheden van de beheerder, te onderscheiden in: 
+De werkzaamheden van de beheerder van een icbe, te onderscheiden in: 
 
-a. de activiteiten van de beheerder; en  
+a. de activiteiten van de beheerder van een icbe; en  
 
-b. de soorten beleggingsinstellingen die de beheerder beheert of voornemens is te beheren.    
+b. de soorten beleggingsinstellingen of icbe’s die de beheerder van een icbe beheert of voornemens is te beheren.    
 
 ### 2  
 
-####Gegevens over de personen die het (dagelijks) beleid van de beheerder en iedere bewaarder (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beheerder en iedere bewaarder
+####Gegevens over de personen die het (dagelijks) beleid van de beheerder van een icbe en iedere bewaarder van een icbe (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beheerder van een icbe en iedere bewaarder van een icbe
 
 2.1. De namen van: 
 
-a. de personen die het dagelijks beleid van de beheerder en van iedere bewaarder bepalen;  
+a. de personen die het dagelijks beleid van de beheerder van een icbe en van iedere bewaarder van een icbe bepalen;  
 
-b. de personen die het beleid van de beheerder en van iedere bewaarder bepalen of mede bepalen; en  
+b. de personen die het beleid van de beheerder van een icbe en van iedere bewaarder van een icbe bepalen of mede bepalen; en  
 
-c. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder en van iedere bewaarder.   2.2. Vermelding van de voornaamste door de personen, bedoeld onder 2.1, buiten de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder.  
+c. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder van een icbe en van iedere bewaarder van een icbe.   2.2. Vermelding van de voornaamste door de personen, bedoeld onder 2.1, buiten de beheerder van een icbe, de door hem beheerde icbe’s en iedere bewaarder van een icbe uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beheerder van een icbe, de door hem beheerde icbe’s en iedere bewaarder van een icbe.  
 
 ### 3  
 
-####Algemene gegevens over de beheerder en de bewaarders
+####Algemene gegevens over de beheerder van een icbe en de bewaarder van een icbe
 
-3.1. De naam en rechtsvorm van de beheerder, de statutaire zetel en plaats van het hoofdkantoor van de beheerder indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersoon is opgericht die de functie van beheerder vervult indien deze niet voor onbepaalde tijd is aangegaan. 3.2. Het nummer van inschrijving van de beheerder in het handelsregister en de plaats van inschrijving. 3.3. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beheerder met andere personen is verbonden. 3.4. Indien van toepassing: de naam en rechtsvorm van iedere bewaarder, de statutaire zetel en plaats van het hoofdkantoor van iedere bewaarder indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersonen zijn opgericht die de functie van bewaarder vervullen indien deze niet voor onbepaalde tijd zijn aangegaan. 3.5. Indien van toepassing: het nummer van inschrijving van iedere bewaarder in het handelsregister en de plaats van inschrijving. 3.6. Indien van toepassing: een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin iedere bewaarder met andere personen is verbonden. 3.7. Indien van toepassing: de organisatiestructuur van iedere bewaarder die de activa van meer dan een beleggingsinstelling bewaart.  
+3.1. De naam en rechtsvorm van de beheerder van een icbe, de statutaire zetel en plaats van het hoofdkantoor van de beheerder van een icbe indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersoon is opgericht die de functie van beheerder van een icbe vervult indien deze niet voor onbepaalde tijd is aangegaan. 3.2. Het nummer van inschrijving van de beheerder van een icbe in het handelsregister en de plaats van inschrijving. 3.3. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beheerder van een icbe met andere personen is verbonden. 3.4. Indien van toepassing: de naam en rechtsvorm van iedere bewaarder van een icbe, de statutaire zetel en plaats van het hoofdkantoor van iedere bewaarder van een icbe indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersonen zijn opgericht die de functie van bewaarder van een icbe vervullen indien deze niet voor onbepaalde tijd zijn aangegaan. 3.5. Indien van toepassing: het nummer van inschrijving van iedere bewaarder van een icbe in het handelsregister en de plaats van inschrijving. 3.6. Indien van toepassing: een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin iedere bewaarder van een icbe met andere personen is verbonden. 3.7. Indien van toepassing: de organisatiestructuur van iedere bewaarder van een icbe die de activa van meer dan een icbe bewaart.  
 
 ### 4  
 
-####Financiële gegevens over de beheerder en de bewaarders
+####Financiële gegevens over de beheerder van een icbe en de bewaarder van een icbe
 
-4.1. Een verklaring van een accountant dat aan het bepaalde ingevolge de [artikelen 3:53](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:57 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is voldaan. 4.2. Indien beschikbaar: een verklaring van een accountant dat de jaarrekening van de beheerder en iedere bewaarder is onderzocht. Indien de verklaring voorbehouden bevat dan wel een oordeelonthouding worden de redenen daarvan in de tekst van de verklaring vermeld.  
+4.1. Een verklaring van een accountant dat aan het bepaalde ingevolge de [artikelen 3:53](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:57 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is voldaan. 4.2. Indien beschikbaar: een verklaring van een accountant dat de jaarrekening van de beheerder van een icbe en iedere bewaarder van een icbe is onderzocht. Indien de verklaring voorbehouden bevat dan wel een oordeelonthouding worden de redenen daarvan in de tekst van de verklaring vermeld.  
 
 ### 5  
 
 ####Gegevens over informatieverstrekking
 
-5.1. De wijze waarop de beheerder periodiek informatie verschaft. 5.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beheerder op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moeten zijn afgesloten. 5.3. De datum waarop de jaarrekening van iedere bewaarder op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moet zijn afgesloten. 5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder en iedere bewaarder en de halfjaarcijfers van de beheerder op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.  
+5.1. De wijze waarop de beheerder van een icbe periodiek informatie verschaft. 5.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beheerder van een icbe op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moeten zijn afgesloten. 5.3. De datum waarop de jaarrekening van iedere bewaarder van een icbe op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moet zijn afgesloten. 5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder van een icbe en iedere bewaarder van een icbe en de halfjaarcijfers van de beheerder van een icbe op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder van een icbe kosteloos verkrijgbaar zijn.  
 
 ### 6  
 
-####Gegevens over vervanging van de beheerder of de bewaarder
+####Gegevens over vervanging van de beheerder van een icbe of de bewaarder van een icbe
 
-6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder of de bewaarder. 6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.  
+6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder van een icbe of de bewaarder van een icbe. 6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder van een icbe.  
 
 ### Bijlage  I  
 
-####behorend bij artikel 118, eerste lid 
+####behorende bij de artikelen 118, eerste lid  en 115X, eerste lid 
 
 ### 1  
 
-####Algemene gegevens over de beleggingsinstelling
+####Algemene gegevens over de icbe
 
-1.1. De rechtsvorm van de beleggingsinstelling. 1.2. De naam van de beleggingsinstelling, de statutaire zetel en plaats van het hoofdkantoor van de beleggingsinstelling, de oprichtingsdatum, de tijd waarvoor de beleggingsinstelling is opgericht indien deze niet voor onbepaalde tijd is aangegaan, en, indien van toepassing, het nummer van de inschrijving van de beleggingsinstelling in het handelsregister en de plaats van de inschrijving. 1.3. Indien in het kader van het beheer of de bewaring van de activa van de beleggingsinstelling werkzaamheden zijn of worden uitbesteed ten minste de volgende gegevens: 
+1.1. De rechtsvorm van de icbe. 1.2. De naam van de icbe, de statutaire zetel en plaats van het hoofdkantoor van de icbe, de oprichtingsdatum, de tijd waarvoor de icbe is opgericht indien deze niet voor onbepaalde tijd is aangegaan, en, indien van toepassing, het nummer van de inschrijving van de icbe in het handelsregister en de plaats van de inschrijving. 1.3. Indien in het kader van het beheer of de bewaring van de activa van de icbe werkzaamheden zijn of worden uitbesteed ten minste de volgende gegevens: 
 
 a. een beschrijving van de werkzaamheden die zijn of worden uitbesteed; en  
 
-b. de naam van de derde(n).   1.4. De naam van adviseurs en adviesbureaus van wier diensten de beleggingsinstelling ter zake van haar beleggingen gebruik maakt. Indien het een instelling voor collectieve belegging in effecten betreft: de werkzaamheden van de adviseurs en adviesbureaus, voor zover het beroep op hun diensten bij overeenkomst is vastgelegd, en op welke wijze de kosten van de werkzaamheden ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de beleggingsinstelling, en de vermelding van belang kan zijn voor de deelnemers. 1.5. Indien van toepassing: de naam en het kantooradres van de accountant die de jaarrekening van de beleggingsinstelling over het laatste boekjaar heeft gecontroleerd. 1.6. Indien van toepassing: de naam van de bewaarder die de activa van de beleggingsinstelling bewaart. 1.7. Indien van toepassing: een beschrijving van de hoofdlijnen van de overeenkomst ter zake van beheer en bewaring tussen de beheerder en de bewaarder van de beleggingsinstelling en mededeling dat op verzoek een afschrift van de overeenkomst kan worden verkregen tegen ten hoogste de kostprijs. 1.8. Een verklaring dat de bewaarder volgens het recht van de staat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook wanneer de bewaarder de bij hem in bewaring gegeven activa geheel of ten dele aan een derde heeft toevertrouwd. 1.9. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beleggingsmaatschappij met andere personen is verbonden. 1.10. De namen van eventuele andere beleggingsinstellingen die worden beheerd door de beheerder van de beleggingsinstelling. 1.11. De wijze waarop deelnemers klachten over de beleggingsinstelling kunnen indienen bij de beheerder.  
+b. de naam van de derde(n).   1.4. De naam van adviseurs en adviesbureaus van wier diensten de icbe ter zake van haar beleggingen gebruik maakt. De werkzaamheden van de adviseurs en adviesbureaus, voor zover het beroep op hun diensten bij overeenkomst is vastgelegd, en op welke wijze de kosten van de werkzaamheden ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de icbe, en de vermelding van belang kan zijn voor de deelnemers. 1.5. Indien van toepassing: de naam en het kantooradres van de accountant die de jaarrekening van de icbe over het laatste boekjaar heeft gecontroleerd. 1.6. Indien van toepassing: de naam van de bewaarder die de activa van de icbe bewaart. 1.7. Indien van toepassing: een beschrijving van de hoofdlijnen van de overeenkomst ter zake van beheer en bewaring tussen de beheerder en de bewaarder van de icbe en mededeling dat op verzoek een afschrift van de overeenkomst kan worden verkregen tegen ten hoogste de kostprijs. 1.8. Een verklaring dat de bewaarder volgens het recht van de staat waar de icbe haar zetel heeft jegens de icbe en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook wanneer de bewaarder de bij hem in bewaring gegeven activa geheel of ten dele aan een derde heeft toevertrouwd. 1.9. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de maatschappij voor collectieve belegging in effecten met andere personen is verbonden. 1.10. De namen van eventuele andere beleggingsinstellingen of icbe’s die worden beheerd door de beheerder van de icbe. 1.11. De wijze waarop deelnemers klachten over de icbe kunnen indienen bij de beheerder.  
 
 ### 2  
 
-####Gegevens over de personen die het (dagelijks) beleid van de beleggingsmaatschappij (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beleggingsmaatschappij
+####Gegevens over de personen die het (dagelijks) beleid van de maatschappij voor collectieve belegging in effecten (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de maatschappij voor collectieve belegging in effecten
 
-De namen van de personen die het beleid van de beleggingsmaatschappij bepalen of mede bepalen of die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beleggingsmaatschappij, vermelding van de voornaamste door deze personen buiten de beleggingsmaatschappij uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beleggingsmaatschappij.  
+De namen van de personen die het beleid van de maatschappij voor collectieve belegging in effecten bepalen of mede bepalen of die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de maatschappij voor collectieve belegging in effecten, vermelding van de voornaamste door deze personen buiten de maatschappij voor collectieve belegging in effecten uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de maatschappij voor collectieve belegging in effecten.  
 
 ### 3  
 
 ####Gegevens over wijzigingen in de voorwaarden
 
-3.1. De wijze waarop de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers kunnen worden gewijzigd. 3.2. Vermelding van het feit dat een voorstel tot wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder en dat het voorstel tot wijziging op de website van de beheerder wordt toegelicht. 3.3. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder, en dat de wijziging op de website van de beheerder wordt toegelicht. 3.4. Dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd tegenover de deelnemers niet wordt ingeroepen voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden. 3.5. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor het beleggingsbeleid wordt gewijzigd niet wordt ingevoerd voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.  
+3.1. De wijze waarop de voorwaarden die gelden tussen de icbe en de deelnemers kunnen worden gewijzigd. 3.2. Vermelding van het feit dat een voorstel tot wijziging van de voorwaarden die gelden tussen de icbe en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder en dat het voorstel tot wijziging op de website van de beheerder wordt toegelicht. 3.3. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de icbe en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder, en dat de wijziging op de website van de beheerder wordt toegelicht. 3.4. Dat een wijziging van de voorwaarden die gelden tussen de icbe en de deelnemers waardoor rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd tegenover de deelnemers niet wordt ingeroepen voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden. 3.5. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de icbe en de deelnemers waardoor het beleggingsbeleid wordt gewijzigd niet wordt ingevoerd voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.  
 
 ### 4  
 
 ####Gegevens over informatieverstrekking
 
-4.1. De wijze waarop de beleggingsinstelling periodiek informatie verstrekt. 4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beleggingsinstelling op grond van haar voorwaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn. 4.3. De plaatsen waar de vergunning van de beheerder van de beleggingsinstelling en het fondsreglement of de statuten van de beleggingsinstelling verkrijgbaar zijn. 4.4. Vermelding van het feit dat aan een ieder op verzoek kosteloos een afschrift van het fondsreglement of de statuten wordt verstrekt. 4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de beleggingsinstelling en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt. 4.6. Vermelding van het feit dat aan de deelnemers in de beleggingsinstelling op verzoek tegen ten hoogste de kostprijs de volgende gegevens worden verstrekt: 
+4.1. De wijze waarop de icbe periodiek informatie verstrekt. 4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de icbe op grond van haar voorwaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn. 4.3. De plaatsen waar de vergunning van de beheerder van de icbe en het fondsreglement of de statuten van de icbe verkrijgbaar zijn. 4.4. Vermelding van het feit dat aan een ieder op verzoek kosteloos een afschrift van het fondsreglement of de statuten wordt verstrekt. 4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de icbe en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt. 4.6. Vermelding van het feit dat aan de deelnemers in de icbe op verzoek tegen ten hoogste de kostprijs de volgende gegevens worden verstrekt: 
 
 a. een afschrift van de vergunning van de beheerder;  
 
-b. een afschrift van een door de Autoriteit Financiële Markten genomen besluit tot ontheffing van het ingevolge deze wet bepaalde met betrekking tot de beheerder, de door hem beheerde beleggingsinstelling en de eventueel daaraan verbonden bewaarder; of  
+b. een afschrift van een door de Autoriteit Financiële Markten genomen besluit tot ontheffing van het ingevolge deze wet bepaalde met betrekking tot de beheerder, de door hem beheerde icbe en de eventueel daaraan verbonden bewaarder; of  
 
-c. een afschrift van de opgave, bedoeld in artikel 50, tweede lid.   4.7. Vermelding van het feit dat de betaalbaarstelling van uitkeringen aan deelnemers in de beleggingsinstelling, de samenstelling van de uitkeringen alsmede de wijze van betaalbaarstelling worden bekendgemaakt per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.  
+c. een afschrift van de opgave, bedoeld in artikel 50, tweede lid.   4.7. Vermelding van het feit dat de betaalbaarstelling van uitkeringen aan deelnemers in de icbe, de samenstelling van de uitkeringen alsmede de wijze van betaalbaarstelling worden bekendgemaakt per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.  
 
 ### 5  
 
 ####Gegevens over de activiteiten en het beleggingsbeleid
 
-5.1. Een beschrijving van de beleggingsdoeleinden met inbegrip van de financiële doelstellingen, zoals kapitaalgroei of inkomsten, de beleggingsportefeuille en het beleggingsbeleid, zoveel mogelijk onderverdeeld naar economische sector en geografische spreiding, de aard van de goederen waarin wordt belegd en de aan het beleggingsbeleid en de aard van de goederen waarin wordt belegd, verbonden risico’s. 5.2. De wijze waarop wordt bepaald of de opbrengsten van de beleggingsinstelling worden uitgekeerd of herbelegd. 5.3. De eventueel aan de beleggingsactiviteiten gestelde grenzen en de wijze waarop hierin wijziging kan worden aangebracht. 5.4. Indien van toepassing: de bevoegdheid om als debiteur leningen aan te gaan of financiële instrumenten uit te lenen. 5.5. Indien van toepassing: een beschrijving van de hoofdlijnen van overeenkomsten met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen. 5.6. Indien transacties worden verricht met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen: 
+5.1. Een beschrijving van de beleggingsdoeleinden met inbegrip van de financiële doelstellingen, zoals kapitaalgroei of inkomsten, de beleggingsportefeuille en het beleggingsbeleid, zoveel mogelijk onderverdeeld naar economische sector en geografische spreiding, de aard van de goederen waarin wordt belegd en de aan het beleggingsbeleid en de aard van de goederen waarin wordt belegd, verbonden risico’s. 5.2. De wijze waarop wordt bepaald of de opbrengsten van de icbe worden uitgekeerd of herbelegd. 5.3. De eventueel aan de beleggingsactiviteiten gestelde grenzen en de wijze waarop hierin wijziging kan worden aangebracht. 5.4. Indien van toepassing: de bevoegdheid om als debiteur leningen aan te gaan of financiële instrumenten uit te lenen. 5.5. Indien van toepassing: een beschrijving van de hoofdlijnen van overeenkomsten met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen. 5.6. Indien transacties worden verricht met de met de beheerder van een icbe, de beleggingsmaatschappij of de bewaarder van een icbe gelieerde partijen: 
 
 a. een beschrijving van de desbetreffende transactiesoorten;  
 
 b. vermelding of de transacties met de gelieerde partijen onder marktconforme voorwaarden plaatsvinden en zo niet, de reden daarvoor; en  
 
-c. bij transacties met gelieerde partijen niet op een gereglementeerde markt of een andere markt in financiële instrumenten plaatsvinden: een verklaring dat in alle gevallen een onafhankelijke waardebepaling ten grondslag ligt aan de transactie of dat een waardebepaling door een of meer bij de transactie betrokken partijen ook mogelijk is.   5.7. Indien van toepassing: een verklaring dat de beleggingsinstelling in met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen kan beleggen. 5.8. Indien van toepassing: een verklaring dat de beleggingsinstelling direct of indirect kan beleggen in andere beleggingsinstellingen. 5.9. Indien de beleggingsinstelling twintig procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: 
+c. bij transacties met gelieerde partijen niet op een gereglementeerde markt of een andere markt in financiële instrumenten plaatsvinden: een verklaring dat in alle gevallen een onafhankelijke waardebepaling ten grondslag ligt aan de transactie of dat een waardebepaling door een of meer bij de transactie betrokken partijen ook mogelijk is.   5.7. Indien van toepassing: een verklaring dat de icbe in met de beheerder van een icbe, de beleggingsmaatschappij of de bewaarder van een icbe gelieerde partijen kan beleggen. 5.8. Indien van toepassing: een verklaring dat de icbe direct of indirect kan beleggen in andere beleggingsinstellingen of icbe’s. 5.9. Indien de icbe twintig procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: 
 
-a. een beschrijving van de wijze waarop informatie wordt verschaft over de andere beleggingsinstelling: en  
+a. een beschrijving van de wijze waarop informatie wordt verschaft over de andere beleggingsinstelling of icbe: en  
 
-b. indien van toepassing: de afspraken tussen de beleggingsinstelling en de andere beleggingsinstelling over de verdeling van kosten en aan wie het voordeel ten goede komt.   5.10. Indien van toepassing: een verklaring dat de beleggingsinstelling belegt in een andere beleggingsmaatschappij die een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij is of in een andere beleggingsinstelling die beheerd wordt door een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij en de voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere beleggingsinstelling plaatsvindt. 5.11. Indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: een beschrijving van het beleggingsbeleid van de andere beleggingsinstelling. 5.12. Indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: 
+b. indien van toepassing: de afspraken tussen de icbe en de andere beleggingsinstelling of icbe over de verdeling van kosten en aan wie het voordeel ten goede komt.   5.10. Indien van toepassing: een verklaring dat de icbe belegt in een andere beleggingsmaatschappij, maatschappij voor collectieve belegging in effecten of die een met de beheerder, beleggingsmaatschappij, maatschappij voor collectieve belegging in effecten of bewaarder gelieerde partij is of in een andere beleggingsinstelling of icbe die beheerd wordt door een met de beheerder, beleggingsmaatschappij, maatschappij voor collectieve belegging in effecten of bewaarder gelieerde partij en de voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere beleggingsinstelling of icbe plaatsvindt. 5.11. Indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: een beschrijving van het beleggingsbeleid van de andere beleggingsinstelling of icbe. 5.12. Indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: 
 
-a. het feit dat de beheerder van de andere beleggingsinstelling een vergunning als bedoeld in [artikel 2:65 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft en in Nederland onder toezicht staat;  
+a. het feit dat de beheerder van de andere beleggingsinstelling of icbe een vergunning als bedoeld in [artikel 2:65 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft en in Nederland onder toezicht staat;  
 
-b. vermelding van het feit dat de andere beleggingsinstelling: 
+b. vermelding van het feit dat de andere beleggingsinstelling of icbe: 
 
 1°. overeenkomstig de herziene richtlijn beleggingsinstellingen in een andere lidstaat is toegelaten;  
 
@@ -5220,7 +5529,7 @@ b. vermelding van het feit dat de andere beleggingsinstelling:
 
 4°. niet onder Nederlands toezicht staat;    
 
-c. het feit dat de andere beleggingsinstelling: 
+c. het feit dat de andere beleggingsinstelling of icbe: 
 
 1°. haar zetel heeft in een aangewezen staat;  
 
@@ -5230,53 +5539,53 @@ c. het feit dat de andere beleggingsinstelling:
 
 4°. niet onder Nederlands toezicht staat; of    
 
-d. het feit dat de andere beleggingsinstelling: 
+d. het feit dat de andere beleggingsinstelling of icbe: 
 
 1°. haar zetel heeft in een staat die niet ingevolge [artikel 2:66 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is aangewezen;  
 
 2°. al dan niet een vergunning heeft en onder toezicht staat van een met name genoemde buitenlandse toezichthouder of beheerd wordt door een of beheerder die al dan niet een vergunning heeft en onder toezicht staat van een met name genoemde buitenlandse toezichthouder; en  
 
-3°. niet onder Nederlands toezicht staat.     5.13. Indien van toepassing: de gereglementeerde markt en de andere markten in financiële instrumenten waar de financiële instrumenten worden verhandeld waarin de beleggingsinstelling belegt. 5.14. Indien van toepassing: de wijze waarop en de voorwaarden waaronder derden in opdracht van de beleggingsmaatschappij of in opdracht van haar beheerder de markt in deelnemingsrechten onderhouden. 5.15. Indien het een instelling voor collectieve belegging in effecten betreft: het profiel van het type belegger tot wie de beleggingsinstelling zich richt. 5.16. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: de staat, het openbaar lichaam met verordende bevoegdheid of de internationale organisatie waarin een of meer lidstaten deelnemen, die effecten of geldmarktinstrumenten uitgeeft of garandeert waarin de beleggingsinstelling voor meer dan vijfendertig procent van het beheerde vermogen belegt alsmede van de ontheffing daartoe ingevolge artikel 136, tweede lid. 5.17. Indien het een instelling voor collectieve belegging in effecten betreft: de categorieën effecten, geldmarktinstrumenten of financiële derivaten waarin de beleggingsinstelling mag beleggen; een verklaring of de beleggingsinstelling transacties met betrekking tot financiële derivaten mag verrichten en zo ja, dan wordt duidelijk vermeld of dat gebruik van de financiële derivaten mag dienen voor risicodekking dan wel ter verwezenlijking van beleggingsdoelstellingen, alsmede het mogelijke effect van het gebruik van deze effecten, geldmarktinstrumenten of financiële derivaten op het risicoprofiel. 5.18. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: vermelding van het feit dat de beleggingsinstelling voornamelijk in financiële derivaten belegt of een aandelen- of obligatie-index als bedoeld in artikel 138, eerste lid, volgt. 5.19. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: vermelding van het feit dat de waarde van de activa als gevolg van het beleggingsbeleid sterk kan fluctueren. 5.20 Indien het een feeder-instelling voor collectieve belegging in effecten betreft: 
+3°. niet onder Nederlands toezicht staat.     5.13. Indien van toepassing: de gereglementeerde markt en de andere markten in financiële instrumenten waar de financiële instrumenten worden verhandeld waarin de icbe belegt. 5.14. Indien van toepassing: de wijze waarop en de voorwaarden waaronder derden in opdracht van de maatschappij voor collectieve belegging in effecten of in opdracht van haar beheerder de markt in deelnemingsrechten onderhouden. 5.15. Het profiel van het type belegger tot wie de icbe zich richt. 5.16. Indien van toepassing: de staat, het openbaar lichaam met verordende bevoegdheid of de internationale organisatie waarin een of meer lidstaten deelnemen, die effecten of geldmarktinstrumenten uitgeeft of garandeert waarin de icbe voor meer dan vijfendertig procent van het beheerde vermogen belegt alsmede van de ontheffing daartoe ingevolge artikel 136, tweede lid. 5.17. De categorieën effecten, geldmarktinstrumenten of financiële derivaten waarin de icbe mag beleggen; een verklaring of de icbe transacties met betrekking tot financiële derivaten mag verrichten en zo ja, dan wordt duidelijk vermeld of dat gebruik van de financiële derivaten mag dienen voor risicodekking dan wel ter verwezenlijking van beleggingsdoelstellingen, alsmede het mogelijke effect van het gebruik van deze effecten, geldmarktinstrumenten of financiële derivaten op het risicoprofiel. 5.18. Indien van toepassing: vermelding van het feit dat de icbe voornamelijk in financiële derivaten belegt of een aandelen- of obligatie-index als bedoeld in artikel 138, eerste lid, volgt. 5.19. Indien van toepassing: vermelding van het feit dat de waarde van de activa als gevolg van het beleggingsbeleid sterk kan fluctueren. 5.20 Indien het een feeder-icbe betreft: 
 
-a. een verklaring dat zij een feeder-instelling voor collectieve belegging in effecten van een bepaalde master-instelling voor collectieve belegging in effecten is en als zodanig ten minste 85 procent van haar beheerd vermogen belegt in rechten van deelneming in deze master-instelling voor collectieve belegging in effecten;  
+a. een verklaring dat zij een feeder-icbe van een bepaalde master-icbe is en als zodanig ten minste 85 procent van haar beheerd vermogen belegt in rechten van deelneming in deze master-icbe;  
 
-b. vermelding van het feit dat de beleggingsdoelstelling en het beleggingsbeleid van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten identiek zijn dan wel in welke mate en waarom zij van elkaar afwijken, met inbegrip van een omschrijving van de beleggingen overeenkomstig artikel 131, tweede lid;  
+b. vermelding van het feit dat de beleggingsdoelstelling en het beleggingsbeleid van de feeder-icbe en de master-icbe identiek zijn dan wel in welke mate en waarom zij van elkaar afwijken, met inbegrip van een omschrijving van de beleggingen overeenkomstig artikel 131, tweede lid;  
 
-c. een beknopte beschrijving van de master-instelling voor collectieve belegging in effecten, haar structuur en haar beleggingsdoelstelling en beleggingsbeleid en een vermelding hoe het prospectus van de master-instelling voor collectieve belegging in effecten verkregen kan worden;  
+c. een beknopte beschrijving van de master-icbe, haar structuur en haar beleggingsdoelstelling en beleggingsbeleid en een vermelding hoe het prospectus van de master-icbe verkregen kan worden;  
 
-d. een samenvatting van de overeenkomst tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten, bedoeld in artikel 147a, eerste lid, of van de regels omtrent de bedrijfsvoering, bedoeld in artikel 147a, vierde lid;  
+d. een samenvatting van de overeenkomst tussen de feeder-icbe en de master-icbe, bedoeld in artikel 147a, eerste lid, of van de regels omtrent de bedrijfsvoering, bedoeld in artikel 147a, vierde lid;  
 
-e. de wijze waarop deelnemers informatie kunnen verkrijgen over de master-instelling voor collectieve belegging in effecten en de overeenkomst, bedoeld in artikel 147b, eerste lid;  
+e. de wijze waarop deelnemers informatie kunnen verkrijgen over de master-icbe en de overeenkomst, bedoeld in artikel 147b, eerste lid;  
 
-f. een beschrijving van alle kosten die voor rekening van de feeder-instelling voor collectieve belegging in effecten komen op grond van haar belegging in rechten van deelneming in de master-instelling voor collectieve belegging in effecten, alsmede de totale kosten van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten; en  
+f. een beschrijving van alle kosten die voor rekening van de feeder-icbe komen op grond van haar belegging in rechten van deelneming in de master-icbe, alsmede de totale kosten van de feeder-icbe en de master-icbe; en  
 
-g. een beschrijving van de fiscale gevolgen van de belegging in de master-instelling voor collectieve belegging in effecten.    
+g. een beschrijving van de fiscale gevolgen van de belegging in de master-icbe.    
 
 ### 6  
 
 ####Gegevens over kosten en vergoedingen
 
-6.1. De kosten van oprichting van de beleggingsinstelling en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling en welk gedeelte ten goede komt aan de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, de bewaarder of aan met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen. 6.2. De kosten gemoeid met het beheer van de beleggingsinstelling, de bewaring van de activa van de beleggingsinstelling, de accountant, het toezicht en de marketing, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling. 6.3. De transactiekosten die geïdentificeerd en gekwantificeerd kunnen worden en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling. 6.4. Indien van toepassing: de kosten die worden gemaakt of vergoedingen die worden gevraagd in verband met het in- en uitlenen van financiële instrumenten, en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling, onderscheidenlijk aan wie deze vergoedingen ten goede komen. 6.5. Indien van toepassing: de kosten van het verlenen van opdrachten aan derden om een of meer werkzaamheden in het kader van het beheer van de beleggingsinstelling of de bewaring van de activa van de beleggingsinstelling te verrichten en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling. 6.6. Alle andere dan onder 6.1 tot en met 6.5 bedoelde naar soort onderscheiden kosten die hoger zijn dan tien procent van de totale kosten, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling. 6.7. Indien de hoogte van de in 6.1 tot en met 6.6 bedoelde kosten nog niet bekend is: het maximum van deze kosten. 6.8. De som van de in 6.1 tot en met 6.6 bedoelde kosten. 6.9. De naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen. 6.10. De wijze waarop de op- en afslagen worden berekend en aan wie de op- en afslagen ten goede komen, alsmede alle overige eenmalige bedragen die de deelnemers in de beleggingsinstelling betalen bij toe- en uittreding, inclusief de berekeningsgrondslag. 6.11. Indien van toepassing: beschrijving van afspraken over retourprovisies met vermelding van degenen aan wie de retourprovisies ten goede komen. 6.12. Indien van toepassing: beschrijving van afspraken over goederen die de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van de beheerder of de beleggingsinstelling ontvangen of in het vooruitzicht worden gesteld.  
+6.1. De kosten van oprichting van de icbe en de wijze waarop deze kosten ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de icbe en welk gedeelte ten goede komt aan de beheerder, de bewaarder, de bestuurders van de beheerder, maatschappij voor collectieve belegging in effecten of bewaarder, de bewaarder of aan met de beheerder, maatschappij voor collectieve belegging in effecten of bewaarder gelieerde partijen. 6.2. De kosten gemoeid met het beheer van de icbe, de bewaring van de activa van de icbe, de accountant, het toezicht en de marketing, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de icbe. 6.3. De transactiekosten die geïdentificeerd en gekwantificeerd kunnen worden en de wijze waarop deze kosten ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de icbe. 6.4. Indien van toepassing: de kosten die worden gemaakt of vergoedingen die worden gevraagd in verband met het in- en uitlenen van financiële instrumenten, en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de icbe, onderscheidenlijk aan wie deze vergoedingen ten goede komen. 6.5. Indien van toepassing: de kosten van het verlenen van opdrachten aan derden om een of meer werkzaamheden in het kader van het beheer van de icbe of de bewaring van de activa van de icbe te verrichten en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de icbe. 6.6. Alle andere dan onder 6.1 tot en met 6.5 bedoelde naar soort onderscheiden kosten die hoger zijn dan tien procent van de totale kosten, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de icbe. 6.7. Indien de hoogte van de in 6.1 tot en met 6.6 bedoelde kosten nog niet bekend is: het maximum van deze kosten. 6.8. De som van de in 6.1 tot en met 6.6 bedoelde kosten. 6.9. De naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen of icbe’s. 6.10. De wijze waarop de op- en afslagen worden berekend en aan wie de op- en afslagen ten goede komen, alsmede alle overige eenmalige bedragen die de deelnemers in de icbe betalen bij toe- en uittreding, inclusief de berekeningsgrondslag. 6.11. Indien van toepassing: beschrijving van afspraken over retourprovisies met vermelding van degenen aan wie de retourprovisies ten goede komen. 6.12. Indien van toepassing: beschrijving van afspraken over goederen die de beheerder, de bewaarder, de bestuurders van de beheerder, maatschappij voor collectieve belegging in effecten of bewaarder, met de beheerder, maatschappij voor collectieve belegging in effecten of bewaarder gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van de beheerder of de icbe ontvangen of in het vooruitzicht worden gesteld.  
 
 ### 7  
 
 ####Gegevens over de rechten van deelneming
 
-7.1. De wijze waarop en voorwaarden waaronder het aanbieden van de rechten van deelneming plaatsvindt. 7.2. De aard en de voornaamste kenmerken van de rechten van deelneming in de beleggingsinstelling, waaronder een beschrijving van het eventuele aan de rechten van deelneming verbonden stemrecht alsmede van de vorm waarin en de eventuele beperkingen waaronder zij verhandeld kunnen worden. 7.3. Een verklaring omtrent een eventuele notering van de beleggingsinstelling op een gereglementeerde markt of een andere markt in financiële instrumenten. 7.4. De wijze waarop en voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming plaatsvindt. 7.5. Indien van toepassing: de wijze waarop de bepaling plaatsvindt van de prijs bij het aanbieden, de verkoop- of inkoopprijs, alsmede van het bedrag bij terugbetaling van de waarde van de rechten van deelneming, in het bijzonder: 
+7.1. De wijze waarop en voorwaarden waaronder het aanbieden van de rechten van deelneming plaatsvindt. 7.2. De aard en de voornaamste kenmerken van de rechten van deelneming in de icbe, waaronder een beschrijving van het eventuele aan de rechten van deelneming verbonden stemrecht alsmede van de vorm waarin en de eventuele beperkingen waaronder zij verhandeld kunnen worden. 7.3. Een verklaring omtrent een eventuele notering van de icbe op een gereglementeerde markt of een andere markt in financiële instrumenten. 7.4. De wijze waarop en voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming plaatsvindt. 7.5. Indien van toepassing: de wijze waarop de bepaling plaatsvindt van de prijs bij het aanbieden, de verkoop- of inkoopprijs, alsmede van het bedrag bij terugbetaling van de waarde van de rechten van deelneming, in het bijzonder: 
 
 a. de wijze waarop en regelmaat waarmee deze prijzen worden berekend; en  
 
-b. hoe, waar en met welke regelmaat deze prijzen worden gepubliceerd.   Deze verplichting is niet van toepassing op beleggingsinstellingen waarvan de rechten van deelneming zijn toegelaten tot de notering op een door de Autoriteit Financiële Markten aangewezen gereglementeerde markt of andere markt in financiële instrumenten of waarvan aannemelijk is dat die rechten van deelneming daartoe spoedig zullen worden toegelaten; deze verplichting is evenmin van toepassing op de in artikel 126, eerste lid, bedoelde beleggingsmaatschappijen. 7.6. Een beschrijving van de voorschriften waaraan de winstbepaling en -bestemming is onderworpen, alsmede van de wijze waarop en de frequentie waarmee winstuitkering zal geschieden. 7.7. Een verklaring dat elk recht van deelneming van dezelfde soort recht geeft op een evenredig aandeel in het vermogen van de beleggingsinstelling voor zover dit aan de deelgerechtigden toekomt. 7.8. Een verklaring dat behalve ingeval van gratis verstrekking, rechten van deelneming slechts worden aangeboden indien de nettoprijs binnen de vastgestelde termijnen in het vermogen van de beleggingsinstelling is gestort. 7.9. Indien het een instelling voor collectieve belegging in effecten betreft: een verklaring dat de beleggingsinstelling gehouden is om, op verzoek van de deelnemers, haar rechten van deelneming ten laste van de activa direct of indirect in te kopen of de waarde van de rechten van deelneming terug te betalen. Deze verplichting geldt niet voor de beleggingsmaatschappij, bedoeld in artikel 126, eerste lid. 7.10. Indien het een instelling voor collectieve belegging in effecten betreft: de plaatsen in elke lidstaat waar de beleggingsinstelling haar rechten van deelneming in de handel brengt dan wel doet brengen. 7.11. Indien het een instelling voor collectieve belegging in effecten betreft die rechten van deelneming aanbiedt met een verschillend risicoprofiel: 
+b. hoe, waar en met welke regelmaat deze prijzen worden gepubliceerd.   Deze verplichting is niet van toepassing op icbe’s waarvan de rechten van deelneming zijn toegelaten tot de notering op een door de Autoriteit Financiële Markten aangewezen gereglementeerde markt of andere markt in financiële instrumenten of waarvan aannemelijk is dat die rechten van deelneming daartoe spoedig zullen worden toegelaten; deze verplichting is evenmin van toepassing op de in artikel 126, eerste lid, bedoelde maatschappijen voor collectieve belegging in effecten. 7.6. Een beschrijving van de voorschriften waaraan de winstbepaling en -bestemming is onderworpen, alsmede van de wijze waarop en de frequentie waarmee winstuitkering zal geschieden. 7.7. Een verklaring dat elk recht van deelneming van dezelfde soort recht geeft op een evenredig aandeel in het vermogen van de icbe voor zover dit aan de deelgerechtigden toekomt. 7.8. Een verklaring dat behalve ingeval van gratis verstrekking, rechten van deelneming slechts worden aangeboden indien de nettoprijs binnen de vastgestelde termijnen in het vermogen van de icbe is gestort. 7.9. Een Verklaring dat de icbe gehouden is om, op verzoek van de deelnemers, haar rechten van deelneming ten laste van de activa direct of indirect in te kopen of de waarde van de rechten van deelneming terug te betalen. Deze verplichting geldt niet voor de maatschappij voor collectieve belegging in effecten, bedoeld in artikel 126, eerste lid. 7.10. De plaatsen in elke lidstaat waar de icbe haar rechten van deelneming in de handel brengt dan wel doet brengen. 7.11. Indien het een icbe betreft die rechten van deelneming aanbiedt met een verschillend risicoprofiel: 
 
 a. de soorten van rechten van deelneming; en  
 
-b. wijze waarop een deelnemer in de beleggingsinstelling een belegging in een soort van deelneming kan omzetten naar een andere aangeboden soort van deelneming in de beleggingsinstelling en de kosten die daaraan voor de deelnemer zijn verbonden.   7.12. Indien het een beleggingsinstelling betreft waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, voorzover redelijkerwijs voorzienbaar: de gevallen waarin in het belang van de deelnemers de inkoop van de rechten van deelneming of de terugbetaling van de waarde van de rechten van deelneming kunnen worden opgeschort, alsmede de wijze waarop onderscheidenlijk inkoop en terugbetaling kan worden opgeschort. 7.13. Indien het een beleggingsinstelling betreft waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald: een verklaring dat er voldoende waarborgen aanwezig zijn opdat, behoudens wettelijke bepalingen en de in 7.12 bedoelde gevallen, aan de verplichting om in te kopen en terug te betalen kan worden voldaan. 7.14. Indien het een beleggingsmaatschappij als bedoeld in artikel 126, tweede lid, betreft: de gereglementeerde markt of de andere markt in financiële instrumenten in de staat van verhandeling waarvan de notering de prijs bepaalt voor de transacties die door de beleggingsmaatschappij in die staat buiten de gereglementeerde markt of de markt in financiële instrumenten om worden verricht.  
+b. wijze waarop een deelnemer in de icbe een belegging in een soort van deelneming kan omzetten naar een andere aangeboden soort van deelneming in de icbe en de kosten die daaraan voor de deelnemer zijn verbonden.   7.12. Indien het een icbe betreft waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, voorzover redelijkerwijs voorzienbaar: de gevallen waarin in het belang van de deelnemers de inkoop van de rechten van deelneming of de terugbetaling van de waarde van de rechten van deelneming kunnen worden opgeschort, alsmede de wijze waarop onderscheidenlijk inkoop en terugbetaling kan worden opgeschort. 7.13. Indien het een icbe betreft waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald: een verklaring dat er voldoende waarborgen aanwezig zijn opdat, behoudens wettelijke bepalingen en de in 7.12 bedoelde gevallen, aan de verplichting om in te kopen en terug te betalen kan worden voldaan. 7.14. Indien het een maatschappij voor collectieve belegging in effecten als bedoeld in artikel 126, tweede lid, betreft: de gereglementeerde markt of de andere markt in financiële instrumenten in de staat van verhandeling waarvan de notering de prijs bepaalt voor de transacties die door de maatschappij voor collectieve belegging in effecten in die staat buiten de gereglementeerde markt of de markt in financiële instrumenten om worden verricht.  
 
 ### 8  
 
-####Gegevens over het risicoprofiel van de beleggingsinstelling
+####Gegevens over het risicoprofiel van de icbe
 
-8.1. De mededeling dat de waarde van de beleggingen zowel kan stijgen als kan dalen en dat de beleggers mogelijk minder terugkrijgen dan zij hebben ingelegd. 8.2. Een beschrijving van elk risico dat beleggers kunnen lopen met hun deelneming, voor zover dit risico van betekenis en relevant is in het licht van de gevolgen en de waarschijnlijkheid ervan. Deze beschrijving dient een korte en begrijpelijke uitleg te bevatten over ieder specifiek risico dat voortvloeit uit een gegeven beleggingsbeleid of dat verband houdt met specifieke voor de beleggingsinstelling relevante markten of beleggingen, waaronder: 
+8.1. De mededeling dat de waarde van de beleggingen zowel kan stijgen als kan dalen en dat de beleggers mogelijk minder terugkrijgen dan zij hebben ingelegd. 8.2. Een beschrijving van elk risico dat beleggers kunnen lopen met hun deelneming, voor zover dit risico van betekenis en relevant is in het licht van de gevolgen en de waarschijnlijkheid ervan. Deze beschrijving dient een korte en begrijpelijke uitleg te bevatten over ieder specifiek risico dat voortvloeit uit een gegeven beleggingsbeleid of dat verband houdt met specifieke voor de icbe relevante markten of beleggingen, waaronder: 
 
 a. het risico dat de hele markt of een categorie van beleggingen daalt, waardoor de prijs en de waarde van de beleggingen worden beïnvloed;  
 
@@ -5290,7 +5599,7 @@ e. het risico dat de waarde van een belegging wordt beïnvloed door wisselkoerss
 
 f. indien van toepassing: het risico van verlies van in bewaring gegeven activa als gevolg van insolvabiliteit, nalatigheid of frauduleuze handelingen van de bewaarnemer of van een onderbewaarnemer; en  
 
-g. het risico dat is verbonden aan een grote concentratie van de beleggingen in bepaalde soorten of op bepaalde markten.   8.3. De in 8.2 bedoelde beschrijving besteedt, voorzover van toepassing, ook aandacht aan de volgende factoren die van invloed kunnen zijn op de beleggingsinstelling: 
+g. het risico dat is verbonden aan een grote concentratie van de beleggingen in bepaalde soorten of op bepaalde markten.   8.3. De in 8.2 bedoelde beschrijving besteedt, voorzover van toepassing, ook aandacht aan de volgende factoren die van invloed kunnen zijn op de icbe: 
 
 a. het rendementsrisico, met inbegrip van het feit dat het risico kan variëren op grond van de keuzes die mogelijk zijn op grond van het beleggingsbeleid, alsmede het bestaan of ontbreken van, dan wel de beperkingen op eventuele waarborgen van derden;  
 
@@ -5302,51 +5611,51 @@ d. de uit het product zelf voortvloeiende inflexibiliteit met inbegrip van het r
 
 e. het inflatierisico;  
 
-f. het risico van onzekerheid over externe factoren zoals het toepasselijke belastingregime.   8.4. De informatie, bedoeld in 8.1 tot en met 8.3 wordt geordend volgens de belangrijkheid ervan, welke wordt bepaald op basis van de omvang en relevantie van de risico’s. 8.5. Indien van toepassing: een afzonderlijke en herkenbare melding dat een beleggingsinstelling is onderverdeeld in te onderscheiden categorieën van deelnemers, waarbij voor de categorieën een afzonderlijk beleggingsbeleid geldt en een of meerdere categorieën van deelnemers op grond van het beleggingsbeleid financiële risico’s lopen die verder gaan dan het door hen ter belegging in de beleggingsinstelling bijeengebrachte vermogen. 8.6. Indien de beleggingsinstelling financiële instrumenten in- of uitleent: 
+f. het risico van onzekerheid over externe factoren zoals het toepasselijke belastingregime.   8.4. De informatie, bedoeld in 8.1 tot en met 8.3 wordt geordend volgens de belangrijkheid ervan, welke wordt bepaald op basis van de omvang en relevantie van de risico’s. 8.5. Indien van toepassing: een afzonderlijke en herkenbare melding dat een beleggingsinstelling is onderverdeeld in te onderscheiden categorieën van deelnemers, waarbij voor de categorieën een afzonderlijk beleggingsbeleid geldt en een of meerdere categorieën van deelnemers op grond van het beleggingsbeleid financiële risico’s lopen die verder gaan dan het door hen ter belegging in de icbe bijeengebrachte vermogen. 8.6. Indien de icbe financiële instrumenten in- of uitleent: 
 
 a. tot welk percentage ten opzichte van de beleggingsportefeuille financiële instrumenten maximaal in- of uitgeleend mogen worden;  
 
-b. beschrijving van de zekerheden die de beleggingsinstelling verkrijgt;  
+b. beschrijving van de zekerheden die de icbe verkrijgt;  
 
 c. beschrijving van de soorten instellingen waarvan of waaraan financiële instrumenten mogen worden in- onderscheidenlijk uitgeleend; en  
 
-d. de risico’s verbonden aan het in- of uitlenen van effecten.   8.7. Indien de beleggingsinstelling belegt met namens of voor rekening en risico van de deelnemers geleend geld: 
+d. de risico’s verbonden aan het in- of uitlenen van effecten.   8.7. Indien de icbe belegt met namens of voor rekening en risico van de deelnemers geleend geld: 
 
-a. de risico’s verbonden aan het beleggen met namens of voor rekening en risico van de deelnemers in de beleggingsinstelling geleend geld;  
+a. de risico’s verbonden aan het beleggen met namens of voor rekening en risico van de deelnemers in de icbe geleend geld;  
 
-b. vermelding van een eventuele verplichting voor de deelnemers in de beleggingsinstelling om mogelijke tekorten van de beleggingsinstelling aan te zuiveren wanneer de verliezen de inleg overstijgen; en  
+b. vermelding van een eventuele verplichting voor de deelnemers in de icbe om mogelijke tekorten van de icbe aan te zuiveren wanneer de verliezen de inleg overstijgen; en  
 
 c. vermelding van de maximale omvang van de beleggingen die met geleend geld kunnen worden aankocht. Deze maximale omvang kan als absolute waarde worden omschreven of als percentage van het beheerde vermogen.    
 
 ### 9  
 
-####Gegevens over opheffing van de beleggingsinstelling
+####Gegevens over opheffing van de icbe
 
-Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en vereffening van de beleggingsinstelling plaatsvindt, in het bijzonder ten aanzien van de rechten van de deelnemers in de beleggingsinstelling.  
+Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en vereffening van de icbe plaatsvindt, in het bijzonder ten aanzien van de rechten van de deelnemers in de icbe.  
 
 ### 10  
 
 ####Gegevens over de vergadering van deelnemers
 
-10.1. De gevallen waarin vergaderingen van deelnemers in de beleggingsinstelling worden gehouden, de regelingen voor het oproepen van deze vergaderingen en de wijze waarop het stemrecht is geregeld. 10.2. Een verklaring dat een oproeping voor een vergadering van deelnemers in de beleggingsinstelling ten minste veertien dagen voor de aanvang van die vergadering, per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, alsmede op de website van de beheerder, geschiedt.  
+10.1. De gevallen waarin vergaderingen van deelnemers in de icbe worden gehouden, de regelingen voor het oproepen van deze vergaderingen en de wijze waarop het stemrecht is geregeld. 10.2. Een verklaring dat een oproeping voor een vergadering van deelnemers in de icbe ten minste veertien dagen voor de aanvang van die vergadering, per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, alsmede op de website van de beheerder, geschiedt.  
 
 ### 11  
 
 ####Gegevens over waardering activa
 
-11.1. Een beschrijving van de intrinsieke waardebepaling van de beleggingsinstelling met een opgave van de regelmaat waarmee deze waardebepaling plaatsvindt alsmede de valuta waarin de intrinsieke waarde van de beleggingsinstelling wordt berekend. De waardering van de activa en passiva geschiedt naar maatstaven die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd. 11.2. Vermelding van het feit dat de intrinsieke waarde van de rechten van deelneming in de beleggingsinstelling bekend wordt gemaakt op de website van de beheerder. 11.3. Vermelding van de omstandigheden waaronder en wijze waarop deelnemers gecompenseerd worden voor een onjuist berekende intrinsieke waarde, in het bijzonder het eventuele maximale afwijkingspercentage ten opzichte van de juist berekende intrinsieke waarde dat gecompenseerd wordt.  
+11.1. Een beschrijving van de intrinsieke waardebepaling van de icbe met een opgave van de regelmaat waarmee deze waardebepaling plaatsvindt alsmede de valuta waarin de intrinsieke waarde van de icbe wordt berekend. De waardering van de activa en passiva geschiedt naar maatstaven die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd. 11.2. Vermelding van het feit dat de intrinsieke waarde van de rechten van deelneming in de icbe bekend wordt gemaakt op de website van de beheerder. 11.3. Vermelding van de omstandigheden waaronder en wijze waarop deelnemers gecompenseerd worden voor een onjuist berekende intrinsieke waarde, in het bijzonder het eventuele maximale afwijkingspercentage ten opzichte van de juist berekende intrinsieke waarde dat gecompenseerd wordt.  
 
 ### 12  
 
 ####Gegevens over het belastingstelsel
 
-12.1. Een beknopte beschrijving van het op de beleggingsinstelling toepasselijke belastingstelsel met, voor zover van toepassing, vermelding van inhouding van bronbelasting op inkomsten en kapitaalwinsten welke door de beleggingsinstelling aan houders van rechten van deelneming worden uitgekeerd. 12.2. Officieel bekend gemaakte aanpassingen in het toepasselijke belastingstelsel waarvan vaststaat dat zij ongewijzigd qua vorm en inhoud in werking zullen treden, een en ander voor zover deze voor de deelnemers in de beleggingsinstelling van rechtstreeks belang zijn.  
+12.1. Een beknopte beschrijving van het op de icbe toepasselijke belastingstelsel met, voor zover van toepassing, vermelding van inhouding van bronbelasting op inkomsten en kapitaalwinsten welke door de icbe aan houders van rechten van deelneming worden uitgekeerd. 12.2. Officieel bekend gemaakte aanpassingen in het toepasselijke belastingstelsel waarvan vaststaat dat zij ongewijzigd qua vorm en inhoud in werking zullen treden, een en ander voor zover deze voor de deelnemers in de icbe van rechtstreeks belang zijn.  
 
 ### 13  
 
 ####Gegevens over het beleid ten aanzien van stemrechten en -gedrag
 
-Een beschrijving van het beleid met betrekking tot stemrechten en -gedrag op aandelen in andere ondernemingen door de beleggingsinstelling.  
+Een beschrijving van het beleid met betrekking tot stemrechten en -gedrag op aandelen in andere ondernemingen door de icbe.  
 
 ### Bijlage  J  
 
@@ -5360,31 +5669,31 @@ Een beschrijving van het beleid met betrekking tot stemrechten en -gedrag op aan
 
 #### *Informatie* 
 
-Een overeenkomst tot uitwisseling van informatie tussen een feeder-instelling voor collectieve belegging in effecten en een master-instelling voor collectieve belegging in effecten als bedoeld in artikel 147b, eerste lid, voorziet met betrekking tot de toegang tot de informatie in het volgende: 
+Een overeenkomst tot uitwisseling van informatie tussen een feeder-icbe en een master-icbe als bedoeld in artikel 147b, eerste lid, voorziet met betrekking tot de toegang tot de informatie in het volgende: 
 
-a. de wijze en het tijdstip waarop de master-instelling voor collectieve belegging in effecten de feeder-instelling voor collectieve belegging in effecten een afschrift van haar fondsreglement of de statuten, het prospectus, de essentiële beleggersinformatie en alle wijzigingen ervan verstrekt;  
+a. de wijze en het tijdstip waarop de master-icbe de feeder-icbe een afschrift van haar fondsreglement of de statuten, het prospectus, de essentiële beleggersinformatie en alle wijzigingen ervan verstrekt;  
 
-b. de wijze en het tijdstip waarop de master-instelling voor collectieve belegging in effecten de feeder-instelling voor collectieve belegging in effecten informeert over het uitbesteden van werkzaamheden met betrekking tot het beheer van beleggingen of het risicobeheer aan derden in overeenstemming met het ingevolge de [artikelen 3:18](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:16 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde;  
+b. de wijze en het tijdstip waarop de master-icbe de feeder-icbe informeert over het uitbesteden van werkzaamheden met betrekking tot het beheer van beleggingen of het risicobeheer aan derden in overeenstemming met het ingevolge de [artikelen 3:18](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:16 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde;  
 
-c. in voorkomend geval, de wijze en het tijdstip waarop de master-instelling voor collectieve belegging in effecten aan de feeder-instelling voor collectieve belegging in effecten interne operationele documenten, zoals documenten betreffende het risicobeheerproces en nalevingsverslagen, verstrekt;  
+c. in voorkomend geval, de wijze en het tijdstip waarop de master-icbe aan de feeder-icbe interne operationele documenten, zoals documenten betreffende het risicobeheerproces en nalevingsverslagen, verstrekt;  
 
-d. van welke details met betrekking tot inbreuken door de master-instelling voor collectieve belegging in effecten op de wet, het fondsreglement of de statuten en de overeenkomst tussen de master-instelling voor collectieve belegging in effecten en de feeder-instelling voor collectieve belegging in effecten, de master-instelling voor collectieve belegging in effecten de feeder-instelling voor collectieve belegging in effecten in kennis zal stellen en de wijze van en het tijdschema voor de kennisgeving;  
+d. van welke details met betrekking tot inbreuken door de master-icbe op de wet, het fondsreglement of de statuten en de overeenkomst tussen de master-icbe en de feeder-icbe, de master-icbe de feeder-icbe in kennis zal stellen en de wijze van en het tijdschema voor de kennisgeving;  
 
-e. als de feeder-instelling voor collectieve belegging in effecten financiële derivaten gebruikt met als doel om risico af te dekken, de wijze en het tijdstip waarop de master-instelling voor collectieve belegging in effecten aan de feeder-instelling voor collectieve belegging in effecten informatie zal verstrekken over haar werkelijke risico in financiële derivaten, teneinde de feeder-instelling voor collectieve belegging in effecten in staat te stellen haar eigen totale risico te berekenen als bedoeld in artikel 133, vierde lid, onderdeel a; en  
+e. als de feeder-icbe financiële derivaten gebruikt met als doel om risico af te dekken, de wijze en het tijdstip waarop de master-icbe aan de feeder-icbe informatie zal verstrekken over haar werkelijke risico in financiële derivaten, teneinde de feeder-icbe in staat te stellen haar eigen totale risico te berekenen als bedoeld in artikel 133, vierde lid, onderdeel a; en  
 
-f. een verklaring dat de master-instelling voor collectieve belegging in effecten de feeder-instelling voor collectieve belegging in effecten informeert over alle met derden gesloten overeenkomsten inzake informatie-uitwisseling en, in voorkomend geval, op welke wijze en op welk tijdstip de master-instelling voor collectieve belegging in effecten deze andere overeenkomsten inzake informatie-uitwisseling voor de feeder-instelling voor collectieve belegging in effecten beschikbaar stelt.    
+f. een verklaring dat de master-icbe de feeder-icbe informeert over alle met derden gesloten overeenkomsten inzake informatie-uitwisseling en, in voorkomend geval, op welke wijze en op welk tijdstip de master-icbe deze andere overeenkomsten inzake informatie-uitwisseling voor de feeder-icbe beschikbaar stelt.    
 
 ### 1.2  
 
-#### *Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-instelling voor collectieve belegging in effecten* 
+#### *Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-icbe* 
 
-Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-instelling voor collectieve belegging in effecten in het volgende: 
+Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-icbe in het volgende: 
 
-a. welke categorieën van rechten van deelneming van de master-instelling voor collectieve belegging in effecten voor belegging door de feeder-instelling voor collectieve belegging in effecten beschikbaar zijn;  
+a. welke categorieën van rechten van deelneming van de master-icbe voor belegging door de feeder-icbe beschikbaar zijn;  
 
-b. de door de feeder-instelling voor collectieve belegging in effecten te dragen lasten en uitgaven, en details over alle kortingen op of teruggaven van lasten of uitgaven door de master-instelling voor collectieve belegging in effecten; en  
+b. de door de feeder-icbe te dragen lasten en uitgaven, en details over alle kortingen op of teruggaven van lasten of uitgaven door de master-icbe; en  
 
-c. in voorkomend geval, de voorwaarden waaronder een eerste of volgende overdracht van activa in natura van de feeder-instelling voor collectieve belegging in effecten aan de master-instelling voor collectieve belegging in effecten mag plaatsvinden.    
+c. in voorkomend geval, de voorwaarden waaronder een eerste of volgende overdracht van activa in natura van de feeder-icbe aan de master-icbe mag plaatsvinden.    
 
 ### 1.3  
 
@@ -5394,19 +5703,19 @@ Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien v
 
 a. coördinatie van de frequentie van en het tijdschema voor de berekening van de intrinsieke waarde en de publicatie van de prijzen van de rechten van deelneming;  
 
-b. coördinatie van de doorgifte van handelsorders door de feeder-instelling voor collectieve belegging in effecten waaronder, in voorkomend geval, de rol van derden;  
+b. coördinatie van de doorgifte van handelsorders door de feeder-icbe waaronder, in voorkomend geval, de rol van derden;  
 
-c. in voorkomend geval, alle regelingen die nodig zijn om rekening te houden met het feit dat een van beide of beide instellingen voor collectieve belegging in effecten op een secundaire markt noteren of verhandeld worden;  
+c. in voorkomend geval, alle regelingen die nodig zijn om rekening te houden met het feit dat een van beide of beide icbe’s op een secundaire markt noteren of verhandeld worden;  
 
 d. voor zover nodig, andere passende maatregelen om de naleving van artikel 147j te verzekeren;  
 
-e. voor zover de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten een andere valuta hanteren, de grondslag voor omrekening van handelsorders;  
+e. voor zover de feeder-icbe en de master-icbe een andere valuta hanteren, de grondslag voor omrekening van handelsorders;  
 
-f. afwikkelingscycli en betalingsdetails voor aankoop van of inschrijving op en inkoop of terugbetaling van rechten van deelneming van de master-instelling voor collectieve belegging in effecten waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder de master-instelling voor collectieve belegging in effecten een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-instelling voor collectieve belegging in effecten mag afwikkelen, met name in de gevallen, bedoeld in de [artikelen 4:61a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+f. afwikkelingscycli en betalingsdetails voor aankoop van of inschrijving op en inkoop of terugbetaling van rechten van deelneming van de master-icbe waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder de master-icbe een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-icbe mag afwikkelen, met name in de gevallen, bedoeld in de [artikelen 4:61a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 g. procedures om te waarborgen dat verzoeken om inlichtingen en klachten van deelnemers op passende wijze worden afgehandeld; en  
 
-h. voor zover de master-instelling voor collectieve belegging in effecten aan haar fondsreglement of statuten en prospectus bepaalde rechten of bevoegdheden met betrekking tot deelnemers ontleent en besluit de uitoefening van die rechten en bevoegdheden met betrekking tot de feeder-instelling voor collectieve belegging in effecten geheel of gedeeltelijk te beperken of op te geven, een verklaring met betrekking tot de desbetreffende voorwaarden.    
+h. voor zover de master-icbe aan haar fondsreglement of statuten en prospectus bepaalde rechten of bevoegdheden met betrekking tot deelnemers ontleent en besluit de uitoefening van die rechten en bevoegdheden met betrekking tot de feeder-icbe geheel of gedeeltelijk te beperken of op te geven, een verklaring met betrekking tot de desbetreffende voorwaarden.    
 
 ### 1.4  
 
@@ -5414,9 +5723,9 @@ h. voor zover de master-instelling voor collectieve belegging in effecten aan ha
 
 Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien van op regelingen voor verhandeling van invloed zijnde gebeurtenissen in het volgende: 
 
-a. de wijze van en het tijdschema voor kennisgeving door een van beide instellingen voor collectieve belegging in effecten van de tijdelijke opschorting en de hervatting van de inkoop, terugbetaling, aankoop van of inschrijving op rechten van deelneming van die instelling voor collectieve belegging in effecten; en  
+a. de wijze van en het tijdschema voor kennisgeving door een van beide icbe’s van de tijdelijke opschorting en de hervatting van de inkoop, terugbetaling, aankoop van of inschrijving op rechten van deelneming van die instelling voor collectieve belegging in effecten; en  
 
-b. regelingen voor kennisgeving en oplossing van prijsstellingsfouten bij de master-instelling voor collectieve belegging in effecten.    
+b. regelingen voor kennisgeving en oplossing van prijsstellingsfouten bij de master-icbe.    
 
 ### 1.5  
 
@@ -5424,9 +5733,9 @@ b. regelingen voor kennisgeving en oplossing van prijsstellingsfouten bij de mas
 
 Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien van standaardregelingen voor het accountantsverslag in het volgende: 
 
-a. indien de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten dezelfde afsluitingsdatum van het boekjaar aanhouden, de coördinatie of de periodieke verslagen; en  
+a. indien de feeder-icbe en de master-icbe dezelfde afsluitingsdatum van het boekjaar aanhouden, de coördinatie of de periodieke verslagen; en  
 
-b. indien de afsluitingsdatum van het boekjaar van de feeder-instelling voor collectieve belegging in effecten afwijkt van de afsluitingsdatum van het boekjaar van de master-instelling voor collectieve belegging in effecten, regelingen op grond waarvan de feeder-instelling voor collectieve belegging in effecten van de master-instelling voor collectieve belegging in effecten alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-instelling voor collectieve belegging in effecten in staat is op de afsluitingsdatum van het boekjaar van de feeder-instelling voor collectieve belegging in effecten een ad hoc-verslag als bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op te stellen.    
+b. indien de afsluitingsdatum van het boekjaar van de feeder-icbe afwijkt van de afsluitingsdatum van het boekjaar van de master-icbe, regelingen op grond waarvan de feeder-icbe van de master-icbe alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-icbe in staat is op de afsluitingsdatum van het boekjaar van de feeder-icbe een ad hoc-verslag als bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op te stellen.    
 
 ### 1.6  
 
@@ -5434,15 +5743,15 @@ b. indien de afsluitingsdatum van het boekjaar van de feeder-instelling voor col
 
 Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien van wijzigingen van doorlopende regelingen in het volgende: 
 
-a. de wijze van en het tijdschema voor kennisgeving door de master-instelling voor collectieve belegging in effecten van voorgestelde en van kracht zijnde wijzigingen van haar fondsreglement of statuten, prospectus en essentiële beleggersinformatie, indien deze details verschillen van de standaardregelingen voor kennisgeving aan deelnemers in het fondsreglement, de statuten of het prospectus van de master-instelling voor collectieve belegging in effecten;  
+a. de wijze van en het tijdschema voor kennisgeving door de master-icbe van voorgestelde en van kracht zijnde wijzigingen van haar fondsreglement of statuten, prospectus en essentiële beleggersinformatie, indien deze details verschillen van de standaardregelingen voor kennisgeving aan deelnemers in het fondsreglement, de statuten of het prospectus van de master-icbe;  
 
-b. de wijze van en het tijdschema voor kennisgeving door de master-instelling voor collectieve belegging in effecten van een voorgenomen liquidatie, fusie of splitsing;  
+b. de wijze van en het tijdschema voor kennisgeving door de master-icbe van een voorgenomen liquidatie, fusie of splitsing;  
 
-c. de wijze van en het tijdschema voor kennisgeving door een van beide instellingen voor collectieve belegging in effecten dat zij ophoudt of zal ophouden te voldoen aan de voorwaarden voor een feeder-instelling voor collectieve belegging in effecten respectievelijk een master-instelling voor collectieve belegging in effecten;  
+c. de wijze van en het tijdschema voor kennisgeving door een van beide icbe’s dat zij ophoudt of zal ophouden te voldoen aan de voorwaarden voor een feeder-icbe respectievelijk een master-icbe;  
 
-d. de wijze van en het tijdschema voor de kennisgeving door een van beide instellingen voor collectieve belegging in effecten van haar voornemen om haar beheerder, haar bewaarder, haar accountant of enige derde waaraan taken in verband met beheer van beleggingen of risicobeheer zijn uitbesteed te vervangen; en  
+d. de wijze van en het tijdschema voor de kennisgeving door een van beide icbe’s van haar voornemen om haar beheerder, haar bewaarder, haar accountant of enige derde waaraan taken in verband met beheer van beleggingen of risicobeheer zijn uitbesteed te vervangen; en  
 
-e. de wijze van en het tijdschema voor de kennisgeving van andere wijzigingen van doorlopende regelingen waartoe de master-instelling voor collectieve belegging in effecten zich verbindt.    
+e. de wijze van en het tijdschema voor de kennisgeving van andere wijzigingen van doorlopende regelingen waartoe de master-icbe zich verbindt.    
 
 ### 2  
 
@@ -5452,19 +5761,19 @@ e. de wijze van en het tijdschema voor de kennisgeving van andere wijzigingen va
 
 #### *Belangenconflicten* 
 
-Voor zover de door de beheerder genomen maatregelen om te voldoen aan de [artikelen 3:17, tweede lid, aanhef en onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) daarin niet voorzien, wordt in de regels omtrent de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien in maatregelen om te waarborgen dat belangenconflicten tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten of tussen de feeder-instelling voor collectieve belegging in effecten en andere deelnemers van de master-instelling voor collectieve belegging in effecten worden beperkt.  
+Voor zover de door de beheerder genomen maatregelen om te voldoen aan de [artikelen 3:17, tweede lid, aanhef en onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) daarin niet voorzien, wordt in de regels omtrent de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien in maatregelen om te waarborgen dat belangenconflicten tussen de feeder-icbe en de master-icbe of tussen de feeder-icbe en andere deelnemers van de master-icbe worden beperkt.  
 
 ### 2.2  
 
-#### *Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-instelling voor collectieve belegging in effecten* 
+#### *Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-icbe* 
 
-De regels over de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-instelling voor collectieve belegging in effecten in het volgende: 
+De regels over de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-icbe in het volgende: 
 
-a. welke categorieën van rechten van deelneming van de master-instelling voor collectieve belegging in effecten voor belegging door de feeder-instelling voor collectieve belegging in effecten beschikbaar zijn;  
+a. welke categorieën van rechten van deelneming van de master-icbe voor belegging door de feeder-icbe beschikbaar zijn;  
 
-b. de door de feeder-instelling voor collectieve belegging in effecten te dragen lasten en uitgaven, en details over alle kortingen op of teruggaven van lasten of uitgaven door de master-instelling voor collectieve belegging in effecten; en  
+b. de door de feeder-icbe te dragen lasten en uitgaven, en details over alle kortingen op of teruggaven van lasten of uitgaven door de master-icbe; en  
 
-c. in voorkomend geval, de voorwaarden waaronder een eerste of volgende overdracht van activa in natura van de feeder-instelling voor collectieve belegging in effecten aan de master-instelling voor collectieve belegging in effecten mag plaatsvinden.    
+c. in voorkomend geval, de voorwaarden waaronder een eerste of volgende overdracht van activa in natura van de feeder-icbe aan de master-icbe mag plaatsvinden.    
 
 ### 2.3  
 
@@ -5474,17 +5783,17 @@ De regels over de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien
 
 a. coördinatie van de frequentie van en het tijdschema voor de berekening van de intrinsieke waarde en de publicatie van de prijzen van de rechten van deelneming;  
 
-b. coördinatie van de doorgifte van handelsorders door de feeder-instelling voor collectieve belegging in effecten waaronder, in voorkomend geval, de rol van derden;  
+b. coördinatie van de doorgifte van handelsorders door de feeder-icbe waaronder, in voorkomend geval, de rol van derden;  
 
-c. in voorkomend geval, alle regelingen die nodig zijn om rekening te houden met het feit dat een van beide of beide instellingen voor collectieve belegging in effecten op een secundaire markt zijn genoteerd of verhandeld worden;  
+c. in voorkomend geval, alle regelingen die nodig zijn om rekening te houden met het feit dat een van beide of beide icbe’s op een secundaire markt zijn genoteerd of verhandeld worden;  
 
 d. voor zover nodig, andere passende maatregelen om de naleving van artikel 147j te verzekeren;  
 
-e. voor zover de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten een andere valuta hanteren, de grondslag voor omrekening van handelsorders;  
+e. voor zover de feeder-icbe en de master-icbe een andere valuta hanteren, de grondslag voor omrekening van handelsorders;  
 
-f. afwikkelingscycli en betalingsdetails voor aankoop en terugbetaling van rechten van deelneming van de master-instelling voor collectieve belegging in effecten waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder, de master-instelling voor collectieve belegging in effecten een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-instelling voor collectieve belegging in effecten mag afwikkelen, met name in de gevallen, bedoeld in de [artikelen 4:61b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en 4:61c van de wet; en  
+f. afwikkelingscycli en betalingsdetails voor aankoop en terugbetaling van rechten van deelneming van de master-icbe waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder, de master-icbe een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-icbe mag afwikkelen, met name in de gevallen, bedoeld in de [artikelen 4:61b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en 4:61c van de wet; en  
 
-g. voor zover de master-instelling voor collectieve belegging in effecten aan haar fondsreglement of statuten en prospectus bepaalde rechten of bevoegdheden met betrekking tot deelnemers ontleent en besluit de uitoefening van die rechten en bevoegdheden met betrekking tot de feeder-instelling voor collectieve belegging in effecten geheel of gedeeltelijk te beperken of op te geven, een verklaring met betrekking tot de desbetreffende voorwaarden.    
+g. voor zover de master-icbe aan haar fondsreglement of statuten en prospectus bepaalde rechten of bevoegdheden met betrekking tot deelnemers ontleent en besluit de uitoefening van die rechten en bevoegdheden met betrekking tot de feeder-icbe geheel of gedeeltelijk te beperken of op te geven, een verklaring met betrekking tot de desbetreffende voorwaarden.    
 
 ### 2.4  
 
@@ -5492,9 +5801,9 @@ g. voor zover de master-instelling voor collectieve belegging in effecten aan ha
 
 De regels over de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien ten aanzien van op regelingen voor verhandeling van invloed zijnde gebeurtenissen in het volgende: 
 
-a. de wijze van en het tijdschema voor kennisgeving door een van beide instellingen voor collectieve belegging in effecten van de tijdelijke opschorting en de hervatting van de inkoop, terugbetaling, aankoop van of inschrijving op rechten van deelneming van die instelling voor collectieve belegging in effecten; en  
+a. de wijze van en het tijdschema voor kennisgeving door een van beide icbe’s van de tijdelijke opschorting en de hervatting van de inkoop, terugbetaling, aankoop van of inschrijving op rechten van deelneming van die instelling voor collectieve belegging in effecten; en  
 
-b. regelingen voor kennisgeving en oplossing van prijsstellingsfouten bij de master-instelling voor collectieve belegging in effecten.    
+b. regelingen voor kennisgeving en oplossing van prijsstellingsfouten bij de master-icbe.    
 
 ### 2.5  
 
@@ -5502,9 +5811,9 @@ b. regelingen voor kennisgeving en oplossing van prijsstellingsfouten bij de mas
 
 De regels over de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien ten aanzien van standaardregelingen voor het accountantsverslag in het volgende: 
 
-a. indien de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten dezelfde afsluitingsdatum van het boekjaar aanhouden, de coördinatie of de periodieke verslagen; en  
+a. indien de feeder-icbe en de master-icbe dezelfde afsluitingsdatum van het boekjaar aanhouden, de coördinatie of de periodieke verslagen; en  
 
-b. indien de afsluitingsdatum van het boekjaar van de feeder-instelling voor collectieve belegging in effecten afwijkt van de afsluitingsdatum van het boekjaar van de master-instelling voor collectieve belegging in effecten, regelingen op grond waarvan de feeder-instelling voor collectieve belegging in effecten van de master-instelling voor collectieve belegging in effecten alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-instelling voor collectieve belegging in effecten in staat is op de afsluitingsdatum van het boekjaar van de feeder-instelling voor collectieve belegging in effecten een ad hoc-verslag als bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op te stellen.    
+b. indien de afsluitingsdatum van het boekjaar van de feeder-icbe afwijkt van de afsluitingsdatum van het boekjaar van de master-icbe, regelingen op grond waarvan de feeder-icbe van de master-icbe alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-icbe in staat is op de afsluitingsdatum van het boekjaar van de feeder-icbe een ad hoc-verslag als bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op te stellen.    
 
 ### 3  
 
@@ -5516,19 +5825,19 @@ b. indien de afsluitingsdatum van het boekjaar van de feeder-instelling voor col
 
 Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in het volgende: 
 
-a. de vaststelling van de documenten en soort informatie die tussen de bewaarder van de master-instelling voor collectieve belegging in effecten en de bewaarder van de feeder-instelling voor collectieve belegging in effecten systematisch worden uitgewisseld en of de documenten en de informatie door de ene bewaarder aan de andere bewaarder worden verstrekt dan wel op verzoek beschikbaar worden gesteld;  
+a. de vaststelling van de documenten en soort informatie die tussen de bewaarder van de master-icbe en de bewaarder van de feeder-icbe systematisch worden uitgewisseld en of de documenten en de informatie door de ene bewaarder aan de andere bewaarder worden verstrekt dan wel op verzoek beschikbaar worden gesteld;  
 
-b. de wijze van en het tijdschema, waaronder alle geldende uiterste termijnen, voor het verstrekken van informatie door de bewaarder van de master-instelling voor collectieve belegging in effecten aan de bewaarder van de feeder-instelling voor collectieve belegging in effecten;  
+b. de wijze van en het tijdschema, waaronder alle geldende uiterste termijnen, voor het verstrekken van informatie door de bewaarder van de master-icbe aan de bewaarder van de feeder-icbe;  
 
 c. de coördinatie van de rol van beide bewaarders in de mate die passend is gezien hun verplichtingen op grond van de wet met betrekking tot operationele aangelegenheden, waaronder: 
 
 1°. de procedure voor de berekening van de intrinsieke waarde van elke instelling voor collectieve belegging in effecten, waaronder alle maatregelen die voorkomen dat deelnemers op verschillende tijdstippen worden geïnformeerd over de intrinsieke waarde van de deelnemingen; en  
 
-2°. de verwerking van instructies door de feeder-instelling voor collectieve belegging in effecten voor de aankoop van, inschrijving op, het verzoek om inkoop of terugbetaling van rechten van deelneming in de master-instelling voor collectieve belegging in effecten, en de afwikkeling van die transacties, waaronder alle regelingen voor overdracht in natura van activa;    
+2°. de verwerking van instructies door de feeder-icbe voor de aankoop van, inschrijving op, het verzoek om inkoop of terugbetaling van rechten van deelneming in de master-icbe, en de afwikkeling van die transacties, waaronder alle regelingen voor overdracht in natura van activa;    
 
 d. de coördinatie van boekhoudkundige werkzaamheden bij het afsluiten van het boekjaar;  
 
-e. welke details met betrekking tot inbreuken door de master-instelling voor collectieve belegging in effecten op de wet en het fondsreglement of de statuten de bewaarder van de master-instelling voor collectieve belegging in effecten aan de bewaarder van de feeder-instelling voor collectieve belegging in effecten verstrekt en de wijze van en het tijdschema voor verstrekking;  
+e. welke details met betrekking tot inbreuken door de master-icbe op de wet en het fondsreglement of de statuten de bewaarder van de master-icbe aan de bewaarder van de feeder-icbe verstrekt en de wijze van en het tijdschema voor verstrekking;  
 
 f. de procedure voor de behandeling van ad hoc-verzoeken om bijstand van de ene bewaarder aan de andere; en  
 
@@ -5544,19 +5853,19 @@ g. vaststelling van bepaalde onzekere gebeurtenissen waarvan door de ene bewaard
 
 Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in het volgende: 
 
-a. de vaststelling van de documenten en soort informatie die tussen de accountant van de master-instelling voor collectieve belegging in effecten en de accountant van de feeder-instelling voor collectieve belegging in effecten systematisch worden uitgewisseld en of de documenten en de informatie door de ene accountant aan de andere accountant worden verstrekt dan wel op verzoek beschikbaar worden gesteld;  
+a. de vaststelling van de documenten en soort informatie die tussen de accountant van de master-icbe en de accountant van de feeder-icbe systematisch worden uitgewisseld en of de documenten en de informatie door de ene accountant aan de andere accountant worden verstrekt dan wel op verzoek beschikbaar worden gesteld;  
 
-c. de wijze van en het tijdschema, waaronder alle geldende uiterste termijnen, voor het verstrekken van informatie door de accountant van de master-instelling voor collectieve belegging in effecten aan de accountant van de feeder-instelling voor collectieve belegging in effecten;  
+c. de wijze van en het tijdschema, waaronder alle geldende uiterste termijnen, voor het verstrekken van informatie door de accountant van de master-icbe aan de accountant van de feeder-icbe;  
 
 d. de coördinatie van de rol van elke accountant bij de boekhoudkundige werkzaamheden bij het afsluiten van het boekjaar voor de desbetreffende instelling voor collectieve belegging in effecten;  
 
-e. vaststelling van aangelegenheden die als onregelmatigheden worden aangemerkt en in het accountantsverslag van de master-instelling voor collectieve belegging in effecten worden opgenomen zodat de accountant van de feeder-instelling voor collectieve belegging in effecten kan voldoen aan [artikel 4:57c, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+e. vaststelling van aangelegenheden die als onregelmatigheden worden aangemerkt en in het accountantsverslag van de master-icbe worden opgenomen zodat de accountant van de feeder-icbe kan voldoen aan [artikel 4:57c, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-f. de wijze van en het tijdschema voor behandeling van ad hoc-verzoeken om bijstand van de ene accountant aan de andere accountant, waaronder verzoeken om nadere informatie over in het accountantsverslag van de accountant van de master-instelling voor collectieve belegging in effecten openbaar gemaakte onregelmatigheden;  
+f. de wijze van en het tijdschema voor behandeling van ad hoc-verzoeken om bijstand van de ene accountant aan de andere accountant, waaronder verzoeken om nadere informatie over in het accountantsverslag van de accountant van de master-icbe openbaar gemaakte onregelmatigheden;  
 
-g. bepalingen over het opstellen van de accountantsverslagen, bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de wijze van en het tijdschema voor het verstrekken van het accountantsverslag van de master-instelling voor collectieve belegging in effecten en concepten van dat accountantsverslag aan de accountant van de feeder-instelling voor collectieve belegging in effecten; en  
+g. bepalingen over het opstellen van de accountantsverslagen, bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de wijze van en het tijdschema voor het verstrekken van het accountantsverslag van de master-icbe en concepten van dat accountantsverslag aan de accountant van de feeder-icbe; en  
 
-h. indien de afsluitingsdatum van het boekjaar van de master-instelling voor collectieve belegging in effecten afwijkt van de afsluitingsdatum van het boekjaar van de feeder-instelling voor collectieve belegging in effecten, de wijze van en het tijdschema voor het opstellen door de accountant van de master-instelling voor collectieve belegging in effecten van het ad hoc-verslag, bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en voor het verstrekken van het ad hoc-verslag en concepten van dat verslag.    
+h. indien de afsluitingsdatum van het boekjaar van de master-icbe afwijkt van de afsluitingsdatum van het boekjaar van de feeder-icbe, de wijze van en het tijdschema voor het opstellen door de accountant van de master-icbe van het ad hoc-verslag, bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en voor het verstrekken van het ad hoc-verslag en concepten van dat verslag.    
 
 ### Bijlage  K  
 

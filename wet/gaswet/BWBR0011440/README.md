@@ -54,7 +54,7 @@ k. verwant bedrijf: verbonden onderneming in de zin van artikel 41 van de zevend
 
 l. netgebruiker: degene voor wie met behulp van een gastransportnet het transport van gas wordt verricht;  
 
-m. aansluiting: één of meer verbindingen tussen een gastransportnet en een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);  
+m. aansluiting: één of meer verbindingen tussen een gastransportnet en een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), waaronder begrepen één of meer verbindingen tussen een gastransportnet dat wordt beheerd door een netbeheerder en een gastransportnet dat beheerd wordt door een ander dan die netbeheerder;  
 
 n. landelijk gastransportnet: een gastransportnet dat uitsluitend of in hoofdzaak is bestemd of wordt gebruikt voor het op landelijk niveau transporteren van gas;  
 
@@ -114,11 +114,11 @@ am. gesloten distributiesysteem: een net, niet zijnde het landelijk gastransport
 
 3°. dat alleen niet-huishoudelijke afnemers van gas voorziet, tenzij er sprake is van incidenteel gebruik door een klein aantal huishoudelijke afnemers die werkzaam is bij of vergelijkbare betrekkingen heeft met de eigenaar van het gesloten distributiesysteem;    
 
-an. directe lijn: één of meer gasleidingen die geen gastransportnet zijn en die: 
+an. directe lijn: een of meer leidingen voor het transport van gas, behoudens voor zover die gelegen is binnen een installatie, die: 
 
-1°. een geïsoleerde producent rechtstreeks verbinden met een geïsoleerde verbruiker van gas; of  
+1°. niet is verbonden met een gastransportnet of een andere leiding voor het transport van gas en die een geïsoleerde productie-installatie van een producent rechtstreeks verbindt met een geïsoleerde verbruiker van gas, niet zijnde de producent, of  
 
-2°. een producent met tussenkomst van een leverancier rechtstreeks verbinden met één of meer verbruikers van gas, niet zijnde in hoofdzaak huishoudelijke verbruikers, teneinde te voorzien in de gasbehoefte van deze verbruikers;    
+2°. ten hoogste via de installatie van één aangeslotene op de leiding is verbonden met een gastransportnet of een andere leiding voor het transport van gas en die een productie-installatie van een producent met tussenkomst van een leverancier rechtstreeks verbindt met één of meer verbruikers van gas, niet zijnde de producent of in hoofdzaak huishoudelijke verbruikers, teneinde te voorzien in de gasbehoefte van deze verbruikers;.    
 
 ao. hernieuwbare energiebronnen: hernieuwbare energiebronnen als bedoeld in artikel 2 van de richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (Pb EU 2009, L 140);  
 
@@ -466,6 +466,10 @@ g. de periode waarop het document of onderdelen daarvan betrekking hebben.
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de door de netbeheerder te nemen maatregelen ten aanzien van de veiligheid en betrouwbaarheid van zijn netten.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de meldplicht, bedoeld in het eerste lid.   
 
+### Artikel  8b  
+
+Onze Minister kan een netbeheerder een bindende aanwijzing geven in het kader van de bescherming van zijn gastransportnet tegen een mogelijke invloed van buitenaf, bedoeld in artikel 10, negende lid.  
+
 ### Artikel  9  
 
 1.  Indien naar het oordeel van de Autoriteit Consument en Markt uit het document, bedoeld in artikel 8, of uit de overzichten, bedoeld in artikel 35b, of anderszins, blijkt dat een netbeheerder in onvoldoende mate of op een ondoelmatige wijze kan of zal kunnen voorzien in het door hem te bereiken niveau van de kwaliteit van zijn transportdienst of in de totale behoefte aan capaciteit voor het transport van gas over de door hem beheerde netten, meldt zij zulks na overleg met de netbeheerder van het landelijk gastransportnet en de netbeheerder van het desbetreffende net aan Onze Minister.   
@@ -528,6 +532,7 @@ a. een ieder die verzoekt om een aansluiting die een doorlaatwaarde heeft van te
 b. een ieder die verzoekt om een aansluitpunt ten behoeve van een aansluiting die een doorlaatwaarde heeft groter dan 40 m <sup>3</sup> (n) per uur te voorzien van een aansluitpunt op het dichtstbijzijnde punt van het gastransportnet met een voor die aansluiting geschikte druk en voldoende capaciteit.     
 7.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in het vijfde en zesde lid.   
 8.  Onverminderd artikel 37, eerste lid, maakt de netbeheerder van het landelijk gastransportnet, een gasopslagbedrijf of een LNG-bedrijf informatie die nodig is voor doeltreffende mededinging en een efficiënte werking van de markt openbaar.   
+9.  Een netbeheerder heeft tot taak zijn gastransportnet te beschermen tegen mogelijke invloeden van buitenaf.   
 
 ### Artikel  10a  
 
@@ -545,7 +550,7 @@ c. ten behoeve van gebruikers van het door hem beheerde gastransportnet:
 
 3°. gas in de gewenste samenstelling te brengen, tenzij deze taken redelijkerwijs niet van de netbeheerder van het landelijk gastransportnet kunnen worden gevergd;    
 
-d. het aanbieden van flexibiliteitsdiensten aan een ieder die daarom verzoekt, voor zover de in artikel 54, eerste lid, bedoelde rechtspersoon een economische machtspositie heeft op de markt voor flexibiliteitsdiensten;  
+d. in aanvulling op artikel 10, zesde lid, het in werking hebben en onderhouden van aansluitingen op het landelijk gastransportnet die voor 1 april 2011 in gebruik zijn genomen;  
 
 e. een programmaverantwoordelijke actuele en zo correct en volledig mogelijke informatie te verschaffen over: 
 
@@ -737,7 +742,7 @@ c. de omgang met afwijkingen van de programma’s;
 d. de voorwaarden waaronder de programmaverantwoordelijkheid kan worden overgedragen;  
 
 e. de wijze waarop de netbeheerder van het landelijk gastransportnet een ernstige verstoring van het evenwicht van het door hem beheerde gastransportnet voorkomt of herstelt.     
-5.  In de voorwaarden, bedoeld in het eerste lid, onderdeel a, worden regels gesteld omtrent de technische eisen waaraan een aansluiting van een gesloten distributiesysteem en een directe lijn moet voldoen.   
+5.  In de voorwaarden, bedoeld in het eerste lid, onderdeel a, worden regels gesteld omtrent de technische eisen waaraan een aansluiting van een gesloten distributiesysteem moet voldoen.   
 
 ### Artikel  12c  
 
@@ -911,7 +916,8 @@ c. een gebouw ingrijpend wordt gerenoveerd.
 
 Een op afstand uitleesbare meetinrichting, die aan een afnemer als bedoeld in artikel 43, eerste lid, ter beschikking is gesteld tussen 31 december 2005 en 1 januari 2012, wordt voor 15 jaren, te rekenen vanaf de datum van terbeschikkingstelling aan die afnemer, aangemerkt als een meetinrichting die voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen.  
 
-### Artikel  13g  
+### Artikel  13g   
+Treedt in werking op een nader te bepalen tijdstip   
 
 [Vervallen]  
 
@@ -1195,7 +1201,7 @@ e. een verklaring van een onafhankelijke deskundige omtrent het in onderdeel d b
 
 ### Artikel  35c  
 
-De netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, draagt er zorg voor dat de afnemers die op zijn gastransportnet zijn aangesloten een overzicht ontvangen waarop de kosten in verband met die aansluiting overzichtelijk en begrijpelijk zijn gespecificeerd.  
+De netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, draagt er zorg voor dat de afnemers die op zijn gastransportnet zijn aangesloten een overzicht ontvangen waarop de eenmalige kosten in verband met die aansluiting overzichtelijk en begrijpelijk zijn gespecificeerd.  
 
 ### Artikel  35d  
 
@@ -1219,7 +1225,6 @@ c. de klacht zo spoedig mogelijk doch uiterlijk binnen acht weken wordt afgehand
 1.  Een netbeheerder, een gasopslagbedrijf of een LNG-bedrijf dat bij de uitvoering van zijn taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
 2.  Indien een netbeheerder, een gasopslagbedrijf of een LNG-bedrijf gegevens over zijn bedrijfsvoering die commercieel voordeel kunnen opleveren ter beschikking stelt aan anderen, doet hij dit op niet-discriminatoire wijze.   
 3.  Een netbeheerder maakt bij de aankoop of de verkoop van gas door een verwant bedrijf geen misbruik van commercieel gevoelige gegevens van anderen die hij heeft verkregen bij onderhandelingen over transport of bij het verrichten van transport.   
-4.  Een netbeheerder gebruikt aan hem verstrekte gegevens over afnemers als bedoeld in artikel 43, eerste lid, uitsluitend voor het uitvoeren van zijn taken op grond van deze wet, met dien verstande dat deze gegevens mede kunnen worden gebruikt voor het ten behoeve van de vergunninghouder innen van de vergoeding voor het leveren van gas.   
 
 ### Artikel  38  
 
@@ -1239,8 +1244,8 @@ Onze Minister en de Autoriteit Consument en Markt verstrekken de Commissie van d
 
 ### Artikel  39  
 
-1.  Bij algemene maatregel van bestuur kunnen met betrekking tot daarbij aan te wijzen gebieden regels worden gesteld over de wijze waarop, gelet op het belang van een betrouwbaar, duurzaam en doelmatig functionerende energiehuishouding, een afweging wordt gemaakt met betrekking tot de aanleg van een gastransportnet en de aanleg van leidingen voor het transport van elektriciteit of warmte.   
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat een gastransportnet slechts wordt aangelegd als resultaat van een openbare procedure waarin gegadigden op een te plaatsen opdracht kunnen inschrijven met een aanbieding voor de aanleg van een gastransportnet of van leidingen voor het transport van elektriciteit of warmte.   
+1.  Bij algemene maatregel van bestuur kunnen met betrekking tot daarbij aan te wijzen gebieden regels worden gesteld over de wijze waarop, gelet op het belang van een betrouwbaar, duurzaam en doelmatig functionerende energiehuishouding, een afweging wordt gemaakt met betrekking tot de aanleg van een gastransportnet, een warmtenet en de aanleg van leidingen en hulpmiddelen voor het transport van elektriciteit.   
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat een gastransportnet slechts wordt aangelegd als resultaat van een openbare procedure waarin gegadigden op een te plaatsen opdracht kunnen inschrijven met een aanbieding voor de aanleg van een een gastransportnet, een warmtenet of van leidingen en hulpmiddelen voor het transport van elektriciteit.   
 
 ### Artikel  39a  
 
@@ -1307,13 +1312,14 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Artikel  39h  
 
-Een producent die gas levert met een directe lijn meldt zo spoedig mogelijk na ingebruikname van een directe lijn aan de Autoriteit Consument en Markt: 
+1.   Een producent die gas levert met een directe lijn meldt zo spoedig mogelijk na ingebruikname van een directe lijn aan de Autoriteit Consument en Markt: 
 
 a. zijn naam en adres;  
 
 b. een globale beschrijving van de directe lijn;  
 
 c. een aanduiding van de locatie waar de directe lijn zich bevindt.    
+2.  De producent meldt een significante wijziging ten opzichte van een eerdere melding zo spoedig mogelijk na doorvoering van de betreffende wijziging aan de Autoriteit Consument en Markt. Onder een significante wijziging wordt in ieder geval verstaan een wijziging van het aantal aangeslotenen op de directe lijn, een wijziging van de eigenaar van de directe lijn of een wijziging in de eventuele verbinding met een gastransportnet.   
 
 ### Paragraaf  5.2  
 
@@ -1439,7 +1445,8 @@ e. de houder van de vergunning naar het oordeel van Onze Minister om andere rede
 f. de houder van de vergunning de voorschriften bij of krachtens artikel 52b niet nakomt.     
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de tijdelijke voorzieningen en de procedure bij intrekking van een vergunning.   
 
-### Artikel  50  
+### Artikel  50   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Op overeenkomsten tot transport of levering van gas is Nederlands recht van toepassing.   
 2.  De Nederlandse rechter is bij uitsluiting bevoegd kennis te nemen van geschillen over overeenkomsten tot transport of levering van gas.   
@@ -1502,7 +1509,7 @@ c. de termijn waarbinnen, de wijze waarop en de vorm waarin de gegevens en inlic
 ### Artikel  52b  
 
 1.  De voorwaarden, verbonden aan een leverings- of transportovereenkomst met een afnemer als bedoeld in artikel 43, eerste lid, zijn transparant, eerlijk en vooraf bekend. De voorwaarden worden in ieder geval voor het sluiten van de overeenkomst verstrekt en zijn gesteld in duidelijke en begrijpelijke taal.   
-2.  Leveranciers en netbeheerders zorgen ervoor dat afnemers als bedoeld in artikel 43, eerste lid, te allen tijde transparante informatie kunnen krijgen over de geldende tarieven en voorwaarden voor levering en transport van gas.   
+2.  Leveranciers zorgen ervoor dat afnemers als bedoeld in artikel 43, eerste lid, te allen tijde transparante informatie kunnen krijgen over de geldende tarieven en voorwaarden voor levering en transport van gas.   
 3.  Het is verboden voor de houder van een vergunning om op zodanige wijze afnemers als bedoeld in artikel 43, eerste lid, te benaderen dat onduidelijkheid bestaat over het feit dat een contract is afgesloten, de duur van het contract, de voorwaarden voor verlenging en beëindiging van het contract, het bestaan van een recht op opzegging en de voorwaarden van opzegging.   
 4.  Een contract, gesloten in strijd met het bepaalde bij of krachtens dit artikel is vernietigbaar.   
 5.  Een leverancier biedt een afnemer als bedoeld in artikel 43, eerste lid, ten minste een overeenkomst voor de levering van gas voor een onbepaalde duur aan.   
@@ -1561,7 +1568,7 @@ c. het jaarlijks aan Onze Minister overleggen van een overzicht waarin ten aanzi
 
 ### Artikel  54a  
 
-1.  Onverminderd de artikelen 10 en 10a heeft de netbeheerder van het landelijk gastransportnet, in het belang van het planmatig beheer van voorkomens van gas, ter verzekering op lange termijn van een behoedzaam en rationeel gebruik van deze natuurlijke hulpbron tot taak zorg te dragen voor de inname en het transport van gas uit de gasvoorkomens in gebieden binnen Nederland en op het continentaal plat.   
+1.  De netbeheerder van het landelijk gastransportnet heeft, in het belang van het planmatig beheer van voorkomens van gas, ter verzekering op lange termijn van een behoedzaam en rationeel gebruik van deze natuurlijke hulpbron tot taak zorg te dragen voor de inname en het transport van gas uit de gasvoorkomens in gebieden binnen Nederland en op het continentaal plat.   
 2.  Indien de netbeheerder van het landelijk gastransportnet ter uitvoering van de in het eerste lid bedoelde taak moet investeren in de aanleg of uitbreiding van het net dan meldt hij dit voornemen aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
 3.  Onze Minister besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van de netbeheerder van het landelijk gastransportnet noodzakelijk is, gelet op het belang, bedoeld in het eerste lid. Indien Onze Minister besluit dat de investering niet noodzakelijk is, wordt de netbeheerder van het landelijk gastransportnet geacht te zijn ontheven van de in het eerste lid bedoelde taak voor dat voorkomen.   
 4.  De Autoriteit Consument en Markt verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het derde lid, in de tarieven.   
@@ -1593,6 +1600,8 @@ c. het jaarlijks aan Onze Minister overleggen van een overzicht waarin ten aanzi
 ### Paragraaf  5.5  
 
 ####Toezicht
+
+Vervallen per 20-07-2012   
 
 ### Paragraaf  5.5a  
 
@@ -1736,7 +1745,8 @@ c. is het de koper van gas niet toegestaan tarieven en voorwaarden te hanteren w
 
 ### Artikel  66f  
 
-Iedere producent van gas en verbruiker van gas heeft daadwerkelijke keuzevrijheid van leverancier.  
+1.   Iedere producent van gas en verbruiker van gas heeft daadwerkelijke keuzevrijheid van leverancier.  
+2.  Het eerste lid is van overeenkomstige toepassing op eenieder die voornemens is gas te produceren of te verbruiken en die verzoekt om een aansluiting of een aansluitpunt op een gastransportnet.   
 
 ### Paragraaf  5.14  
 
@@ -1755,6 +1765,47 @@ Iedere producent van gas en verbruiker van gas heeft daadwerkelijke keuzevrijhei
 
 1.  Het is verboden te handelen in strijd met de artikelen 3, 4 en 5 van verordening 1227/2011.   
 2.  Overtreding van het eerste lid is een misdrijf.   
+
+### Paragraaf  5.16  
+
+####Garanties van oorsprong
+
+Treedt in werking op een nader te bepalen tijdstip   
+
+### Artikel  66i   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor gas uit hernieuwbare bronnen.   
+2.  Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in artikel 10, vijfde lid, onderdeel c.   
+3.  Onze Minister boekt op aanvraag garanties van oorsprong voor gas uit hernieuwbare bronnen op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid gas uit hernieuwbare energiebronnen overlegt.   
+
+### Artikel  66j   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Onze Minister kan de taken, bedoeld in artikel 66i, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren.  
+
+### Artikel  66k   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Een garantie van oorsprong voor gas uit hernieuwbare bronnen toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid gas is opgewekt uit hernieuwbare bronnen.  
+
+### Artikel  66l   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Onze Minister stelt bij ministeriële regeling de tarieven vast voor kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong voor gas uit hernieuwbare bronnen.   
+2.  Onze Minister stelt bij ministeriële regeling regels met betrekking tot: 
+
+a. de informatie die door producenten, leveranciers, handelaars, afnemers of netbeheerders verstrekt wordt aan Onze Minister;  
+
+b. het uitgeven en de geldigheidsduur van garanties van oorsprong voor gas uit hernieuwbare bronnen;  
+
+c. het vermelden van gegevens op garanties van oorsprong voor gas uit hernieuwbare bronnen;  
+
+d. de voorwaarden waaronder en de wijze waarop producenten, leveranciers, handelaars of afnemers gebruik kunnen maken van de door hen verkregen garanties van oorsprong voor gas uit hernieuwbare bronnen of deze kunnen verhandelen;  
+
+e. de vaststelling, bedoeld in artikel 10, vijfde lid, onderdeel c;  
+
+f. het meten, bedoeld in artikel 10, vijfde lid, onderdeel c, en tiende lid.     
 
 ### Hoofdstuk  6  
 
@@ -1807,7 +1858,7 @@ Het tarief voor meting van gas bij afnemers als bedoeld in artikel 43, eerste li
 
 ### Artikel  81  
 
-1.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager van elke dienst waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
+1.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager van elke dienst waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
 2.  De korting ter bevordering van de doelmatige bedrijfsvoering heeft onder meer ten doel te bereiken dat de netbeheerder in ieder geval geen rendement kan behalen dat hoger is dan in het economisch verkeer gebruikelijk en dat de gelijkwaardigheid in de doelmatigheid van de netbeheerders wordt bevorderd.   
 3.  De kwaliteitsterm geeft de aanpassing van de tarieven in verband met de geleverde kwaliteit aan en heeft ten doel netbeheerders te stimuleren om de kwaliteit van hun transportdienst te optimaliseren.   
 4.  De rekenvolumina die een netbeheerder gebruikt bij het voorstel, bedoeld in artikel 81b, zijn gebaseerd op daadwerkelijk gefactureerde volumina in eerdere jaren, of worden door de Autoriteit Consument en Markt geschat indien deze betrekking hebben op nieuwe tarieven.   
@@ -1876,7 +1927,7 @@ b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 13b, twee
 ### Artikel  82  
 
 1.  In afwijking van artikel 80 worden de tarieven ter uitvoering van de taken door de netbeheerder van het landelijk gastransportnet, genoemd in de artikelen 10 en 10a, eerste lid, onderdeel b, c, d en e, alsmede de tarieven voor de transport ondersteunende diensten vastgesteld overeenkomstig dit artikel.   
-2.  Voor elke taak van de netbeheerder van het landelijk gastransportnet, bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt en met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering op de meest doelmatige kwaliteit van de uitvoering van deze taken worden bevorderd.   
+2.  Voor de taken van de netbeheerder van het landelijk gastransportnet, bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt , met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van de uitvoering van deze taken worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen.   
 3.  De netbeheerder van het landelijk gastransportnet zendt jaarlijks voor 1 september aan de Autoriteit Consument en Markt een voorstel voor de tarieven voor uitvoering van de taken genoemd in de artikelen 10 en 10a, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 12f of  12g en met inachtneming van de gemaakte kosten voor investeringen, bedoeld in artikel 39e, 39f, derde lid, of  54a, derde lid, voor zover deze kosten doelmatig zijn.   
 4.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties een doelmatigheidskorting vast. Dit besluit geldt voor dezelfde periode als het besluit op grond van het tweede lid. De doelmatigheidskorting heeft tot doel om een doelmatige bedrijfsvoering te bevorderen.   
 5.  De Autoriteit Consument en Markt stelt jaarlijks de tarieven vast die kunnen verschillen voor de onderscheiden tariefdragers.   
@@ -1913,7 +1964,8 @@ Artikel 85 is niet van toepassing op de netbeheerder van het landelijk gastransp
 2.  De artikelen 14, derde tot en met zesde lid, treden in werking met ingang van 1 juli 2004.   
 3.  De artikelen 43 tot en met 49 treden in werking met ingang van het tijdstip waarop hoofdstuk 3 vervalt, dan wel op een eerder, bij koninklijk besluit te bepalen tijdstip.   
 
-### Artikel  89  
+### Artikel  89   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Deze wet wordt aangehaald als: Gaswet.  
 

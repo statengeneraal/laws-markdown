@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 augustus 2007, nr. TRCJZ/2007/2706, houdende vaststelling van de Regeling tarieven van de Plantenziektenkundige Dienst, KCB, BKD, Naktuinbouw en NAK (Regeling tarieven Plantenziektenkundige Dienst en de keuringsdiensten)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op artikel 13, quinquies, van richtlijn nr. 2002/89 van de Raad van de Europese Unie van 28 november 2002 (PbEG L 355) tot wijziging van richtlijn 2000/29/EG betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen en [artikel 6a van de Plantenziektenwet](../../../../../wet/plantenziektenwet/BWBR0002075/README.md) (Stb. 1951, 96);
+Gelet op artikel 13, quinquies, van richtlijn nr. 2002/89 van de Raad van de Europese Unie van 28 november 2002 (PbEG L 355) tot wijziging van richtlijn 2000/29/EG betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen en artikel 6a van de Plantenziektenwet (Stb. 1951, 96);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -53,11 +53,15 @@ s. spoedbemonstering: bemonstering waarvoor een snelst mogelijke behandeling gel
 
 t. spoedonderzoek: onderzoek waarvoor een snelst mogelijke behandeling geldt;  
 
-u. kwaliteitsinspecties: inspecties van planten en plantaardige producten op grond van de [Landbouwkwaliteitswet](../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) of de [Zaaizaad- en plantgoedwet](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md).    
+u. kwaliteitsinspecties: inspecties van planten en plantaardige producten op grond van de Landbouwkwaliteitswet of de Zaaizaad- en plantgoedwet;  
+
+v. GN-code: een code als bedoeld in bijlage I van verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256);  
+
+w. uitvoeringsbesluit nr. 2013/92/EU: uitvoeringsbesluit nr. 2013/92/EU van de Commissie van 18 februari 2013 betreffende het toezicht, de fytosanitaire controles en de te nemen maatregelen met betrekking tot houten verpakkingsmateriaal dat gebruikt wordt voor het vervoer van specifieke goederen van oorsprong uit China (PbEU 2013, L 47).    
 
 ### Artikel  1a  
 
-Deze regeling berust mede op de [artikelen 28, eerste lid](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), en [37, vijfde lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  
+Deze regeling berust mede op de artikelen 28, eerste lid, en 37, vijfde lid, van de Wet gewasbeschermingsmiddelen en biociden.  
 
 ### Hoofdstuk  2  
 
@@ -92,6 +96,20 @@ d. in het geval het werkzaamheden betreft die, als het niet de in de aanhef geno
 
 Als vergoeding voor de kosten van het afgeven van een instructie voor invoervergunning welke noodzakelijk is voor de afgifte van een fytosanitair certificaat bij een zending waarvoor een derde land een importvergunning heeft afgegeven, wordt de aanvrager een tarief in rekening gebracht van € 140,07.  
 
+### Artikel  2b  
+
+1.  Het controlepercentage voor houten verpakkingsmateriaal als bedoeld in uitvoeringsbesluit nr. 2013/92/EU van zendingen van oorsprong uit China: 
+
+a. met GN-code 2514 00 00, 2515 of 2516 is 90%;  
+
+b. met GN-code 6801 00 00 of 6802 is 50%.     
+2.  Als vergoeding voor de kosten van fytosanitaire werkzaamheden als bedoeld uitvoeringsbesluit nr. 2013/92/EU wordt de aanvrager het volgende tarief in rekening gebracht, waarbij het gewicht van de zending naar boven wordt afgerond in tonnen: 
+
+a. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 2514 00 00, 2515 of 2516, € 5,60 per ton;  
+
+b. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 6801 00 00 of 6802, € 4,98 per ton.     
+3.  Als vergoeding voor de kosten van verwerking van inspectieaanvragen voor houten verpakkingsmateriaal als bedoeld in uitvoeringsbesluit nr. 2013/92/EU van zendingen van oorsprong uit China die niet via het elektronisch vooraanmeldsysteem CLIENT Import worden aangemeld, wordt naast het tarief, bedoeld in het tweede lid, een tarief van € 38,50 per zending in rekening gebracht.   
+
 ### Artikel  3  
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in artikel 2, eerste lid desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, wordt de aanvrager als kosten een bedrag in rekening gebracht van: 
@@ -106,7 +124,7 @@ d. € 851,08 indien het de werkzaamheden bedoeld in de artikel 2, tweede lid, 
 
 ### Artikel  3a  
 
-Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod als bedoeld in [artikel 2 van de Regeling bestrijding schadelijke organismen](../../../../../ministeriele-regeling/regeling/bestrijding/schadelijke/organismen/BWBR0013946/README.md) voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht van € € 23,09.  
+Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod als bedoeld in artikel 2 van de Regeling bestrijding schadelijke organismen voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht van € € 23,09.  
 
 ### §  2.2  
 
@@ -126,7 +144,7 @@ Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van 
 
 ### Artikel  6  
 
-Als vergoeding van de kosten voor de behandeling van een aanvraag tot erkenning als bedoeld in [artikel 37, zesde lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) is de aanvrager voor de werkzaamheden die worden verricht in verband met die erkenning verschuldigd: 
+Als vergoeding van de kosten voor de behandeling van een aanvraag tot erkenning als bedoeld in artikel 37, zesde lid, van de Wet gewasbeschermingsmiddelen en biociden is de aanvrager voor de werkzaamheden die worden verricht in verband met die erkenning verschuldigd: 
 
 – € 130,05 per uur per medewerker en  
 
@@ -149,7 +167,7 @@ Als vergoeding van de kosten voor de behandeling van een aanvraag tot erkenning 
 
 1.  Voor door de NVWA, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van twee weken, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  De Inspecteur-Generaal van de NVWA maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -185,7 +203,7 @@ d. een tarief voor de controle van documenten van € 10,21 per importzending;
 
 e. een tarief voor de controle van de aangifte in CLIENT Import en vervoersdocumenten bij een verlegde inspectie van € 5,85 per importzending;  
 
-f. indien een exportcertificaat of code ter waarmerking van een elektronisch certificaat is aangevraagd via CLIENT Export, een bedrag van € 4,87 voor de afgifte van het certificaat of de code.    
+f. indien een exportcertificaat of code ter waarmerking van een elektronisch certificaat is aangevraagd via CLIENT Export, een bedrag van € 5,00 voor de afgifte van het certificaat of de code.    
 
 ### Artikel  10  
 
@@ -196,7 +214,7 @@ a. een tarief voor de controle van documenten van € 10,21 per zending;
 b. per partij een tarief per 1000 stelen, waarbij het aantal stelen naar boven wordt afgerond in eenheden van 1000, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief en een maximumtarief per partij, zoals weergegeven in de onderstaande tabel:  
 
 | Inspectiepercentage  | Tarief per 1000 stelen  | Minimumtarief per partij  | Maximumtarief per partij  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1%  | € 0,03  | € 0,30  | € 3,00  |
 | 3%  | € 0,07  | € 0,70  | € 7,00  |
 | 5%  | € 0,12  | € 1,20  | € 12,00  |
@@ -218,7 +236,7 @@ a. een tarief voor de controle van documenten van € 10,21 per zending;
 b. op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in artikel 10, eerste lid, per partij een tarief per 1000 stelen, waarbij het aantal stelen naar boven wordt afgerond in eenheden van 1000, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief en een maximumtarief per partij, zoals weergegeven in de onderstaande tabel:  
 
 | Inspectiepercentage  | Tarief per 1000 stelen  | Minimumtarief per partij  | Maximumtarief per partij  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1%  | € 0,05  | € 0,50  | € 5,00  |
 | 3%  | € 0,11  | € 1,10  | € 11,00  |
 | 5%  | € 0,18  | € 1,80  | € 18,00  |
@@ -232,7 +250,7 @@ b. op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een and
 c. op zondag of op een algemeen erkende feestdag, per partij een tarief per 1000 stelen, waarbij het aantal stelen naar boven wordt afgerond in eenheden van 1000, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief en een maximumtarief per partij, zoals weergegeven in de onderstaande tabel:  
 
 | Inspectiepercentage  | Tarief per 1000 stelen  | Minimumtarief per partij  | Maximumtarief per partij  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1%  | € 0,06  | € 0,60  | € 6,00  |
 | 3%  | € 0,14  | € 1,40  | € 14,00  |
 | 5%  | € 0,24  | € 2,40  | € 24,00  |
@@ -254,7 +272,7 @@ a. een tarief voor de controle van documenten van € 10,21 per zending;
 b. per partij een tarief per ton, waarbij het gewicht van de partij naar boven wordt afgerond in tonnen, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief per partij, zoals weergegeven in de onderstaande tabel:  
 
 | Inspectiepercentage  | Tarief per ton  | Minimumtarief per partij  |
-|:---|:---|:---|
+|---|---|---|
 | 3%  | € 0,03  | € 0,75  |
 | 5%  | € 0,05  | € 1,25  |
 | 7%  | € 0,07  | € 1,75  |
@@ -277,7 +295,7 @@ a. een tarief voor de controle van documenten van € 10,21 per zending;
 b. op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in artikel 12, eerste lid, per partij een tarief per ton, waarbij het gewicht van de partij naar boven wordt afgerond in tonnen, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief per partij, zoals weergegeven in de onderstaande tabel:  
 
 | Inspectiepercentage  | Tarief per ton  | Minimumtarief per partij  |
-|:---|:---|:---|
+|---|---|---|
 | 3%  | € 0,05  | € 1,25  |
 | 5%  | € 0,08  | € 2,00  |
 | 7%  | € 0,11  | € 2,75  |
@@ -291,7 +309,7 @@ b. op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een and
 c. op zondag of op een algemeen erkende feestdag per partij een tarief per ton, waarbij het gewicht van de partij naar boven wordt afgerond in tonnen, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief per partij, zoals weergegeven in de onderstaande tabel:  
 
 | Inspectiepercentage  | Tarief per ton  | Minimumtarief per partij  |
-|:---|:---|:---|
+|---|---|---|
 | 3%  | € 0,06  | € 1,50  |
 | 5%  | € 0,10  | € 2,50  |
 | 7%  | € 0,14  | € 3,50  |
@@ -311,7 +329,7 @@ Voor de verwerking van inspectieaanvragen die niet via het elektronisch vooraanm
 
 ### Artikel  15  
 
-1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 10,21 per zending in rekening gebracht.   
+1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 10,21 per zending in rekening gebracht.   
 2.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 48,55 in rekening gebracht.   
 
 ### Artikel  16  
@@ -347,7 +365,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de artikelen
 
 1.  Voor de door het KCB, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van twee weken, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  Het Hoofd Financiën en Personele Zaken van het KCB maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -368,17 +386,17 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de artikelen
 
 1.  Als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export en in het handelsverkeer aangeboden zendingen wordt de aanvrager het volgende tarief in rekening gebracht: 
 
-a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief van € 49,20 per inspectieaanvraag vermeerderd met een tarief van € 1,33 per minuut;  
+a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief van € 48,20 per inspectieaanvraag vermeerderd met een tarief van € 1,30 per minuut;  
 
-b. indien de werkzaamheden op verzoek worden verricht op een specifiek tijdstip op een dag en in de periode bedoeld in onderdeel a, een basistarief van € 73,80 per inspectieaanvraag vermeerderd met een tarief van € 1,33 per minuut;  
+b. indien de werkzaamheden op verzoek worden verricht op een specifiek tijdstip op een dag en in de periode bedoeld in onderdeel a, een basistarief van € 72,30 per inspectieaanvraag vermeerderd met een tarief van € 1,30 per minuut;  
 
-c. indien de werkzaamheden op verzoek worden verricht op een dag en in de periode bedoeld in onderdeel a en de werkzaamheden worden aangevraagd of gewijzigd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 129,00 per inspectieaanvraag vermeerderd met een tarief van € 1,33 per minuut;  
+c. indien de werkzaamheden op verzoek worden verricht op een dag en in de periode bedoeld in onderdeel a en de werkzaamheden worden aangevraagd of gewijzigd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 126,40 per inspectieaanvraag vermeerderd met een tarief van € 1,30 per minuut;  
 
-d. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 73,80 per inspectieaanvraag vermeerderd met een tarief van € 2,00 per minuut;  
+d. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 72,30 per inspectieaanvraag vermeerderd met een tarief van € 1,95 per minuut;  
 
-e. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 98,40 per inspectieaanvraag vermeerderd met een tarief van € 2,66 per minuut;  
+e. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 96,40 per inspectieaanvraag vermeerderd met een tarief van € 2,60 per minuut;  
 
-f. indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 4,87 voor de afgifte van het certificaat.     
+f. indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 5,00 voor de afgifte van het certificaat vermeerderd met een tarief van € 2,00 per certificaat voor het uitwisselen van fytosanitaire gegevens via het Ketenregister ten behoeve van de elektronische afgifte van het exportcertificaat.     
 2.  Voor de vergoeding van kosten voor het verrichten van overige fytosanitaire werkzaamheden anders dan die bedoeld in dit hoofdstuk, gelden de tarieven bedoeld in het eerste lid.   
 
 ### Artikel  21  
@@ -394,31 +412,31 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de BKD indienen, wordt jaarli
 
 Voor de verwerking van inspectieaanvragen die niet via het elektronische vooraanmeldsysteem, CLIENT, worden aangemeld wordt in plaats van het basistarief, bedoeld in artikel 20, het volgende tarief in rekening gebracht: 
 
-a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief van € 59,10 per inspectieaanvraag;  
+a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief van € 57,90 per inspectieaanvraag;  
 
-b. indien de werkzaamheden op verzoek worden verricht op een specifiek tijdstip op een dag en in de periode bedoeld in onderdeel a, een basistarief van € 88,65 per inspectieaanvraag;  
+b. indien de werkzaamheden op verzoek worden verricht op een specifiek tijdstip op een dag en in de periode bedoeld in onderdeel a, een basistarief van € 86,85 per inspectieaanvraag;  
 
-c. indien de werkzaamheden op verzoek worden verricht op een dag en in de periode bedoeld in onderdeel a en de werkzaamheden worden aangevraagd of gewijzigd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 138,90 per inspectieaanvraag;  
+c. indien de werkzaamheden op verzoek worden verricht op een dag en in de periode bedoeld in onderdeel a en de werkzaamheden worden aangevraagd of gewijzigd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 136,10 per inspectieaanvraag;  
 
-d. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 88,65 per inspectieaanvraag;  
+d. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 86,85 per inspectieaanvraag;  
 
-e. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 118,20 per inspectieaanvraag;  
+e. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 115,80 per inspectieaanvraag;  
 
-f. Voor het opmaken van een certificaat waarvan de gegevens niet via het elektronische systeem CLIENT Export worden aangeleverd, wordt naast het basistarief bedoeld in artikel 20, een tarief van € 25,20 per certificaat in rekening gebracht.    
+f. Voor het opmaken van een certificaat waarvan de gegevens niet via het elektronische systeem CLIENT Export worden aangeleverd, wordt naast het basistarief bedoeld in artikel 20, een tarief van € 24,70 per certificaat in rekening gebracht.    
 
 ### Artikel  24  
 
-Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 8,55 per zending in rekening gebracht.  
+Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 8,40 per zending in rekening gebracht.  
 
 ### Artikel  25  
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in artikel 20, desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager als kosten een bedrag in rekening gebracht van: 
 
-a. € 133,00 indien het de werkzaamheden bedoeld in artikel 20, onder a en c, betreft;  
+a. € 130,35 indien het de werkzaamheden bedoeld in artikel 20, onder a en c, betreft;  
 
-b. € 199,50 indien het de werkzaamheden bedoeld in artikel 20, onder b, betreft;  
+b. € 195,53 indien het de werkzaamheden bedoeld in artikel 20, onder b, betreft;  
 
-c. € 266,00 indien het de werkzaamheden bedoeld in artikel 20, onder d en e, betreft.    
+c. € 260,70 indien het de werkzaamheden bedoeld in artikel 20, onder d en e, betreft.    
 
 ### §  4.2  
 
@@ -426,7 +444,7 @@ c. € 266,00 indien het de werkzaamheden bedoeld in artikel 20, onder d en e, b
 
 ### Artikel  26  
 
-Indien in het kader van de werkzaamheden, bedoeld in artikel 20, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding een bedrag van € 140,50 per genomen monster in rekening gebracht.  
+Indien in het kader van de werkzaamheden, bedoeld in artikel 20, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding het tarief, bedoeld in artikel 4 per genomen monster in rekening gebracht.  
 
 ### Artikel  26a  
 
@@ -434,7 +452,7 @@ Indien ten behoeve van het vervroegd vrijgeven van percelen waarvoor een teeltve
 
 a. ten behoeve van de administratieve afhandeling van een verzoek, € 17,50 per perceel waarvoor een teeltverbod geldt;  
 
-b. ten behoeve van de monsterneming, uitgevoerd door de keurmeester, € 1,33 per minuut, met een minimum van € 19,95 per monster;  
+b. ten behoeve van de monsterneming, uitgevoerd door de keurmeester, € 1,30 per minuut, met een minimum van € 19,55 per monster;  
 
 c. ten behoeve van het vervoer van grondmonsters naar het laboratorium, € 17,50 per rit, en  
 
@@ -444,9 +462,9 @@ d. ten behoeve van het laboratoriumonderzoek van de grondmonsters, € 51,30 pe
 
 Indien ten behoeve van een in artikel 20 voor export bestemde zending laboratoriumonderzoek noodzakelijk is, worden boven de in dat artikel genoemde vergoeding de volgende tarieven in rekening gebracht: 
 
-a. voor gecombineerd onderzoek naar het Arabis mosaic virus (ArMV) en het Strawberry latent ringspot virus (SLRSV), een bedrag van € 182,50 per monster;  
+a. voor gecombineerd onderzoek naar het Arabis mosaic virus (ArMV) en het Strawberry latent ringspot virus (SLRSV), een bedrag van € 172,15 per monster;  
 
-b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag van € 166,00 per monster.    
+b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag van € 155,65 per monster.    
 
 ### §  4.3  
 
@@ -454,10 +472,10 @@ b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag 
 
 ### Artikel  27  
 
-1.  Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van inspectieplichtige of niet-inspectieplichtige zendingen wordt de aanvrager een tarief van € 1,33 per minuut, met een minimum van € 7,00 per opdracht in rekening gebracht.   
+1.  Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van inspectieplichtige of niet-inspectieplichtige zendingen wordt de aanvrager een tarief van € 1,30 per minuut, met een minimum van € 7,00 per opdracht in rekening gebracht.   
 2.  Voor de afgifte ten kantore van Certificaat Model 10EE, ten bate van Kleinverpakking USA/Canada, wordt bij de aanvrager per certificaat € 0,12 in rekening gebracht. Indien door de aanvrager niet wordt gekozen voor afhalen ten kantore dan worden tevens de meerkosten van aangetekend versturen in rekening gebracht.   
-3.  Voor de afgifte van een replacement fytosanitair certificaat wordt bij de aanvrager per certificaat € 51,10 in rekening gebracht.   
-4.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 46,10 in rekening gebracht.   
+3.  Voor de afgifte van een replacement fytosanitair certificaat wordt bij de aanvrager per certificaat € 50,10 in rekening gebracht.   
+4.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 45,20 in rekening gebracht.   
 
 ### §  4.4  
 
@@ -467,7 +485,7 @@ b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag 
 
 1.  Voor de door de BKD, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van 21 dagen, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  Het Hoofd van de afdeling Financiën van de BKD maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -489,17 +507,17 @@ b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag 
 
 1.  Als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export en in het handelsverkeer aangeboden zendingen wordt de aanvrager het volgende tarief in rekening gebracht: 
 
-a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode 7.00 uur tot 19.00 uur, een basistarief van € 65,70 per inspectieaanvraag vermeerderd met een tarief van € 1,46 per minuut;  
+a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode 7.00 uur tot 19.00 uur, een basistarief van € 67,50 per inspectieaanvraag vermeerderd met een tarief van € 1,50 per minuut;  
 
-b. indien de werkzaamheden op verzoek worden verricht op een dag en in een periode als bedoeld in onderdeel a, en de werkzaamheden worden aangevraagd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 98,55 per inspectieaanvraag, vermeerderd met een tarief van € 1,46 per minuut;  
+b. indien de werkzaamheden op verzoek worden verricht op een dag en in een periode als bedoeld in onderdeel a, en de werkzaamheden worden aangevraagd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 101,25 per inspectieaanvraag, vermeerderd met een tarief van € 1,50 per minuut;  
 
-c. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 98,55 per inspectieaanvraag vermeerderd met een tarief van € 2,19 per minuut;  
+c. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 101,25 per inspectieaanvraag vermeerderd met een tarief van € 2,25 per minuut;  
 
-d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 131,40 per inspectieaanvraag vermeerderd met een tarief van € 2,92 per minuut;  
+d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 135,00 per inspectieaanvraag vermeerderd met een tarief van € 3,00 per minuut;  
 
 e. indien de inspectieaanvraag via het elektronisch vooraanmeldsysteem CLIENT Import wordt aangemeld, een bedrag van € 2,00 per zending;  
 
-f. indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 4,87 voor de afgifte van het certificaat.     
+f. indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 5,00 voor de afgifte van het certificaat.     
 2.  In afwijking van het eerste lid kan geen inspectie worden aangevraagd voor maandag, dinsdag, woensdag, donderdag en vrijdag van 22.00 uur tot 5.00 uur, op zaterdag van 16.30 uur tot 8.30 uur, en op zondag of op een algemeen erkende feestdag van 16.30 uur tot 8.30 uur.   
 
 ### Artikel  30  
@@ -515,20 +533,20 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de Naktuinbouw indienen wordt
 
 1.  Voor de verwerking van inspectieaanvragen die niet via het elektronische vooraanmeldsysteem, CLIENT Import of Portal, worden aangemeld wordt in plaats van het basistarief, bedoeld in artikel 29, het volgende in rekening gebracht: 
 
-a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief van € 95,70 per inspectieaanvraag;  
+a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief van € 97,50 per inspectieaanvraag;  
 
-b. indien de werkzaamheden op verzoek worden verricht op een dag en in een periode, als bedoeld in onderdeel a, en de werkzaamheden worden aangevraagd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 143,55 per inspectieaanvraag;  
+b. indien de werkzaamheden op verzoek worden verricht op een dag en in een periode, als bedoeld in onderdeel a, en de werkzaamheden worden aangevraagd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief van € 146,25 per inspectieaanvraag;  
 
-c. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 143,55 per inspectieaanvraag;  
+c. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief van € 146,25 per inspectieaanvraag;  
 
-d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 191,40 per inspectieaanvraag.     
-2.  Voor de verwerking van inspectieaanvragen die niet via het elektronische vooraanmeldsysteem, CLIENT Import of Portal, worden aangemeld, wordt naast het tarief, bedoeld in het eerste lid, een tarief van € 0,73 per geslacht of variëteit in rekening gebracht.   
+d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 195,00 per inspectieaanvraag.     
+2.  Voor de verwerking van inspectieaanvragen die niet via het elektronische vooraanmeldsysteem, CLIENT Import of Portal, worden aangemeld, wordt naast het tarief, bedoeld in het eerste lid, een tarief van € 0,75 per geslacht of variëteit in rekening gebracht.   
 3.  Voor de controle van een niet via het elektronisch vooraanmeldsysteem CLIENT Import aangemelde aanvraag voor de verplaatsing van een zending ten behoeve van de uitvoering van een importkeuring op een erkende inspectielocatie, wordt een tarief van € 15,00 per zending in rekening gebracht.   
-4.  Voor het opmaken van een exportcertificaat, waarvan de gegevens niet via het elektronisch vooraanmeldsysteem CLIENT Export worden aangeleverd, wordt naast het basistarief, bedoeld in artikel 29, een tarief van € 26,50 per certificaat in rekening gebracht.   
+4.  Voor het opmaken van een exportcertificaat, waarvan de gegevens niet via het elektronisch vooraanmeldsysteem CLIENT Export worden aangeleverd, wordt naast het basistarief, bedoeld in artikel 29, een tarief van € 27,00 per certificaat in rekening gebracht vermeerderd met een tarief van € 0,75 per orderregel in CLIENT Export.   
 
 ### Artikel  33  
 
-1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 9,25 per zending in rekening gebracht.   
+1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 9,25 per zending in rekening gebracht.   
 2.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 49,50 in rekening gebracht.   
 
 ### Artikel  34  
@@ -549,17 +567,19 @@ c. € 284,00 indien het de werkzaamheden bedoeld in artikel 29, onder c betref
 
 Indien in het kader van de werkzaamheden, bedoeld in artikel 29, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding het volgende bedrag in rekening gebracht: 
 
-a. voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek € 174,80 per uitgevoerd onderzoek;  
+a. voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek € 178,30 per uitgevoerd onderzoek;  
 
-b. voor een kleine diagnose-opdracht € 152,50 per uitgevoerd onderzoek;  
+b. voor een kleine diagnose-opdracht € 155,50 per uitgevoerd onderzoek;  
 
-c. voor een diagnose van maximaal vijf virussen € 114,60 per uitgevoerd onderzoek;  
+c. voor een diagnose van maximaal vijf virussen € 116,90 per uitgevoerd onderzoek;  
 
 d. voor meerwerk, inclusief laboratoriumonderzoek door de NVWA, het tarief bedoeld in artikel 4;  
 
-e. voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. een bedrag van € 131,00 per uitgevoerd onderzoek;  
+e. voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. een bedrag van € 133,60 per uitgevoerd onderzoek;  
 
-f. voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag van € 131,00 per uitgevoerd onderzoek.    
+f. voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag van € 133,60  
+
+per uitgevoerd onderzoek.    
 
 ### §  5.3  
 
@@ -567,7 +587,7 @@ f. voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag v
 
 ### Artikel  36  
 
-1.  Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager € 14,60 per certificaat in rekening gebracht.   
+1.  Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager € 15,00 per certificaat in rekening gebracht.   
 2.  Als vergoeding voor het doen van een bijschrijving op een certificaat ten behoeve van zendingen met producten die onder het CITES-Verdrag vallen, wordt de aanvrager een bedrag in rekening gebracht van € 2,70.   
 3.  Voor de afgifte van een replacement fytosanitair certificaat wordt de aanvrager per certificaat € 50,00 in rekening gebracht.   
 
@@ -579,7 +599,7 @@ f. voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag v
 
 1.  Voor de door de Naktuinbouw, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van 30 dagen, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  De controller van de Naktuinbouw maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 5.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
 6.  Als vergoeding voor een aanmaning als bedoeld in het vijfde lid wordt een tarief in rekening gebracht van: 
@@ -625,7 +645,7 @@ c. Indien de werkzaamheden op verzoek worden verricht op zondag of op een algeme
 d. Indien de werkzaamheden niet voor 11.00 uur worden aangevraagd om te worden verricht op dezelfde dag, zijnde een werkdag, tussen 13.00 uur en 18.00 uur, dan wel niet voor 17.00 uur worden aangevraagd om te worden verricht op de eerstvolgende werkdag tussen 7.00 uur en 13.00 uur, in afwijking op de starttarieven vermeld in de onderdelen a en b, een starttarief van € 97,60 per inspectieaanvraag.     
 2.  De tarieven, bedoeld in het eerste lid, voor consumptieaardappelen en overige producten zijn eveneens van toepassing ingeval de inspectieaanvragen uitsluitend betrekking hebben op administratieve controles en daarmee verband houdende werkzaamheden.   
 3.  Voor alle inspectieaanvragen wordt een toeslag berekend van € 12,75 voor toezicht.   
-4.  Voor de afgifte van een exportcertificaat dat is aangevraagd via CLIENT Export, wordt een bedrag van € 4,87 in rekening gebracht.   
+4.  Voor de afgifte van een exportcertificaat dat is aangevraagd via CLIENT Export, wordt een bedrag van € 5,00 in rekening gebracht.   
 5.  Voor het opmaken en afgeven van een exportcertificaat waarvan de gegevens niet via CLIENT Export worden aangeleverd, wordt per certificaat naast het tarief, genoemd in het vierde lid, een bedrag van € 26,50 in rekening gebracht.   
 6.  Voor het opmaken van een inspectiebiljet waarvan de gegevens niet via het elektronische systeem CLIENT Export worden aangeleverd, wordt naast het tarief bedoeld in het eerste lid, een tarief van € 14,50 per inspectiebiljet in rekening gebracht.   
 
@@ -640,7 +660,7 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlij
 
 ### Artikel  41  
 
-1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 14,50 per zending in rekening gebracht.   
+1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 14,50 per zending in rekening gebracht.   
 2.  Voor een op verzoek van de aanvrager door de keuringsdienst afgegeven document ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardige producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 49,50 in rekening gebracht.   
 
 ### Artikel  42  
@@ -679,7 +699,7 @@ Als vergoeding voor het ten kantore van de NAK waarmerken van certificaten ten b
 
 ### Artikel  45  
 
-1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in [artikel 5, derde lid](../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md), en [artikel 6, tweede lid, van de Regeling bruin- en ringrot 2000](../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md), worden de volgende kosten in rekening gebracht: 
+1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in artikel 5, derde lid, en artikel 6, tweede lid, van de Regeling bruin- en ringrot 2000, worden de volgende kosten in rekening gebracht: 
 
 a. € 84,15 indien één monster per partij is genomen;  
 
@@ -712,7 +732,7 @@ e. € 12,95 administratiekosten per aanvraag en een tarief van € 1,00 per m
 
 ### Artikel  45a  
 
-1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in [artikel 12b van het Besluit bestrijding schadelijke organismen](../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), wordt de aanvrager het volgende tarief in rekening gebracht: 
+1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in artikel 12b van het Besluit bestrijding schadelijke organismen, wordt de aanvrager het volgende tarief in rekening gebracht: 
 
 a. Voor onderzoek naar aardappelmoeheid: 
 
@@ -746,7 +766,7 @@ d. Voor het kopiëren van een AM-dossier, € 15,70 per dossier.
 
 1.  Voor de door de NAK, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van 14 dagen, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  Het Hoofd van de afdeling Financiën van de NAK maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -764,11 +784,12 @@ Op betalingsverplichtingen ontstaan vóór de inwerkingtreding van deze regeling
 
 ### Artikel  48  
 
-De [Regeling tarieven Plantenziektenkundige Dienst](../../../../../ministeriele-regeling/regeling/tarieven/plantenziektenkundige/dienst/BWBR0018124/README.md) (Stcrt. 2005, 60) wordt ingetrokken.  
+De Regeling tarieven Plantenziektenkundige Dienst (Stcrt. 2005, 60) wordt ingetrokken.  
 
 ### Artikel  49  
 
-Deze regeling treedt in werking met ingang van 1 september 2007.  
+1.  Deze regeling treedt in werking met ingang van 1 september 2007.   
+2.  De artikelen 1, onderdeel v, en 2b vervallen met ingang van 1 april 2015.   
 
 ### Artikel  50  
 
@@ -781,15 +802,13 @@ G.Verburg
 
 ### Bijlage  
 
-####(behorende bij de artikelen 10 tot en met 13 )
+####bij de artikelen 10 tot en met 13  van de Regeling tarieven Plantenziektenwet
 
 | Soort  | Land van oorsprong  | Minimum %  |
-|:---|:---|:---|
+|---|---|---|
 |  *Snijbloemen*   | --- | --- |
-| Aster  | Zimbabwe  | 75  |
-| --- | --- | --- |
-| Dianthus  | Colombia  | 5  |
-| Dianthus  | Ecuador  | 10  |
+| Dianthus  | Colombia  | 3  |
+| Dianthus  | Ecuador  | 15  |
 | Dianthus  | Kenia  | 5  |
 | Dianthus  | Turkije  | 25  |
 | --- | --- | --- |
@@ -799,32 +818,35 @@ G.Verburg
 | Rosa  | Ecuador  | 3  |
 | Rosa  | Ethiopië  | 10  |
 | Rosa  | Kenia  | 5  |
-| Rosa  | Tanzania  | 10  |
-| Rosa  | Uganda  | 25  |
+| Rosa  | Tanzania  | 15  |
 | Rosa  | Zambia  | 25  |
 | --- | --- | --- |
 |  *Groenten en fruit*   | --- | --- |
+| Capsicum  | Israel  | 5  |
+| --- | --- | --- |
 | Citrus  | Egypte  | 15  |
 | Citrus  | Israel  | 10  |
 | Citrus  | Mexico  | 15  |
 | Citrus  | Marokko  | 5  |
-| Citrus  | Peru  | 25  |
+| Citrus  | Peru  | 15  |
 | Citrus  | Tunesië  | 25  |
 | Citrus  | Turkije  | 3  |
 | Citrus  | Uruguay  | 15  |
 | Citrus  | Verenigde Staten  | 15  |
 | --- | --- | --- |
-| Malus  | Argentinië  | 10  |
+| Malus  | Argentinië  | 25  |
 | Malus  | Brazilië  | 25  |
 | Malus  | Chili  | 5  |
 | Malus  | Nieuw-Zeeland  | 10  |
-| Malus  | Verenigde Staten  | 35  |
+| Malus  | Verenigde Staten  | 50  |
 | Malus  | Zuid-Afrika  | 5  |
+| --- | --- | --- |
+| Mangifera  | Brazilië  | 50  |
 | --- | --- | --- |
 | Passiflora  | Colombia  | 10  |
 | Passiflora  | Kenia  | 10  |
-| Passiflora  | Zimbabwe  | 50  |
-| Passiflora  | Zuid-Afrika  | 50  |
+| Passiflora  | Zimbabwe  | 75  |
+| Passiflora  | Zuid-Afrika  | 35  |
 | --- | --- | --- |
 | Prunus  | Argentinië  | 50  |
 | Prunus  | Chili  | 10  |
@@ -838,7 +860,7 @@ G.Verburg
 | Pyrus  | China  | 50  |
 | Pyrus  | Zuid-Afrika  | 10  |
 | --- | --- | --- |
-| Momordica  | Suriname  | 50  |
+| Momordica  | Suriname  | 35  |
 | --- | --- | --- |
 | Solanum melongena  | Kenia  | 10  |
 | Solanum melongena  | Turkije  | 10  |

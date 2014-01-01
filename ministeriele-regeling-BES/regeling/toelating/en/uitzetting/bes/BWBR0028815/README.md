@@ -2,6 +2,9 @@
 
 ##Regeling van de Minister van Justitie van 4 oktober 2010 nr 5669054/10, tot vaststelling van de Regeling toelating en uitzetting BES
 
+De Minister van Justitie,  
+Gelet op de [artikelen 7, derde lid](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), [9, derde lid, onder a](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [24, derde lid, van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [artikelen 2.12](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.3, zesde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.5, derde lid, onder a en b](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.10, eerste en tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.17](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.19, vierde lid, onder c](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.20, tweede lid, onder d](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.34, derde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.35, tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [6.2, derde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [6.11, tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.32, van het Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);
+Besluit:     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
@@ -153,6 +156,10 @@ c. Aruba, Australië, Canada, Curacao, Israël, Japan, Monaco, Nieuw Zeeland, Si
 ### Artikel  5.1  
 
 De grensdoorlaatposten, bedoeld in [artikel 6.2, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en vermeld in kolom A van bijlage 6 bij deze regeling, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom B van bijlage 7 bij deze regeling.  
+
+### Artikel  5.1a  
+
+Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de wettelijke voorschriften met betrekking tot de grensbewaking en met betrekking tot het toezicht op personen als bedoeld in [artikel 22a, eerste lid, onder c, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) zijn aangewezen de medewerkers grensbewaking van de Rijksdienst Caribisch Nederland.  
 
 ### Artikel  5.2  
 

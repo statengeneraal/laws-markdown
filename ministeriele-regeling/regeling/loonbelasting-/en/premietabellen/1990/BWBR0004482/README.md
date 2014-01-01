@@ -30,7 +30,7 @@ g. de groene tabellen voor werknemers die voor twintig dagen of meer per jaar lo
 
 h. de tabel voor uitvoerders van aangenomen werk en thuiswerkers, hun hulpen, degenen wier arbeidsverhouding ingevolge [artikel 2c van het Uitvoeringsbesluit loonbelasting 1965](../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md) als dienstbetrekking wordt beschouwd en sekswerkers op wie [artikel 2g](../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md) van dat besluit wordt toegepast ingevolge [artikel 2.2 van de Uitvoeringsregeling loonbelasting 2011](../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md), opgenomen in bijlage H;  
 
-i. de tabel voor degenen die uitkeringen ontvangen ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650) opgenomen in bijlage I.    
+i. de tabel voor degenen die uitkeringen ontvangen ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) opgenomen in bijlage I.    
 
 ### Artikel  3  
 
@@ -67,9 +67,9 @@ Door vernummering vervallen.
 
 1.  Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in artikel 2, onderdeel i, van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.   
 2.  Bij de in het eerste lid bedoelde herrekening wordt ten aanzien van de werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt rekening gehouden met de algemene heffingskorting. Bij die herrekening wordt ten aanzien van de werknemer van die die pensioengerechtigde leeftijd heeft bereikt rekening gehouden met de algemene heffingskorting en de ouderenkorting en, als deze werknemer een uitkering ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) geniet volgens de normen voor een alleenstaande of een alleenstaande ouder, bovendien met de aanvullende ouderenkorting. De heffingskortingen worden in aanmerking genomen naar rato van de periode waarover in het kalenderjaar loon van de inhoudingsplichtige is genoten.   
-3.  Het op de voet van het tweede lid bepaalde bedrag wordt verminderd met het bedrag van de in dat lid bedoelde heffingskortingen voor zover daarmee rekening is gehouden bij de inhouding van loonbelasting en premie voor de volksverzekeringen op ander loon over perioden in het kalenderjaar waarover een uitkering ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650), is genoten. Voor de toepassing van de vorige volzin wordt met betrekking tot beloningen die niet kunnen worden toegerekend aan een loontijdvak waarover geen bijstandsuitkering is genoten en waarop met toepassing van de in artikel 26 van de wet bedoelde tabel geen inhouding van loonbelasting en premie voor de volksverzekeringen plaatsvindt, geacht bij de bepaling van de loonbelasting en premie voor de volksverzekeringen rekening te zijn gehouden met een bedrag aan heffingskorting. De Belastingdienst verstrekt aan de inhoudingsplichtige een rekenvoorschrift aan de hand waarvan hij het in dit lid bedoelde bedrag aan heffingskorting kan bepalen.   
-4.  De loonbelasting en premie voor de volksverzekeringen over loon waarover inkomensafhankelijke bijdrage als bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en inkomensafhankelijke bijdrage als bedoeld in artikel 43 van de Zorgverzekeringswet, en bedraagt: (L - H) × P - H, waarbij L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeringen wordt berekend; H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid, en P bedraagt: 74,37% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt en 32,89% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.   
-5.  De loonbelasting en premie voor de volksverzekeringen over loon waarover inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt: L x Q, waarbij L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeringen wordt berekend; Q bedraagt: 58,73% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt en 23,61% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.   
+3.  Het op de voet van het tweede lid bepaalde bedrag wordt verminderd met het bedrag van de in dat lid bedoelde heffingskortingen voor zover daarmee rekening is gehouden bij de inhouding van loonbelasting en premie voor de volksverzekeringen op ander loon over perioden in het kalenderjaar waarover een uitkering ingevolge de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is genoten. Voor de toepassing van de vorige volzin wordt met betrekking tot beloningen die niet kunnen worden toegerekend aan een loontijdvak waarover geen bijstandsuitkering is genoten en waarop met toepassing van de in [artikel 26 van de wet](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bedoelde tabel geen inhouding van loonbelasting en premie voor de volksverzekeringen plaatsvindt, geacht bij de bepaling van de loonbelasting en premie voor de volksverzekeringen rekening te zijn gehouden met een bedrag aan heffingskorting. De Belastingdienst verstrekt aan de inhoudingsplichtige een rekenvoorschrift aan de hand waarvan hij het in dit lid bedoelde bedrag aan heffingskorting kan bepalen.   
+4.  De loonbelasting en premie voor de volksverzekeringen over loon waarover inkomensafhankelijke bijdrage als bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en inkomensafhankelijke bijdrage als bedoeld in artikel 43 van de Zorgverzekeringswet, en bedraagt: (L - H) × P - H, waarbij L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeringen wordt berekend; H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid, en P bedraagt: 62,13% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt en 24,07% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.   
+5.  De loonbelasting en premie voor de volksverzekeringen over loon waarover inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt: L x Q, waarbij L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeringen wordt berekend; Q bedraagt: 56,86% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt en 22,47% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.   
 6.  Voor de toepassing van het tweede, vierde en vijfde lid wordt de werknemer die in het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, geacht die leeftijd te hebben bereikt op de eerste dag van de kalendermaand waarin hij die leeftijd werkelijk heeft bereikt.   
 7.  De op de voet van de vorige leden herrekende loonbelasting en premie voor de volksverzekeringen wordt verminderd met de over de in het kalenderjaar verstreken loontijdvakken reeds ingehouden loonbelasting en premie.   
 8.  De op de voet van het zevende lid bepaalde belasting en premie is verschuldigd over de maand december van het kalenderjaar.   
@@ -99,47 +99,47 @@ M. J. J. vanAmelsvoort
 
 ### Bijlage  A  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  B  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  C  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  D  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  E  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  F  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  G  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  H  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  I  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  J  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  K  
 
-Ligt ter inzage bij het Ministerie van Financiën.  
+Ligt ter inzage bij de directie Directe Belastingen van het Ministerie van Financiën.  
 
 ### Bijlage  L  
 

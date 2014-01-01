@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het bedrag, dat ingevolge [artikel 7 *b*, zevende lid, van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bij het indienen van een aanvraag om een vergunning voor het houden van een winkelweekaktie moet worden betaald aan de Kamer van Koophandel en Fabrieken, wordt vastgesteld op f 50,-.  
+Het bedrag, dat ingevolge [artikel 7 *b*, zevende lid, van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bij het indienen van een aanvraag om een vergunning voor het houden van een winkelweekaktie moet worden betaald aan de Kamer van Koophandel, wordt vastgesteld op f 50,-.  
 
 ### Artikel  2  
 

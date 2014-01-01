@@ -4,7 +4,7 @@
 
 ####International Convention Against Doping in Sport
 
-*Preamble*  The General Conference of the United Nations Educational, Scientific and Cultural Organization, hereinafter referred to as UNESCO, meeting in Paris from 3 to 21 October at its 33rd session, Considering that the aim of UNESCO is to contribute to peace and security by promoting collaboration among the nations through education, science and culture, Referring to the existing international instruments relating to human rights, Aware of the resolution 58/5 adopted by the General Assembly of the United Nations on 3 November 2003, concerning sport as a means to promote education, health, development and peace, notably its paragraph 7, Conscious that sport should play an important role in the protection of health, in moral, cultural and physical education and in promoting international understanding and peace, Noting the need to encourage and coordinate international cooperation towards the elimination of doping in sport, Concerned by the use of doping by athletes in sport and the consequences thereof for their health, the principle of fair play, the elimination of cheating and the future of sport, Mindful that doping puts at risk the ethical principles and educational values embodied in the International Charter of Physical Education and Sport of UNESCO and in the Olympic Charter, Recalling that the [Anti-Doping Convention](../../../../../../../../verdrag/anti-doping/convention/BWBV0004757/README.md) and its Additional Protocol adopted within the framework of the Council of Europe are the public international law tools, which are at the origin of national anti-doping policies and of intergovernmental cooperation, Recalling the Recommendations on doping adopted by the second, third and fourth International Conferences of Ministers and Senior Officials responsible for Physical Education and Sport organized by UNESCO at Moscow (1988), at Punta del Este (1999) and Athens (2004) and of 32 C/Resolution 9 adopted by the UNESCO General Conference at its 32nd session (2003), Bearing in mind the World Anti-Doping Code adopted by the World Anti-Doping Agency at the World Conference on Doping in Sport, Copenhagen, 5 March 2003 and the Copenhagen Declaration on Anti-Doping in Sport, Mindful also of the influence that elite athletes have on youth, Aware of the ongoing need to conduct and promote research with the objectives of improving detection of doping and better understanding of the factors affecting use in order for prevention strategies to be most effective, Aware also of the importance of ongoing education of athletes, athlete support personnel and the community at large in preventing doping, Mindful of the need to build the capacity of States Parties to implement anti-doping programmes, Aware that public authorities and the organizations responsible for sport have complementary responsibilities to prevent and combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them, Recognizing that these authorities and organizations must work together for these purposes ensuring the highest degree of independence and transparency at all appropriate levels, Determined to take further and stronger cooperative action aimed at the elimination of doping in sport, Recognizing that the elimination of doping in sport is dependent in part upon progressive harmonization of anti-doping standards and practices in sport and cooperation at the national and global level, Adopts this Convention on this nineteenth day of October 2005.     
+*Preamble*  The General Conference of the United Nations Educational, Scientific and Cultural Organization, hereinafter referred to as UNESCO, meeting in Paris from 3 to 21 October at its 33rd session, Considering that the aim of UNESCO is to contribute to peace and security by promoting collaboration among the nations through education, science and culture, Referring to the existing international instruments relating to human rights, Aware of the resolution 58/5 adopted by the General Assembly of the United Nations on 3 November 2003, concerning sport as a means to promote education, health, development and peace, notably its paragraph 7, Conscious that sport should play an important role in the protection of health, in moral, cultural and physical education and in promoting international understanding and peace, Noting the need to encourage and coordinate international cooperation towards the elimination of doping in sport, Concerned by the use of doping by athletes in sport and the consequences thereof for their health, the principle of fair play, the elimination of cheating and the future of sport, Mindful that doping puts at risk the ethical principles and educational values embodied in the International Charter of Physical Education and Sport of UNESCO and in the Olympic Charter, Recalling that the Anti-Doping Convention and its Additional Protocol adopted within the framework of the Council of Europe are the public international law tools, which are at the origin of national anti-doping policies and of intergovernmental cooperation, Recalling the Recommendations on doping adopted by the second, third and fourth International Conferences of Ministers and Senior Officials responsible for Physical Education and Sport organized by UNESCO at Moscow (1988), at Punta del Este (1999) and Athens (2004) and of 32 C/Resolution 9 adopted by the UNESCO General Conference at its 32nd session (2003), Bearing in mind the World Anti-Doping Code adopted by the World Anti-Doping Agency at the World Conference on Doping in Sport, Copenhagen, 5 March 2003 and the Copenhagen Declaration on Anti-Doping in Sport, Mindful also of the influence that elite athletes have on youth, Aware of the ongoing need to conduct and promote research with the objectives of improving detection of doping and better understanding of the factors affecting use in order for prevention strategies to be most effective, Aware also of the importance of ongoing education of athletes, athlete support personnel and the community at large in preventing doping, Mindful of the need to build the capacity of States Parties to implement anti-doping programmes, Aware that public authorities and the organizations responsible for sport have complementary responsibilities to prevent and combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them, Recognizing that these authorities and organizations must work together for these purposes ensuring the highest degree of independence and transparency at all appropriate levels, Determined to take further and stronger cooperative action aimed at the elimination of doping in sport, Recognizing that the elimination of doping in sport is dependent in part upon progressive harmonization of anti-doping standards and practices in sport and cooperation at the national and global level, Adopts this Convention on this nineteenth day of October 2005.     
 ### PART  I  
 
 ####SCOPE
@@ -483,7 +483,7 @@ g) any other act, notification or communication relating to this Convention.
 
 ####Registration
 
-In conformity with [Article 102 of the Charter of the United Nations](../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), this Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of UNESCO.  
+In conformity with Article 102 of the Charter of the United Nations, this Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of UNESCO.  
 
 ### Article  42  
 
@@ -502,13 +502,15 @@ DONE in Paris, this nineteenth day of October 2005, in two authentic copies bear
 
 ### Annex  I  
 
-####The 2013 prohibited list World Anti-Doping Code
+####The 2014 prohibited list World Anti-Doping Code
 
-Date of entry into force: 1 January 2013  
+Date of entry into force: 1 January 2014  
 
-In accordance with Article 4.2.2 of the World Anti-Doping Code, all Prohibited Substances shall be considered as “Specified Substances” except Substances in classes S1, S2, S.4.4, S.4.5, S6.a, and Prohibited Methods M1, M2 and M3.  
+In accordance with Article 4.2.2 of the World Anti-Doping Code, all Prohibited Substances shall be considered as “Specified Substances” except Substances in classes S1, S2, S4.4, S4.5, S6.a, and *Prohibited Methods* M1, M2 and M3.  
 
-####Substances and methods prohibited at all times (in- and out-of-competition)
+####Substances and methods prohibited at all times
+
+(in- and out-of-competition)  
 
 ####Prohibited substances
 
@@ -526,9 +528,9 @@ Anabolic agents are prohibited.
 
 1. Anabolic Androgenic Steroids (AAS) 
 
-a) Exogenous AAS, including: <sup> 1)  For the purpose of this section:   “Exogenous” refers to a substance which is not ordinarily capable of being produced by the body naturally.  </sup> 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α-androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3ß, 17ß-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19-norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metenolone; methandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); methandriol; methasterone (17β-hydroxy-2α,17α-dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α-androstane); quinbolone; stanozolol; stenbolone; 1-testosterone (17β-hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).  
+a). Exogenous AAS, including: <sup> 1)  For purposes of this section: “Exogenous” refers to a substance which is not ordinarily produced by the body naturally.  </sup> 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α- androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3β,17β-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19-norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4- hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); metenolone; methandriol; methasterone (17β-hydroxy-2α,17α- dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β- hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α- androstane); quinbolone; stanozolol; stenbolone; 1-testosterone (17β- hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).  
 
-b) Endogenous AAS when administered exogenously: <sup> 2)  “Endogenous” refers to a substance which is capable of being produced by the body naturally.  </sup> androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA, 3β- hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.    
+b) Endogenous AAS when administered exogenously: <sup> 2)  For purposes of this section: “Endogenous” refers to a substance which is ordinarily produced by the body naturally.  </sup> androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.    
 
 2. Other Anabolic Agents, including but not limited to: Clenbuterol, selective androgen receptor modulators (SARMs), tibolone, zeranol, zilpaterol.    
 
@@ -536,21 +538,21 @@ b) Endogenous AAS when administered exogenously: <sup> 2)  “Endogenous” refe
 
 ####Peptide hormones, growth factors and related substances
 
-The following substances and their releasing factors are prohibited: 
+The following substances, and other substances with similar chemical structure or similar biological effect(s), are prohibited: 
 
 1. Erythropoiesis-Stimulating Agents [e.g. erythropoietin (EPO), darbepoietin (dEPO), hypoxia-inducible factor (HIF) stabilizers, methoxy polyethylene glycol-epoetin beta (CERA), peginesatide (Hematide)];  
 
-2. Chorionic Gonadotrophin (CG) and Luteinizing Hormone (LH) in males;  
+2. Chorionic Gonadotrophin (CG) and Luteinizing Hormone (LH) and their releasing factors, in males;  
 
-3. Corticotrophins;  
+3. Corticotrophins and their releasing factors;  
 
-4. Growth Hormone (GH), Insulin-like Growth Factor-1 (IGF-1), Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching;   and other substances with similar chemical structure or similar biological effect(s).  
+4. Growth Hormone (GH) and its releasing factors and Insulin-like Growth Factor-1 (IGF-1). In addition, the following growth factors are prohibited Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching;   and other substances with a similar chemical structure or similar biological effect(s).  
 
 ### S3  
 
 ####Beta-2 agonists
 
-All beta-2 agonists, including all optical isomers (e.g. d- and l-) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers' recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered as an Adverse Analytical Finding unless the Athlete proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above.  
+All beta-2 agonists, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers’ recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered an *Adverse Analytical Finding* unless the *Athlete* proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above.  
 
 ### S4  
 
@@ -570,13 +572,13 @@ The following are prohibited:
 
 a) Insulins  
 
-b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ- AMP-activated protein kinase (AMPK) axis agonists (e.g. AICAR).      
+b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ-AMP-activated protein kinase (AMPK) axis agonists (e.g. AICAR)      
 
 ### S5  
 
 ####Diuretics and other masking agents
 
-Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol) , probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlorthalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide); triamterene; and other substances with a similar chemical structure or similar biological effect(s) (except drosperinone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use In- and Out-of Competition, as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjuction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent.  
+Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol), probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlortalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide), triamterene, vaptans (e.g. tolvaptan); and other substances with a similar chemical structure or similar biological effect(s) (except for drospirenone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use *In-* and O *ut-of-Competition,* as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjunction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent.  
 
 ####Prohibited Methods
 
@@ -586,7 +588,7 @@ Masking agents are prohibited. They include: Diuretics, desmopressin, plasma exp
 
 The following are prohibited: 
 
-1. The administration of reintroduction of any quantity of autologous, homologous or heterologous blood or red blood cell products of any origin into the circulatory system.  
+1. The administration or reintroduction of any quantity of autologous, allogenic (homologous) or heterologous blood or red blood cell products of any origin into the circulatory system.  
 
 2. Artificially enhancing the uptake, transport or delivery of oxygen, including, but not limited to, perfluorochemicals, efaproxiral (RSR13) and modified haemoglobin products (e.g. haemoglobin-based blood substitutes, microencapsulated haemoglobin products), excluding supplemental oxygen.  
 
@@ -598,9 +600,9 @@ The following are prohibited:
 
 The following are prohibited: 
 
-1. Tampering, or attempting to tamper, in order to alter the integrity and validity of Samples collected during Doping Control. These include but are not limited to urine substitution and/or adulteration (e.g. proteases).  
+1. *Tampering,* or attempting to tamper, in order to alter the integrity and validity of *Samples* collected during *Doping Controls*. These include but are not limited to urine substitution and/or adulteration (e.g. proteases).  
 
-2. Intravenous infusions and/or injections of more than 50 mL per 6 hours period are prohibited except for those legitimately received in the course of hospital admissions or clinical investigations.    
+2. Intravenous infusions and/or injections of more than 50 mL per 6 hours period except for those legitimately received in the course of hospital admissions or clinical investigations.    
 
 ### M3  
 
@@ -614,7 +616,7 @@ The following, with the potential to enhance sport performance, are prohibited:
 
 ####Substances and methods prohibited in-competition
 
-In addition to the categories S0 to S5 and M1 to M3 defined above, the following categories are prohibited In-Competition: 
+In addition to the categories S0 to S5 and M1 to M3 defined above, the following categories are prohibited *In-Competition*: 
 
 ####Prohibited substances
 
@@ -622,11 +624,11 @@ In addition to the categories S0 to S5 and M1 to M3 defined above, the following
 
 ####Stimulants
 
-All stimulants, including all optical isomers (e.g. d- and l-) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2013 Monitoring Program . <sup> 3)  The following substances included in the 2013 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradol, synephrine) are not considered as *Prohibited Substances*.  </sup> Stimulants include: 
+All stimulants, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2014 Monitoring Program . <sup> 3)  The following substances included in the 2014 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, synephrine) are not considered as *Prohibited Substances*.  </sup> Stimulants include: 
 
-a) Non Specified Stimulants: Adrafinil; amfepramone; amiphenazole; amphetamine; amphetaminil; benfluorex; benzphetamine; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; dimethylamphetamine; etilamphetamine; famprofazone; fencamine; fenetylline; fenfluramine; fenproporex; furfenorex; mefenorex; mephentermine; mesocarb; methamphetamine(d-); p-methylamphetamine; methylenedioxyamphetamine; methylenedioxymethamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; 4-phenylpiracetam (carphedon); prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
+a) Non-Specified Stimulants: Adrafinil; amfepramone; amfetamine; amfetaminil; amiphenazole; benfluorex; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; fencamine; fenetylline; fenfluramine; fenproporex; fonturacetam [4-phenylpiracetam (carphedon)]; furfenorex; mefenorex; mephentermine; mesocarb; metamfetamine(*d* -); p-methylamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
 
-b) Specified Stimulants (examples): Adrenaline ; cathine ; ephedrine ; etamivan; etilefrine; fenbutrazate; fencamfamin; heptaminol; isometheptene; levmetamphetamine; meclofenoxate; methylephedrine ; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); parahydroxyamphetamine; pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine ; selegiline; sibutramine; strychnine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s). <sup> 4)  Local administration (e.g. nasal, ophtalmologic) of Adrenaline or co-administration with local anaesthetic agents is not prohibited.  </sup> <sup> 5)  Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter.  </sup> <sup> 6)  Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter.  </sup> <sup> 7)  Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter.  </sup> <sup> 8)  Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter.  </sup>    
+b) Specified Stimulants (examples): Benzfetamine; cathine ; cathinone and its analogues (e.g. mephedrone, methedrone, α-pyrrolidinovalerophenone); dimethylamphetamine; ephedrine ; epinephrine (adrenaline); etamivan; etilamfetamine; etilefrine; famprofazone; fenbutrazate; fencamfamin; heptaminol; hydroxyamfetamine (parahydroxyamphetamine); isometheptene; levmetamfetamine; meclofenoxate; methylenedioxymethamphetamine; methylephedrine ; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine ; selegiline; sibutramine; strychnine; tenamfetamine (methylenedioxyamphetamine); trimetazidine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s). <sup> 4)  Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter.  </sup> <sup> 5)  Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter.  </sup> <sup> 6)  Local administration (e.g. nasal, ophthalmologic) of epinephrine (adrenaline) or co-administration with local anaesthetic agents is not prohibited.  </sup> <sup> 7)  Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter.  </sup> <sup> 8)  Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter.  </sup>    
 
 ### S7  
 
@@ -652,15 +654,15 @@ All glucocorticosteroids are prohibited when administered by oral, intravenous, 
 
 ####Alcohol
 
-Alcohol (ethanol) is prohibited *In-Competition* only, in the following sports. Detection will be conducted by analysis of breath and/or blood. The doping violation threshold (haematological values) is 0.10 g/L. 
+Alcohol (ethanol) is prohibited *In-Competition* only, in the following sports. Detection will be conducted by analysis of breath and/or blood. The doping violation threshold is equivalent to a blood alcohol concentration of 0.10 g/L. 
 
-– Aeronautic (FAI)  
+– Air Sports (FAI)  
 
-– Archery (FITA)  
+– Archery (WA)  
 
 – Automobile (FIA)  
 
-– Karate (WKF)  
+– Karaté (WKF)  
 
 – Motorcycling (FIM)  
 
@@ -672,17 +674,17 @@ Alcohol (ethanol) is prohibited *In-Competition* only, in the following sports. 
 
 Unless otherwise specified, beta-blockers are prohibited *In-Competition* only, in the following sports. 
 
-– Archery (FITA) (also prohibited Out-of-Competition)  
+– Archery (WA) (also prohibited *Out-of-Competition*)  
 
 – Automobile (FIA)  
 
-– Billiards (all disciplines) WCBS)  
+– Billiards (all disciplines) (WCBS)  
 
 – Darts (WDF)  
 
 – Golf (IGF)  
 
-– Shooting (ISSF, IPC) (also prohibited Out-of-Competition)  
+– Shooting (ISSF, IPC) (also prohibited *Out-of-Competition*)  
 
 – Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air   Beta-blockers include, but are not limited to, the following: Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol.  
 
@@ -830,7 +832,7 @@ Abbreviated Therapeutic Use Exemptions (ATUEs) delivered prior to December 31, 2
 
 ####Internationaal Verdrag tegen doping in de sport
 
-*Preambule*  De Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, hierna aangeduid als UNESCO, bijeengekomen te Parijs van 3 tot en met 21 oktober 2005 tijdens haar 33e zitting, Overwegend dat het doel van UNESCO is een bijdrage te leveren aan vrede en veiligheid door samenwerking tussen de naties te bevorderen door middel van onderwijs, wetenschap en cultuur, Verwijzend naar bestaande internationale instrumenten inzake mensenrechten, Zich bewust van resolutie 58/5 aangenomen door de Algemene Vergadering van de Verenigde Naties op 3 november 2003, betreffende sport als middel om onderwijs, gezondheid, ontwikkeling en vrede te bevorderen, en met name paragraaf 7 daarvan, Zich er tevens van bewust dat sport een belangrijke rol dient te spelen bij de bescherming van de gezondheid, bij morele en culturele vorming en lichamelijke opvoeding en bij het bevorderen van wederzijds begrip en vrede in de wereld, Gelet op de noodzaak internationale samenwerking gericht op het uitbannen van doping in de sport te bevorderen en te coördineren, Bezorgd over het gebruik door sporters van dopingmiddelen in de sport en de gevolgen daarvan voor hun gezondheid, het beginsel van fair play, het uitbannen van bedrog en de toekomst van de sport, Indachtig het feit dat doping een bedreiging vormt voor de ethische beginselen en educatieve waarden vervat in het Internationale Handvest voor Lichamelijke Opvoeding en Sport van UNESCO en in het Olympisch Handvest, In herinnering roepend dat de [Overeenkomst ter bestrijding van doping](../../../../../../../../verdrag/anti-doping/convention/BWBV0004757/README.md) en het Aanvullend Protocol daarbij aangenomen in het kader van de Raad van Europa instrumenten van internationaal publiekrecht zijn, die ten grondslag liggen aan nationaal antidopingbeleid en aan intergouvernementele samenwerking, Herinnerend aan de Aanbevelingen inzake doping aangenomen tijdens de tweede, derde en vierde Internationale Conferentie van ministers en hoge ambtenaren verantwoordelijk voor lichamelijke opvoeding en sport, door UNESCO georganiseerd te Moskou (1988), Punta del Este (1999) en Athene (2004) en aan 32 C/Resolutie 9 aangenomen door de Algemene Conferentie van UNESCO tijdens haar 32e zitting (2003), Indachtig de Wereldantidopingcode aangenomen door het Mondiaal Antidopingagentschap tijdens de Wereldconferentie inzake doping in de sport, Kopenhagen, 5 maart 2003 en de Verklaring van Kopenhagen tegen het gebruik van doping in de sport, Tevens indachtig de invloed die topsporters hebben op de jeugd, Zich bewust van de permanente behoefte onderzoek uit te voeren en te bevorderen met als doel het verbeteren van de detectie van doping en een beter begrip van de factoren die van invloed zijn op het gebruik ervan teneinde tot zo doeltreffend mogelijke preventiestrategieën te komen, Zich tevens bewust van het belang van voortdurende educatie van sporters, hun begeleiders en de maatschappij in het algemeen op het gebied van het voorkomen van doping, Indachtig de noodzaak de capaciteit van Staten die Partij zijn om antidopingprogramma’s te implementeren op te bouwen, Zich ervan bewust dat overheidsinstanties en sportorganisaties elkaar aanvullende verantwoordelijkheden hebben bij het voorkomen en bestrijden van doping in de sport, in het bijzonder het goede verloop, op basis van het beginsel van fair play, van sportevenementen, en bij het beschermen van de gezondheid van de deelnemers daaraan, Erkennend dat deze autoriteiten en organisaties daartoe dienen samen te werken en daarbij de hoogste mate van onafhankelijkheid en transparantie op alle van toepassing zijnde niveaus dienen te waarborgen, Vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, gericht op de uitbanning van doping in de sport, Erkennend dat de uitbanning van doping in de sport ten dele afhankelijk is van de verdere harmonisatie van normen en praktijken op het gebied van de bestrijding van doping in de sport en samenwerking op nationaal en mondiaal niveau, Neemt dit Verdrag aan op 19 oktober 2005.     
+*Preambule*  De Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, hierna aangeduid als UNESCO, bijeengekomen te Parijs van 3 tot en met 21 oktober 2005 tijdens haar 33e zitting, Overwegend dat het doel van UNESCO is een bijdrage te leveren aan vrede en veiligheid door samenwerking tussen de naties te bevorderen door middel van onderwijs, wetenschap en cultuur, Verwijzend naar bestaande internationale instrumenten inzake mensenrechten, Zich bewust van resolutie 58/5 aangenomen door de Algemene Vergadering van de Verenigde Naties op 3 november 2003, betreffende sport als middel om onderwijs, gezondheid, ontwikkeling en vrede te bevorderen, en met name paragraaf 7 daarvan, Zich er tevens van bewust dat sport een belangrijke rol dient te spelen bij de bescherming van de gezondheid, bij morele en culturele vorming en lichamelijke opvoeding en bij het bevorderen van wederzijds begrip en vrede in de wereld, Gelet op de noodzaak internationale samenwerking gericht op het uitbannen van doping in de sport te bevorderen en te coördineren, Bezorgd over het gebruik door sporters van dopingmiddelen in de sport en de gevolgen daarvan voor hun gezondheid, het beginsel van fair play, het uitbannen van bedrog en de toekomst van de sport, Indachtig het feit dat doping een bedreiging vormt voor de ethische beginselen en educatieve waarden vervat in het Internationale Handvest voor Lichamelijke Opvoeding en Sport van UNESCO en in het Olympisch Handvest, In herinnering roepend dat de Overeenkomst ter bestrijding van doping en het Aanvullend Protocol daarbij aangenomen in het kader van de Raad van Europa instrumenten van internationaal publiekrecht zijn, die ten grondslag liggen aan nationaal antidopingbeleid en aan intergouvernementele samenwerking, Herinnerend aan de Aanbevelingen inzake doping aangenomen tijdens de tweede, derde en vierde Internationale Conferentie van ministers en hoge ambtenaren verantwoordelijk voor lichamelijke opvoeding en sport, door UNESCO georganiseerd te Moskou (1988), Punta del Este (1999) en Athene (2004) en aan 32 C/Resolutie 9 aangenomen door de Algemene Conferentie van UNESCO tijdens haar 32e zitting (2003), Indachtig de Wereldantidopingcode aangenomen door het Mondiaal Antidopingagentschap tijdens de Wereldconferentie inzake doping in de sport, Kopenhagen, 5 maart 2003 en de Verklaring van Kopenhagen tegen het gebruik van doping in de sport, Tevens indachtig de invloed die topsporters hebben op de jeugd, Zich bewust van de permanente behoefte onderzoek uit te voeren en te bevorderen met als doel het verbeteren van de detectie van doping en een beter begrip van de factoren die van invloed zijn op het gebruik ervan teneinde tot zo doeltreffend mogelijke preventiestrategieën te komen, Zich tevens bewust van het belang van voortdurende educatie van sporters, hun begeleiders en de maatschappij in het algemeen op het gebied van het voorkomen van doping, Indachtig de noodzaak de capaciteit van Staten die Partij zijn om antidopingprogramma’s te implementeren op te bouwen, Zich ervan bewust dat overheidsinstanties en sportorganisaties elkaar aanvullende verantwoordelijkheden hebben bij het voorkomen en bestrijden van doping in de sport, in het bijzonder het goede verloop, op basis van het beginsel van fair play, van sportevenementen, en bij het beschermen van de gezondheid van de deelnemers daaraan, Erkennend dat deze autoriteiten en organisaties daartoe dienen samen te werken en daarbij de hoogste mate van onafhankelijkheid en transparantie op alle van toepassing zijnde niveaus dienen te waarborgen, Vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, gericht op de uitbanning van doping in de sport, Erkennend dat de uitbanning van doping in de sport ten dele afhankelijk is van de verdere harmonisatie van normen en praktijken op het gebied van de bestrijding van doping in de sport en samenwerking op nationaal en mondiaal niveau, Neemt dit Verdrag aan op 19 oktober 2005.     
 ### DEEL  I  
 
 ####REIKWIJDTE
@@ -1309,7 +1311,7 @@ g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
 ####Registratie
 
-In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) wordt dit Verdrag geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.  
+In overeenstemming met artikel 102 van het Handvest van de Verenigde Naties wordt dit Verdrag geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.  
 
 ### Artikel  42  
 

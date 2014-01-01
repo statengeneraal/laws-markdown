@@ -15,9 +15,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt verstaan on
 
 a. Onze minister: Onze minister van Financiën;  
 
-b. Euromunten: de euromuntstukken, bedoeld in artikel 1 van Verordening (EG) nr. 975/98 van de Raad van de Europese Unie van 3 mei 1998 over de denominaties en technische specificaties van voor circulatie bestemde euromuntstukken (PbEG L 139) zoals gewijzigd bij Verordening (EG) nr. 423/99 van de Raad van de Europese Unie van 22 februari 1999 (PbEG L 52);  
+b. Euromunten: de euromuntstukken, bedoeld in artikel 1 van Verordening (EG) nr. 975/98 van de Raad van de Europese Unie van 3 mei 1998 over de denominaties en technische specificaties van voor circulatie bestemde euromuntstukken (PbEG L 139);  
 
-c. Nederlandse euromunten: de euromuntstukken uitgegeven door de Staat der Nederlanden overeenkomstig artikel 11 van Verordening (EG) nr. 974/98 van de Raad van de Europese Unie van 3 mei 1998 tot invoering van de euro (PbEG L 139).    
+c. Nederlandse euromunten: de euromuntstukken uitgegeven door de Staat der Nederlanden overeenkomstig artikel 11 van Verordening (EG) nr. 974/98 van de Raad van de Europese Unie van 3 mei 1998 tot invoering van de euro (PbEG L 139);  
+
+d. verordening valsemunterij: verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG 2001, L 181);  
+
+e. verordening echtheids- en geschiktheidscontrole euromunten: verordening (EU) Nr. 1210/2010 van het Europees Parlement en de Raad van 15 december 2010 betreffende de echtheidscontrole van euromunten en de behandeling van euromunten die ongeschikt zijn voor de circulatie (PbEU 2010, L 339).    
 
 ### Artikel  2  
 
@@ -53,7 +57,7 @@ c. de zilveren dukaat.
 
 1.  De munten, bedoeld in artikel 2, worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.   
 2.  De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.   
-3.  De in het eerste lid bedoelde opdracht wordt verleend met inachtneming van artikel 106, tweede lid, van het Verdrag tot oprichting van de Europese Gemeenschap.   
+3.  De in het eerste lid bedoelde opdracht wordt verleend met inachtneming van artikel 128, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.   
 
 ### Artikel  7  
 
@@ -63,22 +67,39 @@ Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van 
 
 1.  Niemand is gehouden valse of vervalste munten aan te nemen.   
 2.  Euromunten en de munten, bedoeld in de artikelen 4 en 5 die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.   
-3.  Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze doorgesneden teruggegeven of wordt de stoffelijke waarde vergoed. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie niet vals of vervalst zijn, worden de munten teruggegeven in de staat waarin ze zijn ontvangen of wordt de nominale waarde vergoed.   
+3.  Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze in beslag genomen. Indien de munten naar het oordeel van die instantie niet vals of vervalst zijn: 
+
+a. wordt van euromunten of munten als bedoeld in artikel 4 de nominale waarde vergoed;  
+
+b. wordt van munten als bedoeld in de artikel 5 de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.     
 4.  Onze minister kan regels stellen betreffende de beoordeling, bedoeld in het tweede lid.   
 
 ### Artikel  9  
 
-1.   Wijzigt de Muntwet 1987.    
-2.  De Muntwet 1987 wordt op een bij koninklijk besluit te bepalen tijdstip ingetrokken.   
-3.  De buitenomloopstelling en inwisseling van de op grond van de Muntwet 1948 en de Muntwet 1987 uitgegeven munten met de hoedanigheid van wettig betaalmiddel worden geregeld bij ministeriële regeling.   
+1.  Euromunten en bijzondere munten met de hoedanigheid van wettig betaalmiddel die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van artikel 8, tweede lid, aangewezen instantie.   
+2.  De in het eerste lid bedoelde instantie weigert munten in ontvangst te nemen, indien de ontvangst of behandeling daarvan gevaar voor de gezondheid van het behandelend personeel inhoudt.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de verpakking en wijze van aanlevering van de in het eerste lid bedoelde munten.   
+4.  De in het eerste lid bedoelde instantie vergoedt de nominale waarde van de op grond van het eerste lid ingeleverde munten.   
+5.  Bij ministeriële regeling worden regels gesteld met betrekking tot de behandelingsvergoeding, bedoeld in artikel 9 van de verordening echtheids- en geschiktheidscontrole euromunten, die op de te vergoeden nominale waarde van de ingeleverde munten in mindering wordt gebracht.   
+6.  De waarde van munten die opzettelijk zijn veranderd of een bewerking hebben ondergaan waarvan redelijkerwijs is te verwachten dat ze de munt verandert, wordt niet vergoed.   
 
 ### Artikel  10  
 
-Het koninklijk besluit van 4 februari 1943, Stb. D 67, betreffende de uitgifte van biljetten aan toonder als nieuw betaalmiddel voor het Rijk in Europa, wordt ingetrokken.  
+1.  Met het toezicht op de naleving van artikel 6, eerste lid, van de verordening valsemunterij, voor zover dat artikel betrekking heeft op euromunten, en de artikelen 3, eerste en tweede lid, en 4, eerste lid, van de verordening echtheids- en geschiktheidscontrole euromunten zijn belast de bij besluit van De Nederlandsche Bank N.V. aangewezen personen.   
+2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  11  
 
-Wijzigt de Noodwet financieel verkeer.   
+1.  De Nederlandsche Bank N.V. is bevoegd tot oplegging van een last onder dwangsom ter handhaving van: 
+
+a. artikel 6, eerste lid, van de verordening valsemunterij, voor zover dat artikel betrekking heeft op euromunten;  
+
+b. de artikelen 3, eerste en tweede lid, en 4, eerste lid, van de verordening echtheids- en geschiktheidscontrole euromunten;  
+
+c. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+2.  De Nederlandsche Bank N.V. is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van de in het eerste lid genoemde artikelen.   
+3.  Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50.000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.   
+4.  Indien tegen een besluit tot oplegging van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. De schorsing van de verplichting tot betaling schorst niet de berekening van de wettelijke rente.   
 
 ### Artikel  12  
 

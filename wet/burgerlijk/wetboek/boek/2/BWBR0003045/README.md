@@ -148,33 +148,31 @@ c. na faillietverklaring door hetzij opheffing van het faillissement wegens de t
 
 d. door het geheel ontbreken van leden, indien de rechtspersoon een vereniging, een coöperatie of een onderlinge waarborgmaatschappij is;  
 
-e. door een beschikking van de Kamer van Koophandel en Fabrieken als bedoeld in artikel 19a;  
+e. door een beschikking van de Kamer van Koophandel als bedoeld in artikel 19a;  
 
 f. door de rechter in de gevallen die de wet bepaalt.     
 2.  De rechtbank verklaart op verzoek van het bestuur, een belanghebbende of het openbaar ministerie, of en op welk tijdstip de rechtspersoon is ontbonden in een geval als bedoeld in lid 1 onder *b* of *d*. De beschikking is voor een ieder bindend. Is de rechtspersoon in een register ingeschreven, dan wordt de in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, door de zorg van de griffier aldaar ingeschreven.   
-3.  Aan de registers waar de rechtspersoon is ingeschreven wordt van de ontbinding opgaaf gedaan: in de gevallen als bedoeld in lid 1, onder *a, b* en *d* door de vereffenaar, indien deze er is en anders door het bestuur, in het geval als bedoeld in lid 1, onder *c* door de faillissementscurator, in het geval als bedoeld in lid 1, onder *e* door de Kamer van Koophandel en Fabrieken en in het geval als bedoeld in lid 1 onder *f* door de griffier van het betrokken gerecht.   
-4.  Indien de rechtspersoon op het tijdstip van zijn ontbinding geen baten meer heeft, houdt hij alsdan op te bestaan. In dat geval doet het bestuur of, bij toepassing van artikel 19a, de Kamer van Koophandel en Fabrieken, daarvan opgaaf aan de registers waar de rechtspersoon is ingeschreven.   
+3.  Aan de registers waar de rechtspersoon is ingeschreven wordt van de ontbinding opgaaf gedaan: in de gevallen als bedoeld in lid 1, onder *a, b* en *d* door de vereffenaar, indien deze er is en anders door het bestuur, in het geval als bedoeld in lid 1, onder *c* door de faillissementscurator, in het geval als bedoeld in lid 1, onder *e* door de Kamer van Koophandel en in het geval als bedoeld in lid 1 onder *f* door de griffier van het betrokken gerecht.   
+4.  Indien de rechtspersoon op het tijdstip van zijn ontbinding geen baten meer heeft, houdt hij alsdan op te bestaan. In dat geval doet het bestuur of, bij toepassing van artikel 19a, de Kamer van Koophandel, daarvan opgaaf aan de registers waar de rechtspersoon is ingeschreven.   
 5.  De rechtspersoon blijft na ontbinding voortbestaan voor zover dit tot vereffening van zijn vermogen nodig is. In stukken en aankondigingen die van hem uitgaan, moet aan zijn naam worden toegevoegd: *in liquidatie*.   
 6.  De rechtspersoon houdt in geval van vereffening op te bestaan op het tijdstip waarop de vereffening eindigt. De vereffenaar of de faillissementscurator doet aan de registers waar de rechtspersoon is ingeschreven, daarvan opgaaf.   
 7.  De gegevens die omtrent de rechtspersoon in de registers zijn opgenomen op het tijdstip waarop hij ophoudt te bestaan, blijven daar gedurende tien jaren na dat tijdstip bewaard.   
 
 ### Artikel  19a  
 
-1.  Een in het handelsregister ingeschreven naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie of onderlinge waarborgmaatschappij wordt door een beschikking van de Kamer van Koophandel en Fabrieken, waar die rechtspersoon is ingeschreven, ontbonden, indien de Kamer is gebleken dat ten minste twee van de hiernavolgende omstandigheden zich voordoen: 
+1.  Een in het handelsregister ingeschreven naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie of onderlinge waarborgmaatschappij wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat ten minste twee van de hiernavolgende omstandigheden zich voordoen: 
 
-a. de rechtspersoon heeft het voor zijn inschrijving in het handelsregister of voor de inschrijving van een aan hem toebehorende onderneming verschuldigde bedrag niet voldaan gedurende ten minste een jaar na de datum waarvoor hij dat bedrag had moeten voldoen;  
-
-b. er staan gedurende ten minste een jaar geen bestuurders van de rechtspersoon in het register ingeschreven, terwijl ook geen opgaaf tot inschrijving is gedaan, dan wel er doet zich, indien er wel bestuurders staan ingeschreven, met betrekking tot alle ingeschreven bestuurders een van de navolgende omstandigheden voor: 
+a. er staan gedurende ten minste een jaar geen bestuurders van de rechtspersoon in het register ingeschreven, terwijl ook geen opgaaf tot inschrijving is gedaan, dan wel er doet zich, indien er wel bestuurders staan ingeschreven, met betrekking tot alle ingeschreven bestuurders een van de navolgende omstandigheden voor: 
 
 1°. bestuurder is overleden,  
 
 2°. de bestuurder is ten minste een jaar niet bereikbaar gebleken op het in het register vermelde adres, en evenmin op het in de gemeentelijke basisadministratie persoonsgegevens ingeschreven adres, dan wel in die administratie staat ten minste een jaar geen adres van de bestuurder vermeld;    
 
-c. de rechtspersoon is ten minste een jaar in gebreke met de nakoming van de verplichting tot openbaarmaking van de jaarrekening of de balans en de toelichting overeenkomstig de artikelen 394, 396 of 397;  
+b. de rechtspersoon is ten minste een jaar in gebreke met de nakoming van de verplichting tot openbaarmaking van de jaarrekening of de balans en de toelichting overeenkomstig de artikelen 394, 396 of 397;  
 
-d. de rechtspersoon heeft ten minste een jaar geen gevolg gegeven aan een aanmaning als bedoeld in [artikel 9, lid 3 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) tot het doen van aangifte voor de vennootschapsbelasting.     
-2.  Een in het handelsregister ingeschreven vereniging of stichting, die niet een onderneming drijft die in het handelsregister staat ingeschreven, wordt door een beschikking van de Kamer van Koophandel en Fabrieken, waar de rechtspersoon is ingeschreven, ontbonden, indien de Kamer is gebleken dat de omstandigheid, genoemd in het lid 1 onder *b*, zich voordoet en zij ten minste een jaar in gebreke is het voor inschrijving in het handelsregister verschuldigde bedrag te voldoen.   
-3.  Indien de Kamer op grond van haar bekende gegevens gebleken is dat een rechtspersoon als bedoeld in de leden 1 en 2 voor ontbinding in aanmerking komt, deelt zij de rechtspersoon en de ingeschreven bestuurders bij aangetekende brief aan hun laatst bekende adres mee, dat zij voornemens is tot ontbinding van de rechtspersoon over te gaan, met vermelding van de omstandigheden waarop het voornemen is gegrond. De Kamer schrijft deze mededeling in het register. Als de omstandigheid, bedoeld in lid 1, onder *b* zich voordoet, doet de Kamer van het voornemen tot ontbinding tevens een mededeling opnemen in de *Staatscourant*. Voor zover de kosten van deze publikatie niet uit het vermogen van de rechtspersoon kunnen worden voldaan, komen deze ten laste van Onze Minister van Justitie.   
+c. de rechtspersoon heeft ten minste een jaar geen gevolg gegeven aan een aanmaning als bedoeld in [artikel 9, lid 3 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) tot het doen van aangifte voor de vennootschapsbelasting.     
+2.  Een in het handelsregister ingeschreven vereniging of stichting, die niet een onderneming drijft die in het handelsregister staat ingeschreven, wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat de omstandigheid, genoemd in het eerste lid, onder a, zich voordoet en zij ten minste een jaar in gebreke is het voor inschrijving in het handelsregister verschuldigde bedrag te voldoen.   
+3.  Indien de Kamer op grond van haar bekende gegevens gebleken is dat een rechtspersoon als bedoeld in de leden 1 en 2 voor ontbinding in aanmerking komt, deelt zij de rechtspersoon en de ingeschreven bestuurders bij aangetekende brief aan hun laatst bekende adres mee, dat zij voornemens is tot ontbinding van de rechtspersoon over te gaan, met vermelding van de omstandigheden waarop het voornemen is gegrond. De Kamer schrijft deze mededeling in het register. Als de omstandigheid, bedoeld in het eerste lid, onder a, zich voordoet, doet de Kamer van het voornemen tot ontbinding tevens een mededeling opnemen in de *Staatscourant*. Voor zover de kosten van deze publikatie niet uit het vermogen van de rechtspersoon kunnen worden voldaan, komen deze ten laste van Onze Minister van Justitie.   
 4.  Na verloop van acht weken na de dagtekening van de aangetekende brief ontbindt de Kamer de rechtspersoon bij beschikking, tenzij voordien is gebleken dat de omstandigheden die ingevolge het derde lid zijn vermeld, zich niet of niet meer voordoen.   
 5.  De beschikking wordt bekend gemaakt aan de rechtspersoon en de ingeschreven bestuurders.   
 6.  De Kamer doet van de ontbinding een mededeling opnemen in de *Staatscourant*. Lid 3, vierde zin, is van overeenkomstige toepassing.   
@@ -213,7 +211,7 @@ c. hij niet onder de wettelijke omschrijving van zijn rechtsvorm valt.
 
 1.  Voor of bij het doen van een verzoek door het openbaar ministerie tot ontbinding van een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, kan het openbaar ministerie de rechter bij verzoekschrift vragen te bevelen dat, tot de uitspraak op genoemd verzoek in kracht van gewijsde gaat, aan de aandeelhouders de bevoegdheid tot het vervreemden, verpanden of met vruchtgebruik belasten van aandelen wordt ontzegd.   
 2.  De rechter beslist na summier onderzoek. Het bevel wordt gegeven onder voorwaarde dat het instellen van het verzoek tot ontbinding geschiedt binnen een door de rechter daartoe te bepalen termijn. Tegen deze beschikking is geen hogere voorziening toegelaten.   
-3.  De beschikking wordt onverwijld, zo mogelijk op dezelfde dag, betekend aan de aandeelhouders en de vennootschap. De griffier draagt zorg voor de inschrijving van de beschikking in het register waarin de rechtspersoon is ingeschreven.   
+3.  De beschikking wordt onverwijld, zo mogelijk op dezelfde dag, betekend aan de aandeelhouders en de vennootschap. De griffier draagt zorg voor de inschrijving van de beschikking in het handelsregister.   
 4.  Binnen acht dagen na de betekening in het vorige lid vermeld kunnen de aandeelhouders tegen de beschikking in verzet komen. Het verzet schorst het bevel niet, behoudens de bevoegdheid van de aandeelhouders om daarop in kort geding door de voorzieningenrechter van de rechtbank te doen beslissen. Verzet tegen de beschikking kan niet gegrond zijn op de bewering dat de aandeelhouder zijn aandelen wil overdragen.   
 5.  Het verzoek tot ontbinding moet binnen acht dagen nadat deze is ingesteld aan de aandeelhouder worden betekend.   
 
@@ -573,7 +571,7 @@ b. De geschriften, waarbij het lidmaatschap wordt aangevraagd, worden gedurende 
 
 c. De opzegging van het lidmaatschap kan slechts geschieden, hetzij bij een afzonderlijk geschrift, hetzij door een door het lid ondertekende, gedagtekende verklaring in de administratie van de coöperatie. Het lid dat de opzegging doet, ontvangt daarvan een schriftelijke erkenning van het bestuur. Wordt de schriftelijke erkenning niet binnen veertien dagen gegeven, dan is het lid bevoegd de opzegging op kosten van de coöperatie bij deurwaardersexploot te herhalen.  
 
-d. Een door het bestuur gewaarmerkt afschrift van de ledenlijst wordt ten kantore van het handelsregister neergelegd bij de inschrijving van de coöperatie. Binnen een maand na het einde van ieder boekjaar wordt door het bestuur een schriftelijke opgave van de wijzigingen die de ledenlijst in de loop van het boekjaar heeft ondergaan, aan de ten kantore van het handelsregister neergelegde lijst toegevoegd of wordt, indien de Kamer van Koophandel en Fabrieken dit nodig oordeelt, een nieuwe lijst neergelegd.    
+d. Een door het bestuur gewaarmerkt afschrift van de ledenlijst wordt ten kantore van het handelsregister neergelegd bij de inschrijving van de coöperatie. Binnen een maand na het einde van ieder boekjaar wordt door het bestuur een schriftelijke opgave van de wijzigingen die de ledenlijst in de loop van het boekjaar heeft ondergaan, aan de ten kantore van het handelsregister neergelegde lijst toegevoegd of wordt, indien de Kamer van Koophandel dit nodig oordeelt, een nieuwe lijst neergelegd.    
 
 ### Artikel  62  
 
@@ -705,6 +703,8 @@ k. ingrijpende wijziging in de arbeidsomstandigheden van een aanmerkelijk aantal
 
 ####Het beroep
 
+Vervallen per 01-01-2013   
+
 ### Titel  4  
 
 ####Naamloze vennootschappen
@@ -783,7 +783,7 @@ c. indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.
 
 ### Artikel  74  
 
-1.  Op verzoek van het openbaar ministerie ontbindt de rechtbank de naamloze vennootschap wanneer deze haar doel, door een gebrek aan baten, niet kan bereiken, en kan de rechtbank de vennootschap ontbinden, wanneer deze haar werkzaamheid tot verwezenlijking van haar doel heeft gestaakt. Het openbaar ministerie deelt de Kamer van Koophandel en Fabrieken, in wier handelsregister de vennootschap is ingeschreven, mee dat het voornemens is een verzoek tot ontbinding in te stellen.   
+1.  Op verzoek van het openbaar ministerie ontbindt de rechtbank de naamloze vennootschap wanneer deze haar doel, door een gebrek aan baten, niet kan bereiken, en kan de rechtbank de vennootschap ontbinden, wanneer deze haar werkzaamheid tot verwezenlijking van haar doel heeft gestaakt. Het openbaar ministerie deelt de Kamer van Koophandel mee dat het voornemens is een verzoek tot ontbinding in te stellen.   
 2.  De rechtbank ontbindt de vennootschap op verzoek van het openbaar ministerie wanneer het geplaatste kapitaal of het gestorte deel daarvan geringer is dan het minimumkapitaal.   
 3.  Alvorens de ontbinding uit te spreken kan de rechter de vennootschap in de gelegenheid stellen binnen een door hem te bepalen termijn het verzuim te herstellen of zich om te zetten in een besloten vennootschap met beperkte aansprakelijkheid.   
 
@@ -804,10 +804,6 @@ c. waarvoor aan een beheerder een vergunning of verklaring van ondertoezichtstel
 
 d. waarvan de statuten bepalen dat de vennootschap beleggingsmaatschappij met veranderlijk kapitaal is.     
 2.  De vennootschap doet aan het handelsregister en aan de Stichting Autoriteit Financiële Markten opgave dat zij een beleggingsmaatschappij met veranderlijk kapitaal is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.   
-
-### Artikel  77  
-
-Wanneer in deze titel het kantoor van het handelsregister wordt vermeld, wordt onder het handelsregister verstaan het register dat wordt gehouden door de Kamer van Koophandel en Fabrieken die overeenkomstig [artikel 18, zesde en zevende lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) bevoegd is tot inschrijving.  
 
 ### Artikel  78  
 
@@ -1499,7 +1495,9 @@ c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze venno
 
 d. wordt met bestuurder in de zin van de aanhef van lid 1 gelijkgesteld de uitvoerende bestuurder, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders;  
 
-e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.     
+e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
+
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.   
 
 ### Artikel  133  
@@ -1587,7 +1585,9 @@ c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze venno
 
 d. wordt met commissaris in de zin van de aanhef van lid 1 gelijkgesteld de niet uitvoerende bestuurder, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders;  
 
-e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.     
+e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
+
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.   
 
 ### Artikel  143  
@@ -1668,7 +1668,7 @@ d. een vennootschap waarin voor ten minste de helft van het geplaatste kapitaal 
 4.  In de eerstvolgende vergadering nadat de vennootschap waarop de artikelen 158 tot en met 164 of  158 tot en met 161 en 164 van toepassing zijn gaat voldoen aan de voorwaarden bedoeld in de artikelen 153 lid 3, 154 lid 2, 155 of  155a, doet het bestuur aan de algemene vergadering het voorstel in de statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen te regelen zonder toepassing van de artikelen 158 tot en met 164 respectievelijk de artikelen 158 tot en met 161 en 164, dan wel het voorstel deze artikelen geheel of met uitzondering van artikel 162 te blijven toepassen. Het besluit wordt genomen met volstrekte meerderheid van stemmen. De bevoegdheid van de algemene vergadering tot het nemen van een besluit ter uitvoering van dit artikel kan niet worden beperkt.   
 5.  Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast. De laatste twee zinnen van lid 4 zijn van overeenkomstige toepassing.   
 6.  Een verzoek tot vaststelling van de statuten kan worden ingediend door een daartoe aangewezen vertegenwoordiger van het bestuur of van de raad van commissarissen en door degene die gerechtigd is tot agendering ingevolge artikel 114a.   
-7.  De ondernemingskamer regelt zo nodig de gevolgen van de door haar genomen beslissing. De griffier van de ondernemingskamer doet ten kantore van het handelsregister waar de vennootschap is ingeschreven een afschrift van de beschikking van de ondernemingskamer neerleggen.   
+7.  De ondernemingskamer regelt zo nodig de gevolgen van de door haar genomen beslissing. De griffier van de ondernemingskamer doet ten kantore van het handelsregister een afschrift van de beschikking van de ondernemingskamer neerleggen.   
 
 ### Artikel  155  
 
@@ -1808,6 +1808,8 @@ b. een naamloze vennootschap of een besloten vennootschap met beperkte aansprake
 
 ####Het beroep
 
+Vervallen per 01-01-2013   
+
 ### Titel  5  
 
 ####Besloten vennootschappen met beperkte aansprakelijkheid
@@ -1883,17 +1885,13 @@ b. indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.
 
 ### Artikel  185  
 
-1.  Op verzoek van het openbaar ministerie ontbindt de rechtbank de vennootschap, wanneer deze haar doel, door een gebrek aan baten, niet kan bereiken, en kan de rechtbank de vennootschap ontbinden, wanneer deze haar werkzaamheden tot verwezenlijking van haar doel heeft gestaakt. Het openbaar ministerie deelt de Kamer van Koophandel en Fabrieken, in wier handelsregister de vennootschap is ingeschreven, mee dat het voornemens is een verzoek tot ontbinding in te stellen.   
+1.  Op verzoek van het openbaar ministerie ontbindt de rechtbank de vennootschap, wanneer deze haar doel, door een gebrek aan baten, niet kan bereiken, en kan de rechtbank de vennootschap ontbinden, wanneer deze haar werkzaamheden tot verwezenlijking van haar doel heeft gestaakt. Het openbaar ministerie deelt de Kamer van Koophandel mee dat het voornemens is een verzoek tot ontbinding in te stellen.   
 2.  Alvorens de ontbinding uit te spreken kan de rechter de vennootschap in de gelegenheid stellen binnen een door hem te bepalen termijn het verzuim te herstellen.   
 
 ### Artikel  186  
 
 1.  Uit alle geschriften, gedrukte stukken en aankondigingen, waarin de vennootschap partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, moeten de volledige naam van de vennootschap en haar woonplaats duidelijk blijken.   
 2.  Indien melding wordt gemaakt van het kapitaal van de vennootschap, moet daarbij in elk geval worden vermeld welk bedrag is geplaatst, en hoeveel van het geplaatste bedrag is gestort.   
-
-### Artikel  188  
-
-Wanneer in deze titel het kantoor van het handelsregister wordt vermeld, wordt onder het handelsregister verstaan het register dat wordt gehouden door de Kamer van Koophandel en Fabrieken die overeenkomstig [artikel 18, zesde en zevende lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) bevoegd is tot inschrijving.  
 
 ### Artikel  189  
 
@@ -2137,14 +2135,14 @@ Indien een ander in eigen naam aandelen in het kapitaal van de vennootschap of c
 
 ### Artikel  210  
 
-1.  Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.   
+1.  Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Indien van de vennootschap effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bedraagt de termijn vier maanden. Deze termijn kan niet worden verlengd. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.   
 2.  De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.   
 3.  De jaarrekening wordt vastgesteld door de algemene vergadering. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
 4.  Besluiten waarbij de jaarrekening wordt vastgesteld, worden in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.   
 5.  Indien alle aandeelhouders tevens bestuurder van de vennootschap zijn, geldt ondertekening van de jaarrekening door alle bestuurders en commissarissen tevens als vaststelling in de zin van lid 3, mits alle overige vergadergerechtigden in de gelegenheid zijn gesteld om kennis te nemen van de opgemaakte jaarrekening en met deze wijze van vaststelling hebben ingestemd zoals bedoeld in artikel 238 lid 1. In afwijking van lid 3 strekt deze vaststelling tevens tot kwijting aan de bestuurders en commissarissen. De statuten kunnen de in de eerste zin bedoelde wijze van vaststelling van de jaarrekening uitsluiten.   
 6.  De statuten bevatten geen bepalingen die toelaten dat voorschriften of bindende voorstellen voor de jaarrekening of enige post daarvan worden gegeven.   
 7.  De statuten kunnen bepalen dat een ander orgaan van de vennootschap dan de algemene vergadering de bevoegdheid heeft te bepalen welk deel van het resultaat van het boekjaar wordt gereserveerd of hoe het verlies wordt verwerkt.   
-8.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.   
+8.  Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. Geen ontheffing kan worden verleend ten aanzien van het opmaken van de jaarrekening van een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  212  
 
@@ -2361,7 +2359,9 @@ c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze venno
 
 d. wordt met bestuurder in de zin van de aanhef van lid 1 gelijkgesteld de uitvoerende bestuurder, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders;  
 
-e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.     
+e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
+
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.   
 
 ### Artikel  243  
@@ -2442,7 +2442,9 @@ c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze venno
 
 d. wordt met commissaris in de zin van de aanhef van lid 1 gelijkgesteld de niet uitvoerende bestuurder, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders;  
 
-e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.     
+e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
+
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.   
 
 ### Artikel  253  
@@ -2518,7 +2520,7 @@ d. een vennootschap waarin voor ten minste de helft van het geplaatste kapitaal 
 4.  In de eerstvolgende vergadering nadat de vennootschap waarop de artikelen 268 tot en met 274 of  268 tot en met 271 en 274 van toepassing zijn gaat voldoen aan de voorwaarden bedoeld in de artikelen 263 lid 3, 264 lid 2, 265 of  265a, doet het bestuur aan de algemene vergadering het voorstel in de statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen te regelen zonder toepassing van de artikelen 268 tot en met 274 respectievelijk de artikelen 268 tot en met 271 en 274, dan wel het voorstel deze artikelen geheel of met uitzondering van artikel 272 te blijven toepassen. Het besluit wordt genomen met volstrekte meerderheid van stemmen. De bevoegdheid van de algemene vergadering tot het nemen van een besluit ter uitvoering van dit artikel kan niet worden beperkt.   
 5.  Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast. De laatste twee zinnen van lid 4 zijn van overeenkomstige toepassing.   
 6.  Een verzoek tot vaststelling van de statuten kan worden ingediend door een daartoe aangewezen vertegenwoordiger van het bestuur of van de raad van commissarissen en door degene die gerechtigd is tot agendering ingevolge artikel 224a.   
-7.  De ondernemingskamer regelt zo nodig de gevolgen van de door haar genomen beslissing. De griffier van de ondernemingskamer doet ten kantore van het handelsregister waar de vennootschap is ingeschreven een afschrift van de beschikking van de ondernemingskamer neerleggen.   
+7.  De ondernemingskamer regelt zo nodig de gevolgen van de door haar genomen beslissing. De griffier van de ondernemingskamer doet ten kantore van het handelsregister een afschrift van de beschikking van de ondernemingskamer neerleggen.   
 
 ### Artikel  265  
 
@@ -2658,6 +2660,8 @@ b. een naamloze vennootschap of een besloten vennootschap met beperkte aansprake
 
 ####Het beroep
 
+Vervallen per 01-01-2013   
+
 ### Titel  6  
 
 ####Stichtingen
@@ -2750,7 +2754,9 @@ b. telt de benoeming bij verschillende rechtspersonen die met elkaar in een groe
 
 c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten als bedoeld in artikel 397 leden 1 en 2, onderscheidenlijk de stichting als bedoeld in artikel 297a lid 1;  
 
-d. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.     
+d. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
+
+e. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van artikel [105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 4.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.   
 
 ### Artikel  297b  
@@ -2764,7 +2770,9 @@ b. telt de benoeming bij verschillende rechtspersonen die met elkaar in een groe
 
 c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten als bedoeld in artikel 397 leden 1 en 2, onderscheidenlijk de stichting als bedoeld in artikel 297a lid 1;  
 
-d. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.     
+d. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
+
+e. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van artikel [105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.   
 
 ### Artikel  298  
@@ -2932,7 +2940,7 @@ d. tussentijdse vermogensopstellingen of niet vastgestelde jaarrekeningen, voor 
 
 1.  De fusie geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging of openbaarmaking van het voorstel of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na intrekking of nadat de opheffing van het verzet uitvoerbaar is geworden.   
 2.  Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het totstandkomen van de fusie vereisten en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd.   
-3.  De verkrijgende rechtspersoon doet de fusie binnen acht dagen na het verlijden inschrijven in het handelsregister waar elke gefuseerde rechtspersoon en hijzelf staan ingeschreven, naar gelang van elks inschrijfplicht. Daarbij wordt een afschrift van de akte van fusie met de notariële verklaring aan de voet daarvan ten kantore van elk register neergelegd.   
+3.  De verkrijgende rechtspersoon doet de fusie binnen acht dagen na het verlijden inschrijven in het handelsregister. Daarbij wordt een afschrift van de akte van fusie met de notariële verklaring aan de voet daarvan ten kantore van dat register neergelegd.   
 4.  De verkrijgende rechtspersoon doet binnen een maand opgave van de fusie aan de beheerders van andere openbare registers waarin overgang van rechten of de fusie kan worden ingeschreven. Gaat door de fusie een registergoed op de verkrijgende rechtspersoon over, dan is deze verplicht binnen deze termijn aan de bewaarder van de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de voor de inschrijving van de fusie vereiste stukken aan te bieden.   
 
 ### Artikel  319  
@@ -2971,15 +2979,15 @@ c. wegens nietigheid, het niet van kracht zijn of een grond tot vernietiging van
 
 d. wegens het niet naleven van artikel 317 lid 5.     
 2.  Vernietiging geschiedt door een uitspraak van de rechter van de woonplaats van de verkrijgende rechtspersoon op vordering tegen de rechtspersoon van een lid, aandeelhouder, bestuurder of andere belanghebbende. Een niet door de rechter vernietigde fusie is geldig.   
-3.  De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt door herstel van het verzuim of door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van de openbare registers van de woonplaatsen van de gefuseerde rechtspersonen.   
+3.  De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt door herstel van het verzuim of door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van het handelsregister.   
 4.  De fusie wordt niet vernietigd: 
 
 a. indien de rechtspersoon binnen een door de rechter te bepalen tijdvak het verzuim heeft hersteld,  
 
 b. indien de reeds ingetreden gevolgen van de fusie bezwaarlijk ongedaan kunnen worden gemaakt.     
 5.  Heeft de eiser tot vernietiging van de fusie schade geleden door een verzuim dat tot vernietiging had kunnen leiden, en vernietigt de rechter de fusie niet, dan kan de rechter de rechtspersoon veroordelen tot vergoeding van de schade. De rechtspersoon heeft daarvoor verhaal op de schuldigen aan het verzuim en, tot ten hoogste het genoten voordeel, op degenen die door het verzuim zijn bevoordeeld.   
-6.  De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in het handelsregister waarin de fusie ingevolge artikel 318 lid 3 moet zijn ingeschreven.   
-7.  De rechtspersonen zijn hoofdelijk aansprakelijk voor verbintenissen die, ten laste van de rechtspersoon waarin zij gefuseerd zijn geweest, zijn ontstaan na de fusie en voordat de vernietiging in de registers is ingeschreven.   
+6.  De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in het handelsregister.   
+7.  De rechtspersonen zijn hoofdelijk aansprakelijk voor verbintenissen die, ten laste van de rechtspersoon waarin zij gefuseerd zijn geweest, zijn ontstaan na de fusie en voordat de vernietiging in het handelsregister is ingeschreven.   
 8.  De onherroepelijke uitspraak tot vernietiging van een fusie is voor ieder bindend. Verzet door derden en herroeping zijn niet toegestaan.   
 
 ### Afdeling  3  
@@ -3299,7 +3307,7 @@ b. bevelen dat een door hem omschreven waarborg wordt gegeven.   De rechter kan 
 
 1.  De splitsing geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging of openbaarmaking van het voorstel tot splitsing of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na intrekking of nadat de opheffing van het verzet uitvoerbaar is geworden.   
 2.  Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het tot stand komen van de splitsing vereisen en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd. Aan de akte wordt de in artikel 334f lid 2 onder d bedoelde beschrijving gehecht.   
-3.  Elke verkrijgende rechtspersoon en de gesplitste rechtspersoon doen de splitsing binnen acht dagen na het verlijden inschrijven in het handelsregister, al naar gelang van elks inschrijfplicht. Indien de gesplitste rechtspersoon bij de splitsing is opgehouden te bestaan, is elke verkrijgende rechtspersoon tot inschrijving verplicht. Bij elke inschrijving wordt een afschrift van de akte van splitsing met de notariële verklaring aan de voet daarvan ten kantore van het register neergelegd.   
+3.  Elke verkrijgende rechtspersoon en de gesplitste rechtspersoon doen de splitsing binnen acht dagen na het verlijden inschrijven in het handelsregister. Indien de gesplitste rechtspersoon bij de splitsing is opgehouden te bestaan, is elke verkrijgende rechtspersoon tot inschrijving verplicht. Bij elke inschrijving wordt een afschrift van de akte van splitsing met de notariële verklaring aan de voet daarvan ten kantore van het register neergelegd.   
 4.  De verkrijgende rechtspersonen, elk voor zover het goederen betreft die bij de splitsing op hen zijn overgegaan, doen binnen een maand na de splitsing opgave aan de beheerders van andere openbare registers waarin overgang van rechten of de splitsing kan worden ingeschreven. Gaat door de splitsing een registergoed op een verkrijgende vennootschap over, dan is de gesplitste rechtspersoon of, zo deze bij de splitsing is opgehouden te bestaan, elk van de verkrijgende rechtspersonen in zijn plaats verplicht binnen deze termijn aan de bewaarder van de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de voor de inschrijving van de splitsing vereiste stukken aan te bieden.   
 
 ### Artikel  334o  
@@ -3360,7 +3368,7 @@ a. indien het verzuim binnen een door de rechter te bepalen termijn is hersteld;
 
 b. indien de reeds ingetreden gevolgen van de splitsing bezwaarlijk ongedaan kunnen worden gemaakt.     
 5.  Heeft de eiser tot vernietiging van de splitsing schade geleden door een verzuim dat tot vernietiging had kunnen leiden, en vernietigt de rechter de splitsing niet, dan kan de rechter de verkrijgende rechtspersonen en de voortbestaande gesplitste rechtspersoon veroordelen tot vergoeding van de schade. De rechtspersonen hebben daarvoor verhaal op de schuldigen aan het verzuim en, tot ten hoogste het genoten voordeel, op degenen die door het verzuim zijn bevoordeeld.   
-6.  De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in het handelsregister waarin de splitsing ingevolge artikel 334n lid 3 moet zijn ingeschreven.   
+6.  De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in het handelsregister.   
 7.  De gesplitste rechtspersoon is naast de betrokken verkrijgende rechtspersoon hoofdelijk verbonden tot nakoming van verbintenissen die ten laste van de verkrijgende rechtspersonen zijn ontstaan na de splitsing en voordat de vernietiging in de registers is ingeschreven.   
 8.  De onherroepelijke uitspraak tot vernietiging van een splitsing is voor een ieder bindend. Verzet door derden en herroeping zijn niet toegestaan.   
 
@@ -3702,7 +3710,7 @@ f. ontbinding van de rechtspersoon.
 ### Artikel  358  
 
 1.  De ondernemingskamer kan de voorlopige tenuitvoerlegging der voorzieningen genoemd in artikel 356 onder a-e bevelen.   
-2.  De griffier der ondernemingskamer doet ten kantore van het handelsregister, waar de rechtspersoon of vennootschap is ingeschreven, een afschrift van de beschikkingen der ondernemingskamer nederleggen. Van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, geschiedt de nederlegging zodra zij in kracht van gewijsde zijn gegaan.   
+2.  De griffier der ondernemingskamer doet ten kantore van het handelsregister een afschrift van de beschikkingen der ondernemingskamer nederleggen. Van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, geschiedt de nederlegging zodra zij in kracht van gewijsde zijn gegaan.   
 3.  In het geval, bedoeld in artikel 348, ontvangt De Nederlandsche Bank N.V. onderscheidenlijk de Stichting Autoriteit Financiële Markten van de griffier een afschrift van de beschikkingen van de ondernemingskamer.   
 
 ### Artikel  359  
@@ -3796,10 +3804,10 @@ b. die dochtermaatschappij zijn van de rechtspersoon, van een groepsmaatschappij
 3.  De winst- en verliesrekening met de toelichting geeft getrouw, duidelijk en stelselmatig de grootte van het resultaat van het boekjaar en zijn afleiding uit de posten van baten en lasten weer.   
 4.  Indien het verschaffen van het in lid 1 bedoelde inzicht dit vereist, verstrekt de rechtspersoon in de jaarrekening gegevens ter aanvulling van hetgeen in de bijzondere voorschriften van en krachtens deze titel wordt verlangd. Indien dit noodzakelijk is voor het verschaffen van dat inzicht, wijkt de rechtspersoon van die voorschriften af; de reden van deze afwijking wordt in de toelichting uiteengezet, voor zover nodig onder opgaaf van de invloed ervan op vermogen en resultaat.   
 5.  De baten en lasten van het boekjaar worden in de jaarrekening opgenomen, onverschillig of zij tot ontvangsten of uitgaven in dat boekjaar hebben geleid.   
-6.  De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht.   
+6.  De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht. Een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt geacht te hebben voldaan aan de verplichting om de mededeling, bedoeld in tweede volzin, neer te leggen ten kantore van het handelsregister, indien zij de mededeling op grond van [artikel 5:25m, zesde lid, van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft toegezonden aan de Stichting Autoriteit Financiële Markten.   
 7.  Indien de werkzaamheid van de rechtspersoon of de internationale vertakking van zijn groep dat rechtvaardigt, mag de jaarrekening of alleen de geconsolideerde jaarrekening worden opgesteld in een vreemde geldeenheid. De posten worden in de Nederlandse taal omschreven, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.   
 8.  Een rechtspersoon kan de jaarrekening opstellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde vastgestelde en goedgekeurde standaarden toepast. Een rechtspersoon die de geconsolideerde jaarrekening opstelt volgens deze titel, kan niet de enkelvoudige jaarrekening opstellen volgens de vastgestelde en goedgekeurde standaarden. Een rechtspersoon die de geconsolideerde jaarrekening opstelt volgens de in de eerste zin van dit lid genoemde standaarden, kan in de enkelvoudige jaarrekening de waarderingsgrondslagen toepassen die hij ook in de geconsolideerde jaarrekening heeft toegepast.   
-9.  De rechtspersoon die de jaarrekening opstelt volgens de in lid 8 bedoelde standaarden, past van deze titel slechts de afdelingen 7 tot en met 10 en de artikelen 365 lid 2, 373, 382, 382a, 383, 383b tot en met 383e, 389 leden 8 en 10, en 390 toe. Banken passen tevens artikel 421 lid 5 toe.   
+9.  De rechtspersoon die de jaarrekening opstelt volgens de in lid 8 bedoelde standaarden, past van deze titel slechts de afdelingen 7 tot en met 10 en de artikelen 362, lid 6, een na laatste volzin, lid 7, laatste volzin en lid 10, 365 lid 2, 373, 382, 382a, 383, 383b tot en met 383e, 389 leden 8 en 10, en 390 toe. Banken passen tevens artikel 421 lid 5 toe.   
 10.  De rechtspersoon vermeldt in de toelichting volgens welke standaarden de jaarrekening is opgesteld.   
 
 ### Artikel  363  
@@ -4390,12 +4398,12 @@ d. een verklaring van oordeelonthouding.   De accountant ondertekent en dagteken
 
 ### Artikel  394  
 
-1.  De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling. De openbaarmaking geschiedt door nederlegging van een volledig in de Nederlandse taal gesteld exemplaar of, als dat niet is vervaardigd, een exemplaar in het Frans, Duits of Engels, ten kantore van het handelsregister dat wordt gehouden door de Kamer van Koophandel en Fabrieken die overeenkomstig [artikel 18, zesde en zevende lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) bevoegd is tot inschrijving. Op het exemplaar moet de dag van vaststelling en goedkeuring zijn aangetekend.   
+1.  De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling. De openbaarmaking geschiedt door nederlegging van een volledig in de Nederlandse taal gesteld exemplaar of, als dat niet is vervaardigd, een exemplaar in het Frans, Duits of Engels, ten kantore van het handelsregister dat wordt gehouden door de Kamer van Koophandel. Op het exemplaar moet de dag van vaststelling en goedkeuring zijn aangetekend.   
 2.  Is de jaarrekening niet binnen twee maanden na afloop van de voor het opmaken voorgeschreven termijn overeenkomstig de wettelijke voorschriften vastgesteld, dan maakt het bestuur onverwijld de opgemaakte jaarrekening op de in lid 1 voorgeschreven wijze openbaar; op de jaarrekening wordt vermeld dat zij nog niet is vastgesteld. Binnen twee maanden na gerechtelijke vernietiging van een jaarrekening moet de rechtspersoon een afschrift van de in de uitspraak opgenomen bevelen met betrekking tot de jaarrekening neerleggen ten kantore van het handelsregister, met vermelding van de uitspraak.   
 3.  Uiterlijk dertien maanden na afloop van het boekjaar moet de rechtspersoon de jaarrekening op de in lid 1 voorgeschreven wijze openbaar hebben gemaakt.   
 4.  Gelijktijdig met en op dezelfde wijze als de jaarrekening wordt een in de zelfde taal of in het Nederlands gesteld exemplaar van het jaarverslag en van de overige in artikel 392 bedoelde gegevens openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a, c, g en h genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.   
 5.  De vorige leden gelden niet, indien Onze Minister van Economische Zaken de in artikel 58, artikel 101 of artikel 210 genoemde ontheffing heeft verleend; alsdan wordt een afschrift van die ontheffing ten kantore van het handelsregister nedergelegd.   
-6.  De in de vorige leden bedoelde bescheiden worden gedurende zeven jaren bewaard. De Kamer van Koophandel en Fabrieken mag de op deze bescheiden geplaatste gegevens overbrengen op andere gegevensdragers, die zij in hun plaats in het handelsregister bewaart, mits die overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.   
+6.  De in de vorige leden bedoelde bescheiden worden gedurende zeven jaren bewaard. De Kamer van Koophandel mag de op deze bescheiden geplaatste gegevens overbrengen op andere gegevensdragers, die zij in hun plaats in het handelsregister bewaart, mits die overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.   
 7.  Iedere belanghebbende kan van de rechtspersoon nakoming van de in de leden 1-5 omschreven verplichtingen vorderen.   
 8.  Een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt geacht te hebben voldaan aan: 
 
@@ -4500,7 +4508,7 @@ e. de accountantsverklaring en het jaarverslag, zijn gesteld of vertaald in de z
 
 f. de onder *c* bedoelde rechtspersoon of vennootschap schriftelijk heeft verklaard zich hoofdelijk aansprakelijk te stellen voor de uit rechtshandelingen van de rechtspersoon voortvloeiende schulden; en  
 
-g. de verklaringen, bedoeld in de onderdelen *b* en *f* zijn neergelegd ten kantore van het handelsregister waar de rechtspersoon is ingeschreven alsmede, telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking, de stukken of vertalingen, genoemd in de onderdelen *d* en *e* dan wel een verwijzing naar het kantoor van het handelsregister waar zij liggen.     
+g. de verklaringen, bedoeld in de onderdelen b en f zijn neergelegd ten kantore van het handelsregister alsmede, telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking, de stukken of vertalingen, genoemd in de onderdelen d en e.     
 2.  Zijn in de groep of het groepsdeel waarvan de gegevens in de geconsolideerde jaarrekening zijn opgenomen, de in lid 1 onder *f* bedoelde rechtspersoon of vennootschap en een andere nevengeschikt, dan is lid 1 slechts van toepassing, indien ook deze andere rechtspersoon of vennootschap een verklaring van aansprakelijkstelling heeft afgelegd; in dat geval zijn lid 1 onder *g* en artikel 404 van overeenkomstige toepassing.   
 3.  Voor een rechtspersoon waarop lid 1 van toepassing is, gelden de artikelen 391 tot en met 394 niet.   
 4.  Indien de tot de groep behorende rechtspersoon een bank als bedoeld in artikel 415 is, vermeldt de balans in afwijking van lid 1, onder *a*, in elk geval de som van de activa en van de passiva en het bedrag van het eigen vermogen en vermeldt de winst- en verliesrekening in elk geval het resultaat uit de gewone bedrijfsuitoefening, het bedrag der belastingen en het saldo der overige baten en lasten.   
@@ -4514,7 +4522,7 @@ g. de verklaringen, bedoeld in de onderdelen *b* en *f* zijn neergelegd ten kant
 
 a. de rechtspersoon behoort niet meer tot de groep;  
 
-b. een mededeling van het voornemen tot beëindiging heeft ten minste twee maanden lang ter inzage gelegen ten kantore van het handelsregister waar de rechtspersoon is ingeschreven;  
+b. een mededeling van het voornemen tot beëindiging heeft ten minste twee maanden lang ter inzage gelegen ten kantore van het handelsregister;  
 
 c. ten minste twee maanden zijn verlopen na de aankondiging in een landelijk verspreid dagblad dat en waar de mededeling ter inzage ligt;  
 
@@ -4570,7 +4578,7 @@ c. de geconsolideerde jaarrekening en het jaarverslag zijn opgesteld overeenkoms
 
 d. de geconsolideerde jaarrekening met accountantsverklaring en jaarverslag, voor zover niet gesteld of vertaald in het Nederlands, zijn gesteld of vertaald in het Frans, Duits of Engels, en wel in de zelfde taal; en  
 
-e. telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking ten kantore van het handelsregister waar de rechtspersoon is ingeschreven de in onderdeel *d* genoemde stukken of vertalingen zijn neergelegd dan wel een verwijzing is neergelegd naar het kantoor van het handelsregister waar zij liggen.     
+e. telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking ten kantore van het handelsregister de in onderdeel d genoemde stukken of vertalingen zijn neergelegd.     
 2.  Onze Minister van Justitie kan voorschriften voor de jaarrekening aanwijzen die, zo nodig aangevuld met door hem gegeven voorschriften, als gelijkwaardig zullen gelden aan voorschriften overeenkomstig de zevende richtlijn. Intrekking van een aanwijzing kan slechts boekjaren betreffen die nog niet zijn begonnen.   
 3.  De rechtspersoon moet de toepassing van lid 1 in de toelichting vermelden.   
 
@@ -5114,7 +5122,8 @@ c. het bedrag van de aanwezige solvabiliteit.
 1.  De technische voorzieningen worden gewaardeerd op voor de bedrijfstak aanvaardbare grondslagen. Bij de waardering van de technische voorzieningen wordt ervan uitgegaan dat de verzekeringsmaatschappij in staat moet zijn te voldoen aan haar naar maatstaven van redelijkheid en billijkheid voorzienbare verplichtingen uit verzekeringsovereenkomsten. De bepaling van de technische voorziening voor levensverzekering en van die voor periodiek te betalen schaden of uitkeringen geschiedt door terzake deskundigen.   
 2.  Ten behoeve van financiële ondernemingen met zetel in Nederland die herverzekeraar zijn als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en geen vergunning hebben voor het uitoefenen van het bedrijf van verzekeraar als bedoeld in [artikel 1:1 van die wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), worden bij algemene maatregel van bestuur regels gesteld omtrent de waardering van de technische voorziening voor te betalen schade.   
 
-### Artikel  444a  
+### Artikel  444a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De door een verzekeringsmaatschappij aan te houden voorziening voor niet-verdiende premies en lopende risico’s, waaronder de catastrofevoorziening indien deze is getroffen, omvat onder meer: 
 
@@ -5123,12 +5132,14 @@ a. De in het boekjaar ontvangen premies ter zake van risico’s die op het daaro
 b. De schaden en kosten uit lopende verzekeringen die na afloop van het boekjaar kunnen ontstaan en die niet gedekt kunnen worden door de voorziening die betrekking heeft op de niet-verdiende premies tezamen met de in het daarop volgende boekjaar of boekjaren nog te ontvangen premies.     
 2.  De voorziening voor niet-verdiende premies wordt voor elke schadeverzekering afzonderlijk en op voorzichtige wijze bepaald. Het gebruik van statistische of wiskundige methoden is toegestaan indien de aard van de verzekering dat toelaat en indien deze methoden naar verwachting dezelfde resultaten opleveren als de afzonderlijke berekeningen.   
 
-### Artikel  444b  
+### Artikel  444b   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De door een verzekeringsmaatschappij aan te houden voorziening voor levensverzekeringen wordt berekend op basis van een voldoende voorzichtige prospectieve actuariële methode, rekening houdend met de in de toekomst te ontvangen premies en met alle toekomstige verplichtingen volgens de voor iedere lopende levensverzekering gestelde voorwaarden.   
 2.  In afwijking van het eerste lid kan een retrospectieve methode worden toegepast indien de op grond van die methode berekende technische voorzieningen niet lager zijn dan de voorzieningen bij toepassing van een prospectieve methode of indien het gebruik van een prospectieve methode vanwege de aard van het betrokken type levensverzekering niet mogelijk is.   
 
-### Artikel  444c  
+### Artikel  444c   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De door een verzekeringsmaatschappij aan te houden voorziening voor te betalen schaden of voor te betalen uitkeringen omvat het bedrag van de te verwachten schaden, in aanmerking nemende: 
 
@@ -5141,7 +5152,8 @@ c. de in verband met schaden of uitkeringen te verwachten baten uit subrogatie e
 3.  Discontering van de voorziening voor te betalen schaden of voor te betalen uitkeringen, anders dan periodieke uitkeringen, is slechts toegestaan indien de afwikkeling van de schaden ten minste vier jaren na het tijdstip van het opmaken van de jaarrekening zal duren en deze afwikkeling geschiedt volgens een betrouwbaar schade-afwikkelingsschema, waarin mede rekening wordt gehouden met alle factoren die de kosten van afwikkeling van de schade verhogen. Indien de voorziening voor te betalen schaden of te betalen uitkeringen wordt verminderd ten gevolge van discontering van te betalen schaden worden in de toelichting op de balans het bedrag van de voorziening voor discontering en de gebruikte methode van discontering vermeld.   
 4.  Met betrekking tot een communautaire co-assurantie zijn de voorzieningen voor te betalen schaden of voor te betalen uitkeringen verhoudingsgewijs ten minste gelijk aan die welke de co-assuradeur die als eerste verzekeraar optreedt, aanhoudt volgens de regels of gebruiken die gelden in de lidstaat van waaruit de eerste verzekeringsmaatschappij zijn verplichtingen uit hoofde van de communautaire co-assurantie is aangegaan.   
 
-### Artikel  444d  
+### Artikel  444d   
+Treedt in werking op een nader te bepalen tijdstip   
 
 De voorziening voor winstdeling en kortingen van een verzekeringsmaatschappij omvat de bedragen die in de vorm van winstdeling bestemd zijn voor de verzekeringnemers, verzekerden of gerechtigden op uitkeringen, voor zover deze niet hebben geleid tot verhoging van de voorziening voor levensverzekering, alsmede de bedragen die een gedeeltelijke terugbetaling van premies op grond van het resultaat van de verzekeringen vertegenwoordigen, voor zover deze niet tot verhoging van de ledenrekening hebben geleid.  
 
@@ -5210,32 +5222,44 @@ b. de advocaat-generaal bij het ressortsparket in het openbaar belang.
 
 ### Artikel  452  
 
-1.  Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof Amsterdam een statutair in Nederlandgevestigde effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bevelen aan de verzoeker een nadere toelichting omtrent de toepassing van de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243) of deze titel geldende voorschriften in de jaarrekening, het jaarverslag of in de overige gegevens te verschaffen.   
-2.  Het verzoek wordt met redenen omkleed en kan worden gedaan tot zes maanden na de dag van deponering bij de Stichting Autoriteit Financiële Markten van de in artikel 447 bedoelde stukken op grond van [artikel 5a van de Wet toezicht effectenverkeer 1995](../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md) met inachtneming van het in [artikel 2 tot en met 4 van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bepaalde.   
+1.  Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechthof te Amsterdam een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bevelen aan de verzoeker een nadere toelichting omtrent de toepassing van de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, of de [artikelen 5:25c, tweede, vierde of vijfde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:25d, tweede of vierde tot en met tiende lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 5:25v, eerste lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geldende voorschriften in de financiële verslaggeving als bedoeld in artikel 1, onderdeel d, van de Wet toezicht financiële verslaggeving te verschaffen.   
+2.  Het verzoek wordt met redenen omkleed en kan, met inachtneming van het in de [artikelen 2 tot en met 4 van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bepaalde, worden gedaan tot negen maanden na: 
+
+a. de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in [artikel 1, onderdeel d, onder 1°, 2° en 3°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bedoelde stukken op grond van [artikel 5:25o, eerste en vierde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in [artikel 1, onderdeel d, onder 4° tot en met 7°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bedoelde stukken op grond van [artikel 5:25m, zesde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+c. de dag waarop de jaarrekening is openbaar gemaakt, bedoeld in artikel 394 lid 1, indien het een effectenuitgevende instelling betreft met statutaire zetel in Nederland, waarvan effecten alleen zijn toegelaten tot de handel op een met een gereglementeerde markt vergelijkbaar systeem in een staat die geen lidstaat is.     
 3.  De leden 1 en 2 van artikel 450 zijn van overeenkomstige toepassing. Andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, worden niet opgeroepen en kunnen geen verweerschrift indienen.   
 4.  Indien de ondernemingskamer het verzoek toewijst, kan zij aan de effectenuitgevende instelling een bevel geven omtrent de wijze waarop deze een nadere toelichting omtrent de toepassing van de in het eerste lid bedoeld voorschriften verschaft. De effectenuitgevende instelling is verplicht met inachtneming van het bevel de nadere toelichting te verschaffen.   
 5.  De ondernemingskamer kan bepalen dat, indien of zolang de effectenuitgevende instelling niet voldoet aan het bevel, de effectenuitgevende instelling aan de Stichting Autoriteit Financiële Markten een door de ondernemingskamer vast te stellen dwangsom verbeurt. De [artikelen 611a tot en met 611i van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
 
 ### Artikel  453  
 
-1.  De griffier van de ondernemingskamer doet ten kantore van het handelsregister van de plaats, waar de rechtspersoon, vennootschap of instelling volgens haar statuten haar zetel heeft, een afschrift van de beschikking van de ondernemingskamer neerleggen. Indien de beschikking betrekking heeft op een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) verstrekt de griffier van de ondernemingskamer voorts een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten. Afschriften van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, worden nedergelegd zodra zij in kracht van gewijsde zijn gegaan.   
+1.  De griffier van de ondernemingskamer doet ten kantore van het handelsregister een afschrift van de beschikking van de ondernemingskamer neerleggen. Indien de beschikking betrekking heeft op een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) verstrekt de griffier van de ondernemingskamer voorts een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten. Afschriften van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, worden nedergelegd zodra zij in kracht van gewijsde zijn gegaan.   
 2.  Tot het instellen van beroep in cassatie tegen de beschikkingen van de ondernemingskamer uit hoofde van deze titel is, buiten de personen, bedoeld in het eerste lid van [artikel 426 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), bevoegd de rechtspersoon, vennootschap of instelling ten aanzien waarvan de ondernemingskamer een beschikking heeft genomen, ongeacht of deze bij de ondernemingskamer is verschenen.   
 
 ### Artikel  454  
 
-1.  Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof Amsterdam aan een naar het recht van een andere staat opgerichte effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bevelen een openbare mededeling te doen waarin wordt uitgelegd dat de jaarlijkse financiële verslaggeving als bedoeld in [artikel 1, onderdeel d, onder 4° en 5°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) niet voldoet aan de voorschriften, bedoeld in [artikel 5:25c, tweede, vierde of vijfde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 5:25v, eerste lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of waarin wordt uitgelegd hoe die voorschriften in de toekomst zullen worden toegepast.   
-2.  De Stichting Autoriteit Financiële Markten kan het verzoek slechts indienen op de grond dat de in lid 1 bedoelde stukken niet voldoen aan de in [artikel 5:25c, tweede, vierde of vijfde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 5:25v, eerste lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken niet voldoen.   
+1.  Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof te Amsterdam aan een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bevelen een bericht als bedoeld in [artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) algemeen verkrijgbaar te stellen.   
+2.  De Stichting Autoriteit Financiële Markten kan het verzoek slechts indienen op de grond dat de financiële verslaggeving als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) niet voldoet aan de daaraan ingevolgde artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, of de [artikelen 5:25c, tweede, vierde of vijfde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:25d, tweede of vierde tot en met tiende lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 5:25v, eerste lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de financiële verslaggeving als bedoeld in de vorige volzin niet voldoet.   
 3.  Het verzoek heeft geen betrekking op de verklaring van de accountant, bedoeld in [artikel 5:25c, vierde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
-4.  Het verzoek wordt ingediend uiterlijk zes maanden na de dag waarop de jaarrekening op grond van [artikel 5:25c, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), algemeen verkrijgbaar is gesteld. De leden 3 en 4 van artikel 449 zijn van overeenkomstige toepassing.   
+4.  Het verzoek kan worden gedaan tot negen maanden na: 
+
+a. de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in [artikel 1, onderdeel d, onder 1°, 2° en 3°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bedoelde stukken op grond van [artikel 5:25o, eerste en vierde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in [artikel 1, onderdeel d, onder 4° tot en met 7°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bedoelde stukken op grond van [artikel 5:25m, zesde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+c. de dag waarop de jaarrekening is openbaar gemaakt, bedoeld in artikel 394 lid 1, indien het een effectenuitgevende instelling betreft met statutaire zetel in Nederland, waarvan effecten alleen zijn toegelaten tot de handel op een met een gereglementeerde markt vergelijkbaar systeem in een staat die geen lidstaat is.   De leden 3 en 4 van artikel 449 zijn van overeenkomstige toepassing.   
 5.  Op de behandeling van het verzoek door de ondernemingskamer zijn de leden 1 tot en met 3 en 5 tot en met 7 van artikel 450 van overeenkomstige toepassing.   
 
 ### Artikel  455  
 
 1.  Indien de ondernemingskamer het in artikel 454 bedoelde verzoek toewijst, geeft zij de effectenuitgevende instelling een bevel om binnen een door de ondernemingskamer te stellen termijn in een openbare mededeling uit te leggen: 
 
-a. op welke wijze de in [artikel 5:25c van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde voorschriften in de toekomst zullen worden toegepast en de gevolgen daarvan voor de financiële verslaggeving te beschrijven; of  
+a. op welke wijze de in artikel 454, lid 2, bedoelde voorschriften in de toekomst zullen worden toegepast en de gevolgen daarvan voor de financiële verslaggeving te beschrijven; of  
 
-b. op welke onderdelen de financiële verslaggeving niet voldoet aan de in [artikel 5:25c van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde voorschriften en de gevolgen daarvan voor de financiële verslaggeving te beschrijven. Het bevel bevat daartoe nauwkeurige aanwijzingen.     
+b. op welke onderdelen de financiële verslaggeving niet voldoet aan de in artikel 454, lid 2, bedoelde voorschriften en de gevolgen daarvan voor de financiële verslaggeving te beschrijven. Het bevel bevat daartoe nauwkeurige aanwijzingen.     
 2.  De effectenuitgevende instelling is verplicht met inachtneming van het bevel de openbare mededeling te doen.   
 3.  Op verzoek van de effectenuitgevende instelling kan de ondernemingskamer wegens wijziging van omstandigheden haar bevel voor zover dit betrekking heeft op toekomstige stukken intrekken. De ondernemingskamer beslist niet dan na de Stichting Autoriteit Financiële Markten te hebben gehoord.   
 4.  Indien de beschikking betrekking heeft op een naar het recht van een andere staat opgerichte effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) verstrekt de griffier van de ondernemingskamer een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten.   

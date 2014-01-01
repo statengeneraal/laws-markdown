@@ -201,7 +201,7 @@ De artikelen 5 tot en met 7 zijn van overeenkomstige toepassing met betrekking t
 
 1.  Bij of krachtens algemene maatregel van bestuur wordt bepaald welke personen bevoegd zijn tot het geven van verkeersinformatie dan wel tot het geven van verkeersaanwijzingen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de eisen waaraan in het eerste lid bedoelde personen wat opleiding, kundigheid en ervaring betreft moeten voldoen voor de uitvoering van de in dat lid genoemde taken.   
-3.  Indien krachtens de in het tweede lid bedoelde maatregel regels worden gesteld voor ambtenaren, aangesteld voor de uitoefening van de politietaak, worden die regels gesteld in overeenstemming met Onze Minister van Justitie.   
+3.  Indien krachtens de in het tweede lid bedoelde maatregel regels worden gesteld voor ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, worden die regels gesteld in overeenstemming met Onze Minister van Veiligheid en Justitie.   
 
 ### §  3  
 
@@ -264,7 +264,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 ### Artikel  14a  
 
 1.  De kosten verbonden aan de aanvraag en de afgifte van diploma’s en verklaringen van vrijstelling als bedoeld in artikel 10, tweede lid, onderdeel b, de deelname aan de daarvoor vereiste opleidingen en examens en de afgifte van andere documenten, verplicht gesteld bij of krachtens deze wet, kunnen ten laste worden gebracht van de aanvrager van het diploma of andere document, onderscheidenlijk de kandidaat voor de bedoelde examens.   
-2.  De tarieven voor de kosten van deelname aan de opleidingen en de examens, en voor de verstrekking van afschriften uit de krachtens deze wet door de Nederlandse loodsencorporatie bij te houden registers worden vastgesteld bij besluit van de raad van bestuur van de Nederlandse Mededingingsautoriteit, overeenkomstig het bepaalde bij of krachtens [hoofdstuk VIA van de Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md). De tarieven voor de overige kosten worden vastgesteld bij ministeriële regeling.   
+2.  De tarieven voor de kosten van deelname aan de opleidingen en de examens, en voor de verstrekking van afschriften uit de krachtens deze wet door de Nederlandse loodsencorporatie bij te houden registers worden vastgesteld bij besluit van de Autoriteit Consument en Markt, overeenkomstig het bepaalde bij of krachtens hoofdstuk VIA van de Loodsenwet. De tarieven voor de overige kosten worden vastgesteld bij ministeriële regeling.   
 
 ### Artikel  15  
 
@@ -297,9 +297,9 @@ b. de gevolgen van het in gebreke blijven van de organisatie ten aanzien van de 
 
 ### Artikel  15ba  
 
-1.  Een aanwijzing, bedoeld in de artikelen 15a, tweede lid, en 15b, eerste lid, behoeft de goedkeuring van de raad van bestuur van de Nederlandse Mededingingsautoriteit. Onverminderd [artikel 10:27 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de goedkeuring kan slechts worden onthouden indien het belang van behoorlijk markttoezicht zich daartegen verzet.   
+1.  Een aanwijzing, bedoeld in de artikelen 15a, tweede lid, en 15b, eerste lid, behoeft de goedkeuring van de Autoriteit Consument en Markt. Onverminderd [artikel 10:27 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de goedkeuring kan slechts worden onthouden indien het belang van behoorlijk markttoezicht zich daartegen verzet.   
 2.  Een krachtens de artikelen 15a, tweede lid, onderscheidenlijk 15b, eerste lid, aangewezen organisatie voert in de boekhouding een administratief onderscheid in voor iedere dienst of taak die bij of krachtens de wet bij uitsluiting aan registerloodsen, de organen van de Nederlandse en regionale loodsencorporaties, de aangewezen organisaties of samenwerkingsverbanden van registerloodsen is opgedragen.   
-3.  Bij regeling van de raad van bestuur van de Nederlandse Mededingingsautoriteit kunnen nadere regels worden gesteld met betrekking tot de boekhouding, bedoeld in het tweede lid.   
+3.  Bij regeling van de Autoriteit Consument en Markt kunnen nadere regels worden gesteld met betrekking tot de boekhouding, bedoeld in het tweede lid.   
 4.  De algemene raad en de ledenvergadering van de Nederlandse loodsencorporatie zijn bevoegd van de krachtens de artikelen 15a, tweede lid, onderscheidenlijk 15b, eerste lid, aangewezen organisaties, alsmede van de ter uitvoering van [artikel 15, eerste lid, onder b, van de Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md) opgerichte samenwerkingsverbanden van registerloodsen, alle inlichtingen en gegevens te verlangen die deze organen voor de uitoefening van de hen bij en krachtens de [Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md) opgedragen taken redelijkerwijs nodig achten. De organisaties en samenwerkingsverbanden verlenen binnen de gestelde termijn alle gevraagde medewerking.   
 
 ### Artikel  15c  
@@ -435,12 +435,12 @@ b. een schip met een lengte van minder dan 5 meter dat uitsluitend door middel v
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die aanstalten maakt een schip dat op een scheepvaartweg voor vertrek gereed ligt, te gaan voeren of sturen, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer over de te voeren navigatie te gaan adviseren, indien de opsporingsambtenaar redelijkerwijs kan aannemen dat dit voeren, sturen of adviseren zal leiden tot handelen in strijd met artikel 27, eerste of tweede lid.   
 4.  De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een onderzoek van uitgeademde lucht voor hem om bijzondere geneeskundige redenen onwenselijk is.   
 5.  In het geval bedoeld in het vierde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid onderzoek van uitgeademde lucht, kan de opsporingsambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in artikel 27, tweede lid, onderdeel *b*. Gelijke bevoegdheid heeft de opsporingsambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in artikel 27, eerste lid, bedoelde stof dan alcoholhoudende drank verkeert.   
-6.  Indien de verdachte zijn op grond van het vijfde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een bloedonderzoek.   
+6.  Indien de verdachte zijn op grond van het vijfde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een bloedonderzoek.   
 7.  De verdachte die is bevolen zich aan een bloedonderzoek te onderwerpen, is verplicht aan dit bevel gevolg te geven en zijn medewerking te verlenen. Hem wordt door een arts zoveel bloed afgenomen als voor het onderzoek noodzakelijk is.   
 8.  De in het zevende lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat afname van bloed bij hem om bijzondere geneeskundige redenen onwenselijk is.   
-9.  De krachtens het achtste lid van de in het zevende lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek teneinde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in artikel 27, eerste lid, bedoelde stoffen of het in artikel 27, tweede lid, onderdeel *b*, genoemde gehalte vast te stellen.   
-10.  Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met de toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, door een arts de in het zevende lid bedoelde hoeveelheid bloed worden afgenomen, tenzij aannemelijk is dat dit bij hem om bijzondere geneeskundige redenen onwenselijk is. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het zesde lid worden bevolen zijn medewerking te verlenen. De verdachte aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen wordt het bloedmonster vernietigd.   
-11.  Bij algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Justitie, worden regels gesteld omtrent de wijze van uitvoering van artikel 28 en van dit artikel. Deze regels hebben mede betrekking op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.   
+9.  De krachtens het achtste lid van de in het zevende lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek teneinde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in artikel 27, eerste lid, bedoelde stoffen of het in artikel 27, tweede lid, onderdeel *b*, genoemde gehalte vast te stellen.   
+10.  Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met de toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, door een arts de in het zevende lid bedoelde hoeveelheid bloed worden afgenomen, tenzij aannemelijk is dat dit bij hem om bijzondere geneeskundige redenen onwenselijk is. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het zesde lid worden bevolen zijn medewerking te verlenen. De verdachte aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen wordt het bloedmonster vernietigd.   
+11.  Bij algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Veiligheid en Justitie, worden regels gesteld omtrent de wijze van uitvoering van artikel 28 en van dit artikel. Deze regels hebben mede betrekking op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Veiligheid en Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.   
 
 ### Artikel  29  
 
@@ -481,6 +481,7 @@ c. hechtenis van ten hoogste twee maanden of geldboete van de derde categorie, i
 12.  Het bepaalde in het vierde lid, aanhef en onderdeel b, en het tiende lid is niet van toepassing op overtreding van in artikel 32 van de Herziene Rijnvaartakte strafbaar gestelde feiten.   
 13.  De in het eerste en tweede lid van dit artikel strafbaar gestelde feiten zijn misdrijven. De in of krachtens het derde tot en met tiende lid strafbaar gestelde feiten zijn overtredingen.   
 14.  De Nederlandse strafwet is toepasselijk op een ieder die een krachtens het achtste lid strafbaar gesteld feit heeft begaan.   
+15.  Ingeval bij of krachtens deze wet wordt verwezen naar in het kader van de Internationale Maritieme Organisatie van de Verenigde Naties tot stand gekomen besluiten die betrekking hebben op de ordening van het scheepvaartverkeer, kan overtreding van deze besluiten ook als strafbaar feit worden aangemerkt indien deze besluiten in de Engelse taal zijn gesteld en bekend gemaakt.   
 
 ### Artikel  31a  
 
@@ -502,7 +503,7 @@ b. hechtenis van ten hoogste twee maanden of een geldboete van de tweede categor
 
 ### Artikel  32  
 
-1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de in de Herziene Rijnvaartakte strafbaar gestelde feiten, voor zover deze laatste de overtreding betreffen van bepalingen die krachtens deze wet zijn vastgesteld, zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de daartoe door het bevoegd gezag, in overeenstemming met Onze Minister van Justitie, aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de in de Herziene Rijnvaartakte strafbaar gestelde feiten, voor zover deze laatste de overtreding betreffen van bepalingen die krachtens deze wet zijn vastgesteld, zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de daartoe door het bevoegd gezag, in overeenstemming met Onze Minister van Veiligheid en Justitie, aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15 tot en met 5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
 
@@ -601,7 +602,8 @@ De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet ve
 1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  In afwijking van het bij of krachtens deze wet bepaalde kan Onze Minister de maatregelen treffen die hij nodig acht in het belang van een ordelijk verloop van het scheepvaartverkeer.   
 2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de door hem krachtens het eerste lid getroffen maatregelen.   
 
-### Artikel  38  
+### Artikel  38   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Toepassing van het bepaalde bij of krachtens de artikelen 4 tot en met 13 kan ten aanzien van de Nederlandse territoriale zee of daarop aansluitende scheepvaartwegen mede geschieden in het belang van de uitwendige veiligheid.   
@@ -655,10 +657,6 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  51  
-
-Het koninklijk besluit van 30 juni 1983 (*Stb.* 389), houdende het van kracht zijn voor de Rijn in Nederland van het Reglement van politie voor de Rijnvaart (Besluit Rijnvaartpolitiereglement 1983), en de besluiten tot wijziging van dat besluit, worden geacht te zijn vastgesteld krachtens deze wet.  
-
 ### Artikel  52  
 
 1.  Het ontwerp van een algemene maatregel van bestuur als bedoeld in de artikelen 4, eerste lid, onderdeel a, 9, tweede lid, 10, tweede en derde lid, 11, eerste lid, 16a, dat niet uitsluitend bepalingen bevat ter implementatie van een besluit van de Centrale Commissie voor de Rijnvaart, wordt gelijktijdig in de *Staatscourant* bekend gemaakt en aan de beide Kamers der Staten-Generaal overgelegd.   
@@ -669,7 +667,7 @@ Het koninklijk besluit van 30 juni 1983 (*Stb.* 389), houdende het van kracht zi
 ### Artikel  53  
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de onderscheidene artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Bij de inwerkingtreding van deze wet stelt Onze Minister van Justitie de nummering van de artikelen, paragrafen en hoofdstukken van deze wet opnieuw vast, en brengt de in deze wet voorkomende aanhalingen van de artikelen, paragrafen en hoofdstukken met de nieuwe nummering in overeenstemming. Hij draagt zorg dat de overeenkomstig de eerste volzin bijgewerkte tekst van deze wet in het *Staatsblad* wordt geplaatst.   
+2.  Bij de inwerkingtreding van deze wet stelt Onze Minister van Veiligheid en Justitie de nummering van de artikelen, paragrafen en hoofdstukken van deze wet opnieuw vast, en brengt de in deze wet voorkomende aanhalingen van de artikelen, paragrafen en hoofdstukken met de nieuwe nummering in overeenstemming. Hij draagt zorg dat de overeenkomstig de eerste volzin bijgewerkte tekst van deze wet in het *Staatsblad* wordt geplaatst.   
 
 ### Artikel  54  
 

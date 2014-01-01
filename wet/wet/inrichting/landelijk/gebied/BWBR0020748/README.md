@@ -16,172 +16,54 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+– *blok:* geheel van in een herverkaveling begrepen onroerende zaken;  
 
-b. gebiedsgericht beleid: beleid, gericht op de verbetering van de kwaliteit van het landelijke gebied, in elk geval ten aanzien van natuur, recreatie, landschap, landbouw, sociaal-economische vitaliteit, milieu en water, voor zover het betreft inrichting, gebruik en beheer van daarvoor specifiek in aanmerking komende delen van het landelijke gebied, met inbegrip van de reconstructie van de concentratiegebieden, bedoeld in [artikel 4 van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md);  
+– *Dienst landelijk gebied:* Dienst landelijk gebied van het Ministerie van Economische Zaken;  
 
-c. investeringsbudget: bijdrage ten laste van de rijksbegroting aan een provincie ter tegemoetkoming in de kosten van de uitvoering van een bestuursovereenkomst als bedoeld in artikel 7;  
+– *eigenaar:* degene die eigenaar is van een tot het blok behorende onroerende zaak en degene aan wie een recht van opstal, erfpacht, beklemming, vruchtgebruik, gebruik of bewoning toebehoort waaraan een in het blok begrepen onroerende zaak is onderworpen;  
 
-d. investeringstijdvak: tijdvak van zeven kalenderjaren, waarvoor een investeringsbudget wordt verstrekt;  
+– *herverkaveling:* samenvoeging, verkaveling en verdeling van onroerende zaken met toepassing van hoofdstuk 8, titel 3;  
 
-e. Groenfonds: Stichting Groenfonds, gevestigd te ’s-Gravenhage;  
+– *landinrichting:* maatregelen en voorzieningen gericht op de inrichting van het landelijke gebied met gebruikmaking van de bevoegdheden en instrumenten, bedoeld in de hoofdstukken 4 tot en met 9;  
 
-f. herverkaveling: samenvoeging, verkaveling en verdeling van onroerende zaken met toepassing van hoofdstuk 8, titel 3;  
-
-g. blok: geheel van in een herverkaveling begrepen onroerende zaken;  
-
-h. eigenaar: degene die eigenaar is van een tot het blok behorende onroerende zaak en degene aan wie een recht van opstal, erfpacht, beklemming, vruchtgebruik, gebruik of bewoning toebehoort waaraan een in het blok begrepen onroerende zaak is onderworpen;  
-
-i. rechthebbende: 
+– *rechthebbende*: 
 
 1°. eigenaar en degene aan wie een niet onder de omschrijving van eigenaar benoemd beperkt recht toebehoort waaraan een tot het blok behorende onroerende zaak is onderworpen,  
 
 2°. de huurder van zulk een zaak, of  
 
-3°. degene aan wie met betrekking tot zulk een zaak een recht als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) toebehoort;    
+3°. degene aan wie met betrekking tot zulk een zaak een recht als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) toebehoort;    
 
-j. openbare registers: openbare registers als bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+– *openbare registers:* openbare registers als bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
 
-k. Dienst landelijk gebied: Dienst landelijk gebied van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
-
-l. landinrichting: maatregelen en voorzieningen gericht op de inrichting van het landelijke gebied met gebruikmaking van de bevoegdheden en instrumenten, bedoeld in de hoofdstukken 4 tot en met 9;  
-
-m. gebiedscommissie: een commissie ingesteld krachtens [artikel 82 van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) om te adviseren over de uitvoering van het gebiedsgericht beleid.     
+– *Onze Minister:* Onze Minister van Economische Zaken.     
 2.  Voor zover niet anders bepaald, wordt in deze wet en de daarop berustende bepalingen verstaan onder: 
 
-a. provincie: provincie waarin het in te richten gebied geheel of grotendeels is gelegen;  
+– *gedeputeerde staten:* gedeputeerde staten van de provincie waarin het in te richten gebied geheel of grotendeels is gelegen;  
 
-b. gedeputeerde staten: gedeputeerde staten van de provincie waarin het in te richten gebied geheel of grotendeels is gelegen.     
+– *provincie:* provincie waarin het in te richten gebied geheel of grotendeels is gelegen.     
 
 ### Artikel  2  
 
-1.  Gedeputeerde staten van de onderscheiden provincies dragen zorg voor de realisatie van het gebiedsgerichte beleid.   
-2.  Onze Minister en Onze Ministers wie het mede aangaat dragen zorg voor de bevordering en de ondersteuning van de realisatie van het gebiedsgerichte beleid. Onze Minister en Onze Ministers wie het mede aangaat doen dit onder meer door de verstrekking van een investeringsbudget en door de inzet van capaciteit van de Dienst landelijk gebied en in voorkomend geval van andere diensten van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
-3.  Gedeputeerde staten kunnen de op grond van de hoofdstukken 4 tot en met 8 van deze wet aan hen toekomende bevoegdheden delegeren aan een bestuurscommissie als bedoeld in [artikel 81, eerste lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) of aan een ander orgaan.   
-4.  Gedeputeerde staten maken voor de uitvoering van het gebiedsgerichte beleid gebruik van de Dienst landelijk gebied en in voorkomend geval van andere diensten van het Ministerie van Economische Zaken, Landbouw en Innovatie, voor zover door Onze Minister capaciteit van deze diensten ten behoeve van de realisatie van het gebiedsgerichte beleid wordt ingezet ingevolge de bestuursovereenkomst, bedoeld in artikel 7, eerste lid.   
+1.  Gedeputeerde staten kunnen de op grond van de hoofdstukken 4 tot en met 8 van deze wet aan hen toekomende bevoegdheden delegeren aan een bestuurscommissie als bedoeld in [artikel 81, eerste lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), of aan een ander orgaan.   
+2.  De Dienst landelijk gebied staat desgevraagd gedeputeerde staten en andere openbare lichamen bij: 
+
+a. in de uitoefening van de bij of krachtens deze of enige andere wet aan hen toegekende en op landinrichting betrekking hebbende bevoegdheden, en  
+
+b. in de uitvoering van ander beleid gericht op de verbetering van de kwaliteit van het landelijke gebied, voor zover het betreft inrichting, gebruik en beheer van daarvoor specifiek in aanmerking komende delen van het landelijke gebied.   Bijstand wordt uitsluitend verleend na instemming van Onze Minister. Onze Minister kan aan zijn instemming voorwaarden en beperkingen verbinden.   
+3.  Het bestuur van de Dienst voor het kadaster en de openbare registers besluit na overleg met gedeputeerde staten, onderscheidenlijk het bestuur van het openbaar lichaam omtrent de door de dienst te leveren bijstand bij de uitoefening van de in het tweede lid, onderdeel a, bedoelde bevoegdheden en de uitvoering van het in het tweede lid, onderdeel b, bedoelde beleid.   
 
 ### Hoofdstuk  2  
 
 ####Programmering van het gebiedsgerichte beleid
 
-### Artikel  3  
-
-1.  Onze Minister en Onze Ministers wie het mede aangaat stellen met inachtneming van het rijksbeleid als vervat in structuurvisies als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) dan wel in beleidsnota’s die in de Tweede Kamer der Staten-Generaal zijn behandeld, een rijksmeerjarenprogramma met betrekking tot het gebiedsgerichte beleid vast.   
-2.  Het rijksmeerjarenprogramma heeft betrekking op een tijdvak van zeven kalenderjaren. Het eerste tijdvak waarvoor een rijksmeerjarenprogramma wordt vastgesteld vangt aan op 1 januari 2007.   
-3.  Het rijksmeerjarenprogramma bevat in ieder geval: 
-
-a. de te bereiken doelen van het gebiedsgerichte beleid voor het tijdvak waarop het betrekking heeft, in concrete, meetbare termen;  
-
-b. een indicatie van de te bereiken doelen voor de daaropvolgende tijdvakken.     
-4.  Bij de voorbereiding van het rijksmeerjarenprogramma betrekken Onze Minister en Onze Ministers wie het mede aangaat gedeputeerde staten van de onderscheiden provincies en besturen van gemeenten en waterschappen of organisaties van gemeenten en waterschappen.   
-
-### Artikel  4  
-
-1.  Provinciale staten stellen voor hun provincie een provinciaal meerjarenprogramma voor het gebiedsgerichte beleid vast met inachtneming van structuurvisies als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en het provinciale beleid met betrekking tot de ontwikkeling van het landelijk gebied.   
-2.  Het provinciale meerjarenprogramma heeft betrekking op een tijdvak van zeven kalenderjaren. Het eerste tijdvak waarvoor een meerjarenprogramma wordt vastgesteld vangt aan op 1 januari 2007.   
-3.  Het provinciale meerjarenprogramma bevat in ieder geval: 
-
-a. de bijdrage die de provincie kan leveren aan het bereiken van de doelen van het gebiedsgerichte beleid van het Rijk in concrete, meetbare termen, voor het tijdvak waarop het meerjarenprogramma betrekking heeft, alsmede een indicatie van zodanige bijdragen voor daaropvolgende tijdvakken;  
-
-b. een zo nauwkeurig mogelijke raming van de kosten van de uitvoering, van de voor het meerjarenprogramma benodigde middelen van het Rijk en, voor zover van toepassing, van de voor de uitvoering van het meerjarenprogramma beschikbare provinciale middelen, van door de Europese Unie of gemeenten of waterschappen ter beschikking gestelde middelen, alsmede van door private partijen ter beschikking gestelde middelen; en  
-
-c. de wijze waarop de voortgang van de uitvoering wordt bewaakt en geëvalueerd.     
-4.  Provinciale staten kunnen de bevoegdheid tot het vaststellen van het provinciale meerjarenprogramma overdragen aan gedeputeerde staten.   
-5.  Bij de voorbereiding van het provinciale meerjarenprogramma betrekken provinciale staten, of, in het geval bedoeld in het vierde lid, gedeputeerde staten de besturen van de gemeenten en waterschappen die het aangaat.   
+Vervallen per 01-01-2014   
 
 ### Hoofdstuk  3  
 
 ####Investeringsbudget landelijk gebied
 
-### Artikel  5  
-
-Uiterlijk op 15 februari van het jaar dat voorafgaat aan een investeringstijdvak geven Onze Minister en Onze Ministers wie het mede aangaat aan gedeputeerde staten van elke provincie een indicatie van de hoogte van het voor het komende investeringstijdvak voor die provincie beschikbare investeringsbudget en van de verdeling daarvan over de onderscheiden hoofdstukken en artikelen van de rijksbegroting, ten laste waarvan het investeringsbudget wordt toegekend. Daarbij geven Onze Minister en Onze Ministers wie het mede aangaat ook de in dat tijdvak te bereiken doelen weer, gebaseerd op het rijksmeerjarenprogramma, bedoeld in artikel 3, en waar mogelijk en gewenst gespecificeerd per provincie. De indicatie, bedoeld in de eerste volzin, wordt mede vastgesteld aan de hand van de te bereiken doelen.  
-
-### Artikel  6  
-
-Op basis van het provinciale meerjarenprogramma, bedoeld in artikel 4, en de gegevens, bedoeld in artikel 5, doen gedeputeerde staten van elke provincie uiterlijk op 15 mei van het jaar dat voorafgaat aan een investeringstijdvak aan Onze Minister en Onze Ministers die het mede aangaat een voorstel dat inzicht geeft in welke bijdrage aan de doelen van het gebiedsgerichte beleid van het Rijk zij in het investeringstijdvak kunnen realiseren, de daaraan gerelateerde prestaties en het daarmee gemoeide investeringsbudget.  
-
-### Artikel  7  
-
-1.  Uiterlijk op 15 december van het jaar dat voorafgaat aan een investeringstijdvak sluiten Onze Minister en Onze Ministers wie het mede aangaat met gedeputeerde staten van elke provincie op basis van de meerjarenprogramma’s, bedoeld in de artikelen 3 en 4, de gegevens, bedoeld in artikel 5, en het voorstel, bedoeld in artikel 6, een bestuursovereenkomst, waarin in ieder geval zijn vastgelegd: 
-
-a. de in de provincie in het investeringstijdvak te realiseren bijdrage aan de doelen van het gebiedsgerichte beleid van het Rijk en de daaraan gerelateerde prestaties;  
-
-b. de hoogte van het door Onze Minister en Onze Ministers wie het mede aangaat ter beschikking te stellen investeringsbudget;  
-
-c. de door Onze Minister gedurende het investeringstijdvak ten behoeve van de realisatie van het gebiedsgerichte beleid in te zetten capaciteit van de Dienst landelijk gebied en, in voorkomend geval, van andere diensten van het Ministerie van Economische Zaken, Landbouw en Innovatie; en  
-
-d. een aanduiding van de omvang van de beschikbare provinciale middelen.     
-2.  Onze Minister, Onze Ministers wie het mede aangaat en gedeputeerde staten stellen de bestuursovereenkomst in ontwerp vast voor 15 augustus van het jaar dat voorafgaat aan het investeringstijdvak.   
-3.  In het vierde jaar van het investeringstijdvak waarop de bestuursovereenkomst betrekking heeft overleggen Onze Minister, Onze Ministers wie het mede aangaat en gedeputeerde staten aan de hand van de voortgang van de realisatie van de prestaties, bedoeld in het eerste lid, onderdeel a, en van de tot dan toe gerealiseerde besteding van het investeringsbudget of wijziging van de overeenkomst noodzakelijk of wenselijk is, mede met het oog op wijzigingen in het gebiedsgerichte beleid.   
-4.  Het eerste investeringstijdvak vangt aan op 1 januari 2007.   
-
-### Artikel  8  
-
-1.  Onze Minister en Onze Ministers wie het mede aangaat verstrekken voor de duur van een investeringstijdvak aan gedeputeerde staten een investeringsbudget overeenkomstig de bestuursovereenkomst, bedoeld in artikel 7. De beschikking tot verlening van een investeringsbudget vermeldt het totaalbedrag van dat budget, alsmede de onderverdeling in tranches voor elk jaar van het investeringstijdvak waarop de verlening betrekking heeft.   
-2.  Het investeringsbudget wordt per kwartaal bij wege van voorschot naar evenredigheid van het in enig jaar op de rijksbegroting beschikbare bedrag overgemaakt aan het Groenfonds door Onze Minister en Onze Ministers wie het mede aangaat en door gedeputeerde staten aangehouden bij het Groenfonds.   
-3.  Indien gedurende het investeringstijdvak de toestand van ’s Rijks financiën daartoe noopt, kunnen Onze Minister en Onze Ministers wie het mede aangaat besluiten het verleende investeringsbudget te spreiden over een periode die langer is dan zeven jaar, met dien verstande dat deze periode steeds bestaat uit gehele kalenderjaren, dat deze periode nooit langer is dan tien jaar en dat tegelijkertijd wordt aangegeven op welke wijze de spreiding gevolgen heeft voor de onderverdeling in tranches als bedoeld in het eerste lid. Daarbij kunnen Onze in de eerste volzin bedoelde Ministers bepalen dat de looptijd van het rijksmeerjarenprogramma, bedoeld in artikel 3, eerste lid, al dan niet dienovereenkomstig wordt verlengd.   
-4.  Indien de looptijd van het rijksmeerjarenprogramma overeenkomstig het vierde lid wordt verlengd, wordt het investeringstijdvak van rechtswege voor dezelfde termijn verlengd.   
-5.  Indien het bedrag dat uit ’s Rijks kas beschikbaar is voor het investeringsbudget gedurende het investeringstijdvak wordt verhoogd dan wel op andere wijze budgettaire ruimte ontstaat, kunnen Onze Minister en Onze Ministers wie het mede aangaat besluiten het verleende investeringsbudget te verhogen.   
-6.  Indien toepassing is gegeven aan het derde of het vijfde lid, bepalen de partijen bij de bestuursovereenkomst, bedoeld in artikel 7, in hoeverre deze overeenkomst als gevolg daarvan dient te worden aangepast.   
-
-### Artikel  9  
-
-1.  Naar aanleiding van een wijziging van een bestuursovereenkomst als bedoeld in artikel 7, derde lid, of een andere wijziging van de bestuursovereenkomst waarover Onze Minister, Onze Ministers wie het mede aangaat en gedeputeerde staten overeenstemming bereiken, kunnen Onze Minister en Onze Ministers wie het mede aangaat besluiten tot wijziging van de beschikking tot verlening van een investeringsbudget.   
-2.  Het eerste lid is niet van toepassing in het geval, bedoeld in artikel 8, vierde lid.   
-
-### Artikel  10  
-
-1.  Zolang het investeringsbudget niet is vastgesteld, kan Onze Minister, of Onze Minister wie het aangaat in overeenstemming met Onze Minister, de verlening van dat investeringsbudget intrekken of ten nadele van de provincie wijzigen, indien de prestaties waarvoor het investeringsbudget is verleend kennelijk niet of niet geheel zullen worden gerealiseerd en dit de provincie kan worden toegerekend. Hiertoe gaat Onze Minister of Onze Minister wie het aangaat in overeenstemming met Onze Minister, niet over dan nadat in het kader van de toepassing van artikel 7, derde lid, door hem is aangegeven dat hij gerede gronden heeft om aan te nemen dat de desbetreffende prestaties door aan de provincie toe te rekenen feiten of omstandigheden niet zullen worden gerealiseerd en sedertdien tenminste twee jaar zijn verstreken.   
-2.  Zolang het investeringsbudget niet is vastgesteld, kan Onze Minister of Onze Minister wie het aangaat in overeenstemming met Onze Minister de verlening van dat investeringsbudget intrekken of ten nadele van de provincie wijzigen, indien: 
-
-a. verleende voorschotten zijn besteed aan een ander doel dan waarvoor het investeringsbudget is verleend;  
-
-b. gedeputeerde staten onjuiste of onvolledige gegevens hebben verstrekt en verstrekking van juiste of volledige gegevens tot een andere beschikking omtrent de verlening van het investeringsbudget zou hebben geleid;  
-
-c. de beschikking tot verlening van het investeringsbudget anderszins onjuist was en gedeputeerde staten dit wisten of behoorden te weten;  
-
-d. de wijze waarop het investeringsbudget is aangewend in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen; of  
-
-e. naar het oordeel van Onze Minister of Onze Minister wie het aangaat genoegzaam komt vast te staan dat niet wordt voldaan aan verplichtingen als bedoeld in het vierde lid.     
-3.  De intrekking of wijziging werkt terug tot en met het tijdstip waarop een omstandigheid of feit als bedoeld in het eerste of tweede lid, die aanleiding is om tot intrekking of wijziging over te gaan, zich heeft voorgedaan, tenzij bij de intrekking of wijziging anders is bepaald.   
-4.  Onze Minister of Onze Minister wie het aangaat in overeenstemming met Onze Minister kan jegens de betrokken provincie in enig investeringstijdvak verplichtingen verbinden aan het investeringsbudget dat voor dat investeringstijdvak wordt of is verleend, indien met betrekking tot het voorgaande investeringstijdvak: 
-
-a. de doelstellingen waarvoor het investeringsbudget is verleend naar het oordeel van Onze Minister of Onze Minister wie het aangaat onvoldoende zijn bereikt en dit de provincie kan worden toegerekend;  
-
-b. het verleende investeringsbudget door de provincie is besteed aan een ander doel dan waarvoor het beschikbaar is gesteld; of  
-
-c. de aanvraag tot vaststelling van het investeringsbudget niet of niet tijdig is ingediend.     
-
-### Artikel  11  
-
-1.  Gedeputeerde staten zijn bevoegd ten laste van het verleende investeringsbudget verplichtingen aan te gaan door het aangaan van overeenkomsten, door het verlenen van subsidies, dan wel door op andere wijze de toegekende middelen te besteden, met dien verstande dat de aanwending van de middelen geschiedt ter verwezenlijking van de doelen, bedoeld in artikel 7, eerste lid, onderdeel a, en met inachtneming van het bij of krachtens deze wet bepaalde.   
-2.  Verplichtingen als bedoeld in het eerste lid kunnen in enig jaar van het investeringstijdvak worden aangegaan tot ten hoogste 100 procent van de tranche van het investeringsbudget dat voor het desbetreffende jaar ter beschikking is gesteld. In voorkomend geval kunnen voorts verplichtingen worden aangegaan ten laste van tranches die betrekking hebben op daarop volgende jaren van het investeringstijdvak, met dien verstande dat ten laste van die tranches slechts verplichtingen kunnen worden aangegaan tot ten hoogste een percentage van het voor die tranche beschikbaar gestelde bedrag dat voor elk volgende jaar 10 procentpunten lager is dan het voor het voorgaande jaar geldende maximumpercentage, uitgaande van 100 procent in het jaar waarin de verplichtingen worden aangegaan.   
-3.  Provinciale staten van de onderscheiden provincies stellen een verordening vast met betrekking tot ten laste van het investeringsbudget uitgevoerde steunmaatregelen als bedoeld in de artikelen 87, 88 en 89 van het Verdrag tot oprichting van de Europese Gemeenschap en maatregelen die ingevolge Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) (PbEU L 277) voor cofinanciering uit het Europees Landbouwfonds voor Plattelandsontwikkeling in aanmerking worden gebracht. De verordening regelt de activiteiten waarvoor subsidie wordt verstrekt, de subsidievoorwaarden en het subsidiebedrag.   
-4.  Provinciale staten kunnen de bevoegdheid, bedoeld in het derde lid, geheel of gedeeltelijk overdragen aan gedeputeerde staten.   
-
-### Artikel  12  
-
-1.  Gedeputeerde staten doen jaarlijks gedurende het investeringstijdvak aan Onze Minister verslag van de voortgang van de uitvoering en de besteding van het investeringsbudget.   
-2.  Het verslag met betrekking tot het voorlaatste jaar van een investeringstijdvak bevat in ieder geval een overzicht van de tot en met dat jaar gerealiseerde prestaties en het in totaal tot en met dat jaar uitgegeven dan wel verplichte investeringsbudget, alsmede een verwachting omtrent de in de resterende duur van het investeringstijdvak nog te realiseren prestaties en het nog te verplichten of uit te geven investeringsbudget.   
-3.  Na afloop van het investeringstijdvak doen gedeputeerde staten verslag aan Onze Minister omtrent de realisatie van de prestaties, bedoeld in artikel 7, eerste lid, onderdeel a, de wijze waarop het investeringsbudget is besteed en de wijze waarop de besteding van het investeringsbudget heeft bijgedragen aan het bereiken van de prestaties per doel, bedoeld in artikel 7, eerste lid, onderdeel a.   
-4.  Onze Minister kan nadere regels stellen omtrent de wijze van verslaglegging.   
-
-### Artikel  13  
-
-Gedeputeerde staten van een provincie waaraan een investeringsbudget is verleend dienen uiterlijk op 15 juli van het jaar volgend op de afloop van een investeringstijdvak een aanvraag tot vaststelling van het investeringsbudget in bij Onze Minister. Bij de aanvraag wordt het verslag, bedoeld in artikel 12, derde lid, gevoegd.  
-
-### Artikel  14  
-
-1.  Onze Minister en Onze Ministers wie het mede aangaat stellen het investeringsbudget vast op het bedrag van het verleende investeringsbudget, indien geen van de in artikel 10, eerste en tweede lid, bedoelde omstandigheden zich voordoet.   
-2.  De vaststelling geeft aanspraak op betaling van het vastgestelde bedrag.   
-3.  Het investeringsbudget wordt overeenkomstig de vaststelling ten behoeve van de desbetreffende provincie overgemaakt aan het Groenfonds, onder verrekening van al overgemaakte voorschotten.   
-4.  Onverschuldigd betaalde bedragen aan investeringsbudget en voorschotten kunnen door Onze Minister of door Onze Minister wie het aangaat in overeenstemming met Onze Minister worden teruggevorderd, voor zover na de dag waarop het investeringsbudget is vastgesteld nog geen vijf jaren zijn verstreken. Bij de terugvordering kan worden bepaald dat over de onverschuldigd betaalde bedragen een rentevergoeding verschuldigd is. De rente bedraagt ten hoogste de rente, bedoeld in de [artikelen 19, eerste en tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), en [120 van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
-
-### Artikel  15  
-
-1.  Indien de in artikel 13, eerste lid, bedoelde termijn is verstreken zonder dat een aanvraag tot vaststelling van investeringsbudget is ingediend, kan het investeringsbudget voor de desbetreffende provincie ambtshalve door Onze Minister en Onze Ministers wie het mede aangaat worden vastgesteld.   
-2.  Onze in het eerste lid bedoelde Ministers gaan niet over tot ambtshalve vaststelling dan nadat gedeputeerde staten in de gelegenheid zijn gesteld een aanvraag in te dienen binnen een door Onze Ministers te bepalen termijn.   
+Vervallen per 01-01-2014   
 
 ### Hoofdstuk  4  
 
@@ -193,21 +75,19 @@ Landinrichting strekt tot verbetering van de inrichting van het landelijke gebie
 
 ### Artikel  17  
 
-1.  Gedeputeerde staten kunnen de gebiedscommissie gehoord besluiten tot toepassing van landinrichting door vaststelling van een inrichtingsplan.   
+1.  Gedeputeerde staten kunnen besluiten tot toepassing van landinrichting door vaststelling van een inrichtingsplan.   
 2.  Een inrichtingsplan bevat in ieder geval: 
 
 a. de begrenzing van het in te richten gebied;  
 
 b. een zo nauwkeurig mogelijke aanduiding van de te treffen maatregelen en voorzieningen;  
 
-c. voor zover de voorgenomen landinrichting strekt tot verwezenlijking van doelen als bedoeld in artikel 7, eerste lid, onder a, een beschrijving van de te verwachten gevolgen van de onder b bedoelde maatregelen en voorzieningen met het oog op deze doelen;  
+c. in voorkomend geval een aanduiding van te verwerven onroerende zaken;  
 
-d. in voorkomend geval een aanduiding van te verwerven onroerende zaken;  
+d. een of meer kaarten die met inachtneming van het derde lid zijn vervaardigd; en  
 
-e. een of meer kaarten die met inachtneming van het derde lid zijn vervaardigd; en  
-
-f. indien een van de in onderdeel b bedoelde maatregelen of voorzieningen herverkaveling betreft, een zo nauwkeurig mogelijke raming van de kosten daarvan en het aandeel van die kosten dat ten laste zal worden gebracht van de gezamenlijke eigenaren in het te herverkavelen blok.     
-3.  Op de kaarten, bedoeld in het tweede lid, onderdeel e, worden zo nauwkeurig mogelijk aangegeven: 
+e. indien een van de in onderdeel b bedoelde maatregelen of voorzieningen herverkaveling betreft, een zo nauwkeurig mogelijke raming van de kosten daarvan en het aandeel van die kosten dat ten laste zal worden gebracht van de gezamenlijke eigenaren in het te herverkavelen blok.     
+3.  Op de kaarten, bedoeld in het tweede lid, onderdeel d, worden zo nauwkeurig mogelijk aangegeven: 
 
 a. de begrenzing van het in te richten gebied;  
 
@@ -229,11 +109,6 @@ f. in voorkomend geval de maatregelen of voorzieningen voor de verwezenlijking w
 ### Artikel  20  
 
 Voor zover een inrichtingsplan als een van de maatregelen en voorzieningen, bedoeld in artikel 17, tweede lid, onderdeel b, voorziet in herverkaveling, kan dat inrichtingsplan ten aanzien van die herverkaveling niet meer worden gewijzigd nadat het ontwerp van het ruilplan overeenkomstig artikel 64, eerste lid, ter inzage is gelegd.  
-
-### Artikel  21  
-
-1.  De Dienst landelijk gebied staat gedeputeerde staten bij in de vervulling van de bij of krachtens deze of enige andere wet aan hen opgedragen en op landinrichting betrekking hebbende taken.   
-2.  Het bestuur van de Dienst voor het kadaster en de openbare registers besluit na overleg met gedeputeerde staten omtrent de door de Dienst te leveren bijstand aan gedeputeerde staten bij de vervulling van de in het eerste lid bedoelde taken.   
 
 ### Artikel  22  
 
@@ -665,7 +540,7 @@ b. de geldelijke verrekeningen tussen de oude en de nieuwe eigenaar bij overgang
 
 ### Paragraaf  8  
 
-####Bijzondere bepalingen over bedroep en hoger beroep
+####Bijzondere bepalingen over beroep en hoger beroep
 
 ### Artikel  69  
 
@@ -817,20 +692,20 @@ Bij algemene maatregel van bestuur worden nadere eisen gesteld, waaraan een over
 
 ### Artikel  89  
 
-De kosten van landinrichting worden gedragen door de provincie, voor zover zij niet worden gedragen door het Rijk, andere openbare lichamen en eigenaren met inachtneming van de artikelen 90 tot en met 91.  
+De kosten van landinrichting worden gedragen door de provincie, voor zover zij niet worden gedragen door andere openbare lichamen en eigenaren met inachtneming van de artikelen 90 en 91.  
 
 ### Artikel  90  
 
-1.  Ten laste van het Rijk komen de kosten van de Dienst landelijk gebied voor zover deze betrekking hebben op de capaciteit van deze dienst zoals deze op grond van artikel 7, eerste lid, onderdeel c, ter beschikking is gesteld.   
-2.  Ten laste van andere openbare lichamen komen de kosten waartoe zij zich op grond van artikel 37, tweede lid, of anderszins bij overeenkomst, hebben verplicht.   
-3.  Ten laste van de eigenaren van de in een herverkaveling betrokken onroerende zaken gezamenlijk komen de kosten van herverkaveling die gemaakt zijn ten behoeve van het blok, voor zover deze niet gedekt worden door het investeringsbudget, een andere subsidie of bijdrage van overheidswege of voor zover de betaling van deze kosten niet bij overeenkomst is verzekerd.   
-4.  De kosten die ten laste van de eigenaren gezamenlijk komen, worden over de eigenaren omgeslagen zoals bepaald in de lijst der geldelijke regelingen. Iedere eigenaar is schuldplichtig voor de over hem omgeslagen kosten.   
+1.  Ten laste van andere openbare lichamen komen de kosten waartoe zij zich op grond van artikel 37, tweede lid, of anderszins bij overeenkomst, hebben verplicht.   
+2.  Ten laste van de eigenaren van de in een herverkaveling betrokken onroerende zaken gezamenlijk komen de kosten van herverkaveling die gemaakt zijn ten behoeve van het blok, voor zover deze niet gedekt worden door een subsidie of bijdrage van overheidswege of voor zover de betaling van deze kosten niet bij overeenkomst is verzekerd.   
+3.  De kosten die ten laste van de eigenaren gezamenlijk komen, worden over de eigenaren omgeslagen zoals bepaald in de lijst der geldelijke regelingen. Iedere eigenaar is schuldplichtig voor de over hem omgeslagen kosten.   
+4.  Nadat het besluit tot vaststelling van de lijst der geldelijke regelingen is genomen en de beroepstermijn is verstreken, dan wel, indien beroep is ingesteld, door de rechtbank op het beroep is beslist, worden de kosten die over de eigenaren worden omgeslagen gecorrigeerd met een door gedeputeerde staten vastgestelde correctiefactor, zijnde het quotiënt van de definitieve kosten en de kosten zoals deze oorspronkelijk in de lijst der geldelijke regelingen waren opgenomen.   
 
 ### Artikel  91  
 
-1.  De heffing en de invordering van de omgeslagen kosten geschieden met toepassing van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als waren deze kosten rijksbelastingen en geschieden door de zorg van de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), alsmede door de overige in die wetten genoemde functionarissen.   
+1.  Op de heffing en de invordering van de omgeslagen kosten zijn de [artikelen 227](../../../../../../wet/provinciewet/BWBR0005645/README.md), [227a](../../../../../../wet/provinciewet/BWBR0005645/README.md), [227b](../../../../../../wet/provinciewet/BWBR0005645/README.md), [228](../../../../../../wet/provinciewet/BWBR0005645/README.md), [228b](../../../../../../wet/provinciewet/BWBR0005645/README.md), [228c](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232aa](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232b](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232c](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232d](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232e](../../../../../../wet/provinciewet/BWBR0005645/README.md), [232f](../../../../../../wet/provinciewet/BWBR0005645/README.md) en [232h van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
 2.  De omgeslagen kosten worden geheven bij wege van aanslag.   
-3.  Indien de over een eigenaar omgeslagen kosten geringer zijn dan een bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, vast te stellen bedrag, worden deze kosten niet geheven.   
+3.  Indien de over een eigenaar omgeslagen kosten geringer zijn dan een bij verordening van provinciale staten, vast te stellen bedrag, worden deze kosten niet geheven.   
 4.  Indien met betrekking tot eenzelfde onroerende zaak twee of meer eigenaren kostenplichtig zijn en bij elk van deze eigenaren het derde lid geen toepassing vindt, kan de belastingaanslag ten name van een van hen worden gesteld.   
 5.  Indien met toepassing van het vierde lid de belastingaanslag ten name van één kostenplichtige is gesteld, kan: 
 
@@ -856,7 +731,11 @@ b. de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 
 ### Hoofdstuk  12  
 
-####Overgangs-, wijzigings- en slotbepalingen
+####Overgangs- en slotbepalingen
+
+### Paragraaf  1  
+
+####Overgang verplichtingen Rijk
 
 ### Artikel  93  
 
@@ -864,15 +743,105 @@ b. de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 2.  Bij het besluit worden tevens de aan de minister toekomende, met de desbetreffende subsidie samenhangende bevoegdheden jegens de betrokken subsidieaanvragers en -ontvangers aan gedeputeerde staten gedelegeerd, met inbegrip van het nemen van besluiten als bedoeld in [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en van andere met de desbetreffende subsidie samenhangende besluiten.   
 3.  Bij het besluit, bedoeld in het eerste en het tweede lid, kunnen ook andere verplichtingen jegens derden dan de in het eerste lid bedoelde verplichtingen aan gedeputeerde staten worden overgedragen, met dien verstande dat slechts die verplichtingen voor overdracht in aanmerking komen die door Onze Minister of Onze Minister wie het aangaat zijn aangegaan in het kader van de verwezenlijking van het gebiedsgericht beleid.   
 4.  Het besluit, bedoeld in het eerste, tweede en derde lid, wordt bekendgemaakt in de Staatscourant.   
-5.  De middelen die benodigd zijn voor de uitvoering van het eerste, tweede en derde lid maken deel uit van het investeringsbudget, bedoeld in de artikelen 7, eerste lid, onderdeel b, en 8, eerste lid.   
-6.  Artikel 11, eerste en derde lid, is niet van toepassing op de verplichtingen en bevoegdheden, bedoeld in het eerste lid. Op de relatie tussen gedeputeerde staten en de subsidieaanvrager of -ontvanger is het recht van toepassing, zoals dat gold onmiddellijk voor het tijdstip, bedoeld in het eerste lid.   
-7.  Bij regeling van Onze Minister of Onze Minister wie het aangaat kunnen ten aanzien van de in het eerste lid bedoelde subsidieaanvragers en -ontvangers: 
+5.  Op de relatie tussen gedeputeerde staten en de subsidieaanvrager of -ontvanger is het recht van toepassing, zoals dat gold onmiddellijk voor het tijdstip, bedoeld in het eerste lid.   
+6.  Bij regeling van Onze Minister of Onze Minister wie het aangaat kunnen ten aanzien van de in het eerste lid bedoelde subsidieaanvragers en -ontvangers: 
 
-a. in zoverre in afwijking van het vijfde lid, tweede volzin, aanvullende subsidievoorwaarden worden gesteld, ingeval dat noodzakelijk is om te voldoen aan bindende besluiten van organen van de Europese Unie;  
+a. in zoverre in afwijking van het vijfde lid aanvullende subsidievoorwaarden worden gesteld, ingeval dat noodzakelijk is om te voldoen aan bindende besluiten van organen van de Europese Unie;  
 
 b. de subsidiebedragen worden aangepast aan de prijs- en loonontwikkeling, voor zover dit voortvloeit uit het recht zoals dat gold onmiddellijk voor het in het eerste lid bedoelde tijdstip.     
-8.  Onder «gedeputeerde staten» wordt in dit artikel verstaan: gedeputeerde staten van de provincie waarin de subsidiabele activiteiten respectievelijk de activiteiten ten aanzien waarvan de verplichtingen, bedoeld in het derde lid, zijn aangegaan geheel of grotendeels plaatsvinden.   
-9.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.   
+7.  Onder «gedeputeerde staten» wordt in dit artikel verstaan: gedeputeerde staten van de provincie waarin de subsidiabele activiteiten respectievelijk de activiteiten ten aanzien waarvan de verplichtingen, bedoeld in het derde lid, zijn aangegaan geheel of grotendeels plaatsvinden.   
+8.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.   
+
+### Paragraaf  2  
+
+####Afwikkeling investeringsbudget landelijk gebied
+
+### Artikel  93a  
+
+In deze paragraaf wordt verstaan onder: 
+
+– *bestuursakkoord natuur:* samenstel van de door het Rijk en de provincies jegens elkaar aangegane verplichtingen, neergelegd in het op 20 september 2011 gesloten onderhandelingsakkoord decentralisatie natuur (bijlage 131283 bij Kamerstukken II 2011/12, 30 825, nr. 107), de op 7 december 2011 gesloten aanvullende overeenkomst (bijlage 144712 bij Kamerstukken II 2011/12, 30 825, nr. 143) en de op 8 februari 2012 overeengekomen uitvoeringsafspraken (bijlage 153993 bij Kamerstukken II 2011/12, 30 825, nr. 153);  
+
+– *ILG-bestuursovereenkomst:* bestuursovereenkomst voor het investeringstijdvak van 2007 tot en met 2013, gesloten op grond van artikel 7, eerste lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze paragraaf;  
+
+– *investeringsbudget landelijk gebied:* investeringsbudget voor het investeringstijdvak lopende van 2007 tot en met 2013, verleend op grond van artikel 8, eerste lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze paragraaf;  
+
+– *voorschot:* voorschot van het investeringsbudget landelijk gebied als bedoeld in artikel 8, tweede lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze paragraaf.    
+
+### Artikel  93b  
+
+De beschikking tot verlening van het investeringsbudget landelijk gebied en de verplichtingen tussen het Rijk en de onderscheiden provincies die voortvloeien uit de ILG-bestuursovereenkomst en uit de verlening van het investeringsbudget landelijk gebied vervallen.  
+
+### Artikel  93c  
+
+Onze Minister keert aan elke provincie het bedrag uit waarop de provincie overeenkomstig het bestuursakkoord natuur aanspraak maakt wegens in de jaren 2007 tot en met 2010 ten laste van het investeringsbudget landelijk gebied gedane bestedingen.  
+
+### Artikel  93d  
+
+Onze Minister keert voor het jaar 2011 de volgende bedragen uit: 
+
+– 36.325.000 euro aan de provincie Drenthe;  
+
+– 10.426.000 euro aan de provincie Flevoland;  
+
+– 46.892.000 euro aan de provincie Friesland;  
+
+– 72.091.000 aan de provincie Gelderland;  
+
+– 25.346.000 euro aan de provincie Groningen;  
+
+– 52.430.000 euro aan de provincie Limburg;  
+
+– 57.782.000 euro aan de provincie Noord-Brabant;  
+
+– 77.006.000 euro aan de provincie Noord-Holland;  
+
+– 53.611.000 euro aan de provincie Overijssel;  
+
+– 56.645.000 euro aan de provincie Utrecht;  
+
+– 18.881.000 euro aan de provincie Zeeland;  
+
+– 136.137.000 euro aan de provincie Zuid-Holland.    
+
+### Artikel  93e  
+
+1.  Op de onderscheiden uitkeringen, bedoeld in de artikelen 93c en 93d, worden in mindering gebracht de voor de in die artikelen genoemde jaren ten behoeve van de provincie overgemaakte voorschotten. Op de uitkering, bedoeld in artikel 93c, worden tevens in mindering gebracht de voor de jaren 2007 tot en met 2010 aan de provincie: 
+
+a. uit het Europees Landbouwfonds voor Plattelandsontwikkeling op grond van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling (ELPO) (PbEU L 277) verstrekte middelen voor in de ILG-bestuursovereenkomst genoemde doelen en prestaties ten aanzien van agrarisch natuurbeheer, en  
+
+b. door tussenkomst van de Stichting Groenfonds te ’s Gravenhage en in voorkomend geval de Vereniging Natuurmonumenten ter beschikking gestelde rijksmiddelen die de provincie heeft besteed voor de verstrekking van subsidies aan particuliere terreinbeherende natuurbeschermingsorganisaties voor verwerving van grond en beëindiging van pachtovereenkomsten in de provincie.     
+2.  Onze Minister stelt, na overleg met gedeputeerde staten van de provincie, de hoogte van de uitkering, bedoeld in artikel 93c, vast.   
+3.  Onze Minister stelt met betrekking tot de onderscheiden uitkeringen, bedoeld in de artikelen 93c en 93d, het overeenkomstig het eerste lid berekende verschil vast.   
+4.  Ingeval het verschil, bedoeld in het derde lid: 
+
+a. meer is dan nihil, geeft de in dat lid bedoelde vaststelling aanspraak op betaling van het verschil door Onze Minister;  
+
+b. minder is dan nihil, geeft de in dat lid bedoelde vaststelling aanspraak op betaling van het verschil door gedeputeerde staten.     
+5.  Zolang de in het tweede en derde lid bedoelde vaststellingen met betrekking tot de uitkering, bedoeld in artikel 93c, ten aanzien van een of meer provincies nog niet onherroepelijk is, kan Onze Minister de vaststellingen ten aanzien van deze provincies en elk van de andere provincies wijzigen.   
+
+### Artikel  93f  
+
+De uitkering, bedoeld in artikel 93d, wordt in mindering gebracht op het totale bedrag van de in het bestuursakkoord natuur voorziene decentralisatie-uitkeringen voor de jaren 2011, 2012 en 2013.  
+
+### Artikel  93g  
+
+[Artikel 17a van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is niet van toepassing op de financiële bijdragen aan de provincies, bedoeld in de artikelen 93c en 93d.  
+
+### Artikel  93h  
+
+1.  In zoverre in afwijking van artikel 93b blijven, voor zover Onze Minister en Onze Ministers wie het mede aangaat met gedeputeerde staten niet anders overeenkomen, tot 1 januari 2014 geldig de in de ILG-bestuursovereenkomst aangegane verplichtingen die betrekking hebben op projecten als bedoeld in [artikel 3 van de Wet Fonds economische structuurversterking](../../../../../../wet/wet/fonds/economische/structuurversterking/BWBR0007788/README.md).   
+2.  De ingevolge de ILG-bestuursovereenkomst voor de realisatie van de in het eerste lid bedoelde projecten genoemde middelen voor: 
+
+a. de jaren 2007 tot en met 2010 zijn begrepen in de uitkering, bedoeld in artikel 93c, voor zover de middelen in die jaren zijn besteed;  
+
+b. het jaar 2011 zijn begrepen in de uitkering, bedoeld in artikel 93d, eerste en tweede lid;  
+
+c. de jaren 2012 en 2013 alsmede de ingevolge de ILG-bestuursovereenkomst voor de realisatie van de in het eerste lid bedoelde projecten genoemde middelen voor de jaren 2007 tot en met 2010 die in die jaren niet aan de projecten zijn besteed zijn begrepen in de decentralisatie-uitkeringen voor de jaren 2012 en 2013 als voorzien in het bestuursakkoord, met inachtneming van artikel 93f en met dien verstande dat op die uitkeringen in mindering worden gebracht de in voorkomend geval voor 2012 en 2013 ten laste van de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie of van het Ministerie van Infrastructuur en Milieu verstrekte middelen.     
+
+### Paragraaf  3  
+
+####Overgangs- en slotbepalingen
 
 ### Artikel  94  
 
@@ -880,14 +849,9 @@ Wijzigt deze wet.
 
 ### Artikel  95  
 
-1.  De [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) wordt ingetrokken.   
-2.  De [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) blijft van toepassing op landinrichtingsprojecten die reeds in voorbereiding of in uitvoering zijn.   
+1.  De [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) wordt ingetrokken.  De [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) blijft van toepassing op landinrichtingprojecten die reeds in voorbereiding of in uitvoering zijn, met dien verstande dat in [artikel 187, eerste lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) in plaats van de zinsnede «vast recht, als bedoeld in de [Wet tarieven in burgerlijke zaken](../../../../../../wet/wet/tarieven/in/burgerlijke/zaken/BWBR0001852/README.md) (Stb. 1960, 541)» wordt gelezen: «griffierecht, als bedoeld in de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) » en met dien verstande dat, nadat de lijst der geldelijke regelingen door de rechtbank is gesloten overeenkomstig [artikel 217, eerste lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), het door de eigenaar verschuldigde bedrag, bedoeld in [artikel 223, tweede lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) wordt gecorrigeerd met een door gedeputeerde staten vastgestelde correctiefactor, zijnde het quotiënt van de definitieve kosten en de kosten zoals deze oorspronkelijk in de lijst der geldelijke regelingen waren opgenomen.  
 3.  In afwijking van het tweede lid worden landinrichtingsprojecten ten aanzien waarvan nog geen toepassing is gegeven aan [artikel 198 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) alsmede herverkavelingen op basis van de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), vanaf het tijdstip van inwerkingtreding van dit artikel uitgevoerd met inachtneming van het bij of krachtens deze wet bepaalde.   
 4.  Bij regeling van Onze Minister wordt ten aanzien van de in het derde lid bedoelde landinrichtingsprojecten en herverkavelingen bepaald op welke wijze procedure-onderdelen en besluiten op basis van de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) of de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) worden gelijkgesteld met procedure-onderdelen en besluiten op basis van deze wet. Bij deze regeling kan, in afwijking van het derde lid, worden bepaald dat naar gelang de voortgang of overige omstandigheden van een landinrichtingsproject of herverkaveling als bedoeld in het derde lid, bepalingen van deze wet ten aanzien van dat landinrichtingsproject of die herverkaveling buiten toepassing blijven dan wel bepalingen uit de [Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) of de [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) daarop van toepassing blijven.   
-
-### Artikel  96  
-
-De [Wet van 22 april 2004, tot wijziging van de Landinrichtingswet en enige andere inrichtingswetten (positie van de Centrale Landinrichtingscommissie)](../../../../../../wet/wijzigingswet/landinrichtingswet/enz./(positie/van/de/centrale/etc/BWBR0016636/README.md) wordt ingetrokken.  
 
 ### Artikel  97  
 
@@ -898,62 +862,19 @@ Voor zoveel nodig in afwijking van [artikel 10:3, eerste en tweede lid, van de A
 1.  Indien de landinrichtingscommissie ten behoeve van een landinrichtingsproject nog niet de uitkomsten van de eerste schatting in een register van schattingsuitkomsten als bedoeld in [artikel 167 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) heeft vastgelegd, nog geen plan van toedeling als bedoeld in [artikel 196 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) heeft ontworpen dan wel nog geen lijst der geldelijke regelingen als bedoeld in [artikel 211 van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md) heeft opgemaakt, gelden voor dat landinrichtingsproject vastgestelde besluiten op grond van de [artikelen 163](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), [195, eerste lid](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), onderscheidenlijk [210, derde lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), zoals deze artikelen luidden voorafgaand aan de inwerkingtreding van de wet, genoemd in artikel 96, als besluiten op grond van de [artikelen 163](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), [195, eerste lid](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), onderscheidenlijk [210, derde lid, van de Landinrichtingswet](../../../../../../wet/landinrichtingswet/BWBR0003793/README.md), zoals deze luiden na inwerkingtreding van de wet, genoemd in artikel 96.   
 2.  Indien de herinrichtingscommissie ten behoeve van een herinrichtingsproject nog niet de uitkomsten van de eerste schatting in een register van uitkomsten der schattingen als bedoeld in [artikel 34, eerste lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) heeft vastgelegd, dan wel nog geen lijst der geldelijke regelingen als bedoeld in [artikel 108 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) heeft opgemaakt, gelden voor dat herinrichtingsproject vastgestelde besluiten op grond van de [artikelen 33, tweede lid](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), onderscheidenlijk [107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), zoals deze artikelen luidden voorafgaand aan inwerkingtreding van de wet, genoemd in artikel 96, als besluiten op grond van de [artikelen 33, tweede lid](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), onderscheidenlijk [107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), zoals deze luiden na inwerkingtreding van de wet, genoemd in artikel 96.   
 
-### Artikel  99  
-
-Wijzigt de Onteigeningswet.   
-
-### Artikel  100  
-
-Wijzigt de Algemene wet bestuursrecht.   
-
-### Artikel  101  
-
-Wijzigt de Kadasterwet.   
-
-### Artikel  102  
-
-Wijzigt de Ontgrondingenwet.   
-
-### Artikel  103  
-
-1.   Wijzigt de Pachtwet.    
-2.   Wijzigt het Burgerlijk Wetboek Boek 7.    
-
-### Artikel  104  
-
-Wijzigt de Provinciewet.   
-
-### Artikel  105  
-
-Wijzigt de Wet agrarisch grondverkeer.   
-
-### Artikel  106  
-
-Wijzigt de Wet milieubeheer.   
-
-### Artikel  107  
-
-Wijzigt de Wet op belastingen van rechtsverkeer.   
-
-### Artikel  108  
-
-Wijzigt de Wijzigingswet Pachtwet.   
-
-### Artikel  109  
-
-Wijzigt de Reconstructiewet concentratiegebieden.   
-
-### Artikel  110  
-
-De [Herverkavelingswet Walcheren 1947](../../../../../../wet/herverkavelingswet/walcheren/1947/BWBR0002034/README.md) wordt ingetrokken.  
-
 ### Artikel  111  
 
 Na de inwerkingtreding van deze wet berust het [Besluit herverkaveling reconstructie concentratiegebieden](../../../../../../AMvB/besluit/herverkaveling/BWBR0019827/README.md) op artikel 63 van deze wet.  
 
-### Artikel  112  
+### Artikel  111a  
 
-Wijzigt de Wet op de economische delicten.   
+De artikelen 93 tot en met 95 vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.  
+
+### Artikel  111b  
+
+1.  De [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) vervalt op een bij koninklijk besluit te bepalen tijdstip.   
+2.  De [Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) blijft van toepassing op reconstructieplannen als bedoeld in [artikel 11 van die wet](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) die reeds waren vastgesteld vóór het tijdstip van inwerkingtreding van dit artikel, tenzij deze plannen door provinciale staten zijn of worden ingetrokken, met dien verstande dat in afwijking van [artikel 92 van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), de kosten van de schadevergoedingen, bedoeld in de [artikelen 13, derde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [30, eerste lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), en [47, vierde lid, van die wet](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), ten laste van de desbetreffende provincie komen, en dat de [artikelen 7, derde en vierde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [9](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [10](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [12, tweede lid, tweede volzin, en derde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [16, derde lid](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [17](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) en [26, tweede lid, van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) niet van toepassing zijn.   
+3.  Voor een goede uitvoering van het tweede lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 
 ### Artikel  113  
 

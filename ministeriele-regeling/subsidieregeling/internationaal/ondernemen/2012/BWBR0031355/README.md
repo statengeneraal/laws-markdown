@@ -13,11 +13,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
+– *minister:* Minister van Economische Zaken;  
 
 – *ondernemersorganisatie:* een stichting of een vereniging met volledige rechtsbevoegdheid die blijkens haar statuten tot doel heeft de belangen te behartigen van ondernemingen of organisaties van ondernemingen, die beschikt over deskundigheid op het gebied van internationaal ondernemen en die zich als ondernemersorganisatie in de zin van deze regeling bij de minister heeft aangemeld;  
 
-– *ondersteuner:* een ondernemersorganisatie, een kamer van koophandel en fabrieken of Syntens;  
+– *ondersteuner:* een ondernemersorganisatie en de Kamer van Koophandel;  
 
 – *ondersteuningstraject:* alle activiteiten, die een ondersteuner ten behoeve van een MKB-ondernemer, bij het versterken van de voorwaarden voor duurzaam internationaal ondernemen van zijn onderneming, verricht ter ondersteuning bij het inventariseren van de sterktes en zwaktes, kansen en bedreigingen van de onderneming op het gebied van internationaal ondernemen en bij het aangeven van activiteiten die nodig zijn voor de planmatige bewerking van een of meer buitenlandse markten.    
 
@@ -187,12 +187,12 @@ De Europese Commissie kan onrechtmatige steun nog gedurende tien jaar na de verl
 
 ####Let op!
 
-Het is belangrijk om zorgvuldig na te gaan of in uw geval de steundrempel niet wordt overschreden. Immers bij overschrijding van de drempel kan geen beroep meer worden gedaan op de de-minimis verordening. Handelen in strijd met de staatssteunregels uit het VWEU kan in het ergste geval leiden tot terugvordering van de verleende steun! Uiteraard vult u alléén de rubriek(en) in die op uw situatie van toepassing is/zijn. Vergeet u vooral niet om de bijlage(n) bij te sluiten!   ![249954](http://wetten.overheid.nl/Illustration/249954)
-![249954](http://wetten.overheid.nl/Illustration/249954)
+Het is belangrijk om zorgvuldig na te gaan of in uw geval de steundrempel niet wordt overschreden. Immers bij overschrijding van de drempel kan geen beroep meer worden gedaan op de de-minimis verordening. Handelen in strijd met de staatssteunregels uit het VWEU kan in het ergste geval leiden tot terugvordering van de verleende steun! Uiteraard vult u alléén de rubriek(en) in die op uw situatie van toepassing is/zijn. Vergeet u vooral niet om de bijlage(n) bij te sluiten!   ![249952](http://wetten.overheid.nl/Illustration/249952)
+![249953](http://wetten.overheid.nl/Illustration/249953)
 ![249954](http://wetten.overheid.nl/Illustration/249954)
 
 ### Bijlage  2  
 
-![249956](http://wetten.overheid.nl/Illustration/249956)
+![249955](http://wetten.overheid.nl/Illustration/249955)
 ![249956](http://wetten.overheid.nl/Illustration/249956)
 

@@ -15,7 +15,9 @@ In deze regeling wordt verstaan onder:
 
 *besluit:*[Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md);  
 
-*minister:* minister van Infrastructuur en Milieu.    
+*minister:* minister van Infrastructuur en Milieu;  
+
+*SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh.    
 
 ### Hoofdstuk  2  
 
@@ -182,7 +184,8 @@ c. andere handelingen dan bedoeld onder a of b, indien de hoeveelheid te onttrek
 ### Artikel  6.4  
 
 1.  Bij een melding van het onttrekken van grondwater als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden de gegevens genoemd in artikel 6.27 verstrekt.   
-2.  Bij een melding van het infiltreren van water als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) worden de gegevens genoemd in artikel 6.28 verstrekt.   
+2.  Indien een melding als bedoeld in het eerste lid betrekking heeft op het onttrekken van grondwater ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, eerste lid, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden tevens de gegevens, genoemd in artikel 6.29, verstrekt.   
+3.  Bij een melding van het infiltreren van water als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) worden de gegevens genoemd in artikel 6.28 verstrekt.   
 
 ### Artikel  6.5  
 
@@ -247,11 +250,7 @@ g. geen werken of onderdelen daarvan, materiaal of materieel uit de damwand stek
 
 ### Artikel  6.10  
 
-[Artikel 6.12, tweede lid, onderdelen a en b, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) is niet van toepassing op kanalen voor wat betreft de bouwwerken en activiteiten bedoeld in: 
-
-a. artikel 2, onderdelen 3, 18, onder a, en 21, van [bijlage II bij het Besluit omgevingsrecht](../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);  
-
-b. artikel 4, onderdelen 1 en 2, van [bijlage II bij het Besluit omgevingsrecht](../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md).    
+[Artikel 6.12, tweede lid, aanhef en onderdeel a, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) is niet van toepassing op kanalen.  
 
 ### §  4.2  
 
@@ -269,7 +268,7 @@ c. het plaatsen van een in- of uitstroomvoorziening, mits de in- of uitstroomsne
 
 d. het plaatsen van een steiger, vlonder of aanmeervoorziening, inclusief de bijbehorende voorzieningen, voor zover deze gelegen zijn buiten de vaarweg en bestemd zijn voor niet-bedrijfsmatig gebruik, dan wel naar aard en omvang vergelijkbaar overig gebruik;  
 
-e. het plaatsen van informatieborden, informatiezuilen, reclameborden, reclamezuilen, sport- en speeltoestellen, gedenktekens, kunstobjecten of in aard en omvang hiermee vergelijkbare objecten, waarvoor geen of een beperkte fundering vereist is;  
+e. het plaatsen van informatieborden, informatiezuilen, reclameborden, reclamezuilen, sport- en speeltoestellen, gedenktekens, kunstobjecten, vlaggenmasten, tuin- en straatmeubilair of in aard en omvang hiermee vergelijkbare objecten, waarvoor geen of een beperkte fundering vereist is;  
 
 f. terreinophogingen van minder dan 50 m <sup>3</sup> per kadastraal perceel;  
 
@@ -387,7 +386,7 @@ d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats 
 
 ### Artikel  6.18  
 
-1.  Een schriftelijke aanvraag voor een watervergunning wordt gedaan door middel van het formulier opgenomen in bijlage IX bij deze regeling.   
+1.  Indien een aanvraag voor een watervergunning niet langs elektronische weg wordt ingediend, wordt gebruik gemaakt van een door Onze Minister vastgesteld formulier dat wordt gepubliceerd op en kan worden gedownload van www.omgevingsloket.nl. Het bevoegd gezag stelt op verzoek van de aanvrager het formulier aan hem ter beschikking.   
 2.  Een aanvraag voor een watervergunning langs elektronische wijze wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wet algemene bepalingen omgevingsrecht.   
 3.  Het bevoegd gezag is verantwoordelijk voor het beheer van de gegevens die zijn opgenomen in het deel van de landelijke voorziening dat hem ter beschikking staat. Dit beheer omvat in elk geval de verlening en beperking van toegang tot de gegevens omtrent een aanvraag en de zorg voor de archiefbescheiden.   
 4.  Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening is het bevoegd gezag verantwoordelijk in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
@@ -420,15 +419,15 @@ g. indien de aanvraag wordt ingediend door een gemachtigde: zijn naam, adres, wo
 
 ### Artikel  6.20  
 
-1.  Gegevens en bescheiden die langs elektronische weg bij de aanvraag worden verstrekt, worden aangeleverd in een van de volgende bestandsformaten: 
+1.  Gegevens en bescheiden die langs elektronische weg bij de aanvraag worden verstrekt, worden aangeleverd in een van de volgende archiefwaardige bestandsformaten: 
 
 a. foto’s: PNG en JPG;  
 
-b. scans: TIFF, JPG, PDF/A-1a en PDF/A-1b;  
+b. scans: TIFF, JPG, PDF/A-1a, PDF/A-1b en PDF 1.4;  
 
-c. officedocumenten: PDF/A-1a;  
+c. officedocumenten: PDF/A-1a en PDF 1.4;  
 
-d. tekeningen: PDF/X.     
+d. tekeningen: PDF/X en PDF 1.4.     
 2.  Indien de bestanden langs elektronische weg worden aangeleverd, worden deze uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt.   
 
 ### Artikel  6.21  
@@ -545,7 +544,7 @@ i. een beschrijving van de maatregelen of voorzieningen die zijn of worden getro
 
 ### Artikel  6.29  
 
-Indien een aanvraag voor een vergunning betrekking heeft op het onttrekken van grondwater of het brengen van water in de bodem ten behoeve van een bodemenergiesyteem als bedoeld in [artikel 6.4, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden onverminderd het bepaalde in de artikelen 6.27 en 6.28, de volgende gegevens verstrekt: 
+1.  Indien een aanvraag voor een vergunning betrekking heeft op het onttrekken van grondwater of het brengen van water in de bodem ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden onverminderd het bepaalde in de artikelen 6.27 en 6.28, de volgende gegevens verstrekt: 
 
 a. de capaciteit van de pomp waarmee het water in de bodem wordt gebracht in m <sup>3</sup> per uur;  
 
@@ -555,9 +554,15 @@ c. de wijze waarop water in de bodem wordt gebracht;
 
 d. de samenstelling van het in de bodem te brengen water;  
 
-e. een aanduiding van de hydrologische effecten van het in de bodem brengen van water, en  
+e. een aanduiding van de hydrologische effecten van het in de bodem brengen van water;  
 
-f. de minimum-, gemiddelde en maximumtemperaturen van het in de bodem te brengen water.    
+f. de minimum-, gemiddelde en maximumtemperaturen van het in de bodem te brengen water;  
+
+g. de omvang van de behoefte aan warmte en koude waarin het bodemenergiesysteem voorziet, en  
+
+h. het energierendement, uitgedrukt als de Seasonal Performance Factor (SPF), dat het bodemenergiesysteem zal behalen bij voorzien gebruik van het bouwwerk overeenkomstig de bestemming waarvoor het systeem is ontworpen, blijkend uit een schriftelijke verklaring van de installateur.     
+2.  Bij de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel h, over het energierendement dat een open bodemenergiesysteem bij de levering van warmte of koude aan een bouwwerk behaalt, wordt het energierendement bepaald overeenkomstig de volgende formule:   ![252268](http://wetten.overheid.nl/Illustration/252268)
+waarbij wordt verstaan onder: *Q <sub>w</sub>*: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid warmte per jaar in MWh; *Q <sub>k</sub>*: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid koude per jaar in MWh; *E*: de door het bodemenergiesysteem verbruikte hoeveelheid elektriciteit per jaar in MWh; *G*: de door het bodemenergiesysteem verbruikte hoeveelheid gas per jaar in MWh.   
 
 ### Artikel  6.30  
 
@@ -594,7 +599,7 @@ In dit hoofdstuk wordt verstaan onder:
 ### Artikel  7.2  
 
 1.  Het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik, VeO, wordt berekend door de som van het aantal gedurende elk etmaal van het heffingsjaar afgevoerde hoeveelheden zuurstofverbruik, uitgedrukt in kilogrammen, te delen door 54,8 kilogram.   
-2.  De gedurende een etmaal afgevoerde hoeveelheid zuurstofverbruik, uitgedrukt in kilogrammen, wordt berekend volgens de formule:   ![245798](http://wetten.overheid.nl/Illustration/245798)
+2.  De gedurende een etmaal afgevoerde hoeveelheid zuurstofverbruik, uitgedrukt in kilogrammen, wordt berekend volgens de formule:   ![245797](http://wetten.overheid.nl/Illustration/245797)
 waarbij: Q = het debiet in m <sup>3</sup> /etmaal; CZV = het chemisch zuurstofverbruik bepaald volgens de in artikel 7.15 vermelde analysevoorschriften, in mg/l; N <sub>Kj</sub> = de som van ammonium-stikstof en organisch gebonden stikstof, bepaald volgens de in artikel 7.16 vermelde analysevoorschriften, in mg/l.   
 3.  Indien de CZV-waarde voor ten minste 25% afkomstig is van biologisch niet of nagenoeg niet afbreekbare stoffen in het afvalwater, wordt op die waarde een correctie toegepast door deze te vermenigvuldigen met de breuk   ![245798](http://wetten.overheid.nl/Illustration/245798)
 waarbij: T = het percentage CZV, afkomstig van biologisch niet of nagenoeg niet afbreekbare stoffen. T wordt berekend bij: 
@@ -956,7 +961,7 @@ a. Het te lozen stedelijk afvalwater wordt geacht te voldoen aan de eisen betref
 
 4°. De concentratie totaal-stikstof in te lozen stedelijk afvalwater wordt uitgedrukt in de over het kalenderjaar berekende jaargemiddelde concentratie totaal-stikstof in dit afvalwater.    
 
-b. Het zuiveringsrendement wordt berekend als volgt:   ![245805](http://wetten.overheid.nl/Illustration/245805)
+b. Het zuiveringsrendement wordt berekend als volgt:   ![245804](http://wetten.overheid.nl/Illustration/245804)
 waarin: V <sub>i</sub> = hoeveelheid totaal-fosfaat respectievelijk totaal-stikstof in het per beheerder te zuiveren stedelijk afvalwater, in kg per jaar. V <sub>e</sub> = hoeveelheid totaal-fosfaat respectievelijk totaal-stikstof in het per beheerder te lozen stedelijk afvalwater, in kg per jaar. V <sub>i</sub> en V <sub>e</sub> worden berekend met de onderstaande formules:   ![245805](http://wetten.overheid.nl/Illustration/245805)
 waarin: r = het betrokken zuiveringtechnische werk n = het aantal zuiveringtechnische werken van een beheerder d = de betrokken bemonsteringsdag M <sub>r</sub> = het aantal bemonsteringsdagen per jaar voor inrichting r i <sub>rd</sub> = concentratie in het te zuiveren stedelijk afvalwater op dag d voor inrichting r in g/m <sup>3</sup> E <sub>rd</sub> = geloosde hoeveelheid stedelijk afvalwater op dag d door inrichting r in m <sup>3</sup> e <sub>rd</sub> = concentratie in het te lozen stedelijk afvalwater op dag d voor inrichting r in g/m <sup>3</sup> Voor de meting van de geloosde hoeveelheid stedelijk afvalwater (in m <sup>3</sup>) wordt een methode gehanteerd waarvan de onnauwkeurigheid in de debietmeting kleiner is dan 5%. Dit wordt door ijking vastgesteld.    
 
@@ -1005,8 +1010,3 @@ waarin: r = het betrokken zuiveringtechnische werk n = het aantal zuiveringtechn
 
 ![251299](http://wetten.overheid.nl/Illustration/251299)
 
-### Bijlage  IX  
-
-####Aanvraagformulier voor de watervergunning (bijlage bij artikel 6.18  van de Waterregeling)
-
-(herziene versie 2.2 (1 oktober 2010))  Ligt ter inzage op het Ministerie van Verkeer en Waterstaat, Hoofddirectie Juridische Zaken en is gepubliceerd op www.waterwet.nl.  

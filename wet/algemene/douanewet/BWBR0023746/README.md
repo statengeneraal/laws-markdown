@@ -20,9 +20,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  De bepalingen bij of krachtens deze wet vormen de nationale bepalingen ter uitvoering van: 
 
-a. het Communautair douanewetboek, de ter uitvoering daarvan vastgestelde communautaire bepalingen, en  
+a. het Communautair douanewetboek, de ter uitvoering daarvan vastgestelde EU-rechtshandelingen, en  
 
-b. andersluidende bepalingen, die uit autonome communautaire maatregelen als bedoeld in het Communautair douanewetboek, voortvloeien.     
+b. andersluidende bepalingen, die uit autonome maatregelen van de Europese Unie als bedoeld in het Communautair douanewetboek, voortvloeien.     
 2.  De bepalingen bij of krachtens deze wet strekken mede ten behoeve van de nakoming van verplichtingen die voortvloeien uit: 
 
 a. interregionaal recht,  
@@ -31,8 +31,8 @@ b. het Koninkrijk verbindende verdragen en
 
 c. in al hun onderdelen verbindende besluiten van bij zodanige verdragen opgerichte volkenrechtelijke organisaties, voorzover deze verplichtingen betrekking hebben op het douanetoezicht op, dan wel op de douanecontrole van, goederen en het goederenverkeer en voorts onderwerpen betreffen die vallen onder de reikwijdte van een of meer regelingen als bedoeld in de bijlage bij deze wet.     
 3.  De bepalingen bij of krachtens deze wet strekken mede ten behoeve van de nakoming van verplichtingen die voortvloeien uit regelingen van internationaal recht tot het verlenen van wederzijdse administratieve bijstand inzake goederen en goederenverkeer.   
-4.  De bepalingen bij of krachtens deze wet strekken mede tot uitvoering van gemeenschappelijke optredens, gemeenschappelijke standpunten, kaderbesluiten, besluiten en overeenkomsten die zijn aangenomen dan wel vastgesteld door de Raad van de Europese Unie, voorzover deze betrekking hebben op goederen en goederenverkeer en voorts onderwerpen betreffen die vallen onder de reikwijdte van een of meer regelingen als bedoeld in de bijlage bij deze wet.   
-5.  De bepalingen bij of krachtens deze wet strekken mede ter handhaving van verboden of beperkingen die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van, het douanegebied van de Gemeenschap dan wel de gebieden, bedoeld in artikel 1:2, of bij het kiezen van een douanebestemming van toepassing zijn of zouden zijn bij of krachtens een communautair of ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet.   
+4.  De bepalingen bij of krachtens deze wet strekken mede tot uitvoering van bindende EU-rechtshandelingen, voorzover deze betrekking hebben op goederen en goederenverkeer en voorts onderwerpen betreffen die vallen onder de reikwijdte van een of meer regelingen als bedoeld in de bijlage bij deze wet.   
+5.  De bepalingen bij of krachtens deze wet strekken mede ter handhaving van verboden of beperkingen die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van, het douanegebied van de Unie dan wel de gebieden, bedoeld in artikel 1:2, of bij het kiezen van een douanebestemming van toepassing zijn of zouden zijn bij of krachtens een bindende EU-rechtshandeling of een ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet.   
 6.  Bij algemene maatregel van bestuur kunnen wijzigingen worden aangebracht in de bijlage bij deze wet.   
 
 ### Artikel  1:2  
@@ -41,11 +41,11 @@ Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zij
 
 ### Artikel  1:3  
 
-1.  In aanvulling op de begripsbepalingen van het Communautair douanewetboek, de toepassingsverordening Communautair douanewetboek en andere communautaire bepalingen wordt verstaan onder: 
+1.  In aanvulling op de begripsbepalingen van het Communautair douanewetboek, de toepassingsverordening Communautair douanewetboek en andere EU-regelgeving wordt verstaan onder: 
 
-a. Communautair douanewetboek: verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302);  
+a. Communautair douanewetboek: Verordening (EEG) nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek PbEG 1992, L 302);  
 
-b. toepassingsverordening Communautair douanewetboek: verordening (EEG) nr. 2454/93 van de Commissie van de Europese Gemeenschappen van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 253);  
+b. toepassingsverordening Communautair douanewetboek: Verordening (EEG) nr. 2454/93 van de Commissie van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG 1993, L 253);  
 
 c. inspecteur of ontvanger: functionaris die met de toepassing van deze wet is belast en als zodanig bij regeling van Onze Minister van Financiën, in voorkomend geval, in overeenstemming met Onze Minister wie het mede aangaat, is aangewezen;  
 
@@ -64,15 +64,15 @@ a. indien het een aanwijzing betreft ter zake van taken in het kader van de [Wet
 b. indien het een aanwijzing betreft ter zake van andere taken dan bedoeld in onderdeel a, de bevoegdheden, bedoeld in de artikelen 1:26, 1:28, 1:30, 1:36 en 1:37;  
 
 c. de bevoegdheid, bedoeld in artikel 1:23, indien de plaats een woning betreft.     
-4.  Het derde lid, onderdeel c, is niet van toepassing indien het betreft een controle ter zake van de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Prijzennoodwet](../../../../wet/prijzennoodwet/BWBR0003734/README.md), de [Uitvoeringswet verdrag chemische wapens](../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md), de [Waarborgwet 1986](../../../../wet/waarborgwet/1986/BWBR0009275/README.md), de [Destructiewet](../../../../wet/destructiewet/BWBR0002244/README.md), de [Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), de [Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), de [Wet tot behoud van cultuurbezit](../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet vervoer over zee](../../../../wet/wet/vervoer/over/zee/BWBR0003528/README.md), de [Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), de [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-5.  Onze Minister van Financiën sluit met Onze Ministers wie het mede aangaat convenanten aangaande de kwantitatieve en kwalitatieve inzet van de functionarissen die ressorteren onder de rijksbelastingdienst met betrekking tot de douanecontrole van het bepaalde bij of krachtens een communautair of ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet.   
+4.  Het derde lid, aanhef en onderdeel c, is niet van toepassing indien het betreft een controle ter zake van de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Prijzennoodwet](../../../../wet/prijzennoodwet/BWBR0003734/README.md), de [Uitvoeringswet verdrag chemische wapens](../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md), de [Waarborgwet 1986](../../../../wet/waarborgwet/1986/BWBR0009275/README.md), de [Destructiewet](../../../../wet/destructiewet/BWBR0002244/README.md), de [Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), de [Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), de [Wet tot behoud van cultuurbezit](../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet vervoer over zee](../../../../wet/wet/vervoer/over/zee/BWBR0003528/README.md), de Wet zeevarenden, de [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+5.  Onze Minister van Financiën sluit met Onze Ministers wie het mede aangaat convenanten aangaande de kwantitatieve en kwalitatieve inzet van de functionarissen die ressorteren onder de rijksbelastingdienst met betrekking tot de douanecontrole van het bepaalde bij of krachtens een bindende EU-rechtshandeling of ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet. Onze Minister van Financiën plaatst deze convenanten in de Staatscourant.   
 6.  Hetgeen in deze wet en de daarop rustende bepalingen is bepaald ten aanzien van de rechten bij invoer, is van overeenkomstige toepassing op de rechten bij uitvoer, tenzij anders is bepaald.   
 7.  Indien in het Communautair douanewetboek dan wel de toepassingsverordening Communautair douanewetboek bevoegdheden zijn opgedragen aan de lidstaten worden die bevoegdheden uitgeoefend door de inspecteur onderscheidenlijk de ontvanger. Hiervan kan worden afgeweken bij of krachtens deze wet.   
 
 ### Artikel  1:4  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen, ter uitwerking van interregionaal recht, het Koninkrijk verbindende verdragen en in al hun onderdelen verbindende besluiten van bij zodanige verdragen opgerichte volkenrechtelijke organisaties, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in artikel 1:2, van toepassing zijn.   
-2.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur kunnen, met betrekking tot de uitvoering van gemeenschappelijke optredens, gemeenschappelijke standpunten, kaderbesluiten, besluiten en overeenkomsten die zijn aangenomen dan wel vastgesteld door de Raad van de Europese Unie, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in artikel 1:2, van toepassing zijn.   
+2.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur kunnen, met betrekking tot de uitvoering van bindende EU-rechtshandelingen, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in artikel 1:2, van toepassing zijn.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitwerking van regelingen van internationaal recht tot het verlenen van wederzijdse administratieve bijstand.   
 4.  Onze Minister wie het aangaat, kan bevoegdheden, welke hem ingevolge het gestelde bij de in het eerste lid bedoelde algemene maatregel van bestuur toekomen, in een bij of krachtens die maatregel te bepalen omvang, aan het bestuur van een bedrijfslichaam dan wel zelfstandig bestuursorgaan overdragen en ten aanzien van de uitvoering ervan regels stellen.   
 
@@ -224,9 +224,9 @@ a. gebouwen, niet zijnde woningen, en terreinen:
 
 – ten aanzien waarvan ingevolge het bepaalde bij of krachtens de in artikel 1:1, eerste lid, bedoelde regelingen een beschikking is genomen;  
 
-– die erkend zijn als grensinspectiepost als bedoeld in artikel 2, tweede lid, onderdeel g, van richtlijn 97/78/EG van de Raad van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten die uit derde landen in de Gemeenschap worden binnengebracht (PbEG L 24, 1998);  
+– die erkend zijn als grensinspectiepost als bedoeld in artikel 2, tweede lid, onderdeel g, van Richtlijn 97/78/EG van de Raad van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten die uit derde landen in de Gemeenschap worden binnengebracht (PbEG 1998, L 24);  
 
-– die een goedgekeurde plaats van inspectie zijn als bedoeld in artikel 1, tweede lid, onderdeel b, van richtlijn 2004/103/EG van de Commissie van 7 oktober 2004 betreffende de controles van de identiteit en de fytosanitaire controles van in deel B van bijlage V bij Richtlijn 2000/29/EG van de Raad opgenomen planten, plantaardige producten en andere materialen, die kunnen worden uitgevoerd op een andere plaats dan de plaats van binnenkomst in de Gemeenschap of op een dichtbijgelegen plaats en tot vaststelling van de eisen met betrekking tot deze controles (PbEU L 313);    
+– die een goedgekeurde plaats van inspectie zijn als bedoeld in artikel 1, tweede lid, onderdeel b, van Richtlijn 2004/103/EG van de Commissie van 7 oktober 2004 betreffende de controles van de identiteit en de fytosanitaire controles van in deel B van bijlage V bij Richtlijn 2000/29/EG van de Raad opgenomen planten, plantaardige producten en andere materialen, die kunnen worden uitgevoerd op een andere plaats dan de plaats van binnenkomst in de Gemeenschap of op een dichtbijgelegen plaats en tot vaststelling van de eisen met betrekking tot deze controles (PbEU 2004, L 313);    
 
 b. gebouwen, niet zijnde woningen, en terreinen alwaar zich goederen bevinden: 
 
@@ -241,14 +241,14 @@ d. vervoermiddelen en de op of in die vervoermiddelen aanwezige woningen.
 
 ### Artikel  1:27  
 
-1.  De inspecteur is bevoegd met het oog op de uitoefening van de bevoegdheden, bedoeld in de artikelen 1:23, 1:24 dan wel 1:26, aanhef en onder d, van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt.   
+1.  De inspecteur is bevoegd met het oog op de uitoefening van de bevoegdheden, bedoeld in de artikelen 1:23, 1:24 dan wel 1:26, aanhef en onder d, van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.   
 2.  Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.   
 
 ### Artikel  1:28  
 
 1.  De inspecteur is bevoegd personen die aanwezig zijn in of op de in artikel 1:26 bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan lijfsvisitatie te onderwerpen.   
 2.  De in het eerste lid bedoelde personen zijn op vordering van de inspecteur gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.   
-3.  Op vordering van de inspecteur zijn reizigers, die zich bevinden in een vervoermiddel dat juist het douanegebied van de Gemeenschap is binnengekomen of dat bestemd is om aanstonds te vertrekken om dat douanegebied te verlaten, gehouden hun plaats- of vervoerbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die een dergelijk vervoermiddel juist hebben verlaten dan wel die op het punt staan daarin aan boord te gaan.   
+3.  Op vordering van de inspecteur zijn reizigers, die zich bevinden in een vervoermiddel dat juist het douanegebied van de Unie is binnengekomen of dat bestemd is om aanstonds te vertrekken om dat douanegebied te verlaten, gehouden hun plaats- of vervoerbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die een dergelijk vervoermiddel juist hebben verlaten dan wel die op het punt staan daarin aan boord te gaan.   
 4.  Lijfsvisitatie geschiedt op een besloten plaats door personen die, indien zij geen arts of verpleegkundige zijn, van hetzelfde geslacht zijn als de persoon die aan lijfsvisitatie wordt onderworpen.   
 5.  Onder lijfsvisitatie wordt verstaan: 
 
@@ -256,14 +256,14 @@ a. het onderzoek aan de kleding; het onderzoek aan de kleding omvat het betasten
 
 b. het verwijderen van de bovenkleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen;  
 
-c. het uitwendig en inwendig schouwen van de holten van het bovenlichaam, zonodig met de daartoe benodigde ontkleding;  
+c. het uitwendig en inwendig schouwen van de openingen en holten van het bovenlichaam, zonodig met de daartoe benodigde ontkleding;  
 
 d. het geheel ontkleden en het uitwendig schouwen van het lichaam;  
 
 e. het onderzoek van het onderlichaam; onder onderzoek van het onderlichaam wordt verstaan het uitwendig schouwen van de openingen en holten van het onderlichaam; het uitwendig schouwen van de openingen en holten van het onderlichaam wordt verricht door een arts of, in diens opdracht, door een verpleegkundige.     
 6.  Tot gehele ontkleding dan wel het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen, wordt pas overgegaan na toestemming van een ambtenaar die daartoe bij regeling van Onze Minister van Financiën, in overeenstemming met Onze Minister wie het mede aangaat, is aangewezen.   
 7.  Onder lijfsvisitatie wordt mede verstaan het onderzoek met behulp van apparatuur waarmee door kleding van de betrokken persoon kan worden gekeken.   
-8.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden vastgesteld met betrekking tot het onderzoek van het onderlichaam en met betrekking tot de apparatuur waarmee door kleding van personen kan worden gekeken en het gebruik daarvan. Hierbij kan worden bepaald dat het vierde lid niet van toepassing is bij het gebruik van deze apparatuur.   
+8.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden vastgesteld met betrekking tot het geheel ontkleden of het onderzoek van het onderlichaam en met betrekking tot de apparatuur waarmee door kleding van personen kan worden gekeken en het gebruik daarvan. Hierbij kan worden bepaald dat het vierde lid niet van toepassing is bij het gebruik van deze apparatuur.   
 
 ### Artikel  1:29  
 
@@ -285,7 +285,7 @@ Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het me
 
 ### Artikel  1:32  
 
-1.  Onverminderd artikel 1:5 van deze wet en de communautaire bepalingen ter zake, zijn [artikel 15i van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [artikelen 10](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [24 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing: 
+1.  Onverminderd artikel 1:5 van deze wet en de EU-regelgeving ter zake, zijn [artikel 15i van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [artikelen 10](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [24 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing: 
 
 a. op de rechten en verplichtingen voortvloeiend uit het bepaalde bij of krachtens: 
 
@@ -306,7 +306,7 @@ b. op overige van belang zijnde gegevens voor de toepassing van het bepaalde bij
 1.  Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, verschaffen kosteloos, mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur –, de gegevens en inlichtingen, die hun door de inspecteur worden gevraagd voor de uitvoering van het bepaalde bij of krachtens de in artikel 1:1 bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.   
 2.  Onze Minister van Financiën kan, op verzoek, ontheffing verlenen van de in het eerste lid omschreven verplichting.   
 3.  De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk voorzover deze noodzakelijk zijn voor de uitvoering van het bepaalde bij of krachtens de in artikel 1:1 bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.   
-4.  De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan de douaneautoriteiten van de lidstaten of de Commissie van de Europese Gemeenschappen, bedoeld in artikel 13, vierde lid, van het Communautair douanewetboek.   
+4.  De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan de douaneautoriteiten van de lidstaten of de Europese Commissie, bedoeld in artikel 13, vierde lid, van het Communautair douanewetboek.   
 
 ### Artikel  1:34  
 
@@ -334,7 +334,7 @@ Bij verificatie van een aangifte worden de resultaten van het onderzoek van de g
 
 ### Hoofdstuk  2  
 
-####Bepalingen die op de in het douanegebied van de Gemeenschap binnengebrachte goederen van toepassing zijn tot deze een douanebestemming hebben gekregen
+####Bepalingen die op de in het douanegebied van de Unie binnengebrachte goederen van toepassing zijn tot deze een douanebestemming hebben gekregen
 
 ### Afdeling  2.1  
 
@@ -372,7 +372,7 @@ m. het in kennis stellen van de inspecteur voorafgaand aan de wederuitvoer dan w
 
 ### Artikel  2:2  
 
-Goederen aangevoerd uit zee of door de lucht worden, behoudens tegenbewijs, geacht uit zee onderscheidenlijk door de lucht het douanegebied van de Gemeenschap te zijn binnengekomen.  
+Goederen aangevoerd uit zee of door de lucht worden, behoudens tegenbewijs, geacht uit zee onderscheidenlijk door de lucht het douanegebied van de Unie te zijn binnengekomen.  
 
 ### Afdeling  2.2  
 
@@ -393,32 +393,32 @@ b. de goederen geen toegelaten douanebestemming kunnen krijgen in verband met de
 
 ### Artikel  3:1  
 
-Onverminderd de communautaire bepalingen ter zake kunnen bij of krachtens algemene maatregel van bestuur verboden of beperkingen ten aanzien van goederen worden vastgesteld, die bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in artikel 1:2, van toepassing zijn.  
+Onverminderd de EU-regelgeving ter zake kunnen bij of krachtens algemene maatregel van bestuur verboden of beperkingen ten aanzien van goederen worden vastgesteld, die bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in artikel 1:2, van toepassing zijn.  
 
 ### Artikel  3:2  
 
-1.  De aangifte, bedoeld in artikel 3, eerste lid, van verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van de Europese Unie van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (PbEU L 309) (verordening), wordt schriftelijk gedaan.   
+1.  De aangifte, bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (PbEU 2005, L 309), wordt schriftelijk gedaan.   
 2.  De identiteit van de aangever wordt vastgesteld met behulp van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
 3.  Bij regeling van Onze Minister van Financiën: 
 
 a. wordt een aangifteformulier vastgesteld;  
 
-b. worden regels gesteld omtrent de bij de uitvoering van de verordening: 
+b. worden regels gesteld omtrent de bij de uitvoering van de verordening, genoemd in het eerste lid: 
 
-1°. in aanmerking te nemen wisselkoers ter bepaling van de tegenwaarde in euro’s van liquide middelen als bedoeld in artikel 2, onderdeel 2, van de verordening, waarvan het bedrag is uitgedrukt in een andere valuta;  
+1°. in aanmerking te nemen wisselkoers ter bepaling van de tegenwaarde in euro’s van liquide middelen als bedoeld in artikel 2, onderdeel 2, van die verordening, waarvan het bedrag is uitgedrukt in een andere valuta;  
 
-2°. in aanmerking te nemen waarde van verhandelbare instrumenten aan toonder als bedoeld in artikel 2, onderdeel 2, onder a, van de verordening.       
-4.  Bij regeling van Onze Minister van Financiën kunnen, in afwijking van het eerste lid, regels worden gesteld op grond waarvan de in artikel 3, eerste lid, van de verordening bedoelde aangifte langs elektronische weg kan worden gedaan.   
+2°. in aanmerking te nemen waarde van verhandelbare instrumenten aan toonder als bedoeld in artikel 2, onderdeel 2, onder a, van die verordening.       
+4.  Bij regeling van Onze Minister van Financiën kunnen, in afwijking van het eerste lid, regels worden gesteld op grond waarvan de aangifte, genoemd in artikel 3 van de in het eerste lid genoemde verordening, langs elektronische weg kan worden gedaan.   
 
 ### Artikel  3:3  
 
-1.  Een beslissing tot inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van de Europese Unie van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (verordening) wordt door de inspecteur schriftelijk genomen. De schriftelijke beslissing wordt aangemerkt als een beschikking. De bekendmaking daarvan geschiedt hetzij aan de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van de verordening heeft voldaan, hetzij, indien deze persoon onbekend is, in het openbaar volgens bij regeling van Onze Minister van Financiën te stellen regels.   
+1.  Een beslissing tot inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van Verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (PbEU 2005, L 309) wordt door de inspecteur schriftelijk genomen. De schriftelijke beslissing wordt aangemerkt als een beschikking. De bekendmaking daarvan geschiedt hetzij aan de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van die verordening heeft voldaan, hetzij, indien deze persoon onbekend is, in het openbaar volgens bij regeling van Onze Minister van Financiën te stellen regels.   
 2.  De beschikking vermeldt welke gegevens in strijd met de aangifteplicht niet, onvolledig of onjuist zijn verstrekt en verwijst naar de algemene maatregel van bestuur, bedoeld in het zevende lid.   
-3.  De inspecteur is bevoegd de inbewaringneming van de liquide middelen te doen voortduren zolang de nodige gegevens, bedoeld in artikel 3, tweede lid, van de verordening, ontbreken.   
+3.  De inspecteur is bevoegd de inbewaringneming van de liquide middelen te doen voortduren zolang de nodige gegevens, bedoeld in artikel 3, tweede lid, van de verordening, genoemd in het eerste lid, ontbreken.   
 4.  De inbewaringneming van de liquide middelen wordt beëindigd door strafrechtelijke inbeslagneming of door een schriftelijke beslissing van de inspecteur. Een schriftelijke beslissing van de inspecteur als bedoeld in de eerste volzin wordt aangemerkt als een beschikking. Het eerste lid, derde volzin, is met betrekking tot deze beschikking van overeenkomstige toepassing.   
 5.  De beschikking, bedoeld in het vierde lid, vermeldt het tijdstip van beëindiging van de inbewaringneming van de liquide middelen en vermeldt voorts dat deze nog tot en met het kalenderjaar dat volgt op het jaar waarin de in het vierde lid bedoelde beschikking is bekendgemaakt, ter uitkering door de inspecteur aan een rechthebbende beschikbaar blijven voorzover de liquide middelen niet strekken tot voldoening van kosten als bedoeld in het zevende lid.   
 6.  Indien liquide middelen die beschikbaar blijven in de zin van het vijfde lid niet voor afloop van het kalenderjaar dat volgt op het jaar waarin de in het vierde lid bedoelde beschikking is bekendgemaakt, aan een rechthebbende zijn uitgekeerd, wordt hetzij het bedrag daarvan, hetzij – voorzover de liquide middelen geen Nederlandse wettige betaalmiddelen zijn – de verkoopopbrengst daarvan opgenomen in de consignatiekas. [Artikel 9, tweede tot en met zesde lid, van de Wet op de consignatie van gelden](../../../../wet/wet/op/de/consignatie/van/gelden/BWBR0003338/README.md) blijft buiten toepassing.   
-7.  Bij algemene maatregel van bestuur kunnen gevallen worden vastgesteld waarin de kosten verbonden aan een inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van de verordening, geheel of gedeeltelijk dienen te worden vergoed door de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van de verordening heeft voldaan. Heffing en invordering van te vergoeden kosten geschieden overeenkomstig de wettelijke regels voor de heffing, onderscheidenlijk invordering, van kosten van ambtelijke werkzaamheden als bedoeld in artikel 1:19.   
+7.  Bij algemene maatregel van bestuur kunnen gevallen worden vastgesteld waarin de kosten verbonden aan een inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van de verordening, genoemd in het eerste lid, geheel of gedeeltelijk dienen te worden vergoed door de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van die verordening heeft voldaan. Heffing en invordering van te vergoeden kosten geschieden overeenkomstig de wettelijke regels voor de heffing, onderscheidenlijk invordering, van kosten van ambtelijke werkzaamheden als bedoeld in artikel 1:19.   
 
 ### Hoofdstuk  4  
 
@@ -434,12 +434,12 @@ b. de oprichting en de werking van vrije entrepots.
 
 ### Hoofdstuk  5  
 
-####Goederen die het douanegebied van de Gemeenschap verlaten
+####Goederen die het douanegebied van de Unie verlaten
 
 ### Artikel  5:1  
 
-1.  Goederen aanwezig in of op schepen, op weg naar zee of bestemd om aanstonds naar zee te vertrekken, zomede goederen die op het punt staan om in die schepen te worden opgenomen, worden aangemerkt als goederen die over zee het douanegebied van de Gemeenschap zullen uitgaan, tenzij blijkt dat de goederen bestemd zijn voor een plaats in het douanegebied van de Gemeenschap en het vervoer zal geschieden zonder dat het schip het douanegebied van de Gemeenschap uitgaat.   
-2.  Goederen aanwezig in luchtvaartuigen, bestemd om aanstonds op te stijgen, zomede goederen die op het punt staan om in die luchtvaartuigen te worden opgenomen, worden aangemerkt als goederen die door de lucht het douanegebied van de Gemeenschap zullen uitgaan, tenzij blijkt dat de goederen bestemd zijn voor een plaats in het douanegebied van de Gemeenschap en het vervoer zal geschieden zonder dat het luchtvaartuig het douanegebied van de Gemeenschap uitgaat.   
+1.  Goederen aanwezig in of op schepen, op weg naar zee of bestemd om aanstonds naar zee te vertrekken, zomede goederen die op het punt staan om in die schepen te worden opgenomen, worden aangemerkt als goederen die over zee het douanegebied van de Unie zullen uitgaan, tenzij blijkt dat de goederen bestemd zijn voor een plaats in het douanegebied van de Unie en het vervoer zal geschieden zonder dat het schip het douanegebied van de Unie uitgaat.   
+2.  Goederen aanwezig in luchtvaartuigen, bestemd om aanstonds op te stijgen, zomede goederen die op het punt staan om in die luchtvaartuigen te worden opgenomen, worden aangemerkt als goederen die door de lucht het douanegebied van de Unie zullen uitgaan, tenzij blijkt dat de goederen bestemd zijn voor een plaats in het douanegebied van de Unie en het vervoer zal geschieden zonder dat het luchtvaartuig het douanegebied van de Unie uitgaat.   
 
 ### Hoofdstuk  6  
 
@@ -447,7 +447,7 @@ b. de oprichting en de werking van vrije entrepots.
 
 ### Artikel  6:1  
 
-1.  Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter uitwerking van Verordening (EG) nr. 1186/2009 van de Raad van de Europese Unie van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU L 324).   
+1.  Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter uitwerking van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU 2009, L 324).   
 2.  De bepalingen, bedoeld in het eerste lid, hebben betrekking op: 
 
 a. nadere voorwaarden waaronder vrijstelling wordt verleend;  
@@ -456,7 +456,7 @@ b. het beperken van de omvang van de vrijstelling;
 
 c. de aanwijzing van personen en openbare diensten die toestemming krijgen om goederen vrij van rechten in te voeren dan wel in ontvangst te nemen;  
 
-d. het verlenen van vrijstellingen als bedoeld in artikel 133, eerste lid, van de in het eerste lid genoemde verordening;  
+d. het verlenen van vrijstellingen als bedoeld in artikel 128, eerste lid, van de verordening, genoemd in het eerste lid;  
 
 e. het verlenen van vrijstellingen aan strijdkrachten die ter uitvoering van internationale overeenkomsten op Nederlands grondgebied zijn gestationeerd en die niet onder Nederlands gezag staan.     
 
@@ -466,7 +466,7 @@ Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgeste
 
 ### Artikel  6:3  
 
-Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter uitwerking van vrijstellingsbepalingen ingesteld bij andere communautaire besluiten dan Verordening (EG) nr. 1186/2009 van de Raad van de Europese Unie van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU L 324).  
+Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter uitwerking van vrijstellingsbepalingen ingesteld bij andere bindende EU-rechtshandelingen dan Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU 2009, L 324).  
 
 ### Hoofdstuk  7  
 
@@ -675,16 +675,16 @@ Van de opgelegde bestuurlijke boete kan door of vanwege Onze Minister van Financ
 
 ### Artikel  10:1  
 
-1.  Degene die goederen het douanegebied van de Gemeenschap binnenbrengt in strijd met de artikelen 38 en 39 van het Communautair douanewetboek of goederen in andere delen van het douanegebied van de Gemeenschap binnenbrengt in strijd met artikel 177 van het Communautair douanewetboek, dan wel binnengebrachte goederen in strijd met de artikelen 40 en 41 van het Communautair douanewetboek niet bij de inspecteur aanbrengt of van de overeenkomstig artikel 40 van het Communautair douanewetboek aangebrachte goederen in strijd met de artikelen 36bis en 36ter van het Communautair douanewetboek of artikel 186 van de toepassingsverordening Communautair douanewetboek geen summiere aangifte doet, of zonder toestemming van de inspecteur goederen wegvoert in strijd met het bepaalde in artikel 47 van het Communautair douanewetboek, wordt gestraft met geldboete van de derde categorie, of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de rechten bij invoer die ter zake van de goederen zijn verschuldigd.   
+1.  Degene die goederen het douanegebied van de Unie binnenbrengt in strijd met de artikelen 38 en 39 van het Communautair douanewetboek of goederen in andere delen van het douanegebied van de Unie binnenbrengt in strijd met artikel 177 van het Communautair douanewetboek, dan wel binnengebrachte goederen in strijd met de artikelen 40 en 41 van het Communautair douanewetboek niet bij de inspecteur aanbrengt of van de overeenkomstig artikel 40 van het Communautair douanewetboek aangebrachte goederen in strijd met de artikelen 36bis en 36ter van het Communautair douanewetboek of artikel 186 van de toepassingsverordening Communautair douanewetboek geen summiere aangifte doet, of zonder toestemming van de inspecteur goederen wegvoert in strijd met het bepaalde in artikel 47 van het Communautair douanewetboek, wordt gestraft met geldboete van de derde categorie, of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de rechten bij invoer die ter zake van de goederen zijn verschuldigd.   
 2.  Degene die een der in het eerste lid omschreven feiten begaat met het oogmerk de rechten bij invoer die ter zake van de goederen zijn verschuldigd, te ontduiken of de ontduiking daarvan te bevorderen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van die rechten.   
-3.  Degene die uit zee of door de lucht goederen aanvoert ten aanzien waarvan het in artikel 2:2 genoemde tegenbewijs niet wordt geleverd, wordt geacht die goederen uit zee, onderscheidenlijk door de lucht, binnen het douanegebied van de Gemeenschap te hebben gebracht.   
-4.  Degene die uit hoofde van artikel 3 van verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van de Europese Unie van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (verordening) verplicht is tot het doen van aangifte en deze aangifte niet, onvolledig of onjuist doet, wordt gestraft met geldboete van de derde categorie.   
+3.  Degene die uit zee of door de lucht goederen aanvoert ten aanzien waarvan het in artikel 2:2 genoemde tegenbewijs niet wordt geleverd, wordt geacht die goederen uit zee, onderscheidenlijk door de lucht, binnen het douanegebied van de Unie te hebben gebracht.   
+4.  Degene die uit hoofde van artikel 3 van Verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten verplicht is tot het doen van aangifte en deze aangifte niet, onvolledig of onjuist doet, wordt gestraft met geldboete van de derde categorie.   
 5.  Degene die een der in het vierde lid omschreven feiten opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.   
 6.  Met betrekking tot de in het vierde en vijfde lid strafbaar gestelde feiten is artikel 10:15, derde lid, onder e, niet van toepassing.   
 
 ### Artikel  10:2  
 
-Degene die goederen in strijd met de douanewetgeving niet aanbrengt bij een douanekantoor van uitgang, of goederen buiten het douanegebied van de Gemeenschap voert in strijd met artikel 183 van het Communautair douanewetboek, of van de buiten het douanegebied te brengen goederen in strijd met de artikelen 182bis, 182quater en 182quinquies van het Communautair douanewetboek geen summiere aangifte doet, wordt gestraft met een geldboete van de derde categorie.  
+Degene die goederen in strijd met de douanewetgeving niet aanbrengt bij een douanekantoor van uitgang, of goederen buiten het douanegebied van de Unie voert in strijd met artikel 183 van het Communautair douanewetboek, of van de buiten het douanegebied te brengen goederen in strijd met de artikelen 182bis, 182quater en 182quinquies van het Communautair douanewetboek geen summiere aangifte doet, wordt gestraft met een geldboete van de derde categorie.  
 
 ### Artikel  10:3  
 
@@ -720,7 +720,7 @@ b. ingevolge de douanewetgeving verplicht is tot:
 
 ### Artikel  10:6  
 
-Degene die niet voldoet aan een hem bij of krachtens, artikel 1:11, 1:23, 1:24, derde lid, 1:27, eerste lid, 1:28, tweede lid, of  1:32, tweede lid, van deze wet, dan wel artikel 14 of 69, tweede lid, van het Communautair douanewetboek opgelegde verplichting, wordt gestraft met geldboete van de derde categorie.  
+Degene die niet voldoet aan een hem bij of krachtens, artikel 1:11, 1:23, 1:24, derde lid, 1:27, eerste lid, 1:28, tweede of derde lid, of  1:32, tweede lid, van deze wet, dan wel artikel 14 of 69, tweede lid, van het Communautair douanewetboek opgelegde verplichting, wordt gestraft met geldboete van de derde categorie.  
 
 ### Artikel  10:7  
 
@@ -881,7 +881,7 @@ b. het misdrijf omschreven in [artikel 184 van het Wetboek van Strafrecht](../..
 
 ### Artikel  12:1  
 
-Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de toepassingsverordening Communautair douanewetboek nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.  
+Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Communautair douanewetboek en de toepassingsverordening Communautair douanewetboek nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.  
 
 ### Artikel  12:2  
 
@@ -923,7 +923,7 @@ E. M. H. Hirsch Ballin
 
 ####A.  Europese regelgeving
 
-Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 94, 95, 132, 133, 134, 135, 152, 175, 301 of 308 van het Verdrag tot oprichting van de Europese Gemeenschap, voorzover het voorschriften aangaande onderwerpen betreft die vallen onder de reikwijdte van de hierna genoemde wetten.  
+Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 109, 113, 114, 115, 168, 192, 207, 215 of 352 van het Verdrag betreffende de werking van de Europese Unie, voorzover het voorschriften aangaande onderwerpen betreft die vallen onder de reikwijdte van de hierna genoemde wetten.  
 
 ####B.  Nationale regelgeving
 
@@ -997,8 +997,6 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 
 –  [Wet aansprakelijkheid olietankschepen](../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md)   
 
-–  [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md)   
-
 –  [Wet beschikbaarheid goederen](../../../../wet/wet/beschikbaarheid/goederen/BWBR0002098/README.md)   
 
 –  [Wet capaciteitsbeheersing binnenvaartvloot](../../../../wet/wet/capaciteitsbeheersing/binnenvaartvloot/BWBR0012950/README.md)   
@@ -1071,5 +1069,5 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 
 –  [Zeebrievenwet](../../../../wet/zeebrievenwet/BWBR0001933/README.md)   
 
-–  [Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md)     
+– de Wet zeevarenden    
 

@@ -88,23 +88,25 @@ H.W. Laan
 
 ### Bijlage  1a  
 
-####Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel schrijven, programma I, staatsexamen NT2
+####bij de Regeling beoordelingsnormen staatsexamen NT2 van 8 december 2010, nummer CvE-10.1345
+
+####Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het *onderdeel schrijven, programma I, staatsexamen NT2*
 
 ####Inhoud Examen Schrijven Programma I
 
-Het examenonderdeel Schrijven I bestaat uit twee opgavensets; ongeveer de helft van de opgaven wordt op de computer aangeboden en het andere deel in een boekje. Elke set bevat verschillende schrijfopdrachten. De opgaven bevatten meestal een beschrijving van een situatie en een schrijftaak. Soms is ook een tekening van de situatie toegevoegd; soms wordt een context beschreven en soms wordt een aan te vullen tekst gepresenteerd die moet worden afgemaakt. De examenduur voor elk der beide onderdelen is verschillend: het eerste deel is het computerdeel en duurt 42 minuten; het tweede deel is het papieren deel en duurt 78 minuten tenzij anders aangegeven bij het examen. De gegeven situaties en taken passen qua inhoud (werk, opleiding en algemeen maatschappelijke situaties) en qua moeilijkheidsgraad bij de beoogde doelsituatie van programma I. Zie ook het examenprogramma. De examens worden afgenomen met een computer die gebruik maakt van een qwerty-toetsenbord. Kandidaten kunnen geen computergestuurde spellingscontrole hanteren. Kandidaten kunnen maximaal drie – uitsluitend papieren – woordenboeken gebruiken. Opgavenset Deel 1; het computerdeel. 
+Het examenonderdeel Schrijven I bestaat uit twee opgavensets; ongeveer twee derde van de opgaven wordt op de computer aangeboden en het andere deel in een boekje. Elke set bevat verschillende schrijfopdrachten. De opgaven bevatten meestal een beschrijving van een situatie en een schrijftaak. Soms is ook een tekening van de situatie toegevoegd; soms wordt een context beschreven en soms wordt een aan te vullen tekst gepresenteerd die moet worden afgemaakt. De examenduur voor elk der beide onderdelen is verschillend: het eerste deel is het computerdeel en duurt 40 minuten; het tweede deel is het papieren deel en duurt 80 minuten tenzij anders aangegeven bij het examen. De gegeven situaties en taken passen qua inhoud (werk, opleiding en algemeen maatschappelijke situaties) en qua moeilijkheidsgraad bij de beoogde doelsituatie van programma I. Zie ook het examenprogramma. De examens worden afgenomen met een computer die gebruik maakt van een qwerty-toetsenbord. Kandidaten kunnen geen computergestuurde spellingscontrole hanteren. Kandidaten kunnen maximaal drie – uitsluitend papieren – woordenboeken gebruiken. Opgavenset Deel 1; het computerdeel. 
 
-1 Het schrijven van een zin of enkele zinnen (3, 4 of 5 examenopgaven)  
+1 Het schrijven van een zin of enkele zinnen (7 examenopgaven)  
 
-2 Het aanvullen van een brief, van een tekst of van een formulier ( 1 examenopgave).  
+2 Het aanvullen van een brief, van een tekst of van een formulier (2 examenopgaven).  
 
-3 Het schrijven van een korte tekst (1 examenopgave)   Opgavenset Deel 2; het boekje. 
+3 Het schrijven van een korte tekst (2 examenopgaven)   Opgavenset Deel 2; het boekje. 
 
-1 Het schrijven van een of enkele zinnen of delen van zinnen (6 examenopgaven)  
+1 Het schrijven van een of enkele zinnen of delen van zinnen (3 examenopgaven)  
 
-2 Het aanvullen van een brief, van een tekst of een formulier (2 opgaven)  
+2 Het aanvullen van een brief, van een tekst of een formulier (1 opgave)  
 
-3 Het schrijven van een korte tekst (2 opgaven)   De zinnen en geschreven teksten worden op meerdere aspecten beoordeeld: adequaatheid/begrijpelijkheid, samenhang, woordgebruik, grammaticale correctheid en spelling. Niet alle opdrachten worden op alle aspecten beoordeeld. Bij wijze van illustratie hierbij een voorbeeld van het te behalen aantal punten bij een examen Schrijven I  
+3 Het schrijven van een korte tekst (1 opgave)   De zinnen en geschreven teksten worden op meerdere aspecten beoordeeld: adequaatheid/begrijpelijkheid, samenhang, woordgebruik, grammaticale correctheid en spelling. Niet alle opdrachten worden op alle aspecten beoordeeld. Bij wijze van illustratie hierbij een voorbeeld van het te behalen aantal punten bij een examen Schrijven I  
 
 | --- | --- |
 |:---|:---|
@@ -178,23 +180,23 @@ Voor het examen Schrijven kan de kandidaat per opdracht *meerdere* punten behale
 
 ### Bijlage  1b  
 
-####Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel schrijven, programma II, staatsexamen NT2
+####bij de Regeling beoordelingsnormen staatsexamen NT2 van 8 december 2010, nummer CvE-10.1345
+
+####Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het *onderdeel schrijven, programma II, staatsexamen NT2*
 
 ####Inhoud examen Schrijven Programma II
 
-Het examenonderdeel Schrijven II bestaat uit twee opgavensets, ongeveer de helft van de opgaven worden op de computer aangeboden en het andere deel in een boekje. Elke set bevat verschillende schrijfopdrachten. De opgaven bevatten meestal een beschrijving van een situatie en een schrijftaak. Soms is ook een tekening van de situatie toegevoegd; soms wordt een context beschreven en soms wordt een aan te vullen tekst gepresenteerd die moet worden afgemaakt. Daarnaast bevatten de beide sets een middellange schrijftaak. De examentijd voor elk der beide boekjes is verschillend: het eerste deel is het computerdeel en duurt 58 minuten; het tweede deel is het papieren deel en duurt 62 minuten, tenzij anders aangegeven bij het examen. De gegeven situaties en taken passen qua inhoud (werk, opleiding en algemeen maatschappelijke situaties) en qua moeilijkheidsgraad bij de beoogde doelsituatie van programma II. Zie ook het examenprogramma. Opgavenset Deel 1; het computerdeel. 
+Het examenonderdeel Schrijven II bestaat uit twee opgavensets, ruim de helft van de opgaven worden op de computer aangeboden en het andere deel in een boekje. Elke set bevat verschillende schrijfopdrachten. De opgaven bevatten meestal een beschrijving van een situatie en een schrijftaak. Soms is ook een tekening van de situatie toegevoegd; soms wordt een context beschreven en soms wordt een aan te vullen tekst gepresenteerd die moet worden afgemaakt. Daarnaast bevatten de beide sets een middellange schrijftaak. De examentijd voor elk der beide boekjes is verschillend: het eerste deel is het computerdeel en duurt 90 minuten; het tweede deel is het papieren deel en duurt 30 minuten, tenzij anders aangegeven bij het examen. De gegeven situaties en taken passen qua inhoud (werk, opleiding en algemeen maatschappelijke situaties) en qua moeilijkheidsgraad bij de beoogde doelsituatie van programma II. Zie ook het examenprogramma. Opgavenset Deel 1; het computerdeel. 
 
-1 Het schrijven van een zin of enkele zinnen (3 examenopgaven)  
+1 Het schrijven van een zin of enkele zinnen (4 examenopgaven)  
 
-2 Het schrijven van een korte tekst ( 1 examenopgave)  
+2 Het schrijven van een korte tekst (1 examenopgave)  
 
-3 Het schrijven van een middellange tekst ( 1 examenopgave)   Opgavenset Deel 2; het boekje. 
+3 Het schrijven van een middellange tekst (2 examenopgaven)   Opgavenset Deel 2; het boekje. 
 
-1 Het schrijven van een zin of enkele zinnen ( 5 examenopgaven )  
+1 Het schrijven van een zin of enkele zinnen (4 examenopgaven)  
 
-2 Het schrijven van een korte tekst ( 1 examenopgave)  
-
-3 Het schrijven van een middellange tekst ( 1 examenopgave)   De zinnen en geschreven teksten worden op meerdere aspecten beoordeeld: adequaatheid/begrijpelijkheid, samenhang, woordgebruik, opbouw, grammaticale correctheid en spelling. Tevens is het beoordelingsaspect Tekstverzorging toegevoegd voor het computerdeel van het examen . Niet alle opdrachten worden op alle aspecten beoordeeld. Bij wijze van illustratie hierbij een voorbeeld van het te behalen aantal punten bij een examen Schrijven II:  
+2 Het schrijven van een korte tekst (1 examenopgave)   De zinnen en geschreven teksten worden op meerdere aspecten beoordeeld: adequaatheid/begrijpelijkheid, samenhang, woordgebruik, opbouw, grammaticale correctheid en spelling. Tevens is het beoordelingsaspect Tekstverzorging toegevoegd voor het computerdeel van het examen. Niet alle opdrachten worden op alle aspecten beoordeeld. Bij wijze van illustratie hierbij een voorbeeld van het te behalen aantal punten bij een examen Schrijven II:  
 
 | --- | --- |
 |:---|:---|
@@ -216,11 +218,7 @@ Het examenonderdeel Schrijven II bestaat uit twee opgavensets, ongeveer de helft
 
 ####Algemeen
 
-A1+B1 Het schrijven van een zin of enkele zinnen wordt beoordeeld op twee aspecten: ‘adequaatheid/begrijpelijkheid’ en ‘grammaticale correctheid’. Zowel adequaatheid/begrijpelijkheid van de tekst als grammaticale correctheid wordt gewaardeerd op basis van een 2-puntsschaal: de beoordelaar kan een score van 0 of 1 toekennen voor adequaatheid/begrijpelijkheid en 0 of 1 voor grammaticale correctheid. Een tekst waarvoor op basis van adequaatheid/begrijpelijkheid een score van 0 wordt toegekend, kan voor grammaticale correctheid geen score van 1 opleveren.  
-
-A2+B2 Het schrijven van een korte tekst wordt in elk geval beoordeeld op de aspecten ‘adequaatheid/begrijpelijkheid’ en ‘grammaticale correctheid’. Het aspect adequaatheid/begrijpelijkheid wordt globaal beoordeeld op basis van een 4-punts-schaal: u kunt een score van 0, 1, 2 of 3 toekennen. Zijn alle in de opdracht gevraagde elementen in de uiting verwerkt, dan wordt de uiting als ‘acceptabel’ beoordeeld en wordt als uitgangspunt een score van 2 punten genomen. Een hogere score (3 punten) of een lagere score (1) kan vervolgens toegekend worden door de totale kwaliteit van het geschrevene in ogenschouw te nemen. Het aspect grammaticale correctheid wordt beoordeeld op basis van een 3-puntsschaal: de beoordelaar kan hiervoor een score van 0, 1 of 2 toekennen. Afhankelijk van de opdracht kunnen nog andere aspecten ter beoordeling worden toegevoegd. Deze toegevoegde aspecten worden beoordeeld op basis van een 2-puntsschaal: u kunt hiervoor een score van 0 of 1 toekennen.  
-
-A3+B3 Het schrijven van een middellange tekst wordt in elk geval beoordeeld op de aspecten ‘adequaatheid/begrijpelijkheid’ en ‘grammaticale correctheid’. Het aspect adequaatheid/begrijpelijkheid wordt beoordeeld op een 6-puntsschaal: de beoordelaar kan hier voor een score van 0, 1, 2, 3, 4 of 5 toekennen. Bij dit type schrijftaak wordt adequaatheid/begrijpelijkheid globaal beoordeeld. Zijn alle in de opdracht gevraagde elementen in de tekst verwerkt, dan wordt de tekst als ‘acceptabel’ beoordeeld en wordt als uitgangspunt een score van 3 punten genomen. Hogere scores (4, 5) en lagere scores (1, 2) kunnen vervolgens toegekend worden door de totale kwaliteit van het geschrevene in ogenschouw te nemen. Het aspect grammaticale correctheid wordt beoordeeld op basis van een 3-puntsschaal: u kunt hiervoor een score van 0, 1 of 2 toekennen. Afhankelijk van de opdracht kunnen ook andere aspecten ter beoordeling worden toegevoegd. Deze toegevoegde aspecten worden altijd op een 3-puntsschaal beoordeeld: u kunt hiervoor per aspect 0, 1 of 2 punten toekennen. Bij examenopgave 6 uit opgavenboekje A en examenopgave 6 uit opgavenboekje B is gekozen voor toevoeging van de aspecten spelling, samenhang, woordgebruik en opbouw.    
+Het schrijven van een zin of enkele zinnen wordt beoordeeld op twee aspecten: ‘adequaatheid/begrijpelijkheid’ en ‘grammaticale correctheid’. Zowel adequaatheid/begrijpelijkheid van de tekst als grammaticale correctheid wordt gewaardeerd op basis van een 2-puntsschaal: de beoordelaar kan een score van 0 of 1 toekennen voor adequaatheid/begrijpelijkheid en 0 of 1 voor grammaticale correctheid. Een tekst waarvoor op basis van adequaatheid/begrijpelijkheid een score van 0 wordt toegekend, kan voor grammaticale correctheid geen score van 1 opleveren. Het schrijven van een korte tekst wordt in elk geval beoordeeld op de aspecten ‘adequaatheid/begrijpelijkheid’ en ‘grammaticale correctheid’. Het aspect adequaatheid/begrijpelijkheid wordt globaal beoordeeld op basis van een 4-punts-schaal: u kunt een score van 0, 1, 2 of 3 toekennen. Zijn alle in de opdracht gevraagde elementen in de uiting verwerkt, dan wordt de uiting als ‘acceptabel’ beoordeeld en wordt als uitgangspunt een score van 2 punten genomen. Een hogere score (3 punten) of een lagere score (1) kan vervolgens toegekend worden door de totale kwaliteit van het geschrevene in ogenschouw te nemen. Het aspect grammaticale correctheid wordt beoordeeld op basis van een 3-puntsschaal: de beoordelaar kan hiervoor een score van 0, 1 of 2 toekennen. Afhankelijk van de opdracht kunnen nog andere aspecten ter beoordeling worden toegevoegd, te weten spelling, samenhang, woordgebruik, opbouw en tekstverzorging. Deze toegevoegde aspecten worden beoordeeld op basis van een 2-puntsschaal: u kunt hiervoor een score van 0 of 1 toekennen. Het schrijven van een middellange tekst wordt in elk geval beoordeeld op de aspecten ‘adequaatheid/begrijpelijkheid’ en ‘grammaticale correctheid’. Het aspect adequaatheid/begrijpelijkheid wordt beoordeeld op een 6-puntsschaal: de beoordelaar kan hier voor een score van 0, 1, 2, 3, 4 of 5 toekennen. Bij dit type schrijftaak wordt adequaatheid/begrijpelijkheid globaal beoordeeld. Zijn alle in de opdracht gevraagde elementen in de tekst verwerkt, dan wordt de tekst als ‘acceptabel’ beoordeeld en wordt als uitgangspunt een score van 3 punten genomen. Hogere scores (4, 5) en lagere scores (1, 2) kunnen vervolgens toegekend worden door de totale kwaliteit van het geschrevene in ogenschouw te nemen. Het aspect grammaticale correctheid wordt beoordeeld op basis van een 3-puntsschaal: u kunt hiervoor een score van 0, 1 of 2 toekennen. Afhankelijk van de opdracht kunnen ook andere aspecten ter beoordeling worden toegevoegd, te weten spelling, samenhang, woordgebruik, opbouw en tekstverzorging. Deze toegevoegde aspecten worden altijd op een 3-puntsschaal beoordeeld: u kunt hiervoor per aspect 0, 1 of 2 punten toekennen.  
 
 ####Specifieke Opmerkingen bij de beoordelingsvoorschriften
 
@@ -272,7 +270,7 @@ A3+B3 Het schrijven van een middellange tekst wordt in elk geval beoordeeld op d
 
 – Bij interpunctie wordt het gebruik van hoofdletters, punten, komma’s en vraagtekens beoordeeld.  
 
-– Bij de korte taak kan maximaal 1 punt worden toegekend, bij de lange taak kunnen maximaal 2 punten voor dit aspect worden toegekend.   -  
+– Bij de korte taak kan maximaal 1 punt worden toegekend, bij de lange taak kunnen maximaal 2 punten voor dit aspect worden toegekend.    
 
 ####Taakspecifiek
 
@@ -286,7 +284,7 @@ A3+B3 Het schrijven van een middellange tekst wordt in elk geval beoordeeld op d
 
 ####Toekenning score examen Schrijven II
 
-Voor het onderdeel Schrijven II kan men per opdracht *meerdere* punten behalen. Voor elke zinsopdracht kan men maximaal 2 punten behalen. Voor elke korte opdracht tussen de 5 en 9 punten behalen. Voor de middellange opdracht maximaal 15 punten. De prestaties van de kandidaat worden beoordeeld door meerdere onafhankelijk van elkaar werkende beoordelaars. Het aantal toegekende punten is het gemiddelde van de puntentoekenning van de beoordelaars (zie examenprogramma voor nadere toelichting). Het examen bevat ook enkele opdrachten die gepretest worden; deze items tellen niet mee in de bepaling van het resultaat van de toets. Voor de rapportage aan de kandidaat wordt de puntenscore omgezet in een vaardigheidsscore die wordt gegeven op een 500-schaal. Een score van 500 of hoger betekent bij *alle* examenonderdelen dat de kandidaat geslaagd is. De examens zijn niet altijd even lang. Het aantal punten dat kandidaten maximaal kunnen behalen, is dus niet voor elk examen hetzelfde. Bovendien zijn de opgaven niet allemaal even moeilijk. Daarom is bij elk examen een ander aantal punten nodig om een score van 500 te halen.  
+Voor het onderdeel Schrijven II kan men per opdracht *meerdere* punten behalen. Voor elke zinsopdracht kan men maximaal 2 punten behalen, voor elke korte opdracht maximaal 10 punten en voor de middellange opdracht maximaal 17 punten. De prestaties van de kandidaat worden beoordeeld door meerdere onafhankelijk van elkaar werkende beoordelaars. Het aantal toegekende punten is het gemiddelde van de puntentoekenning van de beoordelaars (zie examenprogramma voor nadere toelichting). Het examen bevat ook enkele opdrachten die gepretest worden; deze items tellen niet mee in de bepaling van het resultaat van de toets. Voor de rapportage aan de kandidaat wordt de puntenscore omgezet in een vaardigheidsscore die wordt gegeven op een 500-schaal. Een score van 500 of hoger betekent bij *alle* examenonderdelen dat de kandidaat geslaagd is. De examens zijn niet altijd even lang. Het aantal punten dat kandidaten maximaal kunnen behalen, is dus niet voor elk examen hetzelfde. Bovendien zijn de opgaven niet allemaal even moeilijk. Daarom is bij elk examen een ander aantal punten nodig om een score van 500 te halen.  
 
 ### Bijlage  2a  
 
@@ -395,27 +393,29 @@ Voor het examen Spreken kan de kandidaat per opdracht *meerdere* punten behalen.
 
 ### Bijlage  2b  
 
-####Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel schrijven, programma II, staatsexamen NT2
+####bij de Regeling beoordelingsnormen staatsexamen NT2 van 8 december 2010, nummer CvE-10.1345
+
+####Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel spreken, programma II, staatsexamen NT2
 
 ####Inhoud Examen Spreken Programma II
 
-Het examen Spreken Programma II bestaat uit 3 delen. Alle driedelen worden in een computerlokaal afgenomen. De opdrachten worden via de computer met een koptelefoon beluisterd en de antwoorden worden via een microfoon ingesproken en op de computer vastgelegd. De opdrachten staan op het beeldscherm.. De opgaven bevatten een beschrijving van een situatie en een spreektaak. Meestal is ook een tekening van de situatie toegevoegd. De gegeven situaties en de taken passen qua inhoud (werk, opleiding en algemeen maatschappelijke situaties) en qua moeilijkheidsgraad bij de beoogde doelsituatie van programma II. Zie ook het examenprogramma. Deel 1 bestaat uit 6 korte spreekopdrachten. De spreektijd bij die opdrachten is steeds 20 seconden. Deel 2 bestaat uit 9 middellange spreekopdrachten. De spreektijd bij die opdrachten is steeds 30 seconden. Deel 3 bestaat uit 2 lange opdrachten. De spreektijd bij die opdrachten is steeds 2 minuten. Bij wijze van illustratie hierbij een voorbeeld van het te behalen aantal punten bij een examen Spreken II:  
+Het examen Spreken Programma II bestaat uit 3 delen. Alle driedelen worden in een computerlokaal afgenomen. De opdrachten worden via de computer met een koptelefoon beluisterd en de antwoorden worden via een microfoon ingesproken en op de computer vastgelegd. De opdrachten staan op het beeldscherm. De opgaven bevatten een beschrijving van een situatie en een spreektaak. Meestal is ook een tekening van de situatie toegevoegd. De gegeven situaties en de taken passen qua inhoud (werk, opleiding en algemeen maatschappelijke situaties) en qua moeilijkheidsgraad bij de beoogde doelsituatie van programma II. Zie ook het examenprogramma.  *Deel 1 bestaat uit 6 korte spreekopdrachten. De spreektijd bij die opdrachten is steeds 20 seconden.*   *Deel 2 bestaat uit 9 middellange spreekopdrachten. De spreektijd bij die opdrachten is steeds 30 seconden.*   *Deel 3 bestaat uit 2 lange opdrachten. De spreektijd bij die opdrachten is steeds 2 minuten.*  Bij wijze van illustratie hierbij een voorbeeld van het te behalen aantal punten bij een examen Spreken II:  
 
 | --- | --- |
 |:---|:---|
-| – Het aantal te behalen punten bij de inhoudsaspecten:  | 60  |
+| Het aantal te behalen punten bij de inhoudsaspecten:  | 69  |
 | Verdeling over de beoordelingsaspecten:  | --- |
-| Inhoud:  | 36  |
+| Inhoud:  | 39  |
 | Woordkeus:  | 3  |
-| Woordenschat:  | 18  |
-| Coherentie:  | 3  |
-| – Het aantal te behalen punten bij de vormaspecten:  | 49  |
+| Woordenschat:  | 21  |
+| Coherentie:  | 6  |
+| - Het aantal te behalen punten bij de vormaspecten:  | 56  |
 | Verdeling over de beoordelingsaspecten:  | --- |
-| Woord- en zinsvorming:  | 33  |
-| Uitspraak:  | 12  |
-| Tempo:  | 4  |
-| Totaal aantal opdrachten:  | 16  |
-| Maximumscore:  | 109 (exclusief precondities)  |
+| Woord- en zinsvorming:  | 36  |
+| Uitspraak:  | 15  |
+| Tempo:  | 5  |
+| Totaal aantal opdrachten:  | 17  |
+| Maximumscore:  | 125 (exclusief precondities)  |
 
 ####Algemene aanwijzingen voor de beoordeling Spreken II
 
@@ -423,11 +423,7 @@ Het examen Spreken Programma II bestaat uit 3 delen. Alle driedelen worden in ee
 
 – Wanneer een kandidaat één of meer *plaatjes anders interpreteert* dan in de beoordelingsvoorschriften bedoeld wordt, maar de opdracht toch goed uitwerkt (een instructie geven, een beschrijving geven etc.), moet het spreekproduct analoog aan de bestaande voorschriften beoordeeld worden.  
 
-– Bij opdrachten waarbij kandidaten (een mening met) argumenten moeten geven, moet de beoordelaar er alert op zijn dat niet de inhoud van de argumentatie op geldigheid beoordeeld wordt. Iets wat wij belachelijk vinden, kan voor de spreker een prima reden zijn. Als de uiting duidelijk is, kan iemand drie punten bij 'Inhoud' krijgen.    
-
-####Preconditie.
-
-Voordat de uiting van een kandidaat daadwerkelijk op de beoordelingsaspecten wordt beoordeeld, wordt nagegaan of de uiting beoordeelbaar is. Hier speelt de preconditie een rol. Bij het controleren van de preconditie moet één van de onderstaande keuzemogelijkheden worden aangevinkt: 
+– Bij opdrachten waarbij kandidaten (een mening met) argumenten moeten geven, moet de beoordelaar er alert op zijn dat niet de inhoud van de argumentatie op geldigheid beoordeeld wordt. Iets wat wij belachelijk vinden, kan voor de spreker een prima reden zijn. Als de uiting duidelijk is, kan iemand drie punten bij 'Inhoud' krijgen.   Preconditie. Voordat de uiting van een kandidaat daadwerkelijk op de beoordelingsaspecten wordt beoordeeld, wordt nagegaan of de uiting beoordeelbaar is. Hier speelt de preconditie een rol. Bij het controleren van de preconditie moet één van de onderstaande keuzemogelijkheden worden aangevinkt: 
 
 □ Verstaanbare Nederlandse reactie in relatie tot de context  
 
@@ -557,7 +553,9 @@ De beoordeling van de examenopgaven geschiedt automatisch. Het aantal goed beant
 
 ### Bijlage  5  
 
-*Bekendmaking van (vastgestelde), beoordelingsmodellen per examentoets en de daarbij behorende scores.*  
+####bij de Regeling beoordelingsnormen staatsexamen NT2 van 8 december 2010, nummer CvE-10.1345
+
+####Bekendmaking van (vastgestelde), beoordelingsmodellen per examentoets en de daarbij behorende scores.
 
 1. Voor wat betreft de beoordelingsmodellen per examentoets en de daarbij behorende scores geldt: De beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden niet eerder bekend gemaakt dan nadat het College voor examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een examentoets zullen uitmaken. De opgaven kunnen daarna onderdeel uitmaken van oefenopgaven die openbaar gemaakt worden.  
 
@@ -565,20 +563,21 @@ De beoordeling van de examenopgaven geschiedt automatisch. Het aantal goed beant
 
 a. Voor wat betreft examentoetsen in de onderdelen schrijven en spreken aan de beoordelaar;  
 
-b. Voor wat betreft examentoetsen in de onderdelen lezen en luisteren worden de beoordelingsmodellen opgenomen als sleutel in het digitale systeem dat automatisch de examentoets beoordeeld.      *Beoordelingsnormen voor het staatsexamen Nederlands als tweede taal worden vastgesteld voor wat betreft:*   *Tabel 1 Staatsexamen Nederlands als tweede taal*   *Programma I, 2013*  
+b. Voor wat betreft examentoetsen in de onderdelen lezen en luisteren worden de beoordelingsmodellen opgenomen als sleutel in het digitale systeem dat automatisch de examentoets beoordeeld.      *Beoordelingsnormen voor het staatsexamen Nederlands als tweede taal worden vastgesteld voor wat betreft:*   *Tabel 1 Staatsexamen Nederlands als tweede taal*   *Programma I, 2014*  
 
-* onderdeel schrijven: 9 examentoetsen  
+* onderdeel schrijven: de examentoetsen vastgesteld voor 2014  
 
-* onderdeel spreken: 9 examentoetsen  
+* onderdeel spreken: de examentoetsen vastgesteld voor 2014  
 
-* onderdeel lezen: 9 examentoetsen  
+* onderdeel lezen: de examentoetsen vastgesteld voor 2014  
 
-* onderdeel luisteren: 9 examentoetsen    *Tabel 2 Staatsexamen Nederlands als tweede taal*   *Programma II, 2013*  
+* onderdeel luisteren: de examentoetsen vastgesteld voor 2014.    *Tabel 2 Staatsexamen Nederlands als tweede taal*   *Programma II, 2014*  
 
-* onderdeel schrijven: 9 examentoetsen  
+* onderdeel schrijven: de examentoetsen vastgesteld voor 2014  
 
-* onderdeel spreken: 9 examentoetsen  
+* onderdeel spreken: de examentoetsen vastgesteld voor 2014  
 
-* onderdeel lezen: 9 examentoetsen  
+* onderdeel lezen: de examentoetsen vastgesteld voor 2014  
 
-* onderdeel luisteren: 9 examentoetsen   
+* onderdeel luisteren: de examentoetsen vastgesteld voor 2014.    
+

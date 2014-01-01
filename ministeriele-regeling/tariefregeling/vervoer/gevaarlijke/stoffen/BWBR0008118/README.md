@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder Minister: Minister van Verkeer en Waterstaat.  
+In deze regeling wordt verstaan onder Minister: Minister van Infrastructuur en Milieu.  
 
 ### Artikel  2  
 
-Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheffing is € 322,– aan de Minister verschuldigd.  
+Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheffing is € 345,– aan de Minister verschuldigd.  
 
 ### Artikel  3  
 

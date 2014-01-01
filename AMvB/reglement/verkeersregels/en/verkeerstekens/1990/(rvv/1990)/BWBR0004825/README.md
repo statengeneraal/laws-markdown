@@ -22,133 +22,129 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. aanhangwagens: voertuigen die door een voertuig worden voortbewogen of kennelijk bestemd zijn om aldus te worden voortbewogen, alsmede opleggers;  
+*aanhangwagens*: voertuigen die door een voertuig worden voortbewogen of kennelijk bestemd zijn om aldus te worden voortbewogen, alsmede opleggers;  
 
-a1. ambulance: motorvoertuig, ingericht en bestemd om te worden gebruikt voor ambulancevervoer als bedoeld in de [Wet ambulancevervoer](../../../../../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md);  
+*ambulance*: motorvoertuig, ingericht en bestemd om te worden gebruikt voor ambulancezorg als bedoeld in de Tijdelijke wet ambulancezorg;  
 
-b. autobus: motorvoertuig, ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen;  
+*autobus*: motorvoertuig, ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen;  
 
-c. autosnelweg: weg, aangeduid door bord G1 van bijlage I; langs autosnelwegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autosnelweg uit;  
+*autosnelweg*: weg, aangeduid door bord G1 van bijlage I; langs autosnelwegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autosnelweg uit;  
 
-d. autoweg: weg, aangeduid door bord G3 van bijlage I; langs autowegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autoweg uit;  
+*autoweg*: weg, aangeduid door bord G3 van bijlage I; langs autowegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autoweg uit;  
 
-da. bedrijfsauto: bedrijfsauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+*bedrijfsauto*: bedrijfsauto als bedoeld in artikel 1.1 van de Regeling voertuigen;  
 
-db. bestelauto: motorvoertuig, bestemd voor het vervoer van goederen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg;  
+*bestelauto*: motorvoertuig, bestemd voor het vervoer van goederen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg;  
 
-e. bestemmingsverkeer: bestuurders wier reisdoel één of meer bepaalde percelen betreft die zijn gelegen aan of in de directe nabijheid van een weg met een door verkeerstekens aangegeven geslotenverklaring voor bepaalde categorieën bestuurders en die slechts via deze weg zijn te bereiken alsmede bestuurders van lijnbussen;  
+*bestemmingsverkeer*: bestuurders wier reisdoel één of meer bepaalde percelen betreft die zijn gelegen aan of in de directe nabijheid van een weg met een door verkeerstekens aangegeven geslotenverklaring voor bepaalde categorieën bestuurders en die slechts via deze weg zijn te bereiken alsmede bestuurders van lijnbussen;  
 
-f. bestuurder van een motorvoertuig: 
+*bestuurder van een motorvoertuig*: 
 
 1. hij die het motorvoertuig bestuurt of  
 
-2. voor zover het betreft een motorvoertuig voor het besturen waarvan een rijbewijs AM, B, C, D of E, is vereist en dat is voorzien van een dubbele bediening, hij die rijonderricht geeft of toezicht houdt in het kader van een vanwege de overheid ingesteld onderzoek naar de rijvaardigheid, niet zijnde een onderzoek als bedoeld in [artikel 131, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
+2. voor zover het betreft een motorvoertuig voor het besturen waarvan een rijbewijs AM, B, C, D of E, is vereist en dat is voorzien van een dubbele bediening, hij die rijonderricht geeft of toezicht houdt in het kader van een vanwege de overheid ingesteld onderzoek naar de rijvaardigheid, niet zijnde een onderzoek als bedoeld in artikel 131, eerste lid, van de wet;    
 
-g. bestuurders: alle weggebruikers behalve voetgangers;  
+*bestuurders*: alle weggebruikers behalve voetgangers;  
 
-h. bevoegd gezag: gezag als bedoeld in [artikel 18, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*bevoegd gezag*: gezag als bedoeld in artikel 18, eerste lid, van de wet;  
 
-ha. brombakfiets: bromfiets op drie symmetrisch geplaatste wielen, met twee voorwielen met een diameter van meer dan 0,40 m, uitsluitend ingericht voor het vervoer van de bestuurder en van goederen en eventueel van een achter de bestuurder gezeten passagier;  
+*brombakfiets*: bromfiets op drie symmetrisch geplaatste wielen, met twee voorwielen en uitsluitend ingericht voor het vervoer van de bestuurder en van goederen en eventueel van een achter de bestuurder gezeten passagier;  
 
-i.  vervallen;   
+*brommobiel*: bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;  
 
-ia. brommobiel: bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;  
+*busbaan*: rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;  
 
-j. busbaan: rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;  
+*busstrook*: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;  
 
-k. busstrook: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;  
+*dag*: de periode tussen zonsopgang en zonsondergang;  
 
-l. dag: de periode tussen zonsopgang en zonsondergang;  
+*diensten voor spoedeisende medische hulpverlening*: de ambulancediensten waaraan krachtens de Wet ambulancevervoer vergunning is verleend voor het verrichten van ambulancevervoer, alsmede daartoe uitgeruste voertuigen van andere hulpverleningsdiensten die zich in opdracht van een centrale post als bedoeld in artikel 1 van de Wet ambulancevervoer bezighouden met het verlenen van eerstelijns spoedeisende hulpverlening;  
 
-l1. diensten voor spoedeisende medische hulpverlening: de ambulancediensten waaraan krachtens de [Wet ambulancevervoer](../../../../../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md) vergunning is verleend voor het verrichten van ambulancevervoer, alsmede daartoe uitgeruste voertuigen van andere hulpverleningsdiensten die zich in opdracht van een centrale post als bedoeld in [artikel 1 van de Wet ambulancevervoer](../../../../../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md) bezighouden met het verlenen van eerstelijns spoedeisende hulpverlening;  
+*dierenambulance*: motorvoertuig, ingericht en bestemd om te worden gebruikt voor het vervoer van zieke en gewonde dieren;  
 
-l2. dierenambulance: motorvoertuig, ingericht en bestemd om te worden gebruikt voor het vervoer van zieke en gewonde dieren;  
+*doorgaande rijbaan*: rijbaan zonder de invoeg- en uitrijstroken;  
 
-m. doorgaande rijbaan: rijbaan zonder de invoeg- en uitrijstroken;  
+*driewielig motorvoertuig*: driewielig motorrijtuig als bedoeld in artikel 1.1 van de Regeling voertuigen;  
 
-ma. driewielig motorvoertuig: driewielig motorrijtuig als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+*fietsstrook*: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop afbeeldingen van een fiets zijn aangebracht;  
 
-n. fietsstrook: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop afbeeldingen van een fiets zijn aangebracht;  
+*geslotenverklaring*: verbod de betrokken weg in te rijden of in te gaan alsmede de betrokken weg te gebruiken;  
 
-o. geslotenverklaring: verbod de betrokken weg in te rijden of in te gaan alsmede de betrokken weg te gebruiken;  
+*haaietanden*: voorrangsdriehoeken op het wegdek;  
 
-p. haaietanden: voorrangsdriehoeken op het wegdek;  
+*gehandicaptenvoertuig*: voertuig dat is ingericht voor het vervoer van een gehandicapte, niet breder is dan 1,10 meter en niet is uitgerust met een motor, dan wel is uitgerust met een motor waarvan de door de constructie bepaalde maximumsnelheid niet meer dan 45 km per uur bedraagt, en geen bromfiets is;  
 
-q.  vervallen;   
+*invoegstrook*: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan oprijden;  
 
-r. gehandicaptenvoertuig: voertuig dat is ingericht voor het vervoer van een gehandicapte, niet breder is dan 1,10 meter en niet is uitgerust met een motor, dan wel is uitgerust met een motor waarvan de door de constructie bepaalde maximumsnelheid niet meer dan 45 km per uur bedraagt, en geen bromfiets is;  
+*kruispunt*: kruising of splitsing van wegen;  
 
-s. invoegstrook: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan oprijden;  
+*ligplaats:* ligplaats als bedoeld in artikel 1.1 van de Regeling voertuigen;  
 
-t. kruispunt: kruising of splitsing van wegen;  
+*lijnbus*: motorvoertuig, gebezigd voor het verrichten van openbaar vervoer in de zin van de Wet personenvervoer 2000;  
 
-u. *ligplaats:* ligplaats als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+*militaire kolonne*: een aantal zich achter elkaar bevindende militaire dan wel bij een onderdeel van de rampenbestrijdingsorganisatie in gebruik zijnde motorvoertuigen, onder één commandant, die de door Onze Minister in overeenstemming met Onze Minister van Defensie vastgestelde herkenningstekens voeren;  
 
-v. lijnbus: motorvoertuig, gebezigd voor het verrichten van openbaar vervoer in de zin van de [Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+*motorfiets*: motorvoertuig op twee wielen al dan niet met zijspan- of aanhangwagen;  
 
-w.  vervallen;   
+*motorvoertuigen*: alle gemotoriseerde voertuigen behalve bromfietsen, fietsen met trapondersteuning en gehandicaptenvoertuigen, bestemd om anders dan langs rails te worden voortbewogen;  
 
-x. militaire kolonne: een aantal zich achter elkaar bevindende militaire dan wel bij een onderdeel van de rampenbestrijdingsorganisatie in gebruik zijnde motorvoertuigen, onder één commandant, die de door Onze Minister in overeenstemming met Onze Minister van Defensie vastgestelde herkenningstekens voeren;  
+*nacht*: de periode tussen zonsondergang en zonsopgang;  
 
-y. motorfiets: motorvoertuig op twee wielen al dan niet met zijspan- of aanhangwagen;  
+*overweg*: kruising van een weg en een spoorweg die wordt aangeduid door middel van bord J12 of J13 van bijlage 1;  
 
-z. motorvoertuigen: alle gemotoriseerde voertuigen behalve bromfietsen, fietsen met trapondersteuning en gehandicaptenvoertuigen, bestemd om anders dan langs rails te worden voortbewogen;  
+*parkeerhaven of parkeerstrook*: langs de rijbaan gelegen verharding die is bestemd voor stilstaande of geparkeerde voertuigen;  
 
-aa. nacht: de periode tussen zonsondergang en zonsopgang;  
+*parkeren*: het laten stilstaan van een voertuig anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen;  
 
-aab. overweg: kruising van een weg en een spoorweg die wordt aangeduid door middel van bord J12 of J13 van bijlage 1;  
+*personenauto*: personenauto als bedoeld in artikel 1.1 van de Regeling voertuigen;  
 
-ab. parkeerhaven of parkeerstrook: langs de rijbaan gelegen verharding die is bestemd voor stilstaande of geparkeerde voertuigen;  
+*puntstuk*: meerhoekig vlak op het wegdek, opgenomen bij splitsingen of samenvoegingen van wegen, rijstroken of rijbanen;  
 
-ac. parkeren: het laten stilstaan van een voertuig anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen;  
+*richtlijn 97/24/EG:* richtlijn nr. 97/24/EG van het Europees Parlement en de Raad van 17 juni 1997 betreffende bepaalde onderdelen of eigenschappen van motorvoertuigen op twee of drie wielen (PbEG L 226);  
 
-aca. personenauto: personenauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+*rijbaan*: elk voor rijdende voertuigen bestemd weggedeelte met uitzondering van de fietspaden en de fiets/bromfietspaden;  
 
-acb. puntstuk: meerhoekig vlak op het wegdek, opgenomen bij splitsingen of samenvoegingen van wegen, rijstroken of rijbanen;  
+*rijstrook*: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan van zodanige breedte dat bestuurders van motorvoertuigen op meer dan twee wielen daarvan gebruik kunnen maken;  
 
-ad. rijbaan: elk voor rijdende voertuigen bestemd weggedeelte met uitzondering van de fietspaden en de fiets/bromfietspaden;  
+*snorfiets*: bromfiets die blijkens de gegevens in het kentekenregister of het voor het voertuig afgegeven kentekenbewijs is geconstrueerd voor een maximumsnelheid die niet meer bedraagt dan 25 km per uur of bromfiets als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet;  
 
-ae. rijstrook: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan van zodanige breedte dat bestuurders van motorvoertuigen op meer dan twee wielen daarvan gebruik kunnen maken;  
+*spitsstrook*: de vluchtstrook die als rijstrook is aangewezen blijkens bord C23-01 van bijlage 1;  
 
-af. snorfiets: bromfiets die blijkens de gegevens in het kentekenregister of het voor het voertuig afgegeven kentekenbewijs is geconstrueerd voor een maximumsnelheid die niet meer bedraagt dan 25 km per uur of bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*T100-bus*: autobus, ten aanzien waarvan uit een aantekening op het kentekenbewijs of uit het kentekenregister blijkt dat hij zodanig is ingericht dat hij in aanmerking komt voor een maximumsnelheid van 100 kilometer per uur. Met een T100-bus als bedoeld in dit besluit wordt gelijkgesteld een autobus die is geregistreerd in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en ten aanzien waarvan uit het kentekenbewijs of uit een verklaring afgegeven door een onafhankelijke keuringsinstelling, afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd, blijkt dat de autobus geschikt is voor een maximumsnelheid van 100 kilometer per uur;  
 
-afa. spitsstrook: de vluchtstrook die als rijstrook is aangewezen blijkens bord C23-01 van bijlage 1;  
+*uitrijstrook*: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan verlaten;  
 
-afb. T100-bus: autobus, ten aanzien waarvan uit een aantekening op het kentekenbewijs of uit het kentekenregister blijkt dat hij zodanig is ingericht dat hij in aanmerking komt voor een maximumsnelheid van 100 kilometer per uur. Met een T100-bus als bedoeld in dit besluit wordt gelijkgesteld een autobus die is geregistreerd in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en ten aanzien waarvan uit het kentekenbewijs of uit een verklaring afgegeven door een onafhankelijke keuringsinstelling, afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd, blijkt dat de autobus geschikt is voor een maximumsnelheid van 100 kilometer per uur;  
+*uitvaartstoet van motorvoertuigen:* een stoet, bestaande uit motorvoertuigen, die een lijk als bedoeld in artikel 2, eerste lid, onderdeel a, van de Wet op de lijkbezorging of de as van een gecremeerd lijk begeleiden en die de in artikel 30c bedoelde herkenningstekens voeren;  
 
-ag. uitrijstrook: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan verlaten;  
+*veiligheidscel*: onderdeel van de constructie van een bromfiets, een motorfiets of een driewielig motorvoertuig dat de bestuurder of passagiers beschermt tegen hoofdletsel;  
 
-aga. *uitvaartstoet van motorvoertuigen:* een stoet, bestaande uit motorvoertuigen, die een lijk als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Wet op de lijkbezorging](../../../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) of de as van een gecremeerd lijk begeleiden en die de in artikel 30c bedoelde herkenningstekens voeren;  
+*verdrijvingsvlak*: gedeelte van de rijbaan waarop schuine strepen zijn aangebracht;  
 
-ah. veiligheidscel: onderdeel van de constructie van een bromfiets, een motorfiets of een driewielig motorvoertuig dat de bestuurder of passagiers beschermt tegen hoofdletsel;  
+*verkeer*: alle weggebruikers;  
 
-ai. verdrijvingsvlak: gedeelte van de rijbaan waarop schuine strepen zijn aangebracht;  
+*verkeersregelaar*: persoon als bedoeld in artikel 1, onderdeel f, van het Besluit administratieve bepalingen inzake het wegverkeer;  
 
-aj. verkeer: alle weggebruikers;  
+*verlicht transparant*: verlicht transparant als bedoeld in artikel 1.1 van de Regeling voertuigen;  
 
-aja. verkeersregelaar: persoon als bedoeld in [artikel 1, onderdeel f, van het Besluit administratieve bepalingen inzake het wegverkeer](../../../../../../../../../AMvB/besluit/administratieve/bepalingen/inzake/het/wegverkeer/(babw)/BWBR0004826/README.md);  
+*vluchthaven of vluchtstrook*: door een doorgetrokken streep van de rijbaan van de autosnelweg of autoweg afgescheiden weggedeelte, dat bestemd is voor gebruik in noodgevallen, behoudens voor de duur van openstelling als spitsstrook;  
 
-aj1. verlicht transparant: verlicht transparant als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+*voertuigen*: fietsen, bromfietsen, gehandicaptenvoertuigen, motorvoertuigen, trams en wagens;  
 
-ak. vluchthaven of vluchtstrook: door een doorgetrokken streep van de rijbaan van de autosnelweg of autoweg afgescheiden weggedeelte, dat bestemd is voor gebruik in noodgevallen, behoudens voor de duur van openstelling als spitsstrook;  
+*voorrang verlenen*: het de betrokken bestuurders in staat stellen ongehinderd hun weg te vervolgen;  
 
-al. voertuigen: fietsen, bromfietsen, gehandicaptenvoertuigen, motorvoertuigen, trams en wagens;  
+*voorrangsvoertuig*: motorvoertuig dat de optische en geluidssignalen voert als bedoeld in artikel 29;  
 
-am. voorrang verlenen: het de betrokken bestuurders in staat stellen ongehinderd hun weg te vervolgen;  
+*vrachtauto*: motorvoertuig, niet ingericht voor het vervoer van personen, waarvan de toegestane maximum massa meer bedraagt dan 3500 kg;  
 
-an. voorrangsvoertuig: motorvoertuig dat de optische en geluidssignalen voert als bedoeld in artikel 29;  
+*weggebruikers*: voetgangers, fietsers, bromfietsers, bestuurders van een gehandicaptenvoertuig, van een motorvoertuig of van een tram, ruiters, geleiders van rij- of trekdieren of vee en bestuurders van een bespannen of onbespannen wagen;  
 
-ao. vrachtauto: motorvoertuig, niet ingericht voor het vervoer van personen, waarvan de toegestane maximum massa meer bedraagt dan 3500 kg;  
+*wet*: Wegenverkeerswet 1994;  
 
-ap. weggebruikers: voetgangers, fietsers, bromfietsers, bestuurders van een gehandicaptenvoertuig, van een motorvoertuig of van een tram, ruiters, geleiders van rij- of trekdieren of vee en bestuurders van een bespannen of onbespannen wagen;  
-
-aq. wet: [Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
-
-ar. zitplaats: zitplaats als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).    
+*zitplaats*: zitplaats als bedoeld in artikel 1.1 van de Regeling voertuigen.    
 
 ### Artikel  1a  
 
-Onder de vermelding in dit besluit van een EG-richtlijn of VN/ECE-reglement wordt verstaan hetgeen daaronder wordt begrepen in [artikel 1.2 van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), met inbegrip van de ingevolge [artikel 1.3, eerste lid, van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) bekendgemaakte wijzigingen. [Artikel 1.3, tweede lid, van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) is van overeenkomstige toepassing.  
+Onder de vermelding in dit besluit van een EG-richtlijn of VN/ECE-reglement wordt verstaan hetgeen daaronder wordt begrepen in artikel 1.2 van de Regeling voertuigen, met inbegrip van de ingevolge artikel 1.3, eerste lid, van de Regeling voertuigen bekendgemaakte wijzigingen. Artikel 1.3, tweede lid, van de Regeling voertuigen is van overeenkomstige toepassing.  
 
 ### Artikel  2  
 
@@ -189,9 +185,9 @@ De regels van dit besluit betreffende fietsen en fietsers zijn, in plaats van de
 1.  Fietsers gebruiken het verplichte fietspad of het fiets/bromfietspad.   
 2.  Zij gebruiken de rijbaan indien een verplicht fietspad of een fiets/bromfietspad ontbreekt.   
 3.  Zij mogen het onverplichte fietspad gebruiken. Bestuurders van snorfietsen uitgerust met een verbrandingsmotor mogen het onverplichte fietspad slechts gebruiken met uitgeschakelde motor.   
-4.  Bestuurders van fietsen op meer dan twee wielen en fietsen met aanhangwagen, die met inbegrip van de lading breder zijn dan 0,75 meter, mogen de rijbaan gebruiken.   
-5.  Bestuurders vanaf 16 jaar van snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) die beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten mogen het trottoir en het voetpad gebruiken.   
-6.  Bestuurders jonger dan 16 jaar van snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) die beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten gebruiken het trottoir of het voetpad.   
+4.  Bestuurders van fietsen op meer dan twee wielen die met inbegrip van de lading breder zijn dan 0,75 meter en van fietsen met aanhangwagen die met inbegrip van de lading breder zijn dan 0,75 meter mogen de rijbaan gebruiken.   
+5.  Bestuurders vanaf 16 jaar van snorfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet mogen het trottoir en het voetpad gebruiken indien zij beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten.   
+6.  Bestuurders jonger dan 16 jaar van snorfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet gebruiken het trottoir of het voetpad indien zij beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten.   
 7.  Het eerste lid, het tweede lid en het vierde lid gelden niet voor bestuurders als bedoeld in het zesde lid.   
 
 ### Artikel  6  
@@ -320,13 +316,13 @@ b. voor bromfietsen en gehandicaptenvoertuigen, uitgerust met een motor:
 
 2. op de rijbaan 45 km per uur;    
 
-c. voor gehandicaptenvoertuigen, uitgerust met een motor, en snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) op het trottoir of het voetpad 6 km per uur.    
+c. voor gehandicaptenvoertuigen, uitgerust met een motor, en snorfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet op het trottoir of het voetpad 6 km per uur.    
 
 ### Artikel  21  
 
 Buiten de bebouwde kom gelden de volgende maximumsnelheden: 
 
-a. voor motorvoertuigen op autosnelwegen 120 km per uur, op autowegen 100 km per uur en op andere wegen 80 km per uur;  
+a. voor motorvoertuigen op autosnelwegen 130 km per uur, op autowegen 100 km per uur en op andere wegen 80 km per uur;  
 
 b. voor bromfietsen en gehandicaptenvoertuigen, uitgerust met een motor: 
 
@@ -334,7 +330,7 @@ b. voor bromfietsen en gehandicaptenvoertuigen, uitgerust met een motor:
 
 2. op de rijbaan 45 km per uur;    
 
-c. voor gehandicaptenvoertuigen, uitgerust met een motor, en snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) op het trottoir of het voetpad 6 km per uur.    
+c. voor gehandicaptenvoertuigen, uitgerust met een motor, en snorfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet op het trottoir of het voetpad 6 km per uur.    
 
 ### Artikel  22  
 
@@ -406,7 +402,7 @@ f. op een gelegenheid bestemd voor het onmiddellijk laden en lossen van goederen
 g. op een parkeerplaats voor vergunninghouders, aangeduid door verkeersbord E9 van bijlage I, indien voor zijn voertuig geen vergunning tot parkeren op die plaats is verleend.     
 2.  Indien onder de verkeersborden E4 tot en met E8, E12 en E13 van bijlage 1, op een onderbord dagen of uren zijn vermeld, gelden de uit het bord of onderbord voortvloeiende geboden of verboden slechts gedurende de aangegeven dagen of uren.   
 3.  De bestuurder mag zijn voertuig niet dubbel parkeren.   
-4.  Indien een parkeergelegenheid, aangeduid met een van de verkeersborden E 4 tot en met E 13 van bijlage 1, is voorzien van parkeervakken, mag slechts in die vakken worden geparkeerd.   
+4.  Indien een parkeergelegenheid, aangeduid met een van de verkeersborden E4 tot en met E9 of E11 tot en met E13 van bijlage 1, is voorzien van parkeervakken, mag slechts in die vakken worden geparkeerd.   
 
 ### Artikel  25  
 
@@ -477,7 +473,7 @@ Signalen mogen niet worden gegeven en de in artikel 30c bedoelde herkenningsteke
 
 ### Artikel  32  
 
-1.  Bestuurders van een motorvoertuig, een bromfiets, een snorfiets, niet zijnde een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), een gehandicaptenvoertuig dat is uitgerust met een verbrandingsmotor, of een gehandicaptenvoertuig dat is uitgerust met een elektromotor en voorzien van een gesloten carrosserie, voeren bij dag, indien het zicht ernstig wordt belemmerd, en bij nacht dimlicht. Bestuurders van een gehandicaptenvoertuig dat is uitgerust met een elektromotor en niet is voorzien van een gesloten carrosserie voeren alsdan de in [artikel 5.18.43, eerste lid, van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) bedoelde lichten.   
+1.  Bestuurders van een motorvoertuig, een bromfiets, een snorfiets, niet zijnde een bromfiets als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet, een gehandicaptenvoertuig dat is uitgerust met een verbrandingsmotor, of een gehandicaptenvoertuig dat is uitgerust met een elektromotor en voorzien van een gesloten carrosserie, voeren bij dag, indien het zicht ernstig wordt belemmerd, en bij nacht dimlicht. Bestuurders van een gehandicaptenvoertuig dat is uitgerust met een elektromotor en niet is voorzien van een gesloten carrosserie voeren alsdan de in artikel 5.18.43, eerste lid, van de Regeling voertuigen bedoelde lichten.   
 2.  Het voeren van groot licht in plaats van dimlicht is toegestaan behoudens in de volgende gevallen: 
 
 a. bij dag;  
@@ -489,7 +485,7 @@ c. bij het op korte afstand volgen van een ander voertuig.
 
 ### Artikel  33  
 
-Gekoppelde aanhangwagens moeten bij dag, indien het zicht ernstig wordt belemmerd, en bij nacht achterlicht, verlichting van de achterkentekenplaat en het in de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) voorgeschreven stadslicht voeren.  
+Gekoppelde aanhangwagens moeten bij dag, indien het zicht ernstig wordt belemmerd, en bij nacht achterlicht, verlichting van de achterkentekenplaat en het in de Regeling voertuigen voorgeschreven stadslicht voeren.  
 
 ### Artikel  34  
 
@@ -522,7 +518,7 @@ b. aan de achterzijde voortdurend zichtbaar zijn voor van achteren naderende weg
 
 ### Artikel  35c  
 
-De artikelen 35, eerste tot en met vierde lid en zesde lid, en 35a zijn van overeenkomstige toepassing op bestuurders van snorfietsen, zijnde bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+De artikelen 35, eerste tot en met vierde lid en zesde lid, en 35a zijn van overeenkomstige toepassing op bestuurders van snorfietsen, zijnde bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet.  
 
 ### Artikel  36  
 
@@ -542,7 +538,7 @@ Bestuurders van een motorvoertuig op meer dan twee wielen, die buiten de bebouwd
 
 ### Artikel  39  
 
-Stilstaande aanhangwagens moeten buiten de bebouwde kom op de rijbaan en op langs autosnelwegen en autowegen gelegen parkeerstroken, parkeerhavens, vluchtstroken en vluchthavens bij dag, indien het zicht ernstig wordt belemmerd, en bij nacht achterlicht en het in de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) voorgeschreven stadslicht voeren.  
+Stilstaande aanhangwagens moeten buiten de bebouwde kom op de rijbaan en op langs autosnelwegen en autowegen gelegen parkeerstroken, parkeerhavens, vluchtstroken en vluchthavens bij dag, indien het zicht ernstig wordt belemmerd, en bij nacht achterlicht en het in de Regeling voertuigen voorgeschreven stadslicht voeren.  
 
 ### Artikel  40  
 
@@ -575,9 +571,9 @@ a. personenauto’s, bedrijfsauto’s en motorfietsen:
 
 6°. die worden gebruikt voor het geven van rijonderricht of het afleggen van een rijproef;  
 
-7°. die worden gebruikt door ambulancediensten waaraan krachtens de [Wet ambulancevervoer](../../../../../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md) een vergunning is verleend voor het verrichten van ambulancevervoer;  
+7°. die worden gebruikt door de Regionale Ambulancevoorzieningen, bedoeld in artikel 4, eerste lid, van de Tijdelijke wet ambulancezorg;  
 
-8°. van hulpverleningsdiensten die zich in opdracht van een meldkamer als bedoeld in [artikel 35 van de Wet veiligheidsregio’s](../../../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) bezighouden met het verlenen van eerstelijns spoedeisende hulpverlening;    
+8°. van hulpverleningsdiensten die zich in opdracht van een meldkamer als bedoeld in artikel 1, eerste lid, onder e, van de Tijdelijke wet ambulancezorg bezig houden met het verlenen van eerstelijns spoedeisende hulpverlening;    
 
 b. autobussen van openbaar vervoerdiensten;  
 
@@ -586,7 +582,7 @@ c. bedrijfsauto’s van transportbegeleiders;
 d. personen- en bedrijfsauto’s ingericht als dierenambulance;  
 
 e. taxi’s.     
-2.  Personenauto’s, bedrijfsauto’s en motorfietsen die worden gebruikt voor het geven van rijonderricht of het afleggen van een rijproef mogen slechts zijn voorzien van een verlicht transparant die de ingevolge het [Reglement rijbewijzen](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voorgeschreven letter «L» weergeeft.   
+2.  Personenauto’s, bedrijfsauto’s en motorfietsen die worden gebruikt voor het geven van rijonderricht of het afleggen van een rijproef mogen slechts zijn voorzien van een verlicht transparant die de ingevolge het Reglement rijbewijzen voorgeschreven letter «L» weergeeft.   
 3.  Onverminderd het eerste lid mogen: 
 
 a. verlichte transparanten die worden gevoerd door de voertuigen als bedoeld in het eerste lid, onderdeel a, onder 1° tot en met 4° en onderdeel c, aanwijzingen weergeven voor het overige wegverkeer,  
@@ -627,7 +623,7 @@ Voetgangers mogen wegen gelegen binnen een erf over de volle breedte gebruiken.
 
 ### Artikel  45  
 
-Bestuurders mogen binnen een erf niet sneller rijden dan stapvoets.  
+Bestuurders mogen binnen een erf niet sneller rijden dan 15 km per uur.  
 
 ### Artikel  46  
 
@@ -758,13 +754,19 @@ h. passagiers die gebruik maken van een ligplaats, indien op één ligplaats ten
 
 ### Artikel  59  
 
-1.  Bestuurders van een personenauto, een bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel en hun passagiers maken gebruik van de voor hen beschikbare autogordel. Passagiers die jonger zijn dan 18 jaar en met een lengte van minder dan 1,35 meter, maken gebruik van een voor hen geschikt kinderbeveiligingssysteem dat is voorzien van een keurmerk als bedoeld in [artikel 22, vijfde lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). Wanneer de zitplaatsen die bestemd zijn voor passagiers voorzien zijn van autogordels, worden op deze zitplaatsen niet meer passagiers vervoerd dan er autogordels aanwezig zijn.   
+1.  Bestuurders van een personenauto, een bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel en hun passagiers maken gebruik van de voor hen beschikbare autogordel. Passagiers die jonger zijn dan 18 jaar en met een lengte van minder dan 1,35 meter, maken gebruik van een voor hen geschikt kinderbeveiligingssysteem dat is voorzien van een keurmerk als bedoeld in artikel 22, vijfde lid, van de wet. Wanneer de zitplaatsen die bestemd zijn voor passagiers voorzien zijn van autogordels, worden op deze zitplaatsen niet meer passagiers vervoerd dan er autogordels aanwezig zijn.   
 2.  Met een personenauto, een bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel die niet zijn uitgerust met een autogordel of kinderbeveiligingssysteem als bedoeld in het eerste lid, worden geen passagiers vervoerd die jonger zijn dan 3 jaar en worden passagiers in de leeftijd van 3 tot 18 jaar met een lengte van minder dan 1,35 meter op een andere zitplaats dan een van de voorste zitplaatsen vervoerd.   
 3.  Passagiers die jonger zijn dan 18 jaar, worden niet in een naar achteren gericht kinderbeveiligingssysteem op een passagierszitplaats met een voorairbag vervoerd, tenzij deze airbag is uitgeschakeld of automatisch op toereikende wijze wordt uitgeschakeld.   
-4.  Het eerste lid geldt niet voor passagiers die gebruik maken van een rolstoel. Deze passagiers worden vervoerd in een rolstoel die in het voertuig wordt vastgezet op een wijze die de stabiliteit van de rolstoel en de veiligheid van de rolstoelgebruiker waarborgt. Deze passagiers maken gebruik van de veiligheidsgordel die deel uitmaakt van het voertuig of van het systeem waarmee de rolstoel aan de vloer van het voertuig is bevestigd, tenzij gebruik gemaakt wordt van een door Onze Minister aangewezen constructie.   
+4.  Het eerste lid geldt niet voor passagiers die gebruik maken van een rolstoel. Deze passagiers worden vervoerd in een rolstoel die in het voertuig wordt vastgezet op een wijze die de stabiliteit van de rolstoel en de veiligheid van de rolstoelgebruiker waarborgt. Deze passagiers maken gebruik van: 
+
+a. de voor hen beschikbare veiligheidsgordel die deel uitmaakt van het voertuig,  
+
+b. de veiligheidsgordel die deel uitmaakt van het systeem waarmee de rolstoel aan de vloer van het voertuig is bevestigd, of  
+
+c. een door Onze Minister aangewezen constructie.      
 5.  Het eerste lid, tweede volzin, en het tweede lid zijn niet van toepassing tijdens vervoer in taxi’s. In taxi’s waarin geen kinderbeveiligingssysteem aanwezig is, worden passagiers die jonger zijn dan 18 jaar en met een lengte van minder dan 1,35 meter op een andere zitplaats dan een van de voorste zitplaatsen vervoerd.   
-6.  Het eerste lid voor zover dat op bestuurders betrekking heeft en het vierde lid gelden niet tijdens het vervoer van passagiers tegen vergoeding in de zin van de [Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en tijdens vraagafhankelijk openbaar vervoer in taxi’s, anders dan in de gevallen waarin een overeenkomst is gesloten als bedoeld in [artikel 84, derde lid, van die wet](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), of anders dan tijdens taxivervoer in een taxi die is ingericht voor rolstoelvervoer overeenkomstig de daaromtrent gestelde eisen in de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   
-7.  De autogordel of het kinderbeveiligingssysteem wordt gebruikt op een wijze die de beschermende werking ervan niet negatief beïnvloedt of kan beïnvloeden. Personen van 18 jaar en ouder en personen onder de 18 jaar die in de betrokken omstandigheden geen gebruik hoeven maken van een kinderbeveiligingssysteem, kunnen een voorziening gebruiken door middel waarvan het diagonale deel van de autogordel over de schouder wordt geleid. Onze Minister kan aan een dergelijke voorziening nadere eisen stellen.   
+6.  Het eerste lid voor zover dat op bestuurders betrekking heeft en het vierde lid gelden niet tijdens het vervoer van passagiers tegen vergoeding in de zin van de Wet personenvervoer 2000 en tijdens vraagafhankelijk openbaar vervoer in taxi’s, anders dan in de gevallen waarin een overeenkomst is gesloten als bedoeld in artikel 84, derde lid, van die wet, of anders dan tijdens taxivervoer in een taxi die is ingericht voor rolstoelvervoer overeenkomstig de daaromtrent gestelde eisen in de Regeling voertuigen.   
+7.  De autogordel, de veiligheidsgordel of het kinderbeveiligingssysteem wordt gebruikt op een wijze die de beschermende werking ervan niet negatief beïnvloedt of kan beïnvloeden. Personen van 18 jaar en ouder en personen onder de 18 jaar die in de betrokken omstandigheden geen gebruik hoeven maken van een kinderbeveiligingssysteem, kunnen een voorziening gebruiken door middel waarvan het diagonale deel van de autogordel over de schouder wordt geleid. Onze Minister kan aan een dergelijke voorziening nadere eisen stellen.   
 8.  Het is bestuurders van de in het eerste lid genoemde voertuigen verboden passagiers jonger dan 12 jaar en passagiers die gebruik maken van een rolstoel te vervoeren op een andere wijze dan in dit artikel is voorgeschreven.   
 9.  Het eerste lid geldt niet voor passagiers die gebruik maken van een ligplaats. Deze passagiers maken, indien beschikbaar, gebruik van de daarvoor bestemde veiligheidsvoorziening die deel uitmaakt van het voertuig of van het systeem waarmee de ligplaats aan de vloer van het voertuig is bevestigd.   
 
@@ -777,7 +779,7 @@ a. door de bestuurder, de conducteur, de reisleider of een als groepsleider aang
 
 b. door audiovisuele middelen;  
 
-c. door opschriften of het volgende pictogram:   ![219037](http://wetten.overheid.nl/Illustration/219037)
+c. door opschriften of het volgende pictogram:   ![]()
 Het pictogram wordt bij gebruikmaking daarvan duidelijk op iedere zitplaats aangebracht.     
 3.  In afwijking van het eerste lid behoeven passagiers van autobussen waarin het vervoer van staande passagiers is toegestaan geen beveiligingssysteem te gebruiken en behoeven passagiers van autobussen die volgens een dienstregeling stads- of streekvervoer uitvoeren binnen de bebouwde kom geen beveiligingssysteem te gebruiken.   
 4.  Het is bestuurders van een autobus verboden passagiers jonger dan 12 jaren te vervoeren op een andere wijze dan in dit artikel is voorgeschreven.   
@@ -794,21 +796,23 @@ Het pictogram wordt bij gebruikmaking daarvan duidelijk op iedere zitplaats aang
 
 ### Artikel  60  
 
-1.  De bestuurder en de passagiers van bromfietsen, brommobielen zonder gesloten carrosserie, motorfietsen en driewielige motorvoertuigen moeten een goed passende helm dragen, die door middel van een sluiting op deugdelijke wijze op het hoofd is bevestigd en die is voorzien van een goedkeuringsmerk als bedoeld in [artikel 22, vierde lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+1.  De bestuurder en de passagiers van bromfietsen, brommobielen zonder gesloten carrosserie, motorfietsen en driewielige motorvoertuigen zonder gesloten carrosserie moeten een goed passende helm dragen, die door middel van een sluiting op deugdelijke wijze op het hoofd is bevestigd en die is voorzien van een goedkeuringsmerk als bedoeld in artikel 22, vierde lid, van de wet.   
 2.  Het eerste lid geldt niet voor: 
 
 a. de bestuurder en de passagiers van een snorfiets;  
 
 b. de bestuurder en de achter hem zittende passagier van een brombakfiets;  
 
-c. de bestuurder of de passagier van een door de Dienst Wegverkeer aangewezen type bromfiets, niet zijnde een brommobiel, of motorfiets van wie de zitplaats beschermd wordt door een veiligheidscel en voorzien is van autogordels. Bij de aanwijzing kan onderscheid gemaakt worden tussen de bestuurder en de passagiers ten aanzien van de gelding van het eerste lid. Bij ministeriële regeling worden regels gesteld betreffende de eisen waaraan een type bromfiets of motorfiets moet voldoen om te kunnen worden aangewezen. Deze regels zien in elk geval op de eisen die gesteld worden aan de veiligheidscel en de autogordels;  
+c. de bestuurder of de passagier van een door de Dienst Wegverkeer aangewezen type bromfiets, niet zijnde een brommobiel, of motorfiets van wie de zitplaats beschermd wordt door een veiligheidscel en voorzien is van een autogordel, mits van deze autogordel gebruik gemaakt wordt. Bij de aanwijzing kan onderscheid gemaakt worden tussen de bestuurder en de passagiers ten aanzien van de gelding van het eerste lid. Bij ministeriële regeling worden regels gesteld betreffende de eisen waaraan een type bromfiets of motorfiets moet voldoen om te kunnen worden aangewezen. Deze regels zien in elk geval op de eisen die gesteld worden aan de veiligheidscel en de autogordels;  
 
-d. de bestuurder of de passagiers van een brommobiel zonder gesloten carrosserie of een driewielig motorvoertuig, van wie de zitplaats in deze brommobiel of dat motorvoertuig is voorzien van bevestigingspunten voor autogordels overeenkomstig het bepaalde in richtlijn 97/24/EG, zoals deze gold op de datum waarop het voertuig in gebruik is genomen, en van autogordels die voldoen aan het bepaalde in [artikel 5.2.47, vijfde en zesde lid, van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).     
+d. de bestuurder of de passagiers van een brommobiel zonder gesloten carrosserie of een driewielig motorvoertuig zonder gesloten carrosserie van wie de zitplaats in deze brommobiel of dat motorvoertuig is voorzien van bevestigingspunten voor een autogordel overeenkomstig richtlijn 97/24/EG, zoals deze gold op de datum waarop het voertuig in gebruik is genomen, en van een autogordel die voldoet aan artikel 5.6.47, derde en vierde lid, van de Regeling voertuigen of aan artikel 5.5.47, vierde en vijfde lid, van de Regeling voertuigen, mits van deze autogordel gebruik gemaakt wordt.     
 3.  Het is bestuurders verboden passagiers beneden de twaalf jaren te vervoeren op een andere wijze dan in dit artikel is voorgeschreven.   
 
 ### §  29  
 
 ####Zitplaats kinderen op fietsen en bromfietsen
+
+Vervallen per 01-07-2010   
 
 ### §  30  
 
@@ -833,7 +837,9 @@ b. op het vervoer van personen in de laadruimte van motorvoertuigen ten dienste 
 
 c. op het vervoer van een persoon op de bestuurderszitplaats in een motorvoertuig of op een bromfiets op meer dan twee wielen die door een ander motorvoertuig of een andere bromfiets op meer dan twee wielen wordt voortgetrokken en op het vervoer van passagiers van het getrokken voertuig als hier bedoeld, voor wie geen zitplaats in het trekkende voertuig als hier bedoeld beschikbaar is;  
 
-d. in het geval het vervoer van personen geschiedt in het kader van een evenement of optocht waarvoor een vergunning op grond van een gemeentelijke verordening is afgegeven.     
+d. in het geval het vervoer van personen geschiedt in het kader van een evenement of optocht waarvoor een vergunning op grond van een gemeentelijke verordening is afgegeven;  
+
+e. op het vervoer van personen met een motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km per uur, met niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, niet zijnde een bromfiets, dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen indien voor dit vervoer een vergunning door het bevoegd gezag is afgegeven.     
 
 ### Hoofdstuk  III  
 
@@ -991,16 +997,14 @@ Geel knipperlicht betekent: gevaarlijk punt; voorzichtigheid geboden.
 
 ### Artikel  76  
 
-1.  Een doorgetrokken streep die zich niet langs de rand van de rijbaanverharding bevindt, mag niet worden overschreden.   
-2.  Het eerste lid is niet van toepassing als: 
+1.  Een doorgetrokken streep die zich niet langs de rand van de rijbaanverharding bevindt, mag niet worden overschreden. Bestuurders mogen zich niet links van een doorgetrokken streep bevinden, indien die streep is aangebracht tussen rijstroken of paden met verkeer in beide richtingen.   
+2.  Het eerste lid is niet van toepassing: 
 
-a. de streep wordt overschreden om een naast de gevolgde rijstrook gelegen vluchthaven, vluchtstrook of spitsstrook te bereiken of te verlaten;  
+a. indien de streep wordt overschreden om een naast de gevolgde rijstrook gelegen vluchthaven, vluchtstrook of spitsstrook te bereiken of te verlaten;  
 
-b. aan de zijde vanwaar men de streep overschrijdt een onderbroken streep is aangebracht;  
+b. indien aan de zijde vanwaar men de streep overschrijdt een onderbroken streep is aangebracht;  
 
-c. zich een doorgetrokken streep bevindt tussen rijstroken voor verkeer in tegenovergestelde richtingen en aan de rechterzijde van de doorgetrokken streep een onderbroken streep is aangebracht;  
-
-d. zich een doorgetrokken streep bevindt tussen een rijstrook en een fietsstrook, voor bestuurders die ingevolge artikel 10, tweede lid, de fietsstrook mogen gebruiken.     
+c. op bestuurders die een fietsstrook mogen gebruiken, indien er tussen die fietsstrook en de ernaast gelegen rijstrook een doorgetrokken streep is aangebracht.     
 
 ### Artikel  77  
 
@@ -1109,11 +1113,11 @@ Het is de bestuurders van de in artikel 86a, eerste lid, bedoelde motorvoertuige
 
 1.  In dit hoofdstuk wordt verstaan onder: 
 
-a. *datum van de eerste toelating tot het verkeer:* datum van de eerste toelating van een motorvoertuig tot het verkeer op de weg zoals vastgesteld ingevolge [bijlage II bij de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+a. *datum van de eerste toelating tot het verkeer:* datum van de eerste toelating van een motorvoertuig tot het verkeer op de weg zoals vastgesteld ingevolge bijlage II bij de Regeling voertuigen;  
 
 b. *dieselmotor:* motor die werkt volgens het principe van ontsteking door compressie;  
 
-c. *roetfilter:* roetfilter als bedoeld in de [Regeling typegoedkeuring roetfilters](../../../../../../../../../ministeriele-regeling/regeling/typegoedkeuring/roetfilters/BWBR0026149/README.md);  
+c. *roetfilter:* roetfilter als bedoeld in de Regeling typegoedkeuring roetfilters;  
 
 d. *richtlijn 88/77/EEG:* richtlijn van de Raad van de Europese Gemeenschappen van 3 december 1987 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten met betrekking tot maatregelen tegen de emissie van verontreinigende gassen en deeltjes door voertuigmotoren met compressieontsteking en de emissie van verontreinigende gassen door op aardgas of vloeibaar petroleumgas lopende voertuigmotoren met elektrische ontsteking (PbEG 1988, L36), zoals deze gold tot 9 november 2006 en laatstelijk is gewijzigd bij richtlijn nr 96/1/EG van het Europees Parlement en de Raad van 22 januari 1996 (PbEG L 040);  
 
@@ -1177,7 +1181,7 @@ Door het bevoegd gezag kan ontheffing worden verleend van de artikelen 3, eerste
 
 ### Artikel  88  
 
-1.  Indien op grond van medische noodzaak toepassing wordt gevraagd van [artikel 149, tweede lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor wat betreft ontheffing van de verplichting tot gebruik van autogordels en kinderbeveiligingssystemen, kan een schriftelijke verklaring van een arts worden verlangd.   
+1.  Indien op grond van medische noodzaak toepassing wordt gevraagd van artikel 149, tweede lid, van de wet voor wat betreft ontheffing van de verplichting tot gebruik van autogordels en kinderbeveiligingssystemen, kan een schriftelijke verklaring van een arts worden verlangd.   
 2.  De ontheffing vermeldt een geldigheidsduur van maximaal twintig jaar.   
 3.  Op de ontheffing wordt het symbool zoals aangeduid in artikel 5 van de richtlijn nr 91/671/EEG van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende het verplichte gebruik van veiligheidsgordels in voertuigen van minder dan 3,5 ton (*PbEG* L 373) aangebracht.   
 4.  Een wijziging van de richtlijn nr 91/671/EEG gaat voor de toepassing van het derde lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
@@ -1214,7 +1218,7 @@ Bestuurders van een voorrangsvoertuig mogen afwijken van de voorschriften van di
 2.  In afwijking van het eerste lid behouden de in de rechter kolom genoemde borden 46 en 47 de betekenis die daaraan is toegekend in het in het eerste lid, eerste volzin, genoemde reglement. Zij blijven van kracht tot 1 januari 2009.   
 
 | Bijlage I RVV 1990  | Bijlage II RVV 1966  |
-|:---|:---|
+|---|---|
 | A1  | 1  |
 | A2  | 2  |
 | A4  | 1a (eerste model)  |
@@ -1358,6 +1362,6 @@ E. M. H. Hirsch Ballin
 
 ####Aanwijzingen
 
-![201059](http://wetten.overheid.nl/Illustration/201059)
-![201059](http://wetten.overheid.nl/Illustration/201059)
+![]()
+![]()
 

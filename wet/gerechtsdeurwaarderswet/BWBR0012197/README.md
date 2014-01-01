@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Justitie;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 b. ambtshandelingen: de werkzaamheden, bedoeld in artikel 2;  
 
@@ -142,8 +142,9 @@ In afwijking van artikel 8:4, onderdeel d, van de Algemene wet bestuursrecht kan
 ### Artikel  9  
 
 1.  De gerechtsdeurwaarder legt binnen twee maanden na de dagtekening van zijn benoeming ter openbare terechtzitting voor de rechtbank van het arrondissement waarin de plaats van vestiging is gelegen de navolgende eed of belofte af: «Ik zweer (beloof) getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md).» «Ik zweer (beloof), dat ik mij zal gedragen naar de wetten en voorschriften op mijn ambt van toepassing en dat ik mijn taak eerlijk en nauwgezet zal uitvoeren.» «Voorts zweer (verklaar) ik, dat ik, om tot gerechtsdeurwaarder te worden benoemd, direct of indirect aan niemand, onder welke naam of welk voorwendsel ook, enige giften of gaven beloofd of afgegeven heb, noch beloven of afgeven zal».   
-2.  Indien de eed of belofte niet binnen de in het eerste lid bedoelde termijn is afgelegd, vervalt de benoeming. Onze Minister kan de in het eerste lid bedoelde termijn verlengen.   
-3.  Alvorens de eed of belofte af te leggen, deponeert de gerechtsdeurwaarder zijn handtekening en paraaf ter griffie van de in het eerste lid bedoelde rechtbank. In geval van verandering van plaats van vestiging buiten het arrondissement deponeert de gerechtsdeurwaarder zo spoedig mogelijk na de benoeming op de nieuwe plaats van vestiging zijn handtekening en paraaf ter griffie van de rechtbank in het arrondissement waarin de nieuwe plaats van vestiging is gelegen.   
+2.  Wanneer de eed of belofte, bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed of belofte als volgt: «Ik swar (ûnthjit) trou oan de Kening en de Grûnwet.» «Ik swar (ûnthjit), dat ik my hâlde en drage sil neffens de wetten en foarskriften sa’t dy op myn amt fan tapassing binne en dat ik myn taak earlik en sekuer útfiere sil.» «Fierders swar (ferklearje) ik, dat ik, om ta gerjochtsdoarwarder beneamd te wurden, midlik of streekrjocht oan gjinien, ûnder wat namme of wat útwynsel ek, likefolle hokker jeften of geskinken tasein of ôfjûn haw, noch tasizze of ôfjaan sil».   
+3.  Indien de eed of belofte niet binnen de in het eerste lid bedoelde termijn is afgelegd, vervalt de benoeming. Onze Minister kan de in het eerste lid bedoelde termijn verlengen.   
+4.  Alvorens de eed of belofte af te leggen, deponeert de gerechtsdeurwaarder zijn handtekening en paraaf ter griffie van de in het eerste lid bedoelde rechtbank. In geval van verandering van plaats van vestiging buiten het arrondissement deponeert de gerechtsdeurwaarder zo spoedig mogelijk na de benoeming op de nieuwe plaats van vestiging zijn handtekening en paraaf ter griffie van de rechtbank in het arrondissement waarin de nieuwe plaats van vestiging is gelegen.   
 
 ### Artikel  10  
 
@@ -158,7 +159,7 @@ In afwijking van artikel 8:4, onderdeel d, van de Algemene wet bestuursrecht kan
 
 ### Artikel  11  
 
-De gerechtsdeurwaarder is te allen tijde verplicht in het gehele arrondissement waarin zijn plaats van vestiging is gelegen de ambtshandelingen waartoe hij bevoegd is, te verrichten wanneer hierom wordt verzocht, tenzij: 
+De gerechtsdeurwaarder is te allen tijde verplicht in het gehele arrondissement waarin zijn plaats van vestiging is gelegen dan wel, indien het arrondissement meer dan één provincie omvat, in het deel van het arrondissement dat is gelegen in de provincie waarin zijn plaats van vestiging is gelegen de ambtshandelingen waartoe hij bevoegd is, te verrichten wanneer hierom wordt verzocht, tenzij: 
 
 a. met het oog op zijn persoonlijke omstandigheden dit redelijkerwijs niet van hem kan worden verlangd, of  
 
@@ -218,11 +219,11 @@ d. de kosten van het exploot.
 
 ### Artikel  19  
 
-1.  De gerechtsdeurwaarder is verplicht bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een of meer bijzondere rekeningen aan te houden op zijn naam met vermelding van zijn hoedanigheid, die uitsluitend bestemd zijn voor gelden, die hij in verband met zijn werkzaamheden als zodanig ten behoeve van derden onder zich neemt. Gelden die aan de gerechtsdeurwaarder in verband met zijn werkzaamheden als zodanig ten behoeve van derden worden toevertrouwd, moeten op die rekening worden gestort. De bovenbedoelde kredietinstelling voegt de over de gelden gekweekte rente toe aan het saldo van de bijzondere rekening. Indien deze gelden abusievelijk op een andere rekening van de gerechtsdeurwaarder zijn gestort of indien ten onrechte gelden op de bijzondere rekening zijn gestort, is de gerechtsdeurwaarder verplicht deze onverwijld op de juiste rekening te storten. Hetzelfde geldt indien de gelden rechtstreeks in handen van de gerechtsdeurwaarder zijn gesteld. Indien meer gerechtsdeurwaarders in een maatschap samenwerken, kan de bijzondere rekening ten name van die gerechtsdeurwaarders tezamen, de maatschap of de vennootschap worden gesteld. De gerechtsdeurwaarder vermeldt het nummer van de bijzondere rekening op zijn briefpapier.   
+1.  De gerechtsdeurwaarder is verplicht bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een of meer bijzondere rekeningen aan te houden op zijn naam met vermelding van zijn hoedanigheid, die uitsluitend bestemd zijn voor gelden, die hij in verband met zijn werkzaamheden als zodanig ten behoeve van derden onder zich neemt. Gelden die aan de gerechtsdeurwaarder in verband met zijn werkzaamheden als zodanig ten behoeve van derden worden toevertrouwd, moeten op die rekening worden gestort. De bovenbedoelde bank voegt de over de gelden gekweekte rente toe aan het saldo van de bijzondere rekening. Indien deze gelden abusievelijk op een andere rekening van de gerechtsdeurwaarder zijn gestort of indien ten onrechte gelden op de bijzondere rekening zijn gestort, is de gerechtsdeurwaarder verplicht deze onverwijld op de juiste rekening te storten. Hetzelfde geldt indien de gelden rechtstreeks in handen van de gerechtsdeurwaarder zijn gesteld. Indien meer gerechtsdeurwaarders in een maatschap samenwerken, kan de bijzondere rekening ten name van die gerechtsdeurwaarders tezamen, de maatschap of de vennootschap worden gesteld. De gerechtsdeurwaarder vermeldt het nummer van de bijzondere rekening op zijn briefpapier.   
 2.  De gerechtsdeurwaarder is bij uitsluiting bevoegd tot het beheer en de beschikking over de bijzondere rekening. De gerechtsdeurwaarder kan met een rechthebbende overeenkomen om zijn aandeel in het saldo van de bijzondere rekening periodiek uit te keren. Hij kan aan een onder zijn verantwoordelijkheid werkzame persoon volmacht verlenen. Ten laste van deze rekening mag hij slechts betalingen doen in opdracht van een rechthebbende.   
 3.  Het vorderingsrecht voortvloeiende uit de bijzondere rekening behoort toe aan de gezamenlijke rechthebbenden. Het aandeel van iedere rechthebbende wordt berekend naar evenredigheid van het bedrag dat te zijnen behoeve op de bijzondere rekening is gestort. De gerechtsdeurwaarder of, indien het een gezamenlijke rekening als bedoeld in het eerste lid, zesde volzin betreft, iedere gerechtsdeurwaarder, is verplicht een tekort in het saldo van de bijzondere rekening terstond aan te vullen, en hij is ter zake daarvan aansprakelijk, tenzij hij aannemelijk kan maken dat hem ter zake van het ontstaan van het tekort geen verwijt treft.   
 4.  Een rechthebbende heeft voor zover uit de aard van zijn recht niet anders voortvloeit, te allen tijde recht op uitkering van zijn aandeel in het saldo van de bijzondere rekening. Is het saldo van de bijzondere rekening niet toereikend om aan iedere rechthebbende het bedrag van zijn aandeel uit te keren, dan mag de gerechtsdeurwaarder aan de rechthebbende slechts zoveel uitkeren als in verband met de rechten van de andere rechthebbenden mogelijk is. In dat geval wordt het saldo onder de rechthebbenden verdeeld naar evenredigheid van ieders aandeel, met dien verstande dat, indien een gerechtsdeurwaarder zelf rechthebbende is, hem slechts wordt toegedeeld hetgeen overblijft, nadat de andere rechthebbenden het hun toekomende hebben ontvangen.   
-5.  Er kan geen derdenbeslag worden gelegd onder de in het eerste lid bedoelde kredietinstelling op het aandeel van een rechthebbende in de bijzondere rekening. Is onder de gerechtsdeurwaarder derdenbeslag gelegd op het aandeel van een rechthebbende in de bijzondere rekening, dan kan de gerechtsdeurwaarder die overeenkomstig de [artikelen 476a](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [477 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) verklaring heeft gedaan of die is veroordeeld overeenkomstig [artikel 477a van dat wetboek](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), zonder opdracht van de rechthebbende overeenkomstig de verklaring of veroordeling betalen aan de executant.   
+5.  Er kan geen derdenbeslag worden gelegd onder de in het eerste lid bedoelde bank op het aandeel van een rechthebbende in de bijzondere rekening. Is onder de gerechtsdeurwaarder derdenbeslag gelegd op het aandeel van een rechthebbende in de bijzondere rekening, dan kan de gerechtsdeurwaarder die overeenkomstig de [artikelen 476a](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [477 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) verklaring heeft gedaan of die is veroordeeld overeenkomstig [artikel 477a van dat wetboek](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), zonder opdracht van de rechthebbende overeenkomstig de verklaring of veroordeling betalen aan de executant.   
 6.  Rechtshandelingen verricht in strijd met de bepalingen van dit artikel zijn vernietigbaar. De vernietigingsgrond kan worden ingeroepen door iedere rechtstreeks belanghebbende. Rechten, door derden te goeder trouw anders dan om niet verkregen op gelden die het voorwerp waren van de vernietigde rechtshandeling, worden geëerbiedigd.   
 7.  Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden. Beneden een bij de regeling te bepalen bedrag is geen rente verschuldigd.   
 8.  Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.   
@@ -280,7 +281,8 @@ b. een persoon die voldoet aan de vereisten voor benoeming tot gerechtsdeurwaard
 
 c. in geval van ontslag wegens het bereiken van de leeftijd van zeventig jaar, de ontslagene zelf, doch niet voor langer dan één jaar.     
 3.  Een persoon als bedoeld in het tweede lid, onderdeel b, die voor de eerste maal tot waarnemend gerechtsdeurwaarder wordt benoemd, legt zo spoedig mogelijk na zijn benoeming ter openbare terechtzitting voor de rechtbank van het arrondissement waarin de plaats van vestiging is gelegen, de navolgende eed of belofte af: «Ik zweer (beloof) getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md).» «Ik zweer (beloof), dat ik mij zal gedragen naar de wetten en voorschriften op mijn ambt van toepassing en dat ik mijn taak eerlijk en nauwgezet zal uitvoeren.»   
-4.  De waarneming eindigt: 
+4.  Wanneer de eed of belofte, bedoeld in het derde lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed of belofte als volgt: «Ik swar (ûnthjit) trou oan de Kening en de Grûnwet.» «Ik swar (ûnthjit), dat ik my hâlde en drage sil neffens de wetten en foarskriften sa’t dy op myn amt fan tapassing binne en dat ik myn taak earlik en sekuer útfiere sil.»   
+5.  De waarneming eindigt: 
 
 a. door ontslag door Onze Minister;  
 
@@ -350,8 +352,9 @@ c. indien de kandidaat-gerechtsdeurwaarder reeds eerder als toegevoegd kandidaat
 
 1.  De toegevoegd kandidaat-gerechtsdeurwaarder kan namens en onder verantwoordelijkheid van de gerechtsdeurwaarder op wiens kantoor hij werkzaam is, de ambtshandelingen verrichten waartoe deze bevoegd is, met uitzondering van die waartoe de gerechtsdeurwaarder bevoegd is uit hoofde van een benoeming tot waarnemend gerechtsdeurwaarder.   
 2.  De artikelen 3, tweede en derde lid, 13, 15 en 20 zijn van overeenkomstige toepassing op de toegevoegd kandidaat-gerechtsdeurwaarder. Artikel 23, derde lid, is van overeenkomstige toepassing op de toegevoegd kandidaat-gerechtsdeurwaarder, met dien verstande dat de navolgende eed of belofte wordt afgelegd: «Ik zweer (beloof) getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md).» «Ik zweer (beloof), dat ik mij zal gedragen naar de wetten en voorschriften op het ambt van gerechtsdeurwaarder van toepassing en dat ik mijn taak eerlijk en nauwgezet zal uitvoeren.»   
-3.  Bij het verrichten van ambtshandelingen vermeldt de toegevoegd kandidaat-gerechtsdeurwaarder naast zijn naam, voornamen en hoedanigheid, de naam, voornamen en plaats van vestiging van de gerechtsdeurwaarder aan wie hij is toegevoegd.   
-4.  De toegevoegde kandidaat-gerechtsdeurwaarder verricht geen ambtshandelingen indien voor de gerechtsdeurwaarder een waarnemend gerechtsdeurwaarder is benoemd, tenzij de waarnemend gerechtsdeurwaarder hem, na kennisgeving aan Onze Minister, toestemming heeft verleend om onder verantwoordelijkheid van de waarnemend gerechtsdeurwaarder zijn werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder voort te zetten.   
+3.  Wanneer de eed of belofte, bedoeld in het tweede lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed of belofte als volgt: «Ik swar (ûnthjit) trou oan de Kening en de Grûnwet.» «Ik swar (ûnthjit), dat ik my hâlde en drage sil neffens de wetten en foarskriften sa’t dy op it amt fan gerjochtsdoarwarder fan tapassing binne en dat ik myn taak earlik en sekuer útfiere sil.»   
+4.  Bij het verrichten van ambtshandelingen vermeldt de toegevoegd kandidaat-gerechtsdeurwaarder naast zijn naam, voornamen en hoedanigheid, de naam, voornamen en plaats van vestiging van de gerechtsdeurwaarder aan wie hij is toegevoegd.   
+5.  De toegevoegde kandidaat-gerechtsdeurwaarder verricht geen ambtshandelingen indien voor de gerechtsdeurwaarder een waarnemend gerechtsdeurwaarder is benoemd, tenzij de waarnemend gerechtsdeurwaarder hem, na kennisgeving aan Onze Minister, toestemming heeft verleend om onder verantwoordelijkheid van de waarnemend gerechtsdeurwaarder zijn werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder voort te zetten.   
 
 ### Artikel  29  
 
@@ -375,8 +378,7 @@ d. benoeming van de toegevoegd kandidaat-gerechtsdeurwaarder tot gerechtsdeurwaa
 
 ### Artikel  30  
 
-1.  Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of krachtens de artikelen 17, 19, eerste lid, tweede lid, derde volzin, en zevende lid, wordt uitgeoefend door het Bureau Financieel Toezicht, bedoeld in [artikel 110 van de Wet op het notarisambt](../../../wet/notariswet/BWBR0010388/README.md). [Titel 5.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  De [artikelen 110, tweede tot en met elfde lid](../../../wet/notariswet/BWBR0010388/README.md), [111](../../../wet/notariswet/BWBR0010388/README.md) en [112, zevende en achtste lid](../../../wet/notariswet/BWBR0010388/README.md) en [113 van de Wet op het notarisambt](../../../wet/notariswet/BWBR0010388/README.md) zijn van overeenkomstige toepassing.   
+Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of krachtens de artikelen 17, 19, eerste lid, tweede lid, derde volzin, en zevende lid, wordt uitgeoefend door het Bureau Financieel Toezicht, bedoeld in [artikel 110 van de Wet op het notarisambt](../../../wet/notariswet/BWBR0010388/README.md). [Titel 5.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
 
 ### Artikel  31  
 
@@ -401,8 +403,8 @@ d. benoeming van de toegevoegd kandidaat-gerechtsdeurwaarder tot gerechtsdeurwaa
 
 1.  De gerechtsdeurwaarder is aan tuchtrechtspraak onderworpen ter zake van enig handelen of nalaten in strijd met enige bij of krachtens deze wet gegeven bepaling en ter zake van enig handelen of nalaten dat een behoorlijk gerechtsdeurwaarder onderscheidenlijk kandidaat-gerechtsdeurwaarder niet betaamt.   
 2.  De tuchtrechtspraak wordt in eerste aanleg uitgeoefend door een kamer voor gerechtsdeurwaarders. De kamer voor gerechtsdeurwaarders is gevestigd te Amsterdam. Zij kan ook buiten de vestigingsplaats zitting houden.   
-3.  De tuchtrechtspraak wordt in hoger beroep uitgeoefend door het gerechtshof te Amsterdam. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten, behoudens cassatie in het belang der wet.   
-4.  Een lid dan wel plaatsvervangend lid van de kamer voor gerechtsdeurwaarders die gerechtsdeurwaarder is, wordt ingeval tegen hem een klacht is ingediend onderscheidenlijk een verzoek is gedaan als bedoeld in artikel 37, tweede lid, vervangen door een door de president van het gerechtshof te Amsterdam aan te wijzen ander lid dan wel plaatsvervangend lid, door Onze Minister benoemd op grond van artikel 35, derde lid.   
+3.  De tuchtrechtspraak wordt in hoger beroep uitgeoefend door het gerechtshof Amsterdam. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten, behoudens cassatie in het belang der wet.   
+4.  Een lid dan wel plaatsvervangend lid van de kamer voor gerechtsdeurwaarders die gerechtsdeurwaarder is, wordt ingeval tegen hem een klacht is ingediend onderscheidenlijk een verzoek is gedaan als bedoeld in artikel 37, tweede lid, vervangen door een door de president van het gerechtshof Amsterdam aan te wijzen ander lid dan wel plaatsvervangend lid, door Onze Minister benoemd op grond van artikel 35, derde lid.   
 5.  De gerechtsdeurwaarder blijft in geval van schorsing of ontslag aan de tuchtrechtspraak onderworpen ter zake van enig handelen of nalaten als bedoeld in het eerste lid, gedurende de tijd dat hij als deurwaarder werkzaam was.   
 6.  De voorzitter van de kamer voor gerechtsdeurwaarders kan, indien hij zulks in het belang van het onderzoek wenselijk acht, het Bureau opdragen een onderzoek in te stellen en hem van zijn bevindingen verslag uit te brengen.   
 
@@ -413,7 +415,7 @@ d. benoeming van de toegevoegd kandidaat-gerechtsdeurwaarder tot gerechtsdeurwaa
 3.  Onze Minister benoemt, de voorzitter van de kamer voor gerechtsdeurwaarders gehoord, twee leden en vier plaatsvervangende leden uit de gerechtsdeurwaarders, op aanbeveling van de KBvG. De aanbeveling omvat voor iedere benoeming ten minste drie namen.   
 4.  De leden en de plaatsvervangende leden worden benoemd voor vier jaren; zij zijn bij hun aftreden eenmaal herbenoembaar.   
 5.  Het lidmaatschap van de kamer voor gerechtsdeurwaarders is onverenigbaar met het lidmaatschap van het bestuur van de KBvG.   
-6.  De griffier van de rechtbank te Amsterdam is secretaris van de kamer. Met toestemming van de voorzitter kan hij zich doen vervangen door een waarnemend griffier.   
+6.  Een door het bestuur van de rechtbank Amsterdam voor het verrichten van de werkzaamheden die bij of krachtens de wet aan de griffier zijn opgedragen aangewezen gerechtsambtenaar, rechterlijk ambtenaar in opleiding, senior-gerechtsauditeur of gerechtsauditeur is secretaris van de kamer. Met toestemming van de voorzitter kan hij zich doen vervangen door een andere door het bestuur van de rechtbank Amsterdam voor het verrichten van de in de eerste volzin bedoelde werkzaamheden aangewezen gerechtsambtenaar, rechterlijk ambtenaar in opleiding, senior-gerechtsauditeur of gerechtsauditeur.   
 7.  De reis- en verblijfskosten van de voorzitter, de plaatsvervangend voorzitter, de leden, de plaatsvervangende leden en de secretaris komen ten laste van de Staat.   
 
 ### Artikel  36  
@@ -454,7 +456,7 @@ c. degene die met de andere leden van de kamer voor gerechtsdeurwaarders over wr
 3.  Over het voornemen tot schorsing wordt de betrokken gerechtsdeurwaarder gehoord.   
 4.  Ingeval de kamer voor gerechtsdeurwaarders naar aanleiding van de in artikel 34, eerste lid, bedoelde handelingen of verzuimen beslist tot het opleggen van een schorsing gedurende een bepaalde termijn, kan zij de periode van schorsing ingevolge het eerste lid in mindering brengen op die termijn.   
 5.  Het eerste lid is van overeenkomstige toepassing indien tegen een gerechtsdeurwaarder een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het uitoefenen van het ambt van gerechtsdeurwaarder raakt.   
-6.  Binnen dertig dagen na de mededeling, bedoeld in het tweede lid, kan Onze Minister of de betrokken gerechtsdeurwaarder daartegen bij met redenen omkleed beroepschrift beroep instellen bij het gerechtshof te Amsterdam. Het beroep schorst de beslissing waartegen het is gericht niet.   
+6.  Binnen dertig dagen na de mededeling, bedoeld in het tweede lid, kan Onze Minister of de betrokken gerechtsdeurwaarder daartegen bij met redenen omkleed beroepschrift beroep instellen bij het gerechtshof Amsterdam. Het beroep schorst de beslissing waartegen het is gericht niet.   
 
 ### Artikel  39  
 
@@ -465,7 +467,7 @@ c. degene die met de andere leden van de kamer voor gerechtsdeurwaarders over wr
 
 ### Artikel  40  
 
-1.  Indien artikel 39, eerste lid, geen toepassing vindt of het verzet gegrond is verklaard, zendt de griffier zo spoedig mogelijk een afschrift van het klaagschrift en de daarbij gevoegde bescheiden aan de betrokken gerechtsdeurwaarder.   
+1.  Indien artikel 39, eerste lid, geen toepassing vindt of het verzet gegrond is verklaard, zendt de secretaris zo spoedig mogelijk een afschrift van het klaagschrift en de daarbij gevoegde bescheiden aan de betrokken gerechtsdeurwaarder.   
 2.  Binnen een maand na dagtekening van de verzending van de in het eerste lid bedoelde bescheiden kan de betrokken gerechtsdeurwaarder een verweerschrift indienen; de voorzitter kan deze termijn op verzoek verlengen. De secretaris zendt afschrift van dit geschrift aan de klager.   
 3.  De voorzitter is bevoegd aan de betrokken gerechtsdeurwaarder te vragen binnen een door hem te bepalen termijn schriftelijke inlichtingen te verschaffen en onder hem berustende of te zijner beschikking staande bescheiden, al dan niet in gewaarmerkt afschrift, en voorwerpen in te zenden.   
 
@@ -513,7 +515,7 @@ De artikelen 40 tot en met 43 zijn van overeenkomstige toepassing op de behandel
 
 ### Artikel  45  
 
-1.  Tegen een beslissing van de kamer voor gerechtsdeurwaarders inzake een tegen een gerechtsdeurwaarder gerezen bezwaar kan door Onze Minister, de betrokken gerechtsdeurwaarder of de klager binnen dertig dagen na dagtekening van de schriftelijke kennisgeving, bedoeld in artikel 43, zesde lid, bij met redenen omkleed beroepschrift, hoger beroep worden ingesteld bij het gerechtshof te Amsterdam.   
+1.  Tegen een beslissing van de kamer voor gerechtsdeurwaarders inzake een tegen een gerechtsdeurwaarder gerezen bezwaar kan door Onze Minister, de betrokken gerechtsdeurwaarder of de klager binnen dertig dagen na dagtekening van de schriftelijke kennisgeving, bedoeld in artikel 43, zesde lid, bij met redenen omkleed beroepschrift, hoger beroep worden ingesteld bij het gerechtshof Amsterdam.   
 2.  Het beroepschrift wordt ingediend bij de griffier van het gerechtshof tezamen met een authentiek afschrift van de beslissing waartegen het beroep is gericht.   
 3.  Het beroep wordt behandeld door een kamer van het gerechtshof, belast met de behandeling van burgerlijke zaken.   
 4.  De leden van het gerechtshof kunnen zich verschonen en kunnen worden gewraakt, indien er te hunnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de rechterlijke onpartijdigheid schade zou kunnen lijden. Titel IV van het Vierde Boek van het Wetboek van Strafvordering is van overeenkomstige toepassing met dien verstande dat: 
@@ -606,7 +608,7 @@ e. blijvende ongeschiktheid voor de vervulling van het ambt van gerechtsdeurwaar
 
 ### Artikel  54  
 
-1.  Binnen een maand na dagtekening van de kennisgeving, bedoeld in artikel 53, vijfde lid, kunnen de betrokken gerechtsdeurwaarder en Onze Minister bij met redenen omkleed geschrift, in te dienen bij de griffier, tegen de beslissing van de kamer voor gerechtsdeurwaarders hoger beroep instellen bij het gerechtshof te Amsterdam.   
+1.  Binnen een maand na dagtekening van de kennisgeving, bedoeld in artikel 53, vijfde lid, kunnen de betrokken gerechtsdeurwaarder en Onze Minister bij met redenen omkleed geschrift, in te dienen bij de griffier, tegen de beslissing van de kamer voor gerechtsdeurwaarders hoger beroep instellen bij het gerechtshof Amsterdam.   
 2.  Op de behandeling van het hoger beroep zijn de artikelen 40, tweede en derde lid, 41, 42, 45, tweede tot en met vierde lid, en 46 van overeenkomstige toepassing. [Hoofdstuk 6 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt geen toepassing.   
 3.  Het gerechtshof bevestigt de beslissing van de kamer voor gerechtsdeurwaarders, hetzij met overneming, hetzij met verbetering van de gronden, of doet met gehele of gedeeltelijke vernietiging van de beslissing, hetgeen de kamer voor gerechtsdeurwaarders had behoren te doen. Artikel 48 is van overeenkomstige toepassing.   
 
@@ -667,7 +669,7 @@ De voorzitter van het bestuur van de KBvG is in die hoedanigheid belast met de l
 
 ### Artikel  63  
 
-1.  De ledenraad bestaat uit dertig leden, met dien verstande dat uit ieder ressort zes leden in de ledenraad worden gekozen. De per ressort gekozen leden vormen een afspiegeling van de in dat ressort bestaande verhouding tussen gerechtsdeurwaarders en toegevoegd kandidaat-gerechtsdeurwaarders. Ieder lid heeft een plaatsvervanger.   
+1.  De ledenraad bestaat uit dertig leden, met dien verstande dat uit de ressorten Amsterdam, Den Haag en ’s-Hertogenbosch elk zes leden en uit het ressort Arnhem-Leeuwarden twaalf leden worden gekozen. De per ressort gekozen leden vormen een afspiegeling van de in dat ressort bestaande verhouding tussen gerechtsdeurwaarders en toegevoegd kandidaat-gerechtsdeurwaarders. Ieder lid heeft een plaatsvervanger.   
 2.  De gewone leden en hun plaatsvervangers worden door de algemene ledenvergadering gekozen voor een termijn van drie jaren en zij zijn slechts eenmaal voor eenzelfde termijn herkiesbaar.   
 
 ### Artikel  64  

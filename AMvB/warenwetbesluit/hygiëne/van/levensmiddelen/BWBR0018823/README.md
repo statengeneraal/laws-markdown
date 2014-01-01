@@ -74,25 +74,25 @@ d. de officiële controles op de naleving van de wetgeving inzake diervoeders, d
 1.  Het is verboden te handelen in strijd met de artikelen 3, 4, eerste, tweede, en derde lid, 5, eerste lid, tweede lid, laatste alinea, en vierde lid, en 6, tweede lid, en derde lid, onder a, b, en c, van verordening (EG) 852/2004.   
 2.  Het is verboden te handelen in strijd met de artikelen 3, 4, eerste tot en met vierde lid, 5, 6, eerste, derde, en vierde lid, 7, eerste lid, en 8, eerste lid, van verordening (EG) 853/2004.   
 3.  Het is verboden te handelen in strijd met de artikelen 3, 4, 5, eerste, tweede en vierde lid, 6, eerste lid, 7, en 9, van verordening (EG) 2073/2005.   
-4.  Het is verboden te handelen in strijd met de krachtens de artikelen 3, vierde lid, 10 en 10a vastgestelde regels.   
+4.  Het is verboden te handelen in strijd met de krachtens de artikelen 3, vierde lid, en 10 vastgestelde regels.   
 5.  Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van artikel 8.   
 
 ### Artikel  3  
 
 1.  Bevoegde autoriteit: 
 
-a. bedoeld in artikel 2, eerste lid, onder d, van verordening (EG) 852/2004, en in artikel 2, eerste lid, onder c, van verordening (EG) 854/2004, is de Voedsel en Waren Autoriteit;  
+a. bedoeld in artikel 2, eerste lid, onder d, van verordening (EG) 852/2004, en in artikel 2, eerste lid, onder c, van verordening (EG) 854/2004, is de Nederlandse Voedsel- en Waren Autoriteit;  
 
-b. bedoeld in artikel 2, eerste lid, onder d, van verordening (EG) 852/2004, met betrekking tot bijlage I van die verordening, is de Algemene Inspectiedienst;  
-
-c. bedoeld in artikel 2, vierde lid, van verordening (EG) 882/2004, zijn de diensten waarbij de krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) aangewezen ambtenaren, belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften, werkzaam zijn.     
+b. bedoeld in artikel 2, vierde lid, van verordening (EG) 882/2004, zijn de diensten waarbij de krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) aangewezen ambtenaren, belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften, werkzaam zijn.     
 2.  In afwijking van het eerste lid is Onze Minister de bevoegde autoriteit inzake: 
 
 a. de verlening van erkenningen van inrichtingen als bedoeld in: 
 
 1°. artikel 4 van verordening (EG) 853/2004;  
 
-2°. artikel 3 van verordening (EG) 854/2004;    
+2°. artikel 3 van verordening (EG) 854/2004;  
+
+3°. artikel 6, derde lid, onder c, van verordening (EG) nr. 852/2004;    
 
 b. het bij niet-naleving van verordening (EG) 852/2004 of van verordening (EG) 853/2004 indien nodig: 
 
@@ -105,7 +105,7 @@ b. het bij niet-naleving van verordening (EG) 852/2004 of van verordening (EG) 8
 4°. machtiging verlenen om eet- en drinkwaren aan te wenden voor andere doeleinden dan waarvoor zij oorspronkelijk waren bedoeld; of  
 
 5°. tijdelijk, geheel of gedeeltelijk, gelasten van de sluiting van het betrokken bedrijf.       
-3.  In afwijking van het eerste lid is het Productschap Vis de bevoegde autoriteit, bedoeld in bijlage II, hoofdstuk II, van verordening (EG) 854/2004. Dat productschap informeert ook de Voedsel en Waren Autoriteit op de voet van punt E, onder a en b, van dat hoofdstuk.   
+3.  In afwijking van het eerste lid is het Productschap Vis de bevoegde autoriteit, bedoeld in bijlage II, hoofdstuk II, van verordening (EG) 854/2004. Dat productschap informeert ook de Nederlandse Voedsel- en Warenautoriteit op de voet van punt E, onder a en b, van dat hoofdstuk.   
 4.  Bij regeling van Onze Minister worden procedures vastgesteld als bedoeld in artikel 11, vijfde lid, en artikel 31, eerste lid, onder a, en tweede lid, onder a, van verordening (EG) 882/2004.   
 
 ### §  2  
@@ -128,7 +128,7 @@ b. bruikbaar is voor de sector waarop die code betrekking heeft;
 c. waar mogelijk en zinvol ter verificatie van de procesbeheersing is voorzien van microbiologische richtwaarden, gerelateerd aan de kritische controlepunten, bedoeld in artikel 5, tweede lid, van verordening (EG) 852/2004; en  
 
 d. als leidraad kan dienen voor de naleving van artikel 3, artikel 4, of artikel 5, van verordening (EG) 852/2004 in de betrokken sector of voor de betrokken levensmiddelen.     
-3.  In afwijking van het tweede lid keurt Onze Minister van Landbouw, Natuur en Voedselkwaliteit een hygiënecode goed die: 
+3.  In afwijking van het tweede lid keurt Onze Minister van Economische Zaken, Landbouw en Innovatie een hygiënecode goed die: 
 
 a. betrekking heeft op de primaire productie en de in bijlage I van verordening (EG) 852/2004 bedoelde, daarmee verband houdende bewerkingen;  
 
@@ -138,7 +138,7 @@ c. bruikbaar is voor de sector waarop die code betrekking heeft; en
 
 d. als leidraad kan dienen voor de naleving van artikel 3, artikel 4, en artikel 5, van verordening (EG) 852/2004 in de betrokken sector of voor de betrokken levensmiddelen.     
 4.  Een in het tweede lid bedoelde goedkeuring kan, voor zover die goedkeuring betrekking heeft op één of meer van de permanente procedures, bedoeld in artikel 5, eerste lid, van verordening (EG) 852/2004, worden ingetrokken indien de desbetreffende procedure niet is herzien en waar nodig aangepast overeenkomstig artikel 5, tweede lid, laatste alinea, van verordening (EG) 852/2004.   
-5.  Onze Minister of Onze Minister van Landbouw, Natuur en Voedselkwaliteit, neemt een in het tweede en vierde lid onderscheidenlijk het derde en vierde lid bedoeld besluit, gehoord het advies van de Voedsel en Waren Autoriteit.   
+5.  Onze Minister of Onze Minister van Economische Zaken, Landbouw en Innovatie, neemt een in het tweede en vierde lid onderscheidenlijk het derde en vierde lid bedoeld besluit, gehoord het advies van de Nederlandse Voedsel- en Warenautoriteit.   
 6.  Het vierde en vijfde lid zijn van overeenkomstige toepassing op een hygiënecode die vóór de inwerkingtreding van dit besluit is opgesteld en goedgekeurd op de voet van [artikel 31, eerste, tweede en derde lid, van de Warenwetregeling Hygiëne van levensmiddelen](../../../../../../ministeriele-regeling/warenwetregeling/hygiëne/van/levensmiddelen/BWBR0007080/README.md).   
 
 ### Artikel  5  
@@ -210,7 +210,7 @@ b. indien die melk niet binnen 24 uur na het melken verkocht wordt: een temperat
 
 ### Artikel  9  
 
-De Voedsel en Waren Autoriteit is bevoegd de toestemming te verlenen, bedoeld in artikel 10, achtste lid, onder b, van verordening (EG) 853/2004.  
+De Nederlandse Voedsel- en Warenautoriteit is bevoegd de toestemming te verlenen, bedoeld in artikel 10, achtste lid, onder b, van verordening (EG) 853/2004.  
 
 ### Artikel  10  
 

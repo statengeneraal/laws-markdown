@@ -688,15 +688,16 @@ b. met behulp van zodanige gegevens, hulpmiddelen en materialen verrichte onderz
 
 ### Artikel  69  
 
-1.  Een taak die ingevolge bij of krachtens deze wet gestelde regels wordt verricht door een deskundige, wordt slechts uitgevoerd door een persoon die als zodanig met het oog op de uitvoering van de betrokken taak is ingeschreven in een door Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken, Landbouw en Innovatie aan te wijzen register.   
-2.  Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken, Landbouw en Innovatie beslissen op de aanvraag voor inschrijving in een register als bedoeld in het eerste lid. Zij zijn bevoegd de inschrijving door te halen.   
-3.  Een inschrijving in een register geldt voor een bepaalde tijd. Aan een inschrijving kunnen voorschriften worden verbonden.   
-4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de eisen met betrekking tot vaardigheden en bekwaamheden waaraan een persoon moet voldoen om als deskundige in een register te kunnen worden ingeschreven.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de inschrijving in een register, die in ieder geval betrekking kunnen hebben op: 
+1.  Bij of krachtens algemene maatregel van bestuur wordt bepaald welke taken worden verricht door een deskundige en worden regels gesteld met betrekking tot de vaardigheden en bekwaamheden, waaraan deskundigen moeten voldoen.   
+2.  Bij de maatregel kan worden bepaald dat daarbij aangewezen taken slechts mogen worden verricht door een persoon die met het oog op de uitvoering van die taken is ingeschreven in een door Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Volksgezondheid, Welzijn en Sport aan te wijzen register.   
+3.  Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken, Landbouw en Innovatie beslissen op de aanvraag voor inschrijving in een register als bedoeld in het tweede lid. Zij zijn bevoegd de inschrijving door te halen.   
+4.  Een inschrijving in een register geldt voor een bepaalde tijd. Aan een inschrijving kunnen voorschriften worden verbonden.   
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de eisen met betrekking tot vaardigheden en bekwaamheden waaraan een persoon moet voldoen om als deskundige in een register te kunnen worden ingeschreven.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de inschrijving in een register, die in ieder geval betrekking kunnen hebben op: 
 
 a. de wijze waarop de aanvraag voor inschrijving in een register wordt gedaan en de door de aanvrager te verschaffen gegevens en bescheiden;  
 
-b. de gronden waarop en de gevallen waarin de inschrijving kan worden geweigerd of doorgehaald;  
+b. de gronden waarop en de gevallen waarin de inschrijving kan worden geweigerd, doorgehaald of geschorst;  
 
 c. de vergoeding die is verschuldigd in verband met de inschrijving in een register;  
 
@@ -704,7 +705,7 @@ d. de aanwijzing van een register;
 
 e. het beheer van een register;  
 
-f. de taakverdeling tussen Onze in het eerste lid genoemde Ministers.     
+f. de taakverdeling tussen Onze in het tweede lid genoemde Ministers.     
 
 ### Artikel  69a  
 
@@ -810,6 +811,10 @@ c. de veiligheid van de Staat gelijk gesteld met de veiligheid van een vreemde S
 ### Artikel  81  
 
 De in de artikelen 79 en 80 strafbaar gestelde feiten zijn misdrijven.  
+
+### Artikel  82  
+
+Ingeval bij of krachtens deze wet regels worden gesteld met gebruikmaking van door het Internationaal Atoomenergieagentschap vastgestelde veiligheidsnormen, kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.  
 
 ### Artikel  83  
 

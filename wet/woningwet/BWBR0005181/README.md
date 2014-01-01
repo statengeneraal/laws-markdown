@@ -22,11 +22,11 @@ b. slopen: het afbreken van een bouwwerk of een gedeelte daarvan;
 
 c. gebouw: elk bouwwerk, dat een voor mensen toegankelijke overdekte geheel of gedeeltelijk met wanden omsloten ruimte vormt;  
 
-d. omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+d. omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht;  
 
-e. bevoegd gezag: het bestuursorgaan, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel, bij het ontbreken van een bestuursorgaan als bedoeld in dat artikellid, burgemeester en wethouders;  
+e. bevoegd gezag: het bestuursorgaan, bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht, dan wel, bij het ontbreken van een bestuursorgaan als bedoeld in dat artikellid, burgemeester en wethouders;  
 
-f. bestemmingsplan: een bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), alsmede een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of  [3.28 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of een beheersverordening als bedoeld in [artikel 3.38 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+f. bestemmingsplan: een bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening, alsmede een inpassingsplan als bedoeld in artikel 3.26 of  3.28 van die wet of een beheersverordening als bedoeld in artikel 3.38 van die wet;  
 
 g. rooilijn: de lijn die, behoudens toegelaten afwijkingen, bij het bouwen van een bouwwerk aan de wegzijde of aan de van de weg afgekeerde zijde niet mag worden overschreden;  
 
@@ -93,7 +93,7 @@ d. het uitvoeren van bouw- of sloopwerkzaamheden.
 
 a. voorschriften inhoudende een verbod tot ingebruikneming of gebruik zonder het doen van een gebruiksmelding aan het bevoegd gezag;  
 
-b. voorschriften inhoudende de bevoegdheid om bij de bouwverordening, bedoeld in artikel 8, af te wijken van het aantal personen vanaf waar bij het bieden van nachtverblijf aan die personen krachtens [artikel 2.1, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een vergunning voor het in gebruik nemen of gebruiken van een bouwwerk is vereist.   Tot de voorschriften omtrent de onderwerpen, bedoeld in het tweede lid, onderdelen c en d, behoren in ieder geval: 
+b. voorschriften inhoudende de bevoegdheid om bij de bouwverordening, bedoeld in artikel 8, af te wijken van het aantal personen vanaf waar bij het bieden van nachtverblijf aan die personen krachtens artikel 2.1, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht een vergunning voor het in gebruik nemen of gebruiken van een bouwwerk is vereist.   Tot de voorschriften omtrent de onderwerpen, bedoeld in het tweede lid, onderdelen c en d, behoren in ieder geval: 
 
 a. voorschriften inhoudende de verplichting om het voornemen te slopen aan het bevoegd gezag te melden;  
 
@@ -120,7 +120,7 @@ Op de voordracht van Onze Minister wordt een algemene maatregel van bestuur als 
 
 ### Artikel  6  
 
-1.  Bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, kan worden bepaald dat van een daarbij gegeven voorschrift omtrent het bouwen van een bouwwerk bij een omgevingsvergunning voor het bouwen van een bouwwerk kan worden afgeweken tot een bij dat voorschrift aangegeven niveau of, indien sprake is van het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk dat tevens kan worden aangemerkt als een activiteit met betrekking tot een monument als bedoeld in [artikel 2.1, eerste lid, onder f](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel [artikel 2.2, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in het belang van de monumentenzorg.   
+1.  Bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, kan worden bepaald dat van een daarbij gegeven voorschrift omtrent het bouwen van een bouwwerk bij een omgevingsvergunning voor het bouwen van een bouwwerk kan worden afgeweken tot een bij dat voorschrift aangegeven niveau of, indien sprake is van het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk dat tevens kan worden aangemerkt als een activiteit met betrekking tot een monument als bedoeld in artikel 2.1, eerste lid, onder f, dan wel artikel 2.2, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht, in het belang van de monumentenzorg.   
 2.  Het bevoegd gezag kan van een bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, tweede of derde lid, gegeven voorschrift omtrent het slopen of het uitvoeren van bouw- of sloopwerkzaamheden ontheffing verlenen, voor zover dat bij of krachtens die algemene maatregel van bestuur is toegestaan.   
 
 ### Artikel  7  
@@ -129,10 +129,10 @@ Op de voordracht van Onze Minister wordt een algemene maatregel van bestuur als 
 2.  Een verzoek als bedoeld in het eerste lid, gaat vergezeld van een verklaring van het bevoegd gezag, dat het de desbetreffende omgevingsvergunning zal verlenen indien ontheffing als bedoeld in dat lid, is verkregen.   
 3.  Aan een ontheffing als bedoeld in het eerste lid, mogen slechts voorwaarden worden verbonden ter bescherming van de belangen, waarop de voorschriften, waarvan ontheffing wordt verleend, het oog hebben.   
 4.  Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking van de beslissing op een verzoek als bedoeld in het eerste lid, doet Onze Minister daarvan mededeling aan het bevoegd gezag.   
-5.  De verlening van de verklaring, bedoeld in het tweede lid, en de verlening van ontheffing, bedoeld in het eerste lid, worden geacht voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) deel uit te maken van de beschikking waarop zij betrekking hebben.   
+5.  De verlening van de verklaring, bedoeld in het tweede lid, en de verlening van ontheffing, bedoeld in het eerste lid, worden geacht voor de mogelijkheid van beroep ingevolge hoofdstuk 8 van de Algemene wet bestuursrecht deel uit te maken van de beschikking waarop zij betrekking hebben.   
 6.  In een geval als bedoeld in het eerste lid, dat betrekking heeft op een tunnel in het trans-Europese wegennet die langer is dan 500 meter kan Onze Minister de in het eerste lid bedoelde ontheffing slechts verlenen indien dat noodzakelijk is voor het toepassen van innovatieve veiligheidsvoorzieningen of innovatieve veiligheidsprocedures, en de in artikel 14 van richtlijn nr. 2004/54/EG van het Europees parlement en de Raad van de Europese Unie van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEU L 167, gerectificeerd in PbEU L 201) voorgeschreven procedure is doorlopen en op grond daarvan van rechtswege toestemming is verkregen of door de Europese Commissie toestemming is verleend.   
-7.  In een geval als bedoeld in het zesde lid verzoekt de tunnelbeheerder, bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), aan Onze Minister om de ontheffing als bedoeld in het eerste lid niet te verlenen dan nadat het voornemen daartoe aan de Europese Commissie is voorgelegd.   
-8.  Het eerste, derde, vierde, zesde en zevende lid zijn van overeenkomstige toepassing indien voor het bouwen op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist.   
+7.  In een geval als bedoeld in het zesde lid verzoekt de tunnelbeheerder, bedoeld in de Wet aanvullende regels veiligheid wegtunnels, aan Onze Minister om de ontheffing als bedoeld in het eerste lid niet te verlenen dan nadat het voornemen daartoe aan de Europese Commissie is voorgelegd.   
+8.  Het eerste, derde, vierde, zesde en zevende lid zijn van overeenkomstige toepassing indien voor het bouwen op grond van artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht geen omgevingsvergunning is vereist.   
 
 ### Artikel  7a  
 
@@ -144,7 +144,7 @@ a. niet binnen acht weken na ontvangst van het verzoek een beslissing op dat ver
 
 b. niet binnen acht weken na ontvangst van het verzoek heeft besloten de beslissing op dat verzoek te verdagen, of  
 
-c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een beslissing op dat verzoek heeft genomen.   Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een beslissing op dat verzoek heeft genomen.   Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht.   
 
 ### Afdeling  2  
 
@@ -152,7 +152,7 @@ c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een 
 
 ### Artikel  7b  
 
-1.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede en vijfde lid, met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist.   
+1.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede en vijfde lid, met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht geen omgevingsvergunning is vereist.   
 2.  Het verbod, bedoeld in het eerste lid, heeft mede betrekking op het niet voldoen aan de voorschriften met betrekking tot het bouwen, van een bouwwerk, bedoeld in: 
 
 a. artikel 8, zevende lid, voor zover deze voorschriften in de bouwverordening zijn opgenomen;  
@@ -168,7 +168,7 @@ b. artikel 8, achtste lid, indien en voor zover deze voorschriften op grond van 
 
 a. waarin voortdurend of nagenoeg voortdurend mensen zullen verblijven,  
 
-b. voor het bouwen waarvan een omgevingsvergunning is vereist, met uitzondering van bouwwerken die naar aard en omvang gelijk zijn aan een bouwwerk waarvoor op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een dergelijke vergunning niet is vereist, en  
+b. voor het bouwen waarvan een omgevingsvergunning is vereist, met uitzondering van bouwwerken die naar aard en omvang gelijk zijn aan een bouwwerk waarvoor op grond van artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht een dergelijke vergunning niet is vereist, en  
 
 c. 
 
@@ -205,7 +205,7 @@ De in de bouwverordening vervatte voorschriften omtrent de rooilijnen en de plaa
 
 ### Artikel  11  
 
-1.  Bij een in de bouwverordening gegeven voorschrift kan worden bepaald, dat daarvan kan worden afgeweken bij een vergunning voor een bouw- of sloopactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), respectievelijk [2.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+1.  Bij een in de bouwverordening gegeven voorschrift kan worden bepaald, dat daarvan kan worden afgeweken bij een vergunning voor een bouw- of sloopactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, respectievelijk 2.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht.   
 2.  Van een voorschrift dat overeenkomstig artikel 8, negende lid, in de bouwverordening is opgenomen kan slechts worden afgeweken voor zover dat is toegestaan op grond van een algemene maatregel van bestuur krachtens artikel 8, achtste lid.   
 
 ### Afdeling  3  
@@ -218,10 +218,10 @@ De in de bouwverordening vervatte voorschriften omtrent de rooilijnen en de plaa
 
 a. een bestaand bouwwerk, met uitzondering van een bouwwerk, niet zijnde een seizoensgebonden bouwwerk, waarvoor in de omgevingsvergunning voor het bouwen van dat bouwwerk is bepaald dat dit slechts voor een bepaalde periode in stand mag worden gehouden;  
 
-b. een te bouwen bouwwerk voor het bouwen waarvan op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geen omgevingsvergunning is vereist,   mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in artikel 12a, eerste lid, onderdeel b.   
-2.  De gemeenteraad kan besluiten dat, in afwijking van het eerste lid en [artikel 2.10, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor een daarbij aan te wijzen gebied of voor een of meer daarbij aan te wijzen categorieën van bestaande en te bouwen bouwwerken geen redelijke eisen van welstand van toepassing zijn.   
+b. een te bouwen bouwwerk voor het bouwen waarvan op grond van artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht geen omgevingsvergunning is vereist,   mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in artikel 12a, eerste lid, onderdeel b.   
+2.  De gemeenteraad kan besluiten dat, in afwijking van het eerste lid en artikel 2.10, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht, voor een daarbij aan te wijzen gebied of voor een of meer daarbij aan te wijzen categorieën van bestaande en te bouwen bouwwerken geen redelijke eisen van welstand van toepassing zijn.   
 3.  Voor zover de toepassing van de criteria, bedoeld in artikel 12a, eerste lid, onderdeel a, leidt tot strijd met het bestemmingsplan of met in de bouwverordening opgenomen voorschriften van stedenbouwkundige aard, blijven die criteria buiten toepassing.   
-4.  De gemeenteraad betrekt de ingezetenen van de gemeente en belanghebbenden bij de voorbereiding van besluiten krachtens het tweede lid op de wijze voorzien in de krachtens [artikel 150 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening.   
+4.  De gemeenteraad betrekt de ingezetenen van de gemeente en belanghebbenden bij de voorbereiding van besluiten krachtens het tweede lid op de wijze voorzien in de krachtens artikel 150 van de Gemeentewet vastgestelde verordening.   
 
 ### Artikel  12a  
 
@@ -244,7 +244,7 @@ c. kunnen verschillen naargelang de plaats waar een bouwwerk is gelegen.
 ### Artikel  12b  
 
 1.  De welstandscommissie dan wel de stadsbouwmeester baseert haar onderscheidenlijk zijn advies slechts op de criteria, bedoeld in artikel 12a, eerste lid, onderdeel a, doch betrekt daarbij, indien van toepassing, het bepaalde in artikel 12, derde lid. De adviezen van de welstandscommissie dan wel de stadsbouwmeester zijn openbaar. Een advies van de welstandscommissie dan wel de stadsbouwmeester inhoudende dat een bouwplan in strijd is met redelijke eisen van welstand, wordt schriftelijk uitgebracht en deugdelijk gemotiveerd.   
-2.  De door de welstandscommissie of stadsbouwmeester gehouden vergaderingen zijn openbaar. Een vergadering of gedeelte daarvan is niet openbaar in gevallen als bedoeld in [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in [artikel 10, tweede lid, van die wet](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) genoemde belangen.   
+2.  De door de welstandscommissie of stadsbouwmeester gehouden vergaderingen zijn openbaar. Een vergadering of gedeelte daarvan is niet openbaar in gevallen als bedoeld in artikel 10, eerste lid, van de Wet openbaarheid van bestuur en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in artikel 10, tweede lid, van die wet genoemde belangen.   
 3.  De welstandscommissie dan wel de stadsbouwmeester legt de gemeenteraad eenmaal per jaar een verslag voor van de door haar onderscheidenlijk hem verrichte werkzaamheden. In het verslag wordt ten minste uiteengezet op welke wijze zij onderscheidenlijk hij toepassing heeft gegeven aan de criteria, bedoeld in artikel 12a, eerste lid, onderdeel a.   
 4.  Een voorzitter of ander lid van een welstandscommissie kan voor een termijn van ten hoogste drie jaar worden benoemd in een welstandscommissie die in de betreffende gemeente werkzaam is. Zij kunnen eenmaal voor een termijn van ten hoogste drie jaar worden herbenoemd in dezelfde commissie. De eerste en tweede volzin zijn van overeenkomstige toepassing op de stadsbouwmeester.   
 
@@ -263,7 +263,7 @@ b. in welke gevallen waarin niet is of wordt voldaan aan artikel 12, eerste lid,
 ### Artikel  12d  
 
 1.  Het bevoegd gezag kan, indien een vereniging van eigenaars ten behoeve van een bij haar in beheer zijnd gebouw niet beschikt over een onderhoudsplan en dat gebouw is gelegen in een gebied waarin de leefbaarheid naar het oordeel van het bevoegd gezag onder druk staat, die vereniging van eigenaars verplichten tot het binnen een door het bevoegd gezag te bepalen termijn laten opstellen van een onderhoudsplan door een deskundig persoon of een deskundige instantie en tot het van kracht laten blijven van dat plan gedurende zijn looptijd. Voor zover die looptijd langer is dan vijf jaar, omvat de in de vorige volzin bedoelde verplichting mede de verplichting het onderhoudsplan elke vijf jaar door een deskundig persoon of een deskundige instantie te laten herzien.   
-2.  Het bevoegd gezag legt een verplichting als bedoeld in het eerste lid niet op dan nadat met toepassing van [artikel 127a van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) een vergadering van eigenaars is bijeengeroepen en de vereniging van eigenaars niet binnen drie maanden nadat die vergadering heeft plaatsgevonden over een onderhoudsplan beschikt. De eerste volzin is niet van toepassing, indien redelijkerwijs voorzienbaar is dat het bijeenroepen van de vergadering van eigenaars, bedoeld in die zin, dan wel het in acht nemen van de termijn van drie maanden, bedoeld in die zin, er niet toe zal leiden dat de vereniging van eigenaars uit eigen beweging een onderhoudsplan opstelt of laat opstellen.   
+2.  Het bevoegd gezag legt een verplichting als bedoeld in het eerste lid niet op dan nadat met toepassing van artikel 127a van Boek 5 van het Burgerlijk Wetboek een vergadering van eigenaars is bijeengeroepen en de vereniging van eigenaars niet binnen drie maanden nadat die vergadering heeft plaatsgevonden over een onderhoudsplan beschikt. De eerste volzin is niet van toepassing, indien redelijkerwijs voorzienbaar is dat het bijeenroepen van de vergadering van eigenaars, bedoeld in die zin, dan wel het in acht nemen van de termijn van drie maanden, bedoeld in die zin, er niet toe zal leiden dat de vereniging van eigenaars uit eigen beweging een onderhoudsplan opstelt of laat opstellen.   
 3.  Het onderhoudsplan, bedoeld in het eerste lid, bevat ten minste: 
 
 a. de onderhouds- en herstelwerkzaamheden aan en de vernieuwingen van die gedeelten van het gebouw waarover de vereniging van eigenaars het beheer voert over een periode van vijf jaar;  
@@ -272,7 +272,7 @@ b. een schatting van de aan de werkzaamheden en de vernieuwingen, bedoeld in ond
 
 c. een schatting van de benodigde jaarlijkse reservering voor andere dan de gewone jaarlijkse kosten na de periode waarop het onderhoudsplan betrekking heeft.     
 4.  De vereniging van eigenaars zendt binnen vier weken na het opstellen van het onderhoudsplan, bedoeld in het eerste lid, een afschrift van het plan aan het bevoegd gezag.   
-5.  Indien een machtiging tot het bijeenroepen van een vergadering van eigenaars als bedoeld in [artikel 127a, eerste lid, aanhef, van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) wordt afgegeven binnen vijf jaar nadat een eerdere machtiging is afgegeven, kan het bevoegd gezag de betrokken vereniging van eigenaars verplichten tot het uitbesteden van het beheer aan een professionele beheerder.   
+5.  Indien een machtiging tot het bijeenroepen van een vergadering van eigenaars als bedoeld in artikel 127a, eerste lid, aanhef, van Boek 5 van het Burgerlijk Wetboek wordt afgegeven binnen vijf jaar nadat een eerdere machtiging is afgegeven, kan het bevoegd gezag de betrokken vereniging van eigenaars verplichten tot het uitbesteden van het beheer aan een professionele beheerder.   
 
 ### Artikel  13  
 
@@ -288,7 +288,7 @@ Indien niet wordt voldaan aan artikel 12, eerste lid, kan het bevoegd gezag, ten
 
 ### Artikel  14  
 
-1.  Indien een gebouw, een open erf of een terrein op grond van artikel 17, dan wel een gebouw op grond van [artikel 174a van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md), een verordening als bedoeld in [artikel 174 van die wet](../../../wet/gemeentewet/BWBR0005416/README.md) of [artikel 13b van de Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md) is gesloten, kan bij besluit van het bevoegd gezag degene die als eigenaar of uit anderen hoofde bevoegd is tot het in gebruik geven van dat gebouw, open erf of terrein, worden verplicht om naar keuze van het bevoegd gezag het gebouw, open erf of terrein binnen een daarbij te bepalen termijn: 
+1.  Indien een gebouw, een open erf of een terrein op grond van artikel 17, dan wel een gebouw op grond van artikel 174a van de Gemeentewet, een verordening als bedoeld in artikel 174 van die wet of artikel 13b van de Opiumwet is gesloten, kan bij besluit van het bevoegd gezag degene die als eigenaar of uit anderen hoofde bevoegd is tot het in gebruik geven van dat gebouw, open erf of terrein, worden verplicht om naar keuze van het bevoegd gezag het gebouw, open erf of terrein binnen een daarbij te bepalen termijn: 
 
 a. in gebruik te geven aan een andere persoon dan degene die als gevolg van de sluiting het gebruik van het gebouw, open erf of terrein heeft moeten staken, of  
 
@@ -315,32 +315,40 @@ Degene, tot wie een besluit als bedoeld in artikel 12d, 13, 13a of 14, eerste li
 
 ### Artikel  16  
 
-Degene die als eigenaar van een woning of uit anderen hoofde daartoe bevoegd is, treft de voorzieningen waarvoor ingevolge de [Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) geldelijke steun is verleend.  
+Degene die als eigenaar van een woning of uit anderen hoofde daartoe bevoegd is, treft de voorzieningen waarvoor ingevolge de Wet maatschappelijke ondersteuning geldelijke steun is verleend.  
 
 ### Artikel  17  
 
-1.  Indien overtreding van de bij of krachtens hoofdstuk I, II, of III gegeven voorschriften met betrekking tot de staat of het gebruik van een gebouw, open erf of terrein gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de veiligheid of de gezondheid, en er een klaarblijkelijk gevaar is op herhaling van de overtreding, kan het bevoegd gezag besluiten dat gebouw, open erf of terrein te sluiten. De [artikelen 5:24, eerste en tweede lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [5:25 tot en met 5:28 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. Het bevoegd gezag kan van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigde kosten invorderen bij dwangbevel.   
+1.  Indien overtreding van de bij of krachtens hoofdstuk I, II, of III gegeven voorschriften met betrekking tot de staat of het gebruik van een gebouw, open erf of terrein gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de veiligheid of de gezondheid, en er een klaarblijkelijk gevaar is op herhaling van de overtreding, kan het bevoegd gezag besluiten dat gebouw, open erf of terrein te sluiten. De artikelen 5:24, eerste en tweede lid, en 5:25 tot en met 5:28 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. Het bevoegd gezag kan van de overtreder de ingevolge artikel 5:25 van de Algemene wet bestuursrecht verschuldigde kosten invorderen bij dwangbevel.   
 2.  Het bevoegd gezag bepaalt in het besluit, bedoeld in het eerste lid, de duur van de sluiting.   
 
 ### Artikel  18  
 
-Indien het bevoegd gezag een besluit als bedoeld in artikel 13, 13a, 14, eerste lid, of  17 heeft genomen en, nadat dat besluit is genomen, een ander bestuursorgaan ten aanzien van het betrokken bouwwerk, open erf of terrein het bevoegd gezag wordt, is [artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) op een zodanig besluit van overeenkomstige toepassing.  
+Indien het bevoegd gezag een besluit als bedoeld in artikel 13, 13a, 14, eerste lid, of  17 heeft genomen en, nadat dat besluit is genomen, een ander bestuursorgaan ten aanzien van het betrokken bouwwerk, open erf of terrein het bevoegd gezag wordt, is artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht op een zodanig besluit van overeenkomstige toepassing.  
 
 ### Hoofdstuk  IV  
 
 ####Vergunningen
 
+Vervallen per 01-10-2010   
+
 ### Afdeling  1  
 
 ####Bouwvergunning
+
+Vervallen per 01-10-2010   
 
 ### Afdeling  2  
 
 ####Woonvergunning
 
+Vervallen per 01-10-2010   
+
 ### Afdeling  3  
 
 ####Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
+
+Vervallen per 01-04-2007   
 
 ### Hoofdstuk  V  
 
@@ -397,7 +405,7 @@ Een algemene maatregel van bestuur als bedoeld in artikel 65, treedt niet eerder
 
 ### Artikel  70b  
 
-1.  De Afdeling bestuursrechtspraak van de Raad van State geeft bij de behandeling van een beroep tegen een koninklijk besluit dat strekt tot intrekking van de toelating, aanvankelijk overeenkomstige toepassing aan [artikel 8:52 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en kan nadien overeenkomstige toepassing geven aan [artikel 8:53 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De Afdeling bestuursrechtspraak van de Raad van State geeft bij de behandeling van een beroep tegen een koninklijk besluit dat strekt tot intrekking van de toelating, aanvankelijk overeenkomstige toepassing aan artikel 8:52 van de Algemene wet bestuursrecht en kan nadien overeenkomstige toepassing geven aan artikel 8:53 van die wet.   
 2.  Nadat een koninklijk besluit dat strekt tot intrekking van de toelating onherroepelijk is geworden, wordt de vereniging of de stichting op vordering van Onze Minister ontbonden door de rechtbank binnen welker rechtsgebied zij gevestigd is.   
 
 ### Artikel  70c  
@@ -453,7 +461,7 @@ c. ten behoeve van door een toegelaten instelling te verrichten handelingen een 
 
 ### Artikel  70g  
 
-1.  De bewindvoerders oefenen bij uitsluiting alle bevoegdheden uit van de organen van de toegelaten instelling, tenzij de rechtbank heeft bepaald dat een orgaan zijn bevoegdheden kan blijven uitoefenen. Zij doen voorts onverwijld aan de Kamer van Koophandel en Fabrieken binnen welker gebied de toegelaten instelling gevestigd is opgaaf van de uitspraak van de rechtbank en van de gegevens omtrent zichzelf die omtrent een bestuurder worden verlangd.   
+1.  De bewindvoerders oefenen bij uitsluiting alle bevoegdheden uit van de organen van de toegelaten instelling, tenzij de rechtbank heeft bepaald dat een orgaan zijn bevoegdheden kan blijven uitoefenen. Zij doen voorts onverwijld aan de Kamer van Koophandel opgaaf van de uitspraak van de rechtbank en van de gegevens omtrent zichzelf die omtrent een bestuurder worden verlangd.   
 2.  Een rechtshandeling die door een orgaan van de toegelaten instelling wordt verricht na de uitspraak van de rechtbank en voor het tijdstip waarop degenen die bij die rechtshandeling een belang hebben voor het eerst van die uitspraak kennis kunnen nemen, is geldig. Het tijdstip, bedoeld in de eerste volzin, is de tweede dag na de dagtekening van de Staatscourant waarin een uittreksel van die uitspraak is bekendgemaakt.   
 
 ### Artikel  70h  
@@ -489,8 +497,8 @@ b. onvoldoende motiveert waarom zij afziet van vervreemding aan of vestiging van
 
 c. de bij of krachtens algemene maatregel van bestuur gegeven, op een handeling als bedoeld in het eerste lid van toepassing zijnde voorschriften niet naleeft.     
 3.  Onze Minister kan de in het eerste lid bedoelde vergunning intrekken, indien hem blijkt dat hij de vergunning ten gevolge van een onjuiste of onvolledige opgave heeft verleend.   
-4.  Onze Minister kan de in het eerste lid bedoelde vergunning tevens weigeren of intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+4.  Onze Minister kan de in het eerste lid bedoelde vergunning tevens weigeren of intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.   
 
 ### Afdeling  3A  
 
@@ -609,7 +617,7 @@ Een algemene maatregel van bestuur als bedoeld in de artikelen 71a, 71b en 71e, 
 
 ### Artikel  81  
 
-1.  Uit 's Rijks kas kunnen aan gemeenten, plusregio’s als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of provincies financiële middelen worden verstrekt voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving.   
+1.  Uit 's Rijks kas kunnen aan gemeenten, plusregio’s als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen of provincies financiële middelen worden verstrekt voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving.   
 2.  Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent het verstrekken van financiële middelen, bedoeld in het eerste lid.   
 3.  Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen voorschriften worden gegeven omtrent het door provincies overdragen van krachtens het tweede lid aan hen toegekende bevoegdheden en verplichtingen aan een gemeente of aan een plusregio. De voorschriften betreffen in elk geval: 
 
@@ -620,38 +628,9 @@ b. de wijze waarop in geval van overdracht verantwoording aan Onze Minister word
 5.  Bij algemene maatregel van bestuur kunnen ter bevordering van eenheid in de voorschriften, bedoeld in het vierde lid, regelen worden gegeven omtrent de inhoud van die voorschriften.   
 6.  De gemeenteraad, het algemeen bestuur van een plusregio of provinciale staten brengen de door hen gegeven voorschriften, bedoeld in het vierde lid, binnen zes maanden na het van kracht worden van de algemene maatregel van bestuur, bedoeld in het vijfde lid, in overeenstemming met de bij die algemene maatregel van bestuur gegeven voorschriften.   
 
-### Artikel  82  
-
-1.  Uit 's Rijks kas kan aan anderen dan gemeenten, plusregio's als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of provincies subsidie worden verstrekt voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving.   
-2.  Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent het verstrekken van subsidie, bedoeld in het eerste lid. De voorschriften betreffen in ieder geval: 
-
-a. de doeleinden waarvoor de subsidie kan worden verstrekt;  
-
-b. degenen aan wie de subsidie kan worden verstrekt;  
-
-c. de wijze van aanvragen van de subsidie;  
-
-d. de bij de subsidie-aanvraag over te leggen gegevens en bescheiden;  
-
-e. de termijnen voor de beslissing op de subsidie-aanvraag;  
-
-f. de gronden om geen subsidie te verstrekken;  
-
-g. de voorwaarden waaronder de subsidie wordt verstrekt;  
-
-h. de verplichtingen van de subsidie-ontvanger;  
-
-i. de totstandkoming van het subsidiebedrag;  
-
-j. de termijnen voor de beslissing omtrent de subsidievaststelling;  
-
-k. de vaststelling van het subsidieplafond en  
-
-l. de wijze van verdeling van het beschikbare bedrag.     
-
 ### Artikel  83  
 
-Een algemene maatregel van bestuur als bedoeld in de artikelen 81 en 82, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.  
+Een algemene maatregel van bestuur als bedoeld in artikel 81, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.  
 
 ### Artikel  84  
 
@@ -663,7 +642,7 @@ Gegevens betreffende de door het Rijk verstrekte financiële middelen en subsidi
 
 ### Artikel  87  
 
-Onze Minister kan volgens bij ministeriële regeling gegeven voorschriften geldelijke steun verlenen voor doeleinden, de volkshuisvesting betreffende, voor zover het geldelijke steun betreft welke onmiddellijk voorafgaand aan 22 december 2000 in een ministeriële regeling was geregeld, die met ingang van die datum is komen te berusten op de algemene maatregel van bestuur, vastgesteld krachtens [artikel 9, eerste lid, van de Invoeringswet Wet stedelijke vernieuwing](../../../wet/invoeringswet/wet/stedelijke/vernieuwing/BWBR0011789/README.md) zoals [die wet](../../../wet/invoeringswet/wet/stedelijke/vernieuwing/BWBR0011789/README.md) onmiddellijk voorafgaand aan haar intrekking luidde.  
+Onze Minister kan volgens bij ministeriële regeling gegeven voorschriften geldelijke steun verlenen voor doeleinden, de volkshuisvesting betreffende, voor zover het geldelijke steun betreft welke onmiddellijk voorafgaand aan 22 december 2000 in een ministeriële regeling was geregeld, die met ingang van die datum is komen te berusten op de algemene maatregel van bestuur, vastgesteld krachtens artikel 9, eerste lid, van de Invoeringswet Wet stedelijke vernieuwing zoals die wet onmiddellijk voorafgaand aan haar intrekking luidde.  
 
 ### Hoofdstuk  VI  
 
@@ -672,7 +651,7 @@ Onze Minister kan volgens bij ministeriële regeling gegeven voorschriften gelde
 ### Artikel  92  
 
 1.  Het bevoegd gezag draagt zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met III.   
-2.  Met betrekking tot de handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met III zijn de [artikelen 5.2, tweede lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [5.3 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
+2.  Met betrekking tot de handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met III zijn de artikelen 5.2, tweede lid, en 5.3 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht van toepassing.   
 
 ### Artikel  93  
 
@@ -686,7 +665,7 @@ Onze Minister kan volgens bij ministeriële regeling gegeven voorschriften gelde
 
 ### Artikel  96  
 
-In aanvulling op [artikel 5.11, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn met het toezicht op de uitvoering van het bepaalde bij of krachtens de hoofdstukken I tot en met III tevens belast de bij besluit van de commissaris van de Koning aangewezen personen. Artikel 5.11, tweede lid, van die wet is van overeenkomstige toepassing.  
+In aanvulling op artikel 5.11, eerste lid, van de Wet algemene bepalingen omgevingsrecht zijn met het toezicht op de uitvoering van het bepaalde bij of krachtens de hoofdstukken I tot en met III tevens belast de bij besluit van de commissaris van de Koning aangewezen personen. Artikel 5.11, tweede lid, van die wet is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  VII  
 
@@ -701,17 +680,20 @@ In aanvulling op [artikel 5.11, eerste lid, van de Wet algemene bepalingen omgev
 5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.   
 6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.   
 
-### Artikel  101a  
+### Artikel  101a   
+Treedt in werking op een nader te bepalen tijdstip   
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien schaarste dreigt te ontstaan dan wel bestaat aan arbeidskrachten, geldmiddelen of materialen, kunnen bij of krachtens algemene maatregel van bestuur, zo nodig in afwijking van de in de hoofdstukken III en V of de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vervatte bepalingen, voorschriften worden gegeven omtrent de toepassing van die bepalingen of de verlening van een omgevingsvergunning voor het bouwen van een bouwwerk.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien schaarste dreigt te ontstaan dan wel bestaat aan arbeidskrachten, geldmiddelen of materialen, kunnen bij of krachtens algemene maatregel van bestuur, zo nodig in afwijking van de in de hoofdstukken III en V of de Wet algemene bepalingen omgevingsrecht vervatte bepalingen, voorschriften worden gegeven omtrent de toepassing van die bepalingen of de verlening van een omgevingsvergunning voor het bouwen van een bouwwerk.  
 
-### Artikel  102  
+### Artikel  102   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Indien toepassing wordt gegeven aan artikel 101a, stelt Onze Minister, in overeenstemming met Onze andere Ministers wie het mede aangaat, overeenkomstig de bij of krachtens de in dat artikel bedoelde algemene maatregel van bestuur gegeven voorschriften, een plan vast, waarin is aangegeven aan welke werken op het gebied van de burgerlijke of utiliteitsbouw, grond-, water- of wegenbouw of op enig ander gebied de bouwnijverheid betreffende, in het eerstkomende jaar uitvoering kan worden gegeven.   
 2.  Het in het eerste lid bedoelde plan wordt zo spoedig mogelijk nadat dit is vastgesteld, door Onze Minister aan de Staten-Generaal verstrekt.   
 
-### Artikel  103  
+### Artikel  103   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Bij de in artikel 101a bedoelde algemene maatregel van bestuur kan worden bepaald, dat het verboden is zonder of in afwijking van toestemming van Onze Minister en, voor zover van toepassing, Onze Minister die het mede aangaat, als opdrachtgever, architect, bouwondernemer, aannemer of uitvoerder betrokken te zijn bij het uitvoeren van bouwwerken als bedoeld in artikel 102, eerste lid.   
@@ -734,8 +716,8 @@ Indien toepassing van bestuursdwang ter handhaving van de bij of krachtens deze 
 
 1.  Overtreding van artikel 14, vierde lid, wordt gestraft met geldboete van de eerste categorie.   
 2.  Het strafbare feit, bedoeld in het eerste lid, is een overtreding.   
-3.  Met de opsporing van het bij het eerste lid strafbaar gestelde feit zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de hoofdstukken I tot en met III.   
-4.  Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+3.  Met de opsporing van het bij het eerste lid strafbaar gestelde feit zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de hoofdstukken I tot en met III.   
+4.  Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 5.  Bij het opsporen van het strafbare feit, bedoeld in het eerste lid, hebben de in het derde lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.   
 
 ### Hoofdstuk  IX  
@@ -748,7 +730,7 @@ Op de gezamenlijke voordracht van Onze Minister en van Onze Minister die het med
 
 ### Artikel  118  
 
-Indien de bekendmaking van beschikkingen op grond van deze wet niet kan geschieden op de wijze als voorzien in [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geschiedt zij door openbare bekendmaking op het perceel waarop de beschikking betrekking heeft.  
+Indien de bekendmaking van beschikkingen op grond van deze wet niet kan geschieden op de wijze als voorzien in artikel 3:41, eerste lid, van de Algemene wet bestuursrecht, geschiedt zij door openbare bekendmaking op het perceel waarop de beschikking betrekking heeft.  
 
 ### Artikel  120  
 
@@ -772,7 +754,7 @@ Onze Minister is belast met de bestuursrechtelijke handhaving van het verbod, be
 
 ### Artikel  121  
 
-De bevoegdheid, de gemeenteraad toekomende overeenkomstig [artikel 149 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md), mag niet worden uitgeoefend ten aanzien van de onderwerpen waarin is voorzien bij of krachtens de algemene maatregelen van bestuur, bedoeld in: 
+De bevoegdheid, de gemeenteraad toekomende overeenkomstig artikel 149 van de Gemeentewet, mag niet worden uitgeoefend ten aanzien van de onderwerpen waarin is voorzien bij of krachtens de algemene maatregelen van bestuur, bedoeld in: 
 
 a. artikel 12a, vierde lid;  
 
@@ -780,7 +762,7 @@ b. artikel 70c, tweede lid, eerste volzin, voorzover die algemene maatregel van 
 
 ### Artikel  122  
 
-De gemeente kan geen rechtshandelingen naar burgerlijk recht verrichten ten aanzien van de onderwerpen waarin bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, is voorzien of die met betrekking tot het bouwen bij of krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn geregeld.  
+De gemeente kan geen rechtshandelingen naar burgerlijk recht verrichten ten aanzien van de onderwerpen waarin bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, is voorzien of die met betrekking tot het bouwen bij of krachtens de Wet algemene bepalingen omgevingsrecht zijn geregeld.  
 
 ### Artikel  124  
 
@@ -788,36 +770,36 @@ Wijzigt de Woningwet 1962.
 
 ### Artikel  125  
 
-De intrekking van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) heeft geen gevolgen voor de geldigheid van de krachtens die wet bij koninklijk besluit dan wel door Onze Minister gegeven voorschriften, tenzij krachtens deze wet anders is bepaald.  
+De intrekking van de Woningwet van 12 juli 1962 heeft geen gevolgen voor de geldigheid van de krachtens die wet bij koninklijk besluit dan wel door Onze Minister gegeven voorschriften, tenzij krachtens deze wet anders is bepaald.  
 
 ### Artikel  126  
 
-1.  Gedurende ten hoogste een jaar na het tijdstip van inwerkingtreding van hoofdstuk II, afdeling 2, blijft de op grond van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) geldende gemeentelijke bouwverordening, voor zover deze niet in strijd is met de bij of krachtens deze wet gegeven voorschriften, van kracht en geldt deze als de bouwverordening, genoemd in artikel 8.   
+1.  Gedurende ten hoogste een jaar na het tijdstip van inwerkingtreding van hoofdstuk II, afdeling 2, blijft de op grond van de Woningwet van 12 juli 1962 geldende gemeentelijke bouwverordening, voor zover deze niet in strijd is met de bij of krachtens deze wet gegeven voorschriften, van kracht en geldt deze als de bouwverordening, genoemd in artikel 8.   
 2.  De bouwverordening, genoemd in artikel 8, wordt vastgesteld binnen zes maanden na het tijdstip van inwerkingtreding van hoofdstuk II, afdeling 2.   
 
 ### Artikel  127  
 
-1.  Aanschrijvingen die op grond van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) zijn uitgevaardigd en waartegen geen beroep meer kan worden ingesteld, gelden als aanschrijvingen als bedoeld in deze wet.   
-2.  Aanschrijvingen die op grond van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) zijn uitgevaardigd en waartegen nog beroep kan worden ingesteld dan wel beroep is ingesteld, worden afgedaan overeenkomstig genoemde wet en gelden als aanschrijvingen als bedoeld in deze wet.   
+1.  Aanschrijvingen die op grond van de Woningwet van 12 juli 1962 zijn uitgevaardigd en waartegen geen beroep meer kan worden ingesteld, gelden als aanschrijvingen als bedoeld in deze wet.   
+2.  Aanschrijvingen die op grond van de Woningwet van 12 juli 1962 zijn uitgevaardigd en waartegen nog beroep kan worden ingesteld dan wel beroep is ingesteld, worden afgedaan overeenkomstig genoemde wet en gelden als aanschrijvingen als bedoeld in deze wet.   
 
 ### Artikel  128  
 
-1.  Besluiten tot onbewoonbaarverklaring die op grond van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) zijn genomen en waartegen geen beroep meer kan worden ingesteld, gelden als beslissingen tot onbewoonbaarverklaring als bedoeld in deze wet.   
-2.  Besluiten tot onbewoonbaarverklaring die op grond van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) zijn genomen en waartegen nog beroep kan worden ingesteld dan wel beroep is ingesteld, worden afgedaan overeenkomstig genoemde wet en gelden als beslissingen tot onbewoonbaarverklaring als bedoeld in deze wet.   
+1.  Besluiten tot onbewoonbaarverklaring die op grond van de Woningwet van 12 juli 1962 zijn genomen en waartegen geen beroep meer kan worden ingesteld, gelden als beslissingen tot onbewoonbaarverklaring als bedoeld in deze wet.   
+2.  Besluiten tot onbewoonbaarverklaring die op grond van de Woningwet van 12 juli 1962 zijn genomen en waartegen nog beroep kan worden ingesteld dan wel beroep is ingesteld, worden afgedaan overeenkomstig genoemde wet en gelden als beslissingen tot onbewoonbaarverklaring als bedoeld in deze wet.   
 
 ### Artikel  129  
 
-1.  Verzoeken om toestemming als bedoeld in [artikel 46 van de Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijk verzoek, worden afgedaan overeenkomstig genoemde wet. Verzoeken als bedoeld in dit lid, gelden als aanvragen om vergunning als bedoeld in artikel 61.   
-2.  Toestemmingen als bedoeld in [artikel 46 van de Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md), waartegen geen beroep meer kan worden ingesteld, gelden als vergunningen als bedoeld in artikel 61.   
+1.  Verzoeken om toestemming als bedoeld in artikel 46 van de Woningwet van 12 juli 1962, alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijk verzoek, worden afgedaan overeenkomstig genoemde wet. Verzoeken als bedoeld in dit lid, gelden als aanvragen om vergunning als bedoeld in artikel 61.   
+2.  Toestemmingen als bedoeld in artikel 46 van de Woningwet van 12 juli 1962, waartegen geen beroep meer kan worden ingesteld, gelden als vergunningen als bedoeld in artikel 61.   
 
 ### Artikel  130  
 
-1.  Aanvragen om bouwvergunning als bedoeld in [artikel 47, eerste lid, van de Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag, worden afgedaan overeenkomstig genoemde wet. Aanvragen als bedoeld in dit lid, gelden als aanvragen om bouwvergunning als bedoeld in artikel 40, eerste lid.   
-2.  Bouwvergunningen als bedoeld in [artikel 47, eerste lid, van de Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md), waartegen geen beroep meer kan worden ingesteld, gelden als bouwvergunningen als bedoeld in artikel 40, eerste lid.   
+1.  Aanvragen om bouwvergunning als bedoeld in artikel 47, eerste lid, van de Woningwet van 12 juli 1962, alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag, worden afgedaan overeenkomstig genoemde wet. Aanvragen als bedoeld in dit lid, gelden als aanvragen om bouwvergunning als bedoeld in artikel 40, eerste lid.   
+2.  Bouwvergunningen als bedoeld in artikel 47, eerste lid, van de Woningwet van 12 juli 1962, waartegen geen beroep meer kan worden ingesteld, gelden als bouwvergunningen als bedoeld in artikel 40, eerste lid.   
 
 ### Artikel  132  
 
-Overtredingen van bij of krachtens de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) gegeven voorschriften worden afgedaan overeenkomstig genoemde wet.  
+Overtredingen van bij of krachtens de Woningwet van 12 juli 1962 gegeven voorschriften worden afgedaan overeenkomstig genoemde wet.  
 
 ### Artikel  134  
 
@@ -889,14 +871,14 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  152  
 
-Waar in voorschriften, gegeven bij of krachtens een andere wet dan de in de artikelen 149 tot en met 151 genoemde, wordt verwezen naar een artikel in de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md), wordt deze verwijzing geacht te zijn geschied naar de overeenkomstige bepalingen in deze wet.  
+Waar in voorschriften, gegeven bij of krachtens een andere wet dan de in de artikelen 149 tot en met 151 genoemde, wordt verwezen naar een artikel in de Woningwet van 12 juli 1962, wordt deze verwijzing geacht te zijn geschied naar de overeenkomstige bepalingen in deze wet.  
 
 ### Artikel  153  
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.   
-2.  Bij het in het eerste lid bedoelde besluit kan, voor zover dat besluit voorziet in gedeeltelijke inwerkingtreding van deze wet, in afwijking in zoverre van artikel 124 worden bepaald dat verschillende artikelen of onderdelen van artikelen van de [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) van kracht blijven.   
+2.  Bij het in het eerste lid bedoelde besluit kan, voor zover dat besluit voorziet in gedeeltelijke inwerkingtreding van deze wet, in afwijking in zoverre van artikel 124 worden bepaald dat verschillende artikelen of onderdelen van artikelen van de Woningwet van 12 juli 1962 van kracht blijven.   
 3.  Indien toepassing wordt gegeven aan het eerste of tweede lid, kan in hetgeen met het oog op het in werking treden dan wel in stand blijven van de desbetreffende artikelen of onderdelen daarvan regeling behoeft, worden voorzien bij algemene maatregel van bestuur.   
-4.  De [Woningwet van 12 juli 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) wordt vanaf het tijdstip van gehele of gedeeltelijke inwerkingtreding van deze wet aangehaald als [Woningwet 1962](../../../wet/woningwet/1962/BWBR0002379/README.md).   
+4.  De Woningwet van 12 juli 1962 wordt vanaf het tijdstip van gehele of gedeeltelijke inwerkingtreding van deze wet aangehaald als Woningwet 1962.   
 5.  Deze wet kan worden aangehaald als Woningwet.   
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   

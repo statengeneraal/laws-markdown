@@ -10,60 +10,60 @@ Besluit:
 
 Voor het behandelen van een aanvraag om verlening van vergunningen als bedoeld in [artikel 4 van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
-| Vergunning  |--- |
-|:---|:---|
-| Communautaire vergunning  | € 1.104,–  |
-| Taxivervoer  | € 1.012,–  |
+| Vergunning  |
+|:---|
+| Communautaire vergunning  | € 1.350,–  |
+| Taxivervoer  | € 1.230,–  |
 
 ### Artikel  2  
 
 Voor het behandelen van een aanvraag om wijziging van vergunningen als bedoeld in [artikel 4 van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
-| Wijzigen vergunning  |--- |
-|:---|:---|
-| Communautaire vergunning  | € 368,–  |
-| Taxivervoer  | € 644,–  |
-| Taxivervoer en communautaire vergunning, beperkt tot de gegevens als bedoeld in [artikel 14, eerste of tweede lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), of [artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md)  | € 92,–  |
+| Wijzigen vergunning  |
+|:---|
+| Communautaire vergunning  | € 447,–  |
+| Taxivervoer  | € 783,–  |
+| Taxivervoer en communautaire vergunning, beperkt tot de gegevens bedoeld in [artikel 14, eerste of tweede lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), of [artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md)  | € 112,–  |
 
 ### Artikel  3  
 
 Voor het behandelen van een aanvraag om verlening van documenten die samenhangen met de eis van vakbekwaamheid, is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
-| Document  |--- |
-|:---|:---|
-| erkenning van EG-beroepskwalificaties taxivervoer  | € 257,–  |
-| Ontheffing vakbekwaamheid  | € 257,–  |
+| Document  |
+|:---|
+| Erkenning van EG-beroepskwalificaties taxivervoer  | € 325,–  |
+| Ontheffing vakbekwaamheid  | € 325,–  |
 
 ### Artikel  4  
 
 Voor het behandelen van een aanvraag om verlening of wijziging van documenten ten behoeve van het verrichten van internationaal vervoer per bus en auto als bedoeld in [hoofdstuk 8 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
-| Document  |--- |
-|:---|:---|
-| Verlening van een communautaire vergunning  | € 1.104,–  |
-| Gewaarmerkt afschrift van een communautaire vergunning  | € 69,–  |
-| Verlening van een vergunning geregeld vervoer  | € 1.472,–  |
-| Wijziging van een vergunning geregeld vervoer  | € 736,–  |
-| Wijziging van de naam van de onderaannemer, bedoeld in artikel 5, eerste lid, van verordening (EEG) nr. 684/92, of van de gegevens, bedoeld in artikel 8, derde lid, van verordening (EEG) nr. 684/92 of in [artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) in de vergunning geregeld vervoer  | € 184,–  |
-| Vergunningbewijs geregeld vervoer  | € 55,–  |
-| Vergunning pendelvervoer  | € 736,–  |
-| Reisbladen  | € 46,–  |
-| Transitovergunning  | € 920,–  |
-| Attest eigen vervoer binnen de EU  | € 92,–  |
-| Vergunning ongeregeld vervoer met bussen  | € 92,–  |
+| Document  |
+|:---|
+| Verlening van een communautaire vergunning  | € 1.350,–  |
+| Gewaarmerkt afschrift van een communautaire vergunning  | € 84,–  |
+| Verlening van een vergunning geregeld vervoer  | € 1.788,–  |
+| Wijziging van een vergunning geregeld vervoer  | € 894,–  |
+| Wijziging van de naam van de onderaannemer, bedoeld in artikel 6 van Verordening (EG) nr. 1073/2009 van het Europees Parlement en de Raad, van 21 oktober 2009 of van de gegevens bedoeld in artikel 8, derde lid, van Verordening (EEG) nr. 684/92 of in [artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) in de vergunning geregeld vervoer  | € 224,–  |
+| Vergunningbewijs geregeld vervoer  | € 67,–  |
+| Vergunning pendelvervoer  | € 894,–  |
+| Reisbladen  | € 56,–  |
+| Transitovergunning  | € 1.118,–  |
+| Attest eigen vervoer binnen de EU  | € 112,–  |
+| Vergunning ongeregeld vervoer met bussen  | € 112,–  |
 
 ### Artikel  5  
 
 Voor het behandelen van een aanvraag om verlening van een vergunningbewijs als bedoeld in [artikel 17 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
-| Vergunningbewijs  |--- |
-|:---|:---|
-| Gewaarmerkt afschrift van een communautaire vergunning  | € 69,-  |
-| Taxivervoer  | € 38,-  |
+| Vergunningbewijs  |
+|:---|
+| Gewaarmerkt afschrift van een communautaire vergunning  | € 84,–  |
+| Taxivervoer  | € 45,–  |
 
 ### Artikel  7  
 
-Voor het behandelen van een aanvraag om verlening van een chauffeurspas als bedoeld in [artikel 75, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), een duplicaat chauffeurspas, een chauffeurspas onder beperkingen, of een duplicaat chauffeurspas onder beperkingen als bedoeld in de [artikelen 5 tot en met 10 van de Regeling taxibestuurders 2005](../../../../../../../../ministeriele-regeling/regeling/taxibestuurders/2005/BWBR0018667/README.md), is een vergoeding verschuldigd van € 47,–.  
+Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in [artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in [artikel 83, vierde lid, van dat besluit](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd van € 109,–.  
 
 ### Artikel  8  
 

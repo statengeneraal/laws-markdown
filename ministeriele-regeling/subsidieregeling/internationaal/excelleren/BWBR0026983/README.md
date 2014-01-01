@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 13 december 2009, nr. WJZ/9178621, houdende vaststelling van subsidie-instrumenten op het terrein van internationaal excelleren (Subsidieregeling internationaal excelleren)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op de [artikelen 2, tweede lid](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [4](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17, eerste lid](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [18, eerste en vijfde lid](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19, eerste lid](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [21](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [44](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [48, eerste lid](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [50, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 2, tweede lid, 4, 5, 15, 17, eerste lid, 18, eerste en vijfde lid, 19, eerste lid, 21, 25, 44, 48, eerste lid, en 50, tweede lid, van het Kaderbesluit EZ-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -85,7 +85,7 @@ b. 50 procent van de kosten van door externe adviseurs verrichte diensten ten gu
 a. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen indien deze in de administratie te onderscheiden zijn;  
 
 b. de aan derden betaalde kosten.     
-2.  De [artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+2.  De artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
 
 ### Artikel  2.5  
 
@@ -107,11 +107,11 @@ a. de gewenste te subsidiëren activiteiten;
 b. de wijze waarop naar verwachting aan de voorwaarden en verplichtingen op grond van deze regeling zal kunnen worden voldaan;  
 
 c. de kern van de internationaliseringsstrategie.     
-3.  Het advies van de adviescommissie richt zich op de afwijzingsgronden, bedoeld in [artikel 23, onderdelen b tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 2.9, tweede lid, onderdelen b, c, d, f en g.   
+3.  Het advies van de adviescommissie richt zich op de afwijzingsgronden, bedoeld in artikel 23, onderdelen b tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 2.9, tweede lid, onderdelen b, c, d, f en g.   
 
 ### Artikel  2.8  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is 36 maanden na de subsidieverlening.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies, is 36 maanden na de subsidieverlening.  
 
 ### Artikel  2.9  
 
@@ -149,7 +149,7 @@ De beschikking tot subsidieverlening kan de bepaling bevatten dat subsidie voo
 
 ### Artikel  2.10  
 
-In afwijking van [artikel 38, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) voert de subsidie-ontvanger een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden: 
+In afwijking van artikel 38, eerste lid, van het Kaderbesluit EZ-subsidies voert de subsidie-ontvanger een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden: 
 
 a. de aard, inhoud en voortgang van de verrichte werkzaamheden;  
 
@@ -193,32 +193,31 @@ c. een subsidievaststelling is opgenomen in bijlage 2.3.
 
 ### Artikel  3.1  
 
-1.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een samenwerkingsverband die een demonstratieproject uitvoert dat noodzakelijk is voor het bereiken van de doelstellingen van de internationaliseringsstrategie.   
-2.  Voor subsidie komen uitsluitend de volgende activiteiten in aanmerking: 
-
-a. het demonstreren van een in het doelland onbekende technologie;  
-
-b. een demonstratie van wat het samenwerkingsverband een bepaalde sector in het doelland te bieden heeft.     
+1.  De minister verstrekt op aanvraag subsidie aan een Nederlandse onderneming die deelneemt aan een samenwerkingsverband dat een demonstratieproject uitvoert.   
+2.  Een demonstratieproject is een project waarmee Nederlandse bedrijven in het doelland Nederlandse technologie in een reële praktijksituatie demonstreren, met als doel de betreffende technologie in het doelland te introduceren, onder een brede groep belangstellenden, om op deze manier export of Directe Buitenlandse Investeringen met een omvang van ten minste tien maal het subsidiebedrag te realiseren. Een demonstratieproject is in omvang en duur niet groter dan strikt noodzakelijk om te demonstreren dat de technologie toegevoegde waarde heeft en onder specifieke lokale omstandigheden toepasbaar is.   
+3.  De aanvrager maakt in de aanvraag voldoende onderbouwd aannemelijk dat de in het tweede lid bedoelde opdrachten uit het demonstratieproject voortvloeien en dat daarmee Nederlandse export van kapitaalgoederen of diensten of Directe Buitenlandse Investeringen (DBI) met een omvang van ten minste tien maal het subsidiebedrag gerealiseerd zullen kunnen worden.   
+4.  Het demonstratieproject zelf omvat geen activiteiten die als export- of investeringsactiviteiten kunnen worden aangemerkt.   
 
 ### Artikel  3.2  
 
-Een samenwerkingsverband bestaat uit ten minste acht niet in een groep verbonden in Nederland gevestigde ondernemers.  
+Het samenwerkingsverband bestaat uit ten minste twee niet in een groep verbonden in Nederland gevestigde exporterende of investerende ondernemers.  
 
 ### Artikel  3.3  
 
 1.  De subsidie bedraagt 50 procent van de subsidiabele kosten.   
-2.  Het maximumsubsidiebedrag bedraagt € 450.000 per subsidieontvanger.   
-3.  Het bedrag van de subsidie wordt verlaagd voor zover dit nodig is op basis van de tijdelijke communautaire kaderregeling inzake staatssteun.   
-4.  Indien verscheidene aanvragen worden gedaan die betrekking hebben op dezelfde internationaliseringsstrategie en die tezamen een subsidiebedrag krachtens het eerste lid en krachtens artikel 2.1 van meer dan € 2.000.000 betreffen, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
+2.  Het maximumsubsidiebedrag bedraagt € 200.000 per project.   
+3.  De subsidie valt onder de de-minimisverordening. Het bedrag van de subsidie wordt verlaagd voor zover dit nodig is op basis van deze verordening.   
 
 ### Artikel  3.4  
 
-1.  De kosten die in aanmerking komen voor subsidie op grond van dit hoofdstuk zijn: het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gemaakt, vermenigvuldigd met een vast uurtarief van € 87,50, waarin zowel de directe loonkosten als daaraan toegerekende indirecte kosten zijn begrepen, en vermeerderd met: 
+1.  De kosten die in aanmerking komen voor subsidie op grond van dit hoofdstuk zijn: 
 
-a. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen indien deze in de administratie te onderscheiden zijn;  
+a. de kosten van het gebruik van te leveren technologie gedurende de duur van het demonstratieproject;  
 
-b. de aan derden betaalde kosten.     
-2.  De [artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+b. het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gemaakt, vermenigvuldigd met een vast uurtarief van € 87,50, waarin zowel de directe loonkosten als daaraan toegerekende indirecte kosten zijn begrepen;  
+
+c. de aan derden betaalde kosten.     
+2.  Niet in aanmerking voor subsidie op grond van dit hoofdstuk komen kosten voor productontwikkeling.   
 
 ### Artikel  3.5  
 
@@ -226,63 +225,57 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  3.6  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is 36 maanden na de subsidieverlening.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies, is 36 maanden na de subsidieverlening.  
 
 ### Artikel  3.7  
 
-De minister beslist afwijzend op een aanvraag índien 
+De minister beslist afwijzend op een aanvraag indien: 
 
-a. subsidieverstrekking niet is toegestaan onder toepassing van de tijdelijke communautaire kaderregeling inzake staatsteun, de algemene groepsvrijstellingsverordening of de verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379);  
+a. subsidieverstrekking niet is toegestaan onder toepassing van de de-minimisverordening;  
 
 b. onvoldoende vertrouwen bestaat in de politieke haalbaarheid van de activiteiten in het doelland;  
 
-c. er onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;  
+c. onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;  
 
-d. indien de activiteiten in strijd zijn met de door de Organisatie voor Economische Samenwerking en Ontwikkeling vastgestelde Richtlijnen voor multinationale ondernemingen ten aanzien van Maatschappelijk Verantwoord Ondernemen of met de door de Internationale Arbeidsorganisatie vastgestelde Verklaring Fundamentele Beginselen en Rechten op het Werk;  
+d. de activiteiten in strijd zijn met de door de Organisatie voor Economische Samenwerking en Ontwikkeling vastgestelde richtlijnen ten aanzien van Maatschappelijk Verantwoord Ondernemen;  
 
-e. het demonstratieproject onvoldoende bijdraagt aan het bereiken van de doelstellingen van de in uitvoering zijnde internationaliseringsstrategie.    
+e. in het desbetreffende land geen reële mogelijkheden zijn voor de realisatie van projecten na het demonstratieproject, met betrokkenheid van in Nederland gevestigde bedrijven;  
 
-### Artikel  3.8  
+f. de activiteiten vrijwel identiek zijn aan eerdere deels door de Nederlandse overheid gefinancierde activiteiten en de activiteiten onvoldoende toegevoegde waarde hebben voor de positionering van het Nederlandse bedrijfsleven in het doelland;  
 
-In afwijking van [artikel 38, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) voert de subsidie-ontvanger een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden: 
+g. de activiteiten de bekendheid van de buitenlandse partij met het aanbod van het Nederlandse bedrijfsleven onvoldoende vergroot;  
 
-a. de aard, inhoud en voortgang van de verrichte werkzaamheden;  
+h. onvoldoende kans is op orderverwerving van substantiële omvang door het Nederlandse bedrijfsleven in de uitvoeringsfase van het project;  
 
-b. de specifiek ten behoeve van de activiteiten gemaakte en betaalde kosten.    
+i. onvoldoende kans is op financiering van de exportorders of Directe Buitenlandse Investeringen (DBI) die uit het demonstratieproject kunnen voortvloeien;  
 
-### Artikel  3.9  
-
-De subsidie-ontvanger maakt bij de uitvoering van de internationaliseringsstrategie gebruik van promotiematerialen beschikbaar gesteld door de EVD.  
+j. het demonstratieproject het presenteren van een technologie op een beurs of het tentoonstellen van die technologie betreft.    
 
 ### Artikel  3.9a  
 
-Een subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering van een investeringsproject voldoen aan de in het doelland geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumentenrechten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.  
-
-### Artikel  3.10  
-
-Het formulier voor het indienen van een aanvraag voor: 
-
-a. een subsidie is opgenomen in bijlage 3.1;  
-
-b. een subsidievaststelling is opgenomen in bijlage 3.2.    
+Een subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering van het project voldoen aan de in het doelland geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumentenrechten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.  
 
 ### Hoofdstuk  4  
 
-####2xplore
+####Haalbaarheidsstudie
 
 ### Artikel  4.1  
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een samenwerkingsverband dat een informatiestudie als bedoeld in artikel 2.1, tweede lid, onderdeel a, uitvoert, die betrekking heeft op de haalbaarheid van een project, waarbij significante export van kapitaalgoederen of diensten beoogd wordt buiten de EU, de EFTA, de VS, Canada, Japan of Australië.  
+1.  De minister verstrekt op aanvraag subsidie aan een Nederlandse onderneming die deelneemt aan een samenwerkingsverband dat een haalbaarheidsstudie uitvoert.   
+2.  Een haalbaarheidsstudie is een onderzoek dat wordt uitgevoerd in het kader van een te nemen investeringsbesluit en waarmee wordt bepaald of het technisch of commercieel haalbaar is een concreet project in het doelland uit te voeren, waarmee Nederlandse export van kapitaalgoederen of diensten of Directe Buitenlandse Investeringen (DBI) met een omvang van ten minste tien maal het subsidiebedrag gerealiseerd kunnen worden. Vóór aanvang van de studie bestaat voldoende duidelijkheid over de omvang van de markt, de beoogde opzet van het project, de locatie, de exploitatie en de financiering.   
+3.  De haalbaarheidsstudie wordt uitgevoerd ten behoeve van ten minste één buitenlandse potentiële klant.   
+4.  De aanvrager maakt in de aanvraag voldoende onderbouwd aannemelijk dat de in het tweede lid bedoelde export van kapitaalgoederen of diensten of Directe Buitenlandse Investeringen (DBI) met een omvang van ten minste tien maal het subsidiebedrag gerealiseerd zullen kunnen worden.   
+5.  De haalbaarheidsstudie zelf omvat geen activiteiten die als export- of investeringsactiviteiten kunnen worden aangemerkt.   
 
 ### Artikel  4.2  
 
-Het samenwerkingsverband bestaat uit ten minste twee in Nederland gevestigde exporterende of investerende MKB-ondernemers en een partij uit het land waar de informatiestudie wordt verricht.  
+Het samenwerkingsverband bestaat uit ten minste twee niet in een groep verbonden in Nederland gevestigde exporterende of investerende ondernemers.  
 
 ### Artikel  4.3  
 
 1.  De subsidie bedraagt 50 procent van de subsidiabele kosten.   
-2.  Het maximumsubsidiebedrag bedraagt € 125.000 per informatiestudie.   
-3.  Het bedrag van de subsidie wordt verlaagd voor zover dit nodig is op basis van tijdelijke communautaire kaderregeling inzake staatssteun.   
+2.  Het maximumsubsidiebedrag bedraagt € 100.000 per haalbaarheidsstudie.   
+3.  De subsidie valt onder de de-minimisverordening. Het bedrag van de subsidie wordt verlaagd voor zover dit nodig is op basis van deze verordening.   
 
 ### Artikel  4.4  
 
@@ -291,7 +284,7 @@ Het samenwerkingsverband bestaat uit ten minste twee in Nederland gevestigde exp
 a. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen indien deze in de administratie te onderscheiden zijn;  
 
 b. de aan derden betaalde kosten.     
-2.  De [artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+2.  De artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
 
 ### Artikel  4.5  
 
@@ -299,13 +292,13 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van aanvrag
 
 ### Artikel  4.6  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is 36 maanden na de subsidieverlening.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies, is 36 maanden na de subsidieverlening.  
 
 ### Artikel  4.7  
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. subsidieverstrekking niet is toegestaan onder toepassing van de tijdelijke communautaire kaderregeling inzake staatsteun, de algemene groepsvrijstellingsverordening of de verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379);  
+a. subsidieverstrekking niet is toegestaan onder toepassing van de de-minimisverordening;  
 
 b. onvoldoende vertrouwen bestaat in de politieke haalbaarheid van de activiteiten in het doelland;  
 
@@ -313,25 +306,15 @@ c. er onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten 
 
 d. de activiteiten in strijd zijn met de door de Organisatie voor Economische Samenwerking en Ontwikkeling vastgestelde richtlijnen ten aanzien van Maatschappelijk Verantwoord Ondernemen;  
 
-e. voor de activiteiten subsidie kan worden verkregen op grond van een in uitvoering zijnde internationaliseringsstrategie;  
+e. er in het desbetreffende land geen reële mogelijkheden zijn voor de realisatie van het project na de informatiestudie, met betrokkenheid van in Nederland gevestigde bedrijven;  
 
-f. er in het desbetreffende land geen reële mogelijkheden zijn voor de realisatie van het project na de informatiestudie, met betrokkenheid van in Nederland gevestigde bedrijven;  
+f. de activiteiten vrijwel identiek zijn aan eerdere deels door de Nederlandse overheid gefinancierde activiteiten en de activiteiten onvoldoende toegevoegde waarde hebben voor de positionering van het Nederlandse bedrijfsleven in het doelland;  
 
-g. de activiteiten vrijwel identiek zijn aan een eerdere deels door de Nederlandse overheid gefinancierde haalbaarheidsstudie en er geen toegevoegde waarde is voor de Nederlandse naamsbekendheid;  
+g. de activiteiten de bekendheid van de buitenlandse partij met het aanbod van het Nederlandse bedrijfsleven onvoldoende vergroot;  
 
-h. de activiteiten de bekendheid van de buitenlandse partij met het aanbod van het Nederlandse bedrijfsleven onvoldoende vergroot;  
+h. er onvoldoende kans is op orderverwerving van substantiële omvang door het Nederlandse bedrijfsleven in de uitvoeringsfase van het project;  
 
-i. er onvoldoende kans is op orderverwerving van substantiële omvang door het Nederlandse bedrijfsleven in de uitvoeringsfase van het project;  
-
-j. er vóór aanvang van de activiteiten niet bekend is wie de buitenlandse partij is die bij de desbetreffende activiteit als projectpartner betrokken zal zijn en op welke locatie de activiteit zal worden uitgevoerd.    
-
-### Artikel  4.8  
-
-In afwijking van [artikel 38, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) voert de subsidie-ontvanger een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden: 
-
-a. de aard, inhoud en voortgang van de verrichte werkzaamheden;  
-
-b. de specifiek ten behoeve van de activiteiten gemaakte en betaalde kosten.    
+i. onvoldoende kans is op financiering van de exportorders of Directe Buitenlandse Investeringen (DBI) die uit de haalbaarheidsstudie kunnen voortvloeien.    
 
 ### Artikel  4.9  
 
@@ -340,14 +323,6 @@ De subsidie-ontvanger dient halverwege de uitvoering van de studie, bedoeld in a
 ### Artikel  4.9a  
 
 Een subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering van een investeringsproject voldoen aan de in het doelland geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumentenrechten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.  
-
-### Artikel  4.10  
-
-Het formulier voor het indienen van een aanvraag voor: 
-
-a. een subsidie is opgenomen in bijlage 4.1;  
-
-b. een subsidievaststelling is opgenomen in bijlage 4.2.    
 
 ### Hoofdstuk  5  
 
@@ -361,57 +336,28 @@ b. een subsidievaststelling is opgenomen in bijlage 4.2.
 
 In dit hoofdstuk wordt verstaan onder: 
 
-– *deelproject:* deel van een investeringsproject, dat aanvangt met de investering in een duurzaam kapitaalgoed in een onderneming in de opkomende markt en eindigt als het kapitaalgoed drie maanden productie heeft geleverd en waarvan de kosten op basis van artikel 5.11 voor subsidie in aanmerking komen;  
+– *lening:* een geldlening aan een ondernemer ter financiering van nieuwe activiteiten in daartoe aangewezen landen;  
 
-– *externe deskundige:* een deskundige die niet is verbonden aan de onderneming van de subsidieaanvrager noch aan een onderneming die tot dezelfde groep als de subsidieaanvrager behoort;  
+– *externe deskundige:* een deskundige die niet is verbonden aan een onderneming van de subsidieaanvrager noch aan een onderneming die tot dezelfde groep als de subsidieaanvrager behoort;  
 
-– *investeringsproject:* samenhangend geheel van activiteiten bestaande uit investeringen in kapitaalgoederen en gerelateerde diensten door een ondernemer in een onderneming in een opkomende markt;  
-
-– *Nederlands aandeel:* het gedeelte van het orderbedrag dat kan worden toegerekend aan goederen of diensten geproduceerd respectievelijk verricht door de subsidieontvanger of blijkens facturen kan worden toegerekend aan goederen of diensten die worden geproduceerd respectievelijk verricht door in Nederland gevestigde ondernemers niet zijnde de subsidieontvanger;  
-
-– *OESO:* de Organisatie voor Economische Samenwerking en Ontwikkeling;  
-
-– *OESO-Regeling:* de Regeling inzake richtsnoeren voor door de overheid gesteunde exportkredieten van de OESO-Raad;  
-
-– *OESO-consensus:* de OESO-Regeling en de Overeenkomst inzake exportkredieten voor schepen van de OESO-Raad;  
-
-– *opkomende markt:* China of India;  
-
-– *order:* een overeenkomst tot levering van kapitaalgoederen, van technische ontwerpen of van agrarisch uitgangsmateriaal aan, of een overeenkomst tot aanneming van werk met een buiten Nederland gevestigde afnemer, die een onderneming in stand houdt en die niet tot dezelfde groep behoort als de opdrachtnemer of een toeleverancier bij de order, dan wel een overheid is, met inbegrip van 
-
-a. de met die overeenkomst onlosmakelijk verbonden opdrachten tot het verrichten van diensten, mits deze van ondergeschikte aard zijn en  
-
-b. diensten die direct gerelateerd zijn aan de functionaliteit van te leveren kapitaalgoederen;    
-
-– *orderbedrag:* bedrag waarvoor de order definitief is afgesloten;  
-
-– *overheid:* een overheid van China of India, of een privaatrechtelijke rechtspersoon waarover deze overheid direct of indirect overwegende zeggenschap heeft;    
+– *verstrekken van financiering:* verstrekken van geld in contanten in de vorm van storting op aandelen of een lening.    
 
 ### §  2  
 
-####Subsidiëring van orders
+####Financiering van nieuwe activiteiten in opkomende markten
 
 ### Artikel  5.2  
 
-De minister verstrekt ter zake van een order, af te sluiten door een in Nederland gevestigde ondernemer met een in China of India gevestigde afnemer, op aanvraag een subsidie aan die afnemer, indien: 
-
-a. het bedrag van de order niet hoger is dan het bedrag, genoemd in artikel 36, onderdeel b, van de OESO-Regeling, waarbij de koers van de SDR ten opzichte van de euro voor de aanvragen in een kalenderjaar wordt vastgesteld op de eerste koers die in dat kalenderjaar is gemeld;  
-
-b. ten minste 60 procent van het orderbedrag bestaat uit Nederlands aandeel;  
-
-c. de order met een China gevestigde afnemer bijdraagt aan de bevordering van een duurzame economische ontwikkeling van de sectoren energie, industrie en technologie, infrastructuur, landbouw, water of transport en logistiek en de order met een in India gevestigde afnemer gericht is op de sectoren agro-industrie, biotechnologie, bouw, gezondheidszorg, informatie- en communicatietechnologie, infrastructuur en logistiek, water (management), transportmiddelenindustrie, creatieve industrie, duurzame energie of milieu;  
-
-d. de order ingevolge de OESO-consensus niet commercieel haalbaar is;  
-
-e. voor de order niet reeds door de Minister van Ontwikkelingssamenwerking subsidie is verstrekt; en  
-
-f. voor de order niet reeds door de minister subsidie is verstrekt op grond van enige andere regeling.   De aanvraag wordt namens de afnemer ingediend door de in Nederland gevestigde ondernemer die de order afsluit.  
+1.  De minister verstrekt op aanvraag subsidie in de vorm van een Finance for International Business-lening aan een MKB-ondernemer die een rechtspersoon is.   
+2.  In aanvulling op artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies verstrekt de Minister ook subsidie aan een MKB-ondernemer die een rechtspersoon is en die gevestigd is in Bonaire, Sint Eustatius of Saba.   
 
 ### Artikel  5.3  
 
-1.  De subsidie bedraagt 40% van het orderbedrag en wordt door de minister namens de afnemer als deel van het door deze verschuldigde orderbedrag uitbetaald aan de in Nederland gevestigde ondernemer die de order afsluit.   
-2.  Indien ter zake van het door een toeleverancier of onderaannemer produceren van goederen of verrichten van diensten ten behoeve van het uitvoeren van de order door een niet-Nederlandse overheid hulpfinancieringssteun in de zin van de OESO-consensus is toegezegd of verstrekt, wordt bij het bepalen van het bedrag van de subsidie het orderbedrag verminderd met het bedrag van de toeleverantie of onderaanneming.   
-3.  De subsidie wordt verminderd voor zover door verstrekking van de subsidie het totaal van de subsidies, per twee achtereenvolgende kalenderjaren krachtens deze regeling verstrekt ter zake van orders, afgesloten door de in Nederland gevestigde ondernemer of door de groep waartoe deze behoort, meer zou bedragen dan € 1.500.000.   
+Aan de subsidie wordt ten minste de voorwaarde verbonden, dat 
+
+a. binnen een maand na de dagtekening van de beschikking de bij de beschikking behorende uitvoeringsovereenkomst door de subsidieaanvrager ondertekend is geretourneerd, en  
+
+b. binnen zes maanden na dagtekening van de beschikking is gebleken dat de subsidie-ontvanger met een of meer partijen waaronder ten minste één financier overeenkomsten heeft gesloten op basis waarvan hem door partijen ten behoeve van de nieuwe activiteiten financiering wordt verstrekt ter grootte van een bedrag in contanten dat zich verhoudt tot het subsidiebedrag als ten minste 65 staat tot 35.    
 
 ### Artikel  5.4  
 
@@ -419,161 +365,69 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  5.5  
 
-De minister beslist afwijzend op een aanvraag indien 
+De minister beslist afwijzend op een aanvraag om subsidie, indien 
 
-a. subsidieverstrekking in strijd zou zijn met de OESO-consensus;  
+a. en voor zover de totale subsidie, krachtens deze paragraaf aan de subsidie-ontvanger verstrekt, meer bedraagt dan € 875.000 per land;  
 
-b. een op grond van de OESO-consensus verrichte notificatie tot een voor de aanvrager negatief resultaat heeft geleid;  
+b. de rentabiliteits- en continuïteitsperspectieven van de subsidie-ontvanger niet bevredigend zijn;  
 
-c. gegronde vrees bestaat dat de aanvrager met het oog op de verkrijging van de subsidie dan wel bij het uitvoeren van de order omkoping in de zin van de [artikelen 177](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [177a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), juncto [178a van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) heeft gepleegd, respectievelijk zal plegen;  
+c. de rentabiliteits- en continuïteitsperspectieven van de nieuwe activiteiten van de subsidie-ontvanger in het betrokken land niet bevredigend zijn;  
 
-d. de aanvrager of een tot dezelfde groep als de aanvrager behorende ondernemer reeds eerder een contractuele relatie had met de afnemer;  
+d. in de voorafgaande periode van twaalf maanden meer middelen aan de ondernemer onttrokken zijn dan een redelijk te achten bedrijfsvoering meebrengt dan wel een verplichting tot een zodanige onttrekking is aangegaan;  
 
-e. de order betrekking heeft op tweedehands goederen;  
+e. de financiering, bedoeld in artikel 5.3, onderdeel b, niet geheel wordt verstrekt in geld;  
 
-f. de ondernemer in de opkomende markt of de aanvrager niet handelt volgens de door de OESO vastgestelde richtlijnen ten aanzien van Maatschappelijk Verantwoord Ondernemen of de door de Internationale Arbeidsorganisatie vastgestelde Verklaring Fundamentele Beginselen en rechten op het Werk.    
+f. de financiering kan leiden tot de gehele of gedeeltelijke afwenteling van bestaande risico’s op de Staat;  
+
+g. de activiteiten in overwegende mate betrekking hebben op het behalen van resultaten door waardestijging van onroerend goed of andere activa zonder dat er sprake is van significante waardetoevoeging door eigen productieve activiteiten;  
+
+h. de subsidie-ontvanger het bank-, verzekerings- of beleggingsbedrijf uitoefent of een participatiemaatschappij heeft;  
+
+i. onvoldoende aannemelijk is dat de subsidie zal bijdragen aan expansie van de in Nederland gevestigde ondernemingen van de subsidie-ontvanger;  
+
+j. indien de subsidie-ontvanger een onderneming drijft die in moeilijkheden verkeert zoals bedoeld in de algemene groepsvrijstellingsverordening;  
+
+k. de subsidie-ontvanger handelt in strijd met de door de OESO vastgestelde Richtlijnen voor multinationale ondernemingen ten aanzien van Maatschappelijk Verantwoord Ondernemen of de door de Internationale Arbeidsorganisatie vastgestelde Verklaring Fundamentele Beginselen en rechten op het Werk;  
+
+l. in verband met de nieuwe activiteiten sprake is van het gebruik van kinder- of dwangarbeid door de subsidie-ontvanger, in de onderneming waarin de nieuwe activiteiten worden verricht of in enige onderneming van de ondernemer of de eerste wezenlijke toeleverancier voor de nieuwe activiteiten;  
+
+m. onvoldoende vertrouwen bestaat in de wijze waarop systematisch wordt gecontroleerd en geborgd dat in verband met de nieuwe activiteiten geen gebruik wordt gemaakt van kinder- of dwangarbeid door een subsidie-ontvanger, de onderneming waarin de nieuwe activiteiten worden verricht of in enige onderneming van de ondernemer of de eerste wezenlijke toeleverancier voor de nieuwe activiteiten;  
+
+n. de subsidie-ontvanger ook een financiering heeft met een garantie krachtens hoofdstuk 3 (Groeifaciliteit) van de Subsidieregeling starten, groeien en overdragen van een onderneming, indien het risicoprofiel van deze garantie toeneemt door verstrekking van de aangevraagde subsidie.    
 
 ### Artikel  5.6  
 
-1.  De beschikking tot subsidieverlening bevat de opschortende voorwaarden dat: 
+De minister beslist afwijzend op een aanvraag om subsidie, indien 
 
-a. een op grond van de OESO-consensus verrichte notificatie tot een positief resultaat heeft geleid;  
+a. de subsidie-ontvanger niet heeft aangetoond dat de verstrekker van financiering of, indien er meerdere verstrekkers van financiering zijn, de verstrekker van de meeste financiering binnen de groep verstrekkers van financiering, financier is, gevestigd in de Europese Unie, en dat zijn deskundigheid, betrouwbaarheid, financiële draagkracht en stabiliteit voldoende zijn gewaarborgd;  
 
-b. de subsidieaanvrager vóór een bij de subsidieverlening bepaald tijdstip, behoudens voorafgaande schriftelijke verlenging door de minister, een afschrift van de tussen hem en de afnemer afgesloten order aan de minister heeft gezonden, in welke order 
-
-1e de afnemer de minister machtigt om de subsidie namens hem als deel van het door hem verschuldigde orderbedrag uit te betalen aan de in Nederland gevestigde ondernemer die de order afsluit, zodat het subsidiebedrag in mindering komt op het te betalen orderbedrag,  
-
-2e de afnemer de in Nederland gevestigde ondernemer die de order afsluit machtigt om ter zake van de subsidie als zijn vertegenwoordiger op te treden en  
-
-3e de in Nederland gevestigde ondernemer die de order afsluit zich jegens de minister naast de subsidie-ontvanger hoofdelijk aansprakelijk stelt voor de nakoming door deze laatste van zijn verplichtingen voortvloeiend uit de subsidierelatie.       
-2.  Aan de subsidie is de verplichting verbonden dat de order is uitgevoerd uiterlijk op het tijdstip dat de minister bepaalt na ontvangst van het afschrift van de afgesloten order.   
-
-### Artikel  5.6a  
-
-Een subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering van een investeringsproject voldoen aan de in de opkomende markt geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumentenrechten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.  
+b. onvoldoende vertrouwen bestaat in de betrouwbaarheid en stabiliteit van een of meer van de overige verstrekkers van financiering.    
 
 ### Artikel  5.7  
 
-Het formulier voor het indienen van een aanvraag voor: 
+1.  De subsidie-ontvanger maakt in verband met de nieuwe activiteiten geen gebruik van kinder- of dwangarbeid.   
+2.  De subsidie-ontvanger zorgt ervoor dat noch de eerste wezenlijke toeleverancier noch de onderneming waarin de nieuwe activiteiten worden verricht gebruik maken van kinder- of dwangarbeid.   
+3.  De subsidie-ontvanger meldt feiten en omstandigheden die duiden op het gebruik van kinder- of dwangarbeid in de onderneming waar de nieuwe activiteiten worden verricht of in een van zijn ondernemingen, dan wel in enige onderneming van de eerste wezenlijke toeleverancier voor de nieuwe activiteiten zo spoedig mogelijk aan de minister.   
+4.  De in de voorgaande leden genoemde verplichtingen gelden gedurende de looptijd van de lening.   
 
-a. een subsidie als bedoeld in artikel 5.2 is opgenomen in bijlage 5.1;  
+### Artikel  5.8  
 
-b. de vaststelling van een subsidie als bedoeld in artikel 5.2 is opgenomen in bijlage 5.2.    
+De subsidie-ontvanger draagt er zorg voor dat de nieuwe activiteiten voldoen aan de in het betrokken land geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumenten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.  
+
+### Artikel  5.9  
+
+De artikelen 37, 38, eerste lid, onder b tot en met e, en 39 van het Kaderbesluit EZ-subsidies zijn niet van toepassing.  
+
+### Artikel  5.10  
+
+1.  Het formulier voor het indienen van een aanvraag om subsidie is opgenomen in bijlage 5.1.   
+2.  Het model dat de basis vormt voor de uitvoeringsovereenkomst, bedoeld in artikel 5.3, onder a, is opgenomen in bijlage 5.2.   
 
 ### §  3  
 
 ####Investeringsprojecten
 
-### Artikel  5.8  
-
-De minister verstrekt op aanvraag een subsidie aan ondernemer die een deelproject in China uitvoert, gericht op duurzaamheid in de sectoren energie, industrie en technologie, infrastructuur, landbouw, water of transport en logistiek, of in India in de sector agro-industrie, biotechnologie, bouw, gezondheidszorg, informatie- en communicatietechnologie, infrastructuur en logistiek, water (management), transportmiddelenindustrie, creatieve industrie, duurzame energie of milieu.  
-
-### Artikel  5.9  
-
-1.  De subsidie bedraagt 50% van de subsidiabele kosten.   
-2.  Het maximumbedrag van de subsidie bedraagt € 200.000 per subsidie-ontvanger.   
-
-### Artikel  5.10  
-
-De subsidie valt onder de de-minimisverordening.  
-
-### Artikel  5.11  
-
-1.  De kosten die in aanmerking komen voor subsidie op grond van deze paragraaf zijn: 
-
-a. de marktconforme kosten van ten behoeve van het productieproces in te zetten duurzame kapitaalgoederen met uitzondering van onroerende zaken en transportmiddelen;  
-
-b. de in verband met de duurzame kapitaalgoederen, bedoeld in onderdeel a, te maken marktconforme kosten voor transport, verzekering, inklaring, invoerrechten, installatie en het geven van training.     
-2.  Indien de kosten voor installatie en het geven van training, bedoeld in onderdeel b van het eerste lid, interne kosten zijn, zijn de subsidiabele kosten ten hoogste € 35 per uur.   
-3.  Alleen de kosten die niet zijn uitgesloten in de de-minimisverordening, komen voor vergoeding in aanmerking.   
-4.  De [artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
-
-### Artikel  5.12  
-
-De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.  
-
-### Artikel  5.13  
-
-1.  Er is een Adviescommissie subsidiëring opkomende markten, die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld [artikel 23, onderdelen c, e, f en h, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 5.15, tweede lid.   
-2.  De commissie bestaat uit ten minste drie en ten hoogste zes leden.   
-3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste drie jaar.   
-
-### Artikel  5.14  
-
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is twee jaar.  
-
-### Artikel  5.15  
-
-1.  De minister beslist afwijzend op een aanvraag, indien 
-
-a. de continuïteit van de subsidieontvanger voor de korte of middellange termijn in het geding is;  
-
-b. het investeringsproject volledig commercieel financierbaar is;  
-
-c. de ondernemer in strijd handelt met de door de OESO vastgestelde Richtlijnen voor multinationale ondernemingen ten aanzien van Maatschappelijk Verantwoord Ondernemen of met de door de Internationale Arbeidsorganisatie vastgestelde Verklaring Fundamentele Beginselen en rechten op het Werk;  
-
-d. sprake is van het gebruik van kinder- of dwangarbeid door een subsidie-ontvanger, de onderneming waar het project wordt uitgevoerd of de eerste wezenlijke toeleverancier;  
-
-e. onvoldoende vertrouwen bestaat in de wijze waarop systematisch wordt gecontroleerd en geborgd dat in het kader van de uitvoering van een project geen gebruik wordt gemaakt van kinder- of dwangarbeid door een subsidie-ontvanger, de onderneming waar het project wordt uitgevoerd of eerste wezenlijke toeleverancier;  
-
-f. de vaste formatie van de groep waartoe de aanvrager behoort kleiner is dan drie fulltime-equivalents;  
-
-g. de subsidie minder zou bedragen dan € 125.000;  
-
-h. het investeringsproject bestaat uit activiteiten die in Nederland of in de opkomende markt verboden zijn;  
-
-i. het investeringsproject per saldo leidt tot het verplaatsen van arbeidsplaatsen van Nederland naar een opkomende markt;  
-
-j. het investeringsproject niet voldoet aan de milieuwetgeving van de opkomende markt of in het kader van het investeringsproject geen gebruik wordt gemaakt van de best beschikbare en gangbare technieken om de nadelige gevolgen voor het milieu te voorkomen, of indien dat niet mogelijk is, zoveel mogelijk te bepreken en ongedaan te maken;  
-
-k. de weigeringsgronden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) van toepassing zijn;  
-
-l. Verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de visserijsector (PbEU L 193) of Verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) van toepassing is.     
-2.  De minister beslist voorts afwijzend op een aanvraag, indien 
-
-a. het investeringsproject niet past binnen de bedrijfsstrategie van de aanvrager;  
-
-b. het investeringsproject onvoldoende verband houdt met de huidige bedrijfsactiviteiten van de aanvrager;  
-
-c. het deelproject geen betrekking heeft op nieuwe activiteiten van de aanvrager in de opkomende markt, waarbij afzet van productie in belangrijke mate op de lokale markt plaatsvindt;  
-
-d. het investeringsproject leidt tot marktverstoring op de relevante markt in de opkomende markt, in een aan de opkomende markt grenzende regio of in Nederland;  
-
-e. het deelproject leidt tot verplaatsing van technisch verouderde technologie;  
-
-f. onvoldoende vertrouwen bestaat dat een duurzaam samenwerkingsverband wordt aangegaan tussen de aanvrager en een in de opkomende markt gevestigd bedrijf.     
-
-### Artikel  5.16  
-
-In afwijking van [artikel 38, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) voert de subsidie-ontvanger een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden: 
-
-a. de aard, inhoud en voortgang van de verrichte werkzaamheden;  
-
-b. de specifiek ten behoeve van de activiteiten gemaakte en betaalde kosten.    
-
-### Artikel  5.16a  
-
-1.  Een subsidie-ontvanger maakt bij de uitvoering van een deelproject geen gebruik van kinder- of dwangarbeid.   
-2.  De subsidie-ontvanger zorgt ervoor dat noch de eerste wezenlijke toeleverancier noch de onderneming waar het project wordt uitgevoerd bij de uitvoering van een deelproject gebruik maken van kinder- of dwangarbeid.   
-3.  De subsidie-ontvanger meldt aanwijzingen die hij heeft of redelijkerwijs behoort te hebben voor het gebruik van kinder- of dwangarbeid in de onderneming waar het project wordt uitgevoerd of in een onderneming van de eerste wezenlijke toeleverancier zo spoedig mogelijk aan de Minister.   
-4.  Na afloop van het project zorgt de subsidie-ontvanger ervoor dat de onderneming waar het kapitaalgoed in productie is en de eerste wezenlijke toeleverancier geen gebruik zullen maken van kinder- of dwangarbeid.   
-5.  De verplichting, bedoeld in het vierde lid, geldt gedurende 2 jaar na de datum van de beschikking tot subsidievaststelling.   
-
-### Artikel  5.16b  
-
-Een subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering van een investeringsproject voldoen aan de in de opkomende markt geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumentenrechten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.  
-
-### Artikel  5.17  
-
-In afwijking van [artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het daar genoemde percentage van het voorschot 70%.  
-
-### Artikel  5.18  
-
-Het formulier voor het indienen van een aanvraag voor: 
-
-a. een subsidie als bedoeld in artikel 5.8 is opgenomen in bijlage 5.3;  
-
-b. de vaststelling van een subsidie als bedoeld in artikel 5.8 is opgenomen in bijlage 5.4.    
+Vervallen per 15-07-2012   
 
 ### §  4  
 
@@ -581,13 +435,14 @@ b. de vaststelling van een subsidie als bedoeld in artikel 5.8 is opgenomen in b
 
 ### Artikel  5.19  
 
-De minister verstrekt aan een MKB-ondernemer op aanvraag een subsidie voor advisering en begeleiding door een externe deskundige, indien dat redelijkerwijs noodzakelijk is voor het wegnemen van knelpunten bij het verwezenlijken van zijn ondernemingsbeleid gericht op positionering van zijn onderneming op een opkomende markt.  
+1.  De minister verstrekt aan een MKB-ondernemer op aanvraag een subsidie voor advisering en begeleiding door een externe deskundige, indien dat redelijkerwijs noodzakelijk is voor het wegnemen van knelpunten bij het verwezenlijken van zijn ondernemingsbeleid gericht op marktentree en positionering van zijn onderneming in daartoe aangewezen landen.   
+2.  De advisering en begeleiding liggen op de gebieden specifieke marktinformatie, het selecteren van lokale partners, de strategie op het gebied van marktentree en positionering, wet- en regelgeving en juridisch advies.   
 
 ### Artikel  5.20  
 
 1.  De subsidie bedraagt 50% van de begrote aan de externe deskundige verschuldigde kosten.   
-2.  De [artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
-3.  Het maximumsubsidiebedrag bedraagt € 100.000 per subsidie-ontvanger of groep waartoe de subsidieontvanger behoort per opkomende markt.   
+2.  De artikelen 11 tot en met 14a van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
+3.  Het maximumsubsidiebedrag bedraagt € 50.000 per subsidieontvanger of groep waartoe de subsidieontvanger behoort per land.   
 4.  Geen subsidie wordt verstrekt indien het subsidiebedrag minder bedraagt dan € 10.000.   
 
 ### Artikel  5.21  
@@ -620,7 +475,15 @@ h. de aanvrager of een externe deskundige in een opkomende markt niet handelt vo
 
 i. ter zake van de activiteiten of een deel daarvan reeds door een ander bestuursorgaan of de Commissie van Europese gemeenschappen aan de subsidieontvanger subsidie is verstrekt;  
 
-j. de activiteiten verboden zijn in Nederland of in een opkomende markt.    
+j. de activiteiten verboden zijn in Nederland of in het doelland;  
+
+k. indien de aanvrager minder dan drie fulltime equivalents in dienst heeft;  
+
+l. de activiteiten een looptijd hebben van langer dan een jaar;  
+
+m. de in de offerte genoemde activiteiten go/no-go of beslismomenten bevatten waardoor een deel van de activiteiten mogelijk geen doorgang kan vinden;  
+
+n. de in de offerte genoemde activiteiten voortkomen uit of samenvallen met de reguliere bedrijfsactiviteiten van de aanvrager.    
 
 ### Artikel  5.24  
 
@@ -639,10 +502,6 @@ c. de subsidieontvanger verstrekt desgevraagd aan de minister een verklaring van
 d. de subsidieontvanger verleent de minister desgevraagd inzage in de niet bedrijfsgevoelige resultaten van de advisering door de externe deskundige;  
 
 e. de subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering van een investeringsproject voldoen aan de in de opkomende markt geldende wetgeving gericht op de bescherming van mensenrechten, milieu en consumentenrechten, wetgeving gericht op het tegengaan van corruptie en wetgeving op het gebied van arbeidsverhoudingen en tewerkstelling.    
-
-### Artikel  5.26  
-
-Het formulier voor het indienen van een aanvraag voor een subsidie als bedoeld in artikel 5.19 is opgenomen in bijlage 5.5.  
 
 ### Hoofdstuk  6  
 
@@ -667,7 +526,7 @@ F.Heemskerk
 ####Vooraanmeldingsformulier 2g@there
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Bijlage 2.1 van de Subsidieregeling internationaal excelleren*   |  *Stuur het volledig ingevulde formulier naar:*   |
 | --- |  *2getthere@info.evd.nl*   |
 |  *Voor nadere informatie over de regeling:*   | --- |
@@ -680,7 +539,7 @@ Met behulp van dit vooraanmeldingsformulier kunt u de procedure voor 2g@there op
 ####Vragen vooraf
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Indien alle vragen met 'JA' kunnen worden beantwoord is 2g@there wellicht iets voor u. Als een of meer van de vragen worden beantwoord met 'NEE' en u nadere uitleg wilt, neem dan contact op met een van de 2g@there-medewerkers of bezoek de 2g@there-website (www.evd.nl/2getthere).  | Wilt u een internationaliseringstrategie ontwikkelen, dwz een meerjarig plan voor het samenwerkingsverband om op een markt te starten, groeien, investeren, of acquireren?  | □ Ja □ Nee  |
 | Dient u het voorstel in namens minimaal 8 bedrijven en/of kennisinstellingen, die een samenwerkingsverband willen aan gaan?  | □ Ja □ Nee  |
 | Is niet-financiële ondersteuning van de overheid  (dwz ondersteuning door het brengen van kennis over beleid, wetgeving en handhaving en economische diplomatie/lobby) essentieel voor het realiseren van uw strategie?  | □ Ja □ Nee  |
@@ -694,7 +553,7 @@ Met behulp van dit vooraanmeldingsformulier kunt u de procedure voor 2g@there op
 Onderneming 
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | Naam onderneming:  | --- |
 | Telefoon:  | --- | Website:  |
 | Inschrijfnummer KvK:  | --- |
@@ -703,7 +562,7 @@ Onderneming
 Contactpersoon 
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | Naam:  | --- | □ Dhr. □ Mw.  |
 | Titel(s):  | --- |
 | Functie:  | --- |
@@ -715,7 +574,7 @@ Contactpersoon
 ####Samenwerkingsverband
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | In artikel 2.2  van de Subsidieregeling internationaal excelleren is opgenomen dat een samenwerkingsverband dient te bestaan uit minimaal 8 niet in een groep verbonden in Nederland gevestigde ondernemers  | Naam samenwerkingsverband:  | --- |
 | --- |
 | --- | Naam onderneming:  | Kernactiviteit:  |
@@ -737,7 +596,7 @@ Contactpersoon
 ####Land Sector combinatie
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | --- | Land:  | --- |
 | Sector:  | --- |
 | Motivatie:  | --- |
@@ -747,7 +606,7 @@ Contactpersoon
 ####Strategie
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Geef een korte omschrijving van de Internationaliseringsstrategie.  Houd het kort.  Denk aan in totaal +/- 600 woorden voor de beantwoording van de vragen hiernaast.  | Beoogde doelen en resultaten:  |
 | --- |
 | Verwachte bijdrage aan duurzame economische groei:  |
@@ -766,207 +625,315 @@ Contactpersoon
 ####Financiën
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Geef een schatting  | Totale kosten:  | --- |
 | Eigen bijdrage ondernemingen:  | --- |
 | Subsidie:  | --- |
 
 ####Bijlage 2.2 behorende bij artikel 2.13, onderdeel b , van de Subsidieregeling internationaal excelleren
 
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
-![247252](http://wetten.overheid.nl/Illustration/247252)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ####Bijlage 2.3 behorende bij artikel 2.13, onderdeel c , van de Subsidieregeling internationaal excelleren
 
-![247267](http://wetten.overheid.nl/Illustration/247267)
-![247267](http://wetten.overheid.nl/Illustration/247267)
-![247267](http://wetten.overheid.nl/Illustration/247267)
-![247267](http://wetten.overheid.nl/Illustration/247267)
-![247267](http://wetten.overheid.nl/Illustration/247267)
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ####Bijlage 3.1 behorende bij artikel 3.10, onderdeel a , van de Subsidieregeling internationaal excelleren
 
-![247272](http://wetten.overheid.nl/Illustration/247272)
-![247272](http://wetten.overheid.nl/Illustration/247272)
-![247272](http://wetten.overheid.nl/Illustration/247272)
-![247272](http://wetten.overheid.nl/Illustration/247272)
-![247272](http://wetten.overheid.nl/Illustration/247272)
+![]()
+![]()
+![]()
+![]()
+![]()
 
-####Toelichting op de gevraagde bijlagen A en B
+### Bijlage  
 
-####2.1 Doel en samenvatting
-
-*Geef kort weer:*  
-
-–  *Wat het doel is van uw demonstratieproject*   
-
-–  *Wat het demonstratieproject behelst*   
-
-–  *Welke concrete en meetbare resultaten hiermee worden bereikt.*   
-
-–  *Met wie u het demonstratieproject uitvoert (deelnemers uit het samenwerkingsverband of lokale partijen).*   
-
-–  *Hoe past het demonstratieproject bij de Internationaliseringstrategie van het samenwerkingsverband.*   
-
-–  *Geef aan hoe de promotiematerialen van NL EVD Internationaal onderdeel uitmaken van het project. Maw: hoe denkt u te realiseren dat het demonstratieproject zichtbaar maakt welke kennis en kunde in Nederland beschikbaar is.*     *Vermeld hier het totale budget (in EUR) van het demonstratieproject.*   
-
-####2.1 Projectplan
-
-Voeg een kopie van het projectplan voor het demonstratieproject toe, waarin onderstaande vragen voldoende inzichtelijk worden gemaakt.  *Huidige activiteiten van de aanvrager*  
-
-–  *Het demonstratieproject past binnen de bedrijfsstrategie van de aanvrager (s).*   
-
-–  *Het demonstratieproject past binnen de Internationaliseringstrategie van het samenwerkingsverband.*   
-
-–  *Het demonstratieproject houdt verband met de huidige bedrijfsactiviteiten van de aanvrager.*   
-
-–  *Er is in het doelland niet eerder een soortgelijk demonstratieproject uitgevoerd.*     *Operationeel plan*  
-
-–  *Het project kan binnen de looptijd van de Internationaliseringstrategie waaronder het wordt uitgevoerd, worden voltooid.*   
-
-–  *Geef aan wat er met het demonstratieproject gebeurt nadat de looptijd van de Internationaliseringstrategie waartoe het project behoort, is verstreken.*     *Risico analyse*  
-
-–  *Welke risico's de haalbaarheid én de resultaten van het demonstratieproject kunnen beïnvloeden.*   
-
-–  *Wat de impact van deze risico's is.*   
-
-–  *Hoe deze risico's worden ondervangen.*     
-
-####2.2 Duurzame kapitaalgoederen en gerelateerde diensten van het demonstratieproject
-
-####2.2.1 Duurzame kapitaalgoederen
-
-Specificeer welke duurzame kapitaalgoederen aangeschaft worden en wat hiervan de kosten zijn. Geef tevens een overzicht van gerelateerde diensten zoals transport, verzekering, inklaring, invoerrechten, installatie e.d..  
-
-| Item/Type/leverancier  | Hoeveelheid  | Prijs  | Bedrag (EUR)  |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-|  *Totaal duurzame kapitaalgoederen*   | --- |
-
-*Omschrijf welke productiemethode of technologie wordt gehanteerd. Is dit een commercieel bewezen technologie? Heeft aanvrager al ervaring met deze technologie? Zo nee, hoe wordt deze ingebracht? Brengen lokale partijen kennis en middelen in?*   
-
-####2.2.2 Training (indien van toepassing)
-
-Geef hier een gedetailleerd overzicht van de aan de duurzame kapitaalgoederen gerelateerde training (zoals in onderhoud en/of bediening) weer.  
-
-| Omschrijving  | Aantal dagen  | Tarief *  | Bedrag (EUR)  |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-|  *Totaal training*   | --- |
-
-*Geef een uitwerking van de hierboven genoemde training, waarbij de volgende punten beantwoord worden:*   *Wie worden getraind? Om hoeveel personen gaat het?*   *Welke kennis en/of vaardigheden worden bijgebracht? Wat is het niveau van de training?*   *Door wie wordt getraind? Waar vindt de training plaats?*   *Hoeveel uur of dagen neemt de training in beslag?*   
-
-####2.2.3 Totale subsidiabele kosten
-
-Offertes (eventueel pro-forma) waarop deze kosten gebaseerd zijn, dient u bij deze aanvraag te voegen.  
-
-| Subsidiabele kosten  | Bedrag (EUR)  |
-|:---|:---|
-| Totaal duurzame kapitaalgoederen (zie tabel 2.2.1)  | --- |
-| Totaal Training (zie tabel 2.2.2)  | --- |
-|  *Totaal subsidiabele kosten*   | --- |
-
-####2.4 Financieringsplan
-
-*Specificeer hoe het gehele demonstratieproject met aftrek van de subsidie gefinancierd wordt. Hoe lang wordt het project geëxploiteerd? Wat is de eigen inbreng? Externe financiers aanwezig? (eventueel toelichten via een sources and uses analyse).*   
-
-####2.5 Duurzaamheid
-
-*Geeft hier kort aan op welke wijze het demonstratieproject invloed heeft op het milieu en lokale arbeidsomstandigheden. Hoe kunnen eventuele risico's geminimaliseerd worden. Geef aan in hoeverre minder milieu belastende gangbare alternatieven in de branche voorhanden zijn.*   
-
-####Bijlage 4.1 behorende bij artikel 4.10, onderdeel a , van de Subsidieregeling internationaal excelleren
-
-![247283](http://wetten.overheid.nl/Illustration/247283)
-![247283](http://wetten.overheid.nl/Illustration/247283)
-![247283](http://wetten.overheid.nl/Illustration/247283)
-![247283](http://wetten.overheid.nl/Illustration/247283)
-![247283](http://wetten.overheid.nl/Illustration/247283)
-![247283](http://wetten.overheid.nl/Illustration/247283)
-![247283](http://wetten.overheid.nl/Illustration/247283)
+![]()
+![]()
 
 ####Bijlage 3.2 behorende bij artikel 3.10, onderdeel b , van de Subsidieregeling internationaal excelleren
 
-![247276](http://wetten.overheid.nl/Illustration/247276)
-![247276](http://wetten.overheid.nl/Illustration/247276)
-![247276](http://wetten.overheid.nl/Illustration/247276)
-![247276](http://wetten.overheid.nl/Illustration/247276)
+![]()
+![]()
+
+####Bijlage 4.1 behorende bij artikel 4.10, onderdeel a , van de Subsidieregeling internationaal excelleren
+
+![]()
+![]()
+![]()
+![]()
+![]()
+
+### Bijlage  
+
+![]()
+![]()
 
 ####Bijlage 4.2 behorende bij artikel 4.10, onderdeel b , van de Subsidieregeling internationaal excelleren
 
-![247285](http://wetten.overheid.nl/Illustration/247285)
-![247285](http://wetten.overheid.nl/Illustration/247285)
+![]()
+![]()
 
-####Bijlage 5.1 behorende bij artikel 5.7, onderdeel a , van de Subsidieregeling internationaal excelleren
+### Bijlage  5.1  
 
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
-![247293](http://wetten.overheid.nl/Illustration/247293)
+![]()
+![]()
+![]()
+![]()
 
-####Bijlage 5.2 behorende bij artikel 5.7, onderdeel b , van de Subsidieregeling internationaal excelleren
+### Bijlage  5.2  
 
-![247298](http://wetten.overheid.nl/Illustration/247298)
-![247298](http://wetten.overheid.nl/Illustration/247298)
-![247298](http://wetten.overheid.nl/Illustration/247298)
-![247298](http://wetten.overheid.nl/Illustration/247298)
-![247298](http://wetten.overheid.nl/Illustration/247298)
+####, behorende bij artikel 5.10  van de Subsidieregeling internationaal excelleren
 
-####Bijlage 5.3 behorende bij artikel 5.18, onderdeel a , van de Subsidieregeling internationaal excelleren
+OVEREENKOMST VAN GELDLENING TUSSEN De Staat der Nederlanden, vertegenwoordigd door de Minister van Economische Zaken, Landbouw en Innovatie ‘Kredietgever’ EN ’Kredietnemer’ Met Kenmerk [ kenmerk ] DE ONDERGETEKENDEN: 
 
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
-![247307](http://wetten.overheid.nl/Illustration/247307)
+1. De Staat der Nederlanden, vertegenwoordigd door de Minister van Economische Zaken, Landbouw en Innovatie, vertegenwoordigd door [ naam ], [ functie ], hierna te noemen: ‘Kredietgever’; en  
 
-####Bijlage 5.4 behorende bij artikel 5.18, onderdeel b , van de Subsidieregeling internationaal excelleren
+2. [naam], statutair gevestigd te [ plaats ], en kantoorhoudende te [ plaats ] aan de [ straat en huisnummer ] [ postcode ], rechtsgeldig vertegenwoordigd door haar bestuurder de heer / mevrouw [ naam ], ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer [ nummer ], hierna te noemen ‘Kredietnemer’;   hebben het volgende overwogen: 
 
-![247316](http://wetten.overheid.nl/Illustration/247316)
-![247316](http://wetten.overheid.nl/Illustration/247316)
-![247316](http://wetten.overheid.nl/Illustration/247316)
-![247316](http://wetten.overheid.nl/Illustration/247316)
-![247316](http://wetten.overheid.nl/Illustration/247316)
+A. Bij beschikking van [ datum ], met kenmerk [ kenmerk ], (‘subsidiebeschikking’) heeft de Minister van Economische Zaken, Landbouw en Innovatie aan Kredietnemer subsidie verleend in de vorm van een lening voor een bedrag groot EUR [ bedrag ] voor nieuwe activiteiten in [India/China/Colombia/ Vietnam/Zuid-Afrika] op grond van artikel 5.2 van de Subsidieregeling internationaal excelleren, hierna te noemen ‘Subsidieregeling’;  
 
-####Bijlage 5.5 behorende bij artikel 5.26  van de Subsidieregeling internationaal excelleren
+B. Partijen wensen de bij de beschikking behorende uitvoeringsovereenkomst aan te gaan.   Partijen komen het volgende overeen 
 
-![247321](http://wetten.overheid.nl/Illustration/247321)
-![247321](http://wetten.overheid.nl/Illustration/247321)
-![247321](http://wetten.overheid.nl/Illustration/247321)
-![247321](http://wetten.overheid.nl/Illustration/247321)
-![247321](http://wetten.overheid.nl/Illustration/247321)
+### Artikel  1  
+
+####Reikwijdte en definities
+
+1. In deze overeenkomst wordt verstaan onder: 
+
+a. het verstrekken van financiering: het verstrekken van geld in contanten in de vorm van storting op aandelen of een lening ter financiering door Kredietnemer van nieuwe activiteiten in China, Colombia, India, Vietnam of Zuid-Afrika;  
+
+b. een rechtspersoon: een privaatrechtelijke rechtspersoon die MKB-ondernemer is als bedoeld in het Kaderbesluit EZ-subsidies,  *[alternatief ter keuze]*   
+
+[c. de financier: [naam]; de partij die voor een bedrag groot [bedrag] EUR financiering verstrekt aan de Kredietnemer en daarmee tevens voor een bedrag dat zich verhoudt tot het bedrag van de bij deze overeenkomst verstrekte lening als ten minste 65 staat tot 35;] of  
+
+[c. de financier: [naam];de partij die voor een bedrag groot [bedrag] EUR financiering verstrekt aan de Kredietnemer en daarmee samen met de overige verstrekkers van financiering financiering verstrekt tot een bedrag dat zich verhoudt tot het bedrag van de hoodsom als ten minste 65 staat tot 35, en die tevens een groter bedrag aan financiering verstrekt dan de overige verstrekkers van financiering;  
+
+d. de overige verstrekkers van financiering: de partijen bedoeld in onderdeel c die samen met de financier financiering verstrekken aan de Kredietnemer voor voor de volgende bedragen financiering: [naam financier] : [bedrag] EUR; [naam financier] : [bedrag] EUR, enz.]    
+
+2. Voor de toepassing en de uitleg van deze overeenkomst zijn de begripsbepalingen die voorkomen in de Subsidieregeling en in het Kaderbesluit EZ-subsidies zoveel mogelijk van overeenkomstige toepassing.    
+
+### Artikel  2  
+
+####Lening
+
+1. De Staat verstrekt aan de Kredietnemer een lening in contanten (hierna: FIB-lening) ter hoogte van EUR [bedrag], welke lening de Kredietnemer aanvaardt, met in achtneming van de bepalingen van deze overeenkomst.  
+
+2. De feitelijke opname van het krediet in contanten zal, gelet op de storting van geld door de overige verstrekkers van financiering, als volgt plaatsvinden: [tijdstippen en bedragen]  
+
+3. Indien en voor zover de voorgenomen stortingen door derden die tevens kapitaal verstrekken in de zin van de regeling per saldo later plaatsvinden zal de overeenkomstige uitbetaling in de verhouding 65 staat tot 35 worden opgeschort.    
+
+### Artikel  3  
+
+####Doel
+
+De FIB-lening is uitsluitend bestemd en zal uitsluitend worden aangewend voor de financiering van de ‘nieuwe activiteiten’ in India/China/Colombia /Vietnam/Zuid-Afrika middels een belang in de nieuwe activiteiten van [percentage] %, zoals omschreven in de aanvraag op basis waarvan de subsidiebeschikking is geslagen.  
+
+### Artikel  4  
+
+####Rente
+
+1. De Kredietnemer is over de FIB-lening een rente verschuldigd groot [ rente ] % per jaar, die telkens zal worden berekend over het bedrag van de uitstaande lening.  
+
+2. De jaarlijkse rente wordt verschuldigd op 31 december van ieder jaar, voor het eerst op 31 december [jaar] en zo vervolgens.  
+
+3. Voor de berekening van de rente zal de maand op 30 dagen en het jaar op 360 dagen worden gesteld.  
+
+4. Indien enig bedrag inzake rente en aflossing niet tijdig door de Kredietnemer wordt voldaan, is de Kredietnemer rente op rente verschuldigd, te berekenen over het betreffende bedrag dat de Kredietnemer nog dient te voldoen vanaf de dag van verschuldigd worden tot de dag der voldoening.  
+
+5. Op verzoek van Kredietnemer kan maximaal 24 maanden uitstel op de aflossing worden verstrekt, dit naar uitsluitend oordeel van Kredietgever.    
+
+### Artikel  5  
+
+####Aflossing
+
+1. De FIB-lening wordt verstrekt voor een termijn van 60 maanden, welke in gaat met ingang van de datum van de eerste opname van contanten op basis van deze overeenkomst.  
+
+2. Kredietnemer is gerechtigd op de FIB-lening boetevrij af te lossen.    
+
+### Artikel  6  
+
+####Equity Kicker
+
+1. In aanvulling op de in artikel 4 genoemde rente is de Kredietnemer een zogenaamde ‘equity kicker’ verschuldigd aan Kredietgever.  
+
+2. De equity kicker is een vergoeding die wordt berekend op basis van onderstaande formule waarbij X is vastgesteld op [getal] en Y op [getal].  
+
+3. De equity kicker is verschuldigd per de datum waarop de lening moet worden afgelost en is gelijk aan: X/(X+100) * Y * EBITA (zijnde de winst voor belastingen, goodwill afschrijving en rente over vreemd vermogen) – netto rentedragende schuld, waarbij voor de betreffende factoren steeds wordt uitgegaan van de meest recent beschikbare vastgestelde jaarrekening ten tijde van het verschuldigd worden van de equity kicker.  
+
+4. De Kredietgever kan op verzoek van Kredietnemer het tijdstip waarop de equity kicker verschuldigd is uitstellen onder het stellen van nadere voorwaarden.  
+
+5. Betaling aan de Kredietgever vindt plaats op de wijze zoals is bepaald in art 7 van de overeenkomst van geldlening.    
+
+### Artikel  7  
+
+####Betaling
+
+De Kredietnemer zal alle bedragen die hij ter zake van de FIB-lening verschuldigd is, aan Kredietgever voldoen zonder opschorting, inhouding, korting, tegenvordering en/of verrekening, door overmaking van desbetreffende bedragen naar rekeningnummer [rekeningnummer] of op zodanige rekening als door Kredietgever wordt aangegeven.  
+
+### Artikel  8  
+
+####Volgorde Betalingen
+
+Al hetgeen Kredietgever ter zake van de FIB-lening van de Kredietnemer zal ontvangen, zal hij in mindering brengen op het door de Kredietnemer uit hoofde van deze overeenkomst verschuldigde, in de eerste plaats op de rente, vervolgens op hetgeen de Kredietnemer verschuldigd is vanwege artikel 5, en vervolgens op hetgeen de Kredietnemer verschuldigd is vanwege artikel 6.  
+
+### Artikel  9  
+
+####Verplichtingen van de Kredietnemer gedurende de looptijd van de lening
+
+1. De Kredietnemer zal geen uitkeringen hoe ook genaamd doen of toezeggen aan zijn aandeelhouders behoudens voorafgaande schriftelijke goedkeuring van Kredietgever en onder voorwaarde dat de Kredietnemer een aanvullende vergoeding betaalt aan Kredietgever die als volgt wordt berekend: X /(X+100) * de totale uitkering aan aandeelhouders waarbij X gelijk is aan het in artikel 6, tweede lid, vermelde getal. Artikel 6, lid 4 en 5 zijn zoveel mogelijk van overeenkomstige toepassing op de aanvullende vergoeding.  
+
+2. De subsidieontvanger zal niet handelen in strijd met de door de OESO vastgestelde Richtlijnen voor multinationale ondernemingen ten aanzien van Maatschappelijk Verantwoord Ondernemen of met de door de Internationale Arbeidsorganisatie vastgestelde Verklaring Fundamentele Beginselen en rechten op het Werk.  
+
+3. De subsidieontvanger zorgt er voor dat er in verband met de nieuwe activiteiten geen sprake is van het gebruik van kinder- of dwangarbeid in de onderneming waarin de nieuwe activiteiten worden verricht of in enige van zijn ondernemingen noch ook in de ondernemingen van de eerste wezenlijke toeleverancier voor de nieuwe activiteiten.  
+
+4. De subsidieontvanger zorgt er voor dat systematisch wordt gecontroleerd en geborgd dat er in verband met de nieuwe activiteiten geen gebruik wordt gemaakt van kinder- of dwangarbeid door ,hemzelf,binnen enige van zijn ondernemingen, noch ook binnen de onderneming waarin de nieuwe activiteiten worden verricht of in de onderneming van de eerste wezenlijke toeleverancier voor de nieuwe activiteiten.    
+
+### Artikel  10  
+
+####Opeisbaarheid
+
+1. Kredietgever kan de onderhavige overeenkomst opzeggen zonder dat daarbij enige opzegtermijn in acht hoeft te worden genomen 
+
+a. zodra Kredietnemer in verzuim is met het voldoen aan één of meer bepalingen van deze overeenkomst;  
+
+b. bij zijn aanvraag van surseance van betaling;  
+
+c. het aanvragen van zijn faillissement of eigen aangifte daartoe;  
+
+d. aanbieding van enig akkoord aan crediteuren  
+
+e. executoriaal beslag op enig belangrijk gedeelte van de vermogensbestanddelen van de Kredietnemer;  
+
+f. een besluit tot ontbinding of feitelijke liquidatie  
+
+g. de overdracht of de staking van een of meer van zijn ondernemingen geheel of gedeeltelijk;  
+
+h. Indien de financier zijn aandeel in de financiering geheel of voor een aanzienlijk deel beëïndigt.    
+
+2. Bij een opzegging is Kredietnemer de hoofdsom, rente, boeten en kosten, alsmede de equity kicker bedoeld in artikel 6 verschuldigd.  
+
+3. De lening is terstond geheel opeisbaar zonder dat enige voorafgaande ingebrekestelling of rechterlijke tussenkomst zal zijn vereist indien er sprake is van een opzegging op grond van het eerste lid, onderdeel b tot en met g, of het tweede lid, of indien er sprake is van een opzegging in verband met de niet naleving van artikel 9.    
+
+### Artikel  11  
+
+####Financiële Informatie en overige verplichtingen
+
+1. De Kredietnemer is verplicht aan door de minister als toezichthouder in de zin van de Algemene wet bestuursrecht aangewezen personen voor zover dezen dit redelijkerwijs noodzakelijk achten voor de vervulling van hun taak: 
+
+1° inlichtingen te verstrekken en inzage in zakelijke gegevens en bescheiden te verstrekken en de gelegenheid te bieden daarvan kopieën te maken;  
+
+2° toegang te verlenen tot plaatsen niet zijnde woningen;  
+
+3° anderszins binnen de door hen gestelde termijn alle door hen gewenste medewerking te verlenen.    
+
+2. De Kredietnemer is gehouden jaarlijks binnen 2 maanden na vaststelling van de jaarrekening deze jaarrekening te verstrekken aan Kredietgever en alle inlichtingen over zijn financiële positie te verstrekken die de Kredietgever redelijkerwijze van hem kan verlangen.    
+
+### Artikel  12  
+
+####Kennisgevingen
+
+Kennisgevingen en mededelingen met betrekking tot deze overeenkomst dienen, tenzij uitdrukkelijk anders is bepaald, te worden gedaan aan de hierna vermelde adressen:  
+
+| --- | --- |
+|---|---|
+| --- | --- |
+| Kredietnemer  | KREDIETNEMER  [naam, adres, plaats]  |
+| --- | --- |
+| Kredietgever  | KREDIETGEVER  [naam, adres, plaats] ]  |
+| --- | --- |
+
+### Artikel  13  
+
+####Diversen
+
+1. De Kredietnemer verklaart dat het aangaan van deze overeenkomst niet strijdig is met enige door hem aangegane verbintenis en verklaart voorts dat de algemene vergadering van aandeelhouders geen besluit heeft genomen inzake de vertegenwoordigingsbevoegdheid bij tegenstrijdig belang.  
+
+2. Behoudens voorafgaande schriftelijke toestemming van Kredietgever is Kredietnemer niet gerechtigd de rechten en verplichtingen uit hoofde van deze overeenkomst aan derden over te dragen. De rechten en verplichtingen voortvloeiende uit deze overeenkomst zijn één geheel en derhalve ondeelbaar.  
+
+3. De nietigheid van enig beding opgenomen in deze overeenkomst zal niet de nietigheid van de gehele overeenkomst met zich meebrengen.  
+
+4. Op deze overeenkomsten en haar uitvoering is Nederlands recht van toepassing. Alle geschillen die mochten ontstaan naar aanleiding van deze overeenkomst, zullen uitsluitend worden voorgelegd aan de arrondissementsrechtbank te Den Haag.    
+
+### Artikel  14  
+
+####Inwerkingtreding
+
+1. Deze overeenkomst is aangegaan onder de opschortende voorwaarde dat door Kredietnemer is aangetoond dat 
+
+a. hij beschikt over de financiering die overeen komt met de informatie die hij in zijn aanvraag om subsidie heeft verstrekt;  
+
+b. de daartoe gesloten financieringovereenkomst(en) door Kredietnemer aan Kredietgever zijn overlegd en  
+
+c. uit de financieringovereenkomst(en) blijkt dat 
+
+1e de rentevergoeding waarop deze verstrekkers van financiering recht hebben niet hoger is dan de rente bedoeld in artikel 4 of -indien deze hoger is- een marktconforme rente, en  
+
+2e dat Kredietgever op de punten looptijd van de financiering, de eventuele zekerheden en mogelijke preferentie of achterstelling ten opzichte van andere financiering geen groter financieel risico loopt dan de financier of de overige verstrekkers van financiering, ieder voor zich.      
+
+2. Kredietgever bericht Kredietnemer zo spoedig mogelijk na toezending van kopieën van de financieringovereenkomst(en) of nog voorzien dient te worden in aanvullende stukken. Kredietnemer bericht kredietgever zo spoedig mogelijk ten aanzien van de vraag of naar genoegen is aangetoond dat is voldaan aan het eerste lid.  
+
+3. Deze overeenkomst treedt in werking door de schriftelijke bevestiging door Kredietgever bedoeld in het tweede lid, tweede volzin of -indien dat later is- de inwerkingtreding van de laatst inwerking tredende financieringovereenkomst(en) als bedoeld in het eerste lid.  
+
+4. Indien deze overeenkomst ingevolge dit artikel niet uiterlijk [datum] na de datum van de verzending van de subsidiebeschikking in werking is getreden vervalt deze overeenkomst van rechtswege volledig en zonder dat partijen nog iets van elkander te vorderen hebben.   Aldus in tweevoud ondertekend te [plaats] op [datum]  
+
+| --- | --- |
+|---|---|
+| --- | --- |
+| KREDIETNEMER  | --- |
+| --- | --- |
+| Door: [naam]  | --- |
+| [functie]  | --- |
+| --- | --- |
+| --- | Voor gezien:  |
+| KREDIETGEVER  | FINANCIER  |
+| --- | --- |
+| Door:  | Door: [naam]  |
+| De Minister van Economische zaken Landbouw en Innovatie,  | [Functie]  |
+| namens deze  | --- |
+
+### Bijlage  5.3  
+
+Vervallen.   
+
+### Bijlage  5.4  
+
+Vervallen.   
+
+### Bijlage  5.5  
+
+####behorende bij artikel 5.26  van de Subsidieregeling internationaal excelleren
+
+![]()
+![]()
+![]()
+![]()
+![]()
+
+### Bijlage  
+
+![]()
+![]()
 

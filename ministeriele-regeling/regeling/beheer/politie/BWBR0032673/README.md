@@ -71,7 +71,7 @@ d. een hoofd Bedrijfsvoering.
 
 a. de regionale eenheid in het arrondissement Noord-Nederland als: de regionale eenheid Noord-Nederland;.  
 
-b. de regionale eenheid in het arrondissement Oost-Nederland als: de regionale eenheid Oost-Nederland;  
+b. de regionale eenheid in de arrondissementen Overijssel en Gelderland als: de regionale eenheid Oost-Nederland;  
 
 c. de regionale eenheid in het arrondissement Midden-Nederland als: de regionale eenheid Midden-Nederland;  
 
@@ -338,23 +338,26 @@ b. het personeelsbeleid waaronder de meerjarige strategische personeelsplanning,
 c. het ICT-beleid waaronder het beleid op het terrein van het onderhoud en vernieuwing en de informatieorganisatie;  
 
 d. het beleid op het gebied van materieel, waaronder inkoop en huisvesting.     
-2.  De minister stelt het beheersplan vast na goedkeuring van de begroting voor hetzelfde jaar van zijn ministerie door de Staten-Generaal.   
-3.  De korpschef meldt een voorgenomen wijziging van de organisatie of formatie, waarvan de gevolgen nog niet in het beheersplan zijn opgenomen en die wijzigingen in de verdeling van de operationele sterkte tot gevolg zal hebben, zo spoedig mogelijk aan de minister.   
+2.  De minister stelt voor de derde dinsdag van september het ontwerpbeheersplan voor het komende begrotingsjaar op.   
+3.  Het ontwerpbeheersplan wordt als bijlage bij de begroting van het Ministerie van Veiligheid en Justitie aan de Staten-Generaal gezonden.   
+4.  De minister stelt het beheersplan vast na goedkeuring van de begroting voor hetzelfde jaar van zijn ministerie door de Staten-Generaal.   
+5.  De korpschef meldt een voorgenomen wijziging van de organisatie of formatie, waarvan de gevolgen nog niet in het beheersplan zijn opgenomen en die wijzigingen in de verdeling van de operationele sterkte tot gevolg zal hebben, zo spoedig mogelijk aan de minister.   
 
 ### Artikel  22  
 
-1.  De korpschef verstrekt aan de minister een 5-maandsmanagementrapportage over de maanden januari tot en met mei, een 8-maandsmanagementrapportage over de maanden januari tot en met augustus en een 12 maandsmanagementrapportage over de maanden januari tot en met december over de uitvoering van het beheersplan. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 juli, 1 oktober en 1 februari verstrekt aan de minister.   
+1.  De korpschef verstrekt aan de minister een 3-maandsmanagementrapportage over de maanden januari tot en met maart, een 6-maandsmanagementrapportage over de maanden januari tot en met juni, een 9-maandsmanagementrapportage over de maanden januari tot en met september en een 12-maandsmanagementrapportage over de maanden januari tot en met december over de uitvoering van het beheersplan. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 mei, 1 augustus, 1 november en 1 februari verstrekt aan de minister.   
 2.  De in het eerste lid bedoelde rapportages en het jaarverslag bevatten in ieder geval de onderstaande informatie: 
 
 a. de omvang van de operationele sterkte, bedoeld in [artikel 1, onder b, van het Besluit verdeling sterkte en middelen politie](../../../../../AMvB/besluit/verdeling/sterkte/en/middelen/politie/BWBR0032333/README.md), en de niet-operationele sterkte alsmede de verdeling van de operationele en de niet-operationele sterkte over de onderdelen van de politie;  
 
 b. het aantal aspiranten alsmede de verdeling van de aspiranten over de onderdelen van de politie.     
-3.   Dit lid is nog niet in werking getreden.    
-4.  De korpschef toetst in periodieke audits de mate waarin de door hem verwerkte gegevens eenduidig, consistent en volledig zijn.   
+3.  De minister stelt jaarlijks voor 15 mei het jaarverslag over het voorafgaande jaar vast.   
+4.  Het vastgestelde jaarverslag wordt als bijlage bij het jaarverslag van het Ministerie van Veiligheid en Justitie ter informatie aan de Staten-Generaal gezonden.   
+5.  De korpschef toetst in periodieke audits de mate waarin de door hem verwerkte gegevens eenduidig, consistent en volledig zijn.   
 
 ### Artikel  23  
 
-1.   Dit lid is nog niet in werking getreden.    
+1.  De korpschef verstrekt jaarlijks voor 1 februari aan de minister de in de bij deze regeling behorende bijlage 2 genoemde gegevens met betrekking tot het voorafgaande jaar.   
 2.  De korpschef verstrekt jaarlijks voor 1 augustus aan de minister de in onderdeel 1 en onderdeel 1.1 bij deze regeling behorende bijlage 2 genoemde gegevens met betrekking tot het voorafgaande halve jaar.   
 
 ### Hoofdstuk  6  
@@ -386,8 +389,7 @@ c. gevraagd en ongevraagd aan de korpschef advies uit te brengen en inlichtingen
 
 ### Artikel  26  
 
-1.  In afwijking van artikel 20 zendt de minister de korpschef de jaaraanschrijving voor 2014 voor 1 april 2013.   
-2.  Het beheersplan voor 2013 hoeft niet te voldoen aan de eisen, genoemd in artikel 21, eerste lid.   
+In afwijking van artikel 22, het eerste lid, tweede volzin, kan de minister, op voorstel van de korpschef, tot 1 januari 2015 andere data vaststellen voor het verstrekken van de 3-maands-, de 6-maands-, de 9-maands- en de 12-maandsmanagementrapportage over 2014.  
 
 ### Hoofdstuk  8  
 

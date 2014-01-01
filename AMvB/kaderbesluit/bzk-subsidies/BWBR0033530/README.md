@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens Onze Minister voor Wonen en Rijksdienst van 18 januari 2913, nr. 2013-0000031583;
 
-Gelet op de [artikelen 3](../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en [4 van de Kaderwet overige BZK-subsidies](../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md);
+Gelet op de artikelen 3 en 4 van de Kaderwet overige BZK-subsidies;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 13 maart 2013, nr. W04.13.0018/I);
 
@@ -28,7 +28,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Commissie van de Europese Gemeenschappen, gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (VWEU) heeft vastgesteld;  
 
-– *wet:*[Kaderwet overige BZK-subsidies](../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md).    
+– *wet:*Kaderwet overige BZK-subsidies.    
 
 ### Hoofdstuk  2  
 
@@ -36,12 +36,12 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Subsidies die worden verstrekt krachtens een ministeriële regeling op de gebieden, genoemd in [artikel 2 van de wet](../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md), worden verstrekt volgens de regels van dit besluit.   
+1.  Subsidies die worden verstrekt krachtens een ministeriële regeling op de gebieden, genoemd in artikel 2 van de wet, worden verstrekt volgens de regels van dit besluit.   
 2.  Artikel 25 van dit besluit is tevens van toepassing op subsidieverstrekking door Onze Minister die niet op een wettelijk voorschrift berust.   
 
 ### Artikel  3  
 
-Geen subsidie wordt verstrekt aan een provincie, gemeente, waterschap of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), tenzij bij ministeriële regeling is bepaald dat daaraan wel subsidie wordt verstrekt.  
+Geen subsidie wordt verstrekt aan een provincie, gemeente, waterschap of openbaar lichaam als bedoeld in de Wet gemeenschappelijke regelingen, tenzij bij ministeriële regeling is bepaald dat daaraan wel subsidie wordt verstrekt.  
 
 ### Hoofdstuk  3  
 
@@ -107,7 +107,7 @@ c. verdeling van het subsidieplafond op volgorde van rangschikking van de aanvra
 
 ### Artikel  9  
 
-1.  Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst van de aanvragen verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.   
+1.  Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst van de aanvragen verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.   
 2.  Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst en Onze Minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.   
 3.  Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst en het subsidieplafond is bereikt, doet Onze Minister daarvan onverwijld mededeling in de Staatscourant.   
 
@@ -137,7 +137,7 @@ e. indien voorschotten worden aangevraagd, een weergave van de liquiditeitsbehoe
 
 f. het bankrekeningnummer waarop het subsidiebedrag dient te worden gestort, inclusief een bewijs dat de bankrekening op naam van de aanvrager staat;  
 
-g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en Fabrieken.     
+g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel.     
 
 ### Hoofdstuk  7  
 
@@ -252,7 +252,7 @@ i. op verzoek van Onze Minister nadere informatie aan te leveren ten behoeve van
 1.  Een beschikking tot subsidieverlening wordt gegeven binnen dertien weken na ontvangst van de aanvraag of, indien sprake is van een subsidieplafond en de verdeling plaatsvindt in volgorde van rangschikking of evenredige verdeling, binnen dertien weken na afloop van de periode waarbinnen aanvragen kunnen worden ingediend. Indien sprake is van cofinanciering, over de aanvraag advies wordt ingewonnen of een nader onderzoek is ingesteld dan geldt een termijn van 22 weken.   
 2.  Een beschikking tot subsidievaststelling als bedoeld in artikel 16, tweede lid, onderdeel a, wordt gegeven binnen dertien weken na ontvangst van de aanvraag van de subsidie.   
 3.  Een ambtshalve beschikking tot subsidievaststelling als bedoeld in artikel 16, tweede lid, onderdeel b, wordt gegeven binnen 22 weken na de in de verleningsbeschikking opgenomen datum waarop de activiteiten waarvoor de subsidie wordt verleend moeten zijn verricht.   
-4.  Een aanvraag van een beschikking tot subsidievaststelling vindt plaats binnen dertien weken na het verricht zijn van de activiteiten waarvoor de subsidie is verleend. Bij ministeriële regeling of bij de beschikking tot subsidieverlening kan een andere termijn worden bepaald. Als sprake is van een subsidie waarbij verantwoord wordt volgens het principe van Single information Single audit als bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vindt vaststelling plaatst op basis van die verantwoording.   
+4.  Een aanvraag van een beschikking tot subsidievaststelling vindt plaats binnen dertien weken na het verricht zijn van de activiteiten waarvoor de subsidie is verleend. Bij ministeriële regeling of bij de beschikking tot subsidieverlening kan een andere termijn worden bepaald. Als sprake is van een subsidie waarbij verantwoord wordt volgens het principe van Single information Single audit als bedoeld in artikel 17a van de Financiële-verhoudingswet, vindt vaststelling plaatst op basis van die verantwoording.   
 5.  Een beschikking tot subsidievaststelling wordt gegeven binnen 22 weken na ontvangst van de aanvraag daarvan.   
 
 ### Hoofdstuk  11  
@@ -289,9 +289,9 @@ b. indien het een subsidie als bedoeld in artikel 18 betreft, een controleverkla
 
 1.  Onze Minister houdt ter voorkoming van misbruik en oneigenlijk gebruik van subsidie een registratie bij waarin wordt vastgelegd: 
 
-a. het opleggen van een boete aan een subsidieontvanger op grond van de [Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies](../../../../wet/wet/bestuurlijke/boete/meldingsplichten/door/ministers/verstrekte/etc/BWBR0032155/README.md);  
+a. het opleggen van een boete aan een subsidieontvanger op grond van de Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies;  
 
-b. het lager vaststellen van de subsidie op grond van [artikel 4:46, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het intrekken of ten nadele van de subsidieontvanger wijzigen van de subsidieverlening op grond van [artikel 4:48 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het intrekken of ten nadele van de subsidieontvanger wijzigen van de subsidievaststelling op grond van [artikel 4:49 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), indien de subsidieontvanger een verwijt kan worden gemaakt van de lagere vaststelling, intrekking of wijziging als hiervoor bedoeld;  
+b. het lager vaststellen van de subsidie op grond van artikel 4:46, tweede lid, van de Algemene wet bestuursrecht, het intrekken of ten nadele van de subsidieontvanger wijzigen van de subsidieverlening op grond van artikel 4:48 van de Algemene wet bestuursrecht en het intrekken of ten nadele van de subsidieontvanger wijzigen van de subsidievaststelling op grond van artikel 4:49 van de Algemene wet bestuursrecht, indien de subsidieontvanger een verwijt kan worden gemaakt van de lagere vaststelling, intrekking of wijziging als hiervoor bedoeld;  
 
 c. de aard van de gedragingen die tot de maatregelen bedoeld in de onderdelen a en b hebben geleid en, in geval van maatregelen als bedoeld in onderdeel b, het subsidiebedrag dat daarmee is gemoeid;  
 
@@ -306,7 +306,7 @@ d. de naam- en adresgegevens van de subsidieontvanger jegens wie maatregelen bed
 
 ### Artikel  26  
 
-Het [Subsidiebesluit experimenten en kennisoverdracht wonen](../../../../AMvB/subsidiebesluit/experimenten/en/kennisoverdracht/wonen/BWBR0020333/README.md) wordt ingetrokken.  
+Het Subsidiebesluit experimenten en kennisoverdracht wonen wordt ingetrokken.  
 
 ### Artikel  27  
 

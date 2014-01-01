@@ -25,7 +25,7 @@ b. loods:
 
 1°. registerloods;  
 
-2°. degene die voldoet aan de eisen met betrekking tot de vakbekwaamheid en geschiktheid vastgesteld krachtens artikel 5, eerste lid;    
+2°. degene die voldoet aan de eisen met betrekking tot opleiding, kundigheid, ervaring en geschiktheid, bedoeld in artikel 5, eerste lid;    
 
 c. corporatie: de Nederlandse loodsencorporatie, bedoeld in artikel 6, eerste lid;  
 
@@ -39,9 +39,9 @@ g. loodsplichtige scheepvaartwegen: de scheepvaartwegen waarop krachtens wetteli
 
 h. verwerken van persoonsgegevens, onderscheidenlijk verantwoordelijke: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-i. Nederlandse Mededingingsautoriteit: Nederlandse Mededingingsautoriteit, genoemd in [artikel 2, eerste lid, van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md);  
+i. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
-j. raad van bestuur: raad van bestuur van de Nederlandse Mededingingsautoriteit;  
+j.  vervallen;   
 
 k. arbeidsvergoeding: arbeidsvergoeding voor registerloodsen, bestaande uit de uurtarieven voor de directe loodsuren, vermeerderd met een opslag voor de indirecte uren, bestaande uit indirecte taken, reisuren, wachturen en beschikbaarheidsuren, gedifferentieerd naar scheepsklassen.     
 2.  De begrippen in deze wet en de daarop berustende bepalingen hebben, tenzij anders is bepaald, dezelfde betekenis als in de [Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md).   
@@ -70,13 +70,13 @@ De loods is, voor zover hij handelt in de uitoefening van de in artikel 2 genoem
 
 ### Artikel  4  
 
-1.  Bij of krachtens verordening worden regels gesteld met betrekking tot de bevoegdheid van de registerloods ten aanzien van loodsplichtige scheepvaartwegen en categorieën van schepen. Deze verordening en de krachtens die verordening te geven regels behoeven de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met de belangen, genoemd in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md).   
+1.  Bij of krachtens verordening worden regels gesteld met betrekking tot de bevoegdheid van de registerloods ten aanzien van loodsplichtige scheepvaartwegen en categorieën van schepen en met betrekking tot het op peil houden van de in verband met het uitoefenen van het beroep van registerloods benodigde kennis en vaardigheden. Deze verordening en de krachtens die verordening te geven regels behoeven de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met de belangen, genoemd in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md).   
 2.  Het is degene die geen daartoe bevoegd registerloods is, verboden diensten als loods aan te bieden dan wel te verlenen aan: 
 
 a. zeeschepen op loodsplichtige scheepvaartwegen; en  
 
 b. schepen die anderszins ingevolge een wettelijke regeling verplicht zijn gebruik te maken van de diensten van een loods.     
-3.  Het verbod, genoemd in het tweede lid, geldt niet met betrekking tot schepen voor de vaart op loodsplichtige scheepvaartwegen, aangewezen krachtens [artikel 11, onderdeel *b*, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), voor zover die schepen op binnenwateren varen.   
+3.  Het verbod, genoemd in het tweede lid, geldt niet met betrekking tot schepen voor de vaart op loodsplichtige scheepvaartwegen, aangewezen krachtens [artikel 11, onderdeel b, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), voor zover die schepen op binnenwateren varen.   
 4.  Het verbod, genoemd in het tweede lid, geldt niet voor de tot de Belgische loodsdienst behorende loods die krachtens het Scheldereglement als zodanig optreedt en de tot de Duitse loodsdienst behorende loods die krachtens het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (*Trb.* 1960, 69) als zodanig optreedt.   
 
 ### §  3  
@@ -85,10 +85,10 @@ b. schepen die anderszins ingevolge een wettelijke regeling verplicht zijn gebru
 
 ### Artikel  5  
 
-1.  Onverminderd het in artikel 4 bepaalde kunnen bij of krachtens algemene maatregel van bestuur eisen worden gesteld met betrekking tot de vakbekwaamheid en geschiktheid voor het loodsen van schepen op bij algemene maatregel van bestuur aan te wijzen wateren.   
-2.  Degene die heeft aangetoond, te voldoen aan de eisen als bedoeld in het eerste lid, ontvangt daarvan een verklaring volgens een door Onze Minister vast te stellen model. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur wordt bepaald in welke gevallen de verklaring kan worden ingetrokken.   
-3.  Voor de afgifte van een verklaring als bedoeld in het tweede lid en de deelname aan de daarvoor vereiste examens is een vergoeding verschuldigd volgens een door Onze Minister vast te stellen tarief.   
-4.  Ter uitvoering van de in het eerste lid bedoelde eisen worden persoonsgegevens verwerkt betreffende de gezondheid. De verwerking van deze gegevens strekt ertoe te kunnen beoordelen of de geschiktheid voor het loodsen van schepen aanwezig is of niet meer aanwezig is. Onze Minister, onderscheidenlijk de bij of krachtens algemene maatregel van bestuur in te stellen examencommissies, zijn verantwoordelijke voor deze verwerkingen.   
+1.  Onverminderd artikel 4, worden bij of krachtens algemene maatregel van bestuur eisen gesteld met betrekking tot de opleiding, kundigheid, ervaring en geschiktheid voor het loodsen van schepen op bij algemene maatregel van bestuur aan te wijzen wateren en ten aanzien van het in verband met de beroepsuitoefening af te geven document.   
+2.  De kosten verbonden aan en de kosten die samenhangen met de bij of krachtens het eerste lid, gestelde eisen, kunnen ten laste worden gebracht van de aanvrager van het in die maatregel genoemde examen of document.   
+3.  De bedragen ter vergoeding van de kosten, bedoeld in het tweede lid, worden bij ministeriële regeling vastgesteld.   
+4.  Ter uitvoering van de in het eerste lid bedoelde eisen worden persoonsgegevens verwerkt betreffende de gezondheid. De verwerking van deze gegevens strekt ertoe te kunnen beoordelen of de geschiktheid voor het loodsen van schepen aanwezig is of niet meer aanwezig is. Onze Minister is verantwoordelijk voor deze verwerking.   
 
 ### Hoofdstuk  III  
 
@@ -119,9 +119,9 @@ De voorzitter vertegenwoordigt de corporatie in en buiten rechte.
 
 a. met betrekking tot het beroep van registerloods: 
 
-1°. het verzorgen van de algemene opleiding tot registerloods;  
+1°. het verzorgen van de opleiding tot registerloods en het afnemen van de examens;  
 
-2°. het verzorgen van de algemene opleiding tot het beroep van registerloods van degene die daartoe op grond van de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in aanmerking komt, voor zover dit betreft het gedeelte van de opleiding dat betrokkene dient te volgen nadat hij heeft aangetoond te voldoen aan de eisen voor toelating als adspirant-registerloods, zoals vastgesteld krachtens artikel 19, eerste lid, onderdeel a;  
+2°. het verzorgen van de opleiding tot registerloods van degene die daartoe op grond van de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in aanmerking komt, voor zover dit betreft het gedeelte van de opleiding dat betrokkene dient te volgen nadat hij heeft aangetoond te voldoen aan de eisen van geschiktheid, zoals vastgesteld krachtens het tweede lid;  
 
 3°. het bevorderen van een behoorlijke beroepsuitoefening;  
 
@@ -130,8 +130,10 @@ a. met betrekking tot het beroep van registerloods:
 5°. het geven van voorlichting over onderwerpen die voor de registerloods van belang zijn; en    
 
 b. het geven van advies aan Onze Minister inzake de uitvoering van deze wet, hetzij op verzoek van Onze Minister hetzij uit eigen beweging.     
-2.  De taken genoemd in het eerste lid, onderdeel a, 2° en 4°, worden uitsluitend verricht voor zover deze betrekking hebben op registerloodsen in meer dan één regio.   
-3.  Voor de deelname aan een van de opleidingen, bedoeld in het eerste lid, onderdeel a, 2°, is een vergoeding verschuldigd voor de kosten aan de algemene raad, volgens een bij besluit van de raad van bestuur overeenkomstig het bepaalde bij en krachtens hoofdstuk VIA vast te stellen tarief.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de opleiding, kundigheid, ervaring en geschiktheid die worden gevorderd bij de toelating tot de opleiding en bij de examens, bedoeld in het eerste lid, onderdeel a, onder 1°, en worden regels gesteld omtrent de wijze van examinering.   
+3.  Ten behoeve van de uitvoering van het eerste lid, onderdeel a, onder 1° en 2°, en tweede lid, worden persoonsgegevens verwerkt betreffende de gezondheid. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of de geschiktheid voor het uitoefenen van het beroep van registerloods aanwezig is.   
+4.  De taken genoemd in het eerste lid, onderdeel a, onder 3° en 5°, worden uitsluitend verricht voor zover deze betrekking hebben op registerloodsen in meer dan één regio.   
+5.  Voor de deelname aan een van de opleidingen, bedoeld in het eerste lid, onderdeel a, 2°, is een vergoeding verschuldigd voor de kosten aan de algemene raad, volgens een bij besluit van de Autoriteit Consument en Markt overeenkomstig het bepaalde bij en krachtens hoofdstuk VIA vast te stellen tarief.   
 
 ### §  2  
 
@@ -174,21 +176,16 @@ b. en ten minste twee en ten hoogste zes leden voor regionale corporaties die me
 
 a. met betrekking tot het beroep van registerloods: 
 
-1°. er voor zorg te dragen dat de regionale corporatie leerovereenkomsten met adspirant-registerloodsen aangaat;  
+1°. er voor zorg te dragen dat er steeds voldoende personen worden opgeleid;  
 
-2°. het verzorgen van de lokale opleiding en de stage van adspirant-registerloodsen;  
+2°. het bevorderen van een behoorlijke beroepsuitoefening;  
 
-3°. het verzorgen van de lokale opleiding van degene die een van de algemene opleidingen, bedoeld in artikel 9, eerste lid, onderdeel a, 2°, met goed gevolg heeft afgesloten;  
+3°. het geven van voorlichting over onderwerpen die voor de registerloods van belang zijn;    
 
-4°. het bevorderen van een behoorlijke beroepsuitoefening;  
-
-5°. het geven van voorlichting over onderwerpen die voor de registerloods van belang zijn; en    
-
-b. het verzorgen van een opleiding en het afnemen van examens ter uitvoering van de krachtens [artikel 10, tweede lid, onderdeel b, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) gestelde regels; en  
+b. het verzorgen van een opleiding en het leveren van een aandeel bij het afnemen van examens ter uitvoering van de krachtens [artikel 10, tweede lid, onderdeel b, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) gestelde regels; en  
 
 c. het voorbereiden van ledenvergaderingen.     
-2.  De taken genoemd in het eerste lid, onderdeel a, 3° en 4°, worden uitsluitend verricht voor zover daarin niet is voorzien krachtens artikel 9, eerste lid, onderdeel a, 2° of 4°.   
-3.  Voor de deelname aan de opleiding, bedoeld in het eerste lid, onderdeel a, 3°, is een vergoeding verschuldigd aan het bestuur van de regionale corporatie, volgens een bij besluit van de raad van bestuur overeenkomstig het bepaalde bij en krachtens hoofdstuk VIA vast te stellen tarief.   
+2.  De taken, genoemd in het eerste lid, onderdeel a, onder 2° en 3°, worden uitsluitend verricht voor zover daarin niet is voorzien krachtens artikel 9, eerste lid, onderdeel a, onder 3° of 5°.   
 
 ### §  3  
 
@@ -212,7 +209,7 @@ c. voor de algemene raad en voor het bestuur van een regionale corporatie: door 
 
 ### Artikel  15  
 
-1.  De ledenvergadering van de corporatie stelt de verordeningen, bedoeld in de artikelen 4, eerste lid, 19, tweede lid, en 26, eerste lid, vast, alsmede andere verordeningen, waaronder die in het belang van: 
+1.  De ledenvergadering van de corporatie stelt de verordeningen, bedoeld in deze wet en de daarop berustende bepalingen, vast, alsmede andere verordeningen, waaronder die in het belang van: 
 
 a. een goede beroepsuitoefening;  
 
@@ -238,7 +235,7 @@ d. een doeltreffend verloop van de ledenvergaderingen van de corporatie.
 
 ### Artikel  17  
 
-1.  De verordeningen zijn slechts verbindend voor de leden, de corporatie, de algemene raad, de regionale corporaties en hun besturen.   
+1.  De verordeningen zijn slechts verbindend voor de leden, de corporatie, de algemene raad, de regionale corporaties en hun besturen alsmede, voor zover zij betrekking hebben op personen die worden opgeleid voor het beroep van registerloods, voor deze personen.   
 2.  Bepalingen gesteld bij of krachtens een verordening die strijdig zijn met het bepaalde bij of krachtens de wet zijn onverbindend.   
 
 ### Artikel  18  
@@ -250,20 +247,7 @@ d. een doeltreffend verloop van de ledenvergaderingen van de corporatie.
 
 ####Adspirant-registerloodsen
 
-### Artikel  19  
-
-1.  Adspirant-registerloods is degene: 
-
-a. die voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen eisen ten aanzien van leeftijd, opleiding, ervaring en lichamelijke en geestelijke geschiktheid; en  
-
-b. met wie een leerovereenkomst als adspirant-registerloods is aangegaan door een regionale corporatie.     
-2.  De inhoud van de leerovereenkomst, bedoeld in het eerste lid, onderdeel *b*, wordt vastgesteld bij verordening.   
-3.  Ter uitvoering van de in het eerste lid, onderdeel a, bedoelde eisen worden persoonsgegevens verwerkt betreffende de gezondheid. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of wordt voldaan aan de vereisten van lichamelijke en geestelijke geschiktheid, nodig voor het aangaan van een leerovereenkomst. De regionale loodsencorporatie die de leerovereenkomst aangaat is verantwoordelijke voor deze verwerking.   
-
-### Artikel  20  
-
-1.  Na afloop van de algemene opleiding tot registerloods als bedoeld in artikel 9, eerste lid, onderdeel *a*, 1°, en na afloop van de lokale opleiding en stage als bedoeld in artikel 13, eerste lid, onderdeel *a,* 2°, vindt een examen plaats.   
-2.  De inhoud van de examens, het toezicht daarop door gecommitteerden die daartoe door Onze Minister zijn aangewezen en al het overige betreffende de examens wordt vastgesteld bij of krachtens algemene maatregel van bestuur.   
+Vervallen per 01-01-2014   
 
 ### Hoofdstuk  V  
 
@@ -272,15 +256,15 @@ b. met wie een leerovereenkomst als adspirant-registerloods is aangegaan door ee
 ### Artikel  21  
 
 1.  Er is een openbaar loodsenregister. Ten behoeve van dit register worden persoonsgegevens verwerkt met betrekking tot ingeschreven registerloodsen. De verwerking van deze gegevens vindt plaats ten behoeve van de waarborging van de kwaliteit, de continuïteit en de rechtszekerheid van de loodsdienstverlening, alsmede van de uitvoering van de bij of krachtens deze wet vastgestelde regels. De algemene raad is verantwoordelijke voor deze verwerking.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inrichting van het register, de wijze van inschrijving en van doorhaling en het geven van afschriften uit het register.   
-3.  De tarieven voor de kosten van het verstrekken van afschriften uit het register worden vastgesteld bij besluit van de raad van bestuur, overeenkomstig het bepaalde bij en krachtens hoofdstuk VIA.   
+2.  Bij verordening worden regels gesteld over de inrichting van het register, de wijze van inschrijving en van doorhaling en het geven van afschriften uit het register.   
+3.  De tarieven voor de kosten van het verstrekken van afschriften uit het register worden vastgesteld bij besluit van de Autoriteit Consument en Markt, overeenkomstig het bepaalde bij en krachtens hoofdstuk VIA.   
 4.  In het register wordt degene die voldoet aan artikel 22, eerste lid, op zijn aanvraag ingeschreven als registerloods. Bij een inschrijving worden in het register vermeld de naam, voornamen, geboortedatum, geboorteplaats en woonplaats van de aanvrager, alsmede de loodsplichtige scheepvaartwegen en de categorieën van schepen waarvoor hij bevoegd is en tot welke regionale corporatie hij behoort.   
 5.  Indien een registerloods in meer dan een regio bevoegd is, bepaalt de algemene raad, gehoord de besturen van de betreffende regionale corporaties en de betrokken registerloods, ten aanzien van welke regionale corporatie de inschrijving zal plaatsvinden.   
 6.  De algemene raad is belast met het beheer van het register.   
 
 ### Artikel  22  
 
-1.  Degene die met goed gevolg de examens, bedoeld in artikel 20, eerste lid, heeft afgelegd, of beschikt over een ten aanzien van het beroep van registerloods verleende erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) " wordt op zijn aanvraag in het register ingeschreven, indien hij: 
+1.  Degene die met goed gevolg de examens, bedoeld in artikel 9, heeft afgelegd, of beschikt over een ten aanzien van het beroep van registerloods verleende erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) " wordt op zijn aanvraag in het register ingeschreven, indien hij: 
 
 a. beschikt over de geneeskundige verklaringen, bedoeld in artikel 24, eerste lid, onderdeel e, en  
 
@@ -311,15 +295,14 @@ d. bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a,
 
 e. indien de ingeschrevene niet beschikt over geldige geneeskundige verklaringen volgens de bij of krachtens algemene maatregel van bestuur te geven regels;  
 
-f. indien de ingeschrevene gedurende een termijn van vierentwintig maanden niet ten minste een bij of krachtens algemene maatregel van bestuur vast te stellen aantal malen zijn beroep feitelijk heeft uitgeoefend of die uitoefening niet volgens de bij of krachtens die maatregel te geven regels heeft aangetoond;  
+f. indien de ingeschrevene gedurende een bij verordening te bepalen termijn niet ten minste een bij in die verordening te bepalen aantal malen zijn beroep feitelijk aantoonbaar heeft uitgeoefend;  
 
 g. gedurende de termijn waarvoor de bevoegdheid ingevolge rechterlijke uitspraak of als maatregel is geschorst; of  
 
 h. indien de reden voor weigering van de inschrijving eerst na de inschrijving is gebleken.     
 2.  Bij doorhaling is artikel 23, tweede lid, van overeenkomstige toepassing.   
 3.  Doorhaling van de inschrijving brengt mee verlies van de betrekkingen waarbij de hoedanigheid van lid van de corporatie of van de regionale corporatie, ingevolge het bij of krachtens deze wet bepaalde, vereiste voor benoembaarheid of verkiesbaarheid is.   
-4.  Van de bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, onderdeel *f*, vastgestelde regels kan Onze Minister, in de bij die maatregel aan te geven gevallen, ontheffing verlenen. Ontheffingen kunnen onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.   
-5.  Bij een doorhaling krachtens het gestelde in het eerste lid, onderdeel *g*, eindigt de doorhaling van rechtswege na het verstrijken van de in dat onderdeel bedoelde termijn.   
+4.  Bij een doorhaling krachtens het gestelde in het eerste lid, onderdeel *g*, eindigt de doorhaling van rechtswege na het verstrijken van de in dat onderdeel bedoelde termijn.   
 
 ### Artikel  25  
 
@@ -378,9 +361,9 @@ a. de wijze waarop de kosten van de diensten en taken, bedoeld in artikel 27a, i
 
 b. de wijze waarop en de frequentie waarmee reserveringen ten behoeve van de financiering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a, worden gedaan.     
 3.  Het toerekeningssysteem wordt opgesteld met inachtneming van het bepaalde bij en krachtens [artikel 15ba, derde lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md).   
-4.  Het toerekeningssysteem behoeft de instemming van de raad van bestuur. [Afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing op de instemming.   
-5.  Voorafgaand aan de vaststelling van het toerekeningssysteem stelt de algemene raad vertegenwoordigers van bij ministeriële regeling aan te wijzen openbare lichamen, betrokken bij het bestuur van een of meer zeehavens en representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf in staat hun zienswijze over een ontwerp voor een toerekeningssysteem naar voren te brengen. De ledenvergadering stelt de raad van bestuur in kennis van de door hem ontvangen zienswijze. De ledenvergadering motiveert zijn overwegingen omtrent de ingebrachte zienswijzen.   
-6.  De raad van bestuur kan de ledenvergadering opdragen een vastgesteld toerekeningssysteem te wijzigen. De ledenvergadering is verplicht aan een opdracht gevolg te geven. Het derde, vierde en vijfde lid zijn van toepassing.   
+4.  Het toerekeningssysteem behoeft de instemming van de Autoriteit Consument en Markt. [Afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing op de instemming.   
+5.  Voorafgaand aan de vaststelling van het toerekeningssysteem stelt de algemene raad vertegenwoordigers van bij ministeriële regeling aan te wijzen openbare lichamen, betrokken bij het bestuur van een of meer zeehavens en representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf in staat hun zienswijze over een ontwerp voor een toerekeningssysteem naar voren te brengen. De ledenvergadering stelt de Autoriteit Consument en Markt in kennis van de door hem ontvangen zienswijze. De ledenvergadering motiveert zijn overwegingen omtrent de ingebrachte zienswijzen.   
+6.  De Autoriteit Consument en Markt kan de ledenvergadering opdragen een vastgesteld toerekeningssysteem te wijzigen. De ledenvergadering is verplicht aan een opdracht gevolg te geven. Het derde, vierde en vijfde lid zijn van toepassing.   
 7.  Onverminderd het zesde lid, wordt het toerekeningssysteem uiterlijk vijf jaar na de datum van inwerkingtreding herzien.   
 
 ### §  3  
@@ -389,7 +372,7 @@ b. de wijze waarop en de frequentie waarmee reserveringen ten behoeve van de fin
 
 ### Artikel  27c  
 
-1.  De algemene raad doet de raad van bestuur een voorstel voor de tarieven en vergoedingen voor de diensten en taken, bedoeld in artikel 27a.   
+1.  De algemene raad doet de Autoriteit Consument en Markt een voorstel voor de tarieven en vergoedingen voor de diensten en taken, bedoeld in artikel 27a.   
 2.  Een voorstel als bedoeld in het eerste lid wordt opgesteld met inachtneming van het uitgangspunt dat elk afzonderlijk tarief redelijk en non-discriminatoir is.   
 3.  Een voorstel als bedoeld in het eerste lid met betrekking tot de loodsgeldtarieven wordt opgesteld met inachtneming van de volgende uitgangspunten: 
 
@@ -427,15 +410,15 @@ j. een onderbouwing van de ramingen, bedoeld onder a tot en met g.
 
 ### Artikel  27d  
 
-1.  Bij algemene maatregel van bestuur worden in het belang van de vaststelling van kostengeoriënteerde loodsgeldtarieven zeehavengebieden aangewezen, worden nadere regels gesteld met betrekking tot de redelijkheid, bedoeld in artikel 27c, tweede lid, de kostenoriëntatie, bedoeld in artikel 27c, derde lid, onder a, en kunnen overige maatstaven voor de structuur van deze tarieven worden geregeld. Bij deze maatregel kunnen taken en bevoegdheden aan de raad van bestuur worden opgedragen.   
+1.  Bij algemene maatregel van bestuur worden in het belang van de vaststelling van kostengeoriënteerde loodsgeldtarieven zeehavengebieden aangewezen, worden nadere regels gesteld met betrekking tot de redelijkheid, bedoeld in artikel 27c, tweede lid, de kostenoriëntatie, bedoeld in artikel 27c, derde lid, onder a, en kunnen overige maatstaven voor de structuur van deze tarieven worden geregeld. Bij deze maatregel kunnen taken en bevoegdheden aan de Autoriteit Consument en Markt worden opgedragen.   
 2.  Bij algemene maatregel van bestuur wordt een jaarlijkse indexering van de uurtarieven van de arbeidsvergoeding vastgesteld.   
 3.  Bij ministeriële regeling wordt een bij de vaststelling van de loodsgeldtarieven in acht te nemen correctiefactor vastgesteld in verband met bestaande onevenwichtigheden in de mate van kostendekkendheid van de loodsgeldtarieven in de verschillende zeehavengebieden.   
 4.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de samenstelling van de regionale overlegcommissies, bedoeld in artikel 27c, vierde lid.   
 
 ### Artikel  27e  
 
-1.  De raad van bestuur stelt bij besluit een schema vast voor de stortingen ten behoeve van de financiering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a.   
-2.  De raad van bestuur kan bij besluit een bij de vaststelling van de loodsgeldtarieven in acht te nemen correctiefactor vaststellen in verband met de evenwichtige wijze van financiering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a. Voorafgaand aan het nemen van het besluit wint de raad van bestuur het advies in van een actuaris.   
+1.  De Autoriteit Consument en Markt stelt bij besluit een schema vast voor de stortingen ten behoeve van de financiering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a.   
+2.  De Autoriteit Consument en Markt kan bij besluit een bij de vaststelling van de loodsgeldtarieven in acht te nemen correctiefactor vaststellen in verband met de evenwichtige wijze van financiering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a. Voorafgaand aan het nemen van het besluit wint de Autoriteit Consument en Markt het advies in van een actuaris.   
 3.  Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt door plaatsing in de Staatscourant.   
 
 ### §  5  
@@ -444,27 +427,27 @@ j. een onderbouwing van de ramingen, bedoeld onder a tot en met g.
 
 ### Artikel  27f  
 
-1.  De raad van bestuur stelt voor elk kalenderjaar bij besluit de loodsgeldtarieven vast.   
-2.  De raad van bestuur stelt bij besluit de tarieven en vergoedingen voor de overige diensten en taken, bedoeld in artikel 27a, vast.   
+1.  De Autoriteit Consument en Markt stelt voor elk kalenderjaar bij besluit de loodsgeldtarieven vast.   
+2.  De Autoriteit Consument en Markt stelt bij besluit de tarieven en vergoedingen voor de overige diensten en taken, bedoeld in artikel 27a, vast.   
 3.  De loodsgeldtarieven en de andere tarieven en vergoedingen kunnen per zeehavengebied en per verrichting verschillen.   
 4.  Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt door plaatsing in de Staatscourant.   
 
 ### Artikel  27g  
 
-1.  De raad van bestuur stelt een besluit als bedoeld in artikel 27f, eerste en tweede lid, vast in afwijking van het desbetreffende voorstel, indien het voorstel naar het oordeel van de raad van bestuur: 
+1.  De Autoriteit Consument en Markt stelt een besluit als bedoeld in artikel 27f, eerste en tweede lid, vast in afwijking van het desbetreffende voorstel, indien het voorstel naar het oordeel van de Autoriteit Consument en Markt: 
 
 a. niet voldoet aan de bij of krachtens de artikelen 27c tot en met 27e gestelde eisen;  
 
 b. in onvoldoende mate bijdraagt aan het bereiken van de meest efficiënte werkwijze van registerloodsen en de productiviteit en kwaliteit van de loodsdienstverlening, of,  
 
 c. niet is gebaseerd op een redelijk rendement op investeringen.     
-2.  De raad van bestuur kan, ambtshalve of op verzoek van de algemene raad, bij de vaststelling van de tarieven en vergoedingen correcties aanbrengen in verband met bijzondere omstandigheden.   
+2.  De Autoriteit Consument en Markt kan, ambtshalve of op verzoek van de algemene raad, bij de vaststelling van de tarieven en vergoedingen correcties aanbrengen in verband met bijzondere omstandigheden.   
 
 ### Artikel  27h  
 
-1.  De raad van bestuur kan, onverminderd het bepaalde bij of krachtens de artikelen 2, derde lid, 4, eerste lid, 15, eerste lid, 19, tweede lid, 20, tweede lid, 24, eerste lid, onder d, en 26, eerste lid, van deze wet en [artikel 12 van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), voorwaarden vaststellen waaronder registerloodsen de diensten verlenen die zij bij of krachtens de wet bij uitsluiting verrichten.   
+1.  De Autoriteit Consument en Markt kan, onverminderd het bepaalde bij of krachtens de artikelen 2, derde lid, 4, eerste lid, 9, tweede lid, 15 eerste lid, 24, eerste lid, onder d, en 26, eerste lid, van deze wet en [artikel 12 van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), voorwaarden vaststellen waaronder registerloodsen de diensten verlenen die zij bij of krachtens de wet bij uitsluiting verrichten.   
 2.  De voorwaarden hebben slechts betrekking op de kwaliteit van de dienstverlening en zijn non-discriminatoir.   
-3.  Voorafgaand aan de vaststelling van deze voorwaarden nodigt de raad van bestuur de algemene raad uit hem een voorstel daarvoor te doen. Artikel 27c, vierde lid, is van overeenkomstige toepassing.   
+3.  Voorafgaand aan de vaststelling van deze voorwaarden nodigt de Autoriteit Consument en Markt de algemene raad uit haar een voorstel daarvoor te doen. Artikel 27c, vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  27i  
 
@@ -495,14 +478,14 @@ g. een toelichting op de stukken, bedoeld onder a tot en met f;
 
 h. een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393 van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
 2.  De algemene raad draagt jaarlijks voor 1 mei zorg voor een verantwoording over het gerealiseerde kwaliteitsniveau van de diensten en taken, bedoeld in artikel 27a, over het voorafgaande kalenderjaar. Voorafgaand aan de vaststelling van de verantwoording vraagt de algemene raad een zienswijze van de bij ministeriële regeling aan te wijzen openbare lichamen, betrokken bij het bestuur van een of meer zeehavens, bestuursorganen belast met het nautisch beheer van een of meer zeehavens en representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf. De ontvangen zienswijzen worden bij de verantwoording gevoegd. De algemene raad motiveert in de verantwoording zijn overwegingen omtrent de ingebrachte zienswijzen.   
-3.  De algemene raad zendt de verantwoordingen, bedoeld in het eerste en tweede lid, vergezeld van de ontvangen zienswijzen, gelijktijdig aan de raad van bestuur.   
+3.  De algemene raad zendt de verantwoordingen, bedoeld in het eerste en tweede lid, vergezeld van de ontvangen zienswijzen, gelijktijdig aan de Autoriteit Consument en Markt.   
 
 ### Artikel  27k  
 
 1.  De algemene raad voert in het belang van de bevordering van de meest efficiënte werkwijze van registerloodsen en de heffing van redelijke, non-discriminatoire en kostengeoriënteerde tarieven eens per twee jaar een vergelijkend onderzoek uit naar de hoogte van de loodsgeldtarieven, de methode van kostentoerekening, het gerealiseerde kwaliteitsniveau en de productiviteitsontwikkeling.   
-2.  Het vergelijkend onderzoek heeft in elk geval betrekking op de loodsgeldtarieven die geheven worden in Nederland, Vlaanderen en de Bondsrepubliek Duitsland. De raad van bestuur kan andere landen of havengebieden aanwijzen die in het onderzoek moeten worden betrokken.   
+2.  Het vergelijkend onderzoek heeft in elk geval betrekking op de loodsgeldtarieven die geheven worden in Nederland, Vlaanderen en de Bondsrepubliek Duitsland. De Autoriteit Consument en Markt kan andere landen of havengebieden aanwijzen die in het onderzoek moeten worden betrokken.   
 3.  Het onderzoeksverslag bevat een toelichting op de geconstateerde verschillen.   
-4.  Het onderzoeksverslag wordt aan de raad van bestuur gezonden.   
+4.  Het onderzoeksverslag wordt aan de Autoriteit Consument en Markt gezonden.   
 
 ### §  7  
 
@@ -514,7 +497,7 @@ h. een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393 
 
 a. de inrichting en de mate van detaillering van het toerekeningssysteem, bedoeld in artikel 27b;  
 
-b. de termijn waarbinnen een vastgesteld toerekeningssysteem ter verkrijging van instemming aan de raad van bestuur wordt gezonden;  
+b. de termijn waarbinnen een vastgesteld toerekeningssysteem ter verkrijging van instemming aan de Autoriteit Consument en Markt wordt gezonden;  
 
 c. het tijdstip waarop de voorstellen, bedoeld in de artikelen 27c en 27h moeten zijn gedaan, en daarbij over te leggen stukken;  
 
@@ -522,7 +505,7 @@ d. de termijn waarbinnen de vaststelling van de tarieven plaatsvindt;
 
 e. de inrichting en de mate van detaillering van de verantwoordingen, bedoeld in artikel 27j.     
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de inrichting en mate van detaillering van het vergelijkend onderzoek, bedoeld in artikel 27k.   
-3.  Bij de maatregel, bedoeld in het eerste lid, kunnen taken en bevoegdheden aan de raad van bestuur worden opgedragen.   
+3.  Bij de maatregel, bedoeld in het eerste lid, kunnen taken en bevoegdheden aan de Autoriteit Consument en Markt worden opgedragen.   
 
 ### Hoofdstuk  VII  
 
@@ -702,23 +685,23 @@ c. de rechtsgang, welke waarborgen geven voor een deugdelijke berechting.
 
 ### §  2  
 
-####De Nederlandse Mededingingsautoriteit
+####De Autoriteit Consument en Markt
 
 ### Artikel  45b  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk VIA zijn belast de bij besluit van de raad van bestuur aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk VIA zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  45c  
 
-1.  De raad van bestuur is bevoegd van de organen, genoemd in de artikelen 6, tweede lid, en 10, vijfde lid, van de samenwerkingsverbanden van registerloodsen die ter uitvoering van het bepaalde krachtens artikel 15, eerste lid, onder b, zijn of worden opgericht, van de krachtens de [artikelen 15a, tweede lid](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15b, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) aangewezen organisaties en van de rechtspersoon, onderscheidenlijk rechtspersonen, die zijn belast met de feitelijke uitvoering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a, alle inlichtingen en gegevens te verlangen, die hij voor de uitoefening van zijn taak redelijkerwijs nodig acht.   
-2.  De organen, samenwerkingsverbanden van registerloodsen en de organisaties en rechtspersonen, bedoeld in het eerste lid, verlenen binnen de door de raad van bestuur gestelde termijn alle medewerking die hij redelijkerwijs kan verlangen bij de uitoefening van zijn bevoegdheden op grond van deze wet.   
+1.  De Autoriteit Consument en Markt is bevoegd van de organen, genoemd in de artikelen 6, tweede lid, en 10, vijfde lid, van de samenwerkingsverbanden van registerloodsen die ter uitvoering van het bepaalde krachtens artikel 15, eerste lid, onder b, zijn of worden opgericht, van de krachtens de [artikelen 15a, tweede lid](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15b, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) aangewezen organisaties en van de rechtspersoon, onderscheidenlijk rechtspersonen, die zijn belast met de feitelijke uitvoering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a, alle inlichtingen en gegevens te verlangen, die zij voor de uitoefening van haar taak redelijkerwijs nodig acht.   
+2.  De organen, samenwerkingsverbanden van registerloodsen en de organisaties en rechtspersonen, bedoeld in het eerste lid, verlenen binnen de door de Autoriteit Consument en Markt gestelde termijn alle medewerking die zij redelijkerwijs kan verlangen bij de uitoefening van haar bevoegdheden op grond van deze wet.   
 
 ### Artikel  45e  
 
 1.  Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken.   
-2.  Onze Minister verstrekt de raad van bestuur de nodige inlichtingen en gegevens die de raad behoeft in verband met de uitvoering van deze wet.   
+2.  Onze Minister verstrekt de Autoriteit Consument en Markt de nodige inlichtingen en gegevens die de raad behoeft in verband met de uitvoering van deze wet.   
 
 ### Hoofdstuk  VIIB  
 
@@ -730,7 +713,7 @@ c. de rechtsgang, welke waarborgen geven voor een deugdelijke berechting.
 
 ### Artikel  45f  
 
-1.  In geval van overtreding van het bepaalde bij of krachtens de artikelen 27c, 27i, 27j, 27k en 27l, eerste lid, en 45c, tweede lid, kan de raad van bestuur de overtreder: 
+1.  In geval van overtreding van het bepaalde bij of krachtens de artikelen 27c, 27i, 27j, 27k en 27l, eerste lid, en 45c, tweede lid, kan de Autoriteit Consument en Markt de overtreder: 
 
 a. een bestuurlijke boete opleggen;  
 
@@ -744,8 +727,8 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  45g  
 
-1.  De raad van bestuur kan aan degene die jegens een krachtens artikel 45a, tweede lid, onderscheidenlijk 45b, eerste lid, aangewezen ambtenaar handelt in strijd met [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen.   
-2.  Ingeval de overtreding, bedoeld in het eerste lid, een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de raad van bestuur een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.   
+1.  De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel 45a, tweede lid, onderscheidenlijk 45b, eerste lid, aangewezen ambtenaar handelt in strijd met [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen.   
+2.  Ingeval de overtreding, bedoeld in het eerste lid, een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de Autoriteit Consument en Markt een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.   
 3.  De in het eerste lid bedoelde boete bedraagt ten hoogste € 450.000,=, of, indien dit meer is, 1% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de [artikelen 15a, tweede lid](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15b, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), in het boekjaar voorafgaande aan de beschikking.   
 4.  Bij toepassing van de bevoegdheden, bedoeld in het eerste en tweede lid, zijn de [artikelen 57, tweede lid](../../../wet/mededingingswet/BWBR0008691/README.md), [69, tweede lid](../../../wet/mededingingswet/BWBR0008691/README.md), [77](../../../wet/mededingingswet/BWBR0008691/README.md), en [78 tot en met 82 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.   
 5.  Indien op grond van [artikel 5.0.1, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing is gegeven aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), bedraagt de bestuurlijke boete ten hoogste € 450.000,=.   
@@ -756,7 +739,7 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  45h  
 
-1.  De raad van bestuur kan degene die een verzegeling als bedoeld in [artikel 54 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) verbreekt, opheft of beschadigt, of de door de verzegeling bedoelde afsluiting op andere wijze verijdelt, een bestuurlijke boete opleggen van ten hoogste € 450.000,= of, indien dit meer is, 1% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de [artikelen 15a, tweede lid](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15b, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), in het boekjaar voorafgaande aan de beschikking.   
+1.  De Autoriteit Consument en Markt kan degene die een verzegeling als bedoeld in [artikel 54 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) verbreekt, opheft of beschadigt, of de door de verzegeling bedoelde afsluiting op andere wijze verijdelt, een bestuurlijke boete opleggen van ten hoogste € 450.000,= of, indien dit meer is, 1% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de [artikelen 15a, tweede lid](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15b, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), in het boekjaar voorafgaande aan de beschikking.   
 2.  [Artikel 199 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing op de in het eerste lid bedoelde overtreding.   
 3.  Bij de toepassing van de bevoegdheden, bedoeld in het eerste lid, zijn de [artikelen 57, tweede lid](../../../wet/mededingingswet/BWBR0008691/README.md), [77](../../../wet/mededingingswet/BWBR0008691/README.md), [80](../../../wet/mededingingswet/BWBR0008691/README.md) en [82 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.   
 4.  Indien op grond van [artikel 5.0.1, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing is gegeven aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), bedraagt de bestuurlijke boete ten hoogste € 450.000,=.   
@@ -804,8 +787,8 @@ d. registerloodsen.
 
 ### Artikel  46  
 
-1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens artikel 9, eerste lid, onder a, 1°, artikel 13, eerste lid, onder a, 1° en 2°, en onder b, artikel 15, eerste lid, onder b, 2°, artikel 21, vijfde lid, en artikel 26. Van het besluit wordt mededeling gedaan aan de corporatie onderscheidenlijk de regionale corporatie.   
-2.  De raad van bestuur is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de artikelen 27b, eerste en zesde lid, en 27l, eerste lid, onder a en b. Van het besluit wordt mededeling gedaan aan de corporatie.   
+1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens artikel 9, eerste lid, onder a, onder 1° en 2°, en tweede lid, artikel 13, eerste lid, onder a, onder 1°, en onder b, artikel 15, eerste lid, onder b, 2°, 21, zesde lid, en artikel 26. Van het besluit wordt mededeling gedaan aan de corporatie onderscheidenlijk de regionale corporatie.   
+2.  De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de artikelen 27b, eerste en zesde lid, en 27l, eerste lid, onder a en b. Van het besluit wordt mededeling gedaan aan de corporatie.   
 3.  Van de krachtens het eerste of tweede lid genomen maatregelen wordt binnen tweemaal vierentwintig uur een schriftelijk verslag opgemaakt dat onverwijld in afschrift wordt gezonden aan de belanghebbenden alsmede aan de algemene raad onderscheidenlijk het bestuur van de regionale corporatie.   
 
 ### Artikel  47  
@@ -842,7 +825,8 @@ b. verval of beperking van de bevoegdheid als registerloods onderscheidenlijk ve
 5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.   
 6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.   
 
-### Artikel  52  
+### Artikel  52   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister is bevoegd aanwijzingen te geven aan de registerloodsen met betrekking tot de beschikbaarheid voor het verrichten van de in artikel 2, eerste en tweede lid, bedoelde diensten en het verrichten van die diensten alsmede aan de organen van de corporatie en de regionale corporaties met betrekking tot het verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten.   
@@ -868,7 +852,7 @@ Het bij of krachtens de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor
 
 ### Artikel  56  
 
-1.  Het stellen van regels krachtens de artikelen 2, derde lid, 5, eerste lid, 19, eerste lid, onderdeel *a*, en 20, tweede lid, kan dienen ter uitvoering van een verdrag of van een besluit van een volkenrechtelijke organisatie.   
+1.  Het stellen van regels krachtens de artikelen 2, derde lid, 5, eerste lid, en 9, tweede lid, kan dienen ter uitvoering van een verdrag of van een besluit van een volkenrechtelijke organisatie.   
 2.  Daarbij wordt afgeweken van het bepaalde in deze wet, voor zover de bepalingen van een verdrag of een besluit van een volkenrechtelijke organisatie daartoe nopen.   
 
 ### Artikel  57  
@@ -886,14 +870,9 @@ De algemene raad en het bestuur van een regionale corporatie, alsmede degene op 
 
 ####Rechtsbescherming
 
-### Artikel  60  
-
-1.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen op grond van deze wet genomen besluiten, met uitzondering van besluiten genomen op grond van artikel 27f, de rechtbank te Rotterdam bevoegd.   
-2.  In afwijking van [artikel 8:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een op grond van artikel 27f genomen besluit beroep instellen bij het College van Beroep voor het bedrijfsleven.   
+Vervallen per 01-01-2013   
 
 ### Artikel  II  
-
-####Intrekking Loodswet 1957
 
 ### Artikel  61  
 
@@ -901,8 +880,6 @@ De algemene raad en het bestuur van een regionale corporatie, alsmede degene op 
 2.  Bij koninklijk besluit kunnen voorafgaand aan het tijdstip, waarop het eerste lid in werking treedt, afzonderlijke artikelen van de Loodswet 1957 worden ingetrokken.   
 
 ### Artikel  III  
-
-####Overgangsrecht
 
 ### Artikel  62  
 
@@ -964,8 +941,6 @@ b. de datum waarop de overdracht plaatsvindt.
 2.  Onze Minister kan het bestuur van de rechtspersoon als bedoeld in het eerste lid, in overeenstemming met Onze Minister van Binnenlandse Zaken, ontheffing verlenen van het eerste lid, indien dat bestuur voldoende garanties heeft verkregen voor het behoud van de werkgelegenheid van het betrokken personeel als bedoeld in artikel 63, derde lid, tot afloop van de in het eerste lid genoemde termijn.   
 
 ### Artikel  IV  
-
-####Inwerkingtreding
 
 ### Artikel  69  
 

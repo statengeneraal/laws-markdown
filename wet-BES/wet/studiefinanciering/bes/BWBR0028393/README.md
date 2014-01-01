@@ -133,22 +133,22 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 1.    *Bedragen studiefinanciering BES:*  
 
-| I. Onderwijstype:   | II. Plaats opleiding:   | III. Prestatiebeurs of  gift per maand:   | IV: Lening tijdens  prestatiebeurs per  maand:  | V: Lening na prestatiebeurs  per maand:  |
+| I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs of  gift per maand  | IV. Lening tijdens  prestatiebeurs per  maand  | V. Lening na prestatiebeurs  per maand  |
 |:---|:---|:---|:---|:---|
-| Beroepsonderwijs  | Eigen openbaar lichaam  | USD 69,88  | USD 139,76  | USD 209,64  |
-| --- | Ander openbaar lichaam, Aruba Curaçao, Sint Maarten  | USD 227,09  | USD 454,18  | USD 681,27   |
-| --- | Overig deel Caribische regio  | USD 349,36  | USD 698,72  | USD 1.048,08  |
-| --- | Verenigde Staten van Amerika  | USD 479,25  | USD 958,50  | USD 1.437,75  |
-| Hoger onderwijs  | Eigen openbaar lichaam  | USD 131,01  | USD 262,02  | USD 393,03  |
-| --- | Ander openbaar lichaam, Aruba Curaçao, Sint Maarten  | USD 262,02  | USD 524,04  | USD 786,06   |
-| --- | Overig deel Caribische regio  | USD 349,36  | USD 698,72  | USD 1.048,08  |
-| --- | Verenigde Staten van Amerika  | USD 479,25  | USD 958,50  | USD 1.437,75  |
+| Beroepsonderwijs  | Eigen openbaar lichaam  | USD 71,91  | USD 143,82  | USD 215,73  |
+| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 233,70  | USD 467,40  | USD 701,10  |
+| --- | Overig deel Caribische regio  | USD 359,53  | USD 719,06  | USD 1.078,59  |
+| --- | Verenigde Staten van Amerika  | USD 493,20  | USD 986,40  | USD 1.479,60  |
+| Hoger onderwijs  | Eigen openbaar lichaam  | USD 134,82  | USD 269,64  | USD 404,46  |
+| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 269,64  | USD 539,28  | USD 808,92  |
+| --- | Overig deel Caribische regio  | USD 359,53  | USD 719,06  | USD 1.078,59  |
+| --- | Verenigde Staten van Amerika  | USD 493,20  | USD 986,40  | USD 1.479,60  |
 
 2.    *Bedragen opstarttoelage BES:*  
 
-| I. Onderwijstype:  | II. Plaats opleiding:  | III. Prestatiebeurs  | IV: Lening  |
+| I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs  | IV. Lening  |
 |:---|:---|:---|:---|
-| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs  | Europees deel van Nederland  | USD 2.411,69  | USD 4.823,38   |
+| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs  | Europees deel van Nederland  | USD 2.481,87  | USD 4.963,74  |
 
 ### Paragraaf  2.3  
 

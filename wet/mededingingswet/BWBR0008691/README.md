@@ -18,9 +18,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. mededingingsautoriteit: de Nederlandse Mededingingsautoriteit, genoemd in artikel 2, eerste lid;  
+b. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
-c. raad: de raad van bestuur van de mededingingsautoriteit;  
+c.  vervallen;   
 
 d. Verdrag: het Verdrag tot oprichting van de Europese Gemeenschap;  
 
@@ -46,32 +46,11 @@ n. consumentenorganisaties: stichtingen of verenigingen met volledige rechtsbevo
 
 ### Hoofdstuk  2  
 
-####De Nederlandse Mededingingsautoriteit
+####De Autoriteit Consument en Markt
 
 ### §  1  
 
 ####Algemeen
-
-### Artikel  2  
-
-1.  Er is een Nederlandse Mededingingsautoriteit.   
-2.  De raad van bestuur vormt het bestuur van de mededingingsautoriteit.   
-3.  De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing, met uitzondering van [artikel 22 van die wet](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
-
-### Artikel  3  
-
-1.  De raad bestaat uit drie leden, onder wie de voorzitter.   
-2.  Benoeming vindt plaats op grond van deskundigheid op het gebied van de taken waarmee de raad is belast.   
-3.  De voorzitter wordt benoemd voor een periode van zeven jaar en de overige leden worden benoemd voor een periode van vijf jaar. De voorzitter en de leden kunnen eenmaal worden herbenoemd voor eenzelfde periode.   
-
-### Artikel  4  
-
-Een lid van de raad heeft geen financiële of andere belangen bij ondernemingen waardoor zijn onpartijdigheid in het geding kan zijn.  
-
-### Artikel  4b  
-
-1.  De raad stelt een bestuursreglement vast, waarin in ieder geval regels over de werkwijze en procedures zijn opgenomen. In het reglement worden tevens regels opgenomen over de verdeling van de werkzaamheden bij de voorbereiding van de besluiten van de raad.   
-2.  Het bestuursreglement wordt na de goedkeuring van Onze Minister bekend gemaakt in de Staatscourant.   
 
 ### §  2  
 
@@ -79,29 +58,19 @@ Een lid van de raad heeft geen financiële of andere belangen bij ondernemingen 
 
 ### Artikel  5  
 
-De raad is belast met taken ter uitvoering van deze wet, alsmede ter uitvoering van andere wetten, voor zover dat in de desbetreffende wet is bepaald.  
-
-### Artikel  5a  
-
-1.  Onze Minister stelt ten behoeve van de uitvoering van de in artikel 5 bedoelde taken personeel ter beschikking van de raad.   
-2.  De raad stelt een mandaatregeling op ten aanzien van de bevoegdheden van het personeel.   
-3.  In de mandaatregeling worden regels gesteld omtrent het verlenen van een algemeen mandaat met betrekking tot de uitvoering van de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [Gaswet](../../../wet/gaswet/BWBR0011440/README.md) en kunnen regels worden gesteld in het kader van de uitvoering van andere wetten.   
-4.  De raad voorziet in een specifieke organisatorische eenheid die wordt belast met uitvoering en toezicht op de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [Gaswet](../../../wet/gaswet/BWBR0011440/README.md).   
-5.  De in het tweede lid bedoelde regeling behoeft de goedkeuring van Onze Minister. Onze Minister onthoudt zijn goedkeuring indien naar zijn oordeel de mandaatregeling een goede taakuitoefening door de raad kan belemmeren. De regeling wordt na goedkeuring door de raad bekendgemaakt in de Staatscourant.   
-6.  Indien Onze Minister van oordeel is dat de mandaatregeling een goede taakuitoefening belemmert, kan hij de raad verzoeken de mandaatregeling te wijzigen.   
-7.  Indien de raad binnen drie maanden geen gevolg heeft gegeven aan een verzoek als bedoeld in het zesde lid kan Onze Minister de raad opdragen de mandaatregeling op een door hem gewenste wijze aan te passen.   
+De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet, alsmede ter uitvoering van andere wetten, voor zover dat in de desbetreffende wet is bepaald.  
 
 ### Artikel  5b  
 
-1.  Onze Minister kan de raad opdragen werkzaamheden te verrichten in het kader van de uitvoering van regelgeving op het gebied van de mededinging op grond van het Verdrag, voor zover daarin niet reeds bij of krachtens de wet is voorzien, alsmede werkzaamheden op het gebied van de mededinging in verband met andere verdragen of internationale afspraken.   
-2.  Onze Minister kan de raad instructies geven met betrekking tot het verrichten van de in het eerste lid bedoelde werkzaamheden, alsmede met betrekking tot het door de raad in te nemen standpunt in een adviescomité als bedoeld in artikel 14, tweede lid, van verordening 1/2003 en artikel 19, vierde lid, van verordening 139/2004, met dien verstande dat een instructie inzake een standpunt in een adviescomité geen betrekking heeft op de mededingingsaspecten van een individueel geval.   
+1.  Onze Minister kan de Autoriteit Consument en Markt opdragen werkzaamheden te verrichten in het kader van de uitvoering van regelgeving op het gebied van de mededinging op grond van het Verdrag, voor zover daarin niet reeds bij of krachtens de wet is voorzien, alsmede werkzaamheden op het gebied van de mededinging in verband met andere verdragen of internationale afspraken.   
+2.  Onze Minister kan de Autoriteit Consument en Markt instructies geven met betrekking tot het verrichten van de in het eerste lid bedoelde werkzaamheden, alsmede met betrekking tot het door de Autoriteit Consument en Markt in te nemen standpunt in een adviescomité als bedoeld in artikel 14, tweede lid, van verordening 1/2003 en artikel 19, vierde lid, van verordening 139/2004, met dien verstande dat een instructie inzake een standpunt in een adviescomité geen betrekking heeft op de mededingingsaspecten van een individueel geval.   
 
 ### Artikel  5c  
 
-1.  Onze Minister kan, al dan niet op verzoek van een van Onze andere Ministers, de raad opdragen een rapportage uit te brengen inzake de effecten voor de mededinging van voorgenomen of geldende regelgeving of van een voorgenomen of een geldend besluit.   
-2.  De raad kan een in het eerste lid bedoelde rapportage ook uit eigen beweging uitbrengen.   
+1.  Onze Minister kan, al dan niet op verzoek van een van Onze andere Ministers, de Autoriteit Consument en Markt opdragen een rapportage uit te brengen inzake de effecten voor de mededinging van voorgenomen of geldende regelgeving of van een voorgenomen of een geldend besluit.   
+2.  De Autoriteit Consument en Markt kan een in het eerste lid bedoelde rapportage ook uit eigen beweging uitbrengen.   
 3.  Het uitbrengen van een rapportage aan een van Onze andere Ministers geschiedt door tussenkomst van Onze Minister.   
-4.  Op verzoek van een of beide Kamers van de Staten-Generaal brengt de raad met tussenkomst van Onze Minister een rapportage uit aan de beide Kamers der Staten-Generaal. Onze Minister zendt de rapportage onverwijld naar de beide Kamers der Staten-Generaal. Onze Minister kan de rapportage doen vergezellen van zijn bevindingen.   
+4.  Op verzoek van een of beide Kamers van de Staten-Generaal brengt de Autoriteit Consument en Markt met tussenkomst van Onze Minister een rapportage uit aan de beide Kamers der Staten-Generaal. Onze Minister zendt de rapportage onverwijld naar de beide Kamers der Staten-Generaal. Onze Minister kan de rapportage doen vergezellen van zijn bevindingen.   
 
 ### §  3  
 
@@ -109,25 +78,7 @@ De raad is belast met taken ter uitvoering van deze wet, alsmede ter uitvoering 
 
 ### Artikel  5d  
 
-Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de raad toegekende bevoegdheden kunnen betrekking hebben of mede betrekking hebben op de wijze waarop de raad bij toepassing van artikel 6, derde lid, andere belangen dan economische belangen in zijn afweging moet betrekken.  
-
-### Artikel  5e  
-
-Onze Minister kan, nadat de raad in de gelegenheid is gesteld zijn opmerkingen te maken, nadere regels vaststellen met betrekking tot de in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bedoelde gegevensuitwisseling tussen Onze Minister en de raad.  
-
-### Artikel  5f  
-
-Indien de raad bij werkzaamheden ten behoeve van de uitvoering van een andere wet als bedoeld in artikel 5 die onder verantwoordelijkheid van een van Onze andere Ministers valt, zijn taak ernstig verwaarloost, treft Onze Minister de in [artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bedoelde voorzieningen na overleg met Onze andere Minister wie het aangaat.  
-
-### Artikel  5g  
-
-1.  Het jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), heeft betrekking op de uitvoering van deze wet en op de uitvoering van andere wetten als bedoeld in artikel 5.   
-2.  Het verslag wordt in voorkomend geval mede gezonden aan Onze andere Minister wie het aangaat.   
-3.  Bij de toezending van het jaarverslag aan de beide Kamers der Staten-Generaal op grond van [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) voegt Onze Minister zijn bevindingen daaromtrent alsmede de bevindingen van Onze andere Minister, bedoeld in het tweede lid.   
-
-### Artikel  5h  
-
-Voor zover het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), betrekking heeft op de werkzaamheden ten behoeve van de uitvoering van een andere wet als bedoeld in artikel 5, stelt Onze Minister het verslag op na overleg met Onze andere Minister wie het aangaat.  
+Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autoriteit Consument en Markt toegekende bevoegdheden kunnen betrekking hebben of mede betrekking hebben op de wijze waarop de Autoriteit Consument en Markt bij toepassing van artikel 6, derde lid, andere belangen dan economische belangen in haar afweging moet betrekken.  
 
 ### Artikel  5l  
 
@@ -183,7 +134,7 @@ b. de overeenkomst, het besluit of de onderling afgestemde feitelijke gedraging 
 
 ### Artikel  9  
 
-1.  De raad kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens artikel 7, eerste, tweede of vierde lid, artikel 6, eerste lid, niet van toepassing is, bij beschikking alsnog artikel 6, eerste lid, van toepassing verklaren, indien die overeenkomst, dat besluit of die gedraging gezien de marktverhoudingen op de relevante markt in aanzienlijke mate afbreuk doet aan de mededinging.   
+1.  De Autoriteit Consument en Markt kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens artikel 7, eerste, tweede of vierde lid, artikel 6, eerste lid, niet van toepassing is, bij beschikking alsnog artikel 6, eerste lid, van toepassing verklaren, indien die overeenkomst, dat besluit of die gedraging gezien de marktverhoudingen op de relevante markt in aanzienlijke mate afbreuk doet aan de mededinging.   
 2.  Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 3.  De beschikking treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
@@ -210,7 +161,7 @@ Artikel 6, eerste lid, geldt niet voor overeenkomsten tussen ondernemingen, besl
 ### Artikel  13  
 
 1.  Artikel 6, eerste lid, geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen die de handel tussen de lid-staten van de Europese Gemeenschappen niet ongunstig kunnen beïnvloeden of waardoor de mededinging binnen de gemeenschappelijke markt niet wordt verhinderd, beperkt of vervalst doch die, indien dat wel het geval zou zijn, zouden zijn vrijgesteld krachtens een verordening als bedoeld in artikel 12.   
-2.  De raad kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens het eerste lid artikel 6, eerste lid, niet van toepassing is, bij beschikking alsnog artikel 6, eerste lid, van toepassing verklaren, indien zich omstandigheden voordoen als die welke krachtens de desbetreffende verordening kunnen leiden tot de buitentoepassingverklaring van die verordening.   
+2.  De Autoriteit Consument en Markt kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens het eerste lid artikel 6, eerste lid, niet van toepassing is, bij beschikking alsnog artikel 6, eerste lid, van toepassing verklaren, indien zich omstandigheden voordoen als die welke krachtens de desbetreffende verordening kunnen leiden tot de buitentoepassingverklaring van die verordening.   
 3.  Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 4.  De beschikking treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
@@ -225,7 +176,7 @@ Artikel 6, eerste lid, geldt niet voor overeenkomsten tussen ondernemingen, besl
 a. beperkingen op te leggen die voor het bereiken van deze doelstellingen niet onmisbaar zijn, of  
 
 b. de mogelijkheid te geven, voor een wezenlijk deel van de betrokken goederen en diensten de mededinging uit te schakelen.     
-2.  In een algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de raad op een overeenkomst, besluit of gedraging waarvoor krachtens die maatregel artikel 6, eerste lid, niet geldt, bij beschikking alsnog artikel 6, eerste lid, van toepassing kan verklaren, indien wordt voldaan aan de in die algemene maatregel van bestuur genoemde vereisten.   
+2.  In een algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de Autoriteit Consument en Markt op een overeenkomst, besluit of gedraging waarvoor krachtens die maatregel artikel 6, eerste lid, niet geldt, bij beschikking alsnog artikel 6, eerste lid, van toepassing kan verklaren, indien wordt voldaan aan de in die algemene maatregel van bestuur genoemde vereisten.   
 3.  Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 4.  De beschikking treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
@@ -242,6 +193,8 @@ c. een overeenkomst of besluit van een organisatie van beoefenaren van een vrij 
 ### §  4  
 
 ####Ontheffingen
+
+Vervallen per 01-08-2004   
 
 ### Hoofdstuk  4  
 
@@ -262,7 +215,7 @@ c. een overeenkomst of besluit van een organisatie van beoefenaren van een vrij 
 
 ### Artikel  25  
 
-1.  Voor zover de toepassing van artikel 24, eerste lid, de vervulling van bij wettelijk voorschrift of door een bestuursorgaan aan een onderneming opgedragen beheer van een dienst van algemeen economisch belang verhindert, kan de raad op aanvraag verklaren dat artikel 24, eerste lid, niet van toepassing is op een daarbij aangewezen gedraging.   
+1.  Voor zover de toepassing van artikel 24, eerste lid, de vervulling van bij wettelijk voorschrift of door een bestuursorgaan aan een onderneming opgedragen beheer van een dienst van algemeen economisch belang verhindert, kan de Autoriteit Consument en Markt op aanvraag verklaren dat artikel 24, eerste lid, niet van toepassing is op een daarbij aangewezen gedraging.   
 2.  Een beschikking als bedoeld in het eerste lid kan onder beperkingen worden gegeven; aan een beschikking kunnen voorschriften worden verbonden.   
 
 ### Hoofdstuk  4a  
@@ -316,7 +269,7 @@ c. ondernemingen die voor een redelijke periode met het beheer van een dienst va
 
 ### Artikel  25e  
 
-Indien de Commissie van de Europese Gemeenschappen verzoekt om terbeschikkingstelling van gegevens als bedoeld in artikel 25b, eerste lid, verstrekt de onderneming die dit aangaat, de raad op diens verzoek binnen de door hem gestelde termijn de desbetreffende gegevens. De raad doet de gegevens toekomen aan de Commissie van de Europese Gemeenschappen.  
+Indien de Commissie van de Europese Gemeenschappen verzoekt om terbeschikkingstelling van gegevens als bedoeld in artikel 25b, eerste lid, verstrekt de onderneming die dit aangaat, de Autoriteit Consument en Markt op diens verzoek binnen de door haar gestelde termijn de desbetreffende gegevens. De Autoriteit Consument en Markt doet de gegevens toekomen aan de Commissie van de Europese Gemeenschappen.  
 
 ### Artikel  25f  
 
@@ -373,7 +326,7 @@ b. indien de economische activiteiten inhouden het verstrekken van gegevens die 
 
 c. op economische activiteiten die worden verricht door een onderneming die belast is met de uitvoering van de [Wet sociale werkvoorziening](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), voor zover op deze activiteiten [artikel 5 van die wet](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) van toepassing is.     
 3.  Bij de vaststelling van de integrale kosten, bedoeld in het eerste lid, wordt voor de financiering met vreemd vermogen en met eigen vermogen voor zover dat redelijkerwijs aan de economische activiteiten kan worden toegerekend, een bedrag in aanmerking genomen dat niet lager is dan de lasten die in het normale handelsverkeer gebruikelijk zijn voor de financiering van ondernemingen.   
-4.  Op verzoek van de raad toont een bestuursorgaan aan dat het heeft voldaan aan de in het eerste lid bedoelde verplichting.   
+4.  Op verzoek van de Autoriteit Consument en Markt toont een bestuursorgaan aan dat het heeft voldaan aan de in het eerste lid bedoelde verplichting.   
 
 ### Artikel  25j  
 
@@ -453,7 +406,7 @@ b. het verkrijgen van zeggenschap door:
 5°. personen als bedoeld in [artikel 3:175, negende lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);    
 
 c. het verwerven van participaties in het kapitaal als bedoeld in artikel 27, eerste lid, onder b, met inbegrip van participaties in een gemeenschappelijke onderneming als bedoeld in artikel 27, tweede lid, door participatiemaatschappijen mits de aan de deelname verbonden stemrechten slechts worden uitgeoefend om de volle waarde van deze beleggingen veilig te stellen.     
-2.  De in het eerste lid, onder a, genoemde termijn kan op verzoek door de raad worden verlengd wanneer de desbetreffende instellingen of verzekeraars aantonen dat de verkoop binnen de gestelde termijn redelijkerwijs niet mogelijk was.   
+2.  De in het eerste lid, onder a, genoemde termijn kan op verzoek door de Autoriteit Consument en Markt worden verlengd wanneer de desbetreffende instellingen of verzekeraars aantonen dat de verkoop binnen de gestelde termijn redelijkerwijs niet mogelijk was.   
 
 ### §  2  
 
@@ -468,7 +421,7 @@ c. het verwerven van participaties in het kapitaal als bedoeld in artikel 27, ee
 ### Artikel  30  
 
 1.  De berekening van de omzet, bedoeld in artikel 29, eerste lid, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
-2.  Wanneer de concentratie tot stand wordt gebracht door middel van de verwerving van de zeggenschap over delen van een of meer ondernemingen, welke delen al dan niet eigen rechtspersoonlijkheid bezitten, wordt bij de berekening van de omzet, bedoeld in artikel 29, eerste lid, ten aanzien van de vervreemder of de vervreemders uitsluitend rekening gehouden met de omzet van de te vervreemden delen die voorwerp zijn van de transactie. Twee of meer verwervingen als bedoeld in de eerste volzin die plaatsvinden binnen een door de raad in aanmerking te nemen periode en die afhankelijk van elkaar zijn of op een economische wijze zodanig met elkaar zijn verbonden dat deze verwervingen als één verwerving zouden moeten worden beoordeeld, worden beschouwd als één concentratie die tot stand gebracht wordt op de dag van de laatste transactie.   
+2.  Wanneer de concentratie tot stand wordt gebracht door middel van de verwerving van de zeggenschap over delen van een of meer ondernemingen, welke delen al dan niet eigen rechtspersoonlijkheid bezitten, wordt bij de berekening van de omzet, bedoeld in artikel 29, eerste lid, ten aanzien van de vervreemder of de vervreemders uitsluitend rekening gehouden met de omzet van de te vervreemden delen die voorwerp zijn van de transactie. Twee of meer verwervingen als bedoeld in de eerste volzin die plaatsvinden binnen een door de Autoriteit Consument en Markt in aanmerking te nemen periode en die afhankelijk van elkaar zijn of op een economische wijze zodanig met elkaar zijn verbonden dat deze verwervingen als één verwerving zouden moeten worden beoordeeld, worden beschouwd als één concentratie die tot stand gebracht wordt op de dag van de laatste transactie.   
 3.  Onverminderd het bepaalde in het tweede lid worden voor de berekening van de omzet van een betrokken onderneming als bedoeld in artikel 29, eerste lid, de omzetten van de volgende ondernemingen opgeteld: 
 
 a. de betrokken onderneming;  
@@ -516,51 +469,52 @@ e. overige bedrijfsopbrengsten;   na aftrek van de belasting over de toegevoegde
 
 ### Artikel  34  
 
-Het is verboden een concentratie tot stand te brengen voordat het voornemen daartoe aan de raad is gemeld en vervolgens vier weken zijn verstreken.  
+1.  Het is verboden een concentratie tot stand te brengen voordat het voornemen daartoe aan de Autoriteit Consument en Markt is gemeld en vervolgens vier weken zijn verstreken.   
+2.  Geen melding kan worden gedaan indien een goedkeuring voor een concentratie als bedoeld in artikel 49a, eerste lid, van de Wet marktordening gezondheidszorg, dan wel een ontheffing als bedoeld in artikel 49d van die wet, ontbreekt.   
 
 ### Artikel  35  
 
 1.  Bij een melding worden de bij algemene maatregel van bestuur aangewezen gegevens verstrekt. [Artikel 4:4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-2.  Indien niet is voldaan aan het eerste lid of indien de verstrekte gegevens onvoldoende zijn voor de beoordeling van een melding, kan de raad van de bij de concentratie betrokken partijen, aanvulling van de melding verlangen.   
-3.  Door een onderneming bij de melding verstrekte gegevens die door die onderneming als vertrouwelijk zijn aangemerkt, worden niet eerder openbaar gemaakt dan nadat een week is verstreken na de bekendmaking van de daartoe strekkende beschikking van de raad.   
-4.  Indien met betrekking tot de in het derde lid bedoelde beschikking van de raad een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is gedaan, wordt de termijn, genoemd in de artikelen 34 en 37, eerste en derde lid, opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in artikel 93, eerste lid, is bekendgemaakt.   
+2.  Indien niet is voldaan aan het eerste lid of indien de verstrekte gegevens onvoldoende zijn voor de beoordeling van een melding, kan de Autoriteit Consument en Markt van de bij de concentratie betrokken partijen, aanvulling van de melding verlangen.   
+3.  Door een onderneming bij de melding verstrekte gegevens die door die onderneming als vertrouwelijk zijn aangemerkt, worden niet eerder openbaar gemaakt dan nadat een week is verstreken na de bekendmaking van de daartoe strekkende beschikking van de Autoriteit Consument en Markt.   
+4.  Indien met betrekking tot de in het derde lid bedoelde beschikking van de Autoriteit Consument en Markt een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is gedaan, wordt de termijn, genoemd in de artikelen 34, eerste lid, en 37, eerste en derde lid, opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in artikel 93, eerste lid, is bekendgemaakt.   
 
 ### Artikel  36  
 
-Van een ontvangen melding wordt door de raad zo spoedig mogelijk mededeling gedaan in de *Staatscourant*.  
+Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig mogelijk mededeling gedaan in de *Staatscourant*.  
 
 ### Artikel  37  
 
-1.  De raad deelt binnen vier weken na het ontvangen van een melding mede of voor het tot stand brengen van de concentratie, waarop die melding betrekking heeft, een vergunning is vereist.   
-2.  De raad kan bepalen dat een vergunning is vereist voor een concentratie waarvan hij reden heeft om aan te nemen dat die de daadwerkelijke mededinging op de Nederlandse markt of een deel daarvan op significante wijze zou kunnen belemmeren, met name als het resultaat van het in het leven roepen of het versterken van een economische machtspositie.   
-3.  Indien de melding betrekking heeft op een concentratie als bedoeld in artikel 27, tweede lid, waarmee de coördinatie van het concurrentiegedrag van de totstandbrengende ondernemingen wordt beoogd of totstandgebracht, betrekt de raad bij zijn besluit of een vergunning is vereist, tevens de criteria van artikel 6, eerste en derde lid.   
+1.  De Autoriteit Consument en Markt deelt binnen vier weken na het ontvangen van een melding mede of voor het tot stand brengen van de concentratie, waarop die melding betrekking heeft, een vergunning is vereist.   
+2.  De Autoriteit Consument en Markt kan bepalen dat een vergunning is vereist voor een concentratie waarvan zij reden heeft om aan te nemen dat die de daadwerkelijke mededinging op de Nederlandse markt of een deel daarvan op significante wijze zou kunnen belemmeren, met name als het resultaat van het in het leven roepen of het versterken van een economische machtspositie.   
+3.  Indien de melding betrekking heeft op een concentratie als bedoeld in artikel 27, tweede lid, waarmee de coördinatie van het concurrentiegedrag van de totstandbrengende ondernemingen wordt beoogd of totstandgebracht, betrekt de Autoriteit Consument en Markt bij haar besluit of een vergunning is vereist, tevens de criteria van artikel 6, eerste en derde lid.   
 4.  De mededeling dat voor het totstandbrengen van de concentratie geen vergunning is vereist, kan onder voorwaarden worden gedaan, indien uit de terzake van de melding verstrekte gegevens en voorstellen zonder meer blijkt dat de in het tweede en derde lid bedoelde gevolgen kunnen worden vermeden indien aan die voorwaarden is voldaan.   
 5.  Indien niet binnen vier weken toepassing is gegeven aan het eerste lid is voor de concentratie geen vergunning vereist. De in de vorige volzin bedoelde termijn vangt aan met ingang van de eerstvolgende dag na ontvangst van de melding die niet een zaterdag, zondag of algemeen erkende feestdag is in de zin van de [Algemene termijnenwet](../../../wet/algemene/termijnenwet/BWBR0002448/README.md).   
-6.  Door een onvoorwaardelijke mededeling als bedoeld in het eerste lid, dat voor een concentratie geen vergunning is vereist, houdt het in artikel 34 vervatte verbod met betrekking tot die concentratie op te gelden. Ingeval van een mededeling als bedoeld in het vierde lid, blijft het in artikel 34 vervatte verbod gelden totdat aan de gestelde voorwaarden is voldaan. Voldoen partijen niet of niet tijdig aan de voorwaarden, dan is alsnog een vergunning vereist.   
-7.  Van een mededeling van de raad als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.   
+6.  Door een onvoorwaardelijke mededeling als bedoeld in het eerste lid, dat voor een concentratie geen vergunning is vereist, houdt het in artikel 34, eerste lid, vervatte verbod met betrekking tot die concentratie op te gelden. Ingeval van een mededeling als bedoeld in het vierde lid, blijft het in artikel 34 vervatte verbod gelden totdat aan de gestelde voorwaarden is voldaan. Voldoen partijen niet of niet tijdig aan de voorwaarden, dan is alsnog een vergunning vereist.   
+7.  Van een mededeling van de Autoriteit Consument en Markt als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  38  
 
-1.  Indien niet is voldaan aan artikel 35, eerste lid, en de raad binnen vijf werkdagen na de dag van ontvangst van de melding, degene die de melding heeft gedaan, heeft verzocht om toezending van de ontbrekende gegevens of documenten, vangt de in de artikelen 34 en 37, eerste en vijfde lid, bedoelde termijn van vier weken aan op de dag waarop die gegevens of documenten alsnog zijn verstrekt.   
-2.  Onverminderd het eerste lid, wordt de in de artikelen 34 en 37, eerste en vijfde lid, bedoelde termijn van vier weken opgeschort met ingang van de dag waarop de raad op grond van artikel 35, tweede lid, aanvulling van de melding verlangt tot de dag waarop de aanvulling door elk van de partijen van wie aanvulling is gevraagd, is gegeven.   
-3.  De termijn kan voorts naar aanleiding van een met redenen omkleed verzoek van elk van degenen die de melding doen door de raad eenmalig worden opgeschort indien dat naar zijn oordeel in het belang van de behandeling van de melding is.   
+1.  Indien niet is voldaan aan artikel 35, eerste lid, en de Autoriteit Consument en Markt binnen vijf werkdagen na de dag van ontvangst van de melding, degene die de melding heeft gedaan, heeft verzocht om toezending van de ontbrekende gegevens of documenten, vangt de in de artikelen 34, eerste lid, en 37, eerste en vijfde lid, bedoelde termijn van vier weken aan op de dag waarop die gegevens of documenten alsnog zijn verstrekt.   
+2.  Onverminderd het eerste lid, wordt de in de artikelen 34, eerste lid, en 37, eerste en vijfde lid, bedoelde termijn van vier weken opgeschort met ingang van de dag waarop de Autoriteit Consument en Markt op grond van artikel 35, tweede lid, aanvulling van de melding verlangt tot de dag waarop de aanvulling door elk van de partijen van wie aanvulling is gevraagd, is gegeven.   
+3.  De termijn kan voorts naar aanleiding van een met redenen omkleed verzoek van elk van degenen die de melding doen door de Autoriteit Consument en Markt eenmalig worden opgeschort indien dat naar haar oordeel in het belang van de behandeling van de melding is.   
 4.  Een melding geldt als niet gedaan indien de in het tweede lid bedoelde aanvulling van gegevens niet heeft plaatsgevonden binnen zes maanden na de datum waarop het laatste verzoek tot aanvulling is gedaan en de termijn niet ingevolge het derde lid is opgeschort.   
 
 ### Artikel  39  
 
-1.  Artikel 34 geldt niet in geval van een openbaar overname of ruilaanbod gericht op het verkrijgen van een deelname in het kapitaal van een onderneming, mits daarvan onverwijld aan de raad melding wordt gedaan, en de verkrijger de aan de deelname in het kapitaal verbonden stemrechten niet uitoefent.   
-2.  Indien de raad ter zake van een melding als bedoeld in het eerste lid mededeelt dat op grond van artikel 37, eerste lid, een vergunning is vereist, dient de concentratie: 
+1.  Artikel 34, eerste lid, geldt niet in geval van een openbaar overname of ruilaanbod gericht op het verkrijgen van een deelname in het kapitaal van een onderneming, mits daarvan onverwijld aan de Autoriteit Consument en Markt melding wordt gedaan, en de verkrijger de aan de deelname in het kapitaal verbonden stemrechten niet uitoefent.   
+2.  Indien de Autoriteit Consument en Markt ter zake van een melding als bedoeld in het eerste lid mededeelt dat op grond van artikel 37, eerste lid, een vergunning is vereist, dient de concentratie: 
 
 a. indien niet binnen vier weken na die mededeling een vergunning is aangevraagd, dan wel de aanvraag om een vergunning wordt ingetrokken of de vergunning wordt geweigerd, binnen dertien weken ongedaan te worden gemaakt;  
 
 b. indien de vergunning onder beperkingen wordt verleend of daaraan voorschriften worden verbonden, binnen dertien weken na de verlening daarmee in overeenstemming te worden gebracht.     
-3.  De raad kan, op verzoek van degene die een melding heeft gedaan als bedoeld in het eerste lid, bepalen dat, in afwijking van het eerste lid, de in dat lid bedoelde stemrechten mogen worden uitgeoefend om de volle waarde van diens belegging te handhaven.   
+3.  De Autoriteit Consument en Markt kan, op verzoek van degene die een melding heeft gedaan als bedoeld in het eerste lid, bepalen dat, in afwijking van het eerste lid, de in dat lid bedoelde stemrechten mogen worden uitgeoefend om de volle waarde van diens belegging te handhaven.   
 
 ### Artikel  40  
 
-1.  De raad kan om gewichtige redenen op verzoek van degene die een melding heeft gedaan, ontheffing verlenen van het in artikel 34 gestelde verbod.   
+1.  De Autoriteit Consument en Markt kan om gewichtige redenen op verzoek van degene die een melding heeft gedaan, ontheffing verlenen van het in artikel 34, eerste lid, gestelde verbod.   
 2.  Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.   
-3.  Indien de raad na het verlenen van een ontheffing als bedoeld in het eerste lid ter zake van de betrokken melding mededeelt dat op grond van artikel 37, eerste lid, een vergunning is vereist, en de concentratie tot stand is gebracht voor de mededeling daarvan, dient de concentratie: 
+3.  Indien de Autoriteit Consument en Markt na het verlenen van een ontheffing als bedoeld in het eerste lid ter zake van de betrokken melding mededeelt dat op grond van artikel 37, eerste lid, een vergunning is vereist, en de concentratie tot stand is gebracht voor de mededeling daarvan, dient de concentratie: 
 
 a. indien niet binnen vier weken na die mededeling een vergunning is aangevraagd, dan wel de aanvraag om een vergunning wordt ingetrokken of de vergunning wordt geweigerd, binnen dertien weken ongedaan te worden gemaakt;  
 
@@ -579,39 +533,39 @@ b. indien de vergunning onder beperkingen wordt verleend of daaraan voorschrifte
 
 ### Artikel  42  
 
-1.  Een aanvraag om vergunning wordt ingediend bij de raad.   
+1.  Een aanvraag om vergunning wordt ingediend bij de Autoriteit Consument en Markt.   
 2.  Bij algemene maatregel van bestuur kan worden bepaald welke gegevens bij een aanvraag dienen te worden verstrekt.   
-3.  Door een onderneming bij de aanvraag verstrekte gegevens die door die onderneming als vertrouwelijk zijn aangemerkt, worden niet eerder openbaar gemaakt dan nadat een week is verstreken na de bekendmaking van de daartoe strekkende beschikking van de raad.   
-4.  Indien met betrekking tot de in het derde lid bedoelde beschikking van de raad een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is gedaan, wordt de termijn, genoemd in artikel 44, eerste lid, opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in artikel 93, eerste lid, is bekendgemaakt.   
-5.  Van een ontvangen aanvraag wordt door de raad zo spoedig mogelijk mededeling gedaan in de *Staatscourant*.   
+3.  Door een onderneming bij de aanvraag verstrekte gegevens die door die onderneming als vertrouwelijk zijn aangemerkt, worden niet eerder openbaar gemaakt dan nadat een week is verstreken na de bekendmaking van de daartoe strekkende beschikking van de Autoriteit Consument en Markt.   
+4.  Indien met betrekking tot de in het derde lid bedoelde beschikking van de Autoriteit Consument en Markt een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is gedaan, wordt de termijn, genoemd in artikel 44, eerste lid, opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in artikel 93, eerste lid, is bekendgemaakt.   
+5.  Van een ontvangen aanvraag wordt door de Autoriteit Consument en Markt zo spoedig mogelijk mededeling gedaan in de *Staatscourant*.   
 
 ### Artikel  43  
 
-Een onderneming verstrekt desgevraagd aan de raad de inlichtingen omtrent bedrijfsgegevens van die onderneming, die voor de beoordeling van een aanvraag om een vergunning redelijkerwijs nodig zijn.  
+Een onderneming verstrekt desgevraagd aan de Autoriteit Consument en Markt de inlichtingen omtrent bedrijfsgegevens van die onderneming, die voor de beoordeling van een aanvraag om een vergunning redelijkerwijs nodig zijn.  
 
 ### Artikel  44  
 
-1.  De raad geeft zijn beschikking op de aanvraag binnen dertien weken na ontvangst van die aanvraag. Het niet binnen dertien weken geven van een beschikking wordt gelijkgesteld met het verlenen van een vergunning.   
-2.  Indien een aanvraag is ingediend voordat blijkens een mededeling van de raad voor de desbetreffende concentratie een vergunning is vereist, wordt deze niet in behandeling genomen alvorens die mededeling is bekendgemaakt. De in het eerste lid genoemde termijn vangt aan op het moment van die bekendmaking.   
-3.  De beschikking wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de mededingingsautoriteit. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
+1.  De Autoriteit Consument en Markt geeft haar beschikking op de aanvraag binnen dertien weken na ontvangst van die aanvraag. Het niet binnen dertien weken geven van een beschikking wordt gelijkgesteld met het verlenen van een vergunning.   
+2.  Indien een aanvraag is ingediend voordat blijkens een mededeling van de Autoriteit Consument en Markt voor de desbetreffende concentratie een vergunning is vereist, wordt deze niet in behandeling genomen alvorens die mededeling is bekendgemaakt. De in het eerste lid genoemde termijn vangt aan op het moment van die bekendmaking.   
+3.  De beschikking wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
 4.  Van de beschikking wordt mededeling gedaan in de *Staatscourant*.   
 
 ### Artikel  45  
 
-De raad kan een vergunning intrekken indien de verstrekte gegevens zodanig onjuist waren dat op de aanvraag anders zou zijn beslist als de juiste gegevens wel bekend zouden zijn geweest.  
+De Autoriteit Consument en Markt kan een vergunning intrekken indien de verstrekte gegevens zodanig onjuist waren dat op de aanvraag anders zou zijn beslist als de juiste gegevens wel bekend zouden zijn geweest.  
 
 ### Artikel  46  
 
-1.  De raad kan om gewichtige redenen op verzoek van degene die een vergunning heeft aangevraagd, ontheffing verlenen van het in artikel 41, eerste lid, gestelde verbod tot op die aanvraag onherroepelijk is beslist.   
+1.  De Autoriteit Consument en Markt kan om gewichtige redenen op verzoek van degene die een vergunning heeft aangevraagd, ontheffing verlenen van het in artikel 41, eerste lid, gestelde verbod tot op die aanvraag onherroepelijk is beslist.   
 2.  Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.   
 3.  Indien nadat een ontheffing is verleend als bedoeld in het eerste lid de aanvraag om een vergunning wordt ingetrokken of de vergunning wordt geweigerd, dient de concentratie, voor zover deze dan reeds is tot stand gebracht, binnen dertien weken ongedaan te worden gemaakt.   
 4.  Indien de vergunning onder beperkingen wordt verleend of daaraan voorschriften worden verbonden, dient de concentratie, voor zover deze dan reeds is tot stand gebracht, binnen dertien weken daarmee in overeenstemming te worden gebracht.   
 
 ### Artikel  47  
 
-1.  Onze Minister kan, nadat de raad een vergunning voor het tot stand brengen van een concentratie heeft geweigerd, op een daartoe strekkende aanvraag besluiten die vergunning te verlenen indien naar zijn oordeel gewichtige redenen van algemeen belang die zwaarder wegen dan de te verwachten belemmering van de mededinging, daartoe nopen.   
-2.  Een aanvraag als bedoeld in het eerste lid kan worden gedaan tot vier weken nadat de beschikking van de raad om een vergunning te weigeren onherroepelijk is geworden.   
-3.  Indien een aanvraag als bedoeld in het eerste lid is gedaan wordt de behandeling van beroepschriften inzake de beschikking van de raad opgeschort, totdat op die aanvraag onherroepelijk is beslist.   
+1.  Onze Minister kan, nadat de Autoriteit Consument en Markt een vergunning voor het tot stand brengen van een concentratie heeft geweigerd, op een daartoe strekkende aanvraag besluiten die vergunning te verlenen indien naar zijn oordeel gewichtige redenen van algemeen belang die zwaarder wegen dan de te verwachten belemmering van de mededinging, daartoe nopen.   
+2.  Een aanvraag als bedoeld in het eerste lid kan worden gedaan tot vier weken nadat de beschikking van de Autoriteit Consument en Markt om een vergunning te weigeren onherroepelijk is geworden.   
+3.  Indien een aanvraag als bedoeld in het eerste lid is gedaan wordt de behandeling van beroepschriften inzake de beschikking van de Autoriteit Consument en Markt opgeschort, totdat op die aanvraag onherroepelijk is beslist.   
 
 ### Artikel  48  
 
@@ -628,21 +582,21 @@ Bij algemene maatregel van bestuur kan worden bepaald welke gegevens bij een tot
 
 ### Artikel  49a  
 
-1.  Een onderneming of een ondernemersvereniging kan voor het opmaken van een rapport als bedoeld in artikel 59, of indien een rapport is vastgesteld, tot het moment waarop een beslissing als bedoeld in artikel 62 is genomen bij de raad een aanvraag doen tot het nemen van een besluit waarmee de raad een in die aanvraag opgenomen toezegging voor de onderneming of de ondernemersvereniging bindend verklaart opdat: 
+1.  Een onderneming of een ondernemersvereniging kan voor het opmaken van een rapport als bedoeld in artikel 59, of indien een rapport is vastgesteld, tot het moment waarop een beslissing als bedoeld in artikel 62 is genomen bij de Autoriteit Consument en Markt een aanvraag doen tot het nemen van een besluit waarmee de Autoriteit Consument en Markt een in die aanvraag opgenomen toezegging voor de onderneming of de ondernemersvereniging bindend verklaart opdat: 
 
 a. wordt voorkomen dat zal worden gehandeld in strijd met artikel 6, eerste lid, of 24, eerste lid, of  
 
 b. het handelen in strijd met artikel 6, eerste lid, of 24, eerste lid wordt gestaakt.     
-2.  De raad kan een besluit als bedoeld in het eerste lid nemen indien naar het oordeel van de raad: 
+2.  De Autoriteit Consument en Markt kan een besluit als bedoeld in het eerste lid nemen indien naar het oordeel van de Autoriteit Consument en Markt: 
 
 a. verzekerd is dat de onderneming of ondernemersvereniging als gevolg van het besluit zal handelen in overeenstemming met artikel 6, eerste lid, of 24, eerste lid,  
 
 b. de onderneming of de ondernemersvereniging aannemelijk maakt dat zij het besluit op controleerbare wijze zal naleven, en  
 
 c. in een concreet geval het nemen van het besluit uit een oogpunt van handhaving van de wet doelmatiger is dan het opleggen van een bestuurlijke boete of een last onder dwangsom.     
-3.  Bij een besluit als bedoeld in het eerste lid, besluit de raad tevens geen onderzoek te starten, een reeds ingesteld onderzoek niet langer voort te zetten, geen rapport op te maken of af te zien van het opleggen van een bestuurlijke boete of een last onder dwangsom. Het besluit bevat geen oordeel over de verenigbaarheid van het gedrag van de onderneming of de ondernemersvereniging met het bepaalde bij of krachtens deze wet.   
-4.  Nadat de raad een besluit als bedoeld in het eerste lid heeft genomen gedraagt de onderneming of de ondernemersvereniging zich overeenkomstig dat besluit.   
-5.  Een besluit als bedoeld in het eerste lid, wordt voor een bepaalde periode gegeven. De raad kan besluiten het besluit telkens voor een bepaalde periode te verlengen.   
+3.  Bij een besluit als bedoeld in het eerste lid, besluit de Autoriteit Consument en Markt tevens geen onderzoek te starten, een reeds ingesteld onderzoek niet langer voort te zetten, geen rapport op te maken of af te zien van het opleggen van een bestuurlijke boete of een last onder dwangsom. Het besluit bevat geen oordeel over de verenigbaarheid van het gedrag van de onderneming of de ondernemersvereniging met het bepaalde bij of krachtens deze wet.   
+4.  Nadat de Autoriteit Consument en Markt een besluit als bedoeld in het eerste lid heeft genomen gedraagt de onderneming of de ondernemersvereniging zich overeenkomstig dat besluit.   
+5.  Een besluit als bedoeld in het eerste lid, wordt voor een bepaalde periode gegeven. De Autoriteit Consument en Markt kan besluiten het besluit telkens voor een bepaalde periode te verlengen.   
 
 ### Artikel  49b  
 
@@ -650,19 +604,19 @@ Op de voorbereiding van een besluit als bedoeld in artikel 49a, eerste lid, of e
 
 ### Artikel  49c  
 
-1.  Nadat de raad een besluit als bedoeld in artikel 49a, eerste lid, of een besluit tot verlenging als bedoeld in artikel 49a, vijfde lid, tweede volzin, heeft genomen kan hij alsnog een onderzoek instellen indien: 
+1.  Nadat de Autoriteit Consument en Markt een besluit als bedoeld in artikel 49a, eerste lid, of een besluit tot verlenging als bedoeld in artikel 49a, vijfde lid, tweede volzin, heeft genomen kan zij alsnog een onderzoek instellen indien: 
 
 a. er een wezenlijke verandering is opgetreden in de feiten waarop het besluit berust,  
 
 b. het besluit berust op door de onderneming of de ondernemersvereniging verstrekte onvolledige, onjuiste of misleidende gegevens, of  
 
 c. de onderneming of de ondernemersvereniging handelt in strijd met artikel 49a, vierde lid.     
-2.  De raad kan gedurende het onderzoek, bedoeld in het eerste lid, een besluit als bedoeld in artikel 49a, eerste lid, of een besluit tot verlenging als bedoeld in artikel 49a, vijfde lid, tweede volzin, intrekken dan wel wijzigen.   
+2.  De Autoriteit Consument en Markt kan gedurende het onderzoek, bedoeld in het eerste lid, een besluit als bedoeld in artikel 49a, eerste lid, of een besluit tot verlenging als bedoeld in artikel 49a, vijfde lid, tweede volzin, intrekken dan wel wijzigen.   
 3.  Op de voorbereiding van een besluit tot wijziging als bedoeld in het tweede lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 
 ### Artikel  49d  
 
-1.  Een besluit als bedoeld in artikel 49a, eerste lid, of een besluit tot verlenging als bedoeld in artikel 49a, vijfde lid, tweede volzin, wordt, nadat het is bekendgemaakt, ter inzage gelegd bij de mededingingsautoriteit. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
+1.  Een besluit als bedoeld in artikel 49a, eerste lid, of een besluit tot verlenging als bedoeld in artikel 49a, vijfde lid, tweede volzin, wordt, nadat het is bekendgemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
 2.  Van het besluit wordt mededeling gedaan in de Staatscourant.   
 
 ### Hoofdstuk  6  
@@ -675,8 +629,8 @@ c. de onderneming of de ondernemersvereniging handelt in strijd met artikel 49a,
 
 ### Artikel  50  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de raad aangewezen ambtenaren van de mededingingsautoriteit.   
-2.  De krachtens het eerste lid aangewezen ambtenaren beschikken met het oog op de toepassing van de bevoegdheid van de raad, bedoeld in artikel 9, eerste lid, artikel 13, tweede lid, artikel 15, tweede lid, en artikel 89a, eerste lid, over de bevoegdheden, die hun zijn toegekend ter uitoefening van het toezicht.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt.   
+2.  De krachtens het eerste lid aangewezen ambtenaren beschikken met het oog op de toepassing van de bevoegdheid van de Autoriteit Consument en Markt, bedoeld in artikel 9, eerste lid, artikel 13, tweede lid, artikel 15, tweede lid, en artikel 89a, eerste lid, over de bevoegdheden, die hun zijn toegekend ter uitoefening van het toezicht.   
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  51  
@@ -715,7 +669,7 @@ De werkzaamheden in verband met het opleggen van een bestuurlijke boete of een l
 
 1.  Voor het betreden of het doorzoeken, bedoeld in artikel 55, eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.   
 2.  [Artikel 171 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
-3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
 4.  Het betreden of het doorzoeken vindt plaats onder toezicht van de rechter-commissaris.   
 5.  De [artikelen 2](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) en [3 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) zijn niet van toepassing.   
 
@@ -768,14 +722,14 @@ g. de namen of nummers en de hoedanigheid van de overige personen die zijn binne
 
 ### Artikel  56  
 
-1.  Ingeval van overtreding van artikel 6, eerste lid, of van artikel 24, eerste lid, kan de raad de overtreder: 
+1.  Ingeval van overtreding van artikel 6, eerste lid, of van artikel 24, eerste lid, kan de Autoriteit Consument en Markt de overtreder: 
 
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen;  
 
 c. een bindende aanwijzing tot naleving van deze wet opleggen.     
-2.  Ingeval van overtreding van een bindende aanwijzing als bedoeld in het eerste lid, onder c, kan de raad de overtreder een bestuurlijke boete of een last onder dwangsom opleggen.   
+2.  Ingeval van overtreding van een bindende aanwijzing als bedoeld in het eerste lid, onder c, kan de Autoriteit Consument en Markt de overtreder een bestuurlijke boete of een last onder dwangsom opleggen.   
 
 ### Artikel  57  
 
@@ -784,8 +738,8 @@ c. een bindende aanwijzing tot naleving van deze wet opleggen.
 
 ### Artikel  58  
 
-1.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad.   
-2.  Een last geldt voor een door de raad te bepalen termijn van ten hoogste twee jaren.   
+1.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
+2.  Een last geldt voor een door de Autoriteit Consument en Markt te bepalen termijn van ten hoogste twee jaren.   
 
 ### Artikel  58a  
 
@@ -798,13 +752,13 @@ c. een bindende aanwijzing tot naleving van deze wet opleggen.
 
 ### Artikel  59  
 
-1.  Indien de raad na afloop van het onderzoek een redelijk vermoeden heeft dat een overtreding als bedoeld in artikel 56 is begaan en dat daarvoor een bestuurlijke boete of een last onder dwangsom dient te worden opgelegd, doet hij een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) opmaken.   
+1.  Indien de Autoriteit Consument en Markt na afloop van het onderzoek een redelijk vermoeden heeft dat een overtreding als bedoeld in artikel 56 is begaan en dat daarvoor een bestuurlijke boete of een last onder dwangsom dient te worden opgelegd, doet zij een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) opmaken.   
 2.  Voor zover het rapport strekt ter voorbereiding van het opleggen van een last onder dwangsom, is [afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 3.  Van hetgeen mondeling naar voren is gebracht bij het geven van een zienswijze ten aanzien van het rapport wordt een verslag gemaakt.   
 
 ### Artikel  59a  
 
-1.  Alvorens een bestuurlijke boete op te leggen kan de boekhouding van de onderneming of de ondernemersvereniging door bij besluit van de raad aangewezen ambtenaren van de mededingingsautoriteit worden onderzocht teneinde de voor de oplegging van de bestuurlijke boete in aanmerking te nemen financiële gegevens te kunnen bepalen.   
+1.  Alvorens een bestuurlijke boete op te leggen kan de boekhouding van de onderneming of de ondernemersvereniging door bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt worden onderzocht teneinde de voor de oplegging van de bestuurlijke boete in aanmerking te nemen financiële gegevens te kunnen bepalen.   
 2.  De in het eerste lid bedoelde ambtenaren kunnen zich ten behoeve van het onderzoek, bedoeld in het eerste lid, laten bijstaan door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 3.  De onderneming of de ondernemersvereniging is verplicht medewerking te verlenen aan een onderzoek als bedoeld in het eerste lid.   
 
@@ -814,7 +768,7 @@ c. een bindende aanwijzing tot naleving van deze wet opleggen.
 
 ### Artikel  62  
 
-In afwijking van [artikel 5:51, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), beslist de raad omtrent het opleggen van een bestuurlijke boete of een last onder dwangsom binnen acht maanden na dagtekening van het rapport.  
+In afwijking van [artikel 5:51, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), beslist de Autoriteit Consument en Markt omtrent het opleggen van een bestuurlijke boete of een last onder dwangsom binnen acht maanden na dagtekening van het rapport.  
 
 ### Artikel  63  
 
@@ -822,13 +776,13 @@ De werking van een beschikking als bedoeld in artikel 56 wordt, voor zover daarb
 
 ### Artikel  64  
 
-1.  De vervaltermijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt telkens gestuit door een handeling van de mededingingsautoriteit ter verrichting van een onderzoek of procedure met betrekking tot de overtreding, alsmede door een dergelijke handeling van de Commissie van de Europese Gemeenschappen of van een mededingingsautoriteit van een andere lidstaat van de Europese Unie met betrekking tot een overtreding van de artikelen 81 en 82 van het Verdrag.   
+1.  De vervaltermijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt telkens gestuit door een handeling van de Autoriteit Consument en Markt ter verrichting van een onderzoek of procedure met betrekking tot de overtreding, alsmede door een dergelijke handeling van de Commissie van de Europese Gemeenschappen of van een mededingingsautoriteit van een andere lidstaat van de Europese Unie met betrekking tot een overtreding van de artikelen 81 en 82 van het Verdrag.   
 2.  De stuiting van de vervaltermijn gaat in op de dag waarop tenminste één onderneming of ondernemersvereniging die aan de overtreding heeft deelgenomen, dan wel één van degenen, bedoeld in [artikel 51, tweede lid, onder 2° van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), van de handeling schriftelijk in kennis wordt gesteld.   
 3.  Op het moment van stuiting vangt de vervaltermijn opnieuw aan. De bevoegdheid, bedoeld in het eerste lid vervalt echter uiterlijk tien jaren nadat de overtreding heeft plaatsgevonden, verlengd met de periode waarin de vervaltermijn ingevolge [artikel 5:45, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt opgeschort.   
 
 ### Artikel  65  
 
-1.  Een beschikking waarbij een bestuurlijke boete of een last onder dwangsom als bedoeld in artikel 56 wordt opgelegd wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de mededingingsautoriteit. De beschikking wordt niet eerder ter inzage gelegd, dan nadat vijf dagen zijn verstreken na de bekendmaking van de beschikking.   
+1.  Een beschikking waarbij een bestuurlijke boete of een last onder dwangsom als bedoeld in artikel 56 wordt opgelegd wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt. De beschikking wordt niet eerder ter inzage gelegd, dan nadat vijf dagen zijn verstreken na de bekendmaking van de beschikking.   
 2.  Van de beschikking wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd. Van de beschikking wordt niet eerder mededeling gedaan, dan nadat vijf dagen zijn verstreken na de bekendmaking van de beschikking.   
 
 ### §  4  
@@ -837,8 +791,8 @@ De werking van een beschikking als bedoeld in artikel 56 wordt, voor zover daarb
 
 ### Artikel  66  
 
-1.  De raad kan een last onder dwangsom wijzigen of intrekken.   
-2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de raad, alvorens toepassing te geven aan het eerste lid, de overtreder in de gelegenheid schriftelijk of mondeling zijn zienswijze kenbaar te maken.   
+1.  De Autoriteit Consument en Markt kan een last onder dwangsom wijzigen of intrekken.   
+2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de Autoriteit Consument en Markt, alvorens toepassing te geven aan het eerste lid, de overtreder in de gelegenheid schriftelijk of mondeling zijn zienswijze kenbaar te maken.   
 
 ### §  5  
 
@@ -854,8 +808,8 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 
 ### Artikel  68a  
 
-1.  Ingeval de bestuurlijke boete is opgelegd aan een ondernemersvereniging, kan de raad bij gebreke van betaling binnen de in [artikel 4:112, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn als gevolg van insolventie van de ondernemersvereniging, bij elke onderneming waarvan een vertegenwoordiger deel uitmaakte van het betrokken besluitvormende orgaan van de ondernemersvereniging op het tijdstip dat de beslissing tot het maken van de overtreding werd genomen, de bestuurlijke boete invorderen.   
-2.  Indien na invordering overeenkomstig het eerste lid, de bestuurlijke boete niet volledig is betaald, kan de raad van elk van de bij de ondernemersvereniging aangesloten ondernemingen die op de markt waarop de overtreding is begaan in de desbetreffende periode werkzaam waren, het resterende bedrag vorderen.   
+1.  Ingeval de bestuurlijke boete is opgelegd aan een ondernemersvereniging, kan de Autoriteit Consument en Markt bij gebreke van betaling binnen de in [artikel 4:112, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn als gevolg van insolventie van de ondernemersvereniging, bij elke onderneming waarvan een vertegenwoordiger deel uitmaakte van het betrokken besluitvormende orgaan van de ondernemersvereniging op het tijdstip dat de beslissing tot het maken van de overtreding werd genomen, de bestuurlijke boete invorderen.   
+2.  Indien na invordering overeenkomstig het eerste lid, de bestuurlijke boete niet volledig is betaald, kan de Autoriteit Consument en Markt van elk van de bij de ondernemersvereniging aangesloten ondernemingen die op de markt waarop de overtreding is begaan in de desbetreffende periode werkzaam waren, het resterende bedrag vorderen.   
 3.  Bij toepassing van het eerste en het tweede lid kan van elke onderneming geen hoger bedrag worden gevorderd dan 10% van de omzet over het boekjaar voorafgaande aan de beschikking.   
 4.  Een onderneming waarvan op grond van het eerste of tweede lid een bestuurlijke boete wordt gevorderd, is niet verplicht tot betaling indien zij aantoont dat zij de beslissing van de ondernemersvereniging tot het begaan van de overtreding niet heeft uitgevoerd en zij hetzij niet op de hoogte was van die beslissing hetzij actief afstand heeft genomen van die beslissing voordat het onderzoek naar de overtreding was aangevangen.   
 
@@ -869,12 +823,12 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 
 ### Artikel  69  
 
-1.  De raad kan degene die jegens de in artikel 50, eerste lid, artikel 52, eerste lid, of artikel 89g, eerste lid, bedoelde ambtenaren in strijd handelt met artikel 59a, derde lid, 77a, derde lid, of met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.   
+1.  De Autoriteit Consument en Markt kan degene die jegens de in artikel 50, eerste lid, artikel 52, eerste lid, of artikel 89g, eerste lid, bedoelde ambtenaren in strijd handelt met artikel 59a, derde lid, 77a, derde lid, of met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.   
 2.  [Artikel 184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing op de in het eerste lid bedoelde overtreding.   
 
 ### Artikel  70  
 
-Ingeval de in artikel 69, eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de raad een last onder dwangsom opleggen om inzage te verlenen in in die last aangegeven zakelijke gegevens en bescheiden.  
+Ingeval de in artikel 69, eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de Autoriteit Consument en Markt een last onder dwangsom opleggen om inzage te verlenen in in die last aangegeven zakelijke gegevens en bescheiden.  
 
 ### §  1a  
 
@@ -882,7 +836,7 @@ Ingeval de in artikel 69, eerste lid, bedoelde overtreding een weigering inhoudt
 
 ### Artikel  70a  
 
-De raad kan ingeval van overtreding van artikel 25b, eerste of tweede lid, of van artikel 25e, eerste volzin, de overtreder: 
+De Autoriteit Consument en Markt kan ingeval van overtreding van artikel 25b, eerste of tweede lid, of van artikel 25e, eerste volzin, de overtreder: 
 
 a. een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking;  
 
@@ -894,7 +848,7 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  70b  
 
-1.  De raad kan degene, die een verzegeling als bedoeld in artikel 54, eerste lid, verbreekt, opheft of beschadigt, of de door de verzegeling bedoelde afsluiting op andere wijze verijdelt, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.   
+1.  De Autoriteit Consument en Markt kan degene, die een verzegeling als bedoeld in artikel 54, eerste lid, verbreekt, opheft of beschadigt, of de door de verzegeling bedoelde afsluiting op andere wijze verijdelt, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.   
 2.  [Artikel 199 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing op de in het eerste lid bedoelde overtreding.   
 
 ### §  1c  
@@ -903,12 +857,12 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  70c  
 
-1.  De raad kan ingeval van overtreding van artikel 25i, eerste lid, 25j, eerste lid, artikel 25k of artikel 25l: 
+1.  De Autoriteit Consument en Markt kan ingeval van overtreding van artikel 25i, eerste lid, 25j, eerste lid, artikel 25k of artikel 25l: 
 
-a. verklaren dat hij de overtreding heeft vastgesteld, of  
+a. verklaren dat zij de overtreding heeft vastgesteld, of  
 
 b. de overtreder een last onder dwangsom opleggen.     
-2.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad.   
+2.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
 
 ### §  2  
 
@@ -916,21 +870,21 @@ b. de overtreder een last onder dwangsom opleggen.
 
 ### Artikel  71  
 
-Indien op grond van artikel 40, tweede lid, of van artikel 46, tweede lid, aan een ontheffing als in het desbetreffende artikel bedoeld verbonden voorschriften niet worden nageleefd, kan de raad de overtreder een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
+Indien op grond van artikel 40, tweede lid, of van artikel 46, tweede lid, aan een ontheffing als in het desbetreffende artikel bedoeld verbonden voorschriften niet worden nageleefd, kan de Autoriteit Consument en Markt de overtreder een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
 
 ### Artikel  72  
 
-De raad kan degene die, in strijd handelt met artikel 43, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
+De Autoriteit Consument en Markt kan degene die, in strijd handelt met artikel 43, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
 
 ### Artikel  73  
 
-De raad kan degene die onjuiste of onvolledige gegevens verstrekt bij een melding van een concentratie op grond van artikel 34 of bij een aanvraag om een vergunning voor het tot stand brengen van een concentratie als bedoeld in artikel 41, eerste lid, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
+De Autoriteit Consument en Markt kan degene die onjuiste of onvolledige gegevens verstrekt bij een melding van een concentratie op grond van artikel 34, eerste lid, of bij een aanvraag om een vergunning voor het tot stand brengen van een concentratie als bedoeld in artikel 41, eerste lid, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
 
 ### Artikel  74  
 
-De raad kan ingeval van overtreding van: 
+De Autoriteit Consument en Markt kan ingeval van overtreding van: 
 
-1°. artikel 34,  
+1°. artikel 34, eerste lid,  
 
 2°. artikel 39, tweede lid, onder a of b,  
 
@@ -946,7 +900,7 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  75  
 
-Indien op grond van artikel 37, vierde lid, opgelegde voorwaarden niet worden nageleefd of op grond van artikel 41 aan een vergunning verbonden voorschriften niet worden nageleefd, kan de raad de overtreder: 
+Indien op grond van artikel 37, vierde lid, opgelegde voorwaarden niet worden nageleefd of op grond van artikel 41 aan een vergunning verbonden voorschriften niet worden nageleefd, kan de Autoriteit Consument en Markt de overtreder: 
 
 a. een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking;  
 
@@ -966,7 +920,7 @@ Artikel 57, tweede lid, is van toepassing ten aanzien van het opleggen van een b
 
 ### Artikel  76a  
 
-De raad kan in geval van overtreding van artikel 49a, vierde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
+De Autoriteit Consument en Markt kan in geval van overtreding van artikel 49a, vierde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.  
 
 ### §  3  
 
@@ -979,7 +933,7 @@ De raad kan in geval van overtreding van artikel 49a, vierde lid, de overtreder
 
 ### Artikel  77a  
 
-1.  Alvorens een bestuurlijke boete op te leggen kan de boekhouding van de onderneming of de ondernemersvereniging door bij besluit van de raad aangewezen ambtenaren van de mededingingsautoriteit worden onderzocht teneinde de voor de oplegging van de bestuurlijke boete in aanmerking te nemen financiële gegevens te kunnen bepalen.   
+1.  Alvorens een bestuurlijke boete op te leggen kan de boekhouding van de onderneming of de ondernemersvereniging door bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt worden onderzocht teneinde de voor de oplegging van de bestuurlijke boete in aanmerking te nemen financiële gegevens te kunnen bepalen.   
 2.  De in het eerste lid bedoelde ambtenaren kunnen zich ten behoeve van het onderzoek, bedoeld in het eerste lid, laten bijstaan door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 3.  De onderneming of de ondernemersvereniging is verplicht medewerking te verlenen aan een onderzoek als bedoeld in het eerste lid.   
 
@@ -998,7 +952,7 @@ De bevoegdheid tot het opleggen van een last onder dwangsom als bedoeld in artik
 
 ### Artikel  82b  
 
-1.  Een beschikking waarbij een verklaring of een last onder dwangsom als bedoeld in artikel 70c wordt opgelegd wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de mededingingsautoriteit. De beschikking wordt niet eerder ter inzage gelegd, dan nadat vijf dagen zijn verstreken na de bekendmaking van de beschikking.   
+1.  Een beschikking waarbij een verklaring of een last onder dwangsom als bedoeld in artikel 70c wordt opgelegd wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt. De beschikking wordt niet eerder ter inzage gelegd, dan nadat vijf dagen zijn verstreken na de bekendmaking van de beschikking.   
 2.  Van de beschikking wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd. Van de beschikking wordt niet eerder mededeling gedaan, dan nadat vijf dagen zijn verstreken na de bekendmaking van de beschikking.   
 
 ### Hoofdstuk  9  
@@ -1007,14 +961,14 @@ De bevoegdheid tot het opleggen van een last onder dwangsom als bedoeld in artik
 
 ### Artikel  83  
 
-1.  De raad kan een voorlopige last onder dwangsom opleggen, indien naar zijn voorlopig oordeel aannemelijk is dat artikel 6, eerste lid, artikel 24, eerste lid, of artikel 41, eerste lid, is overtreden, en onverwijlde spoed, gelet op de belangen van de door de overtreding getroffen ondernemingen of het belang van instandhouding van een daadwerkelijke mededinging, dat vereist.   
+1.  De Autoriteit Consument en Markt kan een voorlopige last onder dwangsom opleggen, indien naar haar voorlopig oordeel aannemelijk is dat artikel 6, eerste lid, artikel 24, eerste lid, of artikel 41, eerste lid, is overtreden, en onverwijlde spoed, gelet op de belangen van de door de overtreding getroffen ondernemingen of het belang van instandhouding van een daadwerkelijke mededinging, dat vereist.   
 2.  Een voorlopige last verplicht de overtreder, tot het verrichten of nalaten van in die last omschreven feitelijke gedragingen of rechtshandelingen.   
 3.  [Afdeling 5.3.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing op de voorlopige last onder dwangsom.   
 
 ### Artikel  84  
 
-1.  De raad deelt zijn voornemen een voorlopige last op te leggen schriftelijk en met redenen omkleed mee aan de overtreder.   
-2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de raad de overtreder in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken over het in het eerste lid bedoelde voornemen.   
+1.  De Autoriteit Consument en Markt deelt haar voornemen een voorlopige last op te leggen schriftelijk en met redenen omkleed mee aan de overtreder.   
+2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de Autoriteit Consument en Markt de overtreder in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken over het in het eerste lid bedoelde voornemen.   
 
 ### Artikel  85  
 
@@ -1030,7 +984,7 @@ Op een beschikking omtrent een voorlopige last is artikel 65 van overeenkomstige
 
 ### Artikel  87  
 
-1.  De raad kan een voorlopige last opheffen of wijzigen.   
+1.  De Autoriteit Consument en Markt kan een voorlopige last opheffen of wijzigen.   
 2.  De artikelen 84, 85 en 86 zijn van overeenkomstige toepassing.   
 
 ### Hoofdstuk  10  
@@ -1039,7 +993,7 @@ Op een beschikking omtrent een voorlopige last is artikel 65 van overeenkomstige
 
 ### Artikel  88  
 
-De raad wordt aangemerkt als de mededingingsautoriteit voor Nederland in de zin van verordening 1/2003 en als bevoegde autoriteit in de zin van verordening 139/2004 en oefent de krachtens de verordeningen op grond van artikel 83 van het Verdrag bestaande bevoegdheid uit om de artikelen 81 en 82 van het Verdrag toe te passen, alsmede de krachtens artikel 84 van het Verdrag bestaande bevoegdheid om te beslissen over de toelaatbaarheid van mededingingsafspraken en over het misbruik maken van een machtspositie op de gemeenschappelijke markt.  
+De Autoriteit Consument en Markt wordt aangemerkt als de mededingingsautoriteit voor Nederland in de zin van verordening 1/2003 en als bevoegde autoriteit in de zin van verordening 139/2004 en oefent de krachtens de verordeningen op grond van artikel 83 van het Verdrag bestaande bevoegdheid uit om de artikelen 81 en 82 van het Verdrag toe te passen, alsmede de krachtens artikel 84 van het Verdrag bestaande bevoegdheid om te beslissen over de toelaatbaarheid van mededingingsafspraken en over het misbruik maken van een machtspositie op de gemeenschappelijke markt.  
 
 ### Artikel  89  
 
@@ -1047,7 +1001,7 @@ Ter zake van de uitoefening van de in artikel 88 bedoelde bevoegdheden zijn de h
 
 ### Artikel  89a  
 
-1.  De raad oefent de krachtens artikel 29, tweede lid, van verordening 1/2003 bestaande bevoegdheid uit tot het buiten toepassing verklaren van een groepsvrijstelling.   
+1.  De Autoriteit Consument en Markt oefent de krachtens artikel 29, tweede lid, van verordening 1/2003 bestaande bevoegdheid uit tot het buiten toepassing verklaren van een groepsvrijstelling.   
 2.  Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 3.  Een beschikking op grond van het eerste lid treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
@@ -1061,14 +1015,14 @@ Ter zake van de uitoefening van de in artikel 88 bedoelde bevoegdheden zijn de h
 
 1.  Voor het verlenen van de nodige bijstand indien een onderneming of ondernemersvereniging zich verzet tegen een inspectie op grond van een mededingingsverordening door de Commissie van de Europese Gemeenschappen is voor zover de inspectie een doorzoeking omvat, een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.   
 2.  De rechter-commissaris gaat bij de toetsing van het verzoek tot machtiging na of de voorgenomen dwangmaatregelen niet willekeurig zijn of onevenredig zijn in verhouding tot het voorwerp van de inspectie, zoals is bepaald in de mededingingsverordeningen en het gemeenschapsrecht. [Artikel 171 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
-3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
 4.  De rechter-commissaris kan bij de inspectie aanwezig zijn.   
 
 ### Artikel  89d  
 
 1.  Voor het uitvoeren van een inspectie als bedoeld in artikel 21, eerste lid, van verordening 1/2003 door de Commissie van de Europese Gemeenschappen in andere gebouwen, terreinen en vervoermiddelen dan die van ondernemingen en ondernemersverenigingen, waaronder de woningen van directeuren, bestuurders en andere personeelsleden, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.   
 2.  De rechter-commissaris toetst het verzoek tot machtiging overeenkomstig artikel 21, derde lid, van verordening 1/2003. [Artikel 171 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
-3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de raad binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
 4.  De rechter-commissaris kan bij de inspectie aanwezig zijn.   
 5.  Voor zover het een inspectie in een woning betreft, geldt dit artikel in afwijking van de [artikelen 2](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), [3](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) en [8 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).   
 
@@ -1111,28 +1065,12 @@ g. de namen of nummers en de hoedanigheid van de overige personen die aan de ins
 
 ### Artikel  89g  
 
-1.  Met het verrichten van een inspectie op grond van een mededingingsverordening door de mededingingsautoriteit op verzoek van de Commissie van de Europese Gemeenschappen of op verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie, zijn belast de krachtens artikel 50, eerste lid, aangewezen ambtenaren.   
+1.  Met het verrichten van een inspectie op grond van een mededingingsverordening door de Autoriteit Consument en Markt op verzoek van de Commissie van de Europese Gemeenschappen of op verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie, zijn belast de krachtens artikel 50, eerste lid, aangewezen ambtenaren.   
 2.  De aangewezen ambtenaren beschikken voor het verrichten van de inspectie over de bevoegdheden die hun ingevolge hoofdstuk 6 zijn toegekend ter uitoefening van toezicht en onderzoek.   
 
 ### Hoofdstuk  11  
 
 ####Gebruik van gegevens
-
-### Artikel  90  
-
-Gegevens of inlichtingen omtrent een onderneming, welke in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, met uitzondering van inlichtingen als bedoeld in artikel 28, eerste lid, van verordening 1/2003 en artikel 17, eerste lid, van verordening 139/2004, mogen uitsluitend voor de toepassing van deze wet, de mededingingsverordeningen, de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [Gaswet](../../../wet/gaswet/BWBR0011440/README.md) worden gebruikt.  
-
-### Artikel  91  
-
-In afwijking van artikel 90 is de raad bevoegd gegevens of inlichtingen, verkregen bij de uitoefening van de hem in deze wet opgedragen taken, te verstrekken aan: 
-
-1°. een buitenlandse instelling, die op grond van nationale wettelijke regels is belast met de toepassing van mededingingsregels, voor zover die gegevens of inlichtingen van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die instelling en de verstrekking ervan naar het oordeel van de raad in het belang is van de Nederlandse economie,  
-
-2°. een bestuursorgaan dat op grond van een andere wettelijke regeling dan deze wet is belast met taken die de toepassing of mede de toepassing van bepalingen omtrent mededinging betreffen, voor zover die gegevens of inlichtingen van betekenis zijn of kunnen zijn voor de uitoefening van de genoemde taken van dat bestuursorgaan,   mits 
-
-a. de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd, en  
-
-b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.    
 
 ### Hoofdstuk  12  
 
@@ -1141,12 +1079,12 @@ b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden g
 ### Artikel  92  
 
 1.  Over een bezwaar tegen een beschikking omtrent het opleggen van een bestuurlijke boete of een last onder dwangsom als bedoeld in artikel 56 adviseert een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De leden van de in het eerste lid bedoelde adviescommissie zijn niet werkzaam bij het Ministerie van Economische Zaken, Landbouw en Innovatie of bij de mededingingsautoriteit. Een lid van de raad kan evenmin deel uitmaken van een dergelijke adviescommissie.   
+2.  De leden van de in het eerste lid bedoelde adviescommissie zijn niet werkzaam bij het Ministerie van Economische Zaken, Landbouw en Innovatie of bij de Autoriteit Consument en Markt. Een lid van de Autoriteit Consument en Markt kan evenmin deel uitmaken van een dergelijke adviescommissie.   
 
 ### Artikel  93  
 
 1.  Een consumentenorganisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.   
-2.  De raad kan bij toepassing van [artikel 3.11, tweede lid van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in zaken waarbij een consumentenorganisatie als bedoeld in het derde lid belanghebbende is, om gewichtige redenen onderscheid maken tussen de overtreder en genoemde consumentenorganisatie bij de beoordeling van de vraag of op de zaak betrekking hebbende stukken of gedeelten van stukken ter inzage worden gelegd.   
+2.  De Autoriteit Consument en Markt kan bij toepassing van [artikel 3.11, tweede lid van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in zaken waarbij een consumentenorganisatie als bedoeld in het derde lid belanghebbende is, om gewichtige redenen onderscheid maken tussen de overtreder en genoemde consumentenorganisatie bij de beoordeling van de vraag of op de zaak betrekking hebbende stukken of gedeelten van stukken ter inzage worden gelegd.   
 
 ### Hoofdstuk  12a  
 

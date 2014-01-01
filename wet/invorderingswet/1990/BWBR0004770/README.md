@@ -35,9 +35,9 @@ aa.
 
 b. belastingrente en revisierente: de belastingrente en de revisierente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
 
-c. Communautair douanewetboek: verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (*PbEG* L 302);  
+c. Communautair douanewetboek: Verordening (EEG) nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG 1992, L 302);  
 
-d. toepassingsverordening Communautair douanewetboek: verordening (EEG) nr. 2454/93 van de Commissie van de Europese Gemeenschappen van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen tot vaststelling van het communautair douanewetboek (*PbEG* L 253);  
+d. toepassingsverordening Communautair douanewetboek: Verordening (EEG) nr. 2454/93 van de Commissie van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad tot vaststelling van het communautair douanewetboek (PbEG 1993, L 253);  
 
 e. compenserende rente: de compenserende rente, bedoeld in artikel 519 van de toepassingsverordening Communautair douanewetboek;  
 
@@ -86,7 +86,7 @@ b. ingeval een aanslagbiljet naast een of meer belastingaanslagen als bedoeld in
 
 1.  De ontvanger is belast met de invordering van de rijksbelastingen.   
 2.  In alle rechtsgedingen voortvloeiende uit de uitoefening van zijn taak treedt de ontvanger als zodanig in rechte op.   
-3.  In afwijking van het eerste lid kan Onze Minister van Economische Zaken, Landbouw en Innovatie bij ministeriële regeling de gevallen aanwijzen waarin de invordering van de belastingen, bedoeld in artikel 4, aanhef en onder 10 of 11, van het Communautair douanewetboek, geschiedt door een ander dan de ontvanger.   
+3.  In afwijking van het eerste lid kan Onze Minister van Economische Zaken bij ministeriële regeling de gevallen aanwijzen waarin de invordering van de belastingen, bedoeld in artikel 4, aanhef en onder 10 of 11, van het Communautair douanewetboek, geschiedt door een ander dan de ontvanger.   
 
 ### Artikel  3a  
 
@@ -122,8 +122,14 @@ d. de belastingaanslag.
 
 ### Artikel  7a  
 
-1.  Ingeval de belastingschuldige geen bankrekening heeft bestemd voor betaling van rijksbelastingen dan wel andere belastingen of heffingen voor zover de invordering daarvan is opgedragen aan de ontvanger betaalt de ontvanger op een bankrekening die op naam staat van de belastingschuldige.   
-2.  Het eerste lid is van overeenkomstige toepassing op andere door de ontvanger uit te betalen bedragen.   
+1.  In afwijking van [artikel 4:89, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt uitbetaling aan de belastingschuldige van inkomstenbelasting en omzetbelasting uitsluitend plaats op een daartoe door de belastingschuldige bestemde bankrekening die op naam staat van de belastingschuldige. De belastingschuldige kan niet meer dan één bankrekening bestemmen voor de uitbetaling van inkomstenbelasting en voor de in [artikel 25 van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) bedoelde uitbetaling van de hem toekomende voorschotten en tegemoetkomingen.   
+2.  Ingeval de belastingschuldige geen bankrekening heeft bestemd voor betaling van rijksbelastingen dan wel andere belastingen of heffingen voor zover de invordering daarvan is opgedragen aan de ontvanger betaalt de ontvanger op een bankrekening die op naam staat van de belastingschuldige.   
+3.  Het tweede lid is van overeenkomstige toepassing op andere door de ontvanger uit te betalen bedragen.   
+4.  In bij ministeriële regeling aan te wijzen gevallen kan worden afgeweken van het eerste lid. Daarbij worden regels gesteld met betrekking tot de bestemming van een andere bankrekening voor de uitbetaling van inkomstenbelasting en omzetbelasting.   
+
+### Artikel  7b  
+
+Een vordering op de ontvanger tot uitbetaling van een bedrag aan inkomstenbelasting is niet vatbaar voor vervreemding of verpanding. In afwijking van de eerste volzin is vervreemding of verpanding wel mogelijk aan een financiële onderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
 
 ### Hoofdstuk  II  
 
@@ -150,7 +156,16 @@ a. de belasting van personenauto’s en motorrijwielen, die is opgelegd aan een 
 b. de belasting zware motorrijtuigen, die is opgelegd aan de houder van een ander motorrijtuig dan bedoeld in [artikel 6, onderdeel *a*, van de Wet belasting zware motorrijtuigen](../../../../wet/wet/belasting/zware/motorrijtuigen/BWBR0007678/README.md).     
 9.  In afwijking van het vierde lid is een uitnodiging tot betaling die is vastgesteld overeenkomstig een op een kalendermaand betrekking hebbende, aanvullende aangifte als bedoeld in artikel 76, tweede lid, van het Communautair douanewetboek invorderbaar vijftien dagen na de maand waarover de aangifte is gedaan. In afwijking in zoverre van de eerste volzin is de uitnodiging tot betaling ter zake van de aangifte over de maand februari invorderbaar na zestien maart.   
 10.  De [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de in de voorgaande leden gestelde termijnen.   
-11.  De verplichting tot betaling wordt niet geschorst door de indiening van een bezwaar- of beroepschrift inzake een belastingaanslag.   
+11.  In afwijking van het eerste lid is een belastingaanslag die een uit te betalen bedrag behelst niet invorderbaar: 
+
+a. zolang over de juistheid van het adresgegeven van de belastingschuldige gerede twijfel bestaat of zolang dit gegeven ontbreekt;  
+
+b. indien er op het moment dat er na het tijdstip waarop de belastingschuld is ontstaan vijf jaren zijn verstreken: 
+
+1°. gerede twijfel bestaat over de juistheid van het adresgegeven van de belastingschuldige; of  
+
+2°. het adresgegeven van de belastingschuldige ontbreekt.       
+12.  De verplichting tot betaling wordt niet geschorst door de indiening van een bezwaar- of beroepschrift inzake een belastingaanslag.   
 
 ### Artikel  10  
 
@@ -308,11 +323,11 @@ f. de dividendbelasting;
 
 g. de kansspelbelasting ten laste van inhoudingsplichtigen; en  
 
-h. de assurantiebelasting, alsmede tegen de beslaglegging ter zake van: 
+h. de assurantiebelasting,   alsmede tegen de beslaglegging ter zake van: 
 
 - uitnodigingen tot betaling; en  
 
-- ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikkingen inzake belastingrente, inzake bestuurlijke boeten die worden opgelegd in verband met vorenbedoelde naheffingsaanslagen, inzake bestuurlijke boeten als bedoeld in [hoofdstuk 9 van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), inzake compenserende rente of inzake kosten van ambtelijke werkzaamheden,     indien de ingeoogste of nog niet ingeoogste vruchten, of roerende zaken tot stoffering van een huis of landhoef, of tot bebouwing of gebruik van het land, zich tijdens de beslaglegging op de bodem van de belastingschuldige bevinden.   
+- ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikkingen inzake belastingrente, inzake bestuurlijke boeten die worden opgelegd in verband met vorenbedoelde naheffingsaanslagen, inzake bestuurlijke boeten als bedoeld in [hoofdstuk 9 van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), inzake compenserende rente of inzake kosten van ambtelijke werkzaamheden,   indien de ingeoogste of nog niet ingeoogste vruchten, of roerende zaken tot stoffering van een huis of landhoef, of tot bebouwing of gebruik van het land, zich tijdens de beslaglegging op de bodem van de belastingschuldige bevinden.   
 
 ### Artikel  22bis  
 
@@ -376,7 +391,7 @@ b. de in artikel 27a, tweede lid, bedoelde betalingskorting met het uit te betal
 
 c. belastingaanslagen die een uit te betalen bedrag behelzen met belastingaanslagen die op dezelfde belasting en hetzelfde tijdvak betrekking hebben.     
 6.  De belastingschuldige kan binnen een week na de dagtekening van de in het vierde lid bedoelde kennisgeving waarmee de beschikking is bekendgemaakt beroep instellen bij de directeur. Het beroepschrift wordt ingediend bij de ontvanger tegen een door deze af te geven ontvangbewijs. De directeur neemt zo spoedig mogelijk een beslissing en maakt deze bekend aan de belastingschuldige door middel van een gedagtekende kennisgeving. Indien op het beroepschrift afwijzend wordt beslist, vindt verrekening niet eerder plaats dan nadat na de dagtekening van de kennisgeving waarmee de beslissing van de directeur is bekendgemaakt acht dagen zijn verstreken.   
-7.  Met betrekking tot het bedrag waarvoor krachtens artikel 25, derde tot en met zesde, achtste, negende, elfde tot en met veertiende, zestiende tot en met negentiende lid, uitstel van betaling is verleend, is gedurende het uitstel verrekening niet mogelijk, tenzij de belastingschuldige dit verzoekt.   
+7.  Met betrekking tot het bedrag waarvoor krachtens artikel 25, derde tot en met vijfde, achtste, negende, elfde tot en met veertiende, zestiende tot en met negentiende lid, uitstel van betaling is verleend, is gedurende het uitstel verrekening niet mogelijk, tenzij de belastingschuldige dit verzoekt.   
 8.  De ontvanger maakt de verrekening onverwijld bekend.   
 9.  In afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is verrekening ook mogelijk van een voorlopige aanslag tot een negatief bedrag als bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 
@@ -395,7 +410,7 @@ c. belastingaanslagen die een uit te betalen bedrag behelzen met belastingaansla
 7.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het verlenen van uitstel van betaling als bedoeld in artikel 224 van het Communautair douanewetboek.   
 8.  Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd ter zake van geconserveerd inkomen als bedoeld in [artikel 2.8, vierde, vijfde, zesde of zevende lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of ter zake van geconserveerd inkomen door de toepassing van [artikel 4.16, eerste lid, onderdeel h, van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of van [artikel 7.5, vierde, vijfde of zevende lid, van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Het in de eerste volzin bedoelde uitstel wordt verleend tot uiterlijk het begin van het tiende jaar na afloop van het kalenderjaar waarop de belastingaanslag betrekking heeft. De in de eerste volzin bedoelde regels kunnen mede betrekking hebben op het stellen van voldoende zekerheid. Het uitstel wordt beëindigd: 
 
-a. ingeval aandelen of winstbewijzen die aan het uitstel ten grondslag liggen, worden vervreemd in de zin van [artikel 4.12](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [4.16, eerste lid, onderdelen a tot en met g en i, tweede lid, derde lid of vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). In geval van een vervreemding in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een splitsing als bedoeld in [artikel 3.56 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of een fusie als bedoeld in [artikel 3.57 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan het uitstel van betaling onder nader te stellen voorwaarden worden voortgezet. In geval van een vervreemding in de zin van artikel 4.16, eerste lid, onderdelen e, f en g, van de Wet inkomstenbelasting 2001 of wegens een verdeling van een nalatenschap of een huwelijksgemeenschap binnen twee jaren na het overlijden van de erflater onderscheidenlijk na de ontbinding van de huwelijksgemeenschap, kan het uitstel van betaling eveneens onder nader te stellen voorwaarden worden voortgezet. In geval van schenking aan een natuurlijk persoon kan het uitstel van betaling eveneens onder nader te stellen voorwaarden worden voortgezet, mits de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de schenking in dienstbetrekking is van de vennootschap waarop de aandelen of winstbewijzen betrekking hebben;  
+a. ingeval aandelen of winstbewijzen die aan het uitstel ten grondslag liggen, worden vervreemd in de zin van de [artikelen 4.12](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [4.16, eerste lid, onderdelen a tot en met g, i of j, tweede lid, derde lid of vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). In geval van een vervreemding in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een splitsing als bedoeld in [artikel 3.56 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of een fusie als bedoeld in [artikel 3.57 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan het uitstel van betaling onder nader te stellen voorwaarden worden voortgezet. In geval van een vervreemding in de zin van artikel 4.16, eerste lid, onderdelen e, f en g, van de Wet inkomstenbelasting 2001 of wegens een verdeling van een nalatenschap of een huwelijksgemeenschap binnen twee jaren na het overlijden van de erflater onderscheidenlijk na de ontbinding van de huwelijksgemeenschap, kan het uitstel van betaling eveneens onder nader te stellen voorwaarden worden voortgezet. In geval van schenking aan een natuurlijk persoon kan het uitstel van betaling eveneens onder nader te stellen voorwaarden worden voortgezet, mits de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de schenking in dienstbetrekking is van de vennootschap waarop de aandelen of winstbewijzen betrekking hebben;  
 
 b. ingeval de vennootschap waarin de aandelen of winstbewijzen worden gehouden, haar onderneming geheel of nagenoeg geheel heeft gestaakt en haar reserves geheel of nagenoeg geheel heeft uitgekeerd, dan wel, ingeval geen onderneming is gedreven, haar reserves geheel of nagenoeg geheel heeft uitgekeerd;  
 
@@ -468,10 +483,25 @@ d. bij vervreemding van de blote eigendom;
 e. voor zover de onderbedelingsvordering, bedoeld in de eerste volzin, wordt afgelost.     
 21.  Voor de toepassing van het vierde, vijfde, zesde, achtste en zeventiende lid wordt de belastingrente en voor de toepassing van het vijfde lid wordt voorts de revisierente gelijkgesteld met de inkomstenbelasting waarmee deze samenhangen. Voor de toepassing van het negende, elfde, veertiende, zestiende en achttiende lid wordt de belastingrente voorzover deze samenhangt met de inkomstenbelasting waarvoor op de voet van die leden uitstel van betaling wordt verleend, gelijkgesteld met die belasting. Voor de toepassing van het twaalfde lid, wordt de belastingrente gelijkgesteld met de erfbelasting waarmee deze samenhangt. Voor de toepassing van het dertiende lid wordt de belastingrente voor zover deze samenhangt met de erfbelasting waarvoor op de voet van dat lid uitstel van betaling wordt verleend, gelijkgesteld met die belasting.   
 
+### Artikel  25a  
+
+1.  Op verzoek van een belastingschuldige die woont of is gevestigd in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte wordt onder bij ministeriële regeling te stellen regels uitstel van betaling verleend, mits voldoende zekerheid is gesteld, voor belastingaanslagen voor zover daarin is begrepen vennootschapsbelasting of inkomstenbelasting die betrekking heeft op voordelen ter zake van vermogensbestanddelen die bij de belastingschuldige bij het vaststellen van de belastingaanslag in aanmerking zijn genomen terwijl bij die belastingschuldige deze voordelen niet in aanmerking zouden zijn genomen ingeval deze ter zake van die vermogensbestanddelen voor de heffing van vennootschapsbelasting, onderscheidenlijk inkomstenbelasting, belastingplichtig in Nederland zou zijn gebleven. De in de eerste volzin bedoelde regels zien op de uitvoering van dit artikel, waaronder begrepen regels betreffende de administratieve verplichtingen.   
+2.  Het uitstel van betaling, bedoeld in het eerste lid, wordt beëindigd: 
+
+a. ingeval de belastingschuldige niet meer woont of is gevestigd in een lidstaat van de Europese Unie of in een staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte;  
+
+b. ingeval niet meer wordt voldaan aan de bij de in het eerste lid bedoelde ministeriële regeling gestelde regels;  
+
+c. ingeval niet meer voldoende zekerheid is gesteld, of  
+
+d. voor zover de in het eerste lid bedoelde voordelen ter zake van vermogensbestanddelen bij de belastingschuldige in aanmerking zouden zijn genomen indien hij belastingplichtig in Nederland zou zijn geweest.     
+3.  In afwijking van het tweede lid, onderdeel d, wordt op verzoek van de belastingschuldige het bedrag waarvoor op grond van het eerste lid uitstel van betaling is verkregen, in tien gelijke jaarlijkse termijnen voldaan waarvan de eerste termijn één maand na de dagtekening van het aanslagbiljet vervalt en elk van de volgende termijnen telkens een jaar later.   
+4.  De in het eerste en het derde lid bedoelde verzoeken worden gedaan tegelijk met de aangifte waarin een voordeel als bedoeld in het eerste lid is opgenomen.   
+
 ### Artikel  26  
 
 1.  Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige die niet in staat is anders dan met buitengewoon bezwaar een belastingaanslag geheel of gedeeltelijk te betalen, gehele of gedeeltelijke kwijtschelding kan worden verleend.   
-2.  Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige ter zake van belasting waarvoor op de voet van artikel 25, vijfde of achtste lid, uitstel van betaling is verleend, kwijtschelding van belasting kan worden verleend indien dit uitstel eindigt doordat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken. Kwijtschelding van belasting kan worden verleend tot een bedrag gelijk aan het nog openstaande bedrag nadat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken.   
+2.  Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige ter zake van belasting waarvoor op de voet van artikel 25, vijfde of achtste lid, uitstel van betaling is verleend, kwijtschelding van belasting kan worden verleend indien dit uitstel eindigt doordat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken. Kwijtschelding van belasting kan worden verleend tot een bedrag gelijk aan het nog openstaande bedrag nadat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken.    
 3.  Indien de ontvanger het op de voet van artikel 25, vijfde lid, verleende uitstel van betaling beëindigt omdat zich met betrekking tot een aanspraak uit een overeenkomst van levensverzekering of een aanspraak ingevolge een pensioenregeling een omstandigheid voordoet als bedoeld in artikel 25, vijfde lid, vierde volzin, kan krachtens bij ministeriële regeling te stellen regels aan de belastingschuldige kwijtschelding van belasting worden verleend voor zover: 
 
 a. die belasting hoger is dan de belasting die zou zijn geheven ter zake van de hiervoor bedoelde omstandigheid indien de belastingschuldige op het moment waarop die omstandigheid zich voordeed in Nederland zou hebben gewoond;  
@@ -485,9 +515,9 @@ a. indien de waarde in het economische verkeer van die aandelen of winstbewijzen
 b. indien het heffingsrecht wegens vervreemding van die aandelen of winstbewijzen ingevolge de [Belastingregeling voor het Koninkrijk](../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting aan een ander land van het Koninkrijk, aan een ander heffingsgebied binnen het Rijk, respectievelijk aan een andere mogendheid is toegewezen – tot een bedrag gelijk aan de aldaar ter zake van die vervreemding feitelijk geheven belasting;  
 
 c. voor zover de belasting waarvoor op de voet van artikel 25, achtste lid, uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van die vervreemding in Nederland zou hebben gewoond.   Het in de eerste volzin bedoelde bedrag aan kwijtschelding bedraagt niet meer dan het bedrag van de belasting waarvoor ter zake van de aandelen of winstbewijzen nog uitstel van betaling is verleend.   
-6.  Indien de ontvanger het op de voet van artikel 25, zesde lid, verleende uitstel van betaling beëindigt, kan volgens bij ministeriële regeling te stellen regels kwijtschelding worden verleend voor zover de belasting waarvoor op de voet van artikel 25, zesde lid, uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van de omstandigheid op grond waarvan het uitstel van betaling wordt beëindigd, in Nederland zou hebben gewoond.   
+6.   Vervallen.    
 7.  Voor de toepassing van dit artikel zijn de [artikelen 4.3 tot en met 4.5a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [artikel 2, derde lid, onderdeel f, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-8.  Voor de toepassing van het tweede lid worden de heffingsrente en de revisierente gelijkgesteld met de inkomstenbelasting waarmee deze samenhangen. Voor de toepassing van dit artikel wordt de heffingsrente voorzover deze samenhangt met de inkomstenbelasting waarvoor op de voet van dit artikel kwijtschelding wordt verleend, gelijkgesteld met die belasting.   
+8.  Voor de toepassing van het tweede lid worden de belastingrente en de revisierente gelijkgesteld met de inkomstenbelasting waarmee deze samenhangen. Voor de toepassing van dit artikel wordt de belastingrente voorzover deze samenhangt met de inkomstenbelasting waarvoor op de voet van dit artikel kwijtschelding wordt verleend, gelijkgesteld met die belasting.   
 
 ### Artikel  27  
 
@@ -508,8 +538,8 @@ c. voor zover de belasting waarvoor op de voet van artikel 25, achtste lid, uits
 
 1.  Bij overschrijding van de voor de belastingaanslag geldende enige of laatste betalingstermijn wordt aan de belastingschuldige rente – invorderingsrente – in rekening gebracht over het op de belastingaanslag openstaande bedrag met dien verstande dat invorderingsrente niet in rekening wordt gebracht voor zover met de belastingaanslag wordt verrekend een belastingaanslag die op dezelfde belasting en hetzelfde tijdvak betrekking heeft.   
 2.  De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag waarop de belastingaanslag invorderbaar is ingevolge artikel 9 en eindigt op de dag voorafgaand aan die van de betaling. Voor de toepassing van de eerste volzin blijft artikel 10 buiten toepassing.   
-3.  Invorderingsrente wordt niet in rekening gebracht over de tijd voor welke de belastingschuldige krachtens artikel 25, derde, vijfde, zesde, achtste, negende, elfde, zeventiende, achttiende of negentiende lid, uitstel van betaling is verleend en over de tijd voor welke hem uitstel van betaling is verleend als bedoeld in artikel 224 van het Communautair Douanewetboek.   
-4.  In afwijking in zoverre van het derde lid wordt invorderingsrente in rekening gebracht voor zover het krachtens artikel 25, vijfde, zesde, achtste, negende, elfde, zeventiende, achttiende of negentiende lid, verleende uitstel door de ontvanger wordt beëindigd of voor zover betaling niet plaatsvindt binnen de termijn waarvoor uitstel van betaling is verleend. Bij algemene maatregel van bestuur wordt het tijdvak bepaald waarover in deze situaties invorderingsrente wordt berekend.   
+3.  Invorderingsrente wordt niet in rekening gebracht over de tijd voor welke de belastingschuldige krachtens artikel 25, derde, vijfde, achtste, negende, elfde, zeventiende, achttiende of negentiende lid, uitstel van betaling is verleend en over de tijd voor welke hem uitstel van betaling is verleend als bedoeld in artikel 224 van het Communautair Douanewetboek.   
+4.  In afwijking in zoverre van het derde lid wordt invorderingsrente in rekening gebracht voor zover het krachtens artikel 25, vijfde, achtste, negende, elfde, zeventiende, achttiende of negentiende lid, verleende uitstel door de ontvanger wordt beëindigd of voor zover betaling niet plaatsvindt binnen de termijn waarvoor uitstel van betaling is verleend. Bij algemene maatregel van bestuur wordt het tijdvak bepaald waarover in deze situaties invorderingsrente wordt berekend.   
 
 ### Artikel  28a  
 
@@ -526,7 +556,7 @@ c. voor zover de belasting waarvoor op de voet van artikel 25, achtste lid, uits
 
 ### Artikel  29  
 
-Het percentage van de invorderingsrente is gelijk aan dat van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
+Het percentage van de invorderingsrente is gelijk aan dat van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt.  
 
 ### Artikel  30  
 
@@ -580,6 +610,13 @@ b. de in onderdeel a bedoelde derde, aan wie door een doorlener een werknemer te
 5.  De aansprakelijkheid op grond van het eerste lid geldt niet met betrekking tot de loonbelasting en de omzetbelasting verschuldigd door de uitlener, indien aannemelijk is dat het niet betalen door de uitlener noch aan hem noch aan een inlener is te wijten.   
 6.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de toepassing van het derde lid.   
 7.  Dit artikel is niet van toepassing indien de werkzaamheden die door de ter beschikking gestelde werknemer zijn verricht, ondergeschikt zijn aan een tussen de uitlener en de inlener, dan wel tussen de doorlener en de inlener, gesloten overeenkomst van koop en verkoop van een bestaande zaak.   
+
+### Artikel  34a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  De uitlener die op grond van [artikel 7a van de Wet allocatie arbeidskrachten door intermediairs](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md) gehouden is tot de in dat artikel bedoelde registratie in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), houdt, in afwijking in zoverre van artikel 57a, een depot aan bij de ontvanger. De eerste volzin vindt geen toepassing op een uitlener die is aangesloten bij een erkende certificerende instelling als bedoeld in de [Wet allocatie arbeidskrachten door intermediairs](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md), alsmede in bij algemene maatregel van bestuur aangewezen gevallen.   
+2.  Indien door een uitlener als bedoeld in het eerste lid personeel ter beschikking is gesteld, maakt de inlener, bedoeld in artikel 34, van dat personeel ten minste 35 percent van het bedrag van de factuur of nota die de uitlener hem ter zake van de geleverde prestatie of prestaties heeft doen toekomen over op de vrijwaringsrekening van de ontvanger ten behoeve van het depot van de uitlener.   
+3.  Een inlener die niet aan het bepaalde in het tweede lid voldoet is aansprakelijk voor de door de uitlener verschuldigde loonbelasting, omzetbelasting en socialeverzekeringspremies in verband met de terbeschikkingstelling van het personeel, waarbij het bedrag aan door de uitlener verschuldigde loonbelasting, omzetbelasting en socialeverzekeringspremies wordt gesteld op 35 percent van het ter zake van de geleverde prestatie of prestaties in rekening gebrachte bedrag, tenzij de inlener aannemelijk maakt dat het bedrag aan de door de uitlener verschuldigde loonbelasting, omzetbelasting en socialeverzekeringspremies ter zake van de terbeschikkingstelling van het personeel lager is. Indien de inlener niet volledig heeft voldaan aan het bepaalde in het tweede lid, wordt het bedrag waarvoor in eerste aanleg aansprakelijkheid is ontstaan verminderd met het door hem op de vrijwaringsrekening van de ontvanger ten behoeve van het depot van de uitlener overgemaakte bedrag.   
 
 ### Artikel  35  
 
@@ -654,7 +691,7 @@ c. indien een bestuurder van een lichaam een lichaam is in de zin van de [Algeme
 
 a. het niet aan hem is te wijten dat de in het eerste lid bedoelde belasting niet is voldaan, en  
 
-b. hij op het tijdstip waarop het feit plaatsvond dat aanleiding heeft gegeven tot de in [artikel 23a van de Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bedoelde toepassing van [artikel 19b, eerste lid, tweede lid, eerste volzin, of achtste lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) niet wist of redelijkerwijze moest vermoeden dat het lichaam de op de voet van genoemd [artikel 23a](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) verschuldigde belasting niet of niet geheel zou kunnen voldoen.     
+b. hij op het tijdstip waarop het feit plaatsvond dat aanleiding heeft gegeven tot de in [artikel 23a van de Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bedoelde toepassing van [artikel 19b, eerste lid of tweede lid, eerste volzin, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) niet wist of redelijkerwijze moest vermoeden dat het lichaam de op de voet van genoemd [artikel 23a](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) verschuldigde belasting niet of niet geheel zou kunnen voldoen.     
 
 ### Artikel  36b  
 
@@ -736,11 +773,7 @@ c. de ondernemer die tezamen met de op grond van de voorgaande bepalingen van di
 ### Artikel  43  
 
 1.  Natuurlijke personen en lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), die ingevolge [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn aangemerkt als één ondernemer, zijn hoofdelijk aansprakelijk voor de omzetbelasting welke verschuldigd is door deze ondernemer, dan wel - indien de inspecteur niet schriftelijk ervan in kennis is gesteld dat op grond van gewijzigde omstandigheden niet langer een eenheid bestaat als is bedoeld in die bepaling - door deze personen en lichamen.   
-2.  Indien aan de ondernemer bedoeld in het eerste lid een vermindering of teruggaaf van omzetbelasting wordt verleend, kan de ontvanger, met inachtneming van artikel 54, deze vermindering of teruggaaf bevrijdend voldoen aan één van de natuurlijke personen of lichamen bedoeld in het eerste lid.   
-
-### Artikel  43a  
-
-Artikel 43 is van overeenkomstige toepassing op de verpakkingenbelasting die is verschuldigd door een concern als bedoeld in [artikel 80, onderdeel g, van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).  
+2.  Indien aan de ondernemer bedoeld in het eerste lid een vermindering of teruggaaf van omzetbelasting wordt verleend, kan de ontvanger, in afwijking in zoverre van artikel 7a, eerste lid, en met inachtneming van artikel 54, deze vermindering of teruggaaf bevrijdend voldoen aan één van de natuurlijke personen of lichamen bedoeld in het eerste lid.   
 
 ### Artikel  44  
 
@@ -760,8 +793,8 @@ Artikel 43 is van overeenkomstige toepassing op de verpakkingenbelasting die is 
 
 ### Artikel  44b  
 
-1.  Indien ingevolge de toepassing van [artikel 19b, eerste lid, tweede lid, eerste volzin, of achtste lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) in verbinding met [artikel 3.81 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of van [artikel 3.83, eerste of tweede lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel [artikel 7.2, achtste lid, van de laatstgenoemde wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen, bedoeld in [artikel 11, eerste lid, onderdeel g](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), of de stamrechtspaarrekening of het stamrechtbeleggingsrecht, bedoeld in [artikel 11a van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) tot het loon wordt gerekend is de verzekeraar van die aanspraak tot ten hoogste de waarde in het economische verkeer daarvan aansprakelijk voor de belasting die terzake door de gerechtigde is verschuldigd, alsmede voor de revisierente die ingevolge [artikel 30i van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) in verband daarmee is verschuldigd.   
-2.  Het bedrag van de verschuldigde belasting wordt gesteld op het evenredig gedeelte van de belasting die meer is verschuldigd terzake van alle in het jaar ingevolge de toepassing van [artikel 19b, eerste lid, tweede lid, eerste volzin, of achtste lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) of van [artikel 3.83, eerste of tweede lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel [artikel 7.2, achtste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) tot loon gerekende aanspraken.   
+1.  Indien ingevolge de toepassing van [artikel 19b, eerste lid of tweede lid, eerste volzin, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) in verbinding met [artikel 3.81 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of van [artikel 3.83, eerste of tweede lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel [artikel 7.2, achtste lid, van de laatstgenoemde wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) de aanspraak ingevolge een pensioenregeling tot het loon wordt gerekend is de verzekeraar van die aanspraak tot ten hoogste de waarde in het economische verkeer daarvan aansprakelijk voor de belasting die terzake door de gerechtigde is verschuldigd, alsmede voor de revisierente die ingevolge [artikel 30i van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) in verband daarmee is verschuldigd.   
+2.  Het bedrag van de verschuldigde belasting wordt gesteld op het evenredig gedeelte van de belasting die meer is verschuldigd terzake van alle in het jaar ingevolge de toepassing van [artikel 19b, eerste lid of tweede lid, eerste volzin, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) of van [artikel 3.83, eerste of tweede lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel [artikel 7.2, achtste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) tot loon gerekende aanspraken.   
 3.  [Artikel 2.16, derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is van overeenkomstige toepassing.   
 4.  Zo spoedig mogelijk nadat de aansprakelijkheid ingevolge het eerste lid is ontstaan, wordt aan de verzekeraar schriftelijk mededeling gedaan van het bedrag waarvoor deze aansprakelijk is.   
 5.  Bij ministeriële regeling kan worden bepaald dat degene die op grond van het eerste lid aansprakelijk is, niet aansprakelijk is indien de verplichting ingevolge een pensioenregeling in de in [artikel 19b, zesde lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bedoelde situatie overgaat op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent en dit pensioenfonds of lichaam aansprakelijkheid aanvaardt voor de belasting die terzake door de gerechtigde is verschuldigd, alsmede voor de in verband daarmee verschuldigde revisierente. De eerste volzin is van overeenkomstige toepassing indien de verzekeringnemer of de gerechtigde terzake voldoende zekerheid heeft gesteld.   
@@ -790,6 +823,10 @@ a. navorderings- en naheffingsaanslagen die na het overlijden van de belastingsc
 
 b. bedragen die na het overlijden van de hoofdelijk aansprakelijk gestelde worden vastgesteld op de voet van artikel 49.     
 2.  In afwijking in zoverre van het eerste lid, onderdeel *b*, zijn erfgenamen niet aansprakelijk voor bedragen waarvoor de ontvanger de erflater op grond van artikel 36, 36a of 36b na diens overlijden aansprakelijk stelt.   
+
+### Artikel  48a  
+
+Een derde die kan beschikken over een bankrekeningnummer waarop inkomstenbelasting of omzetbelasting is uitbetaald, is hoofdelijk aansprakelijk voor de inkomstenbelasting en de omzetbelasting die een belastingschuldige is verschuldigd voor zover het bedrag aan verschuldigde belasting is betaald op die bankrekening. Voor zover een verschuldigd bedrag aan inkomstenbelasting voortvloeit uit de toepassing van [artikel 15 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), wordt het bedrag waarvoor de derde aansprakelijk is, bepaald op het gedeelte van het door de belastingschuldige verschuldigde bedrag dat in dezelfde verhouding staat tot het door de belastingschuldige verschuldigde bedrag als de aan de derde over het belastingjaar uitbetaalde voorlopige teruggaaf inkomstenbelasting in verhouding staat tot het totale bedrag van de over het belastingjaar uitbetaalde voorlopige teruggaven inkomstenbelasting, een en ander voor zover dit bedrag kan worden toegerekend aan de aan die derde uitbetaalde bedragen.  
 
 ### Afdeling  2  
 
@@ -866,7 +903,10 @@ De aansprakelijke die in de belasting heeft bijgedragen, is bij zijn verhaal op 
 
 ####Door de ontvanger aan te houden vrijwaringsrekening bij een bank ten behoeve van depots bij de ontvanger
 
-### Artikel  57a  
+Treedt in werking op een nader te bepalen tijdstip   
+
+### Artikel  57a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De ontvanger houdt op zijn naam een rekening aan bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen (vrijwaringsrekening) waarop de in artikel 34, artikel 35 en artikel 35a bedoelde inleners, onderscheidenlijk aannemers en opdrachtgevers, bedragen kunnen storten ten behoeve van het door hun uitleners, onderscheidenlijk onderaannemers en aannemers, bij de ontvanger aan te houden depot.   
 2.  Een uitlener, een onderaannemer of een aannemer die voldoet aan bij ministeriële regeling te stellen voorwaarden, kan de ontvanger verzoeken ten behoeve van hem een depot aan te houden. De ontvanger beslist op het verzoek bij een voor bezwaar vatbare beschikking. Ook het opheffen van een depot geschiedt bij een voor bezwaar vatbare beschikking. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake deze beschikkingen is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
@@ -1013,15 +1053,24 @@ a. op 31 december 2011, voor belastingaanslagen grondwaterbelasting en afvalsto
 
 b. op 31 december 2012, voor belastingaanslagen verpakkingenbelasting.    
 
+### Artikel  70aa  
+
+Artikel 43 is van overeenkomstige toepassing op de verpakkingenbelasting die is verschuldigd door een concern als bedoeld in [artikel 80, onderdeel g, van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals dat artikel luidde op 31 december 2012.  
+
 ### Artikel  70b  
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van [artikel 3.116, vierde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk door de toepassing van [artikel 10bis.4, vierde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 10bis.5, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De in de eerste volzin bedoelde regels kunnen mede betrekking hebben op het stellen van voldoende zekerheid. Het uitstel wordt beëindigd: 
+1.  Bij ministeriële regeling worden regels gesteld met betrekking tot op de voet van artikel 25, zesde lid, zoals dat luidde op 31 december 2012, verleend uitstel van betaling alsmede met betrekking tot het verlenen van uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van [artikel 3.116, vierde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk door de toepassing van [artikel 10bis.4, vierde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 10bis.5, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De in de eerste volzin bedoelde regels kunnen mede betrekking hebben op het stellen van voldoende zekerheid. Het uitstel wordt beëindigd: 
 
 a. indien zich een omstandigheid voordoet waardoor de woning ophoudt een eigen woning te zijn in de zin van [artikel 3.111 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
 b. indien de belastingschuldige een voordeel geniet als bedoeld in [artikel 3.116, eerste lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.116a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk als bedoeld in [artikel 10bis.4, eerste lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 10bis.5, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-c. indien zich een omstandigheid voordoet als bedoeld in [artikel 3.116, derde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.116a, vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk als bedoeld in [artikel 10bis.4, derde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 10bis.5, vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).    
+c. indien zich een omstandigheid voordoet als bedoeld in [artikel 3.116, derde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.116a, vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk als bedoeld in [artikel 10bis.4, derde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 10bis.5, vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
+2.  Met betrekking tot een verleend uitstel van betaling als bedoeld in het eerste lid zijn artikel 24, zevende lid, en artikel 28, derde en vierde lid, van overeenkomstige toepassing.   
+
+### Artikel  70ba  
+
+Indien de ontvanger het verleende uitstel van betaling, bedoeld in artikel 70b, beëindigt, kan volgens bij ministeriële regeling te stellen regels kwijtschelding worden verleend voor zover de belasting waarvoor uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van de omstandigheid op grond waarvan het uitstel van betaling wordt beëindigd, in Nederland zou hebben gewoond.  
 
 ### Artikel  70c  
 
@@ -1029,6 +1078,14 @@ c. indien zich een omstandigheid voordoet als bedoeld in [artikel 3.116, derde l
 2.  Het bedrag van de verschuldigde belasting wordt gesteld op het evenredig gedeelte van de belasting die meer is verschuldigd ter zake van alle kapitaalverzekeringen eigen woning, alle spaarrekeningen eigen woning en alle beleggingsrechten eigen woning die in het jaar ingevolge [artikel 10bis.4, vierde lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), onderscheidenlijk [artikel 10bis.5, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden geacht tot uitkering te zijn gekomen, onderscheidenlijk worden geacht te zijn gedeblokkeerd.   
 3.  [Artikel 2.16, derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is van overeenkomstige toepassing.   
 4.  Zo spoedig mogelijk nadat de aansprakelijkheid ingevolge het eerste lid is ontstaan, wordt aan de verzekeraar, de bank, onderscheidenlijk de beheerder van de beleggingsinstelling, schriftelijk mededeling gedaan van het bedrag waarvoor deze aansprakelijk is.   
+
+### Artikel  70d  
+
+Op een kapitaalverzekering eigen woning die voor 1 januari 2013 ingevolge [artikel 3.116, vierde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals dat luidde op 31 december 2012, wordt geacht tot uitkering te zijn gekomen of op een spaarrekening eigen woning of een beleggingsrecht eigen woning die voor 1 januari 2013 ingevolge [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals dat luidde op 31 december 2012, wordt geacht te zijn gedeblokkeerd, blijft artikel 44c, zoals dat luidde op 31 december 2012, van toepassing.  
+
+### Artikel  70e  
+
+Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de [artikelen 11, eerste lid, onderdeel g](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en [37 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals die op 31 december 2013 luidden, alsmede met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en stamrechtbeleggingsrechten als bedoeld in [artikel 11a van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals dat op 31 december 2013 luidde, blijven de artikelen 36a, tweede lid, onderdeel b, en 44b, eerste en tweede lid, zoals die op 31 december 2013 luidden, met overeenkomstige toepassing van [artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), van toepassing.  
 
 ### Artikel  71  
 

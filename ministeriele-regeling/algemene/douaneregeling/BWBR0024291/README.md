@@ -15,7 +15,7 @@ Besluiten:
 
 ### Artikel  1:1  
 
-Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:19, tweede lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:28, zesde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:35](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:37, derde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [2:1, aanhef en onder a tot en met h, j, k en m](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:1, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:2](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:3](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:1, aanhef en onder b](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:6, vierde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:9, aanhef en onder a tot en met c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [9:5](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [10:11](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [11:13, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [artikel 11:14, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), en artikel 11:15 van de Algemene douanewet, de [artikelen 1:5, vijfde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:1, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:2, eerste en tweede lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:2, derde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:3, aanhef en onder c](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:4, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [5:1, tweede en vierde lid, van het Algemeen douanebesluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [3, vierde lid](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [artikel 5, tweede lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 21 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [artikelen 63, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [69 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en aan de [artikelen 27, eerste lid](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), en [31 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:19, tweede lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:28, zesde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:35](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:37, derde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [2:1, aanhef en onder a tot en met h, j, k en m](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:1, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:2](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [6:3](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:1, aanhef en onder b](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:6, vierde lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [7:9, aanhef en onder a tot en met c](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [9:5](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [10:11](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [11:13, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [artikel 11:14, eerste lid](../../../../wet/algemene/douanewet/BWBR0023746/README.md), en artikel 11:15 van de Algemene douanewet, de [artikelen 1:5, vijfde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:1, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [2:2, eerste en tweede lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:2, derde lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:3, aanhef en onder c](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), [3:4, eerste lid](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [5:1, tweede en vierde lid, van het Algemeen douanebesluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [3, vierde lid](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [artikel 5, tweede lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 21 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de [artikelen 63, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [69 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en aan de [artikelen 27, eerste lid](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), en [31 van de Wet op de verbruiksbelasting van alcoholvrije dranken](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md).  
 
 ### Artikel  1:2  
 
@@ -31,13 +31,13 @@ d. binnenkomend luchtvaartuig: luchtvaartuig waarvoor de in artikel 40 van het C
 
 e. *Nederlandse Voedsel- en Warenautoriteit:* Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
 
-f. productschap: productschap of hoofdproductschap dat in kolom 2 van bijlage VII is genoemd als bevoegd productschap ten aanzien van het goed, genoemd in kolom 1 van bijlage VII;  
+f. *verordening 1301/2006:* Verordening (EG) nr. 1301/2006 van de Commissie van 31 augustus 2006 houdende gemeenschappelijke voorschriften voor het beheer van door middel van een stelsel van invoercertificaten beheerde invoertariefcontingenten voor landbouwproducten (PbEU 2006, L 238);  
 
-g. Verordening 1186/2009: Verordening (EG) nr. 1186/2009 van de Raad van de Europese Unie van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEG L 324);  
+g. Verordening 1186/2009: Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU 2009, L 324);  
 
-h. verordening 376/2008: Verordening (EG) nr. 376/2008 van de Commissie van 23 april 2008 houdende gemeenschappelijke uitvoeringsbepalingen inzake het stelsel van invoer-, uitvoer- en voorfixatiecertificaten voor landbouwproducten (PbEU 2008, L 114);  
+h. Verordening 376/2008: Verordening (EG) nr. 376/2008 van de Commissie van 23 april 2008 houdende gemeenschappelijke uitvoeringsbepalingen inzake het stelsel van invoer-, uitvoer- en voorfixatiecertificaten voor landbouwproducten (PbEU 2008, L 114);  
 
-i. verordening 612/2009: Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU L 186);  
+i. Verordening 612/2009: Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU 2009, L 186);  
 
 j. de Post: het postvervoersbedrijf dat belast is met de universele postdienst als bedoeld in [artikel 15, eerste lid, van de Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md);  
 
@@ -57,7 +57,13 @@ q. cigarillo’s: sigaren met een maximumgewicht van 3 gram per stuk;
 
 r. rooktabak: rooktabak als bedoeld in [artikel 32 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
 
-s. kanselarijbenodigdheden: officiële emblemen en documenten alsmede kantoormeubilair en kantoorbenodigdheden bestemd voor een kanselarij.    
+s. kanselarijbenodigdheden: officiële emblemen en documenten alsmede kantoormeubilair en kantoorbenodigdheden bestemd voor een kanselarij;  
+
+t. *verordening 412/2008:* Verordening (EG) nr. 412/2008 van de Commissie van 8 mei 2008 betreffende de opening en de wijze van beheer van een tariefcontingent voor de invoer van voor verwerking bestemd bevroren rundvlees (PbEU 2008, L 125);  
+
+u. *verordening 507/2008:* Verordening (EG) nr. 507/2008 van de Commissie van 6 juni 2008 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 1673/2000 van de Raad houdende een gemeenschappelijke ordening der markten in de sector vezelvlas en -hennep (PbEU 2008, L 149);  
+
+v. *verordening 1234/2007:* Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘Integrale-GMO-verordening’) (PbEU 2007, L 299).    
 
 ### Artikel  1:3  
 
@@ -69,12 +75,12 @@ Douanekantoren zijn gevestigd in de plaatsen genoemd in bijlage I.
 
 ### Artikel  1:4  
 
-1.  De algemeen directeur en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+1.  De algemeen directeur Douane, de landelijk directeuren en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 2.  De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.   
 
 ### Artikel  1:5  
 
-1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de landelijk directeuren en directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 2.  Als functionarissen als bedoeld in [artikel 10:15 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) worden aangewezen de ambtenaren van de Belastingdienst (contactambtenaren) die door de in het eerste lid aangewezen ambtenaren zijn aangewezen om namens hen de bevoegdheid, bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), uit te oefenen.   
 3.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is op grond van [artikel 1:28, zesde lid, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) bevoegd tot het geven van toestemming voor het vorderen van gehele ontkleding dan wel het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.   
 
@@ -84,9 +90,9 @@ De verplichtingen die ingevolge [artikel 1:32 van de wet](../../../../wet/algeme
 
 ### Artikel  1:7  
 
-1.  De voorzitter van het productschap is inspecteur als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+1.  De directeur-generaal van het directoraat-generaal Uitvoering van het Ministerie van Economische Zaken is inspecteur als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 2.  De aanwijzing, bedoeld in het eerste lid, geldt alleen voor de toepassing van artikel 78, tweede lid, van het Communautair douanewetboek.   
-3.  De voorzitter, bedoeld in het eerste lid, kan bij het uitoefenen van de hem bij dat lid opgedragen taken alleen de bevoegdheden, bedoeld in de [artikelen 1:23](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:24](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:25](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:27](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:31 tot en met 1:34 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), toepassen.   
+3.  De directeur-generaal, bedoeld in het eerste lid, kan bij het uitoefenen van de hem bij dat lid opgedragen taken alleen de bevoegdheden, bedoeld in de [artikelen 1:23](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:24](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:25](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:27](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:31 tot en met 1:34 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), toepassen.   
 
 ### Artikel  1:8  
 
@@ -106,11 +112,11 @@ De verplichtingen die ingevolge [artikel 1:32 van de wet](../../../../wet/algeme
 
 ### Artikel  1:9  
 
-De voorzitter van het productschap is ontvanger in de zin van [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) en [artikel 3, eerste lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), voor zover het betreft restituties, subsidies dan wel waarborgsommen als bedoeld in [hoofdstuk 3 van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md).  
+De directeur-generaal van het directoraat-generaal Uitvoering van het Ministerie van Economische Zaken is ontvanger in de zin van [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) en [artikel 3, eerste lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), voor zover het betreft restituties, subsidies dan wel waarborgsommen als bedoeld in [hoofdstuk 3 van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md).  
 
 ### Artikel  1:10  
 
-1.  De algemeen directeur, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) is de bevoegde douaneadministratie, bedoeld in artikel 10 van de Overeenkomst opgesteld op grond van artikel K3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied (Trb. 1995, 225).   
+1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is de bevoegde douaneadministratie, bedoeld in artikel 10 van de Overeenkomst opgesteld op grond van artikel K3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied (Trb. 1995, 287).   
 2.  De in het eerste lid bedoelde douaneadministratie is gehouden uitvoering te geven aan onherroepelijke beslissingen van een rechtbank of een andere bevoegde autoriteit met betrekking tot kennisneming, verwijdering of verbetering van persoonsgegevens, als bedoeld in artikel 15, vierde lid, onder I, II en III, van de in het eerste lid genoemde overeenkomst.   
 
 ### Artikel  1:10a  
@@ -152,9 +158,9 @@ b. certificaat inzake goederenverkeer: certificaat EUR.1 of EUR-MED ten bewijze 
 
 c. handelsregister: handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
 
-d. kamer: kamer van koophandel en fabrieken als bedoeld in [artikel 1, onderdeel c, van de Wet op de kamers van koophandel en fabrieken 1997](../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md);  
+d. Kamer: Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md);  
 
-e. leveranciersverklaring: verklaring als bedoeld in Verordening (EG) nr. 1207/2001 van de Raad van 11 juni 2001 betreffende procedures ter vergemakkelijking van de afgifte van certificaten inzake goederenverkeer EUR.1, de opstelling van factuurverklaringen en formulieren EUR.2 en de afgifte van bepaalde vergunningen ‘toegelaten exporteur’ in het kader van de bepalingen die voor het preferentiële handelsverkeer tussen de Europese Gemeenschap en sommige landen gelden en tot intrekking van Verordening (EEG) nr. 3351/83 (PbEG L 165);  
+e. leveranciersverklaring: verklaring als bedoeld in Verordening (EG) nr. 1207/2001 van de Raad van 11 juni 2001 betreffende procedures ter vergemakkelijking van de afgifte van certificaten inzake goederenverkeer EUR.1, de opstelling van factuurverklaringen en formulieren EUR.2 en de afgifte van bepaalde vergunningen ‘toegelaten exporteur’ in het kader van de bepalingen die voor het preferentiële handelsverkeer tussen de Europese Gemeenschap en sommige landen gelden en tot intrekking van Verordening (EEG) nr. 3351/83 (PbEG 2001, L 165);  
 
 f. oorsprongsverklaring: verklaring inzake de preferentiële oorsprong van goederen, in gevallen dat de toepasselijke autonome preferentiële regeling of een handels- of associatieovereenkomst daarin voorziet;  
 
@@ -166,20 +172,14 @@ i. Naktuinbouw: Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw.
 
 ### Artikel  1:14  
 
-1.  Een aanvraag tot afgifte van een certificaat van oorsprong wordt ingediend: 
-
-a. bij de kamer waarbij de onderneming of rechtspersoon met toepassing van [artikel 6 van de Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) in het handelsregister is ingeschreven; of  
-
-b. bij de kamer in het gebied waar de aanvrager woont, dan wel is gevestigd indien onderdeel a niet van toepassing is; of  
-
-c. bij de kamer in het gebied in Nederland waar de goederen zich bevinden in geval van een onderneming die in een andere lidstaat van de Europese Unie is gevestigd en waarvan de goederen via Nederland uitgaan.     
+1.  Een aanvraag tot afgifte van een certificaat van oorsprong wordt ingediend bij de Kamer.   
 2.  De aanvraag bevat gegevens en bewijsstukken op basis waarvan de oorsprong van de in de aanvraag vermelde goederen kan worden vastgesteld.   
-3.  Op de aanvraag, bedoeld in het eerste lid, wordt beslist door de kamer waarbij de aanvraag is ingediend. Het certificaat van oorsprong wordt door deze kamer voorzien van haar stempel en van de handtekening van de secretaris van de kamer.   
+3.  De Kamer beslist op de aanvraag, bedoeld in het eerste lid. Het certificaat van oorsprong wordt door de Kamer voorzien van haar stempel en van de handtekening van de daartoe bevoegde functionaris van de Kamer.   
 4.  Het is verboden onjuiste of onvolledige gegevens te verstrekken: 
 
-a. aan de kamer, bedoeld in het eerste lid, bij een aanvraag tot afgifte van een certificaat van oorsprong; of  
+a. bij de aanvraag, bedoeld in het eerste lid; of  
 
-b. aan een ander ten behoeve van een aanvraag tot afgifte van een certificaat van oorsprong door de kamer, als bedoeld in het eerste lid.     
+b. aan een ander ten behoeve van een aanvraag, bedoeld in het eerste lid.     
 
 ### Artikel  1:15  
 
@@ -189,21 +189,15 @@ a. een officiële verklaring van de NAK, voor wat betreft teeltmateriaal van lan
 
 b. een officiële verklaring van de Naktuinbouw, voor wat betreft teeltmateriaal van bosbouwgewassen en tuinbouwgewassen als bedoeld in [artikel 1, eerste lid, aanhef, respectievelijk onderdelen n en o, van het Besluit verhandeling teeltmateriaal](../../../../AMvB/besluit/verhandeling/teeltmateriaal/BWBR0019210/README.md), of  
 
-c. enig ander bewijsstuk dat kan dienen om de oorsprong van de in de aanvraag vermelde producten vast te stellen, dat door de Plantenziektekundige Dienst van het Ministerie van Economische Zaken, Landbouw en Innovatie voor het desbetreffende teeltmateriaal is afgegeven.     
-2.  Indien de aanvraag, bedoeld in artikel 1:14, eerste lid, betrekking heeft op groente en fruit als bedoeld in [artikel 1 van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), wordt bij de aanvraag overlegd als bewijsstuk als bedoeld in [artikel 13, tweede lid](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), een gewaarmerkt afschrift van het controlebewijs, bedoeld in [artikel 13, onderdeel b, van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md).   
+c. enig ander bewijsstuk dat kan dienen om de oorsprong van de in de aanvraag vermelde producten vast te stellen, dat door de Minister van Economische Zaken voor het desbetreffende teeltmateriaal is afgegeven.     
+2.  Een bewijsstuk als bedoeld in artikel 1:14, tweede lid, is voor een aanvraag als bedoeld in artikel 1:14, eerste lid, die betrekking heeft op groente en fruit als bedoeld in deel IX, van bijlage I, bij verordening 1234/2007 het gewaarmerkt afschrift van het controlebewijs, bedoeld in [artikel 14, eerste lid, onderdeel b, van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md).   
 3.  Indien de producten, vermeld in de aanvraag, tegelijkertijd kunnen worden aangemerkt als teeltmateriaal als bedoeld in het eerste lid, en als groente en fruit als bedoeld in het tweede lid, wordt het eerste of het tweede lid toegepast afhankelijk van de bestemming die aan die producten wordt gegeven.   
 
 ### Artikel  1:16  
 
-1.  Een aanvraag tot afgifte van een certificaat inzake goederenverkeer wordt ingediend: 
-
-a. bij de kamer waarbij de onderneming of rechtspersoon met toepassing van [artikel 6 van de Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) in het handelsregister is ingeschreven; of  
-
-b. bij de kamer in het gebied waar de aanvrager woont, dan wel is gevestigd indien onderdeel a niet van toepassing is; of  
-
-c. bij de kamer in het gebied in Nederland waar de goederen zich bevinden in geval van een onderneming die in een andere lidstaat van de Europese Unie is gevestigd en waarvan de goederen via Nederland uitgaan.     
+1.  Een aanvraag tot afgifte van een certificaat inzake goederenverkeer wordt ingediend bij de Kamer.   
 2.  De aanvraag bevat gegevens en bewijsstukken op basis waarvan de oorsprong van de in de aanvraag vermelde goederen kan worden vastgesteld.   
-3.  De kamer voorziet de aanvraag van haar bevindingen en maakt deze bekend aan de inspecteur.   
+3.  De Kamer voorziet de aanvraag van haar bevindingen en maakt deze bekend aan de inspecteur.   
 4.  Het is verboden onjuiste of onvolledige gegevens te verstrekken: 
 
 a. bij de aanvraag, bedoeld in het eerste lid; of  
@@ -212,9 +206,9 @@ b. aan een ander ten behoeve van de aanvraag, bedoeld in het eerste lid.
 
 ### Artikel  1:17  
 
-1.  De commissie adviseert de Ministers van Economische Zaken, Landbouw en Innovatie en van Financiën, en de gezamenlijke kamers over preferentiële en niet-preferentiële oorsprongsvraagstukken.   
+1.  De commissie adviseert de Ministers voor Buitenlandse Handel en Ontwikkelingssamenwerking en van Financiën, en de Kamer over preferentiële en niet-preferentiële oorsprongsvraagstukken.   
 2.  De commissie stelt haar eigen werkwijze en samenstelling schriftelijk vast.   
-3.  De Minister van Economische Zaken, Landbouw en Innovatie wijst de voorzitter van de commissie aan.   
+3.  De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking wijst de voorzitter van de commissie aan.   
 
 ### Afdeling  1.6  
 
@@ -258,11 +252,11 @@ De aangifte van gegevens inzake de douanewaarde, die in een formulier D.V.1 als 
 
 ### Hoofdstuk  2  
 
-####Bepalingen die op de in het douanegebied van de Gemeenschap binnengebrachte goederen van toepassing zijn tot deze een douanebestemming hebben gekregen
+####Bepalingen die op de in het douanegebied van de Unie binnengebrachte goederen van toepassing zijn tot deze een douanebestemming hebben gekregen
 
 ### Afdeling  2.1  
 
-####Formaliteiten met betrekking tot het binnenbrengen van goederen in het douanegebied van de Gemeenschap
+####Formaliteiten met betrekking tot het binnenbrengen van goederen in het douanegebied van de Unie
 
 ### Artikel  2:0  
 
@@ -311,7 +305,7 @@ f. reddingsboten;
 g. schepen en luchtvaartuigen van de Nederlandse Kustwacht.     
 2.  Het eerste lid is niet van toepassing indien: 
 
-a. de laatste haven van vertrek van het schip dan wel luchtvaartuig gelegen is buiten het douanegebied van de Gemeenschap;  
+a. de laatste haven van vertrek van het schip dan wel luchtvaartuig gelegen is buiten het douanegebied van de Unie;  
 
 b. voor het schip, het luchtvaartuig of voor de aan boord aanwezige goederen bij het in het vrije verkeer brengen rechten bij invoer, accijns of omzetbelasting is verschuldigd;  
 
@@ -319,7 +313,7 @@ c. op het schip, het luchtvaartuig of op de aan boord aanwezige goederen verbode
 
 d. voor het verkrijgen van vrijstelling van rechten bij invoer of voor het plaatsen onder de desbetreffende douaneregeling voor het schip, het luchtvaartuig of voor de aan boord aanwezige goederen ingevolge wettelijke bepalingen de vervulling van bepaalde formaliteiten is vereist;  
 
-e. het schip dan wel luchtvaartuig niet in de Gemeenschap thuishoort; of  
+e. het schip dan wel luchtvaartuig niet in de Unie thuishoort; of  
 
 f. het schip dan wel luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd.     
 3.  De inspecteur kan toestaan dat, voor zover het de verplichting, bedoeld in artikel 2:0, betreft, wordt afgeweken van het bepaalde in het tweede lid.   
@@ -340,7 +334,7 @@ f. het schip dan wel luchtvaartuig niet overeenkomstig haar bestemming wordt geb
 2.  De summiere aangifte voor tijdelijke opslag wordt gesteld in de Nederlandse, Franse, Duitse of Engelse taal.   
 3.  De summiere aangifte voor tijdelijke opslag bevat de in bijlage 30bis van de toepassingsverordening Communautair douanewetboek genoemde vereiste gegevens.   
 4.  In afwijking van het derde lid bevat de summiere aangifte voor tijdelijke opslag, voor de in een schip aanwezige provisie, de gegevens, bedoeld in de scheepsvoorradenaangifte (IMO/FAL 3). Het overzicht van in een schip aanwezige persoonlijke bezittingen van bemanningsleden wordt desgevraagd door de gezagvoerder van het schip onverwijld ter beschikking gesteld aan de inspecteur.   
-5.  Indien de summiere aangifte voor tijdelijke opslag betrekking heeft op een of meerdere goederen, genoemd in bijlage V, deel B, van richtlijn nr. 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG L 1169), wordt dit, gelijktijdig met het indienen van de summiere aangifte voor tijdelijke opslag en door de indiener van die aangifte, expliciet medegedeeld aan de douane.   
+5.  Indien de summiere aangifte voor tijdelijke opslag betrekking heeft op een of meerdere goederen, genoemd in bijlage V, deel B, van Richtlijn 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG 2000, L 169), wordt dit, gelijktijdig met het indienen van de summiere aangifte voor tijdelijke opslag en door de indiener van die aangifte, expliciet medegedeeld aan de douane.   
 
 ### Afdeling  2.3  
 
@@ -390,7 +384,7 @@ c. een aangifte tot plaatsing onder de douaneregeling uitvoer.
 ### Artikel  2:12  
 
 1.  In de gevallen waarin op grond van wettelijke bepalingen in een aangifte de goederencode van de desbetreffende goederen moet worden vermeld, is dat de code die voor die goederen is vastgesteld in het gebruikstarief.   
-2.  Het in het eerste lid bedoelde gebruikstarief is de lijst van goederenomschrijvingen met bijbehorende codes en aanduiding van de voor de desbetreffende goederen van toepassing zijnde maatregelen bij in- of uitvoer, zoals die geldt ingevolge Verordeningen van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen.   
+2.  Het in het eerste lid bedoelde gebruikstarief is de lijst van goederenomschrijvingen met bijbehorende codes en aanduiding van de voor de desbetreffende goederen van toepassing zijnde maatregelen bij in- of uitvoer, zoals die geldt ingevolge verordeningen van de Raad van de Europese Unie of de Europese Commissie.   
 3.  Het in het eerste lid bedoelde gebruikstarief is beschikbaar via internetadres www.douane.nl.   
 
 ### Artikel  2:13  
@@ -431,57 +425,48 @@ Het is verboden te handelen in strijd met de voorschriften, genoemd in de artike
 
 ### Artikel  3:2  
 
-1.  De bevoegdheid, bedoeld in [art 3:2, tweede lid, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md) wordt overgedragen aan het productschap.   
-2.  Het productschap wordt aangewezen als: 
+De Minister van Economische Zaken is: 
 
 a. de instantie van afgifte, bedoeld in de artikelen 8, tweede lid, tweede alinea, en derde lid, 20, 21, 32, derde lid, 34, derde lid, 38, eerste lid, 40, vierde lid, 45, derde lid, 47, derde lid, tweede alinea, vijfde, achtste en negende lid, onder b, van verordening 376/2008;  
 
-b. de bevoegde instantie, bedoeld in de artikelen 12, eerste lid, 14, tweede lid, 39, eerste lid, 40, eerste, tweede en vierde lid, 41, van verordening 376/2008, en  
+b. de bevoegde instantie, bedoeld in de artikelen 12, eerste lid, 14, tweede lid, 18, eerste lid, 39, eerste lid, 40, eerste, tweede en vierde lid, 41, van verordening 376/2008;  
 
-c. de bevoegde autoriteit, bedoeld in de artikelen 12, tweede lid, 34, achtste lid, 35, tweede lid, tweede alinea, 36, tweede lid, 42, tweede lid, onder b, 46, tweede lid, 47, negende lid, onder b en c, van verordening 376/2008.     
+c. de bevoegde autoriteit, bedoeld in de artikelen 12, tweede lid, 34, achtste lid, 35, tweede lid, tweede alinea, 36, tweede lid, 42, tweede lid, onder b, 46, tweede lid, 47, negende lid, onder b en c, van verordening 376/2008;  
+
+d. de bevoegde autoriteit, bedoeld in de artikelen 3, eerste lid, en 5 van verordening 1301/2006;  
+
+e. de bevoegde autoriteit, bedoeld in de artikelen 5, tweede lid, 10 en 11, eerste en tweede lid, van verordening 412/2008, en  
+
+f. de bevoegde autoriteit, bedoeld in artikel 17, eerste tot en met vierde lid, van verordening 507/2008.    
 
 ### Artikel  3:3  
 
-Het Productschap Zuivel wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 7 van Verordening (EG) nr. 2535/2001 van de Commissie van 14 december 2001 houdende uitvoeringsbepalingen van Verordening (EG) nr. 1255/1999 van de Raad voor de invoerregeling voor melk en zuivelproducten en houdende opening van tariefcontingenten (PbEU 2001, L341).  
+De Minister van Economische Zaken is de bevoegde autoriteit, bedoeld in artikel 7 van Verordening (EG) nr. 2535/2001 van de Commissie van 14 december 2001 houdende uitvoeringsbepalingen van Verordening (EG) nr. 1255/1999 van de Raad voor de invoerregeling voor melk en zuivelproducten en houdende opening van tariefcontingenten (PbEG 2001, L 341).  
 
 ### Artikel  3:4  
 
-Het productschap is bevoegd de voorschriften, bedoeld in artikel 17, tweede lid, tweede alinea, verordening 376/2008, vast te stellen.  
+Aanvragers voor certificaten vullen slechts de aanvraag, bedoeld in artikel 17, tweede lid, tweede alinea, van verordening 376/2008 in.  
 
 ### Artikel  3:5  
 
-1.  Het productschap is bevoegd een ontheffing te verlenen als bedoeld in artikel 4, derde lid, van verordening 376/2008.   
-2.  Indien het productschap gebruik maakt van de bevoegdheid, bedoeld in het eerste lid, is het productschap tevens de bevoegde autoriteit, bedoeld in artikel 4, derde lid, onder c, van verordening 376/2008.   
+1.  De Minister van Economische Zaken is bevoegd een ontheffing te verlenen als bedoeld in artikel 4, derde lid, van verordening 376/2008.   
+2.  Indien de Minister van Economische Zaken gebruik maakt van de bevoegdheid, bedoeld in het eerste lid, is de Minister van Economische Zaken tevens de bevoegde autoriteit, bedoeld in artikel 4, derde lid, onder c, van verordening 376/2008.   
 
 ### Artikel  3:6  
 
-Het productschap is bevoegd de toestemming te verlenen, bedoeld in artikel 40, vijfde lid, van verordening 376/2008.  
+De Minister van Economische Zaken is bevoegd de toestemming te verlenen, bedoeld in artikel 40, vijfde lid, van verordening 376/2008.  
 
 ### Artikel  3:7  
 
-De zekerheid, bedoeld in artikel 14, tweede lid, van verordening 376/2008 wordt gesteld bij het productschap.  
+De zekerheid, bedoeld in artikel 14, tweede lid, van verordening 376/2008 wordt gesteld bij de Minister van Economische Zaken.  
 
 ### Artikel  3:8  
 
-1.  Het productschap is bevoegd op verzoek van belanghebbende certificaten onder zich te houden, onderscheidenlijk in bewaring te nemen ten behoeve van de toepassing van artikel 24 van verordening 376/2008 op dat certificaat.   
-2.  Indien het productschap gebruik maakt van de bevoegdheid, bedoeld in het eerste lid, wordt het productschap aangemerkt als de bevoegde autoriteit, bedoeld in artikel 24, tweede lid, van verordening 376/2008.   
+De Minister van Economische Zaken is bevoegd op verzoek van belanghebbende certificaten onder zich te houden, onderscheidenlijk in bewaring te nemen ten behoeve van de toepassing van artikel 24 van verordening 376/2008 op dat certificaat.  
 
 ### Artikel  3:9  
 
 De certificaten, bedoeld in [artikel 3:2, tweede lid, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), zijn in het Nederlands gesteld.  
-
-### Artikel  3:10  
-
-1.  Het productschap is bevoegd bepalingen vast te stellen omtrent het afgeven en het gebruik van elektronische certificaten, bedoeld in artikel 18, eerste lid, van verordening 376/2008.   
-2.  Indien het productschap toestaat dat aanvragen voor de certificaten, bedoeld in [artikel 3:2, tweede lid, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), worden ingediend met behulp van systemen voor automatische gegevensverstrekking, stelt het productschap de regels vast, bedoeld in artikel 12, tweede lid, derde alinea, van verordening 376/2008.   
-
-### Artikel  3:11  
-
-Het productschap is bevoegd een aanvullende termijn als bedoeld in artikel 34, negende lid, van verordening 376/2008 te verlenen.  
-
-### Artikel  3:12  
-
-Het productschap wordt aangewezen als bevoegde autoriteit, bedoeld in artikel 3 van Verordening (EG) nr. 1301/2006 van de Commissie van 31 augustus 2006 houdende gemeenschappelijke voorschriften voor het beheer van door middel van een stelsel van invoercertificaten beheerde invoertariefcontingenten voor landbouwproducten (PbEU 2006, L 238).  
 
 ### Afdeling  3.2  
 
@@ -489,37 +474,286 @@ Het productschap wordt aangewezen als bevoegde autoriteit, bedoeld in artikel 3 
 
 ### Artikel  3:13  
 
-1.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor ruwe hennep van post 53 02 10 00 van de gecombineerde nomenclatuur slechts af indien deze voldoet aan de voorwaarden van artikel 39 van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEG 2009, L 30);   
-2.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor zaaizaad bestemd voor de inzaai van henneprassen van post 1207 99 15 van de gecombineerde nomenclatuur slechts af indien deze vergezeld gaat van het bewijs dat het gehalte aan tetrahydrocannabinol niet hoger is dan het gehalte, bedoeld in artikel 39, eerste lid, van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEG 2009, L 30);   
-3.  Het productschap geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en uittreksels daarvan voor niet voor inzaai bestemd hennepzaad van de post 1207 99 91 van de gecombineerde nomenclatuur slechts af indien: 
+1.  De Minister van Economische Zaken geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor ruwe hennep van post 53 02 10 00 van de gecombineerde nomenclatuur slechts af indien deze voldoet aan de voorwaarden van artikel 39 van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEU 2009, L 30);   
+2.  De Minister van Economische Zaken geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), of uittreksels daarvan voor zaaizaad bestemd voor de inzaai van henneprassen van post 1207 99 15 van de gecombineerde nomenclatuur slechts af indien deze vergezeld gaat van het bewijs dat het gehalte aan tetrahydrocannabinol niet hoger is dan het gehalte, bedoeld in artikel 39, eerste lid, van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEU 2009, L 30);   
 
-a. de importeur door het productschap is erkend;  
+### Artikel  3:13a  
 
-b. de importeur zich ertoe verbindt zorg te dragen voor de verstrekking aan het productschap van de verklaringen, bedoeld in artikel 17 van Verordening (EG) nr. 507/2008 van de Commissie van 6 juni 2008 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 1673/2000 van de Raad houdende een gemeenschappelijke ordening der markten in de sector vezelvlas en –hennep (PbEU 2008, L 149), binnen de aldaar gestelde termijn en onder de door het productschap gestelde voorwaarden;  
+1.  Een aanvraag tot erkenning van een importeur van niet voor inzaai bestemd hennepzaad als bedoeld in artikel 17, tweede lid, van verordening 507/2008 wordt ingediend bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+2.  De Minister van Economische Zaken erkent een importeur als deze een redelijke activiteit gedurende 12 maanden voorafgaand aan de aanvraag tot erkenning kan aantonen in de handel in granen, zaden of peulvruchten.   
+3.  In afwijking van het tweede lid kan de Minister van Economische Zaken ook een importeur erkennen: 
 
-c. de administratie van de importeur voldoet aan de door het productschap gestelde eisen;  
+a. die aan de hand van bewijsstukken, waaronder een bedrijfsplan, kan aantonen dat de in het tweede lid genoemde activiteiten op korte termijn zullen worden gestart, of  
 
-d. de importeur toelaat dat wordt overgegaan tot controle op de naleving van hetgeen is bepaald bij of krachtens Verordening 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU 2007, L 299), en  
+b. die is aan te merken als een in Nederland gevestigde organisatie die kan aantonen hennepzaad te gebruiken voor wetenschappelijk onderzoek en in dat kader in aanmerking wil komen voor een erkenning als importeur.     
+4.  De aanvraag, bedoeld in het eerste lid, wordt ingediend op een door de Minister van Economische Zaken vastgesteld formulier dat beschikbaar is op internetadres www.drloket.nl.   
 
-e. de importeur zodanige maatregelen treft dat ook zijn afnemers aan het onder c en d gestelde voldoen.     
+### Artikel  3:13b  
+
+Een erkende importeur: 
+
+a. voert een voorraadboekhouding waaruit de aangevoerde partijen, de be- of verwerkte partijen en de afgeleverde partijen blijken;  
+
+b. overhandigt binnen 3 maanden na de in artikel 17, tweede lid, tweede alinea, van de in verordening 507/2008 genoemde termijn van 12 maanden verklaringen waaruit blijkt dat de ingevoerde partijen waarvoor een certificaat als bedoeld in artikel 17, eerste lid, van verordening 507/2008 is afgegeven, voldoen aan de voorwaarden, bedoeld in artikel 17, tweede lid, tweede alinea, van verordening 507/2008, en  
+
+c. overhandigt de in onderdeel a bedoelde voorraadboekhouding en overige bewijsstukken op verzoek aan de Minister van Economische Zaken.    
+
+### Artikel  3:13c  
+
+Overeenkomstig artikel 17, tweede lid, derde alinea, van verordening 507/2008 kan de Minister van Economische Zaken op verzoek van de erkende importeur overgaan tot verlenging van de in artikel 3:13b, onderdeel b, genoemde termijn van 12 maanden met één of twee periodes van 6 maanden.  
+
+### Artikel  3:13d  
+
+Indien niet wordt voldaan aan een of meer voorwaarden, genoemd in artikel 3:13b stelt de Minister van Economische Zaken, in geval het een in een andere lidstaat gevestigde importeur betreft, de bevoegde autoriteit van die lidstaat hiervan in kennis.  
+
+### Artikel  3:13e  
+
+1.  Het certificaat, bedoeld in artikel 17, eerste lid, van verordening 507/2008 wordt door de importeur aangevraagd bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+2.  Het certificaat is geldig tot en met het einde van de zesde maand na de maand van afgifte.   
+3.  Het certificaat moet door de erkende importeur bij invoer aan de douane worden overhandigt ter afschrijving en moet door de erkende importeur worden teruggezonden aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken binnen twee maanden na afloop van de maand waarin de geldigheidsduur van het certificaat is verstreken.   
+4.  Indien de ingevoerde hoeveelheid ten hoogste 5% hoger is dan de op het certificaat genoemde hoeveelheid wordt zij beschouwd als op grond van dat certificaat te zijn ingevoerd.   
+
+### Artikel  3:13f  
+
+Een erkende importeur treft zodanige maatregelen dat ook zijn afnemers voldoen aan het bepaalde in artikel 17 van verordening 507/2008 en de artikelen 3:13a tot en met 3:13e.  
 
 ### Artikel  3:14  
 
 1.  Van het verbod op het invoeren van landbouwproducten, bedoeld in [artikel 3:2 van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), wordt vrijstelling verleend voor pootaardappelen van post 0701 1000 van de gecombineerde nomenclatuur.   
 2.  Van het verbod op het uitvoeren van landbouwproducten, bedoeld in [artikel 3:2 van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), wordt vrijstelling verleend voor pootaardappelen van post 0701 1000 van de gecombineerde nomenclatuur.   
-3.  Aan de vrijstelling, bedoeld in het tweede lid, is de voorwaarde verbonden dat de betrokken partij is voorzien van een etiket en een bewijsstuk als bedoeld in artikel 13 van Richtlijn nr. 2002/56/EG van de Raad van 13 juni 2002 betreffende het in de handel brengen van pootaardappelen (PbEU 2002, L 193).   
+3.  Aan de vrijstelling, bedoeld in het tweede lid, is de voorwaarde verbonden dat de betrokken partij is voorzien van een etiket en een bewijsstuk als bedoeld in artikel 13 van Richtlijn 2002/56/EG van de Raad van 13 juni 2002 betreffende het in de handel brengen van pootaardappelen (PbEG 2002, L 193).   
 4.  Het etiket en het bewijsstuk, bedoeld in het derde lid, worden afgegeven door de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen.   
+
+### Afdeling  3.2.1  
+
+####Invoer bevroren rundvlees
+
+### Paragraaf  1  
+
+####Algemeen
 
 ### Artikel  3:15  
 
-Het bewijs, bedoeld in artikel 4, tweede lid, van Verordening (EEG) nr. 2342/92 van de Commissie van 7 augustus 1992 betreffende de invoer van raszuivere fokrunderen uit derde landen en de toekenning van uitvoerrestituties voor deze dieren en tot intrekking van Verordening (EEG) nr. 1544/79 (PbEG 1992, L 227) wordt geleverd door middel van een verklaring van het productschap.  
+Voor de toepassing van deze afdeling wordt verstaan onder: 
+
+*inrichting:* verwerkende inrichting, erkend overeenkomstig artikel 4 van Verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEG 2004, L 226);  
+
+*productiecode:* gebruikelijke code waaruit de productiedatum blijkt van een A-product als bedoeld in artikel 2, eerste lid, van verordening 412/2008, respectievelijk van een B-product als bedoeld in artikel 2, tweede lid, van verordening 412/2008;  
+
+*rendement:* resultaat van de berekening van het aantal in bewerking genomen kilo’s rundvlees, verminderd met dripverliezen en afsnijdsels, onder aftrek van de kilo's uitval of bijproduct, gedeeld door de hoeveelheid eindproduct in kilo's;  
+
+*verwerker:* natuurlijke of rechtspersoon die bevroren rundvlees verwerkt tot A-producten of B-producten of die voornemens is hiertoe over te gaan.    
 
 ### Artikel  3:16  
 
-1.  Indien ingevolge het bepaalde bij of krachtens Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU 2007, L 299) het bedrag van de aldaar bedoelde heffing voor jonge mannelijke runderen met een levend gewicht van ten hoogste 300 kg en voor landbouwproducten, vallend onder de posten 0202 2030 of 0202 30 van de gecombineerde nomenclatuur, afhankelijk is van de vervulling of nakoming van voorwaarden of bepalingen die ten aanzien van het betreffende goed in genoemde verordening of haar uitvoeringsvoorschriften zijn voorgeschreven, is de importeur van dat goed gehouden tot het naleven van de door het productschap met inachtneming van het bepaalde in die verordening en haar uitvoeringsvoorschriften, ter verzekering van die heffing gestelde regelen.   
-2.  De in het vorige lid bedoelde regelen kunnen betrekking hebben op het trekken van monsters, het voeren van een administratie en het verstrekken van gegevens, nodig voor de oplegging van de heffing.   
-3.  Het productschap stelt regelen volgens welke het vrijstelling verleent aan landbouwheffingen bij invoer, ten belopen van het jaarlijks door de Raad toegekende en aan Nederland toevallende aandeel in het in het kader van de Wereldhandelsorganisatie geopende tariefcontingent voor de invoer uit landen of gebieden die geen deel uitmaken van de Gemeenschap van bevroren rundvlees van post 0202 van de gecombineerde nomenclatuur.   
-4.  Het productschap kan regels stellen op grond waarvan het vrijstelling verleent van de landbouwheffingen bij invoer in het kader van Verordening (EG) nr. 659/2007 van de Commissie van 14 juni 2007 betreffende de opening en de wijze van beheer van invoertariefcontingenten voor stieren, koeien en vaarzen, niet bestemd voor de slacht, van bepaalde bergrassen.   
+Een verwerker die bevroren rundvlees invoert in het kader van een tariefcontingent als bedoeld in verordening 412/2008 verwerkt het ingevoerde rundvlees binnen 3 maanden na de dag van invoer tot A-producten of tot B-producten.  
+
+### Artikel  3:16a  
+
+1.  De Minister van Economische Zaken kent een recht tot invoer toe overeenkomstig verordening 412/2008.   
+2.  Een aanvraag voor de afgifte een recht tot invoer wordt ingediend door een verwerker bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken op een daartoe door de Minister van Economische Zaken vastgesteld formulier dat beschikbaar is op internetadres www.drloket.nl.   
+3.  Een verwerker toont bij een aanvraag als bedoeld in het eerste lid aan dat hij voldoet aan de voorschriften, bedoeld in verordening 412/2008 en de voorschriften van deze afdeling.   
+
+### Artikel  3:16b  
+
+1.  Een aanvraag voor een invoercertificaat wordt ingediend bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+2.  De Minister van Economische Zaken neemt een aanvraag als bedoeld in het eerste lid alleen in behandeling als de aanvrager beschikt over een ingevolge artikel 3:16a, eerste lid, toegekend recht tot invoer.   
+
+### Artikel  3:16c  
+
+1.  De Minister van Economische Zaken geeft een invoercertificaat af als door de verwerker een zekerheid is gesteld als bedoeld in artikel 14, tweede lid, van verordening 376/2008.   
+2.  Bij de invoer van grondstoffen stelt een verwerker voor de Minister van Economische Zaken een zekerheid onder gebruikmaking van een door de Minister van Economische Zaken vastgesteld formulier dat beschikbaar is op internetadres www.drloket.nl.   
+3.  De Minister van Economische Zaken geeft een zekerheidstelling vrij: 
+
+a. als bedoeld in het eerste lid wanneer is voldaan aan de voorwaarden, bedoeld in deze afdeling en verordening 376/2008, of  
+
+b. als bedoeld in het tweede lid wanneer is voldaan aan de voorwaarden, bedoeld in deze afdeling en verordening 412/2008.     
+4.  Met inachtneming van verordening 412/2008 verbeurt een verwerker de zekerheid ten gunste van de Minister van Economische Zaken bij niet naleving van de relevante voorschriften, bedoeld in die verordening en in deze afdeling.   
+
+### Paragraaf  2  
+
+####A-producten en B-producten
+
+### Artikel  3:16d  
+
+1.  Een verwerker die voor de eerste keer bevroren rundvlees wil invoeren in het kader van een tariefcontingent als bedoeld in verordening 412/2008 dient daartoe tenminste twee weken voor de eerste daadwerkelijke invoer een aanvraag in bij de directeur van de Dienst Regelingen van het Minister van Economische Zaken.   
+2.  Een aanvraag die betrekking heeft op een A-product gaat vergezeld van: 
+
+a. een op een A-product betrekking hebbend recept;  
+
+b. de benaming en de voorgestelde productiecode van het eindproduct;  
+
+c. alle verwerkte grond- en hulpstoffen in een percentage van de totale hoeveelheid verwerkte grondstoffen en het eiwitgehalte van de grond- en hulpstoffen;  
+
+d. het rendement;  
+
+e. de kerntemperatuur en de tijdsduur waarop de kerntemperatuur blijft gehandhaafd tijdens be- of verwerking van het product;  
+
+f. de verpakkingswijze;  
+
+g. het mager rundvleesgehalte;  
+
+h. het totaal vleespercentage;  
+
+i. de verhouding tussen het collageen en het eiwit;  
+
+j. de GN-code van de grondstof en de GN-code van het eindproduct, en  
+
+k. indien het recept betrekking heeft op de bereiding van verkleind vlees of vlees met saus: het vetvrije droge stofgehalte van de overige bestanddelen die niet bestaan uit vlees, vet, of slachtafval.     
+3.  Een aanvraag die betrekking heeft op een B-product gaat vergezeld van: 
+
+a. een op een op een B-product betrekking hebbend recept;  
+
+b. de in onderdeel 2, sub-onderdelen b, d, e, f, en j bedoelde informatie;  
+
+c. alle verwerkte grond- en hulpstoffen in een percentage van de totale hoeveelheid verwerkte grondstoffen, en  
+
+d. indien het recept betrekking heeft op de bereiding van eindproducten met de GN-code 0210 2090 in de gecombineerde nomenclatuur: de verhouding tussen het water en het eiwit.     
+
+### Artikel  3:16e  
+
+De minister van Economische Zaken beslist op een aanvraag als bedoeld in artikel 3:16d, eerste lid, en kan daarbij vaststellen vanaf welke datum de verwerker het recept mag toepassen.  
+
+### Artikel  3:16f  
+
+Een verwerker die een nog niet eerder aan de Minister van Economische Zaken verstrekt recept wil toepassen, of een eerder aan de Minister van Economische Zaken verstrekt recept wil wijzigen dient daartoe een nieuwe aanvraag in overeenkomstig artikel 3:16d, eerste lid.  
+
+### Artikel  3:16g  
+
+De Minister van Economische Zaken kan bij een verwerker of bij een derde onderzoek verrichten naar: 
+
+a. de technische mogelijkheden om de grondstoffen te verwerken tot het in het recept omschreven eindproduct, bedoeld in artikel 16d, tweede of derde lid, of  
+
+b. de inrichting van de administratie van een verwerker ten aanzien van de vraag of deze altijd op eenvoudige wijze inzicht geeft in de aankoop en de verkoop van de grondstoffen en de verkoop en de aflevering van de eindproducten.    
+
+### Artikel  3:16h  
+
+1.  Een verwerker meldt de invoer van bevroren rundvlees tenminste 2 werkdagen voor het tijdstip van invoer schriftelijk aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+2.  Een verwerker die het voornemen heeft om bevroren rundvlees te verwerken overeenkomstig verordening 412/2008 meldt dit tenminste 2 werkdagen voor het tijdstip van aanvang van de productie schriftelijk aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+
+### Artikel  3:16i  
+
+1.  Alvorens de op het invoercertificaat vermelde hoeveelheid bevroren rundvlees te verwerken doet een verwerker een proefbereiding van de voorgenomen verwerking en stelt de Minister van Economische Zaken in de gelegenheid om aanwezig te zijn bij die proefbereiding.   
+2.  De Minister van Economische Zaken berekent het rendement bij een proefbereiding.   
+3.  De Minister van Economische Zaken kan een nieuwe proefbereiding verplicht stellen om het rendement te berekenen.   
+4.  De Minister van Economische Zaken trekt een op grond van artikel 3:16e verleende toestemming in als uit de proefbereiding blijkt dat het bereide product naar zijn oordeel niet is aan te merken als een A-product of als een B-product.   
+5.  Een verwerker informeert de Minister van Economische Zaken voorafgaand aan de verwerking van grondstoffen tot A-producten of tot B-producten als de grondstoffen naar hun aard of kwaliteit duidelijk afwijken van de bij een proefbereiding verwerkte grondstoffen. In dat geval verricht een verwerker altijd een of meerdere nieuwe proefbereidingen als bedoeld in het eerste lid om het rendement alsnog te berekenen.   
+
+### Paragraaf  3  
+
+####Administratieve voorwaarden
+
+### Artikel  3:16j  
+
+Een verwerker doet minimaal één maal per zes weken opgave aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken van de bereide of afgeleverde hoeveelheden verwerkte A-producten of verwerkte B-producten, gespecificeerd per soort, op een door de Minister van Economische Zaken vastgesteld formulier dat beschikbaar is op internetadres www.drloket.nl.  
+
+### Artikel  3:16k  
+
+1.  Een verwerker houdt dagelijks een boekhouding en een voorraadadministratie bij welke betrekking hebben op: 
+
+a. het ter beschikking staande bevroren rundvlees;  
+
+b. het in voorraad gehouden bevroren rundvlees;  
+
+c. het bewerkte of verwerkte bevroren rundvlees;  
+
+d. het ontvangen bevroren rundvlees, en  
+
+e. het afgeleverde bevroren rundvlees.     
+2.  De boekhouding en voorraadadministratie: 
+
+a. bevatten de relevante leveringsbewijzen, facturen en verwerkingsstaten, en  
+
+b. geven ten aanzien van het relevante bevroren rundvlees op eenvoudige wijze inzicht in: 
+
+1°. de dag van invoer van het bevroren rundvlees;  
+
+2°. de dag van ontvangst van het bevroren rundvlees op een bedrijf;  
+
+3°. de aard van het product;  
+
+4°. de herkomst;  
+
+5°. de naam en het adres van een leverancier;  
+
+6°. de dag van bewerking of de dag van verwerking;  
+
+7°. de bewerkte of de verwerkte hoeveelheid;  
+
+8°. de wijzigingen in de voorraad als gevolg van retourzendingen, van verliezen of door soortgelijke oorzaken;  
+
+9°. de dag van aflevering bij een afnemer;  
+
+10°. de hoeveelheid die bij een afnemer is afgeleverd, onderscheiden naar de aard van het product, en  
+
+11°. de naam en het adres van een afnemer.       
+3.  Een verwerker neemt de gegevens, bedoeld in het tweede lid, op in de boekhouding en de voorraadadministratie voor elk afzonderlijk stadium van de bewerking of de verwerking waarin het bevroren rundvlees zich in een bedrijf bevindt.   
+
+### Artikel  3:16l  
+
+De Minister van Economische Zaken kan ontheffing verlenen van de artikelen 3:16j en 3:16k en aan die ontheffing voorwaarden verbinden.  
+
+### Artikel  3:16m  
+
+1.  Een verwerker die A-producten of B-producten levert aan bedrijfseenheden en die geheel of gedeeltelijk eigenaar, vertegenwoordiger, of op enige wijze daarmee vennootschappelijk gelieerd is, stelt de Minister van Economische Zaken in de gelegenheid om de productie per week in de bedrijfseenheden te controleren.   
+2.  Indien het eerste lid van toepassing is: 
+
+a. heeft iedere relevante bedrijfseenheid een boekhouding en een voorraadadministratie die het mogelijk maakt: 
+
+1°. om de wekelijkse productie per week te controleren, en  
+
+2°. om de identiteit en het gebruik van het relevante rundvlees vast te stellen,    
+
+b. meldt iedere relevante bedrijfseenheid uiterlijk binnen de in artikel 3:16h, eerste lid, bedoelde termijn op welke dagen er A-producten of er B-producten worden verwerkt aan de Nederlandse Voedsel- en Warenautoriteit;  
+
+c. houdt iedere relevante bedrijfseenheid op verzoek van de Minister van Economische Zaken de verwerkte A-producten of de verwerkte B-producten beschikbaar voor onderzoek, en  
+
+d. zorgt iedere relevante bedrijfseenheid voor identificatie van de desbetreffende productieverpakkingen door daarop een gebruikelijke productiecode aan te brengen die niet zonder beschadiging van de verpakking van het eindproduct kan worden verwijderd.     
+
+### Paragraaf  4  
+
+####Monstername
+
+### Artikel  3:16n  
+
+1.  De Minister van Economische Zaken kan een monster nemen op een bedrijf van een verwerker of op een andere plaats in de distributieketen van een verwerkt product van de voorraden van de in het kader van verordening 412/2008 verwerkte producten.   
+2.  Een monster van een verwerkt product zonder saus bedraagt tenminste 500 gram en bestaat waar mogelijk uit 3 verpakkingseenheden.   
+3.  Een monster van overige producten bedraagt tenminste 3 van de kleinste verpakkingseenheden.   
+4.  Op verzoek van een verwerker neemt de Minister van Economische Zaken tegelijk met het nemen van een monster als bedoeld in het eerste lid een alternatief monster van gelijke grootte uit dezelfde partij verwerkte producten met dezelfde productiecode.   
+5.  Een verwerker bewaart het in het vierde lid bedoelde alternatieve monster op zijn bedrijf.   
+
+### Artikel  3:16o  
+
+1.  De Minister van Economische Zaken laat een monster onderzoeken als bedoeld in artikel 3:16n, eerste lid.   
+2.  De Minister van Economische Zaken besluit in ieder geval dat een product niet voldoet aan de voorwaarden van deze afdeling indien een monster van een A-product: 
+
+a. ander vlees dan rundvlees bevat;  
+
+b. toevoegingen aan een eindproduct, met uitzondering van water, meer bedragen dan 15% van het netto gewicht van een eindproduct;  
+
+c. de verhouding tussen het collageen en het eiwit groter is dan 0,45 in het eindproduct;  
+
+d. minder dan 20% van het netto gewicht van een eindproduct bestaat uit mager vlees, of  
+
+e. bij doorsnijding van het dikste gedeelte van een eindproduct sporen van een roséachtige vloeistof zijn waar te nemen.     
+3.  De Minister van Economische Zaken concludeert in het advies in ieder geval dat een product niet voldoet aan de voorwaarden van deze afdeling indien een monster van een B-product: 
+
+a. geen rundvlees bevat;  
+
+b. de kleur en consistentie van vers vlees van een verwerkt product met GN-code 0210 20 90 van de gecombineerde nomenclatuur niet volledig is verdwenen, of  
+
+c. de verhouding in het eindproduct tussen het water en het eiwit groter is dan 3,2.     
+
+### Artikel  3:16p  
+
+1.  Indien artikel 3:16o, tweede of derde lid, van toepassing is, kan een verwerker het alternatieve monster, bedoeld in artikel 3:16n, vierde lid, bij wijze van een tegenonderzoek door de Minister van Economische Zaken laten onderzoeken.   
+2.  Bij toepassing van het eerste lid laat de Minister van Economische Zaken de onderzoeksresultaten van een op grond van artikel 3:16n, eerste lid, genomen monster buiten beschouwing en baseert hij een besluit als bedoeld in artikel 3:16o, tweede of derde lid, uitsluitend op de resultaten van het onderzoek van het alternatieve monster, bedoeld in artikel 3:16n, vierde lid.   
+
+### Artikel  3:16q  
+
+1.  Indien de Minister van Economische Zaken op grond van een onderzoek of een tegenonderzoek besluit dat het monster niet voldoet aan de voorschriften komt alle bereide hoeveelheid van dat eindproduct dat door of namens een verwerker is geproduceerd in de week van monstername niet in aanmerking voor toepassing van verordening 412/2008.   
+2.  De Minister van Economische Zaken kan besluiten dat een betrokken eindproduct niet in aanmerking komt voor toepassing van verordening 412/2008 als een tegenonderzoek van een monster herhaaldelijk andere resultaten oplevert dan het onderzoek van een eerder genomen monster.   
+3.  De kosten die samenhangen met het nemen van monsters, het onderzoeken van monsters, waaronder het verrichten van tegenonderzoek, komen voor rekening van de verwerker.   
 
 ### Afdeling  3.3  
 
@@ -531,42 +765,34 @@ Het is verboden te handelen in strijd met de voorschriften, genoemd in de artike
 
 ### Artikel  3:18  
 
-1.  De bevoegdheden, bedoeld in [artikel 3:3 van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md) worden overgedragen aan het productschap.   
-2.  Het productschap wordt aangewezen als: 
+1.  De Minister van Economische Zaken wordt aangewezen als: 
 
 a. de bevoegde instantie, bedoeld in de artikelen 7, vierde lid, 39, eerste lid, en 46, eerste lid, onder b, van verordening 612/2009;  
 
 b. de bevoegde autoriteit, bedoeld in de artikelen 27, vierde lid, en 32, eerste en tweede lid, van verordening 612/2009.     
-3.  Als bevoegde autoriteit, bedoeld in artikel 5, zevende lid, onder b, en 7, derde lid, tweede alinea, van verordening 612/2009 wordt aangewezen het douanekantoor, waar de aangifte ten uitvoer wordt ingediend.   
+2.  Als bevoegde autoriteit, bedoeld in artikel 5, zevende lid, onder b, en 7, derde lid, tweede alinea, van verordening 612/2009 wordt aangewezen het douanekantoor, waar de aangifte ten uitvoer wordt ingediend.   
 
 ### Artikel  3:19  
 
-1.  De toekenning van restitutie, bedoeld in verordening 612/2009, vindt plaats door het productschap.   
-2.  Ten behoeve van de uitvoering van het eerste lid, is het productschap bevoegd: 
-
-a. bewijzen als bedoeld in artikel 10, eerste lid, onder b, tweede gedachtestreepje, van verordening 612/2009, te ontvangen;  
-
-b. aanvullende bewijzen als bedoeld in artikel 27, eerste lid, derde alinea, van verordening 612/2009, te vorderen;  
-
-c. verzoeken als bedoeld in artikel 28, eerste lid, vierde alinea, van verordening 612/2009 te doen.     
-3.  In de gevallen waarin het stellen van zekerheid op grond van een communautaire verplichting een voorwaarde is voor de toekenning van restitutie, wordt de zekerheid gesteld bij het productschap.   
-4.  Het opleggen van administratieve sancties als bedoeld in artikel 48 van verordening 612/2009, vindt plaats door het productschap.   
-5.  Het opleggen van maatregelen als bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 1469/95 van de Raad van de Europese Unie van 22 juni 1995 betreffende de maatregelen die moeten worden genomen ten aanzien van bepaalde begunstigden van uit het EOFGL, afdeling Garantie, gefinancierde verrichtingen (PbEU 1995, L 145) vindt plaats door het productschap.   
+1.  Informatie als bedoeld in de artikelen 10, eerste lid, onder b, tweede aandachtsstreepje, 27, eerste lid, derde alinea, of 28, eerste lid, vierde alinea, van verordening 612/2009 wordt verstrekt aan de Minister van Economische Zaken.   
+2.  In de gevallen waarin het stellen van zekerheid op grond van een EU-verplichting een voorwaarde is voor de toekenning van restitutie, wordt de zekerheid gesteld bij de Minister van Economische Zaken.   
+3.  Het opleggen van administratieve sancties als bedoeld in artikel 48 van verordening 612/2009, vindt plaats door de Minister van Economische Zaken.   
+4.  Het opleggen van maatregelen als bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 1469/95 van de Raad van 22 juni 1995 betreffende de maatregelen die moeten worden genomen ten aanzien van bepaalde begunstigden van uit het EOFGL, afdeling Garantie, gefinancierde verrichtingen (PbEG 1995, L 145) vindt plaats door de Minister van Economische Zaken.   
 
 ### Artikel  3:20  
 
-Het productschap is bevoegd te beslissen op een verzoek als bedoeld in artikel 24, eerste lid, van verordening 612/2009.  
+De Minister van Economische Zaken is bevoegd te beslissen op een verzoek als bedoeld in artikel 24, eerste lid, van verordening 612/2009.  
 
 ### Artikel  3:21  
 
-1.  Het productschap is bevoegd het ontslag te verlenen, bedoeld in artikel 24 van verordening 612/2009.   
-2.  Een verzoek als bedoeld in artikel 24, derde lid, van verordening 612/2009 wordt ingediend bij het productschap.   
-3.  Het productschap is bevoegd de beslissingen, bedoeld in artikel 24, vierde lid, van verordening 612/2009 te nemen.   
+1.  De Minister van Economische Zaken is bevoegd het ontslag te verlenen, bedoeld in artikel 24 van verordening 612/2009.   
+2.  Een verzoek als bedoeld in artikel 24, derde lid, van verordening 612/2009 wordt ingediend bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+3.  De Minister van Economische Zaken is bevoegd de beslissingen, bedoeld in artikel 24, vierde lid, van verordening 612/2009 te nemen.   
 
 ### Artikel  3:22  
 
-1.  De voorzitter van het Hoofdproductschap Akkerbouw verleent de erkenning, bedoeld in artikel 18, eerste lid, van verordening 612/2009.   
-2.  De voorzitter van het Hoofdproductschap Akkerbouw kan een erkenning als bedoeld in het eerste lid schorsen of intrekken in de gevallen, bedoeld in de artikelen 19, eerste lid, en 21, eerste en derde lid, van verordening 612/2009.   
+1.  De Minister van Economische Zaken verleent de erkenning, bedoeld in artikel 18, eerste lid, van verordening 612/2009.   
+2.  De Minister van Economische Zaken kan een erkenning als bedoeld in het eerste lid schorsen of intrekken in de gevallen, bedoeld in de artikelen 19, eerste lid, en 21, eerste en derde lid, van verordening 612/2009.   
 
 ### Afdeling  3.4  
 
@@ -574,8 +800,8 @@ Het productschap is bevoegd te beslissen op een verzoek als bedoeld in artikel 2
 
 ### Artikel  3:23  
 
-1.  Het Hoofdproductschap Akkerbouw is bevoegd tot verlening van de toestemming als bedoeld in artikel 34, eerste lid, van verordening 612/2009.   
-2.  Een belanghebbende dient een schriftelijke aanvraag om de toestemming, bedoeld in het eerste lid, in bij het Hoofdproductschap Akkerbouw.   
+1.  De Minister van Economische Zaken is bevoegd tot verlening van de toestemming als bedoeld in artikel 34, eerste lid, van verordening 612/2009.   
+2.  Een belanghebbende dient een schriftelijke aanvraag om de toestemming, bedoeld in het eerste lid, in bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
 3.  De in het eerste lid bedoelde toestemming wordt verleend indien de belanghebbende: 
 
 a. gespecialiseerd is in scheepsproviandering;  
@@ -583,32 +809,30 @@ a. gespecialiseerd is in scheepsproviandering;
 b. een administratie voert die inzichtelijk maakt dat de landbouwproducten de bestemming hebben bereikt, en  
 
 c. een controleregister bijhoudt als bedoeld in artikel 34, vierde lid, eerste en tweede alinea, van verordening 612/2009, of de bij iedere leverantie gebruikte documenten overlegt waarop de douaneautoriteiten de datum hebben vermeld waarop de producten aan boord zijn gebracht.     
-4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van de toestemming indien de belanghebbende niet langer voldoet aan de in het derde lid bedoelde eisen of aan de eisen, bedoeld in artikel 34 van verordening 612/2009.   
-5.  De Nederlandse Voedsel- en Warenautoriteit gaat, voorafgaand aan de verlening van de toestemming, bedoeld in het eerste lid, na of aan de in het derde lid bedoelde vereisten is voldaan en doet van zijn bevindingen verslag aan het Hoofdproductschap Akkerbouw.   
+4.  De Minister van Economische Zaken is bevoegd tot intrekking van de toestemming indien de belanghebbende niet langer voldoet aan de in het derde lid bedoelde eisen of aan de eisen, bedoeld in artikel 34 van verordening 612/2009.   
 
 ### Artikel  3:24  
 
-1.  Een belanghebbende aan wie de toestemming, bedoeld in artikel 3:23, eerste lid, is verleend, geeft overeenkomstig een bij het productschap op te vragen maandstaat, uiterlijk vóór het eind van de kalendermaand volgend op de maand waarin de landbouwproducten ten uitvoer zijn aangegeven, alle in laatstbedoelde maand aangegeven landbouwproducten op bij het productschap.   
+1.  Een belanghebbende aan wie de toestemming, bedoeld in artikel 3:23, eerste lid, is verleend, geeft overeenkomstig een bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken op te vragen maandstaat, uiterlijk vóór het eind van de kalendermaand volgend op de maand waarin de landbouwproducten ten uitvoer zijn aangegeven, alle in laatstbedoelde maand aangegeven landbouwproducten op bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
 2.  De in het eerste lid bedoelde opgave van landbouwproducten zijn gespecificeerd naar GN-code en, indien van toepassing, de restitutiecode.   
 
 ### Artikel  3:25  
 
-1.  Het productschap is bevoegd tot betaling van de restitutie, bedoeld in artikel 34, eerste lid, van verordening 612/2009.   
-2.  De aanvraag om betaling van restitutie wordt ingediend bij het productschap.   
+1.  De Minister van Economische Zaken is bevoegd tot betaling van de restitutie, bedoeld in artikel 34, eerste lid, van verordening 612/2009.   
+2.  De aanvraag om betaling van restitutie wordt ingediend bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
 3.  In geval van levering van landbouwproducten in een andere lidstaat legt de belanghebbende tevens het terugontvangen controle-exemplaar T5 over.   
 4.  In geval van levering van landbouwproducten aan boor- en productieplatforms en marine- en hulpschepen legt de belanghebbende tevens het leverantiebewijs over.   
 
 ### Artikel  3:26  
 
-1.  Het Hoofdproductschap Akkerbouw is bevoegd tot verlening van een erkenning van de houder van onder douanetoezicht staande bevoorradingsruimten, als bedoeld in de artikelen 37, tweede lid, en 40, tweede lid, tweede alinea, van verordening 612/2009.   
-2.  Een belanghebbende dient een aanvraag om erkenning als bedoeld in het eerste lid, in bij het Hoofdproductschap Akkerbouw.   
+1.  De Minister van Economische Zaken is bevoegd tot verlening van een erkenning van de houder van onder douanetoezicht staande bevoorradingsruimten, als bedoeld in de artikelen 37, tweede lid, en 40, tweede lid, tweede alinea, van verordening 612/2009.   
+2.  Een belanghebbende dient een aanvraag om erkenning als bedoeld in het eerste lid, in bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
 3.  De erkenning, bedoeld in het eerste lid, wordt verleend indien is voldaan aan de voorwaarden, bedoeld in artikel 37, tweede lid, van verordening 612/2009.   
-4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van de erkenning indien uit onderzoek van de Nederlandse Voedsel- en Warenautoriteit is gebleken dat de erkenninghouder niet langer voldoet aan de voorwaarden, bedoeld in het derde lid.   
 
 ### Artikel  3:27  
 
-1.  Het productschap is bevoegd een voorschot op de restitutie te verlenen, indien is voldaan aan de voorwaarden, bedoeld in artikel 37 van verordening 612/2009.   
-2.  Een belanghebbende dient een aanvraag om het voorschot, bedoeld in het eerste lid, in bij het productschap.   
+1.  De Minister van Economische Zaken is bevoegd een voorschot op de restitutie te verlenen, indien is voldaan aan de voorwaarden, bedoeld in artikel 37 van verordening 612/2009.   
+2.  Een belanghebbende dient een aanvraag om het voorschot, bedoeld in het eerste lid, in bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
 
 ### Artikel  3:28  
 
@@ -616,22 +840,26 @@ De verlening van restitutie voor proviandering van zeeschepen, waaronder ook beg
 
 ### Artikel  3:29  
 
-1.  Als bevoegde instantie, bedoeld in artikel 40, eerste lid, van verordening 612/2009, wordt aangewezen de Nederlandse Voedsel- en Warenautoriteit.   
-2.  Als bevoegde instantie, bedoeld in artikel 40, tweede lid, van verordening 612/2009, wordt aangewezen het Productschap Zuivel. Een belanghebbende kan een aanvraag om landbouwproducten over te brengen naar een tweede bevoorradingsdepot indienen bij dat productschap.   
+1.  De Minister van Economische Zaken is de bevoegde instantie, bedoeld in artikel 40, eerste en tweede lid, van verordening 612/2009.   
+2.  Een belanghebbende kan een aanvraag als bedoeld in artikel 40, tweede lid, van verordening 612/2009 indienen bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
 
 ### Artikel  3:30  
 
-1.  Levering aan boor- en productieplatforms geschiedt uitsluitend door een door het Hoofdproductschap Akkerbouw erkende exploitant van een bevoorradingsschip of bevoorradingshelikopter.   
-2.  Een belanghebbende dient een aanvraag om erkenning als bedoeld in het eerste lid, schriftelijk in bij het Hoofdproductschap Akkerbouw.   
-3.  De Nederlandse Voedsel- en Warenautoriteit toetst de aanvraag aan de criteria, bedoeld in artikel 41, tweede lid, onder b, tweede streepje, van verordening 612/2009, en doet hiervan verslag aan het Hoofdproductschap Akkerbouw.   
-4.  Het Hoofdproductschap Akkerbouw is bevoegd tot intrekking van een erkenning indien de belanghebbende niet langer voldoet aan de criteria, bedoeld in het derde lid.   
+1.  Levering aan boor- en productieplatforms geschiedt uitsluitend door een door de Minister van Economische Zaken erkende exploitant van een bevoorradingsschip of bevoorradingshelikopter.   
+2.  Een belanghebbende dient een aanvraag om erkenning als bedoeld in het eerste lid, schriftelijk in bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+3.  De Minister van Economische Zaken toetst de aanvraag aan de criteria, bedoeld in artikel 41, tweede lid, onder b, tweede streepje, van verordening 612/2009.   
+4.  De Minister van Economische Zaken is bevoegd tot intrekking van een erkenning indien de belanghebbende niet langer voldoet aan de criteria, bedoeld in het derde lid.   
 
 ### Artikel  3:31  
 
-1.  De bewijsstukken als bedoeld in artikel 35, tweede lid, van verordening 612/2009 worden door de betrokken deelnemer in zijn administratie bewaard ten behoeve van de Nederlandse Voedsel- en Warenautoriteit. Het bewijs als bedoeld in artikel 36, derde lid, eerste alinea, van verordening 612/2009 wordt ingediend bij de productschappen. Het bewijs als bedoeld in de artikelen 40, vierde en vijfde lid, en 42, tweede lid, van verordening 612/2009 wordt ingediend bij het Productschap Zuivel.   
+1.  De betrokken deelnemer: 
+
+a. bewaart de bewijsstukken, bedoeld in artikel 35, tweede lid, van verordening 612/2009 in zijn administratie ten behoeve van de Minister van Economische Zaken, en  
+
+b. dient het bewijs, bedoeld in de artikelen 36, derde lid, eerste alinea, 40, vierde en vijfde lid, of 42, tweede lid, van verordening 612/2009 in bij de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.     
 2.  Het bewijs, bedoeld in de artikelen 38, tweede lid, eerste alinea, en 40, derde lid, eerste alinea, van verordening 612/2009, wordt ingediend bij de bevoegde autoriteit van de lidstaat waar de aangifte ten uitvoer is gedaan.   
-3.  Op verzoek van een belanghebbende kan het productschap ermee instemmen dat het bewijs, bedoeld in artikel 42, derde lid, onder a of b, tweede streepje, van verordening 612/2009, wordt geleverd met een door de scheepskapitein of een andere scheepsofficier van dienst ondertekend certificaat van ontvangst dat van het scheepsstempel is voorzien.   
-4.  In voorkomend geval kan het productschap op verzoek van een belanghebbende ermee instemmen dat het bewijs, bedoeld in artikel 42, derde lid, onder b, tweede streepje, van verordening 612/2009, wordt geleverd met een door een beambte van de luchtvaartmaatschappij ondertekend certificaat van ontvangst dat van het stempel van de maatschappij is voorzien.   
+3.  Op verzoek van een belanghebbende kan de Minister van Economische Zaken ermee instemmen dat het bewijs, bedoeld in artikel 42, vierde lid, onder a of b, tweede streepje, van verordening 612/2009, wordt geleverd met een door de scheepskapitein of een andere scheepsofficier van dienst ondertekend certificaat van ontvangst dat van het scheepsstempel is voorzien.   
+4.  In voorkomend geval kan de Minister van Economische Zaken op verzoek van een belanghebbende ermee instemmen dat het bewijs, bedoeld in artikel 42, vierde lid, onder b, tweede streepje, van verordening 612/2009, wordt geleverd met een door een beambte van de luchtvaartmaatschappij ondertekend certificaat van ontvangst dat van het stempel van de maatschappij is voorzien.   
 
 ### Afdeling  3.5  
 
@@ -639,12 +867,11 @@ De verlening van restitutie voor proviandering van zeeschepen, waaronder ook beg
 
 ### Artikel  3:32  
 
-1.  Het productschap is bevoegd een toestemming als bedoeld in artikel 76 van het Communautair douanewetboek in samenhang met artikel 282 van de toepassingsverordening Communautair douanewetboek te verlenen.   
+1.  De Minister van Economische Zaken is bevoegd een toestemming als bedoeld in artikel 76 van het Communautair douanewetboek in samenhang met artikel 282 van de toepassingsverordening Communautair douanewetboek te verlenen.   
 2.  De toestemming, bedoeld in het eerste lid, kan slechts betrekking hebben op het achterwege laten bij de aangifte ten uitvoer van de vermelding van gehalte, samenstelling of hoedanigheid van uit te voeren landbouwproducten.   
-3.  Het productschap kan de toestemming, bedoeld in het eerste lid, onder voorwaarden en beperkingen verlenen.   
-4.  Het productschap verleent een toestemming in overeenstemming met de Nederlandse Voedsel- en Warenautoriteit.   
-5.  Het productschap kan een toestemming intrekken, wanneer blijkt dat de voorwaarden en de beperkingen waaronder de toestemming is verleend, niet zijn nageleefd.   
-6.  De Nederlandse Voedsel- en Warenautoriteit houdt toezicht op de naleving van de voorwaarden en beperkingen, bedoeld in het derde lid.   
+3.  De Minister van Economische Zaken kan de toestemming, bedoeld in het eerste lid, onder voorwaarden en beperkingen verlenen.   
+4.  De Minister van Economische Zaken kan een toestemming intrekken, wanneer blijkt dat de voorwaarden en de beperkingen waaronder de toestemming is verleend, niet zijn nageleefd.   
+5.  De Minister van Economische Zaken houdt toezicht op de naleving van de voorwaarden en beperkingen, bedoeld in het derde lid.   
 
 ### Afdeling  3.6  
 
@@ -673,27 +900,27 @@ b. artikel 2, onder 4, van verordening (EG) nr. 1024/2008 van de Commissie van 1
 
 ### Artikel  4:1  
 
-Voor de toepassing van de gecombineerde nomenclatuur, zoals vastgesteld bij Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), worden verstaan onder: 
+Voor de toepassing van de gecombineerde nomenclatuur, zoals vastgesteld bij Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256), worden verstaan onder: 
 
-a. fokpaarden van zuiver ras: de geregistreerde paarden, zoals gedefinieerd in artikel 2, onder b en c, van Richtlijn 90/427/EEG van de Raad van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het intracommunautaire handelsverkeer in paardachtigen (PbEG L 224), met uitzondering van ruinen;  
+a. fokpaarden van zuiver ras: de geregistreerde paarden, zoals gedefinieerd in artikel 2, onder b en c, van Richtlijn 90/427/EEG van de Raad van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het intracommunautaire handelsverkeer in paardachtigen (PbEG 1990, L 224), met uitzondering van ruinen;  
 
-b. fokvarkens van zuiver ras: de ingeschreven of geregistreerde varkens, zoals gedefinieerd in artikel 1 van Richtlijn 88/661/EEG van de Raad van 19 december 1988 betreffende de zoötechnische normen die gelden voor fokvarkens (PbEG L 382).    
+b. fokvarkens van zuiver ras: de ingeschreven of geregistreerde varkens, zoals gedefinieerd in artikel 1 van Richtlijn 88/661/EEG van de Raad van 19 december 1988 betreffende de zoötechnische normen die gelden voor fokvarkens (PbEG 1988, L 382).    
 
 ### Artikel  4:2  
 
 De in artikel 4:1, aanhef en onder a, bedoelde dieren mogen alleen als fokpaarden van zuiver ras in het vrije verkeer worden gebracht indien: 
 
-a. zij vergezeld gaan van een stamboek- en fokkerijcertificaat zoals vastgesteld bij Beschikking 93/623/EEG van de Commissie van 20 oktober 1993 tot vaststelling van het identificatiedocument (paspoort) dat geregistreerde paardachtigen moet vergezellen (PbEG L 298);  
+a. zij vergezeld gaan van een stamboek- en fokkerijcertificaat zoals vastgesteld bij Verordening (EG) Nr. 504/2008 van de Commissie van 6 juni 2008 ter uitvoering van de Richtlijnen 90/426/EEG en 90/427/EEG van de Raad wat betreft methoden voor de identificatie van paardachtigen (PbEU 2008, L 149);  
 
-b. zij vergezeld gaan van een document volgens het in bijlage VIII opgenomen model, waaruit blijkt dat zij in een stamboek of register van de Gemeenschap zullen worden ingeschreven of geregistreerd.    
+b. zij vergezeld gaan van een document volgens het in bijlage VIII opgenomen model, waaruit blijkt dat zij in een stamboek of register van de Unie zullen worden ingeschreven of geregistreerd.    
 
 ### Artikel  4:3  
 
 De in artikel 4:1, aanhef en onder b, bedoelde dieren mogen alleen worden ingevoerd indien: 
 
-a. zij vergezeld gaan van een stamboek- en fokkerijcertificaat, voor zover dit certificaat is ondertekend door een erkende instantie zoals vastgesteld bij beschikking 2006/139/EG van de Commissie van 7 februari 2006 ter uitvoering van Richtlijn 94/28/EG wat betreft een lijst van erkende instanties in derde landen voor het bijhouden van een stamboek of register voor bepaalde dieren (PbEG L 54);  
+a. zij vergezeld gaan van een stamboek- en fokkerijcertificaat, ondertekend door een instantie die door de bevoegde autoriteit in het derde land is erkend voor de uitvoering van Richtlijn 94/28/EG van de Raad van 23 juni 1994 tot vaststelling van de beginselen inzake zoötechnische en genealogische voorschriften voor de invoer uit derde landen van dieren, alsmede van sperma, eicellen en embryo’s en tot wijziging van Richtlijn 77/504/EEG betreffende raszuivere fokrunderen (PbEG 1994, L 178);  
 
-b. zij vergezeld gaan van een document volgens het in bijlage VIII opgenomen model, waaruit blijkt dat zij in een stamboek of register van de Gemeenschap zullen worden ingeschreven of geregistreerd.    
+b. zij vergezeld gaan van een document volgens het in bijlage VIII opgenomen model, waaruit blijkt dat zij in een stamboek of register van de Unie zullen worden ingeschreven of geregistreerd.    
 
 ### Artikel  4:4  
 
@@ -705,7 +932,7 @@ Het is verboden:
 
 a. onjuiste of onvolledige gegevens te verstrekken of te doen verstrekken waarvan het gevolg zou kunnen zijn dat ten onrechte een gunstige tariefregeling wordt toegepast;  
 
-b. een handeling te verrichten of medewerking te weigeren in strijd met de verplichtingen die voortvloeien uit de verordeningen van de Raad of van de Commissie van de Europese Gemeenschappen inzake de toepassing van een gunstige tariefregeling in verband met de bijzondere bestemming, aard of eigenschappen van in het vrije verkeer te brengen goederen.    
+b. een handeling te verrichten of medewerking te weigeren in strijd met de verplichtingen die voortvloeien uit de verordeningen van de Raad van de Europese Unie of van de Europese Commissie inzake de toepassing van een gunstige tariefregeling in verband met de bijzondere bestemming, aard of eigenschappen van in het vrije verkeer te brengen goederen.    
 
 ### Afdeling  4.2  
 
@@ -713,7 +940,7 @@ b. een handeling te verrichten of medewerking te weigeren in strijd met de verpl
 
 ### Artikel  4:6  
 
-Aan accijns onderworpen communautaire goederen kunnen slechts in de ruimten van een douane-entrepot worden opgeslagen voor zover de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in deze opslag voorziet en onder de bij of krachtens de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gestelde voorwaarden en beperkingen.  
+Aan accijns onderworpen EU-goederen kunnen slechts in de ruimten van een douane-entrepot worden opgeslagen voor zover de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in deze opslag voorziet en onder de bij of krachtens de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gestelde voorwaarden en beperkingen.  
 
 ### Artikel  4:7  
 
@@ -829,7 +1056,7 @@ Het in kennis stellen van de inspecteur voorafgaand aan de wederuitvoer vindt pl
 
 ### Artikel  4:19  
 
-Voor goederen, die vallen onder bijlage VII, kolom 4, waarvoor aanspraak op restitutie wordt gemaakt, worden, in de aangifte tot plaatsing onder de douaneregeling uitvoer, de volgende gegevens vermeld: 
+Voor goederen waarvoor de Minister van Economische Zaken wordt verzocht om toekenning van restitutie, worden, in de aangifte tot plaatsing onder de douaneregeling uitvoer, de volgende gegevens vermeld: 
 
 a. aanvraag restitutie ja/nee;  
 
@@ -853,57 +1080,35 @@ b. aanvraag voorschot ja/nee.
 
 ####Non-tarifaire handelspolitieke maatregelen
 
-### Artikel  5:2  
-
-1.  Het in het vrije verkeer brengen van ijzer- en staalproducten als bedoeld in bijlage 1 van Verordening (EG) nr.76/2002 van de Commissie van 17 januari 2002 tot instelling van voorafgaand communautair toezicht op de invoer van bepaalde onder het EGKS-Verdrag en het EG-Verdrag vallende ijzer- en staalproducten, van oorsprong uit bepaalde derde landen, (PbEG L 16) zonder toezichtdocument van de Minister van Economische Zaken, Landbouw en Innovatie is verboden.   
-2.  Het eerste lid is niet van toepassing voor het in het vrije verkeer brengen van ijzer- en staalproducten: 
-
-a. waarvoor een geldige toezichtdocument, afgegeven door een daartoe bevoegde autoriteit van een andere lidstaat van de Europese Unie wordt overgelegd,  
-
-b. die zijn onderworpen aan een tussen een derde land en de EG gesloten overeenkomst inzake toezicht door middel van dubbele controle, waarop de voorwaarden van die overeenkomst van toepassing zijn, of  
-
-c. op de invoer van producten waarvan het nettogewicht niet meer bedraagt dan 2.500 kilogram.     
-
-### Artikel  5:3  
-
-1.  Het in het vrije verkeer brengen van ijzer- en staalproducten, van oorsprong uit de Russische Federatie, genoemd in bijlage 1 van Verordening (EG) nr.1342/2007 van de Raad van 22 oktober 2007 betreffende het beheer van bepaalde beperkingen op de invoer van bepaalde ijzer- en staalproducten uit de Russische Federatie (PbEG L 300), zonder vergunning van de Minister van Economische Zaken is verboden.   
-2.  Het eerste lid is niet van toepassing voor het in het vrije verkeer brengen van ijzer- en staalproducten waarvoor een geldige invoervergunning, afgegeven door een daartoe bevoegde autoriteit van een andere lidstaat van de Europese Unie wordt overgelegd.   
-3.  Het in het vrije verkeer brengen van ijzer- en staalproducten als bedoeld in het eerste lid, zonder een certificaat van oorsprong is verboden.   
-
 ### Artikel  5:4  
 
-1.   Het in het vrije verkeer brengen van ijzer- en staalproducten, van oorsprong uit de Republiek Kazachstan, genoemd in bijlage 1 van Verordening (EG) nr. 1340/2008 van de Raad van 8 december 2008 betreffende de handel in bepaalde ijzer- en staalproducten tussen de Europese Gemeenschap en de Republiek Kazachstan (PbEG L 348), zonder vergunning van de Minister van Economische Zaken, Landbouw en Innovatie is verboden.  
+1.  Het in het vrije verkeer brengen van ijzer- en staalproducten, van oorsprong uit de Republiek Kazachstan, genoemd in bijlage 1 van Verordening (EG) nr. 1340/2008 van de Raad van 8 december 2008 betreffende de handel in bepaalde ijzer- en staalproducten tussen de Europese Gemeenschap en de Republiek Kazachstan (PbEU 2008, L 348), zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking is verboden.   
 2.  Het eerste lid is niet van toepassing voor het in het vrije verkeer brengen van ijzer- en staalproducten waarvoor een geldige invoervergunning, afgegeven door een daartoe bevoegde autoriteit van een andere lidstaat van de Europese Unie, wordt overgelegd.   
 3.  Het in het vrije verkeer brengen van ijzer- en staalproducten als bedoeld in het eerste lid zonder een certificaat van oorsprong is verboden.   
 
 ### Artikel  5:5  
 
-1.  Het in het vrije verkeer brengen van textiel- en kledingproducten, van oorsprong uit Noord-Korea en Belarus, genoemd in bijlage IV bij Verordening (EG) nr. 517/94 van de Raad van 7 maart 1994 betreffende een gemeenschappelijke regeling voor de invoer van textielproducten uit bepaalde derde landen, die niet vallen onder bilaterale overeenkomsten, protocollen of andere regelingen, noch onder een andere, bijzondere, communautaire regeling, (PbEG L 67), zonder vergunning van de Minister van Economische Zaken, Landbouw en Innovatie is verboden.   
+1.  Het in het vrije verkeer brengen van textiel- en kledingproducten, van oorsprong uit Noord-Korea en Belarus, genoemd in bijlage IV bij Verordening (EG) nr. 517/94 van de Raad van 7 maart 1994 betreffende een gemeenschappelijke regeling voor de invoer van textielproducten uit bepaalde derde landen, die niet vallen onder bilaterale overeenkomsten, protocollen of andere regelingen, noch onder een andere, bijzondere, communautaire regeling, (PbEG 1994, L 67), zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking is verboden.   
 2.  Het eerste lid geldt niet indien bij het in het vrije verkeer brengen een geldige invoervergunning wordt overgelegd, afgegeven door een daartoe bevoegde autoriteit van een andere lidstaat van de Europese Unie.   
-
-### Artikel  5:8  
-
-1.  Het in het vrije verkeer brengen van textiel- en kledingproducten, genoemd in bijlage 1 van Verordening (EG) nr. 3030/93 van de Raad van 12 oktober 1993 betreffende een gemeenschappelijke regeling voor de invoer van bepaalde textielproducten uit derde landen, zonder een certificaat van oorsprong is verboden.   
-2.  De in het vorige lid bedoeld bewijsstukken inzake de oorsprong worden aanvaard met inachtneming van de voorwaarden, gesteld in Verordening (EG) nr.1541/98 van de Raad van 13 juli 1998 betreffende de bewijsstukken inzake de oorsprong van bepaalde, in de Gemeenschap in het vrije verkeer gebrachte textielproducten van afdeling XI van de gecombineerde nomenclatuur en betreffende de voorwaarden waaronder die bewijsstukken kunnen worden aanvaard (PbEG L 202).   
 
 ### Artikel  5:9  
 
-1.  Het is verboden om de goederen die vermeld staan in bijlage II van Verordening (EG) nr. 1236/2005 van de Raad van de Europese Unie van 27 juni 2005 met betrekking tot de handel in bepaalde goederen die gebruikt zouden kunnen worden voor de doodstraf, foltering of andere wrede, onmenselijke of onterende behandeling of bestraffing (PbEU L 200), in- en uit te voeren.   
+1.  Het is verboden om de goederen die vermeld staan in bijlage II van Verordening (EG) nr. 1236/2005 van de Raad van 27 juni 2005 met betrekking tot de handel in bepaalde goederen die gebruikt zouden kunnen worden voor de doodstraf, foltering of andere wrede, onmenselijke of onterende behandeling of bestraffing (PbEU 2005, L 200), in- en uit te voeren.   
 2.  Het is verboden om in de gevallen waar op grond van artikel 5 van de verordening, genoemd in het eerste lid, voor de uitvoer een vergunning is vereist, uit te voeren zonder vergunning.   
 
 ### Artikel  5:10  
 
-1.  Het is verboden te handelen in strijd met artikel 2 van Verordening (EG) nr. 953/2003 ter voorkoming van verlegging van het handelsverkeer in bepaalde belangrijke geneesmiddelen naar de Europese Unie (PbEU L 135).   
-2.  De bevoegde autoriteit, bedoeld in de artikelen 8 en 9 van de verordening, genoemd in het eerste lid, is de Minister van Economische Zaken.   
+1.  Het is verboden te handelen in strijd met artikel 2 van Verordening (EG) nr. 953/2003 van de Raad van 26 mei 2003 ter voorkoming van verlegging van het handelsverkeer in bepaalde belangrijke geneesmiddelen naar de Europese Unie (PbEU 2003, L 135).   
+2.  De bevoegde autoriteit, bedoeld in de artikelen 8 en 9 van de verordening, genoemd in het eerste lid, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.   
 
 ### Hoofdstuk  6  
 
-####Goederen die het douanegebied van de Gemeenschap verlaten
+####Goederen die het douanegebied van de Unie verlaten
 
 ### Artikel  6:1  
 
-1.  Als douanekantoor van uitgang voor goederen die over zee het douanegebied van de Gemeenschap verlaten, worden aangewezen de douanekantoren, opgenomen in bijlage III.   
-2.  Als douanekantoor van uitgang voor goederen die door de lucht het douanegebied van de Gemeenschap verlaten, worden aangewezen de douanekantoren, opgenomen in bijlage IV.   
+1.  Als douanekantoor van uitgang voor goederen die over zee het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in bijlage III.   
+2.  Als douanekantoor van uitgang voor goederen die door de lucht het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in bijlage IV.   
 
 ### Artikel  6:1a  
 
@@ -912,17 +1117,17 @@ c. op de invoer van producten waarvan het nettogewicht niet meer bedraagt dan 2.
 
 ### Artikel  6:2  
 
-1.  Van een schip of luchtvaartuig dat het douanegebied van de Gemeenschap over zee of door de lucht zal verlaten, wordt aangifte ten uitklaring gedaan.   
+1.  Van een schip of luchtvaartuig dat het douanegebied van de Unie over zee of door de lucht zal verlaten, wordt aangifte ten uitklaring gedaan.   
 2.  Van alle goederen geladen in een Nederlandse haven of luchthaven aan boord van het in het eerste lid bedoelde schip of luchtvaartuig, wordt eveneens aangifte ten uitklaring gedaan.   
-3.  De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan door het op elektronische wijze inzenden van de generale verklaring (IMO / FAL 1 bij vertrek), zoals voorzien in de bijlage bij de IMO Facilitatie Conventie 1965 van de Internationale Maritieme Organisatie (Trb. 1966, 62), respectievelijk de generale verklaring luchtvaart, zoals is voorzien in bijlage 9 bij het op 7 december 1944 te Chicago tot stand gekomen ICAO verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165) van de Internationale organisatie voor de burgerluchtvaart.   
+3.  De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan door het op elektronische wijze inzenden van de generale verklaring (IMO / FAL 1 bij vertrek), zoals voorzien in de bijlage bij de IMO Facilitatie Conventie 1965 van de Internationale Maritieme Organisatie (Trb. 1966, 162), respectievelijk de generale verklaring luchtvaart, zoals is voorzien in bijlage 9 bij het op 7 december 1944 te Chicago tot stand gekomen ICAO verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165) van de Internationale organisatie voor de burgerluchtvaart.   
 4.  De aangifte ten uitklaring, bedoeld in het tweede lid, wordt gedaan door het op elektronische wijze inzenden van het douanemanifest bij uitgang. In het douanemanifest bij uitgang worden de gegevens opgenomen volgens de in bijlage IXa opgenomen specificaties.   
 5.  De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan voor vertrek van het schip of luchtvaartuig. De aangifte ten uitklaring, bedoeld in het tweede lid, wordt gedaan binnen 3 kalenderdagen na vertrek van het schip of luchtvaartuig.   
 6.  De inspecteur kan toestaan dat wordt afgeweken van het bepaalde in het vijfde lid.   
 
 ### Artikel  6:3  
 
-1.  Als vaarwaters waarlangs schepen en de daarin of daarop aanwezige goederen het douanegebied van de Gemeenschap rechtstreeks verlaten, worden aangewezen de vaarwaters, opgenomen in bijlage II.   
-2.  In afwijking van het eerste lid wordt toegestaan dat goederen die over zee het douanegebied van de Gemeenschap zullen verlaten, worden overgeladen in een schip dat het douanegebied van de Gemeenschap zal verlaten.   
+1.  Als vaarwaters waarlangs schepen en de daarin of daarop aanwezige goederen het douanegebied van de Unie rechtstreeks verlaten, worden aangewezen de vaarwaters, opgenomen in bijlage II.   
+2.  In afwijking van het eerste lid wordt toegestaan dat goederen die over zee het douanegebied van de Unie zullen verlaten, worden overgeladen in een schip dat het douanegebied van de Unie zal verlaten.   
 3.  De toestemming, bedoeld in het tweede lid, wordt slechts verleend voor het overladen van: 
 
 a. provisie of scheepsbehoeften ten behoeve van de bemanning van het schip;  
@@ -934,7 +1139,7 @@ c. goederen welke nodig zijn voor reparatie of vervanging van onderdelen van het
 
 ### Artikel  6:4  
 
-1.  De in artikel 2:3 bedoelde schepen en luchtvaartuigen, alsmede schepen die over zee van de ene in Nederland gelegen haven naar de andere gaan, hoeven bij het verlaten van het douanegebied van de Gemeenschap niet te worden aangebracht bij een douanekantoor van uitgang.   
+1.  De in artikel 2:3 bedoelde schepen en luchtvaartuigen, alsmede schepen die over zee van de ene in Nederland gelegen haven naar de andere gaan, hoeven bij het verlaten van het douanegebied van de Unie niet te worden aangebracht bij een douanekantoor van uitgang.   
 2.  Het eerste lid is niet van toepassing op schepen en luchtvaartuigen als bedoeld in artikel 2:3 indien ter zake van de uitvoer, wederuitvoer, dan wel met het oog op de verkrijging van kwijtschelding of terugbetaling van rechten bij invoer aan het douanekantoor van uitgang formaliteiten moeten worden vervuld.   
 
 ### Artikel  6:4a  
@@ -943,7 +1148,7 @@ De summiere aangifte, bedoeld in artikel 182quater van het Communautair douanewe
 
 ### Artikel  6:5  
 
-Een schip dan wel een luchtvaartuig dat het douanegebied van de Gemeenschap zal verlaten, vertrekt van de haven onderscheidenlijk de internationale luchthaven, bedoeld in het eerste, onderscheidenlijk tweede lid, van artikel 2:1, niet zonder toestemming van de inspecteur.  
+Een schip dan wel een luchtvaartuig dat het douanegebied van de Unie zal verlaten, vertrekt van de haven onderscheidenlijk de internationale luchthaven, bedoeld in het eerste, onderscheidenlijk tweede lid, van artikel 2:1, niet zonder toestemming van de inspecteur.  
 
 ### Hoofdstuk  7  
 
@@ -955,15 +1160,15 @@ Een schip dan wel een luchtvaartuig dat het douanegebied van de Gemeenschap zal 
 
 ### Artikel  7:1  
 
-In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bijlage I, Eerste Deel, Titel II, punt D.1 bij Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256) (de gecombineerde nomenclatuur) worden zonder heffing van rechten bij invoer toegelaten goederen, die in kleine zendingen of door reizigers als bagage worden vervoerd, van oorsprong uit: 
+In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bijlage I, Eerste Deel, Titel II, punt D.1 bij Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256) (de gecombineerde nomenclatuur) worden zonder heffing van rechten bij invoer toegelaten goederen, die in kleine zendingen of door reizigers als bagage worden vervoerd, van oorsprong uit: 
 
 – Andorra, voor zover de goederen vallen onder de hoofdstukken 1 tot en met 24 van de gecombineerde nomenclatuur;  
 
-– de ACS-staten, die vallen onder Verordening (EG) Nr. 1528/2007 van de Raad tot toepassing van de regelingen voor goederen van oorsprong uit bepaalde staten behorende tot de groep van staten in Afrika, het Caribisch gebied en de Stille Oceaan (ACS), die zijn opgenomen in overeenkomsten tot instelling van, of leidende tot instelling van, een economische partnerschapsovereenkomst van 20 december 2007 (PbEU 2007, L 348);  
+– de ACS-staten, die vallen onder Verordening (EG) Nr. 1528/2007 van de Raad van 20 december tot toepassing van de regelingen voor goederen van oorsprong uit bepaalde staten behorende tot de groep van staten in Afrika, het Caribisch gebied en de Stille Oceaan (ACS), die zijn opgenomen in overeenkomsten tot instelling van, of leidende tot instelling van, een economische partnerschapsovereenkomst (PbEU 2007, L 348);  
 
-– Albanië, Algerije, Gebieden onder Palestijnse autoriteit, de begunstigde landen in het kader van het Algemeen Preferentieel Systeem (APS), Bosnië-Herzegovina, Ceuta, Chili, de Europese Economische Ruimte, Egypte, Faeröer, Israël, Jordanië, Kosovo, Kroatië, de Landen en Gebieden Overzee, Libanon, de voormalige Joegoslavische Republiek Macedonië, Marokko, Melilla, Mexico, Moldavië, Montenegro, Servië, Syrië, Tunesië, Zuid-Afrika of Zwitserland;  
+– Albanië, Algerije, Gebieden onder Palestijnse autoriteit, de begunstigde landen in het kader van het Algemeen Preferentieel Systeem (APS), Bosnië-Herzegovina, Ceuta, Chili, de Europese Economische Ruimte, Egypte, Faeröer, Israël, Jordanië, Kosovo, Kroatië, de Landen en Gebieden Overzee, Libanon, de voormalige Joegoslavische Republiek Macedonië, Marokko, Melilla, Mexico, Moldavië, Montenegro, Peru, Servië, Syrië, Tunesië, Zuid-Afrika, Zuid-Korea of Zwitserland;  
 
-– Turkije, voor zover de goederen vallen onder Protocol nr. 1 bij het Besluit van de Commissie over de sluiting van een overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en Turkije betreffende de handel in producten waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing is van 29 februari 1996 (PbEG 1996, L 227) en Protocol nr. 3 bij het Besluit 1/98 van de Associatieraad EG-Turkije betreffende de handelsregeling voor landbouwproducten van 25 februari 1998 (PbEG van 20 maart 1998, L 86).    
+– Turkije, voor zover de goederen vallen onder Protocol nr. 1 bij het Besluit van de Commissie over de sluiting van een overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en Turkije betreffende de handel in producten waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing is van 29 februari 1996 (PbEG 1996, L 227) en Protocol nr. 3 bij het Besluit 1/98 van de Associatieraad EG-Turkije betreffende de handelsregeling voor landbouwproducten van 25 februari 1998 (PbEG 1998, L 86).    
 
 ### Afdeling  7.2  
 
@@ -991,7 +1196,7 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 1.  Als instellingen en organisaties als bedoeld in artikel 43, aanhef en onder b, van Verordening 1186/2009 worden aangewezen de instellingen en organisaties, genoemd in bijlage X.   
 2.  Als instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in bijlage XI.   
-3.  Als instellingen met zetel in de Gemeenschap als bedoeld in artikel 51, tweede lid, onderdeel a, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in bijlage XII.   
+3.  Als instellingen met zetel in de Unie als bedoeld in artikel 51, tweede lid, onderdeel a, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in bijlage XII.   
 4.  Als instellingen als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in bijlage XIII.   
 5.  Als instelling als bedoeld in artikel 55, aanhef en onder a, van Verordening 1186/2009 wordt aangewezen: Stichting Sanquin Bloedvoorziening.   
 6.  Als instellingen als bedoeld in artikel 57 van Verordening 1186/2009 worden aangewezen de ziekenhuizen, gezondheidsinstellingen en dergelijke instellingen welke zich uitsluitend of nagenoeg uitsluitend bezighouden met medisch onderzoek, medische diagnose of medische behandeling.   
@@ -1087,13 +1292,13 @@ Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door re
 
 | Omschrijving  | Grondslag  | Tarief  |
 |:---|:---|:---|
-| a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md):  | liter  | € 6,06  |
-| b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 66%  |
-| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 69,8%  |
+| a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md):  | liter  | € 6,41  |
+| b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 64,4%  |
+| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 66,6%  |
 
 ### Artikel  7:18  
 
-Op de accijnzen, de omzetbelasting en de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten zijn de artikelen 25 tot en met 27 van Verordening 1186/2009 van overeenkomstige toepassing met dien verstande dat: 
+Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 25 tot en met 27 van Verordening 1186/2009 van overeenkomstige toepassing met dien verstande dat: 
 
 a. de vrijstelling voor alcoholhoudende dranken als bedoeld in artikel 27, onderdeel b, eerste en tweede gedachtestreepje, van Verordening 1186/2009, is beperkt tot één fles van het gebruikelijke type met een maximum van 1 liter;  
 
@@ -1139,17 +1344,17 @@ Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstig
 
 ### Artikel  7:26  
 
-1.  Op de accijnzen, de omzetbelasting en de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten zijn de artikelen 185 tot en met 187 van het Communautair douanewetboek, de artikelen 844 tot en met 856 van de toepassingsverordening Communautair douanewetboek alsmede artikel 7:28 van overeenkomstige toepassing met dien verstande dat de bepalingen inzake het inlichtingenblad INF 3 slechts van toepassing zijn voor zover gelijktijdig aanspraak op vrijstelling van rechten bij invoer wordt gemaakt.   
+1.  Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 185 tot en met 187 van het Communautair douanewetboek, de artikelen 844 tot en met 856 van de toepassingsverordening Communautair douanewetboek alsmede artikel 7:28 van overeenkomstige toepassing met dien verstande dat de bepalingen inzake het inlichtingenblad INF 3 slechts van toepassing zijn voor zover gelijktijdig aanspraak op vrijstelling van rechten bij invoer wordt gemaakt.   
 2.  Vrijstelling van omzetbelasting voor terugkerende goederen als bedoeld in het eerste lid wordt slechts verleend, indien wordt aangetoond dat op de terugkerende goederen omzetbelasting drukt.   
 3.  Vrijstelling van accijns voor terugkerende goederen als bedoeld in het eerste lid wordt slechts verleend, indien wordt aangetoond dat de voorafgaande uitvoer van deze goederen niet heeft plaatsgevonden uit een accijnsgoederenplaats dan wel met teruggaaf van accijns.   
-4.  Vrijstelling van verbruiksbelasting voor terugkerende goederen als bedoeld in het eerste lid wordt slechts verleend, indien wordt aangetoond dat de voorafgaande uitvoer van deze goederen niet heeft plaatsgevonden vanuit een inrichting als bedoeld in [artikel 2, onderdeel b, van de Wet op de verbruiksbelastingen van alcoholvrije dranken](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en van enkele andere produkten dan wel met teruggaaf van verbruiksbelasting.   
+4.  Vrijstelling van verbruiksbelasting voor terugkerende goederen als bedoeld in het eerste lid wordt slechts verleend, indien wordt aangetoond dat de voorafgaande uitvoer van deze goederen niet heeft plaatsgevonden vanuit een inrichting als bedoeld in [artikel 2, onderdeel b, van de Wet op de verbruiksbelasting van alcoholvrije dranken](../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) dan wel met teruggaaf van verbruiksbelasting.   
 
 ### Artikel  7:27  
 
 1.  Op de accijnzen zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 95 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de artikelen 7:2 tot en met 7:13, 7:15 en 7:16 van overeenkomstige toepassing.   
 2.  Op de omzetbelasting zijn de artikelen 3 tot en met 20, 21, 24, 54 tot en met 56, 59 tot en met 65, 74 tot en met 103 en 105 tot en met 113 van Verordening 1186/2009, alsmede de artikelen 7:2 tot en met 7:16 van overeenkomstige toepassing.   
 3.  Op de omzetbelasting is artikel 23 van Verordening 1186/2009 van overeenkomstige toepassing met dien verstande dat onder ‘goederen met een te verwaarlozen waarde’ wordt verstaan goederen waarvan de intrinsieke waarde niet meer dan € 22 per zending bedraagt.   
-4.  Op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 90 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de artikelen 7:2 tot en met 7:13, 7:15 en 7:16 van overeenkomstige toepassing.   
+4.  Op de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 90 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de artikelen 7:2 tot en met 7:13, 7:15 en 7:16 van overeenkomstige toepassing.   
 5.  Op de omzetbelasting is de gehele of gedeeltelijke vrijstelling van rechten bij invoer bij het in het vrije verkeer brengen van goederen, die overeenkomstig de douaneregeling passieve veredeling tijdelijk zijn uitgevoerd, van overeenkomstige toepassing.   
 
 ### Afdeling  7.4  
@@ -1166,13 +1371,13 @@ b. aanhangwagens, andere dan die zijn bedoeld in onderdeel a en opleggers, voor 
 
 c. luchtvaartuigen die in één der lidstaten van de Europese Unie zijn ingeschreven;  
 
-d. locomotieven en ander rollend spoorwegmaterieel, die zijn ingeschreven in het wagenpark van een in één der lidstaten gevestigde spoorweg- of andere onderneming, indien wordt aangetoond dat zij tevoren uit het vrije verkeer van het douanegebied van de Gemeenschap zijn uitgevoerd;  
+d. locomotieven en ander rollend spoorwegmaterieel, die zijn ingeschreven in het wagenpark van een in één der lidstaten gevestigde spoorweg- of andere onderneming, indien wordt aangetoond dat zij tevoren uit het vrije verkeer van het douanegebied van de Unie zijn uitgevoerd;  
 
-e. andere vervoermiddelen, indien wordt aangetoond dat zij tevoren uit het vrije verkeer van het douanegebied van de Gemeenschap zijn uitgevoerd;  
+e. andere vervoermiddelen, indien wordt aangetoond dat zij tevoren uit het vrije verkeer van het douanegebied van de Unie zijn uitgevoerd;  
 
-f. containers, met inbegrip van het normale toebehoren en de normale uitrusting daarvan, verpakkingsmiddelen en andere voorwerpen, vervaardigd en ingericht voor het vervoer van goederen, alsmede dekkleden en stuwmateriaal ten aanzien waarvan bij wederinvoer, gelet op de aard, de bijzondere kenmerken en de gebruiksvoorwaarden, aannemelijk is dat zij tevoren uit het vrije verkeer van het douanegebied van de Gemeenschap zijn uitgevoerd;  
+f. containers, met inbegrip van het normale toebehoren en de normale uitrusting daarvan, verpakkingsmiddelen en andere voorwerpen, vervaardigd en ingericht voor het vervoer van goederen, alsmede dekkleden en stuwmateriaal ten aanzien waarvan bij wederinvoer, gelet op de aard, de bijzondere kenmerken en de gebruiksvoorwaarden, aannemelijk is dat zij tevoren uit het vrije verkeer van het douanegebied van de Unie zijn uitgevoerd;  
 
-g. goederen die deel uitmaken van de persoonlijke bagage van reizigers en die tevoren uit het vrije verkeer van het douanegebied van de Gemeenschap zijn uitgevoerd; de inspecteur kan vorderen dat de herkomst uit het vrije verkeer van het douanegebied van de Gemeenschap wordt aangetoond door middel van een schriftelijk bewijsstuk.     
+g. goederen die deel uitmaken van de persoonlijke bagage van reizigers en die tevoren uit het vrije verkeer van het douanegebied van de Unie zijn uitgevoerd; de inspecteur kan vorderen dat de herkomst uit het vrije verkeer van het douanegebied van de Unie wordt aangetoond door middel van een schriftelijk bewijsstuk.     
 2.  Wanneer de inspecteur twijfelt of vervoermiddelen voldoen aan de voorwaarden voor de vrijstelling van rechten bij invoer, kunnen de vervoermiddelen worden ingevoerd nadat zekerheid is gesteld voor de rechten bij invoer die voor die vervoermiddelen verschuldigd zijn. De belanghebbende kan binnen drie maanden bij de inspecteur een verzoek indienen om voor de goederen alsnog vrijstelling van rechten bij invoer te verlenen, mits hij daarbij aantoont dat aan de voorwaarden voor de vrijstelling van rechten bij invoer is voldaan.   
 3.  Het is verboden om aanspraak gemaakt op vrijstelling van rechten bij invoer voor een motorrijtuig waarvan het chassis- of framenummer is gewijzigd of verwijderd zonder dat daartoe door de inspecteur toestemming is verleend.   
 
@@ -1184,11 +1389,11 @@ g. goederen die deel uitmaken van de persoonlijke bagage van reizigers en die te
 
 1.  Binnengebrachte postzendingen als bedoeld in artikel 237, eerste lid, onderdeel A, van de toepassingsverordening Communautair douanewetboek, welke niet rechtstreeks naar een plaats buiten Nederland zullen worden gevoerd, worden gebracht naar een sorteerplaats van de Post of naar een bergplaats van de Post.   
 2.  Vanaf de sorteerplaats kunnen postzendingen als bedoeld in artikel 237, derde lid, onderdeel a, van de toepassingsverordening Communautair douanewetboek zonder verdere formaliteiten ter beschikking worden gesteld aan de geadresseerde. Andere postzendingen worden zonder verdere formaliteiten hetzij buiten Nederland gevoerd, hetzij overgebracht naar een bergplaats van de Post.   
-3.  De plaatsen waar sorteerplaatsen en bergplaatsen voor binnengebrachte postzendingen zijn gelegen, worden door de Minister van Financiën in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie vastgesteld.   
+3.  De plaatsen waar sorteerplaatsen en bergplaatsen voor binnengebrachte postzendingen zijn gelegen, worden door de Minister van Financiën in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking vastgesteld.   
 
 ### Artikel  7:30  
 
-Indien goederen als postzending als bedoeld in artikel 237, eerste lid, onderdeel B, van de toepassingsverordening Communautair douanewetboek het douanegebied van de Gemeenschap zullen verlaten, vindt de aftekening van de van toepassing zijnde aangifte plaats door de Post op plaatsen die door de Minister van Financiën in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie zijn vastgesteld.  
+Indien goederen als postzending als bedoeld in artikel 237, eerste lid, onderdeel B, van de toepassingsverordening Communautair douanewetboek het douanegebied van de Unie zullen verlaten, vindt de aftekening van de van toepassing zijnde aangifte plaats door de Post op plaatsen die door de Minister van Financiën in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking zijn vastgesteld.  
 
 ### Hoofdstuk  8  
 
@@ -1265,8 +1470,8 @@ Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het d
 
 ### Artikel  9:1  
 
-1.  Terugbetaling of kwijtschelding van accijnzen, omzetbelasting en de verbruiksbelastingen van alcoholvrije dranken en enkele andere producten wordt verleend in de gevallen waarin bij of krachtens het Communautair douanewetboek aanspraak op terugbetaling of kwijtschelding van rechten bij invoer bestaat of zou bestaan.   
-2.  De door het Comité genomen beschikking, bedoeld in artikel 239, lid 1, tweede gedachtestreepje, van het Communautair douanewetboek en de ter uitvoering van dat artikel vastgestelde bepalingen zijn van overeenkomstige toepassing op het verzoek om terugbetaling of kwijtschelding voor zover het tevens betrekking heeft op accijnzen, omzetbelasting en de verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten.   
+1.  Terugbetaling of kwijtschelding van accijnzen, omzetbelasting en de verbruiksbelasting van alcoholvrije dranken wordt verleend in de gevallen waarin bij of krachtens het Communautair douanewetboek aanspraak op terugbetaling of kwijtschelding van rechten bij invoer bestaat of zou bestaan.   
+2.  De door het Comité genomen beschikking, bedoeld in artikel 239, lid 1, tweede gedachtestreepje, van het Communautair douanewetboek en de ter uitvoering van dat artikel vastgestelde bepalingen zijn van overeenkomstige toepassing op het verzoek om terugbetaling of kwijtschelding voor zover het tevens betrekking heeft op accijnzen, omzetbelasting en de verbruiksbelasting van alcoholvrije dranken.   
 
 ### Hoofdstuk  10  
 
@@ -1274,7 +1479,7 @@ Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het d
 
 ### Artikel  10:1  
 
-1.  Het drukken van formulieren van certificaten inzake goederenverkeer zonder een vergunning van de Minister van Financiën en het drukken van certificaten van oorsprong zonder vergunning van de Minister van Economische Zaken, Landbouw en Innovatie vormen verzuimen ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 150.   
+1.  Het drukken van formulieren van certificaten inzake goederenverkeer zonder een vergunning van de Minister van Financiën en het drukken van certificaten van oorsprong zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking vormen verzuimen ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 150.   
 2.  Overtreding van het verbod: 
 
 a. bedoeld in artikel 1:14, vierde lid; of  
@@ -1362,6 +1567,23 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 3.  Indien de goederen een spoedige, aanmerkelijke waardevermindering onderhevig zijn of indien de bewaring of het onderhoud ervan een gevaar oplevert dan wel hoge kosten met zich meebrengt, vindt, in afwijking van het tweede lid, de verkoop plaats nadat van het voornemen op door de inspecteur te bepalen wijze in het openbaar kenbaarheid is gegeven.   
 4.  De verkoop van de in bewaring genomen goederen geschiedt in het openbaar en volgens plaatselijke gebruiken.   
 5.  In afwijking van het bepaalde in de vorige leden, kan de verkoop met volmacht van de inspecteur onderhands geschieden indien het vermoeden bestaat dat uit de opbrengst van de goederen de aan een openbare verkoop verbonden kosten niet kunnen worden bestreden of indien het de verkoop van in het derde lid bedoelde goederen betreft.   
+
+### Hoofdstuk  12a  
+
+####Overgangsrecht
+
+### Artikel  12a:1  
+
+1.  De op 1 januari 2014 aanhangige aanvragen of verzoeken die zijn ingediend op grond van een verordening als bedoeld in [artikel 3:4, tweede lid, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md) of op grond van deze regeling bij een productschap als bedoeld in artikel 1:2, onderdeel f, zoals dat artikelonderdeel luidde op 31 december 2013, worden met ingang van 1 januari 2014 behandeld door de op grond van deze regeling bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.   
+2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van een verordening als bedoeld in [artikel 3:4, tweede lid, van het besluit](../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md) of op grond van deze regeling door een productschap als bedoeld in artikel 1:2, onderdeel f, zoals dat artikelonderdeel luidde op 31 december 2013, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen op grond van deze regeling door de daartoe bevoegde autoriteit.   
+
+### Artikel  12a:2  
+
+Een voorzitter van een productschap als bedoeld in artikel 1:2, onderdeel f, zoals dat artikelonderdeel luidde op 31 december 2013, kan tot en met 1 juli 2014 ter uitvoering van een EU-verplichting namens de Minister van Economische Zaken overgaan tot het vrijgeven van een zekerheid of tot het verbeurdverklaren van een zekerheid die bij hem is gesteld op grond van artikel 3:7 zoals dat artikel luidde op 31 december 2013.  
+
+### Artikel  12a:3  
+
+Dit hoofdstuk vervalt met het opschrift op 1 januari 2015.  
 
 ### Hoofdstuk  13  
 
@@ -1512,33 +1734,33 @@ Plaatsen waar schepen en de daarmee vervoerde goederen eveneens kunnen worden aa
 
 #### *Inleiding* 
 
-In artikel 205 van de toepassingsverordening Communautair douanewetboek (CDW) is bepaald dat het Enig Document het officiële model is voor de schriftelijke douaneaangifte van goederen in het kader van de normale procedure met het oog op hun plaatsing onder een douaneregeling (in het vrije verkeer brengen, douanevervoer, douane-entrepot, actieve veredeling, behandeling onder douanetoezicht, tijdelijke invoer, passieve veredeling, uitvoer) of bij wederuitvoer ter beëindiging van een economische douaneregeling. De invulling van het formulier Enig document wordt toegelicht in Bijlage 37 van de toepassingsverordening Communautair douanewetboek (TVo.CDW) terwijl in Bijlage 38 van dezelfde verordening de te gebruiken communautaire codes voor het invullen staan vermeld. Op grond van artikel 212, derde lid, TVo.CDW is het aan de douaneadministratie van de Lidstaten toegestaan de communautaire toelichting nader aan te vullen. Nederland heeft van deze mogelijkheid gebruik gemaakt door in artikel 2:11 van de Algemene douaneregeling vast te leggen dat dit kan geschieden bij Ministeriële regeling. Deze Toelichting Enig document is de uitwerking daarvan en vormt een integraal onderdeel van de Douaneregeling. Artikel 222 TVo.CDW bepaalt voorts dat indien de aangiften worden gedaan met behulp van systemen voor geautomatiseerde gegevensverwerking de in Bijlage 37 bedoelde gegevens moeten overeenstemmen met de voor de schriftelijke aangifte vereiste gegevens. De Toelichting bestaat uit drie titels, waarvan een algemeen gedeelte, Titel I, waarin een matrix is opgenomen op basis waarvan kan worden bepaald welke vakken ingevuld dienen te worden bij een bepaalde douaneprocedure. In Titel II wordt een beschrijving van de afzonderlijke vakken gegeven voor de formaliteiten bij uitvoer, douanevervoer en invoer. Titel III bevat informatie voor het invullen van aanvullende formulieren Enig document. De bij de invulling te gebruiken codes zijn afzonderlijk opgenomen in het codeboek Sagitta. In artikel 2:11 van de Algemene douaneregeling is bepaald dat het codeboek Sagitta beschikbaar is via het Internetadres www.douane.nl. Teneinde de gebruiker een compleet overzicht te kunnen geven van alle formaliteiten, die van belang zijn voor de juiste invulling van het Enig document, bevat de Toelichting zowel de communautaire aanwijzingen uit Bijlage 37 als de nationale aanvullingen. In het codeboek Sagitta zijn daartoe zowel de communautaire codes uit Bijlage 38 als de codes die nationaal zijn vastgesteld opgenomen.  
+In artikel 205 van de toepassingsverordening Communautair douanewetboek (TVo.CDW) is bepaald dat het Enig Document het officiële model is voor de schriftelijke douaneaangifte van goederen in het kader van de normale procedure met het oog op hun plaatsing onder een douaneregeling (in het vrije verkeer brengen, douanevervoer, douane-entrepot, actieve veredeling, behandeling onder douanetoezicht, tijdelijke invoer, passieve veredeling, uitvoer) of bij wederuitvoer ter beëindiging van een economische douaneregeling. De invulling van het formulier Enig document wordt toegelicht in Bijlage 37 van de TVo.CDW terwijl in Bijlage 38 van dezelfde verordening de te gebruiken EU-codes voor het invullen staan vermeld. Op grond van artikel 212, derde lid, TVo.CDW is het aan de douaneadministratie van de lidstaten toegestaan de EU-toelichting nader aan te vullen. Nederland heeft van deze mogelijkheid gebruik gemaakt door in artikel 2:11 van de Algemene douaneregeling vast te leggen dat dit kan geschieden bij Ministeriële regeling. Deze Toelichting Enig document is de uitwerking daarvan en vormt een integraal onderdeel van de Douaneregeling. Artikel 222 TVo.CDW bepaalt voorts dat indien de aangiften worden gedaan met behulp van systemen voor geautomatiseerde gegevensverwerking de in Bijlage 37 bedoelde gegevens moeten overeenstemmen met de voor de schriftelijke aangifte vereiste gegevens. De Toelichting bestaat uit drie titels, waarvan een algemeen gedeelte, Titel I, waarin een matrix is opgenomen op basis waarvan kan worden bepaald welke vakken ingevuld dienen te worden bij een bepaalde douaneprocedure. In Titel II wordt een beschrijving van de afzonderlijke vakken gegeven voor de formaliteiten bij uitvoer, douanevervoer en invoer. Titel III bevat informatie voor het invullen van aanvullende formulieren Enig document. De bij de invulling te gebruiken codes zijn afzonderlijk opgenomen in het codeboek Sagitta. In artikel 2:11 van de Algemene douaneregeling is bepaald dat het codeboek Sagitta beschikbaar is via het Internetadres www.douane.nl. Teneinde de gebruiker een compleet overzicht te kunnen geven van alle formaliteiten, die van belang zijn voor de juiste invulling van het Enig document, bevat de Toelichting zowel de EU-aanwijzingen uit Bijlage 37 als de nationale aanvullingen. In het codeboek Sagitta zijn daartoe zowel de EU-codes uit Bijlage 38 als de codes die nationaal zijn vastgesteld opgenomen.  
 
 #### *Titel I. Algemene opmerkingen* 
 
 #### *A. Algemeen* 
 
-Wanneer de aangifte voor een douaneregeling wordt gedaan met gebruik van geautomatiseerde systemen (Sagitta-Invoer, Sagitta-Uitvoer en NCTS) zijn de onderstaande bepalingen betreffende de schriftelijke aangifte mutatis mutandis van toepassing. De formulieren en aanvullende formulieren worden gebruikt: 
+Wanneer de aangifte voor een douaneregeling wordt gedaan met gebruik van geautomatiseerde systemen (AGS, Sagitta-Invoer, Sagitta-Uitvoer en NCTS) zijn de onderstaande bepalingen betreffende de schriftelijke aangifte mutatis mutandis van toepassing. De formulieren en aanvullende formulieren worden gebruikt: 
 
-a. wanneer volgens de communautaire wetgeving aangifte tot plaatsing onder een douaneregeling of tot wederuitvoer moet worden gedaan;  
+a. wanneer volgens bindende EU-rechtshandelingen aangifte tot plaatsing onder een douaneregeling of tot wederuitvoer moet worden gedaan;  
 
-b. indien nodig, tijdens de in een toetredingsakte bepaalde overgangsperiode, in het handelsverkeer tussen de Gemeenschap in haar samenstelling voor de toetreding en de nieuwe lidstaten, enerzijds, en tussen deze laatste onderling, anderzijds, voor goederen waarvoor alle douanerechten en heffingen van gelijke werking nog niet geheel zijn opgeheven of waarvoor nog andere in de toetredingsakte vastgestelde maatregelen gelden;  
+b. indien nodig, tijdens de in een toetredingsakte bepaalde overgangsperiode, in het handelsverkeer tussen de Unie in haar samenstelling voor de toetreding en de nieuwe lidstaten, enerzijds, en tussen deze laatste onderling, anderzijds, voor goederen waarvoor alle douanerechten en heffingen van gelijke werking nog niet geheel zijn opgeheven of waarvoor nog andere in de toetredingsakte vastgestelde maatregelen gelden;  
 
-c. wanneer de communautaire wetgeving daar uitdrukkelijk in voorziet.   De aldus te gebruiken formulieren en aanvullende formulieren bestaan uit de exemplaren die nodig zijn voor het vervullen van de formaliteiten voor een of meer douaneregelingen en worden gekozen uit een set van acht exemplaren: 
+c. wanneer bindende EU-rechtshandelingen daar uitdrukkelijk in voorzien.   De aldus te gebruiken formulieren en aanvullende formulieren bestaan uit de exemplaren die nodig zijn voor het vervullen van de formaliteiten voor een of meer douaneregelingen en worden gekozen uit een set van acht exemplaren: 
 
 – exemplaar 1 te bewaren door de autoriteiten van de lidstaat waar de formaliteiten bij uitvoer (eventueel verzending) of communautair douanevervoer worden vervuld,  
 
-– exemplaar 2 bestemd voor de statistiek van de lidstaat van uitvoer; dit exemplaar kan eveneens worden gebruikt voor de statistiek van de lidstaat van verzending in het geval van handelsverkeer tussen delen van het douanegebied van de Gemeenschap met verschillende belastingstelsels,  
+– exemplaar 2 bestemd voor de statistiek van de lidstaat van uitvoer; dit exemplaar kan eveneens worden gebruikt voor de statistiek van de lidstaat van verzending in het geval van handelsverkeer tussen delen van het douanegebied van de Unie met verschillende belastingstelsels,  
 
 – exemplaar 3 bestemd voor de exporteur, na visering door de douane,  
 
-– exemplaar 4 te bewaren door het kantoor van bestemming bij communautair douanevervoer of te gebruiken als bewijs van de communautaire status van de goederen,  
+– exemplaar 4 te bewaren door het kantoor van bestemming bij communautair douanevervoer of te gebruiken als bewijs van de EU-status van de goederen,  
 
 – exemplaar 5 terugzendingsexemplaar van de regeling communautair douanevervoer,  
 
 – exemplaar 6 te bewaren door de autoriteiten van de lidstaat waar de formaliteiten bij invoer worden vervuld,  
 
-– exemplaar 7 bestemd voor de statistiek van de lidstaat van invoer. Dit exemplaar kan eveneens voor de statistiek van deze lidstaat worden gebruikt wanneer het gaat om handelsverkeer tussen delen van het douanegebied van de Gemeenschap met verschillende belastingstelsels.  
+– exemplaar 7 bestemd voor de statistiek van de lidstaat van invoer. Dit exemplaar kan eveneens voor de statistiek van deze lidstaat worden gebruikt wanneer het gaat om handelsverkeer tussen delen van het douanegebied van de Unie met verschillende belastingstelsels.  
 
 – exemplaar 8 bestemd voor de geadresseerde.   Verschillende combinaties van exemplaren zijn dus mogelijk, bijvoorbeeld: 
 
@@ -1546,7 +1768,7 @@ c. wanneer de communautaire wetgeving daar uitdrukkelijk in voorziet.   De aldus
 
 – communautair douanevervoer: exemplaren 1, 4 en 5,  
 
-– douaneregelingen bij invoer: exemplaren 6, 7 en 8.   Bovendien moet in bepaalde gevallen het communautaire karakter van de goederen op de plaats van bestemming worden aangetoond. In dergelijke gevallen kan het exemplaar nr. 4 als T2L document worden gebruikt. Dit betekent dat belanghebbenden de sets kunnen laten drukken die overeenkomen met de door hen gemaakte keuze, voor zover het gebruikte formulier in overeenstemming is met het officiële model. Iedere set moet zodanig zijn samengesteld dat wanneer voor de betrokken lidstaten eenzelfde gegeven moet worden ingevuld, dit door de exporteur of de aangever rechtstreeks op exemplaar nr. 1 wordt vermeld en als gevolg van de chemische behandeling die het papier heeft ondergaan op alle exemplaren wordt doorgeschreven. Wanneer daarentegen om een of andere reden (met name wanneer naar gelang de fase waarin de goederenbeweging zich bevindt andere gegevens moeten worden ingevuld) een gegeven niet van de ene lidstaat naar de andere dient te worden doorgegeven, mag dit gegeven uitsluitend op de betrokken exemplaren worden doorgeschreven. Bij gebruikmaking van een systeem van geautomatiseerde aangiftebehandeling, bestaat de mogelijkheid sets te gebruiken waarvan elk exemplaar een dubbele bestemming heeft: 1/6, 2/7, 3/8 en 4/5. In dit geval worden op elke gebruikte set de nummers van de overeenkomstige exemplaren vermeld, terwijl de niet van toepassing zijnde nummers worden doorgehaald. Deze sets zijn zo samengesteld dat de op de verschillende exemplaren te vermelden gegevens dankzij de chemische behandeling van het papier worden doorgeschreven. Wanneer overeenkomstig artikel 205, lid 3, TVo.CDW aangiften tot plaatsing onder een douaneregeling of tot wederuitvoer of documenten waarmee het communautaire karakter wordt aangetoond van goederen die niet onder de regeling intern communautair douanevervoer worden vervoerd, met behulp van openbare of particuliere systemen voor automatische gegevensverwerking op blanco papier worden gesteld, moet aan alle vormvereisten van het CDW of van de onderhavige verordening zijn voldaan, ook wat de ommezijde van het formulier betreft (voor de in het kader van de regeling communautair douanevervoer gebruikte exemplaren), met uitzondering van: 
+– douaneregelingen bij invoer: exemplaren 6, 7 en 8.   Bovendien moet in bepaalde gevallen het EU-karakter van de goederen op de plaats van bestemming worden aangetoond. In dergelijke gevallen kan het exemplaar nr. 4 als T2L document worden gebruikt. Dit betekent dat belanghebbenden de sets kunnen laten drukken die overeenkomen met de door hen gemaakte keuze, voor zover het gebruikte formulier in overeenstemming is met het officiële model. Iedere set moet zodanig zijn samengesteld dat wanneer voor de betrokken lidstaten eenzelfde gegeven moet worden ingevuld, dit door de exporteur of de aangever rechtstreeks op exemplaar nr. 1 wordt vermeld en als gevolg van de chemische behandeling die het papier heeft ondergaan op alle exemplaren wordt doorgeschreven. Wanneer daarentegen om een of andere reden (met name wanneer naar gelang de fase waarin de goederenbeweging zich bevindt andere gegevens moeten worden ingevuld) een gegeven niet van de ene lidstaat naar de andere dient te worden doorgegeven, mag dit gegeven uitsluitend op de betrokken exemplaren worden doorgeschreven. Bij gebruikmaking van een systeem van geautomatiseerde aangiftebehandeling, bestaat de mogelijkheid sets te gebruiken waarvan elk exemplaar een dubbele bestemming heeft: 1/6, 2/7, 3/8 en 4/5. In dit geval worden op elke gebruikte set de nummers van de overeenkomstige exemplaren vermeld, terwijl de niet van toepassing zijnde nummers worden doorgehaald. Deze sets zijn zo samengesteld dat de op de verschillende exemplaren te vermelden gegevens dankzij de chemische behandeling van het papier worden doorgeschreven. Wanneer overeenkomstig artikel 205, lid 3, TVo.CDW aangiften tot plaatsing onder een douaneregeling of tot wederuitvoer of documenten waarmee het EU-karakter wordt aangetoond van goederen die niet onder de regeling intern communautair douanevervoer worden vervoerd, met behulp van openbare of particuliere systemen voor automatische gegevensverwerking op blanco papier worden gesteld, moet aan alle vormvereisten van het Communautair douanewetboek (CDW) of van de onderhavige verordening zijn voldaan, ook wat de ommezijde van het formulier betreft (voor de in het kader van de regeling communautair douanevervoer gebruikte exemplaren), met uitzondering van: 
 
 – de kleur van de drukinkt,  
 
@@ -1554,7 +1776,7 @@ c. wanneer de communautaire wetgeving daar uitdrukkelijk in voorziet.   De aldus
 
 – de onderdruk van de vakken die betrekking hebben op communautair douanevervoer.   De aangifte voor douanevervoer wordt in een enkel exemplaar ingediend bij het kantoor van vertrek wanneer dit kantoor de aangifte met behulp van een systeem voor de automatische gegevensverwerking (NCTS) verwerkt. Het hier te lande vervaardigen van formulieren Enig document is slechts toegestaan onder voorwaarde dat de formulieren geheel identiek zijn aan de officiële uitgaven opgenomen in de bijlagen 31 tot en met 34 TVo.CDW. Formulieren die in een andere lidstaat door de douane zijn aanvaard, worden hier te lande geaccepteerd. Extra exemplaren van de formulieren Enig document worden gebruikt: 
 
-– bij communautair douanevervoer naar of via Zwitserland dient aan het Zwitserse kantoor van binnenkomst een extra exemplaar dat identiek is aan het exemplaar nr. 4 te worden afgegeven (zie artikel 12 van de overeenkomst tussen de EEG en de EVA-landen betreffende een gemeenschappelijke regeling inzake douanevervoer). <sup> 1  Onder ‘EVA’ wordt in deze bijlage niet enkel verstaan de landen van de EVA, doch eveneens de andere partijen bij de overeenkomsten ‘Gemeenschappelijk douanevervoer’ en ‘Vereenvoudiging van de formaliteiten in het goederenverkeer’, met uitzondering van de Gemeenschap.  </sup>  
+– bij communautair douanevervoer naar of via Zwitserland dient aan het Zwitserse kantoor van binnenkomst een extra exemplaar dat identiek is aan het exemplaar nr. 4 te worden afgegeven (zie artikel 12 van de overeenkomst tussen de EEG en de EVA-landen betreffende een gemeenschappelijke regeling inzake douanevervoer). <sup> 1  Onder ‘EVA’ wordt in deze bijlage niet enkel verstaan de landen van de EVA, doch eveneens de andere partijen bij de overeenkomsten ‘Gemeenschappelijk douanevervoer’ en ‘Vereenvoudiging van de formaliteiten in het goederenverkeer’, met uitzondering van de Unie.  </sup>  
 
 – indien goederen onder een douaneregeling worden geplaatst met gebruikmaking van het formulier Enig document, dienen in de hierna omschreven gevallen één, twee of drie extra exemplaren van het formulier Enig document te worden ingediend. Daartoe is nationaal een exemplaar 0/0 ontwikkeld. De aangever kan voor het extra exemplaar echter ook een fotokopie van het formulier Enig document gebruiken. Achter de verticaal gedrukte aanduidingen van het extra exemplaar komen letters en een lettercombinatie voor. De aangever kan door omcirkeling van een letter of lettercombinatie aanduiden voor welk doel het extra exemplaar wordt ingediend. 
 
@@ -1562,13 +1784,13 @@ c. wanneer de communautaire wetgeving daar uitdrukkelijk in voorziet.   De aldus
 
 * Extra exemplaar (W): Wanneer een aangifte voor een douaneregeling wordt gedaan waarbij een exemplaar noodzakelijk is om de goederen weg te mogen voeren, kan een extra exemplaar (W) worden ingediend.  
 
-* Extra exemplaar (D-W): Wanneer een exemplaar van het Enig document als vervoersopdracht wordt gebruikt op grond van de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) of de Wet op de verbruiksbelasting, kan een extra exemplaar (D-W) worden ingediend.  
+* Extra exemplaar (D-W): Wanneer een exemplaar van het Enig document als vervoersopdracht wordt gebruikt op grond van de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) of de Wet op de verbruiksbelasting van alcoholvrije dranken, kan een extra exemplaar (D-W) worden ingediend.  
 
 * Extra exemplaar (Z): Een extra exemplaar (Z) moet worden ingediend indien het betreft goederen waarvoor in de vrijstellingsvergunning is bepaald dat een vrijstellingsregeling wordt gehouden.      
 
 #### *B. Te vermelden gegevens* 
 
-De invulling van de vakken en deelvakken wordt beheerst door de communautaire matrix van Bijlage 37 TVo.CDW. In de nationale matrix, die hierna is opgenomen, is de communautaire matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling of -bestemming, bewijs communautair karakter van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met L. Wanneer de formaliteiten in verband met het douanevervoer door de uitwisseling van EDI-berichten worden vervuld, geldt het bepaalde in deze bijlage behoudens andersluidende bepalingen in de bijlagen 37bis of 37quater van de toepassingsverordening Communautair douanewetboek. Voorzover van toepassing zijn daarbij ook vermeld de codes van de gevraagde regelingen als bedoeld voor het eerste deelvak van vak 37:  
+De invulling van de vakken en deelvakken wordt beheerst door de EU-matrix van Bijlage 37 TVo.CDW. In de nationale matrix, die hierna is opgenomen, is de EU-matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling of -bestemming, bewijs EU-karakter van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met L. Wanneer de formaliteiten in verband met het douanevervoer door de uitwisseling van EDI-berichten worden vervuld, geldt het bepaalde in deze bijlage behoudens andersluidende bepalingen in de bijlagen 37bis of 37quater van de toepassingsverordening Communautair douanewetboek. Voorzover van toepassing zijn daarbij ook vermeld de codes van de gevraagde regelingen als bedoeld voor het eerste deelvak van vak 37:  
 
 | Opschriften van de kolommen in de nationale matrix  | In het eerste deelvak van vak 37 te gebruiken codes  |
 |:---|:---|
@@ -1578,7 +1800,7 @@ De invulling van de vakken en deelvakken wordt beheerst door de communautaire ma
 | D: Wederuitvoer na opslag in douane-entrepot  | 31  |
 | E: Passieve veredeling  | 21, 22  |
 | F: Douanevervoer  | --- |
-| G: Communautair karakter van de goederen  | --- |
+| G: EU-karakter van de goederen  | --- |
 | H: In het vrije verkeer brengen  | 01, 02, 07, 40 41, 42, 43, 45, 48, 49, 61, 63, 68  |
 | I: Plaatsing onder een economische douaneregeling andere dan passieve veredeling en douane-entrepot (actieve veredeling (schorsingssysteem), tijdelijke invoer, behandeling onder douanetoezicht)  | 51, 53, 54(a), 91, 92(a)  (a) verwijst uitsluitend naar de voorafgaande regeling.  |
 | J: Opslag in douane-entrepot van het type A, B, C, E of F <sup>1</sup>  | 71, 78  |
@@ -1666,7 +1888,7 @@ Opgemerkt zij dat indien een vak verplicht is voor de aangever (X), dit geen afb
 | 55  | --- | --- | --- | --- | --- | X  | --- | --- | --- | --- | --- | --- |
 | 56  | --- | --- | --- | --- | --- | X  | --- | --- | --- | --- | --- | --- |
 
-Voetnoten <sup>1</sup> Dit gegeven is verplicht voor landbouwproducten die voor uitvoerrestituties in aanmerking komen. <sup>2</sup> Dit gegeven mag enkel in het kader van niet-geautomatiseerde procedures worden gevraagd. <sup>3</sup> Wanneer de aangifte slechts op één enkel artikel betrekking heeft wordt dit vak niet ingevuld. <sup>4</sup> Dit vak is verplicht voor het NCTS (nieuw geautomatiseerd systeem voor douanevervoer) overeenkomstig het bepaalde in bijlage 37 bis TVo.CDW. <sup>5</sup> Dit gegeven mag enkel in het kader van geautomatiseerde procedures worden gevraagd. <sup>6</sup> Dit vak behoeft niet te worden ingevuld wanneer de geadresseerde noch in de EU, noch in een EVA-land gevestigd is. <sup>7</sup> Niet gebruiken in geval van verzending met de post of door vaste installaties. <sup>8</sup> Niet gebruiken bij verzending met de post, door vaste installaties of per spoor. <sup>9</sup> Niet van toepassing in NL. <sup>10</sup> Het 3e deelvak niet invullen. <sup>11</sup> Dit gegeven uitsluitend invullen in gevallen waarbij een uitzondering wordt gemaakt op de in titel V, hoofdstuk 6, neergelegde regels inzake de maandelijkse vaststelling van de wisselkoersen. <sup>12</sup> Dit vak wordt niet ingevuld wanneer de uitvoerformaliteiten op de plaats van uitgang uit de Gemeenschap worden vervuld. <sup>13</sup> Dit vak wordt niet ingevuld wanneer de invoerformaliteiten op de plaats van binnenkomst in de Gemeenschap worden vervuld. <sup>14</sup> Dit vak kan in het kader van het NCTS-systeem worden gebruikt volgens de bepalingen van bijlage 37bis TVo.CDW. <sup>15</sup> Verplicht bij wederuitvoer na opslag in een entrepot van het type D <sup>16</sup> Dit deelvak moet worden ingevuld: – wanneer de aangifte voor douanevervoer door dezelfde persoon wordt opgesteld samen met of volgend op een douaneaangifte waarop de goederencode is vermeld, of – wanneer de aangifte voor douanevervoer betrekking heeft op goederen die in bijlage 44 quater TVo.CDW zijn vermeld, of – wanneer de communautaire wetgeving daarin voorziet. <sup>17</sup> Enkel in te vullen wanneer de communautaire wetgeving daarin voorziet. <sup>18</sup> Niet van toepassing in NL. <sup>19</sup> Niet van toepassing in NL. <sup>20</sup> Niet van toepassing in NL. <sup>21</sup> Niet van toepassing in NL. <sup>22</sup> Niet van toepassing in NL. <sup>23</sup> Dit vak moet worden ingevuld wanneer de aangifte tot plaatsing onder een douaneregeling ten doel heeft het stelsel van douane-entrepots aan te zuiveren. <sup>24</sup> Dit vak moet worden ingevuld bij inslag in een Bevoorradingsdepot <sup>25</sup> Indien een aangifte via geautomatiseerde wijze wordt aangeleverd is de vermelding van de naam, adres, woonplaats gegevens uitsluitend toegestaan indien geen identificatienummer is vermeld. <sup>26</sup> Alleen van toepassing bij de aanvullende aangifte in het kader van de vereenvoudigde procedures als bedoeld in artikel 76, 1, letters b en c CDW. <sup>27</sup> Het betreft hier het EORI-nummer dat door de bevoegde autoriteit is afgegeven. Aan personen die incidenteel aangifte doen (zoals bijvoorbeeld particulieren) wordt in beginsel geen EORI-nummer verstrekt. In dat geval kan worden volstaan met vermelding van uitsluitend NAW-gegevens. Eventueel mag het aan deze persoon verstrekte BSN-nummer worden vermeld, voorafgegaan door ‘NL’. <sup>28</sup> Dit gegeven is verplicht wanneer in de uitvoeraangifte ook de veiligheidsgegevens van bijlage 30bis Toepassingsverordening Communautair douanewetboek moeten worden opgenomen.  
+Voetnoten <sup>1</sup> Dit gegeven is verplicht voor landbouwproducten die voor uitvoerrestituties in aanmerking komen. <sup>2</sup> Dit gegeven mag enkel in het kader van niet-geautomatiseerde procedures worden gevraagd. <sup>3</sup> Wanneer de aangifte slechts op één enkel artikel betrekking heeft wordt dit vak niet ingevuld. <sup>4</sup> Dit vak is verplicht voor het NCTS (nieuw geautomatiseerd systeem voor douanevervoer) overeenkomstig het bepaalde in bijlage 37 bis TVo.CDW. <sup>5</sup> Dit gegeven mag enkel in het kader van geautomatiseerde procedures worden gevraagd. <sup>6</sup> Dit vak behoeft niet te worden ingevuld wanneer de geadresseerde noch in de EU, noch in een EVA-land gevestigd is. <sup>7</sup> Niet gebruiken in geval van verzending met de post of door vaste installaties. <sup>8</sup> Niet gebruiken bij verzending met de post, door vaste installaties of per spoor. <sup>9</sup> Niet van toepassing in NL. <sup>10</sup> Het 3e deelvak niet invullen. <sup>11</sup> Dit gegeven uitsluitend invullen in gevallen waarbij een uitzondering wordt gemaakt op de in titel V, hoofdstuk 6, neergelegde regels inzake de maandelijkse vaststelling van de wisselkoersen. <sup>12</sup> Dit vak wordt niet ingevuld wanneer de uitvoerformaliteiten op de plaats van uitgang uit de Unie worden vervuld. <sup>13</sup> Dit vak wordt niet ingevuld wanneer de invoerformaliteiten op de plaats van binnenkomst in de Unie worden vervuld. <sup>14</sup> Dit vak kan in het kader van het NCTS-systeem worden gebruikt volgens de bepalingen van bijlage 37bis TVo.CDW. <sup>15</sup> Verplicht bij wederuitvoer na opslag in een entrepot van het type D <sup>16</sup> Dit deelvak moet worden ingevuld: – wanneer de aangifte voor douanevervoer door dezelfde persoon wordt opgesteld samen met of volgend op een douaneaangifte waarop de goederencode is vermeld, of – wanneer de aangifte voor douanevervoer betrekking heeft op goederen die in bijlage 44 quater TVo.CDW zijn vermeld, of –wanneer de bindende EU-rechtshandelingen daarin voorzien. <sup>17</sup> Enkel in te vullen wanneer de bindende EU-rechtshandelingen daarin voorzien. <sup>18</sup> Niet van toepassing in NL. <sup>19</sup> Niet van toepassing in NL. <sup>20</sup> Niet van toepassing in NL. <sup>21</sup> Niet van toepassing in NL. <sup>22</sup> Niet van toepassing in NL. <sup>23</sup> Dit vak moet worden ingevuld wanneer de aangifte tot plaatsing onder een douaneregeling ten doel heeft het stelsel van douane-entrepots aan te zuiveren. <sup>24</sup> Dit vak moet worden ingevuld bij inslag in een Bevoorradingsdepot <sup>25</sup> Indien een aangifte via geautomatiseerde wijze wordt aangeleverd is de vermelding van de naam, adres, woonplaats gegevens uitsluitend toegestaan indien geen identificatienummer is vermeld. <sup>26</sup> Alleen van toepassing bij de aanvullende aangifte in het kader van de vereenvoudigde procedures als bedoeld in artikel 76, 1, letters b en c CDW. <sup>27</sup> Het betreft hier het EORI-nummer dat door de bevoegde autoriteit is afgegeven. Aan personen die incidenteel aangifte doen (zoals bijvoorbeeld particulieren) wordt in beginsel geen EORI-nummer verstrekt. In dat geval kan worden volstaan met vermelding van uitsluitend NAW-gegevens. Eventueel mag het aan deze persoon verstrekte BSN-nummer worden vermeld, voorafgegaan door ‘NL’. <sup>28</sup> Dit gegeven is verplicht wanneer in de uitvoeraangifte ook de veiligheidsgegevens van bijlage 30bis Tvo.CDW moeten worden opgenomen.  
 
 #### *C. Gebruiksaanwijzing van het formulier* 
 
@@ -1680,9 +1902,9 @@ Wanneer de gebruikte set minstens één exemplaar bevat dat in een andere lidsta
 
 #### *Titel II. Aanwijzingen voor het invullen van de vakken* 
 
-De in de vakken te vermelden communautaire- en nationale codes zijn opgenomen in het Codeboek Sagitta, beschikbaar via Internetadres http://www.douane.nl. Eventuele toelichtingen op het gebruik van de codes zijn door middel van een noot bij het betreffende vak opgenomen in deel D van Titel II. 
+De in de vakken te vermelden EU- en nationale codes zijn opgenomen in het Codeboek Sagitta, beschikbaar via Internetadres http://www.douane.nl. Eventuele toelichtingen op het gebruik van de codes zijn door middel van een noot bij het betreffende vak opgenomen in deel D van Titel II. 
 
-#### *Deel A. Formaliteiten bij uitvoer/verzending, opslag in douane-entrepot met voorfinanciering met het oog op uitvoer, wederuitvoer, passieve veredeling, communautair douanevervoer en/of in verband met het bewijs van het communautair karakter van goederen* 
+#### *Deel A. Formaliteiten bij uitvoer/verzending, opslag in douane-entrepot met voorfinanciering met het oog op uitvoer, wederuitvoer, passieve veredeling, communautair douanevervoer en/of in verband met het bewijs van het EU-karakter van goederen* 
 
 ###Vak A. Kantoor van Verzending/Uitvoer
 
@@ -1695,10 +1917,10 @@ Dit vak behoeft niet te worden ingevuld indien het formulier uitsluitend wordt g
 – het aangiftevolgnummer, dit is een uniek nummer bestaande uit ten hoogste acht cijfers naar eigen keuze van de aangever. Het mag niet hetzelfde zijn als een nummer dat eerder in hetzelfde jaar door dezelfde aangever aan een aangifte is toegekend. Het nummer van een buiten werking gestelde aangifte mag niet opnieuw worden gebruikt.   De drie bestanddelen dienen in bovenstaande volgorde te worden vermeld op één regel onderling van elkaar gescheiden door spaties of in drie regels onder elkaar. Een aangever aan wie geen EORI-nummer is toegekend, vermeldt niets in dit vak. 
 ###Vak 1: Aangifte
 
-In het eerste deelvak het aangiftesymbool vermelden volgensde desbetreffende communautaire code (zie codeboek Sagitta, onderdeel uitvoer, tabel A03). In het tweede deelvak het type aangifte vermelden volgens de desbetreffende communautaire code (zie codeboek Sagitta, onderdeel uitvoer, tabel A04). In het derde deelvak de desbetreffende communautaire code vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel 031). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+In het eerste deelvak het aangiftesymbool vermelden volgensde desbetreffende EU-code (zie codeboek Sagitta, onderdeel uitvoer, tabel A03). In het tweede deelvak het type aangifte vermelden volgens de desbetreffende EU-code (zie codeboek Sagitta, onderdeel uitvoer, tabel A04). In het derde deelvak de desbetreffende EU-code vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel 031). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 2: Afzender/exporteur
 
-Bij ‘Nr.’ het in artikel 1, punt 16, TVo. CDW bedoelde EORI-nummer vermelden dat door de douane aan de afzender/exporteur is toegekend. Indien de afzender/exporteur niet over een EORI-nummer beschikt, de naam en voornaam of de handelsnaam en het adres van de belanghebbende vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. Bij groepagezendingen wordt in dit vak het woord ‘diverse’ vermeld, gevolgd door de desbetreffende communautaire code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). Tevens wordt de lijst van afzenders/exporteurs bij de aangifte gevoegd. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Bij ‘Nr.’ het in artikel 1, punt 16, TVo. CDW bedoelde EORI-nummer vermelden dat door de douane aan de afzender/exporteur is toegekend. Indien de afzender/exporteur niet over een EORI-nummer beschikt, de naam en voornaam of de handelsnaam en het adres van de belanghebbende vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. Bij groepagezendingen wordt in dit vak het woord ‘diverse’ vermeld, gevolgd door de desbetreffende EU-code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). Tevens wordt de lijst van afzenders/exporteurs bij de aangifte gevoegd. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 3: Formulieren
 
 Het volgnummer van de set in het totale aantal gebruikte sets (formulieren en aanvullende formulieren samen) vermelden. Bijvoorbeeld: wanneer één EX-formulier en twee EX/c-formulieren worden ingediend, op het EX-formulier 1/3, op het eerste EX/c-formulier 2/3 en op het tweede EX/c-formulier 3/3 invullen. Wanneer voor de aangifte twee sets van vier exemplaren in plaats van één set van acht exemplaren worden gebruikt, worden deze geacht, wat het aantal formulieren betreft, slechts één set te vormen. 
@@ -1716,10 +1938,10 @@ In cijfers het totale aantal colli vermelden waaruit de zending is samengesteld.
 Dit is het commerciële referentienummer dat door belanghebbende aan de betrokken zending is toegekend. Naar keuze in te vullen door belanghebbende. (Voor een nadere toelichting op het gebruik van de referentie, zie deel D van Titel II.) 
 ###Vak 8: Geadresseerde
 
-Naam en voornaam of handelsnaam en adres vermelden van de persoon of personen bij wie de goederen zullen worden afgeleverd. Voor goederen met voorfinanciering die met bestemming uitvoer in een douane-entrepot worden opgeslagen is de geadresseerde verantwoordelijk voor de voorfinanciering of voor het entrepot waar de goederen worden opgeslagen. Bij ‘Nr.’ het in artikel 1, punt 16, TVo. CDW bedoelde EORI-nummer vermelden dat door de douane aan de geadresseerde is toegekend. Indien de geadresseerde niet over een EORI-nummer beschikt kan de douane hem voor de betrokken aangifte een nummer toekennen. Bij groepagezendingen wordt in dit vak het woord ‘diverse’ vermeld, gevolgd door de betreffende communautaire code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). Tevens wordt de lijst van geadresseerden bij de aangifte gevoegd. 
+Naam en voornaam of handelsnaam en adres vermelden van de persoon of personen bij wie de goederen zullen worden afgeleverd. Bij ‘Nr.’ het in artikel 1, punt 16, TVo. CDW bedoelde EORI-nummer vermelden dat door de douane aan de geadresseerde is toegekend. Indien de geadresseerde niet over een EORI-nummer beschikt kan de douane hem voor de betrokken aangifte een nummer toekennen. Bij groepagezendingen wordt in dit vak het woord ‘diverse’ vermeld, gevolgd door de betreffende EU-code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). Tevens wordt de lijst van geadresseerden bij de aangifte gevoegd. 
 ###Vak 14: Aangever/vertegenwoordiger
 
-Voorafgaand aan de naam van de aangever/vertegenwoordiger moet de code van diens status worden vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel A81). Indien de aangever tevens de exporteur is, de tekst ‘exporteur’ vermelden, alsmede de desbetreffende communautaire code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). 
+Voorafgaand aan de naam van de aangever/vertegenwoordiger moet de code van diens status worden vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel A81). Indien de aangever tevens de exporteur is, de tekst ‘exporteur’ vermelden, alsmede de desbetreffende EU-code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). 
 ### *Aangifte op eigen naam en voor eigen rekening:* 
 
 Bij ‘Nr.’ het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelden. Indien de aangever niet over een EORI-nummer beschikt de naam en voornaam of de handelsnaam en volledige adres van de aangever vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. 
@@ -1731,13 +1953,13 @@ Bij ‘Nr.’ het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelde
 Bij ‘Nr.’ het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelden. Indien de vertegenwoordiger niet over een EORI-nummer beschikt de naam en voornaam of de handelsnaam en volledige adres van de vertegenwoordiger vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. Tevens het EORI-nummer van de vertegenwoordigde vermelden. Indien de vertegenwoordigde niet over een EORI-nummer beschikt de naam en voornaam of de handelsnaam en volledige adres van de vertegenwoordigde vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. In geval van een niet-geautomatiseerde aangifte kunnen de gegevens van de vertegenwoordigde worden vermeld in vak 9. 
 ###Vak 15: Land van verzending/uitvoer
 
-Ten behoeve van de formaliteiten bij uitvoer wordt onder ‘werkelijke lidstaat van uitvoer’ verstaan de lidstaat waaruit de goederen aanvankelijk met het oog op de uitvoer werden verzonden wanneer de exporteur niet in de lidstaat van uitvoer is gevestigd. De lidstaat van uitvoer is identiek aan de werkelijke lidstaat van uitvoer wanneer geen enkele andere lidstaat bij de transactie is betrokken. Bij douanevervoer in vak 15 de lidstaat van waaruit de goederen zijn verzonden vermelden. In vak 15a volgens de desbetreffende communautaire code de lidstaat vermelden waaruit de goederen worden uitgevoerd/verzonden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Ten behoeve van de formaliteiten bij uitvoer wordt onder ‘werkelijke lidstaat van uitvoer’ verstaan de lidstaat waaruit de goederen aanvankelijk met het oog op de uitvoer werden verzonden wanneer de exporteur niet in de lidstaat van uitvoer is gevestigd. De lidstaat van uitvoer is identiek aan de werkelijke lidstaat van uitvoer wanneer geen enkele andere lidstaat bij de transactie is betrokken. Bij douanevervoer in vak 15 de lidstaat van waaruit de goederen zijn verzonden vermelden. In vak 15a volgens de desbetreffende EU-code de lidstaat vermelden waaruit de goederen worden uitgevoerd/verzonden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 17: Land van bestemming
 
-Bij douanevervoer in vak 17 het land van bestemming vermelden waarnaar de goederen worden gezonden. In vak 17a de betreffende communautaire code vermelden van het laatste land van bestemming dat op het tijdstip van uitvoer bekend is waarnaar de goederen dienen te worden uitgevoerd (zie codeboek Sagitta, onderdeel algemeen, tabel S01). Wanneer goederen met prefinanciering onder het stelsel van douane-entrepots worden geplaatst, wordt in dit vak het land vermeld waarvoor de goederen zijn bestemd. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Bij douanevervoer in vak 17 het land van bestemming vermelden waarnaar de goederen worden gezonden. In vak 17a de betreffende EU-code vermelden van het laatste land van bestemming dat op het tijdstip van uitvoer bekend is waarnaar de goederen dienen te worden uitgevoerd (zie codeboek Sagitta, onderdeel algemeen, tabel S01). 
 ###Vak 18: Identiteit en nationaliteit van het vervoermiddel bij vertrek
 
-De identiteit vermelden van het voertuig waarin de goederen rechtstreeks zijn geladen op het tijdstip waarop de formaliteiten bij uitvoer of voor douanevervoer worden vervuld, gevolgd door de nationaliteit volgens de desbetreffende communautaire code van het vervoermiddel (of van het vervoermiddel waarmee het geheel wordt voortbewogen indien er meerdere vervoermiddelen zijn). Wanneer een trekker en een aanhangwagen verschillende registratienummers hebben, zowel het registratienummer van de trekker als dat van de aanhangwagen en de nationaliteit van de trekker vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Naargelang het gebruikte vervoermiddel worden ter identificatie de volgende vermeldingen aangebracht:  
+De identiteit vermelden van het voertuig waarin de goederen rechtstreeks zijn geladen op het tijdstip waarop de formaliteiten bij uitvoer of voor douanevervoer worden vervuld, gevolgd door de nationaliteit volgens de desbetreffende EU-code van het vervoermiddel (of van het vervoermiddel waarmee het geheel wordt voortbewogen indien er meerdere vervoermiddelen zijn). Wanneer een trekker en een aanhangwagen verschillende registratienummers hebben, zowel het registratienummer van de trekker als dat van de aanhangwagen en de nationaliteit van de trekker vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Naargelang het gebruikte vervoermiddel worden ter identificatie de volgende vermeldingen aangebracht:  
 
 | Vervoermiddel  | Wijze van identificatie  |
 |:---|:---|
@@ -1748,13 +1970,13 @@ De identiteit vermelden van het voertuig waarin de goederen rechtstreeks zijn ge
 
 ###Vak 19: Container (Ctr)
 
-Volgens de desbetreffende communautaire code de voorziene situatie bij het overschrijden van de buitengrens van de Gemeenschap vermelden zoals deze bekend is op het tijdstip waarop de formaliteiten bij uitvoer of voor douanevervoer worden vervuld. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Volgens de desbetreffende EU-code de voorziene situatie bij het overschrijden van de buitengrens van de Unie vermelden zoals deze bekend is op het tijdstip waarop de formaliteiten bij uitvoer of voor douanevervoer worden vervuld. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 20: Leveringsvoorwaarden
 
-Door middel van de desbetreffende communautaire codes de relevante clausules van het handelscontract opgeven, alsmede de plaatsnaam c.q. de contractvoorwaarde (zie codeboek Sagitta, onderdeel algemeen, tabel A14). 
+Door middel van de desbetreffende EU-codes de relevante clausules van het handelscontract opgeven, alsmede de plaatsnaam c.q. de contractvoorwaarde (zie codeboek Sagitta, onderdeel algemeen, tabel A14). 
 ###Vak 21: Identiteit en nationaliteit van het grensoverschrijdende actieve vervoermiddel
 
-Volgens de desbetreffende communautaire code de nationaliteit vermelden van het actieve vervoermiddel waarmee de buitengrens van de Gemeenschap wordt overschreden, zoals deze bij het vervullen van de formaliteiten bij uitvoer of voor douanevervoer bekend is (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Bij gecombineerd vervoer of wanneer het vervoer met meer dan een vervoermiddel geschiedt, is het voertuig dat het geheel voortbeweegt het actieve vervoermiddel. Bijvoorbeeld, bij vrachtwagen op schip is het schip het actieve vervoermiddel, bij trekker en aanhangwagen is dit de trekker. Naargelang het vervoermiddel, worden wat de identiteit betreft, de volgende vermeldingen aangebracht:  
+Volgens de desbetreffende EU-code de nationaliteit vermelden van het actieve vervoermiddel waarmee de buitengrens van de Unie wordt overschreden, zoals deze bij het vervullen van de formaliteiten bij uitvoer of voor douanevervoer bekend is (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Bij gecombineerd vervoer of wanneer het vervoer met meer dan een vervoermiddel geschiedt, is het voertuig dat het geheel voortbeweegt het actieve vervoermiddel. Bijvoorbeeld, bij vrachtwagen op schip is het schip het actieve vervoermiddel, bij trekker en aanhangwagen is dit de trekker. Naargelang het vervoermiddel, worden wat de identiteit betreft, de volgende vermeldingen aangebracht:  
 
 | Vervoermiddel  | Wijze van identificatie  |
 |:---|:---|
@@ -1765,28 +1987,28 @@ Volgens de desbetreffende communautaire code de nationaliteit vermelden van het 
 
 ###Vak 22: Valuta en totaal gefactureerd bedrag
 
-In het eerste deelvak, volgens de desbetreffende communautaire code de valuta van de factuur vermelden (zie codeboek, Sagitta onderdeel, algemeen tabel S10). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) In het tweede deelvak het gefactureerde bedrag vermelden voor alle aangegeven goederen. 
+In het eerste deelvak, volgens de desbetreffende EU-code de valuta van de factuur vermelden (zie codeboek, Sagitta onderdeel, algemeen tabel S10). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) In het tweede deelvak het gefactureerde bedrag vermelden voor alle aangegeven goederen. 
 ###Vak 24: Aard van de transactie
 
-In het eerste deelvak, door middel van de desbetreffende communautaire codes en indeling de gegevens vermelden waaruit blijkt om welk type contract het in dit geval gaat (zie codeboek Sagitta, onderdeel algemeen, tabel A22) (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Het tweede deelvak behoeft niet te worden ingevuld. 
+In het eerste deelvak, door middel van de desbetreffende EU-codes en indeling de gegevens vermelden waaruit blijkt om welk type contract het in dit geval gaat (zie codeboek Sagitta, onderdeel algemeen, tabel A22) (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Het tweede deelvak behoeft niet te worden ingevuld. 
 ###Vak 25: Vervoerwijze aan de grens
 
-Volgens de desbetreffende communautaire code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Gemeenschap naar verwachting zullen verlaten (zie codeboek Sagitta, onderdeel algemeen, tabel A27). 
+Volgens de desbetreffende EU-code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Unie naar verwachting zullen verlaten (zie codeboek Sagitta, onderdeel algemeen, tabel A27). 
 ###Vak 26: Binnenlandse vervoerwijze
 
-Volgens de desbetreffende communautaire code de wijze van vervoer bij vertrek vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel A27). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Volgens de desbetreffende EU-code de wijze van vervoer bij vertrek vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel A27). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 27: Plaats van lading
 
-In dit vak wordt de plaats, zoals bekend bij het vervullen van de formaliteiten voor douanevervoer, vermeld waar de goederen worden geladen op of in het actieve vervoermiddel waarmee zij de grens van de Gemeenschap zullen overschrijden. 
+In dit vak wordt de plaats, zoals bekend bij het vervullen van de formaliteiten voor douanevervoer, vermeld waar de goederen worden geladen op of in het actieve vervoermiddel waarmee zij de grens van de Unie zullen overschrijden. 
 ###Vak 29: Kantoor van uitgang
 
-Volgens de desbetreffende communautaire code het douanekantoor vermelden via hetwelk de goederen het douanegebied van de Gemeenschap vermoedelijk zullen verlaten (zie codeboek Sagitta, onderdeel algemeen, tabel S20). (voor toelichting gebruik code, zie deel D van Titel II.) 
+Volgens de desbetreffende EU-code het douanekantoor vermelden via hetwelk de goederen het douanegebied van de Unie vermoedelijk zullen verlaten (zie codeboek Sagitta, onderdeel algemeen, tabel S20). (voor toelichting gebruik code, zie deel D van Titel II.) 
 ###Vak 30: Plaats waar de goederen zich bevinden
 
 Een nauwkeurige vermelding van de plaats, bestaande uit de postcode aangevuld met huisnummer, waar de goederen kunnen worden onderzocht. 
 ###Vak 31: Colli en omschrijving van de goederen; merken en nummers – containernummer(s) – aantal en soort
 
-1. In dit vak de merken en nummers, het aantal en de soort van de colli vermelden, of voor onverpakte goederen het aantal voorwerpen, evenals de voor de identificatie van de goederen vereiste gegevens. Als omschrijving van de goederen kan met de gebruikelijke handelsbenaming worden volstaan. Wanneer vak 33 ‘goederencode’ moet worden ingevuld, moet deze handelsbenaming dermate duidelijk zijn dat de goederen aan de hand daarvan kunnen worden ingedeeld. In dit vak worden eveneens de bij bijzondere voorschriften vereiste gegevens vermeld (bijvoorbeeld inzake accijns, omzetbelasting, landbouw enz.). De aard van de colli wordt volgens de desbetreffende communautaire code vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel A25). Indien de goederen die in dit vak worden omschreven een gedeelte vormen van de inhoud van één collo, dient te worden vermeld: deel van collo nr. .... (in te vullen het nummer van het collo of, als het geen nummer heeft, de identiteitsgegevens). Deze vermelding laat onverlet de verplichting om merk, nummer, aantal en soort van het collo te vermelden. Indien containers worden gebruikt, dienen in dit vak bovendien de merktekens daarvan te worden vermeld. 2. Voor halfzware olie en gasolie de aantekening ‘onvermengd’ of ‘voorzien van herkenningsmiddelen’ plaatsen, gevolgd door de desbetreffende nationale code voor bijzondere vermeldingen (zie codeboek Sagitta onderdeel uitvoer tabel A12). 3. In de gevallen waarin de productschapsgoederencode moet worden vermeld, deze code vermelden voorafgegaan door de vermelding ‘PGC’. 4. In de gevallen waarin volgens artikel 5, vierde lid, van de Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU L 186), de samenstelling moet worden opgegeven, deze vermelden met toepassing van maatstafcodes en maatstafhoeveelheden. (zie codeboek Sagitta onderdeel uitvoer tabel T08). Indien de samenstelling achterwege mag blijven op grond van een toestemming van de productschappen, bedoeld in artikel 3:32, hier het toestemmingsnummer vermelden. (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+1. In dit vak de merken en nummers, het aantal en de soort van de colli vermelden, of voor onverpakte goederen het aantal voorwerpen, evenals de voor de identificatie van de goederen vereiste gegevens. Als omschrijving van de goederen kan met de gebruikelijke handelsbenaming worden volstaan. Wanneer vak 33 ‘goederencode’ moet worden ingevuld, moet deze handelsbenaming dermate duidelijk zijn dat de goederen aan de hand daarvan kunnen worden ingedeeld. In dit vak worden eveneens de bij bijzondere voorschriften vereiste gegevens vermeld (bijvoorbeeld inzake accijns, omzetbelasting, landbouw enz.). De aard van de colli wordt volgens de desbetreffende EU-code vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel A25). Indien de goederen die in dit vak worden omschreven een gedeelte vormen van de inhoud van één collo, dient te worden vermeld: deel van collo nr. .... (in te vullen het nummer van het collo of, als het geen nummer heeft, de identiteitsgegevens). Deze vermelding laat onverlet de verplichting om merk, nummer, aantal en soort van het collo te vermelden. Indien containers worden gebruikt, dienen in dit vak bovendien de merktekens daarvan te worden vermeld. 2. Voor halfzware olie en gasolie de aantekening ‘onvermengd’ of ‘voorzien van herkenningsmiddelen’ plaatsen, gevolgd door de desbetreffende nationale code voor bijzondere vermeldingen (zie codeboek Sagitta onderdeel uitvoer tabel A12). 3. Vervallen. 4. In de gevallen waarin volgens artikel 5, vierde lid, van de Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU 2009, L 186), de samenstelling moet worden opgegeven, deze vermelden met toepassing van maatstafcodes en maatstafhoeveelheden. (zie codeboek Sagitta onderdeel uitvoer tabel T08). Indien de samenstelling achterwege mag blijven op grond van een toestemming als bedoeld in artikel 3:32, hier het toestemmingsnummer vermelden. (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 32: Artikelnummer
 
 Indien sprake is van meer dan één artikel, in dit vak het volgnummer van het betrokken artikel vermelden in het totale aantal artikelen, opgegeven in vak 5, dat in de formulieren en aanvullende formulieren is aangegeven. 
@@ -1795,7 +2017,7 @@ Indien sprake is van meer dan één artikel, in dit vak het volgnummer van het b
 De goederencode van het betrokken artikel vermelden. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 34: Code land van oorsprong
 
-In vak 34a, volgens de desbetreffende communautaire code het land van oorsprong als bedoeld in Titel II van het CDW vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+In vak 34a, volgens de desbetreffende EU-code het land van oorsprong als bedoeld in Titel II van het CDW vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 35: Brutomassa (kg)
 
 De brutomassa (kg) vermelden van de in vak 31 omschreven goederen. De brutomassa is de massa van de goederen vermeerderd met de massa van al hun verpakkingen, met uitzondering van het transportmaterieel en met name van de containers. Wanneer een aangifte voor douanevervoer op meerdere soorten goederen betrekking heeft, kan ermee worden volstaan de totale brutomassa in het eerste vak 35 te vermelden, terwijl de andere vakken 35 niet worden ingevuld. Wanneer de brutomassa meer dan 1 kg bedraagt en een fractie van een eenheid (kg) omvat, mag de volgende afronding worden toegepast: 
@@ -1805,19 +2027,19 @@ De brutomassa (kg) vermelden van de in vak 31 omschreven goederen. De brutomassa
 – van 0,5 tot 0,999: afronding op de hogere eenheid (kg).   Wanneer de brutomassa minder dan 1 kg bedraagt, verdient het aanbeveling deze in de vorm ‘0,xyz’ te vermelden (bijvoorbeeld: ‘0,654’ is gelijk aan 654 gram). 
 ###Vak 37: Regeling
 
-Volgens de desbetreffende communautaire- en nationale codes de regeling vermelden waarvoor de goederen zijn aangegeven (zie codeboek Sagitta, onderdeel uitvoer, tabel A35 voor het eerste deelvak en tabel A29 voor het tweede deelvak). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+Volgens de desbetreffende EU- en nationale codes de regeling vermelden waarvoor de goederen zijn aangegeven (zie codeboek Sagitta, onderdeel uitvoer, tabel A35 voor het eerste deelvak en tabel A29 voor het tweede deelvak). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 38: Nettomassa (kg)
 
 De nettomassa (kg) vermelden van de in vak 31 omschreven goederen. De nettomassa is de eigen massa van de goederen zonder verpakking. 
 ###Vak 40: Summiere aangifte/voorafgaand document
 
-Volgens de desbetreffende communautaire codes de referenties vermelden van de documenten die voorafgingen aan de uitvoer naar een derde land/verzending naar een andere lidstaat. (zie codeboek Sagitta, onderdeel algemeen, tabel A80 voor het documenttype en tabel A28 voor het soort voorafgaand document) (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) Wanneer de aangifte betrekking heeft op goederen die na de zuivering van het stelsel van douane-entrepots type B wederuitgevoerd worden, het referentienummer van de aangifte tot plaatsing van de goederen onder deze regeling vermelden. Wanneer het een aangifte voor de regeling communautair douanevervoer betreft, de voorafgaande douanebestemming of het referentienummer van de desbetreffende douanedocumenten vermelden. Indien, in het kader van niet-geautomatiseerde douanevervoerprocedures, meer dan een referentienummer moet worden vermeld, kan in dit vak het woord ‘diverse’ worden vermeld, gevolgd door de desbetreffende communautaire code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). Tevens wordt de lijst van referentienummers bij de aangifte voor douanevervoer gevoegd. 
+Volgens de desbetreffende EU-codes de referenties vermelden van de documenten die voorafgingen aan de uitvoer naar een derde land/verzending naar een andere lidstaat. (zie codeboek Sagitta, onderdeel algemeen, tabel A80 voor het documenttype en tabel A28 voor het soort voorafgaand document) (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) Wanneer de aangifte betrekking heeft op goederen die na de zuivering van het stelsel van douane-entrepots type B wederuitgevoerd worden, het referentienummer van de aangifte tot plaatsing van de goederen onder deze regeling vermelden. Wanneer het een aangifte voor de regeling communautair douanevervoer betreft, de voorafgaande douanebestemming of het referentienummer van de desbetreffende douanedocumenten vermelden. Indien, in het kader van niet-geautomatiseerde douanevervoerprocedures, meer dan een referentienummer moet worden vermeld, kan in dit vak het woord ‘diverse’ worden vermeld, gevolgd door de desbetreffende EU-code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel uitvoer, tabel A12). Tevens wordt de lijst van referentienummers bij de aangifte voor douanevervoer gevoegd. 
 ###Vak 41: Aanvullende eenheden (bijzondere maatstaf)
 
 In voorkomend geval voor het betrokken artikel de hoeveelheid vermelden in de eenheid die in het gebruikstarief is aangegeven. De eenheid zelf niet vermelden. 
 ###Vak 44: Bijzondere vermeldingen; voorgelegde stukken; certificaten en vergunningen
 
-In dit vak, met gebruikmaking van de desbetreffende communautaire- of nationale codes de mogelijkerwijze door specifieke verordeningen voorgeschreven vermeldingen aanbrengen samen met de referentienummmers van de tot staving van de aangifte overgelegde stukken, met inbegrip van, in voorkomend geval, de controle-exemplaren T5. Ingeval voor goederen aanspraak wordt gemaakt op restitutie, worden de volgende vragen en de antwoorden op die vragen in het vak opgenomen: aanvraag restitutie ja/nee aanvraag voorschot ja/nee. Bij de vermeldingen in dit vak onderscheid maken naar: 
+In dit vak, met gebruikmaking van de desbetreffende EU- of nationale codes de mogelijkerwijze door specifieke verordeningen voorgeschreven vermeldingen aanbrengen samen met de referentienummmers van de tot staving van de aangifte overgelegde stukken, met inbegrip van, in voorkomend geval, de controle-exemplaren T5. Ingeval voor goederen aanspraak wordt gemaakt op restitutie, wordt de vraag en het antwoord op die vraag in het vak opgenomen: aanvraag restitutie ja/nee. Bij de vermeldingen in dit vak onderscheid maken naar: 
 
 1. Bijzondere vermeldingen; (zie codeboek Sagitta, onderdeel uitvoer tabel A12);  
 
@@ -1830,13 +2052,13 @@ a. In geval van aangifte ten uitvoer met terugbetaling dient te worden vermeld: 
 
 b. Wanneer aangifte ten uitvoer plaatsvindt voor uit het vrije verkeer afkomstige accijnsgoederen c.q. verbruiksbelastinggoederen waarvoor teruggaaf van de accijnzen/verbruiksbelasting wordt verlangd dient te worden vermeld: ‘verzoek om terugbetaling van accijns/verbruiksbelasting’, alsmede de betreffende nationale code voor bijzondere vermeldingen.  
 
-c. Indien het formulier wordt gebruikt bij communautair douanevervoer dient ter voldoening aan artikel 843 lid 2 TVo.CDW in voorkomend geval te worden vermeld ‘Verlaten van Gemeenschap aan beperkingen onderworpen’ c.q. ‘Verlaten van de Gemeenschap aan belastingheffing onderworpen’, alsmede de nationale code voor bijzondere vermeldingen.  
+c. Indien het formulier wordt gebruikt bij communautair douanevervoer dient ter voldoening aan artikel 843 lid 2 TVo.CDW in voorkomend geval te worden vermeld ‘Verlaten van Unie aan beperkingen onderworpen’ c.q. ‘Verlaten van de Unie aan belastingheffing onderworpen’, alsmede de nationale code voor bijzondere vermeldingen.  
 
 d. Wanneer de aangifte tot wederuitvoer ter aanzuivering van het stelsel van douane-entrepots bij een ander douanekantoor dan het controlekantoor wordt ingediend, vermelding van de naam en het adres van het controlekantoor, alsmede de betreffende nationale code voor bijzondere vermeldingen  
 
-e. Indien de aanvraag van een vergunning op de aangifte wordt gedaan voor een economische douaneregeling op basis van artikel 497, lid 3 TVo.CDW dient te worden vermeld: ‘Vereenvoudigde vergunning’, alsmede de desbetreffende communautaire code voor bijzondere vermeldingen.  
+e. Indien de aanvraag van een vergunning op de aangifte wordt gedaan voor een economische douaneregeling op basis van artikel 497, lid 3 TVo.CDW dient te worden vermeld: ‘Vereenvoudigde vergunning’, alsmede de desbetreffende EU-code voor bijzondere vermeldingen.  
 
-f. In het geval van een aangifte ten uitvoer, waarbij gebruik wordt gemaakt van de mogelijkheid het exemplaar nr.3 aan een tussenpersoon terug te geven, de vermelding ‘RET/EXP’ vermelden, alsmede de desbetreffende communautaire code voor bijzondere vermeldingen. Zonodig kan in vak 50 de naam en het adres worden vermeld van de persoon aan wie het exemplaar nr. 3 kan worden teruggegeven.   
+f. In het geval van een aangifte ten uitvoer, waarbij gebruik wordt gemaakt van de mogelijkheid het exemplaar nr.3 aan een tussenpersoon terug te geven, de vermelding ‘RET/EXP’ vermelden, alsmede de desbetreffende EU-code voor bijzondere vermeldingen. Zonodig kan in vak 50 de naam en het adres worden vermeld van de persoon aan wie het exemplaar nr. 3 kan worden teruggegeven.   
 ###2. Bescheiden (voorgelegde stukken; certificaten en vergunningen)
 
 a. Alle over te leggen bescheiden dienen door de aangever te worden voorzien van de aangifte-identificatie die in vak A is vermeld. Deze nummering dient op de bescheiden te worden aangebracht rechtsboven of, als dat niet mogelijk is, zo dicht mogelijk bij die plaats of in een daartoe bestemd vak. In de gevallen waarin op de aangifte geen aangifte-identificatie is vermeld, blijft de nummering van de bescheiden achterwege.  
@@ -1847,22 +2069,22 @@ b. Wanneer aangifte ten uitvoer plaatsvindt voor accijnsgoederen en tevens een a
 Indien de aangever weet dat voor dezelfde soort goederen door hem ten behoeve van zichzelf of ten behoeve van dezelfde exporteur, een aangifte is gedaan ten aanzien waarvan de verificatie nog niet is geëindigd, in afwachting van het resultaat een code voor lopende procedures vermelden. (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 46: Statistische waarde
 
-De statistische waarde in Euro vermelden overeenkomstig de ter zake geldende communautaire voorschriften. In het algemeen komt de statistische waarde neer op de prijs, eventueel verminderd met de ter zake van de uitvoer aftrekbare belastingen, maar vermeerderd met onder andere de vracht- en verzekeringskosten tot de Nederlandse grens, voor zover deze niet reeds in de prijs zijn begrepen. 
+De statistische waarde in Euro vermelden overeenkomstig de ter zake geldende bindende EU-rechtshandelingen. In het algemeen komt de statistische waarde neer op de prijs, eventueel verminderd met de ter zake van de uitvoer aftrekbare belastingen, maar vermeerderd met onder andere de vracht- en verzekeringskosten tot de Nederlandse grens, voor zover deze niet reeds in de prijs zijn begrepen. 
 ###Vak 49: Identificatie van het entrepot
 
-In dit vak het entrepot vermelden volgens de desbetreffende communautaire code (zie codeboek Sagitta, onderdeel algemeen, tabel A30 voor het soort entrepot en tabel S01 voor de landencode). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+In dit vak het entrepot vermelden volgens de desbetreffende EU-code (zie codeboek Sagitta, onderdeel algemeen, tabel A30 voor het soort entrepot en tabel S01 voor de landencode). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 50: Aangever
 
 Het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelden. Indien geen EORI-nummer is afgegeven de naam en voornaam of handelsnaam en adres van de aangever vermelden of in voorkomend geval de naam en voornaam of handelsnaam vermelden van de gevolmachtigde vertegenwoordiger die namens de aangever ondertekent. Behoudens nog vast te stellen bijzondere bepalingen betreffende het gebruik van informatica, moet op het door het kantoor van vertrek te bewaren exemplaar (nr.1) de originele handtekening van de betrokkene voorkomen. Wanneer deze een rechtspersoon is, dient de handtekening gevolgd te worden door de naam, voornaam en functie van de ondertekenaar. In geval van uitvoer en indien in vak 44 de vermelding RET/EXP, gevolgd door de bijbehorende code voor bijzondere vermelding is vermeld, kan de aangever of zijn vertegenwoordiger de naam en het adres van een in het ambtsgebied van het kantoor van uitgang gevestigde tussenpersoon vermelden. Het door dit kantoor afgetekende exemplaar nr. 3 kan aan deze tussenpersoon worden teruggegeven. 
 ###Vak 51: Voorziene kantoren en landen van doorgang
 
-In dit vak de code van het voorziene kantoor van binnenkomst in elk EVA-land vermelden over het grondgebied waarvan de goederen zullen worden vervoerd, evenals het kantoor van binnenkomst waar de goederen het douanegebied van de Gemeenschap opnieuw binnenkomen na over het grondgebied van een EVA-land te zijn vervoerd of, indien het vervoer over een ander grondgebied dan dat van de Gemeenschap en van een EVA-land zal plaatsvinden, het kantoor van uitgang waar de zending de Gemeenschap verlaat en het kantoor van binnenkomst waar de zending de Gemeenschap weer binnenkomt. De betrokken douanekantoren vermelden volgens de desbetreffende communautaire code. (zie codeboek Sagitta, onderdeel algemeen, tabel S20) (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+In dit vak de code van het voorziene kantoor van binnenkomst in elk EVA-land vermelden over het grondgebied waarvan de goederen zullen worden vervoerd, evenals het kantoor van binnenkomst waar de goederen het douanegebied van de Unie opnieuw binnenkomen na over het grondgebied van een EVA-land te zijn vervoerd of, indien het vervoer over een ander grondgebied dan dat van de Unie en van een EVA-land zal plaatsvinden, het kantoor van uitgang waar de zending de Unie verlaat en het kantoor van binnenkomst waar de zending de Unie weer binnenkomt. De betrokken douanekantoren vermelden volgens de desbetreffende EU-code. (zie codeboek Sagitta, onderdeel algemeen, tabel S20) (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 52: Zekerheid
 
-Volgens de desbetreffende communautaire codes in het tweede deelvak het type zekerheid opgeven of vermelden dat ontheffing van zekerheidstelling is verleend, alsmede, in voorkomend geval, het nummer van het certificaat van doorlopende zekerheidstelling of van ontheffing van zekerheidstelling of het nummer van het bewijs van zekerheidstelling per aangifte en het kantoor van zekerheidstelling opgeven (zie codeboek Sagitta. onderdeel transit, tabel 051). Indien de doorlopende zekerheid, de ontheffing van zekerheidstelling of de zekerheid per aangifte niet voor alle EVA-landen geldig is, na de woorden ‘zekerheid niet geldig voor’ het of de betrokken EVA-land(en) vermelden volgens de desbetreffende communautaire codes (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+Volgens de desbetreffende EU-codes in het tweede deelvak het type zekerheid opgeven of vermelden dat ontheffing van zekerheidstelling is verleend, alsmede, in voorkomend geval, het nummer van het certificaat van doorlopende zekerheidstelling of van ontheffing van zekerheidstelling of het nummer van het bewijs van zekerheidstelling per aangifte en het kantoor van zekerheidstelling opgeven (zie codeboek Sagitta. onderdeel transit, tabel 051). Indien de doorlopende zekerheid, de ontheffing van zekerheidstelling of de zekerheid per aangifte niet voor alle EVA-landen geldig is, na de woorden ‘zekerheid niet geldig voor’ het of de betrokken EVA-land(en) vermelden volgens de desbetreffende EU-codes (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 53: Kantoor van bestemming (en land)
 
-Volgens de desbetreffende communautaire code het kantoor vermelden waar de goederen moeten worden aangebracht om het communautair douanevervoer te beëindigen (zie codeboek Sagitta, onderdeel algemeen, tabel S20). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Volgens de desbetreffende EU-code het kantoor vermelden waar de goederen moeten worden aangebracht om het communautair douanevervoer te beëindigen (zie codeboek Sagitta, onderdeel algemeen, tabel S20). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 54: Plaats en datum, handtekening en naam van de aangever/vertegenwoordiger
 
 De plaats en de datum vermelden waarop de aangifte werd opgesteld. Behoudens nog vast te stellen bijzondere bepalingen betreffende het gebruik van informatica, dient het voor het kantoor van uitvoer/verzending bestemde exemplaar (nr.1) de originele handtekening van de betrokkene te bevatten, gevolgd door diens naam en voornaam. Wanneer het een rechtspersoon betreft, dient de handtekening te worden gevolgd door de naam, voornaam en functie van degene die heeft ondertekend.  
@@ -1890,7 +2112,7 @@ Een aangever dient in dit vak de aangifte-identificatie te vermelden. De aangift
 – het aangiftevolgnummer. Dit is een uniek nummer bestaande uit ten hoogste acht cijfers naar eigen keuze van de aangever. Het mag niet hetzelfde zijn als een nummer dat eerder in hetzelfde jaar door dezelfde aangever aan een aangifte is toegekend. Het nummer van een buiten werking gestelde aangifte mag niet opnieuw worden gebruikt.   De drie bestanddelen dienen in bovenstaande volgorde te worden vermeld op één regel, onderling van elkaar gescheiden, door spaties of in drie regels onder elkaar. Een aangever die niet is geregistreerd bij de douane, vermeldt niets in dit vak. Indien bij het doen van een schriftelijke aangifte contant wordt betaald, wordt geen aangifte-identificatie vermeld. 
 ###Vak 1: Aangifte
 
-In het eerste deelvak van het aangiftesymbool de desbetreffende communautaire code vermelden (zie codeboek Sagitta, onderdeel invoer, tabel A03). In het tweede deelvak het type aangifte vermelden volgens de desbetreffende communautaire- of nationale code (zie codeboek Sagitta, onderdeel invoer, tabel A04). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+In het eerste deelvak van het aangiftesymbool de desbetreffende EU-code vermelden (zie codeboek Sagitta, onderdeel invoer, tabel A03). In het tweede deelvak het type aangifte vermelden volgens de desbetreffende EU- of nationale code (zie codeboek Sagitta, onderdeel invoer, tabel A04). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 3: Formulieren
 
 Het volgnummer van de set in het totale aantal gebruikte sets vermelden (zowel gewone als aanvullende formulieren). Bijvoorbeeld wanneer een IM formulier en 2 IM/c formulieren worden overgelegd, op het IM formulier 1/3, op het eerste IM/c formulier 2/3 en op het tweede IM/c formulier 3/3 invullen. 
@@ -1905,10 +2127,10 @@ In cijfers het totale aantal artikelen vermelden dat door de belanghebbende op a
 Dit is het commerciële referentienummer dat de belanghebbende aan de zending heeft toegekend. Naar keuze in te vullen door belanghebbende. (Voor een nadere toelichting op het gebruik van de referentie, zie deel D van Titel II.) 
 ###Vak 8: Geadresseerde
 
-In vak 8 (Geadresseerde) wordt het EORI-nummer van de geadresseerde opgenomen. Heeft de geadresseerde geen EORI-nummer, dan moet in dit vak de naam en voornaam of de handelsnaam en het volledige adres van de geadresseerde worden opgenomen. Wanneer de goederen met toepassing van het stelsel van douane-entrepots in een particulier entrepot (type C, D of E) worden opgeslagen, de naam en het volledige adres vermelden van de entrepositaris indien deze niet tevens de aangever is. Bij groepagezendingen wordt in dit vak het woord ‘diverse’ vermeld, gevolgd door de desbetreffende communautaire code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel invoer, tabel A12). Een lijst van geadresseerden wordt bij de aangifte gevoegd. (Voor een nadere toelichting op het gebruik van de code, zie onderdeel D van deze Titel) Verder wordt bij een elektronische aangifte in het data-element ‘OB-plichtige’, wanneer de aangifte betrekking heeft op de invoer van goederen als bedoeld in [artikel 18 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en de goederen bestemd zijn voor een geadresseerde met een Nederlands btw-identificatienummer die beschikt over een vergunning zoals bedoeld in [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), het btw-identificatienummer van deze geadresseerde opgenomen, voorafgegaan door NL als landencode. Maakt de geadresseerde deel uit van een fiscale eenheid voor de omzetbelasting en is de gehele fiscale eenheid aangewezen op de voet van [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), het btw-identificatienummer van de fiscale eenheid vermelden voorafgegaan door NL als landencode. Als de goederen bestemd zijn voor een buitenlandse geadresseerde die gebruik maakt van een (beperkt) fiscaal vertegenwoordiger als bedoeld in [artikel 33g van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), het btw-identificatienummer van de (beperkt) fiscaal vertegenwoordiger vermelden voorafgegaan door NL als landencode. Indien geen gebruik wordt gemaakt van [artikel 23 Wet op de Omzetbelasting](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) mag het data element OB-plichtige leeg gelaten worden. 
+In vak 8 (Geadresseerde) wordt het EORI-nummer van de geadresseerde opgenomen. Heeft de geadresseerde geen EORI-nummer, dan moet in dit vak de naam en voornaam of de handelsnaam en het volledige adres van de geadresseerde worden opgenomen. Wanneer de goederen met toepassing van het stelsel van douane-entrepots in een particulier entrepot (type C, D of E) worden opgeslagen, de naam en het volledige adres vermelden van de entrepositaris indien deze niet tevens de aangever is. Bij groepagezendingen wordt in dit vak het woord ‘diverse’ vermeld, gevolgd door de desbetreffende EU-code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel invoer, tabel A12). Een lijst van geadresseerden wordt bij de aangifte gevoegd. (Voor een nadere toelichting op het gebruik van de code, zie onderdeel D van deze Titel) Verder wordt bij een elektronische aangifte in het data-element ‘OB-plichtige’, wanneer de aangifte betrekking heeft op de invoer van goederen als bedoeld in [artikel 18 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en de goederen bestemd zijn voor een geadresseerde met een Nederlands btw-identificatienummer die beschikt over een vergunning zoals bedoeld in [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), het btw-identificatienummer van deze geadresseerde opgenomen, voorafgegaan door NL als landencode. Maakt de geadresseerde deel uit van een fiscale eenheid voor de omzetbelasting en is de gehele fiscale eenheid aangewezen op de voet van [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), het btw-identificatienummer van de fiscale eenheid vermelden voorafgegaan door NL als landencode. Als de goederen bestemd zijn voor een buitenlandse geadresseerde die gebruik maakt van een (beperkt) fiscaal vertegenwoordiger als bedoeld in [artikel 33g van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), het btw-identificatienummer van de (beperkt) fiscaal vertegenwoordiger vermelden voorafgegaan door NL als landencode. Indien geen gebruik wordt gemaakt van [artikel 23 Wet op de Omzetbelasting](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) mag het data element OB-plichtige leeg gelaten worden. 
 ###Vak 14: Aangever/vertegenwoordiger
 
-Voorafgaand aan de naam van de aangever/vertegenwoordiger moet de code van diens status worden vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel A81). Bij een vergunningaanvraag op de aangifte de tekst ‘wijze van zekerheidstelling’ vermelden, alsmede de desbetreffende communautaire code (zie codeboek Sagitta, onderdeel invoer, tabel S09). Indien de aangever tevens de geadresseerde is, de tekst ‘geadresseerde’ vermelden, alsmede de desbetreffende communautaire code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel invoer, tabel A12). 
+Voorafgaand aan de naam van de aangever/vertegenwoordiger moet de code van diens status worden vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel A81). Bij een vergunningaanvraag op de aangifte de tekst ‘wijze van zekerheidstelling’ vermelden, alsmede de desbetreffende EU-code (zie codeboek Sagitta, onderdeel invoer, tabel S09). Indien de aangever tevens de geadresseerde is, de tekst ‘geadresseerde’ vermelden, alsmede de desbetreffende EU-code voor bijzondere vermeldingen (zie codeboek Sagitta, onderdeel invoer, tabel A12). 
 ### *Aangifte op eigen naam en voor eigen rekening:* 
 
 Bij ‘Nr.’ het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelden. Indien de aangever niet over een EORI-nummer beschikt de naam en voornaam of de handelsnaam en volledige adres van de aangever vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. 
@@ -1917,10 +2139,10 @@ Bij ‘Nr.’ het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelde
 Bij ‘Nr.’ het in artikel 1, punt 16, TVo.CDW bedoelde EORI-nummer vermelden. Indien de vertegenwoordiger niet over een EORI-nummer beschikt de naam en voornaam of de handelsnaam en volledige adres van de vertegenwoordiger vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. Tevens het EORI-nummer van de vertegenwoordigde vermelden. Indien de vertegenwoordigde niet over een EORI-nummer beschikt de naam en voornaam of de handelsnaam en volledige adres van de vertegenwoordigde vermelden. De douane kan hem voor de betrokken aangifte een nummer toekennen. In geval van een niet-geautomatiseerde aangifte kunnen de gegevens van de vertegenwoordigde worden vermeld in vak 9. In geval van vertegenwoordiging de tekst ‘betaling door’ vermelden, alsmede de desbetreffende nationale code (zie codeboek Sagitta, onderdeel algemeen, tabel A84). 
 ###Vak 15: Land van verzending/uitvoer
 
-In vak 15a, door middel van de desbetreffende communautaire code het land vermelden waaruit de goederen oorspronkelijk naar de invoerende lidstaat werden verzonden, zonder oponthoud of niet aan het vervoer inherente juridische handeling in een tussenliggend land. Indien een dergelijk oponthoud of een dergelijke handeling heeft plaatsgevonden, wordt het laatste tussenliggende land als land van verzending/uitvoer beschouwd. (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+In vak 15a, door middel van de desbetreffende EU-code het land vermelden waaruit de goederen oorspronkelijk naar de invoerende lidstaat werden verzonden, zonder oponthoud of niet aan het vervoer inherente juridische handeling in een tussenliggend land. Indien een dergelijk oponthoud of een dergelijke handeling heeft plaatsgevonden, wordt het laatste tussenliggende land als land van verzending/uitvoer beschouwd. (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 17: Land van bestemming
 
-In vak 17a de desbetreffende communautaire code vermelden van de op het tijdstip van invoer bekende lidstaat waarvoor de goederen uiteindelijk bestemd zijn (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+In vak 17a de desbetreffende EU-code vermelden van de op het tijdstip van invoer bekende lidstaat waarvoor de goederen uiteindelijk bestemd zijn (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 18: Identiteit en nationaliteit van het vervoermiddel bij aankomst
 
 De identiteit van het (of de) vervoermiddel(en) vermelden waarin/waarop de goederen rechtstreeks zijn geladen wanneer zij worden aangebracht bij het douanekantoor waar de formaliteiten voor de bestemming worden vervuld. Wanneer het trekkende voertuig en de oplegger een verschillend kenteken hebben, zowel het kenteken van het trekkende voertuig als dat van de oplegger vermelden. Naargelang het gebruikte vervoermiddel, worden ter identificatie de volgende vermeldingen aangebracht:  
@@ -1934,40 +2156,40 @@ De identiteit van het (of de) vervoermiddel(en) vermelden waarin/waarop de goede
 
 ###Vak 19: Container (Ctr)
 
-Door middel van de desbetreffende communautaire code de situatie bij het overschrijden van de buitengrens van de Gemeenschap aangeven. (voor toelichting gebruik code, zie deel D van Titel II.) 
+Door middel van de desbetreffende EU-code de situatie bij het overschrijden van de buitengrens van de Unie aangeven. (voor toelichting gebruik code, zie deel D van Titel II.) 
 ###Vak 20: Leveringsvoorwaarden
 
-Door middel van de desbetreffende communautaire codes de relevante clausules van het handelscontract opgeven, alsmede de plaatsnaam c.q. de contractvoorwaarde (zie codeboek Sagitta, onderdeel algemeen, tabel A14). 
+Door middel van de desbetreffende EU-codes de relevante clausules van het handelscontract opgeven, alsmede de plaatsnaam c.q. de contractvoorwaarde (zie codeboek Sagitta, onderdeel algemeen, tabel A14). 
 ###Vak 21: Identiteit en nationaliteit van het grensoverschrijdende actieve vervoermiddel
 
-Door middel van de desbetreffende communautaire code in het tweede deelvak de nationaliteit vermelden van het actieve vervoermiddel waarmee de buitengrens van de Gemeenschap wordt overschreden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Bij gecombineerd vervoer of wanneer meerdere vervoermiddelen worden gebruikt, is het actieve vervoermiddel datgene waarmee het geheel wordt voortbewogen. Bijvoorbeeld bij vrachtwagen op zeeschip is het actieve vervoermiddel het schip; bij trekker en oplegger is het actieve vervoermiddel de trekker. 
+Door middel van de desbetreffende EU-code in het tweede deelvak de nationaliteit vermelden van het actieve vervoermiddel waarmee de buitengrens van de Unie wordt overschreden (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) Bij gecombineerd vervoer of wanneer meerdere vervoermiddelen worden gebruikt, is het actieve vervoermiddel datgene waarmee het geheel wordt voortbewogen. Bijvoorbeeld bij vrachtwagen op zeeschip is het actieve vervoermiddel het schip; bij trekker en oplegger is het actieve vervoermiddel de trekker. 
 ###Vak 22: Valuta en totaal gefactureerd bedrag
 
-In het eerste deelvak de valuta van de factuur vermelden volgens de desbetreffende communautaire code (zie codeboek Sagitta, onderdeel algemeen, tabel S10). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) In het tweede deelvak het gefactureerde bedrag voor alle aangegeven goederen vermelden. 
+In het eerste deelvak de valuta van de factuur vermelden volgens de desbetreffende EU-code (zie codeboek Sagitta, onderdeel algemeen, tabel S10). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) In het tweede deelvak het gefactureerde bedrag voor alle aangegeven goederen vermelden. 
 ###Vak 23: Wisselkoers
 
 In dit vak wordt de koers vermeld waartegen de factuurvaluta in de valuta van de betrokken lidstaat wordt omgerekend. 
 ###Vak 24: Aard van de transactie
 
-In het eerste deelvak, door middel van de desbetreffende communautaire codes en indeling de gegevens vermelden waaruit blijkt om welk type contract het in dit geval gaat (zie codeboek Sagitta, onderdeel algemeen, tabel A22). Het tweede deelvak behoeft niet te worden ingevuld. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+In het eerste deelvak, door middel van de desbetreffende EU-codes en indeling de gegevens vermelden waaruit blijkt om welk type contract het in dit geval gaat (zie codeboek Sagitta, onderdeel algemeen, tabel A22). Het tweede deelvak behoeft niet te worden ingevuld. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 25: Vervoerwijze aan de grens
 
-Door middel van de desbetreffende communautaire code de vervoerwijze vermelden waartoe het actieve vervoermiddel behoort waarop of waarin de goederen het douanegebied van de Gemeenschap zijn binnengekomen (zie codeboek Sagitta onderdeel algemeen tabel A27). 
+Door middel van de desbetreffende EU-code de vervoerwijze vermelden waartoe het actieve vervoermiddel behoort waarop of waarin de goederen het douanegebied van de Unie zijn binnengekomen (zie codeboek Sagitta onderdeel algemeen tabel A27). 
 ###Vak 26: Binnenlandse vervoerwijze
 
-Door middel van de desbetreffende communautaire code de wijze van vervoer bij aankomst vermelden (zie codeboek Sagitta onderdeel algemeen tabel A27). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+Door middel van de desbetreffende EU-code de wijze van vervoer bij aankomst vermelden (zie codeboek Sagitta onderdeel algemeen tabel A27). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 30: Plaats waar de goederen zich bevinden
 
 In dit vak de juiste plaats, bestaande uit de postcode aangevuld met huisnummer, vermelden waar de goederen kunnen worden onderzocht. 
 ###Vak 31: Colli en omschrijving van de goederen; merken en nummers – containernummer(s) – aantal en soort
 
-1. In dit vak de merken en nummers, het aantal en de aard van de colli of, bij onverpakte goederen, het aantal voorwerpen vermelden, evenals de voor de identificatie van de goederen noodzakelijke gegevens. De aard van de colli wordt vermeld volgens de desbetreffende communautaire code (zie codeboek Sagitta onderdeel algemeen tabel A25). Indien de goederen die in dit vak worden omschreven een gedeelte vormen van de inhoud van één collo, dient te worden vermeld: deel van collo nr. ... (in te vullen het nummer van het collo of, als het geen nummer heeft, het merk). Deze vermelding laat onverlet de verplichting om merk, nummer, aantal en soort van het collo te vermelden. Indien containers worden gebruikt, dienen in dit vak bovendien de merktekens daarvan te worden ingevuld.  
+1. In dit vak de merken en nummers, het aantal en de aard van de colli of, bij onverpakte goederen, het aantal voorwerpen vermelden, evenals de voor de identificatie van de goederen noodzakelijke gegevens. De aard van de colli wordt vermeld volgens de desbetreffende EU-code (zie codeboek Sagitta onderdeel algemeen tabel A25). Indien de goederen die in dit vak worden omschreven een gedeelte vormen van de inhoud van één collo, dient te worden vermeld: deel van collo nr. ... (in te vullen het nummer van het collo of, als het geen nummer heeft, het merk). Deze vermelding laat onverlet de verplichting om merk, nummer, aantal en soort van het collo te vermelden. Indien containers worden gebruikt, dienen in dit vak bovendien de merktekens daarvan te worden ingevuld.  
 
-2. Onder omschrijving van de goederen wordt de gebruikelijke handelsbenaming verstaan. Behalve voor niet communautaire goederen die in een entrepot van het type B, C, of E onder het stelsel van douane-entrepots worden geplaatst, dient deze benaming dermate duidelijk te zijn dat de goederen op basis daarvan kunnen worden geïdentificeerd en onmiddellijk en met zekerheid kunnen worden ingedeeld in het gebruikstarief.  
+2. Onder omschrijving van de goederen wordt de gebruikelijke handelsbenaming verstaan. Behalve voor niet EU-goederen die in een entrepot van het type B, C, of E onder het stelsel van douane-entrepots worden geplaatst, dient deze benaming dermate duidelijk te zijn dat de goederen op basis daarvan kunnen worden geïdentificeerd en onmiddellijk en met zekerheid kunnen worden ingedeeld in het gebruikstarief.  
 
 3. In dit vak worden eveneens de krachtens bijzondere voorschriften vereiste gegevens vermeld (omzetbelasting, accijnzen, enz.).  
 
-4. In de gevallen waarin ingevolge de In- en uitvoerbeschikking landbouwgoederen 1981 de productschapsgoederencode moet worden vermeld, deze code vermelden voorafgegaan door de vermelding ‘PGC’.   (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+4. In de gevallen waarin de productschapsgoederencode moet worden vermeld, deze code vermelden zoals die voor die goederen is vastgesteld in het gebruikstarief, voorafgegaan door de vermelding ‘PGC’.   (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 32: Artikelnummer
 
 Indien sprake is van meer dan één artikel, in dit vak het volgnummer van het betrokken artikel vermelden in het totale aantal artikelen, opgegeven in vak 5, dat in de gebruikte formulieren en aanvullende formulieren is aangegeven. 
@@ -1976,7 +2198,7 @@ Indien sprake is van meer dan één artikel, in dit vak het volgnummer van het b
 De goederencode van het betrokken artikel invullen. (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 34: Code land van oorsprong
 
-In vak 34a wordt volgens de desbetreffende communautaire code het land van oorsprong zoals vastgesteld in titel II van het Communautair douanewetboek vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
+In vak 34a wordt volgens de desbetreffende EU-code het land van oorsprong zoals vastgesteld in titel II van het Communautair douanewetboek vermeld (zie codeboek Sagitta, onderdeel algemeen, tabel S01). (Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.) 
 ###Vak 35: Brutomassa (kg)
 
 De brutomassa (kg) vermelden van de in vak 31 omschreven goederen. De brutomassa is de massa van de goederen vermeerderd met de massa van al hun verpakkingen, met uitzondering van het transportmaterieel en met name van de containers. Wanneer de brutomassa meer dan 1 kg bedraagt en een fractie van een eenheid (kg) omvat, mag deze als volgt worden afgerond: 
@@ -1986,19 +2208,19 @@ De brutomassa (kg) vermelden van de in vak 31 omschreven goederen. De brutomassa
 – van 0,5 tot 0,999: afronding op de hogere eenheid (kg).   Wanneer de brutomassa minder dan 1 kg bedraagt, verdient het aanbeveling deze in de vorm ‘0,xyz’ te vermelden (bijvoorbeeld ‘0,654’ = 654 gram). 
 ###Vak 36: Preferentie
 
-Dit vak bevat informatie betreffende de tariefbehandeling van de goederen. Ook invullen indien geen tariefpreferentie wordt gevraagd. Dit vak behoeft echter niet te worden ingevuld voor handelsverkeer tussen delen van het douanegebied van de Gemeenschap waarop Richtlijn 77/388/EEG van toepassing is en delen van dit douanegebied waarop deze richtlijn niet van toepassing is of in het kader van het handelsverkeer tussen delen van dit douanegebied waarop die richtlijn niet van toepassing is. De desbetreffende communautaire code vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel T17 voor de codes voor communautaire preferenties en voor de toegestane combinaties met de nationale preferenties). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+Dit vak bevat informatie betreffende de tariefbehandeling van de goederen. Ook invullen indien geen tariefpreferentie wordt gevraagd. Dit vak behoeft echter niet te worden ingevuld voor handelsverkeer tussen delen van het douanegebied van de Unie waarop Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 112) van toepassing is en delen van dit douanegebied waarop deze richtlijn niet van toepassing is of in het kader van het handelsverkeer tussen delen van dit douanegebied waarop die richtlijn niet van toepassing is. De desbetreffende EU-code vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel T17 voor de codes voor EU-preferenties en voor de toegestane combinaties met de nationale preferenties). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 37: Regeling
 
-Volgens de desbetreffende communautaire- of nationale codes de regeling vermelden waarvoor de goederen zijn aangegeven (zie codeboek Sagitta, onderdeel invoer, tabel A35 voor het eerste deelvak en tabel A29 voor het tweede deelvak). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+Volgens de desbetreffende EU- of nationale codes de regeling vermelden waarvoor de goederen zijn aangegeven (zie codeboek Sagitta, onderdeel invoer, tabel A35 voor het eerste deelvak en tabel A29 voor het tweede deelvak). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 38: Nettomassa (kg)
 
 De nettomassa (kg) vermelden van de in vak 31 omschreven goederen. De nettomassa is de massa van de goederen zonder enige verpakking. 
 ###Vak 39: Contingent
 
-Het volgnummer van het gevraagde tariefcontingent vermelden. Vermelding van de nationaal in het gebruikstarief vastgestelde codes van de aanspraak op niet-heffing, verlaagde heffing of vooraf gefixeerde heffing van rechten bij invoer. Echter geen code vermelden indien geen douaneschuld ontstaat. Opgemerkt wordt dat een 0-recht als douaneschuld wordt aangemerkt (zie codeboek Sagitta, onderdeel algemeen, tabel T12 voor codes nationale preferenties en tabel T17 voor de toegestane combinaties met de communautaire preferenties). 
+Het volgnummer van het gevraagde tariefcontingent vermelden. Vermelding van de nationaal in het gebruikstarief vastgestelde codes van de aanspraak op niet-heffing, verlaagde heffing of vooraf gefixeerde heffing van rechten bij invoer. Echter geen code vermelden indien geen douaneschuld ontstaat. Opgemerkt wordt dat een 0-recht als douaneschuld wordt aangemerkt (zie codeboek Sagitta, onderdeel algemeen, tabel T12 voor codes nationale preferenties en tabel T17 voor de toegestane combinaties met de EU-preferenties). 
 ###Vak 40: Summiere aangifte/voorafgaand document
 
-In dit vak, volgens de desbetreffende communautaire codes de referenties van de eventueel in de lidstaat van invoer gebruikte summiere aangifte of van de eventuele voorafgaande documenten vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel A80 voor documenttype en tabel A28 voor soort document). Wanneer de aangifte ter aanzuivering dient van het stelsel van douane-entrepots type B het referentienummer van de aangifte tot plaatsing van de goederen onder deze regeling vermelden. (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+In dit vak, volgens de desbetreffende EU-codes de referenties van de eventueel in de lidstaat van invoer gebruikte summiere aangifte of van de eventuele voorafgaande documenten vermelden (zie codeboek Sagitta, onderdeel algemeen, tabel A80 voor documenttype en tabel A28 voor soort document). Wanneer de aangifte ter aanzuivering dient van het stelsel van douane-entrepots type B het referentienummer van de aangifte tot plaatsing van de goederen onder deze regeling vermelden. (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 41: Aanvullende eenheden (bijzondere maatstaf)
 
 In voorkomend geval voor het betrokken artikel de hoeveelheid vermelden in de eenheid die in de goederennomenclatuur is vastgesteld. De eenheid zelf niet vermelden. 
@@ -2007,10 +2229,10 @@ In voorkomend geval voor het betrokken artikel de hoeveelheid vermelden in de ee
 De prijs van de betreffende goederen vermelden. Vermelding van het deel van de in vak 22 genoemde factuurprijs die op het goed betrekking heeft. 
 ###Vak 43: Code MW
 
-De desbetreffende communautaire code vermelden van de methode die gebruikt is voor het bepalen van de douanewaarde (zie codeboek Sagitta, onderdeel algemeen, tabel A83). 
+De desbetreffende EU-code vermelden van de methode die gebruikt is voor het bepalen van de douanewaarde (zie codeboek Sagitta, onderdeel algemeen, tabel A83). 
 ###Vak 44: Bijzondere vermeldingen/voorgelegde stukken/certificaten en vergunningen
 
-In dit vak, door middel van de desbetreffende communautaire- en nationale code de eventueel in bepaalde specifieke verordeningen voorgeschreven vermeldingen aanbrengen samen met de referenties van de tot staving van de aangifte overgelegde stukken, met inbegrip van, in voorkomend geval, de controle-exemplaren T5. Bij de vermeldingen in dit vak onderscheid maken naar: 
+In dit vak, door middel van de desbetreffende EU-code de eventueel in bepaalde specifieke verordeningen voorgeschreven vermeldingen aanbrengen samen met de referenties van de tot staving van de aangifte overgelegde stukken, met inbegrip van, in voorkomend geval, de controle-exemplaren T5. Bij de vermeldingen in dit vak onderscheid maken naar: 
 
 1. Bijzondere vermeldingen (zie codeboek Sagitta, onderdeel invoer, tabel A12);  
 
@@ -2025,11 +2247,11 @@ b. Indien de aanvraag van een vergunning op aangifte wordt gedaan voor een:
 
 – bijzondere bestemming op basis van artikel 292, lid 3, Tvo.CDW;  
 
-– economische douaneregeling op basis van artikel 497, lid 3 TVo.CDW, dient te worden vermeld: ‘Vereenvoudigde vergunning’, alsmede de desbetreffende communautaire code voor bijzondere vermeldingen.    
+– economische douaneregeling op basis van artikel 497, lid 3 TVo.CDW, dient te worden vermeld: ‘Vereenvoudigde vergunning’, alsmede de desbetreffende EU-code voor bijzondere vermeldingen.    
 
 c. In geval van aangifte ten invoer tot verbruik, inzake de bevoorrading van vervoermiddelen als is bedoeld in [artikel 24a van het Uitvoeringsbesluit omzetbelasting 1968](../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) vermelden: ‘art. 24a Uitv. besl. o.b. 1968’, alsmede de desbetreffende nationale code voor bijzondere vermeldingen.  
 
-d. In geval van aangifte ten invoer voor het vrije verkeer en tot verbruik waarbij gebruik wordt gemaakt van de verleggingsregeling omzetbelasting als bedoeld in [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), vermelden: ‘art. 23 Wet OB’, alsmede de desbetreffende nationale code voor bijzondere vermeldingen gevolgd door het desbetreffende omzetbelastingnummer.   
+d. In geval van aangifte ten invoer voor het vrije verkeer en tot verbruik waarbij gebruik wordt gemaakt van de verleggingsregeling omzetbelasting als bedoeld in [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), vermelden: ‘art. 23 Wet OB’, alsmede de desbetreffende nationale code voor bijzondere vermeldingen gevolgd door het desbetreffende btw-identificatienummer.   
 ###2. Bescheiden (voorgelegde stukken/certificaten en vergunningen)
 
 Ongeacht of de bescheiden al dan niet een eigen referentienummer dragen, dienen alle over te leggen bescheiden door de aangever te worden voorzien van de aangifte-identificatie die in vak A is vermeld. Deze nummering dient op de bescheiden te worden aangebracht rechtsboven of, als dat niet mogelijk is, zo dicht mogelijk bij die plaats of in een daartoe bestemd vak. 
@@ -2047,10 +2269,10 @@ d. Indien de aangever weet dat voor dezelfde soort goederen door hem ten behoeve
 Dit vak bevat informatie betreffende eventuele aanpassingen die plaatsvinden wanneer tot staving van de aangifte geen DV1 document wordt overgelegd. De eventueel in dit vak vermelde bedragen worden uitgedrukt in Euro. 
 ###Vak 46: Statistische waarde
 
-De statistische waarde vermelden in Euro overeenkomstig de communautaire voorschriften terzake. Voor niet-communautaire goederen is de douanewaarde de basis voor de statistische waarde. Bij het ontbreken van een douanewaarde is de statistische waarde de terzake van de levering betaalde of te betalen prijs vermeerderd met onder andere de vervoer- en verzekeringskosten, echter zonder de verschuldigde rechten bij invoer. Voor communautaire goederen is het de door de koper ter zake van de levering betaalde of te betalen prijs, eventueel verminderd met de hier te lande betaalde belastingen en met de vracht- en verzekeringskosten hier te lande. 
+De statistische waarde vermelden in Euro overeenkomstig de bindende EU-rechtshandelingen terzake. Voor niet-EU-goederen is de douanewaarde de basis voor de statistische waarde. Bij het ontbreken van een douanewaarde is de statistische waarde de terzake van de levering betaalde of te betalen prijs vermeerderd met onder andere de vervoer- en verzekeringskosten, echter zonder de verschuldigde rechten bij invoer. Voor EU-goederen is het de door de koper ter zake van de levering betaalde of te betalen prijs, eventueel verminderd met de hier te lande betaalde belastingen en met de vracht- en verzekeringskosten hier te lande. 
 ###Vak 47: Berekening van de belastingen
 
-De maatstaf van heffing (waarde, gewicht of andere) is de basis voor de berekening van de belastingen. Voor zover van toepassing op elke regel de volgende gegevens vermelden, zo nodig volgens de desbetreffende communautaire- en nationale codes. 
+De maatstaf van heffing (waarde, gewicht of andere) is de basis voor de berekening van de belastingen. Voor zover van toepassing op elke regel de volgende gegevens vermelden, zo nodig volgens de desbetreffende EU- of nationale codes. 
 
 1. type belasting (douanerechten, omzetbelasting, enz.) (zie codeboek Sagitta, onderdeel algemeen, tabel A16);  
 
@@ -2066,7 +2288,7 @@ De maatstaf van heffing (waarde, gewicht of andere) is de basis voor de berekeni
 
 1. Aangifte waarbij voor de berekening van de rechten bij invoer andere maatstaven dan douanewaarde, brutogewicht of nettogewicht noodzakelijk zijn: (2) maatstaf van heffing, zowel in code als in hoeveelheid.  
 
-2. Aangifte voor goederen die zijn onderworpen aan het douanerecht op landbouwproducten of aanvullende rechten waarvoor de aangever als wijze van betaling kiest voor de afboeking op zekerheid gesteld bij productschap: 
+2. Aangifte voor goederen die zijn onderworpen aan het douanerecht op landbouwproducten of aanvullende rechten waarvoor de aangever als wijze van betaling kiest voor de afboeking op zekerheid gesteld bij de Minister van Economische Zaken: 
 
 (1) type van belasting;  
 
@@ -2075,12 +2297,12 @@ De maatstaf van heffing (waarde, gewicht of andere) is de basis voor de berekeni
 (3) wijze van betaling.     De derde kolom (heffingsvoet) en de vierde kolom (bedrag) en zesde (totaalbedrag) behoeven niet te worden ingevuld. Voor zover deze kolommen wel worden ingevuld, zijn bij foutieve vermelding daaraan geen administratieve of strafrechtelijke gevolgen verbonden. De in dit vak in te vullen bedragen worden uitgedrukt in Euro's. (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 49: Identificatie van het entrepot
 
-In dit vak het entrepot vermelden volgens de desbetreffende communautaire code (zie codeboek Sagitta, onderdeel algemeen, tabel A30 voor het soort entrepot en tabel S01 voor de landencode). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
+In dit vak het entrepot vermelden volgens de desbetreffende EU-code (zie codeboek Sagitta, onderdeel algemeen, tabel A30 voor het soort entrepot en tabel S01 voor de landencode). (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.) 
 ###Vak 54: Plaats en datum, handtekening en naam van de aangever/vertegenwoordiger
 
 In dit vak plaats en datum van de aangifte vermelden. Behoudens nog vast te stellen bijzondere bepalingen betreffende het gebruik van informatica, wordt op het door het kantoor van invoer bewaarde exemplaar (nr. 6) de originele handtekening van de betrokkene aangebracht, gevolgd door diens naam en voornaam. Wanneer het een rechtspersoon betreft, dient de handtekening te worden gevolgd door de naam, de voornaam en de functie van de ondertekenaar.  
 
-#### *Deel D. Toelichting bij de te gebruiken Communautaire- en Nationale Codes op de formulieren van het enig document* 
+#### *Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document* 
 
 ###I. Algemene opmerkingen
 
@@ -2092,7 +2314,7 @@ Deze toelichting heeft uitsluitend betrekking op de bijzondere basisvereisten di
 Eerste deelvak (a2) Tweede deelvak (a1) Voor tijdelijke opslag wordt de nationale code ‘t’ vermeld. Derde deelvak (an..5) 
 ###Vak 2: Afzender/exporteur
 
-De landencodes: De communautaire alfabetische codificering van de landen en gebieden is gebaseerd op de ISO alpha 2 (a2) norm, voorzover deze verenigbaar is met het Gemeenschapsrecht. De rechtsgrondslag van deze codificering is verordening (EG) nr. 1172/95 van de Raad van 22 mei 1995 betreffende de statistieken van het goederenverkeer van de Gemeenschap en haar lidstaten met derde landen (PB L 118 van 25.5.1995). Een geactualiseerde lijst van landencodes wordt op gezette tijden bij verordening van de Commissie bekendgemaakt. 
+De landencodes: de alfabetische codificering van de Unie van de landen en gebieden is gebaseerd op de ISO alpha 2 (a2) norm, voorzover deze verenigbaar is met het Unierecht. De rechtsgrondslag van deze codificering is Verordening (EG) nr. 471/2009 van het Europees Parlement en de Raad van 6 mei 2009 betreffende communautaire statistieken van de buitenlandse handel met derde landen en tot intrekking van Verordening (EG) nr. 1172/95 van de Raad (PbEU 2009, L 152). Een geactualiseerde lijst van landencodes wordt op gezette tijden bij verordening van de Europese Commissie bekendgemaakt. 
 ###Vak 7: Referentienummer
 
 (an..35) Dit nummer kan de vorm hebben van het Unique Consignment Reference Number (UCRN) . <sup> 2  Aanbeveling van de Internationale Douaneraad (Wereld Douane Organisatie) betreffende het voor douanedoeleinden te gebruiken Unique Consignment Reference Number (UCRN) (30 juni 2001).  </sup> 
@@ -2122,7 +2344,7 @@ De te gebruiken codes (n1) zijn:
 Gebruik de in vak 2 vermelde landencodes. 
 ###Vak 22: Valuta factuur
 
-De valuta van de factuur wordt door middel van de ISO alpha-3-code muntcode (Code ISO 4217-valuta's en fondsen) aangegeven. Bij het gebruik van het geautomatiseerd systeem Sagitta-Invoer is een beperkte lijst van muntsoorten, volgens het wisselkoersen bestand, van toepassing. 
+De valuta van de factuur wordt door middel van de ISO alpha-3-code muntcode (Code ISO 4217-valuta's en fondsen) aangegeven. Bij het gebruik van het geautomatiseerd systeem AGS of Sagitta-Invoer is een beperkte lijst van muntsoorten, volgens het wisselkoersen bestand, van toepassing. 
 ###Vak 24: Aard van de transactie
 
 Bij de volgende te gebruiken codes behoren de volgende toelichtingen: Code 1: (Transacties die gepaard gaan met een feitelijke of voorziene eigendomsoverdracht onder bezwarende titel (financiële of andere tegenprestatie) met uitzondering van de onder de codes 2, 7 en 8 te registreren transacties) Deze code bestrijkt het grootste deel van de in- en uitvoer, namelijk de transacties waarbij: 
@@ -2144,19 +2366,16 @@ De te gebruiken codes (an8) hebben de volgende structuur:
 
 ###Aard van de colli
 
-(an2) Te gebruiken code voor verpakkingsmiddelen volgens UN/ECE aanbeveling nr. 21/rev. 4, mei 2002. 
-###Productschapsgoederencode
-
-De productschapsgoederencode is opgenomen in bijlage V van het gebruikstarief. 
+(an2) Te gebruiken code voor verpakkingsmiddelen volgens UN/ECE aanbeveling nr. 21/rev. 9, 2012. 
 ###Vak 33: Goederencode
 
 In te vullen overeenkomstig het gebruikstarief. 
 ###Eerste deelvak (8 cijfers)
 
-Wordt het formulier ten behoeve van de regeling communautair douanevervoer gebruikt, dan worden in dit deelvak tenminste de eerste zes cijfers van de goederencode vermeld. Indien de wetgeving van de Gemeenschap dit voorschrijft, wordt de gehele goederen code van het gebruikstarief gebruikt. 
+Wordt het formulier ten behoeve van de regeling communautair douanevervoer gebruikt, dan worden in dit deelvak tenminste de eerste zes cijfers van de goederencode vermeld. Indien de wetgeving van de Unie dit voorschrijft, wordt de gehele goederen code van het gebruikstarief gebruikt. 
 ###Tweede deelvak (2 tekens)
 
-In te vullen overeenkomstig Taric (2 tekens voor de toepassing van specifieke communautaire maatregelen ter vervulling van de formaliteiten op de plaats van bestemming). 
+In te vullen overeenkomstig Taric (2 tekens voor de toepassing van specifieke EU-maatregelen ter vervulling van de formaliteiten op de plaats van bestemming). 
 ###Derde deelvak (4 tekens)
 
 In te vullen overeenkomstig Taric (eerste aanvullende code). 
@@ -2179,15 +2398,15 @@ De nationale codes vermelden. De nationale code bestaat uit een code van 2 teken
 Gebruik de in vak 2 vermelde landencode. 
 ###Vak 36: Preferentie
 
-De in dit vak aan te brengen codes zijn driecijfercodes bestaande uit een element van één cijfer gevolgd door een element van twee cijfers. De Commissie zal in de C-reeks van het Publicatieblad van de Europese Unie op gezette tijden de lijst van combinaties van codes bekendmaken, vergezeld van de nodige voorbeelden en een toelichting. 
+De in dit vak aan te brengen codes zijn driecijfercodes bestaande uit een element van één cijfer gevolgd door een element van twee cijfers. De Europese Commissie zal in de C-reeks van het Publicatieblad van de Europese Unie op gezette tijden de lijst van combinaties van codes bekendmaken, vergezeld van de nodige voorbeelden en een toelichting. 
 ###Vak 37: Regeling
 
 ###A. Eerste deelvak
 
-De in dit deelvak in te vullen codes zijn viercijfercodes waarvan de eerste twee de gevraagde regeling en de laatste twee de voorafgaande regeling weergeven. Onder voorafgaande regeling wordt verstaan de regeling waaronder de goederen zich bevonden alvorens onder de gevraagde regeling te worden geplaatst. Indien de goederen voordien onder een entrepotstelsel of een regeling tijdelijke invoer waren geplaatst of uit een vrije zone herkomstig zijn, wordt de desbetreffende code slechts gebruikt indien de goederen niet onder een economische douaneregeling (actieve/passieve veredeling, behandeling onder douanetoezicht) waren geplaatst. Voorbeeld: wederuitvoer van in het kader van de regeling actieve veredeling (schorsingssysteem) ingevoerde en vervolgens onder het stelsel van douane-entrepots geplaatste goederen = 3151 (en niet 3171) (eerste verrichting = 5100; tweede verrichting = 7151; wederuitvoer = 3151). Op dezelfde wijze wordt de plaatsing van goederen onder één van de vorengenoemde opschortende regelingen bij wederinvoer na tijdelijke uitvoer als een gewone invoer onder dat stelsel beschouwd. De wederinvoer wordt pas bij het in het vrije verkeer brengen van de goederen in aanmerking genomen. Voorbeeld: gelijktijdige aangifte tot verbruik en voor het vrije verkeer van goederen die in het kader van de regeling passieve veredeling werden uitgevoerd en bij wederinvoer onder het stelsel van douane-entrepots worden geplaatst = 6121 (en niet 6171) (eerste verrichting = tijdelijke uitvoer voor passieve veredeling = 2100; tweede verrichting = plaatsing onder het stelsel van douane-entrepots = 7121; derde verrichting = aangifte tot verbruik + in het vrije verkeer brengen = 6121). De met de letter (a) aangemerkte codes (54 en 92) mogen niet worden gebruikt als eerste element van de code die de regeling aangeeft, doch verwijzen naar de voorafgaande regeling. Bijvoorbeeld: 4054 = aangifte voor het vrije verkeer en tot verbruik van goederen die voordien in een andere lidstaat onder de regeling AV – schorsingssysteem waren geplaatst. Deze basiselementen worden twee per twee tot een viercijfercode gecombineerd. Bij de te gebruiken codes worden de volgende toelichtingen en voorbeelden gegeven: Let op: De codes uit de serie 0 hebben uitsluitend betrekking op de betaling van communautaire middelen (vrij verkeer brengen) en niet de nationale middelen zoals omzetbelasting en accijns. Code 01: (In het vrije verkeer brengen van goederen met gelijktijdige wederverzending in het handelsverkeer tussen delen van het douanegebied van de Gemeenschap waar richtlijn 77/388/EEG van de Raad (PB L 145 van 13.6.1977, blz. 1) van toepassing is en delen van dit gebied waar deze richtlijn niet van toepassing is, dan wel in het handelsverkeer tussen delen van dit gebied waar deze richtlijn niet van toepassing is. In het vrije verkeer brengen van goederen met gelijktijdige wederverzending in het handelsverkeer tussen de Gemeenschap en landen waarmee deze een douane-unie heeft opgericht) Voorbeeld: Uit een derde land herkomstige goederen die in Nederland in het vrije verkeer worden gebracht en verder worden vervoerd met bijvoorbeeld de bestemming de Kanaaleilanden. Code 02: (Goederen die in het vrije verkeer worden gebracht teneinde onder de regeling actieve veredeling (terugbetalingssysteem) te worden geplaatst) Toelichting: Actieve veredeling (terugbetalingssysteem) overeenkomstig artikel 114, lid 1, onder b), van het CDW. Code 07: (In het vrije verkeer brengen en gelijktijdige plaatsing onder een andere entrepotregeling dan een douane-entrepotregeling) Toelichting: Deze code wordt gebruikt bij het uitsluitend in het vrije verkeer brengen van goederen waarvoor de omzetbelasting, en in voorkomend geval, de accijns niet is voldaan. Voorbeelden: Ingevoerde machines worden in het vrije verkeer gebracht zonder dat de omzetbelasting is voldaan. Tijdens het verblijf van de goederen in een belastingentrepot of – fiscaal goedgekeurde ruimte is de omzetbelasting geschorst. Ingevoerde sigaretten worden in het vrije verkeer gebracht zonder dat de omzetbelasting en de accijnzen worden voldaan. Tijdens het verblijf in een belastingentrepot of fiscaal goedgekeurde ruimte zijn de omzetbelasting en de accijnzen geschorst. Code 10: Definitieve uitvoer Voorbeeld: Normale uitvoer van communautaire goederen naar een derde land, alsmede uitvoer/verzending van communautaire goederen naar delen van het douanegebied van de Gemeenschap waar richtlijn 77/388/EEG (PB L 145 van 13.6.1977, blz. 1) niet van toepassing is. Code 11: (Uitvoer van uit equivalente goederen verkregen veredelingsproducten in het kader van de regeling actieve veredeling (schorsingssysteem) voordat de invoergoederen onder de regeling worden geplaatst) Toelichting: Voorafgaande uitvoer (EX-IM) overeenkomstig artikel 115, lid 1, onder b) van het CDW. Voorbeeld: Uitvoer van sigaretten vervaardigd van tabaksbladeren die de status hebben van communautaire goederen, alvorens uit derde landen herkomstige tabaksbladeren onder de regeling actieve veredeling worden geplaatst. Code 21: (Tijdelijke uitvoer in het kader van de regeling passieve veredeling) Toelichting: Regeling passieve veredeling overeenkomstig de artikelen 145 tot 160 van het CDW. Zie eveneens code 22. Code 22: (Tijdelijke uitvoer andere dan bedoeld onder code 21) Voorbeeld: Gelijktijdige toepassing van de regelingen passieve veredeling en economische passieve veredeling voor textielproducten (Verordening nr. 3036/94 van de Raad). Code 23: (Tijdelijke uitvoer met het oog op latere terugkeer in ongewijzigde staat) Voorbeeld: Tijdelijke uitvoer van voorwerpen voor tentoonstellingen, monsters, materieel voor beroepsdoeleinden enz. Code 31: (Wederuitvoer) Toelichting: Wederuitvoer van niet-communautaire goederen volgende op een opschortende economische douaneregeling. Voorbeeld: Aangifte van goederen tot opslag in douane-entrepot gevolgd door aangifte tot wederuitvoer. Code 40: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van goederen die niet met vrijstelling van omzetbelasting worden geleverd) Voorbeeld: Uit een derde land herkomstige goederen waarvoor naast de rechten bij invoer ook de omzetbelasting direct of met gebruikmaking van de verleggingsregeling van [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt betaald. Code 41: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van onder de regeling actieve veredeling (terugbetalingssysteem) geplaatste goederen) Voorbeeld: Regeling actieve veredeling met betaling van douanerechten en nationale heffingen bij invoer zoals omzetbelasting en accijns. Code 42: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van goederen met vrijstelling van omzetbelasting voor levering in een andere lidstaat) Voorbeeld: Invoer met vrijstelling van omzetbelasting voor goederen die zijn bestemd voor een ondernemer in een andere lidstaat op grond van [artikel 21 letter d van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Code 43: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van goederen krachtens bijzondere maatregelen in verband met de invordering van bepaalde bedragen die gedurende een overgangsperiode na de toetreding van nieuwe lidstaten van toepassing zijn) Voorbeeld: In het vrije verkeer brengen van landbouwproducten in het kader van de toepassing, gedurende een specifieke overgangsperiode na de toetreding van nieuwe lidstaten, van een tussen de nieuwe lidstaten en de rest van de Gemeenschap toepasselijke bijzondere douaneregeling of bijzondere maatregelen van het type dat destijds ten aanzien van Spanje en Portugal van kracht was. Code 45: (Aangifte voor het vrije verkeer en tot verbruik met vrijstelling van, hetzij omzetbelasting, hetzij accijnzen, en plaatsing onder een fiscale entrepotregeling) Toelichting: Vrijstelling van omzetbelasting of accijnzen bij de plaatsing van goederen onder een fiscale entrepotregeling. Voorbeelden: Uit een derde land ingevoerde sigaretten worden in het vrije verkeer gebracht en de omzetbelasting wordt betaald. Tijdens het verblijf van de goederen in een belastingentrepot of fiscaal goedgekeurde ruimte is de accijns geschorst. Uit een derde land ingevoerde sigaretten worden in het vrije verkeer gebracht en de accijns wordt betaald. Tijdens het verblijf in een belastingentrepot of fiscaal goedgekeurde ruimte is de omzetbelasting geschorst. Code 48: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van vervangingsproducten in het kader van de regeling passieve veredeling, voorafgaand aan de uitvoer van tijdelijk uit te voeren goederen) Toelichting: Regeling equivalentieverkeer (IM-EX), voorafgaande invoer overeenkomstig artikel 154, lid 4, van het CDW. Code 49: (Aangifte tot verbruik van communautaire goederen in het handelsverkeer tussen delen van het douanegebied van de Gemeenschap waar richtlijn 77/388/EEG van toepassing is en delen van dit gebied waar deze richtlijn niet van toepassing is, dan wel in het kader van het handelsverkeer tussen delen van dit gebied waar de genoemde richtlijn niet van toepassing is) Toelichting: Invoer met aangifte tot verbruik van goederen herkomstig uit delen van de EU waar de Richtlijn 77/388/EG (omzetbelasting) niet van toepassing is. Aanwijzingen betreffende het gebruik van het Enig document zijn in artikel 206 TVo.CDW opgenomen. Voorbeelden: Goederen van herkomst uit Martinique die in België tot verbruik worden aangegeven. Goederen van herkomst uit Turkije die in Duitsland tot verbruik worden aangegeven. Code 51: (Plaatsing onder de regeling actieve veredeling (schorsingssysteem)) Toelichting: Actieve veredeling (schorsingssysteem) overeenkomstig artikel 114, lid 1, onder a), en lid 2, onder a), van het CDW. Code 53: (Invoer in het kader van de regeling tijdelijke invoer) Voorbeeld: Tijdelijke invoer, bijvoorbeeld voor een tentoonstelling. Code 54: (Actieve veredeling (schorsingssysteem) in een ander lidstaat (zonder dat de goederen aldaar in het vrije verkeer zijn gebracht). (a)) Toelichting: Deze code dient ter registratie van de transactie in de statistiek van de intracommunautaire handel. Voorbeeld: Uit een derde land herkomstige goederen worden in België voor de regeling actieve veredeling aangegeven (5100). Na actieve veredeling worden zij naar Duitsland verzonden teneinde aldaar in het vrije verkeer te worden gebracht (4054) of aanvullende veredelingshandelingen te ondergaan (5154). Code 61: (Wederinvoer met gelijktijdige aangifte tot verbruik en aangifte voor het vrije verkeer van goederen die niet met vrijstelling van BTW worden geleverd) Voorbeeld: Wederinvoer na passieve veredeling of tijdelijke uitvoer waarvoor naast de eventueel verschuldigde rechten bij invoer, ook de omzetbelasting direct of met gebruikmaking van [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt betaald. Code 63: ( Wederinvoer met gelijktijdige aangifte tot verbruik voor het vrije verkeer van goederen met vrijstelling van omzetbelasting die in een andere lidstaat worden geleverd) Voorbeeld: Wederinvoer na passieve veredeling of tijdelijke invoer met vrijstelling van omzetbelasting voor goederen die zijn bestemd voor een ondernemer in een andere lidstaat op grond van [artikel 21 letter d van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Code 68 : (Wederinvoer met gelijktijdige partiële aangifte tot verbruik en aangifte voor het vrije verkeer en plaatsing onder een entrepotregeling andere dan het stelsel van douane-entrepots) Voorbeeld: Verwerkte alcoholische dranken die wederingevoerd worden en in een accijnsentrepot worden opgeslagen. Code 71: (Plaatsing onder het stelsel van douane-entrepots) Toelichting: Plaatsing onder het stelsel van douane-entrepots. Dit vormt geen beletsel voor de gelijktijdige opslag in, bijvoorbeeld, een accijns- of omzetbelastingentrepot. Code 76: (Plaatsing onder het stelsel van douane-entrepots of in een vrije zone met voorfinanciering van producten of goederen die bestemd zijn om in ongewijzigde staat wederuitgevoerd te worden) Voorbeeld: Opslag van voor uitvoer bestemde goederen met voorfinanciering (artikel 5, lid 2, van Verordening (EEG) nr. 565/80 van de Raad van 4 maart 1980 betreffende de vooruitbetaling van de uitvoerrestituties voor landbouwproducten (PB L 62 van 7.3.1980, blz. 5)). Code 77: (Opslag in douane-entrepot, vrije zone of vrij entrepot met voorfinanciering van verwerkte producten of goederen die bestemd zijn om na behandeling te worden uitgevoerd) Voorbeeld: Opslag van voor uitvoer bestemde verwerkte producten en uit basisproducten verkregen goederen met voorfinanciering (artikel 4, lid 2, van Verordening (EEG) nr. 565/80)). Code 92: (Behandeling onder douanetoezicht in een andere lidstaat (zonder dat de goederen aldaar in het vrije verkeer zijn gebracht)(a)) Toelichting: Deze code dient voor de registratie van de transactie in de statistiek van de intracommunautaire handel. Voorbeeld: Uit een derde land herkomstige goederen ondergaan in België een behandeling onder douanetoezicht (9100), waarna zij naar Duitsland worden verzonden teneinde aldaar in het vrije verkeer te worden gebracht (4092) of een aanvullende behandeling te ondergaan (9192). 
+De in dit deelvak in te vullen codes zijn viercijfercodes waarvan de eerste twee de gevraagde regeling en de laatste twee de voorafgaande regeling weergeven. Onder voorafgaande regeling wordt verstaan de regeling waaronder de goederen zich bevonden alvorens onder de gevraagde regeling te worden geplaatst. Indien de goederen voordien onder een entrepotstelsel of een regeling tijdelijke invoer waren geplaatst of uit een vrije zone herkomstig zijn, wordt de desbetreffende code slechts gebruikt indien de goederen niet onder een economische douaneregeling (actieve/passieve veredeling, behandeling onder douanetoezicht) waren geplaatst. Voorbeeld: wederuitvoer van in het kader van de regeling actieve veredeling (schorsingssysteem) ingevoerde en vervolgens onder het stelsel van douane-entrepots geplaatste goederen = 3151 (en niet 3171) (eerste verrichting = 5100; tweede verrichting = 7151; wederuitvoer = 3151). Op dezelfde wijze wordt de plaatsing van goederen onder één van de vorengenoemde opschortende regelingen bij wederinvoer na tijdelijke uitvoer als een gewone invoer onder dat stelsel beschouwd. De wederinvoer wordt pas bij het in het vrije verkeer brengen van de goederen in aanmerking genomen. Voorbeeld: gelijktijdige aangifte tot verbruik en voor het vrije verkeer van goederen die in het kader van de regeling passieve veredeling werden uitgevoerd en bij wederinvoer onder het stelsel van douane-entrepots worden geplaatst = 6121 (en niet 6171) (eerste verrichting = tijdelijke uitvoer voor passieve veredeling = 2100; tweede verrichting = plaatsing onder het stelsel van douane-entrepots = 7121; derde verrichting = aangifte tot verbruik + in het vrije verkeer brengen = 6121). De met de letter (a) aangemerkte codes (54 en 92) mogen niet worden gebruikt als eerste element van de code die de regeling aangeeft, doch verwijzen naar de voorafgaande regeling. Bijvoorbeeld: 4054 = aangifte voor het vrije verkeer en tot verbruik van goederen die voordien in een andere lidstaat onder de regeling AV – schorsingssysteem waren geplaatst. Deze basiselementen worden twee per twee tot een viercijfercode gecombineerd. Bij de te gebruiken codes worden de volgende toelichtingen en voorbeelden gegeven: Let op: De codes uit de serie 0 hebben uitsluitend betrekking op de betaling van eigen middelen van de EU (vrij verkeer brengen) en niet de nationale middelen zoals omzetbelasting en accijns. Code 01: (In het vrije verkeer brengen van goederen met gelijktijdige wederverzending in het handelsverkeer tussen delen van het douanegebied van de Unie waar Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347) van toepassing is en delen van dit gebied waar deze richtlijn niet van toepassing is, dan wel in het handelsverkeer tussen delen van dit gebied waar deze richtlijn niet van toepassing is. In het vrije verkeer brengen van goederen met gelijktijdige wederverzending in het handelsverkeer tussen de Unie en landen waarmee deze een douane-unie heeft opgericht) Voorbeeld: Uit een derde land herkomstige goederen die in Nederland in het vrije verkeer worden gebracht en verder worden vervoerd met bijvoorbeeld de bestemming de Kanaaleilanden. Code 02: (Goederen die in het vrije verkeer worden gebracht teneinde onder de regeling actieve veredeling (terugbetalingssysteem) te worden geplaatst) Toelichting: Actieve veredeling (terugbetalingssysteem) overeenkomstig artikel 114, lid 1, onder b), van het CDW. Code 07: (In het vrije verkeer brengen en gelijktijdige plaatsing onder een andere entrepotregeling dan een douane-entrepotregeling) Toelichting: Deze code wordt gebruikt bij het uitsluitend in het vrije verkeer brengen van goederen waarvoor de omzetbelasting, en in voorkomend geval, de accijns niet is voldaan. Voorbeelden: Ingevoerde machines worden in het vrije verkeer gebracht zonder dat de omzetbelasting is voldaan. Tijdens het verblijf van de goederen in een belastingentrepot of – fiscaal goedgekeurde ruimte is de omzetbelasting geschorst. Ingevoerde sigaretten worden in het vrije verkeer gebracht zonder dat de omzetbelasting en de accijnzen worden voldaan. Tijdens het verblijf in een belastingentrepot of fiscaal goedgekeurde ruimte zijn de omzetbelasting en de accijnzen geschorst. Code 10: Definitieve uitvoer Voorbeeld: Normale uitvoer van EU-goederen naar een derde land, alsmede uitvoer/verzending van EU-goederen naar delen van het douanegebied van de Unie waar Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347) niet van toepassing is. Code 11: (Uitvoer van uit equivalente goederen verkregen veredelingsproducten in het kader van de regeling actieve veredeling (schorsingssysteem) voordat de invoergoederen onder de regeling worden geplaatst) Toelichting: Voorafgaande uitvoer (EX-IM) overeenkomstig artikel 115, lid 1, onder b) van het CDW. Voorbeeld: Uitvoer van sigaretten vervaardigd van tabaksbladeren die de status hebben van EU-goederen, alvorens uit derde landen herkomstige tabaksbladeren onder de regeling actieve veredeling worden geplaatst. Code 21: (Tijdelijke uitvoer in het kader van de regeling passieve veredeling) Toelichting: Regeling passieve veredeling overeenkomstig de artikelen 145 tot 160 van het CDW. Zie eveneens code 22. Code 22: (Tijdelijke uitvoer andere dan bedoeld onder code 21) Voorbeeld: Gelijktijdige toepassing van de regelingen passieve veredeling en economische passieve veredeling voor textielproducten (Verordening (EG) nr. 3036/94 van de Raad van 8 december 1994 houdende instelling van een regeling voor economische passieve veredeling die van toepassing is op bepaalde textielprodukten en kledingartikelen die worden wederingevoerd in de Gemeenschap na bewerking of verwerking in bepaalde derde landen (PbEG 1994, L 322)). Code 23: (Tijdelijke uitvoer met het oog op latere terugkeer in ongewijzigde staat) Voorbeeld: Tijdelijke uitvoer van voorwerpen voor tentoonstellingen, monsters, materieel voor beroepsdoeleinden enz. Code 31: (Wederuitvoer) Toelichting: Wederuitvoer van niet-EU-goederen volgende op een opschortende economische douaneregeling. Voorbeeld: Aangifte van goederen tot opslag in douane-entrepot gevolgd door aangifte tot wederuitvoer. Code 40: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van goederen die niet met vrijstelling van omzetbelasting worden geleverd) Voorbeeld: Uit een derde land herkomstige goederen waarvoor naast de rechten bij invoer ook de omzetbelasting direct of met gebruikmaking van de verleggingsregeling van [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt betaald. Code 41: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van onder de regeling actieve veredeling (terugbetalingssysteem) geplaatste goederen) Voorbeeld: Regeling actieve veredeling met betaling van douanerechten en nationale heffingen bij invoer zoals omzetbelasting en accijns. Code 42: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van goederen met vrijstelling van omzetbelasting voor levering in een andere lidstaat en, indien van toepassing, een schorsing van accijns) Voorbeeld: Invoer met vrijstelling van omzetbelasting voor goederen die zijn bestemd voor een ondernemer in een andere lidstaat op grond van [artikel 21 letter d van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Code 43: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van goederen krachtens bijzondere maatregelen in verband met de invordering van bepaalde bedragen die gedurende een overgangsperiode na de toetreding van nieuwe lidstaten van toepassing zijn) Voorbeeld: In het vrije verkeer brengen van landbouwproducten in het kader van de toepassing, gedurende een specifieke overgangsperiode na de toetreding van nieuwe lidstaten, van een tussen de nieuwe lidstaten en de rest van de Unie toepasselijke bijzondere douaneregeling of bijzondere maatregelen van het type dat destijds ten aanzien van Spanje en Portugal van kracht was. Code 45: (Aangifte voor het vrije verkeer en tot verbruik met vrijstelling van, hetzij omzetbelasting, hetzij accijnzen, en plaatsing onder een fiscale entrepotregeling) Toelichting: Vrijstelling van omzetbelasting of accijnzen bij de plaatsing van goederen onder een fiscale entrepotregeling. Voorbeelden: Uit een derde land ingevoerde sigaretten worden in het vrije verkeer gebracht en de omzetbelasting wordt betaald. Tijdens het verblijf van de goederen in een belastingentrepot of fiscaal goedgekeurde ruimte is de accijns geschorst. Uit een derde land ingevoerde sigaretten worden in het vrije verkeer gebracht en de accijns wordt betaald. Tijdens het verblijf in een belastingentrepot of fiscaal goedgekeurde ruimte is de omzetbelasting geschorst. Code 48: (Gelijktijdige aangifte voor het vrije verkeer en tot verbruik van vervangingsproducten in het kader van de regeling passieve veredeling, voorafgaand aan de uitvoer van tijdelijk uit te voeren goederen) Toelichting: Regeling equivalentieverkeer (IM-EX), voorafgaande invoer overeenkomstig artikel 154, lid 4, van het CDW. Code 49: (Aangifte tot verbruik van EU-goederen in het handelsverkeer tussen delen van het douanegebied van de Unie waar Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347) van toepassing is en delen van dit gebied waar deze richtlijn niet van toepassing is, dan wel in het kader van het handelsverkeer tussen delen van dit gebied waar de genoemde richtlijn niet van toepassing is) Toelichting: Invoer met aangifte tot verbruik van goederen herkomstig uit delen van de EU waar de Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347) niet van toepassing is. Aanwijzingen betreffende het gebruik van het Enig document zijn in artikel 206 TVo.CDW opgenomen. Voorbeelden: Goederen van herkomst uit Martinique die in België tot verbruik worden aangegeven. Goederen van herkomst uit Turkije die in Duitsland tot verbruik worden aangegeven. Code 51: (Plaatsing onder de regeling actieve veredeling (schorsingssysteem)) Toelichting: Actieve veredeling (schorsingssysteem) overeenkomstig artikel 114, lid 1, onder a), en lid 2, onder a), van het CDW. Code 53: (Invoer in het kader van de regeling tijdelijke invoer) Voorbeeld: Tijdelijke invoer, bijvoorbeeld voor een tentoonstelling. Code 54: (Actieve veredeling (schorsingssysteem) in een ander lidstaat (zonder dat de goederen aldaar in het vrije verkeer zijn gebracht). (a)) Toelichting: Deze code dient ter registratie van de transactie in de statistiek van de handel tussen de lidstaten van de EU. Voorbeeld: Uit een derde land herkomstige goederen worden in België voor de regeling actieve veredeling aangegeven (5100). Na actieve veredeling worden zij naar Duitsland verzonden teneinde aldaar in het vrije verkeer te worden gebracht (4054) of aanvullende veredelingshandelingen te ondergaan (5154). Code 61: (Wederinvoer met gelijktijdige aangifte tot verbruik en aangifte voor het vrije verkeer van goederen die niet met vrijstelling van BTW worden geleverd) Voorbeeld: Wederinvoer na passieve veredeling of tijdelijke uitvoer waarvoor naast de eventueel verschuldigde rechten bij invoer, ook de omzetbelasting direct of met gebruikmaking van [artikel 23 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt betaald. Code 63: ( Wederinvoer met gelijktijdige aangifte tot verbruik voor het vrije verkeer van goederen met vrijstelling van omzetbelasting die in een andere lidstaat worden geleverd) Voorbeeld: Wederinvoer na passieve veredeling of tijdelijke invoer met vrijstelling van omzetbelasting voor goederen die zijn bestemd voor een ondernemer in een andere lidstaat op grond van [artikel 21 letter d van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Code 68 : (Wederinvoer met gelijktijdige partiële aangifte tot verbruik en aangifte voor het vrije verkeer en plaatsing onder een entrepotregeling andere dan het stelsel van douane-entrepots) Voorbeeld: Verwerkte alcoholische dranken die wederingevoerd worden en in een accijnsentrepot worden opgeslagen. Code 71: (Plaatsing onder het stelsel van douane-entrepots) Toelichting: Plaatsing onder het stelsel van douane-entrepots. Dit vormt geen beletsel voor de gelijktijdige opslag in, bijvoorbeeld, een accijns- of omzetbelastingentrepot. Code 92: (Behandeling onder douanetoezicht in een andere lidstaat (zonder dat de goederen aldaar in het vrije verkeer zijn gebracht)(a)) Toelichting: Deze code dient voor de registratie van de transactie in de statistiek van de handel tussen de lidstaten van de EU. Voorbeeld: Uit een derde land herkomstige goederen ondergaan in België een behandeling onder douanetoezicht (9100), waarna zij naar Duitsland worden verzonden teneinde aldaar in het vrije verkeer te worden gebracht (4092) of een aanvullende behandeling te ondergaan (9192). 
 ###B. Tweede deelvak
 
-1. Wanneer in dit vak een communautaire regeling wordt vermeld, dan wordt een communautaire code bestaande uit een letterteken gevolgd door twee alfanumerieke tekens gebruikt, waarbij het eerste teken een van de volgende categorieën maatregelen aangeeft:  
+1. Wanneer in dit vak een bindende EU-rechtshandeling wordt vermeld, dan wordt een EU-code bestaande uit een letterteken gevolgd door twee alfanumerieke tekens gebruikt, waarbij het eerste teken een van de volgende categorieën maatregelen aangeeft:  
 
 | --- | --- |
 |:---|:---|
@@ -2244,7 +2463,7 @@ De in dit vak te vermelden codes zijn alfanumeriek (an..31) Elke code bestaat ui
 
 ###1. Bijzondere vermeldingen
 
-De bijzondere vermeldingen op douanegebied worden gecodeerd door middel van een code van vijf cijfers. Deze code wordt na de betrokken vermelding ingevuld, tenzij de communautaire wetgeving voorschrijft dat deze code de tekst vervangt. De codes voor bijzondere communautaire vermeldingen zijn als volgt ingedeeld:  
+De bijzondere vermeldingen op douanegebied worden gecodeerd door middel van een code van vijf cijfers. Deze code wordt na de betrokken vermelding ingevuld, tenzij de bindende EU-rechtshandelingen voorschrijven dat deze code de tekst vervangt. De codes voor bijzondere EU-vermeldingen zijn als volgt ingedeeld:  
 
 | --- | --- |
 |:---|:---|
@@ -2252,7 +2471,7 @@ De bijzondere vermeldingen op douanegebied worden gecodeerd door middel van een 
 | Bij invoer  | Code 1xxxx  |
 | Bij uitvoer  | Code 3xxxx  |
 
-Voorbeeld: Bij de vereenvoudigde aangifte ten uitvoer moet het exemplaar 3 van de vermelding ‘vereenvoudigde uitvoer’ zijn voorzien (artikel 280, lid 3). In dit geval wordt in vak 44: ‘Vereenvoudigde uitvoer – 30100’ ingevuld. De communautaire wetgeving schrijft voor dat in andere vakken dan vak 44 bepaalde bijzondere vermeldingen moeten worden aangebracht. Deze worden evenwel volgens dezelfde regels gecodificeerd als de vermeldingen die specifiek in vak 44 moeten worden aangebracht. Wanneer in de communautaire wetgeving niet is bepaald in welke vakken een vermelding dient voor te komen, dient deze eveneens in vak 44 te worden aangebracht. De codes voor bijzondere nationale vermeldingen zijn als volgt ingedeeld:  
+Voorbeeld: Bij de vereenvoudigde aangifte ten uitvoer moet het exemplaar 3 van de vermelding ‘vereenvoudigde uitvoer’ zijn voorzien (artikel 280, lid 3). In dit geval wordt in vak 44: ‘Vereenvoudigde uitvoer – 30100’ ingevuld. De bindende EU-rechtshandelingen schrijven voor dat in andere vakken dan vak 44 bepaalde bijzondere vermeldingen moeten worden aangebracht. Deze worden evenwel volgens dezelfde regels gecodificeerd als de vermeldingen die specifiek in vak 44 moeten worden aangebracht. Wanneer in de bindende EU-rechtshandelingen niet is bepaald in welke vakken een vermelding dient voor te komen, dient deze eveneens in vak 44 te worden aangebracht. De codes voor bijzondere nationale vermeldingen zijn als volgt ingedeeld:  
 
 | --- | --- |
 |:---|:---|
@@ -2262,7 +2481,7 @@ Voorbeeld: Bij de vereenvoudigde aangifte ten uitvoer moet het exemplaar 3 van d
 
 ###2. Overgelegde documenten, certificaten en vergunningen
 
-a. De tot staving van de aangifte overgelegde documenten, certificaten en communautaire of internationale vergunningen worden opgegeven door middel van een code bestaande uit 4 alfanumerieke tekens gevolgd door, hetzij een identificatienummer, hetzij een ander kenmerk. De lijst van documenten, certificaten en vergunningen en de overeenkomstige codes zijn in de TARIC-databank opgenomen. Deze lijst is beschikbaar via de Internet website van de douane: www.douane.nl/taric-nl.  
+a. De tot staving van de aangifte overgelegde documenten, certificaten en EU- of internationale vergunningen worden opgegeven door middel van een code bestaande uit 4 alfanumerieke tekens gevolgd door, hetzij een identificatienummer, hetzij een ander kenmerk. De lijst van documenten, certificaten en vergunningen en de overeenkomstige codes zijn in de TARIC-databank opgenomen. Deze lijst is beschikbaar via de Internet website van de douane: http://gebruikstarief.douane.nl.  
 
 | Omschrijving  | 1e positie  |
 |:---|:---|
@@ -2294,12 +2513,12 @@ Bij plaatsing onder het stelsel van douane-entrepot van de typen B en C, de verm
 
 Type belasting (middelcode)  
 
-| De communautair vastgestelde codes (an3) bestaan uit 1 letter (1e positie) plus 2 twee tekens (2e en 3e positie).  | 1e positie  |--- | Omschrijving  |
+| De EU-codes (an3) bestaan uit 1 letter (1e positie) plus 2 twee tekens (2e en 3e positie).  | 1e positie  |--- | Omschrijving  |
 |:---|:---|:---|:---|
-| Communautaire rechten bij invoer  | A  |
+| EU-rechten bij invoer  | A  |
 | Omzetbelasting  | B  |
-| Communautaire rechten bij uitvoer  | C  |
-| Communautaire renten  | D  |
+| EU-rechten bij uitvoer  | C  |
+| EU-renten  | D  |
 | Voor andere lidstaten geheven rechten  | E  |
 
 | De nationaal vastgestelde codes (an3) bestaan uit 1 cijfer (1e positie) plus 2 twee tekens (2e en 3e positie).  | 1e positie  |--- | Omschrijving  |
@@ -2382,14 +2601,14 @@ De in vak 29 vermelde codes gebruiken.
 | 33  | Goederencode  | nvt  | HBI II <sup>2</sup>  |
 | 34a  | Land van Oorsprong  | S01  | algemeen  |
 | 35  | Brutomassa  | nvt  | --- |
-| 36  | Preferentie (communautaire)  | T17  | algemeen  |
+| 36  | Preferentie (EU)  | T17  | algemeen  |
 | 37a  | Gevraagde- en voorafgaande regeling  | A35  | invoer  |
 | --- | --- | A35  | uitvoer  |
 | 37b  | Verbijzondering regeling  | A29  | invoer  |
 | --- | --- | A29  | uitvoer  |
 | 38  | Nettomassa  | nvt  | --- |
 | 39  | Contingent  | T12  | algemeen  |
-| --- | (combinaties met communautaire preferenties vak 36)  | T17  | algemeen  |
+| --- | (combinaties met EU-preferenties vak 36)  | T17  | algemeen  |
 | 40  | Summiere aangifte/voorafgaande document ‘type’  | A80  | algemeen  |
 | --- | Summiere aangifte/voorafgaande document ‘soort’  | A28  | algemeen  |
 | 41  | Aanvullende eenheden  | nvt  | --- |
@@ -2427,7 +2646,7 @@ A. Aanvullende formulieren mogen slechts worden gebruikt wanneer de aangifte op 
 
 – wanneer het formulier uitsluitend voor communautair douanevervoer wordt gebruikt, in welk geval in het derde deelvak ‘T1bis’, ‘T2bis’, ‘T2Fbis of T2SMbis’ wordt vermeld, al naar gelang de regeling communautair douanevervoer die op de goederen van toepassing is;  
 
-– wanneer het formulier uitsluitend wordt gebruikt om het communautaire karakter van de goederen aan te tonen, in welk geval in het derde deelvak, naar gelang de douanestatus van de goederen, ‘T2Lbis’, ‘T2LFbis of T2LSMbis’ wordt ingevuld.  
+– wanneer het formulier uitsluitend wordt gebruikt om het EU-karakter van de goederen aan te tonen, in welk geval in het derde deelvak, naar gelang de douanestatus van de goederen, ‘T2Lbis’, ‘T2LFbis of T2LSMbis’ wordt ingevuld.  
 
 – de lidstaten kunnen bepalen dat vak 2/8 niet wordt ingevuld of uitsluitend de naam, de voornaam en het eventuele identificatienummer van de betrokkene mag bevatten,  
 
@@ -2437,260 +2656,14 @@ A. Aanvullende formulieren mogen slechts worden gebruikt wanneer de aangifte op 
 
 – wanneer in het derde deelvak van vak 1 de afkorting ‘T’ is vermeld, worden de vakken 32 ‘Artikelnummer’, 33 ‘Goederencode’, 35 ‘Brutomassa (kg)’, 38 ‘Nettomassa (kg)’, 40 ‘Summiere aangifte/voorafgaand document’, en 44 ‘Bijzondere vermeldingen/voorgelegde stukken/certificaten en vergunningen’ van het eerste artikel op de aangifte voor douanevervoer doorgehaald en mogen de merken, nummers, aantal en soort van de colli en de omschrijving van de goederen niet in het eerste vak 31 ‘Colli en omschrijving van de goederen’ van het document worden vermeld. In het eerste vak 31 van dit document wordt het aantal aanvullende formulieren ingevuld waarop het teken T1bis, T2bis, T2Fbis of T2LSMbis voorkomt.    
 
-### Bijlage  VII  
-
-####Bij de Algemene Douaneregeling
-
-Opsomming van: 
-
-– diverse Verordeningen ((E)EG), houdende marktordeningen voor diverse landbouwproducten;  
-
-– bevoegde Productschappen;  
-
-– goederen waarvoor gegevens uit de douaneaangifte voor diverse douaneregelingen elektronisch worden aangeleverd aan de productschappen.    
-
-|--- | Goederen vallende onder Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007, houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening); (PbEG L 299)  | Bevoegd Product-  schap  | Goederen geplaatst onder de douaneregeling:    –  in het vrije verkeer brengen; of     –  actieve veredeling      | Goederen geplaatst onder de douaneregeling:    –  uitvoer; of     –  passieve veredeling      |
-|:---|:---|:---|:---|:---|
-| I  |
-| a  | Producten genoemd in bijlage I, deel I: Granen  | Hoofdproductschap Akkerbouw  | Alle goederen die vallen onder bijlage I, deel I  | Alle goederen die vallen onder bijlage I, deel I  |
-| b  | vervallen  | --- | --- | --- |
-| c  | Producten genoemd in bijlage I, deel II: Rijst  | Hoofdproductschap Akkerbouw  | Alle goederen die vallen onder bijlage I, deel II  | Alle goederen die vallen onder bijlage I, deel II  |
-| d  | Producten genoemd in bijlage I, deel III: Suiker  | Hoofdproductschap Akkerbouw  | Alle goederen die vallen onder bijlage I, deel III, m.u.v. de posten 2303 2010 en 2203 2090, bietentulp, uitgeperst suikerriet (ampas) en andere afvallen van de suikerindustrie  | Alle goederen die vallen onder bijlage I, deel III, m.u.v. de posten 1212 9120 en 1212 9180, suikerbieten, vers, gedroogd of in poeder en 1212 99, suikerriet, en 2303 2010 en 2303 2090. bietenpulp, uitgeperst suikerriet (ampas) en andere afvallen van de suikerindustrie  |
-| e  | vervallen  | --- | --- | --- |
-| f  | Verordening (EG) no. 1493/1999 de Raad van 17 mei 1999, houdende een gemeenschappelijke ordening van de wijnmarkt, met uitzondering van de post 0806 1090 (PbEg L179)  | Hoofdproductschap Akkerbouw  | Alle goederen die vallen onder Verordening (EG) no. 1493/1999, met uitzondering van de post 0806 1090, alsmede druivenmost andere dan bedoeld bij 2009 61 en 2009 69  | 22.04. Wijn van druiven, wijn waaraan alcohol is toegevoegd daar onder begrepen, alsmede druivenmost andere dan bedoeld bij 2009 61 en 2009 69, met uitzondering van de post 2204 3010 en producten waarvoor geen restitutie wordt gevraagd.  |
-| g  | Producten genoemd in bijlage I, deel VIII: Vezelvlas en -hennep  | Hoofdproductschap Akkerbouw  | --- | --- |
-| h  | Producten genoemd in bijlage I, deel VI: Hop  | Hoofdproductschap Akkerbouw  | --- | --- |
-| i  | Producten genoemd in bijlage I, deel V: Zaaizaad  | Hoofdproductschap Akkerbouw  | De posten 1005 1011 t/m 1005 1019, maïshybriden voor zaaidoeleinden (*) en  1007 0010, sorgohybriden voor zaaidoeleinden (*)  | --- |
-| j  | Producten genoemd in bijlage I, deel IV: Gedroogde voedergewassen  | Hoofdproductschap Akkerbouw  | --- | --- |
-| k  | Vervallen  | --- | --- | --- |
-| l  | Verordening (EG) no. 3448/93 van de Raad van 6 december 1993 tot vaststelling van de handelsregeling voor bepaalde, door verwerking van landbouwproducten verkregen goederen; (PbEG L 318)  | Hoofdproductschap Akkerbouw, tenzij het Productschap Zuivel bevoegd is  | De goederen opgenomen in de bijlage Verordening (EEG) nr. 3448/93 met uitzondering van:  – de posten 3501 1010 t/m 3501 1090 en de post 3501 9090 caseïnaten en andere derivaten van caseïne, indien vervaardigd uit ondermelk waarvoor steun is verleend ingevolge Verordening (EEG) nr. 2921/90;  – mengsels in de zin van artikel 4, vijfde lid, van Verordening (EEG no. 2921/90 die vallen onder de posten 1901, 2106, 3501 en 3504 en bij de vervaardiging waarvan de onder het eerste streepje bedoelde producten zijn gebruikt: uitsluitend bij het Productschap Zuivel  | De goederen opgenomen in de bijlage Verordening (EEG) nr. 3448/93 met uitzondering van:  – de posten 3501 1010 t/m de post 3501 9090, caseïne, caseïnaten en andere derivaten van caseïne, indien vervaardigd uit ondermelk waarvoor steun is verleend ingevolge Verordening (EEG) nr. 2924/90;  – mengsels in de zin van artikel 4, vijfde lid van Verordening (EEG) no. 2921/90 die vallen onder de posten 1901, 3501 en 3504 en bij de vervaardiging waarvan de onder het eerste streepje bedoelde producten zijn gebruikt: uitsluitend bij het Productschap Zuivel  |
-| m  | Verordening (EG) no. 1043/2005 van de Commissie van 30 juni 2005 houdende de tenuitvoerlegging van Verordening (EG) nr. 3448/93 van de Raad met betrekking tot de regeling aangaande de toekenning van restituties bij uitvoer en van bepaalde landbouwproducten, uitgevoerd in de vorm van goederen die niet onder bijlage I van het verdrag vallen, en de criteria voor de vaststelling van de restitutiebedragen (PbEG L 177)  | Hoofdproductschap Akkerbouw  | --- | De niet-bijlage I-producten bedoeld in artikel I, eerste lid van Verordening (EG) no. 1043/2005 (*)  |
-| n  | Producten genoemd in bijlage I, deel XXI : Andere producten, voorzover het de producten betreft die zijn opgenomen onder A van het aanhangsel bij deze bijlage  | Hoofdproductschap Akkerbouw  | --- | --- |
-| II  |
-| a  | Producten genoemd in bijlage I, deel XVII: Varkensvlees  | Productschap voor Vee en Vlees  | Alle goederen die vallen onder bijlage I, deel XVII: Varkensvlees  | Alle goederen die vallen onder bijlage I, deel XVII: Varkensvlees  |
-| b  | Producten genoemd in bijlage I, deel XV: Rundvlees  | Productschap voor Vee en Vlees  | Alle goederen die vallen onder bijlage I, deel XV: Rundvlees  | Alle goederen die vallen onder bijlage I, deel XV: Rundvlees  |
-| c  | Producten genoemd in bijlage I, deel XVIII: Schapen- en geitenvlees  | Productschap voor Vee en Vlees  | Alle goederen die vallen onder bijlage I, deel XVIII: Schapen- en geitenvlees  | Alle goederen die vallen onder bijlage I, deel XVIII: Schapen- en geitenvlees  |
-| d  | Producten genoemd in bijlage I, deel XXI : Andere producten, voorzover het de producten betreft die zijn opgenomen onder B en D van het aanhangsel van deze bijlage  | Productschap voor Vee en Vlees  | --- | --- |
-| III  |
-| a  | Producten genoemd in bijlage I, deel XIX: Eieren  | Productschap voor Pluimvee en Eieren  | Alle goederen die vallen onder bijlage I, deel XIX: Eieren  | Alle goederen die vallen onder bijlage I, deel XIX: Eieren  |
-| b  | Producten genoemd in bijlage I, deel XX: Slachtpluimvee  | Productschap voor Pluimvee en Eieren  | Alle goederen die vallen onder bijlage I, deel XX: Slachtpluimvee  | Alle goederen die vallen onder bijlage I, deel XX: Slachtpluimvee  |
-| c  | Verordening (EEG) no. 2783/75 van de Raad van 29 oktober 1975, betreffende een gemeenschappelijke regeling van het handelsverkeer voor ovoalbumine en lactoalbumine; (PbEG L 282)  | Productschap voor Pluimvee en Eieren  | Alle goederen die vallen onder Verordening (EEG) no. 2783/75  | --- |
-| d  | Producten genoemd in bijlage I, deel XXI: Andere producten, voor zover het de producten betreft die zijn opgenoemd onder C van het aanhangsel bij deze bijlage  | Productschap voor Pluimvee en Eieren  | --- | --- |
-| IV  |
-| a  | Producten genoemd in bijlage I, deel XVI: Melk en zuivelproducten  | Productschap Zuivel, doch voor de onder deel XVI van bijlage I vallende goederen van post 2309 10 11 t/m 2309 10 70 en 2309 90 31 t/m 2309 90 70 het HPA  | --- | Alle goederen die vallen onder bijlage I, deel XVI: Melk en zuivelproducten  |
-| b  | Verordening (EEG) no. 2730/75 van de Raad van 29 oktober 1975, betreffende glucose en lactose (PbEG L 281)  | Productschap Zuivel  | 1702 11 00 en 1702 19 00 lactose (melksuiker) en melksuikerstroop, bevattende 99 of meer gewichtspercenten lactose (melksuiker), uitgedrukt in kristalvrije lactose, berekend op de droge stof.  | 1702 11 00 en 1702 19 00 lactose (melksuiker) en melksuikerstroop, bevattende 99 of meer gewichtspercenten lactose (melksuiker), uitgedrukt in kristalvrije lactose, berekend op de droge stof.  |
-| c  | Vervallen (opgenomen bij d)  | --- | --- | --- |
-| d  | Verordening (EG) nr. 2535/2001 van de Commissie van 14 december 2001 houdende uitvoeringsbepalingen van Verordening (EG) nr. 1255/1999 van de Raad voor de invoerregeling voor melk en zuivelproducten inhoudende opening van tariefcontingenten.  | Productschap Zuivel  | --- | --- |
-| e  | Besluit van de Raad van 27 november 2001 betreffende de associatie van de LGO met de Europese Gemeenschap (2001/822/EG) (PbEG L 314)  | Productschap Zuivel  | --- | --- |
-| f  | Vervallen  | --- | --- | --- |
-| g  | Vervallen  | --- | --- | --- |
-| V  |
-| a  | Producten genoemd in bijlage I, deel VII: Sector olijfolie en tafelolijven  | Hoofdproductschap Akkerbouw,  | 0709 9031 olijven, bestemd voor andere doeleinden dan het vervaardigen van olie  0709 9039 andere olijven, vers of gekoeld  0711 2010 olijven, bestemd voor andere doeleinden dan het vervaardigen van olie-  0711 2090 olijven in water, waaraan voor het voorlopig verduurzamen zout, zwavel of andere stoffen zijn toegevoegd, doch niet speciaal bereid voor dagelijkse consumptie, bestemd voor het vervaardigen van olie-  1509 1010, 1509 1090 en 1509 9000, olijfolie en fracties daarvan, doch niet chemisch gewijzigd,  1510 0010 en 1510 0090, andere olie en fracties daarvan, uitsluitend verkregen uit olijven ook indien geraffineerd, doch niet chemisch gewijzigd, mengsels of fracties daarvan, uitsluitend verkregen uit olijven, ook indien geraffineerd, doch niet chemisch gewijzigd, mengsels of fracties daarvan, bedoeld bij post 1509, daaronder begrepen  2306 9019 perskoeken van olijven en andere bij de winning van olijfolie verkregen afvallen.  | 1509 1010 en 1509 1090, olijfolie en fracties daarvan, ook indien geraffineerd, doch niet chemisch gewijzigd.  1510 0010 en 1510 0090, andere olie en fracties daarvan, uitsluitend verkregen uit olijven, ook indien geraffineerd toch niet chemisch gewijzigd, mengsels daarvan of olijfolie of fracties daarvan, bedoeld bij post 1509, daaronder begrepen.  |
-| b  | Producten genoemd in bijlage I, deel XXI : Andere producten  | Productschap voor Vee en Vlees  | --- | --- |
-| VI  |
-| a  | Verordening (EG) no. 2200/96 houdende een gemeenschappelijke ordening der markten in de sector groenten en fruit; (PbEG L 297)  | Productschap Tuinbouw  | Alle goederen genoemd in artikel 1 van Verordening (EG) nr. 2200/96  | Alle goederen genoemd in artikel 1 van Verordening (EG) nr. 2200/96  |
-| b  | Producten genoemd in bijlage I, deel XI: Bananen  | Productschap Tuinbouw  | ex 0803 Bananen, met uitzondering van ‘plantains’ vers (*)  | --- |
-| c  | Verordening (EG) no. 2201/96 van de Raad van 28 oktober 1996 houdende een gemeenschappelijke ordening der markten in de sector verwerkte producten op basis van groenten en fruit (PbEG L 279)  | Productschap Tuinbouw  | De goederen genoemd in artikel 1, tweede lid, letters a en b, van Verordening (EG) no. 2201/96 (*)  | De goederen genoemd in artikel 1, tweede lid, letter b van Verordening (EE) no. 2201/96 (*)  |
-| d  | Verordening (EG) no. 1493/1999 van de Raad van 17 mei 1999, houdende een gemeenschappelijke ordening van de wijnmarkt, met uitzondering van de posten 0806 1093, 0806 1095 en 0806 1097 alsmede 2009 6011 t/m 2009 6090; (PbEG L 179)  | Productschap Tuinbouw  | De post 0806 1090 druiven, andere dan voor tafelgebruik; de posten 2009 61 en 2009 69 ongegist druivensap (met inbegrip van druivenmost) zonder toegevoegde alcohol, ook indien met toegevoegde suiker  | De posten 2009 61 en 2009 69 druivensap (met inbegrip van druivenmost) zonder toegevoegde alcohol, ook indien met toegevoegde suiker  |
-| e  | Producten genoemd in bijlage I, deel XXI: Andere producten, voorzover het de producten betreft die zijn opgenomen onder E van het aanhangsel bij deze bijlage  | Productschap Tuinbouw  | --- | --- |
-| VII  |
-| a  | Verordening (EG) nr. 104/2000 van de Raad van 17 december 1999 houdende een gemeenschappelijke ordening der markten in de sector visserijproducten en producten van de aquacultuur; (PbEG L 17)  | Productschap Vis  | De goederen genoemd in artikel 29, derde lid, onder a van Verordening (EG) nr. 104/2000 (*)  | De goederen genoemd in artikel 29, van Verordening (EG) nr. 104/2000 (*)  |
-| b  | Producten genoemd in bijlage I, deel XXI: Andere producten, voorzover het de producten betreft die zijn opgenomen onder F van het aanhangsel van deze bijlage  | Productschap Vis  | --- | --- |
-| VIII  |
-| a  | Producten genoemd in bijlage I, deel XIII: Levende planten en producten van de bloementeelt  | Productschap Tuinbouw  | --- | --- |
-| IX  |
-| a  | Goederen die niet vallen onder de hierboven genoemde verordeningen en /of die niet zijn opgenomen in de hierboven staande kolommen 3 of 4, en die worden in- of uitgevoerd ter zuivering van een verleende vrijstelling van een uitvoer- of invoerheffing  | Het productschap dat de vrijstelling van de in kolom 1 bedoelde heffing heeft verleend  | De goederen die met toepassing van het gestelde onder kolom 1 worden ingevoerd  | De goederen die met toepassing van het gestelde onder kolom 1 worden uitgevoerd.  |
-
-###Aanhangsel bij bijlage VII
-
-| GN-code  | Omschrijving  |
-|:---|:---|
-|  *A (Hoofdproductschap Akkerbouw)*   |
-| ex 0713  | Gedroogde zaden van peulgroenten, ook indien gepeld (bij voorbeeld spliterwten), andere dan bestemd voor zaaidoeleinden  |
-| 0714  | Maniokwortel, arrowroot (pijlwortel), salepwortel, aardperen, bataten (zoete aardappelen) en dergelijke wortels en knollen met een hoog gehalte aan zetmeel of aan inuline, vers, gekoeld, bevroren of gedroogd, ook indien in stukken of in pellets; merg van de sagopalm:  |
-| 0714 20  | Bataten (zoete aardappelen)  |
-| 0714 90  | – andere  |
-| 0714 90 90  | – – andere  |
-| 0902  | Thee  |
-| 1106  | Meel, gries en poeder, van gedroogde zaden van peulgroenten bedoelde bij post 0713, van sago en van wortels of knollen bedoeld bij post 0714 en van vruchten bedoeld bij hoofdstuk 8;  |
-| 1106 10 00  | – gedroogde zaden van peulgroenten bedoelde bij post 0713  |
-| 1108  | Zetmeel en inuline:  |
-| 1108 20 00  | – inuline  |
-| 1213 00 00  | Stro en kaf van graangewassen, onbewerkt, ook indien gehakt. Gemalen. Geperst of in pellets  |
-| 1214  | Koolrapen, voederbieten, voederwortels, hooi, luzerne, klaver, hanenkammetjes (esparcette), mengkool, lupine, wikke en dergelijke voerdergewassen, ook indien in pellets  |
-| ex 1214 10 00  | – luzernemeel en luzerne in pellets  |
-| 1214 90  | – andere:  |
-| 1214 90 10  | – – mengwortels (voederbieten), voederrapen en andere voederwortels  |
-| ex 1214 90 99  | – – andere  |
-| 1801 00 00  | Cacaobonen, ook indien gebroken, al dan niet gebrand  |
-| 1802 00 00  | Cacaodoppen, cacaoschillen, cacaovliezen en andere afvallen van cacao  |
-| 2301  | Meel, poeder en pellets van vlees, van slachtafvallen, van vis, van schaaldieren, van weekdieren of van andere ongewervelde waterdieren, ongeschikt voor menselijk consumptie; kanen:  |
-| 2301 10 00  | – meel, poeder en pellets van vlees of andere slachtafvallen; kanen  |
-| 2302  | Zemelen, slijpsel en andere resten van zeven, van het malen of van andere bewerkingen van granen of van peulvruchten, ook indien in pellets:  |
-| 2302 50 00  | – van peulvruchten  |
-| 2303  | Afvallen van zetmeelfabrieken en dergelijke afvallen, bietenpulp, uitgeperst suikerriet (ampas) en andere afvallen van de suikerindustrie, bostel (brouwerijafval), afvallen van branderijen, ook indien pellets  |
-| 2303 10  | – afvallen van zetmeelfabrieken en dergelijke afvallen:  – – afvallen van maïszetmeelfabrieken (met uitzondering van ingedikt zwelwater), met een gehalte aan proteïne, berekend op de droge stof:  |
-| 2303 10 19  | – – – van niet meer dan 40 gewichtspercenten  |
-| 2303 10 90  | – – andere  |
-| 2303 30 00  | – borstel (brouwerijafval) en afvallen van branderijen  |
-| 2307 00  | Wijnmoer; ruwe wijnsteen  |
-| 2308  | Plantaardige zelfstandigheden en plantaardig afval, plantaardige residuen en bijproducten, ook indien in pellets, van de soort gebruikt voor het voederen van dieren, elders genoemd noch elders onder begrepen:  |
-| 2308 00 40  | – eikels en wilde kastanjes, draf (droesem) van vruchten, andere dan druiven  |
-| 2308 00 90  | – andere:  |
-| 2309  | Bereidingen van de soort gebruikt voor het voederen van dieren  |
-| 2309 10 90  | – – andere  |
-| 2309 90  | – andere  |
-| 2309 90 10  | – – visperswater en perswater van zeezoogdieren (‘solubles’)  |
-| --- | – – andere  |
-| --- | – – – andere  |
-| 2309 90 99  | – – – andere, met uitzondering van eiwitconcentraten  |
-| --- | – verkregen uit sap van luzerne en gras  |
-| --- |
-|  *B (Productschap voor Vee en Vlees)*   |
-| Ex 0101  | Levende paarden, ezels, muildieren en muilezels:  |
-| 0101 10  | – fokdieren van zuiver ras:  |
-| 0101 10 10  | – – paarden  |
-| 0101 10 90  | – – andere  |
-| 0101 90  | – andere:  – – paarden  |
-| 0101 90 11  | – – – slachtpaarden  |
-| 0101 90 19  | – – – andere  |
-| 0101 90 30  | – – ezels  |
-| 0101 90 90  | – – muildieren en muilezels  |
-| 0102  | Levende runderen  |
-| 0102 90  | – andere dan fokdieren van zuiver ras:  |
-| 0102 90 90  | – – andere dan huisdieren  |
-| 0103  | Levende varkens:  |
-| 0103 10 00  | – fokdieren van zuiver ras  – andere  |
-| ex 0103 91  | – – met een gewicht van minder dan 50 kg  |
-| 0103 91 90  | – – – andere dan huisdieren  |
-| ex 0103 92  | – – met een gewicht van 50 kg of meer:  |
-| 0103 92 11  | --- |
-| 0103 92 90  | – – – andere dan huisdieren  |
-| 0106  | Andere levende dieren  |
-| ex 0203  | Vlees van varkens, vers, gekoeld of bevroren:  – vers of gekoeld:  |
-| ex 0203 11  | – – hele en halve dieren:  |
-| 0203 11 90  | – – – ander dan van huisdieren  |
-| ex 0203 12  | – – hammen en schouders, alsmede delen daarvan, met been:  |
-| 0203 12 90  | – – – ander dan van huisdieren  |
-| ex 0203 19  | – – ander:  |
-| 0203 19 90  | – – – ander  – bevroren:  |
-| ex 0203 21  | – – hele en halve dieren:  |
-| 0203 21 90  | – – – andere dan van huisdieren  |
-| ex 0203 22  | – – hammen en schouders, alsmede delen daarvan, met been:  |
-| 0203 22 90  | – – – andere dan van huisdieren  |
-| ex 0203 29  | – – andere:  |
-| 0203 29 90  | – – – andere dan van huisdieren  |
-| 0205 00  | Vlees van paarden, van ezels, van muildieren of van muilezels, vers, gekoeld of bevroren  |
-| 0206  | Eetbare slachtafvallen van runderen, van varkens, van schapen, van geiten, van paarden, van ezels, van muildieren of van muilezels, vers, gekoeld of bevroren:  |
-| 0206 10  | – van runderen, vers of gekoeld:  |
-| 0206 10 10  | – – bestemd voor de vervaardiging van farmaceutische producten  |
-| ex 0206 29  | – – andere:  |
-| 0206 29 10  | – – – bestemd voor de vervaardiging van farmaceutische producten  |
-| --- | – van varkens, bevroren:  |
-| 0206 49 00  | – – andere:  |
-| ex 0206 80  | – anders, vers of gekoeld:  |
-| 0206 80 10  | – – bestemd voor de vervaardiging van farmaceutische producten  – – andere:  |
-| 0206 80 91  | – – – van paarden, van ezels, van muildieren en van muilezels  |
-| ex 0206 90  | – andere, bevroren:  |
-| 0206 90 10  | – – bestemd voor de vervaardiging van farmaceutische producten  – – andere:  |
-| 0206 90 91  | – – – van paarden, van ezels, van muildieren en van muilezels  |
-| 0208  | Ander vlees en andere eetbare slachtafvallen, vers, gekoeld of bevroren  |
-| 0210  | Vlees en eetbare slachtafvallen, gezouten, gepekeld, gedroogd of gerookt; meel en poeder van vlees of van slachtafvallen, geschikt voor menselijke consumptie:  – vlees van varkens:  |
-| ex 0210 11  | – – hammen en schouders, alsmede delen daarvan, met been:  |
-| 0210 11 90  | – – – andere dan van varkens (huisdieren)  |
-| ex 0210 12  | – – buiken (buikspek) en delen daarvan:  |
-| 0210 12 90  | – – – andere dan van varkens (huisdieren)  |
-| ex 0210 19  | – – ander:  |
-| 0210 19 90  | – – – ander dan van varkens (huisdieren)  |
-| --- | – ander, meel en poeder van vlees of van slachtafvallen, geschikt voor menselijke consumptie, daaronder begrepen:  |
-| 0210 91 00  | – – van primaten  |
-| 0210 92 00  | – – van walvissen, van dolfijnen of van bruinvissen (zoogdieren van de orde Cetacea); van lamantijnen of van doejongs (zoogdieren van de orde Sirenia)  |
-| 0210 93 00  | – – van reptielen (slangen en zeeschildpadden daaronder begrepen)  |
-| ex 0210 99 00  | – – andere:  – – – vlees:  |
-| 0210 99 10  | – – – – van paarden, gezouten, gepekeld of gedroogd  |
-| 0210 99 31  | – – – – van rendieren  |
-| 0201 99 39  | – – – – ander  |
-| 0410 00 00  | Eetbare producten van dierlijke oorsprong, elders genoemd noch elders onder begrepen  |
-| 0504 00 00  | Darmen, blazen en magen van dieren (andere dan die van vissen), in hun geheel of in stukken, vers, gekoeld, bevroren, gezouten, gepekeld gedroogd of gerookt  |
-| 0511 10 00  | – rundersperma  |
-| ex 0511 99  | – – andere:  |
-| 0511 99 85  | – – – andere dan pezen en zenen, snippers en dergelijk afval van ongelooide huiden of vellen  |
-| ex 1602  | Andere bereidingen en conserven, van vlees, van slachtafvallen of van bloed:  – van varkens:  |
-| ex 1602 41  | – – hammen en delen daarvan:  |
-| 1602 41 90  | – – – andere dan van varkens (huisdieren)  |
-| ex 1602 42  | – – schouders en delen daarvan:  |
-| 1602 42 90  | – – – andere dan van varkens (huisdieren)  |
-| ex 1602 49  | – – andere, mengsels daaronder begrepen:  |
-| 1602 49 90  | – – – andere dan van varkens (huisdieren)  |
-| ex 1602 90  | – andere, bereidingen van bloed van dieren van alle soorten daaronder begrepen:  |
-| --- | – – andere dan bereidingen van bloed van dieren van alle soorten:  |
-| 1602 90 31  | – – – van wild of van konijn  |
-| 1602 90 41  | – – – van rendieren  |
-| --- | – – – andere:  |
-| --- | – – – – andere dan vlees of slachtafvallen van varkens (huisdieren) bevattend:  |
-| --- | – – – – – andere dan vlees of slachtafvallen van runderen bevattend:  |
-| 1602 90 99  | – – – – – – andere dan van schapen of van geiten  |
-| ex 1603 00  | Extracten en sappen van vlees:  |
-| --- |
-|  *C (Productschap voor Pluimvee en Eieren)*   |
-| 0210  | Vlees en eetbare slachtafvallen, gezouten, gepekeld, gedroogd of gerookt; meel en poeder van vlees of van slachtafvallen, geschikt voor menselijke consumptie:  – ander, meel en poeder van vlees of van slachtafvallen, geschikt voor menselijke consumptie, daaronder begrepen:  |
-| ex 0210 99  | – – andere:  – – – vlees:  – – – slachtafvallen:  – – – – andere dan van varkens (huisdieren), runderen, schapen en geiten  – – – – – levers van pluimvee:  |
-| 0210 99 80  | – – – – – andere dan levers van pluimvee  |
-| 0407 00  | Vogeleieren in de schaal, vers, verduurzaamd of gekookt:  |
-| 0407 00 90  | – andere dan van pluimvee  |
-| 0408  | Vogeleieren uit de schaal en eigeel, vers, gedroogd, gestoomd of in water gekookt, in een bepaalde vorm gebracht, bevroren of op andere wijze verduurzaamd, ook indien met toegevoegde suiker of andere zoetstoffen:  – eigeel  |
-| ex 0408 11  | – – gedroogd:  |
-| 0408 11 20  | – – – ongeschikt voor menselijke consumptie  |
-| ex 0408 19  | – – ander:  |
-| 0408 19 20  | – – – ongeschikt voor menselijke consumptie  |
-| --- | – ander:  |
-| ex 0408 91  | – – gedroogd:  |
-| 0408 91 20  | – – – ongeschikt voor menselijke consumptie  |
-| ex 0408 99  | – – andere:  |
-| 0408 99 20  | – – – ongeschikt voor menselijke consumptie  |
-| --- |
-|  *D ( Productschap voor Vee en Vlees)*   |
-| ex 1502 00  | Rund-, schapen- of geitenvet, ander dan bedoeld bij post 1503:  |
-| ex 1502 00 10  | – bestemd voor ander industrieel gebruik dan voor de vervaardiging van producten voor menselijke consumptie  |
-| 1503 00  | Varkensstearine, spekolie, oleostearine, oleomargarine en talkolie, niet geëmulgeerd, niet vermengd, noch op andere wijze bereid:  |
-| --- |
-|  *E (Productschap Tuinbouw)*   |
-| 0801  | Kokosnoten, paranoten en cashewnoten, vers of gedroogd, ook zonder dop of schaal  |
-| 0802  | Andere noten, vers of gedroogd, ook zonder dop of schaal, al dan niet gepeld:  |
-| 0802 90  | – andere:  |
-| 0802 90 20  | – – arecanoten (of betelnoten), colanoten en pecannoten  |
-| 0804  | Dadels, vijgen, ananassen, advocaten (avocado’s), guaves, manga’s en manggistans, vers of gedroogd:  |
-| 0804 10 00  | – dadels  |
-| 0804 40 00  | – advocaten (avocado’s)  |
-| 0804 50 00  | – guaves, manga’s en manggistans  |
-| 0904 t/m 0910  | Specerijen  |
-| 1106 30  | – meel, gries en poeder van vruchten bedoeld bij hoofdstuk 8  |
-| 1202 10 90  | Grondnoten, niet gebrand of op andere wijze door verhitting bereid, in de dop, andere dan voor zaaidoeleinden  |
-| 1202 20 00  | Grondnoten, niet gebrand of op andere wijze door verhitting bereid, gedopt, ook indie gebroken  |
-| ex 1211  | Planten, plantdelen, zaden en vruchten, vers of gedroogd, ook indien gesneden, gebroken of in poedervorm, welke al dan niet na be- of verwerking bestemd zijn voor menselijke consumptie  |
-| 1212  | Sint-jansbrood, zeewier en andere algen, suikerbieten en suikerriet, vers of gedroogd, ook indien in poedervorm; vruchtenpitten, ook indien in de steen en andere plantaardige producten (ongebrande cichoreiwortels van de variteit ‘Chicoriom intybus sativum’ daaronder begrepen) hoofdzakelijk gebruikt voor menselijke consumptie, elders genoemd noch elders onder begrepen:  |
-| 1212 10  | – sint-jansbrood, sint-jansbroodpitten daaronder begrepen zeewier en andere algen  |
-| 1212 20 00  | – zeewier en andere algen  |
-| 1212 30 00  | – pitten van abrikozen, van perziken (nectarines daaronder begrepen) of van pruimen, ook indien in de steen  – andere:  |
-| 1212 99  | – – andere:  |
-| 1212 99 90  | – – – andere  |
-| 2206 00  2206 00 31  | Andere gegiste dranken (bijvoorbeeld appelwijn, perenwijn, honingdrank):  – andere:  – – mousserend  |
-| 2206 00 51  | – – niet mousserend, in verpakking inhoudende:  – – – niet meer dan 2 l  – – – – appelwijn en perenwijn  |
-| 2206 00 59  | – – – andere  |
-| 2206 00 81  | – – – meer dan 2 l  – – – – appelwijn en perenwijn  |
-| 2206 00 89  | – – – andere  |
-| --- |
-|  *F (Productschap Vis)*   |
-| ex 1603 00  | Extracten en sappen, van vis, van schaaldieren, van weekdieren of van andere ongewervelde waterdieren  |
-
 ### Bijlage  VIII  
 
 Verklaring als bedoeld in artikelen 4:2 en 4:3 van de Algemene douaneregeling   ![243640](http://wetten.overheid.nl/Illustration/243640)
 
 ### Bijlage  IX  
 
-Model van het aangifteformulier als bedoeld in artikel 5:1, eerste lid, van de Algemene douaneregeling   ![243641](http://wetten.overheid.nl/Illustration/243641)
-![243641](http://wetten.overheid.nl/Illustration/243641)
+Model van het aangifteformulier als bedoeld in artikel 5:1, eerste lid, van de Algemene douaneregeling   ![251527](http://wetten.overheid.nl/Illustration/251527)
+![251528](http://wetten.overheid.nl/Illustration/251528)
 
 ### Bijlage  IXa  
 
@@ -2720,23 +2693,23 @@ Lijst van functionele gegevens die opgenomen moeten worden in het elektronische 
 | 1  | Soort document  | Soort document in de vastgestelde code (zie codeboek Sagitta, onderdeel algemeen, tabel A28)  |
 | 2  | Documentnummer  | Het nummer van het handels- of administratief bescheid zoals een nummer van een manifest  |
 | 3  | Bezoeknummer  | Uniek nummer die een vaar- of vliegtuig die een specifieke aankomst en/of een specifiek vertrek identificeert op dezelfde (lucht)haven  |
-| 4  | Douanekantoor van uitgang  | Kantoor van uitgang waar de goederen het douanegebied van de Gemeenschap verlaten, hebben verlaten of vermoedelijk gaan verlaten in de vastgestelde code (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel S20)  |
+| 4  | Douanekantoor van uitgang  | Kantoor van uitgang waar de goederen het douanegebied van de Unie verlaten, hebben verlaten of vermoedelijk gaan verlaten in de vastgestelde code (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel S20)  |
 | 5  | EORI-nummer vervoerder  | Identificatie – door middel van het door de Douane afgegeven EORI-nummer – van degene die de goederen buiten het douanegebied brengt, heeft gebracht of gaat brengen  |
 | 6 <sup>1</sup>  | NAW gegevens vervoerder (carrier)  | --- |
 | 7 <sup>2</sup>  | Contactgegevens vervoerder (carrier)  | --- |
 | 8  | EORI-nummer agent  | Identificatie – door middel van het door de Douane afgegeven EORI-nummer – van degene die het bericht van lading indient als dit een ander is dan onder 5  |
 | 9 <sup>2</sup>  | Contactgegevens agent  | --- |
 | 10  | Reiscode  | Identificatie van de vervoersbeweging, bijvoorbeeld reis- of vluchtnummer  |
-| 11  | Wijze van vervoer  | Volgens de vastgestelde code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Gemeenschap verlaten, hebben verlaten of gaan verlaten (zie codeboek Sagitta, onderdeel algemeen, tabel A27)  |
-| 12  | Registratienummer vervoermiddel  | Identificatie van het uitgaande vervoermiddel waarop de goederen het douanegebied van de Gemeenschap verlaten, hebben verlaten of gaan verlaten. Bij vervoer over zee het IMO-identificatienummer of het ENI-identificatienummer vermelden. Bij vervoer door de lucht hoeft dit gegeven niet ingevuld te worden  |
-| 13  | Naam vervoermiddel  | Identificatie van het actieve vervoermiddel waarop de goederen het douanegebied van de Gemeenschap verlaten, hebben verlaten of gaan verlaten. Vermeld de naam van het vervoermiddel bij een vaartuig, vermeld de callsign bij een luchtvaartuig  |
+| 11  | Wijze van vervoer  | Volgens de vastgestelde code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Unie verlaten, hebben verlaten of gaan verlaten (zie codeboek Sagitta, onderdeel algemeen, tabel A27)  |
+| 12  | Registratienummer vervoermiddel  | Identificatie van het uitgaande vervoermiddel waarop de goederen het douanegebied van de Unie verlaten, hebben verlaten of gaan verlaten. Bij vervoer over zee het IMO-identificatienummer of het ENI-identificatienummer vermelden. Bij vervoer door de lucht hoeft dit gegeven niet ingevuld te worden  |
+| 13  | Naam vervoermiddel  | Identificatie van het actieve vervoermiddel waarop de goederen het douanegebied van de Unie verlaten, hebben verlaten of gaan verlaten. Vermeld de naam van het vervoermiddel bij een vaartuig, vermeld de callsign bij een luchtvaartuig  |
 | 14  | Loshaven  | Naam van de (lucht)haven of vrachtoverslagplaats of elke andere plaats waar de goederen gelost worden van het vervoermiddel  |
 | 15  | Verwachte vertrekdatum en tijdstip  | (Verwachte) vertrekdatum en tijdstip van het actieve vervoermiddel waarop de goederen het douanegebied gaan verlaten of hebben verlaten  |
 | 16  | Soort document  | Soort document op grond waarvan de goederen de EU gaan verlaten (bijvoorbeeld aangifte ten uitvoer of administratief geleiddocument), volgens de vastgestelde code (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel A28)  |
 | 17  | Nummer document  | Nummer van het onder 16 vermeldde document  |
 | 18  | Volgnummer  | Opvolgend nummer die elk apart artikel in een document of aangifte identificeert  |
 | 19  | Indicatie deelzending  | Volgens de vastgestelde code vermelden of het een deelzending betreft  (zie codeboek Sagitta, onder ECS Uitgaan, tabel N10  |
-| 20  | Bruto gewicht  | Brutogewicht van alle goederen vermeld in het onder 16 en 17 genoemde document inclusief verpakking maar exclusief het materiaal van de degene die de goederen buiten het douanegebied van de Gemeenschap brengt, heeft gebracht of gaat brengen  |
+| 20  | Bruto gewicht  | Brutogewicht van alle goederen vermeld in het onder 16 en 17 genoemde document inclusief verpakking maar exclusief het materiaal van de degene die de goederen buiten het douanegebied van de Unie brengt, heeft gebracht of gaat brengen  |
 | 21  | Artikel/zendingnummer  | Bij toepassing van artikel 841 bis van de Toepassingsverordening communautair douanewetboek (‘transhipmnent’) wordt verwezen naar het artikel/zendingnummer van de Summiere Aangifte tijdelijke opslag zoals bedoeld in artikel 2:5  |
 
 <sup>1</sup> Deze gegevens hoeven niet te worden vermeld als bij gegevenselement 5 een EORI-nummer is vermeld. <sup>2</sup> Deze gegevenselementen zijn optioneel.  
@@ -2757,15 +2730,15 @@ Lijst van functionele gegevenselementen die opgenomen moeten worden in het elekt
 | 6  | Verwachte/werkelijke locatie  | Locatie waar het vaartuig zich bevindt in de vastgestelde code (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel N24)  |
 | 7  | EORI-nummer vervoerder (carrier)  | Identificatie – door middel van het door de Douane afgegeven EORI-nummer – van degene die de goederen buiten het douanegebied brengt, heeft gebracht of gaat brengen  |
 | 8 <sup>1</sup>  | NAW gegevens vervoerder (carrier)  | Naam van de marktdeelnemer die het bericht van lading indient  |
-| 9 <sup>2</sup>  | Contactgegevens vervoerder (carrier)  | Contactpersoon van degene die de goederen buiten het douanegebied van de Gemeenschap brengt, heeft gebracht of gaat brengen  |
+| 9 <sup>2</sup>  | Contactgegevens vervoerder (carrier)  | Contactpersoon van degene die de goederen buiten het douanegebied van de Unie brengt, heeft gebracht of gaat brengen  |
 | 10  | EORI-nummer agent  | Identificatie – door middel van het door de Douane afgegeven EORI-nummer – van degene die het bericht vooraanmelding vertrek vervoermiddel indient als dit een ander is dan onder 7  |
 | 11 <sup>2</sup>  | Contactgegevens agent  | Contactpersoon van degene die het bericht vooraanmelding vertrek vervoermiddel indient, als dit een ander is dan onder 9  |
 | 12  | Reiscode  | Identificatie van de vervoersbeweging, bijvoorbeeld reis- of vluchtnummer  |
-| 13  | Wijze van vervoer  | Volgens de desbetreffende vastgestelde code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Gemeenschap naar verwachting zullen verlaten (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel A27).  |
+| 13  | Wijze van vervoer  | Volgens de desbetreffende vastgestelde code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Unie naar verwachting zullen verlaten (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel A27).  |
 | 14  | Type vervoer  | Identification of description of the type of the means of transport being utilized, (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel N20)  |
-| 15  | Registratienummer vervoermiddel  | Identificatie van het uitgaande vervoermiddel waarop de goederen het douanegebied van de Gemeenschap verlaten, hebben verlaten of gaan verlaten. Bij vervoer over zee het IMO-identificatienummer of het ENI-identificatienummer vermelden. Bij vervoer door de lucht hoeft dit gegeven niet ingevuld te worden  |
+| 15  | Registratienummer vervoermiddel  | Identificatie van het uitgaande vervoermiddel waarop de goederen het douanegebied van de Unie verlaten, hebben verlaten of gaan verlaten. Bij vervoer over zee het IMO-identificatienummer of het ENI-identificatienummer vermelden. Bij vervoer door de lucht hoeft dit gegeven niet ingevuld te worden  |
 | 16  | Naam vervoermiddel  | --- |
-| 17  | Nationaliteit vervoermiddel  | Nationaliteit van het actieve vervoermiddel dat de Gemeenschap gaat verlaten volgens de vastgestelde code, (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel S01  |
+| 17  | Nationaliteit vervoermiddel  | Nationaliteit van het actieve vervoermiddel dat de Unie gaat verlaten volgens de vastgestelde code, (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel S01  |
 | 18  | Verwachte vertrekdatum/tijd  | --- |
 | 19  | Haven van volgende bestemming  | Volgens de vastgestelde code (zie codeboek Sagitta, onderdeel ECS Uitgaan, tabel N19).  |
 | 20  | Roepnaam  | Vermeld de roepnaam van het vaartuig  |
@@ -2782,7 +2755,7 @@ Lijst van functionele gegevenselementen die opgenomen moeten worden in het elekt
 
 ### Bijlage  X  
 
-Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verordening 1186/2009. 
+Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324). 
 
 – Algemeen Pedagogisch studiecentrum, Amsterdam  
 
@@ -2858,13 +2831,15 @@ Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verorde
 
 – Stichting Hanzehogeschool, Groningen  
 
+– Stichting Indian Film Festival The Hague, Den Haag  
+
 – Stichting Leerplan Ontwikkeling, Enschede  
 
 – Stichting Maritiem Museum, Rotterdam  
 
 – Stichting Museon (Museum voor het Onderwijs), Den Haag  
 
-– Stichting Nationaal Natuurhistorisch Museum Naturalis, Leiden  
+– Stichting Naturalis Biodiversity Center, Leiden  
 
 – Stichting Natuur en Milieu, Utrecht  
 
@@ -2904,7 +2879,7 @@ Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verorde
 
 ### Bijlage  XI  
 
-Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening 1186/2009. 
+Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324). 
 
 – Academie Jan van Eyck, Maastricht  
 
@@ -2990,6 +2965,8 @@ Instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening
 
 – Universiteit Leiden, Leiden  
 
+– Universiteit Maastricht, Maastricht  
+
 – Universiteit Twente, Enschede  
 
 – Universiteit Utrecht, Onderzoek, Utrecht  
@@ -3012,29 +2989,17 @@ Gereserveerd
 
 ### Bijlage  XIII  
 
-Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening 1186/2009. 
+Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324). 
 
 – Toegepast Natuurwetenschappelijk Onderzoek (TNO), Delft   
 
 ### Bijlage  XIV  
 
-Geadresseerden als bedoeld in artikel 59 van Verordening 1186/2009: 
-
-1. Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.  
-
-2. Houders van een vergunning als bedoeld in [artikel 2, eerste lid, onderdeel d, van de Wet op de Geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) (Wet van 28 juli 1958, Stb. 408), te onderscheiden in: 
-
-– fabrikanten ([artikel 2 van het Besluit bereiding en aflevering van farmaceutische produkten](../../../../AMvB/besluit/bereiding/en/aflevering/van/farmaceutische/producten/BWBR0003127/README.md), Stb. 1977, 538);  
-
-– importeurs ([artikel 29 van voornoemd besluit](../../../../AMvB/besluit/bereiding/en/aflevering/van/farmaceutische/producten/BWBR0003127/README.md), voor zover zij overeenkomstig [artikel 32, eerste lid, van dat besluit](../../../../AMvB/besluit/bereiding/en/aflevering/van/farmaceutische/producten/BWBR0003127/README.md) controles verrichten);  
-
-– parallel importeurs ([artikel 42 van voornoemd besluit](../../../../AMvB/besluit/bereiding/en/aflevering/van/farmaceutische/producten/BWBR0003127/README.md) voor zover deze toestemming hebben van de Hoofdinspecteur van Volksgezondheid om zelf (geheel of ten dele) controles te verrichten).    
-
-3. Controlelaboratoria welke ingevolge [artikel 5, vierde lid, van het Besluit bereiding en aflevering van farmaceutische producten](../../../../AMvB/besluit/bereiding/en/aflevering/van/farmaceutische/producten/BWBR0003127/README.md) zijn erkend.   
+Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324): Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven. 
 
 ### Bijlage  XV  
 
-Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening 1186/2009. 
+Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324). 
 
 – Bartiméus Onderwijs, Zeist  
 

@@ -145,7 +145,7 @@ De maatstaf voor de heffing van de premie voor de volksverzekeringen is het prem
 
 1.  Voor de heffing van de premie voor de volksverzekeringen bij wege van aanslag wordt onder premie-inkomen verstaan het belastbare inkomen uit werk en woning, bepaald volgens de regels van [hoofdstuk 3 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De toerekening van de gemeenschappelijke inkomensbestanddelen van de premieplichtige en zijn partner geschiedt overeenkomstig [artikel 2.17 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). In het geval de premieplichtige en zijn partner beiden belastingplichtig zijn, geldt de gemaakte keuze, bedoeld in [artikel 2.17, tweede lid, van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zowel voor de heffing van de inkomstenbelasting als voor de heffing van de premie voor de volksverzekeringen.   
 2.  Voor de heffing van de premie voor de volksverzekeringen bij wijze van inhouding wordt onder premie-inkomen verstaan het belastbare loon in de zin van de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) met uitzondering van de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen d tot en met g, van die wet](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
-3.  Het premie-inkomen wordt tot geen hoger bedrag in aanmerking genomen dan het als tweede vermelde bedrag in kolom II van de tarieftabel in [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). In afwijking van de eerste volzin wordt het premie-inkomen van een premieplichtige die is geboren vóór 1 januari 1946 tot geen hoger bedrag in aanmerking genomen dan het als tweede vermelde bedrag in kolom II van de tarieftabel in [artikel 2.10a van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+3.  Het premie-inkomen wordt tot geen hoger bedrag in aanmerking genomen dan het als tweede vermelde bedrag in kolom II van de tarieftabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). In afwijking van de eerste volzin wordt het premie-inkomen van een premieplichtige die is geboren vóór 1 januari 1946 tot geen hoger bedrag in aanmerking genomen dan het als tweede vermelde bedrag in kolom II van de tarieftabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 
 ### §  3  
 
@@ -360,13 +360,12 @@ Bij ministeriële regeling wordt het deel van de premie dat ten gunste komt van 
 
 ####Premiepercentage sectorfonds
 
-1.  Het deel van de premie dat ten gunste komt van een sectorfonds wordt door het UWV vastgesteld op een percentage van het loon dat voor categorieën van werkgevers en werknemers die behoren tot verschillende sectoren en sectoronderdelen als bedoeld in artikel 95 kan verschillen. Bij de vaststelling van het percentage blijven ten aanzien van eigenrisicodragers als bedoeld in artikel 40, eerste lid, onderdeel a, uitkeringen op grond van [artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), vermeerderd met een door het UWV vast te stellen opslag in verband met kosten ter zake van de betaling van die uitkeringen en van de werkzaamheden, bedoeld in [artikel 63a, eerste lid, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md), alsmede de op grond van enige wet over die uitkeringen verschuldigde premies die niet op die uitkeringen in mindering kunnen worden gebracht, buiten beschouwing. Bij de vaststelling van het percentage blijven ten aanzien van Onze Minister van Defensie en Onze Minister, voorzover zij werkgever zijn van personen als bedoeld in [artikel 4, eerste lid, onderdelen i en j, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de uitkeringen bedoeld in artikel 104, eerste lid, onderdelen c en d, alsmede de daaraan gerelateerde overige uitgaven uit het sectorfonds buiten beschouwing. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.   
+1.  Het deel van de premie dat ten gunste komt van een sectorfonds wordt door het UWV vastgesteld op een percentage van het loon dat voor categorieën van werkgevers en werknemers die behoren tot verschillende sectoren en sectoronderdelen als bedoeld in artikel 95 kan verschillen. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.   
 2.  In afwijking van het eerste lid wordt met inachtneming van bij algemene maatregel van bestuur te stellen regels bij ministeriële regeling over een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) aan de werknemer of gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, van die wet](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), over een toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en over loon op grond van een arbeidsovereenkomst als bedoeld in [hoofdstuk 2 van de Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) voor het deel van de premie dat ten gunste komt van een sectorfonds een gemiddeld premiepercentage vastgesteld. Dit wordt bepaald op een gemiddelde van de percentages die zijn vastgesteld op grond van het eerste lid.   
 3.  Het deel van de premie dat met toepassing van het tweede lid ten gunste komt van het sectorfonds, bedraagt ten hoogste de premie die op grond van het eerste lid is vastgesteld. Het resterende deel van deze premie komt ten gunste van het Algemeen Werkloosheidsfonds.   
 4.  Het tweede lid wordt niet toegepast ingeval het UWV de uitkering, vermeerderd met de daarover door de werkgever verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betaalt aan de werkgever, bedoeld in [artikel 9](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [10](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of [12 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 11 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en in [artikel 8](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [9](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [11 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever, tenzij die werkgever een werkgever is van degene die loon ontvangt uit een arbeidsovereenkomst als bedoeld in [hoofdstuk 2 van de Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md).   
 5.  Het tweede lid wordt eveneens niet toegepast ingeval een eigenrisicodrager de uitkering, bedoeld in [artikel 63a Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), betaalt of de uitkering, bedoeld in [artikel 82](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) juncto [84 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), betaalt, onafhankelijk van het voortbestaan van de dienstbetrekking met die eigenrisicodrager.   
 6.  Een door het UWV bepaald percentage als bedoeld in het eerste lid behoeft de goedkeuring van Onze Minister. Indien Onze Minister zijn goedkeuring onthoudt stelt hij het percentage zelf vast.   
-6.  Het UWV dan wel, indien Onze Minister het percentage heeft vastgesteld, Onze Minister maakt bekend welk deel van het percentage, bedoeld in het eerste lid, is gerelateerd aan hetgeen op grond van artikel 104, eerste lid, onderdelen a en b, onderdeel c, respectievelijk onderdeel d, ten laste komt van een sectorfonds.   
 
 ### Afdeling  3  
 
@@ -388,7 +387,7 @@ De premie is verschuldigd door de overheidswerkgever.
 
 ####Maatstaf en tarief
 
-De premie wordt bij ministeriële regeling vastgesteld op een percentage van het loon. Dit percentage kan uitsluitend voor verschillende werkgevers verschillen, omdat bij de vaststelling daarvan ten aanzien van de eigenrisicodrager, bedoeld in artikel 40, eerste lid, onderdeel a, uitkeringen op grond van [artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), vermeerderd met een opslag in verband met kosten ter zake van de betaling van die uitkeringen en van de werkzaamheden als bedoeld in [artikel 63a, eerste lid, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md), alsmede de op grond van enige wet over die uitkeringen verschuldigde premies die niet op die uitkeringen in mindering kunnen worden gebracht, buiten beschouwing blijven.  
+De premie wordt bij ministeriële regeling vastgesteld op een percentage van het loon.  
 
 ### Afdeling  4  
 
@@ -414,7 +413,7 @@ De premie wordt bij ministeriële regeling vastgesteld op een percentage van het
 ####Basispremie en gedifferentieerde premie
 
 1.  De premie is verschuldigd door werkgevers in de zin van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en bestaat uit een basispremie en een gedifferentieerde premie.   
-2.  In afwijking van artikel 20 kan de werkgever de met betrekking tot een werknemer door hem verschuldigde gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38, onder bij ministeriële regeling te bepalen voorwaarden, tot ten hoogste de helft verhalen op de werknemer.   
+2.  In afwijking van artikel 20 kan de werkgever de met betrekking tot een werknemer door hem verschuldigde gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38, verhalen op de werknemer onder bij ministeriële regeling te bepalen voorwaarden tot een bij die regeling nader te bepalen bedrag, dat ten hoogste de helft van de door de werkgever verschuldigde premie kan bedragen.   
 
 ### §  3  
 
@@ -440,29 +439,33 @@ Bij ministeriële regeling wordt voor de berekening van de basispremie een voor 
 
 ####Gedifferentieerde premie Werkhervattingskas
 
-1.  Het UWV stelt vast: 
+1.  In dit artikel wordt verstaan onder: 
+
+*categorie werkgevers:* werkgevers ten laste van wie, in het tweede kalenderjaar dat aan het kalenderjaar waarvoor de premie wordt vastgesteld vooraf is gegaan, loon waarover de premies op grond van dit hoofdstuk worden geheven, is gekomen dat gelijk is aan, meer of minder bedraagt dan een bij algemene maatregel van bestuur te bepalen omvang van het gemiddelde van dit loon, bedoeld in paragraaf 1 van afdeling 1 van dit hoofdstuk, per werknemer in dat kalenderjaar.     
+2.  Het UWV stelt vast: 
 
 a. voor de berekening van de gedifferentieerde premie ten behoeve van de Werkhervattingskas, een voor alle takken van bedrijf en beroep gelijk rekenpercentage;  
 
 b. voor de berekening van het rekenpercentage, bedoeld in onderdeel a, een voor alle takken van bedrijf en beroep gelijk gemiddeld percentage.     
-2.  Elk jaar wordt met ingang van 1 januari een opslag of korting vastgesteld waarmee het in het eerste lid, onderdeel a, bedoelde percentage wordt verhoogd respectievelijk verlaagd. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het vierde lid, kan worden bepaald dat de opslag of korting voor een werkgever dan wel voor categorieën van werkgevers wordt vastgesteld, waarbij de korting of opslag voor categorieën van werkgevers kan verschillen of op nihil kan worden vastgesteld. Indien een werkgever met toepassing van de artikelen 96 of 97 is aangesloten bij verschillende sectoren, wordt voor elk bedrijfsonderdeel van de werkgever waar werkzaamheden worden verricht die behoren tot een afzonderlijke sector, de opslag of korting toegepast als was dat bedrijfsonderdeel een afzonderlijke werkgever. Voor de werkgever die niet behoort tot een categorie als bedoeld in de tweede zin, stelt de inspecteur de korting of opslag vast bij voor bezwaar vatbare beschikking.   
-3.  De inspecteur stelt in geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede in geval van een dergelijke overgang bij faillissement, de vastgestelde opslag of korting, bedoeld in het tweede lid, opnieuw bij voor bezwaar vatbare beschikking vast voor de werkgever die een onderneming of een deel daarvan verkrijgt en voor de werkgever die een deel van zijn onderneming overdraagt.   
-4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent: 
+3.  Elk jaar wordt met ingang van 1 januari een opslag of korting vastgesteld waarmee het in het tweede lid, onderdeel a, bedoelde percentage wordt verhoogd respectievelijk verlaagd. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de opslag of korting naar categorie werkgevers voor de werkgever afzonderlijk of per sector als bedoeld in artikel 95, wordt vastgesteld, waarbij de korting of opslag voor werkgevers per sector of sectoronderdelen kan verschillen of op nihil kan worden vastgesteld. Indien een werkgever met toepassing van de artikelen 96 of 97 is aangesloten bij verschillende sectoren, wordt voor elk bedrijfsonderdeel van de werkgever waar werkzaamheden worden verricht die behoren tot een afzonderlijke sector, de opslag of korting toegepast als was dat bedrijfsonderdeel een afzonderlijke werkgever. Voor de werkgever voor wie de korting of opslag afzonderlijk wordt vastgesteld, stelt de inspecteur de korting of opslag vast bij voor bezwaar vatbare beschikking.   
+4.  De inspecteur stelt in geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede in geval van een dergelijke overgang bij faillissement, de vastgestelde opslag of korting, bedoeld in het derde lid, opnieuw bij voor bezwaar vatbare beschikking vast voor de werkgever die een onderneming of een deel daarvan verkrijgt en voor de werkgever die een deel van zijn onderneming overdraagt.   
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent: 
 
-a. de wijze waarop het rekenpercentage, bedoeld in het eerste lid, onderdeel a, en het gemiddelde percentage, bedoeld in het eerste lid, onderdeel b, worden vastgesteld;  
+a. de wijze waarop het rekenpercentage, bedoeld in het tweede lid, onderdeel a, en het gemiddelde percentage, bedoeld in het tweede lid, onderdeel b, worden vastgesteld, rekening houdend met de verschillende lasten voor de Werkhervattingskas;  
 
-b. de wijze waarop de in het tweede en het derde lid bedoelde opslag en korting worden berekend;  
+b. de wijze waarop de in het derde en het vierde lid, bedoelde opslag en korting worden berekend;  
 
-c. de percentages die op grond van dit artikel ten hoogste voor een werkgever mogen gelden en omtrent de percentages die op grond van dit artikel ten minste voor een werkgever moeten gelden.     
-5.  Beschikkingen van de inspecteur op grond van dit artikel worden genomen gehoord het UWV en in overeenstemming met het UWV.   
+c. de percentages die op grond van dit artikel ten hoogste voor categorieën van werkgevers, sector of sectoronderdeel mogen gelden en omtrent de percentages die op grond van dit artikel ten minste voor categorieën van werkgevers, sector of sectoronderdeel gelden.     
+6.  Beschikkingen van de inspecteur op grond van dit artikel worden genomen gehoord het UWV en in overeenstemming met het UWV.   
 
 ### Artikel  38a  
 
 ####Vervanging gedifferentieerde premie
 
-1.  In afwijking van artikel 38 is over een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen,](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), over een toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), over het loon uit een dienstbetrekking op grond van de [Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en over het loon van de werknemer van de eigenrisicodrager, op wie artikel 56 van toepassing is, als gedifferentieerde premie ten behoeve van de Werkhervattingskas een premie verschuldigd naar het percentage, bedoeld in artikel 38, eerste lid, onderdeel a. Met een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt gelijkgesteld een wachtgeld als bedoeld in [artikel 1, onderdeel r, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md).   
+1.  In afwijking van artikel 38 is over een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), over een toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), over het loon uit een dienstbetrekking op grond van de [Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en over het loon van de werknemer van de eigenrisicodrager, op wie artikel 56 van toepassing is, als gedifferentieerde premie ten behoeve van de Werkhervattingskas een vervangende premie verschuldigd. Met een uitkering op grond van de Werkloosheidswet wordt gelijkgesteld een wachtgeld als bedoeld in [artikel 1, onderdeel r, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md).   
 2.  Behalve voor degene die loon ontvangt uit een dienstbetrekking op grond van de [Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) wordt het eerste lid niet toegepast ingeval het UWV de uitkering, vermeerderd met de daarover door de werkgever verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betaalt aan de werkgever, bedoeld in [artikel 11 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en in [artikel 9](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [10](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of [12 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever.   
 3.  Het eerste lid wordt eveneens niet toegepast ingeval een eigenrisicodrager de uitkering, bedoeld in [artikel 63a Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), betaalt of de uitkering, bedoeld in [artikel 82](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) juncto [84 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), betaalt, onafhankelijk van het voortbestaan van de dienstbetrekking met die eigenrisicodrager.   
+4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de wijze waarop de vervangende premie, bedoeld in het eerste lid, wordt vastgesteld.   
 
 ### §  5  
 
@@ -484,9 +487,9 @@ Onze Minister kan bedragen vaststellen die jaarlijks of in het desbetreffende ja
 
 1.  De inspecteur verleent overeenkomstig deze afdeling aan een werkgever op aanvraag bij voor bezwaar vatbare beschikking toestemming om zelf het risico te dragen van betaling van: 
 
-a. het ziekengeld aan de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), die laatstelijk tot de werkgever in dienstbetrekking stonden; of  
+a. het ziekengeld aan de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), die laatstelijk tot de werkgever in dienstbetrekking stonden en de overlijdensuitkeringen op grond van die wet aan nabestaanden van deze personen; of  
 
-b. WGA uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).     
+b. de WGA-uitkeringen en de overlijdensuitkeringen overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).     
 2.  De werkgever legt bij een aanvraag als bedoeld in het eerste lid, onderdeel b, een schriftelijke garantie over waaruit blijkt dat een bank of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen.   
 3.  De overheidswerkgever, bedoeld in [artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md), voorzover deze door Onze Minister in overeenstemming met Onze Minister van Financiën is aangewezen, is ontheven van de verplichting tot het overleggen van een schriftelijke garantie als bedoeld in het tweede lid.   
 4.  De in het eerste lid bedoelde toestemming wordt niet verleend gedurende drie jaren nadat het door de werkgever zelf dragen van het desbetreffende in het eerste lid bedoelde risico is beëindigd.   
@@ -503,7 +506,7 @@ b. wordt door de inspecteur op 1 januari of 1 juli van enig jaar beëindigd bij 
 
 c. kan door de inspecteur zonder aanvraag van de werkgever met onmiddellijke ingang bij voor bezwaar vatbare beschikking worden beëindigd indien de rechtbank de noodregeling, bedoeld in [hoofdstuk 3.5 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft uitgesproken over de betrokken verzekeraar onderscheidenlijk bank.     
 11.  In een geval als bedoeld in het tiende lid, onderdeel a, doet de inspecteur daarvan op verzoek van de werkgever mededeling bij voor bezwaar vatbare beschikking.   
-12.  Indien de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt gewijzigd in die zin dat de wijziging een verlenging van de periode betekent, legt de werkgever die zelf het risico draagt van betaling de WGA uitkering, binnen een bij ministeriële regeling te bepalen termijn, een schriftelijke garantie over aan de inspecteur waaruit blijkt dat een bank of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV, waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen.   
+12.  Indien de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt gewijzigd in die zin dat de wijziging een verlenging van de periode betekent, legt de werkgever die zelf het risico draagt van betaling de van de WGA-uitkering en de overlijdensuitkering, bedoeld in [artikel 74, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), binnen een bij ministeriële regeling te bepalen termijn, een schriftelijke garantie over aan de inspecteur waaruit blijkt dat een bank of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV, waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen.   
 13.  Indien niet of niet tijdig wordt voldaan aan het twaalfde lid, eindigt het door de werkgever zelf dragen van het risico, bedoeld in het eerste lid, onderdeel b, met ingang van de dag waarop de wijziging van de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in werking treedt.   
 14.  Bij ministeriële regeling kunnen met betrekking tot het twaalfde en dertiende lid nadere regels worden gesteld.   
 15.  Beschikkingen van de inspecteur op grond van deze afdeling worden genomen gehoord het UWV en in overeenstemming met het UWV.   
@@ -520,7 +523,8 @@ c. kan door de inspecteur zonder aanvraag van de werkgever met onmiddellijke ing
 
 ####Nadere regelgeving eigenrisicodragen
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot deze afdeling.  
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de vaststelling van de gedifferentieerde premie, bedoeld in artikel 38, ingeval van eigenrisicodragen op grond van artikel 40, eerste lid, en ingeval artikel 40, negende lid, voor de startende werkgever van toepassing is.   
+2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot deze afdeling.   
 
 ### Artikel  43  
 
@@ -531,13 +535,6 @@ Aan een gemeente of een bestuur van een openbaar lichaam ingevolge een gemeensch
 ### Artikel  45  
 
 Door vernummering vervallen.   
-
-### Artikel  46a  
-
-####Vrijstelling premie eigenrisicodrager WGA-uitkering
-
-1.  De eigenrisicodrager met betrekking tot de WGA uitkering, bedoeld in artikel 40, eerste lid, onderdeel b, is over het loon van de tot hem in dienstbetrekking staande werknemers de gedifferentieerde premie, bedoeld in artikel 38, en over de door hem te betalen WGA uitkeringen de premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38a, niet verschuldigd.   
-2.  De startende werkgever, bedoeld in artikel 40, negende lid, is in afwachting van de door de inspecteur te nemen beslissing op aanvraag, bedoeld in artikel 40, eerste lid, onderdeel b, over het loon van de tot hem in dienstbetrekking staande werknemers de gedifferentieerde premie, bedoeld in artikel 38, niet verschuldigd.   
 
 ### Afdeling  6  
 
@@ -678,6 +675,8 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 ### Afdeling  7  
 
 ####Dienstplichtigen
+
+Vervallen per 01-01-2006   
 
 ### Hoofdstuk  4  
 
@@ -934,7 +933,7 @@ De financiële middelen tot dekking van de uitgaven voor de vrijwillige werkneme
 ####Hoogte premie vrijwillige WIA verzekering
 
 1.  De premie voor de vrijwillige verzekering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt berekend over het dagloon, bedoeld in [artikel 21, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in artikel 36 bedoelde basispremie, vermeerderd met een premieopslag die wordt berekend op grond van het in artikel 38, eerste lid, onderdeel a, bedoelde percentage.   
+2.  De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in artikel 36 bedoelde basispremie, vermeerderd met een premieopslag die wordt berekend op grond van het in artikel 38, tweede lid, onderdeel a, bedoelde percentage.   
 
 ### Afdeling  3  
 
@@ -1171,13 +1170,13 @@ c. de termijnen waarin en de wijze waarop vermogen overgaat.
 
 Ten gunste van het Algemeen Werkloosheidsfonds komen: 
 
-a. de premies op grond van de artikelen 27, 28, derde lid, en 76 en de premie op grond van artikel 74, voorzover deze niet ten gunste komt van een sectorfonds;  
+a. de premies op grond van de artikelen 27 en 28, derde lid en de premie op grond van artikel 74, voorzover deze niet ten gunste komt van een sectorfonds;  
 
 b. de bedragen, die het UWV ontvangt door de toepassing van [artikel 36 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), voorzover deze bedragen betrekking hebben op uitkeringen, die ten laste van dat fonds zijn gebracht;  
 
 c. de bedragen die het UWV ontvangt door de uitoefening van zijn bevoegdheid op grond van [artikel 66 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
 
-d. de bedragen die het UWV ontvangt door toepassing van [artikel 45a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), voorzover deze verband houden met te betalen uitkeringen op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), anders dan op grond van [artikel 29, tweede lid, onderdeel a, b en c, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+d. de bedragen die het UWV ontvangt door toepassing van [artikel 45a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), voorzover deze verband houden met te betalen uitkeringen op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
 
 e. de bedragen die het UWV ontvangt van de werkgever in het kader van de toepassing van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md).    
 
@@ -1187,13 +1186,9 @@ e. de bedragen die het UWV ontvangt van de werkgever in het kader van de toepass
 
 Ten laste van het Algemeen Werkloosheidsfonds komen: 
 
-a. de op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) te betalen uitkeringen: 
+a. de op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) te betalen uitkeringen, met uitzondering van de uitkeringen, bedoeld in artikel 104, eerste lid;  
 
-1°. met uitzondering van de uitkeringen, bedoeld in artikel 104, eerste lid;  
-
-2°. met inbegrip van de uitkeringen, bedoeld in artikel 104, zevende lid;    
-
-b. de op grond van [artikel 29, tweede lid, onderdeel d, e, f, en g](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [artikel 70 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen en de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b, en c](../../../../../../wet/ziektewet/BWBR0001888/README.md) die direct aansluitend zijn toegekend op een uitkering op grond van [artikel 29, tweede lid, onderdeel d, e, f, of g van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 70 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+b. de op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen;  
 
 c. de uitvoeringskosten, voorzover deze betrekking hebben op de in de onderdelen a en b bedoelde uitkeringen;  
 
@@ -1201,7 +1196,7 @@ d. de op grond van enige wet over de uitkeringen, bedoeld in onderdeel a en b, d
 
 e. de bedragen, die op grond van artikel 104, vierde lid, door het UWV ten laste van het Algemeen Werkloosheidsfonds zijn gebracht;  
 
-f. de subsidies op grond van de Wet tijdelijke bijdrage herstructurering arbeidsvoorziening havens;  
+f.  vervallen;   
 
 g. de bedragen van de premievrijstelling bij marginale arbeid, bedoeld in afdeling 6 van hoofdstuk 3, voorzover die worden toegepast op de premies berekend op grond van artikel 27;  
 
@@ -1209,11 +1204,13 @@ h.  vervallen;
 
 i.  vervallen;   
 
-j. de op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) te betalen uitkeringen en de daaraan verbonden uitvoeringskosten, met uitzondering van hetgeen op grond van artikel 108 ten laste komt van het Uitvoeringsfonds voor de overheid;  
+j.  vervallen;   
 
 k. de kosten in verband met de uitvoering van [artikel 30a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van personen, die een uitkering ontvangen als bedoeld in de onderdelen a en b en de kosten van de re-integratiemaatregelen, bedoeld in [hoofdstuk VI van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [hoofdstuk IIA van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) ten aanzien van deze personen;  
 
-l. vergoedingen aan gemeenten die worden overeengekomen ter uitvoering van [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) voor zover betrekking hebbend op personen, die een uitkering ontvangen als bedoeld in de onderdelen a en b.    
+l. vergoedingen aan gemeenten die worden overeengekomen ter uitvoering van [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) voor zover betrekking hebbend op personen, die een uitkering ontvangen als bedoeld in de onderdelen a en b;  
+
+m. middelen voor uitgaven van de Sociaal-Economische Raad als bedoeld in [artikel 54 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).    
 
 ### Artikel  102  
 
@@ -1233,15 +1230,7 @@ a. de premies op grond van artikel 28, met uitzondering van de premies die op gr
 
 b. de bedragen, die het UWV ontvangt door toepassing van de [artikelen 27a](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [36 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), voorzover deze bedragen betrekking hebben op uitkeringen die ten laste van dit fonds zijn gebracht;  
 
-c. de bedragen, die het UWV op grond van artikel 100, onderdeel d, ten laste van het Algemeen Werkloosheidsfonds brengt;  
-
-d. de bedragen, die het UWV ontvangt door toepassing van de [artikelen 38, vierde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [39a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [63a, derde tot en met vijfde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [63b, tweede lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [63c van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
-
-e. de bedragen, die het UWV ontvangt door toepassing van [artikel 45a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), voorzover deze verband houden met op grond van [artikel 29, tweede lid, onderdeel a, b en c, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen;  
-
-f. de bijdragen van de werkgever of de eigenrisicodrager of de werknemer in de kosten van het onderzoek, bedoeld in [artikel 32, eerste, tweede, derde en vierde lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
-
-g. de bedragen, die het UWV ontvangt door toepassing van de [artikelen 76](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [91](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [99 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), voorzover deze bedragen betrekking hebben op uitkeringen die ten laste van dit fonds zijn gebracht.     
+c. de bedragen, die het UWV op grond van artikel 100, onderdeel d, ten laste van het Algemeen Werkloosheidsfonds brengt.     
 2.  Bij ministeriële regeling wordt een jaarlijkse bijdrage vastgesteld die in een kalenderjaar ten gunste komt van het sectorfonds waarin werkgevers op grond van artikel 95 zijn ingedeeld, die zich in het kader van de uitoefening van hun bedrijf of beroep bezighouden met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die werknemers werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), waarin tevens een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is opgenomen.   
 
 ### Artikel  104  
@@ -1254,32 +1243,32 @@ a. de op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/
 
 b. de op grond van [artikel 18 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) te betalen uitkeringen;  
 
-c. de op grond van [artikel 29, tweede lid, onderdeel a, b en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen en de uitkeringen op grond van [artikel 29, tweede lid, onderdeel d, e, f en g](../../../../../../wet/ziektewet/BWBR0001888/README.md) die direct aansluitend zijn toegekend op een uitkering op grond van [artikel 29, tweede lid, onderdeel a, b of c](../../../../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 70 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), met uitzondering van de uitkeringen aan de personen, wier arbeidsverhouding op grond van [artikel 4, eerste lid, onderdeel i of j, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) als dienstbetrekking wordt beschouwd;  
+c.  vervallen;   
 
-d. de door het UWV te betalen WGA-uitkeringen aan een werknemer die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan, recht had op een uitkering als bedoeld in onderdeel c dan wel van dit recht was uitgesloten op grond van [artikel 19a](../../../../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 19b van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), gedurende de periode die op grond van [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), geldt op de dag waarop het recht op een uitkering op grond van [die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is ontstaan, te rekenen vanaf de laatstgenoemde dag;  
+d.  vervallen;   
 
-e. de uitvoeringskosten, voorzover deze betrekking hebben op de in de onderdelen a tot en met d bedoelde uitkeringen;  
+e. de uitvoeringskosten, voorzover deze betrekking hebben op de in de onderdelen a en b bedoelde uitkeringen;  
 
-f. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a tot en met d, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die niet op deze uitkeringen in mindering kunnen worden gebracht;  
+f. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a en b, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die niet op deze uitkeringen in mindering kunnen worden gebracht;  
 
-g. de kosten van de werkzaamheden, bedoeld in [artikel 63a, vierde en vijfde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) alsmede de schade, bedoeld in het [zesde lid van dat artikel](../../../../../../wet/ziektewet/BWBR0001888/README.md), die wordt vergoed aan een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel a, en de daaraan verbonden uitvoeringskosten;  
+g.  vervallen;   
 
-h. de kosten van onderzoek, bedoeld in [artikel 32, eerste, tweede, derde en vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+h.  vervallen;   
 
-i. de bedragen van de premievrijstelling bij marginale arbeid, bedoeld in afdeling 6 van hoofdstuk 3, toegepast op de sectorpremie;  
-
-j. de uitvoeringskosten, voorzover deze betrekking hebben op de uitvoering van de [artikelen 38, vierde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [39](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [39a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) ten aanzien van anderen dan de personen, bedoeld in onderdeel c, en niet reeds op grond van onderdeel d ten laste van een sectorfonds worden gebracht, alsmede de uitvoeringskosten, voorzover deze betrekking hebben op de uitvoering van [artikel 629, derde lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
-
-k. de kosten die in verband met de uitvoering van [artikel 30a, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), ten aanzien van personen, die een uitkering ontvangen als bedoeld in onderdeel c.     
+i. de bedragen van de premievrijstelling bij marginale arbeid, bedoeld in afdeling 6 van hoofdstuk 3, toegepast op de sectorpremie.     
 2.  Het UWV is bevoegd in bijzondere gevallen voor de toepassing van het eerste lid, onderdeel a, werkzaamheden in de ene sector gelijk te stellen met werkzaamheden in een andere sector.   
 3.  [Artikel 21 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is met betrekking tot de in het eerste lid, onderdeel a, bedoelde periode waarover de uitkering ten laste van een sectorfonds komt, van overeenkomstige toepassing.   
-4.  Het UWV brengt hetgeen ten laste van het sectorfonds komt, ten laste van het Algemeen Werkloosheidsfonds voor zoveel dit meer bedraagt dan het voor het sectorfonds op grond van artikel 105, eerste lid, vastgestelde maximum, met dien verstande, dat het UWV ten laste van het Arbeidsongeschiktheidsfonds brengt, voor zoveel dit uitkeringen, bedoeld in artikel 104, eerste lid, onderdeel d, betreft die meer bedragen dan dit maximum.   
-5.  Ten laste van het sectorfonds komen voorts: 
+4.  Het UWV brengt hetgeen ten laste van het sectorfonds komt, ten laste van het Algemeen Werkloosheidsfonds voor zoveel dit meer bedraagt dan het voor het sectorfonds op grond van artikel 105, eerste lid, vastgestelde maximum.   
+5.  Ten laste van het sectorfonds kunnen voorts komen, indien dit bij algemene maatregel van bestuur is bepaald: 
 
-a. de kosten die rechtstreeks verband houden met de uitvoering van [artikel 30a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het [achtste lid van dat artikel](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), een uitkering als bedoeld in het eerste lid, onderdeel d, ontvangt; en  
+a. de door het UWV te betalen WGA-uitkeringen, bedoeld in artikel 117b, derde lid, onderdeel h;  
 
-b. de loonkostensubsidie, bedoeld in [artikel 37a van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) zoals dat luidde op 31 december 2011, indien de uitkeringsgerechtigde, met wie de werkgever aan wie de loonkostensubsidie wordt verstrekt een dienstbetrekking aangaat of is aangegaan, op de dag voorafgaand aan die dienstbetrekking recht heeft op een uitkering als bedoeld in het eerste lid, onderdeel d.     
-6.  In afwijking van het eerste lid, onderdelen c, e en f, komen de uitkeringen, die worden betaald door een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel a, of een werkgever die een onderneming verkrijgt als bedoeld in [artikel 63b, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), en de door hem gemaakte kosten ter zake van de betaling van die uitkeringen en van de werkzaamheden, bedoeld in [artikel 63a, eerste lid, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md), alsmede de op grond van enige wet over die uitkeringen verschuldigde premies of vergoedingen als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die niet op die uitkeringen in mindering kunnen worden gebracht, niet ten laste van een sectorfonds.   
+b. uitkeringen op grond van de Ziektewet als bedoeld in artikel 117b, derde lid, onderdeel g;  
+
+c. uitkeringen als bedoeld in artikel 122f;  
+
+d. de uitvoeringskosten, die betrekking hebben op deze uitkeringen op grond van de Ziektewet en op deze WGA-uitkeringen.     
+6.  Bij algemene maatregel van bestuur kunnen nadere regels gesteld voor de uitkeringen, die op grond van het vijfde lid, ten laste van het sectorfonds komen.   
 7.  In afwijking van het eerste lid, onderdeel a, komen de uitkeringen op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) die worden betaald gedurende de eerste dertien weken van ongeschiktheid van de werknemer tot het verrichten van zijn arbeid wegens ziekte, niet ten laste van een sectorfonds. [Artikel 20, zevende lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is van overeenkomstige toepassing.   
 8.  Voor de bepaling van de periode van zes maanden, bedoeld in het eerste lid, onderdeel a, worden perioden waarin de werknemer uitkering ontvangt als bedoeld in het zevende lid, buiten aanmerking gelaten.   
 
@@ -1288,14 +1277,8 @@ b. de loonkostensubsidie, bedoeld in [artikel 37a van de Wet werk en inkomen naa
 ####Vaststelling lastenplafond sectorfondsen
 
 1.  Het UWV stelt elk jaar voor elk sectorfonds afzonderlijk een maximum vast dat in een kalenderjaar op grond van artikel 104 ten laste van dat sectorfonds komt.   
-2.  Bij de vaststelling van het maximum, bedoeld in het eerste lid, blijven buiten beschouwing: 
-
-a. de bedragen die ten laste van een sectorfonds komen op grond van artikel 104, eerste lid, c, d en i; en  
-
-b. de lasten die op grond van artikel 104, vierde lid, bij het UWV ten laste van het Algemeen Werkloosheidsfonds of het Arbeidsongeschiktheidsfonds in rekening worden gebracht.     
-3.   Vervallen.    
-4.  Indien een of meer werkgevers eigenrisicodrager zijn als bedoeld in artikel 40, eerste lid, onderdeel a of c, kan Onze Minister het deel van de premie dat ten gunste komt van het desbetreffende sectorfonds maximeren, voorzover dat deel betrekking heeft op de uitkeringen, bedoeld in artikel 104, eerste lid, onderdeel c, respectievelijk artikel 104, eerste lid, onderdeel d, alsmede de uitvoeringskosten met betrekking tot die uitkeringen en de op grond van enige wet over die uitkeringen verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op die uitkeringen in mindering kunnen worden gebracht.   
-5.  Het door het UWV vastgestelde maximum, bedoeld in het eerste en derde lid, behoeft de goedkeuring van Onze Minister. Indien Onze Minister zijn goedkeuring onthoudt aan het door het UWV vastgestelde maximum, stelt hij dat zelf vast.   
+2.  Bij de vaststelling van het maximum, bedoeld in het eerste lid, blijven buiten beschouwing de bedragen die ten laste van een sectorfonds komen op grond van artikel 104, eerste lid, onderdeel i.   
+3.  Het door het UWV vastgestelde maximum, bedoeld in het eerste lid, behoeft de goedkeuring van Onze Minister. Indien Onze Minister zijn goedkeuring onthoudt aan het door het UWV vastgestelde maximum, stelt hij dat zelf vast.   
 
 ### Artikel  106  
 
@@ -1317,17 +1300,7 @@ c. de premies geheven over uitkeringen en toeslagen van personen als bedoeld in 
 
 d. de bedragen die het UWV ontvangt door de toepassing van de [artikelen 27a](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [36 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), voorzover deze bedragen betrekking hebben op uitkeringen, die ten laste van dat fonds zijn gebracht;  
 
-e. de bedragen die het UWV ontvangt door de uitoefening van zijn bevoegdheid op grond van [artikel 66 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) indien de in [dat artikel](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) bedoelde werkgever een overheidswerkgever is;  
-
-f. de bedragen die het UWV ontvangt door de toepassing van [artikel 45a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), voorzover deze bedragen betrekking hebben op uitkeringen, die ten laste van dat fonds zijn gebracht;  
-
-g. de bedragen die het UWV ontvangt door de toepassing van de [artikelen 38, vierde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [39a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), indien de in het toegepaste artikel bedoelde werkgever een overheidswerkgever is;  
-
-h. de bijdragen van de overheidswerkgever of overheidswerknemer in de kosten van het onderzoek, bedoeld in [artikel 32, eerste, tweede, derde, vierde en zesde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
-
-i. de bedragen die het UWV ontvangt door de toepassing van de [artikelen 63a, derde tot en met vijfde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [63b, tweede lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [63c van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
-
-j. de bedragen die het UWV ontvangt door toepassing van de [artikelen 76](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [91](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [99 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), voorzover deze bedragen betrekking hebben op uitkeringen die ten laste van dat fonds zijn gebracht.    
+e. de bedragen die het UWV ontvangt door de uitoefening van zijn bevoegdheid op grond van [artikel 66 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) indien de in dat artikel bedoelde werkgever een overheidswerkgever is.    
 
 ### Artikel  108  
 
@@ -1337,19 +1310,19 @@ j. de bedragen die het UWV ontvangt door toepassing van de [artikelen 76](../../
 
 a. de op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) te betalen uitkeringen aan de personen, bedoeld in artikel 24;  
 
-b. de op grond van [artikel 29, tweede lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen aan de personen, bedoeld in artikel 24;  
+b. de op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen aan de personen, bedoeld in artikel 24;  
 
-c. de op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) te betalen uitkeringen;  
+c.  vervallen;   
 
-d. de door het UWV te betalen WGA-uitkeringen aan de personen, bedoeld in artikel 24, die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan, recht hadden op een uitkering als bedoeld in [artikel 29, tweede lid, onderdeel a, b of c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) dan wel van dit recht waren uitgesloten op grond van de [artikelen 19a](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [19b van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), en op een uitkering op grond van [artikel 29, tweede lid, onderdeel d, e,f en g](../../../../../../wet/ziektewet/BWBR0001888/README.md) die aansluitend is toegekend op de uitkering op grond van [artikel 29, tweede lid, onderdeel a,b, of c van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 70 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), gedurende de periode die op grond van [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), geldt op de dag waarop het recht op een uitkering op grond van [die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is ontstaan, te rekenen vanaf de laatstgenoemde dag;  
+d.  vervallen;   
 
-e. de uitvoeringskosten, voorzover deze betrekking hebben op de in de onderdelen a tot en met d bedoelde uitkeringen;  
+e. de uitvoeringskosten, voorzover deze betrekking hebben op de in de onderdeel a en b bedoelde uitkeringen;  
 
-f. de op grond van enige wet over de uitkeringen, bedoeld in onderdeel a tot en met d door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht;  
+f. de op grond van enige wet over de uitkeringen, bedoeld in onderdeel a en b door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht;  
 
-g. de kosten van het onderzoek, bedoeld in [artikel 32, eerste, tweede, derde, vierde en zesde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), indien dat op verzoek van een overheidswerkgever of overheidswerknemer is ingesteld;  
+g.  vervallen;   
 
-h. de uitvoeringskosten, voorzover betrekking hebbend op de uitvoering van de [artikelen 38, vierde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [39](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [39a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) ten aanzien van overheidswerkgevers en overheidswerknemers, die niet reeds op grond van onderdeel c ten laste van dat fonds worden gebracht, voorzover deze betrekking hebben op de uitvoering van [artikel 629, derde lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+h.  vervallen;   
 
 i.  vervallen;   
 
@@ -1357,7 +1330,7 @@ j. de op diens aanvraag aan de werkgever door het UWV te verlenen vergoeding van
 
 k. de uitvoeringskosten verbonden aan werkzaamheden gericht op het ontvangen van bedragen, premies en bijdragen als bedoeld in artikel 107;  
 
-l. de kosten van de werkzaamheden, bedoeld in [artikel 63a, vierde en vijfde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) alsmede de schade, bedoeld in het [zesde lid van dat artikel](../../../../../../wet/ziektewet/BWBR0001888/README.md), die wordt vergoed aan een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel a, en de daaraan verbonden uitvoeringskosten;  
+l.  vervallen;   
 
 m.  vervallen;   
 
@@ -1366,12 +1339,16 @@ n. de bedragen premievrijstelling bij marginale arbeid, bedoeld in afdeling 6 va
 o. de uitvoeringskosten die betrekking hebben op de uitvoering van [artikel 32, vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
 p. vergoedingen aan gemeenten die worden overeengekomen ter uitvoering van [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) voor zover [dat artikel](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) wordt toegepast ten aanzien van personen als bedoeld in [artikel 24 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).     
-2.  Ten laste van het Uitvoeringsfonds voor de overheid komen voorts de kosten die rechtstreeks verband houden met de uitvoering van [artikel 30a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het achtste lid van dat artikel: 
+2.  Ten laste van het Uitvoeringsfonds voor de overheid komen voorts de kosten die rechtstreeks verband houden met de uitvoering van [artikel 30a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het achtste lid van dat artikel een uitkering ontvangt als bedoeld in het eerste lid, onderdeel a, en het UWV deze uitkering met toepassing van [artikel 79 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) niet kan verhalen op de overheidswerkgever.   
+3.  Ten laste van het Uitvoeringsfonds voor de overheid kunnen tevens komen, indien dit bij algemene maatregel van bestuur wordt bepaald: 
 
-a. een uitkering ontvangt als bedoeld in het eerste lid, onderdeel a, en het UWV deze uitkering met toepassing van [artikel 79 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) niet kan verhalen op de overheidswerkgever; of  
+a. de door het UWV te betalen WGA-uitkeringen, bedoeld in artikel 117b, derde lid, onderdeel h, aan de personen, bedoeld in artikel 24;  
 
-b. een uitkering ontvangt als bedoeld in het eerste lid, onderdeel d.     
-3.  In afwijking van het eerste lid, onderdelen b, d en f, komen de uitkeringen, die worden betaald door een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel a, of een werkgever die een onderneming verkrijgt als bedoeld in [artikel 63b, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), en de door hem gemaakte kosten ter zake van de betaling van die uitkeringen en van de werkzaamheden, bedoeld in [artikel 63a, eerste lid, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md), alsmede de op grond van enige wet over die uitkeringen verschuldigde premies of vergoedingen als bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die niet op die uitkeringen in mindering kunnen worden gebracht, niet ten laste van het Uitvoeringsfonds voor de overheid.   
+b. uitkeringen op grond van de Ziektewet als bedoeld in artikel 117b, derde lid, onderdeel g, te betalen aan de personen, bedoeld in artikel 24;  
+
+c. uitkeringen als bedoeld in artikel 122f, te betalen aan de personen, bedoeld in artikel 24;  
+
+d. de uitvoeringskosten, die betrekking hebben op deze uitkeringen op grond van de Ziektewet en op deze WGA-uitkeringen.     
 
 ### Artikel  110  
 
@@ -1409,7 +1386,7 @@ Het UWV beheert en administreert afzonderlijk de in artikel 33, derde lid, bedoe
 
 Ten gunste van het Arbeidsongeschiktheidsfonds komen: 
 
-a. de premies op grond van de artikelen 36 en 75 en de premie op grond van artikel 76a voor zover deze niet ten gunste komt van de Werkhervatttingskas;  
+a. de premies op grond van de artikelen 36, 75 en 76 en de premie op grond van artikel 76a voor zover deze niet ten gunste komt van de Werkhervatttingskas;  
 
 b. de gelden die het UWV ontvangt door toepassing van de [artikelen 29a](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [91i van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
 
@@ -1423,35 +1400,35 @@ f. een rijksbijdrage ter hoogte van het door Onze Minister geraamde bedrag aan l
 
 g. de gelden die het UWV ontvangt door toepassing van de [artikelen 86](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [91 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
 
-h. de gelden die het UWV ontvangt door toepassing van de [artikelen 76](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [99 van de van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in verband met uitkeringen als bedoeld in artikel 115, eerste lid, onderdeel d.    
+h. de gelden die het UWV ontvangt door toepassing van de [artikelen 76](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [99 van de van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+
+i. de bijdragen van de werkgever of de eigenrisicodrager of de werknemer in de kosten van het onderzoek, bedoeld in [artikel 32, eerste, tweede, derde en vierde lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+
+j. de bedragen die het UWV ontvangt door toepassing van de [artikelen 38, vierde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [39a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [45a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [63a, derde tot en met vijfde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), [63b, tweede lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [63c, tweede lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md).    
 
 ### Artikel  115  
 
 ####Uitgaven Arbeidsongeschiktheidsfonds
 
-1.  Ten laste van het Arbeidsongeschiktheidsfonds komen, met inachtneming van de artikelen 56, 104, 108 en 117b en [artikel 5:3 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md): 
+1.  Ten laste van het Arbeidsongeschiktheidsfonds komen, met inachtneming van de artikelen 56, 100, 104, 108 en 117b en [artikel 5:3 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md): 
 
 a. de door het UWV op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) te betalen uitkeringen;  
 
 b. de door het UWV op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) te betalen uitkeringen;  
 
-c. de op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), en de op grond van [artikel 3:30 van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) te betalen uitkeringen;  
+c. de op grond van [hoofdstuk 3, afdeling 2 van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) te betalen uitkeringen;  
 
 d. de door het UWV op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) te betalen uitkeringen;  
 
-e. de uitvoeringskosten, voor zover die betrekking hebben op de in de onderdelen a tot en met d bedoelde uitkeringen;  
+e. de op grond van artikel 29, tweede lid, onderdeel e, f en g, en [artikel 70 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) te betalen uitkeringen en de uitkeringen op grond van artikel 29, tweede lid, onderdeel a, b en c, toegekend aan een werknemer direct aansluitend op een dienstbetrekking waarin recht op een uitkering op grond van artikel 29, tweede lid, onderdeel e, f of g, bestond;  
 
-f. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a tot en met d, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht;  
+f. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a tot en met e, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht;  
 
 g. de gelden die door toepassing van artikel 118 worden overgeheveld naar de Werkhervattingskas;  
 
 h.  vervallen;   
 
-i. het gezamenlijke bedrag van de arbeidsongeschiktheidsuitkeringen en de vakantie-uitkeringen die niet zijn uitbetaald wegens het genieten van loon als bedoeld in [artikel 44, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en dat op grond van [artikel 44, vierde lid, van die wet](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt afgedragen aan ’s Rijks kas, vermeerderd met: 
-
-1°. het bedrag aan premies dat het UWV bij wel-uitbetaling op grond van enige wet over dat bedrag verschuldigd zou zijn en dat niet op de uitkeringen in mindering kan worden gebracht, en  
-
-2°. de op grond van [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) over dat bedrag verschuldigde inkomensafhankelijke bijdrage;    
+i.  vervallen;   
 
 j. de re-integratieinstrumenten op grond van [hoofdstuk IIB van de Wet op arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [hoofdstuk 3A van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [paragraaf 4.2 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
 
@@ -1469,16 +1446,22 @@ p.  vervallen;
 
 q. vergoedingen aan gemeenten die worden overeengekomen ter uitvoering van [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) voor zover betrekking hebbend op de uitvoering van een wettelijke arbeidsongeschiktheidsverzekering;  
 
-r. de bedragen die op grond van artikel 104, vierde lid, ten laste van het Arbeidsongeschiktheidsfonds kunnen worden gebracht;  
+r. de uitvoeringskosten die betrekking hebben op de uitkeringen, bedoeld in de onderdelen a tot en met e en de uitkeringen, bedoeld in artikel 117b, eerste lid, onderdelen a en b;  
 
-s.  dit onderdeel is nog niet in werking getreden;   
+s. de kosten van de werkzaamheden, bedoeld in [artikel 63a, vierde, vijfde en zesde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) alsmede de schade, bedoeld in het zevende lid van dat artikel, die wordt vergoed aan een eigenrisicodrager als bedoeld in artikel 40, eerste lid, onderdeel a, en de daaraan verbonden uitvoeringskosten;  
 
-t.  dit onderdeel is nog niet in werking getreden;   
+t. de kosten van onderzoek, bedoeld in [artikel 32, eerste, tweede, derde en vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-u.  dit onderdeel is nog niet in werking getreden;   
+u. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b, en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), die op grond van [artikel 63a, derde lid, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) door het UWV worden betaald en niet kunnen worden verhaald op de eigenrisicodrager, bedoeld in artikel 40, eerste lid, onderdeel a, en de daaraan verbonden uitvoeringskosten;  
 
 v. de bijdrage, bedoeld in artikel 103, tweede lid.     
 2.  Het UWV bezigt de middelen die zijn gereserveerd ten behoeve van het Arbeidsongeschiktheidsfonds niet tot bestrijding van uitgaven ten laste van het Arbeidsongeschiktheidsfonds dan met toestemming van Onze Minister.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald, dat tevens ten laste van het Arbeidsongeschiktheidsfonds komen: 
+
+a. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b en c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) toegekend aan werknemers, die op de eerste dag van ongeschiktheid tot werken in dienstbetrekking stonden van eigenrisicodragers als bedoeld in artikel 40, eerste lid, onderdeel a, voor zover de eigenrisicodrager op grond van [artikel 63b, eerste lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) niet het risico draagt voor de betaling van die uitkering;  
+
+b. uitkeringen als bedoeld in artikel 122f.     
+4.  Bij algemene maatregel van bestuur kunnen nadere regels gesteld voor de uitkeringen, die op grond van het derde lid, ten laste van het Arbeidsongeschiktheidsfond komen.   
 
 ### Artikel  117a  
 
@@ -1486,7 +1469,7 @@ v. de bijdrage, bedoeld in artikel 103, tweede lid.
 
 Ten gunste van de Werkhervattingskas komen: 
 
-a. de premie op grond van artikel 38, eerste lid, de gedifferentieerde premie ten behoeve van de Werkhervattingskas op grond van artikel 38a, eerste lid, en de premie op grond van artikel 76a voorzover deze de gedifferentieerde premie ten behoeve van de Werkhervattingskas op grond van artikel 38, eerste lid, niet overschrijdt;  
+a. de gedifferentieerde premie op grond van de artikelen 38, tweede lid, en 38a, eerste lid, en de premie op grond van artikel 76a voor zover deze de gedifferentieerde premie op grond van artikel 38, tweede lid, niet overschrijdt;  
 
 b. de gelden die het UWV ontvangt met toepassing van de [artikelen 76](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [83, derde lid](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [84, tweede en vierde lid](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en [99 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in verband met uitkeringen als bedoeld in artikel 117b, eerste lid;  
 
@@ -1496,7 +1479,13 @@ c. de gelden die door toepassing van artikel 118 worden overgeheveld uit het Arb
 
 ####Uitgaven Werkhervattingskas
 
-1.  Ten laste van de Werkhervattingskas komen de door het UWV te betalen WGA uitkeringen, alsmede de op grond van enige wet over deze uitkeringen door het UWV verschuldigde premies en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht gedurende de periode die op grond van [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), geldt op de dag waarop het recht op uitkering op grond van [die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is ontstaan, te rekenen vanaf die dag.   
+1.  Ten laste van de Werkhervattingskas komen de door het UWV te betalen: 
+
+a. WGA-uitkeringen en de overlijdensuitkering, bedoeld in [artikel 74, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) gedurende de periode die op grond van [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), geldt op de dag waarop het recht van uitkering op grond van die wet is ontstaan te rekenen vanaf die dag;  
+
+b. ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel a, b of c, en de overlijdensuitkering, bedoeld in [artikel 35 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+
+c. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a en b, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).     
 2.  Indien een WGA uitkering wordt toegekend direct aansluitend op een op grond van [artikel 24 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) verlengd tijdvak waarin de verzekerde recht heeft op loon, wordt de duur van de verlenging van dat tijdvak in mindering gebracht op de periode, bedoeld in het eerste lid.   
 3.  Het eerste lid is niet van toepassing indien: 
 
@@ -1504,22 +1493,28 @@ a. het een WGA uitkering betreft die op grond van [artikel 72, eerste lid, van d
 
 b. het een WGA uitkering betreft die op grond van [artikel 83, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) door het UWV wordt betaald en niet kan worden verhaald op een bank of verzekeraar als bedoeld in artikel 40;  
 
-c. het een WGA uitkering betreft, toegekend aan een werknemer, die uit de dienstbetrekking waaruit de WGA uitkering is ontstaan recht had op ziekengeld;  
+c. het een WGA-uitkering betreft, toegekend aan een werknemer, die uit de dienstbetrekking waaruit de WGA uitkering is ontstaan recht had op ziekengeld als bedoeld in [artikel 29, tweede lid, onderdeel d, e, f, of g, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) of het ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel a, b en c, betreft dat aan een werknemer is toegekend direct aansluitend op een dienstbetrekking waarin recht op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel e, f of g bestond;  
 
 d. het een WGA uitkering betreft, toegekend aan een werknemer, wiens WGA uitkering wordt toegekend in aansluiting op een voordien op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) toegekende uitkering, danwel het op grond van de Wet werk en arbeidsondersteuning jonggehandicapten toegekende recht op arbeidsondersteuning;  
 
 e. het een vervolguitkering als bedoeld in [artikel 62, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan hetgeen berekend op grond van het [eerste en tweede lid van dat artikel](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
 
-f. het een loonaanvullingsuitkering als bedoeld in [artikel 60, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan een bedrag overeenkomende met het bedrag van de vervolguitkering, bedoeld in [artikel 60, eerste lid, onderdeel b, van die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) waar de verzekerde, zonder toepassing van artikel 62, derde lid, recht op zou hebben indien hij geen recht zou hebben gehad op de loonaanvullingsuitkering, bedoeld in [artikel 60, eerste lid, onderdeel a, van die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en die daarop niet in mindering kunnen worden gebracht.     
+f. het een loonaanvullingsuitkering als bedoeld in [artikel 60, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan een bedrag overeenkomende met het bedrag van de vervolguitkering, bedoeld in [artikel 60, eerste lid, onderdeel b, van die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) waar de verzekerde, zonder toepassing van artikel 62, derde lid, recht op zou hebben indien hij geen recht zou hebben gehad op de loonaanvullingsuitkering, bedoeld in [artikel 60, eerste lid, onderdeel a, van die wet](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en die daarop niet in mindering kunnen worden gebracht;  
+
+g. het uitkeringen als bedoeld in het eerste lid, onderdeel b, betreft toegekend aan werknemers, die op de eerste dag van ongeschiktheid tot werken in dienstbetrekking stonden van eigenrisicodragers als bedoeld in artikel 40, eerste lid, onderdeel a, voor de betaling van die uitkering de eigenrisicodrager op grond van [artikel 63b, eerste lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) niet het risico draagt;  
+
+h. het uitkeringen betreft als bedoeld in het eerste lid, onderdeel a, die op grond van artikel 84, achtste lid, van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) niet ten laste komen van de eigenrisicodragers;  
+
+i. het ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel a,b of c, betreft dat op grond van [artikel 63a, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) door het UWV wordt betaald en niet kan worden verhaald op de eigenrisicodrager, bedoeld in artikel 40, eerste lid, onderdeel a.     
 4.  Het UWV bezigt de middelen die zijn gereserveerd ten behoeve van de Werkhervattingskas niet tot bestrijding van uitgaven ten laste van de Werkhervattingskas dan met toestemming van Onze Minister.   
 5.  Ten laste van de Werkhervattingskas komen voorts: 
 
-a. de bedragen de premievrijstelling bij marginale arbeid, bedoeld in afdeling 6 van hoofdstuk 3, toegepast op de gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38; en  
+a. de bedragen van de kortingen oudere werknemer en arbeidsgehandicapte werknemer en de premievrijstelling bij marginale arbeid, bedoeld in afdeling 6 van hoofdstuk 3, toegepast op de gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38; en  
 
-b. de loonkostensubsidie, bedoeld in [artikel 37a van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) zoals dat luidde op 31 december 2011, indien de uitkeringsgerechtigde, met wie de werkgever aan wie de loonkostensubsidie wordt verstrekt een dienstbetrekking aangaat of is aangegaan, op de dag voorafgaand aan die dienstbetrekking recht heeft op een uitkering die ten laste komt van de Werkhervattingskas.     
-6.  De kosten die verband houden met de uitvoering van [artikel 30a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van een uitkeringsgerechtigde, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het [achtste lid van dat artikel](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), recht heeft op een uitkering die ten laste komt van de Werkhervattingskas.   
-7.  Ten laste van de Werkhervattingskas komen voorts de uitvoeringskosten, voor zover deze betrekking hebben op de in het eerste lid bedoelde uitkeringen.   
-8.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.   
+b. de loonkostensubsidie, bedoeld in [artikel 37a van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) zoals dat luidde op 31 december 2011, indien de uitkeringsgerechtigde, met wie de werkgever aan wie de loonkostensubsidie wordt verstrekt een dienstbetrekking aangaat of is aangegaan, op de dag voorafgaand aan die dienstbetrekking recht heeft op een uitkering die ten laste komt van de Werkhervattingskas;  
+
+c. de kosten die verband houden met de uitvoering van [artikel 30a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) ten aanzien van een uitkeringsgerechtigde, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het achtste lid van dat artikel, recht heeft op een uitkering die ten laste komt van de Werkhervattingskas.     
+6.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.   
 
 ### Artikel  118  
 
@@ -1611,11 +1606,36 @@ b. de zinsnede «nadat die werknemer zijn eigen arbeid of een andere functie bij
 1.  Artikel 47, aanhef en onderdeel b, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van de wet van 29 december 2008 tot wijziging van de Wet financiering sociale verzekeringen en enige andere sociale verzekeringswetten in verband met de invoering van een premiekorting voor het in dienst nemen van uitkeringsgerechtigden van 50 jaar en ouder en het in dienst houden van werknemers van 62 jaar en ouder (Stb. 598), blijft van toepassing voor zover de betreffende premievrijstelling op die dag werd toegepast voor het in dienst hebben van werknemers van 54,5 jaar en ouder, tot die werknemers de leeftijd van 62 jaar hebben bereikt.   
 2.  Het eerste lid is niet van toepassing op de premie die het UWV betaalt aan de werkgever op grond van [artikel 11, tweede lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 11, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) of [artikel 10, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) met dien verstande dat ten aanzien van de premie die de werkgever in dat geval is verschuldigd, het eerste lid van toepassing blijft.   
 
+### Artikel  122ca  
+
+####Gedeeltelijke teruggaaf basispremie Arbeidsongeschiktheidsfonds
+
+1.  In afwijking in zoverre van de hoofdstukken 3 en 4 verleent de inspecteur, al dan niet op verzoek, bij voor bezwaar vatbare beschikking aan een werkgever een gedeeltelijke teruggaaf van de ten behoeve van het Arbeidsongeschiktheidsfonds verschuldigde basispremie, bedoeld in artikel 34, eerste lid. Voor de toepassing van [artikel 20 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt de teruggaaf, bedoeld in de eerste volzin, aangemerkt als een naar aanleiding van een verzoek gedane teruggaaf.   
+2.  De teruggaaf, bedoeld in het eerste lid, bedraagt 28,82% van de door de werkgever ten behoeve van het Arbeidsongeschiktheidsfonds over de periode van 1 januari 2013 tot en met 30 juni 2013 aangegeven basispremie. De voor de toepassing van de eerste volzin in aanmerking te nemen premie wordt vastgesteld op grond van de aangiften die uiterlijk op 30 september 2013 zijn ingediend alsmede de aanvullingen daarop die uiterlijk op die datum hebben plaatsgevonden.   
+3.  Ingeval het eerste aangiftetijdvak van de periode, genoemd in het tweede lid, niet aanvangt op 1 januari 2013 of ingeval het laatste aangiftetijdvak van de periode, genoemd in het tweede lid, niet eindigt op 30 juni 2013, wordt het bedrag van de voor de toepassing van het tweede lid in aanmerking te nemen premie door herleiding bepaald.   
+4.  De teruggaaf, bedoeld in het eerste lid, komt ten laste van het Arbeidsongeschiktheidsfonds.   
+5.  Bij regeling van Onze Minister van Financiën, in overeenstemming met Onze Minister, kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.   
+6.  Dit artikel vervalt met ingang van 1 januari 2015.   
+
 ### Artikel  122d  
 
 ####Overgangsbepaling ontwikkeling premie Algemeen Werkloosheidsfonds
 
 De premie die op grond van artikel 27 is vastgesteld wordt met ingang van het jaar 2015 in verband met de ontwikkeling van de lasten voor werkgevers voortvloeiend uit de toepassing van artikel 47 en 122c verlaagd met 0,35% in 2015, 0,45% in 2016, 0,55% in 2017, 0,60% in 2018, 0,70% in 2019 en 0,75% in 2020.  
+
+### Artikel  122e  
+
+####Overgangsbepaling eigenrisicodragen
+
+1.  De werkgever, die op de dag voorafgaande aan de datum van inwerkingtreding van [artikel III, onderdeel C, onderdeel 2, van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](../../../../../../wet/wet/beperking/ziekteverzuim/en/arbeidsongeschiktheid/vangnetters/BWBR0032089/README.md) het risico draagt voor de betaling van de WGA uitkering, bedoeld in artikel 40, eerste lid, onderdeel b, zoals dat artikel luidde voor die datum wordt na die datum geacht het risico te dragen voor betalingen als bedoeld in artikel 40, eerste lid, onderdeel b, met ingang van die datum, indien hij een garantie overlegt als bedoeld in artikel 40, tweede lid, die betrekking heeft op het dragen van dit risico.   
+2.  De werkgever overlegt de garantie, bedoeld in het eerste lid, ten minste dertien weken voor de datum van inwerkingtreding, bedoeld in het eerste lid.   
+3.  Het door de werkgever zelf dragen van het risico, bedoeld in artikel 40, eerste lid, onderdeel a, wordt, onverminderd artikel 40, tiende lid, onderdeel b, door de inspecteur met ingang van de datum van inwerkingtreding, bedoeld in het eerste lid, beëindigd bij voor bezwaar vatbare beschikking, indien de garantie, bedoeld in het eerste lid, niet ten minste dertien weken voor die datum door de werkgever is overlegd.   
+
+### Artikel  122f  
+
+####Overgangsregeling lopende uitkeringen
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor uitkeringen op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) aan werknemers die zijn toegekend voor de datum van inwerkingtreding van [artikel II van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters en WGA- uitkeringen](../../../../../../wet/wet/beperking/ziekteverzuim/en/arbeidsongeschiktheid/vangnetters/BWBR0032089/README.md), die voor die datum zijn toegekend aan werknemers, die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan, recht hadden op een uitkering op grond van de Ziektewet, en uitvoeringskosten en andere kosten in verband met deze uitkeringen, die ten laste komen van bij die maatregel aan te wijzen fondsen.  
 
 ### Artikel  122g  
 

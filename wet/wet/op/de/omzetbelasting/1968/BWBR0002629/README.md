@@ -52,15 +52,15 @@ Op de belasting, verschuldigd ter zake van leveringen van goederen en diensten, 
 
 1.  In deze wet en in de daarop gebaseerde bepalingen wordt verstaan onder: 
 
-a. BTW-richtlijn 2006: richtlijn nr. 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU L 347);  
+a. BTW-richtlijn 2006: Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347);  
 
-b. lid-staat: een lid-staat van de Europese Gemeenschap;  
+b. lidstaat: een lidstaat van de Europese Unie;  
 
-c. Gemeenschap: het geheel van de grondgebieden van de lid-staten zoals die gebieden zijn omschreven in artikel 5, onder 2, van de BTW-richtlijn 2006, met dien verstande dat ook het Vorstendom Monaco en het eiland Man worden behandeld als gebied van de Franse Republiek respectievelijk het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en dat ook de zones Akrotiri en Dhekelia van Cyprus, die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen, worden behandeld als gebied van de Republiek Cyprus;  
+c. Unie: het geheel van de grondgebieden van de lidstaten zoals die gebieden zijn omschreven in artikel 5, onder 2, van de BTW-richtlijn 2006, met dien verstande dat ook het Vorstendom Monaco en het eiland Man worden behandeld als gebied van de Franse Republiek respectievelijk het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en dat ook de zones Akrotiri en Dhekelia van Cyprus, die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen, worden behandeld als gebied van de Republiek Cyprus;  
 
-d. derde-land: elk ander grondgebied dan dat van de Gemeenschap;  
+d. derde-land: elk ander grondgebied dan dat van de Unie;  
 
-e. accijnsgoederen: bier, wijn, tussenprodukten, overige alcoholhoudende produkten, minerale oliën en tabaksprodukten als bedoeld in [artikel 1 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), kolen als bedoeld in [artikel 32, onderdeel a, van de Wet belastingen op milieugrondslag](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), alsmede aardgas als bedoeld in [artikel 47, eerste lid, onderdeel m, van de Wet belastingen op milieugrondslag](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) in verbinding met [artikel 48, tweede lid, van die wet](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), maar met uitzondering van gas dat wordt geleverd via een op het grondgebied van de Gemeenschap gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net;  
+e. accijnsgoederen: bier, wijn, tussenprodukten, overige alcoholhoudende produkten, minerale oliën en tabaksprodukten als bedoeld in artikel 1 van de Wet op de accijns, kolen als bedoeld in artikel 32, onderdeel a, van de Wet belastingen op milieugrondslag, alsmede aardgas als bedoeld in artikel 47, eerste lid, onderdeel m, van de Wet belastingen op milieugrondslag in verbinding met artikel 48, tweede lid, van die wet, maar met uitzondering van gas dat wordt geleverd via een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net;  
 
 f. nieuwe vervoermiddelen: voor het personen- of goederenvervoer bestemde schepen met een lengte van meer dan 7,5 m, luchtvaartuigen met een totaal opstijggewicht van meer dan 1550 kg en landvoertuigen die zijn uitgerust met een motor van meer dan 48 cc cilinderinhoud of met een vermogen van meer dan 7,2 kW, met uitzondering van zeeschepen en luchtvaartuigen als bedoeld in de bij deze wet behorende tabel II, onderdeel *a*, post 3, wanneer op het tijdstip van de levering: 
 
@@ -68,7 +68,7 @@ f. nieuwe vervoermiddelen: voor het personen- of goederenvervoer bestemde schepe
 
 2°. het vervoermiddel, als het een landvoertuig betreft ten hoogste 6000 km heeft afgelegd, als het een schip betreft ten hoogste 100 uren heeft gevaren, dan wel als het een luchtvaartuig betreft ten hoogste 40 uren heeft gevlogen;    
 
-g. btw-identificatienummer: het nummer dat ingevolge artikel 214 van de BTW-richtlijn 2006 door een lid-staat aan een ondernemer of aan een rechtspersoon, andere dan ondernemer, is toegekend;  
+g. btw-identificatienummer: het nummer dat ingevolge artikel 214 van de BTW-richtlijn 2006 door een lidstaat aan een ondernemer of aan een rechtspersoon, andere dan ondernemer, is toegekend;  
 
 h. intracommunautair goederenvervoer: het vervoer van goederen waarvan de plaats van vertrek en de plaats van aankomst op het grondgebied van twee verschillende lidstaten zijn gelegen;  
 
@@ -78,15 +78,15 @@ j. plaats van aankomst: de plaats waar het goederenvervoer daadwerkelijk eindigt
 
 k. wederverkoper: de ondernemer wiens activiteiten geheel of ten dele bestaan uit de wederverkoop van gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen of antiquiteiten;  
 
-l. gebruikte goederen: alle roerende lichamelijke zaken die, in de staat waarin zij verkeren of na herstelling daarvan, opnieuw kunnen worden gebruikt, andere dan nieuwe vervoermiddelen die worden verzonden of vervoerd van een lid-staat naar een andere lid-staat, en andere dan bij ministeriële regeling aan te wijzen edele metalen en edelstenen;  
+l. gebruikte goederen: alle roerende lichamelijke zaken die, in de staat waarin zij verkeren of na herstelling daarvan, opnieuw kunnen worden gebruikt, andere dan nieuwe vervoermiddelen die worden verzonden of vervoerd van een lidstaat naar een andere lidstaat, en andere dan bij ministeriële regeling aan te wijzen edele metalen en edelstenen;  
 
 m. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten: de bij ministeriële regeling aan te wijzen goederen;  
 
-n. gedeelte van een binnen de Gemeenschap verricht passagiersvervoer: het gedeelte van een vervoer dat, zonder tussenstop buiten de Gemeenschap, plaatsvindt tussen de plaats van vertrek en de plaats van aankomst van het vervoer van passagiers; in geval het een heen- en terugreis betreft, wordt de terugreis als een afzonderlijk vervoer beschouwd;  
+n. gedeelte van een binnen de Unie verricht passagiersvervoer: het gedeelte van een vervoer dat, zonder tussenstop buiten de Unie, plaatsvindt tussen de plaats van vertrek en de plaats van aankomst van het vervoer van passagiers; in geval het een heen- en terugreis betreft, wordt de terugreis als een afzonderlijk vervoer beschouwd;  
 
-o. plaats van vertrek van een vervoer van passagiers: het eerste punt in de Gemeenschap waar passagiers aan boord kunnen komen, eventueel na een tussenstop buiten de Gemeenschap;  
+o. plaats van vertrek van een vervoer van passagiers: het eerste punt in de Unie waar passagiers aan boord kunnen komen, eventueel na een tussenstop buiten de Unie;  
 
-p. plaats van aankomst van een vervoer van passagiers: het laatste punt in de Gemeenschap waar passagiers die binnen de Gemeenschap aan boord zijn gekomen van boord kunnen gaan, eventueel vóór een tussenstop buiten de gemeenschap;  
+p. plaats van aankomst van een vervoer van passagiers: het laatste punt in de Unie waar passagiers die binnen de Unie aan boord zijn gekomen van boord kunnen gaan, eventueel vóór een tussenstop buiten de Unie;  
 
 q. elektronische diensten: langs elektronische weg verrichte diensten, met name de in bijlage II van de BTW-richtlijn 2006 beschreven diensten;  
 
@@ -131,20 +131,19 @@ f. de rechtsovergang van goederen welke het onderwerp uitmaken van een overeenko
 
 a. het door een ondernemer aan zijn bedrijf onttrekken van een goed dat hij voor eigen privé-doeleinden of voor privé-doeleinden van zijn personeel bestemt, dat hij om niet verstrekt of, meer in het algemeen, dat hij voor andere dan bedrijfsdoeleinden bestemt, ingeval met betrekking tot dat goed of de bestanddelen daarvan recht op volledige of gedeeltelijke aftrek van de belasting is ontstaan;  
 
-b. het door een ondernemer voor bedrijfsdoeleinden bestemmen van in het eigen bedrijf vervaardigde goederen in de gevallen waarin, indien de goederen van een ondernemer zouden zijn betrokken, hij geen recht zou hebben op volledige aftrek van de op die goederen drukkende belasting;  
+b.  vervallen;   
 
-c. het onder zich hebben van goederen door een ondernemer of zijn rechthebbenden wanneer hij de uitoefening van zijn bedrijf beëindigt, ingeval bij de aanschaffing van die goederen of bij de bestemming ervan overeenkomstig het bepaalde in onderdeel b, recht op volledige of gedeeltelijke aftrek van de belasting is ontstaan.     
+c. het onder zich hebben van goederen door een ondernemer of zijn rechthebbenden wanneer hij de uitoefening van zijn bedrijf beëindigt, ingeval bij de aanschaffing van die goederen of bij de bestemming ervan overeenkomstig het bepaalde in onderdeel b, zoals dat luidde op 31 december 2013, recht op volledige of gedeeltelijke aftrek van de belasting is ontstaan.     
 4.  Indien door meer dan één persoon overeenkomsten worden gesloten met een verplichting tot levering van een zelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer wordt afgeleverd, wordt dat goed geacht door ieder van die personen te zijn geleverd.   
 5.  Goederen welke over een veiling worden verhandeld, worden geacht aan en vervolgens door de houder van de veiling te zijn geleverd.   
 6.  Goederen welke worden geleverd door tussenkomst van een commissionair of dergelijke ondernemer die overeenkomsten sluit op eigen naam maar op order en voor rekening van een ander, worden geacht aan en vervolgens door die ondernemer te zijn geleverd.   
 7.  Goederen zijn alle voor menselijke beheersing vatbare stoffelijke objecten, alsmede electriciteit, gas, warmte of koude en dergelijke.   
 8.  Voor de toepassing van het derde lid, onderdeel a, worden onttrekkingen van goederen om voor bedrijfsdoeleinden te dienen als geschenken van geringe waarde of als monster, niet als een levering onder bezwarende titel beschouwd.   
-9.  Voor de toepassing van het derde lid, onderdeel b, worden met in het eigen bedrijf vervaardigde goederen gelijkgesteld goederen welke in opdracht zijn vervaardigd onder terbeschikkingstelling van stoffen, waaronder grond is begrepen. Van de toepassing van het derde lid, onderdeel b, worden uitgezonderd andere onbebouwde terreinen dan bouwterreinen als bedoeld in artikel 11, vierde lid.   
 
 ### Artikel  3a  
 
-1.  Met een levering van een goed onder bezwarende titel als bedoeld in artikel 1, onderdeel a, wordt gelijkgesteld de overbrenging door een ondernemer van een eigen goed van zijn bedrijf naar een andere lid-staat.   
-2.  Overbrenging van een goed naar een andere lid-staat is het verzenden of vervoeren van het goed voor bedrijfsdoeleinden, door of voor rekening van de ondernemer, voor zover het goed niet: 
+1.  Met een levering van een goed onder bezwarende titel als bedoeld in artikel 1, onderdeel a, wordt gelijkgesteld de overbrenging door een ondernemer van een eigen goed van zijn bedrijf naar een andere lidstaat.   
+2.  Overbrenging van een goed naar een andere lidstaat is het verzenden of vervoeren van het goed voor bedrijfsdoeleinden, door of voor rekening van de ondernemer, voor zover het goed niet: 
 
 a. door de ondernemer wordt geleverd in de zin van artikel 3, eerste lid, onderdeel f, of wordt geleverd met toepassing van artikel 5a, eerste lid;  
 
@@ -154,14 +153,14 @@ c. door de ondernemer wordt geleverd met toepassing van artikel 9, tweede lid, o
 
 d.  vervallen;   
 
-e. wordt gebruikt ten behoeve van een aan de ondernemer verleende dienst, bestaande in deskundigenonderzoeken of werkzaamheden met betrekking tot dat goed, die feitelijk plaatsvinden in de lid-staat van aankomst van de verzending of het vervoer, mits dat goed na de deskundigenonderzoeken of werkzaamheden wordt verzonden naar de ondernemer in de lid-staat waarvandaan het oorspronkelijk is verzonden of vervoerd;  
+e. wordt gebruikt ten behoeve van een aan de ondernemer verleende dienst, bestaande in deskundigenonderzoeken of werkzaamheden met betrekking tot dat goed, die feitelijk plaatsvinden in de lidstaat van aankomst van de verzending of het vervoer, mits dat goed na de deskundigenonderzoeken of werkzaamheden wordt verzonden naar de ondernemer in de lidstaat waarvandaan het oorspronkelijk is verzonden of vervoerd;  
 
-f. tijdelijk wordt gebruikt in de lid-staat van aankomst van de verzending of het vervoer ten behoeve van een door de ondernemer verrichte dienst;  
+f. tijdelijk wordt gebruikt in de lidstaat van aankomst van de verzending of het vervoer ten behoeve van een door de ondernemer verrichte dienst;  
 
-g. voor een periode van ten hoogste 24 maanden wordt gebruikt in de lid-staat van aankomst van de verzending of het vervoer, wanneer de invoer van hetzelfde goed uit een derde-land met het oog op tijdelijk gebruik in aanmerking zou komen voor de regeling voor tijdelijke invoer met volledige vrijstelling van rechten bij invoer; of  
+g. voor een periode van ten hoogste 24 maanden wordt gebruikt in de lidstaat van aankomst van de verzending of het vervoer, wanneer de invoer van hetzelfde goed uit een derde-land met het oog op tijdelijk gebruik in aanmerking zou komen voor de regeling voor tijdelijke invoer met volledige vrijstelling van rechten bij invoer; of  
 
-h. bestaat in gas dat via een op het grondgebied van de Gemeenschap gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net wordt geleverd onder de voorwaarden van artikel 5b, in warmte of koude dat via warmte- of koudenetten onder die voorwaarden wordt geleverd dan wel in elektriciteit die wordt geleverd onder die voorwaarden.     
-3.  In geval ten aanzien van een goed als bedoeld in het tweede lid, aanhef, en onderdelen *a* tot en met *h*, op enig tijdstip niet meer wordt voldaan aan de in het van toepassing zijnde onderdeel gestelde voorwaarden, wordt het goed geacht op dat tijdstip te zijn overgebracht naar een andere lid-staat.   
+h. bestaat in gas dat via een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net wordt geleverd onder de voorwaarden van artikel 5b, in warmte of koude dat via warmte- of koudenetten onder die voorwaarden wordt geleverd dan wel in elektriciteit die wordt geleverd onder die voorwaarden.     
+3.  In geval ten aanzien van een goed als bedoeld in het tweede lid, aanhef, en onderdelen a tot en met h, op enig tijdstip niet meer wordt voldaan aan de in het van toepassing zijnde onderdeel gestelde voorwaarden, wordt het goed geacht op dat tijdstip te zijn overgebracht naar een andere lidstaat.   
 
 ### Artikel  4  
 
@@ -186,22 +185,22 @@ a. ingeval het goed in verband met de levering, anders dan in de zin van artikel
 
 b. in andere gevallen de plaats waar het goed zich bevindt op het tijdstip van de levering;  
 
-c. in afwijking van onderdeel *b*, in geval van een levering van goederen aan boord van een schip, vliegtuig of trein en tijdens het gedeelte van een binnen de Gemeenschap verricht passagiersvervoer, de plaats van vertrek van het vervoer van passagiers.     
-2.  In afwijking van het eerste lid, onderdeel *a*, worden, in de gevallen waarin de plaats van vertrek van de verzending of het vervoer van de goederen in een derde-land ligt, de plaats waar de levering wordt verricht alsmede de plaats waar eventuele volgende leveringen worden verricht, geacht in de lid-staat van invoer van de goederen te liggen, voor zover de goederen door de leverancier of in diens opdracht worden ingevoerd.   
+c. in afwijking van onderdeel *b*, in geval van een levering van goederen aan boord van een schip, vliegtuig of trein en tijdens het gedeelte van een binnen de Unie verricht passagiersvervoer, de plaats van vertrek van het vervoer van passagiers.     
+2.  In afwijking van het eerste lid, onderdeel *a*, worden, in de gevallen waarin de plaats van vertrek van de verzending of het vervoer van de goederen in een derde-land ligt, de plaats waar de levering wordt verricht alsmede de plaats waar eventuele volgende leveringen worden verricht, geacht in de lidstaat van invoer van de goederen te liggen, voor zover de goederen door de leverancier of in diens opdracht worden ingevoerd.   
 
 ### Artikel  5a  
 
-1.  In afwijking van artikel 5, eerste lid, onderdeel a, wordt de levering van goederen, andere dan nieuwe vervoermiddelen en andere dan goederen die worden geleverd met toepassing van een van de in de artikelen 312 tot en met 325 en 333 tot en met 340 van de BTW-richtlijn 2006 bedoelde bijzondere regelingen, die, direct of indirect, door of voor rekening van de ondernemer die de levering verricht worden verzonden of vervoerd uit een andere lid-staat dan die van aankomst van de verzending of het vervoer, verricht op de plaats van aankomst van de verzending of het vervoer.   
+1.  In afwijking van artikel 5, eerste lid, onderdeel a, wordt de levering van goederen, andere dan nieuwe vervoermiddelen en andere dan goederen die worden geleverd met toepassing van een van de in de artikelen 312 tot en met 325 en 333 tot en met 340 van de BTW-richtlijn 2006 bedoelde bijzondere regelingen, die, direct of indirect, door of voor rekening van de ondernemer die de levering verricht worden verzonden of vervoerd uit een andere lidstaat dan die van aankomst van de verzending of het vervoer, verricht op de plaats van aankomst van de verzending of het vervoer.   
 2.  Het eerste lid is alleen van toepassing op de levering van goederen aan afnemers als bedoeld in artikel 33, lid 1, onder a, van de BTW-richtlijn 2006.   
-3.  Indien de in het eerste lid bedoelde goederen worden verzonden of vervoerd uit een derde-land en door de ondernemer die de levering verricht worden ingevoerd in een andere lid-staat dan die van aankomst van de verzending of het vervoer, worden deze goederen geacht te zijn verzonden of vervoerd vanuit de lid-staat van invoer. Artikel 5, tweede lid, is niet van toepassing.   
-4.  Het eerste lid is niet van toepassing op leveringen van goederen, andere dan accijnsgoederen, die worden verzonden of vervoerd naar eenzelfde lid-staat, voor zover het totaal van de vergoedingen ter zake van deze leveringen in het lopende kalenderjaar niet meer beloopt dan het bedrag dat hiervoor bij ministeriële regeling voor die lid-staat is aangewezen, mits het totaal van de vergoedingen ter zake van dergelijke leveringen in het voorafgaande kalenderjaar niet meer heeft belopen dan dit bedrag. Voor goederen die worden verzonden of vervoerd naar Nederland geldt een drempelbedrag van € 100 000.   
+3.  Indien de in het eerste lid bedoelde goederen worden verzonden of vervoerd uit een derde-land en door de ondernemer die de levering verricht worden ingevoerd in een andere lidstaat dan die van aankomst van de verzending of het vervoer, worden deze goederen geacht te zijn verzonden of vervoerd vanuit de lidstaat van invoer. Artikel 5, tweede lid, is niet van toepassing.   
+4.  Het eerste lid is niet van toepassing op leveringen van goederen, andere dan accijnsgoederen, die worden verzonden of vervoerd naar eenzelfde lidstaat, voor zover het totaal van de vergoedingen ter zake van deze leveringen in het lopende kalenderjaar niet meer beloopt dan het bedrag dat hiervoor bij ministeriële regeling voor die lidstaat is aangewezen, mits het totaal van de vergoedingen ter zake van dergelijke leveringen in het voorafgaande kalenderjaar niet meer heeft belopen dan dit bedrag. Voor goederen die worden verzonden of vervoerd naar Nederland geldt een drempelbedrag van € 100 000.   
 5.  Ondernemers die leveringen verrichten als bedoeld in het vierde lid kunnen aan de inspecteur verzoeken om dat lid op hen niet van toepassing te doen zijn. Bij inwilliging van het verzoek geldt zulks tot wederopzegging door belanghebbende doch ten minste voor twee kalenderjaren. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij ministeriële regeling kunnen regels worden gesteld inzake de toepassing van dit lid.   
 
 ### Artikel  5b  
 
-1.  Ingeval de levering van gas via een op het grondgebied van de Gemeenschap gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, van warmte of koude via warmte- of koudenetten of van elektriciteit wordt verricht aan een ondernemer die wederverkoper is, wordt die levering, in afwijking van artikel 5, verricht op de plaats waar deze ondernemer is gevestigd of een vaste inrichting heeft waarvoor de goederen worden geleverd, dan wel, bij het ontbreken hiervan, op de plaats waar zijn woonplaats of zijn gebruikelijke verblijfplaats is.   
+1.  Ingeval de levering van gas via een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, van warmte of koude via warmte- of koudenetten of van elektriciteit wordt verricht aan een ondernemer die wederverkoper is, wordt die levering, in afwijking van artikel 5, verricht op de plaats waar deze ondernemer is gevestigd of een vaste inrichting heeft waarvoor de goederen worden geleverd, dan wel, bij het ontbreken hiervan, op de plaats waar zijn woonplaats of zijn gebruikelijke verblijfplaats is.   
 2.  Voor de toepassing van het eerste lid wordt, in afwijking van artikel 2a, eerste lid, onderdeel k, onder een wederverkoper verstaan een ondernemer wiens hoofdactiviteit op het gebied van de aankoop van gas, warmte of koude of elektriciteit bestaat in het opnieuw verkopen van die producten en wiens eigen verbruik van die producten verwaarloosbaar is.   
-3.  In afwijking van artikel 5 wordt de levering van gas via een op het grondgebied van de Gemeenschap gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, van warmte of koude via warmte- of koudenetten of van elektriciteit in andere gevallen dan bedoeld in het eerste lid verricht op de plaats waar de afnemer het werkelijke gebruik en verbruik van de goederen heeft. Ingeval het gas, de warmte, de koude of de elektriciteit geheel of ten dele niet daadwerkelijk door de afnemer wordt verbruikt, worden deze niet-verbruikte goederen geacht te zijn gebruikt en verbruikt op de plaats waar hij de zetel van zijn bedrijfsuitoefening of een vaste inrichting heeft gevestigd waarvoor de goederen worden geleverd. Bij gebreke van een dergelijke zetel of vaste inrichting wordt de afnemer geacht de goederen te hebben gebruikt en verbruikt in zijn woonplaats of gebruikelijke verblijfplaats.   
+3.  In afwijking van artikel 5 wordt de levering van gas via een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, van warmte of koude via warmte- of koudenetten of van elektriciteit in andere gevallen dan bedoeld in het eerste lid verricht op de plaats waar de afnemer het werkelijke gebruik en verbruik van de goederen heeft. Ingeval het gas, de warmte, de koude of de elektriciteit geheel of ten dele niet daadwerkelijk door de afnemer wordt verbruikt, worden deze niet-verbruikte goederen geacht te zijn gebruikt en verbruikt op de plaats waar hij de zetel van zijn bedrijfsuitoefening of een vaste inrichting heeft gevestigd waarvoor de goederen worden geleverd. Bij gebreke van een dergelijke zetel of vaste inrichting wordt de afnemer geacht de goederen te hebben gebruikt en verbruikt in zijn woonplaats of gebruikelijke verblijfplaats.   
 
 ### Afdeling  1b  
 
@@ -250,7 +249,7 @@ b. deskundigenonderzoeken en werkzaamheden met betrekking tot roerende lichameli
 ### Artikel  6f  
 
 1.  De plaats van restaurant- en cateringdiensten is de plaats waar die diensten materieel worden verricht.   
-2.  De plaats van restaurant- en cateringdiensten die materieel worden verricht aan boord van een schip, vliegtuig of trein tijdens het in de Gemeenschap verrichte gedeelte van een passagiersvervoer, is de plaats van vertrek van het passagiersvervoer.   
+2.  De plaats van restaurant- en cateringdiensten die materieel worden verricht aan boord van een schip, vliegtuig of trein tijdens het in de Unie verrichte gedeelte van een passagiersvervoer, is de plaats van vertrek van het passagiersvervoer.   
 
 ### Artikel  6g  
 
@@ -261,12 +260,12 @@ b. deskundigenonderzoeken en werkzaamheden met betrekking tot roerende lichameli
 
 ### Artikel  6h  
 
-1.  De plaats van elektronische diensten, die worden verricht voor een andere dan ondernemer die in een lidstaat gevestigd is of daar zijn woonplaats of gebruikelijke verblijfplaats heeft, door een ondernemer die de zetel van zijn bedrijfsuitoefening buiten de Gemeenschap heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats buiten de Gemeenschap heeft, is de plaats waar de andere dan ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
+1.  De plaats van elektronische diensten, die worden verricht voor een andere dan ondernemer die in een lidstaat gevestigd is of daar zijn woonplaats of gebruikelijke verblijfplaats heeft, door een ondernemer die de zetel van zijn bedrijfsuitoefening buiten de Unie heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats buiten de Unie heeft, is de plaats waar de andere dan ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
 2.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.   
 
 ### Artikel  6i  
 
-1.  De plaats van de volgende diensten, verricht voor een andere dan ondernemer die buiten de Gemeenschap gevestigd is of aldaar zijn woonplaats of gebruikelijke verblijfplaats heeft, is de plaats waar deze persoon gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft: 
+1.  De plaats van de volgende diensten, verricht voor een andere dan ondernemer die buiten de Unie gevestigd is of aldaar zijn woonplaats of gebruikelijke verblijfplaats heeft, is de plaats waar deze persoon gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft: 
 
 a. de overdracht en het verlenen van auteursrechten, octrooien, licentierechten, handelsmerken en soortgelijke rechten;  
 
@@ -282,7 +281,7 @@ f. het beschikbaar stellen van personeel;
 
 g. de verhuur van roerende lichamelijke zaken, met uitzondering van alle vervoermiddelen;  
 
-h. het bieden van toegang tot een op het grondgebied van de Gemeenschap gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, tot warmte- of koudenetten of tot het elektriciteitssysteem, alsmede het verrichten van transmissie- of distributiediensten via deze systemen of netten en het verrichten van andere daarmee rechtstreeks verbonden diensten;  
+h. het bieden van toegang tot een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, tot warmte- of koudenetten of tot het elektriciteitssysteem, alsmede het verrichten van transmissie- of distributiediensten via deze systemen of netten en het verrichten van andere daarmee rechtstreeks verbonden diensten;  
 
 i. telecommunicatiediensten;  
 
@@ -297,7 +296,7 @@ k. elektronische diensten.
 
 ### Artikel  6j  
 
-De hierna genoemde diensten die worden verricht door ondernemers die buiten de Gemeenschap wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben van waaruit de dienst wordt verricht, of die, bij gebreke van een dergelijke zetel of vaste inrichting, hun woonplaats of gebruikelijke verblijfplaats buiten de Gemeenschap hebben, en de plaats van die diensten buiten de Gemeenschap is gelegen worden aangemerkt als worden zij in Nederland verricht, wanneer het werkelijke gebruik en de werkelijke exploitatie in Nederland plaatsvinden: 
+De hierna genoemde diensten die worden verricht door ondernemers die buiten de Unie wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben van waaruit de dienst wordt verricht, of die, bij gebreke van een dergelijke zetel of vaste inrichting, hun woonplaats of gebruikelijke verblijfplaats buiten de Unie hebben, en de plaats van die diensten buiten de Unie is gelegen worden aangemerkt als worden zij in Nederland verricht, wanneer het werkelijke gebruik en de werkelijke exploitatie in Nederland plaatsvinden: 
 
 a. diensten, bestaande in de verhuur van vervoermiddelen, die worden verricht voor andere dan ondernemers die in Nederland wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben waarvoor de diensten worden verricht;  
 
@@ -318,9 +317,9 @@ a. beroep;
 
 b. exploitatie van een vermogensbestanddeel om er duurzaam opbrengst uit te verkrijgen.     
 3.  Bij ministeriële regeling kan worden bepaald, dat publiekrechtelijke lichamen die, anders dan als ondernemer, prestaties verrichten welke uit hun aard ook door ondernemers kunnen worden verricht, met betrekking tot die prestaties als ondernemer worden aangemerkt.   
-4.  Natuurlijke personen en lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), die op grond van het bepaalde in dit artikel ondernemer zijn en die in Nederland wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben en die in financieel, organisatorisch en economisch opzicht zodanig zijn verweven, dat zij een eenheid vormen, worden, al dan niet op verzoek van één of meer van deze natuurlijke personen of lichamen, bij voor bezwaar vatbare beschikking van de inspecteur als één ondernemer aangemerkt en wel met ingang van de eerste dag van de maand, volgende op die waarin de inspecteur die beschikking heeft afgegeven. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de vorming, wijziging en beëindiging van de fiscale eenheid.   
-5.  Onder bij ministeriële regeling te stellen voorwaarden kunnen lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) die, anders dan als ondernemer, prestaties verrichten ten behoeve van ondernemers, die krachtens artikel 15 ter zake belasting in aftrek zouden hebben kunnen brengen, indien die prestaties ten behoeve van hen door een ondernemer zouden zijn verricht, met betrekking tot die prestaties als ondernemer worden aangemerkt.   
-6.  Degene die, anders dan als ondernemer, een nieuw vervoermiddel levert welk vervoermiddel wordt verzonden of vervoerd naar een andere lid-staat, wordt met betrekking tot die levering als ondernemer aangemerkt.   
+4.  Natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die op grond van het bepaalde in dit artikel ondernemer zijn en die in Nederland wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben en die in financieel, organisatorisch en economisch opzicht zodanig zijn verweven, dat zij een eenheid vormen, worden, al dan niet op verzoek van één of meer van deze natuurlijke personen of lichamen, bij voor bezwaar vatbare beschikking van de inspecteur als één ondernemer aangemerkt en wel met ingang van de eerste dag van de maand, volgende op die waarin de inspecteur die beschikking heeft afgegeven. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de vorming, wijziging en beëindiging van de fiscale eenheid.   
+5.  Onder bij ministeriële regeling te stellen voorwaarden kunnen lichamen in de zin van de Algemene wet inzake rijksbelastingen die, anders dan als ondernemer, prestaties verrichten ten behoeve van ondernemers, die krachtens artikel 15 ter zake belasting in aftrek zouden hebben kunnen brengen, indien die prestaties ten behoeve van hen door een ondernemer zouden zijn verricht, met betrekking tot die prestaties als ondernemer worden aangemerkt.   
+6.  Degene die, anders dan als ondernemer, een nieuw vervoermiddel levert welk vervoermiddel wordt verzonden of vervoerd naar een andere lidstaat, wordt met betrekking tot die levering als ondernemer aangemerkt.   
 7.  Voor de toepassing van de regels betreffende de plaats van dienst in deze wet en in de daarop gebaseerde bepalingen wordt: 
 
 a. een ondernemer die ook werkzaamheden of handelingen verricht die niet als belastbare goederenleveringen of diensten in de zin van artikel 2, lid 1, van BTW-richtlijn 2006 worden beschouwd, met betrekking tot alle voor hem verrichte diensten als ondernemer aangemerkt;  
@@ -349,13 +348,14 @@ b. bij met grondrente bezwaarde eigendom, rechten van erfpacht, opstal, erfdiens
 
 c. bij eigendom, bezwaard met een recht van erfpacht, opstal, erfdienstbaarheid of beklemming, de vergoeding wordt verminderd met de aan die rechten verbonden lasten;  
 
-d. bij levering anders dan met toepassing van artikel 28b of 28d, van gebruikte personenauto's, gebruikte motorrijwielen en gebruikte bestelauto's in de zin van [artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), de vergoeding wordt verminderd met de op de voet van die wet geheven belasting. Voor het vaststellen van het bedrag van die vermindering worden regels gesteld met inachtneming van de bepalingen van of ingevolge [die wet](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).     
+d. bij levering anders dan met toepassing van artikel 28b of 28d, van gebruikte personenauto's, gebruikte motorrijwielen en gebruikte bestelauto's in de zin van artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992, de vergoeding wordt verminderd met de op de voet van die wet geheven belasting. Voor het vaststellen van het bedrag van die vermindering worden regels gesteld met inachtneming van de bepalingen van of ingevolge die wet.     
 6.  Indien gegevens voor het bepalen van de vergoeding zijn uitgedrukt in een andere munteenheid dan de euro, wordt de wisselkoers vastgesteld overeenkomstig de laatst genoteerde verkoopkoers op het tijdstip waarop de belasting verschuldigd wordt. In plaats van het hiervoor bedoelde wisselkoersmechanisme mag ook gebruik gemaakt worden van de wisselkoers die, op het tijdstip waarop de belasting verschuldigd wordt, door de Europese Centrale Bank laatstelijk was bekendgemaakt.   
 7.  Ten aanzien van de handelingen, bedoeld in artikel 4, tweede lid, wordt de vergoeding gesteld op de door de ondernemer voor het verrichten van de diensten gemaakte uitgaven. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de door de ondernemer voor het verrichten van deze diensten gemaakte uitgaven.   
 
-### Artikel  8a  
+### Artikel  8a   
+Treedt in werking op een nader te bepalen tijdstip   
 
-In afwijking van artikel 8 wordt, bij toepassing van [artikel 31c, tweede lid van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de vergoeding voor elektriciteit die wordt geleverd aan anderen dan wederverkopers gesteld op het verschil tussen de vergoeding die de ondernemer berekent over de door hem geleverde elektriciteit en de vergoeding die de afnemer berekent over de door hem aan de ondernemer geleverde elektriciteit.  
+In afwijking van artikel 8 wordt, bij toepassing van artikel 31c, tweede lid van de Elektriciteitswet 1998, de vergoeding voor elektriciteit die wordt geleverd aan anderen dan wederverkopers gesteld op het verschil tussen de vergoeding die de ondernemer berekent over de door hem geleverde elektriciteit en de vergoeding die de afnemer berekent over de door hem aan de ondernemer geleverde elektriciteit.  
 
 ### Artikel  9  
 
@@ -408,15 +408,15 @@ g.
 
 1°. de volgende leveringen en diensten: 
 
-a. de diensten op het vlak van de gezondheidskundige verzorging van de mens door beoefenaren van een medisch of paramedisch beroep die een op dit beroep gerichte opleiding hebben voltooid waarvoor regels zijn gesteld bij of krachtens de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), voor zover deze diensten tot het gebied van deskundigheid van dit beroep behoren en onderdeel vormen van bedoelde opleiding;  
+a. de diensten op het vlak van de gezondheidskundige verzorging van de mens door beoefenaren van een medisch of paramedisch beroep die een op dit beroep gerichte opleiding hebben voltooid waarvoor regels zijn gesteld bij of krachtens de Wet op de beroepen in de individuele gezondheidszorg, voor zover deze diensten tot het gebied van deskundigheid van dit beroep behoren en onderdeel vormen van bedoelde opleiding;  
 
 b. diensten die door tandtechnici als zodanig worden verricht; de leveringen van tandprothesen door tandartsen en tandtechnici; het vervoer van zieken of gewonden met ambulance-automobielen;    
 
-2°. de diensten, bedoeld in [artikel 2, eerste lid, onderdelen a tot en met e, en h, van het Besluit zorgaanspraken AWBZ](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), verleend aan personen ten behoeve van wie in een indicatiebesluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is vastgelegd dat ze op de in die onderdelen bedoelde zorg zijn aangewezen, alsmede huishoudelijke verzorging, bedoeld in de [Wet maatschappelijke ondersteuning](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), verleend aan personen ten behoeve van wie ingevolge [die wet](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) vaststaat dat ze op die verzorging zijn aangewezen. Tot de in de vorige volzin bedoelde diensten behoren niet de bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen diensten;  
+2°. de diensten, bedoeld in artikel 2, eerste lid, onderdelen a tot en met e, van het Besluit zorgaanspraken AWBZ, verleend aan personen ten behoeve van wie in een indicatiebesluit op grond van de Algemene Wet Bijzondere Ziektekosten is vastgelegd dat ze op de in die onderdelen bedoelde zorg zijn aangewezen, alsmede huishoudelijke verzorging, bedoeld in de Wet maatschappelijke ondersteuning, verleend aan personen ten behoeve van wie ingevolge die wet vaststaat dat ze op die verzorging zijn aangewezen. Tot de in de vorige volzin bedoelde diensten behoren niet de bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen diensten;  
 
-3°. de diensten door landbouwers, veehouders, tuinbouwers en bosbouwers bestaande in het verlenen van dagbesteding, arbeidstraining of dagopvang aan: 
+3°. de diensten door ondernemers bestaande in het verlenen van dagbesteding, arbeidstraining of dagopvang aan: 
 
-a. personen voor wie zij daartoe een schriftelijke overeenkomst hebben gesloten met een instelling als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of met een instelling die werkzaam is op het terrein van sociaal en maatschappelijk werk;  
+a. personen voor wie zij daartoe een schriftelijke overeenkomst hebben gesloten met een instelling als bedoeld in artikel 1, eerste lid, onderdeel e, van de Algemene Wet Bijzondere Ziektekosten of met een instelling die werkzaam is op het terrein van sociaal en maatschappelijk werk;  
 
 b. personen met wie zij daartoe een schriftelijke overeenkomst hebben gesloten en die beschikken over een persoonsgebonden budget met het oog op het geldend maken van hun aanspraken ingevolge de onder a genoemde wet;      
 
@@ -440,9 +440,9 @@ j. de volgende diensten:
 
 k. handelingen ter zake van verzekering en herverzekering met inbegrip van daarmee samenhangende diensten, verricht door assurantiemakelaars en verzekeringstussenpersonen;  
 
-l. de kansspelen in de zin van [artikel 2, eerste lid, van de Wet op de kansspelbelasting](../../../../../../../wet/wet/op/de/kansspelbelasting/BWBR0002359/README.md);  
+l. de kansspelen in de zin van artikel 2, eerste lid, van de Wet op de kansspelbelasting;  
 
-m. de diensten, en de daarmee gepaard gaande leveringen, bedoeld in [artikel 16 van de Postwet 2009](../../../../../../../wet/postwet/2009/BWBR0025572/README.md), die worden verricht door een verlener van de universele postdienst, bedoeld in [die wet](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+m. de diensten, en de daarmee gepaard gaande leveringen, bedoeld in artikel 16 van de Postwet 2009, die worden verricht door een verlener van de universele postdienst, bedoeld in die wet;  
 
 n. de niet-commerciële activiteiten van openbare radio- en televisieorganisaties;  
 
@@ -462,11 +462,11 @@ s. de levering van menselijke organen, menselijk bloed en moedermelk;
 
 t. de diensten en daarmee nauw samenhangende leveringen door werkgevers- en werknemersorganisaties, alsmede door organisaties van politieke, godsdienstige, vaderlandslievende, levensbeschouwelijke of liefdadige aard aan hun leden tegen een statutair vastgestelde contributie; bij algemene maatregel van bestuur kan de vrijstelling buiten toepassing worden verklaard in gevallen waarin zij zou leiden tot een ernstige verstoring van concurrentieverhoudingen;  
 
-u. bij algemene maatregel van bestuur aan te wijzen diensten welke door zelfstandige groeperingen van personen of lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), die prestaties verrichten welke zijn vrijgesteld of waarvoor zij geen ondernemer zijn, worden verleend aan hun leden en welke rechtstreeks nodig zijn voor het verrichten van voornoemde prestaties, mits die groeperingen van hun leden slechts terugbetaling vorderen van hun aandeel in de gezamenlijke uitgaven en geen ernstige verstoring van concurrentieverhoudingen optreedt;  
+u. bij algemene maatregel van bestuur aan te wijzen diensten welke door zelfstandige groeperingen van personen of lichamen in de zin van de Algemene wet inzake rijksbelastingen, die prestaties verrichten welke zijn vrijgesteld of waarvoor zij geen ondernemer zijn, worden verleend aan hun leden en welke rechtstreeks nodig zijn voor het verrichten van voornoemde prestaties, mits die groeperingen van hun leden slechts terugbetaling vorderen van hun aandeel in de gezamenlijke uitgaven en geen ernstige verstoring van concurrentieverhoudingen optreedt;  
 
-v. leveringen en diensten van bijkomstige aard door organisaties waarvan de prestaties overigens op grond van onderdeel *c*, *d*, *e*, *f*, *o*, 1°, of *t* zijn vrijgesteld, voor zover die leveringen en diensten voortvloeien uit activiteiten ter verkrijging van financiële steun voor deze organisaties, mits de ontvangsten ter zake van leveringen niet meer bedragen dan € 68 067 per jaar en ter zake van diensten niet meer dan € 22 689 per jaar, met dien verstande dat voor organisaties als bedoeld in onderdeel *e*, laatstgenoemd bedrag € 31 765 bedraagt. Tot de in dit onderdeel bedoelde leveringen en diensten behoren niet de bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van de concurrentieverhoudingen aan te wijzen leveringen of diensten;  
+v. leveringen en diensten van bijkomstige aard door organisaties waarvan de prestaties overigens op grond van onderdeel c, d, e, f, o, onder 1°, of t zijn vrijgesteld, voor zover die leveringen en diensten voortvloeien uit activiteiten ter verkrijging van financiële steun voor deze organisaties, mits de ontvangsten ter zake van leveringen niet meer bedragen dan € 68 067 per jaar en ter zake van diensten niet meer dan € 22 689 per jaar, met dien verstande dat voor organisaties als bedoeld in onderdeel *e*, laatstgenoemd bedrag € 50 000 bedraagt. Tot de in dit onderdeel bedoelde leveringen en diensten behoren niet de bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van de concurrentieverhoudingen aan te wijzen leveringen of diensten;  
 
-w. opvang van kinderen in kinderopvang of gastouderopvang als bedoeld in [artikel 1.1](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en peuterspeelzaalwerk als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), indien het betreft kinderopvang in een overeenkomstig [die wet](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) geregistreerd kindercentrum, gastouderopvang door tussenkomst van een overeenkomstig die wet geregistreerd gastouderbureau of peuterspeelzaalwerk in een overeenkomstig die wet geregistreerde peuterspeelzaal en overigens wordt voldaan aan de in voormelde wet gestelde eisen, opvang van kinderen als bedoeld in artikel 1.1, tweede lid, onderdelen a en b, van die wet, alsmede nader bij algemene maatregel van bestuur aan te wijzen vormen van kinderopvang of peuterspeelzaalwerk.     
+w. opvang van kinderen in kinderopvang of gastouderopvang als bedoeld in artikel 1.1 en peuterspeelzaalwerk als bedoeld in artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, indien het betreft kinderopvang in een overeenkomstig die wet geregistreerd kindercentrum, gastouderopvang door tussenkomst van een overeenkomstig die wet geregistreerd gastouderbureau of peuterspeelzaalwerk in een overeenkomstig die wet geregistreerde peuterspeelzaal en overigens wordt voldaan aan de in voormelde wet gestelde eisen, opvang van kinderen als bedoeld in artikel 1.1, tweede lid, onderdelen a en b, van die wet, alsmede nader bij algemene maatregel van bestuur aan te wijzen vormen van kinderopvang of peuterspeelzaalwerk.     
 2.  De vrijstellingen, bedoeld in het eerste lid, onderdelen *c*, *e* en *t*, zijn slechts van toepassing, indien met de aldaar bedoelde prestaties geen winst wordt beoogd. Onder het beogen van winst wordt mede verstaan het behalen van exploitatieoverschotten, tenzij deze niet worden uitgekeerd, doch worden aangewend ten dienste van de bedoelde prestaties. De nauw samenhangende leveringen van goederen en diensten, bedoeld in het eerste lid, aanhef, onderdelen c, o, onder 1° en 2°, en t, zijn van de vrijstelling uitgesloten: 
 
 a. wanneer zij niet onontbeerlijk zijn voor het verrichten van de vrijgestelde handelingen;  
@@ -487,7 +487,7 @@ b. ten aanzien waarvan voorzieningen worden of zijn getroffen die uitsluitend di
 
 c. in de omgeving waarvan voorzieningen worden of zijn getroffen; of  
 
-d. ter zake waarvan een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is verleend;   met het oog op de bebouwing van de grond.   
+d. ter zake waarvan een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht is verleend;   met het oog op de bebouwing van de grond.   
 5.  Voor de toepassing van het eerste lid, onderdelen a, onder 2°, en b, onder 5°, worden onder het gebruiken voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 bestaat, niet begrepen de handelingen, bedoeld in de artikelen 3, derde lid, en 4, tweede lid.   
 
 ### Afdeling  4  
@@ -498,17 +498,13 @@ d. ter zake waarvan een omgevingsvergunning voor een bouwactiviteit als bedoeld 
 
 1.  De belasting wordt geheven van de ondernemer die de levering of de dienst verricht.   
 2.  Ingeval de ondernemer die een levering als bedoeld in artikel 5b of een dienst als bedoeld in artikel 6, eerste lid, verricht, niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering wordt verricht of de dienst wordt verleend, en aan degene aan wie de levering wordt verricht of de dienst wordt verleend een btw-identificatienummer in Nederland is toegekend, wordt de belasting geheven van degene aan wie de levering wordt verricht of de dienst wordt verleend.   
-3.  Ingeval de ondernemer die de levering, niet zijnde een levering waarop de bij deze wet behorende tabel II, onderdeel *a*, post 6, van toepassing is, of een dienst, andere dan bedoeld in het tweede lid, verricht, niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering of de dienst wordt verricht, en degene aan wie de levering wordt verricht of de dienst wordt verleend, een ondernemer is die in Nederland woont of is gevestigd dan wel aldaar een vaste inrichting heeft, of een in Nederland gevestigd lichaam in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is, wordt de belasting geheven van degene aan wie de levering wordt verricht of de dienst wordt verleend.   
+3.  Ingeval de ondernemer die de levering, niet zijnde een levering waarop de bij deze wet behorende tabel II, onderdeel *a*, post 6, van toepassing is, of een dienst, andere dan bedoeld in het tweede lid, verricht, niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering of de dienst wordt verricht, en degene aan wie de levering wordt verricht of de dienst wordt verleend, een ondernemer is die in Nederland woont of is gevestigd dan wel aldaar een vaste inrichting heeft, of een in Nederland gevestigd lichaam in de zin van de Algemene wet inzake rijksbelastingen is, wordt de belasting geheven van degene aan wie de levering wordt verricht of de dienst wordt verleend.   
 4.  Voor de toepassing van dit artikel wordt een ondernemer die een vaste inrichting heeft in Nederland, geacht een niet in Nederland gevestigde ondernemer te zijn wanneer aan de volgende voorwaarden is voldaan: 
 
 a. hij verricht in Nederland een belastbare goederenlevering of een dienst;  
 
 b. bij het verrichten van die goederenlevering of die dienst is de vaste inrichting in Nederland niet betrokken.     
 5.  In bij algemene maatregel van bestuur aan te wijzen gevallen wordt onder bij of krachtens deze maatregel te stellen regelen de belasting, ten einde voor de inning daarvan meer waarborgen te scheppen, geheven van degene aan wie de levering wordt verricht of de dienst wordt verleend.   
-
-### Artikel  12a  
-
-Indien ten onrechte gebruik is gemaakt van de uitzondering van artikel 11, eerste lid, onderdeel *a*, onder 2°, omdat degene aan wie de levering is verricht de onroerende zaak niet gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 bestaat, wordt de belasting die in verband met die levering door degene die de levering heeft verricht op de voet van artikel 15 in aftrek is gebracht, nageheven van degene aan wie de levering is verricht.  
 
 ### Artikel  13  
 
@@ -560,7 +556,7 @@ a. handelingen door de als zodanig handelende ondernemer buiten Nederland verric
 
 b. handelingen die overeenkomstig de artikelen 143, onder f, g, h en i, 144 en 146 tot en met 153 van de BTW-richtlijn 2006 zijn vrijgesteld;  
 
-c. handelingen als bedoeld in de artikelen 11, eerste lid, onderdelen i, j en k, mits de ontvanger buiten de Gemeenschap gevestigd is of wanneer de handelingen rechtstreeks samenhangen met goederen die bestemd zijn om te worden uitgevoerd uit de Gemeenschap.     
+c. handelingen als bedoeld in de artikelen 11, eerste lid, onderdelen i, j en k, mits de ontvanger buiten de Unie gevestigd is of wanneer de handelingen rechtstreeks samenhangen met goederen die bestemd zijn om te worden uitgevoerd uit de Unie.     
 3.  In afwijking in zoverre van het eerste lid wordt bij levering van een nieuw vervoermiddel door een in het eerste lid, onderdeel d, bedoelde ondernemer de in het eerste lid bedoelde aftrek beperkt tot de belasting die in de aankoopprijs is begrepen of die verschuldigd is geworden ter zake van de intracommunautaire verwerving of de invoer van het vervoermiddel. De aftrek bedraagt ten hoogste het bedrag van de belasting dat verschuldigd zou zijn indien op die levering het tarief van nihil niet van toepassing zou zijn. Het recht op aftrek ontstaat op het tijdstip waarop het vervoermiddel wordt geleverd. Bij ministeriële regeling worden nadere regels gesteld inzake de toepassing van dit lid en van het eerste lid, onderdeel d.   
 4.  De aftrek van belasting vindt plaats overeenkomstig de bestemming van de goederen en diensten op het tijdstip waarop de belasting aan de ondernemer in rekening wordt gebracht dan wel op het tijdstip waarop de belasting wordt verschuldigd. Indien op het tijdstip waarop de ondernemer goederen en diensten gaat gebruiken, blijkt, dat de belasting ter zake voor een groter of kleiner gedeelte in aftrek is gebracht dan waartoe de ondernemer op grond van het gebruik is gerechtigd, wordt hij de te veel afgetrokken belasting op dat tijdstip verschuldigd. De verschuldigd geworden belasting wordt op de voet van artikel 14 voldaan. De te weinig afgetrokken belasting wordt aan hem op zijn verzoek teruggegeven.   
 5.  Geen aftrek vindt plaats van belasting welke in rekening is gebracht ter zake van het verstrekken van spijzen en dranken voor gebruik ter plaatse binnen het kader van het hotel-, café-, restaurant-, pension- en aanverwant bedrijf aan personen die daar slechts voor een korte periode verblijf houden.   
@@ -595,15 +591,15 @@ Ingeval de voor aftrek in aanmerking komende belasting meer bedraagt dan de in h
 
 ### Artikel  17a  
 
-1.  Intracommunautaire verwerving van goederen is de verwerving van goederen ingevolge een levering van deze goederen door een als zodanig handelende ondernemer, welke goederen worden verzonden of vervoerd van een lid-staat naar een andere lid-staat.   
-2.  Wanneer door rechtspersonen, andere dan ondernemers, verworven goederen worden verzonden of vervoerd uit een derde-land en door deze rechtspersonen worden ingevoerd in een andere lid-staat dan die van aankomst van de verzending of het vervoer, worden deze goederen geacht te zijn verzonden of vervoerd vanuit de lid-staat van invoer van de goederen.   
-3.  Met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, wordt gelijkgesteld het beschikken voor bedrijfsdoeleinden over een goed dat door of voor rekening van de ondernemer wordt verzonden of vervoerd uit een andere lid-staat waar het goed is vervaardigd, gewonnen, bewerkt, gekocht, onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving, of door hem is ingevoerd.   
-4.  Met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, wordt mede gelijkgesteld het komen binnen Nederland van goederen die zijn verzonden of vervoerd vanuit een andere lid-staat, waar zij ter beschikking hebben gestaan zonder dat over deze goederen aldaar belasting is geheven of voldaan in verband met het gebruik ervan in het kader van het Verdrag van Londen van 19 juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten (Trb. 1951, 114 en Trb. 1953, 10, Stb. 1953, 438), indien de invoer van die goederen niet zou zijn vrijgesteld.   
+1.  Intracommunautaire verwerving van goederen is de verwerving van goederen ingevolge een levering van deze goederen door een als zodanig handelende ondernemer, welke goederen worden verzonden of vervoerd van een lidstaat naar een andere lidstaat.   
+2.  Wanneer door rechtspersonen, andere dan ondernemers, verworven goederen worden verzonden of vervoerd uit een derde-land en door deze rechtspersonen worden ingevoerd in een andere lidstaat dan die van aankomst van de verzending of het vervoer, worden deze goederen geacht te zijn verzonden of vervoerd vanuit de lidstaat van invoer van de goederen.   
+3.  Met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, wordt gelijkgesteld het beschikken voor bedrijfsdoeleinden over een goed dat door of voor rekening van de ondernemer wordt verzonden of vervoerd uit een andere lidstaat waar het goed is vervaardigd, gewonnen, bewerkt, gekocht, onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving, of door hem is ingevoerd.   
+4.  Met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, wordt mede gelijkgesteld het komen binnen Nederland van goederen die zijn verzonden of vervoerd vanuit een andere lidstaat, waar zij ter beschikking hebben gestaan zonder dat over deze goederen aldaar belasting is geheven of voldaan in verband met het gebruik ervan in het kader van het Verdrag van Londen van 19 juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten (Trb. 1951, 114 en Trb. 1953, 10, Stb. 1953, 438), indien de invoer van die goederen niet zou zijn vrijgesteld.   
 
 ### Artikel  17b  
 
 1.  De plaats waar een intracommunautaire verwerving wordt verricht, is de plaats van aankomst van de verzending of het vervoer.   
-2.  Onverminderd het bepaalde in het eerste lid wordt een intracommunautaire verwerving verricht in de lid-staat die aan de afnemer het btw-identificatienummer heeft toegekend waaronder de verwerving wordt verricht, voor zover de afnemer niet aantoont dat de belasting is geheven met toepassing van het eerste lid.   
+2.  Onverminderd het bepaalde in het eerste lid wordt een intracommunautaire verwerving verricht in de lidstaat die aan de afnemer het btw-identificatienummer heeft toegekend waaronder de verwerving wordt verricht, voor zover de afnemer niet aantoont dat de belasting is geheven met toepassing van het eerste lid.   
 3.  Het tweede lid is niet van toepassing en de intracommunautaire verwerving van goederen wordt geacht overeenkomstig het eerste lid aan de heffing te zijn onderworpen indien: 
 
 a. de afnemer aantoont de verwerving te hebben verricht met het oog op een daaropvolgende levering binnen het grondgebied van de overeenkomstig het eerste lid bepaalde lidstaat, waarvoor degene voor wie deze levering bestemd is, overeenkomstig artikel 197 van BTW-richtlijn 2006 is aangewezen als de tot voldoening van de belasting gehouden persoon; en  
@@ -620,7 +616,7 @@ b. de afnemer heeft voldaan aan het bepaalde in artikel 37a.
 2.  Met betrekking tot intracommunautaire verwervingen waarbij de ondernemer die de goederen levert verplicht is ter zake van die levering een factuur uit te reiken is artikel 8, tweede, vijfde en zesde lid, van overeenkomstige toepassing.   
 3.  Met betrekking tot hetgeen op de voet van artikel 17a, derde en vierde lid, wordt gelijkgesteld met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, is artikel 8, derde en zesde lid, van overeenkomstige toepassing.   
 4.  In afwijking van het eerste lid wordt met betrekking tot de intracommunautaire verwervingen van accijnsgoederen, andere dan tabaksprodukten, waarbij de voor die goederen in Nederland verschuldigde of voldane accijns niet in de vergoeding is begrepen, de belasting berekend over de vergoeding vermeerderd met die voor de goederen verschuldigde of voldane accijns.   
-5.  Het vierde lid is van overeenkomstige toepassing met betrekking tot de intracommunautaire verwervingen van alcoholvrije dranken als bedoeld in [artikel 6 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), waarbij de voor die goederen in Nederland op de voet van die wet verschuldigde of voldane belasting niet in de vergoeding is begrepen.   
+5.  Het vierde lid is van overeenkomstige toepassing met betrekking tot de intracommunautaire verwervingen van alcoholvrije dranken als bedoeld in artikel 6 van de Wet op de verbruiksbelasting van alcoholvrije dranken, waarbij de voor die goederen in Nederland op de voet van die wet verschuldigde of voldane belasting niet in de vergoeding is begrepen.   
 
 ### Artikel  17d  
 
@@ -657,7 +653,7 @@ De belasting wordt geheven van degene die de intracommunautaire verwerving verri
 
 1.  De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.   
 2.  In afwijking in zover van het eerste lid wordt de belasting die verschuldigd is geworden ter zake van intracommunautaire verwervingen van nieuwe vervoermiddelen door natuurlijke personen en rechtspersonen aan wie geen btw-identificatienummer is toegekend, niet voldaan over een tijdvak.   
-3.  Ingeval naast de belasting die verschuldigd is ter zake van de in het tweede lid bedoelde intracommunautaire verwerving van een nieuw vervoermiddel, tevens belasting verschuldigd is geworden op de voet van de [Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), is, in afwijking van het [eerste en het tweede lid, artikel 6 van die wet](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) van overeenkomstige toepassing.   
+3.  Ingeval naast de belasting die verschuldigd is ter zake van de in het tweede lid bedoelde intracommunautaire verwerving van een nieuw vervoermiddel, tevens belasting verschuldigd is geworden op de voet van de Wet op de belasting van personenauto’s en motorrijwielen 1992, is, in afwijking van het eerste en het tweede lid, artikel 6 van die wet van overeenkomstige toepassing.   
 
 ### Hoofdstuk  III  
 
@@ -671,7 +667,7 @@ De belasting wordt geheven van degene die de intracommunautaire verwerving verri
 
 1.  Invoer van goederen is: 
 
-a. het brengen in Nederland van goederen die niet voldoen aan de voorwaarden van de artikelen 23 en 24 van het Verdrag tot oprichting van de Europese Gemeenschap;  
+a. het brengen in Nederland van goederen die niet voldoen aan de voorwaarden van de artikelen 28 en 29 van het Verdrag betreffende de werking van de Europese Unie;  
 
 b. het brengen in Nederland vanuit een derde-land van andere dan de in onderdeel a bedoelde goederen;  
 
@@ -686,7 +682,7 @@ b. de douanebestemmingen, bedoeld in artikel 4, onderdeel 15, onder b, c en d, v
 
 c. de douaneregelingen, bedoeld in artikel 4, onderdeel 16, onder b, c, d, e en, voor zover het betreft een volledige vrijstelling van rechten bij invoer, f, van het Communautair douanewetboek.     
 3.  Als invoer wordt niet aangemerkt het in Nederland brengen van goederen als bedoeld in het eerste lid, onderdelen a en b, waarop een douaneregime van toepassing is dan wel waarop aansluitend aan het in Nederland brengen een douaneregime van toepassing wordt. Evenmin wordt als invoer aangemerkt het in Nederland beëindigen van een douaneregime voor zover dit regime wordt opgevolgd door een douaneregime.   
-4.  Als invoer wordt voorts niet aangemerkt het in Nederland beëindigen van, dan wel het in Nederland onttrekken van goederen aan de douaneregeling intern communautair douanevervoer als bedoeld in de artikelen 163 tot en met 165 van het Communautair douanewetboek, indien het vervoer aanvangt en eindigt in de Gemeenschap.   
+4.  Als invoer wordt voorts niet aangemerkt het in Nederland beëindigen van, dan wel het in Nederland onttrekken van goederen aan de douaneregeling intern communautair douanevervoer als bedoeld in de artikelen 163 tot en met 165 van het Communautair douanewetboek, indien het vervoer aanvangt en eindigt in de Unie.   
 5.  Bij ministeriële regeling kunnen regels worden gesteld inzake de toepassing van dit artikel.   
 
 ### Afdeling  2  
@@ -727,7 +723,7 @@ b. de invoer van goederen in de zin van artikel 18, eerste lid, onderdeel b, ind
 
 c. de invoer van goederen waarvan de levering in Nederland in elk geval is vrijgesteld;  
 
-d. de invoer van goederen die worden verzonden of vervoerd naar een andere lid-staat wanneer degene die de goederen heeft ingevoerd deze levert met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6.    
+d. de invoer van goederen die worden verzonden of vervoerd naar een andere lidstaat wanneer degene die de goederen heeft ingevoerd deze levert met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6.    
 
 ### Artikel  21a  
 
@@ -770,7 +766,7 @@ d. een maximale hoeveelheid van 4 liter niet-mousserende wijn en 16 liter bier 
 e. brandstof die zich in het normale reservoir van een voertuig bevindt, alsmede per voertuig een maximale hoeveelheid van tien liter brandstof in een draagbaar reservoir.     
 2.  Het maximumbedrag, bedoeld in het eerste lid, onderdeel a, wordt voor reizigers in de particuliere plezierluchtvaart of plezierzeevaart beperkt tot € 300.   
 3.  De vrijstelling, bedoeld in het eerste lid, onderdelen b, c en d, geldt niet voor reizigers jonger dan zeventien jaar.   
-4.  De maximale hoeveelheden, bedoeld in het eerste lid, onderdelen b, c en d, worden voor personeel van vervoermiddelen die worden gebruikt in het verkeer tussen de Gemeenschap en derde-landen beperkt tot de volgende hoeveelheden: 
+4.  De maximale hoeveelheden, bedoeld in het eerste lid, onderdelen b, c en d, worden voor personeel van vervoermiddelen die worden gebruikt in het verkeer tussen de Unie en derde-landen beperkt tot de volgende hoeveelheden: 
 
 a. voor de toepassing van het eerste lid, onderdeel b: 
 
@@ -796,31 +792,31 @@ c. voor de toepassing van het eerste lid, onderdeel d: 2 liter niet-mousserende 
 
 ### Artikel  22  
 
-1.  Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), met uitzondering van het bepaalde in artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.   
-2.  Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden en beperkingen, kwijtschelding of teruggaaf van bij invoer verschuldigde belasting worden verleend in de gevallen waarin aanspraak op kwijtschelding of terugbetaling van rechten bij invoer bestaat of zou bestaan indien de goederen in het douanegebied van de Gemeenschap, bedoeld in artikel 3 van het Communautair douanewetboek zouden zijn ingevoerd of, in andere gevallen, om redenen van billijkheid.   
+1.  Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, met uitzondering van het bepaalde in artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.   
+2.  Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden en beperkingen, kwijtschelding of teruggaaf van bij invoer verschuldigde belasting worden verleend in de gevallen waarin aanspraak op kwijtschelding of terugbetaling van rechten bij invoer bestaat of zou bestaan indien de goederen in het douanegebied van de Unie, bedoeld in artikel 3 van het Communautair douanewetboek zouden zijn ingevoerd of, in andere gevallen, om redenen van billijkheid.   
 3.  Belasting waarvan krachtens het tweede lid kwijtschelding of teruggaaf wordt verleend, komt niet voor aftrek op de voet van artikel 15 in aanmerking. Heeft de aftrek reeds plaatsgevonden, dan wordt de ondernemer die de aftrek heeft genoten het in aftrek gebrachte bedrag als belasting verschuldigd.   
 
 ### Artikel  22a  
 
-1.  Op goederen als bedoeld in artikel 18, eerste lid, onderdeel b, die Nederland binnenkomen uit een derde-land dat deel uitmaakt van het douanegebied van de Gemeenschap, bedoeld in artikel 3 van het Communautair douanewetboek zijn de volgende bepalingen van toepassing: 
+1.  Op goederen als bedoeld in artikel 18, eerste lid, onderdeel b, die Nederland binnenkomen uit een derde-land dat deel uitmaakt van het douanegebied van de Unie, bedoeld in artikel 3 van het Communautair douanewetboek zijn de volgende bepalingen van toepassing: 
 
-a. de formaliteiten betreffende het in Nederland brengen zijn dezelfde als zijn voorzien in de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), ten aanzien van goederen die in het vrije verkeer worden gebracht in de zin van die wettelijke bepalingen;  
+a. de formaliteiten betreffende het in Nederland brengen zijn dezelfde als zijn voorzien in de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, ten aanzien van goederen die in het vrije verkeer worden gebracht in de zin van die wettelijke bepalingen;  
 
-b. indien de plaats van aankomst van de verzending of het vervoer van de goederen zich buiten de lid-staat van binnenkomen in de Gemeenschap bevindt, zijn de goederen binnen de Gemeenschap in het verkeer onder de regeling voor intern communautair douanevervoer als bedoeld in artikel 18, vierde lid, indien de goederen bij het binnenkomen in de Gemeenschap onder die regeling zijn gebracht;  
+b. indien de plaats van aankomst van de verzending of het vervoer van de goederen zich buiten de lidstaat van binnenkomen in de Unie bevindt, zijn de goederen binnen de Unie in het verkeer onder de regeling voor intern communautair douanevervoer als bedoeld in artikel 18, vierde lid, indien de goederen bij het binnenkomen in de Unie onder die regeling zijn gebracht;  
 
-c. indien op de goederen op het tijdstip van binnenkomen in de Gemeenschap een van de douaneregimes als bedoeld in artikel 18, tweede lid, zou kunnen worden toegepast indien zij zouden zijn ingevoerd in de zin van artikel 18, eerste lid, onderdeel a, kan dit douaneregime ook op deze goederen worden toegepast.     
-2.  Op goederen, andere dan bedoeld in artikel 18, eerste lid, onderdeel a, die worden verzonden of vervoerd uit de Gemeenschap naar een derde-land dat deel uitmaakt van het douanegebied van de Gemeenschap als bedoeld in het eerste lid, aanhef, zijn de volgende bepalingen van toepassing: 
+c. indien op de goederen op het tijdstip van binnenkomen in de Unie een van de douaneregimes als bedoeld in artikel 18, tweede lid, zou kunnen worden toegepast indien zij zouden zijn ingevoerd in de zin van artikel 18, eerste lid, onderdeel a, kan dit douaneregime ook op deze goederen worden toegepast.     
+2.  Op goederen, andere dan bedoeld in artikel 18, eerste lid, onderdeel a, die worden verzonden of vervoerd uit de Unie naar een derde-land dat deel uitmaakt van het douanegebied van de Unie als bedoeld in het eerste lid, aanhef, zijn de volgende bepalingen van toepassing: 
 
-a. de formaliteiten betreffende de verzending of het vervoer naar een derde-land zijn dezelfde als zijn voorzien in de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), ten aanzien van goederen die worden uitgevoerd in de zin van die wettelijke bepalingen;  
+a. de formaliteiten betreffende de verzending of het vervoer naar een derde-land zijn dezelfde als zijn voorzien in de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, ten aanzien van goederen die worden uitgevoerd in de zin van die wettelijke bepalingen;  
 
-b. op goederen die tijdelijk zijn uitgevoerd uit de Gemeenschap met het oog op hun wederinvoer zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), ter zake van de uitvoer van overeenkomstige toepassing.     
+b. op goederen die tijdelijk zijn uitgevoerd uit de Unie met het oog op hun wederinvoer zijn de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, ter zake van de uitvoer van overeenkomstige toepassing.     
 
 ### Artikel  23  
 
-1.  In afwijking van artikel 22 wordt de belasting ter zake van de invoer van goederen, bestemd voor aangewezen ondernemers en lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), andere dan ondernemers, geheven van die ondernemers en lichamen. Bij ministeriële regeling worden onder daarbij te stellen voorwaarden regels gesteld omtrent de aanwijzing. Daarbij kan worden bepaald dat op verzoek een aanwijzing kan geschieden door de inspecteur.   
+1.  In afwijking van artikel 22 wordt de belasting ter zake van de invoer van goederen, bestemd voor aangewezen ondernemers en lichamen in de zin van de Algemene wet inzake rijksbelastingen, andere dan ondernemers, geheven van die ondernemers en lichamen. Bij ministeriële regeling worden onder daarbij te stellen voorwaarden regels gesteld omtrent de aanwijzing. Daarbij kan worden bepaald dat op verzoek een aanwijzing kan geschieden door de inspecteur.   
 2.  De belasting wordt verschuldigd op het tijdstip waarop de goederen worden ingevoerd.   
 3.  De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.   
-4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken tot aanwijzing op grond van bepalingen krachtens het eerste lid.   
+4.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op verzoeken tot aanwijzing op grond van bepalingen krachtens het eerste lid.   
 
 ### Hoofdstuk  IV  
 
@@ -828,8 +824,8 @@ b. op goederen die tijdelijk zijn uitgevoerd uit de Gemeenschap met het oog op h
 
 ### Artikel  24  
 
-1.  Aan lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), andere dan ondernemers, die goederen in ongebruikte staat uitvoeren uit de Gemeenschap of brengen onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder *b*, van het Communautair douanewetboek in het kader van hun menslievende, liefdadige of opvoedkundige werk buiten de Gemeenschap, wordt op verzoek teruggaaf verleend van de voor die goederen betaalde belasting.   
-2.  Ten behoeve van natuurlijke personen die, anders dan als ondernemer, goederen uitvoeren uit de Gemeenschap, kan op bij ministeriële regeling te bepalen wijze en onder daarbij te stellen voorwaarden en beperkingen ontheffing worden verleend van de belasting die is verschuldigd ter zake van de levering van die goederen.   
+1.  Aan lichamen in de zin van de Algemene wet inzake rijksbelastingen, andere dan ondernemers, die goederen in ongebruikte staat uitvoeren uit de Unie of brengen onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b, van het Communautair douanewetboek in het kader van hun menslievende, liefdadige of opvoedkundige werk buiten de Unie, wordt op verzoek teruggaaf verleend van de voor die goederen betaalde belasting.   
+2.  Ten behoeve van natuurlijke personen die, anders dan als ondernemer, goederen uitvoeren uit de Unie, kan op bij ministeriële regeling te bepalen wijze en onder daarbij te stellen voorwaarden en beperkingen ontheffing worden verleend van de belasting die is verschuldigd ter zake van de levering van die goederen.   
 
 ### Hoofdstuk  V  
 
@@ -870,9 +866,9 @@ b. diensten welke naar hun aard bijdragen tot de agrarische produktie en welke z
 
 c. leveringen van gebruikte bedrijfsmiddelen en andere in het bedrijf gebruikte goederen.     
 2.  De in het eerste lid bedoelde ondernemers zijn met betrekking tot de aldaar bedoelde prestaties ontheven van de verplichtingen, opgelegd bij of krachtens de artikelen 34 en 34b tot en met 35. Zij hebben met betrekking tot die prestaties geen aanspraak op aftrek op de voet van artikel 15.   
-3.  Aan de in het eerste lid bedoelde ondernemers die goederen als aldaar bedoeld in onderdeel *a* leveren met toepassing van artikel 5a, eerste lid, wordt op verzoek teruggaaf van belasting verleend, ingeval de levering leidt tot verschuldigdheid van belasting in de lid-staat van aankomst van het vervoer. De teruggaaf bedraagt 5,4 percent van het door de ondernemer in rekening gebrachte bedrag.   
+3.  Aan de in het eerste lid bedoelde ondernemers die goederen als aldaar bedoeld in onderdeel *a* leveren met toepassing van artikel 5a, eerste lid, wordt op verzoek teruggaaf van belasting verleend, ingeval de levering leidt tot verschuldigdheid van belasting in de lidstaat van aankomst van het vervoer. De teruggaaf bedraagt 5,4 percent van het door de ondernemer in rekening gebrachte bedrag.   
 4.  Ondernemers aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar zijn bedoeld in onderdeel *a*, leveren, of diensten als aldaar zijn bedoeld in onderdeel *b*, verlenen, kunnen 5,4 percent van het aan hen in rekening gebrachte bedrag op de voet van artikel 15 in aftrek brengen.   
-5.  Aan de in artikel 1a, tweede lid, bedoelde ondernemers en rechtspersonen, andere dan ondernemers, die zijn gevestigd in een andere lid-staat, aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar bedoeld in onderdeel *a* leveren, wordt op verzoek teruggaaf van belasting verleend, voor zover deze goederen in die andere lid-staat zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen. De teruggaaf bedraagt 5,4 percent van het door de leverancier in rekening gebrachte bedrag.   
+5.  Aan de in artikel 1a, tweede lid, bedoelde ondernemers en rechtspersonen, andere dan ondernemers, die zijn gevestigd in een andere lidstaat, aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar bedoeld in onderdeel *a* leveren, wordt op verzoek teruggaaf van belasting verleend, voor zover deze goederen in die andere lidstaat zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen. De teruggaaf bedraagt 5,4 percent van het door de leverancier in rekening gebrachte bedrag.   
 6.  De in het eerste lid bedoelde ondernemers kunnen aan de inspecteur verzoeken om het eerste en het tweede lid op hen niet van toepassing te doen zijn. Bij inwilliging van het verzoek geldt zulks tot wederopzegging door belanghebbende doch ten minste voor vijf jaren; alsdan zijn ook het derde, vierde en vijfde lid niet van toepassing. Een hernieuwd verzoek kan eerst vijf jaren na die wederopzegging worden ingewilligd. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
 7.  Artikel 25 is niet van toepassing op landbouwers, veehouders, tuinbouwers en bosbouwers, die prestaties verrichten als zijn bedoeld in het eerste lid.   
 8.  De voorgaande leden blijven buiten toepassing ten aanzien van veehouders, voor zover hun bedrijfsuitoefening niet samenhangt met de exploitatie van de bodem.   
@@ -880,11 +876,7 @@ c. leveringen van gebruikte bedrijfsmiddelen en andere in het bedrijf gebruikte 
 
 ### Afdeling  4  
 
-####Tabaksprodukten en accijnsgoederen, andere dan tabaksprodukten
-
-### Artikel  28  
-
-De heffing van de belasting ter zake van de levering, de intracommunautaire verwerving en de invoer van tabaksproducten als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) geschiedt met overeenkomstige toepassing van de voor die accijns geldende regelen, met dien verstande dat het tarief 21/121 deel bedraagt van de voor de berekening van de accijns in aanmerking komende kleinhandelsprijs. Die belasting komt niet voor aftrek als is bedoeld in artikel 15 in aanmerking.  
+####Accijnsgoederen, andere dan tabaksproducten
 
 ### Artikel  28a  
 
@@ -907,7 +899,7 @@ c. een ondernemer die ingevolge artikel 25, derde lid, is ontheven van de verpli
 
 d. een andere wederverkoper, met toepassing van het eerste lid; of  
 
-e. een ondernemer of een wederverkoper uit een andere lid-staat, mits het een levering is als bedoeld in artikel 314, onder b, c of d, van de BTW-richtlijn 2006.     
+e. een ondernemer of een wederverkoper uit een andere lidstaat, mits het een levering is als bedoeld in artikel 314, onder b, c of d, van de BTW-richtlijn 2006.     
 
 ### Artikel  28c  
 
@@ -921,7 +913,7 @@ b. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten die hij zelf 
 ### Artikel  28d  
 
 1.  In bij ministeriële regeling aan te wijzen gevallen wordt, in afwijking in zoverre van de artikelen 28b en 28c, ter zake van leveringen van goederen waarop een zelfde tarief wordt toegepast, de belasting berekend over de winstmarge per tijdvak van aangifte. Deze winstmarge is het verschil tussen de som van de vergoedingen ter zake van die leveringen in dat tijdvak en de som van hetgeen in dat tijdvak door de wederverkoper is of moet worden voldaan ter zake van in artikel 28b, tweede lid, en 28c, eerste lid, bedoelde leveringen of invoer van dergelijke goederen.   
-2.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken op grond van bepalingen krachtens het eerste lid.   
+2.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op verzoeken op grond van bepalingen krachtens het eerste lid.   
 
 ### Artikel  28e  
 
@@ -970,7 +962,7 @@ b. gouden munten die:
 
 4°. normaliter verkocht worden voor een prijs die de openmarktwaarde van het in de munten vervatte goud niet met meer dan 80% overschrijdt;    
 
-c. gouden munten die zijn opgenomen in de lijst die de Europese Commissie elk jaar publiceert in de C-serie van het Publicatieblad van de Europese Gemeenschappen en die daarmee worden geacht aan de in onderdeel b opgenomen criteria te voldoen gedurende het hele jaar waarvoor de lijst wordt gepubliceerd.     
+c. gouden munten die zijn opgenomen in de lijst die de Europese Commissie elk jaar publiceert in de C-serie van het Publicatieblad van de Europese Unie en die daarmee worden geacht aan de in onderdeel b opgenomen criteria te voldoen gedurende het hele jaar waarvoor de lijst wordt gepubliceerd.     
 2.  De in het eerste lid, onderdelen b en c, bedoelde gouden munten worden, voor de toepassing van deze wet en de daarop berustende bepalingen, geacht niet wegens hun numismatische belang te worden verkocht.   
 
 ### Artikel  28k  
@@ -1012,49 +1004,49 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toepass
 
 ### Afdeling  7  
 
-####Regeling voor niet in de Gemeenschap gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
+####Regeling voor niet in de Unie gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
 
 ### Artikel  28q  
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. niet in de Gemeenschap gevestigde ondernemers: ondernemers die niet in de Gemeenschap wonen of zijn gevestigd noch aldaar een vaste inrichting hebben, en ook niet anderszins voor omzetbelastingdoeleinden in de Gemeenschap zijn geïdentificeerd;  
+a. niet in de Unie gevestigde ondernemers: ondernemers die niet in de Unie wonen of zijn gevestigd noch aldaar een vaste inrichting hebben, en ook niet anderszins voor omzetbelastingdoeleinden in de Unie zijn geïdentificeerd;  
 
-b. lid-staat van identificatie: de lid-staat waar de niet in de Gemeenschap gevestigde ondernemer zich identificeert teneinde een nummer van registratie te verkrijgen vanwege het begin van zijn activiteit als ondernemer op het grondgebied van de Gemeenschap overeenkomstig deze afdeling;  
+b. lidstaat van identificatie: de lidstaat waar de niet in de Unie gevestigde ondernemer zich identificeert teneinde een nummer van registratie te verkrijgen vanwege het begin van zijn activiteit als ondernemer op het grondgebied van de Unie overeenkomstig deze afdeling;  
 
-c. lid-staat van verbruik: de lidstaat waar overeenkomstig artikel 6h elektronische diensten worden verricht;  
+c. lidstaat van verbruik: de lidstaat waar overeenkomstig artikel 6h elektronische diensten worden verricht;  
 
-d. melding elektronische diensten: het elektronische bericht waarin alle gegevens staan die nodig zijn om het bedrag te bepalen van de in elke lid-staat van verbruik verschuldigde belasting ter zake van elektronische diensten welke zijn verricht aan anderen dan ondernemers die in de Gemeenschap wonen of zijn gevestigd.    
+d. melding elektronische diensten: het elektronische bericht waarin alle gegevens staan die nodig zijn om het bedrag te bepalen van de in elke lidstaat van verbruik verschuldigde belasting ter zake van elektronische diensten welke zijn verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd.    
 
 ### Artikel  28r  
 
-1.  Een niet in de Gemeenschap gevestigde ondernemer die elektronische diensten verricht aan anderen dan ondernemers die in de Gemeenschap wonen of zijn gevestigd, kan ten aanzien van de heffing van belasting kiezen voor Nederland als lid-staat van identificatie.   
-2.  Ingeval de niet in de Gemeenschap gevestigde ondernemer kiest voor Nederland als lid-staat van identificatie, dient hij onverwijld opgave te doen van het begin of de beëindiging van het verrichten van elektronische diensten, alsook van wijziging van deze activiteit in die zin dat de in deze afdeling opgenomen regeling niet langer van toepassing is.   
+1.  Een niet in de Unie gevestigde ondernemer die elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, kan ten aanzien van de heffing van belasting kiezen voor Nederland als lidstaat van identificatie.   
+2.  Ingeval de niet in de Unie gevestigde ondernemer kiest voor Nederland als lidstaat van identificatie, dient hij onverwijld opgave te doen van het begin of de beëindiging van het verrichten van elektronische diensten, alsook van wijziging van deze activiteit in die zin dat de in deze afdeling opgenomen regeling niet langer van toepassing is.   
 3.  De in het tweede lid bedoelde opgave vindt langs elektronische weg bij de inspecteur plaats en bevat de volgende gegevens: 
 
 a. naam, postadres en elektronische adressen, met inbegrip van websites, van de ondernemer;  
 
 b. het eventuele belastingnummer dat aan de ondernemer is verstrekt door zijn nationale belastingautoriteit;  
 
-c. een verklaring dat de ondernemer niet reeds in de Gemeenschap is geïdentificeerd voor belastingheffing op grond van de BTW-richtlijn 2006.     
-4.  Indien degene die heeft gekozen voor Nederland als lid-staat van identificatie niet of niet langer voldoet aan de voorwaarden voor identificatie, wordt de identificatie door de inspecteur geweigerd respectievelijk beëindigd. De weigering of beëindiging geschiedt bij voor bezwaar vatbare beschikking.   
+c. een verklaring dat de ondernemer niet reeds in de Unie is geïdentificeerd voor belastingheffing op grond van de BTW-richtlijn 2006.     
+4.  Indien degene die heeft gekozen voor Nederland als lidstaat van identificatie niet of niet langer voldoet aan de voorwaarden voor identificatie, wordt de identificatie door de inspecteur geweigerd respectievelijk beëindigd. De weigering of beëindiging geschiedt bij voor bezwaar vatbare beschikking.   
 
 ### Artikel  28s  
 
-1.  In afwijking van artikel 14 is de niet in de Gemeenschap gevestigde ondernemer die met toepassing van artikel 28r voor Nederland heeft gekozen als lid-staat van identificatie, gehouden met betrekking tot de in een tijdvak verschuldigd geworden belasting een melding elektronische diensten bij de inspecteur in te dienen, onder vermelding van het hem toegekende nummer van registratie en onder gelijktijdige betaling in euro van de verschuldigde belasting aan de ontvanger, overeenkomstig de bepalingen van dit artikel.   
+1.  In afwijking van artikel 14 is de niet in de Unie gevestigde ondernemer die met toepassing van artikel 28r voor Nederland heeft gekozen als lidstaat van identificatie, gehouden met betrekking tot de in een tijdvak verschuldigd geworden belasting een melding elektronische diensten bij de inspecteur in te dienen, onder vermelding van het hem toegekende nummer van registratie en onder gelijktijdige betaling in euro van de verschuldigde belasting aan de ontvanger, overeenkomstig de bepalingen van dit artikel.   
 2.  Het in het eerste lid bedoelde tijdvak is een kalenderkwartaal. De melding elektronische diensten dient ook te worden ingediend indien in een tijdvak geen elektronische diensten zijn verricht.   
-3.  De in het eerste lid bedoelde melding elektronische diensten vindt plaats langs elektronische weg en bevat ten aanzien van elke lid-staat van verbruik waar belasting is verschuldigd, het totale bedrag dat ter zake van de elektronische diensten in rekening is gebracht, de omzetbelasting niet daaronder begrepen, alsmede het totale bedrag van de daarover verschuldigde belasting. Voorts worden de in de desbetreffende lidstaten geldende belastingtarieven en het totale verschuldigde bedrag aan belasting vermeld.   
+3.  De in het eerste lid bedoelde melding elektronische diensten vindt plaats langs elektronische weg en bevat ten aanzien van elke lidstaat van verbruik waar belasting is verschuldigd, het totale bedrag dat ter zake van de elektronische diensten in rekening is gebracht, de omzetbelasting niet daaronder begrepen, alsmede het totale bedrag van de daarover verschuldigde belasting. Voorts worden de in de desbetreffende lidstaten geldende belastingtarieven en het totale verschuldigde bedrag aan belasting vermeld.   
 4.  De in het eerste lid bedoelde melding elektronische diensten wordt gedaan uiterlijk 20 dagen na het einde van het tijdvak waarop die melding betrekking heeft.   
-5.  Indien de belasting die verschuldigd is over in Nederland verrichte elektronische diensten, ongeacht de keuze van lid-staat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van [artikel 20 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) de te weinig geheven belasting naheffen. De [artikelen 30h](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30ha](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67c](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing.   
-6.  In afwijking van artikel 2 vindt geen aftrek van belasting plaats, maar wordt teruggaaf van belasting verleend overeenkomstig de dertiende Richtlijn van de Raad van de Europese Gemeenschappen van 17 november 1986 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting (nr. 86/560/EEG, PbEG L 326). Artikel 2, tweede en derde lid, en artikel 4, tweede lid, van deze Richtlijn zijn niet van toepassing op een verzoek om teruggaaf van belasting dat verband houdt met elektronische diensten waarop de in deze afdeling opgenomen regeling van toepassing is.   
+5.  Indien de belasting die verschuldigd is over in Nederland verrichte elektronische diensten, ongeacht de keuze van lidstaat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van artikel 20 van de Algemene wet inzake rijksbelastingen de te weinig geheven belasting naheffen. De artikelen 30h, 30ha, 67c en 67f van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing.   
+6.  In afwijking van artikel 2 vindt geen aftrek van belasting plaats, maar wordt teruggaaf van belasting verleend overeenkomstig de Dertiende Richtlijn 86/560/EEG van de Raad van 17 november 1986 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting – Regeling voor de teruggaaf van de belasting over de toegevoegde waarde aan niet op het grondgebied van de Gemeenschap gevestigde belastingplichtigen (PbEG 1986, L 326). Artikel 2, tweede en derde lid, en artikel 4, tweede lid, van deze Richtlijn zijn niet van toepassing op een verzoek om teruggaaf van belasting dat verband houdt met elektronische diensten waarop de in deze afdeling opgenomen regeling van toepassing is.   
 7.  De bedragen in de melding elektronische diensten worden uitgedrukt in eurobedragen. Indien de vergoeding voor elektronische diensten is uitgedrukt in een andere munteenheid dan de euro wordt, in afwijking van artikel 8, zesde lid, voor de bepaling van de in het derde lid genoemde bedragen de wisselkoers gehanteerd die gold op de laatste dag van de periode waarop de melding elektronische diensten betrekking heeft. De omrekening vindt plaats volgens de wisselkoersen die de Europese Centrale Bank voor de desbetreffende dag bekend heeft gemaakt of, als er op de desbetreffende dag geen bekendmaking heeft plaatsgevonden, volgens de wisselkoersen op de eerstvolgende dag van bekendmaking.   
-8.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing als ware de betaalde belasting op aangifte voldaan.   
+8.  Hoofdstuk V van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing als ware de betaalde belasting op aangifte voldaan.   
 
 ### Artikel  28t  
 
-1.  In afwijking van [artikel 52 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een niet in de Gemeenschap gevestigde ondernemer die elektronische diensten verricht aan anderen dan ondernemers die in de Gemeenschap wonen of zijn gevestigd, gehouden aantekening te houden van alle handelingen die betrekking hebben op elektronische diensten en waarvan de raadpleging van belang kan zijn voor de vaststelling van feiten welke van invloed kunnen zijn op de heffing van belasting in Nederland en in andere lid-staten van verbruik.   
+1.  In afwijking van artikel 52 van de Algemene wet inzake rijksbelastingen is een niet in de Unie gevestigde ondernemer die elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, gehouden aantekening te houden van alle handelingen die betrekking hebben op elektronische diensten en waarvan de raadpleging van belang kan zijn voor de vaststelling van feiten welke van invloed kunnen zijn op de heffing van belasting in Nederland en in andere lidstaten van verbruik.   
 2.  De in het eerste lid bedoelde ondernemer is verplicht boeken, bescheiden en andere gegevensdragers of de inhoud daarvan – zulks ter keuze van de inspecteur – betreffende elektronische diensten te bewaren gedurende tien jaren na afloop van het jaar waarin de dienst is verricht.   
-3.  Desgevraagd dienen de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan langs elektronische weg ter beschikking te worden gesteld aan de inspecteur, aan de ontvanger, of aan de belastingautoriteit van een andere lid-staat van verbruik.   
+3.  Desgevraagd dienen de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan langs elektronische weg ter beschikking te worden gesteld aan de inspecteur, aan de ontvanger, of aan de belastingautoriteit van een andere lidstaat van verbruik.   
 
 ### Afdeling  8  
 
@@ -1068,7 +1060,10 @@ De belasting, verschuldigd ter zake van de invoer en de levering aan veilingen v
 
 ####Regeling voor vis
 
-### Artikel  28y  
+Treedt in werking per 01-01-2015   
+
+### Artikel  28y   
+Treedt in werking per 01-01-2015   
 
 De belasting, verschuldigd ter zake van de invoer en de levering aan veilingen van vis, schaal-, schelp- en weekdieren die worden aangebracht per schip dat terugkeert van de visvangst, of per ventjager, bedraagt nihil.  
 
@@ -1145,21 +1140,21 @@ b. wordt terugbetaald omdat een vermindering van de vergoeding is verleend of om
 
 ### Artikel  30  
 
-1.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van goederen in de gevallen waarin de belasting is geheven met toepassing van artikel 17b, tweede lid, en door belanghebbende wordt aangetoond dat ter zake van dezelfde verwerving belasting is geheven in de lid-staat van aankomst van de verzending of het vervoer.   
-2.  Op verzoek wordt naar evenredigheid teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van accijnsgoederen in de gevallen waarin na het tijdstip waarop die intracommunautaire verwerving van accijnsgoederen is verricht de in de lid-staat van vertrek van de verzending of het vervoer van die goederen voldane accijns door de afnemer is terugontvangen.   
-3.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van invoer van goederen door een rechtspersoon, andere dan ondernemer, welke goederen zijn verzonden of vervoerd uit een derde-land met als bestemming een andere lid-staat, indien belanghebbende aantoont dat in die andere lid-staat ter zake van intracommunautaire verwerving van die goederen belasting is geheven.   
+1.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van goederen in de gevallen waarin de belasting is geheven met toepassing van artikel 17b, tweede lid, en door belanghebbende wordt aangetoond dat ter zake van dezelfde verwerving belasting is geheven in de lidstaat van aankomst van de verzending of het vervoer.   
+2.  Op verzoek wordt naar evenredigheid teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van accijnsgoederen in de gevallen waarin na het tijdstip waarop die intracommunautaire verwerving van accijnsgoederen is verricht de in de lidstaat van vertrek van de verzending of het vervoer van die goederen voldane accijns door de afnemer is terugontvangen.   
+3.  Op verzoek wordt teruggaaf verleend van de belasting ter zake van invoer van goederen door een rechtspersoon, andere dan ondernemer, welke goederen zijn verzonden of vervoerd uit een derde-land met als bestemming een andere lidstaat, indien belanghebbende aantoont dat in die andere lidstaat ter zake van intracommunautaire verwerving van die goederen belasting is geheven.   
 
 ### Artikel  31  
 
 1.  Een verzoek om teruggaaf van belasting geschiedt bij de aangifte over het tijdvak waarin het recht op teruggaaf is ontstaan.   
 2.  In gevallen waarin geen aangifte op de voet van artikel 14 moet worden ingediend, geschiedt een verzoek om teruggaaf door het doen van aangifte.   
 3.  Indien een verzoek om teruggaaf als bedoeld in het tweede lid, wordt gedaan door een ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft van waaruit zakelijke handelingen worden verricht, maar die is gevestigd in een andere lidstaat, is het bepaalde in afdeling 2, paragrafen 1 en 2 mede van toepassing.   
-4.  Indien een verzoek om teruggaaf als bedoeld in het tweede lid, wordt ingediend door een ondernemer die niet in Nederland en niet in de Gemeenschap woont of is gevestigd en aldaar geen vaste inrichting heeft, dient het verzoek betrekking te hebben op belasting waarvoor het recht op teruggaaf is ontstaan in een tijdvak van ten minste drie maanden en ten hoogste een kalenderjaar. Het tijdvak mag evenwel korter zijn dan drie maanden indien deze periode het resterende deel van een kalenderjaar betreft. De verzoeken kunnen mede belasting betreffen waarvoor het recht op teruggaaf is ontstaan in een ander tijdvak van hetzelfde kalenderjaar, maar waarvoor eerder geen verzoek om teruggaaf werd ingediend. Het verzoek moet worden ingediend binnen zes maanden na afloop van het kalenderjaar waarin het recht op teruggaaf is ontstaan.   
+4.  Indien een verzoek om teruggaaf als bedoeld in het tweede lid, wordt ingediend door een ondernemer die niet in Nederland en niet in de Unie woont of is gevestigd en aldaar geen vaste inrichting heeft, dient het verzoek betrekking te hebben op belasting waarvoor het recht op teruggaaf is ontstaan in een tijdvak van ten minste drie maanden en ten hoogste een kalenderjaar. Het tijdvak mag evenwel korter zijn dan drie maanden indien deze periode het resterende deel van een kalenderjaar betreft. De verzoeken kunnen mede belasting betreffen waarvoor het recht op teruggaaf is ontstaan in een ander tijdvak van hetzelfde kalenderjaar, maar waarvoor eerder geen verzoek om teruggaaf werd ingediend. Het verzoek moet worden ingediend binnen zes maanden na afloop van het kalenderjaar waarin het recht op teruggaaf is ontstaan.   
 5.  Indien een verzoek om teruggaaf als bedoeld in het tweede lid, wordt ingediend door een ander dan een ondernemer genoemd in het derde lid of vierde lid, dient het verzoek betrekking te hebben op belasting waarvoor het recht op teruggaaf is ontstaan in een kwartaal en moet het verzoek worden ingediend binnen drie maanden na afloop van dat kwartaal.   
 6.  In gevallen als bedoeld in het vierde lid, wordt in afwijking van artikel 17 geen teruggaaf verleend indien het verzoek betrekking heeft op een bedrag aan belasting van minder dan € 400. Betreft een verzoek om teruggaaf als is bedoeld in het vierde lid evenwel een kalenderjaar of het resterende gedeelte daarvan, dan moet het bedrag aan belasting waarop het verzoek betrekking heeft ten minste € 50 belopen.   
-7.  Een ondernemer die niet in de Gemeenschap woont of is gevestigd en in Nederland geen vaste inrichting heeft, behoeft bij een verzoek om teruggaaf, in afwijking van [artikel 57 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geen domicilie in Nederland te kiezen. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop deze ondernemers moeten aantonen, dat zij ondernemer zijn in de zin van artikel 7.   
+7.  Een ondernemer die niet in de Unie woont of is gevestigd en in Nederland geen vaste inrichting heeft, behoeft bij een verzoek om teruggaaf, in afwijking van artikel 57 van de Algemene wet inzake rijksbelastingen, geen domicilie in Nederland te kiezen. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop deze ondernemers moeten aantonen, dat zij ondernemer zijn in de zin van artikel 7.   
 8.  De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.   
-9.  Op de verzoeken om teruggaaf van belasting, bedoeld in het eerste en tweede lid, is [afdeling 4.1.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+9.  Op de verzoeken om teruggaaf van belasting, bedoeld in het eerste en tweede lid, is afdeling 4.1.3 van de Algemene wet bestuursrecht van toepassing.   
 
 ### Afdeling  2  
 
@@ -1200,7 +1195,7 @@ a. tijdens het tijdvak van teruggaaf heeft hij in Nederland noch de zetel van zi
 
 b. tijdens het tijdvak van teruggaaf heeft hij geen goederenleveringen of diensten verricht waarvan de plaats geacht wordt in Nederland te zijn gelegen, met uitzondering van de volgende handelingen: 
 
-1°. vervoerdiensten en daarmee samenhangende diensten die vrijgesteld zijn krachtens [artikel 39 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) dan wel vallen onder het tarief van nihil krachtens artikel 9, tweede lid, onderdeel b, en de bij deze wet behorende tabel II, onderdeel b, post 1, 2, 4 of 5;  
+1°. vervoerdiensten en daarmee samenhangende diensten die vrijgesteld zijn krachtens artikel 39 van de Algemene wet inzake rijksbelastingen dan wel vallen onder het tarief van nihil krachtens artikel 9, tweede lid, onderdeel b, en de bij deze wet behorende tabel II, onderdeel b, post 1, 2, 4 of 5;  
 
 2°. goederenleveringen of dienstverrichtingen waarvan de afnemer krachtens artikel 12, tweede, derde of vijfde lid, de belasting verschuldigd is.      
 
@@ -1212,7 +1207,7 @@ a. ingevolge deze wet incorrect gefactureerde belastingbedragen;
 
 b. gefactureerde belastingbedragen voor goederenleveringen die krachtens artikel 9, tweede lid, onderdeel b, en de bij deze wet behorende tabel II, onderdeel a, post 6, onder het tarief van nihil vallen;  
 
-c. gefactureerde belastingbedragen voor leveringen van goederen die door of voor rekening van een niet in Nederland gevestigde afnemer worden verzonden of vervoerd naar een plaats buiten de Gemeenschap, welke leveringen krachtens artikel 9, tweede lid, onderdeel b, en de bij deze wet behorende bijlage II, onderdeel a, post 2, onder het tarief van nihil vallen.    
+c. gefactureerde belastingbedragen voor leveringen van goederen die door of voor rekening van een niet in Nederland gevestigde afnemer worden verzonden of vervoerd naar een plaats buiten de Unie, welke leveringen krachtens artikel 9, tweede lid, onderdeel b, en de bij deze wet behorende bijlage II, onderdeel a, post 2, onder het tarief van nihil vallen.    
 
 ### Artikel  32d  
 
@@ -1233,7 +1228,7 @@ b. handelingen, waarvan de afnemer overeenkomstig artikel 12, tweede tot en met 
 1.  Een niet in Nederland gevestigde ondernemer die in Nederland teruggaaf van de belasting wenst te verkrijgen, richt langs elektronische weg een teruggaafverzoek tot Nederland, dat hij indient bij zijn lidstaat van vestiging, via de door deze lidstaat ingestelde portaalsite.   
 2.  Het verzoek bevat alle informatie die daartoe bij ministeriële regeling is voorgeschreven overeenkomstig het bepaalde in de artikelen 8 en 9, lid 1, van Richtlijn 2008/9/EG.   
 3.  Bij ministeriële regeling kan worden bepaald dat de aanvrager langs elektronische weg aanvullende gegevens verstrekt met betrekking tot iedere in artikel 9, lid 1, van Richtlijn 2008/9/EG vermelde code, voor zover die gegevens noodzakelijk zijn wegens in Nederland geldende beperkingen van het recht op aftrek of voor de toepassing van een krachtens artikel 395 of 396 van BTW-richtlijn 2006 aan Nederland verleende, voor dit geval relevante afwijking.   
-4.  [Artikel 57 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is niet van toepassing met betrekking tot ondernemers die een verzoek doen als bedoeld in het eerste lid.   
+4.  Artikel 57 van de Algemene wet inzake rijksbelastingen is niet van toepassing met betrekking tot ondernemers die een verzoek doen als bedoeld in het eerste lid.   
 
 ### Artikel  32g  
 
@@ -1241,7 +1236,7 @@ Bij ministeriële regeling kan worden bepaald dat de aanvrager, onverminderd de 
 
 ### Artikel  32h  
 
-Bij ministeriële regeling kan worden bepaald dat de aanvrager tezamen met het teruggaafverzoek zijn beroepsactiviteit omschrijft aan de hand van de geharmoniseerde codes die worden bepaald volgens artikel 34 bis, lid 3, tweede alinea, van Verordening (EG) nr. 1798/2003.  
+Bij ministeriële regeling kan worden bepaald dat de aanvrager tezamen met het teruggaafverzoek zijn beroepsactiviteit omschrijft aan de hand van de geharmoniseerde codes die worden bepaald volgens artikel 34 bis, lid 3, tweede alinea, van Verordening (EG) nr. 1798/2003 van de Raad van 7 oktober 2003 betreffende de administratieve samenwerking op het gebied van de belasting over de toegevoegde waarde en tot intrekking van Verordening (EEG) nr. 218/92 (PbEU 2003, L 264).  
 
 ### Artikel  32i  
 
@@ -1303,7 +1298,7 @@ b. een te betalen bedrag, legt de inspecteur hiervoor een naheffingsaanslag op.
 
 ### Artikel  32r  
 
-1.  Indien de betaling plaatsvindt na de laatste datum van betaling overeenkomstig artikel 32p, eerste lid, wordt aan de aanvrager rente betaald over het aan de aanvrager terug te geven bedrag. De bepalingen van de [artikelen 29](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [30 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) zijn ter zake van overeenkomstige toepassing als ware de rente invorderingsrente.   
+1.  Indien de betaling plaatsvindt na de laatste datum van betaling overeenkomstig artikel 32p, eerste lid, wordt aan de aanvrager rente betaald over het aan de aanvrager terug te geven bedrag. De bepalingen van de artikelen 29 en 30 van de Invorderingswet 1990 zijn ter zake van overeenkomstige toepassing als ware de rente invorderingsrente.   
 2.  Het eerste lid, eerste volzin, is niet van toepassing indien de aanvrager de gevraagde aanvullende of verdere aanvullende gegevens niet binnen de voorgeschreven termijn aan de inspecteur heeft verstrekt. Het eerste lid, eerste volzin, is evenmin van toepassing zolang de inspecteur de krachtens artikel 32g langs elektronische weg toe te zenden documenten niet heeft ontvangen.   
 
 ### Artikel  32s  
@@ -1399,7 +1394,7 @@ h. de aard van de afgenomen goederen en diensten, aangegeven door middel van de 
 
 10. = andere.   Indien code 10 wordt gebruikt, moet de aard van de afgenomen goederen en diensten worden aangegeven.   
 2.  Op daartoe strekkend verzoek van de lidstaat van teruggaaf verstrekt de aanvrager bij het verzoek langs elektronische weg aanvullende gegevens met betrekking tot iedere in het eerste lid vermelde code, voor zover die gegevens voor die lidstaat noodzakelijk zijn wegens beperkingen van het recht op aftrek krachtens BTW-richtlijn 2006, als toegepast in die lidstaat, of voor de toepassing van een krachtens artikel 395 of 396 van die richtlijn aan de lidstaat van teruggaaf verleende, voor dit geval relevante afwijking.   
-3.  Op daartoe strekkend verzoek van de lidstaat van teruggaaf omschrijft de aanvrager voorts bij het verzoek zijn beroepsactiviteit aan de hand van de geharmoniseerde codes die worden bepaald volgens artikel 34bis, lid 3, tweede alinea, van Verordening (EG) nr. 1798/2003 van de Raad.   
+3.  Op daartoe strekkend verzoek van de lidstaat van teruggaaf omschrijft de aanvrager voorts bij het verzoek zijn beroepsactiviteit aan de hand van de geharmoniseerde codes die worden bepaald volgens artikel 34bis, lid 3, tweede alinea, van Verordening (EG) nr. 1798/2003 van de Raad van 7 oktober 2003 betreffende de administratieve samenwerking op het gebied van de belasting over de toegevoegde waarde en tot intrekking van Verordening (EEG) nr. 218/92 (PbEU 2003, L 264).   
 
 ### Artikel  33e  
 
@@ -1438,12 +1433,12 @@ d. valt onder de in artikel 27, eerste en tweede lid, bedoelde landbouwregeling.
 
 ### Artikel  34  
 
-1.  De ondernemer is gehouden, met inachtneming van bij ministeriële regeling te stellen regels, aantekening te houden van de door hem en aan hem verrichte leveringen van goederen en verleende diensten, van de door hem verrichte intracommunautaire verwervingen van goederen, van de invoer van goederen in en de uitvoer van goederen uit de Gemeenschap, alsmede van andere gegevens die van belang zijn met betrekking tot de heffing van de belasting in Nederland en in andere lid-staten.   
+1.  De ondernemer is gehouden, met inachtneming van bij ministeriële regeling te stellen regels, aantekening te houden van de door hem en aan hem verrichte leveringen van goederen en verleende diensten, van de door hem verrichte intracommunautaire verwervingen van goederen, van de invoer van goederen in en de uitvoer van goederen uit de Unie, alsmede van andere gegevens die van belang zijn met betrekking tot de heffing van de belasting in Nederland en in andere lidstaten.   
 2.  De ondernemer is tevens, met inachtneming van bij ministeriële regeling te stellen regels, gehouden: 
 
-a. een register bij te houden van de goederen die door hem of voor zijn rekening zijn verzonden of vervoerd naar een andere lid-staat om aldaar te worden gebruikt voor de in artikel 3a, tweede lid, onderdelen e, f en g, bedoelde doeleinden;  
+a. een register bij te houden van de goederen die door hem of voor zijn rekening zijn verzonden of vervoerd naar een andere lidstaat om aldaar te worden gebruikt voor de in artikel 3a, tweede lid, onderdelen e, f en g, bedoelde doeleinden;  
 
-b. afzonderlijk aantekening te houden van de goederen die vanuit een andere lid-staat naar hem zijn verzonden of vervoerd door of voor rekening van een ondernemer aan wie een btw-identificatienummer is toegekend in een andere lid-staat, ten behoeve van een dienst als bedoeld in artikel 6e, tweede lid, onderdeel b.     
+b. afzonderlijk aantekening te houden van de goederen die vanuit een andere lidstaat naar hem zijn verzonden of vervoerd door of voor rekening van een ondernemer aan wie een btw-identificatienummer is toegekend in een andere lidstaat, ten behoeve van een dienst als bedoeld in artikel 6e, tweede lid, onderdeel b.     
 3.  De rechtspersoon, andere dan ondernemer, is gehouden, met inachtneming van bij ministeriële regeling te stellen regels, aantekening te houden van de door hem verrichte intracommunautaire verwervingen van goederen.   
 4.  De ondernemer die goederen levert met toepassing van artikel 28b, 28c of 28d, is tevens gehouden, met inachtneming van bij ministeriële regeling te stellen regels, afzonderlijk aantekening te houden van de met toepassing van de onderscheiden artikelen geleverde goederen, alsmede van de invoer en van de leveringen daarvan aan hem.   
 
@@ -1453,7 +1448,7 @@ De ondernemer is verplicht boeken, bescheiden en andere gegevensdragers of de in
 
 ### Artikel  34b  
 
-Onverminderd het bepaalde in [artikel 52 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en artikel 35c is het volgende van toepassing: 
+Onverminderd het bepaalde in artikel 52 van de Algemene wet inzake rijksbelastingen en artikel 35c is het volgende van toepassing: 
 
 a. voor facturering gelden de regels die van toepassing zijn in de lidstaat waar de goederenlevering of de dienst geacht wordt te zijn verricht, overeenkomstig het bepaalde in hoofdstuk II van deze wet;  
 
@@ -1461,7 +1456,7 @@ b. in afwijking van het bepaalde in onderdeel a gelden voor facturering de regel
 
 1°. degene die de belastbare goederenlevering of de dienst verricht, niet gevestigd is in de lidstaat waar de goederenlevering of de dienst overeenkomstig het bepaalde in hoofdstuk II van deze wet geacht wordt te zijn verricht, of zijn inrichting in die lidstaat niet betrokken is bij het verrichten van de goederenlevering of de dienst in de zin van artikel 192bis van de BTW-richtlijn 2006, en de tot voldoening van de belasting gehouden persoon degene is voor wie de goederenlevering of de dienst wordt verricht. Indien de afnemer de factuur uitreikt («self-billing») is het bepaalde in onderdeel a van toepassing;  
 
-2°. de goederenlevering of de dienst overeenkomstig het bepaalde in hoofdstuk II van deze wet niet geacht wordt in de Gemeenschap te zijn verricht.      
+2°. de goederenlevering of de dienst overeenkomstig het bepaalde in hoofdstuk II van deze wet niet geacht wordt in de Unie te zijn verricht.      
 
 ### Artikel  34c  
 
@@ -1585,7 +1580,7 @@ In deze wet wordt verstaan onder «elektronische factuur», een factuur die de b
 
 ### Artikel  36  
 
-De [artikelen 25, derde lid](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [27e, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) vinden overeenkomstige toepassing, ingeval niet volledig is voldaan aan de verplichtingen welke zijn opgelegd bij of krachtens de artikelen 28n, 34 tot en met 35c en 39.  
+De artikelen 25, derde lid, en 27e, van de Algemene wet inzake rijksbelastingen vinden overeenkomstige toepassing, ingeval niet volledig is voldaan aan de verplichtingen welke zijn opgelegd bij of krachtens de artikelen 28n, 34 tot en met 35c en 39.  
 
 ### Artikel  37  
 
@@ -1608,7 +1603,7 @@ c. voor wie hij diensten heeft verricht die met toepassing van artikel 6, eerste
 
 ### Artikel  37b  
 
-Degene die ter zake van de intracommunautaire verwerving van goederen valt onder de toepassing van artikel 1a, tweede lid, wordt niettemin de belasting verschuldigd ter zake van die intracommunautaire verwerving wanneer in de lid-staat waar de goederen worden geleverd, belastingheffing plaatsvindt alsof artikel 1, aanhef en onderdeel b, van toepassing zou zijn.  
+Degene die ter zake van de intracommunautaire verwerving van goederen valt onder de toepassing van artikel 1a, tweede lid, wordt niettemin de belasting verschuldigd ter zake van die intracommunautaire verwerving wanneer in de lidstaat waar de goederen worden geleverd, belastingheffing plaatsvindt alsof artikel 1, aanhef en onderdeel b, van toepassing zou zijn.  
 
 ### Afdeling  5  
 
@@ -1618,11 +1613,11 @@ Degene die ter zake van de intracommunautaire verwerving van goederen valt onder
 
 In afwijking van artikel 1, aanhef en onderdelen b en c, wordt ter zake van intracommunautaire verwervingen van goederen die op grond van artikel 17b, eerste lid, in Nederland worden verricht geen belasting geheven, voor zover: 
 
-a. de goederen zijn verworven door een ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft en aan wie een btw-identificatienummer is toegekend in een andere lid-staat;  
+a. de goederen zijn verworven door een ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft en aan wie een btw-identificatienummer is toegekend in een andere lidstaat;  
 
-b. de goederen door deze ondernemer in Nederland worden geleverd aan een ondernemer die in Nederland woont of is gevestigd dan wel aldaar een vaste inrichting heeft, of aan een in Nederland gevestigd lichaam in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en aan welke afnemer in Nederland een btw-identificatienummer is toegekend; en  
+b. de goederen door deze ondernemer in Nederland worden geleverd aan een ondernemer die in Nederland woont of is gevestigd dan wel aldaar een vaste inrichting heeft, of aan een in Nederland gevestigd lichaam in de zin van de Algemene wet inzake rijksbelastingen, en aan welke afnemer in Nederland een btw-identificatienummer is toegekend; en  
 
-c. de goederen rechtstreeks naar de in onderdeel *b* bedoelde afnemer worden verzonden of vervoerd vanuit een lid-staat die niet een btw-identificatienummer heeft toegekend aan de in onderdeel *a* bedoelde ondernemer.    
+c. de goederen rechtstreeks naar de in onderdeel *b* bedoelde afnemer worden verzonden of vervoerd vanuit een lidstaat die niet een btw-identificatienummer heeft toegekend aan de in onderdeel *a* bedoelde ondernemer.    
 
 ### Artikel  37d  
 
@@ -1651,8 +1646,8 @@ b. andere in het kader van de wet passende nadere regels worden gesteld ter aanv
 ### Artikel  40  
 
 1.  Indien de ondernemer de in artikel 28s, eerste lid, bedoelde melding elektronische diensten of de in artikel 37a bedoelde lijst niet of niet tijdig heeft ingediend, dan wel een onvolledige of een onjuiste lijst of melding elektronische diensten heeft ingediend, vormt dat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 4920 kan opleggen.   
-2.  De bevoegdheid tot het opleggen van de in het eerste lid bedoelde boete vervalt, in afwijking van [artikel 5:45, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door het verloop van vijf jaren na het einde van het kalenderjaar waarin de in artikel 28s, eerste lid, of artikel 37a, eerste lid, genoemde verplichting is ontstaan.   
-3.  [Artikel 67cb van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.   
+2.  De bevoegdheid tot het opleggen van de in het eerste lid bedoelde boete vervalt, in afwijking van artikel 5:45, tweede lid, van de Algemene wet bestuursrecht, door het verloop van vijf jaren na het einde van het kalenderjaar waarin de in artikel 28s, eerste lid, of artikel 37a, eerste lid, genoemde verplichting is ontstaan.   
+3.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.   
 
 ### Hoofdstuk  VIII  
 
@@ -1678,7 +1673,7 @@ a. ingeval de gehele teruggaaf niet meer bedraagt dan f 1500, telkens voor een v
 b. ingeval de gehele teruggaaf meer bedraagt dan f 1500, telkens voor een vierde gedeelte aan het einde van het tweede, derde en vierde kwartaal van het jaar 1969 en het vierde kwartaal van het jaar 1970.     
 5.  De aanspraak op teruggaaf ter zake van de uitvoer van de goederen ontstaat echter aan het einde van het kwartaal waarin de uitvoer plaatsvindt.   
 6.  De omzetbelasting, waarvan de teruggaaf op grond van het vierde lid, letter *b*, plaatsvindt na het einde van het vierde kwartaal van het jaar 1970, wordt met 6 percent verhoogd als vergoeding voor renteverlies.   
-7.  Tegen een ingevolge [artikel 25 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gedane uitspraak van de inspecteur betreffende de toepassing van de vorige leden staat, in afwijking in zoverre van artikel 26, eerste lid, van genoemde wet, uitsluitend beroep open bij de Tariefcommissie.   
+7.  Tegen een ingevolge artikel 25 van de Algemene wet inzake rijksbelastingen gedane uitspraak van de inspecteur betreffende de toepassing van de vorige leden staat, in afwijking in zoverre van artikel 26, eerste lid, van genoemde wet, uitsluitend beroep open bij de Tariefcommissie.   
 
 ### Artikel  44  
 
@@ -1788,9 +1783,9 @@ d. goederen die kennelijk zijn bestemd voor de voortplanting van de onder a en b
 
 5. broedeieren voor pluimvee;  
 
-6. geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), voorbehoedsmiddelen, infusievloeistoffen, alsmede kennelijk voor geneeskundige doeleinden bestemde inhalatiegassen;  
+6. geneesmiddelen als bedoeld in artikel 1, eerste lid, onder b, van de Geneesmiddelenwet, voorbehoedsmiddelen, infusievloeistoffen, alsmede kennelijk voor geneeskundige doeleinden bestemde inhalatiegassen;  
 
-7. diergeneesmiddelen als zijn bedoeld in de [Wet dieren](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), met uitzondering van diergeneesmiddelen voor in vitro gebruik;  
+7. diergeneesmiddelen als zijn bedoeld in de Wet dieren, met uitzondering van diergeneesmiddelen voor in vitro gebruik;  
 
 8. verbandmiddelen zoals watten, windsels, gaas, hechtmiddelen, pleisters, tampons, spalken en daarmee gelijk te stellen artikelen die kennelijk zijn bestemd voor geneeskundige doeleinden, alsmede gevulde verbanddozen, damesverband, kraammatrassen en incontinentiematerialen;  
 
@@ -1908,7 +1903,7 @@ b.
 
 8. het schilderen en stukadoren van woningen na meer dan twee jaren na het tijdstip van eerste ingebruikneming;  
 
-9. Het vervoer van personen per schip, het vervoer van personen, bedoeld in [artikel 1, onderdelen h, i, en j, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), het vervoer met auto’s voor de uitvoering van trouwerijen, begrafenissen en crematies daaronder begrepen, taxivervoer van personen over de weg anders dan per auto, en het vervoer van personen met luchtvaartuigen indien de plaats van vertrek en de plaats van bestemming in Nederland zijn gelegen voor zover dat vervoer geschiedt met ballonnen of met luchtvaartuigen die zijn ingericht voor het vervoer van zieken of gewonden;  
+9. Het vervoer van personen per schip, het vervoer van personen, bedoeld in artikel 1, onderdelen h, i, en j, van de Wet personenvervoer 2000, het vervoer met auto’s voor de uitvoering van trouwerijen, begrafenissen en crematies daaronder begrepen, taxivervoer van personen over de weg anders dan per auto, en het vervoer van personen met luchtvaartuigen indien de plaats van vertrek en de plaats van bestemming in Nederland zijn gelegen voor zover dat vervoer geschiedt met ballonnen of met luchtvaartuigen die zijn ingericht voor het vervoer van zieken of gewonden;  
 
 10. het geven van gelegenheid tot kamperen binnen het kader van het kamp- en vakantiebestedingsbedrijf aan personen die daar slechts voor een korte periode verblijf houden;  
 
@@ -1950,9 +1945,11 @@ g. attractieparken, speel- en siertuinen, en andere dergelijke primair en perman
 
 18. het vervoer van gas dat valt onder de toepassing van post a 32. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toepassing van deze post;  
 
-19. het aanbrengen van op energiebesparing gericht isolatiemateriaal, met uitzondering van het aanbrengen van glas, aan vloeren, muren en daken van woningen na meer dan twee jaren na het tijdstip van eerste ingebruikneming, met uitzondering van materialen die een beduidend deel vertegenwoordigen van de waarde van deze diensten;  
+19. het aanbrengen van op energiebesparing gericht isolatiemateriaal aan vloeren, muren en daken van woningen na meer dan twee jaren na het tijdstip van eerste ingebruikneming, met uitzondering van materialen die een deel vertegenwoordigen van de waarde van deze diensten;  
 
-20. het verrichten van schoonmaakwerkzaamheden binnen woningen.     
+20. het verrichten van schoonmaakwerkzaamheden binnen woningen;  
+
+21. renovatie en herstel van woningen na meer dan twee jaren na het tijdstip van eerste ingebruikneming van die woningen, met uitzondering van materialen die een deel vertegenwoordigen van de waarde van deze diensten.     
 
 ### Tabel  II  
 
@@ -1964,7 +1961,7 @@ a.
 
 2. goederen welke door een ondernemer worden: 
 
-- uitgevoerd uit de Gemeenschap, met uitzondering van goederen welke zijn bestemd voor de bevoorrading in Nederland van vervoermiddelen;  
+- uitgevoerd uit de Unie, met uitzondering van goederen welke zijn bestemd voor de bevoorrading in Nederland van vervoermiddelen;  
 
 - gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b, van Communautair douanewetboek;    *Bijzondere bepaling*  Tot de post behoren niet goederen die in bij ministeriële regeling aan te wijzen gevallen als reizigersbagage of als zending waaraan elk handelskarakter vreemd is, worden uitgevoerd uit de Gemeenschap;  
 
@@ -1982,19 +1979,19 @@ a.
 
 5. goud bestemd voor centrale banken;  
 
-6. goederen die worden vervoerd naar een andere lid-staat, wanneer deze goederen aldaar zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen;  *Bijzondere bepaling*  Tot de post behoren niet accijnsgoederen die worden verzonden of vervoerd naar een andere lid-staat ingevolge een levering aan een afnemer waarvoor artikel 3, lid 1, van de BTW-richtlijn 2006 toepassing vindt, tenzij de verzending of het vervoer van de accijnsgoederen geschiedt overeenkomstig de artikelen 19 of 34 van Richtlijn 2008/118/EG van de Raad van 16 december 2008 houdende een algemene regeling inzake accijns en houdende intrekking van Richtlijn 92/12/EEG (PbEU 2009, L 9);  
+6. goederen die worden vervoerd naar een andere lidstaat, wanneer deze goederen aldaar zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen;  *Bijzondere bepaling*  Tot de post behoren niet accijnsgoederen die worden verzonden of vervoerd naar een andere lidstaat ingevolge een levering aan een afnemer waarvoor artikel 3, lid 1, van de BTW-richtlijn 2006 toepassing vindt, tenzij de verzending of het vervoer van de accijnsgoederen geschiedt overeenkomstig de artikelen 19 of 34 van Richtlijn 2008/118/EG van de Raad van 16 december 2008 houdende een algemene regeling inzake accijns en houdende intrekking van Richtlijn 92/12/EEG (PbEU 2009, L 9);  
 
 7. 
 
-a. accijnsgoederen die worden gebracht naar of zich bevinden in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en die voor die soort goederen als zodanig is aangewezen, voor zover die goederen voor de heffing van de accijns niet zijn ingevoerd of zijn uitgeslagen;  
+a. accijnsgoederen die worden gebracht naar of zich bevinden in een accijnsgoederenplaats als bedoeld in de Wet op de accijns en die voor die soort goederen als zodanig is aangewezen, voor zover die goederen voor de heffing van de accijns niet zijn ingevoerd of zijn uitgeslagen;  
 
-b. minerale oliën waarvoor in [artikel 27 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) een accijnstarief is vastgesteld alsmede minerale oliën die daarmee op grond van artikel 28 van die wet worden gelijkgesteld en die zijn gebracht buiten een accijnsgoederenplaats en die niet worden gebracht naar een andere accijnsgoederenplaats die voor minerale oliën als zodanig is aangewezen, indien: 
+b. minerale oliën waarvoor in artikel 27 van de Wet op de accijns een accijnstarief is vastgesteld alsmede minerale oliën die daarmee op grond van artikel 28 van die wet worden gelijkgesteld en die zijn gebracht buiten een accijnsgoederenplaats en die niet worden gebracht naar een andere accijnsgoederenplaats die voor minerale oliën als zodanig is aangewezen, indien: 
 
-1°. het buiten de accijnsgoederenplaats brengen van de minerale oliën ingevolge de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) niet als uitslag is of wordt aangemerkt;  
+1°. het buiten de accijnsgoederenplaats brengen van de minerale oliën ingevolge de Wet op de accijns niet als uitslag is of wordt aangemerkt;  
 
-2°. voor het vervoer van de minerale oliën ingevolge de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) een document is afgegeven als bedoeld in Verordening (EG) nr. 684/2009 van de Commissie van 24 juli 2009 tot uitvoering van Verordening 2008/118/EG van de Raad wat betreft de geautomatiseerde procedures voor de overbrenging van accijnsgoederen onder schorsing van accijns (PbEU 2009, L 197); en  
+2°. voor het vervoer van de minerale oliën ingevolge de Wet op de accijns een document is afgegeven als bedoeld in Verordening (EG) nr. 684/2009 van de Commissie van 24 juli 2009 tot uitvoering van Verordening 2008/118/EG van de Raad wat betreft de geautomatiseerde procedures voor de overbrenging van accijnsgoederen onder schorsing van accijns (PbEU 2009, L 197); en  
 
-3°. de minerale oliën niet worden vervoerd naar een andere lid-staat noch worden uitgevoerd of opgeslagen in een entrepot;      *Bijzondere bepaling*  Op verzoek wordt, onder bij ministeriële regeling te stellen voorwaarden, een accijnsgoederenplaats voor minerale oliën aangewezen voor een bijzondere regeling ingevolge welke de voorwaarden die zijn gesteld ter zake van de onder a bedoelde leveringen van accijnsgoederen die zich bevinden in een accijnsgoederenplaats, niet van toepassing zijn. Bij de uitslag van die minerale oliën in de zin van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) wordt de belasting geheven ter zake van de daaraan voorafgaande levering naar het zonder de toepassing van deze post geldende tarief. Daarbij wordt de maatstaf van heffing verhoogd met de ter zake van de uitslag verschuldigde accijns en de vergoeding voor de diensten die na die levering met betrekking tot de minerale oliën met toepassing van tabel II, onderdeel b, post 1, zijn verricht. De belasting wordt geheven van de ondernemer aan wie die levering is verricht en is door deze verschuldigd op het tijdstip van de uitslag.  
+3°. de minerale oliën niet worden vervoerd naar een andere lidstaat noch worden uitgevoerd of opgeslagen in een entrepot;      *Bijzondere bepaling*  Op verzoek wordt, onder bij ministeriële regeling te stellen voorwaarden, een accijnsgoederenplaats voor minerale oliën aangewezen voor een bijzondere regeling ingevolge welke de voorwaarden die zijn gesteld ter zake van de onder a bedoelde leveringen van accijnsgoederen die zich bevinden in een accijnsgoederenplaats, niet van toepassing zijn. Bij de uitslag van die minerale oliën in de zin van de Wet op de accijns wordt de belasting geheven ter zake van de daaraan voorafgaande levering naar het zonder de toepassing van deze post geldende tarief. Daarbij wordt de maatstaf van heffing verhoogd met de ter zake van de uitslag verschuldigde accijns en de vergoeding voor de diensten die na die levering met betrekking tot de minerale oliën met toepassing van tabel II, onderdeel b, post 1, zijn verricht. De belasting wordt geheven van de ondernemer aan wie die levering is verricht en is door deze verschuldigd op het tijdstip van de uitslag.  
 
 8. 
 
@@ -2010,8 +2007,8 @@ b.
 
 3. het vervoer van personen door middel van zeeschepen of luchtvaartuigen, indien de plaats van bestemming of de plaats van vertrek buiten Nederland is gelegen;  
 
-4. de diensten van tussenpersonen die handelen in naam en voor rekening van derden, welke betrekking hebben op niet in de Gemeenschap verrichte prestaties dan wel op prestaties als zijn bedoeld onder 2 en 3;  
+4. de diensten van tussenpersonen die handelen in naam en voor rekening van derden, welke betrekking hebben op niet in de Unie verrichte prestaties dan wel op prestaties als zijn bedoeld onder 2 en 3;  
 
-5. de diensten, bestaande in werkzaamheden met betrekking tot roerende zaken welke zijn ontvangen ten einde die werkzaamheden in Nederland te ondergaan en naar een plaats buiten de Gemeenschap worden verzonden of vervoerd door of voor rekening van degene die de dienst heeft verricht, dan wel degene aan wie de dienst is verleend, indien deze laatste buiten Nederland woont of is gevestigd;  
+5. de diensten, bestaande in werkzaamheden met betrekking tot roerende zaken welke zijn ontvangen ten einde die werkzaamheden in Nederland te ondergaan en naar een plaats buiten de Unie worden verzonden of vervoerd door of voor rekening van degene die de dienst heeft verricht, dan wel degene aan wie de dienst is verleend, indien deze laatste buiten Nederland woont of is gevestigd;  
 
 6. het intracommunautair goederenvervoer naar of vanaf de eilanden die de autonome regio’s van de Azoren en van Madeira vormen, alsmede het vervoer van goederen tussen deze eilanden.     

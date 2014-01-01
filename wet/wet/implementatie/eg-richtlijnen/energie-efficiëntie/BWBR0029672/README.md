@@ -38,11 +38,11 @@ h. *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in
 
 ### §  2  
 
-####Meetinrichtingen voor levering van warmte of koude
+####Meetinrichtingen voor levering van koude
 
 ### Artikel  2  
 
-1.  Een beheerder van een warmtenet of koudenet heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan eindafnemers een individuele meetinrichting ter beschikking wordt gesteld die het actuele energieverbruik van warmte of koude kan weergeven en die informatie kan geven over de tijd waarin sprake was van daadwerkelijk verbruik, wanneer: 
+1.  Een beheerder van een koudenet heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan eindafnemers een individuele meetinrichting ter beschikking wordt gesteld die het actuele energieverbruik van koude kan weergeven en die informatie kan geven over de tijd waarin sprake was van daadwerkelijk verbruik, wanneer: 
 
 a. een eindafnemer hierom vraagt, tenzij het ter beschikking stellen technisch onmogelijk is of financieel niet redelijk is;  
 
@@ -56,21 +56,24 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 a. de eisen waaraan een meetinrichting als bedoeld in het eerste lid ten minste voldoet;  
 
 b. de tarieven voor de koop of het gebruik van een meetinrichting als bedoeld in het eerste lid.     
-3.  Een beheerder van een warmtenet of een koudenet voorziet in een transparante, eenvoudige en goedkope procedure voor de behandeling van klachten van eindafnemers over de betrouwbaarheid van de meetinrichting.   
+3.  Een beheerder van een koudenet voorziet in een transparante, eenvoudige en goedkope procedure voor de behandeling van klachten van eindafnemers over de betrouwbaarheid van de meetinrichting.   
+4.  Indien een meetrichting die op afstand uitleesbaar is door een beheerder van een koudenet aan een eindafnemer ter beschikking wordt gesteld, kan die eindafnemer deze meter weigeren. In dat geval wordt door een beheerder van een koudenet een niet op afstand uitleesbare meter ter beschikking gesteld.   
+5.  Een beheerder van een koudenet leest meetgegevens van een eindafnemer, die beschikt over een meetinrichting die op afstand uitleesbaar is, niet op afstand uit indien de eindafnemer hierom verzoekt.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een meetinrichting ten minste voldoet, waarbij ten aanzien van meetinrichtingen die op afstand uitleesbaar zijn in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens.   
 
 ### §  3  
 
-####Verbruiks- en indicatief kostenoverzicht van warmte en koude
+####Verbruiks- en indicatief kosten overzicht van koude
 
 ### Artikel  4  
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over: 
 
-a. de inrichting van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van warmte of koude,  
+a. de inrichting van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van koude,  
 
-b. de frequentie van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van warmte of koude,  
+b. de frequentie van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van koude,  
 
-c. het verstrekken van gegevens over het verbruik van warmte of koude, en  
+c. het verstrekken van gegevens over het verbruik van koude, en  
 
 d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,   welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c.  
 
@@ -84,11 +87,11 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 ### §  5  
 
-####Meetinrichtingen voor levering van elektriciteit en gas, facturering van en informatieverstrekking over elektriciteit en gas
+####Meetinrichtingen voor levering van elektriciteit, gas en warmte, facturering van en informatieverstrekking over elektriciteit en gas
 
 ### Artikel  6  
 
-De artikelen 2, eerste lid en tweede lid, onderdeel a, 3, 4 en 5 zijn van overeenkomstige toepassing ten aanzien van elektriciteit en gas, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
+De artikelen 2, eerste lid en tweede lid, onderdeel a, 3, 4 en 5 zijn van overeenkomstige toepassing ten aanzien van elektriciteit, gas en warmte, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. *beheerder van een elektriciteitsnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel k, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
@@ -96,7 +99,9 @@ b. *beheerder van een gasnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel
 
 c. *eindafnemer van elektriciteit:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 43, eerste lid, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md).    
+d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 43, eerste lid, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
+
+e. *eindafnemer van warmte:* een persoon die warmte afneemt van een warmtenet en een aansluiting heeft die groter is dan 100 kW.    
 
 ### §  6  
 

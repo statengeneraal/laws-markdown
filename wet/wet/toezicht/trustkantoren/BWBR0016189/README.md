@@ -20,23 +20,23 @@ a. trustkantoor: een rechtspersoon, vennootschap of natuurlijke persoon die, al 
 
 b. doelvennootschap: een rechtspersoon of vennootschap waaraan de in onderdeel d, onder 1° en 2°, genoemde diensten worden verleend;  
 
-c. uiteindelijk belanghebbende: de natuurlijke persoon die 
+c. uiteindelijk belanghebbende: de natuurlijke persoon die: 
 
-1°. een belang houdt van 25 procent of meer van het kapitaalbelang van een doelvennootschap;  
+1°. een belang houdt van meer dan 25 procent in het kapitaal van een rechtspersoon;  
 
-2°. 25 procent of meer van de stemrechten van de algemene vergadering van een doelvennootschap kan uitoefenen;  
+2°. meer dan 25 procent van de stemrechten kan uitoefenen in de algemene vergadering van een rechtspersoon;  
 
-3°. feitelijk zeggenschap kan uitoefenen in een doelvennootschap;  
+3°. feitelijk zeggenschap kan uitoefenen in een rechtspersoon;  
 
-4°. begunstigde van 25 procent of meer van het vermogen van een doelvennootschap is; of  
+4°. begunstigde van 25 procent of meer van het vermogen van een rechtspersoon of een trust is; of  
 
-5°. een bijzondere zeggenschap heeft over 25 procent of meer van het vermogen van een doelvennootschap;   tenzij de doelvennootschap een vennootschap is die is onderworpen aan openbaarmakingvereisten als bedoeld in richtlijn 2004/109/EG van het Europees Parlement en de Raad van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390) of aan voorschriften van een internationale organisatie die gelijkwaardig zijn aan die richtlijn;  
+5°. een bijzondere zeggenschap heeft over 25 procent of meer van het vermogen van een rechtspersoon of een trust; tenzij die rechtspersoon een vennootschap is die is onderworpen aan openbaarmakingvereisten als bedoeld in Richtlijn 2004/109/EG van het Europees Parlement en de Raad van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/334/EG van de Raad (PbEU 2004, L 390) of aan voorschriften van een internationale organisatie die gelijkwaardig zijn aan die richtlijn;    
 
 d. dienst: 
 
-1°. het zijn van bestuurder of vennoot van een rechtspersoon of vennootschap in opdracht van een, niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon;  
+1°. het zijn van bestuurder of vennoot van een rechtspersoon of vennootschap in opdracht van een rechtspersoon, vennootschap of natuurlijke persoon die niet tot dezelfde groep behoort als degene die bestuurder of vennoot is;  
 
-2°. het in opdracht van een niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon, ter beschikking stellen van het adres of het postadres, bedoeld in de [artikelen 11, eerste lid, onderdeel c](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [14, eerste lid, onderdeel c, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), aan een andere rechtspersoon of vennootschap, indien ten minste een van de volgende bijkomende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een, tot dezelfde groep behorende, andere rechtspersoon, vennootschap of natuurlijke persoon: 
+2°. het in opdracht van een niet tot dezelfde groep behorende rechtspersoon, vennootschap of natuurlijke persoon, ter beschikking stellen van het adres of het postadres, bedoeld in de [artikelen 11, eerste lid, onderdeel c](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [14, eerste lid, onderdeel c, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), aan een andere rechtspersoon of vennootschap, indien ten minste een van de volgende bijkomende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een, tot dezelfde groep als die rechtspersoon of vennootschap behorende, andere rechtspersoon, vennootschap of natuurlijke persoon: 
 
 i) het op privaatrechtelijk gebied geven van advies of het verlenen van bijstand, met uitzondering van het verrichten van receptiewerkzaamheden;  
 
@@ -50,9 +50,9 @@ v) andere bij algemene maatregel van bestuur aan te wijzen bijkomende werkzaamhe
 
 3°. het verkopen van of bemiddelen bij de verkoop van rechtspersonen;  
 
-4°. het zijn van een trustee in de zin van het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts in opdracht van een, niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon; of  
+4°. het zijn van een trustee in de zin van het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts in opdracht van een niet tot dezelfde groep behorende rechtspersoon, vennootschap of natuurlijke persoon; of  
 
-5°. het ten behoeve van de cliënt gebruik maken van een vennootschap, die tot dezelfde groep behoort als waarvan het trustkantoor deel uit maakt;  
+5°. het ten behoeve van de cliënt gebruik maken van een vennootschap die tot dezelfde groep behoort als degene die gebruik maakt van de vennootschap;  
 
 6°. andere bij algemene maatregel van bestuur aan te wijzen diensten;    
 
@@ -97,9 +97,9 @@ c. een rechtspersoon, vennootschap of natuurlijke persoon die beroeps- of bedrij
 
 ### Artikel  2a  
 
-1.  Onze Minister kan vrijstelling verlenen van artikel 2, eerste, tweede of derde lid, indien de situatie van een onderscheiden categorie trustkantoren dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een vrijstelling kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
-2.  De toezichthouder kan, op verzoek, ontheffing verlenen van artikel 2, eerste, tweede of derde lid, indien de specifieke situatie van een trustkantoor dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
-3.  Een vergunning als bedoeld in artikel 2, eerste, tweede of derde lid kan, onder door de toezichthouder te stellen voorschriften en beperkingen, aan een groep van trustkantoren worden verleend. Tenzij in de vergunning anders is bepaald, geldt de vergunning, alsmede de daaraan verbonden voorschriften of gestelde beperkingen, in gelijke zin voor alle trustkantoren die onderdeel uitmaken van de groep.   
+1.  Onze Minister kan vrijstelling verlenen van de bij of krachtens de artikelen 2, eerste, tweede en derde lid, en 10, eerste lid, gestelde regels, indien de situatie van een onderscheiden categorie trustkantoren dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een vrijstelling kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
+2.  De toezichthouder kan, op verzoek, ontheffing verlenen van de bij of krachtens de artikelen 2, eerste, tweede en derde lid, en 10, eerste lid, gestelde regels, indien de specifieke situatie van een trustkantoor dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
+3.  Een vergunning als bedoeld in de bij of krachtens de artikelen 2, eerste, tweede en derde lid, en 10, eerste lid, gestelde regels kan, onder door de toezichthouder te stellen voorschriften en beperkingen, aan een groep van trustkantoren worden verleend. Tenzij in de vergunning anders is bepaald, geldt de vergunning, alsmede de daaraan verbonden voorschriften of gestelde beperkingen, in gelijke zin voor alle trustkantoren die onderdeel uitmaken van de groep.   
 
 ### Paragraaf  2  
 
@@ -179,7 +179,7 @@ a. de naam, het adres en de statutaire zetel van het trustkantoor en, indien van
 
 b. de datum van inschrijving van het trustkantoor in het register;  
 
-c. het nummer van inschrijving van het trustkantoor bij de Kamer van Koophandel en Fabrieken; en  
+c. het nummer van inschrijving van het trustkantoor bij de Kamer van Koophandel; en  
 
 d. de aan de vergunning of de ontheffing verbonden voorschriften en gestelde beperkingen, tenzij de bescherming van de persoonlijke levenssfeer of van gerechtvaardigde bedrijfsbelangen zich daartegen verzet.     
 3.  De toezichthouder draagt zorg voor de doorhaling van de inschrijving van een trustkantoor waarvan de vergunning dan wel de ontheffing is ingetrokken.   
@@ -188,6 +188,8 @@ d. de aan de vergunning of de ontheffing verbonden voorschriften en gestelde bep
 ### Paragraaf  5  
 
 ####Kosten
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  3  
 
@@ -199,7 +201,7 @@ d. de aan de vergunning of de ontheffing verbonden voorschriften en gestelde bep
 
 a. in het register ingeschreven trustkantoren;  
 
-b. trustkantoren waarop een vrijstelling als bedoeld in artikel 2, derde lid, van toepassing is;  
+b. trustkantoren waarop een vrijstelling als bedoeld in artikel 2a, eerste lid, van toepassing is;  
 
 c. een ieder die met een in de onderdelen a of b bedoeld trustkantoor in een groep is verbonden;  
 
@@ -209,11 +211,11 @@ d. een ieder van wie of waarvan redelijkerwijs kan worden vermoed dat deze hande
 
 ### Artikel  10  
 
-1.  Met het oog op een integere bedrijfsvoering worden bij of krachtens algemene maatregel van bestuur regels gesteld aan trustkantoren. Hieronder worden begrepen regels met betrekking tot de administratieve organisatie – met inbegrip van de financiële administratie – en de interne controle, zodanig dat: 
+1.  Met het oog op een integere bedrijfsvoering worden bij of krachtens algemene maatregel van bestuur regels gesteld aan trustkantoren. Hieronder worden begrepen regels omtrent het al dan niet op verzoek verstrekken van gegevens door trustkantoren, alsmede regels met betrekking tot de administratieve organisatie – met inbegrip van de financiële administratie – en de interne controle alsmede die ertoe strekken dat: 
 
-a. het trustkantoor de identiteit kent van de uiteindelijk belanghebbende of over informatie beschikt waaruit blijkt dat er geen uiteindelijk belanghebbende is;  
+a. het trustkantoor cliëntenonderzoek verricht dat het trustkantoor onder meer in staat stelt de identiteit te kennen van de cliënt en de uiteindelijk belanghebbende of over informatie te beschikken waaruit blijkt dat er geen uiteindelijk belanghebbende is;  
 
-b. het trustkantoor kennis heeft van de herkomst en de bestemming van de gelden van de doelvennootschap;  
+b. het trustkantoor kennis heeft van de herkomst en de bestemming van de gelden van de doelvennootschap, de trust of de vennootschap waarvan het trustkantoor gebruikmaakt in de zin van artikel 1, onderdeel d, onder 5°;  
 
 c. het trustkantoor kennis heeft van de relevante delen van de structuur van de groep waartoe de doelvennootschap behoort;  
 
@@ -221,19 +223,21 @@ d. het trustkantoor kennis heeft van het doel waarmee de in onderdeel c bedoelde
 
 e. het trustkantoor: 
 
-1°. beschikt over een op risico gebaseerd beleid om te bepalen of de uiteindelijk belanghebbende een politiek prominent persoon is;  
+1°. beschikt over een op risico gebaseerd beleid om te bepalen of de cliënt of de uiteindelijk belanghebbende een politiek prominent persoon is;  
 
 2°. de beslissing tot het aangaan van een relatie met een politiek prominent persoon laat nemen of laat goedkeuren door personen die daartoe door het trustkantoor gemachtigd zijn;  
 
 3°. adequate maatregelen treft om de bron van het vermogen vast te stellen die bij de zakelijke relatie worden gebruikt; en  
 
-4°. doorlopende controle uitoefent op de zakelijke relatie.    
+4°. doorlopende controle uitoefent op de zakelijke relatie;    
 
-f. het trustkantoor de identiteit kent van de koper en van de houders van een gekwalificeerde deelneming in de koper, indien door het trustkantoor een dienst wordt verleend als bedoeld in artikel 1, onderdeel d, onder 3°;  
+f. het trustkantoor bij het bemiddelen bij de verkoop van een vennootschap in de zin van artikel 1, onderdeel d, onder 3°, de identiteit kent van de koper en de verkoper en van de uiteindelijk belanghebbende van de koper en de verkoper;  
 
 g. het trustkantoor in zijn hoedanigheid van trustee de identiteit kent van de insteller van een trust in de zin van het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts;  
 
-h. door het trustkantoor geen dienst wordt verleend, indien niet wordt voldaan aan onderdeel a of f.     
+h. het trustkantoor kennis heeft van het doel van zijn dienstverlening en onderzoekt of aan die dienstverlening integriteitsrisico's zijn verbonden;  
+
+i. door het trustkantoor geen dienst wordt verleend, indien niet wordt voldaan aan onderdeel a.     
 2.  Een trustkantoor zendt binnen een door de toezichthouder te stellen redelijke termijn aan de toezichthouder desgevraagd een rapportage omtrent zijn bedrijfsvoering en administratieve organisatie en interne controle. De toezichthouder bepaalt de wijze waarop de rapportage geschiedt en de periode waarop de rapportage betrekking heeft.   
 
 ### Artikel  11  
@@ -317,6 +321,8 @@ b. indien die buitenlandse instantie op een andere wijze dan in deze wet voorzie
 ### Hoofdstuk  6  
 
 ####Beroep
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  7  
 

@@ -12,11 +12,13 @@ In deze regeling wordt verstaan onder het Rode Kruis: de vereniging ‘het Neder
 
 ### Artikel  2  
 
-De minister kan op aanvraag per boekjaar een subsidie aan het Rode Kruis verstrekken ten behoeve van activiteiten met betrekking tot geneeskundige hulpverlening bij ongevallen en rampen, verwanteninformatie en opsporing van vermiste personen.  
+1.  De Minister kan op aanvraag een subsidie aan het Rode Kruis verstrekken ten behoeve van activiteiten zoals genoemd in [artikel 3 van het Besluit Rode Kruis 1988](../../../../../../../../rijksKB/besluit/rode/kruis/1988/BWBR0004470/README.md).   
+2.  Op deze subsidieverstrekking is [titel 4.2.8 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 
 ### Artikel  3  
 
-De minister beslist binnen 8 weken op een aanvraag tot subsidieverlening.  
+1.  Het Rode Kruis dient de aanvraag tot subsidieverlening in bij de Minister vóór 1 oktober van het jaar voorafgaand aan het jaar waarvoor de subsidie wordt verzocht.   
+2.  De Minister beslist binnen 13 weken na ontvangst van een aanvraag tot subsidieverlening.   
 
 ### Artikel  4  
 
@@ -29,8 +31,8 @@ De minister kan op aanvraag een voorschot verlenen van ten hoogste 80% van het v
 
 ### Artikel  6  
 
-1.  De subsidieontvanger dient een aanvraag tot subsidievaststelling in bij de minister vóór 1 augustus van het jaar volgend op het jaar waarvoor de subsidie is verleend.   
-2.  De minister neemt binnen 6 weken na ontvangst van de aanvraag een beslissing.   
+1.  Het Rode Kruis dient een aanvraag tot subsidievaststelling in bij de Minister vóór 1 augustus van het jaar volgend op het jaar waarvoor de subsidie is verleend.   
+2.  De Minister neemt een beschikking tot subsidievaststelling binnen 22 weken na ontvangst van de aanvraag daarvan.   
 
 ### Artikel  7  
 
@@ -41,6 +43,10 @@ De [Regeling bijdrage Nederlandse Rode Kruis 1999](../../../../../../../../minis
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
 ### Artikel  9  
+
+Deze regeling vervalt met ingang van 1 januari 2019.  
+
+### Artikel  10  
 
 Deze regeling wordt aangehaald als: Subsidieregeling voor het Rode Kruis 2008.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  

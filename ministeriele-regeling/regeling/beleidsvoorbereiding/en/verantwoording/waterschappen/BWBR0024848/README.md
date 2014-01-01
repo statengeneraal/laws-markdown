@@ -168,7 +168,7 @@ a. stand begin begrotingsjaar, te onderscheiden naar:
 
 5°. de boekwaarde.    
 
-b. de mutaties in het begrotingsjaar te onderscheiden in: 
+b. de mutaties in het begrotingsjaar, te onderscheiden in: 
 
 1°. overname;  
 
@@ -182,11 +182,19 @@ b. de mutaties in het begrotingsjaar te onderscheiden in:
 
 6°. verkoop;  
 
-7°. ontvangen subsidies;  
+7°. ontvangen bijdragen van de Europese Unie;  
 
-8°. afschrijvingen, en  
+8°. ontvangen bijdragen van het Rijk;  
 
-9°. waardecorrectie leidend tot vermindering;    
+9°. ontvangen bijdragen van provincies;  
+
+10°. ontvangen bijdragen van overige openbare lichamen;  
+
+11°. ontvangen bijdragen van overigen;  
+
+12°. afschrijvingen; en  
+
+13°. waardecorrectie leidend tot vermindering.    
 
 c. stand einde begrotingsjaar, te onderscheiden in: 
 
@@ -402,26 +410,31 @@ J.C.Huizinga-Heringa
 
 ### Bijlage  1  
 
-OPBOUW EMU-SALDO (bedragen × € 1000,–) 
+####bij artikel 2  van de Regeling beleidsvoorbereiding en verantwoording waterschappen
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| 1  | EMU-exploitatiesaldo:  | --- | ...............  |
-| 2  | Invloed investeringen (zie staat van vaste activa):  | --- | --- |
-| -/-  | bruto-investeringsuitgaven  | -/-  | ...............  |
-| +  | investeringssubsidies  | +  | ...............  |
-| +  | verkoop van materiële en immateriële vaste activa  | +  | ...............  |
-| +  | afschrijvingen  | +  | ...............  |
-| --- | --- | --- | --- |
-| 3  | Invloed voorzieningen (zie staat van voorzieningen)  | --- | --- |
-| +  | Toevoegingen aan voorzieningen t.l.v. exploitatie  | +  | ...............  |
-| -/-  | onttrekkingen aan voorzieningen t.b.v. exploitatie  | -/-  | ...............  |
-| -/-  | onttrekkingen rechtstreeks uit voorzieningen  | -/-  | ...............  |
-| --- | --- | --- | --- |
-| 4  | Deelnemingen en aandelen:  | --- | --- |
-| -/-  | boekwinst  | -/-  | ...............  |
-| +  | boekverlies  | +  | ...............  |
-| EMU-SALDO  | --- | ...............  |
+OPBOUW EMU-SALDO (bedragen x € 1000,–) 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 1 *Exploitatiesaldo voor bestemming van reserves:*  | ...............  |
+| --- | --- | --- |
+| 2 *Invloed investeringen (zie staat van vaste activa):*  | --- |
+| -/-  | bruto-investeringsuitgaven  | -/- ...............  |
+| +  | investeringsbijdragen  | + ...............  |
+| +  | verkoop van materiële en immateriële vaste activa  | + ...............  |
+| +  | afschrijvingen  | + ...............  |
+| --- | --- | --- |
+| 3 *Invloed voorzieningen (zie staat van voorzieningen)*  | --- |
+| +  | toevoegingen aan voorzieningen t.l.v. exploitatie  | + ...............  |
+| -/-  | onttrekkingen aan voorzieningen t.b.v. exploitatie  | -/- ...............  |
+| -/-  | onttrekkingen rechtstreeks uit voorzieningen  | -/- ...............  |
+| --- | --- | --- |
+| 4 *Deelnemingen en aandelen:*  | --- |
+| -/-  | boekwinst  | -/- ...............  |
+| +  | boekverlies  | + ...............  |
+| --- | --- | --- |
+| --- | --- | --- |
+|  *EMU-SALDO*   | ..................  |
 
 ### Bijlage  2  
 
@@ -454,8 +467,9 @@ Wat betreft de kostensoorten luidt de indeling als volgt:
 | 3.9  | Onderhoud door derden  |
 | 3.10  | Overige diensten door derden  |
 | 4 Bijdragen aan derden  | 4.1  | Bijdragen aan bedrijven  |
-| 4.2  | Bijdragen aan overheden  |
-| 4.3  | Bijdragen aan overigen  |
+| 4.2  | Bijdragen aan het Rijk  |
+| 4.3  | Bijdragen aan openbare lichamen  |
+| 4.4  | Bijdragen aan overigen  |
 | 5 Toevoegingen voorzieningen/  onvoorzien  | 5.1  | Toevoegingen aan voorzieningen  |
 | 5.2  | Onvoorzien  |
 
@@ -478,8 +492,11 @@ Wat betreft de opbrengstsoorten luidt de indeling als volgt:
 | 3.4  | Opbrengst uit grond en water  |
 | 3.5  | Huuropbrengst uit overige eigendommen  |
 | 3.6  | Diensten voor derden  |
-| 4 Bijdragen van derden  | 4.1  | Bijdragen van overheden  |
-| 4.2  | Bijdragen van overigen  |
+| 4 Bijdragen van derden  | 4.1  | Bijdragen van de Europese Unie  |
+| 4.2  | Bijdragen van het Rijk  |
+| 4.3  | Bijdragen van provincies  |
+| 4.4  | Bijdragen van overige openbare lichamen  |
+| 4.5  | Bijdragen van overigen  |
 | 5 Waterschapsbelastingen  | 5.1  | Opbrengst watersysteem- en wegenheffing gebouwd  |
 | 5.2  | Opbrengst watersysteem- en wegenheffing ingezetenen  |
 | 5.3  | Opbrengst watersysteem- en wegenheffing ongebouwd  |

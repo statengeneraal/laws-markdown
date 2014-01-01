@@ -12,6 +12,10 @@ dat het tevens wenselijk is om de burgerlijke luchtverkeersbeveiliging onder te 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
+####Inleidende bepalingen
+
+### Titel  1.1  
+
 ####Algemene bepalingen
 
 ### Artikel  1.1  
@@ -21,6 +25,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 algemene luchtverkeersleiding: luchtverkeersleiding voor gecontroleerde vluchten;  
 
 AOC: door Onze Minister van Verkeer en Waterstaat aan een onderneming of groep van ondernemingen afgegeven document waarin wordt verklaard dat de betrokken luchtvaartexploitant beschikt over beroepsbekwaamheid en organisatie om luchtvaartuigen veilig te exploiteren voor de in dat bewijs gespecificeerde luchtvaartactiviteiten (Air Operator's Certificate);  
+
+basisverordening: verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79);  
 
 besluit beperkingengebied buitenlandse luchthaven: besluit als bedoeld in artikel 8a.54;  
 
@@ -89,6 +95,8 @@ luchthavenluchtverkeer: het onder het begrip luchthaven, in de aanhef en onder 1
 luchthavenregeling: de regeling, bedoeld in de artikelen 8.64, eerste lid, 8.77, eerste lid, of 10.39, eerste lid;  
 
 luchthavenverkeerbesluit: het besluit, bedoeld in artikel 8.15;  
+
+luchtruim van Bonaire, Sint Eustatius en Saba: delen van het vluchtinformatiegebied Curaçao en het vluchtinformatiegebied San Juan, bedoeld in artikel 1 van de Luchtvaartwet BES, die zich boven het territoir van de openbare lichamen Bonaire, Sint Eustatius en Saba bevinden dan wel die delen waarvoor Onze Minister van Infrastructuur en Milieu de verantwoordelijkheid voor het verzorgen van luchtverkeersdiensten heeft aanvaard;  
 
 luchtruimbeheer: een planningsfunctie met als belangrijkste doel een maximale benutting van beschikbaar luchtruim door dynamische *timesharing* en, bij gelegenheid, scheiding van luchtruim tussen verschillende categorieën luchtruimgebruikers op basis van kortetermijnbehoeften;  
 
@@ -214,6 +222,23 @@ c. al datgene wordt gedaan, wat in haar vermogen ligt om ernstige lichamelijke o
 
 Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minister van Defensie, beslissingen neemt ingevolge bij of krachtens deze wet verleende bevoegdheden, die mede betrekking hebben op de militaire luchtvaart onderscheidenlijk de burgerluchtvaart handelt hij in overeenstemming met Onze Minister van Defensie onderscheidenlijk Onze Minister van Verkeer en Waterstaat.  
 
+### Titel  1.2  
+
+####EASA
+
+### Artikel  1.5  
+
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen regels gesteld worden ter uitvoering van hetgeen bij of krachtens de basisverordening is bepaald.  
+
+### Artikel  1.6  
+
+Het is verboden in strijd te handelen met bij ministeriële regeling aangewezen voorschriften van hetgeen bij of krachtens de basisverordening is bepaald.  
+
+### Artikel  1.7  
+
+1.  De kosten die samenhangen met het in behandeling nemen van de aanvraag, afgifte, wijziging, beperking, schorsing, intrekking, verlenging en vernieuwing van bewijzen van bevoegdheid, verklaringen, certificaten en overige documenten die bij of krachtens de basisverordening worden afgegeven, worden ten laste gebracht van de aanvrager van het document.   
+2.  De bedragen ter vergoeding van de kosten, bedoeld in het eerste lid, worden bij ministeriële regeling vastgesteld.   
+
 ### Hoofdstuk  2  
 
 ####Personeel
@@ -224,15 +249,15 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 ### Artikel  2.1  
 
-1.  Het is verboden een luchtvaartuig te bedienen, luchtverkeersdiensten te verlenen of een grondstation of een mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in [artikel 3.3 van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of de Wet telecommunicatievoorzieningen BES, te bedienen zonder het daarvoor geldige bewijs van bevoegdheid of geldige bewijs van gelijkstelling.   
+1.  Het is verboden een luchtvaartuig te bedienen, luchtverkeersdiensten te verlenen of een grondstation of een mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in artikel 3.13 van de Telecommunicatiewet of de Wet telecommunicatievoorzieningen BES, te bedienen zonder het daarvoor geldige bewijs van bevoegdheid of geldige bewijs van gelijkstelling.   
 2.  Voor het bedienen van een Nederlands burgerluchtvaartuig, het verlenen van luchtverkeersdiensten of het bedienen van een grondstation of een mobiel station als bedoeld in het eerste lid is het bezit vereist van hetzij: 
 
 a. een door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling,  
 
 b. een bewijs van bevoegdheid of bewijs van gelijkstelling, afgegeven door de bevoegde autoriteit van een door Onze Minister van Verkeer en Waterstaat op grond van artikel 2.8 aangewezen staat of door een door hem aangewezen internationale organisatie. Betrokkene dient in geval van toepassing van onderdeel a tevens in het bezit te zijn van een geldige medische verklaring, bedoeld in artikel 2.4, afgegeven door Onze Minister van Verkeer en Waterstaat dan wel door de bevoegde autoriteit van een door hem aangewezen staat, hetzij  
 
-c. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
-3.  Bij algemene maatregel van bestuur kunnen andere werkzaamheden aan boord van een burgerluchtvaartuig worden aangewezen, die niet mogen worden verricht zonder een door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid, bewijs van gelijkstelling of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
+c. een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties.     
+3.  Bij algemene maatregel van bestuur kunnen andere werkzaamheden aan boord van een burgerluchtvaartuig worden aangewezen, die niet mogen worden verricht zonder een door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid, bewijs van gelijkstelling of een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties.   
 4.  Onze Minister van Verkeer en Waterstaat kan ontheffing verlenen van het bepaalde bij of krachtens dit artikel, wanneer door bijzondere omstandigheden die regels in redelijkheid geen toepassing kunnen vinden en de veiligheid van het luchtverkeer met het verlenen van de ontheffing niet in gevaar wordt gebracht. Aan de ontheffing kunnen voorschriften of beperkingen worden verbonden.   
 5.  Onze Minister van Verkeer en Waterstaat trekt de door hem verleende ontheffing in, wanneer 
 
@@ -240,11 +265,11 @@ a. de redenen, waarom de ontheffing is verleend, zijn komen te vervallen;
 
 b. de houder van de ontheffing de daaraan verbonden voorschriften of beperkingen niet naleeft.     
 6.  Het is verboden te handelen in strijd met een voorschrift als bedoeld in het vierde lid.   
-7.  Voor zover het eerste lid betrekking heeft op het bedienen van een grondstation of een mobiel station als bedoeld in dat lid, is het onverminderd artikel 1.2, eerste lid, eveneens van toepassing op het continentaal plat, bedoeld in [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), voor zover dat buiten het vluchtinformatiegebied Amsterdam ligt.   
+7.  Voor zover het eerste lid betrekking heeft op het bedienen van een grondstation of een mobiel station als bedoeld in dat lid, is het onverminderd artikel 1.2, eerste lid, eveneens van toepassing op het continentaal plat, bedoeld in artikel 1 van de Mijnbouwwet, voor zover dat buiten het vluchtinformatiegebied Amsterdam ligt.   
 
 ### Artikel  2.1a  
 
-Onverminderd de [Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is hoofdstuk 2 van overeenkomstige toepassing op de erkenning van beroepskwalificaties als bedoeld in die [wet](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).  
+Onverminderd de Algemene wet erkenning EG-beroepskwalificaties is hoofdstuk 2 van overeenkomstige toepassing op de erkenning van beroepskwalificaties als bedoeld in die wet.  
 
 ### Artikel  2.2  
 
@@ -423,13 +448,13 @@ Het is de houder van een bewijs van bevoegdheid of bewijs van gelijkstelling ver
 a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan negentig microgram (90 µg) alcohol per liter uitgeademde lucht, dan wel  
 
 b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan eenvijfde milligram (0,2 mg) alcohol per milliliter bloed.     
-4.  Het is een lid van het boordpersoneel verboden werkzaamheden aan boord van een luchtvaartuig te verrichten gedurende de tijd, waarvoor een rijverbod als bedoeld in [artikel 162, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geldt.   
+4.  Het is een lid van het boordpersoneel verboden werkzaamheden aan boord van een luchtvaartuig te verrichten gedurende de tijd, waarvoor een rijverbod als bedoeld in artikel 162, eerste lid, van de Wegenverkeerswet 1994 geldt.   
 5.  Het is verboden een lid van het boordpersoneel van wie men weet of redelijkerwijs moet weten, dat deze verkeert in een toestand, als bedoeld in artikel 2.11, eerste lid, of in het eerste of derde lid van dit artikel, werkzaamheden aan boord van een luchtvaartuig te doen verrichten.   
 6.  Het eerste, derde, vierde en vijfde lid zijn van overeenkomstige toepassing op eenieder die luchtverkeersdiensten verleent of een grondstation of een mobiel station als bedoeld in artikel 2.1, eerste lid, bedient.   
 
 ### Artikel  2.13  
 
-Aan de ambtenaren, die belast zijn met de handhaving van artikel 2.12 worden uit het register, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op door de Dienst Wegverkeer te bepalen wijze de gegevens verstrekt, die zij voor de uitoefening van hun taak nodig hebben.  
+Aan de ambtenaren, die belast zijn met de handhaving van artikel 2.12 worden uit het register, bedoeld in artikel 126 van de Wegenverkeerswet 1994, op door de Dienst Wegverkeer te bepalen wijze de gegevens verstrekt, die zij voor de uitoefening van hun taak nodig hebben.  
 
 ### TITEL  2.3  
 
@@ -1023,7 +1048,7 @@ a. om redenen van openbare orde en veiligheid;
 
 b. om andere dringende redenen, waarbij het uitoefenen van de luchtvaart en omstandigheden of gebeurtenissen op het aardoppervlak elkaar kunnen beïnvloeden;     
 2.  Onze Minister van Defensie kan bij ministeriële regeling het uitoefenen van het burgerluchtverkeer beperken of verbieden om reden van militaire noodzaak.   
-3.  Op voordracht van Onze Minister van Verkeer en Waterstaat, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, worden bij algemene maatregel van bestuur regels gesteld met betrekking tot het uitoefenen van het burgerluchtverkeer boven gebieden aangewezen overeenkomstig [artikel 1.2, tweede lid, onder b, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  Op voordracht van Onze Minister van Verkeer en Waterstaat, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, worden bij algemene maatregel van bestuur regels gesteld met betrekking tot het uitoefenen van het burgerluchtverkeer boven gebieden aangewezen overeenkomstig artikel 1.2, tweede lid, onder b, van de Wet milieubeheer.   
 4.  Van de regelingen krachtens het eerste en tweede lid wordt mededeling gedaan via de luchtvaartpublicaties bedoeld in artikel 5.23, eerste lid, onder d, en voor zover nodig via de verlener van luchtverkeersdiensten aan de betrokken gezagvoerder.   
 5.  Het is verboden aan het luchtverkeer deel te nemen in strijd met het bepaalde krachtens het eerste, tweede en derde lid van dit artikel.   
 
@@ -1188,7 +1213,7 @@ b. plaatselijke luchtvaartnavigatiediensten.
 ### Artikel  5.22  
 
 1.  Er is een organisatie voor het verlenen van luchtverkeersdiensten. Hij heeft rechtspersoonlijkheid.   
-2.  Op de in het eerste lid bedoelde organisatie is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van de [artikelen 15](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [18 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+2.  Op de in het eerste lid bedoelde organisatie is de Kaderwet zelfstandige bestuursorganen van toepassing, met uitzondering van de artikelen 15 en 18 van die wet.   
 
 ### §  5.3.2  
 
@@ -1271,7 +1296,7 @@ c. een lid, tevens voorzitter, wordt benoemd op voordracht van de raad van toezi
 
 1.  De raad van toezicht ziet toe op de werkzaamheden van het bestuur, en staat dit met raad terzijde.   
 2.  Bij de vervulling van hun taak nemen de leden van de raad van toezicht tot richtsnoer de verwezenlijking van de taakstelling en het belang van de LVNL waaronder de continuïteit van zijn bedrijfsvoering.   
-3.  Onze Minister van Infrastructuur en Milieu kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) of dat het bestuur, ingeval Onze Minister van Infrastructuur en Milieu een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
+3.  Onze Minister van Infrastructuur en Milieu kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in artikel 32 van de Kaderwet zelfstandige bestuursorganen of dat het bestuur, ingeval Onze Minister van Infrastructuur en Milieu een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
 4.  Besluiten van het bestuur betreffende de volgende onderwerpen behoeven voorafgaande instemming van de raad van toezicht: 
 
 a. de reglementen bedoeld in de artikelen 5.34, 5.36, 5.37 en 5.39;  
@@ -1321,7 +1346,7 @@ Het bestuur van de LVNL voert op bij reglement vast te stellen wijze overleg met
 
 ### Artikel  5.37  
 
-1.  Het personeel van de LVNL, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md).   
+1.  Het personeel van de LVNL, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de Ambtenarenwet.   
 2.  Het bestuur stelt bij reglement de regeling van de rechtspositie van het personeel vast.   
 3.  Onverminderd hetgeen reeds bij of krachtens de wet is geregeld, geeft het reglement bedoeld in het tweede lid van dit artikel in ieder geval voorschriften betreffende de volgende onderwerpen: 
 
@@ -1356,7 +1381,7 @@ n. disciplinaire straffen;
 o. de wijze waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtspositie en de bezoldiging van het personeel van de LVNL;  
 
 p. een geschillenregeling met betrekking tot de onder *l* en *o* genoemde onderwerpen.     
-4.  De bepalingen van [artikel 126 van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) zijn van overeenkomstige toepassing op de totstandkoming van het in het tweede lid bedoelde reglement.   
+4.  De bepalingen van artikel 126 van de Ambtenarenwet zijn van overeenkomstige toepassing op de totstandkoming van het in het tweede lid bedoelde reglement.   
 
 ### §  5.3.7  
 
@@ -1429,7 +1454,7 @@ Waar in deze wet de goedkeuring van Onze Minister van Verkeer en Waterstaat is v
 
 ### Artikel  6.50  
 
-Deze titel is, met uitzondering van het bepaalde bij of krachtens de artikelen 6.55, 6.56 en 6.57, niet van toepassing op het vervoer van splijtstoffen, ertsen of radioactieve stoffen als bedoeld in [artikel 1, eerste lid, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md).  
+Deze titel is, met uitzondering van het bepaalde bij of krachtens de artikelen 6.55, 6.56 en 6.57, niet van toepassing op het vervoer van splijtstoffen, ertsen of radioactieve stoffen als bedoeld in artikel 1, eerste lid, van de Kernenergiewet.  
 
 ### Artikel  6.51  
 
@@ -1586,7 +1611,7 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 ### Artikel  7.3  
 
 1.  Een luchthavencoördinator als bedoeld in Verordening nr. 95/93 van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PbEG L 14) die bij de uitvoering van zijn taak krachtens de verordening schade toebrengt aan luchtvaartmaatschappijen of anderen, is te dier zake niet aansprakelijk, tenzij de schade een gevolg is van zijn opzet of roekeloosheid.   
-2.  Op de luchthavencoördinator is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van de [artikelen 18](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [21](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+2.  Op de luchthavencoördinator is de Kaderwet zelfstandige bestuursorganen van toepassing, met uitzondering van de artikelen 18, 21 en 22 van die wet.   
 
 ### Titel  7.3  
 
@@ -1604,6 +1629,14 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 ### Artikel  7.5  
 
 Het is een vliegtuigexploitant als bedoeld in artikel 3, onder o, van richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad (PbEU L 275), zoals deze laatstelijk is gewijzigd bij richtlijn nr. 2008/101/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 (PbEU 2009, L 8), verboden een vlucht uit te voeren met een luchtvaartuig zolang en voor zover de Commissie van de Europese Gemeenschappen op grond van artikel 16, tiende lid, van eerstgenoemde richtlijn aan de betrokken vliegtuigexploitant een exploitatieverbod heeft opgelegd.  
+
+### Titel  7.5  
+
+####Vergoedingen ter uitvoering van internationale verplichtingen
+
+### Artikel  7.6  
+
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden vastgesteld betreffende de vergoedingen voor de kosten van handelingen die voortvloeien uit internationale overeenkomsten, die ter zake van de luchtvaartveiligheid door Nederland, dan wel op grond van de artikelen 100, tweede lid, en 207, eerste en vierde lid, in samenhang met artikel 218 van het Verdrag betreffende de werking van de Europese Unie door de Europese Unie zijn gesloten, voor zover deze kosten niet reeds de basis vormen voor de vergoedingen bedoeld in deze wet.  
 
 ### Hoofdstuk  8  
 
@@ -1624,7 +1657,7 @@ b. overige burgerluchthavens, en
 c. militaire luchthavens.     
 2.  Overige burgerluchthavens zijn van regionale betekenis of van nationale betekenis. Deze luchthavens zijn van nationale betekenis indien: 
 
-a. zij zijn gelegen buiten provinciegrenzen zoals bepaald bij of krachtens de [Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), of  
+a. zij zijn gelegen buiten provinciegrenzen zoals bepaald bij of krachtens de Provinciewet, of  
 
 b. dit bij wet is bepaald.     
 3.  Luchthavens van nationale betekenis zijn: 
@@ -1638,14 +1671,14 @@ c. de luchthaven Maastricht, en
 d. de luchthaven Rotterdam.     
 4.  Indien het militaire gebruik van een militaire luchthaven, met uitzondering van de militaire luchthaven Twenthe, wordt beëindigd door intrekking van: 
 
-a. de aanwijzing op grond van de [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) van die luchthaven als militaire luchthaven, of  
+a. de aanwijzing op grond van de Luchtvaartwet van die luchthaven als militaire luchthaven, of  
 
 b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die plaats een burgerluchthaven wordt gevestigd, dan is deze luchthaven van nationale betekenis.   
 5.  In afwijking van het vierde lid kan bij algemene maatregel van bestuur worden vastgesteld dat een luchthaven als bedoeld in dat lid van regionale betekenis is.   
 6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 7.  Indien het militaire gebruik van de militaire luchthaven Twenthe wordt beëindigd door intrekking van: 
 
-a. de aanwijzing op grond van de [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) van die luchthaven als militaire luchthaven, of  
+a. de aanwijzing op grond van de Luchtvaartwet van die luchthaven als militaire luchthaven, of  
 
 b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die plaats een burgerluchthaven wordt gevestigd, dan is deze luchthaven van nationale betekenis.   
 
@@ -1669,6 +1702,8 @@ b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die pl
 
 1.  In deze titel wordt verstaan onder: 
 
+*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
+
 *exploitant van de luchthaven:* de N.V. Luchthaven Schiphol, of, indien dit een ander is, de houder van de luchthavenexploitatievergunning;  
 
 *gebruiker:* een luchtvaartmaatschappij, alsmede een persoon of rechtspersoon die vluchten uitvoert, niet zijnde een luchtvaartmaatschappij;  
@@ -1679,10 +1714,8 @@ b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die pl
 
 *luchthavennetwerk:* een groep luchthavens die als zodanig door de lidstaat is aangewezen en die wordt geëxploiteerd door een en dezelfde exploitant van de luchthaven;  
 
-*raad:* de raad van bestuur van de Nederlandse Mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md);  
-
-*representatieve organisatie:* een bij ministeriële regeling aangewezen rechtspersoon die de belangen vertegenwoordigt van gebruikers.     
-2.  In deze titel wordt onder bestemmingsplan mede verstaan een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of  [3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+*representatieve organisatie:* een bij ministeriële regeling aangewezen rechtspersoon die de belangen vertegenwoordigt van gebruikers;     
+2.  In deze titel wordt onder bestemmingsplan mede verstaan een inpassingsplan als bedoeld in artikel 3.26 of  3.28 van de Wet ruimtelijke ordening.   
 
 ### Artikel  8.2  
 
@@ -1719,13 +1752,7 @@ Bij algemene maatregel van bestuur wordt voor de luchthaven een luchthavenindeli
 3.  Als beperkingengebied wordt het gebied vastgesteld waar in verband met de nabijheid van de luchthaven met het oog op de veiligheid en de geluidbelasting beperkingen noodzakelijk zijn ten aanzien van de bestemming of het gebruik van de grond.   
 4.  Het luchthavengebied en het beperkingengebied overlappen elkaar niet. De gebieden kunnen bestaan uit niet aaneengesloten delen.   
 5.  De gebieden worden vastgesteld met behulp van kaarten waarop de ligging van de gebieden is aangegeven. De kaarten voor het luchthavengebied worden vervaardigd op een schaal van ten minste 1 op 10 000. De kaarten voor het beperkingengebied worden vervaardigd op een schaal van ten minste 1 op 50 000. Zo nodig worden delen van de gebieden vastgelegd met behulp van kaarten op een schaal met een kleiner verhoudingsgetal.   
-6.  Bij de vaststelling van het luchthavenindelingsbesluit wordt gebruik gemaakt van: 
-
-a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
-
-b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en daarop gebaseerde onderzoeken, en  
-
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en daarop gebaseerde onderzoeken, die ten grondslag hebben gelegen aan het ontwerp-besluit, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken, inventarisaties en gevolgen zijn vervat, bij de vaststelling van het luchthavenindelingsbesluit ouder zijn dan twee jaar, het luchthavenindelingsbesluit een motivering van de actualiteit van die rapporten bevat.     
+6.  Bij de vaststelling van het luchthavenindelingbesluit kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar.   
 
 ### Artikel  8.6  
 
@@ -1748,22 +1775,22 @@ d. een bestemming die, of van een gebruik dat, vogels aantrekt, in verband met d
 
 ### Artikel  8.8  
 
-1.  Bij de vaststelling van een bestemmingsplan of de beheersverordening, bedoeld in [artikel 3.38 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) voor een gebied dat is gelegen binnen het luchthavengebied of het beperkingengebied, wordt het luchthavenindelingbesluit in acht genomen.   
-2.  Voor het gebied dat ligt binnen het luchthavengebied of het beperkingengebied, waarvoor geen bestemmingsplan of beheersverordening geldt dat in overeenstemming is met het besluit, geldt het besluit als een voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Voor zover het besluit geldt als voorbereidingsbesluit, is [artikel 3.7, vijfde lid, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet van toepassing.   
+1.  Bij de vaststelling van een bestemmingsplan of de beheersverordening, bedoeld in artikel 3.38 van de Wet ruimtelijke ordening voor een gebied dat is gelegen binnen het luchthavengebied of het beperkingengebied, wordt het luchthavenindelingbesluit in acht genomen.   
+2.  Voor het gebied dat ligt binnen het luchthavengebied of het beperkingengebied, waarvoor geen bestemmingsplan of beheersverordening geldt dat in overeenstemming is met het besluit, geldt het besluit als een voorbereidingsbesluit als bedoeld in artikel 3.7 van de Wet ruimtelijke ordening. Voor zover het besluit geldt als voorbereidingsbesluit, is artikel 3.7, vijfde lid, van die wet niet van toepassing.   
 3.  De gemeenteraad is verplicht binnen een jaar nadat het besluit in werking is getreden het bestemmingsplan of de beheersverordening overeenkomstig het besluit vast te stellen.   
 4.  Indien een bestemmingsplan of een beheersverordening niet in overeenstemming is met het besluit, is het college van burgemeester en wethouders verplicht aan degenen die inzage verlangen in het bestemmingsplan of de beheersverordening, tevens inzage te verlenen in het besluit.   
 
 ### Artikel  8.9  
 
-1.  Bij de verlening van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 2° of 3°](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht van het geldende bestemmingsplan wordt afgeweken en bij de toepassing van [artikel 3.3, derde lid, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt het luchthavenindelingbesluit in acht genomen.   
-2.  In afwijking van [artikel 3.3, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) duurt de in die artikelen bedoelde aanhouding totdat een bestemmingsplan dat in overeenstemming is met het besluit in werking is getreden.   
+1.  Bij de verlening van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, of 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht van het geldende bestemmingsplan wordt afgeweken en bij de toepassing van artikel 3.3, derde lid, van die wet wordt het luchthavenindelingbesluit in acht genomen.   
+2.  In afwijking van artikel 3.3, tweede lid, van de Wet algemene bepalingen omgevingsrecht duurt de in die artikelen bedoelde aanhouding totdat een bestemmingsplan dat in overeenstemming is met het besluit in werking is getreden.   
 3.  Bij de toepassing van de artikelen, genoemd in het eerste lid, kan van het besluit worden afgeweken indien van Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de verklaring is ontvangen dat hij tegen de afwijking geen bezwaar heeft.   
 4.  De verklaring van geen bezwaar die betrekking heeft op het luchthavengebied kan worden geweigerd met het oog op het gebruik van het gebied als luchthaven.   
 5.  De verklaring van geen bezwaar die betrekking heeft op het beperkingengebied kan worden geweigerd met het oog op de veiligheid en de geluidbelasting in verband met de nabijheid van de luchthaven.   
 
 ### Artikel  8.10  
 
-Voor zover het ontwerp van een bestemmingsplan zijn grondslag vindt in de uitvoering van het luchthavenindelingbesluit is [artikel 3.8, eerste lid, onderdeel d, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet van toepassing.  
+Voor zover het ontwerp van een bestemmingsplan zijn grondslag vindt in de uitvoering van het luchthavenindelingbesluit is artikel 3.8, eerste lid, onderdeel d, van de Wet ruimtelijke ordening niet van toepassing.  
 
 ### Artikel  8.11  
 
@@ -1771,7 +1798,7 @@ Voor de mogelijkheid van beroep ingevolge hoofdstuk 8 van de Algemene wet bestuu
 
 ### Artikel  8.12  
 
-1.  Dit artikel is van toepassing op het oprichten of plaatsen van objecten waar geen omgevingsvergunning voor een bouw- of aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a of b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) voor is vereist.   
+1.  Dit artikel is van toepassing op het oprichten of plaatsen van objecten waar geen omgevingsvergunning voor een bouw- of aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onder a of b, van de Wet algemene bepalingen omgevingsrecht voor is vereist.   
 2.  Het is verboden een object op te richten of te plaatsen indien dit in strijd is met een regel in het luchthavenindelingbesluit omtrent de maximale hoogte van objecten.   
 3.  Onze Minister van Verkeer en Waterstaat kan ontheffing verlenen van het verbod. De ontheffing wordt slechts geweigerd in het belang van de veiligheid.   
 4.  De ontheffing wordt voor een bepaalde periode verleend. Aan de ontheffing kunnen beperkingen en voorschriften worden verbonden in het belang van de veiligheid.   
@@ -1830,13 +1857,7 @@ b. de grenswaarden voor de geluidbelasting, waarbij in ieder geval punten in of 
 c. de grenswaarden voor de emissie van de stoffen die lokale luchtverontreiniging veroorzaken.     
 6.  Het besluit kan ten aanzien van de in het tweede en derde lid bedoelde onderwerpen, grenzen stellen aan de maatregelen die de inspecteur-generaal op grond van artikel 8.22 kan treffen.   
 7.  Elk besluit, volgend op het eerste luchthavenverkeerbesluit, biedt een beschermingsniveau ten aanzien van externe veiligheid, geluidbelasting en lokale luchtverontreiniging, dat voor ieder van deze aspecten, gemiddeld op jaarbasis vastgesteld, per saldo gelijkwaardig is aan of beter is dan het niveau zoals dat geboden werd door het eerste besluit.   
-8.  Bij de vaststelling van het luchthavenverkeersbesluit wordt gebruik gemaakt van: 
-
-a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
-
-b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en daarop gebaseerde onderzoeken, en  
-
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en daarop gebaseerde onderzoeken, die ten grondslag hebben gelegen aan het ontwerp-besluit, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken, inventarisaties en gevolgen zijn vervat, bij de vaststelling van het luchthavenverkeersbesluit ouder zijn dan twee jaar, het luchthavenverkeersbesluit een motivering van de actualiteit van die rapporten bevat.     
+8.  Bij de vaststelling van het luchthavenverkeerbesluit kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar.   
 
 ### Artikel  8.18  
 
@@ -1940,7 +1961,7 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in artike
 4.  De tarieven voor de activiteiten, bedoeld in het eerste lid, zijn voor het geheel van de activiteiten kostengeoriënteerd.   
 5.  Onverminderd het vierde lid, zijn de tarieven voor de beveiliging van passagiers en hun bagage, alsmede vracht voor het geheel van de beveiligingsactiviteiten kostengeoriënteerd.   
 6.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de toegerekende opbrengsten in aanmerking uit overige activiteiten van de exploitant van de luchthaven die rechtstreeks verband houden met de activiteiten, bedoeld in het eerste lid.   
-7.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de kosten in aanmerking van structurele maatregelen voor de uitvoering van een bijzondere aanwijzing van Onze Minister van Justitie, bedoeld in [artikel 37ac, tweede lid, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md), voor zover die maatregelen betrekking hebben op de beveiliging van passagiers en hun bagage.   
+7.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de kosten in aanmerking van structurele maatregelen voor de uitvoering van een bijzondere aanwijzing van Onze Minister van Justitie, bedoeld in artikel 37ac, tweede lid, van de Luchtvaartwet, voor zover die maatregelen betrekking hebben op de beveiliging van passagiers en hun bagage.   
 8.  Bij de vaststelling van de tarieven kan, in afwijking van het vierde en vijfde lid, de exploitant van de luchthaven een bijdrage uit andere activiteiten dan die, bedoeld in het eerste en zesde lid, in aanmerking nemen.   
 9.  Bij de vaststelling van de tarieven wordt de bijdrage, bedoeld in het achtste lid, naar rato van de kosten toegerekend aan de activiteiten voor de beveiliging van passagiers en hun bagage, bedoeld in het vijfde lid, en de overige activiteiten ten behoeve van het gebruik van de luchthaven door gebruikers, bedoeld in het zesde lid.   
 10.  De exploitant van de luchthaven verrekent bij de vaststelling van de tarieven, nadat deze zijn bepaald met inachtneming van het tweede tot en met negende lid, het verschil tussen de geraamde en de werkelijke opbrengsten en kosten in verband met de prognoses en de realisatie van het volume van het luchthavenluchtverkeer, het vervoer van passagiers en vracht en van de uitvoering van investeringen, zoals volgt uit de financiële verantwoording over het aan het moment van vaststelling van de tarieven voorafgaande boekjaar.   
@@ -1991,43 +2012,42 @@ d. de gegevens die door de exploitant van de luchthaven moeten worden opgenomen 
 1.  Gebruikers van de luchthaven die gebruik wensen te maken van diensten op maat of specifiek voor hen gereserveerde terminals of delen van terminals, kunnen een verzoek daartoe richten aan de exploitant.   
 2.  De exploitant van de luchthaven stelt relevante, objectieve, transparante en non-discriminatoire criteria vast, op basis waarvan een verzoek van gebruikers van de luchthaven wordt beoordeeld.   
 3.  Naast de criteria, bedoeld in het tweede lid, kan de exploitant van de luchthaven aanvullende criteria hanteren indien de inhoud van het verzoek daartoe noodzaakt. De aanvullende criteria voldoen aan dezelfde eisen als de criteria bedoeld in het tweede lid.   
-4.  Indien binnen vier weken nadat de exploitant van de luchthaven heeft beslist op een verzoek als bedoeld in het eerste lid, daartoe een aanvraag van een gebruiker is ingediend, stelt de raad vast of de beslissing van de exploitant in strijd is met bij of krachtens deze wet gestelde regels. De raad geeft zijn oordeel binnen drie maanden. Indien de raad vaststelt dat de beslissing in strijd is met bij of krachtens deze wet gestelde regels, deelt hij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven neemt binnen vier weken een nieuwe beslissing op het verzoek met inachtneming van de overwegingen van de raad.   
+4.  Indien binnen vier weken nadat de exploitant van de luchthaven heeft beslist op een verzoek als bedoeld in het eerste lid, daartoe een aanvraag van een gebruiker is ingediend, stelt de Autoriteit Consument en Markt vast of de beslissing van de exploitant in strijd is met bij of krachtens deze wet gestelde regels. De Autoriteit Consument en Markt geeft haar oordeel binnen drie maanden. Indien de Autoriteit Consument en Markt vaststelt dat de beslissing in strijd is met bij of krachtens deze wet gestelde regels, deelt zij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven neemt binnen vier weken een nieuwe beslissing op het verzoek met inachtneming van de overwegingen van de Autoriteit Consument en Markt.   
 
 ### Artikel  8.25f  
 
-1.  Indien binnen vier weken na de mededeling, bedoeld in artikel 8.25d, eerste lid, van de vaststelling van de tarieven en voorwaarden bij de raad een aanvraag van een gebruiker of van een representatieve organisatie is ingediend tot vaststelling of de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, treden de tarieven en voorwaarden op de voorgenomen ingangsdatum niet in werking. De raad deelt de exploitant van de luchthaven terstond mede dat een aanvraag van een gebruiker of van een representatieve organisatie is ontvangen.   
-2.  De raad neemt binnen vier weken na ontvangst van de aanvraag een besluit omtrent de inwerkingtreding van de door de exploitant vastgestelde tarieven en voorwaarden. De raad wijst daarbij de tarieven en voorwaarden aan waarvoor, gelet op de aanvraag, de in het eerste lid bedoelde opschorting van de inwerkingtreding noodzakelijk blijft. In plaats van deze aangewezen tarieven en voorwaarden hanteert de exploitant de tarieven en voorwaarden die golden in de periode voorafgaand aan de periode waarvoor de aangewezen tarieven en voorwaarden waren vastgesteld. De tarieven en voorwaarden die niet zijn aangewezen, treden op de door de exploitant voorgenomen ingangsdatum in werking. Het nemen van een besluit als bedoeld in de eerste volzin, blijft achterwege indien binnen de daarin genoemde termijn een besluit over de aanvraag kan worden genomen.   
-3.  De raad beslist zo spoedig mogelijk doch uiterlijk binnen vier maanden na ontvangst van de aanvraag. Deze termijn kan in uitzonderlijke gevallen met twee maanden worden verlengd. De raad doet de aanvrager voor het einde van de in de eerste volzin bedoelde termijn met redenen omkleed mededeling van de verlenging.   
-4.  Indien de raad vaststelt dat de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, deelt hij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven stelt opnieuw de tarieven en voorwaarden vast met inachtneming van de overwegingen van de raad. Nadat de tarieven en voorwaarden opnieuw zijn vastgesteld, trekt de raad het besluit omtrent de inwerkingtreding bedoeld in het tweede lid in. De opnieuw vastgestelde tarieven en voorwaarden gelden vanaf de door de exploitant oorspronkelijk voorgenomen ingangsdatum.   
-5.  Indien de raad heeft vastgesteld dat de tarieven en voorwaarden niet in strijd zijn met bij of krachtens deze wet gestelde regels, trekt hij het besluit omtrent de inwerkingtreding bedoeld in het tweede lid in, en gelden deze tarieven en voorwaarden vanaf de door de exploitant oorspronkelijk voorgenomen ingangsdatum.   
-6.  Eventuele verschillen in tarieven, voortvloeiende uit beslissingen van de raad als bedoeld in het eerste tot en met vijfde lid, worden vereffend bij de hernieuwde vaststelling van de tarieven en voorwaarden.   
+1.  Indien binnen vier weken na de mededeling, bedoeld in artikel 8.25d, eerste lid, van de vaststelling van de tarieven en voorwaarden bij de Autoriteit Consument en Markt een aanvraag van een gebruiker of van een representatieve organisatie is ingediend tot vaststelling of de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, treden de tarieven en voorwaarden op de voorgenomen ingangsdatum niet in werking. De Autoriteit Consument en Markt deelt de exploitant van de luchthaven terstond mede dat een aanvraag van een gebruiker of van een representatieve organisatie is ontvangen.   
+2.  De Autoriteit Consument en Markt neemt binnen vier weken na ontvangst van de aanvraag een besluit omtrent de inwerkingtreding van de door de exploitant vastgestelde tarieven en voorwaarden. De Autoriteit Consument en Markt wijst daarbij de tarieven en voorwaarden aan waarvoor, gelet op de aanvraag, de in het eerste lid bedoelde opschorting van de inwerkingtreding noodzakelijk blijft. In plaats van deze aangewezen tarieven en voorwaarden hanteert de exploitant de tarieven en voorwaarden die golden in de periode voorafgaand aan de periode waarvoor de aangewezen tarieven en voorwaarden waren vastgesteld. De tarieven en voorwaarden die niet zijn aangewezen, treden op de door de exploitant voorgenomen ingangsdatum in werking. Het nemen van een besluit als bedoeld in de eerste volzin, blijft achterwege indien binnen de daarin genoemde termijn een besluit over de aanvraag kan worden genomen.   
+3.  De Autoriteit Consument en Markt beslist zo spoedig mogelijk doch uiterlijk binnen vier maanden na ontvangst van de aanvraag. Deze termijn kan in uitzonderlijke gevallen met twee maanden worden verlengd. De Autoriteit Consument en Markt doet de aanvrager voor het einde van de in de eerste volzin bedoelde termijn met redenen omkleed mededeling van de verlenging.   
+4.  Indien de Autoriteit Consument en Markt vaststelt dat de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, deelt zij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven stelt opnieuw de tarieven en voorwaarden vast met inachtneming van de overwegingen van de Autoriteit Consument en Markt. Nadat de tarieven en voorwaarden opnieuw zijn vastgesteld, trekt de Autoriteit Consument en Markt het besluit omtrent de inwerkingtreding bedoeld in het tweede lid in. De opnieuw vastgestelde tarieven en voorwaarden gelden vanaf de door de exploitant oorspronkelijk voorgenomen ingangsdatum.   
+5.  Indien de Autoriteit Consument en Markt heeft vastgesteld dat de tarieven en voorwaarden niet in strijd zijn met bij of krachtens deze wet gestelde regels, trekt zij het besluit omtrent de inwerkingtreding bedoeld in het tweede lid in, en gelden deze tarieven en voorwaarden vanaf de door de exploitant oorspronkelijk voorgenomen ingangsdatum.   
+6.  Eventuele verschillen in tarieven, voortvloeiende uit beslissingen van de Autoriteit Consument en Markt als bedoeld in het eerste tot en met vijfde lid, worden vereffend bij de hernieuwde vaststelling van de tarieven en voorwaarden.   
 7.  Het eerste lid en artikel 8.25e zijn niet van toepassing op de vaststelling van tarieven en voorwaarden als bedoeld in het vierde lid.   
 8.  De exploitant van de luchthaven hanteert de ingevolge het vierde lid vastgestelde tarieven en voorwaarden gedurende het resterende deel van de periode waarvoor de tarieven en voorwaarden overeenkomstig artikel 8.25d, eerste lid, waren vastgesteld.   
-9.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanvraag, bedoeld in het eerste lid, aan de raad en omtrent de vaststelling van tarieven en voorwaarden, bedoeld in het vierde lid.   
+9.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanvraag, bedoeld in het eerste lid, aan de Autoriteit Consument en Markt en omtrent de vaststelling van tarieven en voorwaarden, bedoeld in het vierde lid.   
 
 ### Artikel  8.25g  
 
-1.  De exploitant van de luchthaven stelt een toerekeningssysteem vast voor de kosten en opbrengsten van de activiteiten, bedoeld in artikel 8.25d, eerste lid, dat voldoet aan de eisen van marktconformiteit, proportionaliteit en integraliteit. De exploitant van de luchthaven legt het toerekeningssysteem ter goedkeuring voor aan de raad.   
+1.  De exploitant van de luchthaven stelt een toerekeningssysteem vast voor de kosten en opbrengsten van de activiteiten, bedoeld in artikel 8.25d, eerste lid, dat voldoet aan de eisen van marktconformiteit, proportionaliteit en integraliteit. De exploitant van de luchthaven legt het toerekeningssysteem ter goedkeuring voor aan de Autoriteit Consument en Markt.   
 2.  De exploitant van de luchthaven voert voor de activiteiten met betrekking tot het gebruik van de luchthaven door gebruikers een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van de uitvoering van de beveiliging van passagiers en hun bagage, bedoeld in artikel 8.25d, vijfde lid, afzonderlijk worden geadministreerd.   
 3.  Op grond van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, stelt de exploitant van de luchthaven jaarlijks een financiële verantwoording op over het voorafgaande boekjaar, die bestaat uit een afzonderlijke exploitatierekening en een overzicht van de toegedeelde materiële vaste activa voor het geheel van de activiteiten, bedoeld in artikel 8.25d, eerste lid. De financiële verantwoording bevat een toelichting en is voorzien van een verklaring van een onafhankelijke accountant.   
-4.  De exploitant van de luchthaven legt binnen vijf maanden na afloop van het boekjaar van de exploitant van de luchthaven de financiële verantwoording over het voorafgaande boekjaar tezamen met de verklaring van de onafhankelijke accountant, over aan de raad en de gebruikers die daarom verzoeken.   
+4.  De exploitant van de luchthaven legt binnen vijf maanden na afloop van het boekjaar van de exploitant van de luchthaven de financiële verantwoording over het voorafgaande boekjaar tezamen met de verklaring van de onafhankelijke accountant, over aan de Autoriteit Consument en Markt en de gebruikers die daarom verzoeken.   
 5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en goedkeuring van het toerekeningssysteem, bedoeld in het eerste lid, de toedeling van activa aan de activiteiten, bedoeld in artikel 8.25d, eerste lid, de inrichting van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, en omtrent de financiële verantwoording, bedoeld in het derde lid.   
-6.  Op de voorbereiding van een besluit omtrent goedkeuring van het toerekeningssysteem is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-7.  Onverminderd [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen de gebruikers van de luchthaven hun zienswijze naar voren brengen over het voorgenomen besluit omtrent goedkeuring van het toerekeningssysteem.   
+6.  Op de voorbereiding van een besluit omtrent goedkeuring van het toerekeningssysteem is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+7.  Onverminderd artikel 3:15 van de Algemene wet bestuursrecht, kunnen de gebruikers van de luchthaven hun zienswijze naar voren brengen over het voorgenomen besluit omtrent goedkeuring van het toerekeningssysteem.   
 8.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide Kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  8.25ga  
 
-De exploitant van de luchthaven zendt de raad en de gebruikers binnen vijf maanden na afloop van het boekjaar een rapportage omtrent het gerealiseerde kwaliteitsniveau van de geleverde diensten ten behoeve van het gebruik van de luchthaven, bedoeld in artikel 8.25e, eerste lid, over het voorafgaande boekjaar, mede aan de hand van ervaringen van passagiers. De rapportage omtrent het gerealiseerde kwaliteitsniveau geschiedt aan de hand van de indicatoren, bedoeld in artikel 8.25e, eerste lid.  
+De exploitant van de luchthaven zendt de Autoriteit Consument en Markt en de gebruikers binnen vijf maanden na afloop van het boekjaar een rapportage omtrent het gerealiseerde kwaliteitsniveau van de geleverde diensten ten behoeve van het gebruik van de luchthaven, bedoeld in artikel 8.25e, eerste lid, over het voorafgaande boekjaar, mede aan de hand van ervaringen van passagiers. De rapportage omtrent het gerealiseerde kwaliteitsniveau geschiedt aan de hand van de indicatoren, bedoeld in artikel 8.25e, eerste lid.  
 
 ### Artikel  8.25h  
 
-1.  De exploitant van de luchthaven zendt de raad een afschrift van de mededeling, bedoeld in artikel 8.25d, eerste lid, en van de mededeling, bedoeld in artikel 8.25e, eerste lid.   
-2.  De raad is bevoegd van de exploitant van de luchthaven alle inlichtingen en gegevens te verlangen, die hij voor de uitoefening van zijn taak op grond van deze wet redelijkerwijs nodig acht.   
-3.  De exploitant van de luchthaven verleent binnen de door de raad gestelde redelijke termijn alle medewerking die deze redelijkerwijs kan verlangen bij de uitoefening van zijn bevoegdheden op grond van deze wet. [Artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-4.  Onze Minister van Verkeer en Waterstaat en Onze Minister van Justitie verstrekken de raad desgevraagd de inlichtingen en gegevens die deze voor de uitoefening van zijn taak nodig heeft.   
-5.  De raad gebruikt de gegevens of inlichtingen die hij heeft verkregen op grond van deze wet uitsluitend voor de uitoefening van zijn bevoegdheden op grond van deze wet.   
-6.  Ingeval van overtreding van het derde lid is [hoofdstuk 8 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md), met uitzondering van de [artikelen 71 tot en met 76](../../../../wet/mededingingswet/BWBR0008691/README.md) en [artikel 80](../../../../wet/mededingingswet/BWBR0008691/README.md), van overeenkomstige toepassing.   
+1.  De exploitant van de luchthaven zendt de Autoriteit Consument en Markt een afschrift van de mededeling, bedoeld in artikel 8.25d, eerste lid, en van de mededeling, bedoeld in artikel 8.25e, eerste lid.   
+2.  De Autoriteit Consument en Markt is bevoegd van de exploitant van de luchthaven alle inlichtingen en gegevens te verlangen, die zij voor de uitoefening van haar taak op grond van deze wet redelijkerwijs nodig acht.   
+3.  De exploitant van de luchthaven verleent binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking die deze redelijkerwijs kan verlangen bij de uitoefening van haar bevoegdheden op grond van deze wet. Artikel 4:15 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+4.  Onze Minister van Verkeer en Waterstaat en Onze Minister van Justitie verstrekken de Autoriteit Consument en Markt desgevraagd de inlichtingen en gegevens die deze voor de uitoefening van haar taak nodig heeft.   
+5.  Ingeval van overtreding van het derde lid is hoofdstuk 8 van de Mededingingswet, met uitzondering van de artikelen 71 tot en met 76 en artikel 80, van overeenkomstige toepassing.   
 
 ### Artikel  8.25j  
 
@@ -2093,6 +2113,8 @@ b. de ter uitvoering van artikel 8.22 getroffen maatregelen en van de doelmatigh
 
 ####Gegevensverstrekking, geluidbelastingkaart en actieplan in verband met de richtlijn inzake de evaluatie en de beheersing van omgevingslawaai
 
+Vervallen per 01-11-2009   
+
 ### Afdeling  8.6  
 
 ####Financiële aspecten
@@ -2101,7 +2123,7 @@ b. de ter uitvoering van artikel 8.22 getroffen maatregelen en van de doelmatigh
 
 1.  Indien een belanghebbende ten gevolge van het luchthavenindelingbesluit of het luchthavenverkeerbesluit schade lijdt of zal lijden, welke redelijkerwijs niet of niet geheel te zijnen laste behoort te blijven en waarvan de vergoeding niet of niet voldoende anderszins is verzekerd, kent Onze Minister van Verkeer en Waterstaat hem op aanvraag een naar billijkheid te bepalen schadevergoeding toe.   
 2.  Een aanvraag om schadevergoeding wordt ingediend binnen vijf jaar nadat de desbetreffende bepaling van het luchthavenindelingbesluit of het luchthavenverkeerbesluit of het desbetreffende besluit op grond van een van genoemde besluiten onherroepelijk is geworden. Van de aanvrager heft Onze Minister van Verkeer en Waterstaat een recht ten bedrage van € 300. De aanvrager wordt gewezen op de verschuldigdheid van het recht en wordt medegedeeld dat het verschuldigde bedrag binnen vier weken na de dag van verzending van de mededeling op de door Onze Minister van Verkeer en Waterstaat aangegeven rekening moet zijn bijgeschreven. Indien het bedrag niet binnen deze termijn is bijgeschreven, wordt de aanvrager niet ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de aanvrager in verzuim is geweest. Indien op de aanvraag geheel of gedeeltelijk positief wordt beslist, stort Onze Minister van Verkeer en Waterstaat het betaalde recht terug.   
-3.  [Afdeling 6.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) blijft buiten toepassing voor zover de belanghebbende met betrekking tot de schade een beroep doet of kan doen op een schadevergoeding als bedoeld in het eerste lid.   
+3.  Afdeling 6.1 van de Wet ruimtelijke ordening blijft buiten toepassing voor zover de belanghebbende met betrekking tot de schade een beroep doet of kan doen op een schadevergoeding als bedoeld in het eerste lid.   
 
 ### Artikel  8.32  
 
@@ -2188,13 +2210,13 @@ Deze afdeling is van toepassing op luchthavens van regionale betekenis waarvoor 
 
 ### Artikel  8.43  
 
-1.  Provinciale staten stellen bij verordening voor de luchthaven een luchthavenbesluit vast. Provinciale staten kunnen de bevoegdheid tot het vaststellen van deze verordening niet overdragen als bedoeld in [artikel 152 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md).   
+1.  Provinciale staten stellen bij verordening voor de luchthaven een luchthavenbesluit vast. Provinciale staten kunnen de bevoegdheid tot het vaststellen van deze verordening niet overdragen als bedoeld in artikel 152 van de Provinciewet.   
 2.  Een luchthavenbesluit bevat bepalingen omtrent: 
 
 a. het luchthavenluchtverkeer, en  
 
 b. de ruimtelijke indeling van het gebied van en rond de luchthaven.     
-3.  [Artikel 107 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) is niet van toepassing, tenzij op grond van [artikel 106 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) een plusregio is ingesteld.   
+3.  Artikel 107 van de Provinciewet is niet van toepassing, tenzij op grond van artikel 106 van de Wet gemeenschappelijke regelingen een plusregio is ingesteld.   
 
 ### Artikel  8.44  
 
@@ -2203,22 +2225,22 @@ b. de ruimtelijke indeling van het gebied van en rond de luchthaven.
 a. grenswaarden en regels voor zover deze noodzakelijk zijn met het oog op de geluidbelasting, en  
 
 b. regels voor zover deze noodzakelijk zijn met het oog op de vliegveiligheid.     
-2.  Een luchthavenbesluit kan tevens regels of grenswaarden bevatten die noodzakelijk zijn met het oog op het externe-veiligheidsrisico of de lokale luchtverontreiniging.   
-3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de in luchthavenbesluiten op te nemen grenswaarden en regels. Deze maatregel stelt in ieder geval regels omtrent het opnemen van grenswaarden voor de geluidbelasting. Bij deze maatregel kan een onderscheid worden gemaakt tussen categorieën luchthavens en tussen vormen van luchtvaart die gebruik maken van luchthavens.   
-4.  De artikelen 8.19 tot en met 8.21 zijn van overeenkomstige toepassing.   
-5.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
-6.  Bij de vaststelling van het luchthavenbesluit wordt gebruik gemaakt van: 
+2.  Binnen de in het eerste lid, onder a, bedoelde grenswaarden kan in ieder geval een grenswaarde exclusief worden toegewezen voor vluchten ten behoeve van: 
 
-a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
+a. spoedeisende hulpverlening;  
 
-b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en daarop gebaseerde onderzoeken, en  
-
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en daarop gebaseerde onderzoeken, die ten grondslag hebben gelegen aan het ontwerp-besluit, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken, inventarisaties en gevolgen zijn vervat, bij de vaststelling van het luchthavenbesluit ouder zijn dan twee jaar, het luchthavenbesluit een motivering van de actualiteit van die rapporten bevat.     
+b. de uitoefening van politietaken als bedoeld in artikel 2 van de Politiewet 1993.     
+3.  Een luchthavenbesluit kan tevens regels of grenswaarden bevatten die noodzakelijk zijn met het oog op het externe-veiligheidsrisico of de lokale luchtverontreiniging.   
+4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de in luchthavenbesluiten op te nemen grenswaarden en regels. Deze maatregel stelt in ieder geval regels omtrent het opnemen van grenswaarden voor de geluidbelasting. Bij deze maatregel kan een onderscheid worden gemaakt tussen categorieën luchthavens en tussen vormen van luchtvaart die gebruik maken van luchthavens.   
+5.  De artikelen 8.19 tot en met 8.21 zijn van overeenkomstige toepassing.   
+6.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+7.  Bij de vaststelling van het luchthavenbesluit kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar.   
 
 ### Artikel  8.45  
 
 1.  Zodra gedeputeerde staten constateren dat een in het luchthavenbesluit opgenomen grenswaarde is overschreden, schrijven zij maatregelen voor die naar hun oordeel bijdragen aan het terugdringen van de belasting vanwege het luchthavenluchtverkeer binnen de grenswaarden.   
-2.  Artikel 8.22, derde en vierde lid, is van overeenkomstige toepassing met dien verstande dat gedeputeerde staten in de plaats treden van de inspecteur-generaal. Artikel 8.44, vierde lid, is van overeenkomstige toepassing ten aanzien van de voorgeschreven maatregel.   
+2.  Artikel 8.22, derde en vierde lid, is van overeenkomstige toepassing met dien verstande dat gedeputeerde staten in de plaats treden van de inspecteur-generaal. Artikel 8.44, vijfde lid, is van overeenkomstige toepassing ten aanzien van de voorgeschreven maatregel.   
+3.  Gedeputeerde staten schrijven geen maatregelen als bedoeld in het eerste lid voor met betrekking tot de overschrijding van de grenswaarde die is veroorzaakt door vluchten als bedoeld in artikel 8.44, tweede lid.   
 
 ### Artikel  8.46  
 
@@ -2228,7 +2250,7 @@ a. vrijstelling verlenen van een regel in het luchthavenbesluit;
 
 b. een in het luchthavenbesluit vastgelegde grenswaarde voor geluid vervangen door een andere grenswaarde.     
 2.  Aan een vrijstelling of vervanging kunnen beperkingen en voorschriften worden verbonden met het oog op de geluidbelasting, het externe-veiligheidsrisico, de vliegveiligheid of de lokale luchtverontreiniging.   
-3.  Artikel 8.23, tweede lid, is van toepassing. Artikel 8.44, vierde lid, is van overeenkomstige toepassing ten aanzien van de beperkingen en voorschriften.   
+3.  Artikel 8.23, tweede lid, is van toepassing. Artikel 8.44, vijfde lid, is van overeenkomstige toepassing ten aanzien van de beperkingen en voorschriften.   
 
 ### Artikel  8.47  
 
@@ -2249,7 +2271,7 @@ Provinciale staten nemen bij de vaststelling van het luchthavenbesluit het belei
 
 ### Artikel  8.48  
 
-Op de voorbereiding van een luchthavenbesluit of op de voorbereiding van een wijziging van een luchthavenbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
+Op de voorbereiding van een luchthavenbesluit of op de voorbereiding van een wijziging van een luchthavenbesluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
 
 ### Artikel  8.49  
 
@@ -2298,7 +2320,7 @@ Indien de exploitant van een luchthaven tarieven en voorwaarden vaststelt voor h
 
 1.  De exploitant van de luchthaven draagt zorg voor het registreren van de milieubelasting en indien van toepassing het externe-veiligheidsrisico vanwege het luchthavenluchtverkeer. Hij verricht de berekeningen die voor die registratie noodzakelijk zijn. Het registreren wordt zodanig uitgevoerd dat een vergelijking mogelijk is met de in het luchthavenbesluit opgenomen grenswaarden.   
 2.  Provinciale staten kunnen bij verordening regels stellen omtrent de registratie en omtrent de berekeningen die daartoe noodzakelijk zijn.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de registratie van de milieubelasting en indien van toepassing het externe-veiligheidsrisico voor zover op grond van artikel 8.44, derde lid, nadere regels zijn voorgeschreven. Hierbij worden tevens regels voorgeschreven omtrent de berekeningen die daartoe noodzakelijk zijn. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de registratie van de milieubelasting en indien van toepassing het externe-veiligheidsrisico voor zover op grond van artikel 8.44, vierde lid, nadere regels zijn voorgeschreven. Hierbij worden tevens regels voorgeschreven omtrent de berekeningen die daartoe noodzakelijk zijn. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 4.  De exploitant van de luchthaven verstrekt aan gedeputeerde staten: 
 
 a. de op grond van het eerste tot en met derde lid geregistreerde gegevens;  
@@ -2329,7 +2351,7 @@ Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen regels worden ge
 
 ### Artikel  8.58  
 
-1.  Provinciale staten stellen voor iedere luchthaven een commissie regionaal overleg luchthaven in. De [artikelen 107](../../../../wet/provinciewet/BWBR0005645/README.md) en [152 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) zijn niet van toepassing.   
+1.  Provinciale staten stellen voor iedere luchthaven een commissie regionaal overleg luchthaven in. De artikelen 107 en 152 van de Provinciewet zijn niet van toepassing.   
 2.  De commissie bestaat uit een onafhankelijke voorzitter en in ieder geval uit vertegenwoordigers van: 
 
 a. gemeenten waarin het beperkingengebied geheel of gedeeltelijk is gelegen,  
@@ -2351,6 +2373,8 @@ d. omwonenden van de luchthaven.
 ### §  8.3.2.8  
 
 ####Aanwijzingen
+
+Vervallen per 01-10-2012   
 
 ### §  8.3.2.9  
 
@@ -2378,7 +2402,7 @@ Deze afdeling is van toepassing op luchthavens van regionale betekenis waarvoor 
 
 ### Artikel  8.64  
 
-1.  Provinciale staten stellen bij verordening een luchthavenregeling vast voor een luchthaven. Provinciale staten kunnen de bevoegdheid tot het vaststellen van deze verordening niet overdragen als bedoeld in [artikel 152 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md).   
+1.  Provinciale staten stellen bij verordening een luchthavenregeling vast voor een luchthaven. Provinciale staten kunnen de bevoegdheid tot het vaststellen van deze verordening niet overdragen als bedoeld in artikel 152 van de Provinciewet.   
 2.  Een luchthavenregeling bevat regels omtrent het luchthavenluchtverkeer voor zover die regels noodzakelijk zijn met het oog op de geluidbelasting vanwege het luchthavenluchtverkeer. Een luchthavenregeling kan tevens bevatten: 
 
 a. grenswaarden die noodzakelijk zijn met het oog op het externe-veiligheidsrisico of de geluidbelasting; of  
@@ -2408,6 +2432,8 @@ Indien provinciale staten voor een luchthaven een commissie regionaal overleg lu
 ### §  8.3.3.5  
 
 ####Aanwijzingen
+
+Vervallen per 01-10-2012   
 
 ### Titel  8.4  
 
@@ -2440,7 +2466,7 @@ Deze afdeling is van toepassing op luchthavens van nationale betekenis waarvoor 
 ### Artikel  8.70  
 
 1.  Voor een luchthaven waarvan op grond van artikel 8.1, tweede lid, is bepaald dat deze van nationale betekenis is, wordt het luchthavenbesluit bij algemene maatregel van bestuur vastgesteld.   
-2.  De artikelen 8.43, tweede lid, 8.44, eerste, tweede en vierde lid, 8.45, 8.46 en 8.47, eerste en tweede lid, zijn van overeenkomstige toepassing met dien verstande dat voor de toepassing van de artikelen 8.45, eerste lid, en 8.46, eerste lid, Onze Minister van Verkeer en Waterstaat in de plaats treedt van gedeputeerde staten.   
+2.  De artikelen 8.43, tweede lid, 8.44, eerste, tweede, derde en vijfde lid, 8.45, 8.46 en 8.47, eerste en tweede lid, zijn van overeenkomstige toepassing met dien verstande dat voor de toepassing van de artikelen 8.45, eerste en derde lid, en 8.46, eerste lid, Onze Minister van Infrastructuur en Milieu in de plaats treedt van gedeputeerde staten.   
 3.  Het luchthavenbesluit bevat omtrent de ruimtelijke indeling van het gebied van en rond de luchthaven in ieder geval regels ten aanzien van: 
 
 a. de bestemming en het gebruik van grond in verband met het externe-veiligheidsrisico vanwege het luchthavenluchtverkeer;  
@@ -2448,19 +2474,25 @@ a. de bestemming en het gebruik van grond in verband met het externe-veiligheids
 b. de bestemming en het gebruik van grond in verband met de geluidbelasting vanwege het luchthavenluchtverkeer;  
 
 c. de bestemming en het gebruik van de grond waaronder begrepen de maximale hoogte van objecten in, op of boven de grond, in verband met de vliegveiligheid.     
-4.  Bij het vaststellen van het luchthavenbesluit worden de nadere regels, bedoeld in artikel 8.44, derde lid, en artikel 8.47, derde lid, in acht genomen.   
-5.  Bij de vaststelling van het luchthavenbesluit wordt gebruik gemaakt van: 
-
-a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
-
-b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en daarop gebaseerde onderzoeken, en  
-
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en daarop gebaseerde onderzoeken, die ten grondslag hebben gelegen aan het ontwerp-besluit, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken, inventarisaties en gevolgen zijn vervat, bij de vaststelling van het luchthavenbesluit ouder zijn dan twee jaar, het luchthavenbesluit een motivering van de actualiteit van die rapporten bevat.     
+4.  Bij het vaststellen van het luchthavenbesluit worden de nadere regels, bedoeld in artikel 8.44, vierde lid, en artikel 8.47, derde lid, in acht genomen.   
+5.  Bij de vaststelling van het luchthavenbesluit kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar.   
 6.  Ten aanzien van de burgerluchthaven Twente wordt het luchthavenbesluit of een wijziging daarvan, in afwijking van het eerste lid, vastgesteld bij besluit van Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Artikel 8.71 is van overeenkomstige toepassing.   
 
 ### Artikel  8.71  
 
 De voordracht voor een luchthavenbesluit of de voordracht tot een wijziging daarvan wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen zesweken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister van Verkeer en Waterstaat te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan beide kamers der Staten-Generaal overgelegd.  
+
+### Artikel  8.71a  
+
+Artikel 8.23a is van overeenkomstige toepassing met dien verstande dat: 
+
+a. in de aanhef van het eerste lid in plaats van «krachtens artikel 8.15 gestelde voorschriften» wordt gelezen «het bepaalde in een luchthavenbesluit» en in plaats van «de commissie regionaal overleg luchthaven Schiphol, bedoeld in artikel 8.34 » wordt gelezen: de commissie regionaal overleg van de betreffende luchthaven, bedoeld in artikel 8.75;  
+
+b. in de onderdelen a en b van het eerste lid in plaats van «het luchthavenverkeerbesluit» wordt gelezen: het luchthavenbesluit;  
+
+c. in het zesde lid in plaats van «de artikelen 8.13, 8.14 of 8.24 » wordt gelezen: artikel 8.71;  
+
+d. in het achtste en negende lid in plaats van «de commissie regionaal overleg luchthaven Schiphol, bedoeld in artikel 8.34 » wordt gelezen: de commissie regionaal overleg van de betreffende luchthaven, bedoeld in artikel 8.75.    
 
 ### §  8.4.2.3  
 
@@ -2520,7 +2552,7 @@ Deze afdeling is van toepassing op luchthavens van nationale betekenis waarvoor 
 
 ### Artikel  8.77  
 
-1.  Voor een luchthaven die is gelegen buiten provinciegrenzen zoals bepaald bij of krachtens de [Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), wordt bij regeling van Onze Minister van Verkeer en Waterstaat een luchthavenregeling vastgesteld.   
+1.  Voor een luchthaven die is gelegen buiten provinciegrenzen zoals bepaald bij of krachtens de Provinciewet, wordt bij regeling van Onze Minister van Verkeer en Waterstaat een luchthavenregeling vastgesteld.   
 2.  Artikel 8.64, tweede tot en met vierde en zesde lid, zijn van overeenkomstige toepassing met dien verstande dat voor de toepassing van de artikelen 8.45, eerste lid, en 8.46, eerste lid, Onze Minister van Verkeer en Waterstaat in de plaats treedt van gedeputeerde staten.   
 
 ### §  8.4.3.3  
@@ -2610,7 +2642,7 @@ Deze paragraaf is van toepassing op de luchthaven Schiphol.
 
 ### Artikel  8a.38  
 
-1.  Met betrekking tot de financiering en de bekostiging van de kosten van de uitvoering van artikel 8.32 wordt onder de naam «geluidsheffing burgerluchtvaart» een heffing geheven. Naast de geluidsheffing burgerluchtvaart wordt een heffing geheven ter financiering van de kosten van de uitvoering van artikel 8.33, alsmede de kosten van het Schadeschap Luchthaven Schiphol en van zijn uitspraken voor zover deze betrekking hebben op de uitvoering van [artikel 9, eerste lid, tweede lid, onderdeel a, en de leden 3a, 3f en 3g, van de Gemeenschappelijke regeling Schadeschap Luchthaven Schiphol](../../../../ministeriele-regeling/gemeenschappelijke/regeling/schadeschap/luchthaven/schiphol/BWBR0009989/README.md).   
+1.  Met betrekking tot de financiering en de bekostiging van de kosten van de uitvoering van artikel 8.32 wordt onder de naam «geluidsheffing burgerluchtvaart» een heffing geheven. Naast de geluidsheffing burgerluchtvaart wordt een heffing geheven ter financiering van de kosten van de uitvoering van artikel 8.33, alsmede de kosten van het Schadeschap Luchthaven Schiphol en van zijn uitspraken voor zover deze betrekking hebben op de uitvoering van artikel 9, eerste lid, tweede lid, onderdeel a, en de leden 3a, 3f en 3g, van de Gemeenschappelijke regeling Schadeschap Luchthaven Schiphol.   
 2.  De heffingen worden geheven ter zake van het landen met een burgerluchtvaartuig tot het tijdstip waarop de kosten als bedoeld in het eerste lid, zijn voldaan.   
 3.  De heffingen worden geheven van de natuurlijke persoon of de rechtspersoon die als eigenaar of houder van een burgerluchtvaartuig dit te zijner beschikking heeft en dit onder zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer. De natuurlijke persoon of rechtspersoon, bedoeld in de eerste volzin, is in ieder geval belanghebbende bij een uitspraak van het Schadeschap Luchthaven Schiphol als bedoeld in het eerste lid, tweede volzin.   
 4.  De geluidsheffing burgerluchtvaart wordt geheven naar de geluidsproduktie van het burgerluchtvaartuig uitgedrukt in een aantal rekeneenheden. De geluidsproduktie wordt bepaald met toepassing van bij of krachtens algemene maatregel van bestuur te bepalen formules.   
@@ -2627,31 +2659,31 @@ b. € 40,– vanaf het jaar 2010, met dien verstande dat deze verhoging met ing
 ### Artikel  8a.39  
 
 1.  De heffingen worden door Onze Minister van Verkeer en Waterstaat geheven.   
-2.  Onverminderd het overigens in dit artikel bepaalde worden de heffingen geheven met overeenkomstige toepassing van de [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met dien verstande dat van [die wet](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing blijven, de [artikelen 2, vierde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [37](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [38](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [54](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) alsmede [68 tot en met 88](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
-3.  De bevoegdheden en de verplichtingen van de hierna vermelde, in de [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) genoemde functionarissen gelden met betrekking tot de heffingen voor de daarachter genoemde functionarissen: 
+2.  Onverminderd het overigens in dit artikel bepaalde worden de heffingen geheven met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen, met dien verstande dat van die wet buiten toepassing blijven, de artikelen 2, vierde lid, 37, 38, 47a, 48, 52, 53 en 54 alsmede 68 tot en met 88.   
+3.  De bevoegdheden en de verplichtingen van de hierna vermelde, in de Algemene wet inzake rijksbelastingen genoemde functionarissen gelden met betrekking tot de heffingen voor de daarachter genoemde functionarissen: 
 
 a. Onze Minister van Financiën: Onze Minister van Verkeer en Waterstaat;  
 
 b. de inspecteur: de door Onze Minister van Verkeer en Waterstaat daartoe aan te wijzen functionaris van de exploitant van de luchthaven;     
-4.  In afwijking van het derde lid, onderdeel b, treedt voor de toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) de door Onze Minister van Verkeer en Waterstaat aan te wijzen ambtenaar in de plaats van de inspecteur. Voorts treedt voor de toepassing van [artikel 28a van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) Onze Minister van Verkeer en Waterstaat in de plaats van Onze Minister van Financiën.   
+4.  In afwijking van het derde lid, onderdeel b, treedt voor de toepassing van hoofdstuk V van de Algemene wet inzake rijksbelastingen de door Onze Minister van Verkeer en Waterstaat aan te wijzen ambtenaar in de plaats van de inspecteur. Voorts treedt voor de toepassing van artikel 28a van de Algemene wet inzake rijksbelastingen Onze Minister van Verkeer en Waterstaat in de plaats van Onze Minister van Financiën.   
 5.  De heffingen worden geheven bij wege van aanslag. Zij worden geheven over een bij regeling van Onze Minister van Verkeer en Waterstaat te bepalen tijdvak.   
 
 ### Artikel  8a.40  
 
-1.  De heffingen worden ingevorderd door de door Onze Minister van Verkeer en Waterstaat aan te wijzen functionaris van de exploitant van de luchthaven, door de door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Financiën aan te wijzen ambtenaar van de Dienst der Domeinen en door de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
-2.  Onverminderd het overigens in dit artikel bepaalde worden de heffingen ingevorderd met overeenkomstige toepassing van de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md), met dien verstande dat van de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing blijven de [artikelen 9, eerste tot en met negende lid](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [62](../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Voorts blijven bij de toepassing van [artikel 66 van die wet](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) de [artikelen 76](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80, tweede, derde en vierde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [82](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [87 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing.   
+1.  De heffingen worden ingevorderd door de door Onze Minister van Verkeer en Waterstaat aan te wijzen functionaris van de exploitant van de luchthaven, door de door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Financiën aan te wijzen ambtenaar van de Dienst der Domeinen en door de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990.   
+2.  Onverminderd het overigens in dit artikel bepaalde worden de heffingen ingevorderd met overeenkomstige toepassing van de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen, met dien verstande dat van de Invorderingswet 1990 buiten toepassing blijven de artikelen 9, eerste tot en met negende lid, 59 en 62. Voorts blijven bij de toepassing van artikel 66 van die wet de artikelen 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87 van de Algemene wet inzake rijksbelastingen buiten toepassing.   
 3.  Met betrekking tot de invordering geldt vervolgens dat: 
 
 a. de belastingaanslagen terstond en tot het volle bedrag invorderbaar zijn;  
 
-b. wat betreft de toepassing van [artikel 8, eerste lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) uitsluitend bevoegd is de functionaris of ambtenaar bedoeld in het eerste lid. De in de [artikelen 11](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [12](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [15, eerste lid, onderdeel a, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde bevoegdheden komen uitsluitend toe aan de functionaris of ambtenaar, bedoeld in het eerste lid. De in [artikel 26 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde bevoegdheid komt uitsluitend toe aan de door Onze Minister van Verkeer en Waterstaat aan te wijzen ambtenaar, met dien verstande dat voor de toepassing van [artikel 26 van die wet](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) de door Onze Minister van Financiën bij regeling gestelde regels van toepassing zijn;  
+b. wat betreft de toepassing van artikel 8, eerste lid, van de Invorderingswet 1990 uitsluitend bevoegd is de functionaris of ambtenaar bedoeld in het eerste lid. De in de artikelen 11, 12 en 15, eerste lid, onderdeel a, van de Invorderingswet 1990 bedoelde bevoegdheden komen uitsluitend toe aan de functionaris of ambtenaar, bedoeld in het eerste lid. De in artikel 26 van de Invorderingswet 1990 bedoelde bevoegdheid komt uitsluitend toe aan de door Onze Minister van Verkeer en Waterstaat aan te wijzen ambtenaar, met dien verstande dat voor de toepassing van artikel 26 van die wet de door Onze Minister van Financiën bij regeling gestelde regels van toepassing zijn;  
 
-c. de overige bij de invordering van toepassing zijnde bevoegdheden, met uitzondering van die bedoeld in de [artikelen 24, tweede en derde lid](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [58 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), uitsluitend toekomen aan de ontvanger, bedoeld in het eerste lid;  
+c. de overige bij de invordering van toepassing zijnde bevoegdheden, met uitzondering van die bedoeld in de artikelen 24, tweede en derde lid, 25 en 58 van de Invorderingswet 1990, uitsluitend toekomen aan de ontvanger, bedoeld in het eerste lid;  
 
-d. de bevoegdheid bedoeld in [artikel 24, tweede en derde lid, van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) zowel toekomt aan de functionaris of ambtenaar bedoeld in het eerste lid als aan de ontvanger bedoeld in het eerste lid;  
+d. de bevoegdheid bedoeld in artikel 24, tweede en derde lid, van de Invorderingswet 1990 zowel toekomt aan de functionaris of ambtenaar bedoeld in het eerste lid als aan de ontvanger bedoeld in het eerste lid;  
 
-e. de bevoegdheden bedoeld in [artikel 25](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [artikel 58 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) toekomen, indien de functionaris of ambtenaar bedoeld in het eerste lid met de invordering is belast, aan deze functionaris of ambtenaar en indien de ontvanger, bedoeld in het eerste lid, met de invordering is belast, aan de ontvanger.     
-4.  In het kader van het verzet tegen de tenuitvoerlegging van het dwangbevel moet in [artikel 17 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de ontvanger die het dwangbevel heeft uitgevaardigd» telkens worden gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.   
+e. de bevoegdheden bedoeld in artikel 25 en artikel 58 van de Invorderingswet 1990 toekomen, indien de functionaris of ambtenaar bedoeld in het eerste lid met de invordering is belast, aan deze functionaris of ambtenaar en indien de ontvanger, bedoeld in het eerste lid, met de invordering is belast, aan de ontvanger.     
+4.  In het kader van het verzet tegen de tenuitvoerlegging van het dwangbevel moet in artikel 17 van de Invorderingswet 1990 voor «de ontvanger die het dwangbevel heeft uitgevaardigd» telkens worden gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.   
 5.  Betaling van de heffingen dient te geschieden aan de functionaris of ambtenaar bedoeld in het eerste lid. Na de betekening van het dwangbevel dient te worden betaald aan de ontvanger, bedoeld in het eerste lid, die is vermeld op het dwangbevel.   
 
 ### Artikel  8a.41  
@@ -2677,7 +2709,7 @@ e. de bevoegdheden bedoeld in [artikel 25](../../../../wet/invorderingswet/1990/
 
 1.  Provinciale staten kunnen bij verordening bepalen dat met betrekking tot de financiering en de bekostiging van de kosten van de uitvoering van artikel 8.56, eerste lid, onder de naam «geluidsheffing burgerluchtvaart» een heffing wordt geheven. Tevens kunnen provinciale staten bij verordening bepalen dat een heffing wordt geheven ter financiering van de kosten van de uitvoering van artikel 8.57.   
 2.  De heffingen worden geheven ter zake van het landen met een burgerluchtvaartuig tot het tijdstip waarop de kosten als bedoeld in het eerste lid, zijn voldaan.   
-3.  Voor de heffing en invordering zijn de [artikelen 220](../../../../wet/provinciewet/BWBR0005645/README.md), [220a](../../../../wet/provinciewet/BWBR0005645/README.md), [221](../../../../wet/provinciewet/BWBR0005645/README.md) en [227 tot en met 232h van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
+3.  Voor de heffing en invordering zijn de artikelen 220, 220a, 221 en 227 tot en met 232h van de Provinciewet van overeenkomstige toepassing.   
 
 ### Titel  8A.4  
 
@@ -2725,7 +2757,7 @@ b. voegt bij de geluidbelastingkaart een overzicht van de belangrijkste punten v
 a. het te voeren beleid om geluidbelasting L <sub>den</sub> en geluidbelasting L <sub>night</sub> te beperken, en  
 
 b. de voorgenomen in de eerstvolgende vijf jaar te treffen maatregelen om overschrijding van in het luchthavenverkeerbesluit of luchthavenbesluit vastgestelde waarden van geluidbelasting L <sub>den</sub> of geluidbelasting L <sub>night</sub> te voorkomen of ongedaan te maken en de te verwachten effecten van die maatregelen.     
-3.  Op de voorbereiding van een actieplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
+3.  Op de voorbereiding van een actieplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
 4.  Bij regeling van Onze Minister van Verkeer en Waterstaat worden nadere regels gesteld omtrent de inhoud, vormgeving en inrichting van het actieplan.   
 5.  Artikel 8a.47 is van overeenkomstige toepassing op de vaststelling van actieplannen.   
 
@@ -2746,7 +2778,16 @@ Indien de belangrijke luchthaven een luchthaven van regionale betekenis is, tred
 
 ### Artikel  8a.50a  
 
-Indien ten aanzien van de burgerluchthaven Twente een vrijstelling, als bedoeld in artikel 8a.50, tweede lid, van het verbod in artikel 8.1a, derde lid, wordt verleend, is op de voorbereiding van die vrijstelling [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+Indien ten aanzien van de burgerluchthaven Twente een vrijstelling, als bedoeld in artikel 8a.50, tweede lid, van het verbod in artikel 8.1a, derde lid, wordt verleend, is op de voorbereiding van die vrijstelling afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
+
+### Artikel  8a.50b  
+
+1.  Onze Minister van Infrastructuur en Milieu kan op aanvraag van een exploitant van een luchthaven ontheffing verlenen van een regel die met het oog op de geluidbelasting is opgenomen in een luchthavenbesluit of luchthavenregeling voor een luchthaven van nationale betekenis.   
+2.  Gedeputeerde staten kunnen op aanvraag van een exploitant van een luchthaven ontheffing verlenen van een regel die met het oog op de geluidbelasting is opgenomen in een luchthavenbesluit of luchthavenregeling voor een luchthaven van regionale betekenis.   
+3.  Een ontheffing kan slechts worden verleend voor een bepaalde in de ontheffing vast te stellen termijn van ten hoogste een jaar.   
+4.  Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.   
+5.  Gedeputeerde staten doen zo spoedig mogelijk na de verlening van een ontheffing hiervan mededeling aan Onze Minister van Infrastructuur en Milieu.   
+6.  De exploitant maakt de beslissing omtrent een ontheffing bekend aan de gebruikers van de luchthaven.   
 
 ### Artikel  8a.51  
 
@@ -2829,7 +2870,7 @@ b. de vliegveiligheid.
 
 ### Artikel  8a.60  
 
-Op de voorbereiding van een besluit beperkingengebied buitenlandse luchthaven of op de voorbereiding van een wijziging of intrekking van een zodanig besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
+Op de voorbereiding van een besluit beperkingengebied buitenlandse luchthaven of op de voorbereiding van een wijziging of intrekking van een zodanig besluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
 
 ### §  8a.6.2  
 
@@ -2867,22 +2908,25 @@ c. de mate waarin en de voorwaarden waaronder Onze Minister van Infrastructuur e
 
 ### Artikel  9.2  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 9.3, 9.4 en 9.5 gezamenlijk of afzonderlijk in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 9.3, 9.4 en 9.5 gezamenlijk of afzonderlijk in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
 5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.   
 6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.   
 
-### Artikel  9.3  
+### Artikel  9.3   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister van Verkeer en Waterstaat kan aanwijzingen geven aan de LVB-organisatie.  
 
-### Artikel  9.4  
+### Artikel  9.4   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister van Defensie kan aanwijzingen geven aan de LVB-organisatie.  
 
-### Artikel  9.5  
+### Artikel  9.5   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Het bij of krachtens de titels 5.1 en 5.2 van deze wet bepaalde geldt niet ten aanzien van de luchtvaartuigen, in gebruik ten behoeve van de defensie, en de leden hunner bemanning.  
 
@@ -2929,7 +2973,8 @@ b. de houder van de ontheffing de daaraan verbonden voorschriften of beperkingen
 
 Onze Minister van Defensie kan voor militaire luchtvaartuigen toestaan, dat van het nationaliteitskenmerk en het inschrijvingskenmerk bedoeld in artikel 3.2, eerste lid, onderdeel a, wordt afgeweken.  
 
-### Artikel  10.4  
+### Artikel  10.4   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het onderhoud aan militaire luchtvaartuigen wordt verricht door personeel, dat voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen inzake theoretische en praktische bekwaamheid en geestelijke en lichamelijke geschiktheid.   
 2.  Artikel 10.1, derde en vierde lid, is van overeenkomstige toepassing.   
@@ -3083,13 +3128,7 @@ a. regels met het oog op de geluidsbelasting;
 b. regels die noodzakelijk zijn met het oog op de lokale luchtverontreiniging.     
 5.  Bij de regels met het oog op de geluidsbelasting en het externe-veiligheidsrisico, bedoeld in het derde lid, worden in ieder geval gronden aangewezen die niet bestemd of gebruikt worden voor woningen of andere in het besluit aangewezen gebouwen.   
 6.  De artikelen 8.8 tot en met 8.12 zijn van overeenkomstige toepassing met dien verstande dat Onze Minister van Defensie in de plaats treedt van Onze Minister van Verkeer en Waterstaat.   
-7.  Bij de vaststelling van het luchthavenbesluit wordt gebruik gemaakt van: 
-
-a. de gegevens met betrekking tot het verkeer over wegen en daarop gebaseerde onderzoeken,  
-
-b. de krachtens [artikel 5.20, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bekendgemaakte gegevens en daarop gebaseerde onderzoeken, en  
-
-c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en daarop gebaseerde onderzoeken,   die ten grondslag hebben gelegen aan het ontwerp-besluit, met dien verstande dat indien de rapporten, waarin de gegevens, onderzoeken, inventarisaties en gevolgen zijn vervat, bij de vaststelling van het luchthavenbesluit ouder zijn dan twee jaar, het luchthavenbesluit een motivering van de actualiteit van die rapporten bevat.   
+7.  Bij de vaststelling van het luchthavenbesluit kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar.   
 
 ### Artikel  10.18  
 
@@ -3303,7 +3342,7 @@ Deze afdeling is van toepassing op militaire luchthavens waarvoor op grond van a
 
 1.  Bij regeling van Onze Minister van Defensie kan voor een luchthaven een luchthavenregeling worden vastgesteld.   
 2.  In een luchthavenregeling wordt het luchthavengebied vastgesteld. Een luchthavenregeling kan tevens een grenswaarde voor geluidbelasting in de vorm van een maximum aantal vliegtuigbewegingen per jaar bevatten.   
-3.  Op de voorbereiding of de wijziging van een luchthavenregeling is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
+3.  Op de voorbereiding of de wijziging van een luchthavenregeling is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
 4.  In een luchthavenregeling kunnen regels worden gegeven ten aanzien van: 
 
 a. de aard en de omvang van het gebruik van de luchthaven;  
@@ -3358,13 +3397,13 @@ Onze Minister van Defensie registreert het feitelijk gebruik van de luchthaven. 
 
 ### Artikel  11.1  
 
-1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde, met uitzondering van de artikelen 8.25d tot en met 8.25h zijn belast: 
+1.  Met het toezicht op de naleving van het bij of krachtens deze wet, met uitzondering van de artikelen 8.25d tot en met 8.25h, bepaalde en het bij of krachtens de basisverordening bepaalde, zijn belast: 
 
-a. de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren, met dien verstande dat dit toezicht zich niet uitstrekt tot het bepaalde bij of krachtens titel 6.5 en de artikelen 10.7 en 10.8;  
+a. de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren, met dien verstande dat dit toezicht zich niet uitstrekt tot het bepaalde bij of krachtens titel 6.5 en de artikelen 10.7 en 10.8 van deze wet;  
 
 b. voor zover het betreft de burgerluchtvaart de hiertoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren; de aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens deze wet;  
 
-c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in titel 6.5 en de artikelen 10.7 en 10.8, met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe bij besluit van Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet;  
+c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in titel 6.5 en de artikelen 10.7 en 10.8 van deze wet, met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe bij besluit van Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet;  
 
 d. voor zover het betreft titel 8A.6 de hiertoe bij besluit van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaren.     
 2.  Met het toezicht op de naleving van hetgeen bepaald is bij of krachtens de kaderverordening, de luchtvaartnavigatiedienstenverordening, de luchtruimverordening en interoperabiliteitsverordening, zijn belast de hiertoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. De aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens een van de genoemde verordeningen.   
@@ -3400,8 +3439,8 @@ b. ter verkrijging van de erkenning onjuiste of onvolledige gegevens heeft verst
 1.  De toezichthouders kunnen hun bevoegdheid inzage te vorderen van zakelijke gegevens en bescheiden niet uitoefenen op taxi-, start- en landingsbanen van een luchthaven.   
 2.  Indien de toezichthouders toegang verlangen tot militaire terreinen of gebouwen geschiedt zulks eerst na overleg met Onze Minister van Defensie.   
 3.  In geval van onmiddellijke dreiging van gevaar zijn de toezichthouders bevoegd het bedienen of opstijgen van luchtvaartuigen in strijd met het bij of krachtens deze wet bepaalde te verbieden of te beletten.   
-4.  [Titel 5.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing bij uitoefening van de bevoegdheid door toezichthouders buiten het vluchtinformatiegebied Amsterdam.   
-5.  Voor de werking van dit artikel, met uitzondering van het vierde lid, wordt onder toezichthouders mede begrepen de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+4.  Titel 5.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing bij uitoefening van de bevoegdheid door toezichthouders buiten het vluchtinformatiegebied Amsterdam.   
+5.  Voor de werking van dit artikel, met uitzondering van het vierde lid, wordt onder toezichthouders mede begrepen de inspecteur, bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet.   
 
 ### Artikel  11.2a  
 
@@ -3430,7 +3469,7 @@ b. het uitvoeren van inspectievluchten.   De houder van de AOC is verplicht aan 
 
 ### Artikel  11.3  
 
-1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn belast de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren, alsmede de bij besluit van Onze Minister van Verkeer en Waterstaat, respectievelijk Onze Minister van Defensie aangewezen ambtenaren.   
+1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn belast de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren, alsmede de bij besluit van Onze Minister van Verkeer en Waterstaat, respectievelijk Onze Minister van Defensie aangewezen ambtenaren.   
 2.  De opsporingsambtenaren zijn bevoegd het verrichten van werkzaamheden aan boord van luchtvaartuigen of het bedienen of opstijgen van luchtvaartuigen in strijd met het bij of krachtens deze wet bepaalde te verbieden of te beletten en voor zover het een burgerluchtvaartuig betreft, het luchtvaartuig, waarmee de overtreding wordt begaan naar een door hen aangewezen plaats over te brengen of te doen overbrengen en aldaar in bewaring te stellen.   
 3.  De betrokken ambtenaar maakt van de inbewaringstelling proces-verbaal op, dat hij binnen vierentwintig uur zendt aan de officier van justitie van de rechtbank binnen het rechtsgebied waarvan de inbewaringstelling geschiedt. Een afschrift van het proces-verbaal wordt tegelijkertijd uitgereikt of toegezonden aan de gezagvoerder en aan de houder van het betrokken luchtvaartuig. Artikel 11.7, vierde lid, is ten aanzien van de gezagvoerder en de houder van overeenkomstige toepassing.   
 4.  De kosten verbonden aan de uitvoering van het tweede lid kunnen door Onze Minister van Verkeer en Waterstaat worden ingevorderd bij dwangbevel.   
@@ -3442,21 +3481,21 @@ b. het uitvoeren van inspectievluchten.   De houder van de AOC is verplicht aan 
 
 ### Artikel  11.5  
 
-1.  Een opsporingsambtenaar kan het lid van het boordpersoneel van wie, uit het in artikel 11.4, tweede lid, bedoelde onderzoek of op andere wijze, naar het oordeel van de opsporingsambtenaar gebleken is dat hij onder zodanige invloed van een stof, als bedoeld in artikel 2.12, eerste lid, verkeert, dat hij onvoldoende in staat is zijn werkzaamheden behoorlijk te verrichten, een vliegverbod opleggen voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren, tot ten hoogste vierentwintig uren. De vorige volzin is van overeenkomstige toepassing op het lid van het boordpersoneel, dat aanstalten maakt zijn werkzaamheden te gaan verrichten.   
+1.  Een opsporingsambtenaar kan het lid van het boordpersoneel van wie, uit het in artikel 11.4, tweede lid, bedoelde onderzoek of op andere wijze, naar het oordeel van de opsporingsambtenaar gebleken is dat hij onder zodanige invloed van een stof, als bedoeld in artikel 2.12, eerste lid, van deze wet, of paragraaf 7, onderdeel g, van bijlage IV bij de basisverordening, verkeert, dat hij onvoldoende in staat is zijn werkzaamheden behoorlijk te verrichten, een vliegverbod opleggen voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren, tot ten hoogste vierentwintig uren. De vorige volzin is van overeenkomstige toepassing op het lid van het boordpersoneel, dat aanstalten maakt zijn werkzaamheden te gaan verrichten.   
 2.  In geval van verdenking van overtreding van artikel 2.12, tweede lid, kan een opsporingsambtenaar aan het betreffende lid van het boordpersoneel een vliegverbod opleggen tot ten hoogste vierentwintig uren.   
 3.  De opsporingsambtenaar, die een verbod als bedoeld in het eerste of tweede lid oplegt, legt dit vast in een beschikking die het tijdstip van ingang en de duur van het verbod bevat.   
 4.  Het is een lid van het boordpersoneel verboden de werkzaamheden, die hij moet verrichten, te verrichten gedurende de tijd waarvoor een vliegverbod als bedoeld in het eerste of tweede lid, geldt.   
 
 ### Artikel  11.6  
 
-1.  Bij verdenking dat een lid van het boordpersoneel werkzaamheden heeft verricht in strijd met artikel 2.12, eerste of derde lid, kan de opsporingsambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 2.12, derde lid, onder a.   
+1.  Bij verdenking dat een lid van het boordpersoneel werkzaamheden heeft verricht in strijd met artikel 2.12, eerste lid, van deze wet, paragraaf 7, onderdeel g, van bijlage IV bij de basisverordening, of artikel 2.12, derde lid, van deze wet kan de opsporingsambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 2.12, derde lid, onder a.   
 2.  Het lid van het boordpersoneel aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de opsporingsambtenaar ten dienste van het onderzoek gegeven aanwijzingen.   
 3.  De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een ademonderzoek voor hem om bijzondere geneeskundige redenen onwenselijk is.   
-4.  In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de opsporingsambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in artikel 2.12, derde lid, onder b. Gelijke bevoegdheid heeft de opsporingsambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in artikel 2.12, eerste lid, bedoelde stof dan alcoholhoudende drank verkeert.   
+4.  In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de opsporingsambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in artikel 2.12, derde lid, onder b. Gelijke bevoegdheid heeft de opsporingsambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in artikel 2.12, eerste lid, van deze wet of paragraaf 7, onderdeel g, van bijlage IV bij de basisverordening bedoelde stof dan alcoholhoudende drank verkeert.   
 5.  Indien het lid van het boordpersoneel zijn op grond van het vierde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie hem bevelen zich te onderwerpen aan een bloedonderzoek.   
 6.  Het lid van het boordpersoneel aan wie is bevolen zich aan een bloedonderzoek te onderwerpen is verplicht aan dit bevel gevolg te geven en zijn medewerking te verlenen; hem wordt door een arts zoveel bloed afgenomen als voor het onderzoek noodzakelijk is.   
 7.  De in het zesde lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat afname van bloed bij hem om bijzondere geneeskundige redenen onwenselijk is.   
-8.  De krachtens het zevende lid vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie bevolen onderzoek teneinde op andere wijze dan door bloedonderzoek het gebruik van de in artikel 2.12, eerste lid bedoelde stoffen of het in 2.12, derde lid, onder *b* genoemde gehalte vast te stellen.   
+8.  De krachtens het zevende lid vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie bevolen onderzoek teneinde op andere wijze dan door bloedonderzoek het gebruik van de in artikel 2.12, eerste lid, van deze wet of paragraaf 7, onderdeel g, van bijlage IV bij de basisverordening bedoelde stoffen of het in 2.12, derde lid, onder *b* genoemde gehalte vast te stellen.   
 9.  Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen opsporingsambtenaren, door een arts de in het zesde lid bedoelde hoeveelheid bloed worden afgenomen. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het bepaalde in het vijfde lid worden bevolen zijn medewerking te verlenen. De verdachte, aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen, wordt het bloedmonster vernietigd.   
 10.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven omtrent de wijze van uitvoering van artikel 11.4, tweede lid, en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Justitie worden in de bij die algemene maatregel aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.   
 
@@ -3470,15 +3509,15 @@ b. artikel 11.6, tweede, zesde, achtste en negende lid, proces-verbaal wordt opg
 2.  Het ingevorderde bewijs van bevoegdheid of bewijs van gelijkstelling wordt, tegelijk met het proces-verbaal, onverwijld opgezonden aan de betrokken officier van justitie. Deze is bevoegd het ingevorderde bewijs van bevoegdheid of bewijs van gelijkstelling onder zich te houden, totdat de rechterlijke uitspraak in kracht van gewijsde is gegaan of, indien bij die uitspraak het lid van het boordpersoneel de bevoegdheid een luchtvaartuig te bedienen is ontzegd, tot het tijdstip waarop die uitspraak, voor wat betreft de bijkomende straf der ontzegging voor tenuitvoerlegging vatbaar is geworden. In het laatste geval levert de ambtenaar, na het bovenbedoelde tijdstip, het bewijs van bevoegdheid of van gelijkstelling in bij Onze Minister van Verkeer en Waterstaat.   
 3.  Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het tweede lid bedoelde bevoegdheid, geeft hij het ingevorderde bewijs onverwijld terug aan de houder. Teruggave vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid, dat aan de houder in geval van veroordeling geen onvoorwaardelijke ontzegging van een bevoegdheid als bedoeld in artikel 11.11, tweede lid, zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke het bewijs is ingevorderd of ingevorderd geweest, of indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van invordering is aangevangen.   
 4.  De opsporingsambtenaar, die gebruik maakt van de in het eerste lid bedoelde bevoegdheid, en de officier van justitie, die gebruik maakt van de in het tweede lid bedoelde bevoegdheid, doen daarvan onverwijld mededeling aan Onze Minister van Verkeer en Waterstaat. Indien de officier van justitie het ingevorderde bewijs van bevoegdheid of bewijs van gelijkstelling aan de houder teruggeeft, doet hij daarvan op gelijke wijze mededeling.   
-5.  In geval van toepassing van het eerste of het tweede lid kan iedere belanghebbende bij klaagschrift daartegen opkomen. Het klaagschrift wordt ingediend bij de griffie van het gerecht in feitelijke aanleg binnen welks rechtsgebied het feit, dat tot toepassing van het eerste of het tweede lid van dit artikel aanleiding heeft gegeven, werd gepleegd dan wel ingevolge [artikel 4 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) geacht wordt te zijn gepleegd. De rechtbank geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beschikking, welke onverwijld aan de belanghebbende wordt betekend. Tegen de beschikking kan het openbaar ministerie binnen twee weken daarna en de belanghebbende binnen twee weken na de betekening beroep in cassatie instellen. De Hoge Raad beslist zo spoedig mogelijk.   
-6.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor toepassing van het eerste of tweede lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade, die hij ten gevolge van die toepassing heeft geleden. Onder schade is begrepen het nadeel, dat niet in vermogensschade bestaat. De [artikelen 89, derde tot en met zesde lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+5.  In geval van toepassing van het eerste of het tweede lid kan iedere belanghebbende bij klaagschrift daartegen opkomen. Het klaagschrift wordt ingediend bij de griffie van het gerecht in feitelijke aanleg binnen welks rechtsgebied het feit, dat tot toepassing van het eerste of het tweede lid van dit artikel aanleiding heeft gegeven, werd gepleegd dan wel ingevolge artikel 4 van het Wetboek van Strafvordering geacht wordt te zijn gepleegd. De rechtbank geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beschikking, welke onverwijld aan de belanghebbende wordt betekend. Tegen de beschikking kan het openbaar ministerie binnen twee weken daarna en de belanghebbende binnen twee weken na de betekening beroep in cassatie instellen. De Hoge Raad beslist zo spoedig mogelijk.   
+6.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor toepassing van het eerste of tweede lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade, die hij ten gevolge van die toepassing heeft geleden. Onder schade is begrepen het nadeel, dat niet in vermogensschade bestaat. De artikelen 89, derde tot en met zesde lid, 90, 91 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 
 ### Artikel  11.8  
 
-1.  Indien het proces-verbaal, bedoeld in artikel 11.7, eerste lid, betreft een lid van het boordpersoneel als bedoeld in artikel 10.1, tweede lid, stelt de opsporingsambtenaar onverwijld, voor de afloop van de in artikel 11.5, eerste lid, bedoelde periode, de officier van justitie bij het gerecht, bedoeld in [hoofdstuk II](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md), titel [I](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md), [III](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) of [IV van de Wet militaire strafrechtspraak](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) daarvan in kennis.   
+1.  Indien het proces-verbaal, bedoeld in artikel 11.7, eerste lid, betreft een lid van het boordpersoneel als bedoeld in artikel 10.1, tweede lid, stelt de opsporingsambtenaar onverwijld, voor de afloop van de in artikel 11.5, eerste lid, bedoelde periode, de officier van justitie bij het gerecht, bedoeld in hoofdstuk II, titel I, III of IV van de Wet militaire strafrechtspraak daarvan in kennis.   
 2.  De officier van justitie, bedoeld in het eerste lid, is bevoegd het betrokken lid van het boordpersoneel een vliegverbod op te leggen, totdat de rechterlijke uitspraak in kracht van gewijsde is gegaan of, indien bij die uitspraak het lid van het boordpersoneel de bevoegdheid een luchtvaartuig te bedienen is ontzegd, tot het tijdstip waarop die uitspraak, voor wat betreft de bijkomende straf der ontzegging voor tenuitvoerlegging vatbaar is geworden. De betrokken officier van justitie stelt hiervan onverwijld Onze Minister van Defensie in kennis.   
 3.  Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het tweede lid bedoelde bevoegdheid, heft hij het vliegverbod op. Opheffing vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid, dat aan de houder in geval van veroordeling geen onvoorwaardelijke ontzegging van een bevoegdheid, bedoeld in artikel 11.11, tweede lid, zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur wordt opgelegd dan de tijd gedurende welke het vliegverbod geldt, of indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van oplegging van het vliegverbod is aangevangen. De betrokken officier van justitie stelt hiervan onverwijld Onze Minister van Defensie in kennis.   
-4.  In geval van toepassing van het tweede lid kan iedere belanghebbende bij klaagschrift daartegen in beroep komen. Artikel 11.7, vijfde lid, is van overeenkomstige toepassing met dien verstande, dat het klaagschrift wordt ingediend bij de griffie van het gerecht in feitelijke aanleg, bedoeld in [hoofdstuk II](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md), titel [I](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md), [III](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) of [IV van de Wet militaire strafrechtspraak](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) en de beschikking van de rechtbank eveneens onverwijld aan Onze Minister van Defensie wordt betekend.   
+4.  In geval van toepassing van het tweede lid kan iedere belanghebbende bij klaagschrift daartegen in beroep komen. Artikel 11.7, vijfde lid, is van overeenkomstige toepassing met dien verstande, dat het klaagschrift wordt ingediend bij de griffie van het gerecht in feitelijke aanleg, bedoeld in hoofdstuk II, titel I, III of IV van de Wet militaire strafrechtspraak en de beschikking van de rechtbank eveneens onverwijld aan Onze Minister van Defensie wordt betekend.   
 5.  Ten aanzien van het vliegverbod, bedoeld in het tweede lid, is artikel 11.5, vierde lid, van overeenkomstige toepassing.   
 
 ### Artikel  11.8a  
@@ -3563,16 +3602,16 @@ c. luchtverkeersdienstverlening te geven,   voor ten hoogste drie jaren worden o
 
 1.  Bij de toepassing van artikel 11.11 gaat de bijkomende straf in en verliest elk aan de veroordeelde ingevolge artikel 2.2 afgegeven bewijs van bevoegdheid of ingevolge artikel 2.7 afgegeven bewijs van gelijkstelling zijn geldigheid voor de duur van de ontzegging, zodra de rechterlijke uitspraak voor wat genoemde bijkomende straf betreft, voor tenuitvoerlegging vatbaar is geworden. De uitspraak is, voor wat de bijkomende straf betreft, niet voor tenuitvoerlegging vatbaar, zolang de termijn, waarvoor hem bij een of meer andere rechterlijke uitspraken die bevoegdheid is ontzegd, nog niet verstreken is.   
 2.  Bij de rechterlijke uitspraak kan worden bepaald, dat de tijd, gedurende welke het bewijs van bevoegdheid van de veroordeelde ingevolge artikel 11.7 voor het tijdstip, waarop de uitspraak voor wat betreft de in dit artikel genoemde bijkomende straf voor tenuitvoerlegging vatbaar is geworden, ingehouden is geweest, dan wel ingevolge artikel 11.8, tweede lid, een vliegverbod is opgelegd, op de duur van de in het eerste lid bedoelde bijkomende straf geheel of gedeeltelijk in mindering zal worden gebracht.   
-3.  Voor wat betreft de in het eerste lid bedoelde bijkomende straf is [artikel 557, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) op rechterlijke uitspraken niet van toepassing.   
+3.  Voor wat betreft de in het eerste lid bedoelde bijkomende straf is artikel 557, tweede lid, van het Wetboek van Strafvordering op rechterlijke uitspraken niet van toepassing.   
 
 ### Artikel  11.14  
 
 1.  Het is degene, die een luchtvaartuig bedient, verboden na een ongeval of een landing, waarbij een ander is gedood of letsel of schade aan een ander is toegebracht, zich van de plaats van dat ongeval of die landing te verwijderen, tenzij hij behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en van de identiteit van dat luchtvaartuig.   
-2.  Niet strafbaar is degene, die een luchtvaartuig bedient en die zich na een ongeval of landing, bedoeld in het eerste lid, van de plaats van dat ongeval of die landing verwijdert doch binnen twaalf uren na dat ongeval of die landing en voordat hij als verdachte is aangehouden of verhoord, vrijwillig kennis geeft aan een van de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren en daarbij zijn identiteit en de identiteit van het betrokken luchtvaartuig bekendmaakt.   
+2.  Niet strafbaar is degene, die een luchtvaartuig bedient en die zich na een ongeval of landing, bedoeld in het eerste lid, van de plaats van dat ongeval of die landing verwijdert doch binnen twaalf uren na dat ongeval of die landing en voordat hij als verdachte is aangehouden of verhoord, vrijwillig kennis geeft aan een van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren en daarbij zijn identiteit en de identiteit van het betrokken luchtvaartuig bekendmaakt.   
 
 ### Artikel  11.14a  
 
-1.  Met het toezicht op de naleving van het bij of krachtens de artikelen 8.25d tot en met 8.25h bepaalde zijn belast de bij besluit van de raad van de Nederlandse Mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit. De [artikelen 51](../../../../wet/mededingingswet/BWBR0008691/README.md), [53](../../../../wet/mededingingswet/BWBR0008691/README.md) en [54 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) zijn van overeenkomstige toepassing.   
+1.  Met het toezicht op de naleving van het bij of krachtens de artikelen 8.25d tot en met 8.25h bepaalde zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt. De artikelen 51, 53 en 54 van de Mededingingswet zijn van overeenkomstige toepassing.   
 2.  Een besluit als bedoeld in het eerste lid, wordt bekendgemaakt in de Staatscourant.   
 
 ### Titel  11.2  
@@ -3605,7 +3644,9 @@ b. het bepaalde bij of krachtens de volgende EG verordeningen:
 
 7°. Verordening (EG) nr. 1107/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU L 204);  
 
-8°. de vergoedingenverordening.      
+8°. de vergoedingenverordening;  
+
+9°. de basisverordening.      
 
 ### Artikel  11.16  
 
@@ -3641,7 +3682,7 @@ e. 74 000 euro bij een overtreding als bedoeld in het eerste lid, onderdeel e.
 
 ### Artikel  11.16a  
 
-1.  Onverminderd [titel 4.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de verlener van luchtvaartnavigatiediensten de verdere verlening van luchtvaartnavigatiediensten opschorten, indien de gebruiker van die diensten niet heeft voldaan aan de eis tot het onmiddellijk en volledig betalen van de vergoedingen, bedoeld in artikel 5.20, eerste lid, onderdeel b, en artikel 5.21, tweede lid.   
+1.  Onverminderd titel 4.4 van de Algemene wet bestuursrecht kan de verlener van luchtvaartnavigatiediensten de verdere verlening van luchtvaartnavigatiediensten opschorten, indien de gebruiker van die diensten niet heeft voldaan aan de eis tot het onmiddellijk en volledig betalen van de vergoedingen, bedoeld in artikel 5.20, eerste lid, onderdeel b, en artikel 5.21, tweede lid.   
 2.  De opschorting kan slechts plaatsvinden wanneer een gebruiker gedurende drie maanden zijn openstaande facturen voor de vergoedingen niet heeft betaald of wanneer de achterstallige schuld minimaal 10.000 euro bedraagt.   
 3.  Voor de opschorting van de dienstverlening, stuurt de verlener van luchtvaartnavigatiediensten een aangetekend besluit naar de gebruiker waarin wordt aangegeven dat bij niet-betaling van de vergoedingen binnen 30 dagen de dienstverlening op kosten van de gebruiker zal worden opgeschort. Het besluit bevat de datum en het tijdstip vanaf wanneer geen dienstverlening meer zal worden gegeven.   
 4.  De kosten bedoeld in het derde lid, omvatten in ieder geval: 
@@ -3705,18 +3746,18 @@ Onze Minister van Infrastructuur en Milieu is bevoegd tot oplegging van een last
 
 1.  Gedeputeerde staten kunnen een bestuurlijke boete opleggen bij overtreding van: 
 
-a. artikel 8.44, vierde lid, juncto de artikelen 8.19 tot en met 8.21, artikel 8.47, tweede lid, juncto artikel 8.12, 8.64, zesde lid, juncto de artikelen 8.19 en 8.21, eerste en derde lid, of van een beperking of voorschrift als bedoeld in de artikelen 8.46, 8.64, zesde lid, juncto artikel 8.46 of 8a.51, tweede lid;  
+a. artikel 8.44, vijfde lid, juncto de artikelen 8.19 tot en met 8.21, artikel 8.47, tweede lid, juncto artikel 8.12, 8.64, zesde lid, juncto de artikelen 8.19 en 8.21, eerste en derde lid, of van een beperking of voorschrift als bedoeld in de artikelen 8.46, 8.64, zesde lid, juncto artikel 8.46 of 8a.51, tweede lid;  
 
 b. een maatregel als bedoeld in de artikelen 8.45 of 8.64, zesde lid, juncto artikel 8.45.     
 2.  De artikelen 11.16, tweede en derde lid, en 11.20 zijn van overeenkomstige toepassing, met dien verstande dat voor de toepassing van artikel 11.20 gedeputeerde staten de plaats innemen van Onze Minister van Verkeer en Waterstaat.   
 
 ### §  11.2.4  
 
-####Bestuursrechtelijke handhaving door Nederlandse Mededingingsautoriteit
+####Bestuursrechtelijke handhaving door de Autoriteit Consument en Markt
 
 ### Artikel  11.24  
 
-Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of 8.25h, eerste of derde lid, zijn [artikel 54a](../../../../wet/mededingingswet/BWBR0008691/README.md) en [hoofdstuk 7](../../../../wet/mededingingswet/BWBR0008691/README.md), met uitzondering van de [artikelen 58a](../../../../wet/mededingingswet/BWBR0008691/README.md) en [63, van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.  
+Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of 8.25h, eerste of derde lid, zijn artikel 54a en hoofdstuk 7, met uitzondering van de artikelen 58a en 63, van de Mededingingswet van overeenkomstige toepassing.  
 
 ### Titel  11.3  
 
@@ -3729,11 +3770,15 @@ Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid,
 
 ### Artikel  11.26  
 
-Gegevens die bij een intern bedrijfsveiligheidsonderzoek in het kader van een bij of krachtens de Wet Luchtvaart of de [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) gecertificeerd veiligheidsmanagementssysteem zijn verkregen, kunnen niet ten behoeve van strafrechtelijk onderzoek naar aanleiding van een melding als bedoeld in artikel 7.1 worden gevorderd dan na machtiging van de rechter-commissaris op vordering van de officier van justitie.  
+Gegevens die bij een intern bedrijfsveiligheidsonderzoek in het kader van een bij of krachtens de Wet Luchtvaart of de Luchtvaartwet gecertificeerd veiligheidsmanagementssysteem zijn verkregen, kunnen niet ten behoeve van strafrechtelijk onderzoek naar aanleiding van een melding als bedoeld in artikel 7.1 worden gevorderd dan na machtiging van de rechter-commissaris op vordering van de officier van justitie.  
 
 ### Artikel  11.27  
 
 Onze Minister van Verkeer en Waterstaat publiceert, voor zover van toepassing, uiterlijk met ingang van één maand na de inwerkingtreding van dit artikel en daarna steeds maandelijks, in de Staatscourant een lijst van instanties ten aanzien waarvan in de daaraan voorafgaande periode een beschikking tot oplegging van de bestuurlijke boete, bedoeld in artikel 11.16, eerste lid, onderdeel e, of een beschikking tot toepassing van de bestuursdwang, bedoeld in artikel 11.15, onderdeel b, onder 1°, 6° en 7°, onherroepelijk is geworden.  
+
+### Artikel  11.28  
+
+Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.  
 
 ### Hoofdstuk  12  
 
@@ -3746,7 +3791,7 @@ Onze Minister van Verkeer en Waterstaat zendt drie jaar na de inwerkingtreding v
 ### Artikel  12.3  
 
 1.   Bevat wijzigingen in andere regelgeving.    
-2.  De krachtens het [Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) 1980 (*Stb.* 1980, 786) door of vanwege Onze Minister gegeven nadere regels, alsook de krachtens het [Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) 1980 door of vanwege Onze Minister gegeven vrijstellingen, ontheffingen en de daaraan verbonden voorschriften blijven nog twee jaar na het in werking treden van deze wet van kracht, tenzij zij op een vroeger tijdstip worden ingetrokken.   
+2.  De krachtens het Luchtverkeersreglement 1980 (*Stb.* 1980, 786) door of vanwege Onze Minister gegeven nadere regels, alsook de krachtens het Luchtverkeersreglement 1980 door of vanwege Onze Minister gegeven vrijstellingen, ontheffingen en de daaraan verbonden voorschriften blijven nog twee jaar na het in werking treden van deze wet van kracht, tenzij zij op een vroeger tijdstip worden ingetrokken.   
 3.  De wet van 8 december 1971, *Stb.* 719, houdende inning van vergoedingen voor het gebruik van het luchtruim, wordt ingetrokken.   
 
 ### Artikel  12.3a  

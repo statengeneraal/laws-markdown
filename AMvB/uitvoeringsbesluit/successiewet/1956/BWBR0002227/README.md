@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 10 juli 1956, no. C 6/6146, Afdeling Indirecte Belastingen;
 
-Gelet op [artikel 21, zesde en achtste lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) (Stb. 362);
+Gelet op artikel 21, zesde en achtste lid, van de Successiewet 1956 (Stb. 362);
 
 De Raad van State gehoord (advies van 17 juli 1956, no. 17);
 
@@ -21,7 +21,7 @@ Hebben goedgevonden en verstaan:
 De waarde van een periodieke uitkering in geld van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 16,  | wanneer degene gedurende wiens leven de uitkering moet plaatshebben,  | jonger dan 20 jaar is,  |
 | 15,  | --- | 20 jaar of ouder, doch jonger dan 30 jaar is,  |
 | 14,  | --- | 30 jaar of ouder, doch jonger dan 40 jaar is,  |
@@ -40,8 +40,8 @@ De waarde van een periodieke uitkering in geld van het leven van één persoon a
 
 1.  De waarde van een periodieke uitkering in geld welke na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:  
 
-|--- | indien de uitkering afhankelijk is van het leven van een persoon  | indien de uitkering niet van het leven afhankelijk is  | jonger dan 40 jaar  | 40 jaar of ouder, doch jonger dan 60 jaar  | 60 jaar of ouder  |--- |
-|:---|:---|:---|:---|:---|:---|:---|
+|--- | indien de uitkering afhankelijk is van het leven van een persoon  | indien de uitkering niet van het leven afhankelijk is  |--- | jonger dan 40 jaar  | 40 jaar of ouder, doch jonger dan 60 jaar  | 60 jaar of ouder  |--- |
+|---|---|---|---|---|---|---|---|
 | het eerste vijftal jaren  | 0,84  | 0,83  | 0,75  | 0,85  |
 | het tweede vijftal jaren  | 0,62  | 0,60  | 0,40  | 0,64  |
 | het derde vijftal jaren  | 0,46  | 0,42  | 0,15  | 0,48  |
@@ -60,7 +60,7 @@ De waarde van een periodieke uitkering in geld van het leven van één persoon a
 ### Artikel  8  
 
 1.  Een periodieke uitkering in geld tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een periodieke uitkering tot het geschatte gemiddelde jaarlijkse bedrag.   
-2.  Een periodieke uitkering, recht gevende op andere goederen dan geld, wordt gelijkgesteld met een periodieke uitkering in geld tot een jaarlijks bedrag, gelijk aan de krachtens [artikel 21 der Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) geschatte waarde van die goederen.   
+2.  Een periodieke uitkering, recht gevende op andere goederen dan geld, wordt gelijkgesteld met een periodieke uitkering in geld tot een jaarlijks bedrag, gelijk aan de krachtens artikel 21 der Successiewet 1956 geschatte waarde van die goederen.   
 
 ### Artikel  9  
 
@@ -68,32 +68,31 @@ De waarde van een periodieke uitkering, niet vallende onder een van de vorige ar
 
 ### Artikel  10  
 
-Het percentage, bedoeld in [artikel 21, dertiende lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md), wordt gesteld op 6.  
+Het percentage, bedoeld in artikel 21, veertiende lid, van de Successiewet 1956, wordt gesteld op 6.  
 
 ### Artikel  10a  
 
-1.  De waarde, bedoeld in [artikel 21, achtste lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md), wordt gesteld op de op grond van artikel 21, vijfde en zesde lid, van de Successiewet 1956 in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.   
+1.  De waarde, bedoeld in artikel 21, achtste lid, van de Successiewet 1956, wordt gesteld op de op grond van artikel 21, vijfde en zesde lid, van de Successiewet 1956 in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.   
 2.  Bij een voor het enkele gebruik van een woning verschuldigde jaarlijkse huur of pacht als percentage van de WOZ-waarde van:  
 
-| meer dan  | maar niet  meer dan  | bedraagt de leegwaarderatio  |
-|:---|:---|:---|
-| 0%  | 1,0%  | 50%  |
-| 1,0%  | 1,5%  | 53%  |
-| 1,5%  | 2,0%  | 56%  |
-| 2,0%  | 2,5%  | 59%  |
-| 2,5%  | 3,0%  | 62%  |
-| 3,0%  | 3,5%  | 66%  |
-| 3,5%  | 4,0%  | 69%  |
-| 4,0%  | 5,0%  | 73%  |
-| 5,0%  | –  | 78%  |
+| meer dan  | maar niet meer dan  | bedraagt de leegwaarderatio  |
+|---|---|---|
+| 0%  | 1%  | 45%  |
+| 1%  | 2%  | 51%  |
+| 2%  | 3%  | 56%  |
+| 3%  | 4%  | 62%  |
+| 4%  | 5%  | 67%  |
+| 5%  | 6%  | 73%  |
+| 6%  | 7%  | 78%  |
+| 7%  | –  | 85%  |
 
 3.  De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van de verhuurperiode, onderscheidenlijk verpachtingsperiode, in het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
-4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   
+4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in artikel 16, onderdeel c, van de Wet waardering onroerende zaken, en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   
 5.  Indien van een woning een gedeelte verhuurd is, wordt slechts de WOZ-waarde van dat deel vermenigvuldigd met de leegwaarderatio. Indien de WOZ-waarde van dat deel niet is vastgesteld, wordt deze bepaald door de totale WOZ-waarde van de woning te vermenigvuldigen met de verhuurde vierkante meters en te delen door de totale oppervlakte van de woning.   
 
 ### Artikel  10b  
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in artikel 10a, vierde lid, gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.  
+De waarde van een erfpachtcanon als bedoeld in artikel 21, negende lid, van de Successiewet 1956 wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in artikel 10a, vierde lid, gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.  
 
 ### Hoofdstuk  1a  
 
@@ -111,7 +110,7 @@ De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de 
 
 ### Artikel  11  
 
-1.  Voor het verkrijgen van kwijtschelding van erfbelasting als bedoeld in [artikel 67, derde lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md), wordt door alle verkrijgers van het voorwerp gezamenlijk, door tussenkomst van de inspecteur, een verzoek gedaan bij Onze Minister.   
+1.  Voor het verkrijgen van kwijtschelding van erfbelasting als bedoeld in artikel 67, derde lid, van de Successiewet 1956, wordt door alle verkrijgers van het voorwerp gezamenlijk, door tussenkomst van de inspecteur, een verzoek gedaan bij Onze Minister.   
 2.  Het verzoek kan worden gedaan tot uiterlijk acht weken na de dag waarop de belastingaanslagen van de in het eerste lid bedoelde verkrijgers onherroepelijk zijn komen vast te staan.   
 3.  Het verzoek omvat mede een omschrijving van het voorwerp en een opgave van de waarde in het economische verkeer.   
 
@@ -124,7 +123,7 @@ De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de 
 
 ### Artikel  13  
 
-1.  Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in artikel 15, in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md).   
+1.  Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in artikel 15, in aanmerking komt voor de toepassing van artikel 67, derde lid, van de Successiewet 1956.   
 2.  De commissie bestaat uit een voorzitter, tevens lid, en twee andere leden.   
 3.  De voorzitter wordt benoemd bij koninklijk besluit, op gezamenlijke voordracht van Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschappen, één gewoon lid wordt benoemd op voordracht van Onze Minister en één gewoon lid op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen. Zij worden benoemd voor een termijn van vier jaar. Zij zijn te allen tijde herbenoembaar.   
 4.  De commissie stelt haar eigen werkwijze vast.   
@@ -134,16 +133,16 @@ De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de 
 
 ### Artikel  14  
 
-1.  Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in artikel 15, kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.   
+1.  Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in artikel 15, kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp artikel 67, derde lid, van de Successiewet 1956 toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.   
 2.  Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van artikel 12, eerste en tweede lid, van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.   
 
 ### Artikel  15  
 
 Kwijtschelding van erfbelasting kan slechts worden verleend ter zake van de overdracht van roerende voorwerpen of verzamelingen van roerende voorwerpen aan de Staat die: 
 
-a. voorkomen op de Lijst van beschermde voorwerpen behorende bij de [Wet tot behoud van cultuurbezit](../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md),  
+a. voorkomen op de Lijst van beschermde voorwerpen behorende bij de Wet tot behoud van cultuurbezit,  
 
-b. niet voorkomen op de lijst bedoeld in onderdeel a, maar wel als onvervangbaar en onmisbaar kunnen worden aangemerkt in de zin van [artikel 2 van de Wet tot behoud van cultuurbezit](../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), of,  
+b. niet voorkomen op de lijst bedoeld in onderdeel a, maar wel als onvervangbaar en onmisbaar kunnen worden aangemerkt in de zin van artikel 2 van de Wet tot behoud van cultuurbezit, of,  
 
 c. op grond van één of meer van de volgende criteria van groot nationaal cultuurhistorisch of kunsthistorisch belang zijn: 
 
@@ -163,7 +162,7 @@ c. op grond van één of meer van de volgende criteria van groot nationaal cultu
 
 ### Artikel  16  
 
-1.  Dit besluit treedt in werking op het tijdstip, waarop de [Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md) in werking treedt.   
+1.  Dit besluit treedt in werking op het tijdstip, waarop de Successiewet 1956 in werking treedt.   
 2.  Het kan worden aangehaald als Uitvoeringsbesluit Successiewet 1956.   
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als de autoriteiten, bedoeld in [artikel 16, eerste lid, van de Prijzennoodwet](../../../../../wet/prijzennoodwet/BWBR0003734/README.md) worden, met de titel van economisch commissaris aangewezen de directeuren van de kamers van koophandel en fabrieken, ieder voor het gebied waarvoor de kamer van koophandel en fabrieken waarvan hij directeur is op grond van [artikel 2 van het Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](../../../../../AMvB/besluit/instelling/gebiedsindeling/en/bestuursgrootte/kamers/van/etc/BWBR0009277/README.md) is ingesteld.  
+Als de autoriteiten, bedoeld in [artikel 16, eerste lid, van de Prijzennoodwet](../../../../../wet/prijzennoodwet/BWBR0003734/README.md) worden, met de titel van economisch commissaris, aangewezen de leden van de Kamer van Koophandel.  
 
 ### Artikel  2  
 
@@ -23,17 +23,17 @@ Als de autoriteiten, bedoeld in [artikel 16, tweede lid, van de Prijzennoodwet](
 
 a. Buitenlandse Zaken: de commissarissen van de Koning, ieder voor de provincie waarvoor hij is benoemd;  
 
-b. Justitie: de commissarissen van de Koning, ieder voor de provincie waarvoor hij is benoemd;  
+b. Veiligheid en Justitie: de commissarissen van de Koning, ieder voor de provincie waarvoor hij is benoemd;  
 
-c. Binnenlandse Zaken: de commissarissen van de Koning, ieder voor de provincie waarvoor hij is benoemd;  
+c. Binnenlandse Zaken en Koninkrijksrelaties: de commissarissen van de Koning, ieder voor de provincie waarvoor hij is benoemd;  
 
 d. Financiën: de voorzitters van de managementteams van de Belastingdienst/Douane;  
 
-e. *Defensie:* de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld;  
+e. Defensie: de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld;  
 
-f. *Verkeer en Waterstaat:* de hoofdingenieur-directeuren van de regionale diensten van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md), ieder voor het gezagsgebied van de regionale dienst waarvoor hij is aangesteld;  
+f. Infrastructuur en Milieu: de hoofdingenieur-directeuren van de regionale diensten van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md), ieder voor het gezagsgebied van de regionale dienst waarvoor hij is aangesteld;  
 
-g. Welzijn, Volksgezondheid en Cultuur: de regionale geneeskundige inspecteurs van de volksgezondheid, ieder voor het gebied dat ingevolge artikel 1 van het koninklijk besluit van 20 januari 1964 (*Stb.* 25) tot vaststelling van de ambtsgebieden van de regionale inspecteurs van de volksgezondheid als zijn ambtsgebied is vastgesteld.    
+g. Volksgezondheid, Welzijn en Sport: de inspecteurs van het Staatstoezicht op de volksgezondheid.    
 
 ### Artikel  3  
 

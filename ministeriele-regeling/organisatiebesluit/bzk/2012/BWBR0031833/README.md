@@ -3,7 +3,7 @@
 ##Organisatiebesluit BZK 2012
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister voor Immigratie, Integratie en Asiel,  
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
+Gelet op artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;
 Besluit vast te stellen het navolgende Organisatiebesluit:     
 ### Hoofdstuk  1  
 
@@ -15,7 +15,7 @@ In dit besluit wordt verstaan onder:
 
 a. *Ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. *bewindspersonen:* Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Immigratie, Integratie en Asiel;  
+b. *bewindspersonen:* Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst;  
 
 c. *capaciteitsplan:* schriftelijk stuk waarin de uitwerking van de flexibele organisatiestructuur van een dienstonderdeel wordt vastgelegd evenals de verdeling van de formatie binnen deze structuur.    
 
@@ -31,58 +31,53 @@ a. de Algemene Leiding (ALGL);
 
 b. het directoraat-generaal Organisatie en Bedrijfsvoering Rijk (DGOBR);  
 
-c. het directoraat-generaal Wonen, Bouwen en Integratie (DGWBI);  
+c. het directoraat-generaal Wonen en Bouwen (DGWB);  
 
 d. het directoraat-generaal Bestuur en Koninkrijksrelaties (DGBK);  
 
-e. het directoraat-generaal Vreemdelingenzaken (DGVZ);  
+e. de Algemene Inlichtingen- en Veiligheidsdienst (AIVD);  
 
-f. de baten-lastendienst Rijksgebouwendienst (RGD);  
+f. het Bureau Algemene Bestuursdienst (BABD);  
 
-g. de Algemene Inlichtingen- en Veiligheidsdienst (AIVD);  
+g. de Dienst Concernstaf en Bedrijfsvoering (DCB);  
 
-h. het Bureau Algemene Bestuursdienst (BABD);  
+h. de baten-lastendienst Dienst van de Huurcommissie (DHC);  
 
-i. de Dienst Concernstaf en Bedrijfsvoering (DCB);  
-
-j. de baten-lastendienst Dienst van de Huurcommissie (DHC).     
-2.  De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in artikel 15, tweede lid.   
+i. het Rijksvastgoedbedrijf i.o..     
+2.  De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in artikel 16, tweede lid.   
 3.  Het onder lid 1 sub a genoemde onderdeel ressorteert onder de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-4.  Het onder lid 1 sub e genoemde onderdeel ressorteert wat betreft beleid en uitvoering onder de Minister voor Immigratie, Integratie en Asiel.   
+4.  De in het eerste lid onder b, c, f en i genoemde dienstonderdelen ressorteren wat betreft beleid en uitvoering onder de Minister voor Wonen en Rijksdienst.   
 5.  De overige in het eerste lid genoemde dienstonderdelen ressorteren onder de Algemene Leiding van het Ministerie, met uitzondering van de DHC die ressorteert onder het bestuur van de Huurcommissie.   
 
 ### Artikel  3  
 
 1.  Er is een Bestuursraad Binnenlandse Zaken en Koninkrijksrelaties (BR).   
-2.  De Bestuursraad is samengesteld uit de Secretaris-generaal, de directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen, Bouwen en Integratie, Vreemdelingenzaken, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur Dienst Concernstaf en Bedrijfsvoering. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers of, in uitzonderlijke gevallen, door een andere rechtstreeks onder hen ressorterende functionaris. De directeur Financieel-economische Zaken heeft een permanente uitnodiging tot het als adviseur bijwonen van de Bestuursraad.   
+2.  De Bestuursraad is samengesteld uit de Secretaris-generaal, de directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen en Bouwen, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur Dienst Concernstaf en Bedrijfsvoering. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers of, in uitzonderlijke gevallen, door een andere rechtstreeks onder hen ressorterende functionaris. De directeur Financieel-economische Zaken heeft een permanente uitnodiging tot het als adviseur bijwonen van de Bestuursraad.   
 3.  Het overleg in de Bestuursraad heeft, onverminderd het bepaalde in de departementale mandaat- en volmachtbesluiten over de bevoegdheden van de afzonderlijke leden van de Bestuursraad ten aanzien van de onderwerpen die in het overleg aan de orde komen, ten doel het bespreken van respectievelijk het bereiken van overeenstemming over de departementale beleids- en beheerskaders en het toezien op de uitvoering van deze kaders.   
-4.  Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.   
-5.  De directeur Bestuursondersteuning voert het secretariaat van de Bestuursraad.   
-6.  De Bestuursraad regelt de eigen werkwijze.   
-
-### Artikel  4  
-
-1.  Er is een Centraal HRM-beraad.   
-2.  Het Centraal HRM-beraad is samengesteld uit de Secretaris-generaal, de directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen, Bouwen en Integratie, Vreemdelingenzaken en Rijksgebouwendienst, de hoofddirecteur Dienst Concernstaf en Bedrijfsvoering, het hoofd van van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur Immigratie- en Naturalisatiedienst en de directeur Personeel en Organisatie van de Dienst Concernstaf en Bedrijfsvoering. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers.   
-3.  Het overleg in het Centraal HRM-beraad heeft, onverminderd het bepaalde in de departementale mandaat- en volmachtbesluiten over de bevoegdheden van de afzonderlijke leden van het Centraal HRM-beraad ten aanzien van de onderwerpen die in het overleg aan de orde komen, ten doel het bespreken respectievelijk het bereiken van overeenstemming over aspecten van het departementale personeelsbeleid en personele aangelegenheden alsmede het toezien op de uitvoering hiervan. In het overleg komen in ieder geval de volgende aangelegenheden aan de orde. 
+4.  Daarnaast heeft de Bestuursraad ten doel het bespreken respectievelijk het bereiken van overeenstemming over aspecten van het departementale personeelsbeleid en personele aangelegenheden alsmede het toezien op de uitvoering hiervan. In het overleg komen in ieder geval de volgende aangelegenheden aan de orde: 
 
 a. de ontwikkeling van het departementale HRM-beleid in brede zin;  
 
 b. de beleidsontwikkeling van management-development bij het Ministerie;  
 
-c. de benoeming van functionarissen in schaal 14 en hoger bij het Ministerie;  
+c. de benoeming van kandidaten bij BZK in vacatures opengesteld door de Algemene Bestuursdienst;  
 
-d. de werkzaamheden van het Centraal HRM-beraad met betrekking tot de personeelsschouw, zoals aangegeven in het departementale beleid terzake.     
-4.  Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.   
-5.  De MD-adviseur van de directie Personeel en Organisatie voert het secretariaat van het centraal HRM-beraad.   
-6.  Het Centraal HRM-beraad regelt de eigen werkwijze.   
+d. de werkzaamheden van de Bestuursraad met betrekking tot de personeelsschouw, zoals aangegeven in het departementale beleid terzake.     
+5.  Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.   
+6.  De directeur Bestuursondersteuning voert het secretariaat van de Bestuursraad.   
+7.  De Bestuursraad regelt de eigen werkwijze.   
 
 ### Artikel  5  
 
-1.  Er is een Audit Comité.   
-2.  Het Audit Comité is samengesteld uit de leden van de Bestuursraad, de directeur Financieel-economische Zaken en een lid van het managementteam van de Auditdienst Rijk (ADR). Aan het Audit Comité zijn één of twee externe deelnemers toegevoegd.   
-3.  Het Audit Comité vergadert vier maal per jaar, waarvan in ieder geval tweemaal per jaar in voltallige samenstelling.   
-4.  Het Audit Comité bespreekt de volgende onderwerpen en adviseert terzake: 
+1. Er is een Audit Comité.  
+
+2. Het Audit Comité is samengesteld uit de leden van de Bestuursraad, de directeur Financieel-economische Zaken, een lid van het managementteam van de Auditdienst Rijk en een directeur van de Algemene Rekenkamer. Aan het Audit Comité zijn daarnaast twee of meer externe deelnemers toegevoegd.  
+
+3. Het Audit Comité staat onder voorzitterschap van de secretaris-generaal.  
+
+4. Het Audit Comité vergadert vier maal per jaar.  
+
+5. Het Audit Comité bespreekt: 
 
 a. belangrijke rijksbrede of externe ontwikkelingen die de sturing en beheersing van het departement raken;  
 
@@ -92,11 +87,15 @@ c. het samenstel van en de samenhang tussen de producten vanuit control, audit e
 
 d. het auditjaarplan en de daarin voorgenomen onderzoeken;  
 
-e. de uitkomsten van de bedrijfsvoeringonderzoeken en de verwerking ervan.     
-5.  De Bestuursraad besluit – gehoord het Audit Comité – over zo nodig te treffen maatregelen.   
-6.  Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.   
-7.  De directie Financieel-economische Zaken voert het secretariaat van het Audit Comité.   
-8.  Het Audit Comité regelt de eigen werkwijze.   
+e. de uitkomsten van de bedrijfsvoeringonderzoeken en de verwerking ervan.    
+
+6. De secretaris-generaal besluit – gehoord het Audit Comité – over zo nodig te treffen maatregelen.  
+
+7. Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.  
+
+8. De directie Financieel-economische Zaken voert het secretariaat van het Audit Comité.  
+
+9. Het Audit Comité regelt de eigen werkwijze.    
 
 ### Hoofdstuk  3  
 
@@ -119,23 +118,19 @@ c. het uitoefenen van de algemene controlfunctie bij het Ministerie;
 
 d. het rechtstreeks leiding geven aan de directeuren-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur van de dienst Concernstaf en Bedrijfsvoering;  
 
-e. het voorzitterschap van de Bestuursraad, het Centraal HRM-beraad en het Audit Comité;  
+e. het voorzitterschap van de Bestuursraad en het Audit Comité;  
 
 f. het zorgdragen voor het nemen van besluiten over - en het geven van algemene aanwijzingen ten aanzien van het algemene beleid en beheer inzake de bedrijfsvoering en de formatie van het Ministerie;  
 
-g. het voeren van overleg met de Groepsondernemingsraad (als bestuurder in de zin van de [WOR](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)) en de centrales van verenigingen van ambtenaren, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+g. het voeren van overleg met de Groepsondernemingsraad (als bestuurder in de zin van de WOR) en de centrales van verenigingen van ambtenaren, bedoeld in artikel 113 van het Algemeen Rijksambtenarenreglement;  
 
 h. het optreden als gemachtigd ambtenaar in de zin van de Uitvoeringsregeling openbaarheid van bestuur Binnenlandse Zaken;  
 
-i. het plegen van inhoudelijke afstemming met de volgende organisatieonderdelen: 
-
-– de projectdirectie Nieuwbouw (PN);  
-
-– het gemeenschappelijke secretariaat van de Raad voor het openbaar bestuur en de Raad voor de financiële verhoudingen (sRob/Rfv);    
+i. het plegen van inhoudelijke afstemming met het gemeenschappelijke secretariaat van de Raad voor het openbaar bestuur en de Raad voor de financiële verhoudingen (sRob/Rfv);  
 
 j. het toezicht op het beheer van de Kiesraad (KR) en toezicht op het Bureau Architectenregister;  
 
-k. het beheersmatig aansturen van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.     
+k. het beheersmatig aansturen van de kabinetten van de Gouverneurs, de Vertegenwoordigingen, de Rijksdienst Caribisch Nederland en de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.     
 3.  De in dit artikel, tweede lid onder onderdeel i genoemde organisatieonderdelen, vallen onder beheersmatige leiding van de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering.   
 
 ### Paragraaf  3.2  
@@ -219,102 +214,63 @@ f. de directie Koninkrijksrelaties (KR);
 g. de Rijksdienst Caribisch Nederland (RCN);  
 
 h. de baten-lastendienst Basisadministratie, Persoonsgegevens en Reisdocumenten (BPR).     
+4.  De directie Koninkrijksrelaties wordt beleidsinhoudelijk en beheersmatig aangestuurd door de Secretaris-generaal.   
 
 ### Paragraaf  3.4  
 
-####Directoraat-generaal Wonen, Bouwen en Integratie
+####Directoraat-generaal Wonen en Bouwen
 
 ### Artikel  9  
 
-1.  Het directoraat-generaal Wonen, Bouwen en Integratie staat onder leiding van een directeur-generaal.   
+1.  Het directoraat-generaal Wonen en Bouwen staat onder leiding van een directeur-generaal.   
 2.  Het directoraat-generaal draagt zorg voor: 
 
 a. een functionerende woningmarkt met aandacht voor keuzevrijheid en betaalbaarheid;  
 
 b. betaalbare woningen voor lagere inkomensgroepen, de aansluiting op de woningmarkt van bijzondere aandachtsgroepen;  
 
-c. het bevorderen dat woningcorporaties het publiek belang behartigen en toezicht hierop;  
+c. het bevorderen dat woningcorporaties het publiek belang behartigen en het waarborgen van een goed werkend corporatiestelsel;  
 
-d. het ontwikkelen en uitvoeren van (internationaal afgestemd) beleid gericht op inburgering, remigratie en integratie;  
+d. het garanderen van een minimum bouwtechnische kwaliteit en gebruikskwaliteit van bouwwerken;  
 
-e. het vergroten van economische, sociale en culturele participatie van allochtone en autochtone doelgroepen;  
+e. het bevorderen van het tot stand komen van voldoende woningen en de kwaliteit daarvan en het ontwikkelen van beleid op het gebied van energiebesparing in de gebouwde omgeving;  
 
-f. het garanderen van een minimum bouwtechnische kwaliteit en gebruikskwaliteit van bouwwerken;  
+f. invulling geven aan de rijksverantwoordelijkheid voor de leefbaarheid in Nederland door lokale partijen te stimuleren en ondersteunen bij het integraal versterken van de leefbaarheid in buurten, wijken en regio’s;  
 
-g. het bevorderen van het tot stand komen van voldoende woningen en de kwaliteit daarvan en het ontwikkelen van beleid op het gebied van energiebesparing in de gebouwde omgeving;  
+g. het door middel van kennis onderbouwen en verantwoorden van beleid op het gebied van Wonen en Bouwen;     
+3.  Het directoraat-generaal Wonen en Bouwen bestaat uit de volgende organisatieonderdelen: 
 
-h. invulling geven aan de rijksverantwoordelijkheid voor de leefbaarheid in Nederland door lokale partijen te stimuleren en ondersteunen bij het integraal versterken van de leefbaarheid in buurten, wijken en regio’s;  
+a. het bureau Directeur-generaal Wonen en Bouwen (bDGWB);  
 
-i. het door middel van kennis onderbouwen en verantwoorden van beleid op het gebied van Wonen, Bouwen en Integratie;     
-3.  Het directoraat-generaal Wonen, Bouwen en Integratie bestaat uit de volgende organisatieonderdelen: 
-
-a. het bureau Directeur-generaal Wonen, Bouwen en Integratie (bDGWBI);  
-
-b. de directie Woningbouw (Wb);  
+b. de directie Bouwen (Bw);  
 
 c. de directie Woningmarkt (Wm);  
 
-d. de directie Integratie en Samenleving (I&S);  
+d. de directie Kennis en Verkenningen (K&V);  
 
-e. de directie Kennis en Verkenningen (K&V);  
-
-f. de directie Woon- en Leefomgeving (W&L);     
+e. de directie Woon- en Leefomgeving (W&L).     
 
 ### Paragraaf  3.5  
 
-####Directoraat-generaal Vreemdelingenzaken
+####Het Rijksvastgoedbedrijf in oprichting
 
 ### Artikel  10  
 
-1.  Het directoraat-generaal Vreemdelingenzaken staat onder leiding van een directeur-generaal.   
-2.  Het directoraat-generaal draagt zorg voor: 
+1.  Het Rijksvastgoedbedrijf in oprichting staat onder leiding van een Chief Executive Officer/directeur-generaal a.i..   
+2.  Het Rijksvastgoedbedrijf in oprichting draagt zorg voor het efficiënt beheren, onderhouden en gebruiken van Rijksvastgoed.   
+3.  Het Rijksvastgoedbedrijf in oprichting bestaat uit de volgende organisatieonderdelen: 
 
-a. het uitvoeren van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+a. het Rijksvastgoed- en Ontwikkelingsbedrijf (RVOB);  
 
-b. een gereglementeerde en beheerste toelating van vreemdelingen tot Nederland, een gereglementeerd en beheerst verblijf in - en vertrek uit Nederland en een gereglementeerde en beheerste terugkeer van vreemdelingen;  
+b. de directie Rijksvastgoed;  
 
-c. het voeren van de regie op de keten van toegang, toelating, toezicht en terugkeer van vreemdelingen;  
-
-d. het adviseren van de regering over het vreemdelingenrecht en het -beleid en over het naturalisatie- en nationaliteitsrecht.     
-3.  Het directoraat-generaal Vreemdelingenzaken bestaat uit de volgende organisatieonderdelen: 
-
-a. het bureau Directeur-generaal Vreemdelingenzaken;  
-
-b. het bureau Regie en Besturing;  
-
-c. de directie Migratiebeleid (DMB);  
-
-d. de programmadirectie Identiteitsmanagement en Immigratie (IDMI);  
-
-e. de dienst Terugkeer en Vertrek (DT&V);  
-
-f. de baten-lastendienst Immigratie- en Naturalisatiedienst (IND);  
-
-g. het secretariaat van de Adviescommissie voor Vreemdelingenzaken (AVCVZ);  
-
-h. het secretariaat Commissie Integraal Toezicht Terugkeer (CITT).     
+c. de Rijksgebouwendienst.     
 
 ### Paragraaf  3.6  
 
 ####Rijksgebouwendienst
 
-### Artikel  11  
-
-1.  De Rijksgebouwendienst staat onder leiding van een directeur-generaal.   
-2.  De Rijksgebouwendienst voert de taken uit genoemd in het [Besluit Rijksgebouwendienst 1999](../../../../../KB/besluit/rijksgebouwendienst/1999/BWBR0009888/README.md).   
-3.  De Rijksgebouwendienst bestaat uit de volgende onderdelen: 
-
-a. de directie Vastgoed;  
-
-b. de directie Projecten;  
-
-c. de directie Beheer;  
-
-d. de directie Advies en Architecten;  
-
-e. de directie Bedrijfs- en Bestuurszaken;  
-
-f. atelier Rijksbouwmeester.     
+Vervallen per 06-11-2013   
 
 ### Paragraaf  3.7  
 
@@ -322,8 +278,8 @@ f. atelier Rijksbouwmeester.
 
 ### Artikel  12  
 
-1.  De Dienst van de Huurcommissie staat onder leiding van het bestuur van de Huurcommissie bedoeld in de [Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
-2.  De Dienst van de Huurcommissie heeft de taken bedoeld in de [artikelen 4](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [5 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
+1.  De Dienst van de Huurcommissie staat onder leiding van het bestuur van de Huurcommissie bedoeld in de Uitvoeringswet huurprijzen woonruimte.   
+2.  De Dienst van de Huurcommissie heeft de taken bedoeld in de artikelen 4 en 5 van de Uitvoeringswet huurprijzen woonruimte.   
 3.  De Dienst van de Huurcommissie is als baten-lastendienst in beheersmatige zin ondergebracht bij het directoraat-generaal Wonen, Bouwen en Integratie.   
 
 ### Paragraaf  3.8  
@@ -333,7 +289,7 @@ f. atelier Rijksbouwmeester.
 ### Artikel  13  
 
 1.  De Algemene Inlichtingen- en Veiligheidsdienst staat onder leiding van een hoofd en een plaatsvervangend hoofd.   
-2.  De Algemene Inlichtingen- en Veiligheidsdienst heeft de taken, bedoeld in [artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
+2.  De Algemene Inlichtingen- en Veiligheidsdienst heeft de taken, bedoeld in artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
 3.  De Algemene Inlichtingen- en Veiligheidsdienst bestaat uit de volgende organisatieonderdelen: 
 
 a. de Eenheid Strategie en Beleid (S&B);  
@@ -424,9 +380,7 @@ i. de directie Communicatie (C);
 
 j. de directie Personeel en Organisatie (PO);  
 
-k. de Projectdirectie Nieuwbouw (PN)  
-
-l. het gemeenschappelijk secretariaat van de Raad voor het openbaar bestuur (Rob) en de Raad voor de financiële verhoudingen (Rfv)     
+k. het gemeenschappelijk secretariaat van de Raad voor het openbaar bestuur (Rob) en de Raad voor de financiële verhoudingen (Rfv)     
 4.  De hoofddirecteur Dienst Concernstaf en Bedrijfsvoering bekleedt de functie van coördinerend directeur Inkoop (CDI). Deze is verantwoordelijk voor: 
 
 a. het stellen van kaders voor het inkoopbeleid van het ministerie;  
@@ -454,9 +408,9 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 ### Artikel  16  
 
-1.  De Minister stelt de inrichting van de organisatie vast conform het bepaalde in [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md).   
-2.  De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de onder het directoraat-generaal Organisatie en Bedrijfsvoering Rijk, het directoraat-generaal Bestuur en Koninkrijksrelaties, het directoraat-generaal Wonen, Bouwen en Integratie, het directoraat-generaal Vreemdelingenzaken, de Rijksgebouwendienst, het Bureau Algemene Bestuursdienst en de Dienst Concernstaf en Bedrijfsvoering ressorterende organisatieonderdelen, na advisering door de directeur Personeel en Organisatie. De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de Algemene Inlichtingen- en Veiligheidsdienst op voordracht van het hoofd van die dienst en na advisering van de directeur Personeel en Organisatie. De Secretaris-generaal is tevens bevoegd tot het nader vaststellen van de inrichting van de Immigratie- en Naturalisatiedienst op voordracht van de hoofddirecteur van die dienst en na advisering van de directeur Personeel en Organisatie.   
-3.  De directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen, Bouwen en Integratie, Vreemdelingenzaken en Rijksgebouwendienst alsmede de hoofddirecteur Immigratie- en Naturalisatiedienst en de algemeen directeur van de dienst Terugkeer en Vertrek stellen met inachtneming van dit besluit ten behoeve van hun dienst- of organisatieonderdelen een capaciteitsplan vast.   
+1.  De Minister stelt de inrichting van de organisatie vast conform het bepaalde in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011.   
+2.  De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de onder het directoraat-generaal Organisatie en Bedrijfsvoering Rijk, het directoraat-generaal Bestuur en Koninkrijksrelaties, het directoraat-generaal Wonen en Bouwen, het Rijksvastgoedbedrijf i.o., het Rijksvastgoed- en Ontwikkelingsbedrijf, de directie Rijksvastgoed, het Bureau Algemene Bestuursdienst en de Dienst Concernstaf en Bedrijfsvoering ressorterende organisatieonderdelen, na advisering door de directeur Personeel en Organisatie. De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de Algemene Inlichtingen- en Veiligheidsdienst op voordracht van het hoofd van die dienst en na advisering van de directeur Personeel en Organisatie.   
+3.  De directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen en Bouwen alsmede de Chief Executive Officer/directeur-generaal a.i. van het Rijksvastgoedbedrijf i.o., het Rijksvastgoed- en Ontwikkelingsbedrijf, de directie Rijksvastgoed, stellen met inachtneming van dit besluit ten behoeve van hun dienst- of organisatieonderdelen een capaciteitsplan vast.   
 
 ### Paragraaf  4.2  
 
@@ -464,7 +418,7 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 ### Artikel  17  
 
-1.  Tot de taak van de directoraten-generaal, de Rijksgebouwendienst,de Algemene Inlichtingen- en Veiligheidsdienst, het bureau Algemene Bestuursdienst en de dienst Concernstaf en Bedrijfsvoering, behoort voorts de uitvoering van andere taken dan hiervoor genoemd, in opdracht van een bewindspersoon of de Secretaris-generaal, voor zover hogere wet- en regelgeving zich daartegen niet verzet.   
+1.  Tot de taak van de directoraten-generaal, het Rijksvastgoedbedrijf i.o., het Rijksvastgoed- en Ontwikkelingsbedrijf, de directie Rijksvastgoed, de Algemene Inlichtingen- en Veiligheidsdienst, het bureau Algemene Bestuursdienst en de dienst Concernstaf en Bedrijfsvoering, behoort voorts de uitvoering van andere taken dan hiervoor genoemd, in opdracht van een bewindspersoon of de Secretaris-generaal, voor zover hogere wet- en regelgeving zich daartegen niet verzet.   
 2.  Tot de taak van de in dit besluit genoemde organisatieonderdelen, ressorterend onder de dienstonderdelen genoemd in het eerste lid, behoort voorts de uitvoering van andere taken dan vermeld, in opdracht van de bewindspersonen, de Secretaris-generaal of het diensthoofd, voor zover hogere wet- en regelgeving zich daartegen niet verzet.   
 
 ### Paragraaf  4.3  
@@ -479,7 +433,7 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 ### Artikel  19  
 
-Wijziging van dit besluit is voorbehouden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister voor Immigratie, Integratie en Asiel, en geschiedt op voordracht van de directeur Personeel en Organisatie.  
+Wijziging van dit besluit is voorbehouden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister voor Wonen en Rijksdienst, en geschiedt op voordracht van de directeur Personeel en Organisatie.  
 
 ### Paragraaf  4.4  
 
@@ -495,7 +449,7 @@ Dit besluit wordt aangehaald als: Organisatiebesluit BZK 2012.
 
 ### Artikel  22  
 
-Het [Organisatiebesluit BZK 2009](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2009/BWBR0027412/README.md) wordt ingetrokken.  
+Het Organisatiebesluit BZK 2009 wordt ingetrokken.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 

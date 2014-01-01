@@ -61,9 +61,10 @@ b. gehuwd: geregistreerd.
 
 1.  De notaris wordt als zodanig bij koninklijk besluit benoemd. In het besluit wordt de plaats van vestiging aangegeven.   
 2.  De notaris legt binnen zes maanden na de dagtekening van zijn benoeming voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder hij ressorteert, de navolgende eed af: «Ik zweer getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) en eerbied voor de rechterlijke autoriteiten. Ik zweer, dat ik mij zal gedragen naar de wetten, de reglementen en de verordeningen die op het notarisambt van toepassing zijn en dat ik mijn taak eerlijk, nauwgezet en onpartijdig zal uitvoeren; dat ik geheimhouding zal betrachten ten aanzien van alles waarvan ik door mijn ambt kennis neem en dat ik voorts, middellijk noch onmiddellijk, onder enige naam of voorwendsel, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.» Als de eed niet tijdig is afgelegd, vervalt de benoeming.   
-3.  De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de notaris.   
-4.  De notaris is bevoegd met ingang van de dag na de eedsaflegging. Indien in het benoemingsbesluit een latere datum is vermeld, is hij bevoegd met ingang van die dag indien tevoren de eed is afgelegd. Is hij waarnemer van het kantoor, dan is hij terstond na de eedsaflegging bevoegd.   
-5.  De notaris laat zich terstond na de eedsaflegging inschrijven in het register voor het notariaat, bedoeld in artikel 5, onder overlegging van het proces-verbaal van de eedsaflegging en onder deponering van zijn handtekening en paraaf.   
+3.  Wanneer de eed, bedoeld in het tweede lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed als volgt: «Ik swar trou oan de Kening en de Grûnwet en earbied foar de rjochterlike autoriteiten. Ik swar, dat ik my hâlde en drage sil neffens de wetten, de regleminten en de oarderingen dy’t op it notarisamt fan tapassing binne en dat ik myn taak earlik, sekuer en ûnpartidich útfiere sil; dat ik geheimhâlding betrachtsje sil oangeande alles dêr’t ik troch myn amt kunde oan krij en dat ik fierders, streekrjocht noch midlik, ûnder hokker namme of útwynsel dan ek, foar it krijen fan myn beneaming oan immen eat jûn of tasein haw, noch jaan of tasizze sil.»   
+4.  De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de notaris.   
+5.  De notaris is bevoegd met ingang van de dag na de eedsaflegging. Indien in het benoemingsbesluit een latere datum is vermeld, is hij bevoegd met ingang van die dag indien tevoren de eed is afgelegd. Is hij waarnemer van het kantoor, dan is hij terstond na de eedsaflegging bevoegd.   
+6.  De notaris laat zich terstond na de eedsaflegging inschrijven in het register voor het notariaat, bedoeld in artikel 5, onder overlegging van het proces-verbaal van de eedsaflegging en onder deponering van zijn handtekening en paraaf.   
 
 ### Artikel  4  
 
@@ -104,8 +105,8 @@ l. de onherroepelijke oplegging van een bestuurlijke boete of een last onder dwa
 
 ### Artikel  6  
 
-1.  Tot notaris is slechts benoembaar hij die de Nederlandse nationaliteit bezit.   
-2.  Voor de benoembaarheid is vereist: 
+1.  Tot notaris is slechts benoembaar hij die de Nederlandse nationaliteit bezit of de nationaliteit van een andere lidstaat van de Europese Unie, van een overige staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van de Zwitserse Bondsstaat.   
+2.  Voor de benoembaarheid tot notaris is vereist: 
 
 a. dat 
 
@@ -123,7 +124,9 @@ b. dat hij:
 
 4°. dat hij in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van artikel 7, eerste lid, alsmede van het advies als bedoeld in artikel 7, tweede lid, alsmede    
 
-c. dat hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).     
+c. dat hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md);  
+
+d. dat hij de Nederlandse taal in voldoende mate beheerst voor een goede uitoefening van het notarisambt.     
 3.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de beroepsvereisten, waaraan hij die de opleiding, bedoeld in het tweede lid, onderdeel a, heeft gevolgd moet voldoen.   
 4.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het tweede lid, onderdeel a, onder 1°, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
 
@@ -196,7 +199,7 @@ a. geen gevolg heeft gegeven aan de verplichting, bedoeld in artikel 11, vierde
 b. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld dan wel aan hem bij een dergelijke rechterlijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft.     
 4.  Op voordracht van Onze Minister wordt aan de notaris bij koninklijk besluit ontslag verleend, indien hij: 
 
-a. het Nederlanderschap verliest;  
+a. niet langer de Nederlandse nationaliteit bezit, of de nationaliteit van een andere lidstaat van de Europese Unie, van een overige staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van de Zwitserse Bondsstaat;  
 
 b. een ambt of betrekking heeft aanvaard dat, onderscheidenlijk die, op grond van artikel 9 onverenigbaar is met het notarisambt.     
 5.  De griffiers der gerechten doen aan Onze Minister, de kamer voor het notariaat, de KNB en het Bureau mededeling van rechterlijke beslissingen als bedoeld in het derde lid, onderdeel b.   
@@ -1128,7 +1131,7 @@ Het verslag, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../
 
 ### Artikel  113c  
 
-1.  De [artikelen 1](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [2](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [20, tweede en derde lid](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [21](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [22 tot en met 106](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [110 tot en met 213](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, tweede en vijfde lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van toepassing.   
+1.  De [artikelen 1](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [2](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [20, tweede en derde lid](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [21](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [22 tot en met 106](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [110 tot en met 213](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, tweede en vijfde tot en met zevende lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van toepassing.   
 2.  [Artikel 19 van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van artikel 113a van de Wet op het notarisambt.   
 3.  De [artikelen 17](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, derde lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van overeenkomstige toepassing.   
 

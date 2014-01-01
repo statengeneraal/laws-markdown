@@ -272,7 +272,7 @@ Voor verbintenissen van de schuldenaar, na de faillietverklaring ontstaan, is de
 
 ### Artikel  26  
 
-Rechtsvorderingen, die voldoening ener verbintenis uit de boedel ten doel hebben, kunnen gedurende het faillissement ook tegen de gefailleerde op geen andere wijze ingesteld worden, dan door aanmelding ter verificatie.  
+Rechtsvorderingen, die voldoening van een verbintenis uit de boedel ten doel hebben, kunnen gedurende het faillissement ook tegen de gefailleerde op geen andere dan een in artikel 110 bepaalde wijze worden ingesteld.  
 
 ### Artikel  27  
 
@@ -825,6 +825,7 @@ De curator geeft van deze beschikkingen onmiddellijk aan alle bekende schuldeise
 
 1.  De indiening der schuldvorderingen geschiedt bij de curator door de overlegging ener rekening of andere schriftelijke verklaring, aangevende de aard en het bedrag der vordering, vergezeld van de bewijsstukken of een afschrift daarvan, en van een opgave, of op voorrecht, pand, hypotheek of retentierecht aanspraak wordt gemaakt.   
 2.  De schuldeisers zijn bevoegd van de curator een ontvangbewijs te vorderen.   
+3.  Indien de curator een overeenkomst als bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) heeft gesloten die door de rechter verbindend is verklaard, kunnen de gerechtigden onder de overeenkomst die niet de in [artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde mededeling hebben gedaan, hun vordering krachtens de overeenkomst uitsluitend indienen op de wijze als in deze overeenkomst is bepaald. In afwijking van artikel 907, zesde lid, van Boek 7 van het Burgerlijk Wetboek kan de overeenkomst als bedoeld in de eerste zin, bepalen dat een vordering vervalt indien een gerechtigde onder de overeenkomst deze vordering niet indient binnen een termijn van ten minste drie maanden na de aanvang van de dag, volgende op die waarop de in artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde termijn is verstreken. Op de vorderingen als bedoeld in de eerste zin, zijn de artikelen 128, 133 en 136 van overeenkomstige toepassing   
 
 ### Artikel  111  
 
@@ -1017,7 +1018,7 @@ c. voorzover om een andere reden de toelating geen voor de concurrente schuldeis
 
 ### Artikel  138  
 
-De gefailleerde is bevoegd aan zijn gezamenlijke schuldeisers een akkoord aan te bieden.  
+De gefailleerde is bevoegd aan zijn gezamenlijke schuldeisers een akkoord aan te bieden. De gefailleerde mist deze bevoegdheid indien de curator een overeenkomst als bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) heeft gesloten en bij de rechter een verzoek als bedoeld in dit lid is ingediend, tenzij onherroepelijk vaststaat dat dit verzoek niet tot toewijzing zal leiden. Indien de gefailleerde overeenkomstig artikel 139 een ontwerp van een akkoord ter griffie van de rechtbank heeft neergelegd, kan geen verzoek als bedoeld in artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek worden ingediend, tenzij het akkoord is verworpen, de homologatie van het akkoord onherroepelijk is geweigerd of door de rechter de ontbinding van het akkoord is uitgesproken.  
 
 ### Artikel  139  
 
@@ -1255,11 +1256,11 @@ Nadat de boedel insolvent is geworden, kan de rechter-commissaris, op door hem t
 
 ### Artikel  179  
 
-Zo dikwijls er, naar het oordeel van de rechter-commissaris, voldoende gerede penningen aanwezig zijn, beveelt deze een uitdeling aan de geverifieerde schuldeisers.  
+Zo dikwijls er, naar het oordeel van de rechter-commissaris, voldoende gerede penningen aanwezig zijn, beveelt deze een uitdeling aan de geverifieerde schuldeisers en aan de schuldeisers, bedoeld in het derde lid van artikel 110, ten aanzien van wie een beslissing is genomen over hetgeen hun krachtens de in dat lid bedoelde overeenkomst toekomt.  
 
 ### Artikel  180  
 
-1.  De curator maakt telkens de uitdelingslijst op en onderwerpt die aan de goedkeuring van de rechter-commissaris. De lijst houdt in een staat der ontvangsten en uitgaven (daaronder begrepen het salaris van de curator), de namen der schuldeisers, het geverifieerde bedrag van ieders vordering, benevens de daarop te ontvangen uitkering.   
+1.  De curator maakt telkens de uitdelingslijst op en onderwerpt die aan de goedkeuring van de rechter-commissaris. De lijst houdt in een staat der ontvangsten en uitgaven (daaronder begrepen het salaris van de curator), de namen der schuldeisers, het geverifieerde bedrag van hun vorderingen dan wel het bedrag van de vorderingen waarop zij als gerechtigden onder de in artikel 110, derde lid, bedoelde overeenkomst aanspraak maken, benevens de daarop te ontvangen uitkering.   
 2.  Voor de concurrente schuldeisers worden de door de rechter-commissaris te bepalen percenten uitgetrokken. Voor de schuldeisers die voorrang hebben, ongeacht of deze betwist wordt, en die niet reeds overeenkomstig artikel 57 of 60 lid 3 voldaan zijn wordt het bedrag uitgetrokken waarvoor zij batig gerangschikt kunnen worden op de opbrengst der goederen waarop hun voorrang betrekking heeft. Zo dit minder is dan het gehele bedrag van hun vorderingen, worden voor het ontbrekende - zo de goederen waarop hun vordering betrekking heeft nog niet verkocht zijn, voor hun hele vordering - gelijke percenten als voor de concurrente schuldeisers uitgetrokken.   
 
 ### Artikel  181  
@@ -1274,8 +1275,8 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 ### Artikel  183  
 
 1.  De door de rechter-commissaris goedgekeurde uitdelingslijst ligt gedurende tien dagen ter griffie van de rechtbank ter kosteloze inzage van de schuldeisers.   
-2.  Van de neerlegging wordt door de zorg van de curator aan ieder van de erkende en voorwaardelijk toegelaten schuldeisers schriftelijk kennis gegeven, met vermelding van het voor hem uitgetrokken bedrag.   
-3.  Van de neerlegging wordt door de zorg van de curator aankondiging gedaan in het nieuwsblad of de nieuwsbladen bedoeld in artikel 14, terwijl daarvan bovendien aan ieder der erkende en voorwaardelijk toegelaten schuldeisers schriftelijk kennis wordt gegeven, met vermelding van het voor hem uitgetrokken bedrag.   
+2.  Van de neerlegging wordt door de zorg van de curator aan ieder van de erkende en voorwaardelijk toegelaten schuldeisers, alsmede aan de schuldeisers als bedoeld in artikel 110, derde lid, schriftelijk kennis gegeven, met vermelding van het voor hem uitgetrokken bedrag.   
+3.  Van de neerlegging wordt door zorg van de curator aankondiging gedaan in het nieuwsblad of de nieuwsbladen bedoeld in artikel 14, terwijl daarvan bovendien aan ieder der erkende en voorwaardelijk toegelaten schuldeisers, alsmede aan de schuldeisers als bedoeld in artikel 110, derde lid, schriftelijk kennis wordt gegeven, met vermelding van het voor hem uitgetrokken bedrag.   
 
 ### Artikel  184  
 
@@ -1293,6 +1294,7 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 1.  Ook een niet-geverifieerde schuldeiser, zomede een schuldeiser, wiens vordering voor een te laag bedrag is geverifieerd, doch overeenkomstig zijn opgave, kan verzet doen, mits hij uiterlijk twee dagen vóór die waarop het verzet ter openbare terechtzitting zal behandeld worden, de vordering of het niet-geverifieerde deel der vordering bij de curator indiene, een afschrift daarvan bij het bezwaarschrift voege, en in dit bezwaarschrift tevens verzoek doe om geverifieerd te worden.   
 2.  De verificatie geschiedt alsdan op de wijze, bij artikel 119 en volgende voorgeschreven, ter openbare terechtzitting, bestemd voor de behandeling van het verzet en voordat daarmede een aanvang wordt gemaakt.   
 3.  Indien dit verzet alleen ten doel heeft als schuldeiser geverifieerd te worden, en er niet tevens door anderen verzet is gedaan, komen de kosten van het verzet ten laste van de nalatige schuldeiser.   
+4.  Door een schuldeiser als bedoeld in artikel 110, derde lid, kan niet het in het eerste lid bedoelde verzet worden gedaan.   
 
 ### Artikel  187  
 
@@ -1354,6 +1356,8 @@ De bepaling van het vorige artikel geldt niet voorzover de vordering door de gef
 ### Negende  afdeeling  
 
 ####Vervallen
+
+Vervallen per 01-01-2003   
 
 ### Tiende  afdeling  
 
@@ -1495,7 +1499,7 @@ a. de deelnemers het Nederlandse recht hebben gekozen als het recht dat op die o
 b. ten minste een van de deelnemers zijn hoofdvestiging in Nederland heeft.      
 3.  Een tussen interoperabele systemen gesloten overeenkomst vormt geen systeem.   
 4.  Aan de beschikking tot aanwijzing als systeem en aan de beschikking tot aanwijzing als systeemexploitant kan de Minister van Financiën voorschriften verbinden.   
-5.  De systeemexploitant stelt de Minister van Financiën in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem.   
+5.  De systeemexploitant stelt De Nederlandsche Bank N.V. in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem. De Nederlandsche Bank N.V. ontvangt de informatie namens de Minister van Financiën.   
 6.  Van een beschikking als bedoeld in het eerste lid wordt in de Staatscourant mededeling gedaan.   
 7.  De Minister van Financiën meldt de aangewezen systemen aan bij de Europese autoriteit voor effecten en markten.   
 8.  Een instelling deelt desgevraagd een ieder die een gerechtvaardigd belang heeft mee aan welke systemen de instelling deelneemt en verstrekt informatie over de belangrijkste regels die gelden voor de werking van die systemen.   
@@ -1596,7 +1600,7 @@ d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld 
 2.  Ingeval De Nederlandsche Bank N.V. een overdrachtsplan als bedoeld in artikel 212hc heeft overgelegd, keurt de rechtbank het overdrachtsplan goed, tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is. Bij het vaststellen of de prijs of wijze redelijk is wordt uitgegaan van het te verwachten toekomstperspectief van de bank in de situatie dat het overdrachtsplan niet wordt goedgekeurd.   
 3.  Onverminderd het tweede lid, keurt de rechtbank het plan met betrekking tot de overdracht van activa of passiva goed, tenzij schuldeisers daardoor zouden worden benadeeld.   
 
-### Artikel  212hh*  
+### Artikel  212hga  
 
 1.  Bij het uitspreken van het faillissement benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer curatoren. De Nederlandsche Bank N.V. kan voor de benoeming van de curator of curatoren voordrachten doen.   
 2.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de curator bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de bank is gelegen of waarnaar zij diensten verricht. De uittreksels vermelden naam en zetel van de bank, de woonplaats of het kantoor van de curator alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de bank een bijkantoor heeft of waarnaar zij diensten verricht wordt daarenboven vermeld dat op het faillissement, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, dat De Nederlandsche Bank N.V. de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beschikking beroep in cassatie kan worden ingesteld met vermelding van het volledige adres van de Hoge Raad en het onderwerp van de beschikking.   
@@ -1657,7 +1661,7 @@ De curator voert het overdrachtsplan uit zo spoedig mogelijk nadat de rechtbank 
 
 1.  De Nederlandsche Bank N.V. kan, in overleg met de curator, de rechtbank Amsterdam verzoeken om een reeds goedgekeurd overdrachtsplan aan te passen. [Artikel 3:159ij, tweede en derde lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is van overeenkomstige toepassing op de goedkeuring van de wijziging.   
 2.  Ingeval de rechtbank de aanpassing niet goedkeurt, wijst zij het verzoek om aanpassing van het overdrachtsplan af en blijft het overdrachtsplan ongewijzigd in stand.   
-3.  De artikelen 212hd tot en met 212hh en 212hk, tweede lid, tot en met 212hp zijn van overeenkomstige toepassing op de aanpassing van het overdrachtsplan.   
+3.  De artikelen 212hd tot en met 212hga en 212hk, tweede lid, tot en met 212hp zijn van overeenkomstige toepassing op de aanpassing van het overdrachtsplan.   
 
 ### Artikel  212hr  
 
@@ -1914,7 +1918,7 @@ a. een verzekeraar met zetel in een andere lidstaat dan Nederland die in die lid
 
 b. een verzekeraar met zetel in een staat die geen lidstaat is, en die zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor.     
 
-### Artikel  213aa*  
+### Artikel  213abis  
 
 1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een verzekeraar die een vergunning als bedoeld in [artikel 2:26a](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:27](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [2:54a van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de technische voorzieningen en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die verzekeraar het faillissement uit te spreken.   
 2.  Een ander dan De Nederlandsche Bank N.V. kan niet het faillissement van een verzekeraar die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
@@ -1946,12 +1950,12 @@ b. beslissingen als bedoeld in [artikel 3:159f, eerste lid, van die wet](../../.
 
 c. beslissingen als bedoeld in de [artikelen 1:75](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:76 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in [artikel 3:159d, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan;  
 
-d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 213aa, eerste lid, voordoet.     
+d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 213a bis, eerste lid, voordoet.     
 2.  Ingeval een verzekeraar zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.   
 
 ### Artikel  213ag  
 
-1.  De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 213aa, eerste lid, voordoet.   
+1.  De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 213a bis, eerste lid, voordoet.   
 2.  Ingeval De Nederlandsche Bank N.V. een overdrachtsplan als bedoeld in artikel 213ac heeft overgelegd, keurt de rechtbank het overdrachtsplan goed, tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is. Bij het vaststellen of de prijs of wijze redelijk is wordt uitgegaan van het te verwachten toekomstperspectief van de verzekeraar in de situatie dat het overdrachtsplan niet wordt goedgekeurd.   
 3.  Onverminderd het tweede lid, keurt de rechtbank het plan met betrekking tot de overdracht van activa of passiva goed, tenzij schuldeisers daardoor zouden worden benadeeld.   
 4.  Bij het uitspreken van het faillissement benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer curatoren. De Nederlandsche Bank N.V. kan voor de benoeming van curatoren voordrachten doen.   
@@ -1960,7 +1964,7 @@ d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld 
 ### Artikel  213ah  
 
 1.  Een beschikking als bedoeld in artikel 213ab of 213ag, eerste lid, is uitvoerbaar bij voorraad.   
-2.  In afwijking van artikel 8, eerste lid, staat geen hoger beroep open tegen het uitspreken van het faillissement indien de rechtbank eveneens een verzoek om goedkeuring van een overdrachtsplan als bedoeld in artikel 212ac heeft toegewezen.   
+2.  In afwijking van artikel 8, eerste lid, staat geen hoger beroep open tegen het uitspreken van het faillissement indien de rechtbank eveneens een verzoek om goedkeuring van een overdrachtsplan als bedoeld in artikel 213ac heeft toegewezen.   
 
 ### Artikel  213ai  
 
@@ -2016,7 +2020,7 @@ De curator voert het overdrachtsplan uit zo spoedig mogelijk nadat de rechtbank 
 
 ### Artikel  213aq  
 
-De artikelen 213aa tot en met 213ap zijn van overeenkomstige toepassing op een verzekeraar met zetel in een staat die geen lidstaat is.  
+De artikelen 213a bis tot en met 213ap zijn van overeenkomstige toepassing op een verzekeraar met zetel in een staat die geen lidstaat is.  
 
 ### Artikel  213b  
 

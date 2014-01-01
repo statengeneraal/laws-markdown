@@ -38,15 +38,15 @@ h. *zaak:* een door de bewindvoerder af te wikkelen schuldsaneringsboedel.
 1.  De vergoeding per zaak bestaat uit een looptijdonafhankelijk deel en een looptijdafhankelijk deel.   
 2.  Het looptijdonafhankelijke deel voor elke afgeronde zaak bedraagt: 
 
-a. € 1.033 indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of  
+a. € 1.044 indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of  
 
-b. € 2.290 indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of  
+b. € 2.314 indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of  
 
-c. € 1.240 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of  
+c. € 1.253 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of  
 
-d. € 2.746 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden.     
-3.  Het looptijdafhankelijke deel wordt berekend over iedere maand, een gedeelte van een maand daaronder begrepen, gedurende welke de schuldsaneringsregeling in een zaak van toepassing is, en bedraagt voor iedere maand vanaf de maand waarin de toepassing van de schuldsaneringsregeling wordt uitgesproken € 51.   
-4.  Indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt, bedraagt het looptijdafhankelijke deel in een zaak, in afwijking van het derde lid, € 61,50.   
+d. € 2.775 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden.     
+3.  Het looptijdafhankelijke deel wordt berekend over iedere maand, een gedeelte van een maand daaronder begrepen, gedurende welke de schuldsaneringsregeling in een zaak van toepassing is, en bedraagt voor iedere maand vanaf de maand waarin de toepassing van de schuldsaneringsregeling wordt uitgesproken € 51,50.   
+4.  Indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt, bedraagt het looptijdafhankelijke deel in een zaak, in afwijking van het derde lid, € 62,00.   
 5.  De in het tweede, derde en vierde lid genoemde bedragen worden jaarlijks met ingang van 1 januari bij regeling van Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij: 
 
 a. A gelijk is aan het procentuele verschil tussen het indexcijfer van de CAO-lonen per uur, inclusief de bijzondere beloningen van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;  

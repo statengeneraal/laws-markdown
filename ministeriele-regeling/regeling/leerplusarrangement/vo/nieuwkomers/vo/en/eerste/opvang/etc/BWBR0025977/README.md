@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuurbeheer en Voedselkwaliteit,
 
-Gelet op [artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 2.2.3, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
+Gelet op artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs en artikel 2.2.3, derde lid, van de Wet educatie en beroepsonderwijs
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,27 +19,27 @@ In deze regeling wordt verstaan onder:
 
 a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. *school:* een school of scholengemeenschap voor voortgezet onderwijs, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. *school:* een school of scholengemeenschap voor voortgezet onderwijs, bedoeld in artikel 1 van de Wet op het voortgezet onderwijs, waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in artikel 1.3.3, van de Wet educatie en beroepsonderwijs;  
 
 c. *vestiging:* een onderdeel van een school dat conform beschikking van de minister als zodanig mag worden aangeduid en waarvoor toestemming bestaat om voor de bekostiging leerlingen op te tellen.  
 
-d. *GBA:* de gemeentelijke basisadministratie, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
+d. *GBA:* de gemeentelijke basisadministratie, bedoeld in artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens;  
 
-e. *basisregister onderwijs:* het basisregister onderwijs, bedoeld in artikel [24b van de Wet op het onderwijstoezicht](../../../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+e. *basisregister onderwijs:* het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
-f. *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1.1.1, onderdeel y, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f. *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in artikel 1 van de Wet op het voortgezet onderwijs en artikel 1.1.1, onderdeel y, van de Wet educatie en beroepsonderwijs;  
 
 g. *teldatum:* 1 oktober van enig kalenderjaar;  
 
 h. *armoedeprobleemcumulatiegebied:* een cumulatiegebied zoals gehanteerd in de Armoedemonitor 2005 van het Sociaal en Cultureel Planbureau en het Centraal Bureau voor de Statistiek, en vervolgens tweejaarlijks op basis van het Regionaal Inkomensonderzoek geactualiseerd;  
 
-i. *apc-leerling:* de leerling, die op grond van [artikel 7 van het Bekostigingsbesluit W.V.O](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md). of op grond van [artikel 2.3.2 Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) voor bekostiging wordt meegeteld en die woonachtig is in een postcodegebied dat valt in een armoedeprobleemcumulatiegebied;  
+i. *apc-leerling:* de leerling, die op grond van artikel 7 van het Bekostigingsbesluit W.V.O. of op grond van artikel 2.3.2 Uitvoeringsbesluit WEB voor bekostiging wordt meegeteld en die woonachtig is in een postcodegebied dat valt in een armoedeprobleemcumulatiegebied;  
 
 j. *L+A-leerling:* apc-leerling op een vestiging die voor bekostiging in aanmerking komt op grond van artikel 4 van deze regeling;  
 
-k. *Nieuwkomer VO:* de leerling, die op grond van [artikel 7 van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) of op grond van [artikel 2.3.2 Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) voor bekostiging wordt meegeteld en die vreemdeling is als bedoeld in [artikel 1, onderdeel m, van de Vreemdelingenwet 2000](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;  
+k. *Nieuwkomer VO:* de leerling, die op grond van artikel 7 van het Bekostigingsbesluit W.V.O. of op grond van artikel 2.3.2 Uitvoeringsbesluit WEB voor bekostiging wordt meegeteld en die vreemdeling is als bedoeld in artikel 1, onderdeel m, van de Vreemdelingenwet 2000 en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;  
 
-l. *schoolplan:* het schoolplan, bedoeld in [artikel 24 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+l. *schoolplan:* het schoolplan, bedoeld in artikel 24 van de Wet op het voortgezet onderwijs;  
 
 m. *Vreemdeling:* Leerling die 
 
@@ -77,9 +77,9 @@ n. *peildatum:* 1 april of 1 oktober van enig kalenderjaar.
 
 1.  De verstrekking van aanvullende personele bekostiging, bedoeld in artikel 2, eerste lid, vindt plaats voor één kalenderjaar.   
 2.  De aanvullende personele bekostiging wordt bepaald op grond van het aantal L+A-leerlingen dat op de teldatum van enig kalenderjaar bij de school als werkelijk schoolgaand staat ingeschreven.   
-3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand mei plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald.   
+3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand mei plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald. Als teldata gelden 1 oktober 2011 en 1 oktober 2012.   
 4.  De betaling van de aanvullende personele bekostiging vindt plaats volgens het betaalritme van de reguliere personele bekostiging.   
-5.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
+5.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O., daartoe aanleiding geeft.   
 6.  Vaststelling van de aanvullende personele bekostiging vindt plaats na de verstrekking van de aanvullende personele bekostiging, bedoeld in het derde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het vijfde lid.   
 
 ### Artikel  4  
@@ -137,10 +137,10 @@ Indien in de periode tussen de eerste teldatum en de daarop volgende teldatum, b
 
 1.  De verstrekking van de aanvullende personele bekostiging, bedoeld in artikel 2, tweede lid, is gebaseerd op het aantal Nieuwkomers VO dat op de teldatum van enig kalenderjaar bij de school als werkelijk schoolgaand staat ingeschreven.   
 2.  De verstrekking van de aanvullende personele bekostiging vindt plaats op basis van de per teldatum door het bevoegd gezag van de school aangeleverde gegevens en wordt toegekend voor één kalenderjaar.   
-3.  De aanvullende personele bekostiging wordt bepaald door de som van het aantal formatieplaatsen vastgesteld op grond van artikel 9, vierde lid, te vermenigvuldigen met de voor de school geldende gemiddelde personeelslast voor leerkrachten ingevolge [artikel 85 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en wordt rekenkundig afgerond op twee decimalen.   
+3.  De aanvullende personele bekostiging wordt bepaald door de som van het aantal formatieplaatsen vastgesteld op grond van artikel 9, vierde lid, te vermenigvuldigen met de voor de school geldende gemiddelde personeelslast voor leerkrachten ingevolge artikel 85 van de Wet op het voortgezet onderwijs en wordt rekenkundig afgerond op twee decimalen.   
 4.  Verstrekking van de aanvullende personele bekostiging vindt plaats uiterlijk in de maand maart na de teldatum.   
 5.  De betaling van de aanvullende personele bekostiging Nieuwkomers VO vindt plaats volgens het betaalritme van de reguliere personele bekostiging.   
-6.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen, indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
+6.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen, indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O., daartoe aanleiding geeft.   
 7.  Vaststelling van de aanvullende personele bekostiging vindt plaats na de verstrekking van de aanvullende personele bekostiging, bedoeld in het vierde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het zesde lid.   
 
 ### Artikel  8  
@@ -161,7 +161,7 @@ a. in geval van Nieuwkomers VO op de teldatum korter dan één jaar in Nederland
 b. in geval van Nieuwkomers VO op de teldatum van één tot twee jaar in Nederland: 1/25.     
 3.  De Nieuwkomer VO kan ten hoogste één keer in aanmerking komen voor dezelfde ratio, bedoeld in het tweede lid.   
 4.  Het aantal formatieplaatsen dat de uitkomst is van de berekening op grond van het eerste lid, wordt rekenkundig afgerond op drie decimalen.   
-5.  De Minister van Landbouw, Natuurbeheer en Voedselkwaliteit kent op grond van [artikel 2.3.2, tweede lid, van het Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), voor de nieuwkomers VO voor het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum een bedrag toe dat gelijk is aan de uitkomst van de berekening in het vierde lid, vermenigvuldigd met de voor de bedoelde school geldende gemiddelde personeelslast voor leerkrachten, bedoeld in artikel 7, derde lid.   
+5.  De Minister van Landbouw, Natuurbeheer en Voedselkwaliteit kent op grond van artikel 2.3.2, tweede lid, van het Uitvoeringsbesluit WEB, voor de nieuwkomers VO voor het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum een bedrag toe dat gelijk is aan de uitkomst van de berekening in het vierde lid, vermenigvuldigd met de voor de bedoelde school geldende gemiddelde personeelslast voor leerkrachten, bedoeld in artikel 7, derde lid.   
 
 ### Artikel  10  
 
@@ -220,7 +220,7 @@ b. 1 april: voor de periode januari direct voorafgaand aan deze peildatum tot en
 ####Gegevenslevering
 
 1.  Voor het aantonen van de juistheid van de door het bevoegd gezag te verstrekken gegevens over Vreemdelingen per peildatum 1 oktober is artikel 10 van overeenkomstige toepassing.   
-2.  Voor het aantonen van juistheid van de te verstrekken gegevens over Vreemdelingen per peildatum 1 april draagt het bevoegd gezag er zorg voor dat de door de minister verstrekte gegevens, bedoeld in [artikel 103c, eerste lid, tweede volzin, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in de administratie van de school zijn opgenomen. Indien deze gegevens over nationaliteit en verblijfsduur ontbreken in de administratie van de school, draagt het bevoegd gezag er zorg voor dat een kopie van een of meer van de documenten genoemd in bijlage 1, aanwezig is in de administratie van de school.   
+2.  Voor het aantonen van juistheid van de te verstrekken gegevens over Vreemdelingen per peildatum 1 april draagt het bevoegd gezag er zorg voor dat de door de minister verstrekte gegevens, bedoeld in artikel 103c, eerste lid, tweede volzin, van de Wet op het voortgezet onderwijs, in de administratie van de school zijn opgenomen. Indien deze gegevens over nationaliteit en verblijfsduur ontbreken in de administratie van de school, draagt het bevoegd gezag er zorg voor dat een kopie van een of meer van de documenten genoemd in bijlage 1, aanwezig is in de administratie van de school.   
 
 ### Hoofdstuk  3  
 
@@ -262,9 +262,9 @@ A: de aanvullende personele bekostiging die een school voor kalenderjaar 2007 he
 
 B: de aanvullende personele bekostiging die een school ontvangt voor kalenderjaar 2009 op grond van hoofdstuk 2, paragraaf 2, van deze regeling;  
 
-C: 2,5% van de totale personele lumpsumbekostiging van de betreffende school op grond van [artikel 8 van het Formatiebesluit W.V.O.](../../../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md), berekend met de op 1 januari 2009 voor de school geldende personeelslasten.     
+C: 2,5% van de totale personele lumpsumbekostiging van de betreffende school op grond van artikel 8 van het Formatiebesluit W.V.O., berekend met de op 1 januari 2009 voor de school geldende personeelslasten.     
 3.  Verstrekking en betaling van het compensatiebudget vindt in zijn geheel plaats uiterlijk in de maand maart van het kalenderjaar 2009.   
-4.  De minister kan de hoogte van het compensatiebudget wijzigen, indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
+4.  De minister kan de hoogte van het compensatiebudget wijzigen, indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O., daartoe aanleiding geeft.   
 5.  Vaststelling van het compensatiebudget vindt plaats na de vaststelling van de aanvullende personele bekostiging, bedoeld in het derde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het vierde lid.   
 
 ### Hoofdstuk  6  
@@ -275,18 +275,18 @@ C: 2,5% van de totale personele lumpsumbekostiging van de betreffende school op 
 
 ####Intrekking
 
-1.  De [Regeling Leerplusarrangement VO en Nieuwkomers VO](../../../../../../../../../../../ministeriele-regeling/regeling/leerplusarrangement/vo/en/nieuwkomers/vo/BWBR0019753/README.md) wordt ingetrokken.   
-2.  De [Regeling schaduwdraaien en wijziging Regeling Leerplusarrangement](../../../../../../../../../../../ministeriele-regeling/regeling/schaduwdraaien/en/wijziging/regeling/leerplusarrangement/BWBR0022316/README.md) wordt ingetrokken.   
+1.  De Regeling Leerplusarrangement VO en Nieuwkomers VO wordt ingetrokken.   
+2.  De Regeling schaduwdraaien en wijziging Regeling Leerplusarrangement wordt ingetrokken.   
 
 ### Artikel  19a  
 
 ####Overgangsrecht voor de periode 1 augustus 2006 tot en met 31 december 2006
 
-De bepaling in [artikel 2, eerste lid, van de Regeling aanvullende personele bekostiging culturele minderheidsgroepen en anderstalige leerlingen WVO 2002](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/personele/bekostiging/culturele/minderheidsgroepen/en/etc/BWBR0013591/README.md) ter zake van de bekostiging blijft van kracht voor de periode van 1 augustus 2006 tot en met 31 december 2006.  
+De bepaling in artikel 2, eerste lid, van de Regeling aanvullende personele bekostiging culturele minderheidsgroepen en anderstalige leerlingen WVO 2002 ter zake van de bekostiging blijft van kracht voor de periode van 1 augustus 2006 tot en met 31 december 2006.  
 
 ### Artikel  20  
 
-####Overgangsrecht elektronisch bestand van 1 oktober 2007 van scholen voor praktijkonderwijs als bedoeld in [artikel 9 van het Besluit RVC’s, regionaal zorgbudget en praktijkscholen met declaratiebekostiging](../../../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md), zoals dat luidde op 31 juli 2006
+####Overgangsrecht elektronisch bestand van 1 oktober 2007 van scholen voor praktijkonderwijs als bedoeld in artikel 9 van het Besluit RVC’s, regionaal zorgbudget en praktijkscholen met declaratiebekostiging, zoals dat luidde op 31 juli 2006
 
 Bij een afwijking van het elektronisch bestand van 1 oktober 2007 van meer dan 1% van de integrale leerlingtelling van 1 oktober 2007 vindt voor het bevoegd gezag van de school met betrekking tot de teldatum 1 oktober 2007 geen toepassing plaats van artikel 4, eerste lid.  
 
@@ -294,7 +294,7 @@ Bij een afwijking van het elektronisch bestand van 1 oktober 2007 van meer dan 
 
 ####Overgangsrecht leerlingentelling bij omzetten dislocatie in vestiging
 
-1.  In afwijking van artikel 6a worden de leerlingen van een dislocatie die op grond van [artikel III, negende lid, van de Wet van 11 juli 2008 tot wijziging van onder meer de Wet op het voortgezet onderwijs ter modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(modernisering/etc/BWBR0024243/README.md) (Stb. 2008, 296), wordt omgezet in een nevenvestiging of tijdelijke nevenvestiging, voor de toepassing van artikel 4, eerste lid, eenmalig toegerekend aan de vestiging waar de dislocatie deel van uitmaakte, indien: 
+1.  In afwijking van artikel 6a worden de leerlingen van een dislocatie die op grond van artikel III, negende lid, van de Wet van 11 juli 2008 tot wijziging van onder meer de Wet op het voortgezet onderwijs ter modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen (Stb. 2008, 296), wordt omgezet in een nevenvestiging of tijdelijke nevenvestiging, voor de toepassing van artikel 4, eerste lid, eenmalig toegerekend aan de vestiging waar de dislocatie deel van uitmaakte, indien: 
 
 a. de dislocatie tussen de twee teldata van een cyclus wordt omgezet, en  
 
@@ -330,7 +330,7 @@ A. Nationaliteit
 
 * Pasje (kopie voor- en achterkant): W-document en/of verblijfsvergunning voor bepaalde tijd asiel (VVA-bep) of verblijfsvergunning voor bepaalde tijd regulier (VVR-bep)  
 
-* Beschikking minister van Justitie op grond van [artikel 9 van de Vreemdelingenwet](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+* Beschikking minister van Justitie op grond van artikel 9 van de Vreemdelingenwet  
 
 * Rapportage IND  
 
@@ -340,7 +340,7 @@ B. Verblijfsduur
 
 * Datumstempel in paspoort bij binnenkomst in Nederland  
 
-* Beschikking minister van Justitie op grond van [artikel 9 van de Vreemdelingenwet](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+* Beschikking minister van Justitie op grond van artikel 9 van de Vreemdelingenwet  
 
 * Rapportage IND  
 
@@ -350,8 +350,8 @@ B. Verblijfsduur
 
 ####behorende bij artikel 14  van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
-![248844](http://wetten.overheid.nl/Illustration/248844)
-![248844](http://wetten.overheid.nl/Illustration/248844)
+![]()
+![]()
 
 ### Bijlage  3  
 
@@ -360,7 +360,7 @@ B. Verblijfsduur
 Per elementcode wordt hieronder aangegeven tot welke groep deze gerekend wordt  
 
 | GROEP  | DREMPEL  |
-|:---|:---|
+|---|---|
 | GROEP 1 VMBO  | 30%  |
 | GROEP 2 PRO  | 30%  |
 | GROEP 3 HAVO  | 50%  |
@@ -371,7 +371,7 @@ Per elementcode wordt hieronder aangegeven tot welke groep deze gerekend wordt
 Elementcodetabel VO schooljaar 2010–2011 
 
 | ELEMENTCODE  | OMSCHRIJVING  | GROEP  |
-|:---|:---|:---|
+|---|---|---|
 | 0011  | Ljvb op HAVO/VMBO-Th/Gm Lw  | 5  |
 | 0012  | Ljvb op VMBO-Gm Lw  | 1  |
 | 0013  | Ljvb op VMBO-Th/Gm Lw  | 1  |
@@ -754,22 +754,22 @@ Elementcodetabel VO schooljaar 2010–2011
 
 ### Bijlage  4  
 
-####behorende bij artikel 5, derde lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
+####, behorende bij artikel 5, derde lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
 Het totaal beschikbare budget en het bedrag per L+A leerling is:  
 
-|--- | 2013  |
-|:---|:---|
-| Totaal beschikbare budget per jaar voor L+A  | € 50.728.00  |
-| Bedrag per L+A-leerling  | € 750  |
+|--- | 2014  |
+|---|---|
+| Totaal beschikbare budget per jaar voor L+A  | € 50.728.000,–  |
+| Bedrag per L+A leerling  | € 750  |
 
 ### Bijlage  5  
 
-####bij artikel 5 
+####, behorende bij artikel 5, vijfde lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
-Lijst met postcodes van de armoedeprobleemcumulatiegebieden L+A 2013 
+Lijst met postcodes van de armoedeprobleemcumulatiegebieden L+A 2014 
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|
 | 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  | 1013  1014  1015  1016  1018  1021  1022  1024  1025  1031  1032  1033  1034  1036  1051  1052  1053  1054  1055  1056  1057  1058  1059  1061  1062  1063  1064  1065  1067  1068  1069  1072  1073  1074  1076  1079  1083  1086  1087  1091  | 1092  1093  1094  1095  1097  1102  1103  1104  1106  1107  1212  1221  1314  1324  1334  1353  1354  1503  1504  1505  1622  1784  1813  1946  1951  2033  2034  2035  2262  2263  2273  2287  2315  2316  2321  2511  2512  2513  2515  2516  | 2518  2521  2524  2525  2526  2531  2532  2533  2541  2542  2543  2544  2545  2562  2563  2571  2572  2584  2591  2592  2595  2612  2624  2625  2715  2717  2722  2802  2905  3012  3014  3021  3022  3023  3024  3025  3026  3027  3028  3029  | 3031  3032  3033  3034  3035  3036  3037  3038  3042  3052  3053  3061  3063  3071  3072  3073  3074  3075  3076  3077  3078  3079  3081  3082  3083  3084  3085  3086  3087  3089  3112  3114  3118  3119  3122  3192  3193  3194  3311  3314  | 3317  3333  3511  3513  3515  3525  3526  3527  3551  3552  3554  3555  3561  3562  3563  3564  3706  3765  3816  4006  4142  4337  4382  4383  4463  4537  4621  4812  4814  4816  4826  4827  5011  5014  5022  5025  5042  5044  5046  5049  | 5212  5213  5224  5231  5233  5462  5612  5615  5621  5622  5625  5632  5641  5642  5643  5651  5654  5665  5701  5702  5703  5705  5914  5915  5921  5922  5925  6042  6043  6044  6045  6163  6165  6214  6217  6224  6412  6415  6534  6535  | 6537  6538  6541  6542  6543  6544  6545  6546  6714  6811  6822  6823  6826  6828  6831  6832  6833  6834  6841  7002  7202  7204  7323  7413  7415  7416  7417  7511  7512  7513  7514  7523  7533  7541  7543  7544  7545  7553  7556  7557  | 7574  7601  7603  7604  7605  7606  7824  7942  8021  8022  8031  8223  8224  8225  8226  8231  8233  8243  8442  8911  8918  8921  8923  8924  8937  9602  9711  9713  9715  9716  9732  9733  9736  9737  9741  9742  9743  9931  9933  |
 

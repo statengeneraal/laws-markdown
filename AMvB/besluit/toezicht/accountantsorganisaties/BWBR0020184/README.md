@@ -553,7 +553,9 @@ c. de wijze waarop en aan wie de vertrouwelijke gegevens of inlichtingen worden 
 
 ### Hoofdstuk  10  
 
-####Bepaling ter uitvoering van [artikel 41, vierde lid, van de wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)
+####Bepaling ter uitvoering van artikel 41, vierde lid, van de wet
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  11  
 

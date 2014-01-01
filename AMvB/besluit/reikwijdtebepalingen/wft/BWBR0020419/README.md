@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 12 juli 2006, no. FM 2006-01704 M;
 
-Gelet op de [artikelen 1:10](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:11](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:5](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:36](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:110 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op de artikelen 1:10, 1:11, 3:5, 3:36 en 3:110 van de Wet op het financieel toezicht;
 
 De Raad van State gehoord (advies van 17 augustus 2006, no. W06.06.0333/IV);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. wet: Wet op het financieel toezicht;  
 
 b. Zwitserland: Zwitserse Bondsstaat.    
 
@@ -30,7 +30,7 @@ b. Zwitserland: Zwitserse Bondsstaat.
 
 ### Afdeling  2.1  
 
-####Bepalingen ter uitvoering van de [artikelen 1:10, aanhef en onderdeel a](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:36, zesde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Bepalingen ter uitvoering van de artikelen 1:10, aanhef en onderdeel a, en 3:36, zesde lid, van de wet
 
 ### §  2.1.1  
 
@@ -38,7 +38,7 @@ b. Zwitserland: Zwitserse Bondsstaat.
 
 ### Artikel  2  
 
-1.  Het ingevolge het [Algemeen deel](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het [Deel Markttoegang financiële ondernemingen](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het [Deel Prudentieel toezicht financiële ondernemingen](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de [afdeling 5.4.3 van het Deel Gedragstoezicht financiële markten van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde met betrekking tot het uitoefenen van het bedrijf van schadeverzekeraar is, voorzover in dit besluit niet anders is bepaald, niet van toepassing op onderlinge waarborgmaatschappijen van beperkte omvang met zetel in Nederland die het bedrijf van schadeverzekeraar uitoefenen en in het bezit zijn van een door de Nederlandsche Bank ingevolge deze paragraaf verleende verklaring.   
+1.  Het ingevolge het Algemeen deel, het Deel Markttoegang financiële ondernemingen, het Deel Prudentieel toezicht financiële ondernemingen en de afdeling 5.4.3 van het Deel Gedragstoezicht financiële markten van de wet bepaalde met betrekking tot het uitoefenen van het bedrijf van schadeverzekeraar is, voorzover in dit besluit niet anders is bepaald, niet van toepassing op onderlinge waarborgmaatschappijen van beperkte omvang met zetel in Nederland die het bedrijf van schadeverzekeraar uitoefenen en in het bezit zijn van een door de Nederlandsche Bank ingevolge deze paragraaf verleende verklaring.   
 2.  Bij de aanvraag van een verklaring legt de aanvrager aan de Nederlandsche Bank een gewaarmerkt afschrift van de statuten, een lijst met namen en adressen van zijn bestuurders en een programma van werkzaamheden over, dat bevat: 
 
 a. een opgave van de aard van de risico’s die de onderlinge waarborgmaatschappij voornemens is te dekken;  
@@ -56,7 +56,7 @@ f. een raming van de premies en van de schaden;
 g. een raming van de liquiditeitspositie; en  
 
 h. een raming van de financiële middelen tot dekking van de verplichtingen en, voorzover van toepassing, tot dekking van de solvabiliteitsmarge bedoeld in artikel 4, tweede lid.     
-3.  Indien artikel 4 van toepassing is worden tevens bewijsstukken overgelegd waaruit blijkt dat de onderlinge waarborgmaatschappij voldoet aan artikel 4, tweede lid, en is het ingevolge [artikel 3:57, eerste tot en met derde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde van toepassing.   
+3.  Indien artikel 4 van toepassing is worden tevens bewijsstukken overgelegd waaruit blijkt dat de onderlinge waarborgmaatschappij voldoet aan artikel 4, tweede lid, en is het ingevolge artikel 3:57, eerste tot en met derde lid, van de wet bepaalde van toepassing.   
 
 ### Artikel  3  
 
@@ -64,7 +64,7 @@ h. een raming van de financiële middelen tot dekking van de verplichtingen en, 
 
 a. de statuten bepalen dat de leden tijdens de bedrijfsuitoefening verplicht zijn of kunnen worden volledig bij te dragen in de tekorten of dat de schadevergoedingsplicht naar gelang van de beschikbare middelen kan worden beperkt en dat bij de ontbinding de leden en zij die binnen de in de statuten bepaalde termijn hebben opgehouden leden te zijn, aansprakelijk zijn voor tekorten of dat de schadevergoedingsplicht naargelang de beschikbare middelen kan worden beperkt;  
 
-b. de bedrijfsuitoefening is beperkt tot slechts een van de branches, bedoeld in [artikel 2:27, tweede lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met uitzondering van de branches Ongevallen, Ziekte, Aansprakelijkheid motorrijtuigen, Aansprakelijkheid wegvervoer, Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen, Algemene aansprakelijkheid, Krediet, Borgtocht en Hulpverlening;  
+b. de bedrijfsuitoefening is beperkt tot slechts een van de branches, bedoeld in artikel 2:27, tweede lid, van de wet, met uitzondering van de branches Ongevallen, Ziekte, Aansprakelijkheid motorrijtuigen, Aansprakelijkheid wegvervoer, Aansprakelijkheid luchtvaartuigen, Aansprakelijkheid zee- en binnenschepen, Algemene aansprakelijkheid, Krediet, Borgtocht en Hulpverlening;  
 
 c. de bij hen verzekerde risico’s op genoegzame wijze zijn herverzekerd, tenzij de Nederlandsche Bank besluit dat geen herverzekering behoeft plaats te vinden;  
 
@@ -86,11 +86,11 @@ b. de bedrijfsuitoefening zich niet uitstrekt tot de branches Ongevallen, Ziekte
 c. het jaarlijkse bruto premie-inkomen niet meer dan € 5.000.000 beloopt; en  
 
 d. tenminste de helft van het jaarlijkse bruto premie-inkomen afkomstig is van de leden.     
-2.  De onderlinge waarborgmaatschappij beschikt over een solvabiliteitsmarge die ten minste € 205.000 bedraagt. Ten aanzien van deze solvabiliteitsmarge is het ingevolge [artikel 3:57, eerste tot en met derde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde van toepassing.   
+2.  De onderlinge waarborgmaatschappij beschikt over een solvabiliteitsmarge die ten minste € 205.000 bedraagt. Ten aanzien van deze solvabiliteitsmarge is het ingevolge artikel 3:57, eerste tot en met derde lid, van de wet bepaalde van toepassing.   
 
 ### Artikel  5  
 
-1.  Een onderlinge waarborgmaatschappij waaraan op grond van artikel 3 een verklaring is verleend, dient binnen de door [artikel 58, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bepaalde termijnen de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [391, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), bij de Nederlandsche Bank in.   
+1.  Een onderlinge waarborgmaatschappij waaraan op grond van artikel 3 een verklaring is verleend, dient binnen de door artikel 58, eerste lid, van Boek 2 van het Burgerlijk Wetboek bepaalde termijnen de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de artikelen 361, eerste lid, onderscheidenlijk 391, eerste lid, en 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek, bij de Nederlandsche Bank in.   
 2.  Het eerste lid is niet van toepassing op onderlinge waarborgmaatschappijen waarvan het aantal verzekeringnemers niet groter is dan tweehonderd en het jaarlijkse bruto premie-inkomen niet meer dan € 91.000 beloopt.   
 
 ### Artikel  6  
@@ -100,18 +100,18 @@ d. tenminste de helft van het jaarlijkse bruto premie-inkomen afkomstig is van d
 
 ### Artikel  7  
 
-1.  Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van artikel 3 een verklaring is verleend, is het bepaalde ingevolge de [artikelen 1:1](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:6, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:10, aanhef en onderdeel a](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:24](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:25](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:36](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:40 tot en met 1:42](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:51](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:52](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:59](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:65](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:68](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:72 tot en met 1:74](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:75](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:76, eerste tot en met zevende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:89 tot en met 1:91](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:92](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:93](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:110, eerste lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:27, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:28](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:8 tot en met 3:10](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:17 eerste en tweede lid, aanhef en onderdelen a en b, en vierde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:29, derde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:38](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:70 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing.   
-2.  Met betrekking tot het verzekeren van bijkomende risico’s is het ingevolge [artikel 3:36, vierde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde van toepassing met dien verstande dat de risico’s van de branche Rechtsbijstand uitsluitend als bijkomende risico’s mogen worden gecombineerd met branches waarbij risico’s worden verzekerd die verband houden met het gebruik van zeeschepen. Risico’s die verband houden met aansprakelijkheden ten aanzien waarvan de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) van toepassing is worden evenwel niet als bijkomend risico verzekerd.   
+1.  Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van artikel 3 een verklaring is verleend, is het bepaalde ingevolge de artikelen 1:1, 1:6, tweede lid, 1:10, aanhef en onderdeel a, 1:24, 1:25, 1:36, 1:40 tot en met 1:42, 1:51, 1:52, 1:59, 1:65, 1:68, 1:72 tot en met 1:74, 1:75, 1:76, eerste tot en met zevende lid, 1:89 tot en met 1:91, 1:92, 1:93, 1:110, eerste lid, 2:27, tweede lid, 2:28, 3:8 tot en met 3:10, 3:17 eerste en tweede lid, aanhef en onderdelen a en b, en vierde lid, 3:29, derde lid, 3:38, en 3:70 van de wet van toepassing.   
+2.  Met betrekking tot het verzekeren van bijkomende risico’s is het ingevolge artikel 3:36, vierde lid, van de wet bepaalde van toepassing met dien verstande dat de risico’s van de branche Rechtsbijstand uitsluitend als bijkomende risico’s mogen worden gecombineerd met branches waarbij risico’s worden verzekerd die verband houden met het gebruik van zeeschepen. Risico’s die verband houden met aansprakelijkheden ten aanzien waarvan de Wet aansprakelijkheidsverzekering motorrijtuigen van toepassing is worden evenwel niet als bijkomend risico verzekerd.   
 
 ### Artikel  8  
 
-1.  Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van artikel 4 een verklaring is verleend, is het bepaalde ingevolge de [artikelen 1:1](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:6, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:10, aanhef en onderdeel a](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:24](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:25](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:36](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:40](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:41](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:42](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:51](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:52](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:55](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:59](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:65](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:68](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:72 tot en met 1:74](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:75](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:76, eerste tot en met zevende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:78](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:89 tot en met 1:91](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:92](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:93](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:110](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:27, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:28](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:117 eerste en derde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:119](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:8 tot en met 3:10](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:17, eerste lid, tweede lid, aanhef en onderdelen a en b en vierde lid,](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:29, derde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:38](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:67, eerste lid, derde lid en vierde lid, onderdeel a](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:70](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:71](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:72, derde en vijfde tot en met negende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:73](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:88](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:89](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:114](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:115 eerste en vierde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:116](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:117, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:118](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:120, eerste tot en met derde lid, en vijfde tot en met negende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:121](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:128](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:130](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:132](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:136, eerste, vierde en vijfde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:138](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:139](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:161](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:162 tot en met 3:167](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:169](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:170](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:171, eerste tot en met derde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:172 tot en met 3:176](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:177, eerste lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:178 tot en met 3:193](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:195, eerste tot en met zesde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:196 tot en met 3:198, eerste, tweede, vijfde en zesde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing. [Artikel 108 van de Invoerings- en aanpassingswet Wet op het financieel toezicht](../../../../../wet/invoerings-/en/aanpassingswet/wet/op/het/financieel/toezicht/BWBR0020616/README.md) is van overeenkomstige toepassing.   
+1.  Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van artikel 4 een verklaring is verleend, is het bepaalde ingevolge de artikelen 1:1, 1:6, tweede lid, 1:10, aanhef en onderdeel a, 1:24, 1:25, 1:36, 1:40, 1:41, 1:42, 1:51, 1:52, 1:55, 1:59, 1:65, 1:68, 1:72 tot en met 1:74, 1:75, 1:76, eerste tot en met zevende lid, 1:78, 1:89 tot en met 1:91, 1:92, 1:93, 1:110, 2:27, tweede lid, 2:28, 2:117 eerste en derde lid, 2:119, 3:8 tot en met 3:10, 3:17, eerste lid, tweede lid, aanhef en onderdelen a en b en vierde lid,, 3:29, derde lid, 3:38, 3:67, eerste lid, derde lid en vierde lid, onderdeel a, 3:70, 3:71, 3:72, derde en vijfde tot en met negende lid, 3:73, 3:88, 3:89, 3:114, 3:115 eerste en vierde lid, 3:116, 3:117, tweede lid, 3:118, 3:120, eerste tot en met derde lid, en vijfde tot en met negende lid, 3:121, 3:128, 3:130, 3:132, 3:136, eerste, vierde en vijfde lid, 3:138, 3:139, 3:161, 3:162 tot en met 3:167, 3:169, 3:170, 3:171, eerste tot en met derde lid, 3:172 tot en met 3:176, 3:177, eerste lid, 3:178 tot en met 3:193, 3:195, eerste tot en met zesde lid, en 3:196 tot en met 3:198, eerste, tweede, vijfde en zesde lid, van de wet van toepassing. Artikel 108 van de Invoerings- en aanpassingswet Wet op het financieel toezicht is van overeenkomstige toepassing.   
 2.  De waarden die dienen tot dekking van de technische voorzieningen moeten in toereikende mate in dezelfde muntsoort kunnen worden geïnd of te gelde gemaakt als die waarin de verplichtingen luiden. Deze waarden zijn in Nederland aanwezig, met dien verstande dat met betrekking tot een overeenkomst van communautaire co-assurantie deze waarden ter keuze van de onderlinge waarborgmaatschappij ook aanwezig mogen zijn in de andere lidstaten van waaruit de overige co-assuradeuren deelnemen aan de overeenkomst. De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het bepaalde in dit lid, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit lid beoogt te beschermen anderszins worden bereikt.   
-3.  Met betrekking tot het verzekeren van bijkomende risico’s is het bij of krachtens [artikel 3:36, vierde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde van overeenkomstige toepassing, met dien verstande dat de risico’s van de branche Rechtsbijstand uitsluitend als bijkomende risico’s mogen worden gecombineerd met branches waarbij risico’s worden verzekerd die verband houden met het gebruik van zeeschepen. Risico’s die verband houden met aansprakelijkheden ten aanzien waarvan de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) van toepassing is mogen evenwel niet als bijkomend risico worden verzekerd.   
+3.  Met betrekking tot het verzekeren van bijkomende risico’s is het bij of krachtens artikel 3:36, vierde lid, van de wet bepaalde van overeenkomstige toepassing, met dien verstande dat de risico’s van de branche Rechtsbijstand uitsluitend als bijkomende risico’s mogen worden gecombineerd met branches waarbij risico’s worden verzekerd die verband houden met het gebruik van zeeschepen. Risico’s die verband houden met aansprakelijkheden ten aanzien waarvan de Wet aansprakelijkheidsverzekering motorrijtuigen van toepassing is mogen evenwel niet als bijkomend risico worden verzekerd.   
 
 ### Artikel  9  
 
-Voor de toepassing van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde worden onderlinge waarborgmaatschappijen die in het bezit zijn van een door de Nederlandsche Bank ingevolge deze paragraaf verleende verklaring beschouwd als schadeverzekeraar waaraan ingevolge het [Deel Markttoegang financiële ondernemingen van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een vergunning voor het uitoefenen van het bedrijf van schadeverzekeraar is verleend.  
+Voor de toepassing van het ingevolge het Deel Gedragstoezicht financiële ondernemingen van de wet bepaalde worden onderlinge waarborgmaatschappijen die in het bezit zijn van een door de Nederlandsche Bank ingevolge deze paragraaf verleende verklaring beschouwd als schadeverzekeraar waaraan ingevolge het Deel Markttoegang financiële ondernemingen van de wet een vergunning voor het uitoefenen van het bedrijf van schadeverzekeraar is verleend.  
 
 ### Artikel  10  
 
@@ -119,16 +119,16 @@ Indien een onderlinge waarborgmaatschappij voorziet of redelijkerwijs kan voorzi
 
 ### Artikel  11  
 
-1.  [Artikel 1:104, eerste en tweede lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
+1.  Artikel 1:104, eerste en tweede lid, van de wet is van overeenkomstige toepassing.   
 2.  De Nederlandsche Bank brengt de intrekking van een verklaring, verleend op grond van artikel 4, ter kennis van de toezichthoudende autoriteiten van de lidstaten waarnaar de onderlinge waarborgmaatschappij vanuit Nederland diensten verricht.   
 
 ### Artikel  12  
 
-De Nederlandsche Bank kan onverminderd het bepaalde in [artikel 1:104, eerste en tweede lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een verklaring weigeren of intrekken indien een onderlinge waarborgmaatschappij deel uitmaakt of zal uitmaken van een groep en met het deel uitmaken van die groep naar het oordeel van de Nederlandsche Bank uitsluitend of in hoofdzaak wordt beoogd te bewerkstelligen dat een andere in die groep verbonden onderlinge waarborgmaatschappij voldoet of zal blijven voldoen aan artikel 3, eerste lid, onderdelen e en f, of artikel 4, eerste lid, onderdeel c.  
+De Nederlandsche Bank kan onverminderd het bepaalde in artikel 1:104, eerste en tweede lid, van de wet een verklaring weigeren of intrekken indien een onderlinge waarborgmaatschappij deel uitmaakt of zal uitmaken van een groep en met het deel uitmaken van die groep naar het oordeel van de Nederlandsche Bank uitsluitend of in hoofdzaak wordt beoogd te bewerkstelligen dat een andere in die groep verbonden onderlinge waarborgmaatschappij voldoet of zal blijven voldoen aan artikel 3, eerste lid, onderdelen e en f, of artikel 4, eerste lid, onderdeel c.  
 
 ### Artikel  13  
 
-1.  De intrekking van een verklaring verplicht de onderlinge waarborgmaatschappij haar bedrijf af te wikkelen, tenzij de intrekking gepaard gaat met de verlening van een andere verklaring ingevolge dit besluit of met de verlening van een vergunning als bedoeld in [artikel 2:27, eerste lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+1.  De intrekking van een verklaring verplicht de onderlinge waarborgmaatschappij haar bedrijf af te wikkelen, tenzij de intrekking gepaard gaat met de verlening van een andere verklaring ingevolge dit besluit of met de verlening van een vergunning als bedoeld in artikel 2:27, eerste lid, van de wet.   
 2.  Op de onderlinge waarborgmaatschappij die ingevolge het eerste lid verplicht is haar bedrijf af te wikkelen, blijven gedurende de afwikkeling de bepalingen van dit besluit van toepassing.   
 3.  Gedurende de afwikkeling mag zonder toestemming van de Nederlandsche Bank geen wijziging worden gebracht in de verplichting van de leden om bij te dragen in de tekorten dan wel in de mogelijkheid de schadevergoedingsplicht te beperken.   
 
@@ -138,7 +138,7 @@ De Nederlandsche Bank kan onverminderd het bepaalde in [artikel 1:104, eerste en
 
 ### Artikel  14  
 
-1.  Op een onderneming op onderlinge grondslag van beperkte omvang met zetel buiten Nederland die vanuit een vestiging buiten Nederland door middel van dienstverrichting naar Nederland het bedrijf van schadeverzekeraar uitoefent of uit wil oefenen en niet in het bezit is van een vergunning die overeenkomt met de in [artikel 2:27, eerste lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bedoelde vergunning, zijn de [artikelen 2:34](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:37 tot en met 2:47](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:58, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:78](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:83 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) niet van toepassing, indien de onderneming aan de Nederlandsche Bank aantoont dat: 
+1.  Op een onderneming op onderlinge grondslag van beperkte omvang met zetel buiten Nederland die vanuit een vestiging buiten Nederland door middel van dienstverrichting naar Nederland het bedrijf van schadeverzekeraar uitoefent of uit wil oefenen en niet in het bezit is van een vergunning die overeenkomt met de in artikel 2:27, eerste lid, bedoelde vergunning, zijn de artikelen 2:34, 2:37 tot en met 2:47, 3:24, 3:58, tweede lid, 3:78, en 3:83 van de wet niet van toepassing, indien de onderneming aan de Nederlandsche Bank aantoont dat: 
 
 a. zij voldoet aan voorwaarden die overeenkomen met artikel 3 of artikel 4;  
 
@@ -147,27 +147,27 @@ b. indien de betrokken vestiging zich in een lidstaat bevindt, op deze vestiging
 
 ### Afdeling  2.2  
 
-####Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel b, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Bepalingen ter uitvoering van artikel 1:10, aanhef en onderdeel b, van de wet
 
 ### Artikel  15  
 
-Het bepaalde ingevolge de [artikelen 1:1](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:45, eerste lid, aanhef en onderdelen h en i](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:51, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:78](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:104, eerste lid, onderdeel d](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:38](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:53, eerste tot en met vierde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:57, eerste tot en met vijfde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:67](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:72, derde en vijfde tot en met negende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:73](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:88](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:89](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:132](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:135 tot en met 3:139](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:161 tot en met 3:193](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:195 tot en met 3:201](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:203](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:204](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:207 tot en met 3:219](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:221](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:238 tot en met 3:251](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:255 tot en met 3:257](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:268 tot en met 3:273](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:282 tot en met 3:288](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:27 eerste en derde tot en met zesde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [5:68 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op een schadeverzekeraar als bedoeld in [artikel 1:10, aanhef en onderdeel b, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die voldoet aan de krachtens [artikel 3, derde lid, van de Kaderwet financiële verstrekkingen Financiën](../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md) door Onze Minister gestelde regels.  
+Het bepaalde ingevolge de artikelen 1:1, 1:45, eerste lid, aanhef en onderdelen h en i, 1:51, tweede lid, 1:78, 1:104, eerste lid, onderdeel d, 3:38, 3:53, eerste tot en met vierde lid, 3:57, eerste tot en met vijfde lid, 3:67, 3:72, derde en vijfde tot en met negende lid, 3:73, 3:88, 3:89, 3:132, 3:135 tot en met 3:139, 3:161 tot en met 3:193, 3:195 tot en met 3:201, 3:203, 3:204, 3:207 tot en met 3:219, 3:221, 3:238 tot en met 3:251, 3:255 tot en met 3:257, 3:268 tot en met 3:273, 3:282 tot en met 3:288, 4:27 eerste en derde tot en met zesde lid, en 5:68 van de wet is niet van toepassing op een schadeverzekeraar als bedoeld in artikel 1:10, aanhef en onderdeel b, van de wet die voldoet aan de krachtens artikel 3, derde lid, van de Kaderwet financiële verstrekkingen Financiën door Onze Minister gestelde regels.  
 
 ### Artikel  16  
 
 Een schadeverzekeraar als bedoeld in artikel 15: 
 
-a. legt in zijn statuten vast zich bij het uitoefenen van het bedrijf van schadeverzekeraar te beperken tot de werkzaamheden die ingevolge [artikel 3 van de Kaderwet financiële verstrekkingen Financiën](../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md) verricht mogen worden;  
+a. legt in zijn statuten vast zich bij het uitoefenen van het bedrijf van schadeverzekeraar te beperken tot de werkzaamheden die ingevolge artikel 3 van de Kaderwet financiële verstrekkingen Financiën verricht mogen worden;  
 
 b. vermeldt in de jaarrekening dat alleen risico’s in verzekering zijn genomen voor rekening of met garantie van de Staat der Nederlanden.    
 
 ### Afdeling  2.3  
 
-####Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel c, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Bepalingen ter uitvoering van artikel 1:10, aanhef en onderdeel c, van de wet
 
 ### Artikel  17  
 
-Met uitzondering van de [hoofdstukken 5.1](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5.3](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de [afdelingen 5.4.1](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5.4.2](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [hoofdstuk 5.5 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn de ingevolge de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde regels niet van toepassing op verenigingen en onderlinge waarborgmaatschappijen van beperkte omvang met zetel in Nederland die het bedrijf van natura-uitvaartverzekeraar uitoefenen en: 
+Met uitzondering van de hoofdstukken 5.1 en 5.3, de afdelingen 5.4.1 en 5.4.2, en hoofdstuk 5.5 van de wet, zijn de ingevolge de wet gestelde regels niet van toepassing op verenigingen en onderlinge waarborgmaatschappijen van beperkte omvang met zetel in Nederland die het bedrijf van natura-uitvaartverzekeraar uitoefenen en: 
 
 a. die naar Nederlands recht zijn opgericht voor 1 januari 1995; en  
 
@@ -175,7 +175,7 @@ b. waarvan het aantal meerderjarige verzekerden minder dan 3000 bedraagt.
 
 ### Afdeling  2.4  
 
-####Bepalingen ter uitvoering van [artikel 1:11 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Bepalingen ter uitvoering van artikel 1:11 van de wet
 
 ### Artikel  18  
 
@@ -187,7 +187,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ### Artikel  19  
 
-1.  Een schadeverzekeraar met zetel in Zwitserland legt bij de notificatie, bedoeld in [artikel 2:35 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Nederlandsche Bank een certificaat over, afgegeven door de terzake bevoegde toezichthoudende instantie van Zwitserland, waarin wordt verklaard in welke branches de aanvrager het bedrijf van schadeverzekeraar mag uitoefenen en dat hij beschikt over een solvabiliteitsmarge die overeenkomt met de ingevolge [artikel 3:57 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vereiste solvabiliteitsmarge. Het certificaat vermeldt voorts: 
+1.  Een schadeverzekeraar met zetel in Zwitserland legt bij de notificatie, bedoeld in artikel 2:35 van de wet aan de Nederlandsche Bank een certificaat over, afgegeven door de terzake bevoegde toezichthoudende instantie van Zwitserland, waarin wordt verklaard in welke branches de aanvrager het bedrijf van schadeverzekeraar mag uitoefenen en dat hij beschikt over een solvabiliteitsmarge die overeenkomt met de ingevolge artikel 3:57 van de wet vereiste solvabiliteitsmarge. Het certificaat vermeldt voorts: 
 
 a. welk bedrag aan financiële middelen beschikbaar is om de te verwachten kosten voor de inrichting van de administratie en van het productienet in Nederland te dekken;  
 
@@ -216,7 +216,7 @@ d. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c 
 e. een raming voor de eerste drie boekjaren van de premies en van de schaden van het bijkantoor; en  
 
 f. een raming voor de eerste drie boekjaren van de liquiditeitspositie van het bijkantoor.     
-2.  De schadeverzekeraar voegt bij het programma van werkzaamheden de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [391, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van elk der laatste drie boekjaren, tenzij sedert de oprichting van de onderneming van de schadeverzekeraar nog geen drie boekjaren zijn verstreken en: 
+2.  De schadeverzekeraar voegt bij het programma van werkzaamheden de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de artikelen 361, eerste lid, onderscheidenlijk 391, eerste lid en 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek van elk der laatste drie boekjaren, tenzij sedert de oprichting van de onderneming van de schadeverzekeraar nog geen drie boekjaren zijn verstreken en: 
 
 a. de schadeverzekeraar is opgericht ingevolge een fusie van bestaande schadeverzekeraars; of  
 
@@ -225,8 +225,8 @@ b. de schadeverzekeraar is opgericht door een of meer bestaande schadeverzekeraa
 
 ### Artikel  22  
 
-1.  In afwijking van [artikel 3:118, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verleent de Nederlandsche Bank voor een overdracht van rechten en verplichtingen uit overeenkomsten aan een verzekeraar met zetel in Zwitserland geen toestemming alvorens de terzake bevoegde toezichthoudende autoriteit van Zwitserland heeft verklaard dat de overnemende verzekeraar, mede gelet op de voorgenomen overdracht, het minimumbedrag aan solvabiliteitsmarge bezit.   
-2.  In afwijking van [artikel 3:118, derde lid, onderdeel a, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kan de Nederlandsche Bank voor een overdracht als bedoeld in het eerste lid aan een verzekeraar met zetel in Zwitserland in het kader van diens bedrijfsuitoefening vanuit een in een andere lidstaat gelegen bijkantoor slechts toestemming verlenen, indien de terzake bevoegde toezichthoudende autoriteit van Zwitserland heeft verklaard dat het betrokken bijkantoor, mede gelet op de voorgenomen overdracht, beschikt over het minimumbedrag aan solvabiliteitsmarge.   
+1.  In afwijking van artikel 3:118, eerste lid, onderdeel c, van de wet verleent de Nederlandsche Bank voor een overdracht van rechten en verplichtingen uit overeenkomsten aan een verzekeraar met zetel in Zwitserland geen toestemming alvorens de terzake bevoegde toezichthoudende autoriteit van Zwitserland heeft verklaard dat de overnemende verzekeraar, mede gelet op de voorgenomen overdracht, het minimumbedrag aan solvabiliteitsmarge bezit.   
+2.  In afwijking van artikel 3:118, derde lid, onderdeel a, van de wet kan de Nederlandsche Bank voor een overdracht als bedoeld in het eerste lid aan een verzekeraar met zetel in Zwitserland in het kader van diens bedrijfsuitoefening vanuit een in een andere lidstaat gelegen bijkantoor slechts toestemming verlenen, indien de terzake bevoegde toezichthoudende autoriteit van Zwitserland heeft verklaard dat het betrokken bijkantoor, mede gelet op de voorgenomen overdracht, beschikt over het minimumbedrag aan solvabiliteitsmarge.   
 
 ### §  2.4.2  
 
@@ -234,11 +234,11 @@ b. de schadeverzekeraar is opgericht door een of meer bestaande schadeverzekeraa
 
 ### Artikel  23  
 
-[Artikel 3:68 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.  
+Artikel 3:68 van de wet is van toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.  
 
 ### Artikel  24  
 
-1.  Indien een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland niet voldoet aan het bij of krachtens [artikel 3:68 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde met betrekking tot de technische voorzieningen, kan de Nederlandsche Bank de vrije beschikking door het bijkantoor over de waarden die betrekking hebben op zijn vanuit Nederland uitgeoefende bedrijf van schadeverzekeraar, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank te beschikken over deze waarden.   
+1.  Indien een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland niet voldoet aan het bij of krachtens artikel 3:68 van de wet bepaalde met betrekking tot de technische voorzieningen, kan de Nederlandsche Bank de vrije beschikking door het bijkantoor over de waarden die betrekking hebben op zijn vanuit Nederland uitgeoefende bedrijf van schadeverzekeraar, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank te beschikken over deze waarden.   
 2.  Alvorens een beperking of een verbod als bedoeld in het eerste lid uit te vaardigen stelt de Nederlandsche Bank de toezichthoudende instantie van Zwitserland op de hoogte van haar voornemen.   
 3.  Een beperking of een verbod als bedoeld in het eerste lid kan de Nederlandsche Bank ook uitvaardigen, indien de toezichthoudende instantie van Zwitserland of van een andere lidstaat dan Nederland waar de schadeverzekeraar met zetel in Zwitserland een vestiging heeft, dit verzoekt op grond van het feit dat het bijkantoor naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in het eerste lid.   
 4.  Het bijkantoor kan de ongeldigheid van een rechtshandeling, verricht in strijd met de beperking of het verbod, inroepen indien de wederpartij de maatregel kende of daarvan niet onkundig kon zijn.   
@@ -248,7 +248,7 @@ b. de schadeverzekeraar is opgericht door een of meer bestaande schadeverzekeraa
 
 ### Artikel  25  
 
-1.  De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in artikel 24 uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in [artikel 3:136, tweede lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+1.  De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in artikel 24 uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in artikel 3:136, tweede lid, van de wet.   
 2.  De schadeverzekeraar kan de ongeldigheid van een rechtshandeling, verricht in strijd met de beperking of het verbod, inroepen indien de wederpartij de maatregel kende of daarvan niet onkundig kon zijn.   
 3.  De Nederlandsche Bank heft de beperking of het verbod, bedoeld in het eerste lid, op zodra de toezichthoudende instantie van Zwitserland dit verzoekt. Zij maakt de opheffing bekend aan de schadeverzekeraar. Tevens doet de Nederlandsche Bank van het besluit tot opheffing van de beperking of het verbod mededeling aan de toezichthoudende instanties van de andere lidstaten waarheen de schadeverzekeraar vanuit Nederland diensten verricht.   
 
@@ -258,7 +258,24 @@ b. de schadeverzekeraar is opgericht door een of meer bestaande schadeverzekeraa
 
 ### Artikel  26  
 
-[Paragraaf 3.5.5.3 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.  
+Paragraaf 3.5.5.3 van de wet is van overeenkomstige toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.  
+
+### Hoofdstuk  2a  
+
+####Samenwerking tussen de toezichthouders
+
+Bepaling ter uitvoering van artikel 1:50a van de wet  
+
+### Artikel  26a  
+
+1.  De Nederlandsche Bank vraagt vooraf advies aan de Autoriteit Financiële Markten indien zij dient te beslissen op: 
+
+a. een aanvraag als bedoeld in de artikelen 2:3.0d, eerste lid, 2:3.0i, eerste lid, 2:3.0m, eerste lid, van de wet teneinde te beoordelen of wordt voldaan aan hetgeen is bepaald bij of krachtens de artikelen 3:73b, en 4:76a tot en met 4:76d van de wet en aan krachtens de artikelen 17b en 18 van het Besluit prudentiële regels Wft gestelde regels voor zover die regels uitvoering geven aan internationaal aanvaarde standaarden inzake bestuur; of  
+
+b. een aanvraag als bedoeld in de artikel 37a van het Besluit prudentiële regels Wf t, teneinde te beoordelen of wordt voldaan aan hetgeen is bepaald bij of krachtens de artikelen 3:73b van de wet en aan de krachtens artikel 17b Besluit prudentiële regels Wft gestelde regels voor zover die regels uitvoering geven aan internationaal aanvaarde standaarden inzake bestuur.     
+2.  De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.   
+3.  De Nederlandsche Bank volgt het advies, bedoeld in het eerste lid, tenzij zwaarwegende redenen betreffende de soliditeit van de aanvrager of de stabiliteit van het financiële stelsel naar het oordeel van de Nederlandsche Bank aanleiding tot afwijking geven. Indien de Nederlandsche Bank overweegt af te wijken, stelt zij de Autoriteit Financiële Markten in de gelegenheid om haar advies mondeling toe te lichten. De Nederlandsche Bank motiveert een afwijking schriftelijk.   
+4.  Het advies, bedoeld in het eerste lid, maakt deel uit van het besluit ten aanzien van de vergunning of de instemming.   
 
 ### Hoofdstuk  3  
 
@@ -268,7 +285,7 @@ b. de schadeverzekeraar is opgericht door een of meer bestaande schadeverzekeraa
 
 ### Artikel  27  
 
-1.  Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kan, onverminderd artikel 28, worden verleend indien; 
+1.  Een ontheffing als bedoeld in artikel 3:5, vierde lid, van de wet, kan, onverminderd artikel 28, worden verleend indien; 
 
 a. de nakoming van alle verplichtingen van de aanvrager die zijn ontstaan door het in de uitoefening van een bedrijf buiten besloten kring aantrekken, ter beschikking verkrijgen of ter beschikking hebben van opvorderbare gelden van anderen dan professionele marktpartijen, wordt gegarandeerd door: 
 
@@ -276,12 +293,12 @@ a. de nakoming van alle verplichtingen van de aanvrager die zijn ontstaan door h
 
 2°. een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen of een bank met zetel in een door Onze Minister aan te wijzen staat waar toezicht op het uitoefenen van het bedrijf van bank wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen;  
 
-3°. de Staat der Nederlanden of een openbaar lichaam als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md); of  
+3°. de Staat der Nederlanden of een openbaar lichaam als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden; of  
 
 4°. een onderneming die behoort tot een door de Nederlandsche Bank aan te wijzen categorie; of    
 
-b. de aanvrager een door de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verleende vergunning heeft.     
-2.  De aanvrager van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), toont aan dat zal worden voldaan aan artikel 28, eerste lid, en legt ten aanzien van de in dat lid bedoelde personen de volgende gegevens over: 
+b. de aanvrager een door de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de wet verleende vergunning heeft.     
+2.  De aanvrager van een ontheffing als bedoeld in artikel 3:5, vierde lid, van de wet, toont aan dat zal worden voldaan aan artikel 28, eerste lid, en legt ten aanzien van de in dat lid bedoelde personen de volgende gegevens over: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
 
@@ -290,12 +307,12 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in artikel 30; en  
 
 d. een opgave van referenten.     
-3.  De houder van de ontheffing verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [391, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+3.  De houder van de ontheffing verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de artikelen 361, eerste lid, onderscheidenlijk 391, eerste lid, en 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
 
 ### Artikel  28  
 
-1.  Het beleid van een houder van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Indien binnen de houder van een ontheffing een orgaan is belast met het toezicht op het beleid en de algemene gang van zaken van de houder van een ontheffing wordt dit toezicht gehouden door personen wier betrouwbaarheid buiten twijfel staat.   
-2.  De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
+1.  Het beleid van een houder van een ontheffing als bedoeld in artikel 3:5, vierde lid, van de wet wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Indien binnen de houder van een ontheffing een orgaan is belast met het toezicht op het beleid en de algemene gang van zaken van de houder van een ontheffing wordt dit toezicht gehouden door personen wier betrouwbaarheid buiten twijfel staat.   
+2.  De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
 3.  Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de artikelen 29 tot en met 33 van overeenkomstige toepassing.   
 
 ### Artikel  29  
@@ -324,7 +341,7 @@ a. door betrokkene verstrekte gegevens en inlichtingen;
 
 b. door de Landelijke Officier van Justitie verstrekte politiegegevens;  
 
-c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+c. gegevens uit de registratie, bedoeld in artikel 1, onderdeel b, van de Wet controle op rechtspersonen;  
 
 d. gegevens en inlichtingen, verkregen van de Belastingdienst;  
 
@@ -357,7 +374,7 @@ a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onder
 
 b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
 
-c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 65 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
+c. deze veroordeeld is terzake van een overtreding van artikel 69 van de Algemene wet inzake rijksbelastingen of artikel 65 van de Invorderingswet 1990, waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
 
 d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit als genoemd in onderdeel 5 van de bijlage, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
 2.  De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in artikel 33, afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.   
@@ -368,17 +385,17 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in artikel 29, in aanme
 
 a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;  
 
-b. de belangen die de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beoogt te beschermen; en  
+b. de belangen die de wet beoogt te beschermen; en  
 
 c. de overige belangen van de aanvrager en de betrokken persoon of personen.    
 
 ### Artikel  34  
 
-1.  De houder van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
+1.  De houder van een ontheffing als bedoeld in artikel 3:5, vierde lid, van de wet: 
 
 a. informeert, alvorens een overeenkomst aan te gaan terzake van het in de uitoefening van een bedrijf buiten besloten kring aantrekken, ter beschikking verkrijgen of ter beschikking hebben van opvorderbare gelden van anderen dan professionele marktpartijen zijn wederpartij duidelijk en volledig over diens rechten en plichten met betrekking tot de overeenkomst;  
 
-b. deelt de Nederlandsche Bank schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen een wijziging mede in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in artikel 28, eerste lid; en  
+b. deelt de Nederlandsche Bank schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen een wijziging mede in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de wet gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in artikel 28, eerste lid; en  
 
 c. deelt de Nederlandsche Bank schriftelijk het voornemen tot wijziging van de personen bedoeld in artikel 28, eerste lid, mede.     
 2.  De houder van een ontheffing geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, onderdeel c, voordat de Nederlandsche Bank heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Nederlandsche Bank neemt een besluit omtrent de betrouwbaarheid: 
@@ -396,7 +413,7 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in artikel 30; en  
 
 d. een opgave van referenten.     
-5.  Het tweede lid en het vierde lid, onderdelen b, c en d, zijn niet van toepassing indien de wijziging een persoon betreft wiens betrouwbaarheid voor de toepassing van de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+5.  Het tweede lid en het vierde lid, onderdelen b, c en d, zijn niet van toepassing indien de wijziging een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.   
 
 ### Hoofdstuk  4  
 
@@ -406,7 +423,7 @@ d. een opgave van referenten.
 
 ### Artikel  35  
 
-1.  Een aanvraag als bedoeld in [artikel 3:110, tweede lid van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt gedaan met gebruikmaking van het daartoe door de Nederlandsche Bank vastgestelde formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.   
+1.  Een aanvraag als bedoeld in artikel 3:110, tweede lid van de wet wordt gedaan met gebruikmaking van het daartoe door de Nederlandsche Bank vastgestelde formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.   
 2.  Het aanvraagformulier en de daarbij ingevolge dit besluit te verstrekken gegevens worden in enkelvoud ingediend.   
 
 ### Artikel  36  
@@ -416,7 +433,7 @@ d. een opgave van referenten.
 
 ### Artikel  37  
 
-1.  De gegevens, bedoeld in [artikel 3:110, tweede lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
+1.  De gegevens, bedoeld in artikel 3:110, tweede lid, van de wet zijn: 
 
 a. een opgave van de naam, het adres en het telefoon- en faxnummer van de bank of banken waarvan de financiële instelling dochtermaatschappij is;  
 
@@ -432,26 +449,26 @@ f. indien aanwezig, een gewaarmerkt afschrift van de statuten van de financiële
 
 g. een opgave van de activiteiten die de aanvrager voornemens is te verrichten;  
 
-h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen van de financiële instelling;  
+h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:8 van de wet is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen van de financiële instelling;  
 
-i. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de aanvrager;  
+i. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge artikel 3:9 van de wet is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de aanvrager;  
 
-j. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening als bedoeld in a [rtikel 3:10, eerste lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening als bedoeld in a rtikel 3:10, eerste lid, van de wet;  
 
-k. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+k. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan artikel 3:16 van de wet;  
 
-l. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+l. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in artikel 3:17, eerste lid, van de wet;  
 
-m. een beschrijving van het geconsolideerde toezicht, bedoeld in [artikel 3:31 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+m. een beschrijving van het geconsolideerde toezicht, bedoeld in artikel 3:31 van de wet; en  
 
-n. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) blijken.     
-2.  De gegevens, bedoeld in [artikel 3:110, tweede lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn voor een aanvrager die voornemens is beleggingsdiensten te verlenen, onverminderd het eerste lid, een beschrijving van: 
+n. bescheiden waaruit het eigen vermogen, bedoeld in artikel 3:53, eerste lid, van de wet en de te verwachten solvabiliteit, bedoeld in artikel 3:57, eerste lid, van de wet blijken.     
+2.  De gegevens, bedoeld in artikel 3:110, tweede lid, van de wet zijn voor een aanvrager die voornemens is beleggingsdiensten te verlenen, onverminderd het eerste lid, een beschrijving van: 
 
-a. de inrichting van de bedrijfsvoering, bedoeld in [artikel 4:14 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. de inrichting van de bedrijfsvoering, bedoeld in artikel 4:14 van de wet;  
 
-b. de maatregelen, bedoeld in [artikel 4:87 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en  
+b. de maatregelen, bedoeld in artikel 4:87 van de wet; en  
 
-c. het voorgenomen beleid, bedoeld in [4:88 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+c. het voorgenomen beleid, bedoeld in 4:88 van de wet.     
 3.  De gegevens, bedoeld in het eerste lid, onderdeel h, zijn: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, de nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
@@ -472,7 +489,7 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij dit besluit; en  
 
 d. een opgave van referenten.     
-5.  Het eerste lid, onderdeel i, is niet van toepassing indien het een persoon betreft wiens betrouwbaarheid voor de toepassing van de [wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+5.  Het eerste lid, onderdeel i, is niet van toepassing indien het een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.   
 
 ### Hoofdstuk  5  
 
@@ -480,13 +497,13 @@ d. een opgave van referenten.
 
 ### Artikel  38  
 
-1.  Een verklaring die is verleend ingevolge de [artikelen 2](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) of [3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) of ingevolge de [artikelen 2](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) of [3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) en die op het tijdstip waarop dit besluit in werking treedt niet is ingetrokken, wordt beschouwd te zijn verleend ingevolge de artikelen 3 onderscheidenlijk 4 van dit besluit.   
-2.  Een onderneming op onderlinge grondslag als bedoeld in artikel 14 die op het tijdstip van inwerkingtreding van dit besluit op grond van artikel 9a van het Besluit vrijgestelde onderlinge waarborgmaatschappijen of op grond van [artikel 13 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) bevoegd is diensten te verrichten naar Nederland vanuit een vestiging buiten Nederland en tevens daadwerkelijk zulke diensten verricht, wordt beschouwd bevoegd te zijn ingevolge artikel 14 van dit besluit.   
+1.  Een verklaring die is verleend ingevolge de artikelen 2 of 3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen of ingevolge de artikelen 2 of 3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994 en die op het tijdstip waarop dit besluit in werking treedt niet is ingetrokken, wordt beschouwd te zijn verleend ingevolge de artikelen 3 onderscheidenlijk 4 van dit besluit.   
+2.  Een onderneming op onderlinge grondslag als bedoeld in artikel 14 die op het tijdstip van inwerkingtreding van dit besluit op grond van artikel 9a van het Besluit vrijgestelde onderlinge waarborgmaatschappijen of op grond van artikel 13 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994 bevoegd is diensten te verrichten naar Nederland vanuit een vestiging buiten Nederland en tevens daadwerkelijk zulke diensten verricht, wordt beschouwd bevoegd te zijn ingevolge artikel 14 van dit besluit.   
 
 ### Artikel  39  
 
-1.  In afwijking van artikel 38 blijven op onderlinge waarborgmaatschappijen die op 20 maart 2002 in het bezit waren van een verklaring als bedoeld in [artikel 3, eerste lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md), tot 20 maart 2007 de ingevolge [artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) van toepassing verklaarde eisen van toepassing zoals deze luidden op 2 december 2003.   
-2.  Indien de onderlinge waarborgmaatschappij op 20 maart 2007 nog niet volledig voldoet aan de ingevolge [artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](../../../../../AMvB/besluit/vrijgestelde/onderlinge/waarborgmaatschappijen/1994/BWBR0006624/README.md) van toepassing verklaarde eisen, kan de Nederlandsche Bank een aanvullende termijn van ten hoogste twee jaar toestaan, mits de onderlinge waarborgmaatschappij voor genoemde datum de maatregelen die zij voornemens is te nemen om de vereiste solvabiliteitsmarge te bereiken overeenkomstig [artikel 3:136, eerste, vierde en vijfde lid, van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ter toestemming bij de Nederlandsche Bank heeft ingediend en de Nederlandsche Bank die toestemming heeft verleend.   
+1.  In afwijking van artikel 38 blijven op onderlinge waarborgmaatschappijen die op 20 maart 2002 in het bezit waren van een verklaring als bedoeld in artikel 3, eerste lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994, tot 20 maart 2007 de ingevolge artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994 van toepassing verklaarde eisen van toepassing zoals deze luidden op 2 december 2003.   
+2.  Indien de onderlinge waarborgmaatschappij op 20 maart 2007 nog niet volledig voldoet aan de ingevolge artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994 van toepassing verklaarde eisen, kan de Nederlandsche Bank een aanvullende termijn van ten hoogste twee jaar toestaan, mits de onderlinge waarborgmaatschappij voor genoemde datum de maatregelen die zij voornemens is te nemen om de vereiste solvabiliteitsmarge te bereiken overeenkomstig artikel 3:136, eerste, vierde en vijfde lid, van de wet ter toestemming bij de Nederlandsche Bank heeft ingediend en de Nederlandsche Bank die toestemming heeft verleend.   
 
 ### Artikel  40  
 
@@ -524,29 +541,29 @@ E. M. H. Hirsch Ballin
 
 Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
 
-– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten ([artikelen 5:53](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md));  
+– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten (artikelen 5:53 en 5:56 van de wet);  
 
-– het doorgeven van voorwetenschap als bedoeld in [artikelen 5:53](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven ([artikel 5:57 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md));  
+– het doorgeven van voorwetenschap als bedoeld in artikelen 5:53 en 5:56 van de wet of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven (artikel 5:57 van de wet);  
 
-– deelneming aan een criminele en of terroristische organisatie ([artikelen 140 tot en met 140a van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (WvSr));  
+– deelneming aan een criminele en of terroristische organisatie (artikelen 140 tot en met 140a van het Wetboek van Strafrecht (WvSr));  
 
-– valsheid in geschrifte ([artikel 225 van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– valsheid in geschrifte (artikel 225 van het WvSr);  
 
-– opzettelijk verstrekken van onware gegevens ([artikel 227a van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk verstrekken van onware gegevens (artikel 227a van het WvSr);  
 
-– opzettelijk schenden van de verplichting gegevens te verstrekken ([artikel 227b van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk schenden van de verplichting gegevens te verstrekken (artikel 227b van het WvSr);  
 
-– diefstal onder verzwarende omstandigheden ([artikelen 311](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [312 van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (artikelen 311 en 312 van het WvSr);  
 
-– verduistering ([artikelen 321 tot en met 323 van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– verduistering (artikelen 321 tot en met 323 van het WvSr);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 340 tot en met 348 van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 340 tot en met 348 van het WvSr);  
 
-– opzetheling ([artikel 416 van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzetheling (artikel 416 van het WvSr);  
 
-– witwassen ([artikelen 420bis tot en met 420ter van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– witwassen (artikelen 420bis tot en met 420ter van het WvSr);  
 
-– overtreding van een bepaling uit de financiële toezichtswetgeving, als misdrijf strafbaar gesteld in [artikel 2](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) juncto [6 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie; of  
+– overtreding van een bepaling uit de financiële toezichtswetgeving, als misdrijf strafbaar gesteld in artikel 2 juncto 6 van de Wet op de economische delicten en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie; of  
 
 – overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.    
 
@@ -562,115 +579,115 @@ Bij rechterlijke uitspraak is betrokkene in Nederland of in het buitenland veroo
 
 #### *Wetboek van Strafrecht:* 
 
-– openbare orde en discriminatie ([artikelen 131 tot en met 151a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– openbare orde en discriminatie (artikelen 131 tot en met 151a);  
 
-– gemeengevaarlijke misdrijven ([artikelen 157 tot en met 175](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– gemeengevaarlijke misdrijven (artikelen 157 tot en met 175);  
 
-– openbaar gezag ([artikelen 177 tot en met 207a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– openbaar gezag (artikelen 177 tot en met 207a);  
 
-– muntmisdrijven ([artikelen 208 tot en met 215](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– muntmisdrijven (artikelen 208 tot en met 215);  
 
-– andere valsheiddelicten dan muntmisdrijven ([artikelen 216 tot en met 235](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– andere valsheiddelicten dan muntmisdrijven (artikelen 216 tot en met 235);  
 
-– opzettelijk verstrekken van onware gegevens ([artikel 227a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk verstrekken van onware gegevens (artikel 227a);  
 
-– opzettelijk schenden van de verplichting gegevens te verstrekken ([artikel 227b](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk schenden van de verplichting gegevens te verstrekken (artikel 227b);  
 
-– misdrijven tegen de zeden ([artikelen 242](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [246](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [243 tot en met 245](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247 tot en met 250](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250ter](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– misdrijven tegen de zeden (artikelen 242, 246, 243 tot en met 245, 247 tot en met 250, 250ter);  
 
-– bedreiging met geweld of misdrijf ([artikel 285](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– bedreiging met geweld of misdrijf (artikel 285);  
 
-– geweldsmisdrijven tegen het leven ([artikelen 287 tot en met 294](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– geweldsmisdrijven tegen het leven (artikelen 287 tot en met 294);  
 
-– mishandeling ([artikelen 300 tot en met 306](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– mishandeling (artikelen 300 tot en met 306);  
 
-– dood en lichamelijk letsel door schuld ([artikelen 307 tot en met 309](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– dood en lichamelijk letsel door schuld (artikelen 307 tot en met 309);  
 
-– eenvoudige diefstal ([artikel 310](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– eenvoudige diefstal (artikel 310);  
 
-– diefstal onder verzwarende omstandigheden ([artikel 311](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (artikel 311);  
 
-– diefstal met geweld ([artikel 312](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal met geweld (artikel 312);  
 
-– afpersing ([artikel 317](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– afpersing (artikel 317);  
 
-– verduistering ([artikelen 321 tot en met 323](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– verduistering (artikelen 321 tot en met 323);  
 
-– bedrog ([artikelen 326 tot en met 337](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– bedrog (artikelen 326 tot en met 337);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 340 tot en met 348](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 340 tot en met 348);  
 
-– vernieling ([artikelen 350 tot en met 354](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– vernieling (artikelen 350 tot en met 354);  
 
-– ambtsmisdrijven ([artikelen 355 tot en met 380](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– ambtsmisdrijven (artikelen 355 tot en met 380);  
 
-– heling en schuldheling ([artikelen 416 tot en met 417bis](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– heling en schuldheling (artikelen 416 tot en met 417bis);  
 
-– witwassen ([artikelen 420 bis tot en met 420quinquies](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– witwassen (artikelen 420 bis tot en met 420quinquies);  
 
-– opgave van valse naam, academische titel etc. ([artikel 435](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opgave van valse naam, academische titel etc. (artikel 435);  
 
-– onbevoegd uitoefenen makelaardij ([artikel 436a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– onbevoegd uitoefenen makelaardij (artikel 436a);  
 
-– indruk wekken van officieel gesteund of erkend optreden ([artikel 435b](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– indruk wekken van officieel gesteund of erkend optreden (artikel 435b);  
 
-– eigenmachtig handelen tijdens surséance ([artikel 442](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– eigenmachtig handelen tijdens surséance (artikel 442);  
 
-– verstrekken van onware gegevens ([artikel 447c](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)); of  
+– verstrekken van onware gegevens (artikel 447c); of  
 
-– schenden van de verplichting gegevens te verstrekken ([artikel 447d](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).    
+– schenden van de verplichting gegevens te verstrekken (artikel 447d).    
 
 #### *Algemene wet inzake de rijksbelastingen (AWR):* 
 
-– overtreding fiscale wetgeving ([artikelen 68](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [69](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).  
+– overtreding fiscale wetgeving (artikelen 68 en 69).  
 
 #### *Opiumwet:* 
 
 – met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van 
 
-– harddrugs ([artikel 2, eerste lid](../../../../../wet/opiumwet/BWBR0001941/README.md));  
+– harddrugs (artikel 2, eerste lid);  
 
-– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben en vervaardigen softdrugs ([artikel 3, eerste lid](../../../../../wet/opiumwet/BWBR0001941/README.md)); of  
+– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben en vervaardigen softdrugs (artikel 3, eerste lid); of  
 
-– voorbereidingshandelingen met betrekking tot bereiden, verkopen, afleveren etc. en smokkelen van harddrugs ([artikel 10a, eerste lid](../../../../../wet/opiumwet/BWBR0001941/README.md)).      
+– voorbereidingshandelingen met betrekking tot bereiden, verkopen, afleveren etc. en smokkelen van harddrugs (artikel 10a, eerste lid).      
 
 #### *Wet op de economische delicten (WED):* 
 
-Door de [WED](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [3, eerste lid](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [4 eerste lid](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [5, eerste en derde lid](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [8](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [16](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [17, tweede lid](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [23, eerste en tweede lid](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [33](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).  
+Door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de artikelen 2, 3, eerste lid, 4 eerste lid, 5, eerste en derde lid, 8, 16, 17, tweede lid, 23, eerste en tweede lid, 33 en 34 van de Wet ter voorkoming van witwassen en financieren van terrorisme.  
 
 #### *Wet wapens en munitie:* 
 
-– zonder erkenning wapen of munitie vervaardigen etc. ([artikel 9, eerste lid](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)), vervaardigen, voorhanden hebben etc. bepaalde wapens ([artikel 13, eerste lid](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder erkenning wapen of munitie vervaardigen etc. (artikel 9, eerste lid), vervaardigen, voorhanden hebben etc. bepaalde wapens (artikel 13, eerste lid);  
 
-– zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. ([artikel 14, eerste lid)](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
+– zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. (artikel 14, eerste lid);  
 
-– zonder vergunning of verlof vervoeren bepaalde wapens of munitie ([artikel 22, eerste lid](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder vergunning of verlof vervoeren bepaalde wapens of munitie (artikel 22, eerste lid);  
 
-– verboden voorhanden hebben van bepaalde wapens of munitie ([artikel 26, eerste lid](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)); of  
+– verboden voorhanden hebben van bepaalde wapens of munitie (artikel 26, eerste lid); of  
 
-– verboden overdragen van bepaalde wapens of munitie ([artikel 31, eerste lid](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)).    
+– verboden overdragen van bepaalde wapens of munitie (artikel 31, eerste lid).    
 
 #### *Wegenverkeerswet 1994:* 
 
-– dood of letsel door schuld ([artikel 6](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– dood of letsel door schuld (artikel 6);  
 
-– doorrijden na ongeval ([artikel 7](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– doorrijden na ongeval (artikel 7);  
 
-– rijden onder invloed ([artikel 8](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– rijden onder invloed (artikel 8);  
 
-– motorvoertuig besturen na ontzegging ([artikel 9](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– motorvoertuig besturen na ontzegging (artikel 9);  
 
-– joyriding ([artikel 11](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)); of  
+– joyriding (artikel 11); of  
 
-– medewerking weigeren aan onderzoek ([artikel 163](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)).    
+– medewerking weigeren aan onderzoek (artikel 163).    
 
 #### *Algemene Douanewet* 
 
-– overtreding douanewetgeving ([artikelen 10:5](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) en [10:6](../../../../../wet/algemene/douanewet/BWBR0023746/README.md)).    
+– overtreding douanewetgeving (artikelen 10:5 en 10:6).    
 
 #### *Invorderingswet 1990* 
 
-– overtreding fiscale wetgeving ([artikelen 64](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [65](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md)).    
+– overtreding fiscale wetgeving (artikelen 64 en 65).    
 
 #### *Buitenlandse strafbepalingen* 
 
@@ -680,7 +697,7 @@ Door de [WED](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/READ
 
 #### *Transacties* 
 
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 76 van de AWR](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 10:15 van de Algemene Douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.  
+Betrokkene heeft een transactie als bedoeld in artikel 74 van het WvSr, artikel 76 van de AWR of artikel 10:15 van de Algemene Douanewet gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.  
 
 ### 2.3  
 
@@ -718,7 +735,7 @@ Andere feiten of omstandigheden die redelijkerwijs voor DNB van belang kunnen zi
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap over het beleid uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is surséance van betaling of faillissement aangevraagd of uitgesproken; of  
 
-– betrokkene is veroordeeld tot voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ([artikelen 50a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [138](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [149](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [248](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [259](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [300a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)).    
+– betrokkene is veroordeeld tot voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van Boek 2 van het Burgerlijk Wetboek (artikelen 50a, 138, 149, 248, 259 en 300a).    
 
 ### 3.3  
 
@@ -734,15 +751,15 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ####Toezichtantecedenten
 
-– het onjuist of onvolledig verstrekken van gegevens aan een toezichthouder of toezichthoudende instantie, als bedoeld [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+– het onjuist of onvolledig verstrekken van gegevens aan een toezichthouder of toezichthoudende instantie, als bedoeld artikel 1:1 van de wet;  
 
-– betrokkene of een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is een toelating, vergunning of ontheffing geweigerd door een toezichthouder of toezichthoudende instantie, als bedoeld [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+– betrokkene of een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is een toelating, vergunning of ontheffing geweigerd door een toezichthouder of toezichthoudende instantie, als bedoeld artikel 1:1 van de wet;  
 
-– een aan betrokkene of een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, verleende toelating, vergunning of ontheffing is ingetrokken door een toezichthouder of toezichthoudende instantie, als bedoeld [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+– een aan betrokkene of een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, verleende toelating, vergunning of ontheffing is ingetrokken door een toezichthouder of toezichthoudende instantie, als bedoeld artikel 1:1 van de wet;  
 
-– betrokkene, of zijn huidige of één van zijn voormalige werkgevers of een vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede-) verantwoordelijk is of was voor het beleid, is in conflict geweest met een toezichthouder of toezichthoudende instantie, als bedoeld [artikel 1:1 van de wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en dit conflict heeft geleid tot enige maatregel jegens betrokkene dan wel jegens de vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap over het beleid uitoefent of uitoefende of anderszins verantwoordelijk is of was voor het beleid; of  
+– betrokkene, of zijn huidige of één van zijn voormalige werkgevers of een vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede-) verantwoordelijk is of was voor het beleid, is in conflict geweest met een toezichthouder of toezichthoudende instantie, als bedoeld artikel 1:1 van de wet en dit conflict heeft geleid tot enige maatregel jegens betrokkene dan wel jegens de vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap over het beleid uitoefent of uitoefende of anderszins verantwoordelijk is of was voor het beleid; of  
 
-– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de [artikelen 2:68, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [2:125, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [2:179, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [2:235, tweede lid van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).    
+– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de artikelen 2:68, tweede lid, 2:125, tweede lid, 2:179, tweede lid, onderscheidenlijk 2:235, tweede lid van het Burgerlijk Wetboek.    
 
 ### 4.2  
 
@@ -758,25 +775,25 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ####Persoonlijk
 
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan betrokkene is op grond van de Algemene wet inzake rijksbelastingen een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([artikel 67d](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (artikel 67d);  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([artikel 67e](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)); of  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (artikel 67e); of  
 
-– het aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([artikel 67f](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).    
+– het aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (artikel 67f).    
 
 ### 5.2  
 
 ####Zakelijk
 
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de Algemene wet inzake rijksbelastingen een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([artikel 67d](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (artikel 67d);  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([artikel 67e](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)); of  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (artikel 67e); of  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([artikel 67f van de AWR](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).    
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (artikel 67f van de AWR).    
 
 ### 5.3  
 

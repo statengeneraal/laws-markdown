@@ -3,14 +3,22 @@
 ##Regeling Verpakkingen- en gebruiksartikelen (Warenwet)
 
 De Minister van Volksgezondheid en Milieuhygiëne, De Minister van Landbouw en Visserij, De Staatssecretaris van Economische Zaken, Th. M. Hazekamp,  
-Gelet op de [artikelen 2](../../../../../../../AMvB/verpakkingen-/en/gebruiksartikelenbesluit/(warenwet)/BWBR0003267/README.md) en [5 van het Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](../../../../../../../AMvB/verpakkingen-/en/gebruiksartikelenbesluit/(warenwet)/BWBR0003267/README.md) (Stb. 1979, 558),
+Gelet op de artikelen 2 en 5 van het Verpakkingen- en gebruiksartikelenbesluit (Warenwet) (Stb. 1979, 558),
 
-De Adviescommissie [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) gehoord,
+De Adviescommissie Warenwet gehoord,
 Besluiten:    
+
+### Artikel  1  
+
+In deze regeling wordt verstaan onder: 
+
+a. *medewerker van de Nederlandse Voedsel- en Warenautoriteit:* een ambtenaar van de Nederlandse Voedsel- en Warenautoriteit, bevoegd voor de werkzaamheden waarmee deze is belast;  
+
+b. *starttarief:* retributie voor werkzaamheden die op één dag, in één aaneengesloten periode met inbegrip van reguliere pauzes, voor één aanbieder door één medewerker van de Nederlandse Voedsel- en Warenautoriteit op één plaats worden verricht.    
 
 ### Artikel  2  
 
-Als materialen, als bedoeld in [artikel 3, eerste lid, onder a, van het Warenwetbesluit verpakkingen en gebruiksartikelen](../../../../../../../AMvB/warenwetbesluit/verpakkingen/en/gebruiksartikelen/BWBR0018370/README.md) worden aangewezen: 
+Als materialen, als bedoeld in artikel 3, eerste lid, onder a, van het Warenwetbesluit verpakkingen en gebruiksartikelen worden aangewezen: 
 
 a. kunststoffen,  
 
@@ -59,7 +67,7 @@ Deze regeling kan worden aangehaald als: Regeling Verpakkingen- en gebruiksartik
 ### Artikel  8  
 
 1.  Deze regeling wordt in de Nederlandse Staatscourant geplaatst.   
-2.  Zij treedt in werking op het tijdstip, waarop het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](../../../../../../../AMvB/verpakkingen-/en/gebruiksartikelenbesluit/(warenwet)/BWBR0003267/README.md) in werking treedt.   
+2.  Zij treedt in werking op het tijdstip, waarop het Verpakkingen- en gebruiksartikelenbesluit (Warenwet) in werking treedt.   
 
 Leidschendam 
 20 november 1979    

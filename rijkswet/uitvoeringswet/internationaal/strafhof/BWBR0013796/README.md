@@ -34,7 +34,7 @@ h. doorvoer: het begeleid vervoer over Nederlands grondgebied van personen, afko
 
 i. Onze Minister: Onze Minister van Justitie;  
 
-j. [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md): het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van het Europese deel van het Koninkrijk.     
+j. Wetboek van Strafvordering: het Wetboek van Strafvordering van het Europese deel van het Koninkrijk.     
 2.  In deze wet wordt mede verstaan onder: 
 
 a. Nederlands grondgebied of Nederlands gebied: het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;  
@@ -73,7 +73,7 @@ Tot de behandeling, voor zover aan de rechter opgedragen, van verzoeken van het 
 
 ### Artikel  6  
 
-Politiegegevens kunnen ook zonder daartoe strekkend verzoek worden verstrekt aan het Strafhof indien dit voor de goede uitvoering van zijn taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van het Korps landelijke politiediensten.  
+Politiegegevens kunnen ook zonder daartoe strekkend verzoek worden verstrekt aan het Strafhof indien dit voor de goede uitvoering van zijn taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van een of meerdere landelijke eenheden van de politie.  
 
 ### Artikel  7  
 
@@ -109,7 +109,7 @@ i. het geval, bedoeld in artikel 25, eerste lid.
 
 ### Artikel  9  
 
-Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de [artikelen 585 tot en met 590 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.  
+Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de artikelen 585 tot en met 590 van het Wetboek van Strafvordering van overeenkomstige toepassing.  
 
 ### Artikel  10  
 
@@ -130,7 +130,7 @@ Voor zover in deze wet niet anders is bepaald, is zij mede van toepassing op een
 a. ter vervolging en berechting terzake van strafbare feiten, tot kennisneming waarvan het Strafhof ingevolge het Statuut bevoegd is;  
 
 b. ter tenuitvoerlegging van een door het Strafhof opgelegde gevangenisstraf.     
-2.  De [Uitleveringswet](../../../../../wet/uitleveringswet/BWBR0002559/README.md) is niet van toepassing.   
+2.  De Uitleveringswet is niet van toepassing.   
 
 ### Artikel  12  
 
@@ -166,7 +166,7 @@ b. ter tenuitvoerlegging van een door het Strafhof opgelegde gevangenisstraf.
 1.  Ambtshalve, op de vordering van de officier van justitie of op het verzoek van de opgeëiste persoon of diens raadsman kan de rechter-commissaris bevelen dat de vrijheidsbeneming krachtens de bepalingen van deze paragraaf wegens dringende en uitzonderlijke omstandigheden wordt beëindigd of voorwaardelijk wordt opgeschort of geschorst. De te stellen voorwaarden strekken in ieder geval ter voorkoming van vlucht.   
 2.  De rechter-commissaris gaat niet over tot het bevel, bedoeld in het eerste lid, dan nadat het Strafhof, daartoe door tussenkomst van Onze Minister geconsulteerd, binnen een door Onze Minister te stellen termijn, aanbevelingen ingevolge artikel 59, vijfde lid, van het Statuut heeft gegeven.   
 3.  De opschorting of schorsing eindigt van rechtswege zodra de officier van justitie overeenkomstig artikel 32 in kennis is gesteld van de beslissing van Onze Minister waarbij de overlevering is toegestaan.   
-4.  Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de [artikelen 80, eerste en derde tot en met vijfde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [81](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) tot en met [88](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), met uitzondering van artikel 86, vijfde lid, van het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+4.  Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de artikelen 80, eerste en derde tot en met vijfde lid, en 81 tot en met 88, met uitzondering van artikel 86, vijfde lid, van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 5.  De rechter-commissaris kan ambtshalve, op de vordering van de officier van justitie of op het verzoek van de opgeëiste persoon of diens raadsman het bevel tot bewaring opheffen indien binnen zestig dagen na de dag van de voorlopige aanhouding van het Strafhof geen verzoek tot overlevering, met de daarbij behorende stukken, is ontvangen.   
 
 ### Artikel  17  
@@ -207,7 +207,7 @@ Wanneer de opgeëiste persoon, op de dag waarop de officier van justitie het ver
 
 1.  Nadat hij het verzoek tot overlevering heeft ontvangen, vordert de officier van justitie zo spoedig mogelijk dat de rechtbank het verzoek in behandeling zal nemen. Hij legt daarbij de stukken aan de rechtbank over.   
 2.  Een afschrift van de krachtens het eerste lid vereiste vordering wordt aan de opgeëiste persoon betekend. Daarbij wordt hem mededelinggedaan van de feiten waarvoor zijn overlevering is gevraagd, met vermelding van de tijden en de plaatsen waarop deze zijn begaan, een en ander zoals bij het verzoek tot overlevering omschreven, alsmede van het feit dat het een verzoek tot overlevering aan het Strafhof betreft. De eerste en de tweede volzin gelden eveneens in het geval dat de officier van justitie naar aanleiding van een naderhand ontvangen verzoek zijn vordering heeft aangevuld of gewijzigd. Van de ontvangst van aanvullende stukken, die in het dossier worden gevoegd, wordt de opgeëiste persoon mededeling gedaan.   
-3.  Nadat de stukken aan de rechtbank zijn overgelegd, mag de kennisneming daarvan aan de opgeëiste persoon en diens raadsman niet worden onthouden. Het bepaalde bij en krachtens [artikel 34 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+3.  Nadat de stukken aan de rechtbank zijn overgelegd, mag de kennisneming daarvan aan de opgeëiste persoon en diens raadsman niet worden onthouden. Het bepaalde bij en krachtens artikel 32 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 
 ### Artikel  22  
 
@@ -255,7 +255,7 @@ Wanneer de opgeëiste persoon, op de dag waarop de officier van justitie het ver
 
 ### Artikel  29  
 
-1.  Ten aanzien van de bijstand van een raadsman, de behandeling van de zaak door de rechtbank, de beraadslaging en de uitspraak zijn de [artikelen 37 tot en met 39](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [45 tot en met 49](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [50, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [226](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [260, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [268](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [269, vijfde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [271](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [272](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [273, derde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [274 tot en met 277](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [279](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [281](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [286](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [289, eerste en derde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [290 tot en met 301](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [318 tot en met 322](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [324 tot en met 327](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [328 tot en met 331](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [345, eerste en derde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [346](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [357](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [362](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [363](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [365 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+1.  Ten aanzien van de bijstand van een raadsman, de behandeling van de zaak door de rechtbank, de beraadslaging en de uitspraak zijn de artikelen 37 tot en met 39, 45 tot en met 49, 50, eerste lid, 226, 260, eerste lid, 268, 269, vijfde lid, 271, 272, 273, derde lid, 274 tot en met 277, 279, 281, 286, 289, eerste en derde lid, 290 tot en met 301, 318 tot en met 322, 324 tot en met 327, 328 tot en met 331, 345, eerste en derde lid, 346, 357, 362, 363 en 365, eerste tot en met vijfde lid van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 2.  De in het eerste lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.   
 
 ### §  5  
@@ -340,17 +340,17 @@ In geval van overlevering krachtens deze paragraaf is artikel 12, eerste lid, ni
 
 1.  De rechtbank beslist bij haar uitspraak omtrent het verzoek tot overlevering tevens over de afgifte, dan wel de teruggave, van de in beslag genomen voorwerpen. Afgifte van die voorwerpen aan het Strafhof kan alleen worden bevolen voor het geval van inwilliging van het verzoek tot overlevering.   
 2.  Met het oog op mogelijke rechten van derden kan de rechtbank ten aanzien van bepaalde voorwerpen beslissen, dat afgifte aan het Strafhof slechts mag geschieden onder het beding, dat die voorwerpen onmiddellijk zullen worden teruggezonden nadat daarvan het voor de strafvordering nodige gebruik zal zijn gemaakt.   
-3.  Het bepaalde bij en krachtens de [artikelen 116 tot en met 119](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [552c tot en met 552e van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+3.  Het bepaalde bij en krachtens de artikelen 116 tot en met 119, 552a en 552c tot en met 552e van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 4.  In geval van overlevering overeenkomstig de bepalingen van § 6 van dit hoofdstuk beslist de officier van justitie over de afgifte, dan wel de teruggave, van de in beslag genomen voorwerpen, behoudens de bevoegdheden van de rechtbank krachtens het derde lid.   
 
 ### Artikel  43  
 
-Ten aanzien van de bevelen tot vrijheidsbeneming, gegeven krachtens dit hoofdstuk, zijn de [artikelen 52 tot en met 55](../../../../../wet/uitleveringswet/BWBR0002559/README.md) en [57 van de Uitleveringswet](../../../../../wet/uitleveringswet/BWBR0002559/README.md) van overeenkomstige toepassing.  
+Ten aanzien van de bevelen tot vrijheidsbeneming, gegeven krachtens dit hoofdstuk, zijn de artikelen 52 tot en met 55 en 57 van de Uitleveringswet van overeenkomstige toepassing.  
 
 ### Artikel  44  
 
-1.  In gevallen waarin de overlevering bij rechterlijk gewijsde ontoelaatbaar is verklaard, kan de rechtbank te 's-Gravenhage, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de staat toekennen voor de schade die hij heeft geleden ten gevolge van de vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 89, derde, vierde en zesde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
-2.  In gevallen als bedoeld in het eerste lid vinden de [artikelen 591](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [591a van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing op de vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In de plaats van het in [artikel 591, tweede lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde gerecht treedt de rechtbank te 's-Gravenhage.   
+1.  In gevallen waarin de overlevering bij rechterlijk gewijsde ontoelaatbaar is verklaard, kan de rechtbank te 's-Gravenhage, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de staat toekennen voor de schade die hij heeft geleden ten gevolge van de vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 89, derde, vierde en zesde lid, 90, 91 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
+2.  In gevallen als bedoeld in het eerste lid vinden de artikelen 591 en 591a van het Wetboek van Strafvordering overeenkomstige toepassing op de vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In de plaats van het in artikel 591, tweede lid, van het Wetboek van Strafvordering bedoelde gerecht treedt de rechtbank te 's-Gravenhage.   
 
 ### Hoofdstuk  3  
 
@@ -397,14 +397,14 @@ b. indien het strekt tot het meewerken aan een verhoor door het Strafhof van een
 
 c. indien uitdrukkelijk is gevraagd om een beëdigde verklaring of om een verklaring, afgelegd ten overstaan van een rechter;  
 
-d. indien het met het oog op het verlangde gevolg nodig is dat stukken van overtuiging in beslag worden genomen.     
+d. indien het met het oog op het verlangde gevolg nodig is dat stukken van overtuiging in beslag worden genomen en daartoe bevoegdheidsuitoefening door de rechter-commissaris nodig is.     
 2.  In andere dan de in het eerste lid voorziene gevallen kan de officier van justitie het verzoek van het Strafhof in handen van de rechter-commissaris stellen.   
 3.  De overlegging van het verzoek geschiedt bij een schriftelijke vordering, waarin wordt omschreven welke verrichtingen van de rechter-commissaris worden verlangd.   
 4.  De vordering, bedoeld in het derde lid, kan te allen tijde worden ingetrokken.   
 
 ### Artikel  51  
 
-1.  De in artikel 50, derde lid, bedoelde vordering heeft dezelfde rechtsgevolgen als een vordering tot het instellen van een gerechtelijk vooronderzoek, zulks voor wat betreft: 
+1.  De in artikel 50, derde lid, bedoelde vordering heeft dezelfde rechtsgevolgen als de vordering tot het verrichten van onderzoekshandelingen door de rechter-commissaris, als bedoeld in artikel 181 van het Wetboek van Strafvordering, zulks voor wat betreft: 
 
 a. de bevoegdheden van de rechter-commissaris ten aanzien van de door hem te horen verdachten, getuigen en deskundigen, alsmede die tot het bevelen van de uitlevering of overbrenging van stukken van overtuiging, het nemen van maatregelen in het belang van het onderzoek, het laten verrichten van een DNA-onderzoek alsmede het daartoe bevelen van het afnemen van celmateriaal, het betreden van plaatsen, het doorzoeken van plaatsen, het in beslag nemen van stukken van overtuiging en het onderzoeken van gegevens in geautomatiseerde werken;  
 
@@ -415,7 +415,7 @@ c. de rechten en verplichtingen van de door de rechter-commissaris te horen pers
 d. de bijstand van een raadsman;  
 
 e. de verrichtingen van de griffier.     
-2.  In afwijking van het eerste lid heeft een vordering als bedoeld in artikel 50, derde lid, welke is gedaan met het oog op de voldoening aan een verzoek tot het meewerken aan een verhoor door het Strafhof van een getuige of deskundige per videoconferentie, dezelfde rechtsgevolgen als een vordering tot het instellen van een gerechtelijk vooronderzoek, voor zover het betreft de toepassing van de [artikelen 190, eerste en vierde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [191, eerste en vierde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [210, eerste lid, tweede volzin](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [213](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [215](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [217 tot en met 219a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [221 tot en met 225](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [226a, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [226c, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [226f](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [236 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+2.  In afwijking van het eerste lid heeft een vordering als bedoeld in artikel 50, derde lid, welke is gedaan met het oog op de voldoening aan een verzoek tot het meewerken aan een verhoor door het Strafhof van een getuige of deskundige per videoconferentie, dezelfde rechtsgevolgen als een vordering tot het verrichten van onderzoekshandelingen door de rechter-commissaris, als bedoeld in artikel 181 van het Wetboek van Strafvordering, voor zover het betreft de toepassing van de artikelen 190, eerste en vierde lid, 191, 210, eerste lid, tweede volzin, 213, 215, 217 tot en met 219a, 221 tot en met 225, 226a, eerste lid, 226c, eerste lid, 226f en 236 van het Wetboek van Strafvordering.   
 3.  Ter voldoening aan een verzoek van het Strafhof om samenwerking kan, anders dan overeenkomstig het eerste en tweede lid, geen gebruik van dwangmiddelen worden gemaakt.   
 
 ### Artikel  52  
@@ -436,17 +436,17 @@ f. het heimelijk betreden van een besloten plaats,
 
 g. het opnemen van vertrouwelijke communicatie met een technisch hulpmiddel,  
 
-h. een verkennend onderzoek, kan de officier van justitie de hem in de titels IVa, V, Va en Vc van het Eerste Boek van het Wetboek van Strafvordering met het oog daarop toegekende bevoegdheden uitoefenen. Voor zover het verzoek daartoe strekt, kan eveneens toepassing worden gegeven aan [artikel 126ff van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
-2.  Ter voldoening aan een verzoek van het Strafhof om samenwerking kan geen gebruik van de in het eerste lid bedoelde bevoegdheden worden gemaakt en kan aan [artikel 126ff van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) geen toepassing worden gegeven, anders dan overeenkomstig het eerste lid.   
-3.  Processen-verbaal en andere voorwerpen, verkregen door toepassing van een van de bevoegdheden tot het onderzoeken van telecommunicatie of het opnemen van vertrouwelijke communicatie met een technisch hulpmiddel, kunnen worden afgegeven aan het Strafhof voor zover de rechtbank daartoe verlof verleent. De [artikelen 21 tot en met 25 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
-4.  De artikelen 126aa, tweede lid, alsmede [126bb tot en met 126dd van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. [Artikel 126cc](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is slechts van toepassing voor zover de betreffende processen-verbaal en andere voorwerpen niet aan het Strafhof zijn afgegeven. De officier van justitie draagt er zorg voor dat een betrokkene de processen-verbaal en andere voorwerpen die op hem betrekking hebben, op enig moment kan inzien.   
+h. een verkennend onderzoek, kan de officier van justitie de hem in de titels IVa, V, Va en Vc van het Eerste Boek van het Wetboek van Strafvordering met het oog daarop toegekende bevoegdheden uitoefenen. Voor zover het verzoek daartoe strekt, kan eveneens toepassing worden gegeven aan artikel 126ff van het Wetboek van Strafvordering.     
+2.  Ter voldoening aan een verzoek van het Strafhof om samenwerking kan geen gebruik van de in het eerste lid bedoelde bevoegdheden worden gemaakt en kan aan artikel 126ff van het Wetboek van Strafvordering geen toepassing worden gegeven, anders dan overeenkomstig het eerste lid.   
+3.  Processen-verbaal en andere voorwerpen, verkregen door toepassing van een van de bevoegdheden tot het onderzoeken van telecommunicatie of het opnemen van vertrouwelijke communicatie met een technisch hulpmiddel, kunnen worden afgegeven aan het Strafhof voor zover de rechtbank daartoe verlof verleent. De artikelen 21 tot en met 25 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
+4.  De artikelen 126aa, tweede lid, alsmede 126bb tot en met 126dd van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. Artikel 126cc is slechts van toepassing voor zover de betreffende processen-verbaal en andere voorwerpen niet aan het Strafhof zijn afgegeven. De officier van justitie draagt er zorg voor dat een betrokkene de processen-verbaal en andere voorwerpen die op hem betrekking hebben, op enig moment kan inzien.   
 
 ### Artikel  53  
 
 1.  De rechter-commissaris doet het verzoek om samenwerking, na bijvoeging van de processen-verbaal van de door hem afgenomen verhoren en van die van zijn verdere verrichtingen, zo spoedig mogelijk teruggaan naar de officier van justitie.   
-2.  De door de rechter-commissaris in beslag genomen stukken van overtuiging en onder hem berustende gegevensdragers waarop gegevens zijn opgenomen die zijn vergaard met gebruikmaking van enige strafvorderlijke bevoegdheid worden ter beschikking van de officier van justitie gesteld, voor zover de rechtbank daartoe verlof verleent. De [artikelen 21 tot en met 25 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+2.  De door de rechter-commissaris in beslag genomen stukken van overtuiging en onder hem berustende gegevensdragers waarop gegevens zijn opgenomen die zijn vergaard met gebruikmaking van enige strafvorderlijke bevoegdheid worden ter beschikking van de officier van justitie gesteld, voor zover de rechtbank daartoe verlof verleent. De artikelen 21 tot en met 25 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 3.  Tenzij aannemelijk is dat de rechthebbenden op de in beslag genomen stukken van overtuiging niet in Nederland verblijf houden, wordt het krachtens het tweede lid vereiste verlof slechts verleend onder het voorbehoud, dat bij de afgifte aan het Strafhof wordt bedongen, dat de stukken zullen worden teruggezonden zodra daarvan het voor de strafvordering nodige gebruik is gemaakt.   
-4.  Het bepaalde bij en krachtens de [artikelen 116 tot en met 119](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552ca](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552d, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [552e van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is ten aanzien van het gestelde in het eerste tot en met derde lid van overeenkomstige toepassing. In de plaats van het volgens die artikelen bevoegde gerecht treedt de rechtbank die bevoegd is tot het verlenen van het krachtens het tweede lid van dit artikel vereiste verlof.   
+4.  Het bepaalde bij en krachtens de artikelen 116 tot en met 119, 552a, 552ca, 552d, eerste lid, en 552e van het Wetboek van Strafvordering is ten aanzien van het gestelde in het eerste tot en met derde lid van overeenkomstige toepassing. In de plaats van het volgens die artikelen bevoegde gerecht treedt de rechtbank die bevoegd is tot het verlenen van het krachtens het tweede lid van dit artikel vereiste verlof.   
 
 ### Artikel  54  
 
@@ -469,11 +469,11 @@ Op verzoek van het Strafhof en met inachtneming van de bepalingen van dit hoofds
 
 1.  Terzake van gevangenisstraffen die door het Strafhof zijn opgelegd wegens een of meer van de misdrijven, bedoeld in artikel 5 van het Statuut, en waarvan de tenuitvoerlegging in Nederland plaatsvindt, kan geen gratie worden verzocht en verleend. Een verzoekschrift om vermindering of kwijtschelding van zodanige straf wordt door Onze Minister onverwijld doorgezonden aan het Strafhof.   
 2.  Op een daartoe strekkend verzoek van het Strafhof maakt Onze Minister aan het Strafhof zijn zienswijze bekend met betrekking tot de heroverweging van een straf als bedoeld in het eerste lid overeenkomstig artikel 110 van het Statuut. Met het oog daarop kan Onze Minister het advies inwinnen van de rechtbank te 's-Gravenhage en kan hij overigens bij derden alle inlichtingen inwinnen die hij nodig acht.   
-3.  Terzake van gevangenisstraffen die door het Strafhof zijn opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof als bedoeld in artikel 70, eerste lid, van het Statuut, alsmede terzake van overige door het Strafhof opgelegde straffen, kan, indien de tenuitvoerlegging in Nederland plaatsvindt, overeenkomstig [artikel 558 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) gratie worden verzocht en verleend. Alvorens omtrent de gratieverlening wordt beslist, consulteert Onze Minister het Strafhof teneinde diens zienswijze te vernemen.   
+3.  Terzake van gevangenisstraffen die door het Strafhof zijn opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof als bedoeld in artikel 70, eerste lid, van het Statuut, alsmede terzake van overige door het Strafhof opgelegde straffen, kan, indien de tenuitvoerlegging in Nederland plaatsvindt, overeenkomstig artikel 558 van het Wetboek van Strafvordering gratie worden verzocht en verleend. Alvorens omtrent de gratieverlening wordt beslist, consulteert Onze Minister het Strafhof teneinde diens zienswijze te vernemen.   
 
 ### Artikel  57  
 
-Ten aanzien van de bevelen tot voorlopige vrijheidsbeneming, gegeven krachtens dit hoofdstuk, zijn de [artikelen 61 tot en met 64a](../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) en [66 van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) van overeenkomstige toepassing.  
+Ten aanzien van de bevelen tot voorlopige vrijheidsbeneming, gegeven krachtens dit hoofdstuk, zijn de artikelen 61 tot en met 64a en 66 van de Wet overdracht tenuitvoerlegging strafvonnissen van overeenkomstige toepassing.  
 
 ### Artikel  58  
 
@@ -492,7 +492,7 @@ d. de beslissing onverenigbaar is met een beslissing die vroeger in een andere s
 5.  Alleen beslissingen van het Strafhof waartegen geen gewoon rechtsmiddel meer openstaat, komen in aanmerking voor tenuitvoerlegging.   
 6.  Beslissingen van het Strafhof die tot vergoedingen leiden welke de werkelijk geleden materiële en immateriële schade te boven gaan, worden niet erkend voorzover zij buitensporig zijn.   
 7.  Verzoeken als bedoeld in het eerste en het zesde lid worden gericht tot de voorzieningenrechter van de rechtbank te 's-Gravenhage.   
-8.  Voor zover daarvan in dit artikel niet wordt afgeweken, zijn op het verzoek de bepalingen van de [artikelen 985 tot en met 992 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
+8.  Voor zover daarvan in dit artikel niet wordt afgeweken, zijn op het verzoek de bepalingen van de artikelen 985 tot en met 992 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
 
 ### §  2  
 
@@ -514,7 +514,7 @@ b. de in artikel 16, vijfde lid, genoemde termijn dertig dagen bedraagt.
 ### Artikel  61  
 
 1.  Naar aanleiding van een verzoek van het Strafhof om samenwerking of om tenuitvoerlegging van een verbeurdverklaring kan, overeenkomstig de bepalingen van de negende afdeling van titel IV van het Eerste Boek van het Wetboek van Strafvordering, een strafrechtelijk financieel onderzoek worden ingesteld dat is gericht op de bepaling van hier te lande aanwezig of verworven voordeel dat wederrechtelijk is verkregen door een persoon die aan onderzoek door het Strafhof is onderworpen. Onder wederrechtelijk verkregen voordeel worden mede verstaan voorwerpen die, middellijk of onmiddellijk, zijn verkregen door middel van het misdrijf waarvan die persoon wordt verdacht.   
-2.  Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig [artikel 94, tweede lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [artikel 94a, tweede lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege het Strafhof een verzoek om tenuitvoerlegging van een verbeurdverklaring zal worden gedaan dan wel artikel 82, vierde lid, zal worden toegepast.   
+2.  Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig artikel 94, tweede lid, en artikel 94a, tweede lid, van het Wetboek van Strafvordering slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege het Strafhof een verzoek om tenuitvoerlegging van een verbeurdverklaring zal worden gedaan dan wel artikel 82, vierde lid, zal worden toegepast.   
 3.  De officier van justitie doet van de instelling onderscheidenlijk de sluiting van een strafrechtelijk financieel onderzoek onverwijld mededeling aan Onze Minister. Daarbij doet hij tevens mededeling van alle voor het Strafhof dienstige inlichtingen.   
 
 ### Artikel  62  
@@ -543,12 +543,12 @@ b. gegronde redenen bestaan voor de verwachting dat het in het eerste lid bedoel
 
 ### Artikel  64  
 
-1.  Tot inbeslagneming als bedoeld in de artikelen 62 en 63 zijn bevoegd de rechter-commissaris en, voor zover die bevoegdheid niet aan de rechter-commissaris is voorbehouden, de officier van justitie en de hulpofficier. Op vordering van de officier van justitie kan de rechter-commissaris de bevoegdheden uitoefenen welke hem uit hoofde van een gerechtelijk vooronderzoek toekomen.   
-2.  De [artikelen 94b tot en met 94d](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [96 tot en met 119](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552c](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552ca](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552e](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [556 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+1.  Tot inbeslagneming als bedoeld in de artikelen 62 en 63 zijn bevoegd de rechter-commissaris en, voor zover die bevoegdheid niet aan de rechter-commissaris is voorbehouden, de officier van justitie en de hulpofficier. Op vordering van de officier van justitie kan de rechter-commissaris de bevoegdheden uitoefenen welke hem als gevolg van het toewijzen van een vordering als bedoeld in artikel 181 van het Wetboek van Strafvordering toekomen.   
+2.  De artikelen 94b tot en met 94d, 96 tot en met 119, 552a, 552c, 552ca, 552e en 556 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 
 ### Artikel  65  
 
-1.  Bij de overeenkomstige toepassing van de [artikelen 552a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), onderscheidenlijk [552c van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) treedt de rechter niet in een nieuw onderzoek naar de rechten van belanghebbenden, indien daarover in verband met een bevel tot verbeurdverklaring door het Strafhof een vaststelling is gedaan. De rechter kan slechts in een dergelijk nieuw onderzoek treden indien: 
+1.  Bij de overeenkomstige toepassing van de artikelen 552a, onderscheidenlijk 552c van het Wetboek van Strafvordering treedt de rechter niet in een nieuw onderzoek naar de rechten van belanghebbenden, indien daarover in verband met een bevel tot verbeurdverklaring door het Strafhof een vaststelling is gedaan. De rechter kan slechts in een dergelijk nieuw onderzoek treden indien: 
 
 a. die vaststelling betrekking heeft op rechten terzake van in Nederland gelegen onroerende goederen of in Nederland te boek gestelde registergoederen;  
 
@@ -576,19 +576,19 @@ b. indien Nederland als Gastland overeenkomstig artikel 103, vierde lid, van het
 ### Artikel  67  
 
 1.  In het geval, bedoeld in artikel 66, onder a, beslist Onze Minister of aan de aanwijzing van het Strafhof gevolg wordt gegeven.   
-2.  Op de beslissing van Onze Minister, bedoeld in het eerste lid, is [artikel 10 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) niet van toepassing.   
+2.  Op de beslissing van Onze Minister, bedoeld in het eerste lid, is artikel 10 van het Wetboek van Strafrecht niet van toepassing.   
 3.  Onze Minister deelt het Strafhof zo spoedig mogelijk zijn beslissing mee.   
 4.  De tenuitvoerlegging geschiedt op voordracht van de officier van justitie bij het arrondissementsparket te 's-Gravenhage door Onze Minister.   
 
 ### Artikel  68  
 
-1.  In het geval, bedoeld in artikel 66, onder b, wordt de door het Strafhof opgelegde gevangenisstraf op aanwijzing van Onze Minister in Nederland ten uitvoer gelegd of verder ten uitvoer gelegd, overeenkomstig de voorwaarden vermeld in de zetelovereenkomst, bedoeld in artikel 3, tweede lid, van het Statuut. Op de beslissing van Onze Minister is [artikel 10 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) niet van toepassing.   
+1.  In het geval, bedoeld in artikel 66, onder b, wordt de door het Strafhof opgelegde gevangenisstraf op aanwijzing van Onze Minister in Nederland ten uitvoer gelegd of verder ten uitvoer gelegd, overeenkomstig de voorwaarden vermeld in de zetelovereenkomst, bedoeld in artikel 3, tweede lid, van het Statuut. Op de beslissing van Onze Minister is artikel 10 van het Wetboek van Strafrecht niet van toepassing.   
 2.  Artikel 67, derde en vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  69  
 
-1.  De tenuitvoerlegging overeenkomstig artikel 67, vierde lid, of artikel 68, tweede lid, van een door het Strafhof opgelegde gevangenisstraf geschiedt met inachtneming van het bij of krachtens het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), de [Penitentiaire beginselenwet](../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde.   
-2.  De [artikelen 15 tot en met 15l van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zijn niet van toepassing, behoudens ten aanzien van een gevangenisstraf die door het Strafhof is opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof als bedoeld in artikel 70, eerste lid, van het Statuut.   
+1.  De tenuitvoerlegging overeenkomstig artikel 67, vierde lid, of artikel 68, tweede lid, van een door het Strafhof opgelegde gevangenisstraf geschiedt met inachtneming van het bij of krachtens het Wetboek van Strafrecht, het Wetboek van Strafvordering, de Penitentiaire beginselenwet of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde.   
+2.  De artikelen 15 tot en met 15l van het Wetboek van Strafrecht zijn niet van toepassing, behoudens ten aanzien van een gevangenisstraf die door het Strafhof is opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof als bedoeld in artikel 70, eerste lid, van het Statuut.   
 
 ### Artikel  70  
 
@@ -598,7 +598,7 @@ b. indien Nederland als Gastland overeenkomstig artikel 103, vierde lid, van het
 ### Artikel  71  
 
 1.  Mededelingen, gewisseld tussen de veroordeelde en het Strafhof, worden niet belemmerd en zijn vertrouwelijk. De indiening door de veroordeelde van een verzoekschrift of enig ander geschrift kan door tussenkomst van de directeur van de inrichting waarin de veroordeelde verblijft, geschieden. De directeur draagt in dat geval zorg dat het geschrift, voorzien van een dagtekening, onverwijld aan het Strafhof wordt gezonden.   
-2.  Daartoe door het Strafhof aangewezen personen hebben overeenkomstig [artikel 38, zevende lid, tweede tot en met vierde volzin, van de Penitentiaire beginselenwet](../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), toegang tot de veroordeelde in de inrichting waarin hij verblijft.   
+2.  Daartoe door het Strafhof aangewezen personen hebben overeenkomstig artikel 38, zevende lid, tweede tot en met vierde volzin, van de Penitentiaire beginselenwet, toegang tot de veroordeelde in de inrichting waarin hij verblijft.   
 3.  Verzoeken van het Strafhof om informatie die het Strafhof nodig heeft voor de uitoefening van zijn toezichthoudende taak overeenkomstig artikel 106 van het Statuut, worden door Onze Minister zo veel mogelijk ingewilligd.   
 4.  Op verzoek van het Strafhof wordt de veroordeelde die daarmee instemt, tijdelijk ter beschikking van het Strafhof gesteld met het oog op enig door het Strafhof te verrichten onderzoek in verband met de tenuitvoerlegging.   
 
@@ -645,7 +645,7 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 1.  De rechtbank onderzoekt de identiteit van de veroordeelde, de ontvankelijkheid van de officier van justitie, alsmede de mogelijkheid van tenuitvoerlegging in Nederland van de beslissing van het Strafhof en de feiten en omstandigheden die voor haar beslissing van belang zijn.   
 2.  De officier van justitie en de veroordeelde en diens raadsman worden in de gelegenheid gesteld ter zitting van de rechtbank te worden gehoord.   
 3.  De rechtbank is gebonden aan de vaststelling van de feiten die het Strafhof kennelijk aan zijn beslissing ten grondslag heeft gelegd. Zij treedt niet in een nieuw onderzoek naar deze feiten.   
-4.  De [artikelen 260, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [268](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [269, vijfde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [271, eerste lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [272](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [273, derde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [274 tot en met 277](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [278, tweede lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [279](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [280](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [281](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [286, eerste, vierde, vijfde en zesde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [293](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [299](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [300](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [301, eerste, tweede, vierde en vijfde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [310](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [311, tweede tot en met vierde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [315 tot en met 317](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [319](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [320](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [322, eerste en tweede lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [324](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [326](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [327](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [328 tot en met 331](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [345, eerste tot en met derde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [346](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [347 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+4.  De artikelen 260, eerste lid, 268, 269, vijfde lid, 271, eerste lid, 272, 273, derde lid, 274 tot en met 277, 278, tweede lid, 279, 280, 281, 286, eerste, vierde, vijfde en zesde lid, 293, 299, 300, 301, eerste, tweede, vierde en vijfde lid, 310, 311, tweede tot en met vierde lid, 315 tot en met 317, 319, 320, 322, eerste en tweede lid, 324, 326, 327, 328 tot en met 331, 345, eerste tot en met derde lid, 346 en 347 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 5.  Indien de officier van justitie overeenkomstig artikel 76, tweede lid, heeft geweigerd een getuige te doen oproepen kan de veroordeelde de rechtbank verzoeken alsnog de oproeping van de getuige te bevelen. De rechtbank gaat hiertoe over indien zij van oordeel is dat de officier van justitie in redelijkheid niet tot zijn beslissing heeft kunnen komen.   
 6.  De in het vierde lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.   
 7.  De officier van justitie legt, na voorlezing, een conclusie aan de rechtbank over. Indien zijn conclusie strekt tot bewilliging in de tenuitvoerlegging, omschrijft de officier van justitie de straf of maatregel die naar zijn oordeel in plaats van de door het Strafhof opgelegde straf behoort te worden opgelegd.   
@@ -653,11 +653,11 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 
 ### Artikel  79  
 
-1.  De rechtbank verleent verlof tot tenuitvoerlegging van de beslissing van het Strafhof en legt, met inachtneming van het daaromtrent in het Statuut voorgeschrevene, de straf of maatregel op die op het overeenkomstige feit naar Nederlands recht is gesteld. De uitspraak van de rechtbank wordt met redenen omkleed. De [artikelen 353](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [357 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+1.  De rechtbank verleent verlof tot tenuitvoerlegging van de beslissing van het Strafhof en legt, met inachtneming van het daaromtrent in het Statuut voorgeschrevene, de straf of maatregel op die op het overeenkomstige feit naar Nederlands recht is gesteld. De uitspraak van de rechtbank wordt met redenen omkleed. De artikelen 353 en 357 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 2.  In geen geval is de rechtbank bevoegd een zwaardere straf of maatregel op te leggen dan door het Strafhof is vastgesteld.   
 3.  Tegen de uitspraak staat geen rechtsmiddel open. De uitspraak is dadelijk uitvoerbaar.   
 4.  De rechtbank zendt aan Onze Minister onverwijld een gewaarmerkt afschrift van haar uitspraak toe.   
-5.  De [artikelen 363](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [365 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+5.  De artikelen 363 en 365, eerste tot en met vijfde lid van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 
 ### Artikel  80  
 
@@ -666,8 +666,8 @@ Op de tenuitvoerlegging van een op grond van artikel 79 opgelegde straf of maatr
 ### Artikel  81  
 
 1.  Onverminderd de overige bepalingen van deze paragraaf is dit artikel van toepassing op een verzoek van het Strafhof om tenuitvoerlegging van een geldboete.   
-2.  Op de oplegging, overeenkomstig artikel 79, eerste lid, van een geldboete is [artikel 23, derde, vierde, zevende en achtste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) niet van toepassing.   
-3.  Bij oplegging van een geldboete blijft een bevel als bedoeld in [artikel 24c, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) achterwege.   
+2.  Op de oplegging, overeenkomstig artikel 79, eerste lid, van een geldboete is artikel 23, derde, vierde, zevende en achtste lid, van het Wetboek van Strafrecht niet van toepassing.   
+3.  Bij oplegging van een geldboete blijft een bevel als bedoeld in artikel 24c, eerste lid, van het Wetboek van Strafrecht achterwege.   
 4.  Indien de veroordeelde onwillig blijkt om het verschuldigde bedrag te betalen en volledig verhaal onmogelijk is gebleken of daarvan door het openbaar ministerie is afgezien, zendt de officier van justitie het verzoek met de daarbij behorende stukken zo spoedig mogelijk terug aan Onze Minister, die het Strafhof in kennis stelt.   
 5.  Indien het Strafhof in het geval, bedoeld in het vierde lid, de duur van de aan de veroordeelde opgelegde gevangenisstraf verlengt en die gevangenisstraf in Nederland ten uitvoer wordt gelegd, zijn de artikelen 67 en 68 ten aanzien van het extra deel van de gevangenisstraf van overeenkomstige toepassing.   
 
@@ -675,10 +675,10 @@ Op de tenuitvoerlegging van een op grond van artikel 79 opgelegde straf of maatr
 
 1.  Onverminderd de overige bepalingen van deze paragraaf is dit artikel van toepassing op een verzoek van het Strafhof om tenuitvoerlegging van een bevel tot verbeurdverklaring.   
 2.  Bij zijn vordering, bedoeld in artikel 73, legt de officier van justitie tevens een lijst van voorwerpen of vorderingen over die ingevolge de artikelen 61 tot en met 63 in beslag zijn genomen.   
-3.  Ingeval de rechtbank verlof verleent tot tenuitvoerlegging van een bevel tot verbeurdverklaring, spreekt zij de verbeurdverklaring uit van de desbetreffende voorwerpen. Indien verbeurdverklaring van een of meer van de voorwerpen niet mogelijk is, kan de rechtbank overeenkomstig de [artikelen 36b tot en met 36d van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de onttrekking aan het verkeer van de desbetreffende voorwerpen uitspreken.   
+3.  Ingeval de rechtbank verlof verleent tot tenuitvoerlegging van een bevel tot verbeurdverklaring, spreekt zij de verbeurdverklaring uit van de desbetreffende voorwerpen. Indien verbeurdverklaring van een of meer van de voorwerpen niet mogelijk is, kan de rechtbank overeenkomstig de artikelen 36b tot en met 36d van het Wetboek van Strafrecht de onttrekking aan het verkeer van de desbetreffende voorwerpen uitspreken.   
 4.  Indien verbeurdverklaring of onttrekking aan het verkeer van een of meer van de voorwerpen niet mogelijk is, legt de rechtbank aan de veroordeelde de verplichting op tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel. Met inachtneming van de beslissing van het Strafhof stelt zij het bedrag vast op het bedrag van de voorwerpen of het gedeelte daarvan waarvan de verbeurdverklaring of onttrekking aan het verkeer niet mogelijk is.   
-5.  Op uitspraken, voor zover houdende een verbeurdverklaring of onttrekking aan het verkeer, zijn de [artikelen 552b](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [552e](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [552g van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
-6.  Op uitspraken, voor zover houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is [artikel 577b van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+5.  Op uitspraken, voor zover houdende een verbeurdverklaring of onttrekking aan het verkeer, zijn de artikelen 552b, 552e en 552g van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+6.  Op uitspraken, voor zover houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is artikel 577b van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 7.  Artikel 65 is van overeenkomstige toepassing.   
 
 ### Artikel  83  
@@ -688,10 +688,10 @@ Op de tenuitvoerlegging van een op grond van artikel 79 opgelegde straf of maatr
 3.  De begunstigde heeft recht op kennisneming van de stukken.   
 4.  De begunstigde kan zich doen bijstaan. Hij kan zich ook doen vertegenwoordigen door een advocaat, indien deze verklaart daartoe bepaaldelijk gevolmachtigd te zijn, of door een daartoe bij bijzondere volmacht door hem schriftelijk gemachtigde.   
 5.  Ter zitting wordt de begunstigde in de gelegenheid gesteld het woord te voeren over de vordering van de officier van justitie.   
-6.  Ingeval de rechtbank verlof verleent tot tenuitvoerlegging van het bevel bedoeld in het tweede lid, legt zij aan de veroordeelde overeenkomstig [artikel 36f, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de verplichting op tot betaling aan de staat van een som geld ten behoeve van de begunstigde of begunstigden.   
+6.  Ingeval de rechtbank verlof verleent tot tenuitvoerlegging van het bevel bedoeld in het tweede lid, legt zij aan de veroordeelde overeenkomstig artikel 36f, eerste lid, van het Wetboek van Strafrecht de verplichting op tot betaling aan de staat van een som geld ten behoeve van de begunstigde of begunstigden.   
 7.  In geen geval is de rechtbank bevoegd de som geld op een hoger bedrag te bepalen dan door het Strafhof is vastgesteld. De rechtbank treedt niet in een nieuw onderzoek naar de rechten van belanghebbenden, tenzij erkenning van de beslissing van het Strafhof daaromtrent onverenigbaar zou zijn met de Nederlandse openbare orde.   
 8.  De staat keert een ontvangen bedrag onverwijld uit aan de door het Strafhof aangewezen personen of instellingen.   
-9.  Het [vierde tot en met zesde lid van artikel 36f van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zijn van overeenkomstige toepassing.   
+9.  Het vijfde tot en met zevende lid van artikel 36f van het Wetboek van Strafrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  84  
 

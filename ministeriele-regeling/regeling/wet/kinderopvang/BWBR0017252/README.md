@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 september 2004, Directie Arbeidsverhoudingen, nr. AV/KO/2004/65638, houdende nadere regels ter zake van enkele in de Wet kinderopvang geregelde onderwerpen (Regeling Wet kinderopvang)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 24](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [30](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [35, vierde lid](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [45, tweede lid](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [46, vierde lid](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [48, vijfde en negende lid, onderdeel a](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [53](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [56, tweede lid](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [62, eerste lid](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [67, tweede lid, van de Wet kinderopvang](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);
+Gelet op de artikelen 24, 30, 35, vierde lid, 45, tweede lid, 46, vierde lid, 48, vijfde en negende lid, onderdeel a, 53, 56, tweede lid, 62, eerste lid, 67, tweede lid, van de Wet kinderopvang;
 Besluit:     
 ### Paragraaf  1  
 
@@ -11,59 +11,63 @@ Besluit:
 
 ### Artikel  1  
 
-####Definities
+####Begripsbepalingen
 
 In deze regeling wordt verstaan onder: 
 
-a. wet: [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+a. *Besluit registers:* het Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk.  
 
-b. college: college van burgemeester en wethouders;  
+b. *kinderopvangtoeslag buitenland:* totaalbedrag van de kinderopvangtoeslagen die door tussenkomst van de Sociale verzekeringsbank worden uitbetaald aan ouders die in een andere lidstaat dan Nederland of in Zwitserland wonen of werken dan wel wonen en werken;  
 
-c. Minister: de Minister van Sociale Zaken en Werkgelegenheid;  
+c. *minister:* Minister van Sociale Zaken en Werkgelegenheid;  
 
-d. vraagouder: ouder die kinderopvang vraagt die geboden wordt door een gastouder.    
+d. *uitvoeringskosten:* totaalbedrag van de kosten die de Sociale verzekeringsbank maakt bij de uitvoering, bedoeld in artikel 34, derde lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen voor zover het betreft de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
+
+e. *wet:*Wet kinderopvang en kwaliteitseisen peuterspeelzalen.    
 
 ### Paragraaf  2  
 
-####Tegemoetkoming van de gemeente en het Uitvoeringsinstituut werknemersverzekeringen
+####Rijksbijdrage kinderopvangtoeslag buitenland
 
 ### Artikel  2  
 
-####Duur tegemoetkoming
+####Raming baten en lasten
 
-De maximale duur van de aanspraak van een ouder op een tegemoetkoming van de gemeente respectievelijk op een tegemoetkoming van het Uitvoeringinstituut werknemersverzekeringen als bedoeld in [artikel 1.35 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) bedraagt zes maanden.  
+Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de minister in het jaarplan met begroting, bedoeld in artikel 46 van de Wet structuur uitvoeringsorganisatie werk en inkomen, een opgave van het totaalbedrag aan de voor het komende kalenderjaar geraamde baten en lasten met betrekking tot de kinderopvangtoeslag buitenland, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per kalenderjaar.  
 
 ### Artikel  3  
 
-####Toeslag
+####Betaling voorschot
 
-Het vast te stellen bedrag, bedoeld in de [artikelen 1.24, eerste tot en met derde lid](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [1.30, eerste en tweede lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) komt overeen met: 
+1.  De minister stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel a, van de Regeling Wfsv een periodiek voorschot op het bedrag, bedoeld in artikel 2, van: 
 
-a. 4,5% van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) voor een eerste kind dat gebruik maakt van kinderopvang; of  
+a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en  
 
-b. 3,5% van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) voor ieder tweede of volgende kind dat gebruik maakt van kinderopvang.    
+b. 1/12de deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.     
+2.  De minister kan, na overleg met de Sociale verzekeringsbank, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.   
 
 ### Artikel  4  
 
-####Voorkoming samenloop toeslag
+####Afrekening
 
-Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), terwijl de ander een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), wordt het bedrag, bedoeld in artikel 3, uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 3, eerste lid, met betrekking tot de kinderopvangtoeslag buitenland opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.   
 
 ### Paragraaf  3  
 
-####Regels inzake registratie van voorzieningen
+####Regels inzake registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk
 
 ### Artikel  9b  
 
 ####Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers kinderopvang en peuterspeelzaalwerk](../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md), wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage 1.  
+De systeembeschrijving, bedoeld in artikel 4, vijfde lid, van het Besluit registers, wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage 1.  
 
 ### Artikel  9c  
 
 ####Taak Dienst Uitvoering Onderwijs
 
-De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 4 van het Besluit registers kinderopvang en peuterspeelzaalwerk](../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md).  
+De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van artikel 4 van het Besluit registers.  
 
 ### Paragraaf  4  
 
@@ -71,37 +75,37 @@ De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [arti
 
 ### Artikel  10  
 
-1.  Voor de toepassing van [artikel 3, eerste lid, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aangewezen: 
+1.  Voor de toepassing van artikel 13, tweede lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs, aangewezen: 
 
 a. Helpende Zorg en Welzijn 2; Helpende welzijn 2; en  
 
 b. Helpende breed 2; Helpende sociaal agogisch werk 2; Verzorgingsassistent(e).     
-2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen opgenomen eis.   
 3.  De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
 
 ### Artikel  10a  
 
-1.  Voor de toepassing van [artikel 3, eerste lid, onder b, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md), worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d, of e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), aangewezen: 
+1.  Voor de toepassing van artikel 13, tweede lid, onderdeel b, van het Besluit kwaliteit kinderopvang en peuterspeelzalen, worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in artikel 7.2.2, eerste lid, onderdelen c, d, of e, van de Wet educatie en beroepsonderwijs, aangewezen: 
 
 a. Gespecialiseerd pedagogisch medewerker 4 kinderopvang; Onderwijsassistent; Onderwijsassistent PO/SO (primair onderwijs/speciaal onderwijs); Pedagogisch medewerker 3 kinderopvang; Pedagogisch Werker 3 Kinderopvang; Pedagogisch Werker 4 Kinderopvang; Pedagogisch Werker niveau 3; Pedagogisch Werker niveau 4; Sociaal-Cultureel Werker (SCW); Sociaal Pedagogisch Werker 3 (SPW-3); Sociaal Pedagogisch Werker 4 (SPW4); Sport en Bewegen (niveau 3 en 4); Sport- en bewegingscoördinator (niveau 4); Sport- en bewegingsleider (niveau 3); en en  
 
 b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB); Agogisch Werk (AW); akte hoofdleidster kleuteronderwijs; akte Kleuterleidster A; akte Kleuterleidster B; Akte van bekwaamheid als hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als leidster aan kleuterscholen; Akte van bekwaamheid als leidster bij het kleuteronderwijs; Arbeidstherapie (AT); A-Verpleegkundige; A-verpleger; B Verpleegkundige; B-Verpleegkundige; B-verpleger; Cultureel werk (CW); Getuigschrift A (ziekenverpleging); Getuigschrift B (ziekenverpleging); Extramurale gezondheidszorg (EMGZ); Inrichtingswerk (IW); Kinderbescherming A; Kinderbescherming B; Kinderverzorging en Opvoeding; Kinderverzorging/Jeugdverzorging (KV/JV); Kinderverzorgster (KV); Kinderverzorgster van de centrale raad voor de kinderuitzending; Kultureel werk (KW); Leidster kindercentra (niet van OVDB); Leidster Kindercentra van de OVDB; Residentieel Werk (RW); Sociaal Agogisch 2; Sociaal Agogisch II; Sociaal Cultureel Werk; Sociaal Dienstverlener (SD); Sociaal Pedagogisch Werker; Sociale Arbeid (SA, SA2 of SAII); Sociale Dienstverlening (SD, SA, SA1 of SAI); SPW lang; Vakopleiding Leidster kindercentra (conform de WEB); Verdere Scholing in Dienstverband (VSID) richting kinderdagverblijven; Verpleegkunde; Verpleegkunde A; Verpleegkunde B; Verpleegkunde Z; Verpleegkundige; Verplegende (VP); Verpleging (VP); Verpleging A; Verpleging B; Verzorgende (VZ niveau 3 of VZ lang); Verzorgende beroepen (VZ); Verzorgende Individuele Gezondheidszorg (VIG); Verzorging (VZ); Z Verpleegkundige; Z-Verpleegkundige; Zwakzinnigenzorg.     
-2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen opgenomen eis.   
 3.  De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
 
 ### Artikel  10b  
 
-1.  Voor de toepassing van [artikel 3, eerste lid, onder c, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md), worden de volgende opleidingen als opleiding, bedoeld in [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), aangewezen; 
+1.  Voor de toepassing van artikel 13, tweede lid, onderdeel c, van het Besluit kwaliteit kinderopvang en peuterspeelzalen, worden de volgende opleidingen als opleiding, bedoeld in artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, aangewezen; 
 
 a. Culturele en Maatschappelijke vorming (CMV); Kunstzinnig vormende opleiding op HBO-niveau (docentenrichting binnenkunstonderwijs of kunstzinnige richting binnen lerarenopleiding); Leraar basisonderwijs (aan Hogeschool, PABO of IPABO); Leraar lichamelijke oefening (ALO); Pedagogiek (HBO-bachelor); Sociaal Pedagogische Hulpverlening (SPH); Sport en Bewegen; en  
 
 b. Akte Lager onderwijs zonder hoofdakte (oude kweekschoolopleiding); Akte van bekwaamheid als hoofdonderwijzer(es); Akte van bekwaamheid als leidster of hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als onderwijzer(es); Akte van bekwaamheid als volledig bevoegd onderwijzer(es); Akte van bekwaamheid N XI; Akte van bekwaamheid tot het geven van middelbaar onderwijs in de lichamelijke oefening; Applicatiecursus leraar basisonderwijs (als vervolg op en in combinatie met kleuterakte A/B); Applicatiecursus volledig bevoegd onderwijzer(es); Bachelor of Nursing; Creatieve therapie (waaronder Mikojel); Cultureel Werk (CW); Docent Dans; Docent Drama; Docerend musicus; Educatieve therapie (Mikojel); Extramurale gezondheidszorg (EMGZ); Hogere sociaal-pedagogische opleiding van leiders op het terrein van jeugdvorming en volksontwikkeling; Hoofdonderwijzer; Inrichtingswerk (IW); Jeugdwelzijnswerk; Kinderverzorging en kinderopvoeding; Kinderverzorging en opvoeding; Kreatief Educatief Werk; Kunstzinnige therapie; Leraar voortgezet onderwijs van eerste graad in tekenen; Lerarenopleiding Omgangskunde; Lerarenopleiding Verzorging/Gezondheidskunde; Lerarenopleiding Verzorging/Huishoudkunde; Maatschappelijk Werk (MW); Maatschappelijk Werk en Dienstverlening (MWD); NXX (volgens de Wet op het voortgezet onderwijs); Pedagogiek MO-A of kandidaatsexamen Pedagogiek; Pedagogische Academie; Verpleegkunde.     
-2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+2.  In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen opgenomen eis.   
 3.  De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.   
 
 ### Artikel  10c  
 
-Als opleiding, bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](../../../../../AMvB/besluit/basisvoorwaarden/kwaliteit/voorschoolse/educatie/BWBR0027961/README.md), op tenminste het niveau, bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), worden aangewezen: 
+Als opleiding, bedoeld in artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie, op tenminste het niveau, bedoeld in artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs, worden aangewezen: 
 
 a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de artikelen 10a en 10b;  
 
@@ -145,7 +149,7 @@ q. 3 <sup>e</sup> jaar deeltijd volgend Maatschappelijk Werk en Dienstverlening 
 
 ####Bewijsstukken van met goed gevolg afgesloten onderricht dat in elk geval omvat eerste hulp aan kinderen bij ongevallen
 
-1.  Voor de toepassing van [artikel 4 van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) worden de volgende bewijsstukken aangewezen: 
+1.  Voor de toepassing van artikel 13, derde lid, van het Besluit kwaliteit kinderopvang en peuterspeelzalen worden de volgende bewijsstukken aangewezen: 
 
 a. geregistreerd certificaat Eerste Hulp aan kinderen van het Oranje Kruis,  
 
@@ -157,10 +161,12 @@ d. geregistreerd certificaat Acute Zorgverlener Module Kind en Omgeving van NIKT
 
 e. geregistreerd certificaat Eerstehulpverlener van NIKTA,  
 
-f. geregistreerd certificaat Spoedeisende Hulpverlening bij Kinderen (SEHBK) van NedCert, of  
+f. geregistreerd certificaat Spoedeisende Hulpverlening bij Kinderen (SEHBK) van NedCert,  
 
-g.  vervallen.      
-2.  In aanvulling op het eerste lid kan de minister een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 2, onder b, van het Besluit deskundigheidseisen gastouders kinderopvang](../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) opgenomen eis.   
+g. geregistreerd certificaat Basis Eerstehulpverlener-LPEV met de aantekening Eerste hulp aan Kinderen van Stichting LPEV, of  
+
+h. geregistreerd certificaat Eerste Hulp aan Baby’s en Kinderen van het Nederlandse Rode Kruis.     
+2.  In aanvulling op het eerste lid kan de minister een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in artikel 13, eerste lid, onderdeel b, het Besluit kwaliteit kinderopvang en peuterspeelzalen opgenomen eis.   
 3.  Een aanwijzing, bedoeld in het tweede lid, kan alleen plaatsvinden indien het certificaat slechts wordt afgegeven indien ten minste de volgende inhoudelijke criteria zijn getoetst: 
 
 a. aantoonbare kennis van en inzicht in de voor eerstehulpverlening relevante fysieke verschillen tussen zuigelingen, kinderen en volwassenen;  
@@ -204,20 +210,20 @@ g. de certificerende instantie registreert zelf de behaalde certificaten en de g
 
 1.  De administratie van een kindercentrum of gastouderbureau is zodanig ingericht dat op verzoek van: 
 
-a. de toezichthouder, bedoeld in [artikel 1.61 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), tijdig de gegevens, bedoeld in het tweede lid, onder a tot en met f, respectievelijk in het derde lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 1, afdeling 3, paragrafen 2](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [3, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) gegeven voorschriften van belang zijn; of  
+a. de toezichthouder, bedoeld in artikel 1.61 van de wet, tijdig de gegevens, bedoeld in het tweede lid, onder a tot en met f, respectievelijk in het derde lid, kunnen worden verstrekt die voor de naleving van bij en krachtens hoofdstuk 1, afdeling 3, paragrafen 2 en 3, van de wet gegeven voorschriften van belang zijn; of  
 
 b. de Belastingdienst/Toeslagen, het college of het Uitvoeringsinstituut werknemersverzekeringen tijdig, de gegevens of inlichtingen over de gegevens, bedoeld in het tweede lid, onder f en g, respectievelijk derde lid, eerste volzin, voor zover betrekking hebbend op onderdeel f, en tweede volzin, onder c, d, e, f of g kunnen worden verstrekt die voor de aanspraak van een ouder op en de hoogte van de kinderopvangtoeslag, de hoogte van de tegemoetkoming van de gemeente of de hoogte van de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen van belang zijn.     
 2.  De administratie van een kindercentrum bevat de volgende gegevens: 
 
 a. een overzicht van alle bij dat kindercentrum werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften,  
 
-b. afschriften van alle afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](../../../../../wet/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/BWBR0002195/README.md) van bij het kindercentrum werkzame personen,  
+b. afschriften van alle afgegeven verklaringen omtrent het gedrag, volgens de Wet justitiële en strafvorderlijke gegevens van bij het kindercentrum werkzame personen,  
 
-c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 1.51 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
+c. een afschrift van de risico-inventarisatie, bedoeld in artikel 1.51 van de wet,  
 
-d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in [artikel 1.58 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
+d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in artikel 1.58 van de wet,  
 
-e. een afschrift van het reglement van de oudercommissie, bedoeld in [artikel 1.59 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
+e. een afschrift van het reglement van de oudercommissie, bedoeld in artikel 1.59 van de wet,  
 
 f. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders, en  
 
@@ -226,7 +232,7 @@ g. afschriften van alle met ouders overeengekomen schriftelijke overeenkomsten, 
 
 a. een overzicht van alle bij dat gastouderbureau aangesloten gastouders, vermeldende in ieder geval naam en adres, postcode, woonplaats, telefoonnummer,  
 
-b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](../../../../../wet/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/BWBR0002195/README.md) van bij het gastouderbureau aangesloten gastouders,  
+b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de Wet justitiële en strafvorderlijke gegevens van bij het gastouderbureau aangesloten gastouders,  
 
 c. afschriften van alle met vraagouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de voor de gastouderopvang te betalen prijs per uur en, indien van toepassing, de bemiddelingskosten, naam, geboortedatum, adres, postcode en woonplaats van het kind, het aantal uren gastouderopvang per kind per jaar, evenals de duur van de overeenkomst,  
 
@@ -249,7 +255,7 @@ g. een jaaroverzicht per vraagouder, met vermelding van de naam, het burgerservi
 – opgave van aantal uren per jaar dat per kind is afgenomen en de gemiddelde uurprijs per kind,  
 
 – de voorzieningen voor gastouderopvang waar de vraagouder gebruik van maakt onder vermelding van het unieke registratienummer van deze gastouders.       
-4.  De houder van een kindercentrum of gastouderbureau kan de gegevens, bedoeld in het tweede of derde lid, op een andere plaats administreren dan op de plaats van vestiging van het kindercentrum of van het gastouderbureau, mits de gegevens, bedoeld in het tweede lid, onder a tot en met f, respectievelijk in het derde lid, op verzoek van de toezichthouder, bedoeld in [artikel 1.61 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van het kindercentrum of van het gastouderbureau.   
+4.  De houder van een kindercentrum of gastouderbureau kan de gegevens, bedoeld in het tweede of derde lid, op een andere plaats administreren dan op de plaats van vestiging van het kindercentrum of van het gastouderbureau, mits de gegevens, bedoeld in het tweede lid, onder a tot en met f, respectievelijk in het derde lid, op verzoek van de toezichthouder, bedoeld in artikel 1.61 van de wet, bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van het kindercentrum of van het gastouderbureau.   
 
 ### Paragraaf  5a  
 
@@ -259,31 +265,19 @@ g. een jaaroverzicht per vraagouder, met vermelding van de naam, het burgerservi
 
 ####Uitzondering op de kassiersfunctie
 
-Een houder van een gastouderbureau geleidt de betalingen van vraagouders aan gastouders niet door zolang de uitlooptermijn, bedoeld in [artikel 1.5, derde lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) van toepassing is. Binnen deze uitlooptermijn vinden er geen contante betalingen plaats tussen vraagouder en gastouder.  
+Een houder van een gastouderbureau geleidt de betalingen van vraagouders aan gastouders niet door zolang de termijn, bedoeld in 1.47b, vierde lid, van de wet van toepassing is. Binnen deze termijn vinden er geen contante betalingen plaats tussen vraagouder en gastouder.  
 
 ### Artikel  11b  
 
 ####Kostenoverzicht
 
-In de schriftelijke overeenkomst, bedoeld in [artikel 1.56, vierde lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), geeft het gastouderbureau de vraagouder inzicht in de uitvoeringskosten en de kosten van gastouderopvang.  
-
-### Artikel  11c  
-
-####Schriftelijke in kennis stelling
-
-Het gastouderbureau stelt de vraagouders schriftelijk in kennis van de mededelingen op grond van [artikel 3.2, tweede, derde en zevende lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).  
-
-### Artikel  11d  
-
-####Niet verschuldigde uitvoeringskosten
-
-Het gastouderbureau brengt in kalenderjaar 2010 op basis van [artikel 3.2, achtste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) geen uitvoeringskosten in rekening bij de vraagouder indien de gastouder niet uiterlijk op 31 december 2010 in het register kinderopvang is ingeschreven.  
+In de schriftelijke overeenkomst, bedoeld in artikel 1.56, vierde lid, van de wet, geeft het gastouderbureau de vraagouder inzicht in de uitvoeringskosten en de kosten van gastouderopvang.  
 
 ### Artikel  11e  
 
 ####Uniek registratienummer
 
-In de schriftelijke overeenkomst, bedoeld in [artikel 1.56, vierde lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), wordt het unieke registratienummer van de gastouder opgenomen.  
+In de schriftelijke overeenkomst, bedoeld in artikel 1.56, vierde lid, van de wet, wordt het unieke registratienummer van de gastouder opgenomen.  
 
 ### Artikel  11f  
 
@@ -299,21 +293,21 @@ De vraagouder betaalt periodiek de kosten voor gastouderopvang uiterlijk binnen 
 
 ####Inrichting administratie peuterspeelzaal
 
-1.  De administratie van een peuterspeelzaal is zodanig ingericht dat op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), tijdig de gegevens, bedoeld in het tweede lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 2, paragraaf 2](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [3 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) gegeven voorschriften van belang zijn.   
+1.  De administratie van een peuterspeelzaal is zodanig ingericht dat op verzoek van de toezichthouder, bedoeld in artikel 2.19 van de wet, tijdig de gegevens, bedoeld in het tweede lid, kunnen worden verstrekt die voor de naleving van bij en krachtens hoofdstuk 2, paragraaf 2 en 3 van de wet gegeven voorschriften van belang zijn.   
 2.  De administratie van een peuterspeelzaal bevat de volgende gegevens: 
 
 a. een overzicht van alle bij die peuterspeelzaal werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften;  
 
 b. afschriften van alle afgegeven verklaringen omtrent het gedrag afgegeven volgens de Wet justitiële en strafvorderlijke gegevens van bij de peuterspeelzaal werkzame personen;  
 
-c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 2.9 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
+c. een afschrift van de risico-inventarisatie, bedoeld in artikel 2.9 van de wet,  
 
-d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in [artikel 2.15 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in artikel 2.15 van de wet;  
 
-e. een afschrift van het reglement van de oudercommissie, bedoeld in [artikel 2.16 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md); en  
+e. een afschrift van het reglement van de oudercommissie, bedoeld in artikel 2.16 van de wet; en  
 
 f. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders en de dagdelen waarvoor een kind is ingeschreven.     
-3.  De houder van een peuterspeelzaal kan de gegevens, bedoeld in het tweede lid, op een andere plaats administreren dan op de plaats van vestiging van de peuterspeelzaal, mits de gegevens, bedoeld in het tweede lid, op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van de peuterspeelzaal.   
+3.  De houder van een peuterspeelzaal kan de gegevens, bedoeld in het tweede lid, op een andere plaats administreren dan op de plaats van vestiging van de peuterspeelzaal, mits de gegevens, bedoeld in het tweede lid, op verzoek van de toezichthouder, bedoeld in artikel 2.19 van de wet, bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van de peuterspeelzaal.   
 
 ### Paragraaf  6  
 
@@ -323,187 +317,194 @@ f. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geb
 
 ####Verslag
 
-1.  Het college stelt jaarlijks uiterlijk voor 1 juli een verslag vast als bedoeld in [artikel 1.67 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
-2.  Het verslag bevat een overzicht van en geeft inzicht in: 
-
-a. de door de toezichthouder, bedoeld in [artikel 1.61 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), uitgevoerde onderzoeken, waarbij een onderscheid is gemaakt tussen het aantal onderzoeken, bedoeld in [artikel 1.62, eerste, tweede en derde lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
-
-b. de situaties in de uitvoering die aanleiding hebben gegeven tot het instellen van onderzoek als bedoeld in [artikel 1.62, derde lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md),  
-
-c. de wijze waarop onderzoeken door de toezichthouder, bedoeld in [artikel 1.61 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), zijn uitgevoerd,  
-
-d. de onderzoeksresultaten, en  
-
-e. de wijze waarop handhaving van het bepaalde bij en krachtens [hoofdstuk 1, afdeling 3, paragrafen 2](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [3, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), heeft plaatsgevonden, naar aanleiding van de onderzoeksresultaten, bedoeld in onderdeel d van dit lid.     
-3.  Het verslag dat het college ingevolge [artikel 1.67, eerste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) aan de gemeenteraad en de Minister zendt, staat tevens ten dienste van de Inspectie voor het Onderwijs.   
-4.  Een verslag wordt ingericht overeenkomstig het als bijlage 2 bij deze regeling opgenomen model.   
+Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.  
 
 ### Paragraaf  7  
 
 ####Kinderopvang buiten Nederland
 
-### Artikel  13  
-
-####Aanvraag ten behoeve van opneming in het register buitenlandse kinderopvang
-
-1.  Bij een aanvraag als bedoeld in [artikel 1.48, tweede lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang buiten Nederland en die op grond van de wet in aanmerking kan komen voor kinderopvangtoeslag, de volgende gegevens: 
-
-a. een opgave van de soort kinderopvangvoorziening,  
-
-b. de naam, het adres, de plaats van vestiging en het telefoonnummer van de kinderopvangvoorziening, en  
-
-c. de naam, het adres, de plaats van vestiging en het telefoonnummer van de houder.     
-2.  De ouder, bedoeld in het eerste lid, voegt bij de aanvraag tevens een bewijsstuk waaruit blijkt dat de kwaliteit van de betreffende kinderopvangvoorziening voldoet aan de geldende regels en voorwaarden in het betreffende land.   
-3.  Uiterlijk tien weken na de ontvangst van de aanvraag, bedoeld in [artikel 1.48, tweede lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), beschikt de minister op deze aanvraag.   
-4.  Indien de minister positief beschikt op deze aanvraag, vindt de in [artikel 1.48, eerste lid, van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) bedoelde opname in het register buitenlandse kinderopvang plaats per de datum waarop de minister de aanvraag heeft ontvangen.   
-
 ### Artikel  15  
 
-####Kinderopvang in Duitsland
+####Kinderopvang in België
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Vlaanderen en Brussel wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘kinderdagverblijf’ of ‘minicrèche’;  
+
+b. ‘initiatieven voor buitenschoolse opvang’;  
+
+c. gastouderopvang door ‘onthaalouders’.     
+2.  ‘Zelfstandige onthaalouder’ is uitgezonderd van de in het eerste lid genoemde voorzieningen.   
+3.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldige erkenning of attest van toezicht, afgegeven door Kind en Gezin.   
+4.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Wallonië en Brussel wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘crèche’, ‘prégardiennat’ en ‘Maison communale d’Accueil de l’Enfance’;  
+
+b. gastouderopvang door ‘Service d’Accueillant(e)s d’Enfants conventionné(e)’;     
+5.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het vierde lid geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldige ‘attestation de qualité’, afgegeven door ‘l’Office de la Naissance et de l’Enfance’.   
 
 ### Artikel  15a  
 
-####Kinderopvang in Zwitserland, kanton Genève en kanton Zürich
+####Kinderopvang in Duitsland
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.   
-3.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.   
-4.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Duitsland wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘Kindergärten’, ‘Kindergrippe’ of in ‘Kindertagesstätte’;  
+
+b. buitenschoolse opvang door ‘Hort’;  
+
+c. gastouderopvang door ‘Tagespflegeperson’.     
+2.  ‘Offene Ganztagsschule’ is uitgezonderd van de in het eerste lid genoemde voorzieningen.   
+3.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdeel a of b, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldige ‘Betriebserlaubnis’, afgegeven door een ‘Jugendamt’ of een andere overheidsorganisatie.   
+4.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdeel c, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldige ‘Erlaubnis zur Kindertagespflege’, afgegeven door een ‘Jugendamt’ of een andere overheidsorganisatie.   
+
+### Artikel  15b  
+
+####Kinderopvang in Frankrijk
+
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Frankrijk wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘crèche’;  
+
+b. buitenschoolse opvang door ‘centre de loisir’ of ‘atelier bleu’;  
+
+c. gastouderopvang door ‘assistente maternelle’.     
+2.  ‘Crèche parentale’, ‘école maternelle’ of een andere vorm van voorschool, ‘halte-garderie’ en ‘Arc en Ciel’ zijn uitgezonderd van de in het eerste lid genoemde voorzieningen.   
+3.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers: 
+
+a. voor een voorziening als bedoeld in het eerste lid, onderdeel a, een geldig bewijs van registratie bij ‘Protection Maternelle et Infantile’ en voor zover het een publieke ‘crèche’ betreft tevens een geldig bewijs van registratie van de gemeente waar de voorziening, bedoeld in artikel 1.48, eerste lid, van de wet, is gevestigd;  
+
+b. voor een voorziening als bedoeld in het eerste lid, onderdeel b, voor zover het een voorziening betreft voor kinderen jonger dan zes jaar, een geldig bewijs van registratie bij ‘Protection Maternelle et Infantile’ en voor zover het een voorziening voor kinderen van zes jaar en ouder betreft, een geldig bewijs van registratie bij ‘Direction Départementale de Jeunesse, Sport et Cohésion Sociale’ of een geldig bewijs van registratie bij de gemeente waar de voorziening, bedoeld in artikel 1.48, eerste lid, van de wet is gevestigd;  
+
+c. voor een voorziening als bedoeld in het eerste lid, onderdeel c, een geldig bewijs van registratie bij ‘Protection Maternelle et Infantile’, vastgelegd door middel van ‘ágrement’.     
 
 ### Artikel  15c  
 
-####Kinderopvang in Oostenrijk, stad Wenen
+####Kinderopvang in Hongarije
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend: 
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Hongarije wordt in ieder geval verstaan: 
 
-a. een geldige erkenning verleend door de gemeente Wenen op grond van het Wiener Tagesbetreuungsgesetz en de Wiener Tagesbetreuungsverordnung, of  
+a. dagopvang door ‘bölcsöde’ of ‘óvada’;  
 
-b. een geldige erkenning verleend door de gemeente Wenen op grond van het Wiener Kindertagesheimgesetz en de Wiener Kindertagesheimverordnung.     
+b. buitenschoolse opvang door ‘iskolai napközi’;  
+
+c. gastouderopvang door ‘családi napközi’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdelen a of c, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie bij ‘Emberi Eröforrások Minisztériuma’, via een geldige exploitatievergunning, genoemd ‘Müködési engedély’.   
 
 ### Artikel  15d  
 
-####Kinderopvang in het Verenigd Koninkrijk/Engeland
+####Kinderopvang in Ierland
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in het Verenigd Koninkrijk wordt gerekend: 
-
-a. een erkend kindercentrum: full day care, crèches, out of school care;  
-
-b. geregistreerde gastouders (registered childminders).     
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste lid, van de wet in Ierland wordt in ieder geval verstaan dagopvang door ‘day care center’.   
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig ‘certificate of registration’, afgegeven door ‘Health Services Executive’.   
 
 ### Artikel  15e  
 
-####Kinderopvang in het Verenigd Koninkrijk/Schotland
+####Kinderopvang in Italië
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Schotland wordt gerekend een erkend kindercentrum (full day care).   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste lid, van de wet in Italië wordt in ieder geval verstaan dagopvang door ‘asilo nido’.   
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, of op buitenschoolse opvang, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie van de gemeente of regio waar de voorziening, bedoeld in artikel 1.48, eerste lid, van de wet is gevestigd.   
 
 ### Artikel  15f  
 
-####Kinderopvang in het Verenigd Koninkrijk/Noord Ierland
+####Kinderopvang in Noorwegen
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een geldig Certificate of Registration.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Noorwegen wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘barnehage’;  
+
+b. buitenschoolse opvang door ‘Skolefritidsordning’;  
+
+c. gastouderopvang door ‘familiebarnehage’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie van de gemeente waar de voorziening, bedoeld in artikel 1.48, eerste of tweede lid, van de wet is gevestigd.   
 
 ### Artikel  15g  
 
-####Kinderopvang in Ierland
+####Kinderopvang in Polen
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Ierland wordt gerekend een erkend kindercentrum (full day care).   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een registratie door de Health Services Executive.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Polen wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘zloblek’;  
+
+b. buitenschoolse opvang door ‘przedszkole’ of ‘swietlica’;  
+
+c. gastouderopvang door ‘dzienny opiekun’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers: 
+
+a. voor het gebruik van de voorzieningen in het eerste lid, onderdelen a en c, een geldig bewijs van registratie van de gemeente waar de voorziening, bedoeld in artikel 1.48, eerste of tweede lid, van de wet, is gevestigd;  
+
+b. voor het gebruik van voorzieningen in het eerste lid, onderdeel b, een geldig bewijs van registratie van de gemeente waar de voorziening, bedoeld in artikel 1.48, eerste lid, van de wet is gevestigd en voor zover het een private ‘przedszkole’ betreft tevens een geldig bewijsstuk, genoemd ‘ewidencja niepublicznych innych form’.     
 
 ### Artikel  15h  
 
-####Kinderopvang in Frankrijk/stad Parijs
+####Kinderopvang in Portugal
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Portugal wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘crèche’;  
+
+b. buitenschoolse opvang door ‘jardim de infância’ of ‘Activade de Tempo Livre’;  
+
+c. gastouderopvang door ‘ama’ of ‘crèche familiaire’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdelen a of c, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie van ‘Instituto da Segurança Social’, de sociale dienst van ‘Ministro da Solidariedade, Emprego e Segurança Social’.   
+3.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdeel b, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, voor zover het betreft ‘jardim de infância’, een geldig bewijs van registratie bij ‘Direcção de Educação’ van ‘Ministro da Educação e Ciência’ en voor zover het ‘Activade de Tempo Livre’ betreft, een geldig bewijs van registratie van ‘Instituto da Segurança Social’, de sociale dienst van ‘Ministro da Solidariedade, Emprego e Segurança Social’.   
 
 ### Artikel  15i  
 
-####Kinderopvang in Spanje/Catalonië
+####Kinderopvang in Slovenië
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Spanje/Catalonië wordt gerekend een erkend kindercentrum.   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een erkenning door de regionale overheid.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Slovenië wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘vrtec’;  
+
+b. buitenschoolse opvang door ‘jutranje varstvo’, ‘popoldansko varstvo’ of ‘podaljšano bivanje’;  
+
+c. gastouderopvang door ‘vzgojitelj’ of ‘vzgojiteljica’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie van ‘Ministrstvo za Izobraževanje, Znanost in Šport’.   
 
 ### Artikel  15j  
 
-####Kinderopvang in Portugal
+####Kinderopvang in Spanje
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Spanje wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘escuela de educación infantil’;  
+
+b. buitenschoolse opvang door ‘centro de educación infantil y primaria’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie van de regio waar de voorziening, bedoeld in artikel 1.48, eerste lid, van de wet is gevestigd.   
 
 ### Artikel  15k  
 
-####Kinderopvang verbonden aan internationale scholen
+####Kinderopvang in Tsjechië
 
-1.  Tot een kinderopvangvoorziening als bedoeld in artikel 13, eerste lid, verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.   
-2.  Tot een bewijsstuk als bedoeld in artikel 13, tweede lid, wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.   
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste lid, van de wet in Tsjechië wordt in ieder geval verstaan: 
 
-### Artikel  16  
+a. dagopvang door ‘jesle’;  
 
-####Wijzigingen in het register buitenlandse kinderopvang
+b. buitenschoolse opvang door ‘skolni družina’.     
+2.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdeel a, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, voor zover het een ‘mateřska škola’ betreft, een geldig bewijs van registratie van ‘ministerstvo Školství, Mládeže a Tĕlovýchovy’.   
 
-De minister kan wijzigingen in het register buitenlandse kinderopvang, bedoeld in [artikel 1.48 van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in artikel 13, niet overeenstemmen met de werkelijke situatie.  
+### Artikel  15l  
+
+####Kinderopvang in het Verenigd Koninkrijk, met uitzondering van Wales
+
+1.  Onder een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet in Engeland wordt in ieder geval verstaan: 
+
+a. dagopvang door ‘day care center’ of ‘nursery’;  
+
+b. buitenschoolse opvang door ‘Out of School Hours Care’;  
+
+c. gastouderopvang door ‘childminder’.     
+2.  ‘Nursery school’ is uitgezonderd van de in het eerste lid genoemde voorzieningen.   
+3.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het eerste lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig bewijs van registratie bij ‘Ofsted’.   
+4.  Onder een voorziening als bedoeld in artikel 1.48, eerste lid, van de wet in Noord-Ierland wordt in ieder geval verstaan dagopvang door ‘day care center’.   
+5.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het vierde lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig ‘certificate of registration’.   
+6.  Onder een voorziening als bedoeld in artikel 1.48, eerste lid, van de wet in Schotland wordt in ieder geval verstaan dagopvang door ‘day care center’.   
+7.  Indien de aanvraag, bedoeld in artikel 1.48, derde lid, van de wet, betrekking heeft op een voorziening als bedoeld in het zesde lid, geldt als een bewijsstuk als bedoeld in artikel 10a, onderdeel h, van het Besluit registers, een geldig ‘certificate of registration’, afgegeven door ‘Scottish Commission for the Regulation of Care’.   
 
 ### Paragraaf  7a  
 
 ####Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
-
-### Artikel  16a  
-
-####Kinderopvang in België (Vlaanderen en Brussel)
-
-1.  Als buiten Nederland gevestigde kindercentra of voorzieningen voor gastouderopvang, die worden gelijkgesteld met geregistreerde kindercentra of voorzieningen voor gastouderopvang, als bedoeld in [artikel 1.48a van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) worden aangewezen in België (Vlaanderen en Brussel): 
-
-a. kinderdagverblijven,  
-
-b. minicrèches,  
-
-c. initiatieven voor buitenschoolse opvang,  
-
-d. Onthaalouders, aangesloten bij een erkende dienst voor onthaalouders, en  
-
-e. Zelfstandige onthaalouders,   die in het bezit zijn van een geldige erkenning of geldig attest van toezicht verleend door Kind & Gezin.   
-2.  Onthaalouders, bedoeld in het eerste lid, onderdeel d, dienen eveneens in het bezit te zijn van een contract tussen de dienst voor onthaalouders en de onthaalouder.   
-
-### Artikel  16b  
-
-####Kinderopvang in België (Wallonië en Brussel)
-
-Als buiten Nederland gevestigde kindercentra of voorzieningen voor gastouderopvang die worden gelijkgesteld met geregistreerde kindercentra of voorzieningen voor gastouderopvang als bedoeld in [artikel 1.48a van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) worden aangewezen in België (Wallonië en Brussel): 
-
-a. crèches,  
-
-b. pregardiennats,  
-
-c. maisons communales d’accueil de l’enfance;  
-
-d. crèches parentale;  
-
-e. services d’accueillant(e)s d’enfants conventionné(e).   die in het bezit zijn van een geldige erkenning (attestation de qualité) verleend door l’Office de la Naissance et de l’Enfance (ONE).  
-
-### Artikel  16c  
-
-####Kinderopvang in Duitsland (Nordrhein-Westfalen)
-
-Als buiten Nederland gevestigde kindercentra die worden gelijkgesteld met geregistreerde kindercentra als bedoeld in [artikel 1.48a van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), worden aangewezen in Duitsland (Nordrhein-Westfalen): 
-
-a. Krippen;  
-
-b. Kindergärten;  
-
-c. Horte,   die in het bezit zijn van een geldige exploitatievergunning (Betriebserlaubnis), verleend door het Landesjugendamt.  
-
-### Artikel  16d  
-
-####Gastouderopvang in Duitsland
-
-Als buiten Nederland gevestigde voorzieningen voor gastouderopvang die worden gelijkgesteld met geregistreerde voorzieningen voor gastouderopvang als bedoeld in [artikel 1.48a van de wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) worden aangewezen in Duitsland een Tagesmutter of Tagesvater die in het bezit is van een Pflegeerlaubnis verleend door het Jugendamt van een lokale of regionale overheid.  
 
 ### Paragraaf  8  
 
@@ -517,13 +518,17 @@ De verplichting van artikel 12 geldt voor het eerst over het kalenderjaar volgen
 
 ### Artikel  17b  
 
-Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](../../../../../AMvB/besluit/basisvoorwaarden/kwaliteit/voorschoolse/educatie/BWBR0027961/README.md).  
+Deze regeling berust mede op artikel 4, eerste lid, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie.  
+
+### Artikel  17c  
+
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de artikelen 16a tot en met 16d, zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in artikel 1.48, eerste of tweede lid, van de wet.  
 
 ### Artikel  18  
 
 ####Tijdstip van inwerkingtreding
 
-De Regeling Wet kinderopvang treedt in werking op het tijdstip waarop de [Wet kinderopvang](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) in werking treedt.  
+De Regeling Wet kinderopvang treedt in werking op het tijdstip waarop de Wet kinderopvang in werking treedt.  
 
 ### Artikel  19  
 
@@ -539,10 +544,73 @@ De
 Minister van Sociale Zaken en Werkgelegenheid, 
 A.J.de Geus   
 
-### Bijlage  3  
+### Bijlage  1  
 
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
-![246708](http://wetten.overheid.nl/Illustration/246708)
+####, behorende bij artikel 9b 
+
+####Systeembeschrijving registers kinderopvang en peuterspeelzaalwerk.
+
+De registers kinderopvang en peuterspeelzaalwerk zijn in de uitvoering gerealiseerd en bijeengebracht onder de naam Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP). Het LRKP is een centrale, door Dienst Uitvoering Onderwijs (hierna: DUO) beheerde, elektronische database die door een webapplicatie ter beschikking is gesteld aan alle gemeenten, die op basis van door DUO verstrekte autorisaties bevoegd zijn gegevens in het systeem in te voeren, te wijzigen of te verwijderen (via het zogenoemde Overheidsportaal). Gekoppeld aan dit Overheidsportaal is er een inkijkfunctie in de Basisregistratie personen (hierna: Brp), waarmee de gegevens van de aanvrager door de gemeenten te controleren zijn. <sup> 1  Voor de inwerkingtreding van de Wet basisadministratie personen (Stb. 2013, 315) is deze administratie aangeduid met het begrip ‘gemeentelijke basisadministratie’.  </sup> Tevens is aan het LRKP een toezichts- en handhavingssysteem gekoppeld: de Gemeenschappelijke Inspectieruimte (GIR). Deze GIR is via het Overheidsportaal toegankelijk voor GGD’en en gemeenten en wordt gebruikt om toezicht en handhaving te faciliteren: toezichtsgegevens kunnen makkelijk in het systeem worden vastgelegd en inspectierapporten en handhavingsbrieven kunnen worden gegenereerd. Tevens kan gemakkelijk informatie worden uitgewisseld tussen GGD en gemeente. De GIR wordt ook gebruikt bij het genereren van de jaarverantwoording door gemeenten aan de Inspectie van het Onderwijs (de tweedelijns toezichthouder). Het LRKP staat in verbinding met het toeslagensysteem van de Belastingdienst/Toeslagen, die het LRKP gebruikt bij de toekenning van de kinderopvangtoeslag. Het openbare deel van de gegevens in het LRKP is via een website voor iedereen in te zien (het Publieksportaal). In het Publieksportaal kan op diverse manieren gezocht worden naar kinderopvangvoorzieningen en peuterspeelzalen en wordt allerlei informatie over de voorzieningen en de houders zichtbaar gemaakt. Deze informatie kan via internet ook in de vorm van een spreadsheet door iedereen worden gedownload via Open data Rijksoverheid. Het proces rond het systeemcomplex werkt als volgt: 
+
+* Degene die een kinderopvangvoorziening of peuterspeelzaal wil beginnen doet een aanvraag tot exploitatie bij de gemeente waar die voorziening gevestigd zal zijn. Die aanvraag wordt gedaan met een daartoe door de minister vastgesteld formulier.  
+
+* De door DUO geautoriseerde gemeenteambtenaar voert de gegevens in op basis van het ingediende formulier in het systeem via het Overheidsportaal van het LRKP (waarbij hij via de inkijkfunctie in de Brp de aangeleverde NAW-gegevens kan controleren).  
+
+* De voorziening staat dan met de status ‘aangemeld’ in het LRKP en is alleen zichtbaar voor gemeenten en GGD’en in het Overheidsportaal, en nog niet openbaar te zien in het Publieksportaal.  
+
+* De gemeente laat een onderzoek doen door de GGD voordat er een besluit wordt genomen op de aanvraag. De GGD kan hierbij gebruik maken de reeds ingevoerde gegevens in LRKP, die ook in de GIR staan.  
+
+* Indien zowel de houder als de locatie aan alle eisen voldoen, kan er een positieve beschikking naar de houder worden gezonden en krijgt de voorziening met ingang van de beschikkingsdatum de status geregistreerd in het LRKP.  
+
+* Vanaf dat moment is de voorziening ook openbaar zichtbaar in het Publieksportaal, waarbij alle kinderopvangvoorzieningen zijn voorzien van een uniek, door het systeem gegenereerd registratienummer. Het inspectierapport van de GGD wordt hierbij automatisch opgenomen op de LRKP-website, zodat iedereen het kan inzien.  
+
+* Vanaf het moment dat een kinderopvangvoorziening met de status geregistreerd in het LRKP staat, bestaat er in principe recht op een kinderopvangtoeslag voor ouders die er hun kind laten opvangen. Het LRKP-registratienummer moet hiertoe door de aanvragende ouders bij de Belastingdienst/Toeslagen worden aangeleverd. Dit is ook de reden dat peuterspeelzalen zonder nummer in het LRKP staan: voor opvang in een peuterspeelzaal kan nooit een toeslag worden ontvangen.  
+
+* De Belastingdienst/Toeslagen controleert bij iedere aanvraag van een toeslag of het aangeleverde nummer in het LRKP staat en vanaf welke datum. Alleen als het nummer in het LRKP staat wordt een toeslag toegekend. Deze toeslag wordt direct weer stopgezet als de betreffende voorziening de status ‘niet meer geregistreerd’ krijgt in het LRKP.  
+
+* Wijzigingen in de gegevens in het LRKP moeten door de houder worden doorgegeven aan de gemeente (via een door de minister vastgesteld wijzigingsformulier) en door de gemeente worden doorgevoerd in het LRKP.   DUO zorgt in opdracht van de minister voor het beheer en de verdere ontwikkeling van het systeemcomplex LRKP/GIR. In een jaarlijks contract met daarbij een Dienstverleningsovereenkomst en een Service Level Agreement wordt vastgelegd welke werkzaamheden DUO dient uit te voeren en welke doelen bereikt moeten worden. Iedere maand wordt door DUO gerapporteerd over het Service level en ieder kwartaal vindt op directeursniveau overleg plaats over de voortgang en het niveau van de dienstverlening. Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Belastingdienst/Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt. VNG, GGD Nederland en DUO hebben veelvuldig overleg met gebruikers van het systeem. Eventuele gewenste wijzigingen kunnen via een wijzigingsvoorstel worden ingebracht in het CAB, dat daar vervolgens over adviseert. De hele procedure van het indienen van een wijzigingsvoorstel tot de uiteindelijke wijziging van het systeem is in een beschrijving vastgelegd en maakt onderdeel uit van de Dienstverleningsovereenkomst. DUO zorgt voor een helpdesk en een nieuwsbrief aan gebruikers en gaat met regiomanagers het land in om bij gemeenten en GGD’en de vinger aan de pols te houden en problemen voor te zijn of op te lossen. Ook zorgt DUO voor instructies en korte cursussen in het werken met het LRKP en de GIR.  
+
+####Systeembeschrijving register buitenlandse kinderopvang
+
+Het beheer van het register buitenlandse kinderopvang wordt ondergebracht bij de Helpdesk Kinderopvang van DUO. Omdat door het afschaffen van de gelijkgestelde categorieën kinderopvang het aantal aanvragen tot inschrijving in het register buitenlandse kinderopvang zal toenemen, wordt ter ondersteuning van de uitvoering een compacte applicatie ingericht waarin de aanvragen en de daaruit volgende registraties worden bijgehouden. In deze applicatie wordt onder meer bijgehouden wat de status van een aanvraag is, en of en zo ja, welke brieven en beschikkingen er zijn verstuurd. Bij elke registratie wordt een identificerend nummer gegenereerd dat onder andere gebruikt wordt in de communicatie met de Belastingdienst/Toeslagen en dat ook gebruikt kan worden om gearchiveerde bewijsstukken op te vragen uit het digitaal archief van DUO. De binnenkomende aanvragen en bewijsstukken worden in eerste instantie verzameld en handmatig verwerkt. Dit wordt onder andere zo gedaan omdat het belangrijk is de bewijsstukken fysiek te kunnen beoordelen. Nadat een beschikking is afgegeven wordt het dossier als één geheel gescand en zowel fysiek als digitaal gearchiveerd. De regelgeving is verwerkt in werkinstructies aan de hand waarvan de Helpdesk Kinderopvang werkt. Naarmate de regeling tot meer landen wordt uitgebreid zullen ook daarvoor werkinstructies worden opgesteld. Rond eind 2014/begin 2015 zal worden aangesloten op de bestaande koppeling tussen het LRKP en de Belastingdienst/Toeslagen. De gegevens van de geregistreerde buitenlandse kinderopvanginstellingen zullen dan via een automatische koppeling worden doorgegeven naar de Belastingdienst/Toeslagen. In principe wordt aangesloten op de bestaande koppeling, maar dat gebeurt zodanig dat de berichten onderscheiden kunnen worden van de berichten die betrekking hebben op het LRKP, zodat de beide stromen van elkaar gescheiden blijven. Alleen de medewerkers van de Helpdesk Kinderopvang hebben toegang tot de beheerfunctionaliteit van het register buitenlandse kinderopvang.  
+
+### Bijlage  2  
+
+####, behorende bij artikel 12 
+
+####Informatieverstrekking over de toezicht- en handhavingstaken
+
+De informatieverstrekking van het college aan de minister over de uitvoering van de bij of krachtens de wet opgedragen taken toezicht en handhaving in het kader van de wet- en regelgeving kinderopvang en peuterspeelzalen, dient jaarlijks uiterlijk op 1 juli plaats te vinden. De informatieverstrekking geschiedt aan de hand van de criteria die hieronder zijn opgenomen. De benodigde gegevens worden zoveel mogelijk uit de bestaande landelijke gebruikers- en uitvoeringssystemen (het Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP) en de Gemeenschappelijke Inspectie Ruimte (GIR)) gehaald. Deze worden per gemeente verwerkt in een jaarlijks overzicht ten behoeve van de jaarverantwoording kinderopvang en peuterspeelzalen. Dit overzicht wordt vervolgens op de website www.waarstaatjegemeente.nl beschikbaar gesteld. Gemeenten die gebruik maken van de landelijke uitvoeringssystemen LRKP en GIR en waarvan de bij de gemeente behorende GGD dat eveneens doet, dienen de gegevens vast te laten stellen door het college. Vervolgens wordt het jaarverslag aan de gemeenteraad en de Inspectie van het Onderwijs (hierna: IvhO) beschikbaar gesteld. Voor gemeenten die voor een deel van hun taak niet zijn aangesloten bij de hiervoor genoemde landelijke systemen, of waarvan de GGD niet met GIR-inspecteren werkt, kan de volledige gegevensverzameling niet automatisch plaatsvinden. Deze gemeenten dienen de ontbrekende gegevens zelf op de website www.waarstaatjegemeente.nl toe te voegen. Ook deze gemeenten dienen de verantwoordingsgegevens door het college te laten vaststellen en aan de gemeenteraad en IvhO beschikbaar te stellen. 
+
+### A  
+
+####Criterium Registervoering
+
+– Is het LRKP volgens het college in het verslagjaar juist, volledig en actueel geweest?    
+
+### B  
+
+####Criterium tijdig afgehandeld kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
+
+– Aantal tijdig afgehandelde aanvragen.  
+
+– Aantal niet tijdig afgehandelde aanvragen.    
+
+### C  
+
+####Criterium ‘uitvoering inspecties’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
+
+– Aantal uit te voeren jaarlijkse inspecties (inclusief 3 maandenonderzoeken).  
+
+– Aantal uitgevoerde jaarlijkse inspecties (inclusief 3 maandenonderzoeken).    
+
+### D  
+
+####Criterium ‘handhaving’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
+
+– Aantal rapporten met handhavingsadvies handhaven.  
+
+– Aantal ingezette handhavingstrajecten.  
+
+– Overzicht van de acties op alle tekortkomingen voortvloeiend uit de afgeronde rapporten.    
 

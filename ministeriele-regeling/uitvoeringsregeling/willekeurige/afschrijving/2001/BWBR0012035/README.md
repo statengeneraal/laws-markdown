@@ -36,7 +36,8 @@ De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](../../../../../../w
 
 ### Artikel  4  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.  
+1.  De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.   
+2.  De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.   
 
 ### Artikel  5  
 
@@ -45,6 +46,8 @@ Met betrekking tot milieubedrijfsmiddelen die op grond van [artikel 3.42a, zeven
 ### Hoofdstuk  3  
 
 ####Bedrijfsmiddelen in het belang van de arbeidsomstandigheden
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  4  
 
@@ -91,7 +94,7 @@ Met betrekking tot bedrijfsmiddelen als bedoeld in artikel 10 wordt de periode, 
 
 ### Artikel  13  
 
-1.  Als andere aangewezen bedrijfsmiddelen als bedoeld in [artikel 3.34, tweede lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden voorts aangewezen: bedrijfsmiddelen die niet eerder in gebruik zijn genomen, voor zover de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan of ter zake van de voortbrenging voortbrengingskosten heeft gemaakt in het kalenderjaar 2009, 2010 of 2011, en het bedrijfsmiddel vóór 1 januari 2012, vóór 1 januari 2013 onderscheidenlijk vóór 1 januari 2014, door hem in gebruik wordt genomen. Met betrekking tot een schip waarvoor verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt in het kalenderjaar 2010 of 2011, is de eerste volzin slechts van toepassing indien de winst met betrekking tot dit schip ten minste tot 1 januari 2020, onderscheidenlijk ten minste tot 1 januari 2021, niet wordt bepaald met toepassing van [artikel 3.22 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De inspecteur kan voor situaties van een zakelijke vervreemding ontheffing van de toepassing van de tweede volzin verlenen.   
+1.  Als andere aangewezen bedrijfsmiddelen als bedoeld in [artikel 3.34, tweede lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden voorts aangewezen: bedrijfsmiddelen die niet eerder in gebruik zijn genomen, voor zover de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan of ter zake van de voortbrenging voortbrengingskosten heeft gemaakt in het kalenderjaar 2009, 2010, 2011 of in de periode van 1 juli tot en met 31 december 2013, en het bedrijfsmiddel vóór 1 januari 2012, vóór 1 januari 2013, vóór 1 januari 2014, onderscheidenlijk vóór 1 januari 2016, door hem in gebruik wordt genomen. Met betrekking tot een schip waarvoor verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt in het kalenderjaar 2010, 2011 of in de periode van 1 juli tot en met 31 december 2013, is de eerste volzin slechts van toepassing indien de winst met betrekking tot dit schip ten minste tot 1 januari 2020, ten minste tot 1 januari 2021, onderscheidenlijk ten minste tot 1 januari 2023, niet wordt bepaald met toepassing van [artikel 3.22 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). De inspecteur kan voor situaties van een zakelijke vervreemding ontheffing van de toepassing van de tweede volzin verlenen.   
 2.  Tot de bedrijfsmiddelen, bedoeld in het eerste lid, behoren niet: 
 
 a. gebouwen;  
@@ -113,33 +116,40 @@ h. voor het openbaar rij- of ander verkeer openstaande wegen en paden, daaronder
 i. bedrijfsmiddelen die zijn bestemd om – direct of indirect – hoofdzakelijk ter beschikking te worden gesteld aan derden, uitgezonderd bedrijfsmiddelen die zijn bestemd om voor korte duur te worden verhuurd aan opeenvolgende huurders;  
 
 j. bedrijfsmiddelen waarop uit anderen hoofde willekeurig wordt afgeschreven.     
-3.  De in het eerste lid genoemde datum van 1 januari 2012, 1 januari 2013 onderscheidenlijk 1 januari 2014, waarvoor de ingebruikneming van het bedrijfsmiddel dient plaats te vinden, wordt verschoven, indien de belastingplichtige aannemelijk maakt dat de ingebruikneming door bijzondere omstandigheden is vertraagd. De verschuiving bedraagt zoveel dagen als door die omstandigheden wordt gerechtvaardigd.   
+3.  De in het eerste lid genoemde datum van 1 januari 2012, 1 januari 2013, 1 januari 2014, onderscheidenlijk 1 januari 2016, waarvoor de ingebruikneming van het bedrijfsmiddel dient plaats te vinden, wordt verschoven, indien de belastingplichtige aannemelijk maakt dat de ingebruikneming door bijzondere omstandigheden is vertraagd. De verschuiving bedraagt zoveel dagen als door die omstandigheden wordt gerechtvaardigd.   
 4.  Voor de toepassing van het tweede lid, onderdeel e, wordt onder een zeer zuinige personenauto verstaan een personenauto met een CO <sub>2</sub> -uitstoot als bedoeld in [artikel 3.20, zesde lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van niet meer dan: 
 
-a. 95 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, en  
+a. 95 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, respectievelijk 110 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking, voor auto’s waarvoor de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan in het kalenderjaar 2009, 2010 of 2011;  
 
-b. 110 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking.     
+b. 88 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, respectievelijk 95 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking, voor auto’s waarvoor de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan in de periode van 1 juli tot en met 31 december 2013.     
 
 ### Artikel  14  
 
-De willekeurige afschrijving op bedrijfsmiddelen, bedoeld in artikel 13, bedraagt in het jaar waarin de verplichting is aangegaan of de voortbrengingskosten zijn gemaakt ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten.  
+1.  Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in artikel 13 verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in het kalenderjaar 2009, 2010 of 2011 bedraagt de willekeurige afschrijving in het jaar waarin de verplichting is aangegaan of de voortbrengingskosten zijn gemaakt ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten.   
+2.  Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in artikel 13 verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in de periode van 1 juli tot en met 31 december 2013 kan eenmalig ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten willekeurig worden afgeschreven in het jaar waarin de verplichtingen zijn aangegaan of de voortbrengingskosten zijn gemaakt.   
 
 ### Artikel  15  
 
-1.  Voor de toepassing van [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), eindigt de periode waarbinnen het bedrijfsmiddel in gebruik genomen moet zijn op 31 december 2011, op 31 december 2012 onderscheidenlijk op 31 december 2013. Ingeval met betrekking tot het bedrijfsmiddel artikel 13, derde lid, toepassing vindt, wordt die periode verlengd met het aantal dagen van de aldaar bedoelde verschuiving.   
-2.  Ingeval met betrekking tot een in artikel 13, eerste lid, tweede volzin, bedoeld schip vanaf enig moment vóór 1 januari 2020, onderscheidenlijk vóór 1 januari 2021, de winst wordt bepaald met toepassing van [artikel 3.22 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), vindt [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing voordat [artikel 3.23, tweede lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing vindt.   
+1.  Voor de toepassing van [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) eindigt de periode waarin het bedrijfsmiddel moet voldoen aan de voorwaarden van artikel 13 op 31 december 2011, op 31 december 2012, op 31 december 2013, onderscheidenlijk op 31 december 2015. Ingeval met betrekking tot het bedrijfsmiddel artikel 13, derde lid, toepassing vindt, wordt de periode, bedoeld in de eerste volzin, verlengd met het aantal dagen van de in artikel 13, derde lid, bedoelde verschuiving.   
+2.  Ingeval met betrekking tot een in artikel 13, eerste lid, tweede volzin, bedoeld schip vanaf enig moment vóór 1 januari 2020, vóór 1 januari 2021, onderscheidenlijk vóór 1 januari 2023, de winst wordt bepaald met toepassing van [artikel 3.22 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), vindt [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing voordat [artikel 3.23, tweede lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing vindt.   
 
 ### Paragraaf  4  
 
 ####Investeringen op het continentaal plat
 
+Vervallen per 01-01-2003   
+
 ### Paragraaf  5  
 
 ####Film
 
+Vervallen per 01-01-2003   
+
 ### Paragraaf  6  
 
 ####Nieuwe gebouwen in aangewezen gemeenten
+
+Vervallen per 01-01-2003   
 
 ### Hoofdstuk  5  
 

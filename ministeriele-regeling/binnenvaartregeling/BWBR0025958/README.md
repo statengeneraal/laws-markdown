@@ -5,9 +5,9 @@
 De Staatssecretaris van Verkeer en Waterstaat,  
 Gelet op de Herziene Rijnvaartakte met bijbehorende protocollen, alsmede op verordening (EEG) nr. 1017/68 van de Raad van de Europese Gemeenschappen van 19 juli 1968 houdende de toepassing van mededingingsregels op het gebied van het vervoer per spoor, over de weg en over de binnenwateren (PbEG L 175); richtlijn nr. 76/135/EEG van de Raad van de Europese Gemeenschappen van 20 januari 1976 inzake wederzijdse erkenning van scheepsattesten voor binnenschepen (PbEG L 021); verordening (EEG ) nr. 2919/85/ van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280); richtlijn nr. 87/540/EEG van de Raad van de Europese Gemeenschappen van 9 november 1987 betreffende de toegang tot het beroep van ondernemer van nationaal en internationaal goederenvervoer over de binnenwateren en inzake de onderlinge erkenning van dit beroep betreffende diploma’s, certificaten en andere titels (PbEG L 322); verordening (EEG) nr. 3921/91 van de Raad van de Europese Gemeenschappen van 16 december 1991 tot vaststelling van de voorwaarden waaronder vervoersondernemers worden toegelaten tot binnenlands goederen- en personenvervoer over de binnenwateren in een Lid-Staat waar zij niet gevestigd zijn (PbEG L 373); richtlijn nr. 91/672/EEG van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake wederzijdse erkenning van de nationale vaarbewijzen voor het besturen van schepen in het goederen- en personenvervoer over de binnenwateren (PbEG L 373); verordening (EEG) nr. 3912/92 van de Raad van de Europese Gemeenschappen van 17 december 1992 inzake in de Gemeenschap in het wegvervoer en de binnenvaart uitgevoerde controles van in een derde land ingeschreven of tot het verkeer toegelaten vervoermiddelen (PbEG L 395); verordening (EEG) nr. 1356/96 van de Raad van de Europese Unie van 8 juli 1996 tot vaststelling van gemeenschappelijke voorschriften voor het vervoer van goederen of personen over de binnenwateren, tussen Lid-Staten, om voor dit vervoer het vrij verrichten van diensten te verzekeren (PbEU L 175); richtlijn nr. 96/50/EG van de Raad van de Europese Unie van 23 juli 1996 betreffende de harmonisatie van voorwaarden voor de afgifte van nationale vaarbewijzen voor binnenvaartuigen welke bij het goederen- en personenvervoer in de Gemeenschap gebruikt worden (PbEU L 235); richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255); verordening (EG) nr. 1365/2006 van het Europees Parlement en de Raad van de Europese Unie van 6 september 2006 betreffende de statistiek van het goederenvervoer over de binnenwateren en houdende intrekking van richtlijn nr. 80/1119/EEG van de Raad van de Europese Unie (PbEU L 264); richtlijn nr. 2006/87/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn nr. 82/714/EEG van de Raad (PbEU L 389); verordening (EG) nr. 425/2007 van de Commissie van de Europese Gemeenschappen van 19 april 2007 tot uitvoering van verordening (EG) nr. 1365/2006 van het Europees Parlement en de Raad van de Europese Unie betreffende de statistiek van het goederenvervoer over de binnenwateren (PbEU L 103);
 
-alsmede gelet op de [artikelen 1, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [2](../../../wet/binnenvaartwet/BWBR0023009/README.md), [6, tweede, derde en vijfde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [8, eerste en tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [9, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [13, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [14 eerste en tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [19, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [21, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [22, eerste en vierde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [24, derde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [29, tweede lid, onderdeel c](../../../wet/binnenvaartwet/BWBR0023009/README.md), [31, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [32, eerste en tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [33, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [40, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [43, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), en [48, vierde lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en [33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);
+alsmede gelet op de artikelen 1, eerste lid, 2, 6, tweede, derde en vijfde lid, 8, eerste en tweede lid, 9, tweede lid, 13, eerste lid, 14 eerste en tweede lid, 19, eerste lid, 21, tweede lid, 22, eerste en vierde lid, 24, derde lid, 29, tweede lid, onderdeel c, 31, eerste lid, 32, eerste en tweede lid, 33, eerste lid, 40, tweede lid, 43, eerste lid, en 48, vierde lid, van de Binnenvaartwet en 33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties;
 
-alsmede gelet op de [artikelen 2, tweede lid, onderdeel c](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [3, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [5](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [7, onderdeel c, onder 3°](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [11, eerste en tweede lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [12, tweede lid, onderdeel e](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [17, tweede en derde lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [18, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [19](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [20, eerste en vijfde lid, onderdeel b](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [23, derde lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [24](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [25, tweede lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [26, zesde lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [29, eerste en tweede lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [30, tweede lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [31](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [32](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en [33, eerste lid, van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md);
+alsmede gelet op de artikelen 2, tweede lid, onderdeel c, 3, eerste lid, 5, 7, onderdeel c, onder 3°, 11, eerste en tweede lid, 12, tweede lid, onderdeel e, 17, tweede en derde lid, 18, eerste lid, 19, 20, eerste en vijfde lid, onderdeel b, 23, derde lid, 24, 25, tweede lid, 26, zesde lid, 29, eerste en tweede lid, 30, tweede lid, 31, 32 en 33, eerste lid, van het Binnenvaartbesluit;
 
 In overeenstemming met de colleges van gedeputeerde staten van Fryslân, Groningen en Overijssel voor artikel 10.4, eerste lid;
 
@@ -27,7 +27,9 @@ Besluit:
 
 *bevoegde autoriteit:* autoriteit bedoeld in artikel 9, tweede lid, van de richtlijn 2006/87/EG of in de in artikelen 1.6, 1.9 en 1.13 bedoelde reglementen.  
 
-*besluit:*[Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md);  
+*besluit:*Binnenvaartbesluit;  
+
+*CBR:* Centraal Bureau Rijvaardigheidsbewijzen te Rijswijk (Z-H);  
 
 *duwbak:* schip dat is bestemd voor het vervoer van goederen, geschikt om te worden geduwd en dat: 
 
@@ -41,7 +43,7 @@ Besluit:
 
 *hecht samenstel:* een duwstel of een gekoppeld samenstel;  
 
-*minister:* Minister van Verkeer en Waterstaat;  
+*minister:* Minister van Infrastructuur en Milieu;  
 
 *open rondvaartboot:* passagiersschip met een lengte op de waterlijn van minder dan 20 meter en dat: 
 
@@ -73,9 +75,9 @@ d. een stuurstand heeft aan de voorzijde van de passagiersaccommodatie, en
 
 e. is bestemd voor gebruik op de binnenwateren van zones 3 of 4;    
 
-*RosR 1995:* bij resolutie van 18 mei 1994 (protocol 1994-I-23) van de Centrale Commissie voor de Rijnvaart vastgestelde [Reglement onderzoek schepen op de Rijn 1995](../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md);  
+*RosR 1995:* bij resolutie van 18 mei 1994 (protocol 1994-I-23) van de Centrale Commissie voor de Rijnvaart vastgestelde Reglement onderzoek schepen op de Rijn 1995;  
 
-*Rsp:* bij resolutie van 2 juni 2010 (protocol 2010-I-8) van de Centrale Commissie voor de Rijnvaart vastgesteld [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+*Rsp:* bij resolutie van 2 juni 2010 (protocol 2010-I-8) van de Centrale Commissie voor de Rijnvaart vastgesteld Reglement betreffende het scheepvaartpersoneel op de Rijn;  
 
 *verordening (EEG) 2919/85:*verordening (EEG) nr. 2919/85 van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280).     
 2.  Waar in deze regeling de aanduiding ‘jaar’ wordt gebruikt in relatie tot vaartijd, wordt hieronder verstaan 180 effectieve vaardagen in de binnenvaart. Binnen een periode 365 opeenvolgende dagen worden maximaal 180 dagen als vaartijd worden meegerekend. 250 Vaardagen in de zee- of kustvaart dan wel de visserij gelden als één jaar vaartijd.   
@@ -122,11 +124,11 @@ Binnenwateren zijn de wateren die in Nederland zijn gelegen binnen de langs de N
 
 ### Artikel  1.3  
 
-De zones, bedoeld in [artikel 2 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) zijn: 
+De zones, bedoeld in artikel 2 van de wet zijn: 
 
 a. de zones 2, 3 en 4 genoemd in bijlage I van richtlijn 2006/87/EG;  
 
-b. de zone R, die de binnenwateren omvat, bedoeld in onderdeel a, waarvoor een certificaat wordt afgegeven overeenkomstig artikel 22 van de Herziene Rijnvaartakte, volgens de bewoordingen van dat artikel bij het in werking treden van [de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).    
+b. de zone R, die de binnenwateren omvat, bedoeld in onderdeel a, waarvoor een certificaat wordt afgegeven overeenkomstig artikel 22 van de Herziene Rijnvaartakte, volgens de bewoordingen van dat artikel bij het in werking treden van de wet.    
 
 ### §  3  
 
@@ -134,12 +136,12 @@ b. de zone R, die de binnenwateren omvat, bedoeld in onderdeel a, waarvoor een c
 
 ### Artikel  1.4  
 
-1.  Onverminderd het bepaalde in het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) ten aanzien van het aanvragen van Rijnpatenten en Radarpatenten wordt voor het aanvragen van een krachtens de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) vereist document de wijze van aanvragen toegepast die de afgevende instantie voorschrijft.   
+1.  Onverminderd het bepaalde in het Rsp ten aanzien van het aanvragen van Rijnpatenten en Radarpatenten wordt voor het aanvragen van een krachtens de wet vereist document de wijze van aanvragen toegepast die de afgevende instantie voorschrijft.   
 2.  De afgevende instantie, bedoeld in het eerste lid, kan voor een verloren geraakt of door slijtage ongeldig geworden document een gewaarmerkt afschrift verstrekken, dat in de plaats treedt van het oorspronkelijke document.   
 
 ### Artikel  1.5  
 
-1.  De verplichting tot het aan boord hebben van documenten, afgegeven ingevolge of krachtens de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), geldt niet voor de volgende vaartuigen: 
+1.  De verplichting tot het aan boord hebben van documenten, afgegeven ingevolge of krachtens de wet, geldt niet voor de volgende vaartuigen: 
 
 a. bokken;  
 
@@ -155,14 +157,14 @@ f. schepen zonder verblijven, zoals duwbakken, dekschuiten, pontons;
 
 g. open rondvaartboten, behalve ten aanzien van de verplichting met betrekking tot het vaarbewijs en mits het certificaat van onderzoek ter plaatse waar de rondvaarten beginnen, aanwezig is;  
 
-h. binnenschepen waarvoor ingevolge [artikel 785, tweede lid, van boek 8 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) geen verplichting tot teboekstelling bestaat, behalve motorboten als bedoeld in [artikel 16, onderdeel d, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) ten aanzien van de verplichting met betrekking tot het vaarbewijs.     
+h. binnenschepen waarvoor ingevolge artikel 785, tweede lid, van boek 8 van het Burgerlijk Wetboek geen verplichting tot teboekstelling bestaat, behalve motorboten als bedoeld in artikel 16, onderdeel d, van het besluit ten aanzien van de verplichting met betrekking tot het vaarbewijs.     
 2.  De vrijstelling voor de in het eerste lid, onderdeel f, genoemde schepen geldt alleen indien: 
 
 a. op het schip een metalen plaat is aangebracht waarop staan vermeld het certificaatnummer, de zone, onderscheidenlijk zones waarvoor het certificaat van onderzoek geldig is en de datum tot welke het certificaat geldig is;  
 
 b. de vermeldingen, bedoeld in onderdeel a, in goed leesbare letters en cijfers met een diepte van ten minste 6 mm zijn ingehakt en de metalen plaat, bedoeld in onderdeel a, een hoogte van ten minste 60 mm en een lengte van ten minste 120 mm heeft en op het achterschip aan stuurboordzijde op een goed zichtbare plaats is bevestigd;  
 
-c. de overeenstemming tussen de vermeldingen op de plaat en de aantekeningen in het certificaat is bevestigd door een ambtenaar van de Inspectie Verkeer en Waterstaat door middel van het aanbrengen van een stempel op de plaat;  
+c. de overeenstemming tussen de vermeldingen op de plaat en de aantekeningen in het certificaat is bevestigd door een ambtenaar van de Inspectie Leefomgeving en Transport door middel van het aanbrengen van een stempel op de plaat;  
 
 d. bij gebruik van het schip op de in Nederland gelegen binnenwateren het certificaat bij de eigenaar van het schip in bewaring is; en  
 
@@ -174,37 +176,42 @@ e. bij grensoverschrijding het certificaat aan boord is van het schip dat het du
 
 ### Artikel  1.6  
 
-1.  Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [RosR 1995](../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) met de daarbij behorende bijlagen, dat is opgenomen in [bijlage 1.1](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) bij deze regeling en wordt aangehaald als: Reglement onderzoek schepen op de Rijn 1995.   
-2.  Bij de toepassing van het bepaalde in het eerste lid handelt de commissie van deskundigen, bedoeld in artikel 1.19, overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van het [RosR 1995](../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md).   
+1.  Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het RosR 1995 met de daarbij behorende bijlagen, dat is opgenomen in bijlage 1.1 bij deze regeling en wordt aangehaald als: Reglement onderzoek schepen op de Rijn 1995.   
+2.  Bij de toepassing van het bepaalde in het eerste lid handelt de commissie van deskundigen, bedoeld in artikel 1.19, overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van het RosR 1995.   
 3.  De minister maakt de dienstinstructies, bedoeld in het tweede lid, bekend in de Staatscourant.   
-4.  Onverminderd het eerste lid zijn op de Rijn in Nederland, met inbegrip van de Waal en de Lek, mits tijdens de vaart de Duits-Nederlandse grens in de ene of de andere richting niet wordt overschreden, van toepassing: 
-
-a. de bekwaamheidseisen, bedoeld in artikel 2.9;  
-
-b. de omschrijving van zeeschepen in artikel 5.10;  
-
-c. de vrijstellingen, bedoeld in hoofdstuk 5, paragraaf 5.     
 
 ### Artikel  1.7  
 
-1.  De gezagvoerder van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 1.03 tot en met 1.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van de [hoofdstukken 3 tot en met 22](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met uitzondering van de [artikelen 8.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [9.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [12.01, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [14.15, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.05, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [16.06, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en van de [artikelen 2.02, eerste lid, tweede lid, derde alinea, en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.01](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.02](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.04](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.06, tweede, derde en zesde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.05, eerste lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.10](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.11, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.12](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.13, eerste, derde, vierde en vijfde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
-2.  De eigenaar van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 1.03 tot en met 1.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.08, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.09, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), van de [hoofdstukken 3 tot en met 22](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), met uitzondering van de [artikelen 8.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [9.07, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [12.01, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [14.15, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.05, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [16.06, eerste lid, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en van [artikel 3.14, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
-3.  De werkgever van de bemanning van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de [artikelen 2.02, eerste lid, tweede lid, derde alinea, en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.01](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.02](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.04](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.06, tweede, derde en zesde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.05, eerste lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.10](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.11, eerste lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.12](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.13, eerste, derde, vierde en vijfde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
-4.  Een lid van de bemanning van een schip dat de Rijn bevaart, niet zijnde de gezagvoerder, is verantwoordelijk voor de naleving van de [artikelen 3.04](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [3.05, eerste lid, onderdeel b, en tweede lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.06, tweede, derde en vierde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   
-5.  Het in het eerste tot en met vierde lid bepaalde is van overeenkomstige toepassing op de krachtens [artikel 1.06 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) of [artikel 1.02 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) aangebrachte tijdelijke afwijkingen.   
+1.  De gezagvoerder van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de artikelen 1.03 tot en met 1.05, van de hoofdstukken 3 tot en met 22, met uitzondering van de artikelen 8.07, derde lid, 9.07, derde lid, 12.01, derde en vierde lid, 14.15, tweede en derde lid, 15.05, eerste lid, en 16.06, eerste lid, van het RosR 1995 en van de artikelen 2.02, eerste lid, tweede lid, derde alinea, en derde lid, 3.01, 3.02, 3.03, 3.04, 3.06, tweede, derde en zesde lid, 3.05, eerste lid, onderdeel a, 3.10, 3.11, eerste, tweede en derde lid, 3.12 en 3.13, eerste, derde, vierde en vijfde lid, van het Rsp.   
+2.  De eigenaar van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de artikelen 1.03 tot en met 1.05, 2.08, eerste lid, 2.09, eerste lid, van de hoofdstukken 3 tot en met 22, met uitzondering van de artikelen 8.07, derde lid, 9.07, derde lid, 12.01, derde en vierde lid, 14.15, tweede en derde lid, 15.05, eerste lid, en 16.06, eerste lid, van het RosR 1995 en van artikel 3.14, eerste lid, van het Rsp.   
+3.  De werkgever van de bemanning van een schip dat de Rijn bevaart is verantwoordelijk voor de naleving van de artikelen 2.02, eerste lid, tweede lid, derde alinea, en derde lid, 3.01, 3.02, 3.03, 3.04, 3.06, tweede, derde en zesde lid, 3.05, eerste lid, onderdeel a, 3.10, 3.11, eerste lid, 3.12 en 3.13, eerste, derde, vierde en vijfde lid, van het Rsp.   
+4.  Een lid van de bemanning van een schip dat de Rijn bevaart, niet zijnde de gezagvoerder, is verantwoordelijk voor de naleving van de artikelen 3.04, 3.05, eerste lid, onderdeel b, en tweede lid en 3.06, tweede, derde en vierde lid, van het Rsp.   
+5.  Het in het eerste tot en met vierde lid bepaalde is van overeenkomstige toepassing op de krachtens artikel 1.06 van het RosR 1995 of artikel 1.02 van het Rsp aangebrachte tijdelijke afwijkingen.   
 
 ### Artikel  1.8  
 
-Op de goedkeuring en installatie van een tachograaf als bedoeld in [artikel 3.10, derde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) is [bijlage A3 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), houdende eisen betreffende tachografen en voorschriften voor de inbouw van tachografen aan boord, alsmede [bijlage H van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van toepassing.  
+Op de goedkeuring en installatie van een tachograaf als bedoeld in artikel 3.10, derde lid, van het Rsp is bijlage A3 van het Rsp, houdende eisen betreffende tachografen en voorschriften voor de inbouw van tachografen aan boord, alsmede bijlage H van het RosR 1995 van toepassing.  
 
 ### Artikel  1.9  
 
-1.  Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), met inbegrip van de daarbij behorende bijlagen, dat is opgenomen in bijlage 1.9.   
-2.  Onverminderd het eerste lid is op de Rijn in Nederland, met inbegrip van de Waal en de Lek, van toepassing: hoofdstuk 7, paragrafen 1 en 2.   
+1.  Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het Rsp, met inbegrip van de daarbij behorende bijlagen, dat is opgenomen in bijlage 1.9.   
+2.  Onverminderd het eerste lid is op de Rijn in Nederland, met inbegrip van de Waal en de Lek, van toepassing: 
+
+a. hoofdstuk 7, paragrafen 1 en 2;  
+
+b. mits tijdens de vaart de Duits-Nederlandse grens in de ene of de andere richting niet wordt overschreden: 
+
+1°. de bekwaamheidseisen, bedoeld in artikel 2.9;  
+
+2°. de omschrijving van zeeschepen in artikel 5.10;  
+
+3°. de vrijstellingen, bedoeld in hoofdstuk 5, paragraaf 5;  
+
+4°. de rusttijden bedoeld in het Arbeidstijdenbesluit vervoer, hoofdstuk 5 Binnenvaart.       
 
 ### Artikel  1.10  
 
-In plaats van een patent als bedoeld in [artikel 6.04, eerste lid, van het in bijlage 1.9 opgenomen Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), volstaat voor de vaart op de Rijn benedenstrooms van het Spijksche Veer, met inbegrip van de Waal en de Lek: 
+In plaats van een patent als bedoeld in artikel 6.02, derde lid, onderdeel b, van het in bijlage 1.9 opgenomen Rsp, volstaat voor de vaart op de Rijn benedenstrooms van het Spijksche Veer, met inbegrip van de Waal en de Lek: 
 
 a. een klein vaarbewijs;  
 
@@ -214,18 +221,18 @@ c. een Militair vaarbewijs, geldig voor het besturen van een klein legervaartuig
 
 ### Artikel  1.11  
 
-1.  Met het radarpatent, bedoeld in [artikel 6.04, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) wordt gelijkgesteld: 
+1.  Met het radarpatent, bedoeld in artikel 6.04, tweede lid, van het Rsp wordt gelijkgesteld: 
 
-a. het radardiploma voor de Rijn, afgegeven krachtens het Besluit reglement radarpatenten zoals dit gold tot de inwerkingtreding van het [Besluit Patentreglement Rijn](../../../AMvB/besluit/patentreglement/rijn/BWBR0023693/README.md);  
+a. het radardiploma voor de Rijn, afgegeven krachtens het Besluit reglement radarpatenten zoals dit gold tot de inwerkingtreding van het Besluit Patentreglement Rijn;  
 
-b. het radardiploma voor de Rijn, afgegeven krachtens het koninklijk besluit van 29 december 1965, houdende het van kracht zijn voor de Rijn in Nederland van het Reglement betreffende het verlenen van diploma’s voor het voeren van een vaartuig met behulp van radar op de Rijn (Stb. 660), zoals dit gold tot de inwerkingtreding van het [Besluit Reglement radarpatenten](../../../AMvB/besluit/reglement/radarpatenten/BWBR0010916/README.md);  
+b. het radardiploma voor de Rijn, afgegeven krachtens het koninklijk besluit van 29 december 1965, houdende het van kracht zijn voor de Rijn in Nederland van het Reglement betreffende het verlenen van diploma’s voor het voeren van een vaartuig met behulp van radar op de Rijn (Stb. 660), zoals dit gold tot de inwerkingtreding van het Besluit Reglement radarpatenten;  
 
-c. het radardiploma binnenvaart, afgegeven krachtens de Regeling radardiploma binnenvaart, zoals deze gold tot de inwerkingtreding van de [Regeling radarpatent binnenvaart](../../../ministeriele-regeling/regeling/radarpatent/binnenvaart/BWBR0010991/README.md);  
+c. het radardiploma binnenvaart, afgegeven krachtens de Regeling radardiploma binnenvaart, zoals deze gold tot de inwerkingtreding van de Regeling radarpatent binnenvaart;  
 
-d. het radardiploma Rijn- en binnenvaart, bedoeld in artikel 17, onderdeel b, van de Regeling radardiploma binnenvaart, zoals deze gold tot de inwerkingtreding van de [Regeling radarpatent binnenvaart](../../../ministeriele-regeling/regeling/radarpatent/binnenvaart/BWBR0010991/README.md);  
+d. het radardiploma Rijn- en binnenvaart, bedoeld in artikel 17, onderdeel b, van de Regeling radardiploma binnenvaart, zoals deze gold tot de inwerkingtreding van de Regeling radarpatent binnenvaart;  
 
 e. het radarbrevet, afgegeven krachtens het koninklijk besluit tot instelling van een radarbrevet en tot wijziging van het koninklijk besluit van 22 april 1988 betreffende het brevet van schipper ter baggervaart en van het brevet van stuurman voor de baggervaart van 15 oktober 1993 (Belgisch Staatsblad, 2757).     
-2.  Met het radarpatent, bedoeld in [artikel 6.04, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), worden, voor de vaart op de scheepvaartwegen, bedoeld in [artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), gelijkgesteld: 
+2.  Met het radarpatent, bedoeld in artikel 6.04, tweede lid, van het Rsp, worden, voor de vaart op de scheepvaartwegen, bedoeld in artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement, gelijkgesteld: 
 
 a. de stuurliedendiploma’s, afgegeven krachtens de Wet op de zeevaartdiploma’s, met uitzondering van het diploma stuurman kustsleepvaart en het diploma stuurman beperkte kleine handelsvaart;  
 
@@ -234,7 +241,7 @@ b. het bewijs van bevoegdheid van radarwaarnemer en het bewijs van bevoegdheid v
 c. het bewijs van bevoegdheid, afgegeven krachtens annex II/2, II/3 en II/4 van het op 7 juli 1978 te Londen tot stand gekomen Verdrag inzake de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst (Trb. 1981, 144);  
 
 d. het radardiploma ruime wateren, afgegeven door de Stichting Koninklijk OnderwijsFonds voor de Scheepvaart.     
-3.  Als gelijkwaardig examenbewijs, als bedoeld in [artikel 8.04, derde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), worden erkend de volgende diploma’s met de codering van het Centraal Register Beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): 
+3.  Als gelijkwaardig examenbewijs, als bedoeld in artikel 8.04, derde lid, van het Rsp, worden erkend de volgende diploma’s met de codering van het Centraal Register Beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de Wet educatie beroepsonderwijs: 
 
 a. het diploma stuurman/schipper, met coderingen 10650 of 93110, dan wel het bewijsstuk dat het onderdeel radar van deze opleiding met succes is afgesloten;  
 
@@ -260,33 +267,33 @@ Typen van bochtaanwijzers die voor de Rijnvaart zijn goedgekeurd met inachtnemin
 ### Artikel  1.17  
 
 1.  De inbouw of vervanging, alsmede de reparatie en het onderhoud van radarinstallaties en bochtaanwijzers mogen slechts worden uitgevoerd door bedrijven, die door de bevoegde autoriteit zijn erkend.   
-2.  De erkenning kan aan een door de bevoegde autoriteit te bepalen termijn worden verbonden en kan door deze worden ingetrokken indien de keuringsvoorwaarden bedoeld in [bijlage M, delen I en II, van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) niet langer vervuld zijn.   
+2.  De erkenning kan aan een door de bevoegde autoriteit te bepalen termijn worden verbonden en kan door deze worden ingetrokken indien de keuringsvoorwaarden bedoeld in bijlage M, delen I en II, van het RosR 1995 niet langer vervuld zijn.   
 3.  De bevoegde autoriteit deelt per omgaande aan de Centrale Commissie voor de Rijnvaart mee welke bedrijven zijn erkend.   
 
 ### Artikel  1.18  
 
 1.  De bevoegde autoriteit in de zin van de in de artikelen 1.6, 1.9 en 1.14 bedoelde reglementen is de minister.   
-2.  In afwijking van het eerste lid is de bevoegde autoriteit in het [RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md): 
+2.  In afwijking van het eerste lid is de bevoegde autoriteit in het RosR 1995: 
 
-a. de directeur-generaal Luchtvaart en Maritieme Zaken in [artikel 2.18](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+a. de directeur-generaal Luchtvaart en Maritieme Zaken in artikel 2.18;  
 
-b. de voorzitter van de commissie van deskundigen in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.12, tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [2.19, tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.01](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.02, achtste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.03, eerste en tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.04, eerste, tweede, vierde en vijfde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.05, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.06, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.08, eerste, derde en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.09](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.10, eerste, tweede en derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [8a.12, eerste lid, aanhef en onderdeel b](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [15.09, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [20.01, vijfde lid, onder h](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), en [22a.04, derde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+b. de voorzitter van de commissie van deskundigen in de artikelen 2.11, eerste lid, 2.12, tweede lid, 2.19, tweede lid, 8a.01, 8a.02, achtste lid, 8a.03, eerste en tweede lid, 8a.04, eerste, tweede, vierde en vijfde lid, 8a.05, eerste, tweede en derde lid, 8a.06, derde lid, 8a.08, eerste, derde en vierde lid, 8a.09, 8a.10, eerste, tweede en derde lid, 8a.11, eerste lid, 8a.12, eerste lid, aanhef en onderdeel b, 15.09, derde lid, 20.01, vijfde lid, onder h, en 22a.04, derde lid;  
 
-c. de hoofdingenieurs-directeuren van het directoraat-generaal Rijkswaterstaat Oost-Nederland en Zuid-Holland, ieder voor zover het zijn ambtsgebied betreft, in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [5.03, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [18.01](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+c. de hoofdingenieurs-directeuren van het directoraat-generaal Rijkswaterstaat Oost-Nederland en Zuid-Holland, ieder voor zover het zijn ambtsgebied betreft, in de artikelen 2.11, eerste lid, 5.03, eerste lid, 18.01;  
 
-d. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat in de [artikelen 23.03, vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.04, eerste en tweede lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), [23.08, tweede en vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+d. de inspecteur-generaal van de Inspectie Leefomgeving en Transport in de artikelen 23.03, vierde lid, 23.04, eerste en tweede lid, 23.08, tweede en vierde lid;  
 
-e. de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in de [artikelen 2.11, eerste lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en [23.03, vierde lid](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md);  
+e. de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering in de artikelen 2.11, eerste lid en 23.03, vierde lid;  
 
-f. de Dienst Wegverkeer in [artikel 23.05](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) en in [bijlage H, onderdeel B, 1](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).     
-3.  In afwijking van het eerste lid is de bevoegde autoriteit in het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md): 
+f. de Dienst Wegverkeer in artikel 23.05 en in bijlage H, onderdeel B, 1.     
+3.  In afwijking van het eerste lid is de bevoegde autoriteit in het Rsp: 
 
-a. de inspecteur-generaal van Verkeer en Waterstaat in de [artikelen 3.06, eerste lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [5.02, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [5.03, aanhef](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [5.04, eerste lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), en [5.08, eerste tot en met derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+a. de inspecteur-generaal van de Inspectie Leefomgeving en Transport in de artikelen 3.06, eerste lid, 5.02, onderdeel a, 5.03, aanhef, 5.04, eerste lid, en 5.08, eerste tot en met derde lid;  
 
-b. de in artikel 10.2 aangewezen ambtenaren alsmede de ambtenaren, bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](../../../wet/politiewet/1993/BWBR0006299/README.md) in artikel 2.26, eerste lid;  
+b. de in artikel 10.2 aangewezen ambtenaren alsmede de ambtenaren van politie, bedoeld in artikel 2, onderdeel a, van de Politiewet 2012 in artikel 2.26, eerste lid;  
 
-c. de voorzitter van de commissie van deskundigen in [artikel 3.13, tweede en vierde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).     
-4.  De in het eerste en derde lid bedoelde bevoegde autoriteiten voeren het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) uit overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van dat reglement.   
+c. de voorzitter van de commissie van deskundigen in artikel 3.13, tweede en vierde lid.     
+4.  De in het eerste en derde lid bedoelde bevoegde autoriteiten voeren het Rsp uit overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van dat reglement.   
 5.  De minister maakt de in het vierde lid bedoelde dienstinstructies bekend in de Staatscourant.   
 
 ### §  5  
@@ -298,13 +305,13 @@ c. de voorzitter van de commissie van deskundigen in [artikel 3.13, tweede en vi
 1.  Er is een commissie van deskundigen.   
 2.  Van deze commissie maken deel uit: 
 
-a. als deskundigen: de ambtenaren van de Inspectie Verkeer en Waterstaat die zijn belast met het onderzoek van schepen en de afgifte van certificaten van onderzoek, alsmede de hoofdingenieur-directeur van de directie Oost-Nederland van het directoraat-generaal Rijkswaterstaat;  
+a. als deskundigen: de ambtenaren van de Inspectie Leefomgeving en Transport die zijn belast met het onderzoek van schepen en de afgifte van certificaten van onderzoek, alsmede de hoofdingenieur-directeur van de directie Oost-Nederland van het directoraat-generaal Rijkswaterstaat;  
 
-b. als deskundige, uitsluitend belast met de afgifte van vaartijdenboeken voor de Rijnvaart en de daarbij behorende verklaringen: de hoofdinspecteur Toezichtseenheid Binnenvaart van de Inspectie Verkeer en Waterstaat;  
+b. als deskundige, uitsluitend belast met de afgifte van vaartijdenboeken voor de Rijnvaart en de daarbij behorende verklaringen: de hoofdinspecteur Toezichtseenheid Binnenvaart van de Inspectie Leefomgeving en Transport;  
 
-c. als voorzitter: de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;  
+c. als voorzitter: de inspecteur-generaal van de Inspectie Leefomgeving en Transport;  
 
-d. als plaatsvervangend voorzitter: de plaatsvervangend inspecteur-generaal van de Inspectie Verkeer en Waterstaat.     
+d. als plaatsvervangend voorzitter: de plaatsvervangend inspecteur-generaal van de Inspectie Leefomgeving en Transport.     
 3.  Een besluit genomen door de voorzitter of een deskundige van de commissie wordt gelijkgesteld met een besluit genomen door de commissie van deskundigen.   
 
 ### Artikel  1.20  
@@ -317,7 +324,7 @@ a. vertegenwoordigers van de classificatiebureau’s die als zodanig door de Com
 b. vertegenwoordigers van de overige keuringsinstanties die in opdracht van de minister onderzoek van schepen verrichten;  
 
 c. een vertegenwoordiger van het Deelorgaan Binnenvaart van de Overlegorganen Verkeer en Waterstaat.     
-3.  Deze commissie staat onder voorzitterschap van de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.   
+3.  Deze commissie staat onder voorzitterschap van de Inspecteur-Generaal van de Inspectie Leefomgeving en Transport.   
 4.  De werkwijze van deze Commissie is nader geregeld in een door de minister goedgekeurd reglement van orde.   
 
 ### §  6  
@@ -326,7 +333,7 @@ c. een vertegenwoordiger van het Deelorgaan Binnenvaart van de Overlegorganen Ve
 
 ### Artikel  1.21  
 
-Bij bedrijfsmatig vervoer van goederen en personen tussen twee punten gelegen aan de binnenwateren, bedoeld in artikel 4, eerste lid, van de Herziene Rijnvaartakte, bevindt de Rijnvaartverklaring, bedoeld in [artikel 2, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) of een gewaarmerkt afschrift daarvan, als bedoeld in artikel 1.4, tweede lid, zich aan boord van het schip waarvoor het is afgegeven.  
+Bij bedrijfsmatig vervoer van goederen en personen tussen twee punten gelegen aan de binnenwateren, bedoeld in artikel 4, eerste lid, van de Herziene Rijnvaartakte, bevindt de Rijnvaartverklaring, bedoeld in artikel 2, eerste lid, van het besluit of een gewaarmerkt afschrift daarvan, als bedoeld in artikel 1.4, tweede lid, zich aan boord van het schip waarvoor het is afgegeven.  
 
 ### §  7  
 
@@ -346,7 +353,7 @@ Een wijziging van richtlijn 2006/87/EG gaat voor de toepassing van deze regeling
 
 ### Artikel  2.1  
 
-[Artikel 6, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) is niet van toepassing op: 
+Artikel 6, eerste lid, van de wet is niet van toepassing op: 
 
 a. vervoer met binnenschepen waarvan het laadvermogen niet meer dan 200 metrieke ton bedraagt;  
 
@@ -360,17 +367,17 @@ b. vervoer van:
 
 ### Artikel  2.2  
 
-De vakbekwaamheid, bedoeld in [artikel 6, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), wordt aangetoond door middel van: 
+De vakbekwaamheid, bedoeld in artikel 6, eerste lid, van de wet, wordt aangetoond door middel van: 
 
 a. de volgende diploma’s: 
 
-1°. het vakdiploma Ondernemer in de binnenvaart van de Stichting Centraal Bureau Rijvaardigheidsbewijzen,  
+1°. het vakdiploma Ondernemer in de binnenvaart van het CBR,  
 
 2°. het diploma MBO Rijn- en Binnenvaart,  
 
 3°. het diploma Kapitein binnenvaart niveau 3 of niveau 4, zoals opgenomen in het Centraal Register Beroepsopleidingen met de codes 10650, 93110 of 95640;    
 
-b. een op grond van [artikel 11, eerste lid, van de Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md) afgegeven vergunning voor het beroepsvervoer van goederen; of  
+b. een op grond van artikel 11, eerste lid, van de Wet vervoer binnenvaart afgegeven vergunning voor het beroepsvervoer van goederen; of  
 
 c. het bewijsstuk, bedoeld in artikel 2.4, tweede lid.    
 
@@ -385,7 +392,7 @@ Voor de examens ter verkrijging van een diploma als bedoeld in artikel 2.2, onde
 
 ### Artikel  2.5  
 
-1.  Aan de eis van vakbekwaamheid als bedoeld in [artikel 6, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), behoeft gedurende een jaar niet te worden voldaan door: 
+1.  Aan de eis van vakbekwaamheid als bedoeld in artikel 6, eerste lid, van de wet, behoeft gedurende een jaar niet te worden voldaan door: 
 
 a. de erfgenaam of, indien er meer erfgenamen zijn, gezamenlijke erfgenamen van de overleden houder van een bewijs van vakbekwaamheid;  
 
@@ -402,7 +409,7 @@ De houder van een bewijs van vakbekwaamheid draagt er zorg voor dat dit bewijs o
 
 a. ten kantore van de eigenaar of de exploitant van het binnenschip; of  
 
-b. aan de hand van de gegevens uit het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).    
+b. aan de hand van de gegevens uit het handelsregister bedoeld in artikel 2 van de Handelsregisterwet 2007.    
 
 ### Artikel  2.8  
 
@@ -414,16 +421,16 @@ Een wijziging van richtlijn 87/540/EEG gaat voor de toepassing van de artikelen 
 
 ### Artikel  2.9  
 
-1.  Dit artikel is van toepassing op de bemanningsleden van schepen als bedoeld in [artikel 12 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), niet zijnde veerboten, varend op de in artikel 1.2 bedoelde binnenwateren, mits tijdens de vaart de Duits-Nederlandse grens op de Rijn bij het Spijksche Veer niet in de ene of de andere richting wordt overschreden.   
+1.  Dit artikel is van toepassing op de bemanningsleden van schepen als bedoeld in artikel 12 van het besluit, niet zijnde veerboten, varend op de in artikel 1.2 bedoelde binnenwateren, mits tijdens de vaart de Duits-Nederlandse grens op de Rijn bij het Spijksche Veer niet in de ene of de andere richting wordt overschreden.   
 2.  Een schipper is: 
 
-a. in het bezit van een groot patent als bedoeld in het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of een krachtens [artikel 9.02, eerste lid, van dat reglement](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) geldig Rijnschipperspatent;  
+a. in het bezit van een groot patent als bedoeld in het Rsp of een krachtens artikel 9.02, eerste lid, van dat reglement geldig Rijnschipperspatent;  
 
-b. in het bezit van een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+b. in het bezit van een vaarbewijs als bedoeld in artikel 25, eerste lid, van de wet;  
 
-c. in het bezit van een document als bedoeld in [artikel 25, derde lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md); of  
+c. in het bezit van een document als bedoeld in artikel 25, derde lid, van de wet; of  
 
-d. krachtens [artikel 31 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) vrijgesteld of ontheven van de verplichting in het bezit te zijn van een groot vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), mits de aan de vrijstelling of ontheffing verbonden voorschriften of beperkingen door hem worden nageleefd.     
+d. krachtens artikel 31 van de wet vrijgesteld of ontheven van de verplichting in het bezit te zijn van een groot vaarbewijs als bedoeld in artikel 25, eerste lid, van de wet, mits de aan de vrijstelling of ontheffing verbonden voorschriften of beperkingen door hem worden nageleefd.     
 3.  Een stuurman: 
 
 a. is in het bezit van een beperkt groot vaarbewijs of voldoet aan de vereisten van matroos, en  
@@ -431,7 +438,7 @@ a. is in het bezit van een beperkt groot vaarbewijs of voldoet aan de vereisten 
 b. heeft een beroepservaring van ten minste twee jaar vaartijd als matroos in de binnenvaart.     
 4.  Een machinist is: 
 
-a. ten minste 18 jaar en in het bezit van een maritiem diploma zoals opgenomen in het Centraal Register Beroepsopleidingen onder de nummers 91943, 91941, 91931 of 91932, dan wel in het bezit van een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md); of  
+a. ten minste 18 jaar en in het bezit van een maritiem diploma zoals opgenomen in het Centraal Register Beroepsopleidingen onder de nummers 91943, 91941, 91931 of 91932, dan wel in het bezit van een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties; of  
 
 b. ten minste 19 jaar en voldoet aan de vereisten van matroos-motordrijver en heeft een beroepservaring van ten minste twee jaar vaartijd als matroos-motordrijver op een schip met mechanische voortstuwingsmiddelen.     
 5.  Een volmatroos voldoet aan de vereisten van matroos en heeft een beroepservaring van ten minste één jaar vaartijd als matroos in de binnenvaart.   
@@ -445,7 +452,7 @@ a. aan de vereisten van matroos en is in het bezit van:
 
 3°. een maritiem diploma zoals opgenomen in het Centraal Register Beroepsopleidingen onder de nummers 91943, 91941, 91931 of 91932, dan wel  
 
-4°. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md); of    
+4°. een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties; of    
 
 b. aan de vereisten van matroos en heeft een beroepservaring van ten minste één jaar vaartijd als matroos op een schip met mechanische voortstuwingsmiddelen, en bezit een aantoonbare elementaire kennis op het gebied van motoren.     
 7.  Een matroos is: 
@@ -458,9 +465,21 @@ a. ten minste 17 jaar en in het bezit van:
 
 3°. Het diploma VMBO Rijn-, binnen- en kustvaart van het Scheepvaart en Transport College te Rotterdam, het Maritiem College Velsen te IJmuiden, de Maritieme Academie Harlingen te Harlingen of het Mondial College te Nijmegen, dan wel  
 
-4°. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md); of    
+4°. een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties; of    
 
-b. ten minste 19 jaar en heeft een beroepservaring van ten minste drie jaar vaartijd als lid van een dekbemanning, waarvan ten minste één jaar in de binnenvaart en twee jaar, in hetzij de binnenvaart, de zeevaart, de kustvaart of de visserij.     
+b. ten minste 19 jaar en: 
+
+1°. heeft een beroepservaring van ten minste drie jaar vaartijd als lid van een dekbemanning, waarvan ten minste één jaar in de binnenvaart en twee jaar in hetzij de binnenvaart, de zeevaart, de kustvaart of de visserij;  
+
+2°. is in het bezit van de verklaring praktijkexamen matroos, ten bewijze dat het praktijkexamen matroos binnenvaart van het CBR met goed gevolg is afgelegd; of  
+
+3°. is in het bezit van: 
+
+a. het diploma aspirant schipper afgegeven door het CBR;  
+
+b. een verklaring van het CBR dat Praktijktoets 1 van het praktijkexamen schipper binnenvaart, bedoeld in artikel 7.19a, met goed gevolg is afgelegd; en  
+
+c. een bewijsstuk dat er minimaal 60 dagen vaartijd zijn opgebouwd.         
 8.  Een lichtmatroos is: 
 
 a. ten minste 15 jaar en  
@@ -483,7 +502,7 @@ c. is in het bezit van:
 
 2°. een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij een gelijkwaardige opleiding heeft gevolgd, of  
 
-3°. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).       
+3°. een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties.       
 3.  Een stuurman: 
 
 a. is ten minste 21 jaar,  
@@ -507,21 +526,21 @@ a. een getuigschrift waaruit blijkt dat hij met goed gevolg heeft gevolgd:
 
 b. een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij een gelijkwaardige opleiding heeft gevolgd; of  
 
-c. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+c. een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties.     
 5.  Een tweede machinist is ten minste 19 jaar en is in het bezit van: 
 
 a. een getuigschrift waaruit blijkt dat hij met goed gevolg de opleiding machinist binnenvaart B heeft gevolgd, hetzij een andere door de minister erkende opleiding;  
 
 b. een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij een gelijkwaardige opleiding heeft gevolgd; of  
 
-c. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+c. een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties.     
 6.  Een matroos is ten minste 19 jaar en is in het bezit van: 
 
 a. een door de minister erkend getuigschrift waaruit blijkt dat hij met goed gevolg een opleiding brandbestrijding heeft gevolgd;  
 
 b. een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij een gelijkwaardige opleiding heeft gevolgd; of  
 
-c. een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+c. een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties.     
 7.  Een lichtmatroos is ten minste 18 jaar en is in het bezit van een door de minister erkend getuigschrift waaruit blijkt dat hij met goed gevolg een opleiding brandbestrijding heeft gevolgd, dan wel van een door de minister erkend buitenlands getuigschrift waaruit blijkt dat hij een gelijkwaardige opleiding heeft gevolgd.   
 8.  Voor de examens ter verkrijging van de diploma’s Zoute Veren Nautische Module of Technische Module, bedoeld in het tweede lid, onderdeel c, onder 1°, en het vierde lid, onderdeel a, onder 1° en 2°, is een door de minister goedgekeurd examenreglement en examenprogramma van toepassing.   
 
@@ -536,7 +555,7 @@ b. door de overige leden van de bemanning door middel van het dienstboekje bedoe
 ### Artikel  2.12  
 
 1.  Als document ter beoordeling van een aanvraag tot het verkrijgen van erkenning van beroepskwalificaties van een migrerende beroepsbeoefenaar voor de beroepen stuurman binnenvaart, machinist binnenvaart, matroos, volmatroos en matroos-motordrijver wordt vastgesteld het dienstboekje, bedoeld in artikel 5.11.   
-2.  Op een dienstverrichter als bedoeld in [artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) die het beroep matroos, matroos-motordrijver, volmatroos of stuurman binnenvaart wenst uit te oefenen in Nederland, is het eerste lid van toepassing.   
+2.  Op een dienstverrichter als bedoeld in artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties die het beroep matroos, matroos-motordrijver, volmatroos of stuurman binnenvaart wenst uit te oefenen in Nederland, is het eerste lid van toepassing.   
 
 ### Hoofdstuk  3  
 
@@ -574,7 +593,7 @@ c. dat de kenmerken van de eerdere bestemming als vrachtschip heeft behouden en 
 
 ### Artikel  3.2  
 
-1.  Binnenschepen als bedoeld in [artikel 6 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) die worden gebruikt op de zones 2, 3 en 4, voldoen aan de technische voorschriften van bijlage II van richtlijn 2006/87/EG.   
+1.  Binnenschepen als bedoeld in artikel 6 van het besluit die worden gebruikt op de zones 2, 3 en 4, voldoen aan de technische voorschriften van bijlage II van richtlijn 2006/87/EG.   
 2.  Bij de toepassing van dit artikel handelt de minister overeenkomstig de administratieve aanwijzingen die op basis van bijlage II, artikel 1.07 van richtlijn 2006/87/EG zijn vastgesteld.   
 
 ### Artikel  3.3  
@@ -629,28 +648,28 @@ h. patrouillevaartuigen, mits zij voldoen aan de technische voorschriften van bi
 
 ### Artikel  3.7  
 
-Voor de binnenschepen, bedoeld in [artikel 6, onderdelen a tot en met d, g en j, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) wordt het certificaat van onderzoek afgegeven als communautair binnenvaartcertificaat.  
+Voor de binnenschepen, bedoeld in artikel 6, onderdelen a tot en met d, g en j, van het besluit wordt het certificaat van onderzoek afgegeven als communautair binnenvaartcertificaat.  
 
 ### Artikel  3.8  
 
 1.  De aanvraag van een certificaat van onderzoek wordt ingediend door de eigenaar van het binnenschip.   
 2.  Bij de aanvraag worden de tekeningen van bouw en inrichting van het binnenschip alsmede, indien hiertoe naar het oordeel van de minister bijzondere redenen bestaan, het rekenkundig bewijs van de sterkte van de romp overgelegd.   
-3.  Indien het binnenschip is onderzocht door of is gebouwd onder toezicht van een op basis van [artikel 14 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) aangewezen classificatiebureau, wordt ook de verklaring van dat bureau inzake het onderzoek of de bouw overgelegd.   
+3.  Indien het binnenschip is onderzocht door of is gebouwd onder toezicht van een op basis van artikel 14 van de wet aangewezen classificatiebureau, wordt ook de verklaring van dat bureau inzake het onderzoek of de bouw overgelegd.   
 4.  Indien ingevolge de artikelen 3.14 of 3.15 een hellingproef is vereist, worden de uitkomsten van die proef overgelegd alsmede de gegevens over de stabiliteit van het binnenschip bij verschillende beladingstoestanden.   
 
 ### Artikel  3.9  
 
 1.  Het certificaat van onderzoek, het voorlopig certificaat van onderzoek, het communautaire binnenvaartcertificaat, het voorlopig communautair binnenvaartcertificaat, alsmede het communautaire aanvullende binnenvaartcertificaat in samenhang met een certificaat van onderzoek als bedoeld in de Herziene Rijnvaartakte zijn geldig voor de bestemming en voor de zones waarvoor het schip blijkens het certificaat geschikt is bevonden.   
-2.  Het communautaire binnenvaartcertificaat, bedoeld in [artikel 8 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), wordt door de minister afgegeven volgens het model van bijlage V, deel I, van richtlijn 2006/87/EG.   
-3.  Het communautaire aanvullende binnenvaartcertificaat, bedoeld in [artikel 9 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) wordt door de minister afgegeven volgens het model van bijlage V, deel II, van richtlijn 2006/87/EG.   
-4.  Het voorlopig certificaat van onderzoek, bedoeld in [artikel 10 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), wordt door de minister afgegeven volgens het model van bijlage V, deel III, van richtlijn 2006/87/EG.   
-5.  Het certificaat van onderzoek, bedoeld in [artikel 7 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), wordt, voor de schepen bedoeld in artikel 3.4, door de minister afgegeven volgens het model van bijlage V, deel I, van richtlijn 2006/87/EG.   
-6.  Het certificaat van onderzoek, bedoeld in [artikel 7 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), wordt voor bunkerstations door de minister afgegeven volgens het model, opgenomen in de bij deze regeling behorende bijlage 3.10.   
-7.  Het certificaat van onderzoek als bedoeld in de Herziene Rijnvaartakte, wordt door de minister afgegeven volgens het model van [bijlage B bij het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
+2.  Het communautaire binnenvaartcertificaat, bedoeld in artikel 8 van het besluit, wordt door de minister afgegeven volgens het model van bijlage V, deel I, van richtlijn 2006/87/EG.   
+3.  Het communautaire aanvullende binnenvaartcertificaat, bedoeld in artikel 9 van het besluit wordt door de minister afgegeven volgens het model van bijlage V, deel II, van richtlijn 2006/87/EG.   
+4.  Het voorlopig certificaat van onderzoek, bedoeld in artikel 10 van het besluit, wordt door de minister afgegeven volgens het model van bijlage V, deel III, van richtlijn 2006/87/EG.   
+5.  Het certificaat van onderzoek, bedoeld in artikel 7 van de wet, wordt, voor de schepen bedoeld in artikel 3.4, door de minister afgegeven volgens het model van bijlage V, deel I, van richtlijn 2006/87/EG.   
+6.  Het certificaat van onderzoek, bedoeld in artikel 7 van de wet, wordt voor bunkerstations door de minister afgegeven volgens het model, opgenomen in de bij deze regeling behorende bijlage 3.10.   
+7.  Het certificaat van onderzoek als bedoeld in de Herziene Rijnvaartakte, wordt door de minister afgegeven volgens het model van bijlage B bij het RosR 1995.   
 
 ### Artikel  3.10  
 
-Het voorlopig communautair binnenvaartcertificaat bedoeld in [artikel 10 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), wordt afgegeven wanneer de deugdelijkheid van het binnenschip, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.  
+Het voorlopig communautair binnenvaartcertificaat bedoeld in artikel 10 van het besluit, wordt afgegeven wanneer de deugdelijkheid van het binnenschip, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.  
 
 ### Artikel  3.11  
 
@@ -697,10 +716,10 @@ De minister houdt overeenkomstig bijlage VI van richtlijn 2006/87/EG een registe
 
 ### Artikel  3.16  
 
-1.  Indien naar aanleiding van omstandigheden als in bedoeld in [artikel 15, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) een onderzoek plaatsvindt als bedoeld in [dat artikel](../../../wet/binnenvaartwet/BWBR0023009/README.md) omvat dit een onderzoek van de constructie, de werktuigen en uitrusting van het binnenschip, voor zover deze betrokken zijn bij de schade, de herstelling, de verbouwing, de wijziging of de gebreken. Tevens kan de stabiliteit worden beoordeeld.   
+1.  Indien naar aanleiding van omstandigheden als in bedoeld in artikel 15, eerste lid, van de wet een onderzoek plaatsvindt als bedoeld in dat artikel omvat dit een onderzoek van de constructie, de werktuigen en uitrusting van het binnenschip, voor zover deze betrokken zijn bij de schade, de herstelling, de verbouwing, de wijziging of de gebreken. Tevens kan de stabiliteit worden beoordeeld.   
 2.  Indien het een onderzoek van een passagiersschip, een veerboot of een zeilend passagiersschip betreft kan de minister bepalen dat een hellingproef wordt gehouden.   
 3.  Indien het onderzoek andere schepen dan de in het tweede lid genoemde betreft is artikel 3.15, derde lid, van overeenkomstige toepassing.   
-4.  Indien na een onderzoek als bedoeld in het eerste lid, het binnenschip aan de bij of krachtens [artikel 8 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) gestelde voorschriften voldoet, geeft de minister een nieuw certificaat van onderzoek af of verlengt de geldigheidsduur van het certificaat.   
+4.  Indien na een onderzoek als bedoeld in het eerste lid, het binnenschip aan de bij of krachtens artikel 8 van de wet gestelde voorschriften voldoet, geeft de minister een nieuw certificaat van onderzoek af of verlengt de geldigheidsduur van het certificaat.   
 
 ### Artikel  3.17  
 
@@ -715,8 +734,8 @@ Indien een certificaat van onderzoek door de minister is afgegeven, deelt de eig
 
 ### Artikel  3.19  
 
-1.  De minister onderzoekt ook schepen die niet onder de reikwijdte van richtlijn 2006/87/EG of van het [RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) vallen, indien zij ter onderzoek worden aangeboden.   
-2.  Als uit het in het eerste lid bedoelde onderzoek blijkt dat het schip voldoet aan richtlijn 2006/87/EG of aan het [RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), geeft de minister een certificaat van onderzoek af.   
+1.  De minister onderzoekt ook schepen die niet onder de reikwijdte van richtlijn 2006/87/EG of van het RosR 1995 vallen, indien zij ter onderzoek worden aangeboden.   
+2.  Als uit het in het eerste lid bedoelde onderzoek blijkt dat het schip voldoet aan richtlijn 2006/87/EG of aan het RosR 1995, geeft de minister een certificaat van onderzoek af.   
 
 ### Artikel  3.20  
 
@@ -731,12 +750,12 @@ Indien een certificaat van onderzoek door de minister is afgegeven, deelt de eig
 
 ### Artikel  3.21  
 
-1.  Voor passagiersschepen en zeilende passagiersschepen voor de in Nederland gelegen zone 2, erkent de minister voor de toepassing van [artikel 7, onderdeel c, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), scheepsattesten afgegeven op grond van richtlijn nr. 76/135/EEG van de Raad van de Europese Gemeenschappen van 20 januari 1976 inzake de wederzijdse erkenning van scheepsattesten voor binnenschepen (PbEG L 21), indien het schip tevens voldoet aan de desbetreffende regels voor zone 2.   
+1.  Voor passagiersschepen en zeilende passagiersschepen voor de in Nederland gelegen zone 2, erkent de minister voor de toepassing van artikel 7, onderdeel c, van het besluit, scheepsattesten afgegeven op grond van richtlijn nr. 76/135/EEG van de Raad van de Europese Gemeenschappen van 20 januari 1976 inzake de wederzijdse erkenning van scheepsattesten voor binnenschepen (PbEG L 21), indien het schip tevens voldoet aan de desbetreffende regels voor zone 2.   
 2.  Het eerste lid is van overeenkomstige toepassing op veerboten, met dien verstande dat de erkenning voor zone 2 slechts geldt indien de veerboot tevens voldoet aan de voorschriften van bijlage 3.7.   
 
 ### Artikel  3.22  
 
-1.  De minister kan voor de toepassing van [artikel 7, onderdeel c, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), een document erkennen dat door een bevoegde autoriteit van een andere staat, niet zijnde een lidstaat van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, is afgegeven ten bewijze van de deugdelijkheid van een aldaar teboekstaand schip.   
+1.  De minister kan voor de toepassing van artikel 7, onderdeel c, van het besluit, een document erkennen dat door een bevoegde autoriteit van een andere staat, niet zijnde een lidstaat van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, is afgegeven ten bewijze van de deugdelijkheid van een aldaar teboekstaand schip.   
 2.  Erkenning van het in het eerste lid bedoelde document van deugdelijkheid vindt plaats indien het naar het oordeel van de minister voldoende waarborg biedt voor de deugdelijkheid van het schip.   
 3.  Het document van deugdelijkheid wordt erkend voor de in Nederland gelegen binnenwateren van de zones 2, 3 of 4 indien het document naar het oordeel van de minister voldoende waarborg biedt voor de veiligheid van de vaart op die wateren.   
 4.  De erkenning kan betrekking hebben op een enkel document van deugdelijkheid of op een groep gelijke documenten.   
@@ -753,11 +772,11 @@ Met het certificaat voor passagiersschepen, veerboten, patrouillevaartuigen, zei
 
 In deze paragraaf wordt verstaan onder: 
 
-*keuringsinstantie:* krachtens [artikel 14, eerste lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) voor het verrichten van onderzoek aangewezen rechtspersoon;  
+*keuringsinstantie:* krachtens artikel 14, eerste lid, van de Binnenvaartwet voor het verrichten van onderzoek aangewezen rechtspersoon;  
 
 *NEN-EN-ISO/IEC 17020 (2004):* de met de desbetreffende aanduiding overeenkomende norm, uitgegeven door het Nederlands Normalisatie-instituut te Delft;  
 
-*onderzoek:* onderzoek ten behoeve van de certificering van binnenschepen als bedoeld in [artikel 9, eerste lid, van de Binnenvaartwe](../../../wet/binnenvaartwet/BWBR0023009/README.md) t.    
+*onderzoek:* onderzoek ten behoeve van de certificering van binnenschepen als bedoeld in artikel 9, eerste lid, van de Binnenvaartwe t.    
 
 ### Artikel  3.25  
 
@@ -765,7 +784,7 @@ In deze paragraaf wordt verstaan onder:
 
 a. naar zijn oordeel in staat zijn het onderzoek, waar dan ook in Nederland, te verrichten;  
 
-b. zijn ingeschreven in het handelsregister bij een Kamer van Koophandel en Fabrieken;  
+b. zijn ingeschreven in het handelsregister bij de Kamer van Koophandel;  
 
 c. beschikken over een vestiging of vertegenwoordiging in Nederland; en  
 
@@ -782,7 +801,7 @@ De aangewezen keuringsinstantie is belast met het volledige onderzoek, onvermind
 
 ### Artikel  3.28  
 
-De aangewezen keuringsinstantie voert het onderzoek uit met inachtneming van de voorschriften ingevolge de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en, indien van toepassing, de [Wet vervoer gevaarlijke stoffen](../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), alsmede de beleidsregels, bedoeld in [artikel 14, derde lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).  
+De aangewezen keuringsinstantie voert het onderzoek uit met inachtneming van de voorschriften ingevolge de Binnenvaartwet en, indien van toepassing, de Wet vervoer gevaarlijke stoffen, alsmede de beleidsregels, bedoeld in artikel 14, derde lid, van de wet.  
 
 ### Artikel  3.29  
 
@@ -1047,7 +1066,7 @@ Behoudens paragraaf 5 is dit hoofdstuk van toepassing op de in artikel 1.2 bedoe
 
 In dit hoofdstuk wordt verstaan onder: 
 
-*bilgeboot:* schip dat langszij andere schepen gaat in havens of gedurende de vaart, met als doel scheepsbedrijfsafval, als bedoeld in [artikel 15.01, tweede lid, van het Rijnvaartpolitiereglement 1995](../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md), van deze schepen in te nemen;  
+*bilgeboot:* schip dat langszij andere schepen gaat in havens of gedurende de vaart, met als doel scheepsbedrijfsafval, als bedoeld in artikel 15.01, tweede lid, van het Rijnvaartpolitiereglement 1995, van deze schepen in te nemen;  
 
 *bunkerschip:* schip dat langszij andere schepen gaat in havens of gedurende de vaart, met als doel deze schepen te bevoorraden;  
 
@@ -1071,7 +1090,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2°. is voorzien van eigen mechanische voortstuwingsmiddelen die slechts voor verplaatsing over kleine afstanden geschikt zijn;    
 
-*S1 en S2:* standaarden S1 en S2 met betrekking tot uitrustingsvoorschriften voor schepen die met een minimumbemanning worden geëxploiteerd als bedoeld in [artikel 3.14, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+*S1 en S2:* standaarden S1 en S2 met betrekking tot uitrustingsvoorschriften voor schepen die met een minimumbemanning worden geëxploiteerd als bedoeld in artikel 3.14, eerste lid, van het Rsp;  
 
 *tachograaf:* een registratieapparaat ter controle van de naleving van bij of krachtens de wet gegeven voorschriften met betrekking tot de vaartijden van het schip, van een door de minister goedgekeurd model.    
 
@@ -1082,16 +1101,16 @@ In dit hoofdstuk wordt verstaan onder:
 ### Artikel  5.3  
 
 1.  Voor de toepassing van dit hoofdstuk wordt rekening gehouden met de rust- en vaartijden, vervuld gedurende een tijdvak van 48 uur, onmiddellijk voorafgaand aan het tijdstip waarop het schip de binnenwateren, bedoeld in artikel 1.2 is binnengevaren.   
-2.  Een schip dat de in artikel 1.2 bedoelde binnenwateren binnenvaart is voorzien van een vaartijdenboek als bedoeld in [artikel 3.13 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of een ander document, waaruit blijkt op welke wijze de rusttijden van elk der bemanningsleden alsmede de vaartijden van het schip gedurende de in het eerste lid bedoelde periode zijn vervuld.   
+2.  Een schip dat de in artikel 1.2 bedoelde binnenwateren binnenvaart is voorzien van een vaartijdenboek als bedoeld in artikel 3.13 van het Rsp of een ander document, waaruit blijkt op welke wijze de rusttijden van elk der bemanningsleden alsmede de vaartijden van het schip gedurende de in het eerste lid bedoelde periode zijn vervuld.   
 
 ### Artikel  5.4  
 
-1.  Bij de exploitatiewijzen A1 en A2 is [artikel 3.10, tweede en derde lid](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), en [artikel 3.13, vijfde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.   
-2.  Ten aanzien van een sleepschip dat niet zelfstandig vaart, en een schip waarvan de voortstuwing in een hecht samenstel door een schip of meer andere schepen wordt verzorgd, is [artikel 3.10, tweede en derde lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing, indien het eerste lid in acht wordt genomen op het schip of de schepen die zorg dragen voor de voortstuwing van het hecht samenstel of het sleepschip.   
+1.  Bij de exploitatiewijzen A1 en A2 is artikel 3.10, tweede en derde lid, en artikel 3.13, vijfde lid, van het Rsp van overeenkomstige toepassing.   
+2.  Ten aanzien van een sleepschip dat niet zelfstandig vaart, en een schip waarvan de voortstuwing in een hecht samenstel door een schip of meer andere schepen wordt verzorgd, is artikel 3.10, tweede en derde lid, van het Rsp van overeenkomstige toepassing, indien het eerste lid in acht wordt genomen op het schip of de schepen die zorg dragen voor de voortstuwing van het hecht samenstel of het sleepschip.   
 
 ### Artikel  5.5  
 
-Bij wisseling en herhaling van exploitatiewijzen is [artikel 3.12 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.  
+Bij wisseling en herhaling van exploitatiewijzen is artikel 3.12 van het Rsp van overeenkomstige toepassing.  
 
 ### §  3  
 
@@ -1099,7 +1118,7 @@ Bij wisseling en herhaling van exploitatiewijzen is [artikel 3.12 van het Rsp](.
 
 ### Artikel  5.6  
 
-1.  De minimumbemanning van de navolgende categorieën van schepen wordt vastgesteld overeenkomstig [artikel 3.15 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), met dien verstande dat de stuurman in voetnoot 2 de bekwaamheid van schipper bezit bedoeld in artikel 2.9, tweede lid: 
+1.  De minimumbemanning van de navolgende categorieën van schepen wordt vastgesteld overeenkomstig artikel 3.15 van het Rsp, met dien verstande dat de stuurman in voetnoot 2 de bekwaamheid van schipper bezit bedoeld in artikel 2.9, tweede lid: 
 
 a. motorschepen;  
 
@@ -1131,9 +1150,9 @@ a. hetzij een schipper mits wordt voldaan aan de volgende voorschriften:
 
 2°. het schip is uitgerust met een goed werkende tachograaf die voortdurend in werking is gesteld;  
 
-3°. het vervoer van gevaarlijke stoffen, waarvoor op grond van [artikel 3.14 van het BPR](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [RPR](../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) een teken moet worden gevoerd is niet toegestaan;  
+3°. het vervoer van gevaarlijke stoffen, waarvoor op grond van artikel 3.14 van het BPR en RPR een teken moet worden gevoerd is niet toegestaan;  
 
-4°. het bepaalde in [artikel 6.30](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [6.32 van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) respectievelijk het [Rijnvaartpolitiereglement](../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) blijft onverkort van kracht;  
+4°. het bepaalde in artikel 6.30 en 6.32 van het Binnenvaartpolitiereglement respectievelijk het Rijnvaartpolitiereglement blijft onverkort van kracht;  
 
 5°. De afstand tot de plaats van waaruit bunkeractiviteiten wordt bedreven bedraagt niet meer dan 30 km, gemeten over de vaarweg. De plaats van waaruit de bunkeractiviteiten wordt bedreven staat vermeld op het certificaat van onderzoek.    
 
@@ -1144,13 +1163,13 @@ b. hetzij een schipper en een lichtmatroos mits de voorschriften, bedoeld in ond
 
 ### Artikel  5.7  
 
-1.  Op motorschepen, duwboten, duwstellen en passagiersschepen, indien zij met een minimumbemanning worden geëxploiteerd, is [artikel 3.14](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) onderscheidenlijk [artikel 3.18 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.   
+1.  Op motorschepen, duwboten, duwstellen en passagiersschepen, indien zij met een minimumbemanning worden geëxploiteerd, is artikel 3.14 onderscheidenlijk artikel 3.18 van het Rsp van overeenkomstige toepassing.   
 2.  Het voldoen of niet voldoen aan de voorschriften bedoeld in het eerste lid wordt door de minister in een verklaring vastgelegd.   
-3.  De verklaring, bedoeld in [artikel 3.14, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) wordt met de in het tweede lid bedoelde verklaring gelijkgesteld.   
+3.  De verklaring, bedoeld in artikel 3.14, tweede lid, van het Rsp wordt met de in het tweede lid bedoelde verklaring gelijkgesteld.   
 
 ### Artikel  5.8  
 
-Voor de toepassing van deze paragraaf is [artikel 2.02, eerste en tweede lid, met uitzondering van de derde alinea, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing.  
+Voor de toepassing van deze paragraaf is artikel 2.02, eerste en tweede lid, met uitzondering van de derde alinea, van het Rsp van overeenkomstige toepassing.  
 
 ### Artikel  5.9  
 
@@ -1158,7 +1177,7 @@ Een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstell
 
 ### Artikel  5.10  
 
-Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (21) van de Internationale Maritieme Organisatie van 25 november 1999 en het op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen van zeevarenden inzake opleiding, diplomering en wachtdienst, met bijlage, (Trb. 1981, 144 en 1992, 109) is [artikel 20.02 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing, met dien verstande dat onder een persoon die houder is van het Rijnschipperspatent een persoon wordt verstaan die in het bezit is van een document als bedoeld in artikel 2.9, tweede lid.  
+Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (21) van de Internationale Maritieme Organisatie van 25 november 1999 en het op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen van zeevarenden inzake opleiding, diplomering en wachtdienst, met bijlage, (Trb. 1981, 144 en 1992, 109) is artikel 3.20 van het Rsp van overeenkomstige toepassing, met dien verstande dat onder een persoon die houder is van het Rijnschipperspatent een persoon wordt verstaan die in het bezit is van een document als bedoeld in artikel 2.9, tweede lid.  
 
 ### §  4  
 
@@ -1166,17 +1185,17 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 ### Artikel  5.11  
 
-1.  Ten aanzien van het dienstboekje zijn de [artikelen 3.05](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.06 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), alsmede de terzake op grond van [artikel 1.03 van dat reglement](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) vastgestelde dienstinstructies van overeenkomstige toepassing met dien verstande dat: 
+1.  Ten aanzien van het dienstboekje zijn de artikelen 3.05 en 3.06 van het Rsp, alsmede de terzake op grond van artikel 1.03 van dat reglement vastgestelde dienstinstructies van overeenkomstige toepassing met dien verstande dat: 
 
-a. als plaatselijk bevoegde autoriteit, bedoeld in het tweede lid van dat artikel, de inspecteur-generaal van de Inspectie Verkeer en Waterstaat wordt aangewezen;  
+a. als plaatselijk bevoegde autoriteit, bedoeld in het tweede lid van dat artikel, de inspecteur-generaal van de Inspectie Leefomgeving en Transport wordt aangewezen;  
 
 b. onder schipper de gezagvoerder wordt verstaan.     
 2.  Een vervangend exemplaar treedt in de plaats van een eerder afgegeven dienstboekje en wordt niet eerder afgegeven dan nadat het geheel of ten dele onleesbaar geworden exemplaar, waarvoor het wordt afgegeven, is ingeleverd bij de minister.   
-3.  In het geval dat een dienstboekje verloren is geraakt of teniet is gegaan, wordt aan de minister een bewijs overgelegd dat daarvan aangifte is gedaan bij een ambtenaar, aangesteld voor de uitvoering van de politietaak, bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](../../../wet/politiewet/1993/BWBR0006299/README.md). Op bladzijde 1 van het vervangende exemplaar van het dienstboekje wordt aangetekend dat het hiervoor bedoelde bewijs is overgelegd.   
+3.  In het geval dat een dienstboekje verloren is geraakt of teniet is gegaan, wordt aan de minister een bewijs overgelegd dat daarvan aangifte is gedaan bij een ambtenaar van politie als bedoeld in artikel 2, onderdeel a, van de Politiewet 2012. Op bladzijde 1 van het vervangende exemplaar van het dienstboekje wordt aangetekend dat het hiervoor bedoelde bewijs is overgelegd.   
 
 ### Artikel  5.12  
 
-1.  Ten aanzien van het vaartijdenboek is artikel 5.11, tweede en derde lid, alsmede [artikel 3.13 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) van overeenkomstige toepassing, met dien verstande dat: 
+1.  Ten aanzien van het vaartijdenboek is artikel 5.11, tweede en derde lid, alsmede artikel 3.13 van het Rsp van overeenkomstige toepassing, met dien verstande dat: 
 
 a. als autoriteit de voorzitter van de commissie van deskundigen wordt aangewezen;  
 
@@ -1184,7 +1203,7 @@ b. onder schipper de gezagvoerder wordt verstaan; en
 
 c. de uitzondering voor sleep- en duwboten die slechts in havens verkeren niet van toepassing is.     
 2.  Wanneer bij de overdracht van een schip de overdragende partij het bij het schip behorende vaartijdenboek niet levert, kan dit bewijs van aangifte worden vervangen door een door de koper en de minister te ondertekenen verklaring.   
-3.  Indien het volgnummer, bedoeld in [artikel 3.13, tweede lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), van het te vervangen vaartijdenboek onbekend is bij de Inspectie Verkeer en Waterstaat wordt het nieuwe vaartijdenboek voorzien van het volgnummer 1.   
+3.  Indien het volgnummer, bedoeld in artikel 3.13, tweede lid, van het Rsp, van het te vervangen vaartijdenboek onbekend is bij de Inspectie Leefomgeving en Transport wordt het nieuwe vaartijdenboek voorzien van het volgnummer 1.   
 
 ### Artikel  5.13  
 
@@ -1201,7 +1220,7 @@ d. de leden van de bemanning bij het begin van de dagelijkse veerdienst van het 
 
 ### Artikel  5.14  
 
-1.  Bij uitvoering van exploitatiewijze A1 of A2 met een tachograaf zijn bijlage 1.4 bij deze regeling en de [bijlage H bij het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) van overeenkomstige toepassing.   
+1.  Bij uitvoering van exploitatiewijze A1 of A2 met een tachograaf zijn bijlage 1.4 bij deze regeling en de bijlage H bij het RosR 1995 van overeenkomstige toepassing.   
 2.  Indien gebruik wordt gemaakt van een tachograaf bewaart de gezagvoerder de registraties van de tachograaf gedurende ten minste zes maanden na de laatste aantekening daarop in chronologische volgorde aan boord.   
 
 ### §  5  
@@ -1226,7 +1245,7 @@ a. hetzij:
 
 6°. het schip is uitgerust met een goed functionerende tachograaf die in werking is gesteld vanaf het begin van de voorafgaande ten minste 8 aaneengesloten uren durende onderbreking van de vaart en waarvan de gegevens gedurende ten minste zes maanden na de laatste aantekening daarop in chronologische volgorde aan boord worden bewaard;  
 
-7°. vervoer van stoffen waarvoor op grond van het ADNR een certificaat van goedkeuring als bedoeld in [bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md) is vereist, is niet toegestaan;  
+7°. vervoer van stoffen waarvoor op grond van het ADNR een certificaat van goedkeuring als bedoeld in bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen is vereist, is niet toegestaan;  
 
 8°. er wordt niet gevaren op de Westerschelde;  
 
@@ -1305,7 +1324,7 @@ c. zijn bestemd of gebruikt voor de sportvisserij en varen op, dan wel op weg zi
 
 a. de minimumbemanning bestaat uit een schipper en een stuurman;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan [artikel 1.09, derde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md);  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1314,7 +1333,7 @@ d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de
 
 a. de minimumbemanning bestaat uit een schipper en een matroos;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan [artikel 1.09, derde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md);  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1332,9 +1351,9 @@ b. het schip onderbreekt de vaart gedurende de periode tussen 22.00 uur en 06.00
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip;  
 
-d. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan [artikel 1.09, derde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md);  
+d. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
 
-e. het schip is uitgerust met een eenmansstuurstelling voor het varen op radar en voldoet aan de daarop betrekking hebbende artikelen in [hoofdstuk 7 van het RosR 1995](../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) dan wel bijlage II, artikel 7.13, van richtlijn 2006/87/EG; en  
+e. het schip is uitgerust met een eenmansstuurstelling voor het varen op radar en voldoet aan de daarop betrekking hebbende artikelen in hoofdstuk 7 van het RosR 1995 dan wel bijlage II, artikel 7.13, van richtlijn 2006/87/EG; en  
 
 f. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.     
 5.  Ten aanzien van motorschepen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge artikel 5.6, eerste lid, voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften: 
@@ -1346,7 +1365,7 @@ b. de voorschriften, bedoeld in het vierde lid onder e en f.
 
 a. de minimumbemanning bestaat uit een schipper en een stuurman;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan [artikel 1.09, derde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md);  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1355,7 +1374,7 @@ d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de
 
 a. de minimumbemanning bestaat uit een schipper en een matroos;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan [artikel 1.09, derde lid, van het Binnenvaartpolitiereglement](../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md);  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1398,37 +1417,37 @@ In dit hoofdstuk wordt verstaan onder:
 
 *aanvrager:* degene die in aanmerking wenst te komen voor de afgifte van: 
 
-a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of een Rijnpatent als bedoeld in [artikel 6.04, eerste lid van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md),  
+a. een vaarbewijs als bedoeld in artikel 25, eerste lid, van de wet of een Rijnpatent als bedoeld in artikel 6.04, eerste lid van het Rsp,  
 
-b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, of de [artikelen 3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.04 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, of de artikelen 3.03 en 3.04 van het Rsp;  
 
 c. een vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype als bedoeld in artikel 7.6; of  
 
 d. een zeilbewijs als bedoeld in artikel 7.9;    
 
-*arts:* deskundige, bedoeld in [artikel 28, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en de [artikelen 7.01, derde lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [7.02, derde lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), [7.03, tweede lid, onderdeel a](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), en [7.04, eerste lid, onderdeel c, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+*arts:* deskundige, bedoeld in artikel 28, eerste lid, van de wet en de artikelen 7.01, derde lid, onderdeel a, 7.02, derde lid, onderdeel a, 7.03, tweede lid, onderdeel a, en 7.04, eerste lid, onderdeel c, van het Rsp;  
 
-*scheidsrechter:* deskundige, bedoeld in [artikel 28, derde lid, van de Wet](../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+*scheidsrechter:* deskundige, bedoeld in artikel 28, derde lid, van de Wet;  
 
 *medisch adviseur scheepvaart:* medisch adviseur scheepvaart van de Minister, of diens plaatsvervanger;  
 
 *geneeskundig onderzoek:* onderzoek, bedoeld in artikel 6.4, ter verkrijging van: 
 
-a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of een Rijnpatent als bedoeld in [artikel 6.04, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md),  
+a. een vaarbewijs als bedoeld in artikel 25, eerste lid, van de wet of een Rijnpatent als bedoeld in artikel 6.04, eerste lid, van het Rsp,  
 
-b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, alsmede de [artikelen 3.03](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.04 van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);    
+b. een dienstboekje als bedoeld in respectievelijk artikel 5.11, eerste lid, alsmede de artikelen 3.03 en 3.04 van het Rsp;    
 
-*eigen verklaring:* verklaring, bedoeld in [artikel 26, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md).    
+*eigen verklaring:* verklaring, bedoeld in artikel 26, eerste lid, van het besluit.    
 
 ### Artikel  6.2  
 
-1.  Een arts is de geneeskundige die bij beschikking op grond van [artikel 40, eerste lid, van de Zeevaartbemanningswet](../../../wet/wet/zeevarenden/BWBR0009124/README.md) is aangewezen.   
-2.  Een scheidsrechter is de geneeskundigen die bij beschikking op grond van [artikel 42, eerste lid, van de Zeevaartbemanningswet](../../../wet/wet/zeevarenden/BWBR0009124/README.md) is aangewezen. De scheidsrechter is niet degene door wie het eerste onderzoek is verricht.   
+1.  Een arts is de geneeskundige die bij beschikking op grond van artikel 40, eerste lid, van de Wet zeevarenden is aangewezen.   
+2.  Een scheidsrechter is de geneeskundigen die bij beschikking op grond van artikel 42, eerste lid, van de Wet zeevarenden is aangewezen. De scheidsrechter is niet degene door wie het eerste onderzoek is verricht.   
 
 ### Artikel  6.3  
 
 1.  De aanvrager wendt zich voor een geneeskundig onderzoek tot een arts, niet zijnde de behandelend arts van de aanvrager.   
-2.  De arts gaat niet tot een geneeskundig onderzoek over dan nadat de aanvrager zich heeft gelegitimeerd en de arts in het register Shipexam van de Inspectie Verkeer en Waterstaat heeft kunnen vaststellen dat hij gezien de eerdere uitslagen of aantekeningen gerechtigd is de keuring te verrichten.   
+2.  De arts gaat niet tot een geneeskundig onderzoek over dan nadat de aanvrager zich heeft gelegitimeerd en de arts in het register Shipexam van de Inspectie Leefomgeving en Transport heeft kunnen vaststellen dat hij gezien de eerdere uitslagen of aantekeningen gerechtigd is de keuring te verrichten.   
 
 ### Artikel  6.4  
 
@@ -1462,7 +1481,7 @@ Indien nog geen heronderzoek heeft plaatsgevonden, is een geneeskundige verklari
 
 ### Artikel  6.9  
 
-De aanvrager die met toepassing van [artikel 26, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), een eigen verklaring overlegt aan de instantie die het vaarbewijs afgeeft, maakt daartoe gebruik van het formulier dat is opgenomen in bijlage 6.4.  
+De aanvrager die met toepassing van artikel 26, eerste lid, van het besluit, een eigen verklaring overlegt aan de instantie die het vaarbewijs afgeeft, maakt daartoe gebruik van het formulier dat is opgenomen in bijlage 6.4.  
 
 ### Artikel  6.10  
 
@@ -1486,7 +1505,7 @@ b. de keuringsartsen voor het klein vaarbewijs indien de eigen verklaring betrek
 
 ### Artikel  6.12  
 
-De resultaten van het geneeskundig onderzoek worden door de arts, volgens de instructies van de medisch adviseur scheepvaart binnen de door deze vast te stellen termijn, aangetekend in het digitale register Shipexam van de Inspectie Verkeer en Waterstaat.  
+De resultaten van het geneeskundig onderzoek worden door de arts, volgens de instructies van de medisch adviseur scheepvaart binnen de door deze vast te stellen termijn, aangetekend in het digitale register Shipexam van de Inspectie Leefomgeving en Transport.  
 
 ### Artikel  6.13  
 
@@ -1528,17 +1547,17 @@ Het klein, beperkt groot en groot vaarbewijs worden vastgesteld volgens de model
 
 ### Artikel  7.4  
 
-1.  Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in [artikel 16, onderdeel d, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), voor schepen gebezigd ten behoeve van reiniging van grachten en soortgelijke wateren.   
-2.  Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in [artikel 16, onderdelen c en d, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), voor Belgische redeboten op de Westerschelde en in de daarmee in open verbinding staande havens en voorhavens.   
-3.  Een vaarbewijs is niet vereist voor schepen als bedoeld in [artikel 16, onderdelen b en d, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), die deelnemen aan wedstrijden op binnenwateren die voor het openbaar scheepvaartverkeer niet toegankelijk zijn.   
+1.  Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in artikel 16, onderdeel d, van het besluit, voor schepen gebezigd ten behoeve van reiniging van grachten en soortgelijke wateren.   
+2.  Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in artikel 16, onderdelen c en d, van het besluit, voor Belgische redeboten op de Westerschelde en in de daarmee in open verbinding staande havens en voorhavens.   
+3.  Een vaarbewijs is niet vereist voor schepen als bedoeld in artikel 16, onderdelen b en d, van het besluit, die deelnemen aan wedstrijden op binnenwateren die voor het openbaar scheepvaartverkeer niet toegankelijk zijn.   
 
 ### Artikel  7.5  
 
-Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in [artikel 16, onderdeel d, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), voor open rondvaartboten als bedoeld in artikel 1.1, bestemd of gebezigd voor het bedrijfsmatig vervoer van meer dan twaalf personen buiten de bemanning, met een lengte gemeten op het vlak van de grootste inzinking van minder dan 20 meter, voor zover de schipper in het bezit is van een klein vaarbewijs en indien het schip vaart op de binnenwateren van zone 4, dan wel op de Beulakerwiede of de Belterwiede;  
+Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in artikel 16, onderdeel d, van het besluit, voor open rondvaartboten als bedoeld in artikel 1.1, bestemd of gebezigd voor het bedrijfsmatig vervoer van meer dan twaalf personen buiten de bemanning, met een lengte gemeten op het vlak van de grootste inzinking van minder dan 20 meter, voor zover de schipper in het bezit is van een klein vaarbewijs en indien het schip vaart op de binnenwateren van zone 4, dan wel op de Beulakerwiede of de Belterwiede;  
 
 ### Artikel  7.6  
 
-1.  [Artikel 14, eerste lid, aanhef en onderdeel b van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), is niet van toepassing voor rondvaartboten van het Amsterdams grachtentype, als bedoeld in artikel 1.1 voor zover varend op de binnenwateren van zone 3 of zone 4, en voor zover de schipper in het bezit is van: 
+1.  Artikel 14, eerste lid, aanhef en onderdeel b van het besluit, is niet van toepassing voor rondvaartboten van het Amsterdams grachtentype, als bedoeld in artikel 1.1 voor zover varend op de binnenwateren van zone 3 of zone 4, en voor zover de schipper in het bezit is van: 
 
 a. het vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype overeenkomstig het model opgenomen in bijlage 7.4; en  
 
@@ -1547,37 +1566,38 @@ b. een verklaring van de vaarwegbeheerder houdende de vermelding voor welke wate
 
 a. het diploma Schipper rondvaartboot beperkt vaargebied, zoals opgenomen in het Centraal Register Beroepsopleidingen met de code 95050;  
 
-b. een geneeskundige verklaring als bedoeld in [artikel 28, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), niet ouder dan dertien weken; en  
+b. een geneeskundige verklaring als bedoeld in artikel 28, eerste lid, van de wet, niet ouder dan dertien weken; en  
 
 c. een dienstboekje als bedoeld in artikel 5.4.1, waaruit blijkt dat de aanvrager een vaartijd van ten minste een jaar als lichtmatroos heeft doorlopen.     
 3.  Op de aanvraag van het in het eerste lid bedoelde vrijstellingsbewijs is artikel 1.4 van overeenkomstige toepassing.   
-4.  Op het in het eerste lid, onderdeel a, bedoelde vrijstellingsbewijs zijn [artikel 27, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), en [artikel 30 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) van overeenkomstige toepassing.   
-5.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het in het eerste lid bedoelde vrijstellingsbewijs [artikel 27, tweede lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 28 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) van overeenkomstige toepassing.   
+4.  Op het in het eerste lid, onderdeel a, bedoelde vrijstellingsbewijs zijn artikel 27, eerste lid, en artikel 30 van de wet van overeenkomstige toepassing.   
+5.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het in het eerste lid bedoelde vrijstellingsbewijs artikel 27, tweede lid, en artikel 28 van het besluit van overeenkomstige toepassing.   
 6.  Het in het eerste lid bedoelde vrijstellingsbewijs is aan boord van het schip.   
 
 ### Artikel  7.7  
 
-1.  De [artikelen 14, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [15, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), zijn niet van toepassing op gierponten, kabelponten en andere niet-vrijvarende veerponten op de rivieren, kanalen en meren indien de schipper in het bezit is van een klein vaarbewijs, en: 
+1.  De artikelen 14, eerste lid, en 15, eerste lid, van het besluit, zijn niet van toepassing op gierponten, kabelponten en andere niet-vrijvarende veerponten op de rivieren, kanalen en meren indien de schipper in het bezit is van een klein vaarbewijs, en: 
 
 a. de veerpont is uitgerust met een marifooninstallatie en de schipper in het bezit is van een bedieningscertificaat; of  
 
 b. de veerpont is uitgerust met een radarinstallatie en de schipper in het bezit is van het certificaat Radaropleiding voor objectenpersoneel van de vakopleiding Transport en Logistiek, van de Maritieme academie, van het Scheepvaart- en Transportcollege STC of een getuigschrift van een andere door de Minister aangewezen of erkende opleiding.     
-2.  De [artikelen 14, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [15, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) zijn niet van toepassing op schepen die in het kader van hulpverlening op zee of op de binnenwateren, dan wel in het kader van het oefenen voor die hulpverlening: 
+2.  De artikelen 14, eerste lid, en 15, eerste lid, van het besluit zijn niet van toepassing op schepen die in het kader van hulpverlening op zee of op de binnenwateren, dan wel in het kader van het oefenen voor die hulpverlening: 
 
 a. worden bestuurd door medewerkers van een reddingmaatschappij; of  
 
 b. dienen als sleepduwboot voor schepen met een lengte van meer dan 20 meter.     
+3.  Artikel 14, eerste lid, onderdeel e, van het besluit is niet van toepassing op het voeren van sleepboten, duwboten of sleepduwboten met een lengte van minder dan 20 meter of het daarmee slepen, langszij vastgemaakt meevoeren of duwen van een schip met een lengte van minder dan 20 meter indien de schipper in het bezit is van een klein vaarbewijs.   
 
 ### Artikel  7.8  
 
-1.  [Artikel 15, eerste lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) is niet van toepassing op pleziervaartuigen met een lengte van 25 tot 40 meter, indien de schipper in het bezit is van: 
+1.  Artikel 15, eerste lid, van het besluit is niet van toepassing op pleziervaartuigen met een lengte van 25 tot 40 meter, indien de schipper in het bezit is van: 
 
-a. een groot pleziervaartbewijs, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘tot 40 meter’; of  
+a. een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in bijlage 7.4; of  
 
 b. een vaarbewijs als bedoeld in bijlage 7.1, onderdelen 1.3 of 1.4, mits behaald vóór 1 juli 2011.     
-2.  [Artikel 15, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 14, eerste lid, onderdeel a, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) zijn niet van toepassing voor pleziervaartuigen met een lengte van ten minste 25 meter, indien de schipper in het bezit is van: 
+2.  Artikel 15, eerste lid, en artikel 14, eerste lid, onderdeel a, van het besluit zijn niet van toepassing voor pleziervaartuigen met een lengte van ten minste 25 meter, indien de schipper in het bezit is van: 
 
-a. een groot pleziervaartbewijs, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘40 meter plus’; of  
+a. een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in bijlage 7.4, voorzien van de aantekening ‘40 meter plus’; of  
 
 b. een vaarbewijs als bedoeld in bijlage 7.1, onderdelen 1.3 of 1.4, mits behaald vóór 1 juli 2011.     
 3.  Het in het eerste lid bedoelde groot pleziervaartbewijs wordt, na overlegging van een geldig klein vaarbewijs, door de minister afgegeven aan: 
@@ -1586,7 +1606,7 @@ a. degene die geslaagd is voor het examen CWO groot motorschip van de Stichting 
 
 b. de houder van een ander hiertoe door de minister erkend diploma;  
 
-c. degene die aantoont dat hij bij het in werking treden van de wet eigenaar was van een pleziervaartuig met een lengte van 25 tot 40 meter, alsmede in het bezit was van een klein vaarbewijs, onderscheidenlijk aan zijn partner en gezinsleden die op het tijdstip van inwerkingtreding van de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) in het bezit waren van een klein vaarbewijs; of  
+c. degene die aantoont dat hij bij het in werking treden van de wet eigenaar was van een pleziervaartuig met een lengte van 25 tot 40 meter, alsmede in het bezit was van een klein vaarbewijs, onderscheidenlijk aan zijn partner en gezinsleden die op het tijdstip van inwerkingtreding van de Binnenvaartwet in het bezit waren van een klein vaarbewijs; of  
 
 d. degene die bij het in werking treden van de wet in het bezit was van een klein vaarbewijs en een verklaring kan tonen van de organisatie die, als eigenaar van een pleziervaartuig van 25 tot 40 meter lengte, verklaart dat hij bij het in werking treden van de wet mocht varen met dat vaartuig.     
 4.  Het in het tweede lid bedoelde groot pleziervaartbewijs wordt, na overlegging van een geldig klein vaarbewijs, door de minister afgegeven aan: 
@@ -1594,49 +1614,99 @@ d. degene die bij het in werking treden van de wet in het bezit was van een klei
 a. degene die aantoont dat hij bij het in werking treden van de wet eigenaar was van een pleziervaartuig met een lengte van meer dan 40 meter, alsmede in het bezit was van een klein vaarbewijs, onderscheidenlijk aan zijn partner en gezinsleden die bij het in werking treden van de wet in het bezit waren van een klein vaarbewijs; of  
 
 b. aan degene die bij het in werking treden van de wet in het bezit was van een klein vaarbewijs en een verklaring kan tonen van de organisatie die, als eigenaar van een pleziervaartuig van meer dan 40 meter lengte, verklaart dat hij bij het in werking treden van de wet mocht varen met dat vaartuig.     
-5.  In afwijking van het derde lid worden de in het eerste lid bedoelde groot pleziervaartbewijzen I, respectievelijk II, afgegeven aan de houder van de volgende documenten, die hun geldigheid verloren hebben uitsluitend door het verstrijken van de geldigheidsduur, indien uit een eigen verklaring van de aanvrager blijkt dat hij lichamelijk en geestelijk voldoende geschikt is voor het voeren van een binnenschip: 
+5.  In afwijking van het derde lid wordt: 
 
-a. een groot vaarbewijs B, respectievelijk A;  
+a. het in het eerste lid bedoelde groot pleziervaartbewijs I afgegeven aan de houder van de volgende ongeldig geworden documenten, indien het betreffende document zijn geldigheid op geen andere wijze verloren heeft dan door het verstrijken van de geldigheidsduur en uit een eigen verklaring van de aanvrager blijkt dat deze lichamelijk en geestelijk voldoende geschikt is voor het voeren van een binnenschip: 
 
-b. een beperkt groot vaarbewijs B, respectievelijk A;  
+1° een groot vaarbewijs B;  
 
-c. een zeilbewijs.     
-6.  In afwijking van het vierde lid worden de in het tweede lid bedoelde groot pleziervaartbewijzen I, respectievelijk II, afgegeven aan de houder van de volgende documenten, die hun geldigheid verloren hebben uitsluitend door het verstrijken van de geldigheidsduur, indien uit een eigen verklaring van de aanvrager blijkt dat hij lichamelijk en geestelijk voldoende geschikt is voor het voeren van een binnenschip: 
+2° een beperkt groot vaarbewijs B.    
 
-a. een groot vaarbewijs B, respectievelijk A;  
+b. het in het eerste lid bedoelde groot pleziervaartbewijs II afgegeven aan de houder van de volgende ongeldig geworden documenten, indien het betreffende document zijn geldigheid op geen andere wijze verloren heeft dan door het verstrijken van de geldigheidsduur en uit een eigen verklaring van de aanvrager blijkt dat deze lichamelijk en geestelijk voldoende geschikt is voor het voeren van een binnenschip: 
 
-b. een zeilbewijs.     
-7.  De in het eerste en tweede lid bedoelde groot pleziervaartbewijzen worden afgegeven voor rivieren, kanalen en meren aan de aanvrager die op het tijdstip van inwerkingtreding van de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) houder is van een klein vaarbewijs I, onderscheidenlijk voor alle binnenwateren aan de aanvrager die op dat tijdstip houder is van een klein vaarbewijs II.   
-8.  De houder van een groot pleziervaartbewijs I die tevens in het bezit is van een klein vaarbewijs II komt in aanmerking voor het groot pleziervaartbewijs II.   
-9.  De in het derde lid, onderdelen a en b, bedoelde diploma’s worden verkregen na het behalen van een door de minister goedgekeurd examen.   
-10.  De in het derde lid, onderdelen c en d, of de in het vierde lid bedoelde personen kunnen tot uiterlijk twee jaar na het in werking treden van dit artikel een aanvraag ter verkrijging van een groot pleziervaartbewijs indienen.   
-11.  Op het groot pleziervaartbewijs zijn [artikel 30 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) alsmede artikel 1.4 van overeenkomstige toepassing.   
-12.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het groot pleziervaartbewijs [artikel 22, vierde en vijfde lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 26 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) van overeenkomstige toepassing.   
-13.  Het groot pleziervaartbewijs is tijdens de vaart aan boord van het schip.   
+1° een groot vaarbewijs A;  
+
+2° een beperkt groot vaarbewijs A;  
+
+3° een zeilbewijs;  
+
+4° een groot patent;  
+
+5° een klein patent.       
+6.  In afwijking van het vierde lid wordt: 
+
+a. het in het tweede lid bedoelde groot pleziervaartbewijs I afgegeven aan de houder van de volgende ongeldig geworden documenten, indien het betreffende document zijn geldigheid op geen andere wijze verloren heeft dan door het verstrijken van de geldigheidsduur en uit een eigen verklaring van de aanvrager blijkt dat deze lichamelijk en geestelijk voldoende geschikt is voor het voeren van een binnenschip: 
+
+1° een groot vaarbewijs B;  
+
+2° een beperkt groot vaarbewijs B.    
+
+b. het in het tweede lid bedoelde groot pleziervaartbewijs II afgegeven aan de houder van de volgende ongeldig geworden documenten, indien het betreffende document zijn geldigheid op geen andere wijze verloren heeft dan door het verstrijken van de geldigheidsduur en uit een eigen verklaring van de aanvrager blijkt dat deze lichamelijk en geestelijk voldoende geschikt is voor het voeren van een binnenschip: 
+
+1° een groot vaarbewijs A;  
+
+2° een beperkt groot vaarbewijs A;  
+
+3° een zeilbewijs;  
+
+4° een groot patent;  
+
+5° een klein patent.       
+7.  In afwijking van het derde tot en met zesde lid wordt: 
+
+a. het in het eerste en tweede lid bedoelde groot pleziervaartbewijs I afgegeven aan de houder van: 
+
+1° een geldig groot vaarbewijs B;  
+
+2° een geldig beperkt groot vaarbewijs B.    
+
+b. het in het eerste en tweede lid bedoelde groot pleziervaartbewijs II afgegeven aan de houder van: 
+
+1° een geldig groot vaarbewijs A;  
+
+2° een geldig beperkt groot vaarbewijs A;  
+
+3° een geldig zeilbewijs;  
+
+4° een geldig groot patent;  
+
+5° een geldig klein patent.       
+8.  De in het eerste en tweede lid bedoelde groot pleziervaartbewijzen worden afgegeven voor rivieren, kanalen en meren aan de aanvrager die op het tijdstip van inwerkingtreding van de Binnenvaartwet houder is van een klein vaarbewijs I, onderscheidenlijk voor alle binnenwateren aan de aanvrager die op dat tijdstip houder is van een klein vaarbewijs II.   
+9.  De houder van een groot pleziervaartbewijs I die tevens in het bezit is van een klein vaarbewijs II komt in aanmerking voor het groot pleziervaartbewijs II.   
+10.  De in het derde lid, onderdelen a en b, bedoelde diploma’s worden verkregen na het behalen van een door de minister goedgekeurd examen.   
+11.  De in het derde lid, onderdelen c en d, of de in het vierde lid bedoelde personen kunnen tot 1 juli 2011 een aanvraag ter verkrijging van een groot pleziervaartbewijs indienen.   
+12.  Op het groot pleziervaartbewijs zijn artikel 30 van de wet alsmede artikel 1.4 van overeenkomstige toepassing.   
+13.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het groot pleziervaartbewijs artikel 22, vierde en vijfde lid, en artikel 26 van het besluit van overeenkomstige toepassing.   
+14.  Het groot pleziervaartbewijs is tijdens de vaart aan boord van het schip.   
 
 ### Artikel  7.9  
 
-1.  De [artikelen 14, eerste lid, onderdelen a, b en c, onder 1°](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [15, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), alsmede [16 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), zijn niet van toepassing op schepen, bestemd of gebruikt voor bedrijfsmatig vervoer van personen en ingericht om hoofdzakelijk door middel van zeilen te worden voortbewogen, indien de schipper in het bezit is van een zeilbewijs overeenkomstig het model opgenomen in bijlage 7.4.   
-2.  Van [artikel 16 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) zijn vrijgesteld de gezagvoerders van schepen, voor zover zij zijn voorzien van het in het eerste lid bedoelde zeilbewijs.   
+1.  De artikelen 14, eerste lid, onderdelen a, b en c, onder 1°, en 15, eerste lid, alsmede 16 van het besluit, zijn niet van toepassing op schepen, bestemd of gebruikt voor bedrijfsmatig vervoer van personen en ingericht om hoofdzakelijk door middel van zeilen te worden voortbewogen, indien de schipper in het bezit is van een zeilbewijs overeenkomstig het model opgenomen in bijlage 7.4.   
+2.  Van artikel 16 van het besluit zijn vrijgesteld de gezagvoerders van schepen, voor zover zij zijn voorzien van het in het eerste lid bedoelde zeilbewijs.   
 3.  Het zeilbewijs wordt door de minister afgegeven na overlegging van: 
 
-a. het diploma Schipper zeilvaart van de Stichting Centraal Bureau Rijvaardigheidsbewijzen of de Stichting OnderwijsFonds voor de Scheepvaart, dan wel het diploma Stuurman Kleine Zeilvaart van de Enkhuizer zeevaartschool;  
+a. het diploma Schipper zeilvaart van het CBR of de Stichting OnderwijsFonds voor de Scheepvaart, dan wel het diploma Stuurman Kleine Zeilvaart van de Enkhuizer zeevaartschool;  
 
-b. een geneeskundige verklaring als bedoeld in [artikel 28, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), niet ouder dan dertien weken; en  
+b. een geneeskundige verklaring als bedoeld in artikel 28, eerste lid, van de wet, niet ouder dan dertien weken; en  
 
 c. een dienstboekje als bedoeld in artikel 5.11, waaruit blijkt dat de aanvrager een vaartijd van twee jaar als lid van de dekbemanning aan boord van zeilschepen heeft doorlopen.     
 4.  Het in het tweede lid, onderdeel a, bedoelde diploma wordt verkregen na het behalen van een door de minister goedgekeurd examen.   
 5.  Op de aanvraag van het zeilbewijs is artikel 1.4 van overeenkomstige toepassing.   
-6.  Op het zeilbewijs zijn [artikel 27, eerste lid](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), en [artikel 30 van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) van overeenkomstige toepassing.   
-7.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het zeilbewijs [artikel 27, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), en [artikel 28 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) van overeenkomstige toepassing.   
+6.  Op het zeilbewijs zijn artikel 27, eerste lid, en artikel 30 van de wet van overeenkomstige toepassing.   
+7.  Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid zijn op de houder van het zeilbewijs artikel 27, tweede lid, en artikel 28 van het besluit van overeenkomstige toepassing.   
 8.  Het eerste, zesde en zevende lid zijn van overeenkomstige toepassing op zeilbewijzen afgegeven door de Stichting Koninklijk OnderwijsFonds voor de Scheepvaart.   
 9.  Het zeilbewijs is aan boord van het schip.   
 
 ### Artikel  7.9a  
 
-1.  De in [artikel 22, tweede en derde lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) bedoelde geneeskundige verklaring die naast het vaarbewijs wordt getoond, is een verklaring afgegeven overeenkomstig het model in bijlage 6.2 en gewaarmerkt door de instantie die het vaarbewijs afgeeft.   
-2.  Onverminderd het bepaalde in [artikel 22, tweede lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) kan ook worden volstaan met een op 50-jarige, 55-jarige en 60-jarige leeftijd verkregen vaarbewijs. De geneeskundige verklaring hoeft in dat geval niet naast het vaarbewijs te worden getoond.   
-3.  Onverminderd het bepaalde in [artikel 22, derde lid, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) kan ook worden volstaan met een na het bereiken van de 65-jarige leeftijd jaarlijks verkregen vaarbewijs. De geneeskundige verklaring hoeft in dat geval niet naast het vaarbewijs te worden getoond.   
+1.  De in artikel 22, tweede en derde lid, van het besluit bedoelde geneeskundige verklaring die naast het vaarbewijs wordt getoond, is een verklaring afgegeven overeenkomstig het model in bijlage 6.2 en gewaarmerkt door de instantie die het vaarbewijs afgeeft.   
+2.  Onverminderd het bepaalde in artikel 22, tweede lid, van het besluit kan ook worden volstaan met een op 50-jarige, 55-jarige en 60-jarige leeftijd verkregen vaarbewijs. De geneeskundige verklaring hoeft in dat geval niet naast het vaarbewijs te worden getoond.   
+3.  Onverminderd het bepaalde in artikel 22, derde lid, van het besluit kan ook worden volstaan met een na het bereiken van de 65-jarige leeftijd jaarlijks verkregen vaarbewijs. De geneeskundige verklaring hoeft in dat geval niet naast het vaarbewijs te worden getoond.   
+
+### Artikel  7.9b  
+
+1.  Als vaarbewijs als bedoeld in artikel 35b, eerste lid, onderdeel b, van de Scheepvaartverkeerswet, worden aangewezen het groot vaarbewijs A, het groot vaarbewijs B, het beperkt groot vaarbewijs A, het beperkt groot vaarbewijs B, het klein vaarbewijs I, het klein vaarbewijs II, het vrijstellingsbewijs, bedoeld in artikel 7.6, eerste lid, het zeilbewijs, bedoeld in artikel 7.9, eerste lid, alsmede een erkend buitenlands bewijs van vaarbekwaamheid als bedoeld in artikel 7.11.   
+2.  Als categorieën vaarbewijzen, bedoeld in de artikelen 48, vijfde lid, en 49, tweede lid, van de wet, worden aangewezen het klein vaarbewijs I, het klein vaarbewijs II, alsmede erkende buitenlandse bewijzen van vaarbekwaamheid als bedoeld in bijlage 7.1, onderdelen 1.3 en 1.4.   
 
 ### §  2  
 
@@ -1644,15 +1714,22 @@ c. een dienstboekje als bedoeld in artikel 5.11, waaruit blijkt dat de aanvrager
 
 ### Artikel  7.10  
 
-De minister kan een bewijs van vaarbekwaamheid erkennen voor de vaart op rivieren, kanalen en meren of voor de vaart op alle binnenwateren, voor zover het bewijs naar zijn oordeel voldoende waarborg biedt voor het veilig voeren van een schip op de betrokken wateren.  
+1.  De minister kan een bewijs van vaarbekwaamheid erkennen voor de vaart op rivieren, kanalen en meren of voor de vaart op alle binnenwateren, voor zover het bewijs naar zijn oordeel voldoende waarborg biedt voor het veilig voeren van een schip op de betrokken wateren.   
+2.  De in artikel 17, tweede lid, van het besluit bedoelde, krachtens de Herziene Rijnvaartakte afgegeven, bewijzen van vaarbekwaamheid zijn: 
+
+a. het groot patent als gelijkwaardig aan het groot vaarbewijs, het beperkt groot vaarbewijs en het klein vaarbewijs;  
+
+b. het klein patent als gelijkwaardig aan het beperkt groot vaarbewijs en het klein vaarbewijs;  
+
+c. het sportpatent als gelijkwaardig aan het klein vaarbewijs.     
 
 ### Artikel  7.11  
 
-De in bijlage 7.1 genoemde buitenlandse bewijzen van vaarbekwaamheid worden erkend als bedoeld in [artikel 17, vierde lid, onderdeel a, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md).  
+De in bijlage 7.1 genoemde buitenlandse bewijzen van vaarbekwaamheid worden erkend als bedoeld in artikel 17, vierde lid, onderdeel a, van het besluit.  
 
 ### Artikel  7.12  
 
-De in bijlage 7.2 genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuigschriften worden erkend voor gehele respectievelijk gedeeltelijke vrijstelling van het onderzoek naar de kennis en bekwaamheid om een schip te voeren, bedoeld in [artikel 20, eerste lid, onderdeel b, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md).  
+De in bijlage 7.2 genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuigschriften worden erkend voor gehele respectievelijk gedeeltelijke vrijstelling van het onderzoek naar de kennis en bekwaamheid om een schip te voeren, bedoeld in artikel 20, eerste lid, onderdeel b, van het besluit.  
 
 ### §  3  
 
@@ -1660,7 +1737,7 @@ De in bijlage 7.2 genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuig
 
 ### Artikel  7.13  
 
-Onverminderd het gestelde in artikel 1.9 zijn de bepalingen met betrekking tot de radarpatenten van het [Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en de artikelen 1.11 en 1.12 van overeenkomstige toepassing op de andere binnenwateren dan de Rijn, met inbegrip van de Waal en de Lek.  
+Onverminderd het gestelde in artikel 1.9 zijn de bepalingen met betrekking tot de radarpatenten van het Rsp en de artikelen 1.11 en 1.12 van overeenkomstige toepassing op de andere binnenwateren dan de Rijn, met inbegrip van de Waal en de Lek.  
 
 ### §  4  
 
@@ -1668,7 +1745,7 @@ Onverminderd het gestelde in artikel 1.9 zijn de bepalingen met betrekking tot d
 
 ### Artikel  7.14  
 
-In deze paragraaf wordt onder examinator verstaan de instellingen of personen bedoeld in [artikel 29, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md).  
+In deze paragraaf wordt onder examinator verstaan de instellingen of personen bedoeld in artikel 29, eerste lid, van de wet.  
 
 ### Artikel  7.15  
 
@@ -1701,8 +1778,8 @@ d. meteorologie.
 
 ### Artikel  7.17  
 
-1.  Nadat het examen ter verkrijging van het vaarbewijs met gunstig gevolg is afgelegd, wordt de verklaring, bedoeld in [artikel 26, eerste lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), afgegeven.   
-2.  De verklaring vermeldt voor welk van de in [artikel 13 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) bedoelde vaarbewijzen het examen is afgelegd.   
+1.  Nadat het examen ter verkrijging van het vaarbewijs met gunstig gevolg is afgelegd, wordt de verklaring, bedoeld in artikel 26, eerste lid, van de wet, afgegeven.   
+2.  De verklaring vermeldt voor welk van de in artikel 13 van het besluit bedoelde vaarbewijzen het examen is afgelegd.   
 
 ### Artikel  7.18  
 
@@ -1719,12 +1796,15 @@ b. de dekbemanning van een binnenschip met een lengte van 15 meter of meer, best
 
 1.  Indien de aanvrager aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, of van een schip met een lengte van 15 meter of meer, bestemd voor de niet-bedrijfsmatige vaart ter zee, wordt voor elk jaar van deze ervaring de periode, bedoeld in artikel 7.18, eerste lid, verminderd met een jaar, doch met ten hoogste een vaartijd van twee jaren, waarbij 250 zeedagen als een jaar vaartijd als bedoeld in artikel 7.18, eerste lid, gelden.   
 2.  Indien de aanvrager houder is van een diploma van een opleiding voor de binnenvaart, waarvan praktijkstages deel uitmaken, wordt de periode, bedoeld in artikel 7.18, eerste lid, verminderd met de duur van deze opleiding, doch met ten hoogste een vaartijd van drie jaren.   
-3.  Indien de aanvrager een praktijkexamen heeft afgelegd voor het besturen van een schip waarvan de vaareigenschappen naar het oordeel van de minister vergelijkbaar zijn met die van een schip waarvan de schipper bij het varen op de binnenwateren voorzien moet zijn van een groot of beperkt groot vaarbewijs, kan de periode, bedoeld in artikel 7.18, eerste lid, worden verminderd met ten hoogste drie jaren. Onder een praktijkexamen wordt voor de toepassing van dit lid verstaan: 
+3.  Indien de aanvrager die dienst doet of heeft gedaan als registerloods aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, wordt voor elk geheel jaar van deze ervaring de periode, bedoeld in artikel 7.18, derde lid, verminderd met negen maanden en wordt het vereiste aantal dagreizen waarop een binnenschip, bestemd voor de bedrijfsmatige vaart, bestuurd wordt, verminderd met twaalf dagreizen, doch tot niet minder dan een vaartijd van twaalf maanden waarin tenminste gedurende zestien dagreizen een binnenschip, bestemd voor de bedrijfsmatige vaart, is bestuurd.   
 
-a. een praktijkexamen dat door de minister is erkend;  
+### Artikel  7.19a  
 
-b. een praktijkexamen dat bij internationale regeling of door een bevoegde autoriteit in het buitenland en door de minister is erkend.     
-4.  Indien de aanvrager die dienst doet of heeft gedaan als registerloods aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, wordt voor elk geheel jaar van deze ervaring de periode, bedoeld in artikel 7.18, derde lid, verminderd met negen maanden en wordt het vereiste aantal dagreizen waarop een binnenschip, bestemd voor de bedrijfsmatige vaart, bestuurd wordt, verminderd met twaalf dagreizen, doch tot niet minder dan een vaartijd van twaalf maanden waarin tenminste gedurende zestien dagreizen een binnenschip, bestemd voor de bedrijfsmatige vaart, is bestuurd.   
+De vaartijd bedoeld in artikel 7.18, eerste lid, wordt verminderd met drie jaar voor de aanvrager die: 
+
+a. houder is van de verklaring praktijkexamen vaartijd, ten bewijze dat hij met goed gevolg het praktijkexamen schipper binnenvaart van het CBR heeft afgelegd; of  
+
+b. met goed gevolg een praktijkexamen, dat bij internationale regeling of door een bevoegde autoriteit in het buitenland en door de minister is erkend, heeft afgelegd.    
 
 ### Artikel  7.20  
 
@@ -1735,7 +1815,7 @@ b. een praktijkexamen dat bij internationale regeling of door een bevoegde autor
 
 ### Artikel  7.21  
 
-1.  De examens ter verkrijging van een klein vaarbewijs, een beperkt groot vaarbewijs en een groot vaarbewijs worden afgenomen met inachtneming van een examenreglement en een examenprogramma die zijn goedgekeurd door de minister.   
+1.  De examens ter verkrijging van een klein vaarbewijs, een beperkt groot vaarbewijs, een groot vaarbewijs, een verklaring praktijkexamen vaartijd en een verklaring praktijkexamen matroos worden afgenomen met inachtneming van een examenreglement en een examenprogramma die zijn goedgekeurd door de minister.   
 2.  De minister keurt het examenreglement en het examenprogramma slechts goed indien deze naar zijn oordeel voldoende waarborgen bevatten dat de vereiste kennis en bekwaamheid van de kandidaat naar behoren worden onderzocht.   
 
 ### §  5  
@@ -1745,7 +1825,7 @@ b. een praktijkexamen dat bij internationale regeling of door een bevoegde autor
 ### Artikel  7.22  
 
 1.  Een aanvraag tot afgifte van een duplicaat wordt door de houder van het vaarbewijs ingediend bij de instantie die door de minister is belast met de afgifte van het vaarbewijs, onder vermelding van de reden.   
-2.  Indien het vaarbewijs verloren is geraakt, wordt een bewijs van aangifte bij de plaatselijke politie tegelijk met de aanvraag overgelegd.   
+2.  Indien het vaarbewijs verloren is geraakt, wordt een bewijs van aangifte bij de politie tegelijk met de aanvraag overgelegd.   
 3.  Voor zover het vaarbewijs nog aanwezig is, wordt dit tegelijk met de aanvraag overgelegd.   
 4.  Indien de houder van een verloren geraakt vaarbewijs dit weer tot zijn beschikking heeft gekregen, levert hij dit vaarbewijs onverwijld in bij de instantie die door de minister is belast met de afgifte van het vaarbewijs.   
 
@@ -1761,7 +1841,7 @@ b. een praktijkexamen dat bij internationale regeling of door een bevoegde autor
 
 ### Artikel  7.24  
 
-1.  De instanties die belast zijn met de afgifte van vaarbewijzen stellen het Korps Landelijke Politiediensten alsmede de Zeehavenpolitie te Rotterdam onverwijld schriftelijk in kennis van: 
+1.  De instanties die belast zijn met de afgifte van vaarbewijzen stellen de Landelijke eenheid alsmede de dienst Zeehavenpolitie van de regionale eenheid Rotterdam onverwijld schriftelijk in kennis van: 
 
 a. de ongeldigverklaring voor de gehele of gedeeltelijke geldigheidsduur van een vaarbewijs;  
 
@@ -1796,7 +1876,7 @@ e. het ICC coastal.
 
 ### Artikel  8.1  
 
-De Minister verstrekt een Rijnvaartverklaring, bedoeld in [artikel 2, tweede lid, onderdeel a van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), indien wordt voldaan aan het bepaalde in de artikelen 3 tot en met 5 van de bijlage bij verordening (EEG) 2919/85.  
+De Minister verstrekt een Rijnvaartverklaring, bedoeld in artikel 2, tweede lid, onderdeel a van het besluit, indien wordt voldaan aan het bepaalde in de artikelen 3 tot en met 5 van de bijlage bij verordening (EEG) 2919/85.  
 
 ### Artikel  8.2  
 
@@ -1805,12 +1885,16 @@ De Minister verstrekt een Rijnvaartverklaring, bedoeld in [artikel 2, tweede li
 
 ### Artikel  8.3  
 
-1.  De Minister verstrekt een bewijs van toelating, bedoeld in [artikel 2, tweede lid, onderdeel b, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), indien wordt voldaan aan het bepaalde in artikel 4, tweede lid, van de herziene Rijnvaartakte.   
+1.  De Minister verstrekt een bewijs van toelating, bedoeld in artikel 2, tweede lid, onderdeel b, van het besluit, indien wordt voldaan aan het bepaalde in artikel 4, tweede lid, van de herziene Rijnvaartakte.   
 2.  Het bewijs van toelating wordt vastgesteld overeenkomstig het model opgenomen in bijlage 8.3 bij deze regeling.   
+
+### Artikel  8.3a  
+
+Van de verplichting bedoeld in artikel 2, tweede lid, van het Binnenvaartbesluit, zijn vrijgesteld veerponten die de stroom dwars oversteken.  
 
 ### Artikel  8.4  
 
-Als geëigend document, bedoeld in [artikel 2, tweede lid, onderdeel c, van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), zijn aangewezen de attesten, bedoeld in artikel 2, derde lid, van Verordening (EEG) nr. 3921/91 van de Raad van de Europese Gemeenschappen van16 december 1991 tot vaststelling van de voorwaarden waaronder vervoersondernemers worden toegelaten tot binnenlands goederen- en personenvervoer over de binnenwateren in een Lid-Staat waar zij niet gevestigd zijn (PbEG L 373).  
+Als geëigend document, bedoeld in artikel 2, tweede lid, onderdeel c, van het besluit, zijn aangewezen de attesten, bedoeld in artikel 2, derde lid, van Verordening (EEG) nr. 3921/91 van de Raad van de Europese Gemeenschappen van16 december 1991 tot vaststelling van de voorwaarden waaronder vervoersondernemers worden toegelaten tot binnenlands goederen- en personenvervoer over de binnenwateren in een Lid-Staat waar zij niet gevestigd zijn (PbEG L 373).  
 
 ### Artikel  8.5  
 
@@ -1826,7 +1910,7 @@ b. ten kantore van de eigenaar of de exploitant van dat binnenschip.
 
 ### Artikel  9.1  
 
-Het registratienummer, bedoeld in [artikel 30 van het besluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), wordt op het binnenschip aangebracht op de plaats en wijze, bedoeld in [artikel 2.01, eerste lid, onder a, van het Rijnvaartpolitiereglement 1995](../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) met inachtneming van het bepaalde in [artikel 2.01, derde lid, van dat reglement](../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md).  
+Het registratienummer, bedoeld in artikel 30 van het besluit, wordt op het binnenschip aangebracht op de plaats en wijze, bedoeld in artikel 2.01, eerste lid, onder a, van het Rijnvaartpolitiereglement 1995 met inachtneming van het bepaalde in artikel 2.01, derde lid, van dat reglement.  
 
 ### Artikel  9.2  
 
@@ -1856,29 +1940,30 @@ i. het identificatienummer, klasse en cijfer van de vervoerde stof in geval van 
 
 ### Artikel  10.1  
 
-Als ambtenaren in de zin van [artikel 40, eerste lid, onderdeel b, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat die belast zijn met toezicht en opsporing.  
+Als ambtenaren in de zin van artikel 40, eerste lid, onderdeel b, van de wet worden aangewezen de ambtenaren van de Inspectie Leefomgeving en Transport die belast zijn met toezicht en opsporing.  
 
 ### Artikel  10.2  
 
-Als ambtenaren in de zin van [artikel 40, tweede lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) worden aangewezen de ambtenaren van: 
+Als ambtenaren in de zin van artikel 40, tweede lid, van de wet worden aangewezen de ambtenaren, onderscheidenlijk medewerkers, van: 
 
-a. Haven Amsterdam;  
+a. de divisie Havenmeester van Havenbedrijf Amsterdam N.V.;  
 
-b. het directoraat-generaal Rijkswaterstaat van het ministerie van Verkeer en Waterstaat;  
+b. het directoraat-generaal Rijkswaterstaat van het Ministerie van Infrastructuur en Milieu;  
 
-c. het Havenbedrijf NV, Divisie Havenmeester, te Rotterdam;  
+c. de divisie Havenmeester van Havenbedrijf Rotterdam N.V.;  
 
 d. de Arbeidsinspectie.    
 
 ### Artikel  10.3  
 
-1.  Als ambtenaren in de zin van [artikel 40, tweede lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) worden aangewezen de ambtenaren van de in artikel 10.4 genoemde provincies, gemeenten onderscheidenlijk waterschappen die daartoe door het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur als zodanig zijn aangesteld.   
-2.  Het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur stelt slechts ambtenaren aan die naar zijn oordeel voldoende bekwaam zijn ter zake van de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en van toezicht of opsporing.   
+1.  Als ambtenaren in de zin van artikel 40, tweede lid, van de wet worden aangewezen de ambtenaren van de in artikel 10.4 genoemde provincies, gemeenten onderscheidenlijk waterschappen die daartoe door het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur als zodanig zijn aangesteld.   
+2.  Het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur stelt slechts ambtenaren aan die naar zijn oordeel voldoende bekwaam zijn ter zake van de wet en van toezicht of opsporing.   
 
 ### Artikel  10.4  
 
 1.  De in artikel 10.3, eerste lid, bedoelde provincies zijn: Fryslân, Groningen en Overijssel.   
 2.  De in artikel 10.3, eerste lid, bedoelde gemeenten zijn: Aalsmeer en Amsterdam.   
+3.  Het in artikel 10.3, eerste lid, bedoelde waterschap is: Rivierenland.   
 
 ### Hoofdstuk  11  
 
@@ -1886,8 +1971,8 @@ d. de Arbeidsinspectie.
 
 ### Artikel  11.1  
 
-1.  De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de [artikelen 5, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [6, eerste lid en zesde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [7, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [8, derde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [10, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [11](../../../wet/binnenvaartwet/BWBR0023009/README.md), [12](../../../wet/binnenvaartwet/BWBR0023009/README.md), [13, vierde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [21, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [22, negende lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [23, eerste lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [36, vierde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [37, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), [43, tweede lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), en [46, tweede lid, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) zijn opgenomen in tabel 1 in bijlage 11.1 bij deze regeling.   
-2.  De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de [artikelen 39c, derde lid](../../../wet/binnenvaartwet/BWBR0023009/README.md), en [39e, van de wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) zijn opgenomen in tabel 2 in bijlage 11.1 bij deze regeling.   
+1.  De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de artikelen 5, eerste lid, 6, eerste lid en zesde lid, 7, eerste lid, 8, derde lid, 10, tweede lid, 11, 12, 13, vierde lid, 21, eerste lid, 22, negende lid, 23, eerste lid, 25, vierde lid en vijfde lid, 31, vierde lid, 33, tweede lid, 36, vierde lid, 37, tweede lid, 38, zevende lid, 43, tweede lid, en 46, tweede lid, van de wet zijn opgenomen in tabel 1 in bijlage 11.1 bij deze regeling.   
+2.  De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de artikelen 39c, derde lid, en 39e, van de wet zijn opgenomen in tabel 2 in bijlage 11.1 bij deze regeling.   
 
 ### Hoofdstuk  12  
 
@@ -1900,27 +1985,27 @@ d. de Arbeidsinspectie.
 ### Artikel  12.1  
 
 1.  Op binnenschepen die niet onder het toepassingsbereik van richtlijn nr. 82/714/EEG van de Raad van de Europese Gemeenschappen van 4 oktober 1982 tot het vaststellen van de technische voorschriften voor binnenschepen (PbEG L 301) vielen, maar wel onder het toepassingsbereik van de richtlijn vallen, is artikel 8, tweede, derde en vierde lid, van richtlijn 2006/87/EG van toepassing.   
-2.  Als tekortkomingen die geen klaarblijkelijk gevaar opleveren als bedoeld in artikel 8, tweede lid, tweede alinea, van richtlijn 2006/87/EG worden in ieder geval de tekortkomingen gerekend die voor binnenschepen als bedoeld in het eerste lid voortvloeien uit de tot het in werking treden van de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md) toegepaste overgangsbepalingen van het [Binnenschepenbesluit](../../../AMvB/binnenschepenbesluit/BWBR0004196/README.md) zoals dat op dat moment luidde.   
-3.  In aanvulling op het tweede lid geldt voor bestaande zeilende passagiersschepen dat de tekortkomingen die voortvloeien uit de overgangsbepalingen met betrekking tot de [artikelen 9.01 en 9.02 van bijlage VII](../../../AMvB/binnenschepenbesluit/BWBR0004196/README.md) en de [artikelen 9.01 en 9.06 van bijlage III van het Binnenschepenbesluit](../../../AMvB/binnenschepenbesluit/BWBR0004196/README.md), zoals dat luidde bij het in werking treden van de [wet](../../../wet/binnenvaartwet/BWBR0023009/README.md), tot uiterlijk tien jaar vanaf de datum van het eerste onderzoek na 27 september 2000 zijn toegestaan.   
+2.  Als tekortkomingen die geen klaarblijkelijk gevaar opleveren als bedoeld in artikel 8, tweede lid, tweede alinea, van richtlijn 2006/87/EG worden in ieder geval de tekortkomingen gerekend die voor binnenschepen als bedoeld in het eerste lid voortvloeien uit de tot het in werking treden van de wet toegepaste overgangsbepalingen van het Binnenschepenbesluit zoals dat op dat moment luidde.   
+3.  In aanvulling op het tweede lid geldt voor bestaande zeilende passagiersschepen dat de tekortkomingen die voortvloeien uit de overgangsbepalingen met betrekking tot de artikelen 9.01 en 9.02 van bijlage VII en de artikelen 9.01 en 9.06 van bijlage III van het Binnenschepenbesluit, zoals dat luidde bij het in werking treden van de wet, tot uiterlijk tien jaar vanaf de datum van het eerste onderzoek na 27 september 2000 zijn toegestaan.   
 
 ### Artikel  12.2  
 
-Ten aanzien van een binnenschip waarvan het vlak van de grootste toegelaten diepgang bij de laatste meting is vastgesteld volgens [artikel 5 van het Metingsbesluit Binnenvaartuigen 1978](../../../AMvB/metingsbesluit/binnenvaartuigen/1978/BWBR0003246/README.md), zoals dit luidde voor de inwerkingtreding van het [besluit van 23 maart 1998, houdende wijziging van het Metingsbesluit Binnenvaartuigen 1978](../../../AMvB/wijzigingsbesluit/metingsbesluit/binnenvaartuigen/1978/BWBR0009497/README.md), kan bij hermeting het vlak van de grootste toegelaten diepgang op verzoek van de belanghebbende worden vastgesteld met toepassing van dat artikel, mits het vaartuig sinds de laatste meting geen verbouwing heeft ondergaan die van invloed kan zijn op de vaststelling van dat vlak.  
+Ten aanzien van een binnenschip waarvan het vlak van de grootste toegelaten diepgang bij de laatste meting is vastgesteld volgens artikel 5 van het Metingsbesluit Binnenvaartuigen 1978, zoals dit luidde voor de inwerkingtreding van het besluit van 23 maart 1998, houdende wijziging van het Metingsbesluit Binnenvaartuigen 1978, kan bij hermeting het vlak van de grootste toegelaten diepgang op verzoek van de belanghebbende worden vastgesteld met toepassing van dat artikel, mits het vaartuig sinds de laatste meting geen verbouwing heeft ondergaan die van invloed kan zijn op de vaststelling van dat vlak.  
 
 ### Artikel  12.3  
 
-1.  Vaarbewijzen, afgegeven overeenkomstig de [Regeling vaststelling model klein vaarbewijs](../../../ministeriele-regeling/regeling/vaststelling/model/klein/vaarbewijs/2001/BWBR0012771/README.md) onderscheidenlijk de [Regeling vaststelling model groot vaarbewijs](../../../ministeriele-regeling/regeling/vaststelling/model/groot/vaarbewijs/2001/BWBR0012244/README.md), blijven geldig met inachtneming van die regelingen, totdat hun geldigheid is verstreken.   
+1.  Vaarbewijzen, afgegeven overeenkomstig de Regeling vaststelling model klein vaarbewijs onderscheidenlijk de Regeling vaststelling model groot vaarbewijs, blijven geldig met inachtneming van die regelingen, totdat hun geldigheid is verstreken.   
 2.  Klein vaarbewijzen en groot pleziervaartbewijzen, afgegeven krachtens deze regeling vóór 1 januari 2010 blijven geldig totdat hun geldigheid is verstreken.   
-3.  Dienstboekjes, vaartijdenboeken, Rijnpatenten, attesten en andere documenten, afgegeven vóór 1 juli 2011 op grond van [hoofdstuk 23 van het RosR 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), het [Patentreglement Rijn](../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) of het [Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen](../../../ministeriele-regeling/reglement/veiligheidspersoneel/passagiersschepen/BWBR0025994/README.md), blijven geldig totdat hun geldigheid is verstreken.   
+3.  Dienstboekjes, vaartijdenboeken, Rijnpatenten, attesten en andere documenten, afgegeven vóór 1 juli 2011 op grond van hoofdstuk 23 van het RosR 1995, het Patentreglement Rijn of het Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen, blijven geldig totdat hun geldigheid is verstreken.   
 
 ### Artikel  12.4  
 
-Ambtenaren die op het moment voor inwerkingtreding van de wet krachtens aanwijzing door de Minister bevoegd waren tot toezicht op de naleving of tot opsporing van het bepaalde bij of krachtens de [Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md), de [Wet vaartijden en bemanningssterkte binnenvaart](../../../wet/wet/vaartijden/en/bemanningssterkte/binnenvaart/BWBR0006029/README.md), de [Wet vervoer binnenvaart](../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md) of de Herziene Rijnvaartakte, behouden die bevoegdheid tot 31 december 2009 of zoveel eerder als zij ingevolge hoofdstuk 10 worden aangewezen onderscheidenlijk van hun bevoegdheid tot toezicht of opsporing worden ontheven.  
+Ambtenaren die op het moment voor inwerkingtreding van de wet krachtens aanwijzing door de Minister bevoegd waren tot toezicht op de naleving of tot opsporing van het bepaalde bij of krachtens de Binnenschepenwet, de Wet vaartijden en bemanningssterkte binnenvaart, de Wet vervoer binnenvaart of de Herziene Rijnvaartakte, behouden die bevoegdheid tot 31 december 2009 of zoveel eerder als zij ingevolge hoofdstuk 10 worden aangewezen onderscheidenlijk van hun bevoegdheid tot toezicht of opsporing worden ontheven.  
 
 ### Artikel  12.5  
 
 1.  De tot 1 juli 2009 door de Stichting Commissie Watersport Opleidingen te Nieuwegein afgegeven diploma’s CWO groot motorschip alsook het door Scouting Nederland afgegeven diploma Machtiging voor bootleiding (MBL) M3 gelden als het in artikel 7.8, derde lid, onderdeel a, bedoelde door de Stichting VAMEX afgegeven diploma.   
-2.  Gedurende twee jaar na inwerkingtreding van de wet geldt een krachtens de [Binnenschepenwet](../../../wet/binnenschepenwet/BWBR0003443/README.md) afgegeven klein vaarbewijs als het in artikel 7.8 bedoelde groot pleziervaartbewijs.   
+2.  Gedurende twee jaar na inwerkingtreding van de wet geldt een krachtens de Binnenschepenwet afgegeven klein vaarbewijs als het in artikel 7.8 bedoelde groot pleziervaartbewijs.   
 
 ### §  2  
 
@@ -1956,7 +2041,7 @@ Wijzigt de Regeling tarieven scheepvaart 2005.
 
 ### Artikel  13.1  
 
-Deze regeling treedt gelijktijdig in werking met de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md).  
+Deze regeling treedt gelijktijdig in werking met de Binnenvaartwet.  
 
 ### Artikel  13.2  
 
@@ -1971,19 +2056,19 @@ J.C.Huizinga-Heringa
 
 ####: Reglement onderzoek schepen op de Rijn 1995 als bedoeld in artikel 1.6, eerste lid 
 
-[Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md)  
+Reglement onderzoek schepen op de Rijn 1995  
 
 ### Bijlage  1.9  
 
 ####als bedoeld in artikel 1.9 
 
-[Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (Rsp) 
+Reglement betreffende het scheepvaartpersoneel op de Rijn (Rsp) 
 
 ### Bijlage  2.1  
 
 ####: Model bewijsstuk historische vakbekwaamheid als bedoeld in artikel 2.4, tweede lid 
 
-![244732](http://wetten.overheid.nl/Illustration/244732)
+![]()
 
 ### Bijlage  3.1  
 
@@ -2651,7 +2736,7 @@ d. indien tussen zonsondergang en zonsopgang wordt gevaren: een geschikte draagb
 
 2. Indien op rondvaartboten waarvan het tijdstip van aanvang van de bouw gelegen is voor 22 december 1990 niet aan de eisen van artikel 7 wordt voldaan, kan de minister een afwijking daarvan toestaan onder beperking van het ten hoogste toegestane aantal passagiers op het schip ofwel in de betrokken ruimte, mits voorzieningen zijn getroffen die naar het redelijk oordeel van de minister voldoende waarborg bieden voor de veiligheid van het schip en de opvarenden.  
 
-3. De artikelen opgenomen in [kolom 2 van artikel 11.02 van bijlage III van het Binnenschepenbesluit](../../../AMvB/binnenschepenbesluit/BWBR0004196/README.md) zijn, in aanvulling op [artikel 42, tweede lid, van het Binnenschepenbesluit](../../../AMvB/binnenschepenbesluit/BWBR0004196/README.md) niet van toepassing bij het onderzoek van bestaande rondvaartboten bij gebruik op bepaalde binnenwateren van de zone 4, overeenkomstig de artikelen 3, tweede lid, en 7 van deze regeling, met dien verstande dat naar het redelijk oordeel van de minister geen reden tot twijfel bestaat aan de veiligheid van de opvarenden en aan de stabiliteit van het beladen schip, en dat de omstandigheden die op grond van eerdere lokale verordeningen zijn aanvaard, overeenkomstig van toepassing zijn.    
+3. De artikelen opgenomen in kolom 2 van artikel 11.02 van bijlage III van het Binnenschepenbesluit zijn, in aanvulling op artikel 42, tweede lid, van het Binnenschepenbesluit niet van toepassing bij het onderzoek van bestaande rondvaartboten bij gebruik op bepaalde binnenwateren van de zone 4, overeenkomstig de artikelen 3, tweede lid, en 7 van deze regeling, met dien verstande dat naar het redelijk oordeel van de minister geen reden tot twijfel bestaat aan de veiligheid van de opvarenden en aan de stabiliteit van het beladen schip, en dat de omstandigheden die op grond van eerdere lokale verordeningen zijn aanvaard, overeenkomstig van toepassing zijn.    
 
 ### Artikel  15  
 
@@ -2719,7 +2804,7 @@ De begripsbepalingen van artikel 1.01 van bijlage II van richtlijn 2006/87/EG z
 
 ####Toepassing van richtlijn 2006/87/EG
 
-Onverminderd het in deze bijlage bepaalde voldoen veerponten aan hoofdstuk 3 tot en met hoofdstuk 15 van bijlage II van richtlijn 2006/87/EG, met uitzondering van de volgende artikelen in de richtlijn: 
+Onverminderd het in deze bijlage bepaalde voldoen veerponten aan hoofdstuk 3 tot en met hoofdstuk 15 alsmede hoofdstuk 24a van bijlage II van richtlijn 2006/87/EG, met uitzondering van de volgende artikelen in de richtlijn: 
 
 a. 3.03, eerste tot en met vijfde lid;  
 
@@ -2899,9 +2984,9 @@ d. een belading met voertuigen als bedoeld in artikel 4.5.
 
 2. Voor niet-vrijvarende veerponten behoeft niet te worden gerekend met een kenterend moment ten gevolge van een middelpuntvliedende kracht veroorzaakt door roergeven.  
 
-3. Het kenterend moment Mw veroorzaakt door de invloed van de winddruk, wordt berekend met de formule: M <sub>w</sub> 5 p <sub>w</sub>. Fsh <sub>w</sub> 1[ (T:2)d] In deze formule betekent: pw: specifieke winddruk voor zone 2: 20 kg/m <sup>2</sup>; voor zone 3: 10 kg/m <sup>2</sup>; voor zone 4: 10 kg/m <sup>2</sup>; F: het zijdelings oppervlak van het schip boven het vlak van de grootste inzinking in m <sup>2</sup>; hw: de afstand van het zwaartepunt van het zijdelings oppervlak F boven het vlak van de grootste inzinking in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m.  
+3. Het kenterend moment Mw veroorzaakt door de invloed van de winddruk, wordt berekend met de formule: Mw= Pw . F . ( hw + T/2) In deze formule betekent: pw: specifieke winddruk voor zone 2: 20 kg/m <sup>2</sup>; voor zone 3: 10 kg/m <sup>2</sup>; voor zone 4: 10 kg/m <sup>2</sup>; F: het zijdelings oppervlak van het schip boven het vlak van de grootste inzinking in m <sup>2</sup>; hw: de afstand van het zwaartepunt van het zijdelings oppervlak F boven het vlak van de grootste inzinking in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m.  
 
-4. Het kenterend moment Mdr veroorzaakt door de middelpuntvliedende kracht bij roergeven, wordt berekend met de formule: M <sub>dr</sub> 5 0,5 .[ (D:Lwl)] . sGK [2(T:2)d] In deze formule betekent: D: waterverplaatsing van het geladen schip in tonnen; Lwl: de lengte, gemeten op het vlak van de grootste inzinking: GK: de afstand van het gewichtszwaartepunt van het geladen schip tot de bovenkant van de kiel in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m. Indien de slagzij van het geladen schip in de draaicirkel proefondervindelijk wordt vastgesteld, wordt de aldus verkregen waarde gerekend. Deze proef moet bij halve snelheid van het schip, bij volle belading en de onder deze omstandigheden kleinst mogelijk diameter van de draaicirkel worden uitgevoerd.    
+4. Het kenterend moment Mdr veroorzaakt door de middelpuntvliedende kracht bij roergeven, wordt berekend met de formule: M <sub>dr</sub> = 0,5 . D/Lwl . (GK – T/2) In deze formule betekent: D: waterverplaatsing van het geladen schip in tonnen; Lwl: de lengte, gemeten op het vlak van de grootste inzinking: GK: de afstand van het gewichtszwaartepunt van het geladen schip tot de bovenkant van de kiel in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m. Indien de slagzij van het geladen schip in de draaicirkel proefondervindelijk wordt vastgesteld, wordt de aldus verkregen waarde gerekend. Deze proef moet bij halve snelheid van het schip, bij volle belading en de onder deze omstandigheden kleinst mogelijk diameter van de draaicirkel worden uitgevoerd.    
 
 ### Artikel  4.4  
 
@@ -3177,7 +3262,7 @@ De begripsbepalingen in artikel 1.01 van bijlage II van richtlijn 2006/87/EG zi
 
 ####Toepassing van richtlijn 2006/87/EG
 
-1. Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan hoofdstuk 3 tot en met hoofdstuk 15 van bijlage II van richtlijn 2006/87/EG met uitzondering van de artikelen: 4.01 tot en met 4.03, 15.02, tweede tot en met dertiende lid, 15.03, 15.04, 15.05, tweede lid, 15.07, 15.09, eerste lid, tweede alinea.    
+Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan hoofdstuk 3 tot en met hoofdstuk 15 alsmede hoofdstuk 24a van bijlage II van richtlijn 2006/87/EG met uitzondering van de artikelen: 4.01 tot en met 4.03, 15.02, tweede tot en met dertiende lid, 15.03, 15.04, 15.05, tweede lid, 15.07, 15.09, eerste lid, tweede alinea.  
 
 ### Hoofdstuk  2  
 
@@ -3335,9 +3420,9 @@ c. een belading met een voertuig, als bedoeld in artikel 4.5, tweede lid.
 
 3. Bij de in het eerste en tweede lid bedoelde berekeningen behoeft geen rekening te worden gehouden met de invloed van eventueel aanwezige dwarsschroeven.  
 
-4. Het kenterend moment Mw veroorzaakt door de invloed van de winddruk, wordt berekend met de formule: M <sub>w</sub> 5 p <sub>w</sub>. Fsh <sub>w</sub> 1[ (T:2)d] In deze formule betekent pw: specifieke winddruk: voor zone 2: 20 kg/m <sup>2</sup>; voor zone 3: 10 kg/m <sup>2</sup>; voor zone 4: 10 kg/m <sup>2</sup>; F: het zijdelings oppervlak van het schip boven het vlak van de grootste inzinking in m <sup>2</sup>; hw: de afstand van het zwaartepunt van het zijdelings oppervlak F boven het vlak van de grootste inzinking in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m.  
+4. Het kenterend moment Mw veroorzaakt door de invloed van de winddruk, wordt berekend met de formule: Mw= Pw . F . ( hw + T/2) In deze formule betekent pw: specifieke winddruk: voor zone 2: 20 kg/m <sup>2</sup>; voor zone 3: 10 kg/m <sup>2</sup>; voor zone 4: 10 kg/m <sup>2</sup>; F: het zijdelings oppervlak van het schip boven het vlak van de grootste inzinking in m <sup>2</sup>; hw: de afstand van het zwaartepunt van het zijdelings oppervlak F boven het vlak van de grootste inzinking in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m.  
 
-5. Het kenterend moment Mdr veroorzaakt door de middelpuntvliedende kracht bij roergeven, wordt berekend met de formule: M <sub>dr</sub> 5 0,5 .[ (D:Lwl)] . sGK [2(T:2)d] In deze formule betekent: D: waterverplaatsing van het geladen schip in tonnen; Lwl: de lengte, gemeten op het vlak van de grootste inzinking: GK: de afstand van het gewichtszwaartepunt van het geladen schip tot de bovenkant van de kiel in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m. Indien de slagzij van het geladen schip in de draaicirkel proefondervindelijk wordt vastgesteld, wordt de aldus verkregen waarde gerekend. Deze proef moet bij halve snelheid van het schip, bij volle belading en de onder deze omstandigheden kleinst mogelijk diameter van de draaicirkel worden uitgevoerd.    
+5. Het kenterend moment Mdr veroorzaakt door de middelpuntvliedende kracht bij roergeven, wordt berekend met de formule: M <sub>dr</sub> = 0,5 . D/Lwl . (GK – T/2) In deze formule betekent: D: waterverplaatsing van het geladen schip in tonnen; Lwl: de lengte, gemeten op het vlak van de grootste inzinking: GK: de afstand van het gewichtszwaartepunt van het geladen schip tot de bovenkant van de kiel in m; T: de gemiddelde diepgang tot het vlak van de grootste inzinking in m. Indien de slagzij van het geladen schip in de draaicirkel proefondervindelijk wordt vastgesteld, wordt de aldus verkregen waarde gerekend. Deze proef moet bij halve snelheid van het schip, bij volle belading en de onder deze omstandigheden kleinst mogelijk diameter van de draaicirkel worden uitgevoerd.    
 
 ### Artikel  4.4  
 
@@ -3496,7 +3581,7 @@ d. zij zijn voorzien van middelen om de aandacht op zich te vestigen, zoals bijv
 5. Per scheepszijde zijn noodontschepingsmiddelen als bedoeld in het vierde lid volgens onderstaande tabel aanwezig, afhankelijk van het grootste aantal passagiers dat in geval van nood daarvan gebruik maakt. Dit aantal wordt bepaald overeenkomstig artikel 6.1.  
 
 | Grootste aantal passagiers  | Aantal ontschepingsladders  | Aantal ontschepingsglijbanen  |
-|:---|:---|:---|
+|---|---|---|
 | 0 t/m 750  | 1  | –  |
 | 751 t/m 1000  | 2  | –  |
 | 1001 t/m 1375  | 2  | 1  |
@@ -3622,7 +3707,7 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 *onderdeks gelegen ladingzone:* het geheel der ruimte, gelegen tussen twee verticale vlakken loodrecht op het langsscheepse vlak van het bunkerstation, die de ladingtanks, de ladingtankruimte, de kofferdammen, de pompkamer, de zijtanks en de dubbele bodems omvat, waarbij deze vlakken in de regel samenvallen met de uiterste kofferdamschotten of met de schotten die de ladingtankruimte begrenzen, met dien verstande, dat de onderdeks gelegen dienstruimten niet tot de ladingzone worden gerekend;  
 
-*VBG:*[Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md).    
+*VBG:*Regeling vervoer over de binnenwateren van gevaarlijke stoffen.    
 
 3. In deze bijlage wordt onder de onderstaande begrippen verstaan hetgeen daaronder wordt verstaan in Deel 1, 1.2.1 van bijlage 1 van de VBG: 
 
@@ -3731,7 +3816,7 @@ De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie
 1. De inhoud van een ladingtank is niet groter dan het aantal kubieke meters bepaald aan de hand van onderstaande tabel:  
 
 | L × B × H in m <sup>3</sup>  | Maximaal toelaatbare inhoud van de ladingtank in m <sup>3</sup>  |
-|:---|:---|
+|---|---|
 | tot 600  | L × B × H × 0,3  |
 | 600–3750  | 180 + (L × B × H – 600) × 0, 0635  |
 | meer dan 3750  | 380  |
@@ -4573,7 +4658,7 @@ a. de artikelen van deze bijlage, met hun onderwerp genoemd in de bij dit artike
 b. bouw en uitrusting worden ten minste op de huidige stand met betrekking tot de veiligheid gehouden.  
 
 | Artikel  | Onderwerp  |
-|:---|:---|
+|---|---|
 | 3, achtste lid  | Materialen in woningen etc.  |
 | 5  | Ladingtankruimten en ladingtanks  |
 | 6  | Indeling  |
@@ -4867,7 +4952,7 @@ s. meertrossen zijn vervaardigd van plantaardige vezels, met inbegrip van Manill
 
 t. duidelijke opschriften met de tekst ‘Gesloten houden langszijde van schepen met gevaarlijke stoffen’ zijn geplaatst bij alle openingen en toegangen in dek en opbouw; en  
 
-u. aan boord is de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md) aanwezig.    
+u. aan boord is de Regeling vervoer over de binnenwateren van gevaarlijke stoffen aanwezig.    
 
 2. Op een geschikte plaats in het stuurhuis van deze patrouillevaartuigen zijn instructies aanwezig, waarin is vermeld dat tijdens het ligplaats nemen langszijde van schepen als bedoeld in artikel 9, eerste lid, aan boord van het schip geen vuur of onbeschermd licht aanwezig mag zijn en dat het dan verboden is om aan boord van het schip te roken. Tevens is in de instructies vermeld dat bij enigerlei dreiging, verband houdende met de gevaarlijke stoffen aan boord van het schip waarbij langszijde ligplaats wordt genomen, het rijksvaartuig zich onmiddellijk tot op een veilige afstand moet verwijderen.  
 
@@ -4899,10 +4984,10 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 ####Certificaat van onderzoek bunkerstations
 
-![244733](http://wetten.overheid.nl/Illustration/244733)
+![]()
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | KONINKRIJK DER NEDERLANDEN  |
 | De Minister van Infrastructuur en Milieu  |
 |  *Certificaat Nr.: CVOB nr*   |
@@ -4937,7 +5022,7 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 Pakketten van scheepstypen 
 
 | --- |
-|:---|
+|---|
 |  *Pakket 1a. Tankschepen gevaarlijke stoffen onder klasse*   |
 | Dit pakket is bij wet voorbehouden aan klassenbureaus  |
 | --- |
@@ -5118,10 +5203,10 @@ b. Indien in het middenschip vijf wijdten gemeten zijn: Oppervlakte = 1/12 Lv ×
 
 9. Duidt men de vlakken te beginnen van onderen, aan door letters A, B, enz., dan is de inhoud van: 
 
-a. de 1e schijf =   ![244735](http://wetten.overheid.nl/Illustration/244735)
+a. de 1e schijf =   ![]()
 × h;  
 
-b. de 2e schijf =   ![244735](http://wetten.overheid.nl/Illustration/244735)
+b. de 2e schijf =   ![]()
 × h enz.,   waarin h de hoogte van de schijf voorstelt: welke hoogte behalve in de bovenste schijf, steeds één decimeter is. De hoogte van de bovenste schijf kan worden bepaald met een nauwkeurigheid van tiende delen van een centimeter.  
 
 10. In iedere schijf wordt een verplaatsing voor elke centimeter inzinking verkregen door de inhoud van de schijf te delen door haar hoogte, uitgedrukt in centimeters.  
@@ -5130,7 +5215,7 @@ b. de 2e schijf =   ![244735](http://wetten.overheid.nl/Illustration/244735)
 
 12. De afmetingen worden zoveel mogelijk buitenwerks genomen.  
 
-13. De volgende figuur behoort bij het in de voorgaande leden bepaalde:   ![244735](http://wetten.overheid.nl/Illustration/244735)
+13. De volgende figuur behoort bij het in de voorgaande leden bepaalde:   ![]()
 
 ### Artikel  7  
 
@@ -5140,15 +5225,15 @@ Voor binnenschepen die niet bestemd zijn of gebruikt worden voor het vervoer van
 
 1. Nadat de lengte (l <sub>1</sub>) van het vlak van lege inzinking van het volledig uitgeruste schip is bepaald, wordt op de helft van deze lengte de diepgang (d <sub>1</sub>) vastgesteld, alsmede de maximum breedte (b <sub>1</sub>) in dit vlak van inzinking.  
 
-2. De lengte van de waterlijn in genoemd vlak wordt in 6 à 8 delen verdeeld en de breedten op de deelpunten bepaald. Bij een geknikte vorm van de waterlijn wordt de lengte op het knikpunt eerst in delen verdeeld en de aldus ontstane delen op de omschreven wijze te worden gemeten. Bij het berekenen van het waterlijn-oppervlak (O) dient de regel van Simpson te worden gebruikt. Hierna wordt de volheidscoëfficient (c) van de waterlijn bepaald met: De formule   ![244739](http://wetten.overheid.nl/Illustration/244739)
-De blokcoëfficiënt (c <sub>1</sub>) van het lege vaartuig wordt bij benadering bepaald uit de formule c <sub>1</sub> = c √c. De waterverplaatsing (V <sub>1</sub>) van het lege vaartuig wordt daarna als volgt gevonden: V <sub>1</sub> = I <sub>1</sub> × b1 × d <sub>1</sub> × c <sub>1</sub>. De waterverplaatsing (V <sub>2</sub>) tot de lastlijn is gelijk aan V <sub>1</sub> vermeerderd met het totale gewicht van de belading (B), als omschreven in artikel 6: V <sub>2</sub> = V <sub>1</sub> + B. De laadhoogte (h) wordt gevonden uit de formule:   ![244739](http://wetten.overheid.nl/Illustration/244739)
+2. De lengte van de waterlijn in genoemd vlak wordt in 6 à 8 delen verdeeld en de breedten op de deelpunten bepaald. Bij een geknikte vorm van de waterlijn wordt de lengte op het knikpunt eerst in delen verdeeld en de aldus ontstane delen op de omschreven wijze te worden gemeten. Bij het berekenen van het waterlijn-oppervlak (O) dient de regel van Simpson te worden gebruikt. Hierna wordt de volheidscoëfficient (c) van de waterlijn bepaald met: De formule   ![]()
+De blokcoëfficiënt (c <sub>1</sub>) van het lege vaartuig wordt bij benadering bepaald uit de formule c <sub>1</sub> = c √c. De waterverplaatsing (V <sub>1</sub>) van het lege vaartuig wordt daarna als volgt gevonden: V <sub>1</sub> = I <sub>1</sub> × b1 × d <sub>1</sub> × c <sub>1</sub>. De waterverplaatsing (V <sub>2</sub>) tot de lastlijn is gelijk aan V <sub>1</sub> vermeerderd met het totale gewicht van de belading (B), als omschreven in artikel 6: V <sub>2</sub> = V <sub>1</sub> + B. De laadhoogte (h) wordt gevonden uit de formule:   ![]()
 Daaruit volgt de diepgang (d <sub>2</sub>) tot de lastlijn d <sub>2</sub> = d <sub>1</sub> + h. Deze diepgang mag evenwel niet groterzijn dan de toelaatbare diepgang verkregen bij toepassing van artikel 5. Als de diepgang (d <sub>2</sub>) kleineris dan de toelaatbare diepgang, verkregen bij toepassing van artikel 5, volgt de waterverplaatsing tot de lastlijn uit de formule: V <sub>2</sub> = V <sub>1</sub> + h × O. In zodanig geval, waarbij de lastlijn lager geplaatst is dan bij toepassing van artikel 5 het geval zou zijn, kan de belanghebbende overeenkomstig het vierde lid van artikel 4.8 van hoofdstuk 5, het lager plaatsen van de lastlijn schriftelijk verzoeken. De waterverplaating tussen de vlakken van lege en beladen diepgang bedraagt: V <sub>3</sub> = h × O.  
 
 3. Voor vaartuigen met een rechthoekige vorm zoals baggermolens, woonschepen en dergelijke, kunnen de waterverplaatsingen op eenvoudiger wijze gevonden worden. Hierbij wordt rekening gehouden met eventuele afrondingen van de romp, oplopende gedeelten van het vlak en een open bun.  
 
 4. Bij de binnenschepen bedoeld in het derde lid worden geen opvolgende waterverplaatsingen per centimeter inzinking tussen het vlak van inzinking van het lege vaartuig en de lastlijn bepaald, terwijl zij in verband daarmede ook niet van ijkschalen worden voorzien.  
 
-5. De volgende figuur behoort bij het in het eerste lid, eerste volzin bepaalde:   ![244739](http://wetten.overheid.nl/Illustration/244739)
+5. De volgende figuur behoort bij het in het eerste lid, eerste volzin bepaalde:   ![]()
 
 ### Artikel  8  
 
@@ -5168,9 +5253,9 @@ b. het nummer van de meetbrief.
 
 5. Indien belanghebbende verzoekt om ijkschalen, worden deze door inbeitelingen in de huid van het vaartuig aangebracht op een wijze als door de minister nader te bepalen.  
 
-6. De volgende figuur behoort bij het tweede en derde lid:   ![244741](http://wetten.overheid.nl/Illustration/244741)
+6. De volgende figuur behoort bij het tweede en derde lid:   ![]()
 
-7. De volgende figuur behoort bij het vierde lid:   ![244741](http://wetten.overheid.nl/Illustration/244741)
+7. De volgende figuur behoort bij het vierde lid:   ![]()
 
 ### Artikel  9  
 
@@ -5197,7 +5282,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 ####: Minimumbemanning van hechte samenstellen als bedoeld in artikel 5.6, vierde lid 
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden  bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1. Afmeting van het samenstel  L ≤ 37 m  B ≤ 15 m  | schipper  stuurman  volmatroos  matroos****  lichtmatroos  machinist of matroos-motordrijver  | 1  –  –  1  –  –  | --- | 2  –  –  –  –  –  | --- | 2  –  –  1  1*  –  | 2  –  –  –  2* ***  –  |
 | 2. Afmeting van het samenstel  37 m < L ≤ 86m  B ≤ 15 m  | schipper  stuurman  volmatroos  matroos****  lichtmatroos  machinist of matroos-motordrijver  | 1 of  –  1  –  –  –  | 1  –  –  1  1  –  | 1  –  –  1  1  –  *****  | 2  –  –  –  1*  –  | --- | 2  –  –  2  –  –  | 2  –  –  1  1  –  |
 | 3. Duwboot + 1 duwbak met L > 86 m of afmeting van het samenstel 86 m < L ≤ 116,5 m B ≤ 15 m  | schipper  stuurman  volmatroos  matroos****  lichtmatroos  machinist of matroos-motordrijver  | 1 of  1  –  1  –  –  *****  | 1  1  –  –  2  –  | 1  1  –  1  –  | 2  –  –  1  1*  –  | 2  –  –  –  2*  –  | 2 of  1  –  2  –  –  | 2  1**  –  1  –  –  | 2  1  –  1  1  –  |
@@ -5212,7 +5297,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 ####: Minimumbemanning voor schepen voor dagtochten als bedoeld in artikel 5.6, vierde lid 
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden  bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1. Toegestaan aantal passagiers:  tot en met 75  | schipper  stuurman  volmatroos  matroos**  lichtmatroos  machinist of matroos-motordrijver  | 1  –  –  1  –  –  | --- | 2  –  –  1  –  –  | --- | 2  –  –  2  –  –  | 2  –  –  1  1  –  |
 | 2. Toegestaan aantal passagiers:  van 76 tot en met 250  | schipper  stuurman  volmatroos  matroos**  lichtmatroos  machinist of matroos-motordrijver  | 1 of  –  –  1  1  –  | 1  –  –  –  –  1  | 1  –  –  1  1  –  | 2  –  –  –  1*  1  | --- | 2  –  –  1  1*  1  | --- |
 | 3. Toegestaan aantal passagiers:  van 251 tot en met 600  | schipper  stuurman  volmatroos  matroos**  lichtmatroos  machinist of matroos-motordrijver  | 1 of  –  1  –  –  1  | 1  –  1  –  2  –  | 1  –  1  –  1  –  | 2  –  –  1  –  1  | 2  –  –  –  1  1  | 3  –  –  1  –  1  | 3  –  –  –  1  1  |
@@ -5227,7 +5312,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 ####: Minimumbemanning voor stoomschepen voor dagtochten als bedoeld in artikel 5.6, vierde lid 
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden  bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1. Toegestaan aantal passagiers:  van 501 tot en met 1000  | schipper  | 1  | 1  | 2  | 2  | --- | 3  | --- | 3  |
 | stuurman  | 1  | 1  | –  | –  | –  | –  |
 | volmatroos  | –  | –  | –  | –  | –  | –  |
@@ -5249,7 +5334,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 ####: Minimumbemanning voor hotelschepen als bedoeld in artikel 5.6, vierde lid 
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden  bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  |
-|:---|:---|:---|
+|---|---|---|
 | A1  | A2  | B  |
 | S1  | S2  | S1  | S2  | S1  | S2  |
 | 1. Toegestaan aantal bedden:  tot en met 50  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of matroos-motordrijver  | 1  –  1  –  –  1  | 1  –  –  –  2  1  | 2  –  –  1  –  1  | 2  –  –  –  1  1  | 3  –  –  1  –  1  | 3  –  –  –  1  1  |
@@ -5263,7 +5348,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 <sup> 1  Indien zonder passagiers gevaren wordt, kan volstaan worden met een schipper, een stuurman, een 1e machinist en een 2e machinist.  </sup>  
 
 | Groep naar toegestaan aantal passagiers  | Bemanningsleden  | Aantal bemanningsleden  |
-|:---|:---|:---|
+|---|---|---|
 | 1. max. 300 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  –  |
 | 2. max. 600 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  1  |
 | 3. max. 900 passagiers  | schipper  stuurman  1 <sup>e</sup> machinist  2 <sup>e</sup> machinist <sup>2</sup>  matroos  lichtmatroos  | 1  1  1  1  1  2  |
@@ -5278,7 +5363,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 ####: Minimumbemanning voor sleepschepen als bedoeld in artikel 5.6, vierde lid 
 
 | Groepen naar lengte (L) van het schip  | Bemanningsleden  | Aantal bemanningsleden bij exploitatiewijze  | A1  | A2  | B  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | L ≤ 55 m  | schipper  | 1  | 1  | 2  |
 | volmatroos  | 0  | 1  | 0  |
 | L > 55 m en L ≤ 86 m  | schipper  | 1  | 2  | 2  |
@@ -5294,7 +5379,7 @@ Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk
 De minimumbemanning van sleepboten bestaat uit:  
 
 | Groepen naar het vermogen P van de voortstuwingsmotoren in kW  | Bemanningsleden  | Aantal bemanningsleden bij exploitatiewijze  | A1  | A2  | B  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1. P < 500  | schipper  | 1  | 1  | 2  |
 | matroos  | 1 *  | 1  | –  |
 | 2. 500 > P < 1250 **  | schipper  | 1  | 2  | 2  |
@@ -5302,12 +5387,12 @@ De minimumbemanning van sleepboten bestaat uit:
 | 3. 1250 > P < 3750 **  | schipper  | 1  | 2  | 2  |
 | matroos-motordrijver  | 1  | 1  | 1  |
 | matroos  | 1  | 1  | 2  |
-| 4. P > 3750  | Wordt individueel door de Minister van Verkeer en Waterstaat vastgesteld.  |
+| 4. P > 3750  | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld.  |
 
-* Voor de vaart op de Rijn buiten Nederland bestaat de minimumbemanning uit een schipper en een matroos. De matroos is binnenlands niet nodig. ** Indien een schip, ingedeeld in groep 2 dan wel in groep 3, voldoet aan de volgende bepalingen betreffende de bouw en de inrichting wordt de minimumbemanning verminderd met één matroos: a. alle belangrijke bedieningsapparatuur en signalerings- en controle instrumenten voor de hoofdaandrijfinstallaties, de stroomvoorziening en overige voor het bedrijf belangrijke installaties, zijn in het stuurhuis aangebracht; b. een schip dat is ingedeeld in groep 2 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een kaapstander of een draadberglier; c. een schip dat is ingedeeld in groep 3 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een draadberglier; d. sleeplieren en draadberglieren kunnen zowel vanaf het dek als vanaf de brug worden bediend; e. er is een noodbediening waarmee de sleeplier dan wel de sleephaak kan worden gevierd c.q. geslipt, welke ook in geval van stroomuitval vanaf het dek is verzekerd; f. stuurstellingen op de brug zijn zodanig geplaatst en uitgevoerd dat bij alle voorkomende manoeuvreeromstandigheden een volledig overzicht door degene die het vaartuig voert, is gegarandeerd; g. bedieningsapparatuur is aangebracht binnen het bereik van degene die het vaartuig voert. Zowel bij de bedieningsplaats voor de sleeplier dan wel de draadberglier als op de plaats waar signalerings- en controle instrumenten kunnen worden waargenomen, is voldoende ruimte aanwezig zodat de bediening van de sleeplier dan wel de draadberglier door degene die het vaartuig voert niet bemoeilijkt wordt bij het uitvoeren van zijn werkzaamheden; h. het schip is voorzien van een radarinstallatie, waarvan het radarbeeld zonder kap of scherm, ongeacht de buiten het stuurhuis heersende lichtomstandigheden, duidelijk zichtbaar is; i. door adequate middelen is gewaarborgd dat onder alle weersomstandigheden door de ruiten die in de belangrijkste blikrichtingen zijn gelegen, helder zicht mogelijk is; j. gemeenschappelijke reddingmiddelen zijn zodanig opgesteld dat zij door slechts één bemanningslid te water kunnen worden gelaten; k. regelbare dekverlichting voor het belichten van de sleeplijn, die vanuit het stuurhuis kan worden bediend, is geïnstalleerd. De lampen voor het werkdek zijn zo geplaatst en zodanig uitgevoerd dat een ongestoorde verlichting van het werkdek is verzekerd en voorts geen gevaar bestaat voor verblinding van degene die het vaartuig voert. Hierbij is met name rekening gehouden met het geval van mist; en l. De Minister van Verkeer en Waterstaat geeft een verklaring af waaruit blijkt dat wordt voldaan aan deze bepalingen. De minimumbemanning van sleepboten gedurende de tijd dat havensleepdiensten worden verricht bestaat uit:  
+* Voor de vaart op de Rijn buiten Nederland bestaat de minimumbemanning uit een schipper en een matroos. De matroos is binnenlands niet nodig. ** Indien een schip, ingedeeld in groep 2 dan wel in groep 3, voldoet aan de volgende bepalingen betreffende de bouw en de inrichting wordt de minimumbemanning verminderd met één matroos: a. alle belangrijke bedieningsapparatuur en signalerings- en controle instrumenten voor de hoofdaandrijfinstallaties, de stroomvoorziening en overige voor het bedrijf belangrijke installaties, zijn in het stuurhuis aangebracht; b. een schip dat is ingedeeld in groep 2 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een kaapstander of een draadberglier; c. een schip dat is ingedeeld in groep 3 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een draadberglier; d. sleeplieren en draadberglieren kunnen zowel vanaf het dek als vanaf de brug worden bediend; e. er is een noodbediening waarmee de sleeplier dan wel de sleephaak kan worden gevierd c.q. geslipt, welke ook in geval van stroomuitval vanaf het dek is verzekerd; f. stuurstellingen op de brug zijn zodanig geplaatst en uitgevoerd dat bij alle voorkomende manoeuvreeromstandigheden een volledig overzicht door degene die het vaartuig voert, is gegarandeerd; g. bedieningsapparatuur is aangebracht binnen het bereik van degene die het vaartuig voert. Zowel bij de bedieningsplaats voor de sleeplier dan wel de draadberglier als op de plaats waar signalerings- en controle instrumenten kunnen worden waargenomen, is voldoende ruimte aanwezig zodat de bediening van de sleeplier dan wel de draadberglier door degene die het vaartuig voert niet bemoeilijkt wordt bij het uitvoeren van zijn werkzaamheden; h. het schip is voorzien van een radarinstallatie, waarvan het radarbeeld zonder kap of scherm, ongeacht de buiten het stuurhuis heersende lichtomstandigheden, duidelijk zichtbaar is; i. door adequate middelen is gewaarborgd dat onder alle weersomstandigheden door de ruiten die in de belangrijkste blikrichtingen zijn gelegen, helder zicht mogelijk is; j. gemeenschappelijke reddingmiddelen zijn zodanig opgesteld dat zij door slechts één bemanningslid te water kunnen worden gelaten; k. regelbare dekverlichting voor het belichten van de sleeplijn, die vanuit het stuurhuis kan worden bediend, is geïnstalleerd. De lampen voor het werkdek zijn zo geplaatst en zodanig uitgevoerd dat een ongestoorde verlichting van het werkdek is verzekerd en voorts geen gevaar bestaat voor verblinding van degene die het vaartuig voert. Hierbij is met name rekening gehouden met het geval van mist; en l. De Minister van Infrastructuur en Milieu geeft een verklaring af waaruit blijkt dat wordt voldaan aan deze bepalingen. De minimumbemanning van sleepboten gedurende de tijd dat havensleepdiensten worden verricht bestaat uit:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Paaltrek*** F < 15 ton  | 1 schipper  |
 | 1 matroos  |
 | 15 > F ≤ 25 ton  | 1 schipper  |
@@ -5315,7 +5400,7 @@ De minimumbemanning van sleepboten bestaat uit:
 | 25 > F ≤ 75 ton  | 1 schipper  |
 | 1 matroos-motordrijver  |
 | 2 matrozen  |
-| F > 75 ton  | Wordt individueel door de Minister van verkeer en Waterstaat vastgesteld.  |
+| F > 75 ton  | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld.  |
 
 *** Paaltrek: de maximale trekkracht die het schip via een sleepdraad kan uitoefenen op een te slepen object als aangegeven op een certificaat, afgegeven door een binnen de sfeer van de sleepvaart algemeen daartoe erkende organisatie. Indien geen certificaat betreffende de paaltrek wordt overgelegd, wordt voor de paaltrek een trekkracht aangenomen van 20 kg/kW van het geïnstalleerde voortstuwingsvermogen. 
 
@@ -5326,7 +5411,7 @@ De minimumbemanning van sleepboten bestaat uit:
 De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, maar niet meer dan 40 km per uur, kunnen bereiken bestaat uit:  
 
 | Groepen toegestane aantal passagiers  | Bemanningsleden  | Aantal bemanningsleden bij exploitatiewijze  | Dagvaart  | Semi continuvaart  | Continuvaart  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1. tot en met 75 personen  | Schipper  Matroos  | 1  1  | 2  1  | 2  2  |
 | 2. van 76 tot en met 250 personen  | Schipper  matroos-motordrijver  Lichtmatroos  | 1  1*  –  | 2  1*  1**  | 2  2*  1**  |
 | 3. van 251 tot en met 600 personen  | Schipper  Volmatroos  Matroos-motordrijver  | 1  1  1*  | 2  –  2*  | 3  –  2*  |
@@ -5334,7 +5419,7 @@ De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, 
 * Op wateren van de zone 3 en 4 mag de matroos-motordrijver worden vervangen door een matroos. ** De lichtmatroos is ten minste 18 jaar oud.  De minimumbemanning van veerponten die een snelheid van meer dan 40 km per uur kunnen bereiken bestaat uit: 
 
 | Groepen toegestane aantal passagiers  | Bemanningsleden  | Aantal bemanningsleden bij exploitatiewijze  | Dagvaart  | Semi continuvaart  | Continuvaart  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1. tot en met 75 personen  | Schipper  Matroos  | 2  –  | 3  –  | 4  –  |
 | 2. van 76 tot en met 250 personen  | Schipper  Matroos  Lichtmatroos  | 2  –  –  | 3  –  1**  | 4  –  1**  |
 | 3. van 251 tot en met 600 personen  | Schipper  | 2  | 3  | 4  |
@@ -5581,13 +5666,27 @@ c. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen besc
 
 ### Artikel  17  
 
-####Aandoeningen of gevolgen na een ongeval die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de functie in een der ledematen die voor de uit te oefenen arbeid naar het oordeel van de minister van belang zijn
+####Aandoeningen die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de functie in een der ledematen die voor de uit te voeren handelingen van belang zijn
 
 1. Bovenste extremiteiten: de functie van armen en handen moet voldoende zijn voor de bediening van het roer, de motor en de andere voor de navigatie en veilige vaart benodigde apparatuur. In geval van verminking of amputatie is een goed functionerende prothese toegestaan, eventueel onder aanpassing van de bovengenoemde bedieningsorganen.  
 
 2. Onderste extremiteiten: in geval van verminking of amputatie is een goed functionerende prothese toegestaan.  
 
-3. In noodgevallen moet de aanvrager zonder prothese en zonder hulp van anderen, in hoog tempo, zijn weg kunnen vinden via trappen en (vlucht)gangen.    
+3. In noodgevallen moet de aanvrager zonder prothese en zonder hulp van anderen, in hoog tempo, zijn weg kunnen vinden via trappen en (vlucht)gangen.  
+
+4. In afwijking van het eerste tot en met derde lid is voor de keuring ter verkrijging van het klein vaarbewijs dat uitsluitend voor de pleziervaart wordt gebruikt verminderd functioneren van de extremiteiten toegestaan indien de aanvrager het schip, eventueel met aangepaste bedieningsorganen, naar het oordeel van de medisch adviseur scheepvaart, veilig kan besturen. Hierbij geldt voor: 
+
+a. schepen met een lengte tot en met 25 meter, dat: 
+
+1° functieverlies van de benen is toegestaan indien de aanvrager door middel van zijn benen, eventueel voorzien van een prothese of prothesen, zelfstandig aan en van boord kan gaan en de bedieningsorganen zelfstandig kan bedienen;  
+
+2° functieverlies van de benen is toegestaan indien de aanvrager gezeten in een rolstoel zelfstandig aan en van boord kan gaan, en de inrichting van een stuurhut en overig binnenwerk zodanig zijn dat een veilige besturing van het schip vanuit de rolstoel mogelijk is;  
+
+3° functieverlies van één der armen is toegestaan indien de aanvrager in staat is de besturingsorganen met de andere arm te bedienen.    
+
+b. schepen met een lengte tot en met 6 meter, dat: functieverlies van de benen is toegestaan indien de aanvrager op armkracht zelfstandig van en aan boord kan gaan en zelfstandig de bestuursorganen kan bedienen.    
+
+5. Het vierde lid, onderdeel a, onder 2, geldt alleen voor een specifiek aangepast schip. De aanpassingen worden aangetekend op het vaarbewijs.    
 
 ### Artikel  18  
 
@@ -5599,16 +5698,16 @@ c. de geldigheidsduur van de geneeskundige verklaring bij de uitzonderingen besc
 
 ### Bijlage  6.2  
 
-####: Model geneeskundige verklaring binnenvaart als bedoeld in artikel 6.5, eerste lid 
+####: geneeskundige verklaring binnenvaart als bedoeld in artikel 6.5, eerste lid 
 
-![244742](http://wetten.overheid.nl/Illustration/244742)
-![244742](http://wetten.overheid.nl/Illustration/244742)
+![]()
+![]()
 
 ### Bijlage  6.3  
 
 ####: Model verklaring van medische ongeschiktheid als bedoeld in artikel 6.6, eerste lid 
 
-![244743](http://wetten.overheid.nl/Illustration/244743)
+![]()
 
 ### Bijlage  6.4  
 
@@ -5669,12 +5768,12 @@ Aanvragers van het klein vaarbewijs moeten voldoen aan de keuringseisen voor de 
 14. De aard van de aandoening, behandeling, laatste keer symptomen met/zonder medicatie, prognose.    
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Aantekening bij vraag .....  |
 | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naamstempel en handtekening arts  |
 | --- |
 
@@ -5734,7 +5833,7 @@ i. op grond van de Herziene Rijnvaartakte afgegeven vaarbewijzen:
 
 – groot patent;  
 
-– klein patent.      
+– klein patent, voor wat betreft het beperkt groot vaarbewijs.      
 
 ### 1.2  
 
@@ -5804,7 +5903,13 @@ m. van de Republiek Bulgarije:
 
 – Свидетелство за правоспособност „Щурман вътрешно плаване’ (bewijs van beroepsbekwaamheid voor dekofficieren in de binnenvaart) (Наредба № 6 от 25.7.2003 г. на министъра на транспорта и съобщенията за компетентност на морските лица в Република България, обн. ДВ, бр.83 от 2003 г. In overeenstemming met Verordening nr. 6 van 25 juli 2003 van de minister van Vervoer en Communicatie inzake de beroepsbekwaamheid van zeevarenden in de Republiek Bulgarije, DV nr. 83/2003);    
 
-n. van Roemenië: brevet de cãpitan fluvial categoria B (vaarbewijs B) (in overeenstemming met besluit nr. 984/04.7.2001 van de minister van Openbare Werken, Vervoer en Huisvesting houdende goedkeuring van de verordening betreffende de afgifte van nationale bewijzen van beroepsbekwaamheid voor personeel voor de binnenvaart M.Of., p. I, nr. 441/6.VIII.2001).    
+n. van Roemenië: brevet de cãpitan fluvial categoria B (vaarbewijs B) (in overeenstemming met besluit nr. 984/04.7.2001 van de minister van Openbare Werken, Vervoer en Huisvesting houdende goedkeuring van de verordening betreffende de afgifte van nationale bewijzen van beroepsbekwaamheid voor personeel voor de binnenvaart M.Of., p. I, nr. 441/6.VIII.2001);  
+
+o. van de Republiek Kroatië: 
+
+– Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis Zapovjednik – vrsta A/Schiffsführer – Klasse A (bewijs van beroepsbekwaamheid – Schipper type A);  
+
+– Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis Zapovjednik – vrsta B/Schiffsführer – Klasse B (bewijs van beroepsbekwaamheid – Schipper type B)   (overeenkomstig het decreet inzake beroepstitels en -kwalificaties van schippers, Staatsblad nr. 73/09).    
 
 ### 1.3  
 
@@ -5862,27 +5967,29 @@ b. van de Bondsrepubliek Duitsland:
 
 – de in onderdeel 1.1 van bijlage 7.1 genoemde bewijzen van vaarbekwaamheid;  
 
-– de diploma’s stuurman/schipper, kapitein en bootman zoals opgenomen in het Centraal Register Beroepsopleidingen met codes 10650, 10651, 93110, 93030, 95630 en 95640.    
+– de diploma’s stuurman/schipper, kapitein en bootman zoals opgenomen in het Centraal Register Beroepsopleidingen met codes 10650, 10651, 93110, 93030, 95630 en 95640;  
+
+– het groot patent, bedoeld in artikel 6.04, eerste lid, onderdeel a, van het Rsp.    
 
 1.2 Voor het groot vaarbewijs en beperkt groot vaarbewijs op rivieren, kanalen en meren: 
 
 – de in onderdeel 1.2 van bijlage 7.1 genoemde bewijzen van vaarbekwaamheid;  
 
-– het groot patent bedoeld in [artikel 6.04, eerste lid, onderdeel a, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+– het groot patent bedoeld in artikel 6.04, eerste lid, onderdeel a, van het Rsp;  
 
-– het krachtens [artikel 9.02, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) geldige Rijnschipperspatent en groot patent.    
+– het krachtens artikel 9.02, eerste lid, van het Rsp geldige Rijnschipperspatent en groot patent.    
 
 1.3 Voor het klein vaarbewijs op alle binnenwateren: 
 
 – de onder 1.1 genoemde bewijzen;  
 
-– de in de onderdelen 1.1 en 1.2 van bijlage 7.1 genoemde bewijzen van vaarbekwaamheid;  
-
 – het door het Koninkrijk België afgegeven ‘brevet yachtman’ en ‘brevet yachtnavigator;  
 
 – het door de Bondsrepubliek Duistland afgegeven ‘Sportbootführerschein-See’;  
 
-– het door het Korps Landelijke Politiediensten na 31 maart 1994 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op alle binnenwateren;  
+– het door de Landelijke eenheid na 31 december 2012 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op alle binnenwateren;  
+
+– het door het Korps Landelijke Politiediensten tussen 31 maart 1994 en 1 januari 2013 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op alle binnenwateren;  
 
 – het door het Korps Rijkspolitie tussen 1 november 1984 en 1 april 1994 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op alle binnenwateren;  
 
@@ -5890,15 +5997,15 @@ b. van de Bondsrepubliek Duitsland:
 
 – het door het Genie Opleidingscentrum in de periode van 1 januari 1996 tot en met 15 juli 2009 afgegeven militair vaarbewijs voor de vaart op alle binnenwateren;  
 
-– het door de Defensie Vaarschool te Den Helder in de periode van 1 juni 2008 tot 1 januari 2014 afgegeven militair vaarbewijs voor de vaart op alle binnenwateren;  
+– het door de Defensie Vaarschool te Den Helder in de periode van 1 januari 2014 tot 1 januari 2019 afgegeven militair vaarbewijs voor de vaart op alle binnenwateren;  
 
 – de in de onderdelen 1 tot en met 6 van tabel 3 van deze bijlage genoemde diploma’s en getuigschriften, samen met het klein vaarbewijs I dan wel het getuigschrift ter verkrijging van dat vaarbewijs;  
 
 – de diploma’s eerste en tweede stuurman voor de grote handelsvaart of het kennisbewijs Hoger/Middelbaar Maritiem Officier, bedoeld in de onderdelen 1 respectievelijk 3 van tabel 3 van deze bijlage, samen met het getuigschrift van de centrale opleiding van adspirant-loodsen;  
 
-– de in de onderdelen 1 en 3 van tabel 3 van deze bijlage genoemde diploma’s en getuigschriften, samen met het diploma NAUTOP 3 van de opleiding nautisch personeel van het Ministerie van Verkeer en Waterstaat;  
+– de in de onderdelen 1 en 3 van tabel 3 van deze bijlage genoemde diploma’s en getuigschriften, samen met het diploma NAUTOP 3 van de opleiding nautisch personeel van het Ministerie van Infrastructuur en Milieu;  
 
-– het diploma aspirant schipper van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, in combinatie met: 
+– het diploma aspirant schipper van het CBR, in combinatie met: 
 
 a. het diploma beperkt examen klein vaarbewijs, type VBD en VBA, van de Stichting Vamex;  
 
@@ -5916,19 +6023,21 @@ d. het diploma beperkt examen klein vaarbewijs (VBD) van de Stichting Vamex en h
 
 – het door de Bondsrepubliek Duitsland afgegeven ‘Sportbootführerschein-Binnen’ en ‘Sportschifferzeugnis’;  
 
-– het sportpatent bedoeld in [artikel 6.04, eerste lid, onderdeel c, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md);  
+– het sportpatent bedoeld in artikel 6.04, eerste lid, onderdeel c, van het Rsp;  
 
-– het krachtens [artikel 9.02, eerste lid, van het Rsp](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) geldige sportpatent;  
+– het krachtens artikel 9.02, eerste lid, van het Rsp geldige sportpatent;  
 
-– het door het Korps Landelijke Politiediensten na 31 maart 1994 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op rivieren, kanalen en meren;  
+– het door de Landelijke eenheid na 31 december 2012 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op rivieren, kanalen en meren;  
+
+– het door het Korps Landelijke Politiediensten tussen 31 maart 1994 en 1 januari 2013 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op rivieren, kanalen en meren;  
 
 – het door het Korps Rijkspolitie tussen 1 november 1984 en 1 april 1994 afgegeven vaarbekwaamheidsbewijs politie voor het besturen van een klein politievaartuig op rivieren, kanalen en meren;  
 
 – het door het Genie Opleidingscentrum in de periode van 1 januari 1996 tot en met 15 juli 2009 afgegeven militair vaarbewijs voor de vaart op kanalen, rivieren en meren;  
 
-– het door de Defensie Vaarschool te Den Helder in de periode van 1 juni 2008 tot 1 januari 2014 afgegeven militair vaarbewijs voor de vaart op kanalen, rivieren en meren;  
+– het door de Defensie Vaarschool te Den Helder in de periode van 1 januari 2014 tot 1 januari 2019 afgegeven militair vaarbewijs voor de vaart op kanalen, rivieren en meren;  
 
-– het diploma aspirant schipper van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, in combinatie met: 
+– het diploma aspirant schipper van het CBR, in combinatie met: 
 
 a. het diploma beperkt examen klein vaarbewijs, type VBD, of  
 
@@ -5939,7 +6048,7 @@ b. een, door middel van een dienstboekje aantoonbare, vaartijd van 150 dagen.
 ####Erkende diploma’s die vrijstelling geven van onderdelen van het examen voor het groot vaarbewijs en beperkt groot vaarbewijs
 
 | Diploma  | Reglementen 1  | Reglementen 2  | Navigatie 1  | Navigatie 2  | Kennisvaarwater  | Laden en lossen  | Motorkennis  | Kennis schip  | Veiligheid en milieu  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | Middelbare beroepsopleiding RenB (WVO)  | V  | V  | --- | --- | V  | V  | V  | V  | V  |
 | Middelbare beroepsopleiding Baggerbedrijf (WVO)  | V  | V  | --- | --- | V  | V  | V  | V  | V  |
 | Matroos (WCBO)  | 1#  | --- | --- | --- | --- | --- | --- | V  | --- |
@@ -5974,6 +6083,7 @@ b. een, door middel van een dienstboekje aantoonbare, vaartijd van 150 dagen.
 | CWO groot motorschip  | V  | V  | V  | V  | V  | --- | V  | --- | V  |
 | MBO scheepsbouwkunde  | --- | --- | --- | --- | --- | --- | --- | V  | --- |
 | Maritiem waterbouwer en BOL Baggeraar/Stuurman  | --- | V  | --- | V  | --- | V  | V  | V  | V  |
+| Verklaring praktijkexamen vaartijd als bedoeld in art. 7.19a, onderdeel a , van de Binnenvaartregeling  | --- | --- | V  | --- | --- | --- | --- | --- | --- |
 
 V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrijstelling 
 
@@ -5982,10 +6092,10 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 ####Erkende diploma’s en opleidingen die vrijstelling geven van onderdelen van het examen voor het klein vaarbewijs
 
 | Diploma’s en opleidingen  | Vrijstelling examenonderdelen  |
-|:---|:---|
-| 1. De volgende diploma’s , bedoeld in de Wet op de zeevaartdiploma’s, de Wet op de zeevischvaartdiploma’s 1935 of de [Zeevaartbemanningswet](../../../wet/wet/zeevarenden/BWBR0009124/README.md):  eerste stuurman voor de grote handelsvaart;  tweede stuurman voor de grote handelsvaart;  derde stuurman voor de grote handelsvaart;  stuurman voor de kleine handelsvaart;  stuurman voor de beperkte kleine handelsvaart;  stuurman voor de grote sleepvaart;  stuurman voor de kustsleepvaart;  stuurman voor de zeevisvaart;  zeevisvaart SW VI;  zeevisvaart SW V;  zeevisvaart S IV (v);  zeevisvaart W IV (v).  | Ter verkrijging van klein vaarbewijs II: A1 tot en met A3 en B tot en met F  |
+|---|---|
+| 1. De volgende diploma’s , bedoeld in de Wet op de zeevaartdiploma’s, de Wet op de zeevischvaartdiploma’s 1935 of de Wet zeevarenden:  eerste stuurman voor de grote handelsvaart;  tweede stuurman voor de grote handelsvaart;  derde stuurman voor de grote handelsvaart;  stuurman voor de kleine handelsvaart;  stuurman voor de beperkte kleine handelsvaart;  stuurman voor de grote sleepvaart;  stuurman voor de kustsleepvaart;  stuurman voor de zeevisvaart;  zeevisvaart SW VI;  zeevisvaart SW V;  zeevisvaart S IV (v);  zeevisvaart W IV (v).  | Ter verkrijging van klein vaarbewijs II: A1 tot en met A3 en B tot en met F  |
 | 2. Een verklaring afgegeven door de Commissie voor de stuurliedenexamens voor de zeevaart of zeevisvaart ter verkrijging van een onder 1 genoemd diploma.  | --- |
-| 3. De volgende diploma’s of getuigschriften van een school, als bedoeld in [artikel 14, eerste lid, van de Wet op het Voortgezet Onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md):  schooldiploma of -getuigschrift BS;  schooldiploma HTS, afdeling navigatie;  schooldiploma S IV voor de kleine handelsvaart;  schooldiploma SW VI voor de zeevisvaart;  schooldiploma SW V voor de zeevisvaart;  schooldiploma S IV voor de zeevisvaart;  schooldiploma W IV voor de zeevisvaart;  kennisbewijs stuurman grote en kleine zeilvaart;  kennisbewijs Hoger/Middelbaar Maritiem Officier;  kennisbewijs stuurman/werktuigkundige kleine schepen;  kennisbewijs wachtstuurman;  kennisbewijs baggeraar/stuurman;  kennisbewijs wachtstuurman tot 3000 GT;  kennisbewijs schipper/machinist beperkt werkgebied.  | --- |
+| 3. De volgende diploma’s of getuigschriften van een school, als bedoeld in artikel 14, eerste lid, van de Wet op het Voortgezet Onderwijs:  schooldiploma of -getuigschrift BS;  schooldiploma HTS, afdeling navigatie;  schooldiploma S IV voor de kleine handelsvaart;  schooldiploma SW VI voor de zeevisvaart;  schooldiploma SW V voor de zeevisvaart;  schooldiploma S IV voor de zeevisvaart;  schooldiploma W IV voor de zeevisvaart;  kennisbewijs stuurman grote en kleine zeilvaart;  kennisbewijs Hoger/Middelbaar Maritiem Officier;  kennisbewijs stuurman/werktuigkundige kleine schepen;  kennisbewijs wachtstuurman;  kennisbewijs baggeraar/stuurman;  kennisbewijs wachtstuurman tot 3000 GT;  kennisbewijs schipper/machinist beperkt werkgebied.  | --- |
 | 4. Onderofficier (operationele dienst) van de nautische dienst, luitenant ter zee (zeedienst) of reserve-officier voor speciale diensten (zeedienst) van de Koninklijke Marine.  | --- |
 | 5. Een van de volgende diploma’s of getuigschriften voor de vaart ter zee afgegeven vóór 11 december 1982:  certificaat Navigator Zeezeilen, afgegeven door het Instituut Klop;  certificaat theoretische kustnavigatie en certificaat navigatie voor gevorderden, afgegeven door de Stichting zeezeilschool ‘Noorderhaaks’ te Den Helder;  diploma B (kustvaart), afgegeven door de Koninklijke Nederlandsche Motorboot Club.  | --- |
 | 6. Het certificaat Theoretische Kust Navigatie, afgegeven door het Koninklijk Nederlands Watersport Verbond.  | --- |
@@ -5997,12 +6107,12 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 
 ####Model-groot vaarbewijs A en B voor de binnenvaart
 
-(85 mm × 54 mm – achtergrond blauw)   ![244744](http://wetten.overheid.nl/Illustration/244744)
+(85 mm × 54 mm – achtergrond blauw)   ![]()
 (achterzijde)  
 
 ####Model-Beperkt groot vaarbewijs A en B voor de binnenvaart
 
-(85 mm × 54 mm – achtergrond blauw)   ![244745](http://wetten.overheid.nl/Illustration/244745)
+(85 mm × 54 mm – achtergrond blauw)   ![]()
 (achterzijde)  
 
 ####Model-klein vaarbewijs/ICC voor de binnenvaart
@@ -6010,7 +6120,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 (85 mm x 54 mm – achtergrond blauw)  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | NL INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT  |
 | KLEIN VAARBEWIJS I/II  |
 | Pasfoto 6  | 1.  | --- |
@@ -6026,7 +6136,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 | --- | --- | --- |
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT  (resolution 40 of the UN/ECE Working Party On Inland Water Transport)  | CERTIFICATE INTERNATIONAL DE CONDUCTEUR DE BATEAU DE PLA’SANCE  (Résolution No. 40 de groupe de travail CEE-ONU des transports par voie navigable)  |
 | --- | --- | --- |
 | 1. ACHTERNAAM  | SURNAME  | NOM  |
@@ -6053,7 +6163,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 
 ####Model-vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype
 
-(85 mm × 54 mm – achtergrond blauw)   ![244747](http://wetten.overheid.nl/Illustration/244747)
+(85 mm × 54 mm – achtergrond blauw)   ![]()
 (achterzijde)  
 
 ####Model-groot pleziervaartbewijs/ICC
@@ -6061,7 +6171,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 (85 mm x 54 mm – achtergrond blauw)  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | NL INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT  |
 | GROOT PLEZIERVAARTBEWIJS I/II  |
 | Pasfoto 6  | 1.  | --- |
@@ -6077,7 +6187,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 | --- | --- | --- |
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT  (resolution 40 of the UN/ECE Working Party On Inland Water Transport)  | CERTIFICATE INTERNATIONAL DE CONDUCTEUR DE BATEAU DE PLA’SANCE  (Résolution No. 40 de groupe de travail CEE-ONU des transports par voie navigable)  |
 | --- | --- | --- |
 | 1. ACHTERNAAM  | SURNAME  | NOM  |
@@ -6100,7 +6210,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 
 ####Model-zeilbewijs
 
-(85 mm × 54 mm – achtergrond blauw)   ![244749](http://wetten.overheid.nl/Illustration/244749)
+(85 mm × 54 mm – achtergrond blauw)   ![]()
 (achterzijde)  
 
 ### Bijlage  7.5  
@@ -6110,7 +6220,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 (85 mm x 54 mm – achtergrond blauw)  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | NL INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT  |
 | Pasfoto 6  | 1.  | --- |
 | --- | 2.  | 5.  |
@@ -6125,7 +6235,7 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 | --- | --- | --- |
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT  (resolution 40 of the UN/ECE Working Party On Inland Water Transport)  | CERTIFICATE INTERNATIONAL DE CONDUCTEUR DE BATEAU DE PLA’SANCE  (Résolution No. 40 de groupe de travail CEE-ONU des transports par voie navigable)  |
 | --- | --- | --- |
 | 1. ACHTERNAAM  | SURNAME  | NOM  |
@@ -6150,20 +6260,20 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 
 ####: Model rijnvaartverklaring als bedoeld in artikel 8.2, eerste lid 
 
-![244750](http://wetten.overheid.nl/Illustration/244750)
+![]()
 
 ### Bijlage  8.2  
 
 ####: Model verklaring, als bedoeld in artikel 8.2, tweede lid 
 
-![244751](http://wetten.overheid.nl/Illustration/244751)
+![]()
 
 ### Bijlage  8.3  
 
 ####: Model bewijs van toelating als bedoeld in artikel 8.3 
 
-![244753](http://wetten.overheid.nl/Illustration/244753)
-![244753](http://wetten.overheid.nl/Illustration/244753)
+![]()
+![]()
 
 ### Bijlage  11.1  
 
@@ -6171,57 +6281,33 @@ V = volledige vrijstelling # = nummer van de eindterm betreft gedeeltelijke vrij
 
 Tabel 1A. Rijn, Waal en Lek 
 
-| Artikelen in: [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) (BVW) [Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) (BVB) Binnenvaartregeling (BVR) [Reglement onderzoek schepen op de Rijn 1995](../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) (RosR 1995) [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (Rsp)  | Overtreding  | Bestuurlijke boete  | Feitcode  |
-|:---|:---|:---|:---|
+| Artikelen in: Binnenvaartwet (BVW) Binnenvaartbesluit (BVB) Binnenvaartregeling (BVR) Reglement onderzoek schepen op de Rijn 1995 (RosR 1995) Reglement betreffende het scheepvaartpersoneel op de Rijn (Rsp)  | Overtreding  | Bestuurlijke boete  | Feitcode  |
+|---|---|---|---|
 |  *Rijn, Waal en Lek: Hoofdstuk 2 BVW: Toegang tot de markt*   | --- |
-| 5 lid 1 BVW jo. 2 lid 1 BVB  | *Bedrijfsmatig vervoer* van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring  | € 1250,–  | BVW 2.0.001 R  |
-| 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven  | € 1250,–  | BVW 2.0.005 R  |
+| 5 lid 1 BVW jo. 2 lid 1 BVB  | *Bedrijfsmatig vervoer* van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring  | € 500,–  | BVW 2.0.001 R  |
+| 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven  | € 500,–  | BVW 2.0.005 R  |
 | 6 lid 1 BVW  | De aan de *onderneming* verbonden vakbekwame persoon geeft niet daadwerkelijk en bij voortduring leiding aan de vervoersactiviteit van die onderneming  | € 1250,–  | BVW 2.0.006 R  |
-| 6 lid 6 BVW en 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.007 R  |
-| 6 lid 6 BVW en 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.008 R  |
+| 6 lid 6 BVW en 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 1250,–  | BVW 2.0.007 R  |
+| 6 lid 6 BVW en 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 1250,–  | BVW 2.0.008 R  |
 |  *Rijn, Waal en Lek: Hoofdstuk 3 paragraaf 1 BVW: certificaat van onderzoek*   |
 | 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *gebruiken* zonder het vereiste geldige certificaat van onderzoek  | € 1250,–  | BVW 3.1.001 R  |
 | 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip *doen gebruiken* zonder het vereiste geldige certificaat van onderzoek  | € 1250,–  | BVW 3.1.002 R  |
 | 8 lid 3 BVW jo. 1.6 BVR jo. het RosR 1995  | Een binnenvaartschip *gebruiken* in strijd met de technische voorschriften genoemd in het Reglement onderzoek schepen op de Rijn 1995.  | Max. € 500,–  | BVW 3.1.003 R  |
 | 8 lid 3 BVW jo. 1.6 BVR jo. RosR 1995  | Een binnenvaartschip *doen gebruiken* in strijd met de technische voorschriften genoemd in het Reglement onderzoek schepen op de Rijn 1995.  | Max. € 1000,–  | BVW 3.1.004 R  |
-| 10 lid 2 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | € 500,–  | BVW 3.1.025 R  |
-| 10 lid 2 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | € 1.000,–  | BVW 3.1.026 R  |
+| 10 lid 2 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | Max. € 500,–  | BVW 3.1.025 R  |
+| 10 lid 2 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften opgenomen in het certificaat van onderzoek  | Max. € 1.000,–  | BVW 3.1.026 R  |
 | Artikel 11 BVW  | Als *eigenaar* een binnenschip gebruiken zonder dat de minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom  | € 250,–  | BVW 3.1.027 R  |
 | Artikel 11 BVW  | Als *gezagvoerder* een binnenschip gebruiken zonder dat de minister of de bevoegde autoriteit onverwijld in kennis is gesteld van een belangrijke schade en herstel daarvan of verbouwing en andere ingrijpende wijzigingen of overgang van eigendom  | € 250,–  | BVW 3.1.028 R  |
 | Artikel 12 BVW  | Een binnenschip *gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek  | Max. € 500,–  | BVW 3.1.029 R  |
 | Artikel 12 BVW  | Een binnenschip *doen gebruiken* waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek  | Max. € 1000,–  | BVW 3.1.030 R  |
-| Artikel 13 lid 4 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | € 500,–  | BVW 3.1.031 R  |
-| Artikel 13 lid 4 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | € 1000,–  | BVW 3.1.032 R  |
+| Artikel 13 lid 4 BVW  | Een binnenschip *gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | Max. € 500,–  | BVW 3.1.031 R  |
+| Artikel 13 lid 4 BVW  | Een binnenschip *doen gebruiken* in strijd met de voorschriften die aan een vrijstelling of ontheffing m.b.t. de technische eisen zijn verbonden  | Max. € 1000,–  | BVW 3.1.032 R  |
 |  *Rijn, Waal en lek: hoofdstuk 3 paragraaf 2 BVW: Scheepsmeting*   |
 | 21 lid 1 BVW jo. 4.16 BVR  | *Gebruiken* van een binnenschip zonder geldige meetbrief  | € 500,–  | BVW 3.2.001 R  |
 | 21 lid 1 BVW jo. 4.16 BVR  | *Doen gebruiken* van een binnenschip zonder geldige meetbrief  | € 1000,–  | BVW 3.2.002 R  |
 |  *Rijn Waal en Lek: hoofdstuk 3 paragraaf 3 BVW: Bemanning*   |
 | 22 lid 9 en 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *gezagvoerder* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur  | € 500,–  | BVW 3.3.001 R  |
 | 22 lid 9 en 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *werkgever* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur  | € 1000,–  | BVW 3.3.002 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 120,–  | BVW 3.3.003 R  |
-| Bij een periode van 2 tot 3 uur  | € 180,–  | BVW 3.3.004 R  |
-| Bij een periode van 3 tot 4 uur  | € 270,–  | BVW 3.3.005 R  |
-| Bij een periode van 4 tot 5 uur  | € 400,–  | BVW 3.3.006 R  |
-| Bij een periode van 5 tot 6 uur  | € 600,–  | BVW 3.3.007 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat bij exploitatiewijze A1 de vaart tussen 22.00 en 06.00 uur wordt onderbroken zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 240,–  | BVW 3.3.008 R  |
-| Bij een periode van 2 tot 3 uur  | € 360,–  | BVW 3.3.009 R  |
-| Bij een periode van 3 tot 4 uur  | € 540,–  | BVW 3.3.010 R  |
-| Bij een periode van 4 tot 5 uur  | € 800,–  | BVW 3.3.011 R  |
-| Bij een periode van 5 tot 6 uur  | € 1200,–  | BVW 3.3.012 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 120,–  | BVW 3.3.018 R  |
-| Bij een periode van 2 tot 3 uur  | € 180,–  | BVW 3.3.019 R  |
-| Bij een periode van 3 tot 4 uur  | € 270,–  | BVW 3.3.020 R  |
-| Bij een periode van 4 tot 5 uur  | € 400,–  | BVW 3.3.021 R  |
-| Bij een periode van 5 tot 6 uur  | € 600,–  | BVW 3.3.022 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat bij exploitatiewijze A2 een onderbreking van de vaart tussen 23.00 en 05.00 uur wordt aangehouden zonder dat er een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur  | € 240,–  | BVW 3.3.023 R  |
-| Bij een periode van 2 tot 3 uur  | € 360,–  | BVW 3.3.024 R  |
-| Bij een periode van 3 tot 4 uur  | € 540,–  | BVW 3.3.025 R  |
-| Bij een periode van 4 tot 5 uur  | € 800,–  | BVW 3.3.026 R  |
-| Bij een periode van 5 tot 6 uur  | € 1200,–  | BVW 3.3.027 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur  | € 120,–  | BVW 3.3.033 R  |
 | Bij een tekort van 2 tot 3 uur  | € 180,–  | BVW 3.3.034 R  |
@@ -6274,7 +6360,7 @@ Tabel 1A. Rijn, Waal en Lek
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 2 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.094 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 5 onder b Rsp  | As *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.095 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 5 onder b Rsp  | As *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.096 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.097 R  |
 | Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.098 R  |
 | Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.099 R  |
@@ -6284,7 +6370,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.102 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.103 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.104 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op motorschepen en duwboten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.105 R  |
 | Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.106 R  |
 | Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.107 R  |
@@ -6294,7 +6380,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.110 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.111 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.112 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hechte samenstellen en andere hechte samenstellingen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hechte samenstellen en andere hechte samenstellingen:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.113 R  |
 | Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.114 R  |
 | Bij een tekort van 1 stuurman  | € 400,–  | BVW 3.3.115 R  |
@@ -6306,7 +6392,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.121 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.122 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.123 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op duwboten, duwstellen, gekoppelde samenstellen en andere hechte samenstellen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op duwboten, duwstellen, gekoppelde samenstellen en andere hechte samenstellen:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.124 R  |
 | Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.125 R  |
 | Bij een tekort van 1 stuurman  | € 800,–  | BVW 3.3.126 R  |
@@ -6318,7 +6404,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.132 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.133 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.134 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.135 R  |
 | Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.136 R  |
 | Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.137 R  |
@@ -6331,7 +6417,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 4 matrozen  | € 1200,–  | BVW 3.3.144 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.145 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.146 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op schepen voor dagtochten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.147 R  |
 | Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.148 R  |
 | Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.149 R  |
@@ -6344,7 +6430,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 4 matrozen  | € 2400,–  | BVW 3.3.156 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.157 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.158 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 2 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 2 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.159 R  |
 | Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.160 R  |
 | Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.161 R  |
@@ -6358,7 +6444,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.168 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.169 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.170 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 2 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 2 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op stoomschepen voor dagtochten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.171 R  |
 | Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.172 R  |
 | Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.173 R  |
@@ -6372,7 +6458,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.180 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.181 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.182 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 3 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 3 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.183 R  |
 | Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.184 R  |
 | Bij een tekort van 3 schippers  | € 1500,–  | BVW 3.3.185 R  |
@@ -6384,7 +6470,7 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 matrozen  | € 900,–  | BVW 3.3.190 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 250,–  | BVW 3.3.191 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 500,–  | BVW 3.3.192 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 3 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.17 lid 3 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op hotelschepen:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.193 R  |
 | Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.194 R  |
 | Bij een tekort van 3 schippers  | € 3000,–  | BVW 3.3.195 R  |
@@ -6396,45 +6482,43 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 matrozen  | € 1800,–  | BVW 3.3.200 R  |
 | Bij een tekort van 1 lichtmatroos/deksman  | € 500,–  | BVW 3.3.201 R  |
 | Bij een tekort van 2 lichtmatrozen/deksmannen  | € 1000,–  | BVW 3.3.202 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
 | In de exploitatiewijze A1 en A2 met 1 matroos  | € 300,–  | BVW 3.3.283 R  |
 | In de exploitatiewijze B met 2 matrozen  | € 600,–  | BVW 3.3.284 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
 | In de exploitatiewijze A1 en A2 met 1 matroos  | € 600,–  | BVW 3.3.285 R  |
 | In de exploitatiewijze B met 2 matrozen  | € 1200,–  | BVW 3.3.286 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
 | In de exploitatiewijze B met 1 matroos  | € 300,–  | BVW 3.3.287 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 1 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel i en/of l, als bedoeld in artikel 3.14 Rsp – de voorgeschreven minimum bemanningssterkte op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te verhogen:  | --- | --- |
 | In de exploitatiewijze B met 1 matroos  | € 600,–  | BVW 3.3.288 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 2 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 2 Rsp  | Als *gezagvoerder* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
 | In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 400,–  | BVW 3.3.289 R  |
 | In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 800,–  | BVW 3.3.290 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 2 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.18 lid 2 Rsp  | Als *werkgever* nalaten – bij het niet voldoen aan de standaard S1 onderdeel a t/m c van artikel 3.14 lid 1 onder 1.1 Rsp – de desbetreffende bemanningsleden op een motorschip, duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip te vervangen:  | --- | --- |
 | In de exploitatiewijze A1 en A2 de matroos door een matroos motordrijver  | € 800,–  | BVW 3.3.291 R  |
 | In de exploitatiewijze B de 2 matrozen door 2 matrozen motordrijver  | € 1600,–  | BVW 3.3.292 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15, 3.16, 3.17 Rsp  Schipper  Stuurman / Machinist  Volmatr. / Matr. motordr.  Matroos  Lichtmatroos / Deksman  | Als *gezagvoerder* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 150,–  | BVW 3.3.293 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.15, 3.16, 3.17 Rsp  Schipper  Stuurman / Machinist  Volmatr. / Matr. motordr.  Matroos  Lichtmatroos / Deksman  | Als *gezagvoerder* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 150,–  | BVW 3.3.293 R  |
 | 2 niveaus  | € 350,–  | BVW 3.3.294 R  |
 | 3 niveaus  | € 550,–  | BVW 3.3.295 R  |
 | 4 niveaus  | € 700,–  | BVW 3.3.296 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 2.02 lid 1 Rsp jo. 3.15, 3.16, 3.17 Rsp  1.Schipper  2.Stuurman / Machinist  3.Volmatr. / Matr. motordr.  4.Matroos  5.Lichtmatroos / Deksman  | Als *werkgever* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 300,–  | BVW 3.3.297 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.15, 3.16, 3.17 Rsp  1.Schipper  2.Stuurman / Machinist  3.Volmatr. / Matr. motordr.  4.Matroos  5.Lichtmatroos / Deksman  | Als *werkgever* nalaten dat het/de bemanningslid / leden over de vereiste bekwaamheid beschikken.  (onder gekwalificeerd varen):  | 1 niveau  | € 300,–  | BVW 3.3.297 R  |
 | 2 niveaus  | € 700,–  | BVW 3.3.298 R  |
 | 3 niveaus  | € 1100,–  | BVW 3.3.299 R  |
 | 4 niveaus  | € 1400,–  | BVW 3.3.300 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 2 Rsp  | Als *gezagvoerder* een zwangere vrouw, of kraamvrouw deel uit laten maken van de minimumbemanning gedurende ten minste 14 weken waarvan ten minste 6 weken voor en 7 weken na de bevalling  | € 100,–  | BVW 3.3.301 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 2 Rsp  | Als *werkgever* een zwangere vrouw, of kraamvrouw deel uit laten maken van de minimumbemanning gedurende ten minste 14 weken waarvan ten minste 6 weken voor en 7 weken na de bevalling  | € 200,–  | BVW 3.3.302 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 20.02 RosR 1995  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo.1.9 BVR jo. 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.20 Rsp  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
 | dat er zich aan boord een persoon bevindt die houder is van een groot patent  | € 500,–  | BVW 3.3.303 R  |
 | na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de patenthouder is vervangen door een ander persoon die in het bezit is van een groot patent  | € 750,–  | BVW 3.3.304 R  |
 | dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 500,–  | BVW 3.3.305 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 20.02 RosR 1995  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.20 Rsp  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
 | dat er zich aan boord een persoon bevindt die houder is van een groot patent  | € 1000,–  | BVW 3.3.306 R  |
 | na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot patent  | € 1500,–  | BVW 3.3.307 R  |
 | dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 1000,–  | BVW 3.3.308 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.05 lid 6  | Als *gezagvoerder* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 360,–  | BVW 3.3.309 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.05 lid 6  | Als *werkgever* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 720,–  | BVW 3.3.310 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 22 lid 4 BVW jo. 5.1 BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 22 lid 4 BVW jo. 5.1 BVR  | Als werkgever de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 R  |
-| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. 5.1 BVR  | Als bemanningslid de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. 1.6 lid 4 onder c BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. 1.6 lid 4 onder c BVR  | Als werkgever de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 R  |
+| 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. 1.6 lid 4 onder c BVR  | Als bemanningslid de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als gezagvoerder de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.314 R  |
 | 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 5 BVW  | Als werkgever de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.315 R  |
 | 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 5 BVW  | Als bemanningslid de in de ontheffing opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.316 R  |
@@ -6444,7 +6528,7 @@ Tabel 1A. Rijn, Waal en Lek
 | 23 lid 1 BVW jo. 27 lid 2 BVB jo 28 BVB  | Als werkgever een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
 | Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar  | € 500,–  | BVW 3.3.319 R  |
 | Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar  | € 500,–  | BVW 3.3.320 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 1 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze A1 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 1 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze A1 ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.321 R  |
 | Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.322 R  |
 | Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.323 R  |
@@ -6462,20 +6546,41 @@ Tabel 1A. Rijn, Waal en Lek
 | Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.339 R  |
 | Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.340 R  |
 | Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.341 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 3 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze B ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 1.9 BVR jo. 1.7 BVR jo. 3.11 lid 3 Rsp  | Als gezagvoerder nalaten dat bij exploitatiewijze B ieder bemanningslid de volledige rusttijd in acht heeft genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur  | € 150,–  | BVW 3.3.347 R  |
 | Bij een tekort van 2 tot 3 uur  | € 300,–  | BVW 3.3.348 R  |
 | Bij een tekort van 3 tot 4 uur  | € 450,–  | BVW 3.3.349 R  |
 | Bij een tekort van 4 tot 5 uur  | € 600,–  | BVW 3.3.350 R  |
 | Bij een tekort van 5 tot 6 uur  | € 750,–  | BVW 3.3.351 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.19 Rsp  | Als gezagvoerder niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 3.15, 3.16 en 3.17 Rsp genoemde binnenschepen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.19 Rsp  | Als gezagvoerder niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 3.15, 3.16 en 3.17 Rsp genoemde binnenschepen:  | --- | --- |
 | Bij het ontbreken van 1 bemanningslid  | € 300,–  | BVW 3.3.357 R  |
 | Bij het ontbreken van 2 bemanningsleden  | € 600,–  | BVW 3.3.358 R  |
 | Bij het ontbreken van 3 bemanningsleden  | € 900,–  | BVW 3.3.359 R  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 3.19 Rsp  | Als werkgever niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 3.15, 3.16 en 3.17 Rsp genoemde binnenschepen:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.19 Rsp  | Als werkgever niet voldoen aan de door de Commissie van Deskundige vastgestelde minimumbemanning op overige vaartuigen anders dan de in artikel 3.15, 3.16 en 3.17 Rsp genoemde binnenschepen:  | --- | --- |
 | Bij het ontbreken van 1 bemanningslid  | € 600,–  | BVW 3.3.360 R  |
 | Bij het ontbreken van 2 bemanningsleden  | € 1200,–  | BVW 3.3.361 R  |
 | Bij het ontbreken van 3 bemanningsleden  | € 1800,–  | BVW 3.3.362 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.21 Rsp  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op kanaalspitsen:  | --- | --- |
+| Bij het ontbreken van 1 schipper die houder is van een Rijnpatent  | € 500,–  | BVW 3.3.363 R  |
+| Bij het ontbreken van een persoon die tenminste 16 jaar oud is en die in staat is te helpen bij manoeuvreren met het schip  | € 150,–  | BVW 3.3.364 R  |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 1.9 BVR jo. 1.7 BVR jo. 2.02 lid 1 Rsp jo. 3.21 Rsp  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op kanaalspitsen:  | --- | --- |
+| Bij het ontbreken van 1 schipper die houder is van een Rijnpatent  | € 1000,–  | BVW 3.3.365 R  |
+| Bij het ontbreken van een persoon die tenminste 16 jaar oud is en die in staat is te helpen bij manoeuvreren met het schip  | € 300,–  | BVW 3.3.366 R  |
+|  *Rijn, Waal en Lek: hoofdstuk 3 paragraaf 4: Vaarbewijs*   |
+| 25 lid 4 BVW jo.14 BVB  | Een schip *gebruiken* waarvoor een groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 750,–  | BVW 3.4.001 R  |
+| 25 lid 4 BVW jo.14 BVB  | Een schip *doen**gebruiken* waarvoor een groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een geldig gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 1.500,–  | BVW 3.4.002 R  |
+| 25 lid 4 BVW jo.15 BVB  | Een schip *gebruiken* waarvoor een beperkt groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een geldig beperkt groot vaarbewijs dan wel een geldig gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 750,–  | BVW 3.4.003 R  |
+| 25 lid 4 BVW jo. 15 BVB  | Een schip *doen**gebruiken* waarvoor een beperkt groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een geldig beperkt groot vaarbewijs dan wel een geldig gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 1.500,–  | BVW 3.4.004 R  |
+| 25 lid 5 onder a BVW  | Een schip voeren terwijl het op zijn naam gestelde vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur.  | € 1.000,–  | BVW 3.4.005 R  |
+| 25 lid 5 onder a BVW  | Als *gezagvoerder* een schip *doen* voeren terwijl het op zijn naam gestelde vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur.  | € 2.000,–  | BVW 3.4.006 R  |
+| 25 lid 5 onder b BVW  | Een schip voeren terwijl hem de bevoegdheid tot het voeren van schepen is ontzegd ingevolge artikel 35 b van de Scheepvaartverkeerswet gedurende de termijn van ontzegging.  | € 1.000,–  | BVW 3.4.007 R  |
+| 25 lid 5 onder b BVW  | Als *gezagvoerder* een schip *doen* voeren terwijl hem de bevoegdheid tot het voeren van schepen is ontzegd ingevolge artikel 35 b van de Scheepvaartverkeerswet gedurende de termijn van ontzegging.  | € 2.000,–  | BVW 3.4.008 R  |
+| 25 lid 5 onder c BVW  | Een schip voeren terwijl van hem het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31 van de BVW, met toepassing van de artikelen 35a of 35c van de Scheepvaartverkeerswet is ingenomen en niet is teruggegeven.  | € 1.000,–  | BVW 3.4.009 R  |
+| 25 lid 5 onder c BVW  | Als *gezagvoerder* een schip *doen* voeren terwijl van hem het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31 van de BVW, met toepassing van de artikelen 35a of 35c van de Scheepvaartverkeerswet is ingenomen en niet is teruggegeven.  | € 2.000,–  | BVW 3.4.010 R  |
+| 28 lid 7 BVW  | Als *gezagvoerder* handelen in strijd met de voorschriften die verbonden zijn aan het vaarbewijs ingevolge het onderzoek naar de lichamelijke en geestelijke geschiktheid.  | € 500,–  | BVW 3.4.011 R  |
+| 28 lid 7 BVW  | Als *werkgever* handelen in strijd met de voorschriften die verbonden zijn aan het vaarbewijs ingevolge het onderzoek naar de lichamelijke en geestelijke geschiktheid.  | € 1.000,–  | BVW 3.4.012 R  |
+| 31 lid 4 BVW  | *Handelen* in strijd met de aan een vrijstelling of ontheffing van het vaarbewijs verbonden voorschriften/beperkingen, als bedoeld in artikel 31 lid 1 respectievelijk 31 lid 2 van de BVW.  | € 500,–  | BVW 3.4.013 R  |
+| 31 lid 4 BVW  | *Doen handelen* in strijd met de aan een vrijstelling of ontheffing van het vaarbewijs verbonden voorschriften/beperkingen, als bedoeld in artikel 31 lid 1 respectievelijk 31 lid 2 van de BVW.  | € 1.000,–  | BVW 3.4.014 R  |
 |  *Rijn, Waal en Lek:: Hoofdstuk 4 paragraaf 1 BVW: Scheepsnummer*   |
 | 36 lid 4 BVW jo. 36 lid 2 onder a BVW  | Als *eigenaar* van een binnenschip niet binnen 2 weken na toekenning en kennisgeving van het scheepsnummer, dit scheepsnummer op het binnenschip aanbrengen  | € 150,-  | BVW 4.1.001 R  |
 | 36 lid 4 BVW jo. 36 lid 2 onder b BVW  | Als eigenaar niet binnen 2 weken kennis geven aan de minister van zodanige wijzigingen in omstandigheden van een binnenschip, die aanleiding geven tot wijziging van het scheepsnummer  | € 1250,–  | BVW 4.1.002 R  |
@@ -6483,9 +6588,11 @@ Tabel 1A. Rijn, Waal en Lek
 |  *Rijn, Waal en Lek: Hoofdstuk 4 paragraaf 2 BVW: Gegevensverstrekking*   |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.05 lid 1 onder a Rsp  | Als *schipper* zijn bekwaamheid aan boord niet kunnen aantonen door middel van een patent overeenkomstig het Patentreglement Rijn  | € 300,–  | BVW 4.2.001 R  |
 | Als *werkgever* de bekwaamheid van de schipper aan boord niet kunnen aantonen door middel van een patent overeenkomstig het Patentreglement Rijn  | € 600,–  | BVW 4.2.002 R  |
-| Als *bemanningslid* zijn bekwaamheid aan boord niet kunnen aantonen door middel van het dienstboekje dan wel een patent overeenkomstig het Patentreglement Rijn  | € 150,–  | BVW 4.2.003 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.05 lid 1 onder b Rsp  | Als *bemanningslid* zijn bekwaamheid aan boord niet kunnen aantonen door middel van het dienstboekje dan wel een patent overeenkomstig het Patentreglement Rijn  | € 150,–  | BVW 4.2.003 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *gezagvoerder* bij de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1 deze verlenging niet kunnen aantonen met de registraties van een goed functionerende tachograaf  | € 400,–  | BVW 4.2.008 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 2 Rsp  | Als *werkgever* bij de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1 deze verlenging niet kunnen aantonen met de registraties van een goed functionerende tachograaf  | € 800,–  | BVW 4.2.009 R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* een schip gebruiken in de periode gelegen tussen 22.00 uur en 06.00 uur (bloktijd A1), respectievelijk in de periode gelegen tussen 23.00 uur en 05.00 uur (bloktijd A2) zonder dat de vaartijd wordt geregistreerd door middel van een goedgekeurde, naar behoren functionerende tachograaf  | € 400,–  | BVW 4.2.009a R  |
+| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* een schip gebruiken in de periode gelegen tussen 22.00 uur en 06.00 uur (bloktijd A1), respectievelijk in de periode gelegen tussen 23.00 uur en 05.00 uur (bloktijd A2) zonder dat de vaartijd wordt geregistreerd door middel van een goedgekeurde, naar behoren functionerende tachograaf  | € 800,–  | BVW 4.2.009b R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 7 Rsp  | Als *gezagvoerder* bij wisseling van exploitatiewijze niet de rusttijd van 8 onderscheidenlijk 6 uren kunnen aantonen met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden  | € 625,–  | BVW 4.2.010 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.12 lid 7 Rsp  | Als *werkgever* bij wisseling van exploitatiewijze niet de rusttijd van 8 onderscheidenlijk 6 uren kunnen aantonen met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden  | € 1250,–  | BVW 4.2.011 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.06 lid 4 onder a en b Rsp  | Als *houder* het persoonlijke dienstboekje niet bij de eerste indiensttreding overhandigen aan de schipper  | € 150,–  | BVW 4.2.012 R  |
@@ -6498,39 +6605,23 @@ Tabel 1A. Rijn, Waal en Lek
 | Als *werkgever* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 300,–  | BVW 4.2.019 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 1 Rsp  | Als *gezagvoerder* het vaartijdenboek niet aanwezig hebben in de stuurhut  | € 450,–  | BVW 4.2.020 R  |
 | Als *gezagvoerder* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek te hebben aangetekend  | € 100,–  | BVW 4.2.021 R  |
-| Als *gezagvoerder* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.022 R  |
-| Over een periode van 2 dag  | € 400,–  | BVW 4.2.023 R  |
-| Over een periode van 3 dag  | € 600,–  | BVW 4.2.024 R  |
-| Over een periode van 4 dag  | € 800,–  | BVW 4.2.025 R  |
-| Als *gezagvoerder* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.026 R  |
-| Over een periode van 2 dag  | € 400,–  | BVW 4.2.027 R  |
-| Over een periode van 3 dag  | € 600,–  | BVW 4.2.028 R  |
-| Over een periode van 4 dag  | € 800,–  | BVW 4.2.029 R  |
+| Als *gezagvoerder* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.022 R  |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| Als *gezagvoerder* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.026 R  |
 | Als *gezagvoerder* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 200,–  | BVW 4.2.030 R  |
-| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.031 R  |
-| Over een periode van 2 dag  | € 400,–  | BVW 4.2.032 R  |
-| Over een periode van 3 dag  | € 600,–  | BVW 4.2.033 R  |
-| Over een periode van 4 dag  | € 800,–  | BVW 4.2.034 R  |
+| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.031 R  |
 | Als *gezagvoerder* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | €100,–  | BVW 4.2.035 R  |
 | Als *gezagvoerder* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 50,–  | BVW 4.2.036 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 1 Rsp  | Als *werkgever* het vaartijdenboek niet aanwezig hebben in de stuurhut  | € 900,–  | BVW 4.2.037 R  |
 | Als *werkgever* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek te hebben aangetekend  | € 200,–  | BVW 4.2.038 R  |
-| Als *werkgever* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.039 R  |
-| Over een periode van 2 dag  | € 800,–  | BVW 4.2.040 R  |
-| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.041 R  |
-| Over een periode van 4 dag  | € 1600,–  | BVW 4.2.042 R  |
-| Als *werkgever* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.043 R  |
-| Over een periode van 2 dag  | € 800,–  | BVW 4.2.044 R  |
-| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.045 R  |
-| Over een periode van 4 dag  | € 1600,–  | BVW 4.2.046 R  |
+| Als *werkgever* zodra de vaart begint, dan wel de vaart wordt voorgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend:  | Per niet ingevulde dag  | € 520,–  | BVW 4.2.039 R  |
+| Als *werkgever* zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend:  | Per niet ingevulde dag  | € 520,–  | BVW 4.2.043 R  |
 | Als *werkgever* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 400,–  | BVW 4.2.047 R  |
-| Als *werkgever* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 520,–  | BVW 4.2.048 R  |
-| Over een periode van 2 dag  | € 800,–  | BVW 4.2.049 R  |
-| Over een periode van 3 dag  | € 1200,–  | BVW 4.2.050 R  |
-| Over een periode van 4 dag  | € 1600,–  | BVW 4.2.051 R  |
+| Als *werkgever* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld:  (Exploitatiewijze B schema voldoende)  | Per niet ingevulde dag  | € 520,–  | BVW 4.2.048 R  |
 | Als *werkgever* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | € 200,–  | BVW 4.2.052 R  |
 | Als *werkgever* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 100,–  | BVW 4.2.053 R  |
-| 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 2 Rsp  | Als *eigenaar* het vaartijdenboek niet binnen 30 dagen ongeldig laten verklaren na afgifte van een nieuw vaartijdenboek  | € 50,–  | BVW 4.2.054 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 3 Rsp  | Als *gezagvoerder* het ongeldig verklaard vaartijdenboek niet gedurende 6 maanden na de laatste aantekening aan boord bewaren  | € 270,–  | BVW 4.2.055 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo. 1.7 BVR jo. 3.13 lid 3 Rsp  | Als *werkgever* het ongeldig verklaard vaartijdenboek niet gedurende 6 maanden na de laatste aantekening aan boord bewaren  | € 540,–  | BVW 4.2.056 R  |
 | 37 lid 2 BVW jo. 31 BVB jo. 1.9 BVR jo 3.13 lid 6 Rsp  | Een binnenschip *gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rsp of een kopie van de pagina met aantekeningen van de vaar- onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden voorhanden hebben  | € 500,–  | BVW 4.2.057 R  |
@@ -6556,16 +6647,16 @@ Tabel 1A. Rijn, Waal en Lek
 Tabel 1B. Overige wateren (niet- aktewateren) 
 
 | Artikelen in: Binnenvaartwet (BVW) Binnenvaartbesluit (BVB) Binnenvaartregeling (BVR) Reglement onderzoek schepen op de Rijn 1995 (RosR 1995) Reglement betreffende het scheepvaartpersoneel op de Rijn (Rsp)  | Overtreding  | Bestuurlijke boete  | Feitcode  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Overige wateren: Hoofdstuk 2 BVW: Toegang tot de markt*   |
-| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *eigenaar* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 1250,–  | BVW 2.0.001 O  |
-| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *exploitant* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 1250,–  | BVW 2.0.002 O  |
-| 5 lid 1 BVW jo. 2 lid 2 onder b BVB en 5 BVB jo. 8.3 BVR  | Als *vervoersondernemer* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldig) bewijs van toelating.  | € 1250,–  | BVW 2.0.003 O  |
-| 5 lid 1 BVW jo. 2 lid 2 onder c BVB jo. 8.4 BVR  | Als *vervoerder* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een geëigend document.  | € 625,–  | BVW 2.0.004 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *eigenaar* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 500,–  | BVW 2.0.001 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder a BVB en 5 BVB jo. 8.1 BVR  | Als *exploitant* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldige) Rijnvaartverklaring.  | € 500,–  | BVW 2.0.002 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder b BVB en 5 BVB jo. 8.3 BVR  | Als *vervoersondernemer* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een (geldig) bewijs van toelating.  | € 500,–  | BVW 2.0.003 O  |
+| 5 lid 1 BVW jo. 2 lid 2 onder c BVB jo. 8.4 BVR  | Als *vervoerder* bedrijfsmatig vervoer van goederen of personen verrichten zonder dat het schip voorzien is van een geëigend document.  | € 5005,–  | BVW 2.0.004 O  |
 | 6 lid 1 BVW jo. 2.2 BVR  | Aan de *onderneming* die bedrijfsmatig goederenvervoer verricht (geen eigen vervoer) is geen persoon verbonden aan wie een bewijs van vakbekwaamheid is afgegeven.  | € 1250,–  | BVW 2.0.005 O  |
 | 6 lid 1 BVW  | De aan de *onderneming* verbonden vakbekwame persoon geeft niet daadwerkelijk en bij voortduring leiding aan de vervoersactiviteit van die onderneming.  | € 1250,–  | BVW 2.0.006 O  |
-| 6 lid 6 BVW jo. 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.007 O  |
-| 6 lid 6 BVW jo. 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 525,–  | BVW 2.0.008 O  |
+| 6 lid 6 BVW jo. 6 lid 2 BVW  | Als *onderneming* handelen in strijd met de aan de vrijstelling verbonden voorschriften betreffende de vakbekwaamheid  | € 1250,–  | BVW 2.0.007 O  |
+| 6 lid 6 BVW jo. 6 lid 5 BVW  | Als *onderneming* handelen in strijd met de aan de ontheffing verbonden voorschriften betreffende de vakbekwaamheid  | € 1250,–  | BVW 2.0.008 O  |
 |  *Overige wateren: Hoofdstuk 3 paragraaf 1 BVW: certificaat van onderzoek*   |
 | 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip gebruiken zonder het vereiste geldig certificaat van onderzoek.  | € 1250,–  | BVW 3.1.001 O  |
 | 7 lid 1 BVW jo. 7 lid 2 BVW jo. 6 BVB  | Een bij categorie aangewezen binnenschip doen gebruiken zonder het vereiste geldig certificaat van onderzoek.  | € 1250,–  | BVW 3.1.002 O  |
@@ -6616,42 +6707,6 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 |  *Overige wateren: hoofdstuk 3 paragraaf 3 BVW: Bemanning*   |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 2 Rsp  | Als *gezagvoerder* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 500,–  | BVW 3.3.001 O  |
 | 22 lid 9 BVW jo 22 lid 7 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 Rsp  | Als *werkgever* bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 1000,–-  | BVW 3.3.002 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 120,–  | BVW 3.3.003 O  |
-| Bij een periode van 2 tot 3 uur.  | € 180,–  | BVW 3.3.004 O  |
-| Bij een periode van 3 tot 4 uur.  | € 270,–  | BVW 3.3.005 O  |
-| Bij een periode van 4 tot 5 uur.  | € 400,–  | BVW 3.3.006 O  |
-| Bij een periode van 5 tot 6 uur.  | € 600,–  | BVW 3.3.007 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 240,–  | BVW 3.3.008 O  |
-| Bij een periode van 2 tot 3 uur.  | € 360,–  | BVW 3.3.009 O  |
-| Bij een periode van 3 tot 4 uur.  | € 540,–  | BVW 3.3.010 O  |
-| Bij een periode van 4 tot 5 uur.  | € 800,–  | BVW 3.3.011 O  |
-| Bij een periode van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.012 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *bemanningslid* nalaten dat in de exploitatiewijze A1 de vaart tussen 22.00 uur en 06.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 8 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 60,–  | BVW 3.3.013 O  |
-| Bij een periode van 2 tot 3 uur.  | € 90,–  | BVW 3.3.014 O  |
-| Bij een periode van 3 tot 4 uur.  | € 135,–  | BVW 3.3.015 O  |
-| Bij een periode van 4 tot 5 uur.  | € 200,–  | BVW 3.3.016 O  |
-| Bij een periode van 5 tot 6 uur.  | € 300,–  | BVW 3.3.017 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *gezagvoerder* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 120,–  | BVW 3.3.018 O  |
-| Bij een periode van 2 tot 3 uur.  | € 180,–  | BVW 3.3.019 O  |
-| Bij een periode van 3 tot 4 uur.  | € 270,–  | BVW 3.3.020 O  |
-| Bij een periode van 4 tot 5 uur.  | € 400,–  | BVW 3.3.021 O  |
-| Bij een periode van 5 tot 6 uur.  | € 600,–  | BVW 3.3.022 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *werkgever* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 240,–  | BVW 3.3.023 O  |
-| Bij een periode van 2 tot 3 uur.  | € 360,–  | BVW 3.3.024 O  |
-| Bij een periode van 3 tot 4 uur.  | € 540,–  | BVW 3.3.025 O  |
-| Bij een periode van 4 tot 5 uur.  | € 800,–  | BVW 3.3.026 O  |
-| Bij een periode van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.027 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Als *bemanningslid* nalaten dat in de exploitatiewijze A2 de vaart tussen 23.00 uur en 05.00 uur wordt onderbroken zonder dat een goedgekeurde tachograaf aanwezig is die in bedrijf is vanaf het begin van de laatste ononderbroken rusttijd van 6 uur:  | --- | --- |
-| Bij een periode van 1 tot 2 uur.  | € 60,–  | BVW 3.3.028 O  |
-| Bij een periode van 2 tot 3 uur.  | € 90,–  | BVW 3.3.029 O  |
-| Bij een periode van 3 tot 4 uur.  | € 135,–  | BVW 3.3.030 O  |
-| Bij een periode van 4 tot 5 uur.  | € 200,–  | BVW 3.3.031 O  |
-| Bij een periode van 5 tot 6 uur.  | € 300,–  | BVW 3.3.032 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.033 O  |
 | Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.034 O  |
@@ -6664,12 +6719,6 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.040 O  |
 | Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.041 O  |
 | Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.042 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 uur, waarvan 6 uur buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.043 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.044 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.045 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.046 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.047 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 3 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.048 O  |
 | Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.049 O  |
@@ -6682,12 +6731,6 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.055 O  |
 | Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.056 O  |
 | Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.057 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 3 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A2 naar A1, waarbij niet direct voor de wisseling de voorgeschreven ononderbroken rusttijd van 8 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.058 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.059 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.060 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.061 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.062 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 4 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.063 O  |
 | Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.064 O  |
@@ -6700,12 +6743,6 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.070 O  |
 | Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.071 O  |
 | Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.072 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 4 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van B naar A1 of A2, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.073 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.074 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.075 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.076 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.077 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder b BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
 | Bij een tekort van 1 tot 2 uur.  | € 120,–  | BVW 3.3.078 O  |
 | Bij een tekort van 2 tot 3 uur.  | € 180,–  | BVW 3.3.079 O  |
@@ -6718,12 +6755,6 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | Bij een tekort van 3 tot 4 uur.  | € 540,–  | BVW 3.3.085 O  |
 | Bij een tekort van 4 tot 5 uur.  | € 800,–  | BVW 3.3.086 O  |
 | Bij een tekort van 5 tot 6 uur.  | € 1200,–  | BVW 3.3.087 O  |
-| 22 lid 9 BVW jo. 22 lid 8 onder a BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | Als *bemanningslid* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet direct voor de wisseling de voorgeschreven rusttijd van 8 respectievelijk 6 uur, buiten de vaartijd, in acht is genomen:  | --- | --- |
-| Bij een tekort van 1 tot 2 uur.  | € 60,–  | BVW 3.3.088 O  |
-| Bij een tekort van 2 tot 3 uur.  | € 90,–  | BVW 3.3.089 O  |
-| Bij een tekort van 3 tot 4 uur.  | € 135,–  | BVW 3.3.090 O  |
-| Bij een tekort van 4 tot 5 uur.  | € 200,–  | BVW 3.3.091 O  |
-| Bij een tekort van 5 tot 6 uur.  | € 300,–  | BVW 3.3.092 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.093 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 2 onder b Rsp  | Als *werkgever* handelen in strijd met de wisseling van exploitatiewijze van A1 naar A2, waarbij niet de voorgeschreven A2 versterking zich aan boord bevindt.  | € 1000,–  | BVW 3.3.094 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.5 BVR jo. 3.12 lid 5 onder b Rsp  | As *gezagvoerder* handelen in strijd met de wisseling van exploitatiewijze van A1 of A2 naar B, waarbij niet de voorgeschreven B versterking zich aan boord bevindt.  | € 500,–  | BVW 3.3.095 O  |
@@ -6886,26 +6917,26 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | Bij een tekort van 1 matroos motordrijver  | € 400,–  | BVW 3.3.231 O  |
 | Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.232 O  |
 | Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.233 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.234 O  |
+| Bij een tekort van de overeenkomstig de Minister van Infrastructuur en Milieu vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.234 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.235 O  |
 | Bij een tekort van 2 schippers  | € 2000,–  | BVW 3.3.236 O  |
 | Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.237 O  |
 | Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.238 O  |
 | Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.239 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.240 O  |
+| Bij een tekort van de overeenkomstig de Minister van Infrastructuur en Milieu vastgestelde minimumbemanning bij een paaltrek van P > 3750  | € zie hier boven  | BVW 3.3.240 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten die havendiensten verrichten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.241 O  |
 | Bij een tekort van 1 matroos motordrijver  | € 1000,–  | BVW 3.3.242 O  |
 | Bij een tekort van 1 matroos  | € 300,–  | BVW 3.3.243 O  |
 | Bij een tekort van 2 matrozen  | € 600,–  | BVW 3.3.244 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.245 O  |
+| Bij een tekort van de overeenkomstig de Minister van Infrastructuur en Milieu vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.245 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 5 BVR jo. bijlage 5.7 BVR.  | Als *werkgever* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op sleepboten die havendiensten verrichten:  | --- | --- |
 | Bij een tekort van 1 schipper  | € 1000,–  | BVW 3.3.246 O  |
 | Bij een tekort van 1 matroos motordrijver  | € 800,–  | BVW 3.3.247 O  |
 | Bij een tekort van 1 matroos  | € 600,–  | BVW 3.3.248 O  |
 | Bij een tekort van 2 matrozen  | € 1200,–  | BVW 3.3.249 O  |
-| Bij een tekort van de overeenkomstig de Minister van Verkeer en Waterstaat vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.250 O  |
+| Bij een tekort van de overeenkomstig de Minister van Infrastructuur en Milieu vastgestelde minimumbemanning bij een paaltrek van F > 75 ton  | € zie hier boven  | BVW 3.3.250 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.8 en 5.6 lid 6 BVR jo. bijlage 5.8 BVR.  | Als *gezagvoerder* nalaten om tijdens de vaart voortdurend de minimum bemanning aan boord te hebben op snelle veerponten (> 30 < 40 Km/u):  | --- | --- |
 | Bij een tekort van 1 schipper  | € 500,–  | BVW 3.3.251 O  |
 | Bij een tekort van 2 schippers  | € 1000,–  | BVW 3.3.252 O  |
@@ -6968,16 +6999,14 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | 4 niveaus  | € 1400,–  | BVW 3.3.300 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.9 BVR.  | Als *gezagvoerder* een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstelling gedurende 14 weken rondom de vermoedelijke datum van haar bevalling deel uit laten maken van de minimumbemanning.  | € 100,–  | BVW 3.3.301 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.9 BVR.  | Als *werkgever* een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstelling gedurende 14 weken rondom de vermoedelijke datum van haar bevalling deel uit laten maken van de minimumbemanning.  | € 200,–  | BVW 3.3.302 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.10 BVR jo. 20.02 RosR 1995.  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.10 BVR jo. 3.20 Rsp.  | Als *gezagvoerder* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
 | Dat er zich aan boord een persoon bevindt die in het bezit is van een groot vaarbewijs  | € 500,–  | BVW 3.3.303 O  |
 | Dat na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot vaarbewijs  | € 750,–  | BVW 3.3.304 O  |
 | Dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 500,–  | BVW 3.3.305 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.10 BVR jo. 20.02 RosR 1995.  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
+| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.10 BVR jo. 3.20 Rsp.  | Als *werkgever* een zeeschip laten varen op de binnenwateren zonder:  | --- | --- |
 | Dat er zich aan boord een persoon bevindt die in het bezit is van een groot vaarbewijs  | € 1000,–  | BVW 3.3.306 O  |
 | Dat na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren de houder van het groot vaarbewijs is vervangen door een ander persoon die in het bezit is van een groot vaarbewijs  | € 1500,–  | BVW 3.3.307 O  |
 | Dat de voorgeschreven minimumbemanning volgens exploitatiewijze B aan boord is  | € 1000,–  | BVW 3.3.308 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.11 BVR jo. 3.06 lid 6 Rsp  | Als *gezagvoerder* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 360,–  | BVW 3.3.309 O  |
-| 22 lid 9 BVW jo. 22 lid 7 onder a BVW jo. 5.11 BVR jo. 3.06 lid 6 Rsp  | Als *werkgever* niet vaststellen dat elk lid van de bemanning in het bezit is van een persoonlijk dienstboekje (deskundigheid bemanning controleren)  | € 720,–  | BVW 3.3.310 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *gezagvoerder* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 500,–  | BVW 3.3.311 O  |
 | 22 lid 9 BVW jo. 22 lid 7 onder c BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *werkgever* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 1000,–  | BVW 3.3.312 O  |
 | 22 lid 9 BVW jo. 22 lid 8 onder b BVW jo. 22 lid 4 BVW jo. paragraaf 5 van hoofdstuk 5 BVR  | Als *bemanningslid* de in de vrijstelling opgenomen voorschriften of beperkingen niet naleven  | € 250,–  | BVW 3.3.313 O  |
@@ -6990,6 +7019,23 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | 23 lid 1 BVW jo. 27 lid 2 BVB jo. 28 BVB  | Als *werkgever* een binnenschip gebruiken zonder dat een bemanningslid over een geldige geneeskundige verklaring beschikt:  | --- | --- |
 | Iedere 5 jaar (plus 13 weken) vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar.  | € 500,–  | BVW 3.3.319 O  |
 | Ieder jaar vanaf het bereiken van de leeftijd van 65 jaar.  | € 500,–  | BVW 3.3.320 O  |
+|  *Overige wateren: Hoofdstuk 3 paragraaf 4 BVW: Vaarbewijs.*   |
+| 25 lid 4 BVW jo.14 BVB  | Een schip gebruiken waarvoor een groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 750,–  | BVW 3.4.001 O  |
+| 25 lid 4 BVW jo.14 BVB  | Een schip doen gebruiken waarvoor een groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een geldig gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 1.500,–  | BVW 3.4.002 O  |
+| 25 lid 4 BVW jo.15 BVB  | Een schip gebruiken waarvoor een beperkt groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een geldig beperkt groot vaarbewijs dan wel een geldig gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 750,–  | BVW 3.4.003 O  |
+| 25 lid 5 BVW jo. 15 BVB  | Een schip doen gebruiken waarvoor een beperkt groot vaarbewijs is vereist zonder dat aan de gezagvoerder een geldig groot vaarbewijs dan wel een geldig beperkt groot vaarbewijs dan wel een geldig gelijkwaardig document als bedoeld in artikel 25 lid 3 van de BVW is afgegeven.  | € 1.500,–  | BVW 3.4.004 O  |
+| 25 lid 5 onder a BVW  | Een schip voeren terwijl het op zijn naam gestelde vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur.  | € 1.000,–  | BVW 3.4.005 O  |
+| 25 lid 5 onder a BVW  | Als gezagvoerder een schip doen voeren terwijl het op zijn naam gestelde vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur.  | € 2.000,–  | BVW 3.4.006 O  |
+| 25 lid 5 onder b BVW  | Een schip voeren terwijl hem de bevoegdheid tot het voeren van schepen is ontzegd ingevolge artikel 35 b van de Scheepvaartverkeerswet gedurende de termijn van ontzegging.  | € 1.000,–  | BVW 3.4.007 O  |
+| 25 lid 5 onder b BVW  | Als gezagvoerder een schip doen voeren terwijl hem de bevoegdheid tot het voeren van schepen is ontzegd ingevolge artikel 35 b van de Scheepvaartverkeerswet gedurende de termijn van ontzegging.  | € 2.000,–  | BVW 3.4.008 O  |
+| 25 lid 5 onder c BVW  | Een schip voeren terwijl van hem het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31 van de BVW, met toepassing van de artikelen 35a of 35c van de Scheepvaartverkeerswet is ingenomen en niet is teruggegeven.  | € 1.000,–  | BVW 3.4.009 O  |
+| 25 lid 5 onder c BVW  | Als gezagvoerder een schip doen voeren terwijl van hem het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31 van de BVW, met toepassing van de artikelen 35a of 35c van de Scheepvaartverkeerswet is ingenomen en niet is teruggegeven.  | € 2.000,–  | BVW 3.4.010 O  |
+| 28 lid 7 BVW  | Als gezagvoerder handelen in strijd met de voorschriften die verbonden zijn aan het vaarbewijs ingevolge het onderzoek naar de lichamelijke en geestelijke geschiktheid.  | € 500,–  | BVW 3.4.011 O  |
+| 28 lid 7 BVW  | Als werkgever handelen in strijd met de voorschriften die verbonden zijn aan het vaarbewijs ingevolge het onderzoek naar de lichamelijke en geestelijke geschiktheid.  | € 1.000,–  | BVW 3.4.012 O  |
+| 31 lid 4 BVW  | Handelen in strijd met de aan een vrijstelling of ontheffing van het vaarbewijs verbonden voorschriften/beperkingen, als bedoeld in artikel 31 lid 1 respectievelijk 31 lid 2 van de BVW.  | € 500,–  | BVW 3.4.013 O  |
+| 31 lid 4 BVW  | Doen handelen in strijd met de aan een vrijstelling of ontheffing van het vaarbewijs verbonden voorschriften/beperkingen, als bedoeld in artikel 31 lid 1 respectievelijk 31 lid 2 van de BVW.  | € 1.000,–  | BVW 3.4.014 O  |
+| 33 lid 2 BVW jo. 7.1 BVR i.v.m. 34 BVW jo. 13 BVB  | Handelen in strijd met de regels die bij ministeriële regeling ten aanzien van vaarbewijzen voor de vaart op de Westerschelde, de Oosterschelde, de Waddenzee, de Eems, de Dollard, het IJsselmeer, het IJmeer of het markermeer met uitzondering van de Gouwzee als bedoeld in artikel 13 lid 3 van het BVB juncto artikel 7.1 van de BVR.  | € 750,–  | BVW 3.4.015 O  |
+| 33 lid 2 BVW jo. 7.1 BVR i.v.m. 34 BVW jo. 13 BVB  | Doen handelen in strijd met de regels die ministeriële regeling ten aanzien van vaarbewijzen voor de vaart op de Westerschelde, de Oosterschelde, de Waddenzee, de Eems, de Dollard, het IJsselmeer, het IJmeer of het markermeer met uitzondering van de Gouwzee als bedoeld in artikel 13 lid 3 van het BVB juncto artikel 7.1 van de BVR.  | € 1.500,–  | BVW 3.4.016 O  |
 |  *Overige wateren: Hoofdstuk 4 paragraaf 1 BVW: Scheepsnummer*   |
 | 36 lid 4 BVW jo. 36 lid 2 onder a BVW  | Als *eigenaar* van een binnenschip niet binnen twee weken na de toekenning en kennisgeving van het scheepsnummer dit scheepsnummer op het binnenschip aanbrengen  | € 150,–  | BVW 4.1.001 O  |
 | 36 lid 4 BVW jo. 36 lid 2 onder b BVW  | Als **eigenaar** van een binnenschip niet binnen twee weken kennis geven aan de minister van zodanige wijzigingen in omstandigheden van een binnenschip, die aanleiding geven tot wijziging van het scheepsnummer  | € 1250,–  | BVW 4.1.002 O  |
@@ -7003,6 +7049,8 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | 37 lid 2 BVW jo. artikel 31 BVB jo. 5.3 lid 2 BVR.  | Een binnenschip *doen gebruiken* in de periode van 48 uur voorafgaand aan het binnenvaren van de in artikel 1.2. BVR bedoelde binnenwateren de rusttijden van elk van de bemanningsleden alsmede de vaartijden van het schip niet hebben ingevuld in het vaartijdenboek dan wel in een ander document.  | € 800,–  | BVW 4.2.007 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 3.10 lid 2 Rsp  | Een binnenschip *gebruiken* tijdens de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1, zonder dat deze verlenging kan worden aangetoond met de registraties van een goed functionerende tachograaf.  | € 400,–  | BVW 4.2.008 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 3.10 lid 2 Rsp  | Een binnenschip *doen gebruiken* tijdens de wekelijkse verlenging van de vaartijd tot ten hoogste 16 uur in de exploitatiewijze A1, zonder dat deze verlenging kan worden aangetoond met de registraties van een goed functionerende tachograaf.  | € 800,–  | BVW 4.2.009 O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Een schip *gebruiken* in de periode gelegen tussen 22.00 uur en 06.00 uur (bloktijd A1), respectievelijk in de periode gelegen tussen 23.00 uur en 05.00 uur (bloktijd A2) zonder dat de vaartijd wordt geregistreerd door middel van een goedgekeurde, naar behoren functionerende tachograaf.  | € 400,–  | BVW 4.2.009a O  |
+| 37 lid 2 BVW jo. 31 BVB jo. 5.4 lid 1 BVR jo. 3.10 lid 3 Rsp  | Een schip *doen gebruiken* in de periode gelegen tussen 22.00 uur en 06.00 uur (bloktijd A1), respectievelijk in de periode gelegen tussen 23.00 uur en 05.00 uur (bloktijd A2) zonder dat de vaartijd wordt geregistreerd door middel van een goedgekeurde, naar behoren functionerende tachograaf.  | € 800,–  | BVW 4.2.009b O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.5 BVR jo. 3.12 lid 7 Rsp  | Een binnenschip *gebruiken* zonder dat bij wisseling van exploitatiewijze de rusttijd van 8, onderscheidenlijk 6 uren kan worden aangetoond met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.  | € 625,–  | BVW 4.2.010 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.5 BVR jo. 3.12 lid 7 Rsp  | Een binnenschip *doen gebruiken* zonder dat bij wisseling van exploitatiewijze de rusttijd van 8, onderscheidenlijk 6 uren kan worden aangetoond met een verklaring als bedoeld in bijlage A4 van het Rsp of met een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.  | € 1250,–  | BVW 4.2.011 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.11 BVR jo. 3.06 lid 4 onder a en b Rsp  | Als *houder* het persoonlijke dienstboekje niet bij de eerste indiensttreding overhandigen aan de schipper  | € 150,–  | BVW 4.2.012 O  |
@@ -7012,32 +7060,19 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 | Als *schipper* het dienstboekje niet op verzoek onverwijld teruggeven aan de houder  | € 150,–  | BVW 4.2.016 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 3.13 lid 1 Rsp  | Als *gezagvoerder* het vaartijdenboek niet aanwezig hebben in de stuurhut.  | € 450,–  | BVW 4.2.020 O  |
 | Als *gezagvoerder* de exploitatiewijze niet op iedere bladzijde van het vaartijdenboek hebben aangetekend  | € 100,–  | BVW 4.2.021 O  |
-| Als *gezagvoerder*, zodra de vaart begint, dan wel de vaart wordt voortgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.022 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.023 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.024 O  |
-| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.025 O  |
-| Als *gezagvoerder*, zodra de vaart begint, dan wel de vaart wordt voortgezet, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.026 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.027 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.028O  |
-| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.029 O  |
+| Als *gezagvoerder*, zodra de vaart begint, dan wel de vaart wordt voortgezet, de gegevens van kolom 1, 2, 3 en 4 in het vaartijdenboek niet hebben aangetekend  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.022 O  |
+| Als *gezagvoerder*, zodra de vaart wordt onderbroken, dan wel wordt beëindigd, de gegevens van kolom 1, 5, 6 en 7 in het vaartijdenboek niet hebben aangetekend  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.026 O  |
 | Als *gezagvoerder* bij het voor de eerste keer aan boord komen van de bemanning en bij verandering van samenstelling van de bemanning kolom 8 van het vaartijdenboek niet hebben ingevuld  | € 200,–  | BVW 4.2.030 O  |
-| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld (exploitatiewijze B schema voldoende)  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.031 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.032 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.033 O  |
-| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.034 O  |
+| Als *gezagvoerder* voor 08.00 uur de volgende dag de rusttijden in kolom 9 t/m 11 van het vaartijdenboek niet hebben ingevuld (exploitatiewijze B schema voldoende)  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.031 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 3.13 lid Rsp (vervolg)  | Als *gezagvoerder* bij wisseling van bemanning telkens het tijdstip van aan en van boord gaan niet vermelden in kolom 12 en 13 van het vaartijdenboek  | € 100,–  | BVW 4.2.035 O  |
 | Als *gezagvoerder* na wisseling van exploitatiewijze de noodzakelijke aantekeningen in het vaartijdenboek niet op een nieuwe bladzijde hebben aangebracht  | € 50,–  | BVW 4.2.036 O  |
-| 37 lid 2 BVW jo. 31 BVB jo. 5.12 BVR jo. 3.13 lid 2 Rsp  | Als *eigenaar* het vaartijdenboek niet binnen 30 dagen ongeldig laten verklaren na afgifte van een nieuw vaartijdenboek  | € 50,–  | BVW 4.2.054 O  |
 | 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 3 Rsp  | Een binnenschip *gebruiken* zonder dat het ongeldig verklaarde vaartijdenboek gedurende zes maanden na de laatste aantekening aan boord is bewaard  | € 270,–  | BVW 4.2.055 O  |
 | 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 3 Rsp  | Een binnenschip *doen gebruiken* zonder dat het ongeldig verklaarde vaartijdenboek gedurende zes maanden na de laatste aantekening aan boord is bewaard  | € 540,–  | BVW 4.2.056 O  |
 | 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 6 Rsp  | Een binnenschip *gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rsp of een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden is.  | € 500,–  | BVW 4.2.057 O  |
 | 37 lid 2 BVW jo. 31 BVB 5.12 BVR jo. 3.13 lid 6 Rsp  | Een binnenschip *doen gebruiken* zonder dat bij aflossing of versterking van bemanning voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage A4 van het Rsp of een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden is.  | € 1000,–  | BVW 4.2.058 O  |
 | 37 lid 2 BVW jo. 31 BVB jo. 5.13 lid 2 BVR  | Als *gezagvoerder* op een veerboot of veerpont er geen zorg voor hebben gedragen dat er een scheepsjournaal aan boord aanwezig is  | € 450,–  | BVW 4.2.059 O  |
 | Als *gezagvoerder* de naam van het schip niet vermelden in het scheepsjournaal  | € 150,–  | BVW 4.2.060 O  |
-| Als *gezagvoerder* het begin en het einde van de veerdienst van het schip niet vermelden in het scheepsjournaal  | Over een periode van 1 dag  | € 270,–  | BVW 4.2.061 O  |
-| Over een periode van 2 dagen  | € 400,–  | BVW 4.2.062 O  |
-| Over een periode van 3 dagen  | € 600,–  | BVW 4.2.063 O  |
-| Over een periode van 4 dagen  | € 800,–  | BVW 4.2.064 O  |
+| Als *gezagvoerder* het begin en het einde van de veerdienst van het schip niet vermelden in het scheepsjournaal  | Per niet ingevulde dag  | € 270,–  | BVW 4.2.061 O  |
 | Als *gezagvoerder* het merk van teboekstelling of het officiële scheepsnummer niet in het scheepsjournaal vermelden  | € 150,–  | BVW 4.2.065 O  |
 | Als *gezagvoerder* niet de leden van de bemanning bij het begin van de dagelijkse veerdienst met naam en functie in het scheepsjournaal vermelden  | € 200,–  | BVW 4.2.066 O  |
 | 37 lid 2 BVW jo artikel 31 BVB jo. 5.14 BVR jo. bijlage A3 onderdeel B punt 6 van het Rsp  | Een binnenschip *gebruiken* zonder dat de voorgeschreven tachograaf (A1 en A2) is voorzien van een (geldige) verklaring. (Geldigheidsduur verklaring 5 jaar)  | € 500,–  | BVW 4.2.067 O  |
@@ -7062,8 +7097,8 @@ Tabel 1B. Overige wateren (niet- aktewateren)
 
 Tabel 2. Bedragen voor bestuurlijke boete op overtredingen van het bepaalde krachtens de artikelen 39c, derde lid, en 39e, van de Binnenvaartwet 
 
-| Artikelen in [Scheepsafvalstoffenbesluit](../../../AMvB/scheepsafvalstoffenbesluit/rijn-/en/binnenvaart/BWBR0012019/README.md)  | Beboetbaar feit  | Boetebedrag  | Feitcode  |
-|:---|:---|:---|:---|
+| Artikelen in Scheepsafvalstoffenbesluit  | Beboetbaar feit  | Boetebedrag  | Feitcode  |
+|---|---|---|---|
 | 19, eerste lid, onderdeel a  | Niet openen door de eigenaar van het schip van een rekening bij een nationaal instituut  | € 1000  | BVW4a.001  |
 | 19, eerste lid, onderdeel b  | Niet zorgen door de eigenaar dat schipper over een ED-kaart beschikt  | € 200  | BVW4a.002  |
 | 20, eerste lid  | Niet betalen van de afvalbeheersbijdrage over het aantal liters gasolie  | € 350  | BVW4a.003  |

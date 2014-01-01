@@ -32,7 +32,7 @@ d. meststoffen: dierlijke meststoffen, ongeacht hun bestemming, en producten die
 
 e. verhandelen van meststoffen: afleveren van meststoffen aan handelaren in of gebruikers van meststoffen alsmede het met het oog daarop voorhanden of in voorraad hebben, aanbieden of vervoeren van meststoffen;  
 
-f. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+f. Onze Minister: Onze Minister van Economische Zaken;  
 
 g. landbouw: akkerbouw, veehouderij – daaronder begrepen elke bedrijfsmatige vorm van houden van dieren voor gebruiks- of winstdoeleinden – , tuinbouw – daaronder begrepen fruitteelt en het kweken van bomen, planten, bloemen en bloembollen – en bosbouw die aan bij ministeriële regeling gestelde regels voldoet;  
 
@@ -76,7 +76,35 @@ z. pluimveerecht: gemiddeld aantal kippen en kalkoenen, uitgedrukt in pluimvee-e
 
 aa. productierecht: varkensrecht of pluimveerecht;  
 
-bb. concentratiegebied: concentratiegebied Zuid of concentratiegebied Oost als aangegeven in bijlage I.     
+bb. concentratiegebied: concentratiegebied Zuid of concentratiegebied Oost als aangegeven in bijlage I;  
+
+cc. bedrijfsoverschot: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar op een bedrijf wordt geproduceerd boven de hoeveelheid die in het desbetreffende kalenderjaar: 
+
+1°. ingevolge artikel 8, onderdeel c, mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en  
+
+2°. ingevolge de krachtens de [artikelen 7](../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [15 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft, dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;    
+
+dd. dierlijke meststoffen verwerken: 
+
+1°. behandelen van dierlijke meststoffen tot een eindproduct dat voldoet aan de bij regeling van Onze Minister vast te stellen specificaties, of  
+
+2°. exporteren van dierlijke meststoffen;    
+
+ee. mestverwerkingsovereenkomst: 
+
+1°. bij de overdracht van dierlijke meststoffen van een landbouwer die op zijn bedrijf dierlijke meststoffen produceert aan een verwerker behorend volledig ingevuld krachtens artikel 34, onderdeel b, vastgesteld bewijsmiddel, voor zover de daarop vermelde gegevens overeenkomstig de daartoe krachtens artikel 34, onderdeel b, geldende voorschriften tijdig bij Onze Minister zijn ingediend, of  
+
+2°. overeenkomst tussen een landbouwer die op zijn bedrijf dierlijke meststoffen produceert, een andere ondernemer dan een verwerker, en een verwerker;    
+
+ff. produceren van dierlijke meststoffen: produceren van dierlijke meststoffen door het op een bedrijf houden of anderszins aanwezig hebben van dieren;  
+
+gg. landbouwer: natuurlijke persoon of rechtspersoon die of samenwerkingsverband van natuurlijke personen of rechtspersonen dat enige vorm van landbouw uitoefent op een bedrijf;  
+
+hh. verwerker: natuurlijke persoon of rechtspersoon die of samenwerkingsverband van natuurlijke personen of rechtspersonen dat een verwerkende onderneming voert;  
+
+ii. verwerkende onderneming: onderneming, niet zijnde een bedrijf, in het kader waarvan dierlijke meststoffen worden verwerkt;  
+
+jj. huisvestingssysteem: gedeelte van een dierenverblijf, waarin dieren van één diercategorie op dezelfde wijze worden gehouden.     
 2.  In deze wet en de daarop berustende bepalingen wordt onder bedrijf mede verstaan: een op het Nederlands grondgebied gelegen deel van een in het buitenland gevestigd bedrijf.   
 3.  In het eerste lid, onderdelen n en o, wordt onder perceel verstaan: aaneengesloten, door wegen, waterwegen, sloten, houtopstanden, muren, wallen of anderszins topografisch begrensde oppervlakte grond.   
 4.  Voor de toepassing van deze wet wordt veengrond, zand- of lössgrond, en kleigrond aangeduid op bij algemene maatregel van bestuur vastgestelde kaarten.   
@@ -152,7 +180,7 @@ c. de fosfaatgebruiksnorm voor meststoffen.
 ### Artikel  10  
 
 1.  De stikstofgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel b, is een bij ministeriële regeling vastgestelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.   
-2.  De hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond kan verschillend worden vastgesteld al naar gelang het gewas, de gewasopbrengst, de toegepaste landbouwpraktijk, de ecologische kenmerken van een waterlichaam en de kenmerken van de bodem, en al naar gelang sprake is van kleigrond, veengrond, of zand- of lössgrond.   
+2.  De hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond kan verschillend worden vastgesteld al naar gelang het gewas, de gewasopbrengst, de toegepaste landbouwpraktijk, de ecologische kenmerken van een waterlichaam en de kenmerken van de bodem, en al naar gelang sprake is van kleigrond, veengrond, of zand- of lössgrond, waarbij onderscheid kan worden gemaakt naar regio’s waarin de landbouwgrond is gelegen.   
 3.  De hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond wordt gebaseerd op een balans tussen enerzijds de te verwachten stikstofbehoeften van de gewassen en anderzijds de stikstoftoevoer naar de gewassen uit de bodem en uit meststoffen. De stikstoftoevoer naar de gewassen uit de bodem komt overeen met de hoeveelheid stikstof die in de bodem aanwezig is op het moment dat het gewas begint de stikstof in betekenisvolle mate te gebruiken en de toevoer van stikstof door nettomineralisatie van de voorraden organische stikstof in de bodem.   
 4.  De overeenkomstig het derde lid bepaalde hoeveelheid stikstof wordt verlaagd voor zover dit naar het oordeel van Onze Minister noodzakelijk is om waterverontreiniging door stikstof uit meststoffen te verminderen en verdere verontreiniging te voorkomen. Dit is in het bijzonder het geval als bij het achterwege blijven van deze verlaging de hoeveelheid van 11,3 milligram stikstof per liter in zoet oppervlaktewater of van 50 milligram nitraat per liter in grondwater dreigt te worden overschreden of een betekenisvolle bijdrage aan de eutrofiëring van natuurlijke zoetwatermeren, andere zoetwatermassa’s, estuaria, kustwateren of zeewater mag worden verwacht.   
 
@@ -169,7 +197,7 @@ c. 70 kilogram fosfaat in 2012;
 
 d. 65 kilogram fosfaat in 2013.     
 3.  De fosfaatgebruiksnormen voor meststoffen voor de jaren 2014 en volgende voor grond met neutrale fosfaattoestand worden vastgesteld bij algemene maatregel van bestuur. De normen kunnen verschillend worden vastgesteld al naar gelang het gewas, de gewasopbrengst, de toegepaste landbouwpraktijk, de kenmerken van de bodem en de grondsoort, de grondwaterstand en de mate waarin de ecologische toestand van een gebied afhankelijk is van de hoeveelheid fosfaat in het oppervlaktewater en kunnen telkens ten opzichte van de voor het voorgaande jaar geldende norm met ten hoogste 5 kilogram fosfaat per hectare per jaar worden verlaagd, met het oog op het in 2015 bereiken van een situatie waarbij de toevoer van fosfaat uit meststoffen en uit de bodem gemiddeld in evenwicht is met de fosfaatbehoefte van de gewassen. Zolang de algemene maatregel van bestuur niet in werking is getreden, blijft voor de jaren 2014 en volgende de in het eerste en tweede lid genoemde fosfaatgebruiksnorm voor 2013 van toepassing.   
-4.  De fosfaatgebruiksnorm voor meststoffen voor grond met hoge fosfaattoestand wordt bij algemene maatregel van bestuur vastgesteld. De norm kan ten opzichte van de bij of krachtens het eerste tot en met derde lid voor grond met neutrale fosfaattoestand geldende norm ten hoogste 10 kilogram fosfaat per hectare lager worden vastgesteld. De norm kan verschillend worden vastgesteld al naar gelang het gewas, de toegepaste landbouwpraktijk, de kenmerken van de bodem en de grondsoort, de grondwaterstand en de mate waarin de ecologische toestand van een gebied afhankelijk is van de hoeveelheid fosfaat in het oppervlaktewater. Zolang de algemene maatregel van bestuur niet in werking is getreden, is de bij of krachtens het eerste tot en met derde lid voor grond met neutrale fosfaattoestand geldende norm van toepassing.   
+4.  De fosfaatgebruiksnorm voor meststoffen voor grond met hoge fosfaattoestand wordt bij algemene maatregel van bestuur vastgesteld. De norm kan ten opzichte van de bij of krachtens het eerste tot en met derde lid voor grond met neutrale fosfaattoestand geldende norm ten hoogste 10 kilogram fosfaat per hectare lager worden vastgesteld. De norm kan verschillend worden vastgesteld al naar gelang het gewas, de toegepaste landbouwpraktijk, de kenmerken van de bodem en de grondsoort, de grondwaterstand en de mate waarin de ecologische toestand van een gebied afhankelijk is van de hoeveelheid fosfaat in het oppervlaktewater. Zolang in de algemene maatregel van bestuur voor een bepaald jaar geen norm is vastgesteld, geldt voor dat jaar de norm van het meest recente voorgaande jaar waarvoor een norm is vastgesteld.   
 5.  Bij ministeriële regeling wordt voor grond met lage fosfaattoestand een hogere fosfaatgebruiksnorm voor meststoffen vastgesteld dan de bij of krachtens het eerste, tweede of derde lid voor grond met neutrale fosfaattoestand vastgestelde fosfaatgebruiksnorm. De norm is van toepassing onder bij de regeling bepaalde voorwaarden en beperkingen. Zolang de ministeriële regeling niet in werking is getreden, is de bij of krachtens het eerste tot en met derde lid voor grond met neutrale fosfaattoestand geldende norm van toepassing.   
 6.  Bij ministeriële regeling kan worden bepaald dat een bedrijf in enig jaar, in afwijking van het tweede en derde lid, een hogere fosfaatgebruiksnorm voor meststoffen op bouwland kan toepassen, ingeval de hoeveelheid fosfaat waarmee de ingevolge het tweede of derde lid geldende fosfaatgebruiksnorm is overschreden in het navolgende jaar volledig wordt gecompenseerd. Compensatie geschiedt door vermindering van de hoeveelheid fosfaat die ingevolge de in het navolgende jaar geldende fosfaatgebruiksnorm voor meststoffen op of in de bodem kan worden gebracht met de hoeveelheid waarmee in het voorgaande jaar de fosfaatgebruiksnorm voor meststoffen is overschreden. De afwijkende gebruiksnorm, bedoeld in de eerste volzin, bedraagt ten hoogste de bij de ministeriële regeling bepaalde hoeveelheid fosfaat, die niet meer dan 20 kilogram fosfaat per hectare per jaar hoger is dan de fosfaatgebruiksnorm die geldt ingevolge het tweede of derde lid.   
 
@@ -177,7 +205,7 @@ d. 65 kilogram fosfaat in 2013.
 
 1.  Voor de toepassing van artikel 8, aanhef en onderdeel a, wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald door bij elkaar op te tellen de in het desbetreffende jaar op het bedrijf geproduceerde, aangevoerde en per saldo uit opslag gekomen hoeveelheden dierlijke meststoffen, en de uitkomst te verminderen met de in dat jaar van het bedrijf afgevoerde hoeveelheid dierlijke meststoffen. De hoeveelheden worden uitgedrukt in kilogrammen stikstof.   
 2.  Voor de toepassing van artikel 8, aanhef en onderdeel b, wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald overeenkomstig het eerste lid, met dien verstande dat niet alleen dierlijke meststoffen maar ook andere meststoffen in aanmerking worden genomen.   
-3.  Bij ministeriële regeling kan worden bepaald dat bij de bepaling van de in het tweede lid bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dierlijke meststoffen of in andere, bij de regeling omschreven organische meststoffen slechts voor een bij de regeling bepaald percentage in aanmerking wordt genomen. Het percentage kan al naar gelang de aard van de meststoffen, de periode waarin zij op of in de bodem worden gebracht en de daarbij toegepaste landbouwpraktijk en al naar gelang er sprake is van kleigrond, veengrond, of zand- of lössgrond, dan wel van bouwland of grasland verschillend worden vastgesteld.   
+3.  Bij ministeriële regeling kan worden bepaald dat bij de bepaling van de in het tweede lid bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dierlijke meststoffen of in andere, bij de regeling omschreven organische meststoffen slechts voor een bij de regeling bepaald percentage in aanmerking wordt genomen. Het percentage kan al naar gelang de aard van de meststoffen, de periode waarin zij op of in de bodem worden gebracht en de daarbij toegepaste landbouwpraktijk en al naar gelang er sprake is van kleigrond, veengrond, of zand- of lössgrond, waarbij onderscheid kan worden gemaakt naar regio’s waarin de landbouwgrond is gelegen, dan wel van bouwland of grasland verschillend worden vastgesteld.   
 4.  Voor de toepassing van artikel 8, onderdeel c, wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald overeenkomstig het tweede lid in samenhang met het eerste lid, met dien verstande dat de hoeveelheden meststoffen steeds worden uitgedrukt in kilogrammen fosfaat.   
 5.  Bij ministeriële regeling kan worden bepaald dat bij de bepaling van de in het vierde lid bedoelde hoeveelheid meststoffen de hoeveelheid fosfaat in bij de regeling omschreven organische meststoffen slechts voor een bij de regeling bepaald deel in aanmerking wordt genomen. Dit deel kan al naar gelang de aard van de meststoffen verschillend worden vastgesteld.   
 
@@ -202,12 +230,12 @@ d. 65 kilogram fosfaat in 2013.
 
 ### Artikel  15  
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van een doelmatige afvoer van mestoverschotten of de bescherming en verbetering van het milieu, regels worden gesteld met betrekking tot het in voorraad hebben, verwerken, vernietigen, vervoeren en verhandelen van dierlijke meststoffen.   
+1.  Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van een doelmatige afvoer van mestoverschotten of de bescherming en verbetering van het milieu, regels worden gesteld met betrekking tot het in voorraad hebben, verwerken, vervoeren en verhandelen van dierlijke meststoffen.   
 2.  De in het eerste lid bedoelde regels kunnen onder meer inhouden een verbod de in het eerste lid bedoelde meststoffen: 
 
 a. te verhandelen zonder kennisgeving daarvan op een daarbij aangegeven wijze aan een daarbij aangewezen orgaan;  
 
-b. in voorraad te houden, te verwerken of te vernietigen op een andere wijze dan daarbij is voorgeschreven;  
+b. in voorraad te houden of te verwerken op een andere wijze dan daarbij is voorgeschreven;  
 
 c. te verhandelen zonder vergunning verleend door of vanwege Onze Minister, door of vanwege een bevoegde autoriteit als bedoeld in een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen, of door of vanwege een bij de maatregel aangewezen orgaan, waarbij tevens regels kunnen worden gesteld met betrekking tot de verlening, weigering of intrekking van een vergunning;  
 
@@ -220,6 +248,7 @@ b. de verplichting de naleving van de onder a bedoelde voorschriften te staven m
 
 c. voorschriften inzake het voeren van een administratie welke worden gesteld om de naleving van de onder a bedoelde voorschriften te kunnen controleren.     
 4.  De aan een vergunning, als bedoeld in het tweede lid, onderdeel c, verbonden voorschriften en de beperkingen waaronder zij is verleend, kunnen worden gewijzigd, aangevuld of ingetrokken.   
+5.  Bij algemene maatregel van bestuur kan worden bepaald dat het is verboden dierlijke meststoffen in voorraad te hebben, te verwerken, te vervoeren of te verhandelen zonder voorafgaande registratie bij Onze Minister. Daarbij kunnen regels worden gesteld over de weigering, schorsing of schrapping van een registratie. Die regels kunnen inhouden dat een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en dat daaraan voorafgaand het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) kan worden gevraagd.   
 
 ### Artikel  16  
 
@@ -232,7 +261,7 @@ De toepassing van de in de artikel 15 bedoelde regels kan worden beperkt tot bep
 
 ### Hoofdstuk  V  
 
-####Productiebegrenzing varkens- en pluimveehouderij
+####Regels inzake de productie van dierlijke meststoffen
 
 ### Titel  1  
 
@@ -371,19 +400,87 @@ c. de periode gedurende welke Onze Minister de kennisgeving niet in behandeling 
 4.  Onder bedrijfsoverdracht wordt mede begrepen de inbreng van een bedrijf in een maatschap en de verkrijging van een meerderheid van de aandelen in een vennootschap.   
 5.  Dit artikel is niet van toepassing op een overdracht aan een persoon waarmee bloed- of aanverwantschap in de eerste graad bestaat, of op de inbreng in een maatschap met een zodanige persoon, en evenmin op een verkrijging van een bedrijf onder algemene titel.   
 
+### Titel  6  
+
+####Mestverwerking
+
+### Artikel  33a  
+
+1.  Het is een landbouwer verboden in enig kalenderjaar op zijn bedrijf dierlijke meststoffen te produceren.   
+2.  Het eerste lid is niet van toepassing op een landbouwer die in het desbetreffende kalenderjaar: 
+
+a. op zijn bedrijf geen bedrijfsoverschot produceert;  
+
+b. een hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, minimaal gelijk aan een door Onze Minister voor het desbetreffende kalenderjaar vastgesteld percentage van het op zijn bedrijf geproduceerde bedrijfsoverschot: 
+
+1° laat verwerken,  
+
+2° voor zover de landbouwer behoort tot een bij regeling van Onze Minister aan te wijzen categorie landbouwers, overdraagt of laat overdragen aan een afnemer die behoort tot een bij regeling van Onze Minister aan te wijzen categorie afnemers, of  
+
+3° brengt op of in de in het desbetreffende kalenderjaar bij het desbetreffende bedrijf in gebruik zijnde landbouwgrond die is gelegen in Duitsland of België op een bij regeling van Onze Minister vast te stellen afstand van de Nederlandse grens, voor zover is voldaan aan bij regeling van Onze Minister te stellen voorwaarden;    
+
+c. op zijn bedrijf een bedrijfsoverschot produceert dat dusdanig in omvang is dat de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld in onderdeel b, kleiner is dan een bij regeling van Onze Minister vast te stellen omvang, waarbij onderscheid kan worden gemaakt naar diersoort of diercategorie;  
+
+d. op zijn bedrijf meststoffen produceert: 
+
+1° met dieren waarvan ten minste 90% behoort tot een diercategorie die bij algemene maatregel van bestuur kan worden aangewezen of is gehuisvest in een huisvestingssysteem dat bij die maatregel kan worden aangewezen, omdat hierbij overwegend meststoffen worden geproduceerd met een hoog gehalte aan organische stof in de vorm van stro, en  
+
+2° die voldoen aan regels die bij of krachtens algemene maatregel van bestuur kunnen worden gesteld, of    
+
+e. het op zijn bedrijf geproduceerde bedrijfsoverschot geheel en rechtstreeks, blijkens een schriftelijke en vooraf gesloten overeenkomst, onder bij regeling van Onze Minister te stellen voorwaarden overdraagt of laat overdragen aan een hemelsbreed hoogstens twintig kilometer van de productielocatie verwijderd liggende locatie van bedrijven indien de overgedragen dierlijke meststoffen op landbouwgrond aangewend worden.     
+3.  Onder het laten verwerken van dierlijke meststoffen, bedoeld in het tweede lid, onderdeel b, onder 1°, wordt verstaan: 
+
+a. het overdragen of laten overdragen van op zijn bedrijf geproduceerde dierlijke meststoffen aan een verwerkende onderneming, overeenkomstig een op het desbetreffende kalenderjaar betrekking hebbende mestverwerkingsovereenkomst als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 1°;  
+
+b. het overdragen of laten overdragen van op zijn bedrijf geproduceerde dierlijke meststoffen aan een andere onderneming dan een verwerkende onderneming, op basis van een uiterlijk in het desbetreffende kalenderjaar gesloten mestverwerkingsovereenkomst als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, of  
+
+c. het sluiten van een overeenkomst met een andere landbouwer waarin is bepaald dat die andere landbouwer in zijn plaats uitvoering zal geven aan de voorwaarden, bedoeld in het tweede lid, onderdeel b, door middel van het laten verwerken, bedoeld in de onderdelen a of b.     
+4.  Een ondernemer die een andere onderneming voert als bedoeld in het derde lid, onderdeel b, draagt in een kalenderjaar de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor hij met betrekking tot het desbetreffende kalenderjaar mestverwerkingsovereenkomsten als bedoeld in het derde lid, onderdeel b, heeft gesloten, over of laat deze overdragen aan een verwerkende onderneming.   
+5.  Onverminderd het tweede lid, onderdeel b, laat de andere landbouwer, bedoeld in het derde lid, onderdeel c, in een kalenderjaar een op zijn bedrijf geproduceerde hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waartoe hij zich met betrekking tot het desbetreffende kalenderjaar bij een overeenkomst als bedoeld in het derde lid, onderdeel c, heeft verplicht, verwerken als bedoeld in het derde lid, onderdeel a of b.   
+6.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de mogelijkheid van het sluiten van een overeenkomst als bedoeld in het derde lid, onderdeel c, tussen een landbouwer die op zijn bedrijf in overwegende mate dierlijke meststoffen produceert van één of meer diersoorten of diercategorieën en een landbouwer die op zijn bedrijf in overwegende mate dierlijke meststoffen produceert van één of meer andere diersoorten of diercategorieën.   
+7.  Bij regeling van Onze Minister kunnen regels worden gesteld ten aanzien van een landbouwer of afnemer als bedoeld in het tweede lid, onderdeel b, onder 2°.   
+
+### Artikel  33b  
+
+1.  Een mestverwerkingsovereenkomst als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, of een overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, voldoet voor de toepassing van deze wet indien is voldaan aan de bij of krachtens de in het tweede tot en met vierde lid gestelde eisen.   
+2.  Een mestverwerkingsovereenkomst als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, of een overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c: 
+
+a. wordt uiterlijk in het kalenderjaar waarop de overeenkomst ziet schriftelijk op een duurzame gegevensdrager aangegaan en door partijen ondertekend;  
+
+b. bevat ten minste een aanduiding van het kalenderjaar waarop de overeenkomst ziet;  
+
+c. voldoet aan de bij regeling van Onze Minister gestelde regels.     
+3.  In een mestverwerkingsovereenkomst als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, wordt opgenomen de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die de andere onderneming in het desbetreffende kalenderjaar zal afnemen en de verwerker zal afnemen met het oog op verwerking.   
+4.  In een overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, wordt opgenomen de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de andere landbouwer in het desbetreffende kalenderjaar in de plaats van de landbouwer uitvoering zal geven aan de voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel b.   
+5.  De gegevens uit een mestverwerkingsovereenkomst als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, of een overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, worden uiterlijk in het kalenderjaar waarop de overeenkomst ziet langs elektronische weg aan Onze Minister verstrekt door alle partijen bij de overeenkomst.   
+
+### Artikel  33c  
+
+1.  Bij regeling van Onze Minister wordt het percentage, bedoeld in artikel 33a, tweede lid, onderdeel b, vastgesteld, dat voor verschillende diersoorten, diercategorieën, mestsoorten en gebieden verschillend kan worden vastgesteld.   
+2.  Onze Minister houdt bij het vaststellen van het verwerkingspercentage in ieder geval rekening met de verwachte productie van dierlijke meststoffen in Nederland en de beschikbare landbouwgrond in Nederland.   
+3.  Bij regeling van Onze Minister kan worden bepaald dat voor landbouwers voor wie op grond van het eerste lid meerdere verwerkingspercentages van toepassing zijn, één van de verwerkingspercentages geldt.   
+
+### Artikel  33d  
+
+1.  Een verwerker verwerkt de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor hij met betrekking tot een kalenderjaar mestverwerkingsovereenkomsten heeft gesloten.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake de termijnen waarbinnen aan de verplichting, bedoeld in het eerste lid, moet zijn voldaan.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald dat krachtens die maatregel aan te wijzen soorten dierlijke meststoffen niet meetellen voor het voldoen aan de verplichting, bedoeld in het eerste lid.   
+
 ### Hoofdstuk  VI  
 
 ####Verantwoording en hoeveelheidsbepaling
 
 ### Artikel  34  
 
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het opmaken, bewaren, overleggen en afdragen van gegevens door natuurlijke personen, rechtspersonen of samenwerkingsverbanden van natuurlijke personen of rechtspersonen die meststoffen produceren, verhandelen of gebruiken. Deze regels kunnen betrekking hebben op: 
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het opmaken, bewaren, overleggen en afdragen van gegevens door natuurlijke personen, rechtspersonen of samenwerkingsverbanden van natuurlijke personen of rechtspersonen die meststoffen produceren, verhandelen, gebruiken of verwerken. Deze regels kunnen betrekking hebben op: 
 
 a. het bedrijf of de onderneming, zoals de aard en de locatie van het bedrijf of de onderneming en van de daartoe behorende onderdelen en bedrijfsmiddelen, de tenaamstelling of handelsnaam, de rechtsvorm, in voorkomend geval de aard en samenstelling van het samenwerkingsverband van personen of rechtspersonen dat het bedrijf of de onderneming voert, de inschrijving in het handelsregister en de bij het bedrijf of de onderneming werkzame personen en hun bevoegdheden;  
 
 b. de geproduceerde, in voorraad gehouden, aangevoerde, afgevoerde, verhandelde, be- of verwerkte, op of in de bodem gebrachte en anderszins gebruikte hoeveelheden meststoffen, de samenstelling, herkomst en bestemming van de meststoffen en de gegevens, bedoeld in artikel 35, tweede lid, onderdelen b en c;  
 
-c. de tot het bedrijf behorende oppervlakte landbouwgrond en de overige gebruikte grond, met inbegrip van gegevens over naar de aard van de teelt of het gebruik te onderscheiden aaneengesloten oppervlakten en de topografische ligging daarvan, en met inbegrip van gegevens met betrekking tot grond die nog in gebruik moet worden genomen en met betrekking tot nog aan te vangen teelten en vormen van gebruik.    
+c. de tot het bedrijf behorende oppervlakte landbouwgrond en de overige gebruikte grond, met inbegrip van gegevens over naar de aard van de teelt of het gebruik te onderscheiden aaneengesloten oppervlakten en de topografische ligging daarvan, en met inbegrip van gegevens met betrekking tot grond die nog in gebruik moet worden genomen en met betrekking tot nog aan te vangen teelten en vormen van gebruik;  
+
+d. het bepaalde bij of krachtens de artikelen 33a, 33b en 33d.    
 
 ### Artikel  35  
 
@@ -434,6 +531,11 @@ b. diervoeder of dieren, als bedoeld in artikel 35, tweede lid, onderdeel b, op 
 
 ####Overige bepalingen
 
+### Artikel  37a  
+
+1.  Bij ministeriële regeling worden regels gesteld over de wijze waarop de controleprogramma’s, bedoeld in artikel 5, zesde lid, van richtlijn nr. 91/676/EEG van de Raad van de Europese Gemeenschappen van 12 december 1991 inzake de bescherming van water tegen verontreiniging door nitraten uit agrarische bronnen (PbEG L 375), worden uitgevoerd.   
+2.  Het ontwerp van de ministeriële regeling, bedoeld in het vorige lid, wordt vier weken voor publicatie in de Staatscourant door Onze Minister aan de beide kamers der Staten-Generaal overgelegd.   
+
 ### Artikel  38  
 
 1.  Bij ministeriële regeling kan vrijstelling worden verleend van het bij of krachtens deze wet bepaalde.   
@@ -477,7 +579,7 @@ De voordracht voor algemene maatregelen van bestuur krachtens deze wet wordt Ons
 
 ### Artikel  45  
 
-De ministeriële regelingen, bedoeld in hoofdstuk III, en krachtens artikel 38, eerste lid, vastgestelde regelingen houdende vrijstelling van het bij of krachtens hoofdstuk III bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu.  
+De ministeriële regelingen, bedoeld in Hoofdstuk III en in artikel 37a, en krachtens artikel 38, eerste lid, vastgestelde regelingen houdende vrijstelling van het bij of krachtens hoofdstuk III bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu.  
 
 ### Artikel  46  
 
@@ -514,7 +616,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ### Artikel  51  
 
-Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 7, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 14, eerste lid, 15, 34, 35, 36, 37, 38, derde lid, of 40.  
+Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 7, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 14, eerste lid, 15, 33a, eerste, vierde, vijfde en zevende lid, 33b, vijfde lid, 33d, eerste lid34, 35, 36, 37, 38, derde lid, of 40.  
 
 ### Artikel  55  
 
@@ -541,17 +643,25 @@ c. € 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde f
 1.  Ingeval van overtreding van artikel 14, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat en € 7 per kilogram stikstof waarvan de afvoer niet kan worden verantwoord.   
 2.  In afwijking van het eerste lid wordt geen bestuurlijke boete opgelegd voor zover wegens overtreding van artikel 7 een bestuurlijke boete wordt opgelegd voor de kilogrammen stikstof en fosfaat waarmee de in artikel 8 bedoelde stikstofgebruiksnorm voor meststoffen, onderscheidenlijk fosfaatgebruiksnorm voor meststoffen is overschreden.   
 
+### Artikel  59  
+
+1.  In geval van overtreding van artikel 33a, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 33a, tweede lid, onderdeel b.   
+2.  In geval van overtreding van artikel 33a, vierde lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat waarmee dat lid wordt overtreden.   
+3.  In geval van overtreding van artikel 33a, vijfde lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat waarmee dat lid wordt overtreden.   
+4.  In geval van overtreding van artikel 33a, zevende lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat waarmee dat lid wordt overtreden.   
+5.  In geval van overtreding van artikel 33d, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat waarmee dat lid wordt overtreden.   
+
 ### Artikel  60  
 
-1.  Bij algemene maatregel van bestuur kunnen van de artikelen 57, eerste lid, en 58, eerste lid, afwijkende tarieven worden vastgesteld.   
+1.  Bij algemene maatregel van bestuur kunnen van de artikelen 57, eerste lid, 58, eerste lid, en 59 afwijkende tarieven worden vastgesteld.   
 2.  De afwijking bedraagt ten hoogste 50%.   
 3.  Na de plaatsing in het Staatsblad van de algemene maatregel van bestuur wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet.   
 4.  [Artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  62  
 
-1.  De op grond van artikel 57 of 58 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd ter zake van overtreding van het bij of krachtens artikel 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 34, 35, 36, 37, 38, derde lid, of 40 bepaalde.   
+1.  De op grond van artikel 57, 58 of 59 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd ter zake van overtreding van het bij of krachtens artikel 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 33b, vijfde lid, 34, 35, 36, 37, 38, derde lid, of 40 bepaalde.   
 3.  De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
 
 ### §  3  
@@ -564,7 +674,7 @@ c. € 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde f
 
 ### Artikel  69  
 
-Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies bij of krachtens de [Kaderwet LNV-subsidies](../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md).  
+Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies bij of krachtens de [Kaderwet EZ-subsidies](../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md).  
 
 ### Hoofdstuk  IX  
 
@@ -591,7 +701,8 @@ b. vóór 23 april 2010 een schriftelijke overeenkomst is gesloten en vóór 8�
 
 ### Artikel  77  
 
-Hoofdstuk V vervalt met ingang van 1 januari 2015.  
+1.  Hoofdstuk V, titels 1 tot en met 5, vervalt op een bij koninklijk besluit te bepalen tijdstip.   
+2.  De voordracht voor het koninklijk besluit, bedoeld in het eerste lid, wordt niet eerder gedaan dan twee weken nadat het ontwerp ervan aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.   
 
 ### Artikel  78  
 

@@ -439,8 +439,8 @@ Een uiterste wilsbeschikking ten voordele van de naaste bloedverwanten of het na
 
 ### Artikel  55  
 
-1.  Behalve zij die handelingsbekwaam zijn, kunnen ook minderjarigen die de leeftijd van zestien jaren hebben bereikt, en zij die op een andere grond dan wegens een geestelijke stoornis onder curatele zijn gesteld, uiterste wilsbeschikkingen maken.   
-2.  Hij die wegens een geestelijke stoornis onder curatele staat, kan slechts met toestemming van de kantonrechter uiterste wilsbeschikkingen maken. De kantonrechter kan aan zijn toestemming voorwaarden verbinden.   
+1.  Behalve zij die handelingsbekwaam zijn, kunnen ook minderjarigen die de leeftijd van zestien jaren hebben bereikt, en zij die op een andere grond dan wegens hun lichamelijke of geestelijke toestand onder curatele zijn gesteld, uiterste wilsbeschikkingen maken.   
+2.  Hij die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, kan slechts met toestemming van de kantonrechter uiterste wilsbeschikkingen maken. De kantonrechter kan aan zijn toestemming voorwaarden verbinden.   
 3.  De bekwaamheid van de erflater wordt beoordeeld naar de staat, waarin hij zich bevond op het ogenblik dat de beschikking werd gemaakt.   
 
 ### Artikel  56  
@@ -973,7 +973,7 @@ c. in geval de last ingevolge artikel 132 op een ander is komen te rusten dan de
 
 1.  Wanneer een erflater iets heeft vermaakt aan een stichting die hij in een bij notariële akte gemaakte uiterste wilsbeschikking heeft in het leven geroepen, is de stichting erfgenaam of legataris, naar gelang het haar vermaakte aan een erfstelling of aan een legaat beantwoordt.   
 2.  Heeft hij bij een in andere vorm gemaakte uiterste wil verklaard een stichting in het leven te roepen, dan wordt deze beschikking aangemerkt als een aan de gezamenlijke erfgenamen opgelegde last om die stichting op te richten.   
-3.  Degene op wie een last om een stichting op te richten rust, kan daartoe op vordering van het openbaar ministerie worden veroordeeld door de rechtbank van het sterfhuis of, indien de erflater zijn laatste woonplaats niet in Nederland had, door de rechtbank te 's-Gravenhage. De rechter kan bepalen dat het vonnis dezelfde rechtskracht heeft als een in wettige vorm opgemaakte akte van hem die tot de rechtshandeling gehouden is, of dat een door de rechter aan te wijzen vertegenwoordiger de handeling zal verrichten.   
+3.  Degene op wie een last om een stichting op te richten rust, kan daartoe op vordering van het openbaar ministerie worden veroordeeld door de rechtbank van het sterfhuis of, indien de erflater zijn laatste woonplaats niet in Nederland had, door de rechtbank Den Haag. De rechter kan bepalen dat het vonnis dezelfde rechtskracht heeft als een in wettige vorm opgemaakte akte van hem die tot de rechtshandeling gehouden is, of dat een door de rechter aan te wijzen vertegenwoordiger de handeling zal verrichten.   
 
 ### Afdeling  5  
 

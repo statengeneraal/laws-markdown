@@ -59,7 +59,11 @@ a. indien door de Stichting Autoriteit Financiële Markten voor 22 juli 2014 op
 b. indien door de Stichting Autoriteit Financiële Markten na 22 juli 2014 op de aanvraag wordt beslist, wordt, in afwijking van het derde lid, de in dat lid genoemde termijn verlengd tot en met de dag waarop de Stichting Autoriteit Financiële Markten beslist op de aanvraag.     
 5.  Een vergunning die op grond van [artikel 2:65, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor inwerkingtreding van deze wet is verleend aan een beheerder van een beleggingsinstelling, niet zijnde een instelling voor collectieve belegging in effecten, die zijn beroep of bedrijf op 22 juli 2014 uitoefent, wordt vanaf die datum gelijkgesteld met een vergunning als bedoeld in artikel 2:65 van de Wet op het financieel toezicht, zoals dat artikel na inwerkingtreding van deze wet luidt.   
 6.  Een vergunning die op grond van [artikel 2:65 van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot instellingen voor collectieve belegging in effecten is verleend wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een vergunning als bedoeld in [artikel 2:69b van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zoals dat artikel na inwerkingtreding van deze wet luidt.   
-7.  Indien een bank als bedoeld in [artikel 4:37k, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) optreedt als bewaarder van een niet-Europese beleggingsinstelling als bedoeld in die wet, kan de Stichting Autoriteit Financiële Markten bepalen dat [artikel 4:37l, eerste lid, van die wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot 22 juli 2017 buiten toepassing blijft.   
+7.  In afwijking van [artikel 4:37i, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kan de Stichting Autoriteit Financiële Markten toestaan dat tot en met 21 juli 2017: 
+
+a. een buitenlandse beheerder van een beleggingsinstelling met zetel in een staat die geen lidstaat is die een Nederlandse beleggingsinstelling beheert; of  
+
+b. een beheerder van een beleggingsinstelling welke beheerder zetel in Nederland heeft en een beleggingsinstelling met zetel in een lidstaat beheert, voor zover die beleggingsinstelling geen vergunning bezit of is geregistreerd;   een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat waarin de beleggingsinstelling is gevestigd.   
 
 ### Artikel  VIIa  
 
@@ -78,7 +82,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Wassenaar 
 12 juni 2013  
-Beatrix  
+Willem-Alexander  
 
 De Minister van Financiën , 
 J.R.V.A. Dijsselbloem   

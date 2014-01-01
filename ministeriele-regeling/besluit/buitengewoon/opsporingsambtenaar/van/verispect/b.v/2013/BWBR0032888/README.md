@@ -21,11 +21,9 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 De personen, werkzaam in de functie van 
 
-a) toezichtsmedewerker [Metrologiewet](../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md)  
+a) toezichtsmedewerker Metrologiewet  
 
-b) toezichtsmedewerker [Waarborgwet](../../../../../../../../../wet/waarborgwet/1986/BWBR0009275/README.md)  
-
-c) controleur [Wet op de Kansspelen](../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) in dienst van Verispect B.V., zijn aangewezen als buitengewoon opsporingsambtenaar.    
+b) toezichtsmedewerker Waarborgwet   in dienst van Verispect B.V., zijn aangewezen als buitengewoon opsporingsambtenaar.  
 
 ### Artikel  3  
 

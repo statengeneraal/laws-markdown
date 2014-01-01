@@ -35,14 +35,15 @@ In deze regeling wordt verstaan onder:
 
 ####Indiening concessiebeleidsplan
 
-De Stichting dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen.  
+De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen.  
 
 ### Artikel  3  
 
 ####Indiening aanvraag erkenning
 
-1.  Omroepverenigingen dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), in de maand juni van het kalenderjaar voorafgaand aan een nieuwe erkenningperiode in bij het Commissariaat. De eerste volzin is van overeenkomstige toepassing op de aanvraag voor erkenning van een educatieve media-instelling als bedoeld in [artikel 2.28 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).   
-2.  De minister beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.   
+1.  Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), in de maand januari van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.   
+2.  Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in [artikel 2.31, vierde lid, eerste volzin, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), uiterlijk vier maanden na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat. De minister kan de periode, bedoeld in de eerste volzin, eenmalig verlengen met een periode van maximaal vier weken.   
+3.  De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.   
 
 ### Artikel  3a  
 
@@ -53,10 +54,31 @@ De Stichting dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet
 
 ### Artikel  4  
 
-####Indiening aanvraag aanwijzing
+####Inrichting aanvraag erkenning
 
-1.  Kerkgenootschappen en genootschappen op geestelijke grondslag dienen de aanvraag voor een aanwijzing, bedoeld in [artikel 2.43 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), in de maand september van het kalenderjaar voorafgaand aan een concessieperiode, bedoeld in [artikel 2.19, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) in.   
-2.  Het Commissariaat beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.   
+1.  Een aanvraag als bedoeld in artikel 3, eerste en tweede lid, bevat: 
+
+a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+
+b. een beschrijving van de structuur, bedoeld in [artikel 2.142a, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), van de omroeporganisatie, waarbij, indien van toepassing, specifiek wordt aangegeven op welke punten deze afwijkt van de gedragscode, bedoeld in [artikel 2.3, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+
+c. een beschrijving van de inrichting, sturing en beheersing van bedrijfsprocessen en van de financiële en administratieve organisatie van de omroeporganisatie;  
+
+d. een overzicht van de financiën van de omroeporganisatie, wat voor de aanvraag voor een erkenning van een omroeporganisatie, niet zijnde een samenwerkingsomroep, in elk geval inhoudt: de jaarrekening over het tweede kalenderjaar dat voorafgaat aan het jaar van de indiening van de aanvraag van die omroeporganisatie of van de omroepverenigingen waaruit die organisatie gevormd is; en  
+
+e. in geval van een samenwerkingsomroep: 
+
+1°. de statuten en reglementen van de omroepverenigingen die de samenwerkingsomroep vormen;  
+
+2°. een beschrijving van de structuur, bedoeld in [artikel 2.142a, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), van de omroepverenigingen die de samenwerkingsomroep vormen, gelet op artikel 2.142a, derde lid;  
+
+3°. een beschrijving van de inrichting, sturing en beheersing van bedrijfsprocessen en van administratieve organisatie van de omroepverenigingen die de samenwerkingsomroep vormen;  
+
+4°. een overzicht van de financiën van de omroepverenigingen die de samenwerkingsomroep vormen, en in elk geval de jaarrekening over het tweede kalenderjaar dat voorafgaat aan het jaar van de indiening van de aanvraag van die omroepverenigingen; en  
+
+5°. notariële akten en overeenkomsten, anders dan bedoeld onder 1° tot en met 4°, die betrekking hebben op de samenwerking binnen de samenwerkingsomroep.       
+2.  In geval van een aanvraag voor een voorlopige erkenning bevat de aanvraag de notariële akten en overeenkomsten die betrekking hebben op de samenwerking met de NTR of de omroeporganisatie waaraan de aanvrager de verzorging van haar media-aanbod heeft opgedragen.   
+3.  Een aanvraag gaat vergezeld van vier kopieën.   
 
 ### Afdeling  2.2  
 
@@ -147,9 +169,9 @@ c. de kosten en opbrengsten van alle andere activiteiten.
 
 ### Artikel  13  
 
-####Voorschotten Wereldomroep
+####Berekening uren en budget
 
-De regels over het verstrekken van voorschotten in artikel 12 zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+Het moment, bedoeld in de [artikelen 2.51, eerste lid, onderdeel a](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.152 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), is 1 januari 2014.  
 
 ### Artikel  13a  
 
@@ -212,7 +234,7 @@ Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in
 
 ### Hoofdstuk  4a  
 
-####Commissariaat voor de media
+####Commissariaat voor de Media
 
 ### Artikel  18a  
 
@@ -312,15 +334,9 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ### Artikel  25b  
 
-####Indiening aanvraag voor erkenningperiode 2010–2015
+####Aanvraag om bekostiging door regionale omroepen voor 2014
 
-In afwijking van artikel 3, eerste lid, dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.  
-
-### Artikel  26  
-
-####Intrekking
-
-De [Regeling toezichtskosten commerciële omroep](../../../../ministeriele-regeling/regeling/toezichtskosten/commerciële/omroep/BWBR0012826/README.md) wordt ingetrokken.  
+Voor de toepassing van de aanvraagprocedure, bedoeld in [artikel 2.170, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), worden voor het jaar 2014 als voorschriften als bedoeld in artikel 2.170, vijfde lid, onderdelen b en c, van de wet aangemerkt de desbetreffende provinciale voorschriften.  
 
 ### Artikel  27  
 

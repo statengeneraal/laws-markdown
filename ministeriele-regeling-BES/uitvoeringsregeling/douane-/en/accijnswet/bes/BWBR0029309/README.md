@@ -42,13 +42,13 @@ g. *wet:*[Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/acc
 
 Inspecteur en ontvanger als bedoeld in [artikel 1.1, aanhef en onderdeel h, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn: 
 
-a. de algemeen directeur Douane en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);  
+a. de algemeen directeur Douane, de landelijk directeuren en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);  
 
 b. de directeur-generaal Belastingdienst, voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.    
 
 ### Artikel  1.3  
 
-De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 2.153 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) (contactambtenaar).  
+De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), de landelijk directeuren en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 2.153 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) (contactambtenaar).  
 
 ### Artikel  1.4  
 
@@ -886,7 +886,7 @@ b. de inspecteur overgaat tot opname van de goederen.
 
 ### Artikel  2.71  
 
-De algemeen directeur, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is bevoegd tot het geven van toestemming als bedoeld in [artikel 2.66, zesde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) voor het vorderen van gehele ontkleding of het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.  
+De directeur van het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdeel a, onder a2, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is bevoegd tot het geven van toestemming als bedoeld in [artikel 2.66, zesde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) voor het vorderen van gehele ontkleding of het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.  
 
 ### Afdeling  2.21  
 
@@ -962,11 +962,11 @@ Degene die artikel 2.61, achtste lid, overtreedt, pleegt een verzuim ter zake w
 
 ### Artikel  2.81  
 
-In deze afdeling wordt verstaan onder:   a. de minister:  de Minister van Economische Zaken, Landbouw en Innovatie;    b. besluit:  het [Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);    c. beschikkingsbevoegde:  een exporteur als bedoeld in artikel 2, derde lid, van verordening 428/2009 met dien verstande dat voor een bestemming buiten het douanegebied van de Gemeenschap een bestemming buiten de BES eilanden wordt gelezen;    d. verordening 428/2009:  verordening (EG) nr. 428/2009 van de Raad van de Europese Unie van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van goederen voor tweeërlei gebruik (PbEU L 134);    e. N.A.V.O.-strijdkrachten:  de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 355).     
+In deze afdeling wordt verstaan onder:   a. de minister:  de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;    b. besluit:  het [Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);    c. beschikkingsbevoegde:  een exporteur als bedoeld in artikel 2, derde lid, van Verordening 428/2009 met dien verstande dat voor een bestemming buiten het douanegebied van de Unie een bestemming buiten de BES eilanden wordt gelezen;    d. Verordening 428/2009:  Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);    e. N.A.V.O.-strijdkrachten:  de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 355).     
 
 ### Artikel  2.82  
 
-Als militaire goederen worden aangewezen de goederen, opgenomen in de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is.  
+Als militaire goederen worden aangewezen de goederen, opgenomen in de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is.  
 
 ### Artikel  2.83  
 
@@ -988,7 +988,7 @@ a. het land van bestemming;
 
 b. de naam van de ontvanger van de goederen;  
 
-c. de omschrijving van de goederen waarop de melding betrekking heeft overeenkomstig de Gemeenschappelijke EU-lijst van militaire goederen, de merken en nummers, het aantal en de soort van de colli, of voor onverpakte goederen het aantal voorwerpen; en  
+c. de omschrijving van de goederen waarop de melding betrekking heeft overeenkomstig de de lijst van goederen, genoemd in artikel 2.82, de merken en nummers, het aantal en de soort van de colli, of voor onverpakte goederen het aantal voorwerpen; en  
 
 d. een nauwkeurige vermelding van de plaats, bestaande uit de naam van de plaats en de postcode aangevuld met huisnummer, waar de goederen kunnen worden onderzocht.     
 4.  De inspecteur kan een persoon, die gehouden is om meldingen te doen, schriftelijk toestemming geven de melding anders dan schriftelijk te doen.   
@@ -1406,7 +1406,7 @@ De bijlagen zijn genummerd van 1 tot en met 15, met dien verstande dat bijlage 4
 
 ### Bijlage  3  
 
-*Model van het formulier enig document: basisset (kantoorexemplaar) en bislijst, bedoeld in artikel 2.5 van de regeling*    ![248411](http://wetten.overheid.nl/Illustration/248411)
+*Model van het formulier enig document: basisset (kantoorexemplaar) en bislijst, bedoeld in artikel 2.5 van de regeling*    ![248410](http://wetten.overheid.nl/Illustration/248410)
 ![248411](http://wetten.overheid.nl/Illustration/248411)
 
 ### Bijlage  4a  

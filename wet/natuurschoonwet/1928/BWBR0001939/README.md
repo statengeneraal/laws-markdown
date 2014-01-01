@@ -23,9 +23,9 @@ b. eigenaar:
 
 c. economische eigendom: een samenstel van rechten en verplichtingen met betrekking tot een onroerende zaak, dat een belang bij die zaak vertegenwoordigt. Het belang omvat ten minste enig risico van waardeverandering en komt toe aan een ander dan de civiel-juridische eigenaar. De verlening van uitsluitend het recht op levering wordt niet aangemerkt als overdracht van economische eigendom;  
 
-d. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+d. Onze Minister: Onze Minister van Economische Zaken;  
 
-e. Onze Ministers: Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Financiën.     
+e. Onze Ministers: Onze Minister van Economische Zaken en Onze Minister van Financiën.     
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de voorwaarden waaraan een onroerende zaak moet voldoen om te kunnen worden aangemerkt als een landgoed. Die voorwaarden betreffen: 
 
 a. de oppervlakte van de onroerende zaak, waarbij mede in aanmerking kan worden genomen de oppervlakte van één aangrenzende onroerende zaak die als een landgoed is aangemerkt of gelijktijdig met de eerstgenoemde onroerende zaak als een landgoed wordt aangemerkt, indien tussen de beide onroerende zaken een nauwe historische band bestaat;  
@@ -108,7 +108,7 @@ e. zich met betrekking tot een aangrenzende onroerende zaak, waarvan de oppervla
 2.  Het vorige lid is slechts van toepassing, indien in de aangifte behalve de naar [artikel 21 van de voormelde wet](../../../../wet/successiewet/1956/BWBR0002226/README.md) bepaalde waarde in het economische verkeer worden opgegeven de in dat lid bedoelde waarde in het economische verkeer en de in artikel 2, vierde lid, bedoelde beschikking, zomede, indien en voor zover het een opengesteld landgoed betreft, de beschikking, waarbij de regelen voor de openstelling zijn goedgekeurd.   
 3.  Het in het eerste lid bepaalde geldt ook, indien de hiervoor bedoelde beschikkingen op verzoek van de verkrijgers eerst na het overlijden of de schenking zijn afgegeven.   
 4.  Het in het eerste lid bepaalde geldt niet voor zover het een verkrijging in de zin van de [Successiewet 1956](../../../../wet/successiewet/1956/BWBR0002226/README.md) betreft door degene die in de vijf jaren voorafgaande aan de verkrijging de onroerende zaak onder bezwarende titel heeft overgedragen en, gedurende die periode van vijf jaren, voor een verkrijging door zijn rechtsopvolgers onder algemene titel.   
-5.  In het aanslagbiljet wordt behalve van het bedrag van de aanslag melding gemaakt van het bedrag van de terstond invorderbare belasting. De vaststelling van laatstbedoeld bedrag wordt voor de toepassing van de wettelijke bepalingen betreffende de schenk- en erfbelasting en de regeling inzake heffingsrente beschouwd als de oplegging van een aanslag.   
+5.  In het aanslagbiljet wordt behalve van het bedrag van de aanslag melding gemaakt van het bedrag van de terstond invorderbare belasting. De vaststelling van laatstbedoeld bedrag wordt voor de toepassing van de wettelijke bepalingen betreffende de schenk- en erfbelasting en de regeling inzake belastingrente beschouwd als de oplegging van een aanslag.   
 
 ### Artikel  7a  
 

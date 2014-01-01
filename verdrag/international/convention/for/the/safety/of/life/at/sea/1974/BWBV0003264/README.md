@@ -148,7 +148,7 @@ When in accordance with the present Convention special rules are drawn up by agr
 ####Deposit and Registration
 
 (a).  The present Convention shall be deposited with the Secretary-General of the Organization who shall transmit certified true copies thereof to the Governments of all States which have signed the present Convention or acceded to it.   
-(b).  As soon as the present Convention enters into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretary-General of the United Nations for registration and publication, in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+(b).  As soon as the present Convention enters into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretary-General of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.   
 
 ### ARTICLE  XIII  
 
@@ -207,11 +207,13 @@ For the purpose of the present Regulations, unless expressly provided otherwise:
 
 (k) “New ship” means a ship the keel of which is laid or which is at a similar stage of construction on or after 25 May 1980.  
 
-(l) “Existing ship” means a ship which is not a new ship.  
+(l) “Existing ship” means a ship which is not a new ship,  
 
 (m) A mile is 1,852 metres or 6,080 feet.  
 
-(n) “Anniversary date” means the day and the month of each year which will correspond to the date of expiry of the relevant certificate.    
+(n) “Age of a ship” means the elapsed period of time determined from the year of build as indicated on the ship's registry papers.  
+
+(n) "Anniversary date" means the day and the month of each year which will correspond to the date of expiry of the relevant certificate.    
 
 ### Regulation  3  
 
@@ -276,11 +278,11 @@ d).  In every case, the Administration shall fully guarantee the completeness an
 (iii) additional surveys, as occasion arises.     
 (b).  The surveys referred to above shall be carried out as follows: 
 
-(i) the initial survey shall include a complete inspection of the ship's structure, machinery and equipment, including the outside of the ship's bottom and the inside and outside of the boilers. This survey shall be such as to ensure that the arrangements, materials and scantlings of the structure, boilers and other pressure vessels and their appurtenances, main and auxiliary machinery, electrical installation, radio installations including those used in life-saving appliances, fire protection, fire safety systems and appliances, life-saving appliances and arrangements, shipborne navigational equipment, nautical publications, means of embarkation for pilots and other equipment fully comply with the requirements of the present regulations, and of the laws, decrees, orders and regulations promulgated as a result thereof by the Administration for ships of the service for which it is intended. The survey shall also be such as to ensure that the workmanship of all parts of the ship and its equipment is in all respects satisfactory, and that the ship is provided with the lights, shapes, means of making sound signals and distress signals as required by the provisions of the present regulations and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+(i) the initial survey shall include a complete inspection of the ship's structure, machinery and equipment, including the outside of the ship's bottom and the inside and outside of the boilers. This survey shall be such as to ensure that the arrangements, materials and scantlings of the structure, boilers and other pressure vessels and their appurtenances, main and auxiliary machinery, electrical installation, radio installations including those used in life-saving appliances, fire protection, fire safety systems and appliances, life-saving appliances and arrangements, shipborne navigational equipment, nautical publications, means of embarkation for pilots and other equipment fully comply with the requirements of the present regulations, and of the laws, decrees, orders and regulations promulgated as a result thereof by the Administration for ships of the service for which it is intended. The survey shall also be such as to ensure that the workmanship of all parts of the ship and its equipment is in all respects satisfactory, and that the ship is provided with the lights, shapes, means of making sound signals and distress signals as required by the provisions of the present regulations and the International Regulations for Preventing Collisions at Sea in force;  
 
-(ii) the renewal survey shall include an inspection of the structure, boilers and other pressure vessels, machinery and equipment, including the outside of the ship's bottom. The survey shall be such as to ensure that the ship, as regards the structure, boilers and other pressure vessels and their appurtenances, main and auxiliary machinery, electrical installation, radio installations including those used in life-saving appliances, fire protection, fire safety systems and appliances, life-saving appliances and arrangements, shipborne navigational equipment, nautical publications, means of embarkation for pilots and other equipment is in satisfactory condition and is fit for the service for which it is intended, and that it complies with the requirements of the present regulations and of the laws, decrees, orders and regulations promulgated as a result thereof by the Administration. The lights, shapes, means of making sound signals and distress signals carried by the ship shall also be subject to the above-mentioned survey for the purpose of ensuring that they comply with the requirements of the present regulations and of the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+(ii) the renewal survey shall include an inspection of the structure, boilers and other pressure vessels, machinery and equipment, including the outside of the ship's bottom. The survey shall be such as to ensure that the ship, as regards the structure, boilers and other pressure vessels and their appurtenances, main and auxiliary machinery, electrical installation, radio installations including those used in life-saving appliances, fire protection, fire safety systems and appliances, life-saving appliances and arrangements, shipborne navigational equipment, nautical publications, means of embarkation for pilots and other equipment is in satisfactory condition and is fit for the service for which it is intended, and that it complies with the requirements of the present regulations and of the laws, decrees, orders and regulations promulgated as a result thereof by the Administration. The lights, shapes, means of making sound signals and distress signals carried by the ship shall also be subject to the above-mentioned survey for the purpose of ensuring that they comply with the requirements of the present regulations and of the International Regulations for Preventing Collisions at Sea in force;  
 
-(iii) an additional survey either general or partial, according to the circumstances, shall be made after a repair resulting from investigations prescribed in regulation 11, or whenever any important repairs or renewals are made. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory, and that the ship complies in all respects with the provisions of the present regulations and of the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force, and of the laws, decrees, orders and regulations promulgated as a result thereof by the Administration.     
+(iii) an additional survey either general or partial, according to the circumstances, shall be made after a repair resulting from investigations prescribed in regulation 11, or whenever any important repairs or renewals are made. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory, and that the ship complies in all respects with the provisions of the present regulations and of the International Regulations for Preventing Collisions at Sea in force, and of the laws, decrees, orders and regulations promulgated as a result thereof by the Administration.     
 (c).  
 
 (i) the laws, decrees, orders and regulations referred to in paragraph (b) of this regulation shall be in all respects such as to ensure that, from the point of view of safety of life, the ship is fit for the service for which it is intended;  
@@ -304,9 +306,9 @@ a).  The life-saving appliances and other equipment of cargo ships of 500 tons g
 (v) an additional survey as prescribed for passenger ships in regulation 7b)(iii).     
 b).  The surveys referred to in paragraph (a) shall be carried out as follows: 
 
-(i) the initial survey shall include a complete inspection of the fire safety systems and appliances, life-saving appliances and arrangements except radio installations, the shipborne navigational equipment, means of embarkation for pilots and other equipment to which chapters II-1, II-2 III and V apply to ensure that they comply with the requirements of the present regulations, are in satisfactory condition and are fit for the service for which the ship is intended. The fire control plans, nautical publications, lights, shapes, means of making sound signals and distress signals shall also be subject to the above-mentioned survey for the purpose of ensuring that they comply with the requirements of the present regulations and, where applicable, the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+(i) the initial survey shall include a complete inspection of the fire safety systems and appliances, life-saving appliances and arrangements except radio installations, the shipborne navigational equipment, means of embarkation for pilots and other equipment to which chapters II-1, II-2 III and V apply to ensure that they comply with the requirements of the present regulations, are in satisfactory condition and are fit for the service for which the ship is intended. The fire control plans, nautical publications, lights, shapes, means of making sound signals and distress signals shall also be subject to the above-mentioned survey for the purpose of ensuring that they comply with the requirements of the present regulations and, where applicable, the International Regulations for Preventing Collisions at Sea in force;  
 
-(ii) the renewal and periodical surveys shall include an inspection of the equipment referred to in paragraph b)(i) to ensure that it complies with the relevant requirements of the present regulations and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force, is in satisfactory condition and is fit for the service for which the ship is intended;  
+(ii) the renewal and periodical surveys shall include an inspection of the equipment referred to in paragraph b)(i) to ensure that it complies with the relevant requirements of the present regulations and the International Regulations for Preventing Collisions at Sea in force, is in satisfactory condition and is fit for the service for which the ship is intended;  
 
 (iii) the annual survey shall include a general inspection of the equipment referred to in paragraph b)(i) to ensure that is has been maintained in accordance with regulation 11a) and that it remains satisfactory for the service for which the ship is intended.     
 c).  The periodical and annual surveys referred to in paragraphs a)(iii) and a)(iv) shall be endorsed on the Cargo Ship Safety Equipment Certificate.   
@@ -561,11 +563,11 @@ For the purpose of this chapter, unless expressly provided otherwise:
 
 4. *Forward terminal* is the forward limit of the subdivision length.  
 
-5. *Length (L)* is the length as defined in the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force.  
+5. *Length (L)* is the length as defined in the International Convention on Load Lines in force.  
 
-6. *Freeboard deck* is the deck as defined in the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force.  
+6. *Freeboard deck* is the deck as defined in the International Convention on Load Lines in force.  
 
-7. *Forward perpendicular* is the forward perpendicular as defined in the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force.  
+7. *Forward perpendicular* is the forward perpendicular as defined in the International Convention on Load Lines in force.  
 
 8. *Breadth (B)* is the greatest moulded breadth of the ship at or below the deepest subdivision draught.  
 
@@ -864,14 +866,14 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 ####Corrosion protection of cargo oil tanks of crude oil tankers
 
-1.  Paragraph 3 shall apply to crude oil tankers , as defined in [regulation 1 of Annex I to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), of 5,000 tonnes deadweight and above: <sup> 1)  Refer to items 1.11.1 or 1.11.4 of the Supplement to the International Oil Pollution Prevention Certificate (Form B).  </sup> 
+1.  Paragraph 3 shall apply to crude oil tankers , as defined in regulation 1 of Annex I to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, of 5,000 tonnes deadweight and above: <sup> 1)  Refer to items 1.11.1 or 1.11.4 of the Supplement to the International Oil Pollution Prevention Certificate (Form B).  </sup> 
 
 .1. for which the building contract is placed on or after 1 January 2013; or  
 
 .2. in the absence of a building contract, the keels of which are laid or which are at a similar stage of construction on or after 1 July 2013; or  
 
 .3. the delivery of which is on or after 1 January 2016.     
-2.  Paragraph 3 shall not apply to combination carriers or chemical tankers as defined in [regulations 1 of Annexes I](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) and [II, respectively, to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md). For the purpose of this regulation, chemical tankers also include chemical tankers certified to carry oil.   
+2.  Paragraph 3 shall not apply to combination carriers or chemical tankers as defined in regulations 1 of Annexes I and II, respectively, to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto. For the purpose of this regulation, chemical tankers also include chemical tankers certified to carry oil.   
 3.  All cargo oil tanks of crude oil tankers shall be: 
 
 .1. coated during the construction of the ship in accordance with the Performance standard for protective coatings for cargo oil tanks of crude oil tankers, adopted by the Maritime Safety Committee by resolution MSC.288(87), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention concerning the amendment procedures applicable to the Annex other than chapter I; or  
@@ -934,12 +936,12 @@ In addition to the requirements contained elsewhere in the present regulations, 
 1.  The subdivision of a ship is considered sufficient if the attained subdivision index *A*, determined in accordance with regulation 7, is not less than the required subdivision index *R* calculated in accordance with this regulation and if, in addition, the partial indices *A*<sub>s</sub>, *A*<sub>p</sub> and *A*<sub>l</sub> are not less than 0.9 *R* for passenger ships and 0.5 *R* for cargo ships.   
 2.  For all ships to which the damage stability requirements of this chapter apply, the degree of subdivision to be provided shall be determined by the required subdivision index *R*, as follows: 
 
-.1. In the case of cargo ships greater than 100 m in length (*L <sub>s</sub>*):   ![10000053191](http://wetten.overheid.nl/Illustration/10000053191)
+.1. In the case of cargo ships greater than 100 m in length (*L <sub>s</sub>*):   ![]()
 
-.2. In the case of cargo ships not less than 80 m in length (*L <sub>s</sub>*) and not greater than 100 m in length (*L <sub>s</sub>*):   ![10000053192](http://wetten.overheid.nl/Illustration/10000053192)
+.2. In the case of cargo ships not less than 80 m in length (*L <sub>s</sub>*) and not greater than 100 m in length (*L <sub>s</sub>*):   ![]()
 where *R <sub>o</sub>* is the value *R* as calculated in accordance with the formula in subparagraph .1.  
 
-.3. In the case of passenger ships:   ![10000053193](http://wetten.overheid.nl/Illustration/10000053193)
+.3. In the case of passenger ships:   ![]()
 where: *N* = *N*<sub>1</sub> + 2 *N*<sub>2</sub> *N*<sub>1</sub> = number of persons for whom lifeboats are provided *N*<sub>2</sub> = number of persons (including officers and crew) the ship is permitted to carry in excess of *N*<sub>1</sub>.  
 
 .4. Where the conditions of service are such that compliance with paragraph 2.3 of this regulation on the basis of *N* = *N*<sub>1</sub> + 2 *N*<sub>2</sub> is impracticable and where the Administration considers that a suitably reduced degree of hazard exists, a lesser value of *N* may be taken but in no case less than *N* = *N*<sub>1</sub> + *N*<sub>2</sub>.     
@@ -960,37 +962,37 @@ where: *N* = *N*<sub>1</sub> + 2 *N*<sub>2</sub> *N*<sub>1</sub> = number of per
 
 ####Calculation of the factor p <sub>i</sub>
 
-1.  The factor *p <sub>i</sub>* for a compartment or group of compartments shall be calculated in accordance with paragraphs 1.1 and 1.2 using the following notations: *j* = the aftmost damage zone number involved in the damage starting with No.1 at the stern; *n* = the number of adjacent damage zones involved in the damage; *k* = is the number of a particular longitudinal bulkhead as barrier for transverse penetration in a damage zone counted from shell towards the centre line. The shell has *k* = 0; *x1* = the distance from the aft terminal of *L <sub>s</sub>* to the aft end of the zone in question; *x2* = the distance from the aft terminal of *L <sub>s</sub>* to the forward end of the zone in question; *b* = the mean transverse distance in metres measured at right angles to the centreline at the deepest subdivision loadline between the shell and an assumed vertical plane extended between the longitudinal limits used in calculating the factor *p <sub>i</sub>* and which is a tangent to, or common with, all or part of the outermost portion of the longitudinal bulkhead under consideration. This vertical plane shall be so orientated that the mean transverse distance to the shell is a maximum, but not more than twice the least distance between the plane and the shell. If the upper part of a longitudinal bulkhead is below the deepest subdivision loadline the vertical plane used for determination of *b* is assumed to extend upwards to the deepest subdivision waterline. In any case, *b* is not to be taken greater than *B* /2. If the damage involves a single zone only:   ![10000053233](http://wetten.overheid.nl/Illustration/10000053233)
-If the damage involves two adjacent zones:   ![10000053234](http://wetten.overheid.nl/Illustration/10000053234)
-If the damage involves three or more adjacent zones:   ![10000053235](http://wetten.overheid.nl/Illustration/10000053235)
+1.  The factor *p <sub>i</sub>* for a compartment or group of compartments shall be calculated in accordance with paragraphs 1.1 and 1.2 using the following notations: *j* = the aftmost damage zone number involved in the damage starting with No.1 at the stern; *n* = the number of adjacent damage zones involved in the damage; *k* = is the number of a particular longitudinal bulkhead as barrier for transverse penetration in a damage zone counted from shell towards the centre line. The shell has *k* = 0; *x1* = the distance from the aft terminal of *L <sub>s</sub>* to the aft end of the zone in question; *x2* = the distance from the aft terminal of *L <sub>s</sub>* to the forward end of the zone in question; *b* = the mean transverse distance in metres measured at right angles to the centreline at the deepest subdivision loadline between the shell and an assumed vertical plane extended between the longitudinal limits used in calculating the factor *p <sub>i</sub>* and which is a tangent to, or common with, all or part of the outermost portion of the longitudinal bulkhead under consideration. This vertical plane shall be so orientated that the mean transverse distance to the shell is a maximum, but not more than twice the least distance between the plane and the shell. If the upper part of a longitudinal bulkhead is below the deepest subdivision loadline the vertical plane used for determination of *b* is assumed to extend upwards to the deepest subdivision waterline. In any case, *b* is not to be taken greater than *B* /2. If the damage involves a single zone only:   ![]()
+If the damage involves two adjacent zones:   ![]()
+If the damage involves three or more adjacent zones:   ![]()
 and where *r* (*x1, x2, b <sub>0</sub>*) = 0 
 
-1.1. The factor *p* (*x1, x2*) is to be calculated according to the following formulae: Overall normalized max damage length: *J*<sub>max</sub> = 10/33 Knuckle point in the distribution: *J <sub>kn</sub>* = 5/33 Cumulative probability at *J <sub>kn</sub>*: *p <sub>k</sub>* = 11/12 Maximum absolute damage length: *l*<sub>max</sub> = 60 m Length where normalized distribution ends: *L* * = 260 m Probability density at *J* = 0:   ![10000053236](http://wetten.overheid.nl/Illustration/10000053236)
-![10000053237](http://wetten.overheid.nl/Illustration/10000053237)
-![10000053238](http://wetten.overheid.nl/Illustration/10000053238)
-![10000053239](http://wetten.overheid.nl/Illustration/10000053239)
-![10000053240](http://wetten.overheid.nl/Illustration/10000053240)
-![10000053241](http://wetten.overheid.nl/Illustration/10000053241)
-![10000053242](http://wetten.overheid.nl/Illustration/10000053242)
-The non-dimensional damage length:   ![10000053243](http://wetten.overheid.nl/Illustration/10000053243)
+1.1. The factor *p* (*x1, x2*) is to be calculated according to the following formulae: Overall normalized max damage length: *J*<sub>max</sub> = 10/33 Knuckle point in the distribution: *J <sub>kn</sub>* = 5/33 Cumulative probability at *J <sub>kn</sub>*: *p <sub>k</sub>* = 11/12 Maximum absolute damage length: *l*<sub>max</sub> = 60 m Length where normalized distribution ends: *L* * = 260 m Probability density at *J* = 0:   ![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+The non-dimensional damage length:   ![]()
 The normalized length of a compartment or group of compartments: *J <sub>n</sub>* is to be taken as the lesser of *J* and *J <sub>m</sub>* 
 
-1.1.1. Where neither limits of the compartment or group of compartments under consideration coincides with the aft or forward terminals:   ![10000053244](http://wetten.overheid.nl/Illustration/10000053244)
-![10000053245](http://wetten.overheid.nl/Illustration/10000053245)
+1.1.1. Where neither limits of the compartment or group of compartments under consideration coincides with the aft or forward terminals:   ![]()
+![]()
 
-1.1.2. Where the aft limit of the compartment or group of compartments under consideration coincides with the aft terminal or the forward limit of the compartment or group of compartments under consideration coincides with the forward terminal:   ![10000053246](http://wetten.overheid.nl/Illustration/10000053246)
-![10000053247](http://wetten.overheid.nl/Illustration/10000053247)
+1.1.2. Where the aft limit of the compartment or group of compartments under consideration coincides with the aft terminal or the forward limit of the compartment or group of compartments under consideration coincides with the forward terminal:   ![]()
+![]()
 
-1.1.3. Where the compartment or groups of compartments considered extends over the entire subdivision length (*L <sub>s</sub>*):   ![10000053248](http://wetten.overheid.nl/Illustration/10000053248)
+1.1.3. Where the compartment or groups of compartments considered extends over the entire subdivision length (*L <sub>s</sub>*):   ![]()
 
-1.2. The factor r(*x1, x2, b*) shall be determined by the following formulae:   ![10000053249](http://wetten.overheid.nl/Illustration/10000053249)
-where:   ![10000053250](http://wetten.overheid.nl/Illustration/10000053250)
+1.2. The factor r(*x1, x2, b*) shall be determined by the following formulae:   ![]()
+where:   ![]()
 
-1.2.1. Where the compartment or groups of compartments considered extends over the entire subdivision length (*L <sub>s</sub>*):   ![10000053251](http://wetten.overheid.nl/Illustration/10000053251)
+1.2.1. Where the compartment or groups of compartments considered extends over the entire subdivision length (*L <sub>s</sub>*):   ![]()
 
-1.2.2. Where neither limits of the compartment or group of compartments under consideration coincides with the aft or forward terminals:   ![10000053252](http://wetten.overheid.nl/Illustration/10000053252)
+1.2.2. Where neither limits of the compartment or group of compartments under consideration coincides with the aft or forward terminals:   ![]()
 
-1.2.3. Where the aft limit of the compartment or group of compartments under consideration coincides with the aft terminal or the forward limit of the compartment or group of compartments under consideration coincides with the forward terminal:   ![10000053253](http://wetten.overheid.nl/Illustration/10000053253)
+1.2.3. Where the aft limit of the compartment or group of compartments under consideration coincides with the aft terminal or the forward limit of the compartment or group of compartments under consideration coincides with the forward terminal:   ![]()
 
 ### Regulation  7-2  
 
@@ -998,17 +1000,17 @@ where:   ![10000053250](http://wetten.overheid.nl/Illustration/10000053250)
 
 1.  The factor *s <sub>i</sub>* shall be determined for each case of assumed flooding, involving a compartment or group of compartments, in accordance with the following notations and the provisions in this regulation. θ <sub>e</sub> is the equilibrium heel angle in any stage of flooding, in degrees; θ <sub>v</sub> is the angle, in any stage of flooding, where the righting lever becomes negative, or the angle at which an opening incapable of being closed weathertight becomes submerged; *GZ*<sub>max</sub> is the maximum positive righting lever, in metres, up to the angle θ <sub>v</sub>; *Range* is the range of positive righting levers, in degrees, measured from the angle θ <sub>e</sub>. The positive range is to be taken up to the angle θ <sub>v</sub>; *Flooding stage* is any discrete step during the flooding process, including the stage before equalization (if any) until final equilibrium has been reached. 
 
-1.1. The factor *s <sub>i</sub>*, for any damage case at any initial loading condition, *d <sub>i</sub>*, shall be obtained from the formula:   ![10000053254](http://wetten.overheid.nl/Illustration/10000053254)
+1.1. The factor *s <sub>i</sub>*, for any damage case at any initial loading condition, *d <sub>i</sub>*, shall be obtained from the formula:   ![]()
 where: *s*<sub>intermediate,i</sub> is the probability to survive all intermediate flooding stages until the final equilibrium stage, and is calculated in accordance with paragraph 2; *s*<sub>final,i</sub> is the probability to survive in the final equilibrium stage of flooding. It is calculated in accordance with paragraph 3; *s*<sub>mom,i</sub> is the probability to survive heeling moments, and is calculated in accordance with paragraph 4.     
-2.  The factor s <sub>intermediate,i</sub> is applicable only to passenger ships (for cargo ships s <sub>intermediate,i</sub> should be taken as unity) and shall be taken as the least of the s-factors obtained from all flooding stages including the stage before equalization, if any, and is to be calculated as follows:   ![10000053255](http://wetten.overheid.nl/Illustration/10000053255)
+2.  The factor s <sub>intermediate,i</sub> is applicable only to passenger ships (for cargo ships s <sub>intermediate,i</sub> should be taken as unity) and shall be taken as the least of the s-factors obtained from all flooding stages including the stage before equalization, if any, and is to be calculated as follows:   ![]()
 where *GZ*<sub>max</sub> is not to be taken as more than 0.05 m and *Range* as not more than 7°. *s*<sub>intermediate</sub> = 0, if the intermediate heel angle exceeds 15º. Where cross-flooding fittings are required, the time for equalization shall not exceed 10 min.   
-3.  The factor *s*<sub>final,i</sub> shall be obtained from the formula:   ![10000053256](http://wetten.overheid.nl/Illustration/10000053256)
-where: *GZ*<sub>max</sub> is not to be taken as more than 0.12 m; *Range* is not to be taken as more than 16°;   ![10000053257](http://wetten.overheid.nl/Illustration/10000053257)
+3.  The factor *s*<sub>final,i</sub> shall be obtained from the formula:   ![]()
+where: *GZ*<sub>max</sub> is not to be taken as more than 0.12 m; *Range* is not to be taken as more than 16°;   ![]()
 where: θ <sub>min</sub> is 7° for passenger ships and 25° for cargo ships; and θ <sub>max</sub> is 15° for passenger ships and 30° for cargo ships.   
-4.  The factor *s*<sub>mom,i</sub> is applicable only to passenger ships (for cargo ships *s*<sub>mom,i</sub> shall be taken as unity) and shall be calculated at the final equilibrium from the formula:   ![10000053258](http://wetten.overheid.nl/Illustration/10000053258)
-where: *Displacement* is the intact displacement at the subdivision draught; *M*<sub>heel</sub> is the maximum assumed heeling moment as calculated in accordance with subparagraph 4.1; and   ![10000053259](http://wetten.overheid.nl/Illustration/10000053259)
+4.  The factor *s*<sub>mom,i</sub> is applicable only to passenger ships (for cargo ships *s*<sub>mom,i</sub> shall be taken as unity) and shall be calculated at the final equilibrium from the formula:   ![]()
+where: *Displacement* is the intact displacement at the subdivision draught; *M*<sub>heel</sub> is the maximum assumed heeling moment as calculated in accordance with subparagraph 4.1; and   ![]()
 
-4.1. The heeling moment *M*<sub>heel</sub> is to be calculated as follows:     ![10000053260](http://wetten.overheid.nl/Illustration/10000053260)
+4.1. The heeling moment *M*<sub>heel</sub> is to be calculated as follows:     ![]()
 
 4.1.1 *M*<sub>passenger</sub> is the maximum assumed heeling moment resulting from movement of passengers, and is to be obtained as follows: *M*<sub>passenger</sub> = (0.075 · *N*<sub>p</sub>) · (0.45 · *B*) (tm) where: *N <sub>p</sub>* is the maximum number of passengers permitted to be on board in the service condition corresponding to the deepest subdivision draught under consideration; and *B* is the beam of the ship. Alternatively, the heeling moment may be calculated assuming the passengers are distributed with 4 persons per square metre on available deck areas towards one side of the ship on the decks where muster stations are located and in such a way that they produce the most adverse heeling moment. In doing so, a weight of 75 kg per passenger is to be assumed.  
 
@@ -1045,11 +1047,11 @@ where: *Displacement* is the intact displacement at the subdivision draught; *M*
 
 6.1. The factor *v <sub>m</sub>* shall be obtained from the formula: *v <sub>m</sub>* = *v* (*H <sub>j, n, m,</sub> d*) – *v* (*H <sub>j, n, m</sub>*<sub>-1,</sub>*d*) where: *H <sub>j, n, m</sub>* is the least height above the baseline, in metres, within the longitudinal range of *x <sub>1</sub>*<sub>(</sub>*<sub>j</sub>*<sub>)</sub> … *x <sub>2</sub>*<sub>(</sub>*<sub>j</sub>*<sub>+</sub>*<sub>n</sub>*<sub>-1)</sub> of the *m*<sup>th</sup> horizontal boundary which is assumed to limit the vertical extent of flooding for the damaged compartments under consideration; *H <sub>j, n, m</sub>*<sub>-1</sub> is the least height above the baseline, in metres, within the longitudinal range of *x <sub>1</sub>*<sub>(</sub>*<sub>j</sub>*<sub>)</sub> … *x <sub>2</sub>*<sub>(</sub>*<sub>j</sub>*<sub>+</sub>*<sub>n</sub>*<sub>-1)</sub> of the (*m* -1) <sup>th</sup> horizontal boundary which is assumed to limit the vertical extent of flooding for the damaged compartments under consideration; *j* signifies the aft terminal of the damaged compartments under consideration; *m* represents each horizontal boundary counted upwards from the waterline under consideration; *d* is the draught in question as defined in regulation 2; and *x <sub>1</sub>* and *x <sub>2</sub>* represent the terminals of the compartment or group of compartments considered in regulation 7-1. 
 
-6.1.1. The factors *v* (*H <sub>j, n, m,</sub> d*) and *v* (*H <sub>j, n, m</sub>*<sub>-1</sub>, d) shall be obtained from the formulae:   ![10000053261](http://wetten.overheid.nl/Illustration/10000053261)
-![10000053262](http://wetten.overheid.nl/Illustration/10000053262)
+6.1.1. The factors *v* (*H <sub>j, n, m,</sub> d*) and *v* (*H <sub>j, n, m</sub>*<sub>-1</sub>, d) shall be obtained from the formulae:   ![]()
+![]()
 where: *v* (*H <sub>j, n, m,</sub> d*) is to be taken as 1, if *H <sub>m</sub>* coincides with the uppermost watertight boundary of the ship within the range (*x* 1 <sub>(</sub>*<sub>j</sub>*<sub>)</sub> … *x* 2 <sub>(</sub>*<sub>j</sub>*<sub>+</sub>*<sub>n</sub>*<sub>-1)</sub>), and *v* (*H <sub>j, n, 0,</sub> d*) is to be taken as 0. In no case is *v <sub>m</sub>* to be taken as less than zero or more than 1.  
 
-6.2. In general, each contribution *dA* to the index *A* in the case of horizontal subdivisions is obtained from the formula:   ![10000053263](http://wetten.overheid.nl/Illustration/10000053263)
+6.2. In general, each contribution *dA* to the index *A* in the case of horizontal subdivisions is obtained from the formula:   ![]()
 where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph 6.1; *s*<sub>min</sub> = the least *s* -factor for all combinations of damages obtained when the assumed damage extends from the assumed damage height *H <sub>m</sub>* downwards.     
 
 ### Regulation  7-3  
@@ -1059,14 +1061,14 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 1.  For the purpose of the subdivision and damage stability calculations of the regulations, the permeability of each general compartment or part of a compartment shall be as follows:  
 
 | Spaces  | Permeability  |
-|:---|:---|
+|---|---|
 | Appropriated to stores  Occupied by accommodation  Occupied by machinery  Void spaces  Intended for liquids  | 0.60  0.95  0.85  0.95  0 or 0.95 <sup>1)</sup>  |
 
 <sup>1)</sup> Whichever results in the more severe requirement.   
 2.  For the purpose of the subdivision and damage stability calculations of the regulations, the permeability of each cargo compartment or part of a compartment shall be as follows:  
 
 | Spaces  | Permeability at draught *d <sub>s</sub>*  | Permeability at draught *d <sub>p</sub>*  | Permeability at draught *d <sub>l</sub>*  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Dry cargo spaces  Container spaces  Ro-ro spaces  Cargo liquids  | 0.70  0.70  0.90  0.70  | 0.80  0.80  0.90  0.80  | 0.95  0.95  0.95  0.95  |
 
 3.  Other figures for permeability may be used if substantiated by calculations.   
@@ -1091,10 +1093,15 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 
 ### Regulation  8-1  
 
-####System capabilities after a flooding casualty on passenger ships
+####System capabilities and operational information after a flooding casualty on passenger ships
 
-1.  Application This regulation applies to passenger ships constructed on or after 1 July 2010 to which regulation II-2/21 applies.   
-2.  Availability of essential systems in case of flooding damage <sup> 6)  Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ. 1214).  </sup> A passenger ship shall be designed so that the systems specified in regulation II-2/21.4 remain operational when the ship is subject to flooding of any single watertight compartment.   
+1.  Application Passenger ships having length, as defined in regulation II-1/2.5, of 120 m or more or having three or more main vertical zones shall comply with the provisions of this regulation.   
+2.  Availability of essential systems in case of flooding damage <sup> 1)  Refer to the Interim Explanatory Notes for the assessment of passenger ship systems’ capabilities after a fire or flooding casualty (MSC.1/Circ.1369).  </sup> A passenger ship constructed on or after 1 July 2010 shall be designed so that the systems specified in regulation II-2/21.4 remain operational when the ship is subject to flooding of any single watertight compartment.   
+3.  Operational information after a flooding casualty For the purpose of providing operational information to the Master for safe return to port after a flooding casualty, passenger ships constructed on or after 1 January 2014 shall have: 
+
+.1 onboard stability computer; or  
+
+.2 shore-based support,   based on guidelines developed by the Organization . <sup> 2)  Refer to the Guidelines on operational information for Masters of passenger ships for safe return to port by own power or under tow (MSC.1/Circ.1400).  </sup>   
 
 ### PART  B-2  
 
@@ -1118,7 +1125,7 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 .2. Assumed extent of damage shall be as follows:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | --- | For 0.3 L from the forward perpendicular of the ship  | Any other part of the ship  |
 | Longitudinal extent  | 1/3 *L*<sup>2/3</sup> or 14.5 m, whichever is less  | 1/3 *L*<sup>2/3</sup> or 14.5 m, whichever is less  |
 | Transverse extent  | *B* /6 or 10 m, whichever is less  | *B* /6 or 5 m, whichever is less  |
@@ -1245,16 +1252,16 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 
 1.  The number of openings in the shell plating shall be reduced to the minimum compatible with the design and proper working of the ship.   
 2.  The arrangement and efficiency of the means for closing any opening in the shell plating shall be consistent with its intended purpose and the position in which it is fitted and generally to the satisfaction of the Administration.   
-3.1.  Subject to the requirements of the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force, no sidescuttle shall be fitted in such a position that its sill is below a line drawn parallel to the bulkhead deck at side and having its lowest point 2.5% of the breadth of the ship above the deepest subdivision draught, or 500 mm, whichever is the greater.   
+3.1.  Subject to the requirements of the International Convention on Load Lines in force, no sidescuttle shall be fitted in such a position that its sill is below a line drawn parallel to the bulkhead deck at side and having its lowest point 2.5% of the breadth of the ship above the deepest subdivision draught, or 500 mm, whichever is the greater.   
 3.2.  All sidescuttles the sills of which are below the bulkhead deck of passenger ships and the freeboard deck of cargo ships, as permitted by paragraph 3.1, shall be of such construction as will effectively prevent any person opening them without the consent of the master of the ship.   
-4.  Efficient hinged inside deadlights so arranged that they can be easily and effectively closed and secured watertight, shall be fitted to all sidescuttles except that abaft one eighth of the ship’s length from the forward perpendicular and above a line drawn parallel to the bulkhead deck at side and having its lowest point at a height of 3.7 m plus 2.5% of the breadth of the ship above the deepest subdivision draught, the deadlights may be portable in passenger accommodation other than that for steerage passengers, unless the deadlights are required by the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force to be permanently attached in their proper positions. Such portable deadlights shall be stowed adjacent to the sidescuttles they serve.   
+4.  Efficient hinged inside deadlights so arranged that they can be easily and effectively closed and secured watertight, shall be fitted to all sidescuttles except that abaft one eighth of the ship’s length from the forward perpendicular and above a line drawn parallel to the bulkhead deck at side and having its lowest point at a height of 3.7 m plus 2.5% of the breadth of the ship above the deepest subdivision draught, the deadlights may be portable in passenger accommodation other than that for steerage passengers, unless the deadlights are required by the International Convention on Load Lines in force to be permanently attached in their proper positions. Such portable deadlights shall be stowed adjacent to the sidescuttles they serve.   
 5.1.  No sidescuttles shall be fitted in any spaces which are appropriated exclusively to the carriage of cargo or coal.   
 5.2.  Sidescuttles may, however, be fitted in spaces appropriated alternatively to the carriage of cargo or passengers, but they shall be of such construction as will effectively prevent any person opening them or their deadlights without the consent of the master.   
 6.  Automatic ventilating sidescuttles shall not be fitted in the shell plating below the bulkhead deck of passenger ships and the freeboard deck of cargo ships without the special sanction of the Administration.   
 7.  The number of scuppers, sanitary discharges and other similar openings in the shell plating shall be reduced to the minimum either by making each discharge serve for as many as possible of the sanitary and other pipes, or in any other satisfactory manner.   
 8.1.  All inlets and discharges in the shell plating shall be fitted with efficient and accessible arrangements for preventing the accidental admission of water into the ship.   
-8.2.1.  Subject to the requirements of the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force, and except as provided in paragraph 8.3, each separate discharge led through the shell plating from spaces below the bulkhead deck of passenger ships and the freeboard deck of cargo ships shall be provided with either one automatic non-return valve fitted with a positive means of closing it from above the bulkhead deck or with two automatic non-return valves without positive means of closing, provided that the inboard valve is situated above the deepest subdivision draught and is always accessible for examination under service conditions. Where a valve with positive means of closing is fitted, the operating position above the bulkhead deck shall always be readily accessible and means shall be provided for indicating whether the valve is open or closed.   
-8.2.2.  The requirements of the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force shall apply to discharges led through the shell plating from spaces above the bulkhead deck of passenger ships and the freeboard deck of cargo ships.   
+8.2.1.  Subject to the requirements of the International Convention on Load Lines in force, and except as provided in paragraph 8.3, each separate discharge led through the shell plating from spaces below the bulkhead deck of passenger ships and the freeboard deck of cargo ships shall be provided with either one automatic non-return valve fitted with a positive means of closing it from above the bulkhead deck or with two automatic non-return valves without positive means of closing, provided that the inboard valve is situated above the deepest subdivision draught and is always accessible for examination under service conditions. Where a valve with positive means of closing is fitted, the operating position above the bulkhead deck shall always be readily accessible and means shall be provided for indicating whether the valve is open or closed.   
+8.2.2.  The requirements of the International Convention on Load Lines in force shall apply to discharges led through the shell plating from spaces above the bulkhead deck of passenger ships and the freeboard deck of cargo ships.   
 8.3.  Machinery space, main and auxiliary sea inlets and discharges in connection with the operation of machinery shall be fitted with readily accessible valves between the pipes and the shell plating or between the pipes and fabricated boxes attached to the shell plating. In manned machinery spaces the valves may be controlled locally and shall be provided with indicators showing whether they are open or closed.   
 8.4.  Moving parts penetrating the shell plating below the deepest subdivision draught shall be fitted with a watertight sealing arrangement acceptable to the Administration. The inboard gland shall be located within a watertight space of such volume that, if flooded, the bulkhead deck will not be submerged. The Administration may require that if such compartment is flooded, essential or emergency power and lighting, internal communication, signals or other emergency devices must remain available in other parts of the ship.   
 8.5.  All shell fittings and valves required by this regulation shall be of steel, bronze or other approved ductile material. Valves of ordinary cast iron or similar material are not acceptable. All pipes to which this regulation refers shall be of steel or other equivalent material to the satisfaction of the Administration.   
@@ -1299,7 +1306,7 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 
 1.  The Administration may require that all reasonable and practicable measures shall be taken to limit the entry and spread of water above the bulkhead deck. Such measures may include partial bulkheads or webs. When partial watertight bulkheads and webs are fitted on the bulkhead deck, above or in the immediate vicinity of watertight bulkheads, they shall have watertight shell and bulkhead deck connections so as to restrict the flow of water along the deck when the ship is in a heeled damaged condition. Where the partial watertight bulkhead does not line up with the bulkhead below, the bulkhead deck between shall be made effectively watertight. Where openings, pipes, scuppers, electric cables etc. are carried through the partial watertight bulkheads or decks within the immersed part of the bulkhead deck, arrangements shall be made to ensure the watertight integrity of the structure above the bulkhead deck. <sup> 9)  Refer to the Guidance notes on the integrity of flooding boundaries above the bulkhead deck of passenger ships for proper application of regulations II-1/8 and 20, paragraph 1, of SOLAS 1974, as amended (MSC/Circ.541, as may be amended).  </sup>   
 2.  All openings in the exposed weather deck shall have coamings of ample height and strength and shall be provided with efficient means for expeditiously closing them weathertight. Freeing ports, open rails and scuppers shall be fitted as necessary for rapidly clearing the weather deck of water under all weather conditions.   
-3.  The open end of air pipes terminating within a superstructure shall be at least 1 m above the waterline when the ship heels to an angle of 15º, or the maximum angle of heel during intermediate stages of flooding, as determined by direct calculation, whichever is the greater. Alternatively, air pipes from tanks other than oil tanks may discharge through the side of the superstructure. The provisions of this paragraph are without prejudice to the provisions of the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force.   
+3.  The open end of air pipes terminating within a superstructure shall be at least 1 m above the waterline when the ship heels to an angle of 15º, or the maximum angle of heel during intermediate stages of flooding, as determined by direct calculation, whichever is the greater. Alternatively, air pipes from tanks other than oil tanks may discharge through the side of the superstructure. The provisions of this paragraph are without prejudice to the provisions of the International Convention on Load Lines in force.   
 4.  Sidescuttles, gangway, cargo and fuelling ports and other means for closing openings in the shell plating above the bulkhead deck shall be of efficient design and construction and of sufficient strength having regard to the spaces in which they are fitted and their positions relative to the deepest subdivision draught. <sup> 10)  Refer to the Recommendation on strength and security and locking arrangements of shell doors on ro-ro passenger ships, adopted by the Organization by resolution A.793(19).  </sup>   
 5.  Efficient inside deadlights, so arranged that they can be easily and effectively closed and secured watertight, shall be provided for all sidescuttles to spaces below the first deck above the bulkhead deck.   
 
@@ -1349,7 +1356,7 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 
 1.  On completion of loading of the ship and prior to its departure, the master shall determine the ship’s trim and stability and also ascertain and record that the ship is in compliance with stability criteria in relevant regulations. The determination of the ship’s stability shall always be made by calculation. The Administration may accept the use of an electronic loading and stability computer or equivalent means for this purpose.   
 2.  Water ballast should not in general be carried in tanks intended for oil fuel. In ships in which it is not practicable to avoid putting water in oil fuel tanks, oily-water separating equipment to the satisfaction of the Administration shall be fitted, or other alternative means, such as discharge to shore facilities, acceptable to the Administration shall be provided for disposing of the oily-water ballast.   
-3.  The provisions of this regulation are without prejudice to the provisions of the [International Convention for the Prevention of Pollution from Ships](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) in force.   
+3.  The provisions of this regulation are without prejudice to the provisions of the International Convention for the Prevention of Pollution from Ships in force.   
 
 ### Regulation  21  
 
@@ -1389,7 +1396,7 @@ where: *v <sub>m</sub>* = the *v* -value calculated in accordance with paragraph
 
 .1. The time of opening such sidescuttles in port and of closing and locking them before the ship leaves port shall be entered in such log-book as may be prescribed by the Administration.  
 
-.2. For any ship that has one or more sidescuttles so placed that the requirements of paragraph 14 would apply when it was floating at its deepest subdivision draught, the Administration may indicate the limiting mean draught at which these sidescuttles will have their sills above the line drawn parallel to the bulkhead deck at side, and having its lowest point 1.4 m plus 2.5% of the breadth of the ship above the waterline corresponding to the limiting mean draught, and at which it will therefore be permissible to depart from port without previously closing and locking them and to open them at sea on the responsibility of the master during the voyage to the next port. In tropical zones as defined in the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force, this limiting draught may be increased by 0.3 m.     
+.2. For any ship that has one or more sidescuttles so placed that the requirements of paragraph 14 would apply when it was floating at its deepest subdivision draught, the Administration may indicate the limiting mean draught at which these sidescuttles will have their sills above the line drawn parallel to the bulkhead deck at side, and having its lowest point 1.4 m plus 2.5% of the breadth of the ship above the waterline corresponding to the limiting mean draught, and at which it will therefore be permissible to depart from port without previously closing and locking them and to open them at sea on the responsibility of the master during the voyage to the next port. In tropical zones as defined in the International Convention on Load Lines in force, this limiting draught may be increased by 0.3 m.     
 15.  Sidescuttles and their deadlights which will not be accessible during navigation shall be closed and secured before the ship leaves port.   
 16.  If cargo is carried in spaces referred to in regulation 15.5.2, the sidescuttles and their deadlights shall be closed watertight and locked before the cargo is shipped and such closing and locking shall be recorded in such log-book as may be prescribed by the Administration.   
 17.  When a rubbish-chute, etc., is not in use, both the cover and the valve required by regulation 15.10.2 shall be kept closed and secured.   
@@ -1719,7 +1726,7 @@ Machinery spaces of category A shall be adequately ventilated so as to ensure th
 
 2.6. Provision shall be made for the drainage of enclosed cargo spaces situated on the bulkhead deck of a passenger ship and on the freeboard deck of a cargo ship, provided that the Administration may permit the means of drainage to be dispensed with in any particular compartment of any ship or class of ship if it is satisfied that by reason of size or internal subdivision of those spaces the safety of the ship is not thereby impaired. 
 
-2.6.1. Where the freeboard to the bulkhead deck or the freeboard deck, respectively, is such that the deck edge is immersed when the ship heels more than 5°, the drainage shall be by means of a sufficient number of scuppers of suitable size discharging directly overboard, fitted in accordance with the requirements of regulation 15 in the case of a passenger ship and the requirements for scuppers, inlets and discharges of the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force in the case of a cargo ship.  
+2.6.1. Where the freeboard to the bulkhead deck or the freeboard deck, respectively, is such that the deck edge is immersed when the ship heels more than 5°, the drainage shall be by means of a sufficient number of scuppers of suitable size discharging directly overboard, fitted in accordance with the requirements of regulation 15 in the case of a passenger ship and the requirements for scuppers, inlets and discharges of the International Convention on Load Lines in force in the case of a cargo ship.  
 
 2.6.2. Where the freeboard is such that the edge of the bulkhead deck or the edge of the freeboard deck, respectively, is immersed when the ship heels 5° or less, the drainage of the enclosed cargo spaces on the bulkhead deck or on the freeboard deck, respectively, shall be led to a suitable space, or spaces, of adequate capacity, having a high water level alarm and provided with suitable arrangements for discharge overboard. In addition it shall be ensured that: 
 
@@ -1736,7 +1743,7 @@ Machinery spaces of category A shall be adequately ventilated so as to ensure th
 
 3.1. The bilge pumping system required by paragraph 2.1 shall be capable of operation under all practicable conditions after a casualty whether the ship is upright or listed. For this purpose wing suctions shall generally be fitted except in narrow compartments at the end of the ship where one suction may be sufficient. In compartments of unusual form, additional suctions may be required. Arrangements shall be made whereby water in the compartment may find its way to the suction pipes. Where, for particular compartments, the Administration is satisfied that the provision of drainage may be undesirable, it may allow such provision to be dispensed with if calculations made in accordance with the conditions laid down in regulations 7 and 8 show that the survival capability of the ship will not be impaired.  
 
-3.2. At least three power pumps shall be fitted connected to the bilge main, one of which may be driven by the propulsion machinery. Where the bilge pump numeral is 30 or more, one additional independent power pump shall be provided. The bilge pump numeral shall be calculated as follows:   ![10000053231](http://wetten.overheid.nl/Illustration/10000053231)
+3.2. At least three power pumps shall be fitted connected to the bilge main, one of which may be driven by the propulsion machinery. Where the bilge pump numeral is 30 or more, one additional independent power pump shall be provided. The bilge pump numeral shall be calculated as follows:   ![]()
 where: *L* = the length of the ship (metres), as defined in regulation 2; *M* = the volume of the machinery space (cubic metres), as defined in regulation 2, that is below the bulkhead deck; with the addition thereto of the volume of any permanent oil fuel bunkers which may be situated above the inner bottom and forward of, or abaft, the machinery space; *P* = the whole volume of the passenger and crew spaces below the bulkhead deck (cubic metres), which are provided for the accommodation and use of passengers and crew, excluding baggage, store, provision and mail rooms; *V* = the whole volume of the ship below the bulkhead deck (cubic metres); *P*<sub>1</sub> = *KN*, where: *N* = the number of passengers for which the ship is to be certified; and *K* = 0.056 *L* However, where the value of *KN* is greater than the sum of *P* and the whole volume of the actual passenger spaces above the bulkhead deck, the figure to be taken as *P* 1 is that sum or two-thirds *KN*, whichever is the greater.  
 
 3.3. Where practicable, the power bilge pumps shall be placed in separate watertight compartments and so arranged or situated that these compartments will not be flooded by the same damage. If the main propulsion machinery, auxiliary machinery and boilers are in two or more watertight compartments, the pumps available for bilge service shall be distributed as far as is possible throughout these compartments.  
@@ -1759,7 +1766,7 @@ where: *L* = the length of the ship (metres), as defined in regulation 2; *M* = 
 
 3.8. All bilge suction piping up to the connection to the pumps shall be independent of other piping.  
 
-3.9. The diameter *d* of the bilge main shall be calculated according to the following formula. However, the actual internal diameter of the bilge main may be rounded off to the nearest standard size acceptable to the Administration:   ![10000053232](http://wetten.overheid.nl/Illustration/10000053232)
+3.9. The diameter *d* of the bilge main shall be calculated according to the following formula. However, the actual internal diameter of the bilge main may be rounded off to the nearest standard size acceptable to the Administration:   ![]()
 where: *d* is the internal diameter of the bilge main (millimetres); *L* and *B* are the length and the breadth of the ship (metres) as defined in regulation 2; and *D* is the moulded depth of the ship to the bulkhead deck (metres) provided that, in a ship having an enclosed cargo space on the bulkhead deck which is internally drained in accordance with the requirements of paragraph 2.6.2 and which extends for the full length of the ship, *D* shall be measured to the next deck above the bulkhead deck. Where the enclosed cargo spaces cover a lesser length, *D* shall be taken as the moulded depth to the bulkhead deck plus *lh/L* where *l* and *h* are the aggregate length and height respectively of the enclosed cargo spaces (metres). The diameter of the bilge branch pipes shall meet the requirements of the Administration.  
 
 3.10. Provision shall be made to prevent the compartment served by any bilge suction pipe being flooded in the event of the pipe being severed or otherwise damaged by collision or grounding in any other compartment. For this purpose, where the pipe is at any part situated nearer the side of the ship than one fifth of the breadth of the ship (as defined in regulation 2 and measured at right angles to the centreline at the level of the deepest subdivision load line), or is in a duct keel, a non-return valve shall be fitted to the pipe in the compartment containing the open end.  
@@ -1872,7 +1879,7 @@ Emergency sources of electrical power, fire pumps, bilge pumps except those spec
 
 2.2. For a period of 36 hours: 
 
-.1 the navigation lights and other lights required by the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force; and  
+.1 the navigation lights and other lights required by the International Regulations for Preventing Collisions at Sea in force; and  
 
 .2 on ships constructed on or after 1 February 1995, the VHF radio installation required by regulation IV/7.1.1 and IV/7.1.2; and, if applicable: 
 
@@ -1984,7 +1991,7 @@ Emergency sources of electrical power, fire pumps, bilge pumps except those spec
 .7 in all cargo pump-rooms of tankers constructed on or after 1 July 2002.     
 2.3.  For a period of 18 hours: 
 
-.1 the navigation lights and other lights required by the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+.1 the navigation lights and other lights required by the International Regulations for Preventing Collisions at Sea in force;  
 
 .2 on ships constructed on or after 1 February 1995 the VHF radio installation required by regulation IV/7.1.1 and IV/ 7.1.2; and, if applicable: 
 
@@ -2232,6 +2239,47 @@ A safety system shall be provided to ensure that serious malfunction in machiner
 ####Special consideration in respect of passenger ships
 
 Passenger ships shall be specially considered by the Administration as to whether or not the machinery spaces may be periodically unattended and if so whether additional requirements to those stipulated in these Regulations are necessary to achieve equivalent safety to that of normally attended machinery spaces.  
+
+### PART  F  
+
+####ALTERNATIVE DESIGN AND ARRANGEMENTS
+
+### Regulation  55  
+
+####Alternative design and arrangements
+
+1.  Purpose The purpose of this regulation is to provide a methodology for alternative design and arrangements for machinery and electrical installations.   
+2.  General 
+
+2.1. Machinery and electrical installation design and arrangements may deviate from the requirements set out in parts C, D and E, provided that the alternative design and arrangements meet the intent of the requirements concerned and provide an equivalent level of safety to this chapter.  
+
+2.2. When alternative design or arrangements deviate from the prescriptive requirements of parts C, D and E, an engineering analysis, evaluation and approval of the design and arrangements shall be carried out in accordance with this regulation.     
+3.  Engineering analysis The engineering analysis shall be prepared and submitted to the Administration, based on the guidelines developed by the Organization and shall include, as a minimum, the following elements: <sup> 1)  Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212).  </sup> 
+
+.1. determination of the ship type, machinery, electrical installations and space(s) concerned;  
+
+.2. identification of the prescriptive requirement(s) with which the machinery and electrical installations will not comply;  
+
+.3. identification of the reason the proposed design will not meet the prescriptive requirements supported by compliance with other recognized engineering or industry standards;  
+
+.4. determination of the performance criteria for the ship, machinery, electrical installation or the space(s) concerned addressed by the relevant prescriptive requirement(s): 
+
+.1. performance criteria shall provide a level of safety not inferior to the relevant prescriptive requirements contained in parts C, D and E; and  
+
+.2. performance criteria shall be quantifiable and measurable;    
+
+.5. detailed description of the alternative design and arrangements, including a list of the assumptions used in the design and any proposed operational restrictions or conditions;  
+
+.6. technical justification demonstrating that the alternative design and arrangements meet the safety performance criteria; and  
+
+.7. risk assessment based on identification of the potential faults and hazards associated with the proposal.     
+4.  Evaluation of the alternative design and arrangements 
+
+4.1. The engineering analysis required in paragraph 3 shall be evaluated and approved by the Administration, taking into account the guidelines developed by the Organization. <sup> 1)  Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212).  </sup>  
+
+4.2. A copy of the documentation, as approved by the Administration, indicating that the alternative design and arrangements comply with this regulation, shall be carried on board the ship.     
+5.  Exchange of information The Administration shall communicate to the Organization pertinent information concerning alternative design and arrangements approved by them for circulation to all Contracting Governments.   
+6.  Re-evaluation due to change of conditions If the assumptions and operational restrictions that were stipulated in the alternative design and arrangements are changed, the engineering analysis shall be carried out under the changed condition and shall be approved by the Administration.   
 
 ### CHAPTER  II-2  
 
@@ -2549,6 +2597,10 @@ For the purpose of this Chapter, unless expressly provided otherwise:
 49 Vehicle spaces are cargo spaces intended for carriage of motor vehicles with fuel in their tanks for their own propulsion.  
 
 50 Weather deck is a deck which is completely exposed to the weather from above and from at least two sides.  
+
+51 Safe area in the context of a casualty is, from the perspective of habitability, any area(s) which is not flooded or which is outside the main vertical zone(s) in which a fire has occurred such that it can safely accommodate all persons onboard to protect them from hazards to life or health and provide them with basic services.  
+
+52 Safety centre is a control station dedicated to the management of emergency situations. Safety systems’ operation, control and/or monitoring are an integral part of the safety centre.  
 
 53 Cabin balcony is an open deck space which is provided for the exclusive use of the occupants of a single cabin and has direct access from such a cabin.    
 
@@ -2981,7 +3033,9 @@ The purpose of this regulation is to detect a fire in the space of origin and to
 
 2.2 A fixed fire detection and fire alarm system and a sample extraction smoke detection system required in this regulation and other regulations in this part shall be of an approved type and comply with the Fire Safety Systems Code.  
 
-2.3 Where a fixed fire detection and fire alarm system is required for the protection of spaces other than those specified in paragraph 5.1, at least one detector complying with the Fire Safety Systems Code shall be installed in each such space.   
+2.3 Where a fixed fire detection and fire alarm system is required for the protection of spaces other than those specified in paragraph 5.1, at least one detector complying with the Fire Safety Systems Code shall be installed in each such space.  
+
+2.4 A fixed fire detection and fire alarm system for passenger ships shall be capable of remotely and individually identifying each detector and manually operated call point.   
 ###3 Initial and periodical tests
 
 3.1 The function of fixed fire detection and fire alarm systems required by the relevant regulations of this chapter shall be tested under varying conditions of ventilation after installation.  
@@ -3006,11 +3060,11 @@ The purpose of this regulation is to detect a fire in the space of origin and to
 
 5.1 Smoke detectors in accommodation spaces Smoke detectors shall be installed in all stairways, corridors and escape routes within accommodation spaces as provided in paragraphs 5.2, 5.3 and 5.4. Consideration shall be given to the installation of special purpose smoke detectors within ventilation ducting.  
 
-5.2 Requirements for passenger ships carrying more than 36 passengers A fixed fire detection and fire alarm system shall be installed and arranged as to provide smoke detection in service spaces, control stations and accommodation spaces, including corridors, stairways and escape routes within accommodation spaces. Smoke detectors need not be fitted in private bathrooms and galleys. Spaces having little or no fire risk such as voids, public toilets, carbon dioxide rooms and similar spaces need not be fitted with a fixed fire detection and alarm system.  
+5.2 Requirements for passenger ships carrying more than 36 passengers A fixed fire detection and fire alarm system shall be installed and arranged as to provide smoke detection in service spaces, control stations and accommodation spaces, including corridors, stairways and escape routes within accommodation spaces. Smoke detectors need not be fitted in private bathrooms and galleys. Spaces having little or no fire risk such as voids, public toilets, carbon dioxide rooms and similar spaces need not be fitted with a fixed fire detection and alarm system. Detectors fitted in cabins, when activated, shall also be capable of emitting, or cause to be emitted, an audible alarm within the space where they are located.  
 
 5.3 Requirements for passenger ships carrying not more than 36 passengers There shall be installed throughout each separate zone, whether vertical or horizontal, in all accommodation and service spaces and, where it is considered necessary by the Administration, in control stations, except spaces which afford no substantial fire risk such as void spaces, sanitary spaces, etc., either: 
 
-.1 a fixed fire detection and fire alarm system so installed and arranged as to detect the presence of fire in such spaces and providing smoke detection in corridors, stairways and escape routes within accommodation spaces; or  
+.1 a fixed fire detection and fire alarm system so installed and arranged as to detect the presence of fire in such spaces and providing smoke detection in corridors, stairways and escape routes within accommodation spaces. Detectors fitted in cabins, when activated, shall also be capable of emitting, or cause to be emitted, an audible alarm within the space where they are located; or  
 
 .2 an automatic sprinkler, fire detection and fire alarm system of an approved type complying with the relevant requirements of the Fire Safety Systems Code and so installed and arranged as to protect such spaces and, in addition, a fixed fire detection and fire alarm system and so installed and arranged as to provide smoke detection in corridors, stairways and escape routes within accommodation spaces.    
 
@@ -3058,10 +3112,16 @@ A fixed fire detection and fire alarm system complying with the provisions of th
 The purpose of this regulation is to control the spread of smoke in order to minimize the hazards from smoke. For this purpose, means for controlling smoke in atriums, control stations, machinery spaces and concealed spaces shall be provided. 
 ###2. Protection of control stations outside machinery spaces
 
-Practicable measures shall be taken for control stations outside machinery spaces in order to ensure that ventilation, visibility and freedom from smoke are maintained so that, in the event of fire, the machinery and equipment contained therein may be supervised and continue to function effectively. Alternative and separate means of air supply shall be provided and air inlets of the two sources of supply shall be so disposed that the risk of both inlets drawing in smoke simultaneously is minimized. At the discretion of the Administration, such requirements need not apply to control stations situated on, and opening on to, an open deck or where local closing arrangements would be equally effective. 
+Practicable measures shall be taken for control stations outside machinery spaces in order to ensure that ventilation, visibility and freedom from smoke are maintained so that, in the event of fire, the machinery and equipment contained therein may be supervised and continue to function effectively. Alternative and separate means of air supply shall be provided and air inlets of the two sources of supply shall be so disposed that the risk of both inlets drawing in smoke simultaneously is minimized. At the discretion of the Administration, such requirements need not apply to control stations situated on, and opening on to, an open deck or where local closing arrangements would be equally effective.The ventilation system serving safety centres may be derived from the ventilation system serving the navigation bridge, unless located in an adjacent main vertical zone. 
 ###3 Release of smoke from machinery spaces
 
-3.1 The provisions of this paragraph shall apply to machinery spaces of category A and, where the Administration considers desirable, to other machinery spaces. 3.2 Suitable arrangements shall be made to permit the release of smoke, in the event of fire, from the space to be protected, subject to the provisions of regulation 9.5.2.1 The normal ventilation systems may be acceptable for this purpose. 3.3 Means of control shall be provided for permitting the release of smoke and such controls shall be located outside the space concerned so that, in the event of fire, they will not be cut off from the space they serve. 3.4 In passenger ships, the controls required by paragraph 3.3 shall be situated at one control position or grouped in as few positions as possible to the satisfaction of the Administration. Such positions shall have a safe access from the open deck. 
+3.1 The provisions of this paragraph shall apply to machinery spaces of category A and, where the Administration considers desirable, to other machinery spaces.  
+
+3.2 Suitable arrangements shall be made to permit the release of smoke, in the event of fire, from the space to be protected, subject to the provisions of regulation 9.5.2.1 The normal ventilation systems may be acceptable for this purpose.  
+
+3.3 Means of control shall be provided for permitting the release of smoke and such controls shall be located outside the space concerned so that, in the event of fire, they will not be cut off from the space they serve.  
+
+3.4 In passenger ships, the controls required by paragraph 3.3 shall be situated at one control position or grouped in as few positions as possible to the satisfaction of the Administration. Such positions shall have a safe access from the open deck.   
 ###4 Draught stops
 
 Air spaces enclosed behind ceilings, panelling or linings shall be divided by close-fitting draught stops spaced not more than 14 m apart. In the vertical direction, such enclosed air spaces, including those behind linings of stairways, trunks, etc., shall be closed at each deck. 
@@ -3128,9 +3188,9 @@ The purpose of this regulation is to contain a fire in the space of origin. For 
 
 (6) Accommodation spaces of minor fire risk Cabins containing furniture and furnishings of restricted fire risk. Offices and dispensaries containing furniture and furnishings of restricted fire risk. Public spaces containing furniture and furnishings of restricted fire risk and having a deck area of less than 50 m <sup>2</sup>.  
 
-(7) Accommodation spaces of moderate fire risk Spaces as in category (6) above but containing furniture and furnishings of other than restricted fire risk. Public spaces containing furniture and furnishings of restricted fire risk and having a deck area of 50 m <sup>2</sup> or more. Isolated lockers and small store-rooms in accommodation spaces having areas less than 4 m <sup>2</sup> (in which flammable liquids are not stowed). Sale shops. Motion picture projection and film stowage rooms. Diet kitchens (containing no open flame). Cleaning gear lockers (in which flammable liquids are not stowed). Laboratories (in which flammable liquids are not stowed). Pharmacies. Small drying rooms (having a deck area of 4 m <sup>2</sup> or less). Specie rooms. Operating rooms.  
+(7) Accommodation spaces of moderate fire risk Spaces as in category (6) above but containing furniture and furnishings of other than restricted fire risk. Public spaces containing furniture and furnishings of restricted fire risk and having a deck area of 50 m <sup>2</sup> or more. Isolated lockers and small store-rooms in accommodation spaces having areas less than 4 m <sup>2</sup> (in which flammable liquids are not stowed). Motion picture projection and film stowage rooms. Diet kitchens (containing no open flame). Cleaning gear lockers (in which flammable liquids are not stowed). Laboratories (in which flammable liquids are not stowed). Pharmacies. Small drying rooms (having a deck area of 4 m <sup>2</sup> or less). Specie rooms. Operating rooms.  
 
-(8) Accommodation spaces of greater fire risk Public spaces containing furniture and furnishings of other than restricted fire risk and having a deck area of 50 m <sup>2</sup> or more. Barber shops and beauty parlours. Saunas.  
+(8) Accommodation spaces of greater fire risk Public spaces containing furniture and furnishings of other than restricted fire risk and having a deck area of 50 m <sup>2</sup> or more. Barber shops and beauty parlours. Saunas. Sale shops.  
 
 (9) Sanitary and similar spaces Communal sanitary facilities, showers, baths, water closets, etc. Small laundry rooms. Indoor swimming pool area. Isolated pantries containing no cooking appliances in accommodation spaces. Private sanitary facilities shall be considered a portion of the space in which they are located.  
 
@@ -3151,7 +3211,7 @@ The purpose of this regulation is to contain a fire in the space of origin. For 
 .5 The Administration shall determine in respect of category (5) spaces whether the insulation values in table 9.1 shall apply to ends of deckhouses and superstructures, and whether the insulation values in table 9.2 shall apply to weather decks. In no case shall the requirements of category (5) of tables 9.1 or 9.2 necessitate enclosure of spaces which in the opinion of the Administration need not be enclosed.    *Table 9.1 – Bulkheads not bounding either main vertical zones or horizontal zones*   
 
 | Spaces  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  | (12)  | (13)  | (14)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations(1)  | B-0a  | A-0  | A-0  | A-0  | A-0  | A-60  | A-60  | A-60  | A-0  | A-0  | A-60  | A-60  | A-60  | A-60  |
 | Stairways(2)  | --- | A-0a  | A-0  | A-0  | A-0  | A-0  | A-15  | A-15  | A-0c  | A-0  | A-15  | A-30  | A-15  | A-30  |
 | Corridors(3)  | --- | --- | B-15  | A-60  | A-0  | B-15  | B-15  | B-15  | B-15  | A-0  | A-15  | A-30  | A-0  | A-30  |
@@ -3170,7 +3230,7 @@ The purpose of this regulation is to contain a fire in the space of origin. For 
 See notes following table 9.2.  *Table 9.2 – Decks not forming steps in main vertical zones nor bounding horizontal zones*   
 
 | Space below ↓Space above →  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  | (12)  | (13)  | (14)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations(1)  | A-30  | A-30  | A-15  | A-0  | A-0  | A-0  | A-15  | A-30  | A-0  | A-0  | A-0  | A-60  | A-0  | A-60  |
 | Stairways(2)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-30  | A-0  | A-30  |
 | Corridors(3)  | A-15  | A-0  | A-0a  | A-60  | A-0  | A-0  | A-15  | A-15  | A-0  | A-0  | A-0  | A-30  | A-0  | A-30  |
@@ -3255,7 +3315,7 @@ Note: To be applied to tables 9.1 and 9.2.
 2.2.4.5 Saunas shall comply with paragraph 2.2.3.4.  *Table 9.3 – Fire integrity of bulkheads separating adjacent spaces*   
 
 | Spaces  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations (1)  | A-0c  | A-0  | A-60  | A-0  | A-15  | A-60  | A-15  | A-60  | A-60  | *  | A-60  |
 | Corridors (2)  | --- | Ce  | B-0e  | A-0a B-0e  | B-0e  | A-60  | A-0  | A-0  | A-15 A-0d  | *  | A-15  |
 | Accommodation spaces(3)  | --- | --- | Ce  | A-0a B-0e  | B-0e  | A-60  | A-0  | A-0  | A-15 A-0d  | *  | A-30 A-0 <sup>d</sup>  |
@@ -3271,7 +3331,7 @@ Note: To be applied to tables 9.1 and 9.2.
 *Table 9.4 – Fire integrity of decks separating adjacent spaces*    
 
 | Space below ↓  | Space above→  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations (1)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
 | Corridors (2)  | A-0  | *  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-0  |
 | Accommodation spaces (3)  | A-60  | A-0  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-30 A-0d  |
@@ -3290,7 +3350,7 @@ Notes: To be applied to both tables 9.3 and 9.4 as appropriate.
 
 <sup>b</sup> Where spaces are of the same numerical category and superscript b appears, a bulkhead or deck of the rating shown in the tables is only required when the adjacent spaces are for a different purpose, (e.g. in category (9)). A galley next to a galley does not require a bulkhead but a galley next to a paint room requires an “A-0” bulkhead.  
 
-<sup>c</sup> Bulkhead separating the wheelhouse and chartroom from each other may have a “B-0” rating.  
+<sup>c</sup> Bulkhead separating the wheelhouse and chartroom from each other may have a “B-0” rating. No fire rating is required for those partitions separating the navigation bridge and the safety centre when the latter is within the navigation bridge.  
 
 <sup>d</sup> See paragraphs 2.2.4.2.3 and 2.2.4.2.4.  
 
@@ -3308,7 +3368,13 @@ Notes: To be applied to both tables 9.3 and 9.4 as appropriate.
 
 2.2.5.2 Lift trunks shall be so fitted as to prevent the passage of smoke and flame from one `tween-deck to another and shall be provided with means of closing so as to permit the control of draught and smoke. Machinery for lifts located within stairway enclosures shall be arranged in a separate room, surrounded by steel boundaries, except that small passages for lift cables are permitted. Lifts which open into spaces other than corridors, public spaces, special category spaces, stairways and external areas shall not open into stairways included in the means of escape.    
 
-2.2.6. *Arrangement of cabin balconies* On passenger ships constructed on or after 1 July 2008, non-load bearing partial bulkheads which separate adjacent cabin balconies shall be capable of being opened by the crew from each side for the purpose of fighting fires.    
+2.2.6. *Arrangement of cabin balconies* On passenger ships constructed on or after 1 July 2008, non-load bearing partial bulkheads which separate adjacent cabin balconies shall be capable of being opened by the crew from each side for the purpose of fighting fires.  
+
+2.2.7. *Protection of atriums* 
+
+2.2.7.1. Atriums shall be within enclosures formed of “A” class divisions having a fire rating determined in accordance with tables 9.2 and 9.4, as applicable.  
+
+2.2.7.2. Decks separating spaces within atriums shall have a fire rating determined in accordance with tables 9.2 and 9.4, as applicable.      
 
 2.3 Cargo ships except tankers 
 
@@ -3367,7 +3433,7 @@ Notes: To be applied to both tables 9.3 and 9.4 as appropriate.
 (11) Ro-ro and vehicle spaces Ro-ro spaces as defined in regulation 3.41. Vehicle spaces as defined in regulation 3.49.    *Table 9.5 – Fire integrity of bulkheads separating adjacent spaces*   
 
 | Spaces  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations (1)  | A-0e  | A-0  | A-60  | A-0  | A-15  | A-60  | A-15  | A-60  | A-60  | *  | A-60  |
 | Corridors(2)  | --- | C  | B-0  | B-0 A-0c  | B-0  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
 | Accommodation spaces (3)  | --- | --- | Ca, b  | B-0 A-0c  | B-0  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
@@ -3383,7 +3449,7 @@ Notes: To be applied to both tables 9.3 and 9.4 as appropriate.
 *Table 9.6 – Fire integrity of decks separating adjacent spaces*   
 
 | Space above  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  | Space below  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations(1)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-60  | A-0  | A-0  | A-0  | *  | A-60  |
 | Corridors(2)  | A-0  | *  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
 | Accommodation spaces (3)  | A-60  | A-0  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
@@ -3473,7 +3539,7 @@ Notes: To be applied to tables 9.5 and 9.6 as appropriate.
 2.4.2.7 Construction and arrangement of saunas shall comply with paragraph 2.2.3.4.      *Table 9.7 – Fire integrity of bulkheads separating adjacent spaces*   
 
 | Spaces  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations (1)  | A-0c  | A-0  | A-60  | A-0  | A-15  | A-60  | A-15  | A-60  | A-60  | *  |
 | Corridors (2)  | --- | C  | B-0  | B-0 A-0a  | B-0  | A-60  | A-0  | A-60  | A-0  | *  |
 | Accommodation spaces (3)  | --- | --- | C  | B-0 A-0a  | B-0  | A-60  | A-0  | A-60  | A-0  | *  |
@@ -3488,7 +3554,7 @@ Notes: To be applied to tables 9.5 and 9.6 as appropriate.
 *Table 9.8 – Fire integrity of decks separating adjacent spaces*   
 
 | Space above  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | Space below  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Control stations(1)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-60  | A-0  | -  | A-0  | *  |
 | Corridors(2)  | A-0  | *  | *  | A-0  | *  | A-60  | A-0  | -  | A-0  | *  |
 | Accommodation spaces (3)  | A-60  | A-0  | *  | A-0  | *  | A-60  | A-0  | -  | A-0  | *  |
@@ -3739,7 +3805,7 @@ Notes: To be applied to tables 9.7 and 9.8 as appropriate.
 
 7.5 Exhaust ducts from galley ranges 
 
-7.5.1 Requirements for passenger ships carrying more than 36 passengers Exhaust ducts from galley ranges shall meet the requirements of paragraphs 7.2.1.2.1 and 7.2.1.2.2 and shall be fitted with: 
+7.5.1.1 Requirements for passenger ships carrying more than 36 passengers Exhaust ducts from galley ranges shall meet the requirements of paragraphs 7.2.1.2.1 and 7.2.1.2.2 and shall be fitted with: 
 
 .1 a grease trap readily removable for cleaning unless an alternative approved grease removal system is fitted;  
 
@@ -3751,6 +3817,8 @@ Notes: To be applied to tables 9.7 and 9.8 as appropriate.
 
 .5 suitably located hatches for inspection and cleaning.    
 
+7.5.1.2. Exhaust ducts from ranges for cooking equipment installed on open decks shall conform to paragraph 7.5.1.1, as applicable, when passing through accommodation spaces or spaces containing combustible materials.  
+
 7.5.2 Requirements for cargo ships and passenger ships carrying not more than 36 passenger ships 
 
 7.5.2.1 Where they pass through accommodation spaces or spaces containing combustible materials, the exhaust ducts from galley ranges shall be constructed of “A” class divisions. Each exhaust duct shall be fitted with: 
@@ -3761,7 +3829,17 @@ Notes: To be applied to tables 9.7 and 9.8 as appropriate.
 
 .3 arrangements, operable from within the galley, for shutting off the exhaust fans; and  
 
-.4 fixed means for extinguishing a fire within the duct.          
+.4 fixed means for extinguishing a fire within the duct.        
+
+7.6. *Ventilation systems for main laundries in ships carrying more than 36 passengers* Exhaust ducts from main laundries shall be fitted with: 
+
+.1. filters readily removable for cleaning purposes;  
+
+.2. a fire damper located in the lower end of the duct which is automatically and remotely operated;  
+
+.3. remote-control arrangements for shutting off the exhaust fans and supply fans from within the space and for operating the fire damper mentioned in paragraph 7.6.2; and  
+
+.4. suitably located hatches for inspection and cleaning.      
 
 ### Regulation  10  
 
@@ -4056,7 +4134,7 @@ and
 
 6.3.3 For lockers of a deck area of less than 4 m <sup>2</sup>, which do not give access to accommodation spaces, a carbon dioxide portable fire extinguisher sized to provide a minimum volume of free gas equal to 40% of the gross volume of the space may be accepted in lieu of a fixed system. A discharge port shall be arranged in the locker to allow the discharge of the extinguisher without having to enter into the protected space. The required portable fire extinguisher shall be stowed adjacent to the port. Alternatively, a port or hose connection may be provided to facilitate the use of fire main water.    
 
-6.4 Deep-fat cooking equipment Deep-fat cooking equipment shall be fitted with the following: 
+6.4 Deep-fat cooking equipment Deep-fat cooking equipment installed in enclosed spaces or on open decks shall be fitted with the following: 
 
 .1 an automatic or manual fire-extinguishing system tested to an international standard acceptable to the Organization;  
 
@@ -4255,19 +4333,17 @@ The purpose of this regulation is to provide means of escape so that persons onb
 
 3.2 Means of escape in passenger ships 
 
-3.2.1 Escape from spaces below the bulkhead deck 
+3.2.1 Escape from spaces below the bulkhead deck  
 
 3.2.1.1 Below the bulkhead deck two means of escape, at least one of which shall be independent of watertight doors, shall be provided from each watertight compartment or similarly restricted space or group of spaces. Exceptionally, the Administration may dispense with one of the means of escape for crew spaces that are entered only occasionally, if the required escape route is independent of watertight doors.  
 
-3.2.1.2 Where the Administration has granted dispensation under the provisions of paragraph 3.2.1.1, this sole means of escape shall provide safe escape. However, stairways shall not be less than 800 mm in clear width with handrails on both sides.    
+3.2.1.2 Where the Administration has granted dispensation under the provisions of paragraph 3.2.1.1, this sole means of escape shall provide safe escape. However, stairways shall not be less than 800 mm in clear width with handrails on both sides.  
 
 3.2.2 Escape from spaces above the bulkhead deck Above the bulkhead deck there shall be at least two means of escape from each main vertical zone or similarly restricted space or group of spaces at least one of which shall give access to a stairway forming a vertical escape.  
 
-3.2.3 Direct access to stairway enclosures Stairway enclosures in accommodation and service spaces shall have direct access from the corridors and be of a sufficient area to prevent congestion, having in view the number of persons likely to use them in an emergency. Within the perimeter of such stairway enclosures, only public toilets, lockers of non-combustible material providing storage for nonhazardous safety equipment and open information counters are permitted. Only public spaces, corridors, lifts, public toilets, special category spaces and open ro-ro spaces to which any passengers carried can have access, other escape stairways required by paragraph 3.2.4.1 and external areas are permitted to have direct access to these stairway enclosures. Small corridors or “obbies” used to separate an enclosed stairway from galleys or main laundries may have direct access to the stairway provided they have a minimum deck area of 4.5 m <sup>2</sup>, a width of no less than 900 mm and contain a fire hose station.  
+3.2.3 Direct access to stairway enclosures Stairway enclosures in accommodation and service spaces shall have direct access from the corridors and be of a sufficient area to prevent congestion, having in view the number of persons likely to use them in an emergency. Within the perimeter of such stairway enclosures, only public toilets, lockers of non-combustible material providing storage for nonhazardous safety equipment and open information counters are permitted. Only, corridors, lifts, public toilets, special category spaces and open ro-ro spaces to which any passengers carried can have access, other escape stairways required by paragraph 3.2.4.1 and external areas are permitted to have direct access to these stairway enclosures. Public spaces may also have direct access to stairway enclosures except for the backstage of a theatre. Small corridors or “lobbies” used to separate an enclosed stairway from galleys or main laundries may have direct access to the stairway provided they have a minimum deck area of 4.5 m <sup>2</sup>, a width of no less than 900 mm and contain a fire hose station.  
 
-3.2.4 Details of means of escape 
-
-3.2.4.1 At least one of the means of escape required by paragraphs 3.2.1.1 and 3.2.2 shall consist of a readily accessible enclosed stairway, which shall provide continuous fire shelter from the level of its origin to the appropriate lifeboat and liferaft embarkation decks, or to the uppermost weather deck if the embarkation deck does not extend to the main vertical zone being considered. In the latter case, direct access to the embarkation deck by way of external open stairways and passageways shall be provided and shall have emergency lighting in accordance with regulation III/11.5 and slip-free surfaces underfoot. Boundaries facing external open stairways and passageways forming part of an escape route and boundaries in such a position that their failure during a fire would impede escape to the embarkation deck shall have fire integrity, including insulation values, in accordance with tables 9.1 to 9.4, as appropriate.  
+3.2.4 Details of means of escape 3.2.4.1 At least one of the means of escape required by paragraphs 3.2.1.1 and 3.2.2 shall consist of a readily accessible enclosed stairway, which shall provide continuous fire shelter from the level of its origin to the appropriate lifeboat and liferaft embarkation decks, or to the uppermost weather deck if the embarkation deck does not extend to the main vertical zone being considered. In the latter case, direct access to the embarkation deck by way of external open stairways and passageways shall be provided and shall have emergency lighting in accordance with regulation III/11.5 and slip-free surfaces underfoot. Boundaries facing external open stairways and passageways forming part of an escape route and boundaries in such a position that their failure during a fire would impede escape to the embarkation deck shall have fire integrity, including insulation values, in accordance with tables 9.1 to 9.4, as appropriate.  
 
 3.2.4.2 Protection of access from the stairway enclosures to the lifeboat and liferaft embarkation areas shall be provided either directly or through protected internal routes which have fire integrity and insulation values for stairway enclosures as determined by tables 9.1 to 9.4, as appropriate.  
 
@@ -4275,15 +4351,17 @@ The purpose of this regulation is to provide means of escape so that persons onb
 
 3.2.4.4 Each level within an atrium shall have two means of escape, one of which shall give direct access to an enclosed vertical means of escape meeting the requirements of paragraph 3.2.4.1.  
 
-3.2.4.5 The widths, number and continuity of escapes shall be in accordance with the requirements in the Fire Safety Systems Code.    
+3.2.4.5 The widths, number and continuity of escapes shall be in accordance with the requirements in the Fire Safety Systems Code.  
 
-3.2.5 Marking of escape routes 
+3.2.5 Marking of escape routes  
 
 3.2.5.1 In addition to the emergency lighting required by regulations II-1/42 and III/11.5, the means of escape, including stairways and exits, shall be marked by lighting or photoluminescent strip indicators placed not more than 300 mm above the deck at all points of the escape route including angles and intersections. The marking must enable passengers to identify the routes of escape and readily identify the escape exits. If electric illumination is used, it shall be supplied by the emergency source of power and it shall be so arranged that the failure of any single light or cut in a lighting strip will not result in the marking being ineffective. Additionally, escape route signs and fire equipment location markings shall be of photoluminescent material or marked by lighting. The Administration shall ensure that such lighting or photoluminescent equipment has been evaluated, tested and applied in accordance with the Fire Safety Systems Code.  
 
-3.2.5.2 In passenger ships carrying more than 36 passengers, the requirements of the paragraph 3.2.5.1 shall also apply to the crew accommodation areas.    
+3.2.5.2 In passenger ships carrying more than 36 passengers, the requirements of the paragraph 3.2.5.1 shall also apply to the crew accommodation areas.  
 
-3.2.6 Normally locked doors that form part of an escape route 
+3.2.5.3. In lieu of the escape route lighting system required by paragraph 3.2.5.1, alternative evacuation guidance systems may be accepted if approved by the Administration based on the guidelines developed by the Organization . <sup> 2)  Refer to the Functional requirements and performance standards for the assessment of evacuation guidance systems (MSC/Circ.1167) and the Interim guidelines for the testing, approval and maintenance of evacuation guidance systems used as an alternative to low-location lighting systems (MSC/Circ.1168).  </sup>  
+
+3.2.6 Normally locked doors that form part of an escape route  
 
 3.2.6.1 Cabin and stateroom doors shall not require keys to unlock them from inside the room. Neither shall there be any doors along any designated escape route which require keys to unlock them when moving in the direction of escape.  
 
@@ -4293,7 +4371,7 @@ The purpose of this regulation is to provide means of escape so that persons onb
 
 .2 cause the latch to release when a force not exceeding 67 N is applied; and  
 
-.3 not be equipped with any locking device, set screw or other arrangement that prevents the release of the latch when pressure is applied to the releasing device.        
+.3 not be equipped with any locking device, set screw or other arrangement that prevents the release of the latch when pressure is applied to the releasing device.      
 
 3.3 Means of escape in cargo ships 
 
@@ -4692,7 +4770,7 @@ A helideck shall be provided with both a main and an emergency means of escape a
 .3 a suitable foam application system consisting of monitors or foam making branch pipes capable of delivering foam to all parts of the helideck in all weather conditions in which helicopters can operate. The system shall be capable of delivering a discharge rate as required in table 18.1 for at least five minutes;  *Table 18.1 – Foam discharge rates*   
 
 | Category  | Helicopter overall length  | Discharge rate foam solution (l/min.)  |
-|:---|:---|:---|
+|---|---|---|
 | H1  | up to but not including 15m  | 250  |
 | H2  | from 15m up to but not including 24m  | 500  |
 | H3  | from 24m up to but not including 35m  | 800  |
@@ -4815,7 +4893,7 @@ Unless otherwise specified, the following requirements shall govern the applicat
 <sup> **  Refer to the Documents of compliance with the special requirements for ships carrying dangerous goods under the provisions of regulation II-2/54 of SOLAS 74, as amended (MSC/Circ.642).  </sup> The Administration shall provide the ship with an appropriate document as evidence of compliance of construction and equipment with the requirements of this regulation. Certification for dangerous goods, except solid dangerous goods in bulk, is not required for those cargoes specified as class 6.2 and 7 and dangerous goods in limited quantities and excepted quantities.  *Table 19.1 – Application of the requirements to different modes of carriage of dangerous goods in ships and cargo spaces*  Where X appears in table 19.1 it means this requirement is applicable to all classes of dangerous goods as given in the appropriate line of table 19.3, except as indicated by the notes.  
 
 | Regulation 19.2.2  |--- | .1  | .2  | .3  | .4  | .5  | Regulation 19  | Weather decks .1 to .5 inclusive  | Not specially designed  | Container cargo spaces  | Closed ro-ro spaces <sup>5</sup>  | Open ro-ro spaces  | Solid dangerous goods in bulk  | Shipborne barges  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 3.1.1  | X  | X  | X  | X  | X  | For application of requirements of regulation 19 to different classes of dangerous goods, see table 19.2.  | X  |
 | 3.1.2  | X  | X  | X  | X  | X  | –  |
 | 3.1.3  | –  | X  | X  | X  | X  | X  |
@@ -4836,7 +4914,7 @@ Unless otherwise specified, the following requirements shall govern the applicat
 Notes <sup>1</sup> For classes 4 and 5.1 solids not applicable to closed freight containers. For classes 2, 3, 6.1 and 8 when carried in closed freight containers, the ventilation rate may be reduced to not less than two air changes per hour. For classes 4 and 5.1 liquids when carried in closed freight containers, the ventilation rate may be reduced to not less than two air changes per hour. For the purpose of this requirement, a portable tank is a closed freight container. <sup>2</sup> Applicable to decks only. <sup>3</sup> Applies only to closed ro-ro spaces, not capable of being sealed. <sup>4</sup> In the special case where the barges are capable of containing flammable vapours or alternatively if they are capable of discharging flammable vapours to a safe space outside the barge carrier compartment by means of ventilation ducts connected to the barges, these requirements may be reduced or waived to the satisfaction of the Administration. <sup>5</sup> Special category spaces shall be treated as closed ro-ro spaces when dangerous goods are carried.  *Table 19.2 - Application of the requirements to different classes of dangerous goods for ships and cargo spaces carrying solid dangerous goods in bulk*   
 
 | Class  | 4.1  | 4.2  | 4.36  | 5.1  | 6.1  | 8  | 9  | Regulation 19  |--- |--- |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 3.1.1  | X  | X  | –  | X  | –  | –  | X  |
 | 3.1.2  | X  | X  | –  | X  | –  | –  | X  |
 | 3.2  | X  | X <sup>7</sup>  | X  | X <sup>8</sup>  | –  | –  | X <sup>8</sup>  |
@@ -4846,7 +4924,7 @@ Notes <sup>1</sup> For classes 4 and 5.1 solids not applicable to closed freight
 | 3.6  | X  | X  | X  | X  | X  | X  | X  |
 | 3.8  | X  | X  | X  | X <sup>7</sup>  | –  | –  | X <sup>10</sup>  |
 
-Notes: <sup>6</sup> The hazards of substances in this class which may be carried in bulk are such that special consideration shall be given by the Administration to the construction and equipment of the ship involved in addition to meeting the requirements enumerated in this table. <sup>7</sup> Only applicable to Seedcake containing solvent extractions, to Ammonium nitrate and to Ammonium nitrate fertilizers. <sup>8</sup> Only applicable to Ammonium nitrate and to Ammonium nitrate fertilizers. However, a degree of protection in accordance with standards contained in the International Electrotechnical Commission publication 60079, Electrical Apparatus for Explosive Gas Atmospheres, is sufficient. <sup>9</sup> Only suitable wire mesh guards are required. <sup>10</sup> The requirements of the International Maritime Solid Bulk Cargoes (IMSBC) Code, as amended, are sufficient.   ![10000053521](http://wetten.overheid.nl/Illustration/10000053521)
+Notes: <sup>6</sup> The hazards of substances in this class which may be carried in bulk are such that special consideration shall be given by the Administration to the construction and equipment of the ship involved in addition to meeting the requirements enumerated in this table. <sup>7</sup> Only applicable to Seedcake containing solvent extractions, to Ammonium nitrate and to Ammonium nitrate fertilizers. <sup>8</sup> Only applicable to Ammonium nitrate and to Ammonium nitrate fertilizers. However, a degree of protection in accordance with standards contained in the International Electrotechnical Commission publication 60079, Electrical Apparatus for Explosive Gas Atmospheres, is sufficient. <sup>9</sup> Only suitable wire mesh guards are required. <sup>10</sup> The requirements of the International Maritime Solid Bulk Cargoes (IMSBC) Code, as amended, are sufficient.   ![]()
 <sup>11</sup> When “mechanically-ventilated spaces” are required by the IMDG Code. <sup>12</sup> Stow 3 m horizontally away from the machinery space boundaries in all cases. <sup>13</sup> Refer to the IMDG Code. <sup>14</sup> As appropriate for the goods to be carried. <sup>15</sup> FP means flashpoint. <sup>16</sup> Under the provisions of the IMDG Code, stowage of class 5.2 dangerous goods under deck or in enclosed ro-ro spaces is prohibited. <sup>17</sup> Only applicable to dangerous goods evolving flammable vapour listed in the IMDG Code. <sup>18</sup> Only applicable to dangerous goods having a flashpoint less than 23ºC listed in the IMDG Code. <sup>19</sup> Only applicable to dangerous goods having a subsidiary risk class 6.1. <sup>20</sup> Under the provisions of the IMDG Code, stowage of class 2.3 having subsidiary risk class 2.1 under deck or in enclosed ro-ro spaces is prohibited. <sup>21</sup> Under the provisions of the IMDG Code, stowage of class 4.3 liquids having a flashpoint less than 23ºC under deck or in enclosed ro-ro spaces is prohibited.  
 
 ### Regulation  20  
@@ -4882,7 +4960,7 @@ The purpose of this regulation is to provide additional safety measures in order
 .1 Passenger ships  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Special category spaces  | 10 air changes per hour  |
 | Closed ro-ro and vehicle spaces other than special category spaces for ships carrying more than 36 passengers  | 10 air changes per hour  |
 | Closed ro-ro and vehicle spaces other than special category spaces for ships carrying not more than 36 passengers  | 6 air changes per hour  |
@@ -4890,7 +4968,7 @@ The purpose of this regulation is to provide additional safety measures in order
 .2  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Cargo ships  | 6 air changes per hour  |
 
 The Administration may require an increased number of air changes when vehicles are being loaded and unloaded.    
@@ -4968,7 +5046,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 
 .1.1 in the spaces above the bulkhead deck, scuppers shall be fitted so as to ensure that such water is rapidly discharged directly overboard, taking into account the guidelines developed by the Organization ; <sup> 5)  Refer to the Guidelines for drainage systems in closed vehicle and ro-ro spaces and special category spaces, to be developed by the Organization.  </sup> 
 
-.1.2.1 in ro-ro passenger ships, discharge valves for scuppers, fitted with positive means of closing operable from a position above the bulkhead deck in accordance with the requirements of the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force, shall be kept open while the ships are at sea;  
+.1.2.1 in ro-ro passenger ships, discharge valves for scuppers, fitted with positive means of closing operable from a position above the bulkhead deck in accordance with the requirements of the International Convention on Load Lines in force, shall be kept open while the ships are at sea;  
 
 .1.2.2 any operation of valves referred to in paragraph 6.1.4.1.2.1 shall be recorded in the log-book;    
 
@@ -4987,6 +5065,147 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 .1 at least three water-fog applicators; and  
 
 .2 one portable foam applicator unit complying with the provisions of the Fire Safety Systems Code, provided that at least two such units are available in the ship for use in such spaces.        
+
+### Regulation  21  
+
+####Casualty threshold, safe return to port and safe areas
+
+1.  Application Passenger ships constructed on or after 1 July 2010 having length, as defined in regulation II-1/2.5, of 120 m or more or having three or more main vertical zones shall comply with the provisions of this regulation.   
+2.  Purpose The purpose of this regulation is to establish design criteria for a ship’s safe return to port under its own propulsion after a casualty that does not exceed the casualty threshold stipulated in paragraph 3 and also provides functional requirements and performance standards for safe areas.   
+3.  Casualty threshold The casualty threshold, in the context of a fire, includes: 
+
+.1. loss of space of origin up to the nearest “A” class boundaries, which may be a part of the space of origin, if the space of origin is protected by a fixed fire extinguishing system; or  
+
+.2. loss of the space of origin and adjacent spaces up to the nearest “A” class boundaries, which are not part of the space of origin.     
+4.  Safe return to port <sup> 3)  Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ.1214).  </sup> When fire damage does not exceed the casualty threshold indicated in paragraph 3, the ship shall be capable of returning to port while providing a safe area as defined in regulation 3. To be deemed capable of returning to port, the following systems shall remain operational in the remaining part of the ship not affected by fire: 
+
+.1. propulsion;  
+
+.2. steering systems and steering-control systems;  
+
+.3. navigational systems;  
+
+.4. systems for fill, transfer and service of fuel oil;  
+
+.5. internal communication between the bridge, engineering spaces, safety centre, fire-fighting and damage control teams, and as required for passenger and crew notification and mustering;  
+
+.6. external communication;  
+
+.7. fire main system;  
+
+.8. fixed fire-extinguishing systems;  
+
+.9. fire and smoke detection system;  
+
+.10. bilge and ballast system;  
+
+.11. power-operated watertight and semi-watertight doors;  
+
+.12. systems intended to support “safe areas” as indicated in paragraph 5.1.2;  
+
+.13. flooding detection systems; and  
+
+.14. other systems determined by the Administration to be vital to damage control efforts.     
+5.  Safe area(s) 
+
+5.1.  *Functional requirements:*  
+
+.1. the safe area(s) shall generally be internal space(s); however, the use of an external space as a safe area may be allowed by the Administration taking into account any restriction due to the area of operation and relevant expected environmental conditions;  
+
+.2. the safe area(s) shall provide all occupants with the following basic services to ensure that the health of passengers and crew is maintained: <sup> 3)  Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ.1214).  </sup> 
+
+.1. sanitation;  
+
+.2. water;  
+
+.3. food;  
+
+.4. alternate space for medical care;  
+
+.5. shelter from the weather;  
+
+.6. means of preventing heat stress and hypothermia;  
+
+.7. light; and  
+
+.8. ventilation;    
+
+.3. ventilation design shall reduce the risk that smoke and hot gases could affect the use of the safe area(s); and  
+
+.4. means of access to life-saving appliances shall be provided from each area identified or used as a safe area, taking into account that a main vertical zone may not be available for internal transit.    
+
+5.2.  *Alternate space for medical care*  Alternate space for medical care shall conform to a standard acceptable to the Administration. <sup> 4)  Refer to the Guidance on the establishment of medical and sanitation related programmes for passenger ships (MSC/Circ.1129).  </sup>     
+
+### Regulation  22  
+
+####Design criteria for systems to remain operational after a fire casualty
+
+1.  Application Passenger ships constructed on or after 1 July 2010 having length, as defined in regulation II-1/2.2, of 120 m or more or having three or more main vertical zones shall comply with the provisions of this regulation.   
+2.  Purpose The purpose of this regulation is to provide design criteria for systems required to remain operational for supporting the orderly evacuation and abandonment of a ship, if the casualty threshold, as defined in regulation 21.3, is exceeded.   
+3.  Systems <sup> 3)  Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ.1214).  </sup> 
+
+3.1. In case any one main vertical zone is unserviceable due to fire, the following systems shall be so arranged and segregated as to remain operational: 
+
+.1. fire main;  
+
+.2. internal communications (in support of fire-fighting as required for passenger and crew notification and evacuation);  
+
+.3. means of external communications;  
+
+.4. bilge systems for removal of fire-fighting water;  
+
+.5. lighting along escape routes, at assembly stations and at embarkation stations of life-saving appliances; and  
+
+.6. guidance systems for evacuation shall be available.    
+
+3.2. The above systems shall be capable of operation for at least 3 h based on the assumption of no damage outside the unserviceable main vertical zone. These systems are not required to remain operational within the unserviceable main vertical zones.  
+
+3.3. Cabling and piping within a trunk constructed to an “A-60” standard shall be deemed to remain intact and serviceable while passing through the unserviceable main vertical zone for the purposes of paragraph 3.1. An equivalent degree of protection for cabling and piping may be approved by the Administration.     
+
+### Regulation  23  
+
+####Safety centre on passenger ships
+
+1.  Application Passenger ships constructed on or after 1 July 2010 shall have on board a safety centre complying with the requirements of this regulation.   
+2.  Purpose The purpose of this regulation is to provide a space to assist with the management of emergency situations.   
+3.  Location and arrangement The safety centre shall either be a part of the navigation bridge or be located in a separate space adjacent to and having direct access to the navigation bridge, so that the management of emergencies can be performed without distracting watch officers from their navigational duties.   
+4.  Layout and ergonomic design The layout and ergonomic design of the safety centre shall take into account the guidelines developed by the Organization , as appropriate. <sup> 5)  Refer to guidelines to be developed by the Organization.  </sup>   
+5.  Communications Means of communication between the safety centre, the central control station, the navigation bridge, the engine control room, the storage room(s) for fire extinguishing system(s) and fire equipment lockers shall be provided.   
+6.  Control and monitoring of safety systems Notwithstanding the requirements set out elsewhere in the Convention, the full functionality (operation, control, monitoring or any combination thereof, as required) of the safety systems listed below shall be available from the safety centre: 
+
+.1. all powered ventilation systems;  
+
+.2. fire doors;  
+
+.3. general emergency alarm system;  
+
+.4. public address system;  
+
+.5. electrically powered evacuation guidance systems;  
+
+.6. watertight and semi-watertight doors;  
+
+.7. indicators for shell doors, loading doors and other closing appliances;  
+
+.8. water leakage of inner/outer bow doors, stern doors and any other shell door;  
+
+.9. television surveillance system;  
+
+.10. fire detection and alarm system;  
+
+.11. fixed fire-fighting local application system(s);  
+
+.12. sprinkler and equivalent systems;  
+
+.13. water-based systems for machinery spaces;  
+
+.14. alarm to summon the crew;  
+
+.15. atrium smoke extraction system;  
+
+.16. flooding detection systems; and  
+
+.17. fire pumps and emergency fire pumps.     
 
 ### CHAPTER  III  
 
@@ -5039,7 +5258,7 @@ For the purpose of this chapter, unless expressly provided otherwise:
 
 1. Anti-exposure suit is a protective suit designed for use by rescue boat crews and marine evacuation system parties.  
 
-2. Certificated person is a person who holds a certificate of proficiency in survival craft issued under the authority of, or recognized as valid by, the Administration in accordance with the requirements of the [International Convention on Standards of Training, Certification and Watchkeeping for Seafarers](../../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), in force: or a person who holds a certificate issued or recognized by the Administration of a State not a Party to that Convention for the same purpose as the convention certificate.  
+2. Certificated person is a person who holds a certificate of proficiency in survival craft issued under the authority of, or recognized as valid by, the Administration in accordance with the requirements of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, in force: or a person who holds a certificate issued or recognized by the Administration of a State not a Party to that Convention for the same purpose as the convention certificate.  
 
 3. Detection is the determination of the location of survivors or survival craft.  
 
@@ -5101,11 +5320,11 @@ For the purpose of this chapter, unless expressly provided otherwise:
 .1 are tested, to confirm that they comply with the requirements of this chapter and the Code, in accordance with the recommendations of the Organization; or  
 
 .2 have successfully undergone, to the satisfaction of the Administration, tests which are substantially equivalent to those specified in those recommendations.     
-3.  Before giving approval to novel life-saving appliances or arrangements, the Administration shall ensure that such appliances or arrangements: 
+3.  Before giving approval to novel life-saving appliances or arrangements, the Administration shall ensure that such: 
 
-.1 provide safety standards at least equivalent to the requirements of this chapter and the Code and have been evaluated and tested in accordance with the recommendations of the Organization; or  
+.1. appliances provide safety standards at least equivalent to the requirements of this chapter and the Code and have been evaluated and tested based on the guidelines developed by the Organization ; or <sup> 5)  Refer to guidelines to be developed by the Organization.  </sup>  
 
-.2 have successfully undergone, to the satisfaction of the Administration, evaluation and tests which are substantially equivalent to those recommendations.     
+.2. arrangements have successfully undergone an engineering analysis, evaluation and approval in accordance with regulation 38.     
 4.  Procedures adopted by the Administration for approval shall also include the conditions whereby approval would continue or would be withdrawn.   
 5.  Before accepting life-saving appliances and arrangements that have not been previously approved by the Administration, the Administration shall be satisfied that life-saving appliances and arrangements comply with the requirements of this chapter and the Code.   
 6.  Life-saving appliances required by this chapter for which detailed specifications are not included in the Code shall be to the satisfaction of the Administration.   
@@ -5510,7 +5729,9 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 .2. subject to a thorough examination and operational test during the annual surveys required by regulations I/7 and I/8 by properly trained personnel familiar with the system; and  
 
-.3. operationally tested under a load of 1.1 times the total mass of the boat when loaded with its full complement of persons and equipment whenever the release gear is overhauled. Such over-hauling and test shall be carried out at least once every five years. <sup> 2)  Refer to the Recommendation on testing of life-saving appliances, adopted by the Organization by resolution A.689(17). For life-saving appliances installed on board on or after 1 July 1999, refer to the Revised Recommendations on testing of life-saving appliances, adopted by the Organization by resolution MSC.81(70).  </sup>    
+.3. operationally tested under a load of 1.1 times the total mass of the boat when loaded with its full complement of persons and equipment whenever the release gear is overhauled. Such over-hauling and test shall be carried out at least once every five years. <sup> 2)  Refer to the Recommendation on testing of life-saving appliances, adopted by the Organization by resolution A.689(17). For life-saving appliances installed on board on or after 1 July 1999, refer to the Revised Recommendations on testing of life-saving appliances, adopted by the Organization by resolution MSC.81(70).  </sup>  
+
+.4. notwithstanding subparagraph .3 above, the operational testing of free-fall lifeboat release systems shall be performed either by free-fall launch with only the operating crew on board or by a simulated launching carried out based on guidelines developed by the Organization . <sup> 3)  Refer to Measures to prevent accidents with lifeboats (MSC.1/Circ.1206/Rev.1).  </sup>    
 
 11.3 Davit-launched liferaft automatic release hooks shall be: 
 
@@ -5577,7 +5798,7 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 1.1. A passenger ship shall carry not less than the number of lifebuoys complying with the requirements of regulation 7.1 and section 2.1 of the Code prescribed in the following table:  
 
 |  *Length of ship in metres*   |  *Minimum number of lifebuoys*   |
-|:---|:---|
+|---|---|
 | Under 60  | 8  |
 | 60 and under 120  | 12  |
 | 120 and under 180  | 18  |
@@ -5790,7 +6011,7 @@ Every passenger ship shall, in addition to complying with the requirements of re
 1.1. Cargo ships shall carry not less than the number of lifebuoys complying with the requirements of regulation 7.1 and section 2.1 of the Code prescribed in the following table:  
 
 |  *Length of ship in metres*   |  *Minimum number of lifebuoys*   |
-|:---|:---|
+|---|---|
 | Under 100  | 8  |
 | 100 and under 150  | 10  |
 | 150 and under 200  | 12  |
@@ -5940,6 +6161,47 @@ Instructions for on-board maintenance of life-saving appliances shall be easily 
 7.  The muster list shall be prepared before the ship proceeds to sea. After the muster list has been prepared, if any change takes place in the crew which necessitates an alteration in the muster list, the master shall either revise the list or prepare a new list.   
 8.  The format of the muster list used on passenger ships shall be approved.   
 
+### PART  C  
+
+####ALTERNATIVE DESIGN AND ARRANGEMENTS
+
+### Regulation  38  
+
+####Alternative design and arrangements
+
+1.  Purpose The purpose of this regulation is to provide a methodology for alternative design and arrangements for life-saving appliances and arrangements.   
+2.  General 
+
+2.1. Life-saving appliances and arrangements may deviate from the requirements set out in part B, provided that the alternative design and arrangements meet the intent of the requirements concerned and provide an equivalent level of safety to this chapter.  
+
+2.2. When alternative design or arrangements deviate from the prescriptive requirements of part B, an engineering analysis, evaluation and approval of the design and arrangements shall be carried out in accordance with this regulation.     
+3.  Engineering analysis The engineering analysis shall be prepared and submitted to the Administration, based on the guidelines developed by the Organization and shall include, as a minimum, the following elements: <sup> 6)  Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212).  </sup> 
+
+.1. determination of the ship type and the life-saving appliance and arrangements concerned;  
+
+.2. identification of the prescriptive requirement(s) with which the life-saving appliance and arrangements will not comply;  
+
+.3. identification of the reason the proposed design will not meet the prescriptive requirements supported by compliance with other recognized engineering or industry standards;  
+
+.4. determination of the performance criteria for the ship and the life-saving appliance and arrangements concerned addressed by the relevant prescriptive requirement(s): 
+
+.4.1. performance criteria shall provide a level of safety not inferior to the relevant prescriptive requirements contained in part B; and  
+
+.4.2. performance criteria shall be quantifiable and measurable;    
+
+.5. detailed description of the alternative design and arrangements, including a list of the assumptions used in the design and any proposed operational restrictions or conditions;  
+
+.6. technical justification demonstrating that the alternative design and arrangements meet the safety performance criteria; and  
+
+.7. risk assessment based on identification of the potential faults and hazards associated with the proposal.     
+4.  Evaluation of the alternative design and arrangements 
+
+4.1. The engineering analysis required in paragraph 3 shall be evaluated and approved by the Administration, taking into account the guidelines developed by the Organization. <sup> 6)  Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212).  </sup>  
+
+4.2. A copy of the documentation, as approved by the Administration, indicating that the alternative design and arrangements comply with this regulation, shall be carried on board the ship.     
+5.  Exchange of information The Administration shall communicate to the Organization pertinent information concerning alternative design and arrangements approved by them for circulation to all Contracting Governments.   
+6.  Re-evaluation due to change of conditions If the assumptions and operational restrictions that were stipulated in the alternative design and arrangements are changed, the engineering analysis shall be carried out under the changed condition and shall be approved by the Administration.   
+
 ### CHAPTER  IV  
 
 ####RADIOTELEGRAPHY AND RADIOTELEPHONY
@@ -5972,7 +6234,7 @@ Instructions for on-board maintenance of life-saving appliances shall be easily 
 
 .5 “General radiocommunications” means operational and public correspondence traffic, other than distress, urgency and safety messages, conducted by radio.  
 
-.6 “INMARSAT” means the Organization established by the [Convention on the International Maritime Satellite Organization](../../../../../../../../../../../../verdrag/convention/on/the/international/maritime/satellite/organization/BWBV0003238/README.md) (INMARSAT) adopted on 3 September 1976.  
+.6 “INMARSAT” means the Organization established by the Convention on the International Maritime Satellite Organization (INMARSAT) adopted on 3 September 1976.  
 
 .7 “International NAVTEX Service” means the co-ordinated broadcast and automatic reception on 518 kHz of maritime safety information by means of narrow-band direct-printing telegraphy using the English language . <sup> *  Reference is made to the NAVTEX manual approved by the Organization.  </sup>  
 
@@ -5993,7 +6255,7 @@ Instructions for on-board maintenance of life-saving appliances shall be easily 
 .15 “Sea area A4” means an area outside sea areas Al, A2 and A3.  
 
 .16 Global Maritime Distress and Safety System (GMDSS) identities means maritime mobile services identity, the ship's call sign, Inmarsat identities and serial number identity which may be transmitted by the ship's equipment and used to identify the ship.     
-2.  All other terms and abbreviations which are used in this chapter and which are defined in the Radio regulations and in the [International Convention on Maritime Search and Rescue (SAR), 1979](../../../../../../../../../../../../verdrag/international/convention/on/maritime/search/and/rescue/1979/BWBV0003096/README.md), as may be amended, shall have the meanings as defined in those regulations and the SAR Convention.   
+2.  All other terms and abbreviations which are used in this chapter and which are defined in the Radio regulations and in the International Convention on Maritime Search and Rescue (SAR), 1979, as may be amended, shall have the meanings as defined in those regulations and the SAR Convention.   
 
 ### Regulation  3  
 
@@ -6517,7 +6779,7 @@ Contracting Governments undertake to arrange that life-saving signals are used b
 6.  Contracting Governments shall adhere to the measures adopted by the Organization concerning ships' routeing. They shall promulgate all information necessary for the safe and effective use of adopted ships' routeing systems. A Government or Governments concerned may monitor traffic in those systems. Contracting Governments shall do everything in their power to secure the appropriate use of ships' routeing systems adopted by the Organization.   
 7.  A ship shall use a mandatory ships' routeing system adopted by the Organization as required for its category or cargo carried and in accordance with the relevant provisions in force unless there are compelling reasons not to use a particular ships' routeing system. Any such reason shall be recorded in the ships' log.   
 8.  Mandatory ships' routeing systems shall be reviewed by the Contracting Government or Governments concerned in accordance with the guidelines and criteria developed by the Organization.   
-9.  All adopted ships' routeing systems and actions taken to enforce compliance with those systems shall be consistent with international law, including the relevant provisions of the [1982 United Nations Convention on the Law of the Sea](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md).   
+9.  All adopted ships' routeing systems and actions taken to enforce compliance with those systems shall be consistent with international law, including the relevant provisions of the 1982 United Nations Convention on the Law of the Sea.   
 10.  Nothing in this regulation nor its associated guidelines and criteria shall prejudice the rights and duties of Governments under international law or the legal regimes of straits used for international navigation and archipelagic sea lanes.   
 
 ### Regulation  11  
@@ -6531,7 +6793,7 @@ Contracting Governments undertake to arrange that life-saving signals are used b
 5.  Where two or more Governments have a common interest in a particular area, they should formulate proposals for a co-ordinated ship reporting system on the basis of agreement between them. Before proceeding with a proposal for adoption of a ship reporting system, the Organization shall disseminate details of the proposal to those Governments which have a common interest in the area covered by the proposed system. Where a co-ordinated ship reporting system is adopted and established, it shall have uniform procedures and operations.   
 6.  After adoption of a ship reporting system in accordance with this regulation, the Government or Governments concerned shall take all measures necessary for the promulgation of any information needed for the efficient and effective use of the system. Any adopted ship reporting system shall have the capability of interaction and the ability to assist ships with information when necessary. Such systems shall be operated in accordance with the guidelines and criteria developed by the Organization pursuant to this regulation.   
 7.  The master of a ship shall comply with the requirements of adopted ship reporting systems and report to the appropriate authority all information required in accordance with the provisions of each such system.   
-8.  All adopted ship reporting systems and actions taken to enforce compliance with those systems shall be consistent with international law, including the relevant provisions of the [United Nations Convention on the Law of the Sea](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md).   
+8.  All adopted ship reporting systems and actions taken to enforce compliance with those systems shall be consistent with international law, including the relevant provisions of the United Nations Convention on the Law of the Sea.   
 9.  Nothing in this regulation or its associated guidelines and criteria shall prejudice the rights and duties of Governments under international law or the legal regimes of straits used for international navigation and archipelagic sea lanes.   
 10.  The participation of ships in accordance with the provisions of adopted ship reporting systems shall be free of charge to the ships concerned.   
 11.  The Organization shall ensure that adopted ship reporting systems are reviewed under the guidelines and criteria developed by the Organization.   
@@ -6559,7 +6821,11 @@ Contracting Governments undertake to arrange that life-saving signals are used b
 ####Ships' manning
 
 1.  Contracting Governments undertake, each for its national ships, to maintain, or, if it is necessary, to adopt, measures for the purpose of ensuring that, from the point of view of safety of life at sea, all ships shall be sufficiently and efficiently manned.   
-2.  Every ship to which chapter I applies shall be provided with an appropriate minimum safe manning document or equivalent issued by the Administration as evidence of the minimum safe manning considered necessary to comply with the provisions of paragraph 1.   
+2.  For every ship to which chapter I applies, the Administration shall: 
+
+.1 establish appropriate minimum safe manning following a transparent procedure, taking into account the relevant guidance adopted by the Organization ; and <sup> 4)  Refer to the Principles of minimum safe manning, adopted by the Organization by resolution A.1047(27).  </sup>  
+
+.2 issue an appropriate minimum safe manning document or equivalent as evidence of the minimum safe manning considered necessary to comply with the provisions of paragraph 1.     
 3.  On all ships, to ensure effective crew performance in safety matters, a working language shall be established and recorded in the ship's log-book. The company, as defined in regulation IX/1, or the master, as appropriate, shall determine the appropriate working language. Each seafarer shall be required to understand and, where appropriate, give orders and instructions and to report back in that language. If the working language is not an official language of the State whose flag the ship is entitled to fly, all plans and lists required to be posted shall include a translation into the working language.   
 4.  On ships to which chapter I applies, English shall be used on the bridge as the working language for bridge-to-bridge and bridge-to-shore safety communications as well as for communications on board between the pilot and bridge watchkeeping personnel, unless those directly involved in the communication speak a common language other than English.   
 
@@ -7223,7 +7489,7 @@ Rules for the management, operation and financing of the North Atlantic Ice Patr
 8 These Rules shall be operative beginning with the ice season of 2002.       
 ### CHAPTER  VI  
 
-####CARRIAGE OF CARGOES AND OIL FUELS
+####CARRIAGE OF CARGOES
 
 ### PART  A  
 
@@ -7286,14 +7552,23 @@ Appropriate precautions shall be taken in the use of pesticides in ships, in par
 2.  Cargo, cargo units and cargo transport units shall be so packed and secured within the unit as to prevent, throughout the voyage, damage or hazard to the ship and the persons on board.   
 3.  Appropriate precautions shall be taken during loading and transport of heavy cargoes or cargoes with abnormal physical dimensions to ensure that no structural damage to the ship occurs and to main adequate stability throughout the voyage.   
 4.  Appropriate precautions shall be taken during loading and transport of cargo units and cargo transport units on board ro-ro ships, especially with regard to the securing arrangements on board such ships and on the cargo units and cargo transport units and with regard to the strength of the securing points and lashings.   
-5.  Freight containers shall not be loaded to more than the maximum gross weight indicated on the Safety Approval Plate under the [International Convention for Safe Containers (CSC)](../../../../../../../../../../../../verdrag/international/convention/for/safe/containers/(csc)/BWBV0003233/README.md), as amended.   
+5.  Freight containers shall not be loaded to more than the maximum gross weight indicated on the Safety Approval Plate under the International Convention for Safe Containers (CSC), as amended.   
 6.  All cargoes, other than solid and liquid bulk cargoes, cargo units and cargo transport units shall be loaded, stowed and secured throughout the voyage in accordance with the Cargo Securing Manual approved by the Administration. In ships with ro-ro spaces, as defined in regulation II-2/3.41, all securing of such cargoes, cargo units and cargo transport units, in accordance with the Cargo Securing Manual, shall be completed before the ship leaves the berth. The Cargo Securing Manual shall be drawn up to a standard at least equivalent to relevant guidelines developed by the Organization.   
 
 ### Regulation  5-1  
 
 ####Material safety data sheets
 
-Ships carrying oil or oil fuel, as defined in [regulation 1 of Annex 1 of the International Convention for the Prevention of Pollution from Ships, 1973](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), as modified by the Protocol of 1978 relating thereto, shall be provided with material safety data sheets, based on the recommendations developed by the Organization , prior to the loading of such oil as cargo in bulk or bunkering of oil fuel. <sup> 3)  Refer to the Recommendations for material safety data sheets (MSDS) for MARPOL Annex I oil cargo and oil fuel, adopted by the Organization by resolution MSC.286(86), as may be amended.  </sup>  
+Ships carrying oil or oil fuel, as defined in regulation 1 of Annex 1 of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, shall be provided with material safety data sheets, based on the recommendations developed by the Organization , prior to the loading of such oil as cargo in bulk or bunkering of oil fuel. <sup> 3)  Refer to the Recommendations for material safety data sheets (MSDS) for MARPOL Annex I oil cargo and oil fuel, adopted by the Organization by resolution MSC.286(86), as may be amended.  </sup>  
+
+### Regulation  5-2  
+
+####Prohibition of the blending of bulk liquid cargoes and production processes during sea voyages
+
+1.  The physical blending of bulk liquid cargoes during sea voyages is prohibited. Physical blending refers to the process whereby the ship’s cargo pumps and pipelines are used to internally circulate two or more different cargoes with the intent to achieve a cargo with a new product designation. This prohibition does not preclude the master from undertaking cargo transfers for the safety of the ship or protection of the marine environment.   
+2.  The prohibition in paragraph 1 does not apply to the blending of products for use in the search and exploitation of seabed mineral resources on board ships used to facilitate such operations.   
+3.  Any production process on board a ship during sea voyages is prohibited. Production processes refer to any deliberate operation whereby a chemical reaction between a ship’s cargo and any other substance or cargo takes place.   
+4.  The prohibition in paragraph 3 does not apply to the production processes of cargoes for use in the search and exploitation of seabed mineral resources on board ships used to facilitate such operations. <sup> 5)  Refer to the Guidelines for the transport and handling of limited amounts of hazardous and noxious liquid substances in bulk in offshore support vessels (resolution A.673(16), as amended).  </sup>   
 
 ### PART  B  
 
@@ -7392,11 +7667,8 @@ The carriage of dangerous goods in packaged form shall be in compliance with the
 
 ####Documents
 
-1.  In all documents relating to the carriage of dangerous goods in packaged form by sea, the proper shipping name of the goods shall be used (trade names alone shall not be used) and the correct description given in accordance with the classification set out in the IMDG Code.   
-2.  The transport documents prepared by the shipper shall include, or be accompanied by, a signed certificate or a declaration that the consignment, as offered for carriage, is properly packaged, marked, labelled or placarded, as appropriate, and in proper condition for carriage.   
-3.  The person(s) responsible for the packing/loading of dangerous goods in a cargo transport unit shall provide a signed container/vehicle packing certificate stating that the cargo in the unit has been properly packed and secured and that all applicable transport requirements have been met. Such a certificate may be combined with the document referred to in paragraph 2.   
-4.  Where there is due cause to suspect that a cargo transport unit in which dangerous goods are packed is not in compliance with the requirements of paragraph 2 or 3, or where a container/vehicle packing certificate is not available, the cargo transport unit shall not be accepted for carriage.   
-5.  Each ship carrying dangerous goods in packaged form shall have a special list or manifest setting forth, in accordance with the classification set out in the IMDG Code, the dangerous goods on board and the location thereof. A detailed stowage plan, which identifies by class and sets out the location of all dangerous goods on board, may be used in place of such a special list or manifest. A copy of one of these documents shall be made available before departure to the person or organization designated by the port State authority.   
+1.  Transport information relating to the carriage of dangerous goods in packaged form and the container/vehicle packing certificate shall be in accordance with the relevant provisions of the IMDG Code and shall be made available to the person or organization designated by the port State authority.   
+2.  Each ship carrying dangerous goods in packaged form shall have a special list, manifest or stowage plan setting forth, in accordance with the relevant provisions of the IMDG Code, the dangerous goods on board and the location thereof. A copy of one of these documents shall be made available before departure to the person or organization designated by the port State authority.   
 
 ### Regulation  5  
 
@@ -7783,7 +8055,7 @@ Organizations referred to in regulation I/6 shall comply with the Guidelines ado
 
 ####Enhanced surveys
 
-Bulk carriers as defined in regulation IX/1.6 and oil tankers as defined in regulation II-1/2.22 shall be subject to an enhanced programme of inspections in accordance with the guidelines adopted by the Assembly of the Organization by resolution A.744(18), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention concerning the amendment procedures applicable to the Annex other than chapter I.  
+Bulk carriers as defined in regulation IX/1.6 and oil tankers as defined in regulation II-1/2.22 shall be subject to an enhanced programme of inspections in accordance with the International Code on the Enhanced Programme of Inspections during Surveys of Bulk Carriers and Oil Tankers, 2011 (2011 ESP Code), adopted by the Assembly of the Organization by resolution A.1049(27), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention concerning the amendment procedures applicable to the Annex other than chapter I.  
 
 ### Regulation  3  
 
@@ -8237,7 +8509,7 @@ For the purpose of this chapter:
 
 4. *Double-side skin* means a configuration where each ship side is constructed by the side shell and a longitudinal bulkhead connecting the double bottom and the deck. Hopper side tanks and top-side tanks may, where fitted, be integral parts of the double-side skin configuration.  
 
-5. *Length* of a bulk carrier means the length as defined in the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force.  
+5. *Length* of a bulk carrier means the length as defined in the International Convention on Load Lines in force.  
 
 6. *Solid bulk cargo* means any material, other than liquid or gas, consisting of a combination of particles, granules or any larger pieces of material, generally uniform in composition, which is loaded directly into the cargo spaces of a ship without any intermediate form of containment.  
 
@@ -8251,7 +8523,7 @@ For the purpose of this chapter:
 
 .2. assembly of that ship has commenced comprising at least 50 tonnes or one per cent of the estimated mass of all structural material, whichever is less.    
 
-10. *Breadth* (B) of a bulk carrier means the breadth as defined in the [International Convention on Load Lines](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force.    
+10. *Breadth* (B) of a bulk carrier means the breadth as defined in the International Convention on Load Lines in force.    
 
 ### Regulation  2  
 
@@ -8278,9 +8550,9 @@ Bulk carriers constructed before 1 July 1999 to which regulations 4 or 6 apply s
 1.  Bulk carriers of 150 m in length and upwards of single-side skin construction, designed to carry solid bulk cargoes having a density of 1,000 kg/m <sup>3</sup> and above, constructed on or after 1 July 1999, shall, when loaded to the summer load line, be able to withstand flooding of any one cargo hold in all loading conditions and remain afloat in a satisfactory condition of equilibrium, as specified in paragraph 4.   
 2.  Bulk carriers of 150 m in length and upwards of double-side skin construction in which any part of longitudinal bulkhead is located within B/5 or 11.5 m, whichever is less, inboard from the ship’s side at right angle to the centreline at the assigned summer load line, designed to carry solid bulk cargoes having a density of 1,000 kg/m <sup>3</sup> and above, constructed on or after 1 July 2006, shall, when loaded to the summer load line, be able to withstand flooding of any one cargo hold in all loading conditions and remain afloat in a satisfactory condition of equilibrium, as specified in paragraph 4.   
 3.  Bulk carriers of 150 m in length and upwards of single-side skin construction, carrying solid bulk cargoes having a density of 1,780 kg/m <sup>3</sup> and above, constructed before 1 July 1999 shall, when loaded to the summer load line, be able to withstand flooding of the foremost cargo hold in all loading conditions and remain afloat in a satisfactory condition of equilibrium, as specified in paragraph 4. This requirement shall be complied with in accordance with the implementation schedule specified in regulation 3.   
-4.  Subject to the provisions of paragraph 7, the condition of equilibrium after flooding shall satisfy the condition of equilibrium laid down in the annex to resolution A.320(IX) – Regulation equivalent to [regulation 27 of the International Convention on Load Lines, 1966](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), as amended by resolution A.514(13). The assumed flooding need only take into account flooding of the cargo hold space to the water level outside the ship in that flooded condition. The permeability of a loaded hold shall be assumed as 0.9 and the permeability of an empty hold shall be assumed as 0.95, unless a permeability relevant to a particular cargo is assumed for the volume of a flooded hold occupied by cargo and a permeability of 0.95 is assumed for the remaining empty volume of the hold.   
-5.  Bulk carriers constructed before 1 July 1999, which have been assigned a reduced freeboard in compliance with [regulation 27(7) of the International Convention on Load Lines, 1966](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), as adopted on 5 April 1966, may be considered as complying with paragraph 3 of this regulation.   
-6.  Bulk carriers which have been assigned a reduced freeboard in compliance with the provisions of paragraph (8) of the regulation equivalent to [regulation 27 of the International Convention on Load Lines, 1966](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), adopted by resolution A.320(IX), as amended by resolution A.514(13), may be considered as complying with paragraphs 1 or 2, as appropriate.   
+4.  Subject to the provisions of paragraph 7, the condition of equilibrium after flooding shall satisfy the condition of equilibrium laid down in the annex to resolution A.320(IX) – Regulation equivalent to regulation 27 of the International Convention on Load Lines, 1966, as amended by resolution A.514(13). The assumed flooding need only take into account flooding of the cargo hold space to the water level outside the ship in that flooded condition. The permeability of a loaded hold shall be assumed as 0.9 and the permeability of an empty hold shall be assumed as 0.95, unless a permeability relevant to a particular cargo is assumed for the volume of a flooded hold occupied by cargo and a permeability of 0.95 is assumed for the remaining empty volume of the hold.   
+5.  Bulk carriers constructed before 1 July 1999, which have been assigned a reduced freeboard in compliance with regulation 27(7) of the International Convention on Load Lines, 1966, as adopted on 5 April 1966, may be considered as complying with paragraph 3 of this regulation.   
+6.  Bulk carriers which have been assigned a reduced freeboard in compliance with the provisions of paragraph (8) of the regulation equivalent to regulation 27 of the International Convention on Load Lines, 1966, adopted by resolution A.320(IX), as amended by resolution A.514(13), may be considered as complying with paragraphs 1 or 2, as appropriate.   
 7.  On bulk carriers which have been assigned reduced freeboard in compliance with the provisions of regulation 27(8) of Annex B of the Protocol of 1988 relating to the International Convention on Load Lines, 1966, the condition of equilibrium after flooding shall satisfy the relevant provisions of that Protocol.   
 
 ### Regulation  5  
@@ -8414,13 +8686,13 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 This Certificate shall be supplemented by a Record of Equipment (Form P)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Official seal)  | (State)  |
 
 for an /a short international voyage <sup> 1)  Delete as appropriate.  </sup> Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ————————————————————————————————  |
 | (name of State)  |
 | by ————————————————————————————————  |
@@ -8449,7 +8721,7 @@ Particulars of ship <sup> 2)  Alternatively, the particulars of the ship may be 
 .3 the following subdivision load lines:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Subdivision load lines assigned and marked on the ship's side amidships (regulation II-1/18 <sup>4</sup>)  | Freeboard  | To apply when the spaces in which passengers are carried include the following alternative spaces  |
 | P.1  | .....................  | ...................................  |
 | P.2  | .....................  | ...................................  |
@@ -8469,7 +8741,7 @@ Particulars of ship <sup> 2)  Alternatively, the particulars of the ship may be 
 
 2.7 the ship complied with the requirements of the Convention as regards shipborne navigational equipment, means of embarkation for pilots and nautical publications;  
 
-2.8 the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+2.8 the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the International Regulations for Preventing Collisions at Sea in force;  
 
 2.9 in all other respects the ship complied with the relevant requirements of the Convention.  
 
@@ -8484,19 +8756,19 @@ Particulars of ship <sup> 2)  Alternatively, the particulars of the ship may be 
 3. That an Exemption Certificate has/has not been issued. <sup> 1)  Delete as appropriate.  </sup>   This certificate is valid until .................................... Completion date of the survey on which this certificate is based:.................... (dd/mm/yyyy)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at ........................................................................................  |
 | --- | (Place of issue of certificate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ..........................  | .............................................  |
 | (Date of issue)  | (Signature of authorized official issuing the certificate)  |
 
 (Seal or stamp of the issuing authority, as appropriate)  *Endorsement where the renewal survey has been completed and regulation I/14d) applies*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14(d) of the Convention, be accepted as valid until..............................................  |
 | --- | Signed:.............................. (Signature of authorized official)  |
 | --- | Place:........................................................  |
@@ -8506,7 +8778,7 @@ Particulars of ship <sup> 2)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14e) or I/14f) applies*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | This certificate shall, in accordance with regulation I/14e)/I/14f) <sup>1)</sup> of the Convention, be accepted as valid until..............................................  |
 | --- | Signed:.............................. (Signature of authorized official)  |
 | --- | Place:........................................................  |
@@ -8524,7 +8796,7 @@ This Record shall be permanently attached to the Passenger Ship Safety Certifica
 2. Details of life-saving appliances  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Total number of persons for which life-saving appliances are provided  | ...............................................................  |
 | --- | Port side  | Starboard side  |
 | 2 Total number of lifeboats  | ...............  | ...............  |
@@ -8566,7 +8838,7 @@ This Record shall be permanently attached to the Passenger Ship Safety Certifica
 3. Details of radio facilities  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Items  | Actual provision  |
 | 1 Primary systems  | --- |
 | 1.1 VHF radio installation  | --- |
@@ -8605,7 +8877,7 @@ This Record shall be permanently attached to the Passenger Ship Safety Certifica
 4.3 At-sea maintenance capability.........................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Items  | Actual provision  |
 | COSPAS-SARSAT  | .................................................  |
 | 4.1 COSPAS-SARSAT  | .................................................  |
@@ -8618,7 +8890,7 @@ This Record shall be permanently attached to the Passenger Ship Safety Certifica
 5 Details of navigational systems and equipment  
 
 |--- | Item  | Actual provision  |
-|:---|:---|:---|
+|---|---|---|
 | 1.1  | Standard magnetic compass*  | ...............  |
 | 1.2  | Spare magnetic compass*  | ...............  |
 | 1.3  | Gyro compass*  | ...............  |
@@ -8663,7 +8935,7 @@ This Record shall be permanently attached to the Passenger Ship Safety Certifica
 * Alternative means of meeting this requirement are permitted under regulation V/19. In case of other means they shall be specified. ** Delete as appropriate. This is to certify that this Record is correct in all respects  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at.......................................................................................................  |
 | --- | (Place of issue of the Record)  |
 | .....................................  | ...........................................  |
@@ -8675,13 +8947,13 @@ This Record shall be permanently attached to the Passenger Ship Safety Certifica
 ###CARGO SHIP SAFETY CONSTRUCTION CERTIFICATE
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Official seal)  | (State)  |
 
 Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | ——————————————————————————————  |
 |  *(name of the State)*   |
 | by ——————————————————————————————  |
@@ -8714,7 +8986,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 6. That a Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection is/is not appended to this Certificate. <sup> 4  Delete as appropriate.  </sup> <sup> 4  Delete as appropriate.  </sup>   This Certificate is valid until ........................................................ subject to the annual and intermediate surveys and inspections of the outside of the ship's bottom in accordance with regulation I/10 of the Convention <sup> 5  Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) if the Convention. The day and the month of this date correspond to the anniversary date, as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/4(h)  </sup> Completion date of the survey on which this certificate is based:..................... (dd/mm/yyyy)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at.......................................................................................................  |
 | --- |  *(Place of issue of certificate)*   |
 | .....................................  | ...........................................  |
@@ -8726,14 +8998,14 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 THIS IS TO CERTIFY that, at a survey required by regulation I/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>6</sup> Survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
@@ -8742,7 +9014,7 @@ THIS IS TO CERTIFY that, at a survey required by regulation I/10 of the Conventi
 <sup>6</sup> Delete as appropriate.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
@@ -8752,7 +9024,7 @@ THIS IS TO CERTIFY that, at an annual/intermediate survey in accordance with reg
 ###Annual/intermediate survey in accordance with regulation I/14(h)(iii)
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8763,14 +9035,14 @@ THIS IS TO CERTIFY that, at an annual/intermediate survey in accordance with reg
 <sup> 8  Provision may be made for additional inspections.  </sup> THIS IS TO CERTIFY that, at an inspection required by regulation I/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | First inspection:  | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | --- | Date:............................  |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Second inspection:  | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | --- | Date:............................  |
@@ -8781,7 +9053,7 @@ THIS IS TO CERTIFY that, at an annual/intermediate survey in accordance with reg
 The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14(c) of the Convention, be accepted as valid until .............................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8792,7 +9064,7 @@ The ship complies with the relevant requirements of the Convention, and this cer
 The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14(d) of the Convention, be accepted as valid until.........................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8803,7 +9075,7 @@ The ship complies with the relevant requirements of the Convention, and this cer
 The certificate shall, in accordance with regulation I/14(e)/I/14(f)9 of the Convention, be accepted as valid until ................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8814,7 +9086,7 @@ The certificate shall, in accordance with regulation I/14(e)/I/14(f)9 of the Con
 In accordance with regulation I/14(h) of the Convention, the new anniversary date is ......................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8823,7 +9095,7 @@ In accordance with regulation I/14(h) of the Convention, the new anniversary dat
 In accordance with regulation I/14(h) of the Convention, the new anniversary date is ......................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8836,13 +9108,13 @@ In accordance with regulation I/14(h) of the Convention, the new anniversary dat
 This Certificate shall be supplemented by a Record of Equipment (Form E)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Official seal)  | (State)  |
 
 Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | ——————————————————————————————  |
 | (name of the State)  |
 | by ——————————————————————————————  |
@@ -8862,7 +9134,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 
 2.4 the ship complied with the requirements of the Convention as regards shipborne navigational equipment, means of embarkation for pilots and nautical publications;  
 
-2.5 the ship was provided with lights, shapes and means of making sound signals and distress signals in accordance with the requirements of the Convention and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+2.5 the ship was provided with lights, shapes and means of making sound signals and distress signals in accordance with the requirements of the Convention and the International Regulations for Preventing Collisions at Sea in force;  
 
 2.6 in all other respects the ship complied with the relevant requirements of the Convention;  
 
@@ -8877,7 +9149,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 3. That an Exemption Certificate has/has not been issued. <sup> 4)  Delete as appropriate.  </sup>   This certificate is valid until subject to the annual and intermediate surveys and inspections of the outside of the ship's bottom in accordance with regulation 1/10 of the Convention <sup> 5)  Insert the date of expiry as specified by the Administration in accordance with regulation I/14a) of the Convention. The day and the month of this date correspond to the anniversaiy date as defined in regulation I/2n) of the Convention, unless amended in accordance with regulation I/14h).  </sup> Completion date of the survey on which this certificate is based:.................... (dd/mm/yyyy)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at.......................................................................................................  |
 | --- | (Place of issue of the Record)  |
 | .....................................  | ...........................................  |
@@ -8886,7 +9158,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 (Seal or stamp of the issuing Autority, as appropriate)  *Endorsement for annual and intermediate surveys*  This is to certify that, at a survey required by regulation 1/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
@@ -8894,7 +9166,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 (Seal or stamp of the authority, as appropriate)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>4)</sup> survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
@@ -8902,7 +9174,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 <sup>4)</sup> Delete as appropriate. (Seal or stamp of the authority, as appropriate)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>4)</sup> survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
@@ -8910,7 +9182,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 <sup>4)</sup> Delete as appropriate. (Seal or stamp of the authority, as appropriate)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate survey:  | Signed: ............................... (Signature of authorized official)  |
 | --- | Place:..........................  |
 | Date:............................  |
@@ -8918,7 +9190,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 (Seal or stamp of the authority, as appropriate)  *Annual/intermediate survey in accordance with regulation I/14h)(iii)*  This is to certify that, at an annual/intermediate4) survey in accordance with regulation 1/ 14h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8927,14 +9199,14 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for inspections of the outside of the ship's botto*  <sup> 6)  Provision may be made for additional inspections.  </sup> This is to certify that, at an inspection required by regulation 1/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | First inspection:  | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Second inspection:  | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8943,7 +9215,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the certificate if valid for less than 5 years where regulation I/14c) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14c) of the Convention, be accepted as valid until...................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8952,7 +9224,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement where the renewal survey has been completed and regulation I/14d) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14d) of the Convention, be accepted as valid until...................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8961,7 +9233,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the validity of the certificate until reaching the port of survey or a period of grace where regulation I/14e)/I/14f) applies*  This certificate shall, in accordance with regulation I/14e)/I/14f) of the Convention, be accepted as valid until................................. <sup> 4)  Delete as appropriate.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -8970,141 +9242,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for advancement of anniversary date where regulation I/14h) applies*  In accordance with regulation I/14h) of the Convention, the new anniversary date is...................................................  
 
 | --- | --- |
-|:---|:---|
-| --- | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-###Form of Safety Equipment Certificate for Cargo Ships
-
-###CARGO SHIP SAFETY EQUIPMENT CERTIFICATE
-
-This Certificate shall be supplemented by a Record of Equipment (Form E)  
-
-| --- | --- |
-|:---|:---|
-| (Official seal)  | (State)  |
-
-Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
-
-| --- |
-|:---|
-| ————————————————————————————————————  |
-| (name of the State)  |
-| by ————————————————————————————————————  |
-| (person or organization authorized)  |
-
-Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be placed horizontally in boxes.  </sup> Name of ship........................................................................................... Distinctive number or letters...................................................................... Port of registry......................................................................................... Gross tonnage......................................................................................... Deadweight of ship (metric tons) <sup> 2)  For oil tankers, chemical tankers and gas carriers only.  </sup> Length of ship (regulation III/3.10)............................................................... IMO Number <sup> 3)  In accordance with resolution A.600(15) - IMO Ship Identification Number Scheme, this information may be included voluntairiy.  </sup> Type of ship <sup> 4)  Delete as appropriate.  </sup> Oil tanker Chemical tanker Gas carrier Cargo ship other than any of the above Date on which keel was laid or ship was at a similar stage of construction or, where applicable, date on which work for a conversion or an alteration or modification of a major character was commenced............................................................................................. This is to certify: 
-
-1. That the ship has been surveyed in accordance with the requirements of regulation 1/8 of the Convention.  
-
-2. That the survey showed that: 
-
-2.1 the ship complied with the requirements of the Convention as regards fire safety systems and appliances and fire control plans;  
-
-2.2 the life-saving appliances and the equipment of lifeboats, liferafts and rescue boats were provided in accordance with the requirements of the Convention;  
-
-2.3 the ship was provided with a line-throwing appliance and radio installations used in life-saving appliances in accordance with the requirements of the Convention;  
-
-2.4 the ship complied with the requirements of the Convention as regards shipborne navigational equipment, means of embarkation for pilots and nautical publications;  
-
-2.5 the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
-
-2.6 in all other respects the ship complied with the relevant requirements of the Convention.    
-
-3. That the ship operates in accordance with regulation III/26.1.1.1 within the limits of the trade area................................................................................  
-
-4. That an Exemption Certificate has/has not been issued. <sup> 4)  Delete as appropriate.  </sup>   This certificate is valid until .................................................. subject to the annual and periodical surveys in accordance with regulation 1/8 of the Convention. <sup> 5)  Insert the date of expiry as specified by the Administration in accordance with regulation I/14a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2n) of the Convention, unless amended in accordance with regulation I/14h).  </sup>  
-
-| --- | --- |
-|:---|:---|
-| Issued at................................................................................................................  |
-| --- | (Place of issue of certificate)  |
-| ............................  | .........................................................  |
-| (Date of issue)  | (Signature of authorized official issuing the certificate)  |
-
-(Seal or stamp of the issuing authority, as appropriate)  *Endorsement for annual and periodical surveys*  This is to certify that, at a survey required by regulation 1/8 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
-
-| --- | --- |
-|:---|:---|
-| Annual survey:  | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-| --- | --- |
-|:---|:---|
-| Annual surveyPeriodical <sup>4)</sup> survey:  | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-<sup>4)</sup> Delete as appropriate.  
-
-| --- | --- |
-|:---|:---|
-| Annual surveyPeriodical <sup>4)</sup> survey:  | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-| --- | --- |
-|:---|:---|
-| Annual survey:  | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-*Annual/periodical survey in accordance with regulation I/14h)(iii)*  This is to certify that, at an annual/periodical survey in accordance with regulation I/14h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention. <sup> 4)  Delete as appropriate.  </sup>  
-
-| --- | --- |
-|:---|:---|
-| --- | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-*Endorsement to extend the certificate if valid for less than 5 years where regulation I/14c) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/I 4c) of the Convention, be accepted as valid until................................................................  
-
-| --- | --- |
-|:---|:---|
-| --- | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-*Endorsement where the renewal survey has been completed and regulation I/14d) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14d) of the Convention, be accepted as valid until............................................................  
-
-| --- | --- |
-|:---|:---|
-| --- | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-*Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation 1/14(4) or 1/14f) applies*  This certificate shall, in accordance with regulation 1/14e)/I/14/f) of the Convention, be accepted as valid until............. <sup> 4)  Delete as appropriate.  </sup>  
-
-| --- | --- |
-|:---|:---|
-| --- | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-*Endorsement for advancement of anniversary date where regulation I/14h) applies*  In accordance with regulation I/14h) of the Convention, the new anniversary date is..............................................................  
-
-| --- | --- |
-|:---|:---|
-| --- | Signed: ............................... (Signature of authorized official)  |
-| Place:..........................  |
-| Date:............................  |
-| (Seal or stamp of the authority, as appropriate)  |
-
-In accordance with regulation I/14h) of the Convention, the new anniversary date is..............................................................  
-
-| --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ............................... (Signature of authorized official)  |
 | Place:..........................  |
 | Date:............................  |
@@ -9120,7 +9258,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Equipment Cer
 2. Details of life-saving appliances  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Total number of persons for which life-saving appliances are provided  | .........................................  |
 | 2 Total number of lifeboats  | Port side  | Starboard side  |
 | ...............................  | ...............................  |
@@ -9164,7 +9302,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Equipment Cer
 3 Details of navigational systems and equipment  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Actual provision  |
 | 1.1 Standard magnetic compass*  | ......................  |
 | 1.2 Spare magnetic compass*  | ......................  |
@@ -9207,7 +9345,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Equipment Cer
 * Alternative means of meeting this requirement are permitted under regulation V/19. In case of other means, they shall be specified. ** Delete as appropriate.   This is to certify that this Record is correct in all respects  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at..........................................................................................................  |
 | --- | (Place of issue of the Record)  |
 | ..........................  | ....................................................................  |
@@ -9220,13 +9358,13 @@ Form of Safety Radio Certificate for Cargo Ships
 This Certificate shall be supplemented by a Record of Equipment of Radio Facilities (Form R)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Official seal)  | (State)  |
 
 Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | ——————————————————————————————————  |
 | (name of the State)  |
 | by ——————————————————————————————————  |
@@ -9245,7 +9383,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 3. That an Exemption Certificate has/has not been issued. <sup> 3)  Delete as appropriate.  </sup>   This certificate is valid until ................................ subject to the periodical surveys in accordance with regulation I/9 of the Convention <sup> 4)  Insert the date of expiry as specified by the Administration in accordance with regulation I/14a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2n) of the Convention, unless amended in accordance with regulation I/14h).  </sup> Completion date of the survey on which this certificate is based:.................... (dd/mm/yyyy)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at..........................................................................................................  |
 | --- | (Place of issue of certificate)  |
 | ..........................  | ....................................................................  |
@@ -9255,28 +9393,28 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for periodical surveys*  This is to certify that, at a survey required by regulation I/9 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed:......................................................(Signature of authorized official)  |
 | --- | Place:..................................  |
 | --- | Date:....................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed:......................................................(Signature of authorized official)  |
 | --- | Place:..................................  |
 | --- | Date:....................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed:......................................................(Signature of authorized official)  |
 | --- | Place:..................................  |
 | --- | Date:....................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed:......................................................(Signature of authorized official)  |
 | --- | Place:..................................  |
 | --- | Date:....................................  |
@@ -9285,7 +9423,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Periodical survey in accordance with regulation I/14h)(iii)*  This is to certify that, at a periodical survey in accordance with regulation 1/14h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed:......................................................(Signature of authorized official)  |
 | Place:..................................  |
 | Date:....................................  |
@@ -9294,7 +9432,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the certificate if valid for less than 5 years where regulation I/14c) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14c) of the Convention, be accepted as valid until................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed:......................................................(Signature of authorized official)  |
 | Place:..................................  |
 | Date:....................................  |
@@ -9303,7 +9441,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement where the renewal survey has been completed and regulation I/14d) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14d) of the Convention, be accepted as valid until....................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed:......................................................(Signature of authorized official)  |
 | Place:..................................  |
 | Date:....................................  |
@@ -9312,7 +9450,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14e) or I/14(f) applies*  This certificate shall, in accordance with regulation I/14e)/I/14f) of the Convention, be accepted as valid until...................... <sup> 3)  Delete as appropriate.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed:......................................................(Signature of authorized official)  |
 | Place:..................................  |
 | Date:....................................  |
@@ -9321,7 +9459,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for advancement of anniversary date where regulation I/14h) applies*  In accordance with regulation I/14h) of the Convention, the new anniversary date is......................................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed:......................................................(Signature of authorized official)  |
 | Place:..................................  |
 | Date:....................................  |
@@ -9330,7 +9468,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 In accordance with regulation I/14h) of the Convention, the new anniversary date is.............................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed:......................................................(Signature of authorized official)  |
 | Place:..................................  |
 | Date:....................................  |
@@ -9346,7 +9484,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Radio Certifi
 2. Details of radio facilities  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Actual provision  |
 | 1 Primary systems  | ..........................................................  |
 | 1.1 VHF radio installation:  | ..........................................................  |
@@ -9379,7 +9517,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Radio Certifi
 3. Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 3.1 Duplication of equipment  | .............................................  |
 | 3.2 Shore-based maintenance  | .............................................  |
 | 3.3 At-sea maintenance capability  | .............................................  |
@@ -9387,7 +9525,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Radio Certifi
 This is to certify that this Record is correct in all respects  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at.......................................................................................................................  |
 | --- | (Place of issue of the Record)  |
 | ..........................  | ......................................................................  |
@@ -9400,13 +9538,13 @@ Form of Safety Certificate for Cargo Ships
 This Certificate shall be supplemented by a Record of Equipment (Form C)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Official seal)  | (State)  |
 
 Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | —————————————————————————————————  |
 | (name of the State)  |
 | by —————————————————————————————————  |
@@ -9431,7 +9569,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 2.2 the last two inspections of the outside of the ship's bottom took place on  
 
 | --- |
-|:---|
+|---|
 | ..............................and....................................  |
 | (dates)  |
 
@@ -9447,7 +9585,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 
 2.8 the ship complied with the requirements of the Convention as regards shipborne navigational equipment, means of embarkation for pilots and nautical publications;  
 
-2.9 the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+2.9 the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the International Regulations for Preventing Collisions at Sea in force;  
 
 2.10 in all other respects, the ship complied with the relevant requirements of the Convention;  
 
@@ -9460,7 +9598,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 4. That an Exemption Certificate has/has not been issued. <sup> 4)  Delete as appropriate.  </sup>   This certificate is valid until ................................. subject to the annual, intermediate and periodical surveys and inspections of the outside of the ship's bottom in accordance with regulations I/8, I/9 and I/10 of the Convention. <sup> 5)  Insert the date of expiry as specified by the Administration in accordance with regulation I/14a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2n) of the Convention, unless amended in accordance with regulation I/14h).  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at....................................................................................................  |
 | --- | (Place of issue of certificate)  |
 | ..........................  | ..............................................................  |
@@ -9470,14 +9608,14 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for annual and intermediate surveys relating to structure, machinery and equipment referred to in paragraph 2.1 of this certificate*  This is to certify that, at a survey required by regulation I/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:................................  |
 | --- | Date:..................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>4)</sup> survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9486,7 +9624,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 <sup>4)</sup> Delete as appropriate.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>4)</sup> survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9495,7 +9633,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 <sup>4)</sup> Delete as appropriate.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9504,7 +9642,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Annual/intermediate survey in accordance with regulation I/14h)(iii)*  This is to certify that, at an annual/intermediate survey in accordance with regulations I/10 and I/14h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention. <sup> 4)  Delete as appropriate.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9513,14 +9651,14 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for inspections of the outside of the ship's bottom*  <sup> 6)  Provision may be made for additional inspections.  </sup> This is to certify that, at an inspection required by regulation I/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | First inspection:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Second inspection:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9529,14 +9667,14 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for annual and periodical surveys relating to life-saving appliances and other equipment referred to in paragraphs 2.3, 2.4, 2.5, 2.8 and 2.9 of this certificate*  This is to certify that, at a survey required by regulation I/8 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>4)</sup> survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9545,7 +9683,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 <sup>4)</sup> Delete as appropriate.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate <sup>4)</sup> survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9554,7 +9692,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 <sup>4)</sup> Delete as appropriate.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9563,7 +9701,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Annual/periodical survey in accordance with regulation I/14h)(iii)*  This is to certify that, at an annual/periodical survey in accordance with regulations I/8 and I/14h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention. <sup> 4)  Delete as appropriate.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9572,28 +9710,28 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for periodical surveys relating to radio installations referred to in paragraphs 2.6 and 2.7 of this certificate*  This is to certify that, at a survey required by regulation 1/9 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
 | (Seal or stamp of the authority, as appropriate)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodical survey:  | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9602,7 +9740,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Periodical survey in accordance with regulation I/14h)(iii)*  This is to certify that, at a periodical survey in accordance with regulations I/9 and I/14h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9611,7 +9749,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the Certificate if valid for less than 5 years where regulation I/14c) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14c) of the Convention, be accepted as valid until...................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9620,7 +9758,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement where the renewal survey has been completed and regulation I/14d) applies*  The ship complies with the relevant requirements of the Convention, and this certificate shall, in accordance with regulation I/14d) of the Convention, be accepted as valid until.........................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9629,7 +9767,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14e) or I/14f) applies*  This certificate shall, in accordance with regulation I/14e)/I/14f) of the Convention, be accepted as valid until........................ <sup> 4)  Delete as appropriate.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9638,7 +9776,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement for advancement of anniversary date where regulation I/14h) applies*  In accordance with regulation I/14h) of the Convention, the new anniversary date is.........................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9647,7 +9785,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 In accordance with regulation I/14h) of the Convention, the new anniversary date is..........................................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .............................(Signature of authorized official)  |
 | --- | Place:...............................  |
 | --- | Date:.................................  |
@@ -9663,7 +9801,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Certificate
 2. Details of life-saving appliances  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Total number of persons for which life-saving appliances are provided  | ...................................  |
 | --- | Port side  | Starboard side  |
 | 2 Total number of lifeboats  | ...........................  | ...........................  |
@@ -9707,7 +9845,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Certificate
 3. Details of radio facilities  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Actual provision  |
 | 1 Primary systems  | --- |
 | 1.1 VHF radio installation:  | --- |
@@ -9744,7 +9882,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Certificate
 4. Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 4.1 Duplication of equipment  | ..................................................  |
 | 4.2 Shore-based maintenance  | ..................................................  |
 | 4.3 At-sea maintenance capability  | ..................................................  |
@@ -9752,7 +9890,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Certificate
 5 Details of navigational systems and equipment  
 
 |--- | Item  | Actual provision  |
-|:---|:---|:---|
+|---|---|---|
 | 1.1  | Standard magnetic compass*  | ...................  |
 | 1.2  | Spare magnetic compass*  | ...................  |
 | 1.3  | Gyro compass*  | ...................  |
@@ -9793,7 +9931,7 @@ This Record shall be permanently attached to the Cargo Ship Safety Certificate
 * Alternative means of meeting this requirement are permitted under regulation V/19. In case of other means they shall be specified. ** Delete as appropriate.   This is to certify, that this Record is correct in all respects  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at......................................................................................................  |
 | --- | (place of issue of the Record)  |
 | .........................  | ..................................................................  |
@@ -9804,13 +9942,13 @@ Form of Exemption Certificate
 ###EXEMPTION CERTIFICATE
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Official seal)  | (State)  |
 
 Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | ————————————————————————————————  |
 | (name of the State)  |
 | by ————————————————————————————————  |
@@ -9819,7 +9957,7 @@ Issued under the provisions of the International Convention for the Safety of Li
 Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be placed horizontally in boxes.  </sup> Name of ship....................................................................................................... Distinctive number or letters.................................................................................. Port of registry..................................................................................................... Gross tonnage..................................................................................................... IMO Number <sup> 2)  In accordance with the IMO Ship Identification Number Scheme, adopted by the Organization by resolution A.600 (15).  </sup> This is to certify: That the ship is, under the authority conferred by regulation ...... of the Convention, exempted from the requirements of ........................................................................ of the Convention. Conditions, if any, on which the Exemption Certificate is granted: ................................................................................................................................................................................................................................................................................................ Voyages, if any, for which the Exemption Certificate is granted:......................... This certificate is valid until ................................. subject to the .................................... Certificate, to which this certificate is attached, remaining valid.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at......................................................................................................  |
 | --- | (Place of issue of certificate)  |
 | ...................  | ................................................................  |
@@ -9829,7 +9967,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the certificate if valid for less than 5 years where regulation I/14c) applies*  This certificate shall, in accordance with regulation I/14c) of the Convention, be accepted as valid until ...................... subject to the .............................. Certificate, to which this certificate is attached, remaining valid.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ................................ (Signature of authorized official)  |
 | --- | Place:.........................................  |
 | --- | Date:...........................................  |
@@ -9838,7 +9976,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement where the renewal survey has been completed and regulation I/14d) applies*  This certificate shall, in accordance with regulation I/14d) of the Convention, be accepted as valid until ....................... subject to the ............................. Certificate, to which this certificate is attached, remaining valid.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ................................ (Signature of authorized official)  |
 | --- | Place:.........................................  |
 | --- | Date:...........................................  |
@@ -9847,7 +9985,7 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14e) or I/14f) applies*  This certificate shall, in accordance with regulation I/14e)/I/14f) of the Convention, be accepted as valid until ....................................................................................................................... subject to the .......................................................... Certificate, to which this certificate is attached, remaining valid. <sup> 3)  Delete as appropriate.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: ................................ (Signature of authorized official)  |
 | --- | Place:.........................................  |
 | --- | Date:...........................................  |
@@ -9858,13 +9996,13 @@ Particulars of ship <sup> 1)  Alternatively, the particulars of the ship may be 
 This Certificate shall be supplemented by a Record of Equipment (Form PNUC)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *(Official seal)*   |  *(State)*   |
 
-for an /a short international voyage <sup> 1  Delete as appropriate.  </sup> Issued under the provisions of the INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
+for an /a short international voyage <sup> 1  Delete as appropriate.  </sup> Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as amended. under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | ————————————————————————————————————————  |
 |  *(name of the State)*   |
 | by ————————————————————————————————————————  |
@@ -9885,7 +10023,7 @@ for an /a short international voyage <sup> 1  Delete as appropriate.  </sup> Iss
 .3. the following subdivision load lines:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Subdivision load lines assigned and marked on the ship's side amidships (regulation II-1/18 <sup>3</sup>)  | Freeboard  | To apply when the spaces in which passengers are carried include the following alternative spaces  |
 | P.1  | ........................  | .......................................  |
 | P.2  | ........................  | .......................................  |
@@ -9907,7 +10045,7 @@ for an /a short international voyage <sup> 1  Delete as appropriate.  </sup> Iss
 
 2.8. the ship complied with the requirements of the Convention as regards shipborne navigational equipment, means of embarkation for pilots and nautical publications;  
 
-2.9. the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+2.9. the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the International Regulations for Preventing Collisions at Sea in force;  
 
 2.10. in all other respects the ship complied with the relevant requirements of the Convention;  
 
@@ -9916,12 +10054,12 @@ for an /a short international voyage <sup> 1  Delete as appropriate.  </sup> Iss
 2.12. a Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection/life-saving appliances and arrangements is/is not appended to this Certificate. <sup> 1  Delete as appropriate.  </sup> <sup> 1  Delete as appropriate.  </sup>     This certificate is valid until ........................................................................... Completion date of the survey on which this certificate is based  
 
 | --- |
-|:---|
+|---|
 | ...........................  |
 |  *dd/mm/yyyy*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at  | ...................................................................................................................  |
 | --- |  *(Place of issue of certificate)*   |
 | ......................  | ..........................................................................................................  |
@@ -9930,15 +10068,14 @@ for an /a short international voyage <sup> 1  Delete as appropriate.  </sup> Iss
 
 ###RECORD OF EQUIPMENT FOR THE NUCLEAR PASSENGER SHIP SAFETY CERTIFICATE (FORM PNUC)
 
-This Record shall be permanently attached to the Nuclear Passenger Ship Safety Certificate 
-###RECORD OF EQUIPMENT FOR COMPLIANCE WITH THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, AS MODIFIED BY THE PROTOCOL OF 1988 RELATING THERETO
+This Record shall be permanently attached to the Nuclear Passenger Ship Safety Certificate Record of Equipment for Compliance with the International Convention for the Safety of Life at Sea, 1974, as amended. 
 
 1 Particulars of ship Name of ship ........................................................................................................................ Distinctive number or letters ................................................................................................... Number of passengers for which certified ................................................................................. Minimum number of persons with required qualifications to operate the radio installations ...................................................  
 
 2 Details of life-saving appliances  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Total number of persons for which life-saving appliances are provided  | .................................  |
 | --- | Port side  | Starboard side  |
 | 2 Total number of lifeboats  | ................  | ................  |
@@ -9979,7 +10116,7 @@ This Record shall be permanently attached to the Nuclear Passenger Ship Safety C
 3 Details of radio facilities  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Actual provision  |
 | 1 Primary systems  | ................  |
 | 1.1 VHF radio installation  | --- |
@@ -10012,7 +10149,7 @@ This Record shall be permanently attached to the Nuclear Passenger Ship Safety C
 4 Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 4.1 Duplication of equipment  | .....................................................................  |
 | 4.2 Shore-based maintenance  | .....................................................................  |
 | 4.3 At-sea maintenance capability  | ...............................................................  |
@@ -10020,7 +10157,7 @@ This Record shall be permanently attached to the Nuclear Passenger Ship Safety C
 5 Details of navigation systems and equipment  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Actual provision  |
 | 1.1 Standard magnetic compass <sup>2</sup>  | ..................  |
 | 1.2 Spare magnetic compass <sup>2</sup>  | ..................  |
@@ -10060,7 +10197,7 @@ This Record shall be permanently attached to the Nuclear Passenger Ship Safety C
 <sup>2</sup> Delete as appropriate. <sup>3</sup> Alternative means of meeting this requirement are permitted under regulation V/19. In case of other means, they shall be specified.   THIS IS TO CERTIFY that this Record is correct in all respects.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at  | ...................................................................................................................  |
 | --- |  *(Place of issue of the Record)*   |
 | ......................  | ..........................................................................................................  |
@@ -10072,13 +10209,13 @@ This Record shall be permanently attached to the Nuclear Passenger Ship Safety C
 This Certificate shall be supplemented by a Record of Equipment (Form CNUC)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *(Official seal)*   |  *(State)*   |
 
-Issued under the provisions of the INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 as modified by the Protocol of 1988 relating thereto under the authority of the Government of  
+Issued under the provisions of the International Convention for the Safety of Life at Sea, 1974, as amended. under the authority of the Government of  
 
 | --- |
-|:---|
+|---|
 | ———————————————————————————  |
 |  *(name of the State)*   |
 | by ———————————————————————————  |
@@ -10114,7 +10251,7 @@ Cargo ship other than any of the above   Date on which keel was laid or ship was
 
 2.7. the ship complied with the requirements of the Convention as regards shipborne navigational equipment, means of embarkation for pilots and nautical publications;  
 
-2.8. the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) in force;  
+2.8. the ship was provided with lights, shapes, means of making sound signals and distress signals in accordance with the requirements of the Convention and the International Regulations for Preventing Collisions at Sea in force;  
 
 2.9. in all other respects the ship complied with the relevant requirements of the regulations, so far as these requirements apply thereto;  
 
@@ -10123,7 +10260,7 @@ Cargo ship other than any of the above   Date on which keel was laid or ship was
 2.11. a Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection/life-saving appliances and arrangements is/is not appended to this Certificate. <sup> 3  Delete as appropriate.  </sup> <sup> 3  Delete as appropriate.  </sup>     This certificate is valid until ..............................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Completion date of the survey on which this certificate is based  | ....................  |
 | --- |  *dd/mm/yyyy*   |
 | Issued at ...........................................................................................................................  |
@@ -10134,15 +10271,14 @@ Cargo ship other than any of the above   Date on which keel was laid or ship was
 
 ###RECORD OF EQUIPMENT FOR THE NUCLEAR CARGO SHIP SAFETY CERTIFICATE (FORM CNUC)
 
-This Record shall be permanently attached to the Nuclear Cargo Ship Safety Certificate 
-###RECORD OF EQUIPMENT FOR COMPLIANCE WITH THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, AS MODIFIED BY THE PROTOCOL OF 1988 RELATING THERETO
+This Record shall be permanently attached to the Nuclear Cargo Ship Safety Certificate Record of Equipment for Compliance with the International Convention for the Safety of Life at Sea, 1974, as amended. 
 
 1 Particulars of ship Name of ship ........................................................................................................................ Distinctive number or letters ................................................................................................... Minimum number of persons with required qualifications to operate the radio installations ...................................................  
 
 2 Details of life-saving appliances  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Total number of persons for which life-saving appliances are provided  | .................................  |
 | --- | Port side  | Starboard side  |
 | 2 Total number of lifeboats  | ................  | ................  |
@@ -10185,7 +10321,7 @@ This Record shall be permanently attached to the Nuclear Cargo Ship Safety Certi
 3 Details of radio facilities  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Actual provision  |
 | 1 Primary systems  | --- |
 | 1.1 VHF radio installation  | --- |
@@ -10218,7 +10354,7 @@ This Record shall be permanently attached to the Nuclear Cargo Ship Safety Certi
 4 Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 4.1 Duplication of equipment  | .....................................................................  |
 | 4.2 Shore-based maintenance  | .....................................................................  |
 | 4.3 At-sea maintenance capability  | ...............................................................  |
@@ -10226,7 +10362,7 @@ This Record shall be permanently attached to the Nuclear Cargo Ship Safety Certi
 5 Details of navigation systems and equipment  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Actual provision  |
 | 1.1 Standard magnetic compass <sup>2</sup>  | ..................  |
 | 1.2 Spare magnetic compass <sup>2</sup>  | ..................  |
@@ -10267,7 +10403,7 @@ This Record shall be permanently attached to the Nuclear Cargo Ship Safety Certi
 <sup>2</sup> Alternative means of meeting this requirement are permitted under regulation V/19. In case of other means, they shall be specified. <sup>3</sup> Delete as appropriate.   THIS IS TO CERTIFY that this Record is correct in all respects.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at  | ...................................................................................................................  |
 | --- |  *(Place of issue of the Record)*   |
 | ......................  | ..........................................................................................................  |
@@ -10680,7 +10816,7 @@ Wanneer overeenkomstig de bepalingen van dit Verdrag tussen alle of sommige van 
 ####Nederlegging en registratie
 
 (a).  Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan de Regeringen van alle Staten die het hebben ondertekend of ertoe zijn toegetreden.   
-(b).  Zodra dit Verdrag in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+(b).  Zodra dit Verdrag in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.   
 
 ### Artikel  XIII  
 
@@ -10738,13 +10874,15 @@ Bij toepassing van deze voorschriften gelden, tenzij uitdrukkelijk anders is bep
 
 (j) Een reactorschip is een schip dat is voorzien van een kernreactor-installatie.  
 
-(k) „Nieuw schip” betekent een schip waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt, op of na 25 mei 1980.  
+(k) „Nieuw schip" betekent een schip waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt, op of na 25 mei 1980.  
 
 (l) „Bestaand schip” betekent een schip dat geen nieuw schip is.  
 
 (m) Een zeemijl is 1852 meter of 6080 voet.  
 
-(n) „Verjaardatum” betekent de dag en de maand van elk jaar overeenkomend met de vervaldatum van het desbetreffende certificaat.    
+(n) „Verjaardatum” betekent de dag en de maand van elk jaar overeenkomend met de vervaldatum van het desbetreffende certificaat.  
+
+(n) „Verjaardatum" betekent de dag en de maand van elk jaar overeenkomend met de vervaldatum van het desbetreffende certificaat.    
 
 ### Voorschrift  3  
 
@@ -10806,11 +10944,11 @@ ii. een hernieuwd onderzoek eenmaal per 12 maanden, behalve wanneer Voorschrift 
 
 b. De hierboven genoemde onderzoeken moeten als volgt worden uitgevoerd: 
 
-i. het eerste onderzoek moet een volledige inspectie omvatten van de constructie van het schip, de machine-installatie en de uitrusting, met inbegrip van het vlak van het schip aan de buitenzijde en het in- en uitwendige van de ketels. Dit onderzoek moet zodanig zijn dat het zeker is dat de algemene inrichting, de materialen en de verbanddelen van de romp, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties met inbegrip van die gebruikt in reddingmiddelen, middelen voor bescherming tegen brand, systemen en apparaten voor beveiliging tegen brand, reddingmiddelen en voorzieningen, navigatiemiddelen aan boord, zeevaartkundige publikaties, inschepingsmiddelen voor loodsen en andere uitrusting, ten volle voldoen aan de eisen van deze Voorschriften en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd voor schepen in de dienst waarvoor het te onderzoeken schip is bestemd. Het onderzoek moet ook zodanig zijn, dat het zeker is dat de technische uitvoering van alle delen van het schip en zijn uitrusting in alle opzichten bevredigend is en dat het schip is voorzien van de lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen zoals vereist volgens de bepalingen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+i. het eerste onderzoek moet een volledige inspectie omvatten van de constructie van het schip, de machine-installatie en de uitrusting, met inbegrip van het vlak van het schip aan de buitenzijde en het in- en uitwendige van de ketels. Dit onderzoek moet zodanig zijn dat het zeker is dat de algemene inrichting, de materialen en de verbanddelen van de romp, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties met inbegrip van die gebruikt in reddingmiddelen, middelen voor bescherming tegen brand, systemen en apparaten voor beveiliging tegen brand, reddingmiddelen en voorzieningen, navigatiemiddelen aan boord, zeevaartkundige publikaties, inschepingsmiddelen voor loodsen en andere uitrusting, ten volle voldoen aan de eisen van deze Voorschriften en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd voor schepen in de dienst waarvoor het te onderzoeken schip is bestemd. Het onderzoek moet ook zodanig zijn, dat het zeker is dat de technische uitvoering van alle delen van het schip en zijn uitrusting in alle opzichten bevredigend is en dat het schip is voorzien van de lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen zoals vereist volgens de bepalingen van deze Voorschriften en van de geldende Internationale Bepalingen ter voorkoming van aanvaringen op zee;  
 
-ii. het hernieuwd onderzoek moet een inspectie omvatten van de constructie, ketels en andere drukvaten, machine-installaties en uitrusting, met inbegrip van het vlak van het schip aan de buitenzijde. Het onderzoek moet zodanig zijn dat het zeker is dat het schip, wat betreft de constructie, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties, met inbegrip van die gebruikt in reddingsmiddelen, middelen voor bescherming tegen brand, systemen en apparaten voor beveiliging tegen brand, reddingsmiddelen en -voorzieningen, navigatiemiddelen aan boord van schepen, zeevaartkundige publikaties, inschepingsmiddelen voor loodsen en andere uitrusting, in een bevredigende toestand verkeert en geschikt is voor de dienst waarvoor het is bestemd en dat het voldoet aan de eisen van deze Voorschriften en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd. De lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen die aan boord zijn, moeten eveneens aan bovengenoemd onderzoek worden onderworpen ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+ii. het hernieuwd onderzoek moet een inspectie omvatten van de constructie, ketels en andere drukvaten, machine-installaties en uitrusting, met inbegrip van het vlak van het schip aan de buitenzijde. Het onderzoek moet zodanig zijn dat het zeker is dat het schip, wat betreft de constructie, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties, met inbegrip van die gebruikt in reddingsmiddelen, middelen voor bescherming tegen brand, systemen en apparaten voor beveiliging tegen brand, reddingsmiddelen en -voorzieningen, navigatiemiddelen aan boord van schepen, zeevaartkundige publikaties, inschepingsmiddelen voor loodsen en andere uitrusting, in een bevredigende toestand verkeert en geschikt is voor de dienst waarvoor het is bestemd en dat het voldoet aan de eisen van deze Voorschriften en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd. De lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen die aan boord zijn, moeten eveneens aan bovengenoemd onderzoek worden onderworpen ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften en van de geldende Internationale Bepalingen ter voorkoming van aanvaringen op zee;  
 
-iii. een algeheel of gedeeltelijk aanvullend onderzoek moet, al naar gelang de omstandigheden, worden uitgevoerd na herstellingen voortvloeiend uit de onderzoeken voorgeschreven in Voorschrift 11 of telkens wanneer belangrijke herstellingen of vernieuwingen zijn verricht. Het onderzoek moet zodanig zijn, dat het zeker is dat de noodzakelijke herstellingen of vernieuwingen deugdelijk zijn uitgevoerd, dat het materiaal en de uitvoering van zulke herstellingen of vernieuwingen in alle opzichten bevredigend zijn en dat het schip in alle opzichten voldoet aan de bepalingen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md) en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd.    
+iii. een algeheel of gedeeltelijk aanvullend onderzoek moet, al naar gelang de omstandigheden, worden uitgevoerd na herstellingen voortvloeiend uit de onderzoeken voorgeschreven in Voorschrift 11 of telkens wanneer belangrijke herstellingen of vernieuwingen zijn verricht. Het onderzoek moet zodanig zijn, dat het zeker is dat de noodzakelijke herstellingen of vernieuwingen deugdelijk zijn uitgevoerd, dat het materiaal en de uitvoering van zulke herstellingen of vernieuwingen in alle opzichten bevredigend zijn en dat het schip in alle opzichten voldoet aan de bepalingen van deze Voorschriften en van de geldende Internationale Bepalingen ter voorkoming van aanvaringen op zee en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd.    
 
 c. 
 
@@ -10836,9 +10974,9 @@ v. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in Voors
 
 b. De onderzoeken bedoeld onder (a) worden uitgevoerd als volgt: 
 
-i. het eerste onderzoek omvat een volledige inspectie van de systemen en apparaten voor beveiliging tegen brand, de reddingmiddelen en -voorzieningen behalve radio- installaties, navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en andere uitrusting waarop de hoofdstukken II-1, II-2, III en V van toepassing zijn ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften, in een bevredigende toestand verkeren en geschikt zijn voor de bedrijfsvoering waarvoor het schip is bestemd. De brandbestrijdingsplannen, zeevaartkundige publikaties, lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen moeten ook worden onderworpen aan bovengenoemd onderzoek ten einde te verzekeren dat zij voldoen aan de voorwaarden van deze Voorschriften en, wanneer van toepassing, van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+i. het eerste onderzoek omvat een volledige inspectie van de systemen en apparaten voor beveiliging tegen brand, de reddingmiddelen en -voorzieningen behalve radio- installaties, navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en andere uitrusting waarop de hoofdstukken II-1, II-2, III en V van toepassing zijn ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften, in een bevredigende toestand verkeren en geschikt zijn voor de bedrijfsvoering waarvoor het schip is bestemd. De brandbestrijdingsplannen, zeevaartkundige publikaties, lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen moeten ook worden onderworpen aan bovengenoemd onderzoek ten einde te verzekeren dat zij voldoen aan de voorwaarden van deze Voorschriften en, wanneer van toepassing, van de geldende Internationale Bepalingen ter voorkoming van aanvaringen op zee;  
 
-ii. de hernieuwde onderzoeken en periodieke onderzoeken omvatten een inspectie van de onder (b)(i) bedoelde uitrusting ten einde te verzekeren dat deze voldoet aan de desbetreffende eisen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md), in bevredigende toestand verkeert en geschikt is voor de bedrijfsvoering waarvoor het schip is bestemd;  
+ii. de hernieuwde onderzoeken en periodieke onderzoeken omvatten een inspectie van de onder (b)(i) bedoelde uitrusting ten einde te verzekeren dat deze voldoet aan de desbetreffende eisen van deze Voorschriften en van de geldende Internationale Bepalingen ter voorkoming van aanvaringen op zee, in bevredigende toestand verkeert en geschikt is voor de bedrijfsvoering waarvoor het schip is bestemd;  
 
 iii. het jaarlijkse onderzoek omvat een algemene inspectie van de onder (b)(i) bedoelde uitrusting ten einde te verzekeren dat deze is onderhouden overeenkomstig Voorschrift 11(a) en zij in bevredigende staat blijft voor de bedrijfsvoering waarvoor het schip is bestemd.    
 
@@ -10870,33 +11008,17 @@ c. De onder (a)(iii) bedoelde periodieke onderzoeken worden aangetekend op de ru
 
 ####Onderzoeken van constructie, machine-installaties en uitrusting van vrachtschepen
 
-a. De constructie, machine-installaties en uitrusting (behalve die met betrekking waartoe een Uitrustingscertificaat voor Vrachtschepen en een Radioveiligheidscertificaat voor Vrachtschepen worden afgegeven) van een vrachtschip zoals bedoeld onder (b)(i) worden onderworpen aan de onderstaand aangegeven onderzoeken en inspecties: 
+(a) De romp, machines en uitrusting van een vrachtschip (behalve die onderdelen van de uitrusting ten aanzien waarvan Uitrustingscertificaten voor Vrachtschepen, of Radio-Veiligheidscertificaten voor Vrachtschepen worden afgegeven) moeten bij voltooiing en daarna an een onderzoek worden onderworpen op een wijze en op tijdstippen die door de Administratie noodzakelijk worden geacht, ten einde te verzekeren dat de toestand waarin zij verkeren in alle opzichten bevredigend is en wel met de volgende tussenpozen: 
 
-i. een eerste onderzoek, met inbegrip van het vlak van het schip aan de buitenzijde, voordat het schip in dienst wordt gesteld;  
+(i) met tussenpozen zoals door de Administratie aangegeven, echet langer dan vijf jaar (periodieke onderzoeken);  
 
-ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan 5 jaar, behalve wanneer Voorschrift 14(b), (e), (f) en (g) van toepassing is;  
+(ii) naast dergelijke periodieke onderzoeken moet een tankschip dat tien jaar of ouder is ten minste één tussentijds onderzoek ondergaan gedurende de geldigheidsduur van zijn Veiligheidsconstructiecertificaat voor Vrachtschepen. In gevallen waar gedurende de geldigheidsduur van het certificaat slechts één tussentijds onderzoek wordt verricht, moet dit plaatsvinden binnen zes maanden vóór of na het tijdstip dat halverwege de geldigheidsduur van het certificaat ligt.    
 
-iii. een tussentijds onderzoek binnen drie maanden voor of na de tweede verjaardatum of binnen drie maanden voor of na de derde verjaardatum van het Veiligheidsconstructiecertificaat voor Vrachtschepen, dat in de plaats treedt van een van de jaarlijkse onderzoeken aangegeven onder (a)(iv);  
+(b) Het eerste en het periodieke onderzoek moeten zodanig zijn dat het zeker is dat de algemene inrichting, het materiaal en de verbanddelen van de romp, ketels en andere drukvaten met toebehoren, hoofd- en hulp werktuigen met inbegrip van de stuurinrichting en de bijbehorende bedieningsapparatuur, elektrische installaties en andere uitrusting ten volle voldoen voor de dienst waarvoor het schip is bestemd. Dergelijke onderzoeken moeten, wanneer het tankschepen betreft, ook een inspectie omvatten van het vlak van het schip aan de buitenzijde, de pompkamers, lading- en bunkerleidingen, ontluchtingspijpen, over- en onderdrukkleppen en vlamkerende inrichtingen.  
 
-iv. een jaarlijks onderzoek binnen 3 maanden voor of na elke verjaardatum van het Veiligheidsconstructiecertificaat voor Vrachtschepen;  
+(c) Tussentijdse onderzoeken van tankschepen die tien jaar of ouder zijn, moeten een inspectie omvatten van de stuurinrichting met de bijbehorende bedieningsapparatuur, de pompkamers, lading- en bunkerleidingen aan dek en in de pompkamers, ontluchtingspijpen, overdruk- en onderdrukkleppen en vlamkerende inrichtingen, de elektrische installaties in gevaarlijke zones en het vlak van het schip aan de buitenzijde. Naast de visuele inspectie van de elektrische installaties, moet de isolatieweerstand van de elektrische uitrusting in de gevaarlijke zones worden doorgemeten. Indien er bij het onderzoek twijfel rijst over de toestand van leidingen moeten de noodzakelijk geachte extra maatregelen getroffen worden zoals drukproeven en diktebepalingen. Dergelijke tussentijdse onderzoeken moeten worden aangetekend op het Veiligheidsconstructiecertificaat voor Vrachtschepen dat is afgegeven overeenkomstig Voorschrift 12 (a) (ii) van Hoofdstuk I van het Verdrag.  
 
-v. een minimum van twee inspecties van het vlak van het schip aan de buitenzijde gedurende een tijdvak van vijf jaar, behalve wanneer Voorschrift 14(e) of (f) van toepassing is. Wanneer Voorschrift 14(e) of (f) van toepassing is, kan dit tijdvak van vijf jaar worden verlengd, zodat het samenvalt met de verlengde geldigheidsduur van het certificaat. In alle gevallen mag de tussenpoos tussen twee onderzoeken niet langer zijn dan 36 maanden;  
-
-vi. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in Voorschrift 7(b)(iii).    
-
-b. De onderzoeken en inspecties bedoeld onder (a) worden uitgevoerd als volgt: 
-
-i. het eerste onderzoek omvat een volledige inspectie van de constructie, machine-installatie en uitrusting. Dit onderzoek moet zodanig zijn dat het zeker is dat de algemene inrichting, materialen, verbanddelen en de technische uitvoering van de constructie, ketels en andere drukvaten met toebehoren, hoofd- en hulpmachine-installaties, met inbegrip van de stuurinrichting en bijbehorende bedieningssystemen, elektrische installatie en andere uitrusting voldoen aan de eisen van deze Voorschriften, in een bevredigende toestand verkeren en geschikt zijn voor de bedrijfsvoering waarvoor het schip is bestemd en dat de vereiste gegevens inzake de stabiliteit zijn verstrekt. In het geval van tankschepen moet zulk een onderzoek ook een inspectie omvatten van de pompkamers, laad-, bunker- en ventilatie-systemen; en bijbehorende veiligheidsinrichtingen;  
-
-ii. het hernieuwd onderzoek moet een inspectie omvatten van de constructie, machine- installaties en uitrusting zoals bedoeld onder (b)(i) ten einde te verzekeren dat deze voldoen aan de eisen van deze Voorschriften, in een bevredigende toestand verkeren en geschikt zijn voor de bedrijfsvoering waarvoor het schip is bestemd;  
-
-iii. het tussentijdse onderzoek moet een inspectie omvatten van de constructie, ketels en andere drukvaten, machine-installaties en uitrusting, de stuurinrichting en de daarbij behorende bedieningsystemen en elektrische installaties ten einde te verzekeren dat zij in een bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd. In het geval van tankschepen moet zulk een onderzoek ook een inspectie omvatten van de pompkamers, laad-, bunker- en ventilatiesystemen en bijbehorende veiligheidsinrichtingen en de beproeving van de isolatieweerstand van elektrische installaties in gevaarlijke zones;  
-
-iv. het jaarlijkse onderzoek moet een algemene inspectie omvatten van de constructie, machine-installaties en uitrusting bedoeld onder (b)(i) ten einde te verzekeren dat deze in de toestand zijn gehandhaafd overeenkomstig Voorschrift 11(a) en dat zij in bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd;  
-
-v. de inspectie van het vlak van het schip aan de buitenzijde en het onderzoek van tegelijkertijd geïnspecteerde daarmede samenhangende zaken moeten zodanig zijn dat het zeker is dat deze in bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd.    
-
-c. De tussentijdse en jaarlijkse onderzoeken en de inspecties van het vlak van het schip aan de buitenzijde bedoeld onder (a)(iii), (a)(iv) en (a)(v) worden aangetekend op de rugzijde van het Veiligheidsconstructiecertificaat.    
+(d) Al naar gelang de omstandigheden moet er een algeheel of eeltelijk onderzoek worden gehouden wanneer zulks is vereist na een onderzoek zoals voorgeschreven in Voorschrift 11 van dit Hoofdstuk, of wanneer belangrijke herstellingen of vernieuwingen worden uitgevoerd. Het onderzoek moet zodanig zijn, dat het zeker is dat e noodzakelijke herstellingen of vernieuwingen deugdelijk zijn uitgevoerd, dat het materiaal en de uitvoering van zulke reparaties of vernieuwingen in alle opzichten bevredigend zijn en dat het schip geschikt is om zee te kiezen zonder gevaar voor schip of opvarenden.    
 
 ### Voorschrift  11  
 
@@ -11068,7 +11190,7 @@ Op de voorrechten van dit Verdrag mag slechts aanspraak worden gemaakt ten behoe
 
 ### HOOFDSTUK  II-1  
 
-####CONSTRUCTIE – STRUCTUUR, WATERDICHTE INDELING EN STABILITEIT, MACHINES EN ELEKTRISCHE INSTALLATIES
+####CONSTRUCTIE – STRUCTUUR, WATERDICHTE INDELING EN STABILITEIT, MACHINE-INSTALLATIES EN ELEKTRISCHE INSTALLATIES
 
 ### DEEL  A  
 
@@ -11116,11 +11238,11 @@ Tenzij uitdrukkelijk anders bepaald, wordt voor de toepassing van dit Hoofdstuk 
 
 4. *Voorste einde*, de voorste begrenzing van de indelingslengte.  
 
-5. *Lengte (L)*, de lengte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).  
+5. *Lengte (L)*, de lengte als omschreven in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen.  
 
-6. *Vrijboorddek*, het dek als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).  
+6. *Vrijboorddek*, het dek als omschreven in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen.  
 
-7. *Voorste loodlijn*, de voorste loodlijn als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).  
+7. *Voorste loodlijn*, de voorste loodlijn als omschreven in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen.  
 
 8. *Breedte (B)*, de grootste breedte van het schip naar de mal, op of onder de diepste indelingsdiepgang.  
 
@@ -11422,14 +11544,14 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 ####Corrosiebescherming van ladingolietanks in ruwe-olietankschepen
 
-1.  Paragraaf 3 is van toepassing op ruwe-olietankschepen , zoals omschreven in [voorschrift 1 van Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), zoals gewijzigd door het daarbij behorende Protocol van 1978, met een draagvermogen van 5000 ton en meer; <sup> 1)  Zie onderdelen 1.11.1 of 1.11.4 van het Supplement bij het Internationaal Certificaat van voorkoming van verontreiniging door olie (formulier B).  </sup> 
+1.  Paragraaf 3 is van toepassing op ruwe-olietankschepen , zoals omschreven in voorschrift 1 van Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het daarbij behorende Protocol van 1978, met een draagvermogen van 5000 ton en meer; <sup> 1)  Zie onderdelen 1.11.1 of 1.11.4 van het Supplement bij het Internationaal Certificaat van voorkoming van verontreiniging door olie (formulier B).  </sup> 
 
 .1 waarvoor het bouwcontract is afgesloten op of na 1 januari 2013; of  
 
 .2 waarvan, bij het ontbreken van een bouwcontract, de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 juli 2013; of  
 
 .3 waarvan de oplevering plaatsvindt op of na 1 januari 2016.     
-2.  Paragraaf 3 is niet van toepassing op combinatiecarriers of chemicaliëntankschepen zoals omschreven in [voorschrift 1 van respectievelijk Bijlage I](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) en [II bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), zoals gewijzigd door het daarbij behorende Protocol van 1978. Ten behoeve van dit voorschrift worden onder chemicaliëntankschepen mede verstaan chemicaliëntankschepen die olie mogen vervoeren.   
+2.  Paragraaf 3 is niet van toepassing op combinatiecarriers of chemicaliëntankschepen zoals omschreven in voorschrift 1 van respectievelijk Bijlage I en II bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het daarbij behorende Protocol van 1978. Ten behoeve van dit voorschrift worden onder chemicaliëntankschepen mede verstaan chemicaliëntankschepen die olie mogen vervoeren.   
 3.  Alle ladingolietanks van ruwe-olietankschepen moeten: 
 
 .1 tijdens de bouw van het schip worden gecoat in overeenstemming met de Prestatienorm voor beschermende coatings voor ladingolietanks van ruwe-olietankschepen, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.288(87), eventueel als gewijzigd door de Organisatie, mits deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake wijzigingsprocedures die van toepassing zijn op de bijlage niet zijnde Hoofdstuk I daarvan; of  
@@ -11492,13 +11614,13 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 1.  De indeling van een schip wordt als voldoende beschouwd indien de bereikte indelingsindex *A*, vastgesteld in overeenstemming met voorschrift 7, niet geringer is dan de vereiste indelingsindex *R,* berekend in overeenstemming met dit voorschrift en indien bovendien de partiële indexen *A <sub>s</sub>*, *A <sub>p</sub>* en *A <sub>1</sub>* voor passagiersschepen niet kleiner zijn dan 0,9 *R* en voor vrachtschepen niet geringer dan 0,5 *R*.   
 2.  Voor alle schepen waarop de lekstabiliteitsvereisten van dit Hoofdstuk van toepassing zijn, moet de te realiseren indelingsgraad door middel van de vereiste indelingsindex *R* als volgt worden bepaald: 
 
-.1 In het geval van vrachtschepen met een lengte *(L <sub>s</sub>)* van meer dan 100 m:   ![10000053585](http://wetten.overheid.nl/Illustration/10000053585)
+.1 In het geval van vrachtschepen met een lengte *(L <sub>s</sub>)* van meer dan 100 m:   ![]()
 
-.2 In het geval van vrachtschepen met een lengte *(L <sub>s</sub>)* van ten minste 80 m en ten hoogste 100 m:   ![10000053586](http://wetten.overheid.nl/Illustration/10000053586)
+.2 In het geval van vrachtschepen met een lengte *(L <sub>s</sub>)* van ten minste 80 m en ten hoogste 100 m:   ![]()
 waarbij *R <sub>o</sub>* de waarde *R* is als berekend overeenkomstig de formule uit subparagraaf .1  
 
-.3 In het geval van passagiersschepen:   ![10000053587](http://wetten.overheid.nl/Illustration/10000053587)
-waarbij:   ![10000053588](http://wetten.overheid.nl/Illustration/10000053588)
+.3 In het geval van passagiersschepen:   ![]()
+waarbij:   ![]()
 N <sub>1</sub> = aantal personen waarvoor reddingsboten beschikbaar zijn N <sub>2</sub> = aantal personen (met inbegrip van officiers en bemanningsleden) dat het schip meer dan N1 mag vervoeren.  
 
 .4 Wanneer de bedrijfsomstandigheden zodanig zijn dat naleving van paragraaf 2.3 van dit voorschrift op basis van *N* = *N*<sub>1</sub> + 2 *N*<sub>2</sub> praktisch onuitvoerbaar is, en wanneer de Administratie van oordeel is dat er een gepaste geringere mate van gevaar bestaat, mag een lagere waarde voor *N* worden genomen, doch in geen geval minder dan *N* = *N*<sub>1</sub> + *N*<sub>2</sub>.     
@@ -11507,12 +11629,12 @@ N <sub>1</sub> = aantal personen waarvoor reddingsboten beschikbaar zijn N <sub>
 
 ####Bereikte indelingsindex A
 
-1.  De bereikte indelingsindex *A* wordt verkregen door optelling van de partiële indexen *A*<sub>s</sub>, *A*<sub>p</sub> en *A*<sub>l</sub>, (gewogen als getoond) berekend voor de in voorschrift 2 omschreven diepgangen *d*<sub>s</sub>, *d*<sub>p</sub> en *d*<sub>l</sub> volgens de volgende formule:   ![10000053589](http://wetten.overheid.nl/Illustration/10000053589)
-Elke partiële index is een optelling van de bijdragen van alle bestudeerde schadescenario’s, met gebruikmaking van de volgende formule:   ![10000053590](http://wetten.overheid.nl/Illustration/10000053590)
+1.  De bereikte indelingsindex *A* wordt verkregen door optelling van de partiële indexen *A*<sub>s</sub>, *A*<sub>p</sub> en *A*<sub>l</sub>, (gewogen als getoond) berekend voor de in voorschrift 2 omschreven diepgangen *d*<sub>s</sub>, *d*<sub>p</sub> en *d*<sub>l</sub> volgens de volgende formule:   ![]()
+Elke partiële index is een optelling van de bijdragen van alle bestudeerde schadescenario’s, met gebruikmaking van de volgende formule:   ![]()
 waarbij:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *i*   | staat voor elke afdeling of groep van afdelingen in kwestie,  |
 |  *p <sub>i</sub>*   | staat voor de mogelijkheid dat uitsluitend de afdeling of groep van afdelingen in kwestie kan vollopen, ongeacht de horizontale indeling, als omschreven in voorschrift 7-1,  |
 |  *s <sub>i</sub>*   | staat voor de overlevingskans na vollopen van de afdeling of groep van afdelingen in kwestie, en omvat het effect van de horizontale indeling, als omschreven in voorschrift 7-2.  |
@@ -11531,7 +11653,7 @@ waarbij:
 1.  De factor *p <sub>i</sub>* voor een afdeling of groep van afdelingen wordt berekend in overeenstemming met de paragrafen 1.1 en 1.2, met gebruikmaking van de volgende notaties:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  *j*   | =  | het nummer van de achterste beschadigingzone waar beschadiging is ontstaan, te beginnen bij nr. 1 bij de achtersteven;  |
 |  *n*   | =  | het aantal bij de beschadiging betrokken aangrenzende beschadigingszones;  |
 |  *k*   | =  | het aantal specifieke lengteschotten die in een beschadigingzone als barrière voor dwarspenetratie dienen, gerekend van de huid naar hart schip toe. De huid heeft een waarde van *k* = 0;  |
@@ -11539,42 +11661,42 @@ waarbij:
 |  *x2*   | =  | de afstand van het achterste einde van *L <sub>s</sub>* tot het voorste einde van de betrokken zone;  |
 |  *b*   | =  | de gemiddelde dwarsafstand in meters, gemeten op rechte hoeken met hart schip op de diepste indelingsdiepgang tussen de huid en een aangenomen verticaal vlak dat zich uitstrekt tussen de lengtebegrenzingen die worden gebruikt voor de berekening van de factor *p <sub>i</sub>* en die een raaklijn vormt, of gemeenschappelijk heeft, met het buitenste gedeelte van het desbetreffende langsschot of een deel hiervan. Dit verticale vlak moet zodanig zijn geplaatst dat de gemiddelde dwarsafstand naar de huid maximaal is, doch hoogstens tweemaal de geringste afstand tussen het vlak en de huid. Indien het bovenste deel van een lengteschot zich bevindt onder de diepste indelingsdiepgang, wordt het verticale vlak dat voor de bepaling van *b* wordt gebruikt, geacht zich naar boven uit te strekken tot de diepste indelingswaterlijn. In elk geval mag *b* niet groter zijn dan *B/2*.  |
 
-Indien de beschadiging zich beperkt tot een enkele zone:   ![10000053591](http://wetten.overheid.nl/Illustration/10000053591)
-Indien de beschadiging twee aangrenzende zones betreft:   ![10000053592](http://wetten.overheid.nl/Illustration/10000053592)
-Indien de beschadiging drie of meer aangrenzende zones betreft:   ![10000053593](http://wetten.overheid.nl/Illustration/10000053593)
+Indien de beschadiging zich beperkt tot een enkele zone:   ![]()
+Indien de beschadiging twee aangrenzende zones betreft:   ![]()
+Indien de beschadiging drie of meer aangrenzende zones betreft:   ![]()
 en waarbij *r* (*x1*, *x2*, *b <sub>0</sub>*) = 0 
 
 1.1 De factor *p* (*x1*, *x2*) moet worden berekend aan de hand van de volgende formules:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Totaal genormaliseerde maximum lengte van de beschadiging:  |  *J* <sub>max</sub>   | =  | 10/33  |
 | Scharnierpunt in de verdeling:  |  *J <sub>kn</sub>*   | =  | 5/33  |
 | Cumulatieve probabiliteit bij *J <sub>kn</sub>*:  |  *p <sub>k</sub>*   | =  | 11/12  |
 | Maximum absolute lengte van de beschadiging:  |  *l* <sub>max</sub>   | =  | 60 m  |
 | Lengte waarbij de genormaliseerde verdeling eindigt:  |  *L* <sup>*</sup>   | =  | 260 m  |
 
-Kansdichtheid bij *J* = 0:   ![10000053594](http://wetten.overheid.nl/Illustration/10000053594)
-Wanneer   ![10000053595](http://wetten.overheid.nl/Illustration/10000053595)
-Wanneer   ![10000053596](http://wetten.overheid.nl/Illustration/10000053596)
-![10000053597](http://wetten.overheid.nl/Illustration/10000053597)
-De niet-dimensionale lengte van de beschadiging:   ![10000053598](http://wetten.overheid.nl/Illustration/10000053598)
+Kansdichtheid bij *J* = 0:   ![]()
+Wanneer   ![]()
+Wanneer   ![]()
+![]()
+De niet-dimensionale lengte van de beschadiging:   ![]()
 De genormaliseerde lengte van een afdeling of groep van afdelingen: *J <sub>n</sub>* moet de geringste van *J* en *J <sub>m</sub>* zijn 
 
-1.1.1 Wanneer geen van de begrenzingen van de desbetreffende afdeling of groep van afdelingen met het achterste of voorste einde samenvallen:   ![10000053599](http://wetten.overheid.nl/Illustration/10000053599)
+1.1.1 Wanneer geen van de begrenzingen van de desbetreffende afdeling of groep van afdelingen met het achterste of voorste einde samenvallen:   ![]()
 
-1.1.2 Wanneer de achterste begrenzing van de desbetreffende afdeling of groep van afdelingen met het achterste einde samenvalt of de voorste begrenzing van de desbetreffende afdeling of groep van afdelingen met het voorste einde samenvalt:   ![10000053600](http://wetten.overheid.nl/Illustration/10000053600)
+1.1.2 Wanneer de achterste begrenzing van de desbetreffende afdeling of groep van afdelingen met het achterste einde samenvalt of de voorste begrenzing van de desbetreffende afdeling of groep van afdelingen met het voorste einde samenvalt:   ![]()
 
-1.1.3 Wanneer de desbetreffende afdeling of groep van afdelingen zich uitstrekt over de gehele indelingslengte (*L <sub>s</sub>*):   ![10000053601](http://wetten.overheid.nl/Illustration/10000053601)
+1.1.3 Wanneer de desbetreffende afdeling of groep van afdelingen zich uitstrekt over de gehele indelingslengte (*L <sub>s</sub>*):   ![]()
 
-1.2 De factor *r(x1, x2, b)* wordt bepaald aan de hand van de volgende formules:   ![10000053602](http://wetten.overheid.nl/Illustration/10000053602)
-waarbij:   ![10000053603](http://wetten.overheid.nl/Illustration/10000053603)
+1.2 De factor *r(x1, x2, b)* wordt bepaald aan de hand van de volgende formules:   ![]()
+waarbij:   ![]()
 
-1.2.1 Wanneer de desbetreffende afdeling of groep van afdelingen zich uitstrekt over de gehele indelingslengte (*L <sub>s</sub>*):   ![10000053604](http://wetten.overheid.nl/Illustration/10000053604)
+1.2.1 Wanneer de desbetreffende afdeling of groep van afdelingen zich uitstrekt over de gehele indelingslengte (*L <sub>s</sub>*):   ![]()
 
-1.2.2 Wanneer geen van de begrenzingen van de desbetreffende afdeling of groep van afdelingen met het achterste of voorste einde samenvallen:   ![10000053605](http://wetten.overheid.nl/Illustration/10000053605)
+1.2.2 Wanneer geen van de begrenzingen van de desbetreffende afdeling of groep van afdelingen met het achterste of voorste einde samenvallen:   ![]()
 
-1.2.3 Wanneer de achterste begrenzing van de desbetreffende afdeling of groep van afdelingen met het achterste einde samenvalt of de voorste begrenzing van de desbetreffende afdeling of groep van afdelingen met het voorste einde samenvalt:   ![10000053606](http://wetten.overheid.nl/Illustration/10000053606)
+1.2.3 Wanneer de achterste begrenzing van de desbetreffende afdeling of groep van afdelingen met het achterste einde samenvalt of de voorste begrenzing van de desbetreffende afdeling of groep van afdelingen met het voorste einde samenvalt:   ![]()
 
 ### Voorschrift  7-2  
 
@@ -11582,26 +11704,26 @@ waarbij:   ![10000053603](http://wetten.overheid.nl/Illustration/10000053603)
 
 1.  De factor *s <sub>i</sub>* wordt bepaald voor elk verondersteld volloopscenario, waarbij een afdeling of groep van afdelingen betrokken is, in overeenstemming met de volgende notaties en met de bepalingen van dit voorschrift: *θ <sub>e</sub>* is de slagzijhoek in de eindtoestand bij elk stadium van vollopen, in graden; *θ <sub>v</sub>* is de hoek, bij elk stadium van vollopen, waarbij de stabiliteit negatief wordt, of de hoek waarbij een opening die niet waterdicht kan worden afgesloten, ondergedompeld raakt; *GZ*<sub>max</sub> is de maximale positieve stabiliteit, in meters, tot aan de hoek θ *<sub>v</sub>*; *Bereik* is het bereik van de positieve stabiliteit, in graden, gemeten vanaf de hoek θ *<sub>e</sub>*. Het positieve bereik moet lopen tot aan de hoek θ *<sub>v</sub>*; *Stadium van vollopen* is een onderscheiden fase bij het vollopen, met inbegrip van het stadium vóór overvloeien (indien van toepassing) totdat de uiteindelijke evenwichtspositie is bereikt. 
 
-1.1 De factor *s <sub>i</sub>*, wordt voor elk beschadigingsscenario bij elke initiële beladingstoestand, *d <sub>i</sub>*, verkregen via de formule:   ![10000053607](http://wetten.overheid.nl/Illustration/10000053607)
+1.1 De factor *s <sub>i</sub>*, wordt voor elk beschadigingsscenario bij elke initiële beladingstoestand, *d <sub>i</sub>*, verkregen via de formule:   ![]()
 waarbij: *s*<sub>tussenliggend,i</sub> de overlevingskans is bij alle tussenliggende stadia van vollopen tot aan de uiteindelijke evenwichtstoestand; deze wordt berekend in overeenstemming met paragraaf 2; *s*<sub>eind,i</sub> de overlevingskans is in de uiteindelijke evenwichtstoestand bij vollopen. Deze wordt berekend in overeenstemming met paragraaf 3; *s*<sub>mom,i</sub> de overlevingskans is bij hellende momenten; deze wordt berekend in overeenstemming met paragraaf 4.     
-2.  De factor *s*<sub>tussenliggend,i</sub> is uitsluitend van toepassing op passagiersschepen (bij vrachtschepen moet *s*<sub>tussenliggend,i</sub> als eenheid worden genomen); namelijk de geringste van de s-factoren die worden verkregen bij alle stadia van vollopen, met inbegrip van het stadium vóór overvloeien, indien van toepassing; dit moet als volgt worden berekend:   ![10000053608](http://wetten.overheid.nl/Illustration/10000053608)
+2.  De factor *s*<sub>tussenliggend,i</sub> is uitsluitend van toepassing op passagiersschepen (bij vrachtschepen moet *s*<sub>tussenliggend,i</sub> als eenheid worden genomen); namelijk de geringste van de s-factoren die worden verkregen bij alle stadia van vollopen, met inbegrip van het stadium vóór overvloeien, indien van toepassing; dit moet als volgt worden berekend:   ![]()
 waarbij *GZ*<sub>max</sub> niet meer mag bedragen dan 0,05 m en *Bereik* niet meer dan 7°. *s*<sub>tussenliggend</sub> = 0, indien de tussenliggende hellingshoek meer dan 15º bedraagt. Indien overvloei-inrichtingen nodig zijn, mag het overvloeien niet langer duren dan 10 minuten.   
-3.  De factor *s*<sub>eind,i</sub> wordt verkregen door middel van de volgende formule:   ![10000053609](http://wetten.overheid.nl/Illustration/10000053609)
-waarbij:   ![10000053610](http://wetten.overheid.nl/Illustration/10000053610)
+3.  De factor *s*<sub>eind,i</sub> wordt verkregen door middel van de volgende formule:   ![]()
+waarbij:   ![]()
 waarbij: *θ*<sub>min</sub> is 7° voor passagiersschepen en 25° voor vrachtschepen; en *θ*<sub>max</sub> is 15° voor passagiersschepen en 30° voor vrachtschepen.   
-4.  De factor *s*<sub>mom,i</sub> is uitsluitend van toepassing op passagiersschepen (voor vrachtschepen moet *s*<sub>mom,i</sub> als eenheid worden genomen) en moet worden berekend bij de uiteindelijke evenwichtspositie, met de volgende formule:   ![10000053611](http://wetten.overheid.nl/Illustration/10000053611)
-waarbij: *Verplaatsing* de waterverplaatsing is bij de indelingsdiepgang; *M*<sub>helling</sub> het maximum veronderstelde hellend moment is als berekend in overeenstemming met subparagraaf 4.1; en   ![10000053612](http://wetten.overheid.nl/Illustration/10000053612)
+4.  De factor *s*<sub>mom,i</sub> is uitsluitend van toepassing op passagiersschepen (voor vrachtschepen moet *s*<sub>mom,i</sub> als eenheid worden genomen) en moet worden berekend bij de uiteindelijke evenwichtspositie, met de volgende formule:   ![]()
+waarbij: *Verplaatsing* de waterverplaatsing is bij de indelingsdiepgang; *M*<sub>helling</sub> het maximum veronderstelde hellend moment is als berekend in overeenstemming met subparagraaf 4.1; en   ![]()
 
-4.1 Het hellend moment *M*<sub>helling</sub> moet als volgt worden berekend:   ![10000053613](http://wetten.overheid.nl/Illustration/10000053613)
+4.1 Het hellend moment *M*<sub>helling</sub> moet als volgt worden berekend:   ![]()
 
-4.1.1 *M*<sub>passagier</sub> is het maximum veronderstelde hellend moment als gevolg van de verplaatsing van passagiers, en moet als volgt worden verkregen:   ![10000053614](http://wetten.overheid.nl/Illustration/10000053614)
+4.1.1 *M*<sub>passagier</sub> is het maximum veronderstelde hellend moment als gevolg van de verplaatsing van passagiers, en moet als volgt worden verkregen:   ![]()
 waarbij: *N <sub>p</sub>* het maximum toegestane aantal passagiers aan boord is in de bedrijfstoestand die overeenkomt met de diepste indelingsdiepgang in kwestie; en *B* de breedte van het schip is. Als alternatief mag het hellend moment worden berekend met de aanname dat de passagiers over de beschikbare dekoppervlakken zijn verdeeld met 4 personen per vierkante meter aan een zijde van het schip op de dekken waar de verzamelplaatsen zijn gelegen en op zodanige wijze dat het ongunstigste hellende moment wordt bereikt. Hierbij moet worden uitgegaan van een gewicht van 75 kg per passagier.  
 
-4.1.2 *M*<sub>wind</sub> is de maximum aangenomen windkracht die op een beschadigingsscenario van invloed is:   ![10000053615](http://wetten.overheid.nl/Illustration/10000053615)
+4.1.2 *M*<sub>wind</sub> is de maximum aangenomen windkracht die op een beschadigingsscenario van invloed is:   ![]()
 waarbij:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  *P*   | =  | 120 N/m <sup>2</sup>;  |
 |  *A*   | =  | geprojecteerde laterale oppervlak boven de waterlijn;  |
 |  *Z*   | =  | afstand van het midden van het geprojecteerde laterale oppervlak boven de waterlijn tot *T/2*; en  |
@@ -11641,13 +11763,13 @@ waarbij:
 5.5 Behoudens voor zover bepaald in paragraaf 5.3.1 behoeft geen rekening te worden gehouden met openingen die worden gesloten door middel van waterdichte luiken en verzonken stortranden, kleine waterdichte luiken, op afstand bediende waterdichte schuifdeuren, patrijspoorten van het niet-openende type alsmede waterdichte toegangsdeuren en luiken die op zee gesloten moeten blijven.     
 6.  Wanneer boven de waterlijn in kwestie horizontale waterdichte begrenzingen zijn aangebracht, wordt de s-waarde van de lagere afdeling of groep van afdelingen berekend door vermenigvuldiging van de in paragraaf 1.1 bepaalde waarde met de in paragraaf 6.1 bedoelde reductiefactor *v <sub>m</sub>*, die de kans voorstelt dat de ruimten boven de horizontale afdeling niet zullen vollopen. 
 
-6.1 De factor *v <sub>m</sub>* wordt verkregen door de volgende formule:   ![10000053616](http://wetten.overheid.nl/Illustration/10000053616)
+6.1 De factor *v <sub>m</sub>* wordt verkregen door de volgende formule:   ![]()
 waarbij: *H <sub>j</sub>*, *<sub>n</sub>*, *<sub>m</sub>* de geringste hoogte boven de basislijn is, in meters, binnen het lengtebereik van *x <sub>1</sub>*<sub>(</sub>*<sub>j</sub>*<sub>)</sub>... *x <sub>2</sub>*<sub>(</sub>*<sub>j</sub>*<sub>+</sub>*<sub>n</sub>*<sub>-1)</sub> van de m <sup>e</sup> horizontale begrenzing waarvan wordt aangenomen dat deze de verticale mate van vollopen ten aanzien van de beschadigde afdelingen in kwestie beperkt; *H <sub>j</sub>*<sub>,</sub>*<sub>n</sub>*<sub>,</sub>*<sub>m</sub>*<sub>-1</sub> de geringste hoogte boven de basislijn is, in meters, binnen het lengtebereik van *x <sub>1</sub>*<sub>(</sub>*<sub>j</sub>*<sub>)</sub>... *x <sub>2</sub>*<sub>(</sub>*<sub>j</sub>*<sub>+</sub>*<sub>n</sub>*<sub>-1)</sub> van de (m-1) <sup>e</sup> horizontale begrenzing waarvan wordt aangenomen dat deze de verticale mate van vollopen van de beschadigde afdelingen in kwestie beperkt; *j* het achterste einde van de beschadigde afdelingen in kwestie is; *m* elke horizontale begrenzing is, geteld naar boven toe vanaf de waterlijn in kwestie; *d* de diepgang in kwestie is als omschreven in voorschrift 2; en *x <sub>1</sub>* en *x <sub>2</sub>* de einden voorstellen van de afdeling of groep van afdelingen die in voorschrift 7-1 worden besproken. 
 
-6.1.1 De factoren *v* (*H <sub>j</sub>*, *<sub>n</sub>*, *<sub>m</sub>*, *d*) en *v* (*H <sub>j</sub>*, *<sub>n</sub>*, *<sub>m</sub>*<sub>-1</sub>, *d*) worden verkregen via de volgende formules:   ![10000053617](http://wetten.overheid.nl/Illustration/10000053617)
+6.1.1 De factoren *v* (*H <sub>j</sub>*, *<sub>n</sub>*, *<sub>m</sub>*, *d*) en *v* (*H <sub>j</sub>*, *<sub>n</sub>*, *<sub>m</sub>*<sub>-1</sub>, *d*) worden verkregen via de volgende formules:   ![]()
 waarbij: voor *v* (*H <sub>j</sub>*, *<sub>n</sub>*, *<sub>m</sub>*, *d*) 1 moet worden aangehouden, indien *H <sub>m</sub>* samenvalt met de hoogste waterdichte begrenzing van het schip binnen het bereik (*x* 1 <sub>(</sub>*<sub>j</sub>*<sub>)</sub>... *x* 2 <sub>(</sub>*<sub>j</sub>*<sub>+</sub>*<sub>n</sub>*<sub>-1)</sub>), en voor *v* (*H <sub>j</sub>*, *<sub>n</sub>*<sub>,</sub>*<sub>0</sub>*, *d*) 0 moet worden aangehouden.   In geen enkel geval mag voor v <sub>m</sub> minder dan 0 of meer dan 1 worden aangehouden.  
 
-6.2 In het algemeen wordt elke bijdrage *dA* aan index *A* in het geval van horizontale afdelingen, verkregen door middel van de volgende formule:   ![10000053618](http://wetten.overheid.nl/Illustration/10000053618)
+6.2 In het algemeen wordt elke bijdrage *dA* aan index *A* in het geval van horizontale afdelingen, verkregen door middel van de volgende formule:   ![]()
 waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v* -waarde; *s*<sub>min</sub> = de geringste *s* -factor voor alle combinaties van beschadiging verkregen wanneer de veronderstelde beschadiging zich vanaf de veronderstelde beschadigingshoogte *H <sub>m</sub>* naar beneden toe uitstrekt.     
 
 ### Voorschrift  7-3  
@@ -11657,7 +11779,7 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 1.  Voor het maken van de berekeningen voor de waterdichte indeling en lekstabiliteit van de voorschriften, is de permeabiliteit van elke algemene afdeling of deel van een afdeling als volgt:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Ruimten  | Permeabiliteit  |
 | Bestemd voor voorraden  | 0,60  |
 | Ingenomen door verblijven  | 0,95  |
@@ -11669,7 +11791,7 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 2.  Voor het maken van de berekeningen voor de waterdichte indeling en lekstabiliteit van de voorschriften, is de permeabiliteit van elke ladingafdeling of deel van een afdeling als volgt:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Ruimten  | Permeabiliteit  bij diepgang *d*<sub>s</sub>  | Permeabiliteit  bij diepgang *d*<sub>p</sub>  | Permeabiliteit  bij diepgang *d*<sub>l</sub>  |
 | Droge laadruimten  | 0,70  | 0,80  | 0,95  |
 | Containerruimten  | 0,70  | 0,80  | 0,95  |
@@ -11698,10 +11820,15 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 
 ### Voorschrift  8-1  
 
-####Systeemcapaciteiten na een volloopincident op passagiersschepen
+####Systeemcapaciteiten en operationele informatie na een volloopincident op passagiersschepen
 
-1.  Toepassing Dit voorschrift is van toepassing op passagiersschepen gebouwd op of na 1 juli 2010 waarop voorschrift II-2/21 van toepassing is.   
-2.  Beschikbaarheid van essentiële systemen in geval van volloopschade <sup> 6)  Zie de Prestatienormen voor systemen en diensten die op passagiersschepen operationeel moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten van het schip na een ongeval (MSC.1/Circ.1214).  </sup> Een passagiersschip moet zodanig worden ontworpen dat de in voorschrift II-2/21.4 omschreven systemen operationeel blijven wanneer een van de waterdichte afdelingen van het schip water maakt.   
+1.  Toepassing Passagiersschepen met een lengte, als omschreven in voorschrift II-1/2.5, van 120 m of meer of met drie of meer verticale hoofdsecties, dienen aan de bepalingen van dit voorschrift te voldoen.   
+2.  Beschikbaarheid van essentiële systemen in geval van volloopschade <sup> 1)  Verwezen wordt naar de Tussentijdse toelichting voor de beoordeling van de systeemcapaciteiten van passagiersschepen na brand of een volloopincident (MSC.1/Circ.1369).  </sup> Een passagiersschip gebouwd op of na 1 juli 2010 dient zodanig te zijn ontworpen dat de in voorschrift II-2/21.4 omschreven systemen operationeel blijven wanneer een van de waterdichte afdelingen van het schip vol loopt.   
+3.  Operationele informatie na een volloopincident Ten behoeve van het verschaffen van operationele informatie aan de kapitein voor de veilige terugkeer naar een haven na een volloopincident, dienen schepen gebouwd op of na 1 januari 2014 te beschikken over: 
+
+.1 een stabiliteitscomputer aan boord; of  
+
+.2 ondersteuning vanaf de wal,   gebaseerd op door de Organisatie opgestelde richtlijnen . <sup> 2)  Verwezen wordt naar de Richtlijnen inzake operationele informatie voor kapiteins van passagiersschepen voor veilige terugkeer naar de haven op eigen kracht of gesleept (MSC.1/Circ.1400).  </sup>   
 
 ### DEEL  B-2  
 
@@ -11725,7 +11852,7 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 .2 Als omvang van de beschadiging moet worden aangenomen:  
 
 |--- | Over 0,3 *L* vanaf de voorloodlijn van het schip  | Elk ander deel van het schip  |
-|:---|:---|:---|
+|---|---|---|
 | Omvang over de horizontale as  | 1/3 *L*<sup>2/3</sup> of 14.5 m, naar gelang welke geringer is  | 1/3 *L*<sup>2/3</sup> of 14,5 m, naar gelang welke geringer is  |
 | Dwarsomvang  | *B* /6 of 10 m, naar gelang welke geringer is  | *B* /6 of 5 m, naar gelang welke geringer is  |
 | Omvang over de verticale as gemeten vanaf de kiellijn  | *B* /20 of 2 m, naar gelang welke geringer is  | *B* /20 of 2 m, naar gelang welke geringer is  |
@@ -11851,16 +11978,16 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 
 1.  Het aantal openingen in de huidbeplating moet beperkt zijn tot het minimum dat verenigbaar is met het ontwerp en het goed functioneren van het schip.   
 2.  De inrichting en de doeltreffendheid van de afsluitmiddelen van alle openingen in de huidbeplating moeten beantwoorden aan het beoogde doel en de plaats waar zij zijn aangebracht en algemeen ten genoegen van de Administratie zijn.   
-3.1.  Ingevolge de vereisten vervat in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) mag een patrijspoort niet zodanig worden aangebracht dat de onderkant van de dagopening lager is gelegen dan een lijn die evenwijdig loopt aan het schottendek op het scheepsboord met het laagste punt op een hoogte boven de diepste indelingsdiepgang, overeenkomend met 2,5% van de breedte van het schip, of op een hoogte van 500 mm, welke van beide afstanden groter is.   
+3.1.  Ingevolge de vereisten vervat in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen mag een patrijspoort niet zodanig worden aangebracht dat de onderkant van de dagopening lager is gelegen dan een lijn die evenwijdig loopt aan het schottendek op het scheepsboord met het laagste punt op een hoogte boven de diepste indelingsdiepgang, overeenkomend met 2,5% van de breedte van het schip, of op een hoogte van 500 mm, welke van beide afstanden groter is.   
 3.2.  Alle patrijspoorten, waarvan de onderkant van de dagopening lager ligt dan het schottendek van passagiersschepen en het vrijboorddek van vrachtschepen, zoals toegestaan ingevolge paragraaf 3.1, moeten zodanig zijn uitgevoerd dat zij iedere persoon verhinderen ze zonder toestemming van de kapitein van het schip te openen.   
-4.  Deugdelijke scharnierende, binnen boord aangebrachte blinden, die zodanig zijn ingericht dat zij gemakkelijk, afdoende en waterdicht gesloten kunnen worden, moeten op alle patrijspoorten worden aangebracht, zij het dat voor patrijspoorten die achter een achtste van de lengte van het schip van de voorloodlijn zijn gelegen boven een lijn die evenwijdig loopt aan het schottendek op het scheepsboord en haar laagste punt heeft op een hoogte gelijk aan 3,7 meter, vermeerderd met 2,5% van de breedte van het schip boven de diepste indelingsdiepgang, de blinden in verblijven voor passagiers, geen tussendekspassagiers zijnde, wegneembaar mogen zijn, tenzij in het van kracht zijnde [Internationale Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) vast aangebrachte blinden zijn voorgeschreven. Dergelijke wegneembare blinden moeten onmiddellijk naast de patrijspoorten waarvoor zij bestemd zijn, worden geborgd.   
+4.  Deugdelijke scharnierende, binnen boord aangebrachte blinden, die zodanig zijn ingericht dat zij gemakkelijk, afdoende en waterdicht gesloten kunnen worden, moeten op alle patrijspoorten worden aangebracht, zij het dat voor patrijspoorten die achter een achtste van de lengte van het schip van de voorloodlijn zijn gelegen boven een lijn die evenwijdig loopt aan het schottendek op het scheepsboord en haar laagste punt heeft op een hoogte gelijk aan 3,7 meter, vermeerderd met 2,5% van de breedte van het schip boven de diepste indelingsdiepgang, de blinden in verblijven voor passagiers, geen tussendekspassagiers zijnde, wegneembaar mogen zijn, tenzij in het van kracht zijnde Internationale Verdrag betreffende de uitwatering van schepen vast aangebrachte blinden zijn voorgeschreven. Dergelijke wegneembare blinden moeten onmiddellijk naast de patrijspoorten waarvoor zij bestemd zijn, worden geborgd.   
 5.1.  In ruimten die uitsluitend voor het vervoer van lading of kolen zijn bestemd, mogen geen patrijspoorten zijn aangebracht.   
 5.2.  In ruimten die afwisselend bestemd zijn voor het vervoer van lading of passagiers, mogen echter patrijspoorten zijn aangebracht, mits deze zodanig zijn uitgevoerd, dat zij iedere persoon verhinderen de patrijspoorten en de daarbij behorende blinden zonder toestemming van de kapitein te openen.   
 6.  Patrijspoorten met automatische ventilatie mogen zonder bijzondere goedkeuring van de Administratie niet in de huidbeplating onder het schottendek van passagiersschepen en het vrijboorddek van vrachtschepen worden aangebracht.   
 7.  Het aantal spuigaten, sanitaire afvoerpijpen en andere soortgelijke openingen in de huidbeplating moet tot een minimum beperkt zijn, hetzij door elke uitlaatopening voor het grootst mogelijke aantal sanitaire of andere leidingen te doen dienen, hetzij op een andere afdoende wijze.   
 8.1.  Alle openingen en afvoerpijpen in de huidbeplating moeten zijn voorzien van doeltreffende en bereikbare inrichtingen die voorkomen dat water onbedoeld het schip kan binnendringen.   
-8.2.1.  Ingevolge de vereisten vervat in het van kracht zijnde [Internationaal, Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) en met uitzondering van het bepaalde in paragraaf 8.3 moet voor elke afzonderlijke uitlaatopening in de huidbeplating van ruimten onder het schottendek van passagiersschepen en het vrijboorddek van vrachtschepen hetzij een zelfsluitende terugslagklep worden toegepast, die voorzien is van een inrichting waardoor de klep rechtstreeks vanaf boven het schottendek dichtgezet kan worden, hetzij twee zelfsluitende terugslagkleppen zonder rechtstreekse afsluitinrichting worden gebruikt, met dien verstande dat de klep binnenboord boven de diepste indelingsdiepgang moet zijn gelegen en steeds bereikbaar moet zijn voor inspectie gedurende de normale dienst. Indien een klep wordt aangebracht die rechtstreeks kan worden dichtgezet, moet de plaats waar deze boven het schottendek wordt bediend, steeds gemakkelijk toegankelijk zijn en moet daar aangegeven zijn of de klep open of gesloten is.   
-8.2.2.  De vereisten vervat in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) zijn van toepassing op uitlaatopeningen in de huidbeplating van ruimten boven het schottendek van passagiersschepen en het vrijboorddek van vrachtschepen.   
+8.2.1.  Ingevolge de vereisten vervat in het van kracht zijnde Internationaal, Verdrag betreffende de uitwatering van schepen en met uitzondering van het bepaalde in paragraaf 8.3 moet voor elke afzonderlijke uitlaatopening in de huidbeplating van ruimten onder het schottendek van passagiersschepen en het vrijboorddek van vrachtschepen hetzij een zelfsluitende terugslagklep worden toegepast, die voorzien is van een inrichting waardoor de klep rechtstreeks vanaf boven het schottendek dichtgezet kan worden, hetzij twee zelfsluitende terugslagkleppen zonder rechtstreekse afsluitinrichting worden gebruikt, met dien verstande dat de klep binnenboord boven de diepste indelingsdiepgang moet zijn gelegen en steeds bereikbaar moet zijn voor inspectie gedurende de normale dienst. Indien een klep wordt aangebracht die rechtstreeks kan worden dichtgezet, moet de plaats waar deze boven het schottendek wordt bediend, steeds gemakkelijk toegankelijk zijn en moet daar aangegeven zijn of de klep open of gesloten is.   
+8.2.2.  De vereisten vervat in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen zijn van toepassing op uitlaatopeningen in de huidbeplating van ruimten boven het schottendek van passagiersschepen en het vrijboorddek van vrachtschepen.   
 8.3.  Machineruimte, hoofdin- en uitlaten en hulpin- en uitlaten in verband met de werking van machines moeten zijn voorzien van gemakkelijk bereikbare afsluiters tussen de leidingen en de huidbeplating of tussen de leidingen en op de huidbeplating gebouwde kasten. In bemande machineruimten mogen de afsluiters ter plaatse worden bediend en moeten ze zijn voorzien van een inrichting die aangeeft of zij open of gesloten zijn.   
 8.4.  Bewegende delen die de huidbeplating doorboren onder de diepste indelingsdiepgang moeten zijn voorzien van voor de Administratie aanvaardbare waterdichte afdichtingsvoorzieningen. De binnenboordpakking moet zijn aangebracht in een waterdichte ruimte van zodanige omvang dat het schottendek, bij vollopen, niet onder water komt te staan. De Administratie kan verlangen dat, bij vollopen van een dergelijke afdeling, de essentiële of noodstroom- en lichtvoorzieningen, interne communicatie, signalen of andere noodvoorzieningen in andere delen van het schip niet kunnen uitvallen.   
 8.5.  Alle krachtens dit voorschrift vereiste voorzieningen en afsluiters in de huid dienen te zijn uitgevoerd in staal, brons of ander goedgekeurd vormbaar materiaal. Afsluiters van gewoon gietijzer of soortgelijk materiaal zijn niet toegestaan. Alle pijpen waarop dit voorschrift betrekking heeft, moeten zijn vervaardigd van staal of gelijkwaardig materiaal ten genoegen van de Administratie.   
@@ -11905,7 +12032,7 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 
 1.  De Administratie kan eisen dat alle redelijke en praktische maatregelen worden getroffen die het binnendringen en het verspreiden van water boven het schottendek zoveel mogelijk beperken. Zulke maatregelen kunnen gedeeltelijke schotten of raamspanten omvatten. Indien gedeeltelijk waterdichte schotten of raamspanten op het schottendek zijn aangebracht direct boven of in de onmiddellijke nabijheid van waterdichte schotten moeten zij waterdicht op de scheepshuid en op het schottendek aansluiten om het verspreiden van lekwater langs het dek bij slagzij van het schip te beperken. Waar het gedeeltelijk waterdichte schot niet onmiddellijk boven het schot daaronder is opgetrokken, moet het tussengelegen schottendek afdoende waterdicht zijn uitgevoerd. Wanneer openingen, leidingen, spuigaten, elektrische kabels, enzovoort door de gedeeltelijk waterdichte schotten of dekken binnen het ondergelopen deel van het schottendek worden gevoerd, moeten voorzieningen worden getroffen om de waterdichtheid van de structuur boven het schottendek teverzekeren. <sup> 9)  Zie de Richtsnoeren inzake de waterdichtheid van begrenzende schotten boven het schottendek op passagiersschepen voor de juiste toepassing van voorschrift 8 en voorschrift 20, paragraaf 1, van Hoofdstuk II-1 van SOLAS 1974, als gewijzigd (MSC/Circ.541, als kan worden gewijzigd).  </sup>   
 2.  Alle openingen in blootgestelde delen van dit open dek moeten van hoofden zijn voorzien van voldoende hoogte en sterkte en van doelmatige middelen om deze snel tegen weer en wind af te sluiten. Waterloospoorten, open railings en spuipijpen moeten zijn aangebracht voor zover noodzakelijk om overgekomen water onder alle weersomstandigheden snel van het open dek af te voeren.   
-3.  De open uiteinden van luchtpijpen die eindigen in een bovenbouw moeten zich ten minste 1 m boven de waterlijn bevinden wanneer het schip onder een hoek van 15° slagzij maakt, of de maximum hellingshoek gedurende tussenliggende stadia van vollopen, zoals vastgesteld door middel van directe berekening, naar gelang welke het grootst is. Luchtpijpen uit tanks anders dan olietanks mogen ook eindigen in de zijkant van de bovenbouw. De bepalingen van deze paragraaf laten de bepalingen van het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) onverlet.   
+3.  De open uiteinden van luchtpijpen die eindigen in een bovenbouw moeten zich ten minste 1 m boven de waterlijn bevinden wanneer het schip onder een hoek van 15° slagzij maakt, of de maximum hellingshoek gedurende tussenliggende stadia van vollopen, zoals vastgesteld door middel van directe berekening, naar gelang welke het grootst is. Luchtpijpen uit tanks anders dan olietanks mogen ook eindigen in de zijkant van de bovenbouw. De bepalingen van deze paragraaf laten de bepalingen van het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen onverlet.   
 4.  Patrijspoorten, toegangs-, laad- en brandstofpoorten en andere afsluitmiddelen voor openingen in de huidbeplating boven het schottendek, moeten deugdelijk ontworpen, geconstrueerd en voldoende sterk zijn, rekening houdend met de ruimten waarin zij zijn aangebracht en met hun plaats ten opzichte van de diepste indelingsdiepgang. <sup> 10)  Zie de Aanbeveling betreffende de sterkte en beveiligings- en afsluitvoorzieningen van in de huid aangebrachte deuren op ro-ro passagiersschepen, door de Organisatie aangenomen bij resolutie A.793(19).  </sup>   
 5.  Alle patrijspoorten in ruimten onder het eerste dek boven het schottendek moeten aan de binnenzijde van sterke blinden zijn voorzien, waarmee zij gemakkelijk en doeltreffend waterdicht gesloten kunnen worden.   
 
@@ -11955,7 +12082,7 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 
 1.  Na het laden van het schip en vóór het vertrek bepaalt de kapitein de trim en stabiliteit van het schip en stelt hij vast en tekent hij aan dat het schip voldoet aan de stabiliteitscriteria in de voorschriften ter zake. Het vaststellen van de stabiliteit van het schip geschiedt altijd door middel van berekening. De Administratie kan het gebruik van een elektronische beladings- en stabiliteitscalculator of een soortgelijk middel toestaan.   
 2.  Voor het innemen van waterballast mogen in het algemeen geen brandstofolietanks worden gebruikt. Schepen waarop om praktische redenen niet voorkomen kan worden dat brandstofolietanks voor ballastwater worden gebruikt, moeten ten genoegen van de Administratie worden voorzien van een oliescheidingsinstallatie, of vervangende middelen, zoals voorzieningen voor het lossen aan de wal, die door de Administratie voor het afvoeren van oliehoudend ballastwater worden aanvaard.   
-3.  Het bepaalde in dit voorschrift laat het bepaalde in het van kracht zijnde [Internationaal Verdrag ter voorkoming van verontreiniging door schepen](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) onverlet.   
+3.  Het bepaalde in dit voorschrift laat het bepaalde in het van kracht zijnde Internationaal Verdrag ter voorkoming van verontreiniging door schepen onverlet.   
 
 ### Voorschrift  21  
 
@@ -11995,7 +12122,7 @@ waarbij: *v <sub>m</sub>* = de in overeenstemming met paragraaf 6.1 berekende *v
 
 .1 Het tijdstip waarop dergelijke patrijspoorten in de haven geopend, alsmede het tijdstip waarop zij, vóór het schip een haven verlaat, vergrendeld worden, moeten in een door de Administratie voorgeschreven logboek worden aangetekend.  
 
-.2 Voor een schip met een of meer patrijspoorten die zo gelegen zijn dat de vereisten van paragraaf 14 van toepassing zouden zijn, indien het was ingezonken tot de diepste indelingsdiepgang, kan de Administratie de grootste gemiddelde diepgang aangeven waarbij deze patrijspoorten met de onderkant van de dagopening blijven boven de lijn die evenwijdig loopt aan het schottendek op het scheepsboord en haar laagste punt heeft op een hoogte van 1,4 meter, vermeerderd met 2,5% van de breedte van het schip, boven de waterlijn die behoort bij de grootste gemiddelde diepgang en op welke diepgang het dus geoorloofd is uit een haven te vertrekken, zonder dat bedoelde poorten van te voren gesloten en vergrendeld zijn, en ze tijdens de reis naar de volgende haven onder de verantwoordelijkheid van de kapitein te openen. In de tropische vaargebieden, zoals omschreven in het van kracht zijnde [Internationale Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), mag deze grootste diepgang met 0,3 meter worden vermeerderd.     
+.2 Voor een schip met een of meer patrijspoorten die zo gelegen zijn dat de vereisten van paragraaf 14 van toepassing zouden zijn, indien het was ingezonken tot de diepste indelingsdiepgang, kan de Administratie de grootste gemiddelde diepgang aangeven waarbij deze patrijspoorten met de onderkant van de dagopening blijven boven de lijn die evenwijdig loopt aan het schottendek op het scheepsboord en haar laagste punt heeft op een hoogte van 1,4 meter, vermeerderd met 2,5% van de breedte van het schip, boven de waterlijn die behoort bij de grootste gemiddelde diepgang en op welke diepgang het dus geoorloofd is uit een haven te vertrekken, zonder dat bedoelde poorten van te voren gesloten en vergrendeld zijn, en ze tijdens de reis naar de volgende haven onder de verantwoordelijkheid van de kapitein te openen. In de tropische vaargebieden, zoals omschreven in het van kracht zijnde Internationale Verdrag betreffende de uitwatering van schepen, mag deze grootste diepgang met 0,3 meter worden vermeerderd.     
 15.  Patrijspoorten en hun blinden die gedurende de vaart niet bereikbaar zijn, moeten, vóór het schip de haven verlaat, gesloten en geborgd zijn.   
 16.  Indien lading in de in voorschrift 15.5.2 bedoelde ruimten wordt vervoerd, moeten de patrijspoorten en hun blinden waterdicht worden gesloten en vergrendeld vóór de lading is ingenomen en het sluiten en vastzetten moet in het door de Administratie aangewezen logboek worden aangetekend.   
 17.  Wanneer afvalstortkokers etc., niet in gebruik zijn, moeten de krachtens voorschrift 15.10.2 vereiste deksels en kleppen gesloten en geborgd blijven.   
@@ -12315,7 +12442,7 @@ Ruimten voor machines van categorie A moeten doelmatig worden geventileerd, zoda
 
 2.6 Er moeten voorzieningen zijn voor de waterafvoer van omsloten laadruimten gelegen op het schottendek van een passagiersschip en op het vrijboorddek van een vrachtschip, met dien verstande dat de Administratie kan toestaan dat voor het aanbrengen van middelen voor waterafvoer in een bepaalde afdeling van een schip of een type schepen vrijstelling wordt verleend, indien te haren genoegen wordt aangetoond dat de veiligheid van het schip, gezien de grootte of de indeling van die ruimten, daardoor niet wordt aangetast. 
 
-2.6.1 Wanneer het vrijboord tot aan het schottendek, respectievelijk het vrijboorddek, zodanig is dat de dekrand wordt ondergedompeld wanneer het schip een helling heeft van meer dan 5 graden, moet het water worden afgevoerd door middel van een toereikend aantal spuipijpen van voldoende afmetingen die rechtstreeks overboord spuien; zij moeten zijn aangebracht in overeenstemming met de vereisten van voorschrift 15 in geval van een passagiersschip, en de voorschriften voor spuipijpen, inlaat- en afvoerpijpen van het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in geval van een vrachtschip.  
+2.6.1 Wanneer het vrijboord tot aan het schottendek, respectievelijk het vrijboorddek, zodanig is dat de dekrand wordt ondergedompeld wanneer het schip een helling heeft van meer dan 5 graden, moet het water worden afgevoerd door middel van een toereikend aantal spuipijpen van voldoende afmetingen die rechtstreeks overboord spuien; zij moeten zijn aangebracht in overeenstemming met de vereisten van voorschrift 15 in geval van een passagiersschip, en de voorschriften voor spuipijpen, inlaat- en afvoerpijpen van het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen in geval van een vrachtschip.  
 
 2.6.2 Wanneer het vrijboord zodanig is dat de rand van het schottendek, respectievelijk de rand van het vrijboorddek, wordt ondergedompeld wanneer het schip een helling heeft van 5 graden of minder, moet het water uit de omsloten laadruimten op het schottendek, respectievelijk het vrijboorddek, worden afgevoerd naar een geschikte ruimte of ruimten van voldoende capaciteit, die zijn voorzien van een waarschuwingsinstallatie voor een te hoog waterpeil, en zijn uitgerust met passende voorzieningen voor afvoer naar buitenboord. Daarnaast moet erop worden toegezien dat: 
 
@@ -12332,11 +12459,11 @@ Ruimten voor machines van categorie A moeten doelmatig worden geventileerd, zoda
 
 3.1 De krachtens paragraaf 2.1 vereiste lenspompinrichting moet kunnen functioneren onder alle omstandigheden die in de praktijk na een calamiteit kunnen voorkomen, ongeacht of het schip recht ligt dan wel slagzij maakt. Voor dit doel zullen in het algemeen zuigpijpen naar de zijden van de afdelingen moeten worden aangebracht, met uitzondering van smalle afdelingen aan het scheepseinde waar één zuigpijp voldoende kan zijn. In afdelingen van bijzondere vorm kunnen extra zuigpijpen vereist worden. Maatregelen moeten worden getroffen, waardoor water in de afdeling de weg naar de zuigpijpen kan vinden. Waar de Administratie ervan overtuigd is dat in bepaalde afdelingen een lensinrichting ongewenst zou zijn, kan zij toestaan dat deze achterwege blijft, indien door berekeningen gemaakt in overeenstemming met de voorwaarden in de voorschriften 7 en 8 wordt aangetoond dat de overlevingskans van het schip daardoor niet wordt aangetast.  
 
-3.2 Er moeten ten minste drie op de hoofdlensleiding aangesloten werktuiglijke lenspompen aanwezig zijn, van welke één door de voortstuwingswerktuigen mag worden gedreven. Wanneer het lenspompgetal 30 of groter is, moet een extra onafhankelijke werktuiglijke pomp aanwezig zijn. Het lenspompgetal moet als volgt worden berekend:   ![10000053583](http://wetten.overheid.nl/Illustration/10000053583)
+3.2 Er moeten ten minste drie op de hoofdlensleiding aangesloten werktuiglijke lenspompen aanwezig zijn, van welke één door de voortstuwingswerktuigen mag worden gedreven. Wanneer het lenspompgetal 30 of groter is, moet een extra onafhankelijke werktuiglijke pomp aanwezig zijn. Het lenspompgetal moet als volgt worden berekend:   ![]()
 waarbij:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  *L*   | =  | de lengte van het schip (meters), als omschreven in voorschrift 2;  |
 |  *M*   | =  | de inhoud van de machineruimte (kubieke meters), als omschreven in voorschrift 2, die zich onder het schottendek bevindt; vermeerderd met de inhoud van alle vaste brandstofoliebunkers die zich boven de binnenbodem en vóór of achter de machineruimte bevinden;  |
 |  *P*   | =  | de volledige inhoud van de onder het schottendek gelegen ruimten voor passagiers en bemanning (kubieke meters), die zijn aangebracht ten behoeve van de accommodatie en het gebruik door passagiers en bemanning, met uitzondering van bagageruimten, bergplaatsen, provisieruimten en postkamers;  |
@@ -12367,7 +12494,7 @@ waarbij:
 
 3.8 Alle lenszuigaansluitingen tot aan de aansluiting tot de pompen moeten gescheiden zijn van andere leidingen.  
 
-3.9 De diameter *d* van de hoofdlensleiding moet zijn berekend volgens de hierna volgende formules. De werkelijke inwendige diameter van de hoofdlensleiding mag echter worden afgerond tot de dichtstbijzijnde standaardpijpdiameter die voor de Administratie aanvaardbaar is:   ![10000053584](http://wetten.overheid.nl/Illustration/10000053584)
+3.9 De diameter *d* van de hoofdlensleiding moet zijn berekend volgens de hierna volgende formules. De werkelijke inwendige diameter van de hoofdlensleiding mag echter worden afgerond tot de dichtstbijzijnde standaardpijpdiameter die voor de Administratie aanvaardbaar is:   ![]()
 waarbij: *d* de inwendige diameter van de hoofdlensleiding is (in mm); *L* en *B* de lengte en de breedte van het schip zijn (in meters) als omschreven in voorschrift 2; en *D* de holte van het schip naar de mal tot het schottendek is (in meters), mits, op een schip dat een omsloten, zich over de gehele lengte van het schip uitstrekkende laadruimte op het schottendek heeft, waaruit het water binnenboord wordt afgevoerd in overeenstemming met de vereisten van paragraaf 2.6.2, *D* wordt gemeten tot aan het volgende dek boven het schottendek. Wanneer de omsloten laadruimten een kleinere lengte bestrijken, is *D* de holte van het schip naar de mal tot het schottendek plus *lh/L*, waarbij *1* en *h* de totale lengte en hoogte van de omsloten laadruimten (in meters) zijn. De diameter van de lenspijpaftakkingen moet voldoen aan de door de Administratie gestelde eisen.  
 
 3.10 Maatregelen moeten worden getroffen om te voorkomen dat een afdeling waarop een lenszuigpijp is aangesloten, volloopt ten gevolge van breken of beschadigen van deze pijp in een andere afdeling bij een aanvaring of bij aan de grond lopen. Hiertoe moet, wanneer een dergelijke pijp op enige plaats dichter dan een vijfde van de breedte van het schip (als omschreven in voorschrift 2 en gemeten loodrecht op hart schip ter hoogte van de diepste indelingslastlijn) van het scheepsboord of in een kokerkiel is gelegen, in de pijp binnen de afdeling welke het open eind van de pijp bevat, een terugslagklep zijn aangebracht.  
@@ -12480,7 +12607,7 @@ Tenzij uitdrukkelijk anders bepaald, is Deel D van toepassing op passagierschepe
 
 2.2. Gedurende 36 uur: 
 
-.1 aan de navigatielichten en aan andere lichten vereist ingevolge de van kracht zijnde [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md); en  
+.1 aan de navigatielichten en aan andere lichten vereist ingevolge de van kracht zijnde Internationale Bepalingen ter voorkoming van aanvaringen op zee; en  
 
 .2 op schepen die op of na 1 februari 1995 zijn gebouwd, aan de VHF-radio-installatie vereist ingevolge Voorschrift IV/7.1.1 en IV/7.1.2; en, indien van toepassing: 
 
@@ -12594,7 +12721,7 @@ Tenzij uitdrukkelijk anders bepaald, is Deel D van toepassing op passagierschepe
 
 2.3. Gedurende 18 uur: 
 
-.1 aan de navigatielichten en aan andere lichten vereist ingevolge de van kracht zijnde [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md); en  
+.1 aan de navigatielichten en aan andere lichten vereist ingevolge de van kracht zijnde Internationale Bepalingen ter voorkoming van aanvaringen op zee; en  
 
 .2 op schepen die op of na 1 februari 1995 zijn gebouwd, aan de VHF-radio-installatie vereist ingevolge Voorschrift IV/7.1.1 en IV/7.1.2; en, indien van toepassing: 
 
@@ -12847,9 +12974,50 @@ Er dient een beveiligingssysteem aanwezig te zijn om te verzekeren dat bij een e
 
 De Administratie dient bijzondere aandacht te schenken aan passagiersschepen, waar het de vraag betreft of de ruimten voor machines al dan niet periodiek zonder toezicht mogen zijn en, zo ja, of er dan aanvullende vereisten, naast die welke in deze Voorschriften zijn vervat, noodzakelijk zijn om te komen tot dezelfde mate van veiligheid als bij ruimten voor machines waarop normaal toezicht wordt uitgeoefend.  
 
+### DEEL  F  
+
+####VERVANGEND ONTWERP EN VERVANGENDE VOORZIENINGEN
+
+### Voorschrift  55  
+
+####Vervangend ontwerp en vervangende voorzieningen
+
+1.  Doel Het doel van dit voorschrift is een methode te bieden voor vervangend ontwerp en vervangende voorzieningen voor machine- en elektrische installaties.   
+2.  Algemeen 
+
+2.1 Ontwerp en voorzieningen van machine- en elektrische installaties mogen van de in de delen C, D en E vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van de desbetreffende vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.  
+
+2.2 Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van de delen C, D en E, moeten de constructieanalyse, de evaluatie en de goedkeuring van het vervangende ontwerp en de vervangende voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.     
+3.  Constructieanalyse De constructieanalyse opgesteld op basis van de door de Organisatie opgestelde richtsnoeren , moet worden voorbereid en aan de Administratie worden voorgelegd en ten minste de volgende onderdelen omvatten: <sup> 1)  Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212).  </sup> 
+
+.1 vermelding van het type schip, machine-installaties, elektrische installaties en ruimte(n) in kwestie;  
+
+.2 vermelding van het (de) dwingende vereiste(n) waaraan de machine- en elektrische installaties niet zullen voldoen;  
+
+.3 vermelding van de reden waarom het voorgestelde ontwerp niet zal voldoen aan de dwingende vereisten, onderbouwd door middel van de naleving van andere erkende constructie- of industrienormen;  
+
+.4 vermelding van de prestatiecriteria voor het schip en de betrokken machine- en elektrische installaties of ruimte(n), waarop de relevante dwingende vereisten van toepassing zijn: 
+
+.1 de prestatiecriteria moeten een veiligheidsniveau waarborgen dat niet geringer is dan de desbetreffende dwingende vereisten, vervat in de delen C, D en E; en  
+
+.2 de prestatiecriteria moeten kwantificeerbaar en meetbaar zijn;    
+
+.5 gedetailleerde beschrijving van het vervangende ontwerp en de vervangende voorzieningen, met inbegrip van een lijst van de aannames gehanteerd bij het ontwerp en eventuele voorgestelde functionele beperkingen of voorwaarden;  
+
+.6 technische onderbouwing die aantoont dat het vervangende ontwerp en de vervangende voorzieningen voldoen aan de veiligheidscriteria; en  
+
+.7 risicobeoordeling aan de hand van identificatie van de potentiële tekortkomingen en gevaren die met het voorstel samenhangen.     
+4.  Beoordeling van het vervangende ontwerp en de vervangende voorzieningen 
+
+4.1 De in paragraaf 3 vereiste constructieanalyse wordt door de Administratie beoordeeld en goedgekeurd, met inachtneming van dedoor de Organisatie opgestelde richtsnoeren . <sup> 1)  Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212).  </sup>  
+
+4.2 Aan boord van het schip moet een afschrift aanwezig zijn van de documenten, zoals goedgekeurd door de Administratie, waarin wordt vermeld dat het vervangende ontwerp en de vervangende voorzieningen aan dit voorschrift voldoen.     
+5.  Uitwisseling van informatie De Administratie doet de Organisatie relevante informatie toekomen over het door haar goedgekeurde vervangende ontwerp en vervangende voorzieningen, ter verzending aan alle Verdragsluitende Regeringen.   
+6.  Hernieuwde beoordeling als gevolg van veranderde omstandigheden Indien de aannames en functionele beperkingen vermeld in het vervangende ontwerp en de vervangende voorzieningen veranderen, moet de constructieanalyse worden uitgevoerd in de nieuwe toestand en goedgekeurd door de Administratie.   
+
 ### HOOFDSTUK  II-2  
 
-####CONSTRUCTIE – BESCHERMING TEGEN, OPSPORING EN BESTRIJDING VAN BRAND
+####CONSTRUCTIE – BEVEILIGING TEGEN, OPSPORING EN BESTRIJDING VAN BRAND
 
 ### DEEL  A  
 
@@ -13007,7 +13175,7 @@ De Administratie dient bijzondere aandacht te schenken aan passagiersschepen, wa
 
 ### Voorschrift  3  
 
-####Begripsomschrijvingen
+####Omschrijvingen
 
 Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn de volgende begripsomschrijvingen van toepassing: 
 
@@ -13022,7 +13190,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 .3 zij moeten zodanig geïsoleerd zijn met goedgekeurde onbrandbare materialen dat de gemiddelde temperatuur aan de niet-blootgestelde zijde niet meer dan 140 °C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 180 °C boven de begintemperatuur stijgt binnen de onderstaand aangegeven tijd:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |   klasse „A-60”  | 60 minuten  |
 |   klasse „A-30”  | 30 minuten  |
 |   klasse „A-15”  | 15 minuten  |
@@ -13041,7 +13209,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 .2 zij moeten een zodanig isolerend vermogen hebben dat de gemiddelde temperatuur aan de niet-blootgestelde zijde niet meer dan 140 °C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 225 °C boven de begintemperatuur stijgt binnen de onderstaand aangegeven tijd:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |   klasse „B-15”  | 15 minuten  |
 |   klasse „B-0”  | 0 minuten  |
 
@@ -13180,6 +13348,10 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 49. *Voertuigruimten*, ladingruimten bedoeld voor het vervoer van motorvoertuigen met brandstof in de tank voor eigen aandrijving.  
 
 50. *Aan weer en wind blootgesteld dek*, een dek dat volledig is blootgesteld aan weer en wind van boven en van ten minste twee zijkanten.  
+
+51. *Veilige zone bij een ongeval*, uit oogpunt van leefbaarheid, een of meerdere gedeelten die niet zijn ondergelopen of die zich buiten de verticale hoofdsectie(s) bevinden waar brand is ontstaan, zodanig dat daar alle opvarenden veilig kunnen worden ondergebracht teneinde hen tegen gevaren voor leven of gezondheid te beschermen en hun basisdiensten te bieden.  
+
+52. *Beveiligingscentrum*, een controlepost speciaal bestemd voor het beheer van noodsituaties. De bediening van beveiligingssystemen alsmede de controle en/of monitoring ervan vormen een integrerend onderdeel van het beveiligingscentrum.  
 
 53. *Hutbalkon*, een ruimte op het open dek die voorzien is voor uitsluitend gebruik door de gebruikers van een enkele hut en vanuit een dergelijke hut rechtstreeks toegankelijk is.    
 
@@ -13615,7 +13787,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 2.2 De in dit voorschrift en andere voorschriften in dit deel vereiste vast aangebrachte branddetectie-, brandalarm- en rookdetectie-installaties die luchtmonsters nemen, moeten van een goedgekeurd type zijn en voldoen aan de Code inzake brandveiligheidssystemen.  
 
-2.3 Wanneer voor de beveiliging van andere ruimten dan die welke in paragraaf 5.1 worden genoemd, een vast aangebrachte branddetectie- en brandalarminstallatie is vereist, moet in iedere dergelijke ruimte ten minste één detector zijn aangebracht die voldoet aan het bepaalde in de Code inzake brandveiligheidssystemen.    
+2.3 Wanneer voor de beveiliging van andere ruimten dan die welke in paragraaf 5.1 worden genoemd, een vast aangebrachte branddetectie- en brandalarminstallatie is vereist, moet in iedere dergelijke ruimte ten minste één detector zijn aangebracht die voldoet aan het bepaalde in de Code inzake brandveiligheidssystemen.  
+
+2.4 Een vaste brandopsporings- en alarminstallatie op passagiersschepen moet elke detector en elk met de hand bediend meldingspunt op afstand en afzonderlijk kunnen herkennen.    
 
 3 Eerste beproeving en periodieke beproevingen 
 
@@ -13643,11 +13817,11 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 5.1 Rookdetectors in ruimten voor accommodatie In alle trapgedeelten, gangen en ontsnappingsroutes binnen de ruimten voor accommodatie moeten overeenkomstig het bepaalde in de paragrafen 5.2, 5.3 en 5.4 rookdetectors worden geïnstalleerd. Er moet aandacht worden geschonken aan de installatie van speciale rookdetectors binnen de ventilatiekanalen.  
 
-5.2 Vereisten voor passagiersschepen die meer dan 36 passagiers vervoeren Er moet een vast aangebrachte branddetectie- en brandalarminstallatie van een goedgekeurd type op zodanige wijze worden aangebracht en ingesteld, dat rookdetectie mogelijk is in dienstruimten, controlestations en ruimten voor accommodatie, met inbegrip van gangen, trappen en vluchtwegen binnen ruimten voor accommodatie. Rookdetectors behoeven niet te worden aangebracht in privé-badkamers en kombuizen. In ruimten waar geen of weinig brandrisico bestaat, zoals lege ruimten, openbare toiletten, kooldioxidekamers en soortgelijke ruimten, behoeven geen branddetectie- en brandalarminstallaties te worden aangebracht.  
+5.2 Vereisten voor passagiersschepen die meer dan 36 passagiers vervoeren Er moet een vast aangebrachte branddetectie- en brandalarminstallatie van een goedgekeurd type op zodanige wijze worden aangebracht en ingesteld, dat rookdetectie mogelijk is in dienstruimten, controlestations en ruimten voor accommodatie, met inbegrip van gangen, trappen en vluchtwegen binnen ruimten voor accommodatie. Rookdetectors behoeven niet te worden aangebracht in privé-badkamers en kombuizen. In ruimten waar geen of weinig brandrisico bestaat, zoals lege ruimten, openbare toiletten, kooldioxidekamers en soortgelijke ruimten, behoeven geen branddetectie- en brandalarminstallaties te worden aangebracht. In hutten aangebrachte detectoren moeten, wanneer deze zijn geactiveerd, tevens een hoorbaar waarschuwingssignaal kunnen afgeven of doen afgeven, dat hoorbaar is in de ruimte waar ze zijn aangebracht.  
 
 5.3 Vereisten voor passagiersschepen die niet meer dan 36 passagiers vervoeren In iedere afzonderlijke verticale of horizontale sectie, in alle ruimten voor accommodatie en dienstruimten en, indien zulks door de Administratie noodzakelijk wordt geacht, moet in controlestations, met uitzondering van ruimten die vrijwel geen brandgevaar opleveren (zoals lege ruimten, sanitaire ruimten enz.), hetzij: 
 
-.1 een vast aangebrachte branddetectie- en brandalarminstallatie worden geïnstalleerd en ingesteld, zodanig dat de aanwezigheid van brand in dergelijke ruimten wordt gedetecteerd en dat rook kan worden gedetecteerd in gangen en op trapgedeelten en ontsnappingsroutes binnen ruimten voor accommodatie; of  
+.1 een vast aangebrachte branddetectie- en brandalarminstallatie worden geïnstalleerd en ingesteld, zodanig dat de aanwezigheid van brand in dergelijke ruimten wordt gedetecteerd en dat rook kan worden gedetecteerd in gangen en op trapgedeelten en ontsnappingsroutes binnen ruimten voor accommodatie. In hutten aangebrachte detectoren moeten, wanneer deze zijn geactiveerd, tevens een hoorbaar waarschuwingssignaal kunnen afgeven of doen afgeven, dat hoorbaar is in de ruimte waar ze zijn aangebracht; of  
 
 .2 een automatische sprinkler-, branddetectie- en brandalarminstallatie van een goedgekeurd type die voldoet aan de desbetreffende vereisten van de Code inzake brandveiligheidssystemen worden geïnstalleerd en ingesteld, zodanig dat dergelijke ruimten worden beveiligd en, daarnaast, een vast aangebrachte branddetectie- en brandalarminstallatie die zodanig wordt geïnstalleerd en ingesteld dat rook kan worden gedetecteerd in gangen en op trapgedeelten en ontsnappingsroutes binnen ruimten voor accommodatie.    
 
@@ -13691,7 +13865,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 1 Doel Het doel van dit voorschrift is de verspreiding van rook te beheersen teneinde de door rook gevormde gevaren tot een minimum te beperken. Hiertoe moet worden voorzien in middelen voor de beheersing van rook in atriums, controlestations, machineruimten en verborgen ruimten.  
 
-2 Beveiliging van controlestations die buiten machineruimten zijn gelegen Er moeten praktisch uitvoerbare maatregelen worden getroffen om te bereiken dat in controlestations die buiten machineruimten zijn gelegen, ventilatie, zicht en afwezigheid van rook worden gehandhaafd, zodat in geval van brand de werktuigen en toestellen daarin kunnen worden gecontroleerd en op deugdelijke wijze blijven werken. Een extra gescheiden systeem van luchttoevoer moet zijn aangebracht en de inlaatopeningen van beide systemen van luchttoevoer moeten zo zijn gelegen, dat het gevaar dat zij gelijktijdig rook aanzuigen tot een minimum beperkt blijft. Naar goeddunken van de Administratie behoeven dergelijke eisen niet te worden gesteld aan controlestations, gelegen op en uitgang verlenend naar een open dek, of daar waar plaatselijke afsluitmiddelen even doeltreffend zouden zijn.  
+2 Beveiliging van controlestations die buiten machineruimten zijn gelegen Er moeten praktisch uitvoerbare maatregelen worden getroffen om te bereiken dat in controlestations die buiten machineruimten zijn gelegen, ventilatie, zicht en afwezigheid van rook worden gehandhaafd, zodat in geval van brand de werktuigen en toestellen daarin kunnen worden gecontroleerd en op deugdelijke wijze blijven werken. Een extra gescheiden systeem van luchttoevoer moet zijn aangebracht en de inlaatopeningen van beide systemen van luchttoevoer moeten zo zijn gelegen, dat het gevaar dat zij gelijktijdig rook aanzuigen tot een minimum beperkt blijft. Naar goeddunken van de Administratie behoeven dergelijke eisen niet te worden gesteld aan controlestations, gelegen op en uitgang verlenend naar een open dek, of daar waar plaatselijke afsluitmiddelen even doeltreffend zouden zijn. Het ventilatiesysteem van de beveiligingscentra mag worden afgetakt van het ventilatiesysteem van de brug, tenzij het zich in een aangrenzende verticale hoofdsectie bevindt.  
 
 3. Afvoer van rook uit machineruimten 
 
@@ -13823,7 +13997,7 @@ Ruimten voor algemeen gebruik met meubilair en stoffering die in beperkte mate b
 
 Afzonderlijke bergkasten en kleine bergplaatsen in ruimten voor accommodatie met een oppervlakte van minder dan 4 m <sup>2</sup> (waarin geen ontvlambare vloeistoffen zijn opgeslagen).  
 
-Boordwinkels. Ruimten voor filmprojectie en -opslag. Dieetkeukens (waar geen open vuur is).  
+Ruimten voor filmprojectie en -opslag. Dieetkeukens (waar geen open vuur is).  
 
 Bergkasten voor schoonmaakgereedschappen (waarin geen ontvlambare vloeistoffen zijn opgeslagen).  
 
@@ -13844,6 +14018,8 @@ Ruimten voor algemeen gebruik met meubilair en stoffering die in meer dan beperk
 Kapsalons en schoonheidssalons.  
 
 Sauna’s.  
+
+Boordwinkels.  
 
 (9) Sanitaire en soortgelijke ruimten  
 
@@ -13950,7 +14126,7 @@ Laboratoria (waar ontvlambare vloeistoffen zijn opgeslagen);
 .5 Ten aanzien van de ruimten van categorie (5) bepaalt de Administratie of de waarden van het isolerend vermogen van tabel 9.1 van toepassing zullen zijn op de eindschotten van dekhuizen en bovenbouwen en of de waarden van het isolerend vermogen van tabel 9.2 van toepassing zullen zijn op aan weer en wind blootgestelde dekken. In geen geval zullen de eisen voor categorie (5) in de tabellen 9.1 of 9.2 noodzaken tot het afsluiten van ruimten die naar de mening van de Administratie niet behoeven te worden afgesloten.   Tabel 9.1 – Schotten die geen verticale hoofdsecties of horizontale secties begrenzen  
 
 | Ruimten  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  | (12)  | (13)  | (14)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | B-0 <sup>a</sup>  | A-0  | A-0  | A-0  | A-0  | A-60  | A-60  | A-60  | A-0  | A-0  | A-60  | A-60  | A-60  | A-60  |
 | Trappen (2)  | --- | A-0 <sup>a</sup>  | A-0  | A-0  | A-0  | A-0  | A-15  | A-15  | A-0 <sup>c</sup>  | A-0  | A-15  | A-30  | A-15  | A-30  |
 | Gangen (3)  | --- | --- | B-15  | A-60  | A-0  | B-15  | B-15  | B-15  | B-15  | A-0  | A-15  | A-30  | A-0  | A-30  |
@@ -13969,7 +14145,7 @@ Laboratoria (waar ontvlambare vloeistoffen zijn opgeslagen);
 Zie noten onder tabel 9.2  *Tabel 9.2 Dekken die verticale hoofdsecties niet trapsgewijs doen verspringen of die geen horizontale secties begrenzen.*   
 
 | Ruimte onder ↓ Ruimte boven→  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  | (12)  | (13)  | (14)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-30  | A-30  | A-15  | A-0  | A-0  | A-0  | A-15  | A-30  | A-0  | A-0  | A-0  | A-60  | A-0  | A-60  |
 | Trappen (2)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-0  | A-30  | A-0  | A-30  |
 | Gangen (3)  | A-15  | A-0  | A-0 <sup>a</sup>  | A-60  | A-0  | A-0  | A-15  | A-15  | A-0  | A-0  | A-0  | A-30  | A-0  | A-30  |
@@ -14080,7 +14256,7 @@ Ruimten zoals omschreven in de voorschriften 3.41 en 3.46;
 2.2.4.5 Sauna’s moeten voldoen aan de vereisten van paragraaf 2.2.3.4.  *Tabel 9.3 Brandwerendheid van schotten die aan elkaar grenzende ruimten scheiden*   
 
 | Ruimten  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-0 <sup>c</sup>  | A-0  | A-60  | A-0  | A-15  | A-60  | A-15  | A-60  | A-60  | *  | A-60  |
 | Gangen (2)  | --- | C <sup>e</sup>  | B-0 <sup>e</sup>  | A-0 <sup>a</sup> B-0e  | B-0 <sup>e</sup>  | A-60  | A-0  | A-0  | A-15A-0d  | *  | A-15  |
 | Ruimten voor accommodatie (3)  | --- | --- | Ce  | A-0 <sup>a</sup> B-0 <sup>e</sup>  | B-0 <sup>e</sup>  | A-60  | A-0  | A-0  | A-15A-0d  | *  | A-30  A-0d  |
@@ -14096,7 +14272,7 @@ Ruimten zoals omschreven in de voorschriften 3.41 en 3.46;
 Zie noten onder tabel 9.4.  *Tabel 9.4 Brandwerendheid van dekken die aan elkaar grenzende ruimten scheiden*   
 
 | Ruimteonder      Ruimte boven  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
 | Gangen (2)  | A-0  | *  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-0  |
 | Ruimten voor accommodatie (3)  | A-60  | A-0  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-30 A-0d  |
@@ -14109,7 +14285,7 @@ Zie noten onder tabel 9.4.  *Tabel 9.4 Brandwerendheid van dekken die aan elkaar
 | Open dekken (10)  | *  | *  | *  | *  | *  | *  | *  | *  | *  | –  | A-0  |
 | Ruimten van bijzondere aard en ro-ro-ruimten (11)  | A-60  | A-15  | A-30  A-0d  | A-15  | A-0  | A-30  | A-0  | A-0  | A-30  | A-0  | A-0  |
 
-*Noten:* Toe te passen op zowel de tabel 9.3 als 9.4, al naar gelang. a Ter verduidelijking van hetgeen van toepassing is, zie de paragrafen 2.2.2 en 2.2.5. b. Wanneer ruimten in dezelfde nummercategorie vallen en zijn voorzien van de letter b, is een schot of een dek van de classificaties vermeld in de tabellen uitsluitend vereist wanneer de aan elkaar grenzende ruimten ieder voor een ander doel zijn bestemd (zoals in categorie (9)). Wanneer twee kombuizen aan elkaar grenzen, worden aan het tussenschot geen eisen gesteld, maar wanneer een kombuis grenst aan een verfhut, is een schot van klasse „A-0” vereist. c. Schotten die het stuurhuis en de kaartenkamer van elkaar scheiden, mogen vallen in klasse „B-0”. d. Zie de paragrafen 2.2.4.2.3 en 2.2.4.2.4. e. Voor de toepassing van paragraaf 2.2.1.1.2, moeten „B-0” en „C”, waar voorkomend in tabel 9.3, worden gelezen als „A-O”. f. Er behoeft geen brandisolatie te worden aangebracht indien de machineruimte vallend onder categorie (7) naar het oordeel van de Administratie weinig of in het geheel niet brandgevaarlijk is. * Waar in de tabellen een sterretje staat, moet het scheidingsschot of -dek zijn vervaardigd van staal of ander gelijkwaardig materiaal, maar behoeft het niet te voldoen aan de norm voor klasse „A”. Wanneer een dek evenwel wordt doorboord voor het doorvoeren van elektrische kabels, pijpen en ventilatiekanalen, moeten deze doorboringen, behoudens in een ruimte van categorie (10), vlam- en rookdicht worden gemaakt. Schotten tussen controlekamers (noodgeneratoren) en open dekken mogen luchtinlaatopeningen hebben zonder voorziening om deze te sluiten, tenzij een vaste brandblusinstallatie met verstikkend gas is aangebracht. {nieuw} Voor de toepassing van paragraaf 2.2.1.1.2, moet een sterretje, wanneer dit voorkomt in tabel 9.4, behalve voor de categorieën (8) en (10), worden gelezen als „A-0”.    
+*Noten:* Toe te passen op zowel de tabel 9.3 als 9.4, al naar gelang. a Ter verduidelijking van hetgeen van toepassing is, zie de paragrafen 2.2.2 en 2.2.5. b. Wanneer ruimten in dezelfde nummercategorie vallen en zijn voorzien van de letter b, is een schot of een dek van de classificaties vermeld in de tabellen uitsluitend vereist wanneer de aan elkaar grenzende ruimten ieder voor een ander doel zijn bestemd (zoals in categorie (9)). Wanneer twee kombuizen aan elkaar grenzen, worden aan het tussenschot geen eisen gesteld, maar wanneer een kombuis grenst aan een verfhut, is een schot van klasse „A-0” vereist. c. Schotten die het stuurhuis en de kaartenkamer van elkaar scheiden, mogen vallen in klasse „B-0”. Voor scheidingswanden die de brug en het beveiligingscentrum scheiden is geen brandwerendheidsklasse vereist wanneer het beveiligingscentrum zich op de brug bevindt. d. Zie de paragrafen 2.2.4.2.3 en 2.2.4.2.4. e. Voor de toepassing van paragraaf 2.2.1.1.2, moeten „B-0” en „C”, waar voorkomend in tabel 9.3, worden gelezen als „A-O”. f. Er behoeft geen brandisolatie te worden aangebracht indien de machineruimte vallend onder categorie (7) naar het oordeel van de Administratie weinig of in het geheel niet brandgevaarlijk is. * Waar in de tabellen een sterretje staat, moet het scheidingsschot of -dek zijn vervaardigd van staal of ander gelijkwaardig materiaal, maar behoeft het niet te voldoen aan de norm voor klasse „A”. Wanneer een dek evenwel wordt doorboord voor het doorvoeren van elektrische kabels, pijpen en ventilatiekanalen, moeten deze doorboringen, behoudens in een ruimte van categorie (10), vlam- en rookdicht worden gemaakt. Schotten tussen controlekamers (noodgeneratoren) en open dekken mogen luchtinlaatopeningen hebben zonder voorziening om deze te sluiten, tenzij een vaste brandblusinstallatie met verstikkend gas is aangebracht. {nieuw} Voor de toepassing van paragraaf 2.2.1.1.2, moet een sterretje, wanneer dit voorkomt in tabel 9.4, behalve voor de categorieën (8) en (10), worden gelezen als „A-0”.    
 
 2.2.5 Beveiliging van trappen en liften in ruimten voor accommodatie 
 
@@ -14121,7 +14297,13 @@ Zie noten onder tabel 9.4.  *Tabel 9.4 Brandwerendheid van dekken die aan elkaar
 
 2.2.5.2 Liftschachten moeten zodanig zijn aangebracht dat zij het doordringen van rook en vlammen van het ene dek naar het andere beletten. Zij moeten zijn voorzien van afsluitmiddelen waarmee de trek en de rookverspreiding onder controle kunnen worden gehouden. Machines voor liften die zich binnen ingesloten trapruimten bevinden moeten in een aparte ruimte worden ondergebracht, omgeven door stalen scheidingswanden, met dien verstande dat smalle doorgangen voor liftkabels zijn toegestaan. Liften die uitkomen op ruimten anders dan gangen, ruimten bestemd voor algemeen gebruik, ruimten van bijzondere aard, trappen en externe ruimten, mogen niet uitkomen op trappen die onderdeel van een vluchtroute vormen.    
 
-2.2.6  *Inrichting van hutbalkons*  Op passagiersschepen gebouwd op of na 1 juli 2008 moeten niet-lastdragende gedeeltelijke schotten die aangrenzende hutbalkons scheiden, ten behoeve van brandbestrijding door de bemanning van beide zijden kunnen worden geopend.    
+2.2.6  *Inrichting van hutbalkons*  Op passagiersschepen gebouwd op of na 1 juli 2008 moeten niet-lastdragende gedeeltelijke schotten die aangrenzende hutbalkons scheiden, ten behoeve van brandbestrijding door de bemanning van beide zijden kunnen worden geopend.  
+
+2.2.7 Beveiliging van atriums 
+
+2.2.7.1 Atriums moeten omgeven zijn door schotten van klasse „A”, met een brandwerendheidsklasse vastgesteld in overeenstemming met de tabellen 9.2 en 9.4, naar gelang welke van toepassing is.  
+
+2.2.7.2 Dekken die ruimten binnen atriums scheiden moeten een brandwerendheidsklasse hebben, vastgesteld in overeenstemming met de tabellen 9.2 en 9.4, naar gelang welke van toepassing is.      
 
 2.3 Vrachtschepen, met uitzondering van tankschepen 
 
@@ -14218,7 +14400,7 @@ Ro-ro-ruimten als omschreven in voorschrift 3.41.
 Voertuigruimten als omschreven in voorschrift 3.49.      *Tabel 9.5 Brandwerendheid van schotten die aan elkaar grenzende ruimten scheiden*   
 
 | Ruimten  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-0 <sup>e</sup>  | A-0  | A-60  | A-0  | A-15  | A-60  | A-15  | A-60  | A-60  | *  | A-60  |
 | Gangen (2)  | --- | C  | B-0  | B-0 A-0 <sup>c</sup>  | B-0  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
 | Ruimten voor accommodatie (3)  | --- | --- | C <sup>a, b</sup>  | B-0 A-0 <sup>c</sup>  | B-0  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
@@ -14234,7 +14416,7 @@ Voertuigruimten als omschreven in voorschrift 3.49.      *Tabel 9.5 Brandwerendh
 Zie noten onder tabel 9.6.  *Tabel 9.6 Brandwerendheid van dekken die aan elkaar grenzende ruimten scheiden*   
 
 | Ruimte ↓onder     Ruimte → boven  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  | (11)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-60  | A-0  | A-0  | A-0  | *  | A-60  |
 | Gangen (2)  | A-0  | *  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
 | Ruimten voor accommodatie (3)  | A-60  | A-0  | *  | A-0  | *  | A-60  | A-0  | A-0  | A-0  | *  | A-30  |
@@ -14342,7 +14524,7 @@ Luchtruimten (de ruimte buiten de bovenbouw en de dekhuizen).
 2.4.2.7 De constructie en inrichting van sauna’s moet voldoen aan paragraaf 2.2.3.4.  *Tabel 9.7 – Brandwerendheid van schotten die aan elkaar grenzende ruimten scheiden*   
 
 | Ruimten  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-0 <sup>c</sup>  | A-0  | A-60  | A-0  | A-15  | A-60  | A-15  | A-60  | A-60  | *  |
 | Gangen (2)  | --- | C  | B-0  | B-0  A-0 <sup>a</sup>  | B-0  | A-60  | A-0  | A-60  | A-0  | *  |
 | Ruimten voor accommodatie (3)  | --- | --- | C  | B-0  A-0 <sup>a</sup>  | B-0  | A-60  | A-0  | A-60  | A-0  | *  |
@@ -14357,7 +14539,7 @@ Luchtruimten (de ruimte buiten de bovenbouw en de dekhuizen).
 Zie noten onder tabel 9.8.  *Tabel 9.8 Brandwerendheid van dekken die aan elkaar grenzende ruimten scheiden*   
 
 | Ruimte ↓onder     Ruimte → boven  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | (8)  | (9)  | (10)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Controlestations (1)  | A-0  | A-0  | A-0  | A-0  | A-0  | A-60  | A-0  | –  | A-0  | *  |
 | Gangen (2)  | A-0  | *  | *  | A-0  | *  | A-60  | A-0  | –  | A-0  | *  |
 | Ruimten voor accommodatie (3)  | A-60  | A-0  | *  | A-0  | *  | A-60  | A-0  | –  | A-0  | *  |
@@ -14603,7 +14785,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 7.5 Uitlaatkanalen van kooktoestellen in de kombuis 
 
-7.5.1 Vereisten voor passagiersschepen die meer dan 36 passagiers vervoeren Afvoerkanalen van kooktoestellen in kombuizen moeten voldoen aan de vereisten van de paragrafen 7.2.1.2.1 en 7.2.1.2.2 en moeten worden uitgerust met: 
+7.5.1.1 Vereisten voor passagiersschepen die meer dan 36 passagiers vervoeren Afvoerkanalen van kooktoestellen in kombuizen moeten voldoen aan de vereisten van de paragrafen 7.2.1.2.1 en 7.2.1.2.2 en moeten worden uitgerust met: 
 
 .1 een vetvanger die gemakkelijk kan worden verwijderd voor schoonmaakdoeleinden, tenzij er een ander goedgekeurd vetverwijderingssysteem is aangebracht;  
 
@@ -14615,6 +14797,8 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 .5 op geschikte plaatsen aangebrachte luiken voor inspectie en reiniging.    
 
+7.5.1.2 Uitlaatkanalen van kooktoestellen op open dekken moeten voldoen aan paragraaf 7.5.1.1, naar gelang welke van toepassing is, wanneer deze lopen door accommodatieruimten of ruimten met brandbare materialen.   
+
 7.5.2 Vereisten voor vrachtschepen en passagiersschepen die niet meer dan 36 passagiers vervoeren 
 
 7.5.2.1 Indien afvoerkanalen van kooktoestellen in kombuizen door ruimten voor accommodatie of ruimten met brandbare materialen lopen, moeten zij zijn vervaardigd als schotten van klasse „A”. Elk afvoerkanaal moet zijn uitgerust met: 
@@ -14625,7 +14809,17 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 .3 een inrichting voor het stoppen van de afzuigventilatoren, die vanuit de kombuis kan worden bediend; en  
 
-.4 een vast aangebrachte inrichting om een brand in het kanaal te blussen.            
+.4 een vast aangebrachte inrichting om een brand in het kanaal te blussen.        
+
+7.6 Ventilatiesystemen voor grote wasserijen op schepen die meer dan 36 passagiers vervoeren De afvoerkanalen van grote wasserijen moeten zijn uitgerust met: 
+
+.1 filters die gemakkelijk kunnen worden verwijderd voor reiniging;  
+
+.2 een brandklep in het lager gelegen uiteinde van het kanaal die automatisch en op afstand wordt bediend;  
+
+.3 voorzieningen voor het binnen de ruimte zelf op afstand stopzetten van de afzuigventilatoren en toevoerventilatoren en voor bediening van de brandkleppen bedoeld in paragraaf 7.6.2; en  
+
+.4 op geschikte plaatsen aangebrachte luiken voor inspectie en reiniging.        
 
 ### Voorschrift  10  
 
@@ -14704,14 +14898,14 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 .1 op passagiersschepen:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | met een brutotonnage van 4000 ton en meer:  | ten minste drie  |
 | met een brutotonnage van minder dan 4000 ton:  | ten minste twee  |
 
 .2 op vrachtschepen:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | met een brutotonnage van 1000 ton en meer:  | ten minste twee  |
 | met een brutotonnage van minder dan 1000 ton:  | ten minste twee door een motor aangedreven pompen, waarvan er één onafhankelijk moet worden aangedreven.  |
 
@@ -14905,7 +15099,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 .4 een systeem dat een gelijkwaardige beveiliging biedt, als vastgesteld door de Administratie.   In alle gevallen moet de installatie kunnen worden bediend vanaf de buitenzijde van de beveiligde ruimte. 6.3.2 Bergkasten voor ontvlambare vloeistoffen moeten worden beveiligd door een door de Administratie goedgekeurde brandblusvoorziening. 6.3.3 Voor bergkasten op een dekgedeelte van minder dan 4 m <sup>2</sup>, dat geen toegang geeft tot ruimten voor accommodatie, mag een draagbaar kooldioxidebrandblusapparaat dat een volume aan vrij gas levert dat ten minste gelijk is aan 40% van de bruto-inhoud van de ruimte, worden geaccepteerd. In de bergkast moet een ontladingsopening worden aangebracht zodat het blusapparaat kan worden ontladen zonder dat de beveiligde ruimte behoeft te worden betreden. Het vereiste draagbare brandblusapparaat moet naast de opening worden geplaatst. Als alternatief mag een opening of slangkoppeling worden aangebracht om het gebruik van water uit de hoofdbrandblusleiding te vergemakkelijken.    
 
-6.4 Frituurtoestellen Frituurtoestellen moeten zijn voorzien van: 
+6.4 Frituurtoestellen Frituurtoestellen in ingesloten ruimten of op open dekken moeten zijn voorzien van: 
 
 .1 een automatische of met de hand bediende brandblusinstallatie die conform een door de Organisatie aanvaardbare internationale norm is beproefd; <sup> *  Zie de door de Internationale Organisatie voor Normalisatie gepubliceerde aanbevelingen, in het bijzonder de publicatie ISO 15371: 2000 – Brandblusinstallaties voor de beveiliging van frituurtoestellen in kombuizen.  </sup>  
 
@@ -15109,7 +15303,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 3.2.2 Ontsnapping vanuit ruimten boven het schottendek Boven het schottendek moet elke verticale hoofdsectie of soortgelijke besloten ruimte of groep van ruimten ten minste twee voorzieningen voor ontsnapping bezitten, waarvan ten minste één toegang moet geven tot een trap naar boven.  
 
-3.2.3 Rechtstreekse toegang tot ingesloten trapruimten Ingesloten trapruimten in ruimten voor accommodatie en dienstruimten moeten rechtstreeks toegankelijk zijn vanuit de gangen; deze ruimten moeten voldoende oppervlakte hebben om opstopping te voorkomen, waarbij rekening moet worden gehouden met het aantal personen dat in geval van nood daarvan gebruik zal moeten maken. Binnen de omtrek van deze ingesloten trapruimten zijn alleen openbare toiletten, kasten van niet-brandbaar materiaal waarin veiligheidsmaterialen kunnen worden opgeslagen en open informatiebalies toegestaan. Alleen openbare ruimten, gangen, liften, openbare toiletten, ruimten van bijzondere aard, open ro-ro-ruimten waartoe vervoerde passagiers zich toegang kunnen verschaffen, andere trappen voor ontsnapping vereist ingevolge 3.2.4.1 en externe ruimten mogen rechtstreeks toegang tot deze ingesloten trapruimten bieden. Kleine gangen of „portalen” die worden gebruikt om een ingesloten trapruimte te scheiden van kombuizen of van grote wasserijen mogen rechtstreekse toegang tot de trap hebben, mits deze een dekoppervlakte hebben van ten minste 4,5 m2, een breedte van ten minste 900 mm en van een brandslangstation zijn voorzien.  
+3.2.3 Rechtstreekse toegang tot ingesloten trapruimten Ingesloten trapruimten in ruimten voor accommodatie en dienstruimten moeten rechtstreeks toegankelijk zijn vanuit de gangen; deze ruimten moeten voldoende oppervlakte hebben om opstopping te voorkomen, waarbij rekening moet worden gehouden met het aantal personen dat in geval van nood daarvan gebruik zal moeten maken. Binnen de omtrek van deze ingesloten trapruimten zijn alleen openbare toiletten, kasten van niet-brandbaar materiaal waarin veiligheidsmaterialen kunnen worden opgeslagen en open informatiebalies toegestaan. Alleen gangen, liften, openbare toiletten, ruimten van bijzondere aard, open ro-ro-ruimten waartoe vervoerde passagiers zich toegang kunnen verschaffen, andere trappen voor ontsnapping vereist ingevolge 3.2.4.1 en externe ruimten mogen rechtstreeks toegang tot deze ingesloten trapruimten bieden. Openbare ruimten mogen ook rechtstreeks toegang tot ingesloten trapruimten hebben, met uitzondering van de ruimte achter het podium in theaters. Kleine gangen of „portalen” die worden gebruikt om een ingesloten trapruimte te scheiden van kombuizen of van grote wasserijen mogen rechtstreekse toegang tot de trap hebben, mits deze een dekoppervlakte hebben van ten minste 4,5 m <sup>2</sup>, een breedte van ten minste 900 mm en van een brandslangstation zijn voorzien.  
 
 3.2.4 Voorzieningen voor ontsnapping – nadere bepalingen 
 
@@ -15127,7 +15321,9 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 3.2.5.1 Naast de ingevolge de voorschriften II-1/42 en III/11.5 vereiste noodverlichting moeten de voorzieningen voor ontsnapping, met inbegrip van trappen en uitgangen, zijn aangegeven door middel van verlichte wegwijzers of strips met fotoluminescentie die ten hoogste 300 mm boven het dek zijn geplaatst op alle punten van de vluchtweg met inbegrip van hoeken en kruisingen. De bewegwijzering moet de passagiers in staat stellen de vluchtwegen te volgen en de nooduitgangen gemakkelijk te herkennen. Indien gebruik wordt gemaakt van elektrische verlichting, moet de elektriciteit worden geleverd door de noodstroomvoorziening, en moet de verlichting zodanig zijn geïnstalleerd dat het uitvallen van één lamp of een scheur in een verlichte strip niet de gehele bewegwijzering buiten werking stelt. Daarnaast moeten de bordjes waarop de vluchtweg en de bergplaats van brandweeruitrustingen staan aangegeven, van materiaal met fotoluminescentie zijn of door verlichting zijn aangegeven. De Administratie moet erop toezien dat dit verlichtings- of fotoluminescentiemateriaal is uitgevoerd, getest en toegepast in overeenstemming met de Code inzake brandveiligheidssystemen.  
 
-3.2.5.2 Aan boord van passagiersschepen die meer dan 36 passagiers vervoeren, zijn de vereisten van voorschrift 3.2.5.1 ook van toepassing op de ruimten voor accommodatie voor de bemanning.    
+3.2.5.2 Aan boord van passagiersschepen die meer dan 36 passagiers vervoeren, zijn de vereisten van voorschrift 3.2.5.1 ook van toepassing op de ruimten voor accommodatie voor de bemanning.  
+
+3.2.5.3 In plaats van het in paragraaf 3.2.5.1 vereiste systeem voor de verlichting van ontsnappingsroutes, kunnen vervangende bewegwijzeringssystemen voor vluchtwegen worden aanvaard, mits deze door de Administratie zijn goedgekeurd aan de hand van de door de Organisatie opgestelderichtsnoeren . <sup> 2)  Zie de Functievereisten en prestatienormen voor de beoordeling van bewegwijzeringssystemen voor vluchtroutes (MSC/Circ.1167) en de Interimrichtsnoeren voor beproeving, goedkeuring en onderhoud van bewegwijzeringssystemen voor vluchtwegen als alternatief voor laag aangebrachte noodverlichtingssystemen (MSC/Circ.1168).  </sup>    
 
 3.2.6 Normaliter gesloten deuren die onderdeel uitmaken van een ontsnappingsroute 
 
@@ -15532,7 +15728,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 .3 een geschikte schuiminstallatie bestaande uit monitorkoppen of schuim genererende vertakkingspijpen die schuim kunnen verspreiden over alle gedeelten van het helidek bij alle weersomstandigheden waaronder helikopteractiviteiten kunnen plaatsvinden. De installatie moet in staat zijn gedurende ten minste vijf minuten het in tabel 18.1 vereiste ontladingsdebiet vol te houden;  *Tabel 18 – Schuimontladingsdebiet*   
 
 | Categorie  | Totale lengte van de helikopter  | Ontladingsdebiet van de schuimoplossing (l/min)  |
-|:---|:---|:---|
+|---|---|---|
 | H1  H2  H3  | tot 15 m  van 15 m tot 24 m  van 24 m tot 35 m  | 250  500  800  |
 
 .4 het belangrijkste blusmiddel moet geschikt zijn voor gebruik met zout water en voldoen aan uitvoeringsnormen die niet lager mogen zijn dan die welke voor de Administratie aanvaardbaar zijn;  
@@ -15704,7 +15900,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 4 Verklaring dat wordt voldaan aan de eisen De Administratie moet het schip voorzien van een officieel document waaruit blijkt dat de constructie en de uitrusting voldoen aan de in dit voorschrift vervatte eisen. Certificering voor gevaarlijke stoffen, behoudens vaste gevaarlijke stoffen in bulk, is niet vereist voor lading van klasse 6.2 en 7, en gevaarlijke stoffen in kleine hoeveelheden en vrijgestelde hoeveelheden.  *Tabel 19.1 – Toepassing van de eisen op de verschillende methoden van vervoer van gevaarlijke stoffen op schepen en in laadruimten*  **Waar in tabel 19.1 een „X” staat aangegeven betekent dit dat deze eis geldt voor alle klassen gevaarlijke stoffen als vermeld in de desbetreffende kolom van tabel 19.3, behoudens de vermelding in de noten.  
 
 | Voorschrift 19.2.2  |--- | .1  | .2  | .3  | .4  | .5  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | Voorschrift 19  | Aan weer en wind blootgestelde dekken 1 tot en met 5  | Niet speciaal ontworpen  | Laadruimten voor containers  | Gesloten ro-ro-ruimten <sup>5</sup>  | Open ro-ro-laadruimten  | Vaste gevaarlijke stoffen in bulk  | Aan boord vervoerde lichters  |
 | 3.1.1  | X  | X  | X  | X  | X  | Voor de toepassing van de in voorschrift 19 gestelde eisen op verschillende klassen gevaarlijke stoffen zie tabel 19.2  | X  |
 | 3.1.2  | X  | X  | X  | X  | X  | –  |
@@ -15726,7 +15922,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 Noten <sup>1)</sup> Voor vaste lading uit klassen 4 en 5.1 niet van toepassing op gesloten vrachtcontainers. Voor klassen 2, 3, 6.1 en 8 kan de ventilatiecapaciteit, wanneer de stoffen in gesloten vrachtcontainers worden vervoerd, worden verminderd tot niet minder dan twee luchtwisselingen per uur. Voor vloeistoffen uit klassen 4 en 5.1 kan de ventilatiecapaciteit, wanneer de stoffen in gesloten vrachtcontainers worden vervoerd, worden verminderd tot niet minder dan twee luchtwisselingen per uur. Voor de toepassing van deze eis wordt een losse tank als gesloten vrachtcontainer beschouwd. <sup>2</sup> Uitsluitend van toepassing op dekken. <sup>3</sup> Uitsluitend van toepassing op gesloten ro-ro-ruimten die niet kunnen worden afgedicht. <sup>4</sup> In het speciale geval waarin de lichters ontvlambare dampen kunnen bevatten, of indien door middel van aan de lichters verbonden ventilatiekanalen ontvlambare dampen kunnen worden afgevoerd naar een veilige ruimte buiten de ruimte waarin de lichters worden vervoerd, kan ten genoegen van de Administratie verlichting of vrijstelling van deze eisen worden verleend. <sup>5</sup> Ruimten van bijzondere aard moeten worden behandeld als gesloten ro-ro-ruimten indien gevaarlijke stoffen worden vervoerd.  *Tabel 19.2 - Toepassing van de eisen op verschillende klassen gevaarlijke stoffen voor schepen en laadruimten waarin vaste gevaarlijke stoffen in bulk worden vervoerd*   
 
 | Klasse  | 4.1  | 4.2  | 4.3 <sup>6</sup>  | 5.1  | 6.1  | 8  | 9  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | Voorschrift 19  | --- | --- | --- | --- | --- | --- | --- |
 | 3.1.1  | X  | X  | -  | X  | -  | -  | X  |
 | 3.1.2  | X  | X  | -  | X  | -  | -  | X  |
@@ -15737,7 +15933,7 @@ Noten <sup>1)</sup> Voor vaste lading uit klassen 4 en 5.1 niet van toepassing o
 | 3.6  | X  | X  | X  | X  | X  | X  | X  |
 | 3.8  | X  | X  | X  | X <sup>7</sup>  | -  | -  | X <sup>10</sup>  |
 
-Noten: <sup>6</sup> De gevaren van eventueel in bulk te vervoeren stoffen van deze klasse zijn zodanig dat de Administratie niet alleen aan de naleving van de in deze tabel opgesomde vereisten, maar ook aan de bouw en de uitrusting van het betrokken schip bijzondere aandacht moet schenken. <sup>7</sup> Alleen van toepassing op voederkoek die extracten van oplosmiddelen bevat, op ammoniumnitraat en op ammoniumnitraat-houdende kunstmest. <sup>8</sup> Alleen van toepassing op ammoniumnitraat en ammoniumnitraat-houdende kunstmest. Een mate van beveiliging overeenkomstig de normen als vervat in Publicatie 60079 van de Internationale Elektrotechnische Commissie: Elektrische apparatuur voor explosieve gasatmosferen, volstaat echter. <sup>9</sup> Alleen geschikte gaaswanden zijn vereist. <sup>10</sup> De eisen van de Internationale maritieme code voor het vervoer van vaste lading in bulk (IMSBC-Code) zoals gewijzigd, volstaan.   ![10000053747](http://wetten.overheid.nl/Illustration/10000053747)
+Noten: <sup>6</sup> De gevaren van eventueel in bulk te vervoeren stoffen van deze klasse zijn zodanig dat de Administratie niet alleen aan de naleving van de in deze tabel opgesomde vereisten, maar ook aan de bouw en de uitrusting van het betrokken schip bijzondere aandacht moet schenken. <sup>7</sup> Alleen van toepassing op voederkoek die extracten van oplosmiddelen bevat, op ammoniumnitraat en op ammoniumnitraat-houdende kunstmest. <sup>8</sup> Alleen van toepassing op ammoniumnitraat en ammoniumnitraat-houdende kunstmest. Een mate van beveiliging overeenkomstig de normen als vervat in Publicatie 60079 van de Internationale Elektrotechnische Commissie: Elektrische apparatuur voor explosieve gasatmosferen, volstaat echter. <sup>9</sup> Alleen geschikte gaaswanden zijn vereist. <sup>10</sup> De eisen van de Internationale maritieme code voor het vervoer van vaste lading in bulk (IMSBC-Code) zoals gewijzigd, volstaan.   ![]()
 <sup>11.</sup> Indien „mechanisch geventileerde ruimten” worden vereist door de IMDG-Code. <sup>12.</sup> In alle gevallen stuwen op een horizontale afstand van 3 m vanaf de begrenzingswanden van machineruimten. <sup>13.</sup> Zie de IMDG-Code. <sup>14.</sup> Al naar gelang de te vervoeren goederen. <sup>15.</sup> FP heeft betrekking op het vlampunt. <sup>16.</sup> Volgens de bepalingen van de IMDG-Code is stuwage van gevaarlijke stoffen van klasse 5.2 onderdeks of in besloten ro-ro ruimten verboden. <sup>17.</sup> Alleen van toepassing op gevaarlijke stoffen waarbij in de IMDG-Code vermelde brandbare dampen vrijkomen. <sup>18.</sup> Alleen van toepassing op gevaarlijke stoffen met een vlampunt van lager dan 23ºC vermeld in de IMDG-Code. <sup>19.</sup> Alleen van toepassing op gevaarlijke stoffen met een bijkomend risico klasse 6.1. <sup>20.</sup> Volgens de bepalingen van de IMDG-Code is stuwage van gevaarlijke stoffen van klasse 2.3 met een bijkomend risico klasse 2.1 onderdeks of in besloten ro-ro ruimten verboden. <sup>21.</sup> Volgens de bepalingen van de IMDG-Code is stuwage van vloeistoffen van klasse 4.3 met een vlampunt van lager dan 23ºC onderdeks of in besloten ro-ro ruimten verboden.    
 
 ### Voorschrift  20  
@@ -15773,7 +15969,7 @@ Noten: <sup>6</sup> De gevaren van eventueel in bulk te vervoeren stoffen van de
 .1 Passagiersschepen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Ruimten van bijzondere aard  | 10 luchtwisselingen per uur  |
 | Gesloten ro-ro ruimten en voertuigruimten anders dan ruimten van bijzondere aard op schepen die meer dan 36 passagiers vervoeren  | 10 luchtwisselingen per uur  |
 | Gesloten ro-ro ruimten en voertuigruimten anders dan ruimten van bijzondere aard op schepen die niet meer dan 36 passagiers vervoeren  | 6 luchtwisselingen per uur  |
@@ -15781,7 +15977,7 @@ Noten: <sup>6</sup> De gevaren van eventueel in bulk te vervoeren stoffen van de
 .2  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Vrachtschepen  | 6 luchtwisselingen per uur  |
 
 De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertuigen van of aan boord worden gereden.  
@@ -15858,7 +16054,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 .1.1 in de ruimten boven het schottendek moeten spuipijpen worden aangebracht teneinde zeker te stellen dat dit water snel rechtstreeks overboord wordt afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren in acht nemend ; <sup> 6)  Zie de door de Organisatie op te stellen Richtsnoeren voor afvoersystemen in gesloten voertuig- en ro-ro ruimten en ruimten van bijzondere aard.  </sup> 
 
-1.2.1 op ro-ro-passagiersschepen moeten de lozingskleppen van de spuipijpen, voorzien van directe sluitvoorzieningen die bedienbaar zijn vanaf een positie boven het schottendek in overeenstemming met de vereisten van het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), geopend blijven zolang het schip zich op zee bevindt;  
+1.2.1 op ro-ro-passagiersschepen moeten de lozingskleppen van de spuipijpen, voorzien van directe sluitvoorzieningen die bedienbaar zijn vanaf een positie boven het schottendek in overeenstemming met de vereisten van het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen, geopend blijven zolang het schip zich op zee bevindt;  
 
 .1.2.2 elke bediening van de in paragraaf 6.1.4.1.2.1 bedoelde kleppen moet worden vermeld in het logboek;    
 
@@ -15877,6 +16073,147 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 .1 ten minste drie nevellansen; en  
 
 .2 één draagbaar schuimbrandblusapparaat, dat voldoet aan het bepaalde in de Code inzake brandveiligheidssystemen, met dien verstande dat er op het schip ten minste twee van zulke apparaten voor gebruik in zulke ruimten beschikbaar moeten zijn.          
+
+### Voorschrift  21  
+
+####Ongevallendrempel, veilige terugkeer naar de haven en veilige zones
+
+1.  Toepassing Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in voorschrift 2.5 van Hoofdstuk II-1, van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.   
+2.  Doel Het doel van dit voorschrift is vaststelling van ontwerpcriteria voor de veilige terugkeer naar de haven van een schip op eigen kracht, na een ongeval dat de in paragraaf 3 vervatte ongevallendrempel niet overschrijdt; tevens zijn functionele vereisten en prestatienormen voor veilige zones opgenomen.   
+3.  Ongevallendrempel In het geval van brand omvat de ongevallendrempel: 
+
+.1 verlies van de ontstaansruimte tot aan de dichtstbijzijnde scheidingswanden van klasse „A”, die onderdeel kunnen uitmaken van de ontstaansruimte, indien deze wordt beveiligd door middel van een vaste brandblusinstallatie; of  
+
+.2 verlies van de ontstaansruimte en belendende ruimten tot aan de dichtstbijzijnde scheidingswanden van klasse „A”, die geen onderdeel van de ontstaansruimte vormen.     
+4.  Veilige terugkeer naar de haven <sup> 3)  Zie de Prestatienormen voor de systemen en diensten die op passagiersschepen bedrijfszeker moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten na een ongeval (MSC.1/Circ.1214).  </sup> Wanneer de brandschade de in paragraaf 3 genoemde ongevallendrempel niet overschrijdt, is het schip in staat naar de haven terug te keren en kan tevens voor een veilige zone als omschreven in voorschrift 3 worden gezorgd. Teneinde in staat geacht te worden naar de haven terug te keren, moeten de volgende systemen in het resterende deel van het schip dat niet is getroffen door de brand, operationeel blijven: 
+
+.1 voortstuwing;  
+
+.2 stuurinrichting en bedieningssystemen van de stuurinrichting;  
+
+.3 navigatiesystemen;  
+
+.4 systemen voor het afvullen, overbrengen en de toevoer van brandstofolie;  
+
+.5 interne communicatie tussen de brug, machineruimten, beveiligingscentrum, brandweer- en schadebeheersingsteams en voor mededelingen aan passagiers en bemanning alsmede voor het verzamelen;  
+
+.6 externe communicatie;  
+
+.7 hoofdbrandblussysteem;  
+
+.8 vaste brandblusinstallaties;  
+
+.9 brand- en rookdetectiesysteem;  
+
+.10 lens- en ballastsysteem;  
+
+.11 werktuiglijk bediende waterdichte en halfwaterdichte deuren;  
+
+.12 systemen ter ondersteuning van „veilige zones” als vermeld in paragraaf 5.1.2;  
+
+.13 detectieystemen voor vollopen; en  
+
+.14 andere systemen die door de Administratie van vitaal belang worden geacht voor schadebeheersingsinspanningen.     
+5.  Veilige zone(s) 
+
+5.1 Functionele vereisten: 
+
+.1 de veilige zone(s) zal (zullen) doorgaans een of meerdere inwendige ruimten zijn; het gebruik van een uitwendige ruimte als veilige zone kan door de Administratie evenwel worden toegestaan, mits rekening wordt gehouden met beperkingen van het vaargebied en de verwachte relevante omgevingsfactoren;  
+
+.2 (de) veilige zone(s) moet(en) alle gebruikers de volgende elementaire voorzieningen bieden om de gezondheid van de passagiers en bemanning te waarborgen: <sup> 3)  Zie de Prestatienormen voor de systemen en diensten die op passagiersschepen bedrijfszeker moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten na een ongeval (MSC.1/Circ.1214).  </sup> 
+
+.1 sanitaire voorzieningen;  
+
+.2 water;  
+
+.3 voedsel;  
+
+.4 alternatieve ruimte voor medische zorg;  
+
+.5 beschutting tegen weersomstandigheden;  
+
+.6 middelen ter voorkoming van oververhitting of onderkoeling;  
+
+.7 verlichting; en  
+
+.8 ventilatie;    
+
+.3 het ontwerp van de ventilatie moet de kans dat rook en hete gassen het gebruik van (de) veilige zone(s) zouden kunnen aantasten, reduceren; en  
+
+.4 vanuit elke zone die als veilige zone wordt bestemd of gebruikt, moeten reddingsmiddelen toegankelijk zijn, er daarbij rekening houdend dat een verticale hoofdsectie voor interne verplaatsingen mogelijk niet beschikbaar is.    
+
+5.2 Alternatieve ruimte voor medische zorg Een alternatieve ruimte voor medische zorg moet voldoen aan een voor de Administratie aanvaardbare norm. <sup> 5)  Zie de Regels voor de instelling van medische en gezondheidsprogramma’s op passagiersschepen (MSC/Circ.1129).  </sup>     
+
+### Voorschrift  22  
+
+####Ontwerpcriteria voor systemen die na een brandongeval operationeel moeten blijven
+
+1.  Toepassing Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in voorschrift 2.2 van Hoofdstuk II-1, van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.   
+2.  Doel Het doel van dit voorschrift is het verschaffen van criteria voor het ontwerp van systemen die operationeel moeten blijven ter ondersteuning van het ordentelijk evacueren en verlaten van een schip, indien de in paragraaf 21.3 omschreven ongevallendrempel wordt overschreden.   
+3.  Systemen <sup> 6)  Zie de Prestatienormen voor de systemen en diensten die op passagiersschepen operationeel moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten na een ongeval (MSC.1/Circ.1214).  </sup> 
+
+3.1 Indien een verticale hoofdsectie als gevolg van brand onbereikbaar is, moeten de volgende systemen zodanig zijn aangebracht en gescheiden dat deze operationeel blijven: 
+
+.1 hoofdbrandblussysteem;  
+
+.2 interne communicatie (ter ondersteuning van brandblussen, voor mededelingen aan passagiers en bemanning en evacuatie);  
+
+.3 middelen voor externe communicatie;  
+
+.4 lenssystemen voor het afvoeren van bluswater;  
+
+.5 verlichting langs ontsnappingsroutes, op verzamelplaatsen en op inschepingsplaatsen voor reddingsmiddelen; en  
+
+.6 er moeten bewegwijzeringssystemen voor evacuatie aanwezig zijn.    
+
+3.2 Bovengenoemde systemen moeten ten minste 3 uur in bedrijf kunnen blijven, ervan uitgaande dat buiten de in het ongerede geraakte verticale hoofdsectie geen schade is. Deze systemen behoeven niet operationeel te blijven binnen de onbereikbare verticale hoofdsecties.  
+
+3.3 Kabels en pijpleidingen binnen een schacht volgens constructienorm „A-60” worden voor de toepassing van paragraaf 3.1 geacht intact en bereikbaar te blijven wanneer deze door de onbereikbare verticale hoofdsectie voeren. De Administratie kan een gelijkwaardig niveau van bescherming voor kabels en pijpleidingen goedkeuren.     
+
+### Voorschrift  23  
+
+####Beveiligingscentrum op passagiersschepen
+
+1.  Toepassing Passagiersschepen gebouwd op of na 1 juli 2010 moeten een beveiligingscentrum aan boord hebben dat aan de vereisten van dit voorschrift voldoet.   
+2.  Doel Het doel van dit voorschrift is een ruimte te bieden van waaruit assistentie bij het beheer van noodsituaties kan worden verleend.   
+3.  Plaats en inrichting Het beveiligingscentrum moet hetzij onderdeel van de brug vormen, hetzij gelegen zijn in een aparte ruimte die grenst aan en rechtstreeks toegang biedt tot de brug, zodanig dat het beheer van noodsituaties kan plaatsvinden zonder dat de officieren van de wacht van hun navigatietaken worden afgeleid.   
+4.  Inrichting en ergonomisch ontwerp Bij de inrichting en het ergonomisch ontwerp van het beveiligingscentrum moet naar behoren rekening worden gehouden met de door de Organisatie ontwikkelde richtsnoeren . <sup> 7)  Zie de door de Organisatie op te stellen richtsnoeren.  </sup>   
+5.  Communicatie Er moeten middelen aanwezig zijn voor communicatie tussen het beveiligingscentrum, het centrale controlestation, de brug, de machinebedieningskamer, de opslagruimte(n) voor brandblusapparaten en de kastjes met brandweeruitrusting.   
+6.  Toezicht op en monitoring van beveiligingssystemen Onverminderd de elders in het Verdrag vermelde vereisten, moeten alle functionaliteiten (bediening, controle, monitoring of alle benodigde combinaties hiervan) van de onderstaande beveiligingssystemen vanuit het beveiligingscentrum beschikbaar zijn: 
+
+.1 alle elektrische ventilatiesystemen;  
+
+.2 branddeuren;  
+
+.3 algemeen noodalarmsysteem;  
+
+.4 scheepsomroepsysteem;  
+
+.5 elektrische bewegwijzeringssystemen voor vluchtwegen;  
+
+.6 waterdichte en halfwaterdichte deuren;  
+
+.7 aanwijsinstrumenten voor alle deuren in de huid, laaddeuren en andere sluitvoorzieningen;  
+
+.8 binnendringend water door deuren in de boeg of de achtersteven of andere deuren in de huid;  
+
+.9 systeem voor cameratoezicht;  
+
+.10 brandopsporings- en alarmsysteem;  
+
+.11 vaste lokale brandbestrijdingsinstallatie(s);  
+
+.12 sprinkler- en gelijkwaardige installaties;  
+
+.13 installaties met water voor machineruimten;  
+
+.14 alarm voor het oproepen van de bemanning;  
+
+.15 rookafzuiginstallatie in atriums;  
+
+.16 detectiesystemen voor vollopen; en  
+
+.17 brandbluspompen en noodbrandbluspompen.     
 
 ### HOOFDSTUK  III  
 
@@ -15910,7 +16247,9 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 .1 er voor zorg dragen dat, met inachtneming van het bepaalde in paragraaf 4.2, wordt voldaan aan de vereisten die krachtens Hoofdstuk III van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, vóór 1 juli 1998 van toepassing zijn op nieuwe of bestaande schepen, zoals in genoemd hoofdstuk is voorgeschreven; en  
 
-.2 er voor zorg dragen dat wanneer reddingsmiddelen of -voorzieningen op dergelijke schepen worden vervangen, of wanneer dergelijke schepen reparaties, veranderingen of wijzigingen van ingrijpende aard ondergaan die vervanging van, of een aanvulling op hun bestaande reddingsmiddelen of -voorzieningen met zich meebrengen, deze reddingsmiddelen of -voorzieningen, voor zover dat redelijk en uitvoerbaar is, voldoen aan de vereisten van dit hoofdstuk. Wanneer echter een reddingsboot of -vlot anders dan een opblaasbaar reddingsvlot wordt vervangen zonder het bijbehorende tewaterlatingsmiddel te vervangen, of omgekeerd, dan kan de reddingsboot, het reddingsvlot of het tewaterlatingsmiddel van hetzelfde type zijn als dat wat wordt vervangen.      
+.2 er voor zorg dragen dat wanneer reddingsmiddelen of -voorzieningen op dergelijke schepen worden vervangen, of wanneer dergelijke schepen reparaties, veranderingen of wijzigingen van ingrijpende aard ondergaan die vervanging van, of een aanvulling op hun bestaande reddingsmiddelen of -voorzieningen met zich meebrengen, deze reddingsmiddelen of -voorzieningen, voor zover dat redelijk en uitvoerbaar is, voldoen aan de vereisten van dit hoofdstuk. Wanneer echter een reddingsboot of -vlot anders dan een opblaasbaar reddingsvlot wordt vervangen zonder het bijbehorende tewaterlatingsmiddel te vervangen, of omgekeerd, dan kan de reddingsboot, het reddingsvlot of het tewaterlatingsmiddel van hetzelfde type zijn als dat wat wordt vervangen.    
+
+5 Niettegenstaande paragraaf 4.2 worden bij alle schepen uiterlijk op de datum van de eerstvolgende geplande droogzetting na 1 juli 2014, maar in geen geval later dan 1 juli 2019, ontkoppelingsmechanismen voor het in belaste toestand te water laten van reddingsboten die niet voldoen aan de paragrafen 4.4.7.6.4 tot en met 4.4.7.6.6 van de Code vervangen door uitrusting die aan de Code voldoet. <sup> 1)  Zie de Richtlijnen voor de beoordeling en vervanging van systemen voor het ontkoppelen en terugzetten van reddingsboten (MSC.1/Circ.1392).  </sup>    
 
 ### Voorschrift  2  
 
@@ -15932,7 +16271,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 1 Beschermende kleding tegen afkoeling: een beschermend pak ontworpen voor gebruik door bemanningen van hulpverleningsboten en bemanningen van mariene evacuatiesystemen.  
 
-2 Sloepsgast: een persoon die in het bezit is van een diploma inzake het gebruik van reddingsboten en -vlotten uitgereikt namens of als geldig erkend door de Administratie overeenkomstig de van kracht zijnde bepalingen van het [Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst](../../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md); of een persoon die in het bezit is van een diploma uitgereikt of erkend door de Administratie van een Staat die geen Partij is bij dit Verdrag, voor hetzelfde doel als een diploma vallende onder de verdragsbepalingen.  
+2 Sloepsgast: een persoon die in het bezit is van een diploma inzake het gebruik van reddingsboten en -vlotten uitgereikt namens of als geldig erkend door de Administratie overeenkomstig de van kracht zijnde bepalingen van het Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst; of een persoon die in het bezit is van een diploma uitgereikt of erkend door de Administratie van een Staat die geen Partij is bij dit Verdrag, voor hetzelfde doel als een diploma vallende onder de verdragsbepalingen.  
 
 3 Ontdekking: de vaststelling van de plaats van de overlevenden of de reddingsboten en -vlotten.  
 
@@ -15996,11 +16335,11 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 .2 ten genoegen van de Administratie met succes proeven hebben ondergaan, die in wezen gelijkwaardig zijn aan die welke in die aanbevelingen zijn voorgeschreven.    
 
-3 Alvorens reddingsmiddelen en -voorzieningen van een nieuw ontwerp goed te keuren, moet de Administratie zich ervan overtuigen dat deze reddingsmiddelen en -voorzieningen: 
+3 Alvorens reddingsmiddelen en -voorzieningen van een nieuw ontwerp goed te keuren, moet de Administratie erop toezien dat deze: 
 
-.1 voldoen aan veiligheidsnormen die ten minste gelijkwaardig zijn aan de vereisten van dit hoofdstuk en de Code en die beoordeeld en beproefd zijn overeenkomstig de aanbevelingen van de Organisatie; of  
+.1 middelen voldoen aan veiligheidsnormen die ten minste gelijkwaardig zijn aan de vereisten van dit Hoofdstuk en de Code en beoordeeld en beproefd zijn aan de hand van de door de Organisatie opgestelde richtsnoeren ; of <sup> 8)  Zie de door de Organisatie op te stellen richtsnoeren.  </sup>  
 
-.2 ten genoegen van de Administratie met succes een beoordeling en proeven hebben ondergaan, die in wezen gelijkwaardig zijn aan die aanbevelingen.    
+.2 voorzieningen met succes een constructieanalyse, evaluatie en een keuring hebben ondergaan in overeenstemming met voorschrift 38.    
 
 4 De door de Administratie aangenomen goedkeuringsprocedures moeten tevens de voorwaarden waaronder de goedkeuring geldig blijft of wordt ingetrokken, omvatten.  
 
@@ -16470,7 +16809,9 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .2 moeten worden onderworpen aan een grondige inspectie en operationele beproeving tijdens de jaarlijkse onderzoeken vereist door de voorschriften I/7 en I/8 door daartoe opgeleid personeel dat vertrouwd is met het systeem; en  
 
-.3 moeten operationeel worden beproefd met een belasting van 1,1 maal het totale gewicht van de boot met aan boord de volledige bezetting aan personen en uitrusting wanneer het ontkoppelingssysteem wordt gereviseerd. Deze revisie en beproeving moeten ten minste eenmaal per vijf jaar plaatsvinden. <sup> 2)  Zie de Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie A.689(17). Voor reddingsmiddelen die aan boord zijn geïnstalleerd op of na 1 juli 1999, zie de Herziene Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie MSC.81(70).  </sup>    
+.3 moeten operationeel worden beproefd met een belasting van 1,1 maal het totale gewicht van de boot met aan boord de volledige bezetting aan personen en uitrusting wanneer het ontkoppelingssysteem wordt gereviseerd. Deze revisie en beproeving moeten ten minste eenmaal per vijf jaar plaatsvinden. <sup> 2)  Zie de Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie A.689(17). Voor reddingsmiddelen die aan boord zijn geïnstalleerd op of na 1 juli 1999, zie de Herziene Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie MSC.81(70).  </sup>  
+
+.4 onverminderd subparagraaf .3 hierboven, geschiedt de operationele beproeving van ontkoppelingssystemen voor tewaterlating van reddingsboten door middel van hetzij vrije val met uitsluitend de aangewezen bemanning aan boord, dan wel een gesimuleerde tewaterlating in overeenstemming met de door de Organisatie opgestelde richtlijnen . <sup> 3)  Verwezen wordt naar de Maatregelen ter voorkoming van ongevallen met reddingsboten (MSC.1/Circ.1206/rev. 1).  </sup>    
 
 11.3 Automatische ontkoppelingshaken van strijkbare reddingsvlotten moeten: 
 
@@ -16539,7 +16880,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 1.1 Een passagiersschip moet niet minder reddingsboeien die voldoen aan de vereisten van voorschrift 7.1 en sectie 2.1 van de Code aan boord hebben dan is voorgeschreven in de onderstaande tabel:  
 
 | Lengte van het schip in meters  | Minimum aantal reddingsboeien  |
-|:---|:---|
+|---|---|
 | minder dan 60  | 8  |
 | 60 en minder dan 120  | 12  |
 | 120 en minder dan 180  | 18  |
@@ -16773,7 +17114,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in voorschrift 1
 1.1 Vrachtschepen mogen niet minder reddingsboeien die voldoen aan de vereisten van voorschrift 7.1 en sectie 2.1 van de Code aan boord hebben dan is voorgeschreven in de onderstaande tabel:  
 
 | Lengte van het schip in meters  | Minimum aantal reddingsboeien  |
-|:---|:---|
+|---|---|
 | minder dan 100  | 8  |
 | 100 en minder dan 150  | 10  |
 | 150 en minder dan 200  | 12  |
@@ -16937,6 +17278,47 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 
 8. De verlaatrol op passagiersschepen moet goedgekeurd zijn.    
 
+### DEEL  C  
+
+####VERVANGEND ONTWERP EN VERVANGENDE VOORZIENINGEN
+
+### Voorschrift  38  
+
+####Vervangend ontwerp en vervangende voorzieningen
+
+1.  Doel Het doel van dit voorschrift is een methode te bieden voor vervangend ontwerp en vervangende voorzieningen voor reddingsmiddelen en -voorzieningen.   
+2.  Algemeen 
+
+2.1 Reddingsmiddelen en -voorzieningen mogen van de in deel B vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van deze vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.  
+
+2.2 Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van deel B, moeten de constructieanalyse, evaluatie en keuring van het ontwerp en de voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.     
+3.  Constructieanalyse De constructieanalyse moet, op basis van de door de Organisatieopgestelde richtsnoeren worden voorbereid en aan de Administratie worden voorgelegd en moet ten minste de volgende onderdelen omvatten: <sup> 9)  Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212).  </sup> 
+
+.1 vermelding van het type schip en de betrokken reddingsmiddelen en -voorzieningen;  
+
+.2 vermelding van het (de) dwingende vereiste(n) waaraan de reddingsmiddelen en -voorzieningen niet zullen voldoen;  
+
+.3 vermelding van de reden waarom het voorgestelde ontwerp niet voldoet aan de dwingende vereisten, onder vermelding van andere erkende constructie- of industrienormen waaraan wel wordt voldaan;  
+
+.4 vermelding van de prestatiecriteria voor het schip en de betrokken reddingsmiddelen en -voorzieningen, door middel van het (de) relevante dwingende vereiste(n): 
+
+.4.1 de prestatiecriteria moeten een niveau van veiligheid waarborgen dat niet geringer is dan de desbetreffende in deel B vervatte dwingende vereisten; en  
+
+.4.2 de prestatiecriteria moeten kwantificeerbaar en meetbaar zijn;    
+
+.5 een gedetailleerde beschrijving van het vervangende ontwerp en de vervangende voorzieningen, met inbegrip van een lijst van de aannames gehanteerd bij het ontwerp en eventueel voorgestelde functionele beperkingen of voorwaarden;  
+
+.6 technische onderbouwing waarmee wordt aangetoond dat het vervangende ontwerp en de vervangende voorzieningen voldoen aan de veiligheidscriteria; en  
+
+.7 risicobeoordeling op basis van de identificatie van potentiële tekortkomingen en gevaren die met het voorstel samenhangen.     
+4.  Beoordeling van het vervangende ontwerp en de vervangende voorzieningen 
+
+4.1 De in paragraaf 3 vereiste constructieanalyse wordt door de Administratie beoordeeld en goedgekeurd, met inachtneming van dedoor de Organisatie opgestelde richtsnoeren. <sup> 10)  Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212).  </sup>  
+
+4.2 Aan boord van het schip moet een afschrift aanwezig zijn van de documenten, zoals goedgekeurd door de Administratie, waarin wordt vermeld dat het vervangende ontwerp en de vervangende voorzieningen aan dit voorschrift voldoen.     
+5.  Uitwisseling van informatie De Administratie doet de Organisatie relevante informatie toekomen over het door haar goedgekeurde vervangende ontwerp en de vervangende voorzieningen voor toezending aan alle Verdragsluitende Regeringen.   
+6.  Hernieuwde beoordeling vanwege veranderde omstandigheden Indien de aannames en functionele beperkingen die in het vervangende ontwerp en de vervangende voorzieningen golden veranderen, moet de constructieanalyse worden uitgevoerd in de nieuwe toestand en worden goedgekeurd door de Administratie.   
+
 ### HOOFDSTUK  IV  
 
 ####RADIOVERBINDINGEN
@@ -16969,7 +17351,7 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 
 .5 „Algemene radioberichtgeving”: het operationele en openbare berichtenverkeer per radio, anders dan de nood-, spoed- en veiligheidsberichten.  
 
-.6 „INMARSAT”: de Organisatie opgericht uit hoofde van het op 3 september 1976 aangenomen [Verdrag inzake de Internationale Maritieme Satelliet Organisatie](../../../../../../../../../../../../verdrag/convention/on/the/international/maritime/satellite/organization/BWBV0003238/README.md).  
+.6 „INMARSAT”: de Organisatie opgericht uit hoofde van het op 3 september 1976 aangenomen Verdrag inzake de Internationale Maritieme Satelliet Organisatie.  
 
 .7 „Internationaal NAVTEX-systeem”: de gecoördineerde uitzending en automatische ontvangst op de frequentie van 518 kHz van maritieme veiligheidsinformatie, door toepassing van DPT, waarbij de Engelse taal wordt gebruikt. <sup> *  Verwezen wordt naar het door de Organisatie goedgekeurde NAVTEX-handboek.  </sup>  
 
@@ -16990,7 +17372,7 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 .15 „Zeegebied A4”: een gebied buiten de zeegebieden Al, A2 enA3.  
 
 .16 *Identiteiten voor het Wereldomvattend Maritiem Satelliet-Communicatiesysteem (GMDSS)* betekent de identiteit voor maritieme mobiele diensten, de roepnaam van het schip, de Inmarsat-identiteiten en de identiteit van het serienummer die door de apparatuur van het schip kunnen worden verzonden en worden gebruikt om het schip te identificeren.     
-2.  Alle overige termen en afkortingen die in dit hoofdstuk worden gebruikt en die worden omschreven in het Radioreglement en in het [Internationaal Verdrag inzake opsporing en redding op zee (SAR), 1979](../../../../../../../../../../../../verdrag/international/convention/on/maritime/search/and/rescue/1979/BWBV0003096/README.md), zoals deze kunnen worden gewijzigd, hebben de betekenis die er in dat Reglement en in het SAR-Verdrag aan wordt toegekend.   
+2.  Alle overige termen en afkortingen die in dit hoofdstuk worden gebruikt en die worden omschreven in het Radioreglement en in het Internationaal Verdrag inzake opsporing en redding op zee (SAR), 1979, zoals deze kunnen worden gewijzigd, hebben de betekenis die er in dat Reglement en in het SAR-Verdrag aan wordt toegekend.   
 
 ### Voorschrift  3  
 
@@ -17522,7 +17904,7 @@ De Verdragsluitende Regeringen verplichten zich ertoe er zorg voor te dragen dat
 
 8 Verplichte routeringssystemen voor schepen worden door de Verdragsluitende Regering of Regeringen herzien overeenkomstig de door de Organisatie opgestelde richtlijnen en criteria.  
 
-9 Alle aanvaarde routeringssystemen voor schepen en maatregelen getroffen teneinde op de naleving ervan toe te zien, moeten in overeenstemming zijn met het internationale recht, met inbegrip van de desbetreffende bepalingen van het [Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md).  
+9 Alle aanvaarde routeringssystemen voor schepen en maatregelen getroffen teneinde op de naleving ervan toe te zien, moeten in overeenstemming zijn met het internationale recht, met inbegrip van de desbetreffende bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee, 1982.  
 
 10 Niets in dit voorschrift of in de bijbehorende richtlijnen en criteria doet afbreuk aan de rechten en verplichtingen van Regeringen uit hoofde van het internationaal recht of juridische stelsel van zeestraten die voor internationale scheepvaart worden gebruikt en zeeroutes bij archipellen.    
 
@@ -17544,7 +17926,7 @@ De Verdragsluitende Regeringen verplichten zich ertoe er zorg voor te dragen dat
 
 7 De kapitein van een schip dient de voorschriften van aangenomen meldingssystemen voor schepen na te leven en alle informatie die in overeenstemming met de bepalingen van elk van deze systemen is vereist, te rapporteren aan de bevoegde autoriteit.  
 
-8 Alle aangenomen meldingssystemen en maatregelen die worden genomen om naleving van deze systemen te bewerkstelligen, dienen in overeenstemming te zijn met het internationale recht, in het bijzonder met de relevante bepalingen van het [Verdrag van de Verenigde Naties inzake het recht van de zee](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md).  
+8 Alle aangenomen meldingssystemen en maatregelen die worden genomen om naleving van deze systemen te bewerkstelligen, dienen in overeenstemming te zijn met het internationale recht, in het bijzonder met de relevante bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee.  
 
 9 Niets in dit voorschrift of in de bijbehorende richtlijnen en criteria doet afbreuk aan de rechten en verplichtingen van Regeringen uit hoofde van het internationaal recht of juridische stelsel van zeestraten die voor internationale scheepvaart worden gebruikt en zeeroutes bij archipellen.  
 
@@ -17578,15 +17960,16 @@ De Verdragsluitende Regeringen verplichten zich ertoe er zorg voor te dragen dat
 
 ### Voorschrift  14  
 
-####Bemanning van schepen
+####Bemanningssterkte
 
-1 De Verdragsluitende Regeringen verbinden zich ertoe, ieder voor haar nationale schepen, maatregelen in stand te houden of deze zonodig te nemen om te verzekeren dat, uit oogpunt van veiligheid van mensenlevens op zee, alle schepen voldoende bemand zijn met voor zijn taak berekend personeel.  
+1.  De Verdragsluitende Regeringen verbinden zich ertoe, ieder voor haar nationale schepen, maatregelen in stand te houden of deze zonodig te nemen om te verzekeren dat, uit oogpunt van veiligheid van mensenlevens op zee, alle schepen voldoende bemand zijn met voor zijn taak berekend personeel.   
+2.  Voor elk schip waarop hoofdstuk I van toepassing is, zal de Administratie 
 
-2 Elk schip waarop hoofdstuk I van toepassing is, moet zijn voorzien van een passend document inzake de voor de veiligheid benodigde bemanning, of een gelijkwaardig document afgegeven door de Administratie, waaruit blijkt dat de minimum-veiligheidsbemanning aan boord is die noodzakelijk wordt geacht om te voldoen aan het in paragraaf 1 bepaalde.  
+.1 volgens een transparante procedure de passende minimaal voor de veiligheid benodigde bemanningssterkte vaststellen, rekening houdend met de desbetreffende door de Organisatie aangenomen richtsnoeren ; en <sup> 4)  Verwezen wordt naar de Beginselen van minimaal voor de veiligheid benodigde bemanning, door de Organisatie aangenomen bij resolutie A.1047(27).  </sup>  
 
-3 Op alle schepen moet ter waarborging van het doeltreffende optreden van de bemanning op het gebied van de veiligheid, een werktaal worden vastgesteld en vermeld in het logboek van het schip. De maatschappij, als omschreven in voorschrift IX/1, of de kapitein, naar gelang van toepassing, stelt de werktaal vast. Elke zeevarende wordt geacht deze taal te begrijpen en, in voorkomend geval, in deze taal orders en instructies te geven en verslag uit te brengen. Indien de werktaal niet een officiële taal is van het land waarvan het schip bevoegd is de vlag te voeren, moeten alle plattegronden en lijsten die moeten worden opgehangen, zijn voorzien van een vertaling in de werktaal.  
-
-4 Op schepen waarop hoofdstuk I van toepassing is, moet op de brug Engels als werktaal worden gebruikt voor brug-naar-brug en brug-naar-wal veiligheidsberichten, alsmede voor de communicatie aan boord tussen de loods en het wachtlopende personeel op de brug, tenzij de rechtstreeks bij de communicatie betrokken personen een gemeenschappelijke taal spreken, anders dan het Engels.    
+.2 een relevante verklaring inzake de minimumbemanning voor de veiligheid of een gelijkwaardig document afgeven, waaruit blijkt welke benodigde bemanning minimaal noodzakelijk wordt geacht om te voldoen aan de bepalingen van paragraaf 1.     
+3.  Op alle schepen moet ter waarborging van het doeltreffende optreden van de bemanning op het gebied van de veiligheid, een werktaal worden vastgesteld en vermeld in het logboek van het schip. De maatschappij, als omschreven in voorschrift IX/1, of de kapitein, naar gelang van toepassing, stelt de werktaal vast. Elke zeevarende wordt geacht deze taal te begrijpen en, in voorkomend geval, in deze taal orders en instructies te geven en verslag uit te brengen. Indien de werktaal niet een officiële taal is van het land waarvan het schip bevoegd is de vlag te voeren, moeten alle plattegronden en lijsten die moeten worden opgehangen, zijn voorzien van een vertaling in de werktaal.   
+4.  Op schepen waarop hoofdstuk I van toepassing is, moet op de brug Engels als werktaal worden gebruikt voor brug-naar-brug en brug-naar-wal veiligheidsberichten, alsmede voor de communicatie aan boord tussen de loods en het wachtlopende personeel op de brug, tenzij de rechtstreeks bij de communicatie betrokken personen een gemeenschappelijke taal spreken, anders dan het Engels.   
 
 ### Voorschrift  15  
 
@@ -18336,7 +18719,7 @@ Bij het gebruik van pesticiden op schepen, met name voor berokingsdoeleinden, mo
 2.  Lading die wordt vervoerd in een ladingunit moet zodanig zijn verpakt en zeevast gezet binnen de ladingunit dat, gedurende de gehele reis, schade aan of gevaar voor schip en opvarenden wordt voorkomen.   
 3.  Er moeten passende voorzorgsmaatregelen worden genomen tijdens het laden en vervoeren van zware ladingstukken of ladingen met buitengewone afmetingen om te voorkomen dat structurele schade aan het schip wordt toegebracht en om toereikende stabiliteit te handhaven gedurende de gehele reis.   
 4.  Er moeten passende voorzorgsmaatregelen worden genomen tijdens het laden en vervoeren van vrachteenheden en laadeenheden aan boord van ro-roschepen, in het bijzonder wat betreft de zeevastinrichtingen aan boord van die schepen en binnen de vrachteenheden en laadeenheden, en wat betreft de sterkte van de bevestigingspunten en sjorrings.   
-5.  Vrachtcontainers worden niet zwaarder geladen dan het maximum bruto gewicht aangegeven op het veiligheidskeurmerk uit hoofde van de [Internationale Overeenkomst voor veilige containers (CSC)](../../../../../../../../../../../../verdrag/international/convention/for/safe/containers/(csc)/BWBV0003233/README.md) als gewijzigd.   
+5.  Vrachtcontainers worden niet zwaarder geladen dan het maximum bruto gewicht aangegeven op het veiligheidskeurmerk uit hoofde van de Internationale Overeenkomst voor veilige containers (CSC) als gewijzigd.   
 6.  Alle lading, anders dan vaste en vloeibare bulklading, laadeenheden en ladingvervoerseenheden moeten gedurende de gehele reis worden geladen, gestuwd en zeevast gezet in overeenstemming met de door de Administratie goedgekeurde Cargo Securing Manual. In schepen met ro-ro-ruimten, als omschreven in voorschrift II-2/3.41, moet het vastzetten van de lading, laadeenheden en ladingvervoerseenheden, in overeenstemming met de Cargo Securing Manual, zijn voltooid voordat het schip de aanlegplaats verlaat. De instructies in de Cargo Securing Manual moeten ten minste gelijkwaardig zijn aan de door de Organisatie geformuleerde richtlijnen.   
 6.  Alle ladingen, anders dan vaste en vloeibare bulklading moeten gedurende de gehele reis worden geladen, gestuwd en zeevast gezet in overeenstemming met de door de Administratie goedgekeurde Cargo Securing Manual . In schepen met ro-ro laadruimten, als omschreven in voorschrift II-2/3.14, moet het zeevast zetten van dergelijke ladingen, in overeenstemming met de Cargo Securing Manual, zijn voltooid voordat het schip de aanlegplaats verlaat. De Cargo Securing Manual moet zijn opgesteld volgens een standaard die ten minste gelijkwaardig is aan de door de Organisatie geformuleerde richtlijnen <sup> 1)  Handboek vastzetten van lading  </sup>   
 
@@ -18344,7 +18727,16 @@ Bij het gebruik van pesticiden op schepen, met name voor berokingsdoeleinden, mo
 
 ####Materiaalveiligheidsinstructies
 
-Schepen die olie of brandstofolie vervoeren als omschreven in [voorschrift 1 van Bijlage 1 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij](../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), moeten voordat dergelijke olie als bulklading aan boord wordt genomen of voordat brandstofolie gebunkerd wordt, worden voorzien van materiaalveiligheidsinstructies op basis van de door de Organisatie ontwikkelde aanbevelingen . <sup> 2)  Zie de Aanbevelingen inzake materiaalveiligheidsinstructies (MSDS) voor MARPOL Bijlage I ladingolie en brandstofolie, aangenomen door de Organisatie bij resolutie MSC.286(86), zoals deze kan worden gewijzigd.  </sup>  
+Schepen die olie of brandstofolie vervoeren als omschreven in voorschrift 1 van Bijlage 1 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij, moeten voordat dergelijke olie als bulklading aan boord wordt genomen of voordat brandstofolie gebunkerd wordt, worden voorzien van materiaalveiligheidsinstructies op basis van de door de Organisatie ontwikkelde aanbevelingen . <sup> 2)  Zie de Aanbevelingen inzake materiaalveiligheidsinstructies (MSDS) voor MARPOL Bijlage I ladingolie en brandstofolie, aangenomen door de Organisatie bij resolutie MSC.286(86), zoals deze kan worden gewijzigd.  </sup>  
+
+### Voorschrift  5-2  
+
+####Verbod op het mengen van vloeibare bulklading en productieprocessen gedurende zeereizen
+
+1.  Fysiek mengen van vloeibare bulklading gedurende zeereizen is verboden. Onder fysiek mengen wordt verstaan het proces waarbij de pompen en leidingen van de ladingtanks van het schip worden gebruikt om twee of meer verschillende ladingen aan boord rond te pompen met het oogmerk een lading met een nieuwe productaanduiding te produceren. Dit verbod belet de kapitein niet ladingen te verplaatsen omwille van de veiligheid van het schip of de bescherming van het mariene milieu.   
+2.  Het verbod in paragraaf 1 is niet van toepassing op het mengen van producten voor gebruik bij het zoeken naar en exploiteren van minerale rijkdommen in de zeebodem aan boord van schepen die gebruikt worden ter vergemakkelijking van dergelijke werkzaamheden.   
+3.  Alle productieprocessen aan boord van schepen zijn verboden gedurende zeereizen. Onder productieprocessen wordt verstaan elke doelbewuste operatie waarbij een chemische reactie tussen de lading van het schip en een andere stof of lading plaatsvindt.   
+4.  Het verbod in paragraaf 3 is niet van toepassing op de productieprocessen van ladingen voor gebruik tijdens het zoeken naar en exploiteren van minerale rijkdommen in de zeebodem aan boord van schepen die gebruikt worden ter vergemakkelijking van dergelijke werkzaamheden. <sup> 5)  Verwezen wordt naar de Richtlijnen voor het vervoer en de hantering van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk op offshore support-schepen (resolutie A.673(16), zoals gewijzigd).  </sup>   
 
 ### DEEL  B  
 
@@ -18460,16 +18852,10 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 ### Voorschrift  4  
 
-####Merken en etiketten
+####Bescheiden
 
-1.  Colli die gevaarlijke stoffen bevatten, moeten duurzaam zijn gemerkt met de juiste technische benaming; uitsluitend handelsnamen mogen niet worden gebezigd.   
-2.  Colli die gevaarlijke stoffen bevatten, moeten zijn voorzien van in het oog springende aangehechte of opgedrukte etiketten, al naar passend, zodat de gevaarlijke eigenschappen van de daarin verpakte stoffen duidelijk opvallen.   
-3.  De wijze van merken van de juiste technische benaming en van het aanhechten of het opdrukken van etiketten op colli die gevaarlijke stoffen bevatten, moet zodanig zijn dat deze gegevens nog leesbaar zijn op colli die ten minste drie maanden in zee hebben gedreven. Bij het overwegen van passende methoden voor merken en etiketteren moet rekening worden gehouden met de duurzaamheid van de gebruikte materialen en de aard van het buitenoppervlak van de verpakking.   
-4.  Colli die gevaarlijke stoffen bevatten, moeten afzonderlijk gemerkt en geëtiketteerd worden, met de uitzondering dat: 
-
-.1 colli die gevaarlijke stoffen bevatten die een gering risico opleveren, of die in geringe hoeveelheden zijn verpakt ; of <sup> 1)  Verwezen wordt naar de specifieke uitzonderingen voorzien in de Internationale Maritieme Code inzake gevaarlijke stoffen (IMDG Code).  </sup>  
-
-.2 wanneer bijzondere omstandigheden zulks toelaten, colli die kunnen worden gestuwd en behandeld als eenheden die worden aangeduid met etiketten ; <sup> 1)  Verwezen wordt naar de specifieke uitzonderingen voorzien in de Internationale Maritieme Code inzake gevaarlijke stoffen (IMDG Code).  </sup>   kunnen worden vrijgesteld van de eisen inzake etikettering.   
+1.  De informatie over het vervoer van gevaarlijke stoffen in verpakte vorm en het container- en verpakkingscertificaat dienen te voldoen aan de relevante bepalingen van de IMDG-Code en dienen ter beschikking te worden gesteld aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie.   
+2.  Op elk schip dat gevaarlijke stoffen in verpakte vorm vervoert dient een bijzondere lijst, manifest of een gedetailleerd stuwplan aanwezig te zijn waarin, in overeenstemming met de relevante bepalingen van de IMDG-Code, de gevaarlijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van één van deze bescheiden aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld.   
 
 ### Voorschrift  5  
 
@@ -18860,9 +19246,9 @@ De in voorschrift I/6 bedoelde organisaties moeten de richtlijnen naleven die de
 
 ### Voorschrift  2  
 
-####Verzwaring onderzoeken
+####Uitgebreid onderzoek
 
-Bulkcarriers zoals omschreven in voorschrift IX/1.6 en olietankschepen zoals omschreven in voorschrift II-1/2.22 worden onderworpen aan een verzwaard inspectieprogramma, in overeenstemming met de bij resolutie A.744(18) door de Vergadering van de Organisatie aangenomen richtlijnen, zoals deze kunnen worden gewijzigd door de Organisatie, mits de wijzigingen worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van hoofdstuk I.  
+Bulkcarriers zoals omschreven in voorschrift IX/1.6 en olietankschepen zoals omschreven in voorschrift II-1/2.22 worden onderworpen aan een verzwaard inspectieprogramma, in overeenstemming met de Internationale Code inzake het uitgebreide inspectieprogramma tijdens onderzoeken van bulkschepen en olietankschepen, 2011 (2011 ESP Code), aangenomen door de Vergadering van de Internationale Maritieme Organisatie bij resolutie A.1049(27), zoals deze kunnen worden gewijzigd door de Organisatie, mits de wijzigingen worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van hoofdstuk I.  
 
 ### Voorschrift  3  
 
@@ -19308,7 +19694,7 @@ Voor de toepassing van dit Hoofdstuk wordt verstaan onder:
 
 4. *Dubbelzijdige huid*, een indeling waarbij elke scheepszijde bestaat uit de scheepshuid en een lengteschot dat de dubbele bodem en het dek met elkaar verbindt. Wanneer hopper- en top-zijtanks zijn aangebracht, mogen deze een integrerend onderdeel van de dubbele-huidindeling vormen.  
 
-5. *Lengte* van een bulkcarrier, de lengte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).  
+5. *Lengte* van een bulkcarrier, de lengte als omschreven in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen.  
 
 6. *Vaste bulklading*, een stof, anders dan een vloeistof of gas, bestaande uit een combinatie van deeltjes, korrels of grotere stukken materiaal, in het algemeen uniform van samenstelling, die rechtstreeks in de laadruimten van een schip wordt geladen zonder andere vorm van verpakking.  
 
@@ -19322,7 +19708,7 @@ Voor de toepassing van dit Hoofdstuk wordt verstaan onder:
 
 .2 is aangevangen met de montage van dat schip, die ten minste 50 ton of 1 procent van de geschatte massa van alle bouwmateriaal omvat, naargelang welke van beide het minst is.    
 
-10. *Breedte* (B)van een bulkcarrier, de breedte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).    
+10. *Breedte* (B)van een bulkcarrier, de breedte als omschreven in het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen.    
 
 ### Voorschrift  2  
 
@@ -19349,9 +19735,9 @@ Bulkcarriers gebouwd vóór 1 juli 1999 waarop voorschrift 4 of 6 van toepassing
 1.  Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m <sup>3</sup> en meer, gebouwd op of na 1 juli 1999 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van willekeurig welk laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4.   
 2.  Bulkcarriers met een lengte van 150 m en meer met een dubbelzijdige huidconstructie, waarbij enig deel van het langsschot is gelegen binnen B/5 of 11,5 m, naargelang welke afstand geringer is, gemeten van de huid naar binnen toe loodrecht op hart schip op de toegewezen zomerlastlijn, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m <sup>3</sup> en meer, gebouwd op of na 1 juli 2006 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van willekeurig welk laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4.   
 3.  Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, die vaste bulkladingen vervoeren met een dichtheid van 1780 kg/m <sup>3</sup> en meer, gebouwd vóór 1 juli 1999 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van het voorste laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4. Aan dit vereiste moet worden voldaan in overeenstemming met het in voorschrift 3 vermelde implementatieschema.   
-4.  Onder voorbehoud van de bepalingen van paragraaf 7 moet de evenwichtstoestand na vollopen overeenkomen met de evenwichtstoestand vervat in de bijlage bij resolutie A.320(IX) – Voorschrift equivalent aan [voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), als gewijzigd bij resolutie A.514(13). Bij het veronderstelde vollopen behoeft alleen rekening te worden gehouden met het vollopen van het laadruim tot het waterniveau aan de buitenzijde van het schip in die volgelopen toestand. De permeabiliteit van een geladen ruim wordt verondersteld 0,9 te zijn en die van een leeg ruim 0,95, tenzij een voor een specifieke lading relevante permeabiliteit wordt verondersteld voor het volume van een volgelopen ruim met lading en een permeabiliteit van 0,95 wordt verondersteld voor het resterende lege deel van het ruim.   
-5.  Bulkcarriers gebouwd vóór 1 juli 1999, waaraan overeenkomstig [voorschrift 27(7) van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), als aangenomen op 5 april 1966 een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 3 van dit voorschrift.   
-6.  Bulkcarriers waaraan overeenkomstig de bepalingen van paragraaf (8) van het voorschrift equivalent aan [voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), aangenomen bij resolutie A.320(IX), als gewijzigd bij resolutie A.514(13) een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 1 of 2, naargelang van welke van toepassing is.   
+4.  Onder voorbehoud van de bepalingen van paragraaf 7 moet de evenwichtstoestand na vollopen overeenkomen met de evenwichtstoestand vervat in de bijlage bij resolutie A.320(IX) – Voorschrift equivalent aan voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, als gewijzigd bij resolutie A.514(13). Bij het veronderstelde vollopen behoeft alleen rekening te worden gehouden met het vollopen van het laadruim tot het waterniveau aan de buitenzijde van het schip in die volgelopen toestand. De permeabiliteit van een geladen ruim wordt verondersteld 0,9 te zijn en die van een leeg ruim 0,95, tenzij een voor een specifieke lading relevante permeabiliteit wordt verondersteld voor het volume van een volgelopen ruim met lading en een permeabiliteit van 0,95 wordt verondersteld voor het resterende lege deel van het ruim.   
+5.  Bulkcarriers gebouwd vóór 1 juli 1999, waaraan overeenkomstig voorschrift 27(7) van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, als aangenomen op 5 april 1966 een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 3 van dit voorschrift.   
+6.  Bulkcarriers waaraan overeenkomstig de bepalingen van paragraaf (8) van het voorschrift equivalent aan voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, aangenomen bij resolutie A.320(IX), als gewijzigd bij resolutie A.514(13) een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 1 of 2, naargelang van welke van toepassing is.   
 7.  Ten aanzien van bulkcarriers waaraan in overeenstemming met de bepalingen van voorschrift 27(8) van Bijlage B van het Protocol van 1988 met betrekking tot het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, een beperkt vrijboord is toegewezen, moet de evenwichtstoestand na vollopen voldoen aan de desbetreffende bepalingen van dat Protocol.   
 
 ### Voorschrift  5  
@@ -19488,13 +19874,13 @@ Model van Veiligheidscertificaat voor Passagiersschepen
 Dit certificaat dient te worden aangevuld door een Uitrustingsrapport (formulier P)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
 voor een /een korte internationale reis <sup> 1)  Doorhalen wat niet van toepassing is.  </sup> <sup> 1)  Doorhalen wat niet van toepassing is.  </sup> Afgegeven krachtens de bepalingen van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd bij het Protocol van 1988. namens de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 | (naam van de Staat)  |
 | door ————————————————————————  |
@@ -19523,7 +19909,7 @@ Gegevens inzake het schip <sup> 2)  De gegevens inzake het schip kunnen ook hori
 .3 de volgende indelingslastlijnen:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Vastgestelde Indelingslastlijnen zoals deze op het scheepsboord midscheeps zijn aangebracht (voorschrift II-1/18 <sup>4</sup>)  | Uitwatering  | Toe te passen wanneer de passagiersruimten de volgende, beurtelings voor passagiers of goederen gebruikt wordende, afdelingen omvatten  |
 | P.1  | .............................  | ......................................  |
 | P.2  | .............................  | ......................................  |
@@ -19543,7 +19929,7 @@ Gegevens inzake het schip <sup> 2)  De gegevens inzake het schip kunnen ook hori
 
 2.7 dat het schip voldeed aan de eisen van het Verdrag met betrekking tot de navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en zeevaartkundige publikaties;  
 
-2.8 dat het schip was uitgerust met de lichten, dagmerken en middelen voor het geven van geluidseinen en noodseinen in overeenstemming met de eisen van het Verdrag en van de geldende [Internationale Voorschriften ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+2.8 dat het schip was uitgerust met de lichten, dagmerken en middelen voor het geven van geluidseinen en noodseinen in overeenstemming met de eisen van het Verdrag en van de geldende Internationale Voorschriften ter voorkoming van aanvaringen op zee;  
 
 2.9 dat het schip in elk ander opzicht voldeed aan de desbetreffende eisen van het Verdrag;  
 
@@ -19558,7 +19944,7 @@ Gegevens inzake het schip <sup> 2)  De gegevens inzake het schip kunnen ook hori
 3. Dat er een/geen Certificaat van Vrijstelling is afgegeven. <sup> 1)  Doorhalen wat niet van toepassing is.  </sup>   Dit certificaat is geldig tot............................................................................. Datum van afronding van de inspectie waarop dit certificaat gebaseerd is: ..................................................................... *(dd/mm/jjjj)*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -19570,7 +19956,7 @@ Gegevens inzake het schip <sup> 2)  De gegevens inzake het schip kunnen ook hori
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, overeenkomstig voorschrift I/14(d) van het Verdrag, als geldig te worden aanvaard tot..........................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19581,7 +19967,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Dit certificaat dient, in overeenstemming met voorschrift I/14(e) of- I/14(f) van het Verdrag, als geldig te worden aanvaard tot.....................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19597,7 +19983,7 @@ Dit rapport dient permanent aan het Veiligheidseertificaat voor Passagiersschepe
 2. Gegevens inzake de reddingmiddelen  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Totaal aantal personen waarvoor reddingmiddelen aanwezig zijn  | ......................................  |
 | --- | Bakboord  | Stuurboord  |
 | 2 Totaal aantal reddingboten  | ........................  | ........................  |
@@ -19638,7 +20024,7 @@ Dit rapport dient permanent aan het Veiligheidseertificaat voor Passagiersschepe
 3. Gegevens inzake radiovoorzieningen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Soort  | Aanwezig  |
 | 1 Primaire systemen  | --- |
 | 1.1 VHF-radio-installatie  | --- |
@@ -19671,7 +20057,7 @@ Dit rapport dient permanent aan het Veiligheidseertificaat voor Passagiersschepe
 4. Gehanteerde methoden ter waarborging van de beschikbaarheid van radiovoorzieningen (voorschriften IV/15.6 en 15.7)  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 4.1  | Dubbele uitrusting  | .............................................  |
 | 4.2  | Onderhoud aan de wal  | ..........................................  |
 | 4.3  | Vermogen tot onderhoud op zee  | .............................................  |
@@ -19679,7 +20065,7 @@ Dit rapport dient permanent aan het Veiligheidseertificaat voor Passagiersschepe
 5. Navigatiesystemen en -apparatuur  
 
 |--- | Soort  | Aanwezig  |
-|:---|:---|:---|
+|---|---|---|
 | 1.1  | Magnetisch standaardkompas*  | ...............  |
 | 1.2  | Magnetisch reservekompas*  | ...............  |
 | 1.3  | Gyrokompas*  | ...............  |
@@ -19719,7 +20105,7 @@ Dit rapport dient permanent aan het Veiligheidseertificaat voor Passagiersschepe
 * Ingevolge voorschrift V/19 mogen vervangende voorzieningen aanwezig zijn om aan dit vereiste te voldoen. Indien andere voorzieningen worden gebruikt, moet worden vermeld welke dit zijn. ** Doorhalen wat niet van toepassing is.   Dit certificaat is geldig tot ............................................................ Datum van afronding van de inspectie waarop dit certificaat gebaseerd is: ..................................................................... *(dd/mm/jjjj)*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -19731,13 +20117,13 @@ Dit rapport dient permanent aan het Veiligheidseertificaat voor Passagiersschepe
 ###VEILIGHEIDSCONSTRUCTIECERTIFICAAT VOOR VRACHTSCHEPEN
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
 Afgegeven krachtens de bepalingen van het Internationaal Verdrag tot Beveiliging van Mensenlevens op Zee, 1974, zoals gewijzigd bij het Protocol van 1988 namens de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 | (naam van de Staat)  |
 | door ————————————————————————  |
@@ -19760,7 +20146,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 3. Dat de laatste twee inspecties van het vlak van het schip aan de buitenzijde plaats vonden op  
 
 | --- |
-|:---|
+|---|
 | ......................................... en .......................................  |
 | (data)  |
 
@@ -19775,7 +20161,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 6. aan dit certificaat een/geen Document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur is gehecht. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup> <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>   Dit certificaat is geldig tot onder voorbehoud van de jaarlijkse en tussentijdse onderzoeken en inspecties van het vlak van het schip aan de buitenzijde in overeenstemming met voorschrift I/10 van het Verdrag. <sup> 5)  De vervaldatum invullen zoals bepaald door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met de verjaardatum zoals omschreven in voorschrift I/2(n) van het Verdrag, tenzij gewijzigd in overeenstemming met voorschrift I/14(h).  </sup> Datum van afronding van de inspectie waarop dit certificaat gebaseerd is: ..................................................................... *(dd/mm/jjjj)*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -19787,14 +20173,14 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 Ondergetekende verklaart dat bij een onderzoek als vereist in voorschrift I/10 van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | --- | Plaats: ......................................  |
 | --- | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/Tussentijds onderzoek <sup>4)</sup>  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | --- | Plaats: ......................................  |
 | --- | Datum: ......................................  |
@@ -19803,7 +20189,7 @@ Ondergetekende verklaart dat bij een onderzoek als vereist in voorschrift I/10 v
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/Tussentijds onderzoek <sup>4)</sup>  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | --- | Plaats: ......................................  |
 | --- | Datum: ......................................  |
@@ -19812,7 +20198,7 @@ Ondergetekende verklaart dat bij een onderzoek als vereist in voorschrift I/10 v
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | --- | Plaats: ......................................  |
 | --- | Datum: ......................................  |
@@ -19823,7 +20209,7 @@ Ondergetekende verklaart dat bij een onderzoek als vereist in voorschrift I/10 v
 Ondergetekende verklaart dat bij een jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19834,14 +20220,14 @@ Ondergetekende verklaart dat bij een jaarlijks/tussentijds onderzoek in overeens
 <sup> 6)  Er kan worden voorzien in meer inspecties.  </sup> Ondergetekende verklaart dat bij een inspectie als vereist in voorschrift I/10 van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Eerste inspectie:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Tweede inspectie:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19852,7 +20238,7 @@ Ondergetekende verklaart dat bij een jaarlijks/tussentijds onderzoek in overeens
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en in overeenstemming met voorschrift I/14(c) van het Verdrag dient dit certificaat als geldig te worden aanvaard tot ................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19863,7 +20249,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en in overeenstemm
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, in overeenstemming met voorschrift I/14(d) van het Verdrag, als geldig te worden aanvaard tot ....................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19874,7 +20260,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/I/14(f) van het Verdrag, als geldig te worden aanvaard tot .............................. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19885,7 +20271,7 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/I/14(f) van he
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum ...................................................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19894,7 +20280,7 @@ In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaard
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum ...................................................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19907,13 +20293,13 @@ In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaard
 Dit certificaat dient te worden aangevuld door een Uitrustingsrapport (formulier E)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
 Afgegeven krachtens de bepalingen van het Internationaal Verdrag voor de Beveiliging van Mensenlevens op zee, 1974, zoals gewijzigd bij het Protocol van 1988 namens de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 | (naam van de Staat)  |
 | door ————————————————————————  |
@@ -19933,7 +20319,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 
 2.4 het schip voldeed aan de eisen van het Verdrag met betrekking tot de navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en zeevaartkundige publikaties;  
 
-2.5 het schip was uitgerust met de lichten, dagmerken en middelen voor het geven van geluidseinen en noodseinen in overeenstemming met de eisen van het Verdrag en van de geldende [Internationale Voorschriften ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+2.5 het schip was uitgerust met de lichten, dagmerken en middelen voor het geven van geluidseinen en noodseinen in overeenstemming met de eisen van het Verdrag en van de geldende Internationale Voorschriften ter voorkoming van aanvaringen op zee;  
 
 2.6 het schip in elk ander opzicht voldeed aan de desbetreffende eisen van het Verdrag;  
 
@@ -19954,7 +20340,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 6. aan dit Certificaat een/geen/ Document van goedkeuring voor vervangende ontwerpen en voorzieningen is gehecht. <sup> 4  Doorhalen wat niet van toepassing is.  </sup>   Dit certificaat is geldig tot ............................. onder voorbehoud van de jaarlijkse en periodieke onderzoeken in overeenstemming met voorschrift I/8 van het Verdrag. <sup> 5)  De vervaldatum invullen zoals bepaald door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en de maand van deze datum komen overeen met de verjaardatum zoals omschreven in voorschrift I/2(n) van het Verdrag, tenzij gewijzigd in overeenstemming met voorschrift I/14(h).  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
 | (Datum van afgifte)  | (Handtekening van de bevoegde ambtenaar die het certificaat afgeeft)  |
@@ -19965,14 +20351,14 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 Ondergetekende verklaart dat bij een onderzoek zoals vereist in voorschrift I/8 van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/periodiek <sup>4)</sup> onderzoek:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19981,7 +20367,7 @@ Ondergetekende verklaart dat bij een onderzoek zoals vereist in voorschrift I/8 
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/periodiek <sup>4)</sup> onderzoek:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -19990,7 +20376,7 @@ Ondergetekende verklaart dat bij een onderzoek zoals vereist in voorschrift I/8 
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20001,7 +20387,7 @@ Ondergetekende verklaart dat bij een onderzoek zoals vereist in voorschrift I/8 
 Ondergetekende verklaart dat bij een jaarlijks/periodiek onderzoek in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20012,7 +20398,7 @@ Ondergetekende verklaart dat bij een jaarlijks/periodiek onderzoek in overeenste
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat, dient in overeenstemming met voorschrift I/14(c) van het Verdrag, als geldig te worden aanvaard tot ................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................  |
 | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
@@ -20024,7 +20410,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, in overeenstemming met voorschrift I/14(d) van het Verdrag, als geldig te worden aanvaard tot .............................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20035,7 +20421,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/I/14(f) van het Verdrag, als geldig te worden aanvaard tot .................................................................................................. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20046,7 +20432,7 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/I/14(f) van he
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum .......................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20055,7 +20441,7 @@ In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaard
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum .......................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20071,7 +20457,7 @@ Dit rapport dient permanent aan het Veiligheidscertificaat voor Vrachtschepen te
 2. Gegevens inzake de reddingmiddelen  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Totaal aantal personen waarvoor reddingmiddelen aanwezig zijn  | ..........................................  |
 | --- | Bakboord  | Stuurboord  |
 | 2 Totaal aantal reddingboten  | .....................  | .....................  |
@@ -20112,7 +20498,7 @@ Dit rapport dient permanent aan het Veiligheidscertificaat voor Vrachtschepen te
 3 Navigatiesystemen en -apparatuur  
 
 |--- | Soort  | Aanwezig  |
-|:---|:---|:---|
+|---|---|---|
 | 1.1  | Magnetisch standaardkompas*  | . . . . . . . .  |
 | 1.2  | Magnetisch reservekompas*  | . . . . . . . .  |
 | 1.3  | Gyrokompas*  | . . . . . . . .  |
@@ -20154,7 +20540,7 @@ Dit rapport dient permanent aan het Veiligheidscertificaat voor Vrachtschepen te
 * Ingevolge voorschrift V/19 mogen vervangende voorzieningen aanwezig zijn om aan dit vereiste te voldoen. Indien andere voorzieningen worden gebruikt, moet worden vermeld welke dit zijn. ** Doorhalen wat niet van toepassing is.   Dit certificaat is geldig tot............................................................................. Datum van afronding van de inspectie waarop dit certificaat gebaseerd is: .......................................................... *(dd/mm/jjjj)*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20168,13 +20554,13 @@ Dit rapport dient permanent aan het Veiligheidscertificaat voor Vrachtschepen te
 Dit certificaat dient te worden aangevuld door een uitrustingsrapport betreffende Radiovoorzieningen (formulier R)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
 Afgegeven krachtens de bepalingen van het Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974, zoals gewijzigd bij het Protocol van 1988 namens de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 | (naam van de Staat)  |
 | door ————————————————————————  |
@@ -20193,7 +20579,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 3. Dat er een/geen Certificaat van Vrijstelling is afgegeven. <sup> 3)  Doorhalen wat niet van toepassing is  </sup>   Dit certificaat is geldig tot ............................................. onder voorbehoud van de periodieke onderzoeken in overeenstemming met voorschrift I/9 van het Verdrag. <sup> 4)  De vervaldatum invullen zoals bepaald door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en de maand van deze datum komen overeen met de verjaardatum zoals omschreven in voorschrift I/2(n) van het Vertdrag, tenzij gewijzigd in overeenstemming met voorschrift I/14(h).  </sup> Datum van afronding van de inspectie waarop dit certificaat gebaseerd is: .......................................................... *(dd/mm/jjjj)*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20205,28 +20591,28 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 Ondergetekende verklaart dat bij een onderzoek zoals vereist in voorschrift I/9 van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20237,7 +20623,7 @@ Ondergetekende verklaart dat bij een onderzoek zoals vereist in voorschrift I/9 
 Ondergetekende verklaart dat, bij een periodiek onderzoek in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20248,7 +20634,7 @@ Ondergetekende verklaart dat, bij een periodiek onderzoek in overeenstemming met
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, in overeenstemming met voorschrift I/14(c) van het Verdrag als geldig te worden aanvaard tot .............................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20259,7 +20645,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, in overeenstemming met voorschrift I/14(d) van het Verdrag, als geldig te worden aanvaard tot ..............................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20270,7 +20656,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/ I/14(f) als geldig te worden aanvaard tot ................................................................................. <sup> 3)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20281,7 +20667,7 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/ I/14(f) als g
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum .................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20290,7 +20676,7 @@ In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaard
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum ............................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20306,7 +20692,7 @@ Dit rapport dient permanent aan het Radioveiligheidseertificaat voor Vrachtschep
 2. Gegevens inzake radio voorzieningen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Soort  | Aanwezig  |
 | 1 Primaire systemen  | --- |
 | 1.1 VHF-radio-installatie  | --- |
@@ -20336,7 +20722,7 @@ Dit rapport dient permanent aan het Radioveiligheidseertificaat voor Vrachtschep
 3. Navigatiesystemen en -apparatuur  
 
 |--- | Soort  | Aanwezig  |
-|:---|:---|:---|
+|---|---|---|
 | 1.1  | Magnetisch standaardkompas*  | ...............  |
 | 1.2  | Magnetisch reservekompas*  | ...............  |
 | 1.3  | Gyrokompas*  | ...............  |
@@ -20377,7 +20763,7 @@ Dit rapport dient permanent aan het Radioveiligheidseertificaat voor Vrachtschep
 4.1 Voor schepen die in overeenstemming met het geldende Verdrag voor 1 februari 1992 moeten zijn uitgerust met radiotelegrafie  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | --- | Eisen van de voorschriften  | Aanwezig  |
 | Luisteruren door de radiotelegrafist  | ........................................  | ..............................  |
 | Aantal radiotelegrafisten  | ........................................  | ..............................  |
@@ -20389,7 +20775,7 @@ Dit rapport dient permanent aan het Radioveiligheidseertificaat voor Vrachtschep
 4.2 Voor schepen die in overeenstemming met het geldende Verdrag voor 1 februari 1992 moeten zijn uitgerust met radiotelegrafie  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | --- | Eisen van de voorschriften  | Aanwezig  |
 | Luisteruren  | ........................................  | ..............................  |
 | Aantal radiotelefonisten  | ........................................  | ..............................  |
@@ -20397,7 +20783,7 @@ Dit rapport dient permanent aan het Radioveiligheidseertificaat voor Vrachtschep
 Ondergetekende verklaart dat dit rapport in alle opzichten juist is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20411,13 +20797,13 @@ Ondergetekende verklaart dat dit rapport in alle opzichten juist is.
 Dit certificaat dient te worden aangevuld door een uitrustingsrapport (Formulier C)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
 Afgegeven krachtens de bepalingen van het Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974, zoals gewijzigd bij het Protocol van 1988 namens de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 | (naam van de Staat)  |
 | door ————————————————————————  |
@@ -20434,7 +20820,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 2.2 dat de laatste twee inspecties van het vlak van het schip aan de buitenzijde plaats vonden op  
 
 | --- |
-|:---|
+|---|
 | .............. en ................  |
 | data  |
 
@@ -20450,7 +20836,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 
 2.8 dat het schip voldeed aan de eisen van het Verdrag met betrekking tot de navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en zeevaartkundige publikaties;  
 
-2.9 dat het schip was uitgerust met de lichten, dagmerken en middelen voor het geven van geluidseinen en noodseinen in overeenstemming met de eisen van het Verdrag en van de geldende [Internationale Voorschriften ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+2.9 dat het schip was uitgerust met de lichten, dagmerken en middelen voor het geven van geluidseinen en noodseinen in overeenstemming met de eisen van het Verdrag en van de geldende Internationale Voorschriften ter voorkoming van aanvaringen op zee;  
 
 2.10 dat het schip in elk ander opzicht voldeed aan de desbetreffende eisen van het Verdrag;  
 
@@ -20463,7 +20849,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 4. Dat er een/geen Certificaat van vrijstelling is afgegeven. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>   Dit certificaat is geldig tot ........................ onder voorbehoud van de jaarlijkse, tussentijdse en periodieke onderzoeken en inspecties van het vlak van het schip aan de buitenzijde in overeenstemming met de voorschriften I/8, I/9 en I/10 van het Verdrag. <sup> 5)  De vervaldatum invullen zoals bepaald door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met de verjaardatum zoals omschreven in voorschrift I/2(n) van het Verdrag, tenzij gewijzigd in overeenstemming met voorschrift I/14(h).  </sup> Datum van afronding van de inspectie waarop dit certificaat gebaseerd is: .......................................................... *(dd/mm/jjjj)*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20475,14 +20861,14 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/10 van het Verdrag, is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/tussentijds onderzoek: <sup>4)</sup>  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20491,7 +20877,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/1
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/tussentijds onderzoek: <sup>4)</sup>  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20500,7 +20886,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/1
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20511,7 +20897,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/1
 Ondergetekende verklaart dat, bij een jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20522,14 +20908,14 @@ Ondergetekende verklaart dat, bij een jaarlijks/tussentijds onderzoek in overeen
 <sup> 6)  Er kan worden voorzien in meer inspecties.  </sup> Ondergetekende verklaart dat, bij een inspectie zoals vereist in voorschrift I/20 van het Verdrag, is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Eerste inspectie:  | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Tweede inspectie:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20540,14 +20926,14 @@ Ondergetekende verklaart dat, bij een jaarlijks/tussentijds onderzoek in overeen
 Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/8 van het Verdrag, is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/Periodiek onderzoek: <sup>4)</sup>  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20556,7 +20942,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/8
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/Periodiek onderzoek: <sup>4)</sup>  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20565,7 +20951,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/8
 <sup>4)</sup> Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20576,7 +20962,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/8
 Ondergetekende verklaart dat, bij een jaarlijks/periodiek onderzoek in overeenstemming met de voorschriften I/8 en I/14(h)(iii) van het Verdrag, is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20587,28 +20973,28 @@ Ondergetekende verklaart dat, bij een jaarlijks/periodiek onderzoek in overeenst
 Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/9 van het Verdrag, is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
 | (Zegel of stempel van de autoriteit)  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Periodiek onderzoek:  | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20619,7 +21005,7 @@ Ondergetekende verklaart dat, bij een onderzoek zoals vereist in voorschrift I/9
 Ondergetekende verklaart dat, bij een periodiek onderzoek in overeenstemming met de voorschriften I/9 en I/14(h)(iii) van het Verdrag, is geconstateerd dat het schip voldoet aan de desbetreffende eisen van het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20630,7 +21016,7 @@ Ondergetekende verklaart dat, bij een periodiek onderzoek in overeenstemming met
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, in overeenstemming met voorschrift I/14(c) van het Verdrag, als geldig te worden aanvaard tot: ........................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20641,7 +21027,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat dient, in overeenstemming met voorschrift I/14(d) van het Verdrag, als geldig te worden aanvaard tot .................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20652,7 +21038,7 @@ Het schip voldoet aan de desbetreffende eisen van het Verdrag en dit certificaat
 Dit certificaat dient, in overeenstemming met voorschrift I/14(e) of I/14(f) van het Verdrag, als geldig te worden aanvaard tot ................................. <sup> 4)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20663,7 +21049,7 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(e) of I/14(f) van
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20672,7 +21058,7 @@ In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaard
 In overeenstemming met voorschrift I/14(h) van het Verdrag is de nieuwe verjaardatum .................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van de bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20688,7 +21074,7 @@ Dit rapport dient permanent te zijn gehecht aan het Veiligheidscertiflcaat voor 
 2. Gegevens inzake de reddingmiddelen  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Totaal aantal personen waarvoor reddingmiddelen aanwezig zijn  | ...............................................................  |
 | --- | Bakboord  | Stuurboord  |
 | 2 Totaal aantal reddingboten  | ......................  | ......................  |
@@ -20734,7 +21120,7 @@ Dit rapport dient permanent te zijn gehecht aan het Veiligheidscertiflcaat voor 
 3. Gegevens inzake radio voorzieningen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Soort  | Aanwezig  |
 | 1 Primaire systemen  | --- |
 | 1.1 VHF-radio-installatie:  | --- |
@@ -20767,7 +21153,7 @@ Dit rapport dient permanent te zijn gehecht aan het Veiligheidscertiflcaat voor 
 4. Methoden gebruikt ter waarborging van de beschikbaarheid van radiovoorzieningen (voorschriften IV/15.6 en 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 4.1 Dubbele uitrusting  | ...........................................................  |
 | 4.2 Onderhoud aan de wal  | ...........................................................  |
 | 4.3 Vermogen tot onderhoud op zee  | ...........................................................  |
@@ -20775,7 +21161,7 @@ Dit rapport dient permanent te zijn gehecht aan het Veiligheidscertiflcaat voor 
 5. Gegevens inzake navigatiesystemen en -apparatuur  
 
 |--- | Soort  | Aanwezig  |
-|:---|:---|:---|
+|---|---|---|
 | 1.1  | Magnetisch standaardkompas*  | . . . . . . . .  |
 | 1.2  | Magnetisch reservekompas*  | . . . . . . . .  |
 | 1.3  | Gyrokompas*  | . . . . . . . .  |
@@ -20815,7 +21201,7 @@ Dit rapport dient permanent te zijn gehecht aan het Veiligheidscertiflcaat voor 
 * Ingevolge voorschrift V/19 mogen vervangende voorzieningen aanwezig zijn om aan dit vereiste te voldoen. Indien andere voorzieningen worden gebruikt, moet worden vermeld welke dit zijn. ** Doorhalen wat niet van toepassing is.   Ondergetekende verklaart dat dit rapport in alle opzichten juist is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20827,13 +21213,13 @@ Dit rapport dient permanent te zijn gehecht aan het Veiligheidscertiflcaat voor 
 ###CERTIFICAAT VAN VRIJSTELLING
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
 Afgegeven krachtens de bepalingen van het Internationaal Verdrag voor de Beveiliging van Mensenlevens op zee, 1974, zoals gewijzigd bij het Protocol van 1988 namens de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 | (naam van de Staat)  |
 | door ————————————————————————  |
@@ -20842,7 +21228,7 @@ Afgegeven krachtens de bepalingen van het Internationaal Verdrag voor de Beveili
 Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook horizontaal, in naast elkaar geplaatste vakjes, worden vermeld.  </sup> Naam van het schip............................................................................ Onderscheidingsnummer of -letters ..................................................... Haven van registratie........................................................................... Bruto-inhoud in registertonnen.............................................................. IMO-nummer ............................................................ <sup> 2)  In overeenstemming met het IMO-scheepsidentificatienummersysteem dat door de Organisatie is aangenomen bij resolutie A.600 (15).  </sup> Ondergetekende verklaart: Dat het schip, op grond van voorschrift .... van het Verdrag, is vrijgesteld van de eisen vervat in ..................................... van het Verdrag. Eventuele voorwaarden, waarop het Certificaat van Vrijstelling is afgegeven: ................................................................................................................................................................................................. Eventuele reizen waarvoor het Certificaat van Vrijstelling is afgegeven: ................................................................................................................................... Dit certificaat is geldig tot .................................. onder voorbehoud dat het ............................................................... certificaat, waaraan dit certificaat is gehecht, geldig blijft.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20854,7 +21240,7 @@ Gegevens inzake het schip <sup> 1)  De gegevens inzake het schip kunnen ook hori
 Dit certificaat dient, in overeenstemming met voorschrift I/14(c) van het Verdrag, als geldig te worden aanvaard tot ............................... onder voorbehoud dat het ........................................ certificaat, waaraan dit certificaat is gehecht, geldig blijft.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20865,7 +21251,7 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(c) van het Verdra
 Dit certificaat dient, in overeenstemming met voorschrift I/14(d) van het Verdrag, als geldig te worden aanvaard tot onder voorbehoud dat het certificaat, waaraan dit certificaat is gehecht, geldig blijft.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20876,7 +21262,7 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(d) van het Verdra
 Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/I/14(f) van het Verdrag, als geldig te worden aanvaard tot ................ onder voorbehoud dat het .......... certificaat, waaraan dit certificaat is gehecht, geldig blijft. <sup> 3)  Doorhalen wat niet van toepassing is.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend: ........................................(Handtekening van bevoegde ambtenaar)  |
 | Plaats: ......................................  |
 | Datum: ......................................  |
@@ -20889,13 +21275,13 @@ Dit certificaat dient, in overeenstemming met voorschrift I/14(e)/I/14(f) van he
 Dit certificaat wordt aangevuld met een uitrustingsrapport (Formulier PNUC)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | (Officieel zegel)  | (Staat)  |
 
-voor een/een korte internationale reis <sup> 1  Doorhalen wat niet van toepassing is.  </sup> Afgegeven uit hoofde van de bepalingen van het INTERNATIONAAL VERDRAG VOOR DE BEVEILIGING VAN MENSENLEVENS OP ZEE, 1974, als gewijzigd door het Protocol van 1988 daarbij onder het gezag van de Regering van  
+voor een/een korte internationale reis <sup> 1  Doorhalen wat niet van toepassing is.  </sup> Afgegeven uit hoofde van de bepalingen van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, als gewijzigd onder het gezag van de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 |  *(naam van de Staat)*   |
 | door ————————————————————————  |
@@ -20916,7 +21302,7 @@ voor een/een korte internationale reis <sup> 1  Doorhalen wat niet van toepassin
 .3 de volgende indelingslastlijnen:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | De toegewezen en midscheeps in de scheepszijde gemarkeerde indelingslastlijnen (voorschrift II-1/18 <sup>3</sup>)  | Vrijboord  | Toe te passen wanneer ruimten waarin passagiers worden vervoerd de volgende alternatieve ruimten omvatten  |
 | P.1  | .............................  | ......................................  |
 | P.2  | .............................  | ......................................  |
@@ -20938,7 +21324,7 @@ voor een/een korte internationale reis <sup> 1  Doorhalen wat niet van toepassin
 
 2.8 het schip voldoet aan de vereisten van het Verdrag ten aanzien van de aanwezigheid aan boord van navigatieapparatuur, middelen om loodsen aan boord te nemen en nautische publicaties;  
 
-2.9 het schip is uitgerust met lichten, dagmerken en middelen om geluidssignalen en noodsignalen af te geven in overeenstemming met de vereisten van het Verdrag en van de van kracht zijnde [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+2.9 het schip is uitgerust met lichten, dagmerken en middelen om geluidssignalen en noodsignalen af te geven in overeenstemming met de vereisten van het Verdrag en van de van kracht zijnde Internationale Bepalingen ter voorkoming van aanvaringen op zee;  
 
 2.10 het schip in alle andere opzichten voldoet aan de desbetreffende vereisten van het Verdrag;  
 
@@ -20947,7 +21333,7 @@ voor een/een korte internationale reis <sup> 1  Doorhalen wat niet van toepassin
 2.12 aan dit certificaat een/geen Document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur/reddingsmiddelen en -voorzieningen is gehecht. <sup> 1)  Doorhalen wat niet van toepassing is.  </sup> <sup> 1)  Doorhalen wat niet van toepassing is.  </sup>     Dit certificaat is geldig tot ..................................................................... Datum van voltooiing van liet onderzoek waarop dit certificaat gebaseerd is .................................................. *dd/mm/jjjj*  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- | (Plaats van afgifte van het certificaat)  |
 | ...........................  | ...............................................................  |
@@ -20957,14 +21343,14 @@ voor een/een korte internationale reis <sup> 1  Doorhalen wat niet van toepassin
 ###UITRUSTINGSRAPPORT VOOR HET VEILIGHEIDSCERTIFICAAT VOOR NUCLEAIRE PASSAGIERSSCHEPEN (FORMULIER PNUC)
 
 Dit rapport moet permanent gehecht zijn aan het Veiligheidscertificaat voor nucleaire passagiersschepen 
-###UITRUSTINGSRAPPORT TER NALEVING VAN HET INTERNATIONAAL VERDRAG VOOR DE BEVEILIGING VAN MENSENLEVENS OP ZEE, 1974, ALS GEWIJZIGD DOOR HET PROTOCOL VAN 1988 DAARBIJ
+###Uitrustingsrapport ter naleving van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, als gewijzigd
 
 1 Gegevens inzake het schip Naam van het schip................................................................................................ Onderscheidingsnummer of -letters ......................................................................... Aantal passagiers dat mag worden vervoerd.............................................................. Minimumaantal personen met de vereiste kwalificaties om de radio-installaties te bedienen ............................................  
 
 2 Gegevens met betrekking tot reddingsmiddelen  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1 Totaal aantal personen waarvoor reddingsmiddelen aanwezig zijn  | .............................................  |
 | --- | Bakboordzijde  | Stuurboordzijde  |
 | 2 Totaal aantal reddingsboten  | ...................  | ...................  |
@@ -21005,7 +21391,7 @@ Dit rapport moet permanent gehecht zijn aan het Veiligheidscertificaat voor nucl
 3. Gegevens met betrekking tot radiovoorzieningen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Aanwezig  |
 | 1 Primaire systemen  | --- |
 | 1.1 VHF-radio-installatie  | --- |
@@ -21038,7 +21424,7 @@ Dit rapport moet permanent gehecht zijn aan het Veiligheidscertificaat voor nucl
 4. Methodes om de beschikbaarheid van radiovoorzieningen te waarborgen(voorschriften IV/15.6 en 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 4.1 Verdubbeling van de apparatuur  | .....................................................  |
 | 4.2 Onderhoud aan de wal  | .....................................................  |
 | 4.3 Onderhoudsmogelijkheden op zee  | .....................................................  |
@@ -21046,7 +21432,7 @@ Dit rapport moet permanent gehecht zijn aan het Veiligheidscertificaat voor nucl
 5. Gegevens met betrekking tot navigatiesystemen en -apparatuur  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Aanwezig  |
 | 1.1 Magnetisch standaardkompas <sup>2</sup>  | ..............................  |
 | 1.2 Magnetisch reservekompas <sup>2</sup>  | ..............................  |
@@ -21086,7 +21472,7 @@ Dit rapport moet permanent gehecht zijn aan het Veiligheidscertificaat voor nucl
 <sup>2</sup> Doorhalen wat niet van toepassing is <sup>3</sup> Ingevolge voorschrift V/19 mogen vervangende voorzieningen aanwezig zijn om aan dit vereiste te voldoen, Indien andere voorzieningen worden gebruikt, moet worden vermeld welke dit zijn.   ONDERGETEKENDE VERKLAART dat dit rapport in alie opzichten correct is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- |  *(Plaats van afgifte van het certificaat)*   |
 | ...........................  | ...............................................................  |
@@ -21100,13 +21486,13 @@ Dit rapport moet permanent gehecht zijn aan het Veiligheidscertificaat voor nucl
 Dit certificaat wordt aangevuld met een uitrustingsrapport (Formulier CNUC)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *(Officieel stempel)*   |  *(Staat)*   |
 
-Afgegeven uit hoofde van de bepalingen van het INTERNATIONAAL VERDRAG VOOR DE BEVEILIGING VAN MENSENLEVENS OP ZEE, 1974, als gewijzigd door het Protocol van 1988 daarbij onder het gezag van de Regering van  
+Afgegeven uit hoofde van de bepalingen van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, als gewijzigd onder het gezag van de Regering van  
 
 | --- |
-|:---|
+|---|
 | —————————————————————  |
 |  *(naam van de Staat)*   |
 | door ————————————————————————  |
@@ -21142,7 +21528,7 @@ Alle andere vrachtschepen dan de bovenstaande   Datum waarop de kiel werd gelegd
 
 2.7 het schip voldoet aan de vereisten van het Verdrag ten aanzien van de aanwezigheid aan boord van navigatieapparatuur, middelen om loodsen aan boord te nemen en nautische publicaties;  
 
-2.8 het schip is uitgerust met lichten, dagmerken en middelen om geluidssignalen en noodsignalen af te geven in overeenstemming met de vereisten van het Verdrag en van de van kracht zijnde [Internationale Bepalingen ter voorkoming van aanvaringen op zee](../../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+2.8 het schip is uitgerust met lichten, dagmerken en middelen om geluidssignalen en noodsignalen af te geven in overeenstemming met de vereisten van het Verdrag en van de van kracht zijnde Internationale Bepalingen ter voorkoming van aanvaringen op zee;  
 
 2.9 het schip in alle andere opzichten voldoet aan de desbetreffende vereisten van de voorschriften, voor zover deze vereisten op het schip van toepassing zijn.  
 
@@ -21151,7 +21537,7 @@ Alle andere vrachtschepen dan de bovenstaande   Datum waarop de kiel werd gelegd
 2.11 aan dit certificaat een/geen Document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur/reddingsmiddelen en -voorzieningen is gehecht. <sup> 1)  Doorhalen wat niet van toepassing is.  </sup> <sup> 1)  Doorhalen wat niet van toepassing is.  </sup>     Dit certificaat is geldig tot .....................................................................................................................................  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Datum van voltooiing van het onderzoek waarop dit certificaat gebaseerd is  | ..........................................  |
 |  *dd/mm/jjjj*   |
 | Afgegeven te ..........................................................................  |
@@ -21163,14 +21549,14 @@ Alle andere vrachtschepen dan de bovenstaande   Datum waarop de kiel werd gelegd
 ###UITRUSTINGSRAPPORT VOOR HET VEILIGHEIDSCERTIFICAAT VOOR NUCLEAIRE VRACHTSCHEPEN (FORMULIER CNUC)
 
 Dit rapport moet permanent gehecht zijn aan het Velligheidscertificaat voor nucleaire vrachtschepen 
-###UITRUSTINGSRAPPORT TER NALEVING VAN HET INTERNATIONAAL VERDRAG VOOR DE BEVEILIGING VAN MENSENLEVENS OP ZEE, 1974, ALS GEWIJZIGD DOOR HET PROTOCOL VAN 1988 DAARBIJ
+###Uitrustingsrapport ter naleving van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, als gewijzigd
 
 1. Gegevens inzake het schip Naam van het schip............................................................................. Onderscheidingsnummer of -letters ...................................................... Minimumaantal personen met de vereiste kwalificaties om de radio-installaties te bedienen ..............................  
 
 2. Gegevens met betrekking tot reddingsmiddelen  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Totaal aantal personen waarvoor reddingsmiddelen aanwezig zijn  | .................................................................  |
 | --- | Bakboordzijde  | Stuurboordzijde  |
 | 2 Totaal aantal reddingsboten  | ...................  | ...................  |
@@ -21211,7 +21597,7 @@ Dit rapport moet permanent gehecht zijn aan het Velligheidscertificaat voor nucl
 3. Gegevens met betrekking tot radiovoorzieningen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Item  | Aanwezig  |
 | 1 Primaire systemen  | --- |
 | 1.1 VHF-radio-installatie  | --- |
@@ -21244,7 +21630,7 @@ Dit rapport moet permanent gehecht zijn aan het Velligheidscertificaat voor nucl
 4. Methodes om de beschikbaarheid van radiovoorzieningen te waarborgen (voorschriften IV/15.6 en 15.7)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 4.1 Verdubbeling van de apparatuur  | .....................................................  |
 | 4.2 Onderhoud aan de wal  | ..............................................................  |
 | 4.3 Onderhoudsmogelijkheden op zee  | .....................................................  |
@@ -21252,7 +21638,7 @@ Dit rapport moet permanent gehecht zijn aan het Velligheidscertificaat voor nucl
 5. Gegevens met betrekking tot navigatiesystemen en -apparatuur  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Aanwezig  |
 | 1.1 Magnetisch standaardkompas <sup>2</sup>  | ........................  |
 | 1.2 Magnetisch reservekompas <sup>2</sup>  | ........................  |
@@ -21293,7 +21679,7 @@ Dit rapport moet permanent gehecht zijn aan het Velligheidscertificaat voor nucl
 <sup>2</sup> Ingevolge voorschrift V/19 mogen vervangende voorzieningen aanwezig zijn om aan dit vereiste te voldoen. Indien andere voorzieningen worden gebruikt, moet worden vermeld welke dit zijn. <sup>3</sup> Doorhalen wat niet van toepassing is.   ONDERGETEKENDE VERKLAART dat dit rapport in alle opzichten correct is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te ..........................................................................  |
 | --- |  *(Plaats van afgifte van het certificaat)*   |
 | ...........................  | ...............................................................  |

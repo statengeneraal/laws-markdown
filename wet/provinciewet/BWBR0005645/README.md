@@ -1285,10 +1285,10 @@ Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen rege
 
 ### Artikel  136  
 
-1.  Besluiten van het provinciebestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt.   
-2.  De bekendmaking geschiedt door plaatsing in het op een algemeen toegankelijke wijze uit te geven provinciaal blad.   
-3.  Het provinciaal blad kan elektronisch worden uitgegeven. Na de uitgifte blijft het provinciaal blad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte van het provinciaal blad geheel of gedeeltelijk onmogelijk is, voorziet het provinciebestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
-4.  Voor het inzien van een overeenkomstig het tweede lid bekendgemaakt besluit worden geen kosten in rekening gebracht.   
+1.  Besluiten van het provinciebestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt in het provinciaal blad.   
+2.  De uitgifte van het provinciaal blad geschiedt elektronisch op een algemeen toegankelijke wijze. Na de uitgifte blijft het provinciaal blad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte geheel of gedeeltelijk onmogelijk is, voorziet het provinciebestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
+3.  In afwijking van het eerste lid kan een besluit als bedoeld in dat lid bepalen dat een bij het besluit behorende bijlage wordt bekendgemaakt door terinzagelegging.   
+4.  Voor het inzien van een overeenkomstig het eerste lid bekendgemaakt besluit worden geen kosten in rekening gebracht.   
 5.  Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt de dagtekening vermeld van het besluit waarbij die goedkeuring is verleend of wordt de mededeling gedaan van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een besluit tot goedkeuring wordt geacht te zijn genomen.   
 
 ### Artikel  137  
@@ -1655,7 +1655,7 @@ b. door gedeputeerde staten aan derden te verstrekken informatie op basis van de
 4.  De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de artikelen 195, tweede lid, en 204. [Artikel 17a, vierde lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is van overeenkomstige toepassing.   
 5.  Indien Onze Minister vaststelt dat de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, doet hij daarvan mededeling aan gedeputeerde staten.   
 6.  Gedeputeerde staten kunnen tot twee weken voor het verstrijken van de termijnen, bedoeld in het vierde lid, schriftelijk en met redenen omkleed, aan Onze Minister verzoeken om uitstel voor de toezending van de informatie, tot uiterlijk een in dat verzoek te noemen datum. Onze Minister beslist binnen twee weken op dat verzoek.   
-7.  Indien de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, geeft Onze Minister een aanwijzing aan gedeputeerde staten om binnen een maand alsnog informatie van voldoende kwaliteit te leveren.   
+7.  Indien de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, geeft Onze Minister een aanwijzing aan gedeputeerde staten om binnen tien werkdagen alsnog informatie van voldoende kwaliteit te leveren.   
 8.  Indien gedeputeerde staten nalaten de aanwijzing, bedoeld in het zevende lid, op te volgen, kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën besluiten de betalingen op grond van [artikel 15, eerste lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de betreffende provincie geheel of gedeeltelijk op te schorten gedurende ten hoogste zesentwintig weken. [Artikel 17b, vierde, vijfde en zesde lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  191  
@@ -1880,7 +1880,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 ### Artikel  222  
 
 1.  Er kunnen provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting worden geheven van de in de provincie wonende of gevestigde houders van personenauto’s en motorrijwielen, bedoeld in [artikel 2, onderdelen b en d](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [artikel 3 van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en van degenen op wier naam een kenteken als bedoeld in [artikel 62 van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) is gesteld.   
-2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 107,3.   
+2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 109,1.   
 3.  Voor de berekening van het aan opcenten verschuldigde bedrag wordt uitgegaan van het tarief van de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) zoals dat geldt op 1 april 1995, met dien verstande dat: 
 
 a. dit tarief voor motorrijwielen wordt vermenigvuldigd met het tarief zoals dat luidt op 1 april 2007 gedeeld door het tarief zoals dat luidde op 31 maart 2007;  
@@ -1891,7 +1891,9 @@ c. dit tarief voor motorrijtuigen, bedoeld in [artikel 23a, tweede lid, van de W
 
 d. dit tarief voor motorrijtuigen, bedoeld in [artikel 23b van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), nihil bedraagt;  
 
-e. buiten beschouwing blijft de verhoging van de belasting, bedoeld in [artikel 23, tweede lid, van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
+e. buiten beschouwing blijft de verhoging van de belasting, bedoeld in [artikel 23, tweede lid, van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);  
+
+f. indien de hoofdsom en de provinciale opcenten zonder toepassing van [artikel 84a, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), samen meer bedragen dan het maximum, bedoeld in dat artikel, wordt voor de berekening van de provinciale opcenten, het maximum verminderd met de hoofdsom, waarbij het aandeel van de hoofdsom ten hoogste het genoemde maximum kan bedragen.     
 4.  Vanaf 1 januari 2013 wordt bij het begin van het kalenderjaar het aantal opcenten, genoemd in het tweede lid, bij ministeriële regeling van Onze Minister van Financiën vervangen door een ander aantal. Dit aantal wordt berekend door het te vervangen aantal te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet op de inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst, indien deze twee of meer decimalen telt, af te ronden op één decimaal. Indien het aantal opcenten in het voorafgaande jaar is afgerond, wordt de tabelcorrectiefactor toegepast op het niet afgeronde bedrag van het voorgaande jaar.   
 5.  Het aantal opcenten is voor alle motorrijtuigen, bedoeld in het eerste lid, gelijk.   
 6.  Onze Minister van Financiën verstrekt de provinciale besturen jaarlijks vóór 1 september een naar soort, gewichtsklasse en aantal gespecificeerd overzicht van de motorrijtuigen, bedoeld in het eerste lid. Het overzicht wordt opgesteld naar de toestand per 1 juli van het lopende jaar.   
@@ -2109,6 +2111,8 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake provinciale belast
 ### Hoofdstuk  XVI  
 
 ####Het Provinciefonds
+
+Vervallen per 01-01-1998   
 
 ### Titel  V  
 

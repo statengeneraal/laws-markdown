@@ -32,8 +32,8 @@ b. voor méér dan de helft aan buiten het Koninkrijk woonachtige Nederlanders, 
 
 c. voor de helft of meer aan niet-Nederlanders, die direct voorafgaande aan het moment dat de vlaggebrief wordt aangevraagd, reeds gedurende ten minste vijf aaneengesloten volle jaren in Nederland hun woonplaats hebben, of  
 
-d. voor de helft of meer aan een rechtspersoon of vennootschap die niet voldoet aan de vereisten, bedoeld in het tweede lid, waarvan de statutaire zetel of de plaats van waaruit het bedrijf wordt uitgeoefend, blijkens het register van de Kamer van Koophandel en Fabrieken, in Nederland is gelegen, met dien verstande dat de rechtspersoon of vennootschap direct voorafgaande aan het moment dat de vlaggebrief wordt aangevraagd reeds gedurende ten minste vijf aaneengesloten volle jaren in voornoemd register is ingeschreven.     
-2.  In het eerste lid onder a en b worden onder Nederlanders mede verstaan de rechtspersonen en vennootschappen die voldoen aan de vereisten, genoemd in [artikel 311 van het Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md).   
+d. voor de helft of meer aan een rechtspersoon of vennootschap die niet voldoet aan de vereisten, bedoeld in het tweede lid, waarvan de statutaire zetel of de plaats van waaruit het bedrijf wordt uitgeoefend, blijkens het handelsregister van de Kamer van Koophandel, in Nederland is gelegen, met dien verstande dat de rechtspersoon of vennootschap direct voorafgaande aan het moment dat de vlaggebrief wordt aangevraagd reeds gedurende ten minste vijf aaneengesloten volle jaren in voornoemd register is ingeschreven.     
+2.  In het eerste lid onder a en b worden onder Nederlanders mede verstaan de rechtspersonen en vennootschappen die voldoen aan de vereisten, genoemd in artikel 311 van het Wetboek van Koophandel.   
 
 ### Artikel  3  
 
@@ -50,7 +50,7 @@ d. de eerder aan hem voor hetzelfde pleziervaartuig ingevolge deze regeling vers
 
 a. een bewijs van eigendom van het pleziervaartuig en  
 
-b. een uittreksel uit het persoonsregister van zijn woonplaats, waarin vermeld zijn: naam, voornemen en adres. Indien de aanvrager buiten het Koninkrijk woonachtig is, kan worden volstaan met een bewijs van aanmelding bij een Nederlandse diplomatieke of consulaire vertegenwoordiging, waarin vermeld zijn naam voornemen en adres. Indien de aanvrager een rechtspersoon of vennootschap is, dient tevens te worden overgelegd een bewijs van inschrijving in het handelsregister bij de Kamer van Koophandel en Fabrieken. Het uittreksel mag niet ouder zijn dan dertig dagen.  
+b. een uittreksel uit het persoonsregister van zijn woonplaats, waarin vermeld zijn: naam, voornemen en adres. Indien de aanvrager buiten het Koninkrijk woonachtig is, kan worden volstaan met een bewijs van aanmelding bij een Nederlandse diplomatieke of consulaire vertegenwoordiging, waarin vermeld zijn naam voornemen en adres. Indien de aanvrager een rechtspersoon of vennootschap is, dient tevens te worden overgelegd een bewijs van inschrijving in het handelsregister bij de Kamer van Koophandel. Het uittreksel mag niet ouder zijn dan dertig dagen.  
 
 c. een bewijsstuk, gesteld in de Nederlandse, Engelse of Franse taal, waaruit de nationaliteit blijkt van de aanvrager, zijnde een natuurlijk persoon, dan wel indien het betreft een rechtspersoon of vennootschap: de bestuurders of beherende vennoten.     
 3.  De aangewezen organisaties kunnen overlegging vragen van andere bescheiden, die naar hun oordeel nodig zijn voor de behandeling van de aanvraag.   
@@ -126,5 +126,5 @@ N.Smit-Kroes
 
 ### Bijlage  
 
-![42672](http://wetten.overheid.nl/Illustration/42672)
+![]()
 

@@ -276,7 +276,8 @@ c. de maatregelen en procedures in geval van dreiging van onwettige daden van ge
 
 d. andere bij algemene maatregel van bestuur te bepalen onderwerpen.     
 3.  Met het oog op de afstemming met het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), wordt het bestuur van de veiligheidsregio in de gelegenheid gesteld zijn zienswijze te geven over een ontwerp van een plan als bedoeld in het eerste lid of een wijziging van dat plan.   
-4.  Indien een onderdeel van het plan niet wordt uitgevoerd, kan Onze Minister van Justitie de exploitant van een luchtvaartterrein een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het plan aangegeven niveau van beveiliging te benaderen.   
+4.  De exploitant van een luchtvaartterrein informeert uit eigen beweging Onze Minister en Onze Minister van Justitie indien het plan door omstandigheden niet kan worden uitgevoerd of daarin wijzigingen worden aangebracht. Hij verstrekt desgevraagd Onze Ministers informatie over de beveiliging van het luchtvaartterrein.   
+5.  Indien een onderdeel van het plan niet wordt uitgevoerd, kan Onze Minister van Justitie de exploitant van een luchtvaartterrein een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het plan aangegeven niveau van beveiliging te benaderen.   
 
 ### §  3  
 
@@ -327,7 +328,8 @@ c. een onderzoek, indien daartoe aanleiding is, van meegevoerde goederen en aan 
 
 ### Artikel  37ha  
 
-Een lid van het beveiligingspersoneel belast met de controle, dat daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijze moet vermoeden, en voor wie niet reeds uit hoofde van ambt of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak de noodzaak tot bekendmaking voortvloeit.  
+1.  Een lid van het beveiligingspersoneel belast met de controle, dat de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijze moet vermoeden, en voor wie niet reeds uit hoofde van ambt of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak de noodzaak tot bekendmaking voortvloeit.   
+2.  Een gelijke verplichting bestaat voor degene die anders dan bedoeld in het eerste lid ten behoeve van de beveiliging van de burgerluchtvaart een vertrouwensfunctie als bedoeld in [artikel 3 van de Wet veiligheidsonderzoeken](../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) vervult.   
 
 ### Artikel  37hb  
 
@@ -526,8 +528,10 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling,
 5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.   
 6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het Staatsblad.   
 
-### Artikel  58  
+### Artikel  58   
+Treedt in werking op een nader te bepalen tijdstip   
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen, dat houders van luchtvaartuigen op daartoe strekkende aanwijzing door Onze Minister verplicht zijn met deze vervoermiddelen het vervoer van bepaalde personen of zaken te bewerkstelligen en de vervoermiddelen daartoe volledig uitgerust op een aangewezen plaats ter beschikking te stellen; deze plaats, alsmede de plaats van bestemming kunnen buiten Nederland zijn gelegen.   
 2.  De aanwijzing wordt zo mogelijk schriftelijk gegeven; een op andere wijze gegeven aanwijzing wordt zo spoedig mogelijk door een schriftelijke aanwijzing gevolgd. Voor de aanvang van het vervoer wordt de vervoerder medegedeeld te wiens behoeve het vervoer plaats vindt.   
 3.  Met betrekking tot het in het eerste lid bedoelde vervoer gelden tussen de vervoerder en hem te wiens behoeve het vervoer plaats vindt de voor soortgelijk vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de door Onze Minister vastgestelde tarieven en voorwaarden.   
@@ -535,15 +539,19 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling,
 5.  Onze Minister kan aan de houder van luchtvaartuigen aan wie een aanwijzing is gegeven krachtens het eerste lid, een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door betrokkene gemaakt vanwege de naleving van de aanwijzing.   
 6.  Bij algemene maatregel van bestuur kunnen op voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie regels worden gesteld ter zake van de toepassing van het vijfde lid.   
 
-### Artikel  59  
+### Artikel  59   
+Treedt in werking op een nader te bepalen tijdstip   
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister van Defensie kan ten aanzien van militaire luchtvaartuigen en de leden van hun bemanning, alsmede ten aanzien van militaire luchtvaartterreinen afwijken van het bij of krachtens deze wet bepaalde.   
 2.  Onze Minister van Defensie kan, onverminderd de bevoegdheden bij andere wetten verleend, bepalen dat houders van luchtvaartuigen op daartoe strekkende aanwijzing door Onze Minister van Defensie verplicht zijn met deze vervoermiddelen het vervoer van bepaalde personen of zaken te bewerkstelligen en de vervoermiddelen daartoe volledig uitgerust op een aangewezen plaats ter beschikking te stellen; deze plaats, alsmede de plaats van bestemming kunnen buiten Nederland zijn gelegen. Het tweede tot en met vijfde lid van artikel 58 zijn van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.   
 3.  Onze Minister van Defensie is, onverminderd de bevoegdheden bij andere wetten verleend, bevoegd ten behoeve van de krijgsmacht de terbeschikkingstelling te vorderen van luchtvaartterreinen met bijbehorende gebouwen en inrichtingen alsmede van de zich in die gebouwen en inrichtingen bevindende roerende goederen. Het tweede tot en met vijfde lid van artikel 58 zijn van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.   
 4.  Gedurende de tijd, dat ingevolge het tweede en derde lid ten behoeve van de krijgsmacht luchtvaartuigen zijn aangewezen en luchtvaartterreinen ter beschikking zijn gesteld, worden deze beschouwd als militaire luchtvaartuigen en als militaire luchtvaartterreinen.   
 
-### Artikel  60  
+### Artikel  60   
+Treedt in werking op een nader te bepalen tijdstip   
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister van Defensie is, onverminderd de bevoegdheden bij andere wetten verleend, bevoegd: 
 
 a. aanwijzingen te geven aan rechthebbenden ten aanzien van luchtvaartterreinen met betrekking tot het beheer en het gebruik van die luchtvaartterreinen;  
@@ -558,8 +566,10 @@ e. luchtvaartterreinen en de daarbij behorende gebouwen en inrichtingen, met inb
 2.  Op de maatregelen getroffen krachtens dit artikel zijn het tweede tot en met vijfde lid van artikel 58 van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.   
 3.  Op de maatregelen getroffen krachtens dit artikel is tevens het zesde lid van artikel 58 van overeenkomstige toepassing met dien verstande dat de voordracht geschiedt door Onze Minister van Defensie.   
 
-### Artikel  61  
+### Artikel  61   
+Treedt in werking op een nader te bepalen tijdstip   
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister van Defensie is bevoegd opdrachten te geven aan personen die in het bezit zijn van een ingevolge deze wet uitgereikt bewijs van bevoegdheid alsmede aan personen, behorende tot bij algemene maatregel van bestuur aan te wijzen categorieën van personeel dat werkzaam is ten behoeve van de luchtvaart.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de aard en de duur van de opdrachten alsmede de wijze waarop en de voorwaarden waaronder zij kunnen worden gegeven, zomede betreffende de schadeloosstelling in verband met de verstrekte opdrachten. De rechtspositie van de personen, die een opdracht hebben ontvangen, wordt bij algemene maatregel van bestuur geregeld.   
 
@@ -653,6 +663,10 @@ Ieder is verplicht aan de krachtens artikel 73 aangewezen ambtenaren desgevraagd
 ### Artikel  75  
 
 Op de eerste vordering van de in artikel 71 bedoelde personen zijn de gezagvoerder en de overige leden van de bemanning van een luchtvaartuig verplicht de bij of krachtens deze wet vereiste bescheiden behoorlijk ter inzage af te geven.  
+
+### Artikel  75a  
+
+Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.  
 
 ### Hoofdstuk  VII  
 

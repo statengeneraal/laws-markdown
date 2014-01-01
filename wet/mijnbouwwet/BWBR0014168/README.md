@@ -1101,7 +1101,7 @@ Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing e
 
 ### Artikel  80  
 
-Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de provincie uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht, waarvan het percentage gelijk is aan het percentage van de heffingsrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
+Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de provincie uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht, waarvan het percentage gelijk is aan het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
 
 ### Afdeling  5.2  
 
@@ -1759,7 +1759,7 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 ### Artikel  142  
 
 1.  Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is [hoofdstuk 20 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing, met dien verstande dat [artikel 20.3 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. De eerste volzin is van overeenkomstige toepassing op een besluit omtrent instemming met een winningsplan of opslagplan als bedoeld in artikel 39, eerste lid.   
-2.  Op het beroep tegen besluiten op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 is [hoofdstuk V, afdelingen 2](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [3, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
+2.  Op het beroep tegen besluiten op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 is [hoofdstuk V, afdelingen 2](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en 4, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
 
 ### Hoofdstuk  11  
 

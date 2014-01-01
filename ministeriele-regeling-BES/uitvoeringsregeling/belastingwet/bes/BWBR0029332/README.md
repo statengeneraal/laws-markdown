@@ -328,6 +328,13 @@ b. een inhoudingsplichtige die over enig tijdvak de loonbelasting niet tijdig he
 
 c. een inhoudingsplichtige die hierom verzoekt.     
 
+### Artikel  8.8a  
+
+1.  Het tijdvak waarover de kansspelbelasting die wordt geheven van de belastingplichtige, bedoeld in [artikel 7a.1, onderdeel a, van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), moet worden betaald, is de kalendermaand.   
+2.  Ten aanzien van de belastingplichtige met een boekjaar van twaalf maanden dat niet samenvalt met het kalenderjaar, treden de boekjaarmaanden in de plaats van de kalendermaanden.   
+3.  In bijzondere gevallen kan de inspecteur een ander tijdvak dan de kalendermaand aanwijzen als tijdvak waarover de van de belastingplichtige, bedoeld in het eerste lid, geheven kansspelbelasting moet worden betaald.   
+4.  Ten aanzien van de belastingplichtige, bedoeld in het eerste lid, die op enig tijdstip, anders dan tijdelijk, ophoudt belastingplichtige te zijn, wordt het tijdvak waarover de kansspelbelasting ingevolge het eerste lid moet worden betaald vervangen door het op dat tijdstip verstreken gedeelte van dat tijdvak.   
+
 ### §  5  
 
 ####Geheimhouding
@@ -404,8 +411,8 @@ i. de Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten: ge
 
 6°. [artikel 6, eerste lid, onderdeel f](../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md), en [artikel 7, tweede lid, onderdeel a, van de Wet assurantiebemiddelingsbedrijf BES](../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md);    
 
-j. de Nederlandsche Bank N.V., de voorzitter van het managementteam van de Belastingdienst/Holland Midden en de Stichting Autoriteit Financiële Markten: gegevens die van belang kunnen zijn bij de uitvoering en de handhaving van de [Wet melding ongebruikelijke transacties BES](../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md) en de [Wet identificatie bij dienstverlening BES](../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md).     
-2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het desbetreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel f, onderdeel h, onder 3°, en, voor zover het gegevens betreft die worden verstrekt aan de voorzitter van het managementteam van de Belastingdienst/Holland Midden, onderdeel j.   
+j. de Nederlandsche Bank N.V., de landelijk directeur van de Belastingdienst/Grote ondernemingen en de Stichting Autoriteit Financiële Markten: gegevens die van belang kunnen zijn bij de uitvoering en de handhaving van de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md).     
+2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het desbetreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel f, onderdeel h, onder 3°, en, voor zover het gegevens betreft die worden verstrekt aan de landelijk directeur van de Belastingdienst/Grote ondernemingen, onderdeel j.   
 3.  Voor de toepassing van het eerste lid wordt verstaan onder inkomen: het belastbare inkomen, bedoeld in [artikel 24 van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
 
 ### §  6  

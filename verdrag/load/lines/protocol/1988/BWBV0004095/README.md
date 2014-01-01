@@ -4,14 +4,14 @@
 
 ####Protocol of 1988 relating to the International Convention on Load Lines 1966
 
-The Parties to the present Protocol, Being Parties to the International Convention on Load Lines, 1966, done at London on 5 April 1966, Recognizing the significant contribution which is made by the above-mentioned Convention to the promotion of the safety of ships and property at sea and the lives of persons on board, Recognizing also the need to improve further the technical provisions of the above-mentioned Convention, Recognizing further the need for the introduction into the abovementioned Convention of provisions for survey and certification harmonized with corresponding provisions in other international instruments, Considering that these needs may best be met by the conclusion of a Protocol relating to the International Convention on Load Lines, 1966, Have agreed as follows:    
+The Parties to the present Protocol, Being Parties to the [International Convention on Load Lines, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), done at London on 5 April 1966, Recognizing the significant contribution which is made by the above-mentioned [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) to the promotion of the safety of ships and property at sea and the lives of persons on board, Recognizing also the need to improve further the technical provisions of the above-mentioned [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), Recognizing further the need for the introduction into the abovementioned [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) of provisions for survey and certification harmonized with corresponding provisions in other international instruments, Considering that these needs may best be met by the conclusion of a Protocol relating to the International Convention on Load Lines, 1966, Have agreed as follows:    
 
 ### Article  I  
 
 ####General obligations
 
 1.  The Parties to the present Protocol undertake to give effect to the provisions of the present Protocol and the Annexes hereto, which shall constitute an integral part of the present Protocol. Every reference to the present Protocol constitutes at the same time a reference to the Annexes hereto.   
-2.  As between the Parties to the present Protocol, the provisions of the International Convention on Load Lines, 1966 (hereinafter referred to as "the Convention"), except article 29, shall apply subject to the modifications and additions set out in the present Protocol.   
+2.  As between the Parties to the present Protocol, the provisions of the [International Convention on Load Lines, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) (hereinafter referred to as "the Convention"), except [article 29](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), shall apply subject to the modifications and additions set out in the present Protocol.   
 3.  With respect to ships entitled to fly the flag of a State which is not a Party to the Convention and the present Protocol, the Parties to the present Protocol shall apply the requirements of the Convention and the present Protocol as may be necessary to ensure that no more favourable treatment is given to such ships.   
 
 ### Article  II  
@@ -19,7 +19,7 @@ The Parties to the present Protocol, Being Parties to the International Conventi
 ####Existing certificates
 
 1.  Notwithstanding any other provisions of the present Protocol, any International Load Line Certificate which is current when the present Protocol enters into force in respect of the Government of the State whose flag the ship is entitled to fly shall remain valid until it expires.   
-2.  A Party to the present Protocol shall not issue certificates under, and in accordance with, the provisions of the International Convention on Load Lines, 1966, as adopted on 5 April 1966.   
+2.  A Party to the present Protocol shall not issue certificates under, and in accordance with, the provisions of the [International Convention on Load Lines, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), as adopted on 5 April 1966.   
 
 ### Article  III  
 
@@ -45,7 +45,7 @@ b) signature subject to ratification, acceptance or approval, followed by ratifi
 
 c) accession.     
 2.  Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General of the Organization.   
-3.  The present Protocol may be signed without reservation, ratified, accepted, approved or acceded to only by States which have signed without reservation, accepted or acceded to the Convention.   
+3.  The present Protocol may be signed without reservation, ratified, accepted, approved or acceded to only by States which have signed without reservation, accepted or acceded to the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).   
 
 ### Article  V  
 
@@ -55,7 +55,7 @@ c) accession.
 
 a) not less than fifteen States, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping, have expressed their consent to be bound by it in accordance with article IV, and  
 
-b) the conditions for the entry into force of the Protocol of 1988 relating to the International Convention for the Safety of Life at Sea, 1974 have been met, provided that the present Protocol shall not enter into force before 1 February 1992.     
+b) the conditions for the entry into force of the [Protocol of 1988 relating to the International Convention for the Safety of Life at Sea, 1974](../../../../../../verdrag/protocol/1988/relating/to/the/international/convention/for/the/safety/of/etc/BWBV0002357/README.md) have been met, provided that the present Protocol shall not enter into force before 1 February 1992.     
 2.  For States which have deposited an instrument of ratification acceptance, approval or accession in respect of the present Protocol after the conditions for entry into force thereof have been met but prior to the date of entry into force, the ratification, acceptance, approval or accession shall take effect on the date of entry into force of the present Protocol or three months after the date of deposit of the instrument, whichever is the later date.   
 3.  Any instrument of ratification, acceptance, approval or accession deposited after the date on which the present Protocol enters into force shall take effect three months after the date of deposit.   
 4.  After the date on which an amendment to the present Protocol or an amendment, as between the Parties to the present Protocol, to the Convention is deemed to have been accepted under article VI, any instrument of ratification, acceptance, approval or accession deposited shall apply to the present Protocol or the Convention as amended.   
@@ -64,7 +64,7 @@ b) the conditions for the entry into force of the Protocol of 1988 relating to t
 
 ####Amendments
 
-1.  The present Protocol and, as between the Parties to the present Protocol, the Convention may be amended by either of the procedures specified in the following paragraphs.   
+1.  The present Protocol and, as between the Parties to the present Protocol, the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) may be amended by either of the procedures specified in the following paragraphs.   
 2.  Amendment after consideration within the Organization: 
 
 a) Any amendment proposed by a Party to the present Protocol shall be submitted to the Secretary-General of the Organization, who shall then circulate it to all Members of the Organization and all Contracting Governments to the Convention at least six months prior to its consideration.  
@@ -73,19 +73,19 @@ b) Any amendment proposed and circulated as above shall be referred to the Marit
 
 c) States which are Parties to the present Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Maritime Safety Committee for the consideration and adoption of amendments.  
 
-d) Amendments shall be adopted by a two-thirds majority of the Parties to the present Protocol present and voting in the Maritime Safety Committee expanded as provided for in subparagraph c) (hereinafter referred to as "the expanded Maritime Safety Committee") on condition that at least one third of the Parties shall be present at the time of voting.  
+d) Amendments shall be adopted by a two-thirds majority of the Parties to the present Protocol present and voting in the Maritime Safety Committee expanded as provided for in subparagraph c) (hereinafter referred to as “the expanded Maritime Safety Committee”) on condition that at least one third of the Parties shall be present at the time of voting.  
 
 e) Amendments adopted in accordance with subparagraph d) shall be communicated by the Secretary-General of the Organization to all Parties to the present Protocol for acceptance.  
 
 f) 
 
-(i) An amendment to an article or Annex A to the present Protocol or an amendment, as between Parties to the present Protocol, to an article of the Convention, shall be deemed to have been accepted on the date on which it is accepted by two thirds of the Parties to the present Protocol.  
+(i) An amendment to an article or Annex A to the present Protocol or an amendment, as between Parties to the present Protocol, to an article of the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), shall be deemed to have been accepted on the date on which it is accepted by two thirds of the Parties to the present Protocol.  
 
-(ii) An amendment to Annex B to the present Protocol or an amendment, as between Parties to the present Protocol, to an Annex to the Convention, shall be deemed to have been accepted: 
+(ii) An amendment to Annex B to the present Protocol or an amendment, as between Parties to the present Protocol, to an Annex to the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), shall be deemed to have been accepted: 
 
 (aa) at the end of two years from the date on which it is communicated to Parties to the present Protocol for acceptance; or  
 
-(bb) at the end of a different period, which shall not be less than one year, if so determined at the time of its adoption by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee.   However, if within the specified period either more than one third of the Parties, or Parties the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of all the merchant fleets of all Parties, notify the SecretaryGeneral of the Organization that they object to the amendment, it shall be deemed not to have been accepted.    
+(bb) at the end of a different period, which shall not be less than one year, if so determined at the time of its adoption by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee.   However, if within the specified period either more than one third of the Parties, or Parties the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of all the merchant fleets of all Parties, notify the Secretary-General of the Organization that they object to the amendment, it shall be deemed not to have been accepted.    
 
 g) 
 
@@ -94,7 +94,7 @@ g)
 (ii) An amendment referred to in subparagraph f)(ii) shall enter into force with respect to all Parties to the present Protocol, except those which have objected to the amendment under that subparagraph and which have not withdrawn such objections, six months after the date on which it is deemed to have been accepted. However, before the date set for entry into force, and Party may give notice to the Secretary-General of the Organization that it exempts itself from giving effect to that amendment for a period not longer than one year from the date of its entry into force, or for such longer period as may be determined by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee at the time of the adoption of the amendment.       
 3.  Amendment by a Conference: 
 
-a) Upon the request of a Party to the present Protocol concurred in by at least one third of the Parties, the Organization shall convene a Conference of Parties to consider amendments to the present Protocol and the Convention.  
+a) Upon the request of a Party to the present Protocol concurred in by at least one third of the Parties, the Organization shall convene a Conference of Parties to consider amendments to the present Protocol and the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).  
 
 b) Every amendment adopted by such a Conference by a twothirds majority of the Parties present and voting shall be communicated by the Secretary-General of the Organization to all Parties for acceptance.  
 
@@ -114,7 +114,7 @@ b) A Party to the present Protocol which has accepted an amendment referred to i
 1.  The present Protocol may be denounced by any Party at any time after the expiry of five years from the date on which the present Protocol enters into force for that Party.   
 2.  Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General of the Organization.   
 3.  A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its receipt by the Secretary-General of the Organization.   
-4.  A denunciation of the Convention by a Party shall be deemed to be a denunciation of the present Protocol by that Party. Such denunciation shall take effect on the same date as denunciation of the Convention takes effect according to paragraph 3) of article 30 of the Convention.   
+4.  A denunciation of the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) by a Party shall be deemed to be a denunciation of the present Protocol by that Party. Such denunciation shall take effect on the same date as denunciation of the Convention takes effect according to paragraph 3) of article 30 of the Convention.   
 
 ### Article  VIII  
 
@@ -132,7 +132,7 @@ a) inform the Governments of all States which have signed the present Protocol o
 (iii) the deposit of any instrument of denunciation of the present Protocol together with the date on which it was received and the date on which the denunciation takes effect;    
 
 b) transmit certified true copies of the present Protocol to the Governments of all States which have signed the present Protocol or acceded thereto.     
-3.  As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.   
+3.  As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
 
 ### Article  IX  
 
@@ -144,34 +144,34 @@ DONE at London at this eleventh day of November one thousand nine hundred and ei
 
 ### ANNEX  A  
 
-####Modifications and Additions to Articles of the International Convention on Load Lines, 1966
+####Modifications and Additions to Articles of the [International Convention on Load Lines, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md)
 
 Wijzigt het Internationaal Verdrag betreffende de uitwatering van schepen, 1966; Londen, 5 april 1966.    
 
 ### ANNEX  B  
 
-####ANNEXES TO THE CONVENTION AS MODIFIED BY THE PROTOCOL OF 1988 RELATING HERETO
+####Annexes to the [Convention](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) as modified by the Protocol of 1988 relating thereto
 
 Wijzigt het Internationaal Verdrag betreffende de uitwatering van schepen, 1966; Londen, 5 april 1966.    
 
 ####Protocol van 1988 bij het Internationaal Verdrag betreffende de uitwatering van schepen, 1966
 
-De Partijen bij dit Protocol, Partij zijnde bij het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, gedaan te Londen op 5 april 1966, de belangrijke bijlage van dit Verdrag erkennend aan de bevordering van de veiligheid van schepen en goederen op zee en van het leven van personen aan boord, Tevens erkennend de behoefte de technische bepalingen van dit Verdrag verder te verbeteren, Voorts erkennend de behoefte aan het opnemen in dit Verdrag van bepalingen inzake het onderzoek en de afgifte van certificaten die zijn geharmoniseerd met overeenkomstige bepalingen in andere internationale akten, Overwegend dat in deze behoefte het best kan worden voorzien door het sluiten van een Protocol bij het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, Zijn overeengekomen als volgt:    
+De Partijen bij dit Protocol, Partij zijnde bij het [Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), gedaan te Londen op 5 april 1966, de belangrijke bijlage van dit [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) erkennend aan de bevordering van de veiligheid van schepen en goederen op zee en van het leven van personen aan boord, Tevens erkennend de behoefte de technische bepalingen van dit [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) verder te verbeteren, Voorts erkennend de behoefte aan het opnemen in dit [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) van bepalingen inzake het onderzoek en de afgifte van certificaten die zijn geharmoniseerd met overeenkomstige bepalingen in andere internationale akten, Overwegend dat in deze behoefte het best kan worden voorzien door het sluiten van een Protocol bij het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, Zijn overeengekomen als volgt:    
 
 ### Artikel  I  
 
 ####Algemene verplichtingen
 
 1.  De Partijen bij dit Protocol verbinden zich ertoe uitvoering te geven aan de bepalingen van dit Protocol en van de Bijlagen daarbij, die een integrerend deel van dit Protocol vormen. Elke verwijzing naar dit Protocol houdt tegelijkertijd een verwijzing naar de Bijlagen in.   
-2.  Tussen de Partijen bij dit Protocol zijn de bepalingen van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966 (hierna te noemen „het Verdrag”) met uitzondering van artikel 29, van toepassing onder voorbehoud van de wijzigingen en aanvullingen vervat in dit Protocol.   
-3.  Ten aanzien van schepen die gerechtigd zijn de vlag te voeren van een Staat die geen Partij bij het Verdrag en dit Protocol is, passen de Partijen bij dit Protocol de bepalingen van het Verdrag en dit Protocol toe voor zover nodig is om te verzekeren dat zulke schepen geen gunstiger behandeling wordt toegekend.   
+2.  Tussen de Partijen bij dit Protocol zijn de bepalingen van het [Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) (hierna te noemen „het Verdrag”) met uitzondering van [artikel 29](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), van toepassing onder voorbehoud van de wijzigingen en aanvullingen vervat in dit Protocol.   
+3.  Ten aanzien van schepen die gerechtigd zijn de vlag te voeren van een Staat die geen Partij bij het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) en dit Protocol is, passen de Partijen bij dit Protocol de bepalingen van het Verdrag en dit Protocol toe voor zover nodig is om te verzekeren dat zulke schepen geen gunstiger behandeling wordt toegekend.   
 
 ### Artikel  II  
 
 ####Bestaande certificaten
 
 1.  Niettegenstaande andere bepalingen van dit Protocol blijft een Internationaal Certificaat van uitwatering dat geldig is wanneer dit Protocol in werking treedt ten aanzien van de Regering van de Staat waarvan het schip gerechtigd is de vlag te voeren, geldig tot de datum van verstrijken.   
-2.  Een Partij bij dit Protocol geeft geen certificaten af krachtens en in overeenstemming met de bepalingen van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966, zoals aangenomen op 5 april 1966.   
+2.  Een Partij bij dit Protocol geeft geen certificaten af krachtens en in overeenstemming met de bepalingen van het [Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), zoals aangenomen op 5 april 1966.   
 
 ### Artikel  III  
 
@@ -197,7 +197,7 @@ b) ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring,
 
 c) toetreding.     
 2.  Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.   
-3.  Dit Protocol kan slechts zonder voorbehoud worden ondertekend, bekrachtigd, aanvaard of goedgekeurd of daartoe kan slechts worden toegetreden door Staten die het Verdrag zonder voorbehoud hebben ondertekend, het hebben aanvaard of daartoe zijn toegetreden.   
+3.  Dit Protocol kan slechts zonder voorbehoud worden ondertekend, bekrachtigd, aanvaard of goedgekeurd of daartoe kan slechts worden toegetreden door Staten die het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) zonder voorbehoud hebben ondertekend, het hebben aanvaard of daartoe zijn toegetreden.   
 
 ### Artikel  V  
 
@@ -207,16 +207,16 @@ c) toetreding.
 
 a) ten minste vijftien Staten, waarvan de gecombineerde koopvaardijvloten ten minste vijftig procent van de bruto tonnage van de wereldkoopvaardijvloot vormen, overeenkomstig artikel IV, uitdrukking hebben gegeven aan hun instemming daardoor gebonden te zijn, en  
 
-b) er is voldaan aan de voorwaarden voor de inwerkingtreding van het Protocol van 1988 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974,   met dien verstande dat dit Protocol niet voor 1 februari 1992 in werking zal treden.   
+b) er is voldaan aan de voorwaarden voor de inwerkingtreding van het [Protocol van 1988 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../verdrag/protocol/1988/relating/to/the/international/convention/for/the/safety/of/etc/BWBV0002357/README.md),   met dien verstande dat dit Protocol niet voor 1 februari 1992 in werking zal treden.   
 2.  Voor Staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot dit Protocol hebben nedergelegd nadat aan de voorwaarden voor de inwerkingtreding ervan is voldaan, doch voor de datum van inwerkingtreding, wordt de bekrachtiging, aanvaarding, goedkeuring of toetreding van kracht met ingang van de datum van inwerkingtreding van dit Protocol of drie maanden na de datum van nederlegging van de akte, welke van beide data later valt.   
 3.  Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, worden van kracht drie maanden na de datum van nederlegging.   
-4.  Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop een wijziging van dit Protocol of een wijziging van het Verdrag tussen de Partijen bij dit Protocol wordt geacht te zijn aanvaard overeenkomstig artikel VI, is van toepassing op dit Protocol of het Verdrag als gewijzigd.   
+4.  Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop een wijziging van dit Protocol of een wijziging van het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) tussen de Partijen bij dit Protocol wordt geacht te zijn aanvaard overeenkomstig artikel VI, is van toepassing op dit Protocol of het Verdrag als gewijzigd.   
 
 ### Artikel  VI  
 
 ####Wijzigingen
 
-1.  Dit Protocol en, tussen de Partijen bij dit Protocol het Verdrag, kunnen worden gewijzigd door middel van een der in de volgende leden aangegeven procedures.   
+1.  Dit Protocol en, tussen de Partijen bij dit Protocol het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md), kunnen worden gewijzigd door middel van een der in de volgende leden aangegeven procedures.   
 2.  Wijzigingen na behandeling in de Organisatie: 
 
 a) Elke wijziging voorgesteld door een Partij bij dit Protocol wordt voorgelegd aan de Secretaris-Generaal van de Organisatie, die deze doorzendt aan alle leden van de Organisatie en alle Verdragsluitende Regeringen, ten minste zes maanden voordat deze wordt behandeld.  
@@ -231,9 +231,9 @@ e) Wijzigingen die overeenkomstig het bepaalde onder letter d van dit lid zijn g
 
 f) 
 
-(i) Een wijziging van een artikel of van Bijlage A bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een artikel van het Verdrag wordt geacht te zijn aanvaard op de datum waarop deze is aanvaard door twee-derde van de Partijen bij dit Protocol.  
+(i) Een wijziging van een artikel of van Bijlage A bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een artikel van het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) wordt geacht te zijn aanvaard op de datum waarop deze is aanvaard door twee-derde van de Partijen bij dit Protocol.  
 
-(ii) Een wijziging van Bijlage B bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een Bijlage bij het Verdrag wordt geacht te zijn aanvaard: 
+(ii) Een wijziging van Bijlage B bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een Bijlage bij het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) wordt geacht te zijn aanvaard: 
 
 (aa) aan het eind van twee jaar gerekend vanaf de datum waarop deze aan de Partijen bij dit Protocol ter kennis is gebracht ter fine van aanvaarding; of  
 
@@ -246,7 +246,7 @@ g)
 (ii) Een wijziging zoals bedoeld in letter (f)(ii) treedt in werking met betrekking tot alle Partijen bij dit Protocol, behalve die welke zich tegen de wijziging krachtens het bepaalde onder deze letter hebben verzet en hun bezwaar niet hebben ingetrokken, zes maanden na de datum waarop deze wordt geacht te zijn aanvaard. Iedere Partij kan echter voor de vastgestelde datum van inwerkingtreding de Secretaris Generaal van de Organisatie in kennis stellen van het feit dat zij zich vrijgesteld acht van de toepassing van deze wijziging voor een tijdvak van niet meer dan een jaar na de datum van inwerkingtreding van de wijziging of voor een zodanig langer tijdvak als waartoe bij een twee-derde meerderheid van de Partijen die in de uitgebreide Maritieme Veiligheidscommissie aanwezig zijn en hun stem uitbrengen ten tijde van de goedkeuring van de wijziging wordt besloten.       
 3.  Wijziging door een conferentie: 
 
-a) Op verzoek van een Partij bij dit Protocol, daarin gesteund door ten minste een-derde van de Partijen, wordt door de Organisatie een conferentie van de Partijen bijeengeroepen ter behandeling van wijzigingen van dit Protocol en het Verdrag.  
+a) Op verzoek van een Partij bij dit Protocol, daarin gesteund door ten minste een-derde van de Partijen, wordt door de Organisatie een conferentie van de Partijen bijeengeroepen ter behandeling van wijzigingen van dit Protocol en het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md).  
 
 b) Elke wijziging die door een zodanige conferentie is goedgekeurd met een twee-derde meerderheid van de Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Organisatie aan alle Partijen ter kennis gebracht ter fine van aanvaarding.  
 
@@ -267,7 +267,7 @@ b) Een Partij bij dit Protocol die een wijziging zoals bedoeld in het tweede lid
 1.  Dit Protocol kan te allen tijde door een Partij worden opgezegd na afloop van een tijdvak van vijf jaar, te rekenen van de datum waarop dit Protocol voor die Partij in werking treedt.   
 2.  Opzegging geschiedt door de nederlegging van een akte van opzegging bij de Secretaris-Generaal van de Organisatie.   
 3.  De opzegging wordt van kracht een jaar na ontvangst door de Secretaris-Generaal van de Organisatie van de akte van opzegging, of na een langere daarin vastgestelde periode.   
-4.  Opzegging van het Verdrag door een Partij wordt geacht opzegging van dit Protocol door die Partij in te houden. Deze opzegging wordt van kracht op dezelfde datum als waarop de opzegging van het Verdrag van kracht wordt overeenkomstig artikel 30, derde lid, van het Verdrag.   
+4.  Opzegging van het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) door een Partij wordt geacht opzegging van dit Protocol door die Partij in te houden. Deze opzegging wordt van kracht op dezelfde datum als waarop de opzegging van het Verdrag van kracht wordt overeenkomstig artikel 30, derde lid, van het Verdrag.   
 
 ### Artikel  VIII  
 
@@ -285,7 +285,7 @@ a) stelt de Regeringen van alle Staten die dit Protocol hebben ondertekend of da
 (iii) de nederlegging van een akte van opzegging van dit Protocol, alsmede de datum waarop deze werd ontvangen en de datum waarop de opzegging van kracht wordt;    
 
 b) zendt voor eensluidend gewaarmerkte afschriften van dit Protocol toe aan de Regeringen van alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden.     
-3.  Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de depositaris toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.   
+3.  Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de depositaris toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
 
 ### Artikel  IX  
 
@@ -297,12 +297,12 @@ GEDAAN te Londen, elf november negentienhonderd achtentachtig. TEN BLIJKE WAARVA
 
 ### BIJLAGE  A  
 
-####Wijzigingen van en aanvullingen op de artikelen van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966
+####Wijzigingen van en aanvullingen op de artikelen van het [Internationaal Verdrag betreffende de uitwatering van schepen, 1966](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md)
 
 Wijzigt het Internationaal Verdrag betreffende de uitwatering van schepen, 1966; Londen, 5 april 1966.    
 
 ### BIJLAGE  B  
 
-####BIJLAGEN BIJ HET VERDRAG ALS GEWIJZIGD BIJ HET BIJBEHORENDE PROTOCOL VAN 1988
+####Bijlagen bij het [Verdrag](../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) als gewijzigd bij het bijbehorende Protocol van 1988
 
 Wijzigt het Internationaal Verdrag betreffende de uitwatering van schepen, 1966; Londen, 5 april 1966.    

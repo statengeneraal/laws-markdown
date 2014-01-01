@@ -207,7 +207,7 @@ c. When the renewal survey is completed more than 3 months before the expiry dat
 
 3. If a certificate is issued for a period of less than 5 years, the Administration may extend the validity of a certificate beyond the expiry date to the maximum period specified in paragraph 1, provided that the annual surveys referred to in article 14 applicable when a certificate is issued for a period of 5 years are carried out as appropriate.  
 
-4. If, afterthe renewal survey referred to in paragraph lb) of article 14, a new certificate cannot be issued to the ship before the expiry date of the existing certificate, the person or organization carrying out the survey may extend the validity of the existing certificate for a period which shall not exceed 5 months. This extension shall be endorsed on the certificate, and shall be granted only where there have been no alterations in the structure, equipment, arrangements, materials or scantlings which affect the ship's freeboard.  
+4. If, after the renewal survey referred to in paragraph lb) of article 14, a new certificate cannot be issued to the ship before the expiry date of the existing certificate, the person or organization carrying out the survey may extend the validity of the existing certificate for a period which shall not exceed 5 months. This extension shall be endorsed on the certificate, and shall be granted only where there have been no alterations in the structure, equipment, arrangements, materials or scantlings which affect the ship's freeboard.  
 
 5. If a ship at the time when a certificate expires is not in a port in which it is to be surveyed, the Administration may extend the period of validity of the certificate but this extension shall be granted only for the purpose of allowing the ship to complete its voyage to the port in which it is to be surveyed, and then only in cases where it appears proper and reasonable to do so. No certificate shall be extended for a period longer than 3 months, and a ship to which an extension is granted shall not, on its arrival in the port in which it is to be surveyed, be entitled by virtue of such extension to leave that port without having a new certificate. When the renewal survey is completed, the new certificate shall be valid to a date not exceeding 5 years from the date of expiry of the existing certificate before the extension was granted.  
 
@@ -464,8 +464,8 @@ Organizations, including classification societies, referred to in article 13 of 
 
 (c) Where the stem contour is concave above the waterline at 85% of the least moulded depth, both the forward terminal of the total length and the fore-side of the stem respectively shall be taken at the vertical projection to that waterline of the aftermost point of the stem contour (above that waterline) (see figure 3.1).  
 
-(d) In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline at 85% of the least moulded depth D <sub>min</sub>, found by drawing a line parallel to the keel line of the vessel (including skeg) tangent to the moulded sheer line of the freeboard deck. The least moulded depth is the vertical distance measured from the top of the keel to the top of the freeboard deck beam at side at the point of tangency (see figure 3.2).   ![10000052908](http://wetten.overheid.nl/Illustration/10000052908)
-![10000052909](http://wetten.overheid.nl/Illustration/10000052909)
+(d) In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline at 85% of the least moulded depth D <sub>min</sub>, found by drawing a line parallel to the keel line of the vessel (including skeg) tangent to the moulded sheer line of the freeboard deck. The least moulded depth is the vertical distance measured from the top of the keel to the top of the freeboard deck beam at side at the point of tangency (see figure 3.2).   ![]()
+![]()
 
 (2).  *Perpendiculars.* The forward and after perpendiculars shall be taken at the forward and after ends of the length (L). The forward perpendicular shall coincide with the foreside of the stem on the waterline on which the length is measured.   
 (3).  *Amidships.* Amidships is at the middle of the length (L).   
@@ -484,8 +484,8 @@ Organizations, including classification societies, referred to in article 13 of 
 (b) The depth for freeboard (D) in a ship having a rounded gunwale with a radius greater than 4% of the breadth (B) or having topsides of unusual form is the depth for freeboard of a ship having a midship section with vertical topsides and with the same round of beam and area of topside section equal to that provided by the actual midship section.     
 (7).   *Block coefficient*  
 
-(a) The block coefficient (C <sub>b</sub>) is given by:   ![10000052910](http://wetten.overheid.nl/Illustration/10000052910)
-; where   ![10000052912](http://wetten.overheid.nl/Illustration/10000052912)
+(a) The block coefficient (C <sub>b</sub>) is given by:   ![]()
+; where   ![]()
  is the volume of the moulded displacement of the ship, excluding appendages, in a ship with a metal shell, and is the volume of displacement to the outer surface of the hull in a ship with a shell of any other material, both taken at a moulded draught of d1; and where d <sub>1</sub> is 85% of the least moulded depth.  
 
 (b) When calculating the block coefficient of a multi-hull craft, the full breadth (B) as defined in paragraph (4) is to be used and not the breadth of a single hull.     
@@ -512,7 +512,7 @@ Organizations, including classification societies, referred to in article 13 of 
 
 (iv) Due regard shall be given to the drainage of exposed recesses and to free surface effects on stability.  
 
-(v) Provisions of subparagraphs (i) through (iv) are not intended to apply to dredgers, hopper barges or other similar types of ships with large open holds, where each case requires individual consideration.   ![10000052913](http://wetten.overheid.nl/Illustration/10000052913)
+(v) Provisions of subparagraphs (i) through (iv) are not intended to apply to dredgers, hopper barges or other similar types of ships with large open holds, where each case requires individual consideration.   ![]()
 
 (10).   *Superstructure*  
 
@@ -538,7 +538,7 @@ Organizations, including classification societies, referred to in article 13 of 
 
 (h) Full superstructure. A full superstructure is a superstructure which, as a minimum, extends from the forward to the after perpendicular.  
 
-(i) Raised quarterdeck. A raised quarterdeck is a superstructure which extends forward from the after perpendicular, generally has a height less than a normal superstructure, and has an intact front bulkhead (sidescuttles of the non-opening type fitted with efficient deadlights and bolted man hole covers) (see figure 3.4). Where the forward bulkhead is not intact due to doors and access openings, the superstructure is then to be considered as a poop.   ![10000052914](http://wetten.overheid.nl/Illustration/10000052914)
+(i) Raised quarterdeck. A raised quarterdeck is a superstructure which extends forward from the after perpendicular, generally has a height less than a normal superstructure, and has an intact front bulkhead (sidescuttles of the non-opening type fitted with efficient deadlights and bolted man hole covers) (see figure 3.4). Where the forward bulkhead is not intact due to doors and access openings, the superstructure is then to be considered as a poop.   ![]()
 
 (11).  *Superstructure deck.* A superstructure deck is a deck forming the upper boundary of a superstructure.   
 (12).  *Flush deck ship.* A flush deck ship is a ship which has no superstructure on the freeboard deck.   
@@ -555,7 +555,7 @@ Organizations, including classification societies, referred to in article 13 of 
 
 ####Deck line
 
-The deck line is a horizontal line 300 mm in length and 25 mm in breadth. It shall be marked amidships on each side of the ship, and its upper edge shall normally pass through the point where the continuation outwards of the upper surface of the freeboard deck intersects the outer surface of the shell (as illustrated in figure 4.1), provided that the deck line may be placed with reference to another fixed point on the ship on condition that the freeboard is correspondingly corrected. The location of the reference point and the identification of the freeboard deck shall in all cases be indicated on the International Load Line Certificate.   ![10000052915](http://wetten.overheid.nl/Illustration/10000052915)
+The deck line is a horizontal line 300 mm in length and 25 mm in breadth. It shall be marked amidships on each side of the ship, and its upper edge shall normally pass through the point where the continuation outwards of the upper surface of the freeboard deck intersects the outer surface of the shell (as illustrated in figure 4.1), provided that the deck line may be placed with reference to another fixed point on the ship on condition that the freeboard is correspondingly corrected. The location of the reference point and the identification of the freeboard deck shall in all cases be indicated on the International Load Line Certificate.   ![]()
 
 ### Regulation  5  
 
@@ -598,8 +598,8 @@ The load line mark shall consist of a ring 300 mm in outside diameter and 25 mm 
 (5).  Where the characteristics of a ship or the nature of the ship’s service or navigational limits make any of the seasonal lines inapplicable, these lines may be omitted.   
 (6).  Where a ship is assigned a greater than minimum freeboard so that the load line is marked at a position corresponding to, or lower than, the lowest seasonal load line assigned at minimum freeboard in accordance with the present Protocol, only the Fresh Water Load Line need be marked.   
 (7).  Where a Winter North Atlantic Load Line is identical with the Winter Load Line corresponding to the same vertical line, this load line shall be marked W.   
-(8).  Alternative/additional load lines required by other international conventions in force may be marked at right angles to and abaft the vertical line specified in paragraph (1).   ![10000052916](http://wetten.overheid.nl/Illustration/10000052916)
-![10000052917](http://wetten.overheid.nl/Illustration/10000052917)
+(8).  Alternative/additional load lines required by other international conventions in force may be marked at right angles to and abaft the vertical line specified in paragraph (1).   ![]()
+![]()
 
 ### Regulation  7  
 
@@ -854,7 +854,7 @@ Table 16.2
 
 (f) The requirements for non-return valves are applicable only to those discharges which remain open during the normal operation of a ship. For discharges which are to be kept closed at sea, a single screw down valve operated from the deck is acceptable.  
 
-(g) Table 22.1 provides the acceptable arrangements of scuppers, inlets and discharges.   ![10000052918](http://wetten.overheid.nl/Illustration/10000052918)
+(g) Table 22.1 provides the acceptable arrangements of scuppers, inlets and discharges.   ![]()
 
 (2).  Scuppers led through the shell from enclosed superstructures used for the carriage of cargo shall be permitted only where the edge of the freeboard deck is not immersed when the ship heels 5° either way. In other cases the drainage shall be led inboard in accordance with the requirements of the International Convention for the Safety of Life at Sea in force.   
 (3).  In manned machinery spaces, main and auxiliary sea inlets and discharges in connection with the operation of machinery may be controlled locally. The controls shall be readily accessible and shall be provided with indicators showing whether the valves are open or closed.   
@@ -1518,25 +1518,25 @@ Freeboards at intermediate lengths of ship shall be obtained by linear interpola
 
 ####Correction to the freeboard for ships under 100 m in length
 
-The tabular freeboard for a type “B” ship of between 24 m and 100 m in length having enclosed superstructures with an effective length of up to 35% of the length of the ship shall be increased by:   ![10000052919](http://wetten.overheid.nl/Illustration/10000052919)
+The tabular freeboard for a type “B” ship of between 24 m and 100 m in length having enclosed superstructures with an effective length of up to 35% of the length of the ship shall be increased by:   ![]()
 (mm) where L is the length of the ship in m; and E <sub>1</sub> is the effective length E of superstructure in m as defined in regulation 35, but excluding the length of trunks.  
 
 ### Regulation  30  
 
 ####Correction for block coefficient
 
-Where the block coefficient (C <sub>b</sub>) exceeds 0.68, the tabular freeboard specified in regulation 28 as modified, if applicable, by regulations 27(8), 27(10) and 29 shall be multiplied by the factor:   ![10000052920](http://wetten.overheid.nl/Illustration/10000052920)
+Where the block coefficient (C <sub>b</sub>) exceeds 0.68, the tabular freeboard specified in regulation 28 as modified, if applicable, by regulations 27(8), 27(10) and 29 shall be multiplied by the factor:   ![]()
 The block coefficient is not to be taken greater than 1.0.  
 
 ### Regulation  31  
 
 ####Correction for depth
 
-(1).  Where D exceeds   ![10000052921](http://wetten.overheid.nl/Illustration/10000052921)
-the freeboard shall be increased by   ![10000052922](http://wetten.overheid.nl/Illustration/10000052922)
-R (mm), where R is   ![10000052923](http://wetten.overheid.nl/Illustration/10000052923)
+(1).  Where D exceeds   ![]()
+the freeboard shall be increased by   ![]()
+R (mm), where R is   ![]()
 at lengths less than 120 m and 250 at 120 m length and above.   
-(2).  Where D is less than   ![10000052924](http://wetten.overheid.nl/Illustration/10000052924)
+(2).  Where D is less than   ![]()
 no reduction shall be made, except in aship with an enclosed superstructure covering at least 0.6L amidships, with a complete trunk, or combination of detached enclosed superstructures and trunks which extend all fore and aft, where the freeboard shall be reduced at the rate prescribed in paragraph (1).   
 (3).  Where the height of the superstructure or trunk is less than the corresponding standard height, the calculated reduction shall be corrected in the ratio of the height of the actual superstructure or trunk to the applicable standard height, as defined in regulation 33.   
 
@@ -1552,8 +1552,8 @@ Where the actual depth to the upper edge of the deck line is greater or less tha
 
 (1).  Where a recess is arranged in the freeboard deck, and it does not extend to the sides of the ship, the freeboard calculated without regard to the recess shall be corrected for the consequent loss of buoyancy. The correction shall be equal to the value obtained by dividing the volume of the recess by the waterplane area of the ship at 85% of the least moulded depth (see figure 32-1.1).   
 (2).  The correction shall be an addition to the freeboard obtained after all other corrections have been applied, except bow height correction.   
-(3).  Where the freeboard, corrected for lost buoyancy as above, is greater than the minimum geometric freeboard determined on the basis of a moulded depth measured to the bottom of the recess, the latter value may be used.   ![10000052927](http://wetten.overheid.nl/Illustration/10000052927)
-Correction is the addition to freeboard equal to:   ![10000052928](http://wetten.overheid.nl/Illustration/10000052928)
+(3).  Where the freeboard, corrected for lost buoyancy as above, is greater than the minimum geometric freeboard determined on the basis of a moulded depth measured to the bottom of the recess, the latter value may be used.   ![]()
+Correction is the addition to freeboard equal to:   ![]()
 
 ### Regulation  33  
 
@@ -1581,8 +1581,8 @@ Table 33.1 The standard heights at intermediate lengths of the ship shall be obt
 
 (b) When the height is greater than the standard, the length S is to be obtained as shown in figure 34.2.  
 
-(c) The foregoing will apply only when the slope, related to the base line, is 15° or greater. Where the slope is less than 15°, the configuration shall be treated as sheer.   ![10000052929](http://wetten.overheid.nl/Illustration/10000052929)
-![10000052930](http://wetten.overheid.nl/Illustration/10000052930)
+(c) The foregoing will apply only when the slope, related to the base line, is 15° or greater. Where the slope is less than 15°, the configuration shall be treated as sheer.   ![]()
+![]()
 
 ### Regulation  35  
 
@@ -1657,24 +1657,24 @@ Percentages at intermediate lengths of superstructures and trunks shall be obtai
 (2).  In ships designed with a rake of keel, the sheer shall be measured in relation to a reference line drawn parallel to the design load waterline.   
 (3).  In flush deck ships and in ships with detached superstructures the sheer shall be measured at the freeboard deck.   
 (4).  In ships with topsides of unusual form in which there is a step or break in the topsides, the sheer shall be considered in relation to the equivalent depth amidships.   
-(5).  In ships with a superstructure of standard height which extends over the whole length of the freeboard deck, the sheer shall be measured at the superstructure deck. Where the height exceeds the standard, the least difference (Z) between the actual and standard heights shall be added to each end ordinate. Similarly, the intermediate ordinates at distances of 1/6L and 1/3L from each perpendicular shall be increased by 0.444Z and 0.111Z, respectively. Where there is an enclosed poop or forecastle superimposed on the superstructure, sheer credit shall be allowed for such a poop or forecastle, according to the method of paragraph (12) as shown in figure 38.1.   ![10000052931](http://wetten.overheid.nl/Illustration/10000052931)
+(5).  In ships with a superstructure of standard height which extends over the whole length of the freeboard deck, the sheer shall be measured at the superstructure deck. Where the height exceeds the standard, the least difference (Z) between the actual and standard heights shall be added to each end ordinate. Similarly, the intermediate ordinates at distances of 1/6L and 1/3L from each perpendicular shall be increased by 0.444Z and 0.111Z, respectively. Where there is an enclosed poop or forecastle superimposed on the superstructure, sheer credit shall be allowed for such a poop or forecastle, according to the method of paragraph (12) as shown in figure 38.1.   ![]()
 
 (6).  Where the deck of an enclosed superstructure has at least the same sheer as the exposed freeboard deck, the sheer of the enclosed portion of the freeboard deck shall not be taken into account.   
-(7).  Where an enclosed poop or forecastle is of standard height with greater sheer than that of the freeboard deck, or is of more than standard height, an addition to the sheer of the freeboard deck shall be made as provided in paragraph (12). Where a poop or forecastle consists of two layers, the method shown in figure 38.2 shall be used.   ![10000052932](http://wetten.overheid.nl/Illustration/10000052932)
+(7).  Where an enclosed poop or forecastle is of standard height with greater sheer than that of the freeboard deck, or is of more than standard height, an addition to the sheer of the freeboard deck shall be made as provided in paragraph (12). Where a poop or forecastle consists of two layers, the method shown in figure 38.2 shall be used.   ![]()
 In figures 38.1and 38.2, the following definitions apply: Z is as defined in paragraph (5); and Z <sub>v</sub> is the end ordinate of a virtual standard parabolic curve taken through the point “X”. If Z <sub>v</sub> is greater than (Z + h), the end ordinate shall be (Z + h), in which case point “X” shall be disregarded and curve (2) not taken into account. When the length of the first tier superstructure is greater than 0.5l, the virtual standard parabolic curve shall commence at amidships as indicated in figure 38.1.  
 ###Standard sheer profile
 
 (8).  The ordinates of the standard sheer profile are given in table 38.1:  
 ### *Tabel 38.1 Standard sheer profile (where L is in m)* 
 
-![10000052933](http://wetten.overheid.nl/Illustration/10000052933)
+![]()
 
 ###Measurement of variation from standard sheer profile
 
 (9).  Where the sheer profile differs from the standard, the four ordinates of each profile in the forward or after half shall be multiplied by the appropriate factors given in the above table of ordinates. The difference between the sums of the respective products and those of the standard divided by 8 measures the deficiency or excess of sheer in the forward or after half. The arithmetical mean of the excess or deficiency in the forward and after halves measures the excess or deficiency of sheer.   
 (10).  Where the after half of the sheer profile is greater than the standard and the forward half is less than the standard, no credit shall be allowed for the part in excess and deficiency only shall be measured.   
 (11).  Where the forward half of the sheer profile exceeds the standard, and the after portion of the sheer profile is not less than 75% of the standard, credit shall be allowed for the part in excess. Where the after part is less than 50% of the standard no credit shall be given for the excess sheer forward. Where the after sheer is between 50% and 75% of the standard, intermediate allowances may be granted for excess sheer forward.   
-(12).  Where sheer credit is given for a poop or forecastle the following formula shall be used: s =    ![10000052934](http://wetten.overheid.nl/Illustration/10000052934)
+(12).  Where sheer credit is given for a poop or forecastle the following formula shall be used: s =    ![]()
 where: s is the sheer credit, to be deducted from the deficiency, or added to the excess of sheer; y is the difference between actual and standard height of superstructure at the after or forward perpendicular; *L’* is the mean enclosed length of poop or forecastle up to a maximum length of 0.5 L; and *L* is the length of the ship as defined in regulation 3(1). The above formula provides a curve in the form of a parabola tangent to the actual sheer curve at the freeboard deck and intersecting the end ordinate at a point below the superstructure deck a distance equal to the standard height of a superstructure. The superstructure deck shall not be less than standard height above this curve at any point. This curve shall be used in determining the sheer profile for forward and after halves of the ship.   
 (13).  
 
@@ -1684,11 +1684,11 @@ where: s is the sheer credit, to be deducted from the deficiency, or added to th
 
 (c) For a raised quarterdeck credit may be given only when the height of this quarterdeck is greater than the standard height of “other superstructures” as defined in regulation 33, and only for the amount by which the actual height of the raised quarterdeck exceeds that standard height.  
 
-(d) When a poop or a forecastle has sloping end bulkheads, the sheer credit may be allowed on account of excess height. The formula givenin paragraph (12) shall be used, the values for y and L’ being as shown in figure 38.3.   ![10000052935](http://wetten.overheid.nl/Illustration/10000052935)
+(d) When a poop or a forecastle has sloping end bulkheads, the sheer credit may be allowed on account of excess height. The formula given in paragraph (12) shall be used, the values for y and L’ being as shown in figure 38.3.   ![]()
 
 ###Correction for variations from standard sheer profile
 
-(14).  The correction for sheer shall be the deficiency or excess of sheer (see paragraphs (9) to (11) inclusive), multiplied by   ![10000052936](http://wetten.overheid.nl/Illustration/10000052936)
+(14).  The correction for sheer shall be the deficiency or excess of sheer (see paragraphs (9) to (11) inclusive), multiplied by   ![]()
 where S <sub>1</sub> is the total length S of enclosed superstructures as defined in regulation 34 without trunks.  
 ###Addition for deficiency in sheer
 
@@ -1724,9 +1724,9 @@ For ships to which timber freeboards are assigned, the summer freeboard (and not
 
 (i) Where the freeboard deck has sheer extending from abaft 0.15L, by a parabolic curve having its origin at 0.15L abaft the forward perpendicular at a height equal to the midship depth of the ship, extended through the point of intersection of forecastle bulkhead and deck, and up to a point at the forward perpendicular not higher than the level of the forecastle deck (as illustrated in figure 39.1). However, if the value of the height denoted h <sub>t</sub> in figure 39.1 is smaller than the value of the height denoted h <sub>b</sub> then h <sub>t</sub> may be replaced by h <sub>b</sub> in the available bow height.  
 
-(ii) Where the freeboard deck has sheer extending for less than 0.15L or has no sheer, by a line from the forecastle deck at side at 0.07L extended parallel to the base line to the forward perpendicular (as illustrated in figure 39.2).     ![10000052937](http://wetten.overheid.nl/Illustration/10000052937)
-![10000052938](http://wetten.overheid.nl/Illustration/10000052938)
-![10000052939](http://wetten.overheid.nl/Illustration/10000052939)
+(ii) Where the freeboard deck has sheer extending for less than 0.15L or has no sheer, by a line from the forecastle deck at side at 0.07L extended parallel to the base line to the forward perpendicular (as illustrated in figure 39.2).     ![]()
+![]()
+![]()
 h <sub>f</sub> = Half standard height of superstructure as defined in regulation 33.     
 (5).  All ships assigned a type “B” freeboard, other than oil tankers , chemical tankers and gas carriers , shall have additional reserve buoyancy in the fore end. Within the range of 0.15L abaft of the forward perpendicular, the sum of the projected area between the summer load waterline and the deck at side (A1 and A2 in figure 39.3) and the projected area of an enclosed superstructure, if fitted, (A3) shall not be less than: <sup> *  Reference is made to the Code of Safe Practice for Ships Carrying Timber Deck Cargoes, adopted by the Organization by resolution A.715(17), as amended.  </sup> <sup> *  Reference is made to the Code of Safe Practice for Ships Carrying Timber Deck Cargoes, adopted by the Organization by resolution A.715(17), as amended.  </sup> <sup> *  Reference is made to the Code of Safe Practice for Ships Carrying Timber Deck Cargoes, adopted by the Organization by resolution A.715(17), as amended.  </sup> (0.15F <sub>min</sub> + 4(L/3 + 10))L/1000 m <sup>2</sup>, where:  
 
@@ -1737,7 +1737,7 @@ h <sub>f</sub> = Half standard height of superstructure as defined in regulation
 | f <sub>1</sub>  | is the correction for block coefficient given in regulation 30; and  |
 | f <sub>2</sub>  | is the correction for depth, in mm, given in regulation 31.  |
 
-![10000052940](http://wetten.overheid.nl/Illustration/10000052940)
+![]()
 
 ### Regulation  40  
 
@@ -1759,7 +1759,7 @@ h <sub>f</sub> = Half standard height of superstructure as defined in regulation
 (6).  The minimum freeboard for ships of not more than 100 m in length which enter any part of the North Atlantic defined in regulation 52 (Annex II) during the winter seasonal period shall be the winter freeboard plus 50 mm. For other ships, the winter North Atlantic freeboard shall be the winter freeboard.  
 ###Fresh water freeboard
 
-(7).  The minimum freeboard in fresh water of unit density shall be obtained by deducting from the minimum freeboard in salt water:     ![10000052941](http://wetten.overheid.nl/Illustration/10000052941)
+(7).  The minimum freeboard in fresh water of unit density shall be obtained by deducting from the minimum freeboard in salt water:     ![]()
 where: Δ is the displacement in salt water in tonnes at the summer load waterline; and T is the tonnes per centimetre immersion in salt water at the summer load waterline.   
 (8).  Where the displacement at the summer load waterline cannot be certified, the deduction shall be one forty-eight of summer draught, measured from the top of the keel to the centre of the ring of the load line mark.   
 
@@ -1837,7 +1837,7 @@ Percentages at intermediate lengths of superstructure shall be obtained by linea
 (4).  The Tropical Timber Freeboard shall be obtained by deducting from the Summer Timber Freeboard one forty-eighth of the moulded summer timber draught.   
 (5).  The Fresh Water Timber Freeboard shall be computed in accordance with regulation 40(7), based on the summer timber load waterline or with regulation 40(8), based on the summer timber draught measured from the top of the keel to the summer timber load line.   
 (6).  Timber freeboards may be assigned to ships with reduced type “B” freeboards, provided the timber freeboards are calculated on the basis of the ordinary type “B” freeboard.   
-(7).  The Timber Winter mark and/or the Timber Winter North Atlantic mark shall be placed at the same level as the reduced type “B” Winter mark when the computed Timber Winter mark and/or the computed Timber Winter North Atlantic mark fall below the reduced type “B” Winter mark.”   
+(7).  The Timber Winter mark and/or the Timber Winter North Atlantic mark shall be placed at the same level as the reduced type “B” Winter mark when the computed Timber Winter mark and/or the computed Timber Winter North Atlantic mark fall below the reduced type “B” Winter mark.   
 
 ### Annex  II  
 
@@ -1861,7 +1861,7 @@ Winter: 16 October to 15 April
 
 Summer: 16 April to 15 October    
 
-(b) The North Atlantic Winter Seasonal Zone II lies within the meridian of longitude 68°30’W from the coast of the United States to latitude 40°N, thence the rhumb line to the point latitude 36°N, longitude 73°W, thence the parallel of latitude 36°N to longitude 25°W and thence the rhumb line to Cape Toriñana. Excluded from this zone are the North Atlantic winter seasonal zone I, the North Atlantic winter seasonal area and the Baltic Sea bounded by the parallel of latitude of the Skaw in the Skagerrak. The Shetland Islands are to be considered as being on the boundary of the North Atlantic winter seasonal zones I and II. Seasonal periods: 
+(b) The North Atlantic Winter Seasonal Zone II lies within the meridian of longitude 68°30' W from the coast of the United States to latitude 40°N, thence the rhumb line to the point latitude 36°N, longitude 73°W, thence the parallel of latitude 36°N to longitude 25°W and thence the rhumb line to Cape Toriñana. Excluded from this zone are the North Atlantic winter seasonal zone I, the North Atlantic winter seasonal area and the Baltic Sea bounded by the parallel of latitude of the Skaw in the Skagerrak. The Shetland Islands are to be considered as being on the boundary of the North Atlantic winter seasonal zones I and II. Seasonal periods: 
 
 Winter: 1 November to 31 March  
 
@@ -1891,11 +1891,7 @@ Summer: 16 April to 15 October
 
 ####Southern Winter Seasonal Zone
 
-The northern boundary of the Southern Winter Seasonal Zone is — the rhumb line from the east coast of the American continent at Cape Tres Puntas to the point latitude 34°S, longitude 50°W, thence the parallel of latitude 34°S to longitude 17°E, thence the rhumb line to the point latitude 35°10'S, longitude 20°E, thence the rhumb line to the point latitude 34°S, longitude 28°E, thence along the rhumb line to the point latitude 35°30'S, longitude 118°E, and thence the rhumb line to Cape Grim on the northwest coast of Tasmania; thence along the north and east coast of Tasmania to the southernmost point of Bruny Island, thence the rhumb line to Black Rock Point on Stewart Island, thence the rhumb line to the point latitude 47°S, longitude 170°E, thence along the rhumb line to the point latitude 33°S, longitude 170°W, and thence the parallel of latitude 33°S to the point latitude 33° S, longitude 79° W, thence the rhumb line to the point latitude 41°S, longitude 75° W, thence the rhumb line to Punta Corona lighthouse on Chiloe Island, latitude 41 °47'S, longitude 73°53'W, thence along the north east and south coasts of Chiloe Island to the point latitude 43°20'S, longitude 74°20'W, and thence the meridian of longitude 74° 20'W to the parallel of latitude 45° 45'S, including the inner zone of Chiloe channels from the meridian 74°20'W to the east. Seasonal periods: 
-
-Winter: 16 April to 15 October  
-
-Summer: 16 October to 15 April    
+The northern boundary of the Southern Winter Seasonal Zone is: the rhumb line from the east coast of the American continent at Cape Tres Puntas to the point latitude 34° S, longitude 50° W, thence the parallel of latitude 34° S to longitude 16° E, thence the rhumb line to the point latitude 36° S, longitude 20° E, thence the rhumb line to the point latitude 34° S, longitude 30° E, thence along the rhumb line to the point latitude 35°30’ S, longitude 118° E, and thence the rhumb line to Cape Grim on the north-west coast of Tasmania; thence along the north and east coasts of Tasmania to the southernmost point of Bruny Island, thence the rhumb line to Black Rock Point on Stewart Island, thence the rhumb line to the point latitude 47° S, longitude 170° E, thence along the rhumb line to the point latitude 33° S, longitude 170° W, and thence the parallel of latitude 33° S to the point latitude 33° S, longitude 79° W, thence the rhumb line to the point latitude 41° S, longitude 75° W, thence the rhumb line to Punta Corona lighthouse on Chiloe Island, latitude 41°47’ S, longitude 73°53’ W, thence along the north, east and south coasts of Chiloe Island to the point latitude 43°20’ S, longitude 74°20’ W, and thence the meridian of longitude 74°20’ W to the parallel of latitude 45°45’ S, including the inner zone of Chiloe channels from the meridian 74°20’ W to the east.  *Seasonal periods:*  WINTER: 16 April to 15 October SUMMER: 16 October to 15 April  
 
 ### Regulation  48  
 
@@ -2037,18 +2033,18 @@ The part of the North Atlantic referred to in Regulation 40 (6) (Annex I) compri
 
 ####Certificates
 
-![10000052675](http://wetten.overheid.nl/Illustration/10000052675)
-![10000052677](http://wetten.overheid.nl/Illustration/10000052677)
-![10000052678](http://wetten.overheid.nl/Illustration/10000052678)
-![10000052679](http://wetten.overheid.nl/Illustration/10000052679)
-![10000052682](http://wetten.overheid.nl/Illustration/10000052682)
-![10000052683](http://wetten.overheid.nl/Illustration/10000052683)
-![10000052684](http://wetten.overheid.nl/Illustration/10000052684)
-![10000052685](http://wetten.overheid.nl/Illustration/10000052685)
-![10000052686](http://wetten.overheid.nl/Illustration/10000052686)
-![10000052687](http://wetten.overheid.nl/Illustration/10000052687)
-![10000052688](http://wetten.overheid.nl/Illustration/10000052688)
-![10000052906](http://wetten.overheid.nl/Illustration/10000052906)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ####Internationaal Verdrag betreffende de uitwatering van schepen, 1966
 
@@ -2197,13 +2193,13 @@ Het onderzoek en de inspectie van schepen en het aanbrengen van merken daarop wo
 
 a) Een eerste onderzoek vóór het schip in dienst wordt gesteld, hetwelk dient in te houden een volledige inspectie van zijn constructie en uitrusting voor zover hieraan door dit Verdrag eisen worden gesteld. Het onderzoek dient zodanig te zijn dat wordt gewaarborgd dat de inrichting, het materiaal en de verbanddelen ten volle voldoen aan de eisen van dit Verdrag.  
 
-b) Een hernieuwd onderzoek dat wordt verricht met inachtneming van door de Administratie vast te stellen tussenpozen, die niet langer mogen zijn dan vijfjaar, behalve wanneer artikel 19, tweede, vijfde, zesde en zevende lid van toepassing zijn, dat zodanig dient te zijn dat wordt gewaarborgd dat de constructie, de uitrusting, de inrichting, het materiaal en de verbanddelen ten volle voldoen aan de eisen van dit Verdrag.  
+b) Een hernieuwd onderzoek dat wordt verricht met inachtneming van door de Administratie vast te stellen tussenpozen, die niet langer mogen zijn dan vijf jaar, behalve wanneer artikel 19, tweede, vijfde, zesde en zevende lid van toepassing zijn, dat zodanig dient te zijn dat wordt gewaarborgd dat de constructie, de uitrusting, de inrichting, het materiaal en de verbanddelen ten volle voldoen aan de eisen van dit Verdrag.  
 
 c) Een jaarlijks onderzoek binnen 3 maanden voor of na de verjaardatum van het certificaat, ten einde vast te stellen dat 
 
 (i) geen veranderingen in de romp of in de bovenbouw zijn aangebracht, die van invloed zijn op de berekeningen tot vaststelling van de plaats van de uitwateringslijn;  
 
-(ii) de onderdelen en middelen voor de bescherming van openingen, de verschansing of het relingwerk, de waterloospoorten en de toegangen tot de verblijven van de bemanning in deugdelijke staatzijn gehouden;  
+(ii) de onderdelen en middelen voor de bescherming van openingen, de verschansing of het relingwerk, de waterloospoorten en de toegangen tot de verblijven van de bemanning in deugdelijke staat zijn gehouden;  
 
 (iii) de diepgangsmerken juist en op onwisbare wijze zijn aangebracht;  
 
@@ -2255,7 +2251,7 @@ c) Wanneer het hernieuwde onderzoek wordt voltooid meer dan drie maanden voor de
 4.  Indien na het in artikel 4, eerste lid, letter b bedoelde hernieuwde onderzoek geen nieuw certificaat ten behoeve van het schip kan worden afgegeven vóór de vervaldatum van het bestaande certificaat, kan de persoon of de organisatie die het onderzoek verricht de geldigheidsduur van het bestaande certificaat verlengen voor een tijdvak van ten hoogste 5 maanden. Deze verlenging wordt aangetekend op de rugzijde van het certificaat en wordt slechts verleend indien er geen veranderingen hebben plaats gehad in de constructie, de uitrusting, de inrichting, het materiaal of de verbanddelen die van invloed zijn op het vrijboord van het schip.   
 5.  Indien een schip zich op het tijdstip waarop een certificaat zijn geldigheid verliest niet in een haven bevindt waar het moet worden onderzocht, kan de Administratie de geldigheidsduur van het certificaat verlengen, maar deze verlenging wordt uitsluitend verleend om het schip in staat te stellen zijn reis naar de haven waar het moet worden onderzocht te voltooien en dan uitsluitend in gevallen waarin het juist en redelijk voorkomt zulks te doen. Een certificaat mag niet worden verlengd voor een tijdvak langer dan 3 maanden en een schip ten behoeve waarvan een verlenging is verleend, is bij zijn aankomst in de haven waar het moet worden onderzocht, niet gerechtigd uit hoofde van een zodanige verlenging die haven te verlaten zonder een nieuw certificaat. Wanneer het hernieuwde onderzoek is voltooid, is het nieuwe certificaat geldig tot een datum uiterlijk 5 jaar na de vervaldatum van het bestaande certificaat voordat de verlenging werd verleend.   
 6.  Een certificaat afgegeven ten behoeve van een schip dat korte reizen maakt en dat niet is verlengd ingevolge de voorgaande bepalingen van dit artikel kan door de Administratie worden verlengd met een tijdvak van uitstel van ten hoogste één maand na de op het certificaat vermelde vervaldatum. Wanneer het hernieuwde onderzoek is voltooid, is het nieuwe certificaat geldig tot een datum uiterlijk 5 jaar na de vervaldatum van het bestaande certificaat voordat de verlenging werd verleend.   
-7.  In bijzondere omstandigheden, zoals bepaald door de Administratie, behoeft een nieuw certificaat niet te worden gedateerd te rekenen van de vervaldatum van het bestaande certificaat zoals voorgeschreven in het eerste, vijfde en zesde lid. In deze bijzondere omstandigheden is het nieuwe certificaat geldig tot een datum uiterlijk vijfjaar na de datum van voltooiing van het hernieuwde onderzoek.   
+7.  In bijzondere omstandigheden, zoals bepaald door de Administratie, behoeft een nieuw certificaat niet te worden gedateerd te rekenen van de vervaldatum van het bestaande certificaat zoals voorgeschreven in het eerste, vijfde en zesde lid. In deze bijzondere omstandigheden is het nieuwe certificaat geldig tot een datum uiterlijk vijf jaar na de datum van voltooiing van het hernieuwde onderzoek.   
 8.  Indien een jaarlijks onderzoek is voltooid vóór het in artikel 14 aangegeven tijdvak: 
 
 a) wordt de verjaardatum op het certificaat door een aantekening op de rugzijde gewijzigd in een datum ten hoogste 3 maanden na de datum waarop het onderzoek was voltooid;  
@@ -2375,7 +2371,7 @@ a. Op verzoek van een Verdragsluitende Regering wordt iedere door haar voorgeste
 
 b. Een dergelijke wijziging treedt in werking twaalf maanden na de datum waarop zij door alle Verdragsluitende Regeringen is aanvaard, tenzij over een eerdere datum overeenstemming is bereikt. Een Verdragsluitende Regering die haar aanvaarding of verwerping van de wijziging niet binnen drie jaar nadat deze wijziging haar voor het eerst door de Organisatie is medegedeeld ter kennis van laatstgenoemde brengt wordt geacht de wijziging te hebben aanvaard.  
 
-c. Elke voorgestelde wijziging wordt geacht te zijn verworpen indien zij niet wordt aanvaard krachtens het bepaalde in *b* van dit lid binnen driejaar nadat zij voor het eerst door de Organisatie aan alle Verdragsluitende Regeringen is medegedeeld.     
+c. Elke voorgestelde wijziging wordt geacht te zijn verworpen indien zij niet wordt aanvaard krachtens het bepaalde in *b* van dit lid binnen drie jaar nadat zij voor het eerst door de Organisatie aan alle Verdragsluitende Regeringen is medegedeeld.     
 3.  Wijziging na bestudering in de Organisatie 
 
 a. Op verzoek van een Verdragsluitende Regering wordt iedere door haar voorgestelde wijziging van dit Verdrag door de Organisatie bestudeerd. Indien zij wordt goedgekeurd door een meerderheid van twee derde der aanwezige hun stem uitbrengende leden van de Maritieme Veiligheidscommissie van de Organisatie, wordt een zodanige wijziging aan alle leden van de Organisatie en aan alle Verdragsluitende Regeringen medegedeeld tenminste zes maanden voordat zij wordt bestudeerd door de Algemene Vergadering van de Organisatie.  
@@ -2395,7 +2391,7 @@ b. Iedere wijziging door een zodanige conferentie, goedgekeurd door een meerderh
 
 c. Een zodanige wijziging treedt in werking twaalf maanden na de datum waarop zij door twee derde van de Verdragsluitende Regeringen is aanvaard. De wijziging treedt in werking ten aanzien van alle Verdragsluitende Regeringen, behalve die Regeringen welke voordat zij in werking treedt een verklaring afleggen dat zij de wijziging niet aanvaarden.  
 
-d. Een krachtens *a* bijeengeroepen conferentie kan, met twee derde meerderheid van de aanwezige hun stem uitbrengende leden, ten tijde van de goedkeuring van een wijziging besluiten dat deze van zodanig belang is dat iedere Verdragsluitende Regering die een verklaring; aflegt krachtens een de wijziging niet aanvaardt binnen een tijdvak van twaalf maanden nadat zij in werking is getreden, ophoudt partij te zijn bij dit Verdrag na het verstrijken van dat tijdvak.     
+d. Een krachtens *a* bijeengeroepen conferentie kan, met twee derde meerderheid van de aanwezige hun stem uitbrengende leden, ten tijde van de goedkeuring van een wijziging besluiten dat deze van zodanig belang is dat iedere Verdragsluitende Regering die een verklaring aflegt krachtens een de wijziging niet aanvaardt binnen een tijdvak van twaalf maanden nadat zij in werking is getreden, ophoudt partij te zijn bij dit Verdrag na het verstrijken van dat tijdvak.     
 5.  Iedere wijziging van dit Verdrag die krachtens dit artikel tot stand komt, die betrekking heeft op de constructie van een schip, is slechts van toepassing op schepen waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na de datum waarop de wijziging in werking treedt.   
 6.  De Organisatie stelt alle Verdragsluitende Regeringen in kennis van alle wijzigingen die krachtens dit artikel in werking treden, alsmede van. de datum waarop elk van deze wijzigingen in werking treedt.   
 7.  Elke aanvaarding of verklaring krachtens dit artikel geschiedt door middel van schriftelijke mededeling aan de Organisatie, die alle Verdragsluitende Regeringen in kennis stelt van de ontvangst van de aanvaarding of de verklaring.   
@@ -2512,7 +2508,7 @@ b. Bij schepen zonder roerkoning is de lengte (L) gelijk aan 96% van de waterlij
 
 c. Wanneer de voorstevencontour boven de lastlijn op 85% van de kleinste holte naar de mal concaaf van vorm is, wordt aangenomen dat het voorlijk gelegen eindpunt van de lengte en de voorzijde van de voorsteven samenvallen met de verticale projectie van het meest naar achteren gelegen punt van de voorstevencontour (boven die lastlijn) op die lastlijn (zie figuur 3.1).  
 
-d. Bij schepen die met stuurlast ontworpen zijn, moet de waterlijn waarop deze gemeten wordt evenwijdig aan de ontwerplastlijn worden genomen op 85% van de kleinste holte naar de mal D <sub>min</sub>, die wordt verkregen door het trekken van een evenwijdige lijn langs de kiellijn van het vaartuig (met inbegrip van de skeg) rakend aan de zeeglijn naar de mal van het vrijboorddek. De kleinste holte naar de mal is de verticale afstand gemeten van de bovenkant van de kiel tot de bovenkant van de balken van het vrijboorddek in de zijde op het raakpunt (zie figuur 3.2).     ![10000052949](http://wetten.overheid.nl/Illustration/10000052949)
+d. Bij schepen die met stuurlast ontworpen zijn, moet de waterlijn waarop deze gemeten wordt evenwijdig aan de ontwerplastlijn worden genomen op 85% van de kleinste holte naar de mal D <sub>min</sub>, die wordt verkregen door het trekken van een evenwijdige lijn langs de kiellijn van het vaartuig (met inbegrip van de skeg) rakend aan de zeeglijn naar de mal van het vrijboorddek. De kleinste holte naar de mal is de verticale afstand gemeten van de bovenkant van de kiel tot de bovenkant van de balken van het vrijboorddek in de zijde op het raakpunt (zie figuur 3.2).     ![]()
 
 2.  *Loodlijnen.* De voorloodlijn en de achterloodlijn worden gerekend aan het voor- en achtereinde van de lengte (L). De voorloodlijn moet samenvallen met de voorzijde van de voorsteven op de waterlijn waarop de lengte gemeten wordt.   
 3.  *Midscheeps.* Midscheeps is gelegen op het midden van de lengte (L).   
@@ -2531,8 +2527,8 @@ a. De holte voor de berekening van het vrijboord (D) is de holte naar de mal mid
 b. De holte voor de berekening van het vrijboord (D) bij een schip waar de overgang van de huidbeplating naar de dekbeplating als een rondgezette plaat is uitgevoerd, waarbij de straal van de ronding groter is dan 4% van de breedte (B) of waar de bovenzijde van het schipsboord een ongewone vorm heeft, is gelijk aan de holte voor de berekening van het vrijboord van een schip met een denkbeeldig grootspant met een verticaal bovendeel van het boord en met dezelfde dekrondte als het grootspant en waarvan de oppervlakte van het bovenste gedeelte van de dwarsdoorsnede gelijk is aan dat van het bovengedeelte van het werkelijke grootspant.     
 7.   *Volheidscoëfficiënt.*  
 
-a. De volheidscoëfficiënt (Cb) wordt uitgedrukt door:   ![10000052950](http://wetten.overheid.nl/Illustration/10000052950)
-; waarbij   ![10000052951](http://wetten.overheid.nl/Illustration/10000052951)
+a. De volheidscoëfficiënt (Cb) wordt uitgedrukt door:   ![]()
+; waarbij   ![]()
 de waterverplaatsing naar de mal voorstelt (uitbouwsels niet meegerekend) voor een schip met een metalen huid en de waterverplaatsing op buitenkant huid voorstelt voor een schip met een huid van elk ander materiaal, beide bij een diepgang zonder kiel *d* 1; en waarbij d1 85% van de kleinste holte naar de mal bedraagt.  
 
 b. Bij de berekening van de volheidscoëfficiënt van een schip met meervoudige romp moet de volle breedte (B) als omschreven in lid 4 worden gebruikt en niet de breedte van een enkele romp.     
@@ -2559,7 +2555,7 @@ iii. Nissen die zich niet tot weerszijden uitstrekken in een dek onder het bloot
 
 iv. Behoorlijke aandacht moet worden geschonken aan de afwatering van blootgestelde nissen en aan het effect van het vrije vloeistofoppervlak op de stabiliteit.  
 
-v. Het is niet de bedoeling dat de bepalingen i. tot en met iv. worden toegepast op baggerschepen, hoppersleepschepen of schepen van een vergelijkbaar type met grote open ruimen, waarbij een en ander per geval moet worden beoordeeld.       ![10000052952](http://wetten.overheid.nl/Illustration/10000052952)
+v. Het is niet de bedoeling dat de bepalingen i. tot en met iv. worden toegepast op baggerschepen, hoppersleepschepen of schepen van een vergelijkbaar type met grote open ruimen, waarbij een en ander per geval moet worden beoordeeld.       ![]()
 
 10.   *Bovenbouw*  
 
@@ -2585,7 +2581,7 @@ g. Bak. Een bak is een bovenbouw die zich uitstrekt van de voorste loodlijn acht
 
 h. Volledige bovenbouw. Een volledige bovenbouw is een bovenbouw die zich, minimaal, uitstrekt van de voorste tot de achterste loodlijn.  
 
-i. Verhoogd halfdek. Een verhoogd halfdek is een bovenbouw die zich vanaf de achterste loodlijn naar voren uitstrekt, in de regel een geringere hoogte heeft dan een normale bovenbouw, en een intact voorste schot heeft (van deugdelijke stormblinden voorziene patrijspoorten die niet geopend kunnen worden en met bouten bevestigde mangatdeksels) (zie figuur 3.4). Wanneer het voorste schot niet intact is als gevolg van deuren en toegangsopeningen, moet de bovenbouw worden beschouwd als een kampanje.     ![10000052953](http://wetten.overheid.nl/Illustration/10000052953)
+i. Verhoogd halfdek. Een verhoogd halfdek is een bovenbouw die zich vanaf de achterste loodlijn naar voren uitstrekt, in de regel een geringere hoogte heeft dan een normale bovenbouw, en een intact voorste schot heeft (van deugdelijke stormblinden voorziene patrijspoorten die niet geopend kunnen worden en met bouten bevestigde mangatdeksels) (zie figuur 3.4). Wanneer het voorste schot niet intact is als gevolg van deuren en toegangsopeningen, moet de bovenbouw worden beschouwd als een kampanje.     ![]()
 
 11.  *Bovenbouwdek.* Een bovenbouwdek is een dek dat de bovenste begrenzing van een bovenbouw vormt.   
 12.  *Gladdekschip.* Een gladdekschip is een schip zonder bovenbouw op het vrijboorddek.   
@@ -2602,7 +2598,7 @@ i. Verhoogd halfdek. Een verhoogd halfdek is een bovenbouw die zich vanaf de ach
 
 ####Deklijn
 
-De deklijn is een horizontale lijn met een lengte van 300 mm en een dikte van 25 mm. Zij wordt midscheeps aan elke zijde van het schip aangebracht en haar bovenkant valt in de regel samen met de snijlijn van het doorgestrookte bovenvlak van het vrijboorddek met de buitenzijde van de huid (zie afbeelding 4.1); de deklijn kan evenwel worden aangebracht in relatie tot een ander vast punt op het schip op voorwaarde dat het vrijboord een overeenkomstige correctie ondergaat. De plaats van dit punt en de vaststelling van het vrijboorddek moeten in alle gevallen worden aangeduid op het Internationale Certificaat van Uitwatering.   ![10000052955](http://wetten.overheid.nl/Illustration/10000052955)
+De deklijn is een horizontale lijn met een lengte van 300 mm en een dikte van 25 mm. Zij wordt midscheeps aan elke zijde van het schip aangebracht en haar bovenkant valt in de regel samen met de snijlijn van het doorgestrookte bovenvlak van het vrijboorddek met de buitenzijde van de huid (zie afbeelding 4.1); de deklijn kan evenwel worden aangebracht in relatie tot een ander vast punt op het schip op voorwaarde dat het vrijboord een overeenkomstige correctie ondergaat. De plaats van dit punt en de vaststelling van het vrijboorddek moeten in alle gevallen worden aangeduid op het Internationale Certificaat van Uitwatering.   ![]()
 
 ### Voorschrift  5  
 
@@ -2652,8 +2648,8 @@ f. Een lijn voor zoetwaterhoutvaartuitwatering in de tropen, aangeduid door de b
 
 7. In gevallen waarin een lijn voor een Noord-Atlantische winteruitwatering identiek is met de lijn voor winteruitwatering, wordt deze lijn van uitwatering gemerkt W.  
 
-8. Alternatieve/aanvullende lijnen van uitwatering die worden geëist door andere van kracht zijnde internationale overeenkomsten kunnen loodrecht op de in lid 1 van dit voorschrift bedoelde verticale lijn en van daar uit naar achteren worden getrokken.     ![10000052956](http://wetten.overheid.nl/Illustration/10000052956)
-![10000052957](http://wetten.overheid.nl/Illustration/10000052957)
+8. Alternatieve/aanvullende lijnen van uitwatering die worden geëist door andere van kracht zijnde internationale overeenkomsten kunnen loodrecht op de in lid 1 van dit voorschrift bedoelde verticale lijn en van daar uit naar achteren worden getrokken.     ![]()
+![]()
 
 ### Voorschrift  7  
 
@@ -2783,7 +2779,7 @@ b. 450 mm indien zij zich bevinden op een plaats van categorie 2.
 9. De schalmlippen moeten eenzelfde tapsheid ten opzichte van de luikhoofdplaat hebben als de keggen. Zij moeten ten minste 65 mm breed zijn en op afstanden van niet meer dan 600 mm van hart tot hart zijn geplaatst. De schalmlippen langs elke zijde of elk einde mogen niet verder dan 150 mm van de hoeken van de luikhoofden verwijderd zijn.   
 ### *Schalmlatten en keggen* 
 
-10. Schalmlatten en keggen moeten deugdelijk en in goede staat zijn. De keggen moeten van hardhout of van een ander gelijkwaardig mate-riaal zijn vervaardigd. De tapsheid mag niet meer bedragen dan 1 op 6; aan het dunste einde moet de dikte ten minste 13 mm bedragen.   
+10. Schalmlatten en keggen moeten deugdelijk en in goede staat zijn. De keggen moeten van hardhout of van een ander gelijkwaardig materiaal zijn vervaardigd. De tapsheid mag niet meer bedragen dan 1 op 6; aan het dunste einde moet de dikte ten minste 13 mm bedragen.   
 ### *Presennings* 
 
 11. Voor elk laadhoofd op de plaatsen van categorie 1 en 2 moeten ten minste twee presennings in goede staat aanwezig zijn. De presennings moeten waterdicht en voldoende sterk zijn. Zij moeten van een materiaal zijn dat ten minste van een goedgekeurd standaardgewicht of van een goedgekeurde standaardkwaliteit is.   
@@ -2809,7 +2805,7 @@ c. moeten luiken op een plaats van categorie 2 worden ontworpen op 2,6 t/m <sup>
 d. mag, wanneer een luikopening op een plaats van categorie 1 is gelegen op ten minste één standaardhoogte van de bovenbouw hoger dan het vrijboorddek, het luik worden ontworpen op 3,5 t/m <sup>2</sup>.      
 
 |--- | a  |
-|:---|:---|
+|---|---|
 | Vrijboord van schepen van het type B  | 0,0074  |
 | Schepen aan welke een vermindering van vrijboord is toegewezen door voorschrift 27, lid 9 of 10  | 0,0363  |
 
@@ -2828,7 +2824,7 @@ d. mag, wanneer een luikopening op een plaats van categorie 1 is gelegen op ten 
 4. Bij schepen met een lengte tussen 24 m en 100 m, en bij posities tussen FP en 0,25L, worden de golfbelastingen verkregen door middel van lineaire interpolatie van de in tabel 16.2 vermelde waarden.    
 
 |--- | langsscheeps  |
-|:---|:---|
+|---|---|
 | --- | FP  | 0,25L  | achter 0,25L  |
 |  *L>100 m*   |
 | vrijboorddek  | vergelijking in 16(2)(a)  | 3,5 t/m <sup>2</sup>  | 3,5 t/m <sup>2</sup>  |
@@ -2947,7 +2943,7 @@ e. Wanneer een houtvaartuitwatering wordt vastgesteld, moet de positie van het u
 
 f. De vereisten voor terugslagkleppen zijn uitsluitend van toepassing op die afvoerpijpen welke gedurende de normale exploitatie van een schip open blijven staan. Voor afvoerpijpen die op zee gesloten moeten blijven, kan een enkele afsluiter met losse klep die vanaf het dek wordt bediend, worden aanvaard.  
 
-g. In tabel 22.1 worden de aanvaardbare voorzieningen voor spuipijpen en inlaat- en afvoerpijpen gegeven.     ![10000052958](http://wetten.overheid.nl/Illustration/10000052958)
+g. In tabel 22.1 worden de aanvaardbare voorzieningen voor spuipijpen en inlaat- en afvoerpijpen gegeven.     ![]()
 De vertaling van de teksten in tabel 22.1 luidt als volgt: afvoerpijpen uit ingesloten ruimten onder het vrijboordek of op het vrijboorddek afvoerpijpen uit andere ruimten algemene eis Vs. 22.1 indien binnenboordeinde < 0,01L boven ZW afvoerpijpen door machineruimte alternatieven (Vs 22.10 indien binnenboordeinde 0,01L boven ZW 0,02L boven ZW buitenboordeinde > 450 mm onder VB-dek of < 600 mm boven ZW Vs22.4 anders Vs. 22(5) bovenbouw- of dekhuisdek VB-dek binnenboordeinde pijpen buitenboordeinde pijpen pijpen uitkomend op open dek terugslagklep zonder afsluitmiddel terugslagklep met ter plaatse bediend afsluitmiddel ter plaatse bediende klep bediening op afstand normale dikte aanzienlijke dikte  
 
 2. Spuipijpen die vanuit ingesloten bovenbouwen die voor het vervoer van lading worden gebruikt door de huid worden geleid, zijn uitsluitend toegestaan wanneer de rand van het vrijboorddek niet wordt ondergedompeld wanneer het schip, naar de ene of de andere zijde, 5° slagzij maakt. In andere gevallen moeten de afvoerpijpen binnenboord worden geleid in overeenstemming met de vereisten van het van kracht zijnde Internationaal Verdrag voor de beveiliging van mensenlevens op zee.  
@@ -3073,7 +3069,7 @@ g. Gootranden met een hoogte van meer dan 300 mm die rond aan weer en wind bloot
 2. Wanneer een schip uitgerust met een trunk niet voldoet aan de vereisten van voorschrift 36, lid 1, e, of wanneer doorlopende of grotendeels doorlopende langshoofden van luikopeningen zijn aangebracht tussen een onderbroken bovenbouw, wordt de minimumoppervlakte van de waterloospoorten aan de hand van de volgende tabel berekend:    
 
 |  *Breedte van het luikhoofd of de trunk in verhouding tot de breedte van het schip*   |  *Oppervlakte van de waterloospoorten in verhouding tot de totale oppervlakte van de verschansingen*   |
-|:---|:---|
+|---|---|
 | 40 % of minder  75 % of meer  | 20%  10%  |
 
 De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkregen door middel van lineaire interpolatie. 
@@ -3160,10 +3156,10 @@ d. wanneer zulks voor de normale exploitatie van het schip noodzakelijk is, zijn
 
 ####Middelen voor een veilige doorgang van de bemanning
 
-1. Er moet voor een veilige doorgang van de bemanning worden gezorgd door ten minste een van de in onderstaande tabel 25-1.1 voorgeschreven middelen.   ![10000052959](http://wetten.overheid.nl/Illustration/10000052959)
+1. Er moet voor een veilige doorgang van de bemanning worden gezorgd door ten minste een van de in onderstaande tabel 25-1.1 voorgeschreven middelen.   ![]()
 Tabel 25-1.1 
 
-* Olietankschepen, chemicaliëntankschepen en gastankschepen als omschreven in respectievelijk voorschriften II-1/2.12, VII/8.2 enVII/11.2 van het Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd  
+* Olietankschepen, chemicaliëntankschepen en gastankschepen als omschreven in respectievelijk voorschriften II-1/2.12, VII/8.2 en VII/11.2 van het Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd  
 
 ** A <sub>f</sub>: het minimumzomervrijboord voor schepen van het type ‘A” ongeacht het werkelijk vastgestelde vrijboord  H <sub>s</sub>: de standaardhoogte van een bovenbouw als omschreven in voorschrift 33  
 
@@ -3290,7 +3286,7 @@ c. een geringe permeabiliteit van de met lading gevulde ladingafdelingen heeft.
 ###Vermeerdering van vrijboord ten opzichte van het basisvrijboord voor schepen van het type B waarvan de luiken van de luikopeningen voldoen aan de bepalingen van voorschrift 15 (anders dan lid 6)
 
 | Lengte van het schip (m)  | Vermeerdering van vrijboord(mm)  | Lengte van het schip (m)  | Vermeerdering van vrijboord(mm)  | Lengte van het schip (m)  | Vermeerdering van vrijboord(mm)  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | onder de 108  | 50  | 139  | 175  | 170  | 290  |
 | 109  | 52  | 140  | 181  | 171  | 292  |
 | 110  | 55  | 141  | 186  | 172  | 294  |
@@ -3427,7 +3423,7 @@ c. Voor deze onbemande sleepschepen, die op het vrijboorddek slechts kleine toeg
 1. Het basisvrijboord voor schepen van het type A moet worden bepaald aan de hand van tabel 28.1:  Tabel 28.1 Vrijboordtabel voor schepen van het type A 
 
 | Lengte van het schip(m)  | Vrijboord (mm)  | Lengte van het schip (m)  | Vrijboord (mm)  | Lengte van het schip(m)  | Vrijboord (mm)  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 24  | 200  | 51  | 455  | 78  | 814  |
 | 25  | 208  | 52  | 467  | 79  | 828  |
 | 26  | 217  | 53  | 478  | 80  | 841  |
@@ -3548,7 +3544,7 @@ Voor de tussenliggende lengten wordt het vrijboord verkregen door middel van lin
 2. Het basisvrijboord voor schepen van het type B moet worden bepaald aan de hand van tabel 28.2:  Tabel 28.2 Vrijboordtabel voor schepen van het type B 
 
 | Lengte van het schip(m)  | Vrijboord (mm)  | Lengte van het schip (m)  | Vrijboord (mm)  | Lengte van het schip (m)  | Vrijboord (mm)  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 24  | 200  | 70  | 721  | 116  | 1609  |
 | 25  | 208  | 71  | 738  | 117  | 1630  |
 | 26  | 217  | 72  | 754  | 118  | 1651  |
@@ -3670,26 +3666,26 @@ Voor de tussenliggende lengten wordt het vrijboord verkregen door middel van lin
 
 ####Correctie van het vrijboord voor schepen van minder dan 100 m lengte
 
-Het basisvrijboord voor schepen van het type B tussen 24 m en 100 m lang die een gesloten bovenbouw hebben met een in rekening te brengen lengte van niet meer dan 35% van de lengte van het schip moet worden vermeerderd met:   ![10000052960](http://wetten.overheid.nl/Illustration/10000052960)
+Het basisvrijboord voor schepen van het type B tussen 24 m en 100 m lang die een gesloten bovenbouw hebben met een in rekening te brengen lengte van niet meer dan 35% van de lengte van het schip moet worden vermeerderd met:   ![]()
 waarbij L staat voor de lengte van het schip in m; en E <sub>1</sub> de in rekening te brengen lengte is van de bovenbouw in m zoals omschreven in voorschrift 35, zonder de lengte van trunks mee te rekenen.  
 
 ### Voorschrift  30  
 
 ####Correctie voor de volheidscoëfficiënt
 
-Wanneer de volheidscoëfficiënt (C <sub>b</sub>) groter is dan 0,68, moet het basisvrijboord van voorschrift 28, indien nodig gecorrigeerd overeenkomstig voorschrift 27, leden 8 en 10, en voorschrift 29 vermenigvuldigd worden met de factor:   ![10000052965](http://wetten.overheid.nl/Illustration/10000052965)
+Wanneer de volheidscoëfficiënt (C <sub>b</sub>) groter is dan 0,68, moet het basisvrijboord van voorschrift 28, indien nodig gecorrigeerd overeenkomstig voorschrift 27, leden 8 en 10, en voorschrift 29 vermenigvuldigd worden met de factor:   ![]()
 De volheidscoëfficiënt mag niet groter zijn dan 1,0.  
 
 ### Voorschrift  31  
 
 ####Correctie voor de holte
 
-1. Wanneer D groter is dan   ![10000052970](http://wetten.overheid.nl/Illustration/10000052970)
-wordt het vrijboord vermeerderd met   ![10000052967](http://wetten.overheid.nl/Illustration/10000052967)
-R (mm), waarbij R =   ![10000052978](http://wetten.overheid.nl/Illustration/10000052978)
+1. Wanneer D groter is dan   ![]()
+wordt het vrijboord vermeerderd met   ![]()
+R (mm), waarbij R =   ![]()
 bij schepen van minder dan 120 m lengte en R = 250 bij schepen van 120 m lengte en meer.    
 
-2. Wanneer D kleiner is dan   ![10000052973](http://wetten.overheid.nl/Illustration/10000052973)
+2. Wanneer D kleiner is dan   ![]()
 wordt geen vermindering toegepast behalve bij een schip met een gesloten bovenbouw die over ten minste 0,6 L het middengedeelte van de lengte bedekt met een volledige trunk of met een combinatie van een onderbroken gesloten bovenbouw en trunks die geheel van voor tot achter doorlopen, in welk geval het vrijboord wordt verminderd op de in lid 1 voorgeschreven wijze.  
 
 3. Wanneer de hoogte van de bovenbouw of de trunk minder is dan de overeenkomstige standaardhoogte, moet de vermindering van het vrijboord worden gecorrigeerd naar de verhouding tussen de werkelijke hoogte van de bovenbouw of trunk en de toepasselijke standaardhoogte zoals omschreven in voorschrift 33.    
@@ -3708,8 +3704,8 @@ Wanneer de werkelijke holte tot de bovenkant van de deklijn groter of kleiner is
 
 2. De correctie wordt opgeteld bij het verkregen vrijboord nadat alle overige correcties zijn toegepast, behoudens de correctie voor boeghoogte.  
 
-3. Wanneer het vrijboord, gecorrigeerd voor verlies aan drijfvermogen als hierboven genoemd, groter is dan het geometrisch minimumvrijboord vastgesteld aan de hand van een holte naar de mal gemeten tot de bodem van de nis, mag deze laatste waarde worden gehanteerd.   ![10000052980](http://wetten.overheid.nl/Illustration/10000052980)
-Correctie is de optelling bij het vrijboord gelijk aan:   ![10000052981](http://wetten.overheid.nl/Illustration/10000052981)
+3. Wanneer het vrijboord, gecorrigeerd voor verlies aan drijfvermogen als hierboven genoemd, groter is dan het geometrisch minimumvrijboord vastgesteld aan de hand van een holte naar de mal gemeten tot de bodem van de nis, mag deze laatste waarde worden gehanteerd.   ![]()
+Correctie is de optelling bij het vrijboord gelijk aan:   ![]()
 
 ### Voorschrift  33  
 
@@ -3718,7 +3714,7 @@ Correctie is de optelling bij het vrijboord gelijk aan:   ![10000052981](http://
 De standaardhoogte van een bovenbouw is die als aangegeven in de volgende tabel:  
 
 |--- | Standaardhoogte (in m)  |
-|:---|:---|
+|---|---|
 | L (m)  | Verhoogd halfdek  | Elke andere bovenbouw  |
 | 30 of minder  75  125 of meer  | 0,9  1,2  1,8  | 1,8  1,8  2,3  |
 
@@ -3738,8 +3734,8 @@ a. Wanneer de hoogte van de bovenbouw, boven het hellende gedeelte, gelijk is aa
 
 b. Wanneer de hoogte groter is dan de standaardhoogte, dan moet de lengte S worden verkregen zoals in figuur 34.2 wordt getoond.  
 
-c. Het voorgaande is uitsluitend van toepassing wanneer de helling, ten opzichte van de basislijn, 15° of meer bedraagt. Wanneer de helling minder dan 15° bedraagt, moet een en ander als zeeg worden beschouwd.     ![10000052984](http://wetten.overheid.nl/Illustration/10000052984)
-![10000052985](http://wetten.overheid.nl/Illustration/10000052985)
+c. Het voorgaande is uitsluitend van toepassing wanneer de helling, ten opzichte van de basislijn, 15° of meer bedraagt. Wanneer de helling minder dan 15° bedraagt, moet een en ander als zeeg worden beschouwd.     ![]()
+![]()
 
 ### Voorschrift  35  
 
@@ -3810,7 +3806,7 @@ e. de breedte van de trunk moet worden gemeten tussen de zijschotten van de trun
 2. Wanneer de totale in rekening te brengen lengte van een bovenbouw en trunk kleiner is dan 1 L, is de aftrek een uit de volgende tabel verkregen percentage:  Tabel 37.1 Aftrekpercentage voor schepen van het type A en van het type B 
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | --- | Totale in rekening te brengen lengte van bovenbouw en trunk  |
 | --- | 0  | 0,1 L  | 0,2 L  | 0,3 L  | 0,4 L  | 0,5 L  | 0,6 L  | 0,7 L  | 0,8 L  | 0,9 L  | 1 L  |
 | Aftrekpercentage voor alle typen bovenbouw  | 0  | 7  | 14  | 21  | 31  | 41  | 52  | 63  | 75,3  | 87,7  | 100  |
@@ -3833,11 +3829,11 @@ Voor de tussenliggende lengten van de bovenbouw en trunk worden de percentages v
 
 4. Van schepen waarvan de bovenzijde van het scheepsboord een ongewone vorm heeft en waarbij een terugwijking of verspringing in die bovenzijde voorkomt, wordt de zeeg beschouwd in relatie tot de gelijkwaardig holte in het midden van de lengte.  
 
-5. Van schepen met een bovenbouw van standaardhoogte die zich over de gehele lengte van het vrijboorddek uitstrekt, wordt de zeeg van het dek van de bovenbouw gemeten. Wanneer de hoogte van de bovenbouw de standaardhoogte overtreft, wordt het kleinste verschil (Z) tussen de werkelijke hoogte en de standaardhoogte toegevoegd aan iedere eindordinaat. De tussenliggende ordinaten op afstanden van 1/6 L en 1/3 L vanaf de loodlijnen worden respectievelijk met 0,444 Z en 0,111 Z verhoogd. Wanneer op de bovenbouw een gesloten kampanje of bak is geplaatst, wordt voor een dergelijke kampanje of bak een vergroting van de zeeg toegestaan, overeenkomstig de in lid 12 omschreven methode als getoond in afbeelding 38.1.   ![10000052993](http://wetten.overheid.nl/Illustration/10000052993)
+5. Van schepen met een bovenbouw van standaardhoogte die zich over de gehele lengte van het vrijboorddek uitstrekt, wordt de zeeg van het dek van de bovenbouw gemeten. Wanneer de hoogte van de bovenbouw de standaardhoogte overtreft, wordt het kleinste verschil (Z) tussen de werkelijke hoogte en de standaardhoogte toegevoegd aan iedere eindordinaat. De tussenliggende ordinaten op afstanden van 1/6 L en 1/3 L vanaf de loodlijnen worden respectievelijk met 0,444 Z en 0,111 Z verhoogd. Wanneer op de bovenbouw een gesloten kampanje of bak is geplaatst, wordt voor een dergelijke kampanje of bak een vergroting van de zeeg toegestaan, overeenkomstig de in lid 12 omschreven methode als getoond in afbeelding 38.1.   ![]()
 
 6. Wanneer het dek van een gesloten bovenbouw ten minste dezelfde zeeg heeft als het blootgestelde vrijboorddek, wordt de zeeg van het ingesloten gedeelte van het vrijboorddek niet in rekening gebracht.  
 
-7. Wanneer een gesloten kampanje of bak van standaardhoogte een grotere zeeg heeft dan het vrijboorddek of wanneer de hoogte de standaardhoogte overtreft, mag de zeeg van het vrijboorddek zoals aangegeven in lid 12 worden vergroot. Wanneer een kampanje of bak uit twee lagen bestaat, moet de in afbeelding 38.2 getoonde methode worden gehanteerd.   ![10000052994](http://wetten.overheid.nl/Illustration/10000052994)
+7. Wanneer een gesloten kampanje of bak van standaardhoogte een grotere zeeg heeft dan het vrijboorddek of wanneer de hoogte de standaardhoogte overtreft, mag de zeeg van het vrijboorddek zoals aangegeven in lid 12 worden vergroot. Wanneer een kampanje of bak uit twee lagen bestaat, moet de in afbeelding 38.2 getoonde methode worden gehanteerd.   ![]()
 Op de afbeeldingen 38.1 en 38.2 zijn de volgende definities van toepassing:  
 
 | --- | --- |
@@ -3848,7 +3844,7 @@ Op de afbeeldingen 38.1 en 38.2 zijn de volgende definities van toepassing:
 Wanneer de lengte van de eerste laag van de bovenbouw groter is dan 0,5 *l*, begint de virtuele standaard parabolische kromme midscheeps als aangegeven in afbeelding 38.1.   
 ###Standaardzeeglijn
 
-8. De ordinaten van de standaardzeeglijn worden in de volgende tabel aangegeven:   ![10000052995](http://wetten.overheid.nl/Illustration/10000052995)
+8. De ordinaten van de standaardzeeglijn worden in de volgende tabel aangegeven:   ![]()
 
 ###Meting van afwijkingen van de standaardzeeglijn
 
@@ -3858,7 +3854,7 @@ Wanneer de lengte van de eerste laag van de bovenbouw groter is dan 0,5 *l*, beg
 
 11. Wanneer de voorste helft van de zeeglijn hoger is dan de standaard en het achterste deel van de zeeglijn niet lager is dan 75% van de standaard, wordt de overmaat in rekening gebracht. Wanneer het achterste deel lager is dan 50% van de standaard wordt geen rekening gehouden met de overmaat aan zeeg in het voorschip. Wanneer de zeeg in het achterschip een waarde heeft tussen 50% en 75% van de standaardzeeg, kan een tussenliggende correctie voor de overmaat aan zeeg in het voorschip worden toegestaan.  
 
-12. Wanneer een vergroting van de zeeg wordt toegestaan voor een kampanje of een bak, wordt de volgende formule gebruikt:   ![10000052998](http://wetten.overheid.nl/Illustration/10000052998)
+12. Wanneer een vergroting van de zeeg wordt toegestaan voor een kampanje of een bak, wordt de volgende formule gebruikt:   ![]()
 waarbij:  
 
 | --- | --- |
@@ -3878,11 +3874,11 @@ b. Wanneer de hoogte van een bovenbouw kleiner is dan de standaardhoogte, mag he
 
 c. Met een verhoogd halfdek mag alleen rekening worden gehouden wanneer de hoogte van dit halfdek groter is dan de standaardhoogte van ’andere bovenbouwen’ als omschreven in voorschrift 33, en uitsluitend voor het gedeelte waarmee de feitelijke hoogte van het verhoogde halfdek die standaardhoogte overschrijdt.  
 
-d. Wanneer een kampanje of bak schuin aflopende eindschotten heeft, mag een vergroting van de zeeg worden toegestaan vanwege de overmaat aan hoogte. De in lid 12 gegeven formule moet worden gebruikt, waarbij de waarden voor y en L’ de in figuur 38.3 aangegeven waarden zijn.   ![10000053000](http://wetten.overheid.nl/Illustration/10000053000)
+d. Wanneer een kampanje of bak schuin aflopende eindschotten heeft, mag een vergroting van de zeeg worden toegestaan vanwege de overmaat aan hoogte. De in lid 12 gegeven formule moet worden gebruikt, waarbij de waarden voor y en L’ de in figuur 38.3 aangegeven waarden zijn.   ![]()
 
 ###Correctie voor afwijkingen in de standaardzeeglijn
 
-14. De correctie voor zeeg is het tekort of de overmaat aan zeeg (zie de leden 9 tot en met 11) vermenigvuldigd met   ![10000053006](http://wetten.overheid.nl/Illustration/10000053006)
+14. De correctie voor zeeg is het tekort of de overmaat aan zeeg (zie de leden 9 tot en met 11) vermenigvuldigd met   ![]()
 waarbij *S1* de totale lengte S voorstelt van een gesloten bovenbouw als omschreven in voorschrift 34 zonder trunk.   
 ###Vermeerdering voor tekort aan zeeg
 
@@ -3921,8 +3917,8 @@ b. Wanneer de hoogte van de bak kleiner is dan een halve standaardhoogte van de 
 
 i. Wanneer het vrijboorddek een zeeg heeft die zich uitstrekt van achter 0,15 L, door middel van een parabolische kromme die zijn oorsprong heeft op 0,15 L achter de voorste loodlijn op een hoogte gelijk aan de diepte van het schip midscheeps, doorlopend door het snijpunt van het schot van de bak en het dek, en tot aan een punt ter hoogte van de voorste loodlijn niet hoger dan het niveau van het bakdek (als weergegeven in figuur 39.1). Indien de waarde van de hoogte ht in figuur 39.1 echter kleiner is dan de waarde van de hoogte h <sub>b</sub>, dan mag h <sub>t</sub> in de beschikbare boeghoogte worden vervangen door h <sub>b</sub>.  
 
-ii. Wanneer het vrijboorddek een zeeg heeft die zich over minder dan 0,15 L uitstrekt of geen zeeg heeft, door middel van een lijn van het bakdek in de zijde op 0,07 L die evenwijdig aan de basislijn wordt doorgetrokken naar de voorste loodlijn (als weergegeven in figuur 39.2).   ![10000053007](http://wetten.overheid.nl/Illustration/10000053007)
-De vertaling van de teksten in figuur 39.1 luidt als volgt: standaardparabool meegerekende boeghoogte   ![10000053009](http://wetten.overheid.nl/Illustration/10000053009)
+ii. Wanneer het vrijboorddek een zeeg heeft die zich over minder dan 0,15 L uitstrekt of geen zeeg heeft, door middel van een lijn van het bakdek in de zijde op 0,07 L die evenwijdig aan de basislijn wordt doorgetrokken naar de voorste loodlijn (als weergegeven in figuur 39.2).   ![]()
+De vertaling van de teksten in figuur 39.1 luidt als volgt: standaardparabool meegerekende boeghoogte   ![]()
 h <sub>f</sub> = de halve standaardhoogte van de bovenbouw als omschreven in voorschrift 33.  
 
 5. Alle schepen waaraan een vrijboord van het type B is toegewezen, anders dan olietankschepen, chemicaliëntankschepen en gastankschepen , moeten aanvullend reservedrijfvermogen aan de voorzijde hebben. <sup> *  Olietankschepen, chemicaliëntankschepen en gastankschepen worden omschreven in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, respectievelijk in de voorschriften II-1/2.12, VII/8.2 en VII/11.2.  </sup> Binnen het bereik van 0,15 achter de voorste loodlijn, mag de som van de projectie van de oppervlakte tussen de lijn voor zomeruitwatering en het dek in de zijde (A1 en A2 in figuur 39.3) en de projectie van de oppervlakte van een ingesloten bovenbouw, indien aangebracht, (A3) niet minder bedragen dan: (0,15Fmin + 4(L/3 + 10))L/1000 m <sup>2</sup>, waarbij:  
@@ -3934,7 +3930,7 @@ h <sub>f</sub> = de halve standaardhoogte van de bovenbouw als omschreven in voo
 | f1  | de correctie voor volheidscoëfficiënt is als vermeld in voorschrift 30; en  |
 | f2  | de correctie voor diepte is, in mm, als vermeld in voorschrift 31.  |
 
-![10000053010](http://wetten.overheid.nl/Illustration/10000053010)
+![]()
 
 ### Voorschrift  40  
 
@@ -3958,8 +3954,8 @@ h <sub>f</sub> = de halve standaardhoogte van de bovenbouw als omschreven in voo
 6. Het minimumvrijboord voor schepen van niet meer dan 100 m lengte die gedurende het winterseizoen enig deel van de Noord-Atlantische Oceaan als aangegeven in voorschrift 52 (Bijlage II) bevaren, moet het wintervrijboord zijn, vermeerderd met 50 mm. Voor andere schepen is het wintervrijboord in de Noord-Atlantische Oceaan gelijk aan het wintervrijboord.   
 ###Zoetwatervrijboord
 
-7. Het minimumvrijboord in zoetwater met een soortelijk gewicht van *l* wordt verkregen door van het minimumvrijboord in zoutwater af te trekken:   ![10000053013](http://wetten.overheid.nl/Illustration/10000053013)
-waarbij:   ![10000053012](http://wetten.overheid.nl/Illustration/10000053012)
+7. Het minimumvrijboord in zoetwater met een soortelijk gewicht van *l* wordt verkregen door van het minimumvrijboord in zoutwater af te trekken:   ![]()
+waarbij:   ![]()
 de waterverplaatsing is in tonnen bij de lijn voor zomeruitwatering, en T het aantal tonnen is waarmee de waterverplaatsing per centimeter in zoutwater bij zomeruitwatering toeneemt.  
 
 8. Wanneer de waterverplaatsing bij de lijn voor zomeruitwatering niet met zekerheid kan worden vastgesteld, moet de aftrek één achtenveertigste van de zomerdiepgang zijn, gemeten van de bovenkant van de kiel tot het middelpunt van de cirkel van het uitwateringsmerk.    
@@ -4014,7 +4010,7 @@ De voorschriften 42 tot en met 45 zijn uitsluitend van toepassing op schepen waa
 5. Wanneer wegens de aard van de deklast houten deklaststutten nodig zijn, moeten deze voldoende sterk zijn, rekening houdend met de breedte van het schip; de sterkte van de stutten mag niet groter zijn dan die van de verschansing en de afstand moet verband houden met de lengte en de aard van de deklast hout, doch mag niet meer dan 3 m bedragen. Sterke hoekstalen of metalen potten of even deugdelijke middelen moeten zijn aangebracht om de stutten vast te maken.   
 ###Sjorrings
 
-6. Een deklast hout moeten deugdelijk over de gehele lengte worden vastgemaakt door middel van een voor de Administratie voor de aard van het vervoerde hout aanvaardbaar sjorringssysteem. , <sup> *  Verwezen wordt naar de Code voor veilig handelen voor schepen die hout in deklast vervoeren, door de Organisatie aangenomen bij resolutie A.715(17), als gewijzigd.  </sup>   
+6. Een deklast hout moeten deugdelijk over de gehele lengte worden vastgemaakt door middel van een voor de Administratie voor de aard van het vervoerde hout aanvaardbaar sjorringssysteem. <sup> *  Verwezen wordt naar de Code voor veilig handelen voor schepen die hout in deklast vervoeren, door de Organisatie aangenomen bij resolutie A.715(17), als gewijzigd.  </sup>   
 ###Stabiliteit
 
 7. Er moeten worden gezorgd voor het behoud van een voldoende stabiliteitsmarge gedurende de gehele reis, waarbij rekening moet worden gehouden met gewichtsvermeerdering als gevolg van het opnemen van water door deklast of als gevolg van ijsafzetting, indien van toepassing, alsmede met gewichtsverlies als gevolg van het verbruik van brandstoffen en voorraden.   
@@ -4034,7 +4030,7 @@ De voorschriften 42 tot en met 45 zijn uitsluitend van toepassing op schepen waa
 1. De minimumzomervrijboorden moeten worden berekend overeenkomstig de voorschriften 27, leden 5, 6 en 14, artikel 28, 29, 30, 31, 32, 37 en 38, met dien verstande dat voorschrift 37 wordt gewijzigd door de in dat voorschrift aangegeven percentages te vervangen door de volgende:  Tabel 45.1 
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | --- | Totale in rekening te brengen lengte van bovenbouw  |
 | --- | 0  | 0,1 L  | 0,2 L  | 0,3 L  | 0,4 L  | 0,5 L  | 0,6 L  | 0,7 L  | 0,8 L  | 0,9 L  | 1 L  |
 | Aftrekpercentage voor alle typen bovenbouw  | 20  | 31  | 42  | 53  | 64  | 70  | 76  | 82  | 88  | 94  | 100  |
@@ -4081,7 +4077,7 @@ Winter: 1 november tot en met 31 maart
 
 Zomer: 1 april tot en met 31 oktober      
 
-2. Periodiek wintervaargebied in de Noordatlantische Oceaan De grens van het periodiek wintervaargebied in de Noordatlantische Oceaan wordt gevormd door de meridiaan van 68° 30' Westerlengte van de kust van de Verenigde Staten tot 40° Noorderbreedte, Van daar door de loxodroom naar het meest zuidelijke snijpunt van de meridiaan van 61° Westerlengte met de kust van Canada en van daar door de oostkust van Canada en van de Verenigde Staten. Seizoenen: 
+2. Periodiek wintervaargebied in de Noordatlantische Oceaan De grens van het periodiek wintervaargebied in de Noordatlantische Oceaan wordt gevormd door de meridiaan van 68° 30' Westerlengte van de kust van de Verenigde Staten tot 40° Noorderbreedte, van daar door de loxodroom naar het meest zuidelijke snijpunt van de meridiaan van 61° Westerlengte met de kust van Canada en van daar door de oostkust van Canada en van de Verenigde Staten. Seizoenen: 
 
 Voor schepen van meer dan 100 meter (328 voet) lengte: 
 
@@ -4105,11 +4101,7 @@ Zomer: 16 april tot en met 15 oktober
 
 ####Zuidelijke periodieke wintervaarzone
 
-De noordgrens van de zuidelijke periodieke wintervaarzone wordt gevormd door de loxodroom van de oostkust van het Amerikaanse continent bij Kaap Tres Puntas naar een punt op 34° Zuiderbreedte en 50° Westerlengte, van daar door de parallel van 34° Zuiderbreedte tot 17° Oosterlengte, van daar door de loxodroom naar een punt op 35° 10' Zuiderbreedte en 20° Oosterlengte, van daar door de loxodroom naar een punt op 35° 30' Zuiderbreedte en 118° Oosterlengte, en van daar door de loxodroom naar Kaap Grim aan de noordwestkust van Tasmanië; van daar door de noordkust en de oostkust van Tasmanië tot het meest zuidelijke punt van Bruny Island, van daar door de loxodroom naar Black Rock Point op Stewart Island, van daar door de loxodroom naar een punt op 47° Zuiderbreedte en 170° Oosterlengte, van daar door de loxodroom naar een punt op 33° Zuiderbreedte en 170° Westerlengte en van daar door de parallel van 33° Zuiderbreedte tot een punt op 33° Zuiderbreedte, 79° Westerlengte, vandaar door de loxodroom naar een punt op 41° Zuiderbreedte, 75° Westerlengte, vandaar door de loxodroom naar de vuurtoren van Punta Corona op het eiland Chiloe, 41°47' Zuiderbreedte, 73°53' Westerlengte, vandaar langs de Noord-, Oost- en Zuidkust van het eiland Chiloe tot een punt op 43° 20' Zuiderbreedte, 74° 20' Westerlengte, en vandaar de door meridiaan van 74°20' Westerlengte tot de parallel van 45°45' Zuiderbreedte, met inbegrip van de binnenzone van de vaarwateren van Chiloe vanaf de meridiaan 74°20' Westerlengte tot de westkust van Zuid-Amerika. Seizoenen: 
-
-Winter: 16 april tot en met 15 oktober  
-
-Zomer: 16 oktober tot en met 15 april    
+De noordgrens van de zuidelijke periodieke wintervaarzone wordt gevormd door: de loxodroom van de oostkust van het Amerikaanse continent bij Kaap Tres Puntas naar een punt op 34° Zuiderbreedte en 50° Westerlengte, vandaar door de parallel van 34° Zuiderbreedte tot 16° Oosterlengte, vandaar door de loxodroom naar een punt op 36° Zuiderbreedte en 20° Oosterlengte, vandaar door de loxodroom naar een punt op 34° Zuiderbreedte en 30° Oosterlengte, vandaar door de loxodroom naar een punt op 35° 30’ Zuiderbreedte en 118° Oosterlengte, en vandaar door de loxodroom naar Kaap Grim aan de noordwestkust van Tasmanië; vandaar langs de noordkust en de oostkust van Tasmanië tot het meest zuidelijke punt van Bruny Island, vandaar door de loxodroom naar Black Rock Point op Stewart Island, vandaar door de loxodroom naar een punt op 47° Zuiderbreedte en 170° Oosterlengte, vandaar door de loxodroom naar een punt op 33° Zuiderbreedte en 170° Westerlengte en vandaar door de parallel van 33° Zuiderbreedte tot een punt op 33° Zuiderbreedte, 79° Westerlengte, vandaar door de loxodroom naar een punt op 41° Zuiderbreedte, 75° Westerlengte, vandaar door de loxodroom naar de vuurtoren van Punta Corona op het eiland Chiloe, 41°47’ Zuiderbreedte, 73°53’ Westerlengte, vandaar langs de noord-, oost- en zuidkust van het eiland Chiloe tot een punt op 43°20’ Zuiderbreedte, 74°20’ Westerlengte, en vandaar door de meridiaan van 74°20’ Westerlengte tot de parallel van 45°45’ Zuiderbreedte, met inbegrip van de binnenzone van de vaarwateren van Chiloe vanaf de meridiaan 74°20’ Westerlengte naar het oosten.  *Seizoenen:*  WINTER: 16 april tot en met 15 oktober ZOMER: 16 oktober tot en met 15 april  
 
 ### Voorschrift  48  
 
@@ -4117,7 +4109,7 @@ Zomer: 16 oktober tot en met 15 april
 
 1. Noordelijke grens van de tropische vaarzone De noordelijke grens van de tropische vaarzone wordt gevormd door de parallel van 13° Noorderbreedte van de oostkust van het Amerikaanse continent tot 60° Westerlengte, van daar door de loxodroom naar een punt op 10° Noorderbreedte en 58° Westerlengte, van daar door de parallel van 10° Noorderbreedte tot 20° Westerlengte, van daar door de meridiaan van 20° Westerlengte tot 30° Noorderbreedte en van daar door de parallel van 30° Noorderbreedte tot de westkust van Afrika; van de oostkust van Afrika door de parallel van 8° Noorderbreedte tot 70° Oosterlengte, van daar door de meridiaan van 70° Oosterlengte tot 13° Noorderbreedte, van daar door de parallel van 13° Noorderbreedte tot de westkust van India; van daar door de zuidkust van India tot 10° 30' Noorderbreedte aan de oostkust van India, van daar door de loxodroom naar een punt op 9° Noorderbreedte en 82° Oosterlengte, van daar door de meridiaan van 82° Oosterlengte tot 8° Noorderbreedte, van daar door de parallel van 8° Noorderbreedte tot de westkust van Maleisië, van daar door de kust van Zuidoost-Azië tot de oostkust van Vietnam op 10° Noorderbreedte, van daar door de parallel van 10° Noorderbreedte tot 145° Oosterlengte, van daar door de meridiaan van 145° Oosterlengte tot 13° Noorderbreedte en van daar door de parallel van 13° Noorderbreedte tot de westkust van het Amerikaanse continent. Saigon wordt beschouwd als te liggen op de grenslijn van de tropische vaarzone en het periodiek tropisch vaargebied.  
 
-2. Zuidelijke grens van de tropische vaarzone De zuidelijke grens van de tropische vaarzone wordt gevormd door de loxodroom van de haven van Santos, Brazilië, naar het punt waar de meridiaan van 40° Westerlengte de Steenbokskeerkring snijdt; van daar door de Steenbokskeerkring tot de westkust van Afrika; van de oostkust van Afrika door de parallel van 20° Zuiderbreedte tot de westkust van Madagascar, van daar door de westkust en noordkust van Madagascar tot 50° Oosterlengte, van daar door de meridiaan van 50° Oosterlengte tot 10° Zuiderbreedte, van daar door de parallel van 10° Zuiderbreedte tot 98° Oosterlengte, van daar door de loxodroom naar Port Darwin, Australië, van daar door de kust van Australië en van Wessel Island oostwaarts tot Kaap Wessel, van daar door de parallel van 11° Zuiderbreedte tot de westzijde van Kaap York; van de oostzijde van Kaap York door de parallel van 11° Zuiderbreedte tot 150° Westerlengte, van daar door de loxodroom naar een punt op 26° Zuiderbreedte en 75° Westerlengte en van daar door de loxodroom tot een punt op 32° 47' Zuiderbreedte, 72° Westerlengte en vandaar naarde parallel van 32°47' Zuiderbreedte tot de westkust van Zuid-Amerika. Valparaiso en Santos worden beschouwd als te liggen op de grenslijn van de tropische vaarzone en de zomervaarzone.  
+2. Zuidelijke grens van de tropische vaarzone De zuidelijke grens van de tropische vaarzone wordt gevormd door de loxodroom van de haven van Santos, Brazilië, naar het punt waar de meridiaan van 40° Westerlengte de Steenbokskeerkring snijdt; van daar door de Steenbokskeerkring tot de westkust van Afrika; van de oostkust van Afrika door de parallel van 20° Zuiderbreedte tot de westkust van Madagascar, van daar door de westkust en noordkust van Madagascar tot 50° Oosterlengte, van daar door de meridiaan van 50° Oosterlengte tot 10° Zuiderbreedte, van daar door de parallel van 10° Zuiderbreedte tot 98° Oosterlengte, van daar door de loxodroom naar Port Darwin, Australië, van daar door de kust van Australië en van Wessel Island oostwaarts tot Kaap Wessel, van daar door de parallel van 11° Zuiderbreedte tot de westzijde van Kaap York; van de oostzijde van Kaap York door de parallel van 11° Zuiderbreedte tot 150° Westerlengte, van daar door de loxodroom naar een punt op 26° Zuiderbreedte en 75° Westerlengte en van daar door de loxodroom tot een punt op 32° 47' Zuiderbreedte, 72° Westerlengte en vandaar naar de parallel van 32°47' Zuiderbreedte tot de westkust van Zuid-Amerika. Valparaiso en Santos worden beschouwd als te liggen op de grenslijn van de tropische vaarzone en de zomervaarzone.  
 
 3. Gebieden behorende tot de tropische vaarzone De volgende gebieden worden beschouwd als te behoren tot de tropische vaarzone: 
 
@@ -4259,16 +4251,16 @@ b. de gehele periodieke wintervaarzone I in de Noordatlantische Oceaan, waarbij 
 
 ####Certificaten
 
-![10000052895](http://wetten.overheid.nl/Illustration/10000052895)
-![10000052896](http://wetten.overheid.nl/Illustration/10000052896)
-![10000052897](http://wetten.overheid.nl/Illustration/10000052897)
-![10000052898](http://wetten.overheid.nl/Illustration/10000052898)
-![10000052899](http://wetten.overheid.nl/Illustration/10000052899)
-![10000052900](http://wetten.overheid.nl/Illustration/10000052900)
-![10000052901](http://wetten.overheid.nl/Illustration/10000052901)
-![10000052902](http://wetten.overheid.nl/Illustration/10000052902)
-![10000052903](http://wetten.overheid.nl/Illustration/10000052903)
-![10000052904](http://wetten.overheid.nl/Illustration/10000052904)
-![10000052905](http://wetten.overheid.nl/Illustration/10000052905)
-![10000051753](http://wetten.overheid.nl/Illustration/10000051753)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 

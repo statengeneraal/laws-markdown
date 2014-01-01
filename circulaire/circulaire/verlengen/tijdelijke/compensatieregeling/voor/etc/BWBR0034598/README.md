@@ -1,0 +1,10 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Circulaire verlengen tijdelijke compensatieregeling voor arbeidsongeschikten die minder dan 35% arbeidsongeschikt zijn
+
+In 2006 is in het Sectoroverleg Rijk afgesproken dat werkgevers en werknemers alles wat mogelijk is moeten doen om medewerkers met een arbeidsongeschiktheidspercentage van minder dan 35% in dienst te houden, dan wel elders te herplaatsen. Daarbij zijn ook afspraken gemaakt over de tijdelijke compensatie van inkomensverlies van deze groep: maximaal 5 jaar lang een compensatie van 70% van het inkomensverlies. Dit omdat deze categorie arbeidsongeschikten niet in aanmerking komt voor een WGA-uitkering. De compensatieregeling is niet structureel afgesproken maar gold in eerste instantie tot en met 2010 voor ambtenaren die voor 1 januari 2011 in de regeling instroomden, hetgeen nadien is verlengd tot 1 januari 2014. Met de Sectorcommisie overleg rijkspersoneel is in december 2013 afgesproken de compensatieregeling voor ambtenaren die door het UWV in het kader van de [WIA](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) minder dan 35% arbeidsongeschikt zijn verklaard met een jaar te verlengen; dit in afwachting van voortzetting van de CAO-onderhandelingen. Afgesproken is de compensatie uit de [artikelen 37b ARAR](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [72b ARSG](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en [54ab RDBZ](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) te verlengen tot herplaatsingen die gerealiseerd worden voor 1 januari 2015. Deze afspraak zal nog in de regelgeving worden geformaliseerd. Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.    
+
+De 
+minister voor Wonen en Rijksdienst,namens deze:
+J. J. M.Uijlenbroek,
+Directeur-generaal Organisatie en Bedrijfsvoering Rijk.   

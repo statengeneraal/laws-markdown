@@ -24,6 +24,8 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
+*gesloten bodemenergiesysteem:* installatie waarmee, zonder grondwater te onttrekken en na gebruik in de bodem terug te brengen, gebruik wordt gemaakt van de bodem voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door middel van een gesloten circuit van leidingen, met inbegrip van een bijbehorende warmtepomp circulatiepomp en regeneratievoorziening, voor zover aanwezig;  
+
 *grondwaterrichtlijn:* richtlijn nr. 2006/118/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de bescherming van het grondwater tegen verontreiniging en achteruitgang van de toestand (PbEU L 372);  
 
 *hoofdwater:* oppervlaktewaterlichaam dat is aangewezen in bijlage II, onderdeel 1, bij dit besluit;  
@@ -32,18 +34,24 @@ Hebben goedgevonden en verstaan:
 
 *mariene strategie voor de Noordzee:* strategie als bedoeld in artikel 5 van de kaderrichtlijn mariene strategie ten aanzien van de Nederlandse territoriale zee en de Nederlandse exclusieve economische zone;  
 
+*open bodemenergiesysteem:* installatie waarmee van de bodem gebruik wordt gemaakt voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door grondwater te onttrekken en na gebruik in de bodem terug te brengen, met inbegrip van bijbehorende bronpompen en warmtewisselaar en, voor zover aanwezig, warmtepomp en regeneratievoorziening;  
+
 *overstromingsrisicobeheerplan:* plan als bedoeld in de artikelen 7 en 8 van de richtlijn overstromingsrisico’s;  
 
 *Protocol:* op 7 november 1996 te Londen tot stand gekomen Protocol bij het op 29 december 1972 te Londen tot stand gekomen Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen (Trb. 2000, 27);  
 
 *richtlijn overstromingsrisico’s:* richtlijn nr. 2007/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2007 over beoordeling en beheer van overstromingsrisico’s (PbEU L 288);  
 
+*richtlijn prioritaire stoffen:* richtlijn 2008/105/EG van het Europees Parlement en de Raad van 16 december 2008 inzake milieukwaliteitsnormen op het gebied van het waterbeleid tot wijziging en vervolgens intrekking van de Richtlijnen 82/176/EEG, 83/513/EEG, 84/156/EEG, 84/491/EEG en 86/280/EEG van de Raad, en tot wijziging van Richtlijn 2000/60/EG (PbEU L 348);  
+
+*SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh;  
+
 *Verdrag:* op 22 september 1992 te Parijs tot stand gekomen Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan (Trb. 1993, 16);  
 
-*wet:* Waterwet;  
+*wet:*[Waterwet](../../../wet/waterwet/BWBR0025458/README.md);  
 
 *zijwater:* oppervlaktewaterlichaam dat in open verbinding staat met een van de hoofdwateren.     
-2.  In dit besluit wordt onder oppervlaktewaterlichaam mede begrepen een gedeelte van een oppervlaktewaterlichaam.   
+2.  In dit besluit en de daarop berustende bepalingen wordt onder oppervlaktewaterlichaam mede begrepen een gedeelte van een oppervlaktewaterlichaam.   
 
 ### §  2  
 
@@ -53,6 +61,14 @@ Hebben goedgevonden en verstaan:
 
 1.  De onderlinge grenzen tussen de Nederlandse delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde zijn aangegeven op de in bijlage I bij dit besluit opgenomen kaarten.   
 2.  De onder de stroomgebieddistricten Eems, Rijn, Maas en Schelde gelegen grondwaterlichamen zijn toegewezen aan de desbetreffende stroomgebieddistricten, met dien verstande dat een grondwaterlichaam dat zich bevindt onder twee stroomgebieddistricten over die stroomgebieddistricten verdeeld is met inachtneming van de in het eerste lid bedoelde grenzen.   
+
+### §  3  
+
+####Overig
+
+### Artikel  1.3  
+
+Dit besluit berust mede op [artikel 7.23, vijfde lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md).  
 
 ### Hoofdstuk  2  
 
@@ -171,7 +187,7 @@ c. gegevens omtrent de voortgang van de uitvoering van de maatregelen, bedoeld i
 3.  De gegevens en resultaten, bedoeld in het tweede lid, worden elektronisch verstrekt. Bij ministeriële regeling wordt een website aangewezen die voor de gegevensverstrekking wordt gebruikt.   
 4.  Ten aanzien van hun onderscheiden aandeel in het waterbeheer verstrekken gedeputeerde staten, het dagelijks bestuur van de waterschappen en burgemeester en wethouders Onze Minister de gegevens die nodig zijn voor het opstellen van de overstromingsrisicobeheerplannen.   
 5.  Ten aanzien van hun onderscheiden aandeel in het waterbeheer verstrekken het dagelijks bestuur van de waterschappen en burgemeester en wethouders aan gedeputeerde staten de gegevens die nodig zijn voor de overstromingsgevaar- en overstromingsrisicokaarten, bedoeld in artikel 4.9.   
-6.  Gedeputeerde staten en burgemeester en wethouders verstrekken op verzoek van Onze Minister ten behoeve van het door hem uit te oefenen toezicht op het waterbeheer de bij dat verzoek omschreven gegevens.   
+6.  Gedeputeerde staten, het dagelijks bestuur van de waterschappen en burgemeester en wethouders verstrekken op verzoek van Onze Minister ten behoeve van het door hem uit te oefenen toezicht op het waterbeheer de bij dat verzoek omschreven gegevens.   
 7.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de gegevensverstrekking.   
 
 ### Hoofdstuk  4  
@@ -241,7 +257,7 @@ d. ten aanzien van het Noordzeebeleid: de bevoegde autoriteiten van de staten di
 a. de overstromingsrisicobeheerplannen voor de stroomgebieddistricten Rijn, Maas, Schelde en Eems, voor zover die betrekking hebben of mede betrekking hebben op het Nederlandse grondgebied;  
 
 b. de aanwijzing van de oppervlaktewaterlichamen in de zin van de kaderrichtlijn water die in beheer zijn bij het Rijk, waarbij kunstmatige of sterk veranderde oppervlaktewaterlichamen worden aangewezen overeenkomstig artikel 4, derde lid, van die richtlijn.     
-2.  Een stroomgebiedbeheerplan omvat de informatie, bedoeld in bijlage VII bij de kaderrichtlijn water en de artikelen 3, vijfde en zesde lid, 4, vierde lid, 5, vierde en vijfde lid, en deel C van bijlage II van de grondwaterrichtlijn, betreffende het Nederlandse deel van het stroomgebieddistrict.   
+2.  Een stroomgebiedbeheerplan omvat de informatie, bedoeld in bijlage VII bij de kaderrichtlijn water en de artikelen 3, vijfde en zesde lid, 4, vierde lid, 5, vierde en vijfde lid, en deel C van bijlage II van de grondwaterrichtlijn, betreffende het Nederlandse deel van het stroomgebieddistrict, alsmede de inventaris, bedoeld in artikel 5 van de richtlijn prioritaire stoffen.   
 3.  Een overstromingsrisicobeheerplan voldoet aan artikel 7 van de richtlijn overstromingsrisico’s. Het plan heeft geen betrekking op overstromingen vanuit rioolstelsels.   
 
 ### Artikel  4.6  
@@ -252,7 +268,7 @@ a. maatregelen als bedoeld in artikel 11 van de kaderrichtlijn water;
 
 b. maatregelen als bedoeld in de artikelen 4, vijfde lid, en 6, eerste lid, van de grondwaterrichtlijn;  
 
-c. doelstellingen en maatregelen als bedoeld in artikel 7 van de richtlijn overstromingsrisico’s.     
+c. doelstellingen en maatregelen als bedoeld in artikel 7 van de richtlijn overstromingsrisico’s.   Met betrekking tot de in het nationale waterplan op te nemen doelstellingen en maatregelen kan gebruik worden gemaakt van de mogelijkheden tot het verlenen van vrijstellingen, respectievelijk toestemmingen als bedoeld in artikel 11, derde lid, onderdeel e, laatste volzin, respectievelijk onderdeel j, van de kaderrichtlijn water, alsmede artikel 6, tweede lid, van de grondwaterrichtlijn en van de mogelijkheid tot het toepassen van uitzonderingen als bedoeld in het derde lid, onder a tot en met f, van dat artikel.   
 2.  Het in het nationale waterplan op te nemen Noordzeebeleid omvat mede de volgende elementen van de mariene strategie voor de Noordzee: 
 
 a. de omschrijving van de goede milieutoestand van de Noordzee, bedoeld in artikel 9, eerste lid, van de kaderrichtlijn mariene strategie en de reeks milieudoelen en bijbehorende indicatoren, bedoeld in artikel 10, eerste lid, van die richtlijn; en  
@@ -313,7 +329,7 @@ a. maatregelen als bedoeld in artikel 11 van de kaderrichtlijn water;
 b. maatregelen als bedoeld in de artikelen 4, vijfde lid, en 6, eerste lid, van de grondwaterrichtlijn; en  
 
 c. doelstellingen en maatregelen als bedoeld in artikel 7 van de richtlijn overstromingsrisico’s.     
-2.  Artikel 4.6, derde en vierde lid, is van overeenkomstige toepassing, met uitzondering van de onderdelen die dienen ter uitvoering van de kaderrichtlijn mariene strategie.   
+2.  Artikel 4.6, eerste lid, laatste volzin, derde en vierde lid, is van overeenkomstige toepassing, met uitzondering van de onderdelen die dienen ter uitvoering van de kaderrichtlijn mariene strategie.   
 
 ### Artikel  4.12  
 
@@ -361,7 +377,7 @@ a. maatregelen als bedoeld in artikel 11 van de kaderrichtlijn water;
 b. doelstellingen en maatregelen als bedoeld in artikel 7 van de richtlijn overstromingsrisico’s;  
 
 c. aanvullende maatregelen op het programma van maatregelen, bedoeld in artikel 4.6, tweede lid, onderdeel b.     
-2.  Artikel 4.6, derde en vierde lid, is van overeenkomstige toepassing, met uitzondering van de onderdelen die dienen ter uitvoering van de kaderrichtlijn mariene strategie.   
+2.  Artikel 4.6, eerste lid, laatste volzin, derde en vierde lid, is van overeenkomstige toepassing, met uitzondering van de onderdelen die dienen ter uitvoering van de kaderrichtlijn mariene strategie.   
 
 ### Artikel  4.17  
 
@@ -381,7 +397,13 @@ Indien internationale verplichtingen of bovenregionale belangen dat noodzakelijk
 
 ### Artikel  5.1  
 
-Van de in [artikel 5.1, eerste lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde verplichtingen wordt vrijstelling verleend met betrekking tot de oppervlaktewaterlichamen Noordzee, Waddenzee, Westerschelde en IJsselmeer.  
+Van de in [artikel 5.1, eerste lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde verplichtingen wordt vrijstelling verleend met betrekking tot de volgende waterstaatswerken of delen daarvan: 
+
+a. de oppervlaktewaterlichamen Noordzee, Waddenzee, Eems-Dollard, Westerschelde en IJsselmeer, met inbegrip van het Zwarte Meer en Ketelmeer;  
+
+b. de krachtens artikel 6.16, eerste lid, in bijlage IV aangewezen gebieden binnen de begrenzing van rivieren, en  
+
+c. de krachtens artikel 6.16, tweede lid, aangewezen gebieden.    
 
 ### §  2  
 
@@ -391,7 +413,7 @@ Van de in [artikel 5.1, eerste lid, van de wet](../../../wet/waterwet/BWBR002545
 
 1.  Onze Minister stelt peilbesluiten vast voor de volgende rijkswateren of onderdelen daarvan: 
 
-a. Noordzeekanaal, Afgesloten IJ, Buiten IJ, Amsterdam-Rijnkanaal;  
+a. Noordzeekanaal, Afgesloten IJ, Amsterdam-Rijnkanaal;  
 
 b. Grevelingenmeer;  
 
@@ -399,7 +421,7 @@ c. Veerse Meer;
 
 d. Volkerak-Zoommeer, Bathse Spuikanaal, Schelde-Rijnverbinding tussen het Volkerak-Zoommeer en de Kreekraksluizen;  
 
-e. IJsselmeer, Ketelmeer, Vossemeer, Zwarte Meer, Markermeer, IJmeer, Gooimeer, Eemmeer, Wolderwijd, Nijkerkernauw, Nuldernauw, Veluwemeer, Drontermeer.     
+e. IJsselmeer, Ketelmeer, Vossemeer, Zwarte Meer, Markermeer, IJmeer, Buiten-IJ, Gooimeer, Eemmeer, Wolderwijd, Nijkerkernauw, Nuldernauw, Veluwemeer, Drontermeer.     
 2.  De voorbereiding van een peilbesluit geschiedt overeenkomstig [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat Onze Minister binnen acht weken na afloop van de termijn, genoemd in [artikel 3.11, vierde lid, van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het peilbesluit vaststelt.   
 3.  Bij het vaststellen van een peilbesluit houdt Onze Minister rekening met het nationale waterplan en het beheerplan voor de rijkswateren.   
 
@@ -467,6 +489,14 @@ a. vanuit een inrichting, niet zijnde een inrichting als bedoeld in [artikel 1.1
 
 b. anders dan vanuit een inrichting in de zin van [artikel 1.1, derde lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
 
+### Artikel  6.1c*  
+
+Op de voorbereiding van een beschikking tot verlening, wijziging of intrekking van een vergunning voor een open bodemenergiesysteem als bedoeld in [artikel 6.4, eerste lid, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.  
+
+### Artikel  6.1c  
+
+[Hoofdstuk 6 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), voor zover die handelingen plaatsvinden in het kader van agrarische activiteiten als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+
 ### Artikel  6.2  
 
 Indien internationale verplichtingen dat noodzakelijk maken, kan bij ministeriële regeling worden bepaald dat: 
@@ -478,10 +508,6 @@ b. het bevoegd gezag met een bij die regeling vast te stellen frequentie beziet 
 ### Artikel  6.3  
 
 Indien internationale verplichtingen dat noodzakelijk maken, kunnen bij ministeriële regeling emissiegrenswaarden worden vastgesteld voor het lozen van stoffen in een oppervlaktewaterlichaam of op een zuiveringtechnisch werk. Bij die regeling kunnen tevens regels worden gesteld ten aanzien van het meten van die stoffen.  
-
-### Artikel  6.3a  
-
-Bij ministeriële regeling worden regels gesteld over het lozen van afvalwater van rookgasreiniging. Deze regels omvatten mede een instructie aan het bevoegd gezag omtrent de aan een vergunning te verbinden voorschriften en beperkingen.  
 
 ### §  3  
 
@@ -556,15 +582,85 @@ b. de Staat op wiens grondgebied dat aan boord nemen geschiedt, partij is bij he
 
 ### §  5  
 
-####Melden en meten van onttrekkingen en infiltraties
+####Onttrekkingen en infiltraties
+
+### Artikel  6.10a  
+
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5, aanhef en onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), grondwater te onttrekken of water te infiltreren onder oppervlaktewaterlichamen in beheer bij het Rijk, voor zover dat beheer inhoudt het uitvoeren en handhaven van bij of krachtens de [wet](../../../wet/waterwet/BWBR0025458/README.md) gestelde regels ten aanzien van peilbesluiten of het brengen van water in of het onttrekken van water uit oppervlaktewaterlichamen (waterkwantiteitsbeheer).   
+2.  Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is voor daarbij aan te wijzen categorieën van gevallen waarin het onttrekken of infiltreren een daarbij vastgestelde hoeveelheidsgrens niet overschrijdt.   
 
 ### Artikel  6.11  
 
-1.  Degene die grondwater onttrekt of water infiltreert, waarvoor geen vergunning is vereist krachtens [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md) of een verordening van het waterschap, meldt dit bij het bevoegd gezag. Bij ministeriële regeling worden regels gesteld over de gegevens die bij de melding worden verstrekt.   
-2.  Degene die grondwater onttrekt of water infiltreert, meet de in elk kwartaal onttrokken hoeveelheid grondwater of geïnfiltreerd water met een nauwkeurigheid van 5%. Voor kortdurende of seizoensgebonden onttrekkingen of infiltraties kan het bevoegd gezag in de voorschriften van de vergunning voor het onttrekken van grondwater of het infiltreren van water of, indien geen vergunning is vereist, bij maatwerkvoorschrift bepalen dat de hoeveelheid over een kortere tijdsspanne wordt gemeten.   
+1.  Degene die grondwater onttrekt of water infiltreert, waarvoor geen vergunning is vereist krachtens [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), artikel 6.10a of een verordening van het waterschap, meldt dit bij het bevoegd gezag. Bij ministeriële regeling worden regels gesteld over de gegevens die bij de melding worden verstrekt.   
+2.  Degene die grondwater onttrekt of water infiltreert, meet de in elk kwartaal onttrokken hoeveelheid grondwater of geïnfiltreerd water met een nauwkeurigheid van ten minste 95%. Voor kortdurende of seizoensgebonden onttrekkingen of infiltraties kan het bevoegd gezag in de voorschriften van de vergunning voor het onttrekken van grondwater of het infiltreren van water of, indien geen vergunning is vereist, bij maatwerkvoorschrift bepalen dat de hoeveelheid over een kortere tijdsspanne wordt gemeten.   
 3.  Degene die water infiltreert, meet de kwaliteit van dat water volgens bij ministeriële regeling te stellen regels.   
 4.  Uiterlijk op 31 januari van elk jaar of, indien de onttrekking of infiltratie is beëindigd, binnen een maand na het tijdstip van beëindiging, wordt opgave gedaan aan het bevoegd gezag over de in het voorgaande kalenderjaar gemeten hoeveelheden onttrokken grondwater, geïnfiltreerd water en de kwaliteit van het geïnfiltreerde water.   
 5.  Bij provinciale verordening, voor zover het betreft het onttrekken van grondwater of het infiltreren van water als bedoeld in [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), dan wel bij verordening van het waterschap, voor zover het betreft het onttrekken van grondwater of het infiltreren van water in andere gevallen dan bedoeld in dat artikel, kunnen gevallen worden aangewezen waarin de verplichtingen, bedoeld in het eerste tot en met vierde lid, niet gelden.   
+
+### §  5a  
+
+####Het installeren en in werking hebben van een open bodemenergiesysteem
+
+### Artikel  6.11a  
+
+1.  Het bevoegd gezag verbindt aan een vergunning als bedoeld in [artikel 6.4, eerste lid, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) voor het onttrekken van grondwater voor een open bodemenergiesysteem de voorschriften die zijn opgenomen in de artikelen 6.11b tot en met 6.11g.   
+2.  Bij ministeriële regeling kunnen ter bescherming van de in [artikel 2.1 van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde doelstellingen en belangen nadere regels worden gesteld indien dit wenselijk is in het belang van een goede uitvoering van deze paragraaf.   
+
+### Artikel  6.11b  
+
+1.  De temperatuur van het grondwater dat door een open bodemenergiesysteem in de bodem wordt teruggebracht, bedraagt niet meer dan 25°C.   
+2.  In afwijking van het eerste lid kan in het belang van een doelmatig gebruik van bodemenergie een hogere temperatuur worden toegestaan, indien het belang van de bescherming van de bodem zich daartegen niet verzet.   
+
+### Artikel  6.11c  
+
+1.  Een open bodemenergiesysteem bereikt uiterlijk vijf jaar na de datum van ingebruikneming een moment waarop geen sprake is van een warmteoverschot en herhaalt dit telkens uiterlijk vijf jaar na het laatste moment waarop die situatie werd bereikt.   
+2.  Van een warmteoverschot is sprake indien de totale hoeveelheid warmte groter is dan de totale hoeveelheid koude, die, uitgedrukt in MWh, vanaf de datum van ingebruikneming door het systeem aan de bodem zijn toegevoegd.   
+3.  In afwijking van het eerste lid kan ten behoeve van een doelmatig gebruik van bodemenergie het koudeoverschot dat het systeem mag veroorzaken worden beperkt.   
+4.  In afwijking van het eerste lid kan ten behoeve van een doelmatig gebruik van bodemenergie een warmteoverschot worden toegestaan, indien het belang van de bescherming van de bodem zich daartegen niet verzet.   
+5.  Indien de hoeveelheid warmte en de hoeveelheid koude die vanaf de datum van ingebruikneming door het systeem aan de bodem zijn toegevoegd, zodanig van elkaar verschillen dat het niet aannemelijk is dat aan het eerste of derde lid kan worden voldaan, wordt op verzoek van het bevoegd gezag binnen drie maanden een plan van aanpak ingediend waarin is vastgelegd op welke wijze en binnen welke termijn aan het eerste lid, onderscheidenlijk derde lid, zal worden voldaan. Nadat het bevoegd gezag daarmee heeft ingestemd, maakt het plan van aanpak deel uit van de vergunning.   
+
+### Artikel  6.11d  
+
+1.  Met betrekking tot het in werking hebben van een open bodemenergiesysteem wordt een registratie bijgehouden die de volgende gegevens bevat: 
+
+a. de temperatuur van het grondwater dat door het systeem in de bodem wordt teruggebracht;  
+
+b. de hoeveelheden warmte en koude die vanaf de datum van ingebruikneming aan de bodem zijn toegevoegd, op zodanige wijze dat daaruit de data kunnen worden afgelezen, waarop aan artikel 6.11c is voldaan;  
+
+c. het energierendement dat jaarlijks vanaf de datum van ingebruikneming is behaald.     
+2.  De geregistreerde gegevens, bedoeld in het eerste lid, worden binnen drie maanden na afloop van elk kalenderjaar toegezonden aan het bevoegd gezag.   
+
+### Artikel  6.11e  
+
+Het verrichten van werkzaamheden ten behoeve van een open bodemenergiesysteem vindt plaats overeenkomstig de daartoe krachtens het [Besluit bodemkwaliteit](../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocumenten door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.  
+
+### Artikel  6.11f  
+
+1.  Het voornemen om het in werking hebben van een open bodemenergiesysteem te beëindigen, wordt ten minste vier weken voor de beëindiging aan het bevoegd gezag gemeld.   
+2.  Zo spoedig mogelijk na de beëindiging van het gebruik van een open bodemenergiesysteem wordt het systeem, zonder daarbij het ondergrondse deel te verwijderen, zodanig opgevuld dat de werking van de oorspronkelijke waterscheidende lagen wordt hersteld.   
+
+### Artikel  6.11g  
+
+1.  Het ontwerp van een open bodemenergiesysteem is afgestemd op aard en omvang van de behoefte aan warmte of koude waarin het systeem voorziet.   
+2.  Een open bodemenergiesysteem levert het energierendement dat bij een doelmatig gebruik en goed onderhoud kan worden behaald.   
+3.  Indien een open bodemenergiesysteem een energierendement levert dat lager is dan in de vergunningaanvraag voor de installatie is opgegeven, kan het bevoegd gezag de verplichting opleggen om binnen een daarbij bepaalde termijn onderzoek te verrichten of te laten verrichten waaruit blijkt of wordt voldaan aan het eerste lid, onderscheidenlijk tweede lid.   
+4.  Indien uit het onderzoek, bedoeld in het derde lid, blijkt dat niet wordt voldaan aan het eerste lid, onderscheidenlijk tweede lid, kan het bevoegd gezag de verplichting opleggen om binnen een daarbij bepaalde termijn de daarbij aangegeven maatregelen te treffen teneinde te voldoen aan het eerste lid, voor zover dit redelijkerwijs van hem kan worden gevergd, onderscheidenlijk het tweede lid.   
+5.  Het bevoegd gezag kan aan een vergunning voorschriften verbinden met betrekking tot het energierendement dat een open bodemenergiesysteem ten minste moet leveren.   
+
+### Artikel  6.11h  
+
+1.  Het bevoegd gezag verbindt aan een vergunning zodanige voorschriften dat het in werking hebben van een open bodemenergiesysteem niet leidt tot zodanige interferentie met een eerder geïnstalleerd bodemenergiesysteem, dat het doelmatig functioneren van een van de desbetreffende systemen kan worden geschaad.   
+2.  Bij de toepassing van het eerste lid wordt rekening gehouden met een eerder geïnstalleerd bodemenergiesysteem, indien: 
+
+a. het een open bodemenergiesysteem betreft waarvoor een vergunning is verleend krachtens [artikel 6.4, eerste lid, onder b, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), of dat aan het bevoegd gezag is gemeld krachtens [artikel 6.6 van die wet](../../../wet/waterwet/BWBR0025458/README.md);  
+
+b. het een gesloten bodemenergiesysteem betreft dat aan het bevoegd gezag is gemeld overeenkomstig [artikel 1.10](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) juncto [artikel 1.21a, eerste of derde lid, van het Activiteitenbesluit milieubeheer](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) dan wel [artikel 1.10a, eerste lid, van het Besluit lozen buiten inrichtingen](../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) of waarvoor een omgevingsvergunning is verleend.     
+
+### Artikel  6.11i  
+
+1.  Met betrekking tot de onderwerpen die in de artikelen 6.11b tot en met 6.11h zijn geregeld, verbindt het bevoegd gezag geen andere voorschriften aan de vergunning, bedoeld in het eerste lid, dan de voorschriften die daaraan moeten worden verbonden krachtens die artikelen.   
+2.  Het bevoegd gezag kan aan de vergunning in aanvulling op de voorschriften die zijn opgenomen in de artikelen 6.11b tot en met 6.11h, met betrekking tot onderwerpen die in die artikelen niet zijn geregeld, andere voorschriften verbinden ter bescherming van de in [artikel 2.1 van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde doelstellingen en belangen.   
+3.  De voorschriften, bedoeld in het eerste lid, kunnen mede inhouden de verplichting om met betrekking tot een bodemenergiesysteem het verrichten van handelingen te melden, metingen of berekeningen uit te voeren, gegevens bij te houden en daarvan opgave te doen aan een daarbij aangewezen bestuursorgaan.   
 
 ### §  6  
 
@@ -572,37 +668,31 @@ b. de Staat op wiens grondgebied dat aan boord nemen geschiedt, partij is bij he
 
 ### Artikel  6.12  
 
-1.  Het is verboden zonder vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van een oppervlaktewaterlichaam of een bijbehorend kunstwerk in beheer bij het Rijk, niet zijnde de Noordzee, door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van een oppervlaktewaterlichaam of een bijbehorend kunstwerk in beheer bij het Rijk, niet zijnde de Noordzee, door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
 
 a. werken te maken of te behouden;  
 
 b. vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.     
 2.  Het eerste lid is niet van toepassing op: 
 
-a. het bouwen van bouwwerken als bedoeld in artikel 2 van [bijlage II bij het Besluit omgevingsrecht](../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), met uitzondering van een bouwwerk als bedoeld in onderdeel 3 van dat artikel, voor zover de oppervlakte daarvan meer dan 30 m <sup>2</sup> bedraagt, en de bouwwerken, bedoeld in de onderdelen 13, 18, onder d, en 20, van dat artikel;  
+a. het bouwen van bouwwerken, voor zover de oppervlakte daarvan niet meer dan 30 m <sup>2</sup> bedraagt;  
 
-b. activiteiten als bedoeld in artikel 4, onderdelen 1 tot en met 4, 6 en 7, van [bijlage II bij het Besluit omgevingsrecht](../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), met dien verstande dat: 
+b. het plaatsen van een erf- of perceelafscheiding;   
 
-1°. voor zover het betreft een bijbehorend bouwwerk als bedoeld in onderdeel 1, onder b, bij een woning, in dat onderdeel, onder 2°, in plaats van 150 m <sup>2</sup> wordt gelezen 25 m <sup>2</sup>;  
-
-2°. voor zover het betreft een bijbehorend bouwwerk als bedoeld in onderdeel 1 bij een ander gebouw dan een woning, hieronder uitsluitend wordt begrepen een bijbehorend bouwwerk als bedoeld onder b van dat onderdeel bij een gebouw met een agrarische bestemming;  
-
-3°. voor zover het betreft een bouwwerk, geen gebouw zijnde, als bedoeld in onderdeel 3, in dat onderdeel, onder b, in plaats van 50 m <sup>2</sup> wordt gelezen 25 m <sup>2</sup>;  
-
-4°. voor zover het betreft installaties als bedoeld in de onderdelen 6 en 7, de oppervlakte daarvan niet meer dan 25 m <sup>2</sup> bedraagt;     
-
-c. het uitvoeren van onderhoud, aanleg of wijziging van waterstaatswerken, voor zover deze activiteiten door of vanwege de beheerder worden verricht;  
+c. het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken, voor zover deze activiteiten door of vanwege de beheerder worden verricht;  
 
 d. het maken van werken om oeverafslag tegen te gaan, mits deze niet boven het oeverland uitsteken, en het ten behoeve van de uitvoering van die werken storten, plaatsen of neerleggen van vaste substanties of voorwerpen;  
 
-e. het permanent afmeren van woonschepen of andere drijvende objecten in rijkswateren, met uitzondering van de rijkswateren of delen van rijkswateren die zijn aangewezen bij ministeriële regeling; en  
+e. het permanent afmeren van woonschepen of andere drijvende objecten in rijkswateren, met uitzondering van de rijkswateren of delen van rijkswateren die zijn aangewezen bij ministeriële regeling;  
 
-f. bij ministeriële regeling aan te wijzen activiteiten van ondergeschikt belang voor de veilige en doelmatige functievervulling van het oppervlaktewaterlichaam of een bijbehorend kunstwerk.     
-3.  Bij ministeriële regeling kan worden bepaald dat voor daarbij aan te wijzen categorieën oppervlaktewaterlichamen het tweede lid niet van toepassing is op daarbij aan te wijzen bouwwerken als bedoeld in het tweede lid, onderdeel a, of daarbij aan te wijzen activiteiten als bedoeld in het tweede lid, onderdeel b.   
+f. bij ministeriële regeling aan te wijzen activiteiten van ondergeschikt belang voor de veilige en doelmatige functievervulling van het oppervlaktewaterlichaam of een bijbehorend kunstwerk; en  
+
+g. ontgrondingen.     
+3.  Bij ministeriële regeling kan worden bepaald dat voor daarbij aan te wijzen categorieën oppervlaktewaterlichamen het tweede lid niet van toepassing is op daarbij aan te wijzen bouwwerken als bedoeld in het tweede lid, onderdeel a of b.   
 
 ### Artikel  6.13  
 
-1.  Het is verboden zonder vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van de Noordzee door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van de Noordzee door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
 
 a. de bodem op te hogen of te verharden of land aan te winnen;  
 
@@ -611,18 +701,18 @@ b. suppleties of andere handelingen die een landwaartse verplaatsing van de kust
 c. installaties of kabels en leidingen te plaatsen of neer te leggen, of deze te laten staan of liggen;  
 
 d. te bouwen.     
-2.  Artikel 6.12, tweede lid, aanhef en onderdelen a, b, c, en f, zijn van overeenkomstige toepassing.   
+2.  Artikel 6.12, tweede lid, aanhef en onderdelen c en f, is van overeenkomstige toepassing.   
 
 ### Artikel  6.14  
 
-1.  Het is verboden zonder vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van waterkeringen in beheer bij het Rijk of van een daartoe behorende beschermingszone door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.   
-2.  Artikel 6.12, tweede lid, aanhef en onderdeel c, is van overeenkomstige toepassing.   
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van waterkeringen in beheer bij het Rijk of van een daartoe behorende beschermingszone door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.   
+2.  Artikel 6.12, tweede lid, aanhef en onderdelen c en f, is van overeenkomstige toepassing.   
 
 ### Artikel  6.15  
 
-1.  Degene die gebruik maakt van een oppervlaktewaterlichaam of een bijbehorend kunstwerk in beheer bij het Rijk door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen, waarvoor geen vergunning krachtens artikel 6.12 of artikel 6.13 vereist is, draagt zorg voor: 
+1.  Degene die gebruik maakt van een oppervlaktewaterlichaam of een bijbehorend kunstwerk in beheer bij het Rijk of een waterkering in beheer bij het Rijk of een daartoe behorende beschermingszone door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werkzaamheden te verrichten, werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen, waarvoor geen vergunning krachtens artikel 6.12, 6.13 of 6.14 vereist is, draagt zorg voor: 
 
-a. een zodanige situering en uitvoering van de handelingen dat geen nadelige gevolgen optreden voor het veilig en doelmatig gebruik van het oppervlaktewaterlichaam of het bijbehorende kunstwerk overeenkomstig de daaraan toegekende functies, voor de ecologische toestand van het oppervlaktewaterlichaam en voor het kustfundament;  
+a. een zodanige situering en uitvoering van de handelingen dat geen nadelige gevolgen optreden voor het veilig en doelmatig gebruik van het oppervlaktewaterlichaam of het bijbehorende kunstwerk, dan wel de waterkering of een daartoe behorende beschermingszone, overeenkomstig de daaraan toegekende functies, voor de ecologische toestand van het oppervlaktewaterlichaam en voor het kustfundament;  
 
 b. het voorkomen van een feitelijke belemmering voor vergroting van de afvoercapaciteit van het oppervlaktewaterlichaam; en  
 
@@ -645,7 +735,7 @@ b. het melden en registreren van gegevens ten aanzien van het gebruik en de opga
 
 ### Artikel  6.17  
 
-Het is in bij ministeriële regeling te bepalen gevallen verboden zonder vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) water te brengen in of te onttrekken aan oppervlaktewaterlichamen in beheer bij het Rijk.  
+Het is in bij ministeriële regeling te bepalen gevallen verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) water te brengen in of te onttrekken aan oppervlaktewaterlichamen in beheer bij het Rijk.  
 
 ### Artikel  6.18  
 
@@ -732,6 +822,14 @@ e. het personeel voor zover dat de onderzoekingen en de begeleiding daarvan rech
 
 f. de publicatie van de resultaten van de onderzoekingen.     
 
+### §  2  
+
+####Subsidiëring maatregelen primaire waterkeringen
+
+### Artikel  7.3  
+
+De maatregelen, bedoeld in [artikel 7.23, vijfde lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md), zijn vermeld in bijlage V bij dit besluit.  
+
 ### Hoofdstuk  8  
 
 ####Overgangs- en slotbepalingen
@@ -757,7 +855,7 @@ De eerste overstromingsrisicobeheerplannen die betrekking hebben of mede betrekk
 
 ### Artikel  8.3  
 
-1.  Een opgave van een inrichting als bedoeld in [artikel 11, eerste lid, onderdeel a, van de Grondwaterwet](../../../wet/grondwaterwet/BWBR0003406/README.md), die is gedaan voor het tijdstip van inwerkingtreding van [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), wordt gelijkgesteld met een melding als bedoeld in artikel 6.11, eerste lid.   
+1.  Een opgave van een inrichting als bedoeld in [artikel 11, eerste lid, onderdeel a, van de Grondwaterwet](../../../wet/grondwaterwet/BWBR0003406/README.md), dan wel een melding als bedoeld in [artikel 15b van de Grondwaterwet](../../../wet/grondwaterwet/BWBR0003406/README.md), die is gedaan voor het tijdstip van inwerkingtreding van [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), wordt gelijkgesteld met een melding als bedoeld in artikel 6.11, eerste lid.   
 2.  Besluiten als bedoeld in artikel 3, eerste lid, of artikel 5, derde lid, in samenhang met [artikel 3, eerste lid, van het Uitvoeringsbesluit ex artikel 11 en 12 Grondwaterwet](../../../AMvB/uitvoeringsbesluit/ex/artikel/11/en/12/grondwaterwet/BWBR0003837/README.md), genomen door gedeputeerde staten voor het tijdstip van inwerkingtreding van [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden gelijkgesteld met maatwerkvoorschriften als bedoeld in artikel 6.11, tweede lid, genomen door het bevoegd gezag.   
 3.  Gedeputeerde staten dragen de archiefbescheiden die betrekking hebben op onttrekkingen en infiltraties, waarvoor het dagelijks bestuur van het waterschap ingevolge een verordening als bedoeld in a [rtikel 6.13 van de wet](../../../wet/waterwet/BWBR0025458/README.md) dan wel een algemene maatregel van bestuur als bedoeld in [artikel 6.5, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bevoegd gezag is geworden, over aan dat dagelijks bestuur.   
 4.  Het derde lid geldt niet voor bescheiden die overeenkomstig de [Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.   
@@ -782,6 +880,14 @@ Tot het tijdstip van inwerkingtreding van artikel 6.20, tweede lid, wordt in art
 
 1.  Indien door de inwerkingtreding van een algemene maatregel van bestuur, een ministeriële regeling, een provinciale verordening of een verordening van een waterschap de betrokkenheid van het bestuursorgaan, dat met toepassing van [artikel 6.17 van de wet](../../../wet/waterwet/BWBR0025458/README.md) als bevoegd gezag een watervergunning heeft verleend, bij die watervergunning eindigt, wordt die watervergunning met betrekking tot de resterende vergunningplichtige handeling of handelingen gelijkgesteld met een watervergunning, verleend door het bestuursorgaan dat voor die handeling of handelingen, zo nodig met overeenkomstige toepassing van [artikel 6.17 van de wet](../../../wet/waterwet/BWBR0025458/README.md), bevoegd gezag is.   
 2.  Het overeenkomstig het eerste lid bepaalde bevoegd gezag deelt aan de vergunninghouder mede dat hij bevoegd gezag is voor de watervergunning.   
+
+### Artikel  8.7a  
+
+Voor zover artikel 6.12 van toepassing is in gedeelten van het rivierbed doordat tengevolge van dit besluit zoals dat luidde op 22 december 2009 begrenzingen, gebiedsaanwijzingen of andere beperkingen op het vereiste van een vergunning krachtens de [Wet beheer rijkswaterstaatswerken](../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md), zoals die wet luidde vóór genoemde datum, zijn gewijzigd of vervallen, is met ingang van genoemde datum dat artikel niet van toepassing op gedragingen waarvoor op de genoemde datum een eerder verleende vergunning als bedoeld in [artikel 40 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), zoals die wet luidde op die datum, onherroepelijk was.  
+
+### Artikel  8.7b  
+
+De artikelen 6.1c en 6.11a tot en met 6.11i van dit besluit zijn niet van toepassing op de voorbereiding en vaststelling van een beschikking op een vóór het tijdstip van inwerkingtreding van die artikelen gedane aanvraag om een vergunning dan wel verzoek om wijziging van een vergunning of van de daaraan verbonden voorschriften als bedoeld in [artikel 6.4, eerste lid, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md).  
 
 ### §  2  
 
@@ -813,9 +919,9 @@ E. M. H. Hirsch Ballin
 
 ####Onderlinge grenzen stroomgebieddistricten Eems, Rijn, Maas en Schelde (Bijlage bij artikel 1.2  van het Waterbesluit)
 
-![245877](http://wetten.overheid.nl/Illustration/245877)
-![245877](http://wetten.overheid.nl/Illustration/245877)
-![245877](http://wetten.overheid.nl/Illustration/245877)
+![245873](http://wetten.overheid.nl/Illustration/245873)
+![245875](http://wetten.overheid.nl/Illustration/245875)
+![245876](http://wetten.overheid.nl/Illustration/245876)
 ![245877](http://wetten.overheid.nl/Illustration/245877)
 
 ### Bijlage  II  
@@ -850,7 +956,7 @@ E. M. H. Hirsch Ballin
 
 ####het IJsselmeer en daarmee verbonden wateren
 
-– IJsselmeer (met inbegrip van Ketelmeer en Zwarte Meer), Markermeer (met inbegrip van Gouwzee en IJmeer), Randmeren (met inbegrip van Gooimeer, Eemmeer, Wolderwijd, Nijkerkernauw, Nuldernauw, Veluwemeer, Drontermeer en Vossemeer);    
+– IJsselmeer (met inbegrip van Ketelmeer en Zwarte Meer), Buiten-IJ, Markermeer (met inbegrip van Gouwzee en IJmeer), Randmeren (met inbegrip van Gooimeer, Eemmeer, Wolderwijd, Nijkerkernauw, Nuldernauw, Veluwemeer, Drontermeer en Vossemeer);    
 
 ### c  
 
@@ -860,7 +966,7 @@ E. M. H. Hirsch Ballin
 
 – Beneden Merwede, Noord, Dordtsche Kil, Oude Maas, Spui;  
 
-– Lekkanaal, Amsterdam-Rijnkanaal, Afgesloten IJ, Buiten IJ, Noordzeekanaal, Buitenhaven van IJmuiden;  
+– Lekkanaal, Amsterdam-Rijnkanaal, Afgesloten IJ, Noordzeekanaal, Buitenhaven van IJmuiden;  
 
 – Boven-Rijn, Bijlandsch Kanaal, Waal, Boven Merwede, Nieuwe Merwede;    
 
@@ -894,7 +1000,11 @@ E. M. H. Hirsch Ballin
 
 – alle in het Groningse deel van het Lauwersmeergebied gelegen oppervlaktewaterlichamen;  
 
-– de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk.    
+– de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk;  
+
+– Eemskanaal;  
+
+– Van Starkenborghkanaal.    
 
 ### 2.2  
 
@@ -902,7 +1012,9 @@ E. M. H. Hirsch Ballin
 
 – alle in het Friese deel van het Lauwersmeergebied gelegen oppervlaktewaterlichamen;  
 
-– de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk.    
+– de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk;  
+
+– Prinses Margrietkanaal.    
 
 ### 2.3  
 
@@ -930,13 +1042,13 @@ E. M. H. Hirsch Ballin
 
 – het Merwedekanaal;  
 
-– de gekanaliseerde Hollandsche IJssel.    
+– de gekanaliseerde Hollandsche IJssel;  
+
+– de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk.    
 
 ### 2.7  
 
 ####in de provincie Noord-Holland:
-
-– het Merwedekanaal;  
 
 – de Muidertrekvaart vanaf het Amsterdam-Rijnkanaal tot aan de schotbalkkering;  
 
@@ -970,11 +1082,7 @@ E. M. H. Hirsch Ballin
 
 ####in de provincie Zeeland:
 
-– de oostelijke en westelijke rijkswaterleiding in Oost-Zeeuws-Vlaanderen;  
-
 – het Veerse Meer;  
-
-– kanaal Sluis-Brugge;  
 
 – de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk.    
 
@@ -982,7 +1090,7 @@ E. M. H. Hirsch Ballin
 
 ####in de provincie Noord-Brabant:
 
-– Gekanaliseerde Dieze, Kanaal Engelen-Henriéttewaard, Oude Maasje en Zuiderkanaal, Markkanaal;  
+– Gekanaliseerde Dieze, Kanaal Engelen-Henriéttewaard;  
 
 – de Bakkerskil;  
 
@@ -996,7 +1104,9 @@ E. M. H. Hirsch Ballin
 
 ####in de provincie Limburg
 
-– de Noordervaart en de Voedingskanalen van de Zuid-Willemsvaart in Midden-Limburg en Maastricht.    
+– de Noordervaart en de Voedingskanalen van de Zuid-Willemsvaart in Midden-Limburg en Maastricht;  
+
+– de watergangen en sloten langs waterkeringen en sluizen in beheer bij het Rijk.    
 
 ### Bijlage  III  
 
@@ -1028,13 +1138,13 @@ E. M. H. Hirsch Ballin
 
 – Westelijke kanaaldijk Amsterdam-Rijnkanaal en Lekkanaal tussen Amsterdam en Nieuwegein, vanaf km 1.000 tot en met km 45.000;  
 
-– Prinses Beatrixsluizen (Nieuwegein);  
+– Prinses Beatrixsluizen; inclusief voorhavendijken (Nieuwegein);  
 
-– Koninginnensluizen (Nieuwegein);  
+– Koninginnensluizen; inclusief voorhavendijken (Nieuwegein);  
 
-– Prinses Irenesluizen (Wijk bij Duurstede);  
+– Prinses Irenesluizen; inclusief voorhavendijken (Wijk bij Duurstede);  
 
-– Prinses Marijkesluizen (Rijswijk);  
+– Prinses Marijkesluizen; inclusief keersluis Ravenswaaij (Rijswijk);  
 
 – Prins Berhardsluizen (Tiel);  
 
@@ -1080,13 +1190,9 @@ E. M. H. Hirsch Ballin
 
 – Sluizen Hansweert;  
 
-– waterkering veerhaven Kruiningen;  
-
 – Bathse spuisluis;  
 
 – Kreekrakpolder;  
-
-– waterkering veerhaven Breskens;  
 
 – kaden Handelshaven Breskens;  
 
@@ -1100,8 +1206,6 @@ E. M. H. Hirsch Ballin
 
 – Marksluis;  
 
-– Westelijke kanaaldijk Afwateringskanaal 's-Hertogenbosch Drongelen;  
-
 – sluis Engelen;  
 
 – sluis St. Andries;  
@@ -1114,7 +1218,7 @@ E. M. H. Hirsch Ballin
 
 – sluis Bosscherveld.    
 
-### 2.  
+### 2  
 
 ####Andere dan primaire keringen
 
@@ -1148,61 +1252,154 @@ E. M. H. Hirsch Ballin
 
 ####Gebieden waar paragraaf 6 van hoofdstuk 6  van het Waterbesluit niet van toepassing is (Bijlage bij artikel 6.16  van het Waterbesluit)
 
+![245814](http://wetten.overheid.nl/Illustration/245814)
+![245815](http://wetten.overheid.nl/Illustration/245815)
+![245816](http://wetten.overheid.nl/Illustration/245816)
+![245817](http://wetten.overheid.nl/Illustration/245817)
+![245818](http://wetten.overheid.nl/Illustration/245818)
+![245819](http://wetten.overheid.nl/Illustration/245819)
+![245820](http://wetten.overheid.nl/Illustration/245820)
 ![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
-![245821](http://wetten.overheid.nl/Illustration/245821)
+![245822](http://wetten.overheid.nl/Illustration/245822)
+![245823](http://wetten.overheid.nl/Illustration/245823)
+![245824](http://wetten.overheid.nl/Illustration/245824)
+![245825](http://wetten.overheid.nl/Illustration/245825)
+![245827](http://wetten.overheid.nl/Illustration/245827)
+![245828](http://wetten.overheid.nl/Illustration/245828)
+![245829](http://wetten.overheid.nl/Illustration/245829)
+![245830](http://wetten.overheid.nl/Illustration/245830)
+![245831](http://wetten.overheid.nl/Illustration/245831)
+![245832](http://wetten.overheid.nl/Illustration/245832)
+![245833](http://wetten.overheid.nl/Illustration/245833)
+![245834](http://wetten.overheid.nl/Illustration/245834)
+![245835](http://wetten.overheid.nl/Illustration/245835)
+![245836](http://wetten.overheid.nl/Illustration/245836)
+![245837](http://wetten.overheid.nl/Illustration/245837)
+![245838](http://wetten.overheid.nl/Illustration/245838)
+![245839](http://wetten.overheid.nl/Illustration/245839)
+![245841](http://wetten.overheid.nl/Illustration/245841)
+![245840](http://wetten.overheid.nl/Illustration/245840)
+![245842](http://wetten.overheid.nl/Illustration/245842)
+![245843](http://wetten.overheid.nl/Illustration/245843)
+![245872](http://wetten.overheid.nl/Illustration/245872)
+![245844](http://wetten.overheid.nl/Illustration/245844)
+![245845](http://wetten.overheid.nl/Illustration/245845)
+![245846](http://wetten.overheid.nl/Illustration/245846)
+![245847](http://wetten.overheid.nl/Illustration/245847)
+![245848](http://wetten.overheid.nl/Illustration/245848)
+![245849](http://wetten.overheid.nl/Illustration/245849)
+![245850](http://wetten.overheid.nl/Illustration/245850)
+![245851](http://wetten.overheid.nl/Illustration/245851)
+![245853](http://wetten.overheid.nl/Illustration/245853)
+![245854](http://wetten.overheid.nl/Illustration/245854)
+![245855](http://wetten.overheid.nl/Illustration/245855)
+![245856](http://wetten.overheid.nl/Illustration/245856)
+![245857](http://wetten.overheid.nl/Illustration/245857)
+![245858](http://wetten.overheid.nl/Illustration/245858)
+![245859](http://wetten.overheid.nl/Illustration/245859)
+![245860](http://wetten.overheid.nl/Illustration/245860)
+![245861](http://wetten.overheid.nl/Illustration/245861)
+![245862](http://wetten.overheid.nl/Illustration/245862)
+![245863](http://wetten.overheid.nl/Illustration/245863)
+![245864](http://wetten.overheid.nl/Illustration/245864)
+![245865](http://wetten.overheid.nl/Illustration/245865)
+![245866](http://wetten.overheid.nl/Illustration/245866)
+![245867](http://wetten.overheid.nl/Illustration/245867)
+![245868](http://wetten.overheid.nl/Illustration/245868)
+![245869](http://wetten.overheid.nl/Illustration/245869)
+![245870](http://wetten.overheid.nl/Illustration/245870)
+![245871](http://wetten.overheid.nl/Illustration/245871)
+
+### Bijlage  V  
+
+####Maatregelen waarvoor krachtens [artikel 7.23, vijfde lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) subsidie wordt verleend voor honderd procent van de kosten van uitvoering (Bijlage bij artikel 7.3  van het Waterbesluit)
+
+| Beheerder  | Naam project  | Nummer project  | Aard van maatregel  | Te versterken vakken  | Te versterken  |
+|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- |  *faalmechanisme*   |  *dijkpaalnummering conform opgave beheerder*   | in km  |
+| Hoogheemraadschap Hollands Noorderkwartier  | Wieringermeerdijk en omgelegde Stonteldijk  | W1-006  | STBK  | 0.00–8.55, 9.80–17.00, 19.35–20.50  | 16,9  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Hollands Noorderkwartier  | Markermeerdijk Enkhuizen-Hoorn  | W2-003  | HT, STBI, STMI  | 0.40/0.60–0.64/0.67, 1.90–3.25, 5.0–5.08, 6.7–9.4, 9.9–12.55, 13.50–14.20, 14.80–16.73, 17.80–18.60, 19.00–22.00  | 13,7  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Hollands Noorderkwartier  | Markermeerdijk Hoorn – Edam – Amsterdam  | W2-004/ W2-005  | HT, STBI, STBK, STBU, STMI  | 0.45–1.05, 1.30–7.75, 0,00–0.50, 1.15–11.20, 0.00–2.9, 0.00–1.10, 2.55–3.95, 5.40–15.75, 0.00–1.60, 0.00–1.10, 2.55–3.95, 5.4–7.00, 14.90–15.75  | 30,8  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Hollands Noorderkwartier  | Waddenzeedijk Texel  | W2-036  | STBK, HT, STBI, STMI, STPH  | 2.6–7.6, 8.7–13.4, 14.8–7.1, 17.2–20.6, 23.7–23.9, 25.6–26.6  | 17,0  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Hollands Noorderkwartier  | Koegraszeedijk  | W2-080  | STPH  | 3.35–3.45. 3.6–3.85  | 0,4  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Hollands Noorderkwartier  | Hoogwaterkering Den Oever  | W2-085  | HT  | 25.60–26.50  | 0,9  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Hollands Noorderkwartier  | Zwakke schakels Noord-Holland  | WZ-001 / WZ-002  | HT, DA, STBI, STBK  | 1.20–2.0, 11.23–12.73, 17.29–28.32  | 13,3  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Oostmolendijk bij Ridderkerk  | W2-028  | HT, STBU, STBI, STMI, STBK, STVL, STPH  | 49.35–51.13  | 1,8  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Hellevoetsluis  | WN-001  | STBI  | 0.25–0.95, 3.60–3.98  | 1,1  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Spui Oost  | WN-003a  | STPI, NWO, STBU, STPH, STMI  | 54.90–60.30, 60.65–61.28, 63.20–63.50, 65.30–67.30  | 8,3  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Zettingsvloeiing Spui  | WN-003b  | STVL  | 16.35–16.50, 16.75–16.85, 59.50–60.10, 60.65–60.80, 19.00–19.20, 19.40–19.60, 62.78–62.88, 20.50–21.35, 22.30–23.10, 65.53–67.30, 25.00–25.70, 6.30–0.52, 0.52–0.70  | 6,5  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Spui-west  | WN-004  | STBI, STPH, STVL, HT, STBK, STBU, NWO  | 14.82–15.05, 15.60–15.80, 19.20–19.50, 20.15–20.30, 21.40–22.82, 24.10–24.27, 24.65–24.85, 24.97–25.71, 26.00–26.15, 26.35–27.55  | 4,8  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Eiland van Dordrecht Oost  | WN-005  | HT, STBI, STMI, STBK, STPH, NWO  | 5.00–8.60, 16.30–18.70  | 6,0  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Eiland van Dordrecht West  | WN-007  | STBI, STBK, NWO  | 22.80–23.40, 24.60–24.95, 24.95–26.10, 26.10–27.40, 27.40–28.90  | 4,9  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Hoeksche Waard Zuid  | WN-008  | STBI, STPH, STMI, NWO, STBU  | 27.5–30.9, 31.9–32.4, 32.5–36.64, 41.28–42.6, 43.0–43.65, 44.7–45.88  | 11,3  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Dijkversterking Hoeksche Waard Noord  | WN-009  | HT, STBI, STPH, STMI, NWO  | 1.88–4.0, 13.53–17.0  | 4,2  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Rivierenland  | Merwededijk te Werkendam  | W2-042  | STBI  | 241–246  | 0,5  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Rivierenland  | Lekdijk – KIS  | W2-055  | STBI  | 158.10–176.00, 179.60–203.15, 209.08–213.00, 218.02–227.00, 240.120–246.10  | 11,0  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Scheldestromen  | West Zeeuws-Vlaanderen  | WZ-009  | HT, STBK, ST, ZOB aansluit-constructies (instabiliteit)  | 67.75–70.13, 70.80–76.60, 78.70–79.95, 82.32–83.20  | 10,6  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Scheldestromen  | Noorderstrand Schouwen  | W2-082  | DA  | 0.90–2.10  | 1,2  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Schieland en de Krimpenerwaard  | Bergambacht-Ammerstol-Schoonhoven (BAS)  | W1-009  | HT, NWO, STBU, STBK, STBI  | G+90–0.00, 0.00–4.9, 5.24–6.0  | 5,7  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Schieland en de Krimpenerwaard  | Dijkversterking Krimpen  | W2-002  | STBI, STPH, HT  | 1.78–1.79, 1.82–1.86, 1.87–1.88, 1.96–1.97, 2.09–2.13, 2.22–2.24  | 1,4  |
+| --- | --- | --- | --- | --- | --- |
+| Wetterskip Fryslân  | IJsselmeer, kleibekleding en pipingmaatregelen  | W2-014  | STBK, STPH  | 49.70–50.70, 53.00–54.70  | 2,7  |
+| --- | --- | --- | --- | --- | --- |
+| Wetterskip Fryslân  | Waddenzeedijk, Friese kust  | W2-030  | STBK  | 19.60–26.20, 38.3–40.6, 41.7–42.90, 47.45–50.00, 57.50–58.00  | 13,2  |
+| --- | --- | --- | --- | --- | --- |
+| Wetterskip Fryslân  | Ameland, Waddenzeekering  | W2-049  | Alle faalmechanismen  | 0–16.50  | 16,5  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Rijnland  | Kustversterking Katwijk  | W2-067  | HT, STCG, ST  | Zandige kering voor de boulevard  | 2,4  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Vallei & Eem  | Eemdijken en Zuidelijke Randmeren  | W2-063  | HT, STBI, STPH  | 5.5–6.2, 7.7–8.0, 8.87–11.97, 12.40–12.65, 13.10–21.1, 21.7–32.95  | 22,0  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap Amstel, Gooi en Vecht  | Ipenslotersluis en Diemerdammersluis  | WN-006  | STCG  | nvt  | Nvt  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Aa en Maas  | Keent en Keent – Grave  | WN-012  | STPH  | 28.65–28.95, 29.05–29.55, 30.05–30.55, 30.85–30.95, 31.05–31.45, 31.65–31.75, 31.85–33,75, 28.65–28.95, 29.05–29.55, 30.05–30.55, 30.85–30.95, 31.05–31.45, 31.65–31.75, 31.85–33,75, 34.05–34.25, 34.65–34.85, 0–0.45, 0.55–0.75, 1.15–1.25, 1.35–1.45, 1.55-2.05, 3.25-4.25  | 6,5  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Aa en Maas  | Kunstwerken Boxmeer – Grave  | WN-015  | STPH, STCO  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Aa en Maas  | Boxmeer  | WN-024  | STPH  | 0.48–0.77  | 0,3  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Scheldestromen  | Vlissingen  | WN-011  | HT, GP  | 31.10–32.30, 32.3–32.5, 32.5–33.65  | 2,5  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Rijnland  | Kustversterking Noordwijk  | WZ-003  | STBK, DA  | 80.75–82.0  | 1,3  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Schieland en de Krimpenerwaard  | Nederlekdijk  | W1-008  | HT, STBI, STMI  | 9.55–13.78, 14.24–15.40  | 5,4  |
+| --- | --- | --- | --- | --- | --- |
+| Waterschap Hollandse Delta  | Zettingsvloeiing Dordtsche Kil  | WN-025  | STVL  | 22.30–22.80, 23.10–23.30, 24.80–27.40, 27.55–28.50, 18.90–19.10, 19.70–20.60, 21.80–23.35, 23.65–24.40  | 7,8  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Delfland  | Scheveningen  | WZ-004  | DA  | 99,10–101,60  | 2,5  |
+| --- | --- | --- | --- | --- | --- |
+| Hoogheemraadschap van Delfland  | Delflandse kust  | WZ-005  | DA  | 102.00–114.00  | 12,0  |
+
+Legenda 
+
+| --- | --- |
+|:---|:---|
+| *Beheerder*: het voor het project verantwoordelijke waterschap  |
+| *Naam project*: naam waaronder het project bekend is  |
+| *Faalmechanisme*: de reden waarom de kering niet aan de norm voldoet en versterkt dient te worden  |
+| *Te versterken vakken*: de locatieaanduiding van de te versterken kering op basis van de dijkpaalnummering  |
+| *Te versterken* (in km): de totale lengte van de te versterken vakken in kilometers  |
+| Betekenis afkortingen:  | --- |
+| *DA* = Duinafslag  *GP* = Grensprofiel  *HT* = Hoogte  *NWO* = Niet-waterkerend object  *STBI* = Macrostabiliteit binnenwaarts  *STBK* = Steenbekleding  *STBU* = Macrostabiliteit buitenwaarts  *STCG* = Stabiliteit constructie en grondlichaam  | *STCO* = Sterkte van (waterkerende) constructieonderdelen  *STMI* = Microstabiliteit  *STPH* = Piping en heave  *STVL* = Stabiliteit voorland  *GEKL* = Erosie door golfklap voor gras  *GEOP* = Erosie door golfoploop voor gras  *GAF* = Afschuiving voor gras  |
 

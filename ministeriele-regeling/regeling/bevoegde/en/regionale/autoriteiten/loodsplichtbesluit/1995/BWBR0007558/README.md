@@ -3,12 +3,12 @@
 ##Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 1, eerste lid, onderdelen a en c](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), en [artikel 2, derde lid, van het Loodsplichtbesluit 1995](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), en op [artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen](../../../../../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md);
+Gelet op artikel 1, eerste lid, onderdelen a en c, en artikel 2, derde lid, van het Loodsplichtbesluit 1995, en op artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen;
 Besluit:    
 
 ### Artikel  1  
 
-De bevoegde autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel a, van het Loodsplichtbesluit 1995](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md) is: 
+De bevoegde autoriteit, bedoeld in artikel 1, eerste lid, onderdeel a, van het Loodsplichtbesluit 1995 is: 
 
 a. voor zover het betreft scheepvaartwegen in beheer bij het Rijk: 
 
@@ -42,7 +42,7 @@ a. voor zover het betreft scheepvaartwegen in beheer bij het Rijk:
 
 2° de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V., voor zover het betreft de scheepvaartwegen in beheer bij het Rijk benedenstrooms van kilometerraai 991,7 van de Nieuwe Maas en benedenstrooms van kilometerraai 998 van de Oude Maas;  
 
-3° de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md), voor het gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 51°42’.6 NB, 03°41’.6 OL, naar 51°39’.1 NB, 03°19’.7 OL, vandaar naar 51°33’.7 NB, 03°10’.0 OL, vandaar naar 51°22’.4 NB, 02°58’.2 OL, en vandaar naar 51°22’.3 NB, 03°21’.8 OL, de Westerschelde en het kanaal van Gent naar Terneuzen, met inbegrip van de Axelse Sassing;  
+3° de Rijkshavenmeester Westerschelde, bedoeld in artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990, voor het gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 51°42’.6 NB, 03°41’.6 OL, naar 51°39’.1 NB, 03°19’.7 OL, vandaar naar 51°33’.7 NB, 03°10’.0 OL, vandaar naar 51°22’.4 NB, 02°58’.2 OL, en vandaar naar 51°22’.3 NB, 03°21’.8 OL, de Westerschelde en het kanaal van Gent naar Terneuzen, met inbegrip van de Axelse Sassing;  
 
 4° het algemeen bestuur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied, voor het gedeelte van de territoriale zee met een straal van 12 zeemijlen vanuit de koppen der havenhoofden te IJmuiden, de IJ-Geul, de buitenhaven van IJmuiden, het Noorder- en Zuiderbuitenkanaal, het verbindingskanaal daartussen en de buitentoeleidingskanalen naar de Noordzeesluizen te IJmuiden, alsmede het buitenspuikanaal, de Noordzeesluizen te IJmuiden, de binnentoeleidingskanalen naar de Noordzeesluizen te IJmuiden, de 1e, 2e en 3e Rijksbinnenhaven, het binnenspuikanaal en de Staalhaven, alsmede het binnenspuikanaal te IJmuiden, zijkanaal A naar Beverwijk en zijkanaal G naar Zaandam tot aan de Dr. J.M. den Uyl brug, het Noorzeekanaal en het IJ, voor zover gelegen ten westen van kilometerraai 21.250 en de aan de genoemde scheepvaartwegen gelegen havenbekkens, voorzover die in beheer zijn bij het Rijk.  
 
@@ -52,13 +52,9 @@ b. voor zover het betreft scheepvaartwegen in beheer bij een ander openbaar lich
 
 c. voor zover het betreft scheepvaartwegen niet in beheer bij enig openbaar lichaam: de ambtenaar die door het bestuur van de gemeente waarin de scheepvaartweg is gelegen wordt aangewezen voor de zorg voor een veilige en vlotte afwikkeling van het scheepvaartverkeer.    
 
-### Artikel  2  
-
-De bevoegde autoriteit, bedoeld in [artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen](../../../../../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md), is de in artikel 1 van deze regeling bedoelde functionaris, voor de aldaar genoemde scheepvaartwegen.  
-
 ### Artikel  3  
 
-De regionale autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel c, van het Loodsplichtbesluit 1995](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), is: 
+De regionale autoriteit, bedoeld in artikel 1, eerste lid, onderdeel c, van het Loodsplichtbesluit 1995, is: 
 
 a. voor de regio Noord: de hoofdingenieur-directeur van de Directie Noord-Nederland van het directoraat-generaal Rijkswaterstaat;  
 
@@ -70,7 +66,7 @@ d. voor de regio Scheldemonden: de functionaris, bedoeld in artikel 1, onderdeel
 
 ### Artikel  4  
 
-Door de bevoegde autoriteit wordt van de in [artikel 2, tweede lid, van het Loodsplichtbesluit 1995](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md) bedoelde bevoegdheid gebruik gemaakt ten aanzien van vaartuigen gebouwd of ingericht voor het winnen of vervoeren van zand, baggerspecie of grind, indien deze vaartuigen op een scheepvaartweg voor het aangegeven doel worden gebruikt, tenzij, naar het oordeel van de bevoegde autoriteit, wordt voldaan aan de volgende eisen: 
+Door de bevoegde autoriteit wordt van de in artikel 2, tweede lid, van het Loodsplichtbesluit 1995 bedoelde bevoegdheid gebruik gemaakt ten aanzien van vaartuigen gebouwd of ingericht voor het winnen of vervoeren van zand, baggerspecie of grind, indien deze vaartuigen op een scheepvaartweg voor het aangegeven doel worden gebruikt, tenzij, naar het oordeel van de bevoegde autoriteit, wordt voldaan aan de volgende eisen: 
 
 a. ten aanzien van de bekendheid en bekwaamheid van de verkeersdeelnemer: 
 
@@ -92,11 +88,11 @@ b. ten aanzien van het vaartuig:
 
 ### Artikel  5  
 
-Na inwerkingtreding van deze regeling berusten de mandaat- en sub-mandaat-regelingen van de in artikel 1 van de regeling houdende aanwijzing van de bevoegde autoriteit voor het Loodsplichtbesluit en het [Voorschriftenbesluit registerloodsen](../../../../../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md) van 13 april 1994 (Stcrt. 73), nr. DGSM/J 30.561/95, genoemde functionarissen ten aanzien van de bevoegdheden die zij ontlenen aan het Loodsplichtbesluit en het Voorschriftenbesluit registerloodsen, op deze regeling, met dien verstande dat waar ’Loodsplichtbesluit’ is vermeld ’ [Loodsplichtbesluit 1995](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md) ’ wordt gelezen.  
+Na inwerkingtreding van deze regeling berusten de mandaat- en sub-mandaat-regelingen van de in artikel 1 van de regeling houdende aanwijzing van de bevoegde autoriteit voor het Loodsplichtbesluit en het Voorschriftenbesluit registerloodsen van 13 april 1994 (Stcrt. 73), nr. DGSM/J 30.561/95, genoemde functionarissen ten aanzien van de bevoegdheden die zij ontlenen aan het Loodsplichtbesluit en het Voorschriftenbesluit registerloodsen, op deze regeling, met dien verstande dat waar ’Loodsplichtbesluit’ is vermeld ’ Loodsplichtbesluit 1995 ’ wordt gelezen.  
 
 ### Artikel  6  
 
-De regeling houdende aanwijzing van de bevoegde autoriteit voor het [Loodsplichtbesluit](../../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md) en het [Voorschriften-besluit registerloodsen](../../../../../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md) van 13 april 1994 (Stcrt. 73), nr. DGSM/J 30.561/95, wordt ingetrokken.  
+De regeling houdende aanwijzing van de bevoegde autoriteit voor het Loodsplichtbesluit en het Voorschriften-besluit registerloodsen van 13 april 1994 (Stcrt. 73), nr. DGSM/J 30.561/95, wordt ingetrokken.  
 
 ### Artikel  7  
 

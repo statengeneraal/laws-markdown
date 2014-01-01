@@ -47,7 +47,7 @@ j. contractteelt: de teelt van gewassen of producten ingevolge een overeenkomst.
 
 1.  De ondernemer, die in enig kalenderjaar een onderneming drijft, met als activiteit het telen van zetmeelaardappelen, is verplicht voor dat jaar aan het productschap een heffing te betalen.   
 2.  De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van zetmeelaardappelen in het desbetrefende jaar, op basis van de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.   
-3.  De heffing bedraagt € 2,- per hectare.   
+3.  De heffing bedraagt € 0 per hectare.   
 4.  De heffing is bestemd voor het Fonds zetmeelaardappelen.   
 
 ### Artikel  3  

@@ -3,20 +3,16 @@
 ##Regeling suiker, isoglucose en inulinestroop 1999
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-gelet op de [artikelen 13](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [23](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [32 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);
+gelet op de artikelen 13, 23 en 32 van de Landbouwwet;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. Minister:  Minister van Landbouw, Natuur en Voedselkwaliteit;    b. hoofdproductschap:  Hoofdproductschap Akkerbouw;    c. Raad:  Raad van de Europese Unie;    d. verordening:  Verordening (EG) nr. 318/2006 van de Raad van 20 februari 2006 houdende een gemeenschappelijke ordening der markten in de sector suiker (PbEG 2006, L 58);    e. Commissie:  Commissie van de Europese Gemeenschappen;    f. uitvoeringsregelingen:  regelingen van de Raad of van de Commissie ter uitvoering van de verordening;    g. suiker:  de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening;    h. melasse:  het product, bedoeld in artikel 1, eerste lid, onderdeel f, van de verordening.     
+In deze regeling wordt verstaan onder:   a. Minister:  Minister van Economische Zaken;    b. verordening 967/2006:  Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);    c. Raad:  Raad van de Europese Unie;    d. verordening:  Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);    e. Commissie:  Commissie van de Europese Gemeenschappen;    f. Dienst Regelingen:  directeur van de Dienst Regelingen van het Ministerie van Economische Zaken;    g. suiker:  de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening.     
 
 ### Artikel  2  
 
-1.  Er is een Suikerbegeleidingscommissie, welke tot taak heeft: 
-
-a. de Minister te informeren over het gevoelen van het betrokken bedrijfsleven over het nationale en internationale beleid op het gebied van de suiker;  
-
-b. de voorzitter van het hoofdproductschap van advies te dienen bij de uitvoering van de medebewindstaken op het gebied van de producten, genoemd in artikel 1, eerste lid van de verordening.     
+1.  Er is een Suikerbegeleidingscommissie die de Minister informeert over het gevoelen van het bedrijfsleven over het beleid op het gebied van suiker.   
 2.  De Suikerbegeleidingscommissie bestaat uit achttien leden van wie voor telkens vier jaar worden aangewezen: 
 
 a. vijf leden door de Koninklijke Coöperatie Cosun U.A;  
@@ -45,7 +41,7 @@ h. drie leden door organisaties van werknemers.
 3.  In zoverre in afwijking van het tweede lid, worden als leden van de Suikerbegeleidingscommissie aangewezen de laatstelijk uit hoofde van de Regeling suiker, isoglucose en inulinestroop als lid van de in die regeling genoemde Suikerbegeleidingscommissie aangewezen personen voor de periode die overeenkomt met het, op het tijdstip van inwerkingtreding van het tweede lid, nog niet verstreken deel van de periode waarvoor de onderscheiden leden uit hoofde van de hiervoor genoemde regeling zijn aangewezen.   
 4.  De Suikerbegeleidingscommissie wijst uit haar midden een voorzitter aan.   
 5.  In zoverre in afwijking van het vierde lid, is de voorzitter van de Suikerbegeleidingscommissie de persoon die laatstelijk uit hoofde van de Regeling suiker, isoglucose en inulinestroop als voorzitter van de in die regeling genoemde Suikerbegeleidingscommissie is aangewezen tot het tijdstip waarop zijn lidmaatschap verstrijkt dan wel de Suikerbegeleidingscommissie uit haar midden een andere persoon als voorzitter aanwijst.   
-6.  Het secretariaat van de Suikerbegeleidingscommissie wordt verzorgd door het hoofdproductschap.   
+6.  Het secretariaat van de Suikerbegeleidingscommissie wordt verzorgd door de Minister.   
 7.  De Minister kan zich, indien het onderwerp daartoe naar zijn oordeel aanleiding geeft, in de door de Suikerbegeleidingscommissie te houden vergaderingen door een of meer door hem aan te wijzen personen doen vertegenwoordigen.   
 8.  De Suikerbegeleidingscommissie stelt haar huishoudelijk reglement vast.   
 9.  In zoverre in afwijking van het achtste lid, geldt als huishoudelijk reglement als bedoeld in dat artikellid, het huishoudelijk reglement, zoals laatstelijk vastgesteld op grond van de Regeling suiker, isoglucose en inulinestroop door de in die regeling genoemde Suikerbegeleidingscommissie, tot het tijdstip waarop de Suikerbegeleidingscommissie dit reglement vervangt.   
@@ -60,9 +56,27 @@ h. drie leden door organisaties van werknemers.
 
 De Minister verricht de aankopen tegen de gegarandeerde prijs van preferentiële suiker in de zin van de verordening met inachtneming van hetgeen dienaangaande in de verordening en de uitvoeringsregelingen is bepaald.  
 
-### Artikel  6  
+### Artikel  5  
 
-Het hoofdproductschap stelt de Minister in kennis van alle aanbiedingen op openbare inschrijvingen ingevolge de uitvoeringsregelingen op de restitutie onderscheidenlijk de heffing bij uitvoer en de subsidie bij invoer van suiker en melasse, die voldoen aan alle bij of krachtens de desbetreffende uitvoeringsregelingen gestelde inschrijvingsvoorwaarden.  
+1.  De Minister verleent op verzoek een erkenning aan producenten van suiker, isoglucose of aan de verwerkers van deze producten tot de producten, bedoeld in de bijlage van verordening 967/2006.   
+2.  De erkende ondernemingen verstrekken aan Dienst Regelingen maandelijks de in de artikelen 9, 57, tweede lid en 63, tweede lid, van de verordening bedoelde gegevens die betrekking hebben op de voorafgaande maand.   
+
+### Artikel  5a  
+
+Een erkende suikeronderneming die over een productiequotum beschikt en een erkende onderneming die industriële suiker verwerkt geeft aan Dienst Regelingen, overeenkomstig verordening 967/2006, maandelijks gegevens door over het gehanteerde prijsniveau.  
+
+### Artikel  5b  
+
+1.  Voor 14 april van elk jaar deelt een producent van suiker de hoeveelheid suiker mee die hij boven zijn productiequotum heeft geproduceerd in het lopende verkoopseizoen aan Dienst Regelingen.   
+2.  Voor elk verkoopseizoen is een fabrikant een overschotheffing verschuldigd, door de Minister te bepalen over de geproduceerde hoeveelheden, bedoeld in de verordening.   
+
+### Artikel  5c  
+
+De Minister vordert een productieheffing in over het quotum, voor het betrokken verkoopseizoen overeenkomstig de verordening bij de producent die over een suiker- of isoglucosequotum beschikt.  
+
+### Artikel  5d  
+
+De Minister vordert bij de producent een door de Europese Commissie vast te stellen heffing in over het extra quotum dat voor het betrokken verkoopseizoen wordt toegekend bij of krachtens de verordening.  
 
 ### Artikel  7  
 
@@ -78,7 +92,12 @@ Wijzigt de Overdrachtsregeling bevoegdheden Landbouwwet 1966 Algemeen.
 
 ### Artikel  9a  
 
-Deze regeling is mede gebaseerd op [artikel 19 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
+Deze regeling is mede gebaseerd op artikel 19 van de Landbouwwet.  
+
+### Artikel  9b  
+
+1.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige meldingen, aanvragen of verzoeken die zijn ingediend op grond van de Verordening HPA suiker en isoglucose 2007 worden met ingang van 1 januari 2014 behandeld door de minister met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de melding, de aanvraag of het verzoek.   
+2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van de Verordening HPA suiker en isoglucose 2007 door het Hoofdproductschap Akkerbouw, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.   
 
 ### Artikel  10  
 

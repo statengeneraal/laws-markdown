@@ -107,12 +107,11 @@ Het in Titel I bepaalde is niet van toepassing op het houden van winkelweekactie
 ### Artikel  7b  
 
 1.  Onder winkelweekacties worden verstaan die kansspelen, welke voor bijzondere gelegenheden en ten hoogste tweemaal per jaar voor een beperkte periode van ten hoogste vier weken worden georganiseerd door een groepering van tien of meer ondernemers of filiaalhouders in de detailhandel, het ambacht of het horecabedrijf, die in een of aan elkaar grenzende gemeenten hun bedrijf uitoefenen.   
-2.  Voor het houden van winkelweekacties als in lid 1 bedoeld moet vergunning worden verkregen van de Kamer van Koophandel en Fabrieken, waaronder de gemeente waar de winkelweekactie zal worden gehouden, ressorteert.   
-3.  In het geval een winkelweekactie wordt georganiseerd in aan elkaar grenzende gemeenten, die niet onder eenzelfde Kamer van Koophandel en Fabrieken ressorteren, kan met vergunning van een Kamer worden volstaan. De betrokken Kamer treedt, alvorens de gevraagde vergunning te verlenen, in overleg met de Kamer, binnen wiens ressort de betrokken winkelweekactie eveneens zal worden gehouden.   
-4.  De vergunning wordt verleend, indien en op voorwaarde dat de prijzen of premies in geld of goederen, die ter beschikking van de deelnemers worden gesteld, gezamenlijk geen grotere waarde hebben dan € 11.950,- (elf duizend negenhonderd en vijftig euro) en de deelnemersbewijzen door de betreffende ondernemers aan hun afnemers om niet ter beschikking worden gesteld.   
-5.  De Kamer van Koophandel en Fabrieken is bevoegd een vergunning niet aanstonds te verlenen, indien een ordelijk verloop van zaken zulks gewenst doet zijn; zij kan aan de vergunning voorschriften verbinden.   
-6.  De Kamer van Koophandel weigert een gevraagde vergunning of trekt een verleende vergunning in, indien aannemelijk is, dat bij de wet of de vergunning gestelde voorschriften niet zullen worden nageleefd of zodanige voorschriften niet zijn nageleefd.   
-7.  Voor de behandeling van een aanvraag om een vergunning moet een bij algemene maatregel van bestuur vast te stellen bedrag worden betaald. De voordracht tot vaststelling of wijziging van deze algemene maatregel van bestuur wordt Ons gedaan door Onze Ministers van Veiligheid en Justitie en van Economische Zaken, Landbouw en Innovatie.   
+2.  Voor het houden van winkelweekacties als in lid 1 bedoeld moet vergunning worden verkregen van de Kamer van Koophandel, waaronder de gemeente waar de winkelweekactie zal worden gehouden, ressorteert.   
+3.  De vergunning wordt verleend, indien en op voorwaarde dat de prijzen of premies in geld of goederen, die ter beschikking van de deelnemers worden gesteld, gezamenlijk geen grotere waarde hebben dan € 11.950,- (elf duizend negenhonderd en vijftig euro) en de deelnemersbewijzen door de betreffende ondernemers aan hun afnemers om niet ter beschikking worden gesteld.   
+4.  De Kamer van Koophandel is bevoegd een vergunning niet aanstonds te verlenen, indien een ordelijk verloop van zaken zulks gewenst doet zijn; zij kan aan de vergunning voorschriften verbinden.   
+5.  De Kamer van Koophandel weigert een gevraagde vergunning of trekt een verleende vergunning in, indien aannemelijk is, dat bij de wet of de vergunning gestelde voorschriften niet zullen worden nageleefd of zodanige voorschriften niet zijn nageleefd.   
+6.  Voor de behandeling van een aanvraag om een vergunning moet een bij algemene maatregel van bestuur vast te stellen bedrag worden betaald. De voordracht tot vaststelling of wijziging van deze algemene maatregel van bestuur wordt Ons gedaan door Onze Ministers van Veiligheid en Justitie en van Economische Zaken, Landbouw en Innovatie.   
 
 ### Artikel  7c  
 
@@ -464,7 +463,7 @@ b. op voor het publiek toegankelijke plaatsen;
 
 c. in niet voor het publiek toegankelijke inrichtingen, waarvoor ingevolge [artikel 3 van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) een vergunning voor de uitoefening van het horecabedrijf is vereist of waarvan de ondernemer inschrijfplichtig is bij het Bedrijfschap Horeca.     
 2.  Het eerste lid is niet van toepassing op het aanwezig hebben van kansspelautomaten op voor het publiek toegankelijke plaatsen, uitsluitend ten behoeve van het verkopen daarvan of van het krachtens een vergunning als bedoeld in artikel 30h, eerste lid, in gebruik geven daarvan aan anderen ten behoeve van de uitoefening van hun bedrijf.   
-3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in artikel 30c, eerste lid, onder b.   
+3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in artikel 30c, eerste lid, onder a.   
 
 ### Artikel  30c  
 
@@ -507,6 +506,8 @@ b. niet wordt voldaan aan de krachtens artikel 30d, vierde lid, geldende eisen.
 a. indien de aanvrager de bij of krachtens deze Titel vastgestelde bepalingen heeft overtreden in de drie jaren voorafgaande aan het moment van aanvraag van de vergunning;  
 
 b. indien de vrees gewettigd is, dat het verlenen der vergunning ernstig gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid.     
+3.  De vergunning kan ook worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  30f  
 
@@ -522,8 +523,10 @@ c. indien niet langer wordt voldaan aan de krachtens artikel 30d, vierde lid, on
 a. indien de vergunninghouder de bij of krachtens deze Titel vastgestelde bepalingen heeft overtreden;  
 
 b. indien de vrees gewettigd is, dat het van kracht blijven der vergunning ernstig gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid.     
-3.  In de gevallen bedoeld in het eerste en tweede lid, onder a, kan de burgemeester alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
-4.  Intrekking van de vergunning geschiedt niet voordat de burgemeester van zijn voornemen daartoe de vergunninghouder bij aangetekende brief, onder opgave van redenen, mededeling heeft gedaan en hem in de gelegenheid heeft gesteld zich in persoon of bij gemachtigde door hem of een door hem aangewezen ambtenaar te doen horen. In het geval bedoeld in het tweede lid, onder b, kan, indien dringende omstandigheden zulks vorderen, de vergunning onmiddellijk worden ingetrokken.   
+3.  De vergunning kan ook worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+5.  In de gevallen bedoeld in het eerste lid, tweede lid, onder a, en derde lid kan de burgemeester alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
+6.  Intrekking van de vergunning geschiedt niet voordat de burgemeester van zijn voornemen daartoe de vergunninghouder bij aangetekende brief, onder opgave van redenen, mededeling heeft gedaan en hem in de gelegenheid heeft gesteld zich in persoon of bij gemachtigde door hem of een door hem aangewezen ambtenaar te doen horen. In het geval bedoeld in het tweede lid, onder b, kan, indien dringende omstandigheden zulks vorderen, de vergunning onmiddellijk worden ingetrokken.   
 
 ### Artikel  30g  
 
@@ -561,6 +564,8 @@ b. de eisen ten aanzien van het zedelijk gedrag, waaraan de aanvrager van de ver
 
 1.  De vergunning wordt geweigerd indien niet wordt voldaan aan de krachtens artikel 30i, eerste lid, onder a en b, en tweede lid, onder b, geldende eisen.   
 2.  De vergunning kan voorts worden geweigerd, indien de aanvrager of de andere in artikel 30i, tweede lid, onder b, bedoelde personen, de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden in de drie jaren voorafgaande aan het moment van aanvraag van de vergunning.   
+3.  De vergunning kan ook worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  30l  
 
@@ -574,7 +579,9 @@ c. indien de vergunninghouder gedurende een jaar na de dag van afgifte van de ve
 
 d. indien niet langer wordt voldaan aan de krachtens artikel 30i, tweede lid, onder b, geldende eisen.     
 2.  De vergunning kan voorts worden ingetrokken, indien de vergunninghouder of de andere in artikel 30i, tweede lid, onder b, bedoelde personen de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden.   
-3.  In de gevallen bedoeld in het eerste en tweede lid kan de raad van bestuur, bedoeld in artikel 33a, alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
+3.  De vergunning kan ook worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+5.  In de gevallen bedoeld in het eerste tot en met het derde lid kan de raad van bestuur, bedoeld in artikel 33a, alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
 
 ### §  4  
 
@@ -724,9 +731,13 @@ b. van een speelautomatenhal deel uitmakende afgescheiden ruimten, waar uitsluit
 
 ####Beroep
 
+Vervallen per 01-04-2012   
+
 ### §  7  
 
 ####Toezicht
+
+Vervallen per 01-04-2012   
 
 ### §  8  
 

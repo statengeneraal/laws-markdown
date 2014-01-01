@@ -24,7 +24,8 @@ b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwart
 
 ### Artikel  3  
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten geschiedt door middel van het door de inspecteur uitgereikte of toegezonden formulier. Ter zake wordt een ontvangstbewijs afgegeven.  
+1.  De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.   
+2.  De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.   
 
 ### Artikel  3a  
 

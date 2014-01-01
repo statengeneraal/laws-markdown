@@ -12,7 +12,7 @@ In deze regeling wordt verstaan onder:
 
 a. richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);  
 
-b. kamer: kamer van koophandel en fabrieken als bedoeld in de [Wet op de kamers van koophandel en fabrieken 1997](../../../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md).    
+b. Kamer: de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md).    
 
 ### Artikel  2  
 

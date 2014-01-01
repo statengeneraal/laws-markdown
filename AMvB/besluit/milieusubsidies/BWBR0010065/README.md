@@ -142,7 +142,7 @@ e. indien voorschotten worden aangevraagd aan de hand van de individuele liquidi
 
 f. het bankrekeningnummer waarop het subsidiebedrag dient te worden gestort;  
 
-g. indien van toepassing: het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en Fabrieken, en  
+g. indien van toepassing: het inschrijfnummer van de aanvrager bij de Kamer van Koophandel, en  
 
 h. indien de aanvraag wordt ingediend als met de betrokken activiteit reeds is begonnen, tevens: 
 

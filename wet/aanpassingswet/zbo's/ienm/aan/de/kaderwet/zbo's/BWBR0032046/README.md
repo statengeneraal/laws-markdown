@@ -37,7 +37,8 @@ Wijzigt de Wet rijonderricht motorrijtuigen 1993.
 
 Wijzigt de Binnenvaartwet.   
 
-### Artikel  VIII  
+### Artikel  VIII   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Scheepvaartverkeerswet.   
 
@@ -67,7 +68,8 @@ Bij de eerste samenstelling van de directie van het Centraal Bureau Rijvaardighe
 1.  Bij de eerste samenstelling van de raad van toezicht van het Centraal Bureau Rijvaardigheidsbewijzen wordt bij de benoeming rekening gehouden met de periode van benoeming in de raad van toezicht van de Stichting Centraal Bureau Rijvaardigheidsbewijzen.   
 2.  Bij de eerste samenstelling van de raad van toezicht van het Centraal Bureau Rijvaardigheidsbewijzen benoemt Onze Minister van Infrastructuur en Milieu, in tegenstelling tot het bepaalde in [artikel 4ah, derde lid, Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de voorzitter van de raad van toezicht, zonder dat hij de raad hoort.   
 
-### Artikel  XV  
+### Artikel  XV   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt deze wet.   
 

@@ -18,12 +18,14 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [33, derde en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [34, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [35, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [51, eerste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [70, vierde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [33, derde en vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [34, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [35, tweede lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [44, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [45, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [51, eerste lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [54, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59, zesde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [59a, vierde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [64, vijfde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [67, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [68, derde lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [69, zevende lid](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [70, vierde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 2.  In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).   
 
 ### Hoofdstuk  II  
 
 ####Grondwaterbelasting
+
+Vervallen per 01-01-2012   
 
 ### Hoofdstuk  III  
 
@@ -37,6 +39,8 @@ Hebben goedgevonden en verstaan:
 ### Hoofdstuk  IV  
 
 ####Afvalstoffenbelasting
+
+Vervallen per 01-01-2012   
 
 ### Hoofdstuk  V  
 
@@ -63,13 +67,13 @@ De in [artikel 33, tweede lid](../../../../../../wet/wet/belastingen/op/milieugr
 
 ### Artikel  14  
 
-1.  Het brengen, bedoeld in [artikel 35, tweede lid, onderdelen a en d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van kolen vanuit een derde land of vanuit een plaats voor tijdelijke opslag naar een inrichting, alsmede het brengen, bedoeld in [artikel 35, tweede lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van kolen die zijn geplaatst onder een communautaire douaneregeling naar een inrichting, wordt bij het aangeven voor het vrije verkeer van de kolen op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), aangetoond met een vervoersopdracht. De vervoersopdracht wordt opgemaakt door de vergunninghouder van de inrichting waarnaar de kolen worden overgebracht, dan wel in diens opdracht.   
+1.  Het brengen, bedoeld in [artikel 35, tweede lid, onderdelen a en d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van kolen vanuit een derde land of vanuit een plaats voor tijdelijke opslag naar een inrichting, alsmede het brengen, bedoeld in [artikel 35, tweede lid, onderdeel c, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van kolen die zijn geplaatst onder een EU-douaneregeling naar een inrichting, wordt bij het aangeven voor het vrije verkeer van de kolen op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), aangetoond met een vervoersopdracht. De vervoersopdracht wordt opgemaakt door de vergunninghouder van de inrichting waarnaar de kolen worden overgebracht, dan wel in diens opdracht.   
 2.  Op de in het eerste lid bedoelde vervoersopdracht wordt een verklaring gesteld van de vergunninghouder van de inrichting waarnaar de kolen zullen worden overgebracht dat de kolen worden overgebracht naar zijn inrichting en in de administratie van zijn inrichting worden opgenomen.   
 3.  De in het eerste lid bedoelde kolen moeten hun bestemming hebben bereikt binnen één maand na het tijdstip waarop de vereiste aangifte op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), is gedaan.   
 
 ### Artikel  15  
 
-Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van kolen vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen onder een communautaire douaneregeling van vanuit een derde land binnengebrachte kolen, bedoeld in [artikel 35, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), alsmede het onder ambtelijk toezicht vernietigen van kolen die onder een communautaire douaneregeling zijn geplaatst, bedoeld in [artikel 35, tweede lid, onderdeel e, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), geschiedt met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), moeten worden vervuld.  
+Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), van kolen vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen onder een EU-douaneregeling van vanuit een derde land binnengebrachte kolen, bedoeld in [artikel 35, tweede lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), alsmede het onder ambtelijk toezicht vernietigen van kolen die onder een EU-douaneregeling zijn geplaatst, bedoeld in [artikel 35, tweede lid, onderdeel e, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), geschiedt met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), moeten worden vervuld.  
 
 ### Artikel  16  
 
@@ -160,7 +164,7 @@ b. ter vaststelling van de hoeveelheid elektriciteit waarop het tarief, bedoeld 
 
 ### Artikel  21  
 
-1.  Het tarief als bedoeld in [artikel 59, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas aan hem levert, dat het aardgas uitsluitend wordt aangewend in een CNG-vulstation.   
+1.  Het tarief, bedoeld in [artikel 59, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), is van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas aan hem levert, dat het aardgas uitsluitend wordt aangewend in een CNG-vulstation.   
 2.  De verbruiker dient overeenkomstig de in het eerste lid bedoelde verklaring te handelen. Indien niet meer overeenkomstig de verklaring gehandeld wordt, meldt de verbruiker dat onmiddellijk aan degene die het aardgas levert.   
 
 ### Artikel  21a  
@@ -174,6 +178,16 @@ a. dat sprake is van een installatie voor stadsverwarming;
 b. dat de stadsverwarming is ontworpen om grotendeels gebruik te maken van restwarmte;  
 
 c. wanneer de periode, bedoeld in het eerste lid, aanvangt en eindigt.     
+
+### Artikel  21b  
+
+1.  Het verlaagde tarief, bedoeld in [artikel 59a, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), kan alleen worden toegepast bij de vaststelling van de belasting die verschuldigd wordt op het tijdstip van de uitreiking van de eindfactuur over de verbruiksperiode waarin degene die de levering verricht van de coöperatie een opgaaf heeft ontvangen van de hoeveelheid door de coöperatie opgewekte elektriciteit die zij aan het lid van de coöperatie heeft toegerekend. Daarbij wordt de verlaging van het tarief toegepast op de elektriciteit die over de gehele verbruiksperiode is geleverd, voor zover ter zake wordt voldaan aan de bij of krachtens artikel 59a van de wet en, in voorkomend geval, bij [artikel 59b van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) gestelde voorwaarden en beperkingen.   
+2.  De elektriciteit die is opgewekt door een coöperatie met behulp van een productie-installatie als bedoeld in [artikel 59a, tweede lid, onderdeel d, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), komt slechts in aanmerking voor toerekening als bedoeld in artikel 59a, tweede lid, onderdeel c, van de wet, voor zover daarvoor garanties van oorsprong voor duurzame elektriciteit als bedoeld in [artikel 1, onderdeel x, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) zijn verstrekt. Voor de toepassing van de eerste volzin worden slechts de garanties van oorsprong in aanmerking genomen die betrekking hebben op de hoeveelheid elektriciteit die de coöperatie in de productieperiode via de aansluiting heeft geleverd, verminderd met de hoeveelheid elektriciteit die in dezelfde periode via de aansluiting aan de coöperatie is geleverd.   
+3.  Het verlaagde tarief, bedoeld in het eerste lid, wordt slechts toegepast indien de coöperatie aan degene die de levering verricht: 
+
+a. een afschrift heeft overgelegd van de beschikking waaruit blijkt dat de coöperatie op het tijdstip van de levering was aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md); en  
+
+b. een schriftelijke verklaring heeft overgelegd dat wordt voldaan aan de bij of krachtens [artikel 59a van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en, indien het een vereniging van eigenaars betreft, bij [artikel 59b van de wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), aan de coöperatie, de productie-installatie en de onroerende zaken, bedoeld in artikel 59a, tweede lid, onderdeel b, van de wet, gestelde voorwaarden en beperkingen.     
 
 ### Artikel  22  
 
@@ -216,21 +230,31 @@ b. ter vaststelling van de hoeveelheid product waarop de vrijstelling ziet, deze
 
 ####Vliegbelasting
 
+Vervallen per 29-12-2010   
+
 ### Hoofdstuk  VII  
 
 ####Verpakkingenbelasting
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  1  
 
 ####Sierteelt
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  2  
 
 ####Groenten en fruit
 
+Vervallen per 01-01-2013   
+
 ### Hoofdstuk  VIII  
 
 ####Algemene bepaling
+
+Vervallen per 01-01-2012   
 
 ### Hoofdstuk  IX  
 

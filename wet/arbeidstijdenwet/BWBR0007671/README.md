@@ -45,16 +45,16 @@ b. werknemer: de ander bedoeld onder *a*.
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder collectieve regeling: 
 
-a. een collectieve arbeidsovereenkomst als bedoeld in [artikel 1 van de Wet op de collectieve arbeidsovereenkomst](../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md);  
+a. een collectieve arbeidsovereenkomst als bedoeld in artikel 1 van de Wet op de collectieve arbeidsovereenkomst;  
 
 b. een rechtspositieregeling van werknemers in dienst van de overheid alsmede een overeenkomstige rechtspositieregeling van werknemers, werkzaam in instellingen van bijzonder onderwijs of wetenschappelijk onderzoek;  
 
-c. een verordening als bedoeld in de [artikelen 16, derde lid](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [86, derde lid](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [93, tweede lid, onder d, van de Wet op de bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).     
+c. een verordening als bedoeld in de artikelen 16, derde lid, 86, derde lid, en 93, tweede lid, onder d, van de Wet op de bedrijfsorganisatie.     
 2.  In deze wet en de daarop berustende bepalingen wordt mede verstaan onder collectieve regeling: 
 
-a. een besluit als bedoeld in [artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md) waarbij bepalingen van een collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard;  
+a. een besluit als bedoeld in artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten waarbij bepalingen van een collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard;  
 
-b. een regeling als bedoeld in de [artikelen 5](../../../wet/wet/op/de/loonvorming/BWBR0002698/README.md) en [6 van de Wet op de loonvorming](../../../wet/wet/op/de/loonvorming/BWBR0002698/README.md).     
+b. een regeling als bedoeld in de artikelen 5 en 6 van de Wet op de loonvorming.     
 
 ####Gelijkstelling met collectieve regeling
 
@@ -80,35 +80,35 @@ b. deze regeling te allen tijde eindigt op het tijdstip, dat er geen overeenkoms
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder medezeggenschapsorgaan: 
 
-a. de ondernemingsraad, ingesteld overeenkomstig de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);  
+a. de ondernemingsraad, ingesteld overeenkomstig de Wet op de ondernemingsraden;  
 
-b. een personeelsvertegenwoordiging als bedoeld in de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);  
+b. een personeelsvertegenwoordiging als bedoeld in de Wet op de ondernemingsraden;  
 
-c. een medezeggenschapscommissie ingesteld op grond van de krachtens de [artikelen 125, eerste lid, van de Ambtenarenwet](../../../wet/ambtenarenwet/BWBR0001947/README.md) en [12 van de Militaire Ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) gestelde regels;  
+c. een medezeggenschapscommissie ingesteld op grond van de krachtens de artikelen 125, eerste lid, van de Ambtenarenwet en 12 van de Militaire Ambtenarenwet 1931 gestelde regels;  
 
 d. het uit en door het personeel gekozen deel van: 
 
-1°. de medezeggenschapsraad of deelraad, en de dienstraad, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of  
+1°. de medezeggenschapsraad of deelraad, en de dienstraad, bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of  
 
-2°. de medezeggenschapsraad, bedoeld in de [Wet medezeggenschap onderwijs 1992](../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md);    
+2°. de medezeggenschapsraad, bedoeld in de Wet medezeggenschap onderwijs 1992;    
 
-e. het uit en door het personeel gekozen deel van de medezeggenschapsraad, bedoeld in de [Wet medezeggenschap op scholen](../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md);  
+e. het uit en door het personeel gekozen deel van de medezeggenschapsraad, bedoeld in de Wet medezeggenschap op scholen;  
 
-f. een medezeggenschapsregeling voor de in [artikel 53b van de Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) bedoelde ambtenaren.    
+f. een medezeggenschapsregeling voor de in artikel 53b van de Wet op de ondernemingsraden bedoelde ambtenaren.    
 
 ####Overige begrippen
 
 ### Artikel  1:7  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
 b. defensiepersoneel: 
 
-1°. de in werkelijke dienst zijnde militaire ambtenaren in de zin van [artikel 1, eerste lid, onderdelen a en b, van de Militaire ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);  
+1°. de in werkelijke dienst zijnde militaire ambtenaren in de zin van artikel 1, eerste lid, onderdelen a en b, van de Militaire ambtenarenwet 1931;  
 
-2°. de in werkelijke dienst zijnde dienstplichtigen in de zin van de [artikelen 18](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md), [19](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) en [21 van de Kaderwet dienstplicht](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md);  
+2°. de in werkelijke dienst zijnde dienstplichtigen in de zin van de artikelen 18, 19 en 21 van de Kaderwet dienstplicht;  
 
 3°. het burgerpersoneel, werkzaam bij het ministerie van Defensie;    
 
@@ -118,15 +118,20 @@ d. nachtdienst: een dienst waarin meer dan een uur arbeid wordt verricht tussen 
 
 e. pauze: een periode van ten minste 15 achtereenvolgende minuten, waarmee de arbeid tijdens de dienst wordt onderbroken en de werknemer geen enkele verplichting heeft ten aanzien van de bedongen arbeid;  
 
-f. Dienst Wegverkeer: de dienst, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+f. Dienst Wegverkeer: de dienst, bedoeld in artikel 4a van de Wegenverkeerswet 1994;  
 
 g. consignatie: een periode tussen twee opeenvolgende diensten of tijdens een pauze, waarin de werknemer uitsluitend verplicht is bereikbaar te zijn om in geval van onvoorziene omstandigheden op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;  
 
-h. toezichthouder: de toezichthouder, bedoeld in de [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en als zodanig aangewezen op grond van artikel 8:1, eerste of tweede lid;  
+h. toezichthouder: de toezichthouder, bedoeld in de Algemene wet bestuursrecht, en als zodanig aangewezen op grond van artikel 8:1, eerste of tweede lid;  
 
 i. Verordening (EG) nr. 561/2006: Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van Verordeningen (EEG) nr. 3821/85 en (EG) nr. 2135/98 van de Raad en tot intrekking van Verordening (EEG) nr. 3820/85 van de Raad (PbEU L 102);  
 
-j. AETR-verdrag: de op 1 juli 1970 te Genève tot stand gekomen Europese Overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het Internationale vervoer over de weg (Trb. 1994, 123).    
+j. AETR-verdrag: de op 1 juli 1970 te Genève tot stand gekomen Europese Overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het Internationale vervoer over de weg (Trb. 1994, 123);  
+
+k. arbeidstijd: de tijd dat de werknemer onder gezag van de werkgever arbeid verricht;  
+
+l. rusttijd: de tijd die geen arbeidstijd is.     
+2.  Een wijziging van het AETR-verdrag gaat voor de toepassing van deze wet en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip is vastgesteld.   
 
 ### Hoofdstuk  2  
 
@@ -149,13 +154,13 @@ j. AETR-verdrag: de op 1 juli 1970 te Genève tot stand gekomen Europese Overeen
 
 1.  Deze wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht in verband met: 
 
-a. een ramp of een crisis als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+a. een ramp of een crisis als bedoeld in artikel 1 van de Wet veiligheidsregio’s;  
 
-b. een voorval als bedoeld in [artikel 1, onderdeel f, van de Rijkswet Onderzoeksraad voor veiligheid](../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md);  
+b. een voorval als bedoeld in artikel 1, onderdeel f, van de Rijkswet Onderzoeksraad voor veiligheid;  
 
 c.  vervallen;   
 
-d. een ongeval als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet bestrijding ongevallen Noordzee](../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md);  
+d. een ongeval als bedoeld in artikel 1, eerste lid, onderdeel d, van de Wet bestrijding ongevallen Noordzee;  
 
 e. aangelegenheden die rechtstreeks betrekking hebben op de omstandigheden, bedoeld in de onderdelen a tot en met d.     
 2.  Het eerste lid geldt slechts voor zover de toepassing van deze wet en de daarop berustende bepalingen een goede uitoefening van de in dat lid bedoelde arbeid belemmert.   
@@ -173,7 +178,7 @@ Deze wet en de daarop berustende bepalingen zijn niet van toepassing op verricht
 1.  Voor de toepassing van dit artikel wordt verstaan onder oefening: elk door het defensiepersoneel in de praktijk brengen van onderwezen bekwaamheden teneinde aldus de bedrevenheid in het uitvoeren van aan de krijgsmacht opgedragen operationele taken te verwerven, te vergroten of te onderhouden.   
 2.  Deze wet en de daarop berustende bepalingen zijn van toepassing op arbeid verricht door defensiepersoneel, tenzij deze arbeid wordt verricht: 
 
-a. ten tijde van buitengewone omstandigheden, alsmede in de gevallen genoemd in [artikel 71 van het Wetboek van Militair Strafrecht](../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md);  
+a. ten tijde van buitengewone omstandigheden, alsmede in de gevallen genoemd in artikel 71 van het Wetboek van Militair Strafrecht;  
 
 b. ter uitvoering van bij wet of daarop berustende bepalingen opgedragen taken, voor zover de toepassing van deze wet en de daarop berustende bepalingen een goede taakuitoefening belemmert;  
 
@@ -211,11 +216,11 @@ Deze wet en de daarop berustende bepalingen zijn van toepassing op arbeid verric
 
 Deze wet en de daarop berustende bepalingen zijn mede van toepassing: 
 
-a. op arbeid verricht op of vanaf een mijnbouwinstallatie op het continentaal plat als bedoeld in de [Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md);  
+a. op arbeid verricht op of vanaf een mijnbouwinstallatie op het continentaal plat als bedoeld in de Mijnbouwwet;  
 
 b. op arbeid welke geheel of ten dele buiten Nederland wordt verricht door personen, werkzaam aan boord van zeeschepen die op grond van Nederlandse rechtsregels gerechtigd zijn de Nederlandse vlag te voeren;  
 
-c. op duikwerkzaamheden ten behoeve van mijnbouwinstallaties op het continentaal plat, bedoeld in de [Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), verricht op of vanaf een zeeschip;  
+c. op duikwerkzaamheden ten behoeve van mijnbouwinstallaties op het continentaal plat, bedoeld in de Mijnbouwwet, verricht op of vanaf een zeeschip;  
 
 d. op arbeid, welke voor een in Nederland gevestigde werkgever, geheel of ten dele buiten Nederland wordt verricht door personen, werkzaam: 
 
@@ -233,7 +238,7 @@ e. arbeid verricht binnen de exclusieve economische zone, met uitzondering van d
 
 ### Artikel  2:9  
 
-1.  Deze wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht aan boord van een zeeschip, dat niet op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren en dat zich bevindt in de exclusieve economische zone, in de territoriale zee, op een van de in [artikel 10, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) bedoelde scheepvaartwegen, op de Westerschelde, haar mondingen of op het Kanaal van Gent naar Terneuzen, of in de haven van Scheveningen, door personen die behoren tot de bemanning van dat zeeschip.   
+1.  Deze wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht aan boord van een zeeschip, dat niet op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren en dat zich bevindt in de exclusieve economische zone, in de territoriale zee, op een van de in artikel 10, eerste lid, van de Scheepvaartverkeerswet bedoelde scheepvaartwegen, op de Westerschelde, haar mondingen of op het Kanaal van Gent naar Terneuzen, of in de haven van Scheveningen, door personen die behoren tot de bemanning van dat zeeschip.   
 2.  In afwijking van het eerste lid is deze wet van toepassing op havensleepboten en op duikwerkzaamheden ten behoeve van mijnbouwinstallaties, verricht op of vanaf zeeschepen.   
 3.  Deze wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid, welke voor een buiten Nederland gevestigde werkgever, wordt verricht door personen, werkzaam aan boord van een luchtvaartuig dat zich in het Nederlandse luchtruim of op het Nederlandse territoir bevindt.   
 
@@ -264,7 +269,7 @@ b. niet-industriële arbeid van lichte aard door een kind van 13 jaar of ouder:
 
 1°. voor zover deze arbeid niet wordt verricht gedurende de schooltijd, of  
 
-2°. in het kader van een maatschappelijke stage als bedoeld in [artikel 6f van de Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);    
+2°. in het kader van een maatschappelijke stage als bedoeld in artikel 6f van de Wet op het voortgezet onderwijs;    
 
 c. arbeid van lichte aard door een kind van 14 jaar of ouder voor zover deze arbeid verricht wordt naast en in samenhang met het onderwijs;  
 
@@ -305,10 +310,10 @@ De werkgever zorgt ervoor dat een ieder, die over een kind het ouderlijk gezag o
 
 ### Artikel  4:1  
 
-1.  De werkgever voert een zo goed mogelijk beleid terzake van arbeids- en rusttijden van de werknemers, en houdt daarbij, voor zover dat redelijkerwijs van hem gevergd kan worden, rekening met de persoonlijke omstandigheden van die werknemers. Het beleid terzake van arbeids- en rusttijden wordt gevoerd in samenhang met het arbeidsomstandighedenbeleid, bedoeld in de [Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+1.  De werkgever voert een zo goed mogelijk beleid terzake van arbeids- en rusttijden van de werknemers, en houdt daarbij, voor zover dat redelijkerwijs van hem gevergd kan worden, rekening met de persoonlijke omstandigheden van die werknemers. Het beleid terzake van arbeids- en rusttijden wordt gevoerd in samenhang met het arbeidsomstandighedenbeleid, bedoeld in de Arbeidsomstandighedenwet.   
 2.  De uit het in het eerste lid bedoelde beleid voortvloeiende arbeids- en rusttijdenpatronen worden door de werkgever schriftelijk vastgelegd. De werkgever bewaart de op deze wijze vastgelegde arbeids- en rusttijdenpatronen op een zodanige wijze, dat iedere werknemer de mogelijkheid heeft hiervan desgewenst kennis te nemen.   
 3.  De werkgever toetst de tot stand gekomen arbeids- en rusttijdenpatronen aan de ervaringen die daarmee zijn opgedaan, alsmede hoe deze ervaringen zich verhouden met nieuwe ontwikkelingen op het gebied van de organisatie van arbeids- en rusttijden. Indien daartoe aanleiding is, vindt bijstelling van het beleid, bedoeld in het eerste lid, en de daarop gebaseerde arbeids- en rusttijdenpatronen plaats.   
-4.  [Artikel 5 van de Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is van overeenkomstige toepassing.   
+4.  Artikel 5 van de Arbeidsomstandighedenwet is van overeenkomstige toepassing.   
 5.  De toezichthouder kan, indien de in dit artikel neergelegde verplichtingen niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, een eis tot naleving stellen. Deze eis tot naleving bevat de termijn waarbinnen er aan wordt voldaan.   
 6.  De werkgever voldoet aan de eis tot naleving.   
 
@@ -322,7 +327,7 @@ De werkgever houdt, voor zover dat redelijkerwijs van hem kan worden gevergd, bi
 
 ####Tijdelijke aanpassing arbeidstijdpatroon na ouderschapsverlof
 
-1.  De werknemer kan de werkgever verzoeken om aanpassing van zijn arbeidstijdpatroon, voor de periode van een jaar dan wel een andere tussen hen overeengekomen periode, na afloop van de periode waarin het volledige voor de werknemer geldende ouderschapsverlof, bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), is opgenomen.   
+1.  De werknemer kan de werkgever verzoeken om aanpassing van zijn arbeidstijdpatroon, voor de periode van een jaar dan wel een andere tussen hen overeengekomen periode, na afloop van de periode waarin het volledige voor de werknemer geldende ouderschapsverlof, bedoeld in hoofdstuk 6 van de Wet arbeid en zorg, is opgenomen.   
 2.  Het verzoek wordt ten minste drie maanden voor de afloop van het ouderschapsverlof schriftelijk gedaan.   
 3.  De werkgever beslist op het verzoek uiterlijk vier weken voor de afloop van het ouderschapsverlof.   
 4.  Van het tweede en derde lid kan worden afgeweken bij collectieve regeling. Elk beding waarbij op een andere wijze dan in de eerste zin is aangegeven wordt afgeweken van het tweede of derde lid, is nietig.   
@@ -343,7 +348,7 @@ De werkgever houdt, voor zover dat redelijkerwijs van hem kan worden gevergd, bi
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld welke aangeven op welke wijze aan de in het eerste lid neergelegde verplichting wordt voldaan. Deze regels kunnen voor verschillende sectoren verschillend worden gesteld.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het door de werknemer en de persoon, bedoeld in artikel 2:7, eerste lid, houden van een middel terzake van een deugdelijke registratie, de wijze waarop een middel terzake van een deugdelijke registratie wordt gebruikt alsmede de aanvraag van dit middel.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het bewaren van de gegevens en bescheiden met betrekking tot de in dit artikel neergelegde registratieverplichting.   
-5.  Indien de algemene maatregel van bestuur, bedoeld in het tweede tot en met vierde lid, betrekking heeft op de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid, wordt de voordracht van die algemene maatregel van bestuur Ons gedaan door Onze Minister van Verkeer en Waterstaat en Onze Minister tezamen.   
+5.  Indien de algemene maatregel van bestuur, bedoeld in het tweede tot en met vierde lid, betrekking heeft op de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid, wordt de voordracht van die algemene maatregel van bestuur Ons gedaan door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.   
 
 ### §  4.2  
 
@@ -432,7 +437,7 @@ Artikel 4:5, met uitzondering van het zesde lid, is van overeenkomstige toepassi
 
 ### Artikel  5:2  
 
-1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, worden voor het bepalen van het aantal uren dat arbeid wordt verricht meegeteld de uren waarop de werknemer de bedongen arbeid zou hebben verricht, maar deze door de uitoefening van zijn taak in het kader van het medezeggenschapsorgaan, ziekte, vakantie, de vervulling van door wet of overheid opgelegde verplichting, welke niet in zijn vrije tijd kon geschieden, of als gevolg van zeer bijzondere persoonlijke omstandigheden, bedoeld in [artikel 4:1, eerste lid, van de Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), niet heeft verricht.   
+1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, worden voor het bepalen van het aantal uren dat arbeid wordt verricht meegeteld de uren waarop de werknemer de bedongen arbeid zou hebben verricht, maar deze door de uitoefening van zijn taak in het kader van het medezeggenschapsorgaan, ziekte, vakantie, de vervulling van door wet of overheid opgelegde verplichting, welke niet in zijn vrije tijd kon geschieden, of als gevolg van zeer bijzondere persoonlijke omstandigheden, bedoeld in artikel 4:1, eerste lid, van de Wet arbeid en zorg, niet heeft verricht.   
 2.  Elk beding waarbij wordt afgeweken van het eerste lid, is nietig.   
 
 ### §  5.2  
@@ -593,7 +598,7 @@ a. personen, werkzaam in of op railvoertuigen of motorrijtuigen;
 b. personen, werkzaam aan boord van luchtvaartuigen, zee- of binnenschepen;  
 
 c. loodsen.     
-3.  De voordracht van een algemene maatregel van bestuur als bedoeld in het tweede lid wordt Ons gedaan door Onze Minister van Verkeer en Waterstaat en Onze Minister tezamen.   
+3.  De voordracht van een algemene maatregel van bestuur als bedoeld in het tweede lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.   
 
 ### §  5.4  
 
@@ -646,7 +651,7 @@ De werkgever die een arbeids- en rusttijdenregeling vaststelt, wijzigt of intrek
 
 ### Artikel  6:2  
 
-1.  De werkgever brengt binnen 7 dagen de inhoud van een verzoek om ontheffing of van een op andere wijze dan schriftelijk gegeven bevel tot het staken van de arbeid alsmede van een beschikking bij gedagtekend schrijven ter kennis van het medezeggenschapsorgaan of, bij het ontbreken daarvan, van de belanghebbende werknemers en van werknemers, andere personen en diensten als bedoeld in [artikel 14 van de Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+1.  De werkgever brengt binnen 7 dagen de inhoud van een verzoek om ontheffing of van een op andere wijze dan schriftelijk gegeven bevel tot het staken van de arbeid alsmede van een beschikking bij gedagtekend schrijven ter kennis van het medezeggenschapsorgaan of, bij het ontbreken daarvan, van de belanghebbende werknemers en van werknemers, andere personen en diensten als bedoeld in artikel 14 van de Arbeidsomstandighedenwet.   
 2.  De in het eerste lid bedoelde termijn van 7 dagen vangt aan op de dag volgend op die waarop het verzoek om ontheffing is ingediend of het op een andere wijze dan schriftelijk gegeven bevel tot het staken van de arbeid is gegeven of de beschikking aan de werkgever bekend is gemaakt.   
 
 ####Vergezelrecht en recht op een onderhoud
@@ -663,11 +668,11 @@ b. om zich buiten tegenwoordigheid van anderen met deze toezichthouders te onder
 
 ####Overige bestuursrechtelijke aspecten
 
-#### [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) 
+#### Algemene wet bestuursrecht 
 
 ### Artikel  7:1  
 
-Voor deze wet en de daarop berustende bepalingen treedt voor de toepassing van de [afdelingen 3.6](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). en [4.1.2. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een medezeggenschapsorgaan in de plaats van de belanghebbende werknemers, tenzij het een beschikking betreft die zich richt tot een nader aangeduide werknemer.  
+Voor deze wet en de daarop berustende bepalingen treedt voor de toepassing van de afdelingen 3.6. en 4.1.2. van de Algemene wet bestuursrecht een medezeggenschapsorgaan in de plaats van de belanghebbende werknemers, tenzij het een beschikking betreft die zich richt tot een nader aangeduide werknemer.  
 
 ### Artikel  7:2  
 
@@ -676,14 +681,14 @@ Voor deze wet en de daarop berustende bepalingen treedt voor de toepassing van d
 a. arbeid verricht door personen als bedoeld in artikel 5:12, tweede lid, alsmede  
 
 b. arbeid in bedrijven of inrichtingen die rechtstreeks betrekking heeft op arbeid verricht in of op motorrijtuigen als bedoeld in artikel 5:12, tweede lid, onderdeel a.     
-2.  Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 8:1, eerste lid, en 10:5, eerste lid, wordt genomen namens Onze Minister.   
-3.  Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 8:1, tweede, en 10:5, tweede lid, voor zover het betreft de arbeid, bedoeld in het eerste lid, onderdelen a en b, wordt genomen namens Onze Minister van Verkeer en Waterstaat.   
+2.  Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 8:1, eerste lid, 8:3a, eerste lid, en 10:5, eerste lid, wordt genomen namens Onze Minister.   
+3.  Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de artikelen 8:1, tweede, en 10:5, tweede lid, voor zover het betreft de arbeid, bedoeld in het eerste lid, onderdelen a en b, wordt genomen namens Onze Minister van Infrastructuur en Milieu.   
 
 ####Vrijstelling en ontheffing
 
 ### Artikel  7:3  
 
-Bij algemene maatregel van bestuur als bedoeld in de artikelen 2:7, eerste lid, 4:3, tweede tot en met vierde lid, en 5:12, tweede lid, kan aan Onze Minister en Onze Minister van Verkeer en Waterstaat tezamen of aan één van beiden de bevoegdheid worden toegekend omtrent het verlenen van vrijstellingen en ontheffingen.  
+Bij algemene maatregel van bestuur als bedoeld in de artikelen 2:7, eerste lid, 4:3, tweede tot en met vierde lid, en 5:12, tweede lid, kan aan Onze Minister en Onze Minister van Infrastructuur en Milieu tezamen of aan één van beiden de bevoegdheid worden toegekend omtrent het verlenen van vrijstellingen en ontheffingen.  
 
 ####Nadere voorschriften inzake vrijstelling en ontheffing
 
@@ -704,20 +709,20 @@ b. zich na de verlening zodanige feiten of omstandigheden hebben voorgedaan dat,
 
 ### Artikel  7:6  
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de goedkeuring, verlening, afgifte, weigering, schorsing, intrekking of inname door Onze Minister van Verkeer en Waterstaat van het middel: 
+1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de goedkeuring, verlening, afgifte, weigering, schorsing, intrekking of inname door Onze Minister van Infrastructuur en Milieu van het middel: 
 
 a. terzake van een deugdelijke registratie als bedoeld in artikel 4:3, tweede en derde lid, ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen;  
 
 b. ten behoeve van de controle op een deugdelijke registratie van arbeids- en rusttijden ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen, bedoeld in artikel 8:5;  
 
 c. bedoeld in artikel 9:2 ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in artikel 9:1, eerste lid, alsmede van het vastleggen en doorgeven van de daarin opgeslagen gegevens.     
-2.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Verkeer en Waterstaat.   
+2.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu.   
 
 ### Artikel  7:7  
 
-1.  Onze Minister van Verkeer en Waterstaat houdt een registratie bij van de in artikel 7:6, eerste lid, bedoelde middelen en daarbij behorende gegevens van betrokkenen.   
+1.  Onze Minister van Infrastructuur en Milieu houdt een registratie bij van de in artikel 7:6, eerste lid, bedoelde middelen en daarbij behorende gegevens van betrokkenen.   
 2.  De in het eerste lid bedoelde gegevens kunnen worden verwerkt in het belang van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in artikel 7:6, eerste lid, bedoelde middelen.   
-3.  Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen regels worden gesteld over de verstrekking van de in het eerste lid bedoelde gegevens aan belanghebbenden voor zover zulks in het belang is van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in artikel 7:6, eerste lid, bedoelde middelen en over de wijze van verwerken van deze gegevens.   
+3.  Bij regeling van Onze Minister van Infrastructuur en Milieu kunnen regels worden gesteld over de verstrekking van de in het eerste lid bedoelde gegevens aan belanghebbenden voor zover zulks in het belang is van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in artikel 7:6, eerste lid, bedoelde middelen en over de wijze van verwerken van deze gegevens.   
 
 ### Hoofdstuk  8  
 
@@ -732,8 +737,8 @@ c. bedoeld in artikel 9:2 ten behoeve van het installeren, onderzoeken of herste
 ### Artikel  8:1  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen onder hem ressorterende ambtenaren.   
-2.  Met betrekking tot door Onze Minister aangewezen categorieën van arbeid zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast of mede belast de door hem aangewezen andere ambtenaren dan de in het eerste lid bedoelde. Indien ambtenaren worden aangewezen die ressorteren onder een andere minister, wordt het besluit tot aanwijzing van die ambtenaren genomen door Onze Minister en die andere minister gezamenlijk.   
-3.  In afwijking van het tweede lid wordt het aldaar bedoelde besluit, voor zover het de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid betreft, genomen door Onze Minister van Verkeer en Waterstaat en Onze Minister tezamen.   
+2.  Met betrekking tot door Onze Minister aangewezen categorieën van arbeid zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast of mede belast de door hem aangewezen andere ambtenaren dan de in het eerste lid bedoelde. Indien ambtenaren worden aangewezen die ressorteren onder een andere minister, wordt het besluit tot aanwijzing van die ambtenaren genomen door Onze Minister en die andere minister gezamenlijk. Indien Onze Minister ambtenaren van provincies, gemeenten of waterschappen aanwijst, doet hij dit in overeenstemming met de desbetreffende besturen.   
+3.  In afwijking van het tweede lid wordt het aldaar bedoelde besluit, voor zover het de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid betreft, genomen door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.   
 4.  Van een aanwijzingsbesluit als bedoeld in de voorgaande leden wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 5.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in de bij of krachtens die maatregel te bepalen gevallen en wijze degene die arbeid verricht of doet verrichten in de territoriale zee of de exclusieve economische zone, verplicht is de ambtenaren, bedoeld in het eerste of tweede lid, bij de uitoefening van hun bevoegdheden te vervoeren naar door deze ambtenaren aan te duiden plaatsen waar deze arbeid wordt of zal worden verricht. Artikel 4:3, vijfde lid, is van overeenkomstige toepassing.   
 
@@ -746,7 +751,7 @@ c. bedoeld in artikel 9:2 ten behoeve van het installeren, onderzoeken of herste
 ### Artikel  8:2  
 
 1.  Een toezichthouder kan bevelen, dat, indien artikel 3:2, eerste lid, naar zijn oordeel in ernstige mate wordt overtreden, een kind de arbeid staakt.   
-2.  Een toezichthouder kan bevelen dat, indien arbeid wordt verricht die naar zijn oordeel in ernstige mate in strijd is met de bij deze wet en de daarop berustende bepalingen gegeven regels inzake arbeids- en rusttijden of deugdelijke registratie, voor zover aangeduid als overtredingen in de zin van artikel 10:1 of overtredingen of misdrijven in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), een kind, de werknemer of een persoon als bedoeld in artikel 2:7, die arbeid staakt tot op een nader te bepalen tijdstip. Het tijdstip wordt niet later gesteld dan dat, waarop hervatting van de arbeid wettelijk weer geoorloofd is onderscheidenlijk deugdelijk kan worden uitgevoerd.   
+2.  Een toezichthouder kan bevelen dat, indien arbeid wordt verricht die naar zijn oordeel in ernstige mate in strijd is met de bij deze wet en de daarop berustende bepalingen gegeven regels inzake arbeids- en rusttijden of deugdelijke registratie, voor zover aangeduid als overtredingen in de zin van artikel 10:1 of zijn aangemerkt als economische delicten als bedoeld in artikel 2, eerste lid, van de Wet op de economisch delicten, een kind, de werknemer of een persoon als bedoeld in artikel 2:7, die arbeid staakt tot op een nader te bepalen tijdstip. Het tijdstip wordt niet later gesteld dan dat, waarop hervatting van de arbeid wettelijk weer geoorloofd is onderscheidenlijk deugdelijk kan worden uitgevoerd.   
 3.  Voor zover het in het eerste en tweede lid bedoelde bevel op enigerlei andere wijze dan schriftelijk wordt gegeven, wordt zij binnen 7 dagen, nadat het bevel is gegeven, schriftelijk bevestigd.   
 4.  Degene, die een bevel als bedoeld in het eerste en tweede lid, heeft gegeven, is bevoegd met betrekking tot de uitvoering ervan de nodige maatregelen te treffen, met inbegrip van de oplegging van een last onder bestuursdwang, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
 5.  Degene die het bevel heeft gegeven, kan dit bevel te allen tijde intrekken.   
@@ -755,8 +760,19 @@ c. bedoeld in artikel 9:2 ten behoeve van het installeren, onderzoeken of herste
 
 ### Artikel  8:3  
 
-1.  Een ieder, wie zulks aangaat, gedraagt zich overeenkomstig een bevel als bedoeld in artikel 8:2, eerste en tweede lid, en een maatregel of aanwijzing als bedoeld in het vierde lid van dat artikel.   
-2.  Een gedraging in strijd met het eerste lid is een misdrijf in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+Een ieder, wie zulks aangaat, gedraagt zich overeenkomstig een bevel als bedoeld in artikel 8:2, eerste en tweede lid, en een maatregel of aanwijzing als bedoeld in het vierde lid van dat artikel.  
+
+### Artikel  8:3a  
+
+####Bevel tot staken van de arbeid in verband met recidive
+
+1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de Wet op de economische delicten strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. Artikel 8:1, tweede lid, is van overeenkomstige toepassing.   
+2.  Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd of een proces-verbaal is opgemaakt.   
+3.  De constatering van de overtreding, bedoeld in het eerste of tweede lid, wordt vastgelegd in een boeterapport of proces-verbaal.   
+4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+5.  De ambtenaar, bedoeld in het eerste lid, is bevoegd met betrekking tot het bevel, bedoeld in het tweede lid, met inbegrip van de oplegging van een last onder bestuursdwang, de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
+6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel als bedoeld in het tweede lid en een maatregel of aanwijzing als bedoeld in het vijfde lid.   
+7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.   
 
 ### §  8.3  
 
@@ -764,7 +780,7 @@ c. bedoeld in artikel 9:2 ten behoeve van het installeren, onderzoeken of herste
 
 ### Artikel  8:4  
 
-De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit hoofde van hun ambt zijn onderworpen, verplicht tot geheimhouding van de namen van de personen door wie een klacht is ingediend of aangifte is gedaan van een overtreding of misdrijf in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) voor zover betrekking hebbend op deze wet en de daarop berustende bepalingen, behoudens wanneer deze personen hen schriftelijk hebben verklaard tegen de mededeling van hun namen geen bedenkingen te hebben.  
+De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit hoofde van hun ambt zijn onderworpen, verplicht tot geheimhouding van de namen van de personen door wie een klacht is ingediend of aangifte is gedaan van een economische delict als bedoeld in artikel 2, eerste lid, van de Wet op de economische delicten voor zover betrekking hebbend op deze wet en de daarop berustende bepalingen, behoudens wanneer deze personen hen schriftelijk hebben verklaard tegen de mededeling van hun namen geen bedenkingen te hebben.  
 
 ### §  8.4  
 
@@ -773,14 +789,14 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit hoofde v
 ### Artikel  8:5  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de aanvraag en het gebruik van middelen door toezichthouders ten behoeve van de controle op een deugdelijke registratie van arbeids- en rusttijden ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen.   
-2.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Verkeer en Waterstaat.   
+2.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu.   
 
 ### Artikel  8:6  
 
 1.  Een toezichthouder kan afgifte vorderen van een middel terzake van de deugdelijke registratie, bedoeld in artikel 4:3, derde lid, dat betrekking heeft op arbeid verricht door personen in of op motorrijtuigen, in bij algemene maatregel van bestuur omschreven gevallen van onrechtmatig bezit en gebruik van dat middel.   
 2.  Een ieder is op eerste vordering verplicht tot afgifte van een door hem gehouden middel als bedoeld in het eerste lid.   
-3.  Een ingevorderd middel wordt met een door de toezichthouder opgemaakt rapport inzake de toedracht van vordering tot afgifte gezonden aan Onze Minister van Verkeer en Waterstaat.   
-4.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Verkeer en Waterstaat.   
+3.  Een ingevorderd middel wordt met een door de toezichthouder opgemaakt rapport inzake de toedracht van vordering tot afgifte gezonden aan Onze Minister van Infrastructuur en Milieu.   
+4.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu.   
 
 ### §  8.5  
 
@@ -815,7 +831,7 @@ a. de erkenning van de natuurlijke of rechtspersonen, bedoeld in artikel 9:1, ee
 b. de aanvraag en het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in artikel 9:1, eerste lid, alsmede van het vastleggen en doorgeven van de daarin opgeslagen gegevens;  
 
 c. de aanvraag van een goedkeuring als bedoeld in artikel 9:1, derde lid.     
-2.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Verkeer en Waterstaat.   
+2.  De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu.   
 
 ### Hoofdstuk  10  
 
@@ -829,7 +845,8 @@ c. de aanvraag van een goedkeuring als bedoeld in artikel 9:1, derde lid.
 
 ### Artikel  10:1  
 
-Als overtreding wordt aangemerkt het niet naleven van de artikelen 3:2, eerste en vierde lid, 3:3, tweede lid, 3:4, 3:5, eerste lid, 4:1, zesde lid, 4:3, eerste lid, 4:6, 5:3, eerste en tweede lid, 5:4, eerste lid, 5:5, eerste en tweede lid, 5:7, eerste en tweede lid, 5:8, eerste tot en met vijfde lid, zevende en negende lid, 5:9, eerste tot en met zevende lid, 5:14, derde lid, 5:15, zevende lid, 5:16, eerste lid, voor zover het niet naleven van dit artikellid een overtreding oplevert, 8:6, tweede lid, alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de artikelen 2:7, eerste lid, 4:3, tweede tot en met vierde lid, 5:12, eerste en tweede lid, 8:1, vijfde lid, en 9:2, eerste lid, ten aanzien van het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in artikel 9:1, eerste lid.  
+1.  Als overtreding wordt aangemerkt het niet naleven van de artikelen 3:2, eerste en vierde lid, 3:3, tweede lid, 3:4, 3:5, eerste lid, 4:1, zesde lid, 4:3, eerste lid, 4:6, 5:3, eerste en tweede lid, 5:4, eerste lid, 5:5, eerste en tweede lid, 5:7, eerste en tweede lid, 5:8, eerste tot en met vijfde lid, zevende en negende lid, 5:9, eerste tot en met zevende lid, 5:14, derde lid, 5:15, zevende lid, 5:16, eerste lid, voor zover het niet naleven van dit artikellid een overtreding oplevert, 8:6, tweede lid, alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de artikelen 2:7, eerste lid, 4:3, tweede tot en met vierde lid, 5:12, eerste en tweede lid, 8:1, vijfde lid, en 9:2, eerste lid, ten aanzien van het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in artikel 9:1, eerste lid.   
+2.  Ingeval een artikel of voorschrift, bedoeld in het eerste lid, verwijst naar het AETR-verdrag, kan overtreding daarvan ook worden bestraft met een bestuurlijke sanctie indien dat verdrag in de Engelse taal is gesteld en bekend gemaakt.   
 
 ### §  10.2  
 
@@ -839,7 +856,7 @@ Als overtreding wordt aangemerkt het niet naleven van de artikelen 3:2, eerste e
 
 ### Artikel  10:3  
 
-1.  Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt het rapport in ieder geval: 
+1.  Onverminderd artikel 5:48, tweede lid, van de Algemene wet bestuursrecht vermeldt het rapport in ieder geval: 
 
 a. de bij de overtreding betrokken persoon of personen;  
 
@@ -855,7 +872,7 @@ b. het officiële nummer waaronder het desbetreffende vervoermiddel is geregistr
 ### Artikel  10:5  
 
 1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt de bestuurlijke boete op aan de natuurlijke of rechtspersoon op wie de verplichtingen rusten welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.   
-2.  Voor zover het de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid betreft legt een daartoe door Onze Minister van Verkeer en Waterstaat en Onze Minister tezamen aangewezen ambtenaar de bestuurlijke boete op aan de natuurlijke persoon of rechtspersoon op wie de verplichtingen rusten welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.   
+2.  Voor zover het de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid betreft legt een daartoe door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen aangewezen ambtenaar de bestuurlijke boete op aan de natuurlijke persoon of rechtspersoon op wie de verplichtingen rusten welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.   
 3.  De ter zake van deze wet en de daarop berustende bepalingen gestelde overtredingen gelden ten opzichte van elke persoon, met of ten aanzien van wie de overtreding is begaan, en met betrekking tot elke dag in de loop waarvan deze overtreding is begaan.   
 4.  Indien een werknemer die in dienst is van een buiten Nederland gevestigde werkgever in diens opdracht arbeid verricht voor een in Nederland gevestigde werkgever, rusten de verplichtingen welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover deze zijn aangeduid als overtredingen, mede op de hiervoor bedoelde in Nederland gevestigde werkgever.   
 
@@ -863,20 +880,19 @@ b. het officiële nummer waaronder het desbetreffende vervoermiddel is geregistr
 
 ### Artikel  10:6  
 
-Geen bestuurlijke boete wordt opgelegd, indien een gedraging die in strijd is met deze wet of de daarop berustende bepalingen, tevens een strafbaar feit als bedoeld in artikel 11:3, eerste tot en met derde lid, oplevert.  
+Geen bestuurlijke boete wordt opgelegd, indien een gedraging die in strijd is met deze wet of de daarop berustende bepalingen, tevens een strafbaar feit als bedoeld in artikel 11:3 oplevert.  
 
 ####De hoogte van de bestuurlijke boete
 
 ### Artikel  10:7  
 
-1.  De bestuurlijke boete die ten hoogste voor een overtreding kan worden opgelegd, is, indien begaan door: 
-
-a. een natuurlijke persoon, gelijk aan de geldsom van ten hoogste € 11 250,  
-
-b. een rechtspersoon, gelijk aan de geldsom van ten hoogste € 45 000.     
-2.  Onverminderd het eerste lid verhoogt de op grond van artikel 10:5, eerste of tweede lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 50%, indien op de dag van het constateren van de overtreding nog geen 24 maanden zijn verstreken nadat een eerdere overtreding bestaande uit het niet naleven van eenzelfde wettelijke verplichting is geconstateerd en de boete wegens de eerdere overtreding onherroepelijk is geworden.   
-3.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Voor overtredingen begaan door personen, bedoeld in artikel 5:12, tweede lid, stellen Onze Minister van Verkeer en Waterstaat en Onze Minister tezamen beleidsregels vast waarin de boetebedragen voor die overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens de wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
-4.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.   
+1.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+2.  Onverminderd het eerste lid verhoogt de op grond van artikel 10:5, eerste of tweede lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
+3.  De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.   
+4.  Onverminderd het eerste lid verhoogt de op grond van artikel 10:5, eerste of tweede lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.   
+5.  In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.   
+6.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Voor overtredingen begaan door personen, bedoeld in artikel 5:12, tweede lid, stellen Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen beleidsregels vast waarin de boetebedragen voor die overtredingen worden vastgesteld. Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing indien een artikel gesteld bij of krachtens de wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
+7.  In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.   
 
 ### §  10.4  
 
@@ -917,7 +933,7 @@ b. kenteken: het kenteken waaronder een voertuig in het buitenland is geregistre
 
 ### Artikel  10:15  
 
-1.  In afwijking van de paragrafen 10.2 tot en met 10.4, met uitzondering van artikel 10:7, eerste en derde lid, kan deze paragraaf worden toegepast: 
+1.  In afwijking van de paragrafen 10.2 tot en met 10.4, met uitzondering van artikel 10:7, eerste en zesde lid, kan deze paragraaf worden toegepast: 
 
 a. indien de overtreding heeft plaatsgevonden met of door middel van een voertuig waarvan aannemelijk is dat de houder van het kenteken of de bestuurder geen bekende woon- of verblijfplaats in Nederland heeft, of  
 
@@ -927,7 +943,7 @@ b. in geval van een in Nederland vastgestelde overtreding, begaan door een bestu
 ### Artikel  10:16  
 
 1.  Een bestuurlijke boete wordt opgelegd door de toezichthouder, bedoeld in artikel 8:1, eerste lid, of in artikel 8:1, tweede lid, ten aanzien van de in artikel 5:12, tweede lid, onderdeel a, bedoelde personen ten aanzien van arbeid door hen verricht in of op motorrijtuigen.   
-2.  Onverminderd [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt de beschikking in ieder geval: 
+2.  Onverminderd artikel 5:48, eerste lid, van de Algemene wet bestuursrecht vermeldt de beschikking in ieder geval: 
 
 a. het officiële nummer waaronder het desbetreffende voertuig is geregistreerd;  
 
@@ -964,7 +980,7 @@ a. het vervoer betreft waarop verordening (EG) nr. 561/2006 dan wel het AETR-ver
 
 b. de overtreding in Nederland wordt vastgesteld, en  
 
-c. het een economisch delict betreft als bedoeld in de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).     
+c. het een economisch delict betreft als bedoeld in de Wet op de economische delicten.     
 3.  In geval van vaststelling van een overtreding als bedoeld in het tweede lid, onderdeel b, wordt geen vervolging ingesteld indien voor de overtreding reeds een sanctie is opgelegd dan wel een procedure tot het opleggen van een sanctie is gestart.   
 
 ####Bijzondere aansprakelijkheid
@@ -978,16 +994,15 @@ c. het een economisch delict betreft als bedoeld in de [Wet op de economische de
 
 ### Artikel  11:3  
 
-1.  Het niet naleven van een bepaling, genoemd in artikel 10:1 wordt aangemerkt als een strafbaar feit, indien tweemaal binnen een aan de dag van het constateren van dat beboetbare feit voorafgaande periode van 48 maanden, met respectievelijke tussenliggende perioden van ten hoogste 24 maanden, voor een beboetbaar feit bestaande uit het niet naleven van eenzelfde wettelijke verplichting een bestuurlijke boete is opgelegd die onherroepelijk is geworden, behoudens in bij algemene maatregel van bestuur te bepalen gevallen.   
-2.  Het niet naleven van artikel 3:2, eerste en vierde lid, en 3:3, tweede lid, wordt aangemerkt als een strafbaar feit indien een kind bij het verrichten van arbeid een ongeval overkomt dat ernstig lichamelijk of geestelijk letsel of de dood ten gevolge heeft of indien redelijkerwijs te verwachten is dat de hiervoor genoemde gevolgen aan het verrichten van arbeid zijn verbonden.   
-3.  Bij arbeid verricht door de in artikel 5:12, tweede lid, bedoelde personen wordt het niet naleven van de artikelen 5:3, eerste en tweede lid, 5:4, eerste lid, 5:5, eerste en tweede lid, 5:7, eerste en tweede lid, 5:8, eerste tot en met vijfde lid, zevende en negende lid, 5:9, eerste tot en met zevende lid, 5:14, derde lid, 5:15, zevende lid, 5:16, eerste lid, voor zover het niet naleven van dit artikellid een overtreding oplevert alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de artikelen 2:7, eerste lid, en 5:12, tweede lid, aangemerkt als strafbaar feit, als daardoor de verkeersveiligheid ernstig in gevaar is gebracht of redelijkerwijs kan worden aangenomen dat de verkeersveiligheid ernstig in gevaar is gebracht.   
-4.  Een strafbaar feit als bedoeld in dit artikel is een overtreding in de zin van [artikel 2, derde lid, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).   
+1.  Het niet naleven van artikel 3:2, eerste en vierde lid, en 3:3, tweede lid, wordt aangemerkt als een strafbaar feit indien een kind bij het verrichten van arbeid een ongeval overkomt dat ernstig lichamelijk of geestelijk letsel of de dood ten gevolge heeft of indien redelijkerwijs te verwachten is dat de hiervoor genoemde gevolgen aan het verrichten van arbeid zijn verbonden.   
+2.  Bij arbeid verricht door de in artikel 5:12, tweede lid, bedoelde personen wordt het niet naleven van de artikelen 5:3, eerste en tweede lid, 5:4, eerste lid, 5:5, eerste en tweede lid, 5:7, eerste en tweede lid, 5:8, eerste tot en met vijfde lid, zevende en negende lid, 5:9, eerste tot en met zevende lid, 5:14, derde lid, 5:15, zevende lid, 5:16, eerste lid, voor zover het niet naleven van dit artikellid een overtreding oplevert alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de artikelen 2:7, eerste lid, en 5:12, tweede lid, aangemerkt als strafbaar feit, als daardoor de verkeersveiligheid ernstig in gevaar is gebracht of redelijkerwijs kan worden aangenomen dat de verkeersveiligheid ernstig in gevaar is gebracht.   
+3.  Ingeval bij of krachtens deze wet wordt verwezen naar het AETR-verdrag, kan overtreding daarvan ook als strafbaar feit worden aangemerkt indien dat verdrag in de Engelse taal is gesteld en bekend gemaakt.   
 
 ####Strafoplegging
 
 ### Artikel  11:4  
 
-De terzake van deze wet in de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar gestelde feiten, gelden ten opzichte van elk persoon, met of ten aanzien van wie de overtreding van deze wet en de daarop berustende bepalingen is gepleegd, en met betrekking tot elke dag in de loop waarvan deze overtreding is gepleegd.  
+De terzake van deze wet in de Wet op de economische delicten strafbaar gestelde feiten, gelden ten opzichte van elk persoon, met of ten aanzien van wie de overtreding van deze wet en de daarop berustende bepalingen is gepleegd, en met betrekking tot elke dag in de loop waarvan deze overtreding is gepleegd.  
 
 ####Uitreiking gerechtelijke mededelingen
 
@@ -1010,8 +1025,8 @@ Waar in deze wet niet anders wordt bepaald, wordt de voordracht tot een algemene
 ### Artikel  12:2  
 
 1.  Onze Minister stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt op grond van deze wet en de daarop berustende bepalingen alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag, tenzij zulks betrekking heeft op de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid.   
-2.  Onze Minister van Verkeer en Waterstaat stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt of middelen afgegeven, op grond van deze wet en de daarop berustende bepalingen voor de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid, alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag voor die onderscheiden categorieën van arbeid.   
-3.  Het aan het goedkeuren, aan het toezicht en aan de erkenning, bedoeld in artikel 9:1, verbonden tarief alsmede de wijze van betaling daarvan worden vastgesteld door de Dienst Wegverkeer en kunnen voor verschillende vormen van toezicht en verschillende soorten van erkenningen verschillend worden gesteld. [Artikel 4q, eerste lid, van de Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is van overeenkomstige toepassing.   
+2.  Onze Minister van Infrastructuur en Milieu stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt of middelen afgegeven, op grond van deze wet en de daarop berustende bepalingen voor de in artikel 5:12, tweede lid, onderscheiden categorieën van arbeid, alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag voor die onderscheiden categorieën van arbeid.   
+3.  Het aan het goedkeuren, aan het toezicht en aan de erkenning, bedoeld in artikel 9:1, verbonden tarief alsmede de wijze van betaling daarvan worden vastgesteld door de Dienst Wegverkeer en kunnen voor verschillende vormen van toezicht en verschillende soorten van erkenningen verschillend worden gesteld. Artikel 4q, eerste lid, van de Wegenverkeerswet 1994 is van overeenkomstige toepassing.   
 
 ####Citeertitel
 

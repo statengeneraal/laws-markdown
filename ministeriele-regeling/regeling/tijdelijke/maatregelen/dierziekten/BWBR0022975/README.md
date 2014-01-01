@@ -17,9 +17,9 @@ Gelet op:
 
 – artikel 10, eerste lid, van richtlijn 90/425 van de Raad van de Europese Unie van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautaire handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de totstandbrenging van de interne markt (PbEU L 224);
 
-– de [artikelen 10](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [17](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [19](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [29](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [30, eerste en derde lid](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [31](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [32](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [100](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [107](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [114 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+– de artikelen 10, 17, 18, 19, 29, 30, eerste en derde lid, 31, 32, 100, 107 en 114 van de Gezondheids- en welzijnswet voor dieren;
 
-– de [Regeling aanwijzing ambtenaren Gezondheids- en welzijnswet voor dieren](../../../../../../ministeriele-regeling/regeling/aanwijzing/ambtenaren/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005835/README.md);
+– de Regeling aanwijzing ambtenaren Gezondheids- en welzijnswet voor dieren;
 Besluit:     
 ### §  1  
 
@@ -35,7 +35,7 @@ b. evenhoevigen: herkauwers en varkens;
 
 c. gevogelte: pluimvee, alsmede andere gehouden dieren van een soort behorende tot de orde van de eendvogels ( Anseriformes), tot de families van de struisvogels ( Struthionidae), emoes ( Dromaiidae) en nandoes ( Rheidae) en de familie van de duiven ( Columbidae);  
 
-d. hobbypluimvee: gevogelte als bedoeld in [artikel 1, onderdeel c, van de Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop](../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/vaccinatie/hobbypluimvee/biologische/etc/BWBR0019657/README.md);  
+d. hobbypluimvee: gevogelte als bedoeld in artikel 1, onderdeel c, van de Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop;  
 
 e. richtlijn 2000/75/EG: richtlijn 2000/75/EG van de Raad van de Europese Unie van 20 november 2000 tot vaststelling van specifieke bepalingen inzake de bestrijding en uitroeiing van bluetongue (PbEU L 327);  
 
@@ -51,14 +51,14 @@ j. Minister: Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 k. DR: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
 
-l. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+l. wet: Gezondheids- en welzijnswet voor dieren;  
 
 m. derde land: land, niet zijnde Nederland en niet zijnde een lidstaat;  
 
 n. GD: Gezondheidsdienst voor Dieren;  
 
 o. verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L300);     
-2.  Deze regeling berust mede op [artikel 3.18 van het Besluit diergeneesmiddelen](../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
+2.  Deze regeling berust mede op artikel 3.18 van het Besluit diergeneesmiddelen.   
 
 ### §  2  
 
@@ -80,7 +80,7 @@ b. het gevogelte geen water krijgt dat afkomstig is van oppervlaktewateren waart
 
 ### Artikel  2.5  
 
-1.  In afwijking van de [artikelen 53 tot en met 55 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is het verboden gevogelte, met uitzondering van sierduiven, afkomstig van verschillende plaatsen tijdelijk op één plaats te verzamelen.   
+1.  In afwijking van de artikelen 53 tot en met 55 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s is het verboden gevogelte, met uitzondering van sierduiven, afkomstig van verschillende plaatsen tijdelijk op één plaats te verzamelen.   
 2.  Het eerste lid is niet van toepassing op het tijdelijk op één plaats verzamelen ten behoeve van wedvluchten, culturele evenementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen, anders dan markten waar gevogelte worden verhandeld, indien: 
 
 a. degene, die voornemens is gevogelte van verschillende plaatsen tijdelijk op één plaats te verzamelen de NVWA van dit voornemen ten minste 8 dagen van tevoren kennis heeft gegeven;  
@@ -89,17 +89,17 @@ b.  vervallen;
 
 c. het gevogelte, alvorens dit wordt toegelaten bij de plaats van aanvoer, op de kosten van degene, die voornemens is gevogelte van verschillende plaatsten tijdelijk op één plaats te verzamelen, wordt onderzocht door één of meer dierenartsen, en  
 
-d. voor zover het een wedvlucht voor postduiven, of een tentoonstelling of keuring van gevogelte betreft, slechts gevogelte wordt toegelaten dat vergezeld gaat van een op deze vogels betrekking hebbende, volledig ingevulde en ondertekende verklaring van enting tegen Newcastle Disease zoals bedoeld in [artikel 54, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).     
+d. voor zover het een wedvlucht voor postduiven, of een tentoonstelling of keuring van gevogelte betreft, slechts gevogelte wordt toegelaten dat vergezeld gaat van een op deze vogels betrekking hebbende, volledig ingevulde en ondertekende verklaring van enting tegen Newcastle Disease zoals bedoeld in artikel 54, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s.     
 3.  In afwijking van het tweede lid is degene die voornemens is postduiven voor een wedvlucht te verzamelen, gehouden van dit voornemen jaarlijks een overzicht aan de NVWA te doen toekomen. De Minister kan besluiten de postduiven, alvorens deze bij de wedvlucht worden toegelaten, bij de plaats van aanvoer te laten onderzoeken door één of meer dierenartsen, op kosten van degene die de postduiven voor de wedvlucht heeft verzameld.   
 
 ### Artikel  2.6  
 
-1.  Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van gevogelte of broedeieren in derde landen, alsmede in lidstaten van de Europese Unie waar een uitbraak van hoogpathogene aviaire Influenza is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt gereinigd en ontsmet op een reinigings- en ontsmettingsplaats voor vervoermiddelen die is geregistreerd overeenkomstig [artikel 26 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md). De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de NVWA een bewijs van de reiniging en ontsmetting.   
+1.  Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van gevogelte of broedeieren in derde landen, alsmede in lidstaten van de Europese Unie waar een uitbraak van hoogpathogene aviaire Influenza is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt gereinigd en ontsmet op een reinigings- en ontsmettingsplaats voor vervoermiddelen die is geregistreerd overeenkomstig artikel 26 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s. De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de NVWA een bewijs van de reiniging en ontsmetting.   
 2.  Voor de werking van dit artikel wordt onder een uitbraak van hoogpathogene aviaire Influenza in een lidstaat niet verstaan een uitbraak in een circus, een dierentuin, een vogelwinkel, een wildpark, een omheind terrein waar gevogelte voor wetenschappelijke doeleinden of met het oog op de bescherming van zeldzame pluimveerassen wordt gehouden, zoals bedoeld in artikel 13, eerste lid, van richtlijn 2005/94/EG.   
 3.  Het bewijs van de laatste reiniging en ontsmetting, bedoeld in het eerste lid, dient in ieder geval een datum, tijdstip van reiniging en ontsmetting en kenteken van het gereinigde vervoermiddel te bevatten en is ten allen tijde in het vervoermiddel aanwezig.   
 4.  De reiniging en ontsmetting, bedoeld in het eerste lid, geschiedt met een toegelaten ontsmettingsmiddel en op zodanige wijze dat de bioveiligheid niet in gevaar komt.   
 5.  In afwijking van het eerste lid, is het toegestaan vervoermiddelen te reinigen en te ontsmetten op andere plaatsen dan die, bedoeld in het eerste lid, indien deze plaatsen zodanig zijn ingericht en uitgerust dat de reiniging en ontsmetting met het oog op de wering van aviaire Influenza op adequate wijze plaatsvinden.   
-6.  De plaatsen, bedoeld in het vijfde lid, worden door de Minister geregistreerd nadat is gebleken dat aan de voorwaarden, genoemd in het vijfde lid, is voldaan. [Artikel 26, eerste en tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), is van overeenkomstige toepassing.   
+6.  De plaatsen, bedoeld in het vijfde lid, worden door de Minister geregistreerd nadat is gebleken dat aan de voorwaarden, genoemd in het vijfde lid, is voldaan. Artikel 26, eerste en tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, is van overeenkomstige toepassing.   
 
 ### Artikel  2.7  
 
@@ -108,7 +108,7 @@ d. voor zover het een wedvlucht voor postduiven, of een tentoonstelling of keuri
 
 ### Artikel  2.8  
 
-In afwijking van [artikel 50, eerste lid, onderdelen d en e, van de Flora- en Faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) is het gebruik van gehouden eenden als lokvogels als middel tot jagen verboden.  
+In afwijking van artikel 50, eerste lid, onderdelen d en e, van de Flora- en Faunawet is het gebruik van gehouden eenden als lokvogels als middel tot jagen verboden.  
 
 ### Artikel  2.9  
 
@@ -117,6 +117,8 @@ Deze paragraaf is niet van toepassing op gevogelte, gehouden in dierentuinen.
 ### §  2.1  
 
 ####Maatregelen in verband met laagpathogene Aviaire Influenza
+
+Vervallen per 01-01-2014   
 
 ### §  3  
 
@@ -157,7 +159,7 @@ De NVWA is de bevoegde autoriteit bedoeld in artikel 8, derde lid, vierde lid, o
 
 ### Artikel  3.1.1  
 
-1.  Van het verbod in [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt vrijstelling verleend voor het overeenkomstig deze regeling vaccineren van herkauwers of kameelachtigen tegen bluetongue.   
+1.  Van het verbod in artikel 3 van het Besluit gebruik sera en entstoffen wordt vrijstelling verleend voor het overeenkomstig deze regeling vaccineren van herkauwers of kameelachtigen tegen bluetongue.   
 2.  De vaccinatie wordt uitsluitend uitgevoerd met een in Nederland toegelaten geïnactiveerd vaccin tegen bluetongue.   
 
 ### §  3.2  
@@ -167,7 +169,7 @@ De NVWA is de bevoegde autoriteit bedoeld in artikel 8, derde lid, vierde lid, o
 ### Artikel  3.2.1  
 
 1.  Tegen bluetongue gevaccineerde runderen, die bestemd zijn voor export naar derde landen, gaan vergezeld van een vaccinatieverklaring.   
-2.  De GD geeft onverwijld op aanvraag aan de houder van runderen een vaccinatieverklaring af voor gevaccineerde runderen, die op een ter identificatie van zijn bedrijf toegekend UBN als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zijn geregistreerd.   
+2.  De GD geeft onverwijld op aanvraag aan de houder van runderen een vaccinatieverklaring af voor gevaccineerde runderen, die op een ter identificatie van zijn bedrijf toegekend UBN als bedoeld in artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren, zijn geregistreerd.   
 
 ### §  3.3  
 
@@ -229,8 +231,8 @@ f. *locatie met een publieksfunctie:* locatie waar schapen of geiten worden geho
 
 ### Artikel  5.1.5  
 
-1.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.9, met uitzondering van het tweede lid, onderdeel b, 5.1.10 en 5.1.11 zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop de verdenking van besmetting met Q-koorts op grond van [artikel 24 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 2 van het Besluit verdachte dieren](../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md) is ontstaan tot het moment waarop de verdenking is beëindigd op grond van artikel 24 van de Gezondheids- en welzijnswet voor dieren in samenhang met [artikel 4, onderdeel b, van het Besluit verdachte dieren](../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md).   
-2.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.9, met uitzondering van het tweede lid, onderdeel b, 5.1.10 en 5.1.11a zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd tot het moment waarop het bedrijf op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren vrij van de besmetting met Q-koorts is verklaard.   
+1.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.9, met uitzondering van het tweede lid, onderdeel b, 5.1.10 en 5.1.11 zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop de verdenking van besmetting met Q-koorts op grond van artikel 24 van de Gezondheids- en welzijnswet voor dieren in samenhang met artikel 2 van het Besluit verdachte dieren is ontstaan tot het moment waarop de verdenking is beëindigd op grond van artikel 24 van de Gezondheids- en welzijnswet voor dieren in samenhang met artikel 4, onderdeel b, van het Besluit verdachte dieren.   
+2.  De artikelen 5.1.5a, 5.1.5b, 5.1.7, 5.1.9, met uitzondering van het tweede lid, onderdeel b, 5.1.10 en 5.1.11a zijn van toepassing op bedrijven in de periode vanaf het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren is geconstateerd tot het moment waarop het bedrijf op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren vrij van de besmetting met Q-koorts is verklaard.   
 3.  De artikelen 5.1.5a, 5.1.5b, 5.1.7 en 5.1.9 zijn van toepassing op andere bedrijven, dan bedoeld in het eerste en tweede lid, waar meer dan 50 schapen of geiten gehouden worden ten behoeve van de bedrijfsmatige melkproductie.   
 4.  De artikelen 5.1.5a en 5.1.5b zijn van toepassing op andere bedrijven, dan bedoeld in het eerste en tweede lid, waar meer dan 50 schapen of geiten worden opgefokt ten behoeve van de melkproductie.   
 
@@ -277,7 +279,7 @@ De houder draagt er zorg voor dat:
 
 a. ongedierte op zijn bedrijf adequaat wordt bestreden, en  
 
-b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten worden gehouden, waarin categorie 1-materiaal of categorie 2-materiaal als bedoeld in de artikelen 8 en 9 van verordening (EG) nr. 1069/2009, overeenkomstig [hoofdstuk 3, paragraaf 3, van de Regeling dierlijke producten](../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md) wordt verzameld.    
+b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten worden gehouden, waarin categorie 1-materiaal of categorie 2-materiaal als bedoeld in de artikelen 8 en 9 van verordening (EG) nr. 1069/2009, overeenkomstig hoofdstuk 3, paragraaf 3, van de Regeling dierlijke producten wordt verzameld.    
 
 ### Artikel  5.1.11  
 
@@ -286,8 +288,8 @@ b. er voldoende bakken beschikbaar zijn in de stallen waar schapen of geiten wor
 
 ### Artikel  5.1.11a  
 
-1.  Als gedeelte van een gebouw of terrein als bedoeld in [artikel 25, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) zijn aangewezen stallen waar schapen of geiten worden gehouden.   
-2.  In afwijking van [artikel 112 Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) worden als personen of groepen van personen die toegang hebben tot stallen als bedoeld in het eerste lid aangewezen: 
+1.  Als gedeelte van een gebouw of terrein als bedoeld in artikel 25, tweede lid, van de Gezondheids- en welzijnswet voor dieren zijn aangewezen stallen waar schapen of geiten worden gehouden.   
+2.  In afwijking van artikel 112 Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s worden als personen of groepen van personen die toegang hebben tot stallen als bedoeld in het eerste lid aangewezen: 
 
 a. de houder van de schapen of geiten en  
 
@@ -301,14 +303,14 @@ b. personen voor wie het met het oog op de uitoefening van beroep of bedrijf noo
 
 1.  Onverminderd artikel 5.1.5b is het verboden geiten of schapen te insemineren of te laten bevruchten of op zodanige wijze te houden dat bevruchting van geiten of schapen kan plaatsvinden: 
 
-a. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd en 1 juni 2010 aanwezig zijn geweest op dat bedrijf, indien de besmetting is geconstateerd voor 1 juni 2010;  
+a. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren is geconstateerd en 1 juni 2010 aanwezig zijn geweest op dat bedrijf, indien de besmetting is geconstateerd voor 1 juni 2010;  
 
-b. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geconstateerd en het moment dat alle geiten of schapen op het bedrijf zijn gevaccineerd § 5.2, aanwezig zijn geweest op dat bedrijf, indien die besmetting op of na 1 juni 2010 is geconstateerd en op dat moment nog niet alle geiten of schapen op het bedrijf waren gevaccineerd § 5.2.     
+b. die tussen het tijdstip waarop op het bedrijf een besmetting met Q-koorts op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren is geconstateerd en het moment dat alle geiten of schapen op het bedrijf zijn gevaccineerd § 5.2, aanwezig zijn geweest op dat bedrijf, indien die besmetting op of na 1 juni 2010 is geconstateerd en op dat moment nog niet alle geiten of schapen op het bedrijf waren gevaccineerd § 5.2.     
 2.  Het eerste lid is niet van toepassing op vrouwelijke geiten of vrouwelijke schapen geboren op of na 1 juli 2009.   
 
 ### Artikel  5.1.13  
 
-1.  Van het verbod, bedoeld in [artikel 29 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), wordt vrijstelling verleend voor de afvoer van schapen of geiten: 
+1.  Van het verbod, bedoeld in artikel 29 van de wet, wordt vrijstelling verleend voor de afvoer van schapen of geiten: 
 
 a. rechtstreeks naar het slachthuis;  
 
@@ -319,7 +321,7 @@ c. indien het lammeren jonger dan vier maanden betreft, naar een bedrijf waar de
 1°. op dit bedrijf geen schapen of geiten aanwezig zijn die afkomstig zijn van andere bedrijven, en  
 
 2°. deze dieren van het bedrijf waar ze worden opgefokt ten behoeve van de melkproductie slechts worden afgevoerd naar het bedrijf waarvan ze afkomstig waren of rechtstreeks naar het slachthuis.       
-2.  In afwijking van het eerste lid, onderdeel a, is het toegestaan om overeenkomstig [artikel 37 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), schapen of geiten afkomstig van verschillende plaatsen bijeen te brengen op een vervoerseenheid of vervoermiddel.   
+2.  In afwijking van het eerste lid, onderdeel a, is het toegestaan om overeenkomstig artikel 37 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, schapen of geiten afkomstig van verschillende plaatsen bijeen te brengen op een vervoerseenheid of vervoermiddel.   
 
 ### §  5.1.4  
 
@@ -402,12 +404,12 @@ a. het bij het vaccin geleverde formulier en
 
 b. de factuur van de dierenarts voor het uitvoeren van de vaccinatie.     
 3.  Het formulier, bedoeld in het tweede lid, onderdeel a, wordt ondertekend door de dierenarts die de vaccinatie heeft uitgevoerd en door de houder, bedoeld in het eerste lid.   
-4.  De houder, bedoeld in het eerste lid, doet na iedere uitgevoerde vaccinatie een kennisgeving overeenkomstig [artikel 38ea van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md).   
+4.  De houder, bedoeld in het eerste lid, doet na iedere uitgevoerde vaccinatie een kennisgeving overeenkomstig artikel 38ea van de Regeling identificatie en registratie van dieren.   
 5.  De administratie, bedoeld in het eerste lid, wordt gedurende twee jaar bewaard.   
 
 ### Artikel  5.2.5  
 
-Ter voorkoming van Q-koorts kan een diergeneesmiddel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend.  
+Ter voorkoming van Q-koorts kan een diergeneesmiddel worden toegepast waarvoor bij artikel 3.12 van de Regeling diergeneesmiddelen een vrijstelling is verleend.  
 
 ### Artikel  5.2.6  
 
@@ -435,11 +437,11 @@ Schapen of geiten die al eerder overeenkomstig deze paragraaf zijn gevaccineerd 
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Tijdelijke regeling maatregelen ter wering van Aviaire Influenza](../../../../../../ministeriele-regeling/tijdelijke/regeling/maatregelen/ter/wering/van/aviaire/influenza/BWBR0020199/README.md);  
+a. Tijdelijke regeling maatregelen ter wering van Aviaire Influenza;  
 
-b. [Regeling beperkingsgebieden bluetongue 2006](../../../../../../ministeriele-regeling/regeling/beperkingsgebieden/bluetongue/2006/BWBR0020190/README.md);  
+b. Regeling beperkingsgebieden bluetongue 2006;  
 
-c. [Tijdelijke regeling maatregelen mond- en klauwzeer Verenigd Koninkrijk 2007 (II)](../../../../../../ministeriele-regeling/tijdelijke/regeling/maatregelen/mond-/en/klauwzeer/verenigd/koninkrijk/etc/BWBR0022505/README.md).    
+c. Tijdelijke regeling maatregelen mond- en klauwzeer Verenigd Koninkrijk 2007 (II).    
 
 ### Artikel  8.2  
 

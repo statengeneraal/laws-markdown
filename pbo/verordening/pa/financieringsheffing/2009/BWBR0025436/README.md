@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2008 houdende regels ter zake van de aan de onder het Productschap Akkerbouw ressorterende ondernemers op te leggen heffing (Verordening PA financieringsheffing 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 
@@ -82,30 +82,30 @@ w. be- of verwerking: een be- of verwerking, die aanleiding geeft tot een wijzig
 ####(teelt akkerbouwgewassen)
 
 1.  De ondernemer, die een onderneming drijft, met als activiteit het telen van akkerbouwgewassen, is verplicht per kalenderjaar aan het productschap een heffing te betalen.   
-2.  De heffing wordt opgelegd naar het grondgebruik en berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt voor:   
+2.  De heffing wordt opgelegd naar het grondgebruik en berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt voor:  
 
 | --- | --- | --- |
-|:---|:---|:---|
-| gorep 1.  | cultuurgrond, in gebruik als braakland:  | € 2,15 per ha;  |
-| groep 2.  | cultuurgrond, in gebruik voor de teelt van triticale, veldbonen, koolzaad en groenbemestingsgewassen:  | € 2,15 per ha;  |
-| groep 3.  | cultuurgrond, in gebruik voor de teelt van kapucijners en grauwe erwten en groene droog te oogsten erwten en schokkers:  | € 2,15 per ha;  |
-| groep 4.  | cultuurgrond, in gebruik voor de teelt van zomertarwe, zomergerst, rogge andere dan snijrogge en haver:  | € 2,15 per ha;  |
-| groep 5.  | cultuurgrond, in gebruik voor de teelt van luzerne:  | € 2,15 per ha;  |
-| groep 6.  | cultuurgrond, in gebruik voor de teelt van wintertarwe en wintergerst:  | € 2,15 per ha;  |
-| groep 7.  | cultuurgrond, in gebruik voor de teelt van vlas:  | € 2,15 per ha;  |
-| groep 8.  | cultuurgrond, in gebruik voor de teelt van karwijzaad en blauwmaanzaad:  | € 2,15 per ha;  |
-| groep 9.  | cultuurgrond, in gebruik voor de teelt van corn cob mix en korrelmais:  | € 2,15 per ha;  |
-| groep 10.  | cultuurgrond, in gebruik voor de teelt van bruine bonen:  | € 2,15 per ha;  |
-| groep 11.  | cultuurgrond, in gebruik voor de teelt van graszaad:  | € 2,15 per ha;  |
-| groep 12.  | cultuurgrond, in gebruik voor de teelt van zetmeelaardappelen:  | € 2,35 per ha;  |
-| groep 13.  | cultuurgrond, in gebruik voor de teelt van voederbieten:  | € 2,15 per ha;  |
-| groep 14.  | cultuurgrond, in gebruik voor de teelt van andere dan in de groepen 1 t/m 13 en 15 t/m 20 genoemde gewassen:  | € 2,15 per ha;  |
-| groep 15.  | cultuurgrond, in gebruik voor de teelt van suikerbieten:  | € 2,15 per ha;  |
-| groep 16.  | cultuurgrond, in gebruik voor de teelt van consumptieaardappelen op kleigrond en op zand- of veengrond:  | € 4,50 per ha;  |
-| groep 17.  | cultuurgrond in gebruik voor de teelt van pootaardappelen (bij de NAK aangegeven)  | € 4,50 per ha;  |
-| groep 18.  | cultuurgrond, in gebruik voor de teelt van zaaiuien:  | € 4,30 per ha;  |
-| groep 19.  | cultuurgrond, in gebruik voor de teelt van poot- en plantuien (inclusief sjalotten):  | € 4,30 per ha;  |
-| groep 20.  | cultuurgrond, in gebruik voor de teelt van zilveruien:  | € 4,30 per ha;  |
+|---|---|---|
+| Groep 1.  | cultuurgrond, in gebruik als braakland:  | € 0 per ha;  |
+| Groep 2.  | cultuurgrond in gebruik voor de teelt van triticale, veldbonen, koolzaad en groenbemestingsgewassen:  | € 0 per ha;  |
+| Groep 3.  | cultuurgrond, in gebruik voor de teelt van kapucijners en grauwe erwten en groene droog te oogsten erwten en schokkers:  | € 0 per ha;  |
+| Groep 4.  | cultuurgrond, in gebruik voor de teelt van zomertarwe, zomergerst, rogge andere dan snijrogge en haver:  | € 0 per ha;  |
+| Groep 5.  | cultuurgrond, in gebruik voor de teelt van luzerne:  | € 0 per ha;  |
+| Groep 6.  | cultuurgrond, in gebruik voor de teelt van wintertarwe en wintergerst:  | € 0 per ha;  |
+| Groep 7.  | cultuurgrond, in gebruik voor de teelt van vlas:  | € 0 per ha;  |
+| Groep 8.  | cultuurgrond, in gebruik voor de teelt van karwijzaad en blauwmaanzaad:  | € 0 per ha;  |
+| Groep 9.  | cultuurgrond, in gebruik voor de teelt van corn cob mix en korrelmais:  | € 0 per ha;  |
+| Groep 10.  | cultuurgrond, in gebruik voor de teelt van bruine bonen:  | € 0 per ha;  |
+| Groep 11.  | cultuurgrond, in gebruik voor de teelt van graszaad.  | € 0 per ha;  |
+| Groep 12.  | cultuurgrond, in gebruik voor de teelt van zetmeelaardappelen:  | € 0 per ha;  |
+| Groep 13.  | cultuurgrond, in gebruik voor de teelt van voederbieten:  | € 0 per ha;  |
+| Groep 14.  | cultuurgrond, in gebruik voor de teelt van andere dan in de groepen 1 t/m 13 en 15 t/m 20 genoemde gewassen:  | € 0 per ha;  |
+| Groep 15.  | cultuurgrond, in gebruik voor de teelt van suikerbieten:  | € 0 per ha;  |
+| Groep 16.  | cultuurgrond, in gebruik voor de teelt van consumptieaardappelen op kleigrond en op zand- of veengrond:  | € 0 per ha;  |
+| Groep 17.  | cultuurgrond in gebruik voor de teelt van pootaardappelen (bij de NAK aangegeven)  | € 0 per ha;  |
+| Groep 18.  | cultuurgrond, in gebruik voor de teelt van zaaiuien:  | € 0 per ha;  |
+| Groep 19.  | cultuurgrond, in gebruik voor de teelt van poot- en plantuien (inclusief sjalotten):  | € 0 per ha;  |
+| Groep 20.  | cultuurgrond, in gebruik voor de teelt van zilveruien:  | € 6,50 per ha;  |
 
 ### Artikel  3  
 
@@ -125,7 +125,8 @@ d. beteelt voor contractteelt, waaronder verstaan wordt dat de teler (contractne
 
 ####(verwerking granen)
 
-De ondernemer is verplicht over de hoeveelheden graan welke hij be- of verwerkt met uitzondering van de verwerking tot diervoeder, aan het productschap een heffing te betalen van € 0,208 per ton graan.  
+1.  De ondernemer is verplicht over de hoeveelheden graan welke hij be- of verwerkt met uitzondering van de verwerking tot diervoeder, aan het productschap een heffing te betalen van € 0 per ton graan.   
+2.  In afwijking van het eerste lid is de ondernemer verplicht over de hoeveelheden graan welke hij als hoofdactiviteit be- of verwerkt tot bio-ethanol of zetmeel, aan het productschap een heffing te betalen van € 0 per ton graan.   
 
 ### Artikel  5  
 
@@ -134,10 +135,10 @@ De ondernemer is verplicht over de hoeveelheden graan welke hij be- of verwerkt 
 1.  De ondernemer is verplicht aan het productschap een heffing te betalen terzake van de eerste koop van:  
 
 | --- | --- |
-|:---|:---|
-| a. rijst:  | € 0,208 per ton;  |
-| b. meel van granen, niet bestemd voor dierlijke consumptie (GN-code 11.01 en 11.02)  | € 0,208 per ton, vermenigvuldigd met de coëfficient 1,37;  |
-| c. mout (GN-code 11.07)  | € 0,208 per ton, vermenigvuldigd met de coëfficient 1,30.  |
+|---|---|
+| a. rijst:  | € 0 per ton;  |
+| b. meel van granen, niet bestemd voor dierlijke consumptie (GN-code 11.01 en 11.02)  | € 0 per ton, vermenigvuldigd met de coëfficient 1,37;  |
+| c. mout (GN-code 11.07)  | € 0 per ton, vermenigvuldigd met de coëfficient 1,30.  |
 
 2.  Onder eerste koop wordt in dit artikel verstaan: de koop van rijst, meel of mout door een koper die deze producten rechtstreeks of door middel van een handelaar verkrijgt teneinde deze in Nederland te be- of verwerken of in Nederland in de handel te brengen.   
 3.  De heffing is niet verschuldigd indien ten genoegen van de secretaris wordt aangetoond dat over de betrokken hoeveelheden rijst en graanproducten al op grond van dit artikel of artikel 4 de heffing is geïnd.   
@@ -148,30 +149,30 @@ De ondernemer is verplicht over de hoeveelheden graan welke hij be- of verwerkt 
 
 1.  De ondernemer die werkzaamheden verricht in het kweekbedrijf voor landbouwzaaizaden en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van landbouwzaaizaden, is verplicht aan het productschap te betalen: 
 
-a. een basisheffing van € 130,00 per onderneming;  
+a. een basisheffing van € 0 per onderneming;  
 
-b. een heffing van € 1,74 per ha aangekochte landbouwzaaizaden niet zijnde zaaizaad van vezelvlas, welke op contractbasis in nederland zijn geteeld;  
+b. een heffing van € 0 per ha aangekochte landbouwzaaizaden niet zijnde zaaizaad van vezelvlas, welke op contractbasis in nederland zijn geteeld;  
 
 c. een heffing van € 0,00 per ha aangekocht zaaizaad van vezelvlas, dat op contractbasis in Nederland is geteeld.     
-2.  De ondernemer die landbouwzaaizaden teelt, is verplicht aan het productschap af te dragen een heffing van € 2,20 per ha landbouwzaaizaden, niet zijnde zaaizaad van vezelvlas en van € 0,00 per ha zaaizaad van vezelvlas.   
-3.  De ondernemer die graszoden kweekt, is verplicht aan het productschap een heffing te betalen van € 4,40 per ha graszoden.   
+2.  De ondernemer die landbouwzaaizaden teelt, is verplicht aan het productschap af te dragen een heffing van € 0 per ha landbouwzaaizaden, niet zijnde zaaizaad van vezelvlas en van € 0,00 per ha zaaizaad van vezelvlas.   
+3.  De ondernemer die graszoden kweekt, is verplicht aan het productschap een heffing te betalen van € 0 per ha graszoden.   
 4.  Vrijgesteld van heffing zijn ondernemingen die landbouwzaaizaden kweken, be- en verwerken of in de handel brengen en daarin een omzet realiseren die kleiner is dan € 20.000,- per jaar. Bij het bepalen van de omzet wordt de omzet die gerealiseerd wordt door verkoop aan particulieren niet meegerekend.   
 
 ### Artikel  7  
 
 ####(aardappelen)
 
-1.  De ondernemer die de groothandel in aardappelen uitoefent, is verplicht aan het productschap een heffing te betalen van € 23,- per 1000 ton verkochte, in Nederland geteelde, consumptieaardappelen en zetmeelaardappelen.   
+1.  De ondernemer die de groothandel in aardappelen uitoefent, is verplicht aan het productschap een heffing te betalen van € 0 per 1000 ton verkochte, in Nederland geteelde, consumptieaardappelen en zetmeelaardappelen.   
 2.  De in het eerste lid bedoelde heffing is niet verschuldigd over de consumptieaardappelen en zetmeelaardappelen die verkocht zijn aan in Nederland gevestigde ondernemers die de groothandel in aardappelen uitoefenen of aan ondernemers in de aardappelverwerkende industrie.   
 
 ### Artikel  8  
 
-1.  De ondernemer die aardappelen uit derde landen invoert, is verplicht aan het productschap een heffing te betalen van € 450,- per 1000 ton aardappelen.   
+1.  De ondernemer die aardappelen uit derde landen invoert, is verplicht aan het productschap een heffing te betalen van € 0 per 1000 ton aardappelen.   
 2.  De in het eerste lid bedoelde heffing is niet verschuldigd over de ingevoerde aardappelen, die door de ondernemer zelf wederom zijn uitgevoerd.   
 
 ### Artikel  9  
 
-1.  De ondernemer die aardappelproducten vervaardigt, is verplicht aan het productschap een heffing te betalen ter zake van de verwerking van aardappelen tot aardappelproducten van € 20,- per 1000 ton appelen.   
+1.  De ondernemer die aardappelproducten vervaardigt, is verplicht aan het productschap een heffing te betalen ter zake van de verwerking van aardappelen tot aardappelproducten van € 0 per 1000 ton appelen.   
 2.  Van de in het eerste lid bedoelde heffing zijn uitgezonderd de aardappelen die worden ingevoerd en in Nederland tot aardappelproducten worden verwerkt.   
 
 ### Artikel  10  
@@ -180,8 +181,8 @@ c. een heffing van € 0,00 per ha aangekocht zaaizaad van vezelvlas, dat op con
 
 a. aflevert aan derden dan we  
 
-b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap een heffing te betalen van € 110,- per 1000 ton berekend over de hoeveelheden afgeleverd onderscheidenlijk verwerkt aardappelzetmeel.   
-2.  De ondernemer, die in zijn onderneming van aardappelzetmeel glucose (dextrose daaronder begrepen) en/of soortgelijke producten vervaardigt, is verplicht aan het productschap een heffing te betalen van € 110,- per 1000 ton berekend over de afgeleverde hoeveelheden aardappelzetmeelproduct.   
+b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap een heffing te betalen van € 0 per 1000 ton berekend over de hoeveelheden afgeleverd onderscheidenlijk verwerkt aardappelzetmeel.   
+2.  De ondernemer, die in zijn onderneming van aardappelzetmeel glucose (dextrose daaronder begrepen) en/of soortgelijke producten vervaardigt, is verplicht aan het productschap een heffing te betalen van € 0 per 1000 ton berekend over de afgeleverde hoeveelheden aardappelzetmeelproduct.   
 
 ### Artikel  11  
 
@@ -190,10 +191,10 @@ b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap ee
 1.  De ondernemer is verplicht aan het productschap een heffing te betalen ter zake van het in Nederland in de handel brengen van:  
 
 | --- | --- |
-|:---|:---|
-| gebrande koffie, cafeïnevrije koffie daaronder begrepen (GN-code 0901)  | € 0,03 per 100 kg  |
-| oploskoffie, concentraat van koffie op basis van droge stofgehalte (GN-codes 2101) vermenigvuldigd met de factor 2,18;  | € 0,03 per 100 kg  |
-| groene en zwarte thee (GN-code 0902) in een verpakking met een inhoud van niet meer dan 3 kg  | € 0,03 per 100 kg  |
+|---|---|
+| gebrande koffie, cafeïnevrije koffie daaronder begrepen (GN-code 0901)  | € 0 per 100 kg  |
+| oploskoffie, concentraat van koffie op basis van droge stofgehalte (GN-codes 2101) vermenigvuldigd met de factor 2,18;  | € 0 per 100 kg  |
+| groene en zwarte thee (GN-code 0902) in een verpakking met een inhoud van niet meer dan 3 kg  | € 0 per 100 kg  |
 
 2.  De in het eerste lid bedoelde heffing is niet verschuldigd voor het in Nederland in de handel brengen van thee in kleinverpakking, voor zover een hoeveelheid van 500.000 kg op jaarbasis niet wordt overschreden.   
 3.  De in het eerste lid bedoelde heffing wordt gerestitueerd indien de ondernemer de betrokken hoeveelheden buiten het vrije verkeer van Nederland brengt en voor zover het te restitueren heffingsbedrag meer dan € 50,- per maand bedraagt.   
@@ -202,10 +203,10 @@ b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap ee
 
 ####(vlas en hennep)
 
-1.  De ondernemer die vlas teelt is aan het productschap een heffing verschuldigd van € 6,-- per hectare vezelvlas.   
-2.  De ondernemer die vlas verwerkt of voor eigen rekening en risico laat verwerken, is aan het productschap een heffing verschuldigd van € 6,-- per hectare vezelvlas van de oogst van het betreffende jaar.   
-3.  De ondernemer die hennep teelt is aan het productschap een heffing verschuldigd van € 3,-- per hectare hennep.   
-4.  De ondernemer die hennep verwerkt of voor eigen rekening en risico laat verwerken, is aan het productschap een heffing verschuldigd van € 3,-- per hectare hennep van de oogst van het betreffende jaar.   
+1.  De ondernemer die vlas teelt is aan het productschap een heffing verschuldigd van € 0 per hectare vezelvlas.   
+2.  De ondernemer die vlas verwerkt of voor eigen rekening en risico laat verwerken, is aan het productschap een heffing verschuldigd van € 0 per hectare vezelvlas van de oogst van het betreffende jaar.   
+3.  De ondernemer die hennep teelt is aan het productschap een heffing verschuldigd van € 0 per hectare hennep.   
+4.  De ondernemer die hennep verwerkt of voor eigen rekening en risico laat verwerken, is aan het productschap een heffing verschuldigd van € 0 per hectare hennep van de oogst van het betreffende jaar.   
 
 ### §  3  
 
@@ -213,8 +214,8 @@ b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap ee
 
 ### Artikel  13  
 
-1.  De ondernemer is in voorkomend geval verplicht door middel van een opgavenformulier, dat volledig en naar waarheid dient te worden ingevuld, aan het productschap gegevens te verstrekken voor de vaststelling van de heffing en/of voor statistische doeleinden. De [Verordening PA algemene bepalingen 2008](../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
-2.  De berekening van de heffing als bedoeld in artikel 2, tweede lid, artikel 6, tweede lid voorzover het graszaad betreft, artikel 6, derde lid, en artikel 12, eerste en tweede lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.   
+1.  De ondernemer is in voorkomend geval verplicht door middel van een opgavenformulier, dat volledig en naar waarheid dient te worden ingevuld, aan het productschap gegevens te verstrekken voor de vaststelling van de heffing en/of voor statistische doeleinden. De Verordening PA algemene bepalingen 2008 is hierbij van toepassing.   
+2.  De berekening van de heffing als bedoeld in artikel 2, tweede lid, artikel 6, tweede lid voorzover het graszaad betreft, artikel 6, derde lid, en artikel 12, eerste en derde lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens.   
 3.  De berekening van de heffing bedoeld in artikel 6, eerste lid en artikel 6, tweede lid, voorzover het wat het laatstgenoemde lid betreft niet om graszaad gaat, vindt plaats op basis van een jaarlijkse opgave door de ondernemer die werkzaamheden verricht in het kweekbedrijf voor landbouwzaaizaden en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van landbouwzaaizaden.   
 4.  De opgave ten behoeve van de heffing, bedoeld in artikel 9, dient maandelijks te geschieden, ten behoeve van de heffing in artikel 4 en 5 ieder kwartaal, ten behoeve van de heffing in artikel 10 en 11 ieder half jaar en ten behoeve van artikel 12, tweede en vierde lid, ieder jaar.   
 5.  Indien in de opgavenperiode geen activiteiten hebben plaats gevonden, dient ook dit te worden opgegeven.   
@@ -236,7 +237,7 @@ b. verwerkt tot aardappelzetmeelderivaten   is verplicht aan het productschap ee
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het productschap een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;  
 
 c. tot de werkingssfeer van het productschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;  
 
@@ -312,7 +313,7 @@ c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van 
 
 ### Artikel  25  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 22 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 22 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.  
 
 ### §  8  
 
@@ -333,7 +334,7 @@ Een besluit als bedoeld in artikel 19, tweede lid wordt bekendgemaakt in het Ver
 
 ### Artikel  28  
 
-Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) en de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md).  
+Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008 en de Verordening PA registratie en verstrekking van gegevens teeltsector 2008.  
 
 Den Haag 
 13 november 2008   

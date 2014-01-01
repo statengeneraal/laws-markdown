@@ -205,7 +205,7 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 1.  Een vordering tot vastlegging van de grens wordt slechts toegewezen, indien de instelling ervan in de openbare registers is ingeschreven en allen die toen als rechthebbende of beslaglegger op een der erven stonden ingeschreven, tijdig in het geding zijn geroepen.   
 2.  De rechter bepaalt de grens overeenkomstig de oeverlijn op het tijdstip van de inschrijving van de vordering. Alvorens de eis toe te wijzen, kan hij de maatregelen bevelen en de bewijsopdrachten doen, die hij in het belang van niet-verschenen belanghebbenden nuttig oordeelt.   
 3.  De kosten van de vordering komen ten laste van de eiser.   
-4.  Verzet, hoger beroep en cassatie moeten op straffe van niet-ontvankelijkheid binnen acht dagen na het instellen van het rechtsmiddel worden ingeschreven in de registers, bedoeld in [artikel 433 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). In afwijking van [artikel 143 van dat wetboek](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) begint de verzettermijn te lopen vanaf de betekening van het vonnis aan de ingeschrevene, ook als de betekening niet aan hem in persoon geschiedt, tenzij de rechter hiertoe nadere maatregelen heeft bevolen en aan dat bevel niet is voldaan.   
+4.  Verzet, hoger beroep en cassatie moeten op straffe van niet-ontvankelijkheid binnen acht dagen na het instellen van het rechtsmiddel worden ingeschreven in de registers, bedoeld in artikel 433 van het Wetboek van Burgerlijke Rechtsvordering. In afwijking van artikel 143 van dat wetboek begint de verzettermijn te lopen vanaf de betekening van het vonnis aan de ingeschrevene, ook als de betekening niet aan hem in persoon geschiedt, tenzij de rechter hiertoe nadere maatregelen heeft bevolen en aan dat bevel niet is voldaan.   
 5.  De vastlegging treedt in op het tijdstip dat het vonnis waarbij de vordering is toegewezen, in de openbare registers wordt ingeschreven. Deze inschrijving geschiedt niet voordat het vonnis in kracht van gewijsde is gegaan.   
 
 ### Artikel  33  
@@ -236,7 +236,7 @@ Dient een muur, hek, heg of greppel, dan wel een niet bevaarbaar stromend water,
 
 ### Artikel  37  
 
-De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artikel 162 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) onrechtmatig is, aan eigenaars van andere erven hinder toebrengen zoals door het verspreiden van rumoer, trillingen, stank, rook of gassen, door het onthouden van licht of lucht of door het ontnemen van steun.  
+De eigenaar van een erf mag niet in een mate of op een wijze die volgens artikel 162 van Boek 6 onrechtmatig is, aan eigenaars van andere erven hinder toebrengen zoals door het verspreiden van rumoer, trillingen, stank, rook of gassen, door het onthouden van licht of lucht of door het ontnemen van steun.  
 
 ### Artikel  38  
 
@@ -244,11 +244,11 @@ Lagere erven moeten het water ontvangen dat van hoger gelegen erven van nature a
 
 ### Artikel  39  
 
-De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artikel 162 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) onrechtmatig is, aan eigenaars van andere erven hinder toebrengen door wijziging te brengen in de loop, hoeveelheid of hoedanigheid van over zijn erf stromend water of van het grondwater, dan wel door gebruik van water dat zich op zijn erf bevindt en in open gemeenschap staat met het water op eens anders erf.  
+De eigenaar van een erf mag niet in een mate of op een wijze die volgens artikel 162 van Boek 6 onrechtmatig is, aan eigenaars van andere erven hinder toebrengen door wijziging te brengen in de loop, hoeveelheid of hoedanigheid van over zijn erf stromend water of van het grondwater, dan wel door gebruik van water dat zich op zijn erf bevindt en in open gemeenschap staat met het water op eens anders erf.  
 
 ### Artikel  40  
 
-1.  De eigenaar van een erf dat aan een openbaar of stromend water grenst, mag van het water gebruik maken tot bespoeling, tot drenking van vee of tot andere dergelijke doeleinden, mits hij daardoor aan eigenaars van andere erven geen hinder toebrengt in een mate of op een wijze die volgens [artikel 162 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) onrechtmatig is.   
+1.  De eigenaar van een erf dat aan een openbaar of stromend water grenst, mag van het water gebruik maken tot bespoeling, tot drenking van vee of tot andere dergelijke doeleinden, mits hij daardoor aan eigenaars van andere erven geen hinder toebrengt in een mate of op een wijze die volgens artikel 162 van Boek 6 onrechtmatig is.   
 2.  Betreft het een openbaar water, dan is het vorige lid slechts van toepassing voor zover de bestemming van het water zich er niet tegen verzet.   
 
 ### Artikel  41  
@@ -339,7 +339,7 @@ Wanneer het voor het verrichten van werkzaamheden ten behoeve van een onroerende
 
 ### Artikel  58  
 
-1.  De eigenaar van een erf die water dat elders te zijner beschikking staat, door een leiding wil aanvoeren, kan tegen vooraf te betalen of te verzekeren schadevergoeding van de eigenaars der naburige erven vorderen te gedogen dat deze leiding door of over hun erven gaat.   
+1.  De eigenaar van een erf die water, elektriciteit, gas en warmte dat elders te zijner beschikking staat, door een leiding wil aanvoeren, kan tegen vooraf te betalen of te verzekeren schadevergoeding van de eigenaars der naburige erven vorderen te gedogen dat deze leiding door of over hun erven gaat.   
 2.  De laatste vier leden van het vorige artikel vinden daarbij overeenkomstige toepassing.   
 
 ### Artikel  59  
@@ -402,7 +402,7 @@ Iedere mede-eigenaar mag op de mandelige scheidsmuur tot op de helft der dikte e
 
 ### Artikel  69  
 
-De artikelen 64, 65, 66 lid 2, 67 en 68 vinden geen toepassing voorzover een overeenkomstig [artikel 168 van boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) getroffen regeling anders bepaalt.  
+De artikelen 64, 65, 66 lid 2, 67 en 68 vinden geen toepassing voorzover een overeenkomstig artikel 168 van boek 3 getroffen regeling anders bepaalt.  
 
 ### Titel  6  
 
@@ -546,9 +546,9 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 ### Artikel  94  
 
 1.  De erfpachter is bevoegd de zaak waarop het recht van erfpacht rust, te verhuren of te verpachten, voor zover in de akte van vestiging niet anders is bepaald.   
-2.  Na het einde van de erfpacht is de eigenaar verplicht een bevoegdelijk aangegane verhuur of verpachting gestand te doen. Hij kan nochtans gestanddoening weigeren, voor zover zonder zijn toestemming hetzij de overeengekomen tijdsduur van de huur langer is dan met het plaatselijk gebruik overeenstemt of bedrijfsruimte in de zin van de [zesde afdeling van titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is verhuurd voor een langere tijd dan vijf jaren, hetzij de verpachting is geschied voor een langere duur dan twaalf jaren voor hoeven en zes jaren voor los land, hetzij de verhuring of verpachting is geschied op ongewone voor hem bezwarende voorwaarden.   
+2.  Na het einde van de erfpacht is de eigenaar verplicht een bevoegdelijk aangegane verhuur of verpachting gestand te doen. Hij kan nochtans gestanddoening weigeren, voor zover zonder zijn toestemming hetzij de overeengekomen tijdsduur van de huur langer is dan met het plaatselijk gebruik overeenstemt of bedrijfsruimte in de zin van de zesde afdeling van titel 4 van Boek 7 is verhuurd voor een langere tijd dan vijf jaren, hetzij de verpachting is geschied voor een langere duur dan twaalf jaren voor hoeven en zes jaren voor los land, hetzij de verhuring of verpachting is geschied op ongewone voor hem bezwarende voorwaarden.   
 3.  Hij verliest de bevoegdheid gestanddoening te weigeren, wanneer de huurder of pachter hem een redelijke termijn heeft gesteld om zich omtrent de gestanddoening te verklaren en hij zich niet binnen deze termijn heeft uitgesproken.   
-4.  Indien de eigenaar volgens de vorige leden niet verplicht is tot gestanddoening van een door de erfpachter aangegane verhuring van woonruimte waarin de huurder bij het eindigen van de erfpacht zijn hoofdverblijf heeft en waarop de [artikelen 271 tot en met 277 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing zijn, moet hij de huurovereenkomst niettemin met de huurder voortzetten met dien verstande dat [artikel 269 lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), van overeenkomstige toepassing is.   
+4.  Indien de eigenaar volgens de vorige leden niet verplicht is tot gestanddoening van een door de erfpachter aangegane verhuring van woonruimte waarin de huurder bij het eindigen van de erfpacht zijn hoofdverblijf heeft en waarop de artikelen 271 tot en met 277 van Boek 7 van toepassing zijn, moet hij de huurovereenkomst niettemin met de huurder voortzetten met dien verstande dat artikel 269 lid 2 van Boek 7, van overeenkomstige toepassing is.   
 
 ### Artikel  95  
 
@@ -650,7 +650,7 @@ Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem
 ### Artikel  109  
 
 1.  De splitsing geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers.   
-2.  Aan de minuut van de akte van splitsing wordt een tekening gehecht, aangevende de begrenzing van de onderscheidene gedeelten van het gebouw en de grond, die bestemd zijn als afzonderlijk geheel te worden gebruikt en waarvan volgens de akte het uitsluitend gebruik in een appartementsrecht zal zijn begrepen. De tekening dient te voldoen aan de eisen, krachtens de wet bedoeld in [artikel 16 lid 2 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) voor de inschrijving daarvan te stellen.   
+2.  Aan de minuut van de akte van splitsing wordt een tekening gehecht, aangevende de begrenzing van de onderscheidene gedeelten van het gebouw en de grond, die bestemd zijn als afzonderlijk geheel te worden gebruikt en waarvan volgens de akte het uitsluitend gebruik in een appartementsrecht zal zijn begrepen. De tekening dient te voldoen aan de eisen, krachtens de wet bedoeld in artikel 16 lid 2 van Boek 3 voor de inschrijving daarvan te stellen.   
 3.  Waar in de bepalingen van deze titel wordt gesproken van de akte van splitsing, is hieronder de tekening begrepen, tenzij uit de bepaling het tegendeel blijkt.   
 
 ### Artikel  110  
@@ -762,7 +762,7 @@ d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling va
 1.  In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden en, in het geval van een beding als bedoeld in artikel 112 lid 4, met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degeen die haar behoeft, worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen. De machtiging kan worden verleend, indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven zich niet verklaart.   
 2.  Gaat de handeling met kosten gepaard, dan kan de kantonrechter op verzoek van een appartementseigenaar of van de vereniging van eigenaars tevens bepalen in welke verhouding alle of bepaalde appartementseigenaars of de vereniging van eigenaars in de kosten moeten bijdragen.   
 3.  Betreft het de aanbrenging van een nieuw werk of nieuwe installatie, dan kan de kantonrechter desverzocht ook een regeling vaststellen, bepalende dat en in welke verhouding de appartementseigenaars van alle of bepaalde appartementsrechten de kosten van onderhoud van het werk of de installatie in de toekomst zullen dragen.   
-4.  Betreft het de medewerking of toestemming voor een handeling betreffende het beheer of het onderhoud van de onderscheiden gedeelten van het gebouw, waarvoor medewerking of toestemming is verleend door een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt, dan kan de machtiging ook worden verleend op verzoek van de gemeente waarin het gebouw is gelegen indien de staat van het gebouw niet voldoet aan [artikel 1a, eerste lid](../../../../../../wet/woningwet/BWBR0005181/README.md), of [1b, tweede lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) dan wel sprake is van een ernstige dreiging van het ontstaan van een zodanige situatie.   
+4.  Betreft het de medewerking of toestemming voor een handeling betreffende het beheer of het onderhoud van de onderscheiden gedeelten van het gebouw, waarvoor medewerking of toestemming is verleend door een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt, dan kan de machtiging ook worden verleend op verzoek van de gemeente waarin het gebouw is gelegen indien de staat van het gebouw niet voldoet aan artikel 1a, eerste lid, of 1b, tweede lid, van de Woningwet dan wel sprake is van een ernstige dreiging van het ontstaan van een zodanige situatie.   
 
 ### Artikel  122  
 
@@ -787,14 +787,14 @@ d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling va
 ### Artikel  124  
 
 1.  De vereniging van eigenaars is een rechtspersoon.   
-2.  [Titel 1 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing behoudens de artikelen 4, 6, 13 lid 2, 17, 18, 19 leden 1-3, lid 4, tweede zin, lid 6, tweede zin, en lid 7, 20, 21 en 22 en met inachtneming van de in de volgende artikelen van de onderhavige titel aangegeven afwijkingen.   
-3.  [Titel 2 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is slechts van toepassing voor zover de onderhavige afdeling daarnaar verwijst.   
+2.  Titel 1 van Boek 2 is van toepassing behoudens de artikelen 4, 6, 13 lid 2, 17, 18, 19 leden 1-3, lid 4, tweede zin, lid 6, tweede zin, en lid 7, 20, 21 en 22 en met inachtneming van de in de volgende artikelen van de onderhavige titel aangegeven afwijkingen.   
+3.  Titel 2 van Boek 2 is slechts van toepassing voor zover de onderhavige afdeling daarnaar verwijst.   
 
 ### Artikel  125  
 
 1.  Aan de vergadering van eigenaars komen in de vereniging alle bevoegdheden toe, die niet door wet of statuten aan andere organen zijn opgedragen.   
 2.  Iedere appartementseigenaar is van rechtswege lid van de vereniging van eigenaars. Wanneer een lid ophoudt appartementseigenaar te zijn, eindigt zijn lidmaatschap van rechtswege.   
-3.  [Artikel 40 lid 2 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing.   
+3.  Artikel 40 lid 2 van Boek 2 is van toepassing.   
 
 ### Artikel  126  
 
@@ -811,7 +811,7 @@ d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling va
 
 ### Artikel  127a  
 
-1.  In geval van een ernstige dreiging van het ontstaan van een situatie waarin een gedeelte van het gebouw dat niet bestemd is voor gebruik als afzonderlijk geheel niet voldoet aan [artikel 1a, eerste lid](../../../../../../wet/woningwet/BWBR0005181/README.md), of [1b, tweede lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md), kan de gemeente op haar verzoek worden gemachtigd door de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen om: 
+1.  In geval van een ernstige dreiging van het ontstaan van een situatie waarin een gedeelte van het gebouw dat niet bestemd is voor gebruik als afzonderlijk geheel niet voldoet aan artikel 1a, eerste lid, of 1b, tweede lid, van de Woningwet, kan de gemeente op haar verzoek worden gemachtigd door de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen om: 
 
 a. een vergadering van eigenaars bijeen te roepen op de wijze als in de statuten bepaald;  
 
@@ -838,12 +838,12 @@ c. anderen dan bestuursleden te belasten met de leiding van de vergadering.
 
 ### Artikel  129  
 
-1.  Voor de toepassing van [artikel 14 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt de akte van splitsing gelijkgesteld met de statuten.   
-2.  Voor de toepassing van [artikel 15 lid 1 onder *c* van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) geldt het reglement dat krachtens artikel 111 onder *d* deel van de akte van splitsing uitmaakt, niet als een reglement.   
+1.  Voor de toepassing van artikel 14 van Boek 2 wordt de akte van splitsing gelijkgesteld met de statuten.   
+2.  Voor de toepassing van artikel 15 lid 1 onder *c* van Boek 2 geldt het reglement dat krachtens artikel 111 onder *d* deel van de akte van splitsing uitmaakt, niet als een reglement.   
 
 ### Artikel  130  
 
-1.  In afwijking van [artikel 15 lid 3 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) geschiedt de vernietiging van een besluit van een orgaan van de vereniging van eigenaars door een uitspraak van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, op verzoek van degene die de vernietiging krachtens dit lid kan vorderen.   
+1.  In afwijking van artikel 15 lid 3 van Boek 2 geschiedt de vernietiging van een besluit van een orgaan van de vereniging van eigenaars door een uitspraak van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, op verzoek van degene die de vernietiging krachtens dit lid kan vorderen.   
 2.  Het verzoek tot vernietiging moet worden gedaan binnen een maand na de dag waarop de verzoeker van het besluit heeft kennis genomen of heeft kunnen kennis nemen.   
 3.  De verzoeker, alle andere stemgerechtigden en de vereniging van eigenaars worden bij name opgeroepen om op het verzoek te worden gehoord. Hoger beroep kan slechts worden ingesteld binnen een maand na de dagtekening der eindbeschikking.   
 4.  De rechter voor wie het verzoek aanhangig is, is bevoegd het besluit te schorsen totdat op het verzoek onherroepelijk is beslist.   
@@ -871,7 +871,7 @@ De appartementseigenaars en de gebruikers van de voor het gebruik als afzonderli
 
 ### Artikel  135  
 
-De [artikelen 45 lid 4](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [48 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van toepassing.  
+De artikelen 45 lid 4 en 48 van Boek 2 zijn van toepassing.  
 
 ### Afdeling  3  
 
@@ -902,7 +902,7 @@ Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de 
 ### Artikel  139  
 
 1.  De akte van splitsing kan worden gewijzigd met medewerking van alle appartementseigenaars.   
-2.  De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald. De termijn voor oproeping tot de vergadering bedraagt ten minste vijftien dagen. [Artikel 42 leden 1, eerste zin, 2, eerste zin, en 3 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van overeenkomstige toepassing.   
+2.  De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald. De termijn voor oproeping tot de vergadering bedraagt ten minste vijftien dagen. Artikel 42 leden 1, eerste zin, 2, eerste zin, en 3 van Boek 2 is van overeenkomstige toepassing.   
 3.  Wijziging van de akte van splitsing behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, van hen die daarop beslag hebben gelegd alsmede, indien een recht van erfpacht of opstal in de splitsing is betrokken, van de grondeigenaar. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.   
 4.  Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.   
 5.  De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is artikel 109 lid 2 van overeenkomstige toepassing.   
@@ -971,7 +971,7 @@ h. wanneer alle appartementseigenaars zich bij een overeenkomst tot de wijziging
 ### Artikel  145  
 
 1.  De appartementseigenaars zijn verplicht aan een bevel als bedoeld in het vorige artikel uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de artikelen 139 leden 1 en 3 en 143 lid 2 bedoelde toestemming is in dit geval niet vereist.   
-2.  Indien de kantonrechter met toepassing van [artikel 300 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.   
+2.  Indien de kantonrechter met toepassing van artikel 300 van Boek 3 een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.   
 
 ### Artikel  146  
 
@@ -980,7 +980,7 @@ Beperkte rechten, beslagen en voorrechten op een appartementsrecht rusten na oph
 ### Artikel  147  
 
 1.  De vereniging van eigenaars wordt door opheffing van de splitsing van rechtswege ontbonden.   
-2.  De vereffening geschiedt met inachtneming van de volgende afwijkingen van de [artikelen 23-24 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  De vereffening geschiedt met inachtneming van de volgende afwijkingen van de artikelen 23-24 van Boek 2.   
 3.  De vereffenaar draagt hetgeen na voldoening der schuldeisers van het vermogen van de ontbonden vereniging is overgebleven, over aan hen die bij de opheffing van de splitsing appartementseigenaar waren, ieder voor een aandeel als bedoeld in artikel 113 lid 1.   
-4.  De [artikelen 23 lid 1, derde zin, en lid 4](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [23c, lid 1, van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing. De in [artikel 23b lid 4 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde nederlegging geschiedt binnen het arrondissement waar het gebouw of het grootste gedeelte daarvan is gelegen. In plaats van de in [artikel 24, lid 2, van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [artikel 995, eerste lid, tweede volzin, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aangewezen rechter geldt als bevoegd diezelfde rechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.   
+4.  De artikelen 23 lid 1, derde zin, en lid 4 en 23c, lid 1, van Boek 2 zijn niet van toepassing. De in artikel 23b lid 4 van Boek 2 bedoelde nederlegging geschiedt binnen het arrondissement waar het gebouw of het grootste gedeelte daarvan is gelegen. In plaats van de in artikel 24, lid 2, van Boek 2 en artikel 995, eerste lid, tweede volzin, van het Wetboek van Burgerlijke Rechtsvordering aangewezen rechter geldt als bevoegd diezelfde rechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.   
 

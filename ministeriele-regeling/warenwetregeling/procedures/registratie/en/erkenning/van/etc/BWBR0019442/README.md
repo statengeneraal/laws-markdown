@@ -83,7 +83,9 @@ a. het COKZ, voor zover in de desbetreffende inrichting handelingen worden verri
 
 b. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van verordening (EG) 853/2004, voorschriften bevat; of  
 
-c. het COKZ, onderscheidenlijk het CPE of de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn.     
+c. het COKZ, onderscheidenlijk het CPE de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of  
+
+d. de NVWA, voor zover het een erkenning betreft op grond van Verordening (EU) nr. 210/2013 van de Commissie van 11 maart 2013 betreffende de erkenning van inrichtingen die kiemgroenten produceren overeenkomstig Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad (PbEU 2013, L 68).     
 2.  Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van verordening (EG) 882/2004.   
 
 ### Artikel  5  

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de handel brengen van verschillende landbouwproducten, alsmede gelet op [artikel 10 van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md);
+Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de handel brengen van verschillende landbouwproducten, alsmede gelet op artikel 10 van het Landbouwkwaliteitsbesluit 2007;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -14,6 +14,8 @@ Besluit:
 In deze regeling wordt verstaan onder: 
 
 *de Minister:* de Minister van Economische Zaken;  
+
+*Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken;  
 
 *traaggroeiend pluimveeras:* pluimveeras waarvan de daartoe behorende dieren gemiddeld met maximaal 40 gram per dag groeien;  
 
@@ -33,7 +35,7 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 ### Artikel  4  
 
 1.  Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in bijlage I bij deze regeling.   
-2.  Ingeval de desbetreffende diercategorie in bijlage I ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md) van toepassing.   
+2.  Ingeval de desbetreffende diercategorie in bijlage I ontbreekt, is bijlage D van de Uitvoeringsregeling Meststoffenwet van toepassing.   
 
 ### Artikel  5  
 
@@ -120,23 +122,23 @@ c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, 
 
 ### Artikel  17  
 
-1.  Bij het Hoofdproductschap Akkerbouw worden ingediend: 
+1.  Bij Dienst Regelingen worden ingediend: 
 
 a. een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012;  
 
 b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012;  
 
 c. een verzoek tot annulering van een registratie als bedoeld in artikel 54 van verordening (EU) 1151/2012.     
-2.  Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie en een verzoek tot niet-minimale wijziging van een productdossier als bedoeld in artikel 49 dan wel 53 van verordening (EU) 1151/2012 in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.   
-3.  Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij het Hoofdproductschap Akkerbouw.   
+2.  De Minister geeft kennis van een aanvraag tot registratie en een verzoek tot niet-minimale wijziging van een productdossier als bedoeld in artikel 49 dan wel 53 van verordening (EU) 1151/2012 in de Staatscourant.   
+3.  Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij Dienst Regelingen.   
 4.  Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EU) 1151/2012 voldoet, zendt de minister deze door naar de Europese Commissie.   
 5.  Indien de Minister besluit tot doorzending van een aanvraag tot registratie of van een verzoek tot niet-minimale wijziging van een productdossier, wordt dit besluit tezamen met de versie van het productdossier waarop het besluit betrekking heeft, gepubliceerd in de Staatscourant.   
-6.  Het Hoofdproductschap Akkerbouw voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) 1151/2012.   
+6.  De Minister voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) 1151/2012.   
 
 ### Artikel  18  
 
-1.  Het Hoofdproductschap Akkerbouw geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.   
-2.  Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.   
+1.  De Minister geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in de Staatscourant.   
+2.  Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan Dienst Regelingen.   
 3.  De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) 1151/2012.   
 
 ### Hoofdstuk  5  
@@ -169,7 +171,7 @@ b. een bewijs van inschrijving in het handelsregister, dat door de bevoegde inst
 
 ### Artikel  26  
 
-Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, eerste lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) worden aangewezen: 
+Als personen belast met het toezicht op de naleving als bedoeld in artikel 15, eerste lid, van de Landbouwkwaliteitswet worden aangewezen: 
 
 a. de keurmeesters van de Stichting BKD;  
 
@@ -189,8 +191,8 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 ### Artikel  26b  
 
-1.  Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.   
-2.  De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) of [artikel 10 van het Landbouwkwaliteitsbesluit zuivelproducten](../../../../AMvB/landbouwkwaliteitsbesluit/zuivelproducten/BWBR0009770/README.md) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van: 
+1.  Een controle-instelling kan de tarieven, bedoeld in artikel 11, eerste lid, van de Landbouwkwaliteitswet, in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.   
+2.  De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007 of artikel 10 van het Landbouwkwaliteitsbesluit zuivelproducten is belast. De tarieven kunnen in rekening worden gebracht in de vorm van: 
 
 a. een retributie op basis van de activiteiten die worden verricht door of in opdracht van de controle-instelling ten behoeve van het toezicht of de keuring bij de desbetreffende marktdeelnemer, of  
 
@@ -216,33 +218,37 @@ b. een heffing op basis van het verrichten van activiteiten door marktdeelnemers
 
 ### Artikel  26c  
 
-Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), bekend op haar website.  
+Een controle-instelling maakt de tarieven, bedoeld in artikel 11, eerste lid, van de wet, bekend op haar website.  
+
+### Artikel  27  
+
+De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in artikel 17, eerste lid, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.  
 
 ### Artikel  28  
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Landbouwkwaliteitsregeling aanwijzing groenten en fruit](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/aanwijzing/groenten/en/fruit/BWBR0003129/README.md);  
+a. Landbouwkwaliteitsregeling aanwijzing groenten en fruit;  
 
-b. [Landbouwkwaliteitsregeling biologische productiemethode 1996](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/biologische/productiemethode/1996/BWBR0008176/README.md);  
+b. Landbouwkwaliteitsregeling biologische productiemethode 1996;  
 
-c.  [Landbouwkwaliteitsregeling controle groenten en fruit 1993](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/controle/groenten/en/fruit/1993/BWBR0005914/README.md)   
+c.  Landbouwkwaliteitsregeling controle groenten en fruit 1993   
 
-d. [Landbouwkwaliteitsregeling delegatie bevoegdheden eieren](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/delegatie/bevoegdheden/eieren/BWBR0014118/README.md);  
+d. Landbouwkwaliteitsregeling delegatie bevoegdheden eieren;  
 
-e. [Landbouwkwaliteitsregeling etikettering rundvlees](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/etikettering/rundvlees/BWBR0008931/README.md);  
+e. Landbouwkwaliteitsregeling etikettering rundvlees;  
 
-f. [Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/geografische/aanduidingen/oorsprongsbenamingen/etc/BWBR0006397/README.md);  
+f. Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen;  
 
-g. [Landbouwkwaliteitsbeschikking vrijstellingen, ontheffingen en nadere voorschriften groenten en fruit](../../../../ministeriele-regeling/landbouwkwaliteitsbeschikking/vrijstellingen/ontheffingen/en/nadere/etc/BWBR0003128/README.md);  
+g. Landbouwkwaliteitsbeschikking vrijstellingen, ontheffingen en nadere voorschriften groenten en fruit;  
 
-h. [Landbouwkwaliteitsregeling zuigelingenvoeding 1994](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/zuigelingenvoeding/1994/BWBR0006750/README.md);  
+h. Landbouwkwaliteitsregeling zuigelingenvoeding 1994;  
 
-i. [Vrijstellingsregeling grootverpakkingen zuigelingenvoeding](../../../../ministeriele-regeling/vrijstellingsregeling/grootverpakkingen/zuigelingenvoeding/BWBR0008155/README.md);  
+i. Vrijstellingsregeling grootverpakkingen zuigelingenvoeding;  
 
-j. [Besluit aanwijzing toezichthouders Landbouwkwaliteitswet](../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/landbouwkwaliteitswet/BWBR0013679/README.md);  
+j. Besluit aanwijzing toezichthouders Landbouwkwaliteitswet;  
 
-k. De [Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen](../../../../ministeriele-regeling/regelen/inzake/het/rijkstoezicht/op/de/controle-instellingen/BWBR0003121/README.md) (Stcrt. 1977, 159).    
+k. De Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen (Stcrt. 1977, 159).    
 
 ### Artikel  29  
 
@@ -250,7 +256,7 @@ Deze regeling wordt aangehaald als: Landbouwkwaliteitsregeling 2007.
 
 ### Artikel  30  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in werking treedt.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -267,7 +273,7 @@ G.Verburg
 *Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4*   
 
 | Diersoorten  | Onderscheiden categorieën dieren binnen de diersoorten  | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof  |
-|:---|:---|:---|
+|---|---|---|
 | I Rundvee  | Fok- en gebruiksvee  | --- |
 | --- | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken)  | 96,1  |
 | --- | In grupstal met vaste mest  | 90,6  |
@@ -344,7 +350,7 @@ G.Verburg
 ####als bedoeld in artikel 23  van de Landbouwkwaliteitsregeling 2007
 
 | I  | II  |
-|:---|:---|
+|---|---|
 | Bravoa  | Agavaceae  |
 | Polianthes  | Agavaceae  |
 | Pseudobravoa  | Agavaceae  |
@@ -745,7 +751,7 @@ G.Verburg
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:  
 
 | Producten  | Beperkingen  |
-|:---|:---|
+|---|---|
 | Kalium- en natriumzeep  | --- |
 | Water en stoom  | --- |
 | Kalkmelk  | --- |

@@ -20,8 +20,23 @@ Hebben goedgevonden en verstaan:
 
 ####Reikwijdte en definitie
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.11](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.64](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.127](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.1](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10.8](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+1.  Dit besluit geeft uitvoering aan de [artikelen 2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.11](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.54](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.126a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.127](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.1](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.25](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10.8](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 2.  Dit besluit verstaat onder wet: de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+
+### Artikel  1a  
+
+####Pensioenregeling; vrijwillige voortzetting
+
+Treedt in werking per 01-01-2015   
+
+1.  Een regeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die vrijwillig wordt voortgezet nadat de arbeidsverhouding op grond waarvan deelneming aan die pensioenregeling was verplicht is geëindigd, wordt, onder door Onze Minister te stellen voorwaarden, als een zodanige pensioenregeling aangemerkt, ingeval: 
+
+a. de regeling ten hoogste tien jaar vrijwillig wordt voortgezet;  
+
+b. gedurende de vrijwillige voorzetting als pensioengevend inkomen geen hoger bedrag in aanmerking wordt genomen dan het gemiddelde pensioengevend inkomen, bedoeld in [artikel 3.18, vierde lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), in de vijf aan het eerste dienstjaar van vrijwillige voortzetting voorafgaande kalenderjaren, voor zover de belastingplichtige in die jaren heeft deelgenomen aan de pensioenregeling;  
+
+c. onverminderd onderdeel b vanaf het vierde kalenderjaar van vrijwillige voortzetting als pensioengevend inkomen geen hoger bedrag in aanmerking wordt genomen dan het gezamenlijke bedrag van het pensioengevend inkomen, bedoeld in [artikel 3.18, vierde lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), vermeerderd met het belastbare loon, het belastbare resultaat uit overige werkzaamheden en de belastbare periodieke uitkeringen en verstrekkingen van de belastingplichtige in het derde kalenderjaar voorafgaande aan het betreffende dienstjaar.     
+2.  Ingeval de arbeidsverhouding, bedoeld in het eerste lid, is geëindigd als gevolg van arbeidsongeschiktheid, is het eerste lid, onderdelen a en c, niet van toepassing zolang een inkomensvervangende arbeidsongeschiktheidsuitkering wordt ontvangen.   
 
 ### Hoofdstuk  2  
 
@@ -155,27 +170,27 @@ De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen,
 
 ### Artikel  12a  
 
-####Belastbare winst uit onderneming; aangewezen herstructeringsregelgeving
+####Belastbare winst uit onderneming; aangewezen herstructureringsregelgeving
 
-Als nationale regelgeving die leidt tot herstructurering van een bedrijfstak als bedoeld in [artikel 3.54, twaalfde lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangewezen: 
+Als nationale regelgeving die leidt tot herstructurering of beëindiging van een bedrijfstak als bedoeld in [artikel 3.54, twaalfde lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangewezen: 
 
 a. de [Regeling beëindiging veehouderijtakken](../../../../../ministeriele-regeling/regeling/beëindiging/veehouderijtakken/BWBR0011234/README.md);  
 
-b. de volgende provinciale regelingen die in overeenstemming zijn met verordening (EG) nr. 1857/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van verordening (EG) nr. 70/2001 (PbEG L 358): 
+b. de volgende provinciale regelingen die in overeenstemming zijn met Verordening (EG) nr. 1857/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van Verordening (EG) nr. 70/2001 (PbEG 2006, L 358): 
 
-1°. wat betreft de provincie Limburg: de Algemene subsidieverordening 2004 (provinciaal blad 2004, nr. 51); de Subsidieregels Project Verplaatsing Intensieve Veehouderijen Noord- en Midden-Limburg (provinciaal blad 2005, nr. 63); de Beleidsregels Project Verplaatsing Intensieve Veehouderijen Noord- en Midden-Limburg (provinciaal blad 2005, nr. 62);  
+1°. wat betreft de provincie Limburg: de Algemene subsidieverordening 2004 (provinciaal blad 2004, nr. 51); de Subsidieregels Project Verplaatsing Intensieve Veehouderijen Noord- en Midden-Limburg (provinciaal blad 2005, nr. 63); de Beleidsregels Project Verplaatsing Intensieve Veehouderijen Noord- en Midden-Limburg (provinciaal blad 2005, nr. 62); de Subsidieverordening inrichting landelijk gebied Limburg, paragraaf 1.9 Verplaatsen grondgebonden landbouwbedrijven met grondverwerving (provinciaal blad 2013, nr. 61);  
 
-2°. wat betreft de provincie Noord-Brabant: de Verordening subsidies kwaliteits- en structuurverbetering Landelijk Gebied provincie Noord-Brabant 2001 (provinciaal blad 2001, nr. 58); de Subsidieregeling Verplaatsingskosten Veehouderij 2005 (provinciaal blad 2005, nr. 131);  
+2°. wat betreft de provincie Noord-Brabant: de Subsidieregeling Verplaatsingskosten Intensieve Veehouderijen 2006 (provinciaal blad 2005, nr. 203); de Beleidsregeling Verplaatsing Intensieve Veehouderij 2005 (provinciaal blad 2004, nr. 177); de Subsidieregeling verplaatsing grondgebonden agrarische bedrijven Noord-Brabant (provinciaal blad 2007, nr. 127) normalisation «Afhandeling herhalende ongelijksoortige interpunctie»;  
 
-3°. wat betreft de provincie Utrecht: de Subsidieverordening verplaatsing intensieve veehouderij provincie Utrecht 2005 (provinciaal blad 2006, nr. 6);  
+3°. wat betreft de provincie Utrecht: de Subsidieverordening verplaatsing intensieve veehouderij provincie Utrecht 2005 (provinciaal blad 2006, nr. 6); de Uitvoeringsverordening subsidie Agenda Vitaal Platteland provincie Utrecht, artikel 4.1.4 Verplaatsing grondgebonden bedrijven (provinciaal blad 2012, nr. 38);  
 
-4°. wat betreft de provincie Gelderland: de Subsidieregeling Verplaatsing intensieve veehouderijen Gelderland (provinciaal blad 2005, nr. 542);  
+4°. wat betreft de provincie Gelderland: de Subsidieregeling Verplaatsing intensieve veehouderijen Gelderland (provinciaal blad 2005, nr. 81);  
 
 5°. wat betreft de provincie Overijssel: het Uitvoeringsbesluit Subsidies Overijssel 2005 (provinciaal blad 2005, nr. 82); de Beleidsregel Verplaatsing intensieve veehouderijen Overijssel 2005 (provinciaal blad 2006, nr. 85);  
 
 6°. wat betreft de provincie Friesland: Kadersubsidieverordening pMJP Fryslân 2009 (provinciaal blad 2009, nr. 20); Subsidieverordening pMJP Fryslân 2009, hoofdstuk 1.1.3. Subsidie agrarische bedrijfsverplaatsing en daaraan gerelateerde investeringskosten (provinciaal blad 2009, nr. 48);  
 
-7°. wat betreft de provincie Groningen: Programma landelijk gebied PMJP 2007-2013 Groningen, deel 3. Kader voor subsidies en overeenkomsten, paragraaf 9.3. Regeling bedrijfshervestiging en beëindiging (provinciaal blad 2007, nr. 36);  
+7°. wat betreft de provincie Groningen: Programma landelijk gebied PMJP 2007-2013 Groningen, deel 3. Kader voor subsidies en overeenkomsten, paragraaf 9.3. Regeling bedrijfshervestiging en beëindiging (provinciaal blad 2007, nr. 36); Beleidsregel Verplaatsing Grondgebonden Agrarische Bedrijven Provincie Groningen (provinciaal blad 2013, nr. 56);  
 
 8°. wat betreft de provincie Drenthe: Provinciaal Meerjarenprogramma Drenthe, deel 3. Subsidiegids, hoofdstuk 2. Subsidies voor natuur, paragraaf 2.1. Realisatie natuur binnen de EHS, Subparagrafen Verwerving EHS en Agrarische bedrijfsverplaatsingen (provinciaal blad 2007, nr. 44).      
 
@@ -211,7 +226,7 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 ####Uitgaven voor inkomensvoorzieningen; in aanmerking te nemen premies voor lijfrenten; waardeaangroei
 
 1.  Voor de toepassing van [artikel 3.127, eerste en vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), verstrekt de verzekeraar van een pensioen als bedoeld in [artikel 1.7, tweede lid, onderdelen a en b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) aan de belastingplichtige een opgave van de aan een kalenderjaar toe te rekenen aangroei van het bedrag van de jaarlijkse uitkeringen van de aan hem toekomende aanspraken die recht geven op een levenslange inkomensvoorziening bij ouderdom, voor zover deze aangroei het gevolg is van de toeneming van de diensttijd in het kalenderjaar.   
-2.  De aan een kalenderjaar toe te rekenen pensioenaangroei, bedoeld in het eerste lid, wordt bepaald als volgt: 
+2.  De aan een kalenderjaar toe te rekenen pensioenaangroei, bedoeld in het eerste lid, wordt bepaald als volgt en vervolgens vermenigvuldigd met 35/37: 
 
 a. bij een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom: door de op het kalenderjaar betrekking hebbende premies te vermenigvuldigen met de volgende factor:  
 
@@ -338,17 +353,16 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](../../../../../wet
 1.  De waarde, bedoeld in [artikel 5.20, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt gesteld op de op grond van artikel 5.20, eerste en tweede lid, van de wet, in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.   
 2.  Bij een voor het enkele gebruik van de woning verschuldigde jaarlijkse huur of pacht als percentage van de WOZ-waarde van:  
 
-| meer dan  | maar niet  meer dan  | bedraagt de leegwaarderatio  |
+| meer dan  | maar niet meer dan  | bedraagt de leegwaarderatio  |
 |:---|:---|:---|
-| 0%  | 1,0%  | 50%  |
-| 1,0%  | 1,5%  | 53%  |
-| 1,5%  | 2,0%  | 56%  |
-| 2,0%  | 2,5%  | 59%  |
-| 2,5%  | 3,0%  | 62%  |
-| 3,0%  | 3,5%  | 66%  |
-| 3,5%  | 4,0%  | 69%  |
-| 4,0%  | 5,0%  | 73%  |
-| 5,0%  | –  | 78%  |
+| 0%  | 1%  | 45%  |
+| 1%  | 2%  | 51%  |
+| 2%  | 3%  | 56%  |
+| 3%  | 4%  | 62%  |
+| 4%  | 5%  | 67%  |
+| 5%  | 6%  | 73%  |
+| 6%  | 7%  | 78%  |
+| 7%  | –  | 85%  |
 
 3.  De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.   
 4.  Indien de woning een gedeelte van een gebouwd eigendom is als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), en niet als een afzonderlijke zaak vervreemd kan worden, wordt voor de toepassing van het eerste en het tweede lid de WOZ-waarde van die woning verlaagd met een bedrag van € 20 000.   
@@ -456,7 +470,7 @@ Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven 
 
 a. bijzondere bijstand in de zin van [artikel 35, eerste, derde en vierde lid, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die, ondanks een aanspraak op deze bijzondere bijstand, niet is genoten en niet wordt genoten;  
 
-b. tegemoetkomingen als bedoeld in de [artikelen 2](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), [10](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en [24 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).    
+b. tegemoetkomingen als bedoeld in de [artikelen 2](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en [10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en [artikel XXXIIID van het Belastingplan 2014](../../../../../wet/belastingplan/2014/BWBR0034538/README.md).    
 
 ### Artikel  20  
 
@@ -498,7 +512,7 @@ b. ingeval wel kwijtschelding van belasting is verleend wegens genoten reguliere
 
 ####Als voorheffing aangewezen bronbelasting
 
-Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao, Guernsey, Isle of Man, Jersey, Liechtenstein, Monaco, San Marino, Turks and Caicos Islands, Sint Maarten en Zwitserland geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde als bedoeld in artikel 2 van de richtlijn nr. 2003/48/EG van de Raad van de Europese Unie van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling (PbEU L 157), genoten rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van die richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van die richtlijn.  
+Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao, Guernsey, Isle of Man, Jersey, Liechtenstein, Monaco, San Marino, Turks and Caicos Islands, Sint Maarten en Zwitserland geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde als bedoeld in artikel 2 van de Richtlijn 2003/48/EG van de Raad van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling (PbEU 2003, L 157), genoten rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van die richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van die richtlijn.  
 
 ### Hoofdstuk  8  
 
@@ -575,7 +589,7 @@ i. met betrekking tot een recht op kapitaaluitkering uit een op 14 september 19
 
 1°. de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;  
 
-2°. een verhoging in het kalenderjaar van het verzekerde kapitaal bij leven, dan wel, bij het ontbreken hiervan, een verhoging in het kalenderjaar van de premies, alsmede een verlenging van de looptijd van de levensverzekering in het kalenderjaar, een en ander voor zover die verhoging of verlenging de eerbiedigende werking van [hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001](../../../../../wet/invoeringswet/wet/inkomstenbelasting/2001/BWBR0011354/README.md), verloren doet gaan;  
+2°. een verhoging in het kalenderjaar van het verzekerde kapitaal bij leven, dan wel, bij het ontbreken hiervan, een verhoging in het kalenderjaar van de premies, alsmede een verlenging van de looptijd van de levensverzekering in het kalenderjaar, een en ander voor zover die verhoging of verlenging de eerbiedigende werking van hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001, verloren doet gaan;  
 
 3°. het in het kalenderjaar genoten bedrag aan uitkering;    
 
@@ -635,7 +649,7 @@ c. het aantal aandeelhouders niet meer dan twintig bedraagt.
 
 ### Artikel  24  
 
-Artikel 12, vierde lid, is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](../../../../../wet/invoeringswet/wet/inkomstenbelasting/2001/BWBR0011354/README.md) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.  
+Artikel 12, vierde lid, is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001 van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.  
 
 ### Artikel  26  
 

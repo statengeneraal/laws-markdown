@@ -28,6 +28,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onder: *aanvullende geluidsverklaring:* verklaring als bedoeld in [artikel 3.19c, tweede lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md); *aanvullend type-certificaat:* type-certificaat van een aanpassing van het orginele ontwerp zoals vastgelegd in het orginele type-certificaat van het ongewijzigd product; *akkoordverklaring:* door Onze minister afgegeven verklaring waarmee hij akkoord gaat met het aantonen van de conformiteit van individuele producten, onderdelen en uitrustingsstukken overeenkomstig verordening (EG) nr. 1702/2003, Part 21, section A, subpart F; *ARC:* certificaat van beoordeling van de luchtwaardigheid dat periodiek wordt afgegeven door Onze minister of een daartoe erkende managementorganisatie voor permanente luchtwaardigheid, dat deel uitmaakt van een geldig BvL (EASA Form 15, Airworthiness Review Certificate); *blijvende luchtwaardigheid:* alle processen waarmee gewaarborgd wordt dat het luchtvaartuig gedurende de gehele operationele levensduur voldoet aan de geldende normen voor luchtwaardigheid en zich in een toestand van veilige exploitatie bevindt; *BvL:* Bewijs van Luchtwaardigheid; *CAMO:* ingevolge verordening (EG) nr. 2042/2003 erkende management organisatie voor blijvende luchtwaardigheid (Continuing Airworthiness Management Organisation); *CAMO-erkenning:* erkenning voor het managen van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart G; *certificaat*, als bedoeld in artikel 19, eerste lid, onder b: certificaat ten aanzien van werkzaamheden die zijn opgenomen in de erkenning en die verband houden met de luchtwaardigheid en geluidsproductie van producten of onderdelen; *EASA-beperkt-BvL:* bewijs van luchtwaardigheid voor een EASA-luchtvaartuig dat wel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoet, maar niet aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage I bij verordening (EG) nr. 216/2008; *EASA-luchtvaartuig:* luchtvaartuig waarop verordening (EG) nr. 216/2008, verordening (EG) nr. 1702/2003 en verordening (EG) nr. 2042/2003, van toepassing zijn; *EASA-standaard-BvL:* bewijs van luchtwaardigheid voor een EASA- luchtvaartuig dat zowel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag als aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage I bij verordening (EG) nr. 216/2008 voldoet; *export-BvL:* bewijs waarin de status van het luchtvaartuig betreffende de luchtwaardigheid wordt aangegeven, getoetst volgens de eisen van het importerende land; *geluidscertificaat:* certificaat als bedoeld in [artikel 3.19a, eerste lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md); *geluidsverklaring:* verklaring als bedoeld in [artikel 3.19c, eerste lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md); *gemotoriseerd schermvliegtuig:* schermvliegtuig als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), niet zijnde een schermzweeftoestel als bedoeld in artikel 1 van het Luchtverkeersreglement; *gyroplane:* helikopter als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) waarvan de rotorbladen niet door de motor worden aangedreven; *ICAO-staat:* staat die het ICAO-verdrag heeft bekrachtigd; *ICAO-standaard-BvL:* bewijs van luchtwaardigheid als bedoeld in het ICAO-verdrag; *ICAO Annex 8:* bijlage 8 bij het ICAO-verdrag, betreffende de luchtwaardigheid van luchtvaartuigen; *MLA:* (Micro Light Aeroplane) land-, amfibie- of watervliegtuig met niet meer dan twee zitplaatsen, een overtreksnelheid die niet hoger is dan 35.1 knopen gecalibreerde luchtsnelheid en een maximum startmassa van niet meer dan: 300 kg voor een landvliegtuig, eenzitter; 450 kg voor een landvliegtuig, tweezitter; 315 kg voor een landvliegtuig, eenzitter, dat is uitgerust met een op het frame gemonteerd Total Recovery Parachute System; 472,5 kg voor een landvliegtuig, tweezitter, dat is uitgerust met een op het frame gemonteerd Total Recovery Parachute System; 330 kg voor een amfibie- of watervliegtuig, eenzitter, of 495 kg voor een amfibie- of watervliegtuig, tweezitter, mits een micro light die als watervliegtuig en als landvliegtuig gebruikt kan worden binnen beide daarvoor geldende massalimieten valt; *MLH:* (Micro Light Helicopter) helikopter met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan: 300 kg voor een landhelikopter, eenzitter; 450 kg voor een landhelikopter, tweezitter; 330 kg voor een amfibie- of waterhelikopter, eenzitter; 495 kg voor een amfibie- of waterhelikopter, tweezitter, waarbij geldt dat een helikopter die als waterhelikopter en als landhelikopter gebruikt kan worden binnen beide daarvoor geldende massalimieten valt; of 560 kg voor een gyroplane, een- of tweezitter; *MOA:* erkenning voor het onderhoud van vliegtuigen, helikopters en luchtschepen of onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part 145 (Maintenance Organisation Approval); *MOA-F:* erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart F (Maintenance Organisation Approval-F); *MTOA:* erkenning voor het trainen en examineren van onderhoudspersoneel volgens de specificaties van Part 66, als bedoeld in verordening (EG) nr. 2042/2003, Part 147 (Maintenance Training Organisation Approval); *Nederland:* Europees deel van het Koninkrijk en de openbare lichamen Bonaire, Sint Eustatius en Saba; *onderdeel:* elk deel dat is geïnstalleerd in of bevestigd aan een luchtvaartuig en dat bestemd is voor gebruik van dat luchtvaartuig tijdens de vlucht; *Onze minister:* Onze minister van Verkeer en Waterstaat; *Part 21:* deel betreffende certificatieprocedures voor EASA-luchtvaartuigen, aanverwante producten en onderdelen (bijlage bij verordening (EG) nr. 1702/2003); *Part 66:* deel betreffende trainings- en exameneisen voor onderhoudspersoneel (bijlage III bij verordening (EG) nr. 2042/2003); *Part 145:* deel betreffende erkende onderhoudsbedrijven (bijlage II bij verordening (EG) nr. 2042/2003); *Part 147:* deel betreffende erkende trainings- en examineringsinstanties (bijlage IV bij verordening (EG) nr. 2042/2003); *Part M:* deel betreffende de blijvende luchtwaardigheid van EASA-luchtvaartuigen (bijlage I bij verordening (EG) nr. 2042/2003); *POA:* erkenning voor het vervaardigen van producten en onderdelen als bedoeld in Part 21, section A, subpart G (Production Organisation Approval); *product:* luchtvaartuig, een voortstuwingsinrichting of een propeller; *speciaal-BvL:* bewijs van luchtwaardigheid voor luchtvaartuigen die buiten het kader van verordening (EG) nr. 216/2008 vallen en ook niet aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoen; *staat van ontwerp:* ICAO-lidstaat die rechtsmacht heeft over de organisatie die verantwoordelijk is voor het ontwerp van een luchtvaartuig, zoals gedefinieerd in ICAO Annex 8; *Total Recovery Parachute System:* reddingssysteem met valscherm voor het hele luchtvaartuig; *type-certificaat:* het geheel van documenten omvattende het type-ontwerp, de operationele beperkingen, het gegevensblad, de luchtwaardigheidsregelgeving en alle andere voorschriften en beperkingen zoals voorgeschreven in de van toepassing zijnde eisen; *type-ontwerp:* het geheel van documenten omvattende alle tekeningen en specificaties benodigd om de configuratie, de eigenschappen van het ontwerp vast te leggen, informatie over materialen, processen en productiemethodieken, luchtwaardigheidsbeperkingen ten behoeve van het onderhoud en alle gegevens die nodig zijn om de luchtwaardigheid en voor zover van toepassing de geluidsproductie vast te stellen van latere producten van het type; *verdrag:* het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb.1973,109) (ICAO-verdrag); *verklaring van conformiteit:* verklaring dat het luchtvaartuig of het onderdeel aan het goedgekeurde ontwerp voldoet (Statement of Conformity); verordening (EG) nr. 216/2008: verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van de Europese Unie van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79); *verordening (EG) nr. 1702/2003:* verordening van de Commissie van de Europese Gemeenschappen van 24 september 2003 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PbEU L 243); *verordening (EG) nr. 2042/2003:* verordening van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315); *vliegvergunning:* bewijs van luchtwaardigheid waarmee toestemming wordt gegeven voor het maken van een of meerdere vluchten met een specifieke doelstelling binnen de bij de EASA aangesloten landen; *wet:*[Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
 
+### Artikel  1a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Dit besluit berust tevens op [artikel 1.5 van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+
+### Artikel  1b   
+Treedt in werking op een nader te bepalen tijdstip   
+
+De aanvraag voor de afgifte van een bewijs van luchtwaardigheid, erkenning of hieraan gerelateerde certificaten of verklaringen als bedoeld in hetgeen bij of krachtens de basisverordening is bepaald wordt ingediend bij Onze Minister, tenzij bij of krachtens de basisverordening of de wet hiertoe een andere instantie is aangewezen.  
+
 ### Artikel  2  
 
 1.  Met uitzondering van het tweede, vierde en zesde lid, is dit besluit uitsluitend van toepassing op luchtvaartuigen, voortstuwingsinrichtingen, propellers, onderdelen en erkenningen bestemd voor de burgerluchtvaart.   
@@ -45,7 +55,7 @@ e. toestellen, zwaarder dan lucht in de vorm van een scherm met harnas, die met 
 
 f. ballonnen, die tijdens het in de lucht houden permanent zijn bevestigd aan het aardoppervlak (kabelballon),  
 
-g. valschermen als bedoeld in de Regeling valschermspringen,  
+g. valschermen, zijnde schermen die dienen om de daalsnelheid van personen zodanig te beperken dat deze veilig het aardoppervlak kunnen bereiken,  
 
 h. zeilvliegtuigen met een totale massa zonder piloot van minder dan 70 kg,  
 
@@ -108,9 +118,9 @@ a. een onderdaan van een lidstaat van de Europese Unie of van een van de Staten 
 b. een ingezetene van een lidstaat van de Europese Unie of van een van de Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, niet zijnde een onderdaan van een lidstaat van de Europese Unie of van een van de Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, of  
 
 c. een rechtspersoon die in overeenstemming met de wetgeving van een lidstaat van de Europese Unie of van een van de Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte is opgericht en waarvan de statutaire zetel of feitelijke zetel, zich bevindt in een lidstaat van de Europese Unie of van een van de Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in de openbare lichamen Bonaire, Sint Eustatius en Saba.     
-3.  Onze minister van Financiën kan ontheffing verlenen van de in het eerste lid, onder a, bedoelde douaneformaliteiten. Aan de ontheffing kunnen voorschriften worden verbonden. Bij het niet naleven van een aan de ontheffing verbonden voorschrift kan Onze minister van Financiën de ontheffing intrekken.   
-4.  Indien de aanvrager geen woonplaats heeft in Nederland dan wel, indien het om een rechtspersoon gaat, de statutaire zetel, hoofdbestuur of hoofdvestiging niet in Nederland is gevestigd, dient het beheer, bedoeld in het eerste lid, onder b, te worden uitgevoerd door een vertegenwoordiger van de aanvrager met woonplaats in Nederland, dan wel, door een nevenvestiging van de rechtspersoon in Nederland.   
-5.  Indien de aanvrager het in het eerste lid, onder b, bedoelde beheer heeft uitbesteed, rusten de verplichtingen terzake van de blijvende luchtwaardigheid op de in het vierde lid bedoelde vertegenwoordiger dan wel op de nevenvestiging als rechtspersoon.   
+3.  Onze minister van Financiën kan ontheffing verlenen van de in het eerste lid, onder b, bedoelde douaneformaliteiten. Aan de ontheffing kunnen voorschriften worden verbonden. Bij het niet naleven van een aan de ontheffing verbonden voorschrift kan Onze minister van Financiën de ontheffing intrekken.   
+4.  Indien de aanvrager geen woonplaats heeft in Nederland dan wel, indien het om een rechtspersoon gaat, de statutaire zetel, hoofdbestuur of hoofdvestiging niet in Nederland is gevestigd, dient het beheer, bedoeld in het eerste lid, onder c, te worden uitgevoerd door een vertegenwoordiger van de aanvrager met woonplaats in Nederland, dan wel, door een nevenvestiging van de rechtspersoon in Nederland.   
+5.  Indien de aanvrager het in het eerste lid, onder c, bedoelde beheer heeft uitbesteed, rusten de verplichtingen terzake van de blijvende luchtwaardigheid op de in het vierde lid bedoelde vertegenwoordiger dan wel op de nevenvestiging als rechtspersoon.   
 6.  De aanvrager is gehouden aan de uitbesteding, bedoeld in het vijfde lid, het op schrift gestelde voorschrift te verbinden dat hij te allen tijde opdrachten kan verstrekken in verband met de naleving van de hem krachtens dit besluit terzake van de blijvende luchtwaardigheid opgedragen verplichtingen.   
 7.  Indien de aanvrager, bedoeld in het tweede lid, niet tevens de eigenaar is van het luchtvaartuig, schrijft Onze minister het luchtvaartuig in het register voor burgerluchtvaartuigen in, tenzij de eigenaar afkomstig is uit een land waarmee Nederland de diplomatieke banden heeft verbroken.   
 
@@ -164,7 +174,7 @@ f. een vliegvergunning.
 4.  Een bewijs als bedoeld in het eerste lid, onder d, is slechts geldig voor het uitvoeren van vluchten binnen het vluchtinformatiegebied Amsterdam dan wel de delen van het vluchtinformatiegebied Curaçao en het vluchtinformatiegebied San Juan die zich boven het territoir van de openbare lichamen Bonaire, Sint Eustatius en Saba bevinden dan wel die delen waarvoor Onze Minister de verantwoordelijkheid voor het verzorgen van luchtverkeersdiensten heeft aanvaard.   
 5.  Een bewijs als bedoeld in het eerste lid, onder e, houdt, in combinatie met een bewijs als bedoeld in het eerste lid, onder a, b of c, een toestemming in tot het uitvoeren van vluchten.   
 6.  Een bewijs als bedoeld in het eerste lid, onder f, is slechts geldig voor vluchten binnen het luchtruim van de bij de EASA aangesloten landen.   
-7.  De voorschriften of beperkingen verbonden aan een bewijs van luchtwaardigheid als bedoeld in het eerste lid worden neergelegd in een bijlage bij dat bewijs van luchtwaardigheid.   
+7.  De voorschriften of beperkingen verbonden aan een bewijs van luchtwaardigheid als bedoeld in het eerste lid worden neergelegd op dat bewijs van luchtwaardigheid of in een bijlage bij dat bewijs van luchtwaardigheid.   
 
 ### Artikel  8  
 
@@ -192,23 +202,25 @@ Onze minister geeft op aanvraag van de houder van een luchtvaartuig een speciaal
 
 ### Artikel  10  
 
-1.  Onze minister geeft op aanvraag van de houder van een nieuw luchtvaartuig een export-BvL af, indien: 
+1.  Onze Minister geeft op aanvraag van de houder van een nieuw luchtvaartuig een export-BvL af: 
 
-a. Onze minister met de staat van invoer een overeenkomst heeft gesloten aangaande de erkenning van een export-BvL,  
+a. op grond van een internationale overeenkomst of een besluit van een volkenrechtelijke organisatie aangaande de wederzijdse erkenning van af te geven export-BvL’s, of  
 
-b. het luchtvaartuig voldoet aan een type-ontwerp dat acceptabel is voor de bevoegde autoriteit van de staat van invoer,  
+b. indien de staat van invoer met betrekking tot het desbetreffende luchtvaartuig heeft aangegeven in te stemmen met de erkenning van een daartoe af te geven export-BvL, en  
 
-c. het luchtvaartuig is geproduceerd door een houder van een POA, dan wel door degene die een akkoordverklaring als bedoeld in Part 21, section A, subpart F, heeft verkregen,  
+c. het luchtvaartuig voldoet aan een type-ontwerp dat acceptabel is voor de bevoegde autoriteit van de staat van invoer,  
 
 d. het luchtvaartuig voldoet aan de aanvullende eisen voor invoer die de bevoegde autoriteit van de staat van invoer stelt,  
 
-e. de bij ministeriële regeling vereiste documentatie is overgelegd,  
+e. het luchtvaartuig is geproduceerd door een houder van een POA, dan wel door degene die een akkoordverklaring als bedoeld in Part 21, section A, subpart F, heeft verkregen,  
 
-f. het luchtvaartuig is geïdentificeerd overeenkomstig Part 21, section A, subpart Q, en  
+f. de bij ministeriële regeling vereiste documentatie is overgelegd,  
 
-g. het luchtvaartuig zich op een zodanige plaats bevindt, dat Onze minister kan vaststellen dat aan de onder b tot en met f, gestelde eisen is voldaan.     
-2.  Het eerste lid is van overeenkomstige toepassing op gebruikte luchtvaartuigen, met uitzondering van onderdeel c, en met dien verstande dat de houder beschikt over een ICAO-standaard-BvL, een EASA-standaard-BvL of een EASA-beperkt-BvL, dan wel het luchtvaartuig in aanmerking komt voor een van deze bewijzen.   
-3.  Aan de eisen in het eerste lid, onder b tot en met e en het tweede lid, behoeft niet te worden voldaan, indien de bevoegde autoriteit van de staat van invoer daarmee instemt.   
+g. het luchtvaartuig is geïdentificeerd overeenkomstig Part 21, section A, subpart Q, en  
+
+h. Het luchtvaartuig zich op een zodanige plaats bevindt, dat Onze Minister kan vaststellen dat aan de onder c tot en met g, gestelde eisen is voldaan.     
+2.  Het eerste lid is van overeenkomstige toepassing op gebruikte luchtvaartuigen, met uitzondering van onderdeel e, en met dien verstande dat de houder beschikt over een ICAO-standaard-BvL, een EASA-standaard-BvL of een EASA-beperkt-BvL, dan wel het luchtvaartuig in aanmerking komt voor een van deze bewijzen.   
+3.  Aan de eisen in het eerste lid, onder c tot en met f en het tweede lid, behoeft niet te worden voldaan, indien de bevoegde autoriteit van de staat van invoer daarmee instemt.   
 4.  In het geval beschreven in het derde lid, worden afwijkingen van het product ten opzichte van het type-certificaat op het exportbewijs als uitzonderingen opgenomen.   
 5.  De houder van een export-BvL is verplicht: 
 
@@ -226,7 +238,7 @@ c. tijdelijke installaties aan het luchtvaartuig ten behoeve van het vervoer na 
 
 ### Artikel  12  
 
-1.  De houder van een luchtvaartuig voorzien van een ICAO-standaard-BvL laat dat luchtvaartuig onderhouden conform verordening (EG) nr. 2042/2003, Part M, door de houder van een erkenning inzake onderhoud als bedoeld in artikel 17, onder f, dan wel door de houder van een bewijs van bevoegdheid inzake onderhoud ingevolge [artikel 3.30 van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+1.  De houder van een luchtvaartuig voorzien van een ICAO-standaard-BvL laat dat luchtvaartuig onderhouden overeenkomstig verordening (EG) nr. 2042/2003, Part M, door de houder van een erkenning inzake onderhoud als bedoeld in artikel 17, eerste lid, onder f dan wel door de houder van een bewijs van bevoegdheid inzake onderhoud ingevolge [artikel 3.30 van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
 2.  De houder van een luchtvaartuig voorzien van een EASA-standaard-BvL, een EASA-beperkt-BvL of een vliegvergunning laat dat luchtvaartuig onderhouden conform verordening (EG) nr. 2042/2003, Part M.   
 3.  Onderhoud van luchtvaartuigen met een speciaal-BvL geschiedt overeenkomstig de bij ministeriële regeling te stellen eisen.   
 
@@ -362,11 +374,15 @@ a. de afgifte en vernieuwing van een bewijs van inschrijving,
 
 b. de behandeling van de aanvraag om wijziging dan wel doorhaling van de inschrijving,  
 
-c. de behandeling van de aanvraag om afgifte, wijziging of overdracht van een aanvullend type-certificaat, een ontwerpgoedkeuring van een onderdeel, een bewijs van luchtwaardigheid of een ARC, dan wel de vernieuwing of verlenging van een bewijs van luchtwaardigheid of een ARC of de aanvraag voor een vliegvergunning en een ontheffing,  
+c. de behandeling van de aanvraag om afgifte, wijziging of overdracht van een aanvullend type certificaat, een ontwerpgoedkeuring van een onderdeel of een bewijs van luchtwaardigheid, dan wel de vernieuwing of verlenging van een bewijs van luchtwaardigheid of de aanvraag voor een ontheffing,  
 
 d. de behandeling van de aanvraag om afgifte, wijziging of vernieuwing van een geluidscertificaat, een geluidsverklaring of een aanvullende geluidsverklaring,  
 
-e. de behandeling van de aanvraag om afgifte, verlenging, vernieuwing of wijziging van een erkenning.     
+e. de behandeling van de aanvraag om afgifte, verlenging, vernieuwing of wijziging van een erkenning,  
+
+f. de behandeling van de aanvraag om goedkeuring of wijziging van een onderhoudsprogramma,  
+
+g. de kosten voor handelingen in het kader van de uitvoering van internationale overeenkomsten gesloten door de Europese Unie en internationale overeenkomsten gesloten door Nederland met derde landen, voor zover de wet of dit besluit hier niet reeds in voorziet.     
 2.  Bij ministeriële regeling wordt de hoogte van de vergoedingen, bedoeld in het eerste lid, vastgesteld.   
 3.  Bij ministeriële regeling wordt de wijze van betaling van de verschuldigde vergoeding vastgesteld.   
 
@@ -379,11 +395,6 @@ e. de behandeling van de aanvraag om afgifte, verlenging, vernieuwing of wijzigi
 ### Hoofdstuk  8  
 
 ####Overgangsbepalingen
-
-### Artikel  24  
-
-1.  De ingevolge [artikel 16 van het Besluit luchtvaartuigen](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) afgegeven standaard-bewijzen van luchtwaardigheid vervallen op uiterlijk 28 september 2009 of zoveel eerder als hun geldigheidsduur verstreken is.   
-2.  De houder van een luchtvaartuig voorzien van een EASA-standaard-BvL dan wel een EASA-beperkt-BvL is het toegestaan tot uiterlijk 28 september 2008, dat luchtvaartuig te doen onderhouden overeenkomstig de [Regeling onderhoud luchtvaartuigen](../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md).   
 
 ### Hoofdstuk  9  
 

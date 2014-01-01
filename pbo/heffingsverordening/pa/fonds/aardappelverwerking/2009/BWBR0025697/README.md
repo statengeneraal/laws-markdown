@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2008 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds aardappelverwerking (Heffingsverordening PA fonds aardappelverwerking 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 
@@ -14,7 +14,7 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | a.  | productschap  | :  | Productschap Akkerbouw;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | dagelijks bestuur  | :  | dagelijks bestuur van het productschap;  |
@@ -32,21 +32,8 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-1.  De ondernemer, die in enig kalenderjaar aardappelproducten vervaardigt, is verplicht voor dat jaar aan het productschap een heffing te betalen van € 107,- per 1.000 ton aardappelen terzake van de verwerking van aardappelen tot aardappelproducten.   
+1.  De ondernemer, die in enig kalenderjaar aardappelproducten vervaardigt, is verplicht voor dat jaar aan het productschap een heffing te betalen van € 0 per 1.000 ton aardappelen terzake van de verwerking van aardappelen tot aardappelproducten.   
 2.  Van de heffing zijn uitgezonderd de aardappelen die worden ingevoerd en in Nederland tot aardappelproducten worden verwerkt.   
-3.  Aan de in het eerste lid bedoelde ondernemer die lid is van de Vereniging voor de Aardappelverwerkende Industrie (VAVI) en over het betreffende jaar de volledige contributie heeft betaald, wordt een korting toegestaan gelijk aan 25% van de verschuldigde heffing, mits de korting de verschuldigde contributie niet te boven gaat. De aftrek wordt slechts toegestaan indien uit de door genoemde vereniging verstrekte opgaven blijkt dat de contributie is betaald.   
-4.  Het derde lid is van overeenkomstige toepassing op ondernemers als in het eerste lid bedoeld, die, al dan niet rechtstreeks, lid zijn van een organisatie van ondernemers die een vereniging met volledige rechtsbevoegdheid is en die:  
-
-a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het productschap een taak heeft te vervullen;  
-
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
-
-c. tot de werkingssfeer van het productschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;  
-
-d. met betrekking tot de behartiging van sociaal-economische belangen van ondernemers een positie van enige betekenis inneemt binnen de groep van ondernemers die zij beoogt te organiseren, hetgeen onder meer kan blijken uit de mate van representativiteit binnen die groep, de deelname aan het arbeidsvoorwaardenoverleg, het verrichten van studies of diensten die ook buiten die groep van belang worden geacht en de deelname aan regelmatig overleg met de overheid, en  
-
-e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.    
-5.  De in het vierde lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en de organisatie vervolgens door het bestuur is aangewezen.   
 
 ### Artikel  3  
 
@@ -55,7 +42,7 @@ De heffing bedoeld in artikel 2 is bestemd voor het Fonds aardappelverwerking.
 ### Artikel  4  
 
 1.  De ondernemer is verplicht door middel van een opgavenformulier aan het productschap gegevens te verstrekken voor de vaststelling van de heffing, bedoeld in artikel 2 en/of voor statistische doeleinden.   
-2.  Het opgavenformulier dient door de ondernemer volledig en naar waarheid te worden ingevuld. De [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
+2.  Het opgavenformulier dient door de ondernemer volledig en naar waarheid te worden ingevuld. De Verordening PA algemene bepalingen 2008 is hierbij van toepassing.   
 3.  De opgave dient maandelijks te geschieden en wel uiterlijk op de vijftiende dag volgend op de maand waarop de opgave betrekking heeft.   
 4.  Indien in een bepaalde maand geen activiteiten als vermeld op het opgavenformulier hebben plaatsgevonden, dient ook dit gegeven te worden opgegeven.   
 5.  De ondernemer die ingevolge artikel 2 heffingsplichtig is legt, indien de secretaris, namens het bestuur, daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale hoeveelheid in het betreffende jaar verwerkte hoeveelheid aardappelen tot aardappelproducten en de totale hoeveelheid ingevoerde aardappelen welke tot aardappelproducten zijn verwerkt.   
@@ -97,7 +84,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 
 ### Artikel  9  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.  
 
 ### §  5  
 
@@ -114,7 +101,7 @@ b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop 
 
 ### Artikel  11  
 
-Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2009, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md).  
+Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2009, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008.  
 
 ### Artikel  12  
 

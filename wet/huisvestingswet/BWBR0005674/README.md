@@ -178,7 +178,7 @@ a. waarvan redelijkerwijs niet of niet meer verwacht kan worden dat zij door het
 
 b. die als remigrant wensen terug te keren naar Nederland of zijn teruggekeerd, doch nog niet over passende huisvesting beschikken;  
 
-c. aan wie op grond van een asielverzoek een van de verblijfsvergunningen, bedoeld in [artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, indien zij na die verlening voor de eerste maal woonruimte zoeken;  
+c. aan wie op grond van een asielverzoek of ambtshalve een van de verblijfsvergunningen, bedoeld in [artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, indien zij na die verlening voor de eerste maal woonruimte zoeken;  
 
 d. die na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed, in verband met die omstandigheid dringend woonruimte behoeven, of  
 
@@ -294,13 +294,20 @@ c. ingeval de woonruimte te koop wordt aangeboden: indien de koopprijs niet hoge
 
 In bijzondere gevallen kunnen burgemeester en wethouders een huisvestingsvergunning verlenen aan andere woningzoekenden dan bedoeld in artikel 9, eerste lid, voor zover wordt voldaan aan artikel 9, tweede lid, zonder dat de betrokken woonruimte overeenkomstig het bij en krachtens artikel 26, eerste en derde lid, bepaalde vruchteloos is aangeboden.  
 
+### Artikel  27a  
+
+1.  Burgemeester en wethouders kunnen in afwijking van de artikelen 25, eerste lid, en 26, eerste lid, de huisvestingsvergunning weigeren in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+
 ### Artikel  28  
 
-Burgemeester en wethouders kunnen een huisvestingsvergunning intrekken, indien: 
+1.  Burgemeester en wethouders kunnen een huisvestingsvergunning intrekken, indien: 
 
 a. de vergunninghouder de erin vermelde woonruimte niet binnen de door burgemeester en wethouders bij de verlening van de vergunning gestelde termijn in gebruik heeft genomen;  
 
-b. de vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.    
+b. de vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.     
+2.  Burgemeesters en wethouders kunnen een huisvestingsvergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  29  
 
@@ -328,7 +335,9 @@ c. van zelfstandige in onzelfstandige woonruimte om te zetten.
 
 ### Artikel  31  
 
-Een vergunning als bedoeld in artikel 30, eerste lid, wordt verleend, tenzij het belang van het behoud of de samenstelling van de woonruimtevoorraad groter is dan het met het onttrekken aan de bestemming tot bewoning gediende belang en het belang van het behoud of de samenstelling van de woonruimtevoorraad niet door het stellen van voorwaarden en voorschriften voldoende kan worden gediend.  
+1.  Een vergunning als bedoeld in artikel 30, eerste lid, wordt verleend, tenzij het belang van het behoud of de samenstelling van de woonruimtevoorraad groter is dan het met het onttrekken aan de bestemming tot bewoning gediende belang en het belang van het behoud of de samenstelling van de woonruimtevoorraad niet door het stellen van voorwaarden en voorschriften voldoende kan worden gediend.   
+2.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  32  
 
@@ -343,11 +352,16 @@ De gemeenteraad bepaalt in de huisvestingsverordening ten minste de voorwaarden 
 1.  Het is verboden een recht op een gebouw dat behoort tot een door de gemeenteraad in de huisvestingsverordening daartoe aangewezen categorie, zonder vergunning van burgemeester en wethouders te splitsen in appartementsrechten als bedoeld in [artikel 106, eerste en vierde lid, van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.   
 2.  Het eerste lid is van overeenkomstige toepassing op het verlenen van deelnemings- of lidmaatschapsrechten of het aangaan van een verbintenis daartoe door een rechtspersoon met betrekking tot een gebouw als bedoeld in het eerste lid.   
 
+### Artikel  33a  
+
+1.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+
 ### Artikel  34  
 
 1.  De gemeenteraad bepaalt in de huisvestingsverordening ten minste: 
 
-a. de gronden die tot weigering van een vergunning als bedoeld in artikel 33 kunnen leiden;  
+a. de overige gronden die tot weigering van een vergunning als bedoeld in artikel 33 kunnen leiden;  
 
 b. de categorieën van gevallen waarin de beslissing op de aanvraag om een vergunning door burgemeester en wethouders wordt aangehouden;  
 
@@ -390,11 +404,13 @@ d. de gegevens die ten minste in de beschikking op de aanvraag moeten worden ver
 
 ### Artikel  38  
 
-Burgemeester en wethouders kunnen een vergunning intrekken, indien: 
+1.  Burgemeester en wethouders kunnen een vergunning intrekken, indien: 
 
 a. niet binnen een jaar nadat de beschikking onherroepelijk is geworden, is overgegaan tot onttrekking, samenvoeging of omzetting, onderscheidenlijk tot overschrijving in de openbare registers van de akte van splitsing in appartementsrechten, bedoeld in [artikel 109 van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), of tot het verlenen van deelnemings- of lidmaatschapsrechten;  
 
-b. de vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.    
+b. de vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.     
+2.  Burgemeester en wethouders kunnen een vergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 
 ### Artikel  39  
 
@@ -555,7 +571,7 @@ b. zodra de vordering ingevolge een besluit als bedoeld in artikel 55, eerste li
 
 Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder: 
 
-a. verblijfsgerechtigden: vreemdelingen die in Nederland op grond van een asielverzoek rechtmatig verblijf hebben als bedoeld in [artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+a. verblijfsgerechtigden: vreemdelingen die in Nederland op grond van een asielverzoek rechtmatig verblijf hebben als bedoeld in [artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of die houder zijn van een machtiging tot voorlopig verblijf die voldoet aan de in [artikel 29, tweede lid, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) gestelde voorwaarden;  
 
 b. taakstelling: het aantal in opvangcentra of op gemeentelijke opvangplaatsen verkerende verblijfsgerechtigden in wier huisvesting per gemeente per kalenderhalfjaar dient te worden voorzien.    
 

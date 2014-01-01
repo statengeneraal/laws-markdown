@@ -148,21 +148,21 @@ In afwijking van artikel 6, tweede lid, onderdeel *a*, onder 1°, kan de inspect
 
 | Bij een CO <sub>2</sub> -uitstoot van meer dan  | maar niet meer dan  | bedraagt de belasting voor een personenauto die wordt aangedreven anders dan door een motor met compressieontsteking, het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde bedrag te vermenigvuldigen met het aantal gram/km CO <sub>2</sub> -uitstoot dat de in kolom I vermelde CO <sub>2</sub> -uitstoot te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | 95  | 0  | 0  |
-| 95 gram/km  | 140  | 0  | € 125  |
-| 140 gram/km  | 208  | € 5.625  | € 148  |
-| 208 gram/km  | 229  | € 15.689  | € 276  |
-| 229 gram/km  | –  | € 21.485  | € 551  |
+| –  | 88  | 0  | 0  |
+| 88 gram/km  | 124  | 0  | € 105  |
+| 124 gram/km  | 182  | € 3.780  | € 126  |
+| 182 gram/km  | 203  | € 11.088  | € 237  |
+| 203 gram/km  | -  | € 16.065  | € 474  |
 
 | Bij een CO <sub>2</sub> -uitstoot van meer dan  | maar niet meer dan  | bedraagt de belasting voor een personenauto die wordt aangedreven door een motor met een compressieontsteking het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde bedrag te vermenigvuldigen met het aantal gram/km CO <sub>2</sub> -uitstoot dat de in kolom I vermelde CO <sub>2</sub> -uitstoot te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | 88  | 0  | 0  |
-| 88 gram/km  | 131  | 0  | € 125  |
-| 131 gram/km  | 192  | € 5.375  | € 148  |
-| 192 gram/km  | 215  | € 14.403  | € 276  |
-| 215 gram/km  | –  | € 20.751  | € 551  |
+| –  | 85  | 0  | 0  |
+| 85 gram/km  | 120  | 0  | € 105  |
+| 120 gram/km  | 175  | € 3.675  | € 126  |
+| 175 gram/km  | 197  | € 10.605  | € 237  |
+| 197 gram/km  | -  | € 15.819  | € 474  |
 
-Het bedrag van de belasting op grond van de tabel wordt in geval van een personenauto die wordt aangedreven door een motor met een compressieontsteking vermeerderd met een bedrag van € 56,13 per gram/km CO <sub>2</sub> -uitstoot boven de 70 gram/km CO <sub>2</sub> -uitstoot.   
+Het bedrag van de belasting op grond van de tabel wordt in geval van een personenauto die wordt aangedreven door een motor met een compressieontsteking vermeerderd met een bedrag van € 72,93 per gram/km CO <sub>2</sub> -uitstoot boven de 70 gram/km CO <sub>2</sub> -uitstoot.   
 2.  De belasting bedraagt: 
 
 a. voor een bestelauto of een bijzondere personenauto als bedoeld in het twaalfde lid 37,7 percent van de netto catalogusprijs, verminderd met € 1 283, dan wel, ingeval van een bestelauto of bijzondere personenauto die wordt aangedreven door een motor met een compressieontsteking 37,7 percent van de netto catalogusprijs, vermeerderd met € 273;  
@@ -181,13 +181,7 @@ b. voor een motorrijwiel:
 9.  Wanneer een personenauto, een motorrijwiel of een bestelauto een bijzondere uitvoering heeft of is voorzien van extra toebehoren, wordt de waarde daarvan in de catalogusprijs begrepen, uitgezonderd de waarde van voorzieningen die niet zijn aangebracht door of namens de fabrikant of de importeur.   
 10.  Voor de toepassing van dit artikel is de CO <sub>2</sub> -uitstoot van een personenauto, de CO <sub>2</sub> -uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO <sub>2</sub> -uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd.   
 11.  Indien voor de toepassing van dit artikel de CO <sub>2</sub> -uitstoot van een personenauto niet op een bij ministeriële regeling voorgeschreven wijze is aangetoond, wordt deze gesteld op 350 gram per kilometer respectievelijk 302 gram per kilometer voor een personenauto die wordt aangedreven door een motor met compressieontsteking.   
-12.  Voor de toepassing van dit artikel wordt onder bijzondere personenauto verstaan een personenauto die valt onder richtlijn 2002/24/EEG, alsmede een personenauto die een voertuig voor speciale doeleinden is zoals omschreven in Bijlage II, onderdeel A, punt 5, van richtlijn 2007/46/EG, waarbij voor de kampeerauto geldt dat deze voldoet aan de eisen gesteld in [artikel 23a van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en de daarop berustende bepalingen.   
-
-### Artikel  9b  
-
-1.  Voor een personenauto die wordt aangedreven door een motor met compressieontsteking wordt het bedrag aan belasting, bedoeld in artikel 9, eerste lid, verminderd met € 500, indien de personenauto voldoet aan de grenswaarden, genoemd in tabel 2 van bijlage I van Verordening (EG) nr. 715/2007 van het Europees parlement en de Raad van de Europese Gemeenschappen van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PBEG L 171).   
-2.  Een wijziging van de in het eerste lid genoemde verordening gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de betrokken wijziging van de verordening uitvoering moet zijn gegeven, tenzij bij ministeriële regeling, die in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
-3.  Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van dit artikel.   
+12.  Voor de toepassing van dit artikel wordt onder bijzondere personenauto verstaan een personenauto die valt onder Richtlijn 2002/24/EEG, alsmede een personenauto die een voertuig voor speciale doeleinden is zoals omschreven in Bijlage II, onderdeel A, punt 5, van Richtlijn 2007/46/EG, waarbij voor de kampeerauto geldt dat deze voldoet aan de eisen gesteld in [artikel 23a van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en de daarop berustende bepalingen.   
 
 ### Artikel  9c  
 
@@ -195,7 +189,7 @@ In afwijking van artikel 9, eerste en tweede lid, bedraagt de belasting tot 1 j
 
 ### Artikel  10  
 
-1.  Met betrekking tot gebruikte personenauto's, gebruikte motorrijwielen of gebruikte bestelauto's wordt het bij de personenauto, het motorrijwiel of de bestelauto behorende bedrag aan belasting, bedoeld in artikel 9, eerste en tweede lid, na toepassing van artikel 9b, berekend met inachtneming van een vermindering.   
+1.  Met betrekking tot gebruikte personenauto's, gebruikte motorrijwielen of gebruikte bestelauto's wordt het bij de personenauto, het motorrijwiel of de bestelauto behorende bedrag aan belasting, bedoeld in artikel 9, eerste en tweede lid, berekend met inachtneming van een vermindering.   
 2.  De vermindering, bedoeld in het eerste lid, is de afschrijving, uitgedrukt in procenten van de som van de catalogusprijs, bedoeld in artikel 9, vierde lid, en de belasting van personenauto’s en motorrijwielen op het tijdstip waarop het motorrijtuig voor het eerst in gebruik is genomen.   
 3.  Indien na het tijdstip waarop een bestelauto voor het eerst in gebruik is genomen, een tijdsduur is verstreken van 5 jaar of meer, bedraagt in afwijking van het tweede lid het percentage van de vermindering 100.   
 4.  Indien na het tijdstip waarop de personenauto of het motorrijwiel voor het eerst in gebruik is genomen, een tijdsduur is verstreken van 25 jaar of meer, bedraagt in afwijking van het tweede lid het percentage van de vermindering 100.   
@@ -244,7 +238,7 @@ Degene, namens wie de belasting ingevolge deze wet door een ander wordt voldaan,
 
 ### Artikel  12b  
 
-Ingeval van constatering van het gebruik van de weg met een personenauto, een motorrijwiel of een bestelauto waarvoor de belasting die is verschuldigd ter zake van het in artikel 1, vijfde, zesde of achtste lid genoemde feit niet is betaald, kan de belasting worden nageheven van degene die het motorrijtuig feitelijk ter beschikking heeft. Het tijdstip van aanvang van het gebruik van de weg wordt daarbij gesteld op het tijdstip van constatering.  
+Ingeval van constatering van het gebruik van de weg met een personenauto, een motorrijwiel of een bestelauto waarvoor de belasting die is verschuldigd ter zake van het in artikel 1, vijfde, zesde of achtste lid genoemde feit niet is betaald, kan de belasting worden nageheven van degene die het motorrijtuig feitelijk ter beschikking heeft. Het tijdstip van aanvang van het gebruik van de weg wordt daarbij gesteld op het tijdstip van constatering met dien verstande dat het tijdstip ter zake van het in artikel 1, zesde lid, genoemde feit wordt vastgesteld met overeenkomstige toepassing van [artikel 13, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).  
 
 ### Hoofdstuk  IV  
 
@@ -526,6 +520,8 @@ Waar in deze wet de Wet op de belasting van personenauto’s en motorrijwielen 1
 ### Hoofdstuk  Vb  
 
 ####Bijzondere regeling voor energiezuinige personenauto's
+
+Vervallen per 01-01-2003   
 
 ### Hoofdstuk  VI  
 

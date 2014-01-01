@@ -56,8 +56,9 @@ Ter uitvoering van de taak als genoemd in artikel 2, elfde lid, bieden de toptea
 
 ### Artikel  6  
 
-1.  Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,111.   
-2.  Aan de leden van de commissie, bedoeld in artikel 7, eerste lid, onderdeel c, tweede lid, onderdeel k, derde lid, onderdeel d, vierde tot en met zesde lid, onderdeel c, zevende lid, onderdeel k, en achtste en tiende lid, onderdeel c, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,111.   
+1.  Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.   
+2.  Aan de leden van de commissie benoemd als vertegenwoordiger vanuit het MKB wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.   
+3.  Indien er in een commissie twee of meer leden zijn benoemd als vertegenwoordiger vanuit het MKB, wordt de vergoeding bedoeld in het tweede lid evenredig over de betrokken leden verdeeld. De in het tweede lid bedoelde arbeidsduurfactor geldt als maximum voor de totale vergoeding.   
 
 ### Artikel  7  
 

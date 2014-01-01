@@ -3,7 +3,7 @@
 ##Regeling met betrekking tot de erkenning voor het produceren en afgeven van kentekenplaten
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 40, derde lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70 a, derde lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70 b, tweede en zesde lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70 d, eerste en tweede lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [70 e, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 40, derde lid, 70 a, derde lid, 70 b, tweede en zesde lid, 70 d, eerste en tweede lid, en 70 e, derde lid, van de Wegenverkeerswet 1994;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder:   a.  *erkenning:*   erkenning als bedoeld in [artikel 70a, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor de productie en afgifte van kentekenplaten;    b.  *erkenninghouder:*   houder van een erkenning als bedoeld in [artikel 70a, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor de productie en afgifte van kentekenplaten;    c.  *kentekenplaat:*   eindproduct van de erkenninghouder;    d.  *fabrikantenkeurmerk:*   het door de erkenninghouder op de kentekenplaat aan te brengen keurmerk volgens model M 3 in de bijlage bij de Regeling kentekens en kentekenplaten;    e.  *productie:*   het verwerken van blanco-kentekenplaten tot kentekenplaten, waaronder mede wordt begrepen het aanbrengen van het fabrikantenkeurmerk, het desbetreffende kenteken en, indien van toepassing, de duplicaatcode;    f.  *productieplaats:*   inrichting waarin productie plaats vindt;    g.  *lamineerder:*   houder van een erkenning als bedoeld in [artikel 70 a van de wet](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor de productie en afgifte van blanco-kentekenplaten;    h.  *blanco-kentekenplaat:*   blanco-kentekenplaat, geschikt voor het produceren van een kentekenplaat;    i.  *lamineercode:*   het door de lamineerder op een blanco-kentekenplaat aan te brengen nummer volgens model E in de bijlage bij de Regeling kentekens en kentekenplaten, aan de hand waarvan iedere kentekenplaat kan worden geïdentificeerd;    j.  *de Minister:*   de Minister van Verkeer en Waterstaat;    k.  *RDW:*   Dienst Wegverkeer;    l.  *wet:*   [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).      
+1.  In deze regeling wordt verstaan onder:   a.  *erkenning:*   erkenning als bedoeld in artikel 70a, eerste lid, van de Wegenverkeerswet 1994 voor de productie en afgifte van kentekenplaten;    b.  *erkenninghouder:*   houder van een erkenning als bedoeld in artikel 70a, eerste lid, van de Wegenverkeerswet 1994 voor de productie en afgifte van kentekenplaten;    c.  *kentekenplaat:*   eindproduct van de erkenninghouder;    d.  *fabrikantenkeurmerk:*   het door de erkenninghouder op de kentekenplaat aan te brengen keurmerk volgens model M 3 in de bijlage bij de Regeling kentekens en kentekenplaten;    e.  *productie:*   het verwerken van blanco-kentekenplaten tot kentekenplaten, waaronder mede wordt begrepen het aanbrengen van het fabrikantenkeurmerk, het desbetreffende kenteken en, indien van toepassing, de duplicaatcode;    f.  *productieplaats:*   inrichting waarin productie plaats vindt;    g.  *lamineerder:*   houder van een erkenning als bedoeld in artikel 70 a van de wet voor de productie en afgifte van blanco-kentekenplaten;    h.  *blanco-kentekenplaat:*   blanco-kentekenplaat, geschikt voor het produceren van een kentekenplaat;    i.  *lamineercode:*   het door de lamineerder op een blanco-kentekenplaat aan te brengen nummer volgens model E in de bijlage bij de Regeling kentekens en kentekenplaten, aan de hand waarvan iedere kentekenplaat kan worden geïdentificeerd;    j.  *RDW:*   Dienst Wegverkeer.      
 2.  Voor de toepassing van deze regeling maken besloten ruimten die zijn gelegen in één gebouw, dan wel in verscheidene belendende of nagenoeg belendende gebouwen, waarin dezelfde erkenninghouder kentekenplaten fabriceert, deel uit van één productieplaats.   
 
 ### Hoofdstuk  2  
@@ -50,9 +50,9 @@ Voor de aanvraag van een erkenning wordt gebruik gemaakt van een door de RDW vas
 
 De aanvrager van een erkenning legt bij de aanvraag de volgende bescheiden over: 
 
-a. een bewijs van inschrijving als bedoeld in de [Handelsregisterwet 1996](../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md), dan wel, bij vestiging buiten Nederland, een gelijkwaardig document afgegeven in het land van vestiging, waaruit blijkt dat de aanvrager kentekenplaten fabriceert, welk bewijs niet ouder mag zijn dan een maand, en  
+a. een uittreksel uit het handelsregister, als bedoeld in artikel 22 van de Handelsregisterwet 2007, dan wel, bij vestiging buiten Nederland, een gelijkwaardig document afgegeven in het land van vestiging, waaruit blijkt dat de aanvrager kentekenplaten fabriceert, welk bewijs niet ouder mag zijn dan een maand, en  
 
-b. een testrapport van een door de RDW aangewezen onderzoeksinstelling, waaruit blijkt, dat de aanvrager kentekenplaten kan produceren, die voldoen aan de eisen, gesteld in de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md).    
+b. een testrapport van een door de RDW aangewezen onderzoeksinstelling, waaruit blijkt, dat de aanvrager kentekenplaten kan produceren, die voldoen aan de eisen, gesteld in de Regeling kentekens en kentekenplaten en de Regeling eisen goedkeuring kentekenplaten 2000.    
 
 ### Artikel  6  
 
@@ -77,7 +77,7 @@ De aanvrager van de erkenning beschikt over voor de erkenning door de RDW goedge
 
 ####Afwijkende aanvraageisen
 
-Indien aan de aanvrager van een erkenning eerder een erkenning is verleend, die op grond van [artikel 70d van de wet](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is ingetrokken, kan, onverminderd het bepaalde in [artikel 70 d, derde lid, van de wet](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), door de RDW worden bepaald dat van onderdelen van hoofdstuk 3 kan worden afgeweken.  
+Indien aan de aanvrager van een erkenning eerder een erkenning is verleend, die op grond van artikel 70d van de wet is ingetrokken, kan, onverminderd het bepaalde in artikel 70 d, derde lid, van de wet, door de RDW worden bepaald dat van onderdelen van hoofdstuk 3 kan worden afgeweken.  
 
 ### Hoofdstuk  4  
 
@@ -126,14 +126,14 @@ De erkenninghouder dient te allen tijde te kunnen aangeven waar de in ontvangst 
 
 ####Voorschriften productie
 
-1.  De erkenninghouder verricht de productie met inachtneming van de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md).   
+1.  De erkenninghouder verricht de productie met inachtneming van de Regeling kentekens en kentekenplaten en de Regeling eisen goedkeuring kentekenplaten 2000.   
 2.  De fabricage van kentekenplaten vindt slechts plaats in de productieplaats waarvoor de erkenning is verleend.   
 
 ### Artikel  15  
 
 ####Ontvangst blanco-kentekenplaten
 
-1.  De erkenninghouder neemt uitsluitend blanco-kentekenplaten in ontvangst van een erkende lamineerder, die zijn voorzien van het door de lamineerder aangebrachte waarmerk, indien dat is voorgeschreven. De erkenninghouder meldt binnen één week na de ontvangst van blanco-kentekenplaten, die op grond van de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) voorzien zijn van een lamineercode, bij de RDW op een door deze dienst te bepalen wijze, de volgende gegevens: 
+1.  De erkenninghouder neemt uitsluitend blanco-kentekenplaten in ontvangst van een erkende lamineerder, die zijn voorzien van het door de lamineerder aangebrachte waarmerk, indien dat is voorgeschreven. De erkenninghouder meldt binnen één week na de ontvangst van blanco-kentekenplaten, die op grond van de Regeling kentekens en kentekenplaten voorzien zijn van een lamineercode, bij de RDW op een door deze dienst te bepalen wijze, de volgende gegevens: 
 
 a. de lamineercodes;  
 
@@ -148,8 +148,8 @@ d. de lamineerder die de blanco-kentekenplaten heeft geleverd.
 
 ####Afgekeurde blanco-kentekenplaten
 
-1.  De erkenninghouder vernietigt de blanco-kentekenplaten die beschadigd zijn, dan wel niet aan de eisen van de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) of de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md) voldoen binnen één week na constatering, dan wel retourneert die kentekenplaten aan de betrokken lamineerder.   
-2.  Indien de erkenninghouder blanco-kentekenplaten, die op grond van de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) voorzien zijn van een lamineercode, retourneert, meldt deze bij de Dienst Wegverkeer, op de door deze dienst te bepalen wijze, de volgende gegevens: 
+1.  De erkenninghouder vernietigt de blanco-kentekenplaten die beschadigd zijn, dan wel niet aan de eisen van de Regeling kentekens en kentekenplaten of de Regeling eisen goedkeuring kentekenplaten 2000 voldoen binnen één week na constatering, dan wel retourneert die kentekenplaten aan de betrokken lamineerder.   
+2.  Indien de erkenninghouder blanco-kentekenplaten, die op grond van de Regeling kentekens en kentekenplaten voorzien zijn van een lamineercode, retourneert, meldt deze bij de Dienst Wegverkeer, op de door deze dienst te bepalen wijze, de volgende gegevens: 
 
 a. de lamineercodes;  
 
@@ -170,7 +170,7 @@ c. de soort, de kleur en het model van de blanco-kentekenplaten.
 
 ####Eindcontrole. Afgekeurde kentekenplaten
 
-1.  Alvorens de erkenninghouder overgaat tot aflevering van kentekenplaten controleert hij of deze voldoen aan de in de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md) gestelde eisen.   
+1.  Alvorens de erkenninghouder overgaat tot aflevering van kentekenplaten controleert hij of deze voldoen aan de in de Regeling kentekens en kentekenplaten en de Regeling eisen goedkeuring kentekenplaten 2000 gestelde eisen.   
 2.  Kentekenplaten die niet aan de eisen voldoen, worden binnen één week na de controle vernietigd. De erkenninghouder meldt met betrekking tot deze kentekenplaten, die voorzien behoren te zijn van een lamineercode, bij de Dienst Wegverkeer, op een door deze dienst te bepalen wijze, de volgende gegevens: 
 
 a. de lamineercodes;  
@@ -183,8 +183,8 @@ c. de soort, de kleur en het model van de blanco-kentekenplaten.
 
 ####Afgifte kentekenplaten
 
-1.  De erkenninghouder geeft donkerblauwe kentekenplaten en kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27. 31C en 30.1A tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) slechts af aan degene die de in de [Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten](../../../../../ministeriele-regeling/regeling/legitimatievoorschriften/tenaamstelling/en/kentekenplaten/BWBR0007091/README.md) voorgeschreven documenten overlegt. De af te geven kentekenplaten zijn voorzien van het kenteken dat is vermeld op het desbetreffende kentekenbewijs.   
-2.  Onverminderd het eerste lid, geeft de erkenninghouder kentekenplaten volgens model 18.2A tot en met 18.2C slechts af indien blijkens het desbetreffende kentekenbewijs toestemming is verleend voor het voeren van platen volgens dat model.   
+1.  De erkenninghouder geeft donkerblauwe kentekenplaten en kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27. 31C en 30.1A tot en met 30.16 van de bijlage bij de Regeling kentekens en kentekenplaten slechts af aan degene die de in de Regeling legitimatievoorschriften tenaamstelling en kentekenplaten voorgeschreven documenten overlegt. De af te geven kentekenplaten zijn voorzien van het kenteken dat voor het voertuig is vermeld in het kentekenregister.   
+2.  Onverminderd het eerste lid, geeft de erkenninghouder kentekenplaten volgens model 18.2A tot en met 18.2C slechts af indien blijkens het kentekenregister toestemming is verleend voor het voeren van platen volgens dat model.   
 3.  Onverminderd het eerste lid, geeft de erkenninghouder donkerblauwe kentekenplaten slechts af indien uit het desbetreffende kentekenbewijs blijkt dat het betrokken voertuig vóór 1978 tot de weg is toegelaten en het desbetreffende kenteken niet bestaat uit twee groepen van twee letters en een groep van twee cijfers, dan wel uit één groep van twee letters, één groep van drie cijfers en één letter of één groep van twee cijfers, één groep van drie letters en één cijfer. De laatste voorwaarde met betrekking tot het kenteken geldt niet voor aanhangwagens.   
 4.  Indien de RDW, op een door de RDW te bepalen wijze, meldt dat er geen kentekenplaten mogen worden afgegeven, geeft de erkenninghouder geen kentekenplaten van de modellen 18.2A tot en met 18.2C met een retroreflecterende gele achtergrond dan wel een retroreflecterende lichtblauwe achtergrond, 27.1A tot en met 27.2F, 27.10A tot en met 27.14, 27.30A tot en met 27.31C en 30.1A tot en met 30.6 voor het desbetreffende kenteken af.   
 5.  Bij een eerste afgifte worden de kentekenplaten niet voorzien van een duplicaatcode.   
@@ -194,7 +194,7 @@ c. de soort, de kleur en het model van de blanco-kentekenplaten.
 
 ####Aantal af te geven kentekenplaten
 
-1.  De erkenninghouder geeft bij de afgifte van kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27.14, 27.30A tot en met 27.31C en 30.1A tot en met 30.6 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) per kenteken: 
+1.  De erkenninghouder geeft bij de afgifte van kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27.14, 27.30A tot en met 27.31C en 30.1A tot en met 30.6 van de bijlage bij de Regeling kentekens en kentekenplaten per kenteken: 
 
 a. één kentekenplaat af voor een motorrijtuig op twee of drie wielen met of zonder zijspanwagen, niet zijnde een bromfiets;  
 
@@ -240,7 +240,7 @@ Bij vermissing van kentekenplaten van de modellen 27.1A tot en met 27.2F, 27.10A
 
 1.  De erkenninghouder meldt bij de afgifte van kentekenplaten, die voorzien behoren te zijn van een lamineercode, bij de Dienst Wegverkeer, op door deze dienst te bepalen wijze, de volgende gegevens: 
 
-a. het betrokken kenteken en, indien van toepassing, de meldcode van het kentekenbewijs;  
+a. het betrokken kenteken en, indien van toepassing, de meldcode van het voertuig en voor zover deze is afgeven het documentnummer van de kentekencard;  
 
 b. indien dat bewijs moet worden overgelegd: de aard, het nummer en het land van afgifte van het legitimatiebewijs van degene die de kentekenplaten in ontvangst neemt;  
 
@@ -261,15 +261,15 @@ h. de reden voor afgifte:
 2°. vervanging, of  
 
 3°. vermissing.       
-2.  Uit de registratie worden uitsluitend en desgevraagd aan de ambtenaren van de RDW, belast met het toezicht op de naleving van de uit de erkenning voortvloeiende verplichtingen en aan de ambtenaren van politie belast met de handhaving van de uit de erkenning voortvloeiende verplichtingen en van de verboden, bedoeld in [artikel 41 van de wet](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), gegevens verstrekt die zij voor de uitoefening van hun taak behoeven.   
+2.  Uit de registratie worden uitsluitend en desgevraagd aan de ambtenaren van de RDW, belast met het toezicht op de naleving van de uit de erkenning voortvloeiende verplichtingen en aan de ambtenaren van politie belast met de handhaving van de uit de erkenning voortvloeiende verplichtingen en van de verboden, bedoeld in artikel 41 van de wet, gegevens verstrekt die zij voor de uitoefening van hun taak behoeven.   
 
 ### Artikel  23a  
 
-1.  In afwijking van artikel 15 mag de erkenninghouder kentekenplaten volgens de modellen 1.1 tot en met 18.2C, 27.11, 27.12, 27.14, 27.30A tot en met 27.31C en kentekenplaten met de lettermodellen C1, indien uitgevoerd in kunststof, C2 en C3 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md), leveren aan een andere erkenninghouder. Deze kentekenplaten zijn, indien van toepassing, voorzien van een duplicaatcode. Zij zijn niet voorzien van een merk als bedoeld in [artikel 5, eerste lid, van de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md).   
+1.  In afwijking van artikel 15 mag de erkenninghouder kentekenplaten volgens de modellen 1.1 tot en met 18.2C, 27.11, 27.12, 27.14, 27.30A tot en met 27.31C en kentekenplaten met de lettermodellen C1, indien uitgevoerd in kunststof, C2 en C3 van de bijlage bij de Regeling kentekens en kentekenplaten, leveren aan een andere erkenninghouder. Deze kentekenplaten zijn, indien van toepassing, voorzien van een duplicaatcode. Zij zijn niet voorzien van een merk als bedoeld in artikel 5, eerste lid, van de Regeling kentekens en kentekenplaten.   
 2.  Bij levering als bedoeld in het eerste lid zijn de artikelen 20, tweede, derde en vijfde lid, 21, 22, eerste lid, 22a en 22b van overeenkomstige toepassing.   
 3.  De erkenninghouder meldt voorafgaand aan de doorlevering van kentekenplaten, die voorzien behoren te zijn van een lamineercode, aan de Dienst Wegverkeer, op een door deze dienst te bepalen wijze, de volgende gegevens: 
 
-a. de betrokken kentekens, de meldcodes, indien van toepassing, en, indien aanwezig, de duplicaatcodes;  
+a. de betrokken kentekens, de meldcodes, indien van toepassing, en, indien aanwezig, de duplicaatcodes en voor zover deze is afgeven het documentnummer van de kentekencard;  
 
 b. de lamineercodes;  
 
@@ -291,7 +291,7 @@ f. de kentekenplaatfabrikant aan wie de kentekenplaten worden doorgeleverd.
 ### Artikel  23b  
 
 1.  De erkenninghouder aan wie de kentekenplaten zijn geleverd, mag deze niet met toepassing van artikel 23a doorleveren aan een andere erkenninghouder.   
-2.  De erkenninghouder aan wie de kentekenplaten zijn geleverd, dient de geleverde kentekenplaten bij afgifte te voorzien van een merk als bedoeld in [artikel 5, eerste lid, van de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md).   
+2.  De erkenninghouder aan wie de kentekenplaten zijn geleverd, dient de geleverde kentekenplaten bij afgifte te voorzien van een merk als bedoeld in artikel 5, eerste lid, van de Regeling kentekens en kentekenplaten.   
 
 ### Artikel  23c  
 
@@ -299,7 +299,7 @@ f. de kentekenplaatfabrikant aan wie de kentekenplaten worden doorgeleverd.
 2.  Bij levering als bedoeld in het eerste lid zijn de artikelen 20 tot en met 22b van overeenkomstige toepassing.   
 3.  Voorafgaand aan de afgifte van kentekenplaten, die voorzien behoren te zijn van een lamineercode en die worden afgegeven door een koerier, meldt de erkenninghouder bij de RDW, op een door deze dienst te bepalen wijze, de volgende gegevens: 
 
-a. de betrokken kentekens, de meldcodes, indien van toepassing, en, indien aanwezig, de duplicaatcodes;  
+a. de betrokken kentekens, de meldcodes, indien van toepassing, en, indien aanwezig, de duplicaatcodes en voor zover deze is afgeven het documentnummer van de kentekencard;  
 
 b. de lamineercodes;  
 
@@ -331,20 +331,20 @@ e. de reden van afgifte:
 a. de verantwoordelijke functionarissen van de erkenninghouder of hun vervangers bij de controle aanwezig zijn, en  
 
 b. feitelijke assistentie wordt verleend bij het uitvoeren van de controle. De ter zake door de RDW gegeven aanwijzingen worden in acht genomen.     
-3.  Het toezicht kan tevens inhouden, dat de RDW de erkenninghouder vraagt met betrekking tot een of meer door de RDW aan te wijzen kentekenplaten een testrapport van een door de RDW aangewezen onderzoeksinstelling over te leggen waaruit blijkt dat de kentekenplaten voldoen aan de eisen, gesteld in de [Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md).   
+3.  Het toezicht kan tevens inhouden, dat de RDW de erkenninghouder vraagt met betrekking tot een of meer door de RDW aan te wijzen kentekenplaten een testrapport van een door de RDW aangewezen onderzoeksinstelling over te leggen waaruit blijkt dat de kentekenplaten voldoen aan de eisen, gesteld in de Regeling kentekens en kentekenplaten en de Regeling eisen goedkeuring kentekenplaten 2000.   
 
 ### Artikel  25  
 
 ####Oude machtigingen
 
-1.  Een op de dag vóór die van de inwerkingtreding van de [Wet van 6 oktober 1999, houdende wijziging van de Wegenverkeerswet 1994 met betrekking tot de afgifte en inname van kentekenplaten](../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(afgifte/en/inname/van/kentekenplaten)/BWBR0010759/README.md) (Stb.1999, 459) geldende goedkeuring of machtiging tot het aanbrengen van een keurmerk op kentekenplaten en de daarop op die dag van toepassing zijnde voorschriften blijven tot 1 februari 2003 van kracht ten aanzien van kentekenplaten volgens de modellen 1.1 tot en met 26.1 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md).   
+1.  Een op de dag vóór die van de inwerkingtreding van de Wet van 6 oktober 1999, houdende wijziging van de Wegenverkeerswet 1994 met betrekking tot de afgifte en inname van kentekenplaten (Stb.1999, 459) geldende goedkeuring of machtiging tot het aanbrengen van een keurmerk op kentekenplaten en de daarop op die dag van toepassing zijnde voorschriften blijven tot 1 februari 2003 van kracht ten aanzien van kentekenplaten volgens de modellen 1.1 tot en met 26.1 van de bijlage bij de Regeling kentekens en kentekenplaten.   
 2.  Een goedkeuring of machtiging als bedoeld in het eerste lid vervalt met ingang van de dag waarop aan degene, aan wie de goedkeuring of machtiging is afgegeven, een erkenning wordt verleend.   
 
 ### Artikel  26  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag waarop de [Wet van 6 oktober 1999 houdende wijziging van de Wegenverkeerswet 1994 met betrekking tot de afgifte en inname van kentekenplaten](../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(afgifte/en/inname/van/kentekenplaten)/BWBR0010759/README.md) (Staatsblad 1999, 459) in werking treedt.  
+Deze regeling treedt in werking met ingang van de dag waarop de Wet van 6 oktober 1999 houdende wijziging van de Wegenverkeerswet 1994 met betrekking tot de afgifte en inname van kentekenplaten (Staatsblad 1999, 459) in werking treedt.  
 
 ### Artikel  27  
 

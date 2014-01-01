@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij, van 29 juni 1990, nr. 90010741/3181A, centrale directie Wetgeving en Juridische Zaken;
 
-Gelet op de [artikelen 80, zesde lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [84 *a*, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96 *b*, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96 *c*, eerste en tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96 *p*, derde lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [96 *r*, eerste lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [98, eerste lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [106, eerste en tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [110 *a*, derde lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (*Stb.* 1986, 552);
+Gelet op de artikelen 80, zesde lid, 84 *a*, tweede lid, 96 *b*, tweede lid, 96 *c*, eerste en tweede lid, 96 *p*, derde lid, 96 *r*, eerste lid, 98, eerste lid, 106, eerste en tweede lid, en 110 *a*, derde lid, van de Wet op het voortgezet onderwijs (*Stb.* 1986, 552);
 
 Gehoord de Onderwijsraad (advies van 19 oktober 1989, nr. OR/719 Alg.);
 
@@ -28,13 +28,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*aanvullende bekostiging:* aanvullende bekostiging als bedoeld in [artikel 85a](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 89 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*aanvullende bekostiging:* aanvullende bekostiging als bedoeld in artikel 85a of artikel 89 van de wet;  
 
-*accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+*accountant:* accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
-*bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1 van de wet;  
 
-*bijzondere school:* bijzondere school als bedoeld in [artikel 1 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*bijzondere school:* bijzondere school als bedoeld in artikel 1 van de wet;  
 
 *eerste schooldag:*  
 
@@ -42,11 +42,11 @@ In dit besluit wordt verstaan onder:
 
 2°. bij opening van de school tijdens het schooljaar: de dag waarop het onderwijs aan de school is aangevangen;    
 
-*formatieplaats:* een formatieplaats als bedoeld in [artikel 1 van het Formatiebesluit W.V.O.](../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md);  
+*formatieplaats:* een formatieplaats als bedoeld in artikel 1 van het Formatiebesluit WVO;  
 
-*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap of, voorzover het betreft het landbouwonderwijs, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
-*openbare school:* openbare school als bedoeld in [artikel 1 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*openbare school:* openbare school als bedoeld in artikel 1 van de wet;  
 
 *ouders:* ouders, voogden of verzorgers;  
 
@@ -58,15 +58,15 @@ In dit besluit wordt verstaan onder:
 
 *teldatum:* datum van 1 oktober, bedoeld in artikel 8, tweede lid;  
 
-*uitkering:* een werkloosheidsuitkering, een suppletie inzake arbeidsongeschiktheid alsmede een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), en  
+*uitkering:* een werkloosheidsuitkering, een suppletie inzake arbeidsongeschiktheid alsmede een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet, en  
 
-*wet:*[Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
+*wet:*Wet op het voortgezet onderwijs.    
 
 ### Artikel  2  
 
 ####Opheffing van een school
 
-Het bevoegd gezag doet binnen twee weken na een besluit tot opheffing van de school daarvan mededeling aan Onze Minister, gedeputeerde staten, de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), en indien het een bijzondere school betreft, eveneens aan burgemeester en wethouders van de gemeente waarin de school is gelegen.  
+Het bevoegd gezag doet binnen twee weken na een besluit tot opheffing van de school daarvan mededeling aan Onze Minister, gedeputeerde staten, de inspectie, bedoeld in de Wet op het onderwijstoezicht, en indien het een bijzondere school betreft, eveneens aan burgemeester en wethouders van de gemeente waarin de school is gelegen.  
 
 ### Titel  2  
 
@@ -87,15 +87,15 @@ Het bevoegd gezag doet binnen twee weken na een besluit tot opheffing van de sch
 
 ####Inschrijving
 
-1.  Onverminderd het bepaalde bij of krachtens de [Les- en cursusgeldwet](../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md) schrijft de directeur, rector of centrale directie van een school een leerling slechts in na overlegging van: 
+1.  Onverminderd het bepaalde bij of krachtens de Les- en cursusgeldwet schrijft de directeur, rector of centrale directie van een school een leerling slechts in na overlegging van: 
 
 a. een bewijs van uitschrijving van de leerling van een andere school of een school voor ander onderwijs, welk bewijs op het moment van inschrijving niet ouder is dan zes maanden,  
 
-b. een schriftelijke verklaring van de ouders van de leerling, of van de leerling die meerderjarig en handelingsbekwaam is, dat de leerling binnen een periode van zes maanden voorafgaand aan de inschrijving niet eerder op een andere school, een school voor ander onderwijs of een instelling als bedoeld in [artikel 1, onderdeel c, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) was ingeschreven, of  
+b. een schriftelijke verklaring van de ouders van de leerling, of van de leerling die meerderjarig en handelingsbekwaam is, dat de leerling binnen een periode van zes maanden voorafgaand aan de inschrijving niet eerder op een andere school, een school voor ander onderwijs of een instelling als bedoeld in artikel 1, onderdeel c, van de Leerplichtwet 1969 was ingeschreven, of  
 
-c. een schriftelijke verklaring van de ouders van de leerling, of van de leerling die meerderjarig en handelingsbekwaam is, dat de leerling voorafgaand aan de inschrijving op een instelling als bedoeld in [artikel 1, onderdeel c, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) was ingeschreven en dat deze leerling daar is uitgeschreven.     
+c. een schriftelijke verklaring van de ouders van de leerling, of van de leerling die meerderjarig en handelingsbekwaam is, dat de leerling voorafgaand aan de inschrijving op een instelling als bedoeld in artikel 1, onderdeel c, van de Leerplichtwet 1969 was ingeschreven en dat deze leerling daar is uitgeschreven.     
 2.  Het bewijs van uitschrijving dan wel de verklaring, bedoeld in het eerste lid, onderdeel b of c, wordt bewaard in de administratie van de school.   
-3.  De directeur, rector of centrale directie doet in het geval, bedoeld in het eerste lid, onderdeel a, dan wel in het geval, bedoeld in het eerste lid, onderdeel b, indien hem respectievelijk haar bekend is op welke andere school, school voor ander onderwijs of instelling als bedoeld in [artikel 1, onderdeel c, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) de leerling was ingeschreven buiten de in het eerste lid, onderdeel b, bedoelde periode, dan wel in het geval, bedoeld in het eerste lid, onderdeel c, indien hem respectievelijk haar bekend is op welke instelling als bedoeld in [artikel 1, onderdeel c, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) de leerling was ingeschreven, onder vermelding van de datum van inschrijving op zijn respectievelijk haar school, binnen één week schriftelijk mededeling van de inschrijving aan de directeur, rector of centrale directie van de school, de school voor ander onderwijs of de instelling, bedoeld in [artikel 1, onderdeel c, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), waarop de leerling voordien was ingeschreven.   
+3.  De directeur, rector of centrale directie doet in het geval, bedoeld in het eerste lid, onderdeel a, dan wel in het geval, bedoeld in het eerste lid, onderdeel b, indien hem respectievelijk haar bekend is op welke andere school, school voor ander onderwijs of instelling als bedoeld in artikel 1, onderdeel c, van de Leerplichtwet 1969 de leerling was ingeschreven buiten de in het eerste lid, onderdeel b, bedoelde periode, dan wel in het geval, bedoeld in het eerste lid, onderdeel c, indien hem respectievelijk haar bekend is op welke instelling als bedoeld in artikel 1, onderdeel c, van de Leerplichtwet 1969 de leerling was ingeschreven, onder vermelding van de datum van inschrijving op zijn respectievelijk haar school, binnen één week schriftelijk mededeling van de inschrijving aan de directeur, rector of centrale directie van de school, de school voor ander onderwijs of de instelling, bedoeld in artikel 1, onderdeel c, van de Leerplichtwet 1969, waarop de leerling voordien was ingeschreven.   
 4.  De directeur, rector of centrale directie schrijft de leerling in met ingang van de dag waarop de leerling de school voor het eerst bezoekt.   
 5.  In afwijking van het vierde lid, schrijft de directeur, rector of centrale directie de leerling die de school voor het eerst bezoekt op de eerste schooldag van het schooljaar, in met ingang van 1 augustus van dat schooljaar.   
 
@@ -126,7 +126,7 @@ a. op de teldatum op die school als werkelijk schoolgaand staan ingeschreven, of
 
 b. in bij ministeriële regeling te bepalen gevallen tijdelijk buiten de school waar zij staan ingeschreven zijn geplaatst.     
 2.  Het eerste lid is niet van toepassing op leerlingen die vanaf het begin van het schooljaar tot de teldatum meer dan de helft van het aantal schooldagen zonder geldige reden hebben verzuimd.   
-3.  Voor de toepassing van het tweede lid wordt ten aanzien van de leerplichtige leerling als geldige reden aangemerkt een vrijstelling van geregeld schoolbezoek als bedoeld in de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). Ten aanzien van de niet-leerplichtige leerling worden als geldige reden aangemerkt dezelfde gronden als die welke leiden tot een vrijstelling van geregeld schoolbezoek als bedoeld in de eerste volzin.   
+3.  Voor de toepassing van het tweede lid wordt ten aanzien van de leerplichtige leerling als geldige reden aangemerkt een vrijstelling van geregeld schoolbezoek als bedoeld in de Leerplichtwet 1969. Ten aanzien van de niet-leerplichtige leerling worden als geldige reden aangemerkt dezelfde gronden als die welke leiden tot een vrijstelling van geregeld schoolbezoek als bedoeld in de eerste volzin.   
 4.  Indien de teldatum valt op een dag waarop geen onderwijs wordt gegeven, worden op de eerstvolgende schooldag de leerlingen geteld, die op de teldatum als werkelijk schoolgaand stonden ingeschreven.   
 5.  Een leerling kan slechts op één school voor de bekostiging meetellen.   
 
@@ -134,19 +134,19 @@ b. in bij ministeriële regeling te bepalen gevallen tijdelijk buiten de school 
 
 ####Leerlingen in leerwegondersteunend onderwijs en praktijkonderwijs
 
-1.  Onverminderd artikel 7 wordt een leerling in het op grond van [artikel 69 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigde leerwegondersteunend onderwijs in een schooljaar meegeteld 
+1.  Onverminderd artikel 7 wordt een leerling in het op grond van artikel 69 van de wet bekostigde leerwegondersteunend onderwijs in een schooljaar meegeteld 
 
 a. als leerling in dat onderwijs indien de regionale verwijzingscommissie voor 15 november volgend op de teldatum bepaalt dat betrokkene is aangewezen op leerwegondersteunend onderwijs of toelaatbaar is tot het praktijkonderwijs;  
 
 b. als leerling van de school waaraan dat onderwijs is verbonden, in andere gevallen dan bedoeld onder a.     
-2.  Onverminderd de artikelen 7 en 7b wordt een leerling slechts meegeteld als leerling van een school voor praktijkonderwijs indien de regionale verwijzingscommissie heeft bepaald dat betrokkene toelaatbaar is tot het praktijkonderwijs. In afwijking van de eerste volzin wordt een leerling voor wie de regionale verwijzingscommissie na 1 oktober een afwijzende beschikking heeft afgegeven onverminderd de artikelen 7 en 7b in het jaar van de toelating meegeteld als leerling van een school voor praktijkonderwijs indien is voldaan aan het bepaalde in [artikel 10g, tweede en derde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de leerling gedurende dat jaar onderwijs blijft volgen aan de school voor praktijkonderwijs of een andere school.   
+2.  Onverminderd de artikelen 7 en 7b wordt een leerling slechts meegeteld als leerling van een school voor praktijkonderwijs indien de regionale verwijzingscommissie heeft bepaald dat betrokkene toelaatbaar is tot het praktijkonderwijs. In afwijking van de eerste volzin wordt een leerling voor wie de regionale verwijzingscommissie na 1 oktober een afwijzende beschikking heeft afgegeven onverminderd de artikelen 7 en 7b in het jaar van de toelating meegeteld als leerling van een school voor praktijkonderwijs indien is voldaan aan het bepaalde in artikel 10g, tweede en derde lid, van de wet en de leerling gedurende dat jaar onderwijs blijft volgen aan de school voor praktijkonderwijs of een andere school.   
 
 ### Artikel  7b  
 
 ####Leerlingen binnen samenwerkingsovereenkomst VO-BVE
 
-1.  Leerlingen als bedoeld in de [artikelen 2](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) en [3 van het Besluit samenwerking VO-BVE](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) worden aangemerkt als leerlingen die op de teldatum als werkelijk schoolgaand zijn ingeschreven, als bedoeld in artikel 7, eerste lid. Het bepaalde in artikel 7, eerste, tweede en derde lid, over verzuim is van overeenkomstige toepassing.   
-2.  In afwijking van het eerste lid, eerste volzin, tellen leerlingen die zijn afgewezen voor een eindexamen als bedoeld in [artikel 29 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en aansluitend op grond van [artikel 3 van het Besluit samenwerking VO-BVE](../../../../AMvB/besluit/samenwerking/vo-bve/BWBR0019143/README.md) voor een of meer vakken voortgezet algemeen volwassenenonderwijs volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee, met dien verstande dat zij volledig meetellen voor de bepaling van de hoogte van de bekostiging indien het betreft lesmateriaal als bedoeld in [artikel 6e van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  Leerlingen als bedoeld in de artikelen 2 en 3 van het Besluit samenwerking VO-BVE worden aangemerkt als leerlingen die op de teldatum als werkelijk schoolgaand zijn ingeschreven, als bedoeld in artikel 7, eerste lid. Het bepaalde in artikel 7, eerste, tweede en derde lid, over verzuim is van overeenkomstige toepassing.   
+2.  In afwijking van het eerste lid, eerste volzin, tellen leerlingen die zijn afgewezen voor een eindexamen als bedoeld in artikel 29 van de wet en aansluitend op grond van artikel 3 van het Besluit samenwerking VO-BVE voor een of meer vakken voortgezet algemeen volwassenenonderwijs volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee, met dien verstande dat zij volledig meetellen voor de bepaling van de hoogte van de bekostiging indien het betreft lesmateriaal als bedoeld in artikel 6e van de wet.   
 
 ### Hoofdstuk  2  
 
@@ -160,20 +160,20 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 
 ####Vaststelling van het bedrag voor personeels- en exploitatiekosten
 
-1.  Onze Minister stelt jaarlijks het bedrag, bedoeld in [artikel 96d, eerste lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet vast. Het bedrag heeft betrekking op een kalenderjaar.   
-2.  Bij de vaststelling van het in [artikel 96d, eerste lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet bedoelde bedrag, neemt Onze Minister wat het aantal leerlingen betreft in aanmerking het aantal leerlingen dat op 1 oktober van het jaar, voorafgaand aan het jaar waarop het in de eerste volzin bedoeld bedrag betrekking heeft, als werkelijk schoolgaand aan de school stond ingeschreven, onverminderd artikel 7.   
-3.  Het Rijk betaalt elke maand van het kalenderjaar in verband met de kosten voor het personeel en voor de voorzieningen ten behoeve van de exploitatie aan het bevoegd gezag van een school een gedeelte van het bedrag, bedoeld in [artikel 96d, eerste lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet, waarop het over dat jaar recht heeft.   
-4.  Onze Minister kan op het in het eerste lid bedoelde bedrag in mindering brengen, verwachte bedragen als bedoeld in [artikel 96m, tweede lid, onder a tot en met d](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet.   
+1.  Onze Minister stelt jaarlijks het bedrag, bedoeld in artikel 96d, eerste lid, van de wet vast. Het bedrag heeft betrekking op een kalenderjaar.   
+2.  Bij de vaststelling van het in artikel 96d, eerste lid, van de wet bedoelde bedrag, neemt Onze Minister wat het aantal leerlingen betreft in aanmerking het aantal leerlingen dat op 1 oktober van het jaar, voorafgaand aan het jaar waarop het in de eerste volzin bedoeld bedrag betrekking heeft, als werkelijk schoolgaand aan de school stond ingeschreven, onverminderd artikel 7.   
+3.  Het Rijk betaalt elke maand van het kalenderjaar in verband met de kosten voor het personeel en voor de voorzieningen ten behoeve van de exploitatie aan het bevoegd gezag van een school een gedeelte van het bedrag, bedoeld in artikel 96d, eerste lid, van de wet, waarop het over dat jaar recht heeft.   
+4.  Onze Minister kan op het in het eerste lid bedoelde bedrag in mindering brengen, verwachte bedragen als bedoeld in artikel 96m, tweede lid, onder a tot en met d, van de wet.   
 5.  In geval van oprichting, verplaatsing of splitsing van een school kan Onze Minister afwijken van de teldatum en de op die afwijkende datum getelde leerlingen toerekenen aan de nieuwe scholen. Hij kan daarbij nadere voorschriften geven.   
 
 ### Artikel  8a  
 
 ####Vaststelling bedrag leerlinggebonden budget
 
-1.  Voor elke leerling met een leerlinggebonden budget, dat beschikbaar is op grond van [artikel 77a van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), die op de school is ingeschreven wordt een bedrag verstrekt volgens de onderstaande tabel:  
+1.  Voor elke leerling met een leerlinggebonden budget, dat beschikbaar is op grond van artikel 77a van de wet, die op de school is ingeschreven wordt een bedrag verstrekt volgens de onderstaande tabel:  
 
 | Toelaatbaar verklaard tot voortgezet speciaal onderwijs aan/van:  | Bedrag LWOO/PRO exclusief her te besteden bedragen  (prijspeil 1-8-2009)  | Bedrag Overig VO exclusief her te besteden bedragen  (prijspeil 1-8-2009)  | Her te besteden bedrag Personele bekostiging  (prijspeil 1-8-2009)  | Her te besteden bedrag Materiële bekostiging  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | a. dove kinderen  | € 2.434,03  | € 3.158,46  | € 5.159,87  | € 558  |
 | b. slechthorende kinderen  | € 1.564,73  | € 3.158,46  | € 3.337,35  | € 216  |
 | c. lichamelijk gehandicapte kinderen  | € 1.593,71  | € 3.158,46  | € 4.458,13  | € 405  |
@@ -189,18 +189,18 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 Per 1 augustus 2012:   
 
 | Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO exclusief her te besteden bedragen  | Bedrag overig VO exclusief her te besteden bedragen  | Her te besteden bedrag personele bekostiging  | Her te besteden bedrag materiële bekostiging  |
-|:---|:---|:---|:---|:---|
-| a. dove kinderen  | € 2.477,42  | € 3.214,76  | € 5.286,36  | € 580  |
-| b. slechthorende kinderen  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 224  |
-| c. lichamelijk gehandicapte kinderen  | € 1.622,12  | € 3.214,76  | € 4.564,94  | € 421  |
-| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 246  |
-| e. zeer moeilijk lerende kinderen  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 134  |
-| f. cluster 4  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 246  |
+|---|---|---|---|---|
+| a. dove kinderen  | € 2.480,13  | € 3.218,27  | € 5.292,15  | € 580  |
+| b. slechthorende kinderen  | € 1.594,36  | € 3.218,27  | € 3.422,90  | € 224  |
+| c. lichamelijk gehandicapte kinderen  | € 1.623,89  | € 3.218,27  | € 4.569,94  | € 421  |
+| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.594,36  | € 3.218,27  | € 2.955,59  | € 246  |
+| e. zeer moeilijk lerende kinderen  | € 1.594,36  | € 3.218,27  | € 2.955,59  | € 134  |
+| f. cluster 4  | € 1.594,36  | € 3.218,27  | € 2.955,59  | € 246  |
 | g. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 285  |
-| Doof en blind  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 285  |
-| Slechthorend en zeer moeilijk lerend  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 285  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 246  |
+| Doof en zeer moeilijk lerend  | € 1.594,36  | € 3.218,27  | € 3.422,90  | € 285  |
+| Doof en blind  | € 1.594,36  | € 3.218,27  | € 3.422,90  | € 285  |
+| Slechthorend en zeer moeilijk lerend  | € 1.594,36  | € 3.218,27  | € 3.422,90  | € 285  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.594,36  | € 3.218,27  | € 2.955,59  | € 246  |
 
 2.  De bedragen, bedoeld in het eerste lid, worden jaarlijks per 1 augustus, telkens te rekenen met het laatstelijk aangepaste bedrag, bij ministeriële regeling aangepast aan de ontwikkeling van de gemiddelde personeelslasten in het speciaal onderwijs en het voortgezet speciaal onderwijs in het voorafgaande kalenderjaar.   
 
@@ -208,7 +208,7 @@ Per 1 augustus 2012:
 
 ####Vaststelling bedrag maatschappelijke stage
 
-1.  De hoogte van het bedrag, bedoeld in [artikel 85, vierde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dat per schooljaar in verband met de maatschappelijke stage, bedoeld in [artikel 6f van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt verstrekt is: 
+1.  De hoogte van het bedrag, bedoeld in artikel 85, vierde lid, van de wet, dat per schooljaar in verband met de maatschappelijke stage, bedoeld in artikel 6f van de wet, wordt verstrekt is: 
 
 a. voor elke leerling die op de school in één van de eerste vier leerjaren is ingeschreven € 70;  
 
@@ -222,14 +222,14 @@ b. voor elke leerling die op de school in het vijfde of zesde leerjaar is ingesc
 
 ####Vaststelling van de aanvullende bekostiging personeels- en exploitatiekosten
 
-1.  Onze Minister stelt het bedrag, bedoeld in [artikel 96d, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet, vast.   
+1.  Onze Minister stelt het bedrag, bedoeld in artikel 96d, tweede lid, van de wet, vast.   
 2.  Het bedrag wordt in een keer betaald dan wel wordt betaald volgens een door Onze Minister te bepalen kasritme.   
 
 ### Artikel  10  
 
 ####Bekostiging deel exploitatiekosten voorafgaand aan volledige bekostiging
 
-Het Rijk bekostigt de exploitatiekosten met ingang van de eerste schooldag van een school waarvan het bekostigd onderwijs op grond van [afdeling I van titel III van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) een aanvang neemt. Onze Minister kan op verzoek van het bevoegd gezag een door hem te bepalen deel van de exploitatiekosten gedurende een periode van ten hoogste vier maanden voor de eerste schooldag voor bekostiging in aanmerking brengen.  
+Het Rijk bekostigt de exploitatiekosten met ingang van de eerste schooldag van een school waarvan het bekostigd onderwijs op grond van afdeling I van titel III van de wet een aanvang neemt. Onze Minister kan op verzoek van het bevoegd gezag een door hem te bepalen deel van de exploitatiekosten gedurende een periode van ten hoogste vier maanden voor de eerste schooldag voor bekostiging in aanmerking brengen.  
 
 ### Titel  2  
 
@@ -243,10 +243,10 @@ Het Rijk bekostigt de exploitatiekosten met ingang van de eerste schooldag van e
 
 ####Terugmelding gegevens aantal leerlingen op de teldatum; accountantscontrole
 
-1.  Ten behoeve van de vaststelling van de bekostiging, bedoeld in artikel 8, doet Onze Minister aan het bevoegd gezag jaarlijks voor 15 januari volgend op de teldatum overzichten toekomen van de gegevens, bedoeld in [artikel 103b, tweede lid, onderdelen b, c, d, e, h en i, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging voor het daarop volgende kalenderjaar in aanmerking wordt genomen.   
+1.  Ten behoeve van de vaststelling van de bekostiging, bedoeld in artikel 8, doet Onze Minister aan het bevoegd gezag jaarlijks voor 15 januari volgend op de teldatum overzichten toekomen van de gegevens, bedoeld in artikel 103b, tweede lid, onderdelen b, c, d, e, h en i, van de wet, over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging voor het daarop volgende kalenderjaar in aanmerking wordt genomen.   
 2.  Het bevoegd gezag dient jaarlijks voor 1 juli bij Onze Minister voor het daaropvolgende schooljaar in: 
 
-a. een verklaring van het bevoegd gezag omtrent de juistheid van de gegevens, bedoeld in [artikel 103b, tweede lid, onderdelen b, c, d, e, h en i, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de leerlingen op de teldatum die het aan Onze Minister heeft gemeld, of  
+a. een verklaring van het bevoegd gezag omtrent de juistheid van de gegevens, bedoeld in artikel 103b, tweede lid, onderdelen b, c, d, e, h en i, van de wet, van de leerlingen op de teldatum die het aan Onze Minister heeft gemeld, of  
 
 b. indien de onder a bedoelde gegevens naar het oordeel van het bevoegd gezag onjuist zijn, de door het bevoegd gezag gecorrigeerde gegevens, alsmede  
 
@@ -269,7 +269,7 @@ c. een verklaring van een accountant omtrent de juistheid van de gegevens, bedoe
 
 ####Berekeningswijze rijksbijdrage voor taken kenniscentra beroepsonderwijs bedrijfsleven inzake leer-werktrajecten vmbo
 
-De rijksbijdrage, bedoeld in [artikel 10b5, tweede lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) omvat een bij ministeriële regeling vast te stellen bedrag per leer-werkovereenkomst als bedoeld in [artikel 10b3 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) waarbij het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven partij is, welke overeenkomst is gesloten in het schooljaar voorafgaand aan het jaar waarop de rijksbijdrage betrekking heeft. Per leerling per leer-werkplek telt niet meer dan één leer-werkovereenkomst mee in de berekening van de rijksbijdrage op grond van de eerste volzin.  
+De rijksbijdrage, bedoeld in artikel 10b5, tweede lid, van de wet omvat een bij ministeriële regeling vast te stellen bedrag per leer-werkovereenkomst als bedoeld in artikel 10b3 van de wet waarbij het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven partij is, welke overeenkomst is gesloten in het schooljaar voorafgaand aan het jaar waarop de rijksbijdrage betrekking heeft. Per leerling per leer-werkplek telt niet meer dan één leer-werkovereenkomst mee in de berekening van de rijksbijdrage op grond van de eerste volzin.  
 
 ### Hoofdstuk  2b  
 
@@ -279,10 +279,10 @@ De rijksbijdrage, bedoeld in [artikel 10b5, tweede lid, van de wet](../../../../
 
 ####Vermindering bekostiging
 
-1.  Onze Minister brengt op de bekostiging, bedoeld in [artikel 96m, eerste lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor een school voor een kalenderjaar een bedrag in mindering volgens de volgende formule: (PI/PL) x (A + B + C + D) In deze formule wordt verstaan onder: PI: de bekostiging voor personeelskosten, bedoeld in [Titel III, afdeling II, hoofdstuk II, paragraaf 2 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor zover gebaseerd op de formatieplaatsen, van de desbetreffende school voor het desbetreffende kalenderjaar; PL: de bekostiging voor personeelskosten, bedoeld in [Titel III, afdeling II, hoofdstuk II, paragraaf 2 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor zover gebaseerd op de formatieplaatsen, van de scholen voor het desbetreffende kalenderjaar; A: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de scholen voortvloeiend uit een ontslag dat is geëffectueerd voor 1 augustus 1995; B: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de scholen voortvloeiend uit een ontslag dat is geëffectueerd in de periode tussen 31 juli 1995 en 1 januari 2007 en waarvoor de rechtspersoon, bedoeld in [artikel 98b van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), zoals luidend op 31 december 2006, heeft ingestemd op grond van [artikel 96o, derde lid, tweede volzin, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), zoals luidend op 31 december 2006, met het ten laste van bedoelde rechtspersoon brengen van de kosten van deze uitkeringen; C: een bij ministeriële regeling vast te stellen percentage van de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de scholen voortvloeiend uit een ontslag dat is geëffectueerd op of na 1 januari 2007, waarbij ten aanzien van de verschillende soorten uitkeringen verschillende percentages kunnen worden vastgesteld; D: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van een school die de taken beëindigt, anders dan op grond van een samenvoeging, een bestuursoverdracht als bedoeld in [artikel 42c van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) indien het een openbare school betreft, en [artikel 50 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) indien het een bijzondere school betreft, of een splitsing, indien het bevoegd gezag van deze school niet tevens een andere school onder zijn bestuur heeft.   
+1.  Onze Minister brengt op de bekostiging, bedoeld in artikel 96m, eerste lid, van de wet voor een school voor een kalenderjaar een bedrag in mindering volgens de volgende formule: (PI/PL) x (A + B + C + D) In deze formule wordt verstaan onder: PI: de bekostiging voor personeelskosten, bedoeld in Titel III, afdeling II, hoofdstuk II, paragraaf 2 van de wet, voor zover gebaseerd op de formatieplaatsen, van de desbetreffende school voor het desbetreffende kalenderjaar; PL: de bekostiging voor personeelskosten, bedoeld in Titel III, afdeling II, hoofdstuk II, paragraaf 2 van de wet, voor zover gebaseerd op de formatieplaatsen, van de scholen voor het desbetreffende kalenderjaar; A: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de scholen voortvloeiend uit een ontslag dat is geëffectueerd voor 1 augustus 1995; B: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de scholen voortvloeiend uit een ontslag dat is geëffectueerd in de periode tussen 31 juli 1995 en 1 januari 2007 en waarvoor de rechtspersoon, bedoeld in artikel 98b van de wet, zoals luidend op 31 december 2006, heeft ingestemd op grond van artikel 96o, derde lid, tweede volzin, van de wet, zoals luidend op 31 december 2006, met het ten laste van bedoelde rechtspersoon brengen van de kosten van deze uitkeringen; C: een bij ministeriële regeling vast te stellen percentage van de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de scholen voortvloeiend uit een ontslag dat is geëffectueerd op of na 1 januari 2007, waarbij ten aanzien van de verschillende soorten uitkeringen verschillende percentages kunnen worden vastgesteld; D: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van een school die de taken beëindigt, anders dan op grond van een samenvoeging, een bestuursoverdracht als bedoeld in artikel 42c van de wet indien het een openbare school betreft, en artikel 50 van de wet indien het een bijzondere school betreft, of een splitsing, indien het bevoegd gezag van deze school niet tevens een andere school onder zijn bestuur heeft.   
 2.  Onze Minister brengt tevens op de bekostiging van een school voor het in het eerste lid bedoelde kalenderjaar in mindering: 
 
-a. de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de desbetreffende school voortvloeiend uit een ontslag dat is geëffectueerd in de periode tussen 31 juli 1995 en 1 januari 2007 en waarvoor de rechtspersoon, bedoeld in [artikel 98b van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), zoals luidend op 31 december 2006, niet heeft ingestemd op grond van [artikel 96o, derde lid, tweede volzin, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), zoals luidend op 31 december 2006, met het ten laste van bedoelde rechtspersoon brengen van de kosten van deze uitkeringen, en  
+a. de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de desbetreffende school voortvloeiend uit een ontslag dat is geëffectueerd in de periode tussen 31 juli 1995 en 1 januari 2007 en waarvoor de rechtspersoon, bedoeld in artikel 98b van de wet, zoals luidend op 31 december 2006, niet heeft ingestemd op grond van artikel 96o, derde lid, tweede volzin, van de wet, zoals luidend op 31 december 2006, met het ten laste van bedoelde rechtspersoon brengen van de kosten van deze uitkeringen, en  
 
 b. een bij ministeriële regeling vast te stellen percentage van de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen personeel van de desbetreffende school voortvloeiend uit een ontslag dat is geëffectueerd op of na 1 januari 2007, waarbij het percentage bedoeld in het eerste lid, onder C, en het in dit onderdeel bedoelde percentage samen 100 bedraagt.     
 3.  De uitkomsten van de in het eerste en tweede lid bedoelde berekeningen worden rekenkundig afgerond op hele eurocenten.   
@@ -343,13 +343,6 @@ b. een bij ministeriële regeling vast te stellen percentage van de kosten van d
 5.  Bij ministeriële regeling wordt een model voor de inrichting van de jaarrekening vastgesteld.   
 6.  Onze Minister kan een leidraad vaststellen met betrekking tot de inrichting en de uitvoering van de controle door de accountant.   
 
-### Artikel  19  
-
-####Onderzoek vanwege de minister
-
-1.  De accountant die door Onze Minister is belast met het onderzoek van de jaarrekening en met het onderzoek van de juistheid van de gegevens, bedoeld in artikel 14a, tweede en vierde lid, en artikel 15b, zesde en achtste lid, heeft met het oog op het verrichten van dat onderzoek toegang tot elke school. Aan de accountant wordt desgevraagd inzage in de boeken en bescheiden gegeven en worden alle inlichtingen verstrekt die deze voor de uitvoering van zijn taak nodig oordeelt.   
-2.  Onze Minister kan naast het accountantsonderzoek, bedoeld in het eerste lid, een onderzoek instellen of doen instellen naar de jaarrekening en naar de gegevens, bedoeld in artikel 14a, tweede en vierde lid, en artikel 15b, zesde en achtste lid, naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de school. Het bevoegd gezag verstrekt aan degene die door Onze Minister met het onderzoek is belast, alle inlichtingen die deze voor de uitvoering van zijn taak nodig oordeelt en geeft desgevraagd inzage in de boeken en bescheiden.   
-
 ### Artikel  20  
 
 ####Verstrekking gegevens i.v.m. aanvullende bekostiging
@@ -359,17 +352,17 @@ b. een bij ministeriële regeling vast te stellen percentage van de kosten van d
 
 ### Artikel  21  
 
-####Correctie op bekostiging
+####Onderzoek vanwege de minister en correctie en in mindering brengen op de bekostiging
 
-1.  Indien uit een op grond van artikel 19, eerste of tweede lid, ingesteld onderzoek blijkt dat de omvang van de bekostiging of aanvullende bekostiging voor een school onjuist is vastgesteld, kan Onze Minister tot uiterlijk één jaar na ontvangst van de bevindingen uit dat onderzoek correcties aanbrengen op de desbetreffende bekostiging of aanvullende bekostiging. Onze Minister deelt het bevoegd gezag uiterlijk één jaar na ontvangst van deze bevindingen schriftelijk mede of en zo ja welke correcties hij aanbrengt.   
-2.  Indien uit de jaarrekening, uit de in artikel 18, derde lid, bedoelde verklaring van de accountant of uit op grond van artikel 19 ingesteld onderzoek blijkt dat de bekostiging of aanvullende bekostiging voor een school waarop de jaarrekening betrekking heeft, onrechtmatig is besteed of ondoelmatig is aangewend, kan Onze Minister bepalen dat het desbetreffende gedeelte van de bekostiging of aanvullende bekostiging niet ten laste komt van het Rijk of dat de daarmee gemoeide bedragen in mindering worden gebracht op de bekostiging respectievelijk aanvullende bekostiging. Onze Minister doet hiervan binnen een jaar na de ontvangst van de jaarrekening, respectievelijk binnen een jaar na ontvangst van de bevindingen uit dat onderzoek, schriftelijk mededeling aan het bevoegd gezag.   
-3.  Indien daarvoor naar zijn oordeel aanleiding is, kan Onze Minister de in het eerste lid bedoelde termijn waarbinnen correcties kunnen worden aangebracht, alsmede de in het tweede lid bedoelde termijn, met ten hoogste een jaar verlengen.   
+1.  Onverminderd de bevoegdheid van de Inspectie van het onderwijs op grond van de Wet op het onderwijstoezicht kan Onze Minister een onderzoek instellen of doen instellen naar de jaarverslaggeving, naar de gegevens die noodzakelijk zijn voor de vaststelling van de bekostiging, naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de school.   
+2.  Indien uit een op grond van het eerste lid ingesteld onderzoek blijkt dat de bekostiging voor een school onjuist is vastgesteld, kan Onze Minister correcties aanbrengen op de bekostiging. Onze Minister doet het bevoegd gezag schriftelijk mededeling van een besluit tot het aanbrengen van een correctie op de bekostiging.   
+3.  Indien uit de jaarverslaggeving, bedoeld in artikel 103, eerste lid, van de wet, uit de verklaring van de accountant, bedoeld in artikel 103, vierde lid, van de wet of uit een op grond van het eerste lid ingesteld onderzoek blijkt dat de bekostiging voor een school onrechtmatig is besteed of ondoelmatig is aangewend, kan Onze Minister bepalen dat het desbetreffende gedeelte van de bekostiging niet ten laste komt van het Rijk of dat de daarmee gemoeide bedragen in mindering worden gebracht op de bekostiging, onverminderd artikel 4:49 van de Algemene wet bestuursrecht.   
 
 ### Artikel  22  
 
-####Verrekening of betaling i.v.m. correcties
+####Betaling i.v.m. correcties
 
-Een in artikel 21, eerste lid, bedoelde correctie wordt, indien de correctie strekt tot verhoging van de bekostiging respectievelijk aanvullende bekostiging, binnen acht weken na de mededeling, bedoeld in artikel 21, eerste lid, door Onze Minister betaald.  
+Een in artikel 21, tweede lid, bedoelde correctie wordt, indien de correctie strekt tot verhoging van de bekostiging, binnen acht weken na de mededeling, bedoeld in artikel 21, tweede lid, door Onze Minister betaald.  
 
 ### Hoofdstuk  4  
 
@@ -379,13 +372,13 @@ Een in artikel 21, eerste lid, bedoelde correctie wordt, indien de correctie str
 
 ####Dóórlopen bekostiging in geval van samenvoeging of afsplitsing per 1 augustus
 
-Bij samenvoeging van scholen als bedoeld in [artikel 71, tweede of derde lid, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of afsplitsing van een of meer scholen van een scholengemeenschap als bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), op 1 augustus van enig kalenderjaar worden: 
+Bij samenvoeging van scholen als bedoeld in artikel 71, tweede of derde lid, van de wet of afsplitsing van een of meer scholen van een scholengemeenschap als bedoeld in artikel 72, derde lid, onderdeel c, van de wet, op 1 augustus van enig kalenderjaar worden: 
 
-a. de bekostiging van de personeelskosten op grond van de [artikelen 84](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [84b van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+a. de bekostiging van de personeelskosten op grond van de artikelen 84 en 84b van de wet,  
 
-b. de bekostiging van de exploitatiekosten op grond van [artikel 86 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
+b. de bekostiging van de exploitatiekosten op grond van artikel 86 van de wet, en  
 
-c. aanvullende bekostiging op grond van de [artikelen 85a](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [89 van de wet](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van alle bij de samenvoeging betrokken scholen dan wel van de bij de afsplitsing betrokken scholengemeenschap gehandhaafd tot het einde van dat kalenderjaar.    
+c. aanvullende bekostiging op grond van de artikelen 85a of 89 van de wet, van alle bij de samenvoeging betrokken scholen dan wel van de bij de afsplitsing betrokken scholengemeenschap gehandhaafd tot het einde van dat kalenderjaar.    
 
 ### Hoofdstuk  5  
 
@@ -398,7 +391,7 @@ c. aanvullende bekostiging op grond van de [artikelen 85a](../../../../wet/wet/o
 1.  Indien een school wordt opgeheven anders dan in verband met samenvoeging met een andere school of de aanspraak op bekostiging voor een school verloren gaat, stort het bevoegd gezag het exploitatie-overschot terug in ’s Rijks kas. Het neemt daarbij het derde lid in acht.   
 2.  Voor de toepassing van dit artikel wordt onder exploitatie-overschot verstaan: 
 
-a. het bedrag van de bekostiging, bedoeld in [artikel 96m, eerste lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet, verminderd met de lasten over dat jaar voor zover deze als rechtmatig kunnen worden aangemerkt,  
+a. het bedrag van de bekostiging, bedoeld in artikel 96m, eerste lid, van de wet, verminderd met de lasten over dat jaar voor zover deze als rechtmatig kunnen worden aangemerkt,  
 
 b. de reserveringen voor zover afkomstig uit ’s Rijks kas, met inbegrip van de ontvangen rentebaten, en  
 
@@ -409,7 +402,7 @@ c. voor zover het een bijzondere school betreft, de niet bestede gedeelten van d
 
 ####Geen bedrag per school in bekostiging exploitatiekosten voor scholen voortgezet onderwijs in verticale scholengemeenschappen
 
-Indien een of meer scholen voor voortgezet onderwijs deel uitmaken van een scholengemeenschap als bedoeld in [artikel 2.6 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), geldt wat de grondslag en de wijze van bekostiging van de exploitatiekosten betreft dat in afwijking van [artikel 86, derde lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), van de wet niet worden verstrekt de bedragen, bedoeld onder a en b van dat lid.  
+Indien een of meer scholen voor voortgezet onderwijs deel uitmaken van een scholengemeenschap als bedoeld in artikel 2.6 van de Wet educatie en beroepsonderwijs, geldt wat de grondslag en de wijze van bekostiging van de exploitatiekosten betreft dat in afwijking van artikel 86, derde lid, van de wet niet worden verstrekt de bedragen, bedoeld onder a en b van dat lid.  
 
 ### Hoofdstuk  6  
 

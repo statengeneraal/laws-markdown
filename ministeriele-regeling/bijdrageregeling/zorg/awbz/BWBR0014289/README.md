@@ -3,78 +3,59 @@
 ##Bijdrageregeling zorg AWBZ
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 6, eerste lid, onderdeel b, subonderdeel 2](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), [16f](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), [19](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) en [25, derde lid, van het Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) en [artikel 2b van het Vergoedingenbesluit particulier verzekerden](../../../../../AMvB/vergoedingenbesluit/particulier/verzekerden/BWBR0003935/README.md);
+Gelet op de artikelen 6, eerste lid, onderdeel b, subonderdeel 2, 16f, 19 en 25, derde lid, van het Bijdragebesluit zorg en artikel 2b van het Vergoedingenbesluit particulier verzekerden;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder Bijdragebesluit: [Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md)  
+In deze regeling wordt verstaan onder Bijdragebesluit: Bijdragebesluit zorg.  
 
 ### Artikel  2  
 
-In gevolge [artikel 6, eerste lid, onderdeel b, subonderdeel 2, van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) wordt in verband met zak- en kleedgeld in mindering gebracht: 
+In gevolge artikel 6, eerste lid, onderdeel b, subonderdeel 2, van het Bijdragebesluit wordt in verband met zak- en kleedgeld in mindering gebracht: 
 
-a. voor de ongehuwde verzekerde: € 3 446;  
+a. voor de ongehuwde verzekerde: € 3.556;  
 
-b. voor de gehuwde verzekerden tezamen: € 5 359.    
+b. voor de gehuwde verzekerden tezamen: € 5.530.    
 
 ### Artikel  3  
 
-1.  Ingevolge [artikel 6, eerste lid, onderdeel b, subonderdeel 2°, van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) worden in verband met de premie zorgverzekering in mindering gebracht: 
+1.  Ingevolge artikel 6, eerste lid, onderdeel b, subonderdeel 2°, van het Bijdragebesluit worden in verband met de premie zorgverzekering in mindering gebracht: 
 
-a. voor de ongehuwde verzekerde die 65 jaar of ouder is: € 1 486,16 vermeerderd met 4,8% van het inkomen, met dien verstande dat minimaal € 2 119,67 en maximaal € 3 039,87 in mindering wordt gebracht;  
+a. voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt: € 1.713,98 vermeerderd met 5% van het inkomen, met dien verstande dat minimaal € 2.399,66 en maximaal € 4.217,18 in mindering wordt gebracht;  
 
-b. voor de ongehuwde verzekerde die jonger is dan 65 jaar: € 1 209 vermeerderd met 6,9% van het inkomen dat is vermenigvuldigd met 1 gedeeld door 1,069, met dien verstande dat maximaal € 3 442,46 in mindering wordt gebracht;  
+b. voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt: € 1.426 vermeerderd met 7,10% van het inkomen dat is vermenigvuldigd met 1 gedeeld door 1,0710, met dien verstande dat maximaal € 4.980,54 in mindering wordt gebracht;  
 
-c. voor de gehuwde verzekerden die beiden 65 jaar en ouder zijn: voor ieder van de gehuwde verzekerden € 1 402,38 vermeerderd met 4,8% van het inkomen van die gehuwde verzekerde,met dien verstande dat voor ieder van de gehuwde verzekerden minimaal € 1 844,38 en maximaal € 2 956,09 in mindering wordt gebracht;  
+c. voor de gehuwde verzekerden die beiden de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt: voor ieder van de gehuwde verzekerden € 1.626,87 vermeerderd met 5% van het inkomen van die gehuwde verzekerde,met dien verstande dat voor ieder van de gehuwde verzekerden minimaal € 2.105,14 en maximaal € 4.130,07 in mindering wordt gebracht;  
 
-d. voor de gehuwden verzekerden die beiden jonger zijn dan 65 jaar wordt de aftrek voor ieder van de gehuwde verzekerden overeenkomstig onderdeel b berekend en geldt voor ieder van de gehuwde verzekerden het daarin genoemde maximumbedrag;  
+d. voor de gehuwde verzekerden die beiden de pensioengerechtigde leeftijd, bedoeld in artikel 7a eerste lid, van de Algemene Ouderdomswet, nog niet hebben bereikt wordt de aftrek voor ieder van de gehuwde verzekerden overeenkomstig onderdeel b berekend en geldt voor ieder van de gehuwde verzekerden het daarin genoemde maximumbedrag;  
 
-e. voor de overige gehuwden verzekerden wordt de aftrek voor de gehuwde verzekerde die jonger is dan 65 jaar berekend overeenkomstig de in onderdeel b geregelde berekeningswijze en geldt het daarbij genoemde maximumbedrag en voor de gehuwde verzekerde die 65 jaar of ouder is overeenkomstig de in onderdeel c geregelde berekeningswijze en geldt het daarbij genoemde maximum- en minimumbedrag.     
+e. voor de overige gehuwde verzekerden wordt de aftrek: 
+
+1°. voor de gehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, berekend overeenkomstig de in onderdeel b geregelde berekeningswijze en geldt het daarbij genoemde maximumbedrag;  
+
+2°. voor de gehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt berekend overeenkomstig de in onderdeel c geregelde berekeningswijze en geldt het daarbij genoemde maximum- en minimumbedrag.       
 2.  Indien de verzekerde op 1 januari van het peiljaar aanspraak had op een zorgtoeslag wordt op de aftrek, bedoeld in het eerste lid, in mindering gebracht: 
 
-a. voor de verzekerde die ongehuwd is: een bedrag van € 692, met dien verstande dat als zijn inkomen € 19 135 of meer bedraagt dit bedrag wordt verminderd met 5% van het verschil tussen zijn inkomen en € 19 135;  
+a. voor de verzekerde die ongehuwd is: een bedrag van € 838, met dien verstande dat als zijn inkomen € 20.079 of meer bedraagt dit bedrag wordt verminderd met 5,435% van het verschil tussen zijn inkomen en € 20.079;  
 
-b. voor de verzekerden die gehuwd zijn: een bedrag van € 1 461 met dien verstande dat indien hun gezamenlijke inkomen € 19 135 of meer bedraagt dit bedrag wordt verminderd met 5% van het verschil tussen hun gezamenlijke inkomen en € 19 135.     
+b. voor de verzekerden die gehuwd zijn: een bedrag van € 1.742 met dien verstande dat indien hun gezamenlijke inkomen € 20.079 of meer bedraagt dit bedrag wordt verminderd met 5,435% van het verschil tussen hun gezamenlijke inkomen en € 20.079.     
 
 ### Artikel  4  
 
-In gevolge [artikel 6, eerste lid, onderdeel b, subonderdeel 2, van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) wordt in verband met een jonghandicaptenkorting in mindering gebracht: 
+Ingevolge artikel 6, eerste lid, onderdeel b, subonderdeel 2°, wordt in mindering gebracht: 
 
-a. voor de ongehuwde verzekerde die recht heeft op arbeidsondersteuning of op toekenning van een arbeidsongeschiktheidsuitkering op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md): € 678;  
+a. voor de verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt: € 1.700;  
 
-b. voor de gehuwde verzekerde, indien een van hen of beiden recht heeft op arbeidsondersteuning of op toekenning van een arbeidsongeschiktheidsuitkering op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), tezamen: € 1 356.    
+b. voor de verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt: € 950.    
 
 ### Artikel  5  
 
-In gevolge [artikel 6, eerste lid, onderdeel b, subonderdeel 2, van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) wordt in verband met een ouderenkorting in mindering gebracht: 
-
-a. voor de ongehuwde verzekerde die 65 jaar of ouder is: € 637;  
-
-b. voor de gehuwde verzekerde indien beiden of een van beiden 65 jaar of ouder zijn of is en geen beiden in het peiljaar op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) recht op arbeidsondersteuning of op toekenning van een arbeidsongeschiktheidsuitkering heeft, tezamen: € 1 069.    
-
-### Artikel  6  
-
-1.  Voor verzekerden die 65 jaar of ouder zijn, worden de volgende extra vrijlatingen in mindering gebracht: 
-
-a. indien het bijdrageplichtig inkomen per jaar van de ongehuwde verzekerde, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), minder bedraagt dan € 8 070 doch meer dan € 7 689, het verschil tussen dat bijdrageplichtig inkomen en het laatstgenoemde bedrag;  
-
-b. indien het bijdrageplichtig inkomen per jaar van de ongehuwde verzekerde, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), meer bedraagt dan € 8 070, 25% van het verschil tussen dat bijdrageplichtig inkomen en dat bedrag, vermeerderd met een bedrag van € 381;  
-
-c. indien het bijdrageplichtig inkomen per jaar van de gehuwde verzekerden tezamen, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), minder bedraagt dan € 10 142 doch meer dan € 9 761, het verschil tussen dat bijdrageplichtig inkomen en het laatstgenoemde bedrag;  
-
-d. indien het bijdrageplichtig inkomen per jaar van de gehuwde verzekerden tezamen, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), meer bedraagt dan € 10 142, 25% van het verschil tussen dat bijdrageplichtig inkomen en dat bedrag, vermeerderd met een bedrag van € 381;  
-
-e. de onderdelen c en d zijn ook van toepassing indien een van beide gehuwde verzekerden de leeftijd van 65 jaar in de in de aanhef bedoelde periode nog niet heeft bereikt.     
-2.  Voor de overige verzekerden wordt in mindering gebracht: 
-
-a. indien het bijdrageplichtig inkomen per jaar van de ongehuwde verzekerde, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), minder bedraagt dan € 7 250 doch meer dan € 6 869, het verschil tussen dat bijdrageplichtig inkomen en het laatstgenoemde bedrag;  
-
-b. indien het bijdrageplichtig inkomen per jaar van de ongehuwde verzekerde, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), meer bedraagt dan € 7 250, 25% van het verschil tussen dat bijdrageplichtig inkomen en dat bedrag, vermeerderd met een bedrag van € 381;  
-
-c. indien het bijdrageplichtig inkomen per jaar van de gehuwde verzekerden tezamen, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), minder bedraagt dan € 9 539 doch meer dan € 9 158, het verschil tussen dat bijdrageplichtig inkomen en het laatstgenoemde bedrag;  
-
-d. indien het bijdrageplichtig inkomen per jaar van de gehuwde verzekerden tezamen, na toepassing van de [artikelen 6, eerste lid](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), en [7 van het Bijdragebesluit](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), meer bedraagt dan € 9 539, 25% van het verschil tussen dat bijdrageplichtig inkomen en dat bedrag, vermeerderd met een bedrag van € 381.     
+1.  Voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, wordt, indien het op grond van artikel 6, eerste lid, onderdeel a, van het Bijdragebesluit zorg, na toepassing van de artikelen 2 tot en met 4, berekende bedrag, meer bedraagt dan € 7.646, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.   
+2.  Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt, wordt, indien het op grond van artikel 6, eerste lid, onderdeel a, van het Bijdragebesluit zorg, na toepassing van de artikelen 2 tot en met 4, berekende bedrag voor hen tezamen, meer bedraagt dan € 9.233, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.   
+3.  Voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, wordt, indien het op grond van artikel 6, eerste lid, onderdeel a, van het Bijdragebesluit zorg, na toepassing van de artikelen 2 tot en met 4, berekende bedrag, meer bedraagt dan € 6.093, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.   
+4.  Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet hebben bereikt, wordt, indien het op grond van artikel 6, eerste lid, onderdeel a, van het Bijdragebesluit zorg, na toepassing van de artikelen 2 tot en met 4, berekende bedrag voor hen tezamen, meer bedraagt dan € 13.125, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.   
+5.  Het tweede lid is van toepassing indien een van beide gehuwde verzekerden de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt.   
 
 ### Artikel  11  
 

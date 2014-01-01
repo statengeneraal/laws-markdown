@@ -42,16 +42,16 @@ a. een basisheffing volgens onderstaand tarief:
 | --- | --- |
 |:---|:---|
 |  *omzet*   |  *heffing*   |
-| € 20.000 tot € 200.000  | € 54,45  |
-| € 200.000 - 1.000.000  | € 272,27  |
-| € 1.000.000 - 2.000.000  | € 544,54  |
-| € 2.000.000 - 4.000.000  | € 1.089,07  |
-| > € 4.000.000  | € 5.445,36  |
+| € 20.000 tot € 200.000  | € 0  |
+| € 200.000 - 1.000.000  | € 0  |
+| € 1.000.000 - 2.000.000  | € 0  |
+| € 2.000.000 - 4.000.000  | € 0  |
+| > € 4.000.000  | € 0  |
 
 Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.  
 
-b. een heffing van € 5,58 per ha aangekocht zaaizaad van granen, peulvruchten en andere gewassen dat op contractbasis in Nederland is geteeld met uitzondering van zaaizaad van vezelvlas.     
-2.  De ondernemer die in een jaar zaaizaad van granen, peulvruchten en andere gewassen teelt, is verplicht aan het productschap af te dragen een heffing van € 2,59 per ha, met uitzondering van de teelt van zaaizaad van vezelvlas.   
+b. een heffing van € 0 per ha aangekocht zaaizaad van granen, peulvruchten en andere gewassen dat op contractbasis in Nederland is geteeld met uitzondering van zaaizaad van vezelvlas.     
+2.  De ondernemer die in een jaar zaaizaad van granen, peulvruchten en andere gewassen teelt, is verplicht aan het productschap af te dragen een heffing van € 0 per ha, met uitzondering van de teelt van zaaizaad van vezelvlas.   
 3.  De ondernemer bedoeld in het eerste lid, is verplicht jaarlijks vóór 31 oktober door middel van een door het productschap vastgesteld opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van statistische doeleinden, alsmede voor de vaststelling van de heffing, bedoeld in het eerste en tweede lid. De [Verordening PA algemene bepalingen 2008](../../../../../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
 4.  De ondernemer, bedoeld in het eerste lid, legt, indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale oppervlakte aangekochte zaaizaad van granen, peulvruchten en andere gewassen, die in Nederland op contractbasis is geteeld.   
 5.  De ondernemer, bedoeld in het eerste lid, is verplicht alle medewerking te verlenen aan de Interne Auditdienst van het Hoofdproductschap Akkerbouw ter controle van het opgavenformulier, indien de in het vierde lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant.   

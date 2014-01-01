@@ -25,15 +25,25 @@ c. maatschappelijk risico: het risico dat de gedetineerde bij een eventuele ontv
 
 d. risicoprofiel: de aanduiding van het vlucht- en maatschappelijk risico van een gedetineerde;  
 
-e. zelfmelder: een tot vrijheidsstraf veroordeelde die niet gedetineerd is op het moment waarop de rechterlijke uitspraak onherroepelijk wordt en ten aanzien van wie geen aanhouding en plaatsing in een penitentiaire inrichting is bevolen;  
+e. opgelegde vrijheidsstraf: de opgelegde vrijheidsstraf, dan wel het totaal van de opgelegde vrijheidsstraffen zonder aftrek van de vervroegde invrijheidstelling;  
 
-f. opgelegde vrijheidsstraf: de opgelegde vrijheidsstraf, dan wel het totaal van de opgelegde vrijheidsstraffen zonder aftrek van de vervroegde invrijheidstelling;  
+f. sectordirecteur Gevangeniswezen: de sectordirecteur Gevangeniswezen van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;  
 
-g. sectordirecteur Gevangeniswezen: de sectordirecteur Gevangeniswezen van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;  
+g. Meldpunt-GRIP: het Gedetineerden Recherche Informatiepunt van de dienst Nationale recherche van de Landelijke eenheid;  
 
-h. Meldpunt-GRIP: het Gedetineerden Recherche Informatiepunt van de dienst Nationale recherche van de Landelijke eenheid;  
+h. forensische zorg: geestelijke gezondheidszorg, verslavingszorg en verstandelijk gehandicaptenzorg verleend in een Penitentiair Psychiatrisch Centrum als bedoeld in artikel 20c;  
 
-i. forensische zorg: geestelijke gezondheidszorg, verslavingszorg en verstandelijk gehandicaptenzorg verleend in een Penitentiair Psychiatrisch Centrum als bedoeld in artikel 20c.    
+i. arrestant: 
+
+– een al dan niet onherroepelijk veroordeelde die is aangehouden nadat hij zich heeft onttrokken aan de tenuitvoerlegging van de gevangenisstraf of de voorlopige hechtenis;  
+
+– een veroordeelde die is aangehouden nadat ten aanzien van hem de tenuitvoerlegging van een voorwaardelijk opgelegde vrijheidsstraf is gelast;  
+
+– een persoon die is aangehouden nadat hij zich heeft onttrokken aan de vervangende hechtenis als bedoeld in artikel 24c juncto artikel 36f van het Wetboek van Strafrecht, aan de gijzeling als bedoeld in artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften of aan de lijfsdwang als bedoeld in artikel 577c juncto artikel 36e van het Wetboek van Strafrecht;  
+
+– een tot vrijheidsstraf veroordeelde die niet gedetineerd is op het moment waarop de rechterlijke uitspraak onherroepelijk wordt en die geen gehoor heeft gegeven aan een oproep tot het ondergaan van zijn vrijheidsstraf;  
+
+– een veroordeelde die is aangehouden nadat zijn voorwaardelijke invrijheidstelling is herroepen.      
 
 ### Artikel  1a  
 
@@ -87,21 +97,20 @@ c. tijdens detentie hebben doen blijken van goed gedrag
 
 ####Beperkt beveiligde inrichting of afdeling
 
-1.  In beperkt beveiligde inrichtingen of afdelingen kunnen zelfmelders worden geplaatst die onherroepelijk zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van minder dan twee jaar.   
-2.  Naast de in het eerste lid genoemde categorie kunnen in de beperkt beveiligde inrichtingen of afdelingen gedetineerden worden geplaatst die: 
+1.  In de beperkt beveiligde inrichtingen of afdelingen worden gedetineerden geplaatst die: 
 
 a. een beperkt vlucht- en maatschappelijk risico vormen,  
 
 b. een strafrestant hebben van maximaal achttien maanden, en  
 
 c. beschikken over een aanvaardbaar verlofadres.     
-3.  Voor plaatsing in een beperkt beveiligde inrichting of afdeling komen niet in aanmerking gedetineerden: 
+2.  Voor plaatsing in een beperkt beveiligde inrichting of afdeling komen niet in aanmerking gedetineerden: 
 
 a. ten aanzien van wie vaststaat dat zij na de detentie zullen worden uitgezet of uitgeleverd, of  
 
 b. aan wie de maatregel terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd.     
-4.  Voor plaatsing in een beperkt beveiligde inrichting of afdeling met regimesgebonden verlof komen niet in aanmerking gedetineerden die deelname weigeren, dan wel hun deelname weigeren voort te zetten aan een traject in het kader van het programma Terugdringen Recidive.   
-5.  Bij het bepalen van het strafrestant wordt de vervangende hechtenis op grond van de [artikelen 24c](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [24d van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de gijzeling op grond van [artikelen 28, eerste lid, Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md) meegeteld.   
+3.  Voor plaatsing in een beperkt beveiligde inrichting of afdeling met regimesgebonden verlof komen niet in aanmerking gedetineerden die deelname weigeren, dan wel hun deelname weigeren voort te zetten aan een traject in het kader van het programma Terugdringen Recidive.   
+4.  Bij het bepalen van het strafrestant wordt de vervangende hechtenis op grond van de [artikelen 24c](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [24d van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de gijzeling op grond van [artikelen 28, eerste lid, Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md) meegeteld.   
 
 ### Artikel  4  
 
@@ -133,11 +142,12 @@ b. bij ontvluchting een onaanvaardbaar maatschappelijk risico vormen, waarbij he
 
 ####Regime van algehele gemeenschap
 
-In een regime van algehele gemeenschap kunnen al dan niet onherroepelijk veroordeelde gedetineerden worden geplaatst die: 
+1.  In een regime van algehele gemeenschap kunnen al dan niet onherroepelijk veroordeelde gedetineerden worden geplaatst die: 
 
 a. gelet op hun persoonlijkheid en gedrag geschikt zijn om in een gemeenschap te functioneren, en  
 
-b. geschikt en bereid zijn om deel te nemen aan het in de inrichting of afdeling aangeboden activiteitenprogramma.    
+b. geschikt en bereid zijn om deel te nemen aan het in de inrichting of afdeling aangeboden activiteitenprogramma.     
+2.  Voor plaatsing in een regime van algehele gemeenschap komen niet in aanmerking arrestanten voor zover de detentie nog geen acht weken heeft geduurd.   
 
 ### Artikel  8  
 
@@ -330,14 +340,14 @@ een selectie-adviescommissie geestelijk gestoorde gedetineerden welke adviseert 
 
 ####Selectie en plaatsing van al dan niet onherroepelijk veroordeelden
 
-1.  De eerste plaatsing van een zelfmelder die onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf van minder dan twee jaar geschiedt in een beperkt beveiligde inrichting of afdeling.   
-2.  Ten aanzien van een veroordeelde die niet behoort tot de categorie, bedoeld in het eerste lid, beoordeelt de selectiefunctionaris op grond van de beschikbare informatie omtrent het gedrag, de persoon en persoonlijkheidskenmerken van de veroordeelde welk regime het meest geëigend is voor de veroordeelde, alsmede of de veroordeelde voor plaatsing in een inrichting of afdeling voor bijzondere opvang in aanmerking komt. Met inachtneming van het gestelde in artikel 21, plaatst de selectiefunctionaris de veroordeelde vervolgens in een inrichting of afdeling die het meest geïndiceerd is voor betrokkene. Indien de directeur voornemens is aan de selectiefunctionaris een voorstel te doen tot plaatsing van een nog niet onherroepelijk veroordeelde, dan wel van een onherroepelijk veroordeelde bij wiens vonnis een executie-indicator is afgegeven, in een zeer beperkt beveiligde inrichting of afdeling als bedoeld in artikel 2, of in een beperkt beveiligde inrichting of afdeling als bedoeld in artikel 3, dan vraagt de directeur het Openbaar Ministerie om advies.   
-3.  Op voorstel van de directeur dan wel op grond van een verzoek als bedoeld in [artikel 18 van de wet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), kan de selectiefunctionaris de gedetineerde overplaatsen naar een andere inrichting of afdeling, al dan niet met een ander beveiligingsniveau of regime.   
-4.  Indien de plaatsing of overplaatsing van een veroordeelde mede gebaseerd is op het risicoprofiel van betrokkene, bedoeld in artikel 22, eerste lid, beoordeelt de selectiefunctionaris of de informatie op basis waarvan het risicoprofiel is vastgesteld, nog ongewijzigd van toepassing is. Zo nodig wordt het risicoprofiel aangepast aan de gewijzigde omstandigheden.   
-5.  Indien de selectiefunctionaris voornemens is de veroordeelde te selecteren voor een inrichting of afdeling waarvoor een selectie-adviescommissie bestaat, legt de selectiefunctionaris zijn voorgenomen besluit ter advisering aan deze commissie voor.   
-6.  Indien het de selectie van een veroordeelde betreft met een al dan niet onherroepelijk opgelegde vrijheidsstraf van 8 jaar of meer, legt de selectiefunctionaris zijn voorgenomen besluit eerst ter advisering voor aan het Penitentiair Selectie Centrum. De selectie-adviescommissie baseert haar advies aan de selectiefunctionaris in dat geval mede op het advies van het Penitentiair Selectie Centrum.   
-7.  In spoedeisende gevallen kunnen de in het vijfde en zesde lid genoemde adviezen achterwege blijven. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.   
-8.  Gedetineerden met een strafrestant tot vier maanden worden in een gevangenis in het arrondissement van vestiging geplaatst, tenzij een belang als bedoeld in [artikel 36, vierde lid, van de wet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zich daar tegen verzet dan wel geen plaats in een gevangenis in het betreffende arrondissement beschikbaar is.   
+1.  Ten aanzien van een veroordeelde, beoordeelt de selectiefunctionaris op grond van de beschikbare informatie omtrent het gedrag, de persoon en persoonlijkheidskenmerken van de veroordeelde welk regime het meest geëigend is voor de veroordeelde, alsmede of de veroordeelde voor plaatsing in een inrichting of afdeling voor bijzondere opvang in aanmerking komt. Met inachtneming van het gestelde in artikel 21, plaatst de selectiefunctionaris de veroordeelde vervolgens in een inrichting of afdeling die het meest geïndiceerd is voor betrokkene. Indien de directeur voornemens is aan de selectiefunctionaris een voorstel te doen tot plaatsing van een nog niet onherroepelijk veroordeelde, dan wel van een onherroepelijk veroordeelde bij wiens vonnis een executie-indicator is afgegeven, in een zeer beperkt beveiligde inrichting of afdeling als bedoeld in artikel 2, of in een beperkt beveiligde inrichting of afdeling als bedoeld in artikel 3, dan vraagt de directeur het Openbaar Ministerie om advies.   
+2.  Op voorstel van de directeur dan wel op grond van een verzoek als bedoeld in [artikel 18 van de wet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), kan de selectiefunctionaris de gedetineerde overplaatsen naar een andere inrichting of afdeling, al dan niet met een ander beveiligingsniveau of regime.   
+3.  Indien de plaatsing of overplaatsing van een veroordeelde mede gebaseerd is op het risicoprofiel van betrokkene, bedoeld in artikel 22, eerste lid, beoordeelt de selectiefunctionaris of de informatie op basis waarvan het risicoprofiel is vastgesteld, nog ongewijzigd van toepassing is. Zo nodig wordt het risicoprofiel aangepast aan de gewijzigde omstandigheden.   
+4.  Indien de selectiefunctionaris voornemens is de veroordeelde te selecteren voor een inrichting of afdeling waarvoor een selectie-adviescommissie bestaat, legt de selectiefunctionaris zijn voorgenomen besluit ter advisering aan deze commissie voor.   
+5.  Indien het de selectie van een veroordeelde betreft met een al dan niet onherroepelijk opgelegde vrijheidsstraf van 8 jaar of meer, legt de selectiefunctionaris zijn voorgenomen besluit eerst ter advisering voor aan het Penitentiair Selectie Centrum. De selectie-adviescommissie baseert haar advies aan de selectiefunctionaris in dat geval mede op het advies van het Penitentiair Selectie Centrum.   
+6.  In spoedeisende gevallen kunnen de in het vierde en vijfde lid genoemde adviezen achterwege blijven. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.   
+7.  Gedetineerden met een strafrestant tot vier maanden worden in een gevangenis in het arrondissement van vestiging geplaatst, tenzij een belang als bedoeld in [artikel 36, vierde lid, van de wet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zich daar tegen verzet dan wel geen plaats in een gevangenis in het betreffende arrondissement beschikbaar is.   
+8.  Het zevende lid is niet van toepassing op de arrestanten, bedoeld in artikel 7, tweede lid.   
 
 ### Artikel  26  
 

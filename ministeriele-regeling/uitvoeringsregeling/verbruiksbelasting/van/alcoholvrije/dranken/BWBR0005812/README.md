@@ -15,15 +15,15 @@ Besluit:
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 3, vijfde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [4, vijfde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [5, vijfde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [7, eerste lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [10, tweede en derde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [14, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [15, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [20, derde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [23, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [29, vierde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [30, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [31](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [32, vierde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [33, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [35, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [36](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [37](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [40 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 3, zesde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [4, vijfde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [5, vijfde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [7, eerste lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [10, tweede en derde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [14, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [15, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [20, derde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [23, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [29, vierde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [30, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [31](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [32, vierde lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [33, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [35, tweede lid](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [36](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md), [37](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [40 van de Wet op de verbruiksbelasting van alcoholvrije dranken](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md).  
 
 ### Artikel  2  
 
 Deze regeling verstaat onder: 
 
-a. wet: [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md);  
+a. *wet:*[Wet op de verbruiksbelasting van alcoholvrije dranken](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md);  
 
-b. besluit: [Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md).    
+b. *besluit:*[Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md).    
 
 ### Afdeling  2  
 
@@ -79,7 +79,7 @@ c. snuiftabak 1 kg.
 
 ### Artikel  8  
 
-Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorwaarden gesteld bij het [Hoeveelheidsaanduidingenbesluit (Warenwet)](../../../../../../../AMvB/hoeveelheidsaanduidingenbesluit/(warenwet)/BWBR0003310/README.md).  
+Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld.  
 
 ### Hoofdstuk  III  
 
@@ -99,7 +99,9 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](../../../../../../.
 
 a. plaatsen vanwaaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in artikel 19;  
 
-b. plaatsen vanwaaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers.    
+b. plaatsen vanwaaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers;  
+
+c. plaatsen waarvoor een vergunning als bedoeld in [artikel 15a, tweede lid, van de wet](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) is verleend.    
 
 ### Artikel  11  
 
@@ -151,14 +153,15 @@ gemiddeld in de inrichting voorhanden is;
 
 gemiddeld in een aangiftetijdvak wordt uitgeslagen;  
 
-gemiddeld in een aangiftetijdvak met een vervoersopdracht of een ander daartoe aangewezen bescheid wordt overgebracht naar een andere inrichting, een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lid-staat of een derde land;  
+gemiddeld in een aangiftetijdvak met een vervoersopdracht of een ander daartoe aangewezen bescheid wordt overgebracht naar een andere inrichting, een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat of een derde land;  
 
 gemiddeld in een aangiftetijdvak met toepassing van artikel 2, vijfde lid, van het besluit wordt overgebracht naar een andere inrichting;  
 
-gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een communautaire douaneregeling wordt overgebracht naar de inrichting.     
+gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een EU-douaneregeling wordt overgebracht naar de inrichting.     
 3.  Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in het in artikel 35, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 76, tweede lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van het bedrag aan belasting dat aangevraagde belastingzegels vertegenwoordigen, is het belastingbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.   
 4.  Indien op grond van artikel 13 toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen te zamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende inrichtingen is vastgesteld.   
 5.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.   
+6.  Geen zekerheidstelling is vereist wanneer een overheidslichaam de belasting verschuldigd is of kan worden.   
 
 ### Hoofdstuk  IV  
 
@@ -250,7 +253,7 @@ a. een afschrift van het ingevolge [artikel 17, tweede lid, van het besluit](../
 
 b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md);  
 
-c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lid-staat: een afschrift van het bescheid als bedoeld in artikel 4.  
+c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in artikel 4.  
 
 d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.     
 3.  Degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling invoert bewaart bij de in het eerste lid bedoelde administratie tevens een afschrift van de voor de desbetreffende goederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), gedane aangifte voor het vrije verkeer.   
@@ -583,7 +586,7 @@ b. het niet voldoen aan een in de artikelen 32, 33, 35 en 36 opgelegde verplicht
 ### Artikel  46  
 
 1.  Deze regeling treedt in werking op het tijdstip waarop de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) in werking treedt.   
-2.  Deze regeling kan worden aangehaald als [Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md).   
+2.  Deze regeling kan worden aangehaald als Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.   
 
 De 
 Staatssecretaris van Financiën, 

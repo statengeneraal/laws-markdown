@@ -26,7 +26,7 @@ b. *verblijf:* verblijf gedurende het etmaal;
 
 c. *eigen bijdrage:* een eigen bijdrage als bedoeld in [artikel 11, derde lid van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-d. geregistreerd geneesmiddel: een geneesmiddel waarvoor een handelsvergunning of parallelhandelsvergunning is verleend krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) dan wel krachtens de verordening, bedoeld in [artikel 1, eerste lid, onder fff, van die wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+d. *geregistreerd geneesmiddel:* een geneesmiddel waarvoor een handelsvergunning of parallelhandelsvergunning is verleend krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) dan wel krachtens de verordening, bedoeld in [artikel 1, eerste lid, onder fff, van die wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
 
 e. *in-vitrofertilisatiepoging:* zorg volgens de in-vitrofertilisatiemethode, inhoudende: 
 
@@ -40,47 +40,55 @@ e. *in-vitrofertilisatiepoging:* zorg volgens de in-vitrofertilisatiemethode, in
 
 f. *vereveningsbijdrage:* de bijdrage, bedoeld in [paragraaf 4.2 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-g. *het macro-deelbedrag kosten van B-dbc’s:* de kosten van bij ministeriële regeling aangewezen B-dbc’s;  
+g. *vereveningsjaar:* het kalenderjaar waarop een vereveningsbijdrage betrekking heeft;  
 
-h. *het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp:* de variabele kosten van verblijf, verpleging en verzorging, met uitzondering van verblijf gepaard gaande met zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, alsmede de kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden, met uitzondering van zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, dit alles voor zover de kosten van deze prestaties voor vergoeding op grond van de [wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in aanmerking komen en niet vallen onder de kosten, bedoeld in onderdeel g;  
+h. *cluster van prestaties:* het cluster «variabele kosten van medisch-specialistische zorg», het cluster «vaste zorgkosten», het cluster «geneeskundige geestelijke gezondheidszorg» of het cluster «overige prestaties»;  
 
-i. *het macro-deelbedrag vaste kosten van ziekenhuisverpleging:* de vaste kosten van verblijf, verpleging en verzorging, met uitzondering van verblijf gepaard gaande met zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, voor zover de kosten van deze prestaties voor vergoeding op grond van de [wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in aanmerking komen en niet vallen onder de kosten, bedoeld in onderdeel g;  
+i. *variabele kosten van medisch-specialistische zorg:* de variabele kosten van in het kader van medisch-specialistische zorg verleend verblijf, verpleging en verzorging, met uitzondering van verblijf gepaard gaande met zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, alsmede de kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden, met uitzondering van zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, dit alles voor zover deze kosten onder de dekking van een zorgverzekering vallen en niet bij ministeriële regeling is bepaald dat deze als tot een ander cluster behorende kosten worden aangemerkt;  
 
-j. *het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg:* de kosten van geneeskundige zorg zoals klinisch-psychologen en psychiaters die plegen te bieden alsmede het daarmee gepaard gaande verblijf, voor zover de kosten van deze prestaties voor vergoeding op grond van de [wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in aanmerking komen;  
+j. *vaste zorgkosten:* bij ministeriële regeling aangewezen kosten van zorg die voor verzekeraars niet te beïnvloeden zijn of door onvoldoende gegevens in het kader van de risicoverevening niet normeerbaar zijn, voor zover deze kosten onder de dekking van een zorgverzekering vallen;  
 
-k. *het macro-deelbedrag kosten van overige prestaties:* de kosten van de overige prestaties die voor vergoeding op grond van de [wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in aanmerking komen;  
+k. *kosten van geneeskundige geestelijke gezondheidszorg:* de kosten van geneeskundige zorg zoals klinisch-psychologen en psychiaters die plegen te bieden alsmede het daarmee gepaard gaande verblijf, voor zover deze kosten onder de dekking van een zorgverzekering vallen en niet bij ministeriële regeling is bepaald dat deze als tot een ander cluster behorende kosten worden aangemerkt;  
 
-l. *cluster van prestaties:* het cluster van bij ministeriële regeling aangewezen B-dbc's, bedoeld in onderdeel g, het cluster «variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp», het cluster «vaste kosten van ziekenhuisverpleging», het cluster «kosten van geneeskundige geestelijke gezondheidszorg» of het cluster «overige prestaties»;  
+l. *kosten van overige prestaties:* de kosten van onder de dekking van een zorgverzekering vallende prestaties die niet als tot een ander cluster behorende kosten worden aangemerkt;  
 
-m. *deelbedrag:* een bedrag dat een zorgverzekeraar voor een cluster van prestaties ontvangt;  
+m. *macro-deelbedrag:* een in de ministeriële regeling, bedoeld in artikel 3.1, derde lid, voor een cluster van prestaties genoemd bedrag dat ex ante over de zorgverzekeraars wordt verdeeld;  
 
-n. *leeftijd en geslacht:* vereveningscriteria op grond waarvan verzekerden worden ingedeeld op grond van hun leeftijd, hun geslacht of hun leeftijd en geslacht;  
+n. *deelbedrag:* een bedrag dat een zorgverzekeraar voor een cluster van prestaties ontvangt;  
 
-o. *FKG’s:* farmaceutische kostengroepen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen chronische aandoeningen op basis van geneesmiddelengebruik in het verleden;  
+o. *leeftijd en geslacht:* vereveningscriteria op grond waarvan verzekerden worden ingedeeld op grond van hun leeftijd, hun geslacht of hun leeftijd en geslacht;  
 
-p. *FKG’s psychische aandoeningen:* farmaceutische kostengroepen psychische aandoeningen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen chronische psychische aandoeningen op basis van geneesmiddelengebruik in het verleden;  
+p. *FKG’s:* farmaceutische kostengroepen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen chronische aandoeningen op basis van geneesmiddelengebruik in het verleden;  
 
-q. *DKG’s:* diagnose kostengroepen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische aandoeningen die geïdentificeerd zijn op grond van de uitgevoerde diagnose behandeling combinaties;  
+q. *FKG’s psychische aandoeningen:* farmaceutische kostengroepen psychische aandoeningen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen chronische psychische aandoeningen op basis van geneesmiddelengebruik in het verleden;  
 
-r. *aard van het inkomen:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen op basis van de aard van hun inkomen;  
+r. *DKG’s:* diagnose kostengroepen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische aandoeningen die geïdentificeerd zijn op grond van de uitgevoerde diagnose behandeling combinaties;  
 
-s. *SES:* sociaaleconomische status, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen op basis van het aantal personen op een adres, hun leeftijd en het gemiddelde inkomen per adres;  
+s. *aard van het inkomen:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen op basis van de aard van hun inkomen;  
 
-t. *éénpersoonsadres:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in een klasse «woont op een adres waarop één persoon is ingeschreven» of in een klasse «woont niet op een adres waarop één persoon is ingeschreven»;  
+t. *SES:* sociaaleconomische status, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen op basis van het aantal personen op een adres, hun leeftijd en het gemiddelde inkomen per adres;  
 
-u. *regio:* een vereveningscriterium op grond waarvan verzekerden op basis van de vier cijfers van de postcode van hun woonadres worden ingedeeld in klassen, waarbij op postcodeniveau rekening is gehouden met de verschillen met betrekking tot zorgaanbod, sociaaleconomische omstandigheden en gezondheid;  
+u. *éénpersoonsadres:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in een klasse «woont op een adres waarop één persoon is ingeschreven» of in een klasse «woont niet op een adres waarop één persoon is ingeschreven»;  
 
-v. *GGZ-regio:* een vereveningscriterium op grond waarvan verzekerden op basis van de vier cijfers van de postcode van hun woonadres worden ingedeeld in klassen, waarbij op postcodeniveau rekening is gehouden met de verschillen met betrekking tot GGZ-zorgaanbod, sociaaleconomische omstandigheden en geestelijke gezondheid;  
+v. *regio:* een vereveningscriterium op grond waarvan verzekerden op basis van de vier cijfers van de postcode van hun woonadres worden ingedeeld in klassen, waarbij op postcodeniveau rekening is gehouden met de verschillen met betrekking tot zorgaanbod, sociaaleconomische omstandigheden en gezondheid;  
 
-w. *kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel:* kosten per verzekerde van intramuraal en extramuraal gebruik van geneeskundige geestelijke gezondheidszorg in het voorafgaande jaar, die hoger zijn dan een bij ministeriële regeling te bepalen bedrag;  
+w. *GGZ-regio:* een vereveningscriterium op grond waarvan verzekerden op basis van de vier cijfers van de postcode van hun woonadres worden ingedeeld in klassen, waarbij op postcodeniveau rekening is gehouden met de verschillen met betrekking tot GGZ-zorgaanbod, sociaaleconomische omstandigheden en geestelijke gezondheid;  
 
-x. *kosten van geneeskundige geestelijke gezondheidszorg boven de hoge drempel:* kosten per verzekerde van intramuraal en extramuraal gebruik van geneeskundige geestelijke gezondheidszorg in het voorafgaande jaar, die hoger zijn dan een bij ministeriële regeling te bepalen bedrag;  
+x. *kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel:* kosten per verzekerde van intramuraal en extramuraal gebruik van geneeskundige geestelijke gezondheidszorg in het voorafgaande jaar, die hoger zijn dan een bij ministeriële regeling te bepalen bedrag;  
 
-y. *nominale rekenpremie:* een bij de berekening van de vereveningsbijdrage in aanmerking te nemen bedrag, ter hoogte van de door Onze Minister geraamde premie die een zorgverzekeraar op jaarbasis bij een premieplichtige verzekerde voor verzekerde prestaties in rekening brengt;  
+y.  vervallen;   
 
-z. *hogekostencompensatie:* het verrekenen met het Zorgverzekeringsfonds van een bij ministeriële regeling te bepalen percentage van de kosten van verzekerden met betrekking tot in dit besluit genoemde deelbedragen, voor zover zij uitgaan boven een bij ministeriële regeling te omschrijven drempel;  
+z. *meerjarig hoge kosten:* een vereveningscriterium op grond waarvan verzekerden op basis van de kosten van de zorg die zij in de drie jaren voorafgaande aan het vereveningsjaar hebben genoten, worden ingedeeld in klassen van voorspelbare zorgkosten;  
 
-aa. *nacalculatie:* bijstelling van het deelbedrag op basis van het verschil tussen gerealiseerde kosten en het herberekende deelbedrag per zorgverzekeraar, per onderscheiden cluster van prestaties.    
+aa. *nominale rekenpremie:* een bij de berekening van de vereveningsbijdrage in aanmerking te nemen bedrag, ter hoogte van de door Onze Minister geraamde premie die een zorgverzekeraar op jaarbasis bij een premieplichtige verzekerde voor verzekerde prestaties in rekening brengt;  
+
+bb. *geraamde kosten:* de bij de ministeriële regeling, bedoeld in artikel 3.1, derde lid, bepaalde macro-deelbedragen, vermeerderd of verminderd met na vaststelling van deze deelbedragen maar voor 1 januari van het vereveningsjaar geraamde, bij ministeriële regeling te bepalen kosten die het gevolg zijn van wijzigingen in de over het vereveningsjaar op grond van een zorgverzekering te verzekeren prestaties waarmee bij het opstellen van de ministeriële regeling, bedoeld in artikel 3.1, derde lid, nog geen rekening kon worden gehouden;  
+
+cc. *hogekostencompensatie:* het verrekenen met het Zorgverzekeringsfonds van een bij ministeriële regeling te bepalen percentage van de kosten van verzekerden met betrekking tot in dit besluit aangewezen deelbedragen, voor zover zij uitgaan boven een bij ministeriële regeling te omschrijven drempel;  
+
+dd. *nacalculatie:* bijstelling van het deelbedrag op basis van het verschil tussen gerealiseerde kosten en het herberekende deelbedrag per zorgverzekeraar, per onderscheiden cluster van prestaties;  
+
+ee. *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunnen worden nagecalculeerd.    
 
 ### Hoofdstuk  2  
 
@@ -96,6 +104,7 @@ aa. *nacalculatie:* bijstelling van het deelbedrag op basis van het verschil tus
 2.  De inhoud en omvang van de vormen van zorg of diensten worden mede bepaald door de stand van de wetenschap en praktijk en, bij ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.   
 3.  Onverminderd hetgeen is bepaald in de artikelen 2.4 tot en met 2.15, heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.   
 4.  Onder de zorg en overige diensten, bedoeld in het eerste lid, valt niet forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md).   
+5.  In afwijking van het tweede lid vallen onder de zorg en overige diensten, bedoeld in artikel 2.4 of 2.8, ook de zorg en diensten die bij ministeriële regeling zijn aangewezen onder de daarbij geregelde voorwaarden en gedurende een daarbij aan te geven termijn van maximaal vier jaar, voor zover er sprake is van verantwoorde zorg en diensten.   
 
 ### Artikel  2.2  
 
@@ -114,15 +123,21 @@ b. de kosten die hoger zijn dan in de Nederlandse marktomstandigheden in redelij
 
 ### Artikel  2.4  
 
-1.  Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, met uitzondering van de zorg zoals tandarts-specialisten die plegen te bieden, alsmede dyslexiezorg als bedoeld in artikel 2.5a, zorg bij stoppen-met-rokenprogramma als bedoeld in artikel 2.5b en paramedische zorg als bedoeld in artikel 2.6, met dien verstande dat: 
+1.  Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, dyslexiezorg als bedoeld in artikel 2.5a, zorg bij stoppen-met-rokenprogramma als bedoeld in artikel 2.5b, geriatrische revalidatie als bedoeld in artikel 2.5c en paramedische zorg als bedoeld in artikel 2.6, met dien verstande dat: 
 
 a. de zorg niet omvat: 
 
-1°. het vaccineren ten behoeve van grieppreventie,  
+1°. het vaccineren ten behoeve van grieppreventie;  
 
 2°. prenatale screening naar aangeboren afwijkingen, anders dan via een structureel echoscopisch onderzoek in het tweede trimester van de zwangerschap, indien de verzekerde jonger is dan 36 jaar en hiervoor geen medische indicatie heeft;  
 
-3°. de vierde of volgende in-vitrofertilisatiepoging per te realiseren zwangerschap, nadat drie pogingen zijn geëindigd tussen het moment dat een follikelpunctie is geslaagd en het moment dat er sprake is van een doorgaande zwangerschap van tien weken te rekenen vanaf het moment van de follikelpunctie en indien de implantatie van gecryopreserveerde embryo’s niet heeft geleid tot een doorgaande zwangerschap van negen weken en drie dagen te rekenen vanaf de implantatie;    
+3°. de vierde of volgende in-vitrofertilisatiepoging per te realiseren zwangerschap, nadat drie pogingen zijn geëindigd tussen het moment dat een follikelpunctie is geslaagd en het moment dat er sprake is van een doorgaande zwangerschap van tien weken te rekenen vanaf het moment van de follikelpunctie en indien de implantatie van gecryopreserveerde embryo’s niet heeft geleid tot een doorgaande zwangerschap van negen weken en drie dagen te rekenen vanaf de implantatie;  
+
+4°. de eerste en tweede in-vitrofertilisatiepoging bij een verzekerde jonger dan achtendertig jaar, indien er meer dan één embryo wordt teruggeplaatst;  
+
+5°. vruchtbaarheidsgerelateerde zorg, indien de verzekerde vrouw drieënveertig jaar of ouder is, behoudens voor zover het een in-vitrofertilisatiepoging betreft die reeds is aangevangen voordat de verzekerde vrouw de leeftijd van drieënveertig jaar heeft bereikt;  
+
+6°. zorg zoals tandarts-specialisten plegen te bieden;    
 
 b. behandeling van plastisch-chirurgische aard slechts onder de zorg valt indien die strekt tot correctie van: 
 
@@ -136,11 +151,8 @@ b. behandeling van plastisch-chirurgische aard slechts onder de zorg valt indien
 
 5°. primaire geslachtskenmerken bij een vastgestelde transsexualiteit;    
 
-c. transplantaties van weefsels en organen slechts tot de zorg behoren indien de transplantatie is verricht in een lidstaat van de Europese Unie, in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in een andere staat indien de donor woonachtig is in die staat en de echtgenoot, de geregistreerde partner of een bloedverwant in de eerste, tweede of derde graad van de verzekerde is.  
-
-d. de zorg ten hoogste acht zittingen eerstelijnspsychologische zorg per jaar omvat.     
-2.  Bij ministeriële regeling kunnen vormen van zorg zoals medisch-specialisten die plegen te bieden, worden uitgezonderd.   
-3.  Bij ministeriële regeling kan worden bepaald dat de verzekerde voor een zitting eerstelijnspsychologische zorg een eigen bijdrage betaalt. Daarbij kan worden bepaald dat hij die bijdrage betaalt tot een bij die regeling aangeven maximum.   
+c. transplantaties van weefsels en organen slechts tot de zorg behoren indien de transplantatie is verricht in een lidstaat van de Europese Unie, in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in een andere staat indien de donor woonachtig is in die staat en de echtgenoot, de geregistreerde partner of een bloedverwant in de eerste, tweede of derde graad van de verzekerde is.     
+2.  Bij ministeriële regeling kunnen vormen van zorg, worden uitgezonderd.   
 
 ### Artikel  2.5  
 
@@ -176,17 +188,27 @@ e. in 2013: op of na het bereiken van de dertienjarige leeftijd.
 ### Artikel  2.5b  
 
 1.  Zorg bij stoppen-met-rokenprogramma omvat geneeskundige en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken.   
-2.  De zorg, bedoeld in het eerste lid, omvat slechts het volgen van het programma een keer per kalenderjaar.   
+2.  De zorg, bedoeld in het eerste lid, omvat het één keer per kalenderjaar volgen van een programma.   
+
+### Artikel  2.5c  
+
+1.  Geriatrische revalidatie omvat integrale en multidisciplinaire revalidatiezorg zoals specialisten ouderengeneeskunde die plegen te bieden in verband met kwetsbaarheid, complexe multimorbiditeit en afgenomen leer- en trainbaarheid, gericht op het dusdanig verminderen van de functionele beperkingen van de verzekerde dat terugkeer naar de thuissituatie mogelijk is.   
+2.  De geriatrische revalidatie valt slechts onder de zorg, bedoeld in het eerste lid, indien: 
+
+a. de zorg aansluit op verblijf als bedoeld in artikel 2.10 in verband met geneeskundige zorg zoals medisch-specialisten die plegen te bieden, waarbij dat verblijf niet vooraf is gegaan aan verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) gepaard gaande met behandeling als bedoeld in [artikel 8 van dat besluit](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) in dezelfde instelling, en  
+
+b. de zorg bij aanvang gepaard gaat met verblijf als bedoeld in artikel 2.10.     
+3.  De duur van de geriatrische revalidatie, bedoeld in het tweede lid, bedraagt maximaal zes maanden. In bijzondere gevallen kan de zorgverzekeraar een langere periode toestaan.   
 
 ### Artikel  2.6  
 
 1.  Paramedische zorg omvat fysiotherapie, oefentherapie, logopedie, ergotherapie en dieetadvisering.   
-2.  Fysiotherapie of oefentherapie omvat zorg zoals fysiotherapeuten en oefentherapeuten die plegen te bieden ter behandeling van de in bijlage 1 aangegeven aandoeningen, voor zover de daarbij aangegeven termijn niet is overschreden. Deze zorg omvat voor de verzekerden van achttien jaar en ouder niet de eerste twaalf behandelingen.   
+2.  Fysiotherapie of oefentherapie omvat zorg zoals fysiotherapeuten en oefentherapeuten die plegen te bieden ter behandeling van de in bijlage 1 aangegeven aandoeningen, voor zover de daarbij aangegeven termijn niet is overschreden. Deze zorg omvat voor de verzekerden van achttien jaar en ouder niet de eerste twintig behandelingen.   
 3.  Fysiotherapie omvat tevens bekkenfysiotherapie in verband met urine-incontinentie. Deze zorg omvat voor de verzekerden van achttien jaar of ouder ten hoogste negen behandelingen.   
-4.  Voor verzekerden jonger dan achttien jaar bestaat fysiotherapie en oefentherapie in andere gevallen dan het tweede lid tevens uit ten hoogste negen behandelingen van dezelfde aandoening per jaar, bij ontoereikend resultaat te verlengen met ten hoogste negen behandelingen.   
+4.  Voor verzekerden jonger dan achttien jaar bestaat fysiotherapie en oefentherapie in andere gevallen dan het tweede lid tevens uit ten hoogste negen behandelingen van dezelfde aandoening per kalenderjaar, bij ontoereikend resultaat te verlengen met ten hoogste negen behandelingen.   
 5.  Logopedie omvat zorg zoals logopedisten die plegen te bieden, mits de zorg een geneeskundig doel heeft en van de behandeling herstel of verbetering van de spraakfunctie of het spraakvermogen kan worden verwacht.   
-6.  Ergotherapie omvat zorg zoals ergotherapeuten die plegen te bieden, mits deze als doel heeft de zelfzorg en de zelfredzaamheid van de verzekerde te bevorderen en te herstellen, tot een maximum van tien behandeluren per jaar.   
-7.  Dieetadvisering omvat voorlichting met een medisch doel over voeding en eetgewoonten, zoals diëtisten die plegen te bieden, tot een maximum van vier behandeluren per jaar.   
+6.  Ergotherapie omvat zorg zoals ergotherapeuten die plegen te bieden, mits deze als doel heeft de zelfzorg en de zelfredzaamheid van de verzekerde te bevorderen en te herstellen, tot een maximum van tien behandeluren per kalenderjaar.   
+7.  Dieetadvisering omvat voorlichting met een medisch doel over voeding en eetgewoonten, zoals diëtisten die plegen te bieden, tot een maximum van drie behandeluren per kalenderjaar.   
 
 ### Artikel  2.7  
 
@@ -207,7 +229,7 @@ b. incidenteel tandheelkundig consult;
 
 c. het verwijderen van tandsteen;  
 
-d. fluorideapplicatie aan verzekerden vanaf de leeftijd van zes jaar, maximaal tweemaal per jaar, tenzij de verzekerde tandheelkundig meer keren per jaar op die hulp is aangewezen;  
+d. fluorideapplicatie, maximaal tweemaal per jaar, tenzij de verzekerde tandheelkundig meer keren per jaar op die hulp is aangewezen;  
 
 e. sealing;  
 
@@ -233,7 +255,6 @@ n. röntgenonderzoek, met uitzondering van röntgenonderzoek ten behoeve van ort
 a. chirurgische tandheelkundige hulp van specialistische aard en het daarbij behorende röntgenonderzoek, met uitzondering van parodontale chirurgie, het aanbrengen van een tandheelkundig implantaat en ongecompliceerde extracties;  
 
 b. uitneembare volledige prothetische voorzieningen voor de boven- of onderkaak.     
-6.  Bij ministeriële regeling kan worden bepaald dat de verzekerde een eigen bijdrage betaalt voor de zorg, bedoeld in het eerste of vijfde lid, onderdeel b.   
 
 ### Artikel  2.8  
 
@@ -264,8 +285,7 @@ e. geneesmiddelen als bedoeld in [artikel 40, derde lid, onder e, van de Geneesm
 3.  De aanwijzing door de zorgverzekeraar geschiedt zodanig dat van alle werkzame stoffen die voorkomen in de bij ministeriële regeling aangewezen geneesmiddelen ten minste een geneesmiddel voor de verzekerde beschikbaar is.   
 4.  Farmaceutische zorg omvat ook een ander bij ministeriële regeling aangewezen geneesmiddel dan het door de zorgverzekeraar aangewezen geneesmiddel, voor zover behandeling met het door de zorgverzekeraar aangewezen geneesmiddel voor de verzekerde medisch niet verantwoord is.   
 5.  Bij de ministeriële regeling, bedoeld in het eerste lid, onderdeel a, worden de aangewezen geneesmiddelen zoveel mogelijk ingedeeld in groepen van onderling vervangbare geneesmiddelen. In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzing geregeld, worden regels gesteld met betrekking tot de systematiek van de indeling in groepen van onderling vervangbare geneesmiddelen en worden regels gesteld met betrekking tot de vaststelling van een vergoedingslimiet voor elke groep van onderling vervangbare geneesmiddelen.   
-6.  De verzekerde betaalt een eigen bijdrage voor een geneesmiddel dat is ingedeeld in een groep van onderling vervangbare geneesmiddelen, indien de inkoopprijs hoger is dan de vergoedingslimiet. Een eigen bijdrage wordt ook betaald voor zover een geneesmiddel is bereid uit een geneesmiddel waarvoor een eigen bijdrage is verschuldigd. Bij ministeriële regeling wordt geregeld hoe de eigen bijdrage wordt berekend.   
-7.  In afwijking van het vijfde lid kan bij ministeriële regeling worden bepaald dat voor bij die regeling aangewezen groepen van onderling vervangbare geneesmiddelen de vergoedinglimiet kan worden herberekend of buiten werking kan worden gesteld.   
+6.  In afwijking van het vijfde lid kan bij ministeriële regeling worden bepaald dat voor bij die regeling aangewezen groepen van onderling vervangbare geneesmiddelen de vergoedinglimiet kan worden herberekend of buiten werking kan worden gesteld.   
 
 ### Artikel  2.9  
 
@@ -275,11 +295,6 @@ a. in welke gevallen de verzekerde recht heeft op die zorg;
 
 b. vergoeding van bij die regeling aangewezen kosten in verband met thuisdialyse.     
 2.  De kosten van normaal gebruik van hulpmiddelen komen, tenzij bij ministeriële regeling anders is bepaald, voor rekening van de verzekerde.   
-3.  Bij ministeriële regeling kan worden bepaald dat de verzekerde voor een hulpmiddel een eigen bijdrage betaalt ter grootte van: 
-
-a. het verschil tussen de aanschaffingskosten en het bij dat hulpmiddel vermelde bedrag, dat kan verschillen naar gelang de groep van verzekerden, waartoe de verzekerde behoort;  
-
-b. een daarbij vermeld bedrag wegens besparing van kosten.     
 
 ### Artikel  2.10  
 
@@ -294,12 +309,11 @@ b. een daarbij vermeld bedrag wegens besparing van kosten.
 
 ### Artikel  2.12  
 
-1.  Naast de in artikel 2.10 bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.   
-2.  Bij ministeriële regeling kan worden bepaald dat de verzekerde een eigen bijdrage betaalt voor de zorg, bedoeld in het eerste lid.   
+Naast de in artikel 2.10 bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.  
 
 ### Artikel  2.13  
 
-1.  Vervoer omvat ziekenvervoer per ambulance als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md), van de verzekerde over een afstand van maximaal 200 kilometer: 
+1.  Vervoer omvat ziekenvervoer per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), van de verzekerde over een afstand van maximaal 200 kilometer: 
 
 a. naar een persoon bij wie of een instelling waarin hij zorg zal ontvangen waarvan de kosten geheel of gedeeltelijk ten laste van de zorgverzekering komen;  
 
@@ -316,7 +330,7 @@ d. naar zijn woning of een andere woning, indien hij in zijn woning redelijkerwi
 
 ### Artikel  2.14  
 
-1.  Het vervoer omvat tevens ziekenvervoer per auto, anders dan per ambulance als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in artikel 2.13, eerste lid, over een enkele reisafstand van maximaal 200 kilometer voor zover: 
+1.  Het vervoer omvat tevens ziekenvervoer per auto, anders dan per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in artikel 2.13, eerste lid, over een enkele reisafstand van maximaal 200 kilometer voor zover: 
 
 a. de verzekerde nierdialyses moet ondergaan;  
 
@@ -331,12 +345,45 @@ d. het gezichtsvermogen van de verzekerde zodanig is beperkt dat hij zich niet z
 
 ### Artikel  2.15  
 
-1.  In gevallen waarin ziekenvervoer per ambulance, per auto of met een openbaar middel van vervoer niet mogelijk is, kan de zorgverzekeraar toestaan dat het ziekenvervoer plaatsvindt met een ander door de zorgverzekeraar aan te geven vervoermiddel.   
+1.  De zorgverzekeraar kan toestaan dat het ziekenvervoer plaatsvindt met een ander door de zorgverzekeraar aan te geven vervoermiddel dan een motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), auto of openbaar middel van vervoer.   
 2.  Het ziekenvervoer omvat tevens vervoer van een begeleider, indien begeleiding noodzakelijk is, of indien het betreft begeleiding van kinderen beneden zestien jaar. In bijzondere gevallen kan de zorgverzekeraar vervoer van twee begeleiders toestaan.   
 
-### Artikel  2.16  
+### §  1a  
 
-Bij ministeriële regeling kan worden bepaald dat de verzekerde voor ziekenvervoer, anders dan ambulancevervoer als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md), een eigen bijdrage betaalt tot een bij die regeling aangeven maximum.  
+####De eigen bijdragen
+
+### Artikel  2.16a  
+
+De verzekerde van achttien jaar of ouder betaalt een eigen bijdrage voor mondzorg, bedoeld in artikel 2.7, eerste en vijfde lid, onderdeel b.  
+
+### Artikel  2.16b  
+
+1.  De verzekerde betaalt een eigen bijdrage voor een geneesmiddel als bedoeld in artikel 2.8, eerste lid, dat is ingedeeld in een groep van onderling vervangbare geneesmiddelen, indien de inkoopprijs hoger is dan de vergoedingslimiet. Een eigen bijdrage wordt ook betaald voor zover een geneesmiddel is bereid uit een geneesmiddel waarvoor een eigen bijdrage is verschuldigd.   
+2.  Bij ministeriële regeling wordt geregeld hoe de eigen bijdrage wordt berekend.   
+
+### Artikel  2.16c  
+
+De verzekerde betaalt voor een bij ministeriële regeling aan te wijzen hulpmiddel als bedoeld in artikel 2.9, een eigen bijdrage ter grootte van: 
+
+a. een daarbij vermeld bedrag wegens besparing van kosten,  
+
+b. het verschil tussen de aanschaffingskosten en het bij dat hulpmiddel vermelde bedrag, dat kan verschillen naar gelang de groep van verzekerden, waartoe de verzekerde behoort, of  
+
+c. een bij die regeling te bepalen percentage van de kosten van het hulpmiddel.    
+
+### Artikel  2.16d  
+
+1.  De verzekerde betaalt voor verzorging als bedoeld in artikel 2.12, een eigen bijdrage per uur, indien het betreft verzorging ten huize van de verzekerde.   
+2.  De verzekerde en haar kind betalen ieder voor verzorging als bedoeld in artikel 2.12, die verleend wordt in een instelling zonder dat verblijf in de instelling medisch noodzakelijk is, een eigen bijdrage per dag, vermeerderd met een bij ministeriële regeling te bepalen bedrag waarmee het tarief van de instelling per dag te boven gaat.   
+
+### Artikel  2.16e  
+
+1.  De verzekerde is voor ziekenvervoer, anders dan per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), een eigen bijdrage per kalenderjaar verschuldigd.   
+2.  Bij ministeriële regeling kan worden bepaald in welke situaties de eigen bijdrage niet van toepassing is.   
+
+### Artikel  2.16f  
+
+Bij ministeriële regeling wordt de hoogte van de eigen bijdragen, bedoeld in de artikelen 2.16a en 2.16c tot en met 2.16e, vastgesteld.  
 
 ### §  2  
 
@@ -386,28 +433,26 @@ Het percentage, bedoeld in [artikel 21, eerste lid, van de wet](../../../../wet/
 
 ### §  1.1  
 
-####De onderverdeling van het macro-prestatiebedrag in macro-deelbedragen, de totale geraamde opbrengst van de nominale rekenpremie en de totale geraamde opbrengst van het vrijwillig eigen risico
+####De onderverdeling van het macro-prestatiebedrag in macro-deelbedragen, de totale geraamde opbrengst van de nominale rekenpremie en de totale geraamde opbrengst van het verplicht eigen risico
 
 ### Artikel  3.1  
 
 1.  Het macro-prestatiebedrag is de som van de volgende macro-deelbedragen: 
 
-a. het macro-deelbedrag kosten van B-dbc’s;  
+a. het macro-deelbedrag variabele kosten van medisch-specialistische zorg;  
 
-b. het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp;  
+b. het macro-deelbedrag vaste zorgkosten;  
 
-c. het macro-deelbedrag vaste kosten van ziekenhuisverpleging;  
+c. het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg;  
 
-d. het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg;  
-
-e. het macro-deelbedrag kosten van overige prestaties.     
+d. het macro-deelbedrag kosten van overige prestaties.     
 2.  Tot het macro-prestatiebedrag of de macro-deelbedragen behoren niet de kosten van zorg of andere verzekerde diensten die noodzakelijk zijn geworden ten gevolge van een terroristische handeling.   
-3.  De hoogte van het macro-prestatiebedrag en van de macro-deelbedragen voor een jaar worden jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling bepaald.   
+3.  De hoogte van het macro-prestatiebedrag en van de macro-deelbedragen voor een vereveningsjaar worden jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling bepaald.   
 
 ### Artikel  3.2  
 
-1.  De hoogte van de totale opbrengst van de nominale rekenpremie voor een jaar wordt jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling geraamd.   
-2.  De hoogte van de totale opbrengst van het verplicht eigen risico voor een jaar wordt jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling geraamd.   
+1.  De hoogte van de totale opbrengst van de nominale rekenpremie voor een vereveningsjaar wordt jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling geraamd.   
+2.  De hoogte van de totale opbrengst van het verplicht eigen risico voor een vereveningsjaar wordt jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling geraamd.   
 
 ### §  1.2  
 
@@ -415,40 +460,38 @@ e. het macro-deelbedrag kosten van overige prestaties.
 
 ### Artikel  3.3  
 
-Het College zorgverzekeringen verdeelt de in artikel 3.1 genoemde macro-deelbedragen elk volgens de artikelen 3.4 tot en met 3.8 in deelbedragen.  
+Het College zorgverzekeringen verdeelt de in artikel 3.1 genoemde macro-deelbedragen op de bij en krachtens de artikelen 3.4 tot en met 3.8 bepaalde wijze in deelbedragen.  
 
 ### Artikel  3.4  
 
-1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag kosten van B-dbc’s over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES en regio.   
+1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag variabele kosten van medisch-specialistische zorg over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES, meerjarig hoge kosten en regio.   
 2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
 3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.   
 
 ### Artikel  3.5  
 
-1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES en regio.   
-2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
-3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.   
+1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag vaste zorgkosten over de zorgverzekeraars aan de hand van verzekerdenaantallen en van historische gegevens per zorgverzekeraar.   
+2.  De historische gegevens, bedoeld in het eerste lid, worden jaarlijks bij ministeriële regeling bepaald.   
 
 ### Artikel  3.6  
 
-1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag vaste kosten van ziekenhuisverpleging over de zorgverzekeraars aan de hand van historische gegevens per zorgverzekeraar.   
-2.  De historische gegevens, bedoeld in het eerste lid, worden jaarlijks bij ministeriële regeling bepaald.   
+1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s psychische aandoeningen, aard van het inkomen, SES, éénpersoonsadres, GGZ-regio, en kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel.   
+2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
+3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.   
 
 ### Artikel  3.7  
 
-1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s psychische aandoeningen, aard van het inkomen, SES, éénpersoonsadres, GGZ-regio, leeftijd onder achttien jaar, kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel en kosten van geneeskundige geestelijke gezondheidszorg boven de hoge drempel.   
+1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag kosten van overige prestaties over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES, meerjarig hoge kosten en regio.   
 2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
 3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.   
 
 ### Artikel  3.8  
 
-1.  Het College zorgverzekeringen verdeelt het macro-deelbedrag kosten van overige prestaties over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES en regio.   
-2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
-3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.   
+In afwijking van de artikelen 3.4, 3.6 en 3.7 worden verzekerden die in het buitenland wonen ingedeeld in de klassen «Geen FKG», «Geen FKG psychische aandoeningen», respectievelijk «DKG «0»» en worden de bij deze klasse behorende gewichten voor deze verzekerden op bij ministeriële regeling bepaalde wijze door het College zorgverzekeringen vastgesteld.  
 
 ### Artikel  3.9  
 
-Het College zorgverzekeringen sommeert de ingevolge artikelen 3.3 tot en met 3.8 aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag per zorgverzekeraar.  
+Het College zorgverzekeringen sommeert de ingevolge de artikelen 3.3 tot en met 3.8 aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag per zorgverzekeraar.  
 
 ### Artikel  3.10  
 
@@ -463,52 +506,55 @@ Het College zorgverzekeringen sommeert de ingevolge artikelen 3.3 tot en met 3.8
 
 ### Artikel  3.11  
 
-1.  Ter vaststelling van de vereveningsbijdrage maakt het College zorgverzekeringen per zorgverzekeraar een herberekening van de deelbedragen, bedoeld in de artikelen 3.4 tot en met 3.8, waarbij het zich baseert op de gerealiseerde verzekerdenaantallen en de gerealiseerde kosten, en op de ingevolge dit besluit voor de onderscheiden deelbedragen relevante gegevens over het desbetreffende jaar.   
-2.  Bij ministeriële regeling kan worden bepaald dat het College zorgverzekeringen bij het maken van de herberekening: 
-
-a. voor bij die regeling te bepalen macro-deelbedragen van een andere hoogte uitgaat dan de hoogte die bij het berekenen van de toegekende vereveningsbijdragen is gehanteerd,  
-
-b. de gewichten, bedoeld in de artikelen 3.4, 3.5, 3.7 en 3.8, herberekent, of,  
-
-c. een gedeelte van de gerealiseerde kosten buiten beschouwing laat.     
-3.  Indien het College zorgverzekeringen voor een zorgverzekeraar niet kan beschikken over een betrouwbaar beeld van de gerealiseerde kosten, kan het, in afwijking van het eerste lid, voor de daar bedoelde herberekening uitgaan van de gerealiseerde kosten van die zorgverzekeraar in een eerder jaar.   
+1.  Na het vereveningsjaar herberekent het College zorgverzekeringen de deelbedragen, bedoeld in de artikelen 3.4, 3.6 en 3.7, op de bij en krachtens dit artikel en de artikelen 3.12 tot en met 3.17 bepaalde wijze.   
+2.  Met inachtneming van het bepaalde bij en krachtens de artikelen 3.13, 3.14 en 3.15, eerste lid, bepaalt het College zorgverzekeringen de over het vereveningsjaar gerealiseerde kosten per cluster van prestaties voor alle zorgverzekeraars tezamen.   
+3.  Tot de gerealiseerde kosten behoren niet kosten waarvoor bijdragen als bedoeld in artikel 3.23 zijn verstrekt.   
+4.  Het College zorgverzekeringen corrigeert de geraamde kosten per cluster van prestaties voor het werkelijke aantal verzekerden in het vereveningsjaar en hun werkelijke verzekerdenkenmerken.   
+5.  Met inachtneming van bij ministeriële regeling te bepalen regels herberekent het College zorgverzekeringen, uitgaande van de door alle zorgverzekeraars tezamen gerealiseerde kosten voor het destreffende cluster van prestaties, de gewichten, bedoeld in de artikelen 3.4, 3.6, 3.7, en 3.8, door deze te vermenigvuldigen met een factor die gelijk is aan het quotiënt van de gerealiseerde kosten, bedoeld in het tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in het vierde lid.   
+6.  Bij ministeriële regeling wordt bepaald in welke mate een verzekerde die niet gedurende het gehele vereveningsjaar bij een zorgverzekeraar verzekerd is of die gedurende het vereveningsjaar bij meerdere zorgverzekeraars tegelijk verzekerd is, voor de vaststelling van de vereveningsbijdrage meetelt.   
 
 ### Artikel  3.12  
 
-Voor zover deze onder de zorgverzekering worden gedekt, deelt het College zorgverzekeringen bij ministeriële regeling te bepalen soorten kosten van zorg en overige diensten die niet zonder meer aan een bepaalde kostencategorie kunnen worden toegedeeld, overeenkomstig een bij die regeling te bepalen verdeelsleutel toe aan de kosten van B-dbc’s, de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, de vaste kosten van ziekenhuisverpleging, de kosten van geneeskundige geestelijke gezondheidszorg of de kosten van overige prestaties.  
+1.  Ten behoeve van de herberekening, bedoeld in artikel 3.11, eerste lid, berekent het College zorgverzekeringen allereerst de deelbedragen, bedoeld in de artikelen 3.4 tot en met 3.7, uitgaande van: 
+
+a. de werkelijke verzekerdenaantallen en de werkelijke verzekerdenkenmerken per zorgverzekeraar;  
+
+b. de herberekende gewichten, bedoeld in artikel 3.11, vijfde lid.     
+2.  Het College zorgverzekeringen vermindert ieder op grond van het eerste lid voor een zorgverzekeraar berekend deelbedrag met een bedrag dat het als volgt berekent: 
+
+a. het College zorgverzekeringen berekent het verschil tussen de gerealiseerde kosten, bedoeld in artikel 3.11, tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in artikel 3.11, vierde lid, voor het met het deelbedrag overeenkomende cluster van prestaties;  
+
+b. het College zorgverzekeringen deelt de onder a verkregen uitkomst door het totaal aantal in het vereveningsjaar ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is;  
+
+c. het College zorgverzekeringen vermenigvuldigt voor iedere zorgverzekeraar de onder b verkregen uitkomst met het aantal in het vereveningsjaar bij die verzekeraar ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is.     
+3.  Indien in andere artikelen of artikelleden van dit hoofdstuk de clausule «het herberekende deelbedrag» voor een in die artikelen of artikelleden genoemd cluster van prestaties wordt gebruikt, wordt daarmee bedoeld het op grond van het eerste en tweede lid voor het desbetreffende cluster van prestaties berekende bedrag.   
 
 ### Artikel  3.13  
 
-1.  Het College zorgverzekeringen past op het op grond van artikel 3.11 herberekende deelbedrag kosten van B-dbc’s, op een bij ministeriële regeling te bepalen wijze hogekostencompensatie toe.   
-2.  Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de kosten van B-dbc’s enerzijds, en het resultaat na toepassing van het eerste lid anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.   
+Voor zover deze onder een zorgverzekering worden gedekt, deelt het College zorgverzekeringen bij ministeriële regeling te bepalen soorten kosten van zorg en overige diensten die niet zonder meer aan een bepaalde kostencategorie kunnen worden toegedeeld, overeenkomstig een bij die regeling te bepalen verdeelsleutel toe aan de variabele kosten van medisch-specialistische zorg, de vaste zorgkosten, de kosten van geneeskundige geestelijke gezondheidszorg of de kosten van overige prestaties.  
 
 ### Artikel  3.14  
 
-1.  Het College zorgverzekeringen merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van ziekenhuisverpleging, kosten aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.   
-2.  Het College zorgverzekeringen merkt de declaraties van specialisten volledig aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.   
-3.  Het College zorgverzekeringen past op het op grond van artikel 3.11 herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, een bij ministeriële regeling te bepalen wijze hogekostencompensatie toe.   
-4.  Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp enerzijds, en het resultaat na toepassing van het derde lid anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.   
+Het College zorgverzekeringen merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van medisch-specialistische zorg, kosten aan als variabele kosten van medisch-specialistische zorg.  
 
 ### Artikel  3.15  
 
-1.  Het College zorgverzekeringen merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van ziekenhuisverpleging, die kosten aan als vaste kosten van ziekenhuisverpleging.   
-2.  Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de vaste kosten van ziekenhuisverpleging in het betreffende jaar enerzijds, en het op grond van artikel 3.11 herberekende deelbedrag vaste kosten van ziekenhuisverpleging anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.   
+1.  Het College zorgverzekeringen merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van medisch-specialistische zorg, kosten aan als vaste zorgkosten.   
+2.  Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de vaste zorgkosten in het betreffende jaar enerzijds, en het op grond van artikel 3.12 herberekende deelbedrag vaste zorgkosten anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.   
 
 ### Artikel  3.16  
 
-1.  Bij ministeriële regeling kan worden bepaald dat het College zorgverzekeringen op het op grond van artikel 3.11 herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, op een bij die regeling te bepalen wijze hogekostencompensatie toepast.   
-2.  Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg enerzijds, en het resultaat na eventuele toepassing van het gestelde in het eerste lid anderzijds.   
-3.  Het resultaat van toepassing van het tweede lid, dan wel, indien van toepassing, van het eerste en tweede lid, leidt tot een nieuw deelbedrag per zorgverzekeraar.   
+1.  Het College zorgverzekeringen past op het op grond van artikel 3.12 herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, op bij ministeriële regeling te bepalen wijze hogekostencompensatie toe.   
+2.  Het resultaat van toepassing van het eerste lid leidt tot een nieuw deelbedrag per zorgverzekeraar.   
 
 ### Artikel  3.17  
 
-1.  Het College zorgverzekeringen past op het op grond van artikel 3.11 herberekende deelbedrag kosten van overige prestaties, op een bij ministeriële regeling te bepalen wijze hogekostencompensatie toe.   
-2.  Bij ministeriële regeling kan worden bepaald dat het College zorgverzekeringen in een bij die regeling te bepalen mate nacalculeert op het verschil tussen de kosten van overige prestaties enerzijds, en het resultaat na toepassing van het eerste lid anderzijds.   
-3.  Het resultaat van toepassing van het eerste lid, dan wel, indien van toepassing, van het eerste en tweede lid, leidt tot een nieuw deelbedrag per zorgverzekeraar.   
+1.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is, meer dan € 40,00 afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het College zorgverzekeringen de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent na.   
+2.  Indien voor een zorgverzekeraar het verschil tussen het deelbedrag, bedoeld in artikel 3.16, tweede lid, en de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het College zorgverzekeringen de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.   
 
 ### Artikel  3.18  
 
-Het College zorgverzekeringen sommeert de ingevolge de artikelen 3.11 tot en met 3.17 herberekende, aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag per zorgverzekeraar.  
+Het College zorgverzekeringen sommeert de ingevolge artikel 3.12 herberekende deelbedragen voor de clusters «variabele kosten van medisch-specialistische zorg» en «overige prestaties», de op grond van de artikelen 3.15 en 3.16 berekende nieuwe deelbedragen en, voor zover van toepassing, de op grond van artikel 3.17 berekende bedragen, tot één normatief bedrag per zorgverzekeraar.  
 
 ### Artikel  3.19  
 
@@ -524,7 +570,7 @@ Het College zorgverzekeringen sommeert de ingevolge de artikelen 3.11 tot en met
 ### Artikel  3.20  
 
 1.  Het College zorgverzekeringen kan het normatieve bedrag, bedoeld in artikel 3.18, en de vereveningsbijdrage, bedoeld in artikel 3.19, ten behoeve van een zorgverzekeraar voorlopig vaststellen.   
-2.  Het College zorgverzekeringen kan bij een voorlopige vaststelling als bedoeld in het eerste lid, de hogekostencompensatie, bedoeld in de artikelen 3.13, 3.14, 3.16 of 3.17 achterwege laten of de nacalculatie, bedoeld in de artikelen 3.13 tot en met 3.17 achterwege laten.   
+2.  Het College zorgverzekeringen kan bij een voorlopige vaststelling als bedoeld in het eerste lid de hogekostencompensatie, bedoeld in artikel 3.16, of de nacalculatie, bedoeld in de artikelen 3.15, 3.16 of 3.17, achterwege laten.   
 3.  Artikel 3.19, vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  3.21  
@@ -543,21 +589,9 @@ Het College zorgverzekeringen sommeert de ingevolge de artikelen 3.11 tot en met
 
 ### Artikel  3.23  
 
-1.  In aanvulling op de vereveningsbijdrage, bedoeld in de artikelen 3.10 en 3.19, kan het College zorgverzekeringen een uitkering verstrekken in verband met een substantieel of structureel verschil tussen kosten en deelbedrag per verzekeraar dat rechtstreeks verband houdt met hogere kosten van verzekerden als gevolg van een zeer uitzonderlijke omstandigheid.   
-2.  Ingevolge het eerste lid worden geen uitkeringen verstrekt dan nadat bij ministeriële regeling is vastgesteld dat sprake is van een nationale ramp die niet opgevangen kan worden binnen de reguliere wijze van vaststelling van de vereveningsbijdrage aan zorgverzekeraars.   
-3.  Bij ministeriële regeling wordt de wijze waarop het College zorgverzekeringen de uitkering, bedoeld in het eerste lid vaststelt, geregeld.   
-
-### Artikel  3.24  
-
-1.  In aanvulling op de vereveningsbijdrage, bedoeld in artikel 3.19, verstrekt het College zorgverzekeringen een bijdrage voor het onder de dekking van de zorgverzekering houden van verzekerden ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is voldaan.   
-2.  De bijdrage, bedoeld in het eerste lid, wordt slechts verstrekt indien: 
-
-a. een premieschuld bestaat van zes maal de premie op maandbasis of meer;  
-
-b. de zorgverzekeraar ten aanzien van de verzekerden met premieschuld handelt volgens de terzake door de zorgverzekeraars vastgestelde regels dan wel anderszins aantoont zich voldoende te hebben ingespannen om te komen tot inning van de verschuldigde premie, en  
-
-c. de zorgverzekering, nadat de onder a bedoelde situatie is ontstaan, gedurende het resterende deel van het kalenderjaar niet door de zorgverzekeraar is opgezegd of ontbonden, noch de dekking ervan is geschorst of beperkt.     
-3.  De omvang van de bijdrage wordt bij ministeriële regeling bepaald.   
+1.  In aanvulling op de vereveningsbijdrage, bedoeld in de artikelen 3.10 en 3.19, kan het College zorgverzekeringen een bijdrage verstrekken in verband met een substantieel verschil tussen kosten en deelbedrag per verzekeraar dat rechtstreeks verband houdt met hogere kosten van verzekerden als gevolg van een zeer uitzonderlijke omstandigheid.   
+2.  Ingevolge het eerste lid worden geen bijdragen verstrekt dan nadat bij ministeriële regeling is vastgesteld dat sprake is van een ramp die niet opgevangen kan worden binnen de reguliere wijze van vaststelling van de vereveningsbijdrage aan zorgverzekeraars.   
+3.  Bij ministeriële regeling wordt de wijze waarop het College zorgverzekeringen de bijdrage, bedoeld in het eerste lid vaststelt, geregeld.   
 
 ### Hoofdstuk  3a  
 
@@ -569,10 +603,12 @@ c. de zorgverzekering, nadat de onder a bedoelde situatie is ontstaan, gedurende
 
 a. in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking heeft, voldoen aan bij ministeriële regeling gestelde voorwaarden met betrekking tot aan hen ter hand gestelde, in die regeling aan te wijzen geneesmiddelen, of  
 
-b. in twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking heeft, zijn ingedeeld in bij ministeriële regeling aangewezen DKG’s, of  
+b. in het jaar dat drie jaren voorafgaat en in het jaar dat twee jaren voorafgaat aan het jaar waarop de uitkering betrekking heeft, zijn ingedeeld in bij ministeriële regeling aangewezen DKG’s, of  
 
 c. op 1 juli van het jaar waarop de uitkering betrekking heeft, zonder onderbreking meer dan een half jaar in een AWBZ-instelling verblijven.     
 2.  Gewezen personen als bedoeld in [artikel 2, tweede lid, onderdeel a, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) hebben eveneens recht op een uitkering als bedoeld in het eerste lid, indien zij in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking dient te hebben, zorg hebben ontvangen ten laste van een ziektekostenregeling voor militairen die overeenkomt met de zorg waarop het eerste lid, onderdelen a of b, betrekking heeft.   
+3.  Een verzekerde wordt voor wat betreft de geneeskundige zorg, bedoeld in [artikel 10 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die hij in een andere lidstaat van de Europese Unie heeft ontvangen, ingedeeld in de DKG met de chronische aandoening, die te identificeren is op grond van uitgevoerde diagnose behandeling combinaties die naar aard en strekking met die geneeskundige zorg overeenkomen.   
+4.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt met een lidstaat van de Europese Unie gelijkgesteld, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.   
 
 ### Artikel  3a.2  
 
@@ -616,11 +652,6 @@ Bij de inwerkingtreding van de [wet](../../../../wet/zorgverzekeringswet/BWBR001
 ### Artikel  4.2  
 
 De rijksbelastingdienst verstrekt aan de zorgverzekeraar op een verzoek als bedoeld in [artikel 89, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), het persoonsgegeven dat een persoon als niet-ingezetene aan de loonbelasting is onderworpen ter zake van in Nederland in dienstbetrekking verrichte arbeid dan wel als niet-ingezetene aan de inkomstenbelasting is onderworpen ter zake van in Nederland verrichte beroepswerkzaamheden anders dan in dienstbetrekking.  
-
-### Artikel  4.3  
-
-1.  Dit besluit treedt in werking op 1 januari 2006, met uitzondering van artikel 2.4, eerste lid, voor zover het betreft zorg zoals psychiaters, zenuwartsen en klinisch-psychologen die plegen te bieden, de eerstelijnspsychologische zorg voor zover die niet wordt verleend door een huisarts, de onderdelen d, e en f van dat lid, het derde lid van dat artikel, artikel 3.1, eerste lid, subonderdeel c, artikel 3.5 en artikel 3.11.   
-2.  Artikel 2.4, eerste lid, voor zover het betreft zorg zoals psychiaters, zenuwartsen en klinisch-psychologen die plegen te bieden, de eerstelijnspsychologische zorg voor zover die niet wordt verleend door een huisarts, de onderdelen d, e en f van dat lid, het derde lid van dat artikel, artikel 3.1, eerste lid, subonderdeel c, artikel 3.5 en artikel 3.11 treden in werking met ingang van 1 januari 2007.   
 
 ### Artikel  4.4  
 
@@ -684,21 +715,21 @@ b. of een van de volgende aandoeningen van het bewegingsapparaat:
 
 4°. reflexdystrofie;  
 
-5°. wervelfractuur als gevolg van osteoporose;  
+5°.  vervallen;   
 
 6°. fractuur als gevolg van morbus Kahler, botmetastase of morbus Paget;  
 
 7°. frozen shoulder (capsulitis adhaesiva);  
 
-8°. reumatoïde artritis of chronische reuma;  
+8°.  vervallen;   
 
-9°. chronische artritiden;  
+9°.  vervallen;   
 
-10°. spondylitis ankylopoetica (morbus Bechterew);  
+10°.  vervallen;   
 
-11°. reactieve artritis;  
+11°.  vervallen;   
 
-12°. juveniele chronische artritis;  
+12°.  vervallen;   
 
 13°. hyperostotische spondylose (morbus Forestier);  
 
@@ -712,21 +743,11 @@ b. of een van de volgende aandoeningen van het bewegingsapparaat:
 
 18°. fracturen indien deze conservatief worden behandeld;    
 
-c. of een van de volgende hartaandoeningen: 
-
-1°. myocard-infarct (AMI);  
-
-2°. status na coronary artery bypass-operatie (CABG);  
-
-3°. status na percutane transluminale coronair angioplastiek (PTCA);  
-
-4°. status na hartklepoperatie;  
-
-5°. status na operatief gecorrigeerde congenitale afwijkingen;    
+c.  vervallen;   
 
 d. of een van de volgende aandoeningen: 
 
-1°. chronic obstructive pulmonary disease indien sprake is van een FEV1/VC kleiner dan 60%;  
+1°. Chronic obstructive pulmonary disease indien sprake is van stadium II of hoger van de GOLD Classificatie voor COPD;  
 
 2°. aangeboren afwijking van de tractus respiratorius;  
 

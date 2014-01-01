@@ -17,7 +17,7 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 5b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [6](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [8](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [8a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [12](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13bis](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19f](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [25, vierde lid](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [26, zesde lid](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [27](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [28](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [28a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [29](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31, eerste lid, onderdeel c](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [32ab](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [32ba](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [33](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35d](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35e](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35k](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35l](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35m](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [39c, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en de [artikelen 2e](../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md) en [10e van het Uitvoeringsbesluit loonbelasting 1965](../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 5b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [6](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [8](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [8a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [11b](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [12](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [13bis](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [18](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [19f](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [25, vierde lid](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [26, zesde lid](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [27](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [28](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [28a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [29](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31, eerste lid, onderdeel c](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [31a](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [32ab](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [32ba](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [33](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35d](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35e](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35g](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35k](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35l](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [35m](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [39c, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en de [artikelen 2e](../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md), [10e](../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md) en [10eb van het Uitvoeringsbesluit loonbelasting 1965](../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md).  
 
 ### Artikel  1.2  
 
@@ -39,7 +39,7 @@ f. *werkplek:* iedere plaats die in verband met het verrichten van arbeid wordt 
 
 g. *verbonden vennootschap:* een verbonden vennootschap als bedoeld in [artikel 10a, zevende lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-h. *jaaropgaaf:* de opgave van het in het kalenderjaar genoten loon, de ingehouden belasting en andere gegevens die van belang kunnen zijn voor de heffing van de inkomstenbelasting;  
+h. *jaaropgaaf:* de opgave van het in het voorafgaande kalenderjaar genoten loon, de op dat loon ingehouden belasting en premie voor de volksverzekeringen, de over dat loon door de inhoudingsplichtige verschuldigde premies werknemersverzekeringen en inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de op dat loon ingehouden inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de met de loonbelasting en premie volksverzekeringen verrekende arbeidskorting;  
 
 i. *heffingskorting:* de standaardloonheffingskorting, bedoeld in [artikel 21c van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).     
 2.  In deze regeling wordt onder een uitkering ingevolge een sociale verzekeringswet mede verstaan de toeslag die ingevolge de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md) wordt verleend op die uitkering.   
@@ -275,27 +275,6 @@ b. aanspraken op een eenmalige uitkering bij het beëindigen van de dienstbetrek
 
 c. aanspraken op uitkeringen en verstrekkingen in door de Minister aan te wijzen gevallen.    
 
-### Artikel  3.4  
-
-####Minimale periode uitkeringstermijnen bij stamrechtspaarrekening en stamrechtbeleggingsrecht
-
-1.  De minimale periode tussen de eerste en de laatste uitkering, bedoeld in [artikel 11a, derde lid, onderdeel a, onder 2°, en onderdeel b, onder 2°, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt bepaald aan de hand van de volgende tabel.  
-
-| Ingeval de gerechtigde tot de uitkeringen, bedoeld in [artikel 11a, derde lid, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij ingang van de uitkeringen, een leeftijd heeft bereikt van  |--- | maar nog niet de leeftijd heeft bereikt van  |--- | bedraagt de minimale periode tussen de eerste en de laatste uitkering het in deze kolom vermelde aantal jaren  |--- |
-|:---|:---|:---|:---|:---|:---|
-| --- | I  | --- | II  | --- | III  |
-| --- | –  | --- | 25  | --- | 18  |
-| --- | 25  | --- | 30  | --- | 15  |
-| --- | 30  | --- | 35  | --- | 12  |
-| --- | 35  | --- | 40  | --- | 9  |
-| --- | 40  | --- | 45  | --- | 6  |
-| --- | 45  | --- | 50  | --- | 4  |
-| --- | 50  | --- | 55  | --- | 3  |
-| --- | 55  | --- | 60  | --- | 2  |
-| --- | 60  | --- | –  | --- | 1  |
-
-2.  Ingeval de uitkeringen toekomen aan kinderen of pleegkinderen van de werknemer die ten tijde van het ontvangen van de eerste uitkering jonger zijn dan 30 jaar, bedraagt het aantal jaren tussen de eerste en de laatste uitkering, in afwijking van het eerste lid, nimmer meer dan het aantal jaren dat de gerechtigde jonger is dan 30 jaar.   
-
 ### Artikel  3.5  
 
 ####Niet tot het loon gerekende premie
@@ -342,9 +321,9 @@ g. huisvesting en inwoning, met inbegrip van – indien mede verstrekt – het g
 
 De waarde van de volgende voorzieningen die op de werkplek gebruikt of verbruikt worden, wordt gesteld op de daarbij vermelde bedragen: 
 
-a. maaltijden: de waarde wordt gesteld op € 3,05;  
+a. maaltijden: de waarde wordt gesteld op € 3,15;  
 
-b. huisvesting en inwoning, anders dan de ter behoorlijke vervulling van de dienstbetrekking ter beschikking gestelde woning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing: de waarde wordt gesteld € 5,25 per dag;  
+b. huisvesting en inwoning, anders dan de ter behoorlijke vervulling van de dienstbetrekking ter beschikking gestelde woning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing: de waarde wordt gesteld € 5,35 per dag;  
 
 c. door de inhoudingsplichtige verrichte kinderopvang waarvoor aanspraak op een kinderopvangtoeslag onderscheidenlijk aanspraak op een tegemoetkoming kan ontstaan op de voet van [artikel 1.5 van de Wet kinderopvangen kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md): de waarde wordt gesteld op het aantal uren genoten kinderopvang maal de uurprijs vastgesteld krachtens [artikel 1.7, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
 
@@ -382,7 +361,7 @@ c. de inhoudingsplichtige de toepassing van dit lid in de aangifte loonheffingen
 1.  De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een of meer uitkeringen of verstrekkingen te ontvangen, wordt gesteld op de bedragen die bij een derde worden gestort of, voor zover geen stortingen worden verricht, zouden moeten worden gestort teneinde de aanspraak te dekken.   
 2.  In afwijking in zoverre van het eerste lid wordt per kalenderjaar de waarde van een aanspraak ingevolge een ziektekostenregeling ten behoeve van ten minste 25 werknemers of gewezen werknemers die gedurende het gehele voorafgaande kalenderjaar heeft bestaan, voor zover geen stortingen bij derden worden verricht, gesteld op het bedrag van de gemiddelde uitkering. De gemiddelde uitkering is het rekenkundige gemiddelde van de jaargemiddelden van de afgelopen vijf kalenderjaren. Het jaargemiddelde is het gezamenlijke bedrag van de ter zake door of namens de inhoudingsplichtige gedane uitkeringen en verstrekkingen naar de waarde in het economische verkeer, gedeeld door het aantal personen dat in het desbetreffende jaar gedurende ten minste zes maanden gerechtigd is geweest. Indien zulks tot een lagere gemiddelde uitkering leidt, worden het hoogste en het laagste jaargemiddelde buiten beschouwing gelaten en is de gemiddelde uitkering het rekenkundige gemiddelde van de jaargemiddelden van de andere drie kalenderjaren.   
 3.  Indien de in het tweede lid bedoelde regeling minder dan vijf gehele kalenderjaren heeft bestaan, is dat lid van overeenkomstige toepassing op het mindere aantal gehele kalenderjaren, met dien verstande dat bij een bestaansduur van de regeling van een of twee gehele kalenderjaren de laatste volzin van dat lid niet van toepassing is.   
-4.  De waarde van een aanspraak ingevolge een wettelijke Belgische ziektekostenverzekering bedraagt maximaal het gezamenlijke bedrag van de voor dat jaar geldende standaardpremie, bedoeld in [artikel 4 van de Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), welke standaardpremie tweemaal in aanmerking wordt genomen ingeval sprake is van een op grond van verordening (EU) 883/2004 (Pb EU L314) meeverzekerde echtgenoot als bedoeld in die verordening, en het voor dat jaar geldende maximumbedrag van de inkomensafhankelijke bijdrage volgens [hoofdstuk 5 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+4.  De waarde van een aanspraak ingevolge een wettelijke Belgische ziektekostenverzekering bedraagt maximaal het gezamenlijke bedrag van de voor dat jaar geldende standaardpremie, bedoeld in [artikel 4 van de Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), welke standaardpremie tweemaal in aanmerking wordt genomen ingeval sprake is van een op grond van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166) meeverzekerde echtgenoot als bedoeld in die verordening, en het voor dat jaar geldende maximumbedrag van de inkomensafhankelijke bijdrage volgens [hoofdstuk 5 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 5.  In afwijking van de vorige leden wordt de waarde van een aanspraak op een ziektekostenregeling met een waarde van ten hoogste € 27 per jaar op nihil gesteld.   
 
 ### Artikel  3.13  
@@ -445,6 +424,8 @@ Voor de toepassing van [artikel 19a van de wet](../../../../../wet/wet/op/de/loo
 ### Hoofdstuk  5  
 
 ####Levensloopregeling ([hoofdstuk IIC van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md))
+
+Vervallen per 01-01-2012   
 
 ### Hoofdstuk  6  
 
@@ -537,7 +518,7 @@ c. indien de werknemer geen informatie als bedoeld in artikel 7.9 hoeft te vers
 6.  De inhoudingsplichtige houdt, behalve in de gevallen, bedoeld in [artikel 26b van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), de belasting in aan de hand van de gegevens, vermeld in het hoofd van de loonstaat.   
 7.  De inhoudingsplichtige houdt de loonadministratie op de plaats waar hij in Nederland kantoor houdt of, indien zodanig kantoor niet wordt gehouden, op de plaats waar hij in Nederland woont of gevestigd is, of op de plaats waar hij in Nederland een vaste inrichting voor de uitoefening van zijn bedrijf of beroep of een in Nederland wonende of gevestigde vaste vertegenwoordiger heeft. Bij gebreke daarvan houdt hij de loonadministratie onder zijn berusting. De inspecteur kan een andere plaats aanwijzen.   
 8.  Ingeval de loonberekening door derden wordt uitgevoerd met behulp van mechanische of elektronische apparatuur, kan de Minister, onder door hem te stellen voorwaarden, bepalen dat de loonadministratie op een andere plaats wordt bewaard.   
-9.  Dit artikel is niet van toepassing ten aanzien van de werknemer die uitkeringen geniet ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van [artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md) (Stb. 650), of de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde.   
+9.  Dit artikel is niet van toepassing ten aanzien van de werknemer die uitkeringen geniet ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  7.3  
 
@@ -555,7 +536,25 @@ b. de gegevens op verzoek van de inspecteur voor controle beschikbaar komen op d
 ####Jaaropgaaf
 
 1.  De inhoudingsplichtige verstrekt aan de werknemer een jaaropgaaf.   
-2.  Ten aanzien van de werknemer van wie in verband met gemoedsbezwaren geen premie voor de volksverzekeringen is geheven, bevat de jaaropgaaf de mededeling dat in plaats van premie voor de volksverzekeringen tot eenzelfde bedrag premievervangende belasting is ingehouden.   
+2.  De jaaropgaaf, bedoeld in het eerste lid, bevat in elk geval de volgende gegevens: 
+
+a. de naam van de werknemer;  
+
+b. het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van den werknemer;  
+
+c. de naam van de inhoudingsplichtige;  
+
+d. het in het voorafgaande kalenderjaar door de werknemer genoten loon;  
+
+e. de op het loon, bedoeld in onderdeel d, ingehouden loonbelasting en premie voor de volksverzekeringen;  
+
+f. de door de inhoudingsplichtige over het loon, bedoeld in onderdeel d, verschuldigde premies werknemersverzekeringen en inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+
+g. de op het loon, bedoeld in onderdeel d, ingehouden inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+
+h. de met de loonbelasting en premie volksverzekeringen verrekende arbeidskorting.     
+3.  De verstrekking van de jaaropgaaf, bedoeld in het eerste lid, kan achterwege blijven indien aan de werknemer opgave van de gegevens, bedoeld in het tweede lid, is verstrekt in de vorm van een opgave als bedoeld in [artikel 626 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+4.  Ten aanzien van de werknemer van wie in verband met gemoedsbezwaren geen premie voor de volksverzekeringen is geheven, bevat de jaaropgaaf de mededeling dat in plaats van premie voor de volksverzekeringen tot eenzelfde bedrag premievervangende belasting is ingehouden.   
 
 ### Artikel  7.5  
 
@@ -570,7 +569,7 @@ b. de gegevens op verzoek van de inspecteur voor controle beschikbaar komen op d
 
 ####Eerstedagsmelding
 
-1.  De eerstedagsmelding, bedoeld in [artikel 28, eerste lid, onderdeel f, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt langs elektronische weg gedaan.   
+1.  De eerstedagsmelding, bedoeld in [artikel 28, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt langs elektronische weg gedaan.   
 2.  Ingeval met toepassing van [artikel 20, derde lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](../../../../../ministeriele-regeling/uitvoeringsregeling/algemene/wet/inzake/rijksbelastingen/1994/BWBR0006736/README.md) voor de loonbelasting ontheffing is verleend van de in het tweede lid van dat artikel genoemde verplichting tot het doen van aangifte langs elektronische weg, wordt, in afwijking van het eerste lid, de eerstedagsmelding gedaan door het invullen, ondertekenen en inleveren of toezenden van het door de inspecteur uitgereikte of toegezonden meldingsformulier.   
 3.  De eerstedagsmelding bevat: 
 
@@ -623,19 +622,17 @@ e. zijn woonplaats en, ingeval hij niet in Nederland woont, zijn woonland en reg
 2.  De inhoudingsplichtige bewaart de in het eerste lid bedoelde gegevens ten minste vijf jaren na het einde van het kalenderjaar waarin de dienstbetrekking is geëindigd.   
 3.  De vorige leden zijn niet van toepassing ten aanzien van: 
 
-a. de werknemer die uitkeringen geniet ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van [artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md) (Stb. 650);  
+a. de werknemer die uitkeringen geniet ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-b. de werknemer die uitkeringen geniet ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde;  
+b. de werknemer die uitkeringen geniet wegens tijdelijke arbeidsongeschiktheid of uitkeringen ingevolge de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), indien degene tot wie de werknemer in dienstbetrekking staat of laatstelijk heeft gestaan, de voor de heffing van de belasting vereiste gegevens, daaronder begrepen het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, schriftelijk mededeelt aan de inhoudingsplichtige;  
 
-c. de werknemer die uitkeringen geniet wegens tijdelijke arbeidsongeschiktheid of uitkeringen ingevolge de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), indien degene tot wie de werknemer in dienstbetrekking staat of laatstelijk heeft gestaan, de voor de heffing van de belasting vereiste gegevens, daaronder begrepen het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, schriftelijk mededeelt aan de inhoudingsplichtige;  
+c. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), niet heeft bereikt en loon uit vroegere dienstbetrekking geniet indien de inhoudingsplichtige weet dat de werknemer tevens een uitkering ingevolge de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of een uitkering of een inkomensvoorziening ingevolge de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) geniet;  
 
-d. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), niet heeft bereikt en loon uit vroegere dienstbetrekking geniet indien de inhoudingsplichtige weet dat de werknemer tevens een uitkering ingevolge de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of een uitkering of een inkomensvoorziening ingevolge de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) geniet;  
+d. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en loon uit tegenwoordige dienstbetrekking geniet, of loon uit vroegere dienstbetrekking geniet waarin niet zijn begrepen de uitkeringen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
 
-e. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en loon uit tegenwoordige dienstbetrekking geniet, of loon uit vroegere dienstbetrekking geniet waarin niet zijn begrepen de uitkeringen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+e. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en loon geniet in de vorm van uitkeringen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of loon uit vroegere dienstbetrekking geniet waarin zijn begrepen de uitkeringen ingevolge de Algemene Ouderdomswet;  
 
-f. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en loon geniet in de vorm van uitkeringen ingevolge de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of loon uit vroegere dienstbetrekking geniet waarin zijn begrepen de uitkeringen ingevolge de Algemene Ouderdomswet;  
-
-g. de werknemer die loon geniet in de vorm van een tegemoetkoming als bedoeld in artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten.     
+f. de werknemer die loon geniet in de vorm van een tegemoetkoming als bedoeld in artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten.     
 4.  Indien de inhoudingsplichtige niet bekend is met het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de in het derde lid bedoelde werknemer, verzoekt de inhoudingsplichtige voor de eerste loonverstrekking de werknemer om opgave van zijn burgerservicenummer of, bij het ontbreken daarvan, zijn sociaal-fiscaalnummer. De werknemer doet deze opgave voor de eerste loonverstrekking toekomen aan de inhoudingsplichtige.   
 
 ### Artikel  7.10  
@@ -746,7 +743,7 @@ Degene tot wie een werknemer in dienstbetrekking staat – of, indien krachtens 
 
 ####Meerdere gevallen van loon uit vroegere dienstbetrekking
 
-Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere dienstbetrekking – niet zijnde uitkeringen ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650) – verstrekt, wordt ook geacht te verstrekken: 
+Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere dienstbetrekking – niet zijnde uitkeringen ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) – verstrekt, wordt ook geacht te verstrekken: 
 
 a. het loon uit een vroegere dienstbetrekking dat door zijn tussenkomst wordt uitbetaald;  
 

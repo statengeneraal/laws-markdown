@@ -55,7 +55,7 @@ l. toegestane maximum massa: de eigen massa van het voertuig vermeerderd met de 
 
 m. toegestane maximum massa van een vrachtauto die is voorzien van een koppelinrichting: de toegestane maximum massa van de vrachtauto indien deze niet zou zijn voorzien van een koppelinrichting, verhoogd met de hoogste toegestane maximum massa van een aanhangwagen waarmee de vrachtauto kan worden verbonden;  
 
-n. richtlijn: de Richtlijn nr. 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen.    
+n. richtlijn: Richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187).    
 
 ### Artikel  3  
 
@@ -128,6 +128,12 @@ b. die het motorrijtuig waarvoor geen kenteken is opgegeven, feitelijk ter besch
 
 c. die een in het buitenland geregistreerd motorrijtuig in Nederland feitelijk ter beschikking heeft.     
 2.  Als motorrijtuig waarvoor geen kenteken is opgegeven wordt niet aangemerkt een motorrijtuig waarvoor ingevolge [artikel 37 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) het voorzien zijn van een kenteken ter zake van het gebruik van de weg niet is voorgeschreven. De eerste volzin is niet van toepassing met betrekking tot artikel 37, eerste lid, onderdeel *c*, van de Wegenverkeerswet 1994, behoudens voorzover bij ministeriële regeling anders wordt bepaald.   
+3.  Een houder als bedoeld in het eerste lid, aanhef en onderdeel c, niet zijnde een lichaam, wordt, behoudens tegenbewijs, geacht in Nederland zijn hoofdverblijf te hebben indien hij in Nederland: 
+
+a. is ingeschreven in de basisadministratie van persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md); of  
+
+b. niet is ingeschreven in de basisadministratie, bedoeld in onderdeel a, maar verplicht is tot het doen van aangifte van verblijf en adres ingevolge [artikel 65 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).     
+4.  Een houder als bedoeld in het eerste lid, onderdeel c, zijnde een onderneming of rechtspersoon, wordt, behoudens tegenbewijs, geacht in Nederland te zijn gevestigd indien hij in Nederland is ingeschreven in het handelsregister, genoemd in [artikel 1, eerste lid, onderdeel h, van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
 
 ### Artikel  8  
 
@@ -166,7 +172,8 @@ Voor een motorrijtuig waarvoor geen kenteken is opgegeven vangt het tijdvak aan 
 ### Artikel  13  
 
 1.  Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk ter beschikking staat vangt het tijdvak aan met ingang van de dag waarop het gebruik van de weg in Nederland aanvangt en, zolang het motorrijtuig in Nederland feitelijk ter beschikking staat, telkenmale drie maanden later.   
-2.  In afwijking van het bepaalde in artikel 10 kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.   
+2.  Voor de toepassing van artikel 7, derde lid, vangt, in afwijking van het eerste lid, voor dat motorrijtuig het tijdvak aan met ingang van de dag waarop de houder zich heeft ingeschreven of had moeten inschrijven in de basisadministratie van persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) en, zolang het motorrijtuig in Nederland feitelijk ter beschikking staat, telkenmale drie maanden later tenzij wordt aangetoond met ingang van welke dag het in het buitenland geregistreerd motorrijtuig in Nederland ter beschikking heeft gestaan in welk geval het tijdvak aanvangt met die datum. Voor de toepassing van artikel 7, vierde lid, is de vorige volzin van overeenkomstige toepassing.   
+3.  In afwijking van het bepaalde in artikel 10 kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.   
 
 ### Afdeling  2  
 
@@ -261,21 +268,21 @@ d. als dieselolie aangemerkt: halfzware olie en gasolie als bedoeld in [artikel 
 
 | bij een eigen massa in kilogrammen van  | over een tijdvak van drie maanden  | vermeerderd met  | per 100 kg eigen massaboven  |
 |:---|:---|:---|:---|
-| 500 of minder  | € 16,44  | --- | --- |
-| 600  | € 22,29  | --- | --- |
-| 700  | € 28,32  | --- | --- |
-| 800  | € 36,97  | --- | --- |
-| 900 tot en met 3200  | € 49,17  | € 13,23  | 900 kg  |
-| 3300 en meer  | € 363,05  | € 9,19  | 3 300 kg  |
+| 500 of minder  | € 16,72  | --- | --- |
+| 600  | € 22,67  | --- | --- |
+| 700  | € 28,80  | --- | --- |
+| 800  | € 37,60  | --- | --- |
+| 900 tot en met 3200  | € 50,01  | € 13,45  | 900 kg  |
+| 3300 en meer  | € 369,22  | € 9,35  | 3 300 kg  |
 
 2.  De belasting voor een personenauto wordt verhoogd met een brandstoftoeslag, tenzij deze personenauto is bestemd om te worden aangedreven door een kracht die uitsluitend wordt ontleend aan benzine, een product dat ingevolge [artikel 28 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gelijkwaardig is aan lichte olie, of een combinatie van deze brandstoffen. De brandstoftoeslag bedraagt bij aandrijving door een kracht die: 
 
-a. wordt ontleend aan dieselolie of een product dat ingevolge [artikel 28 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gelijkwaardig is aan gasolie of een combinatie van deze brandstoffen: € 62,68 bij een eigen massa van 500 kg of minder; € 74,20 bij een eigen massa van 600 kg; € 85,69 bij een eigen massa van 700 kg; € 97,41 bij een eigen massa van 800 kg; € 114,00 bij een eigen massa van 900 kg of meer, vermeerderd met € 12,36 per 100 kg eigen massa boven 900 kg;  
+a. wordt ontleend aan dieselolie of een product dat ingevolge [artikel 28 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) gelijkwaardig is aan gasolie of een combinatie van deze brandstoffen: € 63,75 bij een eigen massa van 500 kg of minder; € 75,46 bij een eigen massa van 600 kg; € 87,15 bij een eigen massa van 700 kg; € 99,07 bij een eigen massa van 800 kg; € 115,94 bij een eigen massa van 900 kg of meer, vermeerderd met € 12,57 per 100 kg eigen massa boven 900 kg;  
 
-b. niet uitsluitend wordt ontleend aan een motorbrandstof als bedoeld in de aanhef of in onderdeel a: € 73,54 bij een eigen massa van 500 kg of minder; € 88,15 bij een eigen massa van 600 kg; € 102,76 bij een eigen massa van 700 kg; € 117,37 bij een eigen massa van 800 kg; € 128,20 bij een eigen massa van 900 kg of meer, vermeerderd met € 13,59 per 100 kg eigen massa boven 900 kg.   Voor de toepassing van dit lid wordt aandrijving door een kracht die wordt ontleend aan een elektromotor als bedoeld in artikel 22, derde lid, buiten beschouwing gelaten.   
-3.  In afwijking van het tweede lid, onderdeel b, bedraagt de aldaar bedoelde brandstoftoeslag: nihil bij een eigen massa van 800 kg of minder en € 14,19 bij een eigen massa van 900 kg of meer, vermeerderd met € 14,19 per 100 kg eigen massa boven 900 kg bij aandrijving door een kracht die wordt ontleend aan aardgas en eveneens bij aandrijving door een kracht die wordt ontleend aan vloeibaar gemaakt petroleumgas, indien: 
+b. niet uitsluitend wordt ontleend aan een motorbrandstof als bedoeld in de aanhef of in onderdeel a: € 74,79 bij een eigen massa van 500 kg of minder; € 89,65 bij een eigen massa van 600 kg; € 104,51 bij een eigen massa van 700 kg; € 119,37 bij een eigen massa van 800 kg; € 130,38 bij een eigen massa van 900 kg of meer, vermeerderd met € 13,82 per 100 kg eigen massa boven 900 kg.   Voor de toepassing van dit lid wordt aandrijving door een kracht die wordt ontleend aan een elektromotor als bedoeld in artikel 22, derde lid, buiten beschouwing gelaten.   
+3.  In afwijking van het tweede lid, onderdeel b, bedraagt de aldaar bedoelde brandstoftoeslag: nihil bij een eigen massa van 800 kg of minder en € 14,43 bij een eigen massa van 900 kg of meer, vermeerderd met € 14,43 per 100 kg eigen massa boven 900 kg bij aandrijving door een kracht die wordt ontleend aan aardgas en eveneens bij aandrijving door een kracht die wordt ontleend aan vloeibaar gemaakt petroleumgas, indien: 
 
-a. voor de personenauto een typegoedkeuring is verleend als bedoeld in [artikel 22 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) dan wel een individuele goedkeuring als bedoeld in [artikel 26 van die wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met toepassing van de normen zoals die zijn neergelegd in de Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199);  
+a. voor de personenauto een typegoedkeuring is verleend als bedoeld in [artikel 22 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) dan wel een individuele goedkeuring als bedoeld in [artikel 26 van die wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met toepassing van de normen zoals die zijn neergelegd in Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199);  
 
 b. de personenauto is voorzien van een installatie die tot gevolg heeft dat de emissies van die personenauto ten minste 30% lager zijn dan de emissienormen zoals neergelegd in de in onderdeel *a* bedoelde richtlijn;  
 
@@ -296,7 +303,7 @@ d. met betrekking tot de personenauto overeenkomstig de door Onze Minister van I
 
 ### Artikel  23b  
 
-1.  Voor een personenauto, niet zijnde een personenauto in de zin van artikel 23a, waarvan de CO <sub>2</sub> -uitstoot niet hoger is dan 95 gram per kilometer indien deze wordt aangedreven door een motor met compressieontsteking, dan wel niet hoger is dan 110 gram per kilometer indien deze wordt aangedreven met een ander soort motor, bedraagt de belasting in afwijking van artikel 23 nihil.   
+1.  Voor een personenauto, niet zijnde een personenauto in de zin van artikel 23a, waarvan de CO <sub>2</sub> -uitstoot niet hoger is dan 50 gram per kilometer, bedraagt de belasting in afwijking van artikel 23 nihil.   
 2.  [Artikel 9, tiende lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) is van overeenkomstige toepassing.   
 
 ### Afdeling  3  
@@ -313,11 +320,11 @@ Op de belasting die wordt geheven voor een bestelauto is artikel 23 van overeenk
 
 | bij een eigen massa in kilogrammen van  | over een tijdvak van drie maanden  | vermeerderd met  | per 100 kg eigen massa boven  |
 |:---|:---|:---|:---|
-| 500 of minder  | € 9,77  | --- | --- |
-| 600 tot en met 1000  | € 16,73  | € 4,90  | 600 kg  |
-| 1100 tot en met 2000  | € 41,26  | €5,24  | 1 100 kg  |
-| 2100 tot en met 2700  | € 94,14  | € 5,65  | 2 100 kg  |
-| 2800 en meer  | € 131,53  | € 1,31  | 2 800 kg  |
+| 500 of minder  | € 9,94  | --- | --- |
+| 600 tot en met 1000  | € 17,01  | € 4,98  | 600 kg  |
+| 1100 tot en met 2000  | € 41,96  | €5,33  | 1 100 kg  |
+| 2100 tot en met 2700  | € 95,74  | € 5,75  | 2 100 kg  |
+| 2800 en meer  | € 133,77  | € 1,33  | 2 800 kg  |
 
 2.  Het eerste lid is eveneens van toepassing, indien de laadruimte van de bestelauto, in afwijking van artikel 3, eerste lid, ten gevolge van aanpassing van de bestelauto in verband met de handicap van de in het eerste lid bedoelde persoon, niet langer van de bestuurdersplaats onderscheidenlijk de cabine is afgescheiden of niet in haar geheel is voorzien van een vlakke laadvloer.   
 3.  Indien de belasting voor een bestelauto wordt geheven van een ander dan de gehandicapte, is het eerste lid slechts van toepassing indien het verzoek als bedoeld in het eerste lid wordt gedaan door die ander en de gehandicapte gezamenlijk.   
@@ -337,11 +344,11 @@ b. de bestelauto uitsluitend gebruikt blijft worden voor het persoonlijk gebruik
 
 | bij een eigen massa in kilogrammen van  | over een tijdvak van drie maanden  | vermeerderd met  | per 100 kg eigen massa boven  |
 |:---|:---|:---|:---|
-| 500 of minder  | € 33,45  | --- | --- |
-| 600 tot en met 1000  | € 40,90  | € 5,23  | 600 kg  |
-| 1100 tot en met 2000  | € 67,20  | € 5,62  | 1 100 kg  |
-| 2100 tot en met 2700  | € 123,87  | € 6,06  | 2 100 kg  |
-| 2800 en meer  | € 163,97  | € 1,39  | 2 800 kg  |
+| 500 of minder  | € 34,02  | --- | --- |
+| 600 tot en met 1000  | € 41,60  | € 5,32  | 600 kg  |
+| 1100 tot en met 2000  | € 68,34  | € 5,72  | 1 100 kg  |
+| 2100 tot en met 2700  | € 125,98  | € 6,16  | 2 100 kg  |
+| 2800 en meer  | € 166,76  | € 1,41  | 2 800 kg  |
 
 2.  In afwijking in zoverre van het eerste lid gelden de daarin opgenomen belastingbedragen voor een bestelauto die door een ondernemer als bedoeld in het eerste lid voor een langere dan bij ministeriële regeling vast te stellen periode ter beschikking wordt gesteld aan een derde, slechts indien deze derde overigens voldoet aan het gestelde in het eerste lid.   
 3.  Bij een verandering, anders dan aan de bestelauto, waardoor de belasting voor een bestelauto hoger of lager wordt, wordt een aanvullende aangifte gedaan. De constatering van het feit dat voor een bestelauto de aanvullende aangifte niet is gedaan, wordt gelijkgesteld met een dergelijke aangifte. De aanvullende aangifte geldt voor de tijdvakken die aanvangen na het lopende tijdvak.   
@@ -354,7 +361,7 @@ b. de bestelauto uitsluitend gebruikt blijft worden voor het persoonlijk gebruik
 
 ### Artikel  25  
 
-Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden € 23,24.  
+Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden € 23,64.  
 
 ### Afdeling  5  
 
@@ -366,17 +373,17 @@ Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden �
 
 | Bij een toegestane maximum massa in kilogrammen van  | Over een tijdvak van drie maanden  |--- | Zonder koppelinrichting  | met koppelinrichting  |--- | Zonder luchtvering  | Met luchtvering  | zonder luchtvering  | Met luchtvering  |--- | Met aantal assen  | met aantal assen  |--- | 2  | 3  | 4 of meer  | 2  | 3  | 4 of meer  | 2  | 3 of meer  | 2  | 3 of meer  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Minder dan 15 000  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  |
-| 15 000 tot 23 000  | € 89,11  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  |
-| 23 000 tot 25 000  | € 110,44  | € 110,44  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 74,04  |
-| 25 000 tot 27 000  | € 110,44  | € 110,44  | € 74,04  | € 74,04  | € 74,04  | € 74,04  | € 99,15  | € 74,04  | € 74,04  | € 74,04  |
-| 27 000 tot 29 000  | € 116,71  | € 116,71  | € 116,71  | € 74,04  | € 74,04  | € 74,04  | € 99,15  | € 74,04  | € 74,04  | € 74,04  |
-| 29 000 tot 31 000  | € 171,94  | € 171,94  | € 171,94  | € 116,71  | € 116,71  | € 116,71  | € 107,90  | € 105,41  | € 74,04  | € 74,04  |
-| 31 000 tot 33 000  | € 171,94  | € 171,94  | € 171,94  | € 116,71  | € 116,71  | € 116,71  | € 149,34  | € 105,41  | € 107,90  | € 74,04  |
-| 33 000 tot 36 000  | € 171,94  | € 171,94  | € 171,94  | € 116,71  | € 116,71  | € 116,71  | € 224,65  | € 145,56  | € 149,34  | € 105,41  |
-| 36 000 tot 38 000  | € 171,94  | € 171,94  | € 171,94  | € 116,71  | € 116,71  | € 116,71  | € 224,65  | € 145,56  | € 149,34  | € 105,41  |
-| 38 000 tot 40 000  | € 171,94  | € 171,94  | € 171,94  | € 116,71  | € 116,71  | € 116,71  | € 224,65  | € 199,57  | € 164,40  | € 145,56  |
-| 40 000 en meer  | € 171,94  | € 171,94  | € 171,94  | € 116,71  | € 116,71  | € 116,71  | € 294,93  | € 294,93  | € 224,65  | € 199,57  |
+| Minder dan 15 000  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  |
+| 15 000 tot 23 000  | € 90,62  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  |
+| 23 000 tot 25 000  | € 112,32  | € 112,32  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 75,30  |
+| 25 000 tot 27 000  | € 112,32  | € 112,32  | € 75,30  | € 75,30  | € 75,30  | € 75,30  | € 100,84  | € 75,30  | € 75,30  | € 75,30  |
+| 27 000 tot 29 000  | € 118,69  | € 118,69  | € 118,69  | € 75,30  | € 75,30  | € 75,30  | € 100,84  | € 75,30  | € 75,30  | € 75,30  |
+| 29 000 tot 31 000  | € 174,86  | € 174,86  | € 174,86  | € 118,69  | € 118,69  | € 118,69  | € 109,73  | € 107,20  | € 75,30  | € 75,30  |
+| 31 000 tot 33 000  | € 174,86  | € 174,86  | € 174,86  | € 118,69  | € 118,69  | € 118,69  | € 151,88  | € 107,20  | € 109,73  | € 75,30  |
+| 33 000 tot 36 000  | € 174,86  | € 174,86  | € 174,86  | € 118,69  | € 118,69  | € 118,69  | € 228,47  | € 148,03  | € 151,88  | € 107,20  |
+| 36 000 tot 38 000  | € 174,86  | € 174,86  | € 174,86  | € 118,69  | € 118,69  | € 118,69  | € 228,47  | € 148,03  | € 151,88  | € 107,20  |
+| 38 000 tot 40 000  | € 174,86  | € 174,86  | € 174,86  | € 118,69  | € 118,69  | € 118,69  | € 228,47  | € 202,96  | € 167,19  | € 148,03  |
+| 40 000 en meer  | € 174,86  | € 174,86  | € 174,86  | € 118,69  | € 118,69  | € 118,69  | € 299,94  | € 299,94  | € 228,47  | € 202,96  |
 
 waarbij voor de luchtvering geldt dat deze zich bevindt op de aangedreven assen en onder luchtvering mede wordt verstaan daaraan als gelijkwaardig erkende vering als bedoeld in bijlage I bij de richtlijn.   
 2.  De ingevolge het eerste lid verschuldigde belasting wordt verhoogd met: 
@@ -405,7 +412,7 @@ d. Euronorm III en hoger wanneer blijkens de aantekening in het kentekenregister
 
 ### Artikel  25b  
 
-Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van artikel 22, over een tijdvak van drie maanden € 55,66, vermeerderd met € 5,57 per 1000 kg toegestane maximum massa boven 11 000 kg.  
+Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van artikel 22, over een tijdvak van drie maanden € 56,61, vermeerderd met € 5,66 per 1000 kg toegestane maximum massa boven 11 000 kg.  
 
 ### Afdeling  7  
 
@@ -417,9 +424,9 @@ Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel e
 
 | bij een eigen massa in kilogrammen van  | over een tijdvak van drie maanden  | vermeerderd met  | per 100 kg eigen massa boven  |
 |:---|:---|:---|:---|
-| 1 000 of minder  | € 25,84  | --- | --- |
-| 1 100 tot en met 2 600  | € 29,15  | € 3,32  | 1 100 kg  |
-| 2 700 en meer  | € 81,74  | € 1,07  | 2 700 kg  |
+| 1 000 of minder  | € 26,28  | --- | --- |
+| 1 100 tot en met 2 600  | € 29,65  | € 3,38  | 1 100 kg  |
+| 2 700 en meer  | € 83,13  | € 1,09  | 2 700 kg  |
 
 2.  De belasting bedraagt nihil voor een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en die is bestemd om hoofdzakelijk te worden aangedreven door een kracht die wordt ontleend aan vloeibaar gemaakt petroleumgas als bedoeld in [artikel 26, zesde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) of aan aardgas.   
 
@@ -489,7 +496,7 @@ c. de verandering aan het motorrijtuig over een gedeelte van de tijdsduur van de
 ### Artikel  34  
 
 1.  Bij constatering van gebruik van de weg met een motorrijtuig waarvoor geen kenteken is opgegeven en de belasting geheel of gedeeltelijk niet is betaald, kan de belasting worden nageheven. Voor de toepassing van dit lid wordt een in het buitenland geregistreerd motorrijtuig aangemerkt als een motorrijtuig waarvoor geen kenteken is opgegeven.   
-2.  De na te heffen belasting wordt berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag die voorafgaat aan de dag waarop het gebruik van de weg wordt geconstateerd.   
+2.  De na te heffen belasting wordt berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag die voorafgaat aan de dag waarop het gebruik van de weg wordt geconstateerd. Indien artikel 7, derde of vierde lid, van toepassing is, wordt de na te heffen belasting berekend vanaf het begin van het tijdvak, bedoeld in artikel 13, tweede lid.   
 3.  Indien blijkt dat het motorrijtuig over een gedeelte van de tijdsduur van twaalf maanden niet feitelijk ter beschikking heeft gestaan van degene ten aanzien van wie het gebruik van de weg is geconstateerd, wordt over dat gedeelte de belasting niet nageheven.   
 4.  Indien blijkt dat een verandering aan het motorrijtuig waardoor een hoger bedrag aan belasting verschuldigd is dan vóór die verandering, niet was aangebracht over een gedeelte van de tijdsduur van twaalf maanden wordt over dat gedeelte de ter zake van die verandering meer verschuldigde belasting niet nageheven.   
 5.  Artikel 33, vierde lid, is van toepassing.   
@@ -515,7 +522,7 @@ Indien een voor een motorrijtuig geldende schorsing als bedoeld in [Hoofdstuk IV
 
 ### Artikel  37  
 
-In de gevallen, bedoeld in de artikelen 24a, 24b, 33, 34, 35, 35a, onderdeel b, en 36, is [artikel 67c van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.  
+In de gevallen, bedoeld in de artikelen 13, tweede lid, 24a, 24b, 33, 34, 35, 35a, onderdeel b, en 36, is [artikel 67c van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.  
 
 ### Hoofdstuk  VI  
 
@@ -574,7 +581,7 @@ c. de vergunninghouder daarom verzoekt.
 
 ### Artikel  37c  
 
-1.  De teruggaaf bedraagt over het in artikel 37b, vierde lid, onderdeel a, bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan  € 262,23 bepaalt de inspecteur dat tarief op  € 262,23 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.   
+1.  De teruggaaf bedraagt over het in artikel 37b, vierde lid, onderdeel a, bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan  € 266,69 bepaalt de inspecteur dat tarief op  € 266,69 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.   
 2.  De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare beschikking.   
 
 ### Afdeling  4  
@@ -686,7 +693,7 @@ c. motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het ver
 
 a.  vervallen;   
 
-b. die ten minste 30 jaar geleden voor het eerst in gebruik zijn genomen, en die, voor zover het vrachtauto’s of autobussen betreft, niet bedrijfsmatig worden gebruikt;  
+b. die ten minste 40 jaar geleden voor het eerst in gebruik zijn genomen, en die, voor zover het vrachtauto’s of autobussen betreft, niet bedrijfsmatig worden gebruikt;  
 
 c. die uitsluitend worden gebruikt voor defensie of door de politie;  
 
@@ -712,19 +719,7 @@ m. waarmee met het oog op een ingevolge [hoofdstuk V van de Wegenverkeerswet 199
 
 n. die blijkens een ingevolge de [Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) geldige vergunning, dan wel voorzover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt.     
 2.  De voorwaarde dat het motorrijtuig wordt gehouden door een openbaar lichaam kan in de in het eerste lid bedoelde algemene maatregel van bestuur alleen worden gesteld voor de vrijstellingen genoemd in het eerste lid, onderdeel c.   
-3.  De vrijstelling, bedoeld in het eerste lid, onderdeel b, geldt voor personenauto’s die op 31 december 2011 nog geen 25 jaar oud waren, niet voor het gedeelte van de belasting dat wordt geheven ingevolge artikel 23, tweede of derde lid. De eerste volzin is van overeenkomstige toepassing voor bestelauto’s, andere dan bestelauto’s als bedoeld in de artikelen 24a of 24b, die op 31 december 2011 nog geen 25 jaar oud waren.   
-4.  De vrijstelling, bedoeld in het eerste lid, onderdeel b, wordt, met inachtneming van het derde lid, mede verleend voor motorrijtuigen die niet voldoen aan de voorwaarde dat zij ten minste 30 jaar geleden voor het eerst in gebruik zijn genomen, indien het motorrijtuig: 
-
-a. op 31 december 2011 ten minste 25 jaar oud was;  
-
-b. in 1987 voor het eerst in gebruik is genomen, en het tijdstip van eerste ingebruikneming ten minste 26 jaar geleden is;  
-
-c. in 1988 voor het eerst in gebruik is genomen, en het tijdstip van eerste ingebruikneming ten minste 27 jaar geleden is;  
-
-d. in 1989 voor het eerst in gebruik is genomen, en het tijdstip van eerste ingebruikneming ten minste 28 jaar geleden is; dan wel  
-
-e. in 1990 voor het eerst in gebruik is genomen, en het tijdstip van eerste ingebruikneming ten minste 29 jaar geleden is.     
-5.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel h, j, l en n.   
+3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel h, j, l en n.   
 
 ### Artikel  73  
 
@@ -795,7 +790,7 @@ De [artikelen 8](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/B
 
 ### Artikel  81a  
 
-De [artikelen 10.1](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 23, 24, 24a, 24b, 25, 25a, 25b, 25c, eerste lid, en 37c, eerste lid, vermelde bedragen.  
+De [artikelen 10.1](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 23, 24, 24a, 24b, 25, 25a, 25b, 25c, eerste lid, 37c, eerste lid, en 84a vermelde bedragen.  
 
 ### Artikel  82  
 
@@ -811,6 +806,43 @@ Het bedrag aan belasting en de daarop geheven toeslagen en opcenten tezamen word
 ### Artikel  84  
 
 Bij algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de wet nadere regels worden gesteld ter aanvulling van in deze wet geregelde onderwerpen.  
+
+### Hoofdstuk  Xa  
+
+####Overgangsrecht oudere motorrijtuigen
+
+### Artikel  84a  
+
+1.  Voor de toepassing van dit hoofdstuk is in afwijking van artikel 10 het tijdvak een kalenderjaar.   
+2.  Op verzoek bedraagt het toe te passen tarief over het tijdvak het bedrag aan belasting, genoemd in de artikelen 23, 24, 24a, 24b, 25, 25a of 25c, zoals deze artikelen luidden op 31 december voorafgaand aan het tijdvak. Het ingevolge de eerste volzin bepaalde bedrag aan belasting bedraagt, met inbegrip van de provinciale opcenten, bedoeld in [artikel 222 van de Provinciewet](../../../../../../../wet/provinciewet/BWBR0005645/README.md), ten hoogste € 120.   
+3.  Het tarief, bedoeld in het tweede lid, kan uitsluitend worden toegepast indien: 
+
+a. het motorrijtuig vóór 1 januari 1988 voor het eerst in gebruik is genomen, maar het tijdstip van eerste ingebruikneming nog geen 40 jaar geleden is;  
+
+b. het motorrijtuig, indien het een personenauto of bestelauto betreft, is bestemd om te worden aangedreven door een kracht die uitsluitend wordt ontleend aan benzine als bedoeld in artikel 22, eerste lid, onderdeel c;  
+
+c. met het motorrijtuig geen gebruik van de weg wordt gemaakt in de maanden januari, februari en december van hetzelfde tijdvak, met uitzondering van de dag waarop het motorrijtuig aan een keuring wordt onderworpen ter zake van de afgifte van een keuringsbewijs als bedoeld in [artikel 72 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+
+d. het motorrijtuig, indien het een vrachtauto of autobus betreft, niet bedrijfsmatig wordt gebruikt; en  
+
+e. het bedrag aan belasting, bedoeld in het tweede lid, is betaald bij de aanvang van het tijdvak.     
+4.  Het verzoek, bedoeld in het tweede lid, wordt aangemerkt als het doen van een aanvullende aangifte.   
+5.  De betaling van het over het tijdvak verschuldigde bedrag aan belasting wordt, onder vermelding van het betalingskenmerk als aangegeven door de inspecteur, voor de toepassing van dit hoofdstuk aangemerkt als het verzoek, bedoeld in het tweede lid.   
+6.  Voor een motorrijtuig waarvoor in de loop van het tijdvak een kenteken is opgegeven, vangt, voor de toepassing van dit hoofdstuk, het tijdvak aan met ingang van de dag van dagtekening van de eerste tenaamstelling van het voor dat motorrijtuig afgegeven kentekenbewijs en vervolgens telkenmale met ingang van 1 januari.   
+7.  Bij wijziging van de tenaamstelling van het kentekenbewijs in de loop van het tijdvak wordt de belasting door degene op wiens naam het kenteken wordt gesteld, verschuldigd met ingang van het eerstvolgende tijdvak. De eerste volzin is niet van toepassing indien degene op wiens naam het kenteken wordt gesteld niet of niet langer voldoet aan de bij of krachtens dit artikel gestelde voorwaarden.   
+8.  Indien niet of niet langer wordt voldaan aan de bij of krachtens dit artikel gestelde voorwaarden wordt dit aangemerkt als een verandering aan het motorrijtuig en doet de houder een aanvullende aangifte uiterlijk op de dag voorafgaand aan de dag dat niet of niet langer aan de voorwaarden wordt voldaan. De aanvullende aangifte geldt: 
+
+a. indien deze wordt gedaan door degene die bij aanvang van het tijdvak het motorrijtuig houdt, voor het lopende tijdvak;  
+
+b. indien deze wordt gedaan door een andere houder dan als bedoeld in onderdeel a, voor de tijdvakken die aanvangen na het lopende tijdvak dat is bepaald zonder toepassing van dit hoofdstuk.     
+9.  Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van dit artikel, niet wordt voldaan aan de bij of krachtens dit artikel gestelde voorwaarden, kan de belasting die zonder toepassing van dit artikel over het gehele kalenderjaar verschuldigd zou zijn geweest, worden nageheven met overeenkomstige toepassing van artikel 76. [Artikel 67c van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van toepassing.   
+10.  Voor de toepassing van dit hoofdstuk blijven de artikelen 11, 12, 13, 15, derde lid, 16, 17, vierde lid, 18, 19, 20, 21, 27, 30, 33, tweede, derde en vierde lid, en 36 buiten toepassing.   
+11.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit hoofdstuk.   
+
+### Artikel  84b  
+
+1.  In afwijking van artikel 15, eerste lid, wordt voor het tijdvak 2014 de betaling, bedoeld in artikel 84a, vijfde lid, gedaan vóór 1 maart 2014.   
+2.  In afwijking van artikel 84a, derde lid, onderdeel c, mag in de maanden januari en februari 2014 gebruik van de weg worden gemaakt.   
 
 ### Hoofdstuk  XI  
 

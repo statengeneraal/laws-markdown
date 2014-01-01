@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [7, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [15, tweede en derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, achtste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24b, tweede en vijfde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [37f van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](../../../../../AMvB/uitvoeringsbesluit/motorrijtuigenbelasting/1994/BWBR0007311/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [7, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [15, tweede en derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, achtste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24b, tweede en vijfde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [37f van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md).  
 
 ### Artikel  2  
 
@@ -25,20 +25,27 @@ In deze regeling wordt verstaan onder:   wet:  [Wet op de motorrijtuigenbelastin
 7.  De hoogte van de vaste wand die de cabine van de laadruimte scheidt, is de afstand tussen het laagste punt van de bovenzijde van de wand en het hoogste punt van de laadvloer.   
 8.  De vaste wand die de cabine van de laadruimte scheidt, dient verticaal en in een hoek van 90° ten opzichte van de lengte-as te zijn geplaatst en wel: 
 
-indien het motorrijtuig niet is voorzien van een dubbele cabine: ten hoogste 115 cm achter het achterste punt van het stuurwiel;  
+a. indien het motorrijtuig niet is voorzien van een dubbele cabine: ten hoogste 115 cm achter het achterste punt van het stuurwiel;  
 
-indien het motorrijtuig is voorzien van een dubbele cabine: direct achter de achterste zitplaatsen.     
-9.  De vaste wand die de cabine van de laadruimte scheidt dient: 
+b. indien het motorrijtuig is voorzien van een dubbele cabine: direct achter de achterste zitplaatsen.     
+9.  In afwijking in zoverre van het achtste lid, onderdeel b, wordt, indien een deel van de cabine van een motorrijtuig met dubbele cabine bij de laadruimte wordt betrokken waardoor de vaste wand niet geheel in een hoek van 90° ten opzichte van de lengteas is geplaatst, voor het meten van de in dit artikel genoemde afstanden uitgegaan van de plaats van het meest naar achteren gelegen bevestigingspunt van de aanwezige wand.   
+10.  De vaste wand die de cabine van de laadruimte scheidt dient: 
 
-te zijn vervaardigd uit ondoorzichtig en vormvast materiaal, waarbij een vast raam met een hoogte van 40 cm is toegestaan;  
+a. te zijn vervaardigd uit ondoorzichtig en vormvast materiaal, waarbij één of meerdere vaste ramen naast elkaar met een hoogte van maximaal 40 cm zijn toegestaan, alsmede voorzieningen ten behoeve van de veiligheid;  
 
-geheel vlak te zijn;  
+b. geheel vlak te zijn;  
 
-uit één geheel te bestaan, waarbij voorzieningen zijn toegestaan ten behoeve van het aan het desbetreffende motorrijtuig noodzakelijk te plegen onderhoud; en  
+c. uit één geheel of uit diverse op onverbrekelijke wijze met elkaar verbonden delen te bestaan, waarbij voorzieningen zijn toegestaan ten behoeve van: 
 
-zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.     
-10.  Een laadruimte is niet voorzien van zijruiten indien de zijruiten geheel zijn verwijderd en zijn vervangen door niet uit glas bestaande panelen uit één stuk van ondoorzichtig en vormvast materiaal. De panelen dienen zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.   
-11.  De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.   
+1°. het aan het motorrijtuig noodzakelijk te plegen onderhoud;  
+
+2°. het gebruik van de bestelauto; of  
+
+3°. de veiligheid;   mits deze voorzieningen niet groter zijn dan voor het specifieke doel noodzakelijk.  
+
+d. zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.     
+11.  Een laadruimte is niet voorzien van zijruiten indien de zijruiten geheel zijn verwijderd en zijn vervangen door niet uit glas bestaande panelen uit één stuk van ondoorzichtig en vormvast materiaal. De panelen dienen zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.   
+12.  De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.   
 
 ### Artikel  3a  
 

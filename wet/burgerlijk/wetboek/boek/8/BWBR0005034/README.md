@@ -25,13 +25,13 @@
 
 ### Artikel  2  
 
-1.  In dit wetboek worden onder zeeschepen verstaan de schepen die als zeeschip teboekstaan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en de schepen die niet teboekstaan in die registers en blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd.   
+1.  In dit wetboek worden onder zeeschepen verstaan de schepen die als zeeschip teboekstaan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, en de schepen die niet teboekstaan in die registers en blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd.   
 2.  Bij algemene maatregel van bestuur kunnen schepen, die geen zeeschepen zijn, voor de toepassing van bepalingen van dit wetboek als zeeschip worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op schepen, die zeeschepen zijn.   
 3.  In dit wetboek worden onder zeevissersschepen verstaan zeeschepen, die blijkens hun constructie uitsluitend of in hoofdzaak voor de bedrijfsmatige visvangst zijn bestemd.   
 
 ### Artikel  3  
 
-1.  In dit wetboek worden onder binnenschepen verstaan de schepen die als binnenschip teboekstaan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en de schepen die niet teboekstaan in die registers en blijkens hun constructie noch uitsluitend noch in hoofdzaak voor drijven in zee zijn bestemd.   
+1.  In dit wetboek worden onder binnenschepen verstaan de schepen die als binnenschip teboekstaan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, en de schepen die niet teboekstaan in die registers en blijkens hun constructie noch uitsluitend noch in hoofdzaak voor drijven in zee zijn bestemd.   
 2.  Bij algemene maatregel van bestuur kunnen schepen, die geen binnenschepen zijn, voor de toepassing van bepalingen van dit wetboek als binnenschip worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op schepen, die binnenschepen zijn.   
 
 ### Artikel  3a  
@@ -46,11 +46,11 @@ In dit wetboek wordt verstaan onder:
 
 a. spoorvoertuig: voertuig, bestemd voor het verkeer over spoorwegen;  
 
-b. spoorweginfrastructuur: spoorwegen als bedoeld in [artikel 1 onder b van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en daarbij horende spoorweginfrastructuur als bedoeld in [artikel 1 onder c van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+b. spoorweginfrastructuur: spoorwegen als bedoeld in artikel 1 onder b van de Spoorwegwet en daarbij horende spoorweginfrastructuur als bedoeld in artikel 1 onder c van de Spoorwegwet;  
 
-c. beheerder van de spoorweginfrastructuur: de beheerder bedoeld in [artikel 1 onder h van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) dan wel, indien die bepaling niet van toepassing is, degene die de spoorweginfrastructuur ter beschikking stelt.  
+c. beheerder van de spoorweginfrastructuur: de beheerder bedoeld in artikel 1 onder h van de Spoorwegwet dan wel, indien die bepaling niet van toepassing is, degene die de spoorweginfrastructuur ter beschikking stelt.  
 
-d. spoorwegonderneming: elke spoorwegonderneming als bedoeld in [artikel 1 onder f van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md).    
+d. spoorwegonderneming: elke spoorwegonderneming als bedoeld in artikel 1 onder f van de Spoorwegwet.    
 
 ### Artikel  4  
 
@@ -90,7 +90,8 @@ Dit boek laat onverlet enige voor Nederland van kracht zijnde internationale ove
 
 ### Artikel  20  
 
-De overeenkomst van goederenvervoer is de overeenkomst, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt zaken te vervoeren.  
+1.  De overeenkomst van goederenvervoer is de overeenkomst, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt zaken te vervoeren.   
+2.  Deze afdeling is van overeenkomstige toepassing op het vervoer van elektriciteit, warmte en koude.   
 
 ### Artikel  21  
 
@@ -385,7 +386,7 @@ Deze afdeling geldt slechts ten aanzien van niet elders in dit boek geregelde ov
 ### Artikel  100  
 
 1.  De overeenkomst van personenvervoer in de zin van deze afdeling is de overeenkomst van personenvervoer, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een vervoermiddel, geen luchtvaartuig noch luchtkussenvoertuig zijnde, een of meer personen (reizigers) en al dan niet hun handbagage binnen Nederland hetzij over spoorwegen hetzij op andere wijze en dan volgens een voor een ieder kenbaar schema van reismogelijkheden (dienstregeling) te vervoeren. Tijd- of reisbevrachting is, voor zover het niet betreft vervoer over spoorwegen, geen overeenkomst van personenvervoer in de zin van deze afdeling.   
-2.  Als vervoerder in de zin van deze afdeling wordt tevens beschouwd de instantie die op een mogelijkerwijs afgegeven vervoerbewijs is vermeld. Wordt enig vervoerbewijs afgegeven dan zijn de [artikelen 56, tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [75, eerste lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [186, eerste lid van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) niet van toepassing.   
+2.  Als vervoerder in de zin van deze afdeling wordt tevens beschouwd de instantie die op een mogelijkerwijs afgegeven vervoerbewijs is vermeld. Wordt enig vervoerbewijs afgegeven dan zijn de artikelen 56, tweede lid, 75, eerste lid en 186, eerste lid van boek 2 niet van toepassing.   
 3.  In deze afdeling wordt onder handbagage verstaan de bagage met inbegrip van levende dieren, die de reiziger als gemakkelijk mee te voeren, draagbare dan wel met de hand verrijdbare zaken op of bij zich heeft.   
 4.  Bij algemene maatregel van bestuur, die voor ieder vervoermiddel onderling verschillende bepalingen kan bevatten, kunnen zaken, die geen handbagage zijn, voor de toepassing van bepalingen van deze afdeling als handbagage worden aangewezen, dan wel bepalingen van deze afdeling niet van toepassing worden verklaard op zaken, die handbagage zijn.   
 
@@ -633,7 +634,7 @@ Nietig is ieder beding, waarbij wordt afgeweken van de artikelen 161-163, 169, 1
 
 ### Artikel  191  
 
-In deze afdeling wordt onder de openbare registers verstaan de openbare registers, bedoeld in [afdeling 2 van Titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+In deze afdeling wordt onder de openbare registers verstaan de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3.  
 
 ### Artikel  192  
 
@@ -645,12 +646,12 @@ De in deze afdeling aan de reder opgelegde verplichtingen rusten, indien het sch
 
 - van een in aanbouw zijnd zeeschip: indien het in Nederland in aanbouw is;  
 
-- van een afgebouwd zeeschip: indien het een Nederlands schip is in de zin van [artikel 311 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md)  
+- van een afgebouwd zeeschip: indien het een Nederlands schip is in de zin van artikel 311 van het Wetboek van Koophandel  
 
-- dan wel ingeval het een zeevissersschip is: indien het is ingeschreven in een krachtens [artikel 3 der Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) aangehouden register.     
+- dan wel ingeval het een zeevissersschip is: indien het is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register.     
 2.  Teboekstelling is niet mogelijk van een zeeschip dat reeds teboekstaat in de openbare registers, hetzij als zeeschip hetzij als binnenschip, of in enig soortgelijk buitenlands register.   
-3.  In afwijking van het tweede lid is teboekstelling van een zeeschip dat in een buitenlands register teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat register is doorgehaald, een Nederlands schip in de zin van [artikel 311 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) zal zijn of wanneer dit schip als zeevissersschip is ingeschreven in een krachtens [artikel 3 der Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) aangehouden register. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij binnen 30 dagen is gevolgd door aantekening in de openbare registers, dat de teboekstelling in het buitenlandse register is doorgehaald, of wanneer, ingeval de bewaarder van een buitenlands register ondanks daartoe schriftelijk tot hem gericht verzoek doorhaling weigert, van dit verzoek en van het feit dat er geen gevolg aan is gegeven, aantekening in de openbare registers is geschied.   
-4.  De teboekstelling wordt verzocht door de reder van het zeeschip. Hij moet daarbij ter inschrijving overleggen een door hem ondertekende verklaring, dat naar zijn beste weten het schip voor teboekstelling als zeeschip vatbaar is. Indien het een verzoek tot teboekstelling als zeeschip in aanbouw betreft, gaat deze verklaring vergezeld van een bewijs dat het schip in Nederland in aanbouw is. Indien het een verzoek tot teboekstelling als zeeschip, niet zijnde een zeeschip in aanbouw of een zeevissersschip, betreft, gaat deze verklaring vergezeld van een door of namens Onze Minister van Verkeer en Waterstaat afgegeven verklaring als bedoeld in [artikel 311 *a*, eerste lid, van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). Indien het een verzoek tot teboekstelling als zeevissersschip betreft, gaat deze verklaring vergezeld van een bewijs dat het schip is ingeschreven in een krachtens [artikel 3 van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) aangehouden register.   
+3.  In afwijking van het tweede lid is teboekstelling van een zeeschip dat in een buitenlands register teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat register is doorgehaald, een Nederlands schip in de zin van artikel 311 van het Wetboek van Koophandel zal zijn of wanneer dit schip als zeevissersschip is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij binnen 30 dagen is gevolgd door aantekening in de openbare registers, dat de teboekstelling in het buitenlandse register is doorgehaald, of wanneer, ingeval de bewaarder van een buitenlands register ondanks daartoe schriftelijk tot hem gericht verzoek doorhaling weigert, van dit verzoek en van het feit dat er geen gevolg aan is gegeven, aantekening in de openbare registers is geschied.   
+4.  De teboekstelling wordt verzocht door de reder van het zeeschip. Hij moet daarbij ter inschrijving overleggen een door hem ondertekende verklaring, dat naar zijn beste weten het schip voor teboekstelling als zeeschip vatbaar is. Indien het een verzoek tot teboekstelling als zeeschip in aanbouw betreft, gaat deze verklaring vergezeld van een bewijs dat het schip in Nederland in aanbouw is. Indien het een verzoek tot teboekstelling als zeeschip, niet zijnde een zeeschip in aanbouw of een zeevissersschip, betreft, gaat deze verklaring vergezeld van een door of namens Onze Minister van Verkeer en Waterstaat afgegeven verklaring als bedoeld in artikel 311 *a*, eerste lid, van het Wetboek van Koophandel. Indien het een verzoek tot teboekstelling als zeevissersschip betreft, gaat deze verklaring vergezeld van een bewijs dat het schip is ingeschreven in een krachtens artikel 3 van de Visserijwet 1963 aangehouden register.   
 5.  De teboekstelling in de openbare registers heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.   
 6.  Bij het verzoek tot teboekstelling wordt woonplaats gekozen in Nederland. Deze woonplaats wordt in het verzoek tot teboekstelling vermeld en kan door een andere in Nederland gelegen woonplaats worden vervangen.   
 
@@ -670,7 +671,7 @@ b. op aangifte van de reder of ambtshalve
 
 4°. als het schip, indien het niet in de openbare registers te boek zou staan, een binnenschip zou zijn in de zin van artikel 3 of artikel 780;  
 
-5°. als het schip niet of niet meer de hoedanigheid van Nederlands schip heeft dan wel niet of niet meer is ingeschreven in een krachtens [artikel 3 der Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) aangehouden register. Ambtshalve doorhaling wegens het verlies van de hoedanigheid van Nederlands schip geschiedt uitsluitend na ontvangst van een mededeling van de intrekking van een verklaring als bedoeld in [artikel 311 *a*, eerste lid, van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). Wanneer het schip de hoedanigheid van Nederlands schip heeft verloren door toewijzing na een executie buiten Nederland, dan wel de inschrijving van het schip in een krachtens [artikel 3 der Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) aangehouden register is doorgehaald, vindt doorhaling slechts plaats, wanneer hetzij de reder, degenen van wier recht uit een inschrijving blijkt en de beslagleggers gelegenheid hebben gehad hun rechten op de opbrengst geldend te maken en hun daartoe ook feitelijk de gelegenheid is gegeven, hetzij deze personen hun toestemming tot de doorhaling verlenen of hun vorderingen zijn voldaan.       
+5°. als het schip niet of niet meer de hoedanigheid van Nederlands schip heeft dan wel niet of niet meer is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register. Ambtshalve doorhaling wegens het verlies van de hoedanigheid van Nederlands schip geschiedt uitsluitend na ontvangst van een mededeling van de intrekking van een verklaring als bedoeld in artikel 311 *a*, eerste lid, van het Wetboek van Koophandel. Wanneer het schip de hoedanigheid van Nederlands schip heeft verloren door toewijzing na een executie buiten Nederland, dan wel de inschrijving van het schip in een krachtens artikel 3 der Visserijwet 1963 aangehouden register is doorgehaald, vindt doorhaling slechts plaats, wanneer hetzij de reder, degenen van wier recht uit een inschrijving blijkt en de beslagleggers gelegenheid hebben gehad hun rechten op de opbrengst geldend te maken en hun daartoe ook feitelijk de gelegenheid is gegeven, hetzij deze personen hun toestemming tot de doorhaling verlenen of hun vorderingen zijn voldaan.       
 2.  In de in het eerste lid onder *b* genoemde gevallen is de reder tot het doen van aangifte verplicht binnen drie maanden nadat de reden tot doorhaling zich heeft voorgedaan.   
 3.  Wanneer ten aanzien van het schip inschrijvingen of voorlopige aantekeningen ten gunste van derden bestaan, geschiedt doorhaling slechts, wanneer geen dezer derden zich daartegen verzet.   
 4.  Doorhaling geschiedt slechts na op verzoek van de meest gerede partij verleende machtiging van de rechter.   
@@ -734,7 +735,7 @@ In geval van vruchtgebruik op een teboekstaand zeeschip zijn de bepalingen van a
 
 ### Artikel  210a  
 
-[Artikel 292 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [artikelen 60, tweede lid, eerste zin, derde lid en vierde lid](../../../../../../wet/faillissementswet/BWBR0001860/README.md), en [299b, derde tot en met vijfde lid, van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) zijn op zeeschepen niet van toepassing.  
+Artikel 292 van Boek 3 en de artikelen 60, tweede lid, eerste zin, derde lid en vierde lid, en 299b, derde tot en met vijfde lid, van de Faillissementswet zijn op zeeschepen niet van toepassing.  
 
 ### Artikel  211  
 
@@ -742,7 +743,7 @@ Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht
 
 a. in geval van beslag: de vorderingen ter zake van kosten na het beslag gemaakt tot behoud van het schip, daaronder begrepen de kosten van herstellingen, die onontbeerlijk waren voor het behoud van het schip;  
 
-b. de vorderingen ontstaan uit de arbeidsovereenkomsten van de kapitein of de andere leden der bemanning, met dien verstande dat de vorderingen met betrekking tot loon, salaris of beloningen slechts bevoorrecht zijn tot op een bedrag over een tijdvak van twaalf maanden verschuldigd;  
+b. de vorderingen ontstaan uit de zee-arbeidsovereenkomsten, met dien verstande dat de vorderingen met betrekking tot loon, salaris of beloningen slechts bevoorrecht zijn tot op een bedrag over een tijdvak van twaalf maanden verschuldigd;  
 
 c. de vorderingen ter zake van hulpverlening alsmede ter zake van de bijdrage van het schip in avarij-grosse;  
 
@@ -769,11 +770,11 @@ b. de schadevergoedingen, verschuldigd voor het verlies van het schip of voor ni
 ### Artikel  215  
 
 1.  De schuldeiser, die een voorrecht heeft op grond van artikel 211, vervolgt zijn recht op het schip, in wiens handen dit zich ook bevinde.   
-2.  Voorrechten als bedoeld in artikel 211 kunnen worden ingeschreven in de openbare registers, bedoeld in [afdeling 2 van Titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
+2.  Voorrechten als bedoeld in artikel 211 kunnen worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3. Artikel 24 lid 1 van Boek 3 is niet van toepassing.   
 
 ### Artikel  216  
 
-De vorderingen genoemd in artikel 211, doen een voorrecht op het schip ontstaan en zijn alsdan daarop verhaalbaar, zelfs wanneer zij zijn ontstaan tijdens de terbeschikkingstelling van het schip aan een bevrachter, dan wel tijdens de exploitatie van het schip door een ander dan de reder, tenzij aan deze de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was.  
+De vorderingen genoemd in artikel 211, onderdelen a en c, doen een voorrecht op het schip ontstaan en zijn alsdan daarop verhaalbaar, zelfs wanneer zij zijn ontstaan tijdens de terbeschikkingstelling van het schip aan een bevrachter, dan wel tijdens de exploitatie van het schip door een ander dan de reder, tenzij aan deze de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was. De vorderingen genoemd in artikel 211 onder b doen een voorrecht op het schip ontstaan en zijn alsdan daarop verhaalbaar, ongeacht of de reder de werkgever is van de zeevarende.  
 
 ### Artikel  217  
 
@@ -838,7 +839,7 @@ De in artikel 222 genoemde vorderingen doen een voorrecht op de daar vermelde za
 ### Artikel  227  
 
 1.  Met de aflevering van de zaken aan de daartoe gerechtigde gaan, behalve in het geval van artikel 559, de in artikel 222 genoemde voorrechten teniet. Zij gaan mede teniet met de vordering en door, in geval van executoriale verkoop, niet tijdig verzet te doen tegen de verdeling van de koopprijs alsmede door gerechtelijke rangregeling.   
-2.  Zij blijven in stand, zolang de zaken op grond van de artikelen 490, 955 of 574 zijn opgeslagen of daarop op grond van [artikel 626](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of [artikel 636 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) beslag is gelegd.   
+2.  Zij blijven in stand, zolang de zaken op grond van de artikelen 490, 955 of 574 zijn opgeslagen of daarop op grond van artikel 626 of artikel 636 van het Wetboek van Burgerlijke Rechtsvordering beslag is gelegd.   
 
 ### Artikel  228  
 
@@ -855,12 +856,12 @@ De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of sc
 a. de openbare macht of  
 
 b. niet-commerciële overheidsdienst.     
-2.  De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in [afdeling 2 van Titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing;   
-3.  De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+2.  De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3. Artikel 24 lid 1 van Boek 3 is niet van toepassing;   
+3.  De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.   
 
 ### Artikel  231  
 
-Behoeven de in de afdelingen 2 tot en met 5 van titel 3 geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de [Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md).  
+Behoeven de in de afdelingen 2 tot en met 5 van titel 3 geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de Kadasterwet.  
 
 ### Titel  4  
 
@@ -946,7 +947,7 @@ Het totaal van de bedragen verhaalbaar op een derde, die partij is bij een explo
 1.  De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt aan boord van een schip zaken uitsluitend over zee te vervoeren.   
 2.  Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat deze beide wateren bevaart, wordt als vervoer over zee beschouwd, tenzij het varen van dit schip over zee kennelijk ondergeschikt is aan het varen over binnenwateren, in welk geval dit varen als varen over binnenwateren wordt beschouwd.   
 3.  Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat zonder eigen beweegkracht deze beide wateren bevaart, wordt beschouwd als vervoer over zee voor zover, met inachtneming tevens van het tweede lid van dit artikel, het varen van het beweegkracht overbrengende schip als varen over zee wordt beschouwd. Voor zover dit niet het geval is, wordt het als vervoer over binnenwateren beschouwd.   
-4.  Deze afdeling is niet van toepassing op overeenkomsten tot het vervoer van poststukken ter uitvoering van de universele postdienst bedoeld in de [Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md) of onder een internationale postovereenkomst. Onder voorbehoud van artikel 510 is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.   
+4.  Deze afdeling is niet van toepassing op overeenkomsten tot het vervoer van poststukken ter uitvoering van de universele postdienst bedoeld in de Postwet 2009 of onder een internationale postovereenkomst. Onder voorbehoud van artikel 510 is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.   
 
 ### Artikel  371  
 
@@ -1655,7 +1656,7 @@ d. uit de overeenkomst moet blijken dat de verstrekker van financiële zekerheid
 
 a. naam en adres van het hoofdkantoor van het bedrijf van de vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht;  
 
-b. een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), vermeldende ten minste de gegevens bedoeld in [artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;  
+b. een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet, vermeldende ten minste de gegevens bedoeld in artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;  
 
 c. een afschrift van de overeenkomst tot verstrekking van financiële zekerheid;  
 
@@ -1676,7 +1677,7 @@ Onze Minister wijst een verzoek als bedoeld in artikel 529c af indien de overgel
 
 1.  De vervoerder aan wie een certificaat is afgegeven, is verplicht om onverwijld aan Onze Minister schriftelijk mededeling te doen van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid binnen de tijdsduur waarvoor het certificaat is afgegeven, alsmede van elke wijziging welke zich gedurende die tijdsduur voordoet in de gegevens welke bij het in artikel 529c bedoelde verzoek zijn overgelegd.   
 2.  Onze Minister draagt zorg, dat van een mededeling als bedoeld in het eerste lid ten aanzien van een overeenkomst tot verstrekking van financiële zekerheid voor een in Nederland te boek staand schip schriftelijk kennis wordt gegeven aan het kantoor van de Dienst voor het Kadaster en de openbare registers, waar de openbare registers waarin het verzoek tot teboekstelling van het schip is ingeschreven, worden gehouden, welke kennisgeving aldaar wordt bewaard.   
-3.  Het bestaan en de dagtekening van ontvangst van kennisgevingen als bedoeld in het tweede lid worden onverwijld vermeld in de registratie voor schepen, bedoeld in [artikel 85 van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md). Kennisgevingen als bedoeld in het tweede lid zijn openbaar.   
+3.  Het bestaan en de dagtekening van ontvangst van kennisgevingen als bedoeld in het tweede lid worden onverwijld vermeld in de registratie voor schepen, bedoeld in artikel 85 van de Kadasterwet. Kennisgevingen als bedoeld in het tweede lid zijn openbaar.   
 4.  De in het eerste lid bedoelde mededeling kan behalve door de vervoerder ook worden gedaan door degene die de financiële zekerheid verstrekt.   
 
 ### Artikel  529g  
@@ -1701,7 +1702,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de v
 
 ### Artikel  529k  
 
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank te Rotterdam bevoegd.  
+In afwijking van artikel 8:7 van de Algemene wet bestuursrecht is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank te Rotterdam bevoegd.  
 
 ### Afdeling  4  
 
@@ -1735,7 +1736,7 @@ Aanvaring is de aanraking van schepen met elkaar.
 
 ### Artikel  541  
 
-Onder voorbehoud van de [Wet aansprakelijkheid olietankschepen](../../../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md) en afdeling 5 van deze titel vindt het in deze afdeling omtrent aanvaring bepaalde eveneens toepassing indien schade door een zeeschip is veroorzaakt zonder dat een aanvaring plaats had.  
+Onder voorbehoud van de Wet aansprakelijkheid olietankschepen en afdeling 5 van deze titel vindt het in deze afdeling omtrent aanvaring bepaalde eveneens toepassing indien schade door een zeeschip is veroorzaakt zonder dat een aanvaring plaats had.  
 
 ### Artikel  542  
 
@@ -1787,7 +1788,7 @@ e. betaling: iedere krachtens deze afdeling verschuldigde beloning, vergoeding o
 
 ### Artikel  552  
 
-Voor de toepassing van deze afdeling worden de wateren genoemd in [artikel 21 van de Wet op de strandvonderij](../../../../../../wet/wet/op/de/strandvonderij/BWBR0001951/README.md) beschouwd tot de zee, en de stranden en oevers daarvan tot het zeestrand te behoren.  
+Voor de toepassing van deze afdeling worden de wateren genoemd in artikel 21 van de Wet op de strandvonderij beschouwd tot de zee, en de stranden en oevers daarvan tot het zeestrand te behoren.  
 
 ### Artikel  553  
 
@@ -2065,17 +2066,17 @@ f. de ondergeschikten, vertegenwoordigers of lasthebbers van de in dit lid, onde
 2.  Indien echter de gevaarlijke stof tijdens de periode bedoeld in artikel 621, tweede lid, is geladen of gelost onder de gezamenlijke verantwoordelijkheid van de reder en een door de reder bij name genoemde ander, zijn de reder en die ander hoofdelijk aansprakelijk overeenkomstig deze afdeling voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof.   
 3.  Indien is geladen of gelost door een persoon in opdracht of ten behoeve van de vervoerder of een ander, zoals de afzender of de ontvanger, is niet deze persoon, maar de vervoerder of die ander aansprakelijk.   
 4.  Indien een ander dan de reder op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 623, vierde lid en vijfde lid, onderdeel *b*.   
-5.  Indien een ander dan de reder op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander titel 7 alsmede de [artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid: 
+5.  Indien een ander dan de reder op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander titel 7 alsmede de artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid: 
 
-a. de beperking van aansprakelijkheid krachtens [titel 7 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) geldt voor het geheel der naar aanleiding van eenzelfde gebeurtenis ontstane vorderingen gericht tegen beiden;  
+a. de beperking van aansprakelijkheid krachtens titel 7 van het Wetboek van Koophandel geldt voor het geheel der naar aanleiding van eenzelfde gebeurtenis ontstane vorderingen gericht tegen beiden;  
 
-b. een fonds gevormd door één van hen overeenkomstig [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.     
+b. een fonds gevormd door één van hen overeenkomstig artikel 642c van het Wetboek van Burgerlijke Rechtsvordering wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.     
 6.  In de onderlinge verhouding tussen de reder en de in het tweede lid van dit artikel genoemde ander is de reder niet tot vergoeding verplicht dan in geval van schuld van hemzelf of van zijn ondergeschikten, vertegenwoordigers of lasthebbers.   
 7.  Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 621, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 623, vijfde lid, onderdeel *c, d* of *e*.   
 
 ### Artikel  625  
 
-Indien ingevolge artikel 623, tweede lid, onderdeel c, de reder niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien titel 7 alsmede de [artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 623, vierde lid.  
+Indien ingevolge artikel 623, tweede lid, onderdeel c, de reder niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien titel 7 alsmede de artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 623, vierde lid.  
 
 ### Artikel  626  
 
@@ -2186,7 +2187,7 @@ d. uit de overeenkomst moet blijken dat de verstrekker van financiële zekerheid
 
 a. de naam en woonplaats van de geregistreerde eigenaar en de plaats waar diens hoofdkantoor is gevestigd;  
 
-b. een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), vermeldende ten minste de gegevens bedoeld in [artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet](../../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;  
+b. een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet, vermeldende ten minste de gegevens bedoeld in artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;  
 
 c. een afschrift van de overeenkomst tot verstrekking van financiële zekerheid;  
 
@@ -2202,7 +2203,7 @@ Onze Minister wijst een verzoek als bedoeld in artikel 647 af indien de overgele
 
 1.  De geregistreerde eigenaar aan wie een certificaat is afgegeven, is verplicht om onverwijld aan Onze Minister schriftelijk mededeling te doen van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid binnen de tijdsduur waarvoor het certificaat is afgegeven, alsmede van elke wijziging welke zich gedurende die tijdsduur voordoet in de gegevens welke bij het in artikel 647 bedoelde verzoek zijn overgelegd.   
 2.  Onze Minister draagt zorg, dat van een mededeling als bedoeld in het eerste lid ten aanzien van een overeenkomst tot verstrekking van financiële zekerheid voor een in Nederland teboekstaand schip schriftelijk kennis wordt gegeven aan het kantoor van de Dienst voor het Kadaster en de openbare registers, waar de openbare registers waarin het verzoek tot teboekstelling van het schip is ingeschreven, worden gehouden, welke kennisgeving aldaar wordt bewaard.   
-3.  Het bestaan en de dagtekening van ontvangst van kennisgevingen als bedoeld in het tweede lid worden onverwijld vermeld in de registratie voor schepen, bedoeld in [artikel 85 van de Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md). Kennisgevingen als bedoeld in het tweede lid zijn openbaar.   
+3.  Het bestaan en de dagtekening van ontvangst van kennisgevingen als bedoeld in het tweede lid worden onverwijld vermeld in de registratie voor schepen, bedoeld in artikel 85 van de Kadasterwet. Kennisgevingen als bedoeld in het tweede lid zijn openbaar.   
 4.  De in het eerste lid bedoelde mededeling kan behalve door de geregistreerde eigenaar ook worden gedaan door degene die de financiële zekerheid verstrekt.   
 
 ### Artikel  650  
@@ -2229,13 +2230,15 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 ####beroep
 
+Vervallen per 01-01-2013   
+
 ### Titel  7  
 
 ####Beperking van aansprakelijkheid voor maritieme vorderingen
 
 ### Artikel  750  
 
-1.  De reder van een schip en de hulpverlener kunnen door het stellen van één of meer fondsen als bedoeld in [artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) hun aansprakelijkheid beperken voor de in artikel 752 genoemde vorderingen.   
+1.  De reder van een schip en de hulpverlener kunnen door het stellen van één of meer fondsen als bedoeld in artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering hun aansprakelijkheid beperken voor de in artikel 752 genoemde vorderingen.   
 2.  Onder reder worden in deze titel mede verstaan de bevrachter, de huurder of andere gebruiker van een schip met inbegrip van degene in wiens handen de exploitatie van een schip is gelegd.   
 3.  Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 752, eerste lid, onder *d*, *e* en *f*, genoemde werkzaamheden of maatregelen.   
 4.  Onder schip wordt in deze titel zeeschip verstaan. Een schip in aanbouw wordt voor de toepassing van deze titel mede als schip aangemerkt van het ogenblik af, dat de stapelloop aanvangt. Een luchtkussenvoertuig wordt voor de toepassing van deze titel niet als schip aangemerkt. Een platform dat is gebouwd ter exploratie of exploitatie van de natuurlijke rijkdommen van de zeebodem of van de ondergrond daarvan en dat kan drijven, wordt voor de toepassing van deze titel niet als schip aangemerkt gedurende de tijd dat het op de zeebodem rust.   
@@ -2306,7 +2309,7 @@ b. die met toestemming van de vervoerder een voertuig of levende dieren vergezel
 
 ### Artikel  757  
 
-Aan de bedragen vermeld in de artikelen 755 en 756 wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) opgelegd bevel.  
+Aan de bedragen vermeld in de artikelen 755 en 756 wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering opgelegd bevel.  
 
 ### Artikel  758  
 
@@ -2321,7 +2324,7 @@ c. de hulpverlener of hulpverleners aan een schip die niet van een zee- of binne
 
 ### Artikel  759  
 
-De rekeneenheid, genoemd in de artikelen 755 en 756, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in de artikelen 755 en 756 worden omgerekend in Nederlands geld naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) gegeven bevel tot storting of andere zekerheidsstelling. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.  
+De rekeneenheid, genoemd in de artikelen 755 en 756, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in de artikelen 755 en 756 worden omgerekend in Nederlands geld naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering gegeven bevel tot storting of andere zekerheidsstelling. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.  
 
 ### III  
 
@@ -2364,7 +2367,7 @@ b. verdragsstaat: een staat waarvoor het Verdrag van Genève van kracht is;
 
 c. verdragsregister: een buiten Nederland in een verdragsstaat gehouden register, als bedoeld in artikel 2 van het Verdrag van Genève;  
 
-d. de openbare registers: de openbare registers, bedoeld in [afdeling 2 van Titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).    
+d. de openbare registers: de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3.    
 
 ### Artikel  782  
 
@@ -2440,7 +2443,7 @@ De enige zakelijke rechten, waarvan een in het register teboekstaand binnenschip
 ### Artikel  790  
 
 1.  Een in de openbare registers teboekstaand binnenschip is een registergoed.   
-2.  Bij toepassing van [artikel 301 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) ter zake van akten die op de voet van [artikel 89 leden 1 en 4 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn bestemd voor de levering van een zodanig binnenschip, kan de in het eerste genoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.   
+2.  Bij toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89 leden 1 en 4 van Boek 3 zijn bestemd voor de levering van een zodanig binnenschip, kan de in het eerste genoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.   
 
 ### Artikel  791  
 
@@ -2579,7 +2582,7 @@ Nietig is ieder beding, krachtens hetwelk de overeenkomst van rechtswege eindigt
 
 ### Artikel  820a  
 
-[Artikel 292 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [artikelen 60, tweede lid, eerste zin, derde lid en vierde lid](../../../../../../wet/faillissementswet/BWBR0001860/README.md), en 299b, derde tot en met vijfde lid, van de Faillissementswet zijn op binnenschepen niet van toepassing.  
+Artikel 292 van Boek 3 en de artikelen 60, tweede lid, eerste zin, derde lid en vierde lid, en 299b, derde tot en met vijfde lid, van de Faillissementswet zijn op binnenschepen niet van toepassing.  
 
 ### Artikel  821  
 
@@ -2681,7 +2684,7 @@ De in artikel 832 genoemde vorderingen doen een voorrecht op de daar vermelde za
 ### Artikel  837  
 
 1.  Met de aflevering van de zaken aan de daartoe gerechtigde gaan, behalve in het geval van artikel 559, de in artikel 832 genoemde voorrechten teniet. Zij gaan mede teniet met de vordering en door, in geval van executoriale verkoop, niet tijdig verzet te doen tegen de verdeling van de koopprijs alsmede door gerechtelijke rangregeling.   
-2.  Zij blijven in stand, zolang de zaken op grond van de artikelen 490, 955 of 574 zijn opgeslagen of daarop op grond van [artikel 626](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of [artikel 636 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) beslag is gelegd.   
+2.  Zij blijven in stand, zolang de zaken op grond van de artikelen 490, 955 of 574 zijn opgeslagen of daarop op grond van artikel 626 of artikel 636 van het Wetboek van Burgerlijke Rechtsvordering beslag is gelegd.   
 
 ### Artikel  838  
 
@@ -2698,12 +2701,12 @@ De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of sc
 a. de openbare macht of  
 
 b. niet-commerciële overheidsdienst.     
-2.  De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in [afdeling 2 van Titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
-3.  De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+2.  De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3. Artikel 24 lid 1 van Boek 3 is niet van toepassing.   
+3.  De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.   
 
 ### Artikel  841  
 
-1.  Behoeven de in de afdelingen 2 tot en met 6 van titel 8 geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de [Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md).   
+1.  Behoeven de in de afdelingen 2 tot en met 6 van titel 8 geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de Kadasterwet.   
 2.  In de in het eerste lid bedoelde algemene maatregel van bestuur kan, in afwijking van artikel 786 tweede lid, een nadere regeling worden gegeven met betrekking tot de termijn waarbinnen de eigenaar van een binnenschip, waarop het eerste lid onder *b* ten vijfde van dat artikel van toepassing is en waarvan de teboekstelling in het buitenlandse register heeft plaatsgevonden, voordat het Verdrag van Genève voor de staat van dat register van kracht is geworden, verplicht is tot het doen van aangifte tot doorhaling van de teboekstelling.   
 
 ### Titel  9  
@@ -2750,7 +2753,7 @@ Partijen kunnen overeenkomen dat in afwijking van de afdelingen 1 en 2 alsmede i
 1.  De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt aan boord van een schip zaken uitsluitend over binnenwateren te vervoeren.   
 2.  Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat deze beide wateren bevaart, wordt als vervoer over binnenwateren beschouwd, mits het varen van dit schip over zee kennelijk ondergeschikt is aan het varen over binnenwateren.   
 3.  Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat zonder eigen beweegkracht deze beide wateren bevaart, wordt beschouwd als vervoer over binnenwateren voor zover, met inachtneming tevens van het tweede lid van dit artikel, het varen van het beweegkracht overbrengende schip als varen over binnenwateren wordt beschouwd. Voor zover dit niet het geval is, wordt het als vervoer over zee beschouwd.   
-4.  Deze afdeling is niet van toepassing op overeenkomsten tot het vervoeren van poststukken ter uitvoering van de universele postdienst bedoeld in de [Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md) of onder een internationale postovereenkomst. Onder voorbehoud van artikel 980 is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.   
+4.  Deze afdeling is niet van toepassing op overeenkomsten tot het vervoeren van poststukken ter uitvoering van de universele postdienst bedoeld in de Postwet 2009 of onder een internationale postovereenkomst. Onder voorbehoud van artikel 980 is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.   
 
 ### Artikel  891  
 
@@ -3006,8 +3009,8 @@ In geval van ruimtebevrachting zijn alle kosten en tijdverlet, veroorzaakt om he
 
 ### Artikel  929a  
 
-1.  De vervoerder stelt het schip aan de afzender ter beschikking met ten minste de krachtens de [Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) en bij algemene maatregel van bestuur bepaalde losstandaard. Zodra met het laden een aanvang is gemaakt, wordt het schip geacht aan dit vereiste te voldoen.   
-2.  De afzender en de ontvanger – en in geval zij van een overslaginstallatie gebruik maken in hun plaats de exploitant daarvan – zijn jegens elkaar en jegens de vervoerder verplicht de voor ieder van hen krachtens de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of de [Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) en bij algemene maatregel van bestuur voorgeschreven maatregelen met betrekking tot het laden en lossen van het schip te treffen. Voor zover het betreft hun onderlinge verplichtingen kunnen de afzender en de ontvanger anders overeenkomen dan uit de vorige volzin voortvloeit.   
+1.  De vervoerder stelt het schip aan de afzender ter beschikking met ten minste de krachtens de Waterwet en bij algemene maatregel van bestuur bepaalde losstandaard. Zodra met het laden een aanvang is gemaakt, wordt het schip geacht aan dit vereiste te voldoen.   
+2.  De afzender en de ontvanger – en in geval zij van een overslaginstallatie gebruik maken in hun plaats de exploitant daarvan – zijn jegens elkaar en jegens de vervoerder verplicht de voor ieder van hen krachtens de Wet milieubeheer of de Waterwet en bij algemene maatregel van bestuur voorgeschreven maatregelen met betrekking tot het laden en lossen van het schip te treffen. Voor zover het betreft hun onderlinge verplichtingen kunnen de afzender en de ontvanger anders overeenkomen dan uit de vorige volzin voortvloeit.   
 3.  Nietig is ieder beding, waarbij van het eerste of tweede lid op andere wijze wordt afgeweken dan volgens die leden geoorloofd is.   
 
 ### Artikel  930  
@@ -3485,17 +3488,17 @@ f. de ondergeschikten, vertegenwoordigers of lasthebbers van de in dit lid, onde
 2.  Indien echter de gevaarlijke stof tijdens de periode bedoeld in artikel 1031, tweede lid, is geladen of gelost onder de gezamenlijke verantwoordelijkheid van de eigenaar en een door de eigenaar bij name genoemde ander, zijn de eigenaar en die ander hoofdelijk aansprakelijk overeenkomstig deze afdeling voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof.   
 3.  Indien is geladen of gelost door een persoon in opdracht of ten behoeve van de vervoerder of een ander, zoals de afzender of de ontvanger, is niet deze persoon, maar de vervoerder of die ander aansprakelijk.   
 4.  Indien een ander dan de eigenaar op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 1033, vierde lid en vijfde lid, onderdeel *b*.   
-5.  Indien een ander dan de eigenaar op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander titel 12 alsmede de [artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid: 
+5.  Indien een ander dan de eigenaar op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander titel 12 alsmede de artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid: 
 
 a. de beperking van aansprakelijkheid krachtens titel 12 geldt voor het geheel der naar aanleiding van eenzelfde gebeurtenis ontstane vorderingen gericht tegen beiden;  
 
-b. een fonds gevormd door één van hen overeenkomstig [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.     
+b. een fonds gevormd door één van hen overeenkomstig artikel 642c van het Wetboek van Burgerlijke Rechtsvordering wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.     
 6.  In de onderlinge verhouding tussen de eigenaar en de in het tweede lid van dit artikel genoemde ander is de eigenaar niet tot vergoeding verplicht dan in geval van schuld van hemzelf of van zijn ondergeschikten, vertegenwoordigers of lasthebbers.   
 7.  Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 1031, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 1033, vijfde lid, onderdeel *c*, *d* of *e*.   
 
 ### Artikel  1035  
 
-Indien ingevolge artikel 1033, tweede lid, onderdeel *c*, de eigenaar niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien titel 12 alsmede de [artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 1033, vierde lid.  
+Indien ingevolge artikel 1033, tweede lid, onderdeel *c*, de eigenaar niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien titel 12 alsmede de artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 1033, vierde lid.  
 
 ### Artikel  1036  
 
@@ -3512,7 +3515,7 @@ Indien schade veroorzaakt door de gevaarlijke stof redelijkerwijs niet kan worde
 
 ### Artikel  1060  
 
-1.  De eigenaar van een binnenschip en de hulpverlener kunnen door het stellen van één of meer fondsen als bedoeld in [artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) hun aansprakelijkheid beperken voor de in artikel 1062 genoemde vorderingen.   
+1.  De eigenaar van een binnenschip en de hulpverlener kunnen door het stellen van één of meer fondsen als bedoeld in artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering hun aansprakelijkheid beperken voor de in artikel 1062 genoemde vorderingen.   
 2.  Onder eigenaar worden in deze titel mede verstaan de bevrachter, de huurder en de beheerder van een binnenschip met inbegrip van degene in wiens handen de exploitatie van een binnenschip is gelegd.   
 3.  Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 1062, eerste lid, onder *d*, *e* en *f*, genoemde werkzaamheden of maatregelen.   
 4.  Onder binnenschepen worden in deze titel mede verstaan draagvleugelboten, veerponten en kleine vaartuigen, baggermolens, drijvende kranen, elevatoren en alle andere drijvende en verplaatsbare werktuigen, pontons of materiaal van soortgelijke aard, die voldoen aan de in de artikelen 1 en 3 van dit boek ten aanzien van binnenschepen vermelde vereisten.   
@@ -3592,7 +3595,7 @@ c. de hulpverlener of hulpverleners aan een binnenschip die niet van een zee- of
 
 ### Artikel  1081  
 
-Op de exploitatie van een voertuig zijn de artikelen 361 tot en met 366 van overeenkomstige toepassing, met dien verstande dat deze artikelen eveneens van overeenkomstige toepassing zijn wanneer degene op wie krachtens [artikel 2 eerste en tweede lid van de Wet Aansprakelijkheidsverzekering Motorrijtuigen](../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) de verplichting tot verzekering rust, de in artikel 6 dier wet bedoelde verzekeraar of een ondergeschikte van een dezer buiten overeenkomst wordt aangesproken. De artikelen 361 tot en met 366 zijn bovendien van overeenkomstige toepassing, indien het Waarborgfonds Motorverkeer, genoemd in artikel 23 van eerdervermelde wet, dan wel het bureau, genoemd in het zesde lid van artikel 2 van die wet, of een ondergeschikte van een dezer buiten overeenkomst wordt aangesproken.  
+Op de exploitatie van een voertuig zijn de artikelen 361 tot en met 366 van overeenkomstige toepassing, met dien verstande dat deze artikelen eveneens van overeenkomstige toepassing zijn wanneer degene op wie krachtens artikel 2 eerste en tweede lid van de Wet Aansprakelijkheidsverzekering Motorrijtuigen de verplichting tot verzekering rust, de in artikel 6 dier wet bedoelde verzekeraar of een ondergeschikte van een dezer buiten overeenkomst wordt aangesproken. De artikelen 361 tot en met 366 zijn bovendien van overeenkomstige toepassing, indien het Waarborgfonds Motorverkeer, genoemd in artikel 23 van eerdervermelde wet, dan wel het bureau, genoemd in het zesde lid van artikel 2 van die wet, of een ondergeschikte van een dezer buiten overeenkomst wordt aangesproken.  
 
 ### Afdeling  2  
 
@@ -3608,7 +3611,7 @@ Vervoer over de weg van zaken omvat voor de toepassing van artikel 1098 tweede l
 
 ### Artikel  1092  
 
-Deze afdeling is niet van toepassing op overeenkomsten tot lijkbezorging, overeenkomsten tot het vervoeren van verhuisgoederen of overeenkomsten tot het vervoeren van poststukken door of in opdracht van een verlener van de universele postdienst, bedoeld in de [Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md) of onder een internationale postovereenkomst, ter uitvoering van de universele postdienst bedoeld in de [Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md). Onder voorbehoud van artikel 1154 is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.  
+Deze afdeling is niet van toepassing op overeenkomsten tot lijkbezorging, overeenkomsten tot het vervoeren van verhuisgoederen of overeenkomsten tot het vervoeren van poststukken door of in opdracht van een verlener van de universele postdienst, bedoeld in de Postwet 2009 of onder een internationale postovereenkomst, ter uitvoering van de universele postdienst bedoeld in de Postwet 2009. Onder voorbehoud van artikel 1154 is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.  
 
 ### Artikel  1093  
 
@@ -3955,7 +3958,7 @@ De vervoerder is terzake van door de reiziger aan boord van het voertuig gebrach
 
 ### Artikel  1153  
 
-Onverminderd artikel 1152 en onverminderd [artikel 179 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.  
+Onverminderd artikel 1152 en onverminderd artikel 179 van Boek 6 is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.  
 
 ### Artikel  1154  
 
@@ -3982,7 +3985,7 @@ De aansprakelijkheid van de vervoerder is in geval van dood, letsel of vertragin
 ### Artikel  1159  
 
 1.  In geval van verlies of beschadiging van bagage wordt de vordering tot schadevergoeding gewaardeerd naar de omstandigheden.   
-2.  In geval van aan de reiziger overkomen letsel of van de dood van de reiziger zijn de [artikelen 107](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [108 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing op de vorderingen die vervoerder als wederpartij van een andere vervoerder tegen deze instelt.   
+2.  In geval van aan de reiziger overkomen letsel of van de dood van de reiziger zijn de artikelen 107 en 108 van Boek 3 niet van toepassing op de vorderingen die vervoerder als wederpartij van een andere vervoerder tegen deze instelt.   
 
 ### Artikel  1160  
 
@@ -4018,7 +4021,7 @@ Wanneer de reiziger na verlaten van het voertuig niet tijdig terugkeert, kan de 
 
 1.  Wordt ter zake van het vervoer een plaatsbewijs, een ontvangstbewijs voor bagage of enig soortgelijk document afgegeven, dan is de vervoerder verplicht daarin op duidelijke wijze zijn naam en woonplaats te vermelden.   
 2.  Nietig is ieder beding, waarbij van het eerste lid van dit artikel wordt afgeweken.   
-3.  De [artikelen 56 tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [75 eerste lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [186 eerste lid van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing.   
+3.  De artikelen 56 tweede lid, 75 eerste lid en 186 eerste lid van Boek 2 zijn niet van toepassing.   
 
 ### Afdeling  4  
 
@@ -4226,7 +4229,7 @@ c. "*preventieve maatregel* ": iedere redelijke maatregel ter voorkoming of bepe
 
 d. "*gebeurtenis* ": elk feit of elke opeenvolging van feiten met dezelfde oorzaak, waardoor schade ontstaat of waardoor een ernstige en onmiddellijke dreiging van schade ontstaat;  
 
-e. "*exploitant* ": hij die de zeggenschap heeft over het gebruik van het voertuig aan boord waarvan de gevaarlijke stof zich bevindt. Hij aan wie een kenteken als bedoeld in [artikel 36, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is opgegeven, of, bij gebreke daarvan, de eigenaar van het voertuig, wordt aangemerkt als exploitant, tenzij hij bewijst dat ten tijde van de gebeurtenis een door hem bij name genoemde ander de zeggenschap over het gebruik van het voertuig had of dat op dat tijdstip een ander zonder zijn toestemming en zonder dat hij zulks redelijkerwijs kon voorkomen de zeggenschap over het gebruik van het voertuig had.    
+e. "*exploitant* ": hij die de zeggenschap heeft over het gebruik van het voertuig aan boord waarvan de gevaarlijke stof zich bevindt. Hij aan wie een kenteken als bedoeld in artikel 36, eerste lid, van de Wegenverkeerswet 1994 is opgegeven, of, bij gebreke daarvan, de eigenaar van het voertuig, wordt aangemerkt als exploitant, tenzij hij bewijst dat ten tijde van de gebeurtenis een door hem bij name genoemde ander de zeggenschap over het gebruik van het voertuig had of dat op dat tijdstip een ander zonder zijn toestemming en zonder dat hij zulks redelijkerwijs kon voorkomen de zeggenschap over het gebruik van het voertuig had.    
 
 ### Artikel  1211  
 
@@ -4312,7 +4315,7 @@ Ten einde zich te kunnen beroepen op de in artikel 1218 bedoelde beperking van a
 ### Artikel  1220  
 
 1.  Hij die gebruik wenst te maken van de hem in artikel 1218 gegeven bevoegdheid tot beperking van zijn aansprakelijkheid, verzoekt een rechtbank die bevoegd is kennis te nemen van de vorderingen tot vergoeding van schade, het bedrag waartoe zijn aansprakelijkheid is beperkt, vast te stellen en te bevelen dat tot een procedure ter verdeling van dit bedrag zal worden overgegaan.   
-2.  Op het verzoek en de procedure ter verdeling zijn de [artikelen 642a, tweede tot en met vierde lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642b](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642c](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642e, eerste lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642f tot en met 642t, eerste lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [642u tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
+2.  Op het verzoek en de procedure ter verdeling zijn de artikelen 642a, tweede tot en met vierde lid, 642b, 642c, 642e, eerste lid, 642f tot en met 642t, eerste lid, en 642u tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
 3.  Indien het krachtens artikel 1218, eerste lid, bepaalde bedrag voor vorderingen ter zake van dood of letsel onvoldoende is voor volledige vergoeding van deze vorderingen, worden deze vorderingen in evenredigheid gekort en zal het krachtens artikel 1218, eerste lid, bepaalde bedrag voor andere vorderingen naar evenredigheid worden verdeeld onder die vorderingen en de vorderingen ter zake van dood of letsel, voor zover deze onvoldaan zouden zijn.   
 4.  De vorderingen van de exploitant ter zake van door hem vrijwillig en binnen de grenzen der redelijkheid gedane uitgaven en gebrachte offers ter voorkoming of beperking van schade staan in rang gelijk met andere vorderingen op het krachtens artikel 1218, eerste lid, bepaalde bedrag voor andere vorderingen dan die ter zake van dood of letsel.   
 
@@ -4338,7 +4341,7 @@ b. Verdragsstaat: een staat waarvoor het Verdrag van Genève van kracht is;
 
 c. verdragsregister: een buiten Nederland gehouden register als bedoeld in artikel I, eerste lid, onder ii, van het Verdrag van Genève;  
 
-d. de openbare registers: de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).    
+d. de openbare registers: de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.    
 
 ### Artikel  1301  
 
@@ -4348,7 +4351,7 @@ De in deze afdeling aan de eigenaar opgelegde verplichtingen rusten, indien het 
 
 1.  Teboekstelling is slechts mogelijk indien 
 
-a. het luchtvaartuig een Nederlands luchtvaartuig is in de zin van de [Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en  
+a. het luchtvaartuig een Nederlands luchtvaartuig is in de zin van de Wet luchtvaart, en  
 
 b. het luchtvaartuig ten minste een bij algemene maatregel van bestuur vastgesteld gewicht heeft.     
 2.  Teboekstelling is niet mogelijk van een luchtvaartuig dat reeds teboekstaat in de openbare registers, in een verdragsregister of in enig soortgelijk buitenlands register.   
@@ -4383,7 +4386,7 @@ De enige zakelijke rechten waarvan een in de openbare registers teboekstaand luc
 ### Artikel  1306  
 
 1.  Een in de openbare registers teboekstaand luchtvaartuig is een registergoed.   
-2.  Bij de toepassing van [artikel 301 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) ter zake van akten die op de voet van [artikel 89, eerste en vierde lid, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn bestemd voor de levering van zodanig luchtvaartuig, kan de in het eerstgenoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.   
+2.  Bij de toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89, eerste en vierde lid, van Boek 3 zijn bestemd voor de levering van zodanig luchtvaartuig, kan de in het eerstgenoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.   
 
 ### Artikel  1307  
 
@@ -4397,7 +4400,7 @@ Op een teboekstaand luchtvaartuig kan een zakelijk recht worden gevestigd, besta
 
 1.  Op een teboekstaand luchtvaartuig kan een zakelijk recht worden gevestigd, bestaande in het recht van de houder tot gebruik van het luchtvaartuig uit een huurovereenkomst die voor ten minste zes maanden is gesloten. In de notariële akte bestemd voor de vestiging van dit recht, wordt duidelijk het aan dit recht onderworpen luchtvaartuig vermeld.   
 2.  De huurovereenkomst geldt als titel voor de vestiging. Indien de huurovereenkomst in een notariële akte is neergelegd, die aan de eisen voor een akte van levering voldoet, geldt deze akte als akte van levering.   
-3.  Op een huurovereenkomst ter zake van een teboekstaand luchtvaartuig is [artikel 226 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet van toepassing.   
+3.  Op een huurovereenkomst ter zake van een teboekstaand luchtvaartuig is artikel 226 van Boek 7 niet van toepassing.   
 
 ### Artikel  1310  
 
@@ -4417,7 +4420,7 @@ Op hypotheek op een aandeel in een teboekstaand luchtvaartuig is artikel 177 van
 
 ### Artikel  1314  
 
-Op een hypotheek op een teboekstaand luchtvaartuig zijn de artikelen 234, 261, 264, 265, 266 en 268-273 van Boek 3 en de artikelen 544-548 van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet van toepassing.  
+Op een hypotheek op een teboekstaand luchtvaartuig zijn de artikelen 234, 261, 264, 265, 266 en 268-273 van Boek 3 en de artikelen 544-548 van het Wetboek van Burgerlijke Rechtsvordering niet van toepassing.  
 
 ### Afdeling  2  
 
@@ -4429,7 +4432,7 @@ In geval van uitwinning van een luchtvaartuig dat teboekstaat in de openbare reg
 
 ### Artikel  1316  
 
-[Artikel 292 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [artikelen 60, tweede lid, eerste zin, derde lid en vierde lid](../../../../../../wet/faillissementswet/BWBR0001860/README.md), en [299b, derde tot en met vijfde lid, van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) zijn niet van toepassing op luchtvaartuigen die teboekstaan in de openbare registers of in een verdragsregister.  
+Artikel 292 van Boek 3 en de artikelen 60, tweede lid, eerste zin, derde lid en vierde lid, en 299b, derde tot en met vijfde lid, van de Faillissementswet zijn niet van toepassing op luchtvaartuigen die teboekstaan in de openbare registers of in een verdragsregister.  
 
 ### Artikel  1317  
 
@@ -4439,7 +4442,7 @@ a. de vorderingen tot betaling van hulploon voor aan het luchtvaartuig verleende
 
 b. de vorderingen tot betaling van buitengewone kosten, noodzakelijk voor het behoud van het luchtvaartuig.     
 2.  Het eerste lid geldt slechts indien de hulp of de handeling tot behoud is beëindigd in Nederland of in een Verdragsstaat welks wetgeving aan de vorderingen, ontstaan vanwege deze handelingen, een voorrecht met zaaksgevolg toekent.   
-3.  [Artikel 284 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
+3.  Artikel 284 van Boek 3 is niet van toepassing.   
 
 ### Artikel  1318  
 
@@ -4462,7 +4465,7 @@ De schuldeiser die een voorrecht heeft op grond van artikel 1317, vervolgt zijn 
 
 ### Artikel  1321  
 
-Behoeven de in deze titel geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de [Kadasterwet](../../../../../../wet/kadasterwet/BWBR0004541/README.md).  
+Behoeven de in deze titel geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de Kadasterwet.  
 
 ### Titel  16  
 
@@ -4517,7 +4520,7 @@ De rekeneenheid, genoemd in deze titel, is het bijzondere trekkingsrecht, zoals 
 ### Artikel  1350  
 
 1.  De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt aan boord van een luchtvaartuig zaken uitsluitend door de lucht te vervoeren.   
-2.  Deze afdeling is niet van toepassing op overeenkomsten tot het vervoeren van postzendingen door of in opdracht van de verlener van de universele postdienst, bedoeld in de [Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md) of onder een internationale postovereenkomst. Onder voorbehoud van artikel 1395 is deze afdeling niet van toepassing op overeenkomsten tot het vervoer van bagage.   
+2.  Deze afdeling is niet van toepassing op overeenkomsten tot het vervoeren van postzendingen door of in opdracht van de verlener van de universele postdienst, bedoeld in de Postwet 2009 of onder een internationale postovereenkomst. Onder voorbehoud van artikel 1395 is deze afdeling niet van toepassing op overeenkomsten tot het vervoer van bagage.   
 
 ### Artikel  1351  
 
@@ -4611,7 +4614,7 @@ De afzender is verplicht de vervoerder de buitengewone schade te vergoeden, die 
 2.  Het eerste exemplaar bevat de vermelding «voor de vervoerder»; het wordt getekend door de afzender. Het tweede exemplaar bevat de vermelding «voor de afzender»; het wordt getekend door de afzender en de vervoerder. Het derde exemplaar wordt getekend door de vervoerder en door hem, na ontvangst van de zaken, aan de afzender overhandigd.   
 3.  De handtekening van de vervoerder en die van de afzender kunnen worden gedrukt of vervangen door een stempel dan wel langs electronische weg worden gezet.   
 4.  Indien, op verzoek van de afzender, de vervoerder de luchtvrachtbrief opmaakt, wordt hij vermoed te handelen namens de afzender.   
-5.  De [artikelen 56, tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [75, eerste lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [186, eerste lid, van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing.   
+5.  De artikelen 56, tweede lid, 75, eerste lid, en 186, eerste lid, van Boek 2 zijn niet van toepassing.   
 
 ### Artikel  1367  
 
@@ -4672,7 +4675,7 @@ De afzender en de geadresseerde kunnen alle rechten doen gelden die hun ondersch
 
 ### Artikel  1377  
 
-Onverminderd [afdeling 1 van Titel 4 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn de afzender en de geadresseerde hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken.  
+Onverminderd afdeling 1 van Titel 4 van Boek 6 zijn de afzender en de geadresseerde hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken.  
 
 ### Artikel  1378  
 
@@ -4774,7 +4777,7 @@ De in artikel 1400 vermelde aansprakelijkheidsgrenzen zijn niet van toepassing, 
 
 ### Artikel  1403  
 
-In geval van aan de reiziger overkomen letsel en van de dood van de reiziger zijn de [artikelen 107](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [108 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) niet van toepassing op de vorderingen die de vervoerder als wederpartij van een andere vervoerder tegen deze laatste instelt.  
+In geval van aan de reiziger overkomen letsel en van de dood van de reiziger zijn de artikelen 107 en 108 van Boek 6 niet van toepassing op de vorderingen die de vervoerder als wederpartij van een andere vervoerder tegen deze laatste instelt.  
 
 ### Artikel  1404  
 
@@ -4786,7 +4789,7 @@ De wederpartij van de vervoerder is verplicht deze de schade te vergoeden die hi
 
 ### Artikel  1406  
 
-1.  Onverminderd [artikel 179 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) is de reiziger verplicht de vervoerder de schade te vergoeden, die hij of zijn bagage heeft berokkend en zulks door het blote feit, dat de gebeurtenis, die de schade veroorzaakte, plaats vond gedurende de in artikel 1391 omschreven periode, of wat betreft aangegeven bagage de in artikel 1351 omschreven periode.   
+1.  Onverminderd artikel 179 van Boek 6 is de reiziger verplicht de vervoerder de schade te vergoeden, die hij of zijn bagage heeft berokkend en zulks door het blote feit, dat de gebeurtenis, die de schade veroorzaakte, plaats vond gedurende de in artikel 1391 omschreven periode, of wat betreft aangegeven bagage de in artikel 1351 omschreven periode.   
 2.  De schade wordt aangemerkt het door de vervoerder naar zijn redelijk oordeel vast te stellen bedrag te belopen, maar indien de vervoerder meent dat de schade meer dan 227 euro beloopt, moet hij zulks bewijzen.   
 
 ### Artikel  1407  
@@ -4819,7 +4822,7 @@ Wanneer de reiziger na het verlaten van het luchtvaartuig niet tijdig terugkeert
 4.  Aan de reiziger wordt een schriftelijke mededeling verstrekt inhoudende dat wanneer deze titel van toepassing is hij de aansprakelijkheid van de vervoerders regelt en kan beperken ter zake van dood of letsel en in geval van vernieling, verlies of beschadiging van bagage, alsmede in geval van vertraging.   
 5.  Niet-inachtneming van het bepaalde in de voorgaande leden doet niet af aan het bestaan of de geldigheid van de vervoerovereenkomst, die desondanks onderworpen zal zijn aan de bepalingen van deze titel met inbegrip van die betreffende de beperking van de aansprakelijkheid.   
 6.  Het eerste lid geldt niet tussen partijen bij een bevrachting.   
-7.  De [artikelen 56, tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [75, eerste lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [186, eerste lid, van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing.   
+7.  De artikelen 56, tweede lid, 75, eerste lid, en 186, eerste lid, van Boek 2 zijn niet van toepassing.   
 8.  Dit artikel is niet van toepassing op het vervoer dat in bijzondere omstandigheden buiten elke normale uitoefening van het luchtvaartbedrijf plaats vindt.   
 
 ### Artikel  1412  
@@ -4828,7 +4831,7 @@ De reiziger heeft het recht onmiddellijk na aankomst ter plaatse van zijn bestem
 
 ### Artikel  1413  
 
-Onverminderd [afdeling 1 van Titel 4 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) is de wederpartij van de vervoerder verplicht de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van de reiziger met betrekking tot diens bagage.  
+Onverminderd afdeling 1 van Titel 4 van Boek 6 is de wederpartij van de vervoerder verplicht de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van de reiziger met betrekking tot diens bagage.  
 
 ### Artikel  1414  
 
@@ -4859,7 +4862,7 @@ In geval van aanneming door de reiziger van de aangegeven bagage zonder protest 
 ### Artikel  1550  
 
 1.  De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt tot het vervoer van zaken uitsluitend over spoorwegen. Partijen kunnen bedingen dat de onderhavige titel van toepassing is op het vervoer over de weg of binnenwateren dat in aanvulling op het vervoer over spoorwegen plaats vindt.   
-2.  Deze titel is niet van toepassing op overeenkomsten tot het vervoer van postzendingen door of in opdracht van de houder van een concessie, bedoeld in de [Postwet](../../../../../../wet/postwet/BWBR0004423/README.md) of onder een internationale postovereenkomst.   
+2.  Deze titel is niet van toepassing op overeenkomsten tot het vervoer van postzendingen door of in opdracht van de houder van een concessie, bedoeld in de Postwet of onder een internationale postovereenkomst.   
 3.  Deze titel is niet van toepassing op overeenkomsten tot het vervoer van bagage.   
 
 ### Artikel  1551  
@@ -4872,7 +4875,7 @@ b. ondervervoerder: een vervoerder die niet de vervoerovereenkomst heeft geslote
 
 c. intermodale transporteenheid: containers, wissellaadbakken, opleggers of andere soortgelijke bij intermodaal vervoer gebruikte laadeenheden.  
 
-d. VSG: [Regeling vervoer over de spoorweg van gevaarlijke stoffen](../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md).    
+d. VSG: Regeling vervoer over de spoorweg van gevaarlijke stoffen.    
 
 ### Artikel  1552  
 
@@ -4914,7 +4917,7 @@ f. de plaats van de aflevering;
 
 g. de naam en het adres van de geadresseerde;  
 
-h. de omschrijving van de aard der zaken en de verpakkingswijze, en voor gevaarlijke zaken hun omschrijving in de [VSG](../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) voorgeschreven voor het internationale spoorwegvervoer van gevaarlijke zaken;  
+h. de omschrijving van de aard der zaken en de verpakkingswijze, en voor gevaarlijke zaken hun omschrijving in de VSG voorgeschreven voor het internationale spoorwegvervoer van gevaarlijke zaken;  
 
 i. het aantal colli en de voor identificatie van stukgoedzendingen vereiste bijzondere merktekens en nummers;  
 
@@ -4952,12 +4955,12 @@ g. de vermeldingen door de afzender van het aantal en de beschrijving van de doo
 
 a. aanduidingen door de afzender op de vrachtbrief die onnauwkeurig, onjuist of onvolledig zijn of die op een andere dan de voor hen voorgeschreven plaats vermeld werden of  
 
-b. het verzuimen door de afzender om door de [VSG](../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) voorgeschreven aanduidingen te vermelden.     
+b. het verzuimen door de afzender om door de VSG voorgeschreven aanduidingen te vermelden.     
 2.  Indien de vervoerder aanduidingen op de vrachtbrief vermeldt op verzoek van de afzender, wordt hij geacht te handelen in naam van de afzender, behoudens tegenbewijs.   
 
 ### Artikel  1557  
 
-Wanneer de afzender heeft verzuimd de door de [VSG](../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) voorgeschreven aanduidingen te vermelden, kan de vervoerder op elk ogenblik, al naargelang de omstandigheden vereisen, de zaken uitladen, vernietigen of onschadelijk maken zonder dat dit aanleiding geeft tot enige schadeloosstelling, behalve indien hij bij de aanneming ten vervoer van de zaken kennis had van de gevaarlijke aard van de zaken.  
+Wanneer de afzender heeft verzuimd de door de VSG voorgeschreven aanduidingen te vermelden, kan de vervoerder op elk ogenblik, al naargelang de omstandigheden vereisen, de zaken uitladen, vernietigen of onschadelijk maken zonder dat dit aanleiding geeft tot enige schadeloosstelling, behalve indien hij bij de aanneming ten vervoer van de zaken kennis had van de gevaarlijke aard van de zaken.  
 
 ### Artikel  1558  
 
@@ -5335,8 +5338,8 @@ De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de art
 
 ### Artikel  1661  
 
-1.  De aansprakelijkheid op grond van [artikel 173 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ten aanzien van een spoorvoertuig, dat bij een spoorwegonderneming in gebruik is, rust op die spoorwegonderneming. Is het spoorvoertuig in gebruik bij een bedrijf van andere aard, dan rust deze aansprakelijkheid op dit andere bedrijf. Wordt het spoorvoertuig gebruikt door het ter beschikking te stellen voor gebruik in de uitoefening van het bedrijf van een ander, dan rust die aansprakelijkheid op die ander.   
-2.  De aansprakelijkheid op grond van [artikel 174 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ten aanzien van de spoorweginfrastructuur rust op de beheerder.   
+1.  De aansprakelijkheid op grond van artikel 173 van Boek 6 ten aanzien van een spoorvoertuig, dat bij een spoorwegonderneming in gebruik is, rust op die spoorwegonderneming. Is het spoorvoertuig in gebruik bij een bedrijf van andere aard, dan rust deze aansprakelijkheid op dit andere bedrijf. Wordt het spoorvoertuig gebruikt door het ter beschikking te stellen voor gebruik in de uitoefening van het bedrijf van een ander, dan rust die aansprakelijkheid op die ander.   
+2.  De aansprakelijkheid op grond van artikel 174 van Boek 6 ten aanzien van de spoorweginfrastructuur rust op de beheerder.   
 
 ### Afdeling  2  
 
@@ -5367,7 +5370,7 @@ e. *"gebeurtenis"*: elk feit of elke opeenvolging van feiten met dezelfde oorzaa
 1.  Deze afdeling is niet van toepassing, indien de spoorwegonderneming jegens degene die de vordering instelt, aansprakelijk is uit hoofde van een exploitatie-overeenkomst of jegens deze persoon een beroep op een exploitatie-overeenkomst heeft.   
 2.  Deze afdeling is van toepassing op de periode waarin een gevaarlijke stof zich in een spoorvoertuig bevindt, daaronder begrepen de periode vanaf het begin van de inlading van de gevaarlijke stof in het spoorvoertuig tot het einde van de lossing van die stof uit het spoorvoertuig.   
 3.  Deze afdeling is niet van toepassing op schade veroorzaakt wanneer het spoorvoertuig uitsluitend wordt gebruikt op een niet voor publiek toegankelijk terrein en zulk gebruik een onderdeel vormt van een op dat terrein plaatsvindende bedrijfsuitoefening.   
-4.  Op zich overeenkomstig het tweede lid aan boord bevindende stoffen als bedoeld in [artikel 175 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) is dat artikel niet van toepassing, tenzij zich het geval van het derde lid voordoet.   
+4.  Op zich overeenkomstig het tweede lid aan boord bevindende stoffen als bedoeld in artikel 175 van Boek 6 is dat artikel niet van toepassing, tenzij zich het geval van het derde lid voordoet.   
 
 ### Artikel  1672  
 
@@ -5440,7 +5443,7 @@ Ten einde zich te kunnen beroepen op de in artikel 1678 bedoelde beperking van a
 ### Artikel  1680  
 
 1.  Hij die gebruik wenst te maken van de hem in artikel 1678 gegeven bevoegdheid tot beperking van zijn aansprakelijkheid, verzoekt een rechtbank die bevoegd is kennis te nemen van de vorderingen tot vergoeding van schade, het bedrag waartoe zijn aansprakelijkheid is beperkt, vast te stellen en te bevelen dat tot een procedure ter verdeling van dit bedrag zal worden overgegaan.   
-2.  Op het verzoek en de procedure ter verdeling zijn de [artikelen 642a, tweede tot en met vierde lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642b](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642c](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642e, eerste lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [642f tot en met 642t, eerste lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [642u tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
+2.  Op het verzoek en de procedure ter verdeling zijn de artikelen 642a, tweede tot en met vierde lid, 642b, 642c, 642e, eerste lid, 642f tot en met 642t, eerste lid, en 642u tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
 3.  Indien het krachtens artikel 1678, eerste lid, bepaalde bedrag voor vorderingen ter zake van dood of letsel onvoldoende is voor volledige vergoeding van deze vorderingen, worden deze vorderingen in evenredigheid gekort en zal het krachtens artikel 1678, eerste lid, bepaalde bedrag voor andere vorderingen naar evenredigheid worden verdeeld onder die vorderingen en de vorderingen ter zake van dood of letsel, voor zover deze onvoldaan zouden zijn.   
 4.  De vorderingen van de spoorwegonderneming ter zake van door hem vrijwillig en binnen de grenzen der redelijkheid gedane uitgaven en gebrachte offers ter voorkoming of beperking van schade staan in rang gelijk met andere vorderingen op het krachtens artikel 1678, eerste lid, bepaalde bedrag voor andere vorderingen dan die ter zake van dood of letsel.   
 
@@ -5787,6 +5790,6 @@ Iedere vordering terzake van een overeenkomst van luchtvervoer vervalt door verl
 
 ####Slotbepaling
 
-1.  De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen gesteld in de afdelingen 2 van titel 5, 4 van titel 5, 2 van titel 10 en 4 van titel 10.   
+1.  De Algemene termijnenwet is niet van toepassing op de termijnen gesteld in de afdelingen 2 van titel 5, 4 van titel 5, 2 van titel 10 en 4 van titel 10.   
 2.  In de in het eerste lid genoemde afdelingen worden onder dag verstaan alle kalenderdagen met uitzondering van de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paas- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de dag waarop de verjaardag van de Koning wordt gevierd.   
 

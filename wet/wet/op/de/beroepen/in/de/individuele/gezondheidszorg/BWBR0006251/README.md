@@ -69,7 +69,7 @@ De inschrijving wordt geweigerd:
 
 a. indien de aanvrager niet voldoet aan de in hoofdstuk III bedoelde opleidingseisen;  
 
-b. indien de aanvrager ingevolge in kracht van gewijsde gegane rechterlijke uitspraak onder curatele is gesteld wegens geestelijke stoornis;  
+b. indien de aanvrager ingevolge in kracht van gewijsde gegane rechterlijke uitspraak onder curatele is gesteld wegens lichamelijke of geestelijke toestand;  
 
 c. indien de aanvrager ingevolge rechterlijke uitspraak ontzet is van het recht het betrokken beroep uit te oefenen;  
 
@@ -100,7 +100,7 @@ Onze Minister kan artikel 6, onderdeel e, en artikel 7, onderdeel e, buiten toep
 1.  Bij algemene maatregel van bestuur wordt bepaald dat de inschrijving in een bij de maatregel aangewezen register wordt doorgehaald indien na de in het tweede lid bedoelde datum een bij de maatregel aangegeven periode is verstreken.   
 2.  De in het eerste lid bedoelde datum is de meest recente van de volgende data: 
 
-a. de datum waarop de ingeschrevene een bij of krachtens hoofdstuk III of VI aangewezen getuigschrift of een in artikel 41, eerste lid, onder b, bedoelde verklaring of een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) heeft verkregen;  
+a. de datum waarop de ingeschrevene een bij of krachtens hoofdstuk III of VI aangewezen getuigschrift of een in artikel 41, eerste lid, onder b, bedoelde verklaring of een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties heeft verkregen;  
 
 b. de naar aanleiding van een aanvrage van de ingeschrevene in het register aangetekende datum voorafgaand waaraan hij in de in het eerste lid bedoelde periode overeenkomstig door Onze Minister gestelde regels met goed gevolg scholing heeft afgerond;  
 
@@ -108,7 +108,7 @@ c. de naar aanleiding van een aanvrage van de ingeschrevene in het register aang
 3.  In afwijking van het eerste lid wordt de inschrijving van een specialist, waarvoor een regeling geldt als bedoeld in artikel 15, eerste lid, in het in het eerste lid bedoelde register niet doorgehaald zolang deze als specialist is ingeschreven in een erkend specialistenregister.   
 4.  Op een aanvrage als bedoeld in het tweede lid, onder b of c, is artikel 5 van overeenkomstige toepassing.   
 5.  De doorhaling blijft achterwege zolang niet is beslist op een reeds ingediende aanvrage tot aantekening van een datum als bedoeld in het tweede lid, onder b of c.   
-6.   Dit lid is nog niet in werking getreden.    
+6.  Ingeval ten aanzien van een bepaald register toepassing is gegeven aan het eerste lid wordt, onverminderd het bepaalde in artikel 6, inschrijving in dat register geweigerd indien de aanvrager niet in de krachtens het eerste lid vastgestelde periode, voorafgaande aan de indiening van de aanvrage tot inschrijving, een getuigschrift of verklaring als bedoeld in het tweede lid heeft verkregen dan wel een scholing of tijdvak van werkzaamheid als bedoeld in dat lid heeft afgesloten.   
 7.  Onze Minister kan: 
 
 a. eisen vaststellen waaraan de aard van de werkzaamheden, bedoeld in het tweede lid, onder *c*, voor de toepassing van dit artikel moeten voldoen;  
@@ -148,7 +148,7 @@ c. de datum waarop de schorsing is geëindigd of vanaf welke het bevel, de in ee
 ### Artikel  10  
 
 1.  Iedere inschrijving, aantekening of doorhaling in een register geschiedt op grond van een daartoe strekkende gedagtekende beschikking.   
-2.  Onze Minister zendt een afschrift van een beschikking als bedoeld in het eerste lid aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md).   
+2.  Onze Minister zendt een afschrift van een beschikking als bedoeld in het eerste lid aan de beheerder van het register van zorgaanbieders, bedoeld in artikel 14 van de Wet gebruik burgerservicenummer in de zorg.   
 
 ### Artikel  11  
 
@@ -194,7 +194,7 @@ h. of ten aanzien van een verpleegkundige een vermelding als bedoeld in artikel 
 
 ### Artikel  13  
 
-De in de registers opgenomen gegevens kunnen tevens worden gebruikt ten behoeve van de uitvoering van de [Noodwet geneeskundigen](../../../../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md), de [Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en de toezending van informatie, de volksgezondheid betreffende, door het Staatstoezicht op de volksgezondheid of door andere door Onze Minister aangewezen bestuursorganen aan de in registers ingeschreven personen.  
+De in de registers opgenomen gegevens kunnen tevens worden gebruikt ten behoeve van de uitvoering van de Noodwet geneeskundigen, de Wet marktordening gezondheidszorg en de toezending van informatie, de volksgezondheid betreffende, door het Staatstoezicht op de volksgezondheid of door andere door Onze Minister aangewezen bestuursorganen aan de in registers ingeschreven personen.  
 
 ### §  2  
 
@@ -238,7 +238,7 @@ e. de organisatie kent tevens een orgaan dat is belast met
 8.  Onze Minister kan een orgaan als bedoeld in het tweede lid, onder d, met betrekking tot de in dit artikel bedoelde taken in verband met bindende besluiten van de Europese Gemeenschap alsmede ter bevordering van de goede uitoefening van de individuele gezondheidszorg aanwijzingen van algemene aard geven. Alvorens daartoe over te gaan hoort hij het betrokken orgaan. Een aanwijzing kan niet inhouden dat een specialistenregister voor een bepaald deelgebied tot stand dient te worden gebracht.   
 9.  Onze Minister kan een op grond van het eerste lid genomen besluit intrekken indien niet meer wordt voldaan aan het bepaalde in dit artikel.   
 10.  Het orgaan, bedoeld in het tweede lid, onder d, verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-11.  De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op een orgaan als bedoeld in het tweede lid, onder e, voor zover dit orgaan werkzaamheden uitoefent met betrekking tot een erkend specialistenregister. In afwijking van de eerste volzin is [artikel 22 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) niet van toepassing, voor zover het besluiten betreft ter zake van de inschrijving.   
+11.  De Kaderwet zelfstandige bestuursorganen is van toepassing op een orgaan als bedoeld in het tweede lid, onder e, voor zover dit orgaan werkzaamheden uitoefent met betrekking tot een erkend specialistenregister. In afwijking van de eerste volzin is artikel 22 van de Kaderwet zelfstandige bestuursorganen niet van toepassing, voor zover het besluiten betreft ter zake van de inschrijving.   
 12.  In de Staatscourant wordt mededeling gedaan van: 
 
 a. de besluiten van Onze Minister krachtens het eerste, vierde, achtste en negende lid;  
@@ -288,7 +288,7 @@ Om in het desbetreffende register als arts te kunnen worden ingeschreven, wordt 
 ### Artikel  19  
 
 1.  Tot het gebied van deskundigheid van de arts wordt gerekend het verrichten van handelingen op het gebied van de geneeskunst.   
-2.  In de gevallen waarin een huisarts dan wel een arts die in die hoedanigheid in dienst is van het Ministerie van Defensie, op grond van de [Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) bevoegd is geneesmiddelen ter hand te stellen, behoort het ter hand stellen mede tot het gebied van zijn deskundigheid.   
+2.  In de gevallen waarin een huisarts dan wel een arts die in die hoedanigheid in dienst is van het Ministerie van Defensie, op grond van de Geneesmiddelenwet bevoegd is geneesmiddelen ter hand te stellen, behoort het ter hand stellen mede tot het gebied van zijn deskundigheid.   
 
 ### §  2  
 
@@ -312,7 +312,7 @@ Om in het desbetreffende register als apotheker te kunnen worden ingeschreven, w
 
 ### Artikel  23  
 
-Tot het gebied van deskundigheid van de apotheker worden gerekend het bereiden van geneesmiddelen, het bewaren van geneesmiddelen onder de daarvoor volgens de stand van de wetenschap geschikte omstandigheden, het ter hand stellen, bedoeld in [artikel 1, eerste lid, onder ll, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), het geven van advies aan de patiënten aan wie geneesmiddelen ter hand worden gesteld over het gebruik daarvan, het bewaken van het gebruik van de aan patiënten ter hand gestelde geneesmiddelen.  
+Tot het gebied van deskundigheid van de apotheker worden gerekend het bereiden van geneesmiddelen, het bewaren van geneesmiddelen onder de daarvoor volgens de stand van de wetenschap geschikte omstandigheden, het ter hand stellen, bedoeld in artikel 1, eerste lid, onder ll, van de Geneesmiddelenwet, het geven van advies aan de patiënten aan wie geneesmiddelen ter hand worden gesteld over het gebruik daarvan, het bewaken van het gebruik van de aan patiënten ter hand gestelde geneesmiddelen.  
 
 ### §  4  
 
@@ -370,7 +370,7 @@ Tot het gebied van deskundigheid van de verloskundige wordt gerekend het verrich
 
 ### Artikel  32  
 
-Om in het desbetreffende register als verpleegkundige te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen dan wel voor zover het betreft het diploma van een beroepsopleiding als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voldoet aan de bij en krachtens die wet voor de afgifte van dat diploma gestelde vereisten.  
+Om in het desbetreffende register als verpleegkundige te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen dan wel voor zover het betreft het diploma van een beroepsopleiding als bedoeld in de Wet educatie en beroepsonderwijs, voldoet aan de bij en krachtens die wet voor de afgifte van dat diploma gestelde vereisten.  
 
 ### Artikel  33  
 
@@ -447,13 +447,13 @@ b. de tandartsen, doch dezen uitsluitend voor zover het betreft handelingen, in 
 
 a. de artsen,  
 
-b. de tandartsen,   doch uitsluitend voor zover zij voldoen aan de krachtens de [Kernenergiewet](../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) (*Stb.* 1963, 82) ter zake van het gebruiken van zodanige stoffen en toestellen gestelde eisen, alsmede, voor zover het betreft tandartsen, uitsluitend voor zover het betreft handelingen, in de aanhef van dit lid bedoeld, die overeenkomstig het bij hoofdstuk III bepaalde worden gerekend tot hun gebied van deskundigheid.   
+b. de tandartsen,   doch uitsluitend voor zover zij voldoen aan de krachtens de Kernenergiewet (*Stb.* 1963, 82) ter zake van het gebruiken van zodanige stoffen en toestellen gestelde eisen, alsmede, voor zover het betreft tandartsen, uitsluitend voor zover het betreft handelingen, in de aanhef van dit lid bedoeld, die overeenkomstig het bij hoofdstuk III bepaalde worden gerekend tot hun gebied van deskundigheid.   
 9.  Tot het verrichten van electieve cardioversie zijn bevoegd: de artsen.   
 10.  Tot het toepassen van defibrillatie zijn bevoegd: de artsen.   
 11.  Tot het toepassen van electroconvulsieve therapie zijn bevoegd: de artsen.   
 12.  Tot steenvergruizing voor geneeskundige doeleinden zijn bevoegd: de artsen.   
 13.  Tot het verrichten van handelingen ten aanzien van menselijke geslachtscellen en embryo's, gericht op het anders dan op natuurlijke wijze tot stand brengen van een zwangerschap, zijn bevoegd: de artsen.   
-14.  Tot het voorschrijven van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) zijn bevoegd: 
+14.  Tot het voorschrijven van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onder s, van de Geneesmiddelenwet zijn bevoegd: 
 
 a. de artsen;  
 
@@ -473,10 +473,10 @@ d. verpleegkundigen, die behoren tot een ter bevordering van een goede uitoefeni
 
 ### Artikel  36a  
 
-1.  Bij algemene maatregel van bestuur kan in afwijking van artikel 36 van deze wet en van [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) bij wijze van experiment worden bepaald, dat voor een termijn van maximaal vijf jaar een bij de maatregel omschreven categorie van beroepsbeoefenaren, die werkzaam is op het gebied van de individuele gezondheidszorg en die met goed gevolg een bij de maatregel aangewezen opleiding met betrekking tot de aan te wijzen voorbehouden handeling heeft afgerond, wordt aangewezen als zijnde bevoegd tot het verrichten van in die maatregel aangewezen handelingen.   
+1.  Bij algemene maatregel van bestuur kan in afwijking van artikel 36 van deze wet en van artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet bij wijze van experiment worden bepaald, dat voor een termijn van maximaal vijf jaar een bij de maatregel omschreven categorie van beroepsbeoefenaren, die werkzaam is op het gebied van de individuele gezondheidszorg en die met goed gevolg een bij de maatregel aangewezen opleiding met betrekking tot de aan te wijzen voorbehouden handeling heeft afgerond, wordt aangewezen als zijnde bevoegd tot het verrichten van in die maatregel aangewezen handelingen.   
 2.  Op de in de maatregel omschreven categorie van beroepsbeoefenaren is artikel 36, vijftiende lid, van overeenkomstige toepassing.   
 3.  Bij de maatregel kan aan de in het eerste lid omschreven categorie van beroepsbeoefenaren gedurende de in dat lid bedoelde periode het recht verleend worden een in de maatregel aan te geven titel te voeren. Gedurende deze periode is het aan anderen verboden deze titel of een daarop gelijkende benaming te voeren.   
-4.  Met een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) wordt voor de toepassing van dit artikel gelijkgesteld een document dat is opgesteld door een met naam en werkadres aangeduide beroepsbeoefenaar, die behoort tot de bij de maatregel omschreven categorie van beroepsbeoefenaren die op grond van de maatregel bevoegd is tot het voorschrijven van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onderdeel s, van de Geneesmiddelenwet, en waarin aan een persoon als bedoeld in [artikel 61, eerste lid, onderdeel a of b, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), een voorschrift wordt gegeven om een met zijn stofnaam of merknaam aangeduid geneesmiddel in de aangegeven hoeveelheid, sterkte en wijze van gebruik ter hand te stellen aan een te identificeren patiënt en dat is ondertekend door de desbetreffende beroepsbeoefenaar dan wel, zonder te zijn ondertekend met een zodanige code is beveiligd dat een daartoe bevoegde persoon of instantie de authenticiteit ervan kan vaststellen.   
+4.  Met een recept als bedoeld in artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet wordt voor de toepassing van dit artikel gelijkgesteld een document dat is opgesteld door een met naam en werkadres aangeduide beroepsbeoefenaar, die behoort tot de bij de maatregel omschreven categorie van beroepsbeoefenaren die op grond van de maatregel bevoegd is tot het voorschrijven van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onderdeel s, van de Geneesmiddelenwet, en waarin aan een persoon als bedoeld in artikel 61, eerste lid, onderdeel a of b, van de Geneesmiddelenwet, een voorschrift wordt gegeven om een met zijn stofnaam of merknaam aangeduid geneesmiddel in de aangegeven hoeveelheid, sterkte en wijze van gebruik ter hand te stellen aan een te identificeren patiënt en dat is ondertekend door de desbetreffende beroepsbeoefenaar dan wel, zonder te zijn ondertekend met een zodanige code is beveiligd dat een daartoe bevoegde persoon of instantie de authenticiteit ervan kan vaststellen.   
 5.  Artikel 47 is van overeenkomstige toepassing op de bij de maatregel omschreven categorie van beroepsbeoefenaren voor wat betreft het verrichten van de in het eerste lid bedoelde aangewezen handelingen, met dien verstande dat op deze beroepsbeoefenaren slechts de maatregelen bedoeld in artikel 48, eerste lid, onderdelen a tot en met c, van toepassing zijn.   
 6.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 7.  Indien voor het verstrijken van de in het eerste lid bedoelde termijn een voorstel van wet tot wijziging van artikel 36 in de zin van de in het eerste lid bedoelde algemene maatregel van bestuur wordt ingediend bij de Tweede Kamer der Staten-Generaal, wordt de in het eerste lid bedoelde termijn verlengd, met een maximum van vijf jaren en vervalt op 
@@ -516,18 +516,25 @@ c. categorieën van personen, behorende tot de onder *a* of *b* bedoelde categor
 
 ### Artikel  40  
 
-1.  Degene die in een register als bedoeld in artikel 3 staat ingeschreven of die een beroep uitoefent waarvan de opleiding krachtens artikel 34, eerste lid, is geregeld of aangewezen, en die zijn beroep uitoefent anders dan in het kader van een instelling als bedoeld in de [Kwaliteitswet zorginstellingen](../../../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md), organiseert zijn beroepsuitoefening op zodanige wijze en voorziet zich zodanig van materieel, dat een en ander leidt of redelijkerwijze moet leiden tot verantwoorde zorg.   
+1.  Degene die in een register als bedoeld in artikel 3 staat ingeschreven of die een beroep uitoefent waarvan de opleiding krachtens artikel 34, eerste lid, is geregeld of aangewezen, en die zijn beroep uitoefent anders dan in het kader van een instelling als bedoeld in de Kwaliteitswet zorginstellingen, organiseert zijn beroepsuitoefening op zodanige wijze en voorziet zich zodanig van materieel, dat een en ander leidt of redelijkerwijze moet leiden tot verantwoorde zorg.   
 2.  Het uitvoeren van het eerste lid omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg.   
 3.  Bij algemene maatregel van bestuur kunnen, indien het niveau van de uitoefening van de individuele gezondheidszorg dit vereist, regels worden gesteld met betrekking tot de uitvoering van het eerste en tweede lid.   
 4.  Bij algemene maatregel van bestuur kunnen voorts, indien zulks noodzakelijk is gebleken ter bevordering van een goede uitoefening van individuele gezondheidszorg, voor degenen die in een register als bedoeld in artikel 3 staan ingeschreven of die een beroep uitoefenen waarvan de opleiding krachtens artikel 34, eerste lid, is geregeld of aangewezen, regels worden gesteld inhoudende: 
 
 a. een verplichting in bij de maatregel aangegeven gevallen van een door hen gegeven behandeling aan een bij de maatregel aangewezen inspecteur van de volksgezondheid opgave te doen overeenkomstig regels, bij de maatregel gesteld;  
 
-b. een verplichting om bij de maatregel aangegeven gegevens te vermelden op het recept, bedoeld in [artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+b. een verplichting om bij de maatregel aangegeven gegevens te vermelden op het recept, bedoeld in artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet;  
 
 c. een verbod om een overeenkomst die hun bijzondere voordelen verschaft, aan te gaan met bij de maatregel aangewezen categorieën van personen;  
 
 d. eisen met betrekking tot de rechten van personen aan wie gezondheidszorg wordt verleend.     
+
+### Artikel  40a  
+
+1.  Degene die in een register als bedoeld in artikel 3 staat ingeschreven of die een beroep uitoefent waarvan de opleiding krachtens artikel 34, eerste lid, is geregeld of aangewezen en die zijn beroep uitoefent anders dan in het kader van een instelling als bedoeld in de Kwaliteitswet zorginstellingen, hanteert in voorkomende gevallen een meldcode waarin stapsgewijs wordt aangegeven hoe hij met signalen van huiselijk geweld of kindermishandeling omgaat en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+4.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Hoofdstuk  VI  
 
@@ -545,7 +552,7 @@ a. indien hij in het buitenland een door Onze Minister aangewezen getuigschrift 
 
 b. indien Onze Minister, gelet op een door de betrokkene in het buitenland verkregen getuigschrift en op de daarnaast opgedane beroepservaring en gevolgde opleiding, hem op aanvrage een verklaring heeft afgegeven, inhoudende dat tegen zijn inschrijving in het register voor wat zijn vakbekwaamheid betreft geen bedenkingen bestaan;  
 
-c. indien hij ten aanzien van het betrokken beroep in het bezit is van een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+c. indien hij ten aanzien van het betrokken beroep in het bezit is van een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties.     
 2.  Onze Minister kan ten aanzien van een door hem krachtens het eerste lid, onder *a*, aangewezen getuigschrift de toepasselijkheid van deze bepaling op belanghebbenden afhankelijk stellen van de nationaliteit der betrokkenen, met dien verstande evenwel dat die bepaling ten aanzien van een aangewezen getuigschrift van een lid-Staat der Europese Economische Gemeenschap alsmede van een andere overeenkomstsluitende staat in elk geval van toepassing dient te zijn op de onderdanen van de lid-Staten van die gemeenschap.   
 3.  Bij afgifte van een verklaring als bedoeld in het eerste lid, onder *b*, kan Onze Minister daarin bepalen: 
 
@@ -553,8 +560,8 @@ a. dat de gelet op die verklaring tot stand gekomen inschrijving in het register
 
 b. dat de betrokkene, in het register ingeschreven staande, zijn beroep slechts zal mogen uitoefenen met inachtneming van in de verklaring omschreven beperkingen.     
 4.  Behoudens in bijzondere gevallen kan een verklaring zonder toepassing van het derde lid slechts worden afgegeven, indien het door de betrokkene in het buitenland verkregen getuigschrift naar het oordeel van Onze Minister kan gelden als bewijs van verworven vakbekwaamheid die de in het eerste lid, onder *a*, bedoelde gelijkwaardigheid bezit.   
-5.  Onze Minister stelt voor elk daarvoor in aanmerking komend beroep een commissie van deskundigen in, die tot taak heeft hem op zijn verzoek of uit eigen beweging van advies te dienen inzake de toepassing van dit artikel en ten aanzien van het verlenen van een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md). Bij algemene maatregel van bestuur worden de samenstelling, taak en werkwijze van de commissie geregeld. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het afleggen van een kennis- en vaardighedentoets en het daarvoor in rekening te brengen tarief.   
-6.  De buitenslands gediplomeerde komt de keuze, bedoeld in [artikel 11, vierde lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) niet toe in de bij ministeriële regeling aangewezen gevallen.   
+5.  Onze Minister stelt voor elk daarvoor in aanmerking komend beroep een commissie van deskundigen in, die tot taak heeft hem op zijn verzoek of uit eigen beweging van advies te dienen inzake de toepassing van dit artikel en ten aanzien van het verlenen van een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties. Bij algemene maatregel van bestuur worden de samenstelling, taak en werkwijze van de commissie geregeld. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het afleggen van een kennis- en vaardighedentoets en het daarvoor in rekening te brengen tarief.   
+6.  De buitenslands gediplomeerde komt de keuze, bedoeld in artikel 11, vierde lid, van de Algemene wet erkenning EG-beroepskwalificaties niet toe in de bij ministeriële regeling aangewezen gevallen.   
 7.  Van een besluit krachtens het eerste lid, onder *a*, of het tweede lid, wordt mededeling gedaan in de *Staatscourant*.   
 
 ### Artikel  42  
@@ -609,7 +616,7 @@ a. die in het buitenland een door Onze Minister aangewezen getuigschrift hebben 
 
 b. aan wie Onze Minister, gelet op een door de betrokkene in het buitenland verkregen getuigschrift en op de daarnaast opgedane beroepservaring en gevolgde opleiding, op aanvrage een verklaring heeft afgegeven, inhoudende dat hun vakbekwaamheid gelijkwaardig of nagenoeg gelijkwaardig kan worden geacht aan de vakbekwaamheid welke uit het voldoen aan de desbetreffende krachtens artikel 34, eerste lid, gestelde eisen mag worden afgeleid, of,  
 
-c. aan wie Onze Minister ten aanzien van het betrokken beroep een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) heeft verleend,   blijft het in artikel 34, vierde lid, gestelde verbod, voor zover het de titel betreft waarvan het voeren op grond van het derde lid van dat artikel voorbehouden is aan degenen die voldoen aan de desbetreffende krachtens artikel 34, eerste lid, gestelde eisen, buiten toepassing.   
+c. aan wie Onze Minister ten aanzien van het betrokken beroep een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties heeft verleend,   blijft het in artikel 34, vierde lid, gestelde verbod, voor zover het de titel betreft waarvan het voeren op grond van het derde lid van dat artikel voorbehouden is aan degenen die voldoen aan de desbetreffende krachtens artikel 34, eerste lid, gestelde eisen, buiten toepassing.   
 2.  Het eerste lid is niet van toepassing voor zover ten aanzien van de betrokkene een maatregel, berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing, van kracht is, op grond waarvan hij zijn rechten ter zake van de uitoefening van het betrokken beroep in het land waar de beslissing gegeven is, geheel of gedeeltelijk, tijdelijk of blijvend, heeft verloren.   
 3.  De artikelen 41, tweede, vijfde en zevende lid, en artikel 42, eerste lid, onder a, zijn van overeenkomstige toepassing.   
 4.  Voor de toepassing van artikel 96, derde lid, wordt met degene die voldoet aan de krachtens artikel 34, eerste lid, gestelde eisen gelijkgesteld degene die in het bezit is van een krachtens het eerste lid, onder a, aangewezen getuigschrift of aan wie een verklaring als bedoeld in het eerste lid, onder b, is afgegeven.   
@@ -680,11 +687,11 @@ f. doorhaling van de inschrijving in het register.
 1.  Degene aan wie een boete als bedoeld in artikel 48, eerste lid, onder c, is opgelegd, wordt door een door Onze Minister aan te wijzen ambtenaar bij gedagtekende brief uitgenodigd de verschuldigde geldboete binnen de gestelde termijn dan wel met inachtneming van de gestelde termijnen te betalen.   
 2.  Indien de schuldenaar niet binnen de gestelde termijn betaalt, maant de ambtenaar hem schriftelijk aan om alsnog binnen tien dagen na dagtekening van de aanmaning te betalen.   
 3.  Indien de schuldenaar na de aanmaning in gebreke blijft, kan de invordering van de verschuldigde geldboete en de aanmaningskosten geschieden bij een door de ambtenaar uit te vaardigen dwangbevel.   
-4.  De betekening en de tenuitvoerlegging van een dwangbevel geschieden door de zorg van de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en door de belastingdeurwaarder, bedoeld in [artikel 2, eerste lid, onder j, van die wet](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) met toepassing van de [artikelen 13](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [14 van die wet](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
-5.  Zolang de ontvanger met de zorg voor de invordering is belast, kan hij een vordering doen op grond van [artikel 19 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede verrekenen op grond van artikel 24 van die wet.   
+4.  De betekening en de tenuitvoerlegging van een dwangbevel geschieden door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990 en door de belastingdeurwaarder, bedoeld in artikel 2, eerste lid, onder j, van die wet met toepassing van de artikelen 13 en 14 van die wet.   
+5.  Zolang de ontvanger met de zorg voor de invordering is belast, kan hij een vordering doen op grond van artikel 19 van de Invorderingswet 1990 alsmede verrekenen op grond van artikel 24 van die wet.   
 6.  De ontvanger kan zolang hij met de zorg voor de invordering is belast onder door hem te stellen voorwaarden aan een schuldenaar voor een bepaalde tijd schriftelijk uitstel van betaling verlenen. Gedurende het uitstel wordt de dwanginvordering geschorst. Het uitstel kan tussentijds schriftelijk worden beëindigd.   
-7.  Met betrekking tot het verzet tegen de tenuitvoerlegging van een dwangbevel is [artikel 17 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van overeenkomstige toepassing met dien verstande dat in dat artikel voor "de ontvanger die het dwangbevel heeft uitgevaardigd" telkens moet worden gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.   
-8.  De kosten van aanmaning en van verdere vervolging worden berekend op de voet van de [Kostenwet invordering rijksbelastingen](../../../../../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) (*Stb.* 1969, 83). De [artikelen 6 en 7 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) zijn van overeenkomstige toepassing.   
+7.  Met betrekking tot het verzet tegen de tenuitvoerlegging van een dwangbevel is artikel 17 van de Invorderingswet 1990 van overeenkomstige toepassing met dien verstande dat in dat artikel voor "de ontvanger die het dwangbevel heeft uitgevaardigd" telkens moet worden gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.   
+8.  De kosten van aanmaning en van verdere vervolging worden berekend op de voet van de Kostenwet invordering rijksbelastingen (*Stb.* 1969, 83). De artikelen 6 en 7 van de Invorderingswet 1990 zijn van overeenkomstige toepassing.   
 
 ### Artikel  50  
 
@@ -719,8 +726,8 @@ Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarb
 
 1.  Een regionaal tuchtcollege telt twee rechtsgeleerde leden van wie één tevens voorzitter is, alsmede, voor elk van de in artikel 47, tweede lid, aangegeven categorieën van aan tuchtrechtspraak onderworpen personen, drie leden-beroepsgenoten. Van het college maken mede deel uit plaatsvervangende rechtsgeleerde leden, benevens voor elk van de in de eerste volzin bedoelde categorieën, plaatsvervangende leden-beroepsgenoten.   
 2.  Aan de behandeling van een zaak wordt deelgenomen door de voorzitter, door het andere rechtsgeleerde lid en door de drie leden-beroepsgenoten, benoemd voor de categorie waartoe degene over wie is geklaagd, behoort, een en ander met de mogelijkheid van plaatsvervanging. In afwijking van het bepaalde in de eerste volzin kan de voorzitter bepalen dat aan de behandeling van een zaak die hem daartoe geschikt voorkomt, wordt deelgenomen door de voorzitter en door twee leden-beroepsgenoten, benoemd voor de categorie waartoe degene over wie is geklaagd, behoort, een en ander met de mogelijkheid van plaatsvervanging. Indien de zaak naar het oordeel van een van deze leden ongeschikt is voor behandeling overeenkomstig het bepaalde in de tweede volzin, wordt de behandeling voortgezet met toepassing van de eerste volzin.   
-3.  De voorzitter en zijn plaatsvervanger of zijn plaatsvervangers worden bij koninklijk besluit op voordracht van Onze Ministers voor het leven benoemd. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. [Artikel 48, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is te hunnen aanzien van overeenkomstige toepassing.   
-4.  De overige leden en plaatsvervangende leden worden bij koninklijk besluit op voordracht van Onze Minister voor de tijd van zes jaar benoemd. Zij zijn herbenoembaar. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. [Artikel 48, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is ten aanzien van de in de eerste volzin bedoelde personen, voor zover zij rechtsgeleerden zijn, van overeenkomstige toepassing. De leden-beroepsgenoten en de plaatsvervangende leden-beroepsgenoten worden benoemd uit personen die ingeschreven staan in het desbetreffende register.   
+3.  De voorzitter en zijn plaatsvervanger of zijn plaatsvervangers worden bij koninklijk besluit op voordracht van Onze Ministers voor het leven benoemd. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. Artikel 48, eerste lid, van de Wet op de rechterlijke organisatie is te hunnen aanzien van overeenkomstige toepassing.   
+4.  De overige leden en plaatsvervangende leden worden bij koninklijk besluit op voordracht van Onze Minister voor de tijd van zes jaar benoemd. Zij zijn herbenoembaar. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. Artikel 48, eerste lid, van de Wet op de rechterlijke organisatie is ten aanzien van de in de eerste volzin bedoelde personen, voor zover zij rechtsgeleerden zijn, van overeenkomstige toepassing. De leden-beroepsgenoten en de plaatsvervangende leden-beroepsgenoten worden benoemd uit personen die ingeschreven staan in het desbetreffende register.   
 5.  Het college heeft een secretaris en één of meer plaatsvervangende secretarissen, allen rechtsgeleerden. Zij worden bij koninklijk besluit op voordracht van Onze Ministers benoemd, geschorst en ontslagen.   
 
 ### Artikel  56  
@@ -734,7 +741,7 @@ Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarb
 
 1.  De voorzitter van een tuchtcollege kan ten aanzien van twee of meer met elkaar samenhangende zaken bepalen dat zij door het college ter terechtzitting gezamenlijk worden behandeld.   
 2.  Ingeval in deze zaken degenen over wie is geklaagd, tot verschillende in artikel 47, tweede lid, aangegeven categorieën behoren, wordt aan het onderzoek ter terechtzitting door het ingevolge artikel 55, tweede lid, onderscheidenlijk artikel 56, tweede lid, vereiste aantal leden-beroepsgenoten of plaatsvervangende leden-beroepsgenoten van elk van de betrokken categorieën deelgenomen.   
-3.  Ingeval is geklaagd over een arts ter zake van verrichtingen op het gebied van de uitoefening der artsenijbereidkunst, wordt in het tuchtcollege ten minste één der plaatsen, bij artikel 55, tweede lid, onderscheidenlijk artikel 56, tweede lid, toegewezen aan leden-beroepsgenoten, vervuld door een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot, die op grond van [artikel 61, tiende of elfde lid, van de Geneesmiddelenwet](../../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) mede bevoegd is geneesmiddelen ter hand te stellen.   
+3.  Ingeval is geklaagd over een arts ter zake van verrichtingen op het gebied van de uitoefening der artsenijbereidkunst, wordt in het tuchtcollege ten minste één der plaatsen, bij artikel 55, tweede lid, onderscheidenlijk artikel 56, tweede lid, toegewezen aan leden-beroepsgenoten, vervuld door een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot, die op grond van artikel 61, tiende of elfde lid, van de Geneesmiddelenwet mede bevoegd is geneesmiddelen ter hand te stellen.   
 
 ### Artikel  59  
 
@@ -744,11 +751,11 @@ Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarb
 
 ### Artikel  60  
 
-Het in de [artikelen 46c, tweede en derde lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), met uitzondering van het eerste lid, onderdeel c, [46j](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onderdelen a en c, en derde lid](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden van de regionale tuchtcolleges en van het centrale tuchtcollege, met dien verstande dat de in het [vijfde lid van artikel 46p](../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bedoelde mededeling te hunnen aanzien eveneens wordt gedaan aan Onze Minister. De [artikelen 13a](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden en plaatsvervangende leden, met dien verstande dat: 
+Het in de artikelen 46c, tweede en derde lid, 46d, tweede lid, 46f, 46i, met uitzondering van het eerste lid, onderdeel c, 46j, 46l, eerste lid, aanhef en onderdelen a en c, en derde lid, 46m, 46o en 46p van de Wet rechtspositie rechterlijke ambtenaren bepaalde is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden van de regionale tuchtcolleges en van het centrale tuchtcollege, met dien verstande dat de in het vijfde lid van artikel 46p bedoelde mededeling te hunnen aanzien eveneens wordt gedaan aan Onze Minister. De artikelen 13a, 13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid, en 13c tot en met 13g van de Wet op de rechterlijke organisatie zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden en plaatsvervangende leden, met dien verstande dat: 
 
 a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van het regionaal tuchtcollege onderscheidenlijk centrale tuchtcollege; en  
 
-b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.    
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in artikel 13a, te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.    
 
 ### Artikel  61  
 
@@ -761,7 +768,7 @@ De leden, plaatsvervangende leden, secretarissen en plaatsvervangende secretaris
 
 ### Artikel  63  
 
-Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft in dat college, kan zich verschonen en kan worden gewraakt, indien er te zijnen aanzien feiten of omstandigheden bestaan, waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden. De [artikelen 512 tot en met 524 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.  
+Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft in dat college, kan zich verschonen en kan worden gewraakt, indien er te zijnen aanzien feiten of omstandigheden bestaan, waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden. De artikelen 512 tot en met 524 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.  
 
 ### Artikel  64  
 
@@ -799,7 +806,7 @@ d. de hoofdinspecteur of de regionale inspecteur van het Staatstoezicht op de vo
 
 1.  Na verzending van het afschrift, bedoeld in artikel 65, zevende lid, gelast de voorzitter van het regionale tuchtcollege een vooronderzoek. De voorzitter draagt het vooronderzoek op aan een of meer leden of plaatsvervangende leden of aan de secretaris of plaatsvervangend secretaris van het regionale tuchtcollege.   
 2.  Het vooronderzoek kan zich mede uitstrekken tot andere dan in het klaagschrift vermelde feiten en omstandigheden. Degene die door de voorzitter op grond van het eerste lid is aangewezen om het vooronderzoek te verrichten stelt de klager en degene over wie is geklaagd, in de gelegenheid door hem te worden gehoord. Hij kan de betrokken hoofdinspecteur of regionale inspecteur, alsmede getuigen en deskundigen horen; ten aanzien van de getuigen en deskundigen is artikel 68 van overeenkomstige toepassing, met dien verstande dat de oproeping, het verzoek tot dagvaarding en het doen afleggen van de eed of belofte geschieden door degene die het vooronderzoek verricht.   
-3.  Bij de vervulling van de hem op grond van het eerste en het tweede lid toekomende taak is degene die het vooronderzoek verricht bevoegd, vergezeld van de door hem aangewezen personen, elke plaats te betreden teneinde een onderzoek te verrichten waarvan het uitvoeren ter betrokken plaatse door hem noodzakelijk wordt geoordeeld. Ingeval tijdens zodanig onderzoek de orde wordt verstoord of hem tegenstand wordt geboden, kan degene die het vooronderzoek verricht de hulp van de sterke arm inroepen. De voorzitter van het regionale tuchtcollege is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) te geven.   
+3.  Bij de vervulling van de hem op grond van het eerste en het tweede lid toekomende taak is degene die het vooronderzoek verricht bevoegd, vergezeld van de door hem aangewezen personen, elke plaats te betreden teneinde een onderzoek te verrichten waarvan het uitvoeren ter betrokken plaatse door hem noodzakelijk wordt geoordeeld. Ingeval tijdens zodanig onderzoek de orde wordt verstoord of hem tegenstand wordt geboden, kan degene die het vooronderzoek verricht de hulp van de sterke arm inroepen. De voorzitter van het regionale tuchtcollege is bevoegd een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden te geven.   
 4.  Indien tijdens het vooronderzoek blijkt dat de klacht afkomstig is van een tot klagen niet bevoegde, dat het klaagschrift niet voldoet aan de krachtens artikel 65, tweede lid, gestelde eisen, dat de klacht kennelijk ongegrond is of dat de klacht van onvoldoende gewicht is, kan het college op voorstel van degene die het vooronderzoek heeft verricht, zonder verder onderzoek, in raadkamer, een eindbeslissing geven, welke in het eerste en tweede geval tot het niet-ontvankelijk verklaren van klager en in het derde en vierde geval tot het afwijzen van de klacht strekt. De eindbeslissing is met redenen omkleed en wordt op schrift gesteld.   
 5.  Indien geen toepassing is gegeven aan het vierde lid, wordt het vooronderzoek gesloten met verwijzing naar een terechtzitting.   
 6.  Tijdens de behandeling van een zaak op de terechtzitting kan het regionale tuchtcollege degene die het vooronderzoek heeft verricht opdragen alsnog een aanvullend onderzoek in te stellen. Het tweede en derde lid zijn te dezen van overeenkomstige toepassing. Het aanvullend onderzoek wordt gesloten door de zaak wederom naar een terechtzitting te verwijzen.   
@@ -815,10 +822,10 @@ d. de hoofdinspecteur of de regionale inspecteur van het Staatstoezicht op de vo
 
 1.  Het regionale tuchtcollege kan getuigen en deskundigen ter terechtzitting oproepen en horen. Ieder die als getuige of deskundige is opgeroepen, is verplicht aan de oproeping gevolg te geven.   
 2.  De klager en degene over wie is geklaagd, kunnen getuigen en deskundigen ter terechtzitting uitnodigen of bij deurwaardersexploit oproepen; in geval van oproeping gelden voor hen dezelfde verplichtingen als voor getuigen en deskundigen, opgeroepen door het tuchtcollege.   
-3.  Verschijnt een getuige of een deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van het college hem dagvaarden, desverzocht met bevel tot medebrenging. [Artikel 556 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) (*Stb.* 1925, 343), de tweede volzin van het eerste lid en de tweede volzin van het vierde lid zijn van overeenkomstige toepassing.   
+3.  Verschijnt een getuige of een deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van het college hem dagvaarden, desverzocht met bevel tot medebrenging. Artikel 556 van het Wetboek van Strafvordering (*Stb.* 1925, 343), de tweede volzin van het eerste lid en de tweede volzin van het vierde lid zijn van overeenkomstige toepassing.   
 4.  De voorzitter van het college doet de getuigen de eed of belofte afleggen dat zij de gehele waarheid en niets dan de waarheid zullen zeggen. De getuigen en deskundigen zijn verplicht op de gestelde vragen te antwoorden, onderscheidenlijk de van hen gevorderde diensten te verlenen. De deskundigen zijn gehouden hun taak onpartijdig en naar beste weten te verrichten.   
-5.  Ten aanzien van de getuigen en deskundigen zijn de [artikelen 217 tot en met 219 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
-6.  De getuigen en deskundigen, opgeroepen door het tuchtcollege, ontvangen, desverkiezende op vertoon van hun oproeping of dagvaarding, uit ’s Rijks kas schadeloosstelling, door de voorzitter van het college te begroten overeenkomstig het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) (*Stb.* 1843, 41) bepaalde. De voorzitter begroot op overeenkomstige wijze de schadeloosstelling voor getuigen en deskundigen, opgeroepen of uitgenodigd ingevolge het tweede lid, welke ten laste komt van degene door wie zij zijn opgeroepen of uitgenodigd. Deurwaarders ontvangen voor de werkzaamheden verricht ingevolge het tweede lid, van hun opdrachtgever een vergoeding overeenkomstig de bepalingen van het tarief van justitie-kosten en salarissen in burgerlijke zaken.   
+5.  Ten aanzien van de getuigen en deskundigen zijn de artikelen 217 tot en met 219 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+6.  De getuigen en deskundigen, opgeroepen door het tuchtcollege, ontvangen, desverkiezende op vertoon van hun oproeping of dagvaarding, uit ’s Rijks kas schadeloosstelling, door de voorzitter van het college te begroten overeenkomstig het bij of krachtens de Wet griffierechten burgerlijke zaken (*Stb.* 1843, 41) bepaalde. De voorzitter begroot op overeenkomstige wijze de schadeloosstelling voor getuigen en deskundigen, opgeroepen of uitgenodigd ingevolge het tweede lid, welke ten laste komt van degene door wie zij zijn opgeroepen of uitgenodigd. Deurwaarders ontvangen voor de werkzaamheden verricht ingevolge het tweede lid, van hun opdrachtgever een vergoeding overeenkomstig de bepalingen van het tarief van justitie-kosten en salarissen in burgerlijke zaken.   
 
 ### Artikel  69  
 
@@ -912,7 +919,7 @@ De tuchtcolleges brengen jaarlijks vóór 1 april verslag uit omtrent hun werkza
 ### Artikel  79  
 
 1.  Er is een college van medisch toezicht, dat gevestigd is te 's-Gravenhage.   
-2.  Het college is bevoegd in gevallen waarin de in het derde lid bedoelde inspecteur een voordracht ter zake heeft gedaan, een voorziening te treffen, ertoe strekkende een persoon die in een register ingeschreven staat, uit dat register te doen verwijderen dan wel diens uitoefening van het betrokken beroep met bijzondere waarborgen te omkleden, indien hij wegens zijn geestelijke of lichamelijke gesteldheid of wegens zijn gewoonte van drankmisbruik of van misbruik van middelen, bedoeld in de [artikelen 2 en 3 van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) (*Stb.* 1976, 425), moet worden geacht de geschiktheid tot het uitoefenen dan wel tot het zonder zodanige waarborgen uitoefenen van dat beroep te missen.   
+2.  Het college is bevoegd in gevallen waarin de in het derde lid bedoelde inspecteur een voordracht ter zake heeft gedaan, een voorziening te treffen, ertoe strekkende een persoon die in een register ingeschreven staat, uit dat register te doen verwijderen dan wel diens uitoefening van het betrokken beroep met bijzondere waarborgen te omkleden, indien hij wegens zijn geestelijke of lichamelijke gesteldheid of wegens zijn gewoonte van drankmisbruik of van misbruik van middelen, bedoeld in de artikelen 2 en 3 van de Opiumwet (*Stb.* 1976, 425), moet worden geacht de geschiktheid tot het uitoefenen dan wel tot het zonder zodanige waarborgen uitoefenen van dat beroep te missen.   
 3.  Een voordracht, bedoeld in het tweede lid, wordt gedaan door de inspecteur van het hiertoe bij algemene maatregel van bestuur aangewezen onderdeel van het staatstoezicht op de volksgezondheid, die bevoegd is ter plaatse waar degene op wie de voordracht betrekking heeft, zijn beroep uitoefent. Bij algemene maatregel van bestuur kan tevens worden bepaald dat deze inspecteur in bij de maatregel omschreven gevallen tot het doen van een voordracht niet mag overgaan dan na overleg met een of meer andere inspecteurs van het Staatstoezicht op de volksgezondheid, bij de maatregel aangewezen.   
 
 ### Artikel  80  
@@ -991,17 +998,17 @@ Ten aanzien van het centrale tuchtcollege is met betrekking tot zaken die bij da
 
 ### Artikel  86  
 
-1.  Met het toezicht op de naleving van de krachtens deze wet geregelde opleidingen, alsmede de bij of krachtens artikel 40, eerste, derde en vierde lid, gestelde voorschriften en de in deze wet opgenomen strafbepalingen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van de krachtens deze wet geregelde opleidingen, alsmede de bij of krachtens artikel 40, eerste, derde en vierde lid, en artikel 40a gestelde voorschriften en de in deze wet opgenomen strafbepalingen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  87  
 
-1.  De met het toezicht belaste ambtenaren beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en van artikel 88 van deze wet, bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.   
+1.  De met het toezicht belaste ambtenaren beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
+2.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht en van artikel 88 van deze wet, bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.   
 
 ### Artikel  87a  
 
-Indien de in artikel 86 bedoelde personen van oordeel zijn dat artikel 40, eerste tot en met derde lid, niet of in onvoldoende of op onjuiste wijze wordt nageleefd, kunnen zij de desbetreffende beroepsbeoefenaar een schriftelijk bevel geven. De beroepsbeoefenaar is verplicht binnen de daarbij gestelde termijn aan het bevel te voldoen.  
+Indien de in artikel 86 bedoelde personen van oordeel zijn dat artikel 40, eerste tot en met derde lid, of artikel 40a niet of in onvoldoende of op onjuiste wijze wordt nageleefd, kunnen zij de desbetreffende beroepsbeoefenaar een schriftelijk bevel geven. De beroepsbeoefenaar is verplicht binnen de daarbij gestelde termijn aan het bevel te voldoen.  
 
 ### Artikel  88  
 
@@ -1054,11 +1061,11 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 1.  Indien tegen de verdachte van overtreding van artikel 96 ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, is de officier van justitie, zolang de behandeling ter terechtzitting nog niet is aangevangen, bevoegd, gehoord de Inspectie voor de Gezondheidszorg, de verdachte bij aan deze te betekenen kennisgeving als voorlopige maatregel te bevelen zich van bepaalde handelingen te onthouden.   
 2.  De verdachte kan tegen het bevel binnen veertien dagen na de betekening in beroep komen bij het gerecht waar de zaak wordt vervolgd of vervolgd zal worden. Het gerecht beslist zo spoedig mogelijk. De verdachte wordt gehoord, althans behoorlijk opgeroepen.   
-3.  Artikel 28, tweede en derde lid, en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) zijn van overeenkomstige toepassing.   
+3.  Artikel 28, tweede en derde lid, en de artikelen 30 tot en met 32 van de Wet op de economische delicten zijn van overeenkomstige toepassing.   
 
 ### Artikel  96b  
 
-Indien tegen de verdachte van overtreding van artikel 96 ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, kan het met de behandeling van de zaak belaste gerecht voor de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, op de voordracht van de rechter-commissaris, met onderzoek in de zaak belast, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, de verdachte, gehoord de Inspectie voor de Gezondheidszorg, als voorlopige maatregel bevelen zich van bepaalde handelingen te onthouden. Artikel 29, tweede en derde lid, en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) zijn van overeenkomstige toepassing.  
+Indien tegen de verdachte van overtreding van artikel 96 ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, kan het met de behandeling van de zaak belaste gerecht voor de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, op de voordracht van de rechter-commissaris, met onderzoek in de zaak belast, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, de verdachte, gehoord de Inspectie voor de Gezondheidszorg, als voorlopige maatregel bevelen zich van bepaalde handelingen te onthouden. Artikel 29, tweede en derde lid, en de artikelen 30 tot en met 32 van de Wet op de economische delicten zijn van overeenkomstige toepassing.  
 
 ### Artikel  97  
 
@@ -1215,7 +1222,8 @@ Voor de toepassing van de artikelen 34, vierde lid, en 96 worden met degenen die
 
 In de algemene maatregel van bestuur, bedoeld in artikel 8, eerste lid, kan voor personen die hun getuigschrift hebben behaald vóór het tijdstip van inwerkingtreding van deze maatregel een van artikel 8, tweede lid, afwijkende aanvangsdatum worden vastgesteld vanaf welke de in de maatregel aangegeven periode begint te lopen.  
 
-### Artikel  112  
+### Artikel  112   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1227,7 +1235,8 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  115  
+### Artikel  115   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1239,7 +1248,8 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  118  
+### Artikel  118   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1247,11 +1257,13 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  120  
+### Artikel  120   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  121  
+### Artikel  121   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1275,7 +1287,8 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  127  
+### Artikel  127   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1291,27 +1304,33 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  131  
+### Artikel  131   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  132  
+### Artikel  132   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  133  
+### Artikel  133   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  134  
+### Artikel  134   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  135  
+### Artikel  135   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  136  
+### Artikel  136   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1319,7 +1338,8 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  138  
+### Artikel  138   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
@@ -1327,15 +1347,18 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  140  
+### Artikel  140   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  141  
+### Artikel  141   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  142  
+### Artikel  142   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bevat wijzigingen in andere regelgeving.   
 

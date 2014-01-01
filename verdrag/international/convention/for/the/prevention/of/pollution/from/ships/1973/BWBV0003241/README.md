@@ -3554,7 +3554,7 @@ Category Y, Solidifying or High-Viscosity Substance k = 1.0   The table below is
 
 ### ANNEX  III  
 
-####Regulations for the prevention of pollution by harmful substances carried by sea in packaged form
+####REGULATIONS FOR THE PREVENTION OF POLLUTION BY HARMFUL SUBSTANCES CARRIED BY SEA IN PACKAGED FORM
 
 ### Regulation  1  
 
@@ -3566,9 +3566,9 @@ Category Y, Solidifying or High-Viscosity Substance k = 1.0   The table below is
 
 .2. For the purposes of this Annex, “packaged form” is defined as the forms of containment specified for harmful substances in the IMDG Code.     
 2.  The carriage of harmful substances is prohibited, except in accordance with the provisions of this Annex.   
-3.  To supplement the provisions of this Annex, the Government of each Party to the Convention shal issue, or cause to be issued, detailed requirements on packing, marking, labelling, documentation, stowage, quantity limitations and exceptions for preventing or minimizing pollution of the marine environment by harmful substances. <sup> 1)  Refer to the IMDG Code adopted by the Organization by resolution MSC.122(75), as amended by the Maritime Safety Committee.  </sup>   
+3.  To supplement the provisions of this Annex, the Government of each Party to the Convention shall issue, or cause to be issued, detailed requirements on packing, marking, labelling, documentation, stowage, quantity limitations and exceptions for preventing or minimizing pollution of the marine environment by harmful substances. <sup> 1)  Refer to the IMDG Code adopted by the Organization by resolution MSC.122(75), as amended by the Maritime Safety Committee.  </sup>   
 4.  For the purposes of this Annex, empty packagings which have been used previously for the carriage of harmful substances shall themselves be treated as harmful substances unless adequate precautions have been taken to ensure that they contain no residue that is harmful to the marine environment.   
-5.  The requirements of this Annex do not apply to ship’s stores and equipment.   
+5.  The requirements of this Annex do not apply to ship's stores and equipment.   
 
 ### Regulation  2  
 
@@ -3580,20 +3580,16 @@ Packages shall be adequate to minimize the hazard to the marine environment, hav
 
 ####Marking and labelling
 
-1.  Packages containing a harmful substance shall be durably marked with the correct technical name (trade names alone shall not be used) and, further, shall be durably marked or labelled to indicate that the substance is a marine pollutant. Such identification shall be supplemented where possible by any other means, for example, by use of the relevant United Nations number.   
-2.  The method of marking the correct technical name and of affixing labels on packages containing a harmful substance shall be such that this information will still be identifiable on packages surviving at least three months’ immersion in the sea. In considering suitable marking and labelling, account shall be taken of the durability of the materials used and of the surface of the package.   
-3.  Packages containing small quantities of harmful substances may be exempted from the marking requirements. <sup> 2)  Refer to the specific exemptions provided for in the IMDG Code adopted by resolution MSC.122(75), as amended.  </sup>   
+1.  Packages containing a harmful substance shall be durably marked or labelled to indicate that the substance is a harmful substance in accordance with the relevant provisions of the IMDG Code.   
+2.  The method of affixing marks or labels on packages containing a harmful substance shall be in accordance with the relevant provisions of the IMDG Code.   
 
 ### Regulation  4  
 
 ####Documentation
 
-<sup> 3)  Reference to “documents” in this regulation does not preclude the use of electronic data processing (EDP) and electronic data interchange (EDI) transmission techniques as an aid to paper documentation.  </sup>   
-1.  In all documents relating to the carriage of harmful substances by sea where such substances are named, the correct technical name of each such substance shall be used (trade names alone shall not be used) and the substance further identified by the addition of the words “marine pollutant”.   
-2.  The shipping documents supplied by the shipper shall include, or be accompanied by, a signed certificate or declaration that the shipment offered for carriage is properly packaged and marked, labelled or placarded as appropriate and in proper condition for carriage to minimize the hazard to the marine environment.   
-3.  Each ship carrying harmful substances shall have a special list or manifest setting forth the harmful substances on board and the location thereof. A detailed stowage plan which sets out the location of the harmful substances on board may be used in place of such special list or manifest. Copies of such documents shall also be retained on shore by the owner of the ship or his representative until the harmful substances are unloaded. A copy of one of these documents shall be made available before departure to the person or organization designated by the port State authority.   
-4.  At any stopover, where any loading or unloading operations, even partial, are carried out, a revision of the documents listing the harmful substances taken on board, indicating their location on board or showing a detailed stowage plan, shall be made available before departure to the person or organization designated by the port State authority.   
-5.  When the ship carries a special list or manifest or a detailed stowage pla, required for the carriage of dangerous goods by the International Convention for the Safety of Life at Sea, 1974, as amended, the documents required by this regulation ma be combined wit those for dangerous goods. Where documents are combined, a clear distinction shall be made between dangerous goods and harmful substances covered by this Annex.   
+<sup> 2)  Reference to “documents” in this regulation does not preclude the use of electronic data processing (EDP) and electronic data interchange (EDI) transmission techniques as an aid to paper documentation.  </sup>   
+1.  Transport information relating to the carriage of harmful substances shall be in accordance with the relevant provisions of the IMDG Code and shall be made available to the person or organization designated by the port State authority.   
+2.  Each ship carrying harmful substances shall have a special list, manifest or stowage plan setting forth, in accordance with the relevant provisions of the IMDG Code, the harmful substances on board and the location thereof. A copy of one of these documents shall be made available before departure to the person or organization designated by the port State authority.   
 
 ### Regulation  5  
 
@@ -3618,43 +3614,69 @@ Certain harmful substances may, for sound scientific and technical reasons, need
 
 ####Port State control on operational requirements
 
-<sup> 4)  Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by A.882(21).  </sup>   
-1.  A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex, where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by harmful substances.   
-2.  In the circumstances given in paragraph 1 of this regulation, the Party shall take such steps as will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.   
+<sup> 3)  Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by resolution A.882(21).  </sup>   
+1.  A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex.   
+2.  Where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by harmful substances, the Party shall take such steps, including carrying out detailed inspection and, if required, will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.   
 3.  Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.   
 4.  Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention.   
 
-### Appendix  
+####Appendix to Annex III
 
-####Criteria for the identificaton of harmful substances in packaged form
+*Criteria for the identification of harmful substances in packaged form*   
 
-For the purposes of this Annex, substances identified by any one of the following criteria are harmful substances : <sup> 5)  The criteria are based on those developed by the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), as amended.   For definitions of acronyms or terms used in this appendix, refer to the relevant paragraphs of the IMDG Code.  </sup>  
+For the purposes of this Annex, substances identified by any one of the following criteria are harmful substances : <sup> 1)  The criteria are based on those developed by the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), as amended.   For definitions of acronyms or terms used in this appendix, refer to the relevant paragraphs of the IMDG Code.  </sup> 
 
-| --- | --- |
-|---|---|
-|  *Category: Acute 1*   | --- |
+a) Acute (short-term) aquatic hazard  
+
+|  *Category: Acute 1*   |
+|---|
 | --- | --- |
 | 96 hr LC <sub>50</sub> (for fish)  | ≤ 1 mg/l and/or  |
 | 48 hr EC <sub>50</sub> (for crustacea)  | ≤ 1 mg/l and/or  |
 | 72 or 96 hr ErC <sub>50</sub> (for algae or other aquatic plants)  | ≤ 1 mg/l  |
 
-| --- | --- |
-|---|---|
-|  *Category: Chronic 1*   | --- |
-| --- | --- |
-| 96 hr LC <sub>50</sub> (for fish)  | ≤ 1 mg/l and/or  |
-| 48 hr EC <sub>50</sub> (for crustacea)  | ≤ 1 mg/l and/or  |
-| 72 or 96 hr ErC <sub>50</sub> (for algae or other aquatic plants)  | ≤ 1 mg/l  |
-| and the substance is not rapidly degradable and/or the log K <sub>ow</sub> ≥ 4 (unless the experimentally determined BCF < 500).  |
+b) Long-term aquatic hazard 
 
-| --- | --- |
-|---|---|
-|  *Category: Chronic 2*   | --- |
-| --- | --- |
-| 96 hr LC <sub>50</sub> (for fish)  | > 1 to ≤ 10 mg/l and/or  |
-| 48 hr EC <sub>50</sub> (for crustacea)  | > 1 to ≤ 10 mg/l and/or  |
-| 72 or 96 hr ErC <sub>50</sub> (for algae or other aquatic plants)  | > 1 to ≤ 10 mg/l  |
-| and the substance is not rapidly degradable and/or the lof K <sub>ow</sub> ≥ 4 (unless the experimentally determined BCF < 500), unless the chronic toxicity NOECs are > 1 mg/l.  |
+(i) Non-rapidly degradable substances for which there are adequate chronic toxicity data available  
+
+| --- | --- | --- |
+|---|---|---|
+|  *Category Chronic 1:*   | --- |
+| --- | Chronic NOEC or ECx (for fish)  | ≤ 0.1 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for crustacea)  | ≤ 0.1 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for algae or other aquatic plants)  | ≤ 0.1 mg/l  |
+|  *Category Chronic 2:*   | --- |
+| --- | Chronic NOEC or ECx (for fish)  | ≤ 1 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for crustacea)  | ≤ 1 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for algae or other aquatic plants)  | ≤ 1 mg/l  |
+
+(ii) Rapidly degradable substances for which there are adequate chronic toxicity data available  
+
+|  *Category Chronic 1:*   |
+|---|
+| --- | Chronic NOEC or ECx (for fish)  | ≤ 0.01 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for crustacea)  | ≤ 0.01 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for algae or other aquatic plants)  | ≤ 0.01 mg/l  |
+|  *Category Chronic 2:*   |
+| --- | Chronic NOEC or ECx (for fish)  | ≤ 0.1 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for crustacea)  | ≤ 0.1 mg/l and/or  |
+| --- | Chronic NOEC or ECx (for algae or other aquatic plants)  | ≤ 0.1 mg/l  |
+
+(iii) Substances for which adequate chronic toxicity data are not available  
+
+|  *Category Chronic 1:*   |
+|---|
+| --- | 96 hr LC <sub>50</sub> (for fish)  | ≤ 1 mg/l and/or  |
+| --- | 48 hr EC <sub>50</sub> (for crustacea)  | ≤ 1 mg/l and/or  |
+| --- | 72 or 96 hr ErC <sub>50</sub> (for algae or other aquatic plants)  | ≤ 1 mg/l  |
+| --- | and the substance is not rapidly degradable and/or the experimentally determined BCF is ≥ 500 (or, if absent the log K <sub>ow</sub> ≥ 4).  |
+|  *Category Chronic 2:*   |
+| --- | 96 hr LC50 (for fish)  | >1 mg/l but ≤ 10 mg/l and/or  |
+| --- | 48 hr EC50 (for crustacea)  | >1 mg/l but ≤ 10 mg/l and/or  |
+| --- | 72 or 96 hr ErC50 (for algae or other aquatic plants)  | >1 mg/l but ≤ 10 mg/l  |
+| --- | and the substance is not rapidly degradable and/or the experimentally determined BCF is ≥ 500 (or, if absent, the log K <sub>ow</sub> ≥ 4).  |
+
+Additional guidance on the classification process for substances and mixtures is included in the IMDG Code.   
 
 ### Annex  IV  
 
@@ -9923,7 +9945,7 @@ Categorie Y, stollende of hoogvisceuze stof k = 1,0   De onderstaande tabel is b
 
 ### BIJLAGE  III  
 
-####Voorschriften ter voorkoming van verontreiniging door stoffen die over zee worden vervoerd in verpakte vorm
+####VOORSCHRIFTEN TER VOORKOMING VAN VERONTREINIGING DOOR STOFFEN DIE OP ZEE WORDEN VERVOERD IN VERPAKTE VORM
 
 ### Voorschrift  1  
 
@@ -9931,11 +9953,11 @@ Categorie Y, stollende of hoogvisceuze stof k = 1,0   De onderstaande tabel is b
 
 1.  Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm. 
 
-.1. Voor de toepassing van deze Bijlage wordt onder „schadelijke stoffen” verstaan de stoffen die als mariene-milieuverontreinigende stoffen zijn aangemerkt in de Internationale Maritieme Code voor Gevaarlijke Stoffen (IMDG-Code) of die voldoen aan de criteria van het Aanhangsel bij deze Bijlage. <sup> 1)  Verwezen wordt naar de Internationale Code voor Gevaarlijke Stoffen (IMDG-Code) door de Organisatie aangenomen bij resolutie MSC.122(75), zoals gewijzigd door de Maritieme Veiligheidscommissie.  </sup>  
+.1 Voor de toepassing van deze Bijlage wordt onder „schadelijke stoffen” verstaan de stoffen die als mariene-milieuverontreinigende stoffen zijn aangemerkt in de Internationale Maritieme Code voor Gevaarlijke Stoffen (IMDG-Code) of die voldoen aan de criteria van het Aanhangsel bij deze Bijlage. <sup> 1)  Verwezen wordt naar de door de Organisatie bij resolutie MSC.122(75) aangenomen IMDG-Code, zoals gewijzigd door de Maritieme Veiligheidscommissie.  </sup>  
 
-.2. Voor de toepassing van deze Bijlage wordt onder „verpakte vorm” verstaan de in de IMDG-Code voor schadelijke stoffen voorgeschreven vormen van omhulling.     
+.2 Voor de toepassing van deze Bijlage wordt onder „verpakte vorm” verstaan de in de IMDG-Code voorgeschreven vormen van omhulling voor schadelijke stoffen.     
 2.  Het vervoer van schadelijke stoffen is verboden, tenzij dit geschiedt in overeenstemming met de bepalingen van deze Bijlage.   
-3.  De Regering van elke Partij bij het Verdrag zal ter aanvulling van de bepalingen van deze Bijlage gedetailleerde voorschriften uitvaardigen, of doen uitvaardigen, met betrekking tot de wijze van verpakking, het merken en etiketteren, de begeleidende papieren, de stuwage, de beperkingen van hoeveelheden, en uitzonderingen, zulks teneinde verontreiniging van het mariene milieu door schadelijke stoffen te voorkomen of te beperken. <sup> 1)  Verwezen wordt naar de Internationale Code voor Gevaarlijke Stoffen (IMDG-Code) door de Organisatie aangenomen bij resolutie MSC.122(75), zoals gewijzigd door de Maritieme Veiligheidscommissie.  </sup>   
+3.  De regering van elke partij bij het Verdrag zal ter aanvulling van de bepalingen van deze Bijlage gedetailleerde voorschriften uitvaardigen, of doen uitvaardigen, met betrekking tot de wijze van verpakking, het merken en etiketteren, de begeleidende papieren, de stuwage, de beperkingen van hoeveelheden, en uitzonderingen, zulks teneinde verontreiniging van het mariene milieu door schadelijke stoffen te voorkomen of te beperken. <sup> 1)  Verwezen wordt naar de door de Organisatie bij resolutie MSC.122(75) aangenomen IMDG-Code, zoals gewijzigd door de Maritieme Veiligheidscommissie.  </sup>   
 4.  Voor de toepassing van deze Bijlage worden lege verpakkingen die eerder zijn gebruikt voor het vervoer van schadelijke stoffen, zelf als schadelijke stoffen behandeld, tenzij toereikende voorzorgen zijn getroffen teneinde te verzekeren dat zij geen restant bevatten dat schadelijk is voor het mariene milieu.   
 5.  De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.   
 
@@ -9949,81 +9971,100 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 ####Merken en etiketteren
 
-1.  Verpakkingen die een schadelijke stof bevatten, dienen duurzaam te zijn gemerkt met de juiste technische benaming (handelsnamen alleen mogen niet worden gebruikt) en dienen voorts duurzaam te zijn gemerkt of geëtiketteerd om aan te geven dat de stof een mariene-milieuverontreinigende stof is. Een dergelijke aanduiding dient waar mogelijk te worden aangevuld met andere gegevens, bijvoorbeeld door vermelding van het desbetreffende nummer van de Verenigde Naties.   
-2.  De wijze van merken met de juiste technische benaming en van aanbrengen van etiketten op verpakkingen die een schadelijke stof bevatten, dient zodanig te zijn dat deze gegevens nog steeds leesbaar zijn op verpakkingen na een verblijf van ten minste drie maanden in zee. Bij de overweging van passende wijzen van merken en etiketteren dient rekening te worden gehouden met de duurzaamheid van de gebruikte materialen en de aard van de buitenzijde van de verpakking.   
-3.  Verpakkingen die kleine hoeveelheden schadelijke stoffen bevatten, kunnen van de vereisten inzake merken worden vrijgesteld. <sup> 2)  Verwezen wordt naar de specifieke vrijstellingen voorzien in de IMDG-Code aangenomen bij resolutie MSC.122 (75), zoals gewijzigd.  </sup>   
+1.  Verpakkingen die een schadelijke stof bevatten dienen duurzaam te zijn gemerkt of geëtiketteerd teneinde in overeenstemming met de relevante bepalingen van de IMDG-Code aan te geven dat de stof een schadelijke stof is.   
+2.  De wijze van merken of het aanbrengen van etiketten op verpakkingen die een schadelijke stof bevatten dient te voldoen aan de relevante bepalingen van de IMDG-Code.   
 
 ### Voorschrift  4  
 
 ####Begeleidende papieren
 
-<sup> 3)  De verwijzing naar „begeleidende papieren” in dit voorschrift staan het gebruik van technieken voor de elektronische verwerking van gegevens (EDP) en de elektronische onderlinge uitwisseling van gegevens (EDI) als hulpmiddel bij papieren documenten niet in de weg.  </sup>   
-1.  In alle documenten die betrekking hebben op het vervoer over zee van schadelijke stoffen, waarin dergelijke stoffen met een naam worden aangeduid, dient de juiste technische benaming van elke stof te worden gebruikt (handelsnamen alleen mogen niet worden gebruikt) en dient de stof voorts te worden geïdentificeerd door toevoeging van de woorden „marine pollutant”.   
-2.  De door de verlader verstrekte vervoersdocumenten dienen een ondertekend certificaat of ondertekende verklaring te omvatten, of daardoor te worden begeleid, waarin staat dat de voor vervoer aangeboden zending op de juiste wijze is verpakt, gemerkt en geëtiketteerd en in een voor vervoer geschikte staat verkeert, om het gevaar voor het mariene milieu tot een minimum te beperken.   
-3.  Elk schip dat schadelijke stoffen vervoert, dient over een bijzondere lijst of bijzonder manifest te beschikken dat de aan boord zijnde schadelijke stoffen en de plaats daarvan aangeeft. In plaats van een dergelijke lijst of dergelijk manifest mag een gedetailleerd stuwplan, met opgave van de plaats aan boord van alle schadelijke stoffen, worden gebruikt. Tevens dienen afschriften van dergelijke documenten aan land te worden gehouden door de eigenaar van het schip of zijn vertegenwoordiger totdat de schadelijke stoffen zijn gelost. Voor vertrek moet een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie beschikbaar worden gesteld.   
-4.  Bij elke tussenstop, wanneer er geladen of gelost wordt, ook indien het een gedeelte van de lading betreft, dienen de bijgewerkte documenten van de schadelijke stoffen die aan boord zijn genomen, met opgave van de plaats aan boord of een gedetailleerd stuwplan, voor vertrek aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie beschikbaar te worden gesteld.   
-5.  Wanneer een schip beschikt over een bijzondere lijst of een bijzonder manifest of een gedetailleerd stuwplan zoals voor het vervoer van gevaarlijke stoffen is vereist ingevolge het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, mogen de ingevolge dit voorschrift vereiste documenten worden gecombineerd met die voor gevaarlijke stoffen. Ingeval documenten worden gecombineerd, dient duidelijk onderscheid te worden gemaakt tussen gevaarlijke stoffen en onder deze Bijlage vallende schadelijke stoffen.   
+<sup> 2)  De verwijzing naar ,,begeleidende papieren” in dit voorschrift staan het gebruik van technieken voor de elektronische verwerking van gegevens (EDP) en de elektronische onderlinge uitwisseling van gegevens (EDI) als hulpmiddel bij papieren documenten niet in de weg.  </sup>   
+1.  Transportinformatie over het vervoer van schadelijke stoffen dient te voldoen aan de relevante bepalingen van de IMDG-Code en dient ter beschikking te worden gesteld van de door de autoriteit van de havenstaat aangewezen persoon of organisatie.   
+2.  Op elk schip dat schadelijke stoffen vervoert dient een bijzondere lijst, een manifest of een gedetailleerd stuwplan aanwezig te zijn waarin in overeenstemming met de relevante bepalingen van de IMDG-Code de schadelijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld.   
 
 ### Voorschrift  5  
 
-####Stuwage
+####Stuwen
 
-Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.  
+Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.  
 
 ### Voorschrift  6  
 
 ####Beperkingen van hoeveelheid
 
-Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid ervan die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.  
+Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.  
 
 ### Voorschrift  7  
 
 ####Uitzonderingen
 
 1.  Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.   
-2.  Behoudens de bepalingen van dit Verdrag dienen op grond van de natuurkundige, scheikundige en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.   
+2.  Behoudens de bepalingen van dit Verdrag dienen op grond van de fysische, chemische en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.   
 
 ### Voorschrift  8  
 
 ####Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
-<sup> 4)  Verwezen wordt naar de Procedures voor controle door de havenstaat, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij A.882(21).  </sup>   
-1.  Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door schadelijke stoffen te voorkomen.   
-2.  In de omstandigheden bedoeld in lid 1 van dit voorschrift, neemt de Partij de noodzakelijke maatregelen om te verzekeren dat het schip niet uitvaart voordat de situatie in overeenstemming is gebracht met de vereisten van deze Bijlage.   
+<sup> 3)  Verwezen wordt naar de Procedures voor controle door de havenstaat, aangenomen door de Organisatie bij resolutie A.787(19) en gewijzigd bij resolutie A.882(21).  </sup>   
+1.  Een schip dat zich in een haven of een laad- of losplaats buitengaats van een andere partij bevindt wordt geïnspecteerd door ambtenaren die door die partij naar behoren zijn gemachtigd om te controleren of voldaan wordt aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord.   
+2.  Wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord moeten worden toegepast om verontreiniging door schadelijke stoffen te voorkomen, neemt de partij maatregelen, waaronder het verrichten van een gedetailleerde inspectie en ziet er indien nodig op toe dat het schip niet uitvaart, voordat de situatie in overeenstemming is gebracht met de vereisten van deze Bijlage.   
 3.  De procedures betreffende de controle door de havenstaat voorgeschreven in artikel 5 van dit Verdrag zijn van toepassing op dit voorschrift.   
-4.  Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.   
+4.  Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.   
 
-### Aanhangsel  
+### Aanhangsel bij Bijlage III  
 
 ####Criteria voor de identificatie van schadelijke stoffen in verpakte vorm
 
-Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt : <sup> 5)  Deze criteria zijn gebaseerd op de criteria ontwikkeld door het United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), zoals gewijzigd.   Voor omschrijvingen van de in dit aanhangsel gebruikte acroniemen of begripsomschrijvingen wordt verwezen naar de desbetreffende delen van de IDMG-Code.  </sup>  
+Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt: <sup> 1)  Deze criteria zijn gebaseerd op de criteria ontwikkeld door het United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), zoals gewijzigd.   Voor omschrijvingen van de in dit aanhangsel gebruikte acroniemen of begripsomschrijvingen wordt verwezen naar de desbetreffende delen van de IMDG-Code.  </sup> 
 
-| --- | --- |
+a. Acuut gevaar voor de flora en fauna in het water (korte termijn)  
+
+|  *Categorie: Acuut 1*   |--- |
 |---|---|
-|  *Categorie: Acuut 1*   | --- |
 | --- | --- |
-| 96 uur LC <sub>50</sub> (voor vissen)  | ≤1 mg/l en/of  |
+| 96 uur LC <sub>50</sub> (voor vissen)  | ≤ 1 mg/l en/of  |
 | 48 uur EC <sub>50</sub> (voor schaaldieren)  | ≤ 1 mg/l en/of  |
 | 72 of 96 uur ErC <sub>50</sub> (voor algen of overige waterplanten)  | ≤ 1 mg/l  |
 
-| --- | --- |
-|---|---|
-|  *Categorie: Chronisch 1*   | --- |
-| --- | --- |
-| 96 uur LC <sub>50</sub> (voor vissen)  | ≤1 mg/l en/of  |
-| 48 uur EC <sub>50</sub> (voor schaaldieren)  | ≤1 mg/l en/of  |
-| 72 of 96 uur ErC <sub>50</sub> (voor algen of overige waterplanten)  | ≤ 1 mg/l  |
-| waarbij de stof niet snel afbreekbaar is en/of de log Kow ≥ 4 (tenzij de experimenteel bepaalde BCF < 500).  |
+b. Gevaar voor de flora en fauna in het water op de lange termijn 
 
-| --- | --- |
+i. niet snel afbreekbare stoffen waarvoor voldoende gegevens omtrent de chronische toxiciteit beschikbaar zijn  
+
+|  *Categorie Chronisch 1*   |--- |
 |---|---|
-|  *Categorie: Chronisch 2*   | --- |
-| --- | --- |
-| 96 uur LC <sub>50</sub> (voor vissen)  | >1 tot ≤10 mg/l en/of  |
-| 48 uur EC <sub>50</sub> (voor schaaldieren)  | >1 tot ≤ 10 mg/l en/of  |
-| 72 of 96 uur ErC <sub>50</sub> (voor algen of overige waterplanten)  | >1 tot ≤ 10 mg/l  |
-| waarbij de stof niet snel afbreekbaar is en/of de log Kow ≥ 4 (tenzij de experimenteel bepaalde BCF < 500), tenzij de chronische toxiciteit NOECs > 1 mg/l zijn.  |
+| --- | Chronische NOEC of ECx (voor vissen)  | ≤ 0,1 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor schaaldieren)  | ≤ 0,1 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor algen of overige waterplanten)  | ≤ 0,1 mg/l  |
+|  *Categorie Chronisch 2*   | --- |
+| --- | Chronische NOEC of ECx (voor vissen)  | ≤ 1 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor schaaldieren)  | ≤ 1 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor algen of overige waterplanten)  | ≤ 1 mg/l  |
+
+ii. snel afbreekbare stoffen waarvoor voldoende gegevens omtrent de chronische toxiciteit beschikbaar zijn  
+
+|  *Categorie Chronisch 1*   |--- |
+|---|---|
+| --- | Chronische NOEC of ECx (voor vissen)  | ≤ 0,01 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor schaaldieren)  | ≤ 0,01 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor algen of overige waterplanten)  | ≤ 0,01 mg/l  |
+|  *Categorie Chronisch 2*   | --- |
+| --- | Chronische NOEC of ECx (voor vissen)  | ≤ 0,1 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor schaaldieren)  | ≤ 0,1 mg/l en/of  |
+| --- | Chronische NOEC of ECx (voor algen of overige waterplanten)  | ≤ 0,1 mg/l  |
+
+iii. Stoffen waarvoor onvoldoende gegevens omtrent de chronische toxiciteit beschikbaar zijn  
+
+|  *Categorie Chronisch 1*   |--- |
+|---|---|
+| --- | 96 uur LC <sub>50</sub> (voor vissen)  | ≤ 1 mg/l en/of  |
+| --- | 48 uur EC <sub>50</sub> (voor schaaldieren)  | ≤ 1 mg/l en/of  |
+| --- | 72 of 96 uur ErC <sub>50</sub> (voor algen of overige waterplanten) en de stof is niet snel afbreekbaar en/of de experimenteel bepaalde BCF is ≥ 500 (of, indien deze ontbreekt de log K <sub>ow</sub> ≥ 4)  | ≤ 1 mg/l  |
+|  *Categorie Chronisch 2*   | --- |
+| --- | 96 uur LC50 (voor vissen)  | >1 mg/l maar ≤ 10 mg/l en/of  |
+| --- | 48 uur EC50 (voor schaaldieren)  | >1 mg/l maar ≤ 10 mg/l en/of  |
+| --- | 72 of 96 uur ErC50 (voor algen of overige waterplanten) en de stof is niet snel afbreekbaar en/of de experimenteel bepaalde BCF is ≥ 500 (of indien deze ontbreekt, de log K <sub>ow</sub> ≥ 4).  | >1 mg/l maar ≤ 10 mg/l  |
+
+In de IMDG-Code staat aanvullende informatie over het classificatieproces voor stoffen en mengsels.   
 
 ### Bijlage  IV  
 

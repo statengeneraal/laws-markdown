@@ -23,13 +23,13 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: *wet*: Wet op het primair onderwijs; *school*: een basisschool als bedoeld in de titels B en C van dit besluit, tenzij het tegendeel blijkt; *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald. leerling met een niet-Nederlandse culturele achtergrond: leerling: 
+In dit besluit wordt verstaan onder: *wet*: Wet op het primair onderwijs; *school*: een basisschool als bedoeld in de titels B en C van dit besluit, tenzij het tegendeel blijkt; *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald. *leerling met een niet-Nederlandse culturele achtergrond*: leerling: 
 
 a. die behoort tot de Molukse bevolkingsgroep,  
 
 b. van wie ten minste een van de ouders of voogden afkomstig is uit Griekenland, Italië, het voormalige Joegoslavië, Kaapverdië, Marokko, Portugal, Spanje, Tunesië of Turkije,  
 
-c. van wie ten minste een van de ouders of voogden afkomstig is uit Suriname, de Nederlandse Antillen of Aruba,  
+c. van wie ten minste een van de ouders of voogden afkomstig is uit Suriname, de voormalige Nederlandse Antillen of Aruba,  
 
 d. van wie ten minste een van de ouders of voogden als vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning als bedoeld in artikel 28 of  33 van de Vreemdelingenwet 2000,  
 
@@ -242,7 +242,7 @@ Het Rijk vergoedt aan het bevoegd gezag van een bijzondere school de kosten van 
 
 ####Bekostiging voor de materiële voorzieningen ten behoeve van de instandhouding
 
-1.  Bij ministeriële regeling per school een bedrag per formatieplaats, zoals bedoeld in artikel B 16b, vastgesteld voor de bekostiging van materiële voorzieningen ten behoeve van de instandhouding.   
+1.  Bij ministeriële regeling wordt per school een bedrag per formatieplaats, zoals bedoeld in artikel B 16b, vastgesteld voor de bekostiging van materiële voorzieningen ten behoeve van de instandhouding.   
 2.  Artikel 113, vierde tot en met zesde lid van de wet zijn van overeenkomstige toepassing.   
 
 ### Artikel  B 20  

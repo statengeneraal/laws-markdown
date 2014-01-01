@@ -21,13 +21,13 @@ a. in de akte wordt vermeld:
 
 1. de naam en het adres van de colporteur;  
 
-2. indien de onderneming in Nederland is gevestigd, de Kamer van Koophandel en Fabrieken, waarbij de onderneming is ingeschreven en het nummer, waaronder die inschrijving is geschied;  
+2. indien de onderneming in Nederland is gevestigd, de Kamer van Koophandel, waarbij de onderneming is ingeschreven en het nummer, waaronder die inschrijving is geschied;  
 
 3. het totaal van de betalingen, ingevolge de overeenkomst of het goederenkrediet door de in [artikel 25, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde partij te verrichten;  
 
 4. de datum waarop de overeenkomst wordt aangegaan;    
 
-b. het gedeelte van de akte, dat begint na de plaats, die bestemd is voor het plaatsen van de handtekeningen, wordt opgemaakt overeenkomstig een door Onze Ministers van Economische Zaken en van Justitie vastgesteld model;  
+b. het gedeelte van de akte, dat begint na de plaats, die bestemd is voor het plaatsen van de handtekeningen, wordt opgemaakt overeenkomstig een door Onze Ministers van Economische Zaken en van Veiligheid en Justitie vastgesteld model;  
 
 c. de inhoud van de akte duidelijk leesbaar is;  
 
@@ -37,30 +37,25 @@ d. de akte ten hoogste de volgende afmetingen heeft:
 
 ### Artikel  2  
 
-Onze Ministers van Economische Zaken en van Justitie stellen het in artikel 1, onder *b,* bedoelde model aldus vast, dat: 
+Onze Ministers van Economische Zaken en van Veiligheid en Justitie stellen het in artikel 1, onder b, bedoelde model aldus vast, dat: 
 
 a. daarin wordt vermeld: 
 
 1. de in [artikel 25, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde mogelijkheid tot ontbinding van de overeenkomst;  
 
-2. het adres, bedoeld in artikel 24, tweede lid, onder *a,* van de [Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md);  
+2. het adres, bedoeld in [artikel 24, tweede lid, onder a, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md);  
 
-3. de Kamer van Koophandel en Fabrieken, die de akte kan voorzien van een gewaarmerkte dagtekening als bedoeld in [artikel 25, tweede lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md);  
+3.  vervallen;   
 
-4. de in [artikel 25, zesde lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) vervatte regeling;    
+4. de in [artikel 25, vijfde lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) vervatte regeling;    
 
 b. daarin de onder *a,* ten eerste, bedoelde mogelijkheid nader wordt toegelicht;  
 
 c. het tevens omvat een formulier, door middel waarvan de in [artikel 25, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde mededeling kan worden gedaan.    
 
-### Artikel  3  
-
-1.  De in [artikel 25, derde lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde dagtekening van een akte vindt niet plaats alvorens degene, die deze verlangt, een bedrag van € 2,35 heeft betaald.   
-2.  Zodanige dagtekening vindt voorts niet plaats, indien niet tevens een afschrift van de akte, van gelijke grootte als de akte zelf, aan de Kamer wordt verstrekt.   
-
 ### Artikel  5  
 
-Dit besluit kan worden aangehaald als: Besluit inhoud en dagtekening akten van colportageovereenkomsten.  
+Dit besluit wordt aangehaald als: Besluit akten van colportageovereenkomsten.  
 
 ### Artikel  6  
 

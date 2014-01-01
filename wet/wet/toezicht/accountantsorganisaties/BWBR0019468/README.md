@@ -137,7 +137,9 @@ d. indien de houder in staat van faillissement is komen te verkeren of surseance
 
 e. indien zich omstandigheden voordoen of feiten bekend worden welke ertoe leiden of zouden kunnen leiden dat de formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie in zodanige mate ondoorzichtig wordt dat deze een belemmering zou vormen voor het adequaat uitoefenen van het toezicht op de accountantsorganisatie;  
 
-f. indien de houder niet meer voldoet aan bij of krachtens deze wet gestelde regels.    
+f. indien de houder niet meer voldoet aan bij of krachtens deze wet gestelde regels;  
+
+g. de houder gedurende een periode van 36 maanden geen gebruik van de vergunning heeft gemaakt.    
 
 ### Afdeling  2.3  
 
@@ -225,14 +227,12 @@ d. zij op haar website jaarlijks een transparantieverslag publiceert met bij alg
 ### Artikel  12d  
 
 1.  De artikelen 48a, 52, 64, 65, en 66 en de hoofdstukken 5A en 5B zijn van overeenkomstige toepassing ten aanzien van auditorganisaties van een derde land die ingevolge artikel 12c zijn ingeschreven in het register, met dien verstande dat de in artikel 64 bedoelde openbare waarschuwing kan worden uitgevaardigd, indien de auditorganisatie van een derde land niet voldoet aan de in artikel 12c, eerste lid gestelde eisen voor inschrijving in het register.   
-2.  In afwijking van het eerste lid is artikel 48a niet van toepassing op auditorganisaties van een derde land, voor zover een toezichthoudende instantie in een andere lidstaat of in een staat als bedoeld in het derde lid, in de voorgaande drie jaar een beoordeling als bedoeld in artikel 45, derde lid, van de richtlijn heeft uitgevoerd.   
-3.  Bij ministeriële regeling kan worden bepaald dat de artikelen 12c, eerste lid, 52, 64, 65 en 66 geheel of gedeeltelijk niet van toepassing zijn ten aanzien van auditorganisaties van een derde land met zetel in een daarbij aan te wijzen staat die geen lidstaat is. Een staat kan slechts worden aangewezen: 
+2.  Bij ministeriële regeling kan worden bepaald dat artikel 48a niet van toepassing is op auditorganisaties van een derde land, indien in de voorafgaande drie jaar een beoordeling als bedoeld in artikel 45, derde lid, van de richtlijn is uitgevoerd door een toezichthoudende instantie van: 
 
-a. op basis van wederkerigheid;  
+a. een andere lidstaat; of  
 
-b. indien die staat beschikt over een stelsel van toezicht en handhaving dat gelijkwaardig is aan dat op grond van deze wet; en  
-
-c. indien de Autoriteit Financiële Markten met de desbetreffende toezichthoudende instantie een overeenkomst heeft gesloten als bedoeld in artikel 63j, eerste lid, onderdeel e.     
+b. een staat niet zijnde een lidstaat die beschikt over een stelsel van toezicht en handhaving dat gelijkwaardig is aan dat op grond van deze wet, voor zover de Autoriteit Financiële Markten met de desbetreffende toezichthoudende instantie op basis van wederkerigheid een overeenkomst als bedoeld in artikel 63j, tweede lid, onderdeel d, heeft gesloten.     
+3.  Bij de ministeriële regeling, bedoeld in het tweede lid, kan op basis van wederkerigheid tevens worden bepaald dat de artikelen 12c, eerste lid, 52, 64, 65 en 66 geheel of gedeeltelijk niet van toepassing zijn ten aanzien van auditorganisaties van een derde land met zetel in een bij die regeling aangewezen staat die geen lidstaat is.   
 
 ### Hoofdstuk  3  
 
@@ -430,10 +430,6 @@ c. de zorgvuldige behandeling van een ieder die met haar in aanraking komt;
 d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvangen.     
 2.  De Autoriteit Financiële Markten treft voorzieningen, waardoor ieder die met haar in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.   
 
-### Artikel  42  
-
-De Autoriteit Financiële Markten verstrekt Onze Minister desgevraagd inlichtingen die nodig zijn voor de beoordeling van de uitvoerbaarheid van algemene beleidsvoornemens en voorgenomen wettelijke voorschriften, voor zover deze betrekking hebben op het door de Autoriteit Financiële Markten uit te oefenen toezicht ingevolge deze wet.  
-
 ### Artikel  43  
 
 1.  Onze Minister kan aan de Autoriteit Financiële Markten de gegevens of inlichtingen vragen die nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de Autoriteit Financiële Markten deze wet uitvoert of heeft uitgevoerd, indien dat ter wille van het toezicht nodig blijkt.   
@@ -451,18 +447,6 @@ d. die op grond van een rechterlijke uitspraak is ontbonden.
 5.  Onze Minister en degenen die in zijn opdracht handelen zijn verplicht tot geheimhouding van de op grond van het tweede lid ontvangen gegevens of inlichtingen.   
 6.  Niettegenstaande het vierde en vijfde lid kan Onze Minister de aan de gegevens of inlichtingen ontleende bevindingen en de daaruit getrokken conclusies aan de beide kamers der Staten-Generaal mededelen en de conclusies in algemene zin uit het onderzoek openbaar maken.   
 7.  De [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en de [Wet Nationale ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) zijn niet van toepassing met betrekking tot de in dit artikel bedoelde gegevens of inlichtingen die Onze Minister of de in zijn opdracht werkende derde onder zich heeft.   
-
-### Artikel  44  
-
-1.  Indien naar het oordeel van Onze Minister de Autoriteit Financiële Markten haar taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.   
-2.  Ter uitvoering van het eerste lid kan Onze Minister besluiten een of meer onderdelen van de taak van de Autoriteit Financiële Markten zelf uit te voeren of door een ander bestuursorgaan te laten uitvoeren. Alsdan komen de desbetreffende bevoegdheden van de Autoriteit Financiële Markten toe aan Onze Minister onderscheidenlijk het andere bestuursorgaan.   
-3.  De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de Autoriteit Financiële Markten in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog haar taak naar behoren uit te voeren.   
-4.  Onze Minister stelt de Tweede Kamer der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.   
-
-### Artikel  45  
-
-1.  Onze Minister zendt vijf jaar na inwerkingtreding van deze wet en vervolgens elke vijf jaar een verslag aan de Tweede Kamer der Staten-Generaal over de doeltreffendheid en doelmatigheid van het functioneren van de Autoriteit Financiële Markten in het kader van de uitvoering van deze wet.   
-2.  De Autoriteit Financiële Markten verstrekt desgevraagd aan Onze Minister gegevens en inlichtingen ten behoeve van het verslag.   
 
 ### Hoofdstuk  5  
 
@@ -495,6 +479,7 @@ d. is gedurende de drie voorafgaande jaren niet werkzaam geweest of verbonden aa
 2.  Indien een accountantsorganisatie wettelijke controles verricht bij organisaties van openbaar belang, beoordeelt de Autoriteit Financiële Markten, in afwijking van het eerste lid, ten minste eenmaal in de drie jaar of die organisatie voldoet aan het bij of krachtens deze wet bepaalde.   
 3.  De Autoriteit Financiële Markten baseert haar beoordeling ten minste op een toetsing van een selectie van controledossiers.   
 4.  De Autoriteit Financiële Markten stelt een verslag op waarin de voornaamste conclusies van de beoordeling zijn opgenomen en verstrekt daarvan een afschrift aan de desbetreffende accountantsorganisatie.   
+5.  De Autoriteit Financiële Markten kan in afwijking van artikel 63a de voornaamste bevindingen en conclusies van beoordelingen als bedoeld in het vierde lid openbaar maken, met dien verstande dat die bevindingen en conclusies niet herleidbaar zijn tot andere personen dan de betrokken accountantsorganisaties.   
 
 ### Artikel  49  
 
@@ -520,12 +505,12 @@ De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een verg
 
 ### Artikel  53  
 
-1.  De Autoriteit Financiële Markten kan een last onder dwangsom opleggen ter zake van een overtreding van een voorschrift, gesteld bij of krachtens de artikelen 5, eerste lid, 6, derde lid, 14, 15, 16, 16a17, 18, tweede en derde lid, 19, 21, 22, 23 en 24 van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De Autoriteit Financiële Markten kan een last onder dwangsom opleggen ter zake van een overtreding van een voorschrift, gesteld bij of krachtens de artikelen 5, eerste lid, 6, derde lid, 14, 15, 16, 16a17, 18, tweede en derde lid, 19, 21, 22, 23, 24 en 24b van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  54  
 
-1.  De Autoriteit Financiële Markten kan een bestuurlijke boete opleggen ter zake van een overtreding van een voorschrift, gesteld bij of krachtens de artikelen 5, eerste lid, 6, derde lid, 14, 15, 16a, 18, 19, 20, eerste en derde lid, 21, 22, 23, 24 en 24a van deze wet en van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De Autoriteit Financiële Markten kan een bestuurlijke boete opleggen ter zake van een overtreding van een voorschrift, gesteld bij of krachtens de artikelen 5, eerste lid, 6, derde lid, 14, 15, 16a, 18, 19, 20, eerste en derde lid, 21, 22, 23, 24, 24a en 24b van deze wet en van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  55  
@@ -549,6 +534,8 @@ De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een verg
 ### Paragraaf  5.3  
 
 ####Beroep
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  5a  
 
@@ -607,8 +594,8 @@ d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisatie do
 
 ### Artikel  63g  
 
-1.  De Autoriteit Financiële Markten kan ter uitvoering van haar taak op grond van artikel 63f van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een andere lidstaat nodig is.   
-2.  De [artikelen 5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+1.  De Autoriteit Financiële Markten kan ter uitvoering van haar taak op grond van artikel 63f van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een andere lidstaat nodig is. De artikelen [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+2.  Ten behoeve van de in het eerste lid bedoelde taak beschikken de personen, bedoeld in artikel 49, eerste lid, over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16a](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
 
 ### Artikel  63h  
 
@@ -634,16 +621,21 @@ d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisatie of
 
 ### Artikel  63j  
 
-1.  De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, eerste lid, op verzoek van een toezichthoudende instantie van een staat die geen lidstaat is, vertrouwelijke gegevens of inlichtingen die afkomstig zijn van vergunninghoudende accountantsorganisaties of externe accountants en die betrekking hebben op controles bij ondernemingen die effecten hebben uitgegeven in de betrokken staat of die onderdeel uitmaken van een groep die is onderworpen aan een controle van geconsolideerde jaarrekeningen in die staat verstrekken aan de betrokken toezichthoudende instantie, indien: 
+1.  De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, eerste lid, en met inachtneming van het tweede lid, op verzoek van een toezichthoudende instantie van een staat die geen lidstaat is, vertrouwelijke gegevens of inlichtingen aan die toezichthoudende instantie verstrekken die betrekking hebben op: 
 
-a. dat voor de vervulling van haar taak op grond van deze wet of van de taak van die toezichthoudende instantie nodig is;  
+a. de controles bij ondernemingen die effecten hebben uitgegeven in de betrokken staat of die onderdeel uitmaken van een groep die is onderworpen aan een controle van geconsolideerde jaarrekeningen in die staat; of  
 
-b. die toezichthoudende instantie voldoet aan eisen die de Commissie van de Europese Gemeenschappen overeenkomstig het bepaalde in artikel 47, derde lid, van de richtlijn adequaat heeft verklaard;  
+b. het bepaalde bij of krachtens hoofdstuk 3 van deze wet, voor zover relevant voor de uitvoering van de onder a bedoelde controles.     
+2.  De Autoriteit Financiële Markten kan vertrouwelijke gegevens en inlichtingen als bedoeld in het eerste lid uitsluitend verstrekken, indien: 
 
-c. de overdracht van persoonsgegevens geschiedt overeenkomstig de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+a. dat voor de vervulling van haar taak op grond van deze wet of de taak van die toezichthoudende instantie nodig is;  
+
+b. die toezichthoudende instantie voldoet aan eisen die de Europese Commissie overeenkomstig het bepaalde in artikel 47, derde lid, van de richtlijn adequaat heeft verklaard;  
+
+c. de overdracht van persoonsgegevens geschiedt overeenkomstig de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); en  
 
 d. zij met die toezichthoudende instantie op basis van wederkerigheid een overeenkomst heeft gesloten met betrekking tot gegevensverstrekking als bedoeld in dit artikel.     
-2.  De Autoriteit Financiële Markten voldoet niet aan het in het eerste lid bedoelde verzoek, indien: 
+3.  De Autoriteit Financiële Markten voldoet niet aan het in het eerste lid bedoelde verzoek, indien: 
 
 a. de verstrekking van de gegevens of inlichtingen gevaar zou kunnen opleveren voor de soevereiniteit, nationale veiligheid of openbare orde van Nederland of andere lidstaten; of  
 
@@ -652,12 +644,12 @@ b. met betrekking tot dezelfde handelingen tegen dezelfde accountantsorganisatie
 c. door de dezelfde accountantsorganisatie een beroep is ingesteld tegen een beschikking als bedoeld in artikel 58 ten aanzien van dezelfde handelingen ingesteld; of  
 
 d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisaties of auditkantoren een onherroepelijk besluit is genomen.     
-3.  De Autoriteit Financiële Markten zendt onverwijld nadat met een toezichthoudende instantie van een staat die geen lidstaat is een overeenkomst is gesloten als bedoeld in het eerste lid, een afschrift van die overeenkomst aan Onze Minister.   
+4.  De Autoriteit Financiële Markten zendt onverwijld nadat met een toezichthoudende instantie van een staat die geen lidstaat is een overeenkomst is gesloten als bedoeld in het eerste lid, een afschrift van die overeenkomst aan Onze Minister.   
 
 ### Artikel  63k  
 
-1.  De Autoriteit Financiële Markten kan ten behoeve van de samenwerking, bedoeld in artikel 63j, van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een staat die geen lidstaat is, nodig is.   
-2.  De [artikelen 5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+1.  De Autoriteit Financiële Markten kan ten behoeve van de samenwerking, bedoeld in artikel 63j, van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een staat die geen lidstaat is, nodig is. De artikelen [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+2.  Ten behoeve van de in het eerste lid bedoelde samenwerking beschikken de personen, bedoeld in artikel 49, eerste lid, over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16a](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
 
 ### Hoofdstuk  6  
 
@@ -866,15 +858,13 @@ J. P. H.Donner
 
 – [artikel 12, zevende lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
 
-– [artikel 48 van de Wet op de kamers van koophandel en fabrieken 1997](../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md);  
-
 – [artikel 21, vierde lid, van de Wet Landelijk Bureau Inning Onderhoudsbijdragen](../../../../../wet/wet/landelijk/bureau/inning/onderhoudsbijdragen/BWBR0007292/README.md);  
 
 – [artikel 5.41, derde lid, onderdeel d, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
 – [artikel 25, vierde lid, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
-– [artikelen 3:72, zevende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:77](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:82](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:86, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, derde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:85, tweede lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+– [artikelen 3:72, zevende lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:77](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:82](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:86, tweede lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), 4:37o, vierde lid, [4:51, derde lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:85, tweede lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 – [artikelen 141](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [142, vijfde lid, van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
 

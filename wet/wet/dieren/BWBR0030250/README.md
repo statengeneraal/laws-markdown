@@ -124,6 +124,8 @@ e. beperking van hun natuurlijk gedrag;   voor zover zulks redelijkerwijs kan wo
 
 ####Algemene zorgplicht
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Een ieder neemt voldoende zorg in acht voor dieren.   
 2.  De zorg, bedoeld in het eerste lid, houdt in ieder geval in dat een ieder die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten nadelige gevolgen voor dieren worden veroorzaakt, verplicht is dergelijk handelen achterwege te laten voor zover zulks in redelijkheid kan worden gevergd, dan wel alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde die gevolgen te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, deze zoveel mogelijk te beperken of ongedaan te maken.   
 
@@ -138,6 +140,8 @@ e. beperking van hun natuurlijk gedrag;   voor zover zulks redelijkerwijs kan wo
 ### Artikel  2.1  
 
 ####Dierenmishandeling
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het is verboden om zonder redelijk doel of met overschrijding van hetgeen ter bereiking van zodanig doel toelaatbaar is, bij een dier pijn of letsel te veroorzaken dan wel de gezondheid of het welzijn van het dier te benadelen.   
 2.  Tot de in het eerste lid verboden gedragingen worden in ieder geval gerekend: 
@@ -225,6 +229,8 @@ r. een verbod op het houden van bepaalde diersoorten, diercategorieën, of een b
 
 ####Gebruik van dieren
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Het is verboden dieren te gebruiken met het oog op de productie van producten, afkomstig van die dieren.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op dieren behorende tot bij of krachtens algemene maatregel van bestuur aangewezen diersoorten of diercategorieën.   
 3.  Bij of krachtens algemene maatregel van bestuur worden in het belang van de bescherming van het welzijn en de gezondheid van dieren regels gesteld voor de uitvoering van bindende onderdelen van EG-maatregelen over de doeleinden of activiteiten waarvoor dieren, diersoorten of diercategorieën kunnen worden gebruikt.   
@@ -237,6 +243,8 @@ b. het toestaan van het gebruik van bepaalde dieren, diersoorten of diercategori
 ### Artikel  2.4  
 
 ####Identificatie van dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de uitvoering van bindende onderdelen van EG-maatregelen over de identificatie van dieren behorende tot bij die maatregel aangewezen diersoorten of diercategorieën.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voor het onderwerp, bedoeld in het eerste lid, regels worden gesteld voor bij deze maatregel aangewezen diersoorten of diercategorieën die betrekking hebben op onder meer: 
@@ -259,6 +267,8 @@ g. het document waarin gegevens met betrekking tot de identificatie van dieren w
 ### Artikel  2.5  
 
 ####Vervoer van dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de uitvoering van bindende onderdelen van EG-maatregelen over het vervoer van dieren behorende tot bij die maatregel aangewezen diersoorten of diercategorieën.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voor het onderwerp, bedoeld in het eerste lid, regels worden gesteld voor bij deze maatregel aangewezen diersoorten of diercategorieën die betrekking hebben op onder meer: 
@@ -296,6 +306,8 @@ o. de vakbekwaamheid van degene die de dieren vervoert of die bij het vervoer be
 ### Artikel  2.6  
 
 ####Fokken van dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de uitvoering van bindende onderdelen van EG-maatregelen over het fokken van en het voor de fok gebruiken van dieren behorende tot bij die maatregel aangewezen diersoorten of diercategorieën.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voor het onderwerp, bedoeld in het eerste lid, regels worden gesteld voor bij deze maatregel aangewezen diersoorten of diercategorieën die betrekking hebben op onder meer: 
@@ -410,6 +422,8 @@ f. het melden en het voeren van een administratie met betrekking tot verrichte d
 
 ####Bevoegdheid tot het verrichten van diergeneeskundige handelingen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Het beroepsmatig verrichten van diergeneeskundige handelingen is verboden voor een ieder die daartoe niet bij of krachtens artikel 4.1 is toegelaten.   
 2.  Het anders dan beroepsmatig verrichten van lichamelijke ingrepen is verboden voor anderen dan de personen, bedoeld in het eerste lid.   
 3.  De verboden, bedoeld in het eerste en tweede lid, zijn niet van toepassing op bij of krachtens algemene maatregel van bestuur aangewezen diergeneeskundige handelingen. De aanwijzing van diergeneeskundige handelingen kan worden beperkt tot het in een bepaalde hoedanigheid verrichten van de aangewezen handeling.   
@@ -420,6 +434,8 @@ f. het melden en het voeren van een administratie met betrekking tot verrichte d
 ### Artikel  2.10  
 
 ####Doden van dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het is verboden om dieren behorend tot bij algemene maatregel van bestuur aangewezen diersoorten of diercategorieën te doden, behoudens in gevallen waarin een dier wordt gedood voor de bedrijfsmatige productie van dierlijke producten of in andere dan bij of krachtens algemene maatregel van bestuur aangewezen gevallen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de uitvoering van bindende onderdelen van EG-maatregelen over het doden, het bedwelmen, het fixeren, het onderbrengen en het verplaatsen van dieren.   
@@ -477,6 +493,8 @@ d. de aanwezigheid van een op grond van artikel 8.1 aangewezen ambtenaar, tevens
 
 ####Verbod op opzettelijke besmetting
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Het is verboden dieren opzettelijk in een zodanige toestand te brengen dat deze ziek worden of kunnen worden besmet met een dierziekte of een zoönose.   
 2.  De houder van dieren die weet of redelijkerwijs kan vermoeden dat dieren door zijn handelen of nalaten ziek worden, of dat daardoor een besmetting met dan wel de verspreiding van een dierziekte of een zoönose als bedoeld in het eerste lid, kan worden veroorzaakt: 
 
@@ -491,6 +509,8 @@ c. ingeval een zodanige besmetting zich voordoet, beperkt de omvang en de gevolg
 
 ####Meldingsplicht dierziekten en zoönosen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Ingeval een dierenarts weet of redelijkerwijs kan vermoeden dat een dier is besmet met een dierziekte of een zoönose als bedoeld in artikel 5.3, tweede lid, dan wel met een andere bij ministeriële regeling aangewezen dierziekte of zoönose, of drager is van een ziekteverwekker, geeft hij hiervan terstond kennis aan een ambtenaar als bedoeld in artikel 8.1, eerste lid.   
 2.  Ingeval een dierenarts weet of redelijkerwijs kan vermoeden dat een dier een ziekteverschijnsel als bedoeld in artikel 5.3, derde lid, dan wel een ander bij ministeriële regeling aangewezen ziekteverschijnsel vertoont, geeft hij hiervan terstond kennis aan een ambtenaar als bedoeld in artikel 8.1, eerste lid.   
 3.  Ingeval een dier een ziekteverschijnsel als bedoeld in artikel 5.3, derde lid, dan wel een ander bij ministeriële regeling aangewezen ziekteverschijnsel vertoont, of ingeval de houder weet of redelijkerwijs kan vermoeden dat een dier is besmet met een dierziekte of een zoönose als bedoeld in artikel 5.3, tweede lid, dan wel een andere bij ministeriële regeling aangewezen dierziekte of zoönose, of drager is van een ziekteverwekker, geeft de houder van dit dier hiervan terstond kennis aan een ambtenaar als bedoeld in artikel 8.1, eerste lid.   
@@ -501,11 +521,15 @@ c. ingeval een zodanige besmetting zich voordoet, beperkt de omvang en de gevolg
 
 ####Verbod op het gebruik van dieren als prijs
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Het is verboden dieren als prijs, beloning of gift uit te loven of uit te reiken naar aanleiding van wedstrijden, verlotingen, weddenschappen of andere dergelijke evenementen.  
 
 ### Artikel  2.14  
 
 ####Verbod op dierengevechten
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het is verboden dierengevechten te organiseren of dieren aan dierengevechten te doen deelnemen.   
 2.  Het is verboden bij dierengevechten aanwezig te zijn.   
@@ -513,6 +537,8 @@ Het is verboden dieren als prijs, beloning of gift uit te loven of uit te reiken
 ### Artikel  2.15  
 
 ####Wedstrijden met dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de uitvoering van bindende onderdelen van EG-maatregelen over wedstrijden met dieren.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voor het onderwerp, bedoeld in het eerste lid, regels worden gesteld die betrekking hebben op onder meer: 
@@ -552,6 +578,8 @@ e. een verbod op het voorhanden, in voorraad of aanwezig hebben van substanties.
 ### Artikel  2.16  
 
 ####Vertoning dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het houden van keuringen, tentoonstellingen en andere gelegenheden of inrichtingen waar dieren worden gehouden en aan het publiek worden getoond wegens recreatieve, sportieve of opvoedkundige doeleinden.   
 2.  De regels, bedoeld in het eerste lid, kunnen onder meer betrekking hebben op: 
@@ -721,9 +749,13 @@ b. bereiders van sera, entstoffen of biologische diagnostica, voor zover de ziek
 
 ####Biotechnologie
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  2.23  
 
 ####Vergunning biotechnologie
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het is verboden om uitsluitend voor sportprestaties of vermaak het genetisch materiaal van dieren te wijzigen op een wijze die voorbij gaat aan de natuurlijke barrières van geslachtelijke voortplanting en van recombinatie.   
 2.  Het is zonder vergunning verboden: 
@@ -740,7 +772,8 @@ b. tegen de handelingen geen ethische bezwaren bestaan.
 5.  Hoofdstuk 7 is van overeenkomstige toepassing op de vergunning, bedoeld in het tweede lid, met dien verstande dat artikel 7.1 niet van toepassing is.   
 6.  In afwijking van artikel 7.7, eerste lid, vraagt Onze Minister telkenmale omtrent een verzoek om vergunning als bedoeld in het tweede lid advies van een door hem met betrekking tot dat verzoek in te stellen commissie van onafhankelijke deskundigen.   
 
-### Artikel  2.24  
+### Artikel  2.24   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bij of krachtens algemene maatregel van bestuur kunnen handelingen worden aangewezen ten aanzien waarvan in ieder geval niet is voldaan aan de voorwaarden, bedoeld in artikel 2.23, vierde lid.  
 
@@ -903,9 +936,13 @@ b. de maximum hoogte van de vergoeding.
 
 ####Toelating beroepen in de uitoefening van de diergeneeskunde
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  4.1  
 
 ####Toelating dierenartsen en andere personen
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Tot het beroepsmatig verrichten van diergeneeskundige handelingen zijn toegelaten dierenartsen en andere personen die zijn ingeschreven in het register, bedoeld in artikel 4.3, eerste lid.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het beroepsmatig verrichten van diergeneeskundige handelingen en de toelating daartoe, in overeenstemming met EG-maatregelen die betrekking hebben op beroepskwalificaties en diensten.   
@@ -929,6 +966,8 @@ f. de gevallen waarin de toelating kan worden ingetrokken.
 
 ####Zorgplichten
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Personen, die zijn toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen, schieten niet door enig handelen of nalaten tekort in de zorg die zij in hun hoedanigheid: 
 
 a. behoren te betrachten ten opzichte van een dier met betrekking tot welke hun hulp is ingeroepen, en  
@@ -941,6 +980,8 @@ b. verlenen of in geval van nood behoren te verlenen ten opzichte van een dier.
 
 ####Register
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Onze Minister houdt een openbaar register bij van personen die een opleiding op het gebied van de diergeneeskunde als bedoeld in artikel 1.1 met goed gevolg hebben voltooid en andere personen die worden toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen.   
 2.  Een persoon wordt niet in het register ingeschreven of zijn inschrijving wordt doorgehaald indien hij krachtens een onherroepelijk geworden rechterlijke of tuchtrechtelijke uitspraak de bevoegdheid tot het beroepsmatig verrichten van diergeneeskundige handelingen mist.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de registratie in het register, bedoeld in het eerste lid, waaronder regels als bedoeld in artikel 7.2, tweede en derde lid.   
@@ -948,6 +989,8 @@ b. verlenen of in geval van nood behoren te verlenen ten opzichte van een dier.
 ### Artikel  4.4  
 
 ####Titelbescherming
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Aan personen die zijn opgenomen in een register als bedoeld in artikel 4.3, eerste lid, is het recht voorbehouden om: 
 
@@ -959,6 +1002,8 @@ b. een titel, aanduiding of vermelding te bezigen die bij het publiek redelijker
 ### Artikel  4.5  
 
 ####Specialismen
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over specialismen binnen het beroepsmatig verrichten van diergeneeskundige handelingen.   
 2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op onder meer: 
@@ -1006,9 +1051,13 @@ d. de voorwaarden waaronder personen die beschikken over een titel, verbonden aa
 
 ####Preventie en bestrijding van besmettelijke dierziekten, zoönosen en ziekteverschijnselen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  5.3  
 
 ####Aanwijzing dierziekten, zoönosen en ziekteverschijnselen
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Onze Minister kan krachtens deze paragraaf maatregelen treffen en andere handelingen verrichten ter voorkoming of bestrijding van de door hem aangewezen dierziekten, zoönosen en ziekteverschijnselen.   
 2.  Dierziekten en zoönosen kunnen worden aangewezen indien: 
@@ -1021,6 +1070,8 @@ b. zij een gevaar voor de diergezondheid of de volksgezondheid kunnen opleveren.
 ### Artikel  5.4  
 
 ####Dieren
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot dieren, al dan niet gehouden, die: 
 
@@ -1070,6 +1121,8 @@ f. het doen van onderzoek naar de aanwezigheid van ziekteverwekkers of ziektever
 
 ####Producten en voorwerpen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot producten of voorwerpen, voor zover deze drager van een ziekteverwekker kunnen zijn, of een gevaar voor verspreiding van een ziekteverwekker kunnen opleveren.   
 2.  De maatregelen, bedoeld in het eerste lid, zijn: 
 
@@ -1114,6 +1167,8 @@ h. het doen van onderzoek naar de aanwezigheid van ziekteverwekkers of ziektever
 
 ####Gebouwen, ruimten, terreinen en gebieden
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot gebouwen, ruimten, terreinen, gebieden en andere onroerende zaken waar een ziekteverwekker aanwezig is of ten aanzien waarvan sprake is van een verdenking van aanwezigheid van een ziekteverwekker.   
 2.  De maatregelen, bedoeld in het eerste lid, zijn: 
 
@@ -1142,11 +1197,15 @@ d. het reinigen en ontsmetten.
 
 ####Afwijking andere regelgeving
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 De op grond van deze paragraaf getroffen maatregelen kunnen zo nodig afwijken van het overige bij en krachtens deze wet bepaalde, de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) en de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).  
 
 ### Artikel  5.8  
 
 ####Medewerking burgemeesters
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Onze Minister stelt de burgemeester van de gemeente waar krachtens deze paragraaf een maatregel is getroffen, hiervan onverwijld in kennis.   
 2.  De burgemeester van de betrokken gemeente verleent zijn medewerking bij het plaatsen en het weer verwijderen van waarschuwingsborden en kentekenen.   
@@ -1154,6 +1213,8 @@ De op grond van deze paragraaf getroffen maatregelen kunnen zo nodig afwijken va
 ### Artikel  5.9  
 
 ####Bevoegdheden ten behoeve van onderzoek
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Met het verrichten van onderzoek naar de aanwezigheid van ziekteverwekkers, dierziekten, zoönosen en ziekteverschijnselen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en personen.   
 2.  Artikel 8.2 en de [artikelen 5:13 tot en met 8:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde ambtenaren en personen.   
@@ -1269,6 +1330,8 @@ c. een verplichting tot vaststelling van hygiëneprocedures of tot ander handele
 ### Artikel  5.13  
 
 ####Bevoegdheden burgemeester
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De burgemeester van de gemeente waar zich een dier bevindt dat in strijd met het bepaalde krachtens artikel 2.6, tweede lid, onderdeel a, onder 2°, is gefokt, of dat in strijd met het bepaalde bij en krachtens artikel 2.2, zesde lid, eerste volzin, wordt gehouden, kan besluiten dat dit dier: 
 
@@ -1576,6 +1639,8 @@ Bij gebreke van volledige betaling binnen de gestelde termijn kan Onze Minister 
 
 ####Uitoefening diergeneeskunde ondanks tuchtrechtelijke ontzegging
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 [Artikel 195 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van overeenkomstige toepassing op een persoon: 
 
 a. die, hoewel hij bij onherroepelijk geworden uitspraak geheel of gedeeltelijk is geschorst in het beroepsmatig verrichten van diergeneeskundige handelingen, tijdens die schorsing de handelingen waarop die schorsing betrekking heeft, uitoefent, of  
@@ -1594,9 +1659,13 @@ b. die, hoewel hem bij onherroepelijk geworden uitspraak de hem bij of krachtens
 
 ####Veterinair tuchtrecht
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  8.15  
 
 ####Indiening klacht
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij het veterinair tuchtcollege kan een schriftelijke klacht worden ingediend tegen een dierenarts of een andere persoon die is toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen, wegens het in strijd handelen met artikel 4.2.   
 2.  Een klacht als bedoeld in het eerste lid, kan worden ingediend door: 
@@ -1608,6 +1677,8 @@ b. een ambtenaar, aangewezen door Onze Minister.
 ### Artikel  8.16  
 
 ####Veterinair tuchtcollege
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het veterinair tuchtcollege is gevestigd in Den Haag.   
 2.  Het veterinair tuchtcollege is belast met de behandeling in eerste aanleg van zaken over het handelen in strijd met artikel 4.2.   
@@ -1625,6 +1696,8 @@ c. een door Onze Ministers te bepalen aantal andere personen als bedoeld in arti
 
 ####Benoeming leden college
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  De voorzitter en de overige leden van het veterinair tuchtcollege, alsmede voor elk van hen een of meer plaatsvervangers, worden voor de tijd van zes jaren door Onze Ministers benoemd. Zij zijn bij hun aftreden herbenoembaar. Op eigen verzoek kunnen zij door Onze Ministers worden ontslagen. De benoemingstermijn van degene die wordt benoemd ter vervulling van een tussentijdse vacature, eindigt bij het verstrijken van de benoemingstermijn van degene in wiens plaats hij is getreden.   
 2.  Voor de plaatsvervangers, bedoeld in het eerste lid, gelden dezelfde vereisten van benoembaarheid als voor de leden die zij vervangen.   
 3.  Onze Ministers verlenen aan de leden en hun plaatsvervangers ontslag met ingang van de maand, volgend op die waarin de betrokkenen de leeftijd van zeventig jaren hebben bereikt. Zij verlenen aan de leden en hun plaatsvervangers eveneens ontslag bij verlies van een vereiste voor hun benoembaarheid.   
@@ -1634,6 +1707,8 @@ c. een door Onze Ministers te bepalen aantal andere personen als bedoeld in arti
 
 ####Verwantschap leden college
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Tussen de leden, de plaatsvervangende leden, de secretaris en de plaatsvervangend secretaris van het veterinair tuchtcollege mag niet bestaan de verhouding van echtgenoten, geregistreerde partners, bloed- en aanverwanten tot de derde graad ingesloten, een vennootschap of ander duurzaam samenwerkingsverband tot het uitoefenen van de diergeneeskunde of de verhouding van werkgever tot werknemer.   
 2.  Indien het huwelijk of het geregistreerd partnerschap eerst mocht worden aangegaan na de benoeming, zal de jongstbenoemde der echtgenoten of geregistreerde partners zijn ambt niet kunnen behouden.   
 3.  Indien de aanverwantschap eerst mocht zijn ontstaan na de benoeming, zal degene, die haar veroorzaakte, zijn ambt niet kunnen behouden, behoudens door Onze Ministers te verlenen vergunning.   
@@ -1642,11 +1717,15 @@ c. een door Onze Ministers te bepalen aantal andere personen als bedoeld in arti
 
 ####Rechtspositie leden college
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 De [artikelen 46c, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, onderdeel a, en derde lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) voor de leden van de rechterlijke macht zijn van overeenkomstige toepassing ten aanzien van de leden van het college en hun plaatsvervangers.  
 
 ### Artikel  8.20  
 
 ####Ambtsverwaarlozing
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De voorzitter van het veterinair tuchtcollege is bevoegd ambtshalve aan de leden en hun plaatsvervangers, die de waardigheid van hun ambt, hun ambtsbezigheden of ambtsplichten verwaarlozen of die zich schuldig maken aan overtreding van artikel 8.21, de nodige waarschuwing te doen, na hen in de gelegenheid te hebben gesteld om te worden gehoord.   
 2.  De voorzitter van het veterinair beroepscollege, bedoeld in artikel 8.36, heeft gelijke bevoegdheid ten aanzien van de voorzitter van het veterinair tuchtcollege en diens plaatsvervangers.   
@@ -1654,6 +1733,8 @@ De [artikelen 46c, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/am
 ### Artikel  8.21  
 
 ####Geheimhouding
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Leden van het veterinair tuchtcollege en hun plaatsvervangers laten zich op geen enkele wijze uit over enige aangelegenheid, welke door hen behandeld wordt of waarvan zij weten of vermoeden dat deze door hen behandeld zal worden, in enig bijzonder onderhoud of gesprek met partijen of hun raadslieden of gemachtigden, noch nemen daarover enige bijzondere inlichting of schriftelijk stuk aan.   
 2.  Het is leden van het veterinair tuchtcollege en hun plaatsvervangers verboden hetgeen zij als zodanig te weten zijn gekomen verder bekend te maken dan voor de uitoefening van hun functie gevorderd wordt. De verplichting tot geheimhouding geldt niet tegenover ambtenaren van politie of justitie, voor zover mededeling aan hen op grond van een wettelijk voorschrift is vereist.   
@@ -1664,12 +1745,16 @@ De [artikelen 46c, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/am
 
 ####Vergoedingen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  De voorzitter en de leden van het veterinair tuchtcollege en hun plaatsvervangers ontvangen vacatiegeld, alsmede een vergoeding van reis- en verblijfkosten en van verdere onkosten.   
 2.  Bij ministeriële regeling worden regels gesteld ten aanzien van de vergoedingen, bedoeld in het eerste lid.   
 
 ### Artikel  8.23  
 
 ####Voorlopig onderzoek
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Zodra een klacht is ingediend, stelt de voorzitter van het veterinair tuchtcollege een voorlopig onderzoek in. De ambtenaar, bedoeld in artikel 8.15, tweede lid, onderdeel b, verleent daarbij desgevraagd medewerking.   
 2.  Het intrekken van een klacht of de staking van de werkzaamheden door de persoon over wie geklaagd is, heeft geen invloed op de behandeling van de klacht indien: 
@@ -1681,6 +1766,8 @@ b. wanneer de persoon over wie geklaagd is, verklaart de voortzetting van de beh
 ### Artikel  8.24  
 
 ####Samenstelling tuchtcollege bij zitting
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het veterinair tuchtcollege houdt zitting in een samenstelling bestaande uit vijf leden, te weten de voorzitter, alsmede: 
 
@@ -1698,6 +1785,8 @@ b. voor elk van de beroepsgroepen tot welke degenen over wie is geklaagd behoren
 
 ####Openbaarheid behandeling
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  De behandeling van een zaak door het veterinair tuchtcollege geschiedt in een openbare zitting, tenzij het veterinair tuchtcollege om gewichtige redenen beveelt dat de behandeling van de zaak geheel of gedeeltelijk met gesloten deuren zal plaatsvinden. Het bevel daartoe houdt de overwegingen in waarop het steunt.   
 2.  De beslissing in een door het veterinair tuchtcollege behandelde zaak wordt in het openbaar uitgesproken.   
 3.  Tijd en plaats van een openbare zitting of van een openbare uitspraak worden ten minste veertien dagen en ten hoogste een maand tevoren in de Staatscourant bekendgemaakt.   
@@ -1705,6 +1794,8 @@ b. voor elk van de beroepsgroepen tot welke degenen over wie is geklaagd behoren
 ### Artikel  8.26  
 
 ####Horen van beklaagde
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Behoudens in de gevallen, bedoeld in artikel 8.30, eerste lid, neemt het veterinair tuchtcollege geen beslissing aangaande een ingediende klacht dan na verhoor, althans behoorlijke oproeping van de persoon over wie geklaagd is en van de klager.   
 2.  De persoon over wie geklaagd is kan, tenzij het veterinair tuchtcollege beveelt dat hij in persoon zal verschijnen, zich tijdens de zitting doen vertegenwoordigen door een daartoe gemachtigde. Hij kan zich door een raadsman doen bijstaan.   
@@ -1714,6 +1805,8 @@ b. voor elk van de beroepsgroepen tot welke degenen over wie is geklaagd behoren
 ### Artikel  8.27  
 
 ####Getuigen en deskundigen
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het veterinair tuchtcollege kan getuigen en deskundigen oproepen en horen op verzoek van de persoon over wie geklaagd is, op verzoek van de klager of ambtshalve. De oproeping geschiedt bij aangetekende brief. Het is degene die als getuige of deskundige is opgeroepen verboden geen gevolg te geven aan de oproeping.   
 2.  Indien een getuige of een deskundige niet verschijnt op de oproeping, doet de officier van justitie bij de rechtbank te Den Haag op verzoek van het veterinaire tuchtcollege hem dagvaarden. Het is een getuige of deskundige verboden niet te verschijnen na dagvaarding.   
@@ -1726,6 +1819,8 @@ b. voor elk van de beroepsgroepen tot welke degenen over wie is geklaagd behoren
 
 ####Voegen en splitsen van behandeling van klachten
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  De voorzitter van het veterinair tuchtcollege kan ten aanzien van twee of meer met elkaar samenhangende klachten bepalen dat deze ter terechtzitting gezamenlijk worden behandeld.   
 2.  Een gezamenlijke behandeling van klachten als bedoeld in het eerste lid vindt niet plaats ingeval de klachten zijn gericht tegen drie of meer andere personen als bedoeld in artikel 4.1, eerste lid, die op grond van dat artikellid zijn toegelaten, voor zover drie of meer van die personen tot verschillende beroepsgroepen behoren.   
 3.  De voorzitter van het veterinair tuchtcollege kan bepalen de behandeling van gevoegde zaken te splitsen.   
@@ -1734,12 +1829,16 @@ b. voor elk van de beroepsgroepen tot welke degenen over wie is geklaagd behoren
 
 ####Wraking leden tuchtcollege
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Leden van het veterinair tuchtcollege en hun plaatsvervangers kunnen zich verschonen en kunnen worden gewraakt, indien ten aanzien van hen feiten of omstandigheden bestaan waardoor in het algemeen de rechterlijke onpartijdigheid schade zou kunnen lijden.   
 2.  Over wraking of verschoning wordt zo spoedig mogelijk beslist door hen die deel uitmaken van het veterinair tuchtcollege, met uitzondering van degene die wordt gewraakt of die zich wil verschonen. Bij staking van stemmen wordt de wraking onderscheidenlijk de verschoning toegewezen.   
 
 ### Artikel  8.30  
 
 ####Beslissingen veterinair tuchtcollege
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het veterinair tuchtcollege kan naar aanleiding van het voorlopig onderzoek, bedoeld in artikel 8.23, eerste lid, beslissen om, zonder nader onderzoek: 
 
@@ -1755,6 +1854,8 @@ b. het geheel of gedeeltelijk gegrond verklaren van de klacht, al dan niet onder
 ### Artikel  8.31  
 
 ####Tuchtrechtelijke maatregelen
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De maatregelen, bedoeld in artikel 8.30, tweede lid, onderdeel b, zijn: 
 
@@ -1783,11 +1884,15 @@ f. een gehele of gedeeltelijke ontzegging van de bij of krachtens deze wet verle
 
 ####Gegrondverklaring zonder oplegging van een maatregel
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Een maatregel als bedoeld in artikel 8.31, eerste lid, wordt niet opgelegd indien dit door het veterinair tuchtcollege raadzaam wordt geacht in verband met de geringe ernst van het feit, de persoon van de dader of de omstandigheden waaronder het feit is begaan, dan wel omstandigheden die zich nadien hebben voorgedaan.  
 
 ### Artikel  8.33  
 
 ####Nadere eisen aan beslissing
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De beslissing van het veterinair tuchtcollege over een ingediende klacht houdt de overweging in waarop zij steunt en wordt op schrift gesteld.   
 2.  Van de beslissing, bedoeld in het eerste lid, wordt door de secretaris van het veterinair tuchtcollege onverwijld een afschrift gezonden: 
@@ -1803,11 +1908,15 @@ c. aan de ambtenaar, bedoeld in artikel 8.15, tweede lid, onderdeel b.
 
 ####Nietigheid beslissingen college
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Beslissingen van het veterinair tuchtcollege, genomen met een ander aantal personen of in een andere samenstelling, dan bij of krachtens deze wet is voorgeschreven, zijn nietig.  
 
 ### Artikel  8.35  
 
 ####Beroep
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij het veterinair beroepscollege kan beroep worden ingesteld tegen een beslissing van het veterinair tuchtcollege op een ingediende klacht, binnen twee maanden na de dag van verzending van de aangetekende brief, bedoeld in artikel 8.33, tweede lid.   
 2.  Beroep als bedoeld in het eerste lid, kan worden ingesteld door: 
@@ -1824,6 +1933,8 @@ c. de ambtenaar, bedoeld in artikel 8.15, tweede lid, onderdeel b.
 ### Artikel  8.36  
 
 ####Veterinair beroepscollege
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het veterinair beroepscollege is gevestigd in Den Haag.   
 2.  Het veterinair beroepscollege is belast met: 
@@ -1845,6 +1956,8 @@ c. een door Onze Ministers te bepalen aantal andere personen als bedoeld in arti
 
 ####Samenstelling beroepscollege bij zitting
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Het veterinair beroepscollege houdt zitting in een samenstelling bestaande uit vijf leden, te weten de drie rechtsgeleerden waaronder de voorzitter, alsmede: 
 
 a. twee dierenartsen indien de klacht gericht is tegen een dierenarts, en  
@@ -1855,6 +1968,8 @@ b. een dierenarts en een lid van dezelfde beroepsgroep als de beklaagde, indien 
 ### Artikel  8.38  
 
 ####Procedurele aspecten bij beroepszaken
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De artikelen 8.25, 8.26, 8.27, 8.28, 8.29 en 8.34 zijn van overeenkomstige toepassing.   
 2.  De voorzitter kan bepalen dat het veterinaire beroepscollege bij een gezamenlijke behandeling van klachten als bedoeld in artikel 8.28, eerste lid, zitting houdt in een van artikel 8.37, eerste lid, afwijkende samenstelling, onder de volgende voorwaarden: 
@@ -1870,6 +1985,8 @@ c. voor elk van de beroepsgroepen tot welke degenen over wie is geklaagd behoren
 
 ####Beslissingen in beroep
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Het veterinair beroepscollege kan in beroep de volgende beslissingen nemen: 
 
 a. degene die beroep heeft ingesteld niet-ontvankelijk verklaren;  
@@ -1883,6 +2000,8 @@ c. het beroep gegrond verklaren.
 ### Artikel  8.40  
 
 ####Nadere eisen aan beslissingen in beroep
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De beslissing in beroep houdt de overweging in waarop zij steunt en wordt op schrift gesteld.   
 2.  De secretaris van het veterinair beroepscollege zendt van de beslissing onverwijld bij aangetekende brief afschrift: 
@@ -1900,6 +2019,8 @@ d. aan het veterinair tuchtcollege.
 
 ####Acties wegens vertraging
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Het veterinair beroepscollege kan zich de stukken met betrekking tot een zaak die in behandeling is bij het veterinair tuchtcollege, doen overleggen en het tuchtcollege een termijn stellen, binnen welke de beslissing wordt genomen.   
 2.  Indien het veterinair tuchtcollege niet voldoet aan het bepaalde krachtens het eerste lid, kan het veterinair beroepscollege de behandeling van de zaak aan zich trekken en in hoogste ressort beslissen.   
 3.  De artikelen 8.30, 8.31, 8.32, 8.34 en 8.40 zijn van overeenkomstige toepassing ingeval het tweede lid wordt toegepast.   
@@ -1908,12 +2029,16 @@ d. aan het veterinair tuchtcollege.
 
 ####Herstel van opgelegde ontzegging
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  In bijzondere gevallen kan bij koninklijk besluit worden bepaald, het veterinaire tuchtcollege gehoord, dat degene ten aanzien van wie de bij of krachtens deze wet verleende bevoegdheid tot het beroepsmatig verrichten van diergeneeskundige handelingen geheel of gedeeltelijk is ontzegd, op zijn verzoek in die bevoegdheid wordt hersteld.   
 2.  Herstel kan onder beperkingen worden verleend.   
 
 ### Artikel  8.43  
 
 ####Nadere regels voor de goede uitvoering van tuchtrecht
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de rechtsgang ten behoeve van de waarborging van een deugdelijke berechting.  
 
@@ -1937,9 +2062,17 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ####Tuchtrechtelijke handhaving en medebewindsregelgeving
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Bij toepassing van artikel 10.4 kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij die maatregel of regeling genoemde nadere regelen die door het bestuur van het betrokken productschap of bedrijfschap krachtens artikel 10.4, tweede lid, bij verordening als bedoeld in 10.4, derde lid, zijn of worden gesteld, voor zover handelen in strijd met deze nadere regelen als overtreding strafbaar is gesteld.   
 2.  De [artikelen 1, onderdeel b](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [2](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [3 tot en met 6](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [15 tot en met 44, eerste lid](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), en [46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing, met dien verstande dat de instemming, bedoeld in artikel 46 van die wet wordt verkregen van Onze Minister.   
 3.  Onverminderd artikel 8.1, eerste lid, kan bij of krachtens algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.   
+
+### Artikel  8.46  
+
+####Voorschriften in Engelse taal
+
+Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbouworganisatie en de Wereldgezondheidsorganisatie tot stand gebrachte voedselstandaarden, codes voor goede praktijken of richtsnoeren, kan overtreding daarvan ook worden bestraft met een geldboete indien deze voedselstandaarden, codes voor goede praktijken of richtsnoeren in de Engelse taal zijn gesteld en bekend gemaakt.  
 
 ### Hoofdstuk  9  
 
@@ -1980,9 +2113,13 @@ i. de beoordeling van gidsen als bedoeld artikel 8.44.
 
 ####Diergezondheidsfonds
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  9.2  
 
 ####Algemeen
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Er is een Diergezondheidsfonds.   
 2.  Het Diergezondheidsfonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
@@ -1992,6 +2129,8 @@ i. de beoordeling van gidsen als bedoeld artikel 8.44.
 ### Artikel  9.3  
 
 ####Ontvangsten en saldi Diergezondheidsfonds
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De ontvangsten van het Diergezondheidsfonds worden gevormd door: 
 
@@ -2013,6 +2152,8 @@ f. andere ontvangsten.
 ### Artikel  9.4  
 
 ####Betalingen uit Diergezondheidsfonds
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Uit het Diergezondheidsfonds worden betaald: 
 
@@ -2040,15 +2181,21 @@ f. ter zake van andere uitgaven.
 
 ####Tegemoetkomingen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  9.5  
 
 ####Reikwijdte
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Deze paragraaf is van toepassing op maatregelen, getroffen krachtens hoofdstuk 5, paragraaf 2.  
 
 ### Artikel  9.6  
 
 ####Voorwaarden tegemoetkoming
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Uit het Diergezondheidsfonds wordt door Onze Minister aan de houder een tegemoetkoming in de schade uitgekeerd, indien: 
 
@@ -2081,6 +2228,8 @@ d. de te nemen preventieve maatregelen.
 
 ####Gevallen van uitsluiting of vermindering tegemoetkoming
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Onze Minister kan besluiten dat, in afwijking van het bepaalde in artikel 9.6, geen tegemoetkoming als bedoeld in artikel 9.6 wordt toegekend, dan wel dat de tegemoetkoming op een lager bedrag wordt bepaald, voor zover: 
 
 a. het optreden van de dierziekte, de zoönose of het ziekteverschijnsel mede aan de betrokkene te wijten is;  
@@ -2092,6 +2241,8 @@ b. de houder aan de bij of krachtens artikel 2.2 gestelde regels of de krachtens
 ### Artikel  9.8  
 
 ####Hoogte tegemoetkoming
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De tegemoetkoming in de schade bedraagt: 
 
@@ -2128,6 +2279,8 @@ c. de waarde en de motivering ervan.
 
 ####Deskundige waardevaststelling
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de vakbekwaamheid van deskundigen als bedoeld in artikel 9.8, vijfde lid, en zesde lid, onderdeel d.   
 2.  De regels, bedoeld in het eerste lid, hebben in elk geval betrekking op de algemene kennis op het gebied van waardevaststellingen alsmede praktijkvaardigheden.   
 3.  Bij ministeriële regeling worden regels gesteld over de vergoeding van de deskundige, bedoeld in artikel 9.8, vijfde lid, en zesde lid, onderdeel d.   
@@ -2137,17 +2290,23 @@ c. de waarde en de motivering ervan.
 
 ####Tegemoetkoming schade gebouwen, terreinen, voorwerpen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Indien door het vernietigen of onschadelijk maken van dieren, producten of voorwerpen schade wordt toegebracht aan gebouwen, terreinen of voorwerpen, wordt door Onze Minister aan de houder of gebruiker van deze gebouwen, terreinen of voorwerpen uit het Diergezondheidsfonds een tegemoetkoming in de schade uitgekeerd.  
 
 ### Artikel  9.11  
 
 ####Tegemoetkoming schade bijzondere gevallen
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Een tegemoetkoming in de schade veroorzaakt door de toepassing van maatregelen, als bedoeld in hoofdstuk 5, paragraaf 2, kan, voor zover voor deze schade niet op grond van de artikelen 9.6 of 9.10 een tegemoetkoming kan worden gegeven, in door Onze Minister te bepalen bijzondere gevallen geheel of gedeeltelijk uit het Diergezondheidsfonds worden betaald.  
 
 ### Artikel  9.12  
 
 ####Vergoeding kosten verzorging
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Voor de periode tussen het moment waarop aan de houder is medegedeeld dat een maatregel als bedoeld in hoofdstuk 5, paragraaf 2, wordt toegepast en het moment van toepassen van deze maatregel, kan door onze Minister een vergoeding worden betaald aan de houder voor de kosten die hij maakt bij de verzorging van de dieren waarop de maatregel wordt toegepast.   
 2.  Bij ministeriële regeling worden regels gesteld over: 
@@ -2186,13 +2345,6 @@ b. het aanwijzen van ambtenaren of personen die het onderzoek verrichten, en
 c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.     
 2.  Bij algemene maatregel van bestuur kunnen voor de toepassing van hoofdstuk 3 de [artikelen 8 tot en met 13a van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van [artikel 13 van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) is onverminderd [artikel 18, tweede lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md).   
 
-### Artikel  10.3  
-
-####Bevoegde bestuursrechter
-
-1.  Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in artikel 8.7, kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten als bedoeld in artikel 8.7, de rechtbank te Rotterdam bevoegd.   
-
 ### Artikel  10.4  
 
 ####Medebewind
@@ -2214,12 +2366,16 @@ c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.
 
 #### [Wet op de dierproeven](../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) 
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 1.  Deze wet treedt niet in hetgeen bij of krachtens de [Wet op de dierproeven](../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) is bepaald, met dien verstande dat onverminderd van kracht blijft hetgeen is bepaald bij of krachtens de artikelen 2.2, 2.6 en 2.23.   
 2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het verrichten van dierproeven of proeven in de zin van de [Wet op de dierproeven](../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) niet aangemerkt als het verrichten van diergeneeskundige handelingen, tenzij deze handelingen plaatsvinden op verzoek van de houder van het desbetreffende dier met het oog op dat dier zelf.   
 
 ### Artikel  10.7  
 
 #### [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md) 
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 In hetgeen bij of krachtens deze wet is of wordt voorzien, wordt niet voorzien bij of krachtens de [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md).  
 
@@ -2272,6 +2428,12 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ####Wijziging andere wetten
 
+### Artikel  11.1a  
+
+####Wijziging [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
+
+Wijzigt de Algemene wet bestuursrecht.   
+
 ### Artikel  11.2  
 
 ####Wijziging [Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md)
@@ -2281,6 +2443,8 @@ Wijzigt het Burgerlijk Wetboek Boek 3.
 ### Artikel  11.3  
 
 ####Wijziging [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Flora- en faunawet.   
 
@@ -2294,11 +2458,15 @@ Wijzigt de Gezondheids- en welzijnswet voor dieren.
 
 ####Wijziging [Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md)
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Wijzigt de Landbouwkwaliteitswet.   
 
 ### Artikel  11.6  
 
 ####Wijziging [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md)
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Visserijwet 1963.   
 
@@ -2324,17 +2492,15 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ####Wijziging [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md)
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 Wijzigt het Wetboek van Strafvordering.   
-
-### Artikel  11.13  
-
-####Wijziging [bijlage Wet bestuursrechtspraak bedrijfsorganisatie](../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md)
-
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.   
 
 ### Artikel  11.14  
 
 ####Overgangsrecht inwerkingtreding wijziging van de [Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en enige andere wetten
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt deze wet.   
 

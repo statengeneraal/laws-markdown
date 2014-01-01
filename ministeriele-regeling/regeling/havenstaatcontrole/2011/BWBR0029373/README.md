@@ -3,7 +3,7 @@
 ##Regeling havenstaatcontrole 2011
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131), richtlijn nr. 1999/95/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de handhaving van de bepalingen inzake de arbeidstijd van zeevarenden aan boord van schepen die havens in de Unie aandoen (PbEG L 14), richtlijn 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van richtlijn 93/75/EEG van de Raad (PbEU L 208), richtlijn nr. 2008/106/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 inzake het minimumopleidingsniveau van zeevarenden (PbEU L 323), verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L 115), verordening (EG) nr. 536/2008 van de Europese Commissie van 13 juni 2008 ter uitvoering van artikel 6, derde lid, en 7 van Verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad houdende een verbod op organische tinverbindingen op schepen en tot wijziging van die verordening (PbEU L 156), verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129) en de [artikelen 5](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), [29](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) en [30 van de Wet havenstaatcontrole](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md).
+Gelet op richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131), richtlijn nr. 1999/95/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de handhaving van de bepalingen inzake de arbeidstijd van zeevarenden aan boord van schepen die havens in de Unie aandoen (PbEG L 14), richtlijn 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van richtlijn 93/75/EEG van de Raad (PbEU L 208), richtlijn nr. 2008/106/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 inzake het minimumopleidingsniveau van zeevarenden (PbEU L 323), verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L 115), verordening (EG) nr. 536/2008 van de Europese Commissie van 13 juni 2008 ter uitvoering van artikel 6, derde lid, en 7 van Verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad houdende een verbod op organische tinverbindingen op schepen en tot wijziging van die verordening (PbEU L 156), verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129) en de artikelen 5, 29 en 30 van de Wet havenstaatcontrole.
 Besluit:     
 ### §  1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *controle:* controle als bedoeld in [artikel 4 van de Wet havenstaatcontrole](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md);  
+a. *controle:* controle als bedoeld in artikel 4 van de Wet havenstaatcontrole;  
 
 b. *nachttijd:* het tijdvak tussen 18:00 uur en 08:00 uur in de periode vanaf de laatste zondag van de maand maart tot en met de laatste zaterdag van de maand oktober, en het tijdvak tussen 17:00 uur en 08:00 uur in de periode vanaf de laatste zondag van de maand oktober tot en met de laatste zaterdag van de maand maart;  
 
@@ -33,11 +33,11 @@ i. *verordening (EG) 725/2004:*verordening (EG) nr. 725/2004 van het Europees Pa
 
 j. *verordening (EG) 782/2003:*verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L 115);  
 
-k. *wet:*[Wet havenstaatcontrole](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md).    
+k. *wet:*Wet havenstaatcontrole.    
 
 ### Artikel  2  
 
-De aanwijzing, bedoeld in [artikel 1, onder l, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) kan plaatsvinden indien de desbetreffende ambtenaar voldoet aan ten minste de eisen van bijlage XI van de richtlijn.  
+De aanwijzing, bedoeld in artikel 1, onder l, van de wet kan plaatsvinden indien de desbetreffende ambtenaar voldoet aan ten minste de eisen van bijlage XI van de richtlijn.  
 
 ### §  2  
 
@@ -58,7 +58,7 @@ b. schepen met een normaal risicoprofiel, zoals vastgesteld overeenkomstig artik
 c. schepen met een laag risicoprofiel, zoals vastgesteld overeenkomstig artikel 10 van richtlijn 2009/16/EG, die in de laatste 36 maanden niet zijn geïnspecteerd in een haven binnen de Europese Unie of gebied dat onder het MOU valt; en  
 
 d. schepen waarvoor dwingende factoren gelden als bedoeld in bijlage I, deel II, punt 2A, van richtlijn 2009/16/EG.     
-2.  De ambtenaren van de Inspectie Leefomgeving en Transport voeren voorts inspecties dan wel contoles uit van schepen als bedoeld in [artikel 11, vijfde lid, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md).   
+2.  De ambtenaren van de Inspectie Leefomgeving en Transport voeren voorts inspecties dan wel contoles uit van schepen als bedoeld in artikel 11, vijfde lid, van de wet.   
 
 ### Artikel  5  
 
@@ -86,16 +86,16 @@ b. binnen 15 dagen in een andere haven in de Europese Unie of in het onder het M
 
 ### Artikel  8  
 
-1.  Voor de toepassing van [artikel 6, eerste lid](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), wordt niet als een gemiste inspectie dan wel controle aangemerkt, mits deze wordt geregistreerd in de inspectiedatabank: 
+1.  Voor de toepassing van artikel 6, eerste lid, wordt niet als een gemiste inspectie dan wel controle aangemerkt, mits deze wordt geregistreerd in de inspectiedatabank: 
 
-a. de op grond van [artikel 7, eerste lid](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), uitgestelde inspectie dan wel controle van een schip van prioriteitsklasse I;  
+a. de op grond van artikel 7, eerste lid, uitgestelde inspectie dan wel controle van een schip van prioriteitsklasse I;  
 
 b. de inspectie dan wel controle van een schip van prioriteitsklasse I die niet is uitgevoerd omdat: 
 
 1°. dit naar het oordeel van de ambtenaar van de Inspectie Leefomgeving en Transport een gevaar oplevert voor de veiligheid van de inspecteurs, het schip, de bemanning ervan of de haven, of voor het mariene milieu; of  
 
 2°. het schip uitsluitend gedurende de nachttijd een haven aandoet.       
-2.  Tevens wordt voor de toepassing van [artikel 6, eerste lid](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), niet als een gemiste inspectie dan wel controle aangemerkt de inspectie dan wel controle van een schip in een ankerplaats onder jurisdictie van een haven die niet is uitgevoerd, indien: 
+2.  Tevens wordt voor de toepassing van artikel 6, eerste lid, niet als een gemiste inspectie dan wel controle aangemerkt de inspectie dan wel controle van een schip in een ankerplaats onder jurisdictie van een haven die niet is uitgevoerd, indien: 
 
 1°. het schip binnen 15 dagen in een andere haven in de Europese Unie of in het onder het MOU vallende gebied wordt geïnspecteerd overeenkomstig bijlage I van richtlijn 2009/16/EG;  
 
@@ -112,8 +112,8 @@ a. schepen met een hoog risicoprofiel;
 
 b. passagiersschepen, olietankers, gas- of chemicaliëntankers of bulkschepen, ouder dan 12 jaar; en  
 
-c. schepen als bedoeld in [artikel 11, vijfde lid, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md).     
-2.  Als het schip niet wordt geselecteerd voor een uitgebreide inspectie, deelt een ambtenaar van de Inspectie Leefomgeving en Transport dit na ontvangst van de melding, bedoeld in [artikel 5 van de Regeling meldingen en communicatie scheepvaart](../../../../../ministeriele-regeling/regeling/meldingen/en/communicatie/scheepvaart/BWBR0031567/README.md).   
+c. schepen als bedoeld in artikel 11, vijfde lid, van de wet.     
+2.  Als het schip niet wordt geselecteerd voor een uitgebreide inspectie, deelt een ambtenaar van de Inspectie Leefomgeving en Transport dit na ontvangst van de melding, bedoeld in artikel 5 van de Regeling meldingen en communicatie scheepvaart, aan het schip mee.   
 
 ### Artikel  10  
 
@@ -149,7 +149,7 @@ a. ten aanzien waarvan een dwingende factor als bedoeld in bijlage I, deel II, p
 b. ten aanzien waarvan een onverwachte factor als bedoeld in bijlage I, deel II, punt 2b geldt, indien geselecteerd voor inspectie.     
 5.  In aanvulling op de in bijlage IV van richtlijn 2009/16/EG genoemde certificaten en documenten, inspecteren dan wel controleren de ambtenaren van de Inspectie Leefomgeving en Transport de documenten genoemd in artikel 4, eerste lid, van richtlijn 1999/95/EG en de certificaten en documenten genoemd in bijlage 4 bij het Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44).   
 6.  Bij een inspectie, meer gedetailleerde inspectie, uitgebreide inspectie of controle volgen de ambtenaren van de Inspectie Leefomgeving en Transport de richtsnoeren en procedures, bedoeld in Bijlage VI van de richtlijn, alsmede de procedures, bedoeld in artikel 4, tweede lid, van richtlijn 1999/95/EG en in artikel 23 van richtlijn 2008/106/EG.   
-7.  Gegronde redenen voor een meer gedetailleerde inspectie als bedoeld in [artikel 3, tweede lid, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) zijn in ieder geval de redenen genoemd in bijlage V van richtlijn 2009/16/EG alsmede de omstandigheden, bedoeld in artikel 4, tweede lid, van richtlijn nr. 1999/95/EG.   
+7.  Gegronde redenen voor een meer gedetailleerde inspectie als bedoeld in artikel 3, tweede lid, van de wet zijn in ieder geval de redenen genoemd in bijlage V van richtlijn 2009/16/EG alsmede de omstandigheden, bedoeld in artikel 4, tweede lid, van richtlijn nr. 1999/95/EG.   
 
 ### Artikel  11  
 
@@ -180,12 +180,12 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport moet zich ervan vergewi
 
 ### Artikel  14  
 
-Het inspectierapport, bedoeld in [artikel 3, derde lid, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), is opgesteld conform bijlage IX van de richtlijn.  
+Het inspectierapport, bedoeld in artikel 3, derde lid, van de wet, is opgesteld conform bijlage IX van de richtlijn.  
 
 ### Artikel  15  
 
-1.  Indien een schip is aangehouden legt de ambtenaar van de Inspectie Leefomgeving en Transport bij de kennisgeving ingevolge [artikel 8, derde lid, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) tevens het inspectierapport over. Bovendien doet hij, indien zulks van belang is, ook mededeling van de aanhouding, onder overlegging van het inspectierapport, aan de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de classificatiecertificaten of de certificaten die namens de vlaggenstaat overeenkomstig de internationale verdragen worden afgegeven.   
-2.  Indien een schip is aangehouden wegens overtreding van de internationale voorschriften inzake de arbeids- en rusttijden volgens het verdrag, genoemd in [artikel 1, onderdeel b, onder 6o van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), stelt de ambtenaar van de Inspectie Leefomgeving en Transport, naast de personen en instanties, genoemd in [artikel 8, derde lid, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), tevens de exploitant van het betrokken schip daarvan in kennis en vermeldt in de kennisgeving tevens welke vereiste corrigerende maatregelen noodzakelijk zijn.   
+1.  Indien een schip is aangehouden legt de ambtenaar van de Inspectie Leefomgeving en Transport bij de kennisgeving ingevolge artikel 8, derde lid, van de wet tevens het inspectierapport over. Bovendien doet hij, indien zulks van belang is, ook mededeling van de aanhouding, onder overlegging van het inspectierapport, aan de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de classificatiecertificaten of de certificaten die namens de vlaggenstaat overeenkomstig de internationale verdragen worden afgegeven.   
+2.  Indien een schip is aangehouden wegens overtreding van de internationale voorschriften inzake de arbeids- en rusttijden volgens het verdrag, genoemd in artikel 1, onderdeel b, onder 6o van de wet, stelt de ambtenaar van de Inspectie Leefomgeving en Transport, naast de personen en instanties, genoemd in artikel 8, derde lid, van de wet, tevens de exploitant van het betrokken schip daarvan in kennis en vermeldt in de kennisgeving tevens welke vereiste corrigerende maatregelen noodzakelijk zijn.   
 3.  Op de opheffing van de aanhouding is het eerste lid van overeenkomstige toepassing.   
 4.  Indien een schip, aangehouden in een andere havenstaat dan Nederland, in Nederland bij een reparatiewerf zal worden gerepareerd, stelt een ambtenaar van de Inspectie Leefomgeving en Transport de bevoegde autoriteit van de desbetreffende havenstaat in kennis van de maatregelen die in Nederland zijn genomen.   
 5.  Indien het in het vierde lid bedoelde schip zich niet naar de afgesproken reparatiewerf begeeft, waarschuwt een ambtenaar van de Inspectie Leefomgeving en Transport onmiddellijk de bevoegde instanties van alle andere bij het MOU aangesloten havenstaten.   
@@ -200,11 +200,11 @@ a. het uitstel van een inspectie, bedoeld in artikel 7;
 b. de reden op grond waarvan wordt afgezien van een inspectie op grond van artikel 7; en  
 
 c. de gegevens in verband met inspecties die op grond van de wet zijn uitgevoerd, zodra het inspectieverslag is voltooid of de eventuele aanhouding van een schip is opgeheven.     
-2.  De voor de haven van aankomst van het schip aangewezen plaatselijk bevoegde autoriteit, bedoeld in [artikel 2, tweede lid, van de Regeling meldingen en communicatie scheepvaart](../../../../../ministeriele-regeling/regeling/meldingen/en/communicatie/scheepvaart/BWBR0031567/README.md), geeft, namens de betreffende havenbeheerder, die op grond van het eerste lid, onderdeel a, van die regeling als bevoegde autoriteit is aangewezen, onverwijld door aan SafeSeaNet, het communautaire systeem voor de uitwisseling van maritieme informatie als bedoeld in artikel 3, onder s, van richtlijn 2002/59/EG: 
+2.  De voor de haven van aankomst van het schip aangewezen plaatselijk bevoegde autoriteit, bedoeld in artikel 2, tweede lid, van de Regeling meldingen en communicatie scheepvaart, geeft, namens de betreffende havenbeheerder, die op grond van het eerste lid, onderdeel a, van die regeling als bevoegde autoriteit is aangewezen, onverwijld door aan SafeSeaNet, het communautaire systeem voor de uitwisseling van maritieme informatie als bedoeld in artikel 3, onder s, van richtlijn 2002/59/EG: 
 
 a. de werkelijke aankomst- en vertrektijd van elk schip dat een haven aandoet, alsook een identificatiecode van de betreffende haven; en  
 
-b. de melding, bedoeld in [artikel 5, van de Regeling meldingen en communicatie scheepvaart](../../../../../ministeriele-regeling/regeling/meldingen/en/communicatie/scheepvaart/BWBR0031567/README.md).     
+b. de melding, bedoeld in artikel 5, van de Regeling meldingen en communicatie scheepvaart.     
 3.  De ambtenaren van de Inspectie Leefomgeving en Transport valideren de gegevens, bedoeld in het eerste lid, onderdeel c, binnen 72 uur gevalideerd met het oog op de publicatie ervan.   
 4.  De gegevens, bedoeld in het tweede lid, onderdeel aworden aan de inspectiedatabank bezorgd via het communautaire systeem voor de uitwisseling van maritieme informatie ‘SafeSeaNet’ als bedoeld in artikel 3, onder s, van richtlijn 2002/59/EG.   
 
@@ -214,20 +214,20 @@ De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen be
 
 ### Artikel  18  
 
-1.  Indien de ambtenaar van de Inspectie Leefomgeving en Transport gegronde redenen heeft om aan te nemen dat een schip niet voldoet aan verordening (EG) 725/2004 doet deze daarvan mededeling aan de burgemeester en de bevoegde autoriteit bedoeld in [artikel 2, eerste lid, onderdeel c, van de Havenbeveiligingswet](../../../../../wet/havenbeveiligingswet/BWBR0016991/README.md).   
+1.  Indien de ambtenaar van de Inspectie Leefomgeving en Transport gegronde redenen heeft om aan te nemen dat een schip niet voldoet aan verordening (EG) 725/2004 doet deze daarvan mededeling aan de burgemeester en de bevoegde autoriteit bedoeld in artikel 2, eerste lid, onderdeel c, van de Havenbeveiligingswet.   
 2.  De bevoegde autoriteit, bedoeld in het eerste lid, onderwerpt het desbetreffende schip vervolgens aan een van de controlemaatregelen, bedoeld in bijlage I, voorschrift 9, paragraaf 1.3, van verordening (EG) nr. 725/2004.   
 
 ### Artikel  19  
 
-1.  Indien een havenbeheerder, die op grond van [artikel 2, eerste lid, onderdeel a, van de Regeling meldingen en communicatie scheepvaart](../../../../../ministeriele-regeling/regeling/meldingen/en/communicatie/scheepvaart/BWBR0031567/README.md), als bevoegde autoriteit is aangewezen, bij de uitoefening van zijn normale taak opmerkt dat een schip tekortkomingen heeft die afbreuk kunnen doen aan de veiligheid van het schip of een onredelijk groot gevaar opleveren voor schade aan het mariene milieu, stelt hij een ambtenaar van de Inspectie Leefomgeving en Transport daarvan onmiddellijk in kennis.   
-2.  Voorts deelt een havenbeheerder, die op grond van [artikel 2, eerste lid, onderdeel a, van de Regeling meldingen en communicatie scheepvaart](../../../../../ministeriele-regeling/regeling/meldingen/en/communicatie/scheepvaart/BWBR0031567/README.md), als bevoegde autoriteit is aangewezen, aan een ambtenaar van de Inspectie Leefomgeving en Transport informatie mee betreffende: 
+1.  Indien een havenbeheerder, die op grond van artikel 2, eerste lid, onderdeel a, van de Regeling meldingen en communicatie scheepvaart, als bevoegde autoriteit is aangewezen, bij de uitoefening van zijn normale taak opmerkt dat een schip tekortkomingen heeft die afbreuk kunnen doen aan de veiligheid van het schip of een onredelijk groot gevaar opleveren voor schade aan het mariene milieu, stelt hij een ambtenaar van de Inspectie Leefomgeving en Transport daarvan onmiddellijk in kennis.   
+2.  Voorts deelt een havenbeheerder, die op grond van artikel 2, eerste lid, onderdeel a, van de Regeling meldingen en communicatie scheepvaart, als bevoegde autoriteit is aangewezen, aan een ambtenaar van de Inspectie Leefomgeving en Transport informatie mee betreffende: 
 
-1°. schepen die niet hebben voldaan aan de voorschriften inzake meldingen, bedoeld in [artikel 12a van de Wet voorkoming verontreiniging door schepen](../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), de [artikelen 2](../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) of [4 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en de daarop berustende bepalingen, en in voorkomend geval, verordening (EG) 725/2004;  
+1°. schepen die niet hebben voldaan aan de voorschriften inzake meldingen, bedoeld in artikel 12a van de Wet voorkoming verontreiniging door schepen, de artikelen 2 of 4 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart en de daarop berustende bepalingen, en in voorkomend geval, verordening (EG) 725/2004;  
 
-2°. schepen die zijn uitgevaren zonder te hebben voldaan aan [artikelen 12b](../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), [12c](../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) en [12d van de Wet voorkoming verontreiniging door schepen](../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md); en  
+2°. schepen die zijn uitgevaren zonder te hebben voldaan aan artikelen 12b, 12c en 12d van de Wet voorkoming verontreiniging door schepen; en  
 
 3°. schepen die om beveiligingsredenen de toegang tot een haven is geweigerd of zijn verplicht de haven te verlaten.     
-3.  Bij de melding van tekortkomingen van het schip door de loods op grond van [artikel 24 Besluit certificaatloodsen](../../../../../AMvB/besluit/certificaatloodsen/BWBR0004865/README.md) of [artikel 4 Voorschriftenbesluit registerloodsen](../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md) en bij de in kennisstelling van tekortkomingen van het schip op grond van het eerste lid, worden, zo mogelijk elektronisch, de volgende gegevens verstrekt: 
+3.  Bij de melding van tekortkomingen van het schip door de loods op grond van artikel 2.6, onderdeel b, of 3.6, onderdeel b, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren en bij de in kennisstelling van tekortkomingen van het schip op grond van het eerste lid, worden, zo mogelijk elektronisch, de volgende gegevens verstrekt: 
 
 1°. scheepsinformatie (naam, IMO-identificatienummer, roepletter en vlaggenstaat);  
 
@@ -241,8 +241,8 @@ De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen be
 
 ### Artikel  20  
 
-1.  De Inspecteur-Generaal behandelt namens de minister de klachten als bedoeld in [artikel 1, onderdeel p, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md). De Inspecteur-Generaal kan deze bevoegdheid mandateren aan de ambtenaren van de Inspectie Leefomgeving en Transport.   
-2.  Een klacht als bedoeld in [artikel 1, onderdeel p, van de wet](../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) wordt onmiddellijk aan een eerste toets onderworpen, teneinde vast te stellen of de klacht met redenen is omkleed.   
+1.  De Inspecteur-Generaal behandelt namens de minister de klachten als bedoeld in artikel 1, onderdeel p, van de wet. De Inspecteur-Generaal kan deze bevoegdheid mandateren aan de ambtenaren van de Inspectie Leefomgeving en Transport.   
+2.  Een klacht als bedoeld in artikel 1, onderdeel p, van de wet wordt onmiddellijk aan een eerste toets onderworpen, teneinde vast te stellen of de klacht met redenen is omkleed.   
 3.  Naar aanleiding van met redenen omklede klachten worden passende maatregelen genomen. In ieder geval worden alle direct bij de klacht betrokken personen de gelegenheid geboden hun standpunt kenbaar te maken.   
 4.  De identiteit van de indiener van de klacht wordt niet bekendgemaakt aan de kapitein of de eigenaar van het betrokken schip. Bij elk gesprek met de bemanningsleden wordt vertrouwelijkheid gegarandeerd.   
 4.  Indien de klacht ongegrond wordt geacht, wordt de indiener van de klacht van deze beslissing en de motivering daarvan op de hoogte gesteld.   
@@ -272,7 +272,7 @@ Wijzigt de Regeling communicatie en loodsaanvragen zeevaart.
 
 ### Artikel  25  
 
-De [Regeling havenstaatcontrole](../../../../../ministeriele-regeling/regeling/havenstaatcontrole/BWBR0009630/README.md) wordt ingetrokken.  
+De Regeling havenstaatcontrole wordt ingetrokken.  
 
 ### Artikel  26  
 
