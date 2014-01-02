@@ -4,15 +4,15 @@
 
 De Staatssecretaris van Financiën,  
 Gelet op de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [15, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [artikel XI, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md).
-Besluit:    
+Besluit:   
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [7, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [15, tweede en derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, achtste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24b, tweede en vijfde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [37f van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md).  
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [7, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [15, tweede en derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, achtste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24b, tweede en vijfde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [37f van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](../../../../../wet/invoeringswet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0007310/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
-In deze regeling wordt verstaan onder:   wet:  [Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);    belasting:  motorrijtuigenbelasting.     
+In deze regeling wordt verstaan onder: wet:[Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);belasting: motorrijtuigenbelasting. 
 
 ### Artikel  3  
 
@@ -27,8 +27,8 @@ In deze regeling wordt verstaan onder:   wet:  [Wet op de motorrijtuigenbelastin
 
 a. indien het motorrijtuig niet is voorzien van een dubbele cabine: ten hoogste 115 cm achter het achterste punt van het stuurwiel;  
 
-b. indien het motorrijtuig is voorzien van een dubbele cabine: direct achter de achterste zitplaatsen.     
-9.  In afwijking in zoverre van het achtste lid, onderdeel b, wordt, indien een deel van de cabine van een motorrijtuig met dubbele cabine bij de laadruimte wordt betrokken waardoor de vaste wand niet geheel in een hoek van 90° ten opzichte van de lengteas is geplaatst, voor het meten van de in dit artikel genoemde afstanden uitgegaan van de plaats van het meest naar achteren gelegen bevestigingspunt van de aanwezige wand.   
+b. indien het motorrijtuig is voorzien van een dubbele cabine: direct achter de achterste zitplaatsen.    
+9. In afwijking in zoverre van het achtste lid, onderdeel b, wordt, indien een deel van de cabine van een motorrijtuig met dubbele cabine bij de laadruimte wordt betrokken waardoor de vaste wand niet geheel in een hoek van 90° ten opzichte van de lengteas is geplaatst, voor het meten van de in dit artikel genoemde afstanden uitgegaan van de plaats van het meest naar achteren gelegen bevestigingspunt van de aanwezige wand. 
 10.  De vaste wand die de cabine van de laadruimte scheidt dient: 
 
 a. te zijn vervaardigd uit ondoorzichtig en vormvast materiaal, waarbij één of meerdere vaste ramen naast elkaar met een hoogte van maximaal 40 cm zijn toegestaan, alsmede voorzieningen ten behoeve van de veiligheid;  
@@ -41,7 +41,7 @@ c. uit één geheel of uit diverse op onverbrekelijke wijze met elkaar verbonden
 
 2°. het gebruik van de bestelauto; of  
 
-3°. de veiligheid;   mits deze voorzieningen niet groter zijn dan voor het specifieke doel noodzakelijk.  
+3°. de veiligheid;   mits deze voorzieningen niet groter zijn dan voor het specifieke doel noodzakelijk. 
 
 d. zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.     
 11.  Een laadruimte is niet voorzien van zijruiten indien de zijruiten geheel zijn verwijderd en zijn vervangen door niet uit glas bestaande panelen uit één stuk van ondoorzichtig en vormvast materiaal. De panelen dienen zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.   
@@ -49,7 +49,7 @@ d. zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carros
 
 ### Artikel  3a  
 
-[Artikel 7, tweede lid, eerste volzin, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) is van toepassing voor motorrijtuigen als bedoeld in [artikel 1, onderdeel a, van de Regeling uitzondering kentekenplicht voor leden aangewezen krijgsmacht of civiele dienst](../../../../../ministeriele-regeling/regeling/uitzondering/kentekenplicht/krijgsmacht/of/civiele/dienst/BWBR0007056/README.md).  
+[Artikel 7, tweede lid, eerste volzin, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) is van toepassing voor motorrijtuigen als bedoeld in [artikel 1, onderdeel a, van de Regeling uitzondering kentekenplicht voor leden aangewezen krijgsmacht of civiele dienst](../../../../../ministeriele-regeling/regeling/uitzondering/kentekenplicht/krijgsmacht/of/civiele/dienst/BWBR0007056/README.md). 
 
 ### Artikel  4  
 
@@ -60,12 +60,12 @@ a. een tijdvak als bedoeld in [artikel 11, eerste lid, van de wet](../../../../.
 b. een tijdvak als bedoeld in [artikel 13, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
 2.  Bij toepassing van het eerste lid dient de belasting te zijn betaald binnen veertien dagen na de aanvang van het tijdvak, doch uiterlijk vóór het door de inspecteur daarvoor bepaalde tijdstip.   
 
-### Artikel  4a  
+### Artikel 4a  
 
 1.  Onder een niet-opvouwbare rolstoel wordt voor de toepassing van [artikel 24a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) mede verstaan een ander in verband met de handicap noodzakelijk hulpmiddel van een dusdanige omvang of een dusdanig gewicht, dat de gehandicapte, rekening houdend met zijn specifieke handicap, voor zijn vervoer is aangewezen op het gebruik van een bestelauto.   
-2.  Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 24a, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.   
+2.  Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 24a, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.  
 
-### Artikel  4b  
+### Artikel 4b  
 
 1.  De in [artikel 24b, tweede lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) bedoelde periode van terbeschikkingstelling van een bestelauto bedraagt vier weken, verminderd met voorafgaande aansluitende periodes van terbeschikkingstelling van enige bestelauto door de ondernemer aan dezelfde persoon.   
 2.  Indien een ondernemer een bestelauto waarvoor de belasting wordt geheven op de voet van [artikel 24b van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) ter beschikking stelt aan een derde, neemt hij in zijn administratie de volgende gegevens en bescheiden op: 
@@ -87,26 +87,26 @@ d. dat hij bij een wijziging in deze omstandigheden onmiddellijk de ondernemer d
 a. het BTW-identificatienummer van degene aan wie de bestelauto ter beschikking wordt gesteld, en een afdruk van de verificatie van dit nummer uit het Europese datasysteem van BTW-identificatienummers; en  
 
 b. de in het derde lid bedoelde verklaring van degene aan wie de bestelauto ter beschikking wordt gesteld.     
-5.  Indien de in het derde lid bedoelde verklaring niet langer juist is, brengt degene aan wie de bestelauto ter beschikking wordt gesteld onmiddellijk de ondernemer die de bestelauto aan hem ter beschikking stelt daarvan op de hoogte, onder intrekking van de eerder afgegeven verklaring.   
+5.  Indien de in het derde lid bedoelde verklaring niet langer juist is, brengt degene aan wie de bestelauto ter beschikking wordt gesteld onmiddellijk de ondernemer die de bestelauto aan hem ter beschikking stelt daarvan op de hoogte, onder intrekking van de eerder afgegeven verklaring.  
 
-### Artikel  4c  
+###Artikel 4c  
 
-1.  De houder van een personenauto, een bestelauto, een motorrijwiel of een autobus waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.   
-2.  De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto, bestelauto en autobus en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.   
-3.  De inspecteur verleent de vergunning bij beschikking.   
+1.   De houder van een personenauto, een bestelauto, een motorrijwiel of een autobus waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.   
+2.   De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto, bestelauto en autobus en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.   
+3.   De inspecteur verleent de vergunning bij beschikking.   
 4.  De inspecteur wijst de aanvraag af indien hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.   
-5.  De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.   
+5.   De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.   
 6.  De vergunning eindigt: 
 
 indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en  
 
-door opzegging door de aanvrager.     
+door opzegging door de aanvrager.      
 7.  Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.   
 
 ### Artikel  5a  
 
-1.  Het verzoek om toepassing van [artikel 37a, tweede lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) gaat vergezeld van een afschrift van de beschikking, bedoeld in [artikel 15 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), onderscheidenlijk in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
-2.  Het verzoek om toepassing van [artikel 37b, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) gaat vergezeld van 
+1.   Het verzoek om toepassing van [artikel 37a, tweede lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) gaat vergezeld van een afschrift van de beschikking, bedoeld in [artikel 15 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), onderscheidenlijk in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
+2.   Het verzoek om toepassing van [artikel 37b, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) gaat vergezeld van 
 
 a. afschriften van de kentekenbewijzen van de vrachtauto’s en aanhangwagens die deel uit zullen maken van het bedrijfsvoertuigenpark;  
 
@@ -114,16 +114,16 @@ b. een schriftelijke verklaring van de houder dat geen van de vrachtauto’s die
 
 c. een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.     
 
-### Artikel  6  
+###Artikel 6 
 
-1.  Deze regeling treedt in werking met ingang van 1 april 1995.   
-2.  Deze regeling kan worden aangehaald als Uitvoeringsregeling motorrijtuigenbelasting 1994.   
+1. Deze regeling treedt in werking met ingang van 1 april 1995.
+2. Deze regeling kan worden aangehaald als Uitvoeringsregeling motorrijtuigenbelasting 1994.
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.   
 
 De 
 Staatssecretaris van Financiën, 
-W.A.F.G.Vermeend   
+W.A.F.G. Vermeend    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage.  
+Ligt ter inzage.

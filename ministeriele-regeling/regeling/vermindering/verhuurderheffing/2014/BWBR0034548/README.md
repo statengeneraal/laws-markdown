@@ -13,17 +13,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *belastingplichtige:* belastingplichtige als bedoeld in [artikel 1.4 van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md);  
+a.  *belastingplichtige:* belastingplichtige als bedoeld in [artikel 1.4 van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md);  
 
-b. *omgevingsvergunning:* omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onderdelen a en c, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+b.  *omgevingsvergunning:* omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onderdelen a en c, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
-c. *onttrekkingsvergunning:* onttrekkingsvergunning als bedoeld in [artikel 30, eerste lid, onderdeel a, van de Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+c.  *onttrekkingsvergunning:* onttrekkingsvergunning als bedoeld in [artikel 30, eerste lid, onderdeel a, van de Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
 
-d. *samenvoegingsvergunning:* samenvoegingsvergunning als bedoeld in [artikel 30, eerste lid, onderdeel b, van de Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+d.  *samenvoegingsvergunning:* samenvoegingsvergunning als bedoeld in [artikel 30, eerste lid, onderdeel b, van de Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
 
-e. *Vrijstellingsbesluit DAEB:* besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;  
+e.  *Vrijstellingsbesluit DAEB:* besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;  
 
-f. *wet:*[Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md).    
+f.  *wet:* [Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -42,7 +42,7 @@ c. een aanduiding van de postcodes, de adressen, dan wel de kadastrale aanduidin
 d. een reële raming van de investeringskosten per huurwoning van de voorgenomen investering, en  
 
 e. indien van toepassing: een opgave van de datum waarop het bevoegd gezag de ten behoeve van een voorgenomen investering afgegeven vergunning, bedoeld in artikel 1, onderdelen b, c of d, heeft verstrekt.     
-2.  De belastingplichtige verklaart dat de voorgenomen investering betrekking heeft op een of meerdere huurwoningen.   
+2.  De belastingplichtige verklaart dat de voorgenomen investering betrekking heeft op een of meerdere huurwoningen.  
 
 ### Hoofdstuk  3  
 
@@ -74,7 +74,7 @@ c. indien sprake is van verbouw van niet voor bewoning bestemde ruimten tot huur
 d. indien sprake is van sloop van huurwoningen: een sloopmelding als bedoeld in [artikel 1.26 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en voor zover van toepassing de daarop betrekking hebbende onttrekkingsvergunning;  
 
 e. indien sprake is van een samenvoeging van huurwoningen teneinde een of meer huurwoningen te verkrijgen: de daarop betrekking hebbende omgevingsvergunning en voor zover van toepassing de samenvoegingsvergunning.     
-3.  Artikel 2, tweede lid, is van overeenkomstige toepassing.   
+3.  Artikel 2, tweede lid, is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -83,11 +83,11 @@ e. indien sprake is van een samenvoeging van huurwoningen teneinde een of meer h
 ### Artikel  4  
 
 1.  De compensatie bedraagt maximaal € 15 miljoen per belastingplichtige per jaar.   
-2.  Indien het bedrag, genoemd in het eerste lid, varieert gedurende de periode waarin aan de belastingplichtige de activiteiten, bedoeld in [artikel 1.14, eerste lid, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) zijn opgedragen, wordt dit jaarbedrag berekend als het gemiddelde van de jaarlijkse compensatiebedragen die naar verwachting gedurende die periode zullen worden toegekend.   
+2.  Indien het bedrag, genoemd in het eerste lid, varieert gedurende de periode waarin aan de belastingplichtige de activiteiten, bedoeld in [artikel 1.14, eerste lid, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) zijn opgedragen, wordt dit jaarbedrag berekend als het gemiddelde van de jaarlijkse compensatiebedragen die naar verwachting gedurende die periode zullen worden toegekend.  
 
 ### Artikel  5  
 
-De belastingplichtige administreert de netto kosten, bedoeld in artikel 5 van het Vrijstellingsbesluit DAEB, verbonden met de gerealiseerde investeringen op een zodanige wijze dat inzicht kan worden verkregen in de hoogte van deze kosten, zulks afgescheiden van de reguliere bedrijfsvoering, in relatie tot de heffingsvermindering.  
+De belastingplichtige administreert de netto kosten, bedoeld in artikel 5 van het Vrijstellingsbesluit DAEB, verbonden met de gerealiseerde investeringen op een zodanige wijze dat inzicht kan worden verkregen in de hoogte van deze kosten, zulks afgescheiden van de reguliere bedrijfsvoering, in relatie tot de heffingsvermindering. 
 
 ### Hoofdstuk  5  
 
@@ -95,16 +95,16 @@ De belastingplichtige administreert de netto kosten, bedoeld in artikel 5 van he
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 januari 2014.  
+Deze regeling treedt in werking met ingang van 1 januari 2014. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling vermindering verhuurderheffing 2014.  
+Deze regeling wordt aangehaald als: Regeling vermindering verhuurderheffing 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 18 december 2013   
 
 De 
-Minister voor Wonen en Rijksdienst,
-S.A.Blok   
+Minister voor Wonen en Rijksdienst, 
+S.A. Blok     

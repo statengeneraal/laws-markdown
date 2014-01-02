@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 49, tweede lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,12 +12,12 @@ In deze regeling wordt verstaan onder Minister: Minister van Infrastructuur en M
 
 ### Artikel  2  
 
-Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheffing is € 345,– aan de Minister verschuldigd.  
+Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheffing is € 345,– aan de Minister verschuldigd. 
 
 ### Artikel  3  
 
-1.  Indien de Minister van Defensie een verzoek tot het verlenen of wijzigen van een ontheffing, het verrichten van een keuring of het afgeven of wijzigen van een document in behandeling neemt, is hem een vergoeding verschuldigd waarvan hij de hoogte en de wijze van betalen zelf vaststelt.   
-2.  Indien de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de in het eerste lid genoemde handelingen verricht, is hem een vergoeding verschuldigd waarvan hij de hoogte en de wijze van betalen zelf vaststelt.   
+1.   Indien de Minister van Defensie een verzoek tot het verlenen of wijzigen van een ontheffing, het verrichten van een keuring of het afgeven of wijzigen van een document in behandeling neemt, is hem een vergoeding verschuldigd waarvan hij de hoogte en de wijze van betalen zelf vaststelt.   
+2.   Indien de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de in het eerste lid genoemde handelingen verricht, is hem een vergoeding verschuldigd waarvan hij de hoogte en de wijze van betalen zelf vaststelt.   
 3.  De geraamde opbrengst van een vergoeding gaat per soort van handeling de geraamde uitgaven ter zake niet te boven.   
 
 ### Artikel  4  
@@ -41,7 +41,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet vervoer gevaarlij
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Tariefregeling vervoer gevaarlijke stoffen.  
+Deze regeling wordt aangehaald als: Tariefregeling vervoer gevaarlijke stoffen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -49,4 +49,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Verkeer en Waterstaat, a.i., 
-M. deBoer    
+M. de Boer      

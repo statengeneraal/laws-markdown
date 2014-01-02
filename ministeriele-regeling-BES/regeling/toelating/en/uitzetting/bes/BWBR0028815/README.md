@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Justitie van 4 oktober 2010 nr 5669054/10, tot vaststelling van de Regeling toelating en uitzetting BES
 
 De Minister van Justitie,  
-Gelet op de [artikelen 7, derde lid](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), [9, derde lid, onder a](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [24, derde lid, van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [artikelen 2.12](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.3, zesde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.5, derde lid, onder a en b](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.10, eerste en tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.17](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.19, vierde lid, onder c](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.20, tweede lid, onder d](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.34, derde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.35, tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [6.2, derde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [6.11, tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.32, van het Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);
+Gelet op de [artikelen 7, derde lid](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md),[ 9, derde lid, onder a](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [24, derde lid, van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [artikelen 2.12](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.3, zesde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.5, derde lid, onder a en b](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [3.10, eerste en tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.17](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.19, vierde lid, onder c](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.20, tweede lid, onder d](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.34, derde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [5.35, tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [6.2, derde lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [6.11, tweede lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.32, van het Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,9 +13,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *het besluit:* het [Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
+a.  *het besluit:* het [Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
 
-b. *EVRM:* Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.    
+b.  *EVRM:* Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.   
 
 ### Hoofdstuk  2  
 
@@ -24,7 +24,7 @@ b. *EVRM:* Verdrag tot bescherming van de rechten van de mens en de fundamentele
 ### Artikel  2.1  
 
 1.  De beschikking, waarbij de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in bijlage 1, waaruit het verleende blijkt.   
-2.  De beschikking, waarbij de aanvraag tot het verlenen van een terugkeervisum wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in bijlage 2, waaruit het verleende blijkt.   
+2.  De beschikking, waarbij de aanvraag tot het verlenen van een terugkeervisum wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in bijlage 2, waaruit het verleende blijkt.  
 
 ### Hoofdstuk  3  
 
@@ -32,11 +32,11 @@ b. *EVRM:* Verdrag tot bescherming van de rechten van de mens en de fundamentele
 
 ### Artikel  3.1  
 
-De passagiersgegevens, bedoeld in [artikel 3.3, zesde lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) worden elektronisch verstrekt, op de door de ambtenaar belast met de grensbewaking voorgeschreven wijze.  
+De passagiersgegevens, bedoeld in [artikel 3.3, zesde lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) worden elektronisch verstrekt, op de door de ambtenaar belast met de grensbewaking voorgeschreven wijze. 
 
 ### Artikel  3.2  
 
-Als de landen, bedoeld in [artikel 3.5, derde lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), zijn aangewezen de landen vermeld in bijlage 3 bij deze regeling.  
+Als de landen, bedoeld in [artikel 3.5, derde lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), zijn aangewezen de landen vermeld in bijlage 3 bij deze regeling. 
 
 ### Artikel  3.3  
 
@@ -44,12 +44,12 @@ Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, 
 
 a. voldoet aan de voor hem gestelde voorwaarden, en  
 
-b. zich naar Nederland begeeft voor een tijdsduur of doel als aangegeven bij die categorie.    
+b. zich naar Nederland begeeft voor een tijdsduur of doel als aangegeven bij die categorie.   
 
 ### Artikel  3.4  
 
 1.  De voorschriften en bijzondere regels, bedoeld in [artikel 3.10, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), zijn opgenomen in bijlage 5 bij deze regeling.   
-2.  Als de categorieën van personen, bedoeld in [artikel 3.10, tweede lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), zijn aangewezen de personen die behoren tot een van de categorieën, opgenomen in bijlage 6 bij deze regeling.   
+2.  Als de categorieën van personen, bedoeld in [artikel 3.10, tweede lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), zijn aangewezen de personen die behoren tot een van de categorieën, opgenomen in bijlage 6 bij deze regeling.  
 
 ### Hoofdstuk  4  
 
@@ -68,7 +68,7 @@ c. ter zake van de afdoening van de gelijktijdig met de aanvraag van de hoofdper
 
 d. ter zake van de afdoening van de gelijktijdig met de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), die daarvoor een bedrag van USD 712 is verschuldigd, ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, een bedrag van USD 161 is verschuldigd;  
 
-e. ter zake van de afdoening van de eerste aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), ten behoeve een in Bonaire, Sint Eustatius of Saba geboren kind uit één ouder die houder is van een verblijfsvergunning als bedoeld in [artikel 6](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of [12a van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), een bedrag van USD 161 verschuldigd is.     
+e. ter zake van de afdoening van de eerste aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), ten behoeve een in Bonaire, Sint Eustatius of Saba geboren kind uit één ouder die houder is van een verblijfsvergunning als bedoeld in [artikel 6](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of [12a van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), een bedrag van USD 161 verschuldigd is.    
 
 ### Artikel  4.2  
 
@@ -83,7 +83,7 @@ c. als gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd al
 d. een aanvraag indient in het geval, bedoeld in [artikel 5.49, tweede lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
 
 e. een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), om redenen verband houdend met bescherming aan de vreemdeling als bedoeld in [artikel 12a van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).     
-2.  In aanvulling op het eerste lid kan de Minister in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.   
+2.  In aanvulling op het eerste lid kan de Minister in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.  
 
 ### Artikel  4.3  
 
@@ -95,7 +95,7 @@ b. een aanvraag indient tot het wijzigen van de verblijfsvergunning in een verbl
 
 c. ter zake van de afdoening van een gelijktijdig met de aanvraag van de hoofdpersoon tot het wijzigen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), ingediende aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, voor verblijf bij die hoofdpersoon, een bedrag van USD 161 is verschuldigd;  
 
-d. ter zake van de afdoening van een gelijktijdig met de aanvraag van een vreemdeling tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), die daarvoor USD 712 is verschuldigd, ingediende aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, een bedrag van USD 161 is verschuldigd.    
+d. ter zake van de afdoening van een gelijktijdig met de aanvraag van een vreemdeling tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), die daarvoor USD 712 is verschuldigd, ingediende aanvraag tot het wijzigen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit, een bedrag van USD 161 is verschuldigd.   
 
 ### Artikel  4.4  
 
@@ -103,7 +103,7 @@ Ter zake van de afdoening van een aanvraag tot het verlengen van de geldigheidsd
 
 a. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder h, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), een bedrag van USD 44 verschuldigd is;  
 
-b. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), onder de beperking ’(verruimde) gezinshereniging bij ouder(s)’ een bedrag van USD 44 verschuldigd is.    
+b. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), onder de beperking ’(verruimde) gezinshereniging bij ouder(s)’ een bedrag van USD 44 verschuldigd is.   
 
 ### Artikel  4.5  
 
@@ -117,22 +117,22 @@ c. de vreemdeling in aanmerking komt voor verlenging van de geldigheidsduur van 
 
 d. het minderjarige kind van de vreemdeling, die verblijf heeft op grond van [artikel 5.2, eerste lid, onder k, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), een aanvraag indient tot het verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit;  
 
-e. de vreemdeling in aanmerking komt voor verlenging van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), om redenen verband houdend met bescherming van de vreemdeling als bedoeld in [artikel 12a van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).    
+e. de vreemdeling in aanmerking komt voor verlenging van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), om redenen verband houdend met bescherming van de vreemdeling als bedoeld in [artikel 12a van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).   
 
 ### Artikel  4.6  
 
 1.  In afwijking van artikel 4.1 is de vreemdeling geen leges verschuldigd ter zake van de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), indien hij om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.   
 2.  De vreemdeling is evenmin leges verschuldigd ter zake van de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), indien hij ontheven is van de legesverplichting voor de behandeling van de mvv-aanvraag, voorafgaande aan de ingediende aanvraag.   
 3.  In afwijking van artikel 4.3, onder b, is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning, in een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.   
-4.  In afwijking van artikel 4.4 is de vreemdeling die in het bezit is van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), welke is verleend is voor het verblijfsdoel ’uitoefenen van het gezinsleven conform artikel 8 EVRM’, geen leges verschuldigd voor het afdoen van een aanvraag tot het verlengen van de verblijfsvergunning, indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.   
+4.  In afwijking van artikel 4.4 is de vreemdeling die in het bezit is van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), welke is verleend is voor het verblijfsdoel ’uitoefenen van het gezinsleven conform artikel 8 EVRM’, geen leges verschuldigd voor het afdoen van een aanvraag tot het verlengen van de verblijfsvergunning, indien deze vreemdeling om ontheffing van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en daarbij aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.  
 
 ### Artikel  4.7  
 
-Ter zake van de afdoening van een aanvraag tot het verlenen of het wijzigen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), is de vreemdeling een bedrag van USD 345 verschuldigd.  
+Ter zake van de afdoening van een aanvraag tot het verlenen of het wijzigen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), is de vreemdeling een bedrag van USD 345 verschuldigd. 
 
 ### Artikel  4.8  
 
-Als de landen, bedoeld in [artikel 9, derde lid, onder a, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), zijn aangewezen de landen vermeld in bijlage 3 bij deze regeling.  
+Als de landen, bedoeld in [artikel 9, derde lid, onder a, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), zijn aangewezen de landen vermeld in bijlage 3 bij deze regeling. 
 
 ### Artikel  4.9  
 
@@ -142,12 +142,12 @@ a. de staten die partij zijn bij het Verdrag betreffende de werking van de Europ
 
 b. de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en  
 
-c. Aruba, Australië, Canada, Curacao, Israël, Japan, Monaco, Nieuw Zeeland, Sint Maarten, Suriname, de Verenigde Staten van Amerika en Zwitserland.    
+c. Aruba, Australië, Canada, Curacao, Israël, Japan, Monaco, Nieuw Zeeland, Sint Maarten, Suriname, de Verenigde Staten van Amerika en Zwitserland.   
 
 ### Artikel  4.10  
 
 1.  Middelen van bestaan uit arbeid als zelfstandige zijn eerst duurzaam, indien zij gedurende ten minste anderhalf jaar zijn verworven en nog een jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven.   
-2.  Het eerste lid is niet van toepassing, indien de aanvraag strekt tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) onder een beperking verband houdend met het verrichten van arbeid als zelfstandige.   
+2.  Het eerste lid is niet van toepassing, indien de aanvraag strekt tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) onder een beperking verband houdend met het verrichten van arbeid als zelfstandige.  
 
 ### Hoofdstuk  5  
 
@@ -155,16 +155,16 @@ c. Aruba, Australië, Canada, Curacao, Israël, Japan, Monaco, Nieuw Zeeland, Si
 
 ### Artikel  5.1  
 
-De grensdoorlaatposten, bedoeld in [artikel 6.2, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en vermeld in kolom A van bijlage 6 bij deze regeling, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom B van bijlage 7 bij deze regeling.  
+De grensdoorlaatposten, bedoeld in [artikel 6.2, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en vermeld in kolom A van bijlage 6 bij deze regeling, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom B van bijlage 7 bij deze regeling. 
 
 ### Artikel  5.1a  
 
-Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de wettelijke voorschriften met betrekking tot de grensbewaking en met betrekking tot het toezicht op personen als bedoeld in [artikel 22a, eerste lid, onder c, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) zijn aangewezen de medewerkers grensbewaking van de Rijksdienst Caribisch Nederland.  
+Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de wettelijke voorschriften met betrekking tot de grensbewaking en met betrekking tot het toezicht op personen als bedoeld in [artikel 22a, eerste lid, onder c, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) zijn aangewezen de medewerkers grensbewaking van de Rijksdienst Caribisch Nederland. 
 
 ### Artikel  5.2  
 
 1.  Het model van de bemanningslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), is opgenomen in bijlage 8 bij deze regeling.   
-2.  Het model van de pasagierslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), is opgenomen in bijlage 9 bij deze regeling.   
+2.  Het model van de pasagierslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), is opgenomen in bijlage 9 bij deze regeling.  
 
 ### Hoofdstuk  6  
 
@@ -172,21 +172,21 @@ Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de we
 
 ### Artikel  6.1  
 
-Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegdheid, bedoeld in [artikel 22d, vierde lid, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), mandateert, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.  
+Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegdheid, bedoeld in [artikel 22d, vierde lid, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), mandateert, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is. 
 
 ### Artikel  6.2  
 
 1.  De ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, kan de maatregel van beperking van vrijheid van beweging, bedoeld in [artikel 15, eerste lid, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), opleggen, wijzigen of opheffen.   
 2.  De korpschef kan de maatregel van beperking van vrijheid van beweging, bedoeld in [artikel 15, eerste lid, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) in spoedeisende gevallen opleggen.   
-3.  Indien de korpschef van deze bevoegdheid ondermandaat verleent, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.   
+3.  Indien de korpschef van deze bevoegdheid ondermandaat verleent, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.  
 
 ### Artikel  6.3  
 
-De maatregel, bedoeld in [artikel 15c van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), wordt opgelegd, gewijzigd en opgeheven door de ambtenaar bedoeld in [artikel 22a, eerste lid, onder a en b, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), die tevens hulpofficier van justitie is.  
+De maatregel, bedoeld in [artikel 15c van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), wordt opgelegd, gewijzigd en opgeheven door de ambtenaar bedoeld in [artikel 22a, eerste lid, onder a en b, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), die tevens hulpofficier van justitie is. 
 
 ### Artikel  6.4  
 
-De hulpofficier van justitie die bevoegd is tot inbewaringstelling, is bevoegd tot het nemen van het besluit, bedoeld in [artikel 7.5, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), en tot het doen van de kennisgeving, bedoeld in artikel 7.5, tweede lid, van het besluit.  
+De hulpofficier van justitie die bevoegd is tot inbewaringstelling, is bevoegd tot het nemen van het besluit, bedoeld in [artikel 7.5, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), en tot het doen van de kennisgeving, bedoeld in artikel 7.5, tweede lid, van het besluit. 
 
 ### Hoofdstuk  7  
 
@@ -211,7 +211,7 @@ f. voor de handhaving van de afschriftplicht van vervoerders als bedoeld in [art
 g. voor de beoordeling van de voorwaarden voor verblijf in de vrije termijn als bedoeld in de artikelen [4.1](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [4.2](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), [4.3](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [4.4 van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
 
 h. bij de uitoefening van de bevoegdheid tot het uitzetten van een vreemdeling als bedoeld in [8.1 van het besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), daaronder begrepen de verwerking van bijzondere gegevens in het kader van de beoordeling of de uitzetting achterwege dient te blijven als bedoeld in [artikel 16b, derde lid, van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);     
-2.  De bijzondere persoonsgegevens worden ten behoeve van de in het eerste lid bedoelde doeleinden opgenomen in documenten die in een persoonsgebonden dossier en in een geautomatiseerd bestand worden neergelegd. De gegevens in het geautomatiseerde bestand worden gebruikt voor het opstellen van beschikkingen.   
+2.  De bijzondere persoonsgegevens worden ten behoeve van de in het eerste lid bedoelde doeleinden opgenomen in documenten die in een persoonsgebonden dossier en in een geautomatiseerd bestand worden neergelegd. De gegevens in het geautomatiseerde bestand worden gebruikt voor het opstellen van beschikkingen.  
 
 ### Artikel  7.2  
 
@@ -221,7 +221,7 @@ a. het toekennen van autorisaties aan alleen die personen, die voor het uitoefen
 
 b. het bewaren van een reservebestand op een voor niet-geautoriseerde personen ontoegankelijke plaats.     
 2.  De autorisaties als bedoeld in het eerste lid worden toegekend aan medewerkers van de Immigratie- en Naturalisatiedienst, de ambtenaren, bedoeld in de [artikelen 22a](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [22b van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de ambtenaren van de BES- unit van het ministerie van Sociale Zaken en Werkgelegenheid.   
-3.  De Minister stelt richtlijnen op voor het verwerken van bijzondere persoonsgegevens in het geautomatiseerde systeem.   
+3.  De Minister stelt richtlijnen op voor het verwerken van bijzondere persoonsgegevens in het geautomatiseerde systeem.  
 
 ### Artikel  7.3  
 
@@ -230,7 +230,7 @@ b. het bewaren van een reservebestand op een voor niet-geautoriseerde personen o
 a. de Minister van Buitenlandse Zaken, voor het verrichten van onderzoek in het buitenland op verzoek van de Minister alsmede ten behoeve van de beoordeling van visumaanvragen;  
 
 b. artsen, voor het beoordelen van de gezondheidstoestand van de vreemdeling op basis van de door de vreemdeling ondertekende toestemmingsverklaring, alsmede de overdracht van medische gegevens van een vreemdeling in het kader van uitzetting.     
-2.  De verstrekking van bijzondere persoonsgegevens aan de in het eerste lid genoemde personen geschiedt op geen andere wijze dan schriftelijk.   
+2.  De verstrekking van bijzondere persoonsgegevens aan de in het eerste lid genoemde personen geschiedt op geen andere wijze dan schriftelijk.  
 
 ### Artikel  7.4  
 
@@ -240,23 +240,23 @@ a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatis
 
 b. de verantwoordelijke stelt een Functionaris voor de Gegevensbescherming aan, die toeziet op de naleving van de [Wet bescherming persoonsgegevens BES](../../../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md);  
 
-c. de verantwoordelijke verricht integriteits- en kwaliteitsaudits ten aanzien van de verwerking van de persoonsgegevens en rapporteert deze aan de Functionaris voor de Gegevensbescherming.    
+c. de verantwoordelijke verricht integriteits- en kwaliteitsaudits ten aanzien van de verwerking van de persoonsgegevens en rapporteert deze aan de Functionaris voor de Gegevensbescherming.   
 
 ### Artikel  7.5  
 
-Indien het bij [koninklijke boodschap van 13 januari 2010 ingediende voorstel van wet, houdende wijziging van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wijzigingswet/wet/toelating/en/uitzetting/bes/BWBR0028670/README.md) (Kamerstukken II, 2009/10, 32 282, nrs. 1–3), nadat het tot wet is verheven, in werking treedt, treedt deze regeling op hetzelfde tijdstip in werking.  
+Indien het bij [koninklijke boodschap van 13 januari 2010 ingediende voorstel van wet, houdende wijziging van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wijzigingswet/wet/toelating/en/uitzetting/bes/BWBR0028670/README.md) (Kamerstukken II, 2009/10, 32 282, nrs. 1–3), nadat het tot wet is verheven, in werking treedt, treedt deze regeling op hetzelfde tijdstip in werking. 
 
 ### Artikel  7.6  
 
-Deze regeling wordt aangehaald als: Regeling toelating en uitzetting BES  
+Deze regeling wordt aangehaald als: Regeling toelating en uitzetting BES 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 4 oktober 2010   
 
 De 
-Minister van Justitie,
-E.M.H.Hirsch Ballin  
+Minister van Justitie, 
+E.M.H. Hirsch Ballin    
 
 ### Bijlage  1  
 
@@ -276,7 +276,7 @@ E.M.H.Hirsch Ballin
 
 ####Niet MVV-plichtig
 
-Lidstaten van de EU Lidstaten van de EER Australië Canada Japan Monaco Nieuw-Zeeland Vaticaanstad Verenigde Staten Zuid-Korea Zwitserland  
+Lidstaten van de EU Lidstaten van de EER Australië Canada Japan Monaco Nieuw-Zeeland Vaticaanstad Verenigde Staten Zuid-Korea Zwitserland 
 
 ### Bijlage  4  
 
@@ -294,7 +294,7 @@ Lidstaten van de EU Lidstaten van de EER Australië Canada Japan Monaco Nieuw-Ze
 
 ### Bijlage  5  
 
-####, behorend bij [artikel 3.10, eerste lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), Regeling toelating en uitzetting BES (specifieke voorschriften voor de verschillende soorten grenzen en de verschillende vervoermiddelen die voor de overschrijding van de buitengrenzen van de openbare lichamen worden gebruikt)
+####, behorend bij [artikel 3.10, eerste lid](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), Regeling toelating en uitzetting BES (specifieke voorschriften voor de verschillende soorten grenzen en de verschillende vervoermiddelen die voor de overschrijding van de buitengrenzen van de openbare lichamen worden gebruikt) 
 
 ####Voorschriften voor de zeegrenzen
 
@@ -304,7 +304,7 @@ a. in de haven van aankomst of van vertrek;
 
 b. aan boord van het vaartuig; of  
 
-c. in een daartoe ingerichte ruimte in de onmiddellijke nabijheid van het vaartuig.   De controle kan ook tijdens de vaart worden gedaan, of bij aankomst of vertrek van het vaartuig op het grondgebied van een derde land. Met deze controle wordt nagegaan of de bemanning en de passagiers aan de in [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) bedoelde voorwaarden voldoen. De gezagvoerder of de scheepsagent, stelt een bemanningslijst en, in voorkomend geval, een passagierslijst in tweevoud op. Op grond van [artikel 6.8, eerste lid, BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) verstrekt de gezagvoerder of de scheepsagent de bemannings- en passagierslijst onmiddellijk bij het binnenvaren van de openbare lichamen aan de ambtenaar belast met de grensbewaking. De lijsten met de namen worden afgestempeld in de eerste haven van binnenkomst op het grondgebied van de openbare lichamen en nadien telkens wanneer deze worden gewijzigd. Als deze lijsten in geval van overmacht niet aan de ambtenaar belast met de grensbewaking kunnen worden overhandigd, wordt een kopie afgegeven bij de grensdoorlaatpost. Van beide lijsten wordt één exemplaar naar behoren afgetekend door de ambtenaar belast met de grensbewaking en aan de gezagvoerder teruggegeven. Het exemplaar moet tijdens de ligtijd op eenvoudig verzoek te overleggen zijn. Op grond van [artikel 6.8, tweede lid, BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) meldt de gezagvoerder of in diens plaats de scheepsagent alle wijzigingen met betrekking tot de samenstelling van de bemanning of de passagiers bij de bevoegde autoriteit. Verder meldt de gezagvoerder op grond van het vierde lid onmiddellijk en zo mogelijk vóór het binnenlopen van het vaartuig in de haven, de aanwezigheid van verstekelingen bij de bevoegde autoriteiten. De verstekelingen blijven echter onder de verantwoordelijkheid van de gezagvoerder. De gezagvoerder of de scheepsagent stelt op grond van [artikel 6.9 BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) het hoofd van de doorlaatpost tijdig in kennis van de afvaart van het vaartuig. De kennisgeving wordt ten hoogste zes en ten minste drie uren voor het daadwerkelijke vertrek gedaan. De ambtenaar belast met de grensbewaking neemt vervolgens het tweede exemplaar van de vooraf ingevulde en afgetekende lijst of lijsten terug. Als een schip vertraging heeft kan de uitreiscontrole opnieuw plaatsvinden. Voor de bijzondere regels in verband met de toegangs- en grenscontrole van zeelieden wordt verwezen naar paragraaf 3 van bijlage 6.  
+c. in een daartoe ingerichte ruimte in de onmiddellijke nabijheid van het vaartuig.   De controle kan ook tijdens de vaart worden gedaan, of bij aankomst of vertrek van het vaartuig op het grondgebied van een derde land. Met deze controle wordt nagegaan of de bemanning en de passagiers aan de in [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) bedoelde voorwaarden voldoen. De gezagvoerder of de scheepsagent, stelt een bemanningslijst en, in voorkomend geval, een passagierslijst in tweevoud op. Op grond van [artikel 6.8, eerste lid, BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) verstrekt de gezagvoerder of de scheepsagent de bemannings- en passagierslijst onmiddellijk bij het binnenvaren van de openbare lichamen aan de ambtenaar belast met de grensbewaking. De lijsten met de namen worden afgestempeld in de eerste haven van binnenkomst op het grondgebied van de openbare lichamen en nadien telkens wanneer deze worden gewijzigd. Als deze lijsten in geval van overmacht niet aan de ambtenaar belast met de grensbewaking kunnen worden overhandigd, wordt een kopie afgegeven bij de grensdoorlaatpost. Van beide lijsten wordt één exemplaar naar behoren afgetekend door de ambtenaar belast met de grensbewaking en aan de gezagvoerder teruggegeven. Het exemplaar moet tijdens de ligtijd op eenvoudig verzoek te overleggen zijn. Op grond van [artikel 6.8, tweede lid, BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) meldt de gezagvoerder of in diens plaats de scheepsagent alle wijzigingen met betrekking tot de samenstelling van de bemanning of de passagiers bij de bevoegde autoriteit. Verder meldt de gezagvoerder op grond van het vierde lid onmiddellijk en zo mogelijk vóór het binnenlopen van het vaartuig in de haven, de aanwezigheid van verstekelingen bij de bevoegde autoriteiten. De verstekelingen blijven echter onder de verantwoordelijkheid van de gezagvoerder. De gezagvoerder of de scheepsagent stelt op grond van [artikel 6.9 BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) het hoofd van de doorlaatpost tijdig in kennis van de afvaart van het vaartuig. De kennisgeving wordt ten hoogste zes en ten minste drie uren voor het daadwerkelijke vertrek gedaan. De ambtenaar belast met de grensbewaking neemt vervolgens het tweede exemplaar van de vooraf ingevulde en afgetekende lijst of lijsten terug. Als een schip vertraging heeft kan de uitreiscontrole opnieuw plaatsvinden. Voor de bijzondere regels in verband met de toegangs- en grenscontrole van zeelieden wordt verwezen naar paragraaf 3 van bijlage 6. 
 
 ####Specifieke controleprocedures voor bepaalde soorten zeeschepen
 
@@ -318,15 +318,15 @@ b) geboortedatum;
 
 c) nationaliteit;  
 
-d) nummer en soort reisdocument en, indien van toepassing, nummer van het visum.   Als het cruiseschip uit een in een derde land gelegen haven komt en voor het eerst een haven op het grondgebied van de openbare lichamen aandoet, worden de bemanning en de passagiers aan inreiscontroles onderworpen op basis van de lijst met de namen van de bemanningsleden en de passagiers. Als het cruiseschip uit een in een derde land gelegen haven komt en opnieuw een op het grondgebied van de openbare lichamen gelegen haven aandoet, worden de bemanning en de passagiers aan inreiscontroles onderworpen op basis van de lijst met de namen van de bemanningsleden en de passagiers. Dit geldt voor zover die lijsten zijn gewijzigd sinds het cruiseschip de vorige haven op het grondgebied van de openbare lichamen heeft aangedaan. Passagiers die aan land gaan, worden niet aan inreiscontroles onderworpen, tenzij een beoordeling van het veiligheidsrisico of van het risico van illegale immigratie duidelijk maakt dat die controles wel moeten worden uitgevoerd.  
+d) nummer en soort reisdocument en, indien van toepassing, nummer van het visum.   Als het cruiseschip uit een in een derde land gelegen haven komt en voor het eerst een haven op het grondgebied van de openbare lichamen aandoet, worden de bemanning en de passagiers aan inreiscontroles onderworpen op basis van de lijst met de namen van de bemanningsleden en de passagiers. Als het cruiseschip uit een in een derde land gelegen haven komt en opnieuw een op het grondgebied van de openbare lichamen gelegen haven aandoet, worden de bemanning en de passagiers aan inreiscontroles onderworpen op basis van de lijst met de namen van de bemanningsleden en de passagiers. Dit geldt voor zover die lijsten zijn gewijzigd sinds het cruiseschip de vorige haven op het grondgebied van de openbare lichamen heeft aangedaan. Passagiers die aan land gaan, worden niet aan inreiscontroles onderworpen, tenzij een beoordeling van het veiligheidsrisico of van het risico van illegale immigratie duidelijk maakt dat die controles wel moeten worden uitgevoerd. 
 
 ####Voorschriften voor de luchtgrenzen
 
-Voor verplichtingen met het oog op grensbewaking bij binnenkomst door de lucht wordt verwezen naar [artikel 6.11](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.12 BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). Op grond van [artikel 6.11, eerste en tweede lid, BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) verstrekt de gezagvoerder van het vliegtuig in tweevoud aan een ambtenaar belast met de grensbewaking de verklaring en de gegevens over de bemanning en passagiers. Dit gebeurt direct bij binnenkomst op de luchthaven. De modellen zijn te vinden in de RTU-BES. Op grond van artikel 6.11, derde lid, WTU-BES zijn de gezagvoerder en diens luchtvaartmaatschappij verplicht op verzoek van de ambtenaar belast met grensbewaking alle inlichtingen te verstrekken over de vreemdelingen die door deze luchtvaartmaatschappij zijn vervoerd (naar en tussen de openbare lichamen). In beginsel vinden grenscontroles plaats op de luchthavens die zijn aangemerkt als grensdoorlaatposten. Controles van vliegtuigen worden verricht door ambtenaren belast met de grensbewaking. Er worden geen grenscontroles uitgevoerd in het luchtvaartuig of aan de gate, tenzij er een redelijk vermoeden bestaat dat met het vliegtuig personen worden vervoerd met betrekking tot wie de ambtenaren belast met de grensbewaking een toezichthoudende taak hebben ([artikel 22e WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Zo kan van de gezagvoerder van een luchtvaartuig worden gevorderd (artikel 22e, tweede lid WTU-BES) dat hij zijn luchtvaartuig naar een bepaalde plaats overbrengt. De ambtenaren belast met de grensbewaking zijn bevoegd deze vordering te doen. Deze vordering wordt in verband met de veiligheid van het luchthaventerrein gedaan door tussenkomst van de luchtverkeersleiding. De luchtverkeersleiding bepaalt de plaats op het luchthaventerrein waarheen het luchtvaartuig zal worden overgebracht ([artikel 6.12 BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Met de grenscontrole wordt nagegaan of de personen aan boord van het vliegtuig aan de in [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) bedoelde voorwaarden voldoen. Bijzondere regels in verband met de grenscontrole van piloten en bemanningsleden van vliegtuigen worden behandeld bijlage 6 bij deze regeling. De openbare lichamen zorgen ervoor dat de luchthavenbeheerder de nodige maatregelen neemt om te voorkomen dat de voorbehouden zones, zoals de transitzones, worden betreden of worden verlaten door personen die daartoe niet bevoegd zijn. In beginsel worden in de transitzone geen controles verricht, tenzij dit gerechtvaardigd is in het licht van een analyse van de gevaren voor de binnenlandse veiligheid of van het risico van illegale immigratie; controles in deze zone kunnen met name worden verricht op personen die aan een luchthaventransitvisumplicht zijn onderworpen, teneinde te controleren of deze personen in het bezit zijn van een dergelijk visum. Wanneer een luchtvaartuig dat een verbinding uit een derde land verzorgt, in geval van overmacht, bij dreigend gevaar of op instructie van de bevoegde autoriteiten of landt zonder dat daarvoor toestemming is gegeven, kan de vlucht niet worden voortgezet zonder de toestemming van de grenswachters en de douaneautoriteiten.  
+Voor verplichtingen met het oog op grensbewaking bij binnenkomst door de lucht wordt verwezen naar [artikel 6.11](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.12 BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). Op grond van [artikel 6.11, eerste en tweede lid, BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) verstrekt de gezagvoerder van het vliegtuig in tweevoud aan een ambtenaar belast met de grensbewaking de verklaring en de gegevens over de bemanning en passagiers. Dit gebeurt direct bij binnenkomst op de luchthaven. De modellen zijn te vinden in de RTU-BES. Op grond van artikel 6.11, derde lid, WTU-BES zijn de gezagvoerder en diens luchtvaartmaatschappij verplicht op verzoek van de ambtenaar belast met grensbewaking alle inlichtingen te verstrekken over de vreemdelingen die door deze luchtvaartmaatschappij zijn vervoerd (naar en tussen de openbare lichamen). In beginsel vinden grenscontroles plaats op de luchthavens die zijn aangemerkt als grensdoorlaatposten. Controles van vliegtuigen worden verricht door ambtenaren belast met de grensbewaking. Er worden geen grenscontroles uitgevoerd in het luchtvaartuig of aan de gate, tenzij er een redelijk vermoeden bestaat dat met het vliegtuig personen worden vervoerd met betrekking tot wie de ambtenaren belast met de grensbewaking een toezichthoudende taak hebben ([artikel 22e WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Zo kan van de gezagvoerder van een luchtvaartuig worden gevorderd (artikel 22e, tweede lid WTU-BES) dat hij zijn luchtvaartuig naar een bepaalde plaats overbrengt. De ambtenaren belast met de grensbewaking zijn bevoegd deze vordering te doen. Deze vordering wordt in verband met de veiligheid van het luchthaventerrein gedaan door tussenkomst van de luchtverkeersleiding. De luchtverkeersleiding bepaalt de plaats op het luchthaventerrein waarheen het luchtvaartuig zal worden overgebracht ([artikel 6.12 BTU-BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Met de grenscontrole wordt nagegaan of de personen aan boord van het vliegtuig aan de in [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) bedoelde voorwaarden voldoen. Bijzondere regels in verband met de grenscontrole van piloten en bemanningsleden van vliegtuigen worden behandeld bijlage 6 bij deze regeling. De openbare lichamen zorgen ervoor dat de luchthavenbeheerder de nodige maatregelen neemt om te voorkomen dat de voorbehouden zones, zoals de transitzones, worden betreden of worden verlaten door personen die daartoe niet bevoegd zijn. In beginsel worden in de transitzone geen controles verricht, tenzij dit gerechtvaardigd is in het licht van een analyse van de gevaren voor de binnenlandse veiligheid of van het risico van illegale immigratie; controles in deze zone kunnen met name worden verricht op personen die aan een luchthaventransitvisumplicht zijn onderworpen, teneinde te controleren of deze personen in het bezit zijn van een dergelijk visum. Wanneer een luchtvaartuig dat een verbinding uit een derde land verzorgt, in geval van overmacht, bij dreigend gevaar of op instructie van de bevoegde autoriteiten of landt zonder dat daarvoor toestemming is gegeven, kan de vlucht niet worden voortgezet zonder de toestemming van de grenswachters en de douaneautoriteiten. 
 
 ####Specifieke controleprocedures voor personen op particuliere vluchten
 
-Bij particuliere vluchten uit of naar derde landen verstrekt de gezagvoerder aan de grenswachters van het openbaar lichaam van bestemming vóór het opstijgen een "algemene verklaring" (general declaration), die met name een vliegplan als bedoeld in bijlage 2 bij het Verdrag inzake de internationale burgerluchtvaart en gegevens betreffende de identiteit van de passagiers bevat. Als niet met zekerheid kan worden bepaald of een vlucht uit of naar het grondgebied van de openbare lichamen geen tussenlanding op het grondgebied van een derde land maakt, verrichten de bevoegde autoriteiten een personencontrole overeenkomstig de [artikelen 6.11](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.12 BTU](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md).  
+Bij particuliere vluchten uit of naar derde landen verstrekt de gezagvoerder aan de grenswachters van het openbaar lichaam van bestemming vóór het opstijgen een "algemene verklaring" (general declaration), die met name een vliegplan als bedoeld in bijlage 2 bij het Verdrag inzake de internationale burgerluchtvaart en gegevens betreffende de identiteit van de passagiers bevat. Als niet met zekerheid kan worden bepaald of een vlucht uit of naar het grondgebied van de openbare lichamen geen tussenlanding op het grondgebied van een derde land maakt, verrichten de bevoegde autoriteiten een personencontrole overeenkomstig de [artikelen 6.11](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [6.12 BTU](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). 
 
 ### Bijlage  6  
 
@@ -336,19 +336,19 @@ Bij particuliere vluchten uit of naar derde landen verstrekt de gezagvoerder aan
 
 ####Staatshoofden
 
-In afwijking van [artikel 2r t/m 2x WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) hoeven staatshoofden en hun gevolg wier aankomst en vertrek langs diplomatieke weg officieel aan de grenswachters is aangekondigd, niet aan grenscontrole te worden onderworpen.  
+In afwijking van [artikel 2r t/m 2x WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) hoeven staatshoofden en hun gevolg wier aankomst en vertrek langs diplomatieke weg officieel aan de grenswachters is aangekondigd, niet aan grenscontrole te worden onderworpen. 
 
 ### 2  
 
 ####Piloten en andere bemanningsleden van vliegtuigen
 
-In afwijking van [artikel 2r](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) mogen houders van een "crew member licence" of een "crew member certificate" als bedoeld in bijlage 9 bij het Verdrag inzake de internationale burgerluchtvaart van 7 december 1944, op grond van die documenten tijdens de uitoefening van hun functie aan en van boord gaan in de luchthaven waar de tussenlanding plaatsvindt of in de luchthaven van bestemming, als deze op het grondgebied van een openbaar lichaam zijn gelegen. Voor de controle op de bemanningsleden van vliegtuigen gelden de voorschriften van de [artikelen 2r tot en met 2x WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Bemanningsleden van vliegtuigen worden zoveel mogelijk met voorrang gecontroleerd. Dit betekent dat deze controle hetzij plaatsvindt voordat de passagiers worden gecontroleerd, hetzij aan aparte controleposten wordt verricht. In afwijking van [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) mogen de bemanningsleden die bij het dienstdoende grenscontrolepersoneel bekend zijn, steekproefsgewijs worden gecontroleerd.  
+In afwijking van [artikel 2r](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) mogen houders van een "crew member licence" of een "crew member certificate" als bedoeld in bijlage 9 bij het Verdrag inzake de internationale burgerluchtvaart van 7 december 1944, op grond van die documenten tijdens de uitoefening van hun functie aan en van boord gaan in de luchthaven waar de tussenlanding plaatsvindt of in de luchthaven van bestemming, als deze op het grondgebied van een openbaar lichaam zijn gelegen. Voor de controle op de bemanningsleden van vliegtuigen gelden de voorschriften van de [artikelen 2r tot en met 2x WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Bemanningsleden van vliegtuigen worden zoveel mogelijk met voorrang gecontroleerd. Dit betekent dat deze controle hetzij plaatsvindt voordat de passagiers worden gecontroleerd, hetzij aan aparte controleposten wordt verricht. In afwijking van [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) mogen de bemanningsleden die bij het dienstdoende grenscontrolepersoneel bekend zijn, steekproefsgewijs worden gecontroleerd. 
 
 ### 3  
 
 ####Zeelieden
 
-In afwijking van de [artikelen 2r](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [2t WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), mogen zeelieden die in het bezit zijn van een identiteitsbewijs voor zeelieden, afgegeven overeenkomstig het Verdrag van Genève van 19 juni 2003 (nr. 185), het Verdrag van Londen van 9 april 1965 en de terzake strekkende nationale bepalingen, het grondgebied van de openbare lichamen binnenkomen door van boord te gaan om in de binnengevaren haven te verblijven, zonder dat zij zich bij een grensdoorlaatpost hoeven te melden, op voorwaarde dat zij voorkomen op de bemanningslijst van het vaartuig waartoe zij behoren en dat die lijst eerder door de bevoegde autoriteiten is gecontroleerd. Dit belet niet dat, naar gelang van de beoordeling van het veiligheidsrisico of het risico van illegale immigratie, zeelieden door de grenswachters aan een controle overeenkomstig [artikel 2t WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) worden onderworpen voordat zij het vaartuig verlaten. Indien een zeeman een bedreiging voor de openbare orde, de binnenlandse veiligheid of de volksgezondheid vormt, kan hem het recht worden ontzegd het vaartuig te verlaten. Zeelieden die zich buiten de binnengevaren haven wensen te begeven, moeten voldoen aan de voorwaarden voor binnenkomst op het grondgebied van de lidstaten als bedoeld in [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).  
+In afwijking van de [artikelen 2r](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [2t WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), mogen zeelieden die in het bezit zijn van een identiteitsbewijs voor zeelieden, afgegeven overeenkomstig het Verdrag van Genève van 19 juni 2003 (nr. 185), het Verdrag van Londen van 9 april 1965 en de terzake strekkende nationale bepalingen, het grondgebied van de openbare lichamen binnenkomen door van boord te gaan om in de binnengevaren haven te verblijven, zonder dat zij zich bij een grensdoorlaatpost hoeven te melden, op voorwaarde dat zij voorkomen op de bemanningslijst van het vaartuig waartoe zij behoren en dat die lijst eerder door de bevoegde autoriteiten is gecontroleerd. Dit belet niet dat, naar gelang van de beoordeling van het veiligheidsrisico of het risico van illegale immigratie, zeelieden door de grenswachters aan een controle overeenkomstig [artikel 2t WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) worden onderworpen voordat zij het vaartuig verlaten. Indien een zeeman een bedreiging voor de openbare orde, de binnenlandse veiligheid of de volksgezondheid vormt, kan hem het recht worden ontzegd het vaartuig te verlaten. Zeelieden die zich buiten de binnengevaren haven wensen te begeven, moeten voldoen aan de voorwaarden voor binnenkomst op het grondgebied van de lidstaten als bedoeld in [artikel 2r WTU-BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). 
 
 ### 4  
 
@@ -364,13 +364,13 @@ Gelet op de bijzondere voorrechten en immuniteiten die voor hen gelden, krijgen 
 
 – legitimatiebewijs afgegeven door de secretaris-generaal van de Raad van Europa;  
 
-– documenten afgegeven krachtens artikel III, lid 2, van het Verdrag tussen de staten die partij zijn bij het Noord-Atlantische Verdrag, nopens de rechtspositie van hun krijgsmachten (militaire identiteitsbewijzen vergezeld van een briefing voor speciale opdracht, marsorder, individueel of collectief marsbevel), alsmede documenten afgegeven in het kader van het Partnerschap voor vrede.    
+– documenten afgegeven krachtens artikel III, lid 2, van het Verdrag tussen de staten die partij zijn bij het Noord-Atlantische Verdrag, nopens de rechtspositie van hun krijgsmachten (militaire identiteitsbewijzen vergezeld van een briefing voor speciale opdracht, marsorder, individueel of collectief marsbevel), alsmede documenten afgegeven in het kader van het Partnerschap voor vrede.   
 
 ### 5  
 
 ####Minderjarigen
 
-De grenswachters besteden bijzondere aandacht aan al dan niet begeleide minderjarigen. Minderjarigen die een buitengrens overschrijden, worden bij in- en bij uitreis aan dezelfde controles op grond van deze verordening onderworpen als volwassenen. Wanneer het een begeleide minderjarige betreft, gaat de grenswachter na of de begeleidende volwassene het ouderlijk gezag over de minderjarige uitoefent, in het bijzonder wanneer de minderjarige door slechts één volwassene wordt begeleid en er ernstige redenen bestaan om aan te nemen dat de minderjarige onwettig is onttrokken aan het toezicht van de persoon of personen die wettelijk het ouderlijke gezag over hem uitoefenen. In dat geval verricht de grenswachter verder onderzoek, teneinde eventuele onverenigbare of tegenstrijdige elementen in de verstrekte inlichtingen te ontdekken. Wanneer een minderjarige alleen reist, zorgt de grenswachter ervoor, door middel van een grondige controle van de reisdocumenten en de bewijsstukken, dat de minderjarige het grondgebied niet verlaat tegen de wil van de personen die het ouderlijk gezag over hem uitoefenen.  
+De grenswachters besteden bijzondere aandacht aan al dan niet begeleide minderjarigen. Minderjarigen die een buitengrens overschrijden, worden bij in- en bij uitreis aan dezelfde controles op grond van deze verordening onderworpen als volwassenen. Wanneer het een begeleide minderjarige betreft, gaat de grenswachter na of de begeleidende volwassene het ouderlijk gezag over de minderjarige uitoefent, in het bijzonder wanneer de minderjarige door slechts één volwassene wordt begeleid en er ernstige redenen bestaan om aan te nemen dat de minderjarige onwettig is onttrokken aan het toezicht van de persoon of personen die wettelijk het ouderlijke gezag over hem uitoefenen. In dat geval verricht de grenswachter verder onderzoek, teneinde eventuele onverenigbare of tegenstrijdige elementen in de verstrekte inlichtingen te ontdekken. Wanneer een minderjarige alleen reist, zorgt de grenswachter ervoor, door middel van een grondige controle van de reisdocumenten en de bewijsstukken, dat de minderjarige het grondgebied niet verlaat tegen de wil van de personen die het ouderlijk gezag over hem uitoefenen. 
 
 ### Bijlage  7  
 

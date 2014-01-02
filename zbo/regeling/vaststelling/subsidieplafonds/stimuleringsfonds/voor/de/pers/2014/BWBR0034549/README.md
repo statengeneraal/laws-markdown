@@ -21,26 +21,26 @@ c. de aanvrager tenminste de helft van de totale kosten van de activiteiten waar
 
 a. de start of voortzetting van de bij de aanvraag betrokken persorganen zonder subsidie niet mogelijk is en gestaakt moeten worden;  
 
-b. de aanvrager aannemelijk maakt alles in het werk te hebben gesteld om de activiteiten te starten of voort te zetten.     
+b. de aanvrager aannemelijk maakt alles in het werk te hebben gesteld om de activiteiten te starten of voort te zetten.    
 
 ### Artikel  2  
 
 ####Subsidieverlening op grond van [artikel 8.15a van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md)
 
 1.  Voor subsidieverstrekking op grond van [titel 8.15a van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) voor door het Stimuleringsfonds vast te stellen regelingen voor andere activiteiten dan die bedoeld in de [artikelen 8.11 tot en met 8.15](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) is een bedrag van ten hoogste € 1.720.000 beschikbaar.   
-2.  De aanvraagvereisten voor de in lid 1 genoemde regelingen worden afzonderlijk bekendgemaakt en met toelichting in de Staatscourant geplaatst.   
+2.  De aanvraagvereisten voor de in lid 1 genoemde regelingen worden afzonderlijk bekendgemaakt en met toelichting in de Staatscourant geplaatst.  
 
 ### Artikel  3  
 
 ####Begrotingsvoorbehoud
 
-Subsidies ten laste van een begroting die nog niet is vastgesteld worden verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.  
+Subsidies ten laste van een begroting die nog niet is vastgesteld worden verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en niet eerder dan 1 januari 2014.  
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en niet eerder dan 1 januari 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De voorzitter van het Stimuleringsfonds voor de pers, 

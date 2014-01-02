@@ -11,21 +11,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *herkeuring:* steekproef als bedoeld in [artikel 102, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a.  *herkeuring:* steekproef als bedoeld in [artikel 102, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-b. *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 67, tweede lid van de Regeling aanpassing voertuigen](../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
+b.  *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 67, tweede lid van de Regeling aanpassing voertuigen](../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
 
-c. *cusumbijdrage:* de bijdrage aan straf- en bonuspunten bij herkeuringen;  
+c.  *cusumbijdrage:* de bijdrage aan straf- en bonuspunten bij herkeuringen;  
 
-d. *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van steekproeven;  
+d.  *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van steekproeven;  
 
-e. *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van [artikel 15, eerste lid, van de Regeling aanpassing voertuigen](../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
+e.  *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van [artikel 15, eerste lid, van de Regeling aanpassing voertuigen](../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
 
-g. *klasse:* classificatie voor de kwaliteit van werken bij de keuring van gasinstallaties door de erkenninghouder; de 3 klassen geven tevens een indicatie voor de kans op het aantal uit te voeren steekproeven.    
+g.  *klasse:* classificatie voor de kwaliteit van werken bij de keuring van gasinstallaties door de erkenninghouder; de 3 klassen geven tevens een indicatie voor de kans op het aantal uit te voeren steekproeven.   
 
 ### Artikel  2  
 
-Het cusumsysteem wordt toegepast bij steekproeven als bedoeld in [artikel 102, eerste lid van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ten behoeve van het meten van de kwaliteit bij keuring van gasinstallaties.  
+Het cusumsysteem wordt toegepast bij steekproeven als bedoeld in [artikel 102, eerste lid van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ten behoeve van het meten van de kwaliteit bij keuring van gasinstallaties. 
 
 ### Artikel  3  
 
@@ -37,7 +37,7 @@ b. gradatie 2: een ernstig gebrek dat 3 strafpunten oplevert;
 
 c. gradatie 3: een kritiek gebrek waarbij door de keuring van gasinstallatie sprake is van een apert onveilig voertuig dat 3 strafpunten oplevert en waarbij terstond intrekking van de erkenning wordt overwogen.     
 2.  Goedkeuring van een voertuig levert het vastgestelde bonuspunt op van 0,4 punt.   
-3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per steekproef minus het bonuspunt.   
+3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per steekproef minus het bonuspunt.  
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ c. de penalty klasse (P), waarbij de startwaarde 4,5 is indien:
 
 3° de som van de cusumbijdragen van de laatste 5 steekproeven groter is dan 5.       
 2.  De kans op steekproeven in genoemde klassen wordt bepaald door de verhouding N : C : P = 2 : 1 : 6   
-3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.   
+3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.  
 
 ### Artikel  5  
 
@@ -81,23 +81,23 @@ a. in de P-klasse de volgende cusumstand worden bereikt of overschreden:
 
 b. een gebrek van gradatie 3 wordt geconstateerd.  
 
-c. één afzonderlijke cusumbijdrage 8,1 of hoger is.    
+c. één afzonderlijke cusumbijdrage 8,1 of hoger is.   
 
 ### Artikel  6  
 
-De [regeling Cusumsysteem LPG-Erkenninghouders](../../../../../zbo/cusumsysteem/lpg-erkenninghouders/BWBR0025910/README.md), Stcrt 2009, nr. 99 wordt ingetrokken.  
+De [regeling Cusumsysteem LPG-Erkenninghouders](../../../../../zbo/cusumsysteem/lpg-erkenninghouders/BWBR0025910/README.md), Stcrt 2009, nr. 99 wordt ingetrokken. 
 
 ### Artikel  7  
 
-De op het tijdstip van inwerkingtreding van deze regeling bestaande cusumstanden die zijn toegekend met toepassing van de in artikel 6 genoemde bekendmaking, worden aangemerkt als zijnde toegekend met toepassing van de onderhavige regeling.  
+De op het tijdstip van inwerkingtreding van deze regeling bestaande cusumstanden die zijn toegekend met toepassing van de in artikel 6 genoemde bekendmaking, worden aangemerkt als zijnde toegekend met toepassing van de onderhavige regeling. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van 1 januari 2014.  
+Deze regeling treedt in werking met ingang van 1 januari 2014. 
 
 ### Artikel  9  
 
-De regeling word aangehaald als: Cusumsysteem Erkenninghouders Gasinstallatie.  
+De regeling word aangehaald als: Cusumsysteem Erkenninghouders Gasinstallatie. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De directie van de Dienst Wegverkeer 

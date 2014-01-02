@@ -2,7 +2,7 @@
 
 ##Inkomstenbelasting, vennootschapsbelasting, vaststelling marktrente
 
-De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit vervangt het besluit van 5 december 2012, nr. BLKB2012/1865M. De bijlage bij het besluit is aangevuld met de gegevens inzake de marktrente voor het jaar 2013. Overigens zijn geen inhoudelijke wijzigingen opgenomen.*    
+De staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit vervangt het besluit van 5 december 2012, nr. BLKB2012/1865M. De bijlage bij het besluit is aangevuld met de gegevens inzake de marktrente voor het jaar 2013. Overigens zijn geen inhoudelijke wijzigingen opgenomen.*   
 ### 1  
 
 ####Inleiding
@@ -42,8 +42,8 @@ Den Haag
 28 november 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers  
+Staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
 ### Bijlage  
 

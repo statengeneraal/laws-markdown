@@ -11,28 +11,28 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Vreemdelingenwet 2000.   
+Wijzigt de Vreemdelingenwet 2000. 
 
 ### Artikel  II  
 
-Wijzigt de Huisvestingswet.   
+Wijzigt de Huisvestingswet. 
 
 ### Artikel  III  
 
 1.  Een op het tijdstip van inwerkingtreding van deze wet geldige verblijfsvergunning voor bepaalde tijd, verleend op grond van [artikel 29, eerste lid, aanhef en onder c dan wel d, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, wordt beheerst door [Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zoals deze luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van deze wet.   
-2.  Een op het tijdstip van inwerkingtreding van deze wet geldige verblijfsvergunning voor bepaalde tijd, verleend op grond van [artikel 29, eerste lid, aanhef en onder e dan wel f, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, wordt vanaf de inwerkingtreding van deze wet, onder handhaving van de geldigheidsduur, aangemerkt als een vergunning voor bepaalde tijd, verleend op grond van artikel 29, tweede lid, aanhef en onder a dan wel b, van de Vreemdelingenwet 2000.   
+2.  Een op het tijdstip van inwerkingtreding van deze wet geldige verblijfsvergunning voor bepaalde tijd, verleend op grond van [artikel 29, eerste lid, aanhef en onder e dan wel f, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, wordt vanaf de inwerkingtreding van deze wet, onder handhaving van de geldigheidsduur, aangemerkt als een vergunning voor bepaalde tijd, verleend op grond van artikel 29, tweede lid, aanhef en onder a dan wel b, van de Vreemdelingenwet 2000.  
 
 ### Artikel  IV  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 25 november 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven   
 
 de *vijfde* december 2013 

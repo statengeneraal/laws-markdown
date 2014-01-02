@@ -56,22 +56,22 @@ Voor het behandelen van een aanvraag om verlening of wijziging van documenten te
 
 Voor het behandelen van een aanvraag om verlening van een vergunningbewijs als bedoeld in [artikel 17 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
-| Vergunningbewijs  |
+| Vergunningbewijs   |
 |:---|
-| Gewaarmerkt afschrift van een communautaire vergunning  | € 84,–  |
-| Taxivervoer  | € 45,–  |
+| Gewaarmerkt afschrift van een communautaire vergunning   | € 84,–   |
+| Taxivervoer   | € 45,–   |
 
 ### Artikel  7  
 
-Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in [artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in [artikel 83, vierde lid, van dat besluit](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd van € 109,–.  
+Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in [artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in [artikel 83, vierde lid, van dat besluit](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd van € 109,–. 
 
 ### Artikel  8  
 
 In afwijking van artikel 1 is voor de behandeling van de aanvraag om verlening van een vergunning als bedoeld in de [artikelen VII van de wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer)](../../../../../../../../wet/wijzigingswet/wet/personenvervoer/voor/het/taxivervoer/(deregulering/etc/BWBR0010955/README.md) (Stb. 535), en [125 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), dan wel [artikel 112, derde lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md): 
 
-a. geen vergoeding verschuldigd, dan wel,  
+a.  geen vergoeding verschuldigd, dan wel, 
 
-b. indien uit die aanvraag blijkt dat tegelijkertijd om een wijziging als bedoeld in artikel 2 wordt verzocht, een vergoeding verschuldigd als bedoeld in dat artikel.    
+b.  indien uit die aanvraag blijkt dat tegelijkertijd om een wijziging als bedoeld in artikel 2 wordt verzocht, een vergoeding verschuldigd als bedoeld in dat artikel.   
 
 ### Artikel  11  
 
@@ -79,10 +79,10 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Regeling vergoedingen documenten Wet personenvervoer 2000.  
+Deze regeling wordt aangehaald als: Regeling vergoedingen documenten Wet personenvervoer 2000. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
 
-T. Netelenbos      
+T. Netelenbos    

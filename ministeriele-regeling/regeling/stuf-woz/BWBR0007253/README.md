@@ -12,7 +12,7 @@ Het in de bijlage van deze regeling geformuleerde uitwisselingsformaat vormt het
 
 ### Artikel  2  
 
-Het college van burgemeester en wethouders of de in [artikel 1, tweede lid, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) bedoelde gemeenteambtenaar levert de gegevens volgens het uitwisselingsformaat, bedoeld in artikel 1, aan afnemers door het op elektronische wijze toezenden, mits de desbetreffende afnemer zich met de gebruikte infrastructuur akkoord heeft verklaard, met dien verstande dat de levering van gegevens over feiten of omstandigheden die geen inhoudelijke wijziging betekenen van de genomen beschikking op papier kan plaatsvinden.  
+Het college van burgemeester en wethouders of de in [artikel 1, tweede lid, van de Wet waardering onroerende zaken ](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md)bedoelde gemeenteambtenaar levert de gegevens volgens het uitwisselingsformaat, bedoeld in artikel 1, aan afnemers door het op elektronische wijze toezenden, mits de desbetreffende afnemer zich met de gebruikte infrastructuur akkoord heeft verklaard, met dien verstande dat de levering van gegevens over feiten of omstandigheden die geen inhoudelijke wijziging betekenen van de genomen beschikking op papier kan plaatsvinden. 
 
 ### Artikel  3  
 
@@ -20,17 +20,17 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: [Regeling Stuf-WOZ](../../../../ministeriele-regeling/regeling/stuf-woz/BWBR0007253/README.md).  
+Deze regeling wordt aangehaald als: Regeling Stuf-WOZ. 
 
 De 
 Staatssecretaris van Financiën, 
-W.A.Vermeend   
+W.A. Vermeend     
 
 ### Bijlage  
 
 ####als bedoeld in artikel 1  van de Regeling Stuf-WOZ
 
-1. Voorlooprecord 
+1. Voorlooprecord
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
@@ -49,11 +49,11 @@ W.A.Vermeend
 | 150 - 151  | 2  | N  | 91.40  | Versie Stuf-WOZ  |
 | 152 - 256  | 105  | A  | --- | Filler  |
 
-2. Indien records met WOZ-objecten worden geleverd volgt hierna (anders vervolg bij 3): 
+2. Indien records met WOZ-objecten worden geleverd volgt hierna (anders vervolg bij 3):
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Stuurrecord  | --- | --- | --- | --- |
+|Stuurrecord | --- | --- | --- | --- |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 10)  |
 | 3 - 4  | 2  | N  | 93.20  | Deelbestandsidentificatie (= 20)  |
@@ -61,7 +61,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecords  | --- | --- | --- | --- |
+|Gegevensrecords | --- | --- | --- | --- |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode  |
 | 3 - 14  | 12  | N  | 01.01  | Uniek WOZ-objectnummer  |
@@ -92,7 +92,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Telrecord  |
+|Telrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 90)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal gegevensrecords  |
@@ -103,11 +103,11 @@ W.A.Vermeend
 | 45 - 57  | 13  | N  | --- | Totaaltelling 15.10  |
 | 58 - 256  | 199  | A  | --- | Filler  |
 
-3. Indien records met subjecten worden geleverd volgt hierna (anders vervolg bij 4): 
+3. Indien records met subjecten worden geleverd volgt hierna (anders vervolg bij 4):
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Stuurrecord  | --- | --- | --- | --- |
+|Stuurrecord | --- | --- | --- | --- |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 10)  |
 | 3 - 4  | 2  | N  | 93.20  | Deelbestandsidentificatie (= 30)  |
@@ -115,26 +115,26 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecords  |
+|Gegevensrecords |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 30)  |
 | 3 - 12  | 10  | N  | 01.10  | A-nummer natuurlijk persoon  |
-| 13 - 21  | 9  | N  | 01.20  | bsn/SoFi-nummer/fi-nummer  |
+| 13 - 21  | 9  | N  | 01.20  | BSN of een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  |
 | 22 - 31  | 10  | A  | 02.11  | Voorletters  |
 | 32 - 41  | 10  | A  | 02.30  | Voorvoegsels  |
 | 42 - 176  | 135  | A  | 02.40  | Geslachtsnaam/statutaire naam  |
-| 177 - 231  | 55  | A  | 02.41  | Partnernaam/bedrijfsnaam verkort  |
-| 232 - 241  | 10  | A  | 02.31  | Voorvoegsels behorend bij partnernaam  |
-| 242 - 251  | 10  | N  | 01.21  | aanvulling subjectnummer  |
-| 252 - 252  | 1  | A  | 04.05  | Aanduiding naamgebruik  |
-| 253 - 256  | 4  | A  | --- | Filler  |
+| 177 - 231  | 55  | A | 02.41  | Partnernaam/bedrijfsnaam verkort  |
+| 232 - 241  | 10  | A | 02.31  | Voorvoegsels behorend bij partnernaam  |
+| 242 - 251  | 10  | N | 01.21  | aanvulling subjectnummer  |
+| 252 - 252  | 1  | A | 04.05  | Aanduiding naamgebruik  |
+| 253 - 256  | 4  | A | --- | Filler  |
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecords (vervolg)  |
+|Gegevensrecords (vervolg) |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 31)  |
-| 3 - 11  | 9  | N  | 01.20  | bsn/SoFi-nummer/fi-nummer  |
+| 3 - 11  | 9  | N  | 01.20  | BSN of een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) |
 | dec-35  | 24  | A  | 11.10  | Straatnaam  |
 | 36 - 40  | 5  | N  | 11.20  | Huisnummer  |
 | 41 - 41  | 1  | A  | 11.30  | Huisletter  |
@@ -159,7 +159,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Telrecord  |
+|Telrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 90)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal gegevensrecords  |
@@ -170,11 +170,11 @@ W.A.Vermeend
 | --- | --- | --- | --- | recordidentificatiecode = 31  |
 | 30 - 256  | 227  | A  | --- | Filler  |
 
-4. Indien records met kadastrale identificaties WOZ-objecten worden geleverd volgt hierna (anders vervolg bij 5): 
+4. Indien records met kadastrale identificaties WOZ-objecten worden geleverd volgt hierna (anders vervolg bij 5):
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Stuurrecord  |
+|Stuurrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 10)  |
 | 3 - 4  | 2  | N  | 93.20  | Deelbestandsidentificatie (= 40)  |
@@ -182,7 +182,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecord  |
+|Gegevensrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 40)  |
 | 3 - 14  | 12  | N  | 01.01  | Uniek WOZ-objectnummer  |
@@ -201,7 +201,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Telrecord  |
+|Telrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 90)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal gegevensrecords  |
@@ -210,11 +210,11 @@ W.A.Vermeend
 | 25 - 37  | 13  | N  | --- | Totaaltelling 52.20  |
 | 38 - 256  | 219  | A  | --- | Filler  |
 
-5. Indien records met identificaties eigenaar/gebruiker worden geleverd volgt hierna (anders vervolg bij 6): 
+5. Indien records met identificaties eigenaar/gebruiker worden geleverd volgt hierna (anders vervolg bij 6):
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Stuurrecord  |
+|Stuurrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 10)  |
 | 3 - 4  | 2  | N  | 93.20  | Deelbestandsidentificatie (= 60)  |
@@ -222,12 +222,12 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecord  |
+|Gegevensrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 60)  |
 | 3 - 14  | 12  | N  | 01.01  | Uniek WOZ-objectnummer  |
 | 15 - 24  | 10  | N  | 01.10  | A-nummer natuurlijk persoon  |
-| 25 - 33  | 9  | N  | 01.20  | bsn/SoFi-nummer/fi-nummer  |
+| 25 - 33  | 9  | N  | 01.20  | BSN of een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  |
 | 34 - 34  | 1  | A  | 41.10  | Aanduiding eigenaar/gebruiker  |
 | 35 - 40  | 6  | A  | 41.20  | Zakelijk-rechtcode  |
 | 41 - 42  | 2  | A  | 41.30  | s.-code  |
@@ -239,18 +239,18 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Telrecord  |
+|Telrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 90)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal gegevensrecords  |
 | --- | --- | --- | --- | deelbestand  |
 | 12 - 256  | 245  | A  | --- | Filler  |
 
-6. Indien records met WOZ-objecten doorsneden door een waterschapsgrens worden geleverd volgt hierna (anders vervolg bij 7): 
+6. Indien records met WOZ-objecten doorsneden door een waterschapsgrens worden geleverd volgt hierna (anders vervolg bij 7):
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Stuurrecord  |
+|Stuurrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 10)  |
 | 3 - 4  | 2  | N  | 93.20  | Deelbestandsidentificatie (= 70)  |
@@ -258,7 +258,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecord  |
+|Gegevensrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 70)  |
 | 3 - 14  | 12  | N  | 01.01  | Uniek WOZ-objectnummer  |
@@ -271,7 +271,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Telrecord  |
+|Telrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 90)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal gegevensrecords  |
@@ -279,11 +279,11 @@ W.A.Vermeend
 | 12 24  | 13  | N  | --- | Totaaltelling 15.10  |
 | 25 - 256  | 232  | A  | --- | Filler  |
 
-7. Indien records met statusveranderingen van beschikkingen worden geleverd volgt hierna (anders vervolg bij 8): 
+7. Indien records met statusveranderingen van beschikkingen worden geleverd volgt hierna (anders vervolg bij 8):
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Stuurrecord  |
+|Stuurrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 10)  |
 | 3 - 4  | 2  | N  | 93.20  | Deelbestandsidentificatie (= 80)  |
@@ -291,7 +291,7 @@ W.A.Vermeend
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Gegevensrecord  |
+|Gegevensrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 80)  |
 | 3 - 14  | 12  | N  | 01.01  | Uniek WOZ-objectnummer  |
@@ -302,25 +302,25 @@ W.A.Vermeend
 | 28 - 35  | 8  | D  | 81.20  | Ingangsdatum  |
 | 36 - 43  | 8  | D  | 81.30  | Einddatum  |
 | 44 - 53  | 10  | N  | 01.10  | A-nummer natuurlijk persoon  |
-| 54 - 62  | 9  | N  | 01.20  | bsn/SoFi-nummer/fi-nummer  |
+| 54 - 62  | 9  | N  | 01.20  | BSN of een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  |
 | 63 - 72  | 10  | N  | 01.21  | aanvulling subjectnummer  |
 | 73 - 80  | 8  | D  | 22.20  | Datum status  |
 | 81 - 256  | 176  | A  | --- | Filler  |
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Telrecord  |
+|Telrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 90)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal gegevensrecords  |
 | --- | --- | --- | --- | deelbestand  |
 | 12 - 256  | 245  | A  | --- | Filler  |
 
-8. Leveringsbestand eindigt altijd met: 
+8. Leveringsbestand eindigt altijd met:
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Sluitrecord  |
+|Sluitrecord |
 | positie  | lengte  | type  | nummer  | naam gegeven  |
 | 1 - 2  | 2  | N  | 93.10  | Recordidentificatiecode (= 99)  |
 | 3 - 11  | 9  | N  | --- | Totaal aantal records code = 10  |
