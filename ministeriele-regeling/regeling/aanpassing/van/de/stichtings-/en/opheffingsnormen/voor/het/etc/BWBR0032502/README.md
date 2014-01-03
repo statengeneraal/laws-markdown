@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 8 december 2012, nr. DUO/OND/ODS-2012/60909 M, houdende aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2013 (Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2013)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 77, derde lid](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [153, tweede lid](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), en [155, tweede lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);
+Gelet op de artikelen 77, derde lid, 153, tweede lid, en 155, tweede lid, van de Wet op het primair onderwijs;
 Besluit:    
 
 ### Artikel  1  
@@ -24,33 +24,33 @@ Voor de basisscholen in delen van gemeenten, zoals omschreven in bijlage 2 bij d
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2003](../../../../../../../../../../../../ministeriele-regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/het/basisonderwijs/etc/BWBR0014132/README.md);  
+a. Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2003;  
 
-b. [Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2008](../../../../../../../../../../../../ministeriele-regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/het/basisonderwijs/etc/BWBR0022708/README.md);  
+b. Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2008;  
 
-c. [Afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Oss](../../../../../../../../../../../../ministeriele-regeling/afzonderlijke/opheffingsnormen/in/verband/met/splitsing/van/de/gemeente/etc/BWBR0015823/README.md);  
+c. Afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Oss;  
 
-d. [Regeling aanpassing opheffingsnormen basisscholen in Horst aan de Maas en Oldambt](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/opheffingsnormen/basisscholen/in/horst/aan/de/maas/en/etc/BWBR0030556/README.md);  
+d. Regeling aanpassing opheffingsnormen basisscholen in Horst aan de Maas en Oldambt;  
 
-e. [Regeling aanpassing stichtings- en opheffingsnormen basisscholen in verband met gebiedswijzigingen per 1 januari 2006](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/stichtings-/en/opheffingsnormen/basisscholen/in/etc/BWBR0020839/README.md);  
+e. Regeling aanpassing stichtings- en opheffingsnormen basisscholen in verband met gebiedswijzigingen per 1 januari 2006;  
 
-f. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2003 in verband met gebiedswijzigingen](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/stichtings-/en/opheffingsnormen/voor/basisscholen/in/etc/BWBR0014148/README.md);  
+f. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2003 in verband met gebiedswijzigingen;  
 
-g. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2004 in verband met gebiedswijzigingen](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0015714/README.md);  
+g. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2004 in verband met gebiedswijzigingen;  
 
-h. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2005 in verband met gebiedswijzigingen](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0017305/README.md);  
+h. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2005 in verband met gebiedswijzigingen;  
 
-i. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2006 in verband met gebiedswijzigingen per 1 januari 2005](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0018913/README.md);  
+i. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2006 in verband met gebiedswijzigingen per 1 januari 2005;  
 
-j. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2011 en in verband met splitsing van gemeenten](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0030838/README.md);  
+j. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2011 en in verband met splitsing van gemeenten;  
 
-k. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2010](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0029978/README.md);  
+k. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2010;  
 
-l. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2007](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0022719/README.md);  
+l. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2007;  
 
-m. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2009](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0027521/README.md);  
+m. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2009;  
 
-n. [Regeling afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Horst aan de Maas](../../../../../../../../../../../../ministeriele-regeling/regeling/afzonderlijke/opheffingsnormen/in/verband/met/splitsing/van/de/etc/BWBR0020325/README.md).    
+n. Regeling afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Horst aan de Maas.    
 
 ### Artikel  4  
 
@@ -74,7 +74,7 @@ S.Dekker.
 ####, behorende bij artikel 1  van de Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013
 
 | Gemeentenaam  | Gemeentecode  | Opheffingsnorm  | Stichtingsnorm  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Aa en Hunze  | 1.680  | 31  | 200  |
 | Aalburg  | 738  | 76  | 200  |
 | Aalsmeer  | 358  | 165  | 275  |
@@ -496,7 +496,7 @@ S.Dekker.
 ####, behorende bij artikel 2  van de Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013
 
 | Naam gemeente  | Gebied 1  | Opheffingsnorm  | Gebied 2  | Opheffingsnorm  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Aalburg  | Wijk en Aalburg/ Veen/ Genderen  | 107  | Eethen/ Meeuwen/ Drongelen/ Babyloniënbroek  | 31  |
 | Aalsmeer  | Kudelstaart e.o.  | 179  | restgebied Aalsmeer  | 159  |
 | Almelo  | Overig gebied Almelo  | 166  | kern Aadorp/ Bornerbroek  | 46  |
@@ -527,8 +527,9 @@ S.Dekker.
 | Oostzaan  | Kern Oostzaan  | 167  | de Noord A8  | 60  |
 | Opmeer  | Overig Opmeer  | 82  | Aartswoud  | 35  |
 | Oss  | Oss en Berghem  | 158  | Megen en Ravenstein  | 50  |
+| Peel en Maas  | Peel en Maas overig  | 72  | Kessel  | 51  |
 | Raalte  | Resterend deel Raalte  | 66  | Laag Zuthem/ Liederholthuis  | 23  |
-| Reimerswaal  | kern Yerseke  | 176  | overig Reimerswaal  | 55  |
+| Reimerswaal  | Kern Yerseke  | 109  | Overig Reimerswaal  | 60  |
 | Rijnwaarden  | Lobith/ Tolkamer  | 144  | buitengebied  | 44  |
 | Rijssen-Holten  | Oud Rijssen/ deel Makelo  | 154  | Oud Holten  | 42  |
 | Stichtse Vecht  | Maarssen  | 156  | Loenen en Breukelen  | 89  |
