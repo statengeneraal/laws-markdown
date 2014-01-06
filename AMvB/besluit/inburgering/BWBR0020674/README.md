@@ -44,37 +44,37 @@ f. Wet inburgering nieuwkomers: [Wet inburgering nieuwkomers](../../../../wet/we
 
 1.  Het doel van het verblijf in Nederland van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien die verblijfsvergunning is verleend onder een beperking verband houdend met: 
 
-a. gezinsvorming of gezinshereniging met, dan wel verblijf als pleegkind bij, een persoon die voor een tijdelijk doel in Nederland verblijft;  
+a. uitwisseling, al dan niet in het kader van een verdrag;  
 
-b.  vervallen;   
+b. studie;  
 
-c. het verrichten van arbeid;  
+c. seizoenarbeid;  
 
-d. verblijf als kennismigrant;  
+d. lerend werken;  
 
-e. het zoeken en verrichten van arbeid;  
+e. arbeid in loondienst;  
 
-f. verblijf als stagiair of als practicant;  
+f. grensoverschrijdende dienstverlening;  
 
-g. de voorbereiding op of het volgen van een studie;  
+g. arbeid als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel;  
 
-h. verblijf als au pair;  
+h. arbeid als kennismigrant;  
 
-i. verblijf in het kader van uitwisseling;  
+i. verblijf als houder van de Europese blauwe kaart in de zin van richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);  
 
-j. het ondergaan van medische behandeling of afwachten van herstel;  
+j. wetenschappelijk onderzoek in de zin van richtlijn 2005/71/EG;  
 
-k. de vervolging van mensenhandel;  
+k. arbeid als zelfstandige;  
 
-l. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+l. het zoeken en verrichten van arbeid al dan niet in loondienst;  
 
-m. verblijf als alleenstaande minderjarige vreemdeling;  
+m. verblijf als familie- of gezinslid bij een persoon die voor een tijdelijk doel in Nederland verblijft;  
 
-n. verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken;  
+n. medische behandeling;  
 
-o. verblijf als onderzoeker in de zin van richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);  
+o. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
 
-p. verblijf als houder van de Europese blauwe kaart.     
+p. tijdelijke humanitaire gronden.     
 2.  Het doel van het verblijf van een houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verleend onder een andere beperking dan bedoeld in het eerste lid, is tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien zulks met toepassing van [artikel 3.5, vierde lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is bepaald.   
 3.  Het doel van het verblijf van de houder van een verblijfsvergunning als bedoeld in de [artikelen 20](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is niet tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
 4.  Bij regeling van Onze Minister kunnen de beperkingen, bedoeld in het eerste en tweede lid, nader worden uitgewerkt.   
@@ -84,7 +84,7 @@ p. verblijf als houder van de Europese blauwe kaart.
 1.  De inburgeringsplicht eindigt niet, indien de vreemdeling direct aansluitend op de periode waarin hij op grond van [artikel 3, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) inburgeringsplichtig was of op de termijn, bedoeld in [artikel 3.82, eerste lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), rechtmatig verblijf in de zin van [artikel 8, onderdeel g of h, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft verkregen. In deze gevallen wordt de inburgeringsplicht tijdens de termijn, bedoeld in [artikel 3.82, eerste lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), geacht niet te zijn geëindigd.   
 2.  De inburgeringsplicht wordt geacht niet te zijn geëindigd, indien de vreemdeling tussen twee tijdvakken waarin hij op grond van [artikel 3, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) inburgeringsplichtig was, gedurende een tijdvak van maximaal een jaar: 
 
-a. geen ingezetene in de zin van de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) was;  
+a. geen ingezetene in de zin van de [Wet basisregistratie personen](../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) was;  
 
 b. in Nederland verbleef voor een tijdelijk doel, of  
 
@@ -151,12 +151,14 @@ Geheel vrijgesteld van de inburgeringsplicht is degene die een toets als bedoeld
 
 ### Artikel  2.6  
 
-1.  Het verblijf in Nederland tijdens de leerplichtige leeftijd, bedoeld in [artikel 5, eerste lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), blijkt uit inschrijving als ingezetene in de gemeentelijke basisadministratie persoonsgegevens.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de inschrijving in de gemeentelijke basisadministratie persoonsgegevens, bedoeld in het eerste lid, en kan van het eerste lid worden afgeweken op grond van concrete aanwijzingen dat de inschrijving kennelijk onjuist was.   
+1.  Het verblijf in Nederland tijdens de leerplichtige leeftijd, bedoeld in [artikel 5, eerste lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), blijkt uit inschrijving als ingezetene in de basisregistratie personen.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste lid en kan van het eerste lid worden afgeweken op grond van concrete aanwijzingen dat de inschrijving kennelijk onjuist was.   
 
 ### Afdeling  4  
 
 ####Vrijstelling op grond van korte vrijstellingstoets
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  5  
 
@@ -287,6 +289,8 @@ e. kennis van de Nederlandse samenleving.
 
 ####Examencommissies en commissies van beroep
 
+Vervallen per 01-01-2013   
+
 ### §  4  
 
 ####Kwaliteit van het inburgeringsexamen
@@ -350,7 +354,7 @@ b. als gezinslid van een houder van een verblijfsvergunning als bedoeld in [arti
 1.  De inburgeringsplichtige heeft aanspraak op de lening gedurende de termijn, bedoeld in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) of de met toepassing van artikel 7, derde lid, van de wet of van de krachtens artikel 7, vierde lid, aanhef en onderdeel a, van de wet gestelde regels verlengde termijn. Een persoon als bedoeld in artikel 4.1 heeft aanspraak op de lening gedurende drie jaar nadat hij rechtmatig verblijf verkrijgt.   
 2.  Het geleende bedrag wordt niet uitbetaald, indien de inburgeringsplichtige: 
 
-a. niet langer ingezetene is in de zin van de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
+a. niet langer ingezetene is in de zin van de [Wet basisregistratie personen](../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
 
 b. als vreemdeling geen rechtmatig verblijf meer heeft in de zin van [artikel 8, onderdelen a, c, e en l van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel, in de in artikel 2.2, eerste lid, bedoelde gevallen, in de zin van artikel 8, onderdelen g of h, van de Vreemdelingenwet 2000.     
 3.  Bij regeling van Onze Minister worden regels gesteld over de betaling van de lening.   
@@ -436,13 +440,19 @@ De [artikelen 3](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BW
 
 ####Handhaving
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  1  
 
 ####Oproepen van personen
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  2  
 
 ####Termijnverlenging en ontheffing van de inburgeringsplicht
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  6  
 
@@ -465,7 +475,7 @@ c. partners van inburgeringsplichtigen, indien overeenkomstig artikel 4.1a, twee
 d. personen ten aanzien van wie is gebleken dat zij aansluitend op de leerplicht of kwalificatieplicht een opleiding volgen als bedoeld in [artikel 5, eerste lid, onderdeel e, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
 
 e. personen ten aanzien van wie op redelijke gronden kan worden vermoed dat zij inburgeringsplichtig zijn of kunnen worden.     
-2.  Het Informatiesysteem Inburgering bevat de in de bijlage bij dit besluit opgenomen gegevens. Persoonsgegevens worden opgenomen zoals deze zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens.   
+2.  Het Informatiesysteem Inburgering bevat de in de bijlage bij dit besluit opgenomen gegevens. Persoonsgegevens worden opgenomen zoals deze zijn opgenomen in de basisregistratie personen.   
 3.  Bij regeling van Onze Minister kan de bijlage bij dit besluit worden gewijzigd.   
 
 ### Artikel  6.2  
@@ -539,6 +549,8 @@ f. de datum waarop het inburgeringsdiploma is behaald.
 ### Afdeling  2  
 
 ####Het bestand potentiële inburgeringsplichtigen
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  3  
 
@@ -791,6 +803,8 @@ b. het aantal in onderdeel a bedoelde nieuwe inburgeringsplichtigen dat binnen d
 
 ####Wijziging van andere besluiten
 
+Vervallen per 01-01-2013   
+
 ### Hoofdstuk  9  
 
 ####Overgangs- en slotbepalingen
@@ -900,7 +914,7 @@ m. financiële vertegenwoordiging;
 
 n. wettelijke vertegenwoordiging;  
 
-o. het inburgeringsexamen;  
+o. het inburgeringsexamen en de daarop betrekking hebbende geheimhoudingsverklaring;  
 
 p. het staatsexamen Nederlands als tweede taal I of II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
@@ -928,7 +942,7 @@ g. inkomensgegevens peiljaar;
 
 h. draagkrachtgegevens.   Verder worden gegevens opgenomen die betrekking hebben op de administratieve verwerking door Onze Minister van: 
 
-a. het inburgeringsexamen;  
+a. het inburgeringsexamen en de daarop betrekking hebbende geheimhoudingsverklaring;  
 
 b. het staatsexamen Nederlands als tweede taal I of II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 

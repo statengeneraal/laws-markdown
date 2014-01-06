@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 10 januari 2001, kenmerk DGG/ J-01/005603, Directoraat-Generaal Goederenvervoer, Stafafdeling Wetgeving, Bestuurlijke en Juridische Zaken;
 
-Gelet op de [artikelen 16](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [17, eerste lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [18, derde, vierde, vijfde en zesde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [19, eerste lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [25, eerste lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [34, eerste lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [36](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [44, eerste lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [64](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [71, eerste lid, van de Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md); op Richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (Pb EG L 113), op het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 69 van de Internationale Arbeidsconferentie inzake het diploma van bekwaamheid als scheepskok, 1946 (Stb. I 328), het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 73 van de Internationale Arbeidsconferentie inzake het geneeskundig onderzoek van zeelieden, 1946 (Stb. I 326) en het op 19 juni 1959 te Genève tot stand gekomen Verdrag No. 113 van de Internationale Arbeidsorganisatie betreffende het geneeskundig onderzoek van vissers (Trb. 1964, 44);
+Gelet op de artikelen 16, 17, eerste lid, 18, derde, vierde, vijfde en zesde lid, 19, eerste lid, 25, eerste lid, 34, eerste lid, 36, 44, eerste lid, 64 en 71, eerste lid, van de Zeevaartbemanningswet; op Richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (Pb EG L 113), op het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 69 van de Internationale Arbeidsconferentie inzake het diploma van bekwaamheid als scheepskok, 1946 (Stb. I 328), het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 73 van de Internationale Arbeidsconferentie inzake het geneeskundig onderzoek van zeelieden, 1946 (Stb. I 326) en het op 19 juni 1959 te Genève tot stand gekomen Verdrag No. 113 van de Internationale Arbeidsorganisatie betreffende het geneeskundig onderzoek van vissers (Trb. 1964, 44);
 
 De Raad van State gehoord (advies van 23 februari 2001, nr. W09.01.0025/V);
 
@@ -36,7 +36,7 @@ g. plaatsvervangend schipper: een persoon met de vaarbevoegdheid als plaatsverva
 
 h. stuurman-werktuigkundige: een persoon met de vaarbevoegdheid als stuurman-werktuigkundige zeevisvaart;  
 
-i. kennisbewijs: het diploma of certificaat afgegeven door een instelling als bedoeld in de [Wet educatie en beroepsonderwijs (Web)](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel een getuigschrift of verklaring afgegeven door een instelling als bedoeld in de [Wet Hoger onderwijs en wetenschappelijk onderzoek (WHW)](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of een certificaat afgeven door een door de Minister erkende opleiding waaruit blijkt dat een erkende opleiding met goed gevolg is afgesloten;  
+i. kennisbewijs: het diploma of certificaat afgegeven door een instelling als bedoeld in de Wet educatie en beroepsonderwijs (Web) dan wel een getuigschrift of verklaring afgegeven door een instelling als bedoeld in de Wet Hoger onderwijs en wetenschappelijk onderzoek (WHW) of een certificaat afgeven door een door de Minister erkende opleiding waaruit blijkt dat een erkende opleiding met goed gevolg is afgesloten;  
 
 j. STCW-Verdrag: het op 7 juli 1978 te Londen tot stand gekomen Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144);  
 
@@ -44,7 +44,7 @@ k. STCW-Code de Code inzake opleiding, diplomering en wachtdienst van zeevarende
 
 l. geneeskundige verklaring: een verklaring als bedoeld in artikel 60;  
 
-m. wet: [Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).    
+m. wet: Wet zeevarenden.    
 
 ### Artikel  2  
 
@@ -63,14 +63,14 @@ a. korte tijd voor het vertrek van het vissersvaartuig uit de haven een of meer 
 b. dringende omstandigheden ertoe nopen het vertrek niet langer uit te stellen, en  
 
 c. met de aan boord aanwezige bemanning, gelet op de bijzonderheden van de reis, het vissersvaartuig zonder gevaar voor het vaartuig of andere zaken, voor personen, het milieu of de scheepvaart deze reis kan ondernemen.     
-2.  Op verzoek van de scheepsbeheerder kan Onze Minister een ontheffing als bedoeld in [artikel 25 van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) verlenen, indien: 
+2.  Op verzoek van de scheepsbeheerder kan Onze Minister een ontheffing als bedoeld in artikel 25 van de wet verlenen, indien: 
 
 a. er onvoldoende bemanningsleden voorhanden zijn in het bezit van de vereiste kwalificaties,  
 
 b. de ontheffing verleend wordt aan een bemanningslid dat in het bezit is van het vaarbevoegdheidsbewijs dat vereist is voor de relevante lagere functie, en  
 
 c. met de aan boord aanwezige bemanning, gelet op de bijzonderheden van de reis, het vissersvaartuig zonder gevaar voor het vaartuig of andere zaken, voor personen, het milieu of de scheepvaart deze reis kan ondernemen.     
-3.  Een ontheffing als bedoeld in [artikel 25 van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) wordt voor de functie van schipper of hoofdwerktuigkundige slechts gegeven in zeer bijzondere omstandigheden die niet het gevolg zijn van het handelen of het nalaten van handelen van de zijde van de scheepsbeheerder en indien de vervulling gedurende korte tijd van die functie door een bemanningslid met een lagere bevoegdheid noodzakelijk is voor de voortzetting van de reis, en de veiligheid van het vissersvaartuig en de opvarenden, de veilige vaart ter zee en de bescherming van het mariene milieu gewaarborgd zijn.   
+3.  Een ontheffing als bedoeld in artikel 25 van de wet wordt voor de functie van schipper of hoofdwerktuigkundige slechts gegeven in zeer bijzondere omstandigheden die niet het gevolg zijn van het handelen of het nalaten van handelen van de zijde van de scheepsbeheerder en indien de vervulling gedurende korte tijd van die functie door een bemanningslid met een lagere bevoegdheid noodzakelijk is voor de voortzetting van de reis, en de veiligheid van het vissersvaartuig en de opvarenden, de veilige vaart ter zee en de bescherming van het mariene milieu gewaarborgd zijn.   
 
 ### Artikel  4  
 
@@ -263,7 +263,7 @@ c. op grond van een ontheffing, gedurende ten minste drie maanden in een naar he
 
 a. stuurman-werktuigkundige voor de zeevisvaart SW 4;  
 
-b. stuurman zeevisvaart S IV-v, respectievelijk werktuigkundige zeevisvaart W IV-v;  
+b. stuurman voor de zeevisvaart S 4 of S IV-v, respectievelijk werktuigkundige voor de zeevisvaart W 4 of W IV-v;  
 
 c. stuurman-werktuigkundige voor de zeevisvaart SW 5;  
 
@@ -289,7 +289,7 @@ d. het diploma voor de zeevisvaart SW VI.
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als schipper zeevisvaart aan boord van vissersvaartuigen op reizen in onbeperkt vaargebied, is ten minste vereist: 
 
-a. het kennisbewijs stuurman-werktuigkundige zeevisvaart SW4 dan wel het diploma voor de zeevisvaart S IV-v;  
+a. het kennisbewijs stuurman-werktuigkundige zeevisvaart SW4, het kennisbewijs stuurman voor de zeevisvaart S 4 dan wel het diploma voor de zeevisvaart S IV-v;  
 
 b. het algemeen certificaat maritieme radiocommunicatie,  
 
@@ -347,7 +347,7 @@ c. een diensttijd van een jaar.
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als plaatsvervangend schipper zeevisvaart aan boord van vissersvaartuigen op reizen in onbeperkt vaargebied is ten minste vereist: 
 
-a. het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW 4 dan wel het diploma voor de zeevisvaart S IV-v,  
+a. het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW 4, het kennisbewijs stuurman voor de zeevisvaart S 4 dan wel het diploma voor de zeevisvaart S IV-v,  
 
 b. het algemeen certificaat maritieme radiocommunicatie;  
 
@@ -416,7 +416,7 @@ d. een diensttijd van één jaar.
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als werktuigkundige zeevisvaart aan boord van vissersvaartuigen op reizen in onbeperkt vaargebied is ten minste vereist: 
 
-a. het kennisbewijs werktuigkundige voor de zeevisvaart W IV-v dan wel het diploma voor de zeevisvaart W IV-v,  
+a. het kennisbewijs werktuigkundige voor de zeevisvaart W IV-v dan wel het diploma voor de zeevisvaart W IV-v, het kennisbewijs werktuigkundige voor de zeevisvaart W 4 dan wel het diploma werktuigkundige voor de zeevisvaart W IV-v;  
 
 b. een leeftijd van 18 jaar.    
 
@@ -452,7 +452,7 @@ Een vaarbevoegdheid als schipper aan boord van vissersvaartuigen waarvoor een be
 
 1.  Een kennisbewijs wordt afgegeven door: 
 
-a. een instelling als bedoeld in de [Wet educatie en beroepsonderwijs (Web)](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) die beroepsopleidingen voor de visserij op zee verzorgt waarvoor door de Minister van Onderwijs, Cultuur en Wetenschappen, in overeenstemming met Onze Minister, eindtermen zijn vastgesteld zoals bedoeld in [artikel 7.2.4, eerste lid, van die wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); of  
+a. een instelling als bedoeld in de Wet educatie en beroepsonderwijs (Web) die beroepsopleidingen voor de visserij op zee verzorgt waarvoor door de Minister van Onderwijs, Cultuur en Wetenschappen, in overeenstemming met Onze Minister, eindtermen zijn vastgesteld zoals bedoeld in artikel 7.2.4, eerste lid, van die wet; of  
 
 b. een door Onze Minister erkende opleiding of exameninstelling.     
 2.  Een certificaat wordt afgegeven door het bevoegd gezag van een door Onze Minister erkende opleiding, training, exameninstelling of een certificerende instelling op het gebied van persoonscertificatie   
@@ -461,9 +461,13 @@ b. een door Onze Minister erkende opleiding of exameninstelling.
 
 ####Beroepsvereisten zeevisvaart
 
+### Artikel  39a  
+
+Voor het verkrijgen van de kennisbewijzen stuurman-werktuigkundige voor de zeevisvaart SW 4, respectievelijk stuurman voor de zeevisvaart S 4 of werktuigkundige voor de zeevisvaart W 4 is betrokkene opgeleid overeenkomstig een kwalificatiedossier als bedoeld in de Wet educatie en beroepsonderwijs dat voor de beroepsopleiding Visserij officier is vastgesteld.  
+
 ### Artikel  40  
 
-Voor het verkrijgen van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW4 of SW5 heeft betrokkene: 
+Voor het verkrijgen van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW 5 heeft betrokkene: 
 
 1. met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan de syllabus opgenomen in Bijlage I;  
 
@@ -483,8 +487,8 @@ Voor het verkrijgen van het kennisbewijs stuurmanwerktuigkundige voor de zeevisv
 
 ### Artikel  42  
 
-1.  Voor het verkrijgen van het kennisbewijs stuurman zeevisvaart S IV-v is de betrokkene in het bezit van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW V en heeft hij met goed gevolg examen afgelegd ter verkrijging van de verklaring voor de zeevisvaart S IV-v als bedoeld in [artikel 2, onderdeel d, van het Examenreglement zeevisvaart](../../../../AMvB/examenreglement/zeevisvaart/BWBR0003996/README.md).   
-2.  Voor het verkrijgen van het kennisbewijs werktuigkundige zeevisvaart W IV-v is de betrokkene in het bezit van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW V en heeft hij met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan de eisen ter verkrijging van de verklaring voor de zeevisvaart W IV-v» als bedoeld in [artikel 2, onderdeel e, van het Examenreglement zeevisvaart](../../../../AMvB/examenreglement/zeevisvaart/BWBR0003996/README.md).   
+1.  Voor het verkrijgen van het kennisbewijs stuurman zeevisvaart S IV-v is de betrokkene in het bezit van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW V en heeft hij met goed gevolg examen afgelegd ter verkrijging van de verklaring voor de zeevisvaart S IV-v als bedoeld in artikel 2, onderdeel d, van het Examenreglement zeevisvaart.   
+2.  Voor het verkrijgen van het kennisbewijs werktuigkundige zeevisvaart W IV-v is de betrokkene in het bezit van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW V en heeft hij met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan de eisen ter verkrijging van de verklaring voor de zeevisvaart W IV-v» als bedoeld in artikel 2, onderdeel e, van het Examenreglement zeevisvaart.   
 
 ### Artikel  43  
 
@@ -531,7 +535,8 @@ Voor het verkrijgen van het certificaat sloepsgast is met goed gevolg een door O
 
 – sectie A-VI/2, paragraaf 1 tot en met 4 van de STCW-Code.    
 
-### Brandbestrijding voor gevorderden  
+### Brandbestrijding voor gevorderden   
+Vervallen per 01-01-2005   
 
 ### §  4  
 
@@ -599,7 +604,7 @@ i kennis van buitenlandse maten en gewichten; en
 ### Artikel  49  
 
 1.  Bij regeling van Onze Minister wordt het model van de monsterrol vastgesteld.   
-2.  Op de monsterrol worden naast de gegevens, genoemd in [artikel 33 van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), voor ieder bemanningslid aangetekend: 
+2.  Op de monsterrol worden naast de gegevens, genoemd in artikel 33 van de wet, voor ieder bemanningslid aangetekend: 
 
 a. de plaats en de dag van aanmonstering en de plaats en de dag van afmonstering;  
 
@@ -614,7 +619,7 @@ d. de naam en roepletters van het vissersvaartuig
 
 1.  Alvorens een schip voor de eerste maal naar zee vertrekt en vervolgens met tussenpozen van niet meer dan twaalf maanden wordt een monsterrol opgemaakt.   
 2.  Bij elke wijziging in de bemanningssamenstelling wordt een monsterrol opgemaakt.   
-3.  Ter uitvoering van het gestelde in [artikel 34, eerste lid, onderdeel d, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) zendt de kapitein binnen een week na het opmaken, dan wel in de eerstvolgende haven de monsterrol aan de scheepsbeheerder.   
+3.  Ter uitvoering van het gestelde in artikel 34, eerste lid, onderdeel d, van de wet zendt de kapitein binnen een week na het opmaken, dan wel in de eerstvolgende haven de monsterrol aan de scheepsbeheerder.   
 4.  De scheepsbeheerder houdt aantekening van de datum van ontvangst van monsterrollen.   
 5.  De opgemaakte monsterrollen worden ten kantore van de scheepsbeheerder in Nederland bewaard en ter beschikking gehouden ten behoeve van het houden van toezicht door de bij besluit van Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.   
 
@@ -651,7 +656,7 @@ a. een geldig paspoort of ander geldig nationaliteitsbewijs van de houder;
 
 b. twee identieke, recente, goedgelijkende pasfoto's van de aanvrager, zo mogelijk zonder hoofddeksel, van ongeveer 4 cm hoogte en 3 cm breedte, zodanig dat de afbeelding voor ongeveer drievierde de ene gelaatshelft en voor ongeveer éénvierde de andere weergeeft; de pasfoto's vertonen geen beschadigingen en zijn aan de achterzijde voorzien van de naam van de aanvrager;  
 
-c. een niet langer dan 6 maanden voor de aanvraag afgegeven, de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens van de gemeente waar de aanvrager is ingeschreven;  
+c. een niet langer dan 6 maanden voor de aanvraag afgegeven, de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisregistratie personen;  
 
 d. de bewijsstukken, waardoor wordt aangetoond dat de aanvrager aan artikel 53 voldoet;  
 
@@ -728,14 +733,14 @@ De artikelen 53, tweede lid, 54 en 55 zijn van overeenkomstige toepassing bij de
 1.  Ten behoeve van de afgifte van een in artikel 60 genoemde geneeskundige verklaring worden de bemanningsleden aan een daarop gericht medisch onderzoek onderworpen door een door Onze Minister daartoe als keuringsarts aangewezen geneeskundige.   
 2.  Indien de keuringsarts twijfels heeft omtrent de medische geschiktheid dan wel wanneer in de medische eisen, bedoeld in artikel 62, eerste lid, een specialistisch rapport is vereist, verwijst deze arts de keurling voor deelonderzoek door naar een specialist.   
 3.  Een geneeskundige verklaring zeevaart wordt afgegeven door een keuringsarts die heeft vastgesteld dat de keurling voldoet aan de voor die verklaring van toepassing zijnde medische eisen, bedoeld in artikel 62, eerste lid.   
-4.  Indien de gekeurde gebruik wenst te maken van zijn recht om opnieuw te worden onderzocht, wordt hij onderzocht door een ingevolge [artikel 42, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) als scheidsrechter aangewezen geneeskundige.   
+4.  Indien de gekeurde gebruik wenst te maken van zijn recht om opnieuw te worden onderzocht, wordt hij onderzocht door een ingevolge artikel 42, eerste lid, van de wet als scheidsrechter aangewezen geneeskundige.   
 5.  De in dit besluit bedoelde onderzoeken worden verricht door geneeskundigen die niet de behandelend arts of specialist van de keurling zijn.   
 
 ### Artikel  62  
 
 1.  Bij regeling van Onze Minister worden de medische eisen vastgesteld waaraan de keurling moet voldoen om in aanmerking te komen voor de geneeskundige verklaring, bedoeld in artikel 60. Daarbij worden tevens de medische eisen betreffende het gezichtsorgaan en het gehoor vastgesteld voor bemanningsleden die aan boord een wachtfunctie vervullen.   
 2.  Bij regeling van Onze Minister worden de procedures en andere voorschriften vastgesteld die in acht worden genomen bij elk van de onderzoeken, bedoeld in artikel 61.   
-3.  Bij de vaststelling van medische eisen wordt bepaald ten aanzien van welke nieuwe medische eisen een ontheffing als bedoeld in [artikel 44, tweede lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) kan worden verleend.   
+3.  Bij de vaststelling van medische eisen wordt bepaald ten aanzien van welke nieuwe medische eisen een ontheffing als bedoeld in artikel 44, derde lid, van de wet kan worden verleend.   
 4.  In afwijking van het vereiste in het eerste lid kan de Medisch Adviseur Scheepvaart aan een keurling ontheffing verlenen van een van de medische eisen indien naar zijn mening het niet voldoen aan die medische eis de veiligheid niet nadelig beïnvloedt.   
 
 ### Artikel  63  
@@ -759,7 +764,7 @@ De keuringsarts die het onderzoek uitvoert, neemt de in artikel 62, eerste lid, 
 
 ### Artikel  66  
 
-1.  Een geneeskundige kan Onze Minister verzoeken hem aan te wijzen als keuringsarts. Bij het verzoek wordt een geldig bewijs van registratie als arts, bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), overgelegd.   
+1.  Een geneeskundige kan Onze Minister verzoeken hem aan te wijzen als keuringsarts. Bij het verzoek wordt een geldig bewijs van registratie als arts, bedoeld in de Wet op de beroepen in de individuele gezondheidszorg, overgelegd.   
 2.  Indien het verzoek is ingediend door een geneeskundige die in het buitenland zijn praktijk houdt, vergewist de Medisch Adviseur Scheepvaart zich van diens vakbekwaamheid.   
 3.  Onze Minister gaat niet over tot aanwijzing van een geneeskundige indien diens onafhankelijkheid ten opzichte van werkgevers, werknemers of hun organisaties niet gewaarborgd is, of ingeval diens professionele kundigheden, praktijkervaring of beroepsuitrusting naar het oordeel van de Medisch Adviseur Scheepvaart, ressorterend onder Onze Minister, ontoereikend zijn.   
 4.  Bij het besluit van Onze Minister over de aanwijzing worden het aantal reeds aangewezen geneeskundigen en de spreiding over het land in relatie tot de regionale of plaatselijke behoefte in aanmerking genomen.   
@@ -792,10 +797,10 @@ j. heeft verzuimd een voor hem aangewezen nascholingscursus te volgen.
 
 ### Artikel  68  
 
-1.  De kosten van een geneeskundig onderzoek, heronderzoek of specialistisch deelonderzoek als bedoeld in de [artikelen 40](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [42 van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) komen voor rekening van de scheepsbeheerder of werkgever.   
+1.  De kosten van een geneeskundig onderzoek, heronderzoek of specialistisch deelonderzoek als bedoeld in de artikelen 40 en 42 van de wet komen voor rekening van de scheepsbeheerder of werkgever.   
 2.  Voor zover er geen scheepsbeheerder of werkgever is aan te wijzen worden de kosten, bedoeld in het eerste lid, gedragen door degene die opdracht heeft gegeven voor het onderzoek.   
-3.  De kosten van een geneeskundig onderzoek of specialistisch deelonderzoek als bedoeld in [artikel 23, tweede lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) worden door het Rijk gedragen.   
-4.  De kosten van een heronderzoek of een aanvullend specialistisch deelonderzoek, bedoeld in de [artikelen 40](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [42 van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) worden gedragen door het Rijk, voor zover zij naar het oordeel van Onze Minister redelijkerwijs niet voor rekening van de gekeurde behoren te komen.   
+3.  De kosten van een geneeskundig onderzoek of specialistisch deelonderzoek als bedoeld in artikel 23, tweede lid, van de wet worden door het Rijk gedragen.   
+4.  De kosten van een heronderzoek of een aanvullend specialistisch deelonderzoek, bedoeld in de artikelen 40 en 42 van de wet worden gedragen door het Rijk, voor zover zij naar het oordeel van Onze Minister redelijkerwijs niet voor rekening van de gekeurde behoren te komen.   
 
 ### Artikel  69  
 
@@ -828,7 +833,7 @@ f. de brand- en waterdichte deuren, met uitzondering van die ter afsluiting van 
 ### Artikel  73  
 
 1.  De schipper en het bemanningslid aan wie, onder de verantwoordelijkheid van de schipper, de zorg voor het gebruik en het beheer van de medische uitrusting is overgedragen zijn in het bezit van het certificaat scheepsgezondheidszorg O (Onbeperkt), bedoeld in artikel 47, tweede lid, of , wanneer aan het vissersvaartuig een bemanningscertificaat is afgegeven voor een beperkt vaargebied dat zich niet verder uitstrekt dan vaargebied II, van het certificaat scheepsgezondheidszorg B (Beperkt), bedoeld in artikel 47, eerste lid.   
-2.  Voor de toepassing van het eerste lid worden bezitters van het kennisbewijs SW 4, SW 5 en het diploma SIV-v geacht in het bezit te zijn van het certificaat scheepsgezondheidszorg B.   
+2.  Voor de toepassing van het eerste lid worden bezitters van het kennisbewijs SW 5 en het diploma S IV-v geacht in het bezit te zijn van het certificaat scheepsgezondheidszorg B.   
 3.  De in het eerste lid bedoelde personen volgen ten minste eenmaal in de vijf jaar een bijscholingscursus als bedoeld in artikel 47, derde lid, die voor personen aan boord van vissersvaartuigen waarvoor een bemanningscertificaat is afgegeven voor onbeperkt vaargebied mede een herhalingsstage als bedoeld in artikel 47, vierde lid, omvat.   
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van dit artikel.   
 
@@ -853,8 +858,8 @@ f. de brand- en waterdichte deuren, met uitzondering van die ter afsluiting van 
 
 ### Artikel  77  
 
-1.  Aan boord van een vissersvaartuig dat reizen onderneemt buiten het zeegebied A1, zoals omschreven in Hoofdstuk IV van het SOLAS-verdrag, is ten minste één persoon die als chef van de wacht op de brug kan optreden, in het bezit van een algemeen certificaat maritieme radiocommunicatie, afgegeven in overeenstemming met het bepaalde bij of krachtens het [Frequentiebesluit](../../../../AMvB/frequentiebesluit/BWBR0009997/README.md); deze persoon is door de schipper aangewezen als de verantwoordelijke persoon voor de afhandeling van radioberichtgeving tijdens noodgevallen. Alle andere personen die als chef van de wacht op de brug kunnen optreden zijn in het bezit zijn van het beperkt certificaat maritieme radiocommunicatie.   
-2.  Aan boord van een vissersvaartuig dat uitsluitend reizen onderneemt in zeegebied A1, is ten minste één der personen die als chef van de wacht op de brug kunnen optreden in het bezit van het beperkt certificaat maritieme radiocommunicatie, afgegeven in overeenstemming met het bepaalde bij of krachtens het [Frequentiebesluit](../../../../AMvB/frequentiebesluit/BWBR0009997/README.md).   
+1.  Aan boord van een vissersvaartuig dat reizen onderneemt buiten het zeegebied A1, zoals omschreven in Hoofdstuk IV van het SOLAS-verdrag, is ten minste één persoon die als chef van de wacht op de brug kan optreden, in het bezit van een algemeen certificaat maritieme radiocommunicatie, afgegeven in overeenstemming met het bepaalde bij of krachtens het Frequentiebesluit 2013; deze persoon is door de schipper aangewezen als de verantwoordelijke persoon voor de afhandeling van radioberichtgeving tijdens noodgevallen. Alle andere personen die als chef van de wacht op de brug kunnen optreden zijn in het bezit zijn van het beperkt certificaat maritieme radiocommunicatie.   
+2.  Aan boord van een vissersvaartuig dat uitsluitend reizen onderneemt in zeegebied A1, is ten minste één der personen die als chef van de wacht op de brug kunnen optreden in het bezit van het beperkt certificaat maritieme radiocommunicatie, afgegeven in overeenstemming met het bepaalde bij of krachtens het Frequentiebesluit 2013.   
 
 ### Artikel  78  
 
@@ -896,10 +901,10 @@ A. H. Korthals
 
 ### Bijlage  I  
 
-*Syllabus voor het verkrijgen van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW4 of SW5*   
+*Syllabus voor het verkrijgen van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW5*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1.  |  *Navigatie en plaatsbepaling*   |
 |  *1.1*   |  *Reisvoorbereiding en navigatie onder alle omstandigheden:*   |
 | 1.1.1  | met behulp van aanvaardbare methoden voor het bepalen van de route met inbegrip van oceaan oversteken  |
@@ -1056,7 +1061,7 @@ A. H. Korthals
 *Syllabus voor het verkrijgen van het kennisbewijs stuurman-werktuigkundige voor de zeevisvaart SW6*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *1.*   |  *Navigatie en plaatsbepaling*   |
 | 1.1  | Reisvoorbereiding en navigatie onder alle omstandigheden:  |
 | 1.1.1  | met behulp van aanvaardbare methoden voor het bepalen van de route;  |

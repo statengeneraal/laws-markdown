@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-De aan de Directie, bij [artikel 4f](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheden worden gemandateerd zowel aan de Algemeen Directeur en de Directeur Bedrijfsvoering, als aan hen ieder afzonderlijk.  
+De aan de Directie, bij [artikel 4f](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheden worden gemandateerd zowel aan de Algemeen Directeur en de Directeur Bedrijfsvoering, als aan hen ieder afzonderlijk. 
 
 ### Artikel  1a  
 
@@ -34,7 +34,7 @@ h. het Hoofd Human Resources;
 
 i. de Manager ICT Bedrijf;  
 
-j. het Hoofd Facilitair Bedrijf.    
+j. het Hoofd Facilitair Bedrijf.   
 
 ### Artikel  2  
 
@@ -70,7 +70,7 @@ d. de Afdeling Juridische en Bestuurlijke Zaken, te weten:
 
 1. de Senior Juridisch adviseurs;  
 
-2. de Juridisch adviseurs;      
+2. de Juridisch adviseurs;     
 
 ### Artikel  3  
 
@@ -180,7 +180,7 @@ h. de afdeling Relatiemanagement RDW van de Divisie Registratie en Informatie, t
 
 i. 
 
-1. de Unitmanager Planning & Control.      
+1. de Unitmanager Planning & Control.     
 
 ### Artikel  4  
 
@@ -242,7 +242,7 @@ f. het bedrijfsproces Individuele Keuring, van de Divisie Voertuigtechniek, te w
 
 3. de Technisch Medewerkers Licht;  
 
-4. de 1 <sup>e</sup> Administratief Medewerkers;  
+4. de 1<sup>e</sup> Administratief Medewerkers;  
 
 5. de Administratief medewerkers;  
 
@@ -382,7 +382,7 @@ s. de unit i-Dee, te weten:
 
 t. de afdeling Projectmanagement & Support, te weten: 
 
-1. de Registerbeheerders;      
+1. de Registerbeheerders;     
 
 ### Artikel  5  
 
@@ -413,49 +413,49 @@ d. het aangaan van (internationale) samenwerkingsverbanden;
 e. het sluiten van bestuurlijke overeenkomsten;  
 
 f. het voeren van politiek overleg.     
-2.  Het reglement als bedoeld in [artikel 4n van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is bij het uitoefenen van deze bevoegdheden van toepassing.   
+2.  Het reglement als bedoeld in [artikel 4n van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is bij het uitoefenen van deze bevoegdheden van toepassing.  
 
 ### Artikel  5a  
 
 Aan de Directie worden voor akkoordverklaring voorgelegd: 
 
-– brieven die bijvoorbeeld betrekking hebben op zwaarwegende financiële aspecten, aspecten van algemeen belang of die betreffen mailings aan grote groepen. Het betreft alle niet reguliere correspondentie, niet zijnde standaardbrieven. Deze brieven worden tevens voor redactie voorgelegd aan de afdeling Communicatie. Brieven van de afdeling Human Resources zijn hier van uitgezonderd.    
+– brieven die bijvoorbeeld betrekking hebben op zwaarwegende financiële aspecten, aspecten van algemeen belang of die betreffen mailings aan grote groepen. Het betreft alle niet reguliere correspondentie, niet zijnde standaardbrieven. Deze brieven worden tevens voor redactie voorgelegd aan de afdeling Communicatie. Brieven van de afdeling Human Resources zijn hier van uitgezonderd.   
 
 ### Artikel  6  
 
 1.  De in artikel 1a genoemde functionarissen maken van het hen verleende mandaat uitsluitend gebruik, voor zover het aangelegenheden betreft die behoren tot hun werkterrein en die naar hun aard of inhoud niet een zodanig gewicht hebben dat zij behoren te worden afgedaan door de Directie.   
 2.  De in de artikelen 2, 3, en 4 genoemde functionarissen maken van het hen verleende mandaat uitsluitend gebruik, voor zover het aangelegenheden betreft die – gelet op het bepaalde in Bijlage 1 bij deze regeling – behoren tot het werkterrein van hun dienstonderdeel, en die – mede gelet op de inhoud van Bijlage 2 bij deze regeling – naar hun aard of inhoud niet een zodanig gewicht hebben dat zij behoren te worden afgedaan door de functionaris onder wie zij rechtstreeks ressorteren.   
 3.  De door de Directie aan de in artikel 1a, en de in artikel 2, onder a, b en c, genoemde functionarissen verleende bevoegdheden kunnen slechts worden uitgeoefend door die waarnemers van bedoelde functionarissen die door de Directie daartoe schriftelijk zijn aangewezen.   
-4.  Op gevallen waarin door de Directie ondermandaat is verleend aan functionarissen van de RDW, ten aanzien van bevoegdheden die door andere bestuursorganen aan de RDW bij mandaat zijn verleend, is deze mandaatregeling van overeenkomstige toepassing.   
+4.  Op gevallen waarin door de Directie ondermandaat is verleend aan functionarissen van de RDW, ten aanzien van bevoegdheden die door andere bestuursorganen aan de RDW bij mandaat zijn verleend, is deze mandaatregeling van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
 1.  De stukken die door de in de artikelen 1a tot en met 4 genoemde functionarissen op grond van deze regeling worden afgedaan en ondertekend, vermelden aan het slot: De directie van de RDW, namens deze, gevolgd door functieaanduiding, handtekening en naam van de betrokken functionaris.   
-2.  Certificaten, processen-verbaal, documenten en rapporten die door de in de artikelen 1a tot en met 4 genoemde functionarissen op grond van deze regeling worden opgemaakt en / of afgegeven, worden ondertekend op de in de betreffende regelingen aangegeven wijze.   
+2.  Certificaten, processen-verbaal, documenten en rapporten die door de in de artikelen 1a tot en met 4 genoemde functionarissen op grond van deze regeling worden opgemaakt en / of afgegeven, worden ondertekend op de in de betreffende regelingen aangegeven wijze.  
 
 ### Artikel  8  
 
-De [Mandaatregeling RDW van 6 juni 2013](../../../../zbo/mandaatregeling/rdw/BWBR0033546/README.md), Stcrt. 16353 wordt ingetrokken.  
+De [Mandaatregeling RDW van 6 juni 2013](../../../../zbo/mandaatregeling/rdw/BWBR0033546/README.md), Stcrt. 16353 wordt ingetrokken. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Mandaatregeling RDW.  
+Deze regeling wordt aangehaald als: Mandaatregeling RDW. 
 
 ### Artikel  10  
 
-Deze regeling zal worden gepubliceerd in de Staatscourant en treedt in werking per 1 januari 2014.  
+Deze regeling zal worden gepubliceerd in de Staatscourant en treedt in werking per 1 januari 2014. 
 
 Zoetermeer 
 19 december 2013   
 
 De directie van de RDW 
 J.G. Hakkenberg,  
-Algemeen directeur.  
+Algemeen directeur. 
 
 H. van Santen,  
 Directeur bedrijfsvoering.   
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####als bedoeld in artikel 6, tweede lid , van de Mandaatregeling RDW
 
@@ -545,7 +545,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   In de gevallen waarbij door een bestuursorgaan mandaat van bevoegdheden is verleend aan de RDW, wordt – met toestemming van dat bestuursorgaan – door de Directie ondermandaat verleend aan de betreffende functionarissen van de afdeling Ontheffingen.  
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   In de gevallen waarbij door een bestuursorgaan mandaat van bevoegdheden is verleend aan de RDW, wordt – met toestemming van dat bestuursorgaan – door de Directie ondermandaat verleend aan de betreffende functionarissen van de afdeling Ontheffingen. 
 
 ### b  
 
@@ -593,7 +593,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### c.  
 
@@ -607,7 +607,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### d  
 
@@ -619,7 +619,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### e  
 
@@ -629,7 +629,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### II  
 
@@ -697,7 +697,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### b  
 
@@ -715,7 +715,7 @@ heeft tot taak:
 
 – het bepalen dat met een ingeschreven voertuig geen gebruik meer mag worden gemaakt van de weg overeenkomstig [artikel 48, zevende lid van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### c  
 
@@ -725,7 +725,7 @@ heeft tot taak:
 
 – het onderhouden van de contacten met overheden, branchepartijen en andere belangrijke (ook interne) relaties;  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### d  
 
@@ -733,7 +733,7 @@ heeft tot taak:
 
 heeft tot taak: 
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### III  
 
@@ -753,7 +753,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### IV  
 
@@ -769,7 +769,7 @@ heeft tot taak:
 
 – het afhandelen van klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### V  
 
@@ -781,7 +781,7 @@ heeft tot taak:
 
 – het afhandelen van (afdelingoverschrijdende) klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
 ### VI  
 
@@ -789,9 +789,9 @@ heeft tot taak:
 
 hebben tot taak: 
 
-– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).    
+– het afhandelen van verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####als bedoeld in artikel 6, tweede lid , van de Mandaatregeling RDW
 
@@ -809,7 +809,7 @@ de Medewerkers Backoffice:
 
 – het registreren van klachten en het coördineren van de afhandeling daarvan;  
 
-– de afhandeling van bedoelde klachten, voor zover deze naar hun aard of inhoud niet een zodanig gewicht hebben, dat zij behoren te worden afgehandeld door de Senior Adviseur Voertuigtechniek, één van de vijf Clustermanagers, of door de Divisiemanager Voertuigtechniek;    
+– de afhandeling van bedoelde klachten, voor zover deze naar hun aard of inhoud niet een zodanig gewicht hebben, dat zij behoren te worden afgehandeld door de Senior Adviseur Voertuigtechniek, één van de vijf Clustermanagers, of door de Divisiemanager Voertuigtechniek;   
 
 ### 1.2  
 
@@ -823,7 +823,7 @@ de Operationeel Manager, de Inspecteurs en de Assistent Inspecteurs:
 
 – het verrichten van toelatingskeuringen en het afgeven van nationale en internationale certificaten, alsmede besluiten betreffende procedures met betrekking tot deze goedkeuringen en certificaten, op grond van [artikel 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [23](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– het verlenen van goedkeuringen op basis van de [Wet personenvervoer](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);    
+– het verlenen van goedkeuringen op basis van de [Wet personenvervoer](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);   
 
 ### 1.2.2  
 
@@ -855,7 +855,7 @@ b. de Teamleider administratie en de Administratief Medewerkers:
 
 – de afgifte van VLG/ADR-, ATP- en VWS-certificaten en van VLG/ADR-, ATP- en VWS-documenten;  
 
-– inschrijving in het kentekenregister zonder tenaamstelling overeenkomstig [artikel 48, zesde lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de afgifte van kentekenbewijzen als bedoeld in [artikel 4, vierde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);      
+– inschrijving in het kentekenregister zonder tenaamstelling overeenkomstig [artikel 48, zesde lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de afgifte van kentekenbewijzen als bedoeld in [artikel 4, vierde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);     
 
 ### 1.2.3  
 
@@ -863,7 +863,7 @@ b. de Teamleider administratie en de Administratief Medewerkers:
 
 de Teamcoördinatoren en de Administratief Medewerkers: 
 
-– het verlenen en afwijzen van ontheffingen op grond van [artikel 149](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 149a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
+– het verlenen en afwijzen van ontheffingen op grond van [artikel 149](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 149a van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);   
 
 ### 1.3  
 
@@ -905,7 +905,7 @@ b. de Administratief Medewerkers:
 
 – de inname van kentekenplaten;  
 
-– de afgifte van VLG/ADR-documenten op basis van de overgangsbepalingen ten aanzien van het vervoer van tankcontainers (randnummer 10.605 ADR) en ten aanzien van het vervoer van stoffen van de klasse 9,20c (randnummer 211.980 ADR) en van klasse 3,61c (randnummer 211.381 ADR).      
+– de afgifte van VLG/ADR-documenten op basis van de overgangsbepalingen ten aanzien van het vervoer van tankcontainers (randnummer 10.605 ADR) en ten aanzien van het vervoer van stoffen van de klasse 9,20c (randnummer 211.980 ADR) en van klasse 3,61c (randnummer 211.381 ADR).     
 
 ### 1.4  
 
@@ -923,7 +923,7 @@ a. de Inspecteurs:
 
 b. de Steekproefcontroleurs: 
 
-– het houden van toezicht op de naleving van verplichtingen die voortvloeien uit de verleende erkenningen en bevoegdheden als bedoeld in [hoofdstuk 5, paragraaf 1 tot en met 8](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [hoofdstuk 6, afdeling 9, paragraaf 5, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 9:2 van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en de [Regeling erkenning werkplaatsen boordcomputer Taxi](../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md), alsmede het uitvoeren van steekproefsgewijze controles in dat kader.      
+– het houden van toezicht op de naleving van verplichtingen die voortvloeien uit de verleende erkenningen en bevoegdheden als bedoeld in [hoofdstuk 5, paragraaf 1 tot en met 8](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [hoofdstuk 6, afdeling 9, paragraaf 5, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 9:2 van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en de [Regeling erkenning werkplaatsen boordcomputer Taxi](../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md), alsmede het uitvoeren van steekproefsgewijze controles in dat kader.     
 
 ### 2  
 
@@ -937,7 +937,7 @@ de bedrijvencontroleurs:
 
 – het schouwen van bedrijven in het kader van afgifte erkenning bedrijfsvoorraad en onderliggende bevoegdheden, van erkenning kentekenplaatfabrikanten, van erkenning lamineerders en van erkenning foliefabrikanten;  
 
-– het toezicht op naleving van de, uit voornoemde erkenningen en bevoegdheden voortvloeiende verplichtingen, zoals het uitvoeren van periodieke controles van de bedrijfsvoorraad en van de gevoerde administratie bij erkende bedrijven in het kader van het toezichtbeleid RDW;    
+– het toezicht op naleving van de, uit voornoemde erkenningen en bevoegdheden voortvloeiende verplichtingen, zoals het uitvoeren van periodieke controles van de bedrijfsvoorraad en van de gevoerde administratie bij erkende bedrijven in het kader van het toezichtbeleid RDW;   
 
 ### 2.2  
 
@@ -959,7 +959,7 @@ de productieconsultants KCC, de (senior) medewerkers KCC en de (senior) medewerk
 
 – het voeren van correspondentie en het verstrekken van informatie over de levering van gegevens uit het kentekenregister en het WAM-register  
 
-– het afgeven van klantnummers voor online-gebruikers en rekening-couranthouders.    
+– het afgeven van klantnummers voor online-gebruikers en rekening-couranthouders.   
 
 ####2.2.2. van de unit Landelijk Informatiecentrum Voertuigcriminaliteit (LIV):
 
@@ -969,7 +969,7 @@ de relatiemanager:
 
 – het voeren van correspondentie met deze externe partijen;   de medewerkers LIV: 
 
-– het bepalen dat met een ingeschreven voertuig geen gebruik meer mag worden gemaakt van de weg overeenkomstig [artikel 48, zevende lid van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
+– het bepalen dat met een ingeschreven voertuig geen gebruik meer mag worden gemaakt van de weg overeenkomstig [artikel 48, zevende lid van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);   
 
 ### 2.3  
 
@@ -977,7 +977,7 @@ de relatiemanager:
 
 de medewerkers Beoordeling en Helpdesk: 
 
-– het in ontvangst nemen van aanvragen voor en het afgeven van rijbewijzen en verklaringen uit het register CRB;    
+– het in ontvangst nemen van aanvragen voor en het afgeven van rijbewijzen en verklaringen uit het register CRB;   
 
 ### 2.4  
 
@@ -985,7 +985,7 @@ de medewerkers Beoordeling en Helpdesk:
 
 a. de relatiemanagers: 
 
-– het voeren van overleg en het maken van afspraken met externe partijen namens de RDW;      
+– het voeren van overleg en het maken van afspraken met externe partijen namens de RDW;     
 
 ### 2.5  
 
@@ -993,7 +993,7 @@ a. de relatiemanagers:
 
 de Interfacecoördinator Operations: 
 
-– de afhandeling van klachten bij afwezigheid van de afdelingsmanager Operations.    
+– de afhandeling van klachten bij afwezigheid van de afdelingsmanager Operations.   
 
 ### 3  
 
@@ -1001,7 +1001,7 @@ de Interfacecoördinator Operations:
 
 de Beleidsmedewerkers OVR: 
 
-– het deelnemen en het woord voeren in internationaal, EU-, ECE- en Benelux overleg.    
+– het deelnemen en het woord voeren in internationaal, EU-, ECE- en Benelux overleg.   
 
 ### 4  
 
@@ -1013,5 +1013,5 @@ a. de (Senior) Juridisch adviseurs:
 
 1. inzake bezwaren op grond van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tegen beslissingen die door functionarissen werkzaam bij de RDW, krachtens mandaat zijn genomen;  
 
-2. inzake het afhandelen van (afdelingsoverschrijdende) klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);       De in de punten 1 tot en met 4 genoemde medewerkers maken van de hen verleende machtiging uitsluitend gebruik voor zover het handelingen betreft, die naar hun aard of inhoud niet een zodanig gewicht hebben, dat zij behoren te worden verricht door de functionaris onder wie zij rechtstreeks ressorteren.  
+2. inzake het afhandelen van (afdelingsoverschrijdende) klachten op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);       De in de punten 1 tot en met 4 genoemde medewerkers maken van de hen verleende machtiging uitsluitend gebruik voor zover het handelingen betreft, die naar hun aard of inhoud niet een zodanig gewicht hebben, dat zij behoren te worden verricht door de functionaris onder wie zij rechtstreeks ressorteren. 
 

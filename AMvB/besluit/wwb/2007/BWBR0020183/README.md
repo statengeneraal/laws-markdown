@@ -290,9 +290,9 @@ Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoel
 
 ### Artikel  11  
 
-####Adreslozen
+####: Niet-ingeschrevenen
 
-1.  Voor de verlening van bijstand op grond van de wet aan belanghebbenden zonder adres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) worden aangewezen: 
+1.  Voor de verlening van bijstand op grond van de wet aan belanghebbenden die niet zijn ingeschreven in de basisregistratie personen worden aangewezen: 
 
 a. de gemeenten opgenomen in de [bijlage onder A van het Besluit maatschappelijke ondersteuning](../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md), en  
 

@@ -14,21 +14,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Sanctieregeling Somalië 2003.   
+Wijzigt de Sanctieregeling Somalië 2003.
 
 ### Artikel  II  
 
-Wijzigt de Sanctieregeling Noord-Korea 2007.   
+Wijzigt de Sanctieregeling Noord-Korea 2007. 
 
 ### Artikel  III  
 
-Het verbod, bedoeld in [artikel 1b van de Sanctieregeling Noord-Korea 2007](../../../../../../../../../ministeriele-regeling/sanctieregeling/noord-korea/2007/BWBR0021990/README.md), zoals gewijzigd bij deze regeling, geldt niet voor het aanbieden van kennis als bedoeld in dat artikel aan de student die op het tijdstip van inwerkingtreding van deze regeling reeds bij de desbetreffende instelling voor hoger onderwijs was ingeschreven met het oog op het volgen van onderwijs of het verrichten van onderzoek op een kennisgebied waarop de bijlage bij die regeling betrekking heeft.  
+Het verbod, bedoeld in [artikel 1b van de Sanctieregeling Noord-Korea 2007](../../../../../../../../../ministeriele-regeling/sanctieregeling/noord-korea/2007/BWBR0021990/README.md), zoals gewijzigd bij deze regeling, geldt niet voor het aanbieden van kennis als bedoeld in dat artikel aan de student die op het tijdstip van inwerkingtreding van deze regeling reeds bij de desbetreffende instelling voor hoger onderwijs was ingeschreven met het oog op het volgen van onderwijs of het verrichten van onderzoek op een kennisgebied waarop de bijlage bij die regeling betrekking heeft. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zaken,
-F.C.G.M.Timmermans   
+Minister van Buitenlandse Zaken, 
+F.C.G.M. Timmermans     

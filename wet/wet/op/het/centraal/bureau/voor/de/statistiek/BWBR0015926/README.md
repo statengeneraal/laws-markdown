@@ -251,7 +251,7 @@ c. zelfstandige bestuursorganen op het niveau van de centrale overheid.
 
 ### Artikel  34  
 
-De directeur-generaal kan het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer opnemen in een registratie en daarvan gebruik maken ten behoeve van statistische doeleinden. De directeur-generaal kan het burgerservicenummer, onderscheidenlijk het sociaal-fiscaalnummer, gebruiken in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het gebruik van dat nummer in een registratie.  
+De directeur-generaal kan het burgerservicenummer opnemen in een registratie en daarvan gebruik maken ten behoeve van statistische doeleinden. De directeur-generaal kan het burgerservicenummer gebruiken in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het gebruik van dat nummer in een registratie.  
 
 ### Artikel  35  
 

@@ -3,43 +3,43 @@
 ##Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen
 
 De Staatssecretaris van Financiën,  
-Handelende wat [artikel 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), betreft, in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid en wat [artikel 47](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) betreft, in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+Handelende wat artikel 6, tweede en derde lid, betreft, in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid en wat artikel 47 betreft, in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op de [artikelen 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [8, zevende lid,](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md)[17, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [25, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [31, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), en [47 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);
+Gelet op de artikelen 6, tweede en derde lid, 8, zevende lid,17, tweede lid, 25, tweede lid, 31, tweede lid, en 47 van de Algemene wet inkomensafhankelijke regelingen;
 Besluit:    
 
 ### Artikel  1  
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [8, zesde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [17, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [21a](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [25, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [31](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [47 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [artikel 2a van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen](../../../../../../../AMvB/uitvoeringsbesluit/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018707/README.md).  
+Deze regeling geeft uitvoering aan de artikelen 6, tweede en derde lid, 8, zesde lid, 17, tweede lid, 21a, 25, tweede lid, 31 en 47 van de Algemene wet inkomensafhankelijke regelingen en artikel 2a van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.  
 
 ### Artikel  2  
 
 ####Definities
 
-Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md).  
+Deze regeling verstaat onder wet: Algemene wet inkomensafhankelijke regelingen.  
 
 ### Artikel  3  
 
-####Gelijkstelling met gemeentelijke basisadministratie persoonsgegevens
+####Gelijkstelling met basisregistratie personen
 
-1.  Iemand die niet in Nederland woont, wordt geacht op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland, indien: 
+1.  Iemand die niet in Nederland woont, wordt geacht op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland, indien: 
 
-a. hij vanwege zijn functie of vanwege de functie van een van de tot zijn huishouden behorende personen niet kan of niet hoeft te worden ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland;  
+a. hij vanwege zijn functie of vanwege de functie van een van de tot zijn huishouden behorende personen niet kan of niet hoeft te worden ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland;  
 
-b. blijkt dat hij niet woont op het adres waarop hij is ingeschreven in de bevolkingsadministratie in zijn woonland;  
+b. blijkt dat hij niet woont op het adres waarop hij is ingeschreven in de bevolkingsregistratie in zijn woonland;  
 
-c. zijn woonland geen of geen naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie voert.     
-2.  Iemand die in de gemeentelijke basisadministratie persoonsgegevens niet op zijn woonadres is ingeschreven, wordt geacht daarin wel op dat adres te zijn ingeschreven, indien: 
+c. zijn woonland geen of geen naar aard en strekking met de basisregistratie personen overeenkomende registratie voert.     
+2.  Iemand die in de basisregistratie personen niet op zijn woonadres is ingeschreven, wordt geacht daarin wel op dat adres te zijn ingeschreven, indien: 
 
-a. hij een vreemdeling is als bedoeld in [artikel 9, tweede lid, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
+a. hij een vreemdeling is als bedoeld in artikel 9, tweede lid, van de wet;  
 
-b. hij of een tot zijn huishouden behorende persoon op grond van [artikel 32 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) in verband met zijn bijzondere verblijfsrechtelijke status niet in aanmerking komt voor inschrijving, met dien verstande dat voor degenen die zijn opgenomen in de door het Ministerie van Buitenlandse Zaken gevoerde Protocollaire Basisadministratie, het in deze administratie opgenomen woonadres geldt;  
+b. hij of een tot zijn huishouden behorende persoon op grond van artikel 21, eerste lid, van het Besluit basisregistratie personen in verband met zijn bijzondere verblijfsrechtelijke status niet in aanmerking komt voor inschrijving, met dien verstande dat voor degenen die zijn opgenomen in de door het Ministerie van Buitenlandse Zaken gevoerde Protocollaire Basisadministratie, het in deze administratie opgenomen woonadres geldt;  
 
-c. blijkt dat sprake is van een onjuiste inschrijving in de gemeentelijke basisadministratie persoonsgegevens voor de periode tot aan de datum van adreswijziging als bedoeld in [artikel 47, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
+c. blijkt dat sprake is van een onjuiste inschrijving in de basisregistratie personen voor de periode tot aan de datum van adreswijziging, bedoeld in artikel 2.20, derde lid, van de Wet basisregistratie personen;  
 
-d. hij zich binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven bij de gemeentelijke basisadministratie persoonsgegevens.     
+d. hij zich binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven in de basisregistratie personen.     
 
 ### Artikel  5  
 
@@ -57,14 +57,14 @@ c. een verhuizing van de belanghebbende, diens partner of een medebewoner naar o
 
 a. een wijziging in de huurprijs;  
 
-b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in [artikel 2, eerste lid, onderdeel e, onder 2°, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
+b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in artikel 2, eerste lid, onderdeel e, onder 2°, van de wet;  
 
 c. een verandering van verhuurder;  
 
-d. een verhoging van het geschatte vermogen van de belanghebbende, diens partner of een medebewoner waardoor over het berekeningsjaar vermoedelijk voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking zal worden genomen;  
+d. een verhoging van het geschatte vermogen van de belanghebbende, diens partner of een medebewoner waardoor over het berekeningsjaar vermoedelijk voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 in aanmerking zal worden genomen;  
 
 e. de komst of het vertrek van een medebewoner.     
-4.  Indien er een voorschot zorgtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt de beëindiging van de zorgverzekering of een opschorting van die verzekering als bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+4.  Indien er een voorschot zorgtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt de beëindiging van de zorgverzekering of een opschorting van die verzekering als bedoeld in artikel 24 van de Zorgverzekeringswet.   
 5.  Indien er een voorschot kinderopvangtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt: 
 
 a. een wijziging in het aantal uren genoten kinderopvang door een kind van de belanghebbende of van zijn partner;  
@@ -75,7 +75,7 @@ c. een wijziging van het geregistreerde kindercentrum of geregistreerde gastoude
 
 d. een wijziging in de uurprijs;  
 
-e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 1.22](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) onderscheidenlijk [artikel 1.29 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).     
+e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 1.22 onderscheidenlijk artikel 1.29 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.     
 6.  In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel b, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.   
 
 ### Artikel  5a  
@@ -98,7 +98,27 @@ e. sprake is van enig feit waardoor de tegemoetkoming op een te laag bedrag is v
 
 ####Gegevensverkeer bij betaling op andere bankrekening
 
-Indien op grond van [artikel 25, eerste lid, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de belanghebbende.  
+1.  Als gevallen als bedoeld in artikel 25, derde lid, van de wet worden aangewezen uitbetalingen door de Belastingdienst/Toeslagen: 
+
+a. van kinderopvangtoeslag op de bankrekening van een onderneming als bedoeld in de Handelsregisterwet 2007, die een of meerdere kindercentra of een of meerdere gastouderbureaus exploiteert, als bedoeld in artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
+
+b. van huurtoeslag op de bankrekening van een toegelaten instelling, als bedoeld in artikel 70 van de Woningwet;  
+
+c. van zorgtoeslag op de bankrekening van een zorgverzekeraar, als bedoeld in artikel 1, onderdeel b, van de Zorgverzekeringswet; voor zover de onderneming, instelling of zorgverzekeraar voor dit doel een convenant heeft afgesloten met de Belastingdienst/Toeslagen.     
+2.  Als gevallen als bedoeld in artikel 25, derde lid, van de wet worden voorts aangewezen uitbetalingen door de Belastingdienst/Toeslagen op de bankrekening: 
+
+a. van een lid van de Nederlandse Vereniging voor Volkskrediet voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer;  
+
+b. van een gemeente op grond van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer van de Nederlandse Vereniging voor Volkskrediet of overeenkomsten met dezelfde strekking;  
+
+c. van een curator in een faillissement;  
+
+d. van een bewindvoerder in een schuldsaneringsregeling natuurlijke personen;  
+
+e. van een derde indien een belanghebbende niet beschikt over een bankrekening die op zijn naam staat, naar het oordeel van de Belastingdienst/Toeslagen niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en de belanghebbende hierom verzoekt.     
+3.  Bij gevallen als bedoeld artikel 7a, vierde lid, van de Invorderingswet 1990 is artikel 25, eerste lid, tweede volzin, van de wet niet van toepassing.   
+4.  Indien op grond van artikel 25, derde lid, van de wet de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer van de belanghebbende.   
+5.  Bij toepassing van het tweede lid, onderdelen a en b, wijst het aldaar bedoelde lid of de aldaar bedoelde gemeente aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belanghebbende en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het tweede lid, onderdelen a en b, bedoelde overeenkomst.   
 
 ### Artikel  7  
 
@@ -107,22 +127,22 @@ Indien op grond van [artikel 25, eerste lid, van de wet](../../../../../../../we
 1.  De Belastingdienst/Toeslagen stelt de belanghebbende in de gelegenheid een terugvordering te betalen in maandelijkse termijnen van € 40 mits hij voldoet aan door de Belastingdienst/Toeslagen nader te stellen voorwaarden.   
 2.  De Belastingdienst/Toeslagen kan ambtshalve een betaling in termijnen bewerkstelligen door middel van verrekening van de terugvordering met aan dezelfde belanghebbende periodiek uit te betalen bedragen. Indien een verrekening als bedoeld in de vorige volzin plaats vindt, wordt het totaal van de maandelijks aan de belanghebbende uit te betalen bedragen met ten hoogste € 40 verminderd.   
 3.  Een betaling van de terugvordering in maandelijkse termijnen eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de terugvordering geldende betalingstermijn 24 maanden zijn verstreken. Indien de omvang van de terugvordering betaling in 24 maandelijkse termijnen van € 40 niet toelaat, kan de Belastingdienst/Toeslagen, in afwijking van het eerste en tweede lid, een betaling in maandelijkse termijnen van meer dan € 40 verlangen.   
-4.  Op schriftelijk verzoek van de belanghebbende die aangeeft niet in staat te zijn de terugvordering overeenkomstig de voorgaande leden te betalen kan de Belastingdienst/Toeslagen, in afwijking in zoverre van de voorgaande leden, een betaling in termijnen toestaan gebaseerd op de betalingscapaciteit. De berekening van de betalingscapaciteit vindt plaats op de voet van [artikel 13 van de Uitvoeringsregeling Invorderingswet 1990](../../../../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md), met dien verstande dat de Belastingdienst/Toeslagen het netto-besteedbare inkomen van de belanghebbende vermeerdert met het netto-besteedbare inkomen van de persoon die ten tijde van de indiening van het verzoek als partner in de zin van [artikel 3 van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) kan worden beschouwd.   
-5.  Een betalingsregeling als bedoeld in het vierde lid wordt niet toegestaan indien de belanghebbende of de in dat lid bedoelde partner over voldoende vermogen in de zin van [artikel 12 van de Uitvoeringregeling Invorderingswet 1990](../../../../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md) beschikken voor de voldoening van de terugvordering, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.   
+4.  Op schriftelijk verzoek van de belanghebbende die aangeeft niet in staat te zijn de terugvordering overeenkomstig de voorgaande leden te betalen kan de Belastingdienst/Toeslagen, in afwijking in zoverre van de voorgaande leden, een betaling in termijnen toestaan gebaseerd op de betalingscapaciteit. De berekening van de betalingscapaciteit vindt plaats op de voet van artikel 13 van de Uitvoeringsregeling Invorderingswet 1990, met dien verstande dat de Belastingdienst/Toeslagen het netto-besteedbare inkomen van de belanghebbende vermeerdert met het netto-besteedbare inkomen van de persoon die ten tijde van de indiening van het verzoek als partner in de zin van artikel 3 van de wet kan worden beschouwd.   
+5.  Een betalingsregeling als bedoeld in het vierde lid wordt niet toegestaan indien de belanghebbende of de in dat lid bedoelde partner over voldoende vermogen in de zin van artikel 12 van de Uitvoeringregeling Invorderingswet 1990 beschikken voor de voldoening van de terugvordering, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.   
 6.  De voorgaande leden zijn niet van toepassing indien het ontstaan van de terugvordering is te wijten aan opzet of grove schuld van de belanghebbende of diens partner.   
 
 ### Artikel  8  
 
 ####Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
-1.  Indien de belanghebbende tijdig een gemotiveerd bezwaar of verzoek om herziening als bedoeld in [artikel 21a van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, kan de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering verlenen tot het moment waarop op het bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, het beroep of hoger beroep is beslist.   
-2.  Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie, dan wel een verzoek om ambtshalve vermindering is ingediend ter zake van een inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), dat bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden. Onder een verzoek om ambtshalve vermindering wordt mede verstaan een verzoek om herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+1.  Indien de belanghebbende tijdig een gemotiveerd bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, kan de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering verlenen tot het moment waarop op het bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, het beroep of hoger beroep is beslist.   
+2.  Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie, dan wel een verzoek om ambtshalve vermindering is ingediend ter zake van een inkomensgegeven als bedoeld in artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen, dat bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden. Onder een verzoek om ambtshalve vermindering wordt mede verstaan een verzoek om herziening als bedoeld in artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001.   
 
 ### Artikel  9  
 
 ####Hardheidsclausule
 
-1.  [Artikel 7, derde en vierde lid, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) blijft op verzoek van de belanghebbende buiten toepassing ten aanzien van degene bij wie over het berekeningsjaar geen voordeel uit sparen en beleggen in aanmerking zou worden genomen indien de rendementsgrondslag als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zou worden verminderd met: 
+1.  Artikel 7, derde en vierde lid, van de wet blijft op verzoek van de belanghebbende buiten toepassing ten aanzien van degene bij wie over het berekeningsjaar geen voordeel uit sparen en beleggen in aanmerking zou worden genomen indien de rendementsgrondslag als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 zou worden verminderd met: 
 
 a. bezittingen die zijn opgekomen: 
 
@@ -136,7 +156,7 @@ b. een bedrag ter grootte van de navolgende eenmalige uitkeringen die in het ber
 
 2°. schadevergoedingen die door de overheid, het Nederlandse Rode Kruis, of fabrikanten van farmaceutische producten zijn betaald aan hemofiliepatiënten die met het aids-virus zijn besmet;  
 
-3°. vergoedingen ingevolge de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md) (Stcrt. 2000, 16), die zijn uitgekeerd aan de slachtoffers zelf;  
+3°. vergoedingen ingevolge de Regeling tegemoetkoming asbestslachtoffers (Stcrt. 2000, 16), die zijn uitgekeerd aan de slachtoffers zelf;  
 
 4°. uitkeringen van de Stichting Maror-gelden Overheid, opgericht op 1 december 2000, gevestigd te Amsterdam;  
 
@@ -160,34 +180,42 @@ b. een bedrag ter grootte van de navolgende eenmalige uitkeringen die in het ber
 
 14°. vergoedingen op grond van de compensatieregeling van de Rooms-Katholieke Kerk Nederland voor slachtoffers van seksueel misbruik;  
 
-15°. bijzondere uitkeringen van het Ministerie van Defensie op grond van artikel 21a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen of op grond van artikel 21a van het Besluit bijzondere militaire pensioenen.       
+15°. bijzondere uitkeringen van het Ministerie van Defensie op grond van artikel 21a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen of op grond van artikel 21a van het Besluit bijzondere militaire pensioenen;  
+
+16°. uitkeringen op grond van de Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen of op grond van de civiele regeling die de Staat voor deze groep van slachtoffers heeft opgesteld;  
+
+17°. uitkeringen van een voorschot op een persoonsgebonden budget als bedoeld in paragraaf 2.6 van de Regeling subsidies AWBZ, die betrekking hebben op een in het kalenderjaar 2012 of in het kalenderjaar 2013 gelegen subsidieperiode voor zover deze zijn gedaan vóór 1 januari van het betreffende kalenderjaar.       
 2.  Het eerste lid, onderdeel b, onder 4° tot en met 11°, is eveneens van toepassing ingeval de genoemde uitkeringen zijn verstrekt aan nabestaanden van de gerechtigden.   
 3.  Het in het eerste lid bedoelde verzoek kan worden gedaan tot het tijdstip dat de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.   
 4.  Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.   
-5.  Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede, derde en vierde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](../../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md) indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zou worden verminderd met een bedrag ter grootte van de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.   
+5.  Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede, derde en vierde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van artikel 2a, eerste lid, van de Wet op de zorgtoeslag of artikel 1, vierde lid, van de Wet op het kindgebonden budget indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001, zou worden verminderd met een bedrag ter grootte van de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.   
 
 ### Artikel  9bis  
 
 ####Overgangsrecht vermogenstoets letselschade-uitkeringen
 
-1.  Op verzoek van de belanghebbende blijft [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](../../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md), tot 1 januari 2023 buiten toepassing ten aanzien van degene die in het berekeningsjaar aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering: 
+1.  Op verzoek van de belanghebbende blijft artikel 2a, eerste lid, van de Wet op de zorgtoeslag of artikel 1, vierde lid, van de Wet op het kindgebonden budget, tot 1 januari 2023 buiten toepassing ten aanzien van degene die in het berekeningsjaar aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001, zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering: 
 
 a. die een schadevergoeding vormt voor een letselschade; en  
 
 b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.     
 2.  Artikel 9, derde en vierde lid, is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.   
 
+### Artikel  9ter  
+
+Indien bij de Belastingdienst/Toeslagen op 1 december 2013 geen bankrekening op naam van de belanghebbende bekend is, wordt tot en met 30 juni 2014 als geval als bedoeld in artikel 25, derde lid, van de wet aangewezen de uitbetaling van een verleend voorschot of toegekende tegemoetkoming door de Belastingdienst/Toeslagen op de bankrekening die vóór 1 december 2013 door de Belastingdienst/Toeslagen werd gebruikt voor de uitbetaling van een verleend voorschot of toegekende tegemoetkoming aan de belanghebbende.  
+
 ### Artikel  9a  
 
 ####Termijnverlenging in het kader van de toepassing van Verordening (EG) nr. 987/2009 (PbEU 2009, L 284)
 
-Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284) retroactief als bevoegd orgaan is aangemerkt: 
+Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284) retroactief als bevoegd orgaan is aangemerkt: 
 
-a. wordt de belanghebbende geacht tijdig een aanvraag te hebben gedaan als bedoeld in [artikel 15 van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
+a. wordt de belanghebbende geacht tijdig een aanvraag te hebben gedaan als bedoeld in artikel 15 van de wet;  
 
-b. worden de in [artikel 19 van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;  
+b. worden de in artikel 19 van de wet genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;  
 
-c. worden de in de [artikelen 21, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), en [27, tweede lid, van de wet](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) genoemde termijnen en de in artikel 5a, onderdeel a, genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.    
+c. worden de in de artikelen 21, tweede lid, en 27, tweede lid, van de wet genoemde termijnen en de in artikel 5a, onderdeel a, genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.    
 
 ### Artikel  10  
 

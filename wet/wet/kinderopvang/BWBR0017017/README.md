@@ -26,19 +26,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2°. de persoon van 18 jaar of ouder die werkzaam is bij een gastouderbureau, bezoldigd is en belast is met het tot stand brengen en begeleiden van gastouderopvang;    
 
-*beroepskracht in opleiding:* degene die de beroepsbegeleidende leerweg volgt, bedoeld in de [Wet educatie beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), beschikt over een arbeidsovereenkomst met de houder van een kindercentrum of van een gastouderbureau, en ten behoeve van het praktijkdeel van de opleiding belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen bij een kindercentrum of met het tot stand brengen en begeleiden van gastouderopvang bij een gastouderbureau;  
+*beroepskracht in opleiding:* degene die de beroepsbegeleidende leerweg volgt, bedoeld in de Wet educatie beroepsonderwijs, beschikt over een arbeidsovereenkomst met de houder van een kindercentrum of van een gastouderbureau, en ten behoeve van het praktijkdeel van de opleiding belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen bij een kindercentrum of met het tot stand brengen en begeleiden van gastouderopvang bij een gastouderbureau;  
 
 *beroepskracht voorschoolse educatie:* degene die als beroepskracht werkzaam is en belast is met voorschoolse educatie en die voldoet aan de opleidingseisen en scholingseisen, bedoeld in artikel 1.50b, onderdeel a;  
 
 *college:* college van burgemeester en wethouders van de gemeente waar een kindercentrum, gastouderbureau of voorziening voor gastouderopvang is gevestigd of zal worden gevestigd;  
 
-*continentaal plat:* de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland;  
+*continentaal plat:* de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland;  
 
 *gastouder:* degene van 18 jaar of ouder die gastouderopvang biedt, met uitzondering van degene: 
 
-a. van wie een of meer kinderen onderworpen zijn aan ondertoezichtstelling of voorlopige ondertoezichtstelling als bedoeld in [artikel 254](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), onderscheidenlijk [255 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), die met betrekking tot een of meer van zijn kinderen is ontheven uit het ouderlijk gezag als bedoeld in artikel 266 van Boek 1 van het Burgerlijk Wetboek of die met betrekking tot een of meer van zijn kinderen is ontzet van het gezag als bedoeld in artikel 269 van Boek 1 van het Burgerlijk Wetboek,  
+a. van wie een of meer kinderen onderworpen zijn aan ondertoezichtstelling of voorlopige ondertoezichtstelling als bedoeld in artikel 254, onderscheidenlijk 255 van Boek 1 van het Burgerlijk Wetboek, die met betrekking tot een of meer van zijn kinderen is ontheven uit het ouderlijk gezag als bedoeld in artikel 266 van Boek 1 van het Burgerlijk Wetboek of die met betrekking tot een of meer van zijn kinderen is ontzet van het gezag als bedoeld in artikel 269 van Boek 1 van het Burgerlijk Wetboek,  
 
-b. die op hetzelfde woonadres staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens als de ouder of diens partner van het kind aan wie opvang wordt geboden, of  
+b. die op hetzelfde woonadres staat ingeschreven in de basisregistratie personen als de ouder of diens partner van het kind aan wie opvang wordt geboden, of  
 
 c. die ten behoeve van de opvang van kinderen in enigerlei vorm personeel in dienst heeft;    
 
@@ -58,7 +58,7 @@ c. waarbij de opvang plaatsvindt:
 
 3°. op twee of meer van deze woonadressen; en    
 
-d. bestaande uit de gelijktijdige opvang van ten hoogste zes kinderen, waaronder begrepen de bloedverwant of aanverwant in de neergaande lijn van de gastouder of zijn partner, die in belangrijke mate wordt onderhouden door de gastouder of zijn partner en op hetzelfde woonadres als de gastouder staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en de leeftijd van tien jaar nog niet heeft bereikt. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind dat de leeftijd van tien jaar nog niet heeft bereikt;    
+d. bestaande uit de gelijktijdige opvang van ten hoogste zes kinderen, waaronder begrepen de bloedverwant of aanverwant in de neergaande lijn van de gastouder of zijn partner, die in belangrijke mate wordt onderhouden door de gastouder of zijn partner en op hetzelfde woonadres als de gastouder staat ingeschreven in de basisregistratie personen en de leeftijd van tien jaar nog niet heeft bereikt. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind dat de leeftijd van tien jaar nog niet heeft bereikt;    
 
 *geregistreerd gastouderbureau:* een in het register kinderopvang ingeschreven gastouderbureau als bedoeld in artikel 1.46, tweede lid;  
 
@@ -66,11 +66,11 @@ d. bestaande uit de gelijktijdige opvang van ten hoogste zes kinderen, waaronder
 
 *geregistreerde voorziening voor gastouderopvang:* een in het register kinderopvang ingeschreven voorziening voor gastouderopvang als bedoeld in artikel 1.46, tweede lid;  
 
-*GGD:* een gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+*GGD:* een gemeentelijke gezondheidsdienst als bedoeld in artikel 14 van de Wet publieke gezondheid;  
 
 *houder:*  
 
-a. degene aan wie een onderneming als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) toebehoort en die met die onderneming een kindercentrum of een gastouderbureau exploiteert;  
+a. degene aan wie een onderneming als bedoeld in de Handelsregisterwet 2007 toebehoort en die met die onderneming een kindercentrum of een gastouderbureau exploiteert;  
 
 b. de gastouder die een voorziening voor gastouderopvang exploiteert.    
 
@@ -78,21 +78,23 @@ b. de gastouder die een voorziening voor gastouderopvang exploiteert.
 
 *kinderopvang:* het bedrijfsmatig of anders dan om niet verzorgen, opvoeden en bijdragen aan de ontwikkeling van kinderen tot de eerste dag van de maand waarop het voortgezet onderwijs voor die kinderen begint;  
 
-*kinderopvangtoeslag:* een tegemoetkoming van het Rijk als bedoeld in [artikel 2, eerste lid, onder h, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) in de kosten van kinderopvang;  
+*kinderopvangtoeslag:* een tegemoetkoming van het Rijk als bedoeld in artikel 2, eerste lid, onder h, van de Algemene wet inkomensafhankelijke regelingen in de kosten van kinderopvang;  
 
 *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-*ouder:* de bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie de kinderopvang betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) buiten beschouwing blijft;  
+*ouder:* de bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie de kinderopvang betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de Wet op de jeugdzorg buiten beschouwing blijft;  
 
 *oudercommissie:* de commissie, bedoeld in artikel 1.58;  
 
-*overheidswerkgever:* de werkgever, bedoeld in [artikel 1, onderdeel r, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+*overheidswerkgever:* de werkgever, bedoeld in artikel 1, onderdeel r, van de Wet financiering sociale verzekeringen;  
 
-*register kinderopvang:* het register kinderopvang, bedoeld in artikel 1.47a;  
+*register buitenlandse kinderopvang:* het register, bedoeld in artikel 1.48b, eerste lid;  
+
+*register kinderopvang:* het register kinderopvang, bedoeld in artikel 1.47b, eerste lid;  
 
 *stagiair:* degene die een opleiding volgt, waarvan het praktijkdeel een beperkt deel van de totale studieduur is, belast is met werkzaamheden bij de houder ten behoeve van het praktijkdeel van de opleiding en geen beroepskracht in opleiding is;  
 
-*Uitvoeringsinstituut werknemersverzekeringen:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+*Uitvoeringsinstituut werknemersverzekeringen:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 *uitvoeringskosten:* de kosten die door een gastouderbureau in rekening worden gebracht bij de ouder of de gastouder, niet zijnde de kosten van gastouderopvang;  
 
@@ -100,9 +102,9 @@ b. de gastouder die een voorziening voor gastouderopvang exploiteert.
 
 *verklaring omtrent het gedrag:* een verklaring omtrent het gedrag natuurlijke personen of een verklaring omtrent het gedrag rechtspersonen;  
 
-*verklaring omtrent het gedrag natuurlijke personen:* een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), ten behoeve van een natuurlijk persoon;  
+*verklaring omtrent het gedrag natuurlijke personen:* een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, ten behoeve van een natuurlijk persoon;  
 
-*verklaring omtrent het gedrag rechtspersonen:* een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), ten behoeve van een rechtspersoon;  
+*verklaring omtrent het gedrag rechtspersonen:* een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, ten behoeve van een rechtspersoon;  
 
 *voorschoolse educatie:* uitvoering van een door het college gesubsidieerd programma dat gericht is op het verbeteren van de voorwaarden voor het met succes instromen in het basisonderwijs voor kinderen die nog niet tot een school kunnen worden toegelaten;  
 
@@ -115,7 +117,7 @@ a. het toezichthouden op schoolgaande kinderen dat zich beperkt tot het toezicht
 
 b. de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen in een peuterspeelzaal als bedoeld in artikel 2.1;  
 
-c. verzorging en opvoeding die plaatsvindt in het kader van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+c. verzorging en opvoeding die plaatsvindt in het kader van de Wet op de jeugdzorg;  
 
 d. de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen, anders dan gastouderopvang, die geschiedt op een plaats waar het kind zijn hoofdverblijf heeft.     
 3.  Waar in het bepaalde bij of krachtens dit hoofdstuk en hoofdstuk 3 wordt gesproken over verklaring omtrent het gedrag wordt een verklaring omtrent het gedrag natuurlijke personen bedoeld, indien de betrokkene een natuurlijk persoon is en een verklaring omtrent het gedrag rechtspersonen, indien de betrokkene een rechtspersoon is.   
@@ -131,15 +133,15 @@ d. de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen
 ### Artikel  1.3  
 
 1.  De uitvoering van het toekennen, uitbetalen en terugvorderen van de kinderopvangtoeslag is opgedragen aan de Belastingdienst/Toeslagen.   
-2.  Op deze wet is de [Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) van toepassing met uitzondering van [artikel 5 van die wet](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) op wijzigingen in de kosten van kinderopvang per kind, bedoeld in artikel 1.7, eerste lid, onderdeel b, met dien verstande dat: 
+2.  Op deze wet is de Algemene wet inkomensafhankelijke regelingen van toepassing met uitzondering van artikel 5 van die wet op wijzigingen in de kosten van kinderopvang per kind, bedoeld in artikel 1.7, eerste lid, onderdeel b, met dien verstande dat: 
 
-a. in afwijking van [artikel 4, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) een kind voor wie de pleegouder een subsidie ontvangt op grond van de Wet op de jeugdzorg, geacht wordt door die pleegouder in belangrijke mate te worden onderhouden;  
+a. in afwijking van artikel 4, derde lid, van de Algemene wet inkomensafhankelijke regelingen een kind voor wie de pleegouder een subsidie ontvangt op grond van de Wet op de jeugdzorg, geacht wordt door die pleegouder in belangrijke mate te worden onderhouden;  
 
-b. in afwijking van [artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), een ouder over de berekeningsjaren 2014 en volgende geen aanspraak heeft op kinderopvangtoeslag als bedoeld in artikel 1.5 over de periode tot de eerste dag van de kalendermaand die drie kalendermaanden gelegen is voor de datum waarop de aanvraag om kinderopvangtoeslag is ingediend bij de Belastingdienst/Toeslagen.     
+b. in afwijking van artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen, een ouder over de berekeningsjaren 2014 en volgende geen aanspraak heeft op kinderopvangtoeslag als bedoeld in artikel 1.5 over de periode tot de eerste dag van de kalendermaand die drie kalendermaanden gelegen is voor de datum waarop de aanvraag om kinderopvangtoeslag is ingediend bij de Belastingdienst/Toeslagen.     
 
 ### Artikel  1.4  
 
-1.  Met het oog op het toekennen van een kinderopvangtoeslag verstrekt de ouder, bedoeld in artikel 1.5, eerste lid, aan de Belastingdienst/Toeslagen het unieke nummer, bedoeld in artikel 1.47a, derde lid.   
+1.  Met het oog op het toekennen van een kinderopvangtoeslag verstrekt de ouder, bedoeld in artikel 1.5, eerste lid, aan de Belastingdienst/Toeslagen het unieke nummer, bedoeld in artikel 1.47b, derde lid.   
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven met betrekking tot de verstrekking.   
 
 ### Paragraaf  2  
@@ -152,39 +154,38 @@ b. in afwijking van [artikel 15, eerste lid, van de Algemene wet inkomensafhanke
 
 a. kinderopvang in een geregistreerd kindercentrum; of  
 
-b. gastouderopvang in een geregistreerde voorziening voor gastouderopvang die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau.     
+b. gastouderopvang in een geregistreerde voorziening voor gastouderopvang.     
 2.  Een ouder en diens partner die tevens ouder is worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.   
-3.  Indien een gastouderbureau uit het register kinderopvang, bedoeld in artikel 1.47a, wordt verwijderd, geldt de in het eerste lid, onderdeel b, bedoelde voorwaarde van registratie van het gastouderbureau niet, gedurende een bij algemene maatregel van bestuur te bepalen uitlooptermijn waarbinnen de voorziening voor gastouderopvang op grond van artikel 1.47a, tweede lid, onderdeel c, in het register kinderopvang ingeschreven blijft.   
 
 ### Artikel  1.6  
 
 1.  Een ouder heeft voor een berekeningsjaar aanspraak op een kinderopvangtoeslag, indien de ouder in dat jaar: 
 
-a. tegenwoordige arbeid verricht waaruit inkomen uit werk en woning in de zin van de [Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt genoten,  
+a. tegenwoordige arbeid verricht waaruit inkomen uit werk en woning in de zin van de Wet inkomstenbelasting 2001 wordt genoten,  
 
-b. zonder enige vergoeding arbeid verricht in de onderneming van de partner in de zin van [artikel 3.78 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md),  
+b. zonder enige vergoeding arbeid verricht in de onderneming van de partner in de zin van artikel 3.78 van de Wet inkomstenbelasting 2001,  
 
-c. algemene bijstand of een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), en gebruik maakt van een voorziening, gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onder a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), die de noodzaak tot kinderopvang met zich brengt,  
+c. algemene bijstand of een uitkering ontvangt op grond van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen of de Algemene nabestaandenwet, en gebruik maakt van een voorziening, gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onder a, van de Wet werk en bijstand, artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, die de noodzaak tot kinderopvang met zich brengt,  
 
 d.  vervallen,   
 
-e. de leeftijd van 18 jaar nog niet heeft bereikt, scholing of een opleiding volgt en met toepassing van [artikel 16](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of [artikel 18, eerste en vierde lid, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemene bijstand ontvangt of kan ontvangen,  
+e. de leeftijd van 18 jaar nog niet heeft bereikt, scholing of een opleiding volgt en met toepassing van artikel 16 of artikel 18, eerste en vierde lid, van de Wet werk en bijstand algemene bijstand ontvangt of kan ontvangen,  
 
-f. als niet-uitkeringsgerechtigde werkzoekende is geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onder a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md),  
+f. als niet-uitkeringsgerechtigde werkzoekende is geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onder a, van de Wet werk en bijstand,  
 
-g. inburgeringsplichtig is als bedoeld in [artikel 1, onderdeel b, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en bij een cursusinstelling een cursus volgt die opleidt tot het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), en voldoet aan de bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 16, eerste lid, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) gegeven regels omtrent het volgen van die cursus bij een cursusinstelling,  
+g. inburgeringsplichtig is als bedoeld in artikel 1, onderdeel b, van de Wet inburgering en bij een cursusinstelling een cursus volgt die opleidt tot het examen, bedoeld in artikel 7, tweede lid, onderdeel a, van die wet of een diploma, certificaat of ander document, bedoeld in artikel 5, eerste lid, onderdeel c, van die wet, en voldoet aan de bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 16, eerste lid, van die wet gegeven regels omtrent het volgen van die cursus bij een cursusinstelling,  
 
-h. recht heeft op of een uitkering ontvangt op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en deelneemt aan scholing als bedoeld in [artikel 76 van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of werkzaamheden verricht als bedoeld in [artikel 76a](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of [77a van die wet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) met behoud van die uitkering dan wel op andere wijze deelneemt aan een traject gericht op arbeidsinschakeling,  
+h. recht heeft op of een uitkering ontvangt op grond van de Werkloosheidswet en deelneemt aan scholing als bedoeld in artikel 76 van die wet of werkzaamheden verricht als bedoeld in artikel 76a of 77a van die wet met behoud van die uitkering dan wel op andere wijze deelneemt aan een traject gericht op arbeidsinschakeling,  
 
-i. recht heeft op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten of een uitkering op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of recht heeft op ziekengeld op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md): 
+i. recht heeft op een arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten of een uitkering op grond van hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen of recht heeft op ziekengeld op grond van de Ziektewet: 
 
-1°. ten behoeve van wie het Uitvoeringsinstituut werknemersverzekeringen werkzaamheden, gericht op de bevordering van de inschakeling in het arbeidsproces als bedoeld in [artikel 30a, achtste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) laat verrichten,  
+1°. ten behoeve van wie het Uitvoeringsinstituut werknemersverzekeringen werkzaamheden, gericht op de bevordering van de inschakeling in het arbeidsproces als bedoeld in artikel 30a, achtste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen laat verrichten,  
 
-2°. ten behoeve van wie de eigenrisicodrager, bedoeld in [artikel 82 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) werkzaamheden, gericht op de bevordering van de inschakeling in het arbeidsproces als bedoeld in [artikel 42 van die wet](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) laat verrichten, of  
+2°. ten behoeve van wie de eigenrisicodrager, bedoeld in artikel 82 van de Wet werk en inkomen naar arbeidsvermogen werkzaamheden, gericht op de bevordering van de inschakeling in het arbeidsproces als bedoeld in artikel 42 van die wet laat verrichten, of  
 
-3°. werkzaamheden op een proefplaats verricht als bedoeld in [artikel 65g van de Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 2:24](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:69 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 67e van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikel 37 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [artikel 52e van de Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md),    
+3°. werkzaamheden op een proefplaats verricht als bedoeld in artikel 65g van de Wet op de arbeidsongeschiktheidsverzekering, artikel 2:24 of 3:69 van de Wet werk en arbeidsondersteuning jonggehandicapten, artikel 67e van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 37 van de Wet werk en inkomen naar arbeidsvermogen of artikel 52e van de Ziektewet,    
 
-j. is ingeschreven bij een school of instelling als bedoeld in [paragraaf 2.2](../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) of  [2.4 van de Wet tegemoetkoming onderwijsbijdragen en schoolkosten](../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) dan wel als bedoeld in de [artikelen 2.8 tot en met 2.11 van de Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).  
+j. is ingeschreven bij een school of instelling als bedoeld in paragraaf 2.2 of  2.4 van de Wet tegemoetkoming onderwijsbijdragen en schoolkosten dan wel als bedoeld in de artikelen 2.8 tot en met 2.11 van de Wet studiefinanciering 2000.  
 
 k.  dit onderdeel is nog niet in werking getreden;   
 
@@ -199,8 +200,15 @@ b. een uitkering ontvangt als bedoeld in het eerste lid, onder c, e, h of i, en 
 c. werkloos wordt als bedoeld in het tweede lid en een uitkering ontvangt als bedoeld in het tweede lid, onder a of b, of een daarmee vergelijkbare uitkering, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland, of  
 
 d. een persoon is als bedoeld in het eerste lid, onder f, g, j, k of l.     
-4.  Voor de toepassing van deze wet wordt met inkomen uit werk en woning als bedoeld in het eerste lid, onderdeel a, gelijkgesteld een daarmee overeenkomend inkomen dat niet tot het verzamelinkomen van de ouder behoort omdat het niet behoort tot het Nederlands inkomen als bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of is vrijgesteld op grond van bepalingen van internationaal recht.   
+4.  Voor de toepassing van deze wet wordt met inkomen uit werk en woning als bedoeld in het eerste lid, onderdeel a, gelijkgesteld een daarmee overeenkomend inkomen dat niet tot het verzamelinkomen van de ouder behoort omdat het niet behoort tot het Nederlands inkomen als bedoeld in hoofdstuk 7 van de Wet inkomstenbelasting 2001, of is vrijgesteld op grond van bepalingen van internationaal recht.   
 5.  Een ouder die in een berekeningsjaar of in het daaraan voorafgaande berekeningjaar arbeid heeft verricht als bedoeld in artikel 1.6, eerste lid, onderdeel a of b, behoudt gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop het verrichten van die arbeid is beëindigd, dezelfde aanspraak op een kinderopvangtoeslag als voor die beëindiging bestond.   
+6.  Het derde lid is niet van toepassing op een ouder met een partner indien de partner: 
+
+1°. in Nederland, een andere lidstaat of Zwitserland woont,  
+
+2°. op grond van artikel 1.2, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001 of artikel 3, tweede lid, onderdeel e, van de Algemene wet inkomensafhankelijke regelingen partner is van de ouder, en  
+
+3°. bloed- of aanverwant is van de ouder in de rechte lijn of in de tweede graad van de zijlijn.     
 
 ### Artikel  1.6a  
 
@@ -243,10 +251,10 @@ b. die voortvloeien uit de mate waarin het toetsingsinkomen een rol speelt bij d
 
 ### Artikel  1.10  
 
-1.  De financiële middelen tot dekking van de uitgaven voor de kinderopvangtoeslag kunnen mede worden verkregen door het heffen van een opslag op de premie, die ten gunste komt van een sectorfonds als bedoeld in [artikel 23, tweede lid, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) dan wel een opslag op de premie, bedoeld in [artikel 29 van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
-2.  De premieopslagen, bedoeld in het eerste lid, zijn verschuldigd door de werkgever onderscheidenlijk de overheidswerkgever.   
-3.  De premieopslagen worden vastgesteld bij ministeriële regeling. De [artikelen 26](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) onderscheidenlijk [31 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zijn van overeenkomstige toepassing.   
-4.  Op de heffing en invordering van de premieopslagen zijn de [artikelen 57](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [59](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [60 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) van overeenkomstige toepassing.   
+1.  De financiële middelen tot dekking van de uitgaven voor de kinderopvangtoeslag kunnen mede worden verkregen door het heffen van een opslag op de premie, bedoeld in artikel 36 van de Wet financiering sociale verzekeringen.   
+2.  De premieopslagen, bedoeld in het eerste lid, zijn verschuldigd door de werkgever.   
+3.  De premieopslagen worden vastgesteld bij ministeriële regeling. Artikel 35 van de Wet financiering sociale verzekeringen is van overeenkomstige toepassing.   
+4.  Op de heffing en invordering van de premieopslagen zijn de artikelen 57, 59 en 60 van de Wet financiering sociale verzekeringen van overeenkomstige toepassing.   
 
 ### Paragraaf  4  
 
@@ -256,10 +264,11 @@ b. die voortvloeien uit de mate waarin het toetsingsinkomen een rol speelt bij d
 
 De kinderopvangtoeslag blijft buiten beschouwing bij de verlening van andere op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.  
 
-### Artikel  1.12  
+### Artikel  1.12   
+Treedt in werking op een nader te bepalen tijdstip   
 
-1.  Het college van burgemeester en wethouders stelt op aanvraag van de ouder vast of hij of zijn partner dan wel het kind van de ouder een geïndiceerde persoon is als bedoeld in artikel 1.6, eerste lid, onderdeel k of l, en in welke mate uit dien hoofde, voor zover andere voorzieningen geen passender oplossing kunnen bieden, kinderopvang in de zin van deze wet noodzakelijk is.   
-2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij het college van burgemeester en wethouders van de gemeente waar de ouder zijn woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [11 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+1.  Het college van burgemeester en wethouders stelt op aanvraag van de ouder vast of hij of zijn partner dan wel het kind van de ouder een geïndiceerde persoon is als bedoeld in artikel 6, eerste lid, onderdeel k of l, en in welke mate uit dien hoofde, voor zover andere voorzieningen geen passender oplossing kunnen bieden, kinderopvang in de zin van deze wet noodzakelijk is.   
+2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij het college van burgemeester en wethouders van de gemeente waar de ouder zijn woonplaats heeft als bedoeld in de artikelen 10, eerste lid, en 11 van Boek 1 van het Burgerlijk Wetboek.   
 3.  Alvorens te besluiten, wint het college van burgemeester en wethouders ten behoeve van de vaststelling van de noodzakelijkheid van kinderopvang als bedoeld in het eerste lid advies in van een onafhankelijke organisatie die beschikt over adequate deskundigheid.   
 4.  Het besluit van het college van burgemeester en wethouders vermeldt de geldigheidsduur van de indicatie.   
 5.  Het college van burgemeester en wethouders kan periodiek herindicatie verrichten van personen als bedoeld in het eerste lid. De herindicatie vindt plaats overeenkomstig het derde lid.   
@@ -281,13 +290,19 @@ Door vernummering vervallen.
 
 ####Voortzetting aanspraak tegemoetkomingen
 
+Vervallen per 01-01-2013   
+
 ### Paragraaf  6  
 
 ####Invordering
 
+Vervallen per 01-01-2013   
+
 ### Paragraaf  7  
 
 ####Overige bepalingen
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  3  
 
@@ -319,52 +334,90 @@ Door vernummering vervallen.
 2.  Het college kan naar aanleiding van het verzoek, bedoeld in het eerste lid, besluiten tot wijziging van de gegevens en verwerkt dit zo nodig in het register kinderopvang.   
 3.  De houder van een kindercentrum of van een gastouderbureau kan het college verzoeken de inschrijving van een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang uit het register kinderopvang te verwijderen.   
 4.  Het college kan naar aanleiding van een verzoek als bedoeld in het derde lid besluiten tot verwijdering van de inschrijving uit het register kinderopvang en verwerkt dit in het register kinderopvang.   
-5.  Het college heft geen recht als bedoeld in [artikel 229 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) in verband met een verzoek als bedoeld in het eerste en derde lid.   
+5.  Het college heft geen recht als bedoeld in artikel 229 van de Gemeentewet in verband met een verzoek als bedoeld in het eerste en derde lid.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van het eerste tot en met het vierde lid nadere regels worden gesteld.   
 
 ### Artikel  1.47a  
 
-1.  Onze Minister draagt zorg voor de inrichting van een register kinderopvang ten behoeve van de waarborging van de kwaliteit en de rechtszekerheid van de kinderopvang en gastouderopvang alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens deze afdeling gestelde regels.   
+1.  Het college kan besluiten de inschrijving van een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang zonder een daaraan voorafgaand verzoek van de houder uit het register kinderopvang te verwijderen of de gegevens hiervan in het register kinderopvang te wijzigen. Indien het college hiertoe besluit, verwerkt het college dit in het register kinderopvang.   
+2.  Onze Minister kan besluiten de gegevens van een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang zonder een daaraan voorafgaand verzoek van de houder in het register kinderopvang te wijzigen. Indien Onze Minister hiertoe besluit, verwerkt hij dit in het register kinderopvang.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van het eerste en tweede lid nadere regels worden gesteld.   
+
+### Artikel  1.47b  
+
+1.  Onze Minister draagt zorg voor de inrichting van een register kinderopvang ten behoeve van de waarborging van de kwaliteit en de rechtszekerheid van de kinderopvang alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens deze afdeling gestelde regels.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het register kinderopvang. Deze regels hebben in ieder geval betrekking op: 
 
 a. de vorm van het register;  
 
 b. de in het register op te nemen gegevens;  
 
-c. de vastlegging van gegevens in het register en de verwijdering van gegevens daaruit;  
+c. de vastlegging in, de wijziging van en de verwijdering van gegevens uit het register;  
 
-d. de wijze waarop verbetering van onjuistheden in het register plaatsvindt;  
+d. de verstrekking van gegevens;  
 
-e. de verstrekking van gegevens;  
+e. de openbaarheid van gegevens;  
 
-f. de openbaarheid van gegevens;  
-
-g. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.     
+f. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.     
 3.  Kindercentra, gastouderbureau’s en voorzieningen voor gastouderopvang worden in het register kinderopvang geregistreerd onder een uniek nummer.   
+4.  Indien een gastouderbureau uit het register kinderopvang wordt verwijderd, blijft een voorziening voor gastouderopvang die bij dat gastouderbureau is aangesloten gedurende een bij of krachtens algemene maatregel van bestuur te bepalen termijn in het register kinderopvang ingeschreven.   
 
 ### Artikel  1.48  
 
-1.  Onze Minister kan een buiten Nederland gevestigd kindercentrum, een buiten Nederland gevestigde voorziening voor gastouderopvang of een buiten Nederland gevestigd gastouderbureau gelijkstellen met een geregistreerd kindercentrum, een geregistreerde voorziening voor gastouderopvang of een geregistreerd gastouderbureau, door opneming ervan in een door hem bij te houden register buitenlandse kinderopvang.   
-2.  Indien een ouder voornemens is gebruik te maken van een kindercentrum of een voorziening voor gastouderopvang door tussenkomst van een gastouderbureau buiten Nederland, doet hij bij Onze Minister een aanvraag om opneming van dat centrum, die voorziening voor gastouderopvang of dat bureau in het register buitenlandse kinderopvang. Opname in dat register vindt slechts plaats, indien aannemelijk is gemaakt dat de kwaliteit ervan naar aard en strekking overeenkomt met de op grond van deze wet gestelde regels.   
-3.  Onze Minister deelt de houder en de aanvrager schriftelijk mee dat opneming van het kindercentrum, de voorziening voor gastouderopvang onderscheidenlijk het gastouderbureau in het register buitenlandse kinderopvang heeft plaatsgevonden.   
-4.  Onze Minister maakt de opneming in en verwijdering uit het register buitenlandse kinderopvang bekend in de Staatscourant.   
-5.  Bij regeling van Onze Minister kunnen regels worden gesteld omtrent het register buitenlandse kinderopvang en de wijze waarop verbetering van onjuistheden in dat register plaatsvindt.   
-6.  De houder doet van wijzigingen in de gegevens die ten behoeve van de opneming in het register buitenlandse kinderopvang zijn verstrekt, onverwijld mededeling aan Onze Minister.   
-7.  Onze Minister deelt de houder schriftelijk mee dat de wijzigingen in het register buitenlandse kinderopvang zijn aangetekend.   
-8.  De artikelen 1.45 tot en met 1.47a en 1.49 tot en met 1.60 en de afdelingen 4 en 5 van dit hoofdstuk zijn niet van toepassing op een kindercentrum of een gastouderbureau als bedoeld in het eerste lid.   
-9.  Bij regeling van Onze Minister kunnen regels worden gesteld omtrent: 
+1.  Onze Minister kan een in een andere lidstaat dan Nederland of een in Zwitserland gevestigde voorziening waar kinderopvang plaatsvindt, gelijkstellen met een geregistreerd kindercentrum of een geregistreerde voorziening voor gastouderopvang door opneming daarvan in het register buitenlandse kinderopvang. Indien in een andere lidstaat dan Nederland of Zwitserland een of meer organisaties bestaan die naar aard en strekking gastouderopvang tot stand brengen of begeleiden, is gelijkstelling met een geregistreerde voorziening voor gastouderopvang uitsluitend mogelijk indien sprake is van tussenkomst van een dergelijke organisatie.   
+2.  Onze Minister kan een voorziening waar kinderopvang plaatsvindt door een in Nederland gevestigde gastouder die gastouderopvang biedt op het woonadres van een van de ouders van de kinderen voor wie de gastouderopvang wordt geboden, waarbij dat woonadres zich in een andere lidstaat dan Nederland of in Zwitserland bevindt, gelijkstellen met een geregistreerde voorziening voor gastouderopvang door opneming daarvan in het register buitenlandse kinderopvang. Gelijkstelling is uitsluitend mogelijk indien sprake is van tussenkomst van een organisatie als bedoeld in het eerste lid, tweede zin, of van een geregistreerd gastouderbureau.   
+3.  Een ouder die ten behoeve van zijn kind voornemens is: 
 
-a. de wijze waarop aannemelijk wordt gemaakt dat een kindercentrum, voorziening voor gastouderopvang of gastouderbureau als bedoeld in het eerste lid voldoet aan het tweede lid;  
+a. gebruik te maken van een voorziening als bedoeld in het eerste of tweede lid die nog niet staat ingeschreven in het register buitenlandse kinderopvang; en  
 
-b. het toezicht op de naleving van het achtste lid;  
+b. aanspraak te maken op de kinderopvangtoeslag, bedoeld in artikel 1.5, eerste lid;   dient bij Onze Minister een aanvraag in voor inschrijving van die voorziening in het register buitenlandse kinderopvang.   
+4.  Bij de aanvraag, bedoeld in het derde lid, toont de ouder aan dat degene die een voorziening als bedoeld in het eerste of tweede lid exploiteert, instemt met de aanvraag en bereid is desgevraagd alle door de Belastingdienst/Toeslagen en de door Onze Minister benodigde inlichtingen te verstrekken en de Belastingdienst/Toeslagen en Onze Minister inzage te geven in alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van hun taken redelijkerwijs nodig is.   
+5.  Uiterlijk tien weken na de ontvangst van de aanvraag, bedoeld in het derde lid, besluit Onze Minister op de aanvraag. Indien door de ouder aannemelijk is gemaakt dat de kwaliteit van een voorziening als bedoeld in het eerste of tweede lid: 
 
-c. het verstrekken van gegevens en inlichtingen door de ouder en de houder alsmede de wijze waarop deze gegevens en inlichtingen worden verstrekt ten behoeve van dat toezicht.     
-10.  Indien blijkt dat de kwaliteit van het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau niet langer naar aard en strekking overeenkomt met de op grond van deze wet gestelde regels of dat de houder niet voldoet aan enige verplichting die op grond van deze wet op hem rust wordt het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau uit het register buitenlandse kinderopvang verwijderd.   
+a. naar aard en strekking in overeenstemming is met het bepaalde bij of krachtens paragraaf 2 van deze afdeling, en  
+
+b. anderszins niet is gebleken van feiten en omstandigheden die op het tegendeel duiden,   en voldaan is aan het vierde lid, wordt positief op de aanvraag beslist.   
+6.  Bij een positieve beslissing als bedoeld in het vijfde lid bepaalt Onze Minister de ingangsdatum en de einddatum van de inschrijving in het register buitenlandse kinderopvang. Onze Minister draagt zorg voor inschrijving van een voorziening als bedoeld in het eerste of tweede lid in het register buitenlandse kinderopvang.   
+7.  De ouder, bedoeld in het derde lid, doet gedurende de periode dat hij gebruik maakt van een voorziening als bedoeld in het eerste of tweede lid, van een wijziging in de gegevens die daartoe bij of krachtens algemene maatregel van bestuur worden aangewezen, onverwijld mededeling aan Onze Minister. Hierbij verzoekt hij de gegevens te wijzigen.   
+8.  De ouder, bedoeld in het derde lid, kan aan Onze Minister een verzoek tot verwijdering van de inschrijving van een voorziening als bedoeld in het eerste of tweede lid, doen.   
+9.  Onze Minister kan naar aanleiding van het verzoek, bedoeld in het zevende of achtste lid, besluiten tot wijziging van de gegevens of tot verwijdering van de inschrijving uit het register buitenlandse kinderopvang. Indien hij hiertoe besluit verwerkt hij dit zo nodig in het register buitenlandse kinderopvang.   
+10.  De artikelen 1.45 tot en met 1.47b en 1.48c tot en met 1.60a en de afdelingen 4 en 5 van dit hoofdstuk zijn niet van toepassing op een voorziening als bedoeld in het eerste of tweede lid.   
+11.  Bij of krachtens algemene maatregel van bestuur: 
+
+a. worden nadere regels gesteld omtrent de gegevens die worden verstrekt bij de aanvraag, bedoeld in het derde lid, en over de wijze van verstrekking van deze gegevens;  
+
+b. worden nadere regels gesteld over de wijze waarop kan worden aangetoond dat een voorziening als bedoeld in het eerste of tweede lid naar aard en strekking in overeenstemming is met het bepaalde bij of krachtens paragraaf 2 van deze afdeling;  
+
+c. kunnen ter uitvoering van het vijfde tot en met negende lid nadere regels worden gesteld.     
 
 ### Artikel  1.48a  
 
-1.  Bij regeling van Onze Minister kunnen categorieën van buiten Nederland gevestigde kindercentra, voorzieningen voor gastouderopvang of gastouderbureaus worden aangewezen die worden gelijkgesteld met geregistreerde kindercentra, geregistreerde voorzieningen voor gastouderopvang of geregistreerde gastouderbureaus, indien deze kindercentra, voorzieningen voor gastouderopvang of gastouderbureaus voldoen aan de in het land van vestiging geldende regels met betrekking tot de kwaliteit en deze regels naar aard en naar strekking overeenkomen met de bij of krachtens deze wet gestelde regels.   
-2.  Artikel 1.48 is niet van toepassing op kindercentra, voorzieningen voor gastouderopvang en gastouderbureaus als bedoeld in het eerste lid.   
+1.  Onze Minister kan besluiten de gegevens van een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, zonder een daaraan voorafgaand verzoek in het register buitenlandse kinderopvang te wijzigen. Indien hij hiertoe besluit verwerkt hij dit in het register.   
+2.  Onze Minister kan besluiten een voorziening als bedoeld in artikel 1.48, eerste of tweede lid, zonder een daaraan voorafgaand verzoek uit het register buitenlandse kinderopvang te verwijderen. Indien hij hiertoe besluit verwerkt hij dit in het register.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van het eerste en tweede lid nadere regels worden gesteld.   
+
+### Artikel  1.48b  
+
+1.  Onze Minister draagt zorg voor de inrichting van een register buitenlandse kinderopvang ten behoeve van de rechtszekerheid en de waarborging van de kwaliteit van voorzieningen als bedoeld in artikel 1.48, eerste of tweede lid, alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens artikel 1.48 gestelde regels.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het register buitenlandse kinderopvang. Deze regels hebben in ieder geval betrekking op: 
+
+a. de vorm van het register;  
+
+b. de in het register op te nemen gegevens en de duur van de inschrijving;  
+
+c. de vastlegging in, de wijziging van en de verwijdering uit het register van de gegevens;  
+
+d. de verstrekking van gegevens;  
+
+e. de openbaarheid van gegevens;  
+
+f. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.     
+3.  Voorzieningen als bedoeld in artikel 1.48, eerste en tweede lid, worden in het register buitenlandse kinderopvang geregistreerd onder een uniek nummer.   
+
+### Artikel  1.48c  
+
+1.  Bij regeling van Onze Minister kunnen categorieën van voorzieningen als bedoeld in artikel 1.48, eerste of tweede lid, worden aangewezen die door de aanwijzing gelijk worden gesteld met geregistreerde kindercentra, geregistreerde voorzieningen voor gastouderopvang of geregistreerde gastouderbureaus.   
+2.  De artikelen 1.45 tot en met 1.48b en 1.49 tot en met 1.60a en de afdelingen 4 en 5 van dit hoofdstuk zijn niet van toepassing op de categorieën, bedoeld in het eerste lid.   
 
 ### Paragraaf  2  
 
@@ -412,7 +465,7 @@ h. de beschikbare ruimte voor kinderen.
 
 ### Artikel  1.50a  
 
-De houder van een kindercentrum neemt deel aan het overleg tussen het college en de bevoegde gezagsorganen van scholen over het onderwijsachterstandenbeleid, bedoeld in de [artikelen 167](../../../../wet/wbo/BWBR0003420/README.md) en [167a van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) en werkt mee aan de totstandkoming van de afspraken en de nakoming ervan.  
+De houder van een kindercentrum neemt deel aan het overleg tussen het college en de bevoegde gezagsorganen van scholen over het onderwijsachterstandenbeleid, bedoeld in de artikelen 167 en 167a van de Wet op het primair onderwijs en werkt mee aan de totstandkoming van de afspraken en de nakoming ervan.  
 
 ### Artikel  1.50b  
 
@@ -433,8 +486,8 @@ De houder van een kindercentrum voert een beleid dat ertoe leidt dat de veilighe
 ### Artikel  1.51a  
 
 1.  De houder van een kindercentrum of een gastouderbureau stelt voor het personeel of de gastouders een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  De houder bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
@@ -444,8 +497,8 @@ De houder van een kindercentrum voert een beleid dat ertoe leidt dat de veilighe
 
 a. een bij zijn onderneming werkzaam persoon; of  
 
-b. een gastouder die door tussenkomst van een gastouderbureau gastouderopvang biedt of een van de andere personen van 18 jaar of ouder als bedoeld in artikel 1.56b, derde lid;   zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) jegens een kind van een ouder die gebruik maakt van de door hem geboden kinderopvang, treedt de houder onverwijld in overleg met een door Onze Minister aan te wijzen deskundige.   
-2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de houder van een kindercentrum of gastouderbureau onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en stelt de houder de deskundige, bedoeld in het eerste lid, hiervan onverwijld in kennis.   
+b. een gastouder die door tussenkomst van een gastouderbureau gastouderopvang biedt of een van de andere personen van 18 jaar of ouder als bedoeld in artikel 1.56b, derde lid;   zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in Titel XIV van het Wetboek van Strafrecht of mishandeling als bedoeld in Titel XX van het Wetboek van Strafrecht jegens een kind van een ouder die gebruik maakt van de door hem geboden kinderopvang, treedt de houder onverwijld in overleg met een door Onze Minister aan te wijzen deskundige.   
+2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de houder van een kindercentrum of gastouderbureau onverwijld aangifte bij een opsporingsambtenaar als bedoeld in artikel 127 juncto artikel 141 van het Wetboek van Strafvordering, en stelt de houder de deskundige, bedoeld in het eerste lid, hiervan onverwijld in kennis.   
 3.  Indien een bij de onderneming van de houder van een kindercentrum of gastouderbureau werkzaam persoon op enigerlei wijze bekend is geworden dat een ander ten behoeve van de onderneming van die houder werkzaam persoon, een gastouder of een persoon van 18 jaar of ouder als bedoeld in artikel 1.56b, derde lid, zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een kind van een ouder die gebruik maakt van de door de houder van een kindercentrum of gastouderbureau geboden kinderopvang, stelt hij de houder van dat kindercentrum of van dat gastouderbureau daarvan onverwijld in kennis.   
 4.  Indien toepassing van het derde lid ertoe zou leiden dat degene die van het vermoeden op de hoogte moet worden gesteld dezelfde persoon is als degene die zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, is artikel 1.51c, eerste en tweede lid, van overeenkomstige toepassing.   
 5.  De houder van een kindercentrum of van een gastouderbureau bevordert de kennis en het gebruik van de handelwijze, bedoeld in dit artikel.   
@@ -456,8 +509,8 @@ b. een gastouder die door tussenkomst van een gastouderbureau gastouderopvang bi
 
 a. een bij de onderneming van de houder van een kindercentrum of gastouderbureau werkzaam persoon; of  
 
-b. een gastouder die door tussenkomst van een gastouderbureau gastouderopvang biedt;   op enigerlei wijze bekend is geworden dat de natuurlijke persoon die tevens houder is van een kindercentrum of van een gastouderbureau zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) jegens een kind van een ouder die gebruik maakt van de door die houder geboden kinderopvang kan degene als bedoeld in onderdeel a of b in overleg treden met een deskundige als bedoeld in artikel 1.51b, eerste lid.   
-2.  Indien moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de houder zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de persoon die werkzaam is bij de onderneming van de houder van een kindercentrum of van een gastouderbureau, of de gastouder onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+b. een gastouder die door tussenkomst van een gastouderbureau gastouderopvang biedt;   op enigerlei wijze bekend is geworden dat de natuurlijke persoon die tevens houder is van een kindercentrum of van een gastouderbureau zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in Titel XIV van het Wetboek van Strafrecht of mishandeling als bedoeld in Titel XX van het Wetboek van Strafrecht jegens een kind van een ouder die gebruik maakt van de door die houder geboden kinderopvang kan degene als bedoeld in onderdeel a of b in overleg treden met een deskundige als bedoeld in artikel 1.51b, eerste lid.   
+2.  Indien moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de houder zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de persoon die werkzaam is bij de onderneming van de houder van een kindercentrum of van een gastouderbureau, of de gastouder onverwijld aangifte bij een opsporingsambtenaar als bedoeld in artikel 127 juncto artikel 141 van het Wetboek van Strafvordering.   
 3.  De houder van een kindercentrum of van een gastouderbureau bevordert de kennis en het gebruik van de handelwijze, bedoeld in dit artikel.   
 
 ### Artikel  1.52  
@@ -472,9 +525,14 @@ Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van d
 
 ### Artikel  1.54  
 
-1.  De houder van een kindercentrum informeert de ouders wier kinderen in het kindercentrum worden opgevangen over het te voeren beleid als bedoeld in deze paragraaf.   
-2.  De houder van een kindercentrum informeert de ouders wier kinderen in het kindercentrum worden opgevangen over een inspectierapport als bedoeld in artikel 1.63 door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor ouders gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage te leggen op een voor ouders toegankelijke plaats.   
-3.  De houder van een kindercentrum informeert het personeel van het kindercentrum over een inspectierapport als bedoeld in artikel 1.63 door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor het personeel gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage te leggen op een voor het personeel toegankelijke plaats.   
+1.  De houder van een kindercentrum informeert de ouders wier kinderen in het kindercentrum worden opgevangen en een ieder die daarom verzoekt over het te voeren beleid als bedoeld in deze paragraaf.   
+2.  De houder van een kindercentrum informeert over een inspectierapport als bedoeld in artikel 1.63, eerste lid, inzake zijn kindercentrum: 
+
+a. de ouders van de kinderen die in dat kindercentrum worden opgevangen, en  
+
+b. de personen werkzaam bij een onderneming waarmee de houder dat kindercentrum exploiteert.     
+3.  Het informeren als bedoeld in het tweede lid vindt plaats doordat de houder het inspectierapport zo spoedig mogelijk na ontvangst op zijn website plaatst zodanig dat het rapport voor de ouders en de personen werkzaam bij de onderneming waarmee de houder het kindercentrum exploiteert gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage legt op een voor de ouders en de personen werkzaam bij de onderneming, toegankelijke plaats.   
+4.  Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van dit hoofdstuk regels worden gesteld met betrekking tot de informatie die de houder van een kindercentrum verplicht is beschikbaar te stellen aan een ouder.   
 
 ### Artikel  1.54a  
 
@@ -599,7 +657,7 @@ f. wijziging van de prijs van kinderopvang.
 
 ### Artikel  1.60a  
 
-De houder van een kindercentrum of van een gastouderbureau treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in artikel 1.60, eerste lid. De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder van het kindercentrum of van het gastouderbureau of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder van het kindercentrum of van het gastouderbureau brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De [artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), [2a](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), [3c](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) en [4 van de Wet klachtrecht cliënten zorgsector](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) zijn van overeenkomstige toepassing.  
+De houder van een kindercentrum of van een gastouderbureau treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in artikel 1.60, eerste lid. De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder van het kindercentrum of van het gastouderbureau of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder van het kindercentrum of van het gastouderbureau brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid, 2a, 3c en 4 van de Wet klachtrecht cliënten zorgsector zijn van overeenkomstige toepassing.  
 
 ### Afdeling  4  
 
@@ -695,7 +753,7 @@ De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlic
 
 ### Artikel  1.72  
 
-1.  Het college kan de houder die een verplichting als bedoeld bij of krachtens afdeling 3 van dit hoofdstuk, een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 1.65 of een vordering tot medewerking als bedoeld in [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 1.66, een bestuurlijke boete opleggen van ten hoogste € 45 000.   
+1.  Het college kan de houder die een verplichting als bedoeld bij of krachtens afdeling 3 van dit hoofdstuk, een afspraak als bedoeld in artikel 167 van de Wet op het primair onderwijs, een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 1.65 of een vordering tot medewerking als bedoeld in artikel 5:20 van de Algemene wet bestuursrecht niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 1.66, een bestuurlijke boete opleggen van ten hoogste € 45 000.   
 2.  In afwijking van het eerste lid kan de overtreding van de houder niet met een bestuurlijke boete worden afgedaan, indien de overtreding opzettelijk of roekeloos geschiedt en een direct gevaar voor de gezondheid of de veiligheid van personen tot gevolg heeft.   
 
 ### Artikel  1.80  
@@ -716,7 +774,7 @@ b. het toezicht op de naleving van de regels, bedoeld onder a;
 
 c. de hoogte van de kinderopvangtoeslag;  
 
-d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij die regels kan worden afgeweken van artikel 1.1, eerste lid, wat betreft de begrippen «gastouderbureau» en «gastouderopvang», artikel 1.1, tweede lid, onderdeel a, artikel 1.7, afdeling 3, met uitzondering van artikel 1.48, alsmede van afdeling 4, paragrafen 1 en 2, en afdeling 5, paragraaf 2, van dit hoofdstuk.   
+d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij die regels kan worden afgeweken van artikel 1.1, eerste lid, wat betreft de begrippen «gastouderbureau» en «gastouderopvang», artikel 1.1, tweede lid, onderdeel a, artikel 1.7, afdeling 3, met uitzondering van artikel 1.48 tot en met 1.48b, alsmede van afdeling 4, paragrafen 1 en 2, en afdeling 5, paragraaf 2, van dit hoofdstuk.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voorwaarden worden gesteld aan de deelname aan een experiment.   
 3.  Indien toepassing wordt gegeven aan het eerste lid heeft een ouder als bedoeld in artikel 1.6 aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten, indien het betreft een experimentele vorm van kinderopvang, welke is geregistreerd.   
 4.  Bij algemene maatregel van bestuur kunnen experimenten als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele regeling is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing.   
@@ -740,21 +798,21 @@ d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij di
 
 *beroepskracht:* de persoon van 18 jaar of ouder die werkzaam is bij een peuterspeelzaal, bezoldigd is en belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen bij een peuterspeelzaal;  
 
-*beroepskracht in opleiding:* degene die de beroepsbegeleidende leerweg volgt, bedoeld in de [Wet educatie beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), beschikt over een arbeidsovereenkomst met de houder en ten behoeve van het praktijkdeel van de opleiding belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen;  
+*beroepskracht in opleiding:* degene die de beroepsbegeleidende leerweg volgt, bedoeld in de Wet educatie beroepsonderwijs, beschikt over een arbeidsovereenkomst met de houder en ten behoeve van het praktijkdeel van de opleiding belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen;  
 
 *beroepskracht voorschoolse educatie:* degene die als beroepskracht werkzaam is en belast is met voorschoolse educatie en die voldoet aan de opleidingseisen en scholingseisen, bedoeld in artikel 2.8, onderdeel a;  
 
 *college:* college van burgemeester en wethouders van de gemeente waar een peuterspeelzaal is gevestigd of zal worden gevestigd;  
 
-*GGD:* gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+*GGD:* gemeentelijke gezondheidsdienst als bedoeld in artikel 14 van de Wet publieke gezondheid;  
 
 *geregistreerde peuterspeelzaal:* een in het register peuterspeelzaalwerk ingeschreven peuterspeelzaal als bedoeld in artikel 2.3, tweede lid;  
 
-*houder:* degene aan wie een onderneming als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) toebehoort en die met die onderneming een peuterspeelzaal exploiteert;  
+*houder:* degene aan wie een onderneming als bedoeld in de Handelsregisterwet 2007 toebehoort en die met die onderneming een peuterspeelzaal exploiteert;  
 
 *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-*ouder:* bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie het peuterspeelzaalwerk betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) buiten beschouwing blijft;  
+*ouder:* bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie het peuterspeelzaalwerk betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de Wet op de jeugdzorg buiten beschouwing blijft;  
 
 *oudercommissie:* commissie als bedoeld in artikel 2.15;  
 
@@ -762,7 +820,7 @@ d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij di
 
 *peuterspeelzaal:* voorziening waar peuterspeelzaalwerk plaatsvindt, anders dan gastouderopvang of kinderopvang in een kindercentrum;  
 
-*register peuterspeelzaalwerk:* het register peuterspeelzaalwerk, bedoeld in artikel 2.3;  
+*register peuterspeelzaalwerk:* het register peuterspeelzaalwerk, bedoeld in artikel 2.4b, eerste lid;  
 
 *stagiair:* degene die een opleiding volgt, waarvan het praktijkdeel een beperkt deel van de totale studieduur is, belast is met werkzaamheden bij de houder ten behoeve van het praktijkdeel van de opleiding en geen beroepskracht in opleiding is;  
 
@@ -772,7 +830,7 @@ d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij di
 
 *verklaring omtrent het gedrag natuurlijke personen:* een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, ten behoeve van een natuurlijk persoon;  
 
-*verklaring omtrent het gedrag rechtspersonen:* een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), ten behoeve van een rechtspersoon;  
+*verklaring omtrent het gedrag rechtspersonen:* een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, ten behoeve van een rechtspersoon;  
 
 *voorschoolse educatie:* uitvoering van een door het college gesubsidieerd programma dat gericht is op het verbeteren van de voorwaarden voor het met succes instromen in het basisonderwijs voor kinderen die nog niet tot een school kunnen worden toegelaten;  
 
@@ -806,10 +864,16 @@ d. de duur van de aan te wijzen vormen van kinderopvang als experiment.   Bij di
 2.  Het college kan naar aanleiding van het verzoek, bedoeld in het eerste lid, besluiten tot wijziging van de gegevens en verwerkt dit zo nodig in het register peuterspeelzaalwerk.   
 3.  De houder kan het college verzoeken de inschrijving van een peuterspeelzaal uit het register peuterspeelzaalwerk te verwijderen.   
 4.  Het college kan naar aanleiding van een verzoek als bedoeld in het derde lid besluiten tot verwijdering van de inschrijving en verwerkt dit in het register peuterspeelzaalwerk.   
-5.  Het college heft geen recht als bedoeld in [artikel 229 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) in verband met een verzoek als bedoeld in het eerste en derde lid.   
+5.  Het college heft geen recht als bedoeld in artikel 229 van de Gemeentewet in verband met een verzoek als bedoeld in het eerste en derde lid.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van het eerste tot en met het vierde lid nadere regels worden gesteld.   
 
 ### Artikel  2.4a  
+
+1.  Het college kan besluiten de inschrijving van een peuterspeelzaal zonder een daaraan voorafgaand verzoek van de houder uit het register peuterspeelzaalwerk te verwijderen of de gegevens hiervan in het register peuterspeelzaalwerk te wijzigen. Indien het college hiertoe besluit, verwerkt het college dit in het register peuterspeelzaalwerk.   
+2.  Onze Minister kan besluiten de inschrijving van een peuterspeelzaal zonder een daaraan voorafgaand verzoek van de houder in het register peuterspeelzaalwerk te wijzigen. Indien Onze Minister hiertoe besluit, verwerkt hij dit in het register peuterspeelzaalwerk.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van het eerste en tweede lid nadere regels worden gesteld.   
+
+### Artikel  2.4b  
 
 1.  Onze Minister draagt zorg voor de inrichting van een register peuterspeelzaalwerk ten behoeve van de waarborging van de kwaliteit en de rechtszekerheid van het peuterspeelzaalwerk alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens deze afdeling gestelde regels.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het register peuterspeelzaalwerk. Deze regels hebben in elk geval betrekking op: 
@@ -818,15 +882,13 @@ a. de vorm van het register;
 
 b. de in het register op te nemen gegevens;  
 
-c. de vastlegging van gegevens in het register en de verwijdering van gegevens daaruit;  
+c. de vastlegging in, de wijziging van en de verwijdering van gegevens uit het register;  
 
-d. de wijze waarop verbetering van onjuistheden in het register plaatsvindt;  
+d. de verstrekking van gegevens;  
 
-e. de verstrekking van gegevens;  
+e. de openbaarheid van gegevens;  
 
-f. de openbaarheid van gegevens;  
-
-g. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.     
+f. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.     
 
 ### Paragraaf  2  
 
@@ -864,7 +926,7 @@ f. het pedagogisch beleid en de pedagogische praktijk.
 
 ### Artikel  2.7  
 
-De houder van een peuterspeelzaal neemt deel aan het overleg tussen het college en de bevoegde gezagsorganen van scholen over het onderwijsachterstandenbeleid, bedoeld in [artikel 167a van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), en werkt mee aan de totstandkoming van de samenwerkingsafspraken en de nakoming ervan.  
+De houder van een peuterspeelzaal neemt deel aan het overleg tussen het college en de bevoegde gezagsorganen van scholen over het onderwijsachterstandenbeleid, bedoeld in artikel 167a van de Wet op het primair onderwijs, en werkt mee aan de totstandkoming van de samenwerkingsafspraken en de nakoming ervan.  
 
 ### Artikel  2.8  
 
@@ -885,23 +947,23 @@ De houder voert een beleid dat ertoe leidt dat de veiligheid en de gezondheid va
 ### Artikel  2.9a  
 
 1.  De houder van een peuterspeelzaal stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  De houder van een peuterspeelzaal bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Artikel  2.9b  
 
-1.  Indien de houder op enigerlei wijze bekend is geworden dat een bij zijn onderneming werkzaam persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) jegens een kind van een ouder die gebruik maakt van het door hem geboden peuterspeelzaalwerk, treedt de houder onverwijld in overleg met een door Onze Minister aan te wijzen deskundige.   
-2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de houder onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en stelt de houder de deskundige, bedoeld in het eerste lid, hiervan onverwijld in kennis.   
+1.  Indien de houder op enigerlei wijze bekend is geworden dat een bij zijn onderneming werkzaam persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in Titel XIV van het Wetboek van Strafrecht of mishandeling als bedoeld in Titel XX van het Wetboek van Strafrecht jegens een kind van een ouder die gebruik maakt van het door hem geboden peuterspeelzaalwerk, treedt de houder onverwijld in overleg met een door Onze Minister aan te wijzen deskundige.   
+2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de houder onverwijld aangifte bij een opsporingsambtenaar als bedoeld in artikel 127 juncto artikel 141 van het Wetboek van Strafvordering, en stelt de houder de deskundige, bedoeld in het eerste lid, hiervan onverwijld in kennis.   
 3.  Indien een bij de onderneming van de houder werkzaam persoon op enigerlei wijze bekend is geworden dat een ander ten behoeve van de onderneming van die houder werkzaam persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een kind van een ouder die gebruik maakt van het door de houder geboden peuterspeelzaalwerk, stelt hij de houder daarvan onverwijld in kennis.   
 4.  Indien toepassing van het derde lid er toe zou leiden dat degene die van het vermoeden op de hoogte moet worden gesteld dezelfde persoon is als degene die zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, is artikel 2.9c, eerste en tweede lid, van overeenkomstige toepassing.   
 5.  De houder bevordert de kennis en het gebruik van de handelwijze, bedoeld in dit artikel.   
 
 ### Artikel  2.9c  
 
-1.  Indien een bij de onderneming van de houder werkzaam persoon op enigerlei wijze bekend is geworden dat de natuurlijke persoon die tevens houder is zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) jegens een kind van een ouder die gebruik maakt van het door de houder geboden peuterspeelzaalwerk kan deze bij de onderneming van de houder werkzame persoon in overleg treden met een deskundige als bedoeld in artikel 2.9b, eerste lid.   
-2.  Indien moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de houder zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de persoon die werkzaam is bij de onderneming van de houder onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+1.  Indien een bij de onderneming van de houder werkzaam persoon op enigerlei wijze bekend is geworden dat de natuurlijke persoon die tevens houder is zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in Titel XIV van het Wetboek van Strafrecht of mishandeling als bedoeld in Titel XX van het Wetboek van Strafrecht jegens een kind van een ouder die gebruik maakt van het door de houder geboden peuterspeelzaalwerk kan deze bij de onderneming van de houder werkzame persoon in overleg treden met een deskundige als bedoeld in artikel 2.9b, eerste lid.   
+2.  Indien moet worden geconcludeerd dat sprake is van een redelijk vermoeden dat de houder zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid, doet de persoon die werkzaam is bij de onderneming van de houder onverwijld aangifte bij een opsporingsambtenaar als bedoeld in artikel 127 juncto artikel 141 van het Wetboek van Strafvordering.   
 3.  De houder bevordert de kennis en het gebruik van de handelwijze, bedoeld in dit artikel.   
 
 ### Artikel  2.10  
@@ -910,9 +972,14 @@ Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van d
 
 ### Artikel  2.11  
 
-1.  De houder informeert de ouders van wie de kinderen in de peuterspeelzaal worden opgevangen over het te voeren beleid als bedoeld in deze paragraaf.   
-2.  De houder informeert de ouders wier kinderen in de peuterspeelzaal worden opgevangen over een inspectierapport als bedoeld in artikel 2.21 door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor ouders gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage leggen op een voor ouders toegankelijke plaats.   
-3.  De houder informeert het personeel over een inspectierapport als bedoeld in artikel 2.21 door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor het personeel gemakkelijk vindbaar is dan wel ter inzage te leggen op een voor het personeel toegankelijke plaats.   
+1.  De houder informeert de ouders van de kinderen die gebruik maken van het door de houder geboden peuterspeelzaalwerk en een ieder die daarom verzoekt over het te voeren beleid als bedoeld in deze paragraaf.   
+2.  De houder informeert over een inspectierapport als bedoeld in artikel 2.21, eerste lid, inzake zijn peuterspeelzaal: 
+
+a. de ouders van de kinderen die gebruik maken van het door de houder geboden peuterspeelzaalwerk, en  
+
+b. de personen werkzaam bij een onderneming waarmee de houder een peuterspeelzaal exploiteert.     
+3.  Het informeren als bedoeld in het tweede lid vindt plaats doordat de houder het inspectierapport zo spoedig mogelijk na ontvangst op zijn website plaatst zodanig dat het rapport voor de ouders en de personen werkzaam bij de onderneming waarmee de houder de peuterspeelzaal exploiteert gemakkelijk vindbaar is, dan wel indien de houder geen eigen website heeft, ter inzage legt op een voor de ouders en de personen werkzaam bij de onderneming, toegankelijke plaats.   
+4.  Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van dit hoofdstuk regels worden gesteld met betrekking tot de informatie die de houder verplicht is beschikbaar te stellen aan een ouder.   
 
 ### Artikel  2.12  
 
@@ -974,7 +1041,7 @@ f. wijziging van de prijs van peuterspeelzaalwerk.
 
 ### Artikel  2.18  
 
-De houder treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in artikel 2.17, eerste lid. De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De [artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), [2a](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), [3c](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) en [4 van de Wet klachtrecht cliënten zorgsector](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) zijn van overeenkomstige toepassing voor de oudercommissie.  
+De houder treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in artikel 2.17, eerste lid. De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid, 2a, 3c en 4 van de Wet klachtrecht cliënten zorgsector zijn van overeenkomstige toepassing voor de oudercommissie.  
 
 ### Afdeling  3  
 
@@ -1046,7 +1113,7 @@ Deze afdeling is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen.
 
 ### Artikel  2.28  
 
-1.  Het college kan de houder die een verplichting als bedoeld bij of krachtens afdeling 2 van dit hoofdstuk, een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 2.23 of een vordering tot medewerking als bedoeld in [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 2.24, een bestuurlijke boete opleggen van ten hoogste € 45 000.   
+1.  Het college kan de houder die een verplichting als bedoeld bij of krachtens afdeling 2 van dit hoofdstuk, een afspraak als bedoeld in artikel 167 van de Wet op het primair onderwijs, een aanwijzing onderscheidenlijk een bevel als bedoeld in artikel 2.23 of een vordering tot medewerking als bedoeld in artikel 5:20 van de Algemene wet bestuursrecht niet nakomt dan wel handelt in strijd met een verbod krachtens artikel 2.24, een bestuurlijke boete opleggen van ten hoogste € 45 000.   
 2.  In afwijking van het eerste lid kan de overtreding van de houder niet met een bestuurlijke boete worden afgedaan, indien de overtreding opzettelijk of roekeloos geschiedt en een direct gevaar voor de gezondheid of de veiligheid van personen tot gevolg heeft.   
 
 ### Afdeling  5  
@@ -1087,12 +1154,12 @@ d. de duur van de aan te wijzen vormen van peuterspeelzaalwerk als experiment.  
 
 ### Artikel  3.7  
 
-1.  Afdeling 2 van hoofdstuk 1 en artikel 1.86 zijn gedurende ten hoogste zes maanden na het tijdstip van hun inwerkingtreding niet van toepassing op een ouder als bedoeld in artikel 1.6, eerste lid, onder h en i, die gebruik maakt van kinderopvang die door het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van die ouder is bekostigd op grond een vóór het tijdstip van inwerkingtreding van deze wet gesloten schriftelijke overeenkomst als bedoeld in [artikel 74, eerste lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) respectievelijk [artikel 22a, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md).   
-2.  Op de financiering van kinderopvang, bedoeld in het eerste lid, blijven de [artikelen 74 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) onderscheidenlijk [22a](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md), [34 tot en met 37](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md), [45 tot en met 47](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) en [53 van de Wet op de (re)integratie arbeidsgehandicapten](../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md), zoals deze artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, van toepassing.   
+1.  Afdeling 2 van hoofdstuk 1 en artikel 1.86 zijn gedurende ten hoogste zes maanden na het tijdstip van hun inwerkingtreding niet van toepassing op een ouder als bedoeld in artikel 1.6, eerste lid, onder h en i, die gebruik maakt van kinderopvang die door het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van die ouder is bekostigd op grond een vóór het tijdstip van inwerkingtreding van deze wet gesloten schriftelijke overeenkomst als bedoeld in artikel 74, eerste lid, van de Werkloosheidswet respectievelijk artikel 22a, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten.   
+2.  Op de financiering van kinderopvang, bedoeld in het eerste lid, blijven de artikelen 74 van de Werkloosheidswet onderscheidenlijk 22a, 34 tot en met 37, 45 tot en met 47 en 53 van de Wet op de (re)integratie arbeidsgehandicapten, zoals deze artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, van toepassing.   
 
 ### Artikel  3.8  
 
-Ten aanzien van voor het tijdstip van inwerkingtreding van de Wet kinderopvang door het Rijk en gemeenten op grond van de [Welzijnswet 1994](../../../../wet/welzijnswet/1994/BWBR0006705/README.md) verleende subsidies en uitkeringen aan kinderopvang, voorzover dat kinderopvang betreft waarop deze wet van toepassing is, blijft het bepaalde bij of krachtens de [Welzijnswet 1994](../../../../wet/welzijnswet/1994/BWBR0006705/README.md), zoals dat laatstelijk voor 1 januari 2005 luidde, van toepassing op de financiële verantwoording, vaststelling en uitbetaling van die subsidies en uitkeringen.  
+Ten aanzien van voor het tijdstip van inwerkingtreding van de Wet kinderopvang door het Rijk en gemeenten op grond van de Welzijnswet 1994 verleende subsidies en uitkeringen aan kinderopvang, voorzover dat kinderopvang betreft waarop deze wet van toepassing is, blijft het bepaalde bij of krachtens de Welzijnswet 1994, zoals dat laatstelijk voor 1 januari 2005 luidde, van toepassing op de financiële verantwoording, vaststelling en uitbetaling van die subsidies en uitkeringen.  
 
 ### Artikel  3.8a  
 
@@ -1120,7 +1187,7 @@ Personen die werkzaam zijn bij een onderneming waarmee de houder een peuterspeel
 
 ### Artikel  3.8f  
 
-De inschrijvingen van de voorzieningen, bedoeld in artikel 1.48, eerste lid, die op 1 juli 2013 in het register buitenlandse kinderopvang staan opgenomen vervallen van rechtswege op 1 januari 2018.  
+De inschrijvingen van de voorzieningen, bedoeld in artikel  1.48, eerste en tweede lid, die op het tijdstip van inwerkingtreding van artikel 1.48, zesde lid, in het register buitenlandse kinderopvang staan opgenomen vervallen van rechtswege vier jaar na dat tijdstip.  
 
 ### Artikel  3.8g  
 
@@ -1140,7 +1207,15 @@ b. door de personen werkzaam bij een onderneming als bedoeld in de artikelen 1.5
 
 ### Artikel  3.8h  
 
-In afwijking van artikel 1.1a, vijfde lid, zoals dat luidde op 31 december 2012, is voor de berekeningsjaren 2012 en 2013 [artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) van toepassing op een aanvraag om kinderopvangtoeslag als bedoeld in artikel 1.5.  
+In afwijking van artikel 1.1a, vijfde lid, zoals dat luidde op 31 december 2012, is voor de berekeningsjaren 2012 en 2013 artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen van toepassing op een aanvraag om kinderopvangtoeslag als bedoeld in artikel 1.5.  
+
+### Artikel  3.8h*  
+
+Personen die op het tijdstip van inwerkingtreding van artikel 2.2 werkzaam zijn bij een peuterspeelzaal, leggen aan de houder van een peuterspeelzaal binnen twee maanden na de inwerkingtreding van artikel 2.2 een verklaring over als bedoeld in artikel 2.6, derde lid.  
+
+### Artikel  3.8i  
+
+Indien er op het moment van inwerkingtreding van afdeling 2 van hoofdstuk 2 van deze wet een oudercommissie is, geldt de verplichting van artikel 2.16 voor een houder van een peuterspeelzaal die op het tijdstip van inwerkingtreding van afdeling 2 van hoofdstuk 2 een peuterspeelzaal in stand houdt, eerst zes maanden na dat tijdstip.  
 
 ### Paragraaf  2  
 
@@ -1168,15 +1243,7 @@ De voordracht voor een krachtens de artikelen 1.7, tweede tot en met vierde lid,
 
 1.  Onze Minister brengt na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport gedurende drie jaar na de inwerkingtreding van deze wet jaarlijks aan de Staten-Generaal een verslag uit over de werking ervan.   
 2.  Onze Minister brengt na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na drie jaar, aan de Staten-Generaal een verslag uit over de doeltreffendheid en de effecten van deze wet in de praktijk.   
-3.  Onze Minister brengt na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport een jaar na de inwerkingtreding van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md) en vervolgens telkens als onderdeel van het verslag, bedoeld in het tweede lid, aan de Staten-Generaal een verslag uit over de doeltreffendheid en de effecten in de praktijk van de onderdelen van deze wet, zoals deze zijn gewijzigd door de [genoemde wet](../../../../wet/wijzigingswet/wet/kinderopvang/(herziening/stelsel/gastouderopvang)/BWBR0026299/README.md).   
-
-### Artikel  3.8h*  
-
-Personen die op het tijdstip van inwerkingtreding van artikel 2.2 werkzaam zijn bij een peuterspeelzaal, leggen aan de houder van een peuterspeelzaal binnen twee maanden na de inwerkingtreding van artikel 2.2 een verklaring over als bedoeld in artikel 2.6, derde lid.  
-
-### Artikel  3.8i  
-
-Indien er op het moment van inwerkingtreding van afdeling 2 van hoofdstuk 2 van deze wet een oudercommissie is, geldt de verplichting van artikel 2.16 voor een houder van een peuterspeelzaal die op het tijdstip van inwerkingtreding van afdeling 2 van hoofdstuk 2 een peuterspeelzaal in stand houdt, eerst zes maanden na dat tijdstip.  
+3.  Onze Minister brengt na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport een jaar na de inwerkingtreding van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345) en vervolgens telkens als onderdeel van het verslag, bedoeld in het tweede lid, aan de Staten-Generaal een verslag uit over de doeltreffendheid en de effecten in de praktijk van de onderdelen van deze wet, zoals deze zijn gewijzigd door de genoemde wet.   
 
 ### Artikel  3.13  
 
@@ -1189,7 +1256,7 @@ Vervallen door vernummering.
 ### Artikel  3.14a  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende paragrafen, artikelen of onderdelen daarvan verschillend kan worden gesteld.   
-2.  De [artikelen 1, onder b, 3°](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), [2, negende lid, tweede volzin](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), [2a, tweede lid](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), en 3c, van de [Wet klachtrecht cliënten zorgsector](../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) vervallen op een bij koninklijk besluit te bepalen tijdstip.   
+2.  De artikelen 1, onder b, 3°, 2, negende lid, tweede volzin, 2a, tweede lid, en 3c, van de Wet klachtrecht cliënten zorgsector vervallen op een bij koninklijk besluit te bepalen tijdstip.   
 
 ### Artikel  3.15  
 

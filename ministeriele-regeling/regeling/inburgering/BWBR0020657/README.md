@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Vreemdelingenzaken en Integratie van 6 december 2006, nr. 5456790/06, tot uitvoering van de Wet inburgering, het Besluit inburgering en tot wijziging van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 (Regeling inburgering)
 
 De Minister voor Vreemdelingenzaken en Integratie,  
-Gelet op de [artikelen 1, tweede lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [14, derde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [50, tweede lid, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) de [artikelen 2.1, vierde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [2.3, eerste lid, onderdeel f](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [2.7, zevende lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [2.8, vijfde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [2.10, eerste en tweede lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.3, tweede lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.5, vierde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.7, zesde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.8, vijfde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.9, vierde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.11, vierde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.12, elfde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.13](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.14, vijfde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.15 eerste, vierde en vijfde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.17, eerste lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.19, derde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.21, derde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [3.23, tweede lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.2, derde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.5, eerste, derde en vierde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.7, eerste en derde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.10, derde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.12](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.13, eerste lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.17, eerste lid, tweede, derde en vierde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.20, derde lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.22, tweede lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [4.24, tweede lid](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), [5.2](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), en [7.7, tweede lid, van het Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), en [artikel 12 van de Wet Centraal Orgaan opvang asielzoekers](../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md);
+Gelet op de artikelen 1, tweede lid, 14, derde lid, 50, tweede lid, van de Wet inburgering de artikelen 2.1, vierde lid, 2.3, eerste lid, onderdeel f, 2.7, zevende lid, 2.8, vijfde lid, 2.10, eerste en tweede lid, 3.3, tweede lid, 3.5, vierde lid, 3.7, zesde lid, 3.8, vijfde lid, 3.9, vierde lid, 3.11, vierde lid, 3.12, elfde lid, 3.13, 3.14, vijfde lid, 3.15 eerste, vierde en vijfde lid, 3.17, eerste lid, 3.19, derde lid, 3.21, derde lid, 3.23, tweede lid, 4.2, derde lid, 4.5, eerste, derde en vierde lid, 4.7, eerste en derde lid, 4.10, derde lid, 4.12, 4.13, eerste lid, 4.17, eerste lid, tweede, derde en vierde lid, 4.20, derde lid, 4.22, tweede lid, 4.24, tweede lid, 5.2, en 7.7, tweede lid, van het Besluit inburgering, en artikel 12 van de Wet Centraal Orgaan opvang asielzoekers;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,27 +13,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: het [Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);  
+a. besluit: het Besluit inburgering;  
 
 b. de minister: de Minister van Sociale Zaken en Werkgelegenheid;  
 
-c. belastbaar loon: het belastbaar loon, bedoeld in [artikel 9 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+c. belastbaar loon: het belastbaar loon, bedoeld in artikel 9 van de Wet op de loonbelasting 1964;  
 
-d. toetsingsinkomen: het toetsingsinkomen, bedoeld in [artikel 8 van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
+d. toetsingsinkomen: het toetsingsinkomen, bedoeld in artikel 8 van de Algemene wet inkomensafhankelijke regelingen;  
 
-e. staatsexamen Nederlands als tweede taal: staatsexamen Nederlands als tweede taal I of II als bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. staatsexamen Nederlands als tweede taal: staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
 f. inburgeringscursus: een door een cursusinstelling aangeboden cursus welke een inburgeringsplichtige in staat stelt mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving te verwerven, teneinde het inburgeringsexamen te behalen.    
 
 ### Artikel  1.2  
 
-Het keurmerk, bedoeld in [artikel 4.1a, vijfde lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) is het Keurmerk Inburgeren, dat wordt toegekend en beheerd door de Stichting Blik op Werk.  
+Het keurmerk, bedoeld in artikel 4.1a, vijfde lid, van het besluit is het Keurmerk Inburgeren, dat wordt toegekend en beheerd door de Stichting Blik op Werk.  
 
 ### Artikel  1.3  
 
-1.  Als geestelijke bedienaar wordt in ieder geval aangemerkt de vreemdeling die houder is van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die is verleend onder een beperking verband houdend met het verrichten van arbeid als geestelijke voorganger of godsdienstleraar.   
-2.  Onder kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag als bedoeld in [artikel 1, eerste lid, onderdeel e, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) wordt tevens verstaan een onderdeel daarvan of een rechtspersoon waarin twee of meer van deze genootschappen samenwerken.   
-3.  Van werkzaamheden van overwegend godsdienstige, geestelijke of levensbeschouwelijke aard als bedoeld in [artikel 1, eerste lid, onderdeel e, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) is in ieder geval sprake in geval van werkzaamheden als voorganger, godsdienstleraar, zendeling, leraar levensbeschouwelijk onderwijs, vertrouwenspersoon of pastoraal werker binnen een godsdienstige of levensbeschouwelijke gemeenschap, dan wel op het terrein van het uitdragen en verklaren van een bepaalde geloofsleer of levensbeschouwelijke opvattingen.   
+1.  Als geestelijke bedienaar wordt in ieder geval aangemerkt de vreemdeling die houder is van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, die is verleend onder een beperking verband houdend met het verrichten van arbeid als geestelijke voorganger of godsdienstleraar.   
+2.  Onder kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag als bedoeld in artikel 1, eerste lid, onderdeel e, van de wet wordt tevens verstaan een onderdeel daarvan of een rechtspersoon waarin twee of meer van deze genootschappen samenwerken.   
+3.  Van werkzaamheden van overwegend godsdienstige, geestelijke of levensbeschouwelijke aard als bedoeld in artikel 1, eerste lid, onderdeel e, van de wet is in ieder geval sprake in geval van werkzaamheden als voorganger, godsdienstleraar, zendeling, leraar levensbeschouwelijk onderwijs, vertrouwenspersoon of pastoraal werker binnen een godsdienstige of levensbeschouwelijke gemeenschap, dan wel op het terrein van het uitdragen en verklaren van een bepaalde geloofsleer of levensbeschouwelijke opvattingen.   
 4.  Als geestelijke bedienaar wordt niet aangemerkt degene die op louter incidentele basis werkzaamheden als bedoeld in het derde lid, verricht.   
 
 ### Hoofdstuk  2  
@@ -46,7 +46,7 @@ Het keurmerk, bedoeld in [artikel 4.1a, vijfde lid, van het besluit](../../../..
 
 ### Artikel  2.1  
 
-De beperkingen, bedoeld in [artikel 2.1, eerste en tweede lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zijn opgenomen in bijlage 1 bij deze regeling.  
+De beperkingen, bedoeld in artikel 2.1, eerste en tweede lid, van het besluit, zijn opgenomen in bijlage 1 bij deze regeling.  
 
 ### §  2  
 
@@ -54,7 +54,7 @@ De beperkingen, bedoeld in [artikel 2.1, eerste en tweede lid, van het besluit](
 
 ### Artikel  2.2  
 
-De diploma’s, certificaten en andere documenten, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, bedoeld in [artikel 2.3, eerste lid, onderdeel f, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zijn opgenomen in bijlage 2 bij deze regeling.  
+De diploma’s, certificaten en andere documenten, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, bedoeld in artikel 2.3, eerste lid, onderdeel f, van het besluit, zijn opgenomen in bijlage 2 bij deze regeling.  
 
 ### Artikel  2.2a  
 
@@ -77,11 +77,11 @@ f. de datum waarop de toetsresultaten zijn behaald.
 
 ### Artikel  2.2b  
 
-Van de verplichting om mondelinge vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdeel d, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) te behalen, is vrijgesteld de inburgeringsplichtige die voor het onderdeel spreekvaardigheid van het basisexamen inburgering, bedoeld in [artikel 3.98a, derde lid, onderdeel c, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) ten minste 37 punten heeft behaald.  
+Van de verplichting om mondelinge vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdeel d, van het besluit te behalen, is vrijgesteld de inburgeringsplichtige die voor het onderdeel spreekvaardigheid van het basisexamen inburgering, bedoeld in artikel 3.98a, derde lid, onderdeel c, van het Vreemdelingenbesluit 2000 ten minste 37 punten heeft behaald.  
 
 ### Artikel  2.2c  
 
-Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en de onderdelen van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdelen a tot en met d, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) te behalen, is vrijgesteld de inburgeringsplichtige die beschikt over de volgende certificaten van het Certificaat Nederlands als Vreemde Taal: 
+Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en de onderdelen van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdelen a tot en met d, van het besluit te behalen, is vrijgesteld de inburgeringsplichtige die beschikt over de volgende certificaten van het Certificaat Nederlands als Vreemde Taal: 
 
 a. Certificaat Profiel Toeristische en Informele Taalvaardigheid (ERK-niveau A2);  
 
@@ -97,7 +97,7 @@ f. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
 
 ### Artikel  2.2d  
 
-Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdelen a, b, c of d, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) te behalen is vrijgesteld de degene die beschikt over een certificaat dat is afgegeven ter afronding van het examenonderdeel lezen, schrijven, luisteren respectievelijk spreken van het staatsexamen Nederlands als tweede taal.  
+Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdelen a, b, c of d, van het besluit te behalen is vrijgesteld de degene die beschikt over een certificaat dat is afgegeven ter afronding van het examenonderdeel lezen, schrijven, luisteren respectievelijk spreken van het staatsexamen Nederlands als tweede taal.  
 
 ### §  3  
 
@@ -105,27 +105,27 @@ Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlands
 
 ### Artikel  2.4  
 
-1.  Het advies, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), bevat in ieder geval een oordeel met betrekking tot het verlenen dan wel het weigeren van de ontheffing van de inburgeringsplicht en, indien van toepassing, noodzakelijke bijzondere examenomstandigheden als bedoeld in artikel 3.2.   
-2.  De arts, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), adviseert tot ontheffing van de inburgeringsplicht, indien de inburgeringsplichtige: 
+1.  Het advies, bedoeld in artikel 2.8, eerste lid, van het besluit, bevat in ieder geval een oordeel met betrekking tot het verlenen dan wel het weigeren van de ontheffing van de inburgeringsplicht en, indien van toepassing, noodzakelijke bijzondere examenomstandigheden als bedoeld in artikel 3.2.   
+2.  De arts, bedoeld in artikel 2.8, eerste lid, van het besluit, adviseert tot ontheffing van de inburgeringsplicht, indien de inburgeringsplichtige: 
 
 a. niet in staat is zich met lichte aanpassingen binnen vijf jaar voor te bereiden op het inburgeringsexamen, of  
 
 b. bijzondere examenomstandigheden nodig heeft om het inburgeringsexamen te kunnen behalen en de bijzondere examenomstandigheden, bedoeld in artikel 3.2, hiertoe niet toereikend zijn.     
-3.  De arts, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), stelt het advies op conform het protocol dat is opgenomen in bijlage 4 bij deze regeling.   
+3.  De arts, bedoeld in artikel 2.8, eerste lid, van het besluit, stelt het advies op conform het protocol dat is opgenomen in bijlage 4 bij deze regeling.   
 
 ### Artikel  2.4a  
 
-De minister verleent de ontheffing, bedoeld in [artikel 2.8a van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), indien: 
+De minister verleent de ontheffing, bedoeld in artikel 2.8a van het besluit, indien: 
 
-a. de inburgeringsplichtige ten minste 10 jaar onafgebroken als ingezetene ingeschreven is geweest in de gemeentelijke basisadministratie persoonsgegevens; én  
+a. de inburgeringsplichtige volgens de basisregistratie personen ten minste 10 jaar onafgebroken als ingezetene ingeschreven is geweest; én  
 
 b. de inburgeringsplichtige naar het oordeel van de minister aantoonbaar gedurende ten minste 5 jaar betaald werk of vrijwilligerswerk heeft verricht in Nederland; *én*  
 
-c. in een gesprek is vastgesteld dat de inburgeringsplichtige de vaardigheden in de Nederlandse taal, bedoeld in [artikel 2.9, onderdelen a en b, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), beheerst op het in dat artikel bedoelde niveau.    
+c. in een gesprek is vastgesteld dat de inburgeringsplichtige de vaardigheden in de Nederlandse taal, bedoeld in artikel 2.9, onderdelen a en b, van het besluit, beheerst op het in dat artikel bedoelde niveau.    
 
 ### Artikel  2.4b  
 
-De minister verleent de ontheffing, bedoeld in [artikel 2.8b van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), indien de inburgeringsplichtige: 
+De minister verleent de ontheffing, bedoeld in artikel 2.8b van het besluit, indien de inburgeringsplichtige: 
 
 a. ten minste 600 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op werk keurmerk en ten minste vier maal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen; of  
 
@@ -133,7 +133,7 @@ b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een in
 
 ### Artikel  2.4c  
 
-1.  De minister verleent verlenging van de voor de inburgeringsplichtige geldende termijn op grond van [artikel 7, derde lid, onder a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien de inburgeringsplichtige ten minste 300 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op Werk keurmerk en ten minste twee maal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen.   
+1.  De minister verleent verlenging van de voor de inburgeringsplichtige geldende termijn op grond van artikel 7, derde lid, onder a, van de wet, indien de inburgeringsplichtige ten minste 300 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op Werk keurmerk en ten minste twee maal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen.   
 2.  De verlenging, bedoeld in het eerste lid, wordt voor ten hoogste twee jaar verleend.   
 
 ### Artikel  2.4d  
@@ -141,7 +141,7 @@ b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een in
 1.  Voor het onderzoek ten behoeve van een advies als bedoeld in artikel 2.4, eerste lid, is door de inburgeringsplichtige een bedrag verschuldigd van € 240,79.   
 2.  Voor het in behandeling nemen van een aanvraag voor een ontheffing als bedoeld in artikel 2.4a is door de inburgeringsplichtige een bedrag verschuldigd van € 90.   
 3.  Voor het in behandeling nemen van een aanvraag voor een ontheffing als bedoeld in artikel 2.4b, aanhef en onderdeel b, is door de inburgeringsplichtige een bedrag verschuldigd van € 150.   
-4.  Onder de inburgeringsplichtige, bedoeld in het eerste lid, wordt mede verstaan de inburgeringsplichtige, bedoeld in [artikel X, tweede lid, van de Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../wet/wijzigingswet/wet/inburgering/enz./(versterking/eigen/verantwoordelijkheid/etc/BWBR0032031/README.md) (Stb. 2012, 430), die een ontheffing aanvraagt op grond van de regels gesteld bij of krachtens [artikel 6, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals dit luidde op 31 december 2012.   
+4.  Onder de inburgeringsplichtige, bedoeld in het eerste lid, wordt mede verstaan de inburgeringsplichtige, bedoeld in artikel X, tweede lid, van de Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 430), die een ontheffing aanvraagt op grond van de regels gesteld bij of krachtens artikel 6, eerste lid, van de wet, zoals dit luidde op 31 december 2012.   
 
 ### §  4  
 
@@ -149,7 +149,7 @@ b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een in
 
 ### Artikel  2.5  
 
-De eindtermen van het onderdeel van het inburgeringsexamen kennis van de Nederlandse samenleving, bedoeld in [artikel 2.10 van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zijn opgenomen in bijlage 5 bij deze regeling.  
+De eindtermen van het onderdeel van het inburgeringsexamen kennis van de Nederlandse samenleving, bedoeld in artikel 2.10 van het besluit, zijn opgenomen in bijlage 5 bij deze regeling.  
 
 ### Hoofdstuk  3  
 
@@ -161,17 +161,17 @@ De eindtermen van het onderdeel van het inburgeringsexamen kennis van de Nederla
 
 ### Artikel  3.1  
 
-Het examengeld, bedoeld in [artikel 3.3, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), bedraagt: 
+Het examengeld, bedoeld in artikel 3.3, eerste lid, van het besluit, bedraagt: 
 
-a. € 50,– voor elk van de onderdelen van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdelen a tot en met c, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);  
+a. € 50,– voor elk van de onderdelen van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdelen a tot en met c, van het besluit;  
 
-b. € 60’ voor het onderdeel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdeel d, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);  
+b. € 60’ voor het onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdeel d, van het besluit;  
 
-c. € 40’ voor het onderdeel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdeel e, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md).    
+c. € 40’ voor het onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdeel e, van het besluit.    
 
 ### Artikel  3.2  
 
-De bijzondere examenomstandigheden, bedoeld in [artikel 3.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), betreffen: 
+De bijzondere examenomstandigheden, bedoeld in artikel 3.5, eerste lid, van het besluit, betreffen: 
 
 a. examen in aangepaste locatie;  
 
@@ -201,13 +201,17 @@ Het model van het inburgeringsdiploma is opgenomen in bijlage 6 bij deze regelin
 
 ####Inhoud van het examen
 
+### Artikel  3.4  
+
+De Staat der Nederlanden (Ministerie van Sociale Zaken en Werkgelegenheid) maakt een voorbehoud als bedoeld in artikel 15b van de Auteurswet met betrekking tot de inhoud van het inburgeringsexamen.  
+
 ### §  3  
 
 ####Training voor examinatoren
 
 ### Artikel  3.8  
 
-1.  De deskundigheid van de examinatoren, bedoeld in [artikel 3.13, onderdeel c, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) blijkt uit een afgeronde door de minister vast te stellen Examentraining schrijfvaardigheid.   
+1.  De deskundigheid van de examinatoren, bedoeld in artikel 3.13, onderdeel c, van het besluit blijkt uit een afgeronde door de minister vast te stellen Examentraining schrijfvaardigheid.   
 2.  De examinator kan deelnemen aan de training indien hij: 
 
 a. over het certificaat bekwaam docent Nederlands als tweede taal beschikt;  
@@ -240,7 +244,7 @@ c. een van de volgende opleidingen heeft afgerond:
 ### Artikel  3.10  
 
 1.  De minister stelt een examenreglement vast.   
-2.  Een ieder die zich overeenkomstig de daartoe gestelde regels heeft aangemeld, het verschuldigde examengeld heeft voldaan en zich overeenkomstig [artikel 3.4 van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) heeft geïdentificeerd, wordt toegelaten tot de tot het inburgeringsexamen behorende onderdelen.   
+2.  Een ieder die zich overeenkomstig de daartoe gestelde regels heeft aangemeld, het verschuldigde examengeld heeft voldaan en zich overeenkomstig artikel 3.4 van het besluit heeft geïdentificeerd, wordt toegelaten tot de tot het inburgeringsexamen behorende onderdelen.   
 3.  De kwaliteit van de examinering wordt gewaarborgd door: 
 
 a. transparantie van de taken, bevoegdheden en verantwoordelijkheden bij de examinering;  
@@ -252,6 +256,7 @@ c. het beschrijven van de procedure van verwerking van examenresultaten en de ge
 d. de naleving van het examenreglement, bedoeld in het eerste lid;  
 
 e. het treffen van passende technische en organisatorische maatregelen om de kwaliteit van de processen rondom de afname en de beoordeling van examens te waarborgen.     
+4.  Om tot het inburgeringsexamen te worden toegelaten is de kandidaat verplicht in te stemmen met de in bijlage 18 opgenomen geheimhoudingsverklaring ten aanzien van de inhoud van het examen.   
 
 ### §  5  
 
@@ -275,9 +280,13 @@ e. de procedure voor de afhandeling van klachten.
 
 ####Kwaliteitscentrum examinering inburgering
 
+Vervallen per 01-01-2013   
+
 ### §  7  
 
 ####De uitvoering van het toezicht op exameninstellingen
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  4  
 
@@ -289,7 +298,7 @@ e. de procedure voor de afhandeling van klachten.
 
 ### Artikel  4.1  
 
-1.  Van het bedrag van de lening, bedoeld in [artikel 4.1a, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) wordt twee maal de vastgestelde draagkracht, als vastgesteld op grond van artikel 4.9, tweede tot en met vijfde lid, afgetrokken.   
+1.  Van het bedrag van de lening, bedoeld in artikel 4.1a, eerste lid, van het besluit wordt twee maal de vastgestelde draagkracht, als vastgesteld op grond van artikel 4.9, tweede tot en met vijfde lid, afgetrokken.   
 2.  Indien het bedrag van de lening minder dan €180’ bedraagt, wordt dit op nul gesteld.   
 
 ### Artikel  4.2  
@@ -300,7 +309,7 @@ a. de door hem te volgen of gevolgde inburgeringscursus en het door hem af te le
 
 b. de door hem te volgen of gevolgde cursus die opleidt tot het staatsexamen Nederlands als tweede taal en het door hem af te leggen of afgelegde examen, of  
 
-c. de door hem te volgen of gevolgde alfabetiseringscursus, indien hij op grond van [artikel 4.1a, derde lid, onderdeel a of b, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) in aanmerking komt voor een lening ten behoeve van het volgen van een alfabetiseringscursus.     
+c. de door hem te volgen of gevolgde alfabetiseringscursus, indien hij op grond van artikel 4.1a, derde lid, onderdeel a of b, van het besluit in aanmerking komt voor een lening ten behoeve van het volgen van een alfabetiseringscursus.     
 2.  De factuur vermeldt in ieder geval: 
 
 a. het burgerservicenummer van de kandidaat;  
@@ -315,7 +324,7 @@ e. de datum, en
 
 f. de specificatie van het factuurbedrag.     
 3.  De betaling van de factuur, bedoeld in het eerste lid, geschiedt binnen vier weken na ontvangst door de minister van die factuur.   
-4.  De eerste betaling vindt plaats binnen een jaar na de beschikking, bedoeld in [artikel 4.4 van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), waarbij het recht op de lening is vastgesteld. Indien binnen deze periode geen betaling heeft plaatsgevonden, vervalt de beschikking.   
+4.  De eerste betaling vindt plaats binnen een jaar na de beschikking, bedoeld in artikel 4.4 van het besluit, waarbij het recht op de lening is vastgesteld. Indien binnen deze periode geen betaling heeft plaatsgevonden, vervalt de beschikking.   
 5.  De minister betaalt per kwartaal de bedragen van de lening aan de hand van de facturen met een maximum van € 1.250,–. Indien het bedrag van de facturen, bedoeld in het eerste lid, hoger is dan € 1.250,– wordt de inburgeringsplichtige verzocht nieuwe facturen te overleggen van nog verschuldigde bedragen voor gevolgde cursussen of voor examens als bedoeld in het eerste lid.   
 
 ### §  2  
@@ -324,7 +333,7 @@ f. de specificatie van het factuurbedrag.
 
 ### Artikel  4.3  
 
-Het rentepercentage, genoemd in [artikel 4.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), bedraagt voor het jaar 2013: 0,60 procent.  
+Het rentepercentage, genoemd in artikel 4.5, eerste lid, van het besluit, bedraagt voor het jaar 2013: 0,60 procent.  
 
 ### Artikel  4.4  
 
@@ -333,8 +342,8 @@ Het rentepercentage, genoemd in [artikel 4.5, eerste lid, van het besluit](../..
 
 ### Artikel  4.5  
 
-1.  Gedurende de aanloopfase, bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), en de eerste vijf jaren van de de terugbetalingsperiode, bedoeld in [artikel 4.6, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), wordt hetzelfde rentepercentage gehanteerd, vastgesteld overeenkomstig [artikel 4.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md). Het bij aanvang van de aanloopfase geldende rentepercentage wordt gehanteerd.   
-2.  Voor de resterende terugbetalingsperiode na het verstrijken van de in het eerste lid genoemde termijn wordt het rentepercentage opnieuw vastgesteld overeenkomstig [artikel 4.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md).   
+1.  Gedurende de aanloopfase, bedoeld in artikel 17, eerste lid, van de wet, en de eerste vijf jaren van de de terugbetalingsperiode, bedoeld in artikel 4.6, eerste lid, van het besluit, wordt hetzelfde rentepercentage gehanteerd, vastgesteld overeenkomstig artikel 4.5, eerste lid, van het besluit. Het bij aanvang van de aanloopfase geldende rentepercentage wordt gehanteerd.   
+2.  Voor de resterende terugbetalingsperiode na het verstrijken van de in het eerste lid genoemde termijn wordt het rentepercentage opnieuw vastgesteld overeenkomstig artikel 4.5, eerste lid, van het besluit.   
 
 ### Artikel  4.6  
 
@@ -343,7 +352,7 @@ Het rentepercentage, genoemd in [artikel 4.5, eerste lid, van het besluit](../..
 
 ### Artikel  4.7  
 
-1.  In afwijking van [artikel 4.7, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) vervallen de rente en aflossing van de lening van een debiteur, die niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), gedurende de aflosfase in jaarlijkse termijnen. Artikel 4.4 is in dat geval van overeenkomstige toepassing. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is. Op aanvraag van de in de eerste volzin bedoelde debiteur kan de minister besluiten dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.   
+1.  In afwijking van artikel 4.7, eerste lid, van het besluit vervallen de rente en aflossing van de lening van een debiteur, die niet binnenlands belastingplichtig is in de zin van de Wet inkomstenbelasting 2001, gedurende de aflosfase in jaarlijkse termijnen. Artikel 4.4 is in dat geval van overeenkomstige toepassing. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is. Op aanvraag van de in de eerste volzin bedoelde debiteur kan de minister besluiten dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.   
 2.  De hoogte van de jaarlijkse dan wel de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, wordt berekend overeenkomstig artikel 4.6, tenzij de debiteur, bedoeld in het eerste lid, bij de minister een aanvraag indient tot vaststelling van zijn draagkracht voor de resterende aflosfase. In dat geval levert hij aan de minister de door de minister gevraagde gegevens.   
 3.  De betaling van de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, geschiedt door middel van: 
 
@@ -353,17 +362,17 @@ b. een door de minister aan de debiteur gezonden acceptgirokaart.
 
 ### Artikel  4.7a  
 
-De inburgeringsplichtige kan in afwijking van [artikel 4.7, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) de lening in een keer terugbetalen. De terugbetaling omvat het bedrag van de opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig artikel 4.4.  
+De inburgeringsplichtige kan in afwijking van artikel 4.7, eerste lid, van het besluit de lening in een keer terugbetalen. De terugbetaling omvat het bedrag van de opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig artikel 4.4.  
 
 ### Artikel  4.9  
 
-1.  De draagkracht die wordt vastgesteld overeenkomstig dit artikel, gaat in op de eerste dag van de maand volgend op de maand waarin de aanvraag, bedoeld in [artikel 4.9 van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), is ingediend.   
+1.  De draagkracht die wordt vastgesteld overeenkomstig dit artikel, gaat in op de eerste dag van de maand volgend op de maand waarin de aanvraag, bedoeld in artikel 4.9 van het besluit, is ingediend.   
 2.  Maatstaf voor de vaststelling van de draagkracht de debiteur is het totaal van het toetsingsinkomen van de debiteur en zijn partner in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld. Het aldus bepaalde inkomen is het draagkrachtinkomen.   
 3.  Op het draagkrachtinkomen wordt in mindering gebracht de draagkrachtvrije voet. Deze voet is gelijk aan: 
 
 a. 120% van het belastbaar minimumloon voor een debiteur met partner, of  
 
-b. 120% van het belastbaar minimumloon voor een debiteur op wie de alleenstaande ouderkorting, bedoeld in [artikel 8.9 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van toepassing is, of  
+b. 120% van het belastbaar minimumloon voor een debiteur op wie de alleenstaande ouderkorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing is, of  
 
 c. 84% van het belastbaar minimumloon voor overige debiteuren zonder partner.     
 4.  De draagkracht de debiteur is 12% van het inkomen boven de draagkrachtvrije voet.   
@@ -381,11 +390,11 @@ b. over het jaar waarvoor de draagkracht wordt vastgesteld, in welk geval wordt 
 
 ### Artikel  4.11  
 
-Indien de partner van de debiteur ook een debiteur is die een beschikking tot terugbetaling als bedoeld in [artikel 4.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) heeft ontvangen, wordt: 
+Indien de partner van de debiteur ook een debiteur is die een beschikking tot terugbetaling als bedoeld in artikel 4.8, eerste lid, van het besluit heeft ontvangen, wordt: 
 
 a. artikel 4.9, tweede en vierde lid, slechts eenmaal toegepast op het totaal van het toetsingsinkomen, en  
 
-b. bij toepassing van [artikel 4.10 van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) de te betalen maandelijkse termijn per debiteur vastgesteld op basis van de verhouding tussen de hoogte van het toetsingsinkomen van beide debiteuren afzonderlijk.    
+b. bij toepassing van artikel 4.10 van het besluit de te betalen maandelijkse termijn per debiteur vastgesteld op basis van de verhouding tussen de hoogte van het toetsingsinkomen van beide debiteuren afzonderlijk.    
 
 ### Artikel  4.12  
 
@@ -401,24 +410,30 @@ b. het deel dat zes maanden of langer achterstallig is, minimaal € 15 bedraag
 
 ### Artikel  4.17  
 
-1.  De minister kan de achterstallige termijnen alsmede het resterende verschuldigde bedrag van de debiteur die direct voorafgaande aan de beëindiging van de inburgeringsplicht houder is geweest van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), op verzoek geheel kwijtschelden, indien: 
+1.  De minister kan de achterstallige termijnen alsmede het resterende verschuldigde bedrag van de debiteur die direct voorafgaande aan de beëindiging van de inburgeringsplicht houder is geweest van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000, op verzoek geheel kwijtschelden, indien: 
 
-a. uit de gegevens in de gemeentelijke basisadministratie persoonsgegevens blijkt dat de debiteur geen verblijfsrecht meer heeft, en  
+a. uit de gegevens in de basisregistratie personen blijkt dat de debiteur geen verblijfsrecht meer heeft, en  
 
-b. de Immigratie- en Naturalisatiedienst kan bevestigen dat de debiteur niet langer inburgeringsplichtig is omdat de verblijfsvergunning, bedoeld in [artikel 29 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is ingetrokken aangezien de grond voor verlening daarvan is komen te vervallen.     
-2.  Als tijdstip van indiening van het verzoek wordt aangemerkt het moment dat de minister op grond van de gegevens in de gemeentelijke basisadministratie persoonsgegevens heeft geconstateerd dat er geen sprake meer is van een verblijfsrecht.   
+b. de Immigratie- en Naturalisatiedienst kan bevestigen dat de debiteur niet langer inburgeringsplichtig is omdat de verblijfsvergunning, bedoeld in artikel 29 van de Vreemdelingenwet 2000, is ingetrokken aangezien de grond voor verlening daarvan is komen te vervallen.     
+2.  Als tijdstip van indiening van het verzoek wordt aangemerkt het moment dat de minister op grond van de gegevens in de basisregistratie personen heeft geconstateerd dat er geen sprake meer is van een verblijfsrecht.   
 
 ### §  3  
 
 ####Vergoeding
 
+Vervallen per 01-01-2013   
+
 ### §  4  
 
 ####Gemeentelijk aanbod aan geestelijke bedienaren
 
+Vervallen per 01-01-2013   
+
 ### Hoofdstuk  5  
 
 ####Handhaving
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  6  
 
@@ -426,21 +441,21 @@ b. de Immigratie- en Naturalisatiedienst kan bevestigen dat de debiteur niet lan
 
 ### Artikel  6.1  
 
-De bijzondere persoonsgegevens, bedoeld in [artikel 50, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) zijn gegevens waaruit blijkt dat een inburgeringsplichtige: 
+De bijzondere persoonsgegevens, bedoeld in artikel 50, eerste lid, van de wet zijn gegevens waaruit blijkt dat een inburgeringsplichtige: 
 
 a. een geestelijke bedienaar is;  
 
-b. is ontheven van de inburgeringsplicht op grond van [artikel 6, eerste lid, onderdeel a of b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+b. is ontheven van de inburgeringsplicht op grond van artikel 6, eerste lid, onderdeel a of b, van de wet;  
 
-c. een bestuurlijke boete als bedoeld in [artikel 31](../../../../wet/wet/inburgering/BWBR0020611/README.md) of [33 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) is opgelegd;  
+c. een bestuurlijke boete als bedoeld in artikel 31 of 33 van de wet is opgelegd;  
 
 d. het inburgeringsexamen dan wel een deel daarvan slechts kan afleggen op een wijze die is aangepast aan zijn mogelijkheden.    
 
 ### Artikel  6.2  
 
-1.  De verwerking van bijzondere persoonsgegevens, bedoeld in artikel 6.1, onderdeel a, is in ieder geval noodzakelijk voor de beoordeling van de inburgeringsplicht van een geestelijke bedienaar overeenkomstig [artikel 3, eerste lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
-2.  De verwerking van bijzondere persoonsgegevens als bedoeld in artikel 6.1, onderdeel b, is in ieder geval noodzakelijk voor de beoordeling van de inburgeringsplicht overeenkomstig [artikel 3 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
-3.  De verwerking van bijzondere persoonsgegevens als bedoeld in artikel 6.1, onderdeel c, is in ieder geval noodzakelijk voor de beoordeling of een inburgeringsplichtige gehandeld heeft in strijd met de [artikelen 7](../../../../wet/wet/inburgering/BWBR0020611/README.md) of [32 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
+1.  De verwerking van bijzondere persoonsgegevens, bedoeld in artikel 6.1, onderdeel a, is in ieder geval noodzakelijk voor de beoordeling van de inburgeringsplicht van een geestelijke bedienaar overeenkomstig artikel 3, eerste lid, onderdeel b, van de wet.   
+2.  De verwerking van bijzondere persoonsgegevens als bedoeld in artikel 6.1, onderdeel b, is in ieder geval noodzakelijk voor de beoordeling van de inburgeringsplicht overeenkomstig artikel 3 van de wet.   
+3.  De verwerking van bijzondere persoonsgegevens als bedoeld in artikel 6.1, onderdeel c, is in ieder geval noodzakelijk voor de beoordeling of een inburgeringsplichtige gehandeld heeft in strijd met de artikelen 7 of 32 van de wet.   
 4.  De verwerking van bijzondere persoonsgegevens als bedoeld in artikel 6.1, onderdeel d, is in ieder geval noodzakelijk om de kandidaat met een psychische of lichamelijk belemmering, dan wel een verstandelijke handicap, op diens verzoek in de gelegenheid te stellen het inburgeringsexamen dan wel een deel daarvan af te leggen op een wijze die is aangepast aan zijn mogelijkheden.   
 5.  De bijzondere persoonsgegevens worden ten behoeve van de in het eerste lid bedoelde doeleinden verstrekt aan het Informatiesysteem Inburgering.   
 
@@ -459,7 +474,7 @@ De onverenigbare verwerking van bijzondere persoonsgegevens door de minister wor
 
 a. de toegang tot de gegevens in het Informatiesysteem Inburgering is voorbehouden aan die personen, die voor het uitoefenen van hun taak, bedoeld in artikel 6.2, toegang tot de informatie moeten hebben;  
 
-b. de minister, stelt een functionaris voor de gegevensbescherming aan, die toeziet op de naleving van de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+b. de minister, stelt een functionaris voor de gegevensbescherming aan, die toeziet op de naleving van de Wet bescherming persoonsgegevens;  
 
 c. de minister, verricht integriteits- en kwaliteitsaudits ten aanzien van de verwerking van de persoonsgegevens en rapporteert deze aan de functionaris voor de gegevensbescherming.    
 
@@ -467,9 +482,11 @@ c. de minister, verricht integriteits- en kwaliteitsaudits ten aanzien van de ve
 
 ####Financiële Bepalingen
 
+Vervallen per 01-01-2009   
+
 ### Hoofdstuk  8  
 
-####Wijziging [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md)
+####Wijziging Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005
 
 ### Artikel  8.1  
 
@@ -485,7 +502,7 @@ In afwijking van artikel 5.1, wordt een in dat artikel genoemde vaststelling ged
 
 ### Artikel  9.4  
 
-Het aanbieden van inburgeringsprogramma’s, bedoeld in [artikel 65 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), geschiedt overeenkomstig de [Regeling inburgering oudkomers G25 2006](../../../../ministeriele-regeling/regeling/inburgering/oudkomers/g25/2006/BWBR0019119/README.md), de [Regeling inburgering oudkomers G30 2006](../../../../ministeriele-regeling/regeling/inburgering/oudkomers/g30/2006/BWBR0019824/README.md) en de [Regeling inburgering oudkomers niet-G56 2006](../../../../ministeriele-regeling/regeling/inburgering/oudkomers/niet-g56/2006/BWBR0019120/README.md).  
+Het aanbieden van inburgeringsprogramma’s, bedoeld in artikel 65 van de wet, geschiedt overeenkomstig de Regeling inburgering oudkomers G25 2006, de Regeling inburgering oudkomers G30 2006 en de Regeling inburgering oudkomers niet-G56 2006.  
 
 ### Artikel  9.5  
 
@@ -539,7 +556,7 @@ m. verblijf als familie- of gezinslid bij een persoon die voor een tijdelijk doe
 
 n. medische behandeling;  
 
-o. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+o. het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap;  
 
 p. tijdelijke humanitaire gronden;  
 
@@ -547,7 +564,7 @@ q. het doorbrengen van verlof in Nederland;
 
 r. het afwachten van herstel en hervatting van de arbeid in loondienst aan boord van een Nederlands zeeschip of op een mijnbouwinstallatie op het continentaal plat;  
 
-s. verblijfsrecht op grond van [artikel 3.4, derde lid, van het Vreemdelingenbesluit](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), Indien bij de verlening van een verblijfsvergunning is bepaald dat het verblijfsrecht tijdelijk van aard is.   
+s. verblijfsrecht op grond van artikel 3.4, derde lid, van het Vreemdelingenbesluit, Indien bij de verlening van een verblijfsvergunning is bepaald dat het verblijfsrecht tijdelijk van aard is.   
 
 ### Bijlage  2  
 
@@ -564,7 +581,7 @@ Ligt ter inzage bij het Ministerie van Justitie.
 INHOUDSOPGAVE 
 
 | Voorwoord  |
-|:---|
+|---|
 | --- |
 | 1.  | Algemeen  |
 | --- |
@@ -593,7 +610,7 @@ INHOUDSOPGAVE
 
 ####Voorwoord
 
-Vanaf 1 januari 2013 is de wijziging van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige van kracht geworden. Een belangrijke wijziging voor het Protocol medische advisering is de verschuiving van de uitvoering van de inburgering, waar onder het nemen van beslissingen over medische ontheffingen, van gemeenten naar de Dienst Uitvoering Onderwijs (hierna: DUO). Het onderhavige Protocol is onder andere hierop aangepast. Het aldus gewijzigde protocol geldt voor de medische advisering ten behoeve van vreemdelingen die na 31 december 2012 inburgeringsplichtig zijn geworden. Het gewijzigde protocol geldt niet voor vreemdelingen die voor die datum inburgeringsplichtig zijn geworden. Voor hen geldt het overgangsrecht en voor hen is de gemeente nog het uitvoerend orgaan. Op grond van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (voor een verblijfsvergunning onder de beperking voortgezet verblijf regulier of verblijfsvergunning voor onbepaalde tijd regulier of asiel) of de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) (voor naturalisatie) moeten vreemdelingen, tenzij zij hiervan zijn vrijgesteld, voldoen aan het inburgeringvereiste . Iemand voldoet hieraan als hij geslaagd is voor het inburgeringsexamen, staatsexamen NT2 (programma I of II) of voor een ander vrijstellend examen genoemd in de desbetreffende regelgeving. Betrokkene kan een ontheffing van dit vereiste aanvragen bij DUO of bij de Immigratie- en Naturalisatiedienst (hierna: IND) door aan te tonen dat hij door een psychische of lichamelijke belemmering dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen (zijnde het minimumniveau om te voldoen aan het inburgeringsvereiste) te behalen. Over de vraag of de belemmering of handicap dusdanig is dat betrokkene het inburgeringsexamen niet kan behalen, wordt een advies uitgebracht door een door de Minister aangewezen onafhankelijk medisch adviseur zijnde een onafhankelijk arts die is ingeschreven in het BIG-register van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md). <sup> 1  In de genoemde wetten wordt, afhankelijk van de desbetreffende wet, de ene keer de term ‘inburgeringsplicht’ gebruikt en de andere keer de term ‘inburgeringsvereiste’. Materieel gezien komen de beide termen op hetzelfde neer. In dit protocol wordt de term ‘inburgeringsvereiste’ gebruikt.  </sup> Voor een dergelijk medisch advies zijn er kaders en uitgangspunten geformuleerd voor de medisch adviseur, DUO en de IND en neergelegd in dit protocol. Het protocol is oorspronkelijk tot stand gekomen in samenwerking met de VNG (Vereniging Nederlandse Gemeenten) en de VIA (Vereniging Indicerende en Adviserende Artsen) en in 2012 aangepast door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties naar aanleiding van de wijziging van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige. Het bestuur van de VIA heeft ook haar medewerking verleend aan de totstandkoming van het aangepaste protocol. Het protocol is een bijlage bij de ministeriële regeling inburgering .  
+Vanaf 1 januari 2013 is de wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige van kracht geworden. Een belangrijke wijziging voor het Protocol medische advisering is de verschuiving van de uitvoering van de inburgering, waar onder het nemen van beslissingen over medische ontheffingen, van gemeenten naar de Dienst Uitvoering Onderwijs (hierna: DUO). Het onderhavige Protocol is onder andere hierop aangepast. Het aldus gewijzigde protocol geldt voor de medische advisering ten behoeve van vreemdelingen die na 31 december 2012 inburgeringsplichtig zijn geworden. Het gewijzigde protocol geldt niet voor vreemdelingen die voor die datum inburgeringsplichtig zijn geworden. Voor hen geldt het overgangsrecht en voor hen is de gemeente nog het uitvoerend orgaan. Op grond van de Wet inburgering, de Vreemdelingenwet 2000 (voor een verblijfsvergunning onder de beperking voortgezet verblijf regulier of verblijfsvergunning voor onbepaalde tijd regulier of asiel) of de Rijkswet op het Nederlanderschap (voor naturalisatie) moeten vreemdelingen, tenzij zij hiervan zijn vrijgesteld, voldoen aan het inburgeringvereiste . Iemand voldoet hieraan als hij geslaagd is voor het inburgeringsexamen, staatsexamen NT2 (programma I of II) of voor een ander vrijstellend examen genoemd in de desbetreffende regelgeving. Betrokkene kan een ontheffing van dit vereiste aanvragen bij DUO of bij de Immigratie- en Naturalisatiedienst (hierna: IND) door aan te tonen dat hij door een psychische of lichamelijke belemmering dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen (zijnde het minimumniveau om te voldoen aan het inburgeringsvereiste) te behalen. Over de vraag of de belemmering of handicap dusdanig is dat betrokkene het inburgeringsexamen niet kan behalen, wordt een advies uitgebracht door een door de Minister aangewezen onafhankelijk medisch adviseur zijnde een onafhankelijk arts die is ingeschreven in het BIG-register van de Wet op de beroepen in de individuele gezondheidszorg. <sup> 1  In de genoemde wetten wordt, afhankelijk van de desbetreffende wet, de ene keer de term ‘inburgeringsplicht’ gebruikt en de andere keer de term ‘inburgeringsvereiste’. Materieel gezien komen de beide termen op hetzelfde neer. In dit protocol wordt de term ‘inburgeringsvereiste’ gebruikt.  </sup> Voor een dergelijk medisch advies zijn er kaders en uitgangspunten geformuleerd voor de medisch adviseur, DUO en de IND en neergelegd in dit protocol. Het protocol is oorspronkelijk tot stand gekomen in samenwerking met de VNG (Vereniging Nederlandse Gemeenten) en de VIA (Vereniging Indicerende en Adviserende Artsen) en in 2012 aangepast door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties naar aanleiding van de wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige. Het bestuur van de VIA heeft ook haar medewerking verleend aan de totstandkoming van het aangepaste protocol. Het protocol is een bijlage bij de ministeriële regeling inburgering .  
 
 ### 1  
 
@@ -603,7 +620,7 @@ Vanaf 1 januari 2013 is de wijziging van de [Wet inburgering](../../../../wet/we
 
 ####Inleiding
 
-In dit protocol wordt de procedure rond de medische advisering in het kader van het inburgeringsexamen nader uitgewerkt. Op grond van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (voor een verblijfsvergunning onder de beperking voortgezet verblijf of verblijfsvergunning voor onbepaalde tijd) of de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) (voor naturalisatie) moeten vreemdelingen, tenzij zij hiervan zijn vrijgesteld, voldoen aan het inburgeringsvereiste. Iemand voldoet aan deze plicht als hij geslaagd is voor het inburgeringsexamen, staatsexamen NT2 (programma I of II) of voor een ander vrijstellend examen genoemd in de regelgeving. Hoewel er in de wet- en regelgeving dus uitgegaan wordt van verschillende mogelijkheden om aan het inburgeringsvereiste te voldoen, wordt bij de ontheffing uitgegaan van het inburgeringsexamen. Dit, omdat het inburgeringsexamen het minimuminburgeringsvereiste is. Een ontheffing van het inburgeringsvereiste kan op aanvraag van betrokkene, afhankelijk van op grond van welke wetgeving de aanvraag wordt gedaan, door DUO (namens de Minister voor Immigratie, Integratie en Asiel) of door de IND (namens de Minister voor Immigratie, Integratie en Asiel) worden verleend, als betrokkene aantoont blijvend niet in staat te zijn het inburgeringsexamen te behalen door een: 
+In dit protocol wordt de procedure rond de medische advisering in het kader van het inburgeringsexamen nader uitgewerkt. Op grond van de Wet inburgering, de Vreemdelingenwet 2000 (voor een verblijfsvergunning onder de beperking voortgezet verblijf of verblijfsvergunning voor onbepaalde tijd) of de Rijkswet op het Nederlanderschap (voor naturalisatie) moeten vreemdelingen, tenzij zij hiervan zijn vrijgesteld, voldoen aan het inburgeringsvereiste. Iemand voldoet aan deze plicht als hij geslaagd is voor het inburgeringsexamen, staatsexamen NT2 (programma I of II) of voor een ander vrijstellend examen genoemd in de regelgeving. Hoewel er in de wet- en regelgeving dus uitgegaan wordt van verschillende mogelijkheden om aan het inburgeringsvereiste te voldoen, wordt bij de ontheffing uitgegaan van het inburgeringsexamen. Dit, omdat het inburgeringsexamen het minimuminburgeringsvereiste is. Een ontheffing van het inburgeringsvereiste kan op aanvraag van betrokkene, afhankelijk van op grond van welke wetgeving de aanvraag wordt gedaan, door DUO (namens de Minister voor Immigratie, Integratie en Asiel) of door de IND (namens de Minister voor Immigratie, Integratie en Asiel) worden verleend, als betrokkene aantoont blijvend niet in staat te zijn het inburgeringsexamen te behalen door een: 
 
 – psychische belemmering, of  
 
@@ -612,11 +629,11 @@ In dit protocol wordt de procedure rond de medische advisering in het kader van 
 – verstandelijke handicap.   In onderstaande tabel staat vermeld in welke situatie welke wet van toepassing is, welke eisen de wet stelt wat betreft inburgering en tot wie betrokkene zich moet wenden om medische ontheffing aan te vragen.  Tabel 1 inburgeringsplicht/vereiste en medische ontheffing 
 
 | situatie  | wet  | welke eisen stelt de wet wat betreft inburgering?  | bij wie medische ontheffing aanvragen?  |
-|:---|:---|:---|:---|
-| Nieuwkomer in Nederland, niet in het bezit van de nationaliteit van een van de EU-lidstaten of Turkije, met een niet tijdelijk verblijfsdoel  of  Geestelijke bedienaren niet in het bezit van de nationaliteit van een van de EU-lidstaten of Turkije  |  [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md)   | Moet voldoen aan de inburgeringsplicht: d.w.z. het inburgeringsexamen, Staatsexamen NT2 of een ander in die wet- en regelgeving genoemd vrijstellend examen behalen  | DUO  |
-| Bij aanvraag van een verblijfsvergunning onder de beperking voortgezet verblijf regulier of een verblijfsvergunning voor onbepaalde tijd regulier  |  [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)   | Moet voldoen aan het inburgeringsvereiste: d.w.z. het inburgeringsexamen, Staatsexamen NT2 of een ander in die wet- en regelgeving genoemd vrijstellend examen behalen  | IND voor zover de persoon niet al in het kader van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) medische ontheffing heeft gekregen  |
-| en asiel  | --- | --- | Voor zover de persoon inburgeringsplichtig is in het kader van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en hij in dat kader al medische ontheffing heeft gekregen van DUO, is deze ontheffing ook in dit kader geldig.  |
-| Bij een aanvraag tot naturalisatie  |  [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)   | Moet voldoen aan het inburgeringsvereiste: d.w.z. het inburgeringsexamen, Staatsexamen NT2 of een ander in die wet- en regelgeving genoemd vrijstellend examen behalen  | Als onderdeel van naturalisatieverzoek bij IND  |
+|---|---|---|---|
+| Nieuwkomer in Nederland, niet in het bezit van de nationaliteit van een van de EU-lidstaten of Turkije, met een niet tijdelijk verblijfsdoel  of  Geestelijke bedienaren niet in het bezit van de nationaliteit van een van de EU-lidstaten of Turkije  |  Wet inburgering   | Moet voldoen aan de inburgeringsplicht: d.w.z. het inburgeringsexamen, Staatsexamen NT2 of een ander in die wet- en regelgeving genoemd vrijstellend examen behalen  | DUO  |
+| Bij aanvraag van een verblijfsvergunning onder de beperking voortgezet verblijf regulier of een verblijfsvergunning voor onbepaalde tijd regulier  |  Vreemdelingenwet 2000   | Moet voldoen aan het inburgeringsvereiste: d.w.z. het inburgeringsexamen, Staatsexamen NT2 of een ander in die wet- en regelgeving genoemd vrijstellend examen behalen  | IND voor zover de persoon niet al in het kader van de Wet inburgering medische ontheffing heeft gekregen  |
+| en asiel  | --- | --- | Voor zover de persoon inburgeringsplichtig is in het kader van de Wet inburgering en hij in dat kader al medische ontheffing heeft gekregen van DUO, is deze ontheffing ook in dit kader geldig.  |
+| Bij een aanvraag tot naturalisatie  |  Rijkswet op het Nederlanderschap   | Moet voldoen aan het inburgeringsvereiste: d.w.z. het inburgeringsexamen, Staatsexamen NT2 of een ander in die wet- en regelgeving genoemd vrijstellend examen behalen  | Als onderdeel van naturalisatieverzoek bij IND  |
 
 De minister wijst de medische adviseurs aan. DUO contracteert de medische adviseurs. Voor zover de IND beslist over de medische ontheffing maakt zij gebruik van de adviezen van de door DUO gecontracteerde medische adviseurs. De geraadpleegde medisch adviseur zal omtrent de toestand van betrokkene een advies opmaken, waarbij de medisch adviseur een relatie legt tussen de medische stoornissen en beperkingen, de belemmering ten aanzien van het inburgeringsexamen en het uiteindelijke medische advies over het wel of niet kunnen behalen van het inburgeringsexamen. De kosten voor dit medisch advies komen voor rekening van de betrokkene. Is het voor betrokkene mogelijk om het examen wel aangepast af te leggen, dan zal de medisch adviseur in zijn advies aangeven onder welke bijzondere examenomstandigheden het examen door betrokkene gemaakt kan worden. In de beoordeling van het wel of niet kunnen behalen van het inburgeringsexamen neemt de medisch adviseur ook (in algemene termen) het kunnen afleggen van het voorbereidingstraject in zijn overwegingen mee. Is het niet mogelijk om het voorbereidingstraject zonder aanpassingen te volgen of zijn er voor het voorbereidingstraject meer dan slechts lichte aanpassingen nodig, dan zal de medisch adviseur dit in zijn advies aangeven. In het protocol wordt dus steeds waar er wordt gesproken over het inburgeringsexamen ook het voorbereidingstraject bedoeld.  
 
@@ -638,23 +655,23 @@ Het protocol beoogt uniformiteit te bevorderen in de beoordeling door de medisch
 
 Verschillende groepen personen hebben een inburgeringsplicht of moeten voldoen aan het inburgeringsvereiste. Dit geldt voor: 
 
-A. Een vreemdeling die in het kader van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) inburgeringsplichtig is;  
+A. Een vreemdeling die in het kader van de Wet inburgering inburgeringsplichtig is;  
 
-B. De aanvrager van een verblijfsvergunning regulier onder de beperking voortgezet verblijf of een verblijfsvergunning voor onbepaalde tijd regulier of asiel in het kader van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+B. De aanvrager van een verblijfsvergunning regulier onder de beperking voortgezet verblijf of een verblijfsvergunning voor onbepaalde tijd regulier of asiel in het kader van de Vreemdelingenwet 2000;  
 
-C. Een vreemdeling die wil naturaliseren in het kader van de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).   Voor betrokkenen uit deze groepen is het mogelijk om te worden ontheven van deze verplichting/dit vereiste door aan te tonen dat hij door een psychische of lichamelijke belemmering dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen te behalen. Hieronder wordt voor de verschillende groepen het wettelijk kader aangegeven. 
+C. Een vreemdeling die wil naturaliseren in het kader van de Rijkswet op het Nederlanderschap.   Voor betrokkenen uit deze groepen is het mogelijk om te worden ontheven van deze verplichting/dit vereiste door aan te tonen dat hij door een psychische of lichamelijke belemmering dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen te behalen. Hieronder wordt voor de verschillende groepen het wettelijk kader aangegeven. 
 
 ### Ad  A  
 
-#### [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) 
+#### Wet inburgering 
 
-Het protocol Medische advisering inburgeringsexamen is een verdere uitwerking van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en het [Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md). [Artikel 6, 1 <sup>e</sup> lid onder a van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) luidt: 
+Het protocol Medische advisering inburgeringsexamen is een verdere uitwerking van de Wet inburgering en het Besluit inburgering. Artikel 6, 1 <sup>e</sup> lid onder a van de Wet inburgering luidt: 
 
 1. Onze Minister ontheft de inburgeringsplichtige van de inburgeringsplicht, indien: 
 
-a. de inburgeringsplichtige heeft aangetoond door een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap, blijvend niet in staat te zijn het inburgeringsexamen te behalen;     In [artikel 2.8 van het Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) is [artikel 6 van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) uitgewerkt: 
+a. de inburgeringsplichtige heeft aangetoond door een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap, blijvend niet in staat te zijn het inburgeringsexamen te behalen;     In artikel 2.8 van het Besluit inburgering is artikel 6 van de Wet inburgering uitgewerkt: 
 
-1. Bij de aanvraag tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in [artikel 6, eerste lid onder a , van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), legt de inburgeringsplichtige een advies over van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het betreffende register, bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).  
+1. Bij de aanvraag tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in artikel 6, eerste lid onder a , van de wet, legt de inburgeringsplichtige een advies over van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het betreffende register, bedoeld in artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg.  
 
 2. Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.  
 
@@ -666,33 +683,33 @@ a. de inburgeringsplichtige heeft aangetoond door een psychische of lichamelijke
 
 ### Artikel  2.4  
 
-1. Het advies, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), bevat in ieder geval een oordeel met betrekking tot het verlenen dan wel het weigeren van de ontheffing van de inburgeringsplicht en, indien van toepassing, noodzakelijke bijzondere examenomstandigheden als bedoeld in artikel 3.2.  
+1. Het advies, bedoeld in artikel 2.8, eerste lid, van het besluit, bevat in ieder geval een oordeel met betrekking tot het verlenen dan wel het weigeren van de ontheffing van de inburgeringsplicht en, indien van toepassing, noodzakelijke bijzondere examenomstandigheden als bedoeld in artikel 3.2.  
 
-2. De arts, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), adviseert tot ontheffing van de inburgeringsplicht, indien de inburgeringsplichtige: 
+2. De arts, bedoeld in artikel 2.8, eerste lid, van het besluit, adviseert tot ontheffing van de inburgeringsplicht, indien de inburgeringsplichtige: 
 
-a. op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in [artikel 6, eerste lid van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) niet in staat is zich voor te bereiden op het inburgeringsexamen , of  
+a. op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in artikel 6, eerste lid van de wet niet in staat is zich voor te bereiden op het inburgeringsexamen , of  
 
 b. bijzondere examenomstandigheden nodig heeft om het inburgeringsexamen te kunnen behalen en de bijzondere examenomstandigheden, bedoeld in artikel 3.2, hiertoe niet toereikend zijn.    
 
-3. De arts, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), stelt het advies op conform het protocol dat is opgenomen in bijlage 2 bij deze regeling.    
+3. De arts, bedoeld in artikel 2.8, eerste lid, van het besluit, stelt het advies op conform het protocol dat is opgenomen in bijlage 2 bij deze regeling.    
 
 ### Ad  B  
 
-#### [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) 
+#### Vreemdelingenwet 2000 
 
-Het vreemdelingenrecht voorziet in een koppeling met de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) om de naleving van het inburgeringsvereiste te versterken. Op grond hiervan is het voldoen aan het inburgeringsvereiste als voorwaarde gesteld voor de verlening van een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf en voor verlening van een verblijfsvergunning regulier of asiel voor onbepaalde tijd. <sup> 2  Bij de zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf gaat het voornamelijk om de (huwelijks)partner van een persoon die voor een niet-tijdelijk doel in Nederland verblijft. Aan deze (huwelijks)partner kan na drie jaar verblijf in Nederland een zelfstandige verblijfsvergunning worden verleend onder de beperking verband houdend met voortgezet verblijf.   De verblijfsvergunning asiel voor onbepaalde tijd kan worden verleend aan de asielgerechtigde persoon die vijf jaar rechtmatig verblijf in Nederland heeft gehad op grond van een verblijfsvergunning asiel voor bepaalde tijd.   De verblijfsvergunning regulier voor onbepaalde tijd kan worden verleend aan de persoon die vijf jaar rechtmatig verblijf in Nederland heeft gehad en in het bezit is van een niet-tijdelijke verblijfsvergunning. Voor de overige voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor de genoemde verblijfsvergunningen wordt verwezen naar de Vreemdelingenwet 2000.  </sup> Vanaf 1 januari 2013 geldt tevens dat het niet voldoen aan het inburgeringsvereistekan leiden tot intrekking van de reguliere verblijfsvergunning voor bepaalde tijd. De groep vreemdelingen die wordt geconfronteerd met dit vereiste is veelal al inburgeringsplichtig in het kader van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), er zijn echter uitzonderingen. De medische ontheffing is verder uitgewerkt in de volgende artikelen: 
+Het vreemdelingenrecht voorziet in een koppeling met de Wet inburgering om de naleving van het inburgeringsvereiste te versterken. Op grond hiervan is het voldoen aan het inburgeringsvereiste als voorwaarde gesteld voor de verlening van een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf en voor verlening van een verblijfsvergunning regulier of asiel voor onbepaalde tijd. <sup> 2  Bij de zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf gaat het voornamelijk om de (huwelijks)partner van een persoon die voor een niet-tijdelijk doel in Nederland verblijft. Aan deze (huwelijks)partner kan na drie jaar verblijf in Nederland een zelfstandige verblijfsvergunning worden verleend onder de beperking verband houdend met voortgezet verblijf.   De verblijfsvergunning asiel voor onbepaalde tijd kan worden verleend aan de asielgerechtigde persoon die vijf jaar rechtmatig verblijf in Nederland heeft gehad op grond van een verblijfsvergunning asiel voor bepaalde tijd.   De verblijfsvergunning regulier voor onbepaalde tijd kan worden verleend aan de persoon die vijf jaar rechtmatig verblijf in Nederland heeft gehad en in het bezit is van een niet-tijdelijke verblijfsvergunning. Voor de overige voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor de genoemde verblijfsvergunningen wordt verwezen naar de Vreemdelingenwet 2000.  </sup> Vanaf 1 januari 2013 geldt tevens dat het niet voldoen aan het inburgeringsvereistekan leiden tot intrekking van de reguliere verblijfsvergunning voor bepaalde tijd. De groep vreemdelingen die wordt geconfronteerd met dit vereiste is veelal al inburgeringsplichtig in het kader van de Wet inburgering, er zijn echter uitzonderingen. De medische ontheffing is verder uitgewerkt in de volgende artikelen: 
 
-– [artikel 3.80a, tweede lid, aanhef en onder d, juncto derde lid,Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+– artikel 3.80a, tweede lid, aanhef en onder d, juncto derde lid,Vreemdelingenbesluit 2000;  
 
-– [artikel 3.96a, tweede lid , aanhef en onder d, juncto derde lid,Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+– artikel 3.96a, tweede lid , aanhef en onder d, juncto derde lid,Vreemdelingenbesluit 2000;  
 
-– [artikel 3.107a, tweede lid, aanhef en onder d, juncto derde lid, Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).   In deze onderdelen is de situatie geregeld dat de vreemdeling wegens een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen te behalen. Inburgeringsplichtige vreemdelingen worden op deze grond door DUO van het inburgeringsvereiste ontheven ([artikel 6, eerste lid, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md)), nadat een onafhankelijke arts terzake een medisch advies heeft uitgebracht (zie in dit verband [artikel 2.8 van het Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md)). Deze beslissing van DUO heeft voor deze (gewezen) inburgeringsplichtige op grond van de onderdelen d en aanheffen van het tweede lid van de [artikelen 3.80a](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.96a](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.107a van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) dus ook tot gevolg dat het inburgeringsvereiste niet wordt gesteld in het kader van de aanvraag voor een verblijfsvergunning voortgezet verblijf of onbepaalde tijd. De verleende ontheffing zal blijken uit een afschrift van de beschikking waarbij DUO de ontheffing heeft verleend, dat de vreemdeling bij de aanvraag zal moeten overleggen. In dit verband wordt er nog op het derde lid van de genoemde artikelen van het [Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) gewezen. Betreft het een volgens de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) niet-inburgeringsplichtige vreemdeling die wegens een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen te behalen, dan wordt de ontheffing niet verleend door DUO maar door de IND die bij de beoordeling eveneens gebruik maakt van het medische advies van de onafhankelijke arts (artikel 2.8 van het Besluit inburgering).  
+– artikel 3.107a, tweede lid, aanhef en onder d, juncto derde lid, Vreemdelingenbesluit 2000.   In deze onderdelen is de situatie geregeld dat de vreemdeling wegens een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen te behalen. Inburgeringsplichtige vreemdelingen worden op deze grond door DUO van het inburgeringsvereiste ontheven (artikel 6, eerste lid, van de Wet inburgering), nadat een onafhankelijke arts terzake een medisch advies heeft uitgebracht (zie in dit verband artikel 2.8 van het Besluit inburgering). Deze beslissing van DUO heeft voor deze (gewezen) inburgeringsplichtige op grond van de onderdelen d en aanheffen van het tweede lid van de artikelen 3.80a, 3.96a, 3.107a van het Vreemdelingenbesluit 2000 dus ook tot gevolg dat het inburgeringsvereiste niet wordt gesteld in het kader van de aanvraag voor een verblijfsvergunning voortgezet verblijf of onbepaalde tijd. De verleende ontheffing zal blijken uit een afschrift van de beschikking waarbij DUO de ontheffing heeft verleend, dat de vreemdeling bij de aanvraag zal moeten overleggen. In dit verband wordt er nog op het derde lid van de genoemde artikelen van het Vreemdelingenbesluit 2000 gewezen. Betreft het een volgens de Wet inburgering niet-inburgeringsplichtige vreemdeling die wegens een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap blijvend niet in staat is het inburgeringsexamen te behalen, dan wordt de ontheffing niet verleend door DUO maar door de IND die bij de beoordeling eveneens gebruik maakt van het medische advies van de onafhankelijke arts (artikel 2.8 van het Besluit inburgering).  
 
 ### Ad  C  
 
-#### [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) 
+#### Rijkswet op het Nederlanderschap 
 
-Voor de verlening van het Nederlanderschap komt slechts in aanmerking de verzoeker die in de Nederlandse samenleving als ingeburgerd kan worden beschouwd op grond van het feit dat hij beschikt over een bij algemene maatregel van rijksbestuur te bepalen mate van kennis van de Nederlandse taal, alsmede van de Nederlandse staatsinrichting en maatschappij en hij zich ook overigens in de Nederlandse samenleving heeft doen opnemen. De vreemdeling die wil naturaliseren moet aan het inburgeringsvereiste voldoen. De verzoeker hoeft de naturalisatietoets niet af te leggen indien hij heeft aangetoond door een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap, blijvend niet in staat te zijn het inburgeringsexamen te behalen. De verzoeker moet hiertoe een medisch advies overleggen van een door DUO aangewezen onafhankelijke arts. Hiermee zal zijn gewaarborgd dat dezelfde kring van artsen die adviseert over medische ontheffingen in het kader van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), ook over medische belemmeringen bij het afleggen van het inburgeringsexamen in het kader van de naturalisatieprocedure adviseert.  
+Voor de verlening van het Nederlanderschap komt slechts in aanmerking de verzoeker die in de Nederlandse samenleving als ingeburgerd kan worden beschouwd op grond van het feit dat hij beschikt over een bij algemene maatregel van rijksbestuur te bepalen mate van kennis van de Nederlandse taal, alsmede van de Nederlandse staatsinrichting en maatschappij en hij zich ook overigens in de Nederlandse samenleving heeft doen opnemen. De vreemdeling die wil naturaliseren moet aan het inburgeringsvereiste voldoen. De verzoeker hoeft de naturalisatietoets niet af te leggen indien hij heeft aangetoond door een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap, blijvend niet in staat te zijn het inburgeringsexamen te behalen. De verzoeker moet hiertoe een medisch advies overleggen van een door DUO aangewezen onafhankelijke arts. Hiermee zal zijn gewaarborgd dat dezelfde kring van artsen die adviseert over medische ontheffingen in het kader van de Wet inburgering, ook over medische belemmeringen bij het afleggen van het inburgeringsexamen in het kader van de naturalisatieprocedure adviseert.  
 
 ### 1.4  
 
@@ -700,10 +717,10 @@ Voor de verlening van het Nederlanderschap komt slechts in aanmerking de verzoek
 
 ### *In het kader van de Wet inburgering* 
 
-De inburgeringsplichtige is zelf verantwoordelijk voor het op tijd voldoen aan het inburgeringsvereiste (i.e. het behalen van het inburgeringsexamen of één van de andere genoemde examens). De inburgeringsplichtige kan (conform [artikel 6 Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md)) door DUO worden ontheven van het inburgeringsvereiste op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap die zodanig is dat de inburgeringsplichtige het examen blijvend niet zal kunnen behalen. DUO zal over deze aanvraag een besluit nemen op basis van een medisch advies over betrokkene. Dit medisch advies wordt opgesteld door de medisch adviseur die daartoe door DUO is gecontracteerd. De medisch adviseur dient een onafhankelijk arts te zijn – derhalve niet zijnde een behandelend arts van betrokkene – die is ingeschreven in het BIG-register van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md). De medisch adviseur dient op de hoogte te zijn van de relevante wet- en regelgeving ten aanzien van het inburgeringsexamen (waarvan het medisch protocol deel uit maakt) en van de mogelijke examenomstandigheden. Daarnaast kan DUO extra eisen stellen aan de medisch adviseur, zoals bijvoorbeeld ten aanzien van scholing. DUO en de medisch adviseur kunnen werkafspraken maken over onder andere de wijze van betaling van het medisch advies (voor rekening van betrokkene), informatieverschaffing aan betrokkene en de verdere gang van zaken. Op het moment dat een inburgeringsplichtige zich meldt bij DUO of de IND met het verzoek om ontheffing, zal deze de betrokkene verwijzen naar deze medisch adviseur. De medisch adviseur stelt vervolgens vast of er een psychische of lichamelijke belemmering dan wel verstandelijke handicap is waardoor de betrokkene het examen binnen een termijn van vijf jaar al dan niet kan behalen. Tevens kan de medisch adviseur vaststellen dat het examen wel kan worden behaald, zij het met een aanpassing van de examenomstandigheden, de zogenaamde bijzondere examenomstandigheden of met lichte aanpassingen in het voorbereidingstraject. De inburgeringsplichtige zal vervolgens het medisch advies bij zijn aanvraag tot ontheffing moeten voegen, waarna DUO conform [artikel 2.8, tweede lid Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) binnen acht weken na ontvangst van de aanvraag een beschikking geeft. DUO heeft een vergewisplicht (conform art. 3:9 Algemene wet bestuursrecht), maar treedt niet in de inhoudelijke beoordeling van het (medisch) advies. De vergewisplicht houdt in dat DUO naast het controleren van de formulieren op het juist en volledig invullen hiervan, zich er van moet vergewissen dat het onderzoek op zorgvuldige wijze heeft plaatsgevonden. 
+De inburgeringsplichtige is zelf verantwoordelijk voor het op tijd voldoen aan het inburgeringsvereiste (i.e. het behalen van het inburgeringsexamen of één van de andere genoemde examens). De inburgeringsplichtige kan (conform artikel 6 Wet inburgering) door DUO worden ontheven van het inburgeringsvereiste op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap die zodanig is dat de inburgeringsplichtige het examen blijvend niet zal kunnen behalen. DUO zal over deze aanvraag een besluit nemen op basis van een medisch advies over betrokkene. Dit medisch advies wordt opgesteld door de medisch adviseur die daartoe door DUO is gecontracteerd. De medisch adviseur dient een onafhankelijk arts te zijn – derhalve niet zijnde een behandelend arts van betrokkene – die is ingeschreven in het BIG-register van de Wet op de beroepen in de individuele gezondheidszorg. De medisch adviseur dient op de hoogte te zijn van de relevante wet- en regelgeving ten aanzien van het inburgeringsexamen (waarvan het medisch protocol deel uit maakt) en van de mogelijke examenomstandigheden. Daarnaast kan DUO extra eisen stellen aan de medisch adviseur, zoals bijvoorbeeld ten aanzien van scholing. DUO en de medisch adviseur kunnen werkafspraken maken over onder andere de wijze van betaling van het medisch advies (voor rekening van betrokkene), informatieverschaffing aan betrokkene en de verdere gang van zaken. Op het moment dat een inburgeringsplichtige zich meldt bij DUO of de IND met het verzoek om ontheffing, zal deze de betrokkene verwijzen naar deze medisch adviseur. De medisch adviseur stelt vervolgens vast of er een psychische of lichamelijke belemmering dan wel verstandelijke handicap is waardoor de betrokkene het examen binnen een termijn van vijf jaar al dan niet kan behalen. Tevens kan de medisch adviseur vaststellen dat het examen wel kan worden behaald, zij het met een aanpassing van de examenomstandigheden, de zogenaamde bijzondere examenomstandigheden of met lichte aanpassingen in het voorbereidingstraject. De inburgeringsplichtige zal vervolgens het medisch advies bij zijn aanvraag tot ontheffing moeten voegen, waarna DUO conform artikel 2.8, tweede lid Besluit inburgering binnen acht weken na ontvangst van de aanvraag een beschikking geeft. DUO heeft een vergewisplicht (conform art. 3:9 Algemene wet bestuursrecht), maar treedt niet in de inhoudelijke beoordeling van het (medisch) advies. De vergewisplicht houdt in dat DUO naast het controleren van de formulieren op het juist en volledig invullen hiervan, zich er van moet vergewissen dat het onderzoek op zorgvuldige wijze heeft plaatsgevonden. 
 ### *In het kader van de Vreemdelingenwet 2000 en de Rijkswet op het Nederlanderschap* 
 
-De uitwerking en toepassing van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) gebeurt door de IND namens de Minister voor Immigratie, Integratie en Asiel, resp. de Minister van Binnenlandse Zaken en Koninkrijksrelaties De desbetreffende Minister beslist formeel op de aanvraag voor een verblijfsvergunning en het verzoek om naturalisatie. Betrokkene kan door DUO of de IND op basis van een medisch advies worden ontheven van het inburgeringsvereiste op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap die zodanig is dat de betrokkene het inburgeringsexamen blijvend niet zal kunnen behalen. Degene die een ontheffing van het inburgeringsexamen wil, kan voor een medisch advies naar de medisch adviseur waarmee DUO afspraken heeft gemaakt. DUO en de IND verstrekken betrokkene hier desgewenst informatie over. Betrokkene richt zich voor een medisch advies rechtstreeks tot de medisch adviseur. De medisch adviseur zal vervolgens een advies opstellen over de medische toestand van betrokkene in het kader van het wel of niet kunnen behalen van het inburgeringsexamen binnen een termijn van vijf jaar. Het advies wordt rechtstreeks aan betrokkene gezonden. Betrokkene zal dit advies voegen bij de aanvraag tot een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf, een verblijfsvergunning voor onbepaalde tijd asiel of regulier of bij het verzoek om naturalisatie. Het advies mag op de dag van indiening van het naturalisatieverzoek niet ouder zijn dan zes maanden. Betrokkene kan, indien hij reeds door DUO is ontheven, een afschrift van de betreffende beschikking tezamen met zijn verzoek voor een verblijfsvergunning of voor naturalisatie overleggen aan de IND. Deze beslissing van DUO geldt tevens als ontheffing van het inburgeringsvereiste in het kader van een aanvraag voor een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf,een verblijfsvergunning voor onbepaalde tijd en in het kader van een naturalisatieverzoek. In beide situaties mag de beschikking niet ouder zijn dan drie jaar op de dag van indiening van de aanvraag voor een van de genoemde verblijfsvergunningen respectievelijk het naturalisatieverzoek. De IND heeft net als DUO een vergewisplicht (conform art. 3:10 Algemene wet bestuursrecht), maar treedt niet in de inhoudelijke beoordeling van het (medisch) advies. 
+De uitwerking en toepassing van de Vreemdelingenwet 2000 en de Rijkswet op het Nederlanderschap gebeurt door de IND namens de Minister voor Immigratie, Integratie en Asiel, resp. de Minister van Binnenlandse Zaken en Koninkrijksrelaties De desbetreffende Minister beslist formeel op de aanvraag voor een verblijfsvergunning en het verzoek om naturalisatie. Betrokkene kan door DUO of de IND op basis van een medisch advies worden ontheven van het inburgeringsvereiste op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap die zodanig is dat de betrokkene het inburgeringsexamen blijvend niet zal kunnen behalen. Degene die een ontheffing van het inburgeringsexamen wil, kan voor een medisch advies naar de medisch adviseur waarmee DUO afspraken heeft gemaakt. DUO en de IND verstrekken betrokkene hier desgewenst informatie over. Betrokkene richt zich voor een medisch advies rechtstreeks tot de medisch adviseur. De medisch adviseur zal vervolgens een advies opstellen over de medische toestand van betrokkene in het kader van het wel of niet kunnen behalen van het inburgeringsexamen binnen een termijn van vijf jaar. Het advies wordt rechtstreeks aan betrokkene gezonden. Betrokkene zal dit advies voegen bij de aanvraag tot een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf, een verblijfsvergunning voor onbepaalde tijd asiel of regulier of bij het verzoek om naturalisatie. Het advies mag op de dag van indiening van het naturalisatieverzoek niet ouder zijn dan zes maanden. Betrokkene kan, indien hij reeds door DUO is ontheven, een afschrift van de betreffende beschikking tezamen met zijn verzoek voor een verblijfsvergunning of voor naturalisatie overleggen aan de IND. Deze beslissing van DUO geldt tevens als ontheffing van het inburgeringsvereiste in het kader van een aanvraag voor een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf,een verblijfsvergunning voor onbepaalde tijd en in het kader van een naturalisatieverzoek. In beide situaties mag de beschikking niet ouder zijn dan drie jaar op de dag van indiening van de aanvraag voor een van de genoemde verblijfsvergunningen respectievelijk het naturalisatieverzoek. De IND heeft net als DUO een vergewisplicht (conform art. 3:10 Algemene wet bestuursrecht), maar treedt niet in de inhoudelijke beoordeling van het (medisch) advies. 
 ### *Verificatie medisch advies door DUO of IND* 
 
 Het medisch advies wordt door de medisch adviseur aan betrokkene gezonden. Betrokkene zal vervolgens het medisch advies overleggen aan DUO of aan de IND. Mocht er bij DUO of de IND twijfel bestaan over de authenticiteit van het advies dan kan er contact gezocht worden met de medisch adviseur. DUO of de IND zal het advies waarover twijfel bestaat aan de medisch adviseur toesturen, waarna de medisch adviseur de authenticiteit kan vaststellen. De medisch adviseur bewaart de gegeven adviezen tenminste tien jaar. 
@@ -715,7 +732,7 @@ Een verkorte procedure kan volstaan indien aan de hand van medische stukken of b
 
 ####Aanvraagperiode en invulling begrip ‘blijvend’
 
-Aangezien ontheffing op grond van een wezenlijke belemmering of handicap gedurende de gehele periode waarin het inburgeringsvereiste op grond van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) bestaat relevant is en ook op ieder moment tijdens de periode kan ontstaan, worden geen regels gesteld over de termijn waarbinnen een ontheffingsverzoek moet worden ingediend. De aanvraag kan dus aan het begin, tijdens of aan het einde van de termijn waar binnen aan het inburgeringsvereiste moet zijn voldaan worden ingediend. De medisch adviseur adviseert over de vraag of betrokkene blijvend niet in staat is het inburgeringsexamen te behalen. Op grond van [artikel 2.8, vierde lid, van het Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) is sprake van het blijvend niet in staat zijn het inburgeringsexamen te behalen, indien in redelijkheid verwacht mag worden dat de aard en de ernst van de belemmering of verstandelijke handicap zodanig zijn dat het behalen van het inburgeringsexamen binnen vijf jaar niet mogelijk is. Deze termijn van vijf jaar wordt gerekend vanaf het moment van de aanvraag van het advies. Indien te verwachten is dat de betrokkene wegens een psychische of lichamelijke belemmering dan wel verstandelijke handicap niet binnen vijf jaar het examen kan behalen, dan wordt er vanuit gegaan dat er reden tot ontheffing bestaat.  
+Aangezien ontheffing op grond van een wezenlijke belemmering of handicap gedurende de gehele periode waarin het inburgeringsvereiste op grond van de Wet inburgering bestaat relevant is en ook op ieder moment tijdens de periode kan ontstaan, worden geen regels gesteld over de termijn waarbinnen een ontheffingsverzoek moet worden ingediend. De aanvraag kan dus aan het begin, tijdens of aan het einde van de termijn waar binnen aan het inburgeringsvereiste moet zijn voldaan worden ingediend. De medisch adviseur adviseert over de vraag of betrokkene blijvend niet in staat is het inburgeringsexamen te behalen. Op grond van artikel 2.8, vierde lid, van het Besluit inburgering is sprake van het blijvend niet in staat zijn het inburgeringsexamen te behalen, indien in redelijkheid verwacht mag worden dat de aard en de ernst van de belemmering of verstandelijke handicap zodanig zijn dat het behalen van het inburgeringsexamen binnen vijf jaar niet mogelijk is. Deze termijn van vijf jaar wordt gerekend vanaf het moment van de aanvraag van het advies. Indien te verwachten is dat de betrokkene wegens een psychische of lichamelijke belemmering dan wel verstandelijke handicap niet binnen vijf jaar het examen kan behalen, dan wordt er vanuit gegaan dat er reden tot ontheffing bestaat.  
 
 ### 1.6  
 
@@ -723,7 +740,7 @@ Aangezien ontheffing op grond van een wezenlijke belemmering of handicap geduren
 
 ### *Beschikking ontheffing i.h.k.v. de Wet inburgering* 
 
-Tegen een negatieve beschikking van DUO kan de inburgeringsplichtige binnen zes weken in bezwaar gaan. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking geïnformeerd. DUO kan conform [artikel 7:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een adviescommissie ten behoeve van de beslissing op het bezwaar instellen Deze commissie gaat na of DUO op zorgvuldige wijze en in redelijkheid en billijkheid tot de beslissing is gekomen. De commissie oordeelt hierbij niet inhoudelijk over het medisch advies dat aan de beschikking ten grondslag ligt. De medisch adviseur kan wel gevraagd worden om een nadere toelichting bij het medisch advies te geven door bijvoorbeeld aan te geven hoe het protocol is toegepast. Een overweging hiertoe kan zijn dat vanuit de behandelende sector verklaringen worden overlegd waardoor twijfel ontstaat of DUO de juiste beslissing heeft kunnen nemen. Daarnaast kan sprake zijn van een inmiddels gewijzigde medische situatie waarop de medisch adviseur kan reageren. De commissie brengt een advies uit aan DUO, waarna DUO het uiteindelijke besluit neemt. Inburgeringsplichtige kan bezwaar maken tegen het besluit. De afdeling Bezwaar en beroep van DUO draagt zorg voor de afhandeling van het bezwaar. Bij een negatieve beslissing op bezwaar kan de inburgeringsplichtige in beroep bij de sector Bestuursrecht van de rechtbank. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking op bezwaar geïnformeerd. 
+Tegen een negatieve beschikking van DUO kan de inburgeringsplichtige binnen zes weken in bezwaar gaan. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking geïnformeerd. DUO kan conform artikel 7:13 van de Algemene wet bestuursrecht een adviescommissie ten behoeve van de beslissing op het bezwaar instellen Deze commissie gaat na of DUO op zorgvuldige wijze en in redelijkheid en billijkheid tot de beslissing is gekomen. De commissie oordeelt hierbij niet inhoudelijk over het medisch advies dat aan de beschikking ten grondslag ligt. De medisch adviseur kan wel gevraagd worden om een nadere toelichting bij het medisch advies te geven door bijvoorbeeld aan te geven hoe het protocol is toegepast. Een overweging hiertoe kan zijn dat vanuit de behandelende sector verklaringen worden overlegd waardoor twijfel ontstaat of DUO de juiste beslissing heeft kunnen nemen. Daarnaast kan sprake zijn van een inmiddels gewijzigde medische situatie waarop de medisch adviseur kan reageren. De commissie brengt een advies uit aan DUO, waarna DUO het uiteindelijke besluit neemt. Inburgeringsplichtige kan bezwaar maken tegen het besluit. De afdeling Bezwaar en beroep van DUO draagt zorg voor de afhandeling van het bezwaar. Bij een negatieve beslissing op bezwaar kan de inburgeringsplichtige in beroep bij de sector Bestuursrecht van de rechtbank. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking op bezwaar geïnformeerd. 
 ### *Beschikking ontheffing i.h.k.v. verblijfsvergunning of naturalisatie* 
 
 Bij de aanvraag om één van de genoemde verblijfsvergunningen of een naturalisatieverzoek is de situatie anders. Daar is het medisch advies een onderdeel van het verzoek tot een verblijfsvergunning of het naturalisatieverzoek. De beschikking gaat over de aanvraag tot het verlenen van de verblijfsvergunning of het naturalisatieverzoek. De verzoeker kan bij de IND in bezwaar tegen de afwijzing van zijn verzoek, waarbij er argumenten tegen onderdelen, bijvoorbeeld geen ontheffing van het inburgeringsvereiste, van de beschikking kunnen worden gegeven.  
@@ -879,7 +896,7 @@ i. Typen in plaats van schrijven;   Bij het examenonderdeel Schrijven kan de kan
 j. Voorleesfunctie;   In dit geval krijgt de kandidaat de geschreven teksten op het beeldscherm voorgelezen middels een koptelefoon. Dit geldt alleen voor de examenonderdelen KNS, Lezen en Luisteren Een en ander is vervat in het volgende overzicht:  
 
 |--- | KNS  | Lezen  | Luisteren  | Schrijven  | TGN  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | a. aangepaste  | --- | --- | --- | --- | --- |
 | locatie   | mogelijk  | mogelijk  | mogelijk  | mogelijk  | mogelijk  |
 | b. verlenging  | --- | --- | --- | --- | --- |
@@ -901,7 +918,7 @@ j. Voorleesfunctie;   In dit geval krijgt de kandidaat de geschreven teksten op 
 
 ####Begrippen- en afkortingenlijst
 
-*Betrokkene:* Degene die het inburgeringsexamen moet afleggen in het kader van de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).  
+*Betrokkene:* Degene die het inburgeringsexamen moet afleggen in het kader van de Wet inburgering, de Vreemdelingenwet 2000 of de Rijkswet op het Nederlanderschap.  
 
 *Inburgeringsexamen:* Examen waarmee aan het minimum inburgeringsvereiste kan worden voldaan. In het examen worden zowel de Nederlandse taalvaardigheid (spreken, lezen, luisteren, schrijven) op taalniveau A2 van het Europees Referentiekader voor Moderne Vreemde Talen getoetst, als kennis van de Nederlandse samenleving.Het examen wordt afgenomen door DUO.  
 
@@ -921,16 +938,16 @@ j. Voorleesfunctie;   In dit geval krijgt de kandidaat de geschreven teksten op 
 
 *TGN* Examenonderdeel Toets Gesproken Nederlands. Toetst spreek- en luistervaardigheid.  
 
-*WI* [Wet Inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md)     
+*WI* Wet Inburgering     
 
 ####BIJLAGE 2
 
-![251507](http://wetten.overheid.nl/Illustration/251507)
-![251507](http://wetten.overheid.nl/Illustration/251507)
+![]()
+![]()
 
 ####BIJLAGE 3
 
-![251508](http://wetten.overheid.nl/Illustration/251508)
+![]()
 
 ### Bijlage  5  
 
@@ -944,10 +961,10 @@ Ligt ter inzage bij het Ministerie van Justitie.
 
 ####Inburgeringsdiploma
 
-(voor- en achternaam) geboren (*geboortedatum) te (geboorteplaats, geboorteland),* heeft met goed gevolg het inburgeringsexamen afgelegd. Het inburgeringsexamen, zoals bedoeld in [artikel 7, tweede lid, aanhef en onderdeel a van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), is behaald op niveau A2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen. Het inburgeringsexamen omvat de volgende examenonderdelen: Leesvaardigheid Luistervaardigheid Schrijfvaardigheid Spreekvaardigheid (Toets Gesproken Nederlands) Kennis Nederlandse Samenleving  
+(voor- en achternaam) geboren (*geboortedatum) te (geboorteplaats, geboorteland),* heeft met goed gevolg het inburgeringsexamen afgelegd. Het inburgeringsexamen, zoals bedoeld in artikel 7, tweede lid, aanhef en onderdeel a van de Wet inburgering, is behaald op niveau A2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen. Het inburgeringsexamen omvat de volgende examenonderdelen: Leesvaardigheid Luistervaardigheid Schrijfvaardigheid Spreekvaardigheid (Toets Gesproken Nederlands) Kennis Nederlandse Samenleving  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 | Plaats  | --- | Datum  |
 | Groningen  | --- |  *(datum diplomagerechtigd)*   |
@@ -967,5 +984,27 @@ Ligt ter inzage bij het Ministerie van Justitie.
 
 ####behorende bij artikel 3.8, vierde lid , van de Regeling inburgering
 
-![248450](http://wetten.overheid.nl/Illustration/248450)
+![]()
+
+### Bijlage  18  
+
+####behorende bij artikel 3.10, vierde lid , van de Regeling inburgering
+
+####Geheimhoudingsverklaring Inburgeringsexamen DUO
+
+####Verklaring met betrekking tot de geheimhoudingsplicht
+
+*Ondergetekende,*   
+
+| --- | --- |
+|---|---|
+| --- | --- |
+| Naam:  | .....  |
+| --- | --- |
+| Geboortedatum:  | .....  |
+| --- | --- |
+
+– verklaart dat krachtens deze geheimhoudingsplicht het aan hem/haar verboden is om op enigerlei wijze, direct of indirect, in welke vorm dan ook, enige mededeling te doen over de inhoud van de inburgeringsexamens.   Bij overtreding van deze geheimhoudingsverklaring houdt de minister van SZW zich het recht voor om over te gaan tot het treffen van maatregelen. 
+
+– verklaart tevens op de hoogte te zijn dat het auteursrecht van het inburgeringsexamen is voorbehouden aan de Staat (Ministerie van SZW).   Plaats: Datum: Handtekening:  
 

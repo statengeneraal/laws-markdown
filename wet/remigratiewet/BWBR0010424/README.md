@@ -32,20 +32,99 @@ g. partner: de meeremigrerende echtgenoot van de remigrant, de meeremigrerende g
 
 h. kind: het meeremigrerende minderjarige eigen kind, stiefkind of pleegkind van de remigrant of zijn partner;  
 
-i. Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
+i. Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen.     
 2.  In deze wet en de daarop berustende bepalingen wordt onder partner mede verstaan de bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende echtgenoot of geregistreerde partner, voorzover dit uitdrukkelijk van toepassing is verklaard.   
 3.  In deze wet en de daarop berustende bepalingen wordt onder kind mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind van de remigrant of zijn partner, voorzover dit uitdrukkelijk van toepassing is verklaard.   
-4.  In afwijking van het eerste lid, onder c, wordt, indien het een vreemdeling betreft die in Nederland rechtmatig verblijf heeft op grond van [artikel 8, onder c en d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder remigreren mede verstaan het zich in elk ander land buiten Nederland vestigen.   
+4.  In afwijking van het eerste lid, onder c, wordt, indien het een vreemdeling betreft die in Nederland rechtmatig verblijf heeft op grond van artikel 8, onder c en d, van de Vreemdelingenwet 2000, onder remigreren mede verstaan het zich in elk ander land buiten Nederland vestigen.   
+
+### Artikel  1a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Doelgroep van deze wet zijn: 
+
+a. personen die geboren zijn in en in het bezit zijn of geweest zijn van de nationaliteit van een lidstaat van de Europese Unie waarmee Nederland een bilateraal wervingsverdrag heeft gesloten, en zich voor de datum van de toetreding van dat land tot de Europese Unie in Nederland hebben gevestigd;  
+
+b. personen die geboren zijn in en in het bezit zijn of geweest zijn van de nationaliteit van een land waarmee Nederland een wervingsovereenkomst heeft gesloten en dat geen lidstaat van de Europese Unie is, en zich voor het tijdstip van inwerkingtreding van dit artikel in Nederland hebben gevestigd;  
+
+c. personen met de Nederlandse of Surinaamse nationaliteit die in Suriname geboren zijn, en zich voor het tijdstip van inwerkingtreding van dit artikel in Nederland hebben gevestigd;  
+
+d. personen die voorkomen in het register, bedoeld in artikel 1, onder b, van de Wet Rietkerk-uitkering, en  
+
+e. vreemdelingen die voor het tijdstip van inwerkingtreding van dit artikel een vergunning tot rechtmatig verblijf in Nederland op grond van artikel 8, onder c of d, van de Vreemdelingenwet 2000 hebben ontvangen en personen die zich voor dat tijdstip, in het kader van gezinshereniging met een vreemdeling die in Nederland rechtmatig verblijf heeft op grond van artikel 8, onder c of d, van de Vreemdelingenwet 2000 in Nederland hebben gevestigd.    
 
 ### Artikel  2  
 
 1.  Deze wet is van toepassing op: 
 
-a. een meerderjarige vreemdeling als bedoeld in [artikel 1, onder e, van de Rijkswet op het Nederlanderschap](../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), die behoort tot een minderheidsgroep, en  
+a. een meerderjarige vreemdeling als bedoeld in artikel 1, onder e, van de Rijkswet op het Nederlanderschap, die behoort tot een minderheidsgroep, en  
 
 b. een meerderjarige Nederlander, die niet tevens een andere nationaliteit bezit, die behoort tot een minderheidsgroep en die verklaart bereid te zijn al hetgeen te doen wat in redelijkheid mogelijk is, om de nationaliteit van het bestemmingsland met bekwame spoed te verkrijgen.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verklaring, bedoeld in het eerste lid, onderdeel b.   
 3.  Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
+
+### Artikel  2a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  De verklaring, bedoeld in artikel 2, onderdeel b, wordt voor de vertrekdatum schriftelijk ingediend bij de Sociale verzekeringsbank.   
+2.  De remigrant, bedoeld in artikel 2, onderdeel b, dient zo spoedig mogelijk bij de autoriteiten van het bestemmingsland een verzoek in ter verkrijging van de nationaliteit van dat land en zendt de schriftelijke bewijsstukken van dat verzoek onverwijld aan de Sociale verzekeringsbank.   
+3.  De remigrant, bedoeld in artikel 2, onderdeel b, informeert de Sociale verzekeringsbank eenmaal per jaar over de voortgang van de behandeling van zijn verzoek ter verkrijging van de nationaliteit van het bestemmingsland, tenzij de Sociale verzekeringsbank anders bepaalt.   
+4.  De remigrant, bedoeld in artikel 2, onderdeel b, die de nationaliteit van het bestemmingsland heeft verkregen, zendt bewijsstukken daarvan onverwijld aan de Sociale verzekeringsbank.   
+5.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het bepaalde in het eerste en derde lid.   
+
+### Artikel  2b   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Om voor de remigratievoorzieningen in aanmerking te komen dient de remigrant: 
+
+a. voor 1 januari 2025 een aanvraag in te dienen bij de Sociale verzekeringsbank;  
+
+b. te behoren tot de doelgroep, bedoeld in artikel 1a;  
+
+c. ten minste 55 jaar oud te zijn op het tijdstip van de aanvraag;  
+
+d. zijn schulden aan het Rijk te hebben voldaan dan wel ten behoeve van zijn schulden aan het Rijk een afbetalingsregeling te hebben getroffen;  
+
+e. niet rechtens zijn vrijheid ontnomen te zijn op het tijdstip van de aanvraag;  
+
+f. zich niet te onttrekken aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel op het tijdstip van de aanvraag;  
+
+g. een schriftelijk bewijs aan de Sociale verzekeringsbank over te leggen, afgegeven door de autoriteiten van het bestemmingsland, dat hij en, voor zover van toepassing, zijn partner en hun kinderen zullen worden toegelaten, indien naar een ander land wordt geremigreerd dan het land waarvan de remigrant de nationaliteit bezit;  
+
+h. indien hij Nederlander is, onmiddellijk voorafgaande aan de aanvraag ten minste acht jaren in Nederland te hebben verbleven dan wel, indien hij vreemdeling is, onmiddellijk voorafgaande aan de aanvraag gedurende ten minste acht jaren ononderbroken rechtmatig verblijf in Nederland te hebben gehad als bedoeld in artikel 8, onder a tot en met e dan wel l, van de Vreemdelingenwet 2000 en voor het besluit tot toekenning van de remigratievoorzieningen rechtmatig verblijf in Nederland te hebben gehad als bedoeld in artikel 8, onder a, b, d, e, dan wel l, van de Vreemdelingenwet 2000, anders dan voor een verblijf voor een tijdelijk doel;  
+
+i. over een periode van ten minste één jaar, onmiddellijk voorafgaande aan het tijdstip van de aanvraag, een rechtmatige uitkering of inkomensvoorziening te hebben ontvangen op grond van: 
+
+1°. de Algemene Ouderdomswet;  
+
+2°. de Werkloosheidswet;  
+
+3°. de Wet arbeidsongeschiktheidsvoorziening militairen;  
+
+4°. de Wet inkomensvoorziening oudere en gedeeltelijke arbeidsongeschikte gewezen zelfstandigen;  
+
+5°. de Wet inkomensvoorziening oudere werklozen;  
+
+6°. De Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
+
+7°. de Wet op de arbeidsongeschiktheidsverzekering;  
+
+8°. de Wet werk en arbeidsondersteuning jonggehandicapten;  
+
+9°. de Wet werk en bijstand, of  
+
+10°. de Wet werk en inkomen naar arbeidsvermogen   dan wel over een periode van ten minste één jaar, onmiddellijk voorafgaande aan het tijdstip van de aanvraag van de remigratievoorzieningen te hebben ontvangen: 
+
+1°. een wachtgeld in de zin van het Rijkswachtgeldbesluit 1959;  
+
+2°. een soortgelijke uitkering aan een overheidswerknemer op grond van ontslag of werkloosheid, of  
+
+3°. een wachtgeld of daarmee gelijkgestelde uitkering ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen, met uitzondering van een uitkering in verband met functioneel leeftijdsontslag of vrijwillig vervroegd uittreden.       
+2.  Een remigrant die samen met zijn partner remigreert, komt slechts in aanmerking voor de remigratievoorzieningen, indien ook zijn partner voldoet aan de voorwaarden, bedoeld in het eerste lid, onder d, e en f.   
+3.  Indien de partner van wie de remigrant niet duurzaam gescheiden leeft, eveneens in Nederland verblijf houdt, worden de remigratievoorzieningen slechts verstrekt indien de remigrant en zijn partner gezamenlijk remigreren.   
+4.  Indien de remigrant en zijn partner het voornemen hebben met hun pleegkinderen te remigreren, dient de remigrant een schriftelijk bewijs van toestemming tot de voorgenomen remigratie van die pleegkinderen aan de Sociale verzekeringsbank te hebben overgelegd, afkomstig van degene die het ouderlijk gezag of de voogdij uitoefent over de pleegkinderen.   
+5.  Onder verblijf voor een tijdelijk doel als bedoeld in het eerste lid, onderdeel h, wordt het verblijf verstaan van de vreemdeling die behoort tot een bij ministeriële regeling aan te wijzen categorie van vreemdelingen.   
+6.  Onder een uitkering op basis van de Wet werk en bijstand als bedoeld in het eerste lid, onderdeel i, wordt niet verstaan bijstand in de vorm van een geldlening als bedoeld in artikel, 48, tweede lid, van die wet.   
+7.  Indien de aanvrager met een onderbreking van ten hoogste één maand achtereenvolgens verschillende rechtmatige uitkeringen of inkomensvoorzieningen heeft ontvangen op basis van de in het eerste lid onderdeel i, genoemde wetten, is de periode, bedoeld in dat onderdeel, de som van de perioden dat hij ononderbroken uitkeringsgerechtigd was op grond van die wetten.   
 
 ### Hoofdstuk  II  
 
@@ -76,8 +155,8 @@ b. in overeenstemming met deze verklaring al hetgeen te doen wat in redelijkheid
 ### Artikel  4  
 
 1.  Aan een remigrant die op de datum van aanvraag ten minste 45 jaar oud is en die niet over voldoende middelen beschikt om zelfstandig te kunnen remigreren, wordt onder bij of krachtens algemene maatregel van bestuur te stellen voorwaarden een periodieke uitkering verstrekt ter voorziening in de noodzakelijke kosten van bestaan in het bestemmingsland.   
-2.  Aan een remigrant als bedoeld in het eerste lid, wordt een tegemoetkoming verstrekt in de kosten van een door hem te sluiten verzekering tegen ziektekosten in het bestemmingsland, indien hij niet met toepassing van een Verordening van de Raad van de Europese Gemeenschappen of een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, recht kan doen gelden op verstrekkingen, die hem in beginsel ten laste van de middelen van het Zorgverzekeringsfonds, bedoeld in [artikel 39 van de Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md), worden verleend.   
-3.  Aan een persoon als bedoeld in artikel 2, die is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op verstrekking van een periodieke uitkering als bedoeld in het eerste lid, uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in het eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), welke uitkering na zijn vertrek uit Nederland op grond de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel op grond van [artikel 36](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [43 van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is verlaagd of ingetrokken.   
+2.  Aan een remigrant als bedoeld in het eerste lid, wordt een tegemoetkoming verstrekt in de kosten van een door hem te sluiten verzekering tegen ziektekosten in het bestemmingsland, indien hij niet met toepassing van een Verordening van de Raad van de Europese Gemeenschappen of een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, recht kan doen gelden op verstrekkingen, die hem in beginsel ten laste van de middelen van het Zorgverzekeringsfonds, bedoeld in artikel 39 van de Zorgverzekeringswet, worden verleend.   
+3.  Aan een persoon als bedoeld in artikel 2, die is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op verstrekking van een periodieke uitkering als bedoeld in het eerste lid, uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in het eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen dan wel op grond van de Wet op de arbeidsongeschiktheidsverzekering, welke uitkering na zijn vertrek uit Nederland op grond de Wet werk en inkomen naar arbeidsvermogen dan wel op grond van artikel 36 of 43 van de Wet op de arbeidsongeschiktheidsverzekering is verlaagd of ingetrokken.   
 4.  Het tweede lid en de artikelen 5, 6 en 7 zijn van overeenkomstige toepassing op de persoon, bedoeld in het derde lid.   
 
 ### Artikel  5  
@@ -134,7 +213,7 @@ e. de datum waarop het recht op de voorzieningen ingaat en het recht op de voorz
 ### Artikel  8f  
 
 1.  De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in artikel 8b, eerste lid, bedoelde kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.   
-2.  In de administratie, bedoeld in het eerste lid, wordt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in artikel 1, tweede lid, en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in artikel 1, derde lid.   
+2.  In de administratie, bedoeld in het eerste lid, wordt het burgerservicenummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in artikel 1, tweede lid, en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in artikel 1, derde lid.   
 3.  Onze Minister kan regels stellen omtrent de inrichting van de administratie, bedoeld in het eerste lid.   
 
 ### Artikel  8g  
@@ -157,8 +236,8 @@ e. de datum waarop het recht op de voorzieningen ingaat en het recht op de voorz
 
 ### Artikel  8j  
 
-1.  [Hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede de [artikelen 5](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [9](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [10](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [35](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [55, derde lid](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [72](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [73](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [77](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [79](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [84](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [86 van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zijn ten aanzien van de uitvoering van deze wet niet van toepassing.   
-2.  [Artikel 34, eerste lid, onderdeel g, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing, met dien verstande dat wordt verstaan onder: 
+1.  Hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen, alsmede de artikelen 5, 9, 10, 35, 55, derde lid, 72, 73, 77, 79, 84 en 86 van die wet zijn ten aanzien van de uitvoering van deze wet niet van toepassing.   
+2.  Artikel 34, eerste lid, onderdeel g, van de Wet structuur uitvoeringsorganisatie werk en inkomen is van overeenkomstige toepassing, met dien verstande dat wordt verstaan onder: 
 
 a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;  
 
@@ -182,7 +261,7 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet aan de 
 
 ### Artikel  11  
 
-1.  Aan een persoon als bedoeld in artikel 2, die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van artikel 10, derde lid, overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in artikel 4, eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), welke uitkering na zijn vertrek uit Nederland op grond van [artikel 36](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [43 van Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is verlaagd of ingetrokken.   
+1.  Aan een persoon als bedoeld in artikel 2, die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van artikel 10, derde lid, overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in artikel 4, eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, welke uitkering na zijn vertrek uit Nederland op grond van artikel 36 of 43 van Wet op de arbeidsongeschiktheidsverzekering is verlaagd of ingetrokken.   
 2.  Artikel 10, tweede, vierde en vijfde lid, is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid, zijn partner en zijn minderjarige kinderen die voor de inwerkingtreding van deze wet zijn geremigreerd respectievelijk zijn meegeremigreerd, waarbij onder partner mede wordt verstaan de partner, bedoeld in artikel 1, tweede lid, en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in artikel 1, derde lid.   
 
 ### Artikel  13  

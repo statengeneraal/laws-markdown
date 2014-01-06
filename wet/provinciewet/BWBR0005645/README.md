@@ -24,7 +24,7 @@ In deze wet wordt verstaan onder ingezetenen: zij die hun werkelijke woonplaats 
 
 ### Artikel  3  
 
-Zij die als ingezetene met een adres zijn ingeschreven in de gemeentelijke basisadministratie persoonsgegevens van een gemeente, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in de provincie waarin die gemeente is gelegen.  
+Zij die als ingezetene met een adres in een gemeente zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in de provincie waarin die gemeente is gelegen.  
 
 ### Artikel  4  
 

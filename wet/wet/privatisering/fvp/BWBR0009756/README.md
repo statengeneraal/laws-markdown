@@ -53,7 +53,7 @@ b. de stichting wordt in staat geacht de doelstelling naar behoren uit te voeren
 ####Vermogensoverdracht
 
 1.  Op de datum waarop het besluit tot aanwijzing van de stichting in werking treedt gaan alle vermogensbestanddelen van het fonds onder algemene titel over op de stichting.   
-2.  Het bestuur van het fonds doet van de in het eerste lid bedoelde vermogensbestanddelen door een accountant als bedoeld in [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van de Kamer van Koophandel van de plaats waar zij volgens haar statuten haar zetel heeft.   
+2.  Het bestuur van het fonds doet van de in het eerste lid bedoelde vermogensbestanddelen door een accountant als bedoeld in [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van de Kamer van Koophandel.   
 3.  Ingeval op grond van het eerste lid registergoederen overgaan zal verandering in de tenaamstelling in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) plaatsvinden. De daartoe benodigde opgaven worden door de zorg van het bestuur van het fonds aan de bewaarders van de desbetreffende registers gedaan.   
 4.  Terzake van de overgang van vermogensbestanddelen, bedoeld in het derde lid, blijft heffing van overdrachtsbelasting achterwege.   
 
@@ -102,7 +102,7 @@ b. de naleving door de stichting, bedoeld in het eerste lid, alsmede de gang van
 
 ####Informatie- en medewerkingsplicht
 
-1.  Inlichtingen uit de gemeentelijke basisadministratie persoonsgegevens en inlichtingen en uittreksels uit de registers van de burgerlijke stand, die met het oog op uitvoering van de doelstelling worden gevraagd, zijn vrij van leges.   
+1.  Inlichtingen uit de basisregistratie personen en inlichtingen en uittreksels uit de registers van de burgerlijke stand, die met het oog op uitvoering van de doelstelling worden gevraagd, zijn vrij van leges.   
 2.  Indien de stichting voorziet in aanvullende pensioenvoorzieningen van werkloze werknemers, verlenen het Uitvoeringsinstituut werknemersverzekeringen en de pensioenuitvoerders waaraan bijdragen worden uitgekeerd, tegen een redelijke kostenvergoeding hun medewerking aan de uitvoering hiervan. Onder werkloze werknemer wordt verstaan de werknemer die werkloos is als bedoeld in [artikel 16 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en als gevolg daarvan een door het Uitvoeringsinstituut werknemersverzekeringen vastgesteld recht op een uitkering op grond van [die wet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) heeft.   
 
 ### Artikel  9  
@@ -140,8 +140,7 @@ In de statuten van de stichting wordt opgenomen dat een ieder die direct of indi
 
 ####Geschillen
 
-1.  Van burgerlijke rechtsvorderingen terzake van geschillen inzake het voorzien in aanvullende pensioenvoorzieningen door de stichting neemt de kantonrechter kennis.   
-2.  Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
+Van burgerlijke rechtsvorderingen terzake van geschillen inzake het voorzien in aanvullende pensioenvoorzieningen door de stichting neemt de kantonrechter kennis.  
 
 ### Artikel  13  
 

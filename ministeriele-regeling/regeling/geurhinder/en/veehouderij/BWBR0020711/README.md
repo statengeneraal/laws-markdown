@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder: bijlage: bij deze regeling behorende bijl
 
 a. het geheel overdekt dierenverblijf treedt, dan wel wordt gebracht; of  
 
-b. het overdekte gedeelte van het gedeeltelijk overdekt dierenverblijf treedt, dan wel wordt gebracht.    
+b. het overdekte gedeelte van het gedeeltelijk overdekt dierenverblijf treedt, dan wel wordt gebracht.   
 
 ### Artikel  2  
 
@@ -24,24 +24,24 @@ b. het overdekte gedeelte van het gedeeltelijk overdekt dierenverblijf treedt, d
 4.  Indien het dierenverblijf niet is overdekt, wordt de geurbelasting bepaald op de dichtstbijzijnde buitenzijde van een geurgevoelig object, gerekend vanaf het punt van de begrenzing dat het dichtst is gelegen bij het desbetreffende geurgevoelig object.   
 5.  De geuremissie vanuit een veehouderij is de som van de voor de verschillende diercategorieën, gehouden in de onderscheiden dierenverblijven, berekende aantallen odour units per seconde per dier.   
 6.  Het aantal odour units per seconde per dier van een diercategorie, is het aantal dieren van een diercategorie vermenigvuldigd met de voor de betreffende diercategorie in bijlage 1 opgenomen geuremissiefactor.   
-7.  Indien voor een diercategorie geen geuremissiefactor is vastgesteld, wordt de diercategorie in de berekening van de geurbelasting buiten beschouwing gelaten.   
+7.  Indien voor een diercategorie geen geuremissiefactor is vastgesteld, wordt de diercategorie in de berekening van de geurbelasting buiten beschouwing gelaten.  
 
 ### Artikel  3  
 
-De afstand, bedoeld in [artikel 4, tweede lid, van de wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) is opgenomen in bijlage 2.  
+De afstand, bedoeld in [artikel 4, tweede lid, van de wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) is opgenomen in bijlage 2. 
 
 ### Artikel  4  
 
 1.  De afstand, bedoeld in de [artikelen 3, tweede en derde lid](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md), en [4, eerste lid, van de wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) wordt gemeten vanaf de buitenzijde van het geurgevoelig object tot het dichtstbijzijnde emissiepunt.   
-2.  Indien het dierenverblijf niet is overdekt, wordt de afstand gemeten vanaf de buitenzijde van een geurgevoelig object tot het punt van de begrenzing van het dierenverblijf dat het dichtst is gelegen bij het desbetreffende geurgevoelig object.   
+2.  Indien het dierenverblijf niet is overdekt, wordt de afstand gemeten vanaf de buitenzijde van een geurgevoelig object tot het punt van de begrenzing van het dierenverblijf dat het dichtst is gelegen bij het desbetreffende geurgevoelig object.  
 
 ### Artikel  5  
 
-Deze regeling treedt in werking op het tijdstip waarop de [wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [wet](../../../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) in werking treedt. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling geurhinder en veehouderij.  
+Deze regeling wordt aangehaald als: Regeling geurhinder en veehouderij. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -49,9 +49,9 @@ Den Haag
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel  
+P.L.B.A. van Geel    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, als bedoeld in artikel 2, zesde lid  (geuremissiefactoren)
 
@@ -72,15 +72,15 @@ P.L.B.A. vanGeel
 | A 6  | Vleesstieren en overig vleesvee van circa 8 tot 24 maanden (roodvleesproductie)  | 35,6  |
 | A 7  | Fokstieren en overig rundvee ouder dan 2 jaar  | niet vastgesteld  |
 |  *Schapen*   |
-| B 1  | Schapen ouder dan één jaar, inclusief lammeren tot 45 kilo <sup>1, 2</sup>  | 7,8  |
+| B 1  | Schapen ouder dan één jaar, inclusief lammeren tot 45 kilo<sup>1, 2</sup>   | 7,8  |
 |  *Geiten*   |
 | C 1  | Geiten ouder dan één jaar  | 18,8  |
 | C 2  | Opfokgeiten van 61 dagen tot en met één jaar  | 11,3  |
 | C 3  | Opfokgeiten en afmestlammeren tot en met 60 dagen  | 5,7  |
-|  *Varkens <sup>3</sup>*   |
+|  *Varkens<sup>3</sup> *   |
 | D 1  | Fokzeugen, inclusief biggen tot 25 kilo  | --- |
 | D 1.1  | Biggenopfok (gespeende biggen)  | --- |
-| --- | emissiearme huisvesting (a.e. ≤ 0,3 kg per dierplaats per jaar) <sup>4</sup>  | 5,4  |
+| --- | emissiearme huisvesting (a.e. ≤ 0,3 kg per dierplaats per jaar)<sup>4</sup>   | 5,4  |
 | --- | – chemische luchtwasser (30% reductie)  | 3,8  |
 | --- | – biologische luchtwasser (45% reductie)  | 3,0  |
 | --- | – gecombineerd luchtwassysteem BWL 2006.14.V3 (70% reductie)  | 1,6  |
@@ -118,7 +118,7 @@ P.L.B.A. vanGeel
 | --- | – gecombineerd luchtwassysteem BWL 2007.01.V4; BWL 2007.02.V2; BWL 2010.02.V2; BWL 2011.07.V1; BWL 2011.08.V1 (75% reductie)  | 4,7  |
 | --- | – gecombineerd luchtwassysteem BWL 2006.15.V4 (80% reductie)  | 3,7  |
 | --- | – gecombineerd luchtwassysteem BWL 2009.12.V1 (85% reductie)  | 2,8  |
-| D 3  | Vleesvarkens, opfokberen van 25 kilo tot 7 maanden, opfokzeugen van 25 kilo tot eerste dekking <sup>5</sup>  | --- |
+| D 3  | Vleesvarkens, opfokberen van 25 kilo tot 7 maanden, opfokzeugen van 25 kilo tot eerste dekking<sup>5</sup>   | --- |
 | --- | emissiearme huisvesting (a.e. ≤ 1,5 kg per dierplaats per jaar)  | 17,9  |
 | --- | – chemische luchtwasser (30% reductie)  | 12,5  |
 | --- | – biologische luchtwasser (45% reductie)  | 9,8  |
@@ -217,17 +217,17 @@ P.L.B.A. vanGeel
 |  *Overig*   |
 | M 1  | Landbouwhuisdieren die in veehouderijen worden gehouden  | niet vastgesteld  |
 
-*Eindnoten:*  1 De geuremissie heeft betrekking op een stalperiode van maximaal drie maanden in de winter. 2 De geuremissiefactor geldt inclusief opfok, zodat die opfok niet meetelt voor de berekening van de geuremissie. 3 Een stalsysteem met spoelgoten wordt niet gewaardeerd als emissiearme huisvesting maar als overige huisvesting. 4 a.e. is de afkorting van ammoniakemissie. 5 Voor opfokzeugen na de eerste dekking wordt de geuremissiefactor voor fokzeugen gehanteerd. 
+*Eindnoten:*1 De geuremissie heeft betrekking op een stalperiode van maximaal drie maanden in de winter. 2 De geuremissiefactor geldt inclusief opfok, zodat die opfok niet meetelt voor de berekening van de geuremissie. 3 Een stalsysteem met spoelgoten wordt niet gewaardeerd als emissiearme huisvesting maar als overige huisvesting. 4 a.e. is de afkorting van ammoniakemissie. 5 Voor opfokzeugen na de eerste dekking wordt de geuremissiefactor voor fokzeugen gehanteerd.
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####, als bedoeld in artikel 3  (afstanden pelsdieren)
 
 De afstanden, uitgedrukt in meters, voor nertsen worden als volgt bepaald.  Pelsdieren 
 
-| Rav-nr.  | Diercategorie  | Aantal fokteven  | H 1  | Nertsen  | 1–1000  | 1001–1500  | 1501–3000  | 3001–6000  | 6001–9000  |
+| Rav-nr.  | Diercategorie  | Aantal fokteven   | H 1  | Nertsen  | 1–1000  | 1001–1500  | 1501–3000  | 3001–6000  | 6001–9000  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Geurgevoelig object binnen bebouwde kom  | 175  | 200  | 225  | 250  | 275  |
+| Geurgevoelig object binnen bebouwde kom   | 175   | 200  | 225  | 250  | 275  |
 | Geurgevoelig object buiten bebouwde kom  | 100  | 125  | 150  | 175  | 200  |
 
 1. In de berekening worden jongen en reuen buiten beschouwing gelaten.  
@@ -240,4 +240,4 @@ De afstanden, uitgedrukt in meters, voor nertsen worden als volgt bepaald.  Pels
 
 a. ten minste 100 meter indien het geurgevoelig object binnen de bebouwde kom is gelegen, en  
 
-b. ten minste 50 meter indien het geurgevoelig object buiten de bebouwde kom is gelegen.     
+b. ten minste 50 meter indien het geurgevoelig object buiten de bebouwde kom is gelegen.    

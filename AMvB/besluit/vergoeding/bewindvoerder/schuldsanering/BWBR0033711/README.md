@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *bewindvoerder:* de door de rechtbank op grond van [artikel 287, derde lid, van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) benoemde natuurlijke persoon of rechtspersoon;  
+a.  *bewindvoerder:* de door de rechtbank op grond van [artikel 287, derde lid, van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) benoemde natuurlijke persoon of rechtspersoon;  
 
-b. *raad:* de raad voor rechtsbijstand;  
+b.  *raad:* de raad voor rechtsbijstand;  
 
-c. *vergoeding:* het bedrag dat de bewindvoerder ontvangt in de vorm van salaris of bewindvoerderssubsidie voor het uitvoeren van de wettelijke taken, bedoeld in [artikel 316, eerste lid, Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+c.  *vergoeding:* het bedrag dat de bewindvoerder ontvangt in de vorm van salaris of bewindvoerderssubsidie voor het uitvoeren van de wettelijke taken, bedoeld in [artikel 316, eerste lid, Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
-d. *salaris:* het door de rechtbank vast te stellen salaris van de bewindvoerder als bedoeld in [artikel 320 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+d.  *salaris:* het door de rechtbank vast te stellen salaris van de bewindvoerder als bedoeld in [artikel 320 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
-e. *bewindvoerderssubsidie:* de subsidie ten behoeve van het optreden als bedoeld in [artikel 48c, eerste lid, onderdeel a, van de Wet Justitie-subsidies](../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);  
+e.  *bewindvoerderssubsidie:* de subsidie ten behoeve van het optreden als bedoeld in [artikel 48c, eerste lid, onderdeel a, van de Wet Justitie-subsidies](../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);  
 
-f. *schuldsaneringsregeling:* de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+f.  *schuldsaneringsregeling:* de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
-g. *looptijd:* de termijn van de schuldsaneringsregeling, bedoeld in [artikel 349a van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+g.  *looptijd:* de termijn van de schuldsaneringsregeling, bedoeld in [artikel 349a van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
-h. *zaak:* een door de bewindvoerder af te wikkelen schuldsaneringsboedel.    
+h.  *zaak:* een door de bewindvoerder af te wikkelen schuldsaneringsboedel.   
 
 ### Artikel  2  
 
@@ -57,49 +57,49 @@ c. C gelijk is aan het procentuele verschil tussen de consumentenprijsindexcijfe
 
 d. onder t-2 wordt verstaan het tweede jaar voorafgaand aan het jaar waarin de gewijzigde bedragen zullen gelden.     
 6.  De vergoeding bedoeld in het tweede lid, onderdeel a en b, wordt verhoogd met een toeslag van € 187 voor porto- en andere kosten die voorvloeien uit de taak van de bewindvoerder om belanghebbenden op de hoogte te houden van het verloop van een schuldsaneringsprocedure. Deze toeslag bedraagt € 216 indien de vergoeding, bedoeld in het tweede lid, onderdeel c en d, wordt toegekend.   
-7.  De vergoeding wordt verhoogd met een vergoeding voor de door de bewindvoerder in een zaak noodzakelijk gemaakte reiskosten.   
+7.  De vergoeding wordt verhoogd met een vergoeding voor de door de bewindvoerder in een zaak noodzakelijk gemaakte reiskosten.  
 
 ### Artikel  3  
 
 1.  De rechtbank berekent het bedrag van de vergoeding overeenkomstig artikel 2.   
 2.  Indien daartoe gronden zijn, kan de rechtbank in afwijking van het eerste lid de vergoeding op voordracht van de rechter-commissaris, op verzoek van de bewindvoerder dan wel ambtshalve, aanpassen.   
-3.  De rechtbank stelt het salaris vast op het bedrag van de vergoeding zoals deze overeenkomstig het eerste onderscheidenlijk tweede lid wordt berekend. Wanneer het aanwezig boedelactief betaling van het salaris niet toelaat, stelt de rechtbank het salaris vast op het hoogste bedrag waarvoor de boedel nog toereikend is.   
+3.  De rechtbank stelt het salaris vast op het bedrag van de vergoeding zoals deze overeenkomstig het eerste onderscheidenlijk tweede lid wordt berekend. Wanneer het aanwezig boedelactief betaling van het salaris niet toelaat, stelt de rechtbank het salaris vast op het hoogste bedrag waarvoor de boedel nog toereikend is.  
 
 ### Artikel  4  
 
-Onze Minister verstrekt jaarlijks subsidie aan het bestuur van de raad ten behoeve van de uitvoering van dit besluit.  
+Onze Minister verstrekt jaarlijks subsidie aan het bestuur van de raad ten behoeve van de uitvoering van dit besluit. 
 
 ### Artikel  5  
 
 1.  Onze Minister kan van zijn bevoegdheid tot het verstrekken van een bewindvoerderssubsidie mandaat verlenen aan de raad.   
 2.  De bewindvoerderssubsidie is gelijk aan het bedrag van de vergoeding dat overeenkomstig artikel 3, eerste onderscheidenlijk tweede lid, wordt berekend, verminderd met het overeenkomstig artikel 3, derde lid, vastgestelde salaris.   
 3.  Indien overeenkomstig het eerste lid mandaat is verleend, stelt het bestuur van de raad aan de rechtbanken ten minste eenmaal per jaar een actuele opgave ter beschikking van personen die naar zijn oordeel geschikt zijn om voor de bewindvoering in aanmerking te komen.   
-4.  De bewindvoerderssubsidie wordt verstrekt aan de bewindvoerder of aan de werkgever bij wie de bewindvoerder zijn werkzaamheden in dienstbetrekking vervult.   
+4.  De bewindvoerderssubsidie wordt verstrekt aan de bewindvoerder of aan de werkgever bij wie de bewindvoerder zijn werkzaamheden in dienstbetrekking vervult.  
 
 ### Artikel  6  
 
-In iedere zaak wordt aan de bewindvoerder een voorschot op de bewindvoerderssubsidie verstrekt van € 800.  
+In iedere zaak wordt aan de bewindvoerder een voorschot op de bewindvoerderssubsidie verstrekt van € 800. 
 
 ### Artikel  7  
 
-De bedragen, genoemd in dit besluit, zijn inclusief de door de bewindvoerder verschuldigde omzetbelasting.  
+De bedragen, genoemd in dit besluit, zijn inclusief de door de bewindvoerder verschuldigde omzetbelasting. 
 
 ### Artikel  8  
 
-1.  Het [Besluit salaris bewindvoerder schuldsanering](../../../../../../AMvB/besluit/salaris/bewindvoerder/schuldsanering/BWBR0012227/README.md) wordt ingetrokken.   
-2.  Het [Besluit subsidie bewindvoerder schuldsanering](../../../../../../AMvB/besluit/subsidie/bewindvoerder/schuldsanering/BWBR0012226/README.md) wordt ingetrokken.   
+1. Het [Besluit salaris bewindvoerder schuldsanering](../../../../../../AMvB/besluit/salaris/bewindvoerder/schuldsanering/BWBR0012227/README.md) wordt ingetrokken. 
+2. Het [Besluit subsidie bewindvoerder schuldsanering](../../../../../../AMvB/besluit/subsidie/bewindvoerder/schuldsanering/BWBR0012226/README.md) wordt ingetrokken.
 
 ### Artikel  9  
 
-Schuldsaneringsregelingen, waarvan de toepassing is aangevangen voor de inwerkingtreding van dit besluit en de toepassing niet is beëindigd voor de inwerkingtreding van dit besluit, worden afgehandeld overeenkomstig het [Besluit salaris bewindvoerder schuldsanering](../../../../../../AMvB/besluit/salaris/bewindvoerder/schuldsanering/BWBR0012227/README.md) en het [Besluit subsidie bewindvoerder](../../../../../../AMvB/besluit/subsidie/bewindvoerder/schuldsanering/BWBR0012226/README.md), zoals deze luidden voor de inwerkingtreding van dit besluit.  
+Schuldsaneringsregelingen, waarvan de toepassing is aangevangen voor de inwerkingtreding van dit besluit en de toepassing niet is beëindigd voor de inwerkingtreding van dit besluit, worden afgehandeld overeenkomstig het [Besluit salaris bewindvoerder schuldsanering](../../../../../../AMvB/besluit/salaris/bewindvoerder/schuldsanering/BWBR0012227/README.md) en het [Besluit subsidie bewindvoerder](../../../../../../AMvB/besluit/subsidie/bewindvoerder/schuldsanering/BWBR0012226/README.md), zoals deze luidden voor de inwerkingtreding van dit besluit. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking op 1 oktober 2013.  
+Dit besluit treedt in werking op 1 oktober 2013. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit vergoeding bewindvoerder schuldsanering.  
+Dit besluit wordt aangehaald als: Besluit vergoeding bewindvoerder schuldsanering. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -107,10 +107,10 @@ Wassenaar
 16 juli 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven   
 
 de *vijfentwintigste* juli 2013 
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven    

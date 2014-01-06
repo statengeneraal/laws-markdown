@@ -99,11 +99,11 @@ a. jonger is dan 16 jaar en tot zijn huishouden behoort, of
 b. jonger is dan 18 jaar en door hem in belangrijke mate wordt onderhouden.     
 2.  De verzekerde heeft voor een kind van 16 of 17 jaar slechts recht op kinderbijslag indien: 
 
-a. de verzekerde heeft voldaan aan de verplichtingen, bedoeld in de [artikelen 2, eerste lid](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), en [4a, eerste lid, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), dan wel daarvan op grond van [die wet](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) is vrijgesteld;  
+a. de verzekerde heeft voldaan aan de verplichtingen, bedoeld in de [artikelen 2, eerste lid](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), en [4a, eerste lid, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), dan wel daarvan op grond van [die wet](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) is vrijgesteld;  
 
 b. het kind na het behalen van een startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) op lichamelijke of psychische gronden niet geschikt is om tot een school onderscheidenlijk een instelling te worden toegelaten dan wel een vervolgstudie volgt anders dan hoger onderwijs als bedoeld in [artikel 1.1, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-c. het kind als leerling of deelnemer van een met een school of instelling als bedoeld in [artikel 4a van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) vergelijkbare inrichting van onderwijs buiten Nederland staat ingeschreven en deze inrichting geregeld bezoekt, dan wel met overeenkomstige toepassing van de vrijstellingsgronden van [die wet](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) van die verplichtingen is vrijgesteld;  
+c. het kind als leerling of deelnemer van een met een school of instelling als bedoeld in [artikel 4a van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) vergelijkbare inrichting van onderwijs buiten Nederland staat ingeschreven en deze inrichting geregeld bezoekt, dan wel met overeenkomstige toepassing van de vrijstellingsgronden van [die wet](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) van die verplichtingen is vrijgesteld;  
 
 d. het kind werkloos is.     
 3.  Een kind als bedoeld in het eerste lid, onderdeel b, wordt voor het vaststellen van het aantal kinderen voor wie recht op kinderbijslag bestaat voor twee kinderen geteld, indien het door de verzekerde grotendeels wordt onderhouden en 
@@ -170,16 +170,6 @@ b. buiten Nederland arbeid verricht;
 c. een uitkering ontvangt krachtens een buitenlandse wettelijke regeling; of  
 
 d. op grond van deze wet geen recht op kinderbijslag meer bestaat.     
-
-### Artikel  7d  
-
-In afwijking van artikel 7, eerste lid, onderdeel b, heeft de verzekerde geen recht op kinderbijslag voor een kind, indien: 
-
-a. de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) heeft vastgesteld dat dat kind aangewezen is op zorg waarop ingevolge de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aanspraak bestaat;  
-
-b. de stichting, bedoeld in onderdeel a, aan de Sociale verzekeringsbank heeft medegedeeld dat het kind als gevolg daarvan bij een pleegouder dan wel in een accommodatie of een instelling van een zorgaanbieder verblijft voor ten minste vijf aaneengesloten etmalen per week, uitgezonderd vakanties, en  
-
-c. het kind op de eerste dag van een kalenderkwartaal bij een pleegouder of in een accommodatie of een instelling van een zorgaanbieder verblijft als bedoeld in onderdeel b.    
 
 ### Artikel  11  
 
@@ -344,7 +334,7 @@ c. de verzekerde, alsmede de persoon aan wie of de instelling aan welke op grond
 
 ### Artikel  19a  
 
-1.  De Sociale verzekeringsbank schort de betaling van de kinderbijslag op, indien blijkt dat het door de verzekerde verstrekte adres van hemzelf of van zijn kind afwijkt van het adres waaronder de verzekerde of het kind in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven.   
+1.  De Sociale verzekeringsbank schort de betaling van de kinderbijslag op, indien blijkt dat het door de verzekerde verstrekte adres van hemzelf of van zijn kind afwijkt van het adres waaronder de verzekerde of het kind in de basisregistratie personen staat ingeschreven.   
 2.  Geen opschorting vindt plaats: 
 
 a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op of de hoogte van de kinderbijslag;  

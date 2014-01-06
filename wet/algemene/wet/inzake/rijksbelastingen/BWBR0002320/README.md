@@ -60,15 +60,15 @@ e. belastingaanslag: de voorlopige aanslag, de aanslag, de navorderingsaanslag e
 
 f. aandeel: mede de deelgerechtigdheid van een commanditaire vennoot in een open commanditaire vennootschap;  
 
-g. Communautair douanewetboek: verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (*PbEG* L 302);  
+g. Communautair douanewetboek: Verordening (EEG) nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG 1992, L 302);  
 
-h. toepassingsverordening Communautair douanewetboek: verordening (EEG) nr. 2454/93 van de Commissie van de Europese Gemeenschappen van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen tot vaststelling van het communautair douanewetboek (*PbEG* L 253);  
+h. toepassingsverordening Communautair douanewetboek: Verordening (EEG) nr. 2454/93 van de Commissie van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad tot vaststelling van het communautair douanewetboek (PbEG 1993, L 253);  
 
 i. kind: eerstegraads bloedverwant en aanverwant in de neergaande lijn;  
 
 j. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
 
-k. sociaal-fiscaalnummer: het nummer dat door de rijksbelastingdienst is toegekend aan de natuurlijke persoon aan wie geen burgerservicenummer is toegekend;  
+k.  vervallen;   
 
 l. partner: persoon als bedoeld in artikel 5a;  
 
@@ -97,8 +97,8 @@ b. een voorlopige conserverende aanslag niet wordt verrekend met een conserveren
 
 1.  Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.   
 2.  Voor de toepassing van het eerste lid worden schepen en luchtvaartuigen welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd.   
-3.  Voor de toepassing van de wettelijke bepalingen ter uitvoering van Richtlijn nr. 2009/133/EG van de Raad van de Europese Unie van 19 oktober 2009 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat (PbEU L 310), Richtlijn 2011/96/EU van de Raad van 30 november 2011 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende lidstaten (PbEU 2011, L 345/8) of Richtlijn nr. 2003/49/EG van de Raad van de Europese Unie van 3 juni 2003 betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lidstaten (Pb L 157) wordt, in afwijking in zoverre van het eerste lid en voor zover dat voortvloeit uit de genoemde Richtlijnen, een lichaam geacht te zijn gevestigd in een Lid-Staat van de Europese Gemeenschappen indien dat lichaam volgens de fiscale wetgeving van de Lid-Staat aldaar is gevestigd.   
-4.  Een instelling voor collectieve belegging in effecten als bedoeld in artikel 1 van Richtlijn nr. 2009/65/EU van het Europees Parlement en de Raad van de Europese Unie van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende instellingen voor collectieve belegging in effecten (PbEU L 302/32), wordt geacht te zijn gevestigd in de lidstaat of staat waarvan de bevoegde autoriteit de instelling overeenkomstig artikel 5 van die richtlijn heeft toegelaten.   
+3.  Voor de toepassing van de wettelijke bepalingen ter uitvoering van Richtlijn 2009/133/EG van de Raad van 19 oktober 2009 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat (PbEU 2009, L 310), Richtlijn 2011/96/EU van de Raad van 30 november 2011 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende lidstaten (PbEU 2011, L 345) of Richtlijn 2003/49/EG van de Raad van 3 juni 2003 betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lidstaten (PbEU 2003, L 157) wordt, in afwijking in zoverre van het eerste lid en voor zover dat voortvloeit uit de genoemde richtlijnen, een lichaam geacht te zijn gevestigd in een lidstaat van de Europese Unie indien dat lichaam volgens de fiscale wetgeving van die lidstaat aldaar is gevestigd.   
+4.  Een instelling voor collectieve belegging in effecten als bedoeld in artikel 1 van Richtlijn 2009/65/EU van het Europees Parlement en de Raad van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende instellingen voor collectieve belegging in effecten (icbe’s) (PbEU 2009, L 302), wordt geacht te zijn gevestigd in de lidstaat of staat waarvan de bevoegde autoriteit de instelling overeenkomstig artikel 5 van die richtlijn heeft toegelaten.   
 5.  Een alternatieve beleggingsinstelling als bedoeld in artikel 4, eerste lid, onderdeel k, van Richtlijn 2011/61/EU van het Europees Parlement en de Raad van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) nr. 1060/2009 en (EU) nr. 1095/2010 (PbEU 2011, L 174) wordt geacht te zijn gevestigd in de lidstaat van herkomst, bedoeld in artikel 4, eerste lid, onderdeel p, van die richtlijn, indien: 
 
 a. het lichaam is opgericht of aangegaan naar het recht van die lidstaat, en  
@@ -116,16 +116,16 @@ b. het doel en de feitelijke werkzaamheid van het lichaam uitsluitend bestaan in
 
 a. de echtgenoot;  
 
-b. de ongehuwde meerderjarige persoon waarmee de ongehuwde meerderjarige belastingplichtige een notarieel samenlevingscontract is aangegaan en met wie hij staat ingeschreven op hetzelfde woonadres in de gemeentelijke basisadministratie persoonsgegevens of een daarmee naar aard en strekking overeenkomende administratie buiten Nederland.     
-2.  Degene die ingevolge het eerste lid voor een deel van het kalenderjaar als partner wordt aangemerkt, wordt ook als partner aangemerkt in de andere perioden van het kalenderjaar, voor zover hij in die perioden op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens of een daarmee naar aard en strekking overeenkomende administratie buiten Nederland.   
+b. de ongehuwde meerderjarige persoon waarmee de ongehuwde meerderjarige belastingplichtige een notarieel samenlevingscontract is aangegaan en met wie hij staat ingeschreven op hetzelfde woonadres in de basisregistratie personen of een daarmee naar aard en strekking overeenkomende registratie buiten Nederland.     
+2.  Degene die ingevolge het eerste lid voor een deel van het kalenderjaar als partner wordt aangemerkt, wordt ook als partner aangemerkt in de andere perioden van het kalenderjaar, voor zover hij in die perioden op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen of een daarmee naar aard en strekking overeenkomende registratie buiten Nederland.   
 3.  Voor de toepassing van het eerste lid wordt een persoon die van tafel en bed is gescheiden, aangemerkt als ongehuwd. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit lid.   
 4.  In afwijking van het eerste lid wordt een persoon niet meer als partner aangemerkt ingeval: 
 
 a. een verzoek, zoals bedoeld in [artikel 150](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), respectievelijk [169 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) tot echtscheiding, respectievelijk tot scheiding van tafel en bed is ingediend, en  
 
-b. hij niet meer op hetzelfde woonadres in de gemeentelijke basisadministratie persoonsgegevens of een daarmee naar aard en strekking overeenkomende administratie buiten Nederland staat ingeschreven als de belastingplichtige.     
+b. hij niet meer op hetzelfde woonadres in de basisregistratie personen of een daarmee naar aard en strekking overeenkomende registratie buiten Nederland staat ingeschreven als de belastingplichtige.     
 5.  Een persoon kan op enig moment slechts één partner hebben. Ingeval een persoon meer dan één echtgenoot heeft, wordt alleen de echtgenoot uit de oudste verbintenis als partner aangemerkt. Bij meer dan één notarieel samenlevingscontract, wordt alleen het oudste samenlevingscontract in aanmerking genomen. Een notarieel samenlevingscontract met meer dan één persoon, wordt niet in aanmerking genomen.   
-6.  Bij ministeriële regeling kunnen regels worden gesteld op basis waarvan iemand die niet in Nederland woont, geacht wordt op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld op basis waarvan iemand die niet in Nederland woont, geacht wordt op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland.   
 7.  Personen die partners waren op grond van het eerste lid, onderdeel b, blijven als partners aangemerkt nadat de in dat onderdeel bedoelde inschrijving op hetzelfde woonadres niet langer mogelijk is als gevolg van opname in een verpleeghuis of verzorgingshuis vanwege medische redenen of ouderdom van een van hen, zolang na het einde van die inschrijving op hetzelfde woonadres ten aanzien van geen van beiden een derde persoon als partner wordt aangemerkt. De eerste volzin vindt geen toepassing meer indien één van beiden door middel van een schriftelijke kennisgeving aan de inspecteur laat weten dat zij niet langer als partners willen worden aangemerkt. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit lid.   
 
 ### Artikel  5b  
@@ -136,11 +136,13 @@ a. een instelling – niet zijnde een vennootschap met in aandelen verdeeld kapi
 
 1°. uitsluitend of nagenoeg uitsluitend het algemeen nut beoogt;  
 
-2°. voldoet aan bij ministeriële regeling te stellen voorwaarden;  
+2°. haar gegevens op elektronische wijze via internet openbaar maakt;  
 
-3°. gevestigd is in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat, en  
+3°. voldoet aan bij ministeriële regeling te stellen voorwaarden;  
 
-4°. door de inspecteur als zodanig is aangemerkt;    
+4°. gevestigd is in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat, en  
+
+5°. door de inspecteur als zodanig is aangemerkt;    
 
 b. een niet in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat gevestigde, door Onze Minister als zodanig aangemerkte instelling indien en zolang zij voldoet aan de door hem te stellen voorwaarden.     
 2.  Publiekrechtelijke lichamen als bedoeld in [artikel 1, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn algemeen nut beogende instellingen.   
@@ -175,8 +177,15 @@ m. het financieel of op andere wijze ondersteunen van een algemeen nut beogende 
 5.  Een instelling die werkzaamheden verricht die gericht zijn op het bieden van volkshuisvesting als bedoeld in het derde lid, onderdeel k, kan slechts worden aangemerkt als algemeen nut beogende instelling, indien zij op de voet van [artikel 70 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) bij koninklijk besluit is toegelaten als instelling die in het belang van de volkshuisvesting werkzaam is.   
 6.  Het aanmerken als een algemeen nut beogende instelling of als culturele instelling geschiedt op verzoek van de instelling. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking eventueel onder door hem te stellen voorwaarden. In afwijking van de eerste volzin kan de inspecteur een categorie instellingen dan wel een groep met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aanmerken als instellingen als bedoeld in het eerste lid, ook zonder dat een daartoe strekkend verzoek is gedaan door die instellingen.   
 7.  Een instelling als bedoeld in het eerste lid, wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling niet langer uitsluitend of nagenoeg uitsluitend een algemeen nut beogend karakter heeft, niet meer voldoet aan de bij ministeriële regeling gestelde voorwaarden dan wel niet meer is gevestigd als aangegeven in het eerste lid. Een instelling als bedoeld in het vierde lid wordt door de inspecteur bij voor bezwaar vatbare beschikking niet meer als zodanig aangemerkt met ingang van het tijdstip waarop deze instelling zich niet langer uitsluitend of nagenoeg uitsluitend richt op cultuur. Het tijdstip van intrekking kan liggen voor de datum van de dagtekening van de beschikking.   
-8.  Een instelling wordt eveneens door de inspecteur niet, of niet langer, als algemeen nut beogende instelling aangemerkt indien de instelling, een bestuurder van die instelling of een persoon die feitelijk leiding geeft aan die instelling, dan wel een voor de instelling gezichtsbepalend persoon onherroepelijk is veroordeeld wegens aanzetten tot haat, aanzetten tot geweld of gebruik van geweld en nog geen vier kalenderjaren zijn verstreken sinds deze veroordeling.   
-9.  Voor de toepassing van het vierde en het zesde tot en met achtste lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+8.  Een instelling wordt eveneens door de inspecteur niet, of niet langer, als algemeen nut beogende instelling aangemerkt indien de instelling, een bestuurder van die instelling, een persoon die feitelijk leiding geeft aan die instelling of een voor die instelling gezichtsbepalende persoon door een Nederlandse rechter onherroepelijk is veroordeeld wegens het opzettelijk plegen van een misdrijf als bedoeld in [artikel 67, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), mits: 
+
+a. het misdrijf is gepleegd in de hoedanigheid van bestuurder, feitelijk leidinggevende of gezichtsbepalend persoon van de instelling;  
+
+b. nog geen vier kalenderjaren zijn verstreken sinds de veroordeling, en  
+
+c. het misdrijf gezien zijn aard of de samenhang met andere door de algemeen nut beogende instelling of genoemde personen begane misdrijven een ernstige inbreuk op de rechtsorde oplevert.     
+9.  Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens, bedoeld in het eerste lid, onderdeel a, onder 2°, die openbaar worden gemaakt, alsmede met betrekking tot de wijze waarop deze gegevens via internet openbaar worden gemaakt.   
+10.  Voor de toepassing van het vierde en het zesde tot en met achtste lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 
 ### Artikel  5c  
 
@@ -194,6 +203,12 @@ d. die is gevestigd in het Koninkrijk, in een andere lidstaat van de Europese Un
 
 1.  Een steunstichting SBBI is een stichting die voldoet aan bij ministeriële regeling te stellen voorwaarden en die is opgericht uitsluitend met het doel geld in te zamelen ter ondersteuning van een sociaal belang behartigende instelling ten behoeve van een bij ministeriële regeling aan te wijzen doel.   
 2.  Het ontwerp van een ministeriële regeling als bedoeld in het eerste lid wordt ten minste vier weken voordat de regeling wordt vastgesteld, overgelegd aan de beide kamers der Staten-Generaal.   
+
+### Artikel  5e  
+
+1.  Indien tussen echtgenoten of gewezen echtgenoten een recht op of een plicht tot vergoeding bestaat op grond van [artikel 87 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), wordt bij de echtgenoot, onderscheidenlijk de gewezen echtgenoot, met het vergoedingsrecht ter zake hiervan geen voor de belastingwet relevant belang bij het onderliggende goed of een bestanddeel daarvan aanwezig geacht.   
+2.  Onder een recht op of een plicht tot vergoeding als bedoeld in het eerste lid wordt mede begrepen een recht op of een plicht tot vergoeding waarvan het verloop op grond van de [artikelen 95](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [96 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) overeenkomstig [artikel 87 van Boek 1 van dat wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) wordt bepaald.   
+3.  Het eerste en tweede lid zijn niet van toepassing indien bij overeenkomst wordt afgeweken van [artikel 87, eerste tot en met derde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
 
 ### Hoofdstuk  II  
 
@@ -265,6 +280,14 @@ De inspecteur neemt het besluit om aan hem die aangifte heeft gedaan, geen aansl
 1.  Ingeval de grootte van de belastingschuld eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, kan de inspecteur volgens bij ministeriële regeling te stellen regels aan de belastingplichtige een voorlopige aanslag opleggen tot ten hoogste het bedrag waarop de aanslag, met toepassing van de in artikel 15 voorgeschreven verrekening van de voorlopige aanslagen en de in de belastingwet aangewezen voorheffingen, vermoedelijk zal worden vastgesteld. Een voorlopige aanslag tot een positief bedrag wordt niet vastgesteld voor de aanvang van het tijdvak waarover de belasting wordt geheven.   
 2.  Een voorlopige aanslag tot een negatief bedrag die voor of in de loop van het tijdvak wordt vastgesteld, wordt aangeduid als voorlopige teruggaaf.   
 3.  Een voorlopige aanslag kan, met inachtneming van de vorige leden, door een of meer voorlopige aanslagen worden aangevuld.   
+4.  De belastingplichtige kan de inspecteur verzoeken om een voorlopige aanslag vast te stellen. Het verzoek om een voorlopige aanslag vast te stellen is geen aanvraag in de zin van [artikel 1:3, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+5.  De inspecteur kan afzien van het opleggen van een voorlopige aanslag of een voorlopige aanslag opleggen tot een ander bedrag dan volgt uit het eerste lid, indien: 
+
+a. gerede twijfel bestaat over de juistheid van het adresgegeven van de belastingplichtige of indien dit gegeven ontbreekt;  
+
+b.  dit onderdeel is nog niet in werking getreden;   
+
+c. de belastingplichtige niet of niet binnen de gestelde termijn aangifte voor de inkomstenbelasting heeft gedaan.     
 
 ### Artikel  14  
 
@@ -565,12 +588,6 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](.
 
 ####Beroep in cassatie bij de Hoge Raad
 
-### Artikel  27m  
-
-1.  De andere partij dan de partij die het hoger beroep heeft ingesteld, kan bij haar verweerschrift incidenteel hoger beroep instellen.   
-2.  De partij die het hoger beroep heeft ingesteld, wordt in de gelegenheid gesteld om binnen vier weken na verzending van het verweerschrift het incidentele hoger beroep te beantwoorden.   
-3.  Het gerechtshof kan de in het tweede lid bedoelde termijn verlengen.   
-
 ### Artikel  28  
 
 1.  De belanghebbende die bevoegd was om hoger beroep bij het gerechtshof in te stellen en Onze Minister kunnen bij de Hoge Raad beroep in cassatie instellen tegen: 
@@ -611,9 +628,12 @@ Op de behandeling van het beroep in cassatie zijn de [artikelen 8:14 tot en met 
 
 ### Artikel  29b  
 
-1.  De andere partij dan de partij die het beroep in cassatie heeft ingesteld, kan binnen acht weken na de dag van verzending van het beroepschrift een verweerschrift indienen.   
-2.  De partij kan bij het verweerschrift incidenteel beroep in cassatie instellen. In dat geval wordt de partij die beroep in cassatie heeft ingesteld, in de gelegenheid gesteld om binnen vier weken na verzending van het verweerschrift het incidentele beroep te beantwoorden.   
-3.  De Hoge Raad kan de in het eerste en tweede lid bedoelde termijnen verlengen.   
+1.  De andere partij dan de partij die het beroep in cassatie heeft ingesteld, kan binnen acht weken na de dag van verzending van het beroepschrift: 
+
+a. een verweerschrift indienen;  
+
+b. incidenteel beroep in cassatie instellen.     
+2.  De Hoge Raad kan de in het eerste lid en de in [artikel 8:110, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijnen verlengen.   
 
 ### Artikel  29c  
 
@@ -689,9 +709,10 @@ b. tussen de datum van ontvangst van dat verzoek of die aangifte en de datum van
 1.  Indien met betrekking tot de inkomstenbelasting of vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven een aanslag of een navorderingsaanslag met een door de belastingplichtige te betalen bedrag aan belasting wordt vastgesteld, wordt met betrekking tot die aanslag, onderscheidenlijk die navorderingsaanslag, aan de belastingplichtige rente – belastingrente – in rekening gebracht.   
 2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop de aanslag, onderscheidenlijk de navorderingsaanslag, invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en heeft als grondslag het te betalen bedrag aan belasting.   
 3.  Ingeval de aanslag is vastgesteld overeenkomstig de ingediende aangifte, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 19 weken na de datum van ontvangst van de aangifte.   
-4.  Ingeval de navorderingsaanslag is vastgesteld naar aanleiding van een verzoek, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 12 weken na de datum van ontvangst van het verzoek.   
-5.  Dit artikel is niet van toepassing met betrekking tot inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in [artikel 2.8, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), uitgezonderd te conserveren inkomen dat is ontstaan door toepassing van [artikel 3.58, eerste lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.64, eerste lid, van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-6.  Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting: het bedrag na de verrekening ingevolge: 
+4.  Geen belastingrente wordt in rekening gebracht ingeval de aanslag inkomstenbelasting of vennootschapsbelasting is vastgesteld overeenkomstig een ingediende aangifte die is ontvangen voor de eerste dag van de vierde maand na afloop van het tijdvak waarover de belasting wordt geheven.   
+5.  Ingeval de navorderingsaanslag is vastgesteld naar aanleiding van een verzoek, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 12 weken na de datum van ontvangst van het verzoek.   
+6.  Dit artikel is niet van toepassing met betrekking tot inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in [artikel 2.8, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), uitgezonderd te conserveren inkomen dat is ontstaan door toepassing van [artikel 3.58, eerste lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 3.64, eerste lid, van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+7.  Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting: het bedrag na de verrekening ingevolge: 
 
 a. artikel 15;  
 
@@ -706,7 +727,7 @@ c. [artikel 21, derde lid, van de Wet op de vennootschapsbelasting 1969](../../.
 a. de aanslag is overeenkomstig de ingediende aangifte, en  
 
 b. tussen de datum van ontvangst van die aangifte en de datum van vaststelling van de aanslag zijn meer dan 13 weken verstreken.     
-2.  Artikel 30fc, vijfde en zesde lid, is van overeenkomstige toepassing.   
+2.  Artikel 30fc, zesde en zevende lid, is van overeenkomstige toepassing.   
 3.  Ingeval met de aanslag geen voorlopige aanslag is verrekend, wordt de belastingrente enkelvoudig berekend over het tijdvak dat aanvangt 13 weken na ontvangst van de aangifte doch niet eerder dan 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven, en eindigt 6 weken na de dagtekening van het aanslagbiljet en heeft als grondslag het te betalen bedrag aan belasting.   
 4.  Ingeval met de aanslag wel een voorlopige aanslag is verrekend, vindt de renteberekening plaats overeenkomstig de renteberekening bij een herziening van een voorlopige aanslag inkomstenbelasting, onderscheidenlijk vennootschapsbelasting, bedoeld in artikel 30fb.   
 
@@ -731,7 +752,7 @@ c. indien het betreft een belastingaanslag als bedoeld in [artikel 8, vijfde lid
 
 ### Artikel  30h  
 
-1.  Met betrekking tot naheffingsaanslagen ter zake van loonbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns of een in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belasting, wordt aan degene ten name van wie de naheffingsaanslag is gesteld, rente – belastingrente – in rekening gebracht, ingeval de naheffingsaanslag is vastgesteld na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
+1.  Met betrekking tot naheffingsaanslagen ter zake van loonbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns, verbruiksbelasting van alcoholvrije dranken of een in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belasting, wordt aan degene ten name van wie de naheffingsaanslag is gesteld, rente – belastingrente – in rekening gebracht, ingeval de naheffingsaanslag is vastgesteld na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
 2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en heeft als grondslag de nageheven belasting.   
 3.  Het eerste lid vindt geen toepassing ingeval de naheffingsaanslag het gevolg is van een verbetering van een aangifte (suppletie), welke is gedaan binnen 3 maanden na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
 4.  Het eerste en tweede lid zijn van overeenkomstige toepassing voor zover een in het eerste lid bedoelde belasting te laat, doch voordat een naheffingsaanslag is vastgesteld, wordt betaald, behoudens ingeval de betaling plaatsvindt binnen 3 maanden na het einde van het kalenderjaar of boekjaar waarop de te laat betaalde belasting betrekking heeft. Belastingrente wordt berekend over het tijdvak dat aanvangt op de dag volgend op het kalenderjaar of boekjaar waarop de te laat betaalde belasting betrekking heeft en eindigt op de dag van betaling en heeft als grondslag het bedrag van de te laat betaalde belasting.   
@@ -745,13 +766,14 @@ c. indien het betreft een belastingaanslag als bedoeld in [artikel 8, vijfde lid
 
 ### Artikel  30hb  
 
-Het percentage van de belastingrente is gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
+1.  Het percentage van de belastingrente voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen is gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt.   
+2.  Het percentage van de belastingrente voor de vennootschapsbelasting is gelijk aan het ingevolge [artikel 120, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bepaalde percentage van de wettelijke rente, bedoeld in de [artikelen 119a](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [119b van Boek 6 van dat wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), met dien verstande dat een wijziging van de wettelijke rente eerst twee maanden na die wijziging leidt tot een aanpassing van de belastingrente en het eerstgenoemde percentage ten minste 8 bedraagt.   
 
 ### Artikel  30i  
 
 1.  Met betrekking tot de inkomstenbelasting wordt rente – revisierente – verschuldigd, indien: 
 
-a. door de toepassing van [artikel 19b, eerste lid, tweede lid, eerste volzin, of achtste lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) in verbinding met [artikel 3.81 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of van [artikel 3.83, eerste of tweede lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel artikel [7.2, achtste lid, van de laatstgenoemde wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) de aanspraak ingevolge een pensioenregeling of aanspraak op periodieke uitkeringen, bedoeld in [artikel 11, eerste lid, onderdeel g](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), of de stamrechtspaarrekening of het stamrechtbeleggingsrecht, bedoeld in [artikel 11a van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) tot het loon wordt gerekend;  
+a. door de toepassing van [artikel 19b, eerste lid of tweede lid, eerste volzin, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) in verbinding met [artikel 3.81 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of van [artikel 3.83, eerste of tweede lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan wel artikel [7.2, achtste lid, van de laatstgenoemde wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) de aanspraak ingevolge een pensioenregeling tot het loon wordt gerekend;  
 
 b. ingevolge [artikel 3.133](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.136](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of  [7.2, tweede lid, aanhef en onderdeel g, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) premies voor een aanspraak op periodieke uitkeringen als negatieve uitgaven voor inkomensvoorzieningen in aanmerking worden genomen, behoudens voorzover [artikel 3.69, eerste lid, aanhef en onderdeel b, van genoemde wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) met betrekking tot deze negatieve uitgaven voor inkomensvoorzieningen toepassing vindt;  
 
@@ -762,7 +784,7 @@ c. ingevolge [artikel 3.135](../../../../../../wet/wet/inkomstenbelasting/2001/B
 a. ingeval het betreft een aanspraak ingevolge een pensioenregeling of negatieve uitgaven voor inkomensvoorzieningen: de mogelijkheid zou bestaan de aftrek van de premies voor de aanspraak ongedaan te maken door navorderingsaanslagen over de jaren van die aftrek, of  
 
 b. ingeval het betreft een aanspraak op periodieke uitkeringen: de mogelijkheid zou bestaan de aanspraak tot inkomen uit werk en woning te rekenen in het jaar waarop de aanspraak is ontstaan en ter zake daarvan een navorderingsaanslag op te leggen.   Hierbij worden de bedragen van die navorderingsaanslagen gesteld op 50 percent van de premies, bedoeld in de vorige volzin onderdeel a, danwel van de aanspraak, bedoeld in de vorige volzin onderdeel b, en wordt het einde van het in artikel 30fc, tweede lid, bedoelde tijdvak gesteld op 31 december van het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten.   
-4.  Indien revisierente wordt berekend met betrekking tot inkomstenbelasting die betrekking heeft op inkomsten die in aanmerking zijn genomen op grond van de [artikelen 3.83, eerste of tweede lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.133, tweede lid, onderdelen h of j](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.136, eerste, tweede, derde, vierde of vijfde lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt bij de toepassing van het derde lid artikel 30fc, vijfde lid, buiten toepassing gelaten.   
+4.  Indien revisierente wordt berekend met betrekking tot inkomstenbelasting die betrekking heeft op inkomsten die in aanmerking zijn genomen op grond van de [artikelen 3.83, eerste of tweede lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.133, tweede lid, onderdelen h of j](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.136, eerste, tweede, derde, vierde of vijfde lid](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt bij de toepassing van het derde lid artikel 30fc, zesde lid, buiten toepassing gelaten.   
 
 ### Artikel  30j  
 
@@ -880,8 +902,7 @@ b. de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks 
 
 ### Artikel  47b  
 
-1.  Ieder die de inspecteur verzoekt hem een sociaal-fiscaalnummer toe te kennen dan wel een hem toegekend sociaal-fiscaalnummer aan hem bekend te maken, is ter vaststelling van zijn identiteit gehouden een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage te verstrekken aan de inspecteur, die de aard en het nummer van dat document in de administratie opneemt.   
-2.  Degene op wie de gegevens en inlichtingen, bedoeld in artikel 53, tweede en derde lid, betrekking hebben, is gehouden, volgens bij of krachtens de belastingwet te stellen regels, aan de administratieplichtige opgave te verstrekken van zijn burgerservicenummer of, bij het ontbreken daarvan, zijn sociaal-fiscaalnummer.   
+Degene op wie de gegevens en inlichtingen, bedoeld in artikel 53, tweede en derde lid, betrekking hebben, is gehouden, volgens bij of krachtens de belastingwet te stellen regels, aan de administratieplichtige opgave te verstrekken van zijn burgerservicenummer.  
 
 ### Artikel  48  
 
@@ -895,7 +916,7 @@ b. de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks 
 
 ### Artikel  49a  
 
-1.  Bij ministeriële regeling wordt aangewezen degene die is gehouden bij het verrichten van de in die ministeriële regeling aan te wijzen werkzaamheden het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer te gebruiken ten behoeve van de rijksbelastingdienst. Voor aanwijzing komt niet in aanmerking een overheidsorgaan als bedoeld in [artikel 1, onderdeel c, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of degene aan wie het burgerservicenummer is toegekend. Onder werkzaamheden als bedoeld in de eerste volzin wordt mede verstaan het doen van aangifte.   
+1.  Bij ministeriële regeling wordt aangewezen degene die is gehouden bij het verrichten van de in die ministeriële regeling aan te wijzen werkzaamheden het burgerservicenummer te gebruiken ten behoeve van de rijksbelastingdienst. Voor aanwijzing komt niet in aanmerking een overheidsorgaan als bedoeld in [artikel 1, onderdeel c, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) of degene aan wie het burgerservicenummer is toegekend. Onder werkzaamheden als bedoeld in de eerste volzin wordt mede verstaan het doen van aangifte.   
 2.  Op het ontwerp van een ministeriële regeling als bedoeld in het eerste lid, is [artikel 51, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  50  
@@ -942,7 +963,7 @@ a. de belastingheffing van derden;
 
 b. de heffing van de belasting waarvan de inhouding aan hen is opgedragen.     
 2.  Onverminderd de verplichtingen, bedoeld in het eerste lid, zijn de bij of krachtens de belastingwet aan te wijzen administratieplichtigen gehouden de bij of krachtens de belastingwet aan te wijzen gegevens en inlichtingen waarvan de kennisneming voor de heffing van de belasting van belang kan zijn eigener beweging te verstrekken aan de inspecteur volgens bij of krachtens de belastingwet te stellen regels.   
-3.  De administratieplichtigen, bedoeld in het tweede lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer te vermelden van degene op wie de gegevens en inlichtingen betrekking hebben.   
+3.  De administratieplichtigen, bedoeld in het tweede lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, het burgerservicenummer te vermelden van degene op wie de gegevens en inlichtingen betrekking hebben.   
 4.  Het bepaalde in het eerste lid, aanhef en onderdeel *a*, is niet van toepassing op de personen en de lichamen als bedoeld in artikel 55, voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.   
 5.  Ingeval een administratieplichtige een door de inspecteur op het eerste lid, aanhef en onderdeel a, gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De inspecteur beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.   
 
@@ -1068,7 +1089,7 @@ c. bekendmaking plaatsvindt aan degene op wie de gegevens betrekking hebben voor
 
 1.  Degene die niet voldoet aan de verplichting hem opgelegd bij of krachtens: 
 
-a. de artikelen 6, derde lid, 43, 44, 47b, tweede lid, 49, tweede lid, en 50, eerste lid;  
+a. de artikelen 6, derde lid, 43, 44, 47b, 49, tweede lid, en 50, eerste lid;  
 
 b. [artikel 7, tweede lid, van de Wet op de kansspelbelasting](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
@@ -1089,6 +1110,12 @@ f. [artikel 54 van de Wet op belastingen van rechtsverkeer](../../../../../../we
 ### Paragraaf  2  
 
 ####Vergrijpboeten
+
+### Artikel  67cc  
+
+1.  Indien het aan opzet van de belastingplichtige is te wijten dat in een verzoek om het vaststellen van een voorlopige aanslag of in een verzoek om herziening als bedoeld in [artikel 9.5 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [artikel 27 van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag voor de boete.   
+2.  De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van de onjuiste of onvolledige gegevens of inlichtingen ten onrechte is of zou zijn teruggegeven of ten onrechte niet is of zou zijn betaald.   
+3.  De bevoegdheid tot het opleggen van de boete, bedoeld in het eerste lid, vervalt vijf jaren na het tijdstip waarop het verzoek is gedaan.   
 
 ### Artikel  67d  
 
@@ -1126,7 +1153,7 @@ b. indien verliezen in aanmerking zijn of worden genomen, het bedrag waarop de n
 
 ### Artikel  67fa  
 
-Bij toepassing van [artikel 5:1, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt voor zover nodig: 
+Bij toepassing van [artikel 5:1, tweede en derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt voor zover nodig: 
 
 a. de voorwaarde van gelijktijdigheid, bedoeld in de artikelen 67c, tweede lid, 67d, eerste lid, 67e, eerste lid, en 67f, derde lid;  
 
@@ -1149,6 +1176,18 @@ Indien de grondslag voor een bestuurlijke boete wordt gevormd door het bedrag va
 
 1.  Wanneer de belastingplichtige uiterlijk twee jaar nadat hij een onjuiste of onvolledige aangifte heeft gedaan of aangifte had moeten doen, alsnog een juiste en volledige aangifte doet, dan wel juiste en volledige inlichtingen, gegevens of aanwijzingen verstrekt vóórdat hij weet of redelijkerwijs moet vermoeden dat de inspecteur met de onjuistheid of onvolledigheid bekend is of bekend zal worden, wordt geen vergrijpboete opgelegd.   
 2.  Ook na het verstrijken van de in het eerste lid bedoelde termijn van twee jaar is het alsnog doen van een juiste en volledige aangifte, dan wel het verstrekken van juiste en volledige inlichtingen, gegevens of aanwijzingen door de belastingplichtige vóórdat hij weet of redelijkerwijs moet vermoeden dat de inspecteur met de onjuistheid of onvolledigheid bekend is of bekend zal worden, een omstandigheid die aanleiding geeft tot matiging van de vergrijpboete.   
+
+### Artikel  67o  
+
+1.  In afwijking van [artikel 5:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt onder overtreder mede verstaan: 
+
+a. degene die de overtreding doet plegen;  
+
+b. degene die door giften, beloften, misbruik van gezag, geweld, bedreiging, misleiding of het verschaffen van gelegenheid, middelen of inlichtingen de overtreding opzettelijk uitlokt;  
+
+c. degene die als medeplichtige opzettelijk behulpzaam is bij of opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van de overtreding.     
+2.  De bestuurlijke boete, bedoeld in de artikelen 67a, 67b, 67c en 67ca, kan niet worden opgelegd aan een medeplichtige.   
+3.  Indien de bestuurlijke boete, bedoeld in de artikelen 67cc, 67d, 67e en 67f, wordt opgelegd aan een medeplichtige, wordt het bedrag van de boete dat ten hoogste kan worden opgelegd met een derde verminderd.   
 
 ### Artikel  67p  
 
@@ -1208,6 +1247,12 @@ g. het uitreiken van een factuur of nota, en een onjuiste of onvolledige factuur
 5.  Artikel 68, derde lid, is van overeenkomstige toepassing.   
 6.  Indien de schuldige een van de strafbare feiten, omschreven in het eerste en tweede lid, in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.   
 
+### Artikel  69a  
+
+1.  Degene die opzettelijk de belasting welke op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet, dan wel niet binnen de in de belastingwet gestelde termijn betaalt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig betaalde belasting.   
+2.  Artikel 69, zesde lid, is van overeenkomstige toepassing.   
+3.  Niet strafbaar is degene die de ontvanger tijdig heeft verzocht uitstel van betaling te verlenen of die onverwijld nadat gebleken is dat het lichaam niet tot betaling in staat is schriftelijk mededeling heeft gedaan aan de ontvanger.   
+
 ### Afdeling  1A  
 
 ####Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
@@ -1257,6 +1302,8 @@ d. het alsnog voldoen aan een bij de belastingwet gestelde verplichting.
 ### Afdeling  2A  
 
 ####Aanvullende algemene bepalingen van strafrecht (douane)
+
+Vervallen per 01-08-2008   
 
 ### Afdeling  3  
 
@@ -1324,6 +1371,8 @@ b. het misdrijf omschreven in [artikel 184 van het Wetboek van Strafrecht](../..
 ### Afdeling  4  
 
 ####Aanvullende algemene bepalingen van strafvordering (douane)
+
+Vervallen per 01-08-2008   
 
 ### Hoofdstuk  X  
 

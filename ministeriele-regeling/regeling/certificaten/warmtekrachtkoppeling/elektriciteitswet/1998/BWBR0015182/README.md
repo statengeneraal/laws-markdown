@@ -435,7 +435,7 @@ h. E-mail adres:
 
 i. Inschrijfnummer Kamer van Koophandel te ..........:  
 
-j. Sofi-nummer:  
+j. Burgerservicenummer:  
 
 k. SBI-code **niet verplicht**:   
 ### *2. Locatiegegevens productie-installatie* 

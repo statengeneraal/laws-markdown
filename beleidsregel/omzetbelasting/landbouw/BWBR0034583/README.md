@@ -2,7 +2,7 @@
 
 ##Omzetbelasting, landbouw
 
-De Staatssecretaris van Financiën heeft het volgende besloten.    *Dit besluit is een actualisering van het*[besluit van 15 juni 2006](../../../../beleidsregel/omzetbelasting/besluit/landbouw/BWBR0019967/README.md)*, nr.* CPP2005/3096M. In het besluit is onder meer opgenomen hoe de landbouwregeling uitwerkt bij de levering en de opfok van paarden *(*onderdelen 2.3*en*2.4*) en is de zogenoemde veehandelsregeling verduidelijkt* (onderdeel 7.1*). Naast een aantal andere wijzigingen (zie ook*onderdeel 1.2*) zijn redactionele aanpassingen doorgevoerd.*   
+De Staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit is een actualisering van het* [besluit van 15 juni 2006](../../../../beleidsregel/omzetbelasting/besluit/landbouw/BWBR0019967/README.md)*, nr. *CPP2005/3096M. In het besluit is onder meer opgenomen hoe de landbouwregeling uitwerkt bij de levering en de opfok van paarden *(*onderdelen 2.3 *en* 2.4*) en is de zogenoemde veehandelsregeling verduidelijkt *(onderdeel 7.1*). Naast een aantal andere wijzigingen (zie ook* onderdeel 1.2*) zijn redactionele aanpassingen doorgevoerd.*    
 ### 1  
 
 ####Inleiding
@@ -12,21 +12,21 @@ In [artikel 27 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/o
 
 ####Gebruikte begrippen en afkortingen
 
-*Wet:* [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   
+*Wet:* [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
 *Btw:* omzetbelasting  
 
-*Uitvoeringsbesluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)   
+*Uitvoeringsbesluit:*[ Uitvoeringsbesluit omzetbelasting 1968](../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)  
 
-*Uitvoeringsbeschikking:* [Uitvoeringsbeschikking omzetbelasting 1968](../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)   
+*Uitvoeringsbeschikking:* [Uitvoeringsbeschikking omzetbelasting 1968](../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)  
 
-*btw-richtlijn:*Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde  
+*btw-richtlijn:* Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde  
 
 *Landbouwer:* de landbouwer(s), veehouder(s), tuinbouwer(s) en bosbouwer(s) als bedoeld in [artikel 27 van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
 *Landbouwbedrijf:* landbouwbedrijf, veehouderij, tuinbouwbedrijf en bosbouwbedrijf.  
 
-*AWR:* [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)   
+*AWR:* [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
 
 *HvJ:* Hof van Justitie van de Europese Unie  
 
@@ -233,7 +233,7 @@ Volgens [artikel 27, tweede lid, van de wet](../../../../wet/wet/op/de/omzetbela
 
 ####Kleine ondernemersregeling
 
-In [artikel 27, zevende lid, van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) is bepaald dat de in [artikel 25 van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) opgenomen zogenoemde kleine-ondernemersregeling toepassing mist voor landbouwers die prestaties verrichten als bedoeld in artikel 27, eerste lid, van de wet. Het gaat hierbij om landbouwers voor zover zij prestaties verrichten als bedoeld in artikel 27, eerste lid van de wet . <sup> 1  HR 14 november 1984, nr. 22 527  </sup> Dit betekent dat zowel de landbouwer die gebruik maakt van de landbouwregeling als de landbouwer die op zijn eigen verzoek op de normale wijze in de btw-heffing is betrokken, de kleine-ondernemersregeling kan toepassen op andere prestaties dan bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Daarbij moet uiteraard voldaan zijn aan de eisen die gelden voor toepassing van de kleine ondernemersregeling. De landbouwer die de landbouwregeling toepast, moet met betrekking tot de niet onder de landbouwregeling vallende prestaties een administratie voeren die aan de gestelde eisen voldoet.    
+In [artikel 27, zevende lid, van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) is bepaald dat de in [artikel 25 van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) opgenomen zogenoemde kleine-ondernemersregeling toepassing mist voor landbouwers die prestaties verrichten als bedoeld in artikel 27, eerste lid, van de wet. Het gaat hierbij om landbouwers voor zover zij prestaties verrichten als bedoeld in artikel 27, eerste lid van de wet<sup> 1 HR 14 november 1984, nr. 22 527 </sup>. Dit betekent dat zowel de landbouwer die gebruik maakt van de landbouwregeling als de landbouwer die op zijn eigen verzoek op de normale wijze in de btw-heffing is betrokken, de kleine-ondernemersregeling kan toepassen op andere prestaties dan bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). Daarbij moet uiteraard voldaan zijn aan de eisen die gelden voor toepassing van de kleine ondernemersregeling. De landbouwer die de landbouwregeling toepast, moet met betrekking tot de niet onder de landbouwregeling vallende prestaties een administratie voeren die aan de gestelde eisen voldoet.    
 ### 3.4  
 
 ####Teruggaaf bij afstandsverkopen
@@ -717,7 +717,7 @@ Als een landbouwer van de overheid of van derden een financiële tegemoetkoming 
 
 ####Bedrijfstoeslagrechten
 
-Vanaf 1 januari 2006 kunnen landbouwers onder bepaalde voorwaarden in aanmerking komen voor een bedrijfstoeslag. Deze bedrijfstoeslag vervangt een aantal voor de genoemde datum bestaande landbouwsubsidies/premies, waarvan de hoogte is gekoppeld aan de omvang van de productie van de betrokken landbouwer. Het juridisch kader voor de bedrijfstoeslagregeling is opgenomen in de EG- verordening 1122/2009 PbEG L316/65. De hoogte van de bedrijfstoeslag is niet afhankelijk van de omvang van de door de betrokken landbouwer gerealiseerde productie. Per landbouwbedrijf kan één bedrijfstoeslag worden verleend. In deze bedrijfstoeslag zijn de voor 1 januari 2006 bestaande premies opgenomen. De toeslagrechten dragen primair het karakter van inkomenssteun voor landbouwers. Uit de opzet van bedrijfstoeslagregeling blijkt dat deze regeling er niet toe strekt de landbouwproductie te bevorderen, maar veeleer ten doel heeft de landbouwproductie binnen de EU te verminderen. De omstandigheid dat de hoogte van de bedrijfstoeslag is gebaseerd op de historische productie van de landbouwer en de daaraan gekoppelde landbouwsubsidies leveren in btw-technische zin geen relatie op tussen de bedrijfstoeslag en bepaalde prestaties van de betrokken landbouwers. Van een prijssubsidie zoals beschreven in onderdeel 8.1 is dan ook geen sprake. De beperkingen waaraan de landbouwers zijn gebonden voor uitbetaling van de bedrijfstoeslagrechten (onder meer met betrekking tot het gebruik van landbouwgrond en het naleven van milieuvoorwaarden) zijn dusdanig algemeen, dat niet geconcludeerd kan worden tot een prestatie die de betrokken landbouwers verrichten aan de overheid. De bedrijfstoeslagrechten zijn om die reden evenmin aan te merken als een vergoeding voor een prestatie die de betrokken landbouwers verrichten aan de subsidieverstrekker of aan een identificeerbare derde. Uit het hiervoor vermelde volgt dat de bedrijfstoeslagrechten niet aan btw-heffing zijn onderworpen. De bedrijfstoeslagrechten zijn te beschouwen als vorderingsrechten, zodat ook voor de overdracht van die rechten btw-heffing achterwege blijft met toepassing van [artikel 11, eerste lid, onderdeel j, ten tweede, van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).    
+Vanaf 1 januari 2006 kunnen landbouwers onder bepaalde voorwaarden in aanmerking komen voor een bedrijfstoeslag. Deze bedrijfstoeslag vervangt een aantal voor de genoemde datum bestaande landbouwsubsidies/premies, waarvan de hoogte is gekoppeld aan de omvang van de productie van de betrokken landbouwer. Het juridisch kader voor de bedrijfstoeslagregeling is opgenomen in de EG-verordening 1122/2009 PbEG L316/65. De hoogte van de bedrijfstoeslag is niet afhankelijk van de omvang van de door de betrokken landbouwer gerealiseerde productie. Per landbouwbedrijf kan één bedrijfstoeslag worden verleend. In deze bedrijfstoeslag zijn de voor 1 januari 2006 bestaande premies opgenomen. De toeslagrechten dragen primair het karakter van inkomenssteun voor landbouwers. Uit de opzet van bedrijfstoeslagregeling blijkt dat deze regeling er niet toe strekt de landbouwproductie te bevorderen, maar veeleer ten doel heeft de landbouwproductie binnen de EU te verminderen. De omstandigheid dat de hoogte van de bedrijfstoeslag is gebaseerd op de historische productie van de landbouwer en de daaraan gekoppelde landbouwsubsidies leveren in btw-technische zin geen relatie op tussen de bedrijfstoeslag en bepaalde prestaties van de betrokken landbouwers. Van een prijssubsidie zoals beschreven in onderdeel 8.1 is dan ook geen sprake. De beperkingen waaraan de landbouwers zijn gebonden voor uitbetaling van de bedrijfstoeslagrechten (onder meer met betrekking tot het gebruik van landbouwgrond en het naleven van milieuvoorwaarden) zijn dusdanig algemeen, dat niet geconcludeerd kan worden tot een prestatie die de betrokken landbouwers verrichten aan de overheid. De bedrijfstoeslagrechten zijn om die reden evenmin aan te merken als een vergoeding voor een prestatie die de betrokken landbouwers verrichten aan de subsidieverstrekker of aan een identificeerbare derde. Uit het hiervoor vermelde volgt dat de bedrijfstoeslagrechten niet aan btw-heffing zijn onderworpen. De bedrijfstoeslagrechten zijn te beschouwen als vorderingsrechten, zodat ook voor de overdracht van die rechten btw-heffing achterwege blijft met toepassing van [artikel 11, eerste lid, onderdeel j, ten tweede, van de wet](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).    
 ### 8.3  
 
 ####(Tijdelijke) overdracht van rechten
@@ -772,8 +772,8 @@ Den Haag
 20 december 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers  
+Staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
 ### Bijlage  I  
 
@@ -783,9 +783,9 @@ Ondergetekende: Naam: Adres: Woonplaats: verklaart dat ten aanzien van de door h
 
 * – hoeveelheid goederen:  
 
-* – omschrijving goederen/diensten:   Totaal in rekening gebracht bedrag € Dagtekening: Ondertekening verkoper:  
+* – omschrijving goederen/diensten:   Totaal in rekening gebracht bedrag € Dagtekening: Ondertekening verkoper: 
 
-### Bijlage  II  
+### Bijlage II 
 
 ####bij besluit BLKB 2013/2253M
 
@@ -795,5 +795,5 @@ Ondergetekende: Naam: Adres: Woonplaats: Verklaart dat het hieronder nader gespe
 
 – soort vee;  
 
-– aantal stuks vee;   (per soort) In rekening gebrachte bedrag (koopsom) € (per soort) Dagtekening: Ondertekening verkoper:  
+– aantal stuks vee;   (per soort) In rekening gebrachte bedrag (koopsom) € (per soort) Dagtekening: Ondertekening verkoper: 
 

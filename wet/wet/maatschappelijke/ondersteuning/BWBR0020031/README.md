@@ -52,6 +52,8 @@ h. huishoudelijke verzorging: het ondersteunen bij of het overnemen van activite
 
 i. steunfunctiewerk: activiteiten die het uitvoeren of voorbereiden daarvan, ondersteunen van het door de gemeente te voeren beleid betreffende maatschappelijke ondersteuning;  
 
+j. Richtlijn 2004/38/EG: Richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) 1612/68 en tot intrekking van Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU L 158);  
+
 j. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 k. huiselijk geweld: lichamelijk, geestelijk of seksueel geweld of bedreiging daarmee door iemand uit de huiselijke kring;  
@@ -153,9 +155,10 @@ b. op welke wijze de verkrijging van individuele voorzieningen samenhangend afge
 
 ### Artikel  8  
 
-1.  Een vreemdeling kan voor het verlenen van een individuele voorziening of het verstrekken van een uitkering als bedoeld in artikel 19a slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
-2.  In afwijking van het eerste lid kunnen in bij of krachtens algemene maatregel van bestuur te noemen gevallen, zo nodig in afwijking van [artikel 10 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), bij of krachtens die maatregel aan te geven categorieën niet-rechtmatig in Nederland verblijvende vreemdelingen, geheel of gedeeltelijk in aanmerking komen voor bij die maatregel aan te geven individuele voorzieningen of voor een uitkering als bedoeld in artikel 19a. Het in aanmerking komen voor een individuele voorziening of uitkering als bedoeld in artikel 19a geeft een vreemdeling geen recht op rechtmatig verblijf.   
-3.  In de in het tweede lid genoemde maatregel kan worden bepaald dat het college van burgemeester en wethouders zorg draagt voor het verlenen van bij die maatregel aangewezen voorzieningen.   
+1.  Een vreemdeling kan voor het verlenen van een individuele voorziening, vrouwenopvang of het verstrekken van een uitkering als bedoeld in artikel 19a slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+2.  Een vreemdeling kan voor het verlenen van maatschappelijke opvang slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), met uitzondering van de gevallen, bedoeld in artikel 24, tweede lid, van Richtlijn 2004/38/EG.   
+3.  In afwijking van het eerste of het tweede lid kunnen in bij of krachtens algemene maatregel van bestuur te noemen gevallen, zo nodig in afwijking van [artikel 10 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), bij of krachtens die maatregel aan te geven categorieën niet rechtmatig in Nederland verblijvende vreemdelingen, geheel of gedeeltelijk in aanmerking komen voor bij die maatregel aan te geven voorzieningen of voor een uitkering als bedoeld in artikel 19a. Het in aanmerking komen voor een voorziening of uitkering als bedoeld in artikel 19a geeft een vreemdeling geen recht op rechtmatig verblijf.   
+4.  In de in het derde lid genoemde maatregel kan worden bepaald dat het college van burgemeester en wethouders zorg draagt voor het verlenen van bij die maatregel aangewezen voorzieningen.   
 
 ### Artikel  9  
 
@@ -224,18 +227,22 @@ Provinciale staten onderscheidenlijk gedeputeerde staten dragen zorg voor het vo
 
 ### Artikel  15  
 
-1.  De gemeenteraad kan bij verordening bepalen dat een persoon van 18 jaren of ouder aan wie maatschappelijke ondersteuning is verleend, voor zover die ondersteuning bestaat uit het verlenen van een individuele voorziening in natura of een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en niet bestaat uit een aan hem verleende financiële tegemoetkoming, een eigen bijdrage is verschuldigd.   
+1.  De gemeenteraad kan bij verordening bepalen dat een persoon van 18 jaren of ouder aan wie maatschappelijke ondersteuning is verleend, een eigen bijdrage verschuldigd is: 
+
+a. voor zover die ondersteuning bestaat uit het verlenen van een individuele voorziening in natura of een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en niet bestaat uit een aan hem verleende financiële tegemoetkoming,  
+
+b. voor zover de ondersteuning bestaat uit maatschappelijke opvang, waaronder vrouwenopvang.     
 2.  De hoogte van de eigen bijdrage kan voor de verschillende soorten van maatschappelijke ondersteuning verschillend worden vastgesteld en mede afhankelijk gesteld worden van het inkomen en vermogen van degene aan wie maatschappelijke ondersteuning is verleend en van zijn echtgenoot.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de eigen bijdrage.   
 4.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het derde lid, die betrekking heeft op het in het tweede lid bedoelde vermogen, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.   
 
 ### Artikel  16  
 
-Een eigen bijdrage wordt vastgesteld en geïnd door het CAK.  
+Een eigen bijdrage wordt, met uitzondering van die voor maatschappelijke opvang en vrouwenopvang, vastgesteld en geïnd door het CAK.  
 
 ### Artikel  18  
 
-Bij algemene maatregel van bestuur aan te wijzen personen en instellingen kunnen het burgerservicenummer, of bij het ontbreken daarvan het sociaal-fiscaalnummer, van een persoon die een eigen bijdrage verschuldigd is, gebruiken voor zover dat noodzakelijk is ter uitvoering van de artikelen 16 en 19, waarbij eveneens van dat nummer gebruik kan worden gemaakt: 
+Bij algemene maatregel van bestuur aan te wijzen personen en instellingen kunnen het burgerservicenummer, van een persoon die een eigen bijdrage verschuldigd is, gebruiken voor zover dat noodzakelijk is ter uitvoering van de artikelen 16 en 19, waarbij eveneens van dat nummer gebruik kan worden gemaakt: 
 
 a. in het verkeer met de persoon op wie het nummer betrekking heeft, en  
 
@@ -355,11 +362,6 @@ Het steunpunt huiselijk geweld verwerkt persoonsgegevens ten behoeve van de goed
 1.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft persoonsgegevens uitsluitend verwerken indien dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
 2.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
 3.  Derden die op grond van een wettelijk voorschrift of op grond van hun ambt of beroep tot geheimhouding zijn verplicht kunnen, zonder toestemming van degene die het betreft, aan een steunpunt huiselijk geweld desgevraagd of uit eigen beweging inlichtingen verstrekken waarover zij beroepshalve beschikken, indien dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden van huiselijk geweld te onderzoeken.   
-
-### Artikel  21e  
-
-1.  Het college van burgemeester en wethouders verstrekt een steunpunt huiselijk geweld op zijn verzoek terstond de algemene gegevens, bedoeld in [artikel 34, eerste lid, onder a, onderdelen 1 tot en met 6 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), die noodzakelijk zijn voor de uitvoering van de taken, bedoeld in artikel 21b, tweede lid.   
-2.  In afwijking van [artikel 103, eerste en tweede lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) doet het college van burgemeester en wethouders geen mededeling aan de betrokkene of degene die namens deze daarom verzoekt, over de verstrekking van hem betreffende gegevens uit de gemeentelijke basisadministratie aan het steunpunt, voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of een redelijk vermoeden daarvan te onderzoeken. Voor wat betreft de toepassing van [artikel 110 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) heeft het achterwege blijven van een mededeling als hier bedoeld dezelfde gevolgen als het achterwege blijven van een mededeling ingevolge artikel 103, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens.   
 
 ### Artikel  21f  
 

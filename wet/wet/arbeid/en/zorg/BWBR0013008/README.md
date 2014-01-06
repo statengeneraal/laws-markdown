@@ -248,6 +248,15 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 2.  De uitkering wordt betaald over iedere dag, doch niet over de zaterdagen en de zondagen.   
 3.  De artikelen [40](../../../../../../wet/ziektewet/BWBR0001888/README.md), [41](../../../../../../wet/ziektewet/BWBR0001888/README.md), [47a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [48](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [85 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) zijn van overeenkomstige toepassing.   
 
+### Artikel  3:14a  
+
+####Opschorting betaling bij vertrek naar onbekende bestemming
+
+1.  Is van de aanvrager of ontvanger van een uitkering in verband met zwangerschap en bevalling bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
+2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering aan de persoon, die recht heeft op de uitkering, op.   
+3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de toeslag op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.   
+
 ####Financiering
 
 ### Artikel  3:15  
@@ -580,7 +589,7 @@ b. een inwonend kind tot wie de werknemer als ouder in een familierechtelijke be
 
 c. een inwonend kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
-d. een pleegkind dat blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in [artikel 28b, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in [artikel 28b, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
 e. een bloedverwant in de eerste graad, niet zijnde een kind.     
 
@@ -741,7 +750,7 @@ Van dit hoofdstuk kan uitsluitend ten nadele van de werknemer worden afgeweken b
 ### Artikel  6:1  
 
 1.  De werknemer die als ouder in familierechtelijke betrekking staat tot een kind, heeft recht op verlof zonder behoud van loon. Indien de werknemer met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan, bestaat er ten aanzien van ieder van die kinderen recht op verlof.   
-2.  De werknemer die blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als een kind en duurzaam de verzorging en de opvoeding van dat kind als eigen kind op zich heeft genomen, heeft recht op verlof zonder behoud van loon. Indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op verlof. In alle andere gevallen waarin de in de eerste volzin gestelde voorwaarden voor meer dan één kind met ingang van hetzelfde tijdstip worden vervuld, bestaat er slechts recht op één keer verlof.   
+2.  De werknemer die blijkens de basisregistratie personen op hetzelfde adres woont als een kind en duurzaam de verzorging en de opvoeding van dat kind als eigen kind op zich heeft genomen, heeft recht op verlof zonder behoud van loon. Indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op verlof. In alle andere gevallen waarin de in de eerste volzin gestelde voorwaarden voor meer dan één kind met ingang van hetzelfde tijdstip worden vervuld, bestaat er slechts recht op één keer verlof.   
 3.  Indien de arbeid buiten Nederland wordt verricht heeft de werknemer recht op het verlof bedoeld in dit artikel, tenzij een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.   
 
 ### Artikel  6:1a  

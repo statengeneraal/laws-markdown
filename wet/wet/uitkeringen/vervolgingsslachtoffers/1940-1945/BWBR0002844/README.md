@@ -163,9 +163,9 @@ b. In afwijking van het bepaalde onder a wordt, indien de vervolging in het voor
 6.  Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.   
 7.  De in de vorige leden, behoudens in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2013: € 2.034,51 en  
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2014: € 2.045,29 en  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2013: € 4.223,62.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2014: € 4.246,01.     
 8.  De in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
 a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2013: 4.717.917 rupiah en  
@@ -193,9 +193,9 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;  
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2013: € 2.759,96;  
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2014: € 2.774,59;  
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2013: € 2.568,13.     
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2014: € 2.581,74.     
 2.   
 
 a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
@@ -320,7 +320,7 @@ d. de overige inkomsten, met uitzondering van inkomsten van de echtgenoot van de
 2.  Bij de toepassing van het bepaalde in het eerste lid, onder a, b en d, worden jaarlijkse vakantie-uitkeringen van de uitkeringsgerechtigde voor 1/12 deel per maand op de uitkering in mindering gebracht.   
 3.  Met inkomsten uit tegenwoordige arbeid worden gelijkgesteld uitkeringen op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), alsmede de daarmede vergelijkbare uitkeringen welke worden verleend aan het overheidspersoneel.   
 4.  Indien toepassing is gegeven aan artikel 11 worden de inkomsten uit arbeid in beroep of bedrijf in mindering gebracht voorzover de som van de uitkering en die inkomsten de grondslag, bedoeld in artikel 8, overtreft.   
-5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2013: € 837,55 per jaar wordt vrijgelaten.   
+5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2014: € 850,63 per jaar wordt vrijgelaten.   
 6.  Bij bedrijfsbeëindiging vindt het bepaalde in het eerste lid, onder *c* en het vijfde lid, van dat tijdstip af overeenkomstige toepassing.   
 7.  Tot de inkomsten bedoeld in het eerste lid worden niet gerekend doelgerichte subsidies of tegemoetkomingen, waaronder begrepen de vermeerdering, bedoeld in de [artikelen 10](../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [11 van de Wet buitengewoon pensioen 1940-1945](../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), de [artikelen 9](../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en [10 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en de [artikelen 12](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [13](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) en [14 van de Wet buitengewoon pensioen Indisch verzet](../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), voorzover deze de toeslag, bedoeld in artikel 10, derde lid, of het bedrag, bedoeld in artikel 21b, indien dit is toegekend, overschrijdt.   
 8.  Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op enig pensioen als bedoeld in artikel 17, derde lid, en op dat pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) van tenminste 40% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), vermeerderd met 40% van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), zijn het eerste tot en met achtste lid van toepassing, met dien verstande dat, in afwijking van het eerste lid, onder b, op schriftelijk verzoek van de uitkeringsgerechtigde 50% van het aan de uitkeringsgerechtigde en de echtgenoot toegekende bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), met inbegrip van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), op de uitkering in mindering wordt gebracht.   
@@ -376,7 +376,7 @@ b. in afwijking van het vijfde lid, onder a, het in dat artikelonderdeel bedoeld
 ### Artikel  30  
 
 1.  De toekenning van een uitkering, vergoeding of tegemoetkoming geschiedt naar aanleiding van een daartoe bij de Raad of de Sociale verzekeringsbank ingediende aanvraag.   
-2.  De Raad of de Sociale verzekeringsbank kent geen uitkering, vergoeding of tegemoetkoming toe dan nadat is vastgesteld dat het door de aanvrager opgegeven adres overeenstemt met het hem betreffende adresgegeven in de gemeentelijke basisadministratie.   
+2.  De Raad of de Sociale verzekeringsbank kent geen uitkering, vergoeding of tegemoetkoming toe dan nadat is vastgesteld dat het door de aanvrager opgegeven adres overeenstemt met het hem betreffende adresgegeven in de basisregistratie personen.   
 3.  Het bepaalde in het tweede lid is niet van toepassing indien de aanvrager in het buitenland gevestigd is.   
 4.  De Raad of de Sociale verzekeringsbank kan het tweede lid buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.   
 5.  Op de aanvraag wordt de datum van ontvangst aangetekend.   
@@ -484,7 +484,7 @@ De uitkeringsgerechtigde, diens wettelijke vertegenwoordiger en de persoon aan w
 ### Artikel  41  
 
 1.  Alle ambtenaren, tot afgifte van uittreksels uit registers van de burgerlijke stand bevoegd, zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
-2.  De gemeentebesturen zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde inlichtingen uit de basisadministratie persoonsgegevens kosteloos toe te zenden.   
+2.  De gemeentebesturen zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde inlichtingen uit de basisregistratie personen persoonsgegevens kosteloos toe te zenden.   
 
 ### Hoofdstuk  VII  
 

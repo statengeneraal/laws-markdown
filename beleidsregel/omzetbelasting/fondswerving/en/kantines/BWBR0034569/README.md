@@ -12,19 +12,19 @@ De Staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit
 
 ####Gebruikte begrippen en afkortingen
 
-*wet:* [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   
+*wet:* [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
 *btw:* omzetbelasting  
 
-*vrijstellingsbepaling:* [artikel 11, eerste lid, onderdeel v, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   
+*vrijstellingsbepaling:* [artikel 11, eerste lid, onderdeel v, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
-*uitvoeringsbesluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)   
+*uitvoeringsbesluit:* [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)  
 
-*uitvoeringsbeschikking:* [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)   
+*uitvoeringsbeschikking:* [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)  
 
-*btw-richtlijn:*Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde  
+*btw-richtlijn:* Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde  
 
-*AWR:* [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)   
+*AWR:* [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
 
 *HvJ:* Hof van Justitie van de Europese Unie      
 ### 1.2  
@@ -42,7 +42,7 @@ Dit besluit bevat de volgende (beleidsmatige) wijzigingen ten opzichte van het [
 
 ####De wettelijke vrijstelling voor fondswerving
 
-Bepaalde organisaties waarvan de primaire activiteiten zijn vrijgesteld van de heffing van btw zijn op grond van [artikel 11, eerste lid, onderdeel v, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) ook voor fondswerving vrijgesteld. Onder fondswerving wordt verstaan: het verrichten van leveringen en diensten van bijkomstige aard, voor zover die leveringen en diensten voortvloeien uit activiteiten ter verkrijging van financiële steun. Voor de toepassing van de vrijstellingsbepaling gelden de volgende grensbedragen: <sup> 1  Het gaat om organisaties bedoeld in artikel 11, eerste lid, onderdeel c, d, e, f, o onder 1° of t, van de wet.  </sup> 
+Bepaalde organisaties<sup> 1 Het gaat om organisaties bedoeld in artikel 11, eerste lid, onderdeel c, d, e, f, o onder 1° of t, van de wet. </sup> waarvan de primaire activiteiten zijn vrijgesteld van de heffing van btw zijn op grond van [artikel 11, eerste lid, onderdeel v, van de wet](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) ook voor fondswerving vrijgesteld. Onder fondswerving wordt verstaan: het verrichten van leveringen en diensten van bijkomstige aard, voor zover die leveringen en diensten voortvloeien uit activiteiten ter verkrijging van financiële steun. Voor de toepassing van de vrijstellingsbepaling gelden de volgende grensbedragen: 
 
 – voor leveringen mogen de ontvangsten niet méér bedragen dan € 68.067 per jaar;  
 
@@ -61,12 +61,12 @@ De fondswerving door organisaties kan bestaan uit het verrichten van leveringen 
 
 – het maken van reclame voor ondernemers, veelal als tegenprestatie voor sponsoring. Hierbij maakt het niet uit of de sponsoring bestaat uit geld of goederen (bijvoorbeeld sportkleding);  
 
-– de verhuur van lig- en bergplaatsen aan passanten van een watersportvereniging . Hieronder is ook begrepen het daarmee samenhangende gelegenheid geven tot parkeren van voertuigen. <sup> 2  Het gaat dan om een organisatie die is vrijgesteld op grond van artikel 11, lid 1, onderdeel e, van de wet.  </sup>   Het uitlenen/detacheren van personeel kan niet als een fondswervende dienst worden aangemerkt.   
+– de verhuur van lig- en bergplaatsen aan passanten van een watersportvereniging<sup> 2 Het gaat dan om een organisatie die is vrijgesteld op grond van artikel 11, lid 1, onderdeel e, van de wet. </sup>. Hieronder is ook begrepen het daarmee samenhangende gelegenheid geven tot parkeren van voertuigen.   Het uitlenen/detacheren van personeel kan niet als een fondswervende dienst worden aangemerkt.   
 ### 2.1.1  
 
 ####Kantineactiviteiten
 
-Het HvJ heeft bepaald dat de verstrekking van vers bereide spijzen of etenswaren voor onmiddellijke consumptie een levering van goederen vormt als blijkt dat de diensten waarmee de levering van de etenswaren gepaard gaat niet overheersen. <sup> 3  HvJ 10 maart 2011, nrs. C-497/09, C-499/09, C-501/09 en C-502/09 (Manfred Bog en anderen).  </sup> Dit heeft tot gevolg dat leveringen van spijzen en dranken in/vanuit kantines aangemerkt worden als fondswervende leveringen. In kantines is immers in het algemeen geen sprake van een bijzonder dienstbetoon zoals dat bij restaurants wel het geval is. Tot de hiervoor bedoelde fondswervende leveringen worden alleen die kantineactiviteiten gerekend die als normale nevenactiviteit van de betreffende organisatie worden beschouwd. Van een normale nevenactiviteit is sprake als de kantineactiviteiten worden verricht in samenhang met de primaire activiteiten van de betreffende organisatie. Niet hieronder valt daarom het verstrekken van spijzen en dranken ter gelegenheid van evenementen die in de persoonlijke sfeer van derden of individuele leden liggen, zoals bruiloften, feesten en jubilea . Voor kantineactiviteiten bestaat voor bepaalde instellingen overigens ook een bijzondere regeling (zie onderdeel 4 van dit besluit). <sup> 4  Zie ook artikel 7a uitvoeringsbeschikking (vanaf 1 januari 2014).  </sup> Voor sportverenigingen worden ook als normale nevenactiviteit beschouwd de kantineactiviteiten die samenhangen met activiteiten die door derden in de sportaccommodatie worden verricht, in het geval dat: 
+Het HvJ<sup> 3 HvJ 10 maart 2011, nrs. C-497/09, C-499/09, C-501/09 en C-502/09 (Manfred Bog en anderen). </sup> heeft bepaald dat de verstrekking van vers bereide spijzen of etenswaren voor onmiddellijke consumptie een levering van goederen vormt als blijkt dat de diensten waarmee de levering van de etenswaren gepaard gaat niet overheersen. Dit heeft tot gevolg dat leveringen van spijzen en dranken in/vanuit kantines aangemerkt worden als fondswervende leveringen. In kantines is immers in het algemeen geen sprake van een bijzonder dienstbetoon zoals dat bij restaurants wel het geval is. Tot de hiervoor bedoelde fondswervende leveringen worden alleen die kantineactiviteiten gerekend die als normale nevenactiviteit van de betreffende organisatie worden beschouwd. Van een normale nevenactiviteit is sprake als de kantineactiviteiten worden verricht in samenhang met de primaire activiteiten van de betreffende organisatie. Niet hieronder valt daarom het verstrekken van spijzen en dranken ter gelegenheid van evenementen die in de persoonlijke sfeer van derden of individuele leden liggen, zoals bruiloften, feesten en jubilea<sup> 4 Zie ook artikel 7a uitvoeringsbeschikking (vanaf 1 januari 2014). </sup>. Voor kantineactiviteiten bestaat voor bepaalde instellingen overigens ook een bijzondere regeling (zie onderdeel 4 van dit besluit). Voor sportverenigingen worden ook als normale nevenactiviteit beschouwd de kantineactiviteiten die samenhangen met activiteiten die door derden in de sportaccommodatie worden verricht, in het geval dat: 
 
 – de sportieve activiteiten van derden overeen komen met de sport die wordt beoefend door de vereniging of de sportaccommodatie voor die sportieve activiteiten is ingericht;  
 
@@ -119,7 +119,7 @@ Voor toepassing van deze goedkeuring geldt de voorwaarde dat voor de wederverkoo
 
 ####Bijzondere evenementen/acties voor een ‘goed doel’
 
-Het komt voor dat uit ideële overwegingen bijzondere evenementen worden georganiseerd. De opbrengst van die evenementen wordt aangewend voor een ’goed doel‘ zoals kankerbestrijding of hulp aan aidspatiënten. De organiserende ondernemers zullen voor deze evenementen in de regel op de normale wijze btw verschuldigd zijn . Dit is het geval als de ondernemer op eigen naam prestaties tegen vergoeding verricht, zoals bijvoorbeeld een galadiner waarbij ook optredens door artiesten en een veiling van goederen plaatsvinden. Kenmerkend voor deze bijzondere ‘goed doel’ evenementen is dat de afnemers voor de aangeboden prestaties een substantieel hogere prijs betalen dan voor vergelijkbare goederen of diensten, die buiten de context van het bijzondere evenement worden aangeboden. Vaak wordt een veelvoud betaald van de prijs van een vergelijkbare prestatie. Met toepassing van [artikel 63 AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule), keur ik het volgende goed. <sup> 5  Zie voor een situatie waarin geen sprake was van ondernemerschap HR 14 mei 2004, nr. 39 324.  </sup> 
+Het komt voor dat uit ideële overwegingen bijzondere evenementen worden georganiseerd. De opbrengst van die evenementen wordt aangewend voor een ’goed doel‘ zoals kankerbestrijding of hulp aan aidspatiënten. De organiserende ondernemers zullen voor deze evenementen in de regel op de normale wijze btw verschuldigd zijn<sup> 5 Zie voor een situatie waarin geen sprake was van ondernemerschap HR 14 mei 2004, nr. 39 324. </sup>. Dit is het geval als de ondernemer op eigen naam prestaties tegen vergoeding verricht, zoals bijvoorbeeld een galadiner waarbij ook optredens door artiesten en een veiling van goederen plaatsvinden. Kenmerkend voor deze bijzondere ‘goed doel’ evenementen is dat de afnemers voor de aangeboden prestaties een substantieel hogere prijs betalen dan voor vergelijkbare goederen of diensten, die buiten de context van het bijzondere evenement worden aangeboden. Vaak wordt een veelvoud betaald van de prijs van een vergelijkbare prestatie. Met toepassing van [artikel 63 AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule), keur ik het volgende goed. 
 ### *Goedkeuring* 
 
 Ik keur onder de volgende voorwaarden goed dat het in de opbrengst van bijzondere evenementen voor de levering van goederen en het verrichten van diensten te onderkennen giftelement buiten de heffing van btw blijft.  *Voorwaarden*  Voor toepassing van deze goedkeuring gelden de volgende voorwaarden: 
@@ -206,5 +206,5 @@ Den Haag
 18 december 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

@@ -36,9 +36,9 @@ b. instelling:
 
 b1. kenniscentrum beroepsonderwijs bedrijfsleven: kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1;  
 
-c. openbare instelling: een instelling in stand gehouden door een gemeente dan wel door een openbaar lichaam, ingesteld bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), waarin deelnemen een of meer gemeenten, al dan niet te zamen met een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid;  
+c. openbare instelling: een instelling in stand gehouden door een gemeente dan wel door een openbaar lichaam, ingesteld bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen, waarin deelnemen een of meer gemeenten, al dan niet te zamen met een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid;  
 
-d. bijzondere instelling: een instelling die uitgaat van een rechtspersoon met volledige rechtsbevoegdheid niet zijnde een rechtspersoon als bedoeld in [artikel 2:1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+d. bijzondere instelling: een instelling die uitgaat van een rechtspersoon met volledige rechtsbevoegdheid niet zijnde een rechtspersoon als bedoeld in artikel 2:1 van het Burgerlijk Wetboek;  
 
 e. exameninstelling: een instelling als bedoeld in artikel 1.6.1;  
 
@@ -76,7 +76,7 @@ q. volwassene: een in Nederland woonachtige van 18 jaren of ouder;
 
 r. studiejaar: het tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgend jaar;  
 
-s. inspectie: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+s. inspectie: de inspectie, bedoeld in de Wet op het onderwijstoezicht;  
 
 t. kwalificatie: de kwalificatie, bedoeld in artikel 7.1.3;  
 
@@ -102,7 +102,7 @@ w. bevoegd gezag:
 
 x. waarborgfonds: het fonds, bedoeld in artikel 2.8.1;  
 
-y. persoonsgebonden nummer: het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 8.1.1a, vierde lid;  
+y. persoonsgebonden nummer: het burgerservicenummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer, dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 8.1.1a, vierde lid;  
 
 z. personeel: 
 
@@ -110,22 +110,22 @@ z. personeel:
 
 2. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld aan de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven, tenzij het betreft de toepassing van de artikelen 3.1.2, 3.2.1, 3.3.1, 4.1.1, 4.1.2 tot en met 4.1.6, 4.3.1 tot en met 4.3.5, en de toepassing van daarmee verband houdende wettelijke bepalingen;    
 
-aa. uitkering: uitkering als bedoeld in [artikel 2, eerste lid, van de Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md);  
+aa. uitkering: uitkering als bedoeld in artikel 2, eerste lid, van de Wet participatiebudget;  
 
-bb. sociaal-fiscaalnummer: het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onder k, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
+bb.  vervallen;   
 
-cc. meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in [artikel 24h van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+cc. meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in artikel 24h van de Wet op het onderwijstoezicht;  
 
-dd. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+dd. basisregister onderwijs: basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
-ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).    
+ee. ondernemingsraad: een ondernemingsraad als bedoeld in de Wet op de ondernemingsraden.    
 
 ### Artikel  1.1.3  
 
 ####Aard bepalingen
 
-1.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1 tot en met 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, tweede lid, 8.1.3, eerste tot en met derde lid, 8.1.4 tot en met 8.2.1, 8.4.1, 8.4.2 en 9.1.2, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn regels voor openbare instellingen voor educatie en beroepsonderwijs.   
-2.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.3.9, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.1.5, eerste lid, 4.1.6 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.   
+1.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.7.1, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1 tot en met 4.1.4, 4.2.1 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, tweede lid, 8.1.3, eerste tot en met derde lid, 8.1.4 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2 en 9.1.2, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn regels voor openbare instellingen voor educatie en beroepsonderwijs.   
+2.  De bepalingen vastgesteld bij of krachtens de artikelen 1.3.6, 1.3.8, 1.3.9, 1.7.1, 2.1.9, 2.8.1 tot en met 2.8.3, 3.2.1, 4.1.1, 4.1.2, 4.1.4, 4.1.5, eerste lid, 4.1.6 tot en met 4.2.5, 6.4.1 tot en met 6.4.4, hoofdstuk 7, met uitzondering van artikel 7.4.7 en met uitzondering van titel 6, de artikelen 8.1.1, 8.1.1a, 8.1.2, eerste lid, 8.1.3 tot en met 8.2.1, 8.4.1, 8.4.2, 8.5.1, 8.5.2, 9.1.1, 9.1.3, eerste lid, 9.1.4, 9.1.7 en 9.1.8, alsmede de bepalingen vastgesteld in hoofdstuk 8a voor zover zij de instellingen betreffen, zijn voorwaarden voor bekostiging voor bijzondere instellingen voor educatie en beroepsonderwijs.   
 
 ### Titel  2  
 
@@ -135,7 +135,7 @@ ee. ondernemingsraad: een ondernemingsraad als bedoeld in de [Wet op de ondernem
 
 ####Doelstellingen onderwijs
 
-1.  Educatie is gericht op bevordering van de zelfredzaamheid van volwassenen en sluit waar mogelijk aan op het ingangsniveau van het beroepsonderwijs. Educatie omvat activiteiten op het niveau van het basisonderwijs en het voortgezet onderwijs. Opleidingen voortgezet algemeen volwassenenonderwijs zijn gericht op het behalen van een diploma van onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  Educatie is gericht op bevordering van de zelfredzaamheid van volwassenen en sluit waar mogelijk aan op het ingangsniveau van het beroepsonderwijs. Educatie omvat activiteiten op het niveau van het basisonderwijs en het voortgezet onderwijs. Opleidingen voortgezet algemeen volwassenenonderwijs zijn gericht op het behalen van een diploma van onderwijs als bedoeld in de artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs.   
 2.  Beroepsonderwijs is gericht op de theoretische en praktische voorbereiding voor de uitoefening van beroepen, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn. Het beroepsonderwijs bevordert tevens de algemene vorming en de persoonlijke ontplooiing van de deelnemers en draagt bij tot het maatschappelijk functioneren. Beroepsonderwijs sluit aan op het voorbereidend beroepsonderwijs en het algemeen voortgezet onderwijs. Beroepsonderwijs omvat niet het hoger onderwijs.   
 
 ### Titel  3  
@@ -181,7 +181,7 @@ b. het verzorgen van opleidingen voortgezet algemeen volwassenenonderwijs die op
 
 ####Agrarische opleidingscentra
 
-1.  Agrarische opleidingscentra zijn instellingen waarin beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel en voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel, bedoeld in [artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden verzorgd. Voor zover dat bij wet is bepaald, kan aan een agrarisch opleidingscentrum tevens ander voortgezet onderwijs worden verzorgd.   
+1.  Agrarische opleidingscentra zijn instellingen waarin beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel en voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel, bedoeld in artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs, worden verzorgd. Voor zover dat bij wet is bepaald, kan aan een agrarisch opleidingscentrum tevens ander voortgezet onderwijs worden verzorgd.   
 2.  Artikel 1.3.1, derde lid, onder a, en vijfde lid, is van overeenkomstige toepassing.   
 
 ### §  2  
@@ -238,8 +238,8 @@ Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft 
 
 ####Verplichting tot overleg en aangifte inzake zedenmisdrijven
 
-1.  Indien het bevoegd gezag op enigerlei wijze bekend is geworden dat een ten behoeve van zijn instelling met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) jegens een minderjarige deelnemer van de instelling, treedt het bevoegd gezag onverwijld in overleg met de vertrouwensinspecteur, bedoeld in [artikel 6 van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md).   
-2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat er sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige deelnemer van de instelling, doet het bevoegd gezag onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en stelt het bevoegd gezag de vertrouwensinspecteur daarvan onverwijld in kennis. Voordat het bevoegd gezag overgaat tot het doen van aangifte, stelt het de ouders van de betrokken deelnemer, onderscheidenlijk de betreffende ten behoeve van de instelling met taken belaste persoon, hiervan op de hoogte.   
+1.  Indien het bevoegd gezag op enigerlei wijze bekend is geworden dat een ten behoeve van zijn instelling met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in Titel XIV van het Wetboek van Strafrecht jegens een minderjarige deelnemer van de instelling, treedt het bevoegd gezag onverwijld in overleg met de vertrouwensinspecteur, bedoeld in artikel 6 van de Wet op het onderwijstoezicht.   
+2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat er sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige deelnemer van de instelling, doet het bevoegd gezag onverwijld aangifte bij een opsporingsambtenaar als bedoeld in artikel 127 juncto artikel 141 van het Wetboek van Strafvordering, en stelt het bevoegd gezag de vertrouwensinspecteur daarvan onverwijld in kennis. Voordat het bevoegd gezag overgaat tot het doen van aangifte, stelt het de ouders van de betrokken deelnemer, onderscheidenlijk de betreffende ten behoeve van de instelling met taken belaste persoon, hiervan op de hoogte.   
 3.  Indien een personeelslid bekend is geworden dat een ten behoeve van de instelling met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige deelnemer van de instelling, stelt het personeelslid het bevoegd gezag daarvan onverwijld in kennis.   
 
 ### Artikel  1.3.9  
@@ -247,8 +247,8 @@ Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft 
 ####Meldcode huiselijk geweld en kindermishandeling
 
 1.  Het bevoegd gezag stelt voor het personeel van zijn instelling een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  Het bevoegd gezag bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
@@ -260,11 +260,11 @@ Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft 
 
 ####Andere instellingen voor beroepsonderwijs
 
-1.  Onze Minister besluit op aanvraag van het bevoegd gezag van een andere dan een in artikel 1.1.1, onder b, bedoelde instelling of van een instelling dat aan de met goed gevolg afgelegde examens of onderdelen van examens van een beroepsopleiding, verzorgd door die instelling, een diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden, indien de desbetreffende instelling voor die opleiding in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van: 
+1.  Onze Minister besluit op aanvraag van het bevoegd gezag van een andere dan een in artikel 1.1.1, onder b, bedoelde instelling of van een instelling dat aan de met goed gevolg afgelegde examens of onderdelen van examens van een beroepsopleiding in de beroepsopleidende leerweg of van een beroepsopleiding in de beroepsbegeleidende leerweg, verzorgd door die instelling, een diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden, indien de desbetreffende instelling voor die opleiding in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van: 
 
 a. de kwaliteitszorg, bedoeld in artikel 1.3.6,  
 
-b. het onderwijs, met uitzondering van artikel 7.1.1, en de examens,  
+b. het onderwijs, met uitzondering van artikel 7.1.1 en de examens,  
 
 c. de rechtsbescherming van de deelnemers, bedoeld in hoofdstuk 7, titel 5,  
 
@@ -273,6 +273,7 @@ d. de onderwijsovereenkomst, bedoeld in artikel 8.1.3, eerste tot en met derde l
 e. de vooropleidingseisen, bedoeld in artikel 8.2.1, en  
 
 f. de opneming in het Centraal register.   Het bevoegd gezag voegt bij deze aanvraag in elk geval een beschrijving van de regeling voor het onderwijsprogramma en de examens, bedoeld in artikel 7.4.8, voor de beroepsopleiding waarop de aanvraag betrekking heeft.   
+1a.  Het eerste lid is van overeenkomstige toepassing op een beroepsopleiding in andere dan in het eerste lid genoemde leerwegen, met dien verstande dat voor die opleiding artikel 7.2.2, tweede lid, niet van toepassing is en ten aanzien van het onderwijs artikel 7.2.7, eerste lid, niet in acht behoeft te worden genomen voor wat betreft de eisen met betrekking tot voldoende begeleide onderwijsuren en uren beroepspraktijkvorming en artikel 7.2.7, tweede tot en met achtste lid, niet in acht behoeft te worden genomen. Het tweede tot en met zevende lid zijn van overeenkomstige toepassing.   
 2.  Onze Minister besluit binnen drie maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen drie maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 3.  Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister de nodige inlichtingen omtrent de instelling. Het bevoegd gezag doet Onze Minister jaarlijks voor 1 maart een verslag toekomen omtrent de werkzaamheden van de instelling voor zover betrekking hebbend op beroepsopleidingen.   
 4.  Voor zover ten aanzien van een instelling toepassing is gegeven aan het eerste lid, wordt die instelling voor de toepassing van deze wet aangemerkt als een niet uit ’s Rijks kas bekostigde instelling.   
@@ -327,8 +328,10 @@ f. de artikelen 8.3.1 tot en met 8.3.3.
 
 ####Samenwerking met onbekostigde VO-scholen
 
-1.  Het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, tweede lid, waarvoor wat betreft een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, toepassing is gegeven aan artikel 1.4a.1, eerste lid, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1, zesde lid, eerste volzin, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens [artikel 58a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge [artikel 56 van de Wet op het voorgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aangewezen school.   
-2.  Indien het bevoegd gezag van een ingevolge [artikel 56 van de Wet op het voorgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aangewezen school ter uitvoering van [artikel 58a, eerste en tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, onderwijs wil kunnen laten volgen dat een instelling als bedoeld in artikel 1.4a.1, tweede lid, van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, bedoeld in artikel 58a, derde lid, aanhef en onder a tot en met d, van de Wet op het voortgezet onderwijs.   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, tweede lid, waarvoor wat betreft een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, toepassing is gegeven aan artikel 1.4a.1, eerste lid, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1, zesde lid, eerste volzin, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens artikel 58a van de Wet op het voortgezet onderwijs tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge artikel 56 van de Wet op het voorgezet onderwijs aangewezen school.   
+2.  Indien het bevoegd gezag van een ingevolge artikel 56 van de Wet op het voorgezet onderwijs aangewezen school ter uitvoering van artikel 58a, eerste en tweede lid, van de Wet op het voortgezet onderwijs leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, onderwijs wil kunnen laten volgen dat een instelling als bedoeld in artikel 1.4a.1, tweede lid, van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, bedoeld in artikel 58a, derde lid, aanhef en onder a tot en met d, van de Wet op het voortgezet onderwijs.   
 
 ### Titel  5  
 
@@ -375,7 +378,7 @@ c. de rechtsbescherming van de deelnemers, bedoeld in hoofdstuk 7, titel 5.
 ####Contractactiviteiten
 
 1.  Aan een instelling en een kenniscentrum beroepsonderwijs bedrijfsleven kunnen contractactiviteiten worden verricht, bestaande uit werkzaamheden voor eigen rekening ten behoeve van derden. Deze activiteiten kunnen worden verricht indien zij verband houden met werkzaamheden waarvoor de instelling of het kenniscentrum uit de openbare kas bekostigd wordt of, wat kenniscentra beroepsonderwijs bedrijfsleven betreft, met werkzaamheden verricht in het kader van dienstverlening jegens de instellingen en voor zover de uitvoering van die werkzaamheden hierdoor niet wordt geschaad.   
-2.  Het bevoegd gezag van een instelling en het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven dragen er zorg voor dat [artikel 2 van de Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) van toepassing blijft op het personeel.   
+2.  Het bevoegd gezag van een instelling en het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven dragen er zorg voor dat artikel 2 van de Wet privatisering ABP van toepassing blijft op het personeel.   
 3.  De vereisten voor benoembaarheid, bedoeld in artikel 4.2.1, eerste lid, zijn niet van toepassing op een docent voor zover deze is belast met het verrichten van contractactiviteiten.   
 4.  Het bevoegd gezag voorziet in een regeling voor het verrichten van contractactiviteiten door het personeel van de instelling en het kenniscentrum beroepsonderwijs bedrijfsleven met het oog op het voorkomen van vermenging van belangen.   
 
@@ -408,7 +411,7 @@ b. Onze Minister van Onderwijs, Cultuur en Wetenschap op aanvraag van de instell
 
 ####Vestiging en beëindiging bekostigingsaanspraak instellingen
 
-1.  Instellingen worden bij wet voor bekostiging in aanmerking gebracht. [Artikel 4:32 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de bekostiging van instellingen.   
+1.  Instellingen worden bij wet voor bekostiging in aanmerking gebracht. Artikel 4:32 van de Algemene wet bestuursrecht is niet van toepassing op de bekostiging van instellingen.   
 2.  Het eerste lid is niet van toepassing ten aanzien van: 
 
 a. instellingen die op grond van artikel 12.3.1 zoals dat luidde door de Wet van 11 april 2001, Stb. 207, of artikel 12.3.3 zoals dat luidde ingevolge de Wet educatie en beroepsonderwijs (Stb. 1995, 501) door Onze Minister voor bekostiging in aanmerking zijn gebracht, en  
@@ -417,11 +420,11 @@ b. instellingen die zijn voortgekomen
 
 1°. uit een samenvoeging of splitsing van bekostigde instellingen,  
 
-2°. uit een samenvoeging van een agrarisch opleidingscentrum met een school voor voorbereidend beroepsonderwijs in de sector landbouw, als bedoeld in [artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of  
+2°. uit een samenvoeging van een agrarisch opleidingscentrum met een school voor voorbereidend beroepsonderwijs in de sector landbouw, als bedoeld in artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs, of  
 
 3°. uit een omzetting van een bijzondere instelling in een openbare of omgekeerd.       
 3.  Indien aan een agrarisch opleidingscentrum gedurende twee achtereenvolgende jaren minder dan 1200 deelnemers zijn ingeschreven voor beroepsopleidingen of voor het voorbereidend beroepsonderwijs, bedoeld in artikel 1.3.3, kan Onze Minister besluiten dat aan die instelling de rechten, genoemd in artikel 1.3.1, ontnomen worden, onverminderd het overigens met betrekking tot ontneming van rechten in deze wet bepaalde.   
-4.  Onze Minister besluit binnen 26 weken na ontvangst van een aanvraag op grond van het tweede lid, onder b. Op het besluit bedoeld in het eerste lid is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het tweede lid, onder b.   
+4.  Onze Minister besluit binnen 26 weken na ontvangst van een aanvraag op grond van het tweede lid, onder b. Op het besluit bedoeld in het eerste lid is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van toepassing. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het tweede lid, onder b.   
 5.  Bij een beschikking op grond van het derde lid bepaalt Onze Minister het tijdstip waarop aan die instelling de rechten, genoemd in artikel 1.3.1, ontnomen worden zodanig dat de ingeschreven deelnemers de opleiding waarvoor zij zijn ingeschreven, aan dezelfde instelling of aan een andere instelling binnen een redelijke tijd kunnen voltooien.   
 
 ### Artikel  2.1.4  
@@ -438,7 +441,7 @@ b. instellingen die zijn voortgekomen
 1.  Onze Minister besluit op aanvraag van het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven over de aanvang van bekostiging van het kenniscentrum. Een aanvraag om te besluiten tot aanvang van de bekostiging wordt voor 1 februari van het jaar, voorafgaand aan het jaar waarin de bekostiging moet aanvangen, bij Onze Minister ingediend. De aanvraag omvat een aanduiding van het werkgebied van het kenniscentrum.   
 2.  Onze Minister betrekt bij de beoordeling van de aanvraag in elk geval de samenhang van de beroepsopleidingen in relatie tot een bepaalde bedrijfstak of groep van bedrijfstakken, alsmede de omvang van het werkgebied van het kenniscentrum beroepsonderwijs bedrijfsleven.   
 3.  Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een redelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
-4.  [Artikel 4:32 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de bekostiging van kenniscentra beroepsonderwijs bedrijfsleven.   
+4.  Artikel 4:32 van de Algemene wet bestuursrecht is niet van toepassing op de bekostiging van kenniscentra beroepsonderwijs bedrijfsleven.   
 
 ### Artikel  2.1.6  
 
@@ -460,7 +463,7 @@ a. *fusie:* een bestuurlijke of institutionele fusie,
 
 b. *institutionele fusie:* een fusie waarbij een instelling ontstaat door samenvoeging van twee of meer instellingen,  
 
-c. *bestuurlijke fusie:* een fusie waarbij een of meer rechtspersonen de instandhouding van een instelling, een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dan wel een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) overdragen.    
+c. *bestuurlijke fusie:* een fusie waarbij een of meer rechtspersonen de instandhouding van een instelling, een school als bedoeld in de Wet op het voortgezet onderwijs, dan wel een instelling als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek overdragen.    
 
 ### Artikel  2.1.9  
 
@@ -513,7 +516,7 @@ i. de wijze waarop de fusie wordt geëvalueerd.
 
 1.  Onze Minister besluit binnen 13 weken op een aanvraag als bedoeld in artikel 2.1.9.   
 2.  De termijn bedoeld in het eerste lid kan ten hoogste met 13 weken worden verlengd. Van deze verlenging wordt, binnen de 13 weken bedoeld in het eerste lid, mededeling gedaan aan de aanvrager.   
-3.  Op het besluit bedoeld in het eerste lid is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+3.  Op het besluit bedoeld in het eerste lid is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van toepassing.   
 
 ### Titel  2  
 
@@ -547,13 +550,13 @@ g. heffingen,
 
 h. inkoop van diensten,  
 
-i. kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid aan gewezen personeel alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), waaronder mede begrepen gewezen personeel dat was belast met werkzaamheden op het gebied van de educatie, met inbegrip van educatieve programma's als bedoeld in artikel 2.3.1, tweede lid, zoals luidend op 31 december 2008,  
+i. kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid aan gewezen personeel alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet, waaronder mede begrepen gewezen personeel dat was belast met werkzaamheden op het gebied van de educatie, met inbegrip van educatieve programma's als bedoeld in artikel 2.3.1, tweede lid, zoals luidend op 31 december 2008,  
 
 j. loopbaanoriëntatie en -begeleiding,  
 
 k. gehandicapte deelnemers, en  
 
-l. ten behoeve van het voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum: lesmateriaal als bedoeld in [artikel 6e van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+l. ten behoeve van het voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum: lesmateriaal als bedoeld in artikel 6e van de Wet op het voortgezet onderwijs.     
 4.  De bijdrage in de huisvestingskosten heeft betrekking op: 
 
 a. huur van gebouwen en terreinen,  
@@ -561,7 +564,7 @@ a. huur van gebouwen en terreinen,
 b. investeringen in gebouwen en terreinen, en  
 
 c. eerste inrichting.     
-5.  Op de rijksbijdrage wordt volgens bij of krachtens algemene maatregel van bestuur te stellen regels een bedrag in mindering gebracht in verband met cursusgelden zoals bedoeld in de [Les- en cursusgeldwet](../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md).   
+5.  Op de rijksbijdrage wordt volgens bij of krachtens algemene maatregel van bestuur te stellen regels een bedrag in mindering gebracht in verband met cursusgelden zoals bedoeld in de Les- en cursusgeldwet.   
 6.  Een in het eerste lid en in het vijfde lid bedoelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  2.2.2  
@@ -579,7 +582,7 @@ b. het aantal deelnemers en examendeelnemers dat een diploma als bedoeld in arti
 5.  Voor de toepassing van de maatstaf, bedoeld in het tweede lid, onder b, geldt dat een deelnemer of examendeelnemer in enig jaar slechts eenmaal wordt meegeteld bij het bepalen van het aantal deelnemers onderscheidenlijk examendeelnemers die een diploma als bedoeld in artikel 7.4.6 hebben behaald.   
 6.  Bij de toepassing van de maatstaf, bedoeld in het tweede lid, onder a, blijven buiten beschouwing deelnemers aan een deeltijdse opleiding waarvoor het bevoegd gezag een in instellingstijd verzorgd onderwijsprogramma, met inbegrip van de beroepspraktijkvorming, heeft ingericht dat minder dan 300 uren per volledig studiejaar omvat.   
 7.  In de maatstaven, bedoeld in het tweede lid, kan onderscheid worden gemaakt naar groepen van deelnemers en naar opleidingen.   
-8.  Deelnemers die niet zijn opgenomen in de basisadministratie persoonsgegevens, bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegegevens](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), tellen alleen mee, indien: 
+8.  Deelnemers die niet als ingezetene zijn ingeschreven in de basisregistratie personen tellen alleen mee, indien: 
 
 a. zij onderwijs, daaronder begrepen de beroepspraktijkvorming, in Nederland volgen, en  
 
@@ -601,20 +604,20 @@ b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen,
 2.  De rijksbijdrage wordt betaald volgens een door Onze Minister te bepalen kasritme.   
 3.  Zolang de rijksbijdrage niet is vastgesteld of nader vastgesteld, wordt daarop door Onze Minister een voorschot betaald. Het tweede lid is van overeenkomstige toepassing.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven met betrekking tot de uitvoering van deze paragraaf. Deze voorschriften hebben in elk geval betrekking op aard, inrichting en wijze van verstrekking van gegevens met betrekking tot de deelnemers.   
-5.  De in het vierde lid bedoelde gegevens die op enigerlei wijze een rol spelen in de berekeningswijze, bedoeld in artikel 2.2.2, gaan vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Deze gegevens en de verklaring worden ingediend voor een bij algemene maatregel van bestuur te bepalen tijdstip.   
+5.  De in het vierde lid bedoelde gegevens die op enigerlei wijze een rol spelen in de berekeningswijze, bedoeld in artikel 2.2.2, gaan vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Deze gegevens en de verklaring worden ingediend voor een bij algemene maatregel van bestuur te bepalen tijdstip.   
 
 ### Artikel  2.2.4a  
 
-####Gebruik burgerservicenummer of, bij het ontbreken daarvan, sociaal-fiscaalnummer door de minister
+####Gebruik burgerservicenummer door de minister
 
-1.  Onze Minister kan het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van een persoon, behorend tot gewezen personeel als bedoeld in artikel 2.2.1, vijfde lid, uitsluitend in het kader van het bepaalde bij of krachtens artikel 2.2.1, vijfde lid, gebruiken in het verkeer met: 
+1.  Onze Minister kan het burgerservicenummer van een persoon, behorend tot gewezen personeel als bedoeld in artikel 2.2.1, vijfde lid, uitsluitend in het kader van het bepaalde bij of krachtens artikel 2.2.1, vijfde lid, gebruiken in het verkeer met: 
 
 a. het gewezen personeelslid,  
 
 b. het bevoegd gezag van de instelling waar de in onderdeel a bedoelde persoon werkzaam was, of  
 
-c. de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsongeschiktheid alsmede de uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) verstrekt of heeft verstrekt.     
-2.  Het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer wordt op een daartoe strekkend verzoek van de minister aan de minister verstrekt door het bevoegd gezag van de instelling waar het gewezen personeelslid werkzaam was.   
+c. de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsongeschiktheid alsmede de uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet verstrekt of heeft verstrekt.     
+2.  Het burgerservicenummer wordt op een daartoe strekkend verzoek van de minister aan de minister verstrekt door het bevoegd gezag van de instelling waar het gewezen personeelslid werkzaam was.   
 
 ### §  2  
 
@@ -629,13 +632,13 @@ c. de instantie die de werkloosheidsuitkeringen, de suppleties inzake arbeidsong
 a. beroepsopleiding: een beroepsopleiding die op grond van artikel 2.1.1 voor bekostiging in aanmerking komt;  
 
 b. deelnemer: de aan een instelling ingeschreven deelnemer die een beroepsopleiding volgt waarvoor het bevoegd gezag een in instellingstijd verzorgd onderwijsprogramma heeft vastgesteld dat, met inbegrip van de beroepspraktijkvorming, een omvang van tenminste 300 uren per volledig studiejaar heeft.     
-2.  Voor de toepassing van deze paragraaf zijn de [artikelen 8a, eerste en tweede lid](../../../../../../wet/isovso/BWBR0003549/README.md), [28b, zesde lid tot en met achtste lid](../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van het zesde lid, onder f, [28c](../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van het eerste lid, onder b, en het derde lid, [28d](../../../../../../wet/isovso/BWBR0003549/README.md) en [71a van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) van overeenkomstige toepassing met dien verstande dat: 
+2.  Voor de toepassing van deze paragraaf zijn de artikelen 8a, eerste en tweede lid, 28b, zesde lid tot en met achtste lid, met uitzondering van het zesde lid, onder f, 28c, met uitzondering van het eerste lid, onder b, en het derde lid, 28d en 71a van de Wet op de expertisecentra van overeenkomstige toepassing met dien verstande dat: 
 
 a. onder leerling wordt verstaan: deelnemer als bedoeld in het eerste lid, onder b;  
 
 b. onder ouders van een leerling wordt verstaan: een deelnemer of de ouders, voogden of verzorgers van een deelnemer;  
 
-c. onder een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) of de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) wordt verstaan: een instelling als bedoeld in artikel 1.1.1, onder b, en een hogeschool als bedoeld in artikel 12.3.9;  
+c. onder een school als bedoeld in de Wet op het primair onderwijs of de Wet op het voortgezet onderwijs wordt verstaan: een instelling als bedoeld in artikel 1.1.1, onder b, en een hogeschool als bedoeld in artikel 12.3.9;  
 
 d. onder schooljaar wordt verstaan: studiejaar.     
 
@@ -643,8 +646,8 @@ d. onder schooljaar wordt verstaan: studiejaar.
 
 ####Leerlinggebonden budget
 
-1.  Het bevoegd gezag van een instelling geeft aan Onze Minister een melding van een inschrijving van een deelnemer dan wel een melding van een deelnemer die reeds staat ingeschreven voor wie op basis van een beoordeling door een commissie voor de indicatiestelling als bedoeld in [artikel 28c van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), een leerlinggebonden budget voor een cluster als bedoeld in [artikel 2, vierde lid, onder b, c of d, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) beschikbaar is.   
-2.  Onder beoordeling, bedoeld in het eerste lid, wordt verstaan een beoordeling als bedoeld in artikel 2.2.5, tweede lid, juncto [artikel 28c, eerste lid, onder a van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) alsmede een beoordeling als bedoeld in [artikel 28c, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) ten behoeve van een leerling in de zin van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) of de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) waarvan de duur van de indicatiestelling niet is verstreken.   
+1.  Het bevoegd gezag van een instelling geeft aan Onze Minister een melding van een inschrijving van een deelnemer dan wel een melding van een deelnemer die reeds staat ingeschreven voor wie op basis van een beoordeling door een commissie voor de indicatiestelling als bedoeld in artikel 28c van de Wet op de expertisecentra, een leerlinggebonden budget voor een cluster als bedoeld in artikel 2, vierde lid, onder b, c of d, van de Wet op de expertisecentra beschikbaar is.   
+2.  Onder beoordeling, bedoeld in het eerste lid, wordt verstaan een beoordeling als bedoeld in artikel 2.2.5, tweede lid, juncto artikel 28c, eerste lid, onder a van de Wet op de expertisecentra alsmede een beoordeling als bedoeld in artikel 28c, eerste lid, van de Wet op de expertisecentra ten behoeve van een leerling in de zin van de Wet op het primair onderwijs of de Wet op het voortgezet onderwijs waarvan de duur van de indicatiestelling niet is verstreken.   
 3.  Indien sprake is van een eerste inschrijving bij een instelling van een deelnemer voor wie een leerlinggebonden budget beschikbaar is dan wel indien een dergelijk budget voor het eerst beschikbaar komt voor een deelnemer die al staat ingeschreven bij een instelling, wordt met ingang van de eerste dag van de maand volgend op de in het eerste lid bedoelde melding aan het bevoegd gezag ten behoeve van die deelnemer een leerlinggebonden budget verleend voor de duur of de resterende duur van de indicatiestelling tot een maximum van zeven jaren in het beroepsonderwijs.   
 4.  Indien een deelnemer voor wie een leerlinggebonden budget beschikbaar is binnen de instelling verandert van leerweg, opleiding of opleidingsniveau, als bedoeld in artikel 7.2.2, tweede en derde lid, meldt het bevoegd gezag deze wijziging onverwijld aan Onze Minister. Met ingang van 1 augustus volgend op deze wijziging vervalt het oorspronkelijke leerlinggebonden budget en wordt een nieuw leerlinggebonden budget verleend voor de gewijzigde leerweg, de gewijzigde opleiding of het gewijzigde opleidingsniveau voor de duur of de resterende duur van de indicatiestelling totdat in totaal zeven jaren leerlinggebonden budget in het beroepsonderwijs voor de deelnemer is verstrekt.   
 5.  Indien de deelnemer, nadat het derde lid is toegepast, beroepsonderwijs aan een andere instelling gaat volgen, wordt met ingang van de eerste dag van de maand volgend op de in het eerste lid bedoelde melding aan het bevoegd gezag voor de deelnemer een leerlinggebonden budget verleend voor de duur of de resterende duur van de indicatiestelling totdat in totaal zeven jaren leerlinggebonden budget in het beroepsonderwijs voor de deelnemer is verstrekt. De vorige volzin is van overeenkomstige toepassing op een deelnemer die zich na uitschrijving opnieuw bij een instelling inschrijft en voor wie nog niet in totaal zeven jaren leerlinggebonden budget in het beroepsonderwijs is verstrekt.   
@@ -669,6 +672,8 @@ Bij de melding, bedoeld in artikel 2.2.6, eerste lid, geeft het bevoegd gezag te
 
 ####Bekostiging agrarische innovatie- en praktijkcentra
 
+Vervallen per 01-08-2007   
+
 ### Titel  2a  
 
 ####Bekostiging voortgezet algemeen volwassenenonderwijs
@@ -689,12 +694,12 @@ Bij de melding, bedoeld in artikel 2.2.6, eerste lid, geeft het bevoegd gezag te
 
 a. het aantal ingeschreven deelnemers,  
 
-b. het aantal deelnemers dat bij de instelling een diploma van onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) heeft behaald en  
+b. het aantal deelnemers dat bij de instelling een diploma van onderwijs als bedoeld in de artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs heeft behaald en  
 
-c. het aantal deelnemers dat bij de instelling een eindexamen of deeleindexamen heeft afgelegd in onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+c. het aantal deelnemers dat bij de instelling een eindexamen of deeleindexamen heeft afgelegd in onderwijs als bedoeld in de artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs.     
 3.  Voor de toepassing van de maatstaf, bedoeld in het tweede lid, onder a, blijven deelnemers die niet bij een instelling staan ingeschreven op een bij algemene maatregel van bestuur vastgesteld tijdstip buiten beschouwing en kan onderscheid worden gemaakt naar het aantal vakken waarvoor een deelnemer is ingeschreven.   
 4.  Voor de toepassing van de maatstaf, bedoeld in het tweede lid, onder c, kan onderscheid worden gemaakt naar het aantal vakken waarin de deelnemer met goed gevolg examen heeft afgelegd.   
-5.  Deelnemers die niet zijn opgenomen in de basisadministratie persoonsgegevens, bedoeld in de Wet gemeentelijke basisadministratie persoonsgegevens, tellen alleen mee voor de toepassing van dit artikel, indien: 
+5.  Deelnemers die niet zijn opgenomen in de basisregistratie personen tellen alleen mee voor de toepassing van dit artikel, indien: 
 
 a. zij onderwijs in Nederland volgen, en  
 
@@ -716,7 +721,7 @@ b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen,
 2.  De rijksbijdrage wordt betaald volgens een door Onze Minister te bepalen kasritme.   
 3.  Zolang de rijksbijdrage niet is vastgesteld of nader vastgesteld, wordt daarop door Onze Minister een voorschot betaald. Het tweede lid is van overeenkomstige toepassing.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven met betrekking tot de uitvoering van deze titel. Deze voorschriften hebben in elk geval betrekking op aard, inrichting en wijze van verstrekking van gegevens met betrekking tot de deelnemers.   
-5.  De in het vierde lid bedoelde gegevens die op enigerlei wijze een rol spelen in de berekeningswijze, bedoeld in artikel 2.2a.2  , gaan vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Deze gegevens en de verklaring worden ingediend voor een bij algemene maatregel van bestuur te bepalen tijdstip.   
+5.  De in het vierde lid bedoelde gegevens die op enigerlei wijze een rol spelen in de berekeningswijze, bedoeld in artikel 2.2a.2  , gaan vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Deze gegevens en de verklaring worden ingediend voor een bij algemene maatregel van bestuur te bepalen tijdstip.   
 
 ### Titel  3  
 
@@ -726,19 +731,19 @@ b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen,
 
 ####Uitkering educatie
 
-Mede ten behoeve van de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, ontvangt de gemeente op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) een uitkering.  
+Mede ten behoeve van de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, ontvangt de gemeente op grond van de Wet participatiebudget een uitkering.  
 
 ### Artikel  2.3.3  
 
 ####Gemeentelijk besluit educatiebedragen
 
-De gemeente waaraan een uitkering is verstrekt op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md) waaruit een bedrag moet worden besteed bij regionale opleidingencentra als bedoeld in [artikel 14 van de Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md), besluit jaarlijks voor 1 november tot een bij algemene maatregel van bestuur te bepalen tijdstip ten behoeve van het daaropvolgende kalenderjaar, welk deel van die uitkering zal worden bestemd voor educatieve activiteiten, onderscheiden naar de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, en in voorkomende gevallen naar doelgroepen.  
+De gemeente waaraan een uitkering is verstrekt op grond van de Wet participatiebudget waaruit een bedrag moet worden besteed bij regionale opleidingencentra als bedoeld in artikel 14 van de Wet participatiebudget, besluit jaarlijks voor 1 november tot een bij algemene maatregel van bestuur te bepalen tijdstip ten behoeve van het daaropvolgende kalenderjaar, welk deel van die uitkering zal worden bestemd voor educatieve activiteiten, onderscheiden naar de opleidingen, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, en in voorkomende gevallen naar doelgroepen.  
 
 ### Artikel  2.3.4  
 
 ####Overeenkomst uitkering educatie
 
-1.  Tot een bij algemene maatregel van bestuur te bepalen tijdstip berust in afwijking van [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de betaling van de bedragen aan de regionale opleidingencentra voor de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, op een door het college met het bevoegd gezag van het desbetreffende regionale opleidingencentrum gesloten overeenkomst of overeenkomsten. De [titels 4.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
+1.  Tot een bij algemene maatregel van bestuur te bepalen tijdstip berust in afwijking van titel 4.2 van de Algemene wet bestuursrecht de betaling van de bedragen aan de regionale opleidingencentra voor de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, op een door het college met het bevoegd gezag van het desbetreffende regionale opleidingencentrum gesloten overeenkomst of overeenkomsten. De titels 4.1 en 4.2 van de Algemene wet bestuursrecht zijn niet van toepassing.   
 2.  Een overeenkomst als bedoeld in het eerste lid heeft ten minste betrekking op: 
 
 a. de aard van de activiteiten,  
@@ -796,17 +801,17 @@ l. indien van toepassing de reden van het uitstromen; en
 m. de locatie waar het onderwijs wordt gevolgd.     
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en vijfde lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en vijfde lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en vijfde lid. Bij de ministeriële regelingen, bedoeld in de eerste en tweede volzin, kan onderscheid worden gemaakt tussen het voortgezet algemeen volwassenenonderwijs en de overige educatie.   
 4.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 8.1.8, eerste lid, het persoonsgebonden nummer van de betrokkene.   
-5.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
+5.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de basisregistratie personen worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
 6.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een opleiding in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
 7.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een opleiding educatie in het contact met een andere instelling of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die deelnemer. Onder dit contact wordt mede begrepen de uitwisseling van leergegevens en direct met het leren samenhangende begeleidingsgegevens. Bij algemene maatregel van bestuur worden de gegevens, bedoeld in de vorige volzin, gespecificeerd. Het bevoegd gezag bewaart in de administratie van de instelling een verklaring van instemming van de deelnemer met de uitwisseling van de gegevens.   
-8.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een deelnemer aan een opleiding educatie ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), anders dan ter nakoming van verplichtingen als referent in de zin van [artikel 1 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+8.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een deelnemer aan een opleiding educatie ter uitvoering van artikel 107, vijfde lid, van de Vreemdelingenwet 2000, anders dan ter nakoming van verplichtingen als referent in de zin van artikel 1 van die wet.   
 9.  De in het zevende lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  2.3.6b  
 
 ####Verwerking gegevens door Onze Minister
 
-1.  Onze Minister neemt de door het bevoegd gezag verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in artikel 2.3.6a, tweede en zesde lid, op in het basisregister onderwijs, nadat zij deze gegevens heeft getoetst op juistheid en volledigheid. Onze Minister verstrekt de gegevens, inclusief de gegevens, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), zoals zij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het bevoegd gezag. Onze Minister kan de door het bevoegd gezag verstrekte gegevens uitsluitend met instemming van het bevoegd gezag wijzigen.   
+1.  Onze Minister neemt de door het bevoegd gezag verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in artikel 2.3.6a, tweede en zesde lid, op in het basisregister onderwijs, nadat zij deze gegevens heeft getoetst op juistheid en volledigheid. Onze Minister verstrekt de gegevens, inclusief de gegevens, bedoeld in artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht, zoals zij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het bevoegd gezag. Onze Minister kan de door het bevoegd gezag verstrekte gegevens uitsluitend met instemming van het bevoegd gezag wijzigen.   
 2.  Het bevoegd gezag verstrekt Onze Minister alle inlichtingen die zij nodig acht voor de uitvoering van de taak, bedoeld in het eerste lid. Het bevoegd gezag werkt eraan mee dat de in het basisregister onderwijs opgenomen gegevens juist en volledig zijn.   
 
 ### Artikel  2.3.6c  
@@ -815,11 +820,13 @@ m. de locatie waar het onderwijs wordt gevolgd.
 
 1.  Gegevens inzake educatie uit het basisregister onderwijs kunnen worden gebruikt door: 
 
-a. Onze Minister voor zover deze gegevens noodzakelijk zijn voor de begrotings- en beleidsvoorbereiding;  
+a. Onze Minister voor zover deze gegevens noodzakelijk zijn voor de begrotings- en beleidsvoorbereiding en voor zover het betreft opleidingen voortgezet algemeen volwassenenonderwijs, de bekostiging van instellingen;  
 
 b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen van het toezicht op het onderwijs.     
-2.  Het gebruik, bedoeld in het eerste lid, ziet uitsluitend op gegevens die niet herleid of herleidbaar zijn tot individuele deelnemers aan een opleiding educatie.   
-3.  Bij ministeriële regeling worden regels gesteld ter uitvoering van het eerste en tweede lid, in ieder geval omtrent de inhoud en de samenstelling van de desbetreffende gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt en de perioden waarop de gegevens betrekking hebben.   
+2.  Voor zover de door het bevoegd gezag op grond van artikel 2.3.6a verstrekte gegevens naar het oordeel van Onze Minister onjuist of onvolledig zijn, kan Onze Minister ten behoeve van de vaststelling van de bekostiging van opleidingen voortgezet algemeen volwassenenonderwijs van deze gegevens afwijken, in welk geval de door Onze Minister vastgestelde gewijzigde gegevens worden opgenomen in het basisregister onderwijs, nadat het desbetreffende besluit tot vaststelling van de bekostiging onherroepelijk is geworden.   
+3.  Het gebruik, bedoeld in het eerste lid, ziet uitsluitend op gegevens die niet herleid of herleidbaar zijn tot individuele deelnemers aan een opleiding educatie.   
+4.  Bij ministeriële regeling worden regels gesteld ter uitvoering van het eerste en derde lid, in ieder geval omtrent de inhoud en de samenstelling van de desbetreffende gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt en de perioden waarop de gegevens betrekking hebben.   
+5.  In afwijking van het derde lid kan Onze Minister, voor zover het betreft opleidingen voortgezet algemeen volwassenen onderwijs, in het verkeer met het bevoegd gezag ten behoeve van de vaststelling van de bekostiging het persoonsgebonden nummer gebruiken. In afwijking van het vierde lid wordt bij algemene maatregel van bestuur bepaald welke overige gegevens uit het basisregister onderwijs tezamen met het persoonsgebonden nummer hiervoor kunnen worden gebruikt.   
 
 ### Artikel  2.3.6d  
 
@@ -831,7 +838,7 @@ a. de registratie van gegevens van voortijdige schoolverlaters, bedoeld in artik
 
 b. het systeem van doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt, bedoeld in artikel 8.3.2, eerste lid, tweede en derde volzin;  
 
-c. verwerking van de gegevens, bedoeld in [24f, derde en vierde lid, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) en in artikel 8.1.8a, vierde lid, bij de registraties, bedoeld in onderdeel a, en het systeem van doorverwijzing, bedoeld in onderdeel b.    
+c. verwerking van de gegevens, bedoeld in 24f, derde en vierde lid, van de Wet op het onderwijstoezicht en in artikel 8.1.8a, vierde lid, bij de registraties, bedoeld in onderdeel a, en het systeem van doorverwijzing, bedoeld in onderdeel b.    
 
 ### Titel  4  
 
@@ -846,7 +853,7 @@ c. verwerking van de gegevens, bedoeld in [24f, derde en vierde lid, van de Wet 
 ####Berekeningswijze
 
 1.  De rijksbijdrage voor de kenniscentra beroepsonderwijs bedrijfsleven waarop de in artikel 1.5.1 bedoelde aanspraak betrekking heeft wordt, binnen het raam van de door begrotingswetgever beschikbaar gestelde middelen, per kenniscentrum berekend aan de hand van maatstaven, neergelegd in een berekeningswijze, vastgesteld bij of krachtens algemene maatregel van bestuur. De maatstaven hebben in elk geval betrekking op de aard en de omvang van de werkzaamheden, bedoeld in artikel 1.5.2, voor zover niet verricht in het kader van dienstverlening. Wat huisvestingskosten betreft wordt de rijksbijdrage berekend hetzij op grond van die berekeningswijze hetzij op grond van een andere bij of krachtens algemene maatregel van bestuur te bepalen wijze.   
-2.  Op de rijksbijdrage wordt volgens bij of krachtens algemene maatregel van bestuur te stellen regels een bedrag in mindering gebracht in verband met werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid anders dan op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) aan gewezen personeel van kenniscentra beroepsonderwijs bedrijfsleven. De artikelen 2.2.1, vijfde lid, tweede volzin, en 2.2.4a zijn van overeenkomstige toepassing.   
+2.  Op de rijksbijdrage wordt volgens bij of krachtens algemene maatregel van bestuur te stellen regels een bedrag in mindering gebracht in verband met werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid anders dan op grond van de Ziektewet aan gewezen personeel van kenniscentra beroepsonderwijs bedrijfsleven. De artikelen 2.2.1, vijfde lid, tweede volzin, en 2.2.4a zijn van overeenkomstige toepassing.   
 3.  Een in het eerste lid en in het tweede lid bedoelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  2.4.2  
@@ -864,7 +871,8 @@ c. verwerking van de gegevens, bedoeld in [24f, derde en vierde lid, van de Wet 
 
 Indien bijzondere ontwikkelingen in het beroepsonderwijs daartoe aanleiding geven, kan volgens bij ministeriële regeling te stellen voorwaarden aan de kenniscentra beroepsonderwijs bedrijfsleven voor een bij die regeling te bepalen periode een aanvullende rijksbijdrage worden toegekend.  
 
-### §  2  
+### §  2   
+Vervallen per 01-07-1997   
 
 ### Titel  5  
 
@@ -881,7 +889,7 @@ Indien bijzondere ontwikkelingen in het beroepsonderwijs daartoe aanleiding geve
 1.  Het bevoegd gezag stelt jaarlijks een jaarrekening vast over het afgelopen jaar.   
 2.  In de jaarrekening legt het bevoegd gezag verantwoording af over het financiële beheer van de instelling voor zover het betreft de ingevolge deze wet uit ’s Rijks kas ontvangen middelen. Uit de jaarrekening dient te blijken dat sprake is van een rechtmatige en doelmatige aanwending van de rijksbijdrage. Van niet doelmatige aanwending van de rijksbijdrage is in ieder geval sprake voorzover bedragen daaruit worden aangewend voor het op enigerlei wijze compenseren van de deelnemers of examendeelnemers voor les- en cursusgeld respectievelijk examengeld. Bij ministeriële regeling kunnen met het oog op de verantwoording van de rechtmatigheid en doelmatigheid van de aanwending van de rijksbijdrage nadere voorschriften worden gegeven voor de inrichting van de jaarrekening.   
 3.  Het resultaat van het jaar waarop de jaarrekening betrekking heeft wordt verrekend met de algemene reserve van de instelling.   
-4.  Het bevoegd gezag dient de jaarrekening voor 1 juli van het jaar volgend op het boekjaar bij Onze Minister in. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+4.  Het bevoegd gezag dient de jaarrekening voor 1 juli van het jaar volgend op het boekjaar bij Onze Minister in. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 5.  Het bevoegd gezag maakt de jaarrekening, vergezeld van de verklaring, bedoeld in het vierde lid, openbaar.   
 6.  Het bevoegd gezag draagt er zorg voor dat het ten behoeve van Onze Minister beschikt over een overzichtelijke informatieverzameling van de financiële gegevens die op enigerlei wijze van belang zijn voor de berekeningswijze, bedoeld in de artikelen 2.2.2 en 2.2.12.   
 7.  Het bevoegd gezag houdt per begrotingsjaar nauwkeurig boek van baten en lasten en draagt er zorg voor dat de baten en lasten nauwkeurig en herkenbaar zijn verwerkt in de in het zesde lid bedoelde informatieverzameling.   
@@ -924,7 +932,7 @@ f. de hoogste vooropleiding;
 
 g.  vervallen;   
 
-h. het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;  
+h. het uitstroomniveau of het behaalde diploma, de datum waarop het diploma is behaald en de cijfers of het eindcijfer van bij ministeriële regeling aan te wijzen examenonderdelen;  
 
 i. de omvang van beroepspraktijkvorming, de datum van begin en einde daarvan, de afsluitdatum van de beroepspraktijkvormingsovereenkomst en het betrokken bedrijf dat of de betrokken organisatie die de beroepspraktijkvorming verzorgt; en  
 
@@ -943,23 +951,23 @@ o. indien van toepassing de reden van het uitstromen; en
 p. de locatie waar het onderwijs wordt gevolgd.     
 3.  Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.   
 4.  Het bevoegd gezag kan het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze Minister ten behoeve van de vaststelling van de bekostiging van de instelling.   
-5.  Het bevoegd gezag en het hoofd, bedoeld in [artikel 1, onder d, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), gebruiken het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in contacten met een gemeente in het kader van de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.   
+5.  Het bevoegd gezag en het hoofd, bedoeld in artikel 1, onder d, van de Leerplichtwet 1969, gebruiken het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in contacten met een gemeente in het kader van de Leerplichtwet 1969, tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.   
 6.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 8.1.8, eerste lid, het persoonsgebonden nummer van de betrokkene.   
-7.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
+7.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de basisregistratie personen worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
 8.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
 9.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in het contact met een andere instelling of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die deelnemer. Onder dit contact wordt mede begrepen de uitwisseling van leergegevens en direct met het leren samenhangende begeleidingsgegevens. Bij algemene maatregel van bestuur worden de gegevens, bedoeld in de vorige volzin, gespecificeerd. Het bevoegd gezag bewaart in de administratie van de instelling een verklaring van instemming van de deelnemer met de uitwisseling van de gegevens.   
-10.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een deelnemer aan een beroepsopleiding ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), anders dan ter nakoming van verplichtingen als referent in de zin van [artikel 1 van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
-11.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer in contacten met een school als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) in het kader van de ondersteuning die deze school biedt op grond van [artikel 8a, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en artikel 2.2.5, tweede lid.   
+10.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een deelnemer aan een beroepsopleiding ter uitvoering van artikel 107, vijfde lid, van de Vreemdelingenwet 2000, anders dan ter nakoming van verplichtingen als referent in de zin van artikel 1 van die wet.   
+11.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer in contacten met een school als bedoeld in de Wet op de expertisecentra in het kader van de ondersteuning die deze school biedt op grond van artikel 8a, eerste lid, van de Wet op de expertisecentra en artikel 2.2.5, tweede lid.   
 12.  De in het negende lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  2.5.5b  
 
 ####Verwerking gegevens door Onze Minister
 
-1.  Onze Minister neemt de door het bevoegd gezag verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in artikel 2.5.5a, tweede en zevende lid, op in het basisregister onderwijs, nadat hij deze gegevens heeft getoetst op juistheid en volledigheid. Onze Minister verstrekt de gegevens, inclusief de gegevens, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), zoals hij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het bevoegd gezag. Onverminderd artikel 2.5.5c, tweede lid, kan Onze Minister de door het bevoegd gezag verstrekte gegevens uitsluitend met instemming van het bevoegd gezag wijzigen.   
+1.  Onze Minister neemt de door het bevoegd gezag verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in artikel 2.5.5a, tweede en zevende lid, op in het basisregister onderwijs, nadat hij deze gegevens heeft getoetst op juistheid en volledigheid. Onze Minister verstrekt de gegevens, inclusief de gegevens, bedoeld in artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht, zoals hij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het bevoegd gezag. Onverminderd artikel 2.5.5c, tweede lid, kan Onze Minister de door het bevoegd gezag verstrekte gegevens uitsluitend met instemming van het bevoegd gezag wijzigen.   
 2.  Het bevoegd gezag verstrekt Onze Minister alle inlichtingen die hij nodig acht voor de uitvoering van de taak, bedoeld in het eerste lid. Het bevoegd gezag werkt eraan mee dat de in het basisregister onderwijs opgenomen gegevens juist en volledig zijn.   
 3.  Indien Onze Minister naar aanleiding van de toetsing, bedoeld in het eerste lid, redenen heeft om aan te nemen dat een bevoegd gezag in strijd handelt of heeft gehandeld met het bepaalde bij of krachtens deze wet en een onderzoek daarnaar door de inspectie nodig acht, verstrekt Onze Minister ten behoeve van dit onderzoek de persoonsgebonden nummers en andere gegevens van deelnemers aan een beroepsopleiding aan de inspectie. De inspectie meldt de uitkomst van het onderzoek aan Onze Minister.   
-4.  Onze Minister en de inspectie verstrekken ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geen gegevens die zij op grond van het derde lid hebben ontvangen, tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van [die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.   
+4.  Onze Minister en de inspectie verstrekken ter uitvoering van artikel 107, vijfde lid, van de Vreemdelingenwet 2000 geen gegevens die zij op grond van het derde lid hebben ontvangen, tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van die wet dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.   
 
 ### Artikel  2.5.5c  
 
@@ -973,7 +981,7 @@ b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen v
 2.  Voor zover de door het bevoegd gezag op grond van artikel 2.5.5a verstrekte gegevens naar het oordeel van Onze Minister onjuist of onvolledig zijn, kan Onze Minister ten behoeve van de vaststelling van de bekostiging van deze gegevens afwijken, in welk geval de door Onze Minister vastgestelde gewijzigde gegevens worden opgenomen in het basisregister onderwijs, nadat het desbetreffende besluit tot vaststelling van de bekostiging onherroepelijk is geworden.   
 3.  Het gebruik, bedoeld in het eerste lid, ziet uitsluitend op gegevens die niet herleid of herleidbaar zijn tot individuele deelnemers aan een beroepsopleiding, onverminderd artikel 2.5.5b, derde lid.   
 4.  Bij ministeriële regeling worden regels gesteld ter uitvoering van het eerste en derde lid, in ieder geval omtrent de inhoud en de samenstelling van de desbetreffende gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt en de perioden waarop de gegevens betrekking hebben.   
-5.  In afwijking van het derde lid wordt bij algemene maatregel van bestuur bepaald in welke gevallen en onder welke voorwaarden Onze Minister gegevens als bedoeld in artikel 2.5.5a, tweede lid, kan gebruiken tezamen met het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding ten behoeve van de vaststelling van de bekostiging van een instelling, alsmede welke gegevens dit gebruik kan betreffen.   
+5.  In afwijking van het derde lid kan Onze Minister in het verkeer met het bevoegd gezag ten behoeve van de vaststelling van de bekostiging het persoonsgebonden nummer gebruiken. In afwijking van het vierde lid wordt bij algemene maatregel van bestuur bepaald welke overige gegevens uit het basisregister onderwijs tezamen met het persoonsgebonden nummer hiervoor kunnen worden gebruikt.   
 
 ### Artikel  2.5.5e  
 
@@ -981,13 +989,13 @@ b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen v
 
 Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het burgerservicenummer door de gemeente, gebruikt de gemeente het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding of een voortijdige schoolverlater als bedoeld in artikel 8.3.1 uitsluitend ten behoeve van: 
 
-a. een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);  
+a. een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de Leerplichtwet 1969;  
 
 b. de registratie van gegevens van voortijdige schoolverlaters, bedoeld in artikel 8.3.2, eerste lid, eerste volzin;  
 
 c. het systeem van doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt, bedoeld in artikel 8.3.2, eerste lid, tweede en derde volzin;  
 
-d. verwerking van de gegevens, bedoeld in [artikel 24f, derde en vierde lid, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) en in artikel 8.1.8a, vierde lid, bij de registraties, bedoeld in de onderdelen a en b, en het systeem van doorverwijzing, bedoeld in onderdeel c.    
+d. verwerking van de gegevens, bedoeld in artikel 24f, derde en vierde lid, van de Wet op het onderwijstoezicht en in artikel 8.1.8a, vierde lid, bij de registraties, bedoeld in de onderdelen a en b, en het systeem van doorverwijzing, bedoeld in onderdeel c.    
 
 ### Artikel  2.5.6  
 
@@ -1039,11 +1047,11 @@ De artikelen 2.5.2 tot en met 2.5.9 zijn van overeenkomstige toepassing op de ke
 
 1.  Een scholengemeenschap omvat: 
 
-a. een regionaal opleidingencentrum en een school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of  
+a. een regionaal opleidingencentrum en een school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs, of  
 
-b. een agrarisch opleidingscentrum en een school voor middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een school voor praktijkonderwijs als bedoeld in [artikel 10f van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+b. een agrarisch opleidingscentrum en een school voor middelbaar algemeen voortgezet onderwijs als bedoeld in artikel 9 van de Wet op het voortgezet onderwijs of een school voor praktijkonderwijs als bedoeld in artikel 10f van de Wet op het voortgezet onderwijs.     
 1a.  Ten aanzien van een school voor voortgezet onderwijs die deel uitmaakt van een scholengemeenschap als bedoeld in het eerste lid, bestaat aanspraak op rijksbijdrage ten aanzien van de huisvesting, waarvoor bij of krachtens algemene maatregel van bestuur een berekeningswijze wordt vastgesteld. Hoofdstuk 2, titel 8, is van overeenkomstige toepassing ten aanzien van een scholengemeenschap als bedoeld in het eerste lid.   
-2.  In afwijking van de [Wet medezeggenschap op scholen](../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md) zijn de bepalingen inzake de medezeggenschap bij of krachtens de [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) en deze wet van toepassing op scholengemeenschappen als bedoeld in het eerste lid.   
+2.  In afwijking van de Wet medezeggenschap op scholen zijn de bepalingen inzake de medezeggenschap bij of krachtens de Wet op de ondernemingsraden en deze wet van toepassing op scholengemeenschappen als bedoeld in het eerste lid.   
 3.  Bij algemene maatregel van bestuur kunnen ter uitvoering van deze wet voorschriften worden gegeven ten aanzien van scholengemeenschappen als bedoeld in het eerste lid. Daarbij kan bij algemene maatregel van bestuur worden bepaald welke voorschriften van deze wet geheel of gedeeltelijk van toepassing of overeenkomstige toepassing zijn.   
 
 ### Artikel  2.6a  
@@ -1060,9 +1068,9 @@ Bij of krachtens algemene maatregel van bestuur kan ten behoeve van het voorbere
 
 ####Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
 
-1.  Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van [artikel 25a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) ook tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school voor voortgezet onderwijs.   
-2.  Bij algemene maatregel van bestuur kunnen voorschriften worden vastgesteld over de verantwoording van de bedragen die het bevoegd gezag met toepassing van [artikel 99, achtste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) heeft ontvangen.   
-3.  Indien het bevoegd gezag van een school voor voortgezet onderwijs ter uitvoering van [artikel 25a, eerste en tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, ook onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen van het [derde lid, aanhef en onder a tot en met e, van dat artikel](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van artikel 25a van de Wet op het voortgezet onderwijs ook tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school voor voortgezet onderwijs.   
+2.  Bij algemene maatregel van bestuur kunnen voorschriften worden vastgesteld over de verantwoording van de bedragen die het bevoegd gezag met toepassing van artikel 99, achtste lid, van de Wet op het voortgezet onderwijs heeft ontvangen.   
+3.  Indien het bevoegd gezag van een school voor voortgezet onderwijs ter uitvoering van artikel 25a, eerste en tweede lid, van de Wet op het voortgezet onderwijs leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, ook onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen van het derde lid, aanhef en onder a tot en met e, van dat artikel.   
 
 ### Titel  6b  
 
@@ -1072,7 +1080,7 @@ Bij of krachtens algemene maatregel van bestuur kan ten behoeve van het voorbere
 
 ####Examinering VSO-leerlingen
 
-Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van [artikel 14b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), ook tot examenvoorzieningen van de instelling toelaten zij die niet als examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school waar voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd.  
+Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van artikel 14b van de Wet op de expertisecentra, ook tot examenvoorzieningen van de instelling toelaten zij die niet als examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school waar voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd.  
 
 ### Titel  7  
 
@@ -1082,7 +1090,7 @@ Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld i
 
 ####Bijdrage voor derden
 
-Onze Minister kan volgens bij ministeriële regeling te geven voorschriften aan andere rechtspersonen dan die waarvan de instellingen uitgaan, een bijdrage toekennen ter bevordering van de verwezenlijking van de in artikel 1.2.1 bedoelde doelstellingen van de educatie en het beroepsonderwijs dan wel ten behoeve van de afstemming tussen onderwijs en arbeidsmarkt. Voor zover toepassing van de eerste volzin het verstrekken van subsidie betreft, zijn de [artikelen 4 tot en met 19 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) van toepassing.  
+Onze Minister kan volgens bij ministeriële regeling te geven voorschriften aan andere rechtspersonen dan die waarvan de instellingen uitgaan, een bijdrage toekennen ter bevordering van de verwezenlijking van de in artikel 1.2.1 bedoelde doelstellingen van de educatie en het beroepsonderwijs dan wel ten behoeve van de afstemming tussen onderwijs en arbeidsmarkt. Voor zover toepassing van de eerste volzin het verstrekken van subsidie betreft, zijn de artikelen 4 tot en met 19 van de Wet overige OCW-subsidies van toepassing.  
 
 ### TITEL  8  
 
@@ -1113,7 +1121,7 @@ f. een regeling omtrent de te volgen procedure en te treffen voorzieningen in ge
 
 ####Opheffing instellingen
 
-1.  Bij de opheffing van een openbare instelling en bij de beëindiging van de bekostiging van een bijzondere instelling draagt het bevoegd gezag zo spoedig mogelijk na de opheffing dan wel na de beëindiging van de bekostiging, zorg voor de vaststelling van een eindafrekening. De eindafrekening wordt aan Onze Minister gezonden en gaat vergezeld van een verklaring omtrent de getrouwheid van een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Bij de opheffing van een openbare instelling en bij de beëindiging van de bekostiging van een bijzondere instelling draagt het bevoegd gezag zo spoedig mogelijk na de opheffing dan wel na de beëindiging van de bekostiging, zorg voor de vaststelling van een eindafrekening. De eindafrekening wordt aan Onze Minister gezonden en gaat vergezeld van een verklaring omtrent de getrouwheid van een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  Tenzij met Onze Minister een andere regeling wordt getroffen, is het bevoegd gezag aan het Rijk een bedrag verschuldigd, indien de eindafrekening een batig saldo bevat. Het bedrag wordt door Onze Minister vastgesteld en mag niet hoger zijn dan het saldo van de eindafrekening. Bij de vaststelling van het bedrag wordt rekening gehouden met door het bevoegd gezag uit de eigen middelen aan investeringen bestede gelden.   
 3.  Indien de in het eerste lid bedoelde opheffing dan wel beëindiging van de bekostiging zich voordoet, maakt het bevoegd gezag zo spoedig mogelijk aan Onze Minister bekend welke maatregelen het heeft genomen teneinde te waarborgen dat de aan die instelling ingeschreven deelnemers het onderwijs aan een andere instelling kunnen voltooien.   
 
@@ -1127,17 +1135,25 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 ####Overleg
 
+Vervallen per 01-08-2008   
+
 ### Titel  1  
 
 ####Overleg Minister
+
+Vervallen per 01-08-2008   
 
 ### Titel  2  
 
 ####Overleg instellingen
 
+Vervallen per 01-08-2008   
+
 ### Titel  3  
 
 ####Overleg kenniscentra beroepsonderwijs bedrijfsleven
+
+Vervallen per 01-08-2008   
 
 ### Hoofdstuk  4  
 
@@ -1169,9 +1185,9 @@ Het bevoegd gezag streeft evenredige vertegenwoordiging van vrouwen in leidingge
 
 1.  Het bevoegd gezag stelt een regeling vast voor de rechtspositie van het personeel.   
 2.  Over de regelingen die gaan over aangelegenheden die van algemeen belang zijn voor de rechtspositie van het personeel van de instelling, wordt door of namens het bevoegd gezag overlegd met de vakorganisaties van overheids- en onderwijspersoneel die daarvoor in aanmerking komen.   
-3.  De bepalingen over ontslag verschaffen het personeel van de openbare instellingen niet minder rechten dan die welke voor werknemers met een arbeidsovereenkomst voortvloeien uit de bepalingen van dwingend recht van [titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+3.  De bepalingen over ontslag verschaffen het personeel van de openbare instellingen niet minder rechten dan die welke voor werknemers met een arbeidsovereenkomst voortvloeien uit de bepalingen van dwingend recht van titel 10 van Boek 7 van het Burgerlijk Wetboek.   
 4.  Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven over de maximale beloning van de leden van het college van bestuur.   
-5.  In geval van een onherroepelijk vonnis tot faillietverklaring van een instelling, voorzien de bevoegde gezagsorganen van de overige instellingen er gezamenlijk in dat aan de aanspraken, bedoeld in [artikel 79, eerste lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), van het personeel en gewezen personeel, wordt voldaan, evenals aan de aanspraken die in het overleg, bedoeld in het tweede lid, zijn overeengekomen en als aanvulling gelden op de wettelijke aanspraken.   
+5.  In geval van een onherroepelijk vonnis tot faillietverklaring van een instelling, voorzien de bevoegde gezagsorganen van de overige instellingen er gezamenlijk in dat aan de aanspraken, bedoeld in artikel 79, eerste lid, van de Werkloosheidswet, van het personeel en gewezen personeel, wordt voldaan, evenals aan de aanspraken die in het overleg, bedoeld in het tweede lid, zijn overeengekomen en als aanvulling gelden op de wettelijke aanspraken.   
 
 ### Artikel  4.1.3  
 
@@ -1193,7 +1209,7 @@ a. een disciplinaire maatregel,
 
 b. schorsing,  
 
-c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is bereikt,  
+c. ontslag anders dan op eigen verzoek, voordat de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt,  
 
 d. het direct of indirect onthouden van bevordering,  
 
@@ -1239,26 +1255,26 @@ Het bevoegd gezag en het personeel van de instelling verstrekken aan de commissi
 1.  Docenten worden door het bevoegd gezag benoemd dan wel tewerkgesteld zonder benoeming.   
 2.  Tot docent aan een instelling kan slechts worden benoemd of tewerkgesteld zonder benoeming degene die: 
 
-a. in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden, en  
+a. in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden, en  
 
 b. voldoet aan de bekwaamheidseisen, bedoeld in artikel 4.2.3, eerste lid, blijkend uit het bezit van: 
 
-1°. een getuigschrift als bedoeld in [artikel 7.11, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van een met goed gevolg afgelegd afsluitend examen van een aan een hogeschool verbonden opleiding gericht op het beroep van leraar in het voortgezet onderwijs,  
+1°. een getuigschrift als bedoeld in artikel 7.11, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek van een met goed gevolg afgelegd afsluitend examen van een aan een hogeschool verbonden opleiding gericht op het beroep van leraar in het voortgezet onderwijs,  
 
 2°. een getuigschrift als bedoeld in artikel 175 van de Wet op het hoger beroepsonderwijs van een met goed gevolg afgelegd staatsexamen, voor zover overeenkomend met een getuigschrift als bedoeld onder 1°,  
 
-3°. een getuigschrift als bedoeld in [artikel 7.11, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van een met goed gevolg afgelegd afsluitend examen van een universitaire lerarenopleiding,  
+3°. een getuigschrift als bedoeld in artikel 7.11, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek van een met goed gevolg afgelegd afsluitend examen van een universitaire lerarenopleiding,  
 
 4°. een getuigschrift of diploma van een opleiding die vóór 1 augustus 1991 was gericht op het beroep van leraar in het voortgezet onderwijs,  
 
-5°. een ten aanzien van het door hem te geven onderwijs verleende erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md),  
+5°. een ten aanzien van het door hem te geven onderwijs verleende erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties,  
 
 6°. een gelijkwaardig buitenlands getuigschrift of diploma, behaald in een land dat niet behoort tot de Lid-Staten van de EU, dan wel een gelijkwaardig Nederlands-Antilliaans of Arubaans getuigschrift of diploma, of    
 
 c. in het bezit is van een door het bevoegd gezag afgegeven geschiktheidsverklaring als bedoeld in artikel 4.2.4, en  
 
 d. niet krachtens rechterlijke uitspraak is uitgesloten van het geven van onderwijs.     
-3.  In geval van een geschiktheidsverklaring als bedoeld in artikel 4.2.4 vindt de benoeming of tewerkstelling zonder benoeming voor zover betrokkene niet in het bezit is van een getuigschrift als bedoeld in [artikel 7a.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) plaats voor een periode van ten hoogste twee aaneengesloten studiejaren. Het bevoegd gezag kan deze benoemingsperiode, al dan niet onder door dat gezag te stellen voorwaarden, verlengen met ten hoogste twee jaren indien het bevoegd gezag daarvoor redenen aanwezig acht. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin.   
+3.  In geval van een geschiktheidsverklaring als bedoeld in artikel 4.2.4 vindt de benoeming of tewerkstelling zonder benoeming voor zover betrokkene niet in het bezit is van een getuigschrift als bedoeld in artikel 7a.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek plaats voor een periode van ten hoogste twee aaneengesloten studiejaren. Het bevoegd gezag kan deze benoemingsperiode, al dan niet onder door dat gezag te stellen voorwaarden, verlengen met ten hoogste twee jaren indien het bevoegd gezag daarvoor redenen aanwezig acht. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin.   
 4.  Het tweede lid is niet van toepassing voor zover een docent is belast met contractactiviteiten.   
 5.  Het bevoegd gezag kan ten aanzien van een docent voor een periode van ten hoogste twee jaar afwijken van de eisen, bedoeld in het tweede lid, onder b en c. Het bevoegd gezag kan de in de eerste volzin bedoelde termijn verlengen met ten hoogste twee jaren indien het bevoegd gezag dat noodzakelijk oordeelt vanwege de kwaliteit en de voortgang van het onderwijs aan de school. In dat geval verklaren het bevoegd gezag en de betrokkene in ieder geval schriftelijk dat betrokkene verplicht is zich in te spannen om binnen de verlengingsperiode alsnog te voldoen aan de eisen, bedoeld in het tweede lid, onder b. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin.   
 6.  Het bevoegd gezag kan afwijken van het tweede lid, onder b en c, ten aanzien van degene die gelet op specifieke kennis en bekwaamheden, samenhangend met ervaringen en werkzaamheden in andere sectoren van de samenleving en het bedrijfsleven, naar het oordeel van het bevoegd gezag voldoende bekwaam is om onder verantwoordelijkheid van een daartoe door het bevoegd gezag aan te wijzen docent voor een beperkte betrekkingsomvang te worden belast met het uitsluitend verzorgen van onderwijsonderdelen waar die specifieke kennis en bekwaamheden in het bijzonder betrekking op hebben. De betrekkingsomvang is voor het totaal van de in de eerste volzin bedoelde te verzorgen onderwijsonderdelen ten hoogste een aantal van gemiddeld 4 klokuren per week op jaarbasis.   
@@ -1269,17 +1285,17 @@ d. niet krachtens rechterlijke uitspraak is uitgesloten van het geven van onderw
 
 1.  Onderwijsondersteunende werkzaamheden waarvoor op grond van artikel 4.2.3, tweede lid, bekwaamheidseisen zijn vastgesteld, mogen slechts worden verricht door degene die: 
 
-a. in het bezit is van een verklaring omtrent het gedrag, afgegeven ingevolge de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden, en  
+a. in het bezit is van een verklaring omtrent het gedrag, afgegeven ingevolge de Wet justitiële en strafvorderlijke gegevens, die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden, en  
 
 b. in het bezit is van een bij ministeriële regeling aangewezen getuigschrift waaruit blijkt dat wordt voldaan aan de in artikel 4.2.3, tweede lid, bedoelde bekwaamheidseisen, voor zover vastgesteld, of  
 
-c. in het bezit is van een ten aanzien van de door hem te verrichten werkzaamheden, al dan niet bedoeld in artikel 4.2.3, tweede lid, verleende erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), of  
+c. in het bezit is van een ten aanzien van de door hem te verrichten werkzaamheden, al dan niet bedoeld in artikel 4.2.3, tweede lid, verleende erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties, of  
 
 d. volgens bij algemene maatregel van bestuur te geven regels zijn bekwaamheid heeft aangetoond, en  
 
 e. niet krachtens rechterlijke uitspraak is uitgesloten van het verrichten van die werkzaamheden.     
 2.  Het eerste lid is niet van toepassing op een onderwijsondersteunende functionaris voor zover deze is belast met werkzaamheden in verband met contractactiviteiten.   
-3.  Ten aanzien van studenten aan een opleiding als bedoeld in [artikel 7.7, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en deelnemers aan de beroepsbegeleidende leerweg van een opleiding als bedoeld in artikel 7.2.2 die in het kader van die opleiding onderwijsondersteunende werkzaamheden verrichten waarvoor op grond van artikel 4.2.3, tweede lid, bekwaamheidseisen zijn vastgesteld, kan voor de duur van die werkzaamheden worden afgeweken van het eerste lid, onder b tot en met d.   
+3.  Ten aanzien van studenten aan een opleiding als bedoeld in artikel 7.7, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en deelnemers aan de beroepsbegeleidende leerweg van een opleiding als bedoeld in artikel 7.2.2 die in het kader van die opleiding onderwijsondersteunende werkzaamheden verrichten waarvoor op grond van artikel 4.2.3, tweede lid, bekwaamheidseisen zijn vastgesteld, kan voor de duur van die werkzaamheden worden afgeweken van het eerste lid, onder b tot en met d.   
 4.  Het bevoegd gezag kan voor een periode van ten hoogste twee jaar afwijken van de eisen, bedoeld in het eerste lid, onder b tot en met d. Het bevoegd gezag kan deze periode met ten hoogste de helft verlengen indien bijzondere omstandigheden daartoe naar zijn oordeel aanleiding geven. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin.   
 
 ### Artikel  4.2.3  
@@ -1310,21 +1326,21 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 a. vakinhoudelijk bekwaam is en geschikt is voor het beroep van docent, en  
 
-b. voldoet aan de in artikel 4.2.3, derde lid, onder a genoemde eisen, blijkend uit het bezit van een getuigschrift als bedoeld in [artikel 7a.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of  
+b. voldoet aan de in artikel 4.2.3, derde lid, onder a genoemde eisen, blijkend uit het bezit van een getuigschrift als bedoeld in artikel 7a.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of  
 
 c. in staat is verantwoord les te geven en binnen twee jaar na benoeming of tewerkstelling zonder benoeming tot docent te voldoen aan de in artikel 4.2.3, derde lid, onder a, genoemde eisen.     
 2.  Het bevoegd gezag geeft de in het eerste lid bedoelde verklaring slechts af, indien: 
 
 a. betrokkene in het bezit is van een getuigschrift van een met goed gevolg afgelegd afsluitend examen van een opleiding in het wetenschappelijk onderwijs of in het hoger beroepsonderwijs als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, niet zijnde een getuigschrift als bedoeld in artikel 4.2.1, tweede lid, onderdeel b 1° tot en met 4°,  
 
-b. betrokkene in het bezit is van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md),  
+b. betrokkene in het bezit is van een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties,  
 
 c. betrokkene in het bezit is van een buitenlands getuigschrift of diploma dat gelijkwaardig is aan een onder a bedoeld getuigschrift of een onder b bedoelde erkenning van beroepskwalificaties, of  
 
 d. betrokkene ten minste drie jaren ervaring heeft in de praktijk van het beroep waarop het desbetreffende onderwijs is gericht en naar het oordeel van het bevoegd gezag door een combinatie van opleiding en ervaring geacht wordt te beschikken over een kwalificatieniveau dat vergelijkbaar is met het onder a tot en met c bedoelde kwalificatieniveau, en  
 
 e. de gevolgde opleiding en de maatschappelijke of beroepservaring van betrokkene, in onderlinge samenhang bezien, naar het oordeel van het bevoegd gezag van voldoende belang zijn in verhouding tot de beoogde werkzaamheden aan de instelling.     
-3.  Indien betrokkene niet in het bezit is van een getuigschrift als bedoeld in [artikel 7a.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), stelt het bevoegd gezag vast, welke scholing en begeleiding voor betrokkene noodzakelijk zijn om binnen twee jaar na benoeming of tewerkstelling zonder benoeming te kunnen voldoen aan de in artikel 4.2.3, derde lid onder a, genoemde bekwaamheidseisen ten aanzien van pedagogisch-didactische kennis, inzicht en vaardigheden.   
+3.  Indien betrokkene niet in het bezit is van een getuigschrift als bedoeld in artikel 7a.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, stelt het bevoegd gezag vast, welke scholing en begeleiding voor betrokkene noodzakelijk zijn om binnen twee jaar na benoeming of tewerkstelling zonder benoeming te kunnen voldoen aan de in artikel 4.2.3, derde lid onder a, genoemde bekwaamheidseisen ten aanzien van pedagogisch-didactische kennis, inzicht en vaardigheden.   
 
 ### Artikel  4.2.5  
 
@@ -1340,7 +1356,7 @@ De op grond van artikel 4.2.4, derde lid, noodzakelijk geoordeelde scholing word
 
 ####Vereiste benoembaarheid overig personeel
 
-Tot lid van het personeel, anders dan bedoeld in de artikelen 4.2.1 en 4.2.2, kan slechts worden benoemd degene die in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden.  
+Tot lid van het personeel, anders dan bedoeld in de artikelen 4.2.1 en 4.2.2, kan slechts worden benoemd degene die in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden.  
 
 ### Titel  3  
 
@@ -1369,6 +1385,8 @@ Op een kenniscentrum beroepsonderwijs bedrijfsleven zijn de artikelen 4.1.5, 4.1
 ### Hoofdstuk  5  
 
 ####Toezicht
+
+Vervallen per 01-09-2002   
 
 ### Hoofdstuk  6  
 
@@ -1462,7 +1480,7 @@ a. gebleken is dat de kwaliteit van de opleiding langer dan één jaar onvoldoen
 
 b. niet of niet meer voldaan wordt aan de voorwaarde, bedoeld in artikel 1.4.1, eerste lid, of aan artikel 1.4.1, zesde lid, onderdelen a tot en met e, of  
 
-c. in strijd is gehandeld met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+c. in strijd is gehandeld met artikel 5:20 van de Algemene wet bestuursrecht.     
 2.  Een beschikking op grond van het eerste lid houdt in dat aan de examens of onderdelen daarvan geen diploma of certificaat als bedoeld in artikel 7.4.6 is verbonden en dat de registratie in het Centraal register wordt beëindigd.   
 
 ### Artikel  6.2.3  
@@ -1576,6 +1594,8 @@ Onze Minister registreert per kwalificatie de instellingen die blijkens de opgav
 
 ####De registratie van externe legitimering
 
+Vervallen per 01-08-2004   
+
 ### Hoofdstuk  6a  
 
 ####Het onderwijsaanbod educatie
@@ -1667,7 +1687,7 @@ b. indien de specifieke aard, de inrichting of de kwaliteit van het onderwijs da
 
 1.  De instelling biedt het onderwijs aan in de vorm van beroepsopleidingen of opleidingen educatie. Een beroepsopleiding wordt door de instelling in het maatschappelijk verkeer aangeduid met de naam van de kwalificatie waarop zij is gericht of voorzover het gaat om deelnemers die ingeschreven zijn of zullen worden voor een opleidingsdomein of kwalificatiedossier, de naam van dat opleidingsdomein of dat kwalificatiedossier.   
 2.  Een beroepsopleiding is een onderwijstraject dat voor een deelnemer is ingericht overeenkomstig de eisen van hoofdstuk 7, titel 2, en dat is gericht op het behalen van een kwalificatie in het beroepsonderwijs, ten bewijze waarvan een diploma wordt uitgereikt.   
-3.  Een opleiding educatie is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van eindtermen of het behalen van een diploma, gelijkwaardig aan een diploma van scholen, bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van een dergelijk diploma.   
+3.  Een opleiding educatie is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van eindtermen of het behalen van een diploma, gelijkwaardig aan een diploma van scholen, bedoeld in de artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs, of onderdelen van een dergelijk diploma.   
 4.  Beroepsopleidingen worden afgesloten met een examen. Opleidingen educatie kunnen worden afgesloten met een examen.   
 
 ### Artikel  7.1.3  
@@ -1683,12 +1703,12 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 1.  Bij het geven van onderwijs aan een deelnemer van een beroepsopleiding die bij de aanvang van die opleiding leerplichtig was en die is opgenomen in een ziekenhuis of die in verband met ziekte thuis verblijft, kan het bevoegd gezag van een instelling die de beroepsopleiding verzorgt, worden ondersteund.   
 2.  De ondersteuning bedoeld in het eerste lid wordt verzorgd door: 
 
-a. een educatieve voorziening als bedoeld in [artikel 1.4, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) indien de deelnemer is opgenomen in een academisch ziekenhuis of  
+a. een educatieve voorziening als bedoeld in artikel 1.4, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek indien de deelnemer is opgenomen in een academisch ziekenhuis of  
 
-b. een schoolbegeleidingsdienst als bedoeld in [artikel 180 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 166 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) indien de deelnemer is opgenomen in een ziekenhuis niet zijnde een academisch ziekenhuis dan wel indien de deelnemer in verband met ziekte thuis verblijft.      
+b. een schoolbegeleidingsdienst als bedoeld in artikel 180 van de Wet op het primair onderwijs en artikel 166 van de Wet op de expertisecentra indien de deelnemer is opgenomen in een ziekenhuis niet zijnde een academisch ziekenhuis dan wel indien de deelnemer in verband met ziekte thuis verblijft.      
 3.  De ondersteuning bedoeld in het eerste lid kan in overeenstemming tussen de educatieve voorziening dan wel de schoolbegeleidingsdienst en de instelling waarbij de deelnemer is ingeschreven, mede het geven van onderwijs aan de deelnemer betreffen.   
 4.  Het Rijk verstrekt aan schoolbegeleidingsdiensten als bedoeld in het tweede lid, onderdeel b, bekostiging voor activiteiten die worden verricht met betrekking tot de ondersteuning bij het onderwijs aan zieke leerlingen. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de bekostiging, bedoeld in de vorige volzin.   
-5.  Schoolbegeleidingsdiensten als bedoeld in het tweede lid, onderdeel b, zijn de schoolbegeleidingsdiensten die voor de ondersteuning bij het onderwijs aan zieke leerlingen, in de periode 1 augustus 1999 tot 1 augustus 2004 subsidie ontvingen van een gemeente op grond van [artikel IX van de Wet van 10 december 1998 (Stb. 733), tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek inzake de ondersteuning bij het onderwijs aan zieke leerlingen](../../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/wet/op/het/primair/onderwijs/wet/etc/BWBR0010086/README.md).   
+5.  Schoolbegeleidingsdiensten als bedoeld in het tweede lid, onderdeel b, zijn de schoolbegeleidingsdiensten die voor de ondersteuning bij het onderwijs aan zieke leerlingen, in de periode 1 augustus 1999 tot 1 augustus 2004 subsidie ontvingen van een gemeente op grond van artikel IX van de Wet van 10 december 1998 (Stb. 733), tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek inzake de ondersteuning bij het onderwijs aan zieke leerlingen.   
 
 ### Titel  2  
 
@@ -1771,7 +1791,7 @@ c. van elke kwalificatie:
 
 5° of toepassing is gegeven aan artikel 7.2.6, eerste lid.       
 3.  Het kenniscentrum neemt bij het voorstel voor een kwalificatiedossier het bepaalde in het tweede en vierde lid in acht. Uit het voorstel blijkt dat het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven voldoende acht heeft geslagen op de aansluiting tussen de opleidingen voorbereidend beroepsonderwijs, de opleidingen middelbaar algemeen voortgezet onderwijs, de beroepsopleidingen en de opleidingen hoger beroepsonderwijs, in elk geval door raadpleging van vertegenwoordigers van die onderwijsvelden. Indien ook andere instanties nauw bij het voorstel voor het kwalificatiedossier zijn betrokken, maakt het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven in zijn voorstel melding van de wijze waarop het oordeel van die instanties is betrokken in het voorstel.   
-4.  Bij de vaststelling van een kwalificatiedossier worden de referentieniveaus Nederlandse taal en de referentieniveaus rekenen in acht genomen die op grond van [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) zijn vastgesteld voor de soorten opleiding als bedoeld in artikel 7.2.2, eerste lid, onder a tot en met e.   
+4.  Bij de vaststelling van een kwalificatiedossier worden de referentieniveaus Nederlandse taal en de referentieniveaus rekenen in acht genomen die op grond van artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen zijn vastgesteld voor de soorten opleiding als bedoeld in artikel 7.2.2, eerste lid, onder a tot en met e.   
 5.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven voor de inhoud van een kwalificatiedossier.   
 6.  Bij ministeriële regeling worden voorschriften gegeven voor de termijnen bij de totstandkoming, vaststelling en geldigheidsduur van kwalificatiedossiers. Tevens worden bij ministeriële regeling een model en een toetsingskader voor kwalificatiedossiers vastgesteld.   
 7.  Deelnemers worden behoudens de tweede volzin opgeleid overeenkomstig het kwalificatiedossier dat voor de desbetreffende beroepsopleiding is vastgesteld voor de aanvang van het studiejaar waarin zij met het eerste jaar van die opleiding starten. Nadat de geldigheidsduur van een kwalificatiedossier is verstreken, kan een diploma op basis van dat kwalificatiedossier nog worden uitgereikt gedurende een periode die overeenkomt met de normatieve studieduur van de desbetreffende beroepsopleiding, vermeerderd met 2 jaren.   
@@ -1791,6 +1811,8 @@ e. ten minste 1 jaar en ten hoogste 2 jaren.
 ### Artikel  7.2.4a  
 
 ####Studieduur opleidingen
+
+Treedt in werking per 01-08-2014   
 
 1.  Het bevoegd gezag stelt de studieduur van de opleiding vast met inachtneming van de bij of krachtens het tweede en derde lid gestelde regels.   
 2.  De studieduur van de opleiding wordt uitgedrukt in volledige studiejaren of gedeelten daarvan. Eén volledig studiejaar heeft een studielast van ten minste 1600 klokuren.   
@@ -1894,7 +1916,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat aan de deelnemers gele
 
 1.  De volgende opleidingen educatie worden onderscheiden: 
 
-a. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma van onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+a. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma van onderwijs als bedoeld in de artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs,  
 
 b. opleidingen Nederlandse taal en rekenen, gericht op alfabetisering en op het ingangsniveau van het beroepsonderwijs,  
 
@@ -2000,7 +2022,7 @@ b. de procedures rond de examens en de voorwaarden waaronder examens worden afge
 
 ####Internationale diplomawaardering
 
-1.  Onze Minister kan een rechtspersoon aanwijzen die tot taak heeft het desgevraagd, aan belanghebbenden of aan de op grond van de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) bevoegde autoriteiten, verstrekken van op vergelijking van opleidingen berustende waarderingen of vergelijkingen: 
+1.  Onze Minister kan een rechtspersoon aanwijzen die tot taak heeft het desgevraagd, aan belanghebbenden of aan de op grond van de Algemene wet erkenning EG-beroepskwalificaties bevoegde autoriteiten, verstrekken van op vergelijking van opleidingen berustende waarderingen of vergelijkingen: 
 
 a. van buitenlandse diploma’s of certificaten als bedoeld in die wet alsmede van andere buitenlandse diploma's, met  
 
@@ -2008,7 +2030,7 @@ b. de getuigschriften van overeenkomstige Nederlandse beroepsopleidingen.
 2.  Bij de vergelijkingen en waarderingen wordt zo mogelijk aangegeven tot welke soort in artikel 7.2.2, eerste lid, bedoelde beroepsopleiding de desbetreffende opleiding kan worden gerekend en met welke in het Centraal register vermelde beroepsopleiding die opleiding vergelijkbaar is of kan worden gelijkgesteld.   
 3.  De vergelijking of waardering wordt slechts verstrekt: 
 
-a. op verzoek van de op grond van de in het eerste lid genoemde [wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) bevoegde autoriteiten, ten behoeve van aanvragen tot het verlenen van erkenning van beroepskwalificaties als bedoeld in [artikel 5 van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md),  
+a. op verzoek van de op grond van de in het eerste lid genoemde wet bevoegde autoriteiten, ten behoeve van aanvragen tot het verlenen van erkenning van beroepskwalificaties als bedoeld in artikel 5 van die wet,  
 
 b. indien deze noodzakelijk is voor deelneming van personen met een buitenlandse beroepskwalificatie aan een Nederlandse beroepsopleiding, of  
 
@@ -2040,9 +2062,13 @@ c. indien deze noodzakelijk is voor deelneming van personen met een buitenlandse
 
 ####Kwaliteitscentrum examinering beroepsopleidingen
 
+Vervallen per 13-06-2008   
+
 ### Paragraaf  1b  
 
 ####De uitvoering van de externe kwaliteitsbewaking
+
+Vervallen per 13-06-2008   
 
 ### §  2  
 
@@ -2060,7 +2086,7 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 
 1.  Aan de deelnemers wordt gelegenheid gegeven een examen af te leggen.   
 2.  Artikel 7.4.5 is van overeenkomstige toepassing.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de examens van de opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II, bedoeld in artikel 7.3.1, eerste lid, onder a en c. Bij deze algemene maatregel van bestuur kunnen tevens voorschriften worden gegeven omtrent de examenprogramma’s en de verdeling daarvan in onderdelen.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de examens van de opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II, bedoeld in artikel 7.3.1, eerste lid, onder a en c. Bij deze algemene maatregel van bestuur kunnen tevens voorschriften worden gegeven omtrent de examenprogramma’s en de verdeling daarvan in onderdelen. De examens van de opleidingen voortgezet algemeen volwassenenonderwijs omvatten een rekentoets. Bij de vaststelling van de opgaven van de rekentoets worden de referentieniveaus rekenen in acht genomen die voor de desbetreffende schoolsoorten zijn vastgesteld op grond van artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften omtrent deze toets vastgesteld.   
 4.  Ten behoeve van de bijzondere inrichting van het onderwijs aan een instelling kan Onze Minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens het tweede en derde lid. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 5.  Artikel 7.4.6 is van toepassing, met dien verstande dat degene die een onderdeel van een examen van de opleiding voortgezet algemeen volwassenenonderwijs of Nederlands als tweede taal I of II met goed gevolg heeft afgelegd een certificaat ontvangt. Bij of krachtens algemene maatregel van bestuur wordt bepaald onder welke voorwaarden het bezit van certificaten aanspraak geeft op een diploma.   
 6.  Artikel 7.4.8, eerste, tweede, vierde en vijfde lid, is van overeenkomstige toepassing.   
@@ -2068,6 +2094,8 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 ### Paragraaf  3  
 
 ####Toetsen educatieve programma's
+
+Vervallen per 01-01-2007   
 
 ### Titel  5  
 
@@ -2087,11 +2115,11 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 ####Bevoegdheid commissie van beroep voor de examens
 
 1.  De commissie van beroep voor de examens oordeelt over beslissingen van de examencommissie of van de examinatoren.   
-2.  De termijn voor het indienen van het beroepschrift bedraagt, wat de openbare instellingen betreft in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), twee weken.   
-3.  De commissie beslist binnen vier weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken, wat de openbare instellingen betreft in afwijking van [artikel 7:24, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tenzij de commissie deze termijn heeft verlengd met ten hoogste twee weken.   
+2.  De termijn voor het indienen van het beroepschrift bedraagt, wat de openbare instellingen betreft in afwijking van artikel 6:7 van de Algemene wet bestuursrecht, twee weken.   
+3.  De commissie beslist binnen vier weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken, wat de openbare instellingen betreft in afwijking van artikel 7:24, tweede lid, van de Algemene wet bestuursrecht, tenzij de commissie deze termijn heeft verlengd met ten hoogste twee weken.   
 4.  De commissie stelt een onderzoek in alvorens te beslissen. Zij stelt bij haar beslissing zo nodig vast op welke wijze de kandidaat alsnog in de gelegenheid zal worden gesteld het examen geheel of gedeeltelijk af te leggen.   
 5.  De commissie maakt haar beslissing bekend aan de kandidaat, aan de ouders, voogden of verzorgers van de kandidaat indien deze minderjarig is, aan het bevoegd gezag, aan het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt, en aan de inspectie.   
-6.  Indien de commissie het beroep gegrond acht, vernietigt zij de beslissing geheel of gedeeltelijk. De commissie is niet bevoegd in de plaats van de geheel of gedeeltelijk vernietigde beslissing een nieuwe beslissing te nemen, wat de openbare instellingen betreft in afwijking van [artikel 7:25 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Zij kan bepalen dat opnieuw of, indien de beslissing is geweigerd, alsnog in de zaak wordt beslist, dan wel dat het examen of enig onderdeel daarvan opnieuw wordt afgenomen onder door de commissie te stellen voorwaarden. De examencommissie of de examinator van wie de beslissing is vernietigd, voorziet voor zover nodig opnieuw in de zaak met inachtneming van de uitspraak van de commissie van beroep voor de examens. De commissie kan daarvoor in haar uitspraak een termijn stellen.   
+6.  Indien de commissie het beroep gegrond acht, vernietigt zij de beslissing geheel of gedeeltelijk. De commissie is niet bevoegd in de plaats van de geheel of gedeeltelijk vernietigde beslissing een nieuwe beslissing te nemen, wat de openbare instellingen betreft in afwijking van artikel 7:25 van de Algemene wet bestuursrecht. Zij kan bepalen dat opnieuw of, indien de beslissing is geweigerd, alsnog in de zaak wordt beslist, dan wel dat het examen of enig onderdeel daarvan opnieuw wordt afgenomen onder door de commissie te stellen voorwaarden. De examencommissie of de examinator van wie de beslissing is vernietigd, voorziet voor zover nodig opnieuw in de zaak met inachtneming van de uitspraak van de commissie van beroep voor de examens. De commissie kan daarvoor in haar uitspraak een termijn stellen.   
 
 ### Artikel  7.5.3  
 
@@ -2109,6 +2137,8 @@ De leden van de examencommissie en de examinatoren verstrekken aan de commissie 
 ### Titel  6  
 
 ####Commissie van beroep voor de extern gelegitimeerde examens
+
+Vervallen per 01-08-2004   
 
 ### Titel  7  
 
@@ -2143,15 +2173,16 @@ a. de Nederlandse nationaliteit bezit of op grond van een wettelijke bepaling al
 
 b. vreemdeling is en jonger is dan 18 jaar op de eerste dag waarop de opleiding of het onderdeel van de opleiding begint waarvoor voor de eerste maal inschrijving wordt gewenst,  
 
-c. vreemdeling is, 18 jaar of ouder is op de eerste dag waarop de opleiding of het onderdeel van de opleiding begint waarvoor voor de eerste maal inschrijving wordt gewenst en op die dag rechtmatig verblijft houdt in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of  
+c. vreemdeling is, 18 jaar of ouder is op de eerste dag waarop de opleiding of het onderdeel van de opleiding begint waarvoor voor de eerste maal inschrijving wordt gewenst en op die dag rechtmatig verblijft houdt in de zin van artikel 8 van de Vreemdelingenwet 2000, of  
 
 d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b of c, en eerder in overeenstemming met een van die onderdelen is ingeschreven voor een opleiding of het onderdeel van de opleiding van een instelling, welke opleiding of welk onderdeel van de opleiding nog steeds wordt gevolgd en nog niet is voltooid.     
 1a.  Indien na de inschrijving voor de opleiding of een onderdeel van de opleiding blijkt dat deze op welke grond dan ook niet in overeenstemming met de vijfde volzin van het eerste lid heeft plaatsgevonden, wordt de onderwijsovereenkomst, bedoeld in artikel 8.1.3, met onmiddellijke ingang ontbonden.   
+1b.  Voor de student die zich heeft ingeschreven voor een Ad-programma als bedoeld in artikel 7.8a, eerste lid, tweede volzin, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek geldt niet de verplichting, bedoeld in de eerste volzin van het eerste lid, om gebruik te kunnen maken van de onderwijsvoorzieningen.   
 2.  De inschrijving geschiedt voor een opleiding of een onderdeel daarvan. In geval van een beroepsopleiding geschiedt de inschrijving voor een opleidingsdomein, een kwalificatiedossier of een kwalificatie. Bij de inschrijving worden alle gegevens vermeld die het bevoegd gezag nodig heeft om te kunnen voldoen aan de verplichting, bedoeld in artikel 2.3.6a, tweede lid, of ingeval van een beroepsopleiding, artikel 2.5.5a, tweede lid.   
 3.  De inschrijving staat uitsluitend open voor degenen ten aanzien van wie het bevoegd gezag beslist dat zij tot de instelling worden toegelaten, onverminderd het eerste lid, vierde volzin, en het vijfde lid. Het bevoegd gezag kan het nemen van de beslissing over de toelating opdragen aan een door hem in te stellen toelatingscommissie. Het bevoegd gezag regelt de bevoegdheden en de werkzaamheden van de toelatingscommissie.   
-4.  De toelating tot beroepsopleidingen staat voor zover het de beroepsbegeleidende leerweg betreft, uitsluitend open voor degenen voor wie de volledige leerplicht, bedoeld in [paragraaf 2 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), is geëindigd.   
+4.  De toelating tot beroepsopleidingen staat voor zover het de beroepsbegeleidende leerweg betreft, uitsluitend open voor degenen voor wie de volledige leerplicht, bedoeld in paragraaf 2 van de Leerplichtwet 1969, is geëindigd.   
 5.  In afwijking van het derde lid en met inachtneming van artikel 8.2.1 en het krachtens artikel 8.2.2 bepaalde” doch onverminderd de vierde volzin van het eerste lid, staat de inschrijving voor een assistentopleiding of basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid, open voor een ieder, met dien verstande dat het bevoegd gezag van een bijzondere instelling kan aangeven dat degenen die wensen te worden ingeschreven, geacht worden de grondslag en de doelstellingen van de instelling te respecteren. De inschrijving kan worden geweigerd dan wel ingetrokken indien de betrokkene de grondslag en de doelstellingen van de instelling niet respecteert. De inschrijving aan een bijzondere instelling kan eveneens worden geweigerd dan wel ingetrokken indien gegronde vrees bestaat dat de betrokkene van die inschrijving en de daaraan verbonden rechten misbruik zal maken door in ernstige mate afbreuk te doen aan de eigen aard van die instelling, dan wel indien is gebleken dat de betrokkene van die inschrijving en de daaraan verbonden rechten een dergelijk misbruik heeft gemaakt. De weigering dan wel intrekking van de inschrijving geschiedt schriftelijk en is met redenen omkleed. De inschrijving kan niet worden ingetrokken op grond van de tweede volzin indien voor betrokkene geen gelegenheid bestaat de opleiding aan een andere instelling te volgen.   
-6.  De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1. eerste lid, onderdelen c tot en met e, staat niet open voor volwassenen die inburgeringsplichtig zijn in de zin van [artikel 1, aanhef en onder b, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md). Het bevoegd gezag neemt bij de toelating tot opleidingen educatie de overeenkomst, bedoeld in artikel 2.3.4, in acht.   
+6.  De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1. eerste lid, onderdelen c tot en met e, staat niet open voor volwassenen die inburgeringsplichtig zijn in de zin van artikel 1, aanhef en onder b, van de Wet inburgering. Het bevoegd gezag neemt bij de toelating tot opleidingen educatie de overeenkomst, bedoeld in artikel 2.3.4, in acht.   
 7.  De inschrijving voor een opleidingsdomein kan uitsluitend geschieden voor een beroepsopleiding in de beroepsopleidende leerweg op het tweede, derde of vierde niveau, bedoeld in artikel 7.2.2, derde lid.   
 8.  Bij ministeriële regeling kan een maximum worden vastgesteld voor het percentage van de deelnemers in het beroepsonderwijs dat in een jaar kan worden ingeschreven voor een opleidingsdomein.   
 
@@ -2170,12 +2201,16 @@ d. vreemdeling is, niet meer voldoet aan een van de voorwaarden genoemd onder b 
 
 ####Toelating entreeopleiding
 
-1.  De toelating tot de entreeopleiding staat uitsluitend open voor degenen die niet ten minste voldoen aan de vooropleidingseisen van de basisberoepsopleiding, bedoeld in artikel 8.2.1, vierde lid, en op wie [paragraaf 2 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) niet meer van toepassing is, met uitzondering van degenen ten aanzien van wie toepassing is gegeven aan [artikel 3b van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md).   
+Treedt in werking per 01-08-2014   
+
+1.  De toelating tot de entreeopleiding staat uitsluitend open voor degenen die niet ten minste voldoen aan de vooropleidingseisen van de basisberoepsopleiding, bedoeld in artikel 8.2.1, vierde lid, en op wie paragraaf 2 van de Leerplichtwet 1969 niet meer van toepassing is, met uitzondering van degenen ten aanzien van wie toepassing is gegeven aan artikel 3b van de Leerplichtwet 1969.   
 2.  Het bevoegd gezag kan de toelating tot de entreeopleiding slechts weigeren indien diegene die om toelating verzoekt in de afgelopen twee studiejaren bij een instelling was ingeschreven voor een entreeopleiding.   
 
 ### Artikel  8.1.1c  
 
 ####Toelating basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding
+
+Treedt in werking per 01-08-2014   
 
 Het bevoegd gezag beslist over de toelating tot de basisberoepsopleiding, de vakopleiding, de middenkaderopleiding en de specialistenopleiding. Het bevoegd gezag kan bepalen dat de in de eerste volzin bedoelde bevoegdheid onder zijn verantwoordelijkheid wordt uitgeoefend door een door het bevoegd gezag in te stellen toelatingscommissie. Het bevoegd gezag regelt de omvang, werkzaamheden en bevoegdheden van de toelatingscommissie.  
 
@@ -2183,7 +2218,9 @@ Het bevoegd gezag beslist over de toelating tot de basisberoepsopleiding, de vak
 
 ####Toelating opleiding educatie
 
-De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onderdelen c tot en met e, staat niet open voor volwassenen die inburgeringsplichtig zijn in de zin van [artikel 1, aanhef en onder b, van de Wet inburgering](../../../../../../wet/wet/inburgering/BWBR0020611/README.md). Het bevoegd gezag neemt bij de toelating tot opleidingen educatie de overeenkomst, bedoeld in artikel 2.3.4, in acht.  
+Treedt in werking per 01-08-2014   
+
+De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen. De toelating tot de opleidingen educatie, bedoeld in artikel 7.3.1, eerste lid, onderdelen c tot en met e, staat niet open voor volwassenen die inburgeringsplichtig zijn in de zin van artikel 1, aanhef en onder b, van de Wet inburgering. Het bevoegd gezag neemt bij de toelating tot opleidingen educatie de overeenkomst, bedoeld in artikel 2.3.4, in acht.  
 
 ### Artikel  8.1.2  
 
@@ -2208,11 +2245,11 @@ c. de wijze waarop partijen uit de overeenkomst voortkomende prestaties gestalte
 
 d. in voorkomend geval, terugbetaling van voorschotten, verstrekt door het bevoegd gezag, ter voldoening van een bij of krachtens de wet geregelde geldelijke bijdrage als bedoeld in artikel 8.1.4,  
 
-e. de terugbetaling van cursusgeld in andere gevallen dan bedoeld in [artikel 14, tweede lid onder a tot en met d, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), en  
+e. de terugbetaling van cursusgeld in andere gevallen dan bedoeld in artikel 14, tweede lid onder a tot en met d, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000, en  
 
 f. het verzuimbeleid van het bevoegd gezag.     
 4.  Indien tot een bijzondere instelling andere deelnemers worden toegelaten dan voor wie de instelling in verband met de godsdienstige of levensbeschouwelijke richting wordt in stand gehouden, kunnen deze deelnemers niet worden verplicht tot het volgen van onderwijs dat in verband met die richting door de instelling wordt verzorgd.   
-5.  Definitieve verwijdering van een deelnemer waarop de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) van toepassing is, vindt niet plaats dan nadat het bevoegd gezag ervoor heeft zorggedragen dat een andere instelling, een school voor speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, dan wel een instelling als bedoeld in [artikel 1, onder c, van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) bereid is de deelnemer toe te laten. Indien aantoonbaar gedurende 8 weken zonder succes is gezocht naar een zodanige instelling of school waarnaar kan worden verwezen, kan in afwijking van de eerste volzin tot definitieve verwijdering worden overgegaan.   
+5.  Definitieve verwijdering van een deelnemer waarop de Leerplichtwet 1969 van toepassing is, vindt niet plaats dan nadat het bevoegd gezag ervoor heeft zorggedragen dat een andere instelling, een school voor speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, dan wel een instelling als bedoeld in artikel 1, onder c, van de Leerplichtwet 1969 bereid is de deelnemer toe te laten. Indien aantoonbaar gedurende 8 weken zonder succes is gezocht naar een zodanige instelling of school waarnaar kan worden verwezen, kan in afwijking van de eerste volzin tot definitieve verwijdering worden overgegaan.   
 6.  Dit artikel is van overeenkomstige toepassing op examendeelnemers als bedoeld in artikel 8.1.1, eerste lid.   
 
 ### Artikel  8.1.4  
@@ -2225,7 +2262,7 @@ De inschrijving wordt niet afhankelijk gesteld van een andere dan een bij of kra
 
 ####Controle op langdurige afwezigheid
 
-1.  Het bevoegd gezag stelt van iedere aan de instelling ingeschreven deelnemer die valt onder de werking van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), vast, of deze deelnemer gedurende een aaneengesloten periode van ten minste 5 weken zonder geldige reden niet aan het onderwijs heeft deelgenomen. In afwijking van de vorige volzin kan Onze Minister bepalen dat voor soorten van onderwijs als bedoeld in deze wet, de in die volzin bedoelde vaststelling wordt gedaan indien een ingeschreven deelnemer in een of meer vakken niet aan het onderwijs heeft deelgenomen. Onder afwezigheid met geldige reden wordt verstaan afwezigheid wegens ziekte van de deelnemer, welke ziekte uitsluitend kan worden aangetoond door middel van een gedagtekende verklaring van een arts, en afwezigheid wegens bijzondere familie-omstandigheden.   
+1.  Het bevoegd gezag stelt van iedere aan de instelling ingeschreven deelnemer die valt onder de werking van de Wet studiefinanciering 2000 of van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, vast, of deze deelnemer gedurende een aaneengesloten periode van ten minste 5 weken zonder geldige reden niet aan het onderwijs heeft deelgenomen. In afwijking van de vorige volzin kan Onze Minister bepalen dat voor soorten van onderwijs als bedoeld in deze wet, de in die volzin bedoelde vaststelling wordt gedaan indien een ingeschreven deelnemer in een of meer vakken niet aan het onderwijs heeft deelgenomen. Onder afwezigheid met geldige reden wordt verstaan afwezigheid wegens ziekte van de deelnemer, welke ziekte uitsluitend kan worden aangetoond door middel van een gedagtekende verklaring van een arts, en afwezigheid wegens bijzondere familie-omstandigheden.   
 2.  Het bevoegd gezag meldt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van vier weken aan de deelnemer dat daarvan in de administratie van de instelling aantekening is gemaakt en verzoekt de deelnemer om opgaaf van de reden van de afwezigheid. Het bevoegd gezag doet daarbij mededeling van de opgave van de gegevens van de deelnemer, bedoeld in artikel 8.1.8a, eerste lid.   
 3.  Uiterlijk op de vijfde werkdag na de periode van 8 weken stelt het bevoegd gezag vast: 
 
@@ -2235,17 +2272,19 @@ b. dat de deelnemer binnen 8 weken na de aanvang van de periode van 5 weken geen
 4.  Het bevoegd gezag stelt tevens uiterlijk op de vijfde werkdag na afloop van de periode van 8 weken vast of de deelnemer voor het einde van die periode weer aan het onderwijs is gaan deelnemen.   
 5.  Het bevoegd gezag meldt uiterlijk de vijfde werkdag na afloop van een periode van 8 weken aan Onze Minister de deelnemer die gedurende een aaneengesloten periode van ten minste 5 weken zonder opgave van geldige reden niet aan het onderwijs heeft deelgenomen. Tevens meldt het indien die deelnemer voor het einde van de periode van 8 weken weer aan het onderwijs is gaan deelnemen de datum ervan.   
 6.  De periode van 5 weken en de periode van 8 weken worden verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd. Zij wordt geacht niet te zijn onderbroken door deze vakantieweken.   
-7.  Het bevoegd gezag stuurt gelijktijdig met de mededelingen, bedoeld in het vijfde lid, een afschrift van de gegevens die over de betrokken deelnemer aan Onze Minister zijn verstrekt aan deze betrokkene. Het bevoegd gezag geeft daarbij tevens aan dat afwezigheid als bedoeld in het eerste lid, gevolgen heeft voor de studiefinanciering van betrokkene op grond van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of voor de tegemoetkoming onderwijsbijdrage en schoolkosten van betrokkene op grond van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), alsmede welke beroepsgang voor betrokkene tegen de mededeling, bedoeld in het vijfde lid, open staat.   
+7.  Het bevoegd gezag stuurt gelijktijdig met de mededelingen, bedoeld in het vijfde lid, een afschrift van de gegevens die over de betrokken deelnemer aan Onze Minister zijn verstrekt aan deze betrokkene. Het bevoegd gezag geeft daarbij tevens aan dat afwezigheid als bedoeld in het eerste lid, gevolgen heeft voor de studiefinanciering van betrokkene op grond van de Wet studiefinanciering 2000 of voor de tegemoetkoming onderwijsbijdrage en schoolkosten van betrokkene op grond van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, alsmede welke beroepsgang voor betrokkene tegen de mededeling, bedoeld in het vijfde lid, open staat.   
 8.  Indien het bevoegd gezag van een bijzondere instelling aan Onze Minister de in het vijfde lid bedoelde mededeling heeft gedaan, kan de deelnemer binnen 6 weken na ontvangst van de gegevens, bedoeld in het zevende lid, bij het bevoegd gezag schriftelijk bedenkingen uiten tegen die mededeling.   
 9.  Onder «deelnemer» als bedoeld in het vijfde en zevende lid wordt verstaan de deelnemer die 
 
 a. een assistentopleiding of een basisberoepsopleiding volgt als bedoeld in artikel 7.2.2, eerste lid, onderdelen a of b, of  
 
-b. voor 1 augustus 2005 studiefinanciering in de zin van de [Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) ontving.     
+b. voor 1 augustus 2005 studiefinanciering in de zin van de Wet studiefinanciering 2000 ontving.     
 
 ### Artikel  8.1.7a  
 
 ####Bindend studieadvies
+
+Treedt in werking per 01-08-2014   
 
 1.  Het bevoegd gezag brengt aan iedere deelnemer die is ingeschreven in een entreeopleiding uiterlijk binnen vier kalendermaanden na aanvang van de opleiding advies uit over de voortzetting van zijn opleiding.   
 2.  Aan een advies als bedoeld in het eerste lid kan het bevoegd gezag een besluit tot ontbinding van de onderwijsovereenkomst, bedoeld in artikel 8.1.3, verbinden. De ontbinding is slechts gerechtvaardigd indien de deelnemer naar het oordeel van het bevoegd gezag, met inachtneming van zijn persoonlijke omstandigheden, onvoldoende vordering heeft gemaakt in de opleiding. Het bevoegd gezag kan van de bevoegdheid krachtens dit lid slechts gebruikmaken indien het gezorgd heeft voor zodanige voorzieningen dat de mogelijkheden voor goede voortgang van de opleiding zijn gewaarborgd.   
@@ -2259,9 +2298,9 @@ b. voor 1 augustus 2005 studiefinanciering in de zin van de [Wet studiefinancier
 
 1.  Het bevoegd gezag doet onverwijld opgave aan burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft van de gegevens van degene 
 
-a. op wie de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) niet meer van toepassing is en die de leeftijd van 23 jaren nog niet heeft bereikt,  
+a. op wie de Leerplichtwet 1969 niet meer van toepassing is en die de leeftijd van 23 jaren nog niet heeft bereikt,  
 
-b. die niet in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, dan wel een diploma voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs als bedoeld in [artikel 7](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [artikel 8 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
+b. die niet in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, dan wel een diploma voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs als bedoeld in artikel 7 onderscheidenlijk artikel 8 van de Wet op het voortgezet onderwijs, en  
 
 c. die bij de instelling wordt verwijderd.     
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de toepassing van het eerste lid.   
@@ -2280,7 +2319,7 @@ c. die bij de instelling wordt verwijderd.
 8.  Het bevoegd gezag kan de gegevens, bedoeld in het eerste lid, verstrekken aan burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft.   
 9.  Bij de verwerking van gegevens, bedoeld in dit artikel, wordt het persoonsgebonden nummer van de betrokkene gebruikt.   
 10.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van de verstrekking van gegevens op grond van het eerste en vijfde lid en wordt een nadere specificatie gegeven van de gegevens die op grond van het eerste en vijfde lid worden verstrekt.   
-11.  De gegevens die worden verstrekt op grond van het eerste lid kunnen persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) omvatten, met uitzondering van gegevens over ras, politieke gezindheid, seksueel leven of het lidmaatschap van een vakvereniging, voor zover deze persoonsgegevens noodzakelijk zijn met het oog op de informatieverstrekking over de achtergronden van het verzuim.   
+11.  De gegevens die worden verstrekt op grond van het eerste lid kunnen persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens omvatten, met uitzondering van gegevens over ras, politieke gezindheid, seksueel leven of het lidmaatschap van een vakvereniging, voor zover deze persoonsgegevens noodzakelijk zijn met het oog op de informatieverstrekking over de achtergronden van het verzuim.   
 12.  Op verzoek van burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft, komen hun rechten en verplichtingen als bedoeld in dit artikel toe aan burgemeester en wethouders van de contactgemeente, bedoeld in artikel 8.3.2, derde lid.   
 
 ### Titel  2  
@@ -2322,7 +2361,7 @@ e. een ander bij ministeriële regeling aangewezen diploma of bewijsstuk.   Indi
 
 ####Nadere vooropleidingseisen
 
-1.  Op voorstel van organisaties in het voortgezet onderwijs, vertegenwoordigers van de instellingen, de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 9.2.1, tweede lid, onderdeel a, en de commissies onderwijs-bedrijfsleven, bedoeld in artikel 9.2.1, derde lid, worden bij ministeriële regeling aangewezen de sectoren, bedoeld in de [artikelen 10](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10d van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waarop het diploma middelbaar algemeen voortgezet onderwijs, het diploma voorbereidend beroepsonderwijs, het diploma mavo-vbo en de diploma's voorbereidend middelbaar beroepsonderwijs betrekking moeten hebben, alsmede vakken en andere programma-onderdelen die deel moeten hebben uitgemaakt van het examen ter verkrijging van een van deze diploma's, om te kunnen worden ingeschreven voor een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e.   
+1.  Op voorstel van organisaties in het voortgezet onderwijs, vertegenwoordigers van de instellingen, de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 9.2.1, tweede lid, onderdeel a, en de commissies onderwijs-bedrijfsleven, bedoeld in artikel 9.2.1, derde lid, worden bij ministeriële regeling aangewezen de sectoren, bedoeld in de artikelen 10, 10b en 10d van de Wet op het voortgezet onderwijs, waarop het diploma middelbaar algemeen voortgezet onderwijs, het diploma voorbereidend beroepsonderwijs, het diploma mavo-vbo en de diploma's voorbereidend middelbaar beroepsonderwijs betrekking moeten hebben, alsmede vakken en andere programma-onderdelen die deel moeten hebben uitgemaakt van het examen ter verkrijging van een van deze diploma's, om te kunnen worden ingeschreven voor een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e.   
 2.  In de ministeriële regeling kan onderscheid worden gemaakt naar groepen van deelnemers, dan wel kan worden bepaald dat de regeling niet van toepassing is op groepen van deelnemers.   
 
 ### Titel  3  
@@ -2337,15 +2376,15 @@ e. een ander bij ministeriële regeling aangewezen diploma of bewijsstuk.   Indi
 
 a. die het onderwijs of de educatie aan de instelling waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
 
-b. die niet meer aan een instelling is ingeschreven en evenmin is ingeschreven aan een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel aan een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md).     
-2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdig schoolverlater niet verstaan degene die in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, dan wel een getuigschrift van het praktijkonderwijs als bedoeld in [artikel 10f van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
+b. die niet meer aan een instelling is ingeschreven en evenmin is ingeschreven aan een school als bedoeld in de Wet op het voortgezet onderwijs dan wel aan een school of instelling als bedoeld in de Wet op de expertisecentra.     
+2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdig schoolverlater niet verstaan degene die in het bezit is van een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, een getuigschrift van het arbeidsmarktgerichte uitstroomprofiel of het uitstroomprofiel dagbesteding als bedoeld in artikel 14d respectievelijk artikel 14g van de Wet op de expertisecentra dan wel een getuigschrift van het praktijkonderwijs als bedoeld in artikel 10f van de Wet op het voortgezet onderwijs en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
 
 ### Artikel  8.3.2  
 
 ####Bestrijding voortijdig schoolverlaten door gemeente
 
-1.  Burgemeester en wethouders dragen zorg voor registratie van de gegevens die het bevoegd gezag ingevolge artikel 8.1.8 heeft gemeld of waarover zij op grond van artikel 8.1.8a of op grond van [artikel 24f, derde en vierde lid, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) beschikken. Burgemeester en wethouders dragen bovendien zorg voor een systeem van doorverwijzing naar onderwijs of arbeidsmarkt van de in artikel 8.3.1 bedoelde voortijdige schoolverlaters en voor het onderhoud van dit systeem. Het systeem heeft mede betrekking op de gegevens waarover de gemeente beschikt in het kader van de uitvoering van de [Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). Voor de uitvoering van de eerste en tweede volzin kunnen bij ministeriële regeling nadere voorschriften worden vastgesteld.   
-2.  Voor de vervulling van hun in het eerste lid bedoelde taken werken de colleges van burgemeester en wethouders samen binnen bij of krachtens algemene maatregel van bestuur vastgestelde regio's. Zij maken tevens afspraken met instellingen, scholen als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), scholen en instellingen als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en organisaties die zijn betrokken bij het voorkomen en bestrijden van voortijdig schoolverlaten.   
+1.  Burgemeester en wethouders dragen zorg voor registratie van de gegevens die het bevoegd gezag ingevolge artikel 8.1.8 heeft gemeld of waarover zij op grond van artikel 8.1.8a of op grond van artikel 24f, derde en vierde lid, van de Wet op het onderwijstoezicht beschikken. Burgemeester en wethouders dragen bovendien zorg voor een systeem van doorverwijzing naar onderwijs of arbeidsmarkt van de in artikel 8.3.1 bedoelde voortijdige schoolverlaters en voor het onderhoud van dit systeem. Het systeem heeft mede betrekking op de gegevens waarover de gemeente beschikt in het kader van de uitvoering van de Leerplichtwet 1969. Voor de uitvoering van de eerste en tweede volzin kunnen bij ministeriële regeling nadere voorschriften worden vastgesteld.   
+2.  Voor de vervulling van hun in het eerste lid bedoelde taken werken de colleges van burgemeester en wethouders samen binnen bij of krachtens algemene maatregel van bestuur vastgestelde regio's. Zij maken tevens afspraken met instellingen, scholen als bedoeld in de Wet op het voortgezet onderwijs, scholen en instellingen als bedoeld in de Wet op de expertisecentra en organisaties die zijn betrokken bij het voorkomen en bestrijden van voortijdig schoolverlaten.   
 3.  De colleges van burgemeester en wethouders in een regio wijzen uit hun midden een contactgemeente aan. Deze aanwijzing wordt onverwijld gemeld aan Onze Minister. Burgemeester en wethouders van de contactgemeente vervullen coördinerende taken met het oog op het voorkomen en bestrijden van voortijdig schoolverlaten. In dat verband: 
 
 a. maken zij afspraken met de in het tweede lid bedoelde scholen, instellingen en organisaties over de inzet en verantwoordelijkheid bij het voorkomen en bestrijden van voortijdig schoolverlaten;  
@@ -2358,7 +2397,7 @@ c. organiseren en coördineren zij de in het eerste lid bedoelde melding, regist
 6.  Het bevoegd gezag geeft aan de door burgemeester en wethouders aangewezen personen alle gevraagde bescheiden ter inzage en verstrekt de gevraagde inlichtingen die van belang zijn voor het voorkomen en bestrijden van voortijdig schoolverlaten.   
 7.  De gemeenteraden in een regio stellen streefcijfers vast voor de in die regio te behalen resultaten. Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks een effectrapportage vast waarin zowel de streefcijfers als de bereikte resultaten zijn aangegeven en waarin afwijkingen worden toegelicht.   
 8.  Indien burgemeester en wethouders van de contactgemeente het bepaalde bij of krachtens het eerste tot en met zevende lid niet nakomen, kan Onze Minister de uitkering geheel of gedeeltelijk inhouden of opschorten. Onze Minister gaat niet over tot gehele of gedeeltelijke inhouding dan na overleg met burgemeester en wethouders van de contactgemeente. Onze Minister kan de uitkering wederom toekennen indien de reden voor inhouding of opschorting is vervallen.   
-9.  Onze Minister kan de in het vijfde lid bedoelde uitkering geheel of gedeeltelijk terugvorderen indien uit de informatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), niet blijkt dat de uitkering is besteed in overeenstemming met dit artikel.   
+9.  Onze Minister kan de in het vijfde lid bedoelde uitkering geheel of gedeeltelijk terugvorderen indien uit de informatie, bedoeld in artikel 17a van de Financiële-verhoudingswet, niet blijkt dat de uitkering is besteed in overeenstemming met dit artikel.   
 
 ### Artikel  8.3.3  
 
@@ -2376,15 +2415,15 @@ c. organiseren en coördineren zij de in het eerste lid bedoelde melding, regist
 
 ####Samenwerkingsovereenkomst leer-werktrajecten vmbo
 
-1.  Leer-werktrajecten als bedoeld in [artikel 10b1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en het bevoegd gezag van een instelling.   
-2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b7 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  Leer-werktrajecten als bedoeld in artikel 10b1 van de Wet op het voortgezet onderwijs worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs en het bevoegd gezag van een instelling.   
+2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan artikel 10b7 van de Wet op het voortgezet onderwijs.   
 
 ### Artikel  8.4.2  
 
 ####Samenwerkingsovereenkomst assistentopleiding in het vmbo
 
-1.  De assistentopleiding, bedoeld in [artikel 10b8 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
-2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b9 van de Wet op het voorgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  De assistentopleiding, bedoeld in artikel 10b8 van de Wet op het voortgezet onderwijs, wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs.   
+2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan artikel 10b9 van de Wet op het voorgezet onderwijs.   
 
 ### Titel  5  
 
@@ -2394,15 +2433,15 @@ c. organiseren en coördineren zij de in het eerste lid bedoelde melding, regist
 
 ####Samenwerkingsovereenkomst leer-werktrajecten VSO
 
-1.  Leer-werktrajecten, ingevolge [artikel 14a, tweede lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), dan wel ingevolge [artikel 59a, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een school waar voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd en het bevoegd gezag van een instelling.   
-2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b7 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  Leer-werktrajecten, ingevolge artikel 14a, tweede lid, van de Wet op de expertisecentra, dan wel ingevolge artikel 59a, tweede lid, van de Wet op het voortgezet onderwijs, worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een school waar voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd en het bevoegd gezag van een instelling.   
+2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan artikel 10b7 van de Wet op het voortgezet onderwijs.   
 
 ### Artikel  8.5.2  
 
 ####Samenwerkingsovereenkomst assistentopleiding in het VSO
 
-1.  De assistentopleiding, ingevolge [artikel 14a, tweede lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), dan wel ingevolge [artikel 59a, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school waar voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd.   
-2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b9, eerste en tweede lid, van de Wet op de voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+1.  De assistentopleiding, ingevolge artikel 14a, tweede lid, van de Wet op de expertisecentra, dan wel ingevolge artikel 59a, tweede lid, van de Wet op het voortgezet onderwijs, wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school waar voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd.   
+2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan artikel 10b9, eerste en tweede lid, van de Wet op de voortgezet onderwijs.   
 
 ### Hoofdstuk  8a  
 
@@ -2441,7 +2480,7 @@ c. commissie: de landelijke geschillencommissie medezeggenschap, bedoeld in arti
 
 1.  Indien ten minste 25 ouders van deelnemers van een regionaal opleidingencentrum daarom verzoeken, stelt het bevoegd gezag een ouderraad in. Indien van de eerste volzin gebruik wordt gemaakt, legt het bevoegd gezag de bevoegdheden van de ouderraad vast in het medezeggenschapsstatuut, na overleg met de ouders die het verzoek hebben ingediend. Op een ouderraad als bedoeld in de eerste volzin, is artikel 8a.1.2, met uitzondering van het eerste lid, van overeenkomstige toepassing.   
 2.  Aan een agrarisch opleidingscentrum en aan een scholengemeenschap als bedoeld in artikel 2.6, eerste lid, is een ouderraad verbonden. Een ouderraad als bedoeld in de eerste volzin, behartigt in het bijzonder de belangen van de deelnemers in de leeftijd tot 18 jaar.   
-3.  Indien een school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs zich met een regionaal opleidingencentrum verenigt tot een scholengemeenschap als bedoeld in artikel 2.6, eerste lid, vormt het in de [Wet medezeggenschap op scholen](../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md) bedoelde, uit en door de ouders gekozen deel van de medezeggenschapsraad van die school voor voortgezet onderwijs de eerste ouderraad van de scholengemeenschap. Indien een school voor middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zich met een agrarisch opleidingscentrum verenigt tot een scholengemeenschap als bedoeld in artikel 2.6, eerste lid, vormen de ouderraad van het agrarisch opleidingscentrum, bedoeld in het tweede lid, en het in de Wet medezeggenschap op scholen bedoelde, uit en door de ouders gekozen deel van de medezeggenschapsraad van die school voor middelbaar algemeen voortgezet onderwijs gezamenlijk de eerste ouderraad van de scholengemeenschap.   
+3.  Indien een school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs zich met een regionaal opleidingencentrum verenigt tot een scholengemeenschap als bedoeld in artikel 2.6, eerste lid, vormt het in de Wet medezeggenschap op scholen bedoelde, uit en door de ouders gekozen deel van de medezeggenschapsraad van die school voor voortgezet onderwijs de eerste ouderraad van de scholengemeenschap. Indien een school voor middelbaar algemeen voortgezet onderwijs als bedoeld in artikel 9 van de Wet op het voortgezet onderwijs zich met een agrarisch opleidingscentrum verenigt tot een scholengemeenschap als bedoeld in artikel 2.6, eerste lid, vormen de ouderraad van het agrarisch opleidingscentrum, bedoeld in het tweede lid, en het in de Wet medezeggenschap op scholen bedoelde, uit en door de ouders gekozen deel van de medezeggenschapsraad van die school voor middelbaar algemeen voortgezet onderwijs gezamenlijk de eerste ouderraad van de scholengemeenschap.   
 4.  Het bevoegd gezag legt de bevoegdheden van een ouderraad vast in het medezeggenschapsstatuut. Voor de vaststelling is artikel 8a.2.2, derde lid, aanhef en onderdeel a, van overeenkomstige toepassing op een ouderraad. Op een ouderraad zijn artikel 8a.2.1, vierde lid, en titel 4 van dit hoofdstuk van overeenkomstige toepassing.   
 
 ### Artikel  8a.1.4  
@@ -2604,7 +2643,7 @@ b. artikel 8a.4.2, onderdeel b: welke interpretatie aan dit hoofdstuk of het reg
 c. artikel 8a.4.2, onderdeel c: of het bevoegd gezag bij afweging van betrokken belangen in redelijkheid tot het besluit heeft kunnen komen en of het besluit al dan niet in stand kan blijven.     
 4.  Voor zover de commissie van oordeel is dat het voorstel van het bevoegd gezag niet in redelijkheid tot stand is gekomen, geeft zij aan hoe het voorstel moet worden gewijzigd.   
 5.  Onverminderd artikel 8a.4.4 is een vaststelling van de commissie als bedoeld in het derde lid, voor het bevoegd gezag en de deelnemersraad bindend. Zo nodig neemt het bevoegd gezag met inachtneming van de vaststelling van de commissie een nieuw besluit.   
-6.  Indien de ondernemingsraad ten aanzien van een voorstel tot vaststelling of wijziging van het medezeggenschapsstatuut zijn instemming heeft onthouden, zijn de [artikelen 27, vierde tot en met zesde lid](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), en [36 van de Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) van overeenkomstige toepassing, met dien verstande dat de bevoegdheden van de bedrijfscommissie, bedoeld in het genoemde artikel 36, worden uitgeoefend door de commissie.   
+6.  Indien de ondernemingsraad ten aanzien van een voorstel tot vaststelling of wijziging van het medezeggenschapsstatuut zijn instemming heeft onthouden, zijn de artikelen 27, vierde tot en met zesde lid, en 36 van de Wet op de ondernemingsraden van overeenkomstige toepassing, met dien verstande dat de bevoegdheden van de bedrijfscommissie, bedoeld in het genoemde artikel 36, worden uitgeoefend door de commissie.   
 
 ### Artikel  8a.4.4  
 
@@ -2615,7 +2654,7 @@ c. artikel 8a.4.2, onderdeel c: of het bevoegd gezag bij afweging van betrokken 
 3.  Het beroep wordt ingediend bij beroepschrift binnen een maand nadat het bevoegd gezag of de deelnemersraad van de uitspraak op de hoogte is gesteld. De wederpartij wordt van het beroep in kennis gesteld.   
 4.  Het beroep kan uitsluitend worden ingesteld op de grond dat de commissie een onjuiste toepassing heeft gegeven aan de wet.   
 5.  Tegen een uitspraak van de ondernemingskamer kan geen beroep in cassatie worden ingesteld.   
-6.  In afwijking van [artikel 237 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [artikel 8:75 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de deelnemersraad niet in de proceskosten worden veroordeeld.   
+6.  In afwijking van artikel 237 van het Wetboek van Burgerlijke Rechtsvordering en artikel 8:75 van de Algemene wet bestuursrecht kan de deelnemersraad niet in de proceskosten worden veroordeeld.   
 7.  In dit artikel wordt onder «uitspraak» verstaan: een vaststelling of oordeel van de commissie als bedoeld in artikel 8a.4.3.   
 
 ### Artikel  8a.4.5  
@@ -2652,14 +2691,14 @@ Deze titel is van overeenkomstige toepassing op het advies, bedoeld in artikel 8
 
 ####Bevoegd gezag bijzondere instellingen
 
-Bijzondere instellingen worden in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid niet zijnde een rechtspersoon als bedoeld in [artikel 2:1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die zich blijkens de statuten of reglementen het geven van onderwijs in de zin van deze wet ten doel stelt zonder daarbij het maken van winst te beogen.  
+Bijzondere instellingen worden in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid niet zijnde een rechtspersoon als bedoeld in artikel 2:1 van het Burgerlijk Wetboek, die zich blijkens de statuten of reglementen het geven van onderwijs in de zin van deze wet ten doel stelt zonder daarbij het maken van winst te beogen.  
 
 ### Artikel  9.1.2  
 
 ####Bestuursoverdracht openbare instelling
 
 1.  Het bevoegd gezag van een openbare instelling kan de instandhouding van die instelling overdragen aan een ander orgaan dat tot de instandhouding van een openbare instelling bevoegd is.   
-2.  De overdracht geschiedt bij notariële akte. Bij deze akte verbindt de overdragende rechtspersoon zich tevens de rechten ten aanzien van gebouwen, terreinen en roerende zaken over te dragen. Deze akte geldt tevens als akte van levering als bedoeld in [artikel 3:89 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). In de akte wordt tevens bepaald dat de rechtspersoon aan wie wordt overgedragen het personeel in gelijke betrekkingen aan de instelling aanstelt met ingang van de datum van overdracht.   
+2.  De overdracht geschiedt bij notariële akte. Bij deze akte verbindt de overdragende rechtspersoon zich tevens de rechten ten aanzien van gebouwen, terreinen en roerende zaken over te dragen. Deze akte geldt tevens als akte van levering als bedoeld in artikel 3:89 van het Burgerlijk Wetboek. In de akte wordt tevens bepaald dat de rechtspersoon aan wie wordt overgedragen het personeel in gelijke betrekkingen aan de instelling aanstelt met ingang van de datum van overdracht.   
 3.  Door overdracht met inachtneming van het eerste en tweede lid treedt de verkrijgende rechtspersoon in alle uit de wet voortvloeiende rechten en verplichtingen van zijn rechtsvoorganger met betrekking tot de instelling, onverminderd hetgeen verder voor de overgang naar burgerlijk recht is vereist.   
 4.  Van de verplichting tot overdracht van de rechten ten aanzien van gebouwen, terreinen en roerende zaken kan Onze Minister in bijzondere omstandigheden ontheffing verlenen. Onze Minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 
@@ -2669,7 +2708,7 @@ Bijzondere instellingen worden in stand gehouden door een rechtspersoon met voll
 
 1.  De rechtspersoon die een bijzondere instelling in stand houdt, kan de instandhouding van die instelling overdragen aan een andere rechtspersoon die voldoet aan artikel 9.1.1, eerste lid.   
 2.  Op deze overdracht is artikel 9.1.2, tweede tot en met vierde lid, van toepassing.   
-3.  Bij een splitsing als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van een rechtspersoon die een bijzondere instelling in stand houdt, wordt in de splitsingsakte bepaald dat de voortbestaande splitsende rechtspersoon de instelling in stand zal houden of op welke verkrijgende rechtspersoon de instandhouding van de instelling overgaat. In het laatste geval is artikel 9.1.2, tweede tot en met vierde lid, van overeenkomstige toepassing.   
+3.  Bij een splitsing als bedoeld in artikel 334a van Boek 2 van het Burgerlijk Wetboek van een rechtspersoon die een bijzondere instelling in stand houdt, wordt in de splitsingsakte bepaald dat de voortbestaande splitsende rechtspersoon de instelling in stand zal houden of op welke verkrijgende rechtspersoon de instandhouding van de instelling overgaat. In het laatste geval is artikel 9.1.2, tweede tot en met vierde lid, van overeenkomstige toepassing.   
 
 ### §  2  
 
@@ -2693,7 +2732,7 @@ d. het toezien op de naleving van wettelijke verplichtingen en de omgang met de 
 
 e. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen van de instelling verkregen op grond van de artikelen 2.2.1, 2.2.3 en 2.3.4;  
 
-f. het aanwijzen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die verslag uitbrengt aan de raad, en  
+f. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek die verslag uitbrengt aan de raad, en  
 
 g. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met f, in het jaarverslag van de instelling.     
 4.  Het college van bestuur voorziet de raad van toezicht van onafhankelijke administratieve ondersteuning.   
@@ -2703,7 +2742,33 @@ g. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en 
 a. aan de raad van toezicht advies uit te brengen over de profielen, bedoeld in het vijfde lid, en  
 
 b. een bindende voordracht te doen voor één lid van de raad van toezicht.   Artikel 8a.4.3, zesde lid, is van overeenkomstige toepassing. De tweede en derde volzin zijn niet van toepassing voor zover de ondernemingsraad schriftelijk aan de raad van toezicht te kennen heeft gegeven van de mogelijkheid een voordracht te doen geen gebruik te willen maken.   
-7.  De statuten van de rechtspersoon die een bijzondere instelling in stand houdt, voorzien in een regeling die waarborgt dat de raad van toezicht de ondernemingsraad vertrouwelijk hoort over een voorgenomen besluit tot benoeming of ontslag van een lid van het college van bestuur, niet zijnde bestuurder in de zin van de [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md). Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.   
+7.  De statuten van de rechtspersoon die een bijzondere instelling in stand houdt, voorzien in een regeling die waarborgt dat de raad van toezicht de ondernemingsraad vertrouwelijk hoort over een voorgenomen besluit tot benoeming of ontslag van een lid van het college van bestuur, niet zijnde bestuurder in de zin van de Wet op de ondernemingsraden. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.   
+
+### Artikel  9.1.4a  
+
+####Aanwijzing
+
+1.  Indien sprake is van wanbeheer van een of meer bestuurders of toezichthouders kan Onze Minister de raad van toezicht een aanwijzing geven. Een aanwijzing omvat een of meer maatregelen en is evenredig aan het doel waarvoor zij wordt gegeven.   
+2.  Onder wanbeheer wordt verstaan: 
+
+a. financieel wanbeleid;  
+
+b. ernstige nalatigheid om, in ieder geval in strijd met de artikelen 1.3.6 en 1.3.6a, maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van beroepsonderwijs en educatie in gevaar komt;.  
+
+c. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de instelling in stand houdt, een bestuurder of toezichthouder zelf dan wel een derde;  
+
+d. onrechtmatig handelen waaronder wordt verstaan het in de hoedanigheid van bestuurder of toezichthouder handelen in strijd met wettelijke bepalingen waarmee financieel voordeel wordt behaald ten gunste van de rechtspersoon die de instelling in stand houdt, een bestuurder of toezichthouder zelf dan wel een derde, en  
+
+e. het in ernstige mate verwaarlozen van de zorg voor wat door redelijkheid en billijkheid wordt gevorderd in de omgang met betrokkenen binnen de instelling, waaronder wordt verstaan intimidatie of bedreiging van personeel of studenten door een bestuurder of toezichthouder.     
+3.  In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten sprake is van wanbeheer alsmede de in verband daarmee te nemen maatregelen.   
+4.  Een aanwijzing bevat de termijn waarbinnen de raad van toezicht aan de aanwijzing moet voldoen.   
+5.  Voordat Onze Minister een aanwijzing als bedoeld in het eerste lid geeft: 
+
+a. heeft de inspectie een onderzoek als bedoeld in artikel 15 van de Wet op het onderwijstoezicht verricht;  
+
+b. heeft de inspectie daarover een rapport als bedoeld in artikel 20, eerste lid, van de Wet op het onderwijstoezicht uitgebracht; en  
+
+c. stelt Onze Minister de raad van toezicht vier weken in de gelegenheid zijn zienswijze met betrekking tot de voorgenomen aanwijzing naar voren te brengen.     
 
 ### Artikel  9.1.5  
 
@@ -2738,7 +2803,7 @@ c. indien de instelling een of meer organisatorische eenheden omvat:
 
 ####Functionele scheiding bestuur en toezicht
 
-In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen bestuur en toezicht worden aangebracht binnen het bestuur van de rechtspersoon waarvan de instelling uitgaat. De artikelen 9.1.4, tweede tot en met vijfde lid, en artikel 9.1.7 zijn van overeenkomstige toepassing. Het bevoegd gezag draagt zorg voor een deugdelijke scheiding tussen bestuur en toezicht, vermeldt in de statuten of het bestuursreglement de wijze waarop deze wordt gewaarborgd en vermeldt jaarlijks in het jaarverslag, bedoeld in artikel 2.5.4, de redenen voor de afwijking.  
+In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen bestuur en toezicht worden aangebracht binnen het bestuur van de rechtspersoon waarvan de instelling uitgaat. De artikelen 9.1.4, tweede tot en met vijfde lid, 9.1.4a en 9.1.7 zijn van overeenkomstige toepassing. Het bevoegd gezag draagt zorg voor een deugdelijke scheiding tussen bestuur en toezicht, vermeldt in de statuten of het bestuursreglement de wijze waarop deze wordt gewaarborgd en vermeldt jaarlijks in het jaarverslag, bedoeld in artikel 2.5.4, de redenen voor de afwijking.  
 
 ### Titel  2  
 
@@ -2748,7 +2813,7 @@ In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen
 
 ####Kenniscentra beroepsonderwijs bedrijfsleven; samenstelling
 
-1.  Een kenniscentrum beroepsonderwijs bedrijfsleven wordt in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk niet zijnde een rechtspersoon als bedoeld in [artikel 2:1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Een kenniscentrum beroepsonderwijs bedrijfsleven wordt in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk niet zijnde een rechtspersoon als bedoeld in artikel 2:1 van het Burgerlijk Wetboek.   
 2.  Het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven bestaat: 
 
 a. ofwel voor een derde deel uit vertegenwoordigers van werkgeversorganisaties, voor een derde deel uit vertegenwoordigers van werknemersorganisaties en voor een derde deel uit vertegenwoordigers van de instellingen en de andere instellingen, bedoeld in artikel 1.4.1;  
@@ -2772,7 +2837,7 @@ b. ofwel voor de helft uit vertegenwoordigers van werkgeversorganisaties en voor
 
 ####Intreden gevolgen van toekennen van rechten na sprongberoep
 
-Indien de uitspraak op een beroep als bedoeld in artikel 2 van de bij de Algemene wet bestuursrecht behorende [Bevoegdheidsregeling bestuursrechtspraak](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) strekt tot onderscheidenlijk het toekennen van de rechten, genoemd in artikel 1.3.1, diploma-erkenning als bedoeld in de artikelen 1.4.1 of  1.4a.1, examinering als bedoeld in artikel 1.6.1, of registratie in het Centraal register, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt in het jaar waarin de uitspraak is gedaan.  
+Indien de uitspraak op een beroep als bedoeld in artikel 2 van de bij de Algemene wet bestuursrecht behorende Bevoegdheidsregeling bestuursrechtspraak strekt tot onderscheidenlijk het toekennen van de rechten, genoemd in artikel 1.3.1, diploma-erkenning als bedoeld in de artikelen 1.4.1 of  1.4a.1, examinering als bedoeld in artikel 1.6.1, of registratie in het Centraal register, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt in het jaar waarin de uitspraak is gedaan.  
 
 ### Hoofdstuk  11  
 
@@ -2786,10 +2851,10 @@ Indien de uitspraak op een beroep als bedoeld in artikel 2 van de bij de Algemen
 
 ####Inhouding bekostiging
 
-1.  Indien het bevoegd gezag van een instelling of een kenniscentrum beroepsonderwijs bedrijfsleven in strijd handelt met het bepaalde bij of krachtens deze wet, kan Onze Minister bepalen dat de rijksbijdrage, voorschotten daaronder begrepen, geheel of gedeeltelijk wordt ingehouden dan wel opgeschort.   
-2.  Het eerste lid is van overeenkomstige toepassing, indien het bevoegd gezag of het personeel van een instelling in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Indien het bevoegd gezag van een instelling of een kenniscentrum beroepsonderwijs bedrijfsleven in strijd handelt met het bepaalde bij of krachtens deze wet dan wel indien de raad van toezicht een aanwijzing als bedoeld in artikel 9.1.4a niet opvolgt, kan Onze Minister bepalen dat de rijksbijdrage, voorschotten daaronder begrepen, geheel of gedeeltelijk wordt ingehouden dan wel opgeschort.   
+2.  Het eerste lid is van overeenkomstige toepassing, indien het bevoegd gezag of het personeel van een instelling in strijd handelt met artikel 5:20 van de Algemene wet bestuursrecht.   
 3.  Onze Minister kan de rijksbijdrage wederom toekennen, indien blijkt dat de reden voor de toepassing van het eerste of tweede lid is vervallen.   
-4.  Het eerste tot en met derde lid is van overeenkomstige toepassing indien het bevoegd gezag van een agrarisch opleidingscentrum ten aanzien van het voorbereidend beroepsonderwijs dat in de instelling wordt verzorgd, in strijd handelt met het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+4.  Het eerste tot en met derde lid is van overeenkomstige toepassing indien het bevoegd gezag van een agrarisch opleidingscentrum ten aanzien van het voorbereidend beroepsonderwijs dat in de instelling wordt verzorgd, in strijd handelt met het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.   
 
 ### Artikel  11.2  
 
@@ -2802,6 +2867,8 @@ Indien de uitspraak op een beroep als bedoeld in artikel 2 van de bij de Algemen
 ### Paragraaf  2  
 
 ####Opschorten en terugvorderen rijksbijdrage educatie
+
+Vervallen per 01-01-2009   
 
 ### Hoofdstuk  11a  
 
@@ -2832,14 +2899,14 @@ d. op welke wijze en aan de hand van welke criteria de met het experiment beoogd
 5.  Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.   
 6.  Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kan bij wijze van experiment tevens worden afgeweken van: 
 
-a. [artikel 1 van de Leerplichtwet 1969](../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);  
+a. artikel 1 van de Leerplichtwet 1969;  
 
-b. [artikel 1 de Les- en cursusgeldwet](../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md);  
+b. artikel 1 de Les- en cursusgeldwet;  
 
-c. [artikel 1.1 van de Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);  
+c. artikel 1.1 van de Wet studiefinanciering 2000;  
 
-d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).     
-7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling en een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij samenwerking met een school als bedoeld in de Wet op het voortgezet onderwijs kan voor die school worden afgeweken van [titel II, afdeling I, hoofdstuk I](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en van [titel III, afdeling II, van die wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de Wet op het voortgezet onderwijs onderscheidenlijk de Wet op het hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+d. artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.     
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling en een school als bedoeld in de Wet op het voortgezet onderwijs of een instelling als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek. Bij samenwerking met een school als bedoeld in de Wet op het voortgezet onderwijs kan voor die school worden afgeweken van titel II, afdeling I, hoofdstuk I en van titel III, afdeling II, van die wet. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de Wet op het voortgezet onderwijs onderscheidenlijk de Wet op het hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
 
 ### Hoofdstuk  12  
 
@@ -2860,6 +2927,8 @@ d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../
 
 ####Bepalingen met betrekking tot experimentele opleidingen
 
+Vervallen per 01-01-2012   
+
 ### Titel  2  
 
 ####Voorzieningen voor onbepaalde tijd
@@ -2868,26 +2937,26 @@ d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../
 
 ####Diploma’s en certificaten
 
-Diploma’s en certificaten ingevolge de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de Wet op het cursorisch beroepsonderwijs, de Kaderwet Volwasseneneducatie 1991 of het [Staatsexamenbesluit Nederlands als tweede taal](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md), verkregen op grond van een examen verbonden aan opleidingen basiseducatie, voortgezet algemeen volwassenenonderwijs, middelbaar beroepsonderwijs, deeltijds middelbaar beroepsonderwijs of leerlingwezen dan wel op grond van een staatsexamen Nederlands als tweede taal, gelden als de overeenkomstige diploma’s en certificaten, verkregen op grond van artikel 7.4.6.  
+Diploma’s en certificaten ingevolge de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs, de Kaderwet Volwasseneneducatie 1991 of het Staatsexamenbesluit Nederlands als tweede taal, verkregen op grond van een examen verbonden aan opleidingen basiseducatie, voortgezet algemeen volwassenenonderwijs, middelbaar beroepsonderwijs, deeltijds middelbaar beroepsonderwijs of leerlingwezen dan wel op grond van een staatsexamen Nederlands als tweede taal, gelden als de overeenkomstige diploma’s en certificaten, verkregen op grond van artikel 7.4.6.  
 
 ### Artikel  12.2.2  
 
 ####Handhaving voorschriften personeel
 
-1.  De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de [artikelen 37a](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [38](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [39](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [40](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [40a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de artikelen 2.42, 2.45, 2.46, 2.51, 2.75 en 2.76 van de Wet op het cursorisch beroepsonderwijs en artikel 9 van de Kaderwet Volwasseneneducatie 1991, berusten ten aanzien van het personeel aan instellingen in de zin van deze wet met ingang van 1 januari 1996 op onderscheidenlijk de artikelen 4.1.1, 4.1.2, 3.1.2 en 3.2.1.   
+1.  De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de artikelen 37a, 38, 39, 40 en 40a van de Wet op het voortgezet onderwijs, de artikelen 2.42, 2.45, 2.46, 2.51, 2.75 en 2.76 van de Wet op het cursorisch beroepsonderwijs en artikel 9 van de Kaderwet Volwasseneneducatie 1991, berusten ten aanzien van het personeel aan instellingen in de zin van deze wet met ingang van 1 januari 1996 op onderscheidenlijk de artikelen 4.1.1, 4.1.2, 3.1.2 en 3.2.1.   
 2.  De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de artikelen 2.55 en 2.59 van de Wet op het cursorisch beroepsonderwijs berusten ten aanzien van het personeel van kenniscentra beroepsonderwijs bedrijfsleven met ingang van 1 januari 1996 op onderscheidenlijk de artikelen 4.3.1, 4.3.2 en 3.3.1.   
 
 ### Artikel  12.2.5  
 
 ####Handhaving inrichtings- en examenvoorschriften v.a.v.o.
 
-De op 31 december 1995 geldende voorschriften met betrekking tot het voortgezet algemeen volwassenenonderwijs die berusten op de [artikelen 23b, tweede lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [29, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), berusten ten aanzien van de opleidingen voortgezet algemeen volwassenenonderwijs, bedoeld in artikel 7.3.4, met ingang van 1 januari 1996 op artikel 7.3.4, tweede lid, onderscheidenlijk artikel 7.4.11, derde en zevende lid.  
+De op 31 december 1995 geldende voorschriften met betrekking tot het voortgezet algemeen volwassenenonderwijs die berusten op de artikelen 23b, tweede lid, en 29, vijfde lid, van de Wet op het voortgezet onderwijs, berusten ten aanzien van de opleidingen voortgezet algemeen volwassenenonderwijs, bedoeld in artikel 7.3.4, met ingang van 1 januari 1996 op artikel 7.3.4, tweede lid, onderscheidenlijk artikel 7.4.11, derde en zevende lid.  
 
 ### Artikel  12.2.6  
 
 ####Aanspraken gewezen personeel
 
-Personeelsleden die op 1 januari 1996 niet in dienst zijn van een instelling in de zin van deze wet of een kenniscentrum beroepsonderwijs bedrijfsleven en die voor die datum ten laste van het Rijk verbonden waren aan een school voor beroepsbegeleidend onderwijs, een school voor middelbaar beroepsonderwijs, een school voor voortgezet algemeen volwassenenonderwijs, een vormingsinstituut voor jeugdigen, een instelling voor basiseducatie, een landbouwpraktijkschool, of een kenniscentrum beroepsonderwijs bedrijfsleven waaruit de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven voortkomt en die op dat tijdstip aan bij of krachtens de Wet op het cursorisch beroepsonderwijs, de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de Kaderwet Volwasseneneducatie 1991 gegeven voorschriften aanspraken, rechten en verplichtingen ontlenen of kunnen ontlenen, ontlenen of kunnen deze met ingang van 1 januari 1996 ontlenen aan artikel 4.1.2 onderscheidenlijk artikel 4.3.2.  
+Personeelsleden die op 1 januari 1996 niet in dienst zijn van een instelling in de zin van deze wet of een kenniscentrum beroepsonderwijs bedrijfsleven en die voor die datum ten laste van het Rijk verbonden waren aan een school voor beroepsbegeleidend onderwijs, een school voor middelbaar beroepsonderwijs, een school voor voortgezet algemeen volwassenenonderwijs, een vormingsinstituut voor jeugdigen, een instelling voor basiseducatie, een landbouwpraktijkschool, of een kenniscentrum beroepsonderwijs bedrijfsleven waaruit de instelling of het kenniscentrum beroepsonderwijs bedrijfsleven voortkomt en die op dat tijdstip aan bij of krachtens de Wet op het cursorisch beroepsonderwijs, de Wet op het voortgezet onderwijs of de Kaderwet Volwasseneneducatie 1991 gegeven voorschriften aanspraken, rechten en verplichtingen ontlenen of kunnen ontlenen, ontlenen of kunnen deze met ingang van 1 januari 1996 ontlenen aan artikel 4.1.2 onderscheidenlijk artikel 4.3.2.  
 
 ### Artikel  12.2.7  
 
@@ -2942,7 +3011,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 ####Financiële afwikkeling
 
-De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de Wet op het cursorisch beroepsonderwijs of de Kaderwet Volwasseneneducatie 1991 blijven van toepassing ten aanzien van bedragen waarop de instellingen en de kenniscentra beroepsonderwijs bedrijfsleven voor 1 januari 1996 ingevolge de bedoelde voorschriften aanspraak hebben, maar die nog niet zijn vastgesteld of uitbetaald.  
+De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs of de Kaderwet Volwasseneneducatie 1991 blijven van toepassing ten aanzien van bedragen waarop de instellingen en de kenniscentra beroepsonderwijs bedrijfsleven voor 1 januari 1996 ingevolge de bedoelde voorschriften aanspraak hebben, maar die nog niet zijn vastgesteld of uitbetaald.  
 
 ### Artikel  12.3.49  
 
@@ -2958,13 +3027,13 @@ Bevat wijzigingen in deze regelgeving.
 
 ####Aanhangige beroepsprocedures leerlinggebonden financiering
 
-Op geschillen die ingevolge de op 31 juli 2008 geldende voorschriften van de [Subsidieregeling leerlinggebonden financiering MBO](../../../../../../ministeriele-regeling/subsidieregeling/leerlinggebonden/financiering/mbo/BWBR0019181/README.md) aanhangig zijn gemaakt, blijft de op die dag geldende regeling van toepassing.  
+Op geschillen die ingevolge de op 31 juli 2008 geldende voorschriften van de Subsidieregeling leerlinggebonden financiering MBO aanhangig zijn gemaakt, blijft de op die dag geldende regeling van toepassing.  
 
 ### Artikel  12.4.2  
 
 ####Geldigheid indicatie leerlinggebonden financiering
 
-Beoordelingen, afgegeven op grond van de [artikelen 12](../../../../../../ministeriele-regeling/subsidieregeling/leerlinggebonden/financiering/mbo/BWBR0019181/README.md) en [14 van de Subsidieregeling leerlinggebonden financiering MBO](../../../../../../ministeriele-regeling/subsidieregeling/leerlinggebonden/financiering/mbo/BWBR0019181/README.md), die hebben geleid tot een indicatiestelling waarvan de duur nog niet is verstreken, gelden als een beoordeling die gemeld wordt door het bevoegd gezag van een instelling als bedoeld in artikel 2.2.6, eerste lid.  
+Beoordelingen, afgegeven op grond van de artikelen 12 en 14 van de Subsidieregeling leerlinggebonden financiering MBO, die hebben geleid tot een indicatiestelling waarvan de duur nog niet is verstreken, gelden als een beoordeling die gemeld wordt door het bevoegd gezag van een instelling als bedoeld in artikel 2.2.6, eerste lid.  
 
 ### Titel  4a  
 
@@ -2973,6 +3042,8 @@ Beoordelingen, afgegeven op grond van de [artikelen 12](../../../../../../minist
 ### Artikel  12.4a.1  
 
 ####Beëindiging inschrijvingen beroepsopleidingen oude stijl
+
+Treedt in werking per 01-08-2014   
 
 De deelnemer die in het studiejaar voorafgaand aan het tijdstip van inwerkingtreding van dit artikel stond ingeschreven voor een beroepsopleiding wordt door het bevoegd gezag in de gelegenheid gesteld deze opleiding te voltooien uiterlijk in het studiejaar volgend op het studiejaar waarin de voor hem geldende studieduur is verstreken. Hierop zijn de artikelen 7.2.2, eerste tot en met derde lid, 7.2.4, achtste en negende lid, 7.2.7 en 12.4a.2 van toepassing zoals die artikelen luidden vóór dat tijdstip.  
 

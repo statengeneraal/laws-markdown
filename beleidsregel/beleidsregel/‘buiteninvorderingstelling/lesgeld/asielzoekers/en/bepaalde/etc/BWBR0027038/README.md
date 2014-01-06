@@ -10,25 +10,25 @@ De Minister van Onderwijs, Cultuur en Wetenschap,  Heeft besloten onderstaand be
 
 In deze beleidsregel wordt verstaan onder: 
 
-*dagschool:* school of instelling als bedoeld in artikel 1, onderdeel e, van de Les- en cursusgeldwet  
+*dagschool:* school of instelling als bedoeld in [artikel 1, onderdeel e, van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md)  
 
-*GBA:* Gemeentelijke Basisadministratie persoonsgegevens  
+*GBA: * Gemeentelijke Basisadministratie persoonsgegevens  
 
-*Dienst Uitvoering Onderwijs:* de Dienst Uitvoering Onderwijs, genoemd in de Wet van 15 oktober 2009 tot intrekking van de Wet verzelfstandiging Informatiseringsbank en wijziging van diverse wetten in verband met de oprichting van de Dienst Uitvoering Onderwijs (DUO)  
+*Dienst Uitvoering Onderwijs:* de Dienst Uitvoering Onderwijs, genoemd in de [Wet van 15 oktober 2009 tot intrekking van de Wet verzelfstandiging Informatiseringsbank en wijziging van diverse wetten in verband met de oprichting van de Dienst Uitvoering Onderwijs (DUO)](../../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/enz./(oprichting/dienst/etc/BWBR0026723/README.md)  
 
 *Koppelingswet:* Wet van 26 maart 1998 betreffende wijziging Vreemdelingenwet en enige andere wetten in verband met koppelen aanspraak op voorzieningen aan rechtmatig verblijf  
 
-*LCW:* Les- en cursusgeldwet   
+*LCW:* [Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md)  
 
-*Lesgeld:* lesgeld als bedoeld in artikel 2 van de Les- en cursusgeldwet  
+*Lesgeld:* lesgeld als bedoeld in [artikel 2 van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md)  
 
-*lesgeldplichtige:* lesgeldplichtige als bedoeld in artikel 3 van de Les- en cursusgeldwet  
+*lesgeldplichtige:* lesgeldplichtige als bedoeld in [artikel 3 van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md)  
 
 *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daarop volgend  
 
-*WSF 2000:* Wet studiefinanciering 2000   
+*WSF 2000:* [Wet studiefinanciering 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md)  
 
-*WTOS:*Wet tegemoetkoming onderwijsbijdrage en schoolkosten.    
+*WTOS:* [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).   
 
 ### Artikel  2  
 
@@ -36,9 +36,9 @@ In deze beleidsregel wordt verstaan onder:
 
 Deze beleidsregel is van toepassing op lesgeldplichtige vreemdelingen die: 
 
-a. op grond van artikel 8, onderdelen f, g, h, j of k, van de Vreemdelingenwet 2000 rechtmatig in Nederland verblijven, en  
+a. op grond van [artikel 8, onderdelen f, g, h, j of k, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig in Nederland verblijven, en  
 
-b. niet in aanmerking komen voor een tegemoetkoming in het lesgeld op grond van de WTOS of de WSF 2000.    
+b. niet in aanmerking komen voor een tegemoetkoming in het lesgeld op grond van de [WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) of de [WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
 
 ### Artikel  3  
 
@@ -52,9 +52,9 @@ c. De instantie, bedoeld in het vorige lid, verklaart niet in staat te zijn het 
 
 d. De lesgeldplichtige zelf verklaart ook niet in staat te zijn het verschuldigde lesgeld geheel of gedeeltelijk te voldoen.  
 
-e. Met uitzondering van het nationaliteitsvereiste moet aan de voorwaarden voor studiefinanciering of een tegemoetkoming op grond van respectievelijk de WSF 2000 en de WTOS worden voldaan.  
+e. Met uitzondering van het nationaliteitsvereiste moet aan de voorwaarden voor studiefinanciering of een tegemoetkoming op grond van respectievelijk de [WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en de [WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) worden voldaan.  
 
-f. Het verzoek wordt bij voorkeur direct bij inschrijving met de onderwijskaart bij de dagschool ingeleverd. Verzoeken, ingediend na afloop van het desbetreffende schooljaar, worden niet gehonoreerd.    
+f. Het verzoek wordt bij voorkeur direct bij inschrijving met de onderwijskaart bij de dagschool ingeleverd. Verzoeken, ingediend na afloop van het desbetreffende schooljaar, worden niet gehonoreerd.   
 
 ### Artikel  4  
 
@@ -62,28 +62,28 @@ f. Het verzoek wordt bij voorkeur direct bij inschrijving met de onderwijskaart 
 
 1.  De buiteninvorderingstelling betreft het gehele schooljaar, ook wanneer de betreffende leerling tussentijds zijn opleiding onderbreekt en zich later in het schooljaar bij dezelfde dan wel een andere school inschrijft.   
 2.  De buiteninvorderingstelling leidt niet tot een kwijtschelding van het verschuldigde lesgeld.   
-3.  Indien het lesgeld reeds geheel of ten dele is betaald, kan achteraf op grond van een buiteninvorderingstelling geen restitutie plaatsvinden.   
+3.  Indien het lesgeld reeds geheel of ten dele is betaald, kan achteraf op grond van een buiteninvorderingstelling geen restitutie plaatsvinden.  
 
 ### Artikel  5  
 
 ####Wijzigingen in de verblijfsstatus
 
 1.  Een wijziging in de verblijfsstatus kan leiden tot aanspraak op een tegemoetkoming in het lesgeld en wordt direct aan de Dienst Uitvoering Onderwijs doorgegeven.   
-2.  Indien, na de toepassing van een buiteninvorderingstelling, later in het schooljaar door een wijziging in de verblijfsstatus aanspraak op tegemoetkoming of studiefinanciering op grond van de WTOS of de WSF2000 ontstaat, volgt alsnog verrekening met het verschuldigde lesgeld voor het betreffende schooljaar.   
-3.  Indien een wijziging in de verblijfsstatus niet binnen één maand wordt doorgegeven komen de eventuele financiële consequenties daarvan voor rekening van de lesgeldplichtige. Het niet (tijdig) doorgeven van de wijziging in de verblijfsstatus kan leiden tot intrekking van de buiteninvorderingstelling.   
+2.  Indien, na de toepassing van een buiteninvorderingstelling, later in het schooljaar door een wijziging in de verblijfsstatus aanspraak op tegemoetkoming of studiefinanciering op grond van de [WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) of de [WSF2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) ontstaat, volgt alsnog verrekening met het verschuldigde lesgeld voor het betreffende schooljaar.   
+3.  Indien een wijziging in de verblijfsstatus niet binnen één maand wordt doorgegeven komen de eventuele financiële consequenties daarvan voor rekening van de lesgeldplichtige. Het niet (tijdig) doorgeven van de wijziging in de verblijfsstatus kan leiden tot intrekking van de buiteninvorderingstelling.  
 
 ### Artikel  6  
 
 ####Overgangsrecht
 
-Op een lesgeldplichtige, die de leeftijdsgrens van 30 jaar als bedoeld in artikel 2.3, derde lid WSF 2000, of artikel 2.3, tweede lid WTOS is gepasseerd en die in het schooljaar 2002–2003 reeds een opleiding volgde, is artikel 3, vijfde lid van deze beleidsregel niet van toepassing gedurende de periode dat hij dezelfde opleiding zonder onderbreken blijft volgen.  
+Op een lesgeldplichtige, die de leeftijdsgrens van 30 jaar als bedoeld in [artikel 2.3, derde lid WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), of [artikel 2.3, tweede lid WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) is gepasseerd en die in het schooljaar 2002–2003 reeds een opleiding volgde, is artikel 3, vijfde lid van deze beleidsregel niet van toepassing gedurende de periode dat hij dezelfde opleiding zonder onderbreken blijft volgen. 
 
 ### Artikel  7  
 
 ####Bekendmaking
 
-Deze beleidsregel treedt met ingang van 1 januari 2010 in werking. Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.  
+Deze beleidsregel treedt met ingang van 1 januari 2010 in werking. Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant. 
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk   
+R.H.A. Plasterk     

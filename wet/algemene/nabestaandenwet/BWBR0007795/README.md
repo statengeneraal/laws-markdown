@@ -58,7 +58,7 @@ p. pensioengerechtigde leeftijd: de pensioengerechtigde leeftijd, bedoeld in [ar
 
 a. bruto-minimumloon: het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag;  
 
-b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies volksverzekeringen en loonbelasting. De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend 190% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon;  
+b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies volksverzekeringen en loonbelasting. De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend 188,75% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon;  
 
 c. bruto-minimumvakantiebijslag: het bedrag waarop degene die aanspraak heeft op het bruto-minimumloon ingevolge [artikel 15 van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) aanspraak heeft;  
 
@@ -287,9 +287,13 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld voor samenloop v
 
 ####De halfwezenuitkering
 
+Vervallen per 01-07-2013   
+
 ### §  4  
 
 ####De hoogte van de halfwezenuitkering
+
+Vervallen per 01-07-2013   
 
 ### §  5  
 
@@ -593,7 +597,7 @@ c. de nabestaande, het ouderloos kind, of zijn wettelijke vertegenwoordiger dan 
 
 ### Artikel  46b  
 
-1.  De Sociale verzekeringsbank schort de betaling van de uitkering op, indien blijkt dat het door de nabestaande verstrekte adres van hemzelf of van een kind afwijkt van het adres waaronder de betrokkene in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven.   
+1.  De Sociale verzekeringsbank schort de betaling van de uitkering op, indien blijkt dat het door de nabestaande verstrekte adres van hemzelf of van een kind afwijkt van het adres waaronder de betrokkene in de basisregistratie personen staat ingeschreven.   
 2.  Geen opschorting vindt plaats: 
 
 a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op of de hoogte van de uitkering;  
@@ -821,6 +825,8 @@ b. de gewezen verzekerde die op 31 december 1999 vrijwillig verzekerd was op gro
 ### Hoofdstuk  6  
 
 ####Vrijstelling wegens gemoedsbezwaren
+
+Vervallen per 01-01-2006   
 
 ### Hoofdstuk  7  
 

@@ -23,13 +23,13 @@ b. strafvorderlijke gegevens: persoonsgegevens of gegevens over een rechtspersoo
 
 c. persoonsdossier: een dossier waarin zijn opgenomen de aan rechterlijke autoriteiten uitgebrachte rapporten over onderzoeken naar het gedrag of de levensomstandigheden van een natuurlijk persoon in verband met tegen hem aanhangige strafzaken, de tenuitvoerlegging van aan hem opgelegde straffen of maatregelen of zijn reclassering;  
 
-d. rechtspersoon: een rechtspersoon als bedoeld in [boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), alsmede de daarmee gelijkgestelde organisaties als bedoeld in [artikel 51, derde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+d. rechtspersoon: een rechtspersoon als bedoeld in boek 2 van het Burgerlijk Wetboek, alsmede de daarmee gelijkgestelde organisaties als bedoeld in artikel 51, derde lid, van het Wetboek van Strafrecht;  
 
 e. justitiële documentatie: een samenhangende verzameling van op verschillende personen betrekking hebbende justitiële gegevens die langs geautomatiseerde weg wordt gevoerd;  
 
 f. documentatie persoonsdossiers: een samenhangende verzameling van op verschillende personen betrekking hebbende persoonsdossiers die langs geautomatiseerde weg wordt gevoerd of met het oog op een doeltreffende raadpleging van die gegevens systematisch is aangelegd;  
 
-g. persoonsgegeven, verwerken van persoonsgegevens, verantwoordelijke, betrokkene, bewerker, ontvanger, het verstrekken van persoonsgegevens en toestemming van de betrokkene: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+g. persoonsgegeven, verwerken van persoonsgegevens, verantwoordelijke, betrokkene, bewerker, ontvanger, het verstrekken van persoonsgegevens en toestemming van de betrokkene: hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens;  
 
 h. kenmerken: het markeren van opgeslagen justitiële, strafvorderlijke of persoonsgegevens, zonder dat de mogelijkheid tot verwerking van die gegevens wordt beperkt;  
 
@@ -37,7 +37,7 @@ i. markeren: het voorzien van een kenmerk aan justitiële, strafvorderlijke of p
 
 j. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-k. College bescherming persoonsgegevens: het College, bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).    
+k. College bescherming persoonsgegevens: het College, bedoeld in artikel 51 van de Wet bescherming persoonsgegevens.    
 
 ### Titel  2  
 
@@ -63,22 +63,22 @@ k. College bescherming persoonsgegevens: het College, bedoeld in [artikel 51 van
 
 1.  Justitiële gegevens van verdachten en veroordeelden wegens misdrijven worden vernietigd: 
 
-a. dertig jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de [artikelen 351](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [352 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer is gesteld, en in het kader van het misdrijf de justitiële gegevens zijn verwerkt of nadat een strafbeschikking wegens het misdrijf volledig ten uitvoer is gelegd, dan wel twintig jaar na het overlijden van betrokkene,  
+a. dertig jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de artikelen 351 en 352 van het Wetboek van Strafvordering is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer is gesteld, en in het kader van het misdrijf de justitiële gegevens zijn verwerkt of nadat een strafbeschikking wegens het misdrijf volledig ten uitvoer is gelegd, dan wel twintig jaar na het overlijden van betrokkene,  
 
-b. twintig jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de [artikelen 351](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [352 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, en in het kader van het misdrijf de justitiële gegevens zijn verwerkt of nadat een strafbeschikking wegens het misdrijf volledig ten uitvoer is gelegd, dan wel twaalf jaar na het overlijden van betrokkene, of  
+b. twintig jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de artikelen 351 en 352 van het Wetboek van Strafvordering is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, en in het kader van het misdrijf de justitiële gegevens zijn verwerkt of nadat een strafbeschikking wegens het misdrijf volledig ten uitvoer is gelegd, dan wel twaalf jaar na het overlijden van betrokkene, of  
 
 c. na het vervallen van het recht tot strafvordering door verjaring.     
-2.  De termijn van dertig en twintig jaar, genoemd in het eerste lid, wordt verlengd indien tegen de betrokkene een einduitspraak als bedoeld in de [artikelen 351](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [352 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in verband met een ander misdrijf is gedaan. In dat geval worden de justitiële gegevens vernietigd twintig dan wel dertig jaar nadat het vonnis is uitgesproken of de strafbeschikking volledig ten uitvoer is gelegd, al naar gelang op het misdrijf naar de wettelijke omschrijving minder dan zes jaar of zes jaar of meer gevangenisstraf is gesteld.   
+2.  De termijn van dertig en twintig jaar, genoemd in het eerste lid, wordt verlengd indien tegen de betrokkene een einduitspraak als bedoeld in de artikelen 351 en 352 van het Wetboek van Strafvordering in verband met een ander misdrijf is gedaan. In dat geval worden de justitiële gegevens vernietigd twintig dan wel dertig jaar nadat het vonnis is uitgesproken of de strafbeschikking volledig ten uitvoer is gelegd, al naar gelang op het misdrijf naar de wettelijke omschrijving minder dan zes jaar of zes jaar of meer gevangenisstraf is gesteld.   
 3.  De termijn van dertig jaar, genoemd in het eerste lid, wordt met twintig jaar verlengd indien de duur van de gevangenisstraf of vrijheidsbenemende maatregel langer is dan twintig jaar. Indien de gevangenisstraf levenslang is of de vrijheidsbenemende maatregel de duur van veertig jaar overstijgt, worden de justitiële gegevens na tachtig jaar vernietigd.   
-4.  In afwijking van het eerste tot en met derde lid worden justitiële gegevens van verdachten en veroordeelden wegens misdrijven als bedoeld in de [artikelen 240b tot en met 250 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) na tachtig jaar vernietigd.   
+4.  In afwijking van het eerste tot en met derde lid worden justitiële gegevens van verdachten en veroordeelden wegens misdrijven als bedoeld in de artikelen 240b tot en met 250 van het Wetboek van Strafrecht na tachtig jaar vernietigd.   
 
 ### Artikel  6  
 
 Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden vernietigd: 
 
-a. vijf jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de [artikelen 351](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [352 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is gedaan in verband met een overtreding en in het kader van de overtreding de justitiële gegevens zijn verwerkt of een strafbeschikking wegens een overtreding volledig ten uitvoer is gelegd,  
+a. vijf jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de artikelen 351 en 352 van het Wetboek van Strafvordering is gedaan in verband met een overtreding en in het kader van de overtreding de justitiële gegevens zijn verwerkt of een strafbeschikking wegens een overtreding volledig ten uitvoer is gelegd,  
 
-b. tien jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de [artikelen 351](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [352 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is gedaan in verband met een overtreding en in het kader van de overtreding de justitiële gegevens zijn verwerkt of een strafbeschikking wegens een overtreding volledig ten uitvoer is gelegd, en daarbij een vrijheidsstraf, vervangende hechtenis daaronder niet begrepen, of een taakstraf is opgelegd, dan wel aan een rechtspersoon een geldboete van de derde categorie of hoger is opgelegd,  
+b. tien jaar nadat een beslissing om niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de artikelen 351 en 352 van het Wetboek van Strafvordering is gedaan in verband met een overtreding en in het kader van de overtreding de justitiële gegevens zijn verwerkt of een strafbeschikking wegens een overtreding volledig ten uitvoer is gelegd, en daarbij een vrijheidsstraf, vervangende hechtenis daaronder niet begrepen, of een taakstraf is opgelegd, dan wel aan een rechtspersoon een geldboete van de derde categorie of hoger is opgelegd,  
 
 c. twee jaar na het overlijden van betrokkene, of  
 
@@ -88,7 +88,7 @@ d. na het vervallen van het recht tot strafvordering door verjaring.
 
 1.  De verantwoordelijke treft passende technische en organisatorische maatregelen om justitiële gegevens te beveiligen tegen onbedoelde of onrechtmatige vernietiging, tegen wijziging, ongeoorloofde mededeling of toegang, met name indien de verwerking verzending van gegevens via een netwerk of beschikbaarstelling via directe geautomatiseerde toegang omvat, en tegen alle andere vormen van onrechtmatige verwerking, waarbij met name rekening wordt gehouden met de risico’s van de verwerking en de aard van de te beschermen gegevens. Deze maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau, gelet op de risico’s van de verwerking en de aard van de justitiële gegevens.   
 2.  Toegang tot justitiële gegevens is uitsluitend voorbehouden aan personen die onder het beheer van de Onze Minister ressorteren of op grond van zijn instructie, behoudens een bij of krachtens de wet gegeven voorschrift.   
-3.  De [artikelen 14, eerste, tweede, derde en vijfde lid](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [49](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [50 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
+3.  De artikelen 14, eerste, tweede, derde en vijfde lid, en 49 en 50 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
 
 ### Afdeling  2  
 
@@ -98,7 +98,7 @@ d. na het vervallen van het recht tot strafvordering door verjaring.
 
 1.  Ten behoeve van de rechtspleging worden justitiële gegevens verstrekt aan Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en de Nederlandse Antillen.   
 2.  Ten behoeve van de strafrechtspleging worden justitiële gegevens verstrekt aan Onze Minister.   
-3.  Aan lichamen of personen aan wie krachtens [artikel 257ba van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) de bevoegdheid is toegekend een strafbeschikking uit te vaardigen, worden ten behoeve van de uitoefening van die bevoegdheid justitiële gegevens verstrekt met betrekking tot de delicten waarop hun bevoegdheid betrekking heeft.   
+3.  Aan lichamen of personen aan wie krachtens artikel 257ba van het Wetboek van Strafvordering de bevoegdheid is toegekend een strafbeschikking uit te vaardigen, worden ten behoeve van de uitoefening van die bevoegdheid justitiële gegevens verstrekt met betrekking tot de delicten waarop hun bevoegdheid betrekking heeft.   
 4.  Justitiële gegevens kunnen worden verstrekt aan een internationaal orgaan of aan een internationaal strafgerecht voor zover dit voortvloeit uit een verdrag.   
 5.  Justitiële gegevens kunnen ten behoeve van de strafrechtspleging worden verstrekt aan rechterlijke ambtenaren dan wel aan andere autoriteiten in het buitenland.   
 6.  Justitiële gegevens kunnen worden verstrekt of doorgegeven aan de bevoegde autoriteit van een andere lidstaat van de Europese Unie of aan een orgaan van de Europese Unie dat is belast met de ondersteuning en versterking van de wetshandhavingsdiensten van de lidstaten bij de voorkoming, bestrijding, onderzoek en vervolging van zware criminaliteit en dat bij algemene maatregel van bestuur is aangewezen.   
@@ -122,7 +122,7 @@ b. het betreffende land of het ontvangende internationale orgaan passende garant
 
 ### Artikel  10  
 
-1.  Behoudens het bepaalde in artikel 12 worden aan de in artikel 9 bedoelde personen of instanties slechts gegevens verstrekt betreffende onherroepelijke veroordelingen wegens misdrijf waarbij een straf, al dan niet tezamen met een maatregel, is opgelegd, en wegens overtreding indien daarbij vrijheidsstraf – anders dan vervangende – of een taakstraf is opgelegd. Met een veroordeling worden gelijkgesteld een rechterlijke beslissing waarbij een maatregel als bedoeld in [artikel 37a van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd en een strafbeschikking.   
+1.  Behoudens het bepaalde in artikel 12 worden aan de in artikel 9 bedoelde personen of instanties slechts gegevens verstrekt betreffende onherroepelijke veroordelingen wegens misdrijf waarbij een straf, al dan niet tezamen met een maatregel, is opgelegd, en wegens overtreding indien daarbij vrijheidsstraf – anders dan vervangende – of een taakstraf is opgelegd. Met een veroordeling worden gelijkgesteld een rechterlijke beslissing waarbij een maatregel als bedoeld in artikel 37a van het Wetboek van Strafrecht is opgelegd en een strafbeschikking.   
 2.  Geen gegevens worden verstrekt indien: 
 
 a. na het gegrond bevinden van de aanvraag tot herziening van een in kracht van gewijsde gegane einduitspraak deze wordt vernietigd en geen straf of maatregel is opgelegd,  
@@ -150,7 +150,7 @@ b. na het onherroepelijk worden van de uitspraak of strafbeschikking vier jaren 
 
 ### Artikel  12  
 
-1.  Met betrekking tot personen ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77gg van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), worden aan de in artikel 9 bedoelde personen of instanties slechts gegevens verstrekt, indien de veroordeelde tijdens het begaan van het strafbare feit de leeftijd van zestien jaren had bereikt, de veroordeling onherroepelijk is en is gewezen wegens een misdrijf en daarbij, al dan niet tezamen met andere straffen of maatregelen, is opgelegd: 
+1.  Met betrekking tot personen ten aanzien van wie recht is gedaan overeenkomstig de artikelen 77g tot en met 77gg van het Wetboek van Strafrecht, worden aan de in artikel 9 bedoelde personen of instanties slechts gegevens verstrekt, indien de veroordeelde tijdens het begaan van het strafbare feit de leeftijd van zestien jaren had bereikt, de veroordeling onherroepelijk is en is gewezen wegens een misdrijf en daarbij, al dan niet tezamen met andere straffen of maatregelen, is opgelegd: 
 
 a. jeugddetentie, anders dan vervangende;  
 
@@ -165,7 +165,7 @@ a. na het gegrond bevinden van de aanvraag tot herziening van een in kracht van 
 
 b. de veroordeling door een andere dan een Nederlandse rechter is gewezen wegens een feit dat naar Nederlands recht geen misdrijf oplevert, tenzij ingevolge deze veroordeling in Nederland de in het eerste lid genoemde straffen of maatregelen moeten worden ondergaan, of  
 
-c. de rechter met toepassing van [artikel 77x, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) heeft bepaald, dat de straf of maatregel geheel niet zal worden tenuitvoergelegd en de tenuitvoerlegging later niet alsnog voor het geheel of een deel is bevolen.     
+c. de rechter met toepassing van artikel 77x, eerste lid, van het Wetboek van Strafrecht heeft bepaald, dat de straf of maatregel geheel niet zal worden tenuitvoergelegd en de tenuitvoerlegging later niet alsnog voor het geheel of een deel is bevolen.     
 3.  Geen gegevens worden verstrekt indien na het onherroepelijk worden van de veroordeling of strafbeschikking twee jaren zijn verstreken tenzij jeugddetentie, anders dan vervangende, of plaatsing in een inrichting voor jeugdigen is opgelegd. In dat geval bedraagt de termijn vier jaren.   
 4.  De termijn bedoeld in het derde lid, wordt verlengd met de bij de uitspraak bepaalde duur van de opgelegde jeugddetentie met uitzondering van de straf of het gedeelte daarvan dat voorwaardelijk is opgelegd en ten aanzien waarvan de gehele of gedeeltelijke tenuitvoerlegging later niet is bevolen.   
 5.  De termijn wordt mede verlengd met de duur van de verlenging van de proeftijd van een voorwaardelijke veroordeling.   
@@ -221,13 +221,13 @@ Een mededeling als bedoeld in artikel 18, eerste lid, en artikel 19, tweede lid,
 ### Artikel  22  
 
 1.  Een ieder over wiens persoon justitiële gegevens worden verwerkt kan de verantwoordelijke schriftelijk verzoeken deze te verbeteren, aan te vullen, te verwijderen of af te schermen indien deze feitelijk onjuist, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn, dan wel in strijd met een wettelijk voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.   
-2.  Onze Minister bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of, dan wel in hoeverre, hij daaraan voldoet. Het [eerste lid van artikel 37 Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
+2.  Onze Minister bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of, dan wel in hoeverre, hij daaraan voldoet. Het eerste lid van artikel 37 Wet bescherming persoonsgegevens is van overeenkomstige toepassing.   
 3.  De verantwoordelijke draagt zorg dat een beslissing tot verbetering, aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt uitgevoerd. Hij draagt zorg voor het kenmerken van een gegeven als de juistheid daarvan door de betrokkene wordt betwist en niet kan worden vastgesteld of het gegeven al dan niet juist is.   
 
 ### Artikel  23  
 
-1.  Een beslissing op een verzoek als bedoeld in artikel 18, 19 of  22 geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De [artikelen 47](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [48 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
+1.  Een beslissing op een verzoek als bedoeld in artikel 18, 19 of  22 geldt als een beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht.   
+2.  De artikelen 47 en 48 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
 
 ### Artikel  24  
 
@@ -252,9 +252,9 @@ Een mededeling als bedoeld in artikel 18, eerste lid, en artikel 19, tweede lid,
 ### Artikel  27  
 
 1.  Het College bescherming persoonsgegevens ziet toe op de verwerking van justitiële gegevens overeenkomstig het bij en krachtens deze wet bepaalde.   
-2.  De [artikelen 51, tweede lid](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), [60](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), [61](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [65 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
+2.  De artikelen 51, tweede lid, 60, 61 en 65 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
 3.  Het College bescherming persoonsgegevens wordt gehoord over de voorgenomen verwerking van justitiële gegevens die in een nieuw bestand zullen worden opgenomen, wanneer de aard van de verwerking specifieke risico’s met zich meebrengt voor de fundamentele rechten van de betrokkene, in het bijzonder het recht op bescherming van de persoonlijke levenssfeer.   
-4.  Indien de verantwoordelijke handelt in strijd met hetgeen is bepaald bij of krachtens artikel 19, eerste lid, artikel 39j, eerste lid, en artikel 44, eerste lid, kan het College hem een bestuurlijke boete opleggen. De [artikelen 66 tot en met 74 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
+4.  Indien de verantwoordelijke handelt in strijd met hetgeen is bepaald bij of krachtens artikel 19, eerste lid, artikel 39j, eerste lid, en artikel 44, eerste lid, kan het College hem een bestuurlijke boete opleggen. De artikelen 66 tot en met 74 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
 
 ### Afdeling  5  
 
@@ -266,11 +266,11 @@ Een verklaring omtrent het gedrag is een verklaring van Onze Minister dat uit ee
 
 ### Artikel  29  
 
-De beslissing omtrent de afgifte van de verklaring omtrent het gedrag geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De beslissing omtrent de afgifte van de verklaring omtrent het gedrag geldt als een beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  30  
 
-1.  De aanvraag om afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon wordt ingediend bij de burgemeester van de gemeente, waar de aanvrager op het tijdstip van de aanvraag als ingezetene is ingeschreven in de basisadministratie persoonsgegevens. In alle andere gevallen wordt de aanvraag ingediend bij Onze Minister.   
+1.  De aanvraag om afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon wordt ingediend bij de burgemeester van de gemeente waar de aanvrager op het tijdstip van de aanvraag met een adres als ingezetene is ingeschreven in de basisregistratie personen. In alle andere gevallen wordt de aanvraag ingediend bij Onze Minister.   
 2.  De burgemeester en Onze Minister onderzoeken de volledigheid van de bij de aanvraag verstrekte gegevens en verschaffen zich de nodige zekerheid over de identiteit van de aanvrager.   
 3.  Bij ministeriële regeling kunnen nadere eisen worden gesteld ter uitvoering van het tweede lid.   
 4.  De burgemeester zendt de aanvraag terstond door aan Onze Minister.   
@@ -282,7 +282,7 @@ In afwijking van artikel 30 kan een aanvraag om afgifte van de verklaring omtren
 ### Artikel  32  
 
 1.  De aanvraag tot het afgeven van een verklaring omtrent het gedrag van een natuurlijk persoon bevat de voornamen en de geboortedatum van de aanvrager, alsmede een omschrijving van het doel, waarvoor de afgifte van de verklaring wordt gevraagd.   
-2.  Indien de aanvraag betrekking heeft op een rechtspersoon, bevat zij de naam van de rechtspersoon en het inschrijvingsnummer van de Kamers van Koophandel, of, indien geen inschrijving heeft plaatsgevonden in het handelsregister, de naam, de rechtsvorm en de statutaire, of bij ontstentenis daarvan, de feitelijke vestigingsplaats van deze rechtspersoon alsmede de naam, het adres en de geboortedatum van ieder van de bestuurders, vennoten, maten of beheerders en de naam van degene die de aanvraag doet.   
+2.  Indien de aanvraag betrekking heeft op een rechtspersoon, bevat zij de naam van de rechtspersoon en het inschrijvingsnummer van de Kamer van Koophandel, of, indien geen inschrijving heeft plaatsgevonden in het handelsregister, de naam, de rechtsvorm en de statutaire, of bij ontstentenis daarvan, de feitelijke vestigingsplaats van deze rechtspersoon alsmede de naam, het adres en de geboortedatum van ieder van de bestuurders, vennoten, maten of beheerders en de naam van degene die de aanvraag doet.   
 3.  Bij de aanvraag doet degene te wiens behoeve de verklaring wordt verzocht opgave van het risico voor de samenleving dat in het geding is.   
 
 ### Artikel  33  
@@ -297,27 +297,27 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 ### Artikel  35  
 
 1.  Onze Minister weigert de afgifte van een verklaring omtrent het gedrag, indien in de justitiële documentatie met betrekking tot de aanvrager een strafbaar feit is vermeld, dat, indien herhaald, gelet op het risico voor de samenleving en de overige omstandigheden van het geval, aan het doel waarvoor de verklaring omtrent het gedrag wordt gevraagd, in de weg zal staan.   
-2.  Indien de aanvraag betrekking heeft op een rechtspersoon betrekt Onze Minister mede in zijn oordeel de justitiële gegevens met betrekking tot strafbare feiten op naam van de rechtspersoon en van ieder van de bestuurders, vennoten, maten of beheerders van die rechtspersoon alsmede de gegevens met betrekking tot strafbare feiten waaraan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) ten grondslag heeft gelegen.   
+2.  Indien de aanvraag betrekking heeft op een rechtspersoon betrekt Onze Minister mede in zijn oordeel de justitiële gegevens met betrekking tot strafbare feiten op naam van de rechtspersoon en van ieder van de bestuurders, vennoten, maten of beheerders van die rechtspersoon alsmede de gegevens met betrekking tot strafbare feiten waaraan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht ten grondslag heeft gelegen.   
 3.  Onze Minister betrekt niet in zijn oordeel de justitiële gegevens met betrekking tot de strafbare feiten die zijn afgedaan met een onherroepelijke vrijspraak.   
 
 ### Artikel  36  
 
-1.  Onze Minister kan bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon kennis nemen van op de aanvrager betrekking hebbende justitiële gegevens alsmede van politiegegevens als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), met uitzondering van de gegevens waarover op grond van artikel 21 geen mededeling kan worden gedaan aan de verzoeker, die gebruik maakt van zijn recht, als bedoeld in artikel 18, eerste lid.   
-2.  Tenzij bij wettelijk voorschrift anders is bepaald, kan Onze Minister bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het gedrag van een rechtspersoon kennis nemen van op de betrokkenen, bedoeld in artikel 35, betrekking hebbende justitiële gegevens, politiegegevens, als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), alsmede gegevens uit de registratie, bedoeld in [artikel 1, onder b, van de Wet controle op rechtspersonen](../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md). De uitzondering, bedoeld in het eerste lid, is van toepassing.   
-3.  Voorzover dat voor een goede oordeelsvorming noodzakelijk is, kan Onze Minister inlichtingen omtrent betrokkene inwinnen bij het openbaar ministerie en bij instellingen die op grond van [artikel 4, eerste lid, van de Reclasseringsregeling 1995](../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md) bevoegd zijn om reclasseringswerkzaamheden te verrichten.   
+1.  Onze Minister kan bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon kennis nemen van op de aanvrager betrekking hebbende justitiële gegevens alsmede van politiegegevens als bedoeld in artikel 1, onder a, van de Wet politiegegevens, met uitzondering van de gegevens waarover op grond van artikel 21 geen mededeling kan worden gedaan aan de verzoeker, die gebruik maakt van zijn recht, als bedoeld in artikel 18, eerste lid.   
+2.  Tenzij bij wettelijk voorschrift anders is bepaald, kan Onze Minister bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het gedrag van een rechtspersoon kennis nemen van op de betrokkenen, bedoeld in artikel 35, betrekking hebbende justitiële gegevens, politiegegevens, als bedoeld in artikel 1, onder a, van de Wet politiegegevens, alsmede gegevens uit de registratie, bedoeld in artikel 1, onder b, van de Wet controle op rechtspersonen. De uitzondering, bedoeld in het eerste lid, is van toepassing.   
+3.  Voorzover dat voor een goede oordeelsvorming noodzakelijk is, kan Onze Minister inlichtingen omtrent betrokkene inwinnen bij het openbaar ministerie en bij instellingen die op grond van artikel 4, eerste lid, van de Reclasseringsregeling 1995 bevoegd zijn om reclasseringswerkzaamheden te verrichten.   
 4.  De justitiële gegevens en de gegevens uit de politieregisters die zijn verstrekt worden niet voor een ander doel gebruikt dan waarvoor zij zijn verstrekt.   
 
 ### Artikel  37  
 
 1.  Onze Minister beslist op de aanvraag met betrekking tot de afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon binnen vier weken na ontvangst van de aanvraag.   
 2.  Indien Onze Minister voornemens is afwijzend te beslissen op de aanvraag, bedoeld in het eerste lid, beslist hij binnen acht weken na ontvangst van de aanvraag.   
-3.  Indien de verklaring omtrent het gedrag wordt afgegeven, zijn de [artikelen 3:8](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:50 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+3.  Indien de verklaring omtrent het gedrag wordt afgegeven, zijn de artikelen 3:8 en 3:50 van de Algemene wet bestuursrecht niet van toepassing.   
 
 ### Artikel  38  
 
 1.  Onze Minister beslist op de aanvraag met betrekking tot de afgifte van de verklaring omtrent het gedrag van een rechtspersoon binnen acht weken na ontvangst van de aanvraag.   
 2.  Indien Onze Minister voornemens is afwijzend te beslissen op de aanvraag, bedoeld in het eerste lid, beslist hij binnen twaalf weken na ontvangst van de aanvraag.   
-3.  Alvorens te beslissen tot weigering van de afgifte, stelt Onze Minister degene van wie een of meer gegevens als bedoeld in het tweede lid van artikel 36, ten grondslag hebben gelegen aan de beslissing, in de gelegenheid om binnen twee weken een verzoek als bedoeld in artikel 22 van deze wet of [artikel 28 van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) dan wel [artikel 36 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) te doen.   
+3.  Alvorens te beslissen tot weigering van de afgifte, stelt Onze Minister degene van wie een of meer gegevens als bedoeld in het tweede lid van artikel 36, ten grondslag hebben gelegen aan de beslissing, in de gelegenheid om binnen twee weken een verzoek als bedoeld in artikel 22 van deze wet of artikel 28 van de Wet politiegegevens dan wel artikel 36 van de Wet bescherming persoonsgegevens te doen.   
 4.  De termijn voor het geven van de beschikking, bedoeld in het eerste lid, wordt opgeschort met ingang van de dag waarop Onze Minister de gelegenheid heeft geboden tot het doen van een verzoek en tot de dag waarop een schriftelijke mededeling is gedaan dat geen verzoek zal worden ingediend of twee weken zijn verstreken dan wel tot de dag waarop de procedure naar aanleiding van een verzoek is beëindigd.   
 5.  De aanvrager van de verklaring wordt in kennis gesteld van de opschorting.   
 
@@ -345,7 +345,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 1.  Het College van procureurs-generaal verwerkt slechts strafvorderlijke gegevens, indien dit noodzakelijk is voor een goede vervulling van de taak van het openbaar ministerie of het nakomen van een andere wettelijke verplichting.   
 2.  Het College van procureurs-generaal verwerkt strafvorderlijke gegevens niet verder op een wijze die onverenigbaar is met de doeleinden, bedoeld in het eerste lid.   
-3.  [Artikel 9, tweede en derde lid, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
+3.  Artikel 9, tweede en derde lid, van de Wet bescherming persoonsgegevens is van overeenkomstige toepassing.   
 
 ### Artikel  39c  
 
@@ -369,19 +369,19 @@ a. Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en d
 
 b. Onze Minister;  
 
-c. lichamen of personen aan wie krachtens [artikel 257ba van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) de bevoegdheid is toegekend een strafbeschikking uit te vaardigen;  
+c. lichamen of personen aan wie krachtens artikel 257ba van het Wetboek van Strafvordering de bevoegdheid is toegekend een strafbeschikking uit te vaardigen;  
 
-d. ambtenaren van politie als bedoeld in [artikel 2, onder a, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md) en ambtenaren van politie als bedoeld in artikel 2, onder c en d, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;  
+d. ambtenaren van politie als bedoeld in artikel 2, onder a, van de Politiewet 2012 en ambtenaren van politie als bedoeld in artikel 2, onder c en d, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;  
 
-e. ambtenaren als bedoeld in [artikel 141, onderdeel c en d, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+e. ambtenaren als bedoeld in artikel 141, onderdeel c en d, van het Wetboek van Strafvordering;  
 
-f. buitengewone opsporingsambtenaren als bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+f. buitengewone opsporingsambtenaren als bedoeld in artikel 142, eerste lid, van het Wetboek van Strafvordering;  
 
 g. instanties die belast zijn met de tenuitvoerlegging van rechterlijke beslissingen of handelingen, beslissingen van de officier van justitie dan wel van vrijheidsbenemende straffen of maatregelen;  
 
-h. verantwoordelijken voor de verwerking van politiegegevens als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+h. verantwoordelijken voor de verwerking van politiegegevens als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet politiegegevens;  
 
-i. bewaarders als bedoeld in [artikel 118, eerste en tweede lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+i. bewaarders als bedoeld in artikel 118, eerste en tweede lid, van het Wetboek van Strafvordering;  
 
 j. andere autoriteiten in het buitenland als bedoeld in onderdeel a en instanties die ingevolge het internationaal recht een taak hebben in het kader van de strafrechtspleging.     
 2.  Het College van procureurs-generaal verstrekt aan de ambtenaren die werkzaam zijn ten behoeve van de justitiële documentatie strafvorderlijke gegevens.   
@@ -461,8 +461,8 @@ d. de veiligheid van de staat.
 
 ### Artikel  39n  
 
-1.  Een beslissing op een verzoek als bedoeld in artikel 39i, 39j of  39m geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De [artikelen 47](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [48 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
+1.  Een beslissing op een verzoek als bedoeld in artikel 39i, 39j of  39m geldt als een beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht.   
+2.  De artikelen 47 en 48 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
 
 ### Artikel  39o  
 
@@ -516,9 +516,9 @@ c. andere dan de onder a en b genoemde rechterlijke ambtenaren, voorzover Onze M
 3.  Onze Minister verstrekt ten behoeve van de selectie of bejegening desgevraagd afschriften van de in een persoonsdossier opgenomen rapporten aan de selectiefunctionarissen en de hoofden van de inrichtingen waar de aan een persoon opgelegde straf of maatregel wordt ten uitvoer gelegd.   
 4.  Onze Minister verstrekt ten behoeve van het voorbereiden van enig rapport of het uitoefenen van enig toezicht desgevraagd afschriften van de in een persoonsdossier opgenomen rapporten aan: 
 
-a. de directeuren van de stichting en de reclasseringsinstellingen, bedoeld in [artikel 1, onder b en c van de Reclasseringsregeling 1995](../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+a. de directeuren van de stichting en de reclasseringsinstellingen, bedoeld in artikel 1, onder b en c van de Reclasseringsregeling 1995;  
 
-b. de reclasseringswerkers, bedoeld in [artikel 6, eerste lid, van de Reclasseringsregeling 1995](../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+b. de reclasseringswerkers, bedoeld in artikel 6, eerste lid, van de Reclasseringsregeling 1995;  
 
 c. de directeur of ressortsdirecteur van de raad voor de kinderbescherming.     
 5.  Bij algemene maatregel van bestuur kunnen andere personen of instanties worden aangewezen aan wie ten behoeve van een juiste toepassing van het strafrecht afschriften van rapporten uit een persoonsdossier kunnen worden verstrekt. Daarbij kan tevens worden bepaald van welke rapporten afschriften worden verstrekt. Tevens kunnen nadere voorschriften worden gegeven in verband met de verstrekking.   
@@ -546,8 +546,8 @@ Op de behandeling van verzoeken als bedoeld in het eerste lid van artikel 43 en 
 
 ### Artikel  47  
 
-1.  Een beslissing op een verzoek als bedoeld in artikel 44 of  46 geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De [artikelen 47](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [48 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
+1.  Een beslissing op een verzoek als bedoeld in artikel 44 of  46 geldt als een beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht.   
+2.  De artikelen 47 en 48 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
 
 ### Artikel  48  
 
@@ -576,7 +576,7 @@ Artikel 27 is van overeenkomstige toepassing op de verwerking van persoonsgegeve
 ### Artikel  52  
 
 1.  Een ieder die krachtens deze wet de beschikking krijgt over gegevens met betrekking tot een derde, is verplicht tot geheimhouding daarvan, behoudens voorzover een bij of krachtens deze wet gegeven voorschrift mededelingen toelaat, dan wel de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt tot het ter kennis brengen daarvan noodzaakt.   
-2.  [Artikel 272, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing   
+2.  Artikel 272, tweede lid, van het Wetboek van Strafrecht is niet van toepassing   
 
 ### Artikel  53  
 
@@ -668,7 +668,7 @@ Wijzigt deze wet.
 
 ### Artikel  75  
 
-Aan de in artikel 9 bedoelde personen of instanties worden tevens de justitiële gegevens over minderjarigen verstrekt die overeenkomstig de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag zoals die luidde voor de inwerkingtreding van de [Wet van 7 juli 1994 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en andere wetten in verband met de herziening van het strafrecht voor jeugdigen](../../../../../wet/wijzigingswet/wetboek/van/strafrecht/enz./(herziening/strafrecht/voor/etc/BWBR0006797/README.md) (Stb. 528) waren opgenomen in het strafregister.  
+Aan de in artikel 9 bedoelde personen of instanties worden tevens de justitiële gegevens over minderjarigen verstrekt die overeenkomstig de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag zoals die luidde voor de inwerkingtreding van de Wet van 7 juli 1994 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en andere wetten in verband met de herziening van het strafrecht voor jeugdigen (Stb. 528) waren opgenomen in het strafregister.  
 
 ### Artikel  76  
 

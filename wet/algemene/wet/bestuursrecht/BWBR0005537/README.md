@@ -2700,7 +2700,7 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 
 ### Artikel  8:38  
 
-1.  Indien de griffier een bij aangetekende brief of bij brief met ontvangstbevestiging verzonden stuk terug ontvangt en hem blijkt dat de geadresseerde op de dag van verzending of uiterlijk een week daarna in de gemeentelijke basisadministratie persoonsgegevens stond ingeschreven op het op het stuk vermelde adres, dan verzendt hij het stuk zo spoedig mogelijk bij gewone brief.   
+1.  Indien de griffier een bij aangetekende brief of bij brief met ontvangstbevestiging verzonden stuk terug ontvangt en hem blijkt dat de geadresseerde op de dag van verzending of uiterlijk een week daarna in de basisregistratie personen stond ingeschreven op het op het stuk vermelde adres, dan verzendt hij het stuk zo spoedig mogelijk bij gewone brief.   
 2.  In de overige gevallen waarin de griffier een bij aangetekende brief of bij brief met ontvangstbevestiging verzonden stuk terug ontvangt, verbetert hij, indien mogelijk, het op het stuk vermelde adres en verzendt hij het stuk opnieuw bij aangetekende brief of bij brief met ontvangstbevestiging.   
 
 ### Artikel  8:39  
@@ -4116,11 +4116,11 @@ b. [hoofdstuk 6](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), 
 
 c. de [hoofdstukken 6A](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [6B](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [12](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)   [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md): [artikel 4](../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) [Uitvoeringswet verordening Europees burgerinitiatief](../../../../../wet/uitvoeringswet/verordening/europees/burgerinitiatief/BWBR0033716/README.md): [artikel 2, aanhef en onder c](../../../../../wet/uitvoeringswet/verordening/europees/burgerinitiatief/BWBR0033716/README.md) [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): 
 
-a. de [artikelen 54, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [56](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [59](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+a.  artikel 54, tweede lid   
 
-b. een aanwijzing als bedoeld in de [artikelen 55, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [57](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [58](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+b. een aanwijzing als bedoeld in artikel 55, eerste lid  
 
-c. een kennisgeving als bedoeld in [artikel 62a, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+c. een kennisgeving als bedoeld in [artikel 62a, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of 62b  
 
 d. een inreisverbod als bedoeld in [artikel 66a, eerste of tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dat door middel van een zelfstandige beschikking is uitgevaardigd  
 

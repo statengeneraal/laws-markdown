@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
+a. Onze Minister: Onze Minister van Infrastructuur en Milieu;  
 
 b. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten;  
 
@@ -48,7 +48,7 @@ d. een motorrijtuig als bedoeld in artikel 20b.   In ieder geval wordt als bromf
 
 ea. fietsen met trapondersteuning: fietsen die zijn voorzien van een elektrische hulpmotor met een nominaal continu vermogen van maximaal 0,25 kW en waarvan de aandrijfkracht geleidelijk vermindert en tenslotte wordt onderbroken wanneer het voertuig een snelheid van 25 km/h bereikt, of eerder, indien de bestuurder ophoudt met trappen;  
 
-f. typegoedkeuring: goedkeuring van tot een bepaald type behorende voertuigen, voertuigonderdelen, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers;  
+f. typegoedkeuring: goedkeuring van tot een bepaald type behorende voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers;  
 
 g. kenteken: kenteken als bedoeld in artikel 36 of artikel 37, derde lid;  
 
@@ -74,7 +74,7 @@ o. houder van een motorrijtuig of een aanhangwagen: degene die het voertuig:
 
 3°. anderszins, anders dan als eigenaar of bezitter, tot duurzaam gebruik onder zich heeft;    
 
-p. verwerken van gegevens: verwerken als bedoeld in [artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+p. verwerken van gegevens: verwerken als bedoeld in artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens;  
 
 q. Dienst Wegverkeer: de in artikel 4a bedoelde dienst;  
 
@@ -108,7 +108,7 @@ c. het in stand houden van de weg en het waarborgen van de bruikbaarheid daarvan
 d. het zoveel mogelijk waarborgen van de vrijheid van het verkeer.     
 2.  De krachtens deze wet vastgestelde regels kunnen voorts strekken tot: 
 
-a. het voorkomen of beperken van door het verkeer veroorzaakte overlast, hinder of schade alsmede de gevolgen voor het milieu, bedoeld in de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. het voorkomen of beperken van door het verkeer veroorzaakte overlast, hinder of schade alsmede de gevolgen voor het milieu, bedoeld in de Wet milieubeheer;  
 
 b. het voorkomen of beperken van door het verkeer veroorzaakte aantasting van het karakter of van de functie van objecten of gebieden.     
 3.  De krachtens deze wet vastgestelde regels kunnen voorts strekken tot: 
@@ -135,7 +135,7 @@ De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van
 
 ### Artikel  3  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../AMvB/boetebesluit/werkgevers/coördinatiewet/sociale/verzekering/BWBR0011389/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 4, derde en vierde lid, in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 4, derde en vierde lid, in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld; buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -156,7 +156,7 @@ a. ten aanzien van voertuigen, voor zover die worden gebezigd ten behoeve van de
 b. voor militairen te voet, voor zover zij zich ter uitoefening van de dienst op de weg bevinden.     
 3.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Ingeval buitengewone omstandigheden dit noodzakelijk maken, kan bij koninklijk besluit worden bepaald dat van in dat besluit aan te wijzen bepalingen, genoemd in de algemene maatregel van bestuur bedoeld in het eerste lid, kan worden afgeweken door bestuurders van voertuigen gebezigd ten behoeve van de strijdkrachten en door militairen te voet die zich op de weg bevinden ter uitoefening van de dienst.   
 4.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Ingeval buitengewone omstandigheden dit noodzakelijk maken, kan bij koninklijk besluit worden bepaald dat ten aanzien van voertuigen van bij algemene maatregel van bestuur aan te wijzen overheidsdiensten, het bepaalde bij of krachtens deze wet en provinciale en plaatselijke verordeningen slechts gelden voor zover zulks bij die maatregel is bepaald.   
-5.  In geval van de beperkte of de algemene noodtoestand is het militair gezag bevoegd voor het gebied waarvoor op grond van [artikel 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, regels vast te stellen inzake het verkeer op de weg, afwijkende van het bepaalde bij of krachtens deze wet en van provinciale en plaatselijke verordeningen, alsmede van de in het tweede lid bedoelde, bij algemene maatregel van bestuur vastgestelde regels, voor zoveel dat door het gezag ter uitvoering van de militaire taak ter handhaving van de uitwendige of inwendige veiligheid nodig wordt geacht.   
+5.  In geval van de beperkte of de algemene noodtoestand is het militair gezag bevoegd voor het gebied waarvoor op grond van artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden, bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, regels vast te stellen inzake het verkeer op de weg, afwijkende van het bepaalde bij of krachtens deze wet en van provinciale en plaatselijke verordeningen, alsmede van de in het tweede lid bedoelde, bij algemene maatregel van bestuur vastgestelde regels, voor zoveel dat door het gezag ter uitvoering van de militaire taak ter handhaving van de uitwendige of inwendige veiligheid nodig wordt geacht.   
 6.  Door de vorige leden wordt de gewone aansprakelijkheid uit andere wettelijke bepalingen voortvloeiende, niet opgeheven of verminderd.   
 
 ### Hoofdstuk  IA  
@@ -170,7 +170,7 @@ b. voor militairen te voet, voor zover zij zich ter uitoefening van de dienst op
 ### Artikel  4a  
 
 1.  Er is een Dienst Wegverkeer, in het maatschappelijk verkeer aangeduid als RDW. De dienst bezit rechtspersoonlijkheid en is gevestigd te Zoetermeer.   
-2.  Op de Dienst Wegverkeer is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van [artikel 15 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+2.  Op de Dienst Wegverkeer is de Kaderwet zelfstandige bestuursorganen van toepassing, met uitzondering van artikel 15 van die wet.   
 
 ### Paragraaf  2  
 
@@ -180,7 +180,7 @@ b. voor militairen te voet, voor zover zij zich ter uitoefening van de dienst op
 
 1.  De Dienst Wegverkeer is belast met de volgende taken: 
 
-a. het in het kader van de toelating tot het verkeer op de weg verlenen van typegoedkeuringen voor voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers, het verlenen van individuele goedkeuringen voor voertuigen, alsmede het intrekken van typegoedkeuringen,  
+a. het verlenen van typegoedkeuringen voor voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers, het verlenen van individuele goedkeuringen voor voertuigen, alsmede het intrekken van typegoedkeuringen,  
 
 a1. het ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, verlenen van typegoedkeuringen voor voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers,  
 
@@ -200,7 +200,7 @@ b5. het verwerken van gegevens in verband met het alcoholslotprogramma,
 
 b6. het vaststellen en vastleggen van manipulatie van voertuigsystemen en het melden hiervan aan de bevoegde autoriteiten,  
 
-c. het opgeven van kentekens voor motorrijtuigen en aanhangwagens en het ter zake van die opgaven afgeven van kentekenbewijzen, het schorsen van de geldigheid van kentekenbewijzen, het ongeldigverklaren van kentekenbewijzen, het geldig verklaren van kentekenbewijzen, alsmede het houden van toezicht als bedoeld in artikel 37, vierde lid,  
+c. het opgeven van kentekens voor motorrijtuigen en aanhangwagens, het ter zake van die opgaven inschrijven en tenaamstellen van motorrijtuigen en aanhangwagens in het kentekenregister, bedoeld in artikel 42, en het ter zake van die inschrijving afgeven van kentekenbewijzen, het beëindigen van de inschrijving en het doen vervallen van de tenaamstelling, het schorsen van de geldigheid van kentekenbewijzen, het ongeldig verklaren van kentekenbewijzen, het geldig verklaren van kentekenbewijzen, alsmede het houden van toezicht als bedoeld in artikel 37, vierde lid,  
 
 d. het afgeven van keuringsrapporten voor motorrijtuigen en aanhangwagens,  
 
@@ -212,13 +212,13 @@ g. het afgeven van rijbewijzen in de gevallen, bedoeld in artikel 116, eerste li
 
 g1. het afgeven van een verklaring in verband met de aanvraag van een rijbewijs,  
 
-h. het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven kentekenbewijzen, afgegeven keuringsrapporten, krachtens artikel 149a verleende ontheffingen, afgegeven rijbewijzen , fietsen en de mobiele objecten, bedoeld in artikel 70l, eerste lid, alsmede met betrekking tot rechterlijke uitspraken houdende ontzegging van de bevoegdheid tot het besturen van motorrijtuigen,  
+h. het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven kentekenbewijzen, afgegeven keuringsrapporten, krachtens artikel 149a verleende ontheffingen, afgegeven rijbewijzen, fietsen, gebruik van motorrijtuigen en de mobiele objecten, bedoeld in artikel 70l, eerste lid, alsmede met betrekking tot rechterlijke uitspraken houdende ontzegging van de bevoegdheid tot het besturen van motorrijtuigen,  
 
 i. het overeenkomstig de bij of krachtens deze wet vastgestelde bepalingen verstrekken van gegevens uit de in onderdeel h bedoelde registers alsmede het houden van toezicht als bedoeld in artikel 45a, eerste lid,  
 
 i1. het overeenkomstig het bij of krachtens deze wet bepaalde doen van informatieverzoeken aan de daartoe bevoegde autoriteiten van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland, ten behoeve van de beoordeling door de Dienst Wegverkeer of een andere rijbewijsafgevende autoriteit in Nederland van aanvragen tot afgifte van een rijbewijs;  
 
-j. het verlenen van erkenningen als bedoeld in de artikelen 62, 70a, 83 en 101, en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,  
+j. het verlenen van erkenningen als bedoeld in de artikelen 62, 70a, 83, 92, eerste lid, 101, 132f, eerste lid, en 132k, eerste lid, en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,  
 
 j1: de bevoegdheid tot het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen of voor het uitvoeren van bepaalde toezichtstaken,  
 
@@ -228,16 +228,21 @@ l. het verlenen van ontheffingen als bedoeld in artikel 149a,
 
 m. het opsporen van bij of krachtens deze wet strafbaar gestelde feiten, voor zover de ambtenaren van de Dienst Wegverkeer daarmee ingevolge artikel 159 zijn belast, en  
 
-n. het met inachtneming van het bepaalde in artikel 4q vaststellen van de tarieven, bedoeld in de artikelen 22, eerste lid, 22a, eerste lid, 22b, tweede lid, 23, tweede lid, 23a, tweede lid, 25a, eerste lid, 25b, tweede lid26, eerste lid, 26a, tweede lid, 29, tweede lid, 30, 31, 37, vierde lid, 43, zesde en zevende lid, 45a, derde lid, 48, eerste lid, 55, eerste lid, 63, eerste lid, 64, tweede lid, 67, eerste lid, 70, tweede lid, 70d, eerste lid, 70e, tweede lid, 70k, vierde en vijfde lid, 70l, vierde lid, 75, eerste lid, 80, eerste lid, 84, eerste lid, 86, vijfde lid, 90, vierde lid, 91, vierde lid, 99, eerste lid, 101, eerste lid, 102, tweede lid, 106, eerste lid, 106a, derde lid, jo. 101, eerste lid, respectievelijk jo. 102, eerste lid, 111, vijfde lid, 127, derde en vierde lid, 128, eerste lid, 132e, eerste en tweede lid, 132g, eerste lid, 132h, derde lid, 132l, eerste lid, en tweede lid, onderdeel f, 132m, vierde lid, 144, eerste lid, en 149a, vierde lid, het vaststellen van het tarief voor de in onderdeel g1 bedoelde verklaring, alsmede het vaststellen van de wijze van betaling van deze tarieven,  
+n. het met inachtneming van het bepaalde in artikel 4q vaststellen van de tarieven, bedoeld in het eerste lid, onderdelen q en r, en het derde lid en in de artikelen 22, eerste lid, 22a, eerste lid, 22b, tweede lid, 23, tweede lid, 23a, tweede lid, 25a, eerste lid, 25b, tweede lid26, eerste lid, 26a, tweede lid, 37, vierde lid, 43, zesde en zevende lid, 45a, derde lid, 48, eerste lid, 52c, tweede lid, 55, eerste en derde lid, 61a, eerste lid, 63, eerste lid, 64, tweede lid, 66b, eerste lid, 67, eerste lid, 70d, eerste lid, 70e, tweede lid, 70k, vierde en vijfde lid, 70l, vierde lid, 75, eerste lid, 80, eerste lid, 84, eerste lid, 86, vijfde lid, 90, vierde lid, 91, vierde lid, 93, eerste lid, 94, tweede lid, 99, eerste lid, 101, eerste lid, 102, tweede lid, 106, eerste lid, 106a, derde lid, jo. 101, eerste lid, respectievelijk jo. 102, eerste lid, 111, vijfde lid, 127, derde en vierde lid, 128, eerste lid, 132e, eerste en tweede lid, 132g, eerste lid, 132h, derde lid, 132l, eerste lid, en tweede lid, onderdeel f, 132m, vierde lid, 144, eerste lid, en 149a, vierde lid, 186, vierde lid, het vaststellen van het tarief voor de in onderdeel g1 bedoelde verklaring, alsmede het vaststellen van de wijze van betaling van deze tarieven,  
 
 o. het sluiten van overeenkomsten met betrekking tot de productie van rijbewijzen, de aflevering ervan en het beheer van de daartoe benodigde voorzieningen;  
 
-p. het attenderen van houders van een rijbewijs op het verloop van de geldigheidsduur.     
+p. het attenderen van houders van een rijbewijs op het verloop van de geldigheidsduur,  
+
+q. het heffen en vaststellen van een tarief, met inachtneming van artikel 4q, voor overige verstrekkingen of dienstverleningen die voortvloeien uit de vervulling van de aan de Dienst Wegverkeer opgedragen wettelijke taken,  
+
+r. het voldoen aan de verplichting tot het opstellen van een gids betreffende het brandstofverbruik en de CO <sub>2</sub> -uitstoot van personenauto’s op grond van richtlijn 1999/94/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO <sub>2</sub> -uitstoot bij de verbranding van nieuwe personenauto’s (PbEG 1999, L12/16) en de verplichting tot het verzamelen van gegevens over nieuwe personenauto’s en het vaststellen van informatie voor de controle van de CO <sub>2</sub> -emissies en mededeling doen van die gegevens aan de Commissie op grond van Verordening (EG) nr. 443/2009van het Europees Parlement en de Raad van 23 april 2009 tot vaststelling van emissienormen voor nieuwe personenauto’s, in het kader van de communautaire geïntegreerde benadering om de CO <sub>2</sub> -emissies van lichte voertuigen te beperken (PbEU 2009, L140/1).     
 2.  Voorts is de Dienst Wegverkeer belast met: 
 
 a. de bij of krachtens andere wetten opgedragen taken, en  
 
 b. andere door Onze Minister opgedragen taken.     
+3.  Met inachtneming van artikel 4q worden de op grond van het tweede lid aan de Dienst Wegverkeer opgedragen taken, verstrekkingen of dienstverleningen die voortvloeien uit de uitvoering van deze taken, verricht tegen betaling op een door deze dienst vastgestelde wijze van door deze dienst vastgestelde tarieven.   
 
 ### Artikel  4c  
 
@@ -303,7 +308,7 @@ b. investeringen die een door de raad van toezicht vast te stellen bedrag te bov
 c. wijzigingen in de rechtspositie van het personeel;  
 
 d. de bij of krachtens deze wet aan Onze Minister uit te brengen rapportages.     
-3.  Onze Minister kan bepalen dat de directie de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) of dat de directie, ingeval Onze Minister een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
+3.  Onze Minister kan bepalen dat de directie de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in artikel 32 van de Kaderwet zelfstandige bestuursorganen of dat de directie, ingeval Onze Minister een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
 4.  De directie behoeft in elk geval de voorafgaande instemming van de raad van toezicht voor de besluiten betreffende: 
 
 a. de begroting;  
@@ -344,7 +349,7 @@ De directie stelt bij bestuursreglement haar werkwijze vast.
 
 ### Artikel  4o  
 
-1.  Het personeel van de Dienst Wegverkeer, de leden van de directie daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md), behoudens degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht.   
+1.  Het personeel van de Dienst Wegverkeer, de leden van de directie daaronder begrepen, is ambtenaar in de zin van de Ambtenarenwet, behoudens degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht.   
 2.  De directie stelt bij reglement de regeling van de rechtstoestand van het personeel vast.   
 3.  Onverminderd hetgeen reeds bij of krachtens de wet is geregeld, geeft het reglement, bedoeld in het tweede lid, in ieder geval voorschriften betreffende de volgende onderwerpen: 
 
@@ -397,25 +402,31 @@ c. andere baten hoe ook genoemd.
 ### Artikel  4q  
 
 1.  De hoogte van de tarieven, bedoeld in artikel 4b, eerste lid, onderdeel n, dient te worden gerelateerd aan de met de uitoefening van de taak gemoeide kosten.   
-2.  Het tarief, bedoeld in artikel 48, eerste lid, voor de aanvraag van een bij algemene maatregel van bestuur aan te wijzen deel van het kentekenbewijs omvat mede een bij ministeriële regeling vastgesteld bedrag dat strekt ter dekking van de kosten van: 
+2.  Het tarief, bedoeld in artikel 48, eerste lid, voor de aanvraag van een inschrijving en tenaamstelling in het kentekenregister omvat mede een bij ministeriële regeling vastgesteld bedrag dat strekt ter dekking van de kosten van: 
 
 a. het registreren van keuringsrapporten,  
 
-b. het ongeldig verklaren van kentekenbewijzen,  
+b. het ongeldig verklaren van kentekenbewijzen, tenzij de Dienst Wegverkeer ingevolge artikel 52c, tweede lid, een tarief voor de ongeldigheid heeft vastgesteld,  
 
 c. het verstrekken van gegevens uit het kentekenregister als bedoeld in artikel 43, eerste en tweede lid, en bij algemene maatregel van bestuur te bepalen verstrekkingen,  
 
-d. het behandelen van klachten en ingevolge de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ingediende bezwaarschriften en beroepsschriften gericht op het handelen van de Dienst Wegverkeer,  
+d. het behandelen van klachten en ingevolge de Algemene wet bestuursrecht ingediende bezwaarschriften en beroepsschriften gericht op het handelen van de Dienst Wegverkeer,  
 
 e. het opsporen van bij of krachtens deze wet strafbaar gestelde feiten voor zover ambtenaren van de Dienst Wegverkeer daarmee ingevolge artikel 159 zijn belast,  
 
-f. het beheer en instandhouding van het in [artikel 13, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) bedoelde register,  
+f. het beheer en instandhouding van het in artikel 13, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen bedoelde register,  
 
-g. het verstrekken van gegevens uit het in onderdeel f genoemde register aan degenen die ingevolge de in [artikel 38, tweede lid van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) bedoelde algemene maatregel van bestuur niet tot betaling van het ter zake vastgestelde tarief zijn gehouden,  
+g. het verstrekken van gegevens uit het in onderdeel f genoemde register aan degenen die ingevolge de in artikel 38, tweede lid van de Wet aansprakelijkheidsverzekering motorrijtuigen bedoelde algemene maatregel van bestuur niet tot betaling van het ter zake vastgestelde tarief zijn gehouden,  
 
-h. de inspectie bedoeld in artikel 45a, tweede lid, indien naar het oordeel van de Dienst Wegverkeer blijkt dat de gegevens juist in het kentekenregister zijn opgenomen dan wel de onjuistheid van een gegeven degene aan wie het kentekenbewijs voor het geïnspecteerde voertuig is afgegeven niet kan worden tegengeworpen, en  
+h. de inspectie bedoeld in artikel 45a, tweede lid, indien naar het oordeel van de Dienst Wegverkeer blijkt dat de gegevens juist in het kentekenregister zijn opgenomen dan wel de onjuistheid van een gegeven degene aan wie het kentekenbewijs voor het geïnspecteerde voertuig is afgegeven niet kan worden tegengeworpen,  
 
-i. het toezicht op het terugroepen door de fabrikant van reeds in de handel gebrachte voertuigen.     
+i. het toezicht op het terugroepen door de fabrikant van reeds in de handel gebrachte voertuigen,  
+
+j. het uitvoeren van experimenten op grond van artikel 186, eerste en tweede lid, en het opstellen van het verslag over de doeltreffendheid en de effecten van experimenten op grond van artikel 186, derde lid,  
+
+k. het uitvoeren van de op grond van artikel 4b, eerste lid, onderdeel r, opgedragen taken,  
+
+l. verstrekkingen waarbij inning van het tarief meer kost dan het te innen tarief.     
 
 ### Artikel  4r  
 
@@ -442,7 +453,7 @@ Het boekjaar van de Dienst Wegverkeer valt samen met het kalenderjaar.
 
 ### Artikel  4v  
 
-1.  Waar in deze wet dan wel de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) de goedkeuring van Onze Minister is vereist, verleent dan wel onthoudt deze die goedkeuring binnen zes weken na de datum van ontvangst van de aan goedkeuring onderhevige stukken.   
+1.  Waar in deze wet dan wel de Kaderwet zelfstandige bestuursorganen de goedkeuring van Onze Minister is vereist, verleent dan wel onthoudt deze die goedkeuring binnen zes weken na de datum van ontvangst van de aan goedkeuring onderhevige stukken.   
 2.  Met goedkeuring wordt gelijkgesteld het verstrijken van de in het eerste lid bedoelde termijn zonder dat de goedkeuring is verleend of onthouden.   
 
 ### Artikel  4w  
@@ -469,7 +480,7 @@ Indien de Dienst Wegverkeer een bij of krachtens een andere wet dan deze wet opg
 ### Artikel  4z  
 
 1.  Er is een Centraal Bureau Rijvaardigheidsbewijzen, in het maatschappelijk verkeer aangeduid als CBR. Het bureau bezit rechtspersoonlijkheid en is gevestigd te Rijswijk.   
-2.  Op het Centraal Bureau Rijvaardigheidsbewijzen is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van [artikel 15 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+2.  Op het Centraal Bureau Rijvaardigheidsbewijzen is de Kaderwet zelfstandige bestuursorganen van toepassing, met uitzondering van artikel 15 van die wet.   
 
 ### Artikel  4z1  
 
@@ -499,7 +510,7 @@ g. het ongeldig verklaren van rijbewijzen;
 
 h. het verlenen van ontheffingen als bedoeld in artikel 149, tweede lid;  
 
-i. het afgeven van gehandicaptenparkeerkaarten aan aanvragers die niet zijn ingeschreven in de basisadministratie persoonsgegevens van een gemeente;  
+i. het afgeven van gehandicaptenparkeerkaarten aan aanvragers die niet als ingezetene zijn ingeschreven in de basisregistratie personen;  
 
 j. het beoordelen van de vakbekwaamheid van bestuurders in het goederen- en personenvervoer over de weg;  
 
@@ -586,7 +597,7 @@ b. investeringen die een door de raad van toezicht vast te stellen bedrag te bov
 c. wijzigingen in de rechtspositie van het personeel;  
 
 d. de bij of krachtens deze wet aan Onze Minister uit te brengen rapportages.     
-3.  Onze Minister kan bepalen dat de directie de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) of dat de directie, ingeval Onze Minister een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
+3.  Onze Minister kan bepalen dat de directie de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in artikel 32 van de Kaderwet zelfstandige bestuursorganen of dat de directie, ingeval Onze Minister een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
 4.  De directie behoeft in elk geval de voorafgaande instemming van de raad van toezicht voor de besluiten betreffende: 
 
 a. de begroting;  
@@ -654,7 +665,7 @@ Het boekjaar van het CBR valt samen met het kalenderjaar.
 
 ### Artikel  4ar  
 
-1.  Waar in deze wet dan wel de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) de goedkeuring van Onze Minister is vereist, verleent dan wel onthoudt deze die goedkeuring binnen zes weken na de datum van ontvangst van de aan goedkeuring onderhevige stukken.   
+1.  Waar in deze wet dan wel de Kaderwet zelfstandige bestuursorganen de goedkeuring van Onze Minister is vereist, verleent dan wel onthoudt deze die goedkeuring binnen zes weken na de datum van ontvangst van de aan goedkeuring onderhevige stukken.   
 2.  Met goedkeuring wordt gelijkgesteld het verstrijken van de in het eerste lid bedoelde termijn zonder dat de goedkeuring is verleend of onthouden.   
 
 ### Artikel  4as  
@@ -732,12 +743,12 @@ b. aan wie deelname aan het alcoholslotprogramma is opgelegd, tot het tijdstip w
 
 1.  Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.   
 2.  Het is degene die weet of redelijkerwijs moet weten dat een op zijn naam gesteld rijbewijs voor een of meer categorieën van motorrijtuigen dan wel voor een gedeelte van de geldigheidsduur ongeldig is verklaard, indien aan hem daarna geen ander rijbewijs voor het besturen van een motorrijtuig van de betrokken categorie of categorieën is afgegeven, verboden op de weg een motorrijtuig van die categorie of categorieën dan wel gedurende dat gedeelte van de geldigheidsduur te besturen of als bestuurder te doen besturen. Hetzelfde verbod geldt voor degene die weet of redelijkerwijs moet weten dat een op zijn naam gesteld rijbewijs zijn geldigheid heeft verloren en dat hij bij de aanvraag van een nieuw rijbewijs moet voldoen aan de bij algemene maatregel van bestuur als bedoeld in artikel 123b, derde lid, gestelde voorwaarden, tenzij aan hem, nadat hij aan deze voorwaarden heeft voldaan, een ander rijbewijs voor het besturen van een motorrijtuig van de betrokken categorie of categorieën is afgegeven.   
-3.  Het tweede lid geldt niet ten aanzien van de bestuurder van een motorrijtuig gedurende de tijd dat aan hem ter verkrijging van een rijbewijs voor de categorie of categorieën van motorrijtuigen waarop de ongeldigverklaring betrekking heeft, rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) wordt gegeven en gedurende de tijd dat door hem een rijproef wordt afgelegd in het kader van een onderzoek, door of vanwege de overheid ingesteld, naar zijn rijvaardigheid of geschiktheid.   
+3.  Het tweede lid geldt niet ten aanzien van de bestuurder van een motorrijtuig gedurende de tijd dat aan hem ter verkrijging van een rijbewijs voor de categorie of categorieën van motorrijtuigen waarop de ongeldigverklaring betrekking heeft, rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven en gedurende de tijd dat door hem een rijproef wordt afgelegd in het kader van een onderzoek, door of vanwege de overheid ingesteld, naar zijn rijvaardigheid of geschiktheid.   
 4.  Het is degene van wie ingevolge artikel 130, tweede lid, de overgifte van een op zijn naam gesteld rijbewijs is gevorderd, dan wel wiens rijbewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.   
-5.  Het is degene die weet of redelijkerwijs moet weten dat de geldigheid van een op zijn naam gesteld rijbewijs ingevolge artikel 131, derde lid, onderdeel a, voor een of meer categorieën van motorrijtuigen is geschorst, verboden gedurende de tijd dat de schorsing van kracht is, op de weg een motorrijtuig van de categorie of categorieën waarop de schorsing betrekking heeft, te besturen of als bestuurder te doen besturen.   
-6.  Het vierde en het vijfde lid gelden niet ten aanzien van de bestuurder van een motorrijtuig gedurende de tijd dat door hem een rijproef wordt afgelegd in het kader van een ingevolge artikel 131, eerste lid, gevorderd onderzoek. Voorts geldt het vijfde lid niet ten aanzien van de bestuurder van een motorrijtuig gedurende de tijd dat aan hem, ter voorbereiding op een onderzoek naar de rijvaardigheid in het kader van een ingevolge artikel 133, eerste lid, gevorderd onderzoek, rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) wordt gegeven.   
+5.  Het is degene die weet of redelijkerwijs moet weten dat de geldigheid van een op zijn naam gesteld rijbewijs ingevolge artikel 131, tweede lid, onderdeel a, voor een of meer categorieën van motorrijtuigen is geschorst, verboden gedurende de tijd dat de schorsing van kracht is, op de weg een motorrijtuig van de categorie of categorieën waarop de schorsing betrekking heeft, te besturen of als bestuurder te doen besturen.   
+6.  Het vierde en het vijfde lid gelden niet ten aanzien van de bestuurder van een motorrijtuig gedurende de tijd dat door hem een rijproef wordt afgelegd in het kader van een ingevolge artikel 131, eerste lid, onderdeel c, gevorderd onderzoek. Voorts geldt het vijfde lid niet ten aanzien van de bestuurder van een motorrijtuig gedurende de tijd dat aan hem, ter voorbereiding op een onderzoek naar de rijvaardigheid in het kader van een ingevolge artikel 131, eerste lid, onderdeel c, gevorderd onderzoek, rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven.   
 7.  Het is degene van wie ingevolge artikel 164 de overgifte van een op zijn naam gesteld rijbewijs, een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs of een internationaal rijbewijs is gevorderd, dan wel van wie zodanig bewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.   
-8.  Het is degene van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in [artikel 30, eerste lid, van die wet](../../../../wet/wet/mulder/BWBR0004581/README.md).   
+8.  Het is degene van wie ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in artikel 30, eerste lid, van die wet.   
 9.  Het is degene die op grond van artikel 132c, eerste lid, onderdeel d, de feitelijke beschikking heeft gekregen over een rijbewijs waarop de bij ministeriële regeling vastgestelde codering voor deelname aan het alcoholslot is vermeld, verboden een motorrijtuig, niet zijnde een bromfiets, te besturen: 
 
 a. dat niet is voorzien van een alcoholslot als bedoeld in artikel 132e, eerste lid,  
@@ -774,7 +785,7 @@ c. de opleiding van verkeersbrigadiers;
 d. de aanstelling van verkeersregelaars, de verlenging en intrekking van die aanstelling, de afgifte van de aanstellingspas aan verkeersregelaars en de inname van die pas in gevallen waarin het verkeer in gevaar is of kan worden gebracht, alsmede de aanstelling van verkeersbrigadiers;  
 
 e. de uitrusting, de verzekering, de wijze en plaats van taakuitoefening, en het toezicht op verkeersregelaars en verkeersbrigadiers.     
-4.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek tot aanstelling tot verkeersregelaar en verlenging van die aanstelling als bedoeld in het derde lid, onderdeel d.   
+4.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek tot aanstelling tot verkeersregelaar en verlenging van die aanstelling als bedoeld in het derde lid, onderdeel d.   
 
 ### Artikel  13  
 
@@ -870,6 +881,7 @@ b. er voor dit motorrijtuig niet een typegoedkeuring overeenkomstig in het kader
 2.  De goedkeuring, bedoeld in het eerste lid, kan worden verleend als typegoedkeuring, dan wel, met betrekking tot voertuigen, als goedkeuring voor een individueel voertuig.   
 3.  Bij ministeriële regeling aan te wijzen productieprocessen van bepaalde categorieën voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers dienen te zijn goedgekeurd alvorens de producten voortkomend uit die productieprocessen worden toegelaten tot het verkeer op de weg.   
 4.  In afwijking van het eerste lid kunnen bij ministeriële regeling aan te wijzen categorieën van voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers worden aangewezen, waarvoor geen typegoedkeuring overeenkomstig in het kader van de Europese Unie tot stand gekomen voorschriften vereist is, worden toegelaten tot het verkeer op de weg zonder te zijn goedgekeurd.   
+5.  Voor bij algemene maatregel van bestuur aan te wijzen categorieën van systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die niet dienen te zijn goedgekeurd voor de toelating tot het verkeer op de weg kan een typegoedkeuring verleend worden.   
 
 ### §  2  
 
@@ -877,7 +889,7 @@ b. er voor dit motorrijtuig niet een typegoedkeuring overeenkomstig in het kader
 
 ### Artikel  22  
 
-1.  Een typegoedkeuring wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend indien het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers waarvoor de goedkeuring wordt gevraagd, bij een door de dienst verrichte keuring heeft voldaan aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de toelating tot het verkeer op de weg. Deze eisen kunnen betrekking hebben op de technische staat, de specificaties, de prestaties of de uitrusting van het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers.   
+1.  Een typegoedkeuring wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend indien het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers waarvoor de goedkeuring wordt gevraagd, bij een door de dienst verrichte keuring heeft voldaan aan de bij ministeriële regeling vastgestelde eisen. Deze eisen kunnen betrekking hebben op de technische staat, de specificaties, de prestaties of de uitrusting van het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers.   
 2.  Met een typegoedkeuring wordt gelijkgesteld een typegoedkeuring: 
 
 a. die is verleend door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en die is verleend overeenkomstig de op het betrokken voertuig, systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers betrekking hebbende, in het kader van de Europese Unie tot stand gekomen voorschriften, of die is verleend door het daartoe bevoegde gezag in Zwitserland indien dit voorvloeit uit de op 21 juni 1999 te Luxemburg tot stand gekomen Overeenkomst tussen de Europese Gemeenschap en de Zwitserse Bondsstaat inzake de wederzijdse erkenning van de overeenstemmingsbeoordeling (PbEG L 114);  
@@ -982,7 +994,7 @@ d. blijkt dat de goedkeuring ten onrechte is verleend.
 
 ### Artikel  25e  
 
-1.  Wanneer een fabrikant reeds verkochte, geregistreerde of in het verkeer gebrachte voertuigen, dan wel reeds verkochte onderdelen of uitrustingsstukken, waarvoor een overeenkomstig in het kader van de Europese Unie tot stand gekomen voorschriften afgegeven typegoedkeuring is verleend, op grond van [artikel 21, tweede lid, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) dient terug te roepen omdat het voertuig een ernstig gevaar vormt voor de verkeersveiligheid, de volksgezondheid of het milieu, stelt de fabrikant de goedkeuringsinstantie die de typegoedkeuring heeft verleend hiervan onmiddellijk in kennis.   
+1.  Wanneer een fabrikant reeds verkochte, geregistreerde of in het verkeer gebrachte voertuigen, dan wel reeds verkochte onderdelen of uitrustingsstukken, waarvoor een overeenkomstig in het kader van de Europese Unie tot stand gekomen voorschriften afgegeven typegoedkeuring is verleend, op grond van artikel 21, tweede lid, van de Warenwet dient terug te roepen omdat het voertuig een ernstig gevaar vormt voor de verkeersveiligheid, de volksgezondheid of het milieu, stelt de fabrikant de goedkeuringsinstantie die de typegoedkeuring heeft verleend hiervan onmiddellijk in kennis.   
 2.  De fabrikant stelt de goedkeuringsinstantie maatregelen voor om het in het eerste lid bedoelde gevaar te neutraliseren.   
 3.  De Dienst Wegverkeer houdt toezicht op het terugroepen van voertuigen, onderdelen en uitrustingsstukken.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het tweede lid.   
@@ -1007,7 +1019,7 @@ d. blijkt dat de goedkeuring ten onrechte is verleend.
 
 ### Artikel  27  
 
-De in artikel 22, eerste lid, of 26, eerste lid, bedoelde goedkeuring wordt eerst verleend indien het voertuig bij de keuring tevens heeft voldaan aan de eisen, gesteld krachtens de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) en de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md).  
+De in artikel 22, eerste lid, of 26, eerste lid, bedoelde goedkeuring wordt eerst verleend indien het voertuig bij de keuring tevens heeft voldaan aan de eisen, gesteld krachtens de Wet inzake de luchtverontreiniging en de Wet geluidhinder.  
 
 ### §  4a  
 
@@ -1046,7 +1058,8 @@ d. blijkt dat de toestemming ten onrechte is verleend.
 ### Artikel  33  
 
 1.  Het is de eigenaar of houder van een voertuig dat ingevolge artikel 21, eerste lid, dient te zijn goedgekeurd voor toelating tot het verkeer op de weg verboden dit voertuig te laten staan op de weg of daarmee over de weg te rijden alsmede de bestuurder daarmee over de weg te laten rijden, indien het voertuig niet is goedgekeurd voor toelating tot het verkeer op de weg.   
-2.  Het eerste lid is niet van toepassing op een voertuig dat ingevolge artikel 21, eerste lid, dient te zijn goedgekeurd voor toelating tot het verkeer op de weg, maar waarvoor een kentekenbewijs is afgegeven.   
+2.  Onverminderd het eerste lid is het de bestuurder van een voertuig dat ingevolge artikel 21, eerste lid, dient te zijn goedgekeurd voor toelating tot het verkeer op de weg, verboden daarmee over de weg te rijden, indien het voertuig niet is goedgekeurd.   
+3.  In bij algemene maatregel van bestuur te bepalen gevallen zijn het eerste en tweede lid niet van toepassing op een voertuig dat ingevolge artikel 21, eerste lid, dient te zijn goedgekeurd voor toelating tot het verkeer op de weg, maar dat is ingeschreven in het kentekenregister.   
 
 ### Artikel  34  
 
@@ -1126,7 +1139,7 @@ c. motorrijtuigen en aanhangwagens, mits wordt voldaan aan nadere bij ministeri�
 
 a. in bepaalde uitzonderingsgevallen tijdelijk wordt of kan worden afgeweken van het in artikel 36, derde lid, onderdeel b of c, bepaalde;  
 
-b. een motorrijtuig of een aanhangwagen op de weg mag staan, indien het voor het betrokken voertuig afgegeven kentekenbewijs ongeldig is verklaard ingevolge artikel 58, tweede lid, onderdeel b, c, d of f, dan wel is ingevorderd overeenkomstig artikel 60.     
+b. een motorrijtuig of een aanhangwagen op de weg mag staan, indien de tenaamstelling vervallen is verklaard ingevolge artikel 51a, derde lid, onderdeel b, c, d of f, dan wel indien door de bij algemene maatregel van bestuur aangewezen persoon is aangezegd dat met het voertuig geen gebruik mag worden gemaakt van de weg.     
 6.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de omschrijving van de in het eerste lid, onderdeel a, bedoelde categorieën voertuigen alsmede de voor die categorieën vastgestelde maximumsnelheid.   
 7.  Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het derde lid en kunnen nadere regels worden vastgesteld ter uitvoering van het vijfde lid.   
 
@@ -1179,7 +1192,7 @@ b. voor zover het betreft een aanhangwagen, de eigenaar of houder die de aanhang
 
 1.  Voor de toepassing van deze paragraaf wordt verstaan onder: 
 
-a. overheidsorgaan: bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en personen of instanties als bedoeld in het tweede lid;  
+a. overheidsorgaan: bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht en personen of instanties als bedoeld in het tweede lid;  
 
 b. basisregistratie: verzameling gegevens waarvan bij wet is bepaald dat deze authentieke gegevens bevat;  
 
@@ -1189,13 +1202,13 @@ c. authentiek gegeven: in een basisregistratie opgenomen gegeven dat bij of krac
 ### Artikel  42  
 
 1.  Er is een kentekenregister. Dit register is een basisregistratie.   
-2.  De Dienst Wegverkeer is de beheerder van het kentekenregister en verantwoordelijke als bedoeld in de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  De Dienst Wegverkeer is de beheerder van het kentekenregister en verantwoordelijke als bedoeld in de Wet bescherming persoonsgegevens.   
 3.  In het kentekenregister verwerkt de Dienst Wegverkeer gegevens omtrent motorrijtuigen en aanhangwagens waarvoor een kenteken is opgegeven en de tenaamstelling van die kentekens, alsmede omtrent andere motorrijtuigen en aanhangwagens.   
 4.  Het verzamelen van de gegevens, bedoeld in het derde lid, geschiedt voor de volgende doeleinden: 
 
 a. voor een goede uitvoering van het bepaalde bij of krachtens deze wet en voor de handhaving van de bij of krachtens deze wet gestelde voorschriften,  
 
-b. voor een goede uitvoering van het bepaalde bij of krachtens de [Wet op de motorrijtuigenbelasting 1994](../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), de [Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), de [Wet belasting zware motorrijtuigen](../../../../wet/wet/belasting/zware/motorrijtuigen/BWBR0007678/README.md), de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), de [Wet bereikbaarheid en mobiliteit](../../../../wet/wet/bereikbaarheid/en/mobiliteit/BWBR0013854/README.md), dan wel andere wettelijke regelingen ten aanzien van motorrijtuigen of aanhangwagens en voor de handhaving van het bepaalde bij of krachtens die wettelijke regelingen, en  
+b. voor een goede uitvoering van het bepaalde bij of krachtens de Wet op de motorrijtuigenbelasting 1994, de Wet op de belasting van personenauto’s en motorrijwielen 1992, de Wet belasting zware motorrijtuigen, de Wet aansprakelijkheidsverzekering motorrijtuigen, de Wet bereikbaarheid en mobiliteit, dan wel andere wettelijke regelingen ten aanzien van motorrijtuigen of aanhangwagens en voor de handhaving van het bepaalde bij of krachtens die wettelijke regelingen, en  
 
 c. om overheidsorganen te voorzien van gegevens uit het kentekenregister voor zover zij aangeven deze gegevens nodig te hebben voor een goede uitoefening van hun publieke taak.     
 5.  De Dienst Wegverkeer mag strafrechtelijke persoonsgegevens en persoonsgegevens ter vaststelling van mogelijk strafbaar gedrag verwerken voor zover dit verband houdt met de in het vierde lid, onderdelen a en b, genoemde doeleinden.   
@@ -1275,7 +1288,7 @@ Onverminderd artikel 43c zijn overheidsorganen gehouden om aan de Dienst Wegverk
 ### Artikel  44  
 
 1.  De Dienst Wegverkeer neemt maatregelen met het oog op het waarborgen van de juistheid, de actualiteit en de volledigheid van het kentekenregister.   
-2.  De Dienst Wegverkeer laat ten minste eenmaal in de drie jaar een registeraccountant, dan wel een accountant die is ingeschreven in het register bedoeld in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), een oordeel geven over de opzet en werking van het stelsel van interne beheersmaatregelen.   
+2.  De Dienst Wegverkeer laat ten minste eenmaal in de drie jaar een registeraccountant, dan wel een accountant die is ingeschreven in het register bedoeld in artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten, een oordeel geven over de opzet en werking van het stelsel van interne beheersmaatregelen.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van het eerste en tweede lid.   
 
 ### Artikel  45  
@@ -1300,72 +1313,126 @@ b. aan wie een kenteken is opgegeven;
 c. die de eigendom, het bezit of het houderschap van een motorrijtuig of een aanhangwagen, waarvoor een kenteken is opgegeven, heeft verkregen.     
 2.  Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het eerste lid.   
 
-### §  4  
+### §  4a  
 
-####Kentekenbewijzen
+####Inschrijving in het kentekenregister en tenaamstelling
 
 ### Artikel  47  
 
-Een kentekenbewijs bestaat uit een of meer bij algemene maatregel van bestuur aan te wijzen delen.  
+Motorrijtuigen en aanhangwagens waarvoor een kenteken zijn opgegeven dienen overeenkomstig bij algemene maatregel van bestuur vastgestelde regels te zijn ingeschreven in het kentekenregister en tenaamgesteld.  
 
 ### Artikel  48  
 
-1.  Een kentekenbewijs wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief slechts afgegeven aan in Nederland woonachtige natuurlijke personen die de leeftijd van achttien jaren dan wel, indien de aanvraag betrekking heeft op een kentekenbewijs voor een bromfiets, de leeftijd van zestien jaren hebben bereikt en aan in Nederland gevestigde rechtspersonen, indien het motorrijtuig of de aanhangwagen waarvoor de afgifte wordt verlangd, overeenkomstig artikel 22 of 26 is goedgekeurd voor toelating tot het verkeer op de weg en, indien na die toelating wijziging is aangebracht in de bouw of inrichting van dat voertuig, die wijziging, behoudens in het geval dat geen goedkeuring is vereist, overeenkomstig artikel 99, eerste lid, of 100, eerste lid, is goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg.   
-2.  In bepaalde uitzonderingsgevallen kan door de Dienst Wegverkeer een kentekenbewijs worden afgegeven, indien ten aanzien van het motorrijtuig of de aanhangwagen, waarvoor de afgifte wordt verlangd, niet is voldaan aan het eerste lid.   
-3.  Bij algemene maatregel van bestuur kan worden bepaald dat de ingevolge het eerste lid gestelde eisen aan de aanvrager van een kentekenbewijs niet gelden ten aanzien van de aanvrager van een kentekenbewijs, afgegeven ter zake van de opgave van een kenteken als bedoeld in artikel 38.   
-4.  Indien een kentekenbewijs is afgegeven aan een in Nederland gevestigde rechtspersoon die niet behoeft te zijn ingeschreven in een daartoe bij de wet aangewezen register of waarvan de onderneming niet behoeft te zijn ingeschreven in het handelsregister, wordt degene die bij de aanvraag als gemachtigde van die rechtspersoon is opgetreden, voor de toepassing van het bepaalde bij of krachtens deze wet mede als houder van het motorrijtuig of de aanhangwagen aangemerkt in de zin van artikel 1, eerste lid, onderdeel o.   
-5.  De in het vierde lid bedoelde gemachtigde dient in Nederland woonachtig te zijn en dient de leeftijd van achttien jaren te hebben bereikt.   
-6.  Ingeval de aanvrager van een kentekenbewijs voor een bromfiets de leeftijd heeft van zestien of zeventien jaar, wordt voor wat betreft de aanvraag de toestemming van diens wettelijke vertegenwoordiger verondersteld te zijn verleend.   
+1.  Inschrijving in het kentekenregister en tenaamstelling vinden, tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van de daarvoor door deze dienst vastgestelde tarieven, plaats op aanvraag van: 
 
-### Artikel  48a  
+a. in Nederland woonachtige natuurlijke personen die de leeftijd van achttien jaren hebben bereikt, dan wel  
 
-De Dienst Wegverkeer brengt aantekeningen aan op dan wel verwijdert aantekeningen van het kentekenbewijs voor zover dat bij of krachtens deze wet is voorgeschreven of mogelijk wordt gemaakt, dan wel voor de goede uitvoering van deze wet wenselijk is.  
+b. in Nederland woonachtige natuurlijke personen die de leeftijd van zestien jaren hebben bereikt indien de aanvraag betrekking heeft een inschrijving en tenaamstelling van een bromfiets, en  
+
+c. in Nederland gevestigde rechtspersonen.     
+2.  Inschrijving in het kentekenregister vindt slechts plaats indien het motorrijtuig of de aanhangwagen waarvoor de inschrijving wordt verlangd, overeenkomstig artikel 22 of 26 is goedgekeurd voor toelating tot het verkeer op de weg en, indien na die toelating wijziging is aangebracht in de bouw of inrichting van dat voertuig, die wijziging, behoudens in het geval dat geen goedkeuring is vereist, overeenkomstig artikel 99, eerste lid, of 100, eerste lid, is goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg.   
+3.  In bepaalde uitzonderingsgevallen kan door de Dienst Wegverkeer een motorrijtuig of aanhangwagen worden ingeschreven, indien ten aanzien van het motorrijtuig of de aanhangwagen, waarvoor de inschrijving wordt verlangd, niet is voldaan aan het eerste lid.   
+4.  Bij algemene maatregel van bestuur kan worden bepaald dat de ingevolge het eerste lid gestelde eisen aan de aanvrager van een inschrijving niet gelden ten aanzien van de aanvrager van een inschrijving ter zake van een kenteken als bedoeld in artikel 38.   
+5.  Ingeval de aanvrager van een inschrijving en tenaamstelling van een bromfiets de leeftijd heeft van zestien of zeventien jaar, wordt diens wettelijke vertegenwoordiger verondersteld te hebben toegestemd in de aanvraag.   
+6.  In afwijking van artikel 47 kan in bij of krachtens algemene maatregel van bestuur bepaalde gevallen een voertuig in het kentekenregister worden ingeschreven zonder tenaamstelling. Door de Dienst Wegverkeer kan worden bepaald dat deze wijze van inschrijven gevolgen heeft voor het tijdstip van de verschuldigdheid van een deel van de in het eerste lid bedoelde tarieven.   
+7.  Bij algemene maatregel van bestuur kan worden bepaald dat in door de Dienst Wegverkeer te bepalen gevallen met een ingeschreven en te naam gesteld motorrijtuig of aanhangwagen niet op de weg mag worden gereden.   
+8.  Het verbod bedoeld in het zevende lid geldt vanaf een bij algemene maatregel van bestuur te bepalen tijdstip.   
 
 ### Artikel  49  
 
-1.  Onverminderd artikel 48, eerste lid, wordt de afgifte van een kentekenbewijs geweigerd: 
+1.  Onverminderd artikel 48, eerste lid, wordt de inschrijving in het kentekenregister geweigerd: 
 
-a. indien bij een ingevolge hoofdstuk V verrichte keuring blijkt dat de op het voertuig aangebrachte gegevens op onrechtmatige wijze in overeenstemming zijn gebracht met de op het overgelegde kentekenbewijs vermelde gegevens,  
+a. indien bij een ingevolge hoofdstuk V verrichte keuring blijkt dat de op het motorrijtuig of aanhangwagen aangebrachte gegevens op onrechtmatige wijze in overeenstemming zijn gebracht met de in het kentekenregister of op het overgelegde kentekenbewijs vermelde gegevens,  
 
-b. indien blijkt dat de ter zake van het voertuig verschuldigde belastingen en rechten niet zijn voldaan, dan wel  
+b. indien blijkt dat de ter zake van het voertuig verschuldigde belastingen en rechten niet zijn voldaan,  
 
-c. indien blijkt dat de krachtens een algemeen verbindend verklaarde overeenkomst op grond van de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) verschuldigde afvalbeheersbijdrage voor autowrakken niet is voldaan, dan wel  
+c. indien blijkt dat de krachtens een algemeen verbindend verklaarde overeenkomst op grond van de Wet milieubeheer verschuldigde afvalbeheersbijdrage voor autowrakken niet is voldaan, of  
 
-d. in overige bij algemene maatregel van bestuur te bepalen gevallen overeenkomstig de bij die algemene maatregel vastgestelde regels.     
-2.  De afgifte van een kentekenbewijs kan worden geweigerd indien: 
+d. in overige bij algemene maatregel van bestuur te bepalen gevallen overeenkomstig de bij die algemene maatregel van bestuur vastgestelde regels.     
+2.  De inschrijving in het kentekenregister kan worden geweigerd indien: 
 
-a. voor het motorrijtuig of de aanhangwagen waarvoor de afgifte wordt verlangd, op grond van het bij of krachtens deze wet bepaalde geen kenteken behoeft te zijn opgegeven;  
+a. voor het motorrijtuig of de aanhangwagen waarvoor de inschrijving wordt verlangd, op grond van het bij of krachtens deze wet bepaalde geen kenteken behoeft te zijn opgegeven;  
 
-b. uit het kentekenregister blijkt dat de eigenaar of houder van een motorrijtuig of een aanhangwagen onvrijwillig de beschikkingsmacht over dat voertuig heeft verloren.     
+b. uit het kentekenregister of een buitenlands register blijkt dat de eigenaar of houder van een motorrijtuig of een aanhangwagen onvrijwillig de beschikkingsmacht over dat voertuig heeft verloren.     
+3.  Onverminderd artikel 48, eerste lid, wordt de tenaamstelling geweigerd in bij algemene maatregel van bestuur te bepalen gevallen.   
 
 ### Artikel  50  
 
-1.  De aanvrager van een kentekenbewijs dient persoonlijk te verschijnen bij een bij ministeriële regeling aan te wijzen instantie, tenzij: 
-
-a. de aanvraag namens hem wordt ingediend door degene aan wie door de Dienst Wegverkeer een erkenning als bedoeld in artikel 62 is verleend dan wel, indien dit een rechtspersoon is, door diens gemachtigde, en deze voldoende zekerheid heeft verkregen over de identiteit van de aanvrager. Daartoe legt de aanvrager een document als bedoeld in [artikel 2, eerste lid, van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md), een geldig rijbewijs als bedoeld in artikel 107 dan wel een rijbewijs als bedoeld in artikel 108, eerste lid, onderdeel h, over. Degene die namens de aanvrager de aanvraag indient, legt bij de bij ministeriële regeling aan te wijzen instantie het document bedoeld in de tweede volzin over, alsmede de volmacht en het bewijs dat aan hem een erkenning als bedoeld in artikel 62 is verleend, of  
-
-b. volgens bij algemene maatregel van bestuur vast te stellen regels op andere wijze voldoende zekerheid kan worden verkregen over de identiteit van de aanvrager.   Indien bij de aanvraag, bedoeld onder *a*, gebruik wordt gemaakt van een document als bedoeld in [artikel 2 van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md), dient bij de aanvraag tevens een de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens te worden overgelegd dat niet langer dan drie maanden voor het tijdstip van de aanvraag is verstrekt. Onze Minister kan de bevoegdheid van de krachtens artikel 62 erkende persoon om de aanvraag namens de aanvrager in te dienen beperken tot één of meer specifiek voor die persoon met name te noemen instanties. Bij algemene maatregel van bestuur worden regels vastgesteld ter zake van de voorwaarden waaraan degene aan wie ingevolge artikel 62 een erkenning is verleend, dient te voldoen om als gemachtigde, bedoeld onder *a*, op te treden.   
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting om persoonlijk te verschijnen niet geldt ten aanzien van de aanvrager van een kentekenbewijs, afgegeven ter zake van de opgave van een kenteken als bedoeld in artikel 38.   
-3.  Indien de aanvraag geschiedt door een in Nederland gevestigde rechtspersoon die dient te zijn ingeschreven in een daartoe bij de wet aangewezen register of waarvan de onderneming dient te zijn ingeschreven in het handelsregister, geldt de verplichting om persoonlijk te verschijnen voor degene die krachtens de statuten bevoegd is de rechtspersoon te vertegenwoordigen. Indien er meerdere personen bevoegd zijn de rechtspersoon te vertegenwoordigen, geldt de verplichting voor een van hen. Een persoon die bevoegd is de rechtspersoon te vertegenwoordigen, kan bij gemachtigde verschijnen.   
-4.  Indien de aanvraag geschiedt door een in Nederland gevestigde rechtspersoon die niet behoeft te zijn ingeschreven in een daartoe bij de wet aangewezen register of waarvan de onderneming niet behoeft te zijn ingeschreven in het handelsregister, geldt de verplichting om persoonlijk te verschijnen voor degene die door die rechtspersoon is gemachtigd tot de aanvraag van het kentekenbewijs.   
-5.  De aanvraag van een kentekenbewijs dient te geschieden overeenkomstig bij algemene maatregel van bestuur vastgestelde regels. Bij ministeriële regeling worden voorschriften vastgesteld ter uitvoering van die regels.   
-6.  De in het vijfde lid bedoelde regels kunnen mede dienstbaar zijn aan de heffing van de belasting van personenauto’s en motorrijwielen en van de motorrijtuigenbelasting alsmede aan de afdracht van de krachtens een algemeen verbindend verklaarde overeenkomst op grond van de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) verschuldigde afvalbeheersbijdrage voor autowrakken.   
-7.  Bij de in het vijfde lid bedoelde regels kan worden bepaald in welke gevallen het motorrijtuig of de aanhangwagen, waarvoor een kentekenbewijs wordt aangevraagd, voor een onderzoek ter beschikking moet worden gehouden.   
-8.  De Dienst Wegverkeer is bevoegd te vorderen dat de aanvrager van een kentekenbewijs een door of vanwege Onze Minister van Financiën afgegeven bewijs overlegt, waaruit blijkt dat ter zake van het motorrijtuig of de aanhangwagen verschuldigde belastingen en rechten zijn voldaan.   
+1.  De aanvrager van een tenaamstelling verschijnt persoonlijk bij een erkende instantie als bedoeld in de artikelen 61a, eerste lid, of 62, eerste lid, of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst.   
+2.  Indien bij de aanvraag, bedoeld in het eerste lid, onderdeel a, gebruik wordt gemaakt van een document als bedoeld in artikel 2 van de Paspoortwet, wordt bij de aanvraag tevens een de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisregistratie personen overgelegd dat niet langer dan drie maanden voor het tijdstip van de aanvraag is verstrekt. Onze Minister kan de bevoegdheid van de krachtens artikel 62 erkende persoon om de aanvraag namens de aanvrager in te dienen beperken tot één of meer specifiek voor die persoon met name te noemen instanties. Bij algemene maatregel van bestuur worden regels vastgesteld ter zake van de voorwaarden waaraan degene aan wie ingevolge artikel 62 een erkenning is verleend, voldoet om als gemachtigde, bedoeld in het eerste lid, onderdeel a, op te treden.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting om persoonlijk te verschijnen niet geldt ten aanzien van de inschrijving en tenaamstelling ter zake van de opgave van een kenteken als bedoeld in artikel 38.   
+4.  Indien de aanvraag geschiedt door een in Nederland gevestigde rechtspersoon die dient te zijn ingeschreven in een daartoe bij de wet aangewezen register of waarvan de onderneming dient te zijn ingeschreven in het handelsregister, geldt de verplichting om persoonlijk te verschijnen voor degene die krachtens de statuten bevoegd is de rechtspersoon te vertegenwoordigen. Indien er meerdere personen bevoegd zijn de rechtspersoon te vertegenwoordigen, geldt de verplichting voor een van hen. Een persoon die bevoegd is de rechtspersoon te vertegenwoordigen, kan bij gemachtigde verschijnen.   
+5.  De aanvraag van een inschrijving en tenaamstelling geschiedt overeenkomstig bij of krachtens algemene maatregel van bestuur vastgestelde regels. Deze regels kunnen mede dienstbaar zijn aan de heffing van de belasting van personenauto’s en motorrijwielen en van de motorrijtuigenbelasting alsmede aan de afdracht van de krachtens een algemeen verbindend verklaarde overeenkomst op grond van de Wet milieubeheer verschuldigde afvalbeheersbijdrage voor autowrakken en kunnen bepalen in welke gevallen het motorrijtuig of de aanhangwagen, waarvoor een inschrijving en tenaamstelling wordt aangevraagd, voor een onderzoek ter beschikking moet worden gesteld.   
+6.  De Dienst Wegverkeer is bevoegd te vorderen dat de aanvrager van een inschrijving en tenaamstelling een door of vanwege Onze Minister van Financiën afgegeven bewijs overlegt, waaruit blijkt dat ter zake van het motorrijtuig of de aanhangwagen verschuldigde belastingen en rechten zijn voldaan.   
 
 ### Artikel  51  
 
-1.  Het is verboden voor het verkrijgen van een kentekenbewijs opzettelijk onjuiste opgaven te doen, onjuiste inlichtingen te verschaffen en onjuiste bewijsstukken en andere bescheiden over te leggen.   
-2.  Voor zover de bij de aanvraag van een kentekenbewijs te verschaffen gegevens betreffen of mede betreffen gegevens die nodig worden geacht ter zake van de heffing van de belasting van personenauto’s en motorrijwielen en van de motorrijtuigenbelasting, wordt de verplichting tot het verstrekken van die gegevens beschouwd als een ingevolge de belastingwet opgelegde verplichting en zijn, indien ter zake onjuiste of onvolledige gegevens worden verstrekt - in afwijking van de bepalingen van deze wet - de bepalingen van [Hoofdstuk IX (Strafrechtelijke bepalingen) van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van toepassing.   
+1.  Het is verboden voor het verkrijgen van een inschrijving in het kentekenregister en een tenaamstelling opzettelijk onjuiste opgaven te doen, onjuiste inlichtingen te verschaffen of onjuiste bewijsstukken en andere bescheiden over te leggen.   
+2.  Voor zover de bij de aanvraag van een inschrijving in het kentekenregister en tenaamstelling te verschaffen gegevens betreffen of mede betreffen gegevens die nodig worden geacht ter zake van de heffing van de belasting van personenauto’s en motorrijwielen en van de motorrijtuigenbelasting, wordt de verplichting tot het verstrekken van die gegevens beschouwd als een ingevolge de belastingwet opgelegde verplichting en zijn, indien ter zake onjuiste of onvolledige gegevens worden verstrekt – in afwijking van de bepalingen van deze wet – de bepalingen van Hoofdstuk IX (Strafrechtelijke bepalingen) van de Algemene wet inzake rijksbelastingen van toepassing.   
+
+### Artikel  51a  
+
+1.  Een tenaamstelling in het kentekenregister vervalt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels.   
+2.  Een tenaamstelling in het kentekenregister wordt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels vervallen verklaard: 
+
+a. indien de tenaamstelling heeft plaatsgevonden op grond van bij de inschrijving of tenaamstelling verschafte onjuiste gegevens en dat inschrijving zou zijn geweigerd indien de onjuistheid van die gegevens ten tijde van de aanvraag bekend zou zijn geweest, dan wel  
+
+b. indien blijkt dat de tenaamstelling kennelijk abusievelijk heeft plaatsgevonden.     
+3.  Onverminderd het eerste en tweede lid, kan een tenaamstelling vervallen worden verklaard: 
+
+a. indien de ter zake van het voertuig verschuldigde belastingen en rechten niet zijn voldaan;  
+
+b. indien het ingeschreven voertuig niet voldoet aan de bij of krachtens deze wet vastgestelde eisen, met uitzondering van de ingevolge hoofdstuk III met betrekking tot de toelating tot het verkeer op de weg vastgestelde eisen;  
+
+c. indien in de bouw of inrichting van het ingeschreven voertuig wijzigingen zijn aangebracht die niet zijn goedgekeurd overeenkomstig het bepaalde bij of krachtens deze wet;  
+
+d. indien het ingeschreven voertuig een schadevoertuig betreft dat voldoet aan bij ministeriële regeling vastgestelde kenmerken, dan wel indien het voertuig na herstel van de schade niet voldoet aan de bij ministeriële regeling te stellen eisen ten aanzien van de wijze waarop de schade is hersteld;  
+
+e. indien de eigenaar of houder van een voertuig onvrijwillig de beschikkingsmacht over dat voertuig heeft verloren, mits wordt voldaan aan de bij algemene maatregel van bestuur vastgestelde voorwaarden, dan wel  
+
+f. in andere bij algemene maatregel van bestuur vast te stellen gevallen.     
+4.  De Dienst Wegverkeer kan een vervallen verklaarde tenaamstelling laten herleven, dan wel laten herleven voor het rijden over de weg, indien de reden voor vervallenverklaring is komen te vervallen.   
+5.  In bij algemene maatregel van bestuur vast te stellen gevallen kan worden bepaald dat een tenaamstelling na verloop van bij die algemene maatregel van bestuur te bepalen tijdsperiode van rechtswege vervalt.   
+
+### §  4b  
+
+####Kentekenbewijzen
 
 ### Artikel  52  
 
-1.  Indien voor het voertuig waarvoor de afgifte van een kentekenbewijs wordt verlangd, een kentekenbewijs als bedoeld in artikel 56 is afgegeven, kan de Dienst Wegverkeer verlangen dat, alvorens een kentekenbewijs wordt afgegeven, dat eerder afgegeven kentekenbewijs dient te worden ingeleverd.   
-2.  Aan de afgifte van een kentekenbewijs kunnen door de Dienst Wegverkeer voorschriften worden verbonden, zulks onder aantekening daarvan in het bewijs.   
+Een kentekenbewijs bestaat uit een of meer bij algemene maatregel van bestuur aan te wijzen delen.  
+
+### Artikel  52a  
+
+1.  Ter bevestiging van de inschrijving in het kentekenregister en tenaamstelling bedoeld in artikel 48, eerste lid, wordt door de Dienst Wegverkeer een kentekenbewijs afgegeven.   
+2.  De Dienst Wegverkeer verstrekt tevens ten behoeve van wijziging van de tenaamstelling een tenaamstellingscode aan degene aan wie het kentekenbewijs is afgegeven.   
+3.  Uitreiking van het kentekenbewijs of een deel daarvan en verstrekking van de tenaamstellingscode vindt plaats op bij ministeriële regeling te bepalen wijze.   
+
+### Artikel  52b  
+
+De Dienst Wegverkeer brengt aantekeningen aan in dan wel verwijdert aantekeningen uit het kentekenregister, respectievelijk brengt aantekeningen aan op het kentekenbewijs dan wel verwijdert aantekeningen van het kentekenbewijs, voor zover dat bij of krachtens deze wet is voorgeschreven of mogelijk is gemaakt, dan wel voor de goede uitvoering van deze wet wenselijk is.  
+
+### Artikel  52c  
+
+1.  Een kentekenbewijs verliest zijn geldigheid door: 
+
+a. het verval van de tenaamstelling in het kentekenregister;  
+
+b. de afgifte van een vervangend kentekenbewijs;  
+
+c. het onbevoegd daarin aanbrengen van wijzigingen;  
+
+d. een schorsing als bedoeld in art 67, eerste lid, voor de duur van de schorsing, of  
+
+e. een ongeldigverklaring.     
+2.  In bij algemene maatregel van bestuur bepaalde gevallen kan een kentekenbewijs op verzoek van de eigenaar of houder van een motorvoertuig tegen betaling, op een door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, door deze dienst ongeldig worden verklaard.   
+3.  De Dienst Wegverkeer kan verlangen dat een kentekenbewijs dat zijn geldigheid heeft verloren binnen een daarbij bepaalde termijn bij deze dienst wordt ingeleverd.   
+4.  De Dienst Wegverkeer kan een ongeldig verklaard kentekenbewijs geldig verklaren, indien de reden voor ongeldigverklaring is komen te vervallen.   
+5.  Onverminderd het eerste lid, onderdeel d, behoudt het kentekenbewijs zijn geldigheid ten behoeve van de wijziging van de tenaamstelling.   
 
 ### Artikel  53  
 
-De Dienst Wegverkeer geeft bij de afgifte van een kentekenbewijs tevens een keuringsbewijs voor het betrokken voertuig af indien: 
+De Dienst Wegverkeer geeft bij inschrijving in het kentekenregister en tenaamstelling tevens een keuringsbewijs voor het betrokken voertuig af indien: 
 
 a. het voertuig is onderworpen aan een onderzoek dat ten minste een controle inhoudt op de eisen, bedoeld in artikel 75, eerste lid, en  
 
@@ -1379,89 +1446,25 @@ Onze Minister kan aan besturen van verenigingen met volledige rechtsbevoegdheid,
 
 1.  Op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, geeft deze dienst overeenkomstig bij algemene maatregel van bestuur vastgestelde regels vervangende bewijzen af voor: 
 
-a. kentekenbewijzen of delen daarvan, die versleten, geheel of ten dele onleesbaar, verloren geraakt of teniet gegaan zijn;  
+a. kentekenbewijzen, die versleten, geheel of ten dele onleesbaar, verloren geraakt of teniet gegaan zijn;  
 
 b. kentekenbewijzen in geval van vermissing van de bijbehorende kentekenplaten.     
-2.  Het vervangende bewijs treedt in de plaats van het eerder afgegeven kentekenbewijs of deel daarvan en wordt niet afgegeven dan nadat het versleten of geheel of ten dele onleesbaar geworden kentekenbewijs of deel daarvan, waarvoor het wordt afgegeven, is ingeleverd bij de Dienst Wegverkeer.   
-
-### Artikel  56  
-
-In bij algemene maatregel van bestuur vast te stellen gevallen kan een kentekenbewijs met een beperkte geldigheidsduur worden afgegeven.  
-
-### Artikel  57  
-
-1.  Onverminderd artikel 56 verliest een kentekenbewijs zijn geldigheid door: 
-
-a.  vervallen;   
-
-b. afgifte van een nieuw kentekenbewijs dan wel een vervangend kentekenbewijs;  
-
-c. het onbevoegd daarin aanbrengen van wijzigingen;  
-
-d. schorsing als bedoeld in artikel 67, eerste lid, voor de duur van de schorsing;  
-
-e. ongeldigverklaring.     
-2.  In de gevallen waarin overeenkomstig artikel 55 een vervangend bewijs is afgegeven voor een deel van het kentekenbewijs, verliest het deel waarvoor dat vervangend bewijs is afgegeven, zijn geldigheid.   
-3.  De Dienst Wegverkeer kan verlangen dat een kentekenbewijs dat zijn geldigheid heeft verloren binnen een daarbij bepaalde termijn bij deze dienst dient te worden ingeleverd.   
-
-### Artikel  58  
-
-1.  Een kentekenbewijs wordt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels ongeldig verklaard: 
-
-a. indien het is afgegeven op grond van bij de aanvraag verschafte onjuiste gegevens en dat kentekenbewijs niet zou zijn afgegeven indien de onjuistheid van die gegevens ten tijde van de aanvraag bekend zou zijn geweest, dan wel  
-
-b. indien blijkt dat het kennelijk abusievelijk is afgegeven.     
-2.  Een kentekenbewijs kan, overeenkomstig bij algemene maatregel van bestuur vastgestelde regels, ongeldig worden verklaard: 
-
-a. indien de ter zake van het voertuig verschuldigde belastingen en rechten niet zijn voldaan;  
-
-b. indien het voertuig waarvoor het is afgegeven, niet voldoet aan de bij of krachtens deze wet vastgestelde eisen, met uitzondering van de ingevolge hoofdstuk III met betrekking tot de toelating tot het verkeer op de weg vastgestelde eisen;  
-
-c. indien in de bouw of inrichting van het voertuig waarvoor het is afgegeven, wijzigingen zijn aangebracht, die niet zijn goedgekeurd overeenkomstig het bepaalde bij of krachtens deze wet;  
-
-d. indien het voertuig waarvoor het kentekenbewijs is afgegeven een schadevoertuig betreft dat voldoet aan bij ministeriële regeling vastgestelde kenmerken, dan wel indien het voertuig na herstel van de schade niet voldoet aan de bij ministeriële regeling te stellen eisen ten aanzien van de wijze waarop de schade is hersteld;  
-
-e. indien de eigenaar of houder van een voertuig onvrijwillig de beschikkingsmacht over dat voertuig heeft verloren, mits wordt voldaan aan de bij algemene maatregel van bestuur vastgestelde voorwaarden, dan wel  
-
-f. in andere bij algemene maatregel van bestuur vast te stellen gevallen.     
-3.  De ongeldigverklaring kan worden beperkt tot het rijden over de weg.   
-4.  De Dienst Wegverkeer kan een ongeldig verklaard kentekenbewijs geldig verklaren, dan wel geldig verklaren voor het rijden over de weg, indien de reden voor ongeldigverklaring is komen te vervallen.   
-
-### Artikel  59  
-
-1.  Bij algemene maatregel van bestuur worden regels vastgesteld omtrent het verval van de tenaamstelling in het kentekenregister. De tenaamstelling in het kentekenregister vervalt in ieder geval zodra het kentekenbewijs ongeldig is verklaard ingevolge artikel 58, tweede lid, onderdeel e.   
-2.  Bij algemene maatregel van bestuur kunnen regels worden vastgesteld omtrent het herleven van een vervallen tenaamstelling in het kentekenregister.   
+2.  Het vervangende bewijs treedt in de plaats van het eerder afgegeven kentekenbewijs en wordt niet afgegeven dan nadat het versleten of geheel of ten dele onleesbaar geworden kentekenbewijs, waarvoor het wordt afgegeven, is ingeleverd bij de Dienst Wegverkeer.   
+3.  Op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, verstrekt deze dienst overeenkomstig bij algemene maatregel van bestuur vastgestelde regels een vervangende tenaamstellingscode ten behoeve van een wijziging van de tenaamstelling.   
+4.  De vervangende tenaamstellingscode treedt in de plaats van eerder afgegeven tenaamstellingscodes welke door de afgifte ongeldig worden.   
 
 ### Artikel  60  
 
-1.  De houder van een kentekenbewijs is op eerste vordering van de bij algemene maatregel van bestuur aangewezen personen verplicht tot overgifte van dat bewijs of van een of meer bij algemene maatregel van bestuur aan te wijzen delen daarvan, indien naar het oordeel van die personen: 
+1.  De houder van een kentekenbewijs is vanaf een bij algemene maatregel van bestuur vastgesteld tijdstip op eerste vordering van bij algemene maatregel van bestuur aangewezen personen verplicht tot overgifte van bij algemene maatregel van bestuur te bepalen delen van dat bewijs, indien naar oordeel van die personen: 
 
 a. ter zake van het voertuig, waarvoor het kentekenbewijs is afgegeven, de verschuldigde belastingen en rechten niet zijn voldaan;  
 
 b. het voertuig waarvoor het kentekenbewijs is afgegeven, niet voldoet aan de bij of krachtens deze wet vastgestelde eisen, met uitzondering van de ingevolge hoofdstuk III met betrekking tot de toelating tot het verkeer op de weg vastgestelde eisen;  
 
 c. het voertuig waarvoor het kentekenbewijs is afgegeven een schadevoertuig betreft dat voldoet aan bij ministeriële regeling vastgestelde kenmerken, dan wel indien het voertuig na herstel van de schade niet voldoet aan de bij ministeriële regeling te stellen eisen ten aanzien van de wijze waarop de schade is hersteld.     
-2.  De in het eerste lid bedoelde vordering kan eveneens worden gedaan indien naar het oordeel van de daar bedoelde personen niet wordt voldaan aan de krachtens artikel 52, tweede lid, in het kentekenbewijs vermelde voorschriften.   
-3.  Indien het een kentekenbewijs betreft dat is afgegeven voor een aanhangwagen die overeenkomstig het bij ministeriële regeling bepaalde is voorzien van een identificatieplaat, kan aan de vordering worden voldaan binnen een bij die maatregel vastgestelde termijn.   
-4.  De in het eerste lid bedoelde personen doen in de bij algemene maatregel van bestuur aangewezen gevallen het kentekenbewijs of de ingevorderde delen daarvan zo spoedig mogelijk toekomen aan de Dienst Wegverkeer.   
-5.  De Dienst Wegverkeer geeft het kentekenbewijs of de ingevorderde delen daarvan terug: 
-
-a. in de gevallen, bedoeld in het eerste lid, onderdeel a, indien ter zake van het voertuig alsnog de verschuldigde belastingen en rechten zijn voldaan;  
-
-b. in de gevallen, bedoeld in het eerste lid, onderdeel b, indien het voertuig ter zake van de eisen waaraan het niet voldeed, alsnog is goedgekeurd;  
-
-c. in de gevallen, bedoeld in het eerste lid, onderdeel c, indien het schadevoertuig is goedgekeurd ingevolge bij ministeriële regeling vastgestelde eisen omtrent de wijze waarop de schade is hersteld;  
-
-d. in het geval, bedoeld in het tweede lid, indien alsnog wordt voldaan aan de krachtens artikel 52, tweede lid, in het kentekenbewijs vermelde voorschriften.     
-6.  De Dienst Wegverkeer geeft bij de teruggave van het kentekenbewijs of de ingevorderde delen daarvan tevens een keuringsbewijs voor het betrokken voertuig af, indien: 
-
-a. het kentekenbewijs is ingevorderd omdat het voertuig niet voldoet aan de eisen bedoeld in het eerste lid, onderdeel b;  
-
-b. het voertuig is onderworpen aan een onderzoek dat ten minste een controle inhoudt op de eisen, bedoeld in artikel 75, eerste lid; en  
-
-c. artikel 72 voor dat voertuig geldt en binnen een jaar zal gelden.     
-7.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de vordering van kentekenbewijzen.   
-8.  Bij ministeriële regeling, in overeenstemming met Onze Minister van Financiën, kunnen nadere regels worden vastgesteld omtrent het vijfde lid, onderdeel a.   
+2.  Indien het een kentekenbewijs betreft dat is afgegeven voor een aanhangwagen die overeenkomstig het bij ministeriële regeling bepaalde is voorzien van een identificatieplaat, kan aan de vordering worden voldaan binnen een bij die maatregel vastgestelde termijn.   
+3.  De in het eerste lid bedoelde personen geven het kentekenbewijs na inzage terug aan degene die tot overgifte verplicht was.   
+4.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de verplichting tot overgifte van kentekenbewijzen.   
 
 ### Artikel  61  
 
@@ -1473,6 +1476,47 @@ b.  vervallen;
 
 c. ten opzichte van een motorrijtuig of een aanhangwagen opzettelijk gebruik te maken van een kentekenbewijs dat niet aan de eigenaar of houder voor dat motorrijtuig of die aanhangwagen is afgegeven, als ware het aan deze voor dat motorrijtuig of die aanhangwagen afgegeven.     
 
+### §  4c  
+
+####Erkenningsregeling tenaamstelling
+
+### Artikel  61a  
+
+1.  De Dienst Wegverkeer kan aan een rechtspersoon een erkenning verlenen waardoor deze gerechtigd is, tegen betaling namens de aanvrager van een door deze dienst vast te stellen tarief, motorrijtuigen en aanhangwagens te naam te stellen in het kentekenregister.   
+2.  De erkenning houdt tevens de bevoegdheid in om namens de aanvrager de geldigheid van een kenteken te schorsen of een schorsing op te heffen conform paragraaf 6.   
+3.  Bij ministeriële regeling kunnen voorschriften worden gesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden gesteld. Deze regels betreffen tevens de hoogte van het in het eerste lid genoemde tarief dat het erkende bedrijf voor het uitvoeren van een tenaamstelling aan de Dienst Wegverkeer verschuldigd is en de wijze van betaling.   
+4.  Bij besluit van de Dienst Wegverkeer wordt de maximale hoogte vastgesteld van de prijs die een erkend bedrijf aan de aanvrager in rekening mag brengen voor zijn dienstverlening.   
+
+### Artikel  61b  
+
+1.  De erkenning wordt door de Dienst Wegverkeer op aanvraag en tegen betaling, op de door deze dienst vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief verleend aan de natuurlijke persoon of rechtspersoon, die voldoet aan de bij ministeriële regeling vastgestelde eisen.   
+2.  Bij ministeriële regeling worden nadere regels vastgesteld met betrekking tot de aanvrager van een erkenning en de wijze waarop de uitvoering van de aanvraag tot tenaamstelling plaatsvindt.   
+
+### Artikel  61c  
+
+1.  Met het toezicht op de naleving van de uit de erkenning voortvloeiende verplichtingen zijn belast de bij besluit van de Dienst Wegverkeer aangewezen ambtenaren. Een zodanig besluit wordt bekend gemaakt door plaatsing in de Staatscourant.   
+2.  Degene aan wie een erkenning is verleend, is gehouden tot betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het door deze dienst ter zake van de kosten van het toezicht vastgestelde tarief.   
+3.  Bij ministeriële regeling worden nadere regels vastgesteld betreffende de wijze waarop het toezicht wordt gehouden en de verplichting tot medewerking daaraan van degene aan wie een erkenning is verleend. Deze regels kunnen inhouden dat een verscherpt toezicht wordt gehouden indien blijkt dat wordt gehandeld in strijd met een of meer uit de erkenning voortvloeiende verplichtingen.   
+
+### Artikel  61d  
+
+1.  De Dienst Wegverkeer trekt een erkenning in, indien degene aan wie de erkenning is verleend, daarom verzoekt.   
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat na indiening van het verzoek de erkenning gedurende een bij die algemene maatregel van bestuur vast te stellen termijn van kracht blijft.   
+3.  De Dienst Wegverkeer kan een erkenning intrekken of wijzigen indien degene aan wie de erkenning is verleend: 
+
+a. niet meer voldoet aan de voor de erkenning gestelde eisen,  
+
+b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, artikel 61a, derde lid, en artikel 61c, tweede lid, niet nakomt, of,  
+
+c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.     
+4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het derde lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
+5.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het derde lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
+6.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het intrekken, wijzigen en schorsen van de erkenning.   
+
+### Artikel  61e  
+
+Het is een ieder aan wie niet een erkenning als bedoeld in artikel 61a is verleend, verboden zich op zodanige wijze te gedragen, dat daardoor bij het publiek de indruk kan worden gewekt, dat zodanige erkenning aan hem is verleend.  
+
 ### §  5  
 
 ####Erkenningsregeling bedrijfsvoorraad
@@ -1483,14 +1527,13 @@ c. ten opzichte van een motorrijtuig of een aanhangwagen opzettelijk gebruik te 
 2.  Aan de erkenning kunnen bij algemene maatregel van bestuur aangewezen bevoegdheden worden verbonden; een zodanige bevoegdheid maakt deel uit van de erkenning. Het in de artikelen 62 tot en met 66 ten aanzien van erkenningen bepaalde is van overeenkomstige toepassing op bedoelde bevoegdheden.   
 3.  De erkenning geldt voor de in de erkenning aangewezen groep of groepen van voertuigen en kan gelden voor bepaalde of voor onbepaalde tijd.   
 4.  Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.   
-5.  De in artikel 50, eerste lid, aanhef bedoelde verplichting om bij de aanvraag van een kentekenbewijs persoonlijk te verschijnen bij een bij ministeriële regeling aangewezen instantie, geldt niet voor natuurlijke personen of rechtspersonen aan wie een erkenning als bedoeld in het eerste lid is verleend.   
+5.  De in artikel 50, eerste lid, aanhef bedoelde verplichting om bij de aanvraag tot inschrijving in het kentekenregister en tenaamstelling persoonlijk te verschijnen bij een bij ministeriële regeling aangewezen instantie, geldt niet voor natuurlijke personen of rechtspersonen aan wie een erkenning als bedoeld in het eerste lid is verleend.   
 
 ### Artikel  63  
 
 1.  De erkenning wordt door de Dienst Wegverkeer op aanvraag en tegen betaling, op de door deze dienst vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief verleend aan de natuurlijke persoon of rechtspersoon, die voldoet aan de bij ministeriële regeling vastgestelde eisen. Deze eisen betreffen onder meer de administratieve organisatie van de natuurlijke persoon of rechtspersoon alsmede de wijze waarop deze er voor zorgdraagt dat de aan de opname in bedrijfsvoorraad verbonden procedures in acht worden genomen. Voorts kunnen deze eisen mede dienstbaar zijn aan de uitvoering van de Wet milieubeheer.   
 2.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld met betrekking tot de aanvraag van een erkenning.   
 3.  Bij ministeriële regeling worden regels vastgesteld ter uitvoering van het krachtens het tweede lid bepaalde.   
-4.  De erkenning wordt geweigerd indien een reeds aan de aanvrager verleende erkenning op grond van artikel 65, tweede lid, is ingetrokken binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van twaalf weken, dan wel van zes maanden ingeval reeds twee of meer malen een dergelijke aan de aanvrager verleende erkenning is ingetrokken.   
 
 ### Artikel  64  
 
@@ -1505,7 +1548,7 @@ c. ten opzichte van een motorrijtuig of een aanhangwagen opzettelijk gebruik te 
 
 a. niet meer voldoet aan de voor de erkenning gestelde eisen,  
 
-b. de verplichtingen, vervat in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 64, tweede lid, niet nakomt, of  
+b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet bestuursrecht en artikel 64, tweede lid, niet nakomt, of  
 
 c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.     
 3.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
@@ -1548,7 +1591,7 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 62 is verleen
 
 a. niet meer voldoet aan de voor de erkenning gestelde eisen,  
 
-b. de verplichtingen, vervat in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 66c, tweede lid niet nakomt, of  
+b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet bestuursrecht en artikel 66c, tweede lid niet nakomt, of  
 
 c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.     
 3.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
@@ -1564,11 +1607,11 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 66a is verlee
 
 ### Artikel  67  
 
-1.  Indien met een voertuig geen gebruik van de weg wordt gemaakt, schorst de Dienst Wegverkeer op aanvraag van de eigenaar of houder van dat voertuig, tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, de geldigheid van het kentekenbewijs.   
+1.  Indien met een voertuig geen gebruik van de weg wordt gemaakt, schorst de Dienst Wegverkeer op aanvraag van de eigenaar of houder van dat voertuig, tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, de tenaamstelling in het kentekenregister.   
 2.  De hoogte van het in het eerste lid bedoelde tarief kan voor verschillende groepen voertuigen dan wel eigenaren of houders van voertuigen verschillend worden vastgesteld. Voor aanvragen die worden ingediend binnen een jaar na de aanvraag van een schorsing welke ingevolge artikel 68, eerste lid, onderdelen a en d, is geëindigd, kan het tarief hoger worden vastgesteld dan het tarief voor laatstgenoemde aanvraag.   
 3.  De aanvraag van een schorsing dient te geschieden overeenkomstig bij algemene maatregel van bestuur vastgestelde regels.   
 4.  Bij ministeriële regeling worden nadere regels vastgesteld omtrent het krachtens het derde lid bepaalde.   
-5.  De Dienst Wegverkeer plaatst bij het verlenen van de schorsing overeenkomstig bij algemene maatregel van bestuur vastgestelde regels op het kentekenbewijs een aantekening waaruit blijkt dat schorsing is verleend.   
+5.  De Dienst Wegverkeer plaatst bij het verlenen van de schorsing overeenkomstig bij algemene maatregel van bestuur vastgestelde regels in het kentekenregister een aantekening waaruit blijkt dat schorsing is verleend.   
 6.  Bij ministeriële regeling worden nadere regels vastgesteld omtrent de aantekening van schorsing, bedoeld in het vijfde lid.   
 
 ### Artikel  68  
@@ -1577,7 +1620,7 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 66a is verlee
 
 a. door opheffing als bedoeld in artikel 69,  
 
-b. door verloop van een jaar nadat de schorsing is verleend,  
+b. door verloop van een bij ministeriële regeling bepaalde termijn vanaf het tijdstip waarop de schorsing is verleend, welke termijn per bij ministeriële regeling aan te wijzen categorieën van voertuigen kan verschillen,  
 
 c. door het verval van de tenaamstelling in het kentekenregister, of  
 
@@ -1589,11 +1632,6 @@ d. zodra met het voertuig gebruik van de weg wordt gemaakt.
 1.  De schorsing wordt op aanvraag van de eigenaar of houder door de Dienst Wegverkeer opgeheven.   
 2.  De aanvraag van opheffing van de schorsing dient te geschieden overeenkomstig bij algemene maatregel van bestuur vastgestelde regels.   
 3.  Bij ministeriële regeling worden nadere regels vastgesteld omtrent het krachtens het tweede lid bepaalde.   
-
-### Artikel  70  
-
-1.  Bij de aanvraag van opheffing van de schorsing alsmede na het eindigen van de schorsing op grond van artikel 68, eerste lid, aanhef en onderdeel b of d, dient degene aan wie de schorsing is verleend, een nieuw kentekenbewijs of een of meer bij algemene maatregel van bestuur aan te wijzen delen daarvan aan te vragen.   
-2.  De aanvraag dient te geschieden overeenkomstig bij algemene maatregel van bestuur vastgestelde regels tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief.   
 
 ### §  7  
 
@@ -1696,6 +1734,19 @@ b. het aantal ingeleverde kentekenplaten.   De artikelen 70b, vierde tot en met 
 2.  Bij ministeriële regeling worden regels gesteld omtrent de inhoud van het register alsmede de verwerking, het gebruik en de verstrekking van de gegevens daaruit.   
 3.  Het verzamelen van gegevens ten behoeve van het in het eerste lid bedoelde register geschiedt ter voorkoming van diefstal en heling van mobiele objecten, ten behoeve van de opsporing van gestolen mobiele objecten, alsmede ten behoeve van andere, bij ministeriële regeling te bepalen doeleinden, met inachtneming van artikel 2.   
 4.  Het vierde en vijfde lid van artikel 70k zijn van toepassing.   
+
+### Hoofdstuk  IVB  
+
+####Tellerstanden
+
+### Artikel  70m  
+
+Het is eenieder verboden om de tellerstand van bij algemene maatregel van bestuur vastgestelde categorieën motorrijtuigen die dienen te zijn ingeschreven en tenaamgesteld zodanig te wijzigen of te doen wijzigen of de werking van de kilometerteller zodanig te beïnvloeden of te doen beïnvloeden dat de op de teller aangegeven afstand niet overeenkomt met de door dat motorrijtuig werkelijk afgelegde afstand.  
+
+### Artikel  70n  
+
+1.  Door de Dienst Wegverkeer erkende bedrijven verstrekken in bij algemene maatregel van bestuur te bepalen gevallen aan de Dienst Wegverkeer de tellerstand van een motorrijtuig dat dient te zijn ingeschreven en tenaamgesteld.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de tellerstand wordt verstrekt.   
 
 ### Hoofdstuk  V  
 
@@ -1835,7 +1886,7 @@ b. door het onbevoegd daarin aanbrengen van wijzigingen.
 
 ### Artikel  83  
 
-1.  De Dienst Wegverkeer kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is keuringsrapporten af te geven voor motorrijtuigen en aanhangwagens, waarvoor artikel 72 geldt, met uitzondering van bussen als bedoeld in de [Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).   
+1.  De Dienst Wegverkeer kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is keuringsrapporten af te geven voor motorrijtuigen en aanhangwagens, waarvoor artikel 72 geldt, met uitzondering van bussen als bedoeld in de Wet personenvervoer 2000.   
 2.  Een erkenning geldt voor motorrijtuigen en aanhangwagens, die behoren tot een in de erkenning aangewezen groep, en kan gelden voor bepaalde of voor onbepaalde tijd. De aanwijzing kan geen betrekking hebben op de leeftijd of het merk van motorrijtuigen en aanhangwagens.   
 3.  Een erkenning, verleend aan een natuurlijke persoon of rechtspersoon, die een keuringsdienst of een onderhoudsdienst voor het eigen wagenpark exploiteert, geldt slechts voor de eigen voertuigen.   
 4.  Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.   
@@ -1844,7 +1895,6 @@ b. door het onbevoegd daarin aanbrengen van wijzigingen.
 
 1.  De erkenning wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief verleend indien de natuurlijke persoon of rechtspersoon voldoet aan de bij ministeriële regeling vastgestelde eisen. Deze eisen betreffen onder meer de voor de keuringen benodigde apparatuur en ruimte alsmede de deskundigheid van de voor de keuringen beschikbare personen. Ten aanzien van de voor de keuringen benodigde apparatuur kan bij die ministeriële regeling de eis worden gesteld dat die apparatuur is goedgekeurd door een door Onze Minister aan te wijzen keuringsinstelling en met de in die regeling vast te stellen periodiciteit is onderzocht door deze keuringsinstelling dan wel door een door deze keuringsinstelling erkende onderzoeksgerechtigde en kunnen regels worden vastgesteld met betrekking tot de erkenning van onderzoeksgerechtigden. Bij ministeriële regeling kan worden bepaald dat middelen die worden gebruikt om deze apparatuur voor gebruik geschikt te maken zijn gecertificeerd door een door die keuringsinstelling erkende instelling en kunnen regels worden vastgesteld met betrekking tot die erkenning.   
 2.  Bij ministeriële regeling worden nadere regels vastgesteld met betrekking tot de aanvraag van een erkenning.   
-3.  De erkenning wordt geweigerd indien een reeds aan de aanvrager verleende erkenning op grond van artikel 87, tweede lid, is ingetrokken binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van twaalf weken, dan wel van zes maanden ingeval reeds twee of meer malen een dergelijke aan de aanvrager verleende erkenning is ingetrokken.   
 
 ### Artikel  85  
 
@@ -1907,7 +1957,6 @@ a. niet meer voldoet aan de voor de bevoegdheid voertuigen aan een keuring te on
 b. in strijd met de regels, bedoeld in artikel 76, derde lid, een voertuig aan een onderzoek onderwerpt,  
 
 c. handelt in strijd met een of meer andere uit de bevoegdheid voertuigen aan een keuring te onderwerpen voortvloeiende verplichtingen.     
-3.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, onderdelen a en c, de bevoegdheid voertuigen aan een keuring te onderwerpen schorsen voor een door deze dienst daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
 
 ### Artikel  88  
 
@@ -1925,20 +1974,60 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 83 is verleen
 ### Artikel  90  
 
 1.  Tegen een beschikking tot weigering van de afgifte van een keuringsbewijs kan een belanghebbende bezwaar maken of administratief beroep instellen bij de Dienst Wegverkeer.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een beschikking tot weigering van de afgifte van een keuringsbewijs slechts bezwaar worden gemaakt of administratief beroep worden ingesteld terstond nadat de beschikking is bekendgemaakt.   
+2.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht kan tegen een beschikking tot weigering van de afgifte van een keuringsbewijs slechts bezwaar worden gemaakt of administratief beroep worden ingesteld terstond nadat de beschikking is bekendgemaakt.   
 3.  Het bezwaar of administratief beroep wordt slechts in behandeling genomen indien het voertuig in de staat waarin het zich ten tijde van de keuring bevond, onmiddellijk op een door de Dienst Wegverkeer bepaalde plaats ter beschikking wordt gesteld ten behoeve van een herkeuring door een door de Dienst Wegverkeer aangewezen deskundige.   
-4.  In afwijking van de [artikelen 7:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:28 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) dient bij de indiening van het bezwaar- of beroepschrift een bedrag ter vergoeding van de aan de herkeuring verbonden kosten te worden betaald. De hoogte van het bedrag en de wijze van betaling worden vastgesteld door de Dienst Wegverkeer.   
+4.  In afwijking van de artikelen 7:15 en 7:28 van de Algemene wet bestuursrecht dient bij de indiening van het bezwaar- of beroepschrift een bedrag ter vergoeding van de aan de herkeuring verbonden kosten te worden betaald. De hoogte van het bedrag en de wijze van betaling worden vastgesteld door de Dienst Wegverkeer.   
 5.  Degene die de beschikking tot weigering van de afgifte van een keuringsbewijs heeft gegeven, wordt in de gelegenheid gesteld bij de herkeuring aanwezig te zijn.   
 6.  Indien het voertuig volgens het oordeel van de deskundige voldoet aan de in artikel 75 bedoelde eisen, geeft de Dienst Wegverkeer alsnog het aangevraagde keuringsbewijs af en wordt het in het vierde lid bedoelde bedrag terugbetaald aan de indiener van het bezwaar- of beroepschrift. Is in dit geval de beschikking tot weigering van de afgifte van een keuringsbewijs gegeven door een erkende natuurlijke persoon of rechtspersoon, dan is deze vorenbedoeld bedrag verschuldigd aan de Dienst Wegverkeer en gehouden dit te betalen op de door deze dienst vastgestelde wijze.   
 
 ### Artikel  91  
 
 1.  Tegen een beschikking tot afgifte van een keuringsbewijs kan een belanghebbende bezwaar maken of administratief beroep instellen bij de Dienst Wegverkeer.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan tegen een beschikking tot afgifte van een keuringsbewijs bezwaar worden gemaakt of administratief beroep worden ingesteld gedurende een bij algemene maatregel van bestuur te stellen termijn.   
+2.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht kan tegen een beschikking tot afgifte van een keuringsbewijs bezwaar worden gemaakt of administratief beroep worden ingesteld gedurende een bij algemene maatregel van bestuur te stellen termijn.   
 3.  Het bezwaar of administratief beroep wordt slechts in behandeling genomen indien het voertuig op een door de Dienst Wegverkeer bepaalde plaats ter beschikking wordt gesteld ten behoeve van een onderzoek door een door de Dienst Wegverkeer aangewezen deskundige.   
-4.  In afwijking van de [artikelen 7:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:28 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) dient bij de indiening van het bezwaar- of beroepschrift een bedrag ter vergoeding van de aan het onderzoek verbonden kosten te worden betaald. De hoogte van het bedrag en de wijze van betaling worden vastgesteld door de Dienst Wegverkeer.   
+4.  In afwijking van de artikelen 7:15 en 7:28 van de Algemene wet bestuursrecht dient bij de indiening van het bezwaar- of beroepschrift een bedrag ter vergoeding van de aan het onderzoek verbonden kosten te worden betaald. De hoogte van het bedrag en de wijze van betaling worden vastgesteld door de Dienst Wegverkeer.   
 5.  Degene die de beschikking tot afgifte van een keuringsbewijs heeft gegeven, wordt in de gelegenheid gesteld bij het onderzoek aanwezig te zijn.   
 6.  Indien het voertuig volgens het oordeel van de deskundige ten tijde van de keuring op grond waarvan het keuringsbewijs is afgegeven, redelijkerwijze niet aan de keuringseisen kan hebben voldaan, daarbij in het bijzonder gelet op de termijn die is verstreken tussen de keuring en het onderzoek, verklaart de Dienst Wegverkeer het voor het voertuig afgegeven keuringsbewijs alsnog ongeldig en wordt het in het vierde lid bedoelde bedrag terugbetaald aan de indiener van het bezwaar- of beroepschrift. Is in dit geval de beschikking tot afgifte van een keuringsbewijs gegeven door een erkende natuurlijke persoon of rechtspersoon, dan is deze vorenbedoeld bedrag verschuldigd aan de Dienst Wegverkeer en gehouden dit te betalen op de door deze dienst vastgestelde wijze.   
+
+### §  6a  
+
+####Erkenningsregeling systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die niet dienen te zijn goedgekeurd voor de toelating tot het verkeer op de weg
+
+### Artikel  92  
+
+1.  De Dienst Wegverkeer kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is om bij algemene maatregel van bestuur aangewezen categorieën van systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die niet dienen te zijn goedgekeurd voor toelating tot het verkeer op de weg in te bouwen in voertuigen.   
+2.  De erkenning geldt voor de in de erkenning aangegeven werkzaamheden ter zake van het in voertuigen inbouwen van in de erkenning aangewezen systemen, onderdelen, technische eenheden, uitrustingstukken of voorzieningen ter bescherming van weggebruikers en passagiers. De erkenning kan gelden voor bepaalde of onbepaalde tijd.   
+3.  Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan een erkenning worden verbonden.   
+
+### Artikel  93  
+
+1.  De erkenning wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief verleend, indien de natuurlijke persoon of rechtspersoon voldoet aan bij ministeriële regeling vastgestelde eisen.   
+2.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de aanvraag van een erkenning.   
+3.  De erkenning wordt geweigerd indien een reeds aan de aanvrager verleende erkenning op grond van artikel 95, tweede lid, is ingetrokken binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van twaalf weken, dan wel van zes maanden in geval reeds twee of meer malen een dergelijke aan de aanvrager verleende erkenning is ingetrokken.   
+
+### Artikel  94  
+
+1.  De Dienst Wegverkeer onderwerpt een bij ministeriële regeling aangewezen aantal systemen, onderdelen, technische eenheden, uitrustingstukken of voorzieningen ter bescherming van weggebruikers en passagiers steekproefsgewijs aan een keuring met het oog op het toezicht op de juiste inbouw van het systeem, het onderdeel, de technische eenheid of het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers.   
+2.  Degene aan wie de erkenning is verleend, is gehouden tot betaling, op door de Dienst Wegverkeer vastgestelde wijze, van het door deze dienst ter zake van de kosten van het toezicht vastgestelde tarief.   
+3.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld betreffende de wijze waarop de steekproef wordt uitgevoerd, alsmede betreffende de verplichting tot medewerking daaraan van degene aan wie een erkenning is verleend en van de eigenaar of houder van het voertuig waarvoor een keuring wordt geëist. Deze regels kunnen inhouden dat een verscherpt toezicht wordt gehouden, indien blijkt dat wordt gehandeld in strijd met een of meer uit de erkenning voortvloeiende verplichtingen.   
+4.  De kennisgeving van het verscherpen van het toezicht kan plaatsvinden door middel van datacommunicatie.   
+
+### Artikel  95  
+
+1.  De Dienst Wegverkeer trekt een erkenning in, indien degene aan wie die erkenning is verleend, daarom verzoekt.   
+2.  De Dienst Wegverkeer kan een erkenning intrekken of wijzigen, indien degene aan wie de erkenning is verleend: 
+
+a. niet meer voldoet aan de voor de erkenning gestelde eisen;  
+
+b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet bestuursrecht en artikel 94, derde lid, niet nakomt; of  
+
+c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.     
+3.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
+4.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het intrekken, wijzigen en schorsen van de erkenning.   
+
+### Artikel  96  
+
+Het is een ieder die niet beschikt over een geldige erkenning als bedoeld in artikel 92 verboden zich op zodanige wijze te gedragen, dat bij het publiek de indruk kan worden gewekt dat een dergelijke erkenning aan hem is verleend.  
 
 ### §  7  
 
@@ -1952,7 +2041,6 @@ Indien in de bouw of inrichting van een voertuig dat ingevolge hoofdstuk III tot
 
 1.  Goedkeuring wordt op aanvraag en tegen betaling op door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend, indien de aangebrachte wijziging bij een door deze dienst verrichte keuring heeft voldaan aan de ingevolge hoofdstuk III en hoofdstuk V voor deze goedkeuring vastgestelde eisen. De keuring kan mede omvatten die delen van het voertuig waarvoor de aangebrachte wijziging gevolgen heeft.   
 2.  Bij ministeriële regeling kunnen regels worden vastgesteld betreffende het door de aanvrager voor de keuring ter beschikking stellen van het voertuig, het door de aanvrager overleggen van bescheiden en verstrekken van inlichtingen ter zake van de keuring alsmede betreffende de wijze waarop de keuring wordt verricht.   
-3.  In de bij ministeriële regeling aan te wijzen gevallen wordt voor het gewijzigde voertuig een nieuw kentekenbewijs afgegeven waarop melding wordt gemaakt van de goedgekeurde wijziging.   
 
 ### §  8  
 
@@ -1967,9 +2055,7 @@ Indien in de bouw of inrichting van een voertuig dat ingevolge hoofdstuk III tot
 ### Artikel  101  
 
 1.  De erkenning wordt door de Dienst Wegverkeer op aanvraag en tegen betaling, op de door deze dienst vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief verleend aan de natuurlijke persoon of rechtspersoon die voldoet aan de bij ministeriële regeling vastgestelde eisen. Deze eisen betreffen onder meer de organisatie van de aanvrager alsmede het proces volgens hetwelk de aanvrager zijn werkzaamheden verricht, alsmede de voor de werkzaamheden benodigde apparatuur. Ten aanzien van de voor de werkzaamheden benodigde apparatuur kan bij die ministeriële regeling de eis worden gesteld dat die apparatuur is goedgekeurd door een door Onze Minister aan te wijzen keuringsinstelling en met de in die regeling vast te stellen periodiciteit is onderzocht door deze keuringsinstelling dan wel door een door deze keuringsinstelling erkende onderzoeksgerechtigde en kunnen regels worden vastgesteld met betrekking tot de erkenning van onderzoeksgerechtigden. Bij ministeriële regeling kan worden bepaald dat middelen die worden gebruikt om deze apparatuur voor gebruik geschikt te maken zijn gecertificeerd door een door die keuringsinstelling erkende instelling en kunnen regels worden vastgesteld met betrekking tot die erkenning.   
-2.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag tot erkenning. Bij ministeriele regeling worden nadere regels vastgesteld met betrekking tot de aanvraag van een erkenning.   
-3.  De erkenning wordt geweigerd indien een reeds aan de aanvrager verleende erkenning op grond van artikel 103, tweede lid, is ingetrokken binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van twaalf weken, dan wel van zes maanden ingeval reeds twee of meer malen een dergelijke aan de aanvrager verleende erkenning is ingetrokken.   
-4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
+2.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag tot erkenning. Bij ministeriele regeling worden nadere regels vastgesteld met betrekking tot de aanvraag van een erkenning.   
 
 ### Artikel  102  
 
@@ -1985,10 +2071,11 @@ Indien in de bouw of inrichting van een voertuig dat ingevolge hoofdstuk III tot
 
 a. niet meer voldoet aan de voor de erkenning gestelde eisen,  
 
-b. de verplichtingen, vervat in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 102, tweede lid, niet nakomt, of  
+b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet bestuursrecht en artikel 102, tweede lid, niet nakomt, of  
 
 c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.     
 3.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
+4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
 
 ### Artikel  103a  
 
@@ -2000,11 +2087,11 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 100 is verlee
 
 ### §  9  
 
-####Keuring na ongeldigverklaring of invordering kentekenbewijs
+####Keuring na verval tenaamstelling
 
 ### Artikel  105  
 
-Indien het voor een motorrijtuig of een aanhangwagen afgegeven kentekenbewijs ingevolge artikel 58, tweede lid, onderdeel b of d, ongeldig is verklaard of is ingevorderd ingevolge artikel 60, eerste lid, onderdeel b of c, dient het voertuig alvorens het kentekenbewijs door de Dienst Wegverkeer geldig kan worden verklaard of kan worden teruggegeven, te zijn goedgekeurd.  
+Indien de tenaamstelling van een motorrijtuig of een aanhangwagen ingevolge artikel 51a, derde lid, onderdeel b of d, vervallen is verklaard of indien een aanzegging is gedaan als bedoeld in artikel 37, vijfde lid, onderdeel b, wordt het voertuig goedgekeurd alvorens de tenaamstelling kan herleven of het kentekenbewijs door de Dienst Wegverkeer geldig kan worden verklaard of kan worden teruggegeven.  
 
 ### Artikel  106  
 
@@ -2017,7 +2104,7 @@ Indien het voor een motorrijtuig of een aanhangwagen afgegeven kentekenbewijs in
 
 ### Artikel  106a  
 
-1.  De goedkeuring van een schadevoertuig na ongeldigverklaring of invordering van het kentekenbewijs kan door de Dienst Wegverkeer worden verleend zonder dat de in artikel 106 bedoelde keuring heeft plaatsgevonden, indien door een daartoe door de Dienst Wegverkeer erkende natuurlijk persoon of rechtspersoon wordt gewaarborgd dat het voertuig voldoet aan de eisen, bedoeld in artikel 106, eerste lid.   
+1.  De goedkeuring van een schadevoertuig na verval van de tenaamstelling kan door de Dienst Wegverkeer worden verleend zonder dat de in artikel 106 bedoelde keuring heeft plaatsgevonden, indien door een daartoe door de Dienst Wegverkeer erkende natuurlijk persoon of rechtspersoon wordt gewaarborgd dat het voertuig voldoet aan de eisen, bedoeld in artikel 106, eerste lid.   
 2.  De erkenning geldt voor de in de erkenning aangegeven werkzaamheden ter zake van voertuigen die behoren tot een in de erkenning aangewezen groep. De erkenning kan gelden voor bepaalde of onbepaalde tijd.   
 3.  De artikelen 100, derde lid, en 101 tot en met 103 zijn van overeenkomstige toepassing.   
 
@@ -2043,7 +2130,7 @@ a. te voldoen aan de bij ministeriële regeling vastgestelde eisen inzake inrich
 b. zijn geldigheid niet te hebben verloren, en  
 
 c. behoorlijk leesbaar te zijn.     
-3.  Indien de aanvrager als ingezetene is ingeschreven in de basisadministratie persoonsgegevens van een gemeente, wordt het in de basisadministratie opgenomen burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), op de bij ministeriële regeling vastgestelde wijze op het rijbewijs vermeld. Indien de aanvrager niet als ingezetene is ingeschreven in de basisadministratie persoonsgegevens van een gemeente, wordt op het rijbewijs een bij ministeriële regeling vastgestelde aanduiding vermeld.   
+3.  Indien de aanvrager als ingezetene is ingeschreven in de basisregistratie personen, wordt het in de basisregistratie opgenomen burgerservicenummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer, op de bij ministeriële regeling vastgestelde wijze op het rijbewijs vermeld. Indien de aanvrager niet als ingezetene is ingeschreven in de basisregistratie personen, wordt op het rijbewijs een bij ministeriële regeling vastgestelde aanduiding vermeld.   
 
 ### Artikel  108  
 
@@ -2051,11 +2138,11 @@ c. behoorlijk leesbaar te zijn.
 
 a. bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, en gehandicaptenvoertuigen die zijn uitgerust met een motor, landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelheid;  
 
-b. motorrijtuigen, gedurende de tijd dat aan die bestuurders rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) wordt gegeven, voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd en overigens is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden;  
+b. motorrijtuigen, gedurende de tijd dat aan die bestuurders rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven, voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd en overigens is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden;  
 
 c. motorrijtuigen, gedurende de tijd dat door die bestuurders een rijproef wordt afgelegd in het kader van een onderzoek, door of vanwege de overheid ingesteld, naar hun rijvaardigheid of geschiktheid, voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd en overigens is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden;  
 
-d. motorrijtuigen, indien die bestuurders vreemdelingen in de zin van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zijn, die op grond van hun hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van hun hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder zijn van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden en aan wie, tenzij het een bestuurder van een bromfiets betreft, door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;  
+d. motorrijtuigen, indien die bestuurders vreemdelingen in de zin van de Vreemdelingenwet 2000 zijn, die op grond van hun hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van hun hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder zijn van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden en aan wie, tenzij het een bestuurder van een bromfiets betreft, door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;  
 
 e. motorrijtuigen, indien die bestuurders lid zijn van een krijgsmacht of behoren tot de civiele dienst van een krijgsmacht die in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, in Nederland is gelegerd, dan wel behoren tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, en aan wie, tenzij het een bestuurder van een bromfiets betreft, door het daartoe bevoegde gezag in de Staat van herkomst of één van zijn samenstellende delen een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig als waarmee wordt gereden;  
 
@@ -2087,7 +2174,7 @@ b. rijbewijs dat geldig is voor een andere categorie dan AM, of
 
 ### Artikel  110  
 
-Motorrijtuigen mogen slechts worden bestuurd door personen die een bij algemene maatregel van bestuur vastgestelde minimumleeftijd hebben bereikt. Daarbij kan voor het ontvangen van rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) in de bij algemene maatregel van bestuur vastgestelde gevallen en onder de bij algemene maatregel van bestuur gestelde voorwaarden een lagere leeftijd worden vastgesteld.  
+Motorrijtuigen mogen slechts worden bestuurd door personen die een bij algemene maatregel van bestuur vastgestelde minimumleeftijd hebben bereikt. Daarbij kan voor het ontvangen van rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 in de bij algemene maatregel van bestuur vastgestelde gevallen en onder de bij algemene maatregel van bestuur gestelde voorwaarden een lagere leeftijd worden vastgesteld.  
 
 ### Afdeling  2  
 
@@ -2097,14 +2184,14 @@ Motorrijtuigen mogen slechts worden bestuurd door personen die een bij algemene 
 
 1.  Bij algemene maatregel van bestuur worden eisen vastgesteld met betrekking tot motorrijtuigen waarmee: 
 
-a. rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) wordt gegeven;  
+a. rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven;  
 
 b. in het kader van een door of vanwege de overheid ingesteld onderzoek naar de rijvaardigheid of geschiktheid een rijproef wordt afgelegd.     
 2.  Bij ministeriële regeling kunnen nadere regels ter uitvoering van het eerste lid worden vastgesteld.   
 
 ### Artikel  110b  
 
-1.  Het is degene die rijonderricht in de zin van de [Wet rijonderricht motorrijtuigen 1993](../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) geeft, verboden zodanig rijonderricht te geven indien: 
+1.  Het is degene die rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 geeft, verboden zodanig rijonderricht te geven indien: 
 
 a. het motorrijtuig waarmee rijonderricht wordt gegeven, niet voldoet aan de daaraan ingevolge artikel 110a gestelde eisen;  
 
@@ -2124,11 +2211,12 @@ c. niet wordt voldaan aan de overigens bij algemene maatregel van bestuur ten aa
 a. de bij algemene maatregel van bestuur vastgestelde minimumleeftijd heeft bereikt voor het besturen van een motorrijtuig van de categorie waarop de aanvraag tot afgifte van een rijbewijs betrekking heeft en  
 
 b. blijkens een overeenkomstig bij algemene maatregel van bestuur vastgestelde regels door of vanwege de overheid ingesteld onderzoek dan wel blijkens een eerder aan hem afgegeven rijbewijs of een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs dat voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen, beschikt over een voldoende mate van rijvaardigheid en geschiktheid, dan wel, indien de aanvraag betrekking heeft op afgifte van een rijbewijs dat geldig is voor het besturen van bromfietsen, over een voldoende mate van rijvaardigheid.     
-2.  De aanvrager van een rijbewijs dient zich zowel bij de indiening van de aanvraag als bij de uitreiking van het rijbewijs te identificeren met een op zijn naam gesteld identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3° van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), een geldig rijbewijs, dan wel een eerder aan hem afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur. Degene ten aanzien van wie een onderzoek als bedoeld in het eerste lid, onderdeel b, wordt ingesteld, dient zich te identificeren met een op zijn naam gesteld identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3° van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), een geldig rijbewijs dan wel een eerder aan hem afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.   
-3.  Aan degene die vreemdeling in de zin van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is, en geen onderdaan van een Lid-Staat van de Europese Gemeenschappen of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, wordt een rijbewijs slechts afgegeven indien hij rechtmatig in Nederland verblijft als bedoeld in [artikel 8, onder a tot en met d en l van die wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Voor de uitvoering hiervan is de korpschef in de zin van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) verplicht aan degene die is belast met de afgifte van het rijbewijs, kosteloos de noodzakelijke opgaven en inlichtingen te verstrekken.   
+2.  De aanvrager van een rijbewijs dient zich zowel bij de indiening van de aanvraag als bij de uitreiking van het rijbewijs te identificeren met een op zijn naam gesteld identiteitsbewijs als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3° van de Wet op de identificatieplicht, een geldig rijbewijs, dan wel een eerder aan hem afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur. Degene ten aanzien van wie een onderzoek als bedoeld in het eerste lid, onderdeel b, wordt ingesteld, dient zich te identificeren met een op zijn naam gesteld identiteitsbewijs als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3° van de Wet op de identificatieplicht, een geldig rijbewijs dan wel een eerder aan hem afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.   
+3.  Aan degene die vreemdeling in de zin van de Vreemdelingenwet 2000 is, en geen onderdaan van een Lid-Staat van de Europese Gemeenschappen of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, wordt een rijbewijs slechts afgegeven indien hij rechtmatig in Nederland verblijft als bedoeld in artikel 8, onder a tot en met d en l van die wet. Voor de uitvoering hiervan is de korpschef in de zin van de Vreemdelingenwet 2000 verplicht aan degene die is belast met de afgifte van het rijbewijs, kosteloos de noodzakelijke opgaven en inlichtingen te verstrekken.   
 4.  Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het eerste lid, onderdeel *b*.   
 5.  In de gevallen waarin het rijbewijs overeenkomstig artikel 116 wordt afgegeven door de burgemeester dan wel de aanvraag overeenkomstig het bepaalde krachtens artikel 113, eerste lid, wordt ingediend bij de burgemeester, wordt het in het eerste lid bedoelde tarief vastgesteld bij plaatselijke verordening. In de overige gevallen worden het tarief en de wijze van betaling daarvan vastgesteld door de Dienst Wegverkeer.   
-6.  Voor zover dit noodzakelijk is ten behoeve van het onderzoek naar de rijvaardigheid en geschiktheid, bedoeld in het eerste lid, onder b, worden door het met dat onderzoek belaste gezag persoonsgegevens betreffende iemands rijvaardigheid en gezondheid verwerkt.   
+6.  Bij algemene maatregel van bestuur kan worden bepaald dat het bij plaatselijke verordening vastgestelde tarief, bedoeld in het vijfde lid, verminderd met de vergoeding, bedoeld in artikel 121, eerste lid, een in die maatregel te bepalen bedrag niet te boven gaat. Dat bedrag kan bij ministeriële regeling worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
+7.  Voor zover dit noodzakelijk is ten behoeve van het onderzoek naar de rijvaardigheid en geschiktheid, bedoeld in het eerste lid, onder b, worden door het met dat onderzoek belaste gezag persoonsgegevens betreffende iemands rijvaardigheid en gezondheid verwerkt.   
 
 ### Artikel  112  
 
@@ -2140,7 +2228,7 @@ b. van wie ingevolge een der artikelen 130, tweede lid, of 164 de overgifte van 
 
 c. ten aanzien van wie ingevolge artikel 131, tweede lid, onderdeel a, de geldigheid van het rijbewijs is geschorst, voor de categorie of categorieën van motorrijtuigen waarop de schorsing betrekking heeft, voor de duur van de schorsing;  
 
-d. van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering van het rijbewijs is gevorderd dan wel wiens rijbewijs krachtens die wet is ingenomen;  
+d. van wie ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering van het rijbewijs is gevorderd dan wel wiens rijbewijs krachtens die wet is ingenomen;  
 
 e. van wie is gebleken dat die houder is van een rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, tenzij de afgifte van een rijbewijs plaatsvindt tegen overlegging van dat rijbewijs;  
 
@@ -2164,7 +2252,7 @@ Het is verboden voor het verkrijgen van een rijbewijs opzettelijk onjuiste opgav
 
 ### Artikel  115  
 
-1.  Degene die is belast met de afgifte van rijbewijzen, en die in het kader van de aanvraag of de uitreiking van een nieuw rijbewijs of een vervangend rijbewijs de beschikking krijgt over een rijbewijs waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 123b, vierde lid, 124, vierde lid, 131 tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of 180, derde lid, van deze wet een verplichting tot inlevering bestaat, is bevoegd dat rijbewijs in te nemen en het door te begeleiden naar het betrokken parket van het openbaar ministerie dan wel naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
+1.  Degene die is belast met de afgifte van rijbewijzen, en die in het kader van de aanvraag of de uitreiking van een nieuw rijbewijs of een vervangend rijbewijs de beschikking krijgt over een rijbewijs waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 123b, vierde lid, 124, vierde lid, 131 tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of 180, derde lid, van deze wet een verplichting tot inlevering bestaat, is bevoegd dat rijbewijs in te nemen en het door te begeleiden naar het betrokken parket van het openbaar ministerie dan wel naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
 2.  Degene die is belast met de afgifte van rijbewijzen, en die in het kader van de aanvraag of de uitreiking van een nieuw rijbewijs of een vervangend rijbewijs de beschikking krijgt over een rijbewijs dat zijn geldigheid heeft verloren ingevolge artikel 123, eerste lid, aanhef en onderdeel d, of artikel 123b is bevoegd dat rijbewijs in te nemen en door te geleiden naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
 3.  Voor de toepassing van het eerste en het tweede lid wordt onder een rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, waarvan de houder in Nederland woonachtig is.   
 4.  Bij ministeriële regeling kunnen regels worden vastgesteld ter uitvoering van het eerste en het tweede lid.   
@@ -2175,12 +2263,12 @@ Het is verboden voor het verkrijgen van een rijbewijs opzettelijk onjuiste opgav
 
 ### Artikel  116  
 
-1.  Een rijbewijs wordt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels afgegeven door de burgemeester van de gemeente waar de aanvrager op het tijdstip van de aanvraag als ingezetene was ingeschreven in de basisadministratie persoonsgegevens of, in de bij algemene maatregel van bestuur bepaalde gevallen, door de Dienst Wegverkeer.   
+1.  Een rijbewijs wordt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels afgegeven door de burgemeester van de gemeente waar de aanvrager op het tijdstip van de aanvraag als ingezetene met een adres was ingeschreven in de basisregistratie personen of, in de bij algemene maatregel van bestuur bepaalde gevallen, door de Dienst Wegverkeer.   
 2.  De in het eerste lid bedoelde regels kunnen mede betrekking hebben op de bestelling, het transport en de beveiliging van rijbewijzen, de met betrekking tot de afgifte van rijbewijzen te voeren administratie en de in het kader van de afgifteprocedure te treffen beveiligingsmaatregelen. Bij ministeriële regeling kunnen ter uitvoering van die regels nadere regels worden vastgesteld.   
 
 ### Artikel  117  
 
-De burgemeester van de gemeente waar de aanvrager op het tijdstip van de aanvraag als ingezetene was ingeschreven in de basisadministratie persoonsgegevens, is bevoegd tot het afgeven van internationale rijbewijzen ten behoeve van het verkeer met motorrijtuigen in het buitenland. Gelijke bevoegdheid kan door Onze Minister worden verleend aan besturen van verenigingen met volledige rechtsbevoegdheid, die behartiging van verkeersbelangen ten doel hebben.  
+De burgemeester van de gemeente waar de aanvrager op het tijdstip van de aanvraag als ingezetene met een adres was ingeschreven in de basisregistratie personen, is bevoegd tot het afgeven van internationale rijbewijzen ten behoeve van het verkeer met motorrijtuigen in het buitenland. Gelijke bevoegdheid kan door Onze Minister worden verleend aan besturen van verenigingen met volledige rechtsbevoegdheid, die behartiging van verkeersbelangen ten doel hebben.  
 
 ### Artikel  118  
 
@@ -2424,7 +2512,7 @@ b. de handhaving van bij of krachtens deze wet vastgestelde voorschriften, voor 
 
 ### Artikel  129b  
 
-Ten aanzien van de verwerkingen ten behoeve van het alcoholslotregister is de Dienst Wegverkeer de verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+Ten aanzien van de verwerkingen ten behoeve van het alcoholslotregister is de Dienst Wegverkeer de verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.  
 
 ### Artikel  129c  
 
@@ -2465,7 +2553,7 @@ De Dienst Wegverkeer stelt ten aanzien van het verwerken van gegevens als bedoel
 1.  Indien bij de bij algemene maatregel van bestuur aangewezen personen een vermoeden bestaat dat de houder van een rijbewijs niet langer beschikt over de rijvaardigheid dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van een of meer categorieën van motorrijtuigen waarvoor dat rijbewijs is afgegeven, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het CBR onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. Bij ministeriële regeling worden de feiten en omstandigheden aangewezen die aan het vermoeden ten grondslag dienen te liggen en worden ter zake van de uitoefening van deze bevoegdheid nadere regels vastgesteld.   
 2.  Op de eerste vordering van de in artikel 159, onderdeel a, bedoelde personen is de bestuurder van een motorrijtuig, ten aanzien van wie een vermoeden als bedoeld in het eerste lid bestaat, verplicht tot overgifte van het hem afgegeven rijbewijs.   
 3.  De in het tweede lid bedoelde vordering wordt gedaan indien de betrokken bestuurder de veiligheid op de weg zodanig in gevaar kan brengen dat hem met onmiddellijke ingang de bevoegdheid dient te worden ontnomen langer als bestuurder van een of meer categorieën van motorrijtuigen, waarvoor het rijbewijs is afgegeven, aan het verkeer deel te nemen. Bij ministeriële regeling worden de gevallen aangewezen waarin daarvan sprake is. De in het tweede lid bedoelde vordering wordt tevens gedaan in bij ministeriële regeling aangegeven gevallen van overtreding van de voorwaarden van deelname aan het alcoholslotprogramma. Het ingevorderde rijbewijs wordt gelijktijdig met de schriftelijke mededeling, bedoeld in het eerste lid, aan het CBR toegezonden.   
-4.  In geval van toepassing van het tweede lid kan het motorrijtuig, voor zover geen andere bestuurder beschikbaar is of de bestuurder niet aanstonds voldoet aan de vordering, onder toezicht of, voor zover degene die de vordering heeft gedaan, zulks nodig oordeelt, in bewaring worden gesteld. In het laatste geval zijn de artikelen 170, tweede lid, tweede en derde volzin, vierde en vijfde lid, 171, 172 en 173, eerste lid, van deze wet en de [artikelen 4:116](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:118 tot en met 4:124](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:10](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:25, eerste en zesde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:29, tweede en derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:30, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing. Teruggave van het motorrijtuig vindt slechts plaats, indien aan de vordering is voldaan.   
+4.  In geval van toepassing van het tweede lid kan het motorrijtuig, voor zover geen andere bestuurder beschikbaar is of de bestuurder niet aanstonds voldoet aan de vordering, onder toezicht of, voor zover degene die de vordering heeft gedaan, zulks nodig oordeelt, in bewaring worden gesteld. In het laatste geval zijn de artikelen 170, tweede lid, tweede en derde volzin, vierde en vijfde lid, 171, 172 en 173, eerste lid, van deze wet en de artikelen 4:116, 4:118 tot en met 4:124, 5:10, 5:25, eerste en zesde lid, 5:29, tweede en derde lid, 5:30, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing. Teruggave van het motorrijtuig vindt slechts plaats, indien aan de vordering is voldaan.   
 5.  Voor de toepassing van het eerste, tweede en derde lid wordt onder rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.   
 
 ### Artikel  131  
@@ -2516,7 +2604,7 @@ c. het onderzoek naar de rijvaardigheid of geschiktheid, indien deze kosten op g
 ### Artikel  132a  
 
 1.  In de in artikel 131, eerste lid, aanhef en onderdeel a, bedoelde gevallen legt het CBR bij het in dat artikel bedoelde besluit betrokkene overeenkomstig de bij algemene maatregel van bestuur vastgestelde regels de verplichting op zich binnen een daarbij vast te stellen termijn te onderwerpen aan educatieve maatregelen ter bevordering van de rijvaardigheid of geschiktheid.   
-2.  De kosten verbonden aan het opleggen van een educatieve maatregel ter bevordering van de rijvaardigheid of geschiktheid komen ten laste van iedereen aan wie overeenkomstig het eerste lid de verplichting tot deelname aan een dergelijke maatregel is opgelegd. De hoogte van deze kosten wordt bij ministeriële regeling vastgelegd. In geval van niet, niet geheel of niet op aangegeven wijze of binnen de aangegeven termijnen betalen van deze kosten vaardigt het CBR een dwangbevel uit aan de nalatige. Voor de toepassing van [titel 4.4. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het besluit als bedoeld in artikel 131, eerste lid, aanhef en onderdeel a, aangemerkt als beschikking als bedoeld in [artikel 4.86 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De kosten verbonden aan het opleggen van een educatieve maatregel ter bevordering van de rijvaardigheid of geschiktheid komen ten laste van iedereen aan wie overeenkomstig het eerste lid de verplichting tot deelname aan een dergelijke maatregel is opgelegd. De hoogte van deze kosten wordt bij ministeriële regeling vastgelegd. In geval van niet, niet geheel of niet op aangegeven wijze of binnen de aangegeven termijnen betalen van deze kosten vaardigt het CBR een dwangbevel uit aan de nalatige. Voor de toepassing van titel 4.4. van de Algemene wet bestuursrecht wordt het besluit als bedoeld in artikel 131, eerste lid, aanhef en onderdeel a, aangemerkt als beschikking als bedoeld in artikel 4.86 van de Algemene wet bestuursrecht.   
 3.  De kosten verbonden aan het uitvoeren van de educatieve maatregelen komen ten laste van betrokkene. De hoogte van deze kosten worden bij ministeriële regeling vastgesteld.   
 4.  Het CBR bepaalt de aard van de educatieve maatregelen en wijst een of meer tot toepassing van die maatregelen bevoegde deskundigen aan.   
 5.  Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het eerste en tweede lid.   
@@ -2554,7 +2642,7 @@ d. overeenkomstig bij algemene maatregel van bestuur vastgestelde wijze de feite
 3.  Een ingebouwd alcoholslot kan slechts door één bestuurder worden gebruikt aan wie het CBR overeenkomstig de artikelen 131, eerste lid, onderdeel b, en 132b, eerste lid, de verplichting heeft opgelegd tot deelname aan het alcoholslotprogramma.   
 4.  Onverminderd artikel 132d, tweede of vierde lid, is de duur van het alcoholslotprogramma twee jaar. Deze termijn neemt een aanvang op de dag waarop degene aan wie de verplichting tot deelname aan het alcoholslotprogramma is opgelegd heeft voldaan aan het eerste lid, onderdeel d.   
 5.  Degene aan wie deelname aan het alcoholslotprogramma is opgelegd, is verplicht het door het CBR bepaalde begeleidingsprogramma te volgen en daartoe het alcoholslot periodiek te laten uitlezen bij een erkenninghouder als bedoeld in artikel 132k, eerste lid. Bij ministeriële regeling wordt de termijn vastgelegd waarbinnen de uitlezing uiterlijk dient plaats te vinden. In bij ministeriële regeling aangegeven gevallen kan het CBR in het kader van het begeleidingsprogramma een kortere termijn vaststellen.   
-6.  De kosten verbonden aan het opleggen van het alcoholslotprogramma komen ten laste van iedereen aan wie overeenkomstig artikel 132b, eerste lid, de verplichting tot deelname aan het alcoholslotprogramma is opgelegd. De hoogte van deze kosten wordt bij ministeriële regeling vastgelegd. In geval van niet, niet geheel of niet op aangegeven wijze of binnen de aangegeven termijnen betalen van deze kosten vaardigt het CBR een dwangbevel uit aan de nalatige. Voor de toepassing van [titel 4.4. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het besluit als bedoeld in artikel 131, eerste lid, aanhef en onderdeel b, aangemerkt als beschikking als bedoeld in [artikel 4.86 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+6.  De kosten verbonden aan het opleggen van het alcoholslotprogramma komen ten laste van iedereen aan wie overeenkomstig artikel 132b, eerste lid, de verplichting tot deelname aan het alcoholslotprogramma is opgelegd. De hoogte van deze kosten wordt bij ministeriële regeling vastgelegd. In geval van niet, niet geheel of niet op aangegeven wijze of binnen de aangegeven termijnen betalen van deze kosten vaardigt het CBR een dwangbevel uit aan de nalatige. Voor de toepassing van titel 4.4. van de Algemene wet bestuursrecht wordt het besluit als bedoeld in artikel 131, eerste lid, aanhef en onderdeel b, aangemerkt als beschikking als bedoeld in artikel 4.86 van de Algemene wet bestuursrecht.   
 7.  De kosten van verbonden aan: 
 
 a. het uitvoeren van het alcoholslotprogramma, alsmede de kosten verbonden aan het beheer en het in stand houden van het alcoholslotregister en het verstrekken van gegevens uit dat register overeenkomstig artikel 129d, eerste lid, en aan  
@@ -2736,7 +2824,7 @@ Het is eenieder aan wie niet een erkenning als bedoeld in artikel 132k is verlee
 1.  In de in artikel 131, eerste lid, aanhef en onderdeel c, bedoelde gevallen legt het CBR bij het in dat artikel bedoelde besluit betrokkene de verplichting op zich te onderwerpen aan een onderzoek naar zijn rijvaardigheid of geschiktheid.   
 2.  Het CBR bepaalt de aard van het onderzoek en bepaalt door welke deskundige of deskundigen het onderzoek zal worden verricht.   
 3.  Het onderzoek kan in gedeelten plaatsvinden. Tijd en plaats van het onderzoek dan wel de delen daarvan worden overeenkomstig bij algemene maatregel van bestuur vastgestelde regels door het CBR vastgesteld.   
-4.  De kosten verbonden aan het opleggen van een onderzoek naar de rijvaardigheid of de geschiktheid komen ten laste van iedereen aan wie overeenkomstig het eerste lid de verplichting tot deelname aan zo’n onderzoek is opgelegd. De hoogte van deze kosten wordt bij ministeriële regeling vastgelegd. In geval van niet, niet geheel of niet op aangegeven wijze of binnen de aangegeven termijnen betalen van deze kosten vaardigt het CBR een dwangbevel uit aan de nalatige. Voor de toepassing van [titel 4.4. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het besluit als bedoeld in artikel 131, eerste lid, aanhef en onderdeel b, aangemerkt als beschikking als bedoeld in [artikel 4.86 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+4.  De kosten verbonden aan het opleggen van een onderzoek naar de rijvaardigheid of de geschiktheid komen ten laste van iedereen aan wie overeenkomstig het eerste lid de verplichting tot deelname aan zo’n onderzoek is opgelegd. De hoogte van deze kosten wordt bij ministeriële regeling vastgelegd. In geval van niet, niet geheel of niet op aangegeven wijze of binnen de aangegeven termijnen betalen van deze kosten vaardigt het CBR een dwangbevel uit aan de nalatige. Voor de toepassing van titel 4.4. van de Algemene wet bestuursrecht wordt het besluit als bedoeld in artikel 131, eerste lid, aanhef en onderdeel b, aangemerkt als beschikking als bedoeld in artikel 4.86 van de Algemene wet bestuursrecht.   
 5.  De kosten verbonden aan de uitvoering van het onderzoek, waarvan de hoogte bij ministeriële regeling wordt vastgesteld, komen in de bij ministeriële regeling bedoelde gevallen ten laste van betrokkene.   
 6.  Het onderzoek vangt zo spoedig mogelijk aan.   
 7.  De bevindingen van het onderzoek worden door de deskundige of de deskundigen zo spoedig mogelijk, doch uiterlijk acht weken na aanvang van het onderzoek, dan wel van het eerste gedeelte daarvan, schriftelijk meegedeeld aan het CBR.   
@@ -2850,7 +2938,7 @@ Onze Minister kan, met inachtneming van verdragen en van besluiten van volkenrec
 ### Artikel  147  
 
 1.  Onze Minister kan, met inachtneming van verdragen en van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, van het bepaalde krachtens deze wet vrijstelling verlenen voor het gebruik van de weg ten behoeve van openbare of door Onze Minister daarmee gelijk te stellen diensten.   
-2.  Onze Minister kan van het bepaalde krachtens deze wet vrijstelling verlenen voor het gebruik van de weg ten behoeve van particuliere geld- en waardetransportbedrijven waaraan een vergunning is verleend als bedoeld in [artikel 3, aanhef en onder c, van de Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md).   
+2.  Onze Minister kan van het bepaalde krachtens deze wet vrijstelling verlenen voor het gebruik van de weg ten behoeve van particuliere geld- en waardetransportbedrijven waaraan een vergunning is verleend als bedoeld in artikel 3, aanhef en onder c, van de Wet particuliere beveiligingsorganisaties en recherchebureaus.   
 
 ### Artikel  148  
 
@@ -2859,7 +2947,7 @@ Onze Minister kan, met inachtneming van verdragen en van besluiten van volkenrec
 a. voor wegen onder beheer van het Rijk door Onze Minister;  
 
 b. voor andere wegen door gedeputeerde staten. In afwijking hiervan wordt, indien de wegen waarvoor de ontheffing wordt gevraagd, alle zijn gelegen binnen één gemeente, de ontheffing verleend door burgemeester en wethouders.     
-2.  De in het eerste lid bedoelde ontheffing kan slechts worden verleend indien wordt aangetoond dat maatregelen zijn getroffen ter voorkoming van deelneming aan de wedstrijd zonder dat de burgerrechtelijke aansprakelijkheid voor de schade waartoe het gebruik van motorrijtuigen tijdens de wedstrijd aanleiding kan geven, is gedekt door een verzekering overeenkomstig de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md). De verzekering dient mede te dekken de aansprakelijkheid van degenen die de wedstrijd organiseren. Deze voorwaarde geldt niet ten aanzien van degene wiens aansprakelijkheid ten laste van de Staat komt.   
+2.  De in het eerste lid bedoelde ontheffing kan slechts worden verleend indien wordt aangetoond dat maatregelen zijn getroffen ter voorkoming van deelneming aan de wedstrijd zonder dat de burgerrechtelijke aansprakelijkheid voor de schade waartoe het gebruik van motorrijtuigen tijdens de wedstrijd aanleiding kan geven, is gedekt door een verzekering overeenkomstig de Wet aansprakelijkheidsverzekering motorrijtuigen. De verzekering dient mede te dekken de aansprakelijkheid van degenen die de wedstrijd organiseren. Deze voorwaarde geldt niet ten aanzien van degene wiens aansprakelijkheid ten laste van de Staat komt.   
 
 ### Artikel  149  
 
@@ -2891,7 +2979,7 @@ d. voor andere wegen door burgemeester en wethouders of krachtens besluit van he
 3.  De wegbeheerder kan uitsluitend de toestemming weigeren, indien dat gerechtvaardigd is met het oog op de in artikel 2, eerste en tweede lid, omschreven belangen.   
 4.  Bij het verstrekken van gegevens en informatie, bedoeld in het eerste lid, kan de wegbeheerder aangeven dat aan de door de Dienst Wegverkeer te verlenen ontheffing beperkingen of voorschriften worden verbonden, indien dat gerechtvaardigd is met het oog op de bescherming van de in artikel 2, eerste en tweede lid, omschreven belangen.   
 5.  De Dienst Wegverkeer trekt verleende ontheffingen in of wijzigt deze voorzover de door de wegbeheerder ingevolge het eerste lid verstrekte gegevens of andere door hem aan de Dienst Wegverkeer verstrekte informatie daartoe aanleiding geeft.   
-6.  Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden als één besluit aangemerkt de ontheffing of de weigering daarvan door de Dienst Wegverkeer en de toestemming onderscheidenlijk de weigering daarvan door de wegbeheerder.   
+6.  Voor de mogelijkheid van beroep ingevolge hoofdstuk 8 van de Algemene wet bestuursrecht worden als één besluit aangemerkt de ontheffing of de weigering daarvan door de Dienst Wegverkeer en de toestemming onderscheidenlijk de weigering daarvan door de wegbeheerder.   
 7.  De wegbeheerder ontvangt voor het verstrekken van gegevens en informatie, bedoeld in het eerste lid, en voor het verlenen van toestemming, bedoeld in het tweede lid, van de Dienst Wegverkeer een bij ministeriële regeling vastgestelde vergoeding, die is gebaseerd op het aantal en de aard van de verleende ontheffingen voor wegen die onder zijn beheer staan.   
 
 ### Artikel  150  
@@ -2992,7 +3080,7 @@ c. de eisen waaraan voldaan moet worden om de erkenning als opleidingscentrum te
 
 a. hij ingezetene is van een lidstaat van de Europese Unie en in Nederland zijn gewone verblijfplaats heeft, of  
 
-b. hij ingezetene is van een land buiten de Europese Unie en werkzaam is voor een in Nederland gevestigde onderneming of beschikt over een tewerkstellingsvergunning als bedoeld in de [Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md).     
+b. hij ingezetene is van een land buiten de Europese Unie en werkzaam is voor een in Nederland gevestigde onderneming of beschikt over een tewerkstellingsvergunning als bedoeld in de Wet arbeid vreemdelingen.     
 2.  Een bestuurder kan de nascholing in Nederland volgen indien hij in Nederland zijn gewone verblijfplaats heeft of in Nederland werkzaam is, dan wel in een andere lidstaat van de Europese Unie indien hij aldaar werkzaam is.   
 3.  Een bestuurder die in Nederland de basiskwalificatie behaalt of de nascholing met goed gevolg voltooit en houder is van een Nederlands rijbewijs ontvangt het daarbij behorende getuigschrift van vakbekwaamheid dan wel het getuigschrift van nascholing in de vorm van vermelding van de in de richtlijn vakbekwaamheid bestuurders bedoelde communautaire code naast de overeenkomstige rijbewijscategorieën op het rijbewijs.   
 4.  Een bestuurder die in Nederland de basiskwalificatie behaalt of de nascholing met goed gevolg voltooit en op dat moment geen houder is van een in Nederland afgegeven geldig rijbewijs ontvangt als bewijs daarvan een certificaat, met een geldigheidsduur gelijk aan die van een getuigschrift van vakbekwaamheid onderscheidenlijk een getuigschrift van nascholing, dat hij kan gebruiken om bij een bevoegde autoriteit van een lidstaat van de Europese Unie een verzoek in te dienen om op een door die lidstaat aan de desbetreffende bestuurder afgegeven of nog af te geven rijbewijs of kwalificatiekaart bestuurder de in de richtlijn vakbekwaamheid bestuurders bedoelde communautaire code te vermelden.   
@@ -3074,18 +3162,18 @@ Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen en op we
 ### Artikel  158  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van de hoofdstukken IA, IB en IC, zijn belast de in artikel 159 bedoelde personen en de bij besluit van Onze Minister aangewezen personen, voor zover bij dat besluit is bepaald. Zij beschikken daartoe over de in artikel 160, vierde lid, genoemde bevoegdheid met betrekking tot het vervoeren van personen en over de bevoegdheid, genoemd in artikel 160, vijfde lid.   
-2.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 34 en 35 zijn voorts belast de bij besluit van Onze Minister in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren.   
+2.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 34 en 35 zijn voorts belast de bij besluit van Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.   
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  159  
 
 Met de opsporing van de feiten, strafbaar gesteld bij of krachtens deze wet, zijn belast: 
 
-a. de in de [artikelen 141](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen;  
+a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde personen;  
 
 b. de bij algemene maatregel van bestuur aangewezen ambtenaren van de Rijksbelastingdienst, van de Rijks- en de provinciale waterstaat, van de Dienst Wegverkeer en van de verkeersinspecties, een en ander voor zover bij die algemene maatregel van bestuur is bepaald;  
 
-c. de in de [artikelen 87](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [89 van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) bedoelde personen, voor zover het betreft de eisen die met betrekking tot voertuigen als bedoeld in die wet worden gesteld bij of krachtens deze wet.    
+c. de in de artikelen 87 en 89 van de Wet personenvervoer 2000 bedoelde personen, voor zover het betreft de eisen die met betrekking tot voertuigen als bedoeld in die wet worden gesteld bij of krachtens deze wet.    
 
 ### Artikel  160  
 
@@ -3109,7 +3197,7 @@ e. een gehandicaptenparkeerkaart of een kaart ten behoeve van het vervoer van ge
 
 ### Artikel  161  
 
-1.  De in artikel 159, onderdeel a, bedoelde personen die bij de uitoefening van de bij of krachtens deze wet, krachtens [artikel 2 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) dan wel krachtens [artikel 5:19, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aan hen verleende bevoegdheden de beschikking krijgen over een rijbewijs waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 123b, vierde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, en 134, vierde lid, of 180, vierde lid, van deze wet een verplichting tot inlevering bestaat, zijn bevoegd dat rijbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie dan wel naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
+1.  De in artikel 159, onderdeel a, bedoelde personen die bij de uitoefening van de bij of krachtens deze wet, krachtens artikel 2 van de Wet op de identificatieplicht dan wel krachtens artikel 5:19, derde lid, van de Algemene wet bestuursrecht aan hen verleende bevoegdheden de beschikking krijgen over een rijbewijs waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 123b, vierde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, en 134, vierde lid, of 180, vierde lid, van deze wet een verplichting tot inlevering bestaat, zijn bevoegd dat rijbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie dan wel naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
 2.  De in artikel 159, onderdeel a, bedoelde personen die bij de uitoefening van de bij of krachtens deze wet aan hen verleende bevoegdheden de beschikking krijgen over een rijbewijs dat zijn geldigheid heeft verloren ingevolge artikel 123, eerste lid, aanhef en onderdeel d, zijn bevoegd dat rijbewijs in te nemen en door te geleiden naar de instantie die het heeft afgegeven.   
 3.  Voor de toepassing van het eerste en het tweede lid wordt onder een rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, waarvan de houder in Nederland woonachtig is.   
 4.  Bij ministeriële regeling kunnen voorschriften worden vastgesteld ter uitvoering van het eerste, tweede en derde lid.   
@@ -3126,12 +3214,12 @@ e. een gehandicaptenparkeerkaart of een kaart ten behoeve van het vervoer van ge
 2.  De bestuurder aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de opsporingsambtenaar ten dienste van het onderzoek gegeven aanwijzingen.   
 3.  De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een ademonderzoek voor hem om bijzondere geneeskundige redenen onwenselijk is.   
 4.  In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de opsporingsambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in artikel 8, tweede lid, onderdeel b, en artikel 8, derde lid, onderdeel b. Gelijke bevoegdheid heeft de opsporingsambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in artikel 8, eerste lid, bedoelde stof dan alcoholhoudende drank verkeert.   
-5.  Indien de bestuurder zijn op grond van het vierde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een bloedonderzoek.   
+5.  Indien de bestuurder zijn op grond van het vierde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een bloedonderzoek.   
 6.  De bestuurder wie is bevolen zich aan een bloedonderzoek te onderwerpen, is verplicht aan dit bevel gevolg te geven en zijn medewerking te verlenen. Hem wordt door een arts zoveel bloed afgenomen als voor het onderzoek noodzakelijk is.   
 7.  De in het zesde lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat afname van bloed bij hem om bijzondere geneeskundige redenen onwenselijk is.   
-8.  De krachtens het zevende lid van de in het zesde lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek teneinde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in artikel 8, eerste lid, bedoelde stoffen of het in artikel 8, tweede lid, onderdeel b, en artikel 8, derde lid, onderdeel b, genoemde gehalte vast te stellen.   
-9.  Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, door een arts de in het zesde lid bedoelde hoeveelheid bloed worden afgenomen, tenzij aannemelijk is dat dit bij hem om bijzondere geneeskundige redenen onwenselijk is. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het vijfde lid worden bevolen zijn medewerking te verlenen. De verdachte aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen, wordt het bloedmonster vernietigd.   
-10.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de wijze van uitvoering van artikel 160, vijfde lid, en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.   
+8.  De krachtens het zevende lid van de in het zesde lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek teneinde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in artikel 8, eerste lid, bedoelde stoffen of het in artikel 8, tweede lid, onderdeel b, en artikel 8, derde lid, onderdeel b, genoemde gehalte vast te stellen.   
+9.  Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, door een arts de in het zesde lid bedoelde hoeveelheid bloed worden afgenomen, tenzij aannemelijk is dat dit bij hem om bijzondere geneeskundige redenen onwenselijk is. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het vijfde lid worden bevolen zijn medewerking te verlenen. De verdachte aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen, wordt het bloedmonster vernietigd.   
+10.  Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de wijze van uitvoering van artikel 160, vijfde lid, en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Veiligheid en Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.   
 
 ### Artikel  164  
 
@@ -3140,7 +3228,7 @@ e. een gehandicaptenparkeerkaart of een kaart ten behoeve van het vervoer van ge
 
 a. artikel 8, indien bij een onderzoek als bedoeld in het tweede lid, van die bepaling blijkt of, bij ontbreken van een dergelijk onderzoek, een ernstig vermoeden bestaat dat het alcoholgehalte van de adem van de bestuurder hoger is dan 570 microgram alcohol per liter uitgeademde lucht, onderscheidenlijk het alcoholgehalte van het bloed van de bestuurder hoger blijkt te zijn dan 1,3 milligram alcohol per milliliter bloed;  
 
-b. artikel 8, indien bij een onderzoek als bedoeld in het derde of vierde lid van die bepaling blijkt of, bij het ontbreken van een dergelijk onderzoek, een ernstig vermoeden bestaat dat het alcoholgehalte van de adem van de bestuurder hoger is dan 350 microgram alcohol per liter uitgeademde lucht, onderscheidenlijk het alcoholgehalte van het bloed van de bestuurder hoger blijkt te zijn dan 0,8 milligram alcohol per milliliter bloed;  
+b. artikel 8, indien bij een onderzoek als bedoeld in het derde of vierde lid, aanhef en onderdeel b, juncto het derde lid, van die bepaling blijkt of, bij het ontbreken van een dergelijk onderzoek, een ernstig vermoeden bestaat dat het alcoholgehalte van de adem van de bestuurder hoger is dan 350 microgram alcohol per liter uitgeademde lucht, onderscheidenlijk het alcoholgehalte van het bloed van de bestuurder hoger blijkt te zijn dan 0,8 milligram alcohol per milliliter bloed;  
 
 c. artikel 163, tweede, zesde, achtste of negende lid;  
 
@@ -3156,10 +3244,10 @@ a. de geldigheid van de bewijzen ingevolge artikel 131, derde lid, onderdeel a, 
 b. de bewijzen ingevolge artikel 124 voor alle categorieën van motorrijtuigen waarvoor zij zijn afgegeven, ongeldig worden verklaard voor een bepaald deel van de geldigheidsduur;  
 
 c. een rechterlijke uitspraak of strafbeschikking waarbij de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, voor tenuitvoerlegging vatbaar is geworden.   De schorsing duurt voort zolang de bewijzen ingevolge de onderdelen a, b en c ongeldig zijn.   
-6.  Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het vierde lid bedoelde bevoegdheid, geeft hij de ingevorderde bewijzen onverwijld terug aan de houder. Teruggave vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid dat aan de houder in geval van veroordeling door de rechter dan wel uitvaardiging van een strafbeschikking geen onvoorwaardelijke ontzegging van de bevoegdheid tot het besturen van motorrijtuigen zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke de bewijzen zijn ingevorderd of ingehouden geweest. Teruggave vindt ten slotte plaats indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van invordering is aangevangen, dan wel binnen die termijn geen strafbeschikking is uitgevaardigd. Het rijbewijs wordt niet aan betrokkene teruggegeven, indien het een rijbewijs betreft waarvan ingevolge een der artikelen 130, tweede lid, of  164 de overgifte is gevorderd, waarvan ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of  180, derde lid, een verplichting tot inlevering bestaat. Het rijbewijs wordt in dat geval doorgeleid naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
-7.  In geval van toepassing van het eerste lid kan het motorrijtuig, voor zover geen andere bestuurder beschikbaar is of de bestuurder niet aanstonds voldoet aan de vordering, onder toezicht of, voor zover degene die het proces-verbaal opmaakt zulks nodig oordeelt, in bewaring worden gesteld. In het laatste geval zijn de artikelen 170, tweede lid, tweede en derde volzin, vierde en vijfde lid, 171, 172 en 173, eerste lid, van deze wet en de [artikelen 4:116](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:118 tot en met 4:124](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:10](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:25, eerste en zesde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:29, tweede en derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:30, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing. Teruggave van het motorrijtuig vindt slechts plaats indien aan de vordering is voldaan of indien de officier van justitie zich niet langer tegen de teruggave verzet.   
-8.  In geval van toepassing van het eerste of vierde lid kan elke belanghebbende bij klaagschrift daartegen opkomen. Zolang in de zaak nog geen vervolging is ingesteld, wordt het klaagschrift ingediend ter griffie van de rechtbank in het arrondissement waar het in het eerste lid bedoelde feit werd begaan, en anders ter griffie van het gerecht in feitelijke aanleg waarvoor de vervolging plaatsvindt of, in geval van verzet tegen een uitgevaardigde strafbeschikking, zou worden voortgezet, dan wel het laatst plaatsvond. [Artikel 552a, vierde en zesde lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is verder van overeenkomstige toepassing. De raadkamer van het gerecht geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beslissing, welke onverwijld aan de belanghebbende wordt betekend. Tegen de beslissing kan door het openbaar ministerie binnen veertien dagen daarna en door de belanghebbende binnen veertien dagen na de betekening beroep in cassatie worden ingesteld. De Hoge Raad beslist zo spoedig mogelijk.   
-9.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor de toepassing van het eerste of vierde lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade die hij ten gevolge van die toepassing heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 89, derde tot en met zesde lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+6.  Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het vierde lid bedoelde bevoegdheid, geeft hij de ingevorderde bewijzen onverwijld terug aan de houder. Teruggave vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid dat aan de houder in geval van veroordeling door de rechter dan wel uitvaardiging van een strafbeschikking geen onvoorwaardelijke ontzegging van de bevoegdheid tot het besturen van motorrijtuigen zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke de bewijzen zijn ingevorderd of ingehouden geweest. Teruggave vindt ten slotte plaats indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van invordering is aangevangen, dan wel binnen die termijn geen strafbeschikking is uitgevaardigd. Het rijbewijs wordt niet aan betrokkene teruggegeven, indien het een rijbewijs betreft waarvan ingevolge een der artikelen 130, tweede lid, of  164 de overgifte is gevorderd, waarvan ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of  180, derde lid, een verplichting tot inlevering bestaat. Het rijbewijs wordt in dat geval doorgeleid naar degene bij wie de houder dat rijbewijs had dienen in te leveren.   
+7.  In geval van toepassing van het eerste lid kan het motorrijtuig, voor zover geen andere bestuurder beschikbaar is of de bestuurder niet aanstonds voldoet aan de vordering, onder toezicht of, voor zover degene die het proces-verbaal opmaakt zulks nodig oordeelt, in bewaring worden gesteld. In het laatste geval zijn de artikelen 170, tweede lid, tweede en derde volzin, vierde en vijfde lid, 171, 172 en 173, eerste lid, van deze wet en de artikelen 4:116, 4:118 tot en met 4:124, 5:10, 5:25, eerste en zesde lid, 5:29, tweede en derde lid, 5:30, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing. Teruggave van het motorrijtuig vindt slechts plaats indien aan de vordering is voldaan of indien de officier van justitie zich niet langer tegen de teruggave verzet.   
+8.  In geval van toepassing van het eerste of vierde lid kan elke belanghebbende bij klaagschrift daartegen opkomen. Zolang in de zaak nog geen vervolging is ingesteld, wordt het klaagschrift ingediend ter griffie van de rechtbank in het arrondissement waar het in het eerste lid bedoelde feit werd begaan, en anders ter griffie van het gerecht in feitelijke aanleg waarvoor de vervolging plaatsvindt of, in geval van verzet tegen een uitgevaardigde strafbeschikking, zou worden voortgezet, dan wel het laatst plaatsvond. Artikel 552a, vierde en zesde lid, van het Wetboek van Strafvordering is verder van overeenkomstige toepassing. De raadkamer van het gerecht geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beslissing, welke onverwijld aan de belanghebbende wordt betekend. Tegen de beslissing kan door het openbaar ministerie binnen veertien dagen daarna en door de belanghebbende binnen veertien dagen na de betekening beroep in cassatie worden ingesteld. De Hoge Raad beslist zo spoedig mogelijk.   
+9.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor de toepassing van het eerste of vierde lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade die hij ten gevolge van die toepassing heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 89, derde tot en met zesde lid, 90, 91 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 
 ### Artikel  165  
 
@@ -3185,23 +3273,23 @@ Voor de toepassing van artikel 160, voor wat betreft de in het eerste lid bedoel
 
 ### Artikel  169  
 
-1.  Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.   
+1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.   
 2.  De ambtenaren die een bevel hebben gegeven als bedoeld in artikel 160, zesde lid, zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bevel.   
 
 ### Artikel  170  
 
-1.  Tot de bevoegdheid van burgemeester en wethouders tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 125 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), behoort de bevoegdheid tot het overbrengen en in bewaring stellen van een op een weg staand voertuig, indien met het voertuig een bij of krachtens deze wet vastgesteld voorschrift wordt overtreden en bovendien verwijdering van het voertuig noodzakelijk is in verband met 
+1.  Tot de bevoegdheid van burgemeester en wethouders tot oplegging van een last onder bestuursdwang als bedoeld in artikel 125 van de Gemeentewet, behoort de bevoegdheid tot het overbrengen en in bewaring stellen van een op een weg staand voertuig, indien met het voertuig een bij of krachtens deze wet vastgesteld voorschrift wordt overtreden en bovendien verwijdering van het voertuig noodzakelijk is in verband met 
 
 a. het belang van de veiligheid op de weg, of  
 
 b. het belang van de vrijheid van het verkeer, of  
 
 c. het vrijhouden van aangewezen weggedeelten en wegen.     
-2.  De [artikelen 5:24](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:25, tweede tot en met vierde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:29, vijfde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:30, derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [5:31 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing. Bij de toepassing van [artikel 5:25 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) treedt de rechthebbende die het voertuig afhaalt, in de plaats van de overtreder. Voor de toepassing van [artikel 5:30 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de omstandigheid dat een voertuig niet is afgehaald, gelijkgesteld met de omstandigheid dat het voertuig niet kan worden teruggegeven.   
+2.  De artikelen 5:24, 5:25, tweede tot en met vierde lid, 5:29, vijfde lid, 5:30, derde lid, en 5:31 van de Algemene wet bestuursrecht zijn niet van toepassing. Bij de toepassing van artikel 5:25 van de Algemene wet bestuursrecht treedt de rechthebbende die het voertuig afhaalt, in de plaats van de overtreder. Voor de toepassing van artikel 5:30 van de Algemene wet bestuursrecht wordt de omstandigheid dat een voertuig niet is afgehaald, gelijkgesteld met de omstandigheid dat het voertuig niet kan worden teruggegeven.   
 3.  Burgemeester en wethouders plegen regelmatig overleg met de officier van justitie over de uitoefening van de in het eerste lid bedoelde bevoegdheid.   
 4.  Burgemeester en wethouders dragen er zorg voor dat in een daartoe aangelegd register aantekening wordt gehouden van de gevallen waarin de in het eerste lid bedoelde bevoegdheid wordt uitgeoefend.   
 5.  Bij toepassing van het eerste lid wordt onder rechthebbende verstaan: degene die ofwel eigenaar is van het voertuig ofwel anders dan als bezitter het voertuig ten tijde van de overtreding ten gebruike onder zich had. Hierbij geldt artikel 1, tweede lid, niet.   
-6.  De in het eerste lid bedoelde bevoegdheid wordt niet uitgeoefend, indien de rechthebbende het voertuig verwijdert voordat met de overbrenging een aanvang wordt gemaakt. Hij is alsdan de kosten verbonden aan de voorbereiding van de overbrenging, verschuldigd. De [artikelen 4:116](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:118 tot en met 4:124](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [5:10 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+6.  De in het eerste lid bedoelde bevoegdheid wordt niet uitgeoefend, indien de rechthebbende het voertuig verwijdert voordat met de overbrenging een aanvang wordt gemaakt. Hij is alsdan de kosten verbonden aan de voorbereiding van de overbrenging, verschuldigd. De artikelen 4:116, 4:118 tot en met 4:124, en 5:10 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  171  
 
@@ -3235,7 +3323,7 @@ a. niet tot overbrenging en inbewaringstelling had mogen worden overgegaan;
 b. de omstandigheden waaronder de overtreding is begaan, van dien aard waren dat de kosten redelijkerwijs niet verschuldigd zijn, of  
 
 c. aannemelijk is dat het voertuig tegen de wil van de rechthebbende is gebruikt en hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen.     
-4.  In een geval als bedoeld in het derde lid, onderdeel c, zijn de kosten verschuldigd door degene die de overtreding heeft begaan. De [artikelen 4:116](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:118 tot en met 4:124](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:10 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing.   
+4.  In een geval als bedoeld in het derde lid, onderdeel c, zijn de kosten verschuldigd door degene die de overtreding heeft begaan. De artikelen 4:116, 4:118 tot en met 4:124 en 5:10 van de Algemene wet bestuursrecht zijn van toepassing.   
 5.  Indien de kosten, verbonden aan de oplegging van een last onder bestuursdwang, die door de rechthebbende zijn betaald, te hoog zijn berekend, betalen burgemeester en wethouders het te veel betaalde terug.   
 6.  Indien de in het derde lid, onderdeel *b*, bedoelde omstandigheden van dien aard waren dat de kosten redelijkerwijs niet volledig verschuldigd zijn, betalen burgemeester en wethouders het niet verschuldigde bedrag terug.   
 7.  Bij toepassing van het derde lid, onderdeel a, betalen burgemeester en wethouders tevens een redelijke schadeloosstelling aan de rechthebbende die het voertuig heeft afgehaald. Indien het voertuig ten tijde van de overtreding in gebruik was bij een ander dan de rechthebbende die het voertuig heeft afgehaald, treedt die ander voor de toepassing van dit lid in de plaats van de rechthebbende die het voertuig heeft afgehaald.   
@@ -3262,9 +3350,9 @@ c. de aanwijzing van de weggedeelten en wegen, voor de bevoegdheid tot oplegging
 
 ### Artikel  174  
 
-1.  Indien ter zake van een overtreding van artikel 40, eerste lid, proces-verbaal wordt opgemaakt door een ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, dan wel een op dat voorschrift betrekking hebbende gedraging, omschreven in de in [artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) bedoelde bijlage door hem wordt geconstateerd, begaan met een op de weg staand motorrijtuig, terwijl niet terstond blijkt wie de eigenaar of houder van dat motorrijtuig is, is de burgemeester bevoegd op verzoek van die ambtenaar dat motorrijtuig naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen.   
+1.  Indien ter zake van een overtreding van artikel 40, eerste lid, proces-verbaal wordt opgemaakt door een ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, dan wel een op dat voorschrift betrekking hebbende gedraging, omschreven in de in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften bedoelde bijlage door hem wordt geconstateerd, begaan met een op de weg staand motorrijtuig, terwijl niet terstond blijkt wie de eigenaar of houder van dat motorrijtuig is, is de burgemeester bevoegd op verzoek van die ambtenaar dat motorrijtuig naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen.   
 2.  Alvorens het in het eerste lid bedoelde verzoek te doen, kan de daar bedoelde ambtenaar door middel van een daartoe aan te brengen apparaat het rijden met het motorrijtuig voor ten hoogste twee dagen beletten. Het apparaat wordt binnen die termijn verwijderd, zodra bekend wordt wie de eigenaar of houder van het motorrijtuig is.   
-3.  De artikelen 170, tweede lid, tweede en derde volzin, vierde, vijfde en zesde lid, 171, 172 en 173, eerste lid, van deze wet en de [artikelen 4:116](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:118 tot en met 4:124](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:10](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:25, eerste en zesde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:29, tweede en derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [5:30, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  De artikelen 170, tweede lid, tweede en derde volzin, vierde, vijfde en zesde lid, 171, 172 en 173, eerste lid, van deze wet en de artikelen 4:116, 4:118 tot en met 4:124, 5:10, 5:25, eerste en zesde lid, 5:29, tweede en derde lid, en 5:30, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Hoofdstuk  XI  
 
@@ -3286,22 +3374,23 @@ b. gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categor
 
 ### Artikel  176  
 
-1.  Overtreding van artikel 41, eerste lid, onderdelen c tot en met f, wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met een van beide voormelde straffen.   
-2.  Overtreding van artikel 11 wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.   
-3.  Overtreding van de artikelen 7, eerste lid, 8, 9, eerste, tweede, vierde, vijfde, zevende en negende lid, 41, eerste lid, onderdelen a en b, 51, eerste lid, 61, eerste lid, onderdeel c, 74, 114, 151j, 162, derde lid, 163, tweede, zesde, achtste en negende lid, en van de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover het betreft een verbod tot het gebruik van verlichting, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.   
+1.  Overtreding van artikel 70m wordt gestraft met een gevangenisstraf van ten hoogste een jaar of een geldboete van de vierde categorie.   
+2.  Overtreding van artikel 41, eerste lid, onderdelen c tot en met f, wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met een van beide voormelde straffen.   
+3.  Overtreding van artikel 11 wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.   
+4.  Overtreding van de artikelen 7, eerste lid, 8, 9, eerste, tweede, vierde, vijfde, zevende en negende lid, 41, eerste lid, onderdelen a en b, 51, eerste lid, 61, eerste lid, onderdeel c, 74, 114, 151j, 162, derde lid, 163, tweede, zesde, achtste en negende lid, en van de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover het betreft een verbod tot het gebruik van verlichting, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.   
 
 ### Artikel  177  
 
 1.  Overtreding van: 
 
-a. de artikelen 5, 9, achtste lid, 10, eerste lid, 12, eerste lid, 33, 36, eerste tot en met vijfde lid, 40, eerste lid, 60, eerste en tweede lid, 70a, tweede lid, 70i, eerste en tweede lid, 72, eerste en tweede lid, 107, eerste en tweede lid, 110, 110b, 123b, vierde lid, 124, vierde lid, 124a, derde lid, 130, tweede lid, 132, vijfde lid, 150, tweede lid, 151c, eerste lid, 160, 164, eerste lid, 165, eerste lid, 166, eerste lid,  
+a. de artikelen 5, 9, achtste lid, 10, eerste lid, 12, eerste lid, 33, 36, eerste tot en met vijfde lid, 40, eerste lid, 48, zevende lid, 60, eerste en tweede lid, 70a, tweede lid, 70i, eerste en tweede lid, 72, eerste en tweede lid, 107, eerste en tweede lid, 110, 110b, 123b, vierde lid, 124, vierde lid, 124a, derde lid, 130, tweede lid, 132, vijfde lid, 150, tweede lid, 151c, eerste lid, 160, 164, eerste lid, 165, eerste lid, 166, eerste lid,  
 
-b. het bepaalde ingevolge de artikelen 57, derde lid, 70i, derde lid en 131, derde lid, onderdeel b,  
+b. het bepaalde ingevolge de artikelen 52c, derde lid, 70i, derde lid en 131, derde lid, onderdeel b,  
 
-c. de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover niet begrepen in artikel 176, derde lid, en  
+c. de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover niet begrepen in artikel 176, vierde lid, en  
 
 d. het bepaalde krachtens deze wet, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt,   wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.   
-2.  Overtreding van de artikelen 66, 66e, 70g, 89, 104, 106b, 132j en 132o wordt gestraft met geldboete van de derde categorie.   
+2.  Overtreding van de artikelen 61e, 66, 66e, 70g, 89, 96, 104, 106b, 132j en 132o wordt gestraft met geldboete van de derde categorie.   
 
 ### Artikel  178  
 
@@ -3323,17 +3412,17 @@ d. het bepaalde krachtens deze wet, voor zover die overtreding uitdrukkelijk als
 
 ### Artikel  179a  
 
-1.  Bij veroordeling wegens een der in de [artikelen 287](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [289 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) omschreven misdrijven kan de schuldige die het feit heeft gepleegd met een motorrijtuig dat hij ten tijde van het feit bestuurde of deed besturen, de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste tien jaren worden ontzegd.   
-2.  Bij veroordeling wegens een der in de [artikelen 285](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [301](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [302](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [303 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) omschreven misdrijven kan de schuldige die het feit heeft gepleegd met een motorrijtuig dat hij ten tijde van het feit bestuurde of deed besturen, de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste vijf jaren worden ontzegd.   
+1.  Bij veroordeling wegens een der in de artikelen 287 of 289 van het Wetboek van Strafrecht omschreven misdrijven kan de schuldige die het feit heeft gepleegd met een motorrijtuig dat hij ten tijde van het feit bestuurde of deed besturen, de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste tien jaren worden ontzegd.   
+2.  Bij veroordeling wegens een der in de artikelen 285, 301, 302 of 303 van het Wetboek van Strafrecht omschreven misdrijven kan de schuldige die het feit heeft gepleegd met een motorrijtuig dat hij ten tijde van het feit bestuurde of deed besturen, de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste vijf jaren worden ontzegd.   
 3.  Voor de toepassing van het tweede lid wordt een strafbeschikking met een veroordeling gelijkgesteld.   
 
 ### Artikel  180  
 
-1.  Voor wat betreft de bijkomende straf van ontzegging van de bevoegdheid tot het besturen van motorrijtuigen is [artikel 557, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) op rechterlijke uitspraken niet van toepassing. Een strafbeschikking houdende deze bijkomende straf is in zoverre eerst voor tenuitvoerlegging vatbaar als geen verzet meer kan worden gedaan.   
+1.  Voor wat betreft de bijkomende straf van ontzegging van de bevoegdheid tot het besturen van motorrijtuigen is artikel 557, tweede lid, van het Wetboek van Strafvordering op rechterlijke uitspraken niet van toepassing. Een strafbeschikking houdende deze bijkomende straf is in zoverre eerst voor tenuitvoerlegging vatbaar als geen verzet meer kan worden gedaan.   
 2.  De rechterlijke uitspraak of strafbeschikking is voor wat betreft de bijkomende straf niet voor tenuitvoerlegging vatbaar, zolang de termijn waarvoor de veroordeelde bij een andere rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, nog niet is verstreken.   
-3.  Indien de rechterlijke uitspraak of strafbeschikking voor wat betreft de bijkomende straf voor tenuitvoerlegging vatbaar is geworden, geschiedt de tenuitvoerlegging niet dan nadat aan de veroordeelde in persoon een schrijven is uitgereikt, volgens de [artikelen 587](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [588 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), waarin het tijdstip van ingang en de duur van de ontzegging, de verplichting tot inlevering van het rijbewijs uiterlijk op dat tijdstip, alsmede het gevolg van niet tijdige inlevering worden medegedeeld.   
+3.  Indien de rechterlijke uitspraak of strafbeschikking voor wat betreft de bijkomende straf voor tenuitvoerlegging vatbaar is geworden, geschiedt de tenuitvoerlegging niet dan nadat aan de veroordeelde in persoon een schrijven is uitgereikt, volgens de artikelen 587 en 588 van het Wetboek van Strafvordering, waarin het tijdstip van ingang en de duur van de ontzegging, de verplichting tot inlevering van het rijbewijs uiterlijk op dat tijdstip, alsmede het gevolg van niet tijdige inlevering worden medegedeeld.   
 4.  De houder van een rijbewijs is, tenzij het is ingevorderd en niet is teruggegeven, verplicht dat rijbewijs in te leveren op het parket van het openbaar ministerie vanwaar hij het schrijven, bedoeld in het derde lid, heeft ontvangen, uiterlijk op het tijdstip van ingang van de ontzegging.   
-5.  Teruggave vindt plaats zodra de termijn van de ontzegging is verstreken. Geen teruggave vindt plaats ten aanzien van het rijbewijs of de rijbewijzen waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) de inlevering is gevorderd, ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of 180, derde lid, een verplichting tot inlevering bestaat. De officier van justitie geleidt in deze gevallen het rijbewijs of de rijbewijzen door naar degene bij wie de houder dat rijbewijs of die rijbewijzen had dienen in te leveren. Indien het rijbewijs op grond van artikel 123b ongeldig is dan wel indien een aantekening is geplaatst als bedoeld in dat artikel, geleidt de officier van justitie het rijbewijs of de rijbewijzen door naar de Dienst Wegverkeer.   
+5.  Teruggave vindt plaats zodra de termijn van de ontzegging is verstreken. Geen teruggave vindt plaats ten aanzien van het rijbewijs of de rijbewijzen waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering is gevorderd, ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of 180, derde lid, een verplichting tot inlevering bestaat. De officier van justitie geleidt in deze gevallen het rijbewijs of de rijbewijzen door naar degene bij wie de houder dat rijbewijs of die rijbewijzen had dienen in te leveren. Indien het rijbewijs op grond van artikel 123b ongeldig is dan wel indien een aantekening is geplaatst als bedoeld in dat artikel, geleidt de officier van justitie het rijbewijs of de rijbewijzen door naar de Dienst Wegverkeer.   
 6.  De termijn van ontzegging van de bevoegdheid tot het besturen van motorrijtuigen wordt van rechtswege verlengd met het aantal dagen dat is verstreken tussen het tijdstip waarop het rijbewijs ingevolge het vierde lid had moeten worden ingeleverd en het tijdstip waarop nadien die inlevering heeft plaatsgevonden.   
 7.  De termijn van de ontzegging wordt voorts verlengd met de tijd dat de veroordeelde gedurende de ontzegging rechtens zijn vrijheid is ontnomen.   
 8.  Voor de toepassing van het derde, vierde, vijfde en zesde lid wordt onder rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.   
@@ -3352,7 +3441,7 @@ a. binnen twee weken na daartoe door een der in artikel 159 bedoelde personen in
 
 b. uiterlijk op de dag vóór die der terechtzitting, schriftelijk en onder vermelding van de zaak en de dag der terechtzitting, de naam en het volledige adres van de bestuurder aan het openbaar ministerie bekend maakt;  
 
-c. tijdens de terechtzitting, dadelijk na de ondervraging, bedoeld in [artikel 273, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), de naam en het volledige adres van de bestuurder bekend maakt;  
+c. tijdens de terechtzitting, dadelijk na de ondervraging, bedoeld in artikel 273, eerste lid, van het Wetboek van Strafvordering, de naam en het volledige adres van de bestuurder bekend maakt;  
 
 d. niet heeft kunnen vaststellen wie de bestuurder was en hem daarvan redelijkerwijs geen verwijt kan worden gemaakt.     
 4.  Op straffe van nietigheid wijst de dagvaarding op het derde lid, onderdelen b en c. De strafbeschikking wijst de verdachte op de mogelijkheid bij het instellen van verzet gegevens te verstrekken die tot toepassing van het derde lid, onderdeel a of d, kunnen leiden.   
@@ -3371,7 +3460,7 @@ a. binnen twee weken na daartoe door een der in artikel 159 bedoelde personen in
 
 b. uiterlijk op de dag vóór die der terechtzitting, schriftelijk en onder vermelding van de zaak en de dag der terechtzitting, de naam en het volledige adres van de bestuurder dan wel van de eigenaar of houder van het motorrijtuig waarmee de aanhangwagen werd voortbewogen, aan het openbaar ministerie bekend maakt;  
 
-c. tijdens de terechtzitting, dadelijk na de ondervraging, bedoeld in [artikel 273, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), de naam en het volledige adres van de bestuurder dan wel van de eigenaar of houder van het motorrijtuig waarmee de aanhangwagen werd voortbewogen, bekend maakt;  
+c. tijdens de terechtzitting, dadelijk na de ondervraging, bedoeld in artikel 273, eerste lid, van het Wetboek van Strafvordering, de naam en het volledige adres van de bestuurder dan wel van de eigenaar of houder van het motorrijtuig waarmee de aanhangwagen werd voortbewogen, bekend maakt;  
 
 d. niet heeft kunnen vaststellen wie de bestuurder dan wel de eigenaar of houder van het motorrijtuig waarmee de aanhangwagen werd voortbewogen, was en hem daarvan redelijkerwijs geen verwijt kan worden gemaakt.     
 4.  Op straffe van nietigheid wijst de dagvaarding op het derde lid, onderdelen b en c. De strafbeschikking wijst de verdachte op de mogelijkheid bij het instellen van verzet gegevens te verstrekken die tot toepassing van het derde lid, onderdeel a of d, kunnen leiden.   
@@ -3382,7 +3471,7 @@ De artikelen 181 en 182 zijn mede van toepassing op de eigenaar of houder van ee
 
 ### Artikel  184  
 
-Bij overtreding van artikel 7, eerste lid, aanhef en onderdeel a, is strafvervolging tegen de in dat artikel bedoelde overtreder uitgesloten, indien deze binnen twaalf uren na het verkeersongeval en voordat hij als verdachte is aangehouden of verhoord, vrijwillig van het ongeval kennis geeft aan een van de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen en daarbij zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens de identiteit van dat motorrijtuig bekend maakt.  
+Bij overtreding van artikel 7, eerste lid, aanhef en onderdeel a, is strafvervolging tegen de in dat artikel bedoelde overtreder uitgesloten, indien deze binnen twaalf uren na het verkeersongeval en voordat hij als verdachte is aangehouden of verhoord, vrijwillig van het ongeval kennis geeft aan een van de in artikel 141 van het Wetboek van Strafvordering bedoelde personen en daarbij zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens de identiteit van dat motorrijtuig bekend maakt.  
 
 ### Hoofdstuk  XII  
 
@@ -3409,13 +3498,14 @@ b. de eisen ten aanzien van voertuigen waarmee over de weg wordt gereden of voer
 
 c. de eisen ten aanzien van rijvaardigheid en rijbevoegdheid;  
 
-d. de eisen ten aanzien van de vakbekwaamheid van bestuurders goederen- en personenvervoer over de weg.   Daarbij kan worden afgeweken van hoofdstuk II, paragraaf 2, hoofdstuk V, paragrafen 1 tot en met 6, hoofdstuk VI en hoofdstuk VIIA, paragraaf 2 van deze wet en van [hoofdstuk VI van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), alsmede van de krachtens die paragrafen of die hoofdstukken gestelde regels, een en ander met inachtneming van verdragen en van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk.   
+d. de eisen ten aanzien van de vakbekwaamheid van bestuurders goederen- en personenvervoer over de weg.   Daarbij kan worden afgeweken van hoofdstuk II, paragraaf 2, hoofdstuk V, paragrafen 1 tot en met 6, hoofdstuk VI en hoofdstuk VIIA, paragraaf 2 van deze wet en van hoofdstuk VI van de Wet geluidhinder, alsmede van de krachtens die paragrafen of die hoofdstukken gestelde regels, een en ander met inachtneming van verdragen en van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk.   
 2.  In de in het eerste lid bedoelde algemene maatregel van bestuur wordt in elk geval bepaald: 
 
 a. van welke van de in het eerste lid bedoelde bepalingen wordt afgeweken;  
 
 b. het resultaat dat met een experiment, als bedoeld in het eerste lid, wordt beoogd.     
 3.  Onze Minister zendt uiterlijk zes maanden voor de beëindiging van een experiment, als bedoeld in het eerste lid, een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting anders dan als experiment, aan de beide kamers der Staten-Generaal.   
+4.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat ten behoeve van de financiering van een in het eerste lid bedoeld experiment door de Dienst Wegverkeer een door deze dienst te bepalen tarief wordt geheven.   
 
 ### Artikel  186a  
 

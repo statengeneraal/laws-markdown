@@ -5,7 +5,7 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelend in overeenstemming met de Minister van Economische Zaken;
 
-Gelet op de [artikelen 7, tweede en vierde lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [7a](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [8, tweede lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [10, vijfde lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [20, vierde lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [84, tweede lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [85, tweede lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [87, zesde lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [91, tweede en vijfde lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [94, tweede en vierde lid](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [111, eerste lid, onderdeel b, en vierde lid, van het Besluit stralingsbescherming](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) en [artikel 19 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md);
+Gelet op de artikelen 7, tweede en vierde lid, 7a, 8, tweede lid, 10, vijfde lid, 20, vierde lid, 84, tweede lid, 85, tweede lid, 87, zesde lid, 91, tweede en vijfde lid, 94, tweede en vierde lid, 111, eerste lid, onderdeel b, en vierde lid, van het Besluit stralingsbescherming en artikel 19 van het Besluit kerninstallaties, splijtstoffen en ertsen;
 Besluit:     
 ### §  1  
 
@@ -19,17 +19,17 @@ In deze regeling wordt verstaan onder:
 
 – *beheerder:* de beheerder van het NDRIS, bedoeld in artikel 6;  
 
-– *besluit:*[Besluit stralingsbescherming](../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md);  
+– *besluit:*Besluit stralingsbescherming;  
 
-– *bewaakte zone:* een ruimte als bedoeld in [artikel 83, eerste lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);  
+– *bewaakte zone:* een ruimte als bedoeld in artikel 83, eerste lid, onderdeel b, van het besluit;  
 
-– *burgerservicenummer:* het burgerservicenummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+– *burgerservicenummer:* het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;  
 
 – *directeur:* de directeur Arbeidsomstandigheden van de Inspectie-SZW;  
 
 – *dosisgegevens:* gegevens die nodig zijn om de effectieve dosis of equivalente dosis van een werknemer vast te leggen;  
 
-– *gecontroleerde zone:* een ruimte als bedoeld in [artikel 83, eerste lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);  
+– *gecontroleerde zone:* een ruimte als bedoeld in artikel 83, eerste lid, onderdeel a, van het besluit;  
 
 – *NDRIS:* Nationaal Dosis Registratie- en Informatie Systeem;  
 
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 a. als bedrijfsarts is ingeschreven in het register van erkende sociaal geneeskundigen, dat wordt bijgehouden door de Registratie-commissie Geneeskundig Specialisten van de Koninklijke Nederlandse Maatschappij tot Bevordering der Geneeskunst;  
 
-b. in het bezit is van een diploma als bedoeld in [artikel 7f van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), betreffende de opleiding ioniserende straling niveau 3, van een diploma als bedoeld in [IX, eerste lid, tweede volzin, van het Besluit van 18 december 2012](../../../../../../AMvB/wijzigingsbesluit/besluit/stralingsbescherming/enz./(vereenvoudiging/etc/BWBR0032889/README.md), tot wijziging van het Besluit stralingsbescherming en enkele andere besluiten in verband met de vereenvoudiging van de wettelijke regels en de vermindering van administratieve lasten voor ondernemingen die met ioniserende straling werken en het herstel van enkele wetstechnische gebreken en leemten, Stb. 2013, 33, betreffende de opleiding ioniserende straling niveau 3 of van met inachtneming van [artikel 7a van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) aangetoonde kwalificaties; en  
+b. in het bezit is van een diploma als bedoeld in artikel 7f van het besluit, betreffende de opleiding ioniserende straling niveau 3, van een diploma als bedoeld in IX, eerste lid, tweede volzin, van het Besluit van 18 december 2012, tot wijziging van het Besluit stralingsbescherming en enkele andere besluiten in verband met de vereenvoudiging van de wettelijke regels en de vermindering van administratieve lasten voor ondernemingen die met ioniserende straling werken en het herstel van enkele wetstechnische gebreken en leemten, Stb. 2013, 33, betreffende de opleiding ioniserende straling niveau 3 of van met inachtneming van artikel 7a van het besluit aangetoonde kwalificaties; en  
 
 c. aantoont dat hij na het verkrijgen van het diploma of de kwalificaties, bedoeld in onderdeel c, de noodzakelijke kennis heeft bijgehouden, aan welke eis in ieder geval wordt voldaan indien de aanvrager na- of bijscholingsactiviteiten heeft gevolgd, zoals opgenomen in bijlage A, onderdeel I, bij deze regeling.     
 3.  De inschrijving geschiedt voor een periode van ten hoogste vijf jaar. Na afloop van die periode kan de inschrijving op aanvraag telkens met ten hoogste vijf jaar worden verlengd, indien de aanvrager aantoont dat hij: 
@@ -107,7 +107,7 @@ e. de dienst deelneemt aan periodieke nationale of internationale prestatie-onde
 
 ####Gegevens dosismeter
 
-1.  Een dosimetrische dienst verstrekt een ondernemer ten behoeve van een blootgestelde werknemer een dosismeter, opdat de ondernemer kan voldoen aan de verplichting, bedoeld in [artikel 87, eerste lid, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).   
+1.  Een dosimetrische dienst verstrekt een ondernemer ten behoeve van een blootgestelde werknemer een dosismeter, opdat de ondernemer kan voldoen aan de verplichting, bedoeld in artikel 87, eerste lid, van het besluit.   
 2.  Bij de eerste verstrekking van een dosismeter en bij elke belangrijke wijziging in het gebruik of de behandeling ervan, zorgt de dosimetrische dienst ervoor dat ten behoeve van de drager van de dosismeter een instructie beschikbaar wordt gesteld voor het gebruik en de behandeling ervan en dat de instructie te allen tijde opvraagbaar is voor de drager en ondernemer.   
 3.  De ondernemer betaalt de kosten voor de dienstverlening van de dosimetrische dienst.   
 4.  De ondernemer laat de blootgestelde werknemer de dosismeter gebruiken voor een periode van maximaal vijf weken.   
@@ -121,12 +121,12 @@ e. de dienst deelneemt aan periodieke nationale of internationale prestatie-onde
 
 ####Dosisregistratie in NDRIS
 
-1.  Het NDRIS is het dosisregistratiesysteem, bedoeld in [artikel 91, eerste lid, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).   
+1.  Het NDRIS is het dosisregistratiesysteem, bedoeld in artikel 91, eerste lid, van het besluit.   
 2.  Het NDRIS wordt beheerd door de Nuclear Research and Consultancy Group, locatie Arnhem.   
 3.  Het NDRIS is tevens het gecentraliseerde systeem voor de registratie van gegevens van Nederlandse externe werkers als bedoeld in artikel 4, tweede lid, van de Richtlijn van de Raad der Europese Gemeenschappen, nr. 90/641/Euratom van 4 december 1990 inzake de praktische bescherming van externe werkers die gevaar lopen aan ioniserende straling te worden blootgesteld tijdens hun werk in een gecontroleerde zone (PbEG L 349/21).   
 4.  Ten behoeve van de dosisregistratie bevat het NDRIS gegevens over de identiteit van de dosismeterdrager, waartoe in ieder geval behoren de naam met voorletters, de geboortedatum, het geslacht, het burgerservicenummer van de dosismeterdrager, de dosisgegevens per periode en cumulatief alsmede de naam en het adres van de ondernemer.   
 5.  De beheerder verwerkt de door een dosimetrische dienst aangeleverde dosisgegevens.   
-6.  De beheerder draagt zorg voor een zorgvuldig beheer van de in de [artikelen 87](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), [88](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) en [89 van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) genoemde gegevens. Tevens neemt hij de nodige maatregelen ter voorkoming van vervalsing, misbruik of onrechtmatige bewerking van het NDRIS.   
+6.  De beheerder draagt zorg voor een zorgvuldig beheer van de in de artikelen 87, 88 en 89 van het besluit genoemde gegevens. Tevens neemt hij de nodige maatregelen ter voorkoming van vervalsing, misbruik of onrechtmatige bewerking van het NDRIS.   
 7.  De beheerder wijzigt de dosisgegevens slechts op verzoek van de directeur. Deze wijziging vindt plaats overeenkomstig een protocol, waarvan het model is opgenomen in bijlage C bij deze regeling.   
 8.  De beheerder rapporteert jaarlijks aan de Minister van Sociale Zaken en Werkgelegenheid en de erkende dosimetrische dienst, bedoeld in artikel 3, over zijn werkzaamheden uit hoofde van deze regeling in de vorm van een jaarverslag.   
 
@@ -138,7 +138,7 @@ e. de dienst deelneemt aan periodieke nationale of internationale prestatie-onde
 
 ####Model
 
-Als model van het stralingspaspoort, bedoeld in [artikel 94 van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), wordt vastgesteld het model, zoals opgenomen in bijlage D bij deze regeling.  
+Als model van het stralingspaspoort, bedoeld in artikel 94 van het besluit, wordt vastgesteld het model, zoals opgenomen in bijlage D bij deze regeling.  
 
 ### Artikel  8  
 
@@ -171,7 +171,7 @@ Als model van het stralingspaspoort, bedoeld in [artikel 94 van het besluit](../
 
 ####Methode bepaling dosis
 
-1.  De methode, bedoeld in [artikel 111, eerste lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), voor de bepaling van de ontvangen effectieve dosis bestaat uit het bij elkaar brengen van de individuele relevante vluchtgegevens van de in dat artikel bedoelde werknemer en de op die werknemer betrekking hebbende dosisberekening met het in het derde lid genoemde computerprogramma.   
+1.  De methode, bedoeld in artikel 111, eerste lid, onderdeel b, van het besluit, voor de bepaling van de ontvangen effectieve dosis bestaat uit het bij elkaar brengen van de individuele relevante vluchtgegevens van de in dat artikel bedoelde werknemer en de op die werknemer betrekking hebbende dosisberekening met het in het derde lid genoemde computerprogramma.   
 2.  De individuele relevante vluchtgegevens worden volgens een schriftelijk vastgelegd protocol verzameld onder verantwoordelijkheid van de in het vijfde lid genoemde deskundige.   
 3.  De dosisberekening wordt uitgevoerd met behulp van het computer-programma CARI-6/6M, uitgegeven door de Federal Aviation Administration.   
 4.  De bepaling van de blootstelling geschiedt zodanig dat op een later tijdstip de juistheid van de resultaten kan worden nagegaan.   
@@ -186,9 +186,9 @@ Als model van het stralingspaspoort, bedoeld in [artikel 94 van het besluit](../
 
 ####Waarschuwingsborden
 
-1.  Het model voor het waarschuwingsbord, dat in de in [artikel 20, eerste lid, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bedoelde situaties wordt aangebracht, is het bord, bedoeld in [bijlage XVIII, onderdeel 2, van de Arbeidsomstandighedenregeling](../../../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md), dat waarschuwt voor de aanwezigheid van radioactieve stoffen of ioniserende straling.   
+1.  Het model voor het waarschuwingsbord, dat in de in artikel 20, eerste lid, van het besluit bedoelde situaties wordt aangebracht, is het bord, bedoeld in bijlage XVIII, onderdeel 2, van de Arbeidsomstandighedenregeling, dat waarschuwt voor de aanwezigheid van radioactieve stoffen of ioniserende straling.   
 2.  Het bord, bedoeld in het eerste lid, is minimaal 7,5 cm breed, tenzij dit in de situatie waarin het moet worden aangebracht niet redelijk is.   
-3.  Voor de plaatsing van het waarschuwingsbord, bedoeld in het eerste lid, is [artikel 8.11 van de Arbeidsomstandighedenregeling](../../../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) van overeenkomstige toepassing.   
+3.  Voor de plaatsing van het waarschuwingsbord, bedoeld in het eerste lid, is artikel 8.11 van de Arbeidsomstandighedenregeling van overeenkomstige toepassing.   
 
 ### Artikel  13  
 
@@ -222,7 +222,7 @@ d. ‘GECONTROLEERDE ZONE’, indien het een gecontroleerde zone betreft.
 
 ####Verbodsbord gecontroleerde zone
 
-1.  Indien er geen feitelijke toegangsbeperking tot een gecontroleerde zone is, wordt onverminderd artikel 12, eerste lid, bij de ingang van deze zone een verbodsbord geplaatst overeenkomstig het model, zoals opgenomen in [bijlage XVIII, onderdeel 1, van de Arbeidsomstandighedenregeling](../../../../../../ministeriele-regeling/arbeidsomstandighedenregeling/BWBR0008587/README.md) voor gebruik in de situatie van een verbod van toegang voor onbevoegden.   
+1.  Indien er geen feitelijke toegangsbeperking tot een gecontroleerde zone is, wordt onverminderd artikel 12, eerste lid, bij de ingang van deze zone een verbodsbord geplaatst overeenkomstig het model, zoals opgenomen in bijlage XVIII, onderdeel 1, van de Arbeidsomstandighedenregeling voor gebruik in de situatie van een verbod van toegang voor onbevoegden.   
 2.  Onder of naast het in het verbodsbord, bedoeld in het eerste lid, bevindt zich een wit, rechthoekig bord met een zwarte rand met daarop in het zwart de tekst: geen toegang voor onbevoegden.   
 3.  Artikel 12, tweede lid, is van overeenkomstige toepassing op de in het eerste en tweede lid bedoelde borden.   
 
@@ -252,7 +252,7 @@ c. een evaluatie van het risico.
 
 ####Overgangsbepaling certificatie erkende dosimetrische diensten
 
-De verplichting tot certificatie, bedoeld in artikel 4, eerste lid, onderdeel c, geldt voor een op 1 januari 2014 erkende dosimetrische dienst, bedoeld in [artikel 8, eerste lid, van het besluit](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), vanaf 1 januari 2016.  
+De verplichting tot certificatie, bedoeld in artikel 4, eerste lid, onderdeel c, geldt voor een op 1 januari 2014 erkende dosimetrische dienst, bedoeld in artikel 8, eerste lid, van het besluit, vanaf 1 januari 2016.  
 
 ### Artikel  18  
 
@@ -264,8 +264,8 @@ In afwijking van artikel 6, vierde lid, bevat het NDRIS slechts het burgerservic
 
 ####Intrekking regelingen
 
-1.  De [Regeling voorzieningen stralingsbescherming werknemers](../../../../../../ministeriele-regeling/regeling/voorzieningen/stralingsbescherming/werknemers/BWBR0013444/README.md) wordt ingetrokken.   
-2.  De [Regeling waarschuwingssignalering ioniserende straling](../../../../../../ministeriele-regeling/regeling/waarschuwingssignalering/ioniserende/straling/BWBR0013468/README.md) wordt ingetrokken.   
+1.  De Regeling voorzieningen stralingsbescherming werknemers wordt ingetrokken.   
+2.  De Regeling waarschuwingssignalering ioniserende straling wordt ingetrokken.   
 
 ### Artikel  20  
 
@@ -327,7 +327,7 @@ Bij de rapportage wordt de volgende informatie verstrekt:
 
 ####Protocol wijzigen dosisgegevens
 
-Er zijn onvoorziene omstandigheden denkbaar waarbij de dosis bepaald met de persoonsdosismeters, de effectieve dosis niet juist weerspiegelt. De ondernemer is verplicht in dergelijke gevallen een verzoek in te dienen om de in NDRIS geregistreerde dosis te laten wijzigen overeenkomstig de in het bijbehorende schema beschreven procedure. In geval er bij de uitlezing van de persoonsdosismeter sprake is van een fout van technische aard, waardoor de dosismeteruitslag onjuist is, kan de dosismetrische dienst zonder tussenkomst van de Inspectie SZW via de beheerder van het NDRIS tot wijziging van de dosisgegevens overgaan. De hier beschreven procedure is dan niet van toepassing.   ![252671](http://wetten.overheid.nl/Illustration/252671)
+Er zijn onvoorziene omstandigheden denkbaar waarbij de dosis bepaald met de persoonsdosismeters, de effectieve dosis niet juist weerspiegelt. De ondernemer is verplicht in dergelijke gevallen een verzoek in te dienen om de in NDRIS geregistreerde dosis te laten wijzigen overeenkomstig de in het bijbehorende schema beschreven procedure. In geval er bij de uitlezing van de persoonsdosismeter sprake is van een fout van technische aard, waardoor de dosismeteruitslag onjuist is, kan de dosismetrische dienst zonder tussenkomst van de Inspectie SZW via de beheerder van het NDRIS tot wijziging van de dosisgegevens overgaan. De hier beschreven procedure is dan niet van toepassing.   ![]()
 *Schema Wijziging dosisgegevens in het NDRIS*    
 
 ### Bijlage  D  
@@ -336,9 +336,9 @@ Er zijn onvoorziene omstandigheden denkbaar waarbij de dosis bepaald met de pers
 
 ####Model stralingspaspoort
 
-![252674](http://wetten.overheid.nl/Illustration/252674)
-![252674](http://wetten.overheid.nl/Illustration/252674)
-![252674](http://wetten.overheid.nl/Illustration/252674)
+![]()
+![]()
+![]()
 
 ### Bijlage  E  
 

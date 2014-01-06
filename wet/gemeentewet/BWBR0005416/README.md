@@ -24,7 +24,7 @@ In deze wet wordt verstaan onder ingezetenen: zij die hun werkelijke woonplaats 
 
 ### Artikel  3  
 
-Zij die als ingezetene met een adres zijn ingeschreven in de gemeentelijke basisadministratie persoonsgegevens van een gemeente, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in die gemeente.  
+Zij die als ingezetene met een adres in een gemeente zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in die gemeente.  
 
 ### Artikel  4  
 
@@ -74,9 +74,9 @@ De burgemeester is voorzitter van de raad.
 1.  Voor het lidmaatschap van de raad is vereist dat men ingezetene van de gemeente is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.   
 2.  Zij die geen onderdaan van een lidstaat van de Europese Unie zijn, dienen tevens te voldoen aan de vereisten dat: 
 
-a. zij rechtmatig in Nederland verblijven op grond van [artikel 8, onder a, b, d, e of l, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of op grond van een overeenkomst tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en  
+a. zij rechtmatig in Nederland verblijven op grond van [artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en  
 
-b. zij onmiddellijk voorafgaand aan de dag waarop de gemeenteraad beslist over de toelating als lid tot de gemeenteraad gedurende een onafgebroken periode van ten minste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig in Nederland verbleven op grond van [artikel 8, onder c, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
+b. zij onmiddellijk voorafgaand aan de dag waarop de gemeenteraad beslist over de toelating als lid tot de gemeenteraad gedurende een onafgebroken periode van ten minste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig in Nederland verbleven op grond van [artikel 3](../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of [artikel 6 van de Wet toelating en uitzetting BES](../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).     
 3.  Geen lid van de raad kunnen zijn zij die geen Nederlander zijn, en als door andere staten uitgezonden leden van diplomatieke of consulaire vertegenwoordigingen, in Nederland werkzaam zijn, alsmede hun niet-Nederlandse echtgenoten, geregistreerde partners of levensgezellen en kinderen, voor zover dezen met hen een gemeenschappelijke huishouding voeren.   
 
 ### Artikel  11  
@@ -1480,14 +1480,10 @@ Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen rege
 
 ### Artikel  139  
 
-1.  Besluiten van het gemeentebestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt.   
-2.  De bekendmaking geschiedt: 
-
-a. door plaatsing in het op een algemeen toegankelijke wijze uit te geven gemeenteblad;  
-
-b. bij gebreke van een gemeenteblad, door terinzagelegging voor de tijd van twaalf weken op het gemeentehuis of op een andere door het college te bepalen plaats en door het doen van mededeling daarvan in een plaatselijk verschijnend dag-, nieuws- of huis-aan-huisblad.     
-3.  Het gemeenteblad kan elektronisch worden uitgegeven. Na de uitgifte blijft het gemeenteblad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte geheel of gedeeltelijk onmogelijk is, voorziet het gemeentebestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
-4.  Voor het inzien van een overeenkomstig het tweede lid bekendgemaakt besluit worden geen kosten in rekening gebracht.   
+1.  Besluiten van het gemeentebestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt in het gemeenteblad.   
+2.  De uitgifte van het gemeenteblad geschiedt elektronisch op een algemeen toegankelijke wijze. Na de uitgifte blijft het gemeenteblad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte geheel of gedeeltelijk onmogelijk is, voorziet het gemeentebestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
+3.  In afwijking van het eerste lid kan een besluit als bedoeld in dat lid bepalen dat een bij het besluit behorende bijlage wordt bekendgemaakt door terinzagelegging.   
+4.  Voor het inzien van een overeenkomstig het eerste lid bekendgemaakt besluit worden geen kosten in rekening gebracht.   
 5.  Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt de dagtekening vermeld van het besluit waarbij die goedkeuring is verleend of wordt de mededeling gedaan van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een besluit tot goedkeuring wordt geacht te zijn genomen.   
 
 ### Artikel  140  
@@ -1645,7 +1641,7 @@ b. de bij algemene maatregel van bestuur bepaalde voorschriften die op grond van
 
 ### Artikel  154e  
 
-De beschikking tot oplegging van de bestuurlijke boete wordt gezonden naar het adres dat de overtreder heeft opgegeven. Indien de beschikking onbestelbaar blijkt te zijn, wordt deze gezonden naar het in de basisregistratie laatst vermelde adres, tenzij dit hetzelfde is als het opgegeven adres. Indien de beschikking op het in de basisadministratie persoonsgegevens vermelde adres onbestelbaar blijkt te zijn, wordt de beschikking geacht aan de overtreder bekend te zijn.  
+De beschikking tot oplegging van de bestuurlijke boete wordt gezonden naar het adres dat de overtreder heeft opgegeven. Indien de beschikking onbestelbaar blijkt te zijn, wordt deze gezonden naar het adres waarop betrokkene in de basisregistratie personen is ingeschreven, tenzij dit hetzelfde is als het opgegeven adres. Indien de beschikking op het in de basisregistratie personen vermelde adres onbestelbaar blijkt te zijn, wordt de beschikking geacht aan de overtreder bekend te zijn.  
 
 ### Artikel  154k  
 
@@ -1997,7 +1993,7 @@ b. door het college aan derden te verstrekken informatie op basis van de begroti
 4.  De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de artikelen 191, tweede lid, en 200. [Artikel 17a, vierde lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is van overeenkomstige toepassing.   
 5.  Indien Onze Minister vaststelt dat de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, doet hij daarvan mededeling aan het betrokken college.   
 6.  Het college kan tot twee weken voor het verstrijken van de termijnen, bedoeld in het vierde lid, schriftelijk en met redenen omkleed, aan Onze Minister verzoeken om uitstel voor de toezending van de informatie. Onze Minister beslist binnen twee weken op dat verzoek.   
-7.  Indien de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, geeft Onze Minister een aanwijzing aan het college om binnen een maand alsnog informatie van voldoende kwaliteit te leveren.   
+7.  Indien de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, geeft Onze Minister een aanwijzing aan het college om binnen tien werkdagen alsnog informatie van voldoende kwaliteit te leveren.   
 8.  Indien het college nalaat de aanwijzing, bedoeld in het zevende lid, op te volgen, kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën besluiten de betalingen op grond van [artikel 15, eerste lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de betreffende gemeente geheel of gedeeltelijk op te schorten gedurende ten hoogste zesentwintig weken. [Artikel 17b, vierde, vijfde en zesde lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  187  
@@ -2322,7 +2318,7 @@ b. een belasting van degenen die bij het begin van het kalenderjaar van de ruimt
 
 ### Artikel  224  
 
-1.  Ter zake van het houden van verblijf binnen de gemeente door personen die niet als ingezetene in de gemeentelijke basisadministratie persoonsgegevens zijn ingeschreven, kan een toeristenbelasting worden geheven.   
+1.  Ter zake van het houden van verblijf binnen de gemeente door personen die niet als ingezetene met een adres in de gemeente in de basisregistratie personen zijn ingeschreven, kan een toeristenbelasting worden geheven.   
 2.  Voor zover de belasting wordt geheven van degene die gelegenheid tot verblijf biedt, is deze bevoegd de belasting als zodanig te verhalen op degene ter zake van wiens verblijf de belasting verschuldigd wordt.   
 
 ### Artikel  225  
@@ -2775,7 +2771,7 @@ E. M. H. Hirsch Ballin
 
 3. [Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md).  
 
-4. [Wet gemeentelijke basisadministratie persoonsgegevens](../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).  
+4. [hoofdstukken 1](../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [4 van de Wet basisregistratie personen](../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  
 
 5. [Kieswet](../../../wet/kieswet/BWBR0004627/README.md).    
 

@@ -38,7 +38,7 @@ Afwijken van de richtlijn is mogelijk, maar zal dan gemotiveerd moeten worden.
 
 | --- | --- |
 |:---|:---|
-| eerstpleger:  | Dagvaarden  Eis ter zitting *minimaal € 750*  |
+| eerstpleger:  | Dagvaarden  Eis ter zitting *minimaal € 750*   |
 | recidive (binnen vijf jaar)  | --- |
 | eenmaal:  | Dagvaarden  Eis ter zitting *+ 50%,* één week hechtenis voorwaardelijk, proeftijd 2 jaar  |
 | meermalen:  | Dagvaarden  Eis ter zitting *+ 100%,* één week hechtenis onvoorwaardelijk + tenuitvoerlegging van een evt. eerder opgelegde voorwaardelijke hechtenis  |
@@ -53,11 +53,11 @@ Afwijken van de richtlijn is mogelijk, maar zal dan gemotiveerd moeten worden.
 
 | --- | --- |
 |:---|:---|
-| eerstpleger:  | Transactie *€ 100 per kind per dag*  maximum eerste week *€ 600 (per gezin)*  maximum bij twee weken *€ 900 (per gezin)*  |
+| eerstpleger:  | Transactie* € 100 per kind per dag*   maximum eerste week * € 600 (per gezin)*   maximum bij twee weken *€ 900 (per gezin)*   |
 | --- | Dagvaarden  – indien transactie niet is betaald, Eis ter zitting *20%* boven het transactiebedrag  – indien langer is verzuimd dan twee weken.  |
 | recidive (binnen vijf jaar)  | --- |
-| eenmaal:  | Dagvaarden  Eis ter zitting *+ 50% per kind per dag*  maximum eerste week *€ 900 (per gezin)*  maximum bij twee weken *€ 1.200 (per gezin)*  in ernstige gevallen voorwaardelijke hechtenis met proeftijd twee jaar  |
-| meermalen:  | Dagvaarden  Eis ter zitting *+ 100%* per kind per dag  maximum eerste week *€ 1.200 (per gezin)*  maximum bij twee weken *€ 1.800 (per gezin)*  in ernstige gevallen onvoorwaardelijke hechtenis  |
+| eenmaal:  | Dagvaarden  Eis ter zitting *+ 50% per kind per dag*   maximum eerste week *€ 900 (per gezin)*   maximum bij twee weken *€ 1.200 (per gezin)*   in ernstige gevallen voorwaardelijke hechtenis met proeftijd twee jaar  |
+| meermalen:  | Dagvaarden  Eis ter zitting *+ 100%* per kind per dag  maximum eerste week *€ 1.200 (per gezin)*   maximum bij twee weken *€ 1.800 (per gezin)*   in ernstige gevallen onvoorwaardelijke hechtenis  |
 
 ### 4.2  
 
@@ -69,7 +69,7 @@ Afwijken van de richtlijn is mogelijk, maar zal dan gemotiveerd moeten worden.
 
 | --- | --- |
 |:---|:---|
-| beginnend verzuim tot maximaal 10 dagen  | t.a.v. *minderjarige/leerplichtige > 12 jaar:* Halt-afdoening  |
+| beginnend verzuim tot maximaal 10 dagen  | t.a.v. *minderjarige/leerplichtige > 12 jaar: *Halt-afdoening  |
 
 ### B  
 
@@ -77,7 +77,7 @@ Afwijken van de richtlijn is mogelijk, maar zal dan gemotiveerd moeten worden.
 
 | --- | --- |
 |:---|:---|
-| eerste proces-verbaal:  | t.a.v. *ouder/verzorger*: Dagvaarden  Eis ter zitting *minimaal € 250* t.a.v. minderjarige leerplichtige:  – werkstraf of leerstraf tot maximaal 40 uur  – maatregel hulp en steun voor 6 maanden  – geldboete indien jongere werk of inkomsten heeft.  Uitdrukkelijk wordt in overweging gegeven bij verbetering van de situatie de kantonrechter te verzoeken de zaak aan te houden of een voorwaardelijke straf op te leggen, teneinde aldus druk op de ketel te houden.  |
+| eerste proces-verbaal:  | t.a.v. *ouder/verzorger*: Dagvaarden  Eis ter zitting *minimaal € 250 *t.a.v. minderjarige leerplichtige:  – werkstraf of leerstraf tot maximaal 40 uur  – maatregel hulp en steun voor 6 maanden  – geldboete indien jongere werk of inkomsten heeft.  Uitdrukkelijk wordt in overweging gegeven bij verbetering van de situatie de kantonrechter te verzoeken de zaak aan te houden of een voorwaardelijke straf op te leggen, teneinde aldus druk op de ketel te houden.  |
 | recidive (binnen vijf jaar)  | --- |
 | eenmaal:  | t.a.v. *ouder/verzorger*: Dagvaarden  Eis ter zitting minimaal *+ 50%* en voorwaardelijke hechtenis met proeftijd twee jaar  t.a.v. *minderjarige/leerplichtige > 12 jaar*:  – werk of leerstraf tot maximaal 80 uur,  – begeleiding door de jeugdreclassering.  Vanwege achterliggende problematiek kan het nodig zijn erkende interventies, zoals MST (Multi System Therapy) of FFT (Functional Family Therapy) in te zetten via de maatregel Jeugdreclassering.  – indien de jongere werk of inkomsten heeft, geldboete (transactie)  |
 | meermalen:  | t.a.v. *ouder/verzorger*: Dagvaarden  Eis ter zitting minimaal *+ 100%* en onvoorwaardelijke hechtenis  |

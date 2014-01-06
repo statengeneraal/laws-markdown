@@ -15,13 +15,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-* *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;.  
+*  *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;.  
 
-* *wet:*[Wet studiefinanciering BES](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md);  
+*  *wet:* [Wet studiefinanciering BES](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md);  
 
-* *WHW:*[Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+*  *WHW:* [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-* *WEB BES:*[Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).    
+*  *WEB BES:* [Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -40,7 +40,7 @@ b. de studielast van de opleiding levert een dagtaak op;
 c. het niveau en de kwaliteit van de opleiding zijn vergelijkbaar met overeenkomstige opleidingen in de zin van de [WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en de [WEB BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
 
 d. het niveau van het afsluitend examen is vergelijkbaar met een afsluitend examen van een opleiding in de zin van de [WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en de [WEB BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).     
-2.  De Minister stelt vast of een opleiding voldoet aan de criteria, bedoeld in het eerste lid, en of de opleiding wordt aangemerkt als een opleiding niveau 1 of 2, een opleiding niveau 3 of 4 of een opleiding in het hoger onderwijs.   
+2.  De Minister stelt vast of een opleiding voldoet aan de criteria, bedoeld in het eerste lid, en of de opleiding wordt aangemerkt als een opleiding niveau 1 of 2, een opleiding niveau 3 of 4 of een opleiding in het hoger onderwijs.  
 
 ### Hoofdstuk  3  
 
@@ -50,14 +50,14 @@ d. het niveau van het afsluitend examen is vergelijkbaar met een afsluitend exam
 
 ####Formulieren en verzending
 
-Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de studerende, diens partner of diens ouders, verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.  
+Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de studerende, diens partner of diens ouders, verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren. 
 
 ### Artikel  3.2  
 
 ####Aanvraagprocedure
 
 1.  In de aanvraag om toekenning van studiefinanciering BES of een opstarttoelage worden een prestatiebeurs, een lening of beide aangevraagd.   
-2.  Een aanvraag om toekenning van studiefinanciering BES of een opstarttoelage wordt door de aanvrager ondertekend.   
+2.  Een aanvraag om toekenning van studiefinanciering BES of een opstarttoelage wordt door de aanvrager ondertekend.  
 
 ### Hoofdstuk  4  
 
@@ -70,13 +70,13 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een ops
 1.  Op aanvraag van de debiteur kan de terugbetaling, bedoeld in [artikel 4.7, tweede lid, van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), worden opgeschort met een of meer aflosvrije periodes.   
 2.  Een aflosvrije periode beslaat minimaal drie kalendermaanden.   
 3.  De debiteur dient een aanvraag om opschorting in uiterlijk 1 maand voor de datum waarop de aflosvrije periode in moet gaan.   
-4.  Voor elke aflosvrije periode wordt een nieuwe aanvraag ingediend bij de Minister.   
+4.  Voor elke aflosvrije periode wordt een nieuwe aanvraag ingediend bij de Minister.  
 
 ### Artikel  4.2  
 
 ####Wijze van terugbetaling
 
-De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), geschiedt in maandelijkse termijnen door middel van een daartoe door de debiteur verleende doorlopende machtiging om het verschuldigde bedrag maandelijks te doen afschrijven van een bankrekening van de debiteur.  
+De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), geschiedt in maandelijkse termijnen door middel van een daartoe door de debiteur verleende doorlopende machtiging om het verschuldigde bedrag maandelijks te doen afschrijven van een bankrekening van de debiteur. 
 
 ### Hoofdstuk  5  
 
@@ -94,13 +94,13 @@ De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 va
 6.  In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van artikel 5.2 aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.   
 7.  Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het negende lid.   
 8.  Voor de berekening van de rente op de voet van het zevende lid wordt een maand gesteld op 30 dagen en een jaar gesteld op 360 dagen.   
-9.  Indien een, met inachtneming van het zesde en zevende lid berekende, termijn niet op de vervaldatum is ontvangen, vervalt de in het zesde lid bedoelde toestemming. Het nog niet door de betaling van het in de reeds betaalde maandelijkse termijnen begrepen bedrag aan aflossing op het in het vijfde lid bedoelde bedrag, vermeerderd met het verschuldigde bedrag aan wettelijke rente, wordt op eerste vordering binnen 14 dagen door de debiteur geheel voldaan.   
+9.  Indien een, met inachtneming van het zesde en zevende lid berekende, termijn niet op de vervaldatum is ontvangen, vervalt de in het zesde lid bedoelde toestemming. Het nog niet door de betaling van het in de reeds betaalde maandelijkse termijnen begrepen bedrag aan aflossing op het in het vijfde lid bedoelde bedrag, vermeerderd met het verschuldigde bedrag aan wettelijke rente, wordt op eerste vordering binnen 14 dagen door de debiteur geheel voldaan.  
 
 ### Artikel  5.2  
 
 ####Aanpassing
 
-Aanpassing van het bedrag, bedoeld in artikel 5.1, derde lid, geschiedt overeenkomstig [artikel 8.1 van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md).  
+Aanpassing van het bedrag, bedoeld in artikel 5.1, derde lid, geschiedt overeenkomstig [artikel 8.1 van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md). 
 
 ### Hoofdstuk  6  
 
@@ -110,7 +110,7 @@ Aanpassing van het bedrag, bedoeld in artikel 5.1, derde lid, geschiedt overeenk
 
 ####Verstrekken inlichtingen
 
-De inlichtingen, bedoeld in [artikel 7.2 van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), worden op verzoek verstrekt op de bij dat verzoek aangegeven wijze.  
+De inlichtingen, bedoeld in [artikel 7.2 van de wet](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), worden op verzoek verstrekt op de bij dat verzoek aangegeven wijze. 
 
 ### Hoofdstuk  7  
 
@@ -120,15 +120,15 @@ De inlichtingen, bedoeld in [artikel 7.2 van de wet](../../../../../wet-BES/wet/
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang 1 augustus 2011.  
+Deze regeling treedt in werking met ingang 1 augustus 2011. 
 
 ### Artikel  7.2  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling studiefinanciering BES.  
+Deze regeling wordt aangehaald als: Regeling studiefinanciering BES. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-H.Zijlstra   
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+H. Zijlstra     

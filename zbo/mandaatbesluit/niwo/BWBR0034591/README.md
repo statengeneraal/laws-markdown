@@ -12,23 +12,23 @@ Besluit:
 
 In deze Mandaatbesluit wordt verstaan onder: 
 
-a. *Besluit:* besluit als bedoeld in [artikel 1:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb);  
+a.  *Besluit:* besluit als bedoeld in [artikel 1:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb);  
 
-b. *Bibob-advies:* het advies, bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (Wet Bibob);  
+b.  *Bibob-advies:* het advies, bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (Wet Bibob);  
 
-c. *Bureau Bibob:* het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+c.  *Bureau Bibob:* het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
 
-d. *Communautaire vergunning:* vergunning als bedoeld in artikel 2, zesde lid, van verordening (EG) nr. 1071/2009;  
+d.  *Communautaire vergunning:* vergunning als bedoeld in artikel 2, zesde lid, van verordening (EG) nr. 1071/2009;  
 
-e. *Directeur:* orgaan van de NIWO als bedoeld in artikel 3, eerste lid van de Statuten;  
+e.  *Directeur:* orgaan van de NIWO als bedoeld in artikel 3, eerste lid van de Statuten;  
 
-f. *Mandaat:* de bevoegdheid als bedoeld in [artikel 10:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (AWB) (de bevoegdheid om in naam van een bestuursorgaan besluiten te nemen. Onder besluit dient ingevolge de [AWB](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) te worden verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling);  
+f.  *Mandaat:* de bevoegdheid als bedoeld in [artikel 10:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (AWB) (de bevoegdheid om in naam van een bestuursorgaan besluiten te nemen. Onder besluit dient ingevolge de [AWB](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) te worden verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling);  
 
-g. *Statuten:* Statuten van de NIWO van 8 juli 2009.    
+g.  *Statuten:* Statuten van de NIWO van 8 juli 2009.   
 
 ### Artikel  2  
 
-De aan de CVB, bij artikel 6, tweede lid, onder 1 van de Statuten, verleende bevoegdheden worden ten aanzien van bepaalde onderdelen van de taken van de NIWO gemandateerd aan de Directeur.  
+De aan de CVB, bij artikel 6, tweede lid, onder 1 van de Statuten, verleende bevoegdheden worden ten aanzien van bepaalde onderdelen van de taken van de NIWO gemandateerd aan de Directeur. 
 
 ### Artikel  3  
 
@@ -43,19 +43,19 @@ c. Afwijzingen van aanvragen voor een communautaire vergunning of een verlenging
 
 d. Aanvragen van een Bibob-advies bij Bureau Bibob.  
 
-e. Aanvragen voor een communautaire vergunning waarbij sprake is van een inwilliging en waarbij beroep wordt gedaan op de vrijstelling van de eis van vakbekwaamheid als bedoeld in [artikel 6 van de Beleidsregel vergunningverlening van de NIWO](../../../../zbo/beleidsregel/vergunningverlening/van/de/niwo/BWBR0033642/README.md).     
+e. Aanvragen voor een communautaire vergunning waarbij sprake is van een inwilliging en waarbij beroep wordt gedaan op de vrijstelling van de eis van vakbekwaamheid als bedoeld in [artikel 6 van de Beleidsregel vergunningverlening van de NIWO](../../../../zbo/beleidsregel/vergunningverlening/van/de/niwo/BWBR0033642/README.md).    
 
 ### Artikel  4  
 
-De schriftelijke bescheiden ten behoeve van de uitvoering van dit mandaatbesluit die door de Directeur worden afgedaan en ondertekend, vermelden aan het slot:  *De Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO),*   *namens deze:*   *gevolgd door functieaanduiding, handtekening en naam van de Directeur.*   
+De schriftelijke bescheiden ten behoeve van de uitvoering van dit mandaatbesluit die door de Directeur worden afgedaan en ondertekend, vermelden aan het slot:  *De Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO),*   *namens deze:*   *gevolgd door functieaanduiding, handtekening en naam van de Directeur.*  
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit NIWO.  
+Dit besluit wordt aangehaald als: Mandaatbesluit NIWO. 
 
 ### Artikel  6  
 
-Dit besluit zal worden gepubliceerd in de Staatscourant en treedt in werking per 1 januari 2014.  
+Dit besluit zal worden gepubliceerd in de Staatscourant en treedt in werking per 1 januari 2014. 
 
 Rijswijk 
 11 december 2013   

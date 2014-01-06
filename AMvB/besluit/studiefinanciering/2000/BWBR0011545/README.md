@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 16 juni 2000, nr. 2000/23 732 (1707), directie Wetgeving en Juridische Zaken;
 
-Gelet op de [artikelen 1.1, eerste lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [2.2, onderdeel c](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [2.11](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [3.3, tweede lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [3.14, derde lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [8.1, eerste lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [8.2, tweede lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [9.6](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [10.6, zevende lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [11.1](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [11.6](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en [11.7 van de Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);
+Gelet op de artikelen 1.1, eerste lid, 2.2, onderdeel c, 2.11, 3.3, tweede lid, 3.14, derde lid, 8.1, eerste lid, 8.2, tweede lid, 9.6, 10.6, zevende lid, 11.1, 11.6 en 11.7 van de Wet studiefinanciering 2000;
 
 De Raad van State gehoord (advies van 13 juli 2000, nr. W05.00.0236/III);
 
@@ -20,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-1.  In dit besluit wordt verstaan onder: *aflosfase*: aflosfase, bedoeld in [artikel 6.7 van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), *familielid*: familielid als bedoeld in richtlijn 2004/38/EG, *richtlijn 2004/38/EG:* richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU L 158), en *wet*: [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  In hoofdstuk 3a van dit besluit wordt verstaan onder *aanvullende beurs*: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
+1.  In dit besluit wordt verstaan onder: *aflosfase*: aflosfase, bedoeld in artikel 6.7 van de wet, *familielid*: familielid als bedoeld in richtlijn 2004/38/EG, *richtlijn 2004/38/EG:* richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU L 158), en *wet*: Wet studiefinanciering 2000.   
+2.  In hoofdstuk 3a van dit besluit wordt verstaan onder *aanvullende beurs*: toegekende en uitbetaalde aanvullende beurs als bedoeld in artikel 6.2, tweede lid, van de wet.   
 3.  Een wijziging van richtlijn 2004/38/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
 
 ### Artikel  2  
 
-Onder «belastbaar minimumloon», bedoeld in [artikel 1.1, eerste lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), wordt verstaan: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie ingevolge [artikel 25, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en vermeerderd met de vergoeding ingevolge [artikel 46, eerste lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) over dat loon.  
+Onder «belastbaar minimumloon», bedoeld in artikel 1.1, eerste lid, van de wet, wordt verstaan: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie ingevolge artikel 25, tweede lid, van de Wet financiering sociale verzekeringen en vermeerderd met de vergoeding ingevolge artikel 46, eerste lid, van de Zorgverzekeringswet over dat loon.  
 
 ### Hoofdstuk  2  
 
@@ -38,31 +38,25 @@ Onder «belastbaar minimumloon», bedoeld in [artikel 1.1, eerste lid, van de we
 
 1.  Met een Nederlander wordt gelijkgesteld de vreemdeling die in Nederland rechtmatig verblijf heeft: 
 
-a. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking: 
+a. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14, van de Vreemdelingenwet 2000, onder de beperking: 
 
-1°. verband houdende met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) met een Nederlander of met een vreemdeling als bedoeld in de onderdelen a of b van dit artikel of hiermee verband houdend voortgezet verblijf,  
+1°. verband houdende met verblijf als familie- of gezinslid van een Nederlander of van een vreemdeling als bedoeld in de onderdelen a of b van dit artikel of hiermee verband houdende niet-tijdelijke humanitaire gronden,  
 
-2°. verblijf als alleenstaande minderjarige vreemdeling of hiermee verband houdend voortgezet verblijf,  
+2°. verband houdend met tijdelijke humanitaire gronden of hiermee verband houdende niet-tijdelijke humanitaire gronden,  
 
-3°. verblijf ter adoptie of als pleegkind of hiermee verband houdend voortgezet verblijf,  
+3°. anders dan genoemd in artikel 3.4, eerste lid, Vreemdelingenbesluit 2000, als bedoeld in artikel 3.4, derde lid, Vreemdelingenbesluit 2000 of hiermee verband houdende niet-tijdelijke humanitaire gronden, of  
 
-4°. verband houdende met de vervolging van mensenhandel of hiermee verband houdend voortgezet verblijf,  
+4°. verband houdende met afwikkeling nalatenschap oude Vreemdelingenwet als bedoeld in artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000 of hiermee verband houdende niet-tijdelijke humanitaire gronden,    
 
-5°. verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken of hiermee verband houdend voortgezet verblijf,  
+b. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20 van die wet,  
 
-6°. anders dan genoemd in [artikel 3.4, eerste lid, Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), als bedoeld in [artikel 3.4, derde lid, Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) of hiermee verband houdend voortgezet verblijf, of  
+c. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van die wet,  
 
-7°. verband houdende met afwikkeling nalatenschap oude Vreemdelingenwet als bedoeld in [artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) of hiermee verband houdend voortgezet verblijf,    
+d. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van die wet,  
 
-b. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md),  
+e. bedoeld in artikel 8, onderdelen g of h van die wet, voor zover hij reeds studiefinancieringsgenietende is, of  
 
-c. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md),  
-
-d. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md),  
-
-e. bedoeld in [artikel 8, onderdelen g of h van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor zover hij reeds studiefinancieringsgenietende is, of  
-
-f. ten behoeve van wie of aan wie een tegemoetkoming is verstrekt als bedoeld in de [hoofdstukken 3](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) of  [4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).     
+f. ten behoeve van wie of aan wie een tegemoetkoming is verstrekt als bedoeld in de hoofdstukken 3 of  4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.     
 
 ### Artikel  3a  
 
@@ -76,9 +70,9 @@ b. zelfstandigen, of
 
 c. personen die de status van werknemer of zelfstandige hebben behouden, en  
 
-d. familieleden van de personen bedoeld in onderdeel a tot en met c,   die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/38/EG, hebben verworven, betreft de gelijkstelling, op grond van [artikel 2.2, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), een tegemoetkoming in de kosten van de toegang tot het onderwijs.   
-2.  De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag van de basisbeurs, bedoeld in [artikel 3.6, eerste lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), voor een thuiswonende deelnemer. De reisvoorziening en de toeslag, bedoeld in [artikel 3.6, tweede en derde lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), maken daarvan geen deel uit.   
-3.  In afwijking van [artikel 3.21, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), kan een aanvraag op grond van [artikel 2.2, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.   
+d. familieleden van de personen bedoeld in onderdeel a tot en met c,   die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/38/EG, hebben verworven, betreft de gelijkstelling, op grond van artikel 2.2, tweede lid, van de wet, een tegemoetkoming in de kosten van de toegang tot het onderwijs.   
+2.  De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag van de basisbeurs, bedoeld in artikel 3.6, eerste lid, van de wet, voor een thuiswonende deelnemer. De reisvoorziening en de toeslag, bedoeld in artikel 3.6, tweede en derde lid, van de wet, maken daarvan geen deel uit.   
+3.  In afwijking van artikel 3.21, tweede lid, van de wet, kan een aanvraag op grond van artikel 2.2, eerste lid, onderdeel b, van de wet, betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.   
 4.  De tegemoetkoming wordt toegekend in één bedrag per studiejaar. Indien de aanspraak gedurende een studiejaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per studiejaar maal het aantal resterende maanden van dat studiejaar.   
 
 ### Artikel  3b  
@@ -93,15 +87,15 @@ b. zelfstandigen, of
 
 c. personen die de status van werknemer of zelfstandige hebben behouden, en  
 
-d. familieleden van de personen bedoeld in onderdeel a tot en met c,   die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/38/EG, hebben verworven, betreft de gelijkstelling, op grond van [artikel 2.2, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), een tegemoetkoming in de kosten van de toegang tot het onderwijs.   
-2.  De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van aanspraak op het collegegeldkrediet, bedoeld in [artikel 3.16a, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-3.  In afwijking van [artikel 3.21, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), kan een aanvraag op grond van [artikel 2.2, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.   
+d. familieleden van de personen bedoeld in onderdeel a tot en met c,   die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/38/EG, hebben verworven, betreft de gelijkstelling, op grond van artikel 2.2, tweede lid, van de wet, een tegemoetkoming in de kosten van de toegang tot het onderwijs.   
+2.  De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van aanspraak op het collegegeldkrediet, bedoeld in artikel 3.16a, van de wet.   
+3.  In afwijking van artikel 3.21, tweede lid, van de wet, kan een aanvraag op grond van artikel 2.2, eerste lid, onderdeel b, van de wet, betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.   
 
 ### Artikel  4  
 
 ####Aangewezen onderwijs
 
-Het onderwijs, bedoeld in [artikel 2.11 van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), is het onderwijs aan: 
+Het onderwijs, bedoeld in artikel 2.11 van de wet, is het onderwijs aan: 
 
 a. Stichting Kweekschool voor Vroedvrouwen te Amsterdam,  
 
@@ -123,7 +117,7 @@ f. Opleiding Restauratoren, onderdeel van het Instituut Collectie Nederland te A
 
 ####Algemeen
 
-1.  Aanspraak op aanvullende beurs als bedoeld in [artikel 3.14, eerste lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), voor wat betreft de aanvullende lening die voortvloeit uit de veronderstelde ouderlijke bijdrage van de weigerachtige of onvindbare ouder, bestaat in ieder geval, indien: 
+1.  Aanspraak op aanvullende beurs als bedoeld in artikel 3.14, eerste lid, van de wet, voor wat betreft de aanvullende lening die voortvloeit uit de veronderstelde ouderlijke bijdrage van de weigerachtige of onvindbare ouder, bestaat in ieder geval, indien: 
 
 a. sprake is van een ernstig en structureel conflict tussen ouder en studerende,  
 
@@ -131,10 +125,10 @@ b. de ouder uit het ouderlijk gezag is ontzet of ontheven,
 
 c. de studerende geen contact met de ouder heeft,  
 
-d. sprake is van voor de studerende niet inbare alimentatie als bedoeld in [titel 17 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of  
+d. sprake is van voor de studerende niet inbare alimentatie als bedoeld in titel 17 van Boek 1 van het Burgerlijk Wetboek, of  
 
 e. gegevens over de verblijfplaats van de ouder niet kunnen worden achterhaald.     
-2.  Een aanvraag als bedoeld in [artikel 3.14, eerste lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt niet in behandeling genomen indien deze betrekking heeft op 
+2.  Een aanvraag als bedoeld in artikel 3.14, eerste lid, van de wet wordt niet in behandeling genomen indien deze betrekking heeft op 
 
 a. een periode die meer dan twee jaar voor het moment van aanvragen ligt, of  
 
@@ -187,7 +181,7 @@ Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt Onze M
 
 ####Reikwijdte partnerbegrip
 
-In aanvulling op het begrip partner, genoemd in [artikel 1.1, eerste lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), is in dit hoofdstuk slechts sprake van partner van de debiteur indien in het derde jaar volgend op het kalenderjaar van het laatste studiefinancieringstijdvak het partnerschap een tijdvak van meer dan 6 maanden omvat.  
+In aanvulling op het begrip partner, genoemd in artikel 1.1, eerste lid, van de wet, is in dit hoofdstuk slechts sprake van partner van de debiteur indien in het derde jaar volgend op het kalenderjaar van het laatste studiefinancieringstijdvak het partnerschap een tijdvak van meer dan 6 maanden omvat.  
 
 ### Artikel  12b  
 
@@ -221,7 +215,7 @@ Gehele kwijtschelding van de aanvullende beurs kan plaatsvinden indien het toets
 
 1.  Onze Minister neemt een aanvraag die wordt ingediend voor 1 november van het vierde jaar volgend op het kalenderjaar van het laatste studiefinancieringstijdvak, niet eerder dan op die datum in behandeling, waarbij 1 november geldt als datum van indiening.   
 2.  Onze Minister besluit binnen 8 weken na de indiening van een aanvraag van een debiteur om kwijtschelding van de aanvullende beurs.   
-3.  Onze Minister neemt slechts een aanvraag in behandeling die wordt ingediend binnen de diplomatermijn, genoemd in de [artikelen 4.9](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en [5.5 van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), of, indien dit daarna is, binnen 5 jaren volgend op het kalenderjaar van het laatste studiefinancieringstijdvak.   
+3.  Onze Minister neemt slechts een aanvraag in behandeling die wordt ingediend binnen de diplomatermijn, genoemd in de artikelen 4.9 en 5.5 van de wet, of, indien dit daarna is, binnen 5 jaren volgend op het kalenderjaar van het laatste studiefinancieringstijdvak.   
 4.  Het kwijt te schelden bedrag wordt aan de aanvrager uitbetaald indien verrekening niet mogelijk is.   
 
 ### Hoofdstuk  4  
@@ -233,7 +227,7 @@ Gehele kwijtschelding van de aanvullende beurs kan plaatsvinden indien het toets
 ####Uitbetaling
 
 1.  Studiefinanciering wordt uitbetaald tussen de twintigste en dertigste dag van elke maand.   
-2.  Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) een beschikking op een bezwaarschrift of een uitspraak op een beroep daartoe aanleiding geeft, verrekent de IB-Groep het bedrag aan studiefinanciering dat te weinig was toegekend met de betrokkene, of wordt dat bedrag ineens aan de betrokkene uitbetaald.   
+2.  Indien een herzieningsbeschikking als bedoeld in artikel 7.1, eerste en tweede lid, van de wet een beschikking op een bezwaarschrift of een uitspraak op een beroep daartoe aanleiding geeft, verrekent de Onze Minister het bedrag aan studiefinanciering dat te weinig was toegekend met de betrokkene, of wordt dat bedrag ineens aan de betrokkene uitbetaald.   
 
 ### Hoofdstuk  5  
 
@@ -243,7 +237,7 @@ Gehele kwijtschelding van de aanvullende beurs kan plaatsvinden indien het toets
 
 ####Verstrekken van inlichtingen
 
-Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door organen met een publiekrechtelijke taak geschiedt binnen 8 weken na de dag van verzending van de aanvraag om inlichtingen, indien door het college van burgemeester en wethouders te verschaffen inlichtingen onderzoek buiten de gemeentelijke basisadministratie persoonsgegevens noodzakelijk maken. In alle overige gevallen geschiedt het verstrekken van inlichtingen binnen 4 weken na de dag van verzending van de aanvraag om inlichtingen. Onze Minister kan bij de aanvraag om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.  
+Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door organen met een publiekrechtelijke taak geschiedt binnen 8 weken na de dag van verzending van de aanvraag om inlichtingen, indien door het college van burgemeester en wethouders te verschaffen inlichtingen onderzoek buiten de basisregistratie personen noodzakelijk maken. In alle overige gevallen geschiedt het verstrekken van inlichtingen binnen 4 weken na de dag van verzending van de aanvraag om inlichtingen. Onze Minister kan bij de aanvraag om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.  
 
 ### Hoofdstuk  6  
 
@@ -253,8 +247,8 @@ Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door o
 
 ####Aanpassing van bedragen
 
-1.  Onze Minister past de bedragen, genoemd in de [artikelen 3.4, tweede lid](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), en [3.9, derde lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.   
-2.  Onze Minister past de bedragen, genoemd in de [artikelen 3.18,](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) met uitzondering van de maximale aanvullende beurs, [4.7](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [4.18](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [5.2](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en [10.3 van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.   
+1.  Onze Minister past de bedragen, genoemd in de artikelen 3.4, tweede lid, 3.9, derde lid, en 3.17, eerste lid, van de wet, per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.   
+2.  Onze Minister past de bedragen, genoemd in de artikelen 3.18, met uitzondering van de maximale aanvullende beurs, 4.7, 4.18, 5.2 en 10.3 van de wet per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.   
 3.  Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.   
 
 ### Hoofdstuk  7  
@@ -265,21 +259,22 @@ Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door o
 
 ####Omzetting voor tempobeursstudenten van lening in gift
 
-1.  Indien over een studiejaar de tempobeurs van een student op grond van [artikel 10.7, derde lid, eerste volzin, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) is omgezet in lening, en die student over dat studiejaar op de voet van [artikel 10.6, tweede lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), ten minste 14 studiepunten heeft behaald, zet Onze Minister op aanvraag van de student het desbetreffende bedrag aan lening alsnog om in gift indien de student aan de volgende voorwaarden voldoet: 
+1.  Indien over een studiejaar de tempobeurs van een student op grond van artikel 10.7, derde lid, eerste volzin, van de wet is omgezet in lening, en die student over dat studiejaar op de voet van artikel 10.6, tweede lid, van de wet, ten minste 14 studiepunten heeft behaald, zet Onze Minister op aanvraag van de student het desbetreffende bedrag aan lening alsnog om in gift indien de student aan de volgende voorwaarden voldoet: 
 
-a. hij heeft aan opleidingen waarop [artikel 10.6 van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) van toepassing is, een aantal studiepunten behaald dat ten minste gelijk is aan de voor de laatst gevolgde opleiding geldende studielast, en  
+a. hij heeft aan opleidingen waarop artikel 10.6 van de wet van toepassing is, een aantal studiepunten behaald dat ten minste gelijk is aan de voor de laatst gevolgde opleiding geldende studielast, en  
 
 b. dit aantal studiepunten is behaald binnen het aantal maanden, gemeten vanaf het tijdstip waarop de student voor het eerst studiefinanciering ontving voor het volgen van hoger onderwijs, dat de uitkomst is van de formule (studielast x 12 : 60) + 12.     
-2.  Onder studielast, genoemd in het eerste lid, wordt verstaan de studielast, bedoeld in [artikel 7.4 van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-3.  Het aantal maanden, bedoeld in het eerste lid, onderdeel b, wordt verhoogd met het aantal maanden waarover de student recht heeft gehad op een financiële voorziening als bedoeld in [artikel 7.51, tweede lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). De in de vorige volzin bedoelde verhoging omvat ten hoogste 12 maanden.   
+2.  Onder studielast, genoemd in het eerste lid, wordt verstaan de studielast, bedoeld in artikel 7.4 van de WHW.   
+3.  Het aantal maanden, bedoeld in het eerste lid, onderdeel b, wordt verhoogd met het aantal maanden waarover de student recht heeft gehad op een financiële voorziening als bedoeld in artikel 7.51, tweede lid, van de WHW. De in de vorige volzin bedoelde verhoging omvat ten hoogste 12 maanden.   
 4.  Indien de uitkomst van de berekening van het aantal maanden, bedoeld in het tweede en derde lid, niet een geheel getal is, wordt zij afgerond op het naastgelegen gehele, hogere getal.   
 5.  Indien een student gelijktijdig meer dan een opleiding volgt, geldt de studielast van de langste opleiding waarvoor studiefinanciering is verstrekt.   
 6.  Bij de omzetting gaat de rente die over het om te zetten bedrag is opgebouwd, teniet.   
-7.  Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing, indien [artikel 10.6, derde lid, van de wet](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) is toegepast.   
-8.  De omzetting kan jegens een student slechts eenmaal plaatsvinden, doch niet met betrekking tot een studiejaar waarover de student te eniger tijd aanspraak heeft gehad op een financiële voorziening als bedoeld in [artikel 7.51, tweede lid, van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Indien er ten behoeve van meer dan een studiejaar omzetting mogelijk is, geeft de student aan ten behoeve van welk studiejaar de omzetting dient plaats te vinden.   
+7.  Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing, indien artikel 10.6, derde lid, van de wet is toegepast.   
+8.  De omzetting kan jegens een student slechts eenmaal plaatsvinden, doch niet met betrekking tot een studiejaar waarover de student te eniger tijd aanspraak heeft gehad op een financiële voorziening als bedoeld in artikel 7.51, tweede lid, van de WHW. Indien er ten behoeve van meer dan een studiejaar omzetting mogelijk is, geeft de student aan ten behoeve van welk studiejaar de omzetting dient plaats te vinden.   
 9.  De student zendt de aanvraag uiterlijk 3 maanden na het einde van de termijn, bedoeld in het eerste lid, onderdeel b, verhoogd met het aantal maanden, bedoeld in het derde lid, aan Onze Minister. De aanvraag gaat vergezeld van gewaarmerkte verklaringen van de instelling dan wel de instellingen, waaruit de studievoortgang blijkt.   
 
-### Hoofdstuk  8  
+### Hoofdstuk  8   
+Vervallen per 01-09-2001   
 
 ### Hoofdstuk  9  
 
@@ -293,15 +288,15 @@ b. dit aantal studiepunten is behaald binnen het aantal maanden, gemeten vanaf h
 
 a. de som van: 
 
-1°. het bedrag, genoemd in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), zoals dat luidde op 31 december 2005, getotaliseerd over de kalendermaanden van het kalenderjaar, en  
+1°. het bedrag, genoemd in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, zoals dat luidde op 31 december 2005, getotaliseerd over de kalendermaanden van het kalenderjaar, en  
 
-2°. een bedrag gelijk aan de som van het volgens [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), zoals dat luidde op 31 december 2005, van toepassing zijnde percentage van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), zoals dat luidde op 31 december 2005, over de 12 maanden aanvangende in de maand juni voorafgaand aan het jaar waarvoor het belastbare minimumloon wordt vastgesteld,    
+2°. een bedrag gelijk aan de som van het volgens artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag, zoals dat luidde op 31 december 2005, van toepassing zijnde percentage van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, zoals dat luidde op 31 december 2005, over de 12 maanden aanvangende in de maand juni voorafgaand aan het jaar waarvoor het belastbare minimumloon wordt vastgesteld,    
 
-b. vermeerderd met het door de werkgever verschuldigde gedeelte van de premie voor de verzekering ingevolge de [Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md), zoals die luidde op 31 december 2005, over de som van de hiervoor in onderdeel a bedoelde bedragen, en  
+b. vermeerderd met het door de werkgever verschuldigde gedeelte van de premie voor de verzekering ingevolge de Ziekenfondswet, zoals die luidde op 31 december 2005, over de som van de hiervoor in onderdeel a bedoelde bedragen, en  
 
-c. verminderd met het bedrag van de premies die, bij een loon gelijk aan de overeenkomstig de in onderdeel a bepaalde som, bij wijze van inhouding zouden zijn geheven ingevolge de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zoals die luidde op 31 december 2005.     
-2.  Indien ingevolge de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zoals die luidde op 31 december 2005, een premie is ingehouden waarvan het percentage per bedrijfstak verschilt, wordt bij toepassing van het eerste lid een gemiddeld percentage gehanteerd.   
-3.  Indien in de loop van het kalenderjaar de premie ingevolge de [Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) of de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zoals die luidden op 31 december 2005, wijziging heeft ondergaan, wordt de hoogte van de premie of deze bijdrage over het gehele kalenderjaar naar evenredigheid berekend.   
+c. verminderd met het bedrag van de premies die, bij een loon gelijk aan de overeenkomstig de in onderdeel a bepaalde som, bij wijze van inhouding zouden zijn geheven ingevolge de Werkloosheidswet, zoals die luidde op 31 december 2005.     
+2.  Indien ingevolge de Werkloosheidswet, zoals die luidde op 31 december 2005, een premie is ingehouden waarvan het percentage per bedrijfstak verschilt, wordt bij toepassing van het eerste lid een gemiddeld percentage gehanteerd.   
+3.  Indien in de loop van het kalenderjaar de premie ingevolge de Ziekenfondswet of de Werkloosheidswet, zoals die luidden op 31 december 2005, wijziging heeft ondergaan, wordt de hoogte van de premie of deze bijdrage over het gehele kalenderjaar naar evenredigheid berekend.   
 
 ### Artikel  31  
 
@@ -339,109 +334,109 @@ Artikel 17, tweede lid, is niet van toepassing in de kalenderjaren 2011 en 2012.
 
 ### Artikel  35  
 
-#### [Bekostigingsbesluit WHW](../../../../../AMvB/bekostigingsbesluit/whw/BWBR0006338/README.md) 
+#### Bekostigingsbesluit WHW 
 
 Wijzigt het Bekostigingsbesluit WHW.   
 
 ### Artikel  36  
 
-#### [Besluit aanwijzing registraties gezamenlijke huishouding 1998](../../../../../AMvB/besluit/aanwijzing/registraties/gezamenlijke/huishouding/1998/BWBR0009280/README.md) 
+#### Besluit aanwijzing registraties gezamenlijke huishouding 1998 
 
 Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.   
 
 ### Artikel  37  
 
-#### [Besluit bijdragen justitiële kinderbescherming en vrijwillige jeugdhulpverlening](../../../../../AMvB/besluit/bijdragen/justitiële/kinderbescherming/en/vrijwillige/etc/BWBR0007362/README.md) 
+#### Besluit bijdragen justitiële kinderbescherming en vrijwillige jeugdhulpverlening 
 
 Wijzigt het Besluit bijdragen justitiële kinderbescherming en vrijwillige jeugdhulpverlening.   
 
 ### Artikel  38  
 
-#### [Besluit categorieën van verzekerden Wtz 1998](../../../../../AMvB/besluit/categorieën/van/verzekerden/wtz/1998/BWBR0010117/README.md) 
+#### Besluit categorieën van verzekerden Wtz 1998 
 
 Wijzigt het Besluit categorieën van verzekerden Wtz 1998.   
 
 ### Artikel  39  
 
-#### [Besluit geneeskundige verzorging politie 1994](../../../../../AMvB/besluit/geneeskundige/verzorging/politie/1994/BWBR0006605/README.md) 
+#### Besluit geneeskundige verzorging politie 1994 
 
 Wijzigt het Besluit geneeskundige verzorging politie 1994.   
 
 ### Artikel  40  
 
-#### [Besluit passende arbeid schoolverlaters en academici](../../../../../AMvB/besluit/passende/arbeid/schoolverlaters/en/academici/BWBR0007683/README.md) 
+#### Besluit passende arbeid schoolverlaters en academici 
 
 Wijzigt het Besluit passende arbeid schoolverlaters en academici.   
 
 ### Artikel  41  
 
-#### [Besluit tegemoetkoming studiekosten](../../../../../AMvB/besluit/tegemoetkoming/studiekosten/BWBR0008149/README.md) 
+#### Besluit tegemoetkoming studiekosten 
 
 Wijzigt het Besluit tegemoetkoming studiekosten.   
 
 ### Artikel  42  
 
-#### [Besluit tegemoetkoming ziektekosten en inkomenstoeslag onderwijs- en onderzoekpersoneel](../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/en/inkomenstoeslag/onderwijs-/en/etc/BWBR0007326/README.md) 
+#### Besluit tegemoetkoming ziektekosten en inkomenstoeslag onderwijs- en onderzoekpersoneel 
 
 Wijzigt het Besluit tegemoetkoming ziektekosten en inkomenstoeslag onderwijs- en onderzoekpersoneel.   
 
 ### Artikel  43  
 
-#### [Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) 
+#### Besluit tegemoetkoming ziektekosten rijkspersoneel 
 
 Wijzigt het Besluit tegemoetkoming ziektekosten rijkspersoneel.   
 
 ### Artikel  44  
 
-#### [Bijdragebesluit Zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) 
+#### Bijdragebesluit Zorg 
 
 Wijzigt het Bijdragebesluit Zorg.   
 
 ### Artikel  45  
 
-#### [Inkomens- en samenloopbesluit Anw](../../../../../AMvB/inkomens-/en/samenloopbesluit/anw/BWBR0008086/README.md) 
+#### Inkomens- en samenloopbesluit Anw 
 
 Wijzigt het Inkomens- en samenloopbesluit Anw.   
 
 ### Artikel  46  
 
-#### [Inkomensbesluit IOAW](../../../../../AMvB/inkomensbesluit/ioaw/BWBR0004091/README.md) 
+#### Inkomensbesluit IOAW 
 
 Wijzigt het Inkomensbesluit IOAW.   
 
 ### Artikel  47  
 
-#### [Inkomensbesluit Toeslagenwet](../../../../../AMvB/inkomensbesluit/toeslagenwet/BWBR0004092/README.md) 
+#### Inkomensbesluit Toeslagenwet 
 
 Wijzigt het Inkomensbesluit Toeslagenwet.   
 
 ### Artikel  48  
 
-#### [Interimbesluit ziektekosten burgerlijke ambtenaren defensie](../../../../../AMvB/interimbesluit/ziektekosten/burgerlijke/ambtenaren/defensie/BWBR0006034/README.md) 
+#### Interimbesluit ziektekosten burgerlijke ambtenaren defensie 
 
 Wijzigt het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.   
 
 ### Artikel  49  
 
-#### [Rechtspositiebesluit onderwijspersoneel](../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) 
+#### Rechtspositiebesluit onderwijspersoneel 
 
 Wijzigt het Rechtspositiebesluit onderwijspersoneel.   
 
 ### Artikel  50  
 
-#### [Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) 
+#### Uitvoeringsbesluit WEB 
 
 Wijzigt het Uitvoeringsbesluit WEB.   
 
 ### Artikel  51  
 
-#### [Uitvoeringsbesluit WHW](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) 
+#### Uitvoeringsbesluit WHW 
 
 Wijzigt het Uitvoeringsbesluit WHW.   
 
 ### Artikel  52  
 
-#### [Verplaatsingskostenbesluit militairen](../../../../../AMvB/verplaatsingskostenbesluit/militairen/BWBR0005137/README.md) 
+#### Verplaatsingskostenbesluit militairen 
 
 Wijzigt het Verplaatsingskostenbesluit militairen.   
 

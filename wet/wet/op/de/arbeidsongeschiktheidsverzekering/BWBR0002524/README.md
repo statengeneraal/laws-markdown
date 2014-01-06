@@ -349,7 +349,7 @@ b. gedurende vijf jaar na het bereiken van het einde van de wachttijd, bedoeld i
 7.   Vervallen.    
 8.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het bepaalde in dit artikel nadere en zo nodig afwijkende regels worden gesteld.   
 9.  De voordracht voor een krachtens het achtste lid vast te stellen algemene maatregel van bestuur, dan wel de vaststelling van een ministeriële regeling op basis van een dergelijke algemene maatregel van bestuur, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers van de Staten-Generaal overgelegd.   
-10.  Bij de beoordeling van arbeidsongeschiktheid als bedoeld in deze wet maakt de verzekeringsarts zo veel mogelijk gebruik van de bij ministeriële regeling vastgelegde wetenschappelijke inzichten die de beoordeling van arbeidsongeschiktheid kunnen ondersteunen.   
+10.  Bij de beoordeling van arbeidsongeschiktheid als bedoeld in deze wet maakt de verzekeringsarts zo veel mogelijk gebruik van wetenschappelijke inzichten die de beoordeling van arbeidsongeschiktheid kunnen ondersteunen.   
 
 ### Artikel  19  
 
@@ -360,6 +360,10 @@ b. gedurende vijf jaar na het bereiken van het einde van de wachttijd, bedoeld i
 5.  Voor het bepalen van het tijdvak van 104 weken, bedoeld in de vorige leden, worden steeds in aanmerking genomen tijdvakken, gedurende welke aanspraak bestaat op ziekengeld krachtens de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en worden niet in aanmerking genomen tijdvakken gedurende welke een uitkering wordt genoten als bedoeld in het tweede lid.   
 6.  Voor de toepassing van het bepaalde in het vorige lid wordt een belanghebbende geacht aanspraak te hebben op ziekengeld krachtens de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), indien hem in verband met de [artikelen 19a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [19b](../../../../../../wet/ziektewet/BWBR0001888/README.md), [19c](../../../../../../wet/ziektewet/BWBR0001888/README.md), [29](../../../../../../wet/ziektewet/BWBR0001888/README.md), [30](../../../../../../wet/ziektewet/BWBR0001888/README.md), [31](../../../../../../wet/ziektewet/BWBR0001888/README.md), [44](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [45 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) geen ziekengeld wordt uitgekeerd.   
 7.  De wachttijd, bedoeld in het eerste lid, wordt door het Uitvoeringsinstituut werknemersverzekeringen verlengd op gezamenlijk verzoek van de verzekerde en de werkgever jegens wie de verzekerde, bij ongeschiktheid tot het verrichten van arbeid wegens ziekte, recht heeft op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), tenzij [artikel 29](../../../../../../wet/ziektewet/BWBR0001888/README.md) of  [artikel 29a, eerste of vierde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) van toepassing is dan wel aanspraak heeft op bezoldiging op grond van [artikel 76a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), tenzij [onderdeel a van artikel 76c van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) van toepassing is, tenzij zwaarwegende omstandigheden zich daartegen verzetten. De verlengde wachttijd eindigt op de door het Uitvoeringsinstituut werknemersverzekeringen aangegeven datum. De verlengde wachttijd kan op verzoek van de werkgever of de verzekerde worden verkort of wordt op hun gezamenlijk verzoek verder verlengd tenzij zwaarwegende omstandigheden zich daartegen verzetten. Het Uitvoeringsinstituut werknemersverzekeringen stelt bij verkorting van de verlengde wachttijd een nieuwe datum vast waarop de verlengde wachttijd eindigt, met dien verstande dat de wachttijd niet eerder eindigt dan vijftien weken na dat verzoek tenzij de werkgever voor het verstrijken van het tijdvak van die vijftien weken geen loon meer verschuldigd is, omdat de dienstbetrekking is geëindigd. Bij de bekendmaking van de beschikking maakt het Uitvoeringsinstituut werknemersverzekeringen melding van de mogelijkheid van het doen van een aanvraag voor de toekenning van de uitkering alsmede van de termijn binnen welke die aanvraag wordt gedaan. Het tweede en vierde lid zijn van overeenkomstige toepassing. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit lid.   
+
+### Artikel  19aa  
+
+De verzekerde, bedoeld in artikel 19, heeft geen recht op toekenning van arbeidsongeschiktheidsuitkering, indien hij op de dag waarop het recht op arbeidsongeschiktheidsuitkering zou ingaan reeds recht op arbeidsongeschiktheidsuitkering heeft.  
 
 ### Artikel  19a  
 
@@ -515,9 +519,10 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 ### Artikel  29g  
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de degene aan wie een bestuurlijke boete is opgelegd ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
-3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
-4.  Zolang de belanghebbende of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 29a, negende lid, niet of niet behoorlijk nakomt: 
+2.  Onverminderd het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
+4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
+5.  Zolang de belanghebbende of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 29a, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het Uitvoeringsinstituut werknemersverzekeringen in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
@@ -529,7 +534,9 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 2.  Artikel 29g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 29a, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 29g, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.   
 
 ### Artikel  29i  
 
@@ -659,9 +666,9 @@ Indien als gevolg van de toeneming van de arbeidsongeschiktheid zowel recht op h
 
 ### Artikel  40  
 
-1.  Indien terzake van toeneming van de arbeidsongeschiktheid herziening van de arbeidsongeschiktheidsuitkering alsmede toekenning van ziekengeld krachtens de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) heeft plaatsgevonden dan wel loondoorbetaling heeft plaatsgevonden op grond van [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of betaling van bezoldiging op grond van [artikel 76a, eerste lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), wordt met ingang van de dag na beëindiging van het ziekengeld op grond van [artikel 29, vijfde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) dan wel na afloop van het in artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek of in artikel 76a, eerste lid, van de Ziektewet bedoelde tijdvak van 104 weken het dagloon opnieuw vastgesteld overeenkomstig het bepaalde bij of krachtens artikel 14, mits dat leidt tot een hoger dagloon, dan het dagloon dat voor de berekening van de laatstelijk ontvangen loondervingsuitkering of vervolguitkering in aanmerking werd genomen.   
-2.  Voor de toepassing van het eerste lid wordt in artikel 14, eerste lid, in plaats van de woorden «voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is ingetreden» gelezen: voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is toegenomen.   
-3.  Ingeval van herziening van een arbeidsongeschiktheidsuitkering in verband met toegenomen arbeidsongeschiktheid tijdens het ontvangen van een vervolguitkering wordt, met inachtneming van de tweede tot en met vierde volzin van dit lid, met ingang van de dag waarop het recht op die herziening bestaat, een loondervingsuitkering toegekend. Voor de duur van die loondervingsuitkering is, in afwijking van artikel 21a, de leeftijd van de betrokkene op de dag van ingang van de herziening van de arbeidsongeschiktheidsuitkering bepalend. Toekenning van een loondervingsuitkering is slechts mogelijk indien de betrokkene bij de toeneming van de arbeidsongeschiktheid terzake van het verrichten van werkzaamheden op grond van deze wet verzekerd was en de duur van die uitkering langer is dan de duur van de loondervingsuitkering, waarop recht bestond onmiddellijk voorafgaande aan de datum van ingang van de vervolguitkering. De duur van de toe te kennen loondervingsuitkering wordt verminderd met de duur van de laatstelijk ontvangen loondervingsuitkering. Tijdens de duur van die loondervingsuitkering bestaat geen recht op vervolguitkering.   
+1.  Het dagloon van de verzekerde, bedoeld in artikel 19aa, wordt met ingang van de dag waarop het tweede recht op arbeidsongeschiktheidsuitkering zou zijn ontstaan opnieuw vastgesteld overeenkomstig het bepaalde bij of krachtens artikel 14, mits dat leidt tot een hoger dagloon dan het dagloon dat voor de berekening van de laatstelijk ontvangen loondervingsuitkering of vervolguitkering in aanmerking werd genomen. In afwijking van het bepaalde bij of krachtens artikel 14 wordt bij de dagloonvaststelling, bedoeld in de eerste zin, de arbeidsongeschiktheidsuitkering op grond van deze wet niet aangemerkt als loon.   
+2.  Voor de toepassing van het eerste lid wordt in artikel 14, eerste lid, in plaats van de woorden «voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is ingetreden» gelezen: voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is ontstaan waaruit het tweede recht op arbeidsongeschiktheiduitkering zou zijn ontstaan.   
+3.  Ingeval tijdens het ontvangen van een vervolguitkering ten aanzien van de verzekerde die na het ontstaan van recht op arbeidsongeschiktheidsuitkering ziek is geworden, als gevolg van de toepassing van artikel 19aa, geen tweede recht op arbeidsongeschiktheidsuitkering ontstaat wordt, met inachtneming van de tweede tot en met vierde zin, met ingang van de dag waarop het tweede recht op arbeidsongeschiktheidsuitkering zou zijn ontstaan, een loondervingsuitkering toegekend. Voor de duur van die loondervingsuitkering is, in afwijking van artikel 21a, de leeftijd van de betrokkene op de dag waarop het tweede recht op arbeidsongeschiktheidsuitkering zou zijn ontstaan bepalend. Toekenning van de loondervingsuitkering is slechts mogelijk indien de duur van die uitkering langer is dan de duur van de loondervingsuitkering waarop recht bestond onmiddellijk voorafgaande aan de datum van ingang van de vervolguitkering. De duur van de toe te kennen loondervingsuitkering wordt verminderd met de duur van de laatstelijk ontvangen loondervingsuitkering. Tijdens de duur van die loondervingsuitkering bestaat geen recht op vervolguitkering.   
 4.  Na afloop van de in het derde lid bedoelde loondervingsuitkering geldt voor de berekening van het vervolgdagloon, in afwijking van artikel 21b, derde lid, een percentage van 2 maal het aantal verstreken jaren tussen het 15e jaar en de leeftijd van de betrokkene op de dag van ingang van de herziening van de arbeidsongeschiktheidsuitkering.   
 5.  Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld.   
 
@@ -800,6 +807,13 @@ c. degene, aan wie een arbeidsongeschiktheidsuitkering is toegekend of zijn wett
 ### Artikel  51  
 
 Voor zover betreft het in ontvangst nemen van een uitkering ingevolge deze wet en het verlenen van kwijting voor de betaling daarvan, wordt een minderjarige met een meerderjarige gelijkgesteld. Indien de wettelijke vertegenwoordiger zich tegen de betaling aan de minderjarige schriftelijk verzet bij het Uitvoeringsinstituut werknemersverzekeringen geschiedt de uitbetaling aan de wettelijke vertegenwoordiger.  
+
+### Artikel  52  
+
+1.  Is van de aanvrager of ontvanger van een arbeidsongeschiktheidsverzekering bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
+2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering aan de persoon, aan wie de arbeidsongeschiktheidsuitkering is toegekend, op.   
+3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.   
 
 ### Artikel  53  
 
@@ -1043,29 +1057,43 @@ b. vult de werkgever in overleg met de verzekerde, indien hij reeds een reïnteg
 
 ####Arbeidsongeschiktheidsfonds en arbeidsongeschiktheidskas
 
+Vervallen per 01-01-2006   
+
 ### Hoofdstuk  IIIA  
 
 ####Eigen risico dragen door de werkgever
+
+Vervallen per 01-01-2011   
 
 ### HOOFDSTUK  IV  
 
 ####FINANCIERING
 
+Vervallen per 01-01-2006   
+
 ### §  1  
 
 ####Middelen tot dekking van de uitgaven
+
+Vervallen per 01-01-2006   
 
 ### §  2  
 
 ####De basispremie
 
+Vervallen per 01-01-2006   
+
 ### §  3  
 
 ####De gedifferentieerde premie
 
+Vervallen per 01-01-2006   
+
 ### §  4  
 
 ####Premiekorting
+
+Vervallen per 01-01-2006   
 
 ### Hoofdstuk  V  
 
@@ -1233,7 +1261,7 @@ De gronden van het bezwaar of beroep, bedoeld in [artikel 6:5, eerste lid, onder
 
 ### Artikel  88f  
 
-1.  Indien [artikel 8:32, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is toegepast, vindt in afwijking van [artikel 8:62, eerste lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de rechtbank ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.   
+1.  Indien [artikel 8:32, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is toegepast, vindt in afwijking van [artikel 8:62, eerste lid, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de bestuursrechter ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.   
 2.  In de uitnodiging, bedoeld in [artikel 8:56 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt mededeling gedaan van het eerste lid.   
 
 ### Artikel  88g  

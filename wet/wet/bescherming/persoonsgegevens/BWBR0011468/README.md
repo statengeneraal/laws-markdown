@@ -8,7 +8,7 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 23 november 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281) te implementeren;
 
-Gelet op [artikel 10, tweede en derde lid, van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 10, tweede en derde lid, van de Grondwet;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -46,7 +46,9 @@ m. voorafgaand onderzoek: een onderzoek als bedoeld in artikel 31;
 
 n. verstrekken van persoonsgegevens: het bekend maken of ter beschikking stellen van persoonsgegevens;  
 
-o. verzamelen van persoonsgegevens: het verkrijgen van persoonsgegevens.    
+o. verzamelen van persoonsgegevens: het verkrijgen van persoonsgegevens;  
+
+p. de Kaderwet: de Kaderwet zelfstandige bestuursorganen.    
 
 ### Artikel  2  
 
@@ -55,15 +57,15 @@ o. verzamelen van persoonsgegevens: het verkrijgen van persoonsgegevens.
 
 a. ten behoeve van activiteiten met uitsluitend persoonlijke of huishoudelijke doeleinden;  
 
-b. door of ten behoeve van de inlichtingen- en veiligheidsdiensten, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);  
+b. door of ten behoeve van de inlichtingen- en veiligheidsdiensten, bedoeld in de Wet op de inlichtingen- en veiligheidsdiensten 2002;  
 
-c. ten behoeve van de uitvoering van de politietaak, bedoeld in de [artikelen 3](../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [4, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+c. ten behoeve van de uitvoering van de politietaak, bedoeld in de artikelen 3 en 4, eerste lid, van de Politiewet 2012;  
 
-d. die is geregeld bij of krachtens de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  
+d. die is geregeld bij of krachtens de Wet basisregistratie personen;  
 
-e. ten behoeve van de uitvoering van de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en  
+e. ten behoeve van de uitvoering van de Wet justitiële en strafvorderlijke gegevens en  
 
-f. ten behoeve van de uitvoering van de [Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md).     
+f. ten behoeve van de uitvoering van de Kieswet.     
 3.  Deze wet is niet van toepassing op verwerking van persoonsgegevens door de krijgsmacht indien Onze Minister van Defensie daartoe beslist met het oog op de inzet of het ter beschikking stellen van de krijgsmacht ter handhaving of bevordering van de internationale rechtsorde. Van de beslissing wordt zo spoedig mogelijk mededeling gedaan aan het College.   
 
 ### Artikel  3  
@@ -144,7 +146,7 @@ e. de mate waarin jegens de betrokkene wordt voorzien in passende waarborgen.
 ### Artikel  12  
 
 1.  Een ieder die handelt onder het gezag van de verantwoordelijke of van de bewerker, alsmede de bewerker zelf, voor zover deze toegang hebben tot persoonsgegevens, verwerkt deze slechts in opdracht van de verantwoordelijke, behoudens afwijkende wettelijke verplichtingen.   
-2.  De personen, bedoeld in het eerste lid, voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht geldt, zijn verplicht tot geheimhouding van de persoonsgegevens waarvan zij kennis nemen, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit. [Artikel 272, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing.   
+2.  De personen, bedoeld in het eerste lid, voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht geldt, zijn verplicht tot geheimhouding van de persoonsgegevens waarvan zij kennis nemen, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit. Artikel 272, tweede lid, van het Wetboek van Strafrecht is niet van toepassing.   
 
 ### Artikel  13  
 
@@ -224,7 +226,7 @@ b. met het oog op de eisen die met betrekking tot politieke gezindheid in redeli
 
 a. hulpverleners, instellingen of voorzieningen voor gezondheidszorg of maatschappelijke dienstverlening voor zover dat met het oog op een goede behandeling of verzorging van de betrokkene, dan wel het beheer van de betreffende instelling of beroepspraktijk noodzakelijk is;  
 
-b. verzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en financiële dienstverleners die bemiddelen in verzekeringen als bedoeld in [artikel 1:1 van die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorzover dat noodzakelijk is voor: 
+b. verzekeraars als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en financiële dienstverleners die bemiddelen in verzekeringen als bedoeld in artikel 1:1 van die wet, voorzover dat noodzakelijk is voor: 
 
 1°. de beoordeling van het door de verzekeraar te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt; of  
 
@@ -232,7 +234,7 @@ b. verzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezich
 
 c. scholen voor zover dat met het oog op de speciale begeleiding van leerlingen of het treffen van bijzondere voorzieningen in verband met hun gezondheidstoestand noodzakelijk is;  
 
-d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en de rechtspersoon, bedoeld in [artikel 254, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of [artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
+d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg en de rechtspersoon, bedoeld in artikel 254, tweede lid, of artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
 
 e. Onze Minister voor zover dat in verband met de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen noodzakelijk is of  
 
@@ -252,18 +254,18 @@ b. de verwerking noodzakelijk is ten behoeve van wetenschappelijk onderzoek of s
 
 ### Artikel  22  
 
-1.  Het verbod om strafrechtelijke persoonsgegevens te verwerken als bedoeld in artikel 16, is niet van toepassing indien de verwerking geschiedt door organen die krachtens de wet zijn belast met de toepassing van het strafrecht, alsmede door verantwoordelijken die deze hebben verkregen krachtens de [Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) of de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
+1.  Het verbod om strafrechtelijke persoonsgegevens te verwerken als bedoeld in artikel 16, is niet van toepassing indien de verwerking geschiedt door organen die krachtens de wet zijn belast met de toepassing van het strafrecht, alsmede door verantwoordelijken die deze hebben verkregen krachtens de Wet politiegegevens of de Wet justitiële en strafvorderlijke gegevens.   
 2.  Het verbod is niet van toepassing op de verantwoordelijke die deze gegevens ten eigen behoeve verwerkt ter: 
 
 a. beoordeling van een verzoek van betrokkene om een beslissing over hem te nemen of aan hem een prestatie te leveren of  
 
 b. bescherming van zijn belangen voor zover het gaat om strafbare feiten die zijn of op grond van feiten en omstandigheden naar verwachting zullen worden gepleegd jegens hem of jegens personen die in zijn dienst zijn.     
-3.  De verwerking van deze gegevens over personeel in dienst van de verantwoordelijke, vindt plaats overeenkomstig regels die zijn vastgesteld in overeenstemming met de procedure als bedoeld in de [Wet op de ondernemingsraden](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).   
+3.  De verwerking van deze gegevens over personeel in dienst van de verantwoordelijke, vindt plaats overeenkomstig regels die zijn vastgesteld in overeenstemming met de procedure als bedoeld in de Wet op de ondernemingsraden.   
 4.  Het verbod is niet van toepassing wanneer deze gegevens ten behoeve van derden worden verwerkt: 
 
-a. door verantwoordelijken die optreden krachtens een vergunning op grond van de [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md) of  
+a. door verantwoordelijken die optreden krachtens een vergunning op grond van de Wet particuliere beveiligingsorganisaties en recherchebureaus of  
 
-b. indien deze derde een rechtspersoon betreft die in dezelfde groep is verbonden als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of  
+b. indien deze derde een rechtspersoon betreft die in dezelfde groep is verbonden als bedoeld in artikel 2:24b van het Burgerlijk Wetboek, of  
 
 c. indien passende en specifieke waarborgen zijn getroffen en de procedure is gevolgd, bedoeld in artikel 31.     
 5.  Het verbod om andere persoonsgegevens als bedoeld in artikel 16, te verwerken, is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt.   
@@ -287,7 +289,7 @@ e. dit noodzakelijk is ter voldoening aan een volkenrechtelijke verplichting of
 
 f. dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, passende waarborgen worden geboden ter bescherming van de persoonlijke levenssfeer en dit bij wet wordt bepaald dan wel het College ontheffing heeft verleend. Het College kan bij de verlening van ontheffing beperkingen en voorschriften opleggen;  
 
-g. de gegevens worden verwerkt door het College of een ombudsman als bedoeld in [artikel 9:17 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, voor de uitvoering van de hun wettelijk opgedragen taken en bij die uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.     
+g. de gegevens worden verwerkt door het College of een ombudsman als bedoeld in artikel 9:17 van de Algemene wet bestuursrecht en dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, voor de uitvoering van de hun wettelijk opgedragen taken en bij die uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.     
 2.  Het verbod om persoonsgegevens als bedoeld in artikel 16, te verwerken ten behoeve van wetenschappelijk onderzoek of statistiek is niet van toepassing voor zover: 
 
 a. het onderzoek een algemeen belang dient,  
@@ -313,7 +315,7 @@ d. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke leve
 1.  De organisatie of organisaties, die voornemens zijn een gedragscode vast te stellen, kunnen het College verzoeken te verklaren dat de daarin opgenomen regels, gelet op de bijzondere kenmerken van de sector of sectoren van de samenleving waarin deze organisaties werkzaam zijn, een juiste uitwerking vormen van deze wet of van andere wettelijke bepalingen betreffende de verwerking van persoonsgegevens. Indien een gedragscode voorziet in beslechting van geschillen over de naleving ervan, kan het College de verklaring slechts afgeven indien is voorzien in waarborgen met betrekking tot de onafhankelijkheid.   
 2.  Het eerste lid is van overeenkomstige toepassing op wijzigingen of verlengingen van bestaande gedragscodes.   
 3.  Het College neemt het verzoek slechts in behandeling, indien naar zijn oordeel de verzoeker of verzoekers voldoende representatief zijn en de betrokken sector of de sectoren in de code voldoende nauwkeurig zijn omschreven.   
-4.  Een beslissing op een verzoek als bedoeld in het eerste lid, geldt als een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Op de voorbereiding ervan is [afdeling 3.4 van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+4.  Een beslissing op een verzoek als bedoeld in het eerste lid, geldt als een besluit in de zin van de Algemene wet bestuursrecht. Op de voorbereiding ervan is afdeling 3.4 van die wet van toepassing.   
 5.  De verklaring geldt voor de termijn waarvoor de gedragscode zal gaan gelden echter niet voor langer dan vijf jaar na het tijdstip waarop de verklaring is bekend gemaakt. Wordt de verklaring gevraagd voor een wijziging van een gedragscode waarvoor reeds eerder een verklaring is afgegeven, dan geldt deze voor de duur van de eerder afgegeven verklaring.   
 6.  De verklaring wordt, tezamen met de gedragscode waarop zij betrekking heeft, door de zorg van het College in de Staatscourant geplaatst.   
 
@@ -409,7 +411,7 @@ c. voornemens is ten behoeve van derden strafrechtelijke gegevens of gegevens ov
 3.  In geval van een melding van een gegevensverwerking waarop artikel 31, eerste lid, van toepassing is, besluit het College schriftelijk binnen vier weken na de melding of het tot nader onderzoek overgaat.   
 4.  In het besluit tot nader onderzoek over te gaan geeft het College aan binnen welke termijn het voornemens is dit onderzoek te verrichten. Deze termijn bedraagt niet langer dan twintig weken.   
 5.  Het nader onderzoek, bedoeld in het vierde lid, leidt tot een verklaring omtrent de rechtmatigheid van de gegevensverwerking.   
-6.  De verklaring van het College geldt als een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Op de voorbereiding ervan is [afdeling 3.4 van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+6.  De verklaring van het College geldt als een besluit in de zin van de Algemene wet bestuursrecht. Op de voorbereiding ervan is afdeling 3.4 van die wet van toepassing.   
 
 ### Hoofdstuk  5  
 
@@ -519,7 +521,7 @@ e. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.
 ### Artikel  44  
 
 1.  Indien een verwerking plaatsvindt door instellingen of diensten voor wetenschappelijk onderzoek of statistiek, en de nodige voorzieningen zijn getroffen om te verzekeren dat de persoonsgegevens uitsluitend voor statistische en wetenschappelijke doeleinden kunnen worden gebruikt, kan de verantwoordelijke een mededeling als bedoeld in artikel 34 achterwege laten en weigeren aan een verzoek als bedoeld in artikel 35 te voldoen.   
-2.  Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de [artikelen 12](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) of  [13 van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in artikel 34 achterwege laten.   
+2.  Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de artikelen 12 of  13 van de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in artikel 34 achterwege laten.   
 
 ### Hoofdstuk  8  
 
@@ -527,7 +529,7 @@ e. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.
 
 ### Artikel  45  
 
-Een beslissing op een verzoek als bedoeld in de artikelen 30, derde lid, 35, 36 en 38, tweede lid, alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de artikelen 40 of  41 gelden voor zover deze is genomen door een bestuursorgaan als een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Een beslissing op een verzoek als bedoeld in de artikelen 30, derde lid, 35, 36 en 38, tweede lid, alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de artikelen 40 of  41 gelden voor zover deze is genomen door een bestuursorgaan als een besluit in de zin van de Algemene wet bestuursrecht.  
 
 ### Artikel  46  
 
@@ -536,11 +538,11 @@ Een beslissing op een verzoek als bedoeld in de artikelen 30, derde lid, 35, 36 
 3.  De rechtbank wijst het verzoek toe, voor zover zij dit gegrond oordeelt. Alvorens de rechtbank beslist, stelt zij zo nodig de belanghebbenden in de gelegenheid hun zienswijze naar voren te brengen.   
 4.  De indiening van het verzoekschrift behoeft niet door een advocaat te geschieden.   
 5.  De derde afdeling van de vijfde titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
-6.  De rechtbank kan partijen en anderen verzoeken binnen een door haar te bepalen termijn schriftelijke inlichtingen te geven en onder hen berustende stukken in te zenden. De verantwoordelijke en belanghebbende zijn verplicht aan dit verzoek te voldoen. De artikelen [8:45, tweede en derde lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:29 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+6.  De rechtbank kan partijen en anderen verzoeken binnen een door haar te bepalen termijn schriftelijke inlichtingen te geven en onder hen berustende stukken in te zenden. De verantwoordelijke en belanghebbende zijn verplicht aan dit verzoek te voldoen. De artikelen 8:45, tweede en derde lid, en 8:29 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  47  
 
-1.  De belanghebbende kan zich ook binnen de termijn bepaald voor het beroep op grond van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dan wel die, bedoeld in artikel 46, tweede lid, tot het College wenden met het verzoek te bemiddelen of te adviseren in zijn geschil met de verantwoordelijke, dan wel gebruik maken van een geschillenbeslechtingsregeling op grond van een gedragscode ten aanzien waarvan een verklaring is afgegeven als bedoeld in artikel 25, eerste lid. In dat geval kan in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het beroep nog worden ingesteld, dan wel de procedure ingevolge artikel 46 nog aanhangig worden gemaakt nadat de belanghebbende van het College of ingevolge een geschillenbeslechtingsregeling op grond van een gedragscode ten aanzien waarvan een verklaring is afgegeven als bedoeld in artikel 25, eerste lid, bericht heeft ontvangen dat de behandeling van de zaak is beëindigd, doch uiterlijk zes weken na dat tijdstip.   
+1.  De belanghebbende kan zich ook binnen de termijn bepaald voor het beroep op grond van de Algemene wet bestuursrecht, dan wel die, bedoeld in artikel 46, tweede lid, tot het College wenden met het verzoek te bemiddelen of te adviseren in zijn geschil met de verantwoordelijke, dan wel gebruik maken van een geschillenbeslechtingsregeling op grond van een gedragscode ten aanzien waarvan een verklaring is afgegeven als bedoeld in artikel 25, eerste lid. In dat geval kan in afwijking van artikel 6:7 van de Algemene wet bestuursrecht het beroep nog worden ingesteld, dan wel de procedure ingevolge artikel 46 nog aanhangig worden gemaakt nadat de belanghebbende van het College of ingevolge een geschillenbeslechtingsregeling op grond van een gedragscode ten aanzien waarvan een verklaring is afgegeven als bedoeld in artikel 25, eerste lid, bericht heeft ontvangen dat de behandeling van de zaak is beëindigd, doch uiterlijk zes weken na dat tijdstip.   
 2.  Tijdens de behandeling van het beroep en de procedure, bedoeld in het eerste lid, kunnen de instanties die zijn belast met de behandeling van het geschil, het advies van het College inwinnen.   
 
 ### Artikel  48  
@@ -557,7 +559,7 @@ De instanties die zijn belast met de behandeling van het geschil, zenden afschri
 ### Artikel  50  
 
 1.  Indien de verantwoordelijke of de bewerker handelt in strijd met het bij of krachtens deze wet bepaalde en een ander daardoor schade lijdt of dreigt te lijden, kan de rechter hem op vordering van die ander zodanig gedrag verbieden en hem bevelen maatregelen te treffen tot herstel van de gevolgen van dat gedrag.   
-2.  Een verwerking kan niet ten grondslag worden gelegd aan een vordering van een rechtspersoon als bedoeld in [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [artikel 3:305a van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), voor zover degene die door deze verwerking wordt getroffen, daartegen bezwaar heeft.   
+2.  Een verwerking kan niet ten grondslag worden gelegd aan een vordering van een rechtspersoon als bedoeld in artikel 1:2, derde lid, van de Algemene wet bestuursrecht of artikel 3:305a van het Burgerlijk Wetboek, voor zover degene die door deze verwerking wordt getroffen, daartegen bezwaar heeft.   
 
 ### Hoofdstuk  9  
 
@@ -571,6 +573,7 @@ De instanties die zijn belast met de behandeling van het geschil, zenden afschri
 
 1.  Er is een College bescherming persoonsgegevens dat tot taak heeft toe te zien op de verwerking van persoonsgegevens overeenkomstig het bij en krachtens de wet bepaalde. Tevens houdt het College toezicht op de verwerking van persoonsgegevens in Nederland, wanneer de verwerking plaatsvindt overeenkomstig het recht van een ander land van de Europese Unie.   
 2.  Het College wordt om advies gevraagd over voorstellen van wet en ontwerpen van algemene maatregelen van bestuur die geheel of voor een belangrijk deel betrekking hebben op de verwerking van persoonsgegevens.   
+3.  De Kaderwet is van toepassing op het College, behoudens de in deze wet genoemde uitzonderingen.   
 
 ### Artikel  52  
 
@@ -579,45 +582,46 @@ De instanties die zijn belast met de behandeling van het geschil, zenden afschri
 
 ### Artikel  53  
 
-1.  Het College bestaat uit een voorzitter en twee andere leden. Bij het College kunnen voorts buitengewone leden worden benoemd. Bij de benoeming van buitengewone leden wordt spreiding over de onderscheidene sectoren van de maatschappij nagestreefd.   
-2.  De voorzitter moet voldoen aan de bij of krachtens [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) gestelde vereisten voor benoembaarheid tot rechter in een rechtbank.   
-3.  De voorzitter wordt bij koninklijk besluit, op voordracht van Onze Minister, benoemd voor een tijdvak van zes jaar. De andere twee leden en de buitengewone leden worden bij koninklijk besluit, op voordracht van Onze Minister, benoemd voor een tijdvak van vier jaar. De leden kunnen terstond worden herbenoemd. Op eigen verzoek worden zij door Onze Minister ontslagen.   
+1.  Het College bestaat uit een voorzitter en ten hoogste twee andere leden. Bij het College kunnen voorts buitengewone leden worden benoemd. Bij de benoeming van buitengewone leden wordt spreiding over de onderscheidene sectoren van de maatschappij nagestreefd.   
+2.  De voorzitter moet voldoen aan de bij of krachtens artikel 5 van de Wet rechtspositie rechterlijke ambtenaren gestelde vereisten voor benoembaarheid tot rechter in een rechtbank.   
+3.  De voorzitter, de andere leden en de buitengewone leden worden bij koninklijk besluit, op voordracht van Onze Minister, benoemd voor een tijdvak van vijf jaar. De leden kunnen eenmaal worden herbenoemd voor een tijdvak van vijf jaar. Op eigen verzoek worden zij door Onze Minister ontslagen. Artikel 12 van de Kaderwet is niet van toepassing.   
 4.  Er is een Raad van advies die het College adviseert over algemene aspecten van de bescherming van persoonsgegevens. De leden zijn afkomstig uit de onderscheidene sectoren van de maatschappij en worden benoemd door Onze Minister op voordracht van het College. De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden. Bij of krachtens algemene maatregel van bestuur wordt de vergoeding van de kosten aan de leden vastgesteld.   
 
 ### Artikel  54  
 
-1.  Aan een lid wordt bij koninklijk besluit, op voordracht van Onze Minister, ontslag verleend met ingang van de eerste maand volgend op die waarin hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt.   
-2.  De [artikelen 46c](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46n](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) zijn van overeenkomstige toepassing, met dien verstande dat: 
+De artikelen 46c, 46d, tweede lid, 46f, 46g, 46i, met uitzondering van het eerste lid, onderdeel c, 46j, 46l, eerste en derde lid, 46m, 46n, 46o en 46p van de Wet rechtspositie rechterlijke ambtenaren zijn van overeenkomstige toepassing, met dien verstande dat: 
 
-a. de disciplinaire maatregel als bedoeld in [artikel 46c, eerste lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), ten aanzien van de leden van het College door de voorzitter van het College wordt opgelegd;  
+a. de disciplinaire maatregel als bedoeld in artikel 46c, eerste lid, ten aanzien van de leden van het College door de voorzitter van het College wordt opgelegd;  
 
-b. het in [artikel 46c, eerste lid, onderdeel b](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), genoemde verbod zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen niet op de leden van het College van toepassing is.     
+b. het in artikel 46c, eerste lid, onderdeel b, genoemde verbod zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen niet op de leden van het College van toepassing is.   Artikel 12, tweede lid, van de Kaderwet is niet van toepassing.  
 
 ### Artikel  55  
 
-1.  De voorzitter en de andere twee leden genieten een bezoldiging voor hun werkzaamheden. De buitengewone leden genieten een zittingsgeld. Hun rechtspositie wordt nader geregeld bij algemene maatregel van bestuur.   
-2.  De voorzitter en de andere twee leden mogen zonder toestemming van Onze Minister geen andere werkzaamheden verrichten waarvoor een beloning wordt genoten indien deze werkzaamheden door hun aard of omvang onverenigbaar zijn met hun werkzaamheden voor het College.   
+De rechtspositie van de voorzitter, de andere leden en de buitengewone leden wordt geregeld bij ministeriële regeling.  
 
 ### Artikel  56  
 
 1.  Het College heeft een secretariaat, waarvan de ambtenaren door Onze Minister, op voordracht van de voorzitter, worden benoemd, geschorst en ontslagen.   
 2.  De voorzitter geeft leiding aan de werkzaamheden van het College en van het secretariaat.   
 3.  Het College stelt een bestuursreglement vast. Dit bevat in ieder geval regels over het financiële beheer en de administratieve organisatie, alsmede over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de verschillende taken. Daarbij wordt voorzien in waarborgen tegen vermenging van de toezichthoudende, adviserende en sanctionerende taak van het College. Tevens kan het een nadere regeling geven van de Raad van advies, als bedoeld in artikel 53, vierde lid.   
-4.  Het reglement alsmede elke wijziging daarvan wordt zo spoedig mogelijk gezonden aan Onze Minister en behoeft diens goedkeuring.   
 
 ### Artikel  57  
 
-1.  Het College wordt vertegenwoordigd door de voorzitter en de twee andere leden, dan wel door een van hen.   
+1.  Het College wordt vertegenwoordigd door de voorzitter en de andere leden, dan wel door een van hen.   
 2.  De leden stellen een verdeling van taken vast en betrekken hierbij zoveel mogelijk de buitengewone leden.   
 
 ### Artikel  58  
 
-Het College stelt jaarlijks vóór 1 september een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister en aan de functionarissen voor de gegevensbescherming als bedoeld in artikel 62 toegezonden en algemeen verkrijgbaar gesteld.  
+Het jaarverslag, bedoeld in artikel 18 van de Kaderwet, wordt toegezonden aan de functionarissen voor de gegevensbescherming, bedoeld in artikel 62, en algemeen verkrijgbaar gesteld.  
 
 ### Artikel  59  
 
-1.  Het College verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak nodig is.   
-2.  Het eerste lid is niet van toepassing indien het College de informatie van derden heeft verkregen onder de voorwaarde dat het geheime karakter daarvan wordt gehandhaafd.   
+Artikel 20 van de Kaderwet is niet van toepassing indien het College de informatie van derden heeft verkregen onder de voorwaarde dat het geheime karakter daarvan wordt gehandhaafd.  
+
+### Artikel  59a  
+
+1.  De artikelen 21 en 22 van de Kaderwet zijn niet van toepassing op het College.   
+2.  Artikel 23 van de Kaderwet vindt slechts toepassing ten aanzien van het door het College gevoerde financiële beheer en de administratieve organisatie.   
 
 ### Artikel  60  
 
@@ -629,8 +633,8 @@ Het College stelt jaarlijks vóór 1 september een verslag op van de werkzaamhed
 
 1.  Met het toezicht op de naleving als bedoeld in artikel 51, eerste lid zijn belast de leden en buitengewone leden van het College, de ambtenaren van het secretariaat van het College, alsmede de bij besluit van het College aangewezen personen.   
 2.  De in het eerste lid bedoelde personen zijn bevoegd een woning te betreden zonder toestemming van de bewoner.   
-3.  De in het eerste lid bedoelde personen behoeven voor de uitoefening van de in het tweede lid omschreven bevoegdheid de uitdrukkelijke en bijzondere volmacht van het College, onverminderd het bepaalde in [artikel 2 van de Algemene wet op het binnentreden](../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).   
-4.  Het College is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het betreft de verplichting tot het verlenen van medewerking aan een bij of krachtens het eerste lid aangewezen ambtenaar.   
+3.  De in het eerste lid bedoelde personen behoeven voor de uitoefening van de in het tweede lid omschreven bevoegdheid de uitdrukkelijke en bijzondere volmacht van het College, onverminderd het bepaalde in artikel 2 van de Algemene wet op het binnentreden.   
+4.  Het College is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, voor zover het betreft de verplichting tot het verlenen van medewerking aan een bij of krachtens het eerste lid aangewezen ambtenaar.   
 5.  Geen beroep is mogelijk op een geheimhoudingsplicht, voor zover inlichtingen of medewerking wordt verlangd in verband met de eigen betrokkenheid bij de verwerking van persoonsgegevens.   
 6.  Het College is desgevraagd verplicht aan de toezichthoudende autoriteiten van de andere lidstaten van de Europese Unie alle medewerking te verlenen voor zover dat noodzakelijk is voor de uitvoering van hun taken.   
 
@@ -653,7 +657,7 @@ Een verantwoordelijke of een organisatie waarbij verantwoordelijken zijn aangesl
 
 1.  De functionaris ziet toe op de verwerking van persoonsgegevens overeenkomstig het bij en krachtens de wet bepaalde. Het toezicht strekt zich uit tot de verwerking van persoonsgegevens door de verantwoordelijke die hem heeft benoemd of door de verantwoordelijken die zijn aangesloten bij de organisatie die hem heeft benoemd.   
 2.  Indien op de verwerking een krachtens artikel 25 vastgestelde gedragscode van toepassing is, strekt het toezicht mede uit tot de naleving van deze code.   
-3.  De verantwoordelijke of de organisatie als bedoeld in het eerste lid draagt zorg dat de functionaris ter vervulling van zijn taak over bevoegdheden beschikt die gelijkwaardig zijn aan de bevoegdheden zoals geregeld in [Titel 5.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  De verantwoordelijke of de organisatie als bedoeld in het eerste lid draagt zorg dat de functionaris ter vervulling van zijn taak over bevoegdheden beschikt die gelijkwaardig zijn aan de bevoegdheden zoals geregeld in Titel 5.2 van de Algemene wet bestuursrecht.   
 4.  De functionaris kan aanbevelingen doen aan de verantwoordelijke die strekken tot een betere bescherming van de gegevens die worden verwerkt. In gevallen van twijfel overlegt hij met het College.   
 
 ### Hoofdstuk  10  
@@ -680,10 +684,6 @@ Het College kan aan de verantwoordelijke een bestuurlijke boete opleggen van ten
 
 De werking van de beschikking tot oplegging van de bestuurlijk boete wordt opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.  
 
-### Artikel  74  
-
-Onze Minister kan beleidsregels vaststellen over de uitoefening van de bevoegdheid van het College tot de oplegging van boeten.  
-
 ### Paragraaf  3  
 
 ####Strafrechtelijke sancties
@@ -693,7 +693,7 @@ Onze Minister kan beleidsregels vaststellen over de uitoefening van de bevoegdhe
 1.  De verantwoordelijke die in strijd handelt met hetgeen bij of krachtens artikel 4, derde lid, 27, 28, 78, tweede lid, onder a, of 79, eerste lid, is bepaald, wordt gestraft met geldboete van de derde categorie.   
 2.  De verantwoordelijke die een feit als bedoeld in het eerste lid, opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.   
 3.  De in het eerste lid strafbaar gestelde feiten zijn overtredingen. De in het tweede lid strafbaar gestelde feiten zijn misdrijven.   
-4.  Met de opsporing van de in dit artikel omschreven feiten zijn behalve de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren belast de door Onze Minister daartoe aangewezen ambtenaren van het secretariaat van het College.   
+4.  Met de opsporing van de in dit artikel omschreven feiten zijn behalve de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren belast de door Onze Minister daartoe aangewezen ambtenaren van het secretariaat van het College.   
 
 ### Hoofdstuk  11  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels vast te stellen omtrent de beginselen waarop de verpleging in inrichtingen voor verpleging van ter beschikking gestelden en de rechtspositie van verpleegden, in het bijzonder van de ter beschikking gestelden die in justitiële inrichtingen als bedoeld in [artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), worden verpleegd, berusten en in verband daarmee enige bepalingen van het [Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de Beginselenwet gevangeniswezen te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is regels vast te stellen omtrent de beginselen waarop de verpleging in inrichtingen voor verpleging van ter beschikking gestelden en de rechtspositie van verpleegden, in het bijzonder van de ter beschikking gestelden die in justitiële inrichtingen als bedoeld in artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht, worden verpleegd, berusten en in verband daarmee enige bepalingen van het Wetboek van Strafrecht en de Beginselenwet gevangeniswezen te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### HOOFDSTUK  I  
 
@@ -18,29 +18,29 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Justitie;  
 
-b. inrichting voor verpleging van ter beschikking gestelden: een inrichting als bedoeld in [artikel 37d, eerste lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. inrichting voor verpleging van ter beschikking gestelden: een inrichting als bedoeld in artikel 37d, eerste lid, van het Wetboek van Strafrecht;  
 
-c. particuliere inrichting: een inrichting als bedoeld in [artikel 90quinquies, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in samenhang met [artikel 37d, eerste lid, onder a, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+c. particuliere inrichting: een inrichting als bedoeld in artikel 90quinquies, eerste lid, in samenhang met artikel 37d, eerste lid, onder a, van het Wetboek van Strafrecht;  
 
-d. inrichting: een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in [artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+d. inrichting: een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht;  
 
-e. rijksinrichting: een inrichting als bedoeld in [artikel 90quinquies, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in samenhang met [artikel 37d, eerste lid, onder b, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+e. rijksinrichting: een inrichting als bedoeld in artikel 90quinquies, tweede lid, in samenhang met artikel 37d, eerste lid, onder b, van het Wetboek van Strafrecht;  
 
-f. justitiële particuliere inrichting: een inrichting als bedoeld in [artikel 90quinquies, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in samenhang met [artikel 37d, eerste lid, onder a, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+f. justitiële particuliere inrichting: een inrichting als bedoeld in artikel 90quinquies, tweede lid, in samenhang met artikel 37d, eerste lid, onder a, van het Wetboek van Strafrecht;  
 
 g. hoofd van de inrichting: het hoofd van de inrichting, waarin de verpleegde is opgenomen, alsmede diens vervanger als bedoeld in artikel 6, vierde lid;  
 
 h. hoofd van de inrichting voor verpleging van ter beschikking gestelden: het hoofd van de inrichting als bedoeld onder *g* of, ingeval een ter beschikking gestelde in een particuliere inrichting, niet zijnde een justitiële particuliere inrichting, is opgenomen, het hoofd van die inrichting alsmede de voor de behandeling van de ter beschikking gestelde verantwoordelijke persoon;  
 
-i. ter beschikking gestelde: een ter beschikking gestelde ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in [artikel 37b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38c van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is gegeven;  
+i. ter beschikking gestelde: een ter beschikking gestelde ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in artikel 37b of 38c van het Wetboek van Strafrecht is gegeven;  
 
 j. verpleegde: een persoon die in een inrichting is opgenomen;  
 
 k. personeelslid of medewerker: een persoon, die een taak uitvoert in het kader van de tenuitvoerlegging van een vrijheidsbenemende straf of maatregel in een inrichting voor verpleging van ter beschikking gestelden;  
 
-l. reclasseringswerker: een reclasseringswerker als bedoeld in [artikel 6, eerste lid, van de Reclasseringsregeling 1995](../../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+l. reclasseringswerker: een reclasseringswerker als bedoeld in artikel 6, eerste lid, van de Reclasseringsregeling 1995;  
 
-m. rechtsbijstandverlener: de advocaat of de medewerker van de stichting, bedoeld in [artikel 22, eerste lid, van de Wet op de rechtsbijstand](../../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+m. rechtsbijstandverlener: de advocaat of de medewerker van de stichting, bedoeld in artikel 22, eerste lid, van de Wet op de rechtsbijstand;  
 
 n. Raad: de Raad voor strafrechtstoepassing en jeugdbescherming;  
 
@@ -117,24 +117,24 @@ cc. huisregels: regels als bedoeld in artikel 7, eerste lid.
 
 ### Artikel  3  
 
-1.  De inrichtingen zijn van inrichtingen als bedoeld in [artikel 3, eerste lid, van de Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) gescheiden. Onze Minister kan hierop ten aanzien van bepaalde inrichtingen een uitzondering maken.   
+1.  De inrichtingen zijn van inrichtingen als bedoeld in artikel 3, eerste lid, van de Penitentiaire beginselenwet gescheiden. Onze Minister kan hierop ten aanzien van bepaalde inrichtingen een uitzondering maken.   
 2.  Binnen een en dezelfde inrichting verblijven mannelijke en vrouwelijke verpleegden gescheiden van elkaar. Onze Minister kan hierop ten aanzien van bepaalde afdelingen een uitzondering maken. Het hoofd van de inrichting kan verpleegden van verschillend geslacht, die niet op dezelfde afdeling verblijven, in de gelegenheid stellen gezamenlijk aan bepaalde activiteiten deel te nemen of bepaalde werkzaamheden te verrichten.   
 
 ### Artikel  4  
 
 1.  Inrichtingen zijn bestemd voor opneming van: 
 
-a. personen, wier verpleging van overheidswege op grond van [artikel 37b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38c van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is bevolen;  
+a. personen, wier verpleging van overheidswege op grond van artikel 37b of 38c van het Wetboek van Strafrecht is bevolen;  
 
-b. personen als bedoeld in de [artikelen 196](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [317](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [509g van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+b. personen als bedoeld in de artikelen 196, 317 en 509g van het Wetboek van Strafvordering;  
 
-c. tot vrijheidsstraf veroordeelden ten aanzien van wie is besloten tot toepassing van [artikel 13 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+c. tot vrijheidsstraf veroordeelden ten aanzien van wie is besloten tot toepassing van artikel 13 van het Wetboek van Strafrecht;  
 
-d. ter beschikking gestelden aan wie door de rechter een voorwaarde als bedoeld in [artikel 38a, eerste lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is gesteld om zich in een inrichting te laten opnemen;  
+d. ter beschikking gestelden aan wie door de rechter een voorwaarde als bedoeld in artikel 38a, eerste lid, van het Wetboek van Strafrecht is gesteld om zich in een inrichting te laten opnemen;  
 
 e. personen aan wie door de rechter als bijzondere voorwaarde is opgelegd om zich in een inrichting te laten opnemen;  
 
-f. personen aan wie met toepassing van de [artikel 77s van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd;  
+f. personen aan wie met toepassing van de artikel 77s van het Wetboek van Strafrecht de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd;  
 
 g. personen, die op eigen verzoek: 
 
@@ -146,7 +146,7 @@ g. personen, die op eigen verzoek:
 
 ### Artikel  5  
 
-1.  Verpleging van ter beschikking gestelden in particuliere inrichtingen wordt slechts opgedragen tot wederopzegging toe aan in Nederland gevestigde rechtspersonen met volledige rechtsbevoegdheid tot wier bemoeiing duurzame verpleging van personen met gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens behoort en die daartoe een psychiatrisch ziekenhuis als bedoeld in [artikel 1, onder *h*, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) beheren.   
+1.  Verpleging van ter beschikking gestelden in particuliere inrichtingen wordt slechts opgedragen tot wederopzegging toe aan in Nederland gevestigde rechtspersonen met volledige rechtsbevoegdheid tot wier bemoeiing duurzame verpleging van personen met gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens behoort en die daartoe een psychiatrisch ziekenhuis als bedoeld in artikel 1, onder *h*, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen beheren.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwijzing als particuliere inrichting en de daaraan te verbinden voorwaarden. Deze regels kunnen ook betreffen de wijze waarop de verpleging en behandeling in de particuliere inrichtingen plaatsvindt.   
 3.  Het beheer van een particuliere inrichting berust bij het hoofd van de inrichting dat als zodanig door het bestuur wordt benoemd.   
 
@@ -191,8 +191,8 @@ c. de hoorplicht als bedoeld in artikel 53 en de mededelingsplicht als bedoeld i
 ### Artikel  7b  
 
 1.  Het hoofd van de inrichting stelt voor personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  Het hoofd van de inrichting bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
@@ -204,7 +204,7 @@ c. de hoorplicht als bedoeld in artikel 53 en de mededelingsplicht als bedoeld i
 
 1.  Onze Minister houdt toezicht op de verpleging van personen ten aanzien van wie de tenuitvoerlegging van een vrijheidsbenemende straf of maatregel in een particuliere inrichting plaatsvindt.   
 2.  De door Onze Minister aangewezen ambtenaren worden daartoe alle ter zake dienende inlichtingen verstrekt en hebben te allen tijde toegang tot een zodanige inrichting. Zij zijn, onder verplichting van geheimhouding tegenover derden en voor zover dit voor de uitoefening van hun taak redelijkerwijs nodig is, bevoegd de op personen als bedoeld in het eerste lid betrekking hebbende stukken in te zien.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het houden van aantekeningen als bedoeld in [artikel 509 *o*, tweede lid, onder 2°, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en het aantekenen van andere belangrijke voorvallen in inrichtingen voor verpleging van ter beschikking gestelden in een register, waarvan het model door Onze Minister wordt vastgesteld.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het houden van aantekeningen als bedoeld in artikel 509 *o*, tweede lid, onder 2°, van het Wetboek van Strafvordering en het aantekenen van andere belangrijke voorvallen in inrichtingen voor verpleging van ter beschikking gestelden in een register, waarvan het model door Onze Minister wordt vastgesteld.   
 
 ### Artikel  9  
 
@@ -232,7 +232,7 @@ d. aan Onze Minister, de Raad en het bestuur advies en inlichtingen te geven omt
 
 ### Artikel  11  
 
-1.  De plaatsing van ter beschikking gestelden in een inrichting voor verpleging van ter beschikking gestelden geschiedt op last van Onze Minister. De inrichting is verplicht de betrokkene op te nemen. De inrichting is tevens verplicht ter beschikking gestelden op te nemen aan wie op grond van een uitspraak van de rechter als bedoeld in [artikel 38 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de voorwaarde is gesteld tot opname in een door de rechter aangewezen inrichting.   
+1.  De plaatsing van ter beschikking gestelden in een inrichting voor verpleging van ter beschikking gestelden geschiedt op last van Onze Minister. De inrichting is verplicht de betrokkene op te nemen. De inrichting is tevens verplicht ter beschikking gestelden op te nemen aan wie op grond van een uitspraak van de rechter als bedoeld in artikel 38 van het Wetboek van Strafrecht de voorwaarde is gesteld tot opname in een door de rechter aangewezen inrichting.   
 2.  Bij de plaatsing worden in ieder geval in de overwegingen betrokken: 
 
 a. de eisen die de bescherming van de maatschappij tegen de gevaarlijkheid van de ter beschikking gestelde voor de veiligheid van anderen dan de ter beschikking gestelde of de algemene veiligheid van personen of goederen stelt;  
@@ -250,12 +250,12 @@ b. de eisen die de behandeling van de ter beschikking gestelde gezien de aard va
 
 ### Artikel  13  
 
-1.  Onze Minister kan bepalen dat een ter beschikking gestelde of anderszins verpleegde tijdelijk voor een periode van ten hoogste zeven weken ter observatie wordt geplaatst in een andere inrichting voor verpleging van ter beschikking gestelden dan wel een psychiatrisch ziekenhuis of een inrichting tot klinische observatie bestemd, door Onze Minister overeenkomstig [artikel 198, derde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen. Indien de ter beschikking gestelde of anderszins verpleegde niet naar een andere inrichting voor verpleging van ter beschikking gestelden wordt overgeplaatst, keert hij na het verstrijken van deze termijn naar de inrichting waarin hij was opgenomen terug.   
+1.  Onze Minister kan bepalen dat een ter beschikking gestelde of anderszins verpleegde tijdelijk voor een periode van ten hoogste zeven weken ter observatie wordt geplaatst in een andere inrichting voor verpleging van ter beschikking gestelden dan wel een psychiatrisch ziekenhuis of een inrichting tot klinische observatie bestemd, door Onze Minister overeenkomstig artikel 198, derde lid, van het Wetboek van Strafvordering aangewezen. Indien de ter beschikking gestelde of anderszins verpleegde niet naar een andere inrichting voor verpleging van ter beschikking gestelden wordt overgeplaatst, keert hij na het verstrijken van deze termijn naar de inrichting waarin hij was opgenomen terug.   
 2.  Onze Minister kan, indien dit met het oog op de voorbereiding van de terugkeer van de ter beschikking gestelde of anderszins verpleegde naar de inrichting waarin hij was opgenomen noodzakelijk is, de termijn, bedoeld in het eerste lid, met ten hoogste vier weken verlengen.   
 
 ### Artikel  14  
 
-1.  Indien de aard van de bij de ter beschikking gestelde of anderszins verpleegde geconstateerde gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens daartoe aanleiding geeft, kan Onze Minister bepalen dat de ter beschikking gestelde of anderszins verpleegde naar een psychiatrisch ziekenhuis als bedoeld in [artikel 1, onder *h*, van de Wet Bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), niet zijnde een inrichting voor verpleging van ter beschikking gestelden, zal worden overgeplaatst om daar zolang dat noodzakelijk is, te worden verpleegd.   
+1.  Indien de aard van de bij de ter beschikking gestelde of anderszins verpleegde geconstateerde gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens daartoe aanleiding geeft, kan Onze Minister bepalen dat de ter beschikking gestelde of anderszins verpleegde naar een psychiatrisch ziekenhuis als bedoeld in artikel 1, onder *h*, van de Wet Bijzondere opnemingen in psychiatrische ziekenhuizen, niet zijnde een inrichting voor verpleging van ter beschikking gestelden, zal worden overgeplaatst om daar zolang dat noodzakelijk is, te worden verpleegd.   
 2.  Indien de beslissing van Onze Minister niet kan worden afgewacht, kan het hoofd van de inrichting voor verpleging van ter beschikking gestelden een voorlopige beslissing nemen.   
 
 ### Artikel  15  
@@ -315,7 +315,7 @@ b. indien het hoofd van de inrichting daartoe een besluit heeft genomen en dit n
 
 ### Artikel  18  
 
-1.  De verpleegde heeft recht op een periodieke evaluatie door het hoofd van de inrichting van het verloop van de verpleging en behandeling. Deze evaluatie vindt ten minste eenmaal per jaar en, indien de verpleegde een ter beschikking gestelde is, in ieder geval tijdig voor de opmaking van een advies als bedoeld in [artikel 509 *o*, tweede lid, onder 1°, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) plaats.   
+1.  De verpleegde heeft recht op een periodieke evaluatie door het hoofd van de inrichting van het verloop van de verpleging en behandeling. Deze evaluatie vindt ten minste eenmaal per jaar en, indien de verpleegde een ter beschikking gestelde is, in ieder geval tijdig voor de opmaking van een advies als bedoeld in artikel 509 *o*, tweede lid, onder 1°, van het Wetboek van Strafvordering plaats.   
 2.  Het hoofd van de inrichting draagt zorg dat van iedere evaluatie een verslag wordt gemaakt en dat dit verslag zo spoedig mogelijk met de verpleegde wordt besproken.   
 3.  Indien de verpleegde van oordeel is dat het evaluatieverslag feitelijk onjuist of onvolledig is, heeft hij het recht op dit verslag schriftelijk commentaar te geven. Indien het evaluatieverslag niet overeenkomstig het commentaar wordt verbeterd of aangevuld, draagt het hoofd van de inrichting zorg dat het commentaar aan het evaluatieverslag wordt gehecht.   
 4.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de procedure die met betrekking tot de evaluatie dient te worden gevolgd en de eisen die aan het verslag daarvan ten minste dienen te worden gesteld.   
@@ -332,13 +332,13 @@ c. op schrift gestelde samenvattingen van besprekingen voor zover betrekking heb
 
 d. evaluatieverslagen;  
 
-e. adviezen en aantekeningen als bedoeld in [artikel 509 *o*, tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+e. adviezen en aantekeningen als bedoeld in artikel 509 *o*, tweede lid, van het Wetboek van Strafvordering;  
 
 f. opname- en ontslaggegevens;  
 
 g. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld in artikel 49, zevende lid.     
 2.  Bij algemene maatregel van bestuur worden nadere regels gesteld inzake de eisen waaraan het verpleegdedossier ten minste moet voldoen, de gegevens die daarin moeten worden vastgelegd, de termijn gedurende welke het verpleegdedossier moet worden bewaard, de wijze waarop het verpleegdedossier moet worden beheerd, bewaard en, na afloop van de bewaartermijn, vernietigd, alsmede de overdracht van gegevens in geval van een overplaatsing van de verpleegde.   
-3.  Met toepassing van het bepaalde in [artikel 464 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn [de artikelen 454](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [455](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van dit boek niet van overeenkomstige toepassing.   
+3.  Met toepassing van het bepaalde in artikel 464 van Boek 7 van het Burgerlijk Wetboek zijn de artikelen 454 en 455 van dit boek niet van overeenkomstige toepassing.   
 
 ### Artikel  20  
 
@@ -347,7 +347,7 @@ g. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld i
 3.  Het hoofd van de inrichting kan het recht op kennisneming van evaluatieverslagen beperken tot een daarvan gemaakte samenvatting, indien de verpleging dit vereist.   
 4.  Het hoofd van de inrichting kan, in geval van toepassing van het tweede of derde lid, een door de verpleegde gemachtigde persoon doen kennis nemen van de gegevens waarvan de kennisneming aan de verpleegde onthouden wordt.   
 5.  Voor wat betreft het verplegings- en behandelingsplan en het evaluatieverslag omvat het recht op kennisneming tevens het recht op het ontvangen van een afschrift.   
-6.  Met toepassing van het bepaalde in [artikel 464 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is [artikel 456](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van dit boek niet van overeenkomstige toepassing.   
+6.  Met toepassing van het bepaalde in artikel 464 van Boek 7 van het Burgerlijk Wetboek is artikel 456 van dit boek niet van overeenkomstige toepassing.   
 
 ### HOOFDSTUK  V  
 
@@ -360,9 +360,9 @@ g. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld i
 
 ### Artikel  22  
 
-1.  Het hoofd van de inrichting stelt bij de eerste opname in de inrichting, bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) en voor zover dit anderszins noodzakelijk is, de identiteit van de verpleegde vast.   
-2.  Het vaststellen van de identiteit van de verpleegde omvat bij de eerste opname in de inrichting het vragen naar zijn naam, voornamen, geboorteplaats en geboortedatum, het adres waarop hij in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven en het adres van zijn feitelijke verblijfplaats buiten de inrichting. Het omvat tevens het nemen van een of meer vingerafdrukken. In de gevallen waarin van de verpleegde eerder overeenkomstig het [Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vingerafdrukken zijn genomen en verwerkt, omvat het vaststellen van zijn identiteit bij binnenkomst in de inrichting tevens een vergelijking van zijn vingerafdrukken met de van hem verwerkte vingerafdrukken. In de andere gevallen omvat het vaststellen van zijn identiteit een onderzoek van zijn identiteitsbewijs, bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). [Artikel 29a, tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
-3.  Het vaststellen van de identiteit van de verpleegde omvat in de andere gevallen dan de eerste opname in de inrichting het nemen van een of meer vingerafdrukken en het vergelijken van die vingerafdrukken met de van hem bij binnenkomst genomen vingerafdrukken. Bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) worden van de verpleegde tevens een of meer vingerafdrukken overeenkomstig het [Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) genomen en verwerkt.   
+1.  Het hoofd van de inrichting stelt bij de eerste opname in de inrichting, bij de tenuitvoerlegging van een bevel als bedoeld in artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden en voor zover dit anderszins noodzakelijk is, de identiteit van de verpleegde vast.   
+2.  Het vaststellen van de identiteit van de verpleegde omvat bij de eerste opname in de inrichting het vragen naar zijn naam, voornamen, geboorteplaats en geboortedatum, het adres waarop hij in de basisregistratie personen is ingeschreven en het adres van zijn feitelijke verblijfplaats buiten de inrichting. Het omvat tevens het nemen van een of meer vingerafdrukken. In de gevallen waarin van de verpleegde eerder overeenkomstig het Wetboek van Strafvordering vingerafdrukken zijn genomen en verwerkt, omvat het vaststellen van zijn identiteit bij binnenkomst in de inrichting tevens een vergelijking van zijn vingerafdrukken met de van hem verwerkte vingerafdrukken. In de andere gevallen omvat het vaststellen van zijn identiteit een onderzoek van zijn identiteitsbewijs, bedoeld in artikel 1 van de Wet op de identificatieplicht. Artikel 29a, tweede lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
+3.  Het vaststellen van de identiteit van de verpleegde omvat in de andere gevallen dan de eerste opname in de inrichting het nemen van een of meer vingerafdrukken en het vergelijken van die vingerafdrukken met de van hem bij binnenkomst genomen vingerafdrukken. Bij de tenuitvoerlegging van een bevel als bedoeld in artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden worden van de verpleegde tevens een of meer vingerafdrukken overeenkomstig het Wetboek van Strafvordering genomen en verwerkt.   
 4.  Het hoofd van de inrichting is bevoegd van de verpleegde een of meer foto’s te nemen. De foto’s kunnen worden gebruikt voor het vervaardigen van een legitimatiebewijs en voor het voorkomen, opsporen, vervolgen en berechten van strafbare feiten. De verpleegde is verplicht het legitimatiebewijs bij zich te dragen en op verzoek van een personeelslid of medewerker te tonen.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het verwerken van de persoonsgegevens, bedoeld in het tweede tot en met vierde lid.   
 
@@ -417,7 +417,7 @@ a. indien dit onderzoek plaatsvindt in het kader van het algemeen toezicht op de
 
 b. indien dit anderszins noodzakelijk is met het oog op een belang als bedoeld in artikel 23, eerste lid.     
 2.  Artikel 23, vierde lid, eerste en laatste volzin, is van overeenkomstige toepassing.   
-3.  Het hoofd van de inrichting is bevoegd de persoonlijke verblijfsruimte van een verpleegde te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de verpleegde aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van [artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.   
+3.  Het hoofd van de inrichting is bevoegd de persoonlijke verblijfsruimte van een verpleegde te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de verpleegde aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.   
 
 ### Artikel  30  
 
@@ -429,7 +429,7 @@ b. de uitvoering van een bij of krachtens deze wet genomen beslissing;
 
 c. de voorkoming van de onttrekking van een verpleegde aan het op hem uitgeoefende toezicht;  
 
-d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de [Wet DNA-onderzoek bij veroordeelden](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) door de officier van justitie of de rechter-commissaris genomen beslissing.     
+d. de uitvoering van een ingevolge het Wetboek van Strafvordering of de Wet DNA-onderzoek bij veroordeelden door de officier van justitie of de rechter-commissaris genomen beslissing.     
 2.  Het hoofd van de inrichting voor verpleging van ter beschikking gestelden is bevoegd jegens een ter beschikking gestelde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een belang als bedoeld in het eerste lid, onder *b* of *c*.   
 3.  Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf. Degene die geweld heeft gebruikt maakt hiervan onverwijld een schriftelijk verslag en doet dit verslag onverwijld aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden toekomen.   
 4.  Onze Minister stelt nadere regels omtrent het gebruik van geweld en de aanwending van vrijheidsbeperkende middelen.   
@@ -650,8 +650,8 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 a. voor zover dit voortvloeit uit een aan de uitbreiding van zijn bewegingsvrijheid verbonden voorwaarde als bedoeld in artikel 31, vierde lid, of  
 
 b. deze werkzaamheden van huishoudelijke aard zijn en betrekking hebben op de ruimten waar zij verblijven, de persoonlijke verblijfsruimte daaronder begrepen.     
-2.  Voor het verrichten van werkzaamheden, met uitzondering van de in het eerste lid, onder *b*, omschreven werkzaamheden, heeft de verpleegde recht op een door Onze Minister vast te stellen vergoeding. Deze vergoeding wordt bij de vaststelling van het bijdrageplichtig inkomen overeenkomstig het bepaalde bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) buiten beschouwing gelaten.   
-3.  De verpleegde is niet verplicht buiten de inrichting arbeid te verrichten, behoudens voor zover dit voortvloeit uit een aan het verlof of het proefverlof verbonden voorwaarde als bedoeld in artikel 50, tweede lid, onderscheidenlijk artikel 51, tweede lid. Indien de verpleegde buiten de inrichting arbeid verricht, blijft het door hem verdiende arbeidsloon zijn eigendom, onverminderd het bepaalde bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+2.  Voor het verrichten van werkzaamheden, met uitzondering van de in het eerste lid, onder *b*, omschreven werkzaamheden, heeft de verpleegde recht op een door Onze Minister vast te stellen vergoeding. Deze vergoeding wordt bij de vaststelling van het bijdrageplichtig inkomen overeenkomstig het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten buiten beschouwing gelaten.   
+3.  De verpleegde is niet verplicht buiten de inrichting arbeid te verrichten, behoudens voor zover dit voortvloeit uit een aan het verlof of het proefverlof verbonden voorwaarde als bedoeld in artikel 50, tweede lid, onderscheidenlijk artikel 51, tweede lid. Indien de verpleegde buiten de inrichting arbeid verricht, blijft het door hem verdiende arbeidsloon zijn eigendom, onverminderd het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten.   
 
 ### HOOFDSTUK  IX  
 
@@ -726,7 +726,7 @@ c. indien hij bij het bijwonen van de procedure een aanmerkelijk belang heeft en
 ### Artikel  51  
 
 1.  Indien de uit de stoornis van de geestvermogens voortvloeiende gevaarlijkheid van de ter beschikking gestelde voor de veiligheid van anderen dan de ter beschikking gestelde of de algemene veiligheid van personen of goederen dusdanig is teruggebracht dat het verantwoord is hem bij wijze van proef in de maatschappij te doen terugkeren, kan het hoofd van de inrichting voor verpleging van ter beschikking gestelden, met machtiging van Onze Minister, de ter beschikking gestelde proefverlof verlenen.   
-2.  Artikel 50, tweede lid, eerste en tweede volzin, is van overeenkomstige toepassing. De bijzondere voorwaarden kunnen inhouden dat de ter beschikking gestelde zich voor het verkrijgen van hulp en steun wendt tot een in de machtiging van Onze Minister aangewezen instelling, die aan bepaalde, bij algemene maatregel van bestuur te stellen eisen, voldoet. Bij het verlenen van hulp en steun wordt de identiteit van de ter beschikking gestelde vastgesteld. [Artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+2.  Artikel 50, tweede lid, eerste en tweede volzin, is van overeenkomstige toepassing. De bijzondere voorwaarden kunnen inhouden dat de ter beschikking gestelde zich voor het verkrijgen van hulp en steun wendt tot een in de machtiging van Onze Minister aangewezen instelling, die aan bepaalde, bij algemene maatregel van bestuur te stellen eisen, voldoet. Bij het verlenen van hulp en steun wordt de identiteit van de ter beschikking gestelde vastgesteld. Artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 3.  De ter beschikking gestelde aan wie proefverlof is verleend, geniet, behoudens de verplichtingen die voortvloeien uit hem opgelegde voorwaarden, vrijheid van beweging. Artikel 50, derde lid, is van overeenkomstige toepassing.   
 4.  Bij of krachtens algemene maatregel van bestuur worden met betrekking tot het verlof en het proefverlof nadere regels gesteld.   
 
@@ -893,7 +893,7 @@ De voorzitter van de beklagcommissie kan de behandeling van het klaagschrift voo
 4.  Indien de klager de Nederlandse taal niet voldoende beheerst en in de inrichting niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beklagcommissie zorg voor een vertaling van de uitspraak en de mededeling als bedoeld in het tweede, onderscheidenlijk derde lid. De vergoeding van de voor de vertaling gemaakte kosten geschieden volgens regelen te stellen bij algemene maatregel van bestuur.   
 5.  De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en het hoofd van de inrichting. Deze worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak als bedoeld in artikel 67, vierde lid. Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt de uitspraak op het klaagschrift aangetekend.   
 6.  Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in artikel 67, eerste lid, vindt uitwerking van de uitspraak van de beklagcommissie plaats op de wijze als bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan het hoofd van de inrichting, de klager en de beroepscommissie.   
-7.  De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de verpleegde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](../../../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md) bepaalde van overeenkomstige toepassing.   
+7.  De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de verpleegde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.   
 
 ### Artikel  66  
 
@@ -1029,13 +1029,13 @@ d. de behandeling van de verpleegde geeft onvoldoende resultaten te zien.
 
 1.  Onze Minister verstrekt aan de rechtspersoon die een justitiële particuliere inrichting beheert een subsidie voor de kosten van de exploitatie van de inrichting.   
 2.  De subsidie wordt per boekjaar verstrekt.   
-3.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+3.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 4.  Onze Minister kan voorschotten op de in het eerste lid bedoelde subsidie verlenen.   
 
 ### Artikel  74  
 
 1.  Omtrent de verstrekking van de subsidie, bedoeld in artikel 73, eerste lid, sluit Onze Minister namens de Staat een overeenkomst met de rechtspersoon die de justitiële particuliere inrichting beheert.   
-2.  Met betrekking tot de subsidie, bedoeld in artikel 73, eerste lid, kan hetgeen ingevolge [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bij wettelijk voorschrift kan worden bepaald, in afwijking van die titel worden bepaald bij de overeenkomst, bedoeld in het eerste lid.   
+2.  Met betrekking tot de subsidie, bedoeld in artikel 73, eerste lid, kan hetgeen ingevolge titel 4.2 van de Algemene wet bestuursrecht bij wettelijk voorschrift kan worden bepaald, in afwijking van die titel worden bepaald bij de overeenkomst, bedoeld in het eerste lid.   
 
 ### Artikel  75  
 
@@ -1055,7 +1055,7 @@ f. aan welke eisen de begroting, het financiële verslag en het activiteitenvers
 
 g. voor welke handelingen de rechtspersoon die de inrichting beheert de toestemming van Onze Minister behoeft;  
 
-h. in welke gevallen de rechtspersoon die de inrichting beheert een vergoeding voor vermogensvorming als bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigd is, alsmede op welke wijze deze vergoeding wordt berekend;  
+h. in welke gevallen de rechtspersoon die de inrichting beheert een vergoeding voor vermogensvorming als bedoeld in artikel 4:41 van de Algemene wet bestuursrecht verschuldigd is, alsmede op welke wijze deze vergoeding wordt berekend;  
 
 i. het vormen van een egalisatiereserve door de rechtspersoon die de inrichting beheert, en  
 
@@ -1101,7 +1101,7 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  84  
 
-De regels vastgesteld krachtens [artikel 37 *c* van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), zoals dit artikel gold vóór de inwerkingtreding van deze wet, worden geacht te zijn vastgesteld krachtens de toepasselijke bepalingen van deze wet.  
+De regels vastgesteld krachtens artikel 37 *c* van het Wetboek van Strafrecht, zoals dit artikel gold vóór de inwerkingtreding van deze wet, worden geacht te zijn vastgesteld krachtens de toepasselijke bepalingen van deze wet.  
 
 ### Artikel  85  
 

@@ -53,9 +53,9 @@ Aan welke voorwaarden een aanvraag moet voldoen, kan bij ministeriële regeling 
 
 1.  Voor het normbedrag voor een uitwonende studerende komt in aanmerking de studerende die voldoet aan de volgende verplichtingen: 
 
-a. de studerende woont op het adres waaronder hij in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, en  
+a. de studerende woont op het adres waaronder hij in de basisregistratie personen staat ingeschreven, en  
 
-b. het woonadres van de studerende is niet het adres waaronder zijn ouders of een van hen in de gemeentelijke basisadministratie persoonsgegevens staat of staan ingeschreven.     
+b. het woonadres van de studerende is niet het adres waaronder zijn ouders of een van hen in de basisregistratie personen staat of staan ingeschreven.     
 2.  Op een studerende die ingevolge artikel 2.13a of artikel 2.14 in aanmerking komt voor studiefinanciering is het eerste lid, onderdeel a, niet van toepassing.   
 
 ### Artikel  1.7  
@@ -349,7 +349,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 ####Toeslag partner
 
 1.  Aan een studerende met een partner die financieel van hem afhankelijk is en die niet in aanmerking komt voor studiefinanciering, wordt een toeslag voor een partner toegekend.   
-2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2013: € 9.017,71 en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is [artikel 8, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
+2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2014: € 9.150,27 en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is [artikel 8, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
 3.  Het bedrag, bedoeld in het eerste lid, is opgenomen in artikel 3.18.   
 4.  [Artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) is van toepassing.   
 
@@ -398,7 +398,7 @@ b. een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 
 1.  Maatstaf voor de bepaling van de veronderstelde ouderlijke bijdrage is het toetsingsinkomen van de afzonderlijke ouders van de studerende in het peiljaar.   
 2.   Vervallen.    
-3.  Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16 Per 1 januari 2013: € 17.668,93.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven, blijkens die basisadministratie slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2013: € 22.407,00..   
+3.  Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16 Per 1 januari 2014: € 17.928,66.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de basisregistratie personen is ingeschreven, blijkens de basisregistratie personen slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2014: € 22.736,38..   
 4.  Het bruto kortingsbedrag op jaarbasis is 26% van het verschil tussen het toetsingsinkomen in het peiljaar en de vrije voet in het toekenningsjaar.   
 5.  Op het bruto kortingsbedrag, bedoeld in het vierde lid, worden in mindering gebracht: 
 
@@ -482,7 +482,7 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ####Vordering wegens eigen inkomsten studerende
 
-1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 Per 1 januari 2013: € 13.530,90..   
+1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 Per 1 januari 2014: € 13.729,80..   
 2.   Vervallen.    
 3.  Tot het meerinkomen worden niet gerekend: 
 
@@ -534,11 +534,11 @@ De bedragen in onderstaande overzichten luiden per maand en zijn uitgedrukt in e
 |:---|:---|:---|
 | Levensonderhoud  | --- | --- |
 | a. thuiswonend  | € 573,53 
-per 1 januari 2013 tot 1 januari 2014: € 618,29.  | € 438,67 
-per 1 januari 2013 tot 1 januari 2014: € 472,89.  |
+per 1 januari 2014 tot 1 januari 2015: € 633,44.  | € 438,67 
+per 1 januari 2014 tot 1 januari 2015: € 484,48.  |
 | b. uitwonend  | € 754,41 
-per 1 januari 2013 tot 1 januari 2014: € 813,29.  | € 619,55 
-per 1 januari 2013 tot 1 januari 2014: € 667,89.  |
+per 1 januari 2014 tot 1 januari 2015: € 833,22.  | € 619,55 
+per 1 januari 2014 tot 1 januari 2015: € 684,25.  |
 
 Overzicht 2. Financieringsbronnen 
 
@@ -546,27 +546,27 @@ Overzicht 2. Financieringsbronnen
 |:---|:---|:---|
 | Basisbeurs (excl. toeslagen)  | --- | --- |
 | a. thuiswonend  | € 90,77 
-per 1 januari 2013 tot 1 januari 2014: € 97,85.  | € 71,57 
-per 1 januari 2013 tot 1 januari 2014: € 77,15.  |
+per 1 januari 2014 tot 1 januari 2015: € 100,25.  | € 71,57 
+per 1 januari 2014 tot 1 januari 2015: € 79,04.  |
 | b. uitwonend  | € 252,73 
-per 1 januari 2013 tot 1 januari 2014: € 272,46.  | € 233,53 
-per 1 januari 2013 tot 1 januari 2014: € 251,76.  |
+per 1 januari 2014 tot 1 januari 2015: € 279,14.  | € 233,53 
+per 1 januari 2014 tot 1 januari 2015: € 257,93.  |
 | Maximale aanvullende beurs/lening (of veronderstelde ouderlijke bijdrage)  | --- | --- |
 | a. thuiswonend  | € 206,25 
-per 1 januari 2013 tot 1 januari 2014: € 229,94.  | € 292,46 
-per 1 januari 2013 tot 1 januari 2014: € 316,44.  |
+per 1 januari 2014 tot 1 januari 2015: € 237,46.  | € 292,46 
+per 1 januari 2014 tot 1 januari 2015: € 324,10.  |
 | b. uitwonend  | € 225,17 
-per 1 januari 2013 tot 1 januari 2014: € 250,33.  | € 311,38 
-per 1 januari 2013 tot 1 januari 2014: € 336,83.  |
+per 1 januari 2014 tot 1 januari 2015: € 258,35.  | € 311,38 
+per 1 januari 2014 tot 1 januari 2015: € 344,98.  |
 | Basislening  | € 276,51 
-per 1 januari 2013 tot 1 januari 2014: € 290,50.  | € 155,89 
-per 1 januari 2013 tot 1 januari 2014: € 168,05.  |
+per 1 januari 2014 tot 1 januari 2015: € 295,73.  | € 155,89 
+per 1 januari 2014 tot 1 januari 2015: € 172,17.  |
 | Toeslag partner  | € 529,03 
-per 1 januari 2013 tot 1 januari 2014: € 570,31.  | € 529,03 
-per 1 januari 2013 tot 1 januari 2014: € 570,31.  |
+per 1 januari 2014 tot 1 januari 2015: € 584,28.  | € 529,03 
+per 1 januari 2014 tot 1 januari 2015: € 584,28.  |
 | Toeslag één-oudergezin  | € 423,34 
-per 1 januari 2013 tot 1 januari 2014: € 456,36.  | € 423,34 
-per 1 januari 2013 tot 1 januari 2014: € 456,36.  |
+per 1 januari 2014 tot 1 januari 2015: € 467,54.  | € 423,34 
+per 1 januari 2014 tot 1 januari 2015: € 467,54.  |
 
 ### Paragraaf  3.6  
 
@@ -732,7 +732,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een 
 1.  Studiefinanciering, met uitzondering van de basislening en de aanvullende lening, wordt voor een opleiding niveau 3 of 4 binnen en buiten Nederland tezamen gedurende ten hoogste 4 jaren verstrekt in de vorm van een prestatiebeurs, met dien verstande dat de aanvullende beurs in de eerste 12 maanden waarvoor aanspraak op studiefinanciering bestaat wordt verstrekt in de vorm van een gift.   
 2.  Indien een deelnemer een specialistenopleiding volgt en hij 4 jaren studiefinanciering in de vorm van prestatiebeurs heeft genoten, wordt aan hem studiefinanciering, met uitzondering van de basislening en de aanvullende lening, voor die opleiding op aanvraag gedurende ten hoogste 2 jaren verstrekt in de vorm van een prestatiebeurs.   
 3.  Indien aan de voorwaarden, bedoeld in deze paragraaf, wordt voldaan wordt de prestatiebeurs omgezet in een gift.   
-4.  Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2005 € 787,02 per 1 januari 2013 tot 1 januari 2014 € 873,12. Tevens kan een reisvoorziening worden verstrekt.   
+4.  Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2005 € 787,02 per 1 januari 2014 tot 1 januari 2015 € 894,51. Tevens kan een reisvoorziening worden verstrekt.   
 5.  Op aanvraag kan een deelnemer als bedoeld in artikel 3.4, gedurende de periode, bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.   
 6.  Op aanvraag kan een deelnemer als bedoeld in artikel 3.5, gedurende de periode bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.   
 
@@ -823,7 +823,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die zijn ingeschreven
 ####Studiefinanciering
 
 1.  Studiefinanciering wordt gedurende ten hoogste 4 jaren verstrekt in de vorm van een gift.   
-2.  Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2004 € 770,53 per 1 januari 2013 tot 1 januari 2014 € 873,12. Tevens kan een reisvoorziening worden verstrekt.   
+2.  Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2004 € 770,53 per 1 januari 2014 tot 1 januari 2015 € 894,51. Tevens kan een reisvoorziening worden verstrekt.   
 
 ### Artikel  4.19  
 
@@ -886,7 +886,7 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 
 1.  Studiefinanciering, met uitzondering van het collegegeldkrediet, de basislening en de aanvullende lening, wordt gedurende 4 jaren of het aantal jaren genoemd in artikel 5.6, dan wel bedoeld in artikel 2.14, derde lid, verstrekt in de vorm van een prestatiebeurs, met dien verstande dat de aanvullende beurs in de eerste 5 maanden waarvoor aanspraak op studiefinanciering bestaat wordt verstrekt in de vorm van een gift.   
 2.  Indien aan de voorwaarden, bedoeld in dit hoofdstuk, wordt voldaan wordt de prestatiebeurs omgezet in een gift.   
-3.  Studiefinanciering, met uitzondering van het collegegeldkrediet, wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.3, 3.13 en 3.18, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2013 tot 1 januari 2014 € 873,12. Tevens kan een reisvoorziening worden verstrekt.   
+3.  Studiefinanciering, met uitzondering van het collegegeldkrediet, wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.3, 3.13 en 3.18, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2014 tot 1 januari 2015 € 894,51. Tevens kan een reisvoorziening worden verstrekt.   
 4.  De basislening en de aanvullende lening kunnen gedurende de periode, bedoeld in het eerste lid, worden verstrekt. Het collegegeldkrediet kan gedurende de periode bedoeld in het eerste en derde lid worden verstrekt.   
 5.  Op aanvraag kan een student als bedoeld in artikel 3.4, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.   
 6.  Op aanvraag kan een student als bedoeld in artikel 3.5, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.   
@@ -976,9 +976,13 @@ Indien een student in het studiejaar waarvoor hij op enig moment na 31 januari 
 
 ####Omzettingsprocedure eerste 12 maanden
 
+Vervallen per 01-09-2004   
+
 ### Paragraaf  5.6  
 
 ####Herkansing voor omzetting eerste 12 maanden
+
+Vervallen per 01-09-2004   
 
 ### Paragraaf  5.7  
 
@@ -1329,7 +1333,7 @@ b. de bij besluit van het college van burgemeester en wethouders aangewezen ambt
 
 1.  Een ieder is verplicht aan Onze Minister of aan een daartoe door of vanwege Onze Minister aangewezen persoon of instantie desgevraagd de ten behoeve van de uitvoering van deze wet benodigde inlichtingen over zichzelf te geven.   
 2.  De inlichtingen worden verstrekt binnen een door Onze Minister of door een in het eerste lid bedoelde persoon of instantie te stellen redelijke termijn.   
-3.  Inlichtingen over zichzelf, voor zover zij kunnen leiden tot de toekenning van minder studiefinanciering of tot verhoging van het bedrag van de terugbetalingstermijn worden steeds ongevraagd en schriftelijk verstrekt door de studerende onderscheidenlijk door de debiteur, onmiddellijk na het bekend worden van die gegevens. De inlichtingen, bedoeld in de eerste volzin, omvatten niet het doorgeven van een wijziging van het adres als bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).   
+3.  Inlichtingen over zichzelf, voor zover zij kunnen leiden tot de toekenning van minder studiefinanciering of tot verhoging van het bedrag van de terugbetalingstermijn worden steeds ongevraagd en schriftelijk verstrekt door de studerende onderscheidenlijk door de debiteur, onmiddellijk na het bekend worden van die gegevens. De inlichtingen, bedoeld in de eerste volzin, omvatten niet het doorgeven van een wijziging van het adres als bedoeld in de [Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).   
 4.  Onze Minister kan bepalen dat de inlichtingen, bedoeld in het eerste tot en met het derde lid, worden verstrekt op een bij ministeriële regeling vast te stellen wijze.   
 
 ### Artikel  9.3  
@@ -1394,7 +1398,7 @@ Indien een instelling als bedoeld in artikel 2.4, onderdeel b, op enig moment in
 ####Niet voldoen aan verplichtingen artikel 1.5  door studerende
 
 1.  Indien een studerende het normbedrag voor een uitwonende studerende toegekend heeft gekregen maar niet heeft voldaan aan de verplichtingen, bedoeld in artikel 1.5, kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 50 procent van het bedrag dat van de studerende in verband daarmee wordt teruggevorderd bij een herziening.   
-2.  De herziening vindt plaats met ingang van de dag waarop de studerende zijn laatste adreswijziging heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens. Indien de ouders van de studerende of een van hen zich na de laatste adreswijziging, bedoeld in de vorige volzin, heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens op hetzelfde woonadres als de studerende, dan vindt de herziening plaats met ingang van de dag van deze inschrijving.   
+2.  De herziening vindt plaats met ingang van de datum van de laatste adreswijziging van de studerende in de basisregistratie personen. Indien de ouders van de studerende of een van hen na de laatste adreswijziging, bedoeld in de vorige volzin, zijn of is ingeschreven op hetzelfde woonadres als de studerende, dan vindt de herziening plaats met ingang van de dag van deze adreswijziging.   
 3.  Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
 
 ### Artikel  9.9a  
@@ -1402,7 +1406,7 @@ Indien een instelling als bedoeld in artikel 2.4, onderdeel b, op enig moment in
 ####Geen aanspraak meer bij tweede maal niet voldoen aan verplichtingen artikel 1.5 
 
 1.  Indien Onze Minister de studerende een bestuurlijke boete als bedoeld in artikel 9.9, eerste lid, heeft opgelegd en de studerende heeft, nadat voormelde bestuurlijke boete onherroepelijk is geworden, voor een tweede maal niet voldaan aan de verplichtingen, bedoeld in artikel 1.5, kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 100 procent van het bedrag dat van de studerende in verband daarmee wordt teruggevorderd bij een herziening.   
-2.  De herziening vindt plaats met ingang van de dag na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of, indien dit een latere datum betreft, de dag waarop de studerende zijn laatste adreswijziging heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens. Indien de ouders van de studerende of een van hen zich na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of na de laatste adreswijziging, bedoeld in de vorige volzin, heeft doen inschrijven in de gemeentelijke basisadministratie persoonsgegevens op hetzelfde woonadres als de studerende, dan vindt de herziening plaats met ingang van de dag van deze inschrijving.   
+2.  De herziening vindt plaats met ingang van de dag na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of, indien dit een latere datum betreft, de dag van de laatste adreswijziging van de studerende in de basisregistratie personen. Indien de ouders van de studerende of een van hen na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of na de laatste adreswijziging, bedoeld in de vorige volzin, zijn of is ingeschreven op hetzelfde woonadres als de studerende, dan vindt de herziening plaats met ingang van de dag van deze adreswijziging.   
 3.  Indien Onze Minister de studerende een boete als bedoeld in het eerste lid heeft opgelegd kan hij tevens beslissen dat elke aanspraak op studiefinanciering vervalt.   
 4.  Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
 
@@ -1451,7 +1455,7 @@ In dit hoofdstuk wordt onder tempobeurs verstaan een voorwaardelijke gift die on
 
 1.  In afwijking van artikel 3.1, tweede lid, onderdeel b, kan studiefinanciering worden toegekend in de vorm van tempobeurs.   
 2.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 5 jaren of het aantal jaren genoemd in artikel 10.5, verstrekt in de vorm van een tempobeurs. De reisvoorziening wordt verstrekt in de vorm van een gift.   
-3.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 2 jaren na de periode, bedoeld in het tweede lid, verstrekt in de vorm van een lening. De reisvoorziening wordt verstrekt in de vorm van een gift. Het bedrag dat per maand gedurende deze periode kan worden geleend, bedraagt, in afwijking van de artikelen 3.2 en 3.3, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2013 tot 1 januari 2014 € 873,12. De artikelen 3.13 en 3.18 zijn niet van toepassing.   
+3.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 2 jaren na de periode, bedoeld in het tweede lid, verstrekt in de vorm van een lening. De reisvoorziening wordt verstrekt in de vorm van een gift. Het bedrag dat per maand gedurende deze periode kan worden geleend, bedraagt, in afwijking van de artikelen 3.2 en 3.3, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2014 tot 1 januari 2015 € 894,51. De artikelen 3.13 en 3.18 zijn niet van toepassing.   
 
 ### Artikel  10.4  
 

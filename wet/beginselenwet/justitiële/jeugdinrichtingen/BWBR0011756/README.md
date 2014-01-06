@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een integrale regeling te treffen voor de materiële en formele rechtspositie ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt door verblijf in een justitiële jeugdinrichting dan wel door deelname aan een scholings- en trainingsprogramma en in verband daarmede het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de [Wet op de jeugdhulpverlening](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een integrale regeling te treffen voor de materiële en formele rechtspositie ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt door verblijf in een justitiële jeugdinrichting dan wel door deelname aan een scholings- en trainingsprogramma en in verband daarmede het Wetboek van Strafrecht en de Wet op de jeugdhulpverlening te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -44,11 +44,11 @@ m. beklagcommissie: een commissie als bedoeld in artikel 67, eerste lid;
 
 n. beroepscommissie: een commissie als bedoeld in artikel 74, tweede lid;  
 
-o. Inspectie jeugdzorg: de inspectie, bedoeld in [artikel 47 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+o. Inspectie jeugdzorg: de inspectie, bedoeld in artikel 47 van de Wet op de jeugdzorg;  
 
 p. vrijheidsstraf: jeugddetentie en vervangende jeugddetentie;  
 
-q. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring en gijzeling voor zover de leeftijd van achttien jaren nog niet is bereikt, plaatsing in een inrichting voor jeugdigen, alsmede de tenuitvoerlegging van een machtiging in een geval als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+q. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring en gijzeling voor zover de leeftijd van achttien jaren nog niet is bereikt, plaatsing in een inrichting voor jeugdigen, alsmede de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg;  
 
 r. strafrestant: het gedeelte van een opgelegde vrijheidsstraf dan wel van het samenstel van dergelijke straffen dat nog moet worden ondergaan;  
 
@@ -70,13 +70,13 @@ z. tijdelijke overplaatsing: de overplaatsing als bedoeld in artikel 27;
 
 aa. selectiefunctionaris: een persoon belast met de plaatsing en overplaatsing van jeugdigen als bedoeld in artikel 12, derde lid;  
 
-bb. reclasseringswerker: een reclasseringswerker als bedoeld in [artikel 6, eerste lid, van de Reclasseringsregeling 1995](../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+bb. reclasseringswerker: een reclasseringswerker als bedoeld in artikel 6, eerste lid, van de Reclasseringsregeling 1995;  
 
-cc. rechtsbijstandverlener: de advocaat of de medewerker van een stichting, bedoeld in de [Wet op de rechtsbijstand](../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+cc. rechtsbijstandverlener: de advocaat of de medewerker van een stichting, bedoeld in de Wet op de rechtsbijstand;  
 
-dd. stichting: een stichting als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+dd. stichting: een stichting als bedoeld in artikel 1 van de Wet op de jeugdzorg;  
 
-ee. raad voor de kinderbescherming: de raad als bedoeld in [artikel 238 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+ee. raad voor de kinderbescherming: de raad als bedoeld in artikel 238 van Boek 1 van het Burgerlijk Wetboek;  
 
 ff. behandeling: een samenstel van handelingen, gericht op het bij jeugdigen voorkomen, verminderen of opheffen van problemen of stoornissen van lichamelijke, geestelijke, sociale of pedagogische aard die hun ontwikkeling naar volwassenheid ongunstig kunnen beïnvloeden;  
 
@@ -112,7 +112,7 @@ b. de handhaving van de orde of de veiligheid in de inrichting.
 
 ### Artikel  3a  
 
-1.  Onze Minister subsidieert of houdt in stand landelijke voorzieningen van residentiële hulpverlening ten behoeve van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen als bedoeld in de [artikelen 77h van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) alsmede voor de tenuitvoerlegging van een machtiging in een geval als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+1.  Onze Minister subsidieert of houdt in stand landelijke voorzieningen van residentiële hulpverlening ten behoeve van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen als bedoeld in de artikelen 77h van het Wetboek van Strafrecht alsmede voor de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg.   
 2.  De inrichtingen worden onderscheiden in rijksinrichtingen en particuliere inrichtingen.   
 
 ### Artikel  3b  
@@ -188,8 +188,8 @@ b. de plaatsing in afzondering, bedoeld in artikel 25, eerste lid.
 ### Artikel  5a  
 
 1.  De directeur stelt voor zijn personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  De directeur bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
@@ -214,14 +214,14 @@ c. zorg te dragen voor de behandeling van klaagschriften ingevolge hoofdstuk XII
 
 d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven omtrent het onder a gestelde.     
 3.  Indien het advies of de inlichtingen een particuliere inrichting betreffen en zijn bestemd voor Onze Minister of de Raad, voegt de commissie de desbetreffende opmerkingen van het betrokken bestuur daarbij, tenzij naar het oordeel van Onze Minister, de Raad of de commissie bijzondere spoed geboden is dan wel het bestuur zijn opmerkingen naar het oordeel van de commissie niet binnen een redelijke termijn op schrift heeft gesteld.   
-4.  De commissie van toezicht stelt zich door persoonlijk contact met de jeugdigen regelmatig op de hoogte van onder hen levende wensen en gevoelens. Bij toerbeurt treedt één van haar leden hiertoe op als maandcommissaris. De maandcommissaris vervult tevens de taken van de vertrouwenspersoon, bedoeld in [artikel 1, onder z van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+4.  De commissie van toezicht stelt zich door persoonlijk contact met de jeugdigen regelmatig op de hoogte van onder hen levende wensen en gevoelens. Bij toerbeurt treedt één van haar leden hiertoe op als maandcommissaris. De maandcommissaris vervult tevens de taken van de vertrouwenspersoon, bedoeld in artikel 1, onder z van de Wet op de jeugdzorg.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld over de bevoegdheden, de samenstelling en de werkwijze van de commissie, de benoeming en het ontslag van haar leden alsmede over de werkzaamheden van de maandcommissaris.   
 
 ### Artikel  7a  
 
 1.  Onze Minister houdt toezicht op het verblijf van personen ten aanzien van wie de tenuitvoerlegging van een vrijheidsbenemende straf of maatregel in een inrichting plaatsvindt.   
 2.  De door Onze Minister aangewezen ambtenaren worden daartoe alle ter zake dienende inlichtingen verstrekt en zij hebben te allen tijde toegang tot een zodanige inrichting. Zij zijn, onder verplichting van geheimhouding tegenover derden en voor zover dit voor de uitoefening van hun taak redelijkerwijs nodig is, bevoegd de op personen als bedoeld in het eerste lid betrekking hebbende stukken in te zien.   
-3.  Onze Minister stelt regels omtrent het houden van aantekeningen als bedoeld in [artikel 77t, vijfde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en omtrent het houden van aantekeningen van andere belangrijke voorvallen ten tijde van het verblijf in de inrichting. Onze Minister kan daartoe een model vaststellen.   
+3.  Onze Minister stelt regels omtrent het houden van aantekeningen als bedoeld in artikel 77t, vijfde lid, van het Wetboek van Strafrecht en omtrent het houden van aantekeningen van andere belangrijke voorvallen ten tijde van het verblijf in de inrichting. Onze Minister kan daartoe een model vaststellen.   
 
 ### Hoofdstuk  III  
 
@@ -231,7 +231,7 @@ d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven om
 
 1.  Inrichtingen zijn bestemd voor: 
 
-a. personen ten aanzien van wie een bevel tot voorlopige hechtenis is gegeven, voor zover zij ten tijde van het begaan van het strafbaar feit waarvan zij worden verdacht, de leeftijd van achttien jaar nog niet hebben bereikt en personen ten aanzien van wie een bevel tot voorlopige hechtenis is gegeven, voor zover zij ten tijde van het begaan van het strafbaar feit waarvan zij worden verdacht, de leeftijd van eenentwintig jaar nog niet hebben bereikt en de officier van justitie voornemens is te vorderen dat recht zal worden gedaan overeenkomstig [artikel 77c van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+a. personen ten aanzien van wie een bevel tot voorlopige hechtenis is gegeven, voor zover zij ten tijde van het begaan van het strafbaar feit waarvan zij worden verdacht, de leeftijd van achttien jaar nog niet hebben bereikt en personen ten aanzien van wie een bevel tot voorlopige hechtenis is gegeven, voor zover zij ten tijde van het begaan van het strafbaar feit waarvan zij worden verdacht, de leeftijd van eenentwintig jaar nog niet hebben bereikt en de officier van justitie voornemens is te vorderen dat recht zal worden gedaan overeenkomstig artikel 77c van het Wetboek van Strafrecht;  
 
 b. personen aan wie de straf van jeugddetentie, daaronder begrepen vervangende jeugddetentie, is opgelegd;  
 
@@ -241,16 +241,16 @@ d. personen ten aanzien van wie een bevel tot gijzeling is gegeven, voor zover z
 
 e. personen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd;  
 
-f. personen ten aanzien van wie een machtiging als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is gegeven;  
+f. personen ten aanzien van wie een machtiging als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg is gegeven;  
 
-g. personen die in de inrichting verblijven en ten aanzien van wie een rechterlijke machtiging op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) is gegeven, in afwachting van plaatsing in een psychiatrisch ziekenhuis als bedoeld in [artikel 1, eerste lid, onderdeel h van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md);  
+g. personen die in de inrichting verblijven en ten aanzien van wie een rechterlijke machtiging op grond van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen is gegeven, in afwachting van plaatsing in een psychiatrisch ziekenhuis als bedoeld in artikel 1, eerste lid, onderdeel h van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;  
 
-h. personen aan wie met toepassing van [artikel 77b van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de maatregel van terbeschikkingstelling als bedoeld in de [artikel 37a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [37b van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) werd opgelegd, voorzover de jeugdige ten tijde van de tenuitvoerlegging de leeftijd van 21 jaar nog niet heeft bereikt, en ten aanzien van wie Onze Minister, of de rechter blijkens het vonnis of arrest waarbij de maatregel werd opgelegd, heeft bepaald dat de plaatsing van de jeugdige in een inrichting gelet op diens ontwikkeling aangewezen is.     
+h. personen aan wie met toepassing van artikel 77b van het Wetboek van Strafrecht de maatregel van terbeschikkingstelling als bedoeld in de artikel 37a en 37b van het Wetboek van Strafrecht werd opgelegd, voorzover de jeugdige ten tijde van de tenuitvoerlegging de leeftijd van 21 jaar nog niet heeft bereikt, en ten aanzien van wie Onze Minister, of de rechter blijkens het vonnis of arrest waarbij de maatregel werd opgelegd, heeft bepaald dat de plaatsing van de jeugdige in een inrichting gelet op diens ontwikkeling aangewezen is.     
 2.  Onze Minister bepaalt de bestemming van elke inrichting of afdeling. Onze Minister kan delen van een inrichting als afdeling met een aparte bestemming aanwijzen.   
 3.  Inrichtingen of afdelingen daarvan kunnen door Onze Minister worden aangewezen voor de onderbrenging van jeugdigen die een bijzondere opvang of behandeling behoeven. Deze bijzondere opvang of behandeling kan verband houden met de leeftijd, de geestelijke of lichamelijke ontwikkeling van de jeugdige of de uitvoering van het perspectiefplan dan wel de verrichting van geneeskundige behandeling als bedoeld in artikel 51d, onder a, alsmede met het delict waarvoor of de titel waarop de jeugdige in een inrichting verblijft.   
 4.  Onze Minister wijst inrichtingen, afdelingen of plaatsen aan, waarin kinderen van de jeugdige tot een in de aanwijzing aangegeven leeftijd met de jeugdige kunnen worden ondergebracht.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze waarop het onderbrengen van jeugdigen in inrichtingen plaats heeft dan wel omtrent de wijze waarop de bijzondere bestemming invulling krijgt.   
-6.  Onze Minister kan ten aanzien van de in het eerste lid onder h. aangeduide personen bepalen dat de tenuitvoerlegging van de maatregel van terbeschikkingstelling kan voortduren ook nadat de leeftijd van 21 jaar is bereikt, maar de behandeling zich tegen onmiddellijke overplaatsing verzet. In deze gevallen wordt de jeugdige zo snel als de behandeling dit toelaat, overgeplaatst naar een inrichting als bedoeld in [artikel 1, onderdeel b. van de Beginselenwet verpleging ter beschikking gestelden](../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).   
+6.  Onze Minister kan ten aanzien van de in het eerste lid onder h. aangeduide personen bepalen dat de tenuitvoerlegging van de maatregel van terbeschikkingstelling kan voortduren ook nadat de leeftijd van 21 jaar is bereikt, maar de behandeling zich tegen onmiddellijke overplaatsing verzet. In deze gevallen wordt de jeugdige zo snel als de behandeling dit toelaat, overgeplaatst naar een inrichting als bedoeld in artikel 1, onderdeel b. van de Beginselenwet verpleging ter beschikking gestelden.   
 7.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwezigheid van de benodigde voorzieningen in een inrichting of afdeling voor de verrichting van geneeskundige behandeling als bedoeld in artikel 51d, onder a. In elk geval worden nadere regels gesteld omtrent de beschikbaarheid van een psychiater en een verpleegkundige ten dienste van deze inrichting of afdeling.   
 
 ### Artikel  9  
@@ -297,7 +297,7 @@ d. de onderbrenging van kinderen van jeugdigen in de inrichting, afdeling of pla
 5.  De selectiefunctionaris neemt bij de beslissing tot plaatsing, overplaatsing of overbrenging de aanwijzingen van het openbaar ministerie en van de autoriteiten die de straf of maatregel hebben opgelegd, in aanmerking. De selectiefunctionaris neemt bij de beslissing, bedoeld in het eerste lid, de aanwijzingen van de stichting voor zover mogelijk in acht.   
 6.  De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een afdeling voor intensieve zorg of voor intensieve behandeling als bedoeld in artikel 22a, onderscheidenlijk artikel 22b, na advies van een psychiater, die voor zover mogelijk overleg heeft gevoerd met de behandelend gedragsdeskundige.   
 7.  De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een individuele trajectafdeling als bedoeld in artikel 22c, na daarover advies te hebben ingewonnen van de adviescommissie.   
-8.  In geval van gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een jeugdige kan de selectiefunctionaris, met inachtneming van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), bepalen dat de jeugdige naar een psychiatrisch ziekenhuis als bedoeld in [artikel 1, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) zal worden overgebracht om daar zolang als dat noodzakelijk is te worden verpleegd.   
+8.  In geval van gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een jeugdige kan de selectiefunctionaris, met inachtneming van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, bepalen dat de jeugdige naar een psychiatrisch ziekenhuis als bedoeld in artikel 1, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen zal worden overgebracht om daar zolang als dat noodzakelijk is te worden verpleegd.   
 9.  De selectiefunctionaris kan, op verzoek van de directeur, beslissen dat de vrijheidsbenemende straf tijdelijk buiten de inrichting op een plaats als bedoeld in artikel 8, vierde lid, ten uitvoer wordt gelegd.   
 
 ### Artikel  13  
@@ -308,7 +308,7 @@ d. de onderbrenging van kinderen van jeugdigen in de inrichting, afdeling of pla
 
 ### Artikel  14  
 
-1.  De jeugdige ten aanzien van wie met toepassing van [artikel 29k, tweede lid van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is bepaald dat hij in een inrichting wordt geplaatst, heeft aanspraak op die plaatsing. Een jeugdige heeft slechts aanspraak op deze plaatsing als de stichting, die werkzaam is in de provincie waarin de jeugdige duurzaam verblijft, een besluit heeft genomen waaruit blijkt dat hij op die plaatsing is aangewezen. Bij algemene maatregel van bestuur worden regels gesteld voor gevallen waarin het besluit bedoeld in de tweede volzin niet afgewacht kan worden. Daarbij kan worden afgeweken van de tweede volzin.   
+1.  De jeugdige ten aanzien van wie met toepassing van artikel 29k, tweede lid van de Wet op de jeugdzorg is bepaald dat hij in een inrichting wordt geplaatst, heeft aanspraak op die plaatsing. Een jeugdige heeft slechts aanspraak op deze plaatsing als de stichting, die werkzaam is in de provincie waarin de jeugdige duurzaam verblijft, een besluit heeft genomen waaruit blijkt dat hij op die plaatsing is aangewezen. Bij algemene maatregel van bestuur worden regels gesteld voor gevallen waarin het besluit bedoeld in de tweede volzin niet afgewacht kan worden. Daarbij kan worden afgeweken van de tweede volzin.   
 2.  De jeugdige, bedoeld in het eerste lid, kan worden overgeplaatst naar een beperkt beveiligde inrichting als bedoeld in artikel 10, eerste lid, onder a.   
 
 ### Artikel  15  
@@ -347,7 +347,7 @@ e. het over het kind gestelde gezag.
 
 ### Artikel  17a  
 
-1.  De directeur kan de tenuitvoerlegging van een machtiging als bedoeld in [artikel 29b van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) schorsen, als de tenuitvoerlegging niet langer nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. De schorsing kan worden ingetrokken indien blijkt dat de tenuitvoerlegging nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken.   
+1.  De directeur kan de tenuitvoerlegging van een machtiging als bedoeld in artikel 29b van de Wet op de jeugdzorg schorsen, als de tenuitvoerlegging niet langer nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. De schorsing kan worden ingetrokken indien blijkt dat de tenuitvoerlegging nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken.   
 2.  Een besluit tot schorsing of intrekking wordt niet genomen dan nadat de directeur daaromtrent overleg heeft gepleegd met de betrokken stichting en de raad voor de kinderbescherming.   
 3.  De directeur doet van een besluit tot schorsing of intrekking mededeling aan de stichting en de raad voor de kinderbescherming.   
 
@@ -521,7 +521,7 @@ d. indien de jeugdige hierom verzoekt en de directeur dit verzoek redelijk en ui
 ### Artikel  27  
 
 1.  De directeur is bevoegd een jeugdige, na overleg met een gedragsdeskundige en de selectiefunctionaris, tijdelijk over te plaatsen op de gronden, genoemd in artikel 24, eerste lid, onder a en b.   
-2.  De directeur neemt de beslissing tot tijdelijke plaatsing van de jeugdige die met een machtiging als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in een inrichting is geplaatst niet dan nadat hij daarvoor toestemming van de stichting heeft verkregen. Deze toestemming wordt niet gegeven zonder machtiging van de kinderrechter in de daartoe aangewezen gevallen. Voor de jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd is de toestemming van Onze Minister noodzakelijk.   
+2.  De directeur neemt de beslissing tot tijdelijke plaatsing van de jeugdige die met een machtiging als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg in een inrichting is geplaatst niet dan nadat hij daarvoor toestemming van de stichting heeft verkregen. Deze toestemming wordt niet gegeven zonder machtiging van de kinderrechter in de daartoe aangewezen gevallen. Voor de jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd is de toestemming van Onze Minister noodzakelijk.   
 3.  De tijdelijke plaatsing duurt ten hoogste veertien dagen. De directeur kan deze tijdelijke plaatsing eenmaal voor ten hoogste veertien dagen verlengen, indien hij na overleg met een gedragsdeskundige, de directeur van de inrichting waar de tijdelijke plaatsing ten uitvoer wordt gelegd en de selectiefunctionaris tot het oordeel is gekomen dat de noodzaak en de mogelijkheden hiertoe nog bestaan.   
 4.  Na de tenuitvoerlegging van de tijdelijke plaatsing dan wel de verlenging hiervan wordt de jeugdige teruggeplaatst in de inrichting waarin de maatregel werd opgelegd.   
 5.  De ouders of voogd, stiefouder of pleegouders, de stichting, worden van een beslissing als bedoeld in het eerste en derde lid, onverwijld op de hoogte gesteld.   
@@ -542,7 +542,7 @@ b. ter voldoening aan een oproep van de rechter.
 
 ### Artikel  29  
 
-1.  De directeur stelt een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een machtiging in een geval als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in de gelegenheid de inrichting ten minste eenmaal per zes weken voor een periode van ten minste twaalf uren te verlaten bij wijze van verlof. Artikel 30, tweede lid, is van overeenkomstige toepassing.   
+1.  De directeur stelt een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg in de gelegenheid de inrichting ten minste eenmaal per zes weken voor een periode van ten minste twaalf uren te verlaten bij wijze van verlof. Artikel 30, tweede lid, is van overeenkomstige toepassing.   
 2.  De directeur kan van het in het eerste lid bepaalde afwijken, indien naar zijn redelijk oordeel: 
 
 a. de mogelijkheid voor de jeugdige ontbreekt om het verlof op verantwoorde wijze door te brengen;  
@@ -568,10 +568,10 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 ### Artikel  33  
 
-1.  De directeur stelt bij binnenkomst in en bij het verlaten van de inrichting, bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden](../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) en voor zover dit anderszins noodzakelijk is, de identiteit van de jeugdige vast. Indien de jeugdige in een behandelinrichting verblijft, stelt hij slechts bij de eerste opname in de inrichting en bij de tenuitvoerlegging van het bevel, bedoeld in de eerste volzin, de identiteit van de jeugdige vast.   
+1.  De directeur stelt bij binnenkomst in en bij het verlaten van de inrichting, bij de tenuitvoerlegging van een bevel als bedoeld in artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden en voor zover dit anderszins noodzakelijk is, de identiteit van de jeugdige vast. Indien de jeugdige in een behandelinrichting verblijft, stelt hij slechts bij de eerste opname in de inrichting en bij de tenuitvoerlegging van het bevel, bedoeld in de eerste volzin, de identiteit van de jeugdige vast.   
 2.  De directeur stelt tevens voorafgaand aan en na afloop van bezoek de identiteit van de jeugdige vast, tenzij een personeelslid of medewerker op de jeugdige voortdurend en persoonlijk toezicht houdt.   
-3.  Het vaststellen van de identiteit van de jeugdige omvat bij de eerste opname in de inrichting het vragen naar zijn naam, voornamen, geboorteplaats en geboortedatum, het adres waarop hij in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven en het adres van zijn feitelijke verblijfplaats buiten de inrichting. Het omvat tevens het nemen van een of meer van zijn vingerafdrukken. In de gevallen waarin van de gedetineerde eerder overeenkomstig het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) vingerafdrukken zijn genomen en verwerkt, omvat het vaststellen van zijn identiteit bij binnenkomst in de inrichting tevens een vergelijking van zijn vingerafdrukken met de van hem verwerkte vingerafdrukken. In de andere gevallen omvat het vaststellen van zijn identiteit een onderzoek van zijn identiteitsbewijs, bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). [Artikel 29a, tweede lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
-4.  Het vaststellen van de identiteit van de jeugdige omvat in de andere gevallen dan de eerste opname in de inrichting het nemen van een of meer vingerafdrukken en het vergelijken van die vingerafdrukken met de van hem bij binnenkomst genomen vingerafdrukken. Bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek](../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) bij veroordeelden worden van de jeugdige tevens een of meer vingerafdrukken overeenkomstig het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) genomen en verwerkt.   
+3.  Het vaststellen van de identiteit van de jeugdige omvat bij de eerste opname in de inrichting het vragen naar zijn naam, voornamen, geboorteplaats en geboortedatum, het adres waarop hij in de basisregistratie personen is ingeschreven en het adres van zijn feitelijke verblijfplaats buiten de inrichting. Het omvat tevens het nemen van een of meer van zijn vingerafdrukken. In de gevallen waarin van de gedetineerde eerder overeenkomstig het Wetboek van Strafvordering of de Vreemdelingenwet 2000 vingerafdrukken zijn genomen en verwerkt, omvat het vaststellen van zijn identiteit bij binnenkomst in de inrichting tevens een vergelijking van zijn vingerafdrukken met de van hem verwerkte vingerafdrukken. In de andere gevallen omvat het vaststellen van zijn identiteit een onderzoek van zijn identiteitsbewijs, bedoeld in artikel 1 van de Wet op de identificatieplicht. Artikel 29a, tweede lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
+4.  Het vaststellen van de identiteit van de jeugdige omvat in de andere gevallen dan de eerste opname in de inrichting het nemen van een of meer vingerafdrukken en het vergelijken van die vingerafdrukken met de van hem bij binnenkomst genomen vingerafdrukken. Bij de tenuitvoerlegging van een bevel als bedoeld in artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden worden van de jeugdige tevens een of meer vingerafdrukken overeenkomstig het Wetboek van Strafvordering genomen en verwerkt.   
 5.  De directeur is bevoegd van de jeugdige een of meer foto’s te nemen. De foto’s kunnen worden gebruikt voor het vervaardigen van een legitimatiebewijs en voor het voorkomen, opsporen, vervolgen en berechten van strafbare feiten. De jeugdige is verplicht het legitimatiebewijs bij zich te dragen en op verzoek van een ambtenaar of medewerker te tonen.   
 6.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het verwerken van de persoonsgegevens, bedoeld in het derde tot en met vijfde lid.   
 
@@ -612,7 +612,7 @@ a. indien dit onderzoek plaatsvindt in het kader van het algemeen toezicht op de
 
 b. indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.     
 2.  Artikel 34, vierde lid, is van overeenkomstige toepassing.   
-3.  De directeur is bevoegd de kamer van een jeugdige te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de jeugdige aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van [artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.   
+3.  De directeur is bevoegd de kamer van een jeugdige te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de jeugdige aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.   
 
 ### Artikel  40  
 
@@ -624,7 +624,7 @@ b. de uitvoering van een door de directeur genomen beslissing;
 
 c. de voorkoming van het zich onttrekken door de jeugdige aan het op hem uitgeoefende toezicht;  
 
-d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de [Wet DNA-onderzoek bij veroordeelden](../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) door de officier van justitie of de rechter-commissaris genomen beslissing.     
+d. de uitvoering van een ingevolge het Wetboek van Strafvordering of de Wet DNA-onderzoek bij veroordeelden door de officier van justitie of de rechter-commissaris genomen beslissing.     
 2.  De selectiefunctionaris of een daartoe door hem aangewezen personeelslid of medewerker is bevoegd jegens een jeugdige geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden voor zover zulks noodzakelijk is met het oog op een van de volgende belangen: 
 
 a. de uitvoering van een door hem genomen beslissing;  
@@ -1014,7 +1014,7 @@ b. de weigering van de toelating tot de jeugdige van een bepaald persoon of bepa
 c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken als bedoeld in artikel 44, derde lid;  
 
 d. de weigering van een contact met een vertegenwoordiger van de media als bedoeld in artikel 45, eerste lid.     
-3.  In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de jeugdige is opgelegd ingevolge de [artikelen 62](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [62a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [76 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+3.  In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de jeugdige is opgelegd ingevolge de artikelen 62, 62a en 76 van het Wetboek van Strafvordering.   
 4.  De jeugdige wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het verzoeken om bemiddeling, bedoeld in hoofdstuk XII of het instellen van beklag, bedoeld in hoofdstuk XIII, de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.   
 
 ### Artikel  63  
@@ -1033,9 +1033,9 @@ e. opname- en ontslaggegevens;
 
 f. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld in artikel 58, eerste lid;  
 
-g. adviezen en aantekeningen als bedoeld in [artikel 77t, vijfde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).     
+g. adviezen en aantekeningen als bedoeld in artikel 77t, vijfde lid, van het Wetboek van Strafrecht.     
 2.  Bij algemene maatregel van bestuur worden nadere regels gesteld inzake de eisen waaraan het dossier ten minste moet voldoen, de gegevens die daarin moeten worden vastgelegd, het recht op inzage of afschrift van het dossier door de betrokken jeugdige en zijn ouders of voogd, stiefouders of pleegouders dan wel de stichting en de beperkingen daarop, de termijn gedurende welke het dossier moet worden bewaard, de wijze waarop het dossier moet worden beheerd, bewaard en, na afloop van de bewaartermijn, vernietigd, alsmede de overdracht van gegevens in geval van een overplaatsing van de jeugdige.   
-3.  Met toepassing van het bepaalde in [artikel 464 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn de [artikelen 454](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [455](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [456 van dit boek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet van overeenkomstige toepassing.   
+3.  Met toepassing van het bepaalde in artikel 464 van Boek 7 van het Burgerlijk Wetboek zijn de artikelen 454, 455 en 456 van dit boek niet van overeenkomstige toepassing.   
 
 ### Hoofdstuk  XII  
 
@@ -1141,7 +1141,7 @@ m. enige andere beslissing die een beperking inhoudt van een recht dat de jeugdi
 4.  Indien de klager de Nederlandse taal niet voldoende beheerst en in de inrichting niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beklagcommissie zorg voor een vertaling van de uitspraak en de mededeling, bedoeld in het tweede, onderscheidenlijk derde lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.   
 5.  De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Deze worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in artikel 75, tweede lid. Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt de uitspraak op het klaagschrift aangetekend.   
 6.  Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in artikel 74, eerste lid, vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.   
-7.  De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de jeugdige kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde van overeenkomstige toepassing.   
+7.  De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de jeugdige kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde van overeenkomstige toepassing.   
 
 ### Artikel  73  
 

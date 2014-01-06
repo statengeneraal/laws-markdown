@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs en Wetenschappen, van 28 mei 1993, nr. 92077964/4685, directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op [artikel 6.13, derde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+Gelet op artikel 6.13, derde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 
 Gezien het advies van de Onderwijsraad (advies van 21 december 1992, nr. OR 92000271/3 T);
 
@@ -24,31 +24,31 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. wet: de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-b. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+b. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken;  
 
-c. instelling: een instelling voor hoger onderwijs als bedoeld in de onderdelen a tot en met i van de [bijlage van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+c. instelling: een instelling voor hoger onderwijs als bedoeld in de onderdelen a tot en met i van de bijlage van de wet;  
 
 d. universiteit: 
 
-1°. een universiteit als bedoeld in de onderdelen a en b van de [bijlage van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+1°. een universiteit als bedoeld in de onderdelen a en b van de bijlage van de wet,  
 
-2°. de Open Universiteit, bedoeld in onderdeel h van de [bijlage van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en  
+2°. de Open Universiteit, bedoeld in onderdeel h van de bijlage van de wet, en  
 
-3°. een levensbeschouwelijke universiteit, bedoeld in onderdeel i, van de [bijlage van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);    
+3°. een levensbeschouwelijke universiteit, bedoeld in onderdeel i, van de bijlage van de wet;    
 
-e. hogeschool: een hogeschool als bedoeld in de onderdelen c, e en g van de [bijlage van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e. hogeschool: een hogeschool als bedoeld in de onderdelen c, e en g van de bijlage van de wet;  
 
 f.  vervallen;   
 
-g. instellingsbestuur: een instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+g. instellingsbestuur: een instellingsbestuur als bedoeld in artikel 1.1, onderdeel j, van de wet;  
 
-h. register: het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13, derde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+h. register: het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, derde lid, van de wet;  
 
 i. CROHO-onderdeel: een onderdeel van het register, bedoeld in artikel 3.1;  
 
-j. CRIHO: het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+j. CRIHO: het Centraal register inschrijving hoger onderwijs, bedoeld in artikel 7.52 van de wet;  
 
 k. onderwijsdeel wo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in artikel 4.1, derde lid, onderdeel a;  
 
@@ -56,41 +56,39 @@ l. onderwijsdeel hbo: het onderdeel van de landelijk beschikbare rijksbijdrage, 
 
 m. onderzoekdeel wo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in artikel 4.1, derde lid, onderdeel c;  
 
-n. opleiding: een opleiding als bedoeld in [artikel 7.3 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+n. opleiding: een opleiding als bedoeld in artikel 7.3 van de wet;  
 
 o. opleiding van eerste inschrijving: 
 
-1° de opleiding waarvoor een student het collegegeld, bedoeld in de [artikelen 7.43, eerste lid van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), is verschuldigd en waarvoor geen vermindering of vrijstelling van het betalen van collegegeld op grond van [artikel 7.48, derde of vierde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is verkregen, of,  
+1° de opleiding waarvoor een student het collegegeld, bedoeld in de artikelen 7.43, eerste lid van de wet, is verschuldigd en waarvoor geen vermindering of vrijstelling van het betalen van collegegeld op grond van artikel 7.48, eerste of tweede lid, van de wet is verkregen, of,  
 
-2° de opleiding waarvoor een persoon die het collegegeld, bedoeld in [artikelen 7.43, tweede lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [7.44 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is verschuldigd, zich als eerste heeft ingeschreven;    
+2° de opleiding waarvoor een persoon die het collegegeld, bedoeld in artikelen 7.43, tweede lid of 7.44 van de wet is verschuldigd, zich als eerste heeft ingeschreven;    
 
-p. ongedeelde opleiding: een opleiding als bedoeld in [artikel 18.15 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+p. ongedeelde opleiding: een opleiding als bedoeld in artikel 18.15 van de wet;  
 
 q.  vervallen;   
 
-r. student: een persoon die 
+r. student: persoon die 
 
-1°. in Nederland, België, Luxemburg of een van de deelstaten Noord-Rijnland-Westfalen, Nedersaksen of Bremen van de Bondsrepubliek Duitsland woont; en  
+1°. behoort tot een van de groepen van studerenden, bedoeld in artikel 2.2, eerste lid, van de Wet studiefinanciering 2000 of de Surinaamse nationaliteit bezit; en  
 
-2°. behoort tot een van de groepen van studerenden, bedoeld in [artikel 2.2, eerste lid, van de Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of de Surinaamse nationaliteit bezit; en  
+2°. blijkens het CRIHO is ingeschreven voor een bacheloropleiding, terwijl hem nog niet de graad Bachelor is verleend; of  
 
-3°. blijkens het CRIHO is ingeschreven voor een bacheloropleiding, terwijl hem nog geen graad is verleend; of  
+3°. blijkens het CRIHO is ingeschreven voor een masteropleiding, terwijl hem nog niet de graad Master is verleend;    
 
-4°. blijkens het CRIHO is ingeschreven voor een masteropleiding, terwijl hem nog niet de graad Master is verleend;    
-
-s. peildatum: 30 september van het tweede kalenderjaar voorafgaand aan het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld;  
+s. peildatum: 30 september in het tweede kalenderjaar voorafgaand aan het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld;  
 
 t. peilperiode: de periode van 1 oktober in het derde kalenderjaar voorafgaand aan het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld, tot en met 30 september in het tweede kalenderjaar voorafgaand aan het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld;  
 
-u. wettelijke studielast: het aantal studiepunten dat een opleiding omvat, bedoeld in de [artikelen 7.4a, eerste tot en met zevende lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.4b, eerste en tweede lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) onderscheidenlijk artikel 5.4 van dit besluit;  
+u. wettelijke studielast: het aantal studiepunten dat een opleiding omvat, bedoeld in de artikelen 7.4a, eerste tot en met zevende lid, en 7.4b, eerste en tweede lid, van de wet onderscheidenlijk artikel 5.4 van dit besluit;  
 
 v. bekostigingsniveau: het bekostigingsniveau, bedoeld in bijlage 1 bij dit besluit;  
 
-w. graad: een blijkens het CRIHO verleende graad Bachelor of graad Master, bedoeld in [artikel 7.10a, eerste of tweede lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die is verleend aan een persoon;  
+w. graad: een blijkens het CRIHO verleende graad Bachelor of graad Master, bedoeld in artikel 7.10a, eerste of tweede lid, van de wet, die is verleend aan een persoon;  
 
-x. promotie: de promotie, bedoeld in [artikel 7.18 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+x. promotie: de promotie, bedoeld in artikel 7.18 van de wet;  
 
-y. academisch ziekenhuis: een academisch ziekenhuis als bedoeld in [onderdeel i van de bijlage van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+y. academisch ziekenhuis: een academisch ziekenhuis als bedoeld in onderdeel i van de bijlage van de wet.    
 
 ### Hoofdstuk  2  
 
@@ -104,7 +102,7 @@ y. academisch ziekenhuis: een academisch ziekenhuis als bedoeld in [onderdeel i 
 
 ####Persoonlijke omstandigheden bij bindend studieadvies en verwijzing naar afstudeerrichting
 
-1.  De persoonlijke omstandigheden bedoeld in de [artikelen 7.8b, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.9, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de wet, zijn uitsluitend: 
+1.  De persoonlijke omstandigheden bedoeld in de artikelen 7.8b, derde lid, en 7.9, derde lid, van de wet, zijn uitsluitend: 
 
 a. ziekte van betrokkene,  
 
@@ -116,11 +114,11 @@ d. bijzondere familie-omstandigheden,
 
 e. het lidmaatschap, daaronder begrepen het voorzitterschap, van: 
 
-1. bij universiteiten: de universiteitsraad, faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onderscheidenlijk [artikel 9.51, tweede lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de wet, het bestuur van een opleiding of de opleidingscommissie, alsmede het lidmaatschap van het bestuur van een stichting die blijkens haar statuten tot doel heeft de exploitatie van voorzieningen, behorende tot de studentenvoorzieningen, dan wel van een daarmee naar het oordeel van het instellingsbestuur gelet op de taak gelijk te stellen orgaan,  
+1. bij universiteiten: de universiteitsraad, faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in artikel 9.30, derde lid, onderscheidenlijk artikel 9.51, tweede lid, van de wet, het bestuur van een opleiding of de opleidingscommissie, alsmede het lidmaatschap van het bestuur van een stichting die blijkens haar statuten tot doel heeft de exploitatie van voorzieningen, behorende tot de studentenvoorzieningen, dan wel van een daarmee naar het oordeel van het instellingsbestuur gelet op de taak gelijk te stellen orgaan,  
 
 2. bij hogescholen: de medezeggenschapsraad, deelraad, studentencommissie of opleidingscommissie,    
 
-f. andere in de regelingen, bedoeld in de [artikelen 7.8b, zesde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.9, vijfde lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de wet door het instellingsbestuur aan te geven omstandigheden waarin betrokkene activiteiten ontplooit in het kader van de organisatie en het bestuur van de zaken van de instelling,  
+f. andere in de regelingen, bedoeld in de artikelen 7.8b, zesde lid, en 7.9, vijfde lid, van de wet door het instellingsbestuur aan te geven omstandigheden waarin betrokkene activiteiten ontplooit in het kader van de organisatie en het bestuur van de zaken van de instelling,  
 
 g. het lidmaatschap van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid, dan wel van een vergelijkbare organisatie van enige omvang, bij wie de behartiging van het algemeen maatschappelijk belang op de voorgrond staat en die daartoe daadwerkelijk activiteiten ontplooit.     
 2.  Het instellingsbestuur kan voor de toepassing van het eerste lid, onderdeel *g*, nadere regels vaststellen omtrent het aantal bestuursleden dat ten hoogste per organisatie per studiejaar in aanmerking komt, zomede omtrent welke bestuursfuncties in aanmerking komen.   
@@ -133,54 +131,41 @@ g. het lidmaatschap van het bestuur van een studentenorganisatie van enige omvan
 
 ####Omvang collegegeld
 
-1.  Het wettelijk collegegeld, bedoeld in [artikel 7.45, zevende lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is voor het studiejaar 2010/2011 1.672 euro voor het studiejaar 2011/2012 € 1.713..   
-2.  Het bedrag, bedoeld in [artikel 7.45, vierde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is 950 euro voor het studiejaar 2011/2012 € 961..   
-3.  Het bedrag, bedoeld in het eerste lid, wordt tot en met het studiejaar 2018/2019 jaarlijks verhoogd met 22 euro.   
-4.  Bij ministeriële regeling worden de in het eerste en tweede lid genoemde bedragen na verhoging van het bedrag, genoemd in het eerste lid, met het bedrag, genoemd in het derde lid, jaarlijks aangepast aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 november voorafgaand aan het studiejaar waarvoor het aangepaste collegegeld zal gelden. De aanpassing wordt bepaald door de procentuele wijziging die de consumentenprijsindex over de maand april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van de maand april in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het collegegeldbedrag wordt afgerond op het naastbij gelegen gehele getal. De overeenkomstig dit lid gewijzigde bedragen treden in de plaats van de in het eerste en tweede lid genoemde bedragen.   
+1.  Het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, van de wet, bedraagt voor het studiejaar 2013–2014 € 1.835.   
+2.  Het minimumbedrag van het gedeeltelijke wettelijke collegegeld, bedoeld in artikel 7.45, tweede lid, van de wet bedraagt voor het studiejaar 2013–2014 € 1.049.   
+3.  De bedragen, bedoeld in het eerste en tweede lid, worden tot en met het studiejaar 2018/2019 jaarlijks verhoogd met € 22.   
+4.  Bij ministeriële regeling worden de in het eerste en tweede lid genoemde bedragen na verhoging van het bedrag, genoemd in het derde lid, jaarlijks aangepast aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 november voorafgaand aan het studiejaar waarvoor het aangepaste collegegeld zal gelden. De aanpassing wordt bepaald door de procentuele wijziging die de consumentenprijsindex over de maand april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van de maand april in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het collegegeldbedrag wordt afgerond op het naastbij gelegen gehele getal. De overeenkomstig dit lid gewijzigde bedragen treden in de plaats van de in het eerste tot met derde lid genoemde bedragen.   
 5.  Onder de consumentenprijsindex, bedoeld in het vierde lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor de Statistiek.   
 
 ### Artikel  2.3  
 
 ####Uitbreiding categorie studenten wettelijk collegegeld
 
-De categorie studenten waarvoor de in [artikel 7.45, eerste lid, onder a, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde voorwaarde niet geldt, wordt uitgebreid met studenten die zijn ingeschreven bij de opleidingen: 
+De categorie studenten waarvoor de in artikel 7.45a, eerste lid, onder a, van de wet genoemde voorwaarde niet geldt, wordt uitgebreid met studenten die zijn ingeschreven bij de opleidingen: 
 
-a. B Educatie en Kennismanagement Groene Sector.  
+a. B Educatie en Kennismanagement Groene Sector;  
 
-b. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in levensmiddelentechnologie.  
+b. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in levensmiddelentechnologie;  
 
-c. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Dierenhouderij en Verwerking I en II.  
+c. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Dierhouderij en Verwerking I en II;  
 
-d. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Tuinbouw en Plantenteelt en Verwerking I en II.  
+d. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Tuinbouw en Plantenteelt en Verwerking I en II;  
 
-e. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Plantenteelt en Verwerking I en II.  
+e. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Plantenteelt en Verwerking I en II;  
 
-f. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Veehouderij en Verwerking I en II.  
+f. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Veehouderij en Verwerking I en II;  
 
-g. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Agrarische Techniek I en II.  
+g. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Agrarische Techniek I en II;  
 
-h. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Agrarische Economie.  
+h. B Opleiding tot leraar voortgezet onderwijs van de tweede graad in Agrarische Economie; en  
 
 i. M Leren en Innoveren.    
-
-### Artikel  2.3a  
-
-####Extra uitloopjaar in geval van kortdurende inschrijving
-
-1.  Het aantal studiejaren jaren, bedoeld in [artikel 7.45b, eerste lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), wordt vermeerderd met een jaar, indien een student op 1 oktober is uitgeschreven en gedurende het resterende studiejaar niet opnieuw wordt ingeschreven.   
-2.  Voor het tijdvak 1 september 1991–1 september 2010 geldt, dat het aantal studiejaren jaren, bedoeld in [artikel 7.45b, eerste lid](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met een jaar wordt vermeerderd, indien een student op 1 november was uitgeschreven en gedurende het resterende studiejaar niet opnieuw werd ingeschreven.   
-
-### Artikel  2.3b  
-
-####Uitzondering voor deeltijdstudenten ingeschreven op of vóór 1 februari 2011
-
-Een student die op of vóór 1 februari 2011 was ingeschreven voor een deeltijdse bachelor- of masteropleiding en op grond van [artikel 7.45a van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in aanmerking komt voor het wettelijke collegegeld, is voor die opleiding gedurende het vastgelegd minimum aantal studiejaren voor die opleiding op 1 februari 2011, genoemd in de onderwijs- en examenregeling, bedoeld in [artikel 7.13, onderdeel i, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of in een ander document waarin het desbetreffende instellingsbestuur het onderwijsprogramma heeft vastgelegd, vermeerderd met een jaar, uitsluitend het gedeeltelijke wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, vierde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), verschuldigd.  
 
 ### Artikel  2.4  
 
 ####Administratiekosten gespreide inning collegegeld
 
-Het bedrag, bedoeld in [artikel 7.47 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), is 24 euro.  
+Het bedrag, bedoeld in artikel 7.47 van de wet, is 24 euro.  
 
 ### Afdeling  3  
 
@@ -190,16 +175,16 @@ Het bedrag, bedoeld in [artikel 7.47 van de wet](../../../../wet/wet/op/het/hoge
 
 ####Gegevens
 
-1.  Het instellingsbestuur verstrekt de gegevens als bedoeld in [artikel 7.52, vijfde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), conform bijlage 2 bij dit besluit, uitgezonderd de onderdelen c tot en met g, onderdeel o en onderdelen u tot en met w, voor zover Onze minister die kan ontlenen aan de gemeentelijke basisadministratie personen.   
-2.  Indien een gegeven, behorend tot onderdelen c tot en met g, onderdeel o of onderdelen u tot en met w, niet kan worden ontleend aan de gemeentelijke basisadministratie personen, verzoekt Onze minister het instellingsbestuur deze informatie te verstrekken. Deze verstrekking geschiedt binnen vier weken na de dag van verzending van het verzoek.   
-3.  In afwijking van het eerste lid worden de gegevens, bedoeld in bijlage 2, onderdeel h, door Onze minister verstrekt uit het basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md).   
+1.  Het instellingsbestuur verstrekt de gegevens als bedoeld in artikel 7.52, vijfde lid, van de wet, conform bijlage 2 bij dit besluit, uitgezonderd de onderdelen c tot en met g, onderdeel o en onderdelen u tot en met w, voor zover Onze minister die kan ontlenen aan de basisregistratie personen.   
+2.  Indien een gegeven, behorend tot onderdelen c tot en met g, onderdeel o of onderdelen u tot en met w, niet kan worden ontleend aan de basisregistratie personen, verzoekt Onze minister het instellingsbestuur deze informatie te verstrekken. Deze verstrekking geschiedt binnen vier weken na de dag van verzending van het verzoek.   
+3.  In afwijking van het eerste lid worden de gegevens, bedoeld in bijlage 2, onderdeel h, door Onze minister verstrekt uit het basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht.   
 4.  Indien Onze minister de gegevens, bedoeld in het derde lid niet kan verstrekken, verzoekt Onze minister het instellingsbestuur deze gegevens te verstrekken. Deze verstrekking geschiedt binnen vier weken na de dag van verzending van het verzoek.   
 
 ### Artikel  2.6  
 
 ####Tijdstip en wijze levering gegevens
 
-1.  Het instellingsbestuur brengt een beslissing als bedoeld in [artikel 7.52, vijfde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) ter kennis van het Centraal register inschrijving hoger onderwijs binnen acht weken nadat die beslissing is genomen.   
+1.  Het instellingsbestuur brengt een beslissing als bedoeld in artikel 7.52, vijfde lid, van de wet ter kennis van het Centraal register inschrijving hoger onderwijs binnen acht weken nadat die beslissing is genomen.   
 2.  Bij ministeriële regeling wordt vastgesteld op welke wijze het instellingsbestuur de gegevens aan het Centraal register inschrijving hoger onderwijs verstrekt.   
 
 ### Hoofdstuk  3  
@@ -240,16 +225,8 @@ j. sectoroverstijgend.
 
 ####Subonderdelen
 
-1.  Het onderdeel onderwijs kent, naast opleidingen die niet onder een subonderdeel worden ondergebracht, de volgende subonderdelen: 
-
-a. masteropleidingen en voortgezette opleidingen tot leraar voortgezet onderwijs in algemene vakken, en  
-
-b. lerarenopleidingen op het gebied van de kunst.     
-2.  Het onderdeel taal en cultuur kent, naast opleidingen die niet onder een subonderdeel worden ondergebracht, de volgende subonderdelen: 
-
-a. opleidingen op het gebied van de kunst, en  
-
-b. masteropleidingen op het gebied van de bouwkunst.     
+1.  Het onderdeel onderwijs kent, naast opleidingen die niet onder een subonderdeel worden ondergebracht, het subonderdeel lerarenopleidingen op het gebied van de kunst.   
+2.  Het onderdeel taal en cultuur kent, naast opleidingen die niet onder een subonderdeel worden ondergebracht, het subonderdeel opleidingen op het gebied van de kunst.   
 3.  Het onderdeel sectoroverstijgend kent, naast opleidingen die niet onder een subonderdeel worden ondergebracht, het subonderdeel Onderwijs/Landbouw en Natuurlijke Omgeving/Natuur/Techniek/Gezondheid.   
 
 ### Artikel  3.3  
@@ -289,7 +266,7 @@ d. de administratiekosten van € 3,18 per aanvraag alsmede de verzendkosten, wa
 
 ####Aanwijzing bacheloropleidingen in het hbo
 
-De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan het [eerste lid van artikel 7.26 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) toepassing kan vinden, zijn, ingedeeld naar de onderdelen van het register, genoemd in artikel 3.1: 
+De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan het eerste lid van artikel 7.26 van de wet toepassing kan vinden, zijn, ingedeeld naar de onderdelen van het register, genoemd in artikel 3.1: 
 
 a. binnen het onderdeel onderwijs: 
 
@@ -333,6 +310,8 @@ e. binnen het onderdeel economie:
 
 ####Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten
 
+Vervallen per 01-09-2010   
+
 ### Afdeling  4  
 
 ####Overige eigen bijdragen
@@ -351,7 +330,7 @@ Gereserveerd.
 ####Vaststelling omvang van de landelijk beschikbare rijksbijdrage
 
 1.  Onze Minister van Onderwijs, Cultuur en Wetenschap stelt jaarlijks, in overeenstemming met het desbetreffende onderdeel van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap die voor het desbetreffende begrotingsjaar is vastgesteld, de omvang vast van de landelijk beschikbare rijksbijdrage voor de instellingen die onderwijs verzorgen of onderzoek verrichten op een ander gebied dan het gebied van landbouw en natuurlijke omgeving, en de omvang van de delen daarvan.   
-2.  Onze Minister van Economische Zaken, Landbouw en Innovatie stelt jaarlijks, in overeenstemming met het desbetreffende onderdeel van de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie die voor het desbetreffende begrotingsjaar is vastgesteld, de omvang vast van de landelijk beschikbare rijksbijdrage voor de instellingen die onderwijs verzorgen of onderzoek verrichten op het gebied van landbouw en natuurlijke omgeving, en de omvang van de delen daarvan.   
+2.  Onze Minister van Economische Zaken stelt jaarlijks, in overeenstemming met het desbetreffende onderdeel van de begroting van het Ministerie van Economische Zaken die voor het desbetreffende begrotingsjaar is vastgesteld, de omvang vast van de landelijk beschikbare rijksbijdrage voor de instellingen die onderwijs verzorgen of onderzoek verrichten op het gebied van landbouw en natuurlijke omgeving, en de omvang van de delen daarvan.   
 3.  De landelijk beschikbare rijksbijdrage, bedoeld in het eerste lid, bestaat uit: 
 
 a. een onderwijsdeel wo,  
@@ -413,7 +392,7 @@ De bedragen en verdelingen, vastgesteld op grond van de afdelingen 2, 3 en 4 van
 
 ####Overleg
 
-Een ministeriële regeling als bedoeld in de artikelen 4.5, 4.11, 4.22 tot en met 4.27 en 5.2, wordt vastgesteld na overleg als bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Een ministeriële regeling als bedoeld in de artikelen 4.5, 4.10, 4.11, 4.21, 4.23, 4.24, 4.27 en 5.2, wordt vastgesteld na overleg als bedoeld in artikel 3.1, eerste lid, van de wet.  
 
 ### Afdeling  2  
 
@@ -443,8 +422,8 @@ Een ministeriële regeling als bedoeld in de artikelen 4.5, 4.11, 4.22 tot en me
 
 ####Bekostigde graden
 
-1.  Onder bekostigde graad Bachelor wordt verstaan: een graad Bachelor als bedoeld in [artikel 7.10a van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), in de peilperiode verleend aan een student.   
-2.  Onder bekostigde graad Master wordt verstaan: een graad Master als bedoeld in [artikel 7.10a van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), in de peilperiode verleend aan een student.   
+1.  Onder bekostigde graad Bachelor wordt verstaan: een graad Bachelor als bedoeld in artikel 7.10a van de wet, in de peilperiode verleend aan een student.   
+2.  Onder bekostigde graad Master wordt verstaan: een graad Master als bedoeld in artikel 7.10a van de wet, in de peilperiode verleend aan een student.   
 
 ### Artikel  4.10  
 
@@ -456,7 +435,7 @@ a. het aantal bekostigde inschrijvingen voor die opleiding, en
 
 b. het aantal bekostigde graden dat in die opleiding is verleend.     
 2.  De factoren behorend bij de bekostigingsniveaus van de opleidingen worden vastgesteld bij ministeriële regeling. Deze factoren kunnen verschillen voor opleidingen in het wetenschappelijk onderscheidenlijk het hoger beroepsonderwijs, en voor bachelor- onderscheidenlijk masteropleidingen.   
-3.  Indien in het kader van een gezamenlijke opleiding of gezamenlijke afstudeerrichting als bedoeld in [artikel 7.3c van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) sprake is van registratie van bekostigde graden bij verschillende Nederlandse instellingen wordt het aantal bekostigde graden dat het betreft bij elk van deze instellingen gedeeld door het aantal Nederlandse instellingen dat bij de gezamenlijke opleiding of gezamenlijke afstudeerrichting betrokken is.   
+3.  Indien in het kader van een gezamenlijke opleiding of gezamenlijke afstudeerrichting als bedoeld in artikel 7.3c van de wet sprake is van registratie van bekostigde graden bij verschillende Nederlandse instellingen wordt het aantal bekostigde graden dat het betreft bij elk van deze instellingen gedeeld door het aantal Nederlandse instellingen dat bij de gezamenlijke opleiding of gezamenlijke afstudeerrichting betrokken is.   
 
 ### Artikel  4.11  
 
@@ -469,9 +448,9 @@ b. het aantal bekostigde graden dat in die opleiding is verleend.
 
 ####Bijzondere bepaling Universiteit Maastricht en Open Universiteit
 
-1.  Onder een opleiding, bedoeld in het artikel 4.10, eerste lid, verzorgd door de Universiteit Maastricht, is begrepen een opleiding verzorgd door de transnationale Universiteit Limburg, bedoeld in [artikel 2.5, lid 1a, onder b, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+1.  Onder een opleiding, bedoeld in het artikel 4.10, eerste lid, verzorgd door de Universiteit Maastricht, is begrepen een opleiding verzorgd door de transnationale Universiteit Limburg, bedoeld in artikel 2.5, lid 1a, onder b, van de wet.   
 2.  Bij de vaststelling van het aantal bekostigde inschrijvingen en het aantal bekostigde graden van de Universiteit Maastricht worden de op grond van artikel 4.10, eerste lid, berekende aantallen vermeerderd met de aantallen inschrijvingen van personen met de Nederlandse nationaliteit, respectievelijk de aantallen graden van personen met de Nederlandse nationaliteit van de transnationale Universiteit Limburg. Onder de aantallen inschrijvingen en graden met de Nederlandse nationaliteit worden tevens begrepen de aantallen inschrijvingen en graden van ingeschrevenen die de Nederlandse noch de Belgische nationaliteit bezitten en die voor bekostiging door de Nederlandse overheid in aanmerking worden genomen op grond van artikel 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg.   
-3.  Voor de toepassing van de artikelen 4.9 en 4.20 gelden voor de Open Universiteit als bekostigde graden de graden die zijn verleend in de peilperiode aan een persoon die is ingeschreven bij de Open Universiteit, voldoet aan het bepaalde in artikel 1.1, onderdeel r, onder 1° en 2° en bij inschrijving voor een onderwijseenheid die deel uitmaakt van een bacheloropleiding nog geen graad is verleend of bij inschrijving voor een onderwijseenheid die deel uitmaakt van een masteropleiding nog niet de graad Master is verleend.   
+3.  Voor de toepassing van de artikelen 4.9 en 4.20 gelden voor de Open Universiteit als bekostigde graden, de graden die zijn verleend in de peilperiode aan een persoon die voldoet aan het nationaliteitsvereiste als bedoeld in artikel 2.2, eerste lid, van de Wet studiefinanciering 2000 of de Surinaamse nationaliteit heeft en die is ingeschreven bij de Open Universiteit voor een onderdeel van een bacheloropleiding, terwijl aan hem nog niet de graad Bachelor is verleend of voor een onderdeel van een masteropleiding, terwijl hem nog niet de graad Master is verleend.   
 
 ### Afdeling  3  
 
@@ -500,24 +479,18 @@ c. voor een topbekostigingsniveau: 3.
 
 ####Promoties en certificaten
 
-1.  Uit het onderzoekdeel wo ontvangt een universiteit per proefschrift leidend tot een promotie in het tweede kalenderjaar voorafgaand aan het begrotingsjaar, een bij ministeriële regeling te bepalen bedrag.   
+1.  Uit het onderzoekdeel wo ontvangt een universiteit een bij ministeriële regeling te bepalen bedrag voor ieder proefschrift dat in het tweede kalenderjaar voorafgaand aan het begrotingsjaar heeft geleid tot een promotie ten overstaan van het college voor promoties of de commissie bedoeld in artikel 7.18, vierde lid, van de wet.   
 2.  Uit het onderzoekdeel wo ontvangt een universiteit per ontwerperscertificaat dat is uitgereikt in het tweede kalenderjaar voorafgaand aan het begrotingsjaar, een bij ministeriële regeling te bepalen bedrag.   
 3.  Onder ontwerperscertificaat wordt verstaan een getuigschrift, uitgereikt aan een technologisch ontwerper na het met goed gevolg afronden van onderwijs als bedoeld in bijlage 7 bij dit besluit.   
-4.  Indien vanwege toepassing van [artikel 7.18, zesde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) sprake is van gezamenlijke graadverlening Doctor bij verschillende Nederlandse instellingen wordt het aantal proefschriften dat het betreft bij elk van deze instellingen gedeeld door het aantal Nederlandse instellingen dat bij de gezamenlijke graadverlening betrokken is.   
-
-### Artikel  4.22  
-
-####Onderzoekscholen
-
-Een door Onze minister te bepalen deel van het onderzoekdeel wo wordt voor onderzoekscholen over de universiteiten verdeeld volgens de percentages, vastgesteld bij ministeriële regeling.  
+4.  Indien vanwege toepassing van artikel 7.18, zesde lid, van de wet sprake is van gezamenlijke graadverlening Doctor bij verschillende Nederlandse instellingen wordt het aantal proefschriften dat het betreft bij elk van deze instellingen gedeeld door het aantal Nederlandse instellingen dat bij de gezamenlijke graadverlening betrokken is.   
 
 ### Artikel  4.23  
 
 ####Voorziening onderzoek
 
 1.  Bij ministeriële regeling worden bedragen vastgesteld, die uit het onderzoekdeel wo aan universiteiten worden toegekend in verband met toponderzoekscholen en bijzondere voorzieningen.   
-2.  De verdeling van het deel van het onderzoekdeel wo dat na toepassing van de artikelen 4.20 tot en met 4.22 en het eerste lid resteert, wordt, onverminderd artikel 4.5, over de universiteiten, bedoeld in artikel 1.1, onderdeel d ten 1°, bij ministeriële regeling vastgesteld.   
-3.  Indien een universiteit naar het oordeel van Onze minister onvoldoende rekening houdt met de prioriteit- en posterioriteitstelling van de wetenschapsgebieden die zijn aangeduid in het wetenschapsbudget, bedoeld in [artikel 16a van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md), wordt daarover en over de mogelijke gevolgen voor de bekostiging van de desbetreffende universiteit overleg gevoerd als bedoeld in [artikel 3.1 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  De verdeling van het deel van het onderzoekdeel wo dat na toepassing van de artikelen 4.20 en 4.21 en het eerste lid resteert, wordt, onverminderd artikel 4.5, over de universiteiten, bedoeld in artikel 1.1, onderdeel d ten 1°, bij ministeriële regeling vastgesteld.   
+3.  Indien een universiteit naar het oordeel van Onze minister onvoldoende rekening houdt met de prioriteit- en posterioriteitstelling van de wetenschapsgebieden die zijn aangeduid in het wetenschapsbudget, bedoeld in artikel 16a van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek, wordt daarover en over de mogelijke gevolgen voor de bekostiging van de desbetreffende universiteit overleg gevoerd als bedoeld in artikel 3.1 van de wet.   
 4.  Indien het overleg, bedoeld in het derde lid, daartoe aanleiding geeft, kan bij ministeriële regeling worden afgeweken van de verdeling, bedoeld in het tweede lid.   
 5.  Een herverdeling als bedoeld in het vierde lid kan per universiteit ten hoogste drie procent van de omvang van het bedrag strategische overwegingen voor die universiteit betreffen.   
 
@@ -564,11 +537,11 @@ c. een bij ministeriële regeling vast te stellen bedrag toegevoegd aan de rijks
 ####Opleidingen onderwijs en gezondheidszorg
 
 1.  Voor de toepassing van dit hoofdstuk wordt onder leraren- of gezondheidszorgopleiding verstaan: een opleiding die is ingedeeld in het CROHO-onderdeel onderwijs of het onderdeel gezondheidszorg of een bij ministeriële regeling daarmee gelijkgestelde opleiding.   
-2.  Indien een persoon is ingeschreven voor een leraren- of gezondheidszorgopleiding wordt in afwijking van artikel 1.1, onderdeel r, onder 3° en 4°, het volgende gelezen: 
+2.  Indien een persoon is ingeschreven voor een leraren- of gezondheidszorgopleiding wordt in afwijking van artikel 1.1, onderdeel r, onder 2° en 3° het volgende gelezen: 
 
-3°. blijkens het CRIHO is ingeschreven voor een bacheloropleiding leraren- of gezondheidszorgopleiding, terwijl hem nog geen graad voor een leraren- of gezondheidszorgopleiding is verleend; of  
+2°. blijkens het CRIHO is ingeschreven voor een bacheloropleiding leraren- of gezondheidszorgopleiding, terwijl hem nog niet de graad Bachelor voor een leraren- of gezondheidszorgopleiding is verleend; of  
 
-4°. blijkens het CRIHO is ingeschreven voor een masteropleiding leraren- of gezondheidszorgopleiding, terwijl hem nog geen graad Master voor een leraren- of gezondheidszorgopleiding is verleend.     
+3°. blijkens het CRIHO is ingeschreven voor een masteropleiding leraren- of gezondheidszorgopleiding, terwijl hem nog niet de graad Master voor een leraren- of gezondheidszorgopleiding is verleend;     
 3.  Indien het tweede lid van toepassing is en de student is reeds een graad voor een andere dan een leraren- of gezondheidszorgopleiding verleend, blijven voor de toepassing van artikel 4.8 de bekostigde inschrijvingen voor een bacheloropleiding voorafgaand aan het moment van de eerste graadverlening voor een andere dan een leraren- of gezondheidszorgopleiding buiten beschouwing.   
 4.  Indien het tweede lid van toepassing is en de student is reeds een graad Master voor een andere dan een leraren- of gezondheidszorgopleiding verleend, blijven voor de toepassing van artikel 4.8 de bekostigde inschrijvingen voor een masteropleiding voorafgaand aan het moment van de verlening van de eerste graad Master voor een andere dan een leraren- of gezondheidszorgopleiding buiten beschouwing.   
 
@@ -579,19 +552,13 @@ c. een bij ministeriële regeling vast te stellen bedrag toegevoegd aan de rijks
 1.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt onder een bacheloropleiding ook verstaan een inschrijving voor een ongedeelde opleiding van een persoon aan wie nog niet de graad Bachelor is verleend en bij wie het aantal eerder bekostigde inschrijvingen voor bachelor- en ongedeelde opleidingen kleiner is dan drie. Onder een masteropleiding wordt ook verstaan een inschrijving voor een ongedeelde opleiding van een persoon bij wie het aantal eerder bekostigde inschrijvingen voor bachelor- of ongedeelde opleidingen drie of meer bedraagt of aan wie de graad Bachelor is verleend. De studielast van deze masteropleiding is gelijk aan de studielast van de ongedeelde opleiding verminderd met 180.   
 2.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt voor een student aan wie reeds een graad voor een andere dan een leraren- of gezondheidszorgopleiding is verleend en bij wie het totaal aantal eerder bekostigde inschrijvingen voor een bachelor- of ongedeelde leraren- of gezondheidszorgopleiding kleiner is dan drie, een inschrijving voor een bachelor- of ongedeelde leraren- of gezondheidszorgopleiding beschouwd als een inschrijving voor een bacheloropleiding.   
 3.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt een inschrijving voor een ongedeelde leraren- of gezondheidszorgopleiding van een student aan wie reeds een graad voor een andere dan een leraren- of gezondheidszorgopleiding is verleend en bij wie het totaal aantal eerder bekostigde inschrijvingen voor een bachelor- of ongedeelde leraren- of gezondheidszorgopleiding drie of meer bedraagt of aan wie de graad Bachelor voor een leraren- of gezondheidszorgopleiding is verleend, beschouwd als een inschrijving voor een masteropleiding met een studielast die gelijk is aan de studielast van de ongedeelde opleiding verminderd met 180.   
-4.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt een inschrijving voor een universitaire lerarenopleiding als bedoeld in [artikel 18.64 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of voor een voortgezette hbo-opleiding als bedoeld in [artikel 18.20 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) beschouwd als een inschrijving voor een masteropleiding.   
+4.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt een inschrijving voor een universitaire lerarenopleiding als bedoeld in artikel 18.64 van de wet of voor een voortgezette hbo-opleiding als bedoeld in artikel 18.20 van de wet beschouwd als een inschrijving voor een masteropleiding.   
 5.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt als een student aan wie de graad Master is verleend, tevens beschouwd een student die: 
 
-a. het afsluitend examen van een universitaire lerarenopleiding als bedoeld in [artikel 18.64 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) met goed gevolg heeft afgelegd, of  
+a. het afsluitend examen van een universitaire lerarenopleiding als bedoeld in artikel 18.64 van de wet met goed gevolg heeft afgelegd, of  
 
-b. het afsluitend examen van een voortgezette hbo-opleiding als bedoeld in [artikel 18.20 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) met goed gevolg heeft afgelegd.     
+b. het afsluitend examen van een voortgezette hbo-opleiding als bedoeld in artikel 18.20 van de wet met goed gevolg heeft afgelegd.     
 6.  Voor de toepassing van hoofdstuk 4 en dit hoofdstuk wordt een student die het afsluitend examen van een ongedeelde opleiding met goed gevolg heeft afgelegd beschouwd als een student aan wie zowel de graad Bachelor als de graad Master is verleend.   
-
-### Artikel  5.4  
-
-####Studielast masteropleiding pedagogiek hbo
-
-Voor de masteropleiding pedagogiek in het hoger beroepsonderwijs wordt de studielast door de instelling vastgesteld op ten minste 60 en ten hoogste 90 studiepunten.  
 
 ### Hoofdstuk  6  
 
@@ -602,35 +569,35 @@ Voor de masteropleiding pedagogiek in het hoger beroepsonderwijs wordt de studie
 ####Algemene bepaling hoofdstuk 6
 
 1.  De bepalingen van dit hoofdstuk zijn regels voor onderzoekinstellingen en voor openbare universiteiten, academische ziekenhuizen en hogescholen, alsmede voorwaarden voor bekostiging van bijzondere universiteiten en hogescholen.   
-2.  In dit hoofdstuk wordt verstaan onder een onderzoekinstelling: de Koninklijke Nederlandse Akademie van Wetenschappen te Amsterdam en de Koninklijke Bibliotheek te ’s-Gravenhage, genoemd in [artikel 1.2, onder d, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), alsmede de Nederlandse organisatie voor wetenschappelijk onderzoek, genoemd in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md).   
+2.  In dit hoofdstuk wordt verstaan onder een onderzoekinstelling: de Koninklijke Nederlandse Akademie van Wetenschappen te Amsterdam en de Koninklijke Bibliotheek te ’s-Gravenhage, genoemd in artikel 1.2, onder d, van de wet, alsmede de Nederlandse organisatie voor wetenschappelijk onderzoek, genoemd in artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek.   
 3.  In dit hoofdstuk wordt verstaan onder bestuur: het instellingsbestuur van een universiteit, hogeschool, de raad van bestuur van een academisch ziekenhuis of het algemeen bestuur van een onderzoekinstelling.   
-4.  Het bestuur of diens rechtsopvolger is gehouden de aanspraken van het personeel en het gewezen personeel die uit de [wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) voortvloeien of krachtens dit besluit worden vastgesteld dan wel bij of krachtens dit besluit worden gehandhaafd, te honoreren.   
+4.  Het bestuur of diens rechtsopvolger is gehouden de aanspraken van het personeel en het gewezen personeel die uit de wet voortvloeien of krachtens dit besluit worden vastgesteld dan wel bij of krachtens dit besluit worden gehandhaafd, te honoreren.   
 5.  Indien een rechtsopvolger als bedoeld in het vierde lid ontbreekt, waaronder tevens is begrepen het geval van een onherroepelijk vonnis tot faillietverklaring van de desbetreffende instelling, voorzien de besturen in het desbetreffende deelgebied er gezamenlijk in dat aan de verplichtingen van het vierde lid jegens het personeel en het gewezen personeel wordt voldaan.   
 
 ### Artikel  6.2  
 
 ####Werkloosheid
 
-Bij de vaststelling van de regels voor uitkeringen wegens werkloosheid draagt het bestuur er zorg voor dat de aanspraken van het personeel en het gewezen personeel ten minste gelijk, doch in elk geval ten minste gelijkwaardig zijn aan de aanspraken die het personeel zou hebben op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md). Het bestuur handhaaft hierbij tevens de aanspraken van het gewezen personeel die aan dat personeel zijn gegarandeerd bij of krachtens de regelingen die volgens dit besluit komen te vervallen.  
+Bij de vaststelling van de regels voor uitkeringen wegens werkloosheid draagt het bestuur er zorg voor dat de aanspraken van het personeel en het gewezen personeel ten minste gelijk, doch in elk geval ten minste gelijkwaardig zijn aan de aanspraken die het personeel zou hebben op grond van de Werkloosheidswet. Het bestuur handhaaft hierbij tevens de aanspraken van het gewezen personeel die aan dat personeel zijn gegarandeerd bij of krachtens de regelingen die volgens dit besluit komen te vervallen.  
 
 ### Artikel  6.3  
 
 ####Ziekte en arbeidsongeschiktheid
 
-Bij de vaststelling van de regels voor uitkeringen wegens ziekte en arbeidsongeschiktheid draagt het bestuur er zorg voor dat de aanspraken van het personeel en het gewezen personeel ten minste gelijk, doch in elk geval ten minste gelijkwaardig zijn aan de aanspraken die het personeel zou hebben op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet uitbreiding loondoorbetalingsplicht bij ziekte](../../../../wet/wet/uitbreiding/loondoorbetalingsplicht/bij/ziekte/BWBR0007892/README.md), onderscheidenlijk de [Wet Werk en Inkomen naar Arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+Bij de vaststelling van de regels voor uitkeringen wegens ziekte en arbeidsongeschiktheid draagt het bestuur er zorg voor dat de aanspraken van het personeel en het gewezen personeel ten minste gelijk, doch in elk geval ten minste gelijkwaardig zijn aan de aanspraken die het personeel zou hebben op grond van de Ziektewet, de Wet uitbreiding loondoorbetalingsplicht bij ziekte, onderscheidenlijk de Wet Werk en Inkomen naar Arbeidsvermogen.  
 
 ### Artikel  6.4  
 
 ####Tegemoetkoming aan de voorzitter en de andere leden van een raad van toezicht
 
-1.  De voorzitter en de andere leden van een raad van toezicht als bedoeld in [artikel 9.7](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [artikel 11.5](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of [12.10 van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) hebben per kalenderjaar aanspraak op een tegemoetkoming.   
+1.  De voorzitter en de andere leden van een raad van toezicht als bedoeld in artikel 9.7, artikel 11.5, of 12.10 van de wet hebben per kalenderjaar aanspraak op een tegemoetkoming.   
 2.  De tegemoetkoming wordt naar evenredigheid verminderd, indien het voorzitterschap of het lidmaatschap van de raad van toezicht in de loop van een kalenderjaar is aangevangen of beëindigd.   
 
 ### Artikel  6.5  
 
 ####Ondernemingsraden
 
-De [Wet op de ondernemingsraden](../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) is, met uitzondering van [hoofdstuk VIII B](../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), van toepassing op: 
+De Wet op de ondernemingsraden is, met uitzondering van hoofdstuk VIII B, van toepassing op: 
 
 a. de Open Universiteit,  
 
@@ -644,22 +611,22 @@ c. de onderzoeksinstellingen.
 
 ### Artikel  7.1  
 
-####Overgangsbepaling [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs](../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md)
+####Overgangsbepaling Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs
 
-1.  Het [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs](../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) zoals dat luidde op de dag voor inwerkingtreding van dit besluit, blijft voor de leden van colleges van bestuur van hogescholen van kracht op de uitkeringen die zijn ingegaan voor die datum of contractueel zijn vastgelegd voor die datum en pas na die datum ingaan.   
+1.  Het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs zoals dat luidde op de dag voor inwerkingtreding van dit besluit, blijft voor de leden van colleges van bestuur van hogescholen van kracht op de uitkeringen die zijn ingegaan voor die datum of contractueel zijn vastgelegd voor die datum en pas na die datum ingaan.   
 2.  De uit deze overgangsbepaling voortvloeiende aanspraken gelden jegens het bevoegd gezag.   
 
 ### Artikel  7.1a  
 
-####Overgangsbepaling [Besluit rechtspositie leden van de centrale directies en van colleges van bestuur](../../../../AMvB/besluit/rechtspositie/leden/van/centrale/directies/en/van/colleges/van/etc/BWBR0012613/README.md)
+####Overgangsbepaling Besluit rechtspositie leden van de centrale directies en van colleges van bestuur
 
-In afwijking van [hoofdstuk 2 van het Besluit rechtspositie leden van de centrale directies en van colleges van bestuur](../../../../AMvB/besluit/rechtspositie/leden/van/centrale/directies/en/van/colleges/van/etc/BWBR0012613/README.md), zoals dat luidde op het tijdstip voordat het werd ingetrokken, blijven ten aanzien van degene die voor 1 juli 2001 is benoemd of aangesteld tot lid van een centrale directie of van een college van bestuur de rechtspositievoorschriften, zoals die jegens hem golden op 30 juni 2001, van kracht, indien en voor zolang de betrokkene niet schriftelijk binnen een door het bevoegd gezag vast te stellen termijn van tenminste drie maanden vanaf 1 juli 2001 aan het bevoegd gezag heeft medegedeeld dat hij ermee instemt dat zijn rechtspositie krachtens [artikel 2](../../../../AMvB/besluit/rechtspositie/leden/van/centrale/directies/en/van/colleges/van/etc/BWBR0012613/README.md) wordt vastgesteld.  
+In afwijking van hoofdstuk 2 van het Besluit rechtspositie leden van de centrale directies en van colleges van bestuur, zoals dat luidde op het tijdstip voordat het werd ingetrokken, blijven ten aanzien van degene die voor 1 juli 2001 is benoemd of aangesteld tot lid van een centrale directie of van een college van bestuur de rechtspositievoorschriften, zoals die jegens hem golden op 30 juni 2001, van kracht, indien en voor zolang de betrokkene niet schriftelijk binnen een door het bevoegd gezag vast te stellen termijn van tenminste drie maanden vanaf 1 juli 2001 aan het bevoegd gezag heeft medegedeeld dat hij ermee instemt dat zijn rechtspositie krachtens artikel 2 wordt vastgesteld.  
 
 ### Artikel  7.1b  
 
-####Overgangsbepaling [Besluit rechtspositie leden van colleges van bestuur van openbare universiteiten](../../../../AMvB/besluit/rechtspositie/leden/van/colleges/van/bestuur/van/openbare/etc/BWBR0009833/README.md)
+####Overgangsbepaling Besluit rechtspositie leden van colleges van bestuur van openbare universiteiten
 
-Ten aanzien van degenen die voor 19 maart 1997 wat betreft de openbare universiteiten dan wel voor 11 juli 1997 wat betreft de Open Universiteit tot lid van een college van bestuur zijn benoemd, blijven de salarissen, toelagen en wachtgeldaanspraken, vastgesteld en toegekend op grond van de op 18 maart 1997 onderscheidenlijk de op 10 juli 1997 geldende voorschriften gehandhaafd. Indien de salarisbedragen van de overeenkomstige salarisschaal van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) worden gewijzigd, is deze wijziging van toepassing op de salarisbedragen van de in de eerste volzin bedoelde salarissen.  
+Ten aanzien van degenen die voor 19 maart 1997 wat betreft de openbare universiteiten dan wel voor 11 juli 1997 wat betreft de Open Universiteit tot lid van een college van bestuur zijn benoemd, blijven de salarissen, toelagen en wachtgeldaanspraken, vastgesteld en toegekend op grond van de op 18 maart 1997 onderscheidenlijk de op 10 juli 1997 geldende voorschriften gehandhaafd. Indien de salarisbedragen van de overeenkomstige salarisschaal van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 worden gewijzigd, is deze wijziging van toepassing op de salarisbedragen van de in de eerste volzin bedoelde salarissen.  
 
 ### Artikel  7.2  
 
@@ -691,7 +658,7 @@ E. M. H. Hirsch Ballin
 Bekostigingsniveaus per CROHO-onderdeel 
 
 | CROHO-onderdeel  | standaard  | uitzonderingen  |--- | niveau  | opleiding of CROHO-subonderdeel*  | niveau  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | onderwijs  | Hoog  | – opleidingen tot leraar speciaal onderwijs  | laag  |
 | --- | --- | – opleiding tot leraar basisonderwijs  | --- |
 | --- | --- | – opleidingskunde  | --- |
@@ -778,10 +745,10 @@ Indien bij de opleidingen niet expliciet is aangegeven dat het bachelor- of mast
 
 ####, behorend bij artikel 2.5, eerste lid 
 
-Gegevens te verstrekken bij de informatie over beslissingen als bedoeld in [artikel 7.52, vijfde lid, van de wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Gegevens te verstrekken bij de informatie over beslissingen als bedoeld in artikel 7.52, vijfde lid, van de wet.  
 
 | Gegevens te verstrekken bij de informatie over beslissingen als bedoeld in artikel 7.52, vijfde lid, van de wet  |
-|:---|
+|---|
 | a.  | het OCW-correspondentienummer  |
 | b.  | het registratienummer bij de instelling(en);  |
 | c.  | de naam  |

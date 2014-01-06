@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de penitentiaire regelgeving te herzien, in het bijzonder aangaande het differentiatie- en selectiestelsel, en in verband daarmee de Beginselenwet gevangeniswezen te vervangen door de Penitentiaire beginselenwet alsmede enige bepalingen van het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en enige andere wetten te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de penitentiaire regelgeving te herzien, in het bijzonder aangaande het differentiatie- en selectiestelsel, en in verband daarmee de Beginselenwet gevangeniswezen te vervangen door de Penitentiaire beginselenwet alsmede enige bepalingen van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -30,9 +30,9 @@ f. ambtenaar of medewerker: een persoon die een taak uitoefent in het kader van 
 
 g. selectiefunctionaris: een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in artikel 15, derde lid;  
 
-h. reclasseringswerker: een reclasseringswerker als bedoeld in [artikel 6, eerste lid, van de Reclasseringsregeling 1995](../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+h. reclasseringswerker: een reclasseringswerker als bedoeld in artikel 6, eerste lid, van de Reclasseringsregeling 1995;  
 
-i. rechtsbijstandverlener: de advocaat of de medewerker van de voorziening, bedoeld in [artikel 8, tweede lid, van de Wet op de rechtsbijstand](../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), voorzover belast met de verlening van rechtsbijstand anders dan rechtshulp;  
+i. rechtsbijstandverlener: de advocaat of de medewerker van de voorziening, bedoeld in artikel 8, tweede lid, van de Wet op de rechtsbijstand, voorzover belast met de verlening van rechtsbijstand anders dan rechtshulp;  
 
 j. Raad: de Raad voor strafrechtstoepassing en jeugdbescherming;  
 
@@ -83,7 +83,7 @@ w. elektronisch toezicht: een technische voorziening waarbij, gebruik makend van
 
 ### Artikel  4  
 
-1.  Een penitentiair programma is een samenstel van activiteiten waaraan wordt deelgenomen door personen ter verdere tenuitvoerlegging van de aan hen opgelegde vrijheidsstraf of voorlopige hechtenis in aansluiting op hun verblijf in een inrichting en dat als zodanig door Onze Minister is erkend. De deelnemer aan een penitentiair programma kan onder elektronisch toezicht worden gesteld. Bij het uitoefenen van toezicht op de deelname aan een penitentiair programma wordt de identiteit van de deelnemer aan het penitentiair programma vastgesteld op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+1.  Een penitentiair programma is een samenstel van activiteiten waaraan wordt deelgenomen door personen ter verdere tenuitvoerlegging van de aan hen opgelegde vrijheidsstraf of voorlopige hechtenis in aansluiting op hun verblijf in een inrichting en dat als zodanig door Onze Minister is erkend. De deelnemer aan een penitentiair programma kan onder elektronisch toezicht worden gesteld. Bij het uitoefenen van toezicht op de deelname aan een penitentiair programma wordt de identiteit van de deelnemer aan het penitentiair programma vastgesteld op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering.   
 2.  Aan een penitentiair programma kan worden deelgenomen gedurende ten hoogste een zesde deel van de opgelegde vrijheidsstraf direct voorafgaand aan de datum van invrijheidstelling, mits: 
 
 a. de gedetineerde is veroordeeld tot een onvoorwaardelijke vrijheidsstraf van ten minste zes maanden,  
@@ -104,7 +104,7 @@ d. de gevolgen van verzuim van deelname aan het programma of niet-nakoming van d
 e. de rechtspositie van de deelnemers aan een penitentiair programma.     
 4.  Een krachtens het derde lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
 5.  Met inachtneming van het tweede lid en de regels krachtens het derde lid kan Onze Minister een penitentiair programma erkennen en bepalen welke gedetineerden voor deelname hieraan in aanmerking komen.   
-6.  Het tweede lid is niet van toepassing op de maatregel tot plaatsing in een inrichting voor stelselmatige daders als bedoeld in [artikel 38m van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+6.  Het tweede lid is niet van toepassing op de maatregel tot plaatsing in een inrichting voor stelselmatige daders als bedoeld in artikel 38m van het Wetboek van Strafrecht.   
 
 ### Artikel  5  
 
@@ -139,14 +139,14 @@ i. de oplegging van een disciplinaire straf, bedoeld in artikel 51, en de toepas
 ### Artikel  5b  
 
 1.  De directeur stelt voor ambtenaren en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  De directeur bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Artikel  6  
 
-De Raad behandelt beroepschriften ingevolge de hoofdstukken XII, XIII en XV, en [hoofdstuk 7 van de Penitentiaire maatregel](../../../../AMvB/penitentiaire/maatregel/BWBR0009398/README.md).  
+De Raad behandelt beroepschriften ingevolge de hoofdstukken XII, XIII en XV, en hoofdstuk 7 van de Penitentiaire maatregel.  
 
 ### Artikel  7  
 
@@ -187,11 +187,11 @@ d. personen in vreemdelingenbewaring;
 
 e. gegijzelden;  
 
-f. ter beschikking gestelden ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in de [artikelen 37b](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38c van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is gegeven voor zolang opname in de voor hen bestemde plaats niet mogelijk is;  
+f. ter beschikking gestelden ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in de artikelen 37b of 38c van het Wetboek van Strafrecht is gegeven voor zolang opname in de voor hen bestemde plaats niet mogelijk is;  
 
-g. personen ten aanzien van wie lijfsdwang als bedoeld in [artikel 577c van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is bevolen;  
+g. personen ten aanzien van wie lijfsdwang als bedoeld in artikel 577c van het Wetboek van Strafvordering is bevolen;  
 
-h. personen aan wie de maatregel is opgelegd tot plaatsing in een inrichting voor stelselmatige daders als bedoeld in [artikel 38m van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) indien opname in de voor hen bestemde plaats niet mogelijk is;  
+h. personen aan wie de maatregel is opgelegd tot plaatsing in een inrichting voor stelselmatige daders als bedoeld in artikel 38m van het Wetboek van Strafrecht indien opname in de voor hen bestemde plaats niet mogelijk is;  
 
 i. alle anderen aan wie krachtens rechterlijke uitspraak of beschikking of door het openbaar gezag rechtens hun vrijheid is ontnomen, voor zover geen andere plaats voor hen is bestemd of voor zolang opname in de voor hen bestemde plaats niet mogelijk is.     
 3.  Onze Minister wijst in elk arrondissement ten minste één inrichting of afdeling aan als huis van bewaring.   
@@ -199,12 +199,12 @@ i. alle anderen aan wie krachtens rechterlijke uitspraak of beschikking of door 
 ### Artikel  10  
 
 1.  Gevangenissen zijn bestemd voor de opneming van personen die, al dan niet onherroepelijk, tot vrijheidsstraf zijn veroordeeld. Tot gevangenisstraf veroordeelden aan wie tevens de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd, kunnen na het einde van de vrijheidsstraf in een gevangenis verblijven, zolang opname in de voor hen bestemde plaats niet mogelijk is.   
-2.  In bijzondere gevallen kan gijzeling als bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../wet/wet/mulder/BWBR0004581/README.md) alsmede lijfsdwang als bedoeld in [artikel 577c van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in een gevangenis ten uitvoer worden gelegd.   
+2.  In bijzondere gevallen kan gijzeling als bedoeld in artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften alsmede lijfsdwang als bedoeld in artikel 577c van het Wetboek van Strafvordering in een gevangenis ten uitvoer worden gelegd.   
 3.  Gevangenissen kunnen volgens regels te stellen bij of krachtens algemene maatregel van bestuur worden onderscheiden naar de lengte van de straf of het strafrestant van de daarin op te nemen tot vrijheidsstraf veroordeelden.   
 
 ### Artikel  10a  
 
-Inrichtingen voor stelselmatige daders zijn bestemd voor de opneming van personen aan wie een maatregel als bedoeld in [artikel 38m van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd.  
+Inrichtingen voor stelselmatige daders zijn bestemd voor de opneming van personen aan wie een maatregel als bedoeld in artikel 38m van het Wetboek van Strafrecht is opgelegd.  
 
 ### Artikel  11  
 
@@ -265,7 +265,7 @@ e. extra beveiligd.
 2.  Gedetineerden die hiervoor ingevolge artikel 4, vijfde lid, in aanmerking komen, kunnen in de gelegenheid worden gesteld tot deelname aan een penitentiair programma en daarbij voor de duur van het programma of een gedeelte daarvan onder elektronisch toezicht worden gesteld. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in artikel 4, derde lid, kan de deelname worden beëindigd.   
 3.  Met de plaatsing en overplaatsing, bedoeld in het eerste lid, en de beslissingen, bedoeld in het tweede lid, zijn door Onze Minister als zodanig aangewezen selectiefunctionarissen belast. Deze zijn bevoegd de overbrenging van personen te bevelen naar de voor hen bestemde inrichting of afdeling dan wel ten behoeve van deelname aan het voor hen bestemde penitentiair programma dan wel de beëindiging hiervan. Zij kunnen de overbrenging doen geschieden door daartoe aangewezen ambtenaren of medewerkers. Zij zijn bovendien bevoegd tot de beslissing of ten aanzien van de individuele gedetineerde is gebleken van goed gedrag dat aanleiding geeft tot deelname van de gedetineerde aan een penitentiair programma, zodra aan de voorwaarden, bedoeld in artikel 4, tweede lid, onderdelen b en c, is voldaan. De inrichting is verplicht de betrokkene op te nemen.   
 4.  De selectiefunctionarissen nemen bij de beslissingen, bedoeld in het eerste en tweede lid, de aanwijzingen van het openbaar ministerie en van de autoriteiten die de straf of maatregel hebben opgelegd in aanmerking.   
-5.  In geval van gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een gedetineerde kan de selectiefunctionaris bepalen dat de gedetineerde naar een psychiatrisch ziekenhuis als bedoeld in [artikel 1, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) zal worden overgebracht om daar zolang dat noodzakelijk is te worden verpleegd.   
+5.  In geval van gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een gedetineerde kan de selectiefunctionaris bepalen dat de gedetineerde naar een psychiatrisch ziekenhuis als bedoeld in artikel 1, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen zal worden overgebracht om daar zolang dat noodzakelijk is te worden verpleegd.   
 6.  Onze Minister stelt nadere regels vast omtrent de procedure van plaatsing en overplaatsing en overbrenging, bedoeld in het eerste onderscheidenlijk het vijfde lid, en omtrent de wijze waarop het vervoer van de gedetineerde plaatsvindt.   
 
 ### Artikel  15a  
@@ -426,10 +426,10 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ### Artikel  28  
 
-1.  De directeur stelt bij binnenkomst in en bij het verlaten van de inrichting, bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden](../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) en voor zover dit anderszins noodzakelijk is, de identiteit van de gedetineerde vast.   
+1.  De directeur stelt bij binnenkomst in en bij het verlaten van de inrichting, bij de tenuitvoerlegging van een bevel als bedoeld in artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden en voor zover dit anderszins noodzakelijk is, de identiteit van de gedetineerde vast.   
 2.  De directeur stelt tevens voorafgaand aan en na afloop van bezoek de identiteit van de gedetineerde vast, tenzij een ambtenaar of medewerker op de gedetineerde voortdurend en persoonlijk toezicht houdt.   
-3.  Het vaststellen van de identiteit van de gedetineerde omvat bij de eerste opname in de inrichting het vragen naar zijn naam, voornamen, geboorteplaats en geboortedatum, het adres waarop hij in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven en het adres van zijn feitelijke verblijfplaats buiten de inrichting. Het omvat tevens het nemen van een of meer vingerafdrukken. In de gevallen waarin van de gedetineerde eerder overeenkomstig het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) vingerafdrukken zijn genomen en verwerkt, omvat het vaststellen van zijn identiteit bij binnenkomst in de inrichting tevens een vergelijking van zijn vingerafdrukken met de van hem verwerkte vingerafdrukken. In de andere gevallen omvat het vaststellen van zijn identiteit een onderzoek van zijn identiteitsbewijs, bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). [Artikel 29a, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
-4.  Het vaststellen van de identiteit van de gedetineerde omvat in de andere gevallen dan de eerste opname in de inrichting het nemen van een of meer vingerafdrukken en het vergelijken van die vingerafdrukken met de van hem bij binnenkomst genomen vingerafdrukken. Bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden](../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) worden van de gedetineerde tevens een of meer vingerafdrukken overeenkomstig het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) genomen en verwerkt.   
+3.  Het vaststellen van de identiteit van de gedetineerde omvat bij de eerste opname in de inrichting het vragen naar zijn naam, voornamen, geboorteplaats en geboortedatum, het adres waarop hij in de basisregistratie personen is ingeschreven en het adres van zijn feitelijke verblijfplaats buiten de inrichting. Het omvat tevens het nemen van een of meer vingerafdrukken. In de gevallen waarin van de gedetineerde eerder overeenkomstig het Wetboek van Strafvordering of de Vreemdelingenwet 2000 vingerafdrukken zijn genomen en verwerkt, omvat het vaststellen van zijn identiteit bij binnenkomst in de inrichting tevens een vergelijking van zijn vingerafdrukken met de van hem verwerkte vingerafdrukken. In de andere gevallen omvat het vaststellen van zijn identiteit een onderzoek van zijn identiteitsbewijs, bedoeld in artikel 1 van de Wet op de identificatieplicht. Artikel 29a, tweede lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
+4.  Het vaststellen van de identiteit van de gedetineerde omvat in de andere gevallen dan de eerste opname in de inrichting het nemen van een of meer vingerafdrukken en het vergelijken van die vingerafdrukken met de van hem bij binnenkomst genomen vingerafdrukken. Bij de tenuitvoerlegging van een bevel als bedoeld in artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden worden van de gedetineerde tevens een of meer vingerafdrukken overeenkomstig het Wetboek van Strafvordering genomen en verwerkt.   
 5.  De directeur is bevoegd van de gedetineerde een of meer foto’s te nemen. De foto’s kunnen worden gebruikt voor het vervaardigen van een legitimatiebewijs en voor het voorkomen, opsporen, vervolgen en berechten van strafbare feiten. De gedetineerde is verplicht het legitimatiebewijs bij zich te dragen en op verzoek van een ambtenaar of medewerker te tonen.   
 6.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het verwerken van de persoonsgegevens, bedoeld in het derde tot en met vijfde lid.   
 
@@ -471,7 +471,7 @@ a. indien dit onderzoek plaatsvindt in het kader van het algemeen toezicht op de
 
 b. indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.     
 2.  Artikel 29, vierde lid, is van overeenkomstige toepassing.   
-3.  De directeur is bevoegd de verblijfsruimte van een gedetineerde te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de gedetineerde aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van [artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.   
+3.  De directeur is bevoegd de verblijfsruimte van een gedetineerde te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de gedetineerde aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.   
 
 ### Artikel  34a  
 
@@ -498,7 +498,7 @@ b. de uitvoering van een door de directeur genomen beslissing;
 
 c. de voorkoming van het zich onttrekken door de gedetineerde aan het op hem uitgeoefende toezicht;  
 
-d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of de [Wet DNA-onderzoek bij veroordeelden](../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) door de officier van justitie of de rechter-commissaris genomen beslissing.     
+d. de uitvoering van een ingevolge het Wetboek van Strafvordering of de Wet DNA-onderzoek bij veroordeelden door de officier van justitie of de rechter-commissaris genomen beslissing.     
 2.  De selectiefunctionaris of een daartoe door hem aangewezen ambtenaar of medewerker is bevoegd jegens een gedetineerde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een van de volgende belangen: 
 
 a. de uitvoering van een door hem genomen beslissing;  
@@ -870,7 +870,7 @@ b. de weigering van de toelating tot de gedetineerde van een bepaald persoon of 
 c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken, bedoeld in artikel 39, derde lid;  
 
 d. de weigering van een contact met een vertegenwoordiger van de media, bedoeld in artikel 40, eerste lid.     
-3.  In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de gedetineerde is opgelegd ingevolge de [artikelen 62](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [62a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [76 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+3.  In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de gedetineerde is opgelegd ingevolge de artikelen 62, 62a en 76 van het Wetboek van Strafvordering.   
 4.  De gedetineerde wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het instellen van beklag, bedoeld in hoofdstuk Xl, de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.   
 
 ### Artikel  59  
@@ -937,7 +937,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 4.  Indien de klager de Nederlandse taal niet voldoende beheerst en in de inrichting niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beklagcommissie zorg voor een vertaling van de uitspraak en de mededeling, bedoeld in het tweede, onderscheidenlijk derde lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.   
 5.  De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Zij worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in artikel 70, tweede lid. Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt deze uitspraak op het klaagschrift aangetekend.   
 6.  Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in artikel 69, eerste lid, vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.   
-7.  De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md) bepaalde van overeenkomstige toepassing.   
+7.  De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.   
 
 ### Artikel  68  
 
@@ -1043,13 +1043,13 @@ c. de ouders of voogd, indien de gedetineerde minderjarig is.
 
 ### Hoofdstuk  XV  
 
-####Bijzondere bepalingen met betrekking tot veroordeelden ten aanzien van wie [artikel 13](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [19 van het wetboek van strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is toegepast
+####Bijzondere bepalingen met betrekking tot veroordeelden ten aanzien van wie artikel 13 of 19 van het wetboek van strafrecht is toegepast
 
 ### Artikel  76  
 
-1.  De plaatsing van een tot vrijheidsstraf veroordeelde in een justitiële inrichting voor verpleging van ter beschikking gestelden geschiedt voordat zes maanden sedert de beslissing, bedoeld in [artikel 13, eerste lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is genomen, in een gevangenis of huis van bewaring zijn doorgebracht.   
-2.  Indien Onze Minister, rekening houdende met de in [artikel 11, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) genoemde eisen, van oordeel is dat de plaatsing niet binnen de in het eerste lid gestelde termijn mogelijk is, kan hij deze termijn telkens met drie maanden verlengen.   
-3.  Tegen de beslissing tot verlenging, bedoeld in het tweede lid, kan de tot vrijheidsstraf veroordeelde beroep instellen bij de Raad. Het bepaalde in [Hoofdstuk XVI van de Beginselenwet verpleging ter beschikking gestelden](../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) is van overeenkomstige toepassing.   
+1.  De plaatsing van een tot vrijheidsstraf veroordeelde in een justitiële inrichting voor verpleging van ter beschikking gestelden geschiedt voordat zes maanden sedert de beslissing, bedoeld in artikel 13, eerste lid, van het Wetboek van Strafrecht is genomen, in een gevangenis of huis van bewaring zijn doorgebracht.   
+2.  Indien Onze Minister, rekening houdende met de in artikel 11, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden genoemde eisen, van oordeel is dat de plaatsing niet binnen de in het eerste lid gestelde termijn mogelijk is, kan hij deze termijn telkens met drie maanden verlengen.   
+3.  Tegen de beslissing tot verlenging, bedoeld in het tweede lid, kan de tot vrijheidsstraf veroordeelde beroep instellen bij de Raad. Het bepaalde in Hoofdstuk XVI van de Beginselenwet verpleging ter beschikking gestelden is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  XVI  
 
@@ -1057,8 +1057,8 @@ c. de ouders of voogd, indien de gedetineerde minderjarig is.
 
 ### Artikel  77  
 
-1.  Een onveroordeelde die met toepassing van [artikel 196](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [317](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [509g van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in een inrichting tot klinische observatie bestemd is opgenomen, wordt voor wat betreft zijn rechtspositie gelijkgesteld met een onveroordeelde die in een huis van bewaring verblijft, indien de inrichting tot klinische observatie bestemd tevens een huis van bewaring is.   
-2.  Een ter beschikking gestelde die met toepassing van [artikel 509g](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [509o, vijfde lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in een inrichting tot klinische observatie bestemd is opgenomen, wordt voor wat betreft zijn rechtspositie gelijkgesteld met een ter beschikking gestelde die in een huis van bewaring verblijft, indien de inrichting tot klinische observatie bestemd tevens huis van bewaring is.   
+1.  Een onveroordeelde die met toepassing van artikel 196, 317 of 509g van het Wetboek van Strafvordering in een inrichting tot klinische observatie bestemd is opgenomen, wordt voor wat betreft zijn rechtspositie gelijkgesteld met een onveroordeelde die in een huis van bewaring verblijft, indien de inrichting tot klinische observatie bestemd tevens een huis van bewaring is.   
+2.  Een ter beschikking gestelde die met toepassing van artikel 509g of 509o, vijfde lid, van het Wetboek van Strafvordering in een inrichting tot klinische observatie bestemd is opgenomen, wordt voor wat betreft zijn rechtspositie gelijkgesteld met een ter beschikking gestelde die in een huis van bewaring verblijft, indien de inrichting tot klinische observatie bestemd tevens huis van bewaring is.   
 
 ### Hoofdstuk  XVII  
 
@@ -1122,7 +1122,7 @@ De Beginselenwet gevangeniswezen wordt ingetrokken, met uitzondering van de arti
 
 ### Artikel  92  
 
-De regels en de bestemmingen van gevangenissen en huizen van bewaring vastgesteld krachtens [artikel 22 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), zoals dit artikel gold vóór de inwerkingtreding van deze wet, worden geacht te zijn vastgesteld krachtens de toepasselijke bepalingen van deze wet.  
+De regels en de bestemmingen van gevangenissen en huizen van bewaring vastgesteld krachtens artikel 22 van het Wetboek van Strafrecht, zoals dit artikel gold vóór de inwerkingtreding van deze wet, worden geacht te zijn vastgesteld krachtens de toepasselijke bepalingen van deze wet.  
 
 ### Artikel  93  
 

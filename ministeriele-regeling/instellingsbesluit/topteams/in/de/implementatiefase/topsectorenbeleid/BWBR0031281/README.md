@@ -12,9 +12,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
+a.  *de minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. *commissie:* een topteam als genoemd in artikel 2, eerste tot en met tiende lid.    
+b.  *commissie:* een topteam als genoemd in artikel 2, eerste tot en met tiende lid.   
 
 ### Artikel  2  
 
@@ -34,17 +34,17 @@ a. de topsectoragenda conform het advies van het desbetreffende topteam van 17 
 
 b. input te leveren voor de halfjaarlijkse monitoring van de voortgang van het beleid;  
 
-c. knelpunten die de voortgang van het beleid hinderen te signaleren en op te pakken.     
+c. knelpunten die de voortgang van het beleid hinderen te signaleren en op te pakken.    
 
 ### Artikel  3  
 
-Ter uitvoering van de taak als genoemd in artikel 2, elfde lid, bieden de topteams als bedoeld in artikel 2, eerste tot en met negende lid, uiterlijk 31 december 2011 voorstellen voor innovatiecontracten en human capitalagenda’s aan de minister aan.  
+Ter uitvoering van de taak als genoemd in artikel 2, elfde lid, bieden de topteams als bedoeld in artikel 2, eerste tot en met negende lid, uiterlijk 31 december 2011 voorstellen voor innovatiecontracten en human capitalagenda’s aan de minister aan. 
 
 ### Artikel  4  
 
 1.  De commissie bestaat uit een voorzitter en andere leden.   
 2.  De voorzitter en de andere leden worden door de minister, in overeenstemming met de minister die het mede aangaat, benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen. Schorsing en ontslag van de leden, bedoeld in artikel 7, eerste lid, onderdeel d, tweede lid, onderdeel n, derde lid, onderdeel e, vierde tot en met zesde lid, onderdeel d, zevende lid, onderdeel n, achtste lid, onderdeel d, en tiende lid, onderdelen d en e, geschiedt in overeenstemming met de minister die het mede aangaat.   
-3.  De leden, bedoeld in artikel 7, eerste lid, onderdelen a, b en c, tweede lid, onderdelen a tot en met m en o tot en met t, derde lid, onderdelen a, tot en met d, vierde tot en met zesde lid, onderdelen a, b en c, zevende lid, onderdelen a tot en met m, achtste lid, onderdelen a, b en c, negende lid, en tiende lid, onderdelen a, b en c, brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.   
+3.  De leden, bedoeld in artikel 7, eerste lid, onderdelen a, b en c, tweede lid, onderdelen a tot en met m en o tot en met t, derde lid, onderdelen a, tot en met d, vierde tot en met zesde lid, onderdelen a, b en c, zevende lid, onderdelen a tot en met m, achtste lid, onderdelen a, b en c, negende lid, en tiende lid, onderdelen a, b en c, brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
 
 ### Artikel  5  
 
@@ -52,13 +52,13 @@ Ter uitvoering van de taak als genoemd in artikel 2, elfde lid, bieden de toptea
 2.  De commissie kan voor de behandeling van bepaalde onderwerpen besluiten om een of meer deskundigen uit te nodigen.   
 3.  De minister voorziet in een ambtelijk secretaris voor de commissie.   
 4.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken, Landbouw en Innovatie. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.   
-5.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
+5.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
 
 ### Artikel  6  
 
 1.  Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.   
-2.  Aan de leden van de commissie benoemd als vertegenwoordiger vanuit het MKB wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.   
-3.  Indien er in een commissie twee of meer leden zijn benoemd als vertegenwoordiger vanuit het MKB, wordt de vergoeding bedoeld in het tweede lid evenredig over de betrokken leden verdeeld. De in het tweede lid bedoelde arbeidsduurfactor geldt als maximum voor de totale vergoeding.   
+2.  Aan de leden van de commissie benoemd als vertegenwoordiger vanuit het MKB wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,222.  
+3.  Indien er in een commissie twee of meer leden zijn benoemd als vertegenwoordiger vanuit het MKB, wordt de vergoeding bedoeld in het tweede lid evenredig over de betrokken leden verdeeld. De in het tweede lid bedoelde arbeidsduurfactor geldt als maximum voor de totale vergoeding. 
 
 ### Artikel  7  
 
@@ -199,24 +199,24 @@ c. dhr. R.A.J. Swaak, te Halsteren;
 
 d. dhr. drs. S.J.H. Smits, te Den Haag;  
 
-e. dhr. mr. E.A. Visser, te Angerlo.     
+e. dhr. mr. E.A. Visser, te Angerlo.    
 
 ### Artikel  8  
 
-Het [Instellingsbesluit topteams](../../../../../../../../ministeriele-regeling/instellingsbesluit/topteams/BWBR0029937/README.md) wordt ingetrokken.  
+Het [Instellingsbesluit topteams](../../../../../../../../ministeriele-regeling/instellingsbesluit/topteams/BWBR0029937/README.md) wordt ingetrokken. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 13 september 2011.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 13 september 2011. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit topteams in de implementatiefase topsectorenbeleid.  
+Dit besluit wordt aangehaald als: Instellingsbesluit topteams in de implementatiefase topsectorenbeleid. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 ’s-Gravenhage 
 13 februari 2012   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

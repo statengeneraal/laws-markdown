@@ -77,6 +77,10 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 7.  Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel b, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
 8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).   
 
+### Artikel  3a  
+
+In hoofdstuk IV van deze wet en de daarop berustende bepalingen wordt onder gegevens mede verstaan persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+
 ### Artikel  4  
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
@@ -118,19 +122,19 @@ c. de alleenstaande gewezen zelfstandige zonder kinderen.
 
 1°. de gewezen zelfstandige heeft gedurende drie jaar, onmiddellijk voorafgaand aan de aanvraag, onafgebroken rechtmatig een bedrijf of beroep in Nederland uitgeoefend en gedurende de zeven jaar daarvoor eveneens rechtmatig een bedrijf of beroep in Nederland uitgeoefend dan wel arbeid in dienstbetrekking verricht;  
 
-2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 juli 2012: € 21.144,00 per jaar;  
+2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 januari 2014: € 21.861,00 per jaar;  
 
-3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 juli 2013: € 23.095,00 per jaar bedragen; en  
+3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2014: € 23.115,00 per jaar bedragen; en  
 
 4°. de aanvraag is ingediend voor het beëindigen van het bedrijf of beroep en de beëindiging heeft plaatsgevonden binnen een periode van anderhalf jaar, volgend op het tijdstip van aanvraag.     
 3.  Het recht op uitkering komt de gewezen zelfstandige en de echtgenoot gezamenlijk toe. De uitkering wordt aan de gewezen zelfstandige en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 4.  De grondslag bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat voor: 
 
-a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77;  
+a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77 per 1 januari 2014: € 677,27;  
 
-b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.191,18;  
+b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.191,18 per 1 januari 2014: € 1.219,09;  
 
-c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 926,47.     
+c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 926,47 per 1 januari 2014: € 948,18.     
 5.  Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.   
 6.  De in het vierde lid genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
 7.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant.   
@@ -176,14 +180,14 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de gewezen zelf
 a. voor de gewezen zelfstandige en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig inkomen.     
-2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2013: € 127.400,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.   
-3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 juli 2013: € 299,52 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2014: € 128.547,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.   
+3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2014: € 305,56 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 5.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 6.  Onze Minister herziet het percentage, bedoeld in het tweede lid, zodra de rente-ontwikkeling daartoe aanleiding geeft.   
 7.  Onze Minister stelt regels met betrekking tot de waardering van het vermogen, bedoeld in het tweede lid.   
 8.  Onze Minister herziet het bedrag, genoemd in het derde lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
-9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 juli 2013: € 198,14 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2014: € 200,49 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 
@@ -226,7 +230,7 @@ Het recht op uitkering bestaat jegens het college van de gemeente waar de belang
 
 ### Artikel  14  
 
-1.  Onverminderd [artikel 30c, tweede, vierde en vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), bepaalt het college welke gegevens ten behoeve van de verlening van de uitkering dan wel de voortzetting daarvan door de belanghebbende in ieder geval worden verstrekt en welke bewijsstukken worden overgelegd, alsmede de wijze en het tijdstip waarop de verstrekking van gegevens plaatsvindt. De gegevens en bewijsstukken worden door het college niet verkregen van de belanghebbende voor zover zij verkregen kunnen worden uit de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede uit de gemeentelijke basisadministratie persoonsgegevens, tenzij hierdoor een goede vervulling van de taak van het college op grond van dit artikel wordt belet of bij wettelijk voorschrift anders is bepaald. Bij of krachtens algemene maatregel van bestuur kunnen andere administraties worden aangewezen waarvoor de tweede zin van toepassing is, worden regels gesteld over de gegevens die het betreft en kunnen administraties worden aangewezen waarvoor de tweede zin tijdelijk niet van toepassing is. Indien het authentieke gegevens uit andere basisregistraties betreft, is dit lid van overeenkomstige toepassing.   
+1.  Onverminderd [artikel 30c, tweede, vierde en vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), bepaalt het college welke gegevens ten behoeve van de verlening van de uitkering dan wel de voortzetting daarvan door de belanghebbende in ieder geval worden verstrekt en welke bewijsstukken worden overgelegd, alsmede de wijze en het tijdstip waarop de verstrekking van gegevens plaatsvindt. De gegevens en bewijsstukken worden door het college niet verkregen van de belanghebbende voor zover zij verkregen kunnen worden uit de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede uit de basisregistratie personen, tenzij hierdoor een goede vervulling van de taak van het college op grond van dit artikel wordt belet of bij wettelijk voorschrift anders is bepaald. Bij of krachtens algemene maatregel van bestuur kunnen andere administraties worden aangewezen waarvoor de tweede zin van toepassing is, worden regels gesteld over de gegevens die het betreft en kunnen administraties worden aangewezen waarvoor de tweede zin tijdelijk niet van toepassing is. Indien het authentieke gegevens uit andere basisregistraties betreft, is dit lid van overeenkomstige toepassing.   
 2.  In aanvulling op het eerste lid kan het college de belanghebbende verzoeken aan te tonen dat: 
 
 a. hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b of c;  
@@ -269,13 +273,13 @@ b. indien anderszins de uitkering ten onrechte of tot een te hoog bedrag is verl
 
 ### Artikel  17a  
 
-1.  Indien bij de beoordeling van het recht op uitkering blijkt, dat het door een belanghebbende verstrekte adres van hemzelf, van zijn echtgenoot of van een kind afwijkt van het adres waaronder de betrokkene in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, schort het college de betaling van de uitkering op.   
+1.  Indien bij de beoordeling van het recht op uitkering blijkt, dat het door een belanghebbende verstrekte adres van hemzelf, van zijn echtgenoot of van een kind afwijkt van het adres waaronder de betrokkene in de basisregistratie personen staat ingeschreven, schort het college de betaling van de uitkering op.   
 2.  Geen opschorting vindt plaats: 
 
 a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op of de hoogte van de uitkering;  
 
 b. indien de belanghebbende van de afwijking redelijkerwijs geen verwijt kan worden gemaakt.     
-3.  Het college doet schriftelijk mededeling van de opschorting aan de belanghebbende, en stelt hem daarbij in de gelegenheid de in de gemeentelijke basisadministratie persoonsgegevens opgenomen adresgegevens te doen aanpassen binnen een door het college te stellen termijn.   
+3.  Het college doet schriftelijk mededeling van de opschorting aan de belanghebbende, en geeft daarbij de gelegenheid tot adreswijziging in de basisregistratie personen binnen een door het college te stellen termijn.   
 4.  De opschorting wordt beëindigd zodra het aan het college gebleken is dat de afwijking niet meer bestaat. Indien de afwijking ook na de krachtens het derde lid gestelde termijn nog bestaat, herziet het college het besluit tot toekenning van de uitkering, of trekt het dit in, met ingang van de eerste dag waarop de betaling van de uitkering is opgeschort.   
 
 ### Artikel  20  
@@ -529,13 +533,13 @@ a. het college van andere gemeenten;
 
 b. het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;  
 
-c. de belastingdienst;  
+c. de Belastingdienst;  
 
 d. het College zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en de zorgverzekeraars in de zin van de [artikelen 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 e. de bedrijfstakpensioenfondsen, ondernemingspensioenfondsen, risicofondsen, stichtingen tot uitvoering van een regeling inzake vervroegd uittreden en andere organen belast met het doen van uitkeringen of verstrekkingen die bij of krachtens [artikel 8 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) als inkomen worden aangemerkt;  
 
-f. de Kamers van Koophandel, met dien verstande dat dit, in afwijking van de aanhef van dit lid, geschiedt tegen betaling van de daarvoor op grond van de [Handelsregisterwet 2007](../../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) vastgestelde vergoeding;  
+f. de Kamer van Koophandel, met dien verstande dat dit, in afwijking van de aanhef van dit lid, geschiedt tegen betaling van de daarvoor op grond van de [Handelsregisterwet 2007](../../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) vastgestelde vergoeding;  
 
 g. de korpschef en de bevelhebber van de Koninklijke marechaussee in de zin van de [Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
@@ -572,6 +576,7 @@ b. die hun hoofdverblijf hebben in dezelfde woning, of ten aanzien van wie dat r
 9.  Bij algemene maatregel van bestuur kunnen andere instanties en personen dan genoemd in het eerste en het derde lid worden aangewezen voor wie de verplichtingen, bedoeld in het eerste tot en met zevende lid, eveneens gelden, voorzover het betreft de verstrekking van nader bij algemene maatregel van bestuur aan te wijzen inlichtingen en opgaven met betrekking tot inkomen en vermogen.   
 10.  Bij de algemene maatregel van bestuur, bedoeld in het negende lid, kan tevens worden bepaald dat de daar bedoelde verplichting alleen geldt jegens ambtenaren met opsporingsbevoegdheid.   
 11.  Onze Minister van Veiligheid en Justitie verstrekt ten aanzien van de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, onverwijld en kosteloos de beschikbare informatie en alle overige opgaven en inlichtingen, die van invloed kunnen zijn op het recht op uitkering, aan het college, door tussenkomst van het Inlichtingenbureau, waarbij hij gebruik kan maken van het het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md).   
+12.  De Belastingdienst verstrekt aan het college zonder dat daaraan een verzoek ten grondslag ligt gegevens als bedoeld in het eerste lid over samenloop van een uitkering met inkomen uit of in verband met arbeid of bedrijf, die bij de uitvoering van een belastingwet of bij de invordering van enige rijksbelasting bekend zijn geworden voor zover die gegevens noodzakelijk zijn voor de uitvoering van deze wet.   
 
 ### Artikel  46  
 
@@ -617,8 +622,8 @@ i. Onze Minister van Veiligheid en Justitie in verband met de tenuitvoerlegging 
 
 ### Artikel  49  
 
-1.  In de administratie van de gemeente en van het Inlichtingenbureau terzake van de uitvoering van deze wet wordt het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) opgenomen.   
-2.  Bij de verstrekking van gegevens door het college, het Inlichtingenbureau en de in artikel 45 en 48 genoemde organen en personen wordt, indien daartoe bevoegd, gebruik gemaakt van dit burgerservicenummer.   
+1.  Bij de verstrekking van gegevens door het college, het Inlichtingenbureau en de in de artikelen 45 en 48 bedoelde instanties wordt, indien daartoe bevoegd, gebruik gemaakt van het burgerservicenummer.   
+2.  Derden die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevorderen, maken gebruik van het burgerservicenummer voor zover dat noodzakelijk is voor het verrichten van werkzaamheden die in het kader van een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a, worden uitgevoerd.   
 
 ### §  3  
 
@@ -656,17 +661,25 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ####Vergoeding
 
+Vervallen per 01-01-2010   
+
 ### Paragraaf  2  
 
 ####Uitkering
+
+Vervallen per 01-01-2010   
 
 ### Paragraaf  3  
 
 ####Vaststelling
 
+Vervallen per 01-01-2010   
+
 ### Paragraaf  4  
 
 ####Uitvoeringskosten
+
+Vervallen per 01-01-2010   
 
 ### Paragraaf  5  
 

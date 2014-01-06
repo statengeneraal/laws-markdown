@@ -23,7 +23,7 @@ a.
 
 – de accountantsorganisatie ter zake van uitgevoerde professionele diensten bestaande uit assurance-opdrachten of aan assurance verwante opdrachten en eventueel overige opdrachten, die niet onder de werkingssfeer van de [Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) vallen;    
 
-b. *andere professional:* de natuurlijk persoon die werkzaam is bij of verbonden is aan een accountantskantoor in een andere functie dan openbaar accountant en waarvan het accountantskantoor heeft vastgesteld dat: 
+b.  *andere professional:* de natuurlijk persoon die werkzaam is bij of verbonden is aan een accountantskantoor in een andere functie dan openbaar accountant en waarvan het accountantskantoor heeft vastgesteld dat: 
 
 – hij een opleiding heeft genoten en met goed gevolg een erkend examen heeft afgelegd waarvan het niveau overeenkomt met een afgesloten universitaire opleiding of gelijkwaardig niveau, bedoeld in artikel 6 van de Richtlijn 2006/43/EG, en hij voldoende kennis heeft van het vakgebied en de regelgeving ter zake van assurance-opdrachten;  
 
@@ -31,17 +31,17 @@ b. *andere professional:* de natuurlijk persoon die werkzaam is bij of verbonden
 
 – hij lid is van een beroepsorganisatie anders dan het Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountants-Administratieconsulenten, die door het bestuur van het NIVRA is erkend;    
 
-c. *assurance-cliënt:* de natuurlijk persoon of rechtspersoon, die anders dan in het kader van een gezagsverhouding aan een eindverantwoordelijk professional opdracht heeft gegeven tot het uitvoeren van een assurance-opdracht, alsmede de entiteit die verantwoordelijk is voor het object van de assurance-opdracht;  
+c.  *assurance-cliënt:* de natuurlijk persoon of rechtspersoon, die anders dan in het kader van een gezagsverhouding aan een eindverantwoordelijk professional opdracht heeft gegeven tot het uitvoeren van een assurance-opdracht, alsmede de entiteit die verantwoordelijk is voor het object van de assurance-opdracht;  
 
-d. *assurance-dossier:* het geheel van gegevens en bescheiden die zijn vastgelegd tijdens het uitvoeren van een assurance-opdracht waarop de eindverantwoordelijk professional zijn verklaring of rapport baseert;  
+d.  *assurance-dossier:* het geheel van gegevens en bescheiden die zijn vastgelegd tijdens het uitvoeren van een assurance-opdracht waarop de eindverantwoordelijk professional zijn verklaring of rapport baseert;  
 
-e. *assurance-opdracht:* de opdracht anders dan een wettelijke controle in de zin van de [Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), waarbij de eindverantwoordelijk professional een conclusie formuleert die is bedoeld om het vertrouwen van de beoogde gebruikers, niet zijnde de verantwoordelijke partij, in de uitkomst van de evaluatie of de toetsing van het object van onderzoek ten opzichte van de criteria, te versterken. De uitkomst van de evaluatie of de toetsing van het object van onderzoek is de informatie die het gevolg is van de toepassing van de omschreven criteria;  
+e.  *assurance-opdracht:* de opdracht anders dan een wettelijke controle in de zin van de [Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), waarbij de eindverantwoordelijk professional een conclusie formuleert die is bedoeld om het vertrouwen van de beoogde gebruikers, niet zijnde de verantwoordelijke partij, in de uitkomst van de evaluatie of de toetsing van het object van onderzoek ten opzichte van de criteria, te versterken. De uitkomst van de evaluatie of de toetsing van het object van onderzoek is de informatie die het gevolg is van de toepassing van de omschreven criteria;  
 
-f. *dagelijks beleidsbepaler:* de openbaar accountant, bedoeld in [artikel B1-291.2 van de VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
+f.  *dagelijks beleidsbepaler:* de openbaar accountant, bedoeld in [artikel B1-291.2 van de VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
 
-g. *eindverantwoordelijk professional:* de openbaar accountant of de andere professional die verantwoordelijk is voor de uitvoering van een assurance-opdracht;  
+g.  *eindverantwoordelijk professional:* de openbaar accountant of de andere professional die verantwoordelijk is voor de uitvoering van een assurance-opdracht;  
 
-h. *medewerker:* de eindverantwoordelijk professional en overige persoon die werkzaam is bij of verbonden is aan een accountantskantoor en die is betrokken bij de uitvoering van een assurance-opdracht; 
+h.  *medewerker:* de eindverantwoordelijk professional en overige persoon die werkzaam is bij of verbonden is aan een accountantskantoor en die is betrokken bij de uitvoering van een assurance-opdracht; 
 
 i. netwerk: het samenwerkingsverband waartoe het accountantskantoor behoort, dat duidelijk is gericht op het delen van winst of kosten of waarbij duidelijk sprake is van: 
 
@@ -55,13 +55,13 @@ i. netwerk: het samenwerkingsverband waartoe het accountantskantoor behoort, dat
 
 5. het delen van een aanzienlijk deel van de bedrijfsmiddelen;      
 
-j. *onafhankelijkheidsfunctionaris:* de persoon belast met de uitvoering van de onafhankelijkheidsregeling, bedoeld in artikel 32;  
+j.  *onafhankelijkheidsfunctionaris:* de persoon belast met de uitvoering van de onafhankelijkheidsregeling, bedoeld in artikel 32;  
 
-k. *openbaar accountant:* de registeraccountant die werkzaam is bij of verbonden is aan een accountantskantoor;  
+k.  *openbaar accountant:* de registeraccountant die werkzaam is bij of verbonden is aan een accountantskantoor;  
 
-l. *persoon die deel uitmaakt van de hiërarchische structuur:* de persoon die binnen het accountantskantoor een toezichthoudende of leidinggevende functie heeft ten aanzien van de uitvoering van een assurance-opdracht of de persoon die de evaluatie van de prestatie van een bij een assurance-opdracht betrokken medewerker voorbereidt, beoordeelt of hierop directe invloed uitoefent of anderszins de beloning van deze medewerker vaststelt;  
+l.  *persoon die deel uitmaakt van de hiërarchische structuur:* de persoon die binnen het accountantskantoor een toezichthoudende of leidinggevende functie heeft ten aanzien van de uitvoering van een assurance-opdracht of de persoon die de evaluatie van de prestatie van een bij een assurance-opdracht betrokken medewerker voorbereidt, beoordeelt of hierop directe invloed uitoefent of anderszins de beloning van deze medewerker vaststelt;  
 
-m. *stelsel van kwaliteitsbeheersing:* de ter zake van assurance-opdrachten door het accountantskantoor getroffen maatregelen en ingestelde procedures ter zake van: 
+m.  *stelsel van kwaliteitsbeheersing:* de ter zake van assurance-opdrachten door het accountantskantoor getroffen maatregelen en ingestelde procedures ter zake van: 
 
 a. de interne beheersing van het accountantskantoor met betrekking tot kwaliteit;  
 
@@ -69,7 +69,7 @@ b. het interne onderzoek naar de naleving van de in de [VGC](../../../../../../.
 
 c. het interne onderzoek ten aanzien van assurance-opdrachten naar de kwaliteit van de door de bij het accountantskantoor werkzame of daaraan verbonden medewerkers uitgevoerde werkzaamheden;    
 
-n. *verbonden derde:* de entiteit (natuurlijk of rechtspersoon) die: 
+n.  *verbonden derde:* de entiteit (natuurlijk of rechtspersoon) die: 
 
 a. direct of indirect feitelijk beleidsbepalend is in de assurance-cliënt, indien die assurance-cliënt van materiële betekenis is voor de entiteit;  
 
@@ -81,11 +81,11 @@ d. waarin de assurance-cliënt of een daarmee verbonden derde als genoemd in ond
 
 e. die de zustervennootschap van de assurance-cliënt is, dat wil zeggen de entiteit die door dezelfde entiteit wordt beheerst als de assurance-cliënt, indien deze zustervennootschap en de assurance-cliënt beide van materiële betekenis zijn voor de entiteit die in beide feitelijk beleidsbepalend is;    
 
-o. *VGC:* de [Verordening gedragscode](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
+o.  *VGC:* de [Verordening gedragscode](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
 
-p. *vrijwillige controle:* de controle van een financiële verantwoording van een onderneming of instelling ten behoeve van het maatschappelijk verkeer, die niet verplicht is gesteld bij of krachtens de in de bijlage bij de [Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) genoemde wettelijke bepalingen; onder de financiële verantwoording is mede begrepen iedere hierop gelijkende verantwoording (bijvoorbeeld tussentijdse cijfers);  
+p.  *vrijwillige controle:* de controle van een financiële verantwoording van een onderneming of instelling ten behoeve van het maatschappelijk verkeer, die niet verplicht is gesteld bij of krachtens de in de bijlage bij de [Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) genoemde wettelijke bepalingen; onder de financiële verantwoording is mede begrepen iedere hierop gelijkende verantwoording (bijvoorbeeld tussentijdse cijfers);  
 
-q. *Wta:* de [Wet toezicht accountantsorganisaties](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).    
+q.  *Wta:* de [Wet toezicht accountantsorganisaties](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).   
 
 ### Artikel  2  
 
@@ -97,11 +97,11 @@ a. het stelsel van kwaliteitsbeheersing ter zake van door of namens een accounta
 
 b. de onafhankelijkheid van een accountantskantoor ter zake van de door of namens het accountantskantoor uitgevoerde assurance-opdrachten; en  
 
-c. de integere bedrijfsvoering van een accountantskantoor.     
+c. de integere bedrijfsvoering van een accountantskantoor.    
 
 ### Artikel  3  
 
-Het accountantskantoor houdt bij de nakoming van het bepaalde in de artikelen 4 tot en met 27 en 53 tot en met 56 rekening met de aard en omvang van het accountantskantoor.  
+Het accountantskantoor houdt bij de nakoming van het bepaalde in de artikelen 4 tot en met 27 en 53 tot en met 56 rekening met de aard en omvang van het accountantskantoor. 
 
 ### Hoofdstuk  2  
 
@@ -111,7 +111,7 @@ Het accountantskantoor houdt bij de nakoming van het bepaalde in de artikelen 4 
 
 1.  Het accountantskantoor beschikt ter zake van de door of namens het kantoor uitgevoerde assurance-opdrachten over een kwaliteitsbeleid en een stelsel van kwaliteitsbeheersing.   
 2.  De dagelijks beleidsbepaler is deskundig ten aanzien van het stelsel van kwaliteitsbeheersing van het accountantskantoor.   
-3.  Het stelsel van kwaliteitsbeheersing is zodanig ingericht dat de werkzaamheden te allen tijde plaatsvinden onder de verantwoordelijkheid van een eindverantwoordelijk professional.   
+3.  Het stelsel van kwaliteitsbeheersing is zodanig ingericht dat de werkzaamheden te allen tijde plaatsvinden onder de verantwoordelijkheid van een eindverantwoordelijk professional.  
 
 ### Artikel  5  
 
@@ -129,7 +129,7 @@ e. de uitvoering van een assurance-opdracht;
 
 f. de naleving van het stelsel van kwaliteitsbeheersing; en  
 
-g. de continuïteit van de beroepsuitoefening.    
+g. de continuïteit van de beroepsuitoefening.   
 
 ### Artikel  6  
 
@@ -141,11 +141,11 @@ b. schriftelijk wordt vastgelegd;
 
 c. gedurende ten minste zeven jaren nadat het stelsel van kwaliteitsbeheersing is vastgelegd wordt bewaard; en  
 
-d. aan de medewerkers bekend wordt gemaakt en voor hen toegankelijk is.    
+d. aan de medewerkers bekend wordt gemaakt en voor hen toegankelijk is.   
 
 ### Artikel  7  
 
-Het accountantskantoor zorgt ervoor dat zijn kwaliteitsbeleid leidt tot een bedrijfscultuur waarin assurance-opdrachten worden uitgevoerd overeenkomstig vooraf vastgestelde kwaliteitseisen.  
+Het accountantskantoor zorgt ervoor dat zijn kwaliteitsbeleid leidt tot een bedrijfscultuur waarin assurance-opdrachten worden uitgevoerd overeenkomstig vooraf vastgestelde kwaliteitseisen. 
 
 ### Artikel  8  
 
@@ -156,17 +156,17 @@ a. beschikken over toereikende ervaring en deskundigheid;
 
 b. beschikken over de noodzakelijke bevoegdheid; en  
 
-c. voldoende gezag hebben.     
+c. voldoende gezag hebben.    
 
 ### Artikel  9  
 
 1.  Het accountantskantoor zorgt ervoor dat hij over voldoende medewerkers beschikt om de aan het accountantskantoor verleende assurance-opdrachten uit te voeren in overeenstemming met de daarvoor geldende wet- en regelgeving.   
-2.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde medewerkers beschikken over de vereiste capaciteiten en zich houden aan het bepaalde in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften.   
+2.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde medewerkers beschikken over de vereiste capaciteiten en zich houden aan het bepaalde in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften.  
 
 ### Artikel  10  
 
 1.  Het accountantskantoor wijst voor een aan het accountantskantoor verstrekte assurance-opdracht een eindverantwoordelijk professional aan.   
-2.  Het accountantskantoor zorgt ervoor dat aan de eindverantwoordelijk professional de benodigde tijd, middelen en personeel ter beschikking worden gesteld, opdat hij zijn taak naar behoren kan uitvoeren.   
+2.  Het accountantskantoor zorgt ervoor dat aan de eindverantwoordelijk professional de benodigde tijd, middelen en personeel ter beschikking worden gesteld, opdat hij zijn taak naar behoren kan uitvoeren.  
 
 ### Artikel  11  
 
@@ -176,7 +176,7 @@ a. de voor een assurance-opdracht eindverantwoordelijk professional over de vere
 
 b. de naam van de voor een assurance-opdracht eindverantwoordelijk professional en zijn titel worden bekendgemaakt aan het leidinggevende orgaan en het toezichthoudende orgaan van de opdrachtgever; en  
 
-c. de taken en bevoegdheden van de voor een assurance-opdracht eindverantwoordelijk professional met hem worden besproken en vastgelegd.    
+c. de taken en bevoegdheden van de voor een assurance-opdracht eindverantwoordelijk professional met hem worden besproken en vastgelegd.   
 
 ### Artikel  12  
 
@@ -188,12 +188,12 @@ b. onderzoek is gedaan naar de integriteit van de assurance-cliënt; en
 
 c. de benodigde vakbekwame medewerkers, tijd en middelen beschikbaar zijn om de assurance-opdracht naar behoren te verrichten.     
 2.  Het accountantskantoor zorgt ervoor dat de medewerkers die bij hem werkzaam zijn of aan hem zijn verbonden aan hem of aan de voor de assurance-opdracht eindverantwoordelijk professional de informatie verstrekken die van belang is voor de in het eerste lid bedoelde beoordeling.   
-3.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde beoordeling wordt vastgelegd.   
+3.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde beoordeling wordt vastgelegd.  
 
 ### Artikel  13  
 
 1.  Indien na aanvaarding of continuering van een assurance-opdracht aan het accountantskantoor of aan de voor deze opdracht eindverantwoordelijk professional informatie bekend wordt die, was zij bekend geweest op het moment van aanvaarding of continuering van de opdracht, ertoe zou hebben geleid dat de opdracht niet, dan wel in gewijzigde vorm, zou zijn aanvaard of gecontinueerd, beëindigt het accountantskantoor, dan wel de genoemde eindverantwoordelijk professional, de opdracht, tenzij deze in gewijzigde vorm kan worden voortgezet.   
-2.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde beslissing en de daaraan ten grondslag liggende overwegingen worden vastgelegd.   
+2.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde beslissing en de daaraan ten grondslag liggende overwegingen worden vastgelegd.  
 
 ### Artikel  14  
 
@@ -201,29 +201,29 @@ Het accountantskantoor zorgt ervoor dat hij een standaard heeft voor:
 
 a. het uitvoeren van assurance-opdrachten; en  
 
-b. de begeleiding en de beoordeling van alsmede het toezicht op de door de medewerkers uitgevoerde werkzaamheden.    
+b. de begeleiding en de beoordeling van alsmede het toezicht op de door de medewerkers uitgevoerde werkzaamheden.   
 
 ### Artikel  15  
 
 1.  Het accountantskantoor zorgt ervoor dat het een standaard heeft voor de inrichting van een assurance-dossier.   
 2.  Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional voor iedere door hem uitgevoerde assurance-opdracht met inachtneming van de standaard bedoeld in het eerste lid, een assurance-dossier inricht.   
 3.  Het accountantskantoor zorgt ervoor dat de in het eerste lid bedoelde standaard ten minste voldoet aan het bepaalde in de in [artikel A-130.7 van de VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) bedoelde Nadere voorschriften controle- en overige standaarden ter zake van de inrichting van een assurance-dossier.   
-4.  Het accountantskantoor zorgt ervoor dat een assurance-dossier gedurende ten minste zeven jaren nadat het is afgesloten wordt bewaard.   
+4.  Het accountantskantoor zorgt ervoor dat een assurance-dossier gedurende ten minste zeven jaren nadat het is afgesloten wordt bewaard.  
 
 ### Artikel  16  
 
 1.  Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional voor een door hem uitgevoerde assurance-opdracht zo nodig advies vraagt aan een vakbekwame persoon.   
-2.  Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional het onderwerp van de adviesaanvraag en het verkregen advies vastlegt.   
+2.  Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional het onderwerp van de adviesaanvraag en het verkregen advies vastlegt.  
 
 ### Artikel  17  
 
 1.  Het accountantskantoor stelt regels vast ter zake van het behandelen en oplossen van een bij de uitvoering van een assurance-opdracht gerezen verschil van inzicht tussen bij de uitvoering van de opdracht betrokken medewerkers of tussen de eindverantwoordelijk professional en de persoon bij wie ter zake van de assurance-opdracht advies is ingewonnen.   
 2.  De bereikte conclusies ter zake van de oplossing van een verschil van inzicht worden vastgelegd en overgenomen.   
-3.  Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional zijn mededeling als resultaat van een door hem uitgevoerde assurance-opdracht niet eerder afgeeft dan nadat het verschil van inzicht is opgelost.   
+3.  Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional zijn mededeling als resultaat van een door hem uitgevoerde assurance-opdracht niet eerder afgeeft dan nadat het verschil van inzicht is opgelost.  
 
 ### Artikel  18  
 
-Het accountantskantoor stelt toetsingscriteria vast aan de hand waarvan kan worden vastgesteld voor welke assurance-opdrachten een kwaliteitsbeoordeling moet plaatsvinden.  
+Het accountantskantoor stelt toetsingscriteria vast aan de hand waarvan kan worden vastgesteld voor welke assurance-opdrachten een kwaliteitsbeoordeling moet plaatsvinden. 
 
 ### Artikel  19  
 
@@ -237,18 +237,18 @@ b. de informatie die object van de assurance-opdracht is geweest;
 
 c. de voornaamste bevindingen van de uitgevoerde werkzaamheden en de uit deze bevindingen getrokken conclusies; en  
 
-d. de door de eindverantwoordelijk professional af te geven mededeling.     
+d. de door de eindverantwoordelijk professional af te geven mededeling.    
 
 ### Artikel  20  
 
 1.  Het accountantskantoor zorgt ervoor dat de kwaliteitsbeoordelaar de uitkomst van de kwaliteitsbeoordeling bespreekt met de eindverantwoordelijk professional.   
 2.  Het accountantskantoor stelt een door de kwaliteitsbeoordelaar en de eindverantwoordelijk professional te volgen procedure vast voor het geval zij geen overeenstemming bereiken over de uitkomst van de kwaliteitsbeoordeling.   
 3.  De kwaliteitsbeoordeling is voltooid op het tijdstip waarop de uitkomst van de kwaliteitsbeoordeling, volgens een door het accountantskantoor vast te stellen procedure, aan de eindverantwoordelijk professional is medegedeeld.   
-4.  Het accountantskantoor zorgt ervoor dat de uitkomst van de kwaliteitsbeoordeling wordt vastgelegd, met inbegrip van de aan die uitkomst ten grondslag liggende overwegingen.   
+4.  Het accountantskantoor zorgt ervoor dat de uitkomst van de kwaliteitsbeoordeling wordt vastgelegd, met inbegrip van de aan die uitkomst ten grondslag liggende overwegingen.  
 
 ### Artikel  21  
 
-Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional zijn mededeling naar aanleiding van een door hem uitgevoerde assurance-opdracht niet eerder afgeeft dan nadat de kwaliteitsbeoordeling, voor zover deze is vereist ingevolge artikel 18, is voltooid.  
+Het accountantskantoor zorgt ervoor dat de eindverantwoordelijk professional zijn mededeling naar aanleiding van een door hem uitgevoerde assurance-opdracht niet eerder afgeeft dan nadat de kwaliteitsbeoordeling, voor zover deze is vereist ingevolge artikel 18, is voltooid. 
 
 ### Artikel  22  
 
@@ -259,11 +259,11 @@ a. het stelsel van kwaliteitsbeheersing jaarlijks wordt geëvalueerd;
 
 b. de uitkomsten van deze evaluatie worden vastgelegd; en  
 
-c. de genomen maatregelen tot aanpassing van het stelsel van kwaliteitsbeheersing worden vastgelegd.     
+c. de genomen maatregelen tot aanpassing van het stelsel van kwaliteitsbeheersing worden vastgelegd.    
 
 ### Artikel  23  
 
-Het accountantskantoor stelt regels vast ter zake van de uitvoering van periodiek intern kwaliteitsonderzoek van afgeronde assurance-opdrachten.  
+Het accountantskantoor stelt regels vast ter zake van de uitvoering van periodiek intern kwaliteitsonderzoek van afgeronde assurance-opdrachten. 
 
 ### Artikel  24  
 
@@ -277,24 +277,24 @@ b. een beschrijving van de uitgevoerde evaluatie;
 c. het eindoordeel dat naar aanleiding van de evaluatie is gevormd; en  
 
 d. een beschrijving van de uit de evaluatie gebleken relevante systematische, zich herhalende of andere belangrijke onvolkomenheden en de maatregelen die zijn getroffen om deze onvolkomenheden op te lossen.     
-3.  Het accountantskantoor zorgt ervoor dat de in het tweede lid bedoelde informatie gedurende ten minste zeven jaren wordt bewaard.   
+3.  Het accountantskantoor zorgt ervoor dat de in het tweede lid bedoelde informatie gedurende ten minste zeven jaren wordt bewaard.  
 
 ### Artikel  25  
 
-Het accountantskantoor ziet erop toe dat de eindverantwoordelijk professional de mededeling naar aanleiding van een onder zijn verantwoordelijkheid uitgevoerde assurance-opdracht afgeeft en ondertekent met zijn eigen naam en zijn titel en daarbij de naam vermeldt van het accountantskantoor waarbij hij werkzaam is of waaraan hij is verbonden.  
+Het accountantskantoor ziet erop toe dat de eindverantwoordelijk professional de mededeling naar aanleiding van een onder zijn verantwoordelijkheid uitgevoerde assurance-opdracht afgeeft en ondertekent met zijn eigen naam en zijn titel en daarbij de naam vermeldt van het accountantskantoor waarbij hij werkzaam is of waaraan hij is verbonden. 
 
 ### Artikel  26  
 
-Het accountantskantoor ziet erop toe dat indien een bij hem werkzame of aan hem verbonden eindverantwoordelijk professional met betrekking tot een door hem uitgevoerde assurance-opdracht wordt betrokken in een tuchtzaak of in een klachtenprocedure hij dit onverwijld meldt aan de betrokken assurance-cliënt.  
+Het accountantskantoor ziet erop toe dat indien een bij hem werkzame of aan hem verbonden eindverantwoordelijk professional met betrekking tot een door hem uitgevoerde assurance-opdracht wordt betrokken in een tuchtzaak of in een klachtenprocedure hij dit onverwijld meldt aan de betrokken assurance-cliënt. 
 
 ### Artikel  27  
 
-Het accountantskantoor zorgt voor een zorgvuldige afhandeling en vastlegging van klachten over de uitvoering van een assurance-opdracht.  
+Het accountantskantoor zorgt voor een zorgvuldige afhandeling en vastlegging van klachten over de uitvoering van een assurance-opdracht. 
 
 ### Artikel  28  
 
 1.  Het accountantskantoor zorgt ervoor dat het risico van beroepsaansprakelijkheid van het accountantskantoor en van de bij hem werkzame of aan hem verbonden medewerkers en andere personen in redelijke mate is verzekerd. Indien van toepassing neemt het accountantskantoor hierbij in aanmerking de reeds op grond van het bepaalde in [artikel 12 van de Verordening accountantsorganisaties](../../../../../../../../../pbo/verordening/accountantsorganisaties/BWBR0026502/README.md) afgesloten verzekering voor dit risico.   
-2.  Het bestuur van het NIVRA is bevoegd op schriftelijk en gemotiveerd verzoek van het accountantskantoor ontheffing te verlenen van het bepaalde in het eerste lid op grond van het feit dat de dagelijks beleidsbepaler erkende gemoedsbezwaren heeft tegen elke vorm van verzekering. Genoemd bestuur kan aan deze ontheffing voorwaarden verbinden.   
+2.  Het bestuur van het NIVRA is bevoegd op schriftelijk en gemotiveerd verzoek van het accountantskantoor ontheffing te verlenen van het bepaalde in het eerste lid op grond van het feit dat de dagelijks beleidsbepaler erkende gemoedsbezwaren heeft tegen elke vorm van verzekering. Genoemd bestuur kan aan deze ontheffing voorwaarden verbinden.  
 
 ### Artikel  29  
 
@@ -327,15 +327,15 @@ h. het accountantskantoor zorgt ervoor dat de inloop- en uitlooprisico’s gedur
 i. de verzekering dekt tevens de beroepsaansprakelijkheid van het accountantskantoor voor de personen die onder zijn verantwoordelijkheid werkzaam zijn, voor de personen die zijn werkzaamheden of de werkzaamheden van medewerkers van het accountantskantoor waarnemen en voor derden die betrokken zijn bij de werkzaamheden die door het accountantskantoor worden verricht; en  
 
 j. de verzekering dekt de kosten van benodigde juridische bijstand in het kader van het in procedures te voeren verweer.     
-2.  Het accountantskantoor beoordeelt te allen tijde of er specifieke omstandigheden zijn die het noodzakelijk maken om naar boven toe af te wijken van de minimumeisen, bedoeld in het eerste lid.   
+2.  Het accountantskantoor beoordeelt te allen tijde of er specifieke omstandigheden zijn die het noodzakelijk maken om naar boven toe af te wijken van de minimumeisen, bedoeld in het eerste lid.  
 
 ### Artikel  30  
 
-Het accountantskantoor regelt op adequate wijze de waarneming van de uitvoering van een door of namens het accountantskantoor uitgevoerde assurance-opdracht in geval van ontstentenis, belet of langdurige arbeidsongeschiktheid van de voor de assurance-opdracht eindverantwoordelijk professional.  
+Het accountantskantoor regelt op adequate wijze de waarneming van de uitvoering van een door of namens het accountantskantoor uitgevoerde assurance-opdracht in geval van ontstentenis, belet of langdurige arbeidsongeschiktheid van de voor de assurance-opdracht eindverantwoordelijk professional. 
 
 ### Artikel  31  
 
-Het accountantskantoor treft zodanige voorzieningen dat in geval van het overlijden van een bij hem werkzame of aan hem verbonden eindverantwoordelijk professional een juiste afwikkeling van de beroepsuitoefening is gewaarborgd.  
+Het accountantskantoor treft zodanige voorzieningen dat in geval van het overlijden van een bij hem werkzame of aan hem verbonden eindverantwoordelijk professional een juiste afwikkeling van de beroepsuitoefening is gewaarborgd. 
 
 ### Hoofdstuk  3  
 
@@ -346,7 +346,7 @@ Het accountantskantoor treft zodanige voorzieningen dat in geval van het overlij
 1.  Het accountantskantoor heeft een onafhankelijkheidsfunctionaris.   
 2.  Het accountantskantoor stelt een onafhankelijkheidsregeling vast.   
 3.  De onafhankelijkheidsregeling beschrijft op welke wijze de onafhankelijkheidsfunctionaris toeziet op de naleving van de in artikel 34 bedoelde regels inzake onafhankelijkheid.   
-4.  De functie van onafhankelijkheidsfunctionaris kan worden uitgeoefend door de compliance officer, bedoeld in [artikel 1, onderdeel d, van de Verordening accountantsorganisaties](../../../../../../../../../pbo/verordening/accountantsorganisaties/BWBR0026502/README.md).   
+4.  De functie van onafhankelijkheidsfunctionaris kan worden uitgeoefend door de compliance officer, bedoeld in [artikel 1, onderdeel d, van de Verordening accountantsorganisaties](../../../../../../../../../pbo/verordening/accountantsorganisaties/BWBR0026502/README.md).  
 
 ### Artikel  33  
 
@@ -356,21 +356,21 @@ a. een accountantspraktijk;
 
 b. registeraccountants, Accountants-Administratieconsulenten of andere natuurlijke personen, die zijn onderworpen aan regels die gelijkwaardig zijn aan de regels die gelden voor de registeraccountant of de Accountant-Administratieconsulent ter zake van vakbekwaamheid, onafhankelijkheid, objectiviteit en integriteit; of  
 
-c. een auditkantoor, bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).    
+c. een auditkantoor, bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wta](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).   
 
 ### Artikel  34  
 
-Het accountantskantoor maakt de in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften opgenomen vigerende regels inzake onafhankelijkheid bekend aan zijn medewerkers en aan anderen die aan deze regels zijn onderworpen.  
+Het accountantskantoor maakt de in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften opgenomen vigerende regels inzake onafhankelijkheid bekend aan zijn medewerkers en aan anderen die aan deze regels zijn onderworpen. 
 
 ### Artikel  35  
 
-Het accountantskantoor dat een assurance-opdracht laat uitvoeren door een bij hem werkzame of aan hem verbonden eindverantwoordelijk professional is onafhankelijk van de desbetreffende assurance-cliënt.  
+Het accountantskantoor dat een assurance-opdracht laat uitvoeren door een bij hem werkzame of aan hem verbonden eindverantwoordelijk professional is onafhankelijk van de desbetreffende assurance-cliënt. 
 
 ### Artikel  36  
 
 1.  Indien een accountantskantoor betrekkingen onderhoudt met een assurance-cliënt die leiden tot een bedreiging van niet te verwaarlozen betekenis voor de onafhankelijkheid van het accountantskantoor ten opzichte van die assurance-cliënt, treft het accountantskantoor waarborgen die deze bedreiging wegnemen of terugbrengen tot een aanvaardbaar niveau. Indien dat niet mogelijk is, zorgt het accountantskantoor ervoor dat de opdracht niet wordt aanvaard of wordt beëindigd.   
 2.  Ingeval sprake is van een vrijwillige controle geldt het bepaalde in het eerste lid ook voor betrekkingen onderhouden door andere onderdelen van het netwerk en voor betrekkingen met een met de assurance-cliënt verbonden derde.   
-3.  Het accountantskantoor zorgt ervoor dat de ingevolge het eerste lid genomen maatregelen worden vastgelegd.   
+3.  Het accountantskantoor zorgt ervoor dat de ingevolge het eerste lid genomen maatregelen worden vastgelegd.  
 
 ### Artikel  37  
 
@@ -378,7 +378,7 @@ Het accountantskantoor zorgt ervoor dat de bij hem werkzame of aan hem verbonden
 
 a. bevestigen dat zij de in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en daarop gebaseerde nadere voorschriften gestelde regels inzake onafhankelijkheid naleven; en  
 
-b. het accountantskantoor informeren over bedreigingen ter zake van hun onafhankelijkheid.    
+b. het accountantskantoor informeren over bedreigingen ter zake van hun onafhankelijkheid.   
 
 ### Artikel  38  
 
@@ -387,7 +387,7 @@ b. het accountantskantoor informeren over bedreigingen ter zake van hun onafhank
 a. aanvullende diensten die het accountantskantoor verleent aan de assurance-cliënt; of  
 
 b. de strekking van de af te geven mededeling naar aanleiding van de uitgevoerde assurance-opdracht.     
-2.  Het accountantskantoor zorgt ervoor dat de grondslag voor de berekening van de vergoeding voor een door of namens hem aanvaarde assurance-opdracht voor aanvang van de uitvoering van de opdracht met de assurance-cliënt wordt overeen gekomen.   
+2.  Het accountantskantoor zorgt ervoor dat de grondslag voor de berekening van de vergoeding voor een door of namens hem aanvaarde assurance-opdracht voor aanvang van de uitvoering van de opdracht met de assurance-cliënt wordt overeen gekomen.  
 
 ### Artikel  39  
 
@@ -398,7 +398,7 @@ a. zich periodiek scholen en trainen in de toepassing van de regelgeving inzake 
 b. tijdig aan het accountantskantoor de volgens de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften vereiste informatie verstrekken met betrekking tot de voorgenomen aanvaarding en continuering van een assurance-opdracht en met betrekking tot de voorgenomen aanvaarding van een opdracht tot het verrichten van een andere dienst dan een assurance-opdracht aan een assurance-cliënt; en  
 
 c. het accountantskantoor onmiddellijk inlichten over omstandigheden en betrekkingen ter zake van een bij een assurance-cliënt uitgevoerde assurance-opdracht die leiden tot een bedreiging voor de onafhankelijkheid van het accountantskantoor.     
-2.  Het accountantskantoor zorgt ervoor dat de ter beschikking gestelde informatie, bedoeld in het eerste lid, onderdelen b en c, tijdig aan de medewerkers bekend wordt gemaakt, voor zover de informatie voor de naleving van in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften gestelde regels van belang is.   
+2.  Het accountantskantoor zorgt ervoor dat de ter beschikking gestelde informatie, bedoeld in het eerste lid, onderdelen b en c, tijdig aan de medewerkers bekend wordt gemaakt, voor zover de informatie voor de naleving van in de [VGC](../../../../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md) en de daarop gebaseerde nadere voorschriften gestelde regels van belang is.  
 
 ### Artikel  40  
 
@@ -415,16 +415,16 @@ c. een daartoe geëigende commissie of afdeling binnen het accountantskantoor; o
 d. het Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountants-Administratieconsulenten.     
 4.  Het accountantskantoor beschrijft in welke omstandigheden, op welk tijdstip en op welke wijze het leidinggevende orgaan van de assurance-cliënt en, indien aanwezig, het toezichthoudende orgaan van de assurance-cliënt moeten worden geraadpleegd.   
 5.  Het accountantskantoor maakt de hem bekend geworden overtredingen van de regelgeving inzake onafhankelijkheid bekend aan alle personen die betrokken zijn bij de behandeling van deze overtredingen.   
-6.  Het accountantskantoor zorgt ervoor dat de personen, bedoeld in het vijfde lid, hem tijdig inlichten over de door hen naar aanleiding van de hun gemelde overtredingen van de regelgeving inzake onafhankelijkheid ondernomen acties.   
+6.  Het accountantskantoor zorgt ervoor dat de personen, bedoeld in het vijfde lid, hem tijdig inlichten over de door hen naar aanleiding van de hun gemelde overtredingen van de regelgeving inzake onafhankelijkheid ondernomen acties.  
 
 ### Artikel  41  
 
 1.  Het accountantskantoor zorgt voor een schriftelijke rapportage per assurance-cliënt waarin is vastgelegd of sprake is van omstandigheden die de onafhankelijkheid van de eindverantwoordelijk professional hebben bedreigd, op welke wijze met een bedreiging wordt of is omgegaan en, voor zover deze bedreiging van niet te verwaarlozen betekenis is, welke waarborgen zijn getroffen om die bedreiging weg te nemen of tot een aanvaardbaar niveau terug te brengen.   
-2.  Het accountantskantoor ziet erop toe dat de rapportage, bedoeld in het eerste lid, met inbegrip van een gemotiveerde conclusie, in het assurance-dossier wordt opgenomen.   
+2.  Het accountantskantoor ziet erop toe dat de rapportage, bedoeld in het eerste lid, met inbegrip van een gemotiveerde conclusie, in het assurance-dossier wordt opgenomen.  
 
 ### Artikel  42  
 
-Het accountantskantoor stelt regels vast die voorzien in het treffen van waarborgen die de bedreiging voor de onafhankelijkheid als gevolg van een grote mate van vertrouwdheid of vertrouwen in het geval dat een eindverantwoordelijk professional of een andere leidinggevende medewerker gedurende een lange periode wordt ingezet bij een vrijwillige controle wegnemen, dan wel tot een aanvaardbaar niveau terugbrengen.  
+Het accountantskantoor stelt regels vast die voorzien in het treffen van waarborgen die de bedreiging voor de onafhankelijkheid als gevolg van een grote mate van vertrouwdheid of vertrouwen in het geval dat een eindverantwoordelijk professional of een andere leidinggevende medewerker gedurende een lange periode wordt ingezet bij een vrijwillige controle wegnemen, dan wel tot een aanvaardbaar niveau terugbrengen. 
 
 ### Artikel  43  
 
@@ -443,7 +443,7 @@ c. een direct of indirect financieel belang in een met de opdrachtgever tot een 
 a. passen in het kader van de gewone bedrijfsuitoefening van het accountantskantoor; en  
 
 b. geen onaanvaardbare bedreiging vormen voor de onafhankelijkheid van het accountantskantoor.     
-6.  Indien sprake is van een opdracht tot een vrijwillige controle geldt het bepaalde in het vijfde lid ook voor relaties van andere onderdelen van het netwerk en voor relaties met een met de controlecliënt verbonden derde of de leiding van die derde.   
+6.  Indien sprake is van een opdracht tot een vrijwillige controle geldt het bepaalde in het vijfde lid ook voor relaties van andere onderdelen van het netwerk en voor relaties met een met de controlecliënt verbonden derde of de leiding van die derde.  
 
 ### Artikel  44  
 
@@ -453,7 +453,7 @@ a. een eigenaar van het accountantskantoor;
 
 b. een met een eigenaar van het accountantskantoor verbonden derde, indien deze eigenaar in een zodanige positie verkeert dat hij de besluitvorming van het accountantskantoor met betrekking tot het uitvoeren van de assurance-opdracht bij die derde kan beïnvloeden; of  
 
-c. een onderneming of instelling waarbij een persoon met een bestuurlijke of toezichthoudende functie werkzaam is of daaraan is verbonden in een zodanige positie verkeert dat hij de besluitvorming binnen het accountantskantoor met betrekking tot het uitvoeren van de assurance-opdracht bij die onderneming of instelling kan beïnvloeden.    
+c. een onderneming of instelling waarbij een persoon met een bestuurlijke of toezichthoudende functie werkzaam is of daaraan is verbonden in een zodanige positie verkeert dat hij de besluitvorming binnen het accountantskantoor met betrekking tot het uitvoeren van de assurance-opdracht bij die onderneming of instelling kan beïnvloeden.   
 
 ### Artikel  45  
 
@@ -464,7 +464,7 @@ c. een onderneming of instelling waarbij een persoon met een bestuurlijke of toe
 a. geen zitting mogen hebben in het leidinggevende of toezichthoudende orgaan van een onderneming of instelling die middellijk of onmiddellijk meer dan 20 procent van de stemrechten in de controlecliënt bezit;  
 
 b. geen zitting mogen hebben in het leidinggevende of toezichthoudende orgaan van een onderneming of instelling waarin de controlecliënt middellijk of onmiddellijk meer dan 20 procent van de stemrechten bezit.     
-4.  Indien sprake is van een opdracht tot een vrijwillige controle hebben de regels, bedoeld in het tweede en derde lid, ook betrekking op de personen die werkzaam zijn bij of verbonden zijn aan een onderdeel van het netwerk.   
+4.  Indien sprake is van een opdracht tot een vrijwillige controle hebben de regels, bedoeld in het tweede en derde lid, ook betrekking op de personen die werkzaam zijn bij of verbonden zijn aan een onderdeel van het netwerk.  
 
 ### Artikel  46  
 
@@ -479,7 +479,7 @@ c. indien de medewerker, bedoeld in onderdeel a, een andere dan de in onderdeel 
 
 d. de werkzaamheden van de medewerker, bedoeld in onderdeel a, die hij ten behoeve van de lopende of meest recente assurance-opdracht van de desbetreffende assurance-cliënt heeft verricht, onmiddellijk worden beoordeeld door een bij diezelfde assurance-opdracht betrokken medewerker met een hogere functie; en  
 
-e. indien de medewerker, bedoeld in onderdeel a, de eindverantwoordelijk professional is, de beoordeling, bedoeld in onderdeel d, wordt uitgevoerd door een eindverantwoordelijk professional die niet bij die assurance-opdracht betrokken is. In de situatie dat als gevolg van de omvang van het accountantskantoor er geen eindverantwoordelijk professional is die niet bij de desbetreffende assurance-opdracht is betrokken, wordt een andere eindverantwoordelijk professional gevraagd om de in onderdeel d bedoelde beoordeling uit te voeren.     
+e. indien de medewerker, bedoeld in onderdeel a, de eindverantwoordelijk professional is, de beoordeling, bedoeld in onderdeel d, wordt uitgevoerd door een eindverantwoordelijk professional die niet bij die assurance-opdracht betrokken is. In de situatie dat als gevolg van de omvang van het accountantskantoor er geen eindverantwoordelijk professional is die niet bij de desbetreffende assurance-opdracht is betrokken, wordt een andere eindverantwoordelijk professional gevraagd om de in onderdeel d bedoelde beoordeling uit te voeren.    
 
 ### Artikel  47  
 
@@ -489,7 +489,7 @@ e. indien de medewerker, bedoeld in onderdeel a, de eindverantwoordelijk profess
 a. de vorderingen op en schulden aan de voormalig medewerker en soortgelijke financiële betrekkingen niet zijn vereffend, met uitzondering van de financiële betrekkingen die zijn vastgelegd in een schriftelijke overeenkomst en die niet worden beïnvloed door de relatie tussen de voormalig medewerker en het accountantskantoor; of  
 
 b. de voormalig medewerker deelneemt aan de beroeps- of bedrijfsmatige activiteiten van het accountantskantoor.     
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op een persoon die deel heeft uitgemaakt van de hiërarchische structuur.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op een persoon die deel heeft uitgemaakt van de hiërarchische structuur.  
 
 ### Artikel  48  
 
@@ -501,7 +501,7 @@ b. bij die assurance-cliënt in een zodanige andere positie verkeert, respectiev
 
 c. een financieel belang heeft in die assurance-cliënt, tenzij het belang van te verwaarlozen betekenis is; of  
 
-d. met die assurance-cliënt een zakelijke relatie onderhoudt, tenzij deze relatie past in het kader van de gewone bedrijfsuitoefening en slechts een te verwaarlozen bedreiging inhoudt voor de onafhankelijkheid van deze persoon.    
+d. met die assurance-cliënt een zakelijke relatie onderhoudt, tenzij deze relatie past in het kader van de gewone bedrijfsuitoefening en slechts een te verwaarlozen bedreiging inhoudt voor de onafhankelijkheid van deze persoon.   
 
 ### Artikel  49  
 
@@ -515,7 +515,7 @@ c. weliswaar ten tijde van de uitvoering van de assurance-opdracht geen functie 
 
 d. een financieel belang heeft in die assurance-cliënt, tenzij het belang van te verwaarlozen betekenis is; of  
 
-e. met die assurance-cliënt een zakelijke relatie onderhoudt, tenzij deze relatie past in het kader van de gewone bedrijfsuitoefening en slechts een te verwaarlozen bedreiging vormt voor de onafhankelijkheid van die persoon.    
+e. met die assurance-cliënt een zakelijke relatie onderhoudt, tenzij deze relatie past in het kader van de gewone bedrijfsuitoefening en slechts een te verwaarlozen bedreiging vormt voor de onafhankelijkheid van die persoon.   
 
 ### Artikel  50  
 
@@ -532,7 +532,7 @@ d. een financieel belang heeft in die controlecliënt, tenzij het belang van te 
 e. met die controlecliënt een zakelijke relatie onderhoudt, tenzij deze relatie past in het kader van de gewone bedrijfsuitoefening en slechts een te verwaarlozen bedreiging vormt voor de onafhankelijkheid van die persoon.     
 2.  De in het eerste lid bedoelde regels hebben eveneens betrekking op de in het eerste lid bedoelde personen werkzaam bij of verbonden aan een ander onderdeel van het netwerk.   
 3.  Het accountantskantoor stelt regels vast die erin voorzien dat geen vrijwillige controle wordt uitgevoerd vanuit een vestiging waarbij of waaraan een eindverantwoordelijk professional werkzaam of verbonden is die niet bij de desbetreffende vrijwillige controle is betrokken of een persoon werkzaam is die deel uitmaakt van de hiërarchische structuur, indien één van hen dan wel beiden een gezinslid heeft dan wel hebben dat voldoet aan één of meer van de in het eerste lid genoemde criteria.   
-4.  Het accountantskantoor stelt regels vast die erin voorzien dat een persoon die deel uitmaakt van zijn hiërarchische structuur niet betrokken is bij een beslissing die rechtstreeks met een vrijwillige controle verband houdt, indien een gezinslid van die persoon voldoet aan één of meer van de in het eerste lid genoemde criteria.   
+4.  Het accountantskantoor stelt regels vast die erin voorzien dat een persoon die deel uitmaakt van zijn hiërarchische structuur niet betrokken is bij een beslissing die rechtstreeks met een vrijwillige controle verband houdt, indien een gezinslid van die persoon voldoet aan één of meer van de in het eerste lid genoemde criteria.  
 
 ### Artikel  51  
 
@@ -544,14 +544,14 @@ a. het dreigend geschil van wezenlijk belang is voor ten minste één van de bet
 
 b. het dreigend geschil betrekking heeft op een eerder uitgevoerde assurance-opdracht; of  
 
-c. er niet langer sprake is van een dreigend geschil, maar van een aangekondigd geschil.     
+c. er niet langer sprake is van een dreigend geschil, maar van een aangekondigd geschil.    
 
 ### Artikel  52  
 
 1.  Het accountantskantoor stelt regels vast ter zake van de toelaatbaarheid van de samenloop van het uitvoeren van een assurance-opdracht met het aan de assurance-cliënt leveren van overige diensten. Deze regels zijn erop gericht te voorkomen dat deze overige diensten een onaanvaardbare bedreiging vormen voor de onafhankelijkheid van het accountantskantoor en zijn medewerkers.   
 2.  Indien sprake is van een vrijwillige controle, hebben de in het eerste lid bedoelde regels ook betrekking op diensten verricht door een ander onderdeel van het netwerk en op diensten verleend aan een met de controlecliënt verbonden derde.   
 3.  De in het eerste lid bedoelde regels bevatten ten minste het voorschrift dat het accountantskantoor of zijn medewerkers geen beslissingen mogen nemen en niet mogen participeren in een besluitvormingsproces namens een assurance-cliënt of het management daarvan.   
-4.  Indien sprake is van een opdracht tot een vrijwillige controle, heeft het in het derde lid bedoelde voorschrift ook betrekking op andere onderdelen van het netwerk en op het besluitvormingsproces bij een met de controlecliënt verbonden derde of het management daarvan.   
+4.  Indien sprake is van een opdracht tot een vrijwillige controle, heeft het in het derde lid bedoelde voorschrift ook betrekking op andere onderdelen van het netwerk en op het besluitvormingsproces bij een met de controlecliënt verbonden derde of het management daarvan.  
 
 ### Hoofdstuk  4  
 
@@ -560,7 +560,7 @@ c. er niet langer sprake is van een dreigend geschil, maar van een aangekondigd 
 ### Artikel  53  
 
 1.  Het accountantskantoor richt zijn bedrijfsvoering zodanig in dat deze een beheerste en integere uitoefening van zijn bedrijf waarborgt.   
-2.  Het accountantskantoor maakt de in het kader van de uitvoering van het bepaalde in het eerste lid vastgestelde regels en procedures bekend aan zijn medewerkers en zijn overige personeel.   
+2.  Het accountantskantoor maakt de in het kader van de uitvoering van het bepaalde in het eerste lid vastgestelde regels en procedures bekend aan zijn medewerkers en zijn overige personeel.  
 
 ### Artikel  54  
 
@@ -568,12 +568,12 @@ c. er niet langer sprake is van een dreigend geschil, maar van een aangekondigd 
 2.  Het accountantskantoor stelt procedures en regels vast ter zake van de omgang met en vastlegging van incidenten die een ernstige bedreiging vormen voor de integere uitoefening van zijn bedrijf.   
 3.  Het accountantskantoor neemt naar aanleiding van een incident, als bedoeld in het tweede lid, passende maatregelen. Deze maatregelen zijn gericht op het beheersen van de als gevolg van het incident opgetreden risico’s en op het voorkomen van herhaling.   
 4.  De administratieve vastlegging van incidenten, als bedoeld in het tweede lid, omvat ten minste de feiten en omstandigheden van het incident, de gegevens over degene die bij het incident is betrokken en de maatregelen die naar aanleiding van het incident zijn genomen.   
-5.  Het accountantskantoor bewaart de in het eerste lid bedoelde gegevens gedurende ten minste zeven jaren nadat zij zijn vastgelegd.   
+5.  Het accountantskantoor bewaart de in het eerste lid bedoelde gegevens gedurende ten minste zeven jaren nadat zij zijn vastgelegd.  
 
 ### Artikel  55  
 
 1.  Het accountantskantoor heeft een regeling die waarborgt dat personen van buiten het accountantskantoor en de bij het accountantskantoor werkzame of daaraan verbonden personen zonder gevaar voor hun rechtspositie vermeende onregelmatigheden binnen of (mede) buiten het accountantskantoor aan de orde kunnen stellen. Deze regeling leidt ertoe dat klachten worden vastgelegd, vertrouwelijk en tijdig worden behandeld en dat de onregelmatigheden waarover wordt geklaagd, indien gegrond, tijdig worden afgehandeld door het nemen van passende maatregelen door het accountantskantoor.   
-2.  De in het eerste lid bedoelde regeling wordt in elk geval op de website van het accountantskantoor geplaatst. In geval een accountantskantoor niet over een website beschikt, wordt deze regeling op een andere wijze binnen het accountantskantoor verspreid en wordt deze regeling desgevraagd toegestuurd aan personen buiten het accountantskantoor.   
+2.  De in het eerste lid bedoelde regeling wordt in elk geval op de website van het accountantskantoor geplaatst. In geval een accountantskantoor niet over een website beschikt, wordt deze regeling op een andere wijze binnen het accountantskantoor verspreid en wordt deze regeling desgevraagd toegestuurd aan personen buiten het accountantskantoor.  
 
 ### Artikel  56  
 
@@ -581,7 +581,7 @@ De dagelijks beleidsbepaler zorgt ervoor dat vanaf het moment dat het accountant
 
 a. de gegevens die het accountantskantoor op grond van de wettelijke bepalingen moet bewaren, bewaard blijven gedurende de in die bepalingen voorgeschreven periode; en  
 
-b. de vertrouwelijkheid van deze gegevens gewaarborgd blijft.    
+b. de vertrouwelijkheid van deze gegevens gewaarborgd blijft.   
 
 ### Hoofdstuk  5  
 
@@ -589,14 +589,14 @@ b. de vertrouwelijkheid van deze gegevens gewaarborgd blijft.
 
 ### Artikel  57  
 
-De Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten, zoals die in werking zijn getreden op 1 maart 2007, worden ingetrokken op de datum dat de onderhavige nadere voorschriften in werking treden.  
+De Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten, zoals die in werking zijn getreden op 1 maart 2007, worden ingetrokken op de datum dat de onderhavige nadere voorschriften in werking treden. 
 
 ### Artikel  58  
 
-Deze nadere voorschriften worden aangehaald als Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten, afgekort als NVAK-ass.  
+Deze nadere voorschriften worden aangehaald als Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten, afgekort als NVAK-ass. 
 
 ### Artikel  59  
 
-Deze nadere voorschriften treden in werking op 1 januari 2010.  
+Deze nadere voorschriften treden in werking op 1 januari 2010. 
 
 Het bestuur van het Nederlands Instituut van Registeraccountants.    

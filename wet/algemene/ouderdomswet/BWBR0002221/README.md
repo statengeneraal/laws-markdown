@@ -20,23 +20,23 @@ a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;  
 
-c. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+c. vreemdeling: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000;  
 
-d. bruto-minimumloon: het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag;  
+d. bruto-minimumloon: het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag;  
 
-e. rechtens zijn vrijheid is ontnomen: rechtens zijn vrijheid is ontnomen, behoudens de gevallen, bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) en in [artikel 37, eerste lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+e. rechtens zijn vrijheid is ontnomen: rechtens zijn vrijheid is ontnomen, behoudens de gevallen, bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en in artikel 37, eerste lid, van het Wetboek van Strafrecht;  
 
 f. justitiële inrichting: een penitentiaire inrichting of een inrichting voor verpleging van ter beschikking gestelden;  
 
-g. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland;  
+g. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland;  
 
-g. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), behoudens de gevallen, bedoeld in [artikel 37, eerste lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+g. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het Wetboek van Strafrecht, behoudens de gevallen, bedoeld in artikel 37, eerste lid, van het Wetboek van Strafrecht;  
 
 h. pensioengerechtigde leeftijd: leeftijd, bedoeld in artikel 7a, waarop recht op ouderdomspensioen ontstaat;  
 
 i. aanvangsleeftijd: leeftijd, bedoeld in artikel 7a, met ingang waarvan een niet verzekerd tijdvak leidt tot een korting op het ouderdomspensioen;  
 
-j. CBS: Centraal bureau voor de statistiek, bedoeld in [artikel 2, eerste lid, van de Wet op het Centraal bureau voor de statistiek](../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md).     
+j. CBS: Centraal bureau voor de statistiek, bedoeld in artikel 2, eerste lid, van de Wet op het Centraal bureau voor de statistiek.     
 2.  In deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
 a. echtgenoot: geregistreerde partner;  
@@ -64,7 +64,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vijfde lid, onderdeel d.   
 7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander, zoals bedoeld in het vierde lid.   
 8.  Onder bloedverwant in de eerste graad als bedoeld in het derde lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).   
+9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet.   
 
 ### Artikel  2  
 
@@ -87,13 +87,13 @@ Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 a. ingezetene is;  
 
 b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.     
-2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000.   
 3.  Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste en tweede lid, uitbreiding dan wel beperking worden gegeven aan de kring der verzekerden.   
 4.  Bij een maatregel, als bedoeld in het derde lid, kan worden afgeweken van het tweede lid ten aanzien van: 
 
 a. vreemdelingen die rechtmatig in Nederland arbeid verrichten, dan wel hebben verricht;  
 
-b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.     
+b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000, rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.     
 
 ### Artikel  6a  
 
@@ -201,11 +201,11 @@ a. de ongehuwde pensioengerechtigde;
 
 b. de gehuwde pensioengerechtigde;  
 
-c. de ongehuwde pensioengerechtigde die een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn.     
+c. de ongehuwde pensioengerechtigde die een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien artikel 7, tweede lid, van die wet niet van toepassing zou zijn.     
 2.  De in het eerste lid bedoelde ouderdomspensioenen worden afgeleid van het netto-minimumloon per maand.   
-3.  Onder het netto-minimumloon wordt verstaan het bruto-minimumloon, na aftrek van premies op grond van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en loonbelasting.   
-4.  De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer, jonger dan de pensioengerechtigde leeftijd, rekening houdend met uitsluitend tweemaal de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon.   
-5.  De bruto-ouderdomspensioenen worden zodanig vastgesteld, dat na aftrek van de in te houden loonbelasting en premie voor de volksverzekeringen, rekening houdend met de toepasselijke heffingskortingen voor een persoon van de pensioengerechtigde leeftijd en ouder, en van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md): 
+3.  Onder het netto-minimumloon wordt verstaan het bruto-minimumloon, na aftrek van premies op grond van de Wet financiering sociale verzekeringen en loonbelasting.   
+4.  De loonbelasting en premie voor de volksverzekeringen, bedoeld in artikel 1 van de Wet financiering sociale verzekeringen, worden berekend voor een werknemer, jonger dan de pensioengerechtigde leeftijd, rekening houdend met uitsluitend tweemaal de algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964, over het bruto-minimumloon.   
+5.  De bruto-ouderdomspensioenen worden zodanig vastgesteld, dat na aftrek van de in te houden loonbelasting en premie voor de volksverzekeringen, rekening houdend met de toepasselijke heffingskortingen voor een persoon van de pensioengerechtigde leeftijd en ouder, en van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van de Zorgverzekeringswet: 
 
 a. het netto-ouderdomspensioen per maand van een pensioengerechtigde als bedoeld in het eerste lid, onderdeel a, gelijk is aan 70% van het netto-minimumloon per maand;  
 
@@ -257,13 +257,13 @@ b. het aantal dagen gelegen in de maand waarin de echtgenoot van de pensioengere
 
 ### Artikel  12  
 
-1.  Op de bruto-toeslag, vastgesteld op grond van artikel 10 en, indien van toepassing, na toepassing van artikel 13, tweede lid, wordt een korting toegepast tot 10% voor zover de toeslag samen met het gezamenlijke inkomen uit arbeid of overig inkomen van de gehuwde pensioengerechtigde en diens echtgenoot vermeerderd met het op grond van de artikelen 9, zesde lid, onderdeel b en 13, eerste lid, vastgestelde bruto-ouderdomspensioen door de toepassing van de korting niet minder bedraagt dan 162% van het bruto-minimumloon met inbegrip van de bruto-minimumvakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
+1.  Op de bruto-toeslag, vastgesteld op grond van artikel 10 en, indien van toepassing, na toepassing van artikel 13, tweede lid, wordt een korting toegepast tot 10% voor zover de toeslag samen met het gezamenlijke inkomen uit arbeid of overig inkomen van de gehuwde pensioengerechtigde en diens echtgenoot vermeerderd met het op grond van de artikelen 9, zesde lid, onderdeel b en 13, eerste lid, vastgestelde bruto-ouderdomspensioen door de toepassing van de korting niet minder bedraagt dan 162% van het bruto-minimumloon met inbegrip van de bruto-minimumvakantiebijslag, bedoeld in artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag.   
 2.  De met toepassing van artikel 10, tweede lid, of artikel 13, tweede lid, of het eerste lid berekende niet-volledige bruto-toeslag wordt voor toepassing van artikel 29, tweede lid, aanhef en onderdeel b, uitgedrukt in een percentage van de volledige bruto-toeslag. Dit percentage wordt rekenkundig afgerond op een veelvoud van éénhonderdste.   
-3.  Dit artikel is van overeenkomstige toepassing op de pensioengerechtigde, bedoeld in [artikel II van de Wet van 23 oktober 1993 tot wijziging van de Algemene Ouderdomswet (wijziging in de verhouding van ouderdomspensioen en toeslag)](../../../../wet/wijzigingswet/algemene/ouderdomswet/(wijziging/in/de/verhouding/van/etc/BWBR0006200/README.md) (Stb. 592). Ten aanzien van die pensioengerechtigden dient: 
+3.  Dit artikel is van overeenkomstige toepassing op de pensioengerechtigde, bedoeld in artikel II van de Wet van 23 oktober 1993 tot wijziging van de Algemene Ouderdomswet (wijziging in de verhouding van ouderdomspensioen en toeslag) (Stb. 592). Ten aanzien van die pensioengerechtigden dient: 
 
-a. artikel 10, vierde lid, zoals dat luidde voor de datum van inwerkingtreding van [die wet](../../../../wet/wijzigingswet/algemene/ouderdomswet/(wijziging/in/de/verhouding/van/etc/BWBR0006200/README.md), te worden gelezen alsof «en 11» is vervangen door «11 en 12»; en  
+a. artikel 10, vierde lid, zoals dat luidde voor de datum van inwerkingtreding van die wet, te worden gelezen alsof «en 11» is vervangen door «11 en 12»; en  
 
-b. artikel 29, tweede lid, zoals dat luidde voor de datum van inwerkingtreding van [die wet](../../../../wet/wijzigingswet/algemene/ouderdomswet/(wijziging/in/de/verhouding/van/etc/BWBR0006200/README.md), te worden gelezen alsof «met toepassing van artikel 10, tweede lid,» is vervangen door «met toepassing van artikel 10, tweede lid, of artikel 13, tweede lid, of artikel 12, eerste lid,» en «de in artikel 10, derde lid, bedoelde percenten» is vervangen door «de in artikel 12, tweede lid, bedoelde percenten».     
+b. artikel 29, tweede lid, zoals dat luidde voor de datum van inwerkingtreding van die wet, te worden gelezen alsof «met toepassing van artikel 10, tweede lid,» is vervangen door «met toepassing van artikel 10, tweede lid, of artikel 13, tweede lid, of artikel 12, eerste lid,» en «de in artikel 10, derde lid, bedoelde percenten» is vervangen door «de in artikel 12, tweede lid, bedoelde percenten».     
 
 ### Artikel  12a  
 
@@ -275,12 +275,12 @@ Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid en
 
 a. voor elk kalenderjaar, dat de pensioengerechtigde na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd niet verzekerd is geweest;  
 
-b. voor elke jaarpremie op grond van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), welke de pensioengerechtigde na het bereiken van de aanvangsleeftijd schuldig nalatig is geweest te betalen als bedoeld in [artikel 61 van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).     
+b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, welke de pensioengerechtigde na het bereiken van de aanvangsleeftijd schuldig nalatig is geweest te betalen als bedoeld in artikel 61 van die wet.     
 2.  Op de bruto-toeslag wordt, na toepassing van artikel 10, een korting toegepast van 2%: 
 
 a. voor elk kalenderjaar, dat de echtgenoot van de pensioengerechtigde na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd van de pensioengerechtigde niet verzekerd is geweest;  
 
-b. voor elke jaarpremie op grond van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), welke de echtgenoot van de pensioengerechtigde na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd van de pensioengerechtigde schuldig nalatig is geweest te betalen.     
+b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, welke de echtgenoot van de pensioengerechtigde na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd van de pensioengerechtigde schuldig nalatig is geweest te betalen.     
 3.  Bij ministeriële regeling worden regels gesteld omtrent de herleiding van gedeelten van kalenderjaren tot gehele kalenderjaren en gedeelten van jaarpremies tot gehele jaarpremies.   
 
 ### Artikel  13a  
@@ -312,7 +312,7 @@ b. voor elke jaarpremie op grond van de [Wet financiering sociale verzekeringen]
 1.  Het ouderdomspensioen wordt door de Sociale verzekeringsbank ingetrokken of herzien, wanneer degene, aan wie het is toegekend, ingevolge het bij of krachtens deze wet bepaalde daarvoor niet of niet meer in aanmerking komt, onderscheidenlijk voor een hoger of lager ouderdomspensioen in aanmerking komt.   
 2.  In afwijking van het eerste lid vindt geen herziening van het ouderdomspensioen plaats indien: 
 
-a. sprake is van zorg voor een pensioengerechtigde die hulpbehoevend is als bedoeld in [artikel 1, onderdeel j, van de Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+a. sprake is van zorg voor een pensioengerechtigde die hulpbehoevend is als bedoeld in artikel 1, onderdeel j, van de Algemene nabestaandenwet;  
 
 b. door deze zorg een gezamenlijke huishouding ontstaat van twee pensioengerechtigden, en  
 
@@ -337,7 +337,7 @@ c. indien het niet of niet behoorlijk nakomen van de verplichting bedoeld in art
 
 ### Artikel  17b  
 
-1.  De Sociale verzekeringsbank weigert het ouderdomspensioen geheel of gedeeltelijk, tijdelijk of blijvend, indien de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een verplichting, hem op grond van artikel 15, tweede lid, opgelegd, of de verplichtingen, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 49 niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.   
+1.  De Sociale verzekeringsbank weigert het ouderdomspensioen geheel of gedeeltelijk, tijdelijk of blijvend, indien de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een verplichting, hem op grond van artikel 15, tweede lid, opgelegd, of de verplichtingen, bedoeld in artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 49 niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.   
 2.  Een maatregel als bedoeld in het eerste lid wordt afgestemd op de ernst van de gedraging en de mate waarin de belanghebbende de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.   
 3.  De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake het niet tijdig nakomen van de verplichting, bedoeld in artikel 49, indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van ouderdomspensioen, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een zodanige waarschuwing is gegeven.   
 4.  De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.   
@@ -348,10 +348,10 @@ c. indien het niet of niet behoorlijk nakomen van de verplichting bedoeld in art
 
 1.  De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 49. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
 2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 49, ten onrechte of tot een te hoog bedrag aan ouderdomspensioen is verleend.   
-3.  Indien het niet of niet behoorlijk nakomen door de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 49, niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+3.  Indien het niet of niet behoorlijk nakomen door de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 49, niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 4.  De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 49, tenzij het niet of niet behoorlijk nakomen van de verplichting plaats vindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, een zodanige waarschuwing is gegeven.   
 5.  De Sociale verzekeringsbank legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 49, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan ouderdomspensioen is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
-6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 49 van deze wet of [35 van de Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) als gevolg waarvan ten onrechte of tot een te hoog bedrag aan ouderdomspensioen, nabestaandenuitkering, halfwezenuitkering, of wezenuitkering is verleend.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 49 van deze wet of 35 van de Algemene nabestaandenwet als gevolg waarvan ten onrechte of tot een te hoog bedrag aan ouderdomspensioen, nabestaandenuitkering, halfwezenuitkering, of wezenuitkering is verleend.   
 7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.   
 8.  De Sociale verzekeringsbank kan: 
 
@@ -360,7 +360,7 @@ a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarhe
 b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
 9.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan de Sociale verzekeringsbank de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
 10.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
-11.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger wijzigen.   
+11.  In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger wijzigen.   
 
 ### Artikel  17e  
 
@@ -370,21 +370,21 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarv
 
 1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met het ouderdomspensioen dat degene aan wie een bestuurlijke boete is opgelegd op grond van deze wet ontvangt.   
 2.  Onverminderd het eerste lid kan de Sociale verzekeringsbank de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.   
-3.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
-4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
+3.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering of de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet.   
+4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 5.  Zolang de belanghebbende zijn verplichting, bedoeld in artikel 17c, negende lid, niet of niet behoorlijk nakomt: 
 
-a. is de Sociale verzekeringsbank, in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
+a. is de Sociale verzekeringsbank, in afwijking van artikel 4.93, vierde lid, van de Algemene wet bestuursrecht, bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
-b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij de invordering van een bestuurlijke boete bij dwangbevel.     
+b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering, in afwijking van artikel 4:116 van de Algemene wet bestuursrecht, niet bij de invordering van een bestuurlijke boete bij dwangbevel.     
 
 ### Artikel  17j  
 
-1.  Bij de verrekening, bedoeld in artikel 17i, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 17c, vijfde lid, door Sociale verzekeringsbank, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+1.  Bij de verrekening, bedoeld in artikel 17i, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 17c, vijfde lid, door Sociale verzekeringsbank, in afwijking van artikel 4:93, vierde lid, van de Algemene wet bestuursrecht, verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
 2.  Artikel 17i, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 17c, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  De Sociale verzekeringsbank kan op verzoek van degene aan wie de bestuurlijke boete is opgelegd besluiten het eerste en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 17i, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van het ouderdomspensioen op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van het ouderdomspensioen kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van het ouderdomspensioen op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van het ouderdomspensioen kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.   
 
@@ -407,7 +407,7 @@ c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degene
 
 1.  De Sociale verzekeringsbank betaalt het ouderdomspensioen waarop op grond van deze wet recht bestaat. De betaling geschiedt als regel maandelijks.   
 2.  De Sociale verzekeringsbank kan de aan een gehuwde pensioengerechtigde toegekende toeslag betaalbaar stellen aan de echtgenoot.   
-3.  Indien het ouderdomspensioen in het buitenland wordt uitbetaald, geschiedt de betaling in afwijking van [artikel 4:89, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd.   
+3.  Indien het ouderdomspensioen in het buitenland wordt uitbetaald, geschiedt de betaling in afwijking van artikel 4:89, derde lid, van de Algemene wet bestuursrecht op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd.   
 4.  Wanneer een pensioengerechtigde een ander machtigt om het ouderdomspensioen in ontvangst te nemen, onderscheidenlijk een verleende machtiging intrekt, wordt daaraan gevolg gegeven met ingang van een betalingstermijn, aanvangende na de dag, waarop de machtiging wordt ingediend, onderscheidenlijk waarop van haar intrekking mededeling wordt gedaan, doch niet later dan de eerste dag van de tweede maand na de dag van indiening, onderscheidenlijk intrekking der machtiging.   
 5.  De Sociale verzekeringsbank schort de betaling van het ouderdomspensioen op of schorst de betaling indien zij op grond van duidelijke aanwijzingen van oordeel is of het gegronde vermoeden heeft, dat: 
 
@@ -420,12 +420,12 @@ c. de pensioengerechtigde, zijn echtgenoot dan wel zijn wettelijke vertegenwoord
 
 ### Artikel  19a  
 
-1.  De Sociale verzekeringsbank schort de betaling van het ouderdomspensioen op indien degene aan wie een ouderdomspensioen is toegekend een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+1.  De Sociale verzekeringsbank schort de betaling van het ouderdomspensioen op indien degene aan wie een ouderdomspensioen is toegekend een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in artikel 8 van de Vreemdelingenwet 2000.   
 2.  De betaling van het ouderdomspensioen wordt hervat indien betrokkene daartoe een aanvraag indient en het de Sociale verzekeringsbank is gebleken dat hij feitelijk buiten Nederland woont of verblijf houdt.   
 
 ### Artikel  19b  
 
-1.  De Sociale verzekeringsbank schort de betaling van de uitkering op, indien blijkt dat het door de pensioengerechtigde verstrekte adres van hemzelf of van zijn echtgenoot afwijkt van het adres waaronder de pensioengerechtigde of zijn echtgenoot in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven.   
+1.  De Sociale verzekeringsbank schort de betaling van de uitkering op, indien blijkt dat het door de pensioengerechtigde verstrekte adres van hemzelf of van zijn echtgenoot afwijkt van het adres waaronder de pensioengerechtigde of zijn echtgenoot in de basisregistratie personen staat ingeschreven.   
 2.  Geen opschorting vindt plaats: 
 
 a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op of de hoogte van de uitkering;  
@@ -436,7 +436,7 @@ b. indien de pensioengerechtigde van de afwijking redelijkerwijs geen verwijt ka
 
 ### Artikel  20  
 
-1.  Indien degene aan wie een ouderdomspensioen is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en op grond van die wet een bijdrage voor die zorg verschuldigd is, is de Sociale verzekeringsbank bevoegd het ouderdomspensioen tot het bedrag van die bijdrage in plaats van aan degene, aan wie ouderdomspensioen is toegekend, zonder diens machtiging uit te betalen aan het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  Indien degene aan wie een ouderdomspensioen is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is de Sociale verzekeringsbank bevoegd het ouderdomspensioen tot het bedrag van die bijdrage in plaats van aan degene, aan wie ouderdomspensioen is toegekend, zonder diens machtiging uit te betalen aan het College voor zorgverzekeringen, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
 2.  Indien degene, aan wie een ouderdomspensioen is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en de Sociale verzekeringsbank, van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om het ouderdomspensioen aan die inrichting of die gemeente uit te betalen, is de Sociale verzekeringsbank bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.   
 3.  Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van het ouderdomspensioen, dat niet aan het College voor zorgverzekeringen wordt uitbetaald.   
 4.  Een herziening van het ouderdomspensioen op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking wordt vastgesteld.   
@@ -471,7 +471,7 @@ d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer afl
 3.  De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 49.   
 4.  De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien: 
 
-a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de artikelen [475c](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en  
+a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de artikelen 475c en 475d van het Wetboek van Burgerlijke Rechtsvordering niet te boven is gegaan; en  
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 49.     
 5.  Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van terugvordering af te zien.   
@@ -481,7 +481,7 @@ b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen 
 ### Artikel  24a  
 
 1.  De Sociale verzekeringsbank kan het onverschuldigd betaalde ouderdomspensioen, bedoeld in artikel 24, eerste lid, invorderen bij dwangbevel.   
-2.  Artikel 17i is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt.   
+2.  Artikel 17i is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de artikelen 475c en 475d van het Wetboek van Burgerlijke Rechtsvordering niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt.   
 
 ### Artikel  24b  
 
@@ -497,12 +497,12 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van de Sociale verzekeringsbank wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md).     
-2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de pensioengerechtigde van de verplichting, bedoeld in artikel 49, en met betrekking tot het niet naleven van die verplichting een boete als bedoeld in artikel 17c is opgelegd, dan wel indien hiervoor aangifte is gedaan op grond van het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de pensioengerechtigde van de verplichting, bedoeld in artikel 49, en met betrekking tot het niet naleven van die verplichting een boete als bedoeld in artikel 17c is opgelegd, dan wel indien hiervoor aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de belanghebbende gewijzigd indien: 
 
 a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;  
@@ -514,7 +514,7 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ### Artikel  25a  
 
-Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 25 is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 25 is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in artikel 288 van Boek 3 van het Burgerlijk Wetboek.  
 
 ### Artikel  26  
 
@@ -548,7 +548,7 @@ c. de netto-vakantie-uitkering per maand van de gehuwde pensioengerechtigde, bed
 a. aan wie een volledige toeslag is toegekend is gelijk aan tweemaal de bruto-vakantie-uitkering als bedoeld in het eerste lid, onderdeel c;  
 
 b. aan wie een niet-volledige toeslag is toegekend met toepassing van artikel 10, tweede lid, artikel 13, tweede lid, of artikel 12, eerste lid, is gelijk aan de bruto-vakantie-uitkering, bedoeld in het eerste lid, onderdeel c, vermeerderd met de met behulp van de in artikel 12, tweede lid, bedoelde percenten over het verschil tussen de vastgestelde bruto-vakantie-uitkering, bedoeld in onderdeel a en de vastgestelde bruto-vakantie-uitkering, bedoeld in het eerste lid, onderdeel c.     
-3.  De in het eerste lid bedoelde netto minimumvakantiebijslag bedraagt het verschil tussen het bedrag, dat voor een werknemer jonger dan de pensioengerechtigde leeftijd ontstaat door toepassing van artikel 9, derde lid, op het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag vermeerderd met de aanspraak op vakantiebijslag op grond van [artikel 15 van die wet](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) van degene die aanspraak heeft op laatstgenoemd bedrag, en het netto-minimumloon, bedoeld in artikel 9, derde lid.   
+3.  De in het eerste lid bedoelde netto minimumvakantiebijslag bedraagt het verschil tussen het bedrag, dat voor een werknemer jonger dan de pensioengerechtigde leeftijd ontstaat door toepassing van artikel 9, derde lid, op het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag vermeerderd met de aanspraak op vakantiebijslag op grond van artikel 15 van die wet van degene die aanspraak heeft op laatstgenoemd bedrag, en het netto-minimumloon, bedoeld in artikel 9, derde lid.   
 4.  In de gevallen, dat op het ouderdomspensioen, vastgesteld op grond van artikel 9, met toepassing van artikel 13, eerste lid, een korting wordt toegepast, wordt op de, op grond van het eerste en derde lid, vastgestelde bruto-vakantie-uitkering, een evenredige korting toegepast.   
 
 ### Artikel  31  
@@ -568,6 +568,8 @@ Bij ministeriële regeling kunnen met betrekking tot deze paragraaf nadere regel
 ### §  4  
 
 ####Tegemoetkoming in aanvulling op het ouderdomspensioen
+
+Vervallen per 01-06-2011   
 
 ### Hoofdstuk  IV  
 
@@ -593,21 +595,21 @@ d. de gewezen verzekerde die werkzaamheden verricht die worden bekostigd door he
 
 e. de gewezen verzekerde, die op de dag waarop de verplichte verzekering is geëindigd de leeftijd van 50 jaar heeft bereikt, niet in Nederland woont en recht heeft op een: 
 
-1°. uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+1°. uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;  
 
-2°. uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+2°. uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;  
 
-3°. uitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+3°. uitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-4°. uitkering of op recht op arbeidsondersteuning op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+4°. uitkering of op recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-5°. uitkering op grond van de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md);  
+5°. uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening militairen;  
 
-6°. pensioen op basis van arbeidsongeschiktheid op grond van de [Wet privatisering Spoorwegpensioenfonds](../../../../wet/wet/privatisering/spoorwegpensioenfonds/BWBR0006319/README.md);  
+6°. pensioen op basis van arbeidsongeschiktheid op grond van de Wet privatisering Spoorwegpensioenfonds;  
 
 7°. pensioen op basis van arbeidsongeschiktheid op grond van de Algemene militaire pensioenwet, zoals die luidde voor 1 januari 1998; of  
 
-8°. nabestaandenuitkering op grond van de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), mits die uitkering of dat pensioen ten minste gelijk is aan 35% van het bruto-minimumloon;    
+8°. nabestaandenuitkering op grond van de Algemene nabestaandenwet, mits die uitkering of dat pensioen ten minste gelijk is aan 35% van het bruto-minimumloon;    
 
 f. de gewezen verzekerde, bedoeld in artikel 40.     
 4.  De periode van maximaal tien jaar, bedoeld in het eerste lid, is niet van toepassing op de echtgenoot van de in het derde lid genoemde gewezen verzekerde en de inwonende minderjarige kinderen met wie die gewezen verzekerde of die echtgenoot in familierechtelijke betrekking staat. Voor de toepassing van dit lid wordt onder de in het derde lid genoemde gewezen verzekerde mede verstaan de gewezen verzekerde, bedoeld in onderdeel e van dat lid, wiens recht op een uitkering als bedoeld in dat onderdeel uitsluitend als gevolg van het bereiken van de pensioengerechtigde leeftijd is geëindigd.   
@@ -630,7 +632,7 @@ c. met ingang van de dag, waarop de periode van tien jaar, bedoeld in artikel 35
 
 d. met ingang van de dag, waarop de gewezen verzekerde verplicht verzekerd wordt op grond van deze wet;  
 
-e. met ingang van de eerste dag van de vierde maand volgend op de laatste dag van de door de Sociale verzekeringsbank gestelde termijn waarbinnen de verschuldigde premie voor de vrijwillige algemene ouderdomsverzekering, bedoeld in [artikel 71 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), dient te worden betaald, indien de betaling niet of niet geheel heeft plaatsgevonden;  
+e. met ingang van de eerste dag van de vierde maand volgend op de laatste dag van de door de Sociale verzekeringsbank gestelde termijn waarbinnen de verschuldigde premie voor de vrijwillige algemene ouderdomsverzekering, bedoeld in artikel 71 van de Wet financiering sociale verzekeringen, dient te worden betaald, indien de betaling niet of niet geheel heeft plaatsgevonden;  
 
 f. met ingang van de dag volgend op de laatste dag van een door de Sociale verzekeringsbank gestelde termijn waarbinnen de gewezen verzekerde de van hem, in verband met de toepassing van dit hoofdstuk, verlangde inlichtingen dient te verstrekken, indien de gewezen verzekerde die gegevens niet heeft verstrekt, tenzij de gewezen verzekerde aannemelijk maakt dat dat hem niet in overwegende mate kan worden verweten.    
 
@@ -653,13 +655,15 @@ De artikelen 34 tot en met 39 zijn van overeenkomstige toepassing op de gewezen 
 
 ####Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 
+Vervallen per 28-12-2012   
+
 ### Hoofdstuk  V  
 
 ####Gemoedsbezwaren
 
 ### Artikel  48  
 
-1.  Degene, van wie ingevolge [artikel 65, eerste lid, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) belasting is geheven of in door Onze Minister en Onze Minister van Financiën bij ministeriële regeling aan te wijzen gevallen geacht wordt te zijn geheven, heeft recht op een uitkering, indien en zolang hij recht heeft op ouderdomspensioen krachtens deze wet en hij wegens gemoedsbezwaren geen aanspraak maakt op dit ouderdomspensioen.   
+1.  Degene, van wie ingevolge artikel 65, eerste lid, van de Wet financiering sociale verzekeringen belasting is geheven of in door Onze Minister en Onze Minister van Financiën bij ministeriële regeling aan te wijzen gevallen geacht wordt te zijn geheven, heeft recht op een uitkering, indien en zolang hij recht heeft op ouderdomspensioen krachtens deze wet en hij wegens gemoedsbezwaren geen aanspraak maakt op dit ouderdomspensioen.   
 2.  Degene, die ingevolge het eerste lid recht op een uitkering heeft, dient de Sociale verzekeringsbank schriftelijk in kennis te stellen, zodra naar zijn oordeel het totaal aan uitkering betaalde bedragen heeft overschreden het totaal van de bedragen, die van hem op grond van de in de aanhef van het eerste lid bedoelde bepalingen aan belasting zijn geheven of geacht worden te zijn geheven. De uitbetaling van deze uitkering wordt dan beëindigd met ingang van een betalingstermijn, aanvangende na de dag, waarop de kennisgeving door de Sociale verzekeringsbank is ontvangen, doch niet later dan de eerste dag van de tweede maand na de dag van ontvangst van die kennisgeving.   
 3.  Voor de toepassing van het bepaalde in het vorige lid wordt het totaal van de aan belasting geheven bedragen: 
 
@@ -689,7 +693,7 @@ b. de feitelijke woonsituatie van de pensioengerechtigde in overeenstemming is m
 
 ### Hoofdstuk  VII  
 
-####Bepalingen in verband met de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het beroep in cassatie
+####Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 
 ### Artikel  51  
 
@@ -699,7 +703,7 @@ b. de feitelijke woonsituatie van de pensioengerechtigde in overeenstemming is m
 
 ### Artikel  52  
 
-In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
+In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
 
 ### Artikel  53  
 
@@ -751,7 +755,7 @@ b. op 19 december 2005 dit recht op een ouderdomspensioen uitsluitend nog heeft 
 
 1.  De besluiten tot herziening van het ouderdomspensioen, genomen met toepassing van artikel 17 zoals dat artikel luidde op de dag voorafgaand aan de datum van inwerkingtreding van de wet van 2 november 2006 tot wijziging van de Algemene Ouderdomswet in verband met samenwonen ten behoeve van zorg voor een hulpbehoevende (Stb. 558), worden op aanvraag door de Sociale verzekeringsbank met toepassing van artikel 17, tweede lid, gewijzigd met ingang van 4 april 2006 of indien de herziening op een later tijdstip heeft plaatsgevonden met ingang van dat tijdstip indien: 
 
-a. de herziening voortvloeit uit de omstandigheid van het voeren van een gezamenlijke huishouding in verband met zorg door een pensioengerechtigde voor een hulpbehoevende pensioengerechtigde als bedoeld in [artikel 1, onderdeel j, van de Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+a. de herziening voortvloeit uit de omstandigheid van het voeren van een gezamenlijke huishouding in verband met zorg door een pensioengerechtigde voor een hulpbehoevende pensioengerechtigde als bedoeld in artikel 1, onderdeel j, van de Algemene nabestaandenwet;  
 
 b. de pensioengerechtigden ieder beschikken over een eigen woning.     
 2.  De aanvraag, bedoeld in het eerste lid, wordt ingediend binnen zes maanden na de datum van inwerkingtreding van de in het eerste lid genoemde wet.   

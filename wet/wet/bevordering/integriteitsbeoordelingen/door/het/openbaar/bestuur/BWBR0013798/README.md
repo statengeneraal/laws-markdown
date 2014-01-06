@@ -20,41 +20,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. rechtspersoon met een overheidstaak: de Staat, een provincie, een gemeente, een waterschap, een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), de politie, een openbaar lichaam voor beroep en bedrijf dan wel een ander openbaar lichaam als bedoeld in [artikel 134 van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), of een zelfstandig bestuursorgaan als bedoeld in het tweede lid;  
+a. rechtspersoon met een overheidstaak: de Staat, een provincie, een gemeente, een waterschap, een openbaar lichaam als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen, de politie, een openbaar lichaam voor beroep en bedrijf dan wel een ander openbaar lichaam als bedoeld in artikel 134 van de Grondwet, of een zelfstandig bestuursorgaan als bedoeld in het tweede lid;  
 
 b. advies: het advies, bedoeld in artikel 9;  
 
-c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikking terzake van een vergunning, toekenning, erkenning of ontheffing als bedoeld in: 
+c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikking terzake van een vergunning, toekenning, erkenning, registratie of ontheffing als bedoeld in: 
 
 1°. artikel 7;  
 
-2°. de [artikelen 3](../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) en [30a van de Drank- en Horecawet](../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
+2°. de artikelen 3 en 30a van de Drank- en Horecawet;  
 
-3°. [artikel 6 van de Opiumwet](../../../../../../../../../wet/opiumwet/BWBR0001941/README.md);  
+3°. artikel 6 van de Opiumwet;  
 
-4°. [artikel 2.1, eerste lid](../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en [artikel 7.1, eerste lid, van de Wet wegvervoer goederen](../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);  
+4°. artikel 2.1, eerste lid en artikel 7.1, eerste lid, van de Wet wegvervoer goederen;  
 
-5°. de [artikelen 4](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [82b, vijfde lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+5°. de artikelen 4 en 82b, vijfde lid, van de Wet personenvervoer 2000;  
 
-6°. [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), artikel 2.1, eerste lid, aanhef en onder e, van die wet voor zover dat onderdeel betrekking heeft op een inrichting als bedoeld in [artikel 1.1, eerste lid, van die wet](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en artikel 2.1, eerste lid, aanhef en onder i, van die wet voor zover dat onderdeel betrekking heeft op een activiteit waarvoor bij algemene maatregel van bestuur op grond van [artikel 2.17 van die wet](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd;  
+6°. artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht, artikel 2.1, eerste lid, aanhef en onder e, van die wet voor zover dat onderdeel betrekking heeft op een inrichting als bedoeld in artikel 1.1, eerste lid, van die wet, en artikel 2.1, eerste lid, aanhef en onder i, van die wet voor zover dat onderdeel betrekking heeft op een activiteit waarvoor bij algemene maatregel van bestuur op grond van artikel 2.17 van die wet is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd;  
 
-7°. [artikel 70l van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+7°. artikel 70l van de Woningwet;  
 
-8°. [artikel 4.3, derde lid, onderdeel b, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+8°. artikel 4.3, derde lid, onderdeel b, van de Telecommunicatiewet;  
 
 9°.  dit onderdeel is nog niet in werking getreden;   
 
-10°. de [artikelen 9.2.2.3](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [11.2 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover die artikelen betrekking hebben op een handeling onderscheidenlijk werkzaamheid waarvoor bij algemene maatregel van bestuur op grond van artikel 9.2.2.3 onderscheidenlijk artikel 11.2 van de Wet milieubeheer is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd, dan wel ingetrokken;  
+10°. de artikelen 9.2.2.3 en 11.2 van de Wet milieubeheer, voor zover die artikelen betrekking hebben op een handeling onderscheidenlijk werkzaamheid waarvoor bij algemene maatregel van bestuur op grond van artikel 9.2.2.3 onderscheidenlijk artikel 11.2 van de Wet milieubeheer is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd, dan wel ingetrokken;  
 
-11°. de [artikelen 30b](../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [30h van de Wet op de kansspelen](../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+11°. de artikelen 30b en 30h van de Wet op de kansspelen;  
 
-12°. [artikel 3:1 van de Algemene douanewet](../../../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), voor zover dat artikel betrekking heeft op een handeling onderscheidenlijk werkzaamheid waarvoor bij of krachtens algemene maatregel van bestuur op grond van artikel 3:1 van de Algemene douanewet is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd, dan wel ingetrokken;  
+12°. artikel 3:1 van de Algemene douanewet, voor zover dat artikel betrekking heeft op een handeling onderscheidenlijk werkzaamheid waarvoor bij of krachtens algemene maatregel van bestuur op grond van artikel 3:1 van de Algemene douanewet is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd, dan wel ingetrokken;  
 
-13°. [artikel 14, eerste lid, van de Wet strategische diensten](../../../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md);  
+13°. artikel 14, eerste lid, van de Wet strategische diensten;  
 
-14°. de [artikelen 7, eerste lid](../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md), [30](../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) en [33 van de Huisvestingswet](../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md);    
+14°. de artikelen 7, eerste lid, 30 en 33 van de Huisvestingswet;  
 
-d. bestand: elk gestructureerd geheel van persoonsgegevens als bedoeld in [artikel 1, onderdeel c, van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+15°. artikel 15 van de Meststoffenwet.    
+
+d. bestand: elk gestructureerd geheel van persoonsgegevens als bedoeld in artikel 1, onderdeel c, van de Wet bescherming persoonsgegevens;  
 
 e. betrokkene: de aanvrager van een beschikking, de subsidie-ontvanger, de vergunninghouder, de gegadigde, de natuurlijke persoon of rechtspersoon aan wie een overheidsopdracht is of zal worden gegund, de onderaannemer, de natuurlijke persoon of rechtspersoon met wie een vastgoedtransactie is of zal worden aangegaan;  
 
@@ -80,11 +82,9 @@ c. de uitvoering van diensten in de meest ruime zin;
 
 k. sector: een terrein van economische bedrijvigheid waarop overheidsopdrachten verstrekt kunnen worden;  
 
-l. verwerking van persoonsgegevens: elke handeling of elk geheel van handelingen als bedoeld in [artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+l. verwerking van persoonsgegevens: elke handeling of elk geheel van handelingen als bedoeld in artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens;  
 
-m. sociaal-fiscaalnummer: het nummer, bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
-
-n. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
+m. burgerservicenummer: het nummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;  
 
 o. vastgoedtransactie: een overeenkomst of een andere rechtshandeling met betrekking tot een onroerende zaak met als doel: 
 
@@ -135,7 +135,7 @@ d. het aantal van de gepleegde strafbare feiten.
 
 a. hij deze strafbare feiten zelf heeft begaan,  
 
-b. hij direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over of vermogen verschaft dan wel heeft verschaft aan een rechtspersoon in de zin van [artikel 51 van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) die deze strafbare feiten heeft begaan, of  
+b. hij direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over of vermogen verschaft dan wel heeft verschaft aan een rechtspersoon in de zin van artikel 51 van het Wetboek van Strafrecht die deze strafbare feiten heeft begaan, of  
 
 c. een ander deze strafbare feiten heeft gepleegd en deze persoon direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over, vermogen verschaft dan wel heeft verschaft aan betrokkene, of in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan.     
 5.  De weigering dan wel intrekking, bedoeld in het eerste lid, vindt slechts plaats indien deze evenredig is met: 
@@ -249,10 +249,10 @@ c. indien advies is uitgebracht: de mate van gevaar zoals dat is opgenomen in he
 
 a. persoonsgegevens uit openbare registers,  
 
-b. persoonsgegevens die overeenkomstig [artikel 8, aanhef en onderdeel e, van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn verkregen, en  
+b. persoonsgegevens die overeenkomstig artikel 8, aanhef en onderdeel e, van de Wet bescherming persoonsgegevens zijn verkregen, en  
 
 c. persoonsgegevens die op grond van de artikelen 13,  27 of 27a zijn verstrekt.     
-3.  Het Bureau kan bij het verzamelen van gegevens als bedoeld in het tweede lid, gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
+3.  Het Bureau kan bij het verzamelen van gegevens als bedoeld in het tweede lid, gebruik maken van het burgerservicenummer.   
 4.  In afwijking van het tweede lid kan het Bureau in het geval dat het door de betrokkene ingevulde formulier, bedoeld in artikel 30, onvoldoende informatie verschaft voor het onderzoek ten behoeve van het advies, dan wel de gegevens die door middel van dat formulier en uit de verschillende bestanden of registraties zijn verkregen niet gelijkluidend zijn, de betrokkene verzoeken om nadere gegevens over: 
 
 a. de vertegenwoordigingsbevoegdheid van degene die het formulier heeft ingevuld;  
@@ -308,7 +308,7 @@ Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op d
 
 ### Artikel  20  
 
-1.  Voor zoveel nodig in afwijking van hetgeen in de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en andere wetten is bepaald ten aanzien van verstrekking van gegevens, verstrekt het Bureau aan derden geen persoonsgegevens die het heeft verkregen in het kader van zijn taak, bedoeld in artikel 9.   
+1.  Voor zoveel nodig in afwijking van hetgeen in de Wet openbaarheid van bestuur en andere wetten is bepaald ten aanzien van verstrekking van gegevens, verstrekt het Bureau aan derden geen persoonsgegevens die het heeft verkregen in het kader van zijn taak, bedoeld in artikel 9.   
 2.  Onder derden als bedoeld in het eerste lid worden mede begrepen andere dienstonderdelen van het Ministerie van Veiligheid en Justitie en andere overheidsdiensten en -instellingen.   
 3.  In afwijking van het eerste lid kunnen in de volgende gevallen persoonsgegevens worden verstrekt: 
 
@@ -326,9 +326,9 @@ c. ten behoeve van de uitoefening van de controlerende of toezichthoudende bevoe
 
 d. indien toepassing wordt gegeven aan: 
 
-1°. de artikelen in het [Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) betreffende het vorderen van gegevens,  
+1°. de artikelen in het Wetboek van Strafvordering betreffende het vorderen van gegevens,  
 
-2°. [artikel 17 van de Wet op de inlichtingen- en veiligheidsdiensten](../../../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md);    
+2°. artikel 17 van de Wet op de inlichtingen- en veiligheidsdiensten;    
 
 e. desgevraagd, ten behoeve van kwaliteitstoetsing, wetenschappelijk onderzoek en statistiek, met dien verstande dat de resultaten daarvan geen persoonsgegevens mogen bevatten en voorzover de persoonlijke levenssfeer van de geregistreerde daardoor niet onevenredig wordt geschaad;  
 
@@ -360,6 +360,8 @@ Onze Minister brengt jaarlijks voor 1 mei aan beide kamers der Staten-Generaal e
 
 ####Begeleidingscommissie
 
+Vervallen per 01-07-2013   
+
 ### Hoofdstuk  4  
 
 ####Bevoegdheden, verplichtingen en procedurele bepalingen
@@ -378,7 +380,7 @@ De officier van justitie die beschikt over gegevens die er op duiden dat een bet
 
 ### Artikel  27  
 
-1.  De volgende bestuursorganen verstrekken, voorzover het persoonsgegevens betreft voor de verwerking waarvan zij de verantwoordelijke zijn in de zin van de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) dan wel de [Wet justitiële en strafvorderlijke gegevens](../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) of de [Wet politiegegevens](../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), het Bureau desgevraagd alle persoonsgegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in artikel 9: 
+1.  De volgende bestuursorganen verstrekken, voorzover het persoonsgegevens betreft voor de verwerking waarvan zij de verantwoordelijke zijn in de zin van de Wet bescherming persoonsgegevens dan wel de Wet justitiële en strafvorderlijke gegevens of de Wet politiegegevens, het Bureau desgevraagd alle persoonsgegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in artikel 9: 
 
 a. Onze Minister van Financiën, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door: 
 
@@ -390,21 +392,21 @@ b. Onze Minister, voorzover het bestanden betreft waarvan de gegevens worden ver
 
 1°. de Justitiële informatiedienst;  
 
-2°. het Meldpunt ongebruikelijke transacties en die ingevolge [artikel 14, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) kunnen worden verstrekt;  
+2°. het Meldpunt ongebruikelijke transacties en die ingevolge artikel 14, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme kunnen worden verstrekt;  
 
 3°. het openbaar ministerie;  
 
-4°. de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);    
+4°. de registratie, bedoeld in artikel 1, onderdeel b, van de Wet controle op rechtspersonen;    
 
-c. Onze Minister van Economische Zaken, Landbouw en Innovatie, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de Algemene Inspectiedienst;  
+c. Onze Minister van Economische Zaken, Landbouw en Innovatie, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de Nederlandse Voedsel- en Warenautoriteit;  
 
 d. Onze Minister van Sociale Zaken en Werkgelegenheid, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door de Inspectie SZW;  
 
 e. Onze Minister van Infrastructuur en Milieu, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de VROM inlichtingen- en opsporingsdienst;  
 
-f. de in [artikel 1, onderdeel f, van de Wet politiegegevens](../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bedoelde bestuursorganen, voorzover het een politieregister betreft;  
+f. de in artikel 1, onderdeel f, van de Wet politiegegevens bedoelde bestuursorganen, voorzover het een politieregister betreft;  
 
-g. het college van burgemeester en wethouders van een gemeente, voor zover het de verwerking van gegevens betreft voor de uitvoering van de [Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+g. het college van burgemeester en wethouders van een gemeente, voor zover het de verwerking van gegevens betreft voor de uitvoering van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
 h. het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;  
 
@@ -439,11 +441,11 @@ a. de betrokkene, uitsluitend voorzover dit noodzakelijk is ter motivering van d
 
 b. de derde die in de motivering, bedoeld in de onderdeel a, wordt vermeld, uitsluitend voorzover de in die motivering opgenomen gegevens hem betreffen;  
 
-c. leden van het overleg, bedoeld in [artikel 13 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover noodzakelijk voor het ondersteunen van het bestuursorgaan of de rechtspersoon met een overheidstaak bij de motivering van de naar aanleiding van het advies te nemen beslissing;  
+c. leden van het overleg, bedoeld in artikel 13 van de Politiewet 2012, voor zover noodzakelijk voor het ondersteunen van het bestuursorgaan of de rechtspersoon met een overheidstaak bij de motivering van de naar aanleiding van het advies te nemen beslissing;  
 
 d. een andere deelnemer aan een regionaal samenwerkingsverband voor de aanpak van georganiseerde criminaliteit van bestuursorganen, de politie, het openbaar ministerie, de rijksbelastingdienst, de belastingdienst FIOD-ECD, de Sociale Inlichtingen- en Opsporingsdienst en de Koninklijke marechaussee, voorzover de gegevens noodzakelijk zijn voor het ondersteunen van het bestuursorgaan of de rechtspersoon met een overheidstaak bij het toepassen van deze wet;  
 
-e. de adviescommissie, bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+e. de adviescommissie, bedoeld in artikel 7:13 van de Algemene wet bestuursrecht;  
 
 f. degene die door Onze Minister is verzocht om een kwaliteitstoetsing ten aanzien van de adviezen van het Bureau te verrichten;  
 
@@ -457,7 +459,7 @@ j. de rechter;
 
 k. de met opsporing belaste ambtenaren indien toepassing wordt gegeven aan de artikelen in het Wetboek van Strafvordering betreffende het vorderen van gegevens;  
 
-l. de inlichtingen- en veiligheidsdiensten indien toepassing wordt gegeven aan [artikel 17 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).     
+l. de inlichtingen- en veiligheidsdiensten indien toepassing wordt gegeven aan artikel 17 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.     
 3.  Bij de toepassing van artikel 33 verstrekt het bestuursorgaan of de rechtspersoon met een overheidstaak de betrokkene een afschrift van het advies en wijst hem daarbij schriftelijk op zijn geheimhoudingsplicht op grond van het eerste lid.   
 4.  Indien de betrokkene een beschikking dan wel de intrekking van een subsidie of vergunning, onderscheidenlijk de weigering van een overheidsopdracht of een vastgoedtransactie dan wel de ontbinding van een overeenkomst inzake een dergelijke opdracht of transactie, in rechte aanvecht, is hij bevoegd de in het eerste lid bedoelde gegevens bekend te maken aan de rechter.   
 
@@ -482,9 +484,9 @@ a. de naam, het adres en de woonplaats of plaats van vestiging van de betrokkene
 
 b. de naam, het adres en de woonplaats van de persoon door wie de betrokkene zich laat vertegenwoordigen;  
 
-c. het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de persoon, bedoeld in de onderdelen a en b;  
+c. het burgerservicenummer van de persoon, bedoeld in de onderdelen a en b;  
 
-d. het nummer van inschrijving bij de Kamer van Koophandel en Fabrieken;  
+d. het nummer van inschrijving bij de Kamer van Koophandel;  
 
 e. de rechtsvorm van de betrokkene;  
 
@@ -517,7 +519,7 @@ Het bestuursorgaan of de rechtspersoon met een overheidstaak informeert de betro
 ### Artikel  33  
 
 1.  Voordat een bestuursorgaan aan een beschikking voorschriften verbindt als bedoeld in artikel 3, zevende lid, en voordat een bestuursorgaan een voor de betrokkene negatieve beslissing neemt op grond van ernstig gevaar als bedoeld in artikel 3, eerste lid, dan wel op grond van feiten of omstandigheden als bedoeld in artikel 3, zesde lid, stelt het de betrokkene in de gelegenheid zijn zienswijze naar voren te brengen.   
-2.  Indien een bestuursorgaan een beschikking geeft, is in elk geval de persoon die in de beschikking wordt genoemd een belanghebbende in de zin van [artikel 4:8 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  Indien een bestuursorgaan een beschikking geeft, is in elk geval de persoon die in de beschikking wordt genoemd een belanghebbende in de zin van artikel 4:8 van de Algemene wet bestuursrecht.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op de rechtspersoon met een overheidstaak die een beslissing neemt ter zake van: 
 
 a. de gunning van een overheidsopdracht,  
@@ -529,7 +531,7 @@ c. de ontbinding van de overeenkomst met de partij aan wie de overheidsopdracht 
 d. het aangaan van een vastgoedtransactie, of  
 
 e. de opschorting of ontbinding van de overeenkomst of de beëindiging van de rechtshandeling met de natuurlijke persoon of de rechtspersoon met wie de vastgoedtransactie is aangegaan.     
-4.  Voor de toepassing van het eerste en derde lid zijn de [artikelen 4:9 tot en met 4:12 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+4.  Voor de toepassing van het eerste en derde lid zijn de artikelen 4:9 tot en met 4:12 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 
 ### Hoofdstuk  5  
 
@@ -585,7 +587,7 @@ De bepalingen van de in hoofdstuk 5 genoemde wetten, zoals zij luiden na de inwe
 
 ### Artikel  45  
 
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van de [Evaluatie- en uitbreidingswet Bibob](../../../../../../../../../wet/evaluatie-/en/uitbreidingswet/bibob/BWBR0033159/README.md) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in de praktijk.  
+Onze Minister zendt binnen vijf jaar na inwerkingtreding van de Evaluatie- en uitbreidingswet Bibob aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in de praktijk.  
 
 ### Artikel  46  
 

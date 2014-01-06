@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder de directie BO: de directie Bestuursondersteuning van het ministerie.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder de directie BO: de directie Bestuursondersteuning van het ministerie. 
 
 ### §  2  
 
@@ -28,7 +28,7 @@ b. de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer;
 c. de afdeling Veiligheid, Integriteit en Crisismanagement;  
 
 d. Programmateams     
-2.  De directeur en de hoofden van de afdelingen vormen tezamen het Managementteam van de directie BO.   
+2.  De directeur en de hoofden van de afdelingen vormen tezamen het Managementteam van de directie BO.  
 
 ### §  3  
 
@@ -62,7 +62,7 @@ k. het deelnemen aan gesprekken van de bewindspersonen met derden;
 
 l. het ondersteunen van de secretaris-generaal en de plaatsvervangend secretaris-generaal op het gebied van planning en control bij de aansturing van directies die rechtstreeks onder hen ressorteren;  
 
-m. het geven van advies en ondersteuning van de directeur Bestuursondersteuning en de afdelingshoofden van de directie BO op het vlak van planning en control.    
+m. het geven van advies en ondersteuning van de directeur Bestuursondersteuning en de afdelingshoofden van de directie BO op het vlak van planning en control.   
 
 ### Artikel  4  
 
@@ -98,7 +98,7 @@ n. het optreden als contactpersoon op alle facetten van de bedrijfsvoering van d
 
 o. de coördinatie op het gebied van informatiebeveiliging van de directie BO;  
 
-p. het voeren van beheer, de redactie en coördinatie van uitingen van de directie BO op intranet en Rijksportaal.    
+p. het voeren van beheer, de redactie en coördinatie van uitingen van de directie BO op intranet en Rijksportaal.   
 
 ### Artikel  5  
 
@@ -120,11 +120,11 @@ g. het opstellen en voeren van beleid op het gebied van de [Wet bescherming pers
 2.  De Beveiligingsambtenaar kan door de secretaris-generaal worden belast met aanvullende taken of bijzondere opdrachten.   
 3.  De Beveiligingsambtenaar kan namens de secretaris-generaal aanwijzingen geven aan iedere ambtenaar van het Ministerie van SZW voor zover dat noodzakelijk is voor de uitvoering van het integrale beveiligingsbeleid en de naleving van beveiligingsvoorschriften.   
 4.  De Beveiligingsambtenaar participeert in het Integraal Beveiligingsoverleg Rijk (IBR).   
-5.  Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is verantwoordelijk voor de regie en delen van de uitvoering met betrekking tot de integriteitsfunctie zoals het actualiseren van integriteitsbeleid, het actualiseren van gedragscodes en bewustwordingsactiviteiten.   
+5.  Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is verantwoordelijk voor de regie en delen van de uitvoering met betrekking tot de integriteitsfunctie zoals het actualiseren van integriteitsbeleid, het actualiseren van gedragscodes en bewustwordingsactiviteiten.  
 
 ### Artikel  6  
 
-Programmamanagers ressorterend onder de directeur BO zijn verantwoordelijk voor de uitvoering van een programma. De verantwoordelijkheden en taken worden per programma in een overeenkomst tussen de directeur BO en programmamanager expliciet beschreven.  
+Programmamanagers ressorterend onder de directeur BO zijn verantwoordelijk voor de uitvoering van een programma. De verantwoordelijkheden en taken worden per programma in een overeenkomst tussen de directeur BO en programmamanager expliciet beschreven. 
 
 ### §  4  
 
@@ -144,23 +144,23 @@ b. de personeelsaangelegenheden van de eigen afdeling of het eigen programmateam
 
 3. Verlof van medewerkers;  
 
-4. Kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur (maximaal € 150).      
+4. Kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur (maximaal € 150).     
 
 ### Artikel  8  
 
-Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in artikel 4, tot een bedrag van € 5.000,– per overeenkomst.  
+Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in artikel 4, tot een bedrag van € 5.000,– per overeenkomst. 
 
 ### Artikel  9  
 
-Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in artikel 5, tot een bedrag van € 5.000,– per overeenkomst.  
+Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in artikel 5, tot een bedrag van € 5.000,– per overeenkomst. 
 
 ### Artikel  10  
 
-Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in artikel 6, tot een bedrag van € 5.000,– per overeenkomst.  
+Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in artikel 6, tot een bedrag van € 5.000,– per overeenkomst. 
 
 ### Artikel  11  
 
-Bij afwezigheid van de directeur BO is het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer gemachtigd tot het ondertekenen van stukken namens de directeur BO, voor de duur van de afwezigheid of verhindering.  
+Bij afwezigheid van de directeur BO is het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer gemachtigd tot het ondertekenen van stukken namens de directeur BO, voor de duur van de afwezigheid of verhindering. 
 
 ### §  5  
 
@@ -170,13 +170,13 @@ Bij afwezigheid van de directeur BO is het hoofd van de afdeling Kabinetszaken, 
 
 1.  Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/bo/szw/2011/BWBR0030337/README.md) wordt ingetrokken.   
 2.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de artikelen 1 tot en met 7 terugwerken tot en met 1 oktober 2012   
-3.  Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.   
+3.  Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 17 december 2013   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,Namens deze,
-De directeur Bestuursondersteuning,
-N. deGroot   
+Minister van Sociale Zaken en Werkgelegenheid, Namens deze, 
+De directeur Bestuursondersteuning, 
+N. de Groot     

@@ -13,9 +13,9 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *zeer ernstige overtredingen:* zeer ernstige inbreuken van de communautaire wetgeving als bedoeld in bijlage IV van verordening 1071/2009/EG;  
+a.  *zeer ernstige overtredingen:* zeer ernstige inbreuken van de communautaire wetgeving als bedoeld in bijlage IV van verordening 1071/2009/EG;  
 
-b. *strafpunten:* punten die aan de vervoerder worden toegekend indien deze zeer ernstige overtredingen als bedoeld onder a heeft gepleegd.    
+b.  *strafpunten:* punten die aan de vervoerder worden toegekend indien deze zeer ernstige overtredingen als bedoeld onder a heeft gepleegd.   
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ Deze beleidsregel heeft betrekking op:
 
 a. het aantal strafpunten dat moet zijn overschreden alvorens een besluit tot verlies van betrouwbaarheid van de desbetreffende vervoerder of vervoersmanager geen onevenredig strenge sanctie kan worden geacht;  
 
-b. de feiten en omstandigheden die zouden kunnen leiden tot het oordeel dat het verlies van betrouwbaarheid een onevenredig strenge sanctie is, ofschoon het onder a bedoelde minimumaantal strafpunten is overschreden.    
+b. de feiten en omstandigheden die zouden kunnen leiden tot het oordeel dat het verlies van betrouwbaarheid een onevenredig strenge sanctie is, ofschoon het onder a bedoelde minimumaantal strafpunten is overschreden.   
 
 ### Hoofdstuk  2  
 
@@ -34,7 +34,7 @@ b. de feiten en omstandigheden die zouden kunnen leiden tot het oordeel dat het 
 1.  Het verlies van betrouwbaarheid van de vervoerder is geen onevenredig strenge sanctie indien de vervoerder het in artikel 5 aan hem gerelateerde minimumaantal strafpunten heeft overschreden.   
 2.  Het verlies van betrouwbaarheid van de vervoersmanager is geen onevenredig strenge sanctie indien de vervoerder, waarvoor de vervoersmanager als vakbekwame leidinggevende werkzaam is, het in artikel 5 aan hem gerelateerde aantal strafpunten heeft overschreden.   
 3.  In afwijking van het eerste lid is het verlies van betrouwbaarheid van een vervoerder een onevenredig strenge sanctie indien artikel 7 van toepassing is.   
-4.  In afwijking van het tweede lid is het verlies van betrouwbaarheid van een vervoersmanager een onevenredig strenge sanctie indien artikel 8, eerste of tweede lid, van toepassing is.   
+4.  In afwijking van het tweede lid is het verlies van betrouwbaarheid van een vervoersmanager een onevenredig strenge sanctie indien artikel 8, eerste of tweede lid, van toepassing is.  
 
 ### Artikel  4  
 
@@ -67,7 +67,7 @@ b. de feiten en omstandigheden die zouden kunnen leiden tot het oordeel dat het 
 | 702. Vervoer van goederen waarbij de maximaal toegestane massa met >=25% wordt overschreden voor voertuigen met een toegestaan gewicht van maximaal 12t  | 4  |
 
 2.  De binnen een periode van twee jaar aan een vervoerder toegekende strafpunten worden bij elkaar opgeteld.   
-3.  Toegekende strafpunten vervallen twee jaar nadat de desbetreffende veroordeling of sanctie wegens een zeer ernstige overtreding op de communautaire wetgeving onherroepelijk is geworden.   
+3.  Toegekende strafpunten vervallen twee jaar nadat de desbetreffende veroordeling of sanctie wegens een zeer ernstige overtreding op de communautaire wetgeving onherroepelijk is geworden.  
 
 ### Artikel  5  
 
@@ -84,7 +84,7 @@ Het minimumaantal strafpunten is gerelateerd aan het aantal gewaarmerkte afschri
 
 ### Artikel  6  
 
-Indien mogelijk krijgt de vervoerder ten spoedigste een schriftelijke waarschuwing als ten minste 50%, doch niet meer dan 100% van het minimumaantal strafpunten is bereikt.  
+Indien mogelijk krijgt de vervoerder ten spoedigste een schriftelijke waarschuwing als ten minste 50%, doch niet meer dan 100% van het minimumaantal strafpunten is bereikt. 
 
 ### Hoofdstuk  3  
 
@@ -108,7 +108,7 @@ b. het treffen van structurele maatregelen in de bedrijfsvoering gericht op het 
 c. het aan de chauffeur verstrekken van de nodige middelen voor de naleving van de onder b bedoelde regelgeving, en  
 
 d. het houden van in redelijkheid te vorderen toezicht ter zake van de onderdelen a tot en met c.     
-3.  Het verlies van betrouwbaarheid van de vervoerder is een onevenredig strenge sanctie indien zich de omstandigheid als bedoeld in artikel 8, derde lid, voordoet.   
+3.  Het verlies van betrouwbaarheid van de vervoerder is een onevenredig strenge sanctie indien zich de omstandigheid als bedoeld in artikel 8, derde lid, voordoet.  
 
 ### Artikel  8  
 
@@ -118,7 +118,7 @@ d. het houden van in redelijkheid te vorderen toezicht ter zake van de onderdele
 a. hij niet verantwoordelijk is voor de bedoelde zeer ernstige inbreuken omdat hij destijds niet degene was die leiding gaf aan de vervoersactiviteiten, of  
 
 b. hij op gezag van de vervoerder, bedoeld in het eerste lid, of een meerdere gedwongen werd aanwijzingen of bevelen te geven, of na te laten deze te geven, die hebben geleid tot het begaan van de bedoelde zeer ernstige overtredingen.     
-3.  In afwijking van het eerste lid is het verlies van betrouwbaarheid van de vervoersmanager geen onevenredig strenge sanctie indien de vervoersmanager door zijn wijze van optreden en handelen, dat indruist tegen het bestendig bedrijfsbeleid, als enige verantwoordelijk kan worden gehouden voor het begaan of doen begaan van zeer ernstige overtredingen.   
+3.  In afwijking van het eerste lid is het verlies van betrouwbaarheid van de vervoersmanager geen onevenredig strenge sanctie indien de vervoersmanager door zijn wijze van optreden en handelen, dat indruist tegen het bestendig bedrijfsbeleid, als enige verantwoordelijk kan worden gehouden voor het begaan of doen begaan van zeer ernstige overtredingen.  
 
 ### Hoofdstuk  4  
 
@@ -140,7 +140,7 @@ e. de reëel mogelijke alternatieven voor opdrachtgevers van de vervoerder;
 
 f. recidive, en  
 
-g. zwaarwegende maatschappelijke of economische gevolgen.    
+g. zwaarwegende maatschappelijke of economische gevolgen.   
 
 ### Artikel  10  
 
@@ -149,12 +149,12 @@ g. zwaarwegende maatschappelijke of economische gevolgen.
 a. geschorst voor de duur van ten hoogste zes maanden, of  
 
 b. ingetrokken.     
-2.  De communautaire vergunning van de vervoerder wordt in ieder geval ingetrokken in indien deze in de afgelopen twee jaar geschorst is geweest.   
+2.  De communautaire vergunning van de vervoerder wordt in ieder geval ingetrokken in indien deze in de afgelopen twee jaar geschorst is geweest.  
 
 ### Artikel  11  
 
 1.  De vervoersmanager die zijn betrouwbaarheid verliest, wordt voor de duur van twee jaar ongeschikt verklaard.   
-2.  De in het eerste lid genoemde termijn van twee jaar kan worden ingekort indien de vervoersmanager aantoont de noodzakelijke maatregelen te hebben genomen om te borgen dat de zeer ernstige overtredingen die hebben geleid tot het verlies van diens betrouwbaarheid zich niet meer zullen voordoen.   
+2.  De in het eerste lid genoemde termijn van twee jaar kan worden ingekort indien de vervoersmanager aantoont de noodzakelijke maatregelen te hebben genomen om te borgen dat de zeer ernstige overtredingen die hebben geleid tot het verlies van diens betrouwbaarheid zich niet meer zullen voordoen.  
 
 ### Hoofdstuk  5  
 
@@ -162,11 +162,11 @@ b. ingetrokken.
 
 ### Artikel  12  
 
-Na de schorsing of intrekking van de communautaire vergunning worden de strafpunten, die de vervoerder heeft opgebouwd en die zijn meegewogen bij het schorsings- of intrekkingsbesluit, gewist.  
+Na de schorsing of intrekking van de communautaire vergunning worden de strafpunten, die de vervoerder heeft opgebouwd en die zijn meegewogen bij het schorsings- of intrekkingsbesluit, gewist. 
 
 ### Artikel  13  
 
-Ingeval de communautaire vergunning wordt ingetrokken, bedraagt de rehabilitatietermijn twee jaar.  
+Ingeval de communautaire vergunning wordt ingetrokken, bedraagt de rehabilitatietermijn twee jaar. 
 
 ### Hoofdstuk  6  
 
@@ -174,13 +174,13 @@ Ingeval de communautaire vergunning wordt ingetrokken, bedraagt de rehabilitatie
 
 ### Artikel  14  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het busvervoer.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het busvervoer. 
 
 ### Artikel  15  
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst. Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst. Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst. 
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,namens deze:
-De inspecteur-generaal Leefomgeving en Transport,
-J.Thunnissen   
+Staatssecretaris van Infrastructuur en Milieu, namens deze: 
+De inspecteur-generaal Leefomgeving en Transport, 
+J. Thunnissen     

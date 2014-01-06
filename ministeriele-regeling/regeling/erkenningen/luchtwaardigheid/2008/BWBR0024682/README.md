@@ -3,7 +3,7 @@
 ##Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 3.25 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 18, tweede lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [19, tweede lid, onderdelen c en g](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [20, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);
+Gelet op artikel 3.25 van de Wet luchtvaart en de artikelen 18, tweede lid, 19, tweede lid, onderdelen c en g, en 20, van het Besluit luchtvaartuigen 2008;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,11 +15,13 @@ Besluit:
 
 *autoriseringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht;  
 
+*BvL-acceptatiekeuring:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid;  
+
+*BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid;  
+
 *certificeringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd luchtvaartuigen of onderdelen daarvan als geschikt voor gebruik te certificeren;  
 
 *ernstig defect of gebrek:* defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;  
-
-*EZT:* onderhoudstechnicus voor zweefvliegtuigen of motorzweefvliegtuigen, die door de Minister is erkend voor de werkzaamheden, die in het bewijs van erkenning zijn genoemd (erkend zweefvliegtechnicus);  
 
 *houder van een erkenning:* natuurlijk of rechtspersoon, erkend door de Minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;  
 
@@ -33,7 +35,9 @@ Besluit:
 
 *luchtwaardigheidsgegevens:* alle informatie die nodig is om ervoor te zorgen dat het luchtvaartuig of het onderdeel daarvan in een zodanige staat kan worden gehouden dat de luchtwaardigheid van het luchtvaartuig of het goed functioneren van de operationele uitrusting of de nooduitrusting verzekerd is;  
 
-*Minister:* Minister van Verkeer en Waterstaat; verordening (EG) nr. 216/2008: verordening van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79).     
+*Minister:* Minister van Verkeer en Waterstaat; *orphan aircraft:* luchtvaartuig als bedoeld in artikel 1 van de Regeling bewijzen van luchtwaardigheid;  
+
+verordening (EG) nr. 216/2008: verordening van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79).     
 2.  In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.   
 
 ### Hoofdstuk  2  
@@ -79,6 +83,16 @@ b. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in 
 ### Artikel  6  
 
 De houder van een POA zal de te melden afwijkingen volgens 21 A.165(f)2 van Part 21 bij verordening (EG) 1702/2003 schriftelijk en onverwijld maar uiterlijk binnen 72 uur na constatering aan de Minister melden.  
+
+### Artikel  6a  
+
+1.  De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een EASA luchtvaartuig en de daarbij behorende verklaringen.   
+2.  De minister geeft deze aanvullende erkenning af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen en verklaringen.   
+3.  De minister kan de aanvullende erkenning tot het uitvoeren van acceptatiekeuringen intrekken, indien: 
+
+a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of  
+
+b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.     
 
 ### Hoofdstuk  3  
 
@@ -157,103 +171,42 @@ Indien naar het oordeel van de Minister, een verbetering van het kwaliteitssyste
 
 ####Erkend zweefvliegtechnicus (EZT)
 
-### Artikel  18  
-
-Degene die een aanvraag voor een erkenning als EZT heeft ingediend wordt erkend, nadat hij door tussenkomst van de kwaliteitsborgingsfunctie heeft aangetoond, dat hij 
-
-a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende bijlage B voldoet, en  
-
-b. wordt voorgedragen door de zweefvliegclub waarvoor hij werkzaamheden gaat verrichten.    
-
-### Artikel  19  
-
-Bij de aanvraag voor erkenning als EZT verstrekt de aanvrager de volgende gegevens: 
-
-a. een korte levensbeschrijving van de aanvrager en de uitvoerder van de kwaliteitsborgingsfunctie, waarin in ieder geval opleiding, ervaring en vroegere functies zijn opgenomen;  
-
-b. een afschrift van de overeenkomst met de uitvoerder van de kwaliteitsborgingsfunctie;  
-
-c. een opgave van de werkzaamheden, welke de aanvrager zal uitbesteden aan derden;  
-
-d. een opgave van de werkzaamheden, welke de aanvrager zal gaan uitvoeren onder de erkenning;  
-
-e. een exemplaar van het handboek, bedoeld in bij deze regeling behorende bijlage B;  
-
-f. een exemplaar van te gebruiken modellen van het certificaat van vrijgave en het certificaat van vrijgave voor gebruik;  
-
-g. een evaluatieadvies van de kwaliteitsborgingsfunctie ten aanzien van de gevraagde erkenning.    
-
-### Artikel  20  
-
-Van de erkenning als EZT wordt een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is.  
-
-### Artikel  21  
-
-1.  Ten aanzien van de verlenging van een erkenning als EZT zijn de artikelen 18 en 19 van toepassing, met dien verstande dat: 
-
-a. kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend;  
-
-b. de EZT gedurende de voorafgaande termijn van geldigheid van de erkenning, de werkzaamheden waarvoor hij is erkend, in voldoende mate heeft verricht.     
-2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 20 bedoelde datum worden ingediend.   
-
-### Artikel  22  
-
-1.  De EZT deelt de Minister onverwijld iedere wijziging van de bij de laatst ingediende aanvraag verstrekte gegevens volgens artikel 19, aanhef en onder b tot en met f.   
-2.  De Minister kan voorwaarden stellen waaronder de in het eerste lid bedoelde wijzigingen worden geaccepteerd.   
-
-### Artikel  23  
-
-1.  De erkenning als EZT wordt gewijzigd, nadat door tussenkomst van de kwaliteitsborgingsfunctie is aangetoond, dat de houder ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als EZT gestelde voorwaarden zal blijven voldoen.   
-2.  De artikelen 18 en 19 zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.   
-3.  Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.   
-4.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.   
-
-### Artikel  24  
-
-1.  Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning als EZT betrekking heeft, niet uitoefenen.   
-2.  Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.   
-
-### Artikel  25  
-
-1.  Vanaf het tijdstip van intrekking mag de houder die bevoegdheden, waarop de intrekking van de erkenning als EZT betrekking heeft, niet uitoefenen.   
-2.  De EZT is verplicht het bewijs van erkenning zo spoedig mogelijk aan de Minister te zenden.   
-3.  De Minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.   
-
-### Artikel  26  
-
-1.  Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende bijlage B.   
-2.  De wijzigingen in het handboek worden zo spoedig mogelijk aan de Minister gezonden.   
-
-### Artikel  27  
-
-De EZT bewaart de volgende gegevens ten minste gedurende de aangegeven termijn: 
-
-a. de tekeningen, specificaties en overige gegevens met betrekking tot onderhoud uitgevoerde werkzaamheden aan luchtvaartuigen en onderdelen: twee jaren na beëindiging van de werkzaamheden;  
-
-b. de ontvangen certificaten van vrijgave voor gebruik en verklaringen van conformiteit voor materialen of onderdelen: twee jaren na verwerking ervan.    
-
-### Artikel  28  
-
-1.  De EZT meldt een defect of gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na constatering, schriftelijk aan de Minister.   
-2.  De melding gaat vergezeld van een zo volledig mogelijke beschrijving van hetgeen werd gevonden en een opgave van de overige van belang zijnde gegevens.   
-3.  Indien er sprake is van een ernstig defect of gebrek meldt de EZT het ernstig defect of gebrek onmiddellijk aan de Minister.   
-
-### Artikel  29  
-
-Indien naar het oordeel van de Minister, een verbetering van het kwaliteitssysteem noodzakelijk is, treft de EZT, met inachtneming van de door de Minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.  
+Vervallen per 01-10-2011   
 
 ### Hoofdstuk  5  
 
 ####Bedrijfserkenningen op basis van Nederlandse eisen
 
+### Artikel  29a  
+
+1.  De minister kan op aanvraag aan een bedrijf op basis van Nederlandse eisen een of meer van de volgende erkenningen afgeven: 
+
+a. een erkenning tot het onderhoud van een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en  
+
+b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft.     
+2.  De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid de bevoegdheid verlenen tot het aanvullend erkennen voor: 
+
+a. het uitvoeren van een BvL-verlengingsinspectie aan een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en  
+
+b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.     
+
 ### Artikel  30  
 
-1.  De Minister geeft op aanvraag een erkenning af nadat de aanvrager heeft aangetoond, dat: 
+1.  De minister geeft een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel a, af nadat de aanvrager heeft aangetoond: 
 
-a. hij aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende bijlage C bij deze regeling voldoet;  
+a. dat hij in Nederland is gevestigd; en  
 
-b. hij in Nederland is gevestigd.     
-2.  De aanvraag wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.   
+b. dat hij aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende bijlage C voldoet; of  
+
+c. indien hij een MOA of MOA-F bezit, zijn handboek voorziet van een aanvulling waarin het verschil tussen zijn MOA of MOA-F en de erkenning als bedoeld in artikel 29a, eerste lid, onderdeel a, is opgenomen.     
+2.  De minister geeft een erkenning als bedoeld in artikel 29a, eerste lid, onderdeel b, af nadat de aanvrager heeft aangetoond, dat: 
+
+a. hij in Nederland is gevestigd;  
+
+b. hij voldoet aan de overeenkomstig van toepassing zijnde voorwaarden van Part M, subpart G, van verordening (EG) nr. 2042/2003; en  
+
+c. zijn handboek voorziet van een aanvulling waarin de verschillen ten opzichte van Part M en de Regeling onderhoud luchtvaartuigen worden vermeld.     
+3.  De minister geeft een aanvullende onderhoudserkenning als bedoeld in artikel 29a, tweede lid, onderdelen a en b, af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen.   
 
 ### Artikel  31  
 
@@ -313,6 +266,14 @@ g. verandering in de behuizing en de uitrusting van het bedrijf.
 1.  Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.   
 2.  Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.   
 
+### Artikel  36a  
+
+1.  De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in artikel 29a, tweede lid, intrekken, indien: 
+
+a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of  
+
+b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.     
+
 ### Artikel  37  
 
 1.  Vanaf het tijdstip van intrekking mag de houder die bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.   
@@ -370,7 +331,7 @@ c. een exemplaar van het handboek, bedoeld in artikel 16 van de bij deze regelin
 
 d. een exemplaar van te gebruiken modellen van het geluidsmeetrapport;  
 
-e. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister indien de organisatie aldaar is ingeschreven, of in het geval van een eenmansorganisatie, een uittreksel, niet ouder dan drie maanden uit de gemeentelijke basisadministratie persoonsgegevens;  
+e. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister indien de organisatie aldaar is ingeschreven, of in het geval van een eenmansorganisatie, een gewaarmerkt afschrift, niet ouder dan drie maanden, uit de basisregistratie personen;  
 
 f. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.    
 
@@ -462,7 +423,7 @@ c. omschrijving van de werkzaamheden, waarvoor de houder van een erkenning is er
 
 ### Artikel  55  
 
-De [Regeling erkenningen luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/BWBR0012877/README.md) en de [Regeling JAR-147 opleidingsinstellingen](../../../../../../ministeriele-regeling/regeling/jar-147/erkende/opleidingsinstellingen/BWBR0012920/README.md) worden ingetrokken.  
+De Regeling erkenningen luchtwaardigheid en de Regeling JAR-147 opleidingsinstellingen worden ingetrokken.  
 
 ### Artikel  56  
 
@@ -606,186 +567,6 @@ c. de meetgegevens omtrent op materialen, halfproducten, onderdelen en uitrustin
 ####Handboek
 
 Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 tot en met 10 voldoet en een wijzigingsprocedure van het handboek.  
-
-### Bijlage  B  
-
-####Erkenningsvoorwaarden voor EZT
-
-### Artikel  1  
-
-####Vakbekwaamheid
-
-De aanvrager beschikt over een geldig bewijs van bevoegdheid als onderhoudstechnicus, met de bevoegdverklaring(en) in overeenstemming met de aard van de werkzaamheden.  
-
-### Artikel  2  
-
-####Bedrijfsmiddelen
-
-1. De aanvrager beschikt over voldoende en doelmatige bedrijfsmiddelen, ten einde een goede uitvoering van de werkzaamheden te kunnen waarborgen.  
-
-2. De aanvrager beschikt over bedrijfsmiddelen die het personeel en de producten en onderdelen beschermen tegen ongewenste invloeden van buitenaf.  
-
-3. Indien bedrijfsmiddelen van derden worden gebruikt, zorgt de aanvrager dat hij: 
-
-a. beschikt over de bedrijfsmiddelen;  
-
-b. verantwoordelijk is voor de gang van zaken ten aanzien van deze bedrijfsmiddelen;  
-
-c. maatregelen kan treffen voor noodzakelijke verbeteringen.      
-
-### Artikel  3  
-
-####Documentatie
-
-De aanvrager beschikt in de werkplaats over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.  
-
-### Artikel  4  
-
-####Kwaliteitssysteem
-
-De aanvrager is verantwoordelijk voor een kwaliteitssysteem dat in ieder geval de volgende aspecten bevat: 
-
-a. het kwaliteitsbeleid;  
-
-b. de productieprocessen;  
-
-c. het documentatiebeheer;  
-
-d. de deugdelijkheid van meet- en beproevingsmiddelen;  
-
-e. de deugdelijkheid van materialen, onderdelen en producten;  
-
-f. de vrijgave van onderdelen en producten;  
-
-g. de melding van defecten en gebreken;  
-
-h. een doelmatige en deugdelijke technische administratie;  
-
-i. de kwaliteitsborging.    
-
-### Artikel  5  
-
-####Het kwaliteitsbeleid
-
-1. Het door de aanvrager vastgesteld kwaliteitsbeleid bestaat uit doelstellingen, wegen en middelen, en prioriteiten, dat leidt tot een beleidsprogramma teneinde te waarborgen dat de resultaten van het productieproces voldoen aan vooraf vastgestelde kwaliteit.  
-
-2. Het kwaliteitsbeleid is gericht op het voorkomen van onbedoelde afwijkingen in het functioneren van de EZT.    
-
-### Artikel  6  
-
-####De productieprocessen
-
-De aanvrager waarborgt dat de werkzaamheden tijdens het productieproces worden uitgevoerd, overeenkomstig de van toepassing zijnde specificaties, voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen zodat de resultaten van het productieproces aan een vooraf vastgestelde kwaliteit voldoen.  
-
-### Artikel  7  
-
-####Het documentbeheer
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.  
-
-### Artikel  8  
-
-####De meetapparatuur en beproevingsmiddelen
-
-De aanvrager beschikt over een systeem dat waarborgt dat de meet- en beproevingsmiddelen in deugdelijke toestand worden gehouden.  
-
-### Artikel  9  
-
-####De deugdelijkheid van materialen en producten
-
-1. De aanvrager beschikt over een systeem dat de deugdelijkheid waarborgt van elders betrokken materialen en onderdelen.  
-
-2. De aanvrager beschikt over een systeem dat zeker stelt dat materialen, halffabrikaten, en onderdelen, die in eerste instantie zijn afgekeurd, nader worden beoordeeld, en bij definitieve afkeur uit het productieproces worden verwijderd.    
-
-### Artikel  10  
-
-####De vrijgave
-
-1. Het vrijgaveproces van de aanvrager waarborgt dat materialen, onderdelen en producten waarop de erkenning betrekking heeft, die bestemd zijn om in luchtvaartuigen te worden gebruikt of door derden te worden verwerkt, niet voor gebruik of verwerking worden vrijgegeven zonder een certificaat van vrijgave dan wel certificaat van vrijgave voor gebruik.  
-
-2. De aanvrager waarborgt dat luchtvaartuigen, waarop de aanvraag betrekking heeft, niet voor gebruik worden vrijgegeven zonder een certificaat van vrijgave voor gebruik.  
-
-3. Het certificaat van vrijgave dan wel het certificaat van vrijgave voor gebruik is slechts geldig indien het: 
-
-a. volledig leesbaar is,  
-
-b. tegen uitwissen is beveiligd, en  
-
-c. is ondertekend door de aanvrager.    
-
-4. Het model van het certificaat van vrijgave voor gebruik geeft in ieder geval in de Nederlandse of Engelse taal het volgende weer: 
-
-a. een verklaring luidende 
-
-1°. ‘Certificaat van vrijgave voor gebruik, afgegeven ingevolge de bevoegdheid op grond van het door de Minister van Verkeer en Waterstaat afgegeven bewijs van erkenning nr...’,  
-
-2°. ‘Certificate of release to service, released in accordance with the approval by the Minister of Transport, Public Works and Water Management of the Netherlands ref approval no...’, of  
-
-3°. een verklaring overeenkomstig sub 1° of 2°;    
-
-b. de naam van de houder van de erkenning, die op het bewijs van erkenning is vermeld;  
-
-c. het volgnummer van het certificaat van vrijgave dan wel certificaat van vrijgave voor gebruik;  
-
-d. het eindproduct waar het certificaat van vrijgave dan wel certificaat van vrijgave voor gebruik voor wordt geautoriseerd;  
-
-e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de [Regeling onderhoud luchtvaartuigen](../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md);  
-
-f. het administratienummer waaronder nadere informatie over het eindproduct is te vinden;  
-
-g. door wie en op welke datum het certificaat van vrijgave voor gebruik is getekend.      
-
-### Artikel  11  
-
-####Een doelmatige en deugelijke technische administratie
-
-De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot: 
-
-a. de gegevens omtrent de uitgevoerde inspecties, keuringen en beproevingen;  
-
-b. de meetgegevens omtrent op materialen, halfproducten, onderdelen en uitrustingsstukken toegepaste behandelingen, indien de beoordeling ervan mede op grond van deze gegevens geschiedt;  
-
-c. de bedrijfs- en opslagtijden van die stoffen, materialen, onderdelen en uitvoeringsstukken, waarbij deze tijden een belangrijke rol spelen.    
-
-### Artikel  12  
-
-####Kwaliteitsborging
-
-1. De aanvrager beschikt over de daartoe noodzakelijke gegevens, en stelt deze ter beschikking aan de kwaliteitsborgingsfunctie, teneinde aan te kunnen tonen dat het kwaliteitssysteem naar behoren functioneert.  
-
-2. De aanvrager laat zijn functioneren regelmatig beoordelen door de kwaliteitsborgingsfunctie.  
-
-3. Zodra blijkt, dat het kwaliteitssysteem tekortschiet, achterhaalt de aanvrager of de kwaliteitsborgingsfunctie de oorzaken daarvan, teneinde maatregelen ter verbetering te kunnen treffen.  
-
-4. Indien nodig brengt de aanvrager de nodige verbeteringen aan in het kwaliteitssysteem.    
-
-### Artikel  13  
-
-####Bevoegdheden en verantwoordelijkheden van de kwaliteitsborgingsfunctie
-
-1. Teneinde een goede uitvoering te geven aan het kwaliteitsbeleid, bedoeld in artikel 5, sluit de aanvrager een overeenkomst met een voor de Minister acceptabele organisatie voor de uitvoering van de kwaliteitsborgingsfunctie.  
-
-2. Deze overeenkomst bevat tenminste de volgende aspecten: 
-
-a. de kwaliteitsborgingsfunctie ondersteund de aanvrager bij de ontwikkeling en invoering van het kwaliteitsbeleid, bedoeld in artikel 5;  
-
-b. de kwaliteitsborgingsfunctie ziet er in ieder geval op toe dat het kwaliteitssysteem wordt toegepast;  
-
-c. de kwaliteitsborgingsfunctie vervult zijn taken onafhankelijk van de met de directe uitvoering van de werkzaamheden belaste personen.    
-
-3. De uitvoerder van de kwaliteitsborgingsfunctie is voor de Minister acceptabel indien hij aan de volgende voorwaarden voldoet: 
-
-a. kennis en ervaring op het gebied van auditeren;  
-
-b. kennis van de Nederlandse regelgeving op het gebied van onderhoud aan luchtvaartuigen;  
-
-c. technisch inhoudelijke kennis van zweefvliegtuigen.      
-
-### Artikel  14  
-
-####Handboek
-
-Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 2 tot en met 13 voldoet alsmede een wijzigingsprocedure van het handboek.  
 
 ### Bijlage  C  
 
@@ -1015,7 +796,7 @@ c. het volgnummer van het certificaat van vrijgave dan wel certificaat van vrijg
 
 d. het eindproduct waar het certificaat van vrijgave voor gebruik voor wordt geautoriseerd;  
 
-e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de [Regeling onderhoud luchtvaartuigen](../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md);  
+e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de Regeling onderhoud luchtvaartuigen;  
 
 f. het administratienummer waaronder nadere informatie over het eindproduct is te vinden;  
 

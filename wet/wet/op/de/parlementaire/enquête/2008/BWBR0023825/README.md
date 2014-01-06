@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op [artikel 70 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is de huidige [Wet op de Parlementaire Enquête](../../../../../../../../wet/wet/op/de/parlementaire/enquête/BWBR0001841/README.md) te moderniseren en te vervangen door een nieuwe Wet op de parlementaire enquête, onder meer met het oog op de uitbreiding en verduidelijking van de bevoegdheden van de enquêtecommissie en met het oog op de verbetering en verduidelijking van de positie van personen die verplicht zijn tot medewerking aan een parlementaire enquête, de samenloop met ander onderzoek en de regeling van de openbaarheid dan wel vertrouwelijkheid bij een parlementaire enquête;
+Alzo Wij in overweging genomen hebben, dat het, mede gelet op artikel 70 van de Grondwet, wenselijk is de huidige Wet op de Parlementaire Enquête te moderniseren en te vervangen door een nieuwe Wet op de parlementaire enquête, onder meer met het oog op de uitbreiding en verduidelijking van de bevoegdheden van de enquêtecommissie en met het oog op de verbetering en verduidelijking van de positie van personen die verplicht zijn tot medewerking aan een parlementaire enquête, de samenloop met ander onderzoek en de regeling van de openbaarheid dan wel vertrouwelijkheid bij een parlementaire enquête;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -38,7 +38,7 @@ c. document: schriftelijk stuk of ander materiaal dat gegevens bevat.
 ### Artikel  3  
 
 1.  De Kamer stelt de raming op van de uitgaven, uitgesplitst naar begrotingsjaren, die naar haar oordeel voor een parlementaire enquête nodig zijn, en brengt deze ter kennis van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-2.  De uitgaven worden verwerkt in de begroting van de Staten-Generaal, bedoeld in [artikel 1, eerste lid, onder f, van de Comptabiliteitswet 2001](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+2.  De uitgaven worden verwerkt in de begroting van de Staten-Generaal, bedoeld in artikel 1, eerste lid, onder f, van de Comptabiliteitswet 2001.   
 
 ### Hoofdstuk  3  
 
@@ -71,11 +71,11 @@ c. document: schriftelijk stuk of ander materiaal dat gegevens bevat.
 ### Artikel  7  
 
 1.  De commissie kan, zonder toestemming van de rechthebbende, met de door haar aangewezen personen elke plaats in Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint Eustatius en Saba, betreden.   
-2.  In afwijking van het eerste lid is voor het betreden van woningen toestemming van de bewoner of een machtiging vereist. In afwijking van [artikel 3 van de Algemene wet op het binnentreden](../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is de voorzieningenrechter van de rechtbank Den Haag bevoegd tot het verlenen van de machtiging. De artikelen 25, eerste lid, tweede volzin, tot en met 27 zijn van toepassing op de verlening van de machtiging.   
+2.  In afwijking van het eerste lid is voor het betreden van woningen toestemming van de bewoner of een machtiging vereist. In afwijking van artikel 3 van de Algemene wet op het binnentreden is de voorzieningenrechter van de rechtbank Den Haag bevoegd tot het verlenen van de machtiging. De artikelen 25, eerste lid, tweede volzin, tot en met 27 zijn van toepassing op de verlening van de machtiging.   
 3.  De commissie geeft, voor zover dit niet in strijd is met het belang van de parlementaire enquête, schriftelijk kennis aan de rechthebbende van een plaats van een voornemen een plaats te betreden. Indien sprake is van verhuur, dan wordt de kennisgeving gegeven aan de huurder.   
 4.  De leden van de commissie en de door haar aangewezen personen dragen bij het betreden van de plaats een legitimatiebewijs bij zich, dat is uitgegeven door de voorzitter van de Kamer. Zij tonen het legitimatiebewijs desgevraagd aanstonds.   
 5.  De commissie maakt een schriftelijk verslag op van het betreden van een plaats.   
-6.  Voor de toepassing van dit artikel is de [Algemene wet op het binnentreden](../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) tevens van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
+6.  Voor de toepassing van dit artikel is de Algemene wet op het binnentreden tevens van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
 
 ### Artikel  8  
 
@@ -133,7 +133,7 @@ b. de betrokken getuige of deskundige met een kortere termijn instemt.
 
 1.  Elke Nederlander, elke ingezetene van Nederland, elke natuurlijke persoon die in Nederland verblijf houdt, elke rechtspersoon die in Nederland is gevestigd en elke rechtspersoon die haar bedrijfsactiviteiten geheel of gedeeltelijk in Nederland uitoefent, is verplicht de commissie binnen de door haar gestelde termijn alle medewerking te verlenen die deze vordert bij de uitoefening van de haar bij deze wet verleende bevoegdheden, behoudens de mogelijkheid van verschoning overeenkomstig de artikelen 19 tot en met 24.   
 2.  In dit artikel worden onder Nederland mede begrepen: de openbare lichamen Bonaire, Sint Eustatius en Saba.   
-3.  Voor de toepassing van het eerste lid worden zij die als ingezetene met een adres zijn ingeschreven in de gemeentelijke basisadministratie persoonsgegevens van een gemeente in Nederland of in de basisadministratie persoonsgegevens van een van de openbare lichamen Bonaire, Sint Eustatius of Saba, geacht ingezetene van Nederland te zijn.   
+3.  Voor de toepassing van het eerste lid worden zij die als ingezetene zijn ingeschreven in de basisregistratie personen of in de basisadministratie persoonsgegevens van een van de openbare lichamen Bonaire, Sint Eustatius of Saba, geacht ingezetene van Nederland te zijn.   
 
 ### Artikel  15  
 
@@ -153,7 +153,7 @@ b. de betrokken getuige of deskundige met een kortere termijn instemt.
 
 ### Artikel  18  
 
-Voor een vergoeding van de commissie overeenkomstig het krachtens [artikel 26 van de Wet griffierechten burgerlijke zaken](../../../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde komen in aanmerking: 
+Voor een vergoeding van de commissie overeenkomstig het krachtens artikel 26 van de Wet griffierechten burgerlijke zaken bepaalde komen in aanmerking: 
 
 a. personen met wie de commissie een voorgesprek heeft gehouden, en  
 
@@ -213,7 +213,7 @@ c. de commissie in redelijkheid niet tot haar oordeel kan komen dat de verlangde
 
 ### Artikel  26  
 
-De voorzieningenrechter kan op verzoek van de commissie aan een bevel als bedoeld in artikel 25, eerste lid, een dwangsom verbinden. De derde afdeling van de [vijfde titel van Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van toepassing.  
+De voorzieningenrechter kan op verzoek van de commissie aan een bevel als bedoeld in artikel 25, eerste lid, een dwangsom verbinden. De derde afdeling van de vijfde titel van Boek 2 van het Wetboek van Burgerlijke Rechtsvordering is van toepassing.  
 
 ### Artikel  27  
 
@@ -253,8 +253,8 @@ In een civielrechtelijke, strafrechtelijke, bestuursrechtelijke of tuchtrechteli
 
 ### Artikel  32  
 
-1.  In afwijking van artikel 30 kunnen verklaringen en documenten die in het kader van een parlementaire enquête zijn afgelegd onderscheidenlijk verstrekt als bewijs worden gebruikt in een strafrechtelijke procedure naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES.   
-2.  In afwijking van artikel 31 verstrekt de commissie aan het openbaar ministerie ten behoeve van een strafrechtelijk onderzoek naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES, de informatie die redelijkerwijs hiervoor nodig is, ook indien het informatie betreft ten aanzien waarvan voor de leden van de commissie op grond van deze wet een geheimhoudingsverplichting geldt.   
+1.  In afwijking van artikel 30 kunnen verklaringen en documenten die in het kader van een parlementaire enquête zijn afgelegd onderscheidenlijk verstrekt als bewijs worden gebruikt in een strafrechtelijke procedure naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de artikelen 192 tot en met 192c van het Wetboek van Strafrecht, dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES.   
+2.  In afwijking van artikel 31 verstrekt de commissie aan het openbaar ministerie ten behoeve van een strafrechtelijk onderzoek naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de artikelen 192 tot en met 192c van het Wetboek van Strafrecht dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES, de informatie die redelijkerwijs hiervoor nodig is, ook indien het informatie betreft ten aanzien waarvan voor de leden van de commissie op grond van deze wet een geheimhoudingsverplichting geldt.   
 
 ### Hoofdstuk  7  
 
@@ -317,7 +317,7 @@ b. de openbaarmaking van het document de veiligheid van de staat zou kunnen scha
 
 c. het document bedrijfs- en fabricagegegevens bevat, die door natuurlijke personen of rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld;  
 
-d. het document persoonsgegevens bevat als bedoeld in [Hoofdstuk 2 van de Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de openbaarmaking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt of de persoon op wie de gegevens betrekking hebben heeft ingestemd met de openbaarmaking;  
+d. het document persoonsgegevens bevat als bedoeld in Hoofdstuk 2 van de Wet bescherming persoonsgegevens, tenzij de openbaarmaking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt of de persoon op wie de gegevens betrekking hebben heeft ingestemd met de openbaarmaking;  
 
 e. het document een verslag van een voorgesprek of een besloten verhoor betreft.     
 3.  De commissie kan eveneens beperkingen aan de openbaarheid stellen voor zover het belang van openbaarheid van het document niet opweegt tegen de volgende belangen: 
@@ -358,11 +358,11 @@ Wijzigt deze wet.
 
 ### Artikel  45  
 
-Indien op het tijdstip van inwerkingtreding van deze wet de Kamer op grond van de [Wet op de Parlementaire Enquête](../../../../../../../../wet/wet/op/de/parlementaire/enquête/BWBR0001841/README.md) een enquête heeft ingesteld, blijft [die wet](../../../../../../../../wet/wet/op/de/parlementaire/enquête/BWBR0001841/README.md) op die enquête van toepassing.  
+Indien op het tijdstip van inwerkingtreding van deze wet de Kamer op grond van de Wet op de Parlementaire Enquête een enquête heeft ingesteld, blijft die wet op die enquête van toepassing.  
 
 ### Artikel  46  
 
-De [Wet op de Parlementaire Enquête](../../../../../../../../wet/wet/op/de/parlementaire/enquête/BWBR0001841/README.md) wordt ingetrokken.  
+De Wet op de Parlementaire Enquête wordt ingetrokken.  
 
 ### Artikel  47  
 

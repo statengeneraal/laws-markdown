@@ -876,7 +876,7 @@ De pensioenuitvoerder verstrekt de informatie schriftelijk, tenzij de deelnemer,
 ####Verstrekken informatie door pensioenuitvoerder
 
 1.  De pensioenuitvoerder kan zich voor het schriftelijk verstrekken van de informatie, bedoeld in de artikelen 49 tot en met 55, houden aan het laatst hem bekende adres van de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner.   
-2.  Indien dit adres onjuist blijkt te zijn doet de pensioenuitvoerder navraag bij de gemeentelijke basisadministratie in de laatst bekende woonplaats van de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner.   
+2.  Indien dit adres onjuist blijkt te zijn, raadpleegt de pensioenuitvoerder de basisregistratie personen over het adres van de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner.   
 3.  Indien de pensioenuitvoerder kosten maakt in verband met werkzaamheden die voortvloeien uit het feit dat de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner verzuimd heeft de pensioenuitvoerder omtrent een wijziging van adres te informeren, kan de pensioenuitvoerder deze kosten bij deze in rekening brengen, maar kunnen deze kosten niet direct in mindering worden gebracht op de uitkering.   
 4.  Indien het bij de pensioenuitvoerder bekende adres voor de elektronische verstrekking van informatie onjuist blijkt, verstrekt de pensioenuitvoerder de informatie schriftelijk.   
 
@@ -1105,12 +1105,12 @@ e. in het kader van een verrekening van pensioenrechten bij scheiding de waarde 
 
 ####Afkoop klein ouderdomspensioen bij beëindiging deelneming
 
-1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2013: € 451,22 per jaar, tenzij: 
+1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2014: € 458,06 per jaar, tenzij: 
 
 a. dit recht op afkoop in de beroepspensioenregeling en uitvoeringsovereenkomst is beperkt of uitgesloten; of  
 
 b. de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een procedure tot waardeoverdracht is gestart.     
-2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2013: € 451,22 per jaar.   
+2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2014: € 458,06 per jaar.   
 3.  De pensioenuitvoerder die gebruik wil maken van het in het eerste lid bedoelde recht informeert de gewezen deelnemer over zijn besluit hieromtrent binnen zes maanden na afloop van de periode van twee jaar na beëindiging van de deelneming en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 4.  De pensioenuitvoerder die gebruik wil maken van het in het tweede lid bedoelde recht informeert de gepensioneerde over zijn besluit hieromtrent binnen zes maanden na de ingang van het pensioen en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 5.  De pensioenuitvoerder stelt de afkoopwaarde van de pensioenaanspraken ter beschikking aan de gewezen deelnemer dan wel de gepensioneerde, met uitzondering van de afkoopwaarde van een bijzonder partnerpensioen, die ter beschikking wordt gesteld aan de gewezen partner.   
@@ -1448,20 +1448,20 @@ c. aan de pensioenuitvoerder geen voorwaarden in verband met de waardeoverdracht
 
 ### Artikel  101  
 
-####Informatie uit de gemeentelijke basisadministratie persoonsgegevens
+####Informatie uit de basisregistratie personen
 
-Inlichtingen uit de gemeentelijke basisadministratie persoonsgegevens en inlichtingen en uittreksels uit de registers van de burgerlijke stand, die de pensioenuitvoerder nodig heeft met het oog op de uitvoering van zijn taak, zijn vrij van leges.  
+Inlichtingen uit de basisregistratie personen en inlichtingen en uittreksels uit de registers van de burgerlijke stand, die de pensioenuitvoerder nodig heeft met het oog op de uitvoering van zijn taak, zijn vrij van leges.  
 
 ### Artikel  102  
 
-####Burgerservicenummer of, bij het ontbreken daarvan, sociaal-fiscaalnummer
+####Burgerservicenummer
 
-1.  Het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, kan door de pensioenuitvoerder in een door hem beheerde persoonsregistratie worden opgenomen en bij het verstrekken van gegevens daaruit worden gebruikt.   
-2.  De pensioenuitvoerder gebruikt dit dit burgerservicenummer of, bij het ontbreken daarvan, dit sociaal-fiscaalnummer uitsluitend: 
+1.  Het burgerservicenummer kan door de pensioenuitvoerder bij het verwerken van persoonsgegevens worden gebruikt.   
+2.  De pensioenuitvoerder gebruikt dit burgerservicenummer uitsluitend: 
 
 a. in het verkeer met de persoon op wie het nummer betrekking heeft; of  
 
-b. in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer in een persoonsregistratie.     
+b. in contacten met personen en instanties voor zover deze zelf bevoegd zijn gebruik te maken van het burgerservicenummer bij het verwerken van persoonsgegevens.     
 
 ### Artikel  103  
 
@@ -1516,8 +1516,9 @@ Een beroepspensioenfonds is een rechtspersoon met volledige rechtsbevoegdheid.
 
 ####Melding oprichting van een beroepspensioenfonds
 
-1.  Het beroepspensioenfonds meldt binnen drie maanden na zijn oprichting deze oprichting aan de toezichthouder door middel van een door de toezichthouder vastgesteld formulier.   
-2.  Bij de melding, bedoeld in het eerste lid, worden gevoegd: 
+1.  De oprichters melden de voorgenomen oprichting van een beroepspensioenfonds uiterlijk zes weken voor de beoogde datum van oprichting aan de toezichthouder.   
+2.  Het beroepspensioenfonds meldt binnen drie maanden na zijn oprichting deze oprichting aan de toezichthouder.   
+3.  Bij de melding, bedoeld in het eerste lid, worden gevoegd: 
 
 a. een authentiek afschrift van de akte van oprichting van het beroepspensioenfonds;  
 
@@ -1557,18 +1558,24 @@ Het bestuur van een beroepspensioenfonds bestaat uit vertegenwoordigers van de b
 
 1.  Ten minste twee natuurlijke personen bepalen het dagelijks beleid van een beroepspensioenfonds.   
 2.  De personen die het beleid van een beroepspensioenfonds bepalen of mede bepalen richten zich bij de vervulling van hun taak naar de belangen van de bij het beroepspensioenfonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en de pensioengerechtigden en zorgen ervoor dat dezen zich door hen op evenwichtige wijze vertegenwoordigd kunnen voelen.   
-3.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen die deskundig zijn in verband met de uitoefening van het bedrijf van het beroepspensioenfonds.   
+3.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen die geschikt zijn in verband met de uitoefening van het bedrijf van het beroepspensioenfonds. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen die geschikt zijn voor de uitoefening van dit toezicht.   
 4.  Iedere bestuurder van een beroepspensioenfonds is bevoegd een deskundige te raadplegen, of zich krachtens een bestuursbesluit, waarbij ten minste één vierde van de bestuurders zich daarvoor heeft uitgesproken, ter vergadering door een deskundige te laten bijstaan.   
-5.  Het bestuur van een beroepspensioenfonds draagt er zorg voor dat de betrouwbaarheid van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen buiten twijfel staat.   
+5.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen wier betrouwbaarheid buiten twijfel staat.   
 6.  Het bestuur van het beroepspensioenfonds meldt elke wijziging in de samenstelling van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen vooraf aan de toezichthouder.   
 7.  Een wijziging als bedoeld in het zesde lid wordt niet doorgevoerd indien: 
 
 a. de toezichthouder binnen zes weken na ontvangst van de melding van de wijziging aan het beroepspensioenfonds bekend maakt dat het niet met de voorgenomen wijziging instemt; of  
 
 b. de toezichthouder om nadere gegevens of inlichtingen heeft verzocht en binnen zes weken na ontvangst van die gegevens of inlichtingen aan het beroepspensioenfonds bekend maakt dat het niet met de voorgenomen wijziging instemt.     
-8.  Indien zich een wijziging voordoet van de antecedenten die van invloed is op de betrouwbaarheid van de personen, bedoeld in het vijfde lid, stelt het beroepspensioenfonds de toezichthouder daarvan onverwijld schriftelijk in kennis.   
+8.  Indien zich een wijziging voordoet van de antecedenten die van invloed is op de betrouwbaarheid van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen stelt het beroepspensioenfonds de toezichthouder daarvan onverwijld schriftelijk in kennis.   
 9.  De betrouwbaarheid van een persoon staat buiten twijfel wanneer dat eenmaal door de toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
-10.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het derde en het vijfde tot en met het achtste lid.   
+10.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel. Die regels hebben onder meer betrekking op de misdrijven die, indien begaan door een persoon als bedoeld in het vijfde lid, met het oog op de belangen die de wet beoogt te beschermen, tot de vaststelling leiden dat de betrouwbaarheid van die persoon niet buiten twijfel staat.   
+
+### Artikel  110a  
+
+#### *Tijdsbeslag* 
+
+Bestuurders en leden van de raad van toezicht van een beroepspensioenfonds hebben voldoende tijd beschikbaar om hun functie naar behoren uit te oefenen. Bij algemene maatregel van bestuur worden nadere regels gesteld. De [artikelen 132a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [142a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [242a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [252a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [297a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [297b van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing.  
 
 ### Artikel  111  
 
@@ -1790,6 +1797,7 @@ a. de waarden worden belegd in het belang van aanspraak- en pensioengerechtigden
 b. de beleggingen worden gewaardeerd op basis van marktwaardering.     
 2.  Bij of krachtens algemene maatregel van bestuur worden ter waarborging van het prudente beleggingsbeleid nadere regels gesteld.   
 3.  De eisen die zijn opgenomen in het eerste lid, aanhef en onderdeel b, en de regels die op grond van het tweede lid worden gesteld ten aanzien van de diversificatie van waarden zijn niet van toepassing op beleggingen in staatsobligaties.   
+4.  Een beroepspensioenfonds vermeldt in zijn jaarverslag op welke wijze in het beleggingsbeleid rekening wordt gehouden met milieu en klimaat, mensenrechten en sociale verhoudingen.   
 
 ### Artikel  131  
 
@@ -1914,7 +1922,7 @@ b. het maximaal te hanteren gemiddelde rendement op vastrentende waarden; en
 
 c. de maximaal te hanteren risicopremies op onder andere aandelen en onroerend goed.     
 2.  De in het eerste lid bedoelde regels worden iedere drie jaren getoetst, rekening houdend met financieel-economische ontwikkelingen in het verleden en realistische inzichten ten aanzien van toekomstige financieel-economische verwachtingen.   
-3.  Voordat de voordracht van de in het eerste lid bedoelde algemene maatregel van bestuur wordt gedaan vraagt Onze Minister het oordeel van een commissie bestaande uit een vertegenwoordiger van De Nederlandsche Bank N.V., van het Centraal Planbureau, twee leden op voordracht van de Stichting van de Arbeid en een door Onze Minister aan te wijzen lid.   
+3.  Voordat de voordracht van de in het eerste lid bedoelde algemene maatregel van bestuur wordt gedaan vraagt Onze Minister het oordeel van een commissie bestaande uit onafhankelijke leden die door Onze Minister worden aangewezen, waaronder een voorzitter.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het derde lid bedoelde commissie.   
 5.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
@@ -2072,6 +2080,8 @@ d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvan
 ### §  2  
 
 ####Rekening en verantwoording
+
+Vervallen per 01-01-2013   
 
 ### §  3  
 
@@ -2559,7 +2569,7 @@ c. een of meer van de daaraan verbonden voorschriften niet wordt nageleefd.
 
 ####Strafrechtelijke sanctionering
 
-1.  Overtreding van de artikelen 107, 162, 164, 165, eerste tot en met vierde lid, en 167, vijfde lid, onderdeel a, wordt gestraft met een geldboete van de tweede categorie. Overtreding van artikel 166, eerste lid, wordt gestraft met een geldboete van de vierde categorie.   
+1.  Overtreding van de artikelen 107, tweede en derde lid, 162, 164, 165, eerste tot en met vierde lid, en 167, vijfde lid, onderdeel a, wordt gestraft met een geldboete van de tweede categorie. Overtreding van artikel 166, eerste lid, wordt gestraft met een geldboete van de vierde categorie.   
 2.  Met een geldboete van de tweede categorie wordt gestraft overtreding van voorschriften, krachtens deze wet bij algemene maatregel van bestuur gegeven, voor zover uitdrukkelijk als strafbaar feit in de zin dezer wet aangeduid.   
 3.  De in of krachtens dit artikel strafbaar gestelde feiten zijn overtredingen.   
 
@@ -2623,6 +2633,8 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 3.  De laatste volzin van artikel 66, eerste lid, is ten aanzien van aanspraken die zijn opgebouwd voor 1 januari 2006 en die op 1 januari 2006 niet voldoen aan de laatste volzin van artikel 66, eerste lid, gedurende tien jaren na 1 januari 2006 niet van toepassing, met dien verstande dat de financiering van die aanspraken ten minste in gelijke delen per kalenderjaar plaatsvindt. De toezichthouder kan toestaan dat, in afwijking van de eerste zin, gedurende een langere periode, maar niet langer dan gedurende vijftien jaar geen toepassing wordt gegeven aan de laatste volzin van artikel 66, eerste lid, voor zover dat noodzakelijk is ter voorkoming van onaanvaardbare financiële gevolgen voor de betrokken beroepspensioenregeling of de betrokken beroepsgenoten.   
 4.  Voor de toepassing van artikel 8 wordt onder «een daartoe door een beroepspensioenvereniging opgericht beroepspensioenfonds» mede verstaan een beroepspensioenfonds dat een beroepspensioenregeling uitvoert die voor 1 januari 2006 is verplichtgesteld of ten aanzien waarvan voor die datum een aanvraag tot verplichtstelling is gedaan, met betrekking tot de uitvoering van die regeling.   
 5.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van [artikel II, onderdeel E, van de Verzamelwet pensioenen 2012](../../../../../wet/verzamelwet/pensioenen/2012/BWBR0030853/README.md) is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 143a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 143a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012.   
+6.  De personen die op het tijdstip van inwerkingtreding van [artikel VI van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md) deel uitmaken van de raad van toezicht van een beroepspensioenfonds, worden tot het einde van hun op dat tijdstip lopende benoemingstermijn, doch uiterlijk tot 1 januari 2017, geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en, vanaf het tijdstip van inwerkingtreding van [artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md), artikel 110c, eerste lid, en betrouwbaar als bedoeld in artikel 110, vijfde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, derde lid, zolang niet een wijziging in de relevante feiten, omstandigheden of antecedenten een redelijke aanleiding geeft tot een beoordeling van die geschiktheid of betrouwbaarheid.   
+7.  Indien een persoon die het beleid van een beroepspensioenfonds bepaalt of mede bepaalt voorafgaand aan het tijdstip van inwerkingtreding van [artikel VI van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md) deskundig is in verband met de uitoefening van het bedrijf van het beroepspensioenfonds wordt die persoon vanaf dat tijdstip geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en vanaf het tijdstip van inwerkingtreding van [artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md), artikel 110c, eerste lid, zolang niet een wijziging in de relevante feiten en omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid.   
 
 ### Artikel  215  
 

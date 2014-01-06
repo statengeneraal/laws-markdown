@@ -35,7 +35,7 @@ a. een openbare school:
 
 b. een bijzondere school: de rechtspersoon, bedoeld in artikel 49, eerste lid;  
 
-c. een samenwerkingsschool als bedoeld in artikel 53d: het bestuur van de samenwerkingsschool, bedoeld in dat artikel;   «regionaal opleidingencentrum»: een regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «agrarisch opleidingscentrum»: een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «persoonsgebonden nummer»: het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 27b, vierde lid; sociaal-fiscaalnummer: het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onder k, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md); «contractactiviteiten»: activiteiten als bedoeld in artikel 20, tweede lid; «personeel»: 
+c. een samenwerkingsschool als bedoeld in artikel 53d: het bestuur van de samenwerkingsschool, bedoeld in dat artikel;   «regionaal opleidingencentrum»: een regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «agrarisch opleidingscentrum»: een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «persoonsgebonden nummer»: het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 27b, vierde lid; «contractactiviteiten»: activiteiten als bedoeld in artikel 20, tweede lid; «personeel»: 
 
 a. de benoemde rector, directeur, conrector, adjunct-directeur of leraar, en overig personeel benoemd in een andere functie dan het geven van onderwijs, waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 24e1, derde lid, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling;  
 
@@ -168,6 +168,8 @@ Een onderwijsprogramma in het voortgezet onderwijs omvat mede een maatschappelij
 ### Artikel  6h  
 
 ####Meetellen onderwijstijd
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Indien een leerling gedurende een deel van de week onderwijs ontvangt op een school voor voortgezet speciaal onderwijs, op een school voor speciaal en voortgezet speciaal onderwijs, dan wel op een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), telt de tijd gedurende welke de leerling dit onderwijs ontvangt mee voor het aantal uren onderwijs dat de leerling ten minste moet ontvangen.  
 
@@ -1323,6 +1325,8 @@ b. dat de leerling binnen 8 weken na de aanvang van de periode van 5 weken geen 
 ### Artikel  27c  
 
 ####Tijdelijke geschillencommissie toelating en verwijdering
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Er is tot een bij koninklijk besluit te bepalen tijdstip een landelijke commissie voor geschillen waarbij elke school, school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en school als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) is aangesloten.   
 2.  De commissie neemt kennis van geschillen tussen ouders en bevoegd gezag van een school die ontstaan bij de toepassing van: 
@@ -2659,6 +2663,8 @@ Het bevoegd gezag van een andere dan een gemeentelijke school is gehouden aan de
 
 ####Voorziening in de huisvesting en inventaris voor zover het betreft andere vormen van voortgezet onderwijs als bedoeld in afdeling IV van titel II
 
+Vervallen per 06-04-2005   
+
 ### Afdeling  II  
 
 ####Grondslagen en wijze der bekostiging
@@ -2722,6 +2728,8 @@ d. exploitatiekosten.
 
 ####Grondslag bekostiging huisvestings- en inventariskosten van de scholen
 
+Vervallen per 06-04-2005   
+
 ### §  2  
 
 ####Grondslag bekostiging personeelskosten
@@ -2771,6 +2779,8 @@ c. het onderwijsondersteunend personeel.   De formatie is redelijkerwijs voldoen
 ### §  2a  
 
 ####Grondslag bekostiging nascholingskosten
+
+Vervallen per 06-04-2005   
 
 ### §  3  
 
@@ -2843,6 +2853,8 @@ Dit artikel is nog niet in werking getreden.
 
 ####Bekostiging huisvestings- en inventariskosten van de scholen
 
+Vervallen per 06-04-2005   
+
 ### §  1a  
 
 ####Onroerende zaak-belastingen
@@ -2867,6 +2879,8 @@ De gemeente bekostigt aan het bevoegd gezag van een andere dan een gemeentelijke
 ### §  2a  
 
 ####Bekostiging nascholingskosten van de scholen
+
+Vervallen per 06-04-2005   
 
 ### §  3  
 
@@ -2983,7 +2997,7 @@ d. de opbrengst van werkstukken en van verrichte diensten anders dan in het kade
 
 ### Artikel  96n  
 
-####Vermindering vergoeding i.v.m. kosten van wachtgelduitkeringen; gebruik burgerservicenummer, of bij het ontbreken daarvan, sociaal-fiscaalnummer door de Minister
+####Vermindering vergoeding i.v.m. kosten van wachtgelduitkeringen; gebruik burgerservicenummer door de Minister
 
 1.  Op de bekostiging, bedoeld in artikel 96m, eerste lid, wordt volgens bij of krachtens algemene maatregel van bestuur te stellen regels een bedrag in mindering gebracht in verband met de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid aan gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md). Deze regels kunnen voorzien in: 
 
@@ -2992,12 +3006,12 @@ a. onderscheid in verband met de datum waarop gewezen personeel is ontslagen,
 b. onderscheid in verband met de beslissing van de rechtspersoon, bedoeld in artikel 98b, eerste lid, zoals luidend op de dag voor de inwerkingtreding van [artikel IV van de wet van 12 mei 2005](../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/(decentralisatie/etc/BWBR0018327/README.md), Stb. 288, en  
 
 c. verdeling van de in de eerste volzin bedoelde kosten over enerzijds de bevoegde gezagsorganen gezamenlijk en anderzijds individuele bevoegde gezagsorganen.     
-2.  Onze Minister kan het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van een persoon, behorend tot gewezen personeel als bedoeld in het eerste lid, uitsluitend in het kader van het bepaalde bij of krachtens het eerste lid, gebruiken in het verkeer met: 
+2.  Onze Minister kan het burgerservicenummer van een persoon, behorend tot gewezen personeel als bedoeld in het eerste lid, uitsluitend in het kader van het bepaalde bij of krachtens het eerste lid, gebruiken in het verkeer met: 
 
 a. het bevoegd gezag van de school waar de in de aanhef bedoelde persoon werkzaam was, of  
 
 b. de instantie die de uitkeringen verstrekt of heeft verstrekt.     
-3.  Het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer wordt op een daartoe strekkend verzoek van Onze Minister aan Onze Minister verstrekt door het bevoegd gezag van de school waar het gewezen personeelslid werkzaam was.   
+3.  Het burgerservicenummer wordt op een daartoe strekkend verzoek van Onze Minister aan Onze Minister verstrekt door het bevoegd gezag van de school waar het gewezen personeelslid werkzaam was.   
 4.  De algemene maatregel van bestuur, bedoeld in het eerste lid, wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide Kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 5.  Indien de verdeling van de in het eerste lid, onderdeel c, bedoelde kosten bij ministeriële regeling wordt geregeld, is het vierde lid van overeenkomstige toepassing.   
 
@@ -3165,7 +3179,7 @@ i. het registratienummer van de school dan wel scholengemeenschap of, indien spr
 5.  Het bevoegd gezag en het hoofd, bedoeld in [artikel 1, onder d, van de Leerplichtwet 1969](../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), gebruiken het persoonsgebonden nummer van een leerling in contacten met een gemeente in het kader van de [Leerplichtwet 1969](../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van [die wet](../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) door de gemeente.   
 6.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 28, eerste lid, het persoonsgebonden nummer van de betrokkene.   
 7.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het contact met een andere school of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die leerling. Onder dit contact wordt mede begrepen de uitwisseling van leergegevens en direct met het leren samenhangende begeleidingsgegevens. Bij algemene maatregel van bestuur worden de gegevens, bedoeld in de vorige volzin, gespecificeerd. Het bevoegd gezag bewaart in de administratie van de school een verklaring van instemming van de ouders dan wel de leerling, indien deze de leeftijd van 16 jaar heeft bereikt, met de uitwisseling van de gegevens.   
-8.  Indien de gegevens over de nationaliteit van de leerling niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
+8.  Indien de gegevens over de nationaliteit van de leerling niet zijn opgenomen in de basisregistratie personen worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
 9.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling van het voortgezet onderwijs in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
 10.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een leerling ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), anders dan ter nakoming van verplichtingen als referent in de zin van [artikel 1 van die wet](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 11.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in contacten met een school als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) in het kader van de ondersteuning die deze school biedt op grond van [artikel 8a, eerste lid, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md).   
@@ -3192,7 +3206,7 @@ b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen v
 2.  Voor zover de door het bevoegd gezag op grond van artikel 103b verstrekte gegevens naar het oordeel van Onze Minister onjuist of onvolledig zijn, kan Onze Minister ten behoeve van de vaststelling van de bekostiging van deze gegevens afwijken, in welk geval de door Onze Minister vastgestelde gewijzigde gegevens worden opgenomen in het basisregister onderwijs, nadat het desbetreffende besluit tot vaststelling van de bekostiging onherroepelijk is geworden.   
 3.  Het gebruik, bedoeld in het eerste lid, ziet uitsluitend op gegevens die niet herleid of herleidbaar zijn tot individuele leerlingen, onverminderd artikel 103c, derde lid.   
 4.  Bij ministeriële regeling worden regels gesteld ter uitvoering van het eerste en derde lid, in ieder geval omtrent de inhoud en de samenstelling van de gegevens, de wijze waarop de gegevens worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben.   
-5.  In afwijking van het derde lid wordt bij algemene maatregel van bestuur bepaald in welke gevallen en onder welke voorwaarden Onze Minister gegevens als bedoeld in artikel 103b, tweede en derde lid, kan gebruiken tezamen met het persoonsgebonden nummer van een leerling ten behoeve van de vaststelling van de bekostiging van een school, alsmede welke gegevens dit gebruik kan betreffen.   
+5.  In afwijking van het derde lid kan Onze Minister in het verkeer met het bevoegd gezag ten behoeve van de vaststelling van de bekostiging het persoonsgebonden nummer gebruiken. In afwijking van het vierde lid wordt bij algemene maatregel van bestuur bepaald welke overige gegevens uit het basisregister onderwijs tezamen met het persoonsgebonden nummer hiervoor kunnen worden gebruikt.   
 6.  In afwijking van het derde lid, kan Onze Minister uit het basisregister onderwijs ten behoeve van het zenden van de samenvatting van het inspectierapport aan de ouders van de leerlingen ingevolge artikel 23c, tweede lid, het persoonsgebonden nummer van die leerlingen gebruiken.   
 
 ### Artikel  103f  
@@ -3218,11 +3232,13 @@ d. verwerking van de gegevens, bedoeld in [artikel 24f, derde en vierde lid, van
 
 a. financieel wanbeleid,  
 
-b. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de school in stand houdt, zichzelf dan wel een derde;  
+b. ernstige nalatigheid om, in ieder geval in strijd met artikel 23a, maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de school en om te voorkomen dat de kwaliteit van het stelsel van voortgezet onderwijs in gevaar komt;  
 
-c. onrechtmatig handelen, waaronder wordt verstaan het in de hoedanigheid van bestuurder of toezichthouder handelen in strijd met wettelijke bepalingen of de kennelijke geest van wettelijke bepalingen waarmee financieel voordeel wordt behaald ten gunste van de rechtspersoon die de school in stand houdt, zichzelf of een derde, en  
+c. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de school in stand houdt, zichzelf dan wel een derde;  
 
-d. het in ernstige mate verwaarlozen van de zorg voor wat door redelijkheid en billijkheid wordt gevorderd in de omgang met betrokkenen in de schoolorganisatie, waaronder wordt verstaan intimidatie of bedreiging van personeel, leerlingen of ouders door een bestuurder of toezichthouder.     
+d. onrechtmatig handelen, waaronder wordt verstaan het in de hoedanigheid van bestuurder of toezichthouder handelen in strijd met wettelijke bepalingen waarmee financieel voordeel wordt behaald ten gunste van de rechtspersoon die de school in stand houdt, zichzelf of een derde, en  
+
+e. het in ernstige mate verwaarlozen van de zorg voor wat door redelijkheid en billijkheid wordt gevorderd in de omgang met betrokkenen in de schoolorganisatie, waaronder wordt verstaan intimidatie of bedreiging van personeel, leerlingen of ouders door een bestuurder of toezichthouder.     
 3.  In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten sprake is van wanbeheer alsmede de in verband daarmee te nemen maatregelen.   
 4.  Een aanwijzing bevat de termijn waarbinnen het bevoegd gezag aan de aanwijzing moet voldoen.   
 5.  Alvorens Onze Minister een aanwijzing als bedoeld in het eerste lid geeft: 
@@ -3558,7 +3574,7 @@ b. [artikel 1 van de Les- en cursusgeldwet](../../../../../../../wet/les-/en/cur
 c. [artikel 1.1 van de Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md),  
 
 d. [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).     
-7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school als bedoeld in artikel 1, een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), een instelling als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/isovso/BWBR0003549/README.md) of een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij samenwerking met een school of instelling kan voor die school of instelling respectievelijk worden afgeweken van [hoofdstuk I, titel I, artikelen 1](../../../../../../../wet/wbo/BWBR0003420/README.md) en [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [titel II, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [afdeling 2](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikelen 47](../../../../../../../wet/wbo/BWBR0003420/README.md) en [48](../../../../../../../wet/wbo/BWBR0003420/README.md), en [titel IV, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [4 tot en met 7](../../../../../../../wet/wbo/BWBR0003420/README.md) en [afdeling 8, paragrafen 2](../../../../../../../wet/wbo/BWBR0003420/README.md), [3](../../../../../../../wet/isovso/BWBR0003549/README.md), [6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [afdeling 9, paragrafen 1](../../../../../../../wet/wbo/BWBR0003420/README.md) en [2, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), dan wel [titel I, artikelen 1](../../../../../../../wet/isovso/BWBR0003549/README.md) en [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [titel II, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [afdeling 2, artikelen 50](../../../../../../../wet/isovso/BWBR0003549/README.md) en [51](../../../../../../../wet/isovso/BWBR0003549/README.md), en [titel IV, afdelingen 1](../../../../../../../wet/isovso/BWBR0003549/README.md), [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [4 tot en met 6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [afdeling 7, paragrafen 2](../../../../../../../wet/isovso/BWBR0003549/README.md), [3](../../../../../../../wet/isovso/BWBR0003549/README.md), [6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [afdeling 8, artikelen 146 tot en met 149](../../../../../../../wet/isovso/BWBR0003549/README.md) en [151, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), [hoofdstuk 2, titel 2](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [hoofdstukken 6](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [7 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [hoofdstuk 2, titel 2, hoofdstuk 5a](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 6](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 9, titel 2](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 10, titel 3](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [hoofdstuk 11, paragraaf 4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet educatie en beroepsonderwijs of de Wet hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
+7.  Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school als bedoeld in artikel 1, een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), een instelling als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/isovso/BWBR0003549/README.md) of een instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij samenwerking met een school of instelling kan voor die school of instelling respectievelijk worden afgeweken van [hoofdstuk I, titel I, artikelen 1](../../../../../../../wet/wbo/BWBR0003420/README.md) en [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [titel II, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [afdeling 2](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikelen 47](../../../../../../../wet/wbo/BWBR0003420/README.md) en [48](../../../../../../../wet/wbo/BWBR0003420/README.md), en [titel IV, afdeling 1](../../../../../../../wet/wbo/BWBR0003420/README.md), [2](../../../../../../../wet/wbo/BWBR0003420/README.md), [4 tot en met 7](../../../../../../../wet/wbo/BWBR0003420/README.md) en [afdeling 8, paragrafen 2](../../../../../../../wet/wbo/BWBR0003420/README.md), [3](../../../../../../../wet/wbo/BWBR0003420/README.md), [6](../../../../../../../wet/wbo/BWBR0003420/README.md) en [7](../../../../../../../wet/wbo/BWBR0003420/README.md) en [afdeling 9, paragrafen 1](../../../../../../../wet/wbo/BWBR0003420/README.md) en [2, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), dan wel [titel I, artikelen 1](../../../../../../../wet/isovso/BWBR0003549/README.md) en [2](../../../../../../../wet/isovso/BWBR0003549/README.md), [titel II, afdeling 1](../../../../../../../wet/isovso/BWBR0003549/README.md), [afdeling 2, artikelen 50](../../../../../../../wet/isovso/BWBR0003549/README.md) en [51](../../../../../../../wet/isovso/BWBR0003549/README.md), en [titel IV, afdelingen 1](../../../../../../../wet/isovso/BWBR0003549/README.md), [2](../../../../../../../wet/isovso/BWBR0003549/README.md), [4 tot en met 6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [afdeling 7, paragrafen 2](../../../../../../../wet/isovso/BWBR0003549/README.md), [3](../../../../../../../wet/isovso/BWBR0003549/README.md), [6](../../../../../../../wet/isovso/BWBR0003549/README.md) en [7](../../../../../../../wet/isovso/BWBR0003549/README.md), en [afdeling 8, artikelen 146 tot en met 149](../../../../../../../wet/isovso/BWBR0003549/README.md) en [151, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), [hoofdstuk 2, titel 2](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [hoofdstukken 6](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [7 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [hoofdstuk 2, titel 2, hoofdstuk 5a](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 6](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 9, titel 2](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [hoofdstuk 10, titel 3](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [hoofdstuk 11, paragraaf 4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet educatie en beroepsonderwijs of de Wet hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.   
 8.  De voordracht voor de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
 
 ### Titel  IVE  

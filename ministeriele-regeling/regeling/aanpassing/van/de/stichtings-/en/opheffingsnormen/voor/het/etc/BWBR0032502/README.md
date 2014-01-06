@@ -3,20 +3,20 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 8 december 2012, nr. DUO/OND/ODS-2012/60909 M, houdende aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2013 (Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2013)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de artikelen 77, derde lid, 153, tweede lid, en 155, tweede lid, van de Wet op het primair onderwijs;
+Gelet op de [artikelen 77, derde lid](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [153, tweede lid](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), en [155, tweede lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);
 Besluit:    
 
 ### Artikel  1  
 
 ####Vaststelling nieuwe stichtings- en opheffingsnormen
 
-Voor de basisscholen in Nederland worden voor elke gemeente de stichtings- en opheffingsnormen vastgesteld, zoals aangegeven in bijlage 1 bij deze regeling.  
+Voor de basisscholen in Nederland worden voor elke gemeente de stichtings- en opheffingsnormen vastgesteld, zoals aangegeven in bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Vaststelling afzonderlijke opheffingsnormen
 
-Voor de basisscholen in delen van gemeenten, zoals omschreven in bijlage 2 bij deze regeling, worden de opheffingsnormen vastgesteld zoals in die bijlage aangegeven.  
+Voor de basisscholen in delen van gemeenten, zoals omschreven in bijlage 2 bij deze regeling, worden de opheffingsnormen vastgesteld zoals in die bijlage aangegeven. 
 
 ### Artikel  3  
 
@@ -24,57 +24,57 @@ Voor de basisscholen in delen van gemeenten, zoals omschreven in bijlage 2 bij d
 
 De volgende regelingen worden ingetrokken: 
 
-a. Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2003;  
+a. [Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2003](../../../../../../../../../../../../ministeriele-regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/het/basisonderwijs/etc/BWBR0014132/README.md);  
 
-b. Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2008;  
+b. [Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2008](../../../../../../../../../../../../ministeriele-regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/het/basisonderwijs/etc/BWBR0022708/README.md);  
 
-c. Afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Oss;  
+c. [Afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Oss](../../../../../../../../../../../../ministeriele-regeling/afzonderlijke/opheffingsnormen/in/verband/met/splitsing/van/de/gemeente/etc/BWBR0015823/README.md);  
 
-d. Regeling aanpassing opheffingsnormen basisscholen in Horst aan de Maas en Oldambt;  
+d. [Regeling aanpassing opheffingsnormen basisscholen in Horst aan de Maas en Oldambt](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/opheffingsnormen/basisscholen/in/horst/aan/de/maas/en/etc/BWBR0030556/README.md);  
 
-e. Regeling aanpassing stichtings- en opheffingsnormen basisscholen in verband met gebiedswijzigingen per 1 januari 2006;  
+e. [Regeling aanpassing stichtings- en opheffingsnormen basisscholen in verband met gebiedswijzigingen per 1 januari 2006](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/stichtings-/en/opheffingsnormen/basisscholen/in/etc/BWBR0020839/README.md);  
 
-f. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2003 in verband met gebiedswijzigingen;  
+f. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2003 in verband met gebiedswijzigingen](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/stichtings-/en/opheffingsnormen/voor/basisscholen/in/etc/BWBR0014148/README.md);  
 
-g. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2004 in verband met gebiedswijzigingen;  
+g. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2004 in verband met gebiedswijzigingen](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0015714/README.md);  
 
-h. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2005 in verband met gebiedswijzigingen;  
+h. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2005 in verband met gebiedswijzigingen](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0017305/README.md);  
 
-i. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2006 in verband met gebiedswijzigingen per 1 januari 2005;  
+i. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen 2006 in verband met gebiedswijzigingen per 1 januari 2005](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0018913/README.md);  
 
-j. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2011 en in verband met splitsing van gemeenten;  
+j. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2011 en in verband met splitsing van gemeenten](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0030838/README.md);  
 
-k. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2010;  
+k. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2010](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0029978/README.md);  
 
-l. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2007;  
+l. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2007](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0022719/README.md);  
 
-m. Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2009;  
+m. [Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2009](../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/van/de/stichtings-/en/opheffingsnormen/voor/etc/BWBR0027521/README.md);  
 
-n. Regeling afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Horst aan de Maas.    
+n. [Regeling afzonderlijke opheffingsnormen in verband met splitsing van de gemeente Horst aan de Maas](../../../../../../../../../../../../ministeriele-regeling/regeling/afzonderlijke/opheffingsnormen/in/verband/met/splitsing/van/de/etc/BWBR0020325/README.md).   
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2013 en vervalt met ingang van 1 augustus 2018.  
+Deze regeling treedt in werking met ingang van 1 augustus 2013 en vervalt met ingang van 1 augustus 2018. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013.  
+Deze regeling wordt aangehaald als: Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-S.Dekker.  
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+S. Dekker.    
 
-### Bijlage  1  
+### Bijlage  1 
 
 ####, behorende bij artikel 1  van de Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013
 
 | Gemeentenaam  | Gemeentecode  | Opheffingsnorm  | Stichtingsnorm  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Aa en Hunze  | 1.680  | 31  | 200  |
 | Aalburg  | 738  | 76  | 200  |
 | Aalsmeer  | 358  | 165  | 275  |
@@ -491,12 +491,12 @@ S.Dekker.
 | Zwijndrecht  | 642  | 172  | 287  |
 | Zwolle  | 193  | 146  | 243  |
 
-### Bijlage  2  
+### Bijlage  2 
 
 ####, behorende bij artikel 2  van de Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013
 
 | Naam gemeente  | Gebied 1  | Opheffingsnorm  | Gebied 2  | Opheffingsnorm  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Aalburg  | Wijk en Aalburg/ Veen/ Genderen  | 107  | Eethen/ Meeuwen/ Drongelen/ Babyloniënbroek  | 31  |
 | Aalsmeer  | Kudelstaart e.o.  | 179  | restgebied Aalsmeer  | 159  |
 | Almelo  | Overig gebied Almelo  | 166  | kern Aadorp/ Bornerbroek  | 46  |

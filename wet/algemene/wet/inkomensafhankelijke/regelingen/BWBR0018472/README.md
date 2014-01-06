@@ -42,7 +42,7 @@ c. kind: de persoon bedoeld in artikel 4;
 
 d. lidstaat: een Staat die lid is van de Europese Unie of een andere Staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-e. medebewoner: de persoon die op hetzelfde woonadres als de belanghebbende staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, met dien verstande dat als medebewoner niet wordt aangemerkt: 
+e. medebewoner: de persoon die als ingezetene op hetzelfde woonadres is ingeschreven in de basisregistratie personen als de belanghebbende, met dien verstande dat als medebewoner niet wordt aangemerkt: 
 
 1°. de partner van de belanghebbende,  
 
@@ -52,7 +52,7 @@ e. medebewoner: de persoon die op hetzelfde woonadres als de belanghebbende staa
 
 f. partner: de persoon bedoeld in artikel 3;  
 
-g. sociaal-fiscaalnummer: het nummer bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+g.  vervallen;   
 
 h. tegemoetkoming: een financiële bijdrage van het Rijk op grond van een inkomensafhankelijke regeling;  
 
@@ -78,7 +78,7 @@ p. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de W
 ####Partner
 
 1.  Partner van de belanghebbende is degene die ingevolge [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) als partner wordt aangemerkt. [Artikel 2, zesde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing.   
-2.  In aanvulling op het eerste lid wordt voor de toepassing van deze wet en de daarop berustende bepalingen onder partner mede verstaan degene die op hetzelfde woonadres als de belanghebbende staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en: 
+2.  In aanvulling op het eerste lid wordt voor de toepassing van deze wet en de daarop berustende bepalingen onder partner mede verstaan degene die als ingezetene op hetzelfde woonadres is ingeschreven in de basisregistratie personen als de belanghebbende en: 
 
 a. uit wiens relatie met de belanghebbende een kind is geboren;  
 
@@ -93,7 +93,7 @@ e. die evenals de belanghebbende meerderjarig is, waarbij op dat woonadres teven
 f. voor de toepassing van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) voor het berekeningsjaar wordt aangemerkt als partner van de belanghebbende, of  
 
 g. die in het aan het berekeningsjaar voorafgaande kalenderjaar reeds partner van de belanghebbende was.     
-3.  Degene die ingevolge het tweede lid voor een deel van het berekeningsjaar als partner wordt aangemerkt, wordt ook als partner aangemerkt in de andere perioden van het berekeningsjaar, voor zover hij in die perioden op hetzelfde woonadres als de belanghebbende staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens.   
+3.  Degene die ingevolge het tweede lid voor een deel van het berekeningsjaar als partner wordt aangemerkt, wordt ook als partner aangemerkt in de andere perioden van het berekeningsjaar, voor zover hij in die perioden als ingezetene op hetzelfde woonadres is ingeschreven in de basisregistratie personen als de belanghebbende.   
 4.  Een belanghebbende kan op enig moment slechts één partner hebben. Indien de belanghebbende op grond van het tweede lid op dat moment meer dan één partner zou hebben, geldt als partner van de belanghebbende degene die ingevolge [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) op dat moment als partner wordt aangemerkt; mocht op grond van artikel 5a van de Algemene wet inzake rijksbelastingen op dat moment geen persoon als partner zijn aangemerkt, geldt als partner degene die op grond van de in het tweede lid eerstgenoemde categorie als partner wordt aangemerkt.   
 5.  In afwijking van [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en het tweede lid wordt niet als partner aangemerkt, een bloedverwant in de eerste graad van de belanghebbende, tenzij beiden bij de aanvang van het kalenderjaar de leeftijd van 27 jaar hebben bereikt.   
 6.  Personen die partners waren op grond van het tweede lid, blijven als partners aangemerkt nadat de in dat onderdeel bedoelde inschrijving op hetzelfde woonadres niet langer mogelijk is als gevolg van opname in een verpleeghuis of verzorgingshuis vanwege medische redenen of ouderdom van een van hen, zolang na het einde van die inschrijving op hetzelfde woonadres ten aanzien van geen van beiden een derde persoon als partner wordt aangemerkt. De eerste volzin vindt geen toepassing meer indien één van beiden door middel van een schriftelijke kennisgeving aan de Belastingdienst/Toeslagen laat weten dat zij niet langer als partners willen worden aangemerkt. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit lid.   
@@ -102,8 +102,8 @@ g. die in het aan het berekeningsjaar voorafgaande kalenderjaar reeds partner va
 
 ####Kind
 
-1.  Kind is de bloedverwant of aanverwant in de neergaande lijn van de belanghebbende of zijn partner, die in belangrijke mate wordt onderhouden door de belanghebbende of zijn partner en op hetzelfde woonadres als de belanghebbende staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind.   
-2.  De in het eerste lid opgenomen voorwaarde van inschrijving in de gemeentelijke basisadministratie persoonsgegevens geldt niet gedurende de periode waarin de aldaar bedoelde persoon tegelijkertijd tot de huishoudens van zijn beide ouders behoort en hij op hetzelfde woonadres als een van die ouders staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens. Voor de toepassing van de eerste volzin behoort iemand tegelijkertijd tot het huishouden van beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft.   
+1.  Kind is de bloedverwant of aanverwant in de neergaande lijn van de belanghebbende of zijn partner, die in belangrijke mate wordt onderhouden door de belanghebbende of zijn partner en als ingezetene op hetzelfde woonadres als de belanghebbende is ingeschreven in de basisregistratie personen. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind.   
+2.  De in het eerste lid opgenomen voorwaarde van inschrijving in de basisregistratie personen geldt niet gedurende de periode waarin de aldaar bedoelde persoon tegelijkertijd tot de huishoudens van zijn beide ouders behoort en hij op hetzelfde woonadres als een van die ouders is ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort iemand tegelijkertijd tot het huishouden van beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft.   
 3.  Een kind wordt in belangrijke mate onderhouden als bedoeld in het eerste lid indien is voldaan aan de regels gesteld krachtens [artikel 1.5 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 
 ### Artikel  5  
@@ -112,11 +112,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 ### Artikel  6  
 
-####Gelijkstelling met gemeentelijke basisadministratie persoonsgegevens
+####Gelijkstelling met basisregistratie personen
 
-1.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met de gemeentelijke basisadministratie persoonsgegevens gelijkgesteld een daarmee naar aard en strekking overeenkomende administratie buiten Nederland.   
-2.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld op basis waarvan iemand die niet in Nederland woont, geacht wordt op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland.   
-3.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld op basis waarvan iemand die in de gemeentelijke basisadministratie persoonsgegevens niet op zijn woonadres is ingeschreven, geacht wordt daarin wel op dat adres te zijn ingeschreven.   
+1.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met de basisregistratie personen gelijkgesteld een daarmee naar aard en strekking overeenkomende registratie buiten Nederland.   
+2.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld op basis waarvan iemand die niet in Nederland woont, geacht wordt op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland.   
+3.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld op basis waarvan iemand die in de basisregistratie personen niet op zijn woonadres is ingeschreven, geacht wordt daarin wel op dat adres te zijn ingeschreven.   
 4.  Voor de toepassing van het tweede en derde lid wordt naar de omstandigheden beoordeeld waar iemand woont.   
 
 ### Paragraaf  3  
@@ -132,7 +132,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 3.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen, bestaat geen aanspraak op een tegemoetkoming, indien bij de belanghebbende of, indien de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, zijn partner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstelling, bedoeld in [artikel 5.13 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 4.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen van medebewoners, bestaat tevens geen aanspraak op een tegemoetkoming indien bij een medebewoner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstelling, bedoeld in [artikel 5.13 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Het bepaalde in de eerste volzin geldt alleen ten aanzien van degenen van wie het medebewonerschap het gehele berekeningsjaar heeft geduurd.   
 5.  Voor de toepassing van het derde en vierde lid alsmede voor de toepassing van bepalingen in inkomensafhankelijke regelingen die verwijzen naar [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt onder voordeel uit sparen en beleggen mede verstaan het in het niet in Nederland belastbaar inkomen begrepen voordeel uit sparen en beleggen.   
-6.  Het toetsingsinkomen van een medebewoner die een eerstegraads bloed- of aanverwant in de neergaande lijn of een pleegkind is van de belanghebbende, van zijn partner, of van een medebewoner, en die bij de aanvang van het berekeningsjaar de leeftijd van 23 jaar niet heeft bereikt, wordt voor de toepassing van het tweede lid slechts in aanmerking genomen voor zover het meer bedraagt dan € 4627.   
+6.  Het toetsingsinkomen van een medebewoner die een eerstegraads bloed- of aanverwant in de neergaande lijn of een pleegkind is van de belanghebbende, van zijn partner, of van een medebewoner, en die bij de aanvang van het berekeningsjaar de leeftijd van 23 jaar niet heeft bereikt, wordt voor de toepassing van het tweede lid slechts in aanmerking genomen voor zover het meer bedraagt dan €  4.706.   
 7.  Met betrekking tot het bedrag vermeld in het zesde lid zijn de [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  8  
@@ -142,6 +142,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 1.  Toetsingsinkomen is: het op het berekeningsjaar betrekking hebbende inkomensgegeven.   
 2.  Niet in Nederland belastbaar inkomen, zoals dat bij beschikking is vastgesteld, wordt in aanvulling op het eerste lid mede als toetsingsinkomen in aanmerking genomen.   
 3.  Bij overlijden van de belanghebbende wordt, indien hij geen partner heeft en er geen sprake is van een medebewoner, in afwijking in zoverre van het eerste en tweede lid het toetsingsinkomen berekend door het op grond van die leden bepaalde toetsingsinkomen tijdsevenredig te herleiden naar een jaarinkomen.   
+4.  In de omstandigheden, bedoeld in het derde lid, wordt in afwijking van het in dat lid bepaalde op verzoek van een of meer van de erfgenamen het toetsingsinkomen dat betrekking heeft op het jaar voorafgaand aan het berekeningsjaar als toetsingsinkomen in aanmerking genomen.   
 
 ### Artikel  8a  
 
@@ -154,7 +155,7 @@ a. ten aanzien van degene die binnenlandse belastingplichtige is voor de inkomst
 
 b. ten aanzien van degene die buitenlandse belastingplichtige is voor de inkomstenbelasting: het verschil tussen enerzijds het verzamelinkomen dat hij zou hebben genoten ingeval hij op de voet van [artikel 2.5 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zou hebben gekozen voor toepassing van de regels voor binnenlandse belastingplichtigen en, in geval van vrijstelling op grond van bepalingen van interregionaal of internationaal recht, zonder die vrijstelling, en anderzijds het verzamelinkomen dat hij heeft genoten als buitenlandse belastingplichtige;  
 
-c. ten aanzien degene die geen belastingplichtige is voor de inkomstenbelasting: het verzamelinkomen dat hij zou hebben genoten ingeval hij binnenlandse belastingplichtige zou zijn voor die belasting en, in geval van vrijstelling op grond van bepalingen van interregionaal of internationaal recht, zonder die vrijstelling.     
+c. ten aanzien van degene die geen belastingplichtige is voor de inkomstenbelasting: het verzamelinkomen dat hij zou hebben genoten ingeval hij binnenlandse belastingplichtige zou zijn voor die belasting en, in geval van vrijstelling op grond van bepalingen van interregionaal of internationaal recht, zonder die vrijstelling.     
 3.  Indien er grond is voor het vermoeden dat vaststelling van het niet in Nederland belastbaar inkomen ten onrechte achterwege is gelaten of dat dit inkomen tot een te laag bedrag is vastgesteld, kan de inspecteur alsnog het niet in Nederland belastbaar inkomen vaststellen dan wel het vastgestelde niet in Nederland belastbaar inkomen herzien.   
 4.  Bij de in het eerste lid bedoelde vaststelling van het niet in Nederland belastbaar inkomen zijn, in afwijking in zoverre van de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [hoofdstukken VA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [VIIIA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van toepassing als betrof het de vaststelling van een aanslag inkomstenbelasting.   
 5.  Bij de in het derde lid bedoelde vaststelling dan wel herziening van het niet in Nederland belastbaar inkomen zijn, in afwijking in zoverre van de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [hoofdstukken VA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [VIIIA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van toepassing als betrof het de vaststelling van een navorderingsaanslag inkomstenbelasting.   
@@ -207,12 +208,6 @@ a. een door de Belastingdienst/Toeslagen verbeurde dwangsom € 10 bedraagt voo
 
 b. de Belastingdienst/Toeslagen geen dwangsom verbeurt indien de toekenning van de tegemoetkoming leidt tot een na te betalen of terug te vorderen bedrag kleiner dan € 30.     
 3.  Voor de toepassing van dit hoofdstuk kan Onze Minister bij ministeriële regeling [paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor een bij die regeling te bepalen periode geheel of gedeeltelijk buiten toepassing verklaren indien er sprake is van een ernstige verstoring in het uitvoeringsproces, die het naar zijn oordeel aannemelijk maakt dat door belanghebbenden, als direct gevolg van de ernstige storing, massaal een beroep wordt gedaan op de dwangsomregeling, bedoeld in deze paragraaf. Na het tot stand komen van deze ministeriële regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken.   
-
-### Artikel  13  
-
-####Gebruik burgerservicenummer of sociaal-fiscaalnummer
-
-De Belastingdienst/Toeslagen maakt voor de uitvoering van deze wet gebruik van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.  
 
 ### Paragraaf  2  
 
@@ -363,9 +358,9 @@ a. zolang gerede twijfel bestaat over de juistheid van het adresgegeven van de b
 
 b. indien er op het moment dat na de laatste dag van het berekeningsjaar waarop de tegemoetkoming betrekking heeft vijf jaren zijn verstreken: 
 
-10. gerede twijfel bestaat over de juistheid van het adresgegeven van de belanghebbende,     of 
+10. gerede twijfel bestaat over de juistheid van het adresgegeven van de belanghebbende, of  
 
-20. dit gegeven ontbreekt.    
+20. dit gegeven ontbreekt.      
 
 ### Artikel  25  
 
@@ -489,8 +484,8 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../
 1.  Openbare lichamen met uitzondering van de openbare lichamen Bonaire, Sint Eustatius en Saba en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede lichamen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, en ieder ander die bij algemene maatregel van bestuur is aangewezen verstrekken op bij algemene maatregel van bestuur te bepalen wijze aan de Belastingdienst/Toeslagen kosteloos de gegevens en inlichtingen waarvan de kennisneming van belang kan zijn voor de uitvoering van deze wet.   
 2.  De gegevens en inlichtingen worden verstrekt binnen een door de Belastingdienst/Toeslagen te stellen termijn.   
 3.  Indien de gevraagde gegevens of inlichtingen niet op tijd zijn verstrekt, maant de Belastingdienst/Toeslagen aan onder het stellen van een nadere termijn om alsnog de gevraagde gegevens en inlichtingen te verstrekken.   
-4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de vermelding van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene op wie de gegevens en inlichtingen betrekking hebben bij het verstrekken van de gegevens en inlichtingen.   
-5.  In de gevallen waarin het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer dient te worden vermeld, is degene op wie de in het eerste lid bedoelde gegevens en inlichtingen betrekking hebben gehouden zijn burgerservicenummer of, bij het ontbreken daarvan, zijn sociaal-fiscaalnummer te verstrekken aan de in het eerste lid bedoelde openbare lichamen met uitzondering van de openbare lichamen Bonaire, Sint Eustatius en Saba en rechtspersonen alsmede degenen die ingevolge het eerste lid bij algemene maatregel van bestuur zijn aangewezen.   
+4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de vermelding van het burgerservicenummer van degene op wie de gegevens en inlichtingen betrekking hebben bij het verstrekken van de gegevens en inlichtingen.   
+5.  In de gevallen waarin het burgerservicenummer dient te worden vermeld, is degene op wie de in het eerste lid bedoelde gegevens en inlichtingen betrekking hebben gehouden zijn burgerservicenummer te verstrekken aan de in het eerste lid bedoelde openbare lichamen met uitzondering van de openbare lichamen Bonaire, Sint Eustatius en Saba en rechtspersonen alsmede degenen die ingevolge het eerste lid bij algemene maatregel van bestuur zijn aangewezen.   
 
 ### Artikel  38a  
 
@@ -502,7 +497,7 @@ De Belastingdienst/Toeslagen kan onder bij of krachtens algemene maatregel van b
 
 ####Informatie-uitwisseling
 
-1.  De Belastingdienst/Toeslagen en de inspecteur en de ontvanger wisselen de gegevens en inlichtingen uit die nodig zijn voor de uitvoering van deze wet en voor de heffing en invordering van rijksbelastingen, onder vermelding van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene op wie de gegevens of inlichtingen betrekking hebben.   
+1.  De Belastingdienst/Toeslagen en de inspecteur en de ontvanger wisselen de gegevens en inlichtingen uit die nodig zijn voor de uitvoering van deze wet en voor de heffing en invordering van rijksbelastingen, onder vermelding van het burgerservicenummer van degene op wie de gegevens of inlichtingen betrekking hebben.   
 2.  Onze Minister verstrekt aan Onze Ministers wie het aangaat de inlichtingen die zij nodig hebben voor de beleidsvorming en beleidsevaluatie alsmede voor het volgen van de ontwikkeling van de uitgaven, met betrekking tot inkomensafhankelijke regelingen.   
 3.  Onze Ministers wie het aangaat verstrekken aan Onze Minister de inlichtingen die hij nodig heeft voor de uitvoering van inkomensafhankelijke regelingen door de Belastingdienst/Toeslagen.   
 

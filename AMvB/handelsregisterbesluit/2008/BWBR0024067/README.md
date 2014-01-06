@@ -48,7 +48,7 @@ b. commissaris: een lid van een toezichthoudend orgaan.
 ### Artikel  2  
 
 1.  Van een onderneming is sprake indien een voldoende zelfstandig optredende organisatorische eenheid van één of meer personen bestaat waarin door voldoende inbreng van arbeid of middelen, ten behoeve van derden diensten of goederen worden geleverd of werken tot stand worden gebracht met het oogmerk daarmee materieel voordeel te behalen.   
-2.  Van een onderneming is geen sprake indien er naar het oordeel van de kamer onvoldoende omvang van activiteiten of omzet is.   
+2.  Van een onderneming is geen sprake indien er naar het oordeel van de Kamer onvoldoende omvang van activiteiten of omzet is.   
 
 ### Hoofdstuk  2  
 
@@ -56,21 +56,21 @@ b. commissaris: een lid van een toezichthoudend orgaan.
 
 ### Artikel  3  
 
-1.  Voor het doen van een opgave ter inschrijving in het handelsregister bij een kamer wordt gebruik gemaakt van een door de kamer vastgesteld formulier dat kosteloos verkrijgbaar is.   
-2.  De kamer kan ermee instemmen dat een opgave op andere wijze geschiedt dan in het eerste lid bepaald.   
-3.  Voor zover een kamer niet op grond van de [Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) of [artikel 19 van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) zorg draagt voor de mogelijkheid tot elektronische uitwisseling van gegevens en bescheiden, draagt een kamer er zorg voor dat gegevens en bescheiden langs elektronische weg ontvangen kunnen worden indien voor die gegevens en bescheiden een plicht tot neerlegging bestaat op grond van richtlijn nr. 68/151/EEG van de Raad van de Europese Gemeenschappen van 9 maart 1968 strekkende tot het coördineren van de waarborgen, welke in de Lid-Staten worden verlangd van de vennootschappen in de zin van de tweede alinea van artikel 58 van het Verdrag, om de belangen te beschermen zowel van de deelnemers in deze vennootschappen als van derden, zulks ten einde die waarborgen gelijkwaardig te maken (PbEG L 65).   
+1.  Voor het doen van een opgave ter inschrijving in het handelsregister bij de Kamer wordt gebruik gemaakt van een door de Kamer vastgesteld formulier dat kosteloos verkrijgbaar is.   
+2.  De Kamer kan ermee instemmen dat een opgave op andere wijze geschiedt dan in het eerste lid bepaald.   
+3.  Voor zover de Kamer niet op grond van de [Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) of [artikel 19 van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) zorg draagt voor de mogelijkheid tot elektronische uitwisseling van gegevens en bescheiden, draagt de Kamer er zorg voor dat gegevens en bescheiden langs elektronische weg ontvangen kunnen worden indien voor die gegevens en bescheiden een plicht tot neerlegging bestaat op grond van richtlijn nr. 68/151/EEG van de Raad van de Europese Gemeenschappen van 9 maart 1968 strekkende tot het coördineren van de waarborgen, welke in de Lid-Staten worden verlangd van de vennootschappen in de zin van de tweede alinea van artikel 58 van het Verdrag, om de belangen te beschermen zowel van de deelnemers in deze vennootschappen als van derden, zulks ten einde die waarborgen gelijkwaardig te maken (PbEG L 65).   
 4.  Een wijziging van de richtlijn, genoemd in het derde lid, gaat voor de toepassing van het bij of krachtens dit besluit bepaalde gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
 
 ### Artikel  4  
 
-1.  De kamer onderzoekt of een opgave afkomstig is van iemand die tot het doen ervan bevoegd is, en of de opgave juist is, tenzij in Nederland of een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte reeds onderzoek naar gelijkwaardige eisen is verricht en hieruit blijkt dat de opgave aan de eisen voldoet.   
-2.  De kamer kan bij een onderzoek nadere bewijsstukken vragen.   
-3.  Indien de kamer ervan overtuigd is dat de opgave is gedaan door iemand die tot het doen ervan bevoegd is en van oordeel is dat de opgave juist is, gaat zij onverwijld over tot inschrijving.   
+1.  De Kamer onderzoekt of een opgave afkomstig is van iemand die tot het doen ervan bevoegd is, en of de opgave juist is, tenzij in Nederland of een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte reeds onderzoek naar gelijkwaardige eisen is verricht en hieruit blijkt dat de opgave aan de eisen voldoet.   
+2.  De Kamer kan bij een onderzoek nadere bewijsstukken vragen.   
+3.  Indien de Kamer ervan overtuigd is dat de opgave is gedaan door iemand die tot het doen ervan bevoegd is en van oordeel is dat de opgave juist is, gaat zij onverwijld over tot inschrijving.   
 
 ### Artikel  5  
 
-1.  De kamer weigert om tot inschrijving over te gaan indien zij er niet van overtuigd is dat de opgave afkomstig is van een tot opgave bevoegd persoon.   
-2.  De kamer kan weigeren om tot inschrijving over te gaan indien: 
+1.  De Kamer weigert om tot inschrijving over te gaan indien zij er niet van overtuigd is dat de opgave afkomstig is van een tot opgave bevoegd persoon.   
+2.  De Kamer kan weigeren om tot inschrijving over te gaan indien: 
 
 a. de opgave strijdig is met een wettelijk voorschrift, het recht, de openbare orde of de goede zeden;  
 
@@ -80,8 +80,8 @@ c. de opgave strijdig is met de reeds over de onderneming of rechtspersoon opgen
 
 d. de opgave strijdig is met gegevens uit een ander basisregister;  
 
-e. de kamer gerede twijfel heeft over de juistheid van de opgave.     
-3.  Indien de kamer degene die de opgave doet in de gelegenheid heeft gesteld de opgave aan te vullen of te wijzigen, stelt zij indien nodig de opgave weer ter beschikking van degene die de opgave heeft gedaan.   
+e. de Kamer gerede twijfel heeft over de juistheid van de opgave.     
+3.  Indien de Kamer degene die de opgave doet in de gelegenheid heeft gesteld de opgave aan te vullen of te wijzigen, stelt zij indien nodig de opgave weer ter beschikking van degene die de opgave heeft gedaan.   
 
 ### Artikel  6  
 
@@ -130,7 +130,7 @@ Bij de opgave ter inschrijving van een Europese naamloze vennootschap, een Europ
 ### Artikel  9  
 
 1.  Een wijziging van hetgeen in het handelsregister is opgenomen, wordt opgegeven met vermelding van de datum waarop de wijziging is ingegaan.   
-2.  De kamer vermeldt zo mogelijk de datum waarop de wijziging is ingegaan indien tot wijziging wordt besloten op grond van de [artikelen 34 tot en met 36 van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
+2.  De Kamer vermeldt zo mogelijk de datum waarop de wijziging is ingegaan indien tot wijziging wordt besloten op grond van de [artikelen 34 tot en met 36 van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
 3.  In het handelsregister wordt, indien een gegeven geen derdenwerking heeft ingevolge artikel 50, een aantekening opgenomen dat het gegeven geen derdenwerking heeft.   
 
 ### Artikel  10  
@@ -147,7 +147,9 @@ In het handelsregister worden over een onderneming opgenomen:
 
 a. het aantal werkzame personen, onderverdeeld naar vestiging, op de eerste werkdag na 30 april van enig kalenderjaar;  
 
-b. een korte aanduiding van de uitgeoefende activiteit of activiteiten.    
+b. een korte aanduiding van de uitgeoefende activiteit of activiteiten;  
+
+c. de naam van de berichtenbox van het centraal loket, bedoeld in [artikel 5, eerste lid, onderdeel a, onder 2° van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md).    
 
 ### Artikel  11a  
 
@@ -182,7 +184,9 @@ b. het postadres.
 
 a. het bezoekadres;  
 
-b. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres.     
+b. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;  
+
+c. de naam van de berichtenbox van het centraal loket, bedoeld in [artikel 5, eerste lid, onderdeel a, onder 2° van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md).     
 
 ### §  4  
 
@@ -268,14 +272,20 @@ a. de persoonlijke gegevens van iedere bestuurder en commissaris, van ieder lid 
 
 b. de persoonlijke gegevens van anderen dan de bestuurders aan wie de statuten de bevoegdheid tot vertegenwoordiging toekennen en de inhoud van de bevoegdheid;  
 
-c. het maatschappelijke kapitaal en het bedrag van het geplaatste kapitaal en van het gestorte deel daarvan, onderverdeeld naar soort indien er verschillende soorten aandelen zijn;  
+c. het geplaatste kapitaal en het gestorte deel ervan;  
 
-d. indien niet-volgestorte aandelen zijn uitgegeven, de persoonlijke gegevens met uitzondering van de handtekening van de houders van zulke aandelen, met vermelding van het aandelenbezit van iedere houder en van het daarop gestorte bedrag;  
+d.  vervallen;   
 
 e. de persoonlijke gegevens met uitzondering van de handtekening van de houder van alle aandelen in het kapitaal van de vennootschap of van een deelgenoot in een huwelijksgemeenschap dan wel een gemeenschap van een geregistreerd partnerschap waartoe alle aandelen in het kapitaal van de vennootschap behoren, de aandelen gehouden door de vennootschap of haar dochtermaatschappijen niet meegeteld;  
 
 f. indien zulks het geval is, dat de statuten van de vennootschap beantwoorden aan de [artikelen 158 tot en met 161](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [164](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de [artikelen 268 tot en met 271](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [274 van boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
 2.  Indien een vennootschap als bedoeld in het eerste lid een beleggingsmaatschappij met veranderlijk kapitaal als bedoeld in [artikel 76a van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is, wordt het bedrag opgegeven van het ingeschreven kapitaal op de eerste werkdag na 30 april. Tussentijds kunnen in het handelsregister wijzigingen van het ingeschreven kapitaal worden opgegeven.   
+3.  In het handelsregister wordt over een naamloze vennootschap, een Europese naamloze vennootschap en een Europese coöperatieve vennootschap opgenomen: 
+
+a. het maatschappelijk kapitaal en wordt het bedrag van het geplaatste kapitaal en het gestorte deel ervan, bedoeld in het eerste lid, onderdeel c, onderverdeeld naar soort, indien er verschillende soorten aandelen zijn;  
+
+b. indien niet volgestorte aandelen zijn uitgegeven, de persoonlijke gegevens met uitzondering van de handtekening van de houders van zulke aandelen, met vermelding van het aandelenbezit van iedere houder en van het daarop gestorte bedrag.     
+4.  In het handelsregister wordt opgenomen of een bestuurder al dan niet uitvoerend is.   
 
 ### §  4.3.3  
 
@@ -418,6 +428,17 @@ c. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;
 
 d. de gegevens, genoemd in het derde lid.     
 
+### §  4.3.7a  
+
+####Pensioenfondsen
+
+Treedt in werking per 01-07-2014   
+
+### Artikel  31a   
+Treedt in werking per 01-07-2014   
+
+In het handelsregister wordt over een pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md) opgenomen of een bestuurder al dan niet uitvoerend is.  
+
 ### §  4.3.8  
 
 ####Overige privaatrechtelijke rechtspersonen
@@ -466,7 +487,7 @@ b. een korte aanduiding van de uitgeoefende activiteit of activiteiten.
 
 ### Artikel  35a  
 
-Over een bestuurder of een gevolmachtigde of een andere functionaris die niet een natuurlijk persoon is en die niet is ingeschreven in het handelsregister kan een door de kamer toe te kennen uniek nummer worden opgenomen. De Belastingdienst verstrekt daartoe op verzoek van de kamer de bij hem bekende nummers van deze gevolmachtigden of functionarissen.  
+Over een bestuurder of een gevolmachtigde of een andere functionaris die niet een natuurlijk persoon is en die niet is ingeschreven in het handelsregister kan een door de Kamer toe te kennen uniek nummer worden opgenomen. De Belastingdienst verstrekt daartoe op verzoek van de Kamer de bij hem bekende nummers van deze gevolmachtigden of functionarissen.  
 
 ### §  6  
 
@@ -521,7 +542,7 @@ Alle aankondigingen die ingevolge de [Wet op het financieel toezicht](../../../.
 
 ### Artikel  42  
 
-In het handelsregister worden over de melding en het onderzoek alle gegevens opgenomen die de kamer die het onderzoek heeft verricht noodzakelijk acht voor het functioneren van het register.  
+In het handelsregister worden over de melding en het onderzoek alle gegevens opgenomen die de Kamer noodzakelijk acht voor het functioneren van het register.  
 
 ### Hoofdstuk  5  
 
@@ -529,11 +550,11 @@ In het handelsregister worden over de melding en het onderzoek alle gegevens opg
 
 ### Artikel  43  
 
-De persoonlijke gegevens van natuurlijke personen, met uitzondering van de handtekening, worden overgenomen uit de basisadministratie, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), met inbegrip van de datum waarop wijzigingen van die gegevens zijn ingegaan.  
+De persoonlijke gegevens van natuurlijke personen, met uitzondering van de handtekening, worden overgenomen uit de basisregistratie personen, met inbegrip van de datum waarop wijzigingen van die gegevens zijn ingegaan.  
 
 ### Artikel  44  
 
-De gegevens die worden overgenomen uit de basisadministratie, bedoeld in artikel 43, verschillen ten hoogste 72 uur met de gegevens in die basisadministratie.  
+De gegevens die worden overgenomen uit de basisregistratie personen verschillen ten hoogste 72 uur met de gegevens in die basisregistratie.  
 
 ### Hoofdstuk  6  
 
@@ -556,7 +577,7 @@ e. indien mogelijk een indicatie van het juiste gegeven met onderbouwende stukke
 
 f. de datum van de melding en de datum van de constatering van de vermoedelijke onjuistheid van het gegeven.     
 3.  Indien de melding betrekking heeft op een onderneming of rechtspersoon die niet in het register is opgenomen wordt dat op het formulier aangegeven.   
-4.  Indien de melding betrekking heeft op een gegeven dat is overgenomen uit een ander basisregister, zendt de kamer de melding binnen één werkdag door aan de beheerder van dat register.   
+4.  Indien de melding betrekking heeft op een gegeven dat is overgenomen uit een ander basisregister, zendt de Kamer de melding binnen één werkdag door aan de beheerder van dat register.   
 
 ### Artikel  46  
 
@@ -564,9 +585,9 @@ Een aantekening, dat een gegeven in onderzoek is, wordt geplaatst bij het gegeve
 
 ### Artikel  47  
 
-Een kamer informeert het bestuursorgaan dat een melding heeft gedaan over: 
+De Kamer informeert het bestuursorgaan dat een melding heeft gedaan over: 
 
-a. het besluit dat deze kamer neemt naar aanleiding van de melding;  
+a. het besluit dat de Kamer neemt naar aanleiding van de melding;  
 
 b. het feit dat tegen het onder a bedoelde besluit bezwaar is gemaakt en de beslissing op dat bezwaar;  
 
@@ -578,7 +599,7 @@ Als gegevens als bedoeld in [artikel 38, tweede lid, van de wet](../../../../wet
 
 ### Artikel  49  
 
-Indien bij rechterlijke uitspraak hetgeen in het handelsregister is opgenomen geheel of gedeeltelijk onrechtmatig is verklaard, doet de kamer op verzoek van een belanghebbende daarvan aantekening in het register.  
+Indien bij rechterlijke uitspraak hetgeen in het handelsregister is opgenomen geheel of gedeeltelijk onrechtmatig is verklaard, doet de Kamer op verzoek van een belanghebbende daarvan aantekening in het register.  
 
 ### Hoofdstuk  7  
 
@@ -608,9 +629,9 @@ e. houder of gewezen houder van niet volgestorte aandelen,
 
 f. vereffenaar of gewezen vereffenaar of  
 
-g. beheerder of gewezen beheerder, bedoeld in artikel 24, derde lid, artikel 25, derde lid, onder b, of artikel 26, derde lid, onder b   van een rechtspersoon kan niet worden ingezien, behalve door bestuursorganen, advocaten, deurwaarders, notarissen en de in [artikel 28, derde lid, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) genoemde organisaties.   
+g. beheerder of gewezen beheerder, bedoeld in artikel 24, derde lid, artikel 25, derde lid, onder b, of artikel 26, derde lid, onder b   van een rechtspersoon kan niet worden ingezien, behalve door bestuursorganen, als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), advocaten, deurwaarders, notarissen en de in [artikel 28, derde lid, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) genoemde organisaties.   
 2.  Het eerste lid is niet van toepassing op bestuurders van verenigingen zonder volledige rechtsbevoegdheid, verenigingen van eigenaars en overige privaatrechtelijke rechtspersonen, bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
-3.  Het adres van een natuurlijk persoon kan op zijn verzoek worden afgeschermd tegen inzage door anderen dan bestuursorganen, advocaten, deurwaarders, notarissen en de in [artikel 28, derde lid, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) genoemde organisaties, indien: 
+3.  Het adres van een natuurlijk persoon kan op zijn verzoek worden afgeschermd tegen inzage door anderen dan bestuursorganen, als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), advocaten, deurwaarders, notarissen en de in [artikel 28, derde lid, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) genoemde organisaties, indien: 
 
 a. er sprake is van een waarschijnlijke dreiging;  
 
@@ -631,7 +652,7 @@ a. de Europese coöperatieve vennootschap;
 b. de vennootschappen, bedoeld in artikelen 24 en 25;  
 
 c. de vennootschappen bedoeld in artikel 17, voor zover de niet-commanditaire vennoten daarvan kapitaalvennootschappen naar buitenlands recht zijn.     
-2.  Als gegevens en bescheiden, bedoeld in [artikel 24, derde lid, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), worden aangewezen, alle gegevens ten aanzien waarvan geen publicatieplicht geldt op grond van een bindend besluit van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen.   
+2.  Als gegevens en bescheiden, bedoeld in [artikel 24, derde lid, van de wet](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), worden aangewezen, alle gegevens ten aanzien waarvan geen publicatieplicht geldt op grond van een bindend besluit van de Raad van de Europese Unie of de Europese Commissie.   
 
 ### Artikel  53  
 
