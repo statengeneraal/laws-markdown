@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-Het vacatiegeld dat de leden en de plaatsvervangende leden van de commissie voor de stuurliedenexamens, van de commissie voor de examens van scheepswerktuigkundigen en van de commissie voor de zeevisvaartexamens ontvangen, voor zover de oorzaak van hun benoeming niet is gelegen in het ambt dat zij bekleden, wordt vastgesteld op € 86 per dag.  
+Het vacatiegeld dat de leden en de plaatsvervangende leden van de commissie voor de stuurliedenexamens, van de commissie voor de examens van scheepswerktuigkundigen en van de commissie voor de zeevisvaartexamens ontvangen, voor zover de oorzaak van hun benoeming niet is gelegen in het ambt dat zij bekleden, wordt vastgesteld op € 86 per dag. 
 
 ### Artikel  2  
 
-De beschikking van de Minister van Verkeer en Waterstaat van 15 juli 1988, Directie personeelszaken, nr. 88/P 21128, wordt ingetrokken.  
+De beschikking van de Minister van Verkeer en Waterstaat van 15 juli 1988, Directie personeelszaken, nr. 88/P 21128, wordt ingetrokken. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 1994.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 1994. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

@@ -8,15 +8,15 @@ Besluiten:
 
 ### Artikel  1  
 
-Voor subsidieverlening namens de minister van Buitenlandse Zaken en namens de minister voor Buitenlandse Handel en Ontwikkelingssamenwerking door de Nederlandse ambassade in Sarajevo op grond van [artikel 2.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) geldt voor de periode vanaf 15 januari tot en met 31 december 2014 een subsidieplafond van € 0,00 en voor subsidieverlening op grond van [artikel 2.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) een subsidieplafond van € 100.000.  
+Voor subsidieverlening namens de minister van Buitenlandse Zaken en namens de minister voor Buitenlandse Handel en Ontwikkelingssamenwerking door de Nederlandse ambassade in Sarajevo op grond van [artikel 2.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) geldt voor de periode vanaf 15 januari tot en met 31 december 2014 een subsidieplafond van € 0,00 en voor subsidieverlening op grond van [artikel 2.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) een subsidieplafond van € 100.000. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2015.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2015. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
 minister van Buitenlandse Zaken en de 
-minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens dezen,
-de ambassadeur van de Nederlandse ambassade van het Koninkrijk der Nederlanden te Sarajevo,
-J.Kraak   
+minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens dezen, 
+de ambassadeur van de Nederlandse ambassade van het Koninkrijk der Nederlanden te Sarajevo, 
+J. Kraak     

@@ -18,11 +18,11 @@ In deze richtlijn voor strafvordering wordt de aansprakelijkheid van de vervoerd
 
 ### Hoofdstuk  1  
 
-#### [Artikel 4 Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) 
+####[Artikel 4 Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)
 
 ### 1.1  
 
-#### [Art. 4, eerste lid, Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) 
+####[Art. 4, eerste lid, Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)
 
 [Artikel 4, eerste lid, Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) legt op ‘de vervoerder door wiens tussenkomst een vreemdeling aan een buitengrens of binnen het grondgebied van Nederland wordt gebracht’ de verplichting dat hij de nodige maatregelen neemt en het redelijkerwijs te vorderen toezicht houdt om te voorkomen dat een vreemdeling inreist zonder de vereiste grensoverschrijdings- en identiteitsbescheiden (zoals bedoeld in [artikel 3 eerste lid, onder a van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en artikel 5, eerste lid, onder a van de Verordening 562/2006/EG (de Schengengrenscode)).    
 ### 1.2  
@@ -44,7 +44,7 @@ De precieze inhoud van de zorgplicht, het nemen van de ‘nodige maatregelen’ 
 
 ####Risicodragende lijnen
 
-Met risicodragende lijnen wordt gedoeld op lijnen waarover, naar de ervaring heeft geleerd, relatief meer niet of onjuist gedocumenteerde vreemdelingen plegen te reizen, waaronder bijvoorbeeld personen die hun identiteitsbescheiden tijdens de vlucht of vaart vernietigen. In het [Voorschrift Vreemdelingen 2000](../../../../../../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) worden de uitgangspunten van het [Vreemdelingenbesluit 2000](../../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) uitgewerkt. Dit Voorschrift bevat een [bijlage](../../../../../../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) met afschriftplichtige (lucht)havens die ieder half jaar wordt geactualiseerd. <sup> 1  Vreemdelingenbesluit 2000, *Stb*. 2000, 497.  </sup> <sup> 2  Voorschrift Vreemdelingen 2000, *Stcrt*. 2001, 10.  </sup>    
+Met risicodragende lijnen wordt gedoeld op lijnen waarover, naar de ervaring heeft geleerd, relatief meer niet of onjuist gedocumenteerde vreemdelingen plegen te reizen, waaronder bijvoorbeeld personen die hun identiteitsbescheiden tijdens de vlucht of vaart vernietigen. In het [Voorschrift Vreemdelingen 2000](../../../../../../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) worden de uitgangspunten van het [Vreemdelingenbesluit 2000](../../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)<sup> 1 Vreemdelingenbesluit 2000, *Stb*. 2000, 497. </sup> uitgewerkt. Dit Voorschrift bevat een [bijlage](../../../../../../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) met afschriftplichtige (lucht)havens die ieder half jaar wordt geactualiseerd.<sup> 2 Voorschrift Vreemdelingen 2000, *Stcrt*. 2001, 10. </sup>     
 ### 1.6  
 
 ####Daderschap en strafuitsluiting
@@ -83,7 +83,7 @@ Wanneer de vervoerder, die daartoe verplicht was, heeft nagelaten een afschrift 
 
 In dit hoofdstuk komt het transactie- en vervolgingsbeleid ten aanzien van de [artikelen 4](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [108 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (Vw) aan de orde. Artikel 4 Vw gaat over de toegang tot Nederland en in art. 108 Vw zijn de strafbepalingen te vinden (zie bijlage). Overtreding van [artikel 4, eerste en tweede lid](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), het nalaten van de zorg- of afschriftplicht, alsmede overtreding van artikel 4, derde lid, verzamelen en verstrekken van passagiersgegevens, kan worden bestraft met geldboete van de vierde categorie of hechtenis van zes maanden. In alle gevallen waarin als gevolg van het nalaten van de zorg- of afschriftplicht een niet of onjuist gedocumenteerde vreemdeling binnen Nederland is gebracht, wordt voor de vervoerder proces-verbaal opgemaakt Alle processen-verbaal worden doorgezonden aan het Openbaar Ministerie. Ongeacht of de zorgplicht dan wel de afschriftplicht is nagelaten zal een sanctie volgen, waarbij in beginsel eerst een transactie wordt aangeboden door het Openbaar Ministerie. De hoogte van het transactiebedrag wordt ingegeven door de ernst van het feit, met name het ongewenste gevolg van het inreizen van zogenaamde technisch onuitzetbare vreemdelingen en de daarmee gepaard gaande kosten, onder meer veroorzaakt door het niet kunnen effectueren van de civiele terugnameclaim op grond van [artikel 65 Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en de noodzaak tot het voeren van wellicht bij voorbaat kansloze asielaanvragen. Voorts zullen de strafbare feiten van [artikel 4 Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) veelal worden gepleegd door een rechtspersoon. Ook dit rechtvaardigt de strafmaat. Het besluit te dagvaarden dient mede te worden genomen in het licht van de publicitaire aandacht die aan de openbare behandeling van een strafzaak kan worden besteed.  
 
-|--- |--- |  *Transactie*   |--- |  *Eis ter zitting (verhoging met 20%)*   |
+|--- |--- |  *Transactie *   |--- |  *Eis ter zitting (verhoging met 20%)*   |
 |:---|:---|:---|:---|:---|
 | First offender  | --- |  *€ 4100*   | --- |  *€ 4900*   |
 | 1 x recidive (verhoging met 50%)  | --- |  *€ 6150*   | --- |  *€  400*   |
@@ -96,9 +96,9 @@ Bij eenmalige recidive binnen vijf jaar of indien er meerdere vreemdelingen per 
 
 Deze richtlijn voor strafvordering is uitsluitend geldig ten aanzien van strafbare feiten gepleegd vanaf de datum van inwerkingtreding van deze richtlijn.    
 
-### Bijlage  
+### Bijlage 
 
-####met wetsartikelen
+#### met wetsartikelen
 
 ####[Artikel 4 Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (Uit [hfdst. 2](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Toegang)
 
@@ -110,7 +110,7 @@ Deze richtlijn voor strafvordering is uitsluitend geldig ten aanzien van strafba
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste tot en met het derde lid.  
 
-5. Het eerste tot en met het derde lid zijn ook van toepassing op iedere vervoerder die zich buiten Nederland schuldig maakt aan schending van de in die leden bedoelde verplichtingen.    
+5. Het eerste tot en met het derde lid zijn ook van toepassing op iedere vervoerder die zich buiten Nederland schuldig maakt aan schending van de in die leden bedoelde verplichtingen.   
 
 ####[Artikel 108 Vw](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (Uit [hfdst. 8 algemene en strafbepalingen, paragraaf 2](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Strafbepalingen)
 
@@ -122,5 +122,5 @@ Deze richtlijn voor strafvordering is uitsluitend geldig ten aanzien van strafba
 
 4. Met de opsporing van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren belast met de grensbewaking en ambtenaren belast met het vreemdelingentoezicht. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een aanwijzing, vordering of handeling, gedaan of ondernomen door henzelf.  
 
-5. In afwijking van het eerste lid wordt handelen in strijd met een verplichting, opgelegd bij of krachtens [artikel 54, eerste lid, onder b of e](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), gestraft met ten hoogste een hechtenis van een maand of een geldboete van de tweede categorie, indien het feit wordt begaan door een gemeenschapsonderdaan. Het derde lid en de eerste volzin van het vierde lid zijn van overeenkomstige toepassing.    
+5. In afwijking van het eerste lid wordt handelen in strijd met een verplichting, opgelegd bij of krachtens [artikel 54, eerste lid, onder b of e](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), gestraft met ten hoogste een hechtenis van een maand of een geldboete van de tweede categorie, indien het feit wordt begaan door een gemeenschapsonderdaan. Het derde lid en de eerste volzin van het vierde lid zijn van overeenkomstige toepassing.   
 

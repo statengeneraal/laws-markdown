@@ -15,25 +15,25 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid;  
+a.  *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid;  
 
-b. *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
+b.  *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
 
-c. *bewindspersoon:* de Minister of een Staatssecretaris van Sociale Zaken en Werkgelegenheid;  
+c.  *bewindspersoon:* de Minister of een Staatssecretaris van Sociale Zaken en Werkgelegenheid;  
 
-d. *mandaat:* de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;  
+d.  *mandaat:* de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;  
 
-e. *volmacht:* de bevoegdheid om in naam van een bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;  
+e.  *volmacht:* de bevoegdheid om in naam van een bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;  
 
-f. *machtiging:* de bevoegdheid om in naam van een bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;  
+f.  *machtiging:* de bevoegdheid om in naam van een bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;  
 
-g. *vertegenwoordigingsbevoegdheid:* de bevoegdheid om namens een bewindspersoon, onder diens verantwoordelijkheid en met inachtneming van diens algemene en bijzondere aanwijzingen, besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten dan wel handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;  
+g.  *vertegenwoordigingsbevoegdheid:* de bevoegdheid om namens een bewindspersoon, onder diens verantwoordelijkheid en met inachtneming van diens algemene en bijzondere aanwijzingen, besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten dan wel handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;  
 
-h. *de inspecteur-generaal Sociale Zaken en Werkgelegenheid (IG SZW):* de functionaris genoemd in artikel 2, onderdeel e, die tevens is de inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+h. *de inspecteur-generaal Sociale Zaken en Werkgelegenheid (IG SZW):*de functionaris genoemd in artikel 2, onderdeel e, die tevens is de inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md); 
 
-i. *bedrijfsvoering:* de sturing en beheersing van bedrijfsprocessen om de gestelde (beleids)doelstellingen te kunnen realiseren;  
+i.  *bedrijfsvoering:* de sturing en beheersing van bedrijfsprocessen om de gestelde (beleids)doelstellingen te kunnen realiseren;  
 
-j. *Commissie Management Development:* de commissie, bestaande uit de functionarissen, genoemd in artikel 3, onderdelen a tot en met f, waarin managementbenoemingen en de selectie voor managementopleidingen plaatsvindt.    
+j.  *Commissie Management Development:* de commissie, bestaande uit de functionarissen, genoemd in artikel 3, onderdelen a tot en met f, waarin managementbenoemingen en de selectie voor managementopleidingen plaatsvindt.   
 
 ### Hoofdstuk  2  
 
@@ -45,23 +45,23 @@ j. *Commissie Management Development:* de commissie, bestaande uit de functionar
 
 Het ministerie bestaat uit de volgende organisatieonderdelen: 
 
-a. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de secretaris generaal: 
+a.de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de secretaris generaal:
 
-1°. de directie Financieel-economische Zaken;  
+1°.de directie Financieel-economische Zaken;
 
-2°. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden;  
+2°.de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden;
 
-3°. de directie Communicatie;    
+3°.de directie Communicatie; 
 
-b. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de plaatsvervangend secretaris-generaal: 
+b.de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de plaatsvervangend secretaris-generaal:
 
-1°. de directie Bedrijfsvoering;  
+1°.de directie Bedrijfsvoering;
 
-2°. de Auditdienst;  
+2°.de directie Bestuursondersteuning;
 
-3°. de directie Bestuursondersteuning;  
+3°.het Agentschap SZW;
 
-4°. het Agentschap SZW;    
+4°. de programmadirectie Huisvesting SZW en VWS;  
 
 c. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg: 
 
@@ -69,13 +69,13 @@ c. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder 
 
 2°. de directie Inkomensverzekeringen en -voorzieningen;  
 
-3°. de directie Relatiebeheer, Uitvoeringsontwikkeling en Aansturing;  
+3°. de directie Uitvoeringsbeleid en Naleving;  
 
-4°. de directie Naleving;  
+4°. de directie Integratie en Samenleving;  
 
 5°. een bureau DG-control;  
 
-6°. het programma Werken naar Vermogen;    
+6°. de afdeling Bedrijfsvoering, secretariaat en begroting-P&I;   
 
 d. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Werk: 
 
@@ -93,29 +93,23 @@ d. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder 
 
 7°. een bureau DG-control en Managementondersteuning;  
 
-8°. de directie Kinderopvang;    
+8°. de directie Kinderopvang;   
 
-e. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid: 
+e. de Inspectie SZW, bestaande uit hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid: 
 
-1°. de Sociale Inlichtingen- en Opsporingsdienst;  
+1°. de directie Analyse, Programmering en Signalering;  
 
-2°. de Arbeidsinspectie, bestaande uit: 
+2°. de directie Arbeidsmarktfraude;  
 
-– de directie AI Arbeidsomstandigheden;  
+3°. de directie Arbeidsomstandigheden;  
 
-– de directie AI Major Hazard Control;  
+4°. de directie Informatiehuishouding en Inspectieondersteuning;  
 
-– de directie AI Arbeidsmarktfraude;’  
+5°. de directie Major Hazard Control;  
 
-– een concernstaf AI;  
+6°. de directie Opsporing;  
 
-– de afdeling Personeelsontwikkeling AI;  
-
-– de afdeling Informatievoorziening AI;    
-
-3°. de Inspectie Werk en Inkomen;  
-
-4°. een stafbureau.      
+7°. de directie Werk en Inkomen.     
 
 ### Artikel  3  
 
@@ -131,8 +125,8 @@ c. de directeur-generaal Participatie en Inkomenswaarborg;
 
 d. de directeur-generaal Werk;  
 
-e. de inspecteur-generaal Sociale Zaken en Werkgelegenheid.     
-2.  Het in het eerste lid bedoelde overleg staat onder voorzitterschap van de secretaris-generaal en elk van de functionarissen neemt daaraan deel met volledig behoud van de eigen verantwoordelijkheden en bevoegdheden. Uit hoofde van zijn functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), neemt de inspecteur-generaal Sociale Zaken en Werkgelegenheid aan dit overleg deel op een zodanige wijze, dat dit in overeenstemming is met zijn verantwoordelijkheid voor de onafhankelijke uitvoering van de taken, genoemd in [artikel 37 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+e.de inspecteur-generaal Sociale Zaken en Werkgelegenheid.   
+2. Het in het eerste lid bedoelde overleg staat onder voorzitterschap van de secretaris-generaal en elk van de functionarissen neemt daaraan deel met volledig behoud van de eigen verantwoordelijkheden en bevoegdheden. Uit hoofde van zijn functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), neemt de inspecteur-generaal Sociale Zaken en Werkgelegenheid aan dit overleg deel op een zodanige wijze, dat dit in overeenstemming is met zijn verantwoordelijkheid voor de onafhankelijke uitvoering van de taken, genoemd in [artikel 37 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).
 
 ### Hoofdstuk  3  
 
@@ -161,9 +155,9 @@ f. het toepassen van de [Ambtenarenwet](../../../../../../../../wet/ambtenarenwe
 
 g. het verlenen van ontslag op grond van [artikel 125e, tweede lid, van de Ambtenarenwet](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md);  
 
-h. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de functionarissen, genoemd in artikel 3, eerste lid, onderdelen b tot en met f, en op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in artikel 2, onderdeel a;  
+h. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de functionarissen, genoemd in artikel 3, eerste lid, onderdelen b tot en met e, en op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in artikel 2, onderdeel a;  
 
-i. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
+i. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).    
 
 ### Artikel  5  
 
@@ -176,56 +170,60 @@ a. beslissingen in bezwaar- en beroepsprocedures, met uitzondering van de beslis
 
 b. de in artikel 4, vierde lid, genoemde aangelegenheden, met uitzondering van het nemen van besluiten als bedoeld in de onderdelen f en g;  
 
-c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van minder dan € 500.000,–;  
+c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van ten hoogste € 500.000,–;  
 
 d. de kwijtschelding van vorderingen op derden van ten hoogste € 500.000,–.     
-3.  De secretaris-generaal is bevoegd tot uitoefening van alle bevoegdheden die zijn verleend aan onder hem ressorterende functionarissen, met dien verstande dat hij gehouden is om door de inspecteur-generaal Sociale Zaken en Werkgelegenheid uit hoofde van diens functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), respectievelijk uit hoofde van diens functie als algemeen directeur van de Arbeidsinspectie aangeboden inspectiebevindingen, jaarplannen, meerjarenplannen en jaarverslagen met betrekking tot inspectietaken van de Inspectie Werk en Inkomen respectievelijk de Arbeidsinspectie, ongewijzigd door te sturen naar de desbetreffende bewindsperso(o)n(en).   
-4.  De secretaris-generaal kan departementale projectorganisaties instellen en projectdirecteuren benoemen die leiding geven aan deze projectorganisaties.   
+3.  De secretaris-generaal is bevoegd tot uitoefening van alle bevoegdheden die zijn verleend aan onder hem ressorterende functionarissen, met dien verstande dat hij gehouden is om door de inspecteur-generaal Sociale Zaken en Werkgelegenheid aangeboden inspectiebevindingen, jaarplannen, meerjarenplannen en jaarverslagen met betrekking tot inspectietaken van de Inspectie SZW ongewijzigd door te sturen naar de desbetreffende bewindspersoon of -personen. Op het jaarplan en het jaarverslag voor de gehele Inspectie SZW is [artikel 38 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) van toepassing.   
+4.  De secretaris-generaal kan departementale projectorganisaties instellen en projectdirecteuren benoemen die leiding geven aan deze projectorganisaties.  
 
 ### Artikel  6  
 
 ####Verantwoordelijkheden plaatsvervangend secretaris-generaal
 
-1.  De plaatsvervangend secretaris-generaal vervangt de secretaris-generaal bij diens afwezigheid of verhindering. Hij treedt alsdan in de verantwoordelijkheden en bevoegdheden van de secretaris-generaal.   
-2.  De plaatsvervangend secretaris-generaal geeft rechtstreeks leiding aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel b.   
-3.  De plaatsvervangend secretaris-generaal stelt de jaarplannen vast van de organisatieonderdelen, genoemd in artikel 2, onderdeel b. Gegeven het budget dat door de secretaris-generaal aan de plaatsvervangend secretaris-generaal ter beschikking is gesteld, kent de plaatsvervangend secretaris-generaal aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel b, het budget toe waarover zij mogen beschikken. De plaatsvervangend secretaris-generaal bewaakt de voortgang van de uitvoering van de jaarplannen van de organisatieonderdelen, genoemd in artikel 2, onderdeel b.   
-4.  De plaatsvervangend secretaris-generaal is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel b, en hij is tevens verantwoordelijk voor een departementsbrede samenhangende bedrijfsvoering. Het werkterrein van de plaatsvervangend secretaris-generaal omvat in brede zin: 
+1.  De plaatsvervangend secretaris-generaal vervangt de secretaris-generaal bij diens afwezigheid of verhindering. Hij treedt alsdan in de verantwoordelijkheden en bevoegdheden van de secretaris-generaal.  
+2. De plaatsvervangend secretaris-generaal geeft rechtstreeks leiding aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel b. 
+3. De plaatsvervangend secretaris-generaal stelt de jaarplannen vast van de organisatieonderdelen, genoemd in artikel 2, onderdeel b. Gegeven het budget dat door de secretaris-generaal aan de plaatsvervangend secretaris-generaal ter beschikking is gesteld, kent de plaatsvervangend secretaris-generaal aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel b, het budget toe waarover zij mogen beschikken. De plaatsvervangend secretaris-generaal bewaakt de voortgang van de uitvoering van de jaarplannen van de organisatieonderdelen, genoemd in artikel 2, onderdeel b. 
+4. De plaatsvervangend secretaris-generaal is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel b, en hij is tevens verantwoordelijk voor een departementsbrede samenhangende bedrijfsvoering. Het werkterrein van de plaatsvervangend secretaris-generaal omvat in brede zin:
 
-a. het organisatie- en personeelsbeleid;  
+a.het organisatie- en personeelsbeleid;
 
-b. de ondersteuning van de directies van het ministerie op het gebied van personeelsbeheer, salarisadministratie, documentaire informatievoorziening, financieel beheer, bekostiging en financiële administratie;  
+b.de ondersteuning van de directies van het ministerie op het gebied van personeelsbeheer, salarisadministratie, documentaire informatievoorziening, financieel beheer, bekostiging en financiële administratie;
 
-c. het huisvestings- en beveiligingsbeleid voor wat betreft de Haagse vestigingen van het ministerie, met inbegrip van crisisbeheersing en milieumanagement, en de regie op het huisvestings- en beveilingsbeleid voor het gehele ministerie;  
+c.het huisvestings- en beveiligingsbeleid voor wat betreft de Haagse vestigingen van het ministerie, met inbegrip van crisisbeheersing en milieumanagement, en de regie op het huisvestings- en beveilingsbeleid voor het gehele ministerie;
 
-d. het automatiserings- en informatiseringsbeleid;  
+d.het automatiserings- en informatiseringsbeleid;
 
-e. overige facilitaire diensten, inclusief advisering op het gebied van inkoop en (Europese) aanbestedingen;  
+e.het inkoopbeleid;
 
-f. het behandelen van bezwaar- en beroepschriften en zaken van de Nationale ombudsman van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdend met de dienstbetrekking;  
+f. overige facilitaire diensten; 
 
-g. de inhoudelijke advisering en ondersteuning van de functionarissen, genoemd in artikel 3, eerste lid, en de inhoudelijke, logistieke, secretariële en protocollaire ondersteuning van de secretaris-generaal en de bewindspersonen;  
+g.het behandelen van bezwaar- en beroepschriften en zaken van de Nationale ombudsman van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdend met de dienstbetrekking;
 
-h. de uitvoering van de taken van de Auditdienst;  
+h.de inhoudelijke advisering en ondersteuning van de functionarissen, genoemd in artikel 3, eerste lid, en de inhoudelijke, logistieke, secretariële en protocollaire ondersteuning van de secretaris-generaal en de bewindspersonen;
 
-i. de uitvoering van de taken van het Agentschap SZW;  
+i. het fungeren namens het ministerie als opdrachtgever van de Auditdienst Rijk, daarin bijgestaan door de directeur Financieel-economische Zaken en de directeur Bedrijfsvoering; 
 
-j. de uitvoering van de door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fonds, van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen en van regelingen in opdracht van een partij buiten het ministerie voor zover de minister het Agentschap SZW met de uitvoering van die regelingen heeft belast.     
-5.  De plaatsvervangend secretaris-generaal is verantwoordelijk voor: 
+j. de uitvoering van de taken van het Agentschap SZW; 
 
-a. het bij schriftelijk besluit toedelen van taken aan de onder hem ressorterende organisatieonderdelen en aan de functionarissen die leiding geven aan de organisatieonderdelen;  
+k. de uitvoering van de door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fonds, van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen en van regelingen in opdracht van een partij buiten het ministerie voor zover de minister het Agentschap SZW met de uitvoering van die regelingen heeft belast; 
 
-b. de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van de onder hem ressorterende organisatieonderdelen alsmede de hiervoor bedoelde werkgeversverplichtingen voor zover deze centraal georganiseerd zijn;  
+l. de uitvoering van de taken van de programmadirectie Huisvesting SZW en VWS.  
+5. De plaatsvervangend secretaris-generaal is verantwoordelijk voor:
 
-c. de personeelsaangelegenheden welke niet ingevolge artikel 4, vierde lid, aan de secretaris-generaal zijn voorbehouden, dan wel ingevolge [artikel 8, tweede lid, van het Besluit taakuitoefening Inspectie Werk en Inkomen](../../../../../../../../AMvB/besluit/taakuitoefening/inspectie/werk/en/inkomen/BWBR0013179/README.md) tot de bevoegdheden van de inspecteur-generaal Sociale Zaken en Werkgelegenheid uit hoofde van diens functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), behoren, dan wel ingevolge artikel 8, derde lid, tot de taken van een directeur-generaal of de inspecteur-generaal Sociale Zaken en Werkgelegenheid behoren;  
+a.het bij schriftelijk besluit toedelen van taken aan de onder hem ressorterende organisatieonderdelen en aan de functionarissen die leiding geven aan de organisatieonderdelen;
 
-d. het adviseren van de bewindspersonen ten aanzien van zijn werkterrein als bedoeld in het vierde lid en het attenderen van de bewindspersonen op politiek of maatschappelijk gevoelige aspecten ten aanzien van zijn werkterrein;  
+b.de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van de onder hem ressorterende organisatieonderdelen alsmede de hiervoor bedoelde werkgeversverplichtingen voor zover deze centraal georganiseerd zijn;
 
-e. het rapporteren aan de secretaris-generaal over de uitvoering van de jaarplannen betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel b;  
+c.de personeelsaangelegenheden welke niet ingevolge artikel 4, vierde lid, aan de secretaris-generaal zijn voorbehouden, dan wel ingevolge [artikel 8, tweede lid, van het Besluit taakuitoefening Inspectie Werk en Inkomen](../../../../../../../../AMvB/besluit/taakuitoefening/inspectie/werk/en/inkomen/BWBR0013179/README.md) tot de bevoegdheden van de inspecteur-generaal Sociale Zaken en Werkgelegenheid uit hoofde van diens functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), behoren, dan wel ingevolge artikel 8, derde lid, tot de taken van een directeur-generaal of de inspecteur-generaal Sociale Zaken en Werkgelegenheid behoren;
 
-f. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in artikel 2, onderdeel b;  
+d.het adviseren van de bewindspersonen ten aanzien van zijn werkterrein als bedoeld in het vierde lid en het attenderen van de bewindspersonen op politiek of maatschappelijk gevoelige aspecten ten aanzien van zijn werkterrein;
 
-g. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
-6.  De plaatsvervangend secretaris-generaal vervult bij het ministerie de rol van Chief Information Officer.   
+e.het rapporteren aan de secretaris-generaal over de uitvoering van de jaarplannen betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel b;
+
+f.de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in artikel 2, onderdeel b;
+
+g.het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).  
+6.  De plaatsvervangend secretaris-generaal vervult bij het ministerie de rol van Chief Information Officer. 
 
 ### Artikel  7  
 
@@ -248,15 +246,15 @@ d. het instellen van tijdelijke projectorganisaties binnen zijn werkterrein als 
 
 e. de formatie van de organisatieonderdelen, genoemd in artikel 2, onderdeel b, een en ander met inachtneming van de daarvoor beschikbaar gestelde budgetten en desbetreffende aanwijzingen van de secretaris-generaal;  
 
-f. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op de eigen verantwoordelijkheden of het eigen werkterrein.     
+f. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op de eigen verantwoordelijkheden of het eigen werkterrein.   
 
 ### Artikel  8  
 
 ####Verantwoordelijkheden directeuren-generaal en inspecteur-generaal Sociale Zaken en Werkgelegenheid
 
 1.  Elke directeur-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid geven rechtstreeks leiding aan de hoofden van de organisatieonderdelen welke ingevolge artikel 2 rechtstreeks onder elk van hen ressorteren.   
-2.  Elke directeur-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid stellen de jaarplannen vast van de onder elk van hen ressorterende organisatieonderdelen. Gegeven het budget dat door de secretaris-generaal aan de betreffende directeur-generaal respectievelijk de inspecteur-generaal Sociale Zaken en Werkgelegenheid ter beschikking is gesteld, kennen de directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid aan de functionarissen die leiding geven aan de onder hen ressorterende organisatieonderdelen de budgetten toe waarover zij mogen beschikken. De directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid bewaken de voortgang van de uitvoering van jaarplannen van de onder hen ressorterende organisatieonderdelen.   
-3.  De directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid zijn verantwoordelijk voor: 
+2.  Elke directeur-generaal stelt de jaarplannen vast van de onder elk van hen ressorterende organisatieonderdelen. De inspecteur-generaal Sociale Zaken en Werkgelegenheid stelt een jaarplan voor de gehele Inspectie SZW vast. Gegeven het budget dat door de secretaris-generaal aan de betreffende directeur-generaal respectievelijk de inspecteur-generaal Sociale Zaken en Werkgelegenheid ter beschikking is gesteld, kennen de directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid aan de functionarissen die leiding geven aan de onder hen ressorterende organisatieonderdelen, de budgetten toe waarover zij mogen beschikken. De directeuren-generaal bewaken de voortgang van de uitvoering van jaarplannen van de onder hen ressorterende organisatieonderdelen. De inspecteur-generaal Sociale Zaken en Werkgelegenheid bewaakt de voortgang van de uitvoering van het jaarplan van de gehele Inspectie SZW.   
+3.  De directeuren-generaal zijn verantwoordelijk voor: 
 
 a. het bij schriftelijk besluit toedelen van taken aan de onder hen ressorterende organisatieonderdelen en aan de functionarissen die leiding geven aan deze organisatieonderdelen;  
 
@@ -273,7 +271,7 @@ f. het rapporteren aan de secretaris-generaal over de uitvoering van de jaarplan
 g. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;  
 
 h. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
-4.  Uit hoofde van zijn functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), geeft de inspecteur-generaal Sociale Zaken en Werkgelegenheid op verzoek van een der kamers van de Staten-Generaal of van een commissie uit een van die kamers een toelichting op het jaarverslag of een andere rapportage van de Inspectie Werk en Inkomen nadat het desbetreffende stuk aan de kamers ter kennis is gebracht. De inspecteur-generaal Sociale Zaken en Werkgelegenheid beperkt zich daarbij tot het geven van inlichtingen van feitelijke aard. De inspecteur-generaal Sociale Zaken en Werkgelegenheid stelt de minister terstond in kennis van een verzoek als hier bedoeld.   
+4.  Het derde lid is van overeenkomstige toepassing op de inspecteur-generaal Sociale Zaken en Werkgelegenheid, met dien verstande dat hij voor de toepassing van onderdeel f verantwoordelijk is voor het rapporteren aan de secretaris-generaal over de uitvoering van het jaarplan van de gehele Inspectie SZW.  
 
 ### Artikel  9  
 
@@ -298,12 +296,14 @@ g. overeenkomsten betreffende de huisvesting en facilitaire voorzieningen ten be
 h. overeenkomsten betreffende de gerechtelijke en buitengerechtelijke invordering van geldvorderingen van de Staat;  
 
 i. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van geautomatiseerde informatie- en salarissystemen, tenzij uit besluitvorming van de plaatsvervangend secretaris-generaal anders volgt.     
-2.  Het eerste lid is van overeenkomstige toepassing op de inspecteur-generaal Sociale Zaken en Werkgelegenheid, met dien verstande dat voor hem het volgende geldt: 
+2.  Het eerste lid is van overeenkomstige toepassing op de inspecteur-generaal Sociale Zaken en Werkgelegenheid, met dien verstande dat hij tevens bevoegd is tot: 
 
-a. De inspecteur-generaal Sociale Zaken en Werkgelegenheid, uit hoofde van zijn functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), is ten behoeve van de Inspectie Werk en Inkomen bevoegd tot het aangaan van overeenkomsten die betrekking hebben op de productie en distributie van voorlichtingsmateriaal gericht op de communicatie van toezichtsbevindingen en tot het aangaan van overeenkomsten met de arbodienst. Tevens is de inspecteur-generaal Sociale Zaken en Werkgelegenheid ten behoeve van de Inspectie Werk en Inkomen bevoegd tot het aangaan van overeenkomsten die betrekking hebben op systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van voorlichtings- en documentatiesystemen. Voorts is de inspecteur-generaal Sociale Zaken en Werkgelegenheid bevoegd om ten behoeve van de Inspectie Werk en Inkomen de overeenkomsten, bedoeld in het eerste lid, onderdelen f en g, aan te gaan voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens een ander organisatieonderdeel van het ministerie, niet zijnde het Agentschap SZW, is gehuisvest.  
+a. a. het aangaan van overeenkomsten die betrekking hebben op de productie en distributie van voorlichtingsmateriaal, gericht op de communicatie van toezichtsbevindingen en van handhavings-, opsporings- en toezichtsactiviteiten;  
 
-b. In aanvulling op het eerste lid geldt dat de inspecteur-generaal Sociale Zaken en Werkgelegenheid, uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie, ten behoeve van de Arbeidsinspectie bevoegd is tot het aangaan van overeenkomsten die betrekking hebben op de productie en distributie van voorlichtingsmateriaal gericht op de communicatie van handhavings- en toezichtsactiviteiten.     
-3.  De in het eerste en tweede lid, onderdeel a, bedoelde bevoegdheden van de directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid omvatten in elk geval mandaat, volmacht en machtiging ten aanzien van de volgende aangelegenheden: 
+b. b. het aangaan van overeenkomsten die betrekking hebben op systeemontwikkeling, licenties, functioneel en netwerkbeheer en onderhoud van applicaties van voorlichtings- en documentatiesystemen ten behoeve van de handhavings-, opsporings- en toezichtstaken van de Inspectie SZW;  
+
+c. c. het aangaan van de overeenkomsten, bedoeld in het eerste lid, onderdelen f en g, voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens een ander organisatieonderdeel van het ministerie, niet zijnde het Agentschap SZW, is gehuisvest.     
+3.  De in het eerste en tweede lid bedoelde bevoegdheden van de directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid omvatten in elk geval mandaat, volmacht en machtiging ten aanzien van de volgende aangelegenheden: 
 
 a. beslissingen in bezwaar- en beroepsprocedures voor zover deze betrekking hebben op hun eigen verantwoordelijkheden of werkterrein, met uitzondering van de beslissing op een beroepschrift;  
 
@@ -317,14 +317,14 @@ e. de formatie van de onder hen ressorterende organisatieonderdelen, een en ande
 
 f. het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op hun eigen werkterrein;  
 
-g. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden of werkterrein.     
-4.  De uitzonderingen, genoemd in het eerste lid, onderdelen c, d, f, h en i, gelden niet voor de in het eerste lid genoemde bevoegdheden die de directeur-generaal Werk heeft in verband met zijn werkterrein beschreven in artikel 11, aanhef en onderdelen i en j.   
+g. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden of werkterrein.    
+4.  De uitzonderingen, genoemd in het eerste lid, onderdelen c, d, f, h en i, gelden niet voor de in het eerste lid genoemde bevoegdheden die de directeur-generaal Participatie en Inkomenswaarborg heeft in verband met zijn werkterrein beschreven in artikel 10, aanhef en onderdelen s en t. 
 
 ### Artikel  10  
 
 ####Werkterrein directeur-generaal Participatie en Inkomenswaarborg
 
-De directeur-generaal Participatie en Inkomenswaarborg is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel c. Het werkterrein van de directeur-generaal Participatie en Inkomenswaarborg in brede zin: 
+De directeur-generaal Participatie en Inkomenswaarborg is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel c. Het werkterrein van de directeur-generaal Participatie en Inkomenswaarborg omvat in brede zin: 
 
 a. het zorgdragen voor een effectief re-integratiebeleid, onder meer door een samenhangend pakket re-integratie-instrumenten en een effectieve en efficiënte inzet daarvan door de uitvoering;  
 
@@ -354,9 +354,17 @@ m. het bevorderen van vernieuwingen in het handhavingsbeleid van SZW en van de u
 
 n. het bevorderen van de samenhang in het handhavings- en opsporingsbeleid van SZW en de uitvoerende instanties en met het beleid van externe partijen (Samenhangend handhaven);  
 
-o. het zorgdragen voor de uitvoering van de werkzaamheden die verband houden met de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie;  
+o. het zorgdragen voor de uitvoering van de werkzaamheden die verband houden met de opheffing van de Raad voor Werk en Inkomen en de afwikkeling van de opgeheven Raad voor Werk en Inkomen en de opgeheven arbeidsvoorzieningsorganisatie; 
 
-p. de uitwerking en de totstandkoming van een regeling die de Wet werk en bijstand, Wet investeren in jongeren, de Wet sociale werkvoorziening en de Wet werk en arbeidsondersteuning jonggehandicapten hervormt.    
+p. het ontwikkelen en uitvoeren van (internationaal afgestemd) beleid gericht op inburgering, remigratie, integratie en antidiscriminatie;  
+
+q. het (waar nodig) leveren van een bijdrage aan generiek beleid zodanig dat het voor migranten in de samenleving toegankelijk en effectief is;  
+
+r. het ten aanzien van integratievraagstukken ontwikkelen, onderhouden en beschikbaar stellen van kennis; 
+
+s. de (inter)departementale beleidsvorming en het daarmee samenhangende financieel beheer inzake de openbare lichamen Bonaire, Sint Eustatius en Saba, mede voor zover dit geschiedt op het werkterrein van de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur-generaal Werk en de inspecteur-generaal Sociale Zaken en Werkgelegenheid. De directies die ressorteren onder voornoemde functionarissen blijven de hen toebedeelde taken en verantwoordelijkheden uitvoeren, met de bijbehorende bevoegdheden, maar leggen voor wat betreft de (inter)departementale beleidsvorming en het daarmee samenhangende financieel beheer inzake de openbare lichamen Bonaire, Sint Eustatius en Saba verantwoording af aan de directeur-generaal Participatie en Inkomenswaarborg;  
+
+t. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  11  
 
@@ -380,34 +388,31 @@ g. de coördinatie van de advisering rond budgettaire en ordeningsvraagstukken i
 
 h. de wijze waarop werkenden beschermd, behandeld en toegerust worden (arbeidsrecht, gelijke behandeling en diversiteit);  
 
-i. de (inter)departementale beleidsvorming en het daarmee samenhangende financieel beheer inzake de openbare lichamen Bonaire, Sint Eustatius en Saba, mede voor zover dit geschiedt op het werkterrein van de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur-generaal Participatie en Inkomenswaarborg en de inspecteur-generaal Sociale Zaken en Werkgelegenheid. De directies die ressorteren onder voornoemde functionarissen blijven de hen toebedeelde taken en verantwoordelijkheden uitvoeren, met de bijbehorende bevoegdheden, maar leggen voor wat betreft de (inter)departementale beleidsvorming en het daarmee samenhangende financieel beheer inzake de openbare lichamen Bonaire, Sint Eustatius en Saba verantwoording af aan de directeur-generaal Werk;  
-
-j. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba;  
-
-k. het kinderopvangbeleid.    
+i. het kinderopvangbeleid.  
 
 ### Artikel  12  
 
 ####Werkterrein inspecteur-generaal Sociale Zaken en Werkgelegenheid
 
-1.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in artikel 2, onderdeel e. Het werkterrein van de inspecteur-generaal Sociale Zaken en Werkgelegenheid omvat in brede zin: 
+1.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid is belast met de beleids- en bedrijfsvoering betreffende de Inspectie SZW, die bestaat uit de organisatieonderdelen, genoemd in artikel 2, onderdeel e. Het werkterrein van de inspecteur-generaal Sociale Zaken en Werkgelegenheid omvat in brede zin: 
 
-a. het houden van toezicht op de naleving van wet- en regelgeving door werkgevers en werknemers waarvoor de minister verantwoordelijkheid draagt, alsmede in verband daarmee het opsporen van strafbare feiten, het hanteren van juridische instrumenten als eis tot naleving, stillegging van het werk, bestuursdwang en bestuurlijke boete, alsmede het aan de minister opgedragen toezicht op de toezichtswerkzaamheden van door de minister op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid aangewezen certificatie- en keuringsinstellingen die zijn belast met het verstrekken van certificaten, dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid;  
+a. het houden van toezicht op de naleving van wet- en regelgeving op de beleidsterreinen, waarvoor de minister verantwoordelijkheid draagt, en het in verband daarmee opsporen van strafbare feiten, alsmede het aan de minister opgedragen toezicht op de toezichtswerkzaamheden van door de minister op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid aangewezen certificatie- en keuringsinstellingen die zijn belast met het verstrekken van certificaten, dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid alsook het op hun verzoek aanwijzen van instellingen als certificatie- of keuringsinstelling, als in dit onderdeel genoemd;  
 
-b. het opsporen van strafbare feiten op de beleidsterreinen waarvoor de minister verantwoordelijkheid draagt, het in het kader van deze opsporing constateren van andere strafbare feiten welke daarmee verband houden, het in verband met de opsporing van strafbare feiten verzamelen van criminele inlichtingen en het verwerken van persoonsgegevens binnen de daarvoor geldende wettelijke bepalingen;  
+b. het opsporen van strafbare feiten op de beleidsterreinen waarvoor de minister verantwoordelijkheid draagt, het in het kader van deze opsporing constateren van andere strafbare feiten welke daarmee verband houden, het in verband met de opsporing van strafbare feiten verzamelen van criminele inlichtingen en het verwerken van persoonsgegevens binnen de daarvoor geldende wettelijke bepalingen, alsmede het opsporen van strafbare feiten op andere beleidsterreinen voor zover daartoe door het desbetreffende bestuursorgaan bevoegdheid is gegeven;  
 
 c. de uitvoering van de taken, bedoeld in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
-2.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid bekleedt tevens de functie van algemeen directeur van de Arbeidsinspectie en de functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
-3.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie geeft de inspecteur-generaal Sociale Zaken en Werkgelegenheid op verzoek van een der kamers van de Staten Generaal of een commissie uit een van die kamers een toelichting op het jaarverslag voor zover dat betrekking heeft op inspectietaken of een andere rapportage van de Arbeidsinspectie nadat het desbetreffende stuk aan de kamers ter kennisname is gebracht. De inspecteur-generaal Sociale Zaken en Werkgelegenheid beperkt zich daarbij tot het geven van inlichtingen van feitelijke aard. De inspecteur-generaal Sociale Zaken en Werkgelegenheid stelt de minister terstond in kennis van een verzoek als hier bedoeld.   
-4.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie is de inspecteur-generaal Sociale Zaken en Werkgelegenheid verantwoordelijk voor het opstellen van jaarverslagen en inspectierapportages voor de Arbeidsinspectie binnen de door de secretaris-generaal vastgestelde uitgangspunten.   
-5.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie is de inspecteur-generaal Sociale Zaken en Werkgelegenheid verantwoordelijk voor de verspreiding van de jaarverslagen en inspectierapportages, alsmede de voorlichting ten aanzien van de daarin opgenomen bevindingen, nadat de secretaris-generaal en de bewindslieden van het jaarverslag en de inspectierapportage kennis hebben kunnen nemen.   
-6.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie vervult de inspecteur-generaal Sociale Zaken en Werkgelegenheid de rol van verbindingsbureau detacheringsarbeid, bedoeld in artikel 4, eerste lid, van Richtlijn 96/71/EG.   
+2.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid geeft op verzoek van een der kamers van de Staten Generaal of een commissie uit een van die kamers een toelichting op het jaarverslag of een andere rapportage van de Inspectie SZW nadat het desbetreffende stuk aan de kamers ter kennisname is gebracht. De inspecteur-generaal Sociale Zaken en Werkgelegenheid beperkt zich daarbij tot het geven van inlichtingen van feitelijke aard. De inspecteur-generaal Sociale Zaken en Werkgelegenheid stelt de minister terstond in kennis van een verzoek als hier bedoeld.   
+3.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid is verantwoordelijk voor de verspreiding van jaarverslagen en inspectierapportages ten aanzien van de daarin opgenomen bevindingen, nadat de secretaris-generaal en de bewindslieden van het jaarverslag en de inspectierapportage kennis hebben kunnen nemen.   
+4.  De Inspectie SZW vervult de rol van verbindingsbureau detacheringsarbeid, bedoeld in artikel 4, eerste lid, van Richtlijn 96/71/EG.   
+5.  De Inspectie SZW is verantwoordelijk voor het Informatieknooppunt SZW. 
 
 ### Artikel  13  
 
-####Totstandkoming en inrichting Inspectie SZW
+####Opvolging van bevoegdheden door directies Inspectie SZW
 
-De inspecteur-generaal Sociale Zaken en Werkgelegenheid is bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover deze noodzakelijk zijn voor en betrekking hebben op de totstandkoming en de inrichting van de Inspectie SZW, voor zover zij niet zijn voorbehouden aan een bewindspersoon of de secretaris-generaal.  
+1.  Waar in wet- en regelgeving bevoegdheden zijn toegekend aan de Arbeidsinspectie, ambtenaren van de Arbeidsinspectie dan wel aan de algemeen directeur van de Arbeidsinspectie, worden deze bevoegdheden uitgeoefend door de Inspectie SZW, ambtenaren van de Inspectie SZW respectievelijk de inspecteur-generaal Sociale Zaken en Werkgelegenheid. Waar in enig wettelijk voorschrift ambtenaren van de Arbeidsinspectie zijn aangewezen als ambtenaren belast met toezicht op de naleving of opsporing, gelden die aanwijzingen nu voor de ambtenaren van de Inspectie SZW, die daartoe bij die Inspectie SZW zijn aangesteld.   
+2.  De directie Opsporing is de bijzondere opsporingsdienst, bedoeld in [artikel 2, aanhef en onderdeel d, van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md). Waar in wet- en regelgeving bevoegdheden zijn toegekend aan de Sociale Inlichtingen- en Opsporingsdienst dan wel ambtenaren van de Sociale Inlichtingen- en Opsporingsdienst, worden deze bevoegdheden uitgeoefend door de directie Opsporing respectievelijk ambtenaren van de directie Opsporing van de Inspectie SZW.   
+3.  Waar in wet- en regelgeving bevoegdheden zijn toegekend aan de Inspectie Werk en Inkomen, genoemd in [artikel 36, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden deze bevoegdheden uitgeoefend door de Inspectie SZW.  
 
 ### Hoofdstuk  4  
 
@@ -432,7 +437,7 @@ d. door de secretaris-generaal te stellen regels betreffende de (financiële) be
 
 a. indien bij wettelijk voorschrift is bepaald dat verlening van de betreffende bevoegdheid niet mogelijk is;  
 
-b. indien de aard van de bevoegdheid zich daartegen verzet.     
+b. indien de aard van de bevoegdheid zich daartegen verzet.    
 
 ### Artikel  15  
 
@@ -442,7 +447,7 @@ b. indien de aard van de bevoegdheid zich daartegen verzet.
 2.  Tenzij de bewindspersonen anders te kennen geven, worden brieven ter beantwoording van persoonlijke brieven, gericht aan (een van) de bewindspersonen, ondertekend door een bewindspersoon.   
 3.  De vertegenwoordigingsbevoegde is gehouden in de ondertekening van stukken die op basis van mandaat, volmacht of machtiging worden ondertekend, zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de volgende formule: De Minister van Sociale Zaken en Werkgelegenheid, namens deze, handtekening van de betrokken vertegenwoordigingsbevoegde, naam van de betrokken vertegenwoordigingsbevoegde, functie betrokken vertegenwoordigingsbevoegde.   
 4.  Stukken kunnen met goedvinden van een bewindspersoon overeenkomstig de door hen geparafeerde minute worden ondertekend door de secretaris-generaal dan wel door een door de bewindspersoon aan te wijzen andere functionaris. Daartoe wordt de volgende formule opgenomen: Overeenkomstig het door de Minister genomen besluit, handtekening van de betrokken vertegenwoordigingsbevoegde, naam van de betrokken vertegenwoordigingsbevoegde, functie betrokken vertegenwoordigingsbevoegde.   
-5.  In afwijking van het bepaalde in het derde en vierde lid, wordt in de ondertekening van stukken die betrekking hebben op een aangelegenheid die volgens de geldende taakverdeling tussen de bewindspersonen behoort tot het takenpakket van een staatssecretaris, in plaats van ‘Minister’ vermeld: Staatssecretaris. Indien het ministerie meer dan een staatssecretaris heeft, wordt daaraan de naam van de betreffende staatssecretaris toegevoegd.   
+5.  In afwijking van het bepaalde in het derde en vierde lid, wordt in de ondertekening van stukken die betrekking hebben op een aangelegenheid die volgens de geldende taakverdeling tussen de bewindspersonen behoort tot het takenpakket van een staatssecretaris, in plaats van ‘Minister’ vermeld: Staatssecretaris. Indien het ministerie meer dan een staatssecretaris heeft, wordt daaraan de naam van de betreffende staatssecretaris toegevoegd.  
 
 ### Artikel  16  
 
@@ -450,7 +455,7 @@ b. indien de aard van de bevoegdheid zich daartegen verzet.
 
 1.  Stukken, bestemd voor: 
 
-a. de Koningin;  
+a. de Koning;  
 
 b. de Raad van State (van het Koninkrijk), voor zover betrekking hebbend op wetgeving;  
 
@@ -467,50 +472,43 @@ g. een extern advies- of overlegorgaan;   worden vastgesteld en ondertekend door
 3.  Besluiten inzake het verlenen van goedkeuring aan, het schorsen of het vernietigen van dan wel het onthouden van goedkeuring aan besluiten van een ander bestuursorgaan worden genomen en ondertekend door een bewindspersoon.   
 4.  Besluiten inzake de definitieve buiteninvorderingstelling van vorderingen op derden van meer dan € 500.000,– worden genomen en ondertekend door een bewindspersoon.   
 5.  Besluiten inzake kwijtschelding van vorderingen op derden van meer dan € 500.000,– worden genomen en ondertekend door een bewindspersoon.   
-6.  Besluiten tot instelling van een externe of interdepartementale commissie of een adviescollege in de zin van de [Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en de benoeming van de leden van deze organen dan wel de inschakeling van externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen en ondertekend door een bewindspersoon.   
+6.  Besluiten tot instelling van een externe of interdepartementale commissie of een adviescollege in de zin van de [Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en de benoeming van de leden van deze organen dan wel de inschakeling van externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen en ondertekend door een bewindspersoon.  
 
 ### Artikel  17  
 
 ####Commissies en adviescolleges
 
 1.  Een voorstel tot het nemen van een besluit als bedoeld artikel 16, zesde lid, wordt na schriftelijke instemming van de secretaris-generaal aan een bewindspersoon voorgelegd.   
-2.  Besluiten tot de toekenning van vergoedingen en beloningen aan een externe of interdepartementale commissie, een adviescollege in de zin van de Kaderwet adviescolleges, dan wel aan externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen na schriftelijke instemming van de secretaris-generaal.   
+2.  Besluiten tot de toekenning van vergoedingen en beloningen aan een externe of interdepartementale commissie, een adviescollege in de zin van de Kaderwet adviescolleges, dan wel aan externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen na schriftelijke instemming van de secretaris-generaal.  
 
 ### Artikel  18  
 
 ####Plaatsvervanging
 
-Bij afwezigheid of verhindering van een vertegenwoordigingsbevoegde worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een daartoe aan te wijzen plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van mandaten, volmachten en machtigingen.  
+Bij afwezigheid of verhindering van een vertegenwoordigingsbevoegde worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een daartoe aan te wijzen plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van mandaten, volmachten en machtigingen. 
 
 ### Artikel  19  
 
 ####Bevoegdheid leidinggevende
 
-Tenzij in deze regeling anders is bepaald, is de leidinggevende van een vertegenwoordigingsbevoegde te allen tijde bevoegd de aan deze verleende bevoegdheden zelf uit te oefenen.  
+Tenzij in deze regeling anders is bepaald, is de leidinggevende van een vertegenwoordigingsbevoegde te allen tijde bevoegd de aan deze verleende bevoegdheden zelf uit te oefenen. 
 
 ### Artikel  20  
 
 ####Eigen personeelsaangelegenheden
 
-Een vertegenwoordigingsbevoegde is niet bevoegd tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken op het gebied van personeelsaangelegenheden die betrekking hebben op hemzelf.  
-
-### Artikel  21  
-
-####Subsidies
-
-1.  Er is een Subsidie Expertise Centrum van het ministerie. Het Subsidie Expertise Centrum is een samenwerkingsverband tussen de directies Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden, Bedrijfsvoering, de Auditdienst en het Agentschap SZW.   
-2.  Indien een organisatieonderdeel het voornemen heeft tot het ontwerpen van een subsidieregeling of tot het verlenen van een subsidie als bedoeld in [artikel 4, onderdelen a of b van de Kaderwet SZW-subsidies](../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), is voorafgaande inschakeling van de directeur Financieel-Economische Zaken, via een adviesaanvraag bij het Subsidie Expertise Centrum, verplicht.   
+Een vertegenwoordigingsbevoegde is niet bevoegd tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken op het gebied van personeelsaangelegenheden die betrekking hebben op hemzelf. 
 
 ### Artikel  22  
 
-####Overeenkomsten
+####Overeenkomsten en opdrachten
 
 1.  Het gebruik van een afgesloten raamovereenkomst is verplicht, behoudens toestemming van de houder van de raamovereenkomst om hiervan af te wijken.   
-2.  Indien een organisatieonderdeel overweegt om een voorgenomen opdracht met een waarde die minimaal gelijk is aan de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen niet aan te besteden, omdat het van mening is dat de betreffende opdracht niet onder het regime van een van de Europese aanbestedingsrichtlijnen valt, dan wel dat een beroep kan worden gedaan op uitzonderingsbepalingen binnen die richtlijnen, is inschakeling van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden verplicht.   
-3.  Indien op een overeenkomst de Europese aanbestedingsrichtlijnen van toepassing zijn, is inschakeling van de directeur Bedrijfsvoering verplicht.   
+2.  Indien een organisatieonderdeel overweegt om een voorgenomen opdracht met een waarde die minimaal gelijk is aan de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen niet aan te besteden, omdat het van mening is dat de betreffende opdracht niet onder het regime van een van de Europese aanbestedingsrichtlijnen valt, dan wel dat een beroep kan worden gedaan op uitzonderingsbepalingen binnen die richtlijnen, is inschakeling van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden verplicht, ongeacht of de Haagse Inkoop Samenwerking hierover heeft geadviseerd.   
+3.  Indien de geraamde waarde van een voorgenomen opdracht € 15.000,– exclusief BTW of meer bedraagt, is inschakeling van de Haagse Inkoop Samenwerking verplicht.   
 4.  Het eerste tot en met het derde lid zijn niet van toepassing ten aanzien van het Agentschap SZW en de Inspectie Werk en Inkomen.   
-5.  Een opdracht voor de externe inhuur van interim-management, organisatie- en formatieadviezen, communicatieadvies of beleidsadvies wordt slechts verleend na voorafgaande instemming van een van de functionarissen, genoemd in artikel 3, eerste lid.   
-6.  Het vijfde lid is niet van toepassing op de RCN-unit Sociale Zaken, gevestigd te Bonaire, Sint Eustatius en Saba.   
+5.  Een opdracht voor de externe inhuur van interim-management, organisatie- en formatieadviezen, communicatieadvies of beleidsadvies wordt slechts verleend na voorafgaande instemming van een van de functionarissen, genoemd in artikel 3, eerste lid.  
+6. Het vijfde lid is niet van toepassing op de RCN-unit Sociale Zaken, gevestigd te Bonaire, Sint Eustatius en Saba.
 
 ### Artikel  23  
 
@@ -521,7 +519,7 @@ Een vertegenwoordigingsbevoegde is niet bevoegd tot het nemen van besluiten over
 
 a. het aangaan van overeenkomsten met een waarde van € 500.000,– of meer;  
 
-b. het aanstellen en benoemen alsmede de ontslagverlening van functionarissen die vallen onder het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+b.  het aanstellen en benoemen alsmede de ontslagverlening van functionarissen die vallen onder het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md); 
 
 c. het op grond van [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) toekennen van periodieke toeslagen voor zover het gaat om toeslagen om redenen van werving en behoud;  
 
@@ -533,14 +531,14 @@ f. het vaststellen en ondertekenen van beleidsregels als bedoeld in [artikel 1:3
 
 g. het geven van opdracht tot het doen verrichten van een (intern) onderzoek naar integriteitsschending overeenkomstig de Leidraad Onderzoek Integriteitsschending.     
 3.  Onverminderd het bepaalde in het eerste en tweede lid kunnen de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid hun bevoegdheden eveneens doorverlenen aan functionarissen die niet onder hen ressorteren, mits de betreffende functionaris daarmee schriftelijk instemt.   
-4.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.   
+4.  De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.  
 
 ### Artikel  24  
 
 ####Kennisgeving doorverlening bevoegdheden
 
 1.  De vertegenwoordigingsbevoegde brengt de door hem vastgestelde organisatie- mandaat- en volmachtbesluiten onmiddellijk en in elk geval voor de bekendmaking ter kennis aan de mandaat- respectievelijk volmachtgever en – indien deze niet tevens de directe leidinggevende is – aan de directe leidinggevende, alsmede aan de secretaris-generaal.   
-2.  Binnen het ministerie wordt een mandaat-, volmacht- en machtigingsregister SZW bijgehouden. De vertegenwoordigingsbevoegde draagt zorg voor een juiste, volledige en tijdige aanlevering van de door hem vastgestelde besluiten tot doorverlening van mandaten, volmachten en machtigingen, alsmede van aanwijzingen van plaatsvervangers als bedoeld in artikel 18, aan de beheerder van het mandaat-, volmacht- en machtigingsregister SZW.   
+2.  Binnen het ministerie wordt een mandaat-, volmacht- en machtigingsregister SZW bijgehouden. De vertegenwoordigingsbevoegde draagt zorg voor een juiste, volledige en tijdige aanlevering van de door hem vastgestelde besluiten tot doorverlening van mandaten, volmachten en machtigingen, alsmede van aanwijzingen van plaatsvervangers als bedoeld in artikel 18, aan de beheerder van het mandaat-, volmacht- en machtigingsregister SZW.  
 
 ### Artikel  25  
 
@@ -550,7 +548,7 @@ g. het geven van opdracht tot het doen verrichten van een (intern) onderzoek naa
 2.  De vertegenwoordigingsbevoegde is gehouden de algemene en bijzondere aanwijzingen op te volgen.   
 3.  Elke leidinggevende is gehouden toe te zien op de naleving door zijn ondergeschikten van deze en andere mandaat- en volmachtbesluiten en van de aan de uitoefening van het mandaat, de volmacht of machtiging verbonden algemene en bijzondere aanwijzingen.   
 4.  De vertegenwoordigingsbevoegde is gehouden met inachtneming van de door zijn leidinggevende(n) te geven algemene en bijzondere aanwijzingen aan zijn leidinggevende(n) te rapporteren over de wijze waarop hij zijn taken heeft uitgeoefend en van zijn vertegenwoordigingsbevoegdheden gebruik heeft gemaakt. De leidinggevende(n) kan/kunnen algemene en bijzondere aanwijzingen geven omtrent de vorm, inhoud, tijdstippen en perioden van de rapportage.   
-5.  Alle in deze regeling genoemde bedragen zijn inclusief BTW.   
+5.  Alle in deze regeling genoemde bedragen zijn inclusief BTW, met uitzondering van het bedrag, genoemd in artikel 22, derde lid.  
 
 ### Hoofdstuk  5  
 
@@ -560,30 +558,30 @@ g. het geven van opdracht tot het doen verrichten van een (intern) onderzoek naa
 
 ####Wijziging andere regeling
 
-Wijzigt het Mandaatbesluit Tijdelijke SZW-borgstellingsregeling startende ondernemers vanuit een uitkering.   
+Wijzigt het Mandaatbesluit Tijdelijke SZW-borgstellingsregeling startende ondernemers vanuit een uitkering.
 
 ### Artikel  27  
 
 ####Wijziging andere regeling
 
-Wijzigt het Mandaatbesluit SZW-Subsidieregeling preventie van arbeidsuitval 2004.   
+Wijzigt het Mandaatbesluit SZW-Subsidieregeling preventie van arbeidsuitval 2004.
 
 ### Artikel  28  
 
 ####Wijziging andere regeling
 
-Wijzigt het Mandaat projectdirectie Leren en Werken.   
+Wijzigt het Mandaat projectdirectie Leren en Werken.
 
 ### Artikel  29  
 
 ####Intrekking en nieuwe grondslag regelingen
 
-1.  Het [Organisatie-, mandaat- en volmachtbesluit SZW 2004](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2004/BWBR0016199/README.md) en de [Regeling taken en bevoegdheden bezwaar- en beroepszaken werktijdverkorting](../../../../../../../../ministeriele-regeling/regeling/taken/en/bevoegdheden/bezwaar-/en/beroepszaken/werktijdverkorting/BWBR0016492/README.md) worden ingetrokken.   
-2.  Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens [artikel 22, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2004/BWBR0016199/README.md) op artikel 23, eerste lid, van deze regeling: 
+1. Het [Organisatie-, mandaat- en volmachtbesluit SZW 2004](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2004/BWBR0016199/README.md) en de [Regeling taken en bevoegdheden bezwaar- en beroepszaken werktijdverkorting](../../../../../../../../ministeriele-regeling/regeling/taken/en/bevoegdheden/bezwaar-/en/beroepszaken/werktijdverkorting/BWBR0016492/README.md) worden ingetrokken. 
+2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens [artikel 22, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2004/BWBR0016199/README.md) op artikel 23, eerste lid, van deze regeling:
 
-a. het [Mandaat projectdirectie Leren en Werken](../../../../../../../../ministeriele-regeling/mandaat/projectdirectie/leren/en/werken/BWBR0018705/README.md);  
+a.het [Mandaat projectdirectie Leren en Werken](../../../../../../../../ministeriele-regeling/mandaat/projectdirectie/leren/en/werken/BWBR0018705/README.md);
 
-b. het [Organisatie-, mandaat- en volmachtbesluit Inspectie Werk en Inkomen 2007](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspectie/werk/en/inkomen/2007/BWBR0021981/README.md).     
+b.het [Organisatie-, mandaat- en volmachtbesluit Inspectie Werk en Inkomen 2007](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspectie/werk/en/inkomen/2007/BWBR0021981/README.md).  
 3.  Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens [artikel 22, eerste en derde lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2004/BWBR0016199/README.md) op artikel 23, eerste en derde lid, van deze regeling: 
 
 a. de Mandaatregeling Farbo;  
@@ -600,19 +598,19 @@ f. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 apr
 
 g. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8690, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke subsidieregeling stimuleren leeftijdsbewust beleid](../../../../../../../../ministeriele-regeling/doorverlening/vertegenwoordigingsbevoegdheden/directeur/agentschap/szw/etc/BWBR0021751/README.md);  
 
-h. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen](../../../../../../../../ministeriele-regeling/doorverlening/vertegenwoordigingsbevoegdheden/directeur/agentschap/szw/etc/BWBR0021838/README.md).     
+h. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen](../../../../../../../../ministeriele-regeling/doorverlening/vertegenwoordigingsbevoegdheden/directeur/agentschap/szw/etc/BWBR0021838/README.md).    
 
 ### Artikel  30  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat artikel 26, onderdeel A terugwerkt tot en met 1 juli 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat artikel 26, onderdeel A terugwerkt tot en met 1 juli 2007. 
 
 ### Artikel  31  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit SZW 2009.  
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit SZW 2009. 
 Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -620,4 +618,4 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner   
+J.P.H. Donner     
