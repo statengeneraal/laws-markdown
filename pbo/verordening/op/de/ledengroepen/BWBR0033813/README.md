@@ -11,45 +11,73 @@ Stelt de volgende verordening vast:
 
 ### Artikel  1  
 
-In deze verordening en de daarop berustende bepalingen wordt verstaan onder: 
+–  *aan assurance verwante opdrachten:* omvatten professionele diensten tot het verrichten van overeengekomen specifieke werkzaamheden en samenstellingsopdrachten;  
 
-– *accountant:* de accountant, bedoeld in [artikel 1, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountant:* de accountant, bedoeld in [artikel 1 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *accountant in business:* de accountant in business, bedoeld in de [Verordening gedragscode](../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
+–  *accountant in business:* de accountant die werkzaamheden verricht, maar niet als openbaar accountant, intern accountant of overheidsaccountant;  
 
-– *afgevaardigde:* een afgevaardigde als bedoeld in [artikel 17, derde lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountantsafdeling:* de organisatorische eenheid, die behoort tot een onderneming, een instelling of de overheid en de daarmee gelijk te stellen dienst, waarbij één of meer accountants werkzaam zijn die: 
 
-– *begroting:* een begroting als bedoeld in [artikel 28 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+– binnen die onderneming, instelling of overheid en daarmee gelijk te stellen dienst verbijzonderde toetsende activiteiten verrichten, waaronder begrepen het onderzoek naar en de evaluatie en bewaking van de toereikendheid en effectiviteit van de administratieve organisatie en interne beheersing; of  
 
-– *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+– binnen die onderneming, instelling of overheid en daarmee gelijk te stellen dienst dan wel bij derden verbijzonderde toetsende activiteiten verrichten ter zake van een door die onderneming, instelling of de overheid en de daarmee gelijk te stellen dienst, dan wel genoemde derden af te leggen financiële verantwoording en daarover verslag uitbrengen aan de onderneming, instelling, overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort;    
 
-– *bestuur:* het bestuur van de beroepsorganisatie;  
+–  *accountantskantoor:* hieronder wordt verstaan: 
 
-– *contributiegroep:* een contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening 2013](../../../../../../pbo/algemene/contributieverordening/2013/BWBR0031866/README.md);  
+– de organisatorische eenheid waarbij een accountant werkzaam is of waaraan een accountant verbonden is en waarbinnen één of meer accountants voor een cliënt bedrijfsmatig professionele diensten verrichten, bestaande uit assurance-opdrachten of aan assurance verwante opdrachten en eventueel overige opdrachten, die niet beschikt over een vergunning als bedoeld in [artikel 5 van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) bedoelde vergunning; of  
 
-– *intern accountant:* de intern accountant, bedoeld in de [Verordening gedragscode](../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
+– de accountantsorganisatie ter zake van uitgevoerde professionele diensten bestaande uit assurance-opdrachten of aan assurance verwante opdrachten en eventueel overige opdrachten, die niet onder de werkingssfeer van de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) vallen;    
 
-– *ledengroep:* een ledengroep als bedoeld in [artikel 16, eerste lid van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountantsorganisatie:* een accountantsorganisatie als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
 
-– *ledengroepbestuur:* een bestuur als bedoeld in [artikel 17, eerste lid van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountantspraktijk:* het accountantskantoor en de accountantsorganisatie;  
 
-– *ledengroepvergadering:* de vergadering van leden van een ledengroep;  
+–  *afgevaardigde:* een afgevaardigde als bedoeld in [artikel 17, derde lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *ledenvergadering:* de ledenvergadering, bedoeld in [artikel 4 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *assurance-opdracht:* de assurance-opdracht, bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md);  
 
-– *ontwerpbegroting:* een ontwerpbegroting als bedoeld in [artikel 28 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *begroting:* een begroting als bedoeld in [artikel 28 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *openbaar accountant:* de openbaar accountant, bedoeld in de [Verordening gedragscode](../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
+–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *overheidsaccountant:* de overheidsaccountant, bedoeld in de [Verordening gedragscode](../../../../../../pbo/verordening/gedragscode/BWBR0026512/README.md);  
+–  *bestuur:* het bestuur van de beroepsorganisatie;  
 
-– *wet:* de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).    
+–  *cliënt:* de natuurlijke persoon of rechtspersoon die, anders dan in het kader van een gezagsverhouding, aan een accountant opdracht geeft tot het verrichten van een professionele dienst. Hieronder is begrepen de controlecliënt, bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+
+–  *contributiegroep:* een contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening](../../../../../../pbo/algemene/contributieverordening/BWBR0033789/README.md);  
+
+–  *interim manager:* de accountant die een tijdelijke functie vervult binnen de organisatie van zijn opdrachtgever en de resultaten van zijn werkzaamheden presenteert onder de naam van de entiteit van zijn opdrachtgever;  
+
+–  *intern accountant:* de accountant, niet zijnde een overheidsaccountant, die werkzaam is bij of verbonden is aan een accountantsafdeling;  
+
+–  *ledengroep:* een ledengroep als bedoeld in [artikel 16, eerste lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+
+–  *ledengroepbestuur:* een bestuur als bedoeld in [artikel 17, eerste lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+
+–  *ledengroepvergadering:* de vergadering van leden van een ledengroep;  
+
+–  *ledenvergadering:* de ledenvergadering, bedoeld in [artikel 4 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+
+–  *ontwerpbegroting:* een ontwerpbegroting als bedoeld in [artikel 28 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+
+–  *openbaar accountant:* de accountant die werkzaam is bij of verbonden is aan een accountantspraktijk. Hieronder is begrepen de externe accountant, bedoeld in [artikel 1, onderdeel f, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+
+–  *overheid:* de entiteit waarvan de accountantsafdeling waarbij de overheidsaccountant werkzaam is of waaraan hij is verbonden deel uitmaakt en die behoort tot een van de volgende categorieën: Rijk, gemeente, provincie, waterschap, gemeenschappelijke regeling, universiteit, academisch ziekenhuis, zelfstandig bestuursorgaan dat valt onder de werking van de [Kaderwet ZBO’s](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en nader door het bestuur van de NBA aangewezen entiteiten;  
+
+–  *overheidsaccountant:* de accountant die werkzaam is bij of verbonden is aan een accountantsafdeling behorende tot de overheid of daarmee gelijk te stellen dienst. Tot een overheidsaccountant wordt eveneens gerekend de accountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de accountant die aan deze controle direct leiding geeft;  
+
+–  *overige opdrachten:* de door een accountant voor een cliënt bedrijfsmatig uitgevoerde professionele diensten, bestaande uit andere dan assurance-opdrachten of aan assurance verwante opdrachten voor zover geen sprake is van opdrachten uitgevoerd als interim-manager;  
+
+–  *professionele dienst:* de professionele dienst, bedoeld in [artikel 1 van de Verordening gedrags- en beroepsregels accountants](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md);  
+
+–  *wet:* de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
 
 ### Artikel  2  
 
 1.  Er is een ledengroep van openbaar accountants waarin de accountants zijn verenigd welke zijn ingedeeld in de contributiegroep voor openbaar accountants.   
 2.  Er is een ledengroep van intern en overheidsaccountants waarin de accountants zijn verenigd welke zijn ingedeeld in de contributiegroep voor intern en overheidsaccountants.   
-3.  Er is een ledengroep van accountants in business waarin de accountants zijn verenigd welke zijn ingedeeld in de contributiegroep voor accountants in business.   
+3.  Er is een ledengroep van accountants in business waarin de accountants zijn verenigd welke zijn ingedeeld in de contributiegroep voor accountants in business.  
 
 ### Artikel  3  
 
@@ -57,7 +85,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 2.  Ten aanzien van een accountant die in de loop van een kalenderjaar in het accountantsregister wordt ingeschreven, geschiedt de indeling in een ledengroep voor de eerste maal per de datum van de inschrijving in het accountantsregister.   
 3.  Indien de aard van de werkzaamheden van een accountant tot een indeling in meerdere ledengroepen aanleiding kan geven, geschiedt de indeling in de ledengroep welke correspondeert met de contributiegroep waarvoor de hoogste contributie geldt.   
 4.  Een wijziging van een indeling in een ledengroep geschiedt op basis van een schriftelijke opgave door de accountant dan wel elektronisch doorgevoerde mutatie in de ledenadministratie, betreffende de aard van de werkzaamheden of de functie van de accountant.   
-5.  Een wijziging van de indeling in een ledengroep geschiedt per de eerste dag van de maand waarin de wijziging die aanleiding geeft tot indeling in een andere ledengroep zich heeft voorgedaan, mits deze is doorgegeven binnen drie weken nadat deze heeft plaatsgevonden. Wijzigingen die niet binnen drie weken zijn doorgegeven, geschieden per de eerste dag van de maand volgend op het doorgeven van de wijziging.   
+5.  Een wijziging van de indeling in een ledengroep geschiedt per de eerste dag van de maand waarin de wijziging die aanleiding geeft tot indeling in een andere ledengroep zich heeft voorgedaan, mits deze is doorgegeven binnen drie weken nadat deze heeft plaatsgevonden. Wijzigingen die niet binnen drie weken zijn doorgegeven, geschieden per de eerste dag van de maand volgend op het doorgeven van de wijziging.  
 
 ### Hoofdstuk  2  
 
@@ -67,29 +95,29 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 1.  Een ledengroepbestuur roept een ledengroepvergadering zo dikwijls als het zulks nodig acht, doch minstens een keer per jaar bijeen of op verzoek van ten minste 1% van de leden van de ledengroep, of, indien dit lager is, ten minste vijftig leden van een ledengroep.   
 2.  De bijeenkomst van een ledengroepvergadering is openbaar.   
-3.  In een bijeenkomst van een ledengroepvergadering worden de deuren gesloten, wanneer ten minste een vijfde van de aanwezige leden van de ledengroep daar om verzoekt of de voorzitter het nodig acht, tenzij de ledengroepvergadering anders beslist.   
+3.  In een bijeenkomst van een ledengroepvergadering worden de deuren gesloten, wanneer ten minste een vijfde van de aanwezige leden van de ledengroep daar om verzoekt of de voorzitter het nodig acht, tenzij de ledengroepvergadering anders beslist.  
 
 ### Artikel  5  
 
 1.  De oproeping tot een bijeenkomst van een ledengroepvergadering geschiedt ten minste veertien dagen tevoren door toezending aan de leden van een ledengroep van een agenda, onder vermelding van plaats, dag en aanvangsuur van de vergadering.   
 2.  De agenda en bijbehorende stukken worden zoveel mogelijk digitaal beschikbaar gesteld.   
-3.  In spoedeisende gevallen ter beoordeling van een ledengroepbestuur kan de in het eerste lid genoemde termijn worden bekort, met dien verstande dat de termijn van oproeping ten minste vijf werkdagen is.   
+3.  In spoedeisende gevallen ter beoordeling van een ledengroepbestuur kan de in het eerste lid genoemde termijn worden bekort, met dien verstande dat de termijn van oproeping ten minste vijf werkdagen is.  
 
 ### Artikel  6  
 
 1.  Een ledengroepvergadering neemt beslissingen bij meerderheid van stemmen. Blanco stemmen worden hierbij geacht niet te zijn uitgebracht.   
 2.  Bij staking van stemmen over personen beslist het lot.   
-3.  Stemmingen over personen zijn geheim.   
+3.  Stemmingen over personen zijn geheim.  
 
 ### Artikel  7  
 
 1.  Een stemming in een bijeenkomst van een ledengroepvergadering is ongeldig indien niet meer dan de helft van de stemmen is uitgebracht van de ter vergadering aanwezige of vertegenwoordigde stemmen.   
-2.  Bij stemming over personen worden blanco stemmen, voor de toepassing van dit artikel meegerekend.   
+2.  Bij stemming over personen worden blanco stemmen, voor de toepassing van dit artikel meegerekend.  
 
 ### Artikel  8  
 
 1.  Ieder lid van een ledengroep kan één stem uitbrengen.   
-2.  Een lid van een ledengroep kan aan een ander lid van een ledengroep volmacht verlenen tot het uitbrengen van zijn stem in een bijeenkomst van een ledengroepvergadering. Een lid van een ledengroep kan voor ten hoogste drie andere leden van een ledengroep een stem uitbrengen. Leden van een ledengroepbestuur kunnen niet als gevolmachtigde optreden.   
+2.  Een lid van een ledengroep kan aan een ander lid van een ledengroep volmacht verlenen tot het uitbrengen van zijn stem in een bijeenkomst van een ledengroepvergadering. Een lid van een ledengroep kan voor ten hoogste drie andere leden van een ledengroep een stem uitbrengen. Leden van een ledengroepbestuur kunnen niet als gevolmachtigde optreden.  
 
 ### Hoofdstuk  3  
 
@@ -99,13 +127,13 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 1.  Een ledengroepbestuur bestuurt de ledengroep.   
 2.  Een ledengroepbestuur kan werk- en overleggroepen instellen.   
-3.  Het bestuur raadpleegt een ledengroepbestuur over de kandidaten die aan het bestuur worden voorgedragen door een commissie die is belast met de voorselectie van kandidaten die door het bestuur aan de ledenvergadering worden aanbevolen. Het bestuur betrekt de reactie van een ledengroepbestuur bij een raadpleging bij de besluitvorming over de aanbeveling van een kandidaat aan de ledenvergadering.   
+3.  Het bestuur raadpleegt een ledengroepbestuur over de kandidaten die aan het bestuur worden voorgedragen door een commissie die is belast met de voorselectie van kandidaten die door het bestuur aan de ledenvergadering worden aanbevolen. Het bestuur betrekt de reactie van een ledengroepbestuur bij een raadpleging bij de besluitvorming over de aanbeveling van een kandidaat aan de ledenvergadering.  
 
 ### Artikel  10  
 
 1.  Het aantal leden van het ledengroepbestuur wordt door de ledengroepvergadering bepaald, doch bedraagt ten hoogste zeven.   
 2.  Jaarlijks treedt een deel van de leden van een ledengroepbestuur af volgens een door de ledengroepvergadering vast te stellen rooster. Het rooster wordt zo ingericht, dat voor zover mogelijk telkens hetzelfde aantal leden van het ledengroepbestuur aftreedt.   
-3.  Een ledengroepbestuur bevordert dat het ledengroepbestuur een evenwichtige afspiegeling van de ledengroep vormt.   
+3.  Een ledengroepbestuur bevordert dat het ledengroepbestuur een evenwichtige afspiegeling van de ledengroep vormt.  
 
 ### Artikel  11  
 
@@ -124,31 +152,31 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 – het lidmaatschap van het Adviescollege voor Beroepsreglementering; en  
 
 – een dienstverband met de NBA.     
-2.  Een lid van het ledengroepbestuur laat niet toe dat de uitoefening van zijn functie als lid van het ledengroepbestuur wordt aangetast door een vooroordeel, belangentegenstelling of ongepaste beïnvloeding door een derde of dat de schijn daarvan wordt gewekt.   
+2.  Een lid van het ledengroepbestuur laat niet toe dat de uitoefening van zijn functie als lid van het ledengroepbestuur wordt aangetast door een vooroordeel, belangentegenstelling of ongepaste beïnvloeding door een derde of dat de schijn daarvan wordt gewekt.  
 
 ### Artikel  12  
 
 1.  Het ledengroepbestuur neemt beslissingen en besluiten bij meerderheid van stemmen.   
 2.  De leden van het ledengroepbestuur stemmen zonder last.   
 3.  Een stemming in een vergadering van het ledengroepbestuur is ongeldig, indien niet ten minste de helft van het aantal zittinghebbende leden eraan heeft deelgenomen.   
-4.  Ook buiten de vergadering kunnen besluiten worden genomen, mits alle bestuursleden zijn geraadpleegd en zich niet tegen het voorgestelde besluit hebben verklaard. Op deze wijze genomen besluiten worden in de notulen van de eerstvolgende bestuursvergadering opgenomen.   
+4.  Ook buiten de vergadering kunnen besluiten worden genomen, mits alle bestuursleden zijn geraadpleegd en zich niet tegen het voorgestelde besluit hebben verklaard. Op deze wijze genomen besluiten worden in de notulen van de eerstvolgende bestuursvergadering opgenomen.  
 
 ### Artikel  13  
 
 1.  Kandidaten voor de te vervullen vacatures in het ledengroepbestuur kunnen worden aanbevolen, zowel door het ledengroepbestuur als door ten minste 1% van de leden van de ledengroep, of, indien dit lager is, ten minste vijftig leden van een ledengroep.   
 2.  Het ledengroepbestuur deelt de namen van de door hem aanbevolen kandidaten aan de ledengroep mede ten minste zes weken voor de datum van de bijeenkomst van de ledengroepvergadering.   
-3.  De namen van de door leden van een ledengroep aanbevolen kandidaten worden uiterlijk drie weken voor de datum van de bijeenkomst van de ledengroepvergadering bij het ledengroepbestuur ingediend.   
+3.  De namen van de door leden van een ledengroep aanbevolen kandidaten worden uiterlijk drie weken voor de datum van de bijeenkomst van de ledengroepvergadering bij het ledengroepbestuur ingediend.  
 
 ### Artikel  14  
 
 1.  Het ledengroepbestuur vermeldt bij de agenda voor de bijeenkomst van de ledengroepvergadering de namen van de door hem of door leden aanbevolen kandidaten.   
-2.  Op niet aanbevolen personen kunnen geen geldige stemmen worden uitgebracht.   
+2.  Op niet aanbevolen personen kunnen geen geldige stemmen worden uitgebracht.  
 
 ### Artikel  15  
 
 1.  Het ledengroepbestuur wordt bij de uitoefening van zijn taken bijgestaan door een secretaris.   
 2.  De secretaris van het ledengroepbestuur is onder andere belast met het voorbereiden van de vergaderingen van het ledengroepbestuur en het opstellen van de agenda van het ledengroepbestuur.   
-3.  De secretaris woont in die hoedanigheid de vergadering van het ledengroepbestuur bij en heeft daarin een adviserende stem.   
+3.  De secretaris woont in die hoedanigheid de vergadering van het ledengroepbestuur bij en heeft daarin een adviserende stem.  
 
 ### Hoofdstuk  4  
 
@@ -157,14 +185,14 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  16  
 
 1.  Een ledengroepbestuur heeft een voorzitter en een plaatsvervangend voorzitter.   
-2.  De voorzitter van een ledengroepbestuur, dan wel bij zijn afwezigheid de plaatsvervangend voorzitter, bekleedt tijdens de vergaderingen van het ledengroepbestuur en de bijeenkomst van de ledengroepvergadering het voorzitterschap.   
+2.  De voorzitter van een ledengroepbestuur, dan wel bij zijn afwezigheid de plaatsvervangend voorzitter, bekleedt tijdens de vergaderingen van het ledengroepbestuur en de bijeenkomst van de ledengroepvergadering het voorzitterschap.  
 
 ### Artikel  17  
 
-1.  De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door het ledengroepbestuur uit zijn midden benoemd.   
+1.  De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door een ledengroep uit het ledengroepbestuur benoemd.   
 2.  De voorzitter en de plaatsvervangend voorzitter van het ledengroepbestuur zijn terstond herbenoembaar.   
 3.  Het ledengroepbestuur van de ledengroep van openbaar accountants benoemt, in het geval de voorzitter van het bestuur een Registeraccountant is, een Accountant-Administratieconsulent tot voorzitter van het ledengroepbestuur en vice versa.   
-4.  Het ledengroepbestuur van de ledengroep van intern en overheidsaccountants benoemt, in het geval een overheidsaccountant tot afgevaardigde van de ledengroep is benoemd, een intern accountant tot voorzitter van het ledengroepbestuur en vice versa.   
+4.  Het ledengroepbestuur van de ledengroep van intern en overheidsaccountants benoemt, in het geval een overheidsaccountant tot afgevaardigde van de ledengroep is benoemd, een intern accountant tot voorzitter van het ledengroepbestuur en vice versa.  
 
 ### Hoofdstuk  5  
 
@@ -175,7 +203,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 1.  Een ledengroepbestuur benoemt uit zijn midden een afgevaardigde.   
 2.  De afgevaardigde is lid van de ledengroep.   
 3.  In het geval bij het bestuur, gelet op de antecedenten van de door het ledengroepbestuur benoemde afgevaardigde, gegronde vrees bestaat dat de afgevaardigde zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn benoeming op andere wijze de eer van de stand van accountants zal schaden, spreekt het bestuur zich uit tegen de benoeming van de afgevaardigde zijn instemming.   
-4.  In het geval het bestuur zich uitspreekt tegen de benoeming van een afgevaardigde, wordt de benoeming geacht niet te hebben plaatsgevonden.   
+4.  In het geval het bestuur zich uitspreekt tegen de benoeming van een afgevaardigde, wordt de benoeming geacht niet te hebben plaatsgevonden.  
 
 ### Hoofdstuk  6  
 
@@ -191,7 +219,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 6.  Wijzigingen door de ledenvergadering aangebracht in het budget van een ledengroep als onderdeel van een vastgestelde begroting, gelden als een gewijzigd vastgesteld budget van een ledengroep.   
 7.  Indien de ledenvergadering een begroting voor een jaar vaststelt welke niet verbijzonderd afwijkt van de ontwerpbegroting voor het overeenkomstige jaar, is het bestuur bevoegd het budget of het herziene budget van een ledengroep dienovereenkomstig te herzien.   
 8.  Het eerste lid worden voor het eerst toegepast met betrekking tot de begroting voor het jaar 2015.   
-9.  Het tweede lid wordt voor het eerst toegepast met betrekking tot de herziene begroting voor het jaar 2014.   
+9.  Het tweede lid wordt voor het eerst toegepast met betrekking tot de herziene begroting voor het jaar 2014.  
 
 ### Hoofdstuk  7  
 
@@ -203,7 +231,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 2.  Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in artikel 10, tweede lid.   
 3.  Tot de benoeming van het ledengroepbestuur, bedoeld in het eerste lid, wordt het ledengroepbestuur gevormd door de leden van het ledengroepbestuur zoals deze door de gezamenlijke besturen van het NIVRA en de NOvAA zijn benoemd tot leden van het ledengroepbestuur van de door het NIVRA en de NOvAA ingestelde ledengroepen.   
 4.  Het bestuur benoemt na raadpleging van het ledengroepbestuur, bedoeld in het vorige lid, uit zijn midden de eerste afgevaardigde van een ledengroep.   
-5.  De op grond van het vorige lid benoemde afgevaardigde, neemt op het rooster van aftreden, bedoeld in [artikel 12, derde lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), de plaats in van een door een ledengroepbestuur benoemde afgevaardigde.   
+5.  De op grond van het vorige lid benoemde afgevaardigde, neemt op het rooster van aftreden, bedoeld in [artikel 12, derde lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), de plaats in van een door een ledengroepbestuur benoemde afgevaardigde.  
 
 ### Hoofdstuk  8  
 
@@ -212,6 +240,6 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  21  
 
 1.  Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 juli 2013.   
-2.  Deze verordening wordt aangehaald als: Verordening op de ledengroepen.   
+2.  Deze verordening wordt aangehaald als: Verordening op de ledengroepen.  
 
-De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,   Goedgekeurd bij besluit van de minister van Financiën d.d. 19 augustus 2013, nr. FM/2013/1294 M.    
+De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,    Goedgekeurd bij besluit van de minister van Financiën d.d. 19 augustus 2013, nr. FM/2013/1294 M.    
