@@ -5,56 +5,56 @@
 De Minister van Defensie,  
 Handelende in overeenstemming met de Ministers van Buitenlandse Zaken, van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op artikel 4, eerste lid, van het Besluit Herinneringsmedaille Vredesoperaties,
-Besluit:    
+Gelet op [artikel 4, eerste lid, van het Besluit Herinneringsmedaille Vredesoperaties](../../../../../../KB/besluit/herinneringsmedaille/vredesoperaties/BWBR0012356/README.md),
+Besluit:     
 
 ### Artikel  1  
 
 Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingesteld: 
 
-a. voor deelname aan de United Nations Mission in Ethiopia and Eritrea en aan operaties ter directe ondersteuning hiervan, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Ethiopië, Eritrea en Djibouti, alsmede op de rede en in de haven van Massawa: UNMEE-DJIBOUTI;  
+a.  voor deelname aan de United Nations Mission in Ethiopia and Eritrea en aan operaties ter directe ondersteuning hiervan, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Ethiopië, Eritrea en Djibouti, alsmede op de rede en in de haven van Massawa: UNMEE-DJIBOUTI;  
 
-b. voor deelname aan de United Nations Peace-Keeping Force in Cyprus, voor zover deze deelname heeft plaatsgehad op het grondgebied van Cyprus: UNFICYP;  
+b.  voor deelname aan de United Nations Peace-Keeping Force in Cyprus, voor zover deze deelname heeft plaatsgehad op het grondgebied van Cyprus: UNFICYP;  
 
-c. voor deelname aan de United Nations Truce Supervision Organization, voor zover deze deelname heeft plaatsgehad in Israël, Libanon, Syrië en Egypte: UNTSO;  
+c.  voor deelname aan de United Nations Truce Supervision Organization, voor zover deze deelname heeft plaatsgehad in Israël, Libanon, Syrië en Egypte: UNTSO;  
 
-d. voor deelname aan de United Nations International Police Task Force, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina: UNIPTF;  
+d.  voor deelname aan de United Nations International Police Task Force, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina: UNIPTF;  
 
-e. voor deelname aan de United Nations Mission in Bosnia and Herzegovina, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina: UNMIBH;  
+e.  voor deelname aan de United Nations Mission in Bosnia and Herzegovina, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina: UNMIBH;  
 
-f. voor deelname aan de WEU-operatie Multinational Advisory Police Element, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Albanië: WEU MAPE;  
+f.  voor deelname aan de WEU-operatie Multinational Advisory Police Element, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Albanië: WEU MAPE;  
 
 g. voor deelname aan de European Union Monitor Mission, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Balkanstaten, Georgië en de grensgebieden van Zuid-Ossetië en Abchazië: EUMM;  
 
-h. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Albanië: OVSE ALBANIE;  
+h.  voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Albanië: OVSE ALBANIE;  
 
-i. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Moldavië: OVSE MOLDAVIE;  
+i.  voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Moldavië: OVSE MOLDAVIE;  
 
-j. voor deelname aan de NAVO-operatie Stabilization Force, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië, in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied en in de aangrenzende wateren van de Adriatische Zee: SFOR;  
+j.  voor deelname aan de NAVO-operatie Stabilization Force, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië, in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied en in de aangrenzende wateren van de Adriatische Zee: SFOR;  
 
-k. voor deelname aan de NAVO-operatie Kosovo Force, voor zover deze deelname heeft plaatsgehad op het grondgebied van de deelrepubliek Kosovo en de Republiek Macedonië en in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied: KFOR;  
+k.  voor deelname aan de NAVO-operatie Kosovo Force, voor zover deze deelname heeft plaatsgehad op het grondgebied van de deelrepubliek Kosovo en de Republiek Macedonië en in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied: KFOR;  
 
-l. voor deelname aan de Multinational Interception Force, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Perzische Golf: MIF;  
+l.  voor deelname aan de Multinational Interception Force, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Perzische Golf: MIF;  
 
-m. voor deelname aan het Federation Mine Action Center, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië: FEDMAC;  
+m.  voor deelname aan het Federation Mine Action Center, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië: FEDMAC;  
 
-n. voor deelname aan luchtoperaties ter ondersteuning van `Joint Forge' en `Joint Guardian', voor zover deze deelname heeft plaatsgehad , in het luchtruim boven voormalig Joegoslavië en boven de aangrenzende wateren van de Adriatische Zee, alsmede op het grondgebied van de vliegbases in Italië van waaruit de Balkan Luchtoperaties zijn uitgevoerd: BALKAN LUCHTOPERATIES;  
+n.  voor deelname aan luchtoperaties ter ondersteuning van `Joint Forge' en `Joint Guardian', voor zover deze deelname heeft plaatsgehad , in het luchtruim boven voormalig Joegoslavië en boven de aangrenzende wateren van de Adriatische Zee, alsmede op het grondgebied van de vliegbases in Italië van waaruit de Balkan Luchtoperaties zijn uitgevoerd: BALKAN LUCHTOPERATIES;  
 
-o. voor deelname aan de NAVO-operatie Essential Harvest, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: ESSENTIAL HARVEST;  
+o.  voor deelname aan de NAVO-operatie Essential Harvest, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: ESSENTIAL HARVEST;  
 
-p. voor deelname aan de EU-operatie European Community Police Assistance Project in Albania: ECPA;  
+p.  voor deelname aan de EU-operatie European Community Police Assistance Project in Albania: ECPA;  
 
-q. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: OVSE MACEDONIË;  
+q.  voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: OVSE MACEDONIË;  
 
-r. voor deelname aan de multinationale vredesmacht International Securtiy Assistance Force in Afghanistan, voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan, op en vanaf de luchthaven Termez in Oezbekistan alsmede in de Verenigde Arabische Emiraten, locatie Minhad (Airbase): ISAF;  
+r. voor deelname aan de multinationale vredesmacht International Securtiy Assistance Force in Afghanistan, voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan, op en vanaf de luchthaven Termez in Oezbekistan alsmede in de Verenigde Arabische Emiraten, locatie Minhad (Airbase): ISAF; 
 
 s. voor deelname aan: 
 
 1°. de multinationale operatie Enduring Freedom, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Rode Zee, de Arabische Zee, de Golf van Aden, de Golf van Oman en de Perzische Golf, alsmede op het grondgebied en in het luchtruim van het Arabisch Schiereiland en van de republieken Oezbekistan, Kirgizië en Afghanistan;  
 
-2°. de multinationale vredesmacht Combined Joint Task Force Horn of Africa, voor zover deze deelname heeft plaatsgehad op het grondgebied van Djibouti: ENDURING FREEDOM;    
+2°.  de multinationale vredesmacht Combined Joint Task Force Horn of Africa, voor zover deze deelname heeft plaatsgehad op het grondgebied van Djibouti: ENDURING FREEDOM;    
 
-t. voor deelname aan de NAVO-operatie `Amber Fox', voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: AMBER FOX;  
+t.  voor deelname aan de NAVO-operatie `Amber Fox', voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: AMBER FOX;   
 
 u. voor deelname aan de European Union Police Mission voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina, vanaf september 2002 en voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf december 2003: EUPM;  
 
@@ -64,7 +64,7 @@ w. voor deelname aan een uitzending in het kader van een Mine Action Center, waa
 
 x. voor deelname aan de door de Europese Unie geleide militaire operatie ‘Concordia’ in Macedonië, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf maart 2003: EU OPERATIE CONCORDIA;  
 
-y. voor deelname aan de internationale stabilisatiemacht voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van Irak en het Arabisch Schiereiland vanaf 25 juni 2003: STABILISATION FORCE IRAK;  
+y. voor deelname aan de internationale stabilisatiemacht voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van Irak en het Arabisch Schiereiland vanaf 25 juni 2003: STABILISATION FORCE IRAK; 
 
 z. voor deelname aan de United Nations Mission in Liberia, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Liberia, alsmede in het aangrenzende zeegebied: UNMIL;  
 
@@ -74,45 +74,45 @@ bb. voor deelname aan de EUFOR-operatie, voor zover deze deelname heeft plaatsge
 
 cc. voor deelname aan operaties van de Verenigde Naties: 
 
-1°. de Opération des Nations Unies au Burundi ‘ONUB’ , voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;  
+1°.de Opération des Nations Unies au Burundi ‘ONUB’ , voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;
 
-2°. de United Nations Advanced Mission in Sudan ‘UNAMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;  
+2°.de United Nations Advanced Mission in Sudan ‘UNAMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
 
-3°. de United Nations World Food Program Mission ‘UNWFP’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak, op en vanaf de luchthaven van Amman in Jordanië alsmede bij de zeetransporten naar en in de wateren van Somalië;  
+3°.de United Nations World Food Program Mission ‘UNWFP’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak, op en vanaf de luchthaven van Amman in Jordanië alsmede bij de zeetransporten naar en in de wateren van Somalië;
 
-4°. de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;  
+4°.de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;
 
-5°. de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;  
+5°.de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
 
-6°. de United Nations Interim Force in Lebanon, voor zover deze deelname heeft plaatsgehad op het grondgebied van Libanon, in het luchtruim daarboven en in de aangrenzende wateren van de Middellandse Zee;  
+6°.de United Nations Interim Force in Lebanon, voor zover deze deelname heeft plaatsgehad op het grondgebied van Libanon, in het luchtruim daarboven en in de aangrenzende wateren van de Middellandse Zee;
 
-7°. de missie ten behoeve van het Bureau Intégré des Nations Unies au Burundi ‘BINUB’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;  
+7°.de missie ten behoeve van het Bureau Intégré des Nations Unies au Burundi ‘BINUB’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;
 
-8°. de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur;  
+8°.de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur;
 
-9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia;  
+9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia; 
 
 10°. de United Nations Mission In South Sudan 'UNMISS', voor zover deze deelname heeft plaatsgehad op het grondbebied van en in het luchtruim boven de republiek Zuid Soedan vanaf augustus 2011;  
 
-11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011;  
+11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011; 
 
 12°. de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgehad in en rondom El Gorah, Egypte, vanaf 14 januari 2013;  
 
-13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 23 september 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;    
+13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 23 september 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;   
 
 dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie: 
 
-1°. de NATO Training Implementation Mission-Iraq ‘NTIM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;  
+1°.de NATO Training Implementation Mission-Iraq ‘NTIM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;
 
-2°. de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;  
+2°.de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;
 
-3°. de operatie Active Endeavour, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Middellandse Zee;  
+3°.de operatie Active Endeavour, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Middellandse Zee;
 
-4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië;  
+4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië; 
 
-5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin;  
+5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin; 
 
-6°. de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;    
+6°.de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;  
 
 ee. voor deelname aan operaties van de Europese Unie: 
 
@@ -124,27 +124,27 @@ ee. voor deelname aan operaties van de Europese Unie:
 
 4°. de EU Security missie ‘EUSEC’ en de EU Security-Financial missie ‘EUSEC-FIN’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf mei 2006;  
 
-5°. de EUFOR DRC missie, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo en de Republiek Gabon vanaf mei 2006;  
+5°.de EUFOR DRC missie, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo en de Republiek Gabon vanaf mei 2006;
 
-6°. de EU politie - en Rule of Law missie ‘EUPOL-Afghanistan’, voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf juni 2007;  
+6°. de EU politie - en Rule of Law missie ‘EUPOL-Afghanistan’, voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf juni 2007; 
 
-7°. de EU Rule of Law missie in Kosovo ‘EULEX Kosovo’, voor zover deze deelname heeft plaatsgehad op het grondgebied in KOSOVO vanaf 16 februari 2008;  
+7°. de EU Rule of Law missie in Kosovo ‘EULEX Kosovo’, voor zover deze deelname heeft plaatsgehad op het grondgebied in KOSOVO vanaf 16 februari 2008; 
 
-8°. de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008;  
+8°.de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008;
 
-9°. de maritieme EVDB-operatie Atalanta in de wateren van en in de nabijheid van Somalië vanaf 8 december 2008;  
+9°. de maritieme EVDB-operatie Atalanta in de wateren van en in de nabijheid van Somalië vanaf 8 december 2008;
 
 10°. de EU trainingsmissie in Mali ‘EUTM Mali’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 10 juli 2013;  
 
 11°. de EU trainingsmissie in Somalië ‘EUTM Somalië’, voor zover deze deelname heeft plaatsgehad in Uganda en in Somalië vanaf 14 februari 2013;  
 
-12°. de EU missie in Zuid-Sudan ‘EUAVSEC South Sudan’, voor zover deze deelname heeft plaatsgehad in Zuid-Sudan vanaf 3 juni 2013: EU OPERATIES;    
+12°. de EU missie in Zuid-Sudan ‘EUAVSEC South Sudan’, voor zover deze deelname heeft plaatsgehad in Zuid-Sudan vanaf 3 juni 2013: EU OPERATIES;   
 
 ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa: 
 
-1°. de OVSE missie Kosovo Police Service School vanaf september 2001;  
+1°.de OVSE missie Kosovo Police Service School vanaf september 2001;
 
-2°. de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003: OVSE OPERATIES;    
+2°.de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003: OVSE OPERATIES;
 
 gg. voor deelname aan operaties in Multinationaal verband: 
 
@@ -152,15 +152,15 @@ gg. voor deelname aan operaties in Multinationaal verband:
 
 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005;  
 
-3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank;  
+3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank; 
 
-4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf januari 2011: MULTINATIONALE OPERATIES;    
+4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf januari 2011: MULTINATIONALE OPERATIES;  
 
-hh. voor deelname aan SSR operaties van Nederland: 
+hh.voor deelname aan SSR operaties van Nederland:
 
-1°. SSR Burundi, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi vanaf januari 2007;  
+1°.SSR Burundi, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi vanaf januari 2007;
 
-2°. SSR LAF, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Libanon vanaf januari 2008: NL SSR OPERATIES.      
+2°.SSR LAF, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Libanon vanaf januari 2008: NL SSR OPERATIES. 
 
 ### Artikel  2  
 
@@ -168,9 +168,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit gespen Herinneringsmedaille Vredesoperaties.  
+Dit besluit wordt aangehaald als: Besluit gespen Herinneringsmedaille Vredesoperaties. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Defensie, 
-F.H.G. deGrave    
+F.H.G. de Grave      
