@@ -7,15 +7,17 @@ Gelet op [artikel 14, tweede lid, van de Regeling garanties van oorsprong voor d
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 06-05-2008 
 
-Het percentage, bedoeld in [artikel 14, tweede lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), bedraagt in kalenderjaar 2006 47 procent.  
+Het percentage, bedoeld in [artikel 14, tweede lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), bedraagt in kalenderjaar 2006 47 procent. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 06-05-2008 
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Een afschrift van het besluit wordt gezonden aan de garantiebeheerinstantie.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Een afschrift van het besluit wordt gezonden aan de garantiebeheerinstantie. 
 
 Den Haag 
 21 april 2006   
 
 Minister van Economische Zaken, 
-L.J.Brinkhorst   
+L.J. Brinkhorst     

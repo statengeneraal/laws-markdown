@@ -15,35 +15,35 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.   
+Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001. 
 
 ### Artikel  II  
 
-Wijzigt het Uitvoeringsbesluit loonbelasting 1965.   
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965. 
 
 ### Artikel  III  
 
-Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.   
+Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit fiscale eenheid 2003.   
+Wijzigt het Besluit fiscale eenheid 2003. 
 
 ### Artikel  V  
 
-Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 januari 2010 tot de bedrijfsmiddelen van de belastingplichtige zijn gaan behoren en waarvoor aan hem een S&O-verklaring is afgegeven als bedoeld in de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), blijven de [artikelen 7a](../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) en [16a van het Besluit fiscale eenheid 2003](../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) zoals deze luidden op 31 december 2009 van toepassing.  
+Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 januari 2010 tot de bedrijfsmiddelen van de belastingplichtige zijn gaan behoren en waarvoor aan hem een S&O-verklaring is afgegeven als bedoeld in de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), blijven de [artikelen 7a](../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) en [16a van het Besluit fiscale eenheid 2003](../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) zoals deze luidden op 31 december 2009 van toepassing. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit winstbepaling en reserves verzekeraars 2001.   
+Wijzigt het Besluit winstbepaling en reserves verzekeraars 2001. 
 
 ### Artikel  VII  
 
-Wijzigt het Uitvoeringsbesluit Successiewet 1956.   
+Wijzigt het Uitvoeringsbesluit Successiewet 1956. 
 
 ### Artikel  VIII  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968. 
 
 ### Artikel  IX  
 
@@ -53,43 +53,43 @@ a. een ondernemer die was genoemd in [bijlage B, onderdeel a](../../../../../../
 
 b. een ondernemer aan wie schriftelijk te kennen is gegeven dat het voornemen bestaat om te bevorderen dat de ondernemer zal worden opgenomen in [bijlage B, onderdeel a](../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), zoals dat onderdeel luidde op 31 december 2005;  
 
-c. een ondernemer die erkend is op grond van [bijlage B, onderdeel c](../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), zoals dat onderdeel luidde op 31 december 2010;   aangemerkt als een instelling die door de inspecteur is erkend als een instelling van sociale of culturele aard. Hierbij blijven de voorwaarden en beperkingen van kracht die met betrekking tot het verlenen van de vrijstelling zijn gesteld.  
+c. een ondernemer die erkend is op grond van [bijlage B, onderdeel c](../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md), zoals dat onderdeel luidde op 31 december 2010;   aangemerkt als een instelling die door de inspecteur is erkend als een instelling van sociale of culturele aard. Hierbij blijven de voorwaarden en beperkingen van kracht die met betrekking tot het verlenen van de vrijstelling zijn gesteld. 
 
 ### Artikel  X  
 
-Wijzigt het Algemeen douanebesluit.   
+Wijzigt het Algemeen douanebesluit. 
 
 ### Artikel  XI  
 
-Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.   
+Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992. 
 
 ### Artikel  XII  
 
-Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.   
+Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994. 
 
 ### Artikel  XIII  
 
-Wijzigt het Uitvoeringsbesluit accijns.   
+Wijzigt het Uitvoeringsbesluit accijns. 
 
 ### Artikel  XIV  
 
-Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.   
+Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten. 
 
 ### Artikel  XV  
 
-Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.   
+Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag. 
 
 ### Artikel  XVI  
 
-Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.   
+Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964. 
 
 ### Artikel  XVII  
 
-Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.   
+Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  XVIII  
 
-Wijzigt het Besluit voorkoming dubbele belasting 2001.   
+Wijzigt het Besluit voorkoming dubbele belasting 2001. 
 
 ### Artikel  XIX  
 
@@ -110,7 +110,7 @@ d. artikel XVII terugwerkt tot en met 1 mei 2010;
 e. de artikelen I, onderdeel G, II, onderdeel E, en XVI terugwerken tot en met 10 oktober 2010;  
 
 f. artikel III voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2012.     
-2.  In afwijking van het eerste lid treden de artikelen IV en V in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werken die artikelen terug tot en met 1 januari 2010.   
+2.  In afwijking van het eerste lid treden de artikelen IV en V in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werken die artikelen terug tot en met 1 januari 2010.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -118,10 +118,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 december 2010  
 Beatrix  
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F. H. H. Weekers   
 
 de *dertigste* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

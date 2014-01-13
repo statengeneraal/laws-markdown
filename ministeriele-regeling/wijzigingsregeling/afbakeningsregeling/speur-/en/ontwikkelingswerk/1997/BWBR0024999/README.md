@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Afbakeningsregeling speur- en ontwikkelingswerk 1997.   
+Wijzigt de Afbakeningsregeling speur- en ontwikkelingswerk 1997. 
 
 ### Artikel  II  
 
-Het ingevolge deze regeling gewijzigde [artikel 1 van de Afbakeningsregeling speur- en ontwikkelingswerk 1997](../../../../../../../../ministeriele-regeling/afbakeningsregeling/speur-/en/ontwikkelingswerk/1997/BWBR0008459/README.md) vindt toepassing op aanvragen voor een S&O-verklaring die betrekking hebben op tijdvakken die na 31 december 2008 aanvangen.  
+Het ingevolge deze regeling gewijzigde [artikel 1 van de Afbakeningsregeling speur- en ontwikkelingswerk 1997](../../../../../../../../ministeriele-regeling/afbakeningsregeling/speur-/en/ontwikkelingswerk/1997/BWBR0008459/README.md) vindt toepassing op aanvragen voor een S&O-verklaring die betrekking hebben op tijdvakken die na 31 december 2008 aanvangen. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

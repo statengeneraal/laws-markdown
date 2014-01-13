@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Het percentage, bedoeld in [artikel 14, tweede lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), bedraagt in kalenderjaar 2013 54 procent.  
+Het percentage, bedoeld in [artikel 14, tweede lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), bedraagt in kalenderjaar 2013 54 procent. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Een afschrift van het besluit wordt gezonden aan de garantiebeheerinstantie.  
+Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Een afschrift van het besluit wordt gezonden aan de garantiebeheerinstantie. 
 
 Den Haag 
 22 oktober 2012   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

@@ -87,5 +87,5 @@ Den Haag
 26 april 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

@@ -23,11 +23,11 @@ a. Minister: Minister van Economische Zaken;
 
 b. NVWA: Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
 
-c. verordening 32/82: verordening (EEG) nr. 32/82 van de Commissie van 7 januari 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer in de rundvleessector (PbEG L 4);  
+c.  verordening 32/82: verordening (EEG) nr. 32/82 van de Commissie van 7 januari 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer in de rundvleessector (PbEG L 4);  
 
-d. verordening 1964/82: verordening (EEG) nr. 1964/82 van de Commissie van 20 juli 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer van bepaalde soorten rundvlees zonder been (PbEG L 212);  
+d.  verordening 1964/82: verordening (EEG) nr. 1964/82 van de Commissie van 20 juli 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer van bepaalde soorten rundvlees zonder been (PbEG L 212);  
 
-e. verordening 853/2004: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139);  
+e.  verordening 853/2004: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139);  
 
 f. karkas: het geslachte dier, zonder kop en zonder poten, zonder de organen in de borst- en buikholte, zonder nieren, het niervet en het slotvet, zonder de geslachtsorganen met de bijbehorende spieren, zonder middenrif en longhaas, zonder staart, zonder ruggenmerg, zonder zakvet, zonder bovenbilvet en zonder vette nekaders;  
 
@@ -47,15 +47,15 @@ m. belanghebbende: degene die aanspraak maakt op een bijzondere restitutie of de
 
 n. uitsnijderij: een inrichting voor het uitbenen of uitsnijden van vlees zoals gedefinieerd in bijlage 1, onderdeel 1.17, van verordening 853/2004;  
 
-o. verordening 800/1999: verordening (EG) nr. 800/1999 van de Commissie van 15 april 1999 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEG L 102);  
+o.  verordening 800/1999: verordening (EG) nr. 800/1999 van de Commissie van 15 april 1999 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEG L 102);  
 
 p. uitvoer: uitvoer uit de Gemeenschap of leveranties als bedoeld in artikel 36 van verordening 800/1999;  
 
-q. aanvullende aantekeningen: aanvullende aantekeningen bij hoofdstuk 2, bijlage 1 van verordening (EEG) nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 286).    
+q. aanvullende aantekeningen: aanvullende aantekeningen bij hoofdstuk 2, bijlage 1 van verordening (EEG) nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 286).   
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 3:3, onder a en c](../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [3:4, eerste lid, van het Algemeen douanebesluit](../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md).  
+Deze regeling berust op [artikel 3:3, onder a en c](../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [3:4, eerste lid, van het Algemeen douanebesluit](../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md). 
 
 ### Artikel  2  
 
@@ -66,7 +66,7 @@ a. vlees;
 b. technische delen.     
 2.  Het in artikel 2, tweede lid, van verordening 32/82 bedoelde bewijs dat de uitgevoerde producten afkomstig zijn van volwassen mannelijke runderen wordt afgegeven door de NVWA.   
 3.  Alle handelingen in het kader van deze regeling vinden plaats op werkdagen tussen 7.00 uur en 17.00 uur onder toezicht van een ambtenaar van de Algemene Inspectiedienst.   
-4.  De bijzondere restitutie voor technische delen wordt niet verleend indien de producten onder de in artikel 40 van verordening 800/1999 bedoelde regeling zijn geplaatst.   
+4.  De bijzondere restitutie voor technische delen wordt niet verleend indien de producten onder de in artikel 40 van verordening 800/1999 bedoelde regeling zijn geplaatst.  
 
 ### Paragraaf  2  
 
@@ -78,7 +78,7 @@ In deze paragraaf wordt verstaan onder:
 
 a. voorvoeten: voorspannen of voorvoeten, zoals gedefinieerd in hoofdstuk 2, onderdeel 1.A, onder d en e, van de aanvullende aantekeningen;  
 
-b. achtervoeten: achterspannen of achtervoeten, zoals gedefinieerd in hoofdstuk 2, onderdeel 1.A, onder f en g, van de aanvullende aantekeningen.    
+b. achtervoeten: achterspannen of achtervoeten, zoals gedefinieerd in hoofdstuk 2, onderdeel 1.A, onder f en g, van de aanvullende aantekeningen.   
 
 ### Artikel  4  
 
@@ -95,7 +95,7 @@ d. aantal uit te schrijven attesten;
 
 e. naam en adres aanvrager;  
 
-f. contactpersoon en telefoonnummer.     
+f. contactpersoon en telefoonnummer.    
 
 ### Artikel  5  
 
@@ -104,7 +104,7 @@ f. contactpersoon en telefoonnummer.
 3.  Het gewicht wordt onmiddellijk na identificatie onder toezicht van de ambtenaar van de NVWA vastgesteld. Het gewicht met bijbehorend oormerknummer of slachtnummer wordt door het slachthuis vermeld op een weeglijst.   
 4.  De in het tweede lid genoemde minimumgewichten zijn niet van toepassing indien het ter identificatie aangeboden vlees in karkassen wordt aangeboden. In dat geval bedraagt het minimumgewicht van het geslachte dier 150 kg.   
 5.  Als het vlees wordt aangeboden met aan het product vastzittende slachtafvallen worden de minimumgewichten verhoogd volgens de bepalingen uit bijlage 4.   
-6.  Het slachthuis beschikt over een aantal van een geldig ijkmerk voorziene toetsgewichten van 20 of 25 kg elk voor een totaalgewicht van ten minste 200 kg.   
+6.  Het slachthuis beschikt over een aantal van een geldig ijkmerk voorziene toetsgewichten van 20 of 25 kg elk voor een totaalgewicht van ten minste 200 kg.  
 
 ### Artikel  6  
 
@@ -114,7 +114,7 @@ a. of de lever of nieren nog vastzitten aan het karkas of de achtervoeten;
 
 b. het nettogewicht, na toepassing van artikel 1, derde lid, van verordening 32/82.     
 2.  De ambtenaar van de NVWA vermeldt het nettogewicht waarvoor restitutie kan worden aangevraagd in het daartoe bestemde vak van het identificatieattest.   
-3.  De weeglijst wordt tezamen met een kopie van het identificatieattest door de exporteur bewaard.   
+3.  De weeglijst wordt tezamen met een kopie van het identificatieattest door de exporteur bewaard.  
 
 ### Artikel  7  
 
@@ -124,7 +124,7 @@ b. het nettogewicht, na toepassing van artikel 1, derde lid, van verordening 32/
 4.  Elke voet is voorzien van een etiket waarop het oormerknummer of slachtnummer, het geslacht en het gewicht van het hele karkas is vermeld.   
 5.  Indien de ambtenaar van de NVWA het vlees identificeert als afkomstig van volwassen mannelijke runderen voorziet hij het vlees van een onuitwisbaar merk volgens onderstaand model. AID. XMY   
 6.  Op de met het teken X aangeduide plaats in het in het vijfde lid bedoelde merk dient een kenmerk opgenomen te worden van de ambtenaar van de NVWA die het merk aanbrengt.   
-7.  Op de met het teken Y aangeduide plaats, in het in het vijfde lid bedoelde merk, dient het nummer van het identificatieattest te worden opgenomen.   
+7.  Op de met het teken Y aangeduide plaats, in het in het vijfde lid bedoelde merk, dient het nummer van het identificatieattest te worden opgenomen.  
 
 ### Artikel  8  
 
@@ -132,11 +132,11 @@ Het in artikel 7, vijfde lid, bedoelde merk wordt aangebracht op:
 
 – de voorvoet: op de fijne rib of op de naborst;  
 
-– de achtervoet: op de schenkel of op de platte rib.    
+– de achtervoet: op de schenkel of op de platte rib.   
 
 ### Artikel  9  
 
-Onmiddellijk nadat het vlees van het merk is voorzien wordt het vlees onder toezicht van een ambtenaar van de NVWA in een vervoermiddel geladen. Na inlading wordt het vervoermiddel door de ambtenaar van de NVWA verzegeld.  
+Onmiddellijk nadat het vlees van het merk is voorzien wordt het vlees onder toezicht van een ambtenaar van de NVWA in een vervoermiddel geladen. Na inlading wordt het vervoermiddel door de ambtenaar van de NVWA verzegeld. 
 
 ### Artikel  10  
 
@@ -145,7 +145,7 @@ Onmiddellijk nadat het vlees van het merk is voorzien wordt het vlees onder toez
 3.  Het origineel vergezelt de partij en wordt door of namens belanghebbende bij het doen van aangifte ten uitvoer overgelegd.   
 4.  Voor elke partij afkomstig van één slachthuis wordt een afzonderlijk identificatieattest opgemaakt. Een identificatieattest kan hoogstens betrekking hebben op één vervoermiddel.   
 5.  Het nummer van het identificatieattest wordt bij de aangifte ten invoer vermeld.   
-6.  Indien verschillende partijen in één vervoermiddel zijn geladen worden de nummers van de afzonderlijke attesten bij de aangifte ten invoer vermeld.   
+6.  Indien verschillende partijen in één vervoermiddel zijn geladen worden de nummers van de afzonderlijke attesten bij de aangifte ten invoer vermeld.  
 
 ### Paragraaf  3  
 
@@ -157,7 +157,7 @@ In deze paragraaf wordt verstaan onder:
 
 a. voorvoeten: voorvoeten of voorspannen, zoals gedefinieerd in artikel 1, eerste gedachtestreepje, van verordening 1964/82;  
 
-b. achtervoeten: achtervoeten of achterspannen, zoals gedefinieerd in artikel 1, tweede gedachtestreepje, van verordening 1964/82.    
+b. achtervoeten: achtervoeten of achterspannen, zoals gedefinieerd in artikel 1, tweede gedachtestreepje, van verordening 1964/82.   
 
 ### Artikel  12  
 
@@ -182,17 +182,17 @@ h. naam en adres uitsnijderij;
 
 i. naam en adres aanvrager;  
 
-j. contactpersoon en telefoonnummer.     
+j. contactpersoon en telefoonnummer.    
 
 ### Artikel  13  
 
 1.  De voor- of achtervoeten worden ter identificatie aangeboden in het slachthuis waar de dieren zijn geslacht. Het bepaalde in artikel 5, artikel 6 en artikel 7, tweede tot en met zevende lid, is van overeenkomstige toepassing, met dien verstande, dat de weging van de voor- of achtervoeten onmiddellijk na de identificatie in hetzelfde slachthuis dient plaats te vinden waar de identificatie plaatsvindt.   
-2.  Naast het in artikel 7, vijfde lid, genoemde merk wordt door de ambtenaar van de NVWA op de technische delen die belanghebbende in zijn aanmelding heeft omschreven en waarin elke voor- of achtervoet zal worden uitgebeend een merk aangebracht met zijn kenmerk. Onverminderd het bepaalde in artikel 17, eerste lid, worden de merken op de technische delen aangebracht op de door belanghebbende aangewezen plaats.   
+2.  Naast het in artikel 7, vijfde lid, genoemde merk wordt door de ambtenaar van de NVWA op de technische delen die belanghebbende in zijn aanmelding heeft omschreven en waarin elke voor- of achtervoet zal worden uitgebeend een merk aangebracht met zijn kenmerk. Onverminderd het bepaalde in artikel 17, eerste lid, worden de merken op de technische delen aangebracht op de door belanghebbende aangewezen plaats.  
 
 ### Artikel  14  
 
 1.  Na het aanbrengen van de merken en de weging van de voor- of achtervoeten onder toezicht van de ambtenaar van de NVWA maakt deze in 4-voud een identificatieattest op en vermeldt hij het nettogewicht van de voor- of achtervoeten in het daartoe bestemde vak.   
-2.  Het origineel wordt aan belanghebbende ter hand gesteld en dient door of namens hem bij de in artikel 15, eerste lid, bedoelde verklaring te worden overgelegd.   
+2.  Het origineel wordt aan belanghebbende ter hand gesteld en dient door of namens hem bij de in artikel 15, eerste lid, bedoelde verklaring te worden overgelegd.  
 
 ### Artikel  15  
 
@@ -210,16 +210,16 @@ d. technische delen-code;
 e. ontheffingsnummer indien van toepassing;  
 
 f. nummer identificatieattest.     
-3.  De in het eerste lid bedoelde ambtenaar van de NVWA voorziet de verklaring, in het geval hij deze aanvaardt, van de datum van aanvaarding. De datum van aanvaarding van de in het eerste lid bedoelde verklaring wordt tevens vermeld op het identificatieattest.   
+3.  De in het eerste lid bedoelde ambtenaar van de NVWA voorziet de verklaring, in het geval hij deze aanvaardt, van de datum van aanvaarding. De datum van aanvaarding van de in het eerste lid bedoelde verklaring wordt tevens vermeld op het identificatieattest.  
 
 ### Artikel  16  
 
-Het uitbenen van de voor- of achtervoeten en het verpakken van de door uitbening verkregen delen vindt plaats in een uitsnijderij die is erkend op grond van verordening 853/2004.  
+Het uitbenen van de voor- of achtervoeten en het verpakken van de door uitbening verkregen delen vindt plaats in een uitsnijderij die is erkend op grond van verordening 853/2004. 
 
 ### Artikel  17  
 
 1.  De voor- of achtervoeten mogen uitsluitend worden uitgebeend in de in bijlage 1 en 2 bij deze regeling omschreven technische delen. Een combinatie van deze delen is toegestaan mits de delen die worden gecombineerd op natuurlijke wijze met elkaar verbonden blijven.   
-2.  Op verzoek van belanghebbende kan in gevallen waarin voldoende waarborgen bestaan voor de identificatie van de door uitbening te verkrijgen delen en het voorkomen van hun vervanging door andere producten, door de Minister ontheffing worden verleend om in andere delen uit te benen dan de in bijlage 1 en 2 omschreven delen. Aan de ontheffing kunnen voorschriften worden verbonden. Aanvragen tot ontheffing worden bij de Minister ingediend.   
+2.  Op verzoek van belanghebbende kan in gevallen waarin voldoende waarborgen bestaan voor de identificatie van de door uitbening te verkrijgen delen en het voorkomen van hun vervanging door andere producten, door de Minister ontheffing worden verleend om in andere delen uit te benen dan de in bijlage 1 en 2 omschreven delen. Aan de ontheffing kunnen voorschriften worden verbonden. Aanvragen tot ontheffing worden bij de Minister ingediend.  
 
 ### Artikel  18  
 
@@ -233,7 +233,7 @@ c. de door de ambtenaar van de NVWA overeenkomstig artikel 13, tweede lid, aange
 
 d. de ruimte waar wordt uitgebeend en uitgesneden is afsluitbaar;  
 
-e. het bedrijf waar de uitsnijderij zich bevindt beschikt over deugdelijke kantoorruimte voor de ambtenaar van de NVWA.    
+e. het bedrijf waar de uitsnijderij zich bevindt beschikt over deugdelijke kantoorruimte voor de ambtenaar van de NVWA.   
 
 ### Artikel  19  
 
@@ -249,7 +249,7 @@ c. het aantal technische delen per doos of per zak;
 
 d. de tarra van de doos of zak;  
 
-e. het nettogewicht.     
+e. het nettogewicht.    
 
 ### Artikel  20  
 
@@ -278,13 +278,13 @@ j. netto gewicht in kg;
 k. totaal nettogewicht en aantal technische delen;  
 
 l. tarra van de doos.     
-2.  De ambtenaar van de NVWA vermeldt het nummer van het attest uitgebeend vlees op de paklijst.   
+2.  De ambtenaar van de NVWA vermeldt het nummer van het attest uitgebeend vlees op de paklijst.  
 
 ### Artikel  21  
 
 1.  De ambtenaar van de NVWA voorziet de verpakkingen van een onuitwisbaar merk volgens het model uit artikel 7, vijfde lid. Artikel 7, zevende lid, is van overeenkomstige toepassing. Op de met het teken Y aangeduide plaats wordt het nummer van het attest uitgebeend vlees opgenomen.   
 2.  Onmiddellijk na deze stempeling worden onder toezicht van de ambtenaar van de NVWA de technische delen gewogen en in een vervoermiddel geladen.   
-3.  Na inlading wordt het vervoermiddel door de ambtenaar van de NVWA verzegeld.   
+3.  Na inlading wordt het vervoermiddel door de ambtenaar van de NVWA verzegeld.  
 
 ### Artikel  22  
 
@@ -296,7 +296,7 @@ a. het nummer van het in artikel 14, eerste lid, bedoelde identificatieattest;
 b. het overeenkomstig artikel 21, tweede lid, vastgestelde gewicht.     
 3.  De NVWA vermeldt het nummer van het attest uitgebeend vlees op het identificatieattest.   
 4.  Het origineel van het attest uitgebeend vlees vergezelt de partij en wordt door of namens belanghebbende bij het vervullen van de douaneformaliteiten bij uitvoer overgelegd.   
-5.  De nummers van zowel het identificatieattest als van het attest uitgebeend vlees dienen op bij de aangifte ten invoer onderscheidenlijk op de maandstaat als bedoeld in [artikel 3:24 van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), te worden vermeld.   
+5.  De nummers van zowel het identificatieattest als van het attest uitgebeend vlees dienen op bij de aangifte ten invoer onderscheidenlijk op de maandstaat als bedoeld in [artikel 3:24 van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), te worden vermeld.  
 
 ### Paragraaf  4  
 
@@ -308,7 +308,7 @@ b. het overeenkomstig artikel 21, tweede lid, vastgestelde gewicht.
 2.  Het vervullen van de douaneformaliteiten voor uitvoer voor de totale hoeveelheid vlees waarop het attest uitgebeend vlees betrekking heeft, vindt plaats op hetzelfde tijdstip bij hetzelfde douanekantoor.   
 3.  Na beëindiging van de verificatie viseert de douaneambtenaar het origineel van het identificatieattest onderscheidenlijk het attest uitgebeend vlees door invulling van het daartoe bestemde vak.   
 4.  De douaneambtenaar zendt het identificatieattest onderscheidenlijk het attest uitgebeend vlees tezamen met de aangifte ten invoer toe aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
-5.  In geval van scheepsproviandering als bedoeld in [artikel 3:23, eerste lid, van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
+5.  In geval van scheepsproviandering als bedoeld in [artikel 3:23, eerste lid, van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.  
 
 ### Paragraaf  5  
 
@@ -316,19 +316,19 @@ b. het overeenkomstig artikel 21, tweede lid, vastgestelde gewicht.
 
 ### Artikel  24  
 
-Wijzigt de Regeling medebewind gemeenschappelijk landbouwbeleid.   
+Wijzigt de Regeling medebewind gemeenschappelijk landbouwbeleid. 
 
 ### Artikel  25  
 
-De [Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984](../../../../../../../../../../ministeriele-regeling/beschikking/bijzondere/restituties/bij/uitvoer/bepaalde/soorten/rundvlees/etc/BWBR0003660/README.md) wordt ingetrokken.  
+De [Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984](../../../../../../../../../../ministeriele-regeling/beschikking/bijzondere/restituties/bij/uitvoer/bepaalde/soorten/rundvlees/etc/BWBR0003660/README.md) wordt ingetrokken. 
 
 ### Artikel  26  
 
-Deze regeling treedt in werking met ingang 1 januari 2007.  
+Deze regeling treedt in werking met ingang 1 januari 2007. 
 
 ### Artikel  27  
 
-Deze regeling wordt aangehaald als: Regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees.  
+Deze regeling wordt aangehaald als: Regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -336,7 +336,7 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman  
+C.P. Veerman    
 
 ### Bijlage  1  
 

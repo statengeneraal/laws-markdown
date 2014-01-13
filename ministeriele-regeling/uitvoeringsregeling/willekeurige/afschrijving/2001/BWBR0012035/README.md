@@ -6,10 +6,10 @@ De Staatssecretaris van Financiën;
 Handelende in overeenstemming met de Minister van Economische Zaken, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
 Gelet op de [artikelen 3.31](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.34](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.36](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.38](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.52 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
-Besluit:     
+Besluit:      
 ### Hoofdstuk  1  
 
-####Algemene bepalingen
+####Algemene bepalingen 
 
 ### Artikel  1  
 
@@ -18,7 +18,7 @@ Besluit:
 
 ### Hoofdstuk  2  
 
-####Milieu-bedrijfsmiddelen
+####Milieu-bedrijfsmiddelen 
 
 ### Artikel  2  
 
@@ -32,30 +32,30 @@ b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwart
 
 ### Artikel  3  
 
-De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in artikel 2 gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.  
+De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in artikel 2 gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld. 
 
 ### Artikel  4  
 
-1.  De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.   
-2.  De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.   
+1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg. 
+2. De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.
 
 ### Artikel  5  
 
-Met betrekking tot milieubedrijfsmiddelen die op grond van [artikel 3.42a, zevende lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangemeld voor de milieu-investeringsaftrek en waarop de belastingplichtige tevens willekeurig wil afschrijven, kan de aanmelding voor willekeurige afschrijving, bedoeld in [artikel 3.36, eerste lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden opgenomen in de aanmelding voor de milieu-investeringsaftrek.  
+Met betrekking tot milieubedrijfsmiddelen die op grond van [artikel 3.42a, zevende lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangemeld voor de milieu-investeringsaftrek en waarop de belastingplichtige tevens willekeurig wil afschrijven, kan de aanmelding voor willekeurige afschrijving, bedoeld in [artikel 3.36, eerste lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden opgenomen in de aanmelding voor de milieu-investeringsaftrek. 
 
 ### Hoofdstuk  3  
 
-####Bedrijfsmiddelen in het belang van de arbeidsomstandigheden
+####Bedrijfsmiddelen in het belang van de arbeidsomstandigheden 
 
-Vervallen per 01-01-2005   
+Vervallen per 01-01-2005 
 
 ### Hoofdstuk  4  
 
-####Andere aangewezen bedrijfsmiddelen
+####Andere aangewezen bedrijfsmiddelen 
 
 ### Paragraaf  1  
 
-####Investeringen door startende ondernemers
+####Investeringen door startende ondernemers 
 
 ### Artikel  7  
 
@@ -74,7 +74,7 @@ De periode bedoeld in [artikel 3.38 van de wet](../../../../../../wet/wet/inkoms
 
 ### Paragraaf  2  
 
-####Zeeschepen
+####Zeeschepen 
 
 ### Artikel  10  
 
@@ -117,43 +117,43 @@ i. bedrijfsmiddelen die zijn bestemd om – direct of indirect – hoofdzakelijk
 
 j. bedrijfsmiddelen waarop uit anderen hoofde willekeurig wordt afgeschreven.     
 3.  De in het eerste lid genoemde datum van 1 januari 2012, 1 januari 2013, 1 januari 2014, onderscheidenlijk 1 januari 2016, waarvoor de ingebruikneming van het bedrijfsmiddel dient plaats te vinden, wordt verschoven, indien de belastingplichtige aannemelijk maakt dat de ingebruikneming door bijzondere omstandigheden is vertraagd. De verschuiving bedraagt zoveel dagen als door die omstandigheden wordt gerechtvaardigd.   
-4.  Voor de toepassing van het tweede lid, onderdeel e, wordt onder een zeer zuinige personenauto verstaan een personenauto met een CO <sub>2</sub> -uitstoot als bedoeld in [artikel 3.20, zesde lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van niet meer dan: 
+4.  Voor de toepassing van het tweede lid, onderdeel e, wordt onder een zeer zuinige personenauto verstaan een personenauto met een CO<sub>2</sub>-uitstoot als bedoeld in [artikel 3.20, zesde lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van niet meer dan: 
 
 a. 95 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, respectievelijk 110 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking, voor auto’s waarvoor de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan in het kalenderjaar 2009, 2010 of 2011;  
 
-b. 88 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, respectievelijk 95 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking, voor auto’s waarvoor de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan in de periode van 1 juli tot en met 31 december 2013.     
+b. 88 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, respectievelijk 95 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking, voor auto’s waarvoor de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan in de periode van 1 juli tot en met 31 december 2013.    
 
 ### Artikel  14  
 
 1.  Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in artikel 13 verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in het kalenderjaar 2009, 2010 of 2011 bedraagt de willekeurige afschrijving in het jaar waarin de verplichting is aangegaan of de voortbrengingskosten zijn gemaakt ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten.   
-2.  Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in artikel 13 verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in de periode van 1 juli tot en met 31 december 2013 kan eenmalig ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten willekeurig worden afgeschreven in het jaar waarin de verplichtingen zijn aangegaan of de voortbrengingskosten zijn gemaakt.   
+2.  Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in artikel 13 verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in de periode van 1 juli tot en met 31 december 2013 kan eenmalig ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten willekeurig worden afgeschreven in het jaar waarin de verplichtingen zijn aangegaan of de voortbrengingskosten zijn gemaakt.  
 
 ### Artikel  15  
 
 1.  Voor de toepassing van [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) eindigt de periode waarin het bedrijfsmiddel moet voldoen aan de voorwaarden van artikel 13 op 31 december 2011, op 31 december 2012, op 31 december 2013, onderscheidenlijk op 31 december 2015. Ingeval met betrekking tot het bedrijfsmiddel artikel 13, derde lid, toepassing vindt, wordt de periode, bedoeld in de eerste volzin, verlengd met het aantal dagen van de in artikel 13, derde lid, bedoelde verschuiving.   
-2.  Ingeval met betrekking tot een in artikel 13, eerste lid, tweede volzin, bedoeld schip vanaf enig moment vóór 1 januari 2020, vóór 1 januari 2021, onderscheidenlijk vóór 1 januari 2023, de winst wordt bepaald met toepassing van [artikel 3.22 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), vindt [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing voordat [artikel 3.23, tweede lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing vindt.   
+2.  Ingeval met betrekking tot een in artikel 13, eerste lid, tweede volzin, bedoeld schip vanaf enig moment vóór 1 januari 2020, vóór 1 januari 2021, onderscheidenlijk vóór 1 januari 2023, de winst wordt bepaald met toepassing van [artikel 3.22 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), vindt [artikel 3.38 van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing voordat [artikel 3.23, tweede lid, van de wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) toepassing vindt.  
 
 ### Paragraaf  4  
 
-####Investeringen op het continentaal plat
+####Investeringen op het continentaal plat 
 
-Vervallen per 01-01-2003   
+Vervallen per 01-01-2003 
 
 ### Paragraaf  5  
 
-####Film
+####Film 
 
-Vervallen per 01-01-2003   
+Vervallen per 01-01-2003 
 
 ### Paragraaf  6  
 
-####Nieuwe gebouwen in aangewezen gemeenten
+####Nieuwe gebouwen in aangewezen gemeenten 
 
-Vervallen per 01-01-2003   
+Vervallen per 01-01-2003 
 
 ### Hoofdstuk  5  
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  25  
 
@@ -161,7 +161,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 ### Artikel  26  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling willekeurige afschrijving 2001.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling willekeurige afschrijving 2001. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

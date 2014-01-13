@@ -14,85 +14,85 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.   
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001. 
 
 ### Artikel  III  
 
-Wijzigt de Uitvoeringsregeling loonbelasting 2001.   
+Wijzigt de Uitvoeringsregeling loonbelasting 2001. 
 
 ### Artikel  IV  
 
-Wijzigt de Uitvoeringsregeling afdrachtvermindering.   
+Wijzigt de Uitvoeringsregeling afdrachtvermindering. 
 
 ### Artikel  V  
 
-Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.   
+Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971. 
 
 ### Artikel  VI  
 
-Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.   
+Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965. 
 
 ### Artikel  VII  
 
-Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.   
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994. 
 
 ### Artikel  VIII  
 
-Wijzigt de Uitvoeringsregeling Belastingdienst 2003.   
+Wijzigt de Uitvoeringsregeling Belastingdienst 2003. 
 
 ### Artikel  IX  
 
-Wijzigt de Uitvoeringsregeling Invorderingswet 1990.   
+Wijzigt de Uitvoeringsregeling Invorderingswet 1990. 
 
 ### Artikel  X  
 
-Wijzigt de Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen.   
+Wijzigt de Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen. 
 
 ### Artikel  XI  
 
-Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.   
+Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  XII  
 
-De [Uitvoeringsregeling vakbekwaamheidseisen Wet waardering onroerende zaken](../../../../../../ministeriele-regeling/uitvoeringsregeling/vakbekwaamheidseisen/wet/waardering/onroerende/zaken/BWBR0007229/README.md) wordt ingetrokken.  
+De [Uitvoeringsregeling vakbekwaamheidseisen Wet waardering onroerende zaken](../../../../../../ministeriele-regeling/uitvoeringsregeling/vakbekwaamheidseisen/wet/waardering/onroerende/zaken/BWBR0007229/README.md) wordt ingetrokken. 
 
 ### Artikel  XIII  
 
-Wijzigt de Uitvoeringsregeling Wob Financiën.   
+Wijzigt de Uitvoeringsregeling Wob Financiën. 
 
 ### Artikel  XIV  
 
-Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.   
+Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968. 
 
 ### Artikel  XV  
 
-Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.   
+Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992. 
 
 ### Artikel  XVI  
 
-Wijzigt de Algemene douaneregeling.   
+Wijzigt de Algemene douaneregeling. 
 
 ### Artikel  XVII  
 
-Wijzigt de Uitvoeringsregeling accijns.   
+Wijzigt de Uitvoeringsregeling accijns. 
 
 ### Artikel  XVIII  
 
-Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.   
+Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten. 
 
 ### Artikel  XIX  
 
-Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.   
+Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag. 
 
 ### Artikel  XX  
 
-[Artikel 3 van de Uitvoeringsregeling Invorderingswet 1990](../../../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md), zoals dat artikel luidde op 31 december 2009, blijft van toepassing met betrekking tot belastingaanslagen ter zake van inkomstenbelasting wegens een schenking van tot een aanmerkelijk belang behorende aandelen of winstbewijzen die voor 1 januari 2010 heeft plaatsgevonden, met dien verstande dat het vijfde lid van artikel 3 van de Uitvoeringsregeling Invorderingswet 1990 zoals dat artikel luidt met ingang van 1 januari 2010, eveneens van toepassing is.  
+[Artikel 3 van de Uitvoeringsregeling Invorderingswet 1990](../../../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md), zoals dat artikel luidde op 31 december 2009, blijft van toepassing met betrekking tot belastingaanslagen ter zake van inkomstenbelasting wegens een schenking van tot een aanmerkelijk belang behorende aandelen of winstbewijzen die voor 1 januari 2010 heeft plaatsgevonden, met dien verstande dat het vijfde lid van artikel 3 van de Uitvoeringsregeling Invorderingswet 1990 zoals dat artikel luidt met ingang van 1 januari 2010, eveneens van toepassing is. 
 
 ### Artikel  XXI  
 
 1.  Een functionaris die op grond van de [Uitvoeringsregeling belastingdienst 2003](../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de [Algemene douaneregeling](../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zoals deze luiden na inwerkingtreding van deze regeling, is aangewezen als directeur, inspecteur of ontvanger treedt in de plaats van de functionaris die als zodanig vóór inwerkingtreding van deze regeling bevoegd was.   
 2.  Beslissingen die zijn of worden genomen door een directeur, inspecteur of ontvanger die als zodanig vóór inwerkingtreding van deze regeling bevoegd was, worden geacht te zijn genomen door de directeur, inspecteur of ontvanger die als zodanig op grond van de [Uitvoeringsregeling belastingdienst 2003](../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de [Algemene douaneregeling](../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zoals deze luiden na inwerkingtreding van deze regeling, is aangewezen.   
-3.  Ingeval in een beschikking na inwerkingtreding van deze regeling wordt verwezen naar een (onderdeel van een) organisatieonderdeel dan wel een functionaris, genoemd in de [Uitvoeringsregeling belastingdienst 2003](../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) of de [Algemene douaneregeling](../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zoals deze luidden vóór inwerkingtreding van deze regeling, wordt dit geacht een verwijzing te zijn naar het daarvoor in de plaats gekomen (onderdeel van het) organisatieonderdeel dan wel de daarvoor in de plaats gekomen functionaris in de Uitvoeringsregeling belastingdienst 2003 of de Algemene douaneregeling, zoals deze luiden na inwerkingtreding van deze regeling.   
+3.  Ingeval in een beschikking na inwerkingtreding van deze regeling wordt verwezen naar een (onderdeel van een) organisatieonderdeel dan wel een functionaris, genoemd in de [Uitvoeringsregeling belastingdienst 2003](../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) of de [Algemene douaneregeling](../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zoals deze luidden vóór inwerkingtreding van deze regeling, wordt dit geacht een verwijzing te zijn naar het daarvoor in de plaats gekomen (onderdeel van het) organisatieonderdeel dan wel de daarvoor in de plaats gekomen functionaris in de Uitvoeringsregeling belastingdienst 2003 of de Algemene douaneregeling, zoals deze luiden na inwerkingtreding van deze regeling.  
 
 ### Artikel  XXII  
 
@@ -116,9 +116,9 @@ h. artikel XVI, onderdeel P, in werking treedt met ingang van 1 maart 2010;
 
 i. artikel XVII, onderdeel M, in werking treedt met ingang van 1 maart 2010;  
 
-j. artikel XIX, onderdelen F, G en H terugwerkt tot en met 1 januari 2008.    
+j. artikel XIX, onderdelen F, G en H terugwerkt tot en met 1 januari 2008.   
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

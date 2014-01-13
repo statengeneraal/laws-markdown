@@ -13,52 +13,52 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 18](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [20](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
-2.  Deze regeling verstaat onder de wet: [de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
+1.   Deze regeling geeft uitvoering aan de [artikelen 18](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), [20](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md).   
+2. Deze regeling verstaat onder de wet: [de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md). 
 
-### Artikel  1a  
+###Artikel 1a 
 
-De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullingen op uitkeringen ingevolge de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) het gezamenlijke bedrag van de uitkeringen en de aanvullingen.  
+De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullingen op uitkeringen ingevolge de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) het gezamenlijke bedrag van de uitkeringen en de aanvullingen. 
 
 ### Hoofdstuk  II  
 
 ####Vermindering af te dragen loonbelasting en premie voor de volksverzekeringen
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Hoofdstuk  III  
 
 ####Afdrachtvermindering langdurig werklozen
 
-Vervallen per 01-01-2003   
+Vervallen per 01-01-2003 
 
 ### Hoofdstuk  IV  
 
 ####Afdrachtvermindering onderwijs
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Hoofdstuk  IVA  
 
 ####Afdrachtvermindering scholing
 
-Vervallen per 01-01-2004   
+Vervallen per 01-01-2004 
 
 ### Hoofdstuk  V  
 
 ####Afdrachtvermindering kinderopvang
 
-Vervallen per 01-01-2005   
+Vervallen per 01-01-2005 
 
 ### Hoofdstuk  VA  
 
 ####Afdrachtvermindering betaald ouderschapsverlof
 
-Vervallen per 01-01-2006   
+Vervallen per 01-01-2006 
 
-### Hoofdstuk  VI  
+###Hoofdstuk VI 
 
-####Afdrachtvermindering zeevaart
+####Afdrachtvermindering zeevaart 
 
 ### Artikel  16  
 
@@ -67,26 +67,26 @@ Vervallen per 01-01-2006
 a. per zeevarende het door deze per loontijdvak genoten loon uit tegenwoordige dienstbetrekking, alsmede het percentage van de afdrachtvermindering zeevaart dat met betrekking tot hem van toepassing is;  
 
 b. de berekening van de afdrachtvermindering zeevaart.     
-2.  De inhoudingsplichtige administreert bij de loonadministratie per kalenderjaar: 
+2.   De inhoudingsplichtige administreert bij de loonadministratie per kalenderjaar: 
 
 a. de namen, de geboortedata en de nummers van de monsterboekjes van de zeevarenden met betrekking tot wie de afdrachtvermindering zeevaart is toegepast;  
 
 b. de naam en de roepnaam van het zeeschip of de zeeschepen waarop de met betrekking tot wie de afdrachtvermindering zeevaart is toegepast, zeevarenden aangemonsterd zijn geweest. Voor toepassing van de vorige volzin wordt onder de roepnaam van een zeeschip verstaan de roepnaam, bedoeld in artikel 25 van het Radioreglement 1997 (Trb. 1981, nr. 78);  
 
 c. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de periode of perioden waarin de zeevarende aan boord van een zeeschip aangemonsterd is geweest.     
-3.  De inhoudingsplichtige bewaart en registreert op chronologische volgorde: 
+3.   De inhoudingsplichtige bewaart en registreert op chronologische volgorde: 
 
 a. de afschriften, bedoeld in [artikel 18, tweede lid, van de wet](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
 
-b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de monsterrollen, bedoeld in [artikel 33 van de Zeevaartbemanningwet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).     
+b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de monsterrollen, bedoeld in [artikel 33 van de Zeevaartbemanningwet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).    
 
-### Artikel  20  
+###Artikel 20 
 
-Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het kader van een onderneming grotendeels op zee geëxploiteerd indien het in de kalendermaand waarin het inhoudingstijdstip valt grotendeels op zee wordt geëxploiteerd.  
+Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het kader van een onderneming grotendeels op zee geëxploiteerd indien het in de kalendermaand waarin het inhoudingstijdstip valt grotendeels op zee wordt geëxploiteerd.
 
 ### Artikel  20a  
 
-Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in droogdok ligt gedurende ten hoogste een maand geacht grotendeels op zee te worden geëxploiteerd.  
+Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in droogdok ligt gedurende ten hoogste een maand geacht grotendeels op zee te worden geëxploiteerd. 
 
 ### Artikel  21  
 
@@ -97,15 +97,15 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in d
 
 ####S&O-afdrachtvermindering
 
-Vervallen per 01-01-2006   
+Vervallen per 01-01-2006 
 
 ### Hoofdstuk  VIIA  
 
 ####Arbo-afdrachtvermindering
 
-Vervallen per 01-01-2005   
+Vervallen per 01-01-2005 
 
-### Hoofdstuk  VIII  
+###Hoofdstuk VIII 
 
 ####Overgangs- en slotbepalingen
 
@@ -116,8 +116,8 @@ Met betrekking tot gevallen waarin artikel 2 van de Wet belasting- en premiefaci
 ### Artikel  27  
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 1996.   
-2.  Deze regeling kan worden aangehaald als: Uitvoeringsregeling afdrachtvermindering.   
+2.  Deze regeling kan worden aangehaald als: Uitvoeringsregeling afdrachtvermindering.  
 
 De 
 Staatssecretaris van Financiën, 
-W.A.Vermeend   
+W.A. Vermeend   

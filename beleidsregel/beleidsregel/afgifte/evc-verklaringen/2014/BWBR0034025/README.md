@@ -12,11 +12,11 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *beoordelende organisatie:* de organisatie die de kwaliteit van een EVC-aanbieder, diens EVC-procedures, de uitvoering van die procedures en de uitgereikte ervaringscertificaten beoordeelt en hierover een advies uitbrengt;  
+b.  *beoordelende organisatie:* de organisatie die de kwaliteit van een EVC-aanbieder, diens EVC-procedures, de uitvoering van die procedures en de uitgereikte ervaringscertificaten beoordeelt en hierover een advies uitbrengt;  
 
-c. *domein:* alle EVC-standaarden behorende tot: 
+c.  *domein:* alle EVC-standaarden behorende tot: 
 
 I. een opleidingsdomein als bedoeld in [artikel 1.1.1, onder t2, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en zoals vastgesteld in [artikel 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md), of  
 
@@ -26,31 +26,31 @@ III. een onderdeel voor de gebieden van onderwijs in het wetenschappelijk onderw
 
 IV. een branche waarvoor één of meerdere branchestandaarden als EVC-standaard zijn goedgekeurd door de Stichting van de Arbeid te Den Haag;    
 
-d. *DUO:* Dienst Uitvoering Onderwijs te Groningen;  
+d.  *DUO:* Dienst Uitvoering Onderwijs te Groningen;  
 
-e. *EVC:* Erkenning Verworven Competenties;  
+e.  *EVC:* Erkenning Verworven Competenties;  
 
-f. *EVC-aanbieder:* een organisatie die volgens de principes en uitgangspunten van de Kwaliteitscode EVC een of meerdere EVC-procedures aanbiedt en is opgenomen in het register van afgegeven EVC-verklaringen;  
+f.  *EVC-aanbieder:* een organisatie die volgens de principes en uitgangspunten van de Kwaliteitscode EVC een of meerdere EVC-procedures aanbiedt en is opgenomen in het register van afgegeven EVC-verklaringen;  
 
-g. *EVC-procedure:* de door de EVC-aanbieder geprogrammeerde processtappen, instrumenten en werkwijzen voor, tijdens en na een EVC-onderzoek om conform de eisen in de normtekst bij de Kwaliteitscode EVC te handelen;  
+g.  *EVC-procedure:* de door de EVC-aanbieder geprogrammeerde processtappen, instrumenten en werkwijzen voor, tijdens en na een EVC-onderzoek om conform de eisen in de normtekst bij de Kwaliteitscode EVC te handelen;  
 
-h. *EVC-standaard:* landelijk erkend profiel dat de EVC-aanbieder in zijn EVC-procedure als beoordelingskader gebruikt;  
+h.  *EVC-standaard:* landelijk erkend profiel dat de EVC-aanbieder in zijn EVC-procedure als beoordelingskader gebruikt;  
 
-i. *ervaringscertificaat:* het document waarin het resultaat, van een individu in een EVC-procedure, van het EVC-onderzoek aan de hand van de desbetreffende EVC-standaard is beschreven;  
+i.  *ervaringscertificaat:* het document waarin het resultaat, van een individu in een EVC-procedure, van het EVC-onderzoek aan de hand van de desbetreffende EVC-standaard is beschreven;  
 
-j. *EVC-verklaring:* de verklaring als bedoeld in [artikel 6.27, tweede lid, van de Wet op de inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [artikel 31a, tweede lid, onderdeel d, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 14, eerste lid, onderdeel h, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
+j.  *EVC-verklaring:* de verklaring als bedoeld in [artikel 6.27, tweede lid, van de Wet op de inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [artikel 31a, tweede lid, onderdeel d, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 14, eerste lid, onderdeel h, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
 
-k. *kandidaat:* de kandidaat als bedoeld in de Kwaliteitscode EVC;  
+k.  *kandidaat:* de kandidaat als bedoeld in de Kwaliteitscode EVC;  
 
-l. *Kwaliteitscode EVC:* code waarin de principes en uitgangspunten voor de kwaliteit van EVC-procedures zijn bepaald;  
+l.  *Kwaliteitscode EVC:* code waarin de principes en uitgangspunten voor de kwaliteit van EVC-procedures zijn bepaald;  
 
-m. *normtekst:* vertaling van de in de Kwaliteitscode EVC geformuleerde richtlijnen naar een instrument, waarin de criteria voor de beoordeling van EVC-procedures bij een of meerdere EVC-standaarden expliciet en meetbaar zijn geformuleerd, zoals opgenomen in bijlage 1 van deze beleidsregel.    
+m.  *normtekst:* vertaling van de in de Kwaliteitscode EVC geformuleerde richtlijnen naar een instrument, waarin de criteria voor de beoordeling van EVC-procedures bij een of meerdere EVC-standaarden expliciet en meetbaar zijn geformuleerd, zoals opgenomen in bijlage 1 van deze beleidsregel.   
 
 ### Artikel  2  
 
 ####Reikwijdte
 
-Deze beleidsregel heeft betrekking op de wijze waarop en de voorwaarden waaronder de Minister EVC-verklaringen afgeeft.  
+Deze beleidsregel heeft betrekking op de wijze waarop en de voorwaarden waaronder de Minister EVC-verklaringen afgeeft. 
 
 ### Artikel  3  
 
@@ -58,7 +58,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop en de voorwaarden waaronde
 
 1.  De Minister draagt er zorg voor dat alle afgegeven EVC-verklaringen worden geregistreerd in een register, waarbij per verklaring wordt opgenomen: de (handels)naam van de EVC-aanbieder, het domein waarop de verklaring ziet, de daaronder ressorterende EVC-standaarden waarvoor de EVC-aanbieder in ieder geval EVC-procedures verzorgt en de datum waarop de afgegeven EVC-verklaring van rechtswege vervalt dan wel is ingetrokken op grond van artikel 8.   
 2.  Indien een EVC-verklaring wordt verlengd wordt dit zo spoedig mogelijk voordat de geldigheidsduur van de daaraan ten grondslag liggende EVC-verklaring van rechtswege eindigt, vermeld in het register.   
-3.  Indien een EVC-verklaring komt te vervallen, wordt de verklaring doorgehaald in het register.   
+3.  Indien een EVC-verklaring komt te vervallen, wordt de verklaring doorgehaald in het register.  
 
 ### Artikel  4  
 
@@ -85,7 +85,7 @@ a. per domein de EVC-procedure moet voldoen aan de onderdelen 3.2, 4.3 en 4.4, o
 b. de organisatie moet voldoen aan de onderdelen 1.1 tot en met 1.3, 2.1 tot en met 2.7, 3.1, 3.3 tot en met 3.9, 4.1, 4.2, 4.5, 4.6 en 5.1 van de normtekst.  
 
 c. per domein een EVC-verklaring wordt afgegeven.     
-6.  Indien een EVC-verklaring voor een domein is afgegeven is de EVC-aanbieder niet gehouden alle standaarden ressorterend onder dat domein te verzorgen.   
+6.  Indien een EVC-verklaring voor een domein is afgegeven is de EVC-aanbieder niet gehouden alle standaarden ressorterend onder dat domein te verzorgen.  
 
 ### Artikel  5  
 
@@ -93,7 +93,7 @@ c. per domein een EVC-verklaring wordt afgegeven.
 
 1.  Het besluit tot afgifte van een EVC-verklaring, als bedoeld in artikel 4, bevat de aanduiding van het domein en de daaronder vallende EVC-standaarden waarop de verklaring betrekking heeft, de (handels)naam van de EVC-aanbieder aan wie de verklaring wordt verstrekt en de geldigheidsduur van de EVC-verklaring.   
 2.  Het besluit tot afgifte van een EVC-verklaring vervalt 18 maanden na de datum waarop het besluit is genomen.   
-3.  Een EVC-aanbieder kan tot uiterlijk twee maanden voor de datum waarop het besluit tot afgifte van een EVC-verklaring vervalt een verzoek tot verlenging, als bedoeld in artikel 6, eerste lid, indienen.   
+3.  Een EVC-aanbieder kan tot uiterlijk twee maanden voor de datum waarop het besluit tot afgifte van een EVC-verklaring vervalt een verzoek tot verlenging, als bedoeld in artikel 6, eerste lid, indienen.  
 
 ### Artikel  6  
 
@@ -113,7 +113,7 @@ e. de EVC-verklaring als bedoeld in artikel 4 is niet vervallen.
 2.  Indien de Minister ten aanzien van een verzoek om verlenging vaststelt dat niet wordt voldaan aan alle in het eerste lid genoemde voorwaarden wijst hij het verzoek af.   
 3.  De beoordeling van de in het eerste lid, onder d, bedoelde onderdelen van de normtekst vindt plaats op basis van de daadwerkelijk uitgevoerde EVC-procedures.   
 4.  Met een verzoek om verlenging kan voor meerdere domeinen een verlenging van de EVC-verklaring aangevraagd worden. In dat geval dient per domein voldaan te worden aan de in het eerste lid genoemde voorwaarden. Per domein wordt een verlenging van de EVC-verklaring afgegeven.   
-5.  Indien een EVC-verklaring voor een domein is afgegeven is de EVC-aanbieder niet gehouden alle standaarden ressorterend onder dat domein te verzorgen.   
+5.  Indien een EVC-verklaring voor een domein is afgegeven is de EVC-aanbieder niet gehouden alle standaarden ressorterend onder dat domein te verzorgen.  
 
 ### Artikel  7  
 
@@ -121,7 +121,7 @@ e. de EVC-verklaring als bedoeld in artikel 4 is niet vervallen.
 
 1.  Het besluit tot afgifte van een verlenging van een EVC-verklaring, als bedoeld in artikel 6, bevat de aanduiding van het domein en de daaronder vallende EVC-standaarden waarop de verklaring betrekking heeft, de (handels)naam van de EVC-aanbieder aan wie de verklaring wordt verstrekt en de geldigheidsduur van de verlenging.   
 2.  Het besluit tot afgifte van een verlenging van een EVC-verklaring vervalt 18 maanden na de datum waarop het besluit is genomen.   
-3.  Een EVC-aanbieder kan tot uiterlijk twee maanden voor de datum waarop het besluit tot afgifte van verlenging van een EVC-verklaring vervalt opnieuw een verzoek tot verlenging, als bedoeld in artikel 6, eerste lid, indienen.   
+3.  Een EVC-aanbieder kan tot uiterlijk twee maanden voor de datum waarop het besluit tot afgifte van verlenging van een EVC-verklaring vervalt opnieuw een verzoek tot verlenging, als bedoeld in artikel 6, eerste lid, indienen.  
 
 ### Artikel  8  
 
@@ -133,13 +133,13 @@ a. de door de EVC-aanbieder verstrekte gegevens achteraf zodanig onjuist blijken
 
 b. gebleken is dat een EVC-procedure niet langer voldoet aan de normtekst; of  
 
-c. sprake is van gewijzigde omstandigheden of gewijzigde inzichten, die het intrekken van het besluit tot afgifte van een EVC-verklaring rechtvaardigen.    
+c. sprake is van gewijzigde omstandigheden of gewijzigde inzichten, die het intrekken van het besluit tot afgifte van een EVC-verklaring rechtvaardigen.   
 
 ### Artikel  9  
 
 ####Reeds gestarte EVC-procedures
 
-Indien een EVC-verklaring van rechtswege is komen te vervallen dan wel is ingetrokken op grond van artikel 8 wordt de verklaring geacht van toepassing te blijven op die EVC-procedures die zijn gestart voordat de EVC-verklaring is komen te vervallen dan wel is ingetrokken. Een EVC-procedure wordt geacht te zijn gestart op het moment dat een overeenkomst tussen de EVC-aanbieder en de kandidaat is gesloten.  
+Indien een EVC-verklaring van rechtswege is komen te vervallen dan wel is ingetrokken op grond van artikel 8 wordt de verklaring geacht van toepassing te blijven op die EVC-procedures die zijn gestart voordat de EVC-verklaring is komen te vervallen dan wel is ingetrokken. Een EVC-procedure wordt geacht te zijn gestart op het moment dat een overeenkomst tussen de EVC-aanbieder en de kandidaat is gesloten. 
 
 ### Artikel  10  
 
@@ -149,7 +149,7 @@ Indien een EVC-verklaring van rechtswege is komen te vervallen dan wel is ingetr
 2.  Als de relatie tussen de organisatie, die de EVC-verklaring voor een domein heeft verkregen en de uitvoering van alle EVC-procedure voor dat domein verbroken worden, vervalt daarmee de EVC-verklaring en wordt deze doorgehaald in het EVC-register.   
 3.  Elke fusie of overdracht van de organisatie, die een EVC-verklaring heeft, wordt ter toetsing voorgelegd aan DUO.   
 4.  Indien DUO oordeelt dat de relatie tussen de organisatie en alle EVC-procedures voor het betreffende domein verbroken zijn, komt de EVC-verklaring te vervallen.   
-5.  Indien na de toetsing, bedoeld in het derde lid, de EVC-verklaring niet komt te vervallen, vermeldt DUO in het EVC-register de meest actuele (handels)naam van de organisatie, die als rechtsopvolger in de plaats treedt van de organisatie aan wie de EVC-verklaring is verleend.   
+5.  Indien na de toetsing, bedoeld in het derde lid, de EVC-verklaring niet komt te vervallen, vermeldt DUO in het EVC-register de meest actuele (handels)naam van de organisatie, die als rechtsopvolger in de plaats treedt van de organisatie aan wie de EVC-verklaring is verleend.  
 
 ### Artikel  11  
 
@@ -158,30 +158,30 @@ Indien een EVC-verklaring van rechtswege is komen te vervallen dan wel is ingetr
 1.  Een besluit tot afgifte van een EVC-verklaring, dat is afgegeven voor inwerkingtreding van deze beleidsregel, vervalt eerst na de termijn zoals vermeld in voornoemd besluit.   
 2.  Een besluit tot afgifte van een EVC-verklaring, dat is afgegeven voor inwerkingtreding van deze beleidsregel op grond van [artikel 5 van de Beleidsregel afgifte EVC-verklaringen](../../../../../../beleidsregel/beleidsregel/afgifte/evc-verklaringen/BWBR0027469/README.md) van 18 maart 2010, wordt gelijkgesteld met een EVC-verklaring als bedoeld artikel 5 voor het domein waartoe de betreffende standaard behoort, met dien verstande dat het besluit eerst vervalt na ommekomst van de termijn genoemd in dat besluit.   
 3.  Een besluit tot afgifte van een voorlopige EVC-verklaring als bedoeld in [artikel 6, tweede lid](../../../../../../beleidsregel/beleidsregel/afgifte/evc-verklaringen/BWBR0027469/README.md) of artikel 6, derde lid of artikel 6, vierde lid of artikel 6, zevende lid van de Beleidsregel afgifte EVC-verklaringen van 18 maart 2010 wordt gelijkgesteld met een besluit tot afgifte van een EVC-verklaring als bedoel in artikel 5 voor het domein waartoe de betreffende standaard behoort, met dien verstande dat het besluit eerst vervalt na ommekomst van de termijn genoemd in dat besluit.   
-4.  Een ervaringscertificaat dat is uitgegeven door een erkende EVC-aanbieder waarvan de verklaring later is komen te vervallen dan wel is ingetrokken, blijft zijn waarde en geldigheid behouden.   
+4.  Een ervaringscertificaat dat is uitgegeven door een erkende EVC-aanbieder waarvan de verklaring later is komen te vervallen dan wel is ingetrokken, blijft zijn waarde en geldigheid behouden.  
 
 ### Artikel  12  
 
 ####Intrekken beleidsregel
 
-De [Beleidsregel afgifte EVC-verklaringen](../../../../../../beleidsregel/beleidsregel/afgifte/evc-verklaringen/BWBR0027469/README.md) wordt ingetrokken.  
+De [Beleidsregel afgifte EVC-verklaringen](../../../../../../beleidsregel/beleidsregel/afgifte/evc-verklaringen/BWBR0027469/README.md) wordt ingetrokken. 
 
 ### Artikel  13  
 
 ####Inwerkingtreding
 
-Deze beleidsregel treedt in werking op 1 januari 2014.  
+Deze beleidsregel treedt in werking op 1 januari 2014. 
 
 ### Artikel  14  
 
 ####Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel afgifte EVC-verklaringen 2014.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel afgifte EVC-verklaringen 2014. 
 Deze beleidsregel zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker  
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker    
 
 ### Bijlage  1  
 
@@ -203,7 +203,7 @@ Deze bijlage behoort bij artikel 1, onderdeel m.
 
 ####Toelichting
 
-Een EVC-aanbieder moet de procedures zo inrichten dat de kandidaat uiteindelijk een ervaringscertificaat ontvangt, waarmee hij kan aantonen dat hij voldoet aan de desbetreffende competenties, zowel in het onderwijs als op de arbeidsmarkt. Een EVC-procedure leidt niet tot een diploma. Ook is het niet de bedoeling dat scholing onderdeel uitmaakt van de procedure. Scholing of onderwijs kan, na het voltooien van de procedure en het verkrijgen van een ervaringscertificaat, een vervolgstap zijn, indien het uiteindelijke doel van de kandidaat het behalen van een diploma is. Of met het ervaringscertificaat vrijstellingen verkregen kunnen worden voor een opleiding of cursus is aan (de examencommissie van) de school of de instelling.  
+Een EVC-aanbieder moet de procedures zo inrichten dat de kandidaat uiteindelijk een ervaringscertificaat ontvangt, waarmee hij kan aantonen dat hij voldoet aan de desbetreffende competenties, zowel in het onderwijs als op de arbeidsmarkt. Een EVC-procedure leidt niet tot een diploma. Ook is het niet de bedoeling dat scholing onderdeel uitmaakt van de procedure. Scholing of onderwijs kan, na het voltooien van de procedure en het verkrijgen van een ervaringscertificaat, een vervolgstap zijn, indien het uiteindelijke doel van de kandidaat het behalen van een diploma is. Of met het ervaringscertificaat vrijstellingen verkregen kunnen worden voor een opleiding of cursus is aan (de examencommissie van) de school of de instelling. 
 
 ### Code  2  
 
@@ -227,7 +227,7 @@ Een EVC-aanbieder moet de procedures zo inrichten dat de kandidaat uiteindelijk 
 
 ####Toelichting
 
-De EVC-procedure moet voor het ondertekenen van de overeenkomst de kandidaat duidelijk zijn. De EVC-aanbieder moet dus transparant zijn naar de kandidaat toe en ervoor zorgen dat deze de EVC-procedure kan afronden met een ervaringscertificaat, ook als de aanbieder zijn verklaring verliest. De EVC-aanbieder moet voorafgaand aan het aanbieden van EVC-procedures borgen dat deze kunnen worden afgerond, ook in geval de EVC-verklaring van de EVC-aanbieder komt te vervallen of wordt ingetrokken. Bovendien moet de EVC-aanbieder zorgen dat de kandidaat weet waar hij een klacht kan indienen en moet een ordentelijke klachtenprocedure hebben.  
+De EVC-procedure moet voor het ondertekenen van de overeenkomst de kandidaat duidelijk zijn. De EVC-aanbieder moet dus transparant zijn naar de kandidaat toe en ervoor zorgen dat deze de EVC-procedure kan afronden met een ervaringscertificaat, ook als de aanbieder zijn verklaring verliest. De EVC-aanbieder moet voorafgaand aan het aanbieden van EVC-procedures borgen dat deze kunnen worden afgerond, ook in geval de EVC-verklaring van de EVC-aanbieder komt te vervallen of wordt ingetrokken. Bovendien moet de EVC-aanbieder zorgen dat de kandidaat weet waar hij een klacht kan indienen en moet een ordentelijke klachtenprocedure hebben. 
 
 ### Code  3  
 
@@ -263,7 +263,7 @@ c. de relatie tussen a en b: waarom leidt het bewijs dat de kandidaat aandraagt 
 
 ####Toelichting
 
-In een EVC-procedure moet al het relevante bewijs worden meegenomen. In het ervaringscertificaat worden alle erkende competenties opgenomen en dient de relatie tussen bewijs en erkende competenties helder te zijn. Competenties kunnen ook buiten het formele onderwijs zijn verworven, bijvoorbeeld via informeel en non-formeel leren. De validering van deze leerresultaten is dus leerwegonafhankelijk. Bovendien moeten de instrumenten die gehanteerd worden in voldoende mate aansluiten bij de standaarden waarvoor ze gebruikt worden. EVC-aanbieders kunnen gebruik maken van een format en schrijfwijzer ervaringscertificaat die op te vragen zijn bij het Kenniscentrum EVC. Door het gebruik van het format wordt een eenduidige vormgeving van het ervaringscertificaat gestimuleerd wat de herkenbaarheid naar de arbeidsmarkt en de scholen c.q. instellingen toe bevordert.  
+In een EVC-procedure moet al het relevante bewijs worden meegenomen. In het ervaringscertificaat worden alle erkende competenties opgenomen en dient de relatie tussen bewijs en erkende competenties helder te zijn. Competenties kunnen ook buiten het formele onderwijs zijn verworven, bijvoorbeeld via informeel en non-formeel leren. De validering van deze leerresultaten is dus leerwegonafhankelijk. Bovendien moeten de instrumenten die gehanteerd worden in voldoende mate aansluiten bij de standaarden waarvoor ze gebruikt worden. EVC-aanbieders kunnen gebruik maken van een format en schrijfwijzer ervaringscertificaat die op te vragen zijn bij het Kenniscentrum EVC. Door het gebruik van het format wordt een eenduidige vormgeving van het ervaringscertificaat gestimuleerd wat de herkenbaarheid naar de arbeidsmarkt en de scholen c.q. instellingen toe bevordert. 
 
 ### Code  4  
 
@@ -297,7 +297,7 @@ b. zij dragen bevindingen zowel mondeling als schriftelijk effectief over.
 
 ####Toelichting
 
-Assessoren en begeleiders dienen over zodanige bekwaamheden te beschikken dat zonder twijfel uitgegaan kan worden van hun kennis en kunde. EVC-aanbieders moeten borgen dat de assessoren en de begeleiders die zij inschakelen hun taak naar behoren kunnen uitvoeren. Dat laat onverlet dat EVC-aanbieders gebruik kunnen maken van elkaars functionarissen. Ook is het denkbaar dat EVC-aanbieders nieuwe assessoren en begeleiders gedurende de looptijd van een EVC-verklaring aantrekken dan wel om hen moverende redenen laten gaan. Om die reden is er niet voor gekozen om in de normtekst een verplichting op te nemen dat alleen met assessoren en begeleiders gewerkt mag worden die vooraf beoordeeld zijn door de beoordelende organisaties. Dit zou de flexibiliteit van de organisatie en procedure niet ten goede komen. Omdat een EVC-verklaring op domeinniveau wordt afgegeven moet de EVC-aanbieder aantonen dat hij op een kwalitatieve wijze alle standaarden binnen het betreffende domein kan uitvoeren. Bij de beoordeling ten behoeve van de domeinerkenning zal de nadruk worden gelegd op de werving, selectie en scholing van assessoren en de werkprocessen daaromtrent. Op die manier is systematisch geborgd dat een EVC-aanbieder alle standaarden binnen een domein zou kunnen aanbieden. In het kader van de verlenging zal met name de output worden beoordeeld, specifiek de competentie van een assessor om een goed ervaringscertificaat te schrijven. Assessoren en begeleiders zijn niet verplicht kennis te hebben van alle standaarden binnen een domein.  
+Assessoren en begeleiders dienen over zodanige bekwaamheden te beschikken dat zonder twijfel uitgegaan kan worden van hun kennis en kunde. EVC-aanbieders moeten borgen dat de assessoren en de begeleiders die zij inschakelen hun taak naar behoren kunnen uitvoeren. Dat laat onverlet dat EVC-aanbieders gebruik kunnen maken van elkaars functionarissen. Ook is het denkbaar dat EVC-aanbieders nieuwe assessoren en begeleiders gedurende de looptijd van een EVC-verklaring aantrekken dan wel om hen moverende redenen laten gaan. Om die reden is er niet voor gekozen om in de normtekst een verplichting op te nemen dat alleen met assessoren en begeleiders gewerkt mag worden die vooraf beoordeeld zijn door de beoordelende organisaties. Dit zou de flexibiliteit van de organisatie en procedure niet ten goede komen. Omdat een EVC-verklaring op domeinniveau wordt afgegeven moet de EVC-aanbieder aantonen dat hij op een kwalitatieve wijze alle standaarden binnen het betreffende domein kan uitvoeren. Bij de beoordeling ten behoeve van de domeinerkenning zal de nadruk worden gelegd op de werving, selectie en scholing van assessoren en de werkprocessen daaromtrent. Op die manier is systematisch geborgd dat een EVC-aanbieder alle standaarden binnen een domein zou kunnen aanbieden. In het kader van de verlenging zal met name de output worden beoordeeld, specifiek de competentie van een assessor om een goed ervaringscertificaat te schrijven. Assessoren en begeleiders zijn niet verplicht kennis te hebben van alle standaarden binnen een domein. 
 
 ### Code  5  
 
@@ -319,7 +319,7 @@ c. de kwaliteit van de ervaringscertificaten.   Standaard onderdelen van de eval
 
 ####Toelichting
 
-De EVC-aanbieder moet over een kwaliteitszorgsysteem beschikken. Op die manier kan de EVC-aanbieder tijdig ingrijpen indien er onvolkomenheden optreden. Het zelfsturend vermogen van een aanbieder is hiermee voldoende gegarandeerd. Een EVC-aanbieder dient een overzicht bij te houden van het aantal afgegeven ervaringscertificaten per domein. In het overzicht moet ook opgenomen worden welke assessor betrokken is geweest bij het ervaringscertificaat. Dit overzicht kunnen beoordelende organisaties gebruiken om vast te stellen of de kwaliteit van de gebruikte assessoren en de afgegeven ervaringscertificaten van voldoende kwaliteit is dan wel of de aanbieder in staat is geweest zichzelf te corrigeren indien dit niet het geval was.  
+De EVC-aanbieder moet over een kwaliteitszorgsysteem beschikken. Op die manier kan de EVC-aanbieder tijdig ingrijpen indien er onvolkomenheden optreden. Het zelfsturend vermogen van een aanbieder is hiermee voldoende gegarandeerd. Een EVC-aanbieder dient een overzicht bij te houden van het aantal afgegeven ervaringscertificaten per domein. In het overzicht moet ook opgenomen worden welke assessor betrokken is geweest bij het ervaringscertificaat. Dit overzicht kunnen beoordelende organisaties gebruiken om vast te stellen of de kwaliteit van de gebruikte assessoren en de afgegeven ervaringscertificaten van voldoende kwaliteit is dan wel of de aanbieder in staat is geweest zichzelf te corrigeren indien dit niet het geval was. 
 
 ### Bijlage  2  
 
@@ -343,19 +343,19 @@ De volgende sectoren, met de daaronder vallende opleidingen/standaarden uit het 
 
 7. Techniek   Lijst met opleidingen/standaarden per sector: 
 
-1.  *Economie*  Accountancy Advanced Business Creation Bedrijfseconomie Bestuurskunde / overheidsmanagement Business Administration in Hotel Management Business IT & Management Commercieel Management Commerciële Economie Communicatie Communicatiesystemen European Studies Facility Management Financial Services Management Fiscaal Recht en Economie Food And Business Functiegerichte Bachelor in Toerisme en Recreatie Hbo-Rechten Hogere Juridische opleiding Hoger Hotelonderwijs Hoger Toeristisch en Recreatief Onderwijs Informatiedienstverlening en -management Informationmanagement Information Security Management Integrale Veiligheid Integrale Veiligheidskunde International Business International Business and Languages International Business and Management Studies Journalistiek Kunst en Economie Lifestyle Logistiek en Economie Management, Economie en Recht, opleiding voor Media and Entertainment Management Media, Informatie en Communicatie Oriëntaalse Talen en Communicatie People & Business management Security Management Small Business & Retail Management Sport, Management en Ondernemen Toegepaste Bedrijfskunde Trade Management Azië Vastgoed en Makelaardij Vertaalacademie Vitaliteitsmanagement & Toerisme Vrijetijdsmanagement Windesheim Honours College  
+1.  * Economie*  Accountancy Advanced Business Creation Bedrijfseconomie Bestuurskunde / overheidsmanagement Business Administration in Hotel Management Business IT & Management Commercieel Management Commerciële Economie Communicatie Communicatiesystemen European Studies Facility Management Financial Services Management Fiscaal Recht en Economie Food And Business Functiegerichte Bachelor in Toerisme en Recreatie Hbo-Rechten Hogere Juridische opleiding Hoger Hotelonderwijs Hoger Toeristisch en Recreatief Onderwijs Informatiedienstverlening en -management Informationmanagement Information Security Management Integrale Veiligheid Integrale Veiligheidskunde International Business International Business and Languages International Business and Management Studies Journalistiek Kunst en Economie Lifestyle Logistiek en Economie Management, Economie en Recht, opleiding voor Media and Entertainment Management Media, Informatie en Communicatie Oriëntaalse Talen en Communicatie People & Business management Security Management Small Business & Retail Management Sport, Management en Ondernemen Toegepaste Bedrijfskunde Trade Management Azië Vastgoed en Makelaardij Vertaalacademie Vitaliteitsmanagement & Toerisme Vrijetijdsmanagement Windesheim Honours College  
 
-2.  *Gedrag en maatschappij*  Creatieve Therapie Culturele en Maatschappelijke Vorming Godsdienst-pastoraal werk Human Resource Management Imam / Islamitisch geestelijk werker Integrale Veiligheidskunde Maatschappelijk werk en dienstverlening Pedagogiek Pedagogisch Management Kinderopvang Sociaal-Juridische Dienstverlening Sociaal Pedagogische Hulpverlening Social work Sport en Bewegen Sport en Bewegingseducatie Toegepaste psychologie  
+2.  * Gedrag en maatschappij*  Creatieve Therapie Culturele en Maatschappelijke Vorming Godsdienst-pastoraal werk Human Resource Management Imam / Islamitisch geestelijk werker Integrale Veiligheidskunde Maatschappelijk werk en dienstverlening Pedagogiek Pedagogisch Management Kinderopvang Sociaal-Juridische Dienstverlening Sociaal Pedagogische Hulpverlening Social work Sport en Bewegen Sport en Bewegingseducatie Toegepaste psychologie  
 
-3.  *Gezondheidszorg*  Audiologie Ergotherapie, opleiding voor Farmakunde Fysiotherapeut, opleiding tot Huidtherapie Kunstzinnige Therapie Logopedie, opleiding voor Management in de zorg Medische Beeldvormende en Radiotherapeutische Technieken Medische Hulpverlening Mondzorgkunde, opleiding Oefentherapie Cesar Oefentherapeut Mensendieck, opleiding tot Optometrie Orthoptie Podotherapie, opleiding Psychomotorische Therapie en Bewegingsagogie Sport, Gezondheid en Management Toegepaste gerontologie Verloskunde Verpleegkundige, opleiding tot Voeding en Diëtetiek  
+3.  * Gezondheidszorg*  Audiologie Ergotherapie, opleiding voor Farmakunde Fysiotherapeut, opleiding tot Huidtherapie Kunstzinnige Therapie Logopedie, opleiding voor Management in de zorg Medische Beeldvormende en Radiotherapeutische Technieken Medische Hulpverlening Mondzorgkunde, opleiding Oefentherapie Cesar Oefentherapeut Mensendieck, opleiding tot Optometrie Orthoptie Podotherapie, opleiding Psychomotorische Therapie en Bewegingsagogie Sport, Gezondheid en Management Toegepaste gerontologie Verloskunde Verpleegkundige, opleiding tot Voeding en Diëtetiek  
 
-4.  *Landbouw en natuurlijke omgeving*  Bedrijfskunde en Agribusiness Biotechnologie Bos- en Natuurbeheer Dier- en Veehouderij Diermanagement Educatie en Kennismanagement groene sector Food Commerce & Technology Food design and Innovation Greenport Business & Retail Kust- en Zeemanagement Land-, en Watermanagement Landscape and Environment Management Milieukunde Plattelandsvernieuwing Toegepaste Biologie Tropische Landbouw Tuinbouw en Akkerbouw Tuin- en Landschapsinrichting Voedingsmiddelentechnologie Watermanagement  
+4.  * Landbouw en natuurlijke omgeving*  Bedrijfskunde en Agribusiness Biotechnologie Bos- en Natuurbeheer Dier- en Veehouderij Diermanagement Educatie en Kennismanagement groene sector Food Commerce & Technology Food design and Innovation Greenport Business & Retail Kust- en Zeemanagement Land-, en Watermanagement Landscape and Environment Management Milieukunde Plattelandsvernieuwing Toegepaste Biologie Tropische Landbouw Tuinbouw en Akkerbouw Tuin- en Landschapsinrichting Voedingsmiddelentechnologie Watermanagement  
 
-5.  *Onderwijs*  Aardrijkskunde Algemene Economie Basisonderwijs, opleiding tot leraar Beeldende kunst en vormgeving, docent Bedrijfseconomie Biologie Bouwkunde I en II Bouwtechniek I en II Consumptieve techniek I en II Dans, docent Duits Economie Elektrotechniek I en II Engels Frans Fries Geschiedenis Gezondheidszorg en welzijn Godsdienst Informatie en communicatie technologie, docent Installatietechniek I en II Islam-godsdienst Lichamelijke opvoeding Maatschappijleer Mechanische techniek I en II Mens en maatschappij Mens en Technologie Motorvoertuigentechniek I en II Muziek, docent Natuurkunde Nederlands Omgangskunde Opleiding tot Leraar Nederlandse Gebarentaal (NGT) / Bacheloropleiding tot Tolk NGT Opleidingskunde Pedagogiek Scheikunde Spaans Techniek Technisch Beroepsonderwijs Theater, docent Verzorging/ huishoudkunde Verzorging/ gezondheidskunde Werktuigbouwkunde I en II Wiskunde  
+5.  * Onderwijs*  Aardrijkskunde Algemene Economie Basisonderwijs, opleiding tot leraar Beeldende kunst en vormgeving, docent Bedrijfseconomie Biologie Bouwkunde I en II Bouwtechniek I en II Consumptieve techniek I en II Dans, docent Duits Economie Elektrotechniek I en II Engels Frans Fries Geschiedenis Gezondheidszorg en welzijn Godsdienst Informatie en communicatie technologie, docent Installatietechniek I en II Islam-godsdienst Lichamelijke opvoeding Maatschappijleer Mechanische techniek I en II Mens en maatschappij Mens en Technologie Motorvoertuigentechniek I en II Muziek, docent Natuurkunde Nederlands Omgangskunde Opleiding tot Leraar Nederlandse Gebarentaal (NGT) / Bacheloropleiding tot Tolk NGT Opleidingskunde Pedagogiek Scheikunde Spaans Techniek Technisch Beroepsonderwijs Theater, docent Verzorging/ huishoudkunde Verzorging/ gezondheidskunde Werktuigbouwkunde I en II Wiskunde  
 
-6.  *Taal en cultuur*  Autonome beeldende kunst Circus and Performance Art Circus Arts Cultureel Erfgoed Dans Film en televisie Muziek Muziektherapie Theater Vormgeving  
+6.  * Taal en cultuur*  Autonome beeldende kunst Circus and Performance Art Circus Arts Cultureel Erfgoed Dans Film en televisie Muziek Muziektherapie Theater Vormgeving  
 
-7.  *Techniek*  Advanced Sensor Applications Applied science Aquatische ecotechnologie Archeologie Autotechniek Automotive Aviation Bedrijfsmanagement MKB Bedrijfswiskunde Bewegingstechnologie Bio-informatica Biologie en medisch laboratoriumonderzoek Biometrie Biotechnologie Bouwkunde Bouwmanagement en vastgoed Bouwtechnische Bedrijfskunde Built Environment Business engineering Business Management Chemie Chemische technologie Civiele techniek Climate & Management Communication and multimedia design Elektrotechniek Embedded Systems Engineering Energie- en Procestechnologie (AOT) Engineering, design and innovation Forensisch onderzoek Game architecture and design Geodesie Gezondheidszorgtechnologie Human technology Industrieel produkt ontwerpen Industriële automatisering Informatica International Maintenance Management Kunst en techniek Logistiek en technische vervoerskunde Luchtvaarttechnologie Maritiem officier Mechatronica Mediatechnologie Milieugerichte materiaaltechnologie Milieukunde Mobiliteit Netwerk infrastructuur design Ocean Technology Orthopedische technologie Ruimtelijke ordening en planologie Scheepsbouwkunde Stedenbouwkundig Ontwerpen Technische Bedrijfskunde Technische commerciële confectiekunde Technische commerciële textielkunde Technische informatica Technische natuurkunde Werktuigbouwkunde    
+7.  * Techniek*  Advanced Sensor Applications Applied science Aquatische ecotechnologie Archeologie Autotechniek Automotive Aviation Bedrijfsmanagement MKB Bedrijfswiskunde Bewegingstechnologie Bio-informatica Biologie en medisch laboratoriumonderzoek Biometrie Biotechnologie Bouwkunde Bouwmanagement en vastgoed Bouwtechnische Bedrijfskunde Built Environment Business engineering Business Management Chemie Chemische technologie Civiele techniek Climate & Management Communication and multimedia design Elektrotechniek Embedded Systems Engineering Energie- en Procestechnologie (AOT) Engineering, design and innovation Forensisch onderzoek Game architecture and design Geodesie Gezondheidszorgtechnologie Human technology Industrieel produkt ontwerpen Industriële automatisering Informatica International Maintenance Management Kunst en techniek Logistiek en technische vervoerskunde Luchtvaarttechnologie Maritiem officier Mechatronica Mediatechnologie Milieugerichte materiaaltechnologie Milieukunde Mobiliteit Netwerk infrastructuur design Ocean Technology Orthopedische technologie Ruimtelijke ordening en planologie Scheepsbouwkunde Stedenbouwkundig Ontwerpen Technische Bedrijfskunde Technische commerciële confectiekunde Technische commerciële textielkunde Technische informatica Technische natuurkunde Werktuigbouwkunde   
 
 ### Bijlage  3  
 
@@ -381,19 +381,19 @@ De volgende sectoren, met de daaronder vallende opleidingen/standaarden uit het 
 
 8. Techniek   Lijst met opleidingen/standaarden per sector: 
 
-1.  *Economie*  Actuariële wetenschappen Bedrijfseconomie Bedrijfskunde Econometrie en Operationele research Economie Economie en Bedrijfseconomie Economie en Bedrijfskunde Fiscale economie International Business International Business Administration  
+1.  * Economie*  Actuariële wetenschappen Bedrijfseconomie Bedrijfskunde Econometrie en Operationele research Economie Economie en Bedrijfseconomie Economie en Bedrijfskunde Fiscale economie International Business International Business Administration  
 
-2.  *Gedrag en Maatschappij*  Algemene sociale wetenschappen Bestuurs- en Organisatiewetenschap Bestuurskunde Communicatiewetenschap Criminologie Culturele Antropologie en Ontwikkelingssociologie Europese Studies Geografie, Planologie en Milieu International Bachelor's Programme in Communication and Media Milieu-maatschappij-wetenschappen Onderwijskunde Organisatiewetenschappen Pedagogische wetenschappen Personeelwetenschappen Politicologie Psychologie Sociale Geografie en Planologie Sociologie Technische Planologie Vrijetijdwetenschappen  
+2.  * Gedrag en Maatschappij*  Algemene sociale wetenschappen Bestuurs- en Organisatiewetenschap Bestuurskunde Communicatiewetenschap Criminologie Culturele Antropologie en Ontwikkelingssociologie Europese Studies Geografie, Planologie en Milieu International Bachelor's Programme in Communication and Media Milieu-maatschappij-wetenschappen Onderwijskunde Organisatiewetenschappen Pedagogische wetenschappen Personeelwetenschappen Politicologie Psychologie Sociale Geografie en Planologie Sociologie Technische Planologie Vrijetijdwetenschappen  
 
-3.  *Gezondheidszorg*  Bewegingswetenschappen Biomedische wetenschappen Diergeneeskunde European Public Health Geneeskunde Gezondheid en leven Gezondheidswetenschappen Klinische technologie Medische Informatiekunde Tandheelkunde  
+3.  * Gezondheidszorg*  Bewegingswetenschappen Biomedische wetenschappen Diergeneeskunde European Public Health Geneeskunde Gezondheid en leven Gezondheidswetenschappen Klinische technologie Medische Informatiekunde Tandheelkunde  
 
-4.  *Landbouw en natuurlijke omgeving*  Agrotechnologie Bedrijfs- en Consumentenwetenschappen Biologie Biotechnologie Bodem, Water, Atmosfeer Bos- en natuurbeheer Dierwetenschappen Economie en Beleid Gezondheid en Maatschappij Internationaal Land- en Waterbeheer Internationale Ontwikkelingsstudies Landschapsarchitectuur en ruimtelijke planning Levensmiddelentechnologie Milieuwetenschappen Moleculaire Levenswetenschappen Plantenwetenschappen Toegepaste Communicatiewetenschap Voeding en Gezondheid  
+4.  * Landbouw en natuurlijke omgeving*  Agrotechnologie Bedrijfs- en Consumentenwetenschappen Biologie Biotechnologie Bodem, Water, Atmosfeer Bos- en natuurbeheer Dierwetenschappen Economie en Beleid Gezondheid en Maatschappij Internationaal Land- en Waterbeheer Internationale Ontwikkelingsstudies Landschapsarchitectuur en ruimtelijke planning Levensmiddelentechnologie Milieuwetenschappen Moleculaire Levenswetenschappen Plantenwetenschappen Toegepaste Communicatiewetenschap Voeding en Gezondheid  
 
-5.  *Natuur*  Aarde en economie Aardwetenschappen Beta-gamma Biofarmaceutische Wetenschappen Biologie Business Analytics Farmaceutische Wetenschappen Farmacie Informatica Informatie, Multimedia en Management Informatiekunde Kennistechnologie Kunstmatige Intelligentie Life Science and Technology Lyfestyle Informatics Medische Natuurwetenschappen Milieu-natuurwetenschappen Moleculaire Levenswetenschappen Molecular Science and Technology Natuur- en Sterrenkunde Natuurkunde Natuurwetenschap en Innovatiemanagement Psychobiologie Scheikunde Science Science, Business & Innovation Sterrenkunde Wiskunde  
+5.  * Natuur*  Aarde en economie Aardwetenschappen Beta-gamma Biofarmaceutische Wetenschappen Biologie Business Analytics Farmaceutische Wetenschappen Farmacie Informatica Informatie, Multimedia en Management Informatiekunde Kennistechnologie Kunstmatige Intelligentie Life Science and Technology Lyfestyle Informatics Medische Natuurwetenschappen Milieu-natuurwetenschappen Moleculaire Levenswetenschappen Molecular Science and Technology Natuur- en Sterrenkunde Natuurkunde Natuurwetenschap en Innovatiemanagement Psychobiologie Scheikunde Science Science, Business & Innovation Sterrenkunde Wiskunde  
 
-6.  *Recht*  Bestuurskunde European Law School Fiscaal recht Global Law Internationaal en Europees Recht Notarieel Recht Ondernemingsrecht Recht en Bestuur Recht en ICT Rechtsgeleerdheid  
+6.  * Recht*  Bestuurskunde European Law School Fiscaal recht Global Law Internationaal en Europees Recht Notarieel Recht Ondernemingsrecht Recht en Bestuur Recht en ICT Rechtsgeleerdheid  
 
-7.  *Taal en Cultuur*  Afrikaanse talen en culturen Algemene Cultuurwetenschappen American Studies Arabische Taal en Cultuur Archeologie Archeologie en Prehistorie Chinastudies Communicatie- en Informatiewetenschappen Culturele Informatiewetenschap Cultuurwetenschappen Duitse Taal en Cultuur Engelse Taal en Cultuur Europese Studies Film- en Literatuurwetenschap Finoegrische Talen en Culturen Franse Taal en Cultuur Friese Taal en Cultuur Geschiedenis Godgeleerdheid Godsdienstwetenschap Griekse en Latijnse Taal en Cultuur Hebreeuwse en Joodse Studies Hebreeuwse Taal en Cultuur Humanistiek Internationale betrekkingen en internationale organisatie Islam en Arabisch Islamitische theologie Italiaanse Taal en Cultuur Japanstudies Keltische Talen en cultuur Koreastudies Kunsten, Cultuur en Media Kunstgeschiedenis Latijns-Amerikastudies Latijnse Taal en Cultuur Liberal Arts en Sciences Literatuurwetenschap Media en Cultuur Midden-Oostenstudies Muziekwetenschap Nederlandkunde/ Dutch studies Nederlandse Taal en Cultuur Nieuwgriekse Taal en Cultuur Oude Culturen van de Mediterrane Wereld Oudheidkunde Portugese Taal en Cultuur Religie in Samenleving en Cultuur Religie en levensbeschouwing Religiestudies Roemeense Taal en Cultuur Romaanse Talen en Culturen Russische Studies Scandinavische Talen en Culturen Slavische Talen en Culturen Spaanse Taal en Cultuur Taal en Cultuurstudies Taalwetenschap Theater- Film en Televisiewetenschap Theaterwetenschap Theologie Theologie Klassiek Theologie Plus Wereldgodsdiensten Wijsbegeerte Wijsbegeerte van een bepaald wetenschapsgebied Zuid- en Zuidoost-Aziëstudies  
+7.  * Taal en Cultuur*  Afrikaanse talen en culturen Algemene Cultuurwetenschappen American Studies Arabische Taal en Cultuur Archeologie Archeologie en Prehistorie Chinastudies Communicatie- en Informatiewetenschappen Culturele Informatiewetenschap Cultuurwetenschappen Duitse Taal en Cultuur Engelse Taal en Cultuur Europese Studies Film- en Literatuurwetenschap Finoegrische Talen en Culturen Franse Taal en Cultuur Friese Taal en Cultuur Geschiedenis Godgeleerdheid Godsdienstwetenschap Griekse en Latijnse Taal en Cultuur Hebreeuwse en Joodse Studies Hebreeuwse Taal en Cultuur Humanistiek Internationale betrekkingen en internationale organisatie Islam en Arabisch Islamitische theologie Italiaanse Taal en Cultuur Japanstudies Keltische Talen en cultuur Koreastudies Kunsten, Cultuur en Media Kunstgeschiedenis Latijns-Amerikastudies Latijnse Taal en Cultuur Liberal Arts en Sciences Literatuurwetenschap Media en Cultuur Midden-Oostenstudies Muziekwetenschap Nederlandkunde/ Dutch studies Nederlandse Taal en Cultuur Nieuwgriekse Taal en Cultuur Oude Culturen van de Mediterrane Wereld Oudheidkunde Portugese Taal en Cultuur Religie in Samenleving en Cultuur Religie en levensbeschouwing Religiestudies Roemeense Taal en Cultuur Romaanse Talen en Culturen Russische Studies Scandinavische Talen en Culturen Slavische Talen en Culturen Spaanse Taal en Cultuur Taal en Cultuurstudies Taalwetenschap Theater- Film en Televisiewetenschap Theaterwetenschap Theologie Theologie Klassiek Theologie Plus Wereldgodsdiensten Wijsbegeerte Wijsbegeerte van een bepaald wetenschapsgebied Zuid- en Zuidoost-Aziëstudies  
 
-8.  *Techniek*  Advanced Technology Bedrijfsinformatietechnologie Biomedische technologie Bouwkunde Civiele Techniek Creative Technology Electrical Engineering Industrial Design Industrieel Ontwerpen Life Science & Technology Luchtvaart- en Ruimtevaarttechniek Maritieme Techniek Nanobiologie Scheikundige Technologie Molecular Science and Technology Technische Aardwetenschappen Technische Bedrijfskunde Technische Bestuurskunde Technische Informatica Technische Innovatiewetenschappen Technische Natuurkunde Technische Wiskunde Werktuigbouwkunde    
+8.  * Techniek*  Advanced Technology Bedrijfsinformatietechnologie Biomedische technologie Bouwkunde Civiele Techniek Creative Technology Electrical Engineering Industrial Design Industrieel Ontwerpen Life Science & Technology Luchtvaart- en Ruimtevaarttechniek Maritieme Techniek Nanobiologie Scheikundige Technologie Molecular Science and Technology Technische Aardwetenschappen Technische Bedrijfskunde Technische Bestuurskunde Technische Informatica Technische Innovatiewetenschappen Technische Natuurkunde Technische Wiskunde Werktuigbouwkunde   
 
