@@ -1,5 +1,5 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-20-12-2015  
+
 ##Aanmelding staatsexamens Nederlands als tweede taal 2015
 
 ####Voorlichtingspublicatie
