@@ -15,7 +15,7 @@ Besluit:
 
 1.  In deze regeling wordt onder Besluit verstaan: [Waterschapsbesluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md).   
 2.  Indien dit noodzakelijk is voor het inzicht, bedoeld in [artikel 4.3 van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), kan een waterschap van de in de paragrafen 3 en 4 van deze regeling opgenomen bepalingen afwijken.   
-3.  De reden van de in het tweede lid bedoelde afwijking wordt in de toelichting op het desbetreffende onderdeel van de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.   
+3.  De reden van de in het tweede lid bedoelde afwijking wordt in de toelichting op het desbetreffende onderdeel van de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.  
 
 ### §  2  
 
@@ -24,7 +24,7 @@ Besluit:
 ### Artikel  2  
 
 1.  De paragraaf betreffende het EMU-saldo, bedoeld in [artikel 4.22 van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), wordt gespecificeerd overeenkomstig de indeling van het schema dat is opgenomen in bijlage 1 bij deze regeling.   
-2.  In de in het eerste lid bedoelde paragraaf, wordt de specificatie van het EMU-saldo opgenomen volgens de begroting van het begrotingsjaar en de begroting van het vorige begrotingsjaar.   
+2.  In de in het eerste lid bedoelde paragraaf, wordt de specificatie van het EMU-saldo opgenomen volgens de begroting van het begrotingsjaar en de begroting van het vorige begrotingsjaar.  
 
 ### §  3  
 
@@ -34,15 +34,15 @@ Besluit:
 
 Onder de in [artikel 4.24, eerste lid, van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), genoemde kostendragers wordt verstaan: 
 
-a. *watersysteembeheer:* krachtens [artikel 1, tweede lid, van de wet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), opgedragen zorg voor het watersysteem;  
+a.  *watersysteembeheer:* krachtens [artikel 1, tweede lid, van de wet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), opgedragen zorg voor het watersysteem;  
 
-b. *zuiveringsbeheer:* krachtens [artikel 1, tweede lid, van de wet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), opgedragen zorg voor het zuiveren van afvalwater op de voet van [artikel 3.4, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+b.  *zuiveringsbeheer:* krachtens [artikel 1, tweede lid, van de wet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), opgedragen zorg voor het zuiveren van afvalwater op de voet van [artikel 3.4, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md);  
 
-c. *wegenbeheer:* krachtens de [artikelen 15 tot en met 18 van de Wegenwet](../../../../../../../wet/wegenwet/BWBR0001948/README.md) opgedragen zorg voor wegen.    
+c.  *wegenbeheer:* krachtens de [artikelen 15 tot en met 18 van de Wegenwet](../../../../../../../wet/wegenwet/BWBR0001948/README.md) opgedragen zorg voor wegen.   
 
 ### Artikel  4  
 
-De kosten- en opbrengstsoorten, bedoeld in [artikel 4.25, eerste lid](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), [artikel 4.71, eerste lid, onderdeel a](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), en [artikel 4.72, eerste lid, onderdeel a, van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) volgen de indeling die is opgenomen in bijlage 2 bij deze regeling.  
+De kosten- en opbrengstsoorten, bedoeld in [artikel 4.25, eerste lid](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), [artikel 4.71, eerste lid, onderdeel a](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), en [artikel 4.72, eerste lid, onderdeel a, van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) volgen de indeling die is opgenomen in bijlage 2 bij deze regeling. 
 
 ### §  4  
 
@@ -52,32 +52,32 @@ De kosten- en opbrengstsoorten, bedoeld in [artikel 4.25, eerste lid](../../../.
 
 Voor de toepassing van de artikelen 8, tot en met 13 wordt verstaan onder: 
 
-a. *immateriële vaste activa:* activa die niet stoffelijk zijn en evenmin als financiële vaste activa kunnen worden aangemerkt;  
+a.  *immateriële vaste activa:* activa die niet stoffelijk zijn en evenmin als financiële vaste activa kunnen worden aangemerkt;  
 
-b. *materiële vaste activa:* kapitaaluitgaven aan onderhanden werken en werken in exploitatie waar tegenover bezittingen staan die niet als financiële vaste activa kunnen worden aangemerkt;  
+b.  *materiële vaste activa:* kapitaaluitgaven aan onderhanden werken en werken in exploitatie waar tegenover bezittingen staan die niet als financiële vaste activa kunnen worden aangemerkt;  
 
-c. *financiële vaste activa:* aan derden beschikbaar gestelde financiële middelen met een oorspronkelijke looptijd van één jaar en langer;  
+c.  *financiële vaste activa:* aan derden beschikbaar gestelde financiële middelen met een oorspronkelijke looptijd van één jaar en langer;  
 
-d. *uitzettingen:* beleggingen met een looptijd korter dan één jaar;  
+d.  *uitzettingen:* beleggingen met een looptijd korter dan één jaar;  
 
-e. *kortlopende vorderingen:* vorderingen van het waterschap op en beschikbaar gestelde financiële middelen aan derden met een looptijd korter dan één jaar;  
+e.  *kortlopende vorderingen:* vorderingen van het waterschap op en beschikbaar gestelde financiële middelen aan derden met een looptijd korter dan één jaar;  
 
-f. *overlopende activa:* vooruitbetaalde kosten die ten laste van toekomstige begrotingsjaren komen en nog te ontvangen bedragen inzake baten die ten gunste van voorgaande perioden zijn verantwoord;  
+f.  *overlopende activa:* vooruitbetaalde kosten die ten laste van toekomstige begrotingsjaren komen en nog te ontvangen bedragen inzake baten die ten gunste van voorgaande perioden zijn verantwoord;  
 
-g. *algemene reserves:* eigen kapitaal en andere delen van het eigen vermogen waaraan door het betreffende algemeen bestuur van het waterschap geen voorafgaande, specifieke bestemming is gegeven;  
+g.  *algemene reserves:* eigen kapitaal en andere delen van het eigen vermogen waaraan door het betreffende algemeen bestuur van het waterschap geen voorafgaande, specifieke bestemming is gegeven;  
 
-h. *vaste schulden:* schulden van het waterschap met een oorspronkelijke looptijd van één jaar of langer;  
+h.  *vaste schulden:* schulden van het waterschap met een oorspronkelijke looptijd van één jaar of langer;  
 
-i. *netto-vlottende schulden:* vorderingen van derden op het waterschap met een looptijd korter dan één jaar, en  
+i.  *netto-vlottende schulden:* vorderingen van derden op het waterschap met een looptijd korter dan één jaar, en  
 
-j. *overlopende passiva:* verplichtingen die in het begrotingsjaar zijn opgebouwd en die in een volgend jaar tot betaling komen.    
+j.  *overlopende passiva:* verplichtingen die in het begrotingsjaar zijn opgebouwd en die in een volgend jaar tot betaling komen.   
 
 ### Artikel  6  
 
 1.  De uitvoeringsinformatie, bedoeld in [artikel 4.70, onderdeel a](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), [artikel 4.71, eerste lid, onderdeel b](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), en [artikel 4.72, eerste lid, onderdeel b, van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) wordt ingedeeld volgens de door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking.   
 2.  De uitvoeringsinformatie, bedoeld in [artikel 4.70 onderdeel b](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) wordt ingedeeld volgens de door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking.   
 3.  De uitvoeringsinformatie, bedoeld in [artikel 4.71, vierde lid](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md), en [artikel 4.72, vierde lid](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) wordt ingedeeld volgens de door Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking.   
-4.  De in het eerste, tweede en derde lid genoemde door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking zijn opgenomen op www.uvw.nl, dossier ‘Verslaggeving waterschappen’. De afspraken voor bedrijfsvergelijking zijn vastgesteld op 26 november 2008. Van wijzigingen van deze afspraken wordt mededeling gedaan in de Staatscourant.   
+4.  De in het eerste, tweede en derde lid genoemde door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking zijn opgenomen op www.uvw.nl, dossier ‘Verslaggeving waterschappen’. De afspraken voor bedrijfsvergelijking zijn vastgesteld op 26 november 2008. Van wijzigingen van deze afspraken wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  7  
 
@@ -92,7 +92,7 @@ c. het eigen vermogen en het vreemd vermogen van de verbonden partij aan het beg
 
 a. de veranderingen die zich hebben voorgedaan gedurende het begrotingsjaar in het belang dat het waterschap in de verbonden partij heeft, en  
 
-b. het eigen vermogen en het vreemd vermogen van de verbonden partij aan het einde van het begrotingsjaar.     
+b. het eigen vermogen en het vreemd vermogen van de verbonden partij aan het einde van het begrotingsjaar.    
 
 ### Artikel  8  
 
@@ -194,7 +194,7 @@ b. de mutaties in het begrotingsjaar, te onderscheiden in:
 
 12°. afschrijvingen; en  
 
-13°. waardecorrectie leidend tot vermindering.    
+13°. waardecorrectie leidend tot vermindering.   
 
 c. stand einde begrotingsjaar, te onderscheiden in: 
 
@@ -233,7 +233,7 @@ c. stand einde begrotingsjaar, te onderscheiden in:
 
 2°. de cumulatieve verminderingen, en  
 
-3°. de boekwaarde.       
+3°. de boekwaarde.      
 
 ### Artikel  9  
 
@@ -249,7 +249,7 @@ b. de mutaties in het begrotingsjaar, te onderscheiden in:
 
 3°. de verwachte toevoegingen of onttrekkingen als gevolg van het exploitatieresultaat;    
 
-c. stand einde begrotingsjaar.     
+c. stand einde begrotingsjaar.    
 
 ### Artikel  10  
 
@@ -268,7 +268,7 @@ b. de mutaties in het begrotingsjaar, te onderscheiden in:
 4°. externe verminderingen;    
 
 c. stand einde begrotingsjaar.     
-2.  In de staat van voorzieningen wordt aangegeven welk deel van de over de voorzieningen berekende rente in het begrotingsjaar niet aan die voorzieningen zal worden toegevoegd. Daarbij wordt vermeld op welke post van de begroting het betreffende bedrag is geboekt.   
+2.  In de staat van voorzieningen wordt aangegeven welk deel van de over de voorzieningen berekende rente in het begrotingsjaar niet aan die voorzieningen zal worden toegevoegd. Daarbij wordt vermeld op welke post van de begroting het betreffende bedrag is geboekt.  
 
 ### Artikel  11  
 
@@ -288,7 +288,7 @@ c. restant boekwaarde aan het einde van het begrotingsjaar;
 
 d. de aflossingsverplichting in het volgende begrotingsjaar, en  
 
-e. de gemiddelde rentevoet en resterende looptijd, die beide als gewogen gemiddelde worden berekend.    
+e. de gemiddelde rentevoet en resterende looptijd, die beide als gewogen gemiddelde worden berekend.   
 
 ### §  5  
 
@@ -350,7 +350,7 @@ r. de stand van zaken aan het begin en het einde van het kwartaal betreffende:
 
 8°. de overlopende passiva, naar de indeling van [artikel 4.59, eerste lid, van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md).       
 2.  In afwijking van het eerste lid, onderdelen h, i, j en o, kunnen de waterschappen de mutaties van de betreffende balansposten ook netto verantwoorden, waarbij het saldo van de vermeerderingen en verminderingen als ‘vermeerdering’ wordt verantwoord. Het saldo krijgt een positieve waarde als de vermeerderingen groter zijn dan de verminderingen en een negatieve waarde als de vermeerderingen kleiner zijn dan de verminderingen.   
-3.  Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.   
+3.  Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.  
 
 ### Artikel  13  
 
@@ -374,7 +374,7 @@ h. de ontvangen belastingopbrengsten, oninbaar en kwijtgescholden bedragen inged
 
 i. de opbouw van het EMU-saldo volgens de indeling van bijlage 1 van deze regeling.     
 2.  De informatie, bedoeld in [artikel 4.27](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) en [artikel 4.71, eerste lid, van het Besluit](../../../../../../../AMvB/waterschapsbesluit/BWBR0023025/README.md) wordt voor 15 juli van het jaar volgend op het begrotingsjaar door het betreffende dagelijks bestuur aan het CBS gezonden.   
-3.  Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.   
+3.  Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.  
 
 ### Artikel  14  
 
@@ -389,7 +389,7 @@ c. de geraamde bruto-belastingopbrengsten, oninbaar en kwijt te schelden bedrage
 d. de geraamde bruto-belastingopbrengsten, oninbaar en kwijt te schelden bedragen ingedeeld naar de belastingen watersysteemheffing, heffing wegenbeheer en de kosten die op grond van artikel 120, eerste lid, tweede volzin, van de wet, rechtstreeks worden toegerekend aan categorieën van belastingplichtigen, en  
 
 e. de opbouw van het EMU-saldo, volgens de indeling van bijlage 1 van deze regeling, volgens de begroting voor het komende begrotingsjaar en voor het begrotingsjaar daarna.     
-2.  Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.   
+2.  Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.  
 
 ### §  6  
 
@@ -397,44 +397,44 @@ e. de opbouw van het EMU-saldo, volgens de indeling van bijlage 1 van deze regel
 
 ### Artikel  15  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling beleidsvoorbereiding en verantwoording waterschappen.  
+Deze regeling wordt aangehaald als: Regeling beleidsvoorbereiding en verantwoording waterschappen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa  
+J.C. Huizinga-Heringa    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij artikel 2  van de Regeling beleidsvoorbereiding en verantwoording waterschappen
 
-OPBOUW EMU-SALDO (bedragen x € 1000,–) 
+OPBOUW EMU-SALDO (bedragen x € 1000,–)
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1 *Exploitatiesaldo voor bestemming van reserves:*  | ...............  |
+| 1 *Exploitatiesaldo voor bestemming van reserves:*   | ...............  |
 | --- | --- | --- |
-| 2 *Invloed investeringen (zie staat van vaste activa):*  | --- |
+| 2 *Invloed investeringen (zie staat van vaste activa):*   | --- |
 | -/-  | bruto-investeringsuitgaven  | -/- ...............  |
 | +  | investeringsbijdragen  | + ...............  |
 | +  | verkoop van materiële en immateriële vaste activa  | + ...............  |
 | +  | afschrijvingen  | + ...............  |
 | --- | --- | --- |
-| 3 *Invloed voorzieningen (zie staat van voorzieningen)*  | --- |
+| 3 *Invloed voorzieningen (zie staat van voorzieningen)*   | --- |
 | +  | toevoegingen aan voorzieningen t.l.v. exploitatie  | + ...............  |
 | -/-  | onttrekkingen aan voorzieningen t.b.v. exploitatie  | -/- ...............  |
 | -/-  | onttrekkingen rechtstreeks uit voorzieningen  | -/- ...............  |
 | --- | --- | --- |
-| 4 *Deelnemingen en aandelen:*  | --- |
+| 4 *Deelnemingen en aandelen:*   | --- |
 | -/-  | boekwinst  | -/- ...............  |
 | +  | boekverlies  | + ...............  |
 | --- | --- | --- |
 | --- | --- | --- |
-|  *EMU-SALDO*   | ..................  |
+|  *EMU-SALDO *   | ..................  |
 
 ### Bijlage  2  
 
@@ -469,7 +469,7 @@ Wat betreft de kostensoorten luidt de indeling als volgt:
 | 4 Bijdragen aan derden  | 4.1  | Bijdragen aan bedrijven  |
 | 4.2  | Bijdragen aan het Rijk  |
 | 4.3  | Bijdragen aan openbare lichamen  |
-| 4.4  | Bijdragen aan overigen  |
+|4.4 |Bijdragen aan overigen |
 | 5 Toevoegingen voorzieningen/  onvoorzien  | 5.1  | Toevoegingen aan voorzieningen  |
 | 5.2  | Onvoorzien  |
 
@@ -494,9 +494,9 @@ Wat betreft de opbrengstsoorten luidt de indeling als volgt:
 | 3.6  | Diensten voor derden  |
 | 4 Bijdragen van derden  | 4.1  | Bijdragen van de Europese Unie  |
 | 4.2  | Bijdragen van het Rijk  |
-| 4.3  | Bijdragen van provincies  |
-| 4.4  | Bijdragen van overige openbare lichamen  |
-| 4.5  | Bijdragen van overigen  |
+|4.3 |Bijdragen van provincies |
+|4.4 |Bijdragen van overige openbare lichamen |
+|4.5 |Bijdragen van overigen |
 | 5 Waterschapsbelastingen  | 5.1  | Opbrengst watersysteem- en wegenheffing gebouwd  |
 | 5.2  | Opbrengst watersysteem- en wegenheffing ingezetenen  |
 | 5.3  | Opbrengst watersysteem- en wegenheffing ongebouwd  |

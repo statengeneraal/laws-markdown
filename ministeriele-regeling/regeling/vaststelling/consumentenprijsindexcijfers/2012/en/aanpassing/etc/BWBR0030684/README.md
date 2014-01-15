@@ -12,11 +12,15 @@ Besluit:
 
 ####Consumentenprijsindexcijfer Caribisch Nederland
 
-Het consumentenprijsindexcijfer voor 2012 wordt vastgesteld op 5,9% en voor Sint Eustatius en Saba op respectievelijk 11,2% en 6,6%.  
+Materieel uitgewerkt per 01-01-2014 
+
+Het consumentenprijsindexcijfer voor 2012 wordt vastgesteld op 5,9% en voor Sint Eustatius en Saba op respectievelijk 11,2% en 6,6%. 
 
 ### Artikel  2  
 
-#### [Wet algemene ouderdomsverzekering BES](../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) 
+####[Wet algemene ouderdomsverzekering BES](../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md)
+
+Materieel uitgewerkt per 01-01-2014 
 
 1.  Het bedrag, genoemd in [artikel 7, eerste lid, van de Wet algemene ouderdomsverzekering BES](../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), wordt vastgesteld: 
 
@@ -54,11 +58,13 @@ c. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 7281
 
 d. indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba op USD 7233.     
 4.  De hoogte van de tegemoetkoming, bedoeld in [artikel 7b, derde lid, van de Wet algemene ouderdomsverzekering BES](../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), wordt voor Saba vastgesteld op USD 45 en voor Sint Eustatius op USD 12.   
-5.  Het premiepercentage, bedoeld in [artikel 27 van de Wet algemene ouderdomsverzekering BES](../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), wordt voor het jaar 2012 vastgesteld op 25,0%.   
+5.  Het premiepercentage, bedoeld in [artikel 27 van de Wet algemene ouderdomsverzekering BES](../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), wordt voor het jaar 2012 vastgesteld op 25,0%.  
 
 ### Artikel  3  
 
-#### [Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) 
+####[Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md)
+
+Materieel uitgewerkt per 01-01-2014 
 
 1.  Het bedrag, genoemd in [artikel 11, eerste lid, onderdeel a, van de Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), wordt vastgesteld: 
 
@@ -156,11 +162,13 @@ f. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op
 g. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 257;  
 
 h. indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba op USD 256.     
-9.  Het premiepercentage, bedoeld in [artikel 30 van de Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), wordt voor het jaar 2012 vastgesteld op 1,3%.   
+9.  Het premiepercentage, bedoeld in [artikel 30 van de Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), wordt voor het jaar 2012 vastgesteld op 1,3%.  
 
 ### Artikel  4  
 
-#### [Wet minimumlonen BES](../../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md) 
+####[Wet minimumlonen BES](../../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md)
+
+Materieel uitgewerkt per 01-01-2014 
 
 De bedragen, genoemd in [artikel 9, eerste lid, onderdelen a, b en c, van de Wet minimumlonen BES](../../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md), worden vastgesteld: 
 
@@ -168,23 +176,29 @@ a. indien belanghebbende woonachtig is in het openbaar lichaam Bonaire op USD 4.
 
 b. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 4.67;  
 
-c. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 4.48.    
+c. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 4.48.   
 
 ### Artikel  5  
 
-#### [Cessantiawet BES](../../../../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md) 
+####[Cessantiawet BES](../../../../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md)
 
-Het premiepercentage, bedoeld in [artikel 7, vierde lid, van de Cessantiawet BES](../../../../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md), wordt voor het jaar 2012 vastgesteld op 0,2%.  
+Materieel uitgewerkt per 01-01-2014 
+
+Het premiepercentage, bedoeld in [artikel 7, vierde lid, van de Cessantiawet BES](../../../../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md), wordt voor het jaar 2012 vastgesteld op 0,2%. 
 
 ### Artikel  6  
 
-#### [Wet ongevallenverzekering BES](../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) 
+####[Wet ongevallenverzekering BES](../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md)
 
-Het premiepercentage, bedoeld in [artikel 8, derde lid, van de Wet ongevallenverzekering BES](../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md), wordt voor het jaar 2012 vastgesteld op 0,5%.  
+Materieel uitgewerkt per 01-01-2014 
+
+Het premiepercentage, bedoeld in [artikel 8, derde lid, van de Wet ongevallenverzekering BES](../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md), wordt voor het jaar 2012 vastgesteld op 0,5%. 
 
 ### Artikel  7  
 
-#### [Wet ziekteverzekering BES](../../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md) 
+####[Wet ziekteverzekering BES](../../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md)
+
+Materieel uitgewerkt per 01-01-2014 
 
 1.  Het bedrag, bedoeld in [artikel 5, tweede lid, van de Wet ziekteverzekering BES](../../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md) wordt vastgesteld, 
 
@@ -203,11 +217,13 @@ b. voor de werknemer voor wie een vijfdaagse werkweek of een werkweek van minder
 2°. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 124.75;  
 
 3°. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 119.59.       
-2.  Het premiepercentage, bedoeld in [artikel 8, vierde lid, van de Wet ziekteverzekering BES](../../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md), wordt voor het jaar 2012 vastgesteld op 1,6%.   
+2.  Het premiepercentage, bedoeld in [artikel 8, vierde lid, van de Wet ziekteverzekering BES](../../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md), wordt voor het jaar 2012 vastgesteld op 1,6%.  
 
 ### Artikel  8  
 
-#### [Besluit onderstand BES](../../../../../../../../../AMvB-BES/besluit/onderstand/bes/BWBR0028595/README.md) 
+####[Besluit onderstand BES](../../../../../../../../../AMvB-BES/besluit/onderstand/bes/BWBR0028595/README.md)
+
+Materieel uitgewerkt per 01-01-2014 
 
 1.  De bedragen, genoemd in [artikel 13 van het Besluit onderstand BES](../../../../../../../../../AMvB-BES/besluit/onderstand/bes/BWBR0028595/README.md), worden vastgesteld: 
 
@@ -251,18 +267,20 @@ a. indien belanghebbende woonachtig is in het openbaar lichaam Bonaire op USD 1
 b. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 105;  
 
 c. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 101.     
-7.  Het bedrag genoemd in [artikel 17, derde lid, van het Besluit onderstand BES](../../../../../../../../../AMvB-BES/besluit/onderstand/bes/BWBR0028595/README.md) wordt vastgesteld op USD 33.   
+7.  Het bedrag genoemd in [artikel 17, derde lid, van het Besluit onderstand BES](../../../../../../../../../AMvB-BES/besluit/onderstand/bes/BWBR0028595/README.md) wordt vastgesteld op USD 33.  
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2012.  
+Materieel uitgewerkt per 01-01-2014 
+
+Deze regeling treedt in werking met ingang van 1 januari 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 21 november 2011   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-H.G.J.Kamp   
+Minister van Sociale Zaken en Werkgelegenheid, 
+H.G.J. Kamp     
