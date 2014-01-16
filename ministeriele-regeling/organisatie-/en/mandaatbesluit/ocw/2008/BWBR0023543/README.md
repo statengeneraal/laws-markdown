@@ -348,9 +348,9 @@ R.H.A.Plasterk
 
 De bewindspersonen van het Ministerie zijn: 
 
-– minister, mevrouw J.M. van Bijsterveldt-Vliegenthart  
+– minister, mevrouw dr. J. Bussemaker  
 
-– staatssecretaris, de heer drs. H. Zijlstra   
+– staatssecretaris, de heer S. Dekker   
 ###Hoofdstuk 2. Managementteam van het ministerie
 
 Het managementteam van het ministerie bestaat uit: 
@@ -361,7 +361,7 @@ Het managementteam van het ministerie bestaat uit:
 
 – de directeuren-generaal (DG)  
 
-– de inspecteur-generaal van het Onderwijs (IGO).   De SG is ambtelijk verantwoordelijk voor het functioneren van het ministerie en voor de voorbereiding en uitvoering van het beleid waarvoor de politieke leiding de politieke verantwoordelijkheid draagt. De SG heeft als hoogste ambtenaar tot taak te zorgen voor een goede onderlinge afstemming van de verschillende beleidsterreinen en voor de uitvoering en uitvoerbaarheid van het ontwikkelde beleid. De SG wordt in de ambtelijke leiding van het departement bijgestaan door een PSG. Deze vervangt hem bij zijn afwezigheid in al zijn taken en behartigt, namens de SG, de SG-taken op het gebied van het beheer van het departement. De PSG is verantwoordelijk voor de directies binnen haar kolom. Voor de inhoudelijke beleidsthema's van de directies Kennis en IB is de SG echter eerste aanspreekpunt. Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend. DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen. De SG, de DGHBWE, de DGPV en de DGCM worden ondersteund door een stafbureau. Deze stafbureaus zijn verantwoordelijk voor de secretariële ondersteuning en/of persoonlijke ambtelijke ondersteuning aan de SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM. De SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM zijn direct-leidinggevende van de medewerkers van de stafbureaus. 
+– de inspecteur-generaal van het Onderwijs (IGO).   De SG is ambtelijk verantwoordelijk voor het functioneren van het ministerie en voor de voorbereiding en uitvoering van het beleid waarvoor de politieke leiding de politieke verantwoordelijkheid draagt. De SG heeft als hoogste ambtenaar tot taak te zorgen voor een goede onderlinge afstemming van de verschillende beleidsterreinen en voor de uitvoering en uitvoerbaarheid van het ontwikkelde beleid. De SG wordt in de ambtelijke leiding van het departement bijgestaan door een PSG. Deze vervangt hem bij zijn afwezigheid in al zijn taken en behartigt, namens de SG, de SG-taken op het gebied van het beheer van het departement. De PSG is verantwoordelijk voor de directies binnen haar kolom. Voor de inhoudelijke beleidsthema's van de directie Kennis is de SG echter eerste aanspreekpunt. Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend. DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen. De SG, de DGHBWE, de DGPV en de DGCM worden ondersteund door een stafbureau. Deze stafbureaus zijn verantwoordelijk voor de secretariële ondersteuning en/of persoonlijke ambtelijke ondersteuning aan de SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM. De SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM zijn direct-leidinggevende van de medewerkers van de stafbureaus. 
 ###Hoofdstuk 3. Dienstonderdelen van het ministerie
 
 Het Ministerie bestaat uit de volgende dienstonderdelen: 
@@ -376,23 +376,19 @@ a. Inspecties:
 
 3.2 organisatieonderdelen die rechtstreeks ressorteren onder de pSG: 
 
-1e. Auditdienst (AD)  
+1e. Bestuursondersteuning en Advies (BOA)  
 
-2e. Bestuursondersteuning en Advies (BOA)  
+2e. Communicatie (COM)  
 
-3e. Communicatie (COM)  
+3e. Facilitair Management en ICT (FM/ICT)  
 
-4e. Facilitair Management en ICT (FM/ICT)  
+4e. Financieel-Economische Zaken (FEZ)  
 
-5e. Financieel-Economische Zaken (FEZ)  
+5e. Kennis  
 
-6e. Internationaal Beleid (IB)  
+6e. Personeel & Organisatie (P&O)  
 
-7e. Kennis  
-
-8e. Personeel & Organisatie (P&O)  
-
-9e. Wetgeving en Juridische Zaken (WJZ)    
+7e. Wetgeving en Juridische Zaken (WJZ)    
 
 3.3 organisatieonderdelen die rechtstreeks ressorteren onder de DGPV: 
 
@@ -406,9 +402,7 @@ b. Beleidsdirecties gericht op een thema:
 
 1e.  *Jeugd en Onderwijszorg*   
 
-2e.  *Leraren*   
-
-3e.  *Voortijdig Schoolverlaten (VSV)*     
+2e.  *Leraren*     
 
 c. Ondersteunend bureau voor de: 
 
@@ -420,7 +414,7 @@ c. Ondersteunend bureau voor de:
 
 a. Beleidsdirecties gericht op het stelsel: 
 
-1e. Beroeps- en Volwasseneneducatie (BVE)  
+1e. Middelbaar Beroepsonderwijs (MBO)  
 
 2e. Hoger Onderwijs & Studiefinanciering (HO&S)  
 
@@ -440,23 +434,25 @@ c. Ondersteunend bureau voor de:
 
 a. Beleidsdirecties gericht op het stelsel: 
 
-1e. Cultureel Erfgoed (DCE)  
+1e. Erfgoed en Kunsten (E&K)  
 
-2e. Kunsten (DK)  
+2e. Media en Creatieve Industrie (M&C)    
 
-3e. Media, Letteren en Bibliotheken (MLB)    
+b. Beleidsdirectie gericht op ondersteuning internationaal beleid: 
 
-b. Beleidsdirectie ingericht als buitendienst: 
+– Internationaal Beleid (IB)    
+
+c. Beleidsdirectie ingericht als buitendienst: 
 
 *Rijksdienst voor het Cultureel Erfgoed (RCE)*     
 
-c. Baten-lastendienst: 
+d. Baten-lastendienst: 
 
 – Nationaal Archief (NA)    
 
-d. Ondersteunend bureau voor de: 
+e. Ondersteunend bureau voor de: 
 
-– Raad van Cultuur (RvC)      
+– Raad voor Cultuur (RvC)      
 
 3.6 organisatieonderdelen die rechtstreeks ressorteren onder de DGDUO: 
 
@@ -466,34 +462,22 @@ a. Baten-lastendienst:
 ###Hoofdstuk 4. Taken en verantwoordelijkheden ondersteunende directies
 
 De ondersteunende directies hebben de volgende taken en verantwoordelijkheden: 
-###4.1 Auditdienst (AD)
-
-De AD is verantwoordelijk voor het leveren van betrouwbare managementinformatie. De AD kent drie strategische functies: 
-
-– De certificerende functie: de controle van de financiële verantwoording;  
-
-– De onderzoeksfunctie: (preventieve) toetsing van en advisering over beheersing en verbetering van bedrijfsvoeringprocessen, als tool of management voor het integraal verantwoordelijk lijnmanagement;  
-
-– Rekenschapsfunctie: certificerende taken en onderzoekstaken gericht op de bekostigde en gesubsidieerde instellingen van OCW.   De AD werkt primair voor en in opdracht van het verantwoordelijk management van OCW, maar neemt bij de taakuitoefening overeenkomstig de eigen beroepsethiek een onafhankelijke positie in. 
-###4.2 Directie Bestuursondersteuning en Advies (BOA)
+###4.1 Directie Bestuursondersteuning en Advies (BOA)
 
 De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek- bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties. Verder is de directie verantwoordelijk voor de beleidsontwikkeling op het terrein van veiligheid voor alle sectoren van het Ministerie. 
-###4.3 Directie Communicatie (COM)
+###4.2 Directie Communicatie (COM)
 
 De directie COM is verantwoordelijk voor de interne en externe communicatie van het departement. 
-###4.4 Directie Facilitair Management en ICT (FM/ICT)
+###4.3 Directie Facilitair Management en ICT (FM/ICT)
 
 De directie FM/ICT verzorgt kaderstellend beleid en centrale regieorganisatie-taken voor het concern OCW naast decentrale regieorganisatie-taken en ondersteuning voor het bestuursdepartement op het gebied van Facilitair management, Huisvesting, Inkoop, Duurzaamheid en services (telefoon, receptie, vervoer, beveiliging, post, archief, huishoudelijke zaken) en ICT (beleid en beheer en diensten conform productdienstencatalogus). 
-###4.5 Directie Financieel-Economische Zaken (FEZ)
+###4.4 Directie Financieel-Economische Zaken (FEZ)
 
 De directie FEZ is verantwoordelijk voor het begrotingsproces en bewaakt de uitkomsten daarvan. Tevens is de directie verantwoordelijk voor de interne planning & control cyclus van het Ministerie. Vanuit de financiële expertise ondersteunt zij bij alle aspecten van beleid en bedrijfsvoering. Dit gebeurt zowel op het niveau van de DG (DG control) als op het niveau van SG respectievelijk minister (Concern control). De directie is belast met de algemene beleidsvorming en advisering over toezicht. De directie is tevens verantwoordelijk voor de beleidsontwikkeling op het terrein arbeidszaken. 
-###4.6 Directie Internationaal Beleid (IB)
-
-De directie IB is verantwoordelijk voor de inbreng van Nederland overal waar onderwerpen op het terrein van OCW in internationale verbanden aan de orde zijn. Omgekeerd brengt de directie relevante informatie uit het buitenland op de tafel van betrokken directies binnen het Ministerie – en via hen – van relevante delen van het onderwijs-, onderzoek- en cultuurveld. 
-###4.7 Directie Kennis
+###4.5 Directie Kennis
 
 De directie Kennis is verantwoordelijk voor het verbinden van beleidsvorming, wetenschap en praktijk. Daarmee wordt de kwaliteit van de beleidsvorming vergroot en wordt de relevantie van wetenschappelijk onderzoek op OCW-gebied versterkt. Door te werken aan het vergroten van het inzicht in de prestaties van de OCW-stelsels bij alle actoren, worden die actoren in staat gesteld de eigen prestaties te verhogen. 
-###4.8 Directie Personeel en Organisatie (P&O)
+###4.6 Directie Personeel en Organisatie (P&O)
 
 De directie P&O verzorgt binnen de door de rijksoverheid gegeven kaders: 
 
@@ -502,7 +486,7 @@ De directie P&O verzorgt binnen de door de rijksoverheid gegeven kaders:
 – op directieniveau decentrale regieorganisatie- en adviestaken voor het management en de medewerkers van het bestuursdepartement en ook aan afzonderlijke diensten;  
 
 – administratieve beheertaken (concernbreed) voor zover niet ondergebracht in P-Direkt.   Tevens is de directie P&O verantwoordelijk voor de ontwikkeling en het beheer van managementinformatie en het uitvoeren van planning en control-taken inclusief advies en rapportages op het gebied van de bedrijfsvoering (apparaatskosten en centrale budgetten). 
-###4.9 Directie Wetgeving en Juridische Zaken (WJZ)
+###4.7 Directie Wetgeving en Juridische Zaken (WJZ)
 
 De directie WJZ is verantwoordelijk voor de totstandkoming van de wet- en regelgeving van OCW. Voorts is de directie WJZ verantwoordelijk voor de advisering op het terrein van bestuurlijke en juridische aangelegenheden, voor de toetsing van internationale- en EU-regelgeving alsmede beleid en regels waarvan de totstandkoming tot de rechtstreekse verantwoordelijkheid van de andere directies behoort. 
 ###Hoofdstuk 5. Taken en verantwoordelijkheden beleidsdirecties ressorterend onder DGPV
@@ -520,15 +504,12 @@ De directie Jeugd en Onderwijszorg is verantwoordelijk voor de beleidsontwikkeli
 ###5.4 Directie Leraren
 
 De directie Leraren is verantwoordelijk voor de beleidsontwikkeling op het terrein van leraren voor alle onderwijssectoren. In het bijzonder is de directie gericht op de kwaliteitsbevordering van leraren en de terugdringing van het lerarentekort. 
-###5.5 Directie Voortijdig schoolverlaten (VSV)
-
-De directie VSV heeft als hoofddoel het coördineren van beleid om jongeren in de leeftijd tot 23 jaar met een startkwalificatie (mbo-2 diploma) van school te laten gaan. 
 ###Hoofdstuk 6. Taken en verantwoordelijkheden beleidsdirecties ressorterend onder DGHBWE
 
 De beleidsdirecties van het DGHBWE hebben de volgende taken en verantwoordelijkheden: 
-###6.1 Directie Beroeps- en Volwasseneneducatie (BVE)
+###6.1 Middelbaar Beroepsonderwijs (MBO)
 
-De directie BVE is verantwoordelijk voor de beleidsontwikkeling op het terrein van het middelbaar beroepsonderwijs en de volwasseneneducatie. 
+De directie MBO is verantwoordelijk voor de beleidsontwikkeling op het terrein van het middelbaar beroepsonderwijs en de volwasseneneducatie, en coördineert het beleid tegen voortijdig schoolverlaten. 
 ###6.2 Directie Hoger Onderwijs & Studiefinanciering (HO&S)
 
 De directie HO&S is verantwoordelijk voor de beleidsontwikkeling op het terrein van hoger onderwijs, academische ziekenhuizen en studiefinanciering. De directie draagt zorg voor het hoger onderwijsstelsel en beheert wet- en regelgeving omtrent hoger onderwijs en studiefinanciering. 
@@ -541,18 +522,21 @@ DE is verantwoordelijk voor de beleidsontwikkeling op het terrein van emancipati
 ###Hoofdstuk 7. Taken en verantwoordelijkheden beleidsdirecties ressorterend onder DGCM
 
 De beleidsdirecties van het DGCM hebben de volgende taken en verantwoordelijkheden: 
-###7.1 Directie Cultureel Erfgoed (DCE)
+###7.1 Directie Erfgoed en Kunsten (E&K)
 
-DCE is verantwoordelijk voor de beleidsontwikkeling op het terrein van het cultureel erfgoed verdeeld over de sectoren: archiefdocumenten, museale voorwerpen, archeologische voorwerpen en monumenten. 
-###7.2 Directie Kunsten (DK)
+De directie E&K is verantwoordelijk voor beleidsontwikkeling op het terrein van erfgoed en kunsten en voert beleid ten aanzien van instellingen waarmee een subsidierelatie wordt onderhouden. Het beleid omvat de volgende disciplines: monumentenzorg, archeologie, musea, beeldende kunst, dans, muziek, muziektheater en theater. 
+###7.2 Directie Media en Creatieve Industrie (M&C)
 
-DK is verantwoordelijk voor de beleidsontwikkeling op het terrein van kunsten. 
-###7.3 Directie Media, Letteren en Bibliotheken (MLB)
+De directie M&C is verantwoordelijk voor het beleid op terrein van media, bibliotheken, archieven en creatieve industrie. Doel van de directie is het waarborgen van een onafhankelijk, gevarieerd en kwalitatief hoogwaardig media-en informatieaanbod, dat toegankelijk is en blijft voor alle lagen van de bevolking. Daarnaast is de directie verantwoordelijk voor de ondersteuning van de ontwikkeling van de creatieve industrie via fondsen, kennisborging en netwerkvorming. M&C coördineert het topsectorenbeleid creatieve industrie in samenwerking met het ministerie van Economische Zaken. 
+###7.3 Directie Internationaal Beleid (IB)
 
-De directie MLB is verantwoordelijk voor de beleidsontwikkeling op het terrein van omroep, pers, nieuwe media, het boek en lezen (letteren, bibliotheken en leesbevordering). Doel is dat zoveel mogelijk burgers toegang hebben tot een onafhankelijk, gevarieerd en kwalitatief hoogstaand media- en informatieaanbod. 
+De directie IB is verantwoordelijk voor de inbreng van Nederland overal waar onderwerpen op het terrein van OCW in internationale verbanden aan de orde zijn. Omgekeerd brengt de directie relevante informatie uit het buitenland op de tafel van betrokken directies binnen het ministerie – en via hen – van relevante delen van het onderwijs-, onderzoek- en cultuurveld. 
 ###7.4 Rijksdienst voor het Cultureel Erfgoed (RCE)
 
 De RCE voert, namens de minister, de [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) uit en fungeert als kenniscentrum voor de instandhouding van het archeologische, gebouwde en cultuurlandschappelijke erfgoed van Nederland. De dienst is (mede) verantwoordelijk voor de beleidsontwikkeling en het uitvoeren van het beleid met betrekking tot het cultureel erfgoed en fungeert als kennisinstituut voor de bescherming van waardevolle sporen van menselijke bewoning. De dienst draagt in opdracht van het Ministerie van Onderwijs, Cultuur en Wetenschap zorg voor de kunstcollectie van het Rijk voor zover niet ondergebracht bij rijksmusea en streeft ernaar deze optimaal toegankelijk te maken. De dienst is (mede)verantwoordelijk voor de ontwikkeling en uitvoering van het beleid voor roerend cultureel erfgoed en fungeert op dat terrein als kenniscentrum. De dienst ontwikkelt en verspreidt kennis die het beheer en behoud van de erfgoedcollectie ondersteunt en verbetert en die de betekenis daarvan duidt en kenbaar maakt. 
+###7.5 Rijksdienst voor het Cultureel Erfgoed (RCE)
+
+De RCE voert, namens de minister, de wet- en regelgeving op het terrein van de erfgoedzorg uit en fungeert als kenniscentrum voor de instandhouding van het archeologische, gebouwde en cultuurlandschappelijke erfgoed van Nederland. De dienst is (mede) verantwoordelijk voor de beleidsontwikkeling en het uitvoeren van het beleid met betrekking tot het cultureel erfgoed en fungeert als kennisinstituut voor de bescherming van waardevolle sporen van menselijke bewoning. De dienst is (mede)verantwoordelijk voor de ontwikkeling en uitvoering van het beleid voor roerend cultureel erfgoed en fungeert op dat terrein als kenniscentrum. De dienst draagt in opdracht van het Ministerie van Onderwijs, Cultuur en Wetenschap zorg voor de kunstcollectie van het Rijk voor zover niet ondergebracht bij rijksmusea en streeft ernaar deze optimaal toegankelijk te maken. De dienst ontwikkelt en verspreidt kennis die het beheer en behoud van de erfgoedcollectie ondersteunt en verbetert en die de betekenis daarvan duidt en kenbaar maakt. 
 ###Hoofdstuk 8. Taken en verantwoordelijkheden van de baten-lastendienst DUO
 
 DUO is de hoofduitvoerder van OCW en voert de volgende kerntaken uit: 

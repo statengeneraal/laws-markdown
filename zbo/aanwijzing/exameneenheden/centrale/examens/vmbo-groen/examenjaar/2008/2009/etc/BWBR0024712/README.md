@@ -15,37 +15,37 @@ Gelet op:
 
 * de regeling Invoering van het centraal schriftelijk en praktisch examen (cspe) in de kaderberoepsgerichte leerweg VO/OK-2006/12881 van 28 april 2006, (Staatscourant nr. 89 van 8 mei 2006)      
 
-### Artikel  1  
+###Artikel 1 
 
 ####Aanwijzing exameneenheden 2008, 2009 en, indien van toepassing, 2010
 
-Voor het afdelingsprogramma landbouw en het intrasectorale programma landbouw-breed zijn de exameneenheden die in de examenjaren 2008, 2009 en, indien van toepassing, 2010 centraal worden geëxamineerd, opgenomen in de bijlage bij deze regeling.  
+Voor het afdelingsprogramma landbouw en het intrasectorale programma landbouw-breed zijn de exameneenheden die in de examenjaren 2008, 2009 en, indien van toepassing, 2010 centraal worden geëxamineerd, opgenomen in de bijlage bij deze regeling. 
 
-### Artikel  2  
+###Artikel 2 
 
 ####Bekendmaking
 
-De regeling zal met de bijlagen in de Staatscourant worden gepubliceerd. Daarnaast is de regeling te raadplegen via www.cfi.nl van CFI, Agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap. De bijlagen kunnen ook worden geraadpleegd op Examenblad.nl (www.examenblad.nl).  
+De regeling zal met de bijlagen in de Staatscourant worden gepubliceerd. Daarnaast is de regeling te raadplegen via www.cfi.nl van CFI, Agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap. De bijlagen kunnen ook worden geraadpleegd op Examenblad.nl (www.examenblad.nl). 
 
-### Artikel  3  
+###Artikel 3 
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant waarin deze regeling is bekendgemaakt, en werkt terug tot 1 augustus 2007.  
+Deze regeling treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant waarin deze regeling is bekendgemaakt, en werkt terug tot 1 augustus 2007. 
 
-### Artikel  4  
+###Artikel 4 
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Aanwijzing exameneenheden centrale examens vmbo-groen examenjaar 2008, 2009 en eventueel 2010.  
+Deze regeling wordt aangehaald als: Aanwijzing exameneenheden centrale examens vmbo-groen examenjaar 2008, 2009 en eventueel 2010. 
 
 De 
 voorzitter van de CEVO, 
-drs. H.W.Laan  
+drs. H.W.Laan   
 
-### Bijlage  
+###Bijlage  
 
-### 1  
+###1 
 
 ####Plantenteelt
 
@@ -64,7 +64,7 @@ drs. H.W.Laan
 | --- | --- |
 |:---|:---|
 | LN/K/2  | Professionele vaardigheden  |
-| LN/K/3  | Plantmateriaal  |
+| LN/K/3  |  Plantmateriaal  |
 | LN/K/6  | Teeltmedium 1  |
 | LN/K/16  | Teeltwerkzaamheden 1  |
 | LN/K/17  | Teeltmedium 2  |
@@ -80,7 +80,7 @@ drs. H.W.Laan
 | LN/K/16  | Teeltwerkzaamheden 1  |
 | LN/K/17  | Teeltmedium 2  |
 
-### 2  
+###2 
 
 ####Groene ruimte
 
@@ -118,7 +118,7 @@ drs. H.W.Laan
 | LN/K/19  | Houtachtige beplantingen en gewassen  |
 | LN/K/20  | Kruidachtige beplantingen en gewassen  |
 
-### 3  
+###3 
 
 ####Bloembinden en –schikken
 
@@ -153,7 +153,7 @@ drs. H.W.Laan
 | LN/K/21  | Verkopen  |
 | LN/K/22  | Binden en schikken  |
 
-### 4  
+###4 
 
 ####Dierhouderij en –verzorging
 
@@ -191,7 +191,7 @@ drs. H.W.Laan
 | LN/K/24  | Diervoeding  |
 | LN/K/25  | Dierverzorging 2  |
 
-### 5  
+###5 
 
 ####Verwerking agrarische producten
 
@@ -229,7 +229,7 @@ drs. H.W.Laan
 | LN/K/28  | Hygiëne  |
 | LN/K/29  | Conserveren  |
 
-### 6  
+###6 
 
 ####Agrarische techniek
 
@@ -243,7 +243,7 @@ drs. H.W.Laan
 | LN/K/15  | Motoren  |
 | LN/K/33  | Verzorgen elektrisch laswerk  |
 
-### 7  
+###7 
 
 ####Agrarische bedrijfseconomie
 
@@ -252,12 +252,12 @@ drs. H.W.Laan
 | --- | --- |
 |:---|:---|
 | LN/K/2  | Professionele vaardigheden  |
-| LN/K/10  | Werken in de detailhandel/bedrijfseconomische begrippen  alleen eindterm 4  |
+| LN/K/10  | Werken in de detailhandel/bedrijfseconomische begrippen   alleen eindterm 4  |
 | LN/K/11  | Berekeningen  alleen de eindtermen 1, 2, 5 en 6  |
 | LN/K/12  | Boekhoudkundige begrippen en boekingsregels  |
 | LN/K/30  | Boekhoudregels en boekhoudkundige cyclus  |
 
-### 8  
+###8 
 
 ####Landbouw-breed
 
