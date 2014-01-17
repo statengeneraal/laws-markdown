@@ -16,20 +16,20 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Het is verboden bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren te verstrekken via een tabaksautomaat.   
-2.  Het in het eerste lid bepaalde verbod geldt niet, indien het verstrekken van tabaksproducten geschiedt via een tabaksautomaat die standaard vergrendeld is en voor het uitvoeren van een verkooptransactie slechts ontgrendeld kan worden door of ten behoeve van personen van zestien jaar of ouder.   
+2.  Het in het eerste lid bepaalde verbod geldt niet, indien het verstrekken van tabaksproducten geschiedt via een tabaksautomaat die standaard vergrendeld is en voor het uitvoeren van een verkooptransactie slechts ontgrendeld kan worden door of ten behoeve van personen van 18 jaar of ouder.  
 
 ### Artikel  2  
 
 1.  Tabaksautomaten bevinden zich niet in de buitenlucht.   
-2.  Tabaksautomaten bevinden zich in het zicht van degene voor wiens rekening en risico de automaat werkt of van zijn personeel, dan wel van de exploitant van de inrichting waar de automaat zich bevindt of van zijn personeel.   
+2.  Tabaksautomaten bevinden zich in het zicht van degene voor wiens rekening en risico de automaat werkt of van zijn personeel, dan wel van de exploitant van de inrichting waar de automaat zich bevindt of van zijn personeel.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit tabaksautomaten.  
+Dit besluit wordt aangehaald als: Besluit tabaksautomaten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -38,11 +38,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
+Minister van Volksgezondheid, Welzijn en Sport,
 J. F.Hoogervorst 
 
 *negentiende* februari 2004 
 
 De 
-Minister van Justitie, 
+Minister van Justitie,
 J. P. H.Donner  

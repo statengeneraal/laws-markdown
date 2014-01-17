@@ -33,7 +33,7 @@ b. neringruimte: ruimte binnen een gebouw, welke ruimte in gebruik is voor het u
 4°. het in het openbaar bedrijfsmatig opkopen van goederen;    
 
 c. verbindingslokaliteit: een tot een inrichting waarin het slijtersbedrijf wordt uitgeoefend behorende lokaliteit in gebruik als passage tussen een neringruimte en een slijtlokaliteit.     
-2.  In dit besluit worden aan elkaar grenzende ruimten als één lokaliteit beschouwd, indien zij hetzij verbonden zijn door een permanente wandopening met een hoogte van ten minste 2,20 m van de vloer af gemeten en een breedte van ten minste twee/derde van de scheidingswand met een minimum van 2,40 m, hetzij slechts gescheiden door een afscheiding van geringere hoogte dan 1,25 m van de vloer af gemeten.   
+2.  In dit besluit worden aan elkaar grenzende ruimten als één lokaliteit beschouwd, indien zij hetzij verbonden zijn door een permanente wandopening met een hoogte van ten minste 2,20 m van de vloer af gemeten en een breedte van ten minste twee/derde van de scheidingswand met een minimum van 2,40 m, hetzij slechts gescheiden door een afscheiding van geringere hoogte dan 1,25 m van de vloer af gemeten.  
 
 ### §  2  
 
@@ -41,25 +41,29 @@ c. verbindingslokaliteit: een tot een inrichting waarin het slijtersbedrijf word
 
 ### Artikel  2  
 
-Onverminderd het [Bouwbesluit 2003](../../../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), voldoet een inrichting waarin het horecabedrijf wordt uitgeoefend, aan de in artikelen 3 tot en met 7 van het onderhavige besluit vervatte bepalingen.  
+Onverminderd het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), voldoet een inrichting waarin het horecabedrijf wordt uitgeoefend, aan de in artikelen 3 tot en met 7 van het onderhavige besluit vervatte bepalingen. 
 
 ### Artikel  3  
 
-Een inrichting waarin het horecabedrijf wordt uitgeoefend, heeft ten minste één horecalokaliteit met een vloeroppervlakte van ten minste 35 m <sup>2</sup>.  
+Een inrichting waarin het horecabedrijf wordt uitgeoefend, heeft ten minste één horecalokaliteit met een vloeroppervlakte van ten minste 35 m<sup>2</sup>. 
 
 ### Artikel  4  
 
-Een horecalokaliteit heeft een hoogte van ten minste 2,40 m van de vloer af gemeten.  
+Een horecalokaliteit heeft een hoogte van ten minste 2,40 m van de vloer af gemeten. 
+
+### Artikel  4a  
+
+De burgemeester kan besluiten af te wijken van artikel 3 en 4, indien er sprake is van een lokaliteit die is gevestigd in een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md). 
 
 ### Artikel  5  
 
-Een horecalokaliteit is voorzien van een rechtstreeks met de buitenlucht in verbinding staande goed werkende mechanische ventilatie-inrichting met een luchtverversingscapaciteit van 3,8•10 <sup>-3</sup> m <sup>3</sup> /s per m <sup>2</sup> vloeroppervlakte.  
+1. Een horecalokaliteit is voorzien van een rechtstreeks met de buitenlucht in verbinding staande goed werkende mechanische ventilatie-inrichting met een luchtverversingscapaciteit van 3,8•10<sup>-3</sup> m<sup>3</sup>/s per m<sup>2</sup> vloeroppervlakte.  
+2.  Indien er sprake is van een horecalokaliteit die gevestigd is in een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), kan de burgemeester in afwijking van het bepaalde in [artikel 27 van de Drank- en Horecawet](../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) een vergunning verlenen indien niet wordt voldaan aan het eerste lid, mits de luchtverversing op een andere wijze dan voorzien in het eerste lid wordt gerealiseerd en dit leidt tot een luchtkwaliteit in de horecalokaliteit die vergelijkbaar is met de luchtkwaliteit die zou worden gerealiseerd door middel van de in het eerste lid bedoelde mechanische ventilatie-inrichting. 
 
 ### Artikel  6  
 
 1.  In een inrichting waarin het horecabedrijf wordt uitgeoefend is, opdat op veilige wijze kan worden beschikt over energie, een voorziening voor elektriciteit aanwezig.   
-2.  In een inrichting waarin het horecabedrijf wordt uitgeoefend is, opdat kan worden beschikt over voor de menselijke consumptie en hygiëne geschikt water, een voorziening voor drinkwater aanwezig.   
-3.  In een inrichting waarin het horecabedrijf wordt uitgeoefend is, mede ten behoeve van de bezoekers, een voorziening voor het voeren van telefoongesprekken aanwezig.   
+2.  In een inrichting waarin het horecabedrijf wordt uitgeoefend is, opdat kan worden beschikt over voor de menselijke consumptie en hygiëne geschikt water, een voorziening voor drinkwater aanwezig.  
 
 ### Artikel  7  
 
@@ -78,22 +82,22 @@ b. een of meer behoorlijke voorzieningen om de handen met stromend deugdelijk dr
 
 ### Artikel  8  
 
-Onverminderd het [Bouwbesluit](../../../../../../../../AMvB/bouwbesluit/BWBR0005321/README.md), voldoet een inrichting waarin het slijtersbedrijf wordt uitgeoefend, aan de in artikelen 9 tot en met 11 van het onderhavige besluit vervatte bepalingen.  
+Onverminderd het [Bouwbesluit](../../../../../../../../AMvB/bouwbesluit/BWBR0005321/README.md), voldoet een inrichting waarin het slijtersbedrijf wordt uitgeoefend, aan de in artikelen 9 tot en met 11 van het onderhavige besluit vervatte bepalingen. 
 
 ### Artikel  9  
 
-Een inrichting waarin het slijtersbedrijf wordt uitgeoefend heeft ten minste één slijtlokaliteit met een vloeroppervlakte van ten minste 15 m <sup>2</sup>.  
+Een inrichting waarin het slijtersbedrijf wordt uitgeoefend heeft ten minste één slijtlokaliteit met een vloeroppervlakte van ten minste 15 m<sup>2</sup>. 
 
 ### Artikel  10  
 
-Een slijtlokaliteit heeft aan alle zijden gesloten wanden met een hoogte van ten minste 2,40 m van de vloer af gemeten.  
+Een slijtlokaliteit heeft aan alle zijden gesloten wanden met een hoogte van ten minste 2,40 m van de vloer af gemeten. 
 
 ### Artikel  11  
 
 1.  Een slijtlokaliteit staat niet rechtstreeks in verbinding met een neringruimte.   
 2.  Een verbindingslokaliteit heeft aan alle zijden gesloten wanden met een hoogte van ten minste 2,40 m van de vloer af gemeten.   
 3.  Een verbindingslokaliteit bestemd of mede bestemd voor bezoekers, heeft ten hoogste één afsluitbare toegang met een breedte van ten hoogste 2,40 m naar de slijtlokaliteit en ten hoogste één afsluitbare toegang met een breedte van ten hoogste 2,40 m naar de neringruimte. De loopafstand tussen de toegang naar de slijtlokaliteit en de toegang naar de neringruimte bedraagt ten minste 2,00 m.   
-4.  Een verbindingslokaliteit uitsluitend bestemd voor personeel van het slijtersbedrijf, heeft ten hoogste één afsluitbare toegang met een breedte van ten hoogste 1,00 m naar de slijtlokaliteit en ten hoogste één afsluitbare toegang met een breedte van ten hoogste 1,00 m naar de neringruimte. De loopafstand tussen de toegang naar de slijtlokaliteit en de toegang naar de neringruimte bedraagt ten minste 1,00 m.   
+4.  Een verbindingslokaliteit uitsluitend bestemd voor personeel van het slijtersbedrijf, heeft ten hoogste één afsluitbare toegang met een breedte van ten hoogste 1,00 m naar de slijtlokaliteit en ten hoogste één afsluitbare toegang met een breedte van ten hoogste 1,00 m naar de neringruimte. De loopafstand tussen de toegang naar de slijtlokaliteit en de toegang naar de neringruimte bedraagt ten minste 1,00 m.  
 
 ### §  4  
 
@@ -101,11 +105,11 @@ Een slijtlokaliteit heeft aan alle zijden gesloten wanden met een hoogte van ten
 
 ### Artikel  12  
 
-Het Besluit inrichtingseisen Drank- en Horecawet wordt ingetrokken.  
+Het Besluit inrichtingseisen Drank- en Horecawet wordt ingetrokken. 
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Besluit eisen inrichtingen Drank- en Horecawet.  
+Dit besluit wordt aangehaald als: Besluit eisen inrichtingen Drank- en Horecawet. 
 
 ### Artikel  14  
 
@@ -123,4 +127,4 @@ E. Borst-Eilers
 de *vierentwintigste* oktober 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

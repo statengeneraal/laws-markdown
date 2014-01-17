@@ -12,13 +12,13 @@ Besluit:
 
 ####Syllabi 2015
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het h.a.v.o. 2015, voor de vakken als vermeld in respectievelijk de bijlage 1 bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het h.a.v.o. 2015, voor de vakken als vermeld in respectievelijk de bijlage 1 bij deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  2  
 
 ####Syllabi 2016
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.w.o. 2016, voor de vakken als vermeld in respectievelijk de bijlage 2 bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.w.o. 2016, voor de vakken als vermeld in respectievelijk de bijlage 2 bij deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  3  
 
@@ -28,20 +28,20 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 1. betreffende artikel 1: per 1 januari 2017;  
 
-2. betreffende artikel 2: per 1 januari 2018.    
+2. betreffende artikel 2: per 1 januari 2018.   
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling syllabi centrale examens natuurkunde, scheikunde en biologie h.a.v.o. 2015 en v.w.o. 2016.  
+Deze regeling wordt aangehaald als: Regeling syllabi centrale examens natuurkunde, scheikunde en biologie h.a.v.o. 2015 en v.w.o. 2016. 
 
 ### Artikel  5  
 
 ####Bekendmaking
 
 1.  Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
-2.  De syllabi als bedoeld in artikel 1 en 2 worden bekend gemaakt op www.examenblad.nl.   
+2.  De syllabi als bedoeld in artikel 1 en 2 worden bekend gemaakt op www.examenblad.nl.  
 
 Het College voor examens, namens deze: 
 de voorzitter, 
@@ -51,11 +51,11 @@ H.W. Laan
 
 ####Syllabi h.a.v.o. 2015
 
-Voor de centrale examens h.a.v.o. 2015 worden syllabi voor de volgende vakken vastgesteld: natuurkunde scheikunde biologie  
+Voor de centrale examens h.a.v.o. 2015 worden syllabi voor de volgende vakken vastgesteld: natuurkunde scheikunde biologie 
 
 ### Bijlage  2  
 
 ####Syllabi v.w.o. 2016
 
-Voor de centrale examens v.w.o. 2016 worden syllabi voor de volgende vakken vastgesteld: natuurkunde scheikunde biologie  
+Voor de centrale examens v.w.o. 2016 worden syllabi voor de volgende vakken vastgesteld: natuurkunde scheikunde biologie 
 

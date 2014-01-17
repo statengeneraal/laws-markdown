@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van het College voor Examens van 18 juni 2012, nummer CvE-13.01729 houdende vaststelling van het examenreglement en programma van toetsing en afsluiting staatsexamens VO en staatsexamens VO BES 2014 (Regeling examenreglement en PTA staatsexamens VO 2014)
+##Regeling van het College voor Examens van 18 juni 2013, nummer CvE-13.01729 houdende vaststelling van het examenreglement en programma van toetsing en afsluiting staatsexamens VO en staatsexamens VO BES 2014 (Regeling examenreglement en PTA staatsexamens VO 2014)
 
 Het College voor Examens,  
 Gelet op [artikel 2, derde lid, aanhef en onderdeel a, en vierde lid onderdeel a, van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md); het [Staatsexamenbesluit VO, artikel 13](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md); en het [Staatsexamenbesluit VO BES, artikel 12](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md).
@@ -10,44 +10,44 @@ Besluit:
 
 ####Examenreglement staatsexamens VO 2014
 
-Het examenreglement staatsexamens VO, bedoeld in [artikel 2, derde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en [artikel 13 eerste en derde lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), wordt vastgesteld voor het jaar 2014 als opgenomen in bijlage 1 bij deze regeling.  
+Het examenreglement staatsexamens VO, bedoeld in [artikel 2, derde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en [artikel 13 eerste en derde lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), wordt vastgesteld voor het jaar 2014 als opgenomen in bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Examenreglement staatsexamens VO BES 2014
 
-Het examenreglement staatsexamens VO BES, bedoeld in [artikel 2, derde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en afdeling 1, [artikel 12 eerste en derde lid, van het Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), wordt vastgesteld voor het jaar 2014 als opgenomen in bijlage 2 bij deze regeling.  
+Het examenreglement staatsexamens VO BES, bedoeld in [artikel 2, derde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en afdeling 1, [artikel 12 eerste en derde lid, van het Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), wordt vastgesteld voor het jaar 2014 als opgenomen in bijlage 2 bij deze regeling. 
 
 ### Artikel  3  
 
 ####Programma van toetsing en afsluiting staatsexamens VO en VO BES 2014
 
-Het programma van toetsing en afsluiting staatsexamens VO, bedoeld in [artikel 2, vierde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en [artikel 13 tweede en derde lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), en het staatsexamens VO BES, bedoeld in [artikel 2, vierde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en [artikel 12 tweede en derde lid, van het Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), wordt vastgesteld voor het jaar 2014 voor de vakken en onderdelen van het eindexamen als vermeld in bijlage 3 bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+Het programma van toetsing en afsluiting staatsexamens VO, bedoeld in [artikel 2, vierde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en [artikel 13 tweede en derde lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), en het staatsexamens VO BES, bedoeld in [artikel 2, vierde lid, onderdeel a van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) en [artikel 12 tweede en derde lid, van het Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), wordt vastgesteld voor het jaar 2014 voor de vakken en onderdelen van het eindexamen als vermeld in bijlage 3 bij deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 oktober 2013 ten behoeve van de staatsexamens vwo-havo-vmbo in 2014 en vervalt per 31 december 2014.  
+Deze regeling treedt in werking op 1 oktober 2013 ten behoeve van de staatsexamens vwo-havo-vmbo in 2014 en vervalt per 31 december 2014. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling examenreglement en PTA staatsexamens vwo-havo-vmbo 2014.  
+Deze regeling wordt aangehaald als: Regeling examenreglement en PTA staatsexamens vwo-havo-vmbo 2014. 
 
 ### Artikel  6  
 
 ####Bekendmaking
 
 1.  Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
-2.  Het programma van toetsing en afsluiting, bedoeld in artikel 2, wordt bekend gemaakt op www.duo.nl (examens).   
+2.  Het programma van toetsing en afsluiting, bedoeld in artikel 2, wordt bekend gemaakt op www.duo.nl (examens).  
 
 Het College voor examens, Namens deze, 
 de voorzitter, 
 H.W. Laan    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij de Regeling examenreglement en PTA staatsexamens VO 2014 van 18 juni 2013, nummer CvE-13.01729
 
@@ -111,13 +111,13 @@ Voor de toepassing van dit Reglement wordt verstaan onder:
 
 *DUO:* Dienst Uitvoering Onderwijs, onderdeel van het ministerie van Onderwijs, Cultuur en Wetenschap  
 
-*Commissie staatsexamens VO:* commissie namens het College voor examens belast met het organiseren en afnemen van staatsexamens Voortgezet Onderwijs.    
+*Commissie staatsexamens VO:* commissie namens het College voor examens belast met het organiseren en afnemen van staatsexamens Voortgezet Onderwijs.   
 
 ### Artikel  2  
 
 ####Aanmelden
 
-Kandidaten dienen zich aan te melden voor 1 januari 2014. VSO-scholen dienen hun leerlingen aan te melden voor 1 december 2013; wijzigingen op de vso-aanmelding kunnen worden doorgegeven tot uiterlijk 15 februari 2014.  
+Kandidaten dienen zich aan te melden voor 1 januari 2014. VSO-scholen dienen hun leerlingen aan te melden voor 1 december 2013; wijzigingen op de vso-aanmelding kunnen worden doorgegeven tot uiterlijk 15 februari 2014. 
 
 ### Artikel  3  
 
@@ -143,13 +143,13 @@ b. het College voor examens kan afwijken van de voorschriften met betrekking tot
 
 4. Het College voor examens stelt jaarlijks voor elk vak op grond van de [wet College voor examens artikel 4a](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) een programma van toetsing en afsluiting vast in de vorm van vakinformatie.  
 
-5. Deze vakinformatie bevat, naast de door Onze Minister vastgestelde onderwerpen voor het centraal examen, regels omtrent alle onderdelen van het college-examen.    
+5. Deze vakinformatie bevat, naast de door Onze Minister vastgestelde onderwerpen voor het centraal examen, regels omtrent alle onderdelen van het college-examen.   
 
 ### Artikel  4  
 
 ####Vakken staatsexamen
 
-Artikel 8 van het Staatsexamenbesluit heeft betrekking op de vakken voor het behalen van het diploma vwo, havo en/of vmbo. Zie de bijlagen 1, 2 en 3.  
+Artikel 8 van het Staatsexamenbesluit heeft betrekking op de vakken voor het behalen van het diploma vwo, havo en/of vmbo. Zie de bijlagen 1, 2 en 3. 
 
 ### Artikel  5  
 
@@ -157,7 +157,7 @@ Artikel 8 van het Staatsexamenbesluit heeft betrekking op de vakken voor het beh
 
 1. Het examendossier is het geheel van de onderdelen van het college-examen, zoals dit door het College voor examens in de vakinformatie is vastgelegd. Werkstukken, boekenlijsten, artikelen, songteksten/gedichten (zie de vakinformatie) dienen vóór 1 mei van het betreffende examenjaar in tweevoud opgestuurd te worden naar DUO, afdeling staatsexamens vwo-havo-vmbo, Postbus 30158, 9700 LK Groningen. Van het tijdig ingezonden materiaal ontvangt de kandidaat een ontvangstbevestiging. Een uitzondering vormen de werkstukken voor tekenen en handvaardigheid: deze dienen te worden meegebracht naar het college-examen. Voor kandidaten aan een vso-school liggen de werkstukken op de afgesproken datum klaar ter controle door de plaatselijk voorzitter mondeling.  
 
-2. De examinatoren moeten voor aanvang van het mondeling examen het ingezonden materiaal kunnen inzien. Wanneer het op te sturen materiaal niet tijdig bij DUO, afdeling staatsexamens is ontvangen, wordt de kandidaat voor het betreffende vak niet opgeroepen voor het college-examen of wordt de reeds verstuurde oproep ingetrokken.    
+2. De examinatoren moeten voor aanvang van het mondeling examen het ingezonden materiaal kunnen inzien. Wanneer het op te sturen materiaal niet tijdig bij DUO, afdeling staatsexamens is ontvangen, wordt de kandidaat voor het betreffende vak niet opgeroepen voor het college-examen of wordt de reeds verstuurde oproep ingetrokken.   
 
 ### Artikel  6  
 
@@ -181,7 +181,7 @@ b. niet in staat is al zijn schriftelijke toetsen en examens in het eerste en tw
 
 7. Indien een kandidaat om een geldige reden, ter beoordeling van het College voor examens, afwezig is bij een of meer mondelinge en/of praktische toetsen in de periode juni/juli, wordt geprobeerd de gemiste toetsen alsnog in dezelfde periode in te roosteren. Is dat niet mogelijk, dan krijgt de kandidaat uitstel naar het derde en zo nodig vierde tijdvak, met dezelfde beperkende voorwaarden als in lid 6b.  
 
-8. Mondelinge, praktische of schriftelijke examens of toetsen waarbij de kandidaat in het vierde tijdvak afwezig is, komen te vervallen.    
+8. Mondelinge, praktische of schriftelijke examens of toetsen waarbij de kandidaat in het vierde tijdvak afwezig is, komen te vervallen.   
 
 ### Artikel  7  
 
@@ -191,19 +191,19 @@ b. niet in staat is al zijn schriftelijke toetsen en examens in het eerste en tw
 
 2. Inhoudelijke toetsing van een werkstuk of boekenlijst gebeurt tijdens de afname van het mondeling of het praktisch gedeelte van het college-examen. Tijdens de afname worden vragen over het werkstuk gesteld. In de vakinformatie is per vak aangegeven welke invloed de beoordeling van het werkstuk, de bijbehorende presentatie en de beantwoording van daarover gestelde vragen heeft bij de bepaling van het cijfer voor het college-examen.  
 
-3. In de vakinformatie is per vak aangegeven waarop de kandidaat tijdens het college-examen wordt beoordeeld en is de weging van de cijfers voor de verschillende onderdelen vastgelegd.    
+3. In de vakinformatie is per vak aangegeven waarop de kandidaat tijdens het college-examen wordt beoordeeld en is de weging van de cijfers voor de verschillende onderdelen vastgelegd.   
 
 ### Artikel  8  
 
 ####Profielwerkstuk en ‘oriëntatie op studie en beroep’ vwo/havo
 
-Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn voor het betreffende profiel. Het profielwerkstuk heeft betrekking op ten minste één vak dat bij de uitslagbepaling is betrokken. Dit vak dient een studielast te hebben van minimaal 320 uur voor havo en minimaal 400 uur voor vwo.  
+Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn voor het betreffende profiel. Het profielwerkstuk heeft betrekking op ten minste één vak dat bij de uitslagbepaling is betrokken. Dit vak dient een studielast te hebben van minimaal 320 uur voor havo en minimaal 400 uur voor vwo. 
 
 ### Artikel  9  
 
 ####Sectorwerkstuk en ‘oriëntatie op leren en werken’ vmbo
 
-Het sectorwerkstuk dient te gaan over een maatschappelijk relevant onderwerp dat past bij de beroepswereld van de betreffende sector.  
+Het sectorwerkstuk dient te gaan over een maatschappelijk relevant onderwerp dat past bij de beroepswereld van de betreffende sector. 
 
 ### Artikel  10  
 
@@ -213,7 +213,7 @@ Het sectorwerkstuk dient te gaan over een maatschappelijk relevant onderwerp dat
 
 2. Het resultaat van de rekentoets heeft geen invloed op de uitslag.  
 
-3. Het resultaat van de rekentoets wordt op de cijferlijst vermeld.    
+3. Het resultaat van de rekentoets wordt op de cijferlijst vermeld.   
 
 ### Artikel  11  
 
@@ -239,7 +239,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 6. De kandidaat kan tegen een besluit waarbij een in het eerste lid bedoelde maatregel wordt genomen, bezwaar maken bij het College voor examens. De termijn voor het indienen van een bezwaarschrift bedraagt vijf dagen nadat het besluit aan de kandidaat is bekendgemaakt op de voorgeschreven wijze. Het College voor examens beslist binnen twee weken na ontvangst van het bezwaarschrift, tenzij het college deze termijn heeft verlengd met ten hoogste twee weken. Het College voor examens stelt bij zijn beslissing zo nodig vast op welke wijze de kandidaat alsnog in de gelegenheid zal worden gesteld het examen geheel of gedeeltelijk af te leggen of opnieuw af te leggen. Het College voor examens deelt zijn beslissing op het bezwaar mee aan de wettelijke vertegenwoordigers van de kandidaat die minderjarig is en aan de inspectie.  
 
-7. De kandidaat die zonder een door het College voor examens aanvaarde reden afwezig is bij enig onderdeel van het staatsexamen of deelstaatsexamen in een vak, is uitgesloten van verdere deelname aan het centraal examen en het college-examen in dit vak. Een eventueel al afgelegd centraal examen en/of al afgelegde onderdelen van het college-examen in dit vak wordt/worden ongeldig verklaard.    
+7. De kandidaat die zonder een door het College voor examens aanvaarde reden afwezig is bij enig onderdeel van het staatsexamen of deelstaatsexamen in een vak, is uitgesloten van verdere deelname aan het centraal examen en het college-examen in dit vak. Een eventueel al afgelegd centraal examen en/of al afgelegde onderdelen van het college-examen in dit vak wordt/worden ongeldig verklaard.   
 
 ### Artikel  12  
 
@@ -247,7 +247,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 1. Klachten kunnen ingediend worden door een email te sturen naar klachten@ocwduo.nl of een brief te sturen naar Antwoordnummer 392, 9700 LK Groningen. Vermeld daarbij altijd uw naam- en adresgegevens en het telefoonnummer waarop u overdag te bereiken bent.  
 
-2. Tegen een besluit waar u het niet mee eens bent, kunt u bezwaar indienen. Een bezwaarschrift moet schriftelijk worden ingediend bij OCW/DUO, Examendiensten, afdeling staatsexamens VO, Postbus 30158, 9700 LK Groningen.    
+2. Tegen een besluit waar u het niet mee eens bent, kunt u bezwaar indienen. Een bezwaarschrift moet schriftelijk worden ingediend bij OCW/DUO, Examendiensten, afdeling staatsexamens VO, Postbus 30158, 9700 LK Groningen.   
 
 ### Artikel  13  
 
@@ -271,7 +271,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 3. Niet alle op de door de kandidaat ingeleverde documenten vermelde vakken hoeven bij de uitslagbepaling te worden betrokken. De overgebleven vakken dienen een staatsexamen te vormen.  
 
-4. De uitslag luidt ‘geslaagd ’ of ‘afgewezen’.    
+4. De uitslag luidt ‘geslaagd ’ of ‘afgewezen’.   
 
 ### Artikel  14  
 
@@ -331,7 +331,7 @@ c. algemene natuurwetenschappen in het havo,
 
 d. godsdienst of levensbeschouwelijk vormingsonderwijs.    
 
-5. Het College voor examens bepaalt het eindcijfer, bedoeld in het vierde lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende delen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt deze uitkomst indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.    
+5. Het College voor examens bepaalt het eindcijfer, bedoeld in het vierde lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende delen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt deze uitkomst indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
 
 ### Artikel  15  
 
@@ -349,7 +349,7 @@ d. godsdienst of levensbeschouwelijk vormingsonderwijs.
 
 6. De kandidaat die een staatsexamen heeft gedaan en in het lopende examenjaar de rekentoets heeft gemaakt, heeft recht op een herkansing van de rekentoets. Deze herkansing staat los van andere herkansingen.  
 
-7. Herkansing voor deelstaatsexamens is niet mogelijk.    
+7. Herkansing voor deelstaatsexamens is niet mogelijk.   
 
 ### Artikel  16  
 
@@ -403,7 +403,7 @@ d. godsdienst of levensbeschouwelijk vormingsonderwijs.
 
 – de rekentoets;  
 
-– het onderwerp of de titel van het profielwerkstuk en het vak / de vakken waarop het profielwerkstuk betrekking heeft, dan wel het onderwerp of de titel van het sectorwerkstuk en de beoordeling daarvan.      
+– het onderwerp of de titel van het profielwerkstuk en het vak / de vakken waarop het profielwerkstuk betrekking heeft, dan wel het onderwerp of de titel van het sectorwerkstuk en de beoordeling daarvan.     
 
 ### Artikel  17  
 
@@ -415,7 +415,7 @@ a. het vak of de vakken waarvoor hij een eindcijfer 6 of meer heeft behaald,
 
 b. voor het vwo en het havo het vak of de vakken en het onderwerp of de titel van het profielwerkstuk indien hij hiervoor het eindcijfer 6 of meer heeft behaald, en  
 
-c. voor het vmbo het thema van het sectorwerkstuk, indien dit beoordeeld is met ‘goed’ of ‘voldoende’,   met dien verstande dat indien een examen in een vak dat op een certificaat voorkomt uit meerdere onderdelen bestaat, alle onderdelen in hetzelfde jaar dienen te zijn afgelegd.  
+c. voor het vmbo het thema van het sectorwerkstuk, indien dit beoordeeld is met ‘goed’ of ‘voldoende’,   met dien verstande dat indien een examen in een vak dat op een certificaat voorkomt uit meerdere onderdelen bestaat, alle onderdelen in hetzelfde jaar dienen te zijn afgelegd. 
 
 ### Artikel  18  
 
@@ -427,25 +427,25 @@ c. voor het vmbo het thema van het sectorwerkstuk, indien dit beoordeeld is met 
 
 3. Vrijstelling van rechtswege op basis van certificaten en cijferlijsten vwo, havo, vmbo en mavo is geregeld in de vrijstellings- en overgangsregeling aanpassing profielen vwo-havo 2007.  
 
-4. Een kandidaat die in het bezit is van een havo-diploma, heeft op grond daarvan ontheffing voor de volgende vakken van het gemeenschappelijk deel van het vwo: maatschappijleer en algemene natuurwetenschappen    
+4. Een kandidaat die in het bezit is van een havo-diploma, heeft op grond daarvan ontheffing voor de volgende vakken van het gemeenschappelijk deel van het vwo: maatschappijleer en algemene natuurwetenschappen   
 
 ### Artikel  19  
 
 ####Bewaren en inzien van schriftelijke examenwerk.
 
-Het schriftelijk examenwerk en de protocollen van de mondelinge examens worden gedurende ten minste zes maanden na afloop van het examen bewaard. Een kandidaat kan omtrent zijn werk gedurende genoemde periode van zes maanden inlichtingen inwinnen bij het College voor examens. Het College voor examens zal op ten minste twee data in het examenjaar kandidaten de mogelijkheid bieden in Amersfoort hun schriftelijk examenwerk in te zien. Voor deze inzage moeten kandidaten zich uiterlijk twee weken voor de gewenste datum per mail in Groningen aanmelden. De data worden op de site van DUO gepubliceerd. Inzage op andere momenten vindt, na afspraak, uitsluitend in Groningen plaats.  
+Het schriftelijk examenwerk en de protocollen van de mondelinge examens worden gedurende ten minste zes maanden na afloop van het examen bewaard. Een kandidaat kan omtrent zijn werk gedurende genoemde periode van zes maanden inlichtingen inwinnen bij het College voor examens. Het College voor examens zal op ten minste twee data in het examenjaar kandidaten de mogelijkheid bieden in Amersfoort hun schriftelijk examenwerk in te zien. Voor deze inzage moeten kandidaten zich uiterlijk twee weken voor de gewenste datum per mail in Groningen aanmelden. De data worden op de site van DUO gepubliceerd. Inzage op andere momenten vindt, na afspraak, uitsluitend in Groningen plaats. 
 
 ### Artikel  20  
 
 ####Aansprakelijkheid
 
-Examenfunctionarissen, aangesteld door het ministerie van OCW of benoemd door het College voor examens, zijn nimmer aansprakelijk voor schade en/of letsel van de kandidaat en derden veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid. De kandidaat vrijwaart de examenfunctionarissen tegen aanspraken van derden ter zake van schade en/of letsel veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid.  
+Examenfunctionarissen, aangesteld door het ministerie van OCW of benoemd door het College voor examens, zijn nimmer aansprakelijk voor schade en/of letsel van de kandidaat en derden veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid. De kandidaat vrijwaart de examenfunctionarissen tegen aanspraken van derden ter zake van schade en/of letsel veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid. 
 
 ### Artikel  21  
 
 ####Gevallen onvoorzien
 
-In alle gevallen waarin dit reglement niet voorziet, beslist, namens het College voor examens, de manager staatsexamens VO.  
+In alle gevallen waarin dit reglement niet voorziet, beslist, namens het College voor examens, de manager staatsexamens VO. 
 
 ### Bijlage  1  
 
@@ -459,7 +459,7 @@ In alle gevallen waarin dit reglement niet voorziet, beslist, namens het College
 
 * Natuur en gezondheid  
 
-* Natuur en techniek   Elke kandidaat die een diploma wil behalen, moet één of meer van deze profielen kiezen.  *Profielwerkstuk*  Elke examenkandidaat dient een profielwerkstuk in te leveren en te presenteren voor het verwerven van een diploma. *Examenvakken* (met studielasturen): *Het gemeenschappelijk deel vwo* van elk profiel bestaat uit:  
+* Natuur en techniek   Elke kandidaat die een diploma wil behalen, moet één of meer van deze profielen kiezen.  *Profielwerkstuk*  Elke examenkandidaat dient een profielwerkstuk in te leveren en te presenteren voor het verwerven van een diploma.  *Examenvakken* (met studielasturen):  *Het gemeenschappelijk deel vwo* van elk profiel bestaat uit:  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -542,7 +542,7 @@ In alle gevallen waarin dit reglement niet voorziet, beslist, namens het College
 | --- | voorzover de betreffende taal geen deel uitmaakt van het profiel.  | --- |
 | •  | kunst (algemeen)  | 200  |
 
-Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving  
+Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving 
 
 ### Bijlage  2  
 
@@ -635,7 +635,7 @@ Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor 
 | •  | algemene natuurwetenschappen  | 120  |
 | •  | kunst (algemeen)  | 120  |
 
-Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving  
+Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving 
 
 ### Bijlage  3  
 
@@ -687,17 +687,17 @@ d. • sector Landbouw
 
 * beeldende vakken 2: handenarbeid, tekenen, textiele werkvormen **);  
 
-* muziek. *) Het sectordeel en het vrije deel moeten tezamen tenminste twee vakken omvatten die geen moderne vreemde taal zijn. **) Van de vakken handenarbeid, tekenen en textiele werkvormen kan er slechts één bij de uitslagbepaling betrokken worden.      *Sectorwerkstuk*  Elke examenkandidaat dient een sectorwerkstuk in te leveren en te presenteren. Voor het verwerven van een diploma dient hiervoor de beoordeling voldoende of goed te worden verkregen. Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie.  
+* muziek.  *) Het sectordeel en het vrije deel moeten tezamen tenminste twee vakken omvatten die geen moderne vreemde taal zijn. **) Van de vakken handenarbeid, tekenen en textiele werkvormen kan er slechts één bij de uitslagbepaling betrokken worden.      *Sectorwerkstuk*  Elke examenkandidaat dient een sectorwerkstuk in te leveren en te presenteren. Voor het verwerven van een diploma dient hiervoor de beoordeling voldoende of goed te worden verkregen. Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. 
 
 ### Bijlage  4  
 
 ####vmbo GL, BB, KB
 
-*Bij de staatsexamens worden geen examens afgenomen in de beroepsgerichte vakken. Kandidaten die in de beroepsgerichte vakken al examen hebben gedaan, kunnen via de staatsexamens hun pakket met theoretische vakken aanvullen om alsnog een diploma te behalen.*   
+*Bij de staatsexamens worden geen examens afgenomen in de beroepsgerichte vakken. Kandidaten die in de beroepsgerichte vakken al examen hebben gedaan, kunnen via de staatsexamens hun pakket met theoretische vakken aanvullen om alsnog een diploma te behalen.*  
 
-### Bijlage  2  
+### Bijlage 2 
 
-####bij de Regeling examenreglement en PTA staatsexamens VO 2014 van 18 juni 2013, nummer CvE-13.01729
+#### bij de Regeling examenreglement en PTA staatsexamens VO 2014 van 18 juni 2013, nummer CvE-13.01729
 
 ####Examenreglement staatsexamens voortgezet onderwijs BES 2014, voor staatsexamen vwo, staatsexamen havo en staatsexamen vmbo
 
@@ -756,13 +756,13 @@ Voor de toepassing van dit Reglement wordt verstaan onder:
 
 *DUO:* Dienst Uitvoering Onderwijs, onderdeel van het ministerie van Onderwijs, Cultuur en Wetenschap  
 
-*Commissie staatsexamens VO:* commissie namens het College voor examens belast met het organiseren en afnemen van staatsexamens Voortgezet Onderwijs.    
+*Commissie staatsexamens VO:* commissie namens het College voor examens belast met het organiseren en afnemen van staatsexamens Voortgezet Onderwijs.   
 
 ### Artikel  2  
 
 ####Aanmelden
 
-Kandidaten dienen zich vóór 1 januari 2014 aan te melden.  
+Kandidaten dienen zich vóór 1 januari 2014 aan te melden. 
 
 ### Artikel  3  
 
@@ -788,21 +788,21 @@ b. het College voor examens kan afwijken van de voorschriften met betrekking tot
 
 4. Het College voor examens stelt jaarlijks voor elk vak op grond van de wet College voor examens artikel 4a een programma van toetsing en afsluiting vast in de vorm van vakinformatie.  
 
-5. Deze vakinformatie bevat, naast de door Onze Minister vastgestelde onderwerpen voor het centraal examen, regels omtrent alle onderdelen van het college-examen.    
+5. Deze vakinformatie bevat, naast de door Onze Minister vastgestelde onderwerpen voor het centraal examen, regels omtrent alle onderdelen van het college-examen.   
 
 ### Artikel  4  
 
 ####Vakken staatsexamen
 
-[Artikel 7 van het Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md) heeft betrekking op de vakken voor het behalen van het diploma vwo, havo en/of vmbo. Zie de bijlagen 1, 2 en 3.  
+[Artikel 7 van het Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md) heeft betrekking op de vakken voor het behalen van het diploma vwo, havo en/of vmbo. Zie de bijlagen 1, 2 en 3. 
 
 ### Artikel  5  
 
 ####Examendossier, werkstukken
 
-1. Het examendossier is het geheel van de onderdelen van het college-examen, zoals dit door het College voor examens in de vakinformatie is vastgelegd. Werkstukken, boekenlijsten, artikelen, songteksten/gedichten (zie de vakinformatie) dienen in de periode van het centraal examen 1 <sup>e</sup> tijdvak te worden ingeleverd bij de plaatselijk voorzitter. Een uitzondering vormen de werkstukken voor tekenen en handvaardigheid: deze dienen te worden meegebracht naar het college-examen.  
+1. Het examendossier is het geheel van de onderdelen van het college-examen, zoals dit door het College voor examens in de vakinformatie is vastgelegd. Werkstukken, boekenlijsten, artikelen, songteksten/gedichten (zie de vakinformatie) dienen in de periode van het centraal examen 1<sup>e</sup> tijdvak te worden ingeleverd bij de plaatselijk voorzitter. Een uitzondering vormen de werkstukken voor tekenen en handvaardigheid: deze dienen te worden meegebracht naar het college-examen.  
 
-2. De examinatoren moeten voor aanvang van het mondeling examen de werkstukken, boekenlijsten, artikelen, songteksten/gedichten (zie de vakinformatie) kunnen inzien. Wanneer het in te leveren materiaal niet tijdig door de plaatselijk voorzitter is ontvangen, wordt de kandidaat voor het betreffende vak niet opgeroepen voor het college-examen of wordt de reeds verstuurde oproep ingetrokken.    
+2. De examinatoren moeten voor aanvang van het mondeling examen de werkstukken, boekenlijsten, artikelen, songteksten/gedichten (zie de vakinformatie) kunnen inzien. Wanneer het in te leveren materiaal niet tijdig door de plaatselijk voorzitter is ontvangen, wordt de kandidaat voor het betreffende vak niet opgeroepen voor het college-examen of wordt de reeds verstuurde oproep ingetrokken.   
 
 ### Artikel  6  
 
@@ -826,7 +826,7 @@ b. niet in staat is al zijn schriftelijke toetsen en examens in het eerste en tw
 
 7. Indien een kandidaat om een geldige reden, ter beoordeling van het College voor examens, afwezig is bij een of meer mondelinge en/of praktische toetsen in de periode juni/juli, wordt geprobeerd de gemiste toetsen alsnog in dezelfde periode in te roosteren. Is dat niet mogelijk, dan krijgt de kandidaat uitstel naar het derde en zo nodig vierde tijdvak, met dezelfde beperkende voorwaarden als in lid 6b.  
 
-8. Mondelinge, praktische of schriftelijke examens of toetsen waarbij de kandidaat in het vierde tijdvak afwezig is, komen te vervallen.    
+8. Mondelinge, praktische of schriftelijke examens of toetsen waarbij de kandidaat in het vierde tijdvak afwezig is, komen te vervallen.   
 
 ### Artikel  7  
 
@@ -836,19 +836,19 @@ b. niet in staat is al zijn schriftelijke toetsen en examens in het eerste en tw
 
 2. Inhoudelijke toetsing van een werkstuk of boekenlijst gebeurt tijdens de afname van het mondeling of het praktisch gedeelte van het college-examen. Tijdens de afname worden vragen over het werkstuk gesteld. In de vakinformatie is per vak aangegeven welke invloed de beoordeling van het werkstuk, de bijbehorende presentatie en de beantwoording van daarover gestelde vragen heeft bij de bepaling van het cijfer voor het college-examen.  
 
-3. In de vakinformatie is per vak aangegeven waarop de kandidaat tijdens het college-examen wordt beoordeeld en is de weging van de cijfers voor de verschillende onderdelen vastgelegd.    
+3. In de vakinformatie is per vak aangegeven waarop de kandidaat tijdens het college-examen wordt beoordeeld en is de weging van de cijfers voor de verschillende onderdelen vastgelegd.   
 
 ### Artikel  8  
 
 ####Profielwerkstuk en ‘oriëntatie op studie en beroep’ vwo/havo
 
-Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn voor het betreffende profiel. Het profielwerkstuk heeft betrekking op ten minste één vak dat bij de uitslagbepaling is betrokken. Dit vak dient een studielast te hebben van minimaal 320 uur voor havo en minimaal 400 uur voor vwo.  
+Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn voor het betreffende profiel. Het profielwerkstuk heeft betrekking op ten minste één vak dat bij de uitslagbepaling is betrokken. Dit vak dient een studielast te hebben van minimaal 320 uur voor havo en minimaal 400 uur voor vwo. 
 
 ### Artikel  9  
 
 ####Sectorwerkstuk en ‘oriëntatie op leren en werken’ vmbo
 
-Het sectorwerkstuk dient te gaan over een maatschappelijk relevant onderwerp dat past bij de beroepswereld van de betreffende sector.  
+Het sectorwerkstuk dient te gaan over een maatschappelijk relevant onderwerp dat past bij de beroepswereld van de betreffende sector. 
 
 ### Artikel  10  
 
@@ -874,7 +874,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 6. De kandidaat kan tegen een besluit waarbij een in het eerste lid bedoelde maatregel wordt genomen, bezwaar maken bij het College voor examens. De termijn voor het indienen van een bezwaarschrift bedraagt vijf dagen nadat het besluit aan de kandidaat is bekendgemaakt op de voorgeschreven wijze. Het College voor examens beslist binnen twee weken na ontvangst van het bezwaarschrift, tenzij het college deze termijn heeft verlengd met ten hoogste twee weken. Het College voor examens stelt bij zijn beslissing zo nodig vast op welke wijze de kandidaat alsnog in de gelegenheid zal worden gesteld het examen geheel of gedeeltelijk af te leggen of opnieuw af te leggen. Het College voor examens deelt zijn beslissing op het bezwaar mee aan de wettelijke vertegenwoordigers van de kandidaat die minderjarig is en aan de inspectie.  
 
-7. De kandidaat die zonder een door het College voor examens aanvaarde reden afwezig is bij enig onderdeel van het staatsexamen of deelstaatsexamen in een vak, is uitgesloten van verdere deelname aan het centraal examen en het college-examen in dit vak. Een eventueel al afgelegd centraal examen en/of al afgelegde onderdelen van het college-examen in dit vak wordt/worden ongeldig verklaard.    
+7. De kandidaat die zonder een door het College voor examens aanvaarde reden afwezig is bij enig onderdeel van het staatsexamen of deelstaatsexamen in een vak, is uitgesloten van verdere deelname aan het centraal examen en het college-examen in dit vak. Een eventueel al afgelegd centraal examen en/of al afgelegde onderdelen van het college-examen in dit vak wordt/worden ongeldig verklaard.   
 
 ### Artikel  11  
 
@@ -882,7 +882,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 1. Klachten kunnen ingediend worden door een email te sturen naar klachten@ocwduo.nl of een brief te sturen naar Antwoordnummer 392, 9700 LK Groningen. Vermeld daarbij altijd uw naam- en adresgegevens en het telefoonnummer waarop u overdag te bereiken bent.  
 
-2. Tegen een besluit waar u het niet mee eens bent, kunt u bezwaar indienen. Een bezwaarschrift moet schriftelijk worden ingediend bij OCW/DUO, Examendiensten, afdeling staatsexamens VO, Postbus 30158, 9700 LK Groningen.    
+2. Tegen een besluit waar u het niet mee eens bent, kunt u bezwaar indienen. Een bezwaarschrift moet schriftelijk worden ingediend bij OCW/DUO, Examendiensten, afdeling staatsexamens VO, Postbus 30158, 9700 LK Groningen.   
 
 ### Artikel  12  
 
@@ -906,7 +906,7 @@ d. minder vergaande maatregelen dan die, bedoeld onder a tot en met c.
 
 3. Niet alle op de door de kandidaat ingeleverde documenten vermelde vakken hoeven bij de uitslagbepaling te worden betrokken. De overgebleven vakken dienen een staatsexamen te vormen.  
 
-4. De uitslag luidt ‘geslaagd ’ of ‘afgewezen’.    
+4. De uitslag luidt ‘geslaagd ’ of ‘afgewezen’.   
 
 ### Artikel  13  
 
@@ -960,7 +960,7 @@ c. algemene natuurwetenschappen in het havo,
 
 d. godsdienst of levensbeschouwelijk vormingsonderwijs.    
 
-5. Het College voor examens bepaalt het eindcijfer, bedoeld in het vierde lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende delen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt deze uitkomst indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.    
+5. Het College voor examens bepaalt het eindcijfer, bedoeld in het vierde lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende delen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt deze uitkomst indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
 
 ### Artikel  14  
 
@@ -976,7 +976,7 @@ d. godsdienst of levensbeschouwelijk vormingsonderwijs.
 
 5. Voordat de berekening van het eindcijfer plaatsvindt, wordt het cijfer van de herkansing voor het afgelegde centraal examen dan wel college-examen bepaald. Als het cijfer van de herkansing hoger uitvalt, dan wordt er met dat resultaat gerekend. Is het cijfer van de herkansing niet hoger dan wordt met het eerdere resultaat gerekend.  
 
-6. Herkansing voor deelstaatsexamens is niet mogelijk.    
+6. Herkansing voor deelstaatsexamens is niet mogelijk.   
 
 ### Artikel  15  
 
@@ -1024,7 +1024,7 @@ d. godsdienst of levensbeschouwelijk vormingsonderwijs.
 
 – de cijfers voor het centraal examen en/of het college-examen en het eindcijfer per vak;  
 
-– het onderwerp of de titel van het profielwerkstuk en het vak / de vakken waarop het profielwerkstuk betrekking heeft, dan wel het onderwerp of de titel van het sectorwerkstuk en de beoordeling daarvan.      
+– het onderwerp of de titel van het profielwerkstuk en het vak / de vakken waarop het profielwerkstuk betrekking heeft, dan wel het onderwerp of de titel van het sectorwerkstuk en de beoordeling daarvan.     
 
 ### Artikel  16  
 
@@ -1036,7 +1036,7 @@ a. het vak of de vakken waarvoor hij een eindcijfer 6 of meer heeft behaald,
 
 b. voor het vwo en het havo het vak of de vakken en het onderwerp of de titel van het profielwerkstuk indien hij hiervoor het eindcijfer 6 of meer heeft behaald, en  
 
-c. voor het vmbo het thema van het sectorwerkstuk, indien dit beoordeeld is met ‘goed’ of ‘voldoende’,   met dien verstande dat indien een examen in een vak dat op een certificaat voorkomt uit meerdere onderdelen bestaat, alle onderdelen in hetzelfde jaar dienen te zijn afgelegd.  
+c. voor het vmbo het thema van het sectorwerkstuk, indien dit beoordeeld is met ‘goed’ of ‘voldoende’,   met dien verstande dat indien een examen in een vak dat op een certificaat voorkomt uit meerdere onderdelen bestaat, alle onderdelen in hetzelfde jaar dienen te zijn afgelegd. 
 
 ### Artikel  17  
 
@@ -1048,25 +1048,25 @@ c. voor het vmbo het thema van het sectorwerkstuk, indien dit beoordeeld is met 
 
 3. Vrijstelling van rechtswege op basis van certificaten en cijferlijsten vwo, havo, vmbo en mavo is geregeld in de vrijstellings- en overgangsregeling aanpassing profielen vwo-havo 2007.  
 
-4. Een kandidaat die in het bezit is van een havo-diploma, heeft op grond daarvan ontheffing voor de volgende vakken van het gemeenschappelijk deel van het vwo: maatschappijleer en algemene natuurwetenschappen    
+4. Een kandidaat die in het bezit is van een havo-diploma, heeft op grond daarvan ontheffing voor de volgende vakken van het gemeenschappelijk deel van het vwo: maatschappijleer en algemene natuurwetenschappen   
 
 ### Artikel  18  
 
 ####Bewaren en inzien van schriftelijke examenwerk
 
-Het schriftelijk examenwerk en de protocollen van de mondelinge examens worden gedurende ten minste zes maanden na afloop van het examen bewaard. Een kandidaat kan omtrent zijn werk gedurende genoemde periode van zes maanden inlichtingen inwinnen bij het College voor examens. Het College voor Examens regelt voor de kandidaten de mogelijkheid hun schriftelijk examenwerk in te zien op een nader te bepalen datum in het derde tijdvak op Bonaire. De datum zal op de site van DUO worden gepubliceerd. Kandidaten die van deze mogelijkheid gebruik willen maken, moeten zich uiterlijk twee weken voor aanvang van het derde tijdvak per mail in Groningen te hebben aangemeld.  
+Het schriftelijk examenwerk en de protocollen van de mondelinge examens worden gedurende ten minste zes maanden na afloop van het examen bewaard. Een kandidaat kan omtrent zijn werk gedurende genoemde periode van zes maanden inlichtingen inwinnen bij het College voor examens. Het College voor Examens regelt voor de kandidaten de mogelijkheid hun schriftelijk examenwerk in te zien op een nader te bepalen datum in het derde tijdvak op Bonaire. De datum zal op de site van DUO worden gepubliceerd. Kandidaten die van deze mogelijkheid gebruik willen maken, moeten zich uiterlijk twee weken voor aanvang van het derde tijdvak per mail in Groningen te hebben aangemeld. 
 
 ### Artikel  19  
 
 ####Aansprakelijkheid
 
-Examenfunctionarissen, aangesteld door het ministerie van OCW of benoemd door het College voor examens, zijn nimmer aansprakelijk voor schade en/of letsel van de kandidaat en derden veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid. De kandidaat vrijwaart de examenfunctionarissen tegen aanspraken van derden ter zake van schade en/of letsel veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid.  
+Examenfunctionarissen, aangesteld door het ministerie van OCW of benoemd door het College voor examens, zijn nimmer aansprakelijk voor schade en/of letsel van de kandidaat en derden veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid. De kandidaat vrijwaart de examenfunctionarissen tegen aanspraken van derden ter zake van schade en/of letsel veroorzaakt tijdens een examenonderdeel van het staatsexamen, behalve als er sprake is van grove schuld of nalatigheid. 
 
 ### Artikel  20  
 
 ####Gevallen onvoorzien
 
-In alle gevallen waarin dit reglement niet voorziet, beslist, namens het College voor examens, de manager staatsexamens VO.  
+In alle gevallen waarin dit reglement niet voorziet, beslist, namens het College voor examens, de manager staatsexamens VO. 
 
 ### Bijlage  1  
 
@@ -1080,7 +1080,7 @@ Het vwo kent vier profielen:
 
 * Natuur en gezondheid  
 
-* Natuur en techniek   Elke kandidaat die een diploma wil behalen, moet één of meer van deze profielen kiezen.  *Profielwerkstuk*  Elke examenkandidaat dient een profielwerkstuk in te leveren en te presenteren voor het verwerven van een diploma. *Examenvakken* (met studielasturen): *Het gemeenschappelijk deel vwo* van elk profiel bestaat uit:  
+* Natuur en techniek   Elke kandidaat die een diploma wil behalen, moet één of meer van deze profielen kiezen.  *Profielwerkstuk*  Elke examenkandidaat dient een profielwerkstuk in te leveren en te presenteren voor het verwerven van een diploma.  *Examenvakken* (met studielasturen):  *Het gemeenschappelijk deel vwo* van elk profiel bestaat uit:  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -1162,7 +1162,7 @@ Het vwo kent vier profielen:
 | --- | voorzover de betreffende taal geen deel uitmaakt van het profiel.  | --- |
 | •  | kunst (algemeen)  | 200  |
 
-Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving  
+Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving 
 
 ### Bijlage  2  
 
@@ -1254,7 +1254,7 @@ Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor 
 | •  | algemene natuurwetenschappen  | 120  |
 | •  | kunst (algemeen)  | 120  |
 
-Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving  
+Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. Voor de volgende kunstzinnige vakken wordt geen staatsexamen aangeboden: Kunst (beeldende vormgeving) Kunst (muziek) Kunst (drama) Kunst (dans) Textiele vormgeving 
 
 ### Bijlage  3  
 
@@ -1306,14 +1306,14 @@ d.
 
 * beeldende vakken 2: handenarbeid, tekenen, textiele werkvormen **);  
 
-* muziek. *) Het sectordeel en het vrije deel moeten tezamen tenminste twee vakken omvatten die geen moderne vreemde taal zijn. **) Van de vakken handenarbeid, tekenen en textiele werkvormen kan er slechts één bij de uitslagbepaling betrokken worden.      *Sectorwerkstuk*  Elke examenkandidaat dient een sectorwerkstuk in te leveren en te presenteren. Voor het verwerven van een diploma dient hiervoor de beoordeling voldoende of goed te worden verkregen. Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie.  
+* muziek. *) Het sectordeel en het vrije deel moeten tezamen tenminste twee vakken omvatten die geen moderne vreemde taal zijn. **) Van de vakken handenarbeid, tekenen en textiele werkvormen kan er slechts één bij de uitslagbepaling betrokken worden.      *Sectorwerkstuk*  Elke examenkandidaat dient een sectorwerkstuk in te leveren en te presenteren. Voor het verwerven van een diploma dient hiervoor de beoordeling voldoende of goed te worden verkregen. Opmerking: Voor de examenprogramma's wordt verwezen naar de vakinformatie. 
 
 ### Bijlage  4  
 
 ####vmbo GL, BB, KB
 
-*Bij de staatsexamens worden geen examens afgenomen in de beroepsgerichte vakken. Kandidaten die in de beroepsgerichte vakken al examen hebben gedaan, kunnen via de staatsexamens hun pakket met theoretische vakken aanvullen om alsnog een diploma te behalen.*   
+*Bij de staatsexamens worden geen examens afgenomen in de beroepsgerichte vakken. Kandidaten die in de beroepsgerichte vakken al examen hebben gedaan, kunnen via de staatsexamens hun pakket met theoretische vakken aanvullen om alsnog een diploma te behalen.*  
 
-### Bijlage  3  
+###Bijlage 3 
 
-Niet opgenomen.  
+Niet opgenomen.

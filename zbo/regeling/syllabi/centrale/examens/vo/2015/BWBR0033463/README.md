@@ -12,19 +12,19 @@ Besluit:
 
 ####Syllabi 2015
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2015, voor de vakken als vermeld in respectievelijk de bijlagen 1a, 1b en 1c bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2015, voor de vakken als vermeld in respectievelijk de bijlagen 1a, 1b en 1c bij deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  2  
 
 ####Initiële vaststelling toetswijzers rekenen 2014
 
-De toetswijzers rekenen, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de rekentoets in het v.w.o., h.a.v.o. en v.m.b.o. in 2014, voor de toetsen als vermeld in bijlage 2 deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+De toetswijzers rekenen, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de rekentoets in het v.w.o., h.a.v.o. en v.m.b.o. in 2014, voor de toetsen als vermeld in bijlage 2 deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  3  
 
 ####Nadere vaststelling enkele syllabi 2014
 
-De syllabi voor de centrale examens 2014 die bij Regeling syllabi centrale examens VO 2014 zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in respectievelijk de bijlagen 3a, 3b en 3c bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+De syllabi voor de centrale examens 2014 die bij Regeling syllabi centrale examens VO 2014 zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in respectievelijk de bijlagen 3a, 3b en 3c bij deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  4  
 
@@ -36,26 +36,26 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 2. betreffende artikel 2: per 1 januari 2015;  
 
-3. betreffende artikel 3: per 1 januari 2015.    
+3. betreffende artikel 3: per 1 januari 2015.   
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2015.  
+Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2015. 
 
 ### Artikel  6  
 
 ####Bekendmaking
 
 1.  Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
-2.  De syllabi als bedoeld in artikel 1 en 2 worden bekend gemaakt op www.examenblad.nl.   
+2.  De syllabi als bedoeld in artikel 1 en 2 worden bekend gemaakt op www.examenblad.nl.  
 
 Het College voor examens, Namens deze, 
 de voorzitter, 
 H.W. Laan    
 
-### Bijlage  1a  
+### Bijlage 1a 
 
 ####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
@@ -86,7 +86,7 @@ Voor de centrale examens v.w.o. 2015 worden syllabi voor de volgende vakken vast
 | wiskunde B  |
 | wiskunde C  |
 
-### Bijlage  1b  
+### Bijlage 1b 
 
 ####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
@@ -114,7 +114,7 @@ Voor de centrale examens h.a.v.o. 2015 worden syllabi voor de volgende vakken va
 | wiskunde A  |
 | wiskunde B  |
 
-### Bijlage  1c  
+### Bijlage 1c 
 
 ####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
@@ -179,17 +179,17 @@ Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken va
 | landbouw-agrarische bedrijfseconomie  |
 | landbouw-breed  |
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
 ####Initiële vaststelling toetswijzers rekenen 2014
 
-De toetswijzers voor de rekentoets VO centrale 2014 worden nader vastgesteld voor de volgende niveaus: rekenen 2F rekenen 3F  
+De toetswijzers voor de rekentoets VO centrale 2014 worden nader vastgesteld voor de volgende niveaus: rekenen 2F rekenen 3F 
 
-### Bijlage  3a  
+### Bijlage 3a 
 
-####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
+#### bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
 ####Nadere vaststelling syllabi v.w.o. 2014
 
@@ -199,7 +199,7 @@ De syllabi voor de centrale examens v.w.o. 2014 die bij Regeling syllabi central
 |:---|
 | beeldende vakken  maatschappijwetenschappen  muziek  Nederlands  |
 
-### Bijlage  3b  
+### Bijlage 3b 
 
 ####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
@@ -211,7 +211,7 @@ De syllabi voor de centrale examens h.a.v.o. 2014 die bij Regeling syllabi centr
 |:---|
 | maatschappijwetenschappen  muziek  Nederlands  |
 
-### Bijlage  3c  
+### Bijlage 3c 
 
 ####bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 

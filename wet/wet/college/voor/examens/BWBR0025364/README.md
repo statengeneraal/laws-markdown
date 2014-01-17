@@ -17,7 +17,7 @@ In deze wet wordt verstaan onder:
 
 *Cito:* Stichting Cito Instituut voor Toetsontwikkeling, genoemd in [artikel 12 van de Wet subsidiëring landelijke ondersteunende activiteiten](../../../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/BWBR0008725/README.md);  
 
-*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken.    
+*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken.   
 
 ### Artikel  2  
 
@@ -36,8 +36,8 @@ e. het geven van regels voor de omzetting van de scores in cijfers;
 
 f. het tot stand brengen en bij regeling vaststellen van syllabi, overeenkomstig het examenprogramma; en  
 
-g. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de opgaven.     
-2a.  Het tweede lid is van overeenkomstige toepassing op de rekentoets, bedoeld in de [artikelen 29, vijfde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [60, zesde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [artikel 7.4.11, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de daarop berustende bepalingen.   
+g. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de opgaven.    
+2a. Het tweede lid is van overeenkomstige toepassing op de rekentoets, bedoeld in de [artikelen 29, vijfde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [60, zesde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [artikel 7.4.11, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de daarop berustende bepalingen. 
 3.  Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de daarop berustende bepalingen en de staatsexamens, bedoeld in [artikel 116 van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en de daarop berustende bepalingen: 
 
 a. het bij regeling vaststellen van het examenreglement;  
@@ -69,32 +69,32 @@ b. het bij regeling vaststellen welke vakken in een tijdvak met geheimhouding wo
 
 c. het uitoefenen van andere door Onze Minister opgedragen taken.     
 7.  De regelingen, bedoeld in het tweede lid, onderdelen e en f, en vijfde lid, onderdeel a, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.   
-8.  In afwijking van [artikel 4, eerste lid, onderdeel b, van de Bekendmakingswet](../../../../../../wet/bekendmakingswet/BWBR0004287/README.md) kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.   
+8.  In afwijking van [artikel 4, eerste lid, onderdeel b, van de Bekendmakingswet](../../../../../../wet/bekendmakingswet/BWBR0004287/README.md) kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.  
 
 ### Artikel  3  
 
-Het college is belast met bij algemene maatregel van bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 7.4.4 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en de op dit artikel gebaseerde uitvoeringsvoorschriften.  
+Het college is belast met bij algemene maatregel van bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 7.4.4 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en de op dit artikel gebaseerde uitvoeringsvoorschriften. 
 
 ### Artikel  4  
 
 1.  Het college heeft ten minste zes leden en ten hoogste acht leden, onder wie een voorzitter.   
 2.  Voor ieder lid van het college, de voorzitter uitgezonderd, zal Onze Minister één plaatsvervangend lid benoemen. Op de plaatsvervangende leden zijn de [artikelen 9](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [12](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [13](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [14 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van overeenkomstige toepassing.   
 3.  Onze Minister draagt bij de benoeming van de leden en de plaatsvervangende leden van het college zorg voor de onafhankelijkheid en deskundigheid van deze leden en voor voldoende draagvlak bij de representatieve onderwijsorganisaties voor hun benoeming.   
-4.  De leden en de plaatsvervangende leden worden benoemd voor een periode van ten hoogste vier jaar. De leden en de plaatsvervangende leden kunnen éénmaal worden herbenoemd voor een periode van ten hoogste vier jaar.   
+4.  De leden en de plaatsvervangende leden worden benoemd voor een periode van ten hoogste vier jaar. De leden en de plaatsvervangende leden kunnen éénmaal worden herbenoemd voor een periode van ten hoogste vier jaar.  
 
 ### Artikel  5  
 
 1.  Het college heeft een bureau ter ondersteuning van zijn werkzaamheden bestaande uit een directeur en andere medewerkers.   
 2.  De directeur en de andere medewerkers zijn geen lid van het college.   
-3.  Onze Minister benoemt, bevordert, schorst en ontslaat na overleg met de voorzitter, de directeur en de andere medewerkers.   
+3.  Onze Minister benoemt, bevordert, schorst en ontslaat na overleg met de voorzitter, de directeur en de andere medewerkers.  
 
 ### Artikel  6  
 
-De voorzitter vertegenwoordigt het college in en buiten rechte.  
+De voorzitter vertegenwoordigt het college in en buiten rechte. 
 
 ### Artikel  7  
 
-Het college stelt een bestuursreglement vast, waarin in elk geval regels over de werkwijze en procedures zijn opgenomen.  
+Het college stelt een bestuursreglement vast, waarin in elk geval regels over de werkwijze en procedures zijn opgenomen. 
 
 ### Artikel  8  
 
@@ -106,42 +106,42 @@ a. de voorgenomen activiteiten van het college;
 b. de voorstellen voor de uitvoerende werkzaamheden op het terrein van de centrale examens of op het terrein van de staatsexamens, bedoeld in [artikel 60 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de daarop berustende bepalingen, waaronder in ieder geval de werkzaamheden van de Cito;  
 
 c. de voorstellen voor de kosten van de werkzaamheden, bedoeld in onderdeel b.     
-3.  Het college kan, mits gemotiveerd, aan Onze Minister tussentijds een wijziging van het werkprogramma voorstellen.   
+3.  Het college kan, mits gemotiveerd, aan Onze Minister tussentijds een wijziging van het werkprogramma voorstellen.  
 
-### Artikel  9  
+###Artikel 9 
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs.
 
-### Artikel  9*   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  9*  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Zolang een of meer van de in artikel 2, zesde lid, genoemde artikelen van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in artikel 8, tweede lid, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.  
+Zolang een of meer van de in artikel 2, zesde lid, genoemde artikelen van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in artikel 8, tweede lid, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra. 
 
-### Artikel  10  
+###Artikel 10 
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht.
 
-### Artikel  11  
+###Artikel 11 
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  12  
 
-De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) zoals deze artikelen luidden op de dag voor de inwerkingtreding van artikel 11 worden overgedragen aan het college.  
+De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) zoals deze artikelen luidden op de dag voor de inwerkingtreding van artikel 11 worden overgedragen aan het college. 
 
 ### Artikel  13  
 
-Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [3](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) op artikel 2 van deze wet.  
+Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [3](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) op artikel 2 van deze wet. 
 
 ### Artikel  14  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  15  
 
-Deze wet wordt aangehaald als: Wet College voor examens.  
+Deze wet wordt aangehaald als: Wet College voor examens. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 29 januari 2009  
@@ -158,5 +158,5 @@ A. Th. B. Bijleveld-Schouten
 
 de *vijfde* maart 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

@@ -12,19 +12,19 @@ Besluit:
 
 ####Examenprogramma Staatsexamen Nederlands als tweede taal 2014
 
-Het examenprogramma staatsexamen Nederlands als tweede taal 2014 wordt vastgesteld zoals aangegeven in de bijlage 1 bij deze regeling.  
+Het examenprogramma staatsexamen Nederlands als tweede taal 2014 wordt vastgesteld zoals aangegeven in de bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2014 ten behoeve van de Staatsexamens NT2 in 2014 en vervalt per 31 december 2014.  
+Deze regeling treedt in werking op 1 januari 2014 ten behoeve van de Staatsexamens NT2 in 2014 en vervalt per 31 december 2014. 
 
 ### Artikel  3  
 
 ####Citeertitel en bekendmaking
 
-Deze regeling wordt aangehaald als: Regeling examenprogramma Staatsexamen NT2 2014.  
+Deze regeling wordt aangehaald als: Regeling examenprogramma Staatsexamen NT2 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 Het College voor examens, namens deze: 
@@ -49,13 +49,13 @@ b. de luistervaardigheid;
 
 c. de schrijfvaardigheid;  
 
-d. de spreekvaardigheid.   Het examenprogramma is ontleend aan de examenstof zoals omschreven in het Eindrapport van de Adviescommissie Invoering Certificaten Nederlands als Tweede Taal . De inhoud van de opdrachten is, conform dit advies, gerelateerd aan Nederlandse opleiding- en werksituaties en aan situaties in het openbare dagelijkse leven in Nederland. Het examen doet daarmee tevens een beroep op kennis van de Nederlandse samenleving. <sup> 1  Adviescommissie Invoering Certificaten Nederlands als Tweede Taal (1991), Certificaten Nederlands als tweede taal. Startbewijzen voor onderwijs en arbeidsmarkt. Publicatie van het Ministerie van Onderwijs en Wetenschappen.  </sup> Het Staatsexamen Nederlands als tweede taal kent, conform [artikel 2 van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md), twee programma’s: programma I en programma II. Programma I toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in opleidingen op MBO 3 en 4-niveau en, in op dat niveau van geschoolde arbeid gelegen, functies op de arbeidsmarkt. Programma II toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in het hoger onderwijs, en in middenkader en hogere functies op de arbeidsmarkt.  
+d. de spreekvaardigheid.   Het examenprogramma is ontleend aan de examenstof zoals omschreven in het Eindrapport van de Adviescommissie Invoering Certificaten Nederlands als Tweede Taal<sup> 1  Adviescommissie Invoering Certificaten Nederlands als Tweede Taal (1991), Certificaten Nederlands als tweede taal. Startbewijzen voor onderwijs en arbeidsmarkt. Publicatie van het Ministerie van Onderwijs en Wetenschappen. </sup>. De inhoud van de opdrachten is, conform dit advies, gerelateerd aan Nederlandse opleiding- en werksituaties en aan situaties in het openbare dagelijkse leven in Nederland. Het examen doet daarmee tevens een beroep op kennis van de Nederlandse samenleving. Het Staatsexamen Nederlands als tweede taal kent, conform [artikel 2 van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md), twee programma’s: programma I en programma II. Programma I toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in opleidingen op MBO 3 en 4-niveau en, in op dat niveau van geschoolde arbeid gelegen, functies op de arbeidsmarkt. Programma II toetst kennis, inzicht en vaardigheden die noodzakelijk geacht worden om te kunnen functioneren in het hoger onderwijs, en in middenkader en hogere functies op de arbeidsmarkt. 
 
 ### 2  
 
 ####Beoordeling
 
-Het College voor examens stelt bij het vaststellen van de examens en de daarbij behorende beoordeling een cesuur vast. Deze kan, nadat het examenonderdeel is afgenomen en de gegevens bekend zijn, door het College eventueel bijgesteld worden. De kandidaat is geslaagd indien het resultaat voldoende is. Het examenwerk van de examenonderdelen Lezen en Luisteren wordt automatisch gescoord. Het examenwerk van de examenonderdelen Spreken en Schrijven wordt door onafhankelijke daartoe door het College voor examens bevoegd verklaarde beoordelaars beoordeeld. Het examen van een kandidaat wordt ten behoeve van de beoordeling opgedeeld in losse opdrachten, en elke opdracht wordt door tenminste twee beoordelaars beoordeeld. Gemiddeld zijn er 16 verschillende beoordelaars betrokken bij het beoordelen van een schrijfexamen, en 13 bij een spreekexamen. Bij de beoordeling wordt afhankelijk van de aard van de opdrachten gebruik gemaakt van verschillende dichotome en meerpuntsschalen.   
+Het College voor examens stelt bij het vaststellen van de examens en de daarbij behorende beoordeling een cesuur vast. Deze kan, nadat het examenonderdeel is afgenomen en de gegevens bekend zijn, door het College eventueel bijgesteld worden. De kandidaat is geslaagd indien het resultaat voldoende is. Het examenwerk van de examenonderdelen Lezen en Luisteren wordt automatisch gescoord. Het examenwerk van de examenonderdelen Spreken en Schrijven wordt door onafhankelijke daartoe door het College voor examens bevoegd verklaarde beoordelaars beoordeeld. Het examen van een kandidaat wordt ten behoeve van de beoordeling opgedeeld in losse opdrachten, en elke opdracht wordt door tenminste twee beoordelaars beoordeeld. Gemiddeld zijn er 16 verschillende beoordelaars betrokken bij het beoordelen van een schrijfexamen, en 13 bij een spreekexamen. Bij de beoordeling wordt afhankelijk van de aard van de opdrachten gebruik gemaakt van verschillende dichotome en meerpuntsschalen.  
 
 ####Toelichting per examenonderdeel
 
@@ -83,7 +83,7 @@ Het examenonderdeel Lezen wordt afgenomen in één zitting. De kandidaat beantwo
 
 1. Bij het lezen van teksten is het gebruik van maximaal 3 woordenboeken toegestaan. Elektronische hulpmiddelen, zoals een digitaal woordenboek, zijn ook niet toegestaan.  
 
-2. Het uitvoeren van de voornoemde handelingen op voornoemde teksten moet binnen een gestelde tijdlimiet gerealiseerd worden.   Onderscheid programma I en programma II Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. Voor programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het *Basiswoordenboek Nederlands* (De Kleijn en Nieuwborg 1996). In de vragen bij de opgaven worden evenmin woorden bevraagd die niet zijn opgenomen in het *Basiswoordenboek Nederlands*, tenzij die woorden in de tekst worden verklaard. Voor programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.  
+2. Het uitvoeren van de voornoemde handelingen op voornoemde teksten moet binnen een gestelde tijdlimiet gerealiseerd worden.   Onderscheid programma I en programma II Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. Voor programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het *Basiswoordenboek Nederlands *(De Kleijn en Nieuwborg 1996). In de vragen bij de opgaven worden evenmin woorden bevraagd die niet zijn opgenomen in het *Basiswoordenboek Nederlands*, tenzij die woorden in de tekst worden verklaard. Voor programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen. 
 
 ### b  
 
@@ -111,7 +111,7 @@ Het examenonderdeel Luisteren wordt afgenomen in één zitting. De kandidaat bea
 
 1. De kandidaat weet vooraf op welke zaak of zaken de aandacht gericht moet worden doordat de instructie uitsluitsel geeft over het doel van de uit te voeren taalhandeling(en).  
 
-2. Voor het uitvoeren van de voornoemde handelingen worden de luisterteksten één keer ten gehore gebracht.   Onderscheid programma I en programma II Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. Voor programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het *Basiswoordenboek Nederlands* (De Kleijn en Nieuwborg 1996). In de vragen bij de opgaven worden evenmin woorden bevraagd die niet zijn opgenomen in het *Basiswoordenboek Nederlands*, tenzij die woorden in de tekst worden verklaard. Voor programma II zijn er wat betreft het woordgebruik geen beperkingen.  
+2. Voor het uitvoeren van de voornoemde handelingen worden de luisterteksten één keer ten gehore gebracht.   Onderscheid programma I en programma II Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. Voor programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het *Basiswoordenboek Nederlands *(De Kleijn en Nieuwborg 1996). In de vragen bij de opgaven worden evenmin woorden bevraagd die niet zijn opgenomen in het *Basiswoordenboek Nederlands*, tenzij die woorden in de tekst worden verklaard. Voor programma II zijn er wat betreft het woordgebruik geen beperkingen. 
 
 ### c  
 
@@ -163,7 +163,7 @@ Het examenonderdeel Schrijven wordt afgenomen in één zitting. In programma I w
 
 2. Het schrijven van de voornoemde teksten moet binnen een gestelde tijdlimiet gerealiseerd worden.  
 
-3. Voor (een deel van) het examenonderdeel Schrijven zal gebruik gemaakt worden van het toetsenbord bij een computer.   Onderscheid tussen programma I en programma II Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concreet, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. In programma I worden deelschrijftaken en korte schrijftaken onderscheiden, in programma II deelschrijftaken, korte schrijftaken, middellange en lange schrijftaken.  
+3. Voor (een deel van) het examenonderdeel Schrijven zal gebruik gemaakt worden van het toetsenbord bij een computer.   Onderscheid tussen programma I en programma II Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concreet, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. In programma I worden deelschrijftaken en korte schrijftaken onderscheiden, in programma II deelschrijftaken, korte schrijftaken, middellange en lange schrijftaken. 
 
 ### d  
 
@@ -209,5 +209,5 @@ Het examenonderdeel Spreken wordt afgenomen in één zitting en kent verschillen
 
 1. Bij het voorbereiden van langere spreektaken wordt enige voorbereidingstijd gegeven.  
 
-2. Het produceren van de voornoemde teksten moet binnen een gestelde tijdlimiet gerealiseerd worden.   Onderscheid programma I en programma II Het onderscheid tussen programma I en programma II komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concrete onderwerpen, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. In programma I worden korte en middellange opdrachten onderscheiden, in programma II korte, middellange en lange opdrachten.  
+2. Het produceren van de voornoemde teksten moet binnen een gestelde tijdlimiet gerealiseerd worden.   Onderscheid programma I en programma II Het onderscheid tussen programma I en programma II komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concrete onderwerpen, terwijl het abstractieniveau in programma II hoger is. In programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in programma I. In programma I worden korte en middellange opdrachten onderscheiden, in programma II korte, middellange en lange opdrachten. 
 

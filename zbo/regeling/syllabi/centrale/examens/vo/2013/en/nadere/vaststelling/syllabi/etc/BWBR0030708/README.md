@@ -12,7 +12,7 @@ Besluit:
 
 ####Preliminaire vaststelling syllabi 2015
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.m.b.o. in 2015, voor de vakken als vermeld in de bijlage 3 bij deze regeling, en maken na bekendmaking deel uit van deze regeling.  
+De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](../../../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) worden vastgesteld voor de centrale examens in het v.m.b.o. in 2015, voor de vakken als vermeld in de bijlage 3 bij deze regeling, en maken na bekendmaking deel uit van deze regeling. 
 
 ### Artikel  4  
 
@@ -24,20 +24,20 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 2. betreffende artikel 2: per 1 januari 2013;  
 
-3. betreffende artikel 3: per 1 januari 2016.    
+3. betreffende artikel 3: per 1 januari 2016.   
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2013 en nadere vaststelling syllabi 2012.  
+Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2013 en nadere vaststelling syllabi 2012. 
 
 ### Artikel  6  
 
 ####Bekendmaking
 
 1.  Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
-2.  De syllabi als bedoeld in artikel 1, 2 en 3 worden bekend gemaakt op www.examenblad.nl.   
+2.  De syllabi als bedoeld in artikel 1, 2 en 3 worden bekend gemaakt op www.examenblad.nl.  
 
 Het College voor examens, namens deze: 
 de voorzitter 
@@ -47,5 +47,5 @@ H.W. Laan
 
 ####Preliminaire vaststelling syllabi v.m.b.o. 2015
 
-Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken vastgesteld:  *algemene vakken:*  aardrijkskunde.  
+Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken vastgesteld:  *algemene vakken:*  aardrijkskunde. 
 
