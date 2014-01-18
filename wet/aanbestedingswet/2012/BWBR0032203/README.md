@@ -3227,7 +3227,7 @@ Tot een jaar na het tijdstip van inwerkingtreding van artikel 2.89 kan een gegad
 
 ### Artikel  4.32  
 
-In afwijking van artikel 4.7, eerste lid, onderdeel c, betrekt Onze Minister van Veiligheid en Justitie geen gegevens inzake onherroepelijke beschikkingen wegens overtreding van de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) als bedoeld in dat onderdeel bij zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden van een rechtspersoon die werkzaam is op het terrein van de bouwnijverheid indien; 
+In afwijking van artikel 4.7, eerste lid, onderdelen c en d, betrekt Onze Minister van Veiligheid en Justitie geen gegevens inzake onherroepelijke beschikkingen wegens overtreding van de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) als bedoeld in artikel 4.7, eerste lid, onderdeel c, of wegens overtreding van artikel 101 of artikel 102 van het Verdrag betreffende de werking van de Europese Unie als bedoeld in artikel 4.7, eerste lid, onderdeel d, bij zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden van een rechtspersoon die werkzaam is op het terrein van de bouwnijverheid indien; 
 
 a. die rechtspersoon in het kader van die overtredingenvoor 1 mei 2004 vrijwillig zijn boekhouding bij de Nederlandse Mededingingsautoriteit heeft ingeleverd,  
 

@@ -143,18 +143,6 @@ a. de accountant op wiens gedraging de klacht betrekking heeft, naar tevredenhei
 
 b. hij zijn klacht intrekt.    
 
-### Artikel  14  
-
-1.  De Klachtencommissie handelt de klacht zo spoedig mogelijk af, doch uiterlijk binnen 26 weken.   
-2.  De termijn kan worden opgeschort met ingang van de dag waarop door de Klachtencommissie is verzocht: 
-
-a. een verzuim als bedoeld in artikel 8, tweede lid, van deze verordening te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken;  
-
-b. aanvullende gegevens of bescheiden te verstrekken, tot de dag waarop zij zijn verstrekt of de daarvoor gestelde termijn ongebruikt is verstreken.     
-3.  De afhandeling wordt geschorst indien partijen de intentie kenbaar hebben gemaakt om gezamenlijk tot overeenstemming te komen.   
-4.  De afhandeling kan voor ten hoogste vier weken worden verdaagd.   
-5.  Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en de accountant op wiens gedraging de klacht betrekking heeft.   
-
 ### Artikel  15  
 
 1.  De Klachtencommissie stelt de klager en de accountant op wiens gedraging de klacht betrekking heeft, schriftelijk en gemotiveerd in kennis van haar bevindingen inzake de klacht alsmede van een eventuele aanbeveling.   
@@ -182,9 +170,7 @@ b. ongegrondverklaring van de klacht.
 
 ### Artikel  18  
 
-In artikel 1 komt de definitie van accountantskantoor te luiden: 
-
-– accountantskantoor: het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);    
+Wijzigt deze regeling.   
 
 ### Artikel  19  
 
@@ -193,8 +179,3 @@ De [Verordening op de klachtbehandeling](../../../../../../pbo/verordening/op/de
 ### Artikel  20  
 
 De [Verordening op de klachtbehandeling](../../../../../../pbo/verordening/op/de/klachtbehandeling/BWBR0024408/README.md) (Stcrt. 2008, 167) wordt ingetrokken  
-
-### Artikel  21  
-
-1.  Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van artikel 18, dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) in werking treedt.   
-2.  Deze verordening wordt aangehaald als: Verordening op de klachtbehandeling.   
