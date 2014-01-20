@@ -8,9 +8,9 @@
 
 | --- | --- |
 |:---|:---|
-| Awb  |  [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)   |
+| Awb  | [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)   |
 | BMS  | Border Management System  |
-| BTU-BES  |  [Besluit toelating en uitzetting Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)   |
+| BTU-BES  | [Besluit toelating en uitzetting Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)  |
 | BV  | Besloten vennootschap  |
 | BZ  | Ministerie/Minister van Buitenlandse Zaken  |
 | CROHO  | Centraal Register Opleidingen Hoger Onderwijs  |
@@ -36,25 +36,25 @@
 | OM  | Openbaar Ministerie  |
 | --- | --- |
 | RSC  | Regionaal Service Centrum  |
-| RWN  |  [Rijkswet op het Nederlanderschap](../../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)   |
-| RTU-BES  |  [Regeling toelating en Uitzetting Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md)   |
+| RWN  | [Rijkswet op het Nederlanderschap](../../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)  |
+| RTU-BES  | [Regeling toelating en Uitzetting Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md)  |
 | SWZ  | Ministerie/Minister van Sociale Zaken en Werkgelegenheid  |
 | --- | --- |
 | TBC  | Tuberculose  |
 | TWV  | Tewerkstellingsvergunning  |
 | --- | --- |
 | UNHCR  | United Nations High Commissioner for Refugees  |
-| UNRWA  | United Nations Relief and Works Agency for Palestine Refugees in the Near  |
+| UNRWA  | United Nations Relief and Works Agency for Palestine Refugees in the Near   |
 | USD  | United States dollar  |
 | --- | --- |
 | VN  | Verenigde Naties  |
 | Vof  | Vennootschap onder firma  |
 | --- | --- |
-| WarBES  |  [Wet administratieve rechtspraak Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)   |
-| Wav BES  |  [Wet arbeid vreemdelingen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md)   |
-| Wobka  |  [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md)   |
-| Wbp-BES  |  [Wet bescherming persoonsgegevens Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md)   |
-| WTU-BES  |  [Wettoelating en uitzetting Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)   |
+| WarBES  | [Wet administratieve rechtspraak Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)  |
+| Wav BES  | [Wet arbeid vreemdelingen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md)  |
+| Wobka  | [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md)  |
+| Wbp-BES  | [Wet bescherming persoonsgegevens Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md)  |
+| WTU-BES  | [Wettoelating en uitzetting Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)  |
 
 ### Hoofdstuk  1  
 
@@ -310,7 +310,7 @@ e. de datum van de toegangsweigering.
 
 In [artikel 3.7 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) is beschreven in welke gevallen de toegang van een vreemdeling tot de openbare lichamen wordt geweigerd op grond van gevaar voor de openbare orde of de nationale veiligheid. Op grond van het feit dat de vreemdeling een gevaar oplevert voor de openbare orde of de nationale veiligheid wordt in de volgende gevallen de toegang in ieder geval geweigerd: 
 
-a. als er ten aanzien van de vreemdeling concrete aanwijzingen zijn dat deze een inbreuk pleegt of heeft gepleegd op de openbare orde en nationale veiligheid (zie paragraaf 2.3.5); of  
+a. als er ten aanzien van de vreemdeling concrete aanwijzingen zijn dat deze een inbreuk pleegt of heeft gepleegd op de openbare orde en nationale veiligheid (zie paragraaf 2.3.5 ); of  
 
 b. als de vreemdeling in het opsporingsregister of ter fine van weigering van de toegang gesignaleerd staat (zie paragraaf 2.3.6); of  
 
@@ -757,7 +757,7 @@ b. als uit naderhand gebleken feiten en omstandigheden komt vast te staan dat ve
 
 c. als feiten en omstandigheden zodanig zijn gewijzigd dat deze zich verzetten tegen de handhaving of ongewijzigde handhaving van het verleende; of  
 
-d. als de vreemdeling de op hem rustende verplichtingen op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) niet naleeft.   De intrekking van een terugkeervisum vindt plaats door, bij voorkeur met rode inkt, op het terugkeervisum de volgende vermelding aan te brengen: ‘INGETROKKEN op ...(datum), op grond van [art 2c, sub ....(a,b,c of d), WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) ’. Als een ambtenaar van toezicht op grond van [art 2c, sub b, c of d, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) een terugkeervisum wil intrekken moet hier eerst contact over worden opgenomen met de IND unit Caribisch Nederland. Als toestemming wordt verleend voor intrekking, dan moet de intrekking van het terugkeervisum worden voorzien van een dienststempel en een paraaf van de desbetreffende ambtenaar belast met toezicht op vreemdelingen.     
+d. als de vreemdeling de op hem rustende verplichtingen op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) niet naleeft.   De intrekking van een terugkeervisum vindt plaats door, bij voorkeur met rode inkt, op het terugkeervisum de volgende vermelding aan te brengen: ‘INGETROKKEN op ...(datum), op grond van [art 2c, sub ....(a,b,c of d), WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)’. Als een ambtenaar van toezicht op grond van [art 2c, sub b, c of d, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) een terugkeervisum wil intrekken moet hier eerst contact over worden opgenomen met de IND unit Caribisch Nederland. Als toestemming wordt verleend voor intrekking, dan moet de intrekking van het terugkeervisum worden voorzien van een dienststempel en een paraaf van de desbetreffende ambtenaar belast met toezicht op vreemdelingen.     
 ### 7  
 
 ####Specifieke voorschriften voor grenscontroles en categorieën vreemdelingen
@@ -861,9 +861,9 @@ Voor burgers van de Europese Unie en hun familieleden, ook Nederlanders, die zic
 
 ####Uitleg [artikel 1a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)
 
-### *Artikel 1a* 
+### Artikel 1a 
 
-1. Deze wet is, met uitzondering van hoofdstuk 2, van overeenkomstige toepassing op: 
+1. Deze wet is, met uitzondering van [hoofdstuk 2](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), van overeenkomstige toepassing op: 
 
 a. Nederlanders, geboren buiten Bonaire, Sint Eustatius en Saba;  
 
@@ -884,13 +884,22 @@ De bepalingen van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toel
 
 * Nederlanders, en hun kinderen, die niet direct voorafgaand aan 10 oktober 2010 tenminste een ononderbroken periode van tenminste een jaar in de openbare lichamen hun woonplaats hebben gehad (derde lid).   De bepalingen van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) zijn niet van overeenkomstige toepassing op: 
 
-* de eilandskinderen van de openbare lichamen; en  
+a. de eilandskinderen van de openbare lichamen; en  
 
-* Nederlandse kinderen die op of in Aruba, Curaçao, Sint Maarten of het Europese deel van Nederland zijn geboren of de Nederlandse nationaliteit hebben verkregen en waarvan één van de ouders is aan te merken als eilandskind van de openbare lichamen (zie [artikel 1a, tweede lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Dit is bijvoorbeeld het geval als de ouders primair met het oog op de ziekenhuisbevalling naar de bovengenoemde landen zijn gereisd. Ook deze kinderen zijn eilandskinderen van de openbare lichamen;  
+b. Nederlandse kinderen die op of in Aruba, Curaçao, Sint Maarten of het Europese deel van Nederland zijn geboren of de Nederlandse nationaliteit hebben verkregen en waarvan één van de ouders is aan te merken als eilandskind van de openbare lichamen (zie [artikel 1a, tweede lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Dit is bijvoorbeeld het geval als de ouders primair met het oog op de ziekenhuisbevalling naar de bovengenoemde landen zijn gereisd. Ook deze kinderen zijn eilandskinderen van de openbare lichamen;  
 
-* Nederlanders die op dan wel in Aruba, Curaçao, Sint Maarten of het Europese deel van Nederland zijn geboren of de Nederlandse nationaliteit hebben verkregen en die direct voorafgaand aan 10 oktober 2010 een ononderbroken periode van tenminste een jaar in de openbare lichamen woonplaats hebben gehad (zie [artikel 1a, derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
+c. Nederlanders die op dan wel in Aruba, Curaçao, Sint Maarten of het Europese deel van Nederland zijn geboren of de Nederlandse nationaliteit hebben verkregen en die direct voorafgaand aan 10 oktober 2010 een ononderbroken periode van tenminste een jaar in de openbare lichamen woonplaats hebben gehad (zie [artikel 1a, derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
 
-* kinderen van de in het vorige punt genoemde Nederlanders, indien ze direct voorafgaand aan 10 oktober 2010 gedurende een ononderbroken periode van tenminste een jaar hun woonplaats hebben gehad op de eilanden Bonaire, Sint Eustatius of Saba.   Onder eilandskinderen van de openbare lichamen wordt verstaan: Nederlanders die op Bonaire, Sint Eustatius of Saba zijn geboren of de Nederlandse nationaliteit hebben verkregen en hun Nederlandse kinderen, waar dan ook geboren. Voor het begrip ‘woonplaats’ is aangesloten bij de definitie zoals genoemd in [artikel 10, eerste lid, van Boek 1 van het Burgerlijk Wetboek van de Nederlandse Antillen](../../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md). Daaruit volgt dat perioden van afwezigheid van de openbare lichamen binnen de referteperiode van een jaar niet in de weg staan aan de behandeling als eilandskind van de openbare lichamen. De duur en de reden van afwezigheid binnen de referteperiode is niet van belang, zolang vaststaat dat de betrokken Nederlander in de referteperiode ononderbroken zijn woonplaats op de openbare lichamen heeft gehad. De referteperiode van een jaar heeft tot doel om te voorkomen dat Nederlanders zich voor 10 oktober 2010 vestigen in de openbare lichamen met het oogmerk behandeld te worden als eilandskind van de openbare lichamen.    
+d. kinderen van de in het vorige punt genoemde Nederlanders, als ze direct voorafgaand aan 10 oktober 2010 gedurende een ononderbroken periode van tenminste een jaar hun woonplaats hebben gehad op de eilanden Bonaire, Sint Eustatius of Saba.   
+### *Ad a*
+
+Onder eilandskinderen van de openbare lichamen wordt verstaan: Nederlanders die op Bonaire, Sint Eustatius of Saba zijn geboren of de Nederlandse nationaliteit hebben verkregen en hun Nederlandse kinderen, waar dan ook geboren.
+### *Ad c*
+
+Voor het begrip ‘woonplaats’ is aangesloten bij de definitie zoals genoemd in [artikel 10, eerste lid, van Boek 1 van het Burgerlijk Wetboek BES](../../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md). Daaruit volgt dat perioden van afwezigheid van de openbare lichamen binnen de referteperiode van een jaar niet in de weg staan aan de behandeling als eilandskind van de openbare lichamen. De duur en de reden van afwezigheid binnen de referteperiode is niet van belang, zolang vaststaat dat de betrokken Nederlander in de referteperiode ononderbroken zijn woonplaats op de openbare lichamen heeft gehad. De referteperiode van een jaar heeft tot doel om te voorkomen dat Nederlanders zich voor 10 oktober 2010 vestigen in de openbare lichamen met het oogmerk behandeld te worden als eilandskind van de openbare lichamen.
+### *Ad d*
+
+De periode genoemd onder d wordt niet als onderbroken beschouwd door een verblijf buiten de openbare lichamen voor studiedoeleinden of wegens geneeskundige behandeling. In dat geval zijn de bepalingen van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) niet van toepassing. Als de Nederlander niet binnen een jaar na de voltooiing van zijn studie of de beëindiging van de geneeskundige behandeling is teruggekeerd naar de openbare lichamen, dan wordt de vreemdeling geacht zijn hoofdverblijf te hebben verplaatst. De bepalingen van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) zijn in dat geval wel op die vreemdeling van toepassing. Met het vorenstaande wordt aangesloten bij [artikel 4 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).   
 ### 2.3  
 
 ####Toelating van rechtswege van Nederlanders
@@ -913,7 +922,10 @@ a. beschikken over een verklaring van goed gedrag, gedurende de laatste vijf jar
 
 b. beschikken over huisvesting;  
 
-c. beschikken over voldoende middelen van bestaan om in hun levensonderhoud te voorzien.   De minderjarige Nederlandse kinderen van de bovengenoemde Nederlanders die toelating van rechtswege hebben op grond van [artikel 3, vijfde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), hebben toelating van rechtswege als één van de ouders het ouderlijk gezag heeft.      
+c. beschikken over voldoende middelen van bestaan om in hun levensonderhoud te voorzien. Voor voldoende middelen van bestaan wordt verwezen naar hoofdstuk 3/1.9.3.3 CTU-BES.   De minderjarige Nederlandse kinderen van de bovengenoemde Nederlanders die toelating van rechtswege hebben op grond van [artikel 3, vijfde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), hebben toelating van rechtswege als één van de ouders het ouderlijk gezag heeft. 
+###*Ad a*
+
+Dit betekent dat de aanvrager over een verklaring goed gedrag moet beschikken uit alle landen waar de Nederlander de afgelopen 5 jaar heeft verbleven.     
 ### 3  
 
 ####Bijzondere categorieën
@@ -958,7 +970,10 @@ Zolang de vreemdeling militair is en is gestationeerd in de openbare lichamen.
 Gedurende de tijd dat de openbare lichamen met toestemming van de bevoegde autoriteit wordt aangedaan. 
 ### *Ad f:* 
 
-Zolang de echtgenoot niet van tafel en bed is gescheiden. Zolang de kinderen minderjarig zijn. De ongehuwde partner, van vreemde nationaliteit, van een vreemdeling die van rechtswege toelating heeft, kan een verblijfsvergunning voor bepaalde tijd aanvragen voor een verblijfsdoel verband houdend met gezinshereniging bij partner. De geldigheidsduur van deze verblijfsvergunning is in beginsel een jaar. Als de hoofdpersoon korter dan een jaar van rechtswege is toegelaten, dan is de geldigheidsduur van de verblijfsvergunning van de ongehuwde partner daarop afgestemd. Dit geldt ook voor de minderjarige kinderen, als deze kinderen zelf niet de Nederlandse nationaliteit hebben.    
+Zolang de echtgenoot niet van tafel en bed is gescheiden. Zolang de kinderen minderjarig zijn. De ongehuwde partner, van vreemde nationaliteit, van een vreemdeling die van rechtswege toelating heeft, kan een verblijfsvergunning voor bepaalde tijd aanvragen voor een verblijfsdoel verband houdend met gezinshereniging bij partner. De geldigheidsduur van deze verblijfsvergunning is in beginsel een jaar. Als de hoofdpersoon korter dan een jaar van rechtswege is toegelaten, dan is de geldigheidsduur van de verblijfsvergunning van de ongehuwde partner daarop afgestemd. Dit geldt ook voor de minderjarige kinderen, als deze kinderen zelf niet de Nederlandse nationaliteit hebben. 
+### *Rijkswet Gemeenschappelijk Hof van Justitie*
+
+Op grond van [artikel 38 van de Rijkswet Gemeenschappelijk Hof van Justitie](../../../../../../../../../../../rijkswet/rijkswet/gemeenschappelijk/hof/van/justitie/BWBR0028070/README.md) zijn leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistreerd partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren van rechtswege toegelaten tot de landen, en daarmee in voorkomend geval ook tot de openbare lichamen. Aan de leden en plaatsvervangend leden van het Hof en hun echtgenoten of geregistreerde partners worden geen nadere voorwaarden gesteld voor de uitoefening van een beroep of het verrichten van arbeid. Gelet op het bovenstaande wordt op aanvraag een verklaring inzake toelating van rechtswege in de openbare lichamen afgegeven aan de leden en plaatsvervangend leden alsmede hun echtgenoten of geregistreerd partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren.   
 ### 3.2  
 
 ####De toekenning van de toelating van rechtswege
@@ -988,17 +1003,27 @@ d. door Nederlanders als bedoeld in [artikel 3, vijfde en zesde lid, WTU-BES](..
 
 * bewijs van voldoende middelen van bestaan te weten: 
 
-− volledig ingevulde en ondertekende werkgeversverklaring en een kopie geldig document voor grensoverschrijding van de werkgever;  
+* volledig ingevulde en ondertekende werkgeversverklaring en een kopie geldig document voor grensoverschrijding van de werkgever;  
 
-− recente verklaring van de Inspecteur der Belastingen van een vastgesteld belastbaar inkomen van ten minste USD 20,112 (als werkgever een eenmansbedrijf of particulier is) of  
+* recente verklaring van de Inspecteur der Belastingen van een vastgesteld belastbaar inkomen van ten minste USD 20,112 (als werkgever een eenmansbedrijf of particulier is) of  
 
-− een bankverklaring waaruit blijkt dat wordt beschikt over voldoende middelen van bestaan.    
+* een bankverklaring waaruit blijkt dat wordt beschikt over voldoende middelen van bestaan.    
 
 * bij kinderen als bedoeld in [artikel 3, zesde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md): 
 
-− een geboorteakte van het kind;  
+* een geboorteakte van het kind;  
 
-− indien van toepassing: een bewijs waaruit blijkt dat één van de in het vijfde lid bedoelde ouders het ouderlijk gezag heeft.       
+* indien van toepassing: een bewijs waaruit blijkt dat één van de in het vijfde lid bedoelde ouders het ouderlijk gezag heeft.      
+
+e. door (plaatsvervangend) leden van het Gemeenschappelijk Hof van Justitie, hun echtgenoten of geregistreerd partners en hun minderjarige kinderen: 
+
+* het Koninklijk Besluit, houdende de benoeming van de aanvrager tot lid van het Gemeenschappelijk Hof van Justitie.   bij hun echtgenoten of geregistreerd partners: 
+
+* een huwelijksakte of akte van geregistreerd partnerschap.   bij hun minderjarige kinderen: 
+
+* een geboorteakte van het kind;  
+
+* indien van toepassing: een bewijs waaruit blijkt dat een van de ouders (het lid van het Hof of zijn/haar echtgenoot/geregistreerd partner) het ouderlijk gezag heeft.     
 ### *Bewijs ouderlijk gezag* 
 
 Dit geldt alleen als uit de geboorteakte blijkt dat het kind niet het biologisch kind is van beide ouders. In dat geval moet een rechterlijke uitspraak overgelegd worden waaruit blijkt dat het ouderlijk gezag / voogdij aan de in de openbare lichamen verblijvende ouder is toegewezen.    
@@ -1163,11 +1188,11 @@ k. verblijf als investeerder; en
 l. verblijf als vrijwilliger.   Deze beperkingen kunnen nader worden omschreven bij de verlening van de verblijfsvergunning (zie [artikel 5.2, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). 
 ### *Andere beperkingen dan in artikel 5.2, eerste lid, BTU-BES* 
 
-Daarnaast kan een verblijfsvergunning voor bepaalde tijd worden verleend onder een andere beperking dan hiervoor genoemd (zie [artikel 5.2, derde lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Hiervan zal weinig gebruik worden gemaakt om precedentwerking te voorkomen. Voor welke situaties is [artikel 5.2, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)*niet* bedoeld? 
+Daarnaast kan een verblijfsvergunning voor bepaalde tijd worden verleend onder een andere beperking dan hiervoor genoemd (zie [artikel 5.2, derde lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Hiervan zal weinig gebruik worden gemaakt om precedentwerking te voorkomen.  Voor welke situaties is [artikel 5.2, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) *niet* bedoeld?  
 
 * voor situaties waarin de vreemdeling eigenlijk verblijf wil voor één van de hierboven genoemde beperkingen, maar niet voldoet aan de daarvoor geldende toelatingsvoorwaarden;  
 
-* als het doel waarvoor de vreemdeling in de openbare lichamen wil verblijven zodanig verband houdt met de situatie in het land van herkomst, dat voor de beoordeling daarvan het indienen van een aanvraag om een verblijfsvergunning verband houdend met bescherming (zie [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)) noodzakelijk is.   Voor welke situaties is [artikel 5.2, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)*wel* bedoeld? 
+* als het doel waarvoor de vreemdeling in de openbare lichamen wil verblijven zodanig verband houdt met de situatie in het land van herkomst, dat voor de beoordeling daarvan het indienen van een aanvraag om een verblijfsvergunning verband houdend met bescherming (zie [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)) noodzakelijk is.    Voor welke situaties is [artikel 5.2, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) *wel* bedoeld?  
 
 * voor situaties waarin de vreemdeling in de openbare lichamen wil verblijven op een grond die nadrukkelijk niet is geregeld en daarom aanleiding kan zijn voor een afzonderlijke beperking.      
 ### 1.3  
@@ -1236,7 +1261,7 @@ h. verblijf onder een andere beperking bedoeld in [artikel 5.2, derde lid, BTU-B
 * de middeleneis.   Als aan één of beide genoemde voorwaarden niet meer wordt voldaan, kan de verblijfsvergunning voor bepaalde tijd om die reden worden ingetrokken (zie [artikel 14, onder d en e, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)) of kan een aanvraag om verlenging worden afgewezen (zie [artikel 9, eerste lid, onder b en c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). 
 ### *Publieke middelen* 
 
-Onder publieke middelen wordt verstaan alle middelen die niet vallen onder de in de paragraaf 1.9.3.1 genoemde middelen. Dit zijn bijvoorbeeld middelen op grond van de Wet op de onderstand BES.    
+Onder publieke middelen wordt verstaan alle middelen die niet vallen onder de in de paragraaf 1.9.3.1 genoemde middelen. Dit zijn bijvoorbeeld middelen op grond van de Wet op de onderstand BES.     
 ### 1.7  
 
 ####Voorschriften
@@ -1267,7 +1292,7 @@ In plaats van een waarborgsom kan een passagebiljet worden gedeponeerd voor de r
 2. procedure teruggave passagebiljet: Teruggave van het passagebiljet vindt plaats bij het loket van de IND unit Caribisch Nederland. De vreemdeling wordt hiervoor schriftelijk opgeroepen om het passagebiljet in persoon in ontvangst te nemen. Bij teruggave van het passagebiljet ondertekent de vreemdeling een ontvangstbewijs als bewijs dat het passagebiljet aan hem is teruggegeven.   
 ### *Schriftelijke garantstelling* 
 
-Als het voorschrift tot schriftelijke garantstelling aan de verblijfsvergunning is verbonden, betekent dit dat een in de openbare lichamen gevestigde solvabele derde een schriftelijke garantstelling ondertekent (zie model MBES26 CTU-BES), waarmee hij zich garant stelt voor de kosten die voor de staat en andere openbare overheden voortvloeien uit het verblijf van de vreemdeling in de openbare lichamen, en voor de kosten van terugkeer van de vreemdeling naar een plaats buiten de openbare lichamen waar zijn toelating is gewaarborgd. De verplichtingen die voortvloeien uit de garantstelling hebben uitsluitend betrekking op de kosten veroorzaakt binnen vijf jaren, nadat de verblijfsvergunning is verleend (zie [artikel 5.9, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Deze periode is korter dan vijf jaren als: 
+Als het voorschrift tot schriftelijke garantstelling aan de verblijfsvergunning is verbonden, betekent dit dat een in de openbare lichamen gevestigde solvabele derde een schriftelijke garantstelling ondertekent (zie model MBES26 CTU-BES), waarmee hij zich garant stelt voor de kosten die voor de staat en andere openbare overheden voortvloeien uit het verblijf van de vreemdeling in de openbare lichamen, en voor de kosten van terugkeer van de vreemdeling naar een plaats buiten de openbare lichamen waar zijn toelating is gewaarborgd.  De verplichtingen die voortvloeien uit de garantstelling hebben uitsluitend betrekking op de kosten veroorzaakt binnen vijf jaren, nadat de verblijfsvergunning is verleend (zie [artikel 5.9, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Deze periode is korter dan vijf jaren als: 
 
 a. op andere wijze voldoende zekerheid is gesteld;  
 
@@ -1289,7 +1314,7 @@ De vreemdeling moet met een schriftelijk bewijsstuk aantonen dat hij voldoende v
 De verblijfsvergunning voor bepaalde tijd wordt verleend voor ten hoogste vijf achtereenvolgende jaren (zie [artikel 6, tweede lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). In de [artikelen 5.26 tot en met 5.30 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) zijn regels gesteld over de geldigheidsduur van de verblijfsvergunning en de verlenging van de geldigheidsduur van de verblijfsvergunning. 
 ### *Hoofdregel* 
 
-De verblijfsvergunning voor bepaalde tijd wordt verleend voor ten hoogste één jaar en kan telkens met ten hoogste één jaar worden verlengd ([artikel 5.26 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Van deze hoofdregel wordt, in geval van bepaalde verblijfsdoelen, afgeweken in de [artikelen 5.27 tot en met 5.30 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). 
+De verblijfsvergunning voor bepaalde tijd wordt verleend voor ten hoogste één jaar en kan telkens met ten hoogste één jaar worden verlengd ([artikel 5.26 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).  Van deze hoofdregel wordt, in geval van bepaalde verblijfsdoelen, afgeweken in de [artikelen 5.27 tot en met 5.30 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md).  
 ### *Uitzonderingregels bij eerste toelating* 
 
 a. Latere ingangsdatum verblijfsvergunning: Als de vreemdeling niet al bij het indienen van de aanvraag heeft aangetoond dat aan alle voorwaarden voor verlening van de verblijfsvergunning wordt voldaan, maar pas later, dan wordt de verblijfsvergunning verleend met ingang van de dag waarop de vreemdeling heeft aangetoond dat hij aan alle voorwaarden voldoet. Voor het bepalen van de geldigheidsduur van de verblijfsvergunning wordt ook van die latere ingangsdatum uitgegaan. Dat de vreemdeling niet al bij het indienen van de aanvraag heeft aangetoond dat hij aan alle voorwaarden voldoet, heeft dus geen gevolgen voor de totale geldigheidsduur van zijn verblijfsvergunning (zie [artikel 7, vierde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.26 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).  
@@ -1527,11 +1552,11 @@ Als middelen van bestaan in de zin van de [WTU-BES](../../../../../../../../../.
 
 Hierbij geldt dat de bron van de inkomsten niet wordt aangetast en de vereiste premies en belastingen zijn afgedragen. Hieronder vallen bijvoorbeeld: 
 
-− inkomsten uit rente;  
+− inkomsten uit rente;   
 
-− inkomsten uit obligaties of aandelen; en  
+− inkomsten uit obligaties of aandelen; en   
 
-− inkomsten uit verhuur van een zelfstandige woonruimte.   Naast de onder a, b en c genoemde middelen van bestaan worden als zelfstandige middelen van bestaan aangemerkt: 
+− inkomsten uit verhuur van een zelfstandige woonruimte.    Naast de onder a, b en c genoemde middelen van bestaan worden als zelfstandige middelen van bestaan aangemerkt: 
 ### *Inkomsten uit een inkomensvervangende uitkering* 
 
 Dit zijn inkomsten uit een inkomensvervangende uitkering krachtens een sociale verzekeringswet, waarvoor premie is afgedragen. 
@@ -1539,15 +1564,15 @@ Dit zijn inkomsten uit een inkomensvervangende uitkering krachtens een sociale v
 
 De volgende middelen van bestaan uit overige bron worden eveneens als zelfstandig aangemerkt: 
 
-− alimentatie die wordt ontvangen ten behoeve van kinderen;  
+− alimentatie die wordt ontvangen ten behoeve van kinderen;   
 
-− inkomsten uit een particuliere pensioenverzekering. Als de vreemdeling verblijf beoogt als echtgeno(o)t(e) of (geregistreerd) partner van de hoofdpersoon die deze inkomsten ontvangt, kunnen deze middelen alleen dan als zelfstandig worden aangemerkt als met een verklaring van de betreffende verzekeraar is aangetoond dat het recht op uitkering niet ophoudt in geval van samenwonen of (her)trouwen;  
+− inkomsten uit een particuliere pensioenverzekering. Als de vreemdeling verblijf beoogt als echtgeno(o)t(e) of (geregistreerd) partner van de hoofdpersoon die deze inkomsten ontvangt, kunnen deze middelen alleen dan als zelfstandig worden aangemerkt als met een verklaring van de betreffende verzekeraar is aangetoond dat het recht op uitkering niet ophoudt in geval van samenwonen of (her)trouwen;   
 
-− inkomsten uit uitkeringen van een lijfrentepolis of stamrechtovereenkomst, mits is aangetoond dat belasting en premies worden afgedragen;  
+− inkomsten uit uitkeringen van een lijfrentepolis of stamrechtovereenkomst, mits is aangetoond dat belasting en premies worden afgedragen;   
 
-− inkomsten uit een invaliditeitspensioen, al dan niet als aanvulling op een arbeidsongeschiktheidsuitkering; en  
+− inkomsten uit een invaliditeitspensioen, al dan niet als aanvulling op een arbeidsongeschiktheidsuitkering; en   
 
-− inkomsten uit een particuliere arbeidsongeschiktheidsverzekering (aan te tonen door overlegging van een bewijs van de betreffende verzekeraar).   
+− inkomsten uit een particuliere arbeidsongeschiktheidsverzekering (aan te tonen door overlegging van een bewijs van de betreffende verzekeraar).    
 ### *Niet mee te rekenen inkomensbestanddelen* 
 
 Niet als (bestanddeel van) middelen van bestaan wordt aangemerkt een uitkering of bijdrage uit de publieke middelen op grond van sociale voorzieningen waarvoor geen premie wordt afgedragen.    
@@ -1574,11 +1599,11 @@ d. bij verhuur van woonruimte: kopie huurovereenkomst waaruit blijkt dat de duur
 
 Middelen van bestaan uit arbeid als zelfstandige zijn duurzaam, als zij gedurende ten minste anderhalf jaar zijn verworven en nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven (zie [artikel 5.34, derde lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [artikel 4.4, eerste lid, RTU-BES](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md)). De inkomsten van een ondernemer die nog niet ten minste anderhalf jaar werkzaam is als zelfstandig kunnen derhalve niet als duurzaam aangemerkt worden, ongeacht de hoogte van zijn inkomsten uit arbeid als zelfstandige. Ook de omstandigheid dat een ondernemer een al langer bestaande onderneming overneemt, maakt niet dat de uit die onderneming verkregen inkomsten uit arbeid als zelfstandige duurzaam zijn. Duurzaamheid van middelen van bestaan uit arbeid als zelfstandige wordt aangetoond door overlegging van: 
 
-− een verklaring van de Belastingdienst waaruit blijkt wat de inkomsten uit onderneming/als zelfstandige zijn geweest gedurende anderhalf jaar voorafgaand aan het tijdstip van ontvangst van de aanvraag of het geven van de beschikking;  
+− een verklaring van de Belastingdienst waaruit blijkt wat de inkomsten uit onderneming/als zelfstandige zijn geweest gedurende anderhalf jaar voorafgaand aan het tijdstip van ontvangst van de aanvraag of het geven van de beschikking;   
 
-− crib nummer van het bedrijf; en  
+− crib nummer van het bedrijf; en   
 
-− referentiebrief van de bank.   Als het een aanvraag betreft om verlening van een verblijfsvergunning onder een beperking verband houdend met het verrichten van arbeid als zelfstandige, is bovenstaande duurzaamheidseis niet van toepassing (zie [artikel 4.4, tweede lid, RTU-BES](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md)).    
+− referentiebrief van de bank.    Als het een aanvraag betreft om verlening van een verblijfsvergunning onder een beperking verband houdend met het verrichten van arbeid als zelfstandige, is bovenstaande duurzaamheidseis niet van toepassing (zie [artikel 4.4, tweede lid, RTU-BES](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md)).    
 ### 1.9.3.3  
 
 ####Voldoende middelen van bestaan
@@ -1684,7 +1709,7 @@ c. als niet kan worden aangetoond dat degene voor wie toelating wordt verzocht o
 De aanvraag tot het wijzigen of het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd is tijdig ingediend, als de aanvraag is ontvangen uiterlijk op de dag voor de dag waarop de geldigheidsduur verstrijkt (zie [artikel 5.36, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). De aanvraag kan maximaal vier maanden voor het verstrijken van de geldigheidsduur en uiterlijk op de dag van verloop van de geldigheidsduur worden ingediend. De vreemdeling wordt geacht gedurende zijn verlengingsverzoek rechtmatig in de openbare lichamen te verblijven. De verblijfsvergunning voor bepaalde tijd kan worden verlengd met ingang van de dag waarop de vreemdeling heeft aangetoond dat hij aan alle voorwaarden voldoet, maar niet eerder dan met ingang van de dag na die waarop de geldigheidsduur van de verblijfsvergunning waarvoor verlenging is gevraagd, afloopt (zie [artikel 7, vijfde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). 
 ### *Niet-toerekenbaar te laat* 
 
-Als de aanvraag later is ontvangen en de termijnoverschrijding de vreemdeling niet kan worden toegerekend, dan kan de verblijfsvergunning voor bepaalde tijd worden verlengd met ingang van de dag na die waarop de geldigheidsduur van de verblijfsvergunning waarvoor verlenging is gevraagd afloopt (zie [artikel 5.36, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [artikel 7, zesde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). De vraag of de te late ontvangst van de aanvraag aan de vreemdeling is toe te rekenen, wordt van geval tot geval beoordeeld. Als uitgangspunt geldt dat de vreemdeling zelf de volledige verantwoordelijkheid draagt voor tijdige indiening van de verlengingsaanvraag, desnoods door tussenkomst van derden. Onderstaande omstandigheden kunnen niet worden aangemerkt als verschoonbare redenen voor termijnoverschrijding: 
+Als de aanvraag later is ontvangen en de termijnoverschrijding de vreemdeling niet kan worden toegerekend, dan kan de verblijfsvergunning voor bepaalde tijd worden verlengd met ingang van de dag na die waarop de geldigheidsduur van de verblijfsvergunning waarvoor verlenging is gevraagd afloopt (zie [artikel 5.36, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [artikel 7, zesde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). De vraag of de te late ontvangst van de aanvraag aan de vreemdeling is toe te rekenen, wordt van geval tot geval beoordeeld. Als uitgangspunt geldt dat de vreemdeling zelf de volledige verantwoordelijkheid draagt voor tijdige indiening van de verlengingsaanvraag. Onderstaande omstandigheden kunnen niet worden aangemerkt als verschoonbare redenen voor termijnoverschrijding: 
 
 * de vreemdeling is er door de overheid niet op gewezen dat zijn vergunning afloopt;  
 
@@ -1695,14 +1720,14 @@ Als de aanvraag later is ontvangen en de termijnoverschrijding de vreemdeling ni
 * nonchalance.   Als de te late indiening van de aanvraag of de te late verstrekking van de noodzakelijke gegevens of bescheiden niet aan de vreemdeling toe te rekenen is, wordt gebruik gemaakt van de bevoegdheid om de verblijfsvergunning te verlengen in aansluiting op de verlopen vergunning. 
 ### *Niet-tijdig, maar binnen de redelijke termijn* 
 
-Beleidsregel: Als de aanvraag tot verlenging niet op de uiterste datum is ingediend, maar wel binnen twee jaar na afloop van de geldigheidsduur van de verblijfsvergunning, moet de aanvraag wel als een verlengingsaanvraag worden behandeld. Alle vereiste documenten moeten ook binnen die termijn zijn overgelegd (zie [artikel 5.38 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). De aanvraag wordt in dat geval niet afgewezen wegens het ontbreken van een geldige mvv en ook niet als de vreemdeling weigert een onderzoek naar en zonodig behandeling aan TBC te ondergaan ([artikel 5.38, lid 1, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Bovengenoemde geldt niet als de vreemdeling: 
+Als de aanvraag tot verlenging niet op de uiterste datum is ingediend, maar wel binnen zes maanden na afloop van de geldigheidsduur van de verblijfsvergunning, moet de aanvraag wel als een verlengingsaanvraag worden behandeld. Alle vereiste documenten moeten ook binnen die termijn zijn overgelegd (zie [artikel 5.38 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). De aanvraag wordt in dat geval niet afgewezen wegens het ontbreken van een geldige mvv en ook niet als de vreemdeling weigert een onderzoek naar en zonodig behandeling aan TBC te ondergaan (artikel 5.38, lid 1, BTU-BES). Bovengenoemde geldt niet als de vreemdeling: 
 
 * zijn hoofdverblijf buiten de openbare lichamen heeft gevestigd; of  
 
-* onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden en die gegevens tot afwijzing van de oorspronkelijke aanvraag tot het verlenen of verlengen zouden hebben geleid (zie [artikel 5.38, lid 2, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).   Als de aanvraag wordt ingewilligd dan is de ingangsdatum de datum waarop de verlengingsaanvraag is ingediend, tenzij het de vreemdeling niet is toe te rekenen dat de aanvraag te laat is ingediend (zie [artikel 7, zesde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Er ontstaat een onderbreking in het verblijfsrecht van de vreemdeling wat gevolgen heeft voor de opbouw van de verdere verblijfsrechten. Als de te late indiening van de aanvraag of de te late verstrekking van de noodzakelijke gegevens of bescheiden niet aan de vreemdeling toe te rekenen is, wordt gebruik gemaakt van de bevoegdheid om de verblijfsvergunning te verlengen in aansluiting op de verlopen vergunning. 
+* onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden en die gegevens tot afwijzing van de oorspronkelijke aanvraag tot het verlenen of verlengen zouden hebben geleid (zie [artikel 5.38, lid 2, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).   Als de aanvraag wordt ingewilligd dan is de ingangsdatum de datum waarop de verlengingsaanvraag is ingediend, tenzij het de vreemdeling niet is toe te rekenen dat de aanvraag te laat is ingediend (zie [artikel 7, zesde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Er ontstaat een onderbreking in het verblijfsrecht van de vreemdeling wat gevolgen heeft voor de opbouw van de verdere verblijfsrechten. Als de te late indiening van de aanvraag of de te late verstrekking van de noodzakelijke gegevens of bescheiden niet aan de vreemdeling toe te rekenen is, wordt gebruik gemaakt van de bevoegdheid om de verblijfsvergunning te verlengen in aansluiting op de verlopen verblijfsvergunning.
 ### *Niet-tijdig en niet binnen een redelijke termijn* 
 
-De niet-tijdig ingediende aanvraag tot het wijzigen of tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd wordt gelijkgesteld met een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd (zie [artikel 5.36, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Dat is het geval als de verlengingsaanvraag na twee jaar, na verloop van de geldigheidsduur van de verblijfsvergunning, is ingediend. Betrokkene heeft in die periode geen verblijfsrecht. Betrokkene moet de afhandeling van de aanvraag in het buitenland afwachten. Als positief op de aanvraag is beslist verkrijgt betrokkene weer toelating tot verblijf in de zin van [artikel 6 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).    
+De niet-tijdig ingediende aanvraag tot het wijzigen of tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd wordt gelijkgesteld met een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd (zie [artikel 5.36, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Dat is het geval als de verlengingsaanvraag na zes maanden, na verloop van de geldigheidsduur van de verblijfsvergunning, is ingediend. Betrokkene heeft in die periode geen verblijfsrecht. Betrokkene moet de afhandeling van de aanvraag in het buitenland afwachten. Als positief op de aanvraag is beslist verkrijgt betrokkene weer toelating tot verblijf in de zin van [artikel 6 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).    
 ### 1.12.2  
 
 ####Wijzigen van de vergunning
@@ -1776,7 +1801,7 @@ Voordat tot intrekking van de verblijfsvergunning wordt overgegaan moet de vreem
 
 ####Voortzetting verblijf na intrekking verblijfsvergunning
 
-De aanvraag van de vreemdeling wiens verblijfsvergunning is ingetrokken, maar waarbij de aanvraag nog is ontvangen binnen de redelijke termijn van twee jaar na de datum waarop de intrekkingsbeschikking is bekendgemaakt, wordt getoetst aan de voorwaarden voor voortzetting van verblijf. Het valt onder de categorie *‘niet-tijdig maar binnen de redelijke termijn’*. De aanvraag is slechts tijdig als deze is ingediend vóór het tijdstip tot wanneer de verblijfsvergunning is ingetrokken. Als de verblijfsvergunning is ingetrokken tot en met de datum waarop zij is verleend, kan betrokkene per definitie niet tijdig een verlengingsaanvraag indienen. De aanvraag wordt in deze gevallen aangemerkt als een aanvraag om eerste toelating.       
+De aanvraag van de vreemdeling wiens verblijfsvergunning is ingetrokken, maar waarbij de aanvraag nog is ontvangen binnen de redelijke termijn van zes maanden na de datum waarop de intrekkingsbeschikking is bekendgemaakt, wordt getoetst aan de voorwaarden voor voortzetting van verblijf. Het valt onder de categorie *‘niet-tijdig maar binnen de redelijke termijn’*. De aanvraag is slechts tijdig als deze is ingediend vóór het tijdstip tot wanneer de verblijfsvergunning is ingetrokken. Als de verblijfsvergunning is ingetrokken tot en met de datum waarop zij is verleend, kan betrokkene per definitie niet tijdig een verlengingsaanvraag indienen. De aanvraag wordt in deze gevallen aangemerkt als een aanvraag om eerste toelating.       
 ### 2  
 
 ####De verblijfsvergunning voor onbepaalde tijd
@@ -1848,13 +1873,13 @@ Volgens [artikel 14 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelat
 
 a. op grond van een onherroepelijk geworden veroordeling van een misdrijf tot een onvoorwaardelijke vrijheidsbenemende straf van drie maanden of langer;  
 
-b. met het oog op de goede zeden;  
+b.  met het oog op de goede zeden;  
 
-c. als dit in het algemeen belang wenselijk is;  
+c.  als dit in het algemeen belang wenselijk is;  
 
-d. het verkeren in zodanige staat van behoeftigheid, dat de vreemdeling niet langer naar behoren in het onderhoud van zichzelf en zijn wettig gezin kan voorzien; en  
+d.  het verkeren in zodanige staat van behoeftigheid, dat de vreemdeling niet langer naar behoren in het onderhoud van zichzelf en zijn wettig gezin kan voorzien; en  
 
-e. als de vreemdeling niet voldoet aan één of meer van de aan zijn verblijfsvergunning voor bepaalde tijd verbonden beperkingen of voorschriften.   Zie paragraaf 1.12.3 van dit hoofdstuk voor de toelichting op de intrekkingsgronden. [Artikel 5.46 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) stelt dat de verblijfsvergunning voor onbepaalde tijd niet wordt ingetrokken met toepassing van [artikel 14 onder b of d WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Reden hiervoor is gelegen in de versterking van de rechtspositie van de vreemdeling die in de openbare lichamen verblijft op basis van een verblijfsvergunning voor onbepaalde tijd. Zoals uit het bovengenoemde blijkt zijn de gronden voor intrekking van de verblijfsvergunning voor bepaalde tijd en onbepaalde tijd aan elkaar gelijk afgezien van [artikel 14 onderdeel e WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). In [artikel 7, lid 9, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) staat dat geen beperkingen en voorschriften verbonden worden aan de verblijfsvergunning voor onbepaalde tijd. Daarom staat eveneens in [artikel 5.46 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) dat de verblijfsvergunning voor onbepaalde tijd niet wordt ingetrokken met toepassing van artikel 14 onder e WTU-BES.     
+e.  als de vreemdeling niet voldoet aan één of meer van de aan zijn verblijfsvergunning voor bepaalde tijd verbonden beperkingen of voorschriften.   Zie paragraaf 1.12.3 van dit hoofdstuk voor de toelichting op de intrekkingsgronden. [Artikel 5.46 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) stelt dat de verblijfsvergunning voor onbepaalde tijd niet wordt ingetrokken met toepassing van [artikel 14 onder b of d WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Reden hiervoor is gelegen in de versterking van de rechtspositie van de vreemdeling die in de openbare lichamen verblijft op basis van een verblijfsvergunning voor onbepaalde tijd. Zoals uit het bovengenoemde blijkt zijn de gronden voor intrekking van de verblijfsvergunning voor bepaalde tijd en onbepaalde tijd aan elkaar gelijk afgezien van [artikel 14 onderdeel e WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). In [artikel 7, lid 9, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) staat dat geen beperkingen en voorschriften verbonden worden aan de verblijfsvergunning voor onbepaalde tijd. Daarom staat eveneens in [artikel 5.46 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) dat de verblijfsvergunning voor onbepaalde tijd niet wordt ingetrokken met toepassing van artikel 14 onder e WTU-BES.     
 ### 3  
 
 ####Procedurele bepalingen
@@ -1948,7 +1973,7 @@ Een herhaalde aanvraag kan op grond van [artikel 8 WTU-BES](../../../../../../..
 * aanleiding geven tot heroverweging van de afwijzing van de eerste aanvraag.   Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan de aanvraag worden afgewezen onder verwijzing naar de eerdere afwijzende beschikking. De aanvrager hoeft niet in de gelegenheid te worden gesteld de aanvraag inhoudelijk dan wel procedureel aan te vullen (zie [artikel 8, tweede lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Als in het bezwaarschrift, gericht tegen de afwijzing van de herhaalde aanvraag, nieuwe feiten of omstandigheden worden aangevoerd vormt dat geen reden om het bezwaarschrift gegrond te verklaren. Deze nieuwe feiten en omstandigheden zijn immers niet aangevoerd bij de herhaalde aanvraag en doen daarom niet af aan de juistheid van de verkorte afdoening van de aanvraag. Dit kan voor de vreemdeling wel aanleiding zijn om een nieuwe aanvraag om een verblijfsvergunning in te dienen. Hiervoor moet wel opnieuw leges worden betaald. 
 ### *Verzoek om heroverweging* 
 
-Als er verzocht wordt om heroverweging van een in rechte onaantastbaar geworden beschikking wordt de vreemdeling eerst in de gelegenheid gesteld om aan de formele vereisten voor het indienen van een aanvraag te voldoen. Aan de vreemdeling wordt een termijn gegeven om het verzuim te herstellen. Als daarna nog steeds niet aan de formele vereisten wordt voldaan, kan de aanvraag buiten behandeling worden gesteld. Als de voor de aanvraag verschuldigde leges niet zijn betaald, kan de aanvraag bovendien buiten behandeling worden gesteld op grond van [artikel 7, derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Als de vreemdeling wel voldoet aan de formele vereisten voor het indienen van de aanvraag, dan is het kopje ‘ *herhaalde aanvraag’* in deze paragraaf van toepassing.   
+Als er verzocht wordt om heroverweging van een in rechte onaantastbaar geworden beschikking wordt de vreemdeling eerst in de gelegenheid gesteld om aan de formele vereisten voor het indienen van een aanvraag te voldoen. Aan de vreemdeling wordt een termijn gegeven om het verzuim te herstellen. Als daarna nog steeds niet aan de formele vereisten wordt voldaan, kan de aanvraag buiten behandeling worden gesteld. Als de voor de aanvraag verschuldigde leges niet zijn betaald, kan de aanvraag bovendien buiten behandeling worden gesteld op grond van [artikel 7, derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Als de vreemdeling wel voldoet aan de formele vereisten voor het indienen van de aanvraag, dan is het kopje ‘*herhaalde aanvraag’* in deze paragraaf van toepassing.   
 ### 3.2.1  
 
 ####De vereisten voor het indienen van de aanvraag
@@ -2160,7 +2185,7 @@ Een vergunning tot verblijf met als beperking een woonplaats, gelegen op Bonaire
 Een verklaring van verblijf van rechtswege, waarvan een vreemdeling houder is, met als beperking een woonplaats, gelegen op Bonaire, Sint Eustatius of Saba, wordt, onder handhaving van de voorwaarden waaronder de verklaring is verstrekt en de geldigheidsduur, aangemerkt als een verklaring van verblijf van rechtswege als bedoeld in de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), met dien verstande dat de daaraan verbonden voorwaarde met betrekking tot de woonplaats wordt geacht te zijn opgeheven. 
 ### *Niet van toepassing verklaring* 
 
-Een verklaring, inhoudende dat de Landsverordening toelating en uitzetting niet op de houder ervan van toepassing is, wordt, indien een vreemdeling daarvan de houder is en deze op het tijdstip van inwerkingtreding van deze wet woonplaats heeft op Bonaire, Sint Eustatius of Saba, aangemerkt als een verblijfsvergunning voor onbepaalde tijd, afgegeven op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).    
+Een verklaring, inhoudende dat de Landsverordening toelating en uitzetting niet op de houder ervan van toepassing is, wordt, indien een vreemdeling daarvan de houder is en deze op het tijdstip van inwerkingtreding van deze wet woonplaats heeft op Bonaire, Sint Eustatius of Saba, aangemerkt als een verblijfsvergunning voor onbepaalde tijd, afgegeven op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).     
 ### 3.8.2  
 
 ####In behandeling zijnde verzoeken
@@ -2184,7 +2209,7 @@ Op de behandeling van bovenstaande verzoeken blijft het recht dat gold voor het 
 
 ####Voortgezet verblijf na vijf jaar
 
-Vijf jaar na inwerkingtreding van het [BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning voor bepaalde tijd in het kader van ‘voortgezet verblijf’ (zoals opgenomen in [artikel 5.2, lid 1 sub e, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)) verleend aan de vreemdeling die: 
+Gedurende vijf jaar na inwerkingtreding van het [BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning voor bepaalde tijd in het kader van ‘voortgezet verblijf’ (zoals opgenomen in [artikel 5.2, lid 1 sub e, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)) verleend aan de vreemdeling die: 
 
 * direct voorafgaand aan het tijdstip van inwerkingtreding van dit besluit;  
 
@@ -2199,7 +2224,7 @@ Vijf jaar na inwerkingtreding van het [BTU-BES](../../../../../../../../../../..
 
 ####Verblijfsvergunning voor onbepaalde tijd na vijf jaar
 
-Vijf jaar na inwerkingtreding van het [BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning voor onbepaalde tijd (zoals opgenomen in [artikel 6 BTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)) verleend aan de vreemdeling die: 
+Gedurende vijf jaar na inwerkingtreding van het [BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning voor onbepaalde tijd (zoals opgenomen in [artikel 5.45 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)) verleend aan de vreemdeling die: 
 
 * direct voorafgaand aan het tijdstip van inwerkingtreding van dit besluit;  
 
@@ -2229,7 +2254,7 @@ Onze Minister is verantwoordelijk voor de verlening van een verblijfsvergunning 
 
 a. degene die in de uitoefening van een beroep of bedrijf een ander arbeid laat verrichten; of  
 
-b. de natuurlijke persoon die een ander huishoudelijke of persoonlijke diensten laat verrichten.   [Artikel 2, eerste lid](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), bepaalt dat het een werkgever verboden is een vreemdeling in de openbare lichamen arbeid te laten verrichten zonder TWV. De [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) voorziet in [artikel 7](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) en [8](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) in een aantal uitzonderingen op deze verbodsbepaling. Op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) wordt getoetst of aan de voorwaarden voor verlening van een verblijfsvergunning is voldaan. Op grond van de [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) wordt getoetst of aan de voorwaarden voor verlening van een TWV is voldaan door de werkgever waarvoor de vreemdeling arbeid wil gaan verrichten. De procedures die op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) moeten worden gevolgd hangen zeer nauw met elkaar samen en de beslissingen op de aanvraag om verlening van een verblijfsvergunning voor bepaalde tijd en de aanvraag om verlening van een TWV beïnvloeden elkaar. Daarom is een nauwe samenwerking tussen de diensten die deze regelingen uitvoeren van belang.    
+b. de natuurlijke persoon die een ander huishoudelijke of persoonlijke diensten laat verrichten.   [Artikel 2, eerste lid](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), bepaalt dat het een werkgever verboden is een vreemdeling in de openbare lichamen arbeid te laten verrichten zonder TWV. De [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) voorziet in [artikel 7](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) en [8](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) in een aantal uitzonderingen op deze verbodsbepaling. Op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) wordt getoetst of aan de voorwaarden voor verlening van een verblijfsvergunning is voldaan. Op grond van de [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) wordt getoetst of aan de voorwaarden voor verlening van een TWV is voldaan door de werkgever waarvoor de vreemdeling arbeid wil gaan verrichten.  De procedures die op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) moeten worden gevolgd hangen zeer nauw met elkaar samen en de beslissingen op de aanvraag om verlening van een verblijfsvergunning voor bepaalde tijd en de aanvraag om verlening van een TWV beïnvloeden elkaar. Daarom is een nauwe samenwerking tussen de diensten die deze regelingen uitvoeren van belang.     
 ### 1.2  
 
 ####Meerdere werkgevers
@@ -2323,7 +2348,7 @@ c. zijn voorzien van de gevraagde gegevens en bescheiden.
 De IND unit Caribisch Nederland stuurt de TWV-aanvraag ter behandeling door naar de SZW-BES unit. Deze voert een arbeidsmarkttoets uit en neemt een beslissing op de aanvraag om een TWV. Vervolgens wordt deze beslissing dan wel de TWV doorgestuurd naar de IND unit Caribisch Nederland. 
 ### *Behandeling aanvraag mvv/verblijfsvergunning door IND unit Caribisch Nederland* 
 
-Zodra de beslissing op de TWV-aanvraag bij de IND unit Caribisch Nederland bekend is, neemt IND unit Caribisch Nederland een beslissing op de aanvraag om een mvv of een verblijfsvergunning voor bepaalde tijd. Als de aanvraag om een TWV is afgewezen, wordt ook de aanvraag om een verblijfsvergunning afgewezen. Als de aanvraag om een TWV is ingewilligd, wordt in de regel ook de aanvraag om een mvv of verblijfsvergunning ingewilligd. Dit laatste hoeft echter niet per se het geval te zijn. Het kan voorkomen dat de aanvraag om een TWV is ingewilligd, maar dat niet aan alle voorwaarden voor verlening van een verblijfsvergunning voor bepaalde tijd wordt voldaan. *Uitzondering*: als meteen al duidelijk is dat de mvv of verblijfsvergunning moet worden geweigerd, ongeacht of er wel of geen TWV wordt verleend, wordt de aanvraag om een mvv of verblijfsvergunning direct afgewezen en wordt niet gewacht op de beslissing van SZW-BES unit op de aanvraag om een TWV. Hierbij moet met name worden gedacht aan gevallen waarin de aanvraag om een mvv of verblijfsvergunning wordt afgewezen wegens gevaar voor de openbare orde. De SZW-BES unit wordt zo snel mogelijk van de beslissing op de aanvraag om een mvv of verblijfsvergunning in kennis gesteld, vanwege de te nemen beslissing op de TWV-aanvraag. 
+Zodra de beslissing op de TWV-aanvraag bij de IND unit Caribisch Nederland bekend is, neemt IND unit Caribisch Nederland een beslissing op de aanvraag om een mvv of een verblijfsvergunning voor bepaalde tijd. Als de aanvraag om een TWV is afgewezen, wordt ook de aanvraag om een verblijfsvergunning afgewezen. Als de aanvraag om een TWV is ingewilligd, wordt in de regel ook de aanvraag om een mvv of verblijfsvergunning ingewilligd. Dit laatste hoeft echter niet per se het geval te zijn. Het kan voorkomen dat de aanvraag om een TWV is ingewilligd, maar dat niet aan alle voorwaarden voor verlening van een verblijfsvergunning voor bepaalde tijd wordt voldaan.  *Uitzondering*: als meteen al duidelijk is dat de mvv of verblijfsvergunning moet worden geweigerd, ongeacht of er wel of geen TWV wordt verleend, wordt de aanvraag om een mvv of verblijfsvergunning direct afgewezen en wordt niet gewacht op de beslissing van SZW-BES unit op de aanvraag om een TWV. Hierbij moet met name worden gedacht aan gevallen waarin de aanvraag om een mvv of verblijfsvergunning wordt afgewezen wegens gevaar voor de openbare orde. De SZW-BES unit wordt zo snel mogelijk van de beslissing op de aanvraag om een mvv of verblijfsvergunning in kennis gesteld, vanwege de te nemen beslissing op de TWV-aanvraag. 
 ### *Beslissing op aanvragen en afgifte TWV en mvv/verblijfsvergunning* 
 
 De beslissingen op de aanvragen om een TWV en om een mvv/verblijfsvergunning voor bepaalde tijd worden beide in beginsel bekendgemaakt door uitreiking in persoon van de beschikkingen aan het loket van de IND-BES. In beginsel vindt dit zoveel mogelijk gelijktijdig plaats (zie voor regels over bekendmaking van besluiten hoofdstuk 3, paragraaf 3.7.6) Als een werkgever een vreemdeling arbeid laat verrichten in de zin van de [Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), zonder dat hij in het bezit is van de vereiste TWV, wordt vermoed dat die vreemdeling gedurende tenminste zes maanden werkzaam is geweest voor die werkgever (zie [artikel 20 Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md)). Met behulp van dit rechtsvermoeden kan een vreemdeling een loonvordering instellen. Voor het doorlopen van deze procedure in de openbare lichamen wordt aan de illegale vreemdeling echter geen verblijf toegestaan.    
@@ -2343,12 +2368,12 @@ b. in geval van een relatie die reeds bestond toen beide partners nog buiten de 
 
 c. voor de uit het huwelijk of de relatie geboren minderjarige kinderen die feitelijk behoren tot het gezin;  
 
-d. voor de niet uit het huwelijk of de relatie geboren minderjarige kinderen die feitelijk behoren tot het gezin.   Aanvragen verband houdend met adoptie en opname als pleegkind worden niet gelijktijdig met de aanvraag van de hoofdaanvrager afgehandeld. Voor gezinsleden gelden daarnaast de in hoofdstuk 3 neergelegde toepasselijke voorwaarden, waaronder de voorwaarden inzake legalisatie en verificatie van documenten. Gezinsleden van arbeidsmigranten zijn niet vrij op de arbeidsmarkt. Als zij willen werken, moet de werkgever beschikken over een TWV.     
+d. voor de niet uit het huwelijk of de relatie geboren minderjarige kinderen die feitelijk behoren tot het gezin.   Aanvragen verband houdend met adoptie en opname als pleegkind worden niet gelijktijdig met de aanvraag van de hoofdaanvrager afgehandeld.  Voor gezinsleden gelden daarnaast de in hoofdstuk 3 neergelegde toepasselijke voorwaarden, waaronder de voorwaarden inzake legalisatie en verificatie van documenten.  Gezinsleden van arbeidsmigranten zijn niet vrij op de arbeidsmarkt. Als zij willen werken, moet de werkgever beschikken over een TWV.     
 ### 2.4  
 
 ####Samenhang beslissing aanvraag TWV en verblijfsvergunning
 
-Voor verblijf in de openbare lichamen verband houdend met het verrichten van arbeid in loondienst moet de werkgever van de vreemdeling beschikken over een TWV en de vreemdeling over een verblijfsvergunning. De beslissing op de aanvraag om een verblijfsvergunning voor bepaalde tijd enerzijds en de beslissing op de aanvraag om een TWV anderzijds beïnvloeden elkaar. Hoofdregel: Met de beslissing op de aanvraag om een verblijfsvergunning voor bepaalde tijd wordt gewacht totdat op de aanvraag om een TWV is beslist. Wordt de TWV verleend dan zal als regel ook de verblijfsvergunning voor bepaalde tijd worden verleend, als ook aan de overige voorwaarden wordt voldaan. Mogelijke situaties: 
+Voor verblijf in de openbare lichamen verband houdend met het verrichten van arbeid in loondienst moet de werkgever van de vreemdeling beschikken over een TWV en de vreemdeling over een verblijfsvergunning. De beslissing op de aanvraag om een verblijfsvergunning voor bepaalde tijd enerzijds en de beslissing op de aanvraag om een TWV anderzijds beïnvloeden elkaar. Hoofdregel: Met de beslissing op de aanvraag om een verblijfsvergunning voor bepaalde tijd wordt gewacht totdat op de aanvraag om een TWV is beslist. Wordt de TWV verleend dan zal als regel ook de verblijfsvergunning voor bepaalde tijd worden verleend, als ook aan de overige voorwaarden wordt voldaan.  Mogelijke situaties: 
 ### *De aanvraag om een verblijfsvergunning voor bepaalde tijd wordt afgewezen vanwege een weigeringsgrond of het niet voldoen aan een voorwaarde* 
 
 De afwijzing van de aanvraag om een verblijfsvergunning voor bepaalde tijd is een dwingende weigeringsgrond voor een TWV (zie [artikel 8, eerste lid onder e Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md)). Door, als dat mogelijk is, direct op de aanvraag om een verblijfsvergunning voor bepaalde tijd te beslissen wordt de ongewenste situatie voorkomen dat achteraf het verblijf moet worden ontzegd aan een vreemdeling, die inmiddels op grond van een aan de werkgever op diens aanvraag verleende TWV arbeid in loondienst is gaan verrichten. Er wordt direct op een aanvraag om een verblijfsvergunning voor bepaalde tijd beslist als sprake is van de weigeringsgronden van [artikel 9 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md): 
@@ -2452,7 +2477,7 @@ a. die beschikt over een door Onze Minister afgegeven verblijfsvergunning voor o
 
 b. die als huwelijkspartner of niet-huwelijkspartner duurzaam samenleeft met een Nederlander die is geboren in één van de openbare lichamen, met een Nederlander die op grond van [artikel 3 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van rechtswege toelating tot verblijf heeft in de openbare lichamen (zie [artikel 7 Besluit uitvoering Wav BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md)), dan wel een persoon die tijdens verblijf in een openbaar lichaam de Nederlandse nationaliteit heeft verkregen door optie of naturalisatie;  
 
-c. die beschikt over een door Onze Minister afgegeven verblijfsvergunning voor bepaalde tijd op grond van [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).   De verblijfsvergunning voor bepaalde tijd voor het verrichten van arbeid in loondienst kan worden verleend aan een vreemdeling die in het bezit is van een arbeidsmarktaantekening ‘arbeid vrij toegestaan; TWV niet vereist’ als hij in ieder geval voldoet aan de voorwaarden genoemd in [artikel 5.20, tweede lid, onder b, c en e, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md).      
+c. die beschikt over een door Onze Minister afgegeven verblijfsvergunning voor bepaalde tijd op grond van [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).   De verblijfsvergunning voor bepaalde tijd voor het verrichten van arbeid in loondienst kan worden verleend aan een vreemdeling die in het bezit is van een arbeidsmarktaantekening ‘arbeid vrij toegestaan; TWV niet vereist’ als hij in ieder geval voldoet aan de voorwaarden genoemd in [artikel 5.20, tweede lid, onder b, c en e, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md).       
 ### 4  
 
 ####Bijzondere categorieën vreemdelingen
@@ -2545,9 +2570,9 @@ Voor stagiaires geldt dat een aanvraag om verlenging van de geldigheidsduur van 
 
 ####Inleiding
 
-Vreemdelingen mogen als toerist in de openbare lichamen binnenkomen en er in beginsel maximaal drie maanden verblijven zonder verblijfsvergunning voor bepaalde of onbepaalde tijd (zie [artikel 4.2, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Deze periode van drie maanden is de vrije termijn. Zodra een toerist in de vrije termijn arbeid in loondienst gaat verrichten, is hij niet meer aan te merken als toerist. Hij valt dan immers niet meer onder de definitie van toerist, zoals vermeld in [artikel 1.1, onder g, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). De vrije termijn voor deze vreemdelingen bedraagt in beginsel drie maanden (zie [artikel 5a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 4.4, eerste lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Deze vreemdeling moet zich in dat geval melden bij de korpschef (zie paragraaf 4.4.2). Het is mogelijk om in de vrije termijn arbeid in loondienst te verrichten in de openbare lichamen. De werkgever zal in dat geval vaak wel moeten beschikken over een TWV voor de vreemdeling. Vreemdelingen die verblijf hebben in de vrije termijn en in die periode arbeid in loondienst verrichten zijn bijvoorbeeld: 
+Vreemdelingen mogen als toerist in de openbare lichamen binnenkomen en er in beginsel maximaal drie maanden verblijven zonder verblijfsvergunning voor bepaalde of onbepaalde tijd (zie [artikel 4.2, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Deze periode van drie maanden is de vrije termijn.  Zodra een toerist in de vrije termijn arbeid in loondienst gaat verrichten, is hij niet meer aan te merken als toerist. Hij valt dan immers niet meer onder de definitie van toerist, zoals vermeld in [artikel 1.1, onder g, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). De vrije termijn voor deze vreemdelingen bedraagt in beginsel drie maanden (zie [artikel 5a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 4.4, eerste lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Deze vreemdeling moet zich in dat geval melden bij de korpschef (zie paragraaf 4.4.2).  Het is mogelijk om in de vrije termijn arbeid in loondienst te verrichten in de openbare lichamen. De werkgever zal in dat geval vaak wel moeten beschikken over een TWV voor de vreemdeling. Vreemdelingen die verblijf hebben in de vrije termijn en in die periode arbeid in loondienst verrichten zijn bijvoorbeeld: 
 
-a. vreemdelingen die op basis van een arbeidsovereenkomst voor maximaal drie maanden in de openbare lichamen willen werken;  
+a. vreemdelingen die op basis van een arbeidsovereenkomst voor maximaal drie maanden in de openbare lichamen willen werken;   
 
 b. vreemdelingen die in de openbare lichamen een korte stage, van maximaal drie maanden of binnen de geldigheidsduur van het hun verleende visum, willen lopen;  
 
@@ -2572,10 +2597,10 @@ Dit kan onder meer aannemelijk gemaakt worden aan de hand van een arbeidsovereen
 
 ### *Visumplichtige vreemdelingen* 
 
-Visumplichtige vreemdelingen die voor maximaal drie maanden binnen een tijdvak van zes maanden arbeid in loondienst willen gaan verrichten in de openbare lichamen, moeten daarvoor eerst een visum aanvragen bij de Nederlandse vertegenwoordiging in het land van herkomst met als reisdoel arbeid. De vreemdeling dient daartoe bij de Nederlandse vertegenwoordiging een geldige TWV en een arbeidsovereenkomst te overleggen. Indien het visum wordt afgegeven moet de vreemdeling na binnenkomst in de openbare lichamen en binnen de maximaal toegestane verblijfsduur van het visum, bij de IND-BES unit een aanvraag indienen om verlening van een verblijfsvergunning voor bepaalde tijd voor het verrichten van arbeid in loondienst. Voor verlening van deze verblijfsvergunning gelden in beginsel de verblijfsvoorwaarden als vermeld in paragraaf 2.1, behalve het mvv-vereiste. Verder geldt het volledige legestarief voor een verblijfsvergunning voor bepaalde tijd voor arbeid in loondienst, zoals vermeld in [artikel 4.1, tweede lid, onder a, RTU-BES](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md). Als aan alle geldende verblijfsvoorwaarden wordt voldaan, kan de verblijfsvergunning voor bepaalde tijd voor arbeid in loondienst in dit geval worden verleend voor de duur waarvoor de TWV ten behoeve van die arbeid in verleend. Verblijf langer dan drie maanden: Als de visumplichtige vreemdeling langer dan drie maanden in de openbare lichamen wil verblijven, voor het verrichten van arbeid in loondienst of voor een ander verblijfsdoel, moet daarvoor eerst een mvv-aanvraag worden ingediend en moet de vreemdeling de uitkomst daarvan in zijn land van herkomst afwachten, tenzij hij valt onder één van de vrijstellingscategorieën van het mvv-vereiste. Na afgifte van de mvv kan hij een aanvraag indienen om verlenging van de verblijfsvergunning voor bepaalde tijd dan wel een aanvraag om wijziging van de beperking. 
+Visumplichtige vreemdelingen die voor maximaal drie maanden binnen een tijdvak van zes maanden arbeid in loondienst willen gaan verrichten in de openbare lichamen, moeten daarvoor eerst een visum aanvragen bij de Nederlandse vertegenwoordiging in het land van herkomst met als reisdoel arbeid. De vreemdeling dient daartoe bij de Nederlandse vertegenwoordiging een geldige TWV en een arbeidsovereenkomst te overleggen. Indien het visum wordt afgegeven moet de vreemdeling na binnenkomst in de openbare lichamen en binnen de maximaal toegestane verblijfsduur van het visum, bij de IND-BES unit een aanvraag indienen om verlening van een verblijfsvergunning voor bepaalde tijd voor het verrichten van arbeid in loondienst. Voor verlening van deze verblijfsvergunning gelden in beginsel de verblijfsvoorwaarden als vermeld in paragraaf 2.1, behalve het mvv-vereiste. Verder geldt het volledige legestarief voor een verblijfsvergunning voor bepaalde tijd voor arbeid in loondienst, zoals vermeld in [artikel 4.1, tweede lid, onder a, RTU-BES](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md).  Als aan alle geldende verblijfsvoorwaarden wordt voldaan, kan de verblijfsvergunning voor bepaalde tijd voor arbeid in loondienst in dit geval worden verleend voor de duur waarvoor de TWV ten behoeve van die arbeid in verleend. Verblijf langer dan drie maanden: Als de visumplichtige vreemdeling langer dan drie maanden in de openbare lichamen wil verblijven, voor het verrichten van arbeid in loondienst of voor een ander verblijfsdoel, moet daarvoor eerst een mvv-aanvraag worden ingediend en moet de vreemdeling de uitkomst daarvan in zijn land van herkomst afwachten, tenzij hij valt onder één van de vrijstellingscategorieën van het mvv-vereiste. Na afgifte van de mvv kan hij een aanvraag indienen om verlenging van de verblijfsvergunning voor bepaalde tijd dan wel een aanvraag om wijziging van de beperking.  
 ### *Niet-visumplichtige vreemdelingen en Nederlanders* 
 
-Niet-visumplichtige vreemdelingen en Nederlanders die op basis van een arbeidsovereenkomst voor maximaal drie maanden in de openbare lichamen arbeid in loondienst willen verrichten, hebben een vrije termijn van drie maanden binnen een tijdvak van zes maanden (zie [artikel 4.4, eerste lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Binnen deze termijn hoeven zij niet in het bezit te zijn van een verblijfsvergunning voor bepaalde tijd dan wel van een verklaring waaruit blijkt dat men toelating van rechtswege heeft. Ook geldt voor hen geen meldplicht, als zij aannemelijk kunnen maken dat zij naar de openbare lichamen zijn gekomen om arbeid te verrichten voor een periode van maximaal drie maanden, te rekenen vanaf hun binnenkomst (zie paragraaf 4.4.2). In het geval van de niet-visumplichtige vreemdelingen zal de werkgever in beginsel wel in het bezit moeten zijn van een geldige TWV voor deze arbeid. Als een Nederlander gedurende zijn verblijf als toerist in de vrije termijn van zes maanden besluit om arbeid in loondienst te gaan verrichten, is op hem niet langer [artikel 4.2, derde lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) van toepassing en bedraagt zijn vrije termijn vanaf dat moment drie maanden, te rekenen vanaf datum binnenkomst in de openbare lichamen. Als de vrije termijn van drie maanden op dat moment al is verstreken, moet de Nederlander binnen acht dagen nadat hij arbeid is gaan verrichten, een verklaring aanvragen waaruit zijn toelating van rechtswege op grond van [artikel 3 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) blijkt (zie [artikel 4.4, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Verblijf langer dan drie maanden: Als de niet-visumplichtige vreemdeling langer dan drie maanden in de openbare lichamen wil verblijven, voor het verrichten van arbeid in loondienst dan wel voor een ander verblijfsdoel, moet hij daarvoor een verblijfsvergunning voor bepaalde tijd aanvragen. Voor mvv-plichtige vreemdelingen die na drie maanden arbeid op basis van een arbeidsovereenkomst voor korte duur langer in de openbare lichamen willen verblijven, geldt nu wel het mvv-vereiste, tenzij men valt onder één van de vrijstellingscategorieën van het mvv-vereiste. Voor mvv-plichtige vreemdelingen dient nu eerst een mvv-aanvraag ingediend te worden, De uitkomst daarvan moet de vreemdeling in zijn land van herkomst afwachten. Dit om te voorkomen dat met het verblijf voor kortdurende arbeid het mvv-vereiste wordt omzeild. Nederlanders die na drie maanden arbeid op basis van een arbeidsovereenkomst voor korte duur langer in de openbare lichamen willen verblijven, moeten daarvoor een verklaring aanvragen waaruit blijkt dat zij toelating van rechtswege hebben op grond van [artikel 3 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).    
+Niet-visumplichtige vreemdelingen en Nederlanders die op basis van een arbeidsovereenkomst voor maximaal drie maanden in de openbare lichamen arbeid in loondienst willen verrichten, hebben een vrije termijn van drie maanden binnen een tijdvak van zes maanden (zie [artikel 4.4, eerste lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Binnen deze termijn hoeven zij niet in het bezit te zijn van een verblijfsvergunning voor bepaalde tijd dan wel van een verklaring waaruit blijkt dat men toelating van rechtswege heeft. Ook geldt voor hen geen meldplicht, als zij aannemelijk kunnen maken dat zij naar de openbare lichamen zijn gekomen om arbeid te verrichten voor een periode van maximaal drie maanden, te rekenen vanaf hun binnenkomst (zie paragraaf 4.4.2). In het geval van de niet-visumplichtige vreemdelingen zal de werkgever in beginsel wel in het bezit moeten zijn van een geldige TWV voor deze arbeid.  Als een Nederlander gedurende zijn verblijf als toerist in de vrije termijn van zes maanden besluit om arbeid in loondienst te gaan verrichten, is op hem niet langer [artikel 4.2, derde lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) van toepassing en bedraagt zijn vrije termijn vanaf dat moment drie maanden, te rekenen vanaf datum binnenkomst in de openbare lichamen. Als de vrije termijn van drie maanden op dat moment al is verstreken, moet de Nederlander binnen acht dagen nadat hij arbeid is gaan verrichten, een verklaring aanvragen waaruit zijn toelating van rechtswege op grond van [artikel 3 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) blijkt (zie [artikel 4.4, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Verblijf langer dan drie maanden: Als de niet-visumplichtige vreemdeling langer dan drie maanden in de openbare lichamen wil verblijven, voor het verrichten van arbeid in loondienst dan wel voor een ander verblijfsdoel, moet hij daarvoor een verblijfsvergunning voor bepaalde tijd aanvragen. Voor mvv-plichtige vreemdelingen die na drie maanden arbeid op basis van een arbeidsovereenkomst voor korte duur langer in de openbare lichamen willen verblijven, geldt nu wel het mvv-vereiste, tenzij men valt onder één van de vrijstellingscategorieën van het mvv-vereiste. Voor mvv-plichtige vreemdelingen dient nu eerst een mvv-aanvraag ingediend te worden, De uitkomst daarvan moet de vreemdeling in zijn land van herkomst afwachten. Dit om te voorkomen dat met het verblijf voor kortdurende arbeid het mvv-vereiste wordt omzeild. Nederlanders die na drie maanden arbeid op basis van een arbeidsovereenkomst voor korte duur langer in de openbare lichamen willen verblijven, moeten daarvoor een verklaring aanvragen waaruit blijkt dat zij toelating van rechtswege hebben op grond van [artikel 3 van de WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).    
 ### 4.4.4  
 
 ####Grensarbeiders
@@ -2601,16 +2626,32 @@ d. maximaal acht dagen (zie [artikel 4.4, eerste lid, onder d, BTU-BES](../../..
 e. geldige TWV.   
 ### *Ad c Voorwaarden tot het stellen van zekerheid* 
 
-Beleidsregel: De zekerheid bestaat uit het overleggen van een verklaring van een solvabele derde die zich voor de kosten garant stelt (zie [artikel 3.9, tweede lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). In dit geval moet deze verklaring door de werkgever worden ondertekend. Van de overige in artikel 3.9, tweede lid, BTU-BES genoemde zekerheidstellingen wordt in beginsel geen gebruik gemaakt. 
+De zekerheid bestaat uit het overleggen van een verklaring van een solvabele derde die zich voor de kosten garant stelt (zie [artikel 3.9, tweede lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). In dit geval moet deze verklaring door de werkgever worden ondertekend. Van de overige in artikel 3.9, tweede lid, BTU-BES genoemde zekerheidstellingen wordt in beginsel geen gebruik gemaakt. 
 ### *Ad d Maximaal acht dagen* 
 
-De vreemdeling dient steeds binnen acht dagen terug te reizen naar zijn land van herkomst, aangezien zijn vrije termijn maximaal acht dagen is. 
+De vreemdeling moet steeds binnen acht dagen terug reizen naar zijn land van herkomst, omdat zijn vrije termijn maximaal acht dagen is. 
 ### *Ad e TWV-plicht* 
 
-De werkgever moet in beginsel in het bezit zijn van een TWV (behoudens uitzonderingen genoemd in [artikel 3 Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) en de [artikelen 7](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md) en [8 Besluit uitvoering Wav BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md)). Voor de verlening van de TWV voor arbeid voor maximaal 12 weken moet de vreemdeling in het bezit zijn van een bewijs van rechtmatig verblijf. Met het oog daarop kan de vreemdeling zich melden bij de IND unit Caribisch Nederland, die hem een verklaring afgeeft als aan de daarvoor geldende voorwaarden wordt voldaan (zie [artikel 3, derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). 
+De werkgever moet in beginsel in het bezit zijn van een TWV (behoudens uitzonderingen genoemd in [artikel 3 Wav BES](../../../../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) en de [artikelen 7](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md) en [8 Besluit uitvoering Wav BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md)). Voor de verlening van de TWV voor arbeid voor maximaal 12 weken moet de vreemdeling in het bezit zijn van een bewijs van rechtmatig verblijf. Met het oog daarop kan de vreemdeling zich melden bij de IND-unit Caribisch Nederland, die hem een verklaring afgeeft als aan de daarvoor geldende voorwaarden wordt voldaan (zie [artikel 3, derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). 
 ### *Geen TWV-plicht* 
 
-De TWV-plicht voor de werkgever geldt niet als het gaat om een vreemdeling die zijn hoofdverblijf heeft buiten de openbare lichamen en die gedurende maximaal 4 weken incidentele arbeid verricht die uitsluitend bestaat uit werkzaamheden genoemd in [artikel 8, onder a, sub 1 tot en met 5, Besluit uitvoering Wav BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md). Als deze vreemdelingen echter niet onder de omschrijving van artikel 8, onder a, Besluit uitvoering Wav BES vallen, moet de werkgever wel in het bezit zijn van een TWV.      
+De TWV-plicht voor de werkgever geldt niet in het volgende geval: 
+
+* de vreemdeling heeft zijn hoofdverblijf buiten de openbare lichamen; en  
+
+* verricht gedurende maximaal 4 aaneengesloten weken in een periode van 13 weken incidentele arbeid; en  
+
+* de incidentele arbeid bestaat uitsluitend uit werkzaamheden genoemd in [artikel 8, onder a, sub 1 tot en met 5, Besluit uitvoering Wav BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md)., namelijk: 
+
+1. het werkzaam zijn in de huishouding van toeristen, indien deze vreemdeling ook al werkzaam is in de huishouding van de desbetreffende toeristen in het land van herkomst;  
+
+2. het monteren of repareren van door zijn buiten de openbare lichamen gevestigde werkgever geleverde machines of apparatuur, dan wel het installeren en aanpassen van door zijn buiten de openbare lichamen gevestigde werkgever geleverde software of het instrueren over het gebruik daarvan;  
+
+3. het werkzaam zijn als artiest, musicus of beeldend kunstenaar;  
+
+4. het werkzaam zijn als accountant, olie-inspecteur, advocaat, bankier of als technicus telecommunicatie in dienst van een werkgever die is gevestigd het buiten het openbaar lichaam waar de werkzaamheden worden verricht;  
+
+5. het voeren van zakelijke besprekingen.     Als deze vreemdelingen echter niet onder de omschrijving van [artikel 8, onder a, Besluit uitvoering Wav BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md) vallen, moet de werkgever wel in het bezit zijn van een TWV.      
 ### 4.5  
 
 ####Van rechtswege toegelaten vreemdelingen
@@ -3001,7 +3042,7 @@ De vreemdeling die:
 
 a. mvv-plichtig is; en  
 
-b. die verblijf beoogt in de openbare lichamen voor het volgen van een studie,   moet een aanvraag om een mvv indienen, terwijl hij nog verblijft in zijn land van herkomst of bestendig verblijf. De vreemdeling moet de beslissing op de aanvraag om een mvv ook daar afwachten en niet, vooruitlopend op die beslissing, de openbare lichamen inreizen. De vreemdeling kan dus niet met een studie starten in de openbare lichamen voordat de IND unit Caribisch Nederland positief op de aanvraag om een mvv heeft beslist. Als een mvv-plichtige vreemdeling in de openbare lichamen verblijft zonder dat hij een geldige mvv heeft en hij gedurende zijn verblijf in de vrije termijn een aanvraag indient om een verblijfsvergunning voor bepaalde tijd voor het volgen van een studie, dan verstrijkt de vrije termijn op de achtste dag na het indienen van die aanvraag (zie [artikel 5a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 4.4, eerste lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Als een mvv-plichtige vreemdeling in de openbare lichamen verblijft zonder dat hij een geldige mvv heeft en er doen zich andere omstandigheden voor, waaruit kan worden afgeleid dat hij het voornemen heeft langer dan drie maanden in de openbare lichamen te verblijven, dan verstrijkt de vrije termijn uiterlijk op de achtste dag nadat deze omstandigheden zich hebben voorgedaan (zie [artikel 4.4, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Dit is bijvoorbeeld het geval bij inschrijving gedurende de vrije termijn als student bij een onderwijsinstelling voor een studie die langer dan drie maanden duurt. Het starten van een studie in de vrije termijn zonder in het bezit te zijn van een geldige mvv heeft dus 2 gevolgen: 
+b. die verblijf beoogt in de openbare lichamen voor het volgen van een studie,   moet een aanvraag om een mvv indienen, terwijl hij nog verblijft in zijn land van herkomst of bestendig verblijf. De vreemdeling moet de beslissing op de aanvraag om een mvv ook daar afwachten en niet, vooruitlopend op die beslissing, de openbare lichamen inreizen. De vreemdeling kan dus niet met een studie starten in de openbare lichamen voordat de IND-unit Caribisch Nederland positief op de aanvraag om een mvv heeft beslist. Als een mvv-plichtige vreemdeling in de openbare lichamen verblijft zonder dat hij een geldige mvv heeft en hij gedurende zijn verblijf in de vrije termijn een aanvraag indient om een verblijfsvergunning voor bepaalde tijd voor het volgen van een studie, dan verstrijkt de vrije termijn op de achtste dag na het indienen van die aanvraag (zie [artikel 5a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 4.4, eerste lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Als een mvv-plichtige vreemdeling in de openbare lichamen verblijft zonder dat hij een geldige mvv heeft en er doen zich andere omstandigheden voor, waaruit kan worden afgeleid dat hij het voornemen heeft langer dan drie maanden in de openbare lichamen te verblijven, dan verstrijkt de vrije termijn uiterlijk op de achtste dag nadat deze omstandigheden zich hebben voorgedaan (zie [artikel 4.4, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Dit is bijvoorbeeld het geval bij inschrijving gedurende de vrije termijn als student bij een onderwijsinstelling voor een studie die langer dan drie maanden duurt. Het starten van een studie in de vrije termijn zonder in het bezit te zijn van een geldige mvv heeft dus twee gevolgen: 
 
 1. de vrije termijn eindigt;  
 
@@ -3012,7 +3053,7 @@ De niet mvv-plichtige vreemdeling kan wel gedurende zijn verblijf in de vrije te
 
 a. dat de vrije termijn eindigt op de achtste dag na het indienen van de aanvraag; of  
 
-b. nadat zich andere omstandigheden hebben voorgedaan waaruit blijkt dat de vreemdeling het voornemen heeft langer dan drie maanden in de openbare lichamen te verblijven.   Deze aanvraag wordt in elk geval niet afgewezen wegens het ontbreken van een geldige mvv. Bovendien heeft het indienen van de aanvraag om verlening van de verblijfsvergunning voor bepaalde tijd in dit geval in beginsel tot gevolg dat de uitzetting achterwege blijft (zie [artikel 5.1, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). De vreemdeling kan gedurende de periode dat de aanvraag in behandeling is, een document vragen bij de IND BES unit, waarin een aantekening is gemaakt omtrent de verblijfsrechtelijke positie.    
+b. nadat zich andere omstandigheden hebben voorgedaan waaruit blijkt dat de vreemdeling het voornemen heeft langer dan drie maanden in de openbare lichamen te verblijven.   Deze aanvraag wordt in elk geval niet afgewezen wegens het ontbreken van een geldige mvv. Bovendien heeft het indienen van de aanvraag om verlening van de verblijfsvergunning voor bepaalde tijd in dit geval in beginsel tot gevolg dat de uitzetting achterwege blijft (zie [artikel 5.1, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). De vreemdeling kan gedurende de periode dat de aanvraag in behandeling is, een document vragen bij de IND-unit Caribisch Nederland, waarin een aantekening is gemaakt over de verblijfsrechtelijke positie.    
 ### 4  
 
 ####Verblijfsvoorwaarden
@@ -3021,11 +3062,11 @@ a. geldige mvv (zie [artikel 9, eerste lid, onder a, en derde lid, WTU-BES](../.
 
 b. geldig document voor grensoverschrijding (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.31 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
-c. zelfstandige en duurzaam beschikken over voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder b en c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.32 tot en met 5.34 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+c. zelfstandig en duurzaam beschikken over voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder b en c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en artikel [5.32 tot en met 5.34 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
 d. geen gevaar voor de openbare orde en de nationale veiligheid (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
 
-e. bereidheid een onderzoek naar of behandeling voor TBC te ondergaan en daaraan mee te werken (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.35 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+e. (indien van toepassing) bereidheid een onderzoek naar of behandeling voor TBC te ondergaan en daaraan mee te werken (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.35 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
 f. (voorlopige) inschrijving als voltijdstudent aan een in de CTU-BES genoemde onderwijsinstelling voor hoger onderwijs (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
 
@@ -3050,17 +3091,17 @@ Middelen van bestaan kunnen dan bijvoorbeeld zijn:
 
 3. een geldelijke bijdrage van een familielid of andere persoon in het land van herkomst van de vreemdeling;  
 
-4. een geldbedrag (bijvoorbeeld spaargeld) op een bankrekening van de vreemdeling zelf.   Let op: De vreemdeling die een aanvraag om een verblijfsvergunning voor bepaalde tijd voor studie heeft ingediend of die in het bezit is van deze vergunning, mag zijn studie niet bekostigen door het verrichten van arbeid in loondienst of als zelfstandige. Hij mag wel arbeid verrichten van bijkomstige aard. Zie hiervoor hoofdstuk 3 / 7. De geldelijke bijdrage (het bruto-inkomen) die de vreemdeling per maand ontvangt moet tenminste gelijk zijn aan USD 559 per maand, aangevuld met college- of lesgelden. Als de vreemdeling een bedrag ineens ontvangt voor het gehele studiejaar, moet dit bedrag tenminste gelijk zijn aan 12 x USD 559 + college- of lesgeld. 
+4. een geldbedrag (bijvoorbeeld spaargeld) op een bankrekening van de vreemdeling zelf.   Let op: De vreemdeling die een aanvraag om een verblijfsvergunning voor bepaalde tijd voor studie heeft ingediend of die in het bezit is van deze vergunning, mag zijn studie niet bekostigen door het verrichten van arbeid in loondienst of als zelfstandige. Hij mag wel arbeid verrichten van bijkomstige aard. Zie hiervoor hoofdstuk 3/7. De geldelijke bijdrage (het bruto-inkomen) die de vreemdeling per maand ontvangt moet tenminste gelijk zijn aan USD 559 per maand, aangevuld met college- of lesgelden. Als de vreemdeling een bedrag ineens ontvangt voor het gehele studiejaar, moet dit bedrag tenminste gelijk zijn aan 12 x USD 559 + college- of lesgeld.
 ### *Voorbeeld* 
 
-Vincent wil op Saba studeren en heeft een verblijfsvergunning voor bepaalde tijd voor studie aangevraagd. Hij krijgt een studiebeurs van een organisatie uit de Verenigde Staten. Deze betaalt de beurs per jaar in zijn geheel uit aan het begin van het studiejaar op de bankrekening van Vincent in de Verenigde Staten. Deze beurs bedraagt voor het eerste studiejaar in totaal USD 25.000. Het collegegeld is USD 15.600 voor het eerste studiejaar (USD 7.800 per semester). Het bruto-inkomen van Vincent moet gelijk zijn aan 12 x USD 559 + USD 15.600 = USD 22.308. Zijn beurs is USD 25.000. Het bruto-inkomen van Vincent, aangevuld met college- of lesgeld, is dus in dit geval voldoende. 
+Vincent wil op Saba studeren en heeft een verblijfsvergunning voor bepaalde tijd voor studie aangevraagd. Hij krijgt een studiebeurs van een organisatie uit de Verenigde Staten. Deze betaalt de beurs per jaar in zijn geheel uit aan het begin van het studiejaar op de bankrekening van Vincent in de Verenigde Staten. Deze beurs bedraagt voor het eerste studiejaar in totaal USD 25.000. Het collegegeld is USD 15.600 voor het eerste studiejaar (USD 7.800 per semester). Het bruto-inkomen van Vincent moet gelijk zijn aan 12 x USD 559 + USD 15.600 = USD 22.308. Zijn beurs is USD 25.000. Het bruto-inkomen van Vincent, aangevuld met college- of lesgeld, is dus in dit geval voldoende. 
 ### *Ad b. Bekostiging door een in de openbare lichamen gevestigde persoon of instelling/organisatie* 
 
 Middelen van bestaan kunnen dan bijvoorbeeld zijn: 
 
 1. een geldelijke bijdrage van een in de openbare lichamen gevestigd bedrijf;  
 
-2. een geldelijke bijdrage van een in de openbare lichamen gevestigd familielid of andere persoon.   De vreemdeling moet aantonen dat de financiële positie van deze (rechts)persoon toereikend is om de studie, het levensonderhoud en het college- of lesgeld te kunnen bekostigen. Toereikend wil zeggen dat de financier over voldoende middelen van bestaan moet beschikken om in zijn eigen onderhoud (en eventueel in dat van zijn gezin) en dat van de vreemdeling te kunnen voorzien. Dit betekent dat het bruto-inkomen van de financier op maandbasis tenminste gelijk moeten zijn aan de norm als genoemd in hoofdstuk 3, paragraaf 1.9.3.3 + USD 559 + college- of lesgeld (omgerekend naar een maandbedrag). De financier moet daarnaast een garantverklaring ondertekenen (zie model MBES26 CTU-BES). De garantverklaring kan niet worden ondertekend door de onderwijsinstelling zelf. Deze zal immers niet de financier zijn van de studie en het levensonderhoud van de vreemdeling. Bij de berekening van het bruto-inkomen van de in de openbare lichamen gevestigde persoon kan in bepaalde gevallen het inkomen van de echtgenoot of (geregistreerd) partner worden meegeteld. Zie hiervoor de regels in hoofdstuk 3, paragraaf 1.9.3.1), De garantverklaring moet dan ook door de echtgenoot of (geregistreerd) partner worden ondertekend. 
+2. een geldelijke bijdrage van een in de openbare lichamen gevestigd familielid of andere persoon.   De vreemdeling moet aantonen dat de financiële positie van deze (rechts)persoon toereikend is om de studie, het levensonderhoud en het college- of lesgeld te kunnen bekostigen. Toereikend wil zeggen dat de financier over voldoende middelen van bestaan moet beschikken om in zijn eigen onderhoud (en eventueel in dat van zijn gezin) en dat van de vreemdeling te kunnen voorzien. Dit betekent dat het bruto-inkomen van de financier op maandbasis tenminste gelijk moeten zijn aan de norm als genoemd in hoofdstuk 3, paragraaf 1.9.3.3 + USD 559 + college- of lesgeld (omgerekend naar een maandbedrag). De financier moet daarnaast een garantverklaring ondertekenen (zie model MBES26). De garantverklaring kan niet worden ondertekend door de onderwijsinstelling zelf. Deze zal immers niet de financier zijn van de studie en het levensonderhoud van de vreemdeling. Bij de berekening van het bruto-inkomen van de in de openbare lichamen gevestigde persoon kan in bepaalde gevallen het inkomen van de echtgenoot of (geregistreerd) partner worden meegeteld. Zie hiervoor de regels in hoofdstuk 3, paragraaf 1.9.3.1), De garantverklaring moet dan ook door de echtgenoot of (geregistreerd) partner worden ondertekend. 
 ### *Zelfstandige middelen van bestaan* 
 
 [Artikel 5.32, eerste lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) bepaalt welke inkomensbronnen in ieder geval zelfstandig zijn. Daarnaast kunnen middelen van bestaan ook zelfstandig zijn als ze afkomstig zijn uit andere inkomensbronnen dan genoemd in artikel 5.32, eerste lid, BTU-BES. Middelen van bestaan die afkomstig zijn uit de in onder ad c en d genoemde inkomensbronnen zijn zelfstandige middelen van bestaan. 
@@ -3076,18 +3117,16 @@ b. door een geldbedrag op een (buitenlandse) bankrekening.
 Bekostiging door periodieke betalingen kunnen afkomstig zijn van zowel een buiten als binnen de openbare lichamen gevestigde persoon of instelling. Deze middelen zijn duurzaam als door de vreemdeling voldoende zekerheid is verschaft over het ongestoorde verloop van de periodieke geldstroom aan de hand van een verklaring van een bank. 
 ### *Ad b. Geld op een (buitenlandse) bankrekening* 
 
-Als de student beschikt over een bedrag op een (buitenlandse) bankrekening, moet dit bedrag minimaal gelijk zijn aan USD 559 x 12 maanden (of zoveel minder als de daadwerkelijke duur van het verblijf) + het verschuldigde college- of lesgeld. Het geld dat op de (buitenlandse) bankrekening is gestort, hoeft niet afkomstig te zijn van de student zelf. Voorwaarde is wel dat de bankrekening uitsluitend op naam van de student is gesteld. 
+Als de student beschikt over een bedrag op een (buitenlandse) bankrekening, moet dit bedrag minimaal gelijk zijn aan USD 559 x 12 maanden (of zoveel minder als de daadwerkelijke duur van het verblijf) + het verschuldigde college- of lesgeld. Het geld dat op de (buitenlandse) bankrekening is gestort, hoeft niet afkomstig te zijn van de student zelf. Voorwaarde is wel dat de bankrekening uitsluitend op naam van de student is gesteld. 
 ### *Ad f. (Voorlopige) inschrijving aan een in de CTU-BES genoemde onderwijsinstelling* 
 
 Onderwijsinstellingen: De verblijfsvergunning kan worden verleend als sprake is van (voorlopige) inschrijving aan één van de volgende onderwijsinstellingen die voltijds hoger onderwijs aanbieden: 
 
-1. Xavier University School of Medicine Foundation (Bonaire);  
+1. Saint James School of Medicine (Bonaire);  
 
-2. University of St. Eustatius (St. Eustatius);  
+2. International University School of Medicine Foundation (Bonaire);  
 
-3. University of St. Eustatius (St. Eustatius);  
-
-4. Saba University (Saba).   Saba University (Saba). De verblijfsvergunning kan ook worden verleend als sprake is van (voorlopige) inschrijving aan een onderwijsinstelling die voltijds hoger onderwijs aanbiedt en die voldoet aan de voorwaarden van de overgangsregeling van het Ministerie van Onderwijs, Cultuur en Wetenschap betreffende de verkrijging van de status van rechtspersoon voor hoger onderwijs. (Voorlopige) inschrijving: De vreemdeling moet aantonen dat hij voor een studie aan één van de hiervoor genoemde in de openbare lichamen gevestigde onderwijsinstellingen voor voltijds hoger onderwijs is of zal worden ingeschreven. Dit kan hij aantonen door een verklaring te overleggen die is afgegeven door het College van Bestuur of het bevoegd gezag van de onderwijsinstelling. 
+3. Saba University (Saba).   De verblijfsvergunning kan ook worden verleend als sprake is van (voorlopige) inschrijving aan een onderwijsinstelling die voltijds hoger onderwijs aanbiedt en die voldoet aan de voorwaarden van de overgangsregeling van het Ministerie van Onderwijs, Cultuur en Wetenschap betreffende de verkrijging van de status van rechtspersoon voor hoger onderwijs. (Voorlopige) inschrijving: De vreemdeling moet aantonen dat hij voor een studie aan één van de hiervoor genoemde in de openbare lichamen gevestigde onderwijsinstellingen voor voltijds hoger onderwijs is of zal worden ingeschreven. Dit kan hij aantonen door een verklaring te overleggen die is afgegeven door het College van Bestuur of het bevoegd gezag van de onderwijsinstelling. 
 ### *Ad g Schriftelijke verklaring van tijdelijk verblijf (studentenverklaring)* 
 
 Een verblijfsvergunning voor bepaalde tijd voor het volgen van een studie is tijdelijk (zie [artikel 5.3, tweede lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Dit betekent dat de vreemdeling die een verblijfsvergunning voor studie heeft, bij tussentijdse beëindiging van de studie of als de studie niet tijdig (dus niet binnen de maximale verblijfsduur) is afgerond, de openbare lichamen moet verlaten. De vreemdeling moet een verklaring ondertekenen dat hij ermee bekend is dat hij alleen voor het verblijfsdoel studie in de openbare lichamen mag verblijven. Voor vreemdelingen met een verblijfsvergunning voor bepaalde tijd voor studie geldt een maximale verblijfsduur. De maximale verblijfsduur is afhankelijk van de studielast van de studie die wordt gevolgd en bedraagt één jaar meer dan die studielast. Als de vreemdeling de studie niet binnen de maximale verblijfsduur afrondt, is sprake van onvoldoende studievoortgang. In dat geval wordt de verblijfsvergunning niet verlengd en komt de vreemdeling ook niet in aanmerking voor een verblijfsvergunning voor het volgen van een andere studie. 
@@ -3106,13 +3145,13 @@ Jason, van Canadese nationaliteit, rondt binnen de maximale verblijfsduur zijn m
 
 a. ingevuld en ondertekend aanvraagformulier;  
 
-b. kopie geldig document voor grensoverschrijding, indien nodig voorzien van een geldige mvv welke is afgegeven voor het gevraagde verblijfsdoel;  
+b. kopie geldig paspoort, indien nodig voorzien van een geldige mvv welke is afgegeven voor het gevraagde verblijfsdoel;  
 
 c. bewijs van zelfstandige, duurzame en voldoende middelen van bestaan. Te weten: 
 
-1. een verklaring van een bank dat er maandelijks een bedrag tenminste gelijk aan USD 559 + 1/12 deel van het verschuldigde college- of lesgeld, zal worden overgemaakt op een ten name van de vreemdeling gestelde (buitenlandse) bankrekening; of  
+1. een verklaring van een bank dat er maandelijks een bedrag tenminste gelijk aan USD 559 + 1/12 deel van het verschuldigde college- of lesgeld, zal worden overgemaakt op een ten name van de vreemdeling gestelde (buitenlandse) bankrekening; of  
 
-2. een verklaring van een bank dat er op een ten name van de vreemdeling gestelde (buitenlandse) bankrekening een bedrag beschikbaar is, dat tenminste gelijk is aan USD 559 x 12 maanden (of zoveel minder als het aantal maanden dat de voorgenomen studie in de openbare lichamen zal duren) + het verschuldigde college- of lesgeld; en  
+2. een verklaring van een bank dat er op een ten name van de vreemdeling gestelde (buitenlandse) bankrekening een bedrag beschikbaar is, dat tenminste gelijk is aan USD 559 x 12 maanden (of zoveel minder als het aantal maanden dat de voorgenomen studie in de openbare lichamen zal duren) + het verschuldigde college- of lesgeld; en  
 
 3. bij bekostiging door een in de openbare lichamen gevestigde persoon of instelling/organisatie: bijgevoegde garantverklaring volledig ingevuld en ondertekend door de lokale garantsteller (betreffende persoon of instelling/organisatie die de studie bekostigt), samen met een bewijs van de Belastingdienst inzake het vastgesteld belastbaar inkomen van de garantsteller en zijn eventuele echtgenoot of (geregistreerd) partner.    
 
@@ -3122,9 +3161,9 @@ e. ondertekende bewustverklaring tijdelijk verblijfsrecht;
 
 f. ondertekende antecedentenverklaring (geïntegreerd in het aanvraagformulier);  
 
-g. bewijs van goed gedrag (niet ouder dan 3 maanden);  
+g. gelegaliseerde verklaring van goed gedrag, afgegeven door een bevoegde autoriteit in het land van herkomst (niet ouder dan drie maanden op het moment van de aanvraag);  
 
-h. bewijs onderzoek TBC;  
+h. (indien van toepassing) bewijs onderzoek TBC;  
 
 i. kopie bewijs ziektekostenverzekering;  
 
@@ -3152,7 +3191,7 @@ Op de verblijfsvergunning staat de aantekening: ‘arbeid niet toegestaan met ui
 
 a. De verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of psychiatrische inrichting;  
 
-b. Een door de onderwijsinstelling ondertekende schriftelijke garantstelling.   De schriftelijke garantstelling door de onderwijsinstelling (MBES28 CTU-BES) is hier een voorschrift tot het stellen van zekerheid als bedoeld in [artikel 5.4, eerste lid, onder b, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). De schriftelijke garantstelling (MBES26 CTU-BES) genoemd in paragraaf 3, onder c, sub 1 dient om aan te tonen dat wordt voldaan aan het middelenvereiste.     
+b. Een door de onderwijsinstelling ondertekende schriftelijke garantstelling.   De schriftelijke garantstelling door de onderwijsinstelling is hier een voorschrift tot het stellen van zekerheid als bedoeld in [artikel 5.4, eerste lid, onder b, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md). De schriftelijke garantverklaring genoemd in paragraaf 3, onder c, sub 1 dient om aan te tonen dat wordt voldaan aan het middelenvereiste.     
 ### 7  
 
 ####Het verrichten van arbeid
@@ -3167,10 +3206,10 @@ Een vreemdeling die in het bezit is van een verblijfsvergunning voor bepaalde ti
 
 ####Gezinshereniging
 
-Beleidsregel: Aan de echtgeno(o)t(e) of (geregistreerde) partner en de minderjarige kinderen van de student kan een verblijfsvergunning voor bepaalde tijd verband houdend met gezinshereniging worden verleend, mits wordt voldaan aan de voor die beperking geldende voorwaarden, met uitzondering van de voorwaarde die betrekking heeft op het niet-tijdelijk verblijf van de hoofdpersoon (zie [artikel 5.9, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Het verblijfsrecht van de hoofdpersoon/student is tijdelijk (zie [artikel 5.3, tweede lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). [Artikel 5.9, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en bovenstaande beleidsregel maken het mogelijk dat ook in dat geval een verblijfsvergunning voor bepaalde tijd verband houdend met gezinshereniging kan worden verleend. Voor de overige verblijfsvoorwaarden en de vereiste bescheiden wordt verwezen hoofdstuk 11 CTU-BES. 
+Aan de echtgeno(o)t(e) of (geregistreerde) partner en de minderjarige kinderen van de student kan een verblijfsvergunning voor bepaalde tijd verband houdend met gezinshereniging worden verleend, mits wordt voldaan aan de voor die beperking geldende voorwaarden, met uitzondering van de voorwaarde die betrekking heeft op het niet-tijdelijk verblijf van de hoofdpersoon (zie [artikel 5.9, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Het verblijfsrecht van de hoofdpersoon/student is tijdelijk (zie [artikel 5.3, tweede lid, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). [Artikel 5.9, tweede lid, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en bovenstaande beleidsregel maken het mogelijk dat ook in dat geval een verblijfsvergunning voor bepaalde tijd verband houdend met gezinshereniging kan worden verleend. Voor de overige verblijfsvoorwaarden en de vereiste bescheiden wordt verwezen hoofdstuk 11 CTU-BES. 
 ### *Middelenvereiste* 
 
-In geval van gezinshereniging bij een student zijn de middelen voldoende als wordt beschikt over het in hoofdstuk 3, paragraaf 1.9.3.3. genoemde normbedrag voor gezinshereniging in plaats van de in paragraaf 4 genoemde USD 559. Deze bedragen moeten dus niet bij elkaar opgeteld worden. Wel moet de student daarnaast voor zijn verblijfsrecht als student nog beschikken over middelen ter hoogte van het bedrag van het verschuldigde college- of lesgeld.    
+In geval van gezinshereniging bij een student zijn de middelen voldoende als wordt beschikt over het in hoofdstuk 3, paragraaf 1.9.3.3. genoemde normbedrag voor gezinshereniging in plaats van de in paragraaf 4 genoemde USD 559. Deze bedragen moeten dus niet bij elkaar opgeteld worden. Wel moet de student daarnaast voor zijn verblijfsrecht als student nog beschikken over middelen ter hoogte van het bedrag van het verschuldigde college- of lesgeld.    
 ### 9  
 
 ####Verandering van opleiding of onderwijsinstelling
@@ -3192,26 +3231,29 @@ Het volgen van een studie/opleiding is primair gericht op voltooiing ervan. Daar
 
 ####Inleiding
 
-De verblijfsvergunning voor bepaalde tijd kan onder voorwaarden worden verleend onder een beperking die verband houdt met verblijf als gepensioneerde of rentenier (zie [artikel 7, zevende lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.2, eerste lid, onder f, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Het verblijf als gepensioneerde of rentenier moet het algemeen belang dienen van de openbare lichamen. Voor gepensioneerden en renteniers is dat het economisch belang. Dat wil zeggen dat van het verblijf van de vreemdeling als gepensioneerde of rentenier een stimulerende werking uit gaat op de economie van de openbare lichamen. 
-### *Gepensioneerde:* 
+De verblijfsvergunning voor bepaalde tijd kan onder voorwaarden worden verleend onder een beperking die verband houdt met verblijf als gepensioneerde of rentenier (zie [artikel 7, zevende lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.2, eerste lid, onder f, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)). Het verblijf als gepensioneerde of rentenier moet het algemeen belang dienen van de openbare lichamen. Voor gepensioneerden en renteniers is dat het economisch belang. Dat wil zeggen dat van het verblijf van de vreemdeling als gepensioneerde of rentenier een stimulerende werking uit gaat op de economie van de openbare lichamen.  *Gepensioneerde:*  Onder een gepensioneerde wordt verstaan een vreemdeling die: 
 
-Onder een gepensioneerde wordt verstaan een vreemdeling die: 
+a. naar de openbare lichamen komt en een geslaagd beroep doet op de overgangsregeling voor penshonado’s/renteniers in [artikel X](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md) en [XI van de Invoeringswet fiscaal stelsel BES](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md); of  
 
-a. naar de openbare lichamen komt en een geslaagd beroep doet op de overgangsregeling voor penshonado’s/renteniers in artikel X en XI van de [Invoeringswet fiscaal stelsel BES](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md); of  
+b. een pensioenuitkering ontvangt en naar de openbare lichamen komt om zich daar te vestigen en van zijn oude dag te genieten.    *Rentenier:*  Onder een rentenier wordt verstaan een vermogende vreemdeling die: 
 
-b. een pensioenuitkering ontvangt en naar de openbare lichamen komt om zich daar te vestigen en van zijn oude dag te genieten.   
-### *Rentenier:* 
+a. naar de openbare lichamen komt en een geslaagd beroep doet op de overgangsregeling voor penshonado’s/renteniers in [artikel X](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md) en [XI van de Invoeringswet fiscaal stelsel BES](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md); of  
 
-Onder een rentenier wordt verstaan een vermogende vreemdeling die: 
-
-a. naar de openbare lichamen komt en een geslaagd beroep doet op de overgangsregeling voor penshonado’s/renteniers in artikel X en XI van de [Invoeringswet fiscaal stelsel BES](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md); of  
-
-b. naar de openbare lichamen komt om zich daar te vestigen dan wel tijdelijk te verblijven en van eigen inkomsten, bijvoorbeeld uit eigen vermogen, te leven.   De verblijfsvergunning voor bepaalde tijd kan onder een beperking verband houdend met verblijf als gepensioneerde of rentenier wordt verleend als de vreemdeling voldoet aan de onder 2.2, 3.2 of 4.2 genoemde voorwaarden. Als hij niet voldoet aan één of meer van deze voorwaarden, wordt de aanvraag om verlening van een verblijfsvergunning afgewezen.    
+b. naar de openbare lichamen komt om zich daar te vestigen dan wel tijdelijk te verblijven en van eigen inkomsten, bijvoorbeeld uit eigen vermogen, te leven.   De verblijfsvergunning voor bepaalde tijd kan onder een beperking verband houdend met verblijf als gepensioneerde of rentenier wordt verleend als de vreemdeling voldoet aan de onder paragraaf 2, 3.2 of 4.2 van dit hoofdstuk genoemde voorwaarden. Als hij niet voldoet aan één of meer van deze voorwaarden, wordt de aanvraag om verlening van een verblijfsvergunning afgewezen.    
 ### 2  
 
 ####Vreemdelingen die een beroep doen op de penshonado/rentenierswetgeving
 
-De ‘penshonado/rentenierregeling’ uit de artikelen 23B, 23C, 23D en 23E van de Landverordening op de inkomstenbelasting 1943 zal op grond van [artikel 13b van de Wet geldstelsel BES](../../../../../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) na de transitie tot 1 januari 2011 ongewijzigd worden voortgezet. Dit betekent dat voor zover een gepensioneerde of rentenier op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie rechten en verplichtingen heeft op grond van genoemde regeling, deze rechten en verplichtingen daarna door blijven lopen. In de Landsverordening op de inkomstenbelasting 1943 staan de voorwaarden vermeld waaraan een vreemdeling of Nederlander moet voldoen om een beroep te kunnen doen op deze regeling. Eén van de voorwaarden is dat men voor onbepaalde tijd toegelaten moet zijn. Dit betekent dat men in het bezit moet zijn van een verblijfsvergunning voor onbepaalde tijd of een verklaring dat men toelating van rechtswege heeft, dan wel dat men als Nederlander was toegelaten op grond van artikel 1 Landsverordening toelating en uitzetting. Het enkel voldoen aan de voorwaarden van de fiscale ‘penshonado/rentenierregeling’ is op zichzelf geen grond voor toelating.    
+De ‘penshonado/rentenierregeling’ uit de artikelen 23B, 23C, 23D en 23E van de Landsverordening op de inkomstenbelasting 1943 zal op grond van [artikel 13b van de Wet geldstelsel BES](../../../../../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) na de transitie tot 1 januari 2011 ongewijzigd worden voortgezet. Dit betekent dat voor zover een gepensioneerde of rentenier op het tijdstip onmiddellijk voorafgaand aan het tijdstip van de transitie rechten en verplichtingen heeft op grond van genoemde regeling, deze rechten en verplichtingen daarna door blijven lopen. 
+### *Overgangsrecht*
+
+In [artikel X](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md) en [XI van de Invoeringswet fiscaal stelsel BES](../../../../../../../../../../../wet-BES/invoeringswet/fiscaal/stelsel/bes/BWBR0029268/README.md) is een overgangsrecht opgenomen. In dit overgangsrecht wordt aangegeven dat de ‘penshonado/rentenierregeling’ uit de artikelen 23B, 23C, 23D en 23E van de Landsverordening op de inkomstenbelasting 1943 wordt voortgezet tot maximaal 1 januari 2015 voor de belastingplichtige die: 
+
+* in de openbare lichamen woont; en  
+
+* een dag voor 1 januari 2011 in aanmerking kwam voor de ‘penshonado/rentenierregeling’; en  
+
+* voldoet aan de gestelde voorwaarden om in aanmerking te komen voor de ‘penshonado/rentenierregeling’ zoals genoemd in de artikelen 23B, 23C, 23D en 23E van de Landsverordening op de inkomstenbelasting 1943.   In de Landsverordening op de inkomstenbelasting 1943 staan de voorwaarden vermeld waaraan een vreemdeling of Nederlander moet voldoen om een beroep te kunnen doen op de ‘penshonado/rentenierregeling’. Eén van de voorwaarden is dat men voor onbepaalde tijd toegelaten moet zijn. Dit betekent dat men in het bezit moet zijn van een verblijfsvergunning voor onbepaalde tijd of een verklaring dat men toelating van rechtswege heeft, dan wel dat men als Nederlander was toegelaten op grond van artikel 1 Landsverordening toelating en uitzetting. Het enkel voldoen aan de voorwaarden van de fiscale ‘penshonado/rentenierregeling’ is op zichzelf geen grond voor toelating.   
 ### 3  
 
 ####Reguliere gepensioneerden en renteniers
@@ -3227,13 +3269,13 @@ Een vreemdeling die geen beroep doet of kan doen op de fiscale ‘penshonado/ren
 
 a. geldige MVV (zie [artikel 9, eerste lid, onder a, en derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) jo. [artikel 5.30 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
-b. geldig document voor grensoverschrijding (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.31 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+b. geldig document voor grensoverschrijding (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.31 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
 c. voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.33 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
 d. zelfstandige en duurzame middelen van bestaan (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [artikelen 5.32](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [5.34 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
 
-e. de vreemdeling bezit een woning in de openbare lichamen in eigendom, die als hoofdverblijf van de vreemdeling dient en die op de datum van aankoop een waarde in het economisch verkeer had van ten minste USD 250.000 (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
+e. de vreemdeling beschikt over passende huisvesting in de openbare lichamen, die als hoofdverblijf van de vreemdeling dient. Deze huisvesting is een woning in eigendom of een huurwoning (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
 
 f. geen gevaar voor de openbare orde (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
 
@@ -3244,7 +3286,7 @@ De middelen van bestaan van een gepensioneerde of rentenier zijn voldoende, zelf
 
 a. sprake is van inkomsten uit pensioen of uit andere bron van ten minste het normbedrag als genoemd in hoofdstuk 3, paragraaf 1.9.3.3;  
 
-b. over deze inkomsten de verschuldigde premies en belasting worden afgedragen.   Een pensioenuitkering moet op het tijdstip waarop de aanvraag om een verblijfsvergunning is ontvangen of de beschikking wordt gegeven nog ten minste één jaar beschikbaar is. Dit kan worden aangetoond met een verklaring of brief van het pensioenfonds.    
+b. over deze inkomsten de verschuldigde premies en belasting worden afgedragen.   Een pensioenuitkering moet op het tijdstip waarop de aanvraag om een verblijfsvergunning is ontvangen of de beschikking wordt gegeven nog ten minste één jaar beschikbaar zijn. Dit kan worden aangetoond met een verklaring of brief van het pensioenfonds.    
 ### 3.3  
 
 ####Vereiste bescheiden
@@ -3255,9 +3297,9 @@ b. kopie geldig document voor grensoverschrijding, indien nodig voorzien van een
 
 c. bewijs van zelfstandige, duurzame en voldoende middelen van bestaan. Te weten: 
 
-1. bij renteniers: een verklaring van een bank waarin staat vermeld de hoogte van het saldo van de op naam van de aanvrager gestelde bankrekening(en); en  
+1. bij renteniers: een verklaring van een bank waarin de hoogte van het saldo van de op naam van de aanvrager gestelde bankrekening(en) staat vermeld; en  
 
-2. bij renteniers: een verklaring van een lokaal gevestigde accountant of accountantskantoor waarin staat vermeld de hoogte van het laatstgenoten bruto jaarinkomen van de aanvrager en de hoogte van het vermogen van de aanvrager; en  
+2. bij renteniers: een verklaring van een lokaal gevestigde accountant of accountantskantoor waarin de hoogte van het laatstgenoten bruto jaarinkomen van de aanvrager en de hoogte van het vermogen van de aanvrager vermeld staat; en  
 
 3. bij gepensioneerden: een verklaring of brief van het pensioenfonds waaruit de hoogte en duur van de ontvangen pensioenuitkering blijkt; en  
 
@@ -3265,18 +3307,20 @@ c. bewijs van zelfstandige, duurzame en voldoende middelen van bestaan. Te weten
 
 5. bij renteniers en gepensioneerden: verklaring Belastingdienst waaruit blijkt dat de verschuldigde premies en belasting zijn betaald over de inkomsten.    
 
-d. eigendomsbewijs eigen woning in de openbare lichamen (notariële akte);  
+d. eigendomsbewijs eigen woning in de openbare lichamen (notariële akte) of een huurovereenkomst van een woning in de openbare lichamen; en  
 
-e. ondertekende antecedentenverklaring (geïntegreerd in het aanvraagformulier);  
+e. een uittreksel uit de basisadministratie persoonsgegevens waaruit blijkt dat de vreemdeling zijn hoofdverblijf heeft in de woning genoemd onder d).  
 
-f. bewijs van goed gedrag (niet ouder dan drie maanden);  
+f. ondertekende antecedentenverklaring (geïntegreerd in het aanvraagformulier);  
 
-g. bewijs onderzoek TBC;  
+g. bewijs van goed gedrag, afgegeven door een bevoegde autoriteit (niet ouder dan drie maanden op het moment van indiening van de aanvraag);  
 
-h. kopie bewijs ziektekostenverzekering (geïntegreerd in het aanvraagformulier).   
+h. bewijs onderzoek TBC;  
+
+i. kopie bewijs ziektekostenverzekering (geïntegreerd in het aanvraagformulier).   
 ### *Ad d* 
 
-Als uit de notariële akte/eigendomsakte van de woning niet blijkt wat de waarde in het economisch verkeer was ten tijde van de aankoop van de woning, kunnen ook andere bescheiden aan de vreemdeling worden gevraagd waaruit die waarde zou kunnen blijken. Dat kan ook als twijfel bestaat of de waarde genoemd in de akte wel de waarde in het economisch verkeer vertegenwoordigt. Daarnaast moet ook altijd gecontroleerd worden of de vreemdeling hoofdverblijf heeft in de betreffende woning in de openbare lichamen. Dit kan bijvoorbeeld aangetoond worden doordat blijkt dat de vreemdeling op het adres van de woning ingeschreven staat bij Burgerzaken. Alle stukken moeten zijn opgesteld in het Nederlands of Engels of zijn vertaald door een betrouwbare vertaler.     
+Er moet altijd gecontroleerd worden of de vreemdeling hoofdverblijf heeft in de betreffende woning in de openbare lichamen. Dit kan bijvoorbeeld aangetoond worden doordat blijkt dat de vreemdeling op het adres van de woning ingeschreven staat bij Burgerzaken. Alle stukken moeten zijn opgesteld in het Nederlands of Engels of zijn vertaald door een betrouwbare vertaler.     
 ### 4  
 
 ####Overwinteraars
@@ -3290,24 +3334,24 @@ Overwinteraars zijn Nederlanders en vreemdelingen die gedurende een periode van 
 
 ####Verblijfsvoorwaarden
 
-a. geldige MVV (zie [artikel 9, eerste lid, onder a, en derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) jo. [artikel 5.30 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+a.  geldige MVV (zie [artikel 9, eerste lid, onder a, en derde lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) jo. [artikel 5.30 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));   
 
-b. geldig document voor grensoverschrijding (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.31 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+b.  geldig document voor grensoverschrijding (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.31 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));   
 
-c. voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.33 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+c.  voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.33 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));   
 
-d. zelfstandige en duurzame middelen van bestaan (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [artikelen 5.32](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [5.34 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));  
+d.  zelfstandige en duurzame middelen van bestaan (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en de [artikelen 5.32](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [5.34 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md));   
 
-e. geen gevaar voor de openbare orde(zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
+e.  geen gevaar voor de openbare orde(zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));   
 
-f. bereidheid een onderzoek naar of behandeling voor TBC te ondergaan en daaraan mee te werken, tenzij de uitzondering van artikel 3.18 RTU-BES van toepassing is (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.35 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).   Ten aanzien van deze voorwaarden zijn de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 9, eerste lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van toepassing. Deze staan in hoofdstuk 3. 
+f.  bereidheid een onderzoek naar of behandeling voor TBC te ondergaan en daaraan mee te werken, tenzij de uitzondering van artikel 3.18 RTU-BES van toepassing is (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.35 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).    Ten aanzien van deze voorwaarden zijn de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 9, eerste lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van toepassing. Deze staan in hoofdstuk 3. 
 ### *Ad c en d.* 
 
 De middelen van bestaan zijn voldoende, zelfstandig en duurzaam als: 
 
-a. sprake is van inkomsten uit pensioen of uit andere bron van ten minste het normbedrag als genoemd in hoofdstuk 3, paragraaf 1.9.3.3.  
+a.  sprake is van inkomsten uit pensioen of uit andere bron van ten minste het normbedrag als genoemd in hoofdstuk 3, paragraaf 1.9.3.3.   
 
-b. over deze inkomsten de verschuldigde premies en belasting worden afgedragen.   Een pensioenuitkering moet op het tijdstip waarop de aanvraag om een verblijfsvergunning is ontvangen of de beschikking wordt gegeven nog ten minste één jaar beschikbaar zijn. Dit kan worden aangetoond met een verklaring of brief van het pensioenfonds.    
+b.  over deze inkomsten de verschuldigde premies en belasting worden afgedragen.    Een pensioenuitkering moet op het tijdstip waarop de aanvraag om een verblijfsvergunning is ontvangen of de beschikking wordt gegeven nog ten minste één jaar beschikbaar zijn. Dit kan worden aangetoond met een verklaring of brief van het pensioenfonds.    
 ### 4.3  
 
 ####Vereiste bescheiden
@@ -3385,7 +3429,7 @@ d. geen gevaar voor de openbare orde (zie [artikel 9, eerste lid, onder b, WTU- 
 
 e. bereidheid een onderzoek naar of behandeling voor TBC te ondergaan en daaraan mee te werken (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), [artikel 5.35 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) en [artikel 4.3 RTU-BES](../../../../../../../../../../../ministeriele-regeling-BES/regeling/toelating/en/uitzetting/bes/BWBR0028815/README.md));  
 
-f. ondertekening bewustverklaring tijdelijk verblijfsrecht (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)).   Ten aanzien van deze voorwaarden zijn de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 9, eerste lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van toepassing. Deze staan in hoofdstuk 3. 
+f.  ondertekening bewustverklaring tijdelijk verblijfsrecht (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)).    Ten aanzien van deze voorwaarden zijn de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 9, eerste lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van toepassing. Deze staan in hoofdstuk 3. 
 ### *Ad c:* 
 
 De vreemdeling moet een zakelijke investering doen en/of onroerend goed aanschaffen met een totale waarde van tenminste USD 365.000,00. Deze investering moet binnen 18 maanden na de eerste aanvraag zijn verwezenlijkt. 
@@ -3782,7 +3826,7 @@ De verblijfsvergunning wordt verleend onder de beperking: ‘verblijf bij partne
 
 ####Arbeidsmarktaantekening
 
-Op de verblijfsvergunning staat de aantekening: 'arbeid in loondienst alleen toegestaan indien werkgever beschikt over TWV’. Beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’. Als [artikel 7 Besluit uitvoering Wet arbeid vreemdelingen BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md) van toepassing is, wordt de arbeidsmarktaantekening: ‘Arbeid vrij toegestaan. TWV niet vereist. Beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’.    
+Op de verblijfsvergunning staat de aantekening: 'arbeid in loondienst alleen toegestaan indien werkgever beschikt over TWV’. Beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’. Als [artikel 7 Besluit uitvoering Wet arbeid vreemdelingen BES](../../../../../../../../../../../AMvB-BES/besluit/uitvoering/wet/arbeid/vreemdelingen/bes/BWBR0028231/README.md) van toepassing is, wordt de arbeidsmarktaantekening: ‘Arbeid vrij toegestaan. TWV niet vereist. Beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’.     
 ### 4.3.3  
 
 ####Voorschrift
@@ -3820,23 +3864,26 @@ h. bereidheid een onderzoek naar of behandeling voor TBC te ondergaan en daaraan
 i. zelfstandig en duurzaam beschikken over voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder b en c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.33 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).   
 ### *Ad a. Familierechtelijke relatie* 
 
-Op grond van [artikel 5.10, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning, bedoeld in artikel 5.10 BTU-BES, op aanvraag verleend aan het minderjarige biologische of juridische kind van een in de openbare lichamen gevestigde hoofdpersoon. Het kind moet wel onder het rechtmatig gezag van de hoofdpersoon staan. Daarbij geldt als voorwaarde dat het kind naar het oordeel van de Minister feitelijk behoort en al in het land van herkomst feitelijk behoorde tot het gezin van de hoofdpersoon. Het gestelde rechtmatig gezag van de om verblijf vragende echtgenoot, geregistreerd partner of partner van de hoofdpersoon moet in beginsel met gelegaliseerde bescheiden worden aangetoond. Als het gestelde rechtmatig gezag niet met gelegaliseerde bescheiden wordt aangetoond, wordt de aanvraag afgewezen. 
+Op grond van [artikel 5.10, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning, bedoeld in [artikel 5.9 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), op aanvraag verleend aan het minderjarige biologische of juridische kind van een in de openbare lichamen gevestigde hoofdpersoon. Het kind moet wel onder het rechtmatig gezag van de hoofdpersoon staan. Daarbij geldt als voorwaarde dat het kind naar het oordeel van de Minister feitelijk behoort en al in het land van herkomst feitelijk behoorde tot het gezin van de hoofdpersoon. Het gestelde rechtmatig gezag van de om verblijf vragende echtgenoot, geregistreerd partner of partner van de hoofdpersoon moet in beginsel met gelegaliseerde bescheiden worden aangetoond. Als het gestelde rechtmatig gezag niet met gelegaliseerde bescheiden wordt aangetoond, wordt de aanvraag afgewezen. 
+### *Pleegkind* 
+
+De aanvraag om een verblijfsvergunning, bedoeld in [artikel 5.9 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), wordt niet vanwege het ontbreken van een familierechtelijke relatie afgewezen als het minderjarige kind een pleegkind is van de hoofdpersoon. Daarbij geldt als voorwaarde dat het kind naar het oordeel van de Minister feitelijk behoort en al in het land van herkomst feitelijk behoorde tot het gezin van de hoofdpersoon. Gelegaliseerde akten: Door middel van officiële gelegaliseerde documenten wordt aangetoond dat de ouder(s) of wettelijk vertegenwoordiger, of (als zij zijn overleden of een onbekende verblijfplaats hebben) de autoriteiten in het land van herkomst instemmen met het verblijf van het kind in het gezin van de pleegouders. Alleen als het recht van het land van herkomst dit vereist, is naast instemming van de ouder(s) of de wettelijke vertegenwoordiger ook instemming van de autoriteiten van het land van herkomst vereist. De ouders moeten ook het wettelijk gezag over de minderjarige (tijdelijk) aan de pleegouders overdragen. Per land moet onderzocht worden of dit kan via een notariële verklaring of dat de ouders hiervoor een rechtelijke uitspraak nodig hebben. De ouders verliezen niet het ouderlijk gezag over het kind. 
 ### *Toestemming voor vertrek naar het buitenland van de andere mede met het gezag belaste ouder* 
 
 Kinderen die alleen bij moeder of alleen bij vader verblijf aanvragen, terwijl de (biologische) vader of moeder in het land van herkomst achterblijft, moeten, naast de gebruikelijke voorwaarden, aan de volgende voorwaarde voldoen: 
 
 a. een verklaring dat de vader c.q. moeder toestemming verleent dat het kind bij vader c.q. moeder in de openbare lichamen mag verblijven; of  
 
-b. een gerechtelijke uitspraak dat het ouderlijk gezag / voogdij aan de in de openbare lichamen verblijvende moeder of vader is toegewezen.   Gelegaliseerde akten: De familierechtelijke relatie tot degene bij wie verblijf wordt beoogd, wordt door middel van officiële gelegaliseerde bescheiden aangetoond. 
-### *Feitelijk behoren tot het gezin* 
+b. een gerechtelijke uitspraak dat het ouderlijk gezag / voogdij aan de in de openbare lichamen verblijvende moeder of vader is toegewezen.   Gelegaliseerde akten: De familierechtelijke relatie tot degene bij wie verblijf wordt beoogd, wordt door middel van officiële gelegaliseerde bescheiden aangetoond.
+### *Feitelijk behoren tot het gezin*
 
 Op grond van [artikel 5.10, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning verleend, als het kind feitelijk behoort en al in het buitenland feitelijk behoorde tot het gezin van de in de openbare lichamen wonende ouder(s) bij wie verblijf wordt beoogd. De gezinsband moet al in het buitenland hebben bestaan en het kind moet gaan samenwonen met de ouder(s). De aanvraag wordt afgewezen, als het kind niet feitelijk behoort en al in het buitenland behoorde tot het gezin van de in de openbare lichamen wonende ouder(s) bij wie verblijf wordt beoogd. Voor de invulling van het begrip feitelijke gezinsband in zaken waarin minderjarige biologische of juridische kinderen bij een in de openbare lichamen verblijvende ouder verblijf vragen, wordt aangesloten bij het begrip familie- en gezinsleven in de zin van artikel 8 EVRM. Het gezinsleven tussen ouders en kinderen in de zin van artikel 8 EVRM eindigt slechts in zeer uitzonderlijke situaties. Ook als men niet samenwoont of maar heel kort heeft samengewoond, of er in een periode weinig of geheel geen contact is geweest, zijn er andere zwaarwegende feiten nodig om het gezinsleven als beëindigd te kunnen beschouwen. Alleen de ondertoezichtstelling of uithuisplaatsing van het kind beëindigt bijvoorbeeld niet het gezinsleven. Als sprake is van gezinsleven in de zin van artikel 8 EVRM wordt aangenomen dat een biologisch of juridisch kind feitelijk behoort en al in het buitenland behoorde tot het gezin van de ouder(s). Als sprake is van één of meer van de volgende genoemde omstandigheden wordt, in uitzondering op het bovenstaande, aangenomen dat een kind niet langer feitelijk behoort tot het gezin van de ouder(s): 
 
-a. het kind gaat zelfstandig wonen en in eigen onderhoud voorzien;  
+i. het kind gaat zelfstandig wonen en in eigen onderhoud voorzien;  
 
-b. het kind vormt een zelfstandig gezin door het aangaan van een huwelijk of een relatie;  
+ii. het kind vormt een zelfstandig gezin door het aangaan van een huwelijk of een relatie;  
 
-c. het kind is belast met de zorg voor buitenhuwelijkse kinderen.   Als het kind zelf de zorg heeft voor afhankelijke gezinsleden, onder wie (buitenechtelijke) kinderen, is dit alleen een reden om aan te nemen dat het niet langer feitelijk behoort tot het gezin van de ouder(s), als daarnaast sprake is van één van de eerste twee hiervóór genoemde omstandigheden. Met de genoemde uitzonderingsgevallen is duidelijk gemaakt dat er omstandigheden kunnen zijn, waarin geoordeeld kan worden dat het kind niet (meer) feitelijk behoort tot het gezin van de ouder(s). In de eerste twee genoemde omstandigheden kan worden aangenomen dat het kind een zekere mate van zelfstandigheid heeft bereikt. In deze gevallen komt aan de handhaving van een restrictief vreemdelingenbeleid meer gewicht toe dan aan het individuele belang van het kind om alsnog bij zijn ouder(s) in de openbare lichamen te verblijven. De zorg voor afhankelijke gezinsleden, onder wie (buitenechtelijke) kinderen, kan uitsluitend tot het oordeel leiden dat het kind niet feitelijk behoort tot het gezin van de ouder(s), als het kind daarnaast zelfstandig woont en in eigen onderhoud voorziet, óf door het aangaan van een huwelijk of een relatie een zelfstandig gezin heeft gevormd. 
+iii. het kind is belast met de zorg voor buitenhuwelijkse kinderen.   Als het kind zelf de zorg heeft voor afhankelijke gezinsleden, onder wie (buitenechtelijke) kinderen, is dit alleen een reden om aan te nemen dat het niet langer feitelijk behoort tot het gezin van de ouder(s), als daarnaast sprake is van één van de eerste twee hiervóór genoemde omstandigheden. Met de genoemde uitzonderingsgevallen is duidelijk gemaakt dat er omstandigheden kunnen zijn, waarin geoordeeld kan worden dat het kind niet (meer) feitelijk behoort tot het gezin van de ouder(s). In de eerste twee genoemde omstandigheden kan worden aangenomen dat het kind een zekere mate van zelfstandigheid heeft bereikt. In deze gevallen komt aan de handhaving van een restrictief vreemdelingenbeleid meer gewicht toe dan aan het individuele belang van het kind om alsnog bij zijn ouder(s) in de openbare lichamen te verblijven. De zorg voor afhankelijke gezinsleden, onder wie (buitenechtelijke) kinderen, kan uitsluitend tot het oordeel leiden dat het kind niet feitelijk behoort tot het gezin van de ouder(s), als het kind daarnaast zelfstandig woont en in eigen onderhoud voorziet, óf door het aangaan van een huwelijk of een relatie een zelfstandig gezin heeft gevormd.
 ### *Ad b. Verblijfsstatus van de hoofdpersoon* 
 
 Op grond van [artikel 5.11 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) wordt de verblijfsvergunning verleend, als de hoofdpersoon in de openbare lichamen verblijft als: 
@@ -3862,7 +3909,7 @@ De verblijfsvergunning wordt op grond van [artikel 5.16 BTU-BES](../../../../../
 De verblijfsvergunning wordt op grond van [artikel 5.18, onder a, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) verleend als de hoofdpersoon duurzaam en zelfstandig beschikt over voldoende middelen van bestaan (zie hoofdstuk 3, paragraaf 1.9.3.3). 
 ### *Meetellen gezinsinkomen bij nareizende (voor-)kinderen* 
 
-Als de hoofdpersoon (de biologische of juridische ouder bij wie de vreemdeling verblijf beoogt) een naar Nederlands internationaal privaatrecht geldig huwelijk of een in Nederland geregistreerd partnerschap is aangegaan, dan wel een relatie onderhoudt in de zin van artikel [5.10, aanhef en onder b, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) met een persoon die houder is van een verblijfsvergunning, dan wel Nederlander is, kan het duurzame, zelfstandig verworven bruto-inkomen van die persoon – mits deze samenwoont met de hoofdpersoon – worden meegeteld bij de berekening van de bestaansmiddelen. Daarbij geldt als aanvullende voorwaarde dat, tenzij de bovenbedoelde partner, geregistreerde partner of huwelijkspartner biologisch of juridisch ouder van de vreemdeling is, deze een garantstelling moet hebben ondertekend.    
+Als de hoofdpersoon (de biologische of juridische ouder bij wie de vreemdeling verblijf beoogt) een naar Nederlands internationaal privaatrecht geldig huwelijk of een in Nederland geregistreerd partnerschap is aangegaan, dan wel een relatie onderhoudt in de zin van [artikel 5.10, aanhef en onder b, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) met een persoon die houder is van een verblijfsvergunning, dan wel Nederlander is, kan het duurzame, zelfstandig verworven bruto-inkomen van die persoon – mits deze samenwoont met de hoofdpersoon – worden meegeteld bij de berekening van de bestaansmiddelen. Daarbij geldt als aanvullende voorwaarde dat, tenzij de bovenbedoelde partner, geregistreerde partner of huwelijkspartner biologisch of juridisch ouder van de vreemdeling is, deze een garantstelling moet hebben ondertekend.    
 ### 5.2  
 
 ####Vereiste bescheiden
@@ -3875,23 +3922,31 @@ c. kopie geldig document grensoverschrijding van de verblijfgever;
 
 d. gelegaliseerde geboorteakte of, als uit de geboorteakte de familierechtelijke relatie tussen vreemdeling en verblijfgever niet blijkt, andere documenten met betrekking tot die familierechtelijke relatie;  
 
-e. uittreksel uit de basisadministratie persoonsgegevens waaruit het verblijfsadres en de gezinssamenstelling van de verblijfgever blijken;  
+e. In het geval van een pleegkind: 
 
-f. gelegaliseerde bescheiden die het rechtmatig gezag aantonen;  
+1. gegevens Voogdijraad waaruit blijkt dat ingestemd wordt met het verblijf van het pleegkind;  
 
-g. bijlage verklaring burgerlijke staat (vanaf 16 jaar);  
+2. instemmingsverklaring van de ouders of wettelijke vertegenwoordigers dan wel van de autoriteiten van het land van herkomst dat zij instemmen met het verblijf van het kind in het gezin van de pleegouders;  
 
-h. toestemmingsverklaring en kopie identiteitsbewijs van de achterblijvende ouder (indien gedeeld gezag);  
+3. gelegaliseerde bescheiden waaruit blijkt dat de pleegouders het gezag over het pleegkind hebben;    
 
-i. bewijs van zelfstandige, duurzame en voldoende middelen van bestaan;  
+f. uittreksel uit de basisadministratie persoonsgegevens waaruit het verblijfsadres en de gezinssamenstelling van de verblijfgever blijken;  
 
-j. bewijs van rechtmatig verblijf van de hoofdpersoon;  
+g. gelegaliseerde bescheiden die het rechtmatig gezag aantonen;  
 
-k. bewijs onderzoek TBC;  
+h. bijlage verklaring burgerlijke staat (vanaf 16 jaar);  
 
-l. ondertekende antecedentenverklaring (vanaf 16 jaar, geïntegreerd in het aanvraagformulier);  
+i. toestemmingsverklaring en kopie identiteitsbewijs van de achterblijvende ouder (indien gedeeld gezag);  
 
-m. bewijs van goed gedrag (niet ouder dan 3 maanden).      
+j. bewijs van zelfstandige, duurzame en voldoende middelen van bestaan;  
+
+k. bewijs van rechtmatig verblijf van de verblijfgever;  
+
+l. bewijs onderzoek TBC;  
+
+m. ondertekende antecedentenverklaring (vanaf 16 jaar, geïntegreerd in het aanvraagformulier);  
+
+n. bewijs van goed gedrag (niet ouder dan 3 maanden).      
 ### 5.3  
 
 ####Kinderen geboren uit rechtmatig verblijvende ouders
@@ -3963,7 +4018,7 @@ b. de duur van de toelating van de ouder bij wie de vreemdeling wil verblijven, 
 
 ####Verruimde gezinshereniging
 
-De verblijfsvergunning voor bepaalde tijd in het kader van verruimde gezinshereniging kan, op grond van [artikel 5.9, lid 2, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), op aanvraag worden verleend aan vreemdelingen van 65 jaar of ouder die in de openbare lichamen willen verblijven bij hun kind(eren). Het gaat hier dus om ouders op leeftijd, die bij een volwassen kind willen komen wonen. De familierechtelijke relatie moet worden aangetoond met officiële gelegaliseerde documenten. Verder wordt de eis gesteld dat achterlating van de persoon die om toelating verzoekt een onevenredige hardheid oplevert.   
+De verblijfsvergunning voor bepaalde tijd in het kader van verruimde gezinshereniging kan, op grond van [artikel 5.9, lid 2, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md), op aanvraag worden verleend aan vreemdelingen van 60 jaar of ouder die in de openbare lichamen willen verblijven bij hun kind(eren). Het gaat hier dus om ouders op leeftijd, die bij een volwassen kind willen komen wonen. De familierechtelijke relatie moet worden aangetoond met officiële gelegaliseerde documenten. Verder wordt de eis gesteld dat achterlating van de persoon die om toelating verzoekt een onevenredige hardheid oplevert.   
 ### 6.1  
 
 ####Bijzondere vereisten voor toelating
@@ -3974,7 +4029,7 @@ a. betrokkene is alleenstaande in het land van herkomst; dit moet met gelegalise
 
 b. (vrijwel) alle kinderen van betrokkene wonen in de openbare lichamen. Als er één of meer kinderen in het land van herkomst wonen die voor de opvang van betrokkene kunnen zorgen, is toelating op grond van dit beleid niet mogelijk;  
 
-c. alle in de openbare lichamen verblijvende kinderen zijn in het bezit van een verblijfsvergunning en van een sterk verblijfsrecht;  
+c. alle in de openbare lichamen verblijvende kinderen zijn in het bezit van een verblijfsvergunning die niet-tijdelijk is in de zin van [artikel 5.3, lid 3, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
 
 d. een van de kinderen beschikt of de kinderen beschikken duurzaam over voldoende middelen van bestaan om mede te kunnen voorzien in de kosten van levensonderhoud van betrokkene. Dit betekent dat kinderen gezamenlijk mogen aantonen aan het middelenvereiste te voldoen.   
 ### *Ad c. Verblijfsstatus hoofdpersoon* 
@@ -3983,7 +4038,7 @@ De verblijfsvergunning wordt verleend, als de in de openbare lichamen verblijven
 
 * Nederlander;  
 
-* houder van een verblijfsvergunning, die niet-tijdelijk is in de zin van [artikel 5.3 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md).   
+* houder van een verblijfsvergunning, die niet-tijdelijk is in de zin van [artikel 5.3, lid 3, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md).   
 ### *Ad d. Middelen* 
 
 De verblijfsvergunning wordt niet verleend als één van de kinderen niet duurzaam beschikt of de kinderen niet duurzaam beschikken over voldoende middelen van bestaan (zie hoofdstuk 3, paragraaf 1.9.3.3).    
@@ -4128,7 +4183,7 @@ In aanvulling op de algemene voorwaarden voor verblijf gelden voor de verlening 
 
 a. de vreemdeling is minderjarig;  
 
-b. de vreemdeling wil verblijven in het gezin van een of meer Nederlanders of vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 7 BTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);  
+b. de vreemdeling wil verblijven in het gezin van een of meer Nederlanders of vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 7 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);  
 
 c. het kind bloed- of aanverwant is van de verblijfgever;  
 
@@ -4140,8 +4195,8 @@ f. bij de aanvraag wordt een medische verklaring overgelegd en een garantverklar
 
 g. de aspirant-pleegouders hebben het gezag over het kind;  
 
-h. de aspirant-pleegouders dienen te beschikken over voldoende middelen van bestaan.   
-### *Ad b.* 
+h. de aspirant-pleegouders dienen zelfstandig en duurzaam te beschikken over voldoende middelen van bestaan (zie [artikel 9, eerste lid, onder b en c, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [artikel 5.33 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).   
+### *Ad c.* 
 
 Verblijf kan alleen worden verleend wanneer de verblijfgever de grootouder, broer, zuster, oom of tante van het pleegkind is. 
 ### *Ad d.* 
@@ -4149,16 +4204,16 @@ Verblijf kan alleen worden verleend wanneer de verblijfgever de grootouder, broe
 Het is niet mogelijk een vast kader te geven wanneer wel of geen sprake is van een onaanvaardbare toekomst in het land van herkomst. Bij elke aanvraag wordt gekeken naar de individuele omstandigheden van het kind. Hierbij wordt gekeken naar de omstandigheden waaronder het kind leeft in het land van herkomst en de omstandigheden waaronder kinderen in vergelijkbare situaties in dat land leven. Zo zijn factoren als armoede, alleenstaande ouders en werkloosheid op zichzelf geen factoren die van belang zijn bij de beslissing of een minderjarige wel of niet als pleegkind naar de openbare lichamen kan komen. Dit kunnen omstandigheden zijn die voor vele gezinnen met kinderen of alleenstaande ouders met kinderen gelden. Wanneer deze omstandigheden er echter voor zorgen dat het kind, in vergelijking met andere kinderen van dezelfde leeftijd in dat land, wordt uitgesloten van zaken als bijvoorbeeld onderwijs en medische zorg en daardoor niet in staat zal zijn voor zichzelf een goede toekomst op te bouwen, dan wegen deze factoren, voor dat specifieke kind, anders. De aspirant pleegouders overleggen een schriftelijke motivering van de bijzondere omstandigheden van het kind of die van de familieleden in het land van herkomst, waaruit blijkt dat het kind niet of bezwaarlijk kan worden verzorgd door de ouders of familieleden die in het land van herkomst wonen al dan niet met (financiële) steun van familieleden die in de openbare lichamen verblijven. 
 ### *Ad e.* 
 
-Zo nodig wint de Minister van Justitie aanvullende gegevens in bij de Voogdijraad over de geschiktheid van de aspirant pleegouders voor de verzorging en opvoeding van het kind. 
+Zo nodig wint de Minister voor Immigratie, Integratie en Asiel aanvullende gegevens in bij de Voogdijraad over de geschiktheid van de aspirant pleegouders voor de verzorging en opvoeding van het kind. 
 ### *Ad f.* 
 
-De aanvraag wordt afgewezen als uit de medische verklaring met betrekking tot het buitenlandse pleegkind niet blijkt dat in redelijkheid niet valt aan te nemen dat het kind lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte. Dit vereiste zal er echter niet toe leiden dat een gehandicapt kind niet zou kunnen worden opgenomen. De Voogdijraad doet hier een uitspraak over. Uit de medische verklaring moet blijken dat het kind is getest op TBC. Een onderzoek op TBC is verplicht, tenzij het kind de nationaliteit bezit van een van de bij ministeriële regeling vast te stellen landen die zijn vrijgesteld van de verplichting een TBC onderzoek te ondergaan. Wanneer dit niet uit de medische verklaring blijkt, moet het kind (in de openbare lichamen) alsnog een TBC onderzoek ondergaan. Alleen wanneer niet aan dit onderzoek wordt meegewerkt of wanneer het kind weigert mee te werken aan de behandeling van TBC aan de ademhalingsorganen, wordt de aanvraag met toepassing van [artikel WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) afgewezen. 
+De aanvraag wordt afgewezen als uit de medische verklaring met betrekking tot het buitenlandse pleegkind niet blijkt dat in redelijkheid niet valt aan te nemen dat het kind lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte. Dit vereiste zal er echter niet toe leiden dat een gehandicapt kind niet zou kunnen worden opgenomen. De Voogdijraad doet hier een uitspraak over. Uit de medische verklaring moet blijken dat het kind is getest op TBC. Een onderzoek op TBC is verplicht, tenzij het kind de nationaliteit bezit van een van de bij ministeriële regeling vast te stellen landen die zijn vrijgesteld van de verplichting een TBC onderzoek te ondergaan. Wanneer dit niet uit de medische verklaring blijkt, moet het kind (in de openbare lichamen) alsnog een TBC onderzoek ondergaan. Alleen wanneer niet aan dit onderzoek wordt meegewerkt of wanneer het kind weigert mee te werken aan de behandeling van TBC aan de ademhalingsorganen, wordt de aanvraag met toepassing van artikel [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) afgewezen. 
 ### *Ad g.* 
 
-De aanvraag wordt afgewezen als niet door middel van officiële gelegaliseerde documenten wordt aangetoond dat de ouder(s) of wettelijke vertegenwoordiger, of (indien zij zijn overleden of een onbekende verblijfplaats hebben) de autoriteiten in het land van herkomst instemmen met het verblijf van het kind in het gezin van de aspirant-pleegouders. Alleen als het recht van het land van herkomst dit vereist, is naast instemming van de ouder(s) of de wettelijke vertegenwoordiger ook instemming van de autoriteiten van het land van herkomst vereist. De pleegouders moeten ook het wettelijk gezag over de minderjarige (tijdelijk) aan de aspirant pleegouders overdragen. Per land moet onderzocht te worden of dit kan via een notariële verklaring of dat de ouders hiervoor een rechterlijke uitspraak nodig hebben. De ouders verliezen niet het ouderlijk gezag over het kind. 
+De aanvraag wordt afgewezen als niet door middel van officiële gelegaliseerde documenten wordt aangetoond dat de ouder(s) of wettelijke vertegenwoordiger, of (indien zij zijn overleden of een onbekende verblijfplaats hebben) de autoriteiten in het land van herkomst instemmen met het verblijf van het kind in het gezin van de aspirant-pleegouders. Alleen als het recht van het land van herkomst dit vereist, is naast instemming van de ouder(s) of de wettelijke vertegenwoordiger ook instemming van de autoriteiten van het land van herkomst vereist. De ouders moeten ook het wettelijk gezag over de minderjarige (tijdelijk) aan de aspirant pleegouders overdragen. Per land moet onderzocht te worden of dit kan via een notariële verklaring of dat de ouders hiervoor een rechterlijke uitspraak nodig hebben. De ouders verliezen niet het ouderlijk gezag over het kind. 
 ### *Ad h.* 
 
-De verblijfsvergunning wordt niet verleend als de aspirant-pleegouders niet beschikken over voldoende middelen van bestaan. Als het familielid bij wie de vreemdeling verblijf beoogt een echtgenoot of partner heeft, kan het inkomen van die persoon worden meegeteld bij de berekening van het gezinsinkomen. Als aanvullende voorwaarde geldt dan dat ondertekening van de garantverklaring, bedoeld in artikel [art. 3.9 lid 1 onder c BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) geschiedt door de hoofdpersoon en bedoelde partner.    
+De verblijfsvergunning wordt niet verleend als de aspirant-pleegouders niet zelfstandig en duurzaam beschikken over voldoende middelen van bestaan. Als het familielid bij wie de vreemdeling verblijf beoogt een echtgenoot of partner heeft, kan het inkomen van die persoon worden meegeteld bij de berekening van het gezinsinkomen. Als aanvullende voorwaarde geldt dan dat ondertekening van de garantverklaring, bedoeld in [artikel art. 3.9, lid 2, onder c, BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md) geschiedt door de hoofdpersoon en bedoelde partner.    
 ### 3.2  
 
 ####Vereiste bescheiden
@@ -4525,7 +4580,7 @@ h. bewijs van goed gedrag (niet ouder dan 3 maanden).
 
 ####Beperking
 
-De verblijfsvergunning wordt verleend onder de beperking ‘in afwachting verzoek ex [artikel 17 RWN](../../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) ’.    
+De verblijfsvergunning wordt verleend onder de beperking ‘in afwachting verzoek ex [artikel 17 RWN](../../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)’.    
 ### 8.3.2  
 
 ####Arbeidsmarktaantekening
@@ -4841,7 +4896,7 @@ d. bijlage inkomensverklaring;
 
 e. indien van toepassing: bewijs van rechtmatig verblijf van de hoofdpersoon;  
 
-f. bewijs van goed gedrag (niet ouder dan 3 maanden).      
+f. bewijs van goed gedrag (niet ouder dan 3 maanden).       
 ### 2.3  
 
 ####Beperkingen, arbeidsmarktaantekeningen en voorschrift
@@ -4885,41 +4940,32 @@ c. Geen gevaar voor de openbare orde en de nationale veiligheid (zie [artikel 9,
 d. De vreemdeling moet zelf verblijf hebben gehad bij een houder van een verblijfsvergunning van niet-tijdelijke aard.  
 
 e. De vreemdeling dient gedurende de gehele eerder verblijfsperiode aan alle voorwaarden voor verblijf te hebben voldaan.   
-### *Ad d.* 
+### *Ad b.* 
 
-De (huwelijks)partner van een vreemdeling die zelf toegelaten is als student komt niet in aanmerking voor voortgezet verblijf. Dit zou immers betekenen dat de afhankelijke vreemdeling sneller in een betere verblijfsrechtelijke positie terecht zou komen dan de verblijfgever. 
+Als het gaat om een meerderjarig kind dat nog feitelijk bij zijn ouders woont, studeert en financieel afhankelijk is van zijn ouders, dan mag het inkomen van de ouders meegenomen worden bij de middeleneis. 
+### *Ad d.*
+
+De (huwelijks)partner van een vreemdeling die zelf toegelaten is als student komt niet in aanmerking voor voortgezet verblijf. Dit zou immers betekenen dat de afhankelijke vreemdeling sneller in een betere verblijfsrechtelijke positie terecht zou komen dan de verblijfgever.
 ### *Ad e.* 
 
-Dat de relatie op het moment van aanvragen van de vergunning voor voortgezet verblijf is verbroken, is niet van belang. Wel is van belang dat gedurende de voorafgaande periode van vijf jaar aan alle voorwaarden voor verblijf is voldaan en dat nog steeds aan de voorwaarden van [artikel 9 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) wordt voldaan. Wanneer de relatie binnen een periode van vijf jaar is verbroken bestaat er in beginsel, geen recht op voortgezet verblijf. 
-### *Voorbeeld 1:* 
+Dat de relatie op het moment van aanvragen van de vergunning voor voortgezet verblijf is verbroken, is niet van belang. Wel is van belang dat gedurende de voorafgaande periode van vijf jaar aan alle voorwaarden voor verblijf is voldaan en dat nog steeds aan de voorwaarden van [artikel 9 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) wordt voldaan. Wanneer de relatie binnen een periode van vijf jaar is verbroken bestaat er in beginsel, geen recht op voortgezet verblijf. Voorbeeld 1: Een echtpaar is gedurende zes jaar gehuwd geweest. Gedurende de afgelopen vijf jaar heeft de vrouw verblijf bij haar echtgenoot gehad. Gedurende deze periode is aan alle voorwaarden voor verblijf voldaan. De echtgenote verzoekt om voortgezet verblijf, omdat zij inmiddels gescheiden is van haar echtgenoot. Zij kan, mits zij aan de voorwaarden voor verblijf voldoet, in het bezit gesteld worden van de verblijfsvergunning. Voorbeeld 2: Een man en vrouw hebben al gedurende acht jaar een relatie. De man heeft gedurende de afgelopen vijf jaar verblijf bij haar gehad. De man en vrouw hebben nog steeds een relatie en blijven bij elkaar wonen. Toch wil de man een verblijfsvergunning aanvragen in het kader van voortgezet verblijf. Wanneer aan de voorwaarden voor verblijf wordt voldaan, krijgt de man de gevraagde verblijfsvergunning. Dat hij nog steeds een relatie met zijn vriendin heeft is geen reden de man te verplichten de afhankelijke verblijfsvergunning – afhankelijk van de relatie met zijn vriendin – te houden. Uitzondering op deze regel zijn: 
 
-Een echtpaar is gedurende zes jaar gehuwd geweest. Gedurende de afgelopen vijf jaar heeft de vrouw verblijf bij haar echtgenoot gehad. Gedurende deze periode is aan alle voorwaarden voor verblijf voldaan. De echtgenote verzoekt om voortgezet verblijf, omdat zij inmiddels gescheiden is van haar echtgenoot. Zij kan, mits zij aan de voorwaarden voor verblijf voldoet, in het bezit gesteld worden van de verblijfsvergunning. 
-### *Voorbeeld 2:* 
-
-Een man en vrouw hebben al gedurende acht jaar een relatie. De man heeft gedurende de afgelopen vijf jaar verblijf bij haar gehad. De man en vrouw hebben nog steeds een relatie en blijven bij elkaar wonen. Toch wil de man een verblijfsvergunning aanvragen in het kader van voortgezet verblijf. Wanneer aan de voorwaarden voor verblijf wordt voldaan, krijgt de man de gevraagde verblijfsvergunning. Dat hij nog steeds een relatie met zijn vriendin heeft is geen reden de man te verplichten de afhankelijke verblijfsvergunning – afhankelijk van de relatie met zijn vriendin – te houden. Uitzondering op deze regel zijn: 
-
-* vreemdelingen van wie de verblijfsgever binnen de periode van 5 jaar is overleden. (zie paragraaf 4)  
+* vreemdelingen van wie de verblijfsgever binnen de periode van 5 jaar is overleden (zie paragraaf 4).  
 
 * vreemdelingen van wie de relatie binnen 5 jaar is verbroken vanwege geweld (zie paragraaf 5).  
 
 * gezinsleden van een verblijfgever die verblijf heeft verband houdend met bescherming. Deze gezinsleden komen niet in aanmerking voor voortgezet verblijf zolang de verblijfgever zelf niet over een zelfstandige verblijfsvergunning beschikt. Op deze manier komen de van de verblijfgever afhankelijke gezinsleden niet (eerder) in een betere verblijfsrechtelijke positie dan de vreemdeling voor wie zij voor hun verblijf afhankelijk zijn.   Wanneer vastgesteld wordt dat een vreemdeling niet aan de voorwaarden voor voortgezet verblijf voldoet en niet tot inwilliging van de aanvraag kan worden overgegaan, wordt altijd rekening gehouden met de werking van artikel 8 EVRM. In sommige gevallen kan er toch reden bestaan om de vreemdeling voortzetting van het verblijf toe te staan, zonder verblijf onder de beperking ‘voortgezet verblijf’ te verlenen. Het verblijf dat dan verleend wordt, is verblijf in het kader van artikel 8 EVRM. Bij de beoordeling of artikel 8 EVRM aanleiding vormt om toch voortzetting van het verblijf toe te staan moet gedacht worden aan de volgende omstandigheden: 
 
-a na verbreking van de(huwelijks) relatie blijft er familie- of gezinsleven bestaan tussen ouder en kind ook al is er geen sprake meer van feitelijke samenwoning:  
+a. na verbreking van de(huwelijks) relatie blijft er familie- of gezinsleven bestaan tussen ouder en kind ook al is er geen sprake meer van feitelijke samenwoning:  
 
-b de ouder draagt aantoonbaar en wezenlijk bij aan de opvoeding en verzorging van het kind. Het gaat hier om meer dan regelmatig geld over maken, er moet sprake zijn van een grote mate van persoonlijke betrokkenheid bij het kind.   In dergelijke gevallen wordt de geldigheidsduur van de verblijfsvergunning slechts verleend voor de duur van maximaal één jaar. Bij elk verzoek om verlenging dient vastgesteld te worden dat de bijzondere gezinsband nog steeds bestaat. 
-### *Voorbeeld 1:* 
-
-Uit de (huwelijks)relatie is een kind geboren. Het kind is acht jaar oud en gaat naar school. Het kind heeft een dubbele nationaliteit, de Nederlandse en de Venezolaanse. Het kind woont bij zijn moeder, maar de vader brengt en haalt het kind twee dagen in de week naar en van school. Het kind eet dan bij hem. Hij heeft samen met de moeder regelmatig contact met de school over de voortgang van het kind en wanneer er belangrijke beslissingen genomen moeten worden doen de ouders dit samen. De ouders hebben nog regelmatig contact over het kind. De vader draagt ook bij in de kosten van levensonderhoud van het kind. De ouders zijn voor deze regeling niet naar een rechter geweest. Zij hebben de afspraken in goede harmonie gemaakt en houden zich er ook aan. 
-### *Voorbeeld 2:* 
-
-Uit de (huwelijks)relatie is een kind geboren. Het kind is 12 jaar oud en gaat naar school. Het kind heeft een dubbele nationaliteit, de Nederlandse en de Venezolaanse. De vader geeft, af en toe, geld aan de moeder voor het levensonderhoud van het kind. Soms ziet hij het kind wanneer zijn ex-partner zijn familie bezoekt. Hij gaat nooit alleen met zijn kind op stap en is niet betrokken bij de opvoeding van het kind. In dit geval is er geen noemenswaardige band tussen vader en kind en ook geen reden om daarom woonachtig te blijven op de openbare lichamen. Er kan ook sprake zijn van objectieve belemmeringen om het gezinsleven buiten de openbare lichamen voort te zetten. Hierbij kan bijvoorbeeld gedacht worden aan: 
+b. de ouder draagt aantoonbaar en wezenlijk bij aan de opvoeding en verzorging van het kind. Het gaat hier om meer dan regelmatig geld over maken, er moet sprake zijn van een grote mate van persoonlijke betrokkenheid bij het kind.   In dergelijke gevallen wordt de geldigheidsduur van de verblijfsvergunning slechts verleend voor de duur van maximaal één jaar. Bij elk verzoek om verlenging dient vastgesteld te worden dat de bijzondere gezinsband nog steeds bestaat. Voorbeeld 1: Uit de (huwelijks)relatie is een kind geboren. Het kind is acht jaar oud en gaat naar school. Het kind heeft een dubbele nationaliteit, de Nederlandse en de Venezolaanse. Het kind woont bij zijn moeder, maar de vader brengt en haalt het kind twee dagen in de week naar en van school. Het kind eet dan bij hem. Hij heeft samen met de moeder regelmatig contact met de school over de voortgang van het kind en wanneer er belangrijke beslissingen genomen moeten worden doen de ouders dit samen. De ouders hebben nog regelmatig contact over het kind. De vader draagt ook bij in de kosten van levensonderhoud van het kind. De ouders zijn voor deze regeling niet naar een rechter geweest. Zij hebben de afspraken in goede harmonie gemaakt en houden zich er ook aan. Voorbeeld 2: Uit de (huwelijks)relatie is een kind geboren. Het kind is 12 jaar oud en gaat naar school. Het kind heeft een dubbele nationaliteit, de Nederlandse en de Venezolaanse. De vader geeft, af en toe, geld aan de moeder voor het levensonderhoud van het kind. Soms ziet hij het kind wanneer zijn ex-partner zijn familie bezoekt. Hij gaat nooit alleen met zijn kind op stap en is niet betrokken bij de opvoeding van het kind. In dit geval is er geen noemenswaardige band tussen vader en kind en ook geen reden om daarom woonachtig te blijven op de openbare lichamen. Er kan ook sprake zijn van objectieve belemmeringen om het gezinsleven buiten de openbare lichamen voort te zetten. Hierbij kan bijvoorbeeld gedacht worden aan: 
 
 1. een ouder die verblijf heeft in de openbare lichamen verband houdend met bescherming. Van die ouder kan niet verwacht worden dat hij terugkeert naar zijn land van herkomst om zijn kind te bezoeken;  
 
 2. een kind dat niet toegelaten wordt tot het land van herkomst van de ouder met wie het geacht wordt te vertrekken.   
 ### *Ad 1 en 2:* 
 
-In dat geval is het volgende van belang: hij die stelt toont aan. Niet de IND unit Caribisch Nederland toont aan dat het *niet* zo is, de vreemdeling bewijst dat het *wel* zo is. Een ouder die verblijf heeft verband houdend met bescherming, maar die niet betrokken is bij het leven van zijn biologische kind, vormt geen objectieve belemmering. Dat de vertrekkende ouder ‘hoopt’ dat deze ouder in de toekomst wel betrokken wil zijn bij het leven van het bewuste kind is onvoldoende reden om op dit moment een objectieve belemmering aan te nemen. Een vrouw die stelt dat haar kind niet zal worden toegelaten tot het land waar zij naar toe terug moet keren, dient dit aan te tonen door het overleggen van een schriftelijke verklaring van de autoriteiten van dat land. Uit deze verklaring moet blijken dat het kind niet wordt toegelaten tot het land van herkomst van de moeder.    
+In dat geval is het volgende van belang: hij die stelt toont aan. Niet de IND-unit Caribisch Nederland toont aan dat het niet zo is, de vreemdeling bewijst dat het wel zo is. Een ouder die verblijf heeft verband houdend met bescherming, maar die niet betrokken is bij het leven van zijn biologische kind, vormt geen objectieve belemmering. Dat de vertrekkende ouder ‘hoopt’ dat deze ouder in de toekomst wel betrokken wil zijn bij het leven van het bewuste kind is onvoldoende reden om op dit moment een objectieve belemmering aan te nemen. Een vrouw die stelt dat haar kind niet zal worden toegelaten tot het land waar zij naar toe terug moet keren, dient dit aan te tonen door het overleggen van een schriftelijke verklaring van de autoriteiten van dat land. Uit deze verklaring moet blijken dat het kind niet wordt toegelaten tot het land van herkomst van de moeder.    
 ### 3.2  
 
 ####Vereiste bescheiden
@@ -5130,7 +5176,7 @@ Aan de verlening van de verblijfsvergunning wordt het voorschrift verbonden dat 
 
 ####Geldigheidsduur
 
-De verblijfsvergunning is geldig voor de duur van vijf jaar ([art. 6 lid 2 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [art. 5.28 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).      
+De verblijfsvergunning is geldig voor de duur van vijf jaar ([art. 6 lid 2 WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) en [art. 5.28 BTU-BES](../../../../../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md)).       
 ### Hoofdstuk  16  
 
 ####Aanvragen om bescherming tegen terugzending
@@ -5246,7 +5292,7 @@ b. aannemelijk is dat de autoriteiten hem niet hebben kunnen of willen bescherme
 
 ####Vervolging vanwege godsdienst
 
-Het begrip ‘godsdienst’ omvat met name theïstische, niet-theïstische en atheïstische geloofsovertuigingen. Dat wil zeggen: handelingen en gedachten die voortvloeien uit een (godsdienstige) stroming en overtuiging dat de mens door een bovennatuurlijke macht wordt geleid, of de overtuiging dat er geen bovennatuurlijke besturing bestaat en/of dat de mens zelf verantwoordelijk is voor zijn handelen. Hierbij kan het gaan om het deelnemen aan, of het zich onthouden van, formele erediensten in de particuliere of openbare sfeer, hetzij alleen of in gemeenschap met anderen. Het kan ook gaan om andere religieuze activiteiten of uitingen of om vormen van persoonlijk of gemeenschappelijk gedrag die op een godsdienstige overtuiging zijn gebaseerd of daardoor worden bepaald. Onder het begrip ‘godsdienst’ valt iedere godsdienst, levensbeschouwing of sekte, waartoe de vreemdeling behoort of waarvan de autoriteiten of andere actoren van vervolging (zie paragraaf 2.1, kopje ‘ *Actoren van vervolging’)* stellen dat de vreemdeling ertoe behoort. Vervolging om reden van godsdienst doet zich op verschillende manieren voor, zoals: 
+Het begrip ‘godsdienst’ omvat met name theïstische, niet-theïstische en atheïstische geloofsovertuigingen. Dat wil zeggen: handelingen en gedachten die voortvloeien uit een (godsdienstige) stroming en overtuiging dat de mens door een bovennatuurlijke macht wordt geleid, of de overtuiging dat er geen bovennatuurlijke besturing bestaat en/of dat de mens zelf verantwoordelijk is voor zijn handelen. Hierbij kan het gaan om het deelnemen aan, of het zich onthouden van, formele erediensten in de particuliere of openbare sfeer, hetzij alleen of in gemeenschap met anderen. Het kan ook gaan om andere religieuze activiteiten of uitingen of om vormen van persoonlijk of gemeenschappelijk gedrag die op een godsdienstige overtuiging zijn gebaseerd of daardoor worden bepaald. Onder het begrip ‘godsdienst’ valt iedere godsdienst, levensbeschouwing of sekte, waartoe de vreemdeling behoort of waarvan de autoriteiten of andere actoren van vervolging (zie paragraaf 2.1, kopje ‘*Actoren van vervolging’)* stellen dat de vreemdeling ertoe behoort. Vervolging om reden van godsdienst doet zich op verschillende manieren voor, zoals: 
 
 a. het totale verbod op godsdienstuitoefening en godsdienstonderwijs; en  
 
@@ -5255,7 +5301,7 @@ b. ernstig discriminerende maatregelen tegen personen van een bepaalde godsdiens
 
 ####Vervolging vanwege politieke overtuiging
 
-Het begrip ‘politieke overtuiging’ houdt onder andere in dat de vreemdeling een opvatting, gedachte of mening heeft over bijvoorbeeld het beleid of de methoden van de autoriteiten of andere actoren van vervolging (zie paragraaf 2.1, kopje ‘ *Actoren van vervolging’)*, ofwel dat laatstgenoemden stellen dat de vreemdeling deze overtuiging heeft. Om vervolging vanwege politieke overtuiging te kunnen aannemen dient de bedoelde opvatting, mening of gedachte onder de aandacht van de autoriteiten of andere actoren van vervolging te zijn gekomen, of moet het waarschijnlijk zijn dat dit alsnog zal gebeuren. Voorbeelden van een uiting van een politieke overtuiging kunnen zijn een pamflet of een journalistiek stuk of een lidmaatschap van een verboden partij. Het bestaan ervan op zich is nog niet voldoende om al een situatie aan te nemen van vervolging. Bij vervolging wordt gedoeld op een situatie waarin de autoriteiten op de hoogte zijn van genoemde situaties en in deze omstandigheden de schrijver van het stuk of het lid van een verboden partij of de bezitter van een pamflet onderwerpt aan gevangenis- of lijfstraffen vanwege het enkele feit dat zij lid zijn van de verboden partij. Als de vreemdeling een vrouw is, kan het overtreden van seksediscriminerende sociale gebruiken, religieuze voorschriften of culturele normen voor vrouwen; of het overtreden van strafbepalingen die in zichzelf in strijd zijn met de universele mensenrechten, in de volgende gevallen worden opgevat als het uiten van een bepaalde politieke overtuiging: 
+Het begrip ‘politieke overtuiging’ houdt onder andere in dat de vreemdeling een opvatting, gedachte of mening heeft over bijvoorbeeld het beleid of de methoden van de autoriteiten of andere actoren van vervolging (zie paragraaf 2.1, kopje ‘*Actoren van vervolging’)*, ofwel dat laatstgenoemden stellen dat de vreemdeling deze overtuiging heeft. Om vervolging vanwege politieke overtuiging te kunnen aannemen dient de bedoelde opvatting, mening of gedachte onder de aandacht van de autoriteiten of andere actoren van vervolging te zijn gekomen, of moet het waarschijnlijk zijn dat dit alsnog zal gebeuren. Voorbeelden van een uiting van een politieke overtuiging kunnen zijn een pamflet of een journalistiek stuk of een lidmaatschap van een verboden partij. Het bestaan ervan op zich is nog niet voldoende om al een situatie aan te nemen van vervolging. Bij vervolging wordt gedoeld op een situatie waarin de autoriteiten op de hoogte zijn van genoemde situaties en in deze omstandigheden de schrijver van het stuk of het lid van een verboden partij of de bezitter van een pamflet onderwerpt aan gevangenis- of lijfstraffen vanwege het enkele feit dat zij lid zijn van de verboden partij. Als de vreemdeling een vrouw is, kan het overtreden van seksediscriminerende sociale gebruiken, religieuze voorschriften of culturele normen voor vrouwen; of het overtreden van strafbepalingen die in zichzelf in strijd zijn met de universele mensenrechten, in de volgende gevallen worden opgevat als het uiten van een bepaalde politieke overtuiging: 
 
 a. wanneer de vreemdelinge afkomstig is uit een samenleving waar de vrouw een strikt gedefinieerde (veelal ondergeschikte) rol vervult; én  
 
@@ -5374,11 +5420,11 @@ III een daartoe bevoegde rechtbank, zoals:
 
 ####Refugiés sur place
 
-De vrees voor vervolging hoeft niet altijd aanwezig te zijn op het moment dat iemand zijn land verlaat. Een persoon die geen vervolging te vrezen had op het moment dat hij zijn land van herkomst verliet, maar op een later tijdstip tijdens zijn verblijf buiten het land van herkomst vluchteling wordt heet ‘refugié sur place’. Er zijn twee mogelijke omstandigheden die iemand tot refugié sur place maken. *Ten eerste* kan iemand een refugié sur place worden doordat de omstandigheden in het land van herkomst zich, tijdens zijn verblijf buiten het land van herkomst, zodanig wijzigen (bijvoorbeeld door een machtswisseling), dat hij bij terugkeer gegronde reden heeft te vrezen voor vervolging in de zin van het Vluchtelingenverdrag. Ook wanneer een vreemdeling zijn politieke overtuiging pas verkondigt na vertrek uit zijn land van herkomst, kan hij refugié sur place worden. Dit kan het geval zijn als hij aannemelijk maakt dat de overtuiging al bestond in het land van herkomst. In ieder geval is vereist dat: 
+De vrees voor vervolging hoeft niet altijd aanwezig te zijn op het moment dat iemand zijn land verlaat. Een persoon die geen vervolging te vrezen had op het moment dat hij zijn land van herkomst verliet, maar op een later tijdstip tijdens zijn verblijf buiten het land van herkomst vluchteling wordt heet ‘refugié sur place’. Er zijn twee mogelijke omstandigheden die iemand tot refugié sur place maken.  *Ten eerste* kan iemand een refugié sur place worden doordat de omstandigheden in het land van herkomst zich, tijdens zijn verblijf buiten het land van herkomst, zodanig wijzigen (bijvoorbeeld door een machtswisseling), dat hij bij terugkeer gegronde reden heeft te vrezen voor vervolging in de zin van het Vluchtelingenverdrag. Ook wanneer een vreemdeling zijn politieke overtuiging pas verkondigt na vertrek uit zijn land van herkomst, kan hij refugié sur place worden. Dit kan het geval zijn als hij aannemelijk maakt dat de overtuiging al bestond in het land van herkomst. In ieder geval is vereist dat: 
 
 a. de autoriteiten in het land van herkomst van deze overtuiging op de hoogte zijn of kunnen geraken; en  
 
-b. dat het bekend zijn van deze overtuiging een gegronde vrees voor vervolging in de zin van het Vluchtelingenverdrag oplevert.   *Ten tweede* is het mogelijk dat iemand ten gevolge van zijn eigen activiteiten buiten het land van herkomst gegronde reden heeft te vrezen voor vervolging als hij naar dat land zou terugkeren. Hierbij kan gedacht worden aan: 
+b. dat het bekend zijn van deze overtuiging een gegronde vrees voor vervolging in de zin van het Vluchtelingenverdrag oplevert.    *Ten tweede* is het mogelijk dat iemand ten gevolge van zijn eigen activiteiten buiten het land van herkomst gegronde reden heeft te vrezen voor vervolging als hij naar dat land zou terugkeren. Hierbij kan gedacht worden aan: 
 
 a. het deelnemen aan demonstraties gericht tegen het eigen regime;  
 
@@ -5398,7 +5444,7 @@ b. of individueel heeft plaatsgevonden.   Vaak heeft de UNHCR geen tijd om een i
 
 ####Minderjarige vreemdelingen
 
-In het Vluchtelingenverdrag zijn geen aparte bepalingen opgenomen over (alleenstaande) minderjarige vreemdelingen. Indien hij vergezeld wordt door zijn ouder(s), kan hij vanwege het behoren tot het gezin een afhankelijke status krijgen in het geval de hoofdpersoon van het gezin wordt erkend en toegelaten als vluchteling. Indien het minderjarige kind een andere nationaliteit heeft dan de hoofdpersoon, heeft hij in beginsel geen recht op een afhankelijke status. Maar indien de minderjarige in dit geval zelfstandige vluchtmotieven heeft, kan hij vanwege deze zelfstandige motieven mogelijk op eigen titel een vergunning tot verblijf op grond van [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) krijgen. Een minderjarige vreemdeling niet wordt begeleid door zijn ouders of een voogd kan ook vanwege zelfstandige motieven in aanmerking komen voor een vergunning tot verblijf op grond van [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Om te kunnen vaststellen of een minderjarige vreemdeling als vluchteling kan worden erkend, gelden dezelfde criteria als voor volwassen vreemdelingen. Bij de beoordeling van een aanvraag om bescherming van een minderjarige vreemdeling moet wel rekening worden gehouden met de mate van geestelijke ontwikkeling en volwassenheid van de minderjarige, in relatie tot zijn (persoonlijke en culturele) achtergrond. Over het algemeen genomen geldt dat van een minderjarige niet dezelfde mate van onderbouwing en gedetailleerdheid van verklaringen kan worden verwacht als van een volwassene.     
+In het Vluchtelingenverdrag zijn geen aparte bepalingen opgenomen over (alleenstaande) minderjarige vreemdelingen. Indien hij vergezeld wordt door zijn ouder(s), kan hij vanwege het behoren tot het gezin een afhankelijke status krijgen in het geval de hoofdpersoon van het gezin wordt erkend en toegelaten als vluchteling. Indien het minderjarige kind een andere nationaliteit heeft dan de hoofdpersoon, heeft hij in beginsel geen recht op een afhankelijke status. Maar indien de minderjarige in dit geval zelfstandige vluchtmotieven heeft, kan hij vanwege deze zelfstandige motieven mogelijk op eigen titel een vergunning tot verblijf op grond van [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) krijgen.  Een minderjarige vreemdeling niet wordt begeleid door zijn ouders of een voogd kan ook vanwege zelfstandige motieven in aanmerking komen voor een vergunning tot verblijf op grond van [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md). Om te kunnen vaststellen of een minderjarige vreemdeling als vluchteling kan worden erkend, gelden dezelfde criteria als voor volwassen vreemdelingen. Bij de beoordeling van een aanvraag om bescherming van een minderjarige vreemdeling moet wel rekening worden gehouden met de mate van geestelijke ontwikkeling en volwassenheid van de minderjarige, in relatie tot zijn (persoonlijke en culturele) achtergrond. Over het algemeen genomen geldt dat van een minderjarige niet dezelfde mate van onderbouwing en gedetailleerdheid van verklaringen kan worden verwacht als van een volwassene.     
 ### 2.6  
 
 ####Artikelen 1B tot en met 1F Vluchtelingenverdrag
@@ -5874,7 +5920,7 @@ a. dat de hier bedoelde gezinsleden dezelfde nationaliteit hebben als de houder 
 
 b. dat zij feitelijk behoren tot zijn gezin; en  
 
-c. dat zij gelijktijdig zijn ingereisd met hem.   Het huwelijk of partnerschap moet reeds bestaan hebben in het buitenland en er moet sprake zijn geweest van samenwoning in het land van herkomst. Een traditioneel huwelijk wordt gelijkgesteld aan partnerschap. Achtergebleven gezinsleden kunnen vanuit het buitenland een mvv voor gezinshereniging aanvragen. Kiezen zij ervoor om zonder mvv spontaan in te reizen, dan dienen zij een zelfstandige aanvraag te doen voor een vergunning tot verblijf verband houdend met bescherming. Wanneer de gezinsleden zijn ingereisd met een mvv, dienen zij zich te melden bij de IND unit Caribisch Nederland voor het indienen van een aanvraag voor een vergunning tot tijdelijk verblijf om redenen verband houdend met bescherming. Hiernaar wordt verwezen in de brieven bij de afgifte van de mvv. Ook gezinsleden die zijn ingereisd zonder een mvv, dienen zich voor het indienen van deze aanvraag te vervoegen bij de IND unit Caribisch Nederland. De afgeleide vergunning tot verblijf verband houdend met bescherming wordt ook voor één jaar verleend.    
+c. dat zij gelijktijdig zijn ingereisd met hem.   Het huwelijk of partnerschap moet reeds bestaan hebben in het buitenland en er moet sprake zijn geweest van samenwoning in het land van herkomst. Een traditioneel huwelijk wordt gelijkgesteld aan partnerschap. Achtergebleven gezinsleden kunnen vanuit het buitenland een mvv voor gezinshereniging aanvragen. Kiezen zij ervoor om zonder mvv spontaan in te reizen, dan dienen zij een zelfstandige aanvraag te doen voor een vergunning tot verblijf verband houdend met bescherming.  Wanneer de gezinsleden zijn ingereisd met een mvv, dienen zij zich te melden bij de IND unit Caribisch Nederland voor het indienen van een aanvraag voor een vergunning tot tijdelijk verblijf om redenen verband houdend met bescherming. Hiernaar wordt verwezen in de brieven bij de afgifte van de mvv. Ook gezinsleden die zijn ingereisd zonder een mvv, dienen zich voor het indienen van deze aanvraag te vervoegen bij de IND unit Caribisch Nederland. De afgeleide vergunning tot verblijf verband houdend met bescherming wordt ook voor één jaar verleend.    
 ### 7  
 
 ####Herhaalde aanvraag
@@ -6439,7 +6485,7 @@ c. die samen met één of meer minderjarige kinderen feitelijk een gezin vormt. 
 
 ####Beroep
 
-Tegen een besluit tot het opleggen van een vrijheidsbeperkende of vrijheidsontnemende maatregel kan de vreemdeling beroep instellen bij de rechtbank (zie [artikel 22k WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Het indienen van bezwaar of administratief beroep tegen deze maatregelen is niet mogelijk (zie [hoofdstuk 4 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). De Minister kan aan de Korpschef en aan de Commandant der Koninklijke Marechaussee aanwijzingen geven over de uitvoering van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), ook ten aanzien van de in dit hoofdstuk genoemde maatregelen (zie [artikel 22b, tweede lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)).     
+Tegen een besluit tot het opleggen van een vrijheidsbeperkende of vrijheidsontnemende maatregel kan de vreemdeling beroep instellen bij de rechtbank (zie [artikel 22k WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)). Het indienen van bezwaar of administratief beroep tegen deze maatregelen is niet mogelijk (zie [hoofdstuk 4 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). De Minister kan aan de Korpschef en aan de Commandant der Koninklijke Marechaussee aanwijzingen geven over de uitvoering van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), ook ten aanzien van de in dit hoofdstuk genoemde maatregelen (zie [artikel 22b, tweede lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)).      
 ### Hoofdstuk  19  
 
 ####Rechtsmiddelen
@@ -6453,18 +6499,18 @@ De [WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtsp
 
 ####Bezwaar en beroep algemeen
 
-Het indienen van bezwaar is niet verplicht (zie [artikel 54 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Dit betekent dat een vreemdeling rechtstreeks bij het Gerecht in Eerste Aanleg in beroep kan gaan tegen een beschikking van de IND unit Caribisch Nederland. De IND unit Caribisch Nederland kan besluiten een dergelijk beroepschrift als een bezwaarschrift te behandelen. Dit gebeurt in de volgende gevallen: 
+Het indienen van bezwaar is niet verplicht (zie [artikel 54 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Dit betekent dat een vreemdeling rechtstreeks bij het Gerecht in Eerste Aanleg in beroep kan gaan tegen een beschikking van de IND-unit Caribisch Nederland. De IND-unit Caribisch Nederland kan besluiten een dergelijk beroepschrift als een bezwaarschrift te behandelen. Dit gebeurt in de volgende gevallen: 
 
 * als in de beschikking is aangegeven dat tegen de beschikking bezwaar kan worden ingediend;  
 
 * als er sprake is van nieuwe feiten en omstandigheden;  
 
-* als er aanleiding is de vreemdeling omtrent het bezwaarschrift te horen.   Daarnaast kan het Gerecht in eerste aanleg de IND unit Caribisch Nederland voorafgaande aan de openbare behandeling van het beroepschrift verzoeken om binnen een bepaalde termijn te verklaren of de IND unit Caribisch Nederland bereid is de beschikking in heroverweging te nemen.   
+* als er aanleiding is de vreemdeling omtrent het bezwaarschrift te horen.   Daarnaast kan het Gerecht in eerste aanleg de IND-unit Caribisch Nederland voorafgaande aan de openbare behandeling van het beroepschrift verzoeken om binnen een bepaalde termijn te verklaren of de IND-unit Caribisch Nederland bereid is de beschikking in heroverweging te nemen.   
 ### 2.1  
 
 ####Vereisten voor de indiening van bezwaar
 
-Wanneer de IND unit Caribisch Nederland van plan is om voorafgaand aan een beroepschrift een bezwaarschrift te behandelen, dan wordt de mogelijkheid om bezwaar in te dienen in de beschikking opgenomen (zie [artikel 56, vierde lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Een bezwaarschrift in visum- en mvv-zaken wordt gericht aan de minister van Buitenlandse Zaken, maar moet worden toegezonden aan de IND unit Caribisch Nederland. Tegen de afwijzing van een verzoek verband houdende met bescherming als bedoeld in [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) moet rechtstreeks beroep worden ingesteld. In een bezwaarschrift moet de volgende informatie staan ([artikel 57, vierde lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)): 
+Wanneer de IND-unit Caribisch Nederland van plan is om voorafgaand aan een beroepschrift een bezwaarschrift te behandelen, dan wordt de mogelijkheid om bezwaar in te dienen in de beschikking opgenomen (zie [artikel 56, vierde lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Een bezwaarschrift in mvv-zaken moet worden toegezonden aan de IND-unit Caribisch Nederland. Tegen de afwijzing van een verzoek verband houdende met bescherming als bedoeld in [artikel 12a WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) moet rechtstreeks beroep worden ingesteld. In een bezwaarschrift moet de volgende informatie staan ([artikel 57, vierde lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)): 
 
 a. de naam, voornaam en de woonplaats van de indiener en, indien het door een gemachtigde wordt ingediend, tevens de naam, voornamen en woonplaats van de gemachtigde;  
 
@@ -6482,10 +6528,10 @@ f. de keuze van een woonplaats in de openbare lichamen, indien de indiener geen 
 De bezwaartermijn bedraagt, in afwijking van de [WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), vier weken. 
 ### *Ad b:* 
 
-Een bezwaarschrift mag worden ingediend door de volgende personen (zie [artikel 7, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)): Natuurlijke personen of rechtspersonen, die door een beschikking rechtstreeks in hun belang zijn getroffen. Natuurlijke personen zijn levende personen, rechtspersonen zijn instanties die volgens het Burgerlijk Wetboek BES in bepaalde gevallen als personen mogen handelen, zoals een vennootschap of een pensioenfonds. Wanneer een bezwaarschrift niet voldoet aan (één van) de hierboven genoemde vereisten, dan stelt de IND unit Caribisch Nederland de indiener van het bezwaarschrift in de gelegenheid om binnen een termijn van twee weken alsnog het verzuim te herstellen. 
+Een bezwaarschrift mag worden ingediend door de volgende personen (zie [artikel 7, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)): Natuurlijke personen of rechtspersonen, die door een beschikking rechtstreeks in hun belang zijn getroffen. Natuurlijke personen zijn levende personen, rechtspersonen zijn instanties die volgens het Burgerlijk Wetboek BES in bepaalde gevallen als personen mogen handelen, zoals een vennootschap of een pensioenfonds. Wanneer een bezwaarschrift niet voldoet aan (één van) de hierboven genoemde vereisten, dan stelt de IND-unit Caribisch Nederland de indiener van het bezwaarschrift in de gelegenheid om binnen een termijn van twee weken alsnog het verzuim te herstellen. 
 ### *Uitstel van indiening nadere gronden* 
 
-De IND unit Caribisch Nederland verleent voor het indienen van de nadere gronden, als bedoeld in [artikel 57, vierde lid, onder c, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), bij het bezwaarschrift uitstel: 
+De IND-unit Caribisch Nederland verleent voor het indienen van de nadere gronden, als bedoeld in [artikel 57, vierde lid, onder c, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), bij het bezwaarschrift uitstel: 
 
 a. Bij het niet tijdig beschikbaar zijn van een tolk: tot vijf werkdagen na de eerstvolgende datum waarop een tolk in de gewenste taal wel beschikbaar is, als de indiener van het verzoek om uitstel schriftelijk kan aantonen dat tijdig een tolk is aangevraagd, maar deze niet tijdig beschikbaar is.  
 
@@ -6493,28 +6539,30 @@ b. Bij plotselinge ziekte van de advocaat: tot vijf werkdagen (vanaf datum ziekt
 
 c. Bij plotselinge ziekte van de vreemdeling: tot vijf werkdagen na zijn herstel als de ziekte door het overleggen van een medische verklaring is aangetoond.  
 
-d. Bij vakantie van rechtshulpverleners: vijf werkdagen na de vakantie van de rechtshulpverlener als de vakantie ten minste één maand van tevoren schriftelijk is gemeld aan de IND unit Caribisch Nederland.   
+d. Bij vakantie van rechtshulpverleners: vijf werkdagen na de vakantie van de rechtshulpverlener als de vakantie ten minste één maand van tevoren schriftelijk is gemeld aan de IND-unit Caribisch Nederland.   
 ### *Ad a:* 
 
 Als de besproken tolk een al gemaakte afspraak afzegt, komt dit voor rekening van de vreemdeling, tenzij sprake is van overmacht van de zijde van de tolk. 
 ### *Ad b:* 
 
-Als door het uitstel de benodigde tolk niet tijdig beschikbaar is, geldt het gestelde onder a. Na afloop van de uitsteltermijn van vijf werkdagen gaat de IND unit Caribisch Nederland ervan uit dat de zaken van de betreffende advocaat door de kantoorgenoten of collega’s zijn overgenomen. 
+Als door het uitstel de benodigde tolk niet tijdig beschikbaar is, geldt het gestelde onder a. Na afloop van de uitsteltermijn van vijf werkdagen gaat de IND-unit Caribisch Nederland ervan uit dat de zaken van de betreffende advocaat door de kantoorgenoten of collega’s zijn overgenomen. 
 ### *Ad d:* 
 
-Voor eenmanskantoren wordt op uitdrukkelijk verzoek een ruimere termijn bepaald. Als uit het dossier blijkt dat de betrokken rechtshulpverlener al in eerdere fase van de procedure als rechtshulpverlener/gemachtigde is opgetreden, dan willigt de IND unit Caribisch Nederland het verzoek om uitstel in. De IND unit Caribisch Nederland wijst een verzoek om uitstel af bij wijziging van de rechtshulpverlener. Bij niet of niet tijdige indiening van de gronden het bezwaar verklaart de IND BES unit het bezwaarschrift niet-ontvankelijk. De IND unit Caribisch Nederland streeft er naar om binnen uiterlijk vier maanden na de datum van indiening op het bezwaarschrift te beslissen (zie [artikel 69, eerste lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Indien de IND unit Caribisch Nederland de streeftermijn niet haalt, verlengt de IND unit Caribisch Nederland deze termijn eenmaal met ten hoogste dertig dagen. De IND unit Caribisch Nederland zendt hiervan tijdig bericht aan de bezwaarde en eventuele andere partijen.    
+Voor eenmanskantoren wordt op uitdrukkelijk verzoek een ruimere termijn bepaald. Als uit het dossier blijkt dat de betrokken rechtshulpverlener al in eerdere fase van de procedure als rechtshulpverlener/gemachtigde is opgetreden, dan willigt de IND-unit Caribisch Nederland het verzoek om uitstel in. De IND-unit Caribisch Nederland wijst een verzoek om uitstel af bij wijziging van de rechtshulpverlener. Bij niet of niet tijdige indiening van de gronden het bezwaar verklaart de IND-unit Caribisch Nederland het bezwaarschrift niet-ontvankelijk. De IND-unit Caribisch Nederland streeft er naar om binnen uiterlijk vier maanden na de datum van indiening op het bezwaarschrift te beslissen (zie [artikel 69, eerste lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Als de IND-unit Caribisch Nederland de streeftermijn niet haalt, verlengt de IND-unit Caribisch Nederland deze termijn eenmaal met ten hoogste dertig dagen. De IND-unit Caribisch Nederland zendt hiervan tijdig bericht aan de bezwaarde en eventuele andere partijen.    
 ### 2.2  
 
 ####Opschorting van de werking van het (afwijzende) besluit
 
-Beschikkingen genomen op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) hebben onmiddellijke werking. Het instellen van een rechtsmiddel schorst de werking ervan in beginsel niet. In individuele gevallen kan dit anders worden bepaald. In de volgende situaties zal de IND unit Caribisch Nederland hiertoe in ieder geval niet overgaan): 
+Beschikkingen genomen op grond van de [WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) hebben onmiddellijke werking. Het instellen van een rechtsmiddel schorst de werking ervan in beginsel niet. In individuele gevallen kan dit anders worden bepaald. In de volgende situaties zal de IND-unit Caribisch Nederland hiertoe in ieder geval niet overgaan), indien: 
 
-* de situatie als bedoeld in [artikel 16 onder a](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md);  
+* de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde is afgewezen wegens het ontbreken van een geldige mvv (zie [artikel 9, eerste lid, onder a, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of wegens gevaar voor de openbare orde of nationale veiligheid (zie artikel 9, eerste lid, onder b, WTU-BES);  
 
-* de situatie als bedoeld in [artikel 16 onder d](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).   De vreemdeling kan het Gerecht in Eerste Aanleg verzoeken om de werking van een beschikking waartegen beroep bij het Gerecht in Eerste Aanleg of bezwaar bij de IND unit Caribisch Nederland is ingediend geheel of gedeeltelijk te schorsen (zie [artikel 85, eerste lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Ook kan de vreemdeling een verzoek om een voorlopige voorziening indienen (zie paragraaf 9.1.3) ter voorkoming van onevenredig nadeel. Hiervan is bijvoorbeeld sprake als de vreemdeling meent dat er redenen zijn om niet uitgezet te worden zolang zijn aanwezigheid nog nodig is voor de behandeling van het bezwaar- of beroepschrift of indien de uitzetting een schending meebrengt van de non-refoulement verplichtingen (zie voor non-refoulement hoofdstuk 16 CTU-BES). Wanneer het Gerecht in Eerste Aanleg een verzoek om schorsing toewijst, wordt de werking van de beschikking onmiddellijk gestuit totdat over het beroep uitspraak is gedaan (zie [artikel 88 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). De vreemdeling kan ook een verzoek om schorsing indienen hangende het hoger beroep (zie [artikel 94 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). 
+* de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd is afgewezen of de aanvraag tot het wijzigen van de verblijfsvergunning of de verblijfsvergunning voor bepaalde tijd is ingetrokken wegens een gevaar voor de openbare orde of nationale veiligheid (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md));  
+
+* de aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd is afgewezen of de verblijfsvergunning voor onbepaalde tijd is ingetrokken wegens een gevaar voor de openbare orde of nationale veiligheid (zie [artikel 9, eerste lid, onder b, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)).   De vreemdeling kan het Gerecht in Eerste Aanleg verzoeken om de werking van een beschikking waartegen beroep bij het Gerecht in Eerste Aanleg of bezwaar bij de IND-unit Caribisch Nederland is ingediend geheel of gedeeltelijk te schorsen (zie [artikel 85, eerste lid, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). Ook kan de vreemdeling een verzoek om een voorlopige voorziening indienen (zie paragraaf 9.1.3) ter voorkoming van onevenredig nadeel. Hiervan is bijvoorbeeld sprake als de vreemdeling meent dat er redenen zijn om niet uitgezet te worden zolang zijn aanwezigheid nog nodig is voor de behandeling van het bezwaar- of beroepschrift of indien de uitzetting een schending meebrengt van de non-refoulement verplichtingen (zie voor non-refoulement hoofdstuk 16 CTU-BES). Wanneer het Gerecht in Eerste Aanleg een verzoek om schorsing toewijst, wordt de werking van de beschikking onmiddellijk gestuit totdat over het beroep uitspraak is gedaan (zie [artikel 88 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). De vreemdeling kan ook een verzoek om schorsing indienen hangende het hoger beroep (zie [artikel 94 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). 
 ### *Aantekening* 
 
-In het geval de vreemdeling een rechtsmiddel aanwendt maakt de IND unit Caribisch Nederland een aantekening wat dit voor de opschorting van het aangezegde vertrek van de vreemdeling betekent. De IND unit Caribisch Nederland stelt of plaatst in het identiteitspapier/document voor grensoverschrijding van een vreemdeling een aantekening waaruit blijkt dat op welke datum bezwaar of beroep en/of een voorlopige voorziening is ingediend. In het geval van een lopende procedure over bescherming maakt de IND-BES de aantekening op een los inlegblad. Ook tekent de IND-BES aan of de vreemdeling dit rechtsmiddel mag afwachten en of de vreemdeling gedurende deze periode mag werken. Tenslotte geeft de IND unit Caribisch Nederland aan tot wanneer de aantekening geldig blijft. Indien niet bekend is op welke datum de uitspraak bekend, vermeldt de IND-BES een datum waarbinnen redelijkerwijs de beslissing of uitspraak te verwachten is. In het geval de vreemdeling bezwaar of beroep instelt tegen een beschikking waarbij hem verder verblijf wordt ontzegd, neemt de IND-BES het verblijfsdocument niet in als de uitzetting hangende het bezwaar of beroep mag worden afgewacht. De IND unit Caribisch Nederland haalt de genoemde aantekening door als het bezwaarschrift ongegrond is verklaard. Deze doorhaling wordt door de ambtenaar die de doorhaling verricht gedateerd en van zijn paraaf voorzien.    
+In het geval de vreemdeling een rechtsmiddel aanwendt maakt de IND-unit Caribisch Nederland een aantekening wat dit voor de opschorting van het aangezegde vertrek van de vreemdeling betekent. De IND-unit Caribisch Nederland stelt of plaatst in het identiteitspapier/document voor grensoverschrijding van een vreemdeling een aantekening waaruit blijkt dat op welke datum bezwaar of beroep en/of een voorlopige voorziening is ingediend. In het geval van een lopende procedure over bescherming maakt de IND-unit Caribisch Nederland de aantekening op een los inlegblad. Ook tekent de IND-unit Caribisch Nederland aan of de vreemdeling dit rechtsmiddel mag afwachten en of de vreemdeling gedurende deze periode mag werken. Tenslotte geeft de IND-unit Caribisch Nederland aan tot wanneer de aantekening geldig blijft. Indien niet bekend is op welke datum de uitspraak bekend, vermeldt de IND-unit Caribisch Nederland een datum waarbinnen redelijkerwijs de beslissing of uitspraak te verwachten is. In het geval de vreemdeling bezwaar of beroep instelt tegen een beschikking waarbij hem verder verblijf wordt ontzegd, neemt de IND-unit Caribisch Nederland het verblijfsdocument niet in als de uitzetting hangende het bezwaar of beroep mag worden afgewacht. De IND-unit Caribisch Nederland haalt de genoemde aantekening door als het bezwaarschrift ongegrond is verklaard. Deze doorhaling wordt door de ambtenaar die de doorhaling verricht gedateerd en van zijn paraaf voorzien.    
 ### 2.3  
 
 ####Het verzoek om een voorlopige voorziening
@@ -6530,12 +6578,12 @@ c. de uitzetting daardoor wordt belemmerd.
 
 ####Beroep
 
-De IND unit Caribisch Nederland is verplicht om bij de beschikking mededeling te doen van de mogelijkheid van het indienen van beroep en de termijn waarbinnen het beroepschrift moet zijn ingediend bij het Gerecht in Eerste Aanleg ([artikel 16 WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). De beroepstermijn bedraagt, in afwijking van de [WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), vier weken. Wanneer een vreemdeling beroep indient, moet hij een kopie van het beroepschrift aan de IND unit Caribisch Nederland verzenden. De IND unit Caribisch Nederland kan, in het geval gewichtige redenen daartoe aanleiding geven, het verstrekken van inlichtingen of stukken weigeren dan wel meedelen dat uitsluitend het Gerecht in Eerste Aanleg kennis mag nemen van de verstrekte inlichtingen of stukken. Hiervan is sprake als de beslissing berust op vertrouwelijke informatie. Het Gerecht in Eerste Aanleg kan aanvullende informatie inwinnen bij de IND unit Caribisch Nederland, maar ook bij andere overheidsinstanties.    
+De IND-unit Caribisch Nederland is verplicht om bij de beschikking mededeling te doen van de mogelijkheid van het indienen van beroep en de termijn waarbinnen het beroepschrift moet zijn ingediend bij het Gerecht in Eerste Aanleg ([artikel 16, lid 4, WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md)). De beroepstermijn bedraagt, in afwijking van de [WarBES](../../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), vier weken. Wanneer een vreemdeling beroep indient, moet hij een kopie van het beroepschrift aan de IND-unit Caribisch Nederland verzenden. Als betrokkene verblijft op Bonaire, dan moet het beroepschrift worden gestuurd naar de Griffie van het Gerecht in Eerste Aanleg te Bonaire. Als betrokkene verblijft op Saba of Sint Eustatius, dan moet het beroepschrift worden gestuurd naar de Griffie van het Gerecht in Eerste Aanleg te Sint Maarten. De IND-unit Caribisch Nederland kan, in het geval gewichtige redenen daartoe aanleiding geven, het verstrekken van inlichtingen of stukken weigeren dan wel meedelen dat uitsluitend het Gerecht in Eerste Aanleg kennis mag nemen van de verstrekte inlichtingen of stukken. Hiervan is sprake als de beslissing berust op vertrouwelijke informatie. Het Gerecht in Eerste Aanleg kan aanvullende informatie inwinnen bij de IND-unit Caribisch Nederland, maar ook bij andere overheidsinstanties.    
 ### 2.5  
 
 ####Hoger beroep
 
-Een vreemdeling kan in hoger beroep gaan bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba. Wanneer een vreemdeling in hoger beroep gaat, moet hij een kopie van het hoger beroepschrift aan de Minister van Justitie (dus de IND unit Caribisch Nederland) verzenden.     
+Een vreemdeling kan in hoger beroep gaan bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba. Wanneer een vreemdeling in hoger beroep gaat, moet hij een kopie van het hoger beroepschrift aan de Minister voor Immigratie, Integratie en Asiel (dus de IND-unit Caribisch Nederland) verzenden.     
 ### 3  
 
 ####Bijzondere rechtsmiddelen in de situatie van vrijheidsontneming
@@ -6545,7 +6593,7 @@ In de situatie van vrijheidsontneming gelden bijzondere rechtsmiddelen. Deze zij
 
 ####Klachten
 
-De [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de openbare lichamen, met uitzondering van [hoofdstuk 9](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (klachtbehandeling). Dit betekent dat vreemdelingen volgens hoofdstuk 9 van de Awb klachten kunnen indienen tegen de gedragingen van de IND unit Caribisch Nederland tot een jaar nadat de gedraging plaats heeft gevonden. Ongeacht de geldende wettelijke termijn ontvangt de IND unit Caribisch Nederland de klachten bij voorkeur zo snel mogelijk nadat de gedraging zich heeft voorgedaan. De IND-BES unit doet de ingekomen klacht zoveel mogelijk informeel af, waarbij de IND unit Caribisch Nederland in samenspraak met de klager een oplossing zoekt. Van de informeel gemaakte afspraken wordt een telefoonnotitie gemaakt. Hierin wordt vastgelegd of de klager akkoord gaat dat de IND unit Caribisch Nederland de klacht als afgehandeld mag beschouwen. De klager wordt de telefoonnotitie toegezonden. Indien de klager niet akkoord gaat met een informele afdoening, wordt schriftelijk aangegeven of de klacht als gegrond of ongegrond wordt beschouwd. Als de klager niet tevreden is over de klachtafhandeling of indien de klachtafhandeling niet tijdig heeft plaatsgevonden, kan de klager zich wenden tot de Nationale ombudsman.     
+De [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de openbare lichamen, met uitzondering van [hoofdstuk 9](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (klachtbehandeling). Dit betekent dat vreemdelingen volgens hoofdstuk 9 van de Awb klachten kunnen indienen tegen de gedragingen van de IND unit Caribisch Nederland tot een jaar nadat de gedraging plaats heeft gevonden. Ongeacht de geldende wettelijke termijn ontvangt de IND unit Caribisch Nederland de klachten bij voorkeur zo snel mogelijk nadat de gedraging zich heeft voorgedaan. De IND-BES unit doet de ingekomen klacht zoveel mogelijk informeel af, waarbij de IND unit Caribisch Nederland in samenspraak met de klager een oplossing zoekt. Van de informeel gemaakte afspraken wordt een telefoonnotitie gemaakt. Hierin wordt vastgelegd of de klager akkoord gaat dat de IND unit Caribisch Nederland de klacht als afgehandeld mag beschouwen. De klager wordt de telefoonnotitie toegezonden. Indien de klager niet akkoord gaat met een informele afdoening, wordt schriftelijk aangegeven of de klacht als gegrond of ongegrond wordt beschouwd. Als de klager niet tevreden is over de klachtafhandeling of indien de klachtafhandeling niet tijdig heeft plaatsgevonden, kan de klager zich wenden tot de Nationale ombudsman.      
 
 ####Modellen CTU-BES
 
@@ -6562,7 +6610,7 @@ De [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR000
 | MBES8  | Aanvraag verklaring toelating van rechtswege  |
 | MBES9  | Aanvraag verklaring niet van toepassing  |
 |  *Visa*   | --- |
-| MBES10  | Aanvraag om verlening van een terugkeervisum  |
+| MBES10  | Aanvraag om verlening van een terugkeervisum   |
 |  *Toegang*   | --- |
 | MBES11  | Inname/teruggave retourpassagebiljet  |
 | MBES12  | Inname/teruggave garantiesom  |
@@ -6583,7 +6631,7 @@ De [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR000
 | MBES26  | Garantstelling  |
 | MBES27  | Bewustverklaring tijdelijk verblijfsrecht  |
 | MBES28  | Garantstelling onderwijsinstelling  |
-| MBES29  | Werkgeversverklaring  |
+| MBES29   | Werkgeversverklaring  |
 | MBES30  | gereserveerd  |
 |  *Bescherming*   | --- |
 | MBES31  | Antecedentenverklaring bescherming  |
@@ -6599,105 +6647,105 @@ De [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR000
 |  *Bewaring*   | --- |
 | MBES40  | Maatregel van bewaring  |
 | MBES41  | Proces-verbaal van gehoor  |
-| MBES42  | Proces-verbaal staandehouding/ overbrenging/ ophouding  |
+| MBES42  | Proces-verbaal staandehouding/ overbrenging/ ophouding   |
 | MBES43  | Opheffing van een aanwijzing/ maatregel  |
-| MBES44  | Mededeling toepassing [artikel 22d, 3 <sup>e</sup> lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)  |
+| MBES44  | Mededeling toepassing [artikel 22d, 3<sup>e</sup> lid, WTU-BES](../../../../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)  |
 | Stickers  | --- |
 | MBES45  | Doorlating onder voorwaarden openbare lichamen  |
 | MBES46  | Verblijfsaantekeningen openbare lichamen Algemeen  |
-| MBES47  | Verblijfsaantekeningen openbare lichamen Vervolgprocedure(s)  |
+| MBES47  | Verblijfsaantekeningen openbare lichamen Vervolgprocedure(s)   |
 
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
-![247863](http://wetten.overheid.nl/Illustration/247863)
+![247770](http://wetten.overheid.nl/Illustration/247770)
+![247771](http://wetten.overheid.nl/Illustration/247771)
+![247772](http://wetten.overheid.nl/Illustration/247772)
+![247773](http://wetten.overheid.nl/Illustration/247773)
+![247774](http://wetten.overheid.nl/Illustration/247774)
+![247775](http://wetten.overheid.nl/Illustration/247775)
+![247776](http://wetten.overheid.nl/Illustration/247776)
+![247777](http://wetten.overheid.nl/Illustration/247777)
+![247778](http://wetten.overheid.nl/Illustration/247778)
+![247779](http://wetten.overheid.nl/Illustration/247779)
+![247780](http://wetten.overheid.nl/Illustration/247780)
+![247781](http://wetten.overheid.nl/Illustration/247781)
+![247782](http://wetten.overheid.nl/Illustration/247782)
+![247783](http://wetten.overheid.nl/Illustration/247783)
+![247784](http://wetten.overheid.nl/Illustration/247784)
+![247785](http://wetten.overheid.nl/Illustration/247785)
+![247786](http://wetten.overheid.nl/Illustration/247786)
+![247787](http://wetten.overheid.nl/Illustration/247787)
+![247788](http://wetten.overheid.nl/Illustration/247788)
+![247789](http://wetten.overheid.nl/Illustration/247789)
+![247790](http://wetten.overheid.nl/Illustration/247790)
+![247791](http://wetten.overheid.nl/Illustration/247791)
+![247792](http://wetten.overheid.nl/Illustration/247792)
+![247793](http://wetten.overheid.nl/Illustration/247793)
+![247794](http://wetten.overheid.nl/Illustration/247794)
+![247795](http://wetten.overheid.nl/Illustration/247795)
+![247796](http://wetten.overheid.nl/Illustration/247796)
+![247797](http://wetten.overheid.nl/Illustration/247797)
+![247798](http://wetten.overheid.nl/Illustration/247798)
+![247799](http://wetten.overheid.nl/Illustration/247799)
+![247800](http://wetten.overheid.nl/Illustration/247800)
+![247801](http://wetten.overheid.nl/Illustration/247801)
+![247802](http://wetten.overheid.nl/Illustration/247802)
+![247803](http://wetten.overheid.nl/Illustration/247803)
+![247804](http://wetten.overheid.nl/Illustration/247804)
+![247805](http://wetten.overheid.nl/Illustration/247805)
+![247806](http://wetten.overheid.nl/Illustration/247806)
+![247807](http://wetten.overheid.nl/Illustration/247807)
+![247808](http://wetten.overheid.nl/Illustration/247808)
+![247809](http://wetten.overheid.nl/Illustration/247809)
+![247810](http://wetten.overheid.nl/Illustration/247810)
+![247811](http://wetten.overheid.nl/Illustration/247811)
+![247812](http://wetten.overheid.nl/Illustration/247812)
+![247813](http://wetten.overheid.nl/Illustration/247813)
+![247814](http://wetten.overheid.nl/Illustration/247814)
+![247815](http://wetten.overheid.nl/Illustration/247815)
+![247816](http://wetten.overheid.nl/Illustration/247816)
+![247817](http://wetten.overheid.nl/Illustration/247817)
+![247818](http://wetten.overheid.nl/Illustration/247818)
+![247819](http://wetten.overheid.nl/Illustration/247819)
+![247820](http://wetten.overheid.nl/Illustration/247820)
+![247821](http://wetten.overheid.nl/Illustration/247821)
+![247822](http://wetten.overheid.nl/Illustration/247822)
+![247823](http://wetten.overheid.nl/Illustration/247823)
+![247824](http://wetten.overheid.nl/Illustration/247824)
+![247825](http://wetten.overheid.nl/Illustration/247825)
+![247826](http://wetten.overheid.nl/Illustration/247826)
+![247827](http://wetten.overheid.nl/Illustration/247827)
+![247828](http://wetten.overheid.nl/Illustration/247828)
+![247829](http://wetten.overheid.nl/Illustration/247829)
+![247830](http://wetten.overheid.nl/Illustration/247830)
+![247831](http://wetten.overheid.nl/Illustration/247831)
+![247832](http://wetten.overheid.nl/Illustration/247832)
+![247833](http://wetten.overheid.nl/Illustration/247833)
+![247834](http://wetten.overheid.nl/Illustration/247834)
+![247835](http://wetten.overheid.nl/Illustration/247835)
+![247836](http://wetten.overheid.nl/Illustration/247836)
+![247837](http://wetten.overheid.nl/Illustration/247837)
+![247838](http://wetten.overheid.nl/Illustration/247838)
+![247839](http://wetten.overheid.nl/Illustration/247839)
+![247840](http://wetten.overheid.nl/Illustration/247840)
+![247841](http://wetten.overheid.nl/Illustration/247841)
+![247842](http://wetten.overheid.nl/Illustration/247842)
+![247843](http://wetten.overheid.nl/Illustration/247843)
+![247844](http://wetten.overheid.nl/Illustration/247844)
+![247845](http://wetten.overheid.nl/Illustration/247845)
+![247846](http://wetten.overheid.nl/Illustration/247846)
+![247847](http://wetten.overheid.nl/Illustration/247847)
+![247848](http://wetten.overheid.nl/Illustration/247848)
+![247849](http://wetten.overheid.nl/Illustration/247849)
+![247850](http://wetten.overheid.nl/Illustration/247850)
+![247851](http://wetten.overheid.nl/Illustration/247851)
+![247852](http://wetten.overheid.nl/Illustration/247852)
+![247853](http://wetten.overheid.nl/Illustration/247853)
+![247854](http://wetten.overheid.nl/Illustration/247854)
+![247855](http://wetten.overheid.nl/Illustration/247855)
+![247856](http://wetten.overheid.nl/Illustration/247856)
+![247857](http://wetten.overheid.nl/Illustration/247857)
+![247858](http://wetten.overheid.nl/Illustration/247858)
+![247859](http://wetten.overheid.nl/Illustration/247859)
+![247860](http://wetten.overheid.nl/Illustration/247860)
+![247861](http://wetten.overheid.nl/Illustration/247861)
+![247862](http://wetten.overheid.nl/Illustration/247862)
 ![247863](http://wetten.overheid.nl/Illustration/247863)

@@ -29,7 +29,7 @@ De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasse
 
 1°. aan een der misdrijven omschreven in de artikelen 97–102, 103a onder 1°, 104, 104a–104c, 111 en 114 tot en met 116;  
 
-1bis°. aan een der misdrijven omschreven in de artikelen 137, 138, 140 en 195, indien het strafbare feit of het misdrijf waarvan in die artikelen wordt gesproken, is een misdrijf als onder 1° bedoeld;.  
+1bis°. aan een der misdrijven omschreven in de artikelen 137, 138, 139, 140 en 195, indien het strafbare feit of het misdrijf waarvan in die artikelen wordt gesproken, is een misdrijf als onder 1° bedoeld;.  
 
 2°. aan eenig misdrijf ten opzichte van muntspeciën, munt- of bankbiljetten, van rijkswege uitgegeven zegels of merken;  
 
@@ -53,13 +53,13 @@ e. aan een der misdrijven, omschreven in de artikelen 168, 168a, 172 en 399d, wa
 
 6°. 
 
-a. aan de misdrijven omschreven in de artikelen 172, 174, 366, 370, 372, 399a, vierde lid, 399b, tweede lid, en 399c, indien het feit is begaan tegen een Nederlands zeegaand vaartuig, hetzij tegen of aan boord van enig ander zeegaand vaartuig en de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
+a. aan de misdrijven omschreven in de artikelen 146, 163, 167c, 172, 174, 179a, 195, 298, 300, 301, 302, 315, 316, 366, 370, 372, 399a, vierde lid, 399b, tweede lid, 399c en 428, indien het feit is begaan tegen een Nederlands zeegaand vaartuig, hetzij tegen of aan boord van enig ander zeegaand vaartuig en de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
 
-b. aan een der misdrijven, omschreven in de artikelen 366, 370, 399a, vierde lid, en 399b, tweede lid, begaan tegen een installatie ter zee, wanneer de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;.    
+b. aan een der misdrijven, omschreven in de artikelen 167c, 179a, 298, 300, 301, 302, 315, 316, 366, 370, 372, 399a, vierde lid, en 399b, tweede lid, begaan op of tegen een installatie ter zee, wanneer de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;    
 
 7°. 
 
-a. aan een der misdrijven, omschreven in artikel 124a, 124b, 124c en 298, voor zover die feiten zijn begaan tegen een in Nederlandse dienst zijnde, of tot zijn gezin behorende, internationaal beschermd persoon als bedoeld in artikel 90b, eerste lid, of tegen diens beschermde goederen;  
+a. aan een der misdrijven, omschreven in artikel 124a, 124b, 124c en 298, voor zover het feit is gepleegd tegen een in Nederlandse dienst zijnde, of tot zijn gezin behorende, internationaal beschermd persoon als bedoeld in artikel 90b, eerste lid, of tegen diens beschermde goederen;  
 
 b. aan een der misdrijven, omschreven in de artikelen 124a, 124b, 124c, 295ao, en 298, voor zover het feit is gepleegd tegen een internationaal beschermd persoon als bedoeld in artikel 90b, tweede lid, die Nederlander is, of tegen diens beschermde goederen;  
 
@@ -71,17 +71,19 @@ c. aan een der misdrijven, omschreven in de artikelen 124a, 124b, 124c, en 298, 
 
 10°. aan een der misdrijven, omschreven in de artikelen 183, 183a, 230, 232b en 336a, voor zover het feit is gepleegd door een ambtenaar van de openbare lichamen Bonaire, Sint Eustatius en Saba of door een persoon in de openbare dienst van een in één van de openbare lichamen Bonaire, Sint Eustatius en Saba gevestigde volkenrechtelijke organisatie en daarop door de wet van het land waar het is begaan, straf is gesteld;  
 
-11°. aan een terroristisch misdrijf dan wel een van de misdrijven, omschreven in de artikelen 123, 124a, 124c, 125, 129, 130, 146, 163, 167, 167a, 167c, 167d, 168, 172, 174, 176, 178, 179a, 298, 300, 301, 302, 366, 368, 370, 399a en 399b, voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 15 december 1997 te New York totstandgekomen Verdrag inzake de bestrijding van terroristische bomaanslagen (Trb. 1998, 84) en indien het feit is gepleegd tegen een Nederlander, dan wel indien de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
+10bis°. aan het misdrijf, omschreven in artikel 295ao, wanneer hetzij het feit is begaan met het oogmerk een overheid van de openbare lichamen Bonaire, Sint Eustatius en Saba te dwingen een handeling te verrichten of zich te onthouden van het verrichten daarvan, hetzij de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
 
-12°. aan een terroristisch misdrijf dan wel een van de misdrijven, omschreven in de artikelen 123, 124a, 124c, 125, 129, 130, 146, 163, 167, 167a, 167c, 167d, 168, 172, 174, 176, 178, 179a, 298, 300, 301, 302, 366, 368, 370, 399a en 399b, voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 9 december 1999 te New York totstandgekomen Internationaal Verdrag ter bestrijding van de financiering van terrorisme (Trb. 2000, 12) en indien het feit is gericht tegen een Nederlander, dan wel indien de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
+11°. aan een terroristisch misdrijf dan wel een van de misdrijven, omschreven in de artikelen 123, 124a, 124c, 125, 129, 130, 146, 163, 167, 167a, 167c, 167d, 168, 168a, 172, 174, 176, 178, 179a, 298, 300, 301, 302, 366, 367a, 368, 370, 399a, 399b en 399d, voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 15 december 1997 te New York totstandgekomen Verdrag inzake de bestrijding van terroristische bomaanslagen (Trb. 1998, 84) en indien het feit is gepleegd tegen een Nederlander, dan wel indien de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
+
+12°. aan het misdrijf omschreven in artikel 421, en het feit is gericht tegen een Nederlander, dan wel indien de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
 
 13°. aan een terroristisch misdrijf, indien het misdrijf is gepleegd met het oogmerk de bevolking of een deel der bevolking van de openbare lichamen Bonaire, Sint Eustatius en Saba vrees aan te jagen of enige overheid in de openbare lichamen Bonaire, Sint Eustatius en Saba wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, of fundamentele politieke, constitutionele, economische of sociale structuren in enig eilandgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba ernstig te ontwrichten of te vernietigen;  
 
 14°. aan een misdrijf ter voorbereiding of ter vergemakkelijking van een terroristisch misdrijf, indien het misdrijf is gepleegd met het oogmerk een terroristisch misdrijf als in onderdeel 13° omschreven voor te bereiden of gemakkelijk te maken;  
 
-15°. aan een der misdrijven, omschreven in de artikelen 163, 167c, 297, eerste lid, 298, 323, 324, 325, 330, 331, 334, 335 en 339, voor zover het feit valt onder de omschrijvingen van artikel 7 van het op 3 maart 1980 te Wenen/New York totstandgekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1980, 166), wanneer de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
+15°. aan een der misdrijven, omschreven in de artikelen 163, 167c, 297, eerste lid, 297a, 298, 323, 324, 324a, 325, 330, 331, 334, 335 en 339, voor zover het feit valt onder de omschrijvingen van artikel 7 van het op 3 maart 1980 te Wenen/New York totstandgekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1980, 166), wanneer de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
 
-16°. aan een der misdrijven, omschreven in de artikelen 167c, 179a, 297, eerste lid, 298, 323, 324, 325, 330 en 331, voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 13 april 2005 te New York totstandgekomen Internationaal Verdrag ter bestrijding van daden van nucleair terrorisme (Trb. 2005, 290) en hetzij het feit is gepleegd tegen een Nederlander, hetzij de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.    
+16°. aan een der misdrijven, omschreven in de artikelen 167c, 179a, 297, eerste lid, 297a, 298, 323, 324, 325, 330 en 331, voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 13 april 2005 te New York totstandgekomen Internationaal Verdrag ter bestrijding van daden van nucleair terrorisme (Trb. 2005, 290) en hetzij het feit is gepleegd tegen een Nederlander, hetzij de verdachte zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.    
 
 ### Artikel  4a  
 
@@ -102,14 +104,26 @@ De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasse
 
 5°. aan een der misdrijven omschreven in de artikelen 144a, 144b, 145c, 145d, 167sexies, 230, 231, 232, 246, 246bis, 339, 339c, 366, 367a en 368, voor zover het feit valt onder de omschrijving van de artikelen 2 tot en met 10 van het op 23 november 2001 te Budapest tot stand gekomen Internationaal Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken (Trb. 2002, 18, en 2004, 290), en een der misdrijven omschreven in de artikelen 143a tot en met 143c, 273, 274, 278, 297 en 298, voor zover het feit valt onder de omschrijving van de artikelen 3 tot en met 6 van het op 28 januari 2003 te Straatsburg totstandgekomen Aanvullend Protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met electronische netwerken, betreffende de strafbaarstelling van handelingen van racistische of xenofobische aard verricht via computersystemen;  
 
-6°. aan een der misdrijven, omschreven in artikel 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat.    
+6°. aan een der misdrijven, omschreven in artikel 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat;  
+
+7°. aan het misdrijf omschreven in artikel 242;  
+
+8°. aan het misdrijf omschreven in artikel 297, eerste lid.    
 
 ### Artikel  5a  
 
-1.  De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die in de openbare lichamen een vaste woon- of verblijfplaats heeft en zich buiten de openbare lichamen schuldig maakt aan een der misdrijven omschreven in de artikelen 246bis, 248 tot en met 258 en 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 313 tot en met 316, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt.   
-2.  De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die een vaste woon- of verblijfplaats in de openbare lichamen heeft en zich buiten de openbare lichamen schuldig maakt aan een der misdrijven omschreven in 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, en op het feit door de wet van het land waar het begaan is, straf is gesteld.   
-3.  De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die een vaste woon- of verblijfplaats in de openbare lichamen heeft en zich buiten de openbare lichamen schuldig maakt aan een der misdrijven omschreven in 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat.   
-4.  De vervolging kan ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in de openbare lichamen heeft gekregen.   
+1.  De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die in de openbare lichamen een vaste woon- of verblijfplaats heeft en zich buiten de openbare lichamen schuldig maakt: 
+
+1°. aan een der misdrijven omschreven in de artikelen 246bis, 248 tot en met 258 en 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 313 tot en met 316, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;  
+
+2°. aan een der misdrijven omschreven in 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, en op het feit door de wet van het land waar het begaan is, straf is gesteld;  
+
+3°. aan een der misdrijven omschreven in 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat;  
+
+4°. aan het misdrijf omschreven in artikel 242;  
+
+5°. aan het misdrijf omschreven in artikel 297, eerste lid.     
+2.  In de gevallen, omschreven in het eerste lid, onderdelen 1°, 2°, 3° en 5° kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in de openbare lichamen heeft gekregen.   
 
 ### Artikel  5b  
 
@@ -117,7 +131,11 @@ De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasse
 
 1°. aan een der misdrijven omschreven in artikel 286f, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd tegen een Nederlander;  
 
-2°. aan een der misdrijven omschreven in de artikelen 246bis, 248 tot en met 254, 256 tot en met 258 en 286f, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vast woon- of verblijfplaats heeft die de leeftijd van achttien jaren nog niet heeft bereikt.    
+2°. aan een der misdrijven omschreven in de artikelen 246bis, 248 tot en met 254, 256 tot en met 258 en 286f, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vast woon- of verblijfplaats heeft die de leeftijd van achttien jaren nog niet heeft bereikt;  
+
+3°. aan een der misdrijven omschreven in de artikelen 313 tot en met 316, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft;  
+
+4°. aan het misdrijf omschreven in artikel 297, eerste lid, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.    
 
 ### Artikel  6  
 
@@ -912,7 +930,7 @@ Onder terroristisch misdrijf wordt verstaan:
 
 1°. elk van de misdrijven omschreven in de artikelen 97 tot en met 102, 114, tweede lid, 123, tweede lid, 124a, tweede lid, 129, 130, 163, onder 3°, 167c, onder 2°, 172, onder 3°, 174, onder 2°, 176, onder 3°, 180, tweede lid, 300 en 302, indien het misdrijf is begaan met een terroristisch oogmerk;  
 
-2°. elk van de misdrijven waarop ingevolge de artikelen 122a, 122b, 128a, 128b, 182a, 182b, 295b, 302a, 318a, 318b, alsmede 430a en 430b gevangenisstraf is gesteld;  
+2°. elk van de misdrijven waarop ingevolge de artikelen 122a, 122b, 128a, 128b, 182a, 182b, 295b, 302a, 318a, 318b, 372a, tweede lid, 399e, alsmede 430a en 430b gevangenisstraf is gesteld;  
 
 3°. elk van de misdrijven omschreven in de artikelen 146a, 295a, 298, derde lid.    
 
@@ -922,7 +940,11 @@ Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking of een de
 
 ### Artikel  84c  
 
-Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van de misdrijven omschreven in de artikelen 137, tweede lid, 138, tweede lid, 211, tweede lid, 230, derde lid, 298, vierde lid, 324, eerste lid, onder 6°, 325, tweede lid, onder 2°, 330, derde lid jo. 325, tweede lid, onder 2°, 331, tweede lid, 335a, 339, tweede lid, en 372a.  
+Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van de misdrijven omschreven in de artikelen 137, tweede lid, 138, tweede lid, 211, tweede lid, 230, derde lid, 298, vierde lid, 324, eerste lid, onder 6°, 325, tweede lid, onder 2°, 330, derde lid jo. 325, tweede lid, onder 2°, 331, tweede lid, 335a, 339, tweede lid, en 372a, eerste lid.  
+
+### Artikel  84d  
+
+Onder een ander, of een kind bij of kort na de geboorte, van het leven beroven wordt begrepen: het doden van een vrucht die naar redelijkerwijs verwacht mag worden in staat is buiten het moederlichaam in leven te blijven.  
 
 ### Artikel  85  
 
@@ -1280,11 +1302,11 @@ De samenspanning tot het in artikel 129 omschreven misdrijf wordt gestraft met g
 
 ### Artikel  131  
 
-Hij die bij gelegenheid eener krachtens wettelijk voorschrift uitgeschreven verkiezing, door geweld of bedreiging met geweld opzettelijk iemand verhindert zijn kiesrecht vrij en onbelemmerd uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste een jaar.  
+Hij die bij gelegenheid eener krachtens wettelijk voorschrift uitgeschreven verkiezing, door geweld of bedreiging met geweld opzettelijk iemand verhindert zijn of eens anders kiesrecht vrij en onbelemmerd uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste een jaar.  
 
 ### Artikel  132  
 
-Hij die bij gelegenheid eener krachtens wettelijk voorschrift uitgeschreven verkiezing, door gift of belofte iemand omkoopt om zijn kiesrecht hetzij niet, hetzij op bepaalde wijze uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de eerste categorie. Dezelfde straf wordt toegepast op de kiezer of de gemachtigde van een kiezer die zich door gift of belofte tot een of ander laat omkoopen.  
+Hij die bij gelegenheid eener krachtens wettelijk voorschrift uitgeschreven verkiezing, door gift of belofte iemand omkoopt om zijn of eens anders kiesrecht hetzij niet, hetzij op bepaalde wijze uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de eerste categorie. Dezelfde straf wordt toegepast op de kiezer of de gemachtigde van een kiezer die zich door gift of belofte tot een of ander laat omkoopen.  
 
 ### Artikel  133  
 
@@ -1704,11 +1726,11 @@ Hij aan wiens schuld te wijten is dat eenig werk dienende voor het openbaar verk
 
 ### Artikel  170  
 
-Hij die opzettelijk gevaar veroorzaakt voor het verkeer door mechanische kracht over een spoorweg, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren.  
+Hij die opzettelijk gevaar veroorzaakt voor het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren.  
 
 ### Artikel  171  
 
-Hij aan wiens schuld te wijten is dat gevaar ontstaat voor het verkeer door mechanische kracht over een spoorweg, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar.  
+Hij aan wiens schuld te wijten is dat gevaar ontstaat voor het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar.  
 
 ### Artikel  172  
 
@@ -1991,7 +2013,7 @@ Hij die een ander, die zich wederrechtelijk toegang tot of verblijf in de openba
 
 ### Artikel  203c  
 
-Hij die van het in artikel 203a omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.  
+Hij die van het in artikel 203a omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.  
 
 ### Artikel  203d  
 
@@ -2219,8 +2241,8 @@ Hij die een getuigschrift van goed gedrag, bekwaamheid, armoede, gebreken of and
 
 ### Artikel  236  
 
-1.  Hij die een reisdocument valselijk opmaakt of vervalst, of een zodanig stuk op grond van valse gegevens doet verstrekken dan wel een aan hem of een ander verstrekt reisdocument ter beschikking stelt van een derde, met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.   
-2.  Met dezelfde straf wordt gestraft hij die in het bezit is van een reisdocument waarvan hij weet of redelijkerwijs moet vermoeden, dat hij vals of vervalst is, dan wel opzettelijk gebruik maakt van een niet op zijn naam gesteld reisdocument.   
+1.  Hij die een reisdocument of Nederlandse identiteitskaart valselijk opmaakt of vervalst, of een zodanig stuk op grond van valse gegevens doet verstrekken dan wel een aan hem of een ander verstrekt reisdocument of Nederlandse identiteitskaart ter beschikking stelt van een derde, met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.   
+2.  Met dezelfde straf wordt gestraft hij die in het bezit is van een reisdocument of Nederlandse identiteitskaart waarvan hij weet of redelijkerwijs moet vermoeden, dat hij vals of vervalst is, dan wel opzettelijk gebruik maakt van een niet op zijn naam gesteld reisdocument of Nederlandse identiteitskaart.   
 
 ### Artikel  237  
 
@@ -2382,10 +2404,6 @@ Hij die van het opzettelijk teweegbrengen of bevorderen van ontucht door anderen
 ### Artikel  261  
 
 Bij veroordeeling wegens een der in de artikelen 244, 248–253 en 255 tot en met 259 omschreven misdrijven, kan ontzetting van de in artikel 32, no. 1–4, vermelde rechten worden uitgesproken. Indien de schuldige aan een der misdrijven in de artikelen 255 tot en met 259 omschreven het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.  
-
-### Artikel  262  
-
-Hij die opzettelijk eene vrouw in behandeling neemt of eene behandeling doet ondergaan, te kennen gevende of de verwachting opwekkende dat daardoor zwangerschap kan worden verstoord, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de tweede categorie. Indien de schuldige uit winstbejag heeft gehandeld, van het plegen van het misdrijf een beroep of eene gewoonte maakt, of geneeskundige, vroedvrouw of artsenijbereider is, kunnen de straffen met een derde worden verhoogd. Indien de schuldige het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.  
 
 ### Artikel  263  
 
@@ -2582,7 +2600,7 @@ Enig in de artikelen 286a tot en met 286d bedoeld persoon die opzettelijk toelaa
 
 ### Artikel  286f  
 
-1.  Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie gestraft: 
+1.  Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie gestraft: 
 
 1°. degene die een ander door dwang, geweld of een andere feitelijkheid of door dreiging met geweld of een andere feitelijkheid, door afpersing, fraude, misleiding dan wel door misbruik van uit feitelijke omstandigheden voortvloeiend overwicht, door misbruik van een kwetsbare positie of door het geven of ontvangen van betalingen of voordelen om de instemming van een persoon te verkrijgen die zeggenschap over die ander heeft, werft, vervoert, overbrengt, huisvest of opneemt, met het oogmerk van uitbuiting van die ander of de verwijdering van diens organen;  
 
@@ -2602,13 +2620,13 @@ Enig in de artikelen 286a tot en met 286d bedoeld persoon die opzettelijk toelaa
 
 9°. degene die een ander met een van de onder 1° genoemde middelen dwingt dan wel beweegt hem te bevoordelen uit de opbrengst van diens seksuele handelingen met of voor een derde of van de verwijdering van diens organen.     
 2.  Uitbuiting omvat ten minste uitbuiting van een ander in de prostitutie, andere vormen van seksuele uitbuiting, gedwongen of verplichte arbeid of diensten, slavernij en met slavernij of dienstbaarheid te vergelijken praktijken.   
-3.  De schuldige wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien: 
+3.  De schuldige wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien: 
 
 1°. de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer verenigde personen;  
 
 2°. de persoon ten aanzien van wie de in het eerste lid omschreven feiten worden gepleegd, de leeftijd van zestien jaren nog niet heeft bereikt.     
-4.  De feiten, omschreven in het eerste lid, gepleegd door twee of meer verenigde personen onder de omstandigheid, bedoeld in het derde lid, onder 2°, worden gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.   
-5.  Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie opgelegd.   
+4.  De feiten, omschreven in het eerste lid, gepleegd door twee of meer verenigde personen onder de omstandigheid, bedoeld in het derde lid, onder 2°, worden gestraft met gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie.   
+5.  Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie opgelegd.   
 6.  Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.   
 7.  Artikel 261 is van overeenkomstige toepassing.   
 
@@ -2678,11 +2696,12 @@ Hij aan wiens schuld te wijten is dat iemand wederrechtelijk van de vrijheid ber
 
 ### Artikel  297  
 
-Met gevangenisstraf van ten hoogste twee jaren wordt gestraft: 
+1.  Met gevangenisstraf van ten hoogste twee jaren wordt gestraft: 
 
 1°. hij die een ander door geweld of eenige andere feitelijkheid of door bedreiging met geweld of eenige andere feitelijkheid, gericht hetzij tegen dien ander, hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;  
 
-2°. hij die een ander door bedreiging met smaad, smaadschrift of valsche aanklacht dwingt iets te doen, niet te doen of te dulden.   In het geval onder N°. 2 omschreven, wordt het misdrijf niet vervolgd dan op klachte van hem tegen wien het gepleegd is.  
+2°. hij die een ander door bedreiging met smaad, smaadschrift of valsche aanklacht dwingt iets te doen, niet te doen of te dulden.     
+2.  In het geval, bedoeld in het eerste lid, onder 2°, wordt het misdrijf niet vervolgd dan op klachte van hem tegen wien het gepleegd is.   
 
 ### Artikel  297a  
 
@@ -2742,31 +2761,29 @@ De in de artikelen 303 en 304 omschreven misdrijven worden ten aanzien van ander
 
 ### Artikel  306  
 
-Hij die een ander op zijn uitdrukkelijk en ernstig verlangen van het leven berooft, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren.  
+1.  Hij die opzettelijk het leven van een ander op diens uitdrukkelijk en ernstig verlangen beëindigt, wordt gestraft met een gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.   
+2.  Het in het eerste lid bedoelde feit is niet strafbaar, indien het is begaan door een arts die daarbij voldoet aan de zorgvuldigheidseisen, bedoeld in artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding, en hiervan mededeling doet aan de gemeentelijke lijkschouwer overeenkomstig artikel 7, tweede lid, van de Wet op de lijkbezorging.   
 
 ### Artikel  307  
 
-Hij die opzettelijk een ander tot zelfmoord aanzet, hem daarbij behulpzaam is of hem de middelen daartoe verschaft, wordt, indien de zelfmoord volgt, gestraft met gevangenisstraf van ten hoogste drie jaren.  
-
-### Artikel  308  
-
-De vrouw die opzettelijk de afdrijving of den dood van haar vrucht veroorzaakt of door een ander laat veroorzaken, wordt gestraft met gevangenisstraf van ten hoogste drie jaren.  
-
-### Artikel  309  
-
-Hij die opzettelijk de afdrijving of den dood der vrucht van eene vrouw zonder hare toestemming veroorzaakt, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren. Indien het feit den dood van de vrouw ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste vijftien jaren.  
-
-### Artikel  310  
-
-Hij die opzettelijk de afdrijving of den dood der vrucht van eene vrouw met hare toestemming veroorzaakt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren en zes maanden. Indien het feit den dood van de vrouw ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren.  
-
-### Artikel  311  
-
-Indien een geneeskundige, vroedvrouw of artsenijbereider medeplichtig is aan het misdrijf in artikel 308 of schuldig of medeplichtig aan een der misdrijven in de artikelen 309 en 310 omschreven, kunnen de in die artikelen bepaalde straffen met een derde worden verhoogd, en kan hij van de uitoefening van het beroep waarin hij het misdrijf begaat worden ontzet.  
+1.  Hij die opzettelijk een ander tot zelfdoding aanzet, wordt, indien de zelfdoding volgt, gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.   
+2.  Hij die opzettelijk een ander bij zelfdoding behulpzaam is of hem de middelen daartoe verschaft, wordt, indien de zelfdoding volgt, gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie. Artikel 306, tweede lid, is van overeenkomstige toepassing.   
 
 ### Artikel  312  
 
-Bij veroordeeling wegens doodslag, wegens moord of wegens een der in de artikelen 306, 309 en 310 omschreven misdrijven, kan ontzetting van de in artikel 32, N°. 1–4, vermelde rechten worden uitgesproken.  
+Bij veroordeeling wegens doodslag, wegens moord of wegens een der in de artikelen 306, eerste lid, 312a en omschreven misdrijven, kan ontzetting van de in artikel 32, N°. 1–4, vermelde rechten worden uitgesproken.  
+
+### Titel  XIXa  
+
+####Afbreking van zwangerschap
+
+### Artikel  312a  
+
+1.  Hij die een vrouw een behandeling geeft, terwijl hij weet of redelijkerwijs moet vermoeden dat daardoor zwangerschap kan worden afgebroken, wordt gestraft met gevangenisstraf van ten hoogste vier jaar en zes maanden of geldboete van de vierde categorie.   
+2.  Indien het feit de dood van de vrouw ten gevolge heeft, wordt gevangenisstraf van ten hoogste zes jaren opgelegd of geldboete van de vierde categorie.   
+3.  Indien het feit is begaan zonder toestemming van de vrouw, wordt gevangenisstraf van ten hoogste twaalf jaren opgelegd of geldboete van de vijfde categorie.   
+4.  Indien het feit is begaan zonder toestemming van de vrouw en tevens haar dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste vijftien jaren opgelegd of geldboete van de vijfde categorie.   
+5.  Het in het eerste lid bedoelde feit is niet strafbaar, indien de behandeling is verricht door een arts in een ziekenhuis of kliniek waarin zodanige behandeling volgens de Wet afbreking zwangerschap mag worden verricht.   
 
 ### Titel  XX  
 
@@ -3001,8 +3018,8 @@ Hij, die, om het handels- of bedrijfsdebiet van zichzelven of van een ander te v
 
 ### Artikel  341ter  
 
-1.  Hij die, anders dan als ambtenaar, werkzaam zijnde in dienstbetrekking of optredend als lasthebber, naar aanleiding van hetgeen hij in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte aanneemt en dit aannemen in strijd met de goede trouw verzwijgt tegenover zijn werkgever of lastgever, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.   
-2.  Met gelijke straf wordt gestraft hij die aan iemand die, anders dan als ambtenaar, werkzaam is in dienstbetrekking of optreedt als lasthebber, naar aanleiding van hetgeen deze in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte doet van die aard of onder zodanige omstandigheden, dat hij redelijkerwijs moet aannemen dat deze de gift of belofte in strijd met de goede trouw zal verzwijgen tegenover zijn werkgever of lastgever.   
+1.  Hij die, anders dan als ambtenaar, werkzaam zijnde in dienstbetrekking of optredend als lasthebber, naar aanleiding van hetgeen hij in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift, belofte of dienst aanneemt dan wel vraagt, en dit aannemen of vragen in strijd met de goede trouw verzwijgt tegenover zijn werkgever of lastgever, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.   
+2.  Met gelijke straf wordt gestraft hij die aan iemand die, anders dan als ambtenaar, werkzaam is in dienstbetrekking of optreedt als lasthebber, naar aanleiding van hetgeen deze in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte doet dan wel een dienst verleent of aanbiedt van die aard of onder zodanige omstandigheden, dat hij redelijkerwijs moet aannemen dat deze de gift, belofte of dienst in strijd met de goede trouw zal verzwijgen tegenover zijn werkgever of lastgever.   
 
 ### Artikel  341quater  
 
@@ -3213,7 +3230,8 @@ Indien een der in dezen Titel omschreven misdrijven door twee of meer vereenigde
 
 ### Artikel  372a  
 
-Indien een der in de artikelen 366, 367a, 368 en 370 omschreven feiten worden gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.  
+1.  Indien een der in de artikelen 366, 367a, 368 en 370 omschreven feiten worden gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.   
+2.  Indien een feit strafbaar gesteld in de artikelen 366, 367a, 368 of 370 is begaan met een terroristisch oogmerk, wordt de op het feit gestelde gevangenisstraf met de helft verhoogd.   
 
 ### Titel  XXVIII  
 
@@ -3669,6 +3687,27 @@ b. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van e
 
 Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de ontzetting van de in artikel 32, eerste lid, onder 1° en 2°, vermelde rechten worden uitgesproken.  
 
+### Titel  XXXb  
+
+####Financieren van terrorisme
+
+### Artikel  435e  
+
+1.  Als schuldig aan het financieren van terrorisme wordt gestraft met een gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie: 
+
+a. hij die zich of een ander opzettelijk middelen of inlichtingen verschaft dan wel opzettelijk voorwerpen verzamelt, verwerft, voorhanden heeft of aan een ander verschaft, die geheel of gedeeltelijk, onmiddellijk of middellijk, dienen om geldelijke steun te verlenen aan het plegen van een terroristisch misdrijf of een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf;  
+
+b. hij die zich of een ander opzettelijk middelen of inlichtingen verschaft dan wel opzettelijk voorwerpen verzamelt, verwerft, voorhanden heeft of aan een ander verschaft, die geheel of gedeeltelijk, onmiddellijk of middellijk, dienen om geldelijke steun te verlenen aan het plegen van een van de misdrijven omschreven in: 
+
+– de artikelen 124a tot en met 124c alsmede artikel 298, indien dat misdrijf is gericht tegen een internationaal beschermd persoon of diens beschermde goederen;  
+
+– de artikelen 79 en 80 van de Kernenergiewet, de artikelen 167c, 179a en 297a alsmede de artikelen 146, 163, 230, 323 tot en met 325, 330, 331, 334, 335 en 339, indien het feit opzettelijk wederrechtelijk handelen betreft met betrekking tot kernmateriaal;  
+
+– de artikelen 168, 168a, 172, 174, 295ao, 370, 399a tot en met 399d;  
+
+– de artikelen 97 tot en met 102, 114, 123, 129, 130, 146, 163, 167, 167a, 167c, 170, 177, 178, 300, 301 en 302, indien het feiten betreft die worden gepleegd door middel van het opzettelijk wederrechtelijk tot ontlading of ontploffing brengen van een springstof of ander voorwerp, of het laten vrijkomen, verspreiden of inwerken van een voorwerp, waardoor levensgevaar, gevaar voor zwaar lichamelijk letsel voor een ander of aanzienlijke materiële schade te duchten is.       
+2.  Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
+
 ### Titel  XXXI  
 
 ####Bepalingen over herhaling van misdrijf aan verschillende titels gemeen
@@ -3679,7 +3718,7 @@ De in de artikelen 111, 180, 214–218, 222–227bis, 230–234, 323–325, 330,
 
 ### Artikel  437  
 
-De in de artikelen 114, eerste lid, 115, 116, 123, eerste lid, 124, 147, 187, 188, 300, 303, 306, 309, 310, 313–316, 395, 396, 410 en 411 bepaalde gevangenisstraf, alsmede de tijdelijke gevangenisstraf op te leggen krachtens de artikelen 97, 114, tweede en laatste lid, 123, tweede en laatste lid, 301 en 302, kan met een derde worden verhoogd, indien tijdens het plegen van het misdrijf nog geen vijf jaren zijn verloopen, sedert de schuldige, hetzij eene tegen hem wegens een der in die artikelen omschreven misdrijven uitgesproken gevangenisstraf, hetzij een wegens gewelddadig verzet tegen of mishandeling van meerderen of schildwachten, of van geweldenarijen tegen personen krachtens de militaire strafwetgeving opgelegde straf geheel of ten deele heeft ondergaan, of sedert die straf hem geheel is kwijtgescholden, of indien tijdens het plegen van het misdrijf het recht tot uitvoering dier straf nog niet is verjaard.  
+De in de artikelen 114, eerste lid, 115, 116, 123, eerste lid, 124, 147, 187, 188, 300, 303, 306, eerste lid, 309, 310, 313–316, 395, 396, 410 en 411 bepaalde gevangenisstraf, alsmede de tijdelijke gevangenisstraf op te leggen krachtens de artikelen 97, 114, tweede en laatste lid, 123, tweede en laatste lid, 301 en 302, kan met een derde worden verhoogd, indien tijdens het plegen van het misdrijf nog geen vijf jaren zijn verloopen, sedert de schuldige, hetzij eene tegen hem wegens een der in die artikelen omschreven misdrijven uitgesproken gevangenisstraf, hetzij een wegens gewelddadig verzet tegen of mishandeling van meerderen of schildwachten, of van geweldenarijen tegen personen krachtens de militaire strafwetgeving opgelegde straf geheel of ten deele heeft ondergaan, of sedert die straf hem geheel is kwijtgescholden, of indien tijdens het plegen van het misdrijf het recht tot uitvoering dier straf nog niet is verjaard.  
 
 ### Artikel  438  
 
@@ -3769,7 +3808,9 @@ Met hechtenis van ten hoogste veertien dagen of geldboete van de eerste categori
 
 2°. hij die een luchtbol oplaat, waarvan brandende stoffen gehecht zijn;  
 
-3°. hij die door gebrek aan de noodige omzichtigheid of voorzorg gevaar voor bosch- of grasbrand doet ontstaan.    
+3°. hij die door gebrek aan de noodige omzichtigheid of voorzorg gevaar voor bosch- of grasbrand doet ontstaan;  
+
+4°. hij die zich zodanig gedraagt dat gevaar voor het luchtverkeer wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer in de lucht wordt gehinderd of kan worden gehinderd.    
 
 ### Titel  II  
 
@@ -3914,7 +3955,7 @@ Met hechtenis van ten hoogste eene maand of geldboete van de eerste categorie wo
 
 ### Artikel  460  
 
-Hij die drukwerken of andere voorwerpen in een vorm die ze op munt- of bankbiljetten, op muntspeciën, op van rijksmerken voorziene platina, gouden of zilveren werken, op postzegels of op reisdocumenten doet gelijken, vervaardigt, verspreidt of ter verspreiding in voorraad heeft, wordt gestraft met een geldboete van de tweede categorie.  
+Hij die drukwerken of andere voorwerpen in een vorm die ze op munt- of bankbiljetten, op muntspeciën, op van rijksmerken voorziene platina, gouden of zilveren werken, op postzegels of op reisdocumenten of Nederlandse identiteitskaarten doet gelijken, vervaardigt, verspreidt of ter verspreiding in voorraad heeft, wordt gestraft met een geldboete van de tweede categorie.  
 
 ### Artikel  461  
 
@@ -3974,7 +4015,7 @@ Met geldboete van de tweede categorie wordt gestraft:
 
 ### Artikel  466b  
 
-Hij die een reisdocument dat in zijn bezit is, maar waarvan hij niet de houder is, of dat ingevolge een wettelijke bepaling moet worden ingeleverd, niet terstond wanneer hem dit mondeling door een daartoe bevoegde ambtenaar is bevolen, danwel binnen veertien dagen, nadat hem dit bij aangetekend schrijven in persoon is medegedeeld, inlevert, wordt gestraft met geldboete van de tweede categorie.  
+Hij die een reisdocument of Nederlandse identiteitskaart dat in zijn bezit is, maar waarvan hij niet de houder is, of dat ingevolge een wettelijke bepaling moet worden ingeleverd, niet terstond wanneer hem dit mondeling door een daartoe bevoegde ambtenaar is bevolen, danwel binnen veertien dagen, nadat hem dit bij aangetekend schrijven in persoon is medegedeeld, inlevert, wordt gestraft met geldboete van de tweede categorie.  
 
 ### Artikel  466c  
 
@@ -4034,10 +4075,6 @@ Met hechtenis van ten hoogste twee maanden of geldboete van de eerste categorie 
 ### Artikel  472  
 
 [vervallen]  
-
-### Artikel  473  
-
-Hij die hetzij eenig middel tot verstoring van zwangerschap openlijk ten toon stelt, hetzij openlijk of ongevraagd zoodanig middel of diensten ter verstoring van zwangerschap aanbiedt of als verkrijgbaar aanwijst, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de eerste categorie.  
 
 ### Artikel  474  
 

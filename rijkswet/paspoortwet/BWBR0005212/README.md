@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat in verband met het recht het land te verlaten, zoals neergelegd in voor het Koninkrijk geldende verdragen, in verband met [artikel 2, vierde lid, van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md) en gelet op [artikel 3, eerste lid, onder *b*, van het Statuut voor het Koninkrijk der Nederlanden](../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md), bij rijkswet regelen dienen te worden gesteld met betrekking tot de aanspraken op paspoorten en andere reisdocumenten en de beperkingen van deze aanspraken;
+Alzo Wij in overweging genomen hebben, dat in verband met het recht het land te verlaten, zoals neergelegd in voor het Koninkrijk geldende verdragen, in verband met artikel 2, vierde lid, van de Grondwet en gelet op artikel 3, eerste lid, onder *b*, van het Statuut voor het Koninkrijk der Nederlanden, bij rijkswet regelen dienen te worden gesteld met betrekking tot de aanspraken op paspoorten en andere reisdocumenten en de beperkingen van deze aanspraken;
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 In deze wet wordt verstaan onder: 
 
-a. aanvraag: het verzoek tot verstrekking van een reisdocument, tot bijschrijving van kinderen als bedoeld in artikel 17 of tot wijziging van gegevens vermeld in een eerder verstrekt reisdocument;  
+a. aanvraag: het verzoek tot verstrekking van een reisdocument of tot wijziging van gegevens vermeld in een eerder verstrekt reisdocument;  
 
 b. aanvrager: degene die een aanvraag als bedoeld in onderdeel a indient of op wie een dergelijke aanvraag betrekking heeft;  
 
@@ -42,7 +42,9 @@ l. Onze Minister die het aangaat: Onze Minister in Nederland, Aruba, Curaçao of
 
 m. Gouverneur: Gouverneur van Aruba, Curaçao of Sint Maarten;  
 
-n. openbaar lichaam: openbaar lichaam Bonaire, Sint Eustatius of Saba.    
+n. openbaar lichaam: openbaar lichaam Bonaire, Sint Eustatius of Saba;  
+
+o. reisdocument: een document als bedoeld in artikel 2, eerste lid.    
 
 ### Artikel  2  
 
@@ -61,19 +63,20 @@ e. reisdocument voor vreemdelingen;
 f. nooddocument;  
 
 g. andere reisdocumenten, door Onze Minister vast te stellen.     
-2.  Reisdocument van het Europese deel van Nederland is de Nederlandse identiteitskaart, geldig voor de landen die partij zijn bij de op 13 december 1957 te Parijs tot stand gekomen Europese Overeenkomst nopens het verkeer van personen tussen de Lid-Staten van de Raad van Europa (*Trb.* 1960, 103). Onze Minister kan de territoriale geldigheid van de Nederlandse identiteitskaart uitbreiden.   
-3.  Onze Minister stelt met inachtneming van het bij of krachtens deze wet bepaalde de geldigheidsduur, de territoriale geldigheid en het model van de in het eerste en tweede lid bedoelde reisdocumenten vast en draagt zorg voor de vervaardiging van die documenten.   
+2.  Identiteitskaart van het Europese deel van Nederland is de Nederlandse identiteitskaart. Hetgeen bij of krachtens deze wet is bepaald ten aanzien van reisdocumenten is van overeenkomstige toepassing op de Nederlandse identiteitskaart, tenzij anders is bepaald.   
+3.  Onze Minister stelt met inachtneming van het bij of krachtens deze wet bepaalde de geldigheidsduur en het model van de in het eerste en tweede lid bedoelde documenten vast, draagt zorg voor de vervaardiging van die documenten en stelt van de in het eerste lid bedoelde reisdocumenten tevens de territoriale geldigheid vast.   
 
 ### Artikel  3  
 
 1.  Elk reisdocument vermeldt de volgende persoonsgegevens van de houder: geslachtsnaam, voornamen, geboortedatum, geboorteplaats, geslacht, woonplaats, adres en lengte. Onze Minister kan bepalen in welke gevallen kan worden afgezien van vermelding van respectievelijk geboorteplaats, woonplaats, adres en lengte.   
-2.  Indien in een reisdocument een minderjarige jonger dan zestien jaren wordt bijgeschreven worden van deze vermeld: geslachtsnaam, voornamen, geboortedatum, geboorteplaats en geslacht. Elke bijschrijving is voorzien van de gezichtsopname van de bijgeschreven persoon, volgens nadere door Onze Minister te stellen regels.   
-3.  Een reisdocument is voorzien van de gezichtsopname, twee vingerafdrukken en de handtekening van de houder volgens nader door Onze Minister te stellen regels. Bij algemene maatregel van rijksbestuur kunnen reisdocumenten worden aangewezen die niet worden voorzien van een of meer van deze gegevens en kunnen regels worden gesteld over de gevallen waarin kan worden afgezien van het opnemen van de gezichtsopname, vingerafdrukken of de handtekening in het aangevraagde reisdocument indien deze gegevens niet van de houder kunnen worden verkregen.   
-4.  Op nader door Onze Minister aan te wijzen reisdocumenten die worden verstrekt aan Nederlanders die als ingezetene in de basisadministratie persoonsgegevens van een gemeente zijn ingeschreven, wordt van de houder het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), vermeld.   
+2.  Een reisdocument is voorzien van de gezichtsopname, twee vingerafdrukken en de handtekening van de houder volgens nader bij regeling van Onze Minister te stellen regels. De Nederlandse identiteitskaart is niet voorzien van vingerafdrukken.   
+3.  Bij algemene maatregel van rijksbestuur kunnen reisdocumenten worden aangewezen die niet worden voorzien van een of meer van de in het tweede lid genoemde gegevens en kunnen regels worden gesteld over de gevallen waarin kan worden afgezien van het opnemen van de gezichtsopname, vingerafdrukken of de handtekening in het aangevraagde reisdocument indien deze gegevens niet van de houder kunnen worden verkregen.   
+4.  Op nader door Onze Minister aan te wijzen reisdocumenten die worden verstrekt aan Nederlanders die als ingezetene in de basisadministratie persoonsgegevens van een gemeente zijn ingeschreven, wordt van de houder het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, vermeld.   
 5.  Elk reisdocument vermeldt het documentnummer, de autoriteit die het document heeft verstrekt, de datum van verstrekking en het einde van de geldigheidsduur, alsmede de territoriale geldigheid.   
 6.  In reisdocumenten die aan Nederlanders worden verstrekt, wordt de Nederlandse nationaliteit vermeld. In reisdocumenten voor vluchtelingen en in reisdocumenten die aan staatlozen worden verstrekt, wordt de status van de houder vermeld.   
 7.  Op verzoek van de houder kan in diens reisdocument tevens de geslachtsnaam worden vermeld van de echtgenoot, echtgenote of geregistreerde partner, dan wel, indien de houder geen echtgenoot, echtgenote of geregistreerde partner meer heeft, de geslachtsnaam van de gewezen echtgenoot, echtgenote of geregistreerde partner met wie het huwelijk of het geregistreerd partnerschap laatstelijk is geëindigd, voor zover het model van het reisdocument daartoe voldoende ruimte bevat. Onze Minister stelt nadere regels met betrekking tot de wijze waarop de naamsvermelding plaatsvindt.   
-8.  De tot uitreiking bevoegde autoriteiten houden een administratie bij met betrekking tot uitgereikte reisdocumenten en daarin bijgeschreven personen. Deze administratie bevat de gegevens bedoeld in het eerste, tweede, vierde, vijfde en zesde lid van dit artikel, alsmede de documentnummers. In deze administratie kunnen voorts ten hoogste de gegevens die bij de aanvraag zijn overgelegd, worden opgenomen. De foto en de handtekening worden bewaard door de autoriteit die het reisdocument heeft verstrekt, in een administratie die zowel op naam als op documentnummer toegankelijk is.   
+8.  De tot uitreiking bevoegde autoriteiten houden een administratie bij met betrekking tot uitgereikte reisdocumenten. Deze administratie bevat de gegevens bedoeld in het eerste, vierde, vijfde en zesde lid van dit artikel, alsmede de documentnummers. In deze administratie kunnen voorts ten hoogste de gegevens die bij de aanvraag zijn overgelegd, worden opgenomen. De foto en de handtekening worden bewaard door de autoriteit die het reisdocument heeft verstrekt, in een administratie die zowel op naam als op documentnummer toegankelijk is.   
+9.  De bij de aanvraag van een reisdocument opgenomen vingerafdrukken worden bewaard totdat de uitreiking van het aangevraagde reisdocument, dan wel de reden voor het niet uitreiken daarvan, in de administratie, bedoeld in het achtste lid, is geregistreerd en gedurende die periode uitsluitend verwerkt ten behoeve van de verstrekking en de uitreiking van het reisdocument.   
 
 ### Artikel  4  
 
@@ -89,7 +92,7 @@ Elk reisdocument blijft na uitreiking rijkseigendom. Onze Minister oefent het ei
 
 a. de persoonsgegevens, bedoeld in artikel 3, eerste, vierde en zesde lid;  
 
-b. het administratienummer waarmee de houder van een reisdocument is vermeld in de gemeentelijke basisadministratie persoonsgegevens in het Europese deel van Nederland of in de bevolkingsadministratie van een openbaar lichaam, Aruba, Curaçao of Sint Maarten;  
+b. het administratienummer waarmee de houder van een reisdocument is vermeld in de basisregistratie personen in het Europese deel van Nederland of in de bevolkingsadministratie van een openbaar lichaam, Aruba, Curaçao of Sint Maarten;  
 
 c. het soort reisdocument, het documentnummer en de andere documentgegevens, bedoeld in artikel 3, vijfde lid;  
 
@@ -101,7 +104,8 @@ e. andere bij regeling van Onze Minister te bepalen administratieve gegevens die
 8.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de in het register op te nemen gegevens, de vastlegging van gegevens in het register, de verwijdering van gegevens uit het register en de verstrekking van gegevens.   
 9.  Onze Minister treft maatregelen met betrekking tot het beheer en de beveiliging van het register.   
 
-### Artikel  4b  
+### Artikel  4b   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De reisdocumentenadministratie heeft tot doel het verstrekken van gegevens als bedoeld in artikel 4a, eerste lid, aan daartoe ingevolge deze wet bevoegde autoriteiten, instellingen en personen die belast zijn met de uitvoering van deze wet voor zover zij de gegevens nodig hebben voor die uitvoering.   
 2.  Onverminderd het in het eerste lid genoemde doel kunnen gegevens als bedoeld in artikel 4a, eerste lid, beschikbaar worden gesteld met het oog op: 
@@ -118,20 +122,15 @@ d. het verrichten van onderzoek naar handelingen, die een bedreiging vormen voor
 a. organen van rechtspersonen die krachtens publiekrecht zijn ingesteld en andere personen of colleges, met enig openbaar gezag bekleed, voor zover verstrekking van die gegevens noodzakelijk is voor de vervulling van hun taak;  
 
 b. instellingen en personen die met het oog op de uitvoering van een wettelijke identificatieplicht een gerechtvaardigd belang hebben bij verstrekking van gegevens uit de reisdocumentenadministratie.     
-4.  De verstrekking van gegevens betreffende de vingerafdrukken van de houder uit de reisdocumentenadministratie in de gevallen, bedoeld in het tweede lid, onder a en c, geschiedt uitsluitend aan de officier van justitie. De verstrekking vindt slechts plaats: 
-
-a. ten behoeve van de vaststelling van de identiteit van een verdachte of veroordeelde voor zover in het kader van de toepassing van het strafrecht van hem een of meer vingerafdrukken zijn genomen en er twijfel bestaat over zijn identiteit;  
-
-b. in het belang van het onderzoek in geval van een misdrijf waarvoor voorlopige hechtenis is toegelaten.     
-5.  De verstrekking van gegevens uit de reisdocumentenadministratie beperkt zich in de gevallen als bedoeld in het derde lid, onder b, uitsluitend tot de mededeling of een door de instelling of persoon opgegeven documentnummer van een reisdocument in de reisdocumentenadministratie voorkomt en, bij een bevestigend antwoord, of het desbetreffende reisdocument in het maatschappelijk verkeer mag voorkomen.   
-6.  Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld met betrekking tot: 
+4.  De verstrekking van gegevens uit de reisdocumentenadministratie beperkt zich in de gevallen als bedoeld in het derde lid, onder b, uitsluitend tot de mededeling of een door de instelling of persoon opgegeven documentnummer van een reisdocument in de reisdocumentenadministratie voorkomt en, bij een bevestigend antwoord, of het desbetreffende reisdocument in het maatschappelijk verkeer mag voorkomen.   
+5.  Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld met betrekking tot: 
 
 a. het indienen van een verzoek tot verstrekking van gegevens;  
 
-b. de gegevens die verstrekt kunnen worden aan de in het eerste en derde lid, onder a en in het vierde lid bedoelde autoriteiten, instellingen en personen, alsmede onder welke voorwaarden die verstrekking dient plaats te vinden;  
+b. de gegevens die verstrekt kunnen worden aan de in het eerste en derde lid, onder a bedoelde autoriteiten, instellingen en personen, alsmede onder welke voorwaarden die verstrekking dient plaats te vinden;  
 
 c. de wijze waarop de verstrekking van de gegevens, bedoeld in het eerste en derde lid, kan plaatsvinden.     
-7.  Uit de reisdocumentenadministratie worden uitsluitend in overeenstemming met deze wet gegevens verstrekt.   
+6.  Uit de reisdocumentenadministratie worden uitsluitend in overeenstemming met deze wet gegevens verstrekt.   
 
 ### Artikel  5  
 
@@ -180,8 +179,8 @@ Aan Nederlanders die zich ten behoeve van het Koninkrijk of een der landen van h
 
 ### Artikel  11  
 
-1.  Iedere vreemdeling die ingevolge [artikel 33 van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot het Europese deel van Nederland dan wel iedere vluchteling die als zodanig tot een openbaar lichaam, Aruba, Curaçao of Sint Maarten is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor vijf jaren.   
-2.  Iedere vreemdeling die ingevolge [artikel 28 van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot het Europese deel van Nederland is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor ten minste een jaar en ten hoogste drie jaren.   
+1.  Iedere vreemdeling die ingevolge artikel 33 van de Vreemdelingenwet 2000 tot het Europese deel van Nederland dan wel iedere vluchteling die als zodanig tot een openbaar lichaam, Aruba, Curaçao of Sint Maarten is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor vijf jaren.   
+2.  Iedere vreemdeling die ingevolge artikel 28 van de Vreemdelingenwet 2000 tot het Europese deel van Nederland is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor ten minste een jaar en ten hoogste drie jaren.   
 
 ### Artikel  12  
 
@@ -215,17 +214,13 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 ### Artikel  16a  
 
-Iedere Nederlander die als ingezetene in de basisadministratie persoonsgegevens van een gemeente is ingeschreven, of die woonachtig is in een land waarvoor de Nederlandse identiteitskaart geldig is, heeft binnen de grenzen van deze wet bepaald, recht op verstrekking van een Nederlandse identiteitskaart, geldig voor vijf jaren.  
+Iedere Nederlander die als ingezetene in de basisregistratie personen is ingeschreven, of die woonachtig is in een land waarvoor de Nederlandse identiteitskaart geldig is, heeft binnen de grenzen van deze wet bepaald, recht op verstrekking van een Nederlandse identiteitskaart, geldig voor vijf jaren.  
 
 ### §  4  
 
 ####Bijschrijving
 
-### Artikel  17  
-
-1.  Op verzoek van de houder kan het kind over wie hij het gezag uitoefent in zijn reisdocument worden bijgeschreven, voor zover het kind nog niet de leeftijd van zestien jaren heeft bereikt, niet reeds over een Nederlands reisdocument als bedoeld in artikel 2, eerste lid, beschikt en evenals de houder Nederlander is dan wel evenals de houder vreemdeling is met dezelfde status of verblijfstitel als de houder.   
-2.  Bijschrijving vindt bij gezamenlijke uitoefening van het gezag niet plaats dan nadat de andere persoon die het gezag uitoefent, daarvoor schriftelijk toestemming heeft gegeven.   
-3.  Bijschrijving kan slechts plaatsvinden in reisdocumenten als bedoeld in artikel 2, eerste lid, onder a, d, e en g.   
+Vervallen per 26-06-2012   
 
 ### Hoofdstuk  III  
 
@@ -241,13 +236,17 @@ Weigering of vervallenverklaring kan geschieden op verzoek van het openbaar mini
 
 a. die wordt verdacht van het plegen van een strafbaar feit waarvoor een bevel tot voorlopige hechtenis is toegelaten, of  
 
-b. die onherroepelijk veroordeeld is tot een vrijheidsstraf of vrijheidsbenemende maatregel van zes maanden of meer, of een geldboete in het Europese deel van Nederland van de derde categorie of hoger, dan wel een daarmee overeenkomende geldboete in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, of  
+b. die onherroepelijk veroordeeld is tot: 
+
+1°. een vrijheidsstraf of vrijheidsbenemende maatregel van vier maanden of meer, of  
+
+2°. een geldboete in het Europese deel van Nederland van meer dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, of tot betaling van een daarmee overeenkomend geldbedrag op grond van artikel 36e of artikel 36f van het Wetboek van Strafrecht, of een met dat bedrag overeenkomende geldelijke sanctie in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, of    
 
 c. die de bijzondere voorwaarden verbonden aan een voorwaardelijke veroordeling, een terbeschikkingstelling met voorwaarden of een voorwaardelijke gratieverlening niet naleeft,   zich door verblijf buiten de grenzen van een der landen van het Koninkrijk aan vervolging dan wel tenuitvoerlegging van de straf zal onttrekken.  
 
 ### Artikel  19  
 
-Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in [artikel 106 van de Faillissementswet](../../../wet/faillissementswet/BWBR0001860/README.md) (*Stb.* 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is.  
+Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in artikel 106 van de Faillissementswet (*Stb.* 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is.  
 
 ### Artikel  20  
 
@@ -309,7 +308,7 @@ b. het gegronde vermoeden bestaat dat de betrokken persoon handelingen heeft ver
 
 1.  Bevoegd tot het in ontvangst nemen van aanvragen voor nationale paspoorten, reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen, zijn: 
 
-a. in het Europese deel van Nederland: de burgemeester, voor zover het personen betreft die als ingezetene in de basisadministratie persoonsgegevens van zijn gemeente zijn ingeschreven;  
+a. in het Europese deel van Nederland: de burgemeester, voor zover het personen betreft die als ingezetene in de basisregistratie personen zijn ingeschreven met een adres in zijn gemeente;  
 
 b. in Aruba, Curaçao en Sint Maarten: de Gouverneur en, voor zover het personen betreft die in de bevolkingsadministratie van Aruba, Curaçao of Sint Maarten zijn opgenomen, de door de Gouverneur na overleg met Onze Minister daartoe aangewezen autoriteiten;  
 
@@ -336,13 +335,13 @@ e. in bijzondere door Onze Minister te bepalen gevallen: Onze Minister en de doo
 ### Artikel  29  
 
 1.  De aanvrager dient bij zijn aanvraag alle Nederlandse of buitenlandse reisdocumenten die op zijn naam zijn gesteld ter inzage over te leggen, ongeacht of hun geldigheidsduur is verstreken.   
-2.  De aanvrager die in een ander Nederlands of buitenlands reisdocument staat vermeld, doet hiervan bij zijn aanvraag mededeling.   
+2.  De aanvrager die in een buitenlands reisdocument staat vermeld, doet hiervan bij zijn aanvraag mededeling.   
 
 ### Artikel  30  
 
 1.  De aanvrager die houder wenst te blijven van een geldig Nederlands reisdocument naast het aangevraagde reisdocument, kan daartoe een verzoek doen aan de autoriteit die bevoegd is de aanvraag in ontvangst te nemen. Deze autoriteit beslist op het verzoek volgens nader door Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken te stellen regelen.   
-2.  Een verzoek als bedoeld in het eerste lid behoeft niet te worden gedaan, indien hetzij het aangevraagde reisdocument hetzij het geldig Nederlands reisdocument waarvan de aanvrager houder wenst te blijven, een Nederlandse identiteitskaart is.   
-3.  Een verzoek als bedoeld in het eerste lid kan niet worden gedaan, indien zowel het aangevraagde reisdocument als het geldig Nederlands reisdocument waarvan de aanvrager houder wenst te blijven, een Nederlandse identiteitskaart is.   
+2.  Een verzoek als bedoeld in het eerste lid behoeft niet te worden gedaan, indien hetzij het aangevraagde document hetzij het geldig Nederlands document waarvan de aanvrager houder wenst te blijven, een Nederlandse identiteitskaart is.   
+3.  Een verzoek als bedoeld in het eerste lid kan niet worden gedaan, indien zowel het aangevraagde document als het geldig Nederlands document waarvan de aanvrager houder wenst te blijven, een Nederlandse identiteitskaart is.   
 
 ### Artikel  31  
 
@@ -366,7 +365,7 @@ De rechten die in verband met de aanvraag, verstrekking, uitreiking, wijziging o
 
 ### Artikel  34  
 
-1.  Bij een aanvraag door of ten behoeve van een minderjarige wordt een verklaring van toestemming overgelegd van iedere persoon die het gezag uitoefent. Indien de minderjarige onder voorlopige voogdij is geplaatst van een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het Europese deel van Nederland onderscheidenlijk voorlopig is toevertrouwd aan een Voogdijraad in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, wordt evenwel een verklaring van toestemming van de desbetreffende stichting dan wel van de desbetreffende Voogdijraad overgelegd.   
+1.  Bij een aanvraag door of ten behoeve van een minderjarige wordt een verklaring van toestemming overgelegd van iedere persoon die het gezag uitoefent. Indien de minderjarige onder voorlopige voogdij is geplaatst van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg in het Europese deel van Nederland onderscheidenlijk voorlopig is toevertrouwd aan een Voogdijraad in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, wordt evenwel een verklaring van toestemming van de desbetreffende stichting dan wel van de desbetreffende Voogdijraad overgelegd.   
 2.  Indien bij gezamenlijke gezagsuitoefening een van de personen die het gezag uitoefenen, weigert een verklaring van toestemming als bedoeld in het eerste lid, af te geven, kan deze op verzoek van de andere persoon die het gezag uitoefent, worden vervangen door een verklaring van de bevoegde rechter, die alvorens te beslissen een vergelijk tussen de beide personen beproeft.   
 3.  Indien een persoon die het gezag uitoefent, de desbetreffende stichting of de desbetreffende Voogdijraad een verklaring van toestemming als bedoeld in het eerste lid weigert, kan deze op verzoek van de minderjarige van zestien jaren of ouder worden vervangen door een verklaring van de bevoegde rechter.   
 4.  Indien bij gezamenlijke gezagsuitoefening het als gevolg van oorlog, oproer, natuurrampen of daaraan verwante dan wel daarmee samenhangende omstandigheden feitelijk onmogelijk is een verklaring van toestemming als bedoeld in het eerste lid, te verkrijgen van de andere persoon die het gezag uitoefent, kan deze in afwijking van het eerste lid worden vervangen door een verklaring van de bevoegde rechter.   
@@ -380,7 +379,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 ### Artikel  36  
 
 1.  Bij een aanvraag ten behoeve van een minderjarige die onder toezicht is gesteld en jonger is dan zestien jaar, kan, indien één of beide personen die het gezag over de minderjarige uitoefenen, weigeren een verklaring van toestemming als bedoeld in artikel 34, eerste lid, af te geven, in plaats van die verklaring een verklaring van toestemming van de bevoegde rechter worden overgelegd.   
-2.  De rechter kan een verklaring van toestemming afgeven op verzoek van een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), of een rechtspersoon als bedoeld in [artikel 254, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) in het Europese deel van Nederland of een gezinsvoogdij-instelling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten. De rechter geeft een zodanige beslissing als hem in het belang van het kind wenselijk voorkomt. Daarbij kan als voorwaarde worden gesteld dat de geldigheidsduur of de territoriale geldigheid van het aangevraagde reisdocument wordt beperkt.   
+2.  De rechter kan een verklaring van toestemming afgeven op verzoek van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, of een rechtspersoon als bedoeld in artikel 254, tweede lid, van Boek 1 van het Burgerlijk Wetboek in het Europese deel van Nederland of een gezinsvoogdij-instelling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten. De rechter geeft een zodanige beslissing als hem in het belang van het kind wenselijk voorkomt. Daarbij kan als voorwaarde worden gesteld dat de geldigheidsduur of de territoriale geldigheid van het aangevraagde reisdocument wordt beperkt.   
 
 ### Artikel  37  
 
@@ -390,7 +389,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 
 ### Artikel  38  
 
-1.  Op de procedure ingevolge de artikelen 34, 36 en 37 is in het Europese deel van Nederland de [derde titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), met uitzondering van [artikel 278, derde lid](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), van toepassing.   
+1.  Op de procedure ingevolge de artikelen 34, 36 en 37 is in het Europese deel van Nederland de derde titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering, met uitzondering van artikel 278, derde lid, van toepassing.   
 2.  De bevoegde rechter, genoemd in artikel 34, tweede, derde en vierde lid, en in artikel 36, is in het Europese deel van Nederland de kinderrechter, in een openbaar lichaam, Aruba, Curaçao en Sint Maarten de rechter in eerste aanleg.   
 3.   Vervallen.    
 4.  De bevoegde rechter, genoemd in artikel 37, derde lid, is in het Europese deel van Nederland de kantonrechter, in een openbaar lichaam, Aruba, Curaçao en Sint Maarten de rechter in eerste aanleg.   
@@ -410,7 +409,7 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 1.  Bevoegd tot het verstrekken van nationale paspoorten, reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen, zijn: 
 
-a. in het Europese deel van Nederland: de burgemeester, voor zover het personen betreft die als ingezetene in de basisadministratie persoonsgegevens van zijn gemeente zijn ingeschreven;  
+a. in het Europese deel van Nederland: de burgemeester, voor zover het personen betreft die als ingezetene in de basisregistratie personen zijn ingeschreven met een adres in zijn gemeente;  
 
 b. in Aruba, Curaçao en Sint Maarten: de Gouverneur en, voor zover het om verstrekking van nationale paspoorten gaat aan personen die in de bevolkingsadministratie van Aruba, Curaçao of Sint Maarten zijn opgenomen, de door de Gouverneur na overleg met Onze Minister daartoe aangewezen autoriteiten;  
 
@@ -439,7 +438,8 @@ c. in het buitenland: het hoofd van de daartoe aangewezen consulaire post.
 2.  De termijn genoemd in het eerste lid, kan in bijzondere gevallen met hoogstens vier weken worden verlengd. De aanvrager wordt daarvan zo spoedig mogelijk doch in ieder geval voor de afloop van de eerste termijn, schriftelijk in kennis gesteld.   
 3.  Indien de aanvraag een persoon betreft op wie een mededeling als bedoeld in artikel 25, vierde lid, van toepassing is en de autoriteit in een openbaar lichaam, Aruba, Curaçao of Sint Maarten die de aanvraag in ontvangst heeft genomen niet tevens de ingevolge artikel 40 tot verstrekking bevoegde autoriteit is, legt hij de aanvraag onverwijld voor aan de tot verstrekking van dat reisdocument bevoegde autoriteit. Van de voorlegging wordt de aanvrager terstond in kennis gesteld.   
 
-### Artikel  41a  
+### Artikel  41a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Alvorens een reisdocument wordt uitgereikt, doet Onze Minister onderzoeken of een aanvrager 
 
@@ -464,11 +464,7 @@ c. ten aanzien van de aanvrager van het uit te reiken reisdocument zich een omst
 
 ### Artikel  43  
 
-De autoriteiten, bedoeld in artikel 42, eerste lid, alsmede andere door Onze Minister daartoe aangewezen autoriteiten zijn, volgens nadere door hem te stellen regelen, bevoegd tot: 
-
-a. bijschrijving van kinderen als bedoeld in artikel 17, alsmede tot wijziging of verwijdering daarvan;  
-
-b. wijziging als bedoeld in artikel 1, onder f.    
+De autoriteiten, bedoeld in artikel 42, eerste lid, alsmede andere door Onze Minister daartoe aangewezen autoriteiten zijn, volgens bij regeling van Onze Minister te stellen regels, bevoegd tot wijziging als bedoeld in artikel 1, onder g.  
 
 ### Hoofdstuk  VI  
 
@@ -524,24 +520,9 @@ f. de houder is overleden;
 g. ingevolge artikel 31 schriftelijk is verklaard dat het is vermist of door een daartoe bevoegde autoriteit is ingenomen;  
 
 h. door een met de uitvoering van deze wet belaste autoriteit is vastgesteld dat bij de aanvraag gebruik is gemaakt van onjuiste gegevens, die hebben geleid tot het verstrekken van het reisdocument.     
-2.  De bijschrijving in een reisdocument vervalt van rechtswege, indien: 
-
-a. de minderjarige de leeftijd van zestien jaren heeft bereikt of is overleden;  
-
-b. aan de bijgeschreven persoon een reisdocument als bedoeld in artikel 2, eerste lid, is verstrekt;  
-
-c. in het bezit van de Nederlandse nationaliteit dan wel de status of verblijfstitel als bedoeld in artikel 17, van de minderjarige verandering is opgetreden;  
-
-d. de geslachtsnaam, de voornamen, de geboortedatum of het geslacht van de minderjarige zijn gewijzigd;  
-
-e. de houder van het reisdocument niet meer het gezag uitoefent;  
-
-f. de andere persoon die het gezag uitoefent bedoeld in artikel 17 zijn toestemming heeft ingetrokken. De intrekking geschiedt op de wijze bedoeld in artikel 48, eerste lid;  
-
-g. door een met de uitvoering van deze wet belaste autoriteit is vastgesteld dat bij de aanvraag gebruik is gemaakt van onjuiste gegevens, die hebben geleid tot de bijschrijving in het reisdocument.     
-3.  De houder van een reisdocument dat van rechtswege is vervallen ingevolge het bepaalde in het eerste lid, onder a, b, c, e of h, dan wel de houder van een reisdocument waarin een bijschrijving is opgenomen welke van rechtswege is vervallen, wordt hiervan op het moment van de inhouding in kennis gesteld door de tot inhouding van het reisdocument bevoegde autoriteit.   
-4.  Onze Minister onderscheidenlijk de Gouverneur kan, al dan niet op verzoek van een met de uitvoering van deze wet belaste autoriteit die het aangaat, besluiten dat de houder van een reisdocument dat op grond van het bepaalde in het eerste lid, onder a, b, c, e, g of h, van rechtswege is vervallen of van een reisdocument waarin een bijschrijving is opgenomen welke van rechtswege is vervallen, wordt vermeld in het register, bedoeld in artikel 25, derde lid. Deze vermelding kan geen andere gegevens van de betrokken persoon omvatten dan die, bedoeld in artikel 3. Artikel 25, vierde lid, is van overeenkomstige toepassing. De Gouverneur geeft van zijn besluit dat tot vermelding moet worden overgegaan onverwijld kennis aan Onze Minister.   
-5.  Onze Minister draagt zorg voor de vermelding, bedoeld in het vierde lid, alsmede voor de verwijdering daarvan, zodra het desbetreffende reisdocument door hem, de Gouverneur dan wel de met de uitvoering van deze wet belaste autoriteit die het verzoek tot de vermelding, bedoeld in het vierde lid, heeft gedaan, is ontvangen of ingehouden. De Gouverneur dan wel de autoriteit die het verzoek tot vermelding, bedoeld in het vierde lid, heeft gedaan, geeft van de ontvangst of de inhouding van het reisdocument onverwijld kennis aan Onze Minister.   
+2.  De houder van een reisdocument dat van rechtswege is vervallen ingevolge het bepaalde in het eerste lid, onder a, b, c, e of h, wordt hiervan op het moment van de inhouding in kennis gesteld door de tot inhouding van het reisdocument bevoegde autoriteit.   
+3.  Onze Minister onderscheidenlijk de Gouverneur kan, al dan niet op verzoek van een met de uitvoering van deze wet belaste autoriteit die het aangaat, besluiten dat de houder van een reisdocument dat op grond van het bepaalde in het eerste lid, onder a, b, c, e, g of h, van rechtswege is vervallen, wordt vermeld in het register, bedoeld in artikel 25, derde lid. Deze vermelding kan geen andere gegevens van de betrokken persoon omvatten dan die, bedoeld in artikel 3. Artikel 25, vierde lid, is van overeenkomstige toepassing. De Gouverneur geeft van zijn besluit dat tot vermelding moet worden overgegaan onverwijld kennis aan Onze Minister.   
+4.  Onze Minister draagt zorg voor de vermelding, bedoeld in het vierde lid, alsmede voor de verwijdering daarvan, zodra het desbetreffende reisdocument door hem, de Gouverneur dan wel de met de uitvoering van deze wet belaste autoriteit die het verzoek tot de vermelding, bedoeld in het vierde lid, heeft gedaan, is ontvangen of ingehouden. De Gouverneur dan wel de autoriteit die het verzoek tot vermelding, bedoeld in het vierde lid, heeft gedaan, geeft van de ontvangst of de inhouding van het reisdocument onverwijld kennis aan Onze Minister.   
 
 ### §  2  
 
@@ -602,8 +583,7 @@ d. de gezichtsopname van de houder niet langer voldoende gelijkenis vertoont;
 e. blijkt dat daarin abusievelijk verkeerde gegevens zijn vermeld dan wel anderszins fouten zijn gemaakt bij de vervaardiging van het reisdocument.     
 2.  Indien de autoriteit die het reisdocument heeft ingehouden, niet bevoegd is tot definitieve onttrekking van reisdocumenten aan het verkeer, zendt hij het ingehouden reisdocument onverwijld aan een daartoe wel bevoegde autoriteit. De houder wordt hiervan terstond in kennis gesteld.   
 3.  De daartoe bevoegde autoriteit onttrekt het ingehouden reisdocument definitief aan het verkeer, tenzij nog een beroepstermijn openstaat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is.   
-4.  Een reisdocument waarin een bijschrijving is opgenomen die van rechtswege is vervallen ingevolge artikel 47, tweede lid, wordt ingehouden door de autoriteit die bevoegd is tot het verwijderen van die bijschrijving. Deze autoriteit maakt de bijschrijving ongedaan en geeft het reisdocument terstond terug aan de houder.   
-5.  Indien het van rechtswege vervallen reisdocument is ingehouden naar aanleiding van een mededeling van Onze Minister als bedoeld in artikel 25, vierde lid, wordt Onze Minister van de inhouding onverwijld in kennis gesteld.   
+4.  Indien het van rechtswege vervallen reisdocument is ingehouden naar aanleiding van een mededeling van Onze Minister als bedoeld in artikel 25, vierde lid, wordt Onze Minister van de inhouding onverwijld in kennis gesteld.   
 
 ### Artikel  55  
 
@@ -615,7 +595,7 @@ b. de autoriteiten belast met de grensbewaking, de politie en de ambtenaren bela
 
 ### Artikel  56  
 
-De houder van een reisdocument levert dit zo spoedig mogelijk in bij een tot inhouding bevoegde autoriteit, indien het reisdocument of een daarin opgenomen bijschrijving van rechtswege is vervallen dan wel deze autoriteit om inlevering daarvan ter inhouding als bedoeld in de artikelen 49, 51, 52, 53 en 54 verzoekt.  
+De houder van een reisdocument levert dit zo spoedig mogelijk in bij een tot inhouding bevoegde autoriteit, indien het reisdocument van rechtswege is vervallen dan wel deze autoriteit om inlevering daarvan ter inhouding als bedoeld in de artikelen 49, 51, 52, 53 en 54 verzoekt.  
 
 ### Artikel  57  
 
@@ -668,20 +648,23 @@ Bij landsverordening wordt geregeld de mogelijkheid voorziening te vragen tegen 
 
 ### Artikel  65  
 
-1.  De autoriteit die het reisdocument verstrekt, bewaart in de administratie, bedoeld in artikel 3, achtste lid, tweede volzin: 
+1.  De in artikel 3, achtste lid, bedoelde gegevens, worden, bij de inwerkingtreding van artikel I, onderdelen D en E, van het bij koninklijke boodschap van 21 januari 2008 ingediende voorstel van rijkswet tot wijziging van de Paspoortwet in verband met het herinrichten van de reisdocumentenadministratie (Kamerstukken II 2007/08, 31 324 (R1844), nr. 2), nadat dit voorstel tot wet is verheven, overgebracht naar de reisdocumentenadministratie, bedoeld in artikel 4a, zoals dit luidt na inwerkingtreding van artikel I, onderdeel D, van genoemd voorstel van rijkswet. De eerste zin is niet van toepassing op vingerafdrukken als bedoeld in artikel 3, negende lid.   
+2.  Tot het moment waarop artikel I, onderdeel B, onder 2, van het in het eerste lid genoemde voorstel van rijkswet, nadat dit tot wet is verheven, in werking treedt, kan Onze Minister een afwijkende geldigheidsduur vaststellen voor reisdocumenten, waarin als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken kunnen worden opgenomen.   
+3.  Tot het moment waarop artikel I, onderdelen D en E, van het in het eerste lid genoemde voorstel van rijkswet, nadat dit tot wet is verheven, in werking treedt, wordt in de in artikel 3, derde lid, bedoelde bij algemene maatregel van rijksbestuur te stellen regels en in de in artikel 59 bedoelde bij of krachtens algemene maatregel van rijksbestuur te stellen regels voorzien bij ministeriële regeling.   
 
-a. de in artikel 3, derde lid, bedoelde vingerafdrukken;  
+### Artikel  65a  
 
-b. twee andere, door Onze Minister aan te wijzen vingerafdrukken van de aanvrager van een reisdocument.     
-2.  De in het eerste lid bedoelde gegevens worden uitsluitend verstrekt aan autoriteiten, instellingen en personen die belast zijn met de uitvoering van deze wet, voor zover zij de gegevens nodig hebben voor die uitvoering.   
-3.  De in het eerste lid bedoelde gegevens, alsmede de in artikel 3, achtste lid, bedoelde gegevens, worden, bij de inwerkingtreding van artikel I, onderdelen D en E, van het bij koninklijke boodschap van 21 januari 2008 ingediende voorstel van rijkswet tot wijziging van de Paspoortwet in verband met het herinrichten van de reisdocumentenadministratie (Kamerstukken II 2007/08, 31 324 (R1844), nr. 2), nadat dit voorstel tot wet is verheven, overgebracht naar de reisdocumentenadministratie, bedoeld in artikel 4a, zoals dit luidt na inwerkingtreding van artikel I, onderdeel D, van genoemd voorstel van rijkswet.   
-4.  Onze Minister kan met het oog op de verwerking van de in het eerste lid bedoelde gegevens nadere regels stellen met betrekking tot de administratieve uitvoering van deze wet en de beveiliging van het aangifte- en uitgifteproces van reisdocumenten. Deze regels kunnen afwijken van het bepaalde krachtens artikel 59.   
-5.  Tot het moment waarop artikel I, onderdeel B, onder 3, van het in het derde lid genoemde voorstel van rijkswet, nadat dit tot wet is verheven, in werking treedt, kan Onze Minister een afwijkende geldigheidsduur vaststellen voor reisdocumenten, waarin als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken kunnen worden opgenomen.   
-6.  Tot het moment waarop artikel I, onderdelen D en E, van het in het derde lid genoemde voorstel van rijkswet, nadat dit tot wet is verheven, in werking treedt, wordt in de in artikel 3, derde lid, tweede volzin, bedoelde bij algemene maatregel van rijksbestuur te stellen regels en in de in artikel 59 bedoelde bij of krachtens algemene maatregel van rijksbestuur te stellen regels voorzien bij ministeriële regeling.   
+1.  Bijschrijvingen op grond van artikel 17, zoals dit artikel luidde op 25 juni 2012, vervallen met ingang van 26 juni 2012.   
+2.  Een reisdocument waarin een bijschrijving is opgenomen die is vervallen op grond van het eerste lid, behoudt zijn geldigheid ten aanzien van de houder.   
 
 ### Artikel  66  
 
 Op aanvragen ter verkrijging van een reisdocument die op het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen reeds waren ingediend, zijn de bepalingen van deze wet van toepassing zoals die zijn komen te luiden na de inwerkingtreding van de genoemde rijkswet.  
+
+### Artikel  66a  
+
+1.  Nationale paspoorten en Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van artikel I, onderdeel F, respectievelijk artikel I, onderdeel G van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart, behouden de geldigheid die daarin is vermeld.   
+2.  Op Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van artikel I, onderdeel B, van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart, zijn artikel 2, tweede lid, artikel 3, tweede en vijfde lid en artikel 65 van toepassing zoals deze luidden voor die datum.   
 
 ### Artikel  67  
 

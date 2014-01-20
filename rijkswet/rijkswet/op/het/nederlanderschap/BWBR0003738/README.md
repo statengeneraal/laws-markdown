@@ -33,9 +33,9 @@ g. toelating: instemming door het bevoegd gezag met het bestendig verblijf van d
 h. hoofdverblijf: de plaats waar een persoon zijn feitelijke woonstede heeft.     
 2.  Behoudens voor de toepassing van artikel 15A, onder a, van deze rijkswet wordt mede verstaan onder: 
 
-a. echtgenoot: de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](../../../../../../wet/wet/conflictenrecht/geregistreerd/partnerschap/BWBR0016986/README.md) en [3 van de Wet conflictenrecht geregistreerd partnerschap](../../../../../../wet/wet/conflictenrecht/geregistreerd/partnerschap/BWBR0016986/README.md) wordt erkend, en  
+a. echtgenoot: de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de artikelen 2 en 3 van de Wet conflictenrecht geregistreerd partnerschap wordt erkend, en  
 
-b. huwelijk: het in Nederland geregistreerd partnerschap alsmede het buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](../../../../../../wet/wet/conflictenrecht/geregistreerd/partnerschap/BWBR0016986/README.md) en [3 van de Wet conflictenrecht geregistreerd partnerschap](../../../../../../wet/wet/conflictenrecht/geregistreerd/partnerschap/BWBR0016986/README.md) wordt erkend.      
+b. huwelijk: het in Nederland geregistreerd partnerschap alsmede het buiten Nederland geregistreerd partnerschap dat op grond van de artikelen 2 en 3 van de Wet conflictenrecht geregistreerd partnerschap wordt erkend.      
 
 ### Artikel  2  
 
@@ -91,16 +91,16 @@ c. het kind was op de dag van de uitspraak houdende omzetting in eerste aanleg m
 
 1.  Nederlander wordt ook het kind dat in het buitenland bij uitspraak van een ter plaatse bevoegde autoriteit wordt geadopteerd, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan: 
 
-a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van [artikel 6](../../../../../../wet/wet/conflictenrecht/adoptie/BWBR0015330/README.md) of [artikel 7 van de Wet conflictenrecht adoptie](../../../../../../wet/wet/conflictenrecht/adoptie/BWBR0015330/README.md), en  
+a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van artikel 6 of artikel 7 van de Wet conflictenrecht adoptie, en  
 
 b. de adoptie heeft tot gevolg dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, en  
 
 c. ten minste een der adoptiefouders is Nederlander op de dag dat de uitspraak kracht van gewijsde heeft gekregen, en  
 
 d. het kind was op de dag van de uitspraak in eerste aanleg minderjarig.     
-2.  Nederlander wordt voorts het kind dat in het buitenland is geadopteerd bij een adoptie die niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, welke adoptie in Nederland bij rechterlijke uitspraak in overeenstemming met [artikel 9 van de Wet conflictenrecht adoptie](../../../../../../wet/wet/conflictenrecht/adoptie/BWBR0015330/README.md) wordt omgezet in een adoptie naar Nederlands recht, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan: 
+2.  Nederlander wordt voorts het kind dat in het buitenland is geadopteerd bij een adoptie die niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, welke adoptie in Nederland bij rechterlijke uitspraak in overeenstemming met artikel 9 van de Wet conflictenrecht adoptie wordt omgezet in een adoptie naar Nederlands recht, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan: 
 
-a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van [artikel 6](../../../../../../wet/wet/conflictenrecht/adoptie/BWBR0015330/README.md) of [artikel 7 van de Wet conflictenrecht adoptie](../../../../../../wet/wet/conflictenrecht/adoptie/BWBR0015330/README.md), en  
+a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van artikel 6 of artikel 7 van de Wet conflictenrecht adoptie, en  
 
 b. ten minste een der adoptiefouders is Nederlander op de dag nadat drie maanden te rekenen van de dag van de uitspraak houdende omzetting in eerste aanleg of in hoger beroep zijn verstreken zonder dat daartegen hoger beroep of beroep in cassatie is ingesteld, dan wel, indien beroep in cassatie is ingesteld, op de dag van de uitspraak in cassatie; en  
 
@@ -263,15 +263,15 @@ c. ten aanzien van hem geen van de afwijzingsgronden van artikel 9, eerste lid, 
 1.  Onze Minister kan de verkrijging of verlening van het Nederlanderschap intrekken, indien zij berust op een door de betrokken persoon gegeven valse verklaring of bedrog, dan wel op het verzwijgen van enig voor de verkrijging of verlening relevant feit. De intrekking werkt terug tot het tijdstip van verkrijging of verlening van het Nederlanderschap. De intrekking is niet mogelijk indien sedert de verkrijging of verlening een periode van twaalf jaar is verstreken. De derde volzin is niet van toepassing indien de betrokken persoon is veroordeeld voor een van de misdrijven, omschreven in de artikelen 6, 7 en 8 van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120).   
 2.  Onze Minister kan het Nederlanderschap intrekken van de persoon die onherroepelijk is veroordeeld wegens: 
 
-a. een misdrijf omschreven in de [titels I tot en met IV van het Tweede Boek van het Nederlandse Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld;  
+a. een misdrijf omschreven in de titels I tot en met IV van het Tweede Boek van het Nederlandse Wetboek van Strafrecht, waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld;  
 
-b. een misdrijf als bedoeld in de [artikelen 83](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of  [205 van het Nederlandse Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. een misdrijf als bedoeld in de artikelen 83 of  205 van het Nederlandse Wetboek van Strafrecht;  
 
 c. een misdrijf dat soortgelijk is aan de misdrijven bedoeld onder a waarop naar de wettelijke omschrijving in de strafwet van een van de landen van het Koninkrijk een gevangenisstraf van acht jaar of meer is gesteld, danwel een misdrijf dat naar de wettelijke omschrijving in de strafwet van een van de landen van het Koninkrijk soortgelijk is aan de misdrijven bedoeld onder b;  
 
 d. een misdrijf omschreven in de artikelen 6, 7 en 8 van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120).     
 3.  De persoon die de Nederlandse nationaliteit heeft verloren op grond van het tweede lid kan de Nederlandse nationaliteit niet herkrijgen. Wij kunnen, de Raad van State van het Koninkrijk gehoord, in bijzondere gevallen van de eerste zin afwijken, indien ten minste vijf jaren zijn verstreken sedert het verlies van de Nederlandse nationaliteit.   
-4.  Het Nederlanderschap wordt door een minderjarige verloren door het vervallen van de familierechtelijke betrekking waaraan het wordt ontleend ingevolge artikel 3, 4, 5, 5a, 5b, 5c, of  6, eerste lid, aanhef en onder c, alsmede ingevolge artikel 4 zoals dit luidde tot de inwerkingtreding van de [Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](../../../../../../rijkswet/wijzigingswet/rijkswet/op/het/nederlanderschap/(verkrijging/verlening/en/etc/BWBR0012089/README.md) van 21 december 2000, Stb. 618 en ingevolge artikel 5 zoals dat luidde tot de inwerkingtreding van de Rijkswet van 3 juli 2003 tot wijziging van de Rijkswet op het Nederlanderschap in verband met de totstandkoming van de Wet conflictenrecht adoptie (Stb. 284). Het verlies bedoeld in de eerste zin treedt niet in indien de andere ouder op het tijdstip van het vervallen van die betrekking Nederlander is of dat was ten tijde van zijn overlijden. Het verlies treedt evenmin in indien het Nederlanderschap ook kan worden ontleend aan artikel 3, derde lid, of aan artikel 2, onder a, van de Wet van 12 december 1892 op het Nederlanderschap en het ingezetenschap (Stb. 268).   
+4.  Het Nederlanderschap wordt door een minderjarige verloren door het vervallen van de familierechtelijke betrekking waaraan het wordt ontleend ingevolge artikel 3, 4, 5, 5a, 5b, 5c, of  6, eerste lid, aanhef en onder c, alsmede ingevolge artikel 4 zoals dit luidde tot de inwerkingtreding van de Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap van 21 december 2000, Stb. 618 en ingevolge artikel 5 zoals dat luidde tot de inwerkingtreding van de Rijkswet van 3 juli 2003 tot wijziging van de Rijkswet op het Nederlanderschap in verband met de totstandkoming van de Wet conflictenrecht adoptie (Stb. 284). Het verlies bedoeld in de eerste zin treedt niet in indien de andere ouder op het tijdstip van het vervallen van die betrekking Nederlander is of dat was ten tijde van zijn overlijden. Het verlies treedt evenmin in indien het Nederlanderschap ook kan worden ontleend aan artikel 3, derde lid, of aan artikel 2, onder a, van de Wet van 12 december 1892 op het Nederlanderschap en het ingezetenschap (Stb. 268).   
 5.  Het Nederlanderschap wordt niet verloren dan krachtens een van de bepalingen van dit hoofdstuk.   
 6.  Met uitzondering van het geval, bedoeld in het eerste lid, heeft geen verlies van het Nederlanderschap plaats indien staatloosheid daarvan het gevolg zou zijn.   
 
@@ -298,7 +298,7 @@ b. die voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroke
 
 c. die gehuwd is met een persoon die die andere nationaliteit bezit.     
 3.  De periode bedoeld in het eerste lid, onder c, wordt geacht niet te zijn onderbroken indien de betrokkene gedurende een periode korter dan één jaar zijn hoofdverblijf in Nederland, Aruba, Curaçao of Sint Maarten heeft, dan wel in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is.   
-4.  De periode, bedoeld in het eerste lid, onder c, wordt gestuit door de verstrekking van een verklaring omtrent het bezit van het Nederlanderschap dan wel van een reisdocument in de zin van de [Paspoortwet](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). Vanaf de dag der verstrekking begint een nieuwe periode van tien jaren te lopen.   
+4.  De periode, bedoeld in het eerste lid, onder c, wordt gestuit door de verstrekking van een verklaring omtrent het bezit van het Nederlanderschap dan wel van een reisdocument of Nederlandse identiteitskaart in de zin van de Paspoortwet. Vanaf de dag der verstrekking begint een nieuwe periode van tien jaren te lopen.   
 
 ### Artikel  15A  
 
@@ -424,7 +424,7 @@ c. ten tijde van de verkrijging van die andere nationaliteit gehuwd was met een 
 ### Artikel  27  
 
 1.  Artikel 3 van deze Rijkswet is alleen van toepassing op kinderen geboren na de inwerkingtreding van deze Rijkswet.   
-2.  Artikel 3, derde lid, als gewijzigd bij [Rijkswet van 21 december 2000 tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](../../../../../../rijkswet/wijzigingswet/rijkswet/op/het/nederlanderschap/(verkrijging/verlening/en/etc/BWBR0012089/README.md) (Stb. 618), is alleen van toepassing op kinderen geboren na de inwerkingtreding van die Rijkswet.   
+2.  Artikel 3, derde lid, als gewijzigd bij Rijkswet van 21 december 2000 tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap (Stb. 618), is alleen van toepassing op kinderen geboren na de inwerkingtreding van die Rijkswet.   
 
 ### Artikel  28  
 

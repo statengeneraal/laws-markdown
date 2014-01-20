@@ -10,11 +10,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *ambtenaar:* de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de vrijwillig ambtenaar van politie als bedoeld in het [Besluit rechtspositie vrijwillige politie](../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
+a.  *ambtenaar:* de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de vrijwillig ambtenaar van politie als bedoeld in het [Besluit rechtspositie vrijwillige politie](../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
 
-b. *tegemoetkoming:* de tegemoetkoming in de kosten van rechtskundige hulp, bedoeld in de [artikelen 69a van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [22a van het Besluit rechtspositie vrijwillige politie](../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
+b.  *tegemoetkoming:* de tegemoetkoming in de kosten van rechtskundige hulp, bedoeld in de [artikelen 69a van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [22a van het Besluit rechtspositie vrijwillige politie](../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
 
-c. *bestuurlijke strafbeschikking:* straf opgelegd in het kader van de [wet OM-afdoening](../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md).    
+c.  *bestuurlijke strafbeschikking:* straf opgelegd in het kader van de [wet OM-afdoening](../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md).   
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ c. vergoeding van de kosten van rechtskundige hulp, aan de ambtenaar verleend op
 
 d. vergoeding van de eigen bijdrage, indien de ambtenaar aanspraak maakt op door de overheid gefinancierde rechtsbijstand op grond van de [Wet op de rechtsbijstand](../../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).     
 2.  De vergoeding, bedoeld in het eerste lid, onderdeel b en c, bedraagt per uur niet meer dan het bedrag van de kosten, bedoeld in het eerste lid, onderdeel a, maar ten minste het basisbedrag zoals vastgesteld op grond van [artikel 3, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), tenzij de werkelijke kosten per uur lager waren dan dat basisbedrag.   
-3.  Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 150,--, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.   
+3.  Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 154,99, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.   
 4.  De toekenning van de tegemoetkoming kan betrekking hebben op: 
 
 a. de voorfase van een gerechtelijke procedure;  
@@ -48,6 +48,7 @@ g. vervolging door een strafbeschikking als bedoeld in [artikel 257a en volgende
 h. vergoeding van kosten als bedoeld in de [artikelen 591](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [591a van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
 i. een procedure ter zake een bestuurlijke boete.     
+5.  Het uurtarief genoemd in het derde lid wordt jaarlijks per 1 oktober geïndexeerd overeenkomstig de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek. 
 
 ### Artikel  3  
 
@@ -74,33 +75,33 @@ d. zo mogelijk andere relevante stukken.
 – de onrechtmatige daad jegens de ambtenaar gepleegd is tijdens de uitoefening van de politietaak;  
 
 – de vordering kennelijk onvoldoende grond heeft of kennelijk onredelijk is.     
-6.  Indien een derde respectievelijk het openbaar ministerie hoger beroep dan wel cassatie instelt in de zaak waarvoor het bevoegd gezag de ambtenaar eerder voor een tegemoetkoming in aanmerking heeft laten komen, verleent het bevoegd gezag de ambtenaar op diens melding ambtshalve opnieuw een tegemoetkoming.   
+6.  Indien een derde respectievelijk het openbaar ministerie hoger beroep dan wel cassatie instelt in de zaak waarvoor het bevoegd gezag de ambtenaar eerder voor een tegemoetkoming in aanmerking heeft laten komen, verleent het bevoegd gezag de ambtenaar op diens melding ambtshalve opnieuw een tegemoetkoming.  
 
 ### Artikel  4  
 
 1.  In het geval de door het bevoegd gezag geoordeelde opzettelijke onrechtmatigheid dan wel opzettelijke wederrechtelijkheid of bewuste roekeloosheid, of grove nalatigheid van de zijde van de ambtenaar niet blijkt uit een rechterlijke uitspraak of uit een (straf)beschikking, gaat het bevoegd gezag alsnog over tot vergoeding van de kosten van rechtsbijstand.   
-2.  De ambtenaar stelt het bevoegd gezag op de hoogte van de in het eerste lid genoemde uitspraak en legt een afschrift hiervan aan hem over.   
+2.  De ambtenaar stelt het bevoegd gezag op de hoogte van de in het eerste lid genoemde uitspraak en legt een afschrift hiervan aan hem over.  
 
 ### Artikel  5  
 
 1.  Indien de wederpartij in een civiele procedure wordt veroordeeld tot betaling van proceskosten, draagt de ambtenaar er zorg voor dat de vergoeding van deze kosten, voor zover deze als kosten van rechtskundige hulp moeten worden opgevat, toekomt aan het bevoegd gezag.   
 2.  Indien een schikking met de wederpartij tot stand komt draagt de ambtenaar er zo mogelijk zorg voor dat de kosten van rechtsbijstand in het schikkingsbedrag worden opgenomen en toekomen aan het bevoegd gezag.   
 3.  In een strafrechtelijke procedure draagt de ambtenaar zorg voor een verzoek tot vergoeding van kosten op grond van de [artikelen 591](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [591a van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en draagt er bij toewijzing van dit verzoek zorg voor dat deze vergoeding toekomt aan het bevoegd gezag.   
-4.  Bij de indiening van de aanvraag tot vergoeding van de kosten van rechtsbijstand wijst het bevoegd gezag de ambtenaar op het eerste tot en met derde lid van dit artikel.   
+4.  Bij de indiening van de aanvraag tot vergoeding van de kosten van rechtsbijstand wijst het bevoegd gezag de ambtenaar op het eerste tot en met derde lid van dit artikel.  
 
 ### Artikel  6  
 
-Deze regeling is van overeenkomstige toepassing op degene die op andere titel dan een aanstelling werkzaam is bij het bevoegd gezag bedoeld in [artikel 1, onderdeel l, van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).  
+Deze regeling is van overeenkomstige toepassing op degene die op andere titel dan een aanstelling werkzaam is bij het bevoegd gezag bedoeld in [artikel 1, onderdeel l, van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md). 
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2008.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2008. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Regeling tegemoetkoming rechtskundige hulp politie.  
+Dit besluit wordt aangehaald als: Regeling tegemoetkoming rechtskundige hulp politie. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst   
+G. ter Horst     

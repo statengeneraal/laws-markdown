@@ -16,14 +16,14 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Als documenten waarmee in bij de wet aangewezen gevallen de identiteit van personen kan worden vastgesteld, worden aangewezen: 
 
-1°. een geldig reisdocument als bedoeld in [artikel 2, eerste lid, onder a, b, c, d, e en g, of tweede lid, van de Paspoortwet](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+1°. een geldig reisdocument als bedoeld in [artikel 2, eerste lid, onder a, b, c, d, e en g](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), of een Nederlandse identiteitskaart als bedoeld in artikel 2, tweede lid, van de Paspoortwet;  
 
 2°. de documenten waarover een vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) moet beschikken ter vaststelling van zijn identiteit, nationaliteit en verblijfsrechtelijke positie;  
 
 3°. een geldig nationaal, diplomatiek of dienstpaspoort dat is afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de houder de nationaliteit van die andere lidstaat bezit;  
 
 4°. een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet, een geldig rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of een rijbewijs dat is afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarvan de houder in Nederland woonachtig is, zolang de bij de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vastgestelde termijn van geldigheid in Nederland niet is verstreken, aan de houder geen administratieve maatregel bedoeld in [paragraaf 9 van hoofdstuk VI van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is opgelegd of aan hem niet de bijkomende straf bedoeld in [artikel 179 van die wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is opgelegd en mits het rijbewijs is voorzien van een pasfoto van de houder.     
-2.  Onze Minister van Justitie kan, al dan niet voor een bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten aanwijzen ter vaststelling van de identiteit van personen.   
+2.  Onze Minister van Veiligheid en Justitie kan, al dan niet voor een bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten aanwijzen ter vaststelling van de identiteit van personen.   
 
 ### Hoofdstuk  II  
 
@@ -31,87 +31,127 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  2  
 
-Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op de eerste vordering van een ambtenaar als bedoeld in [artikel 8a van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), een identiteitsbewijs als bedoeld in artikel 1 ter inzage aan te bieden. Deze verplichting geldt ook indien de vordering wordt gedaan door een toezichthouder.  
+Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op de eerste vordering van een ambtenaar als bedoeld in [artikel 8 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) of [artikel 6a van de Wet op de bijzondere opsporingsdiensten](../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md), een identiteitsbewijs als bedoeld in artikel 1 ter inzage aan te bieden. Deze verplichting geldt ook indien de vordering wordt gedaan door een toezichthouder.  
 
 ### Hoofdstuk  III  
 
 ####Wijziging van de Organisatiewet Sociale Verzekering
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  IV  
 
 ####Wijziging van de Wet op de Sociale Verzekeringsbank
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  V  
 
 ####Wijziging van de Algemene Bijstandswet
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  VI  
 
 ####Wijziging van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  VII  
 
 ####Wijziging van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  VIII  
 
 ####Wijziging van de Arbeidsvoorzieningswet
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  IX  
 
 ####Wijziging van de Algemene Ouderdomswet
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  X  
 
 ####Wijziging van de Algemene Weduwen- en Wezenwet
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XI  
 
 ####Wijziging van de Algemene Nabestaandenwet
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  XII  
 
 ####Wijziging van de Algemene Kinderbijslagwet
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XIII  
 
 ####Wijziging van de Wet arbeid buitenlandse werknemers
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  XIV  
 
 ####Wijziging van de Wet op de loonbelasting 1964
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XV  
 
 ####Wijziging van de Algemene wet inzake rijksbelastingen
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  XVI  
 
 ####Wijziging van de Wet inzake spaarbewijzen
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XVII  
 
 ####Wijziging van de Wet identiteitsvaststelling bij financiële dienstverlening
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  XVIII  
 
 ####Wijziging van de Wet op de economische delicten
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XIX  
 
 ####Wijziging van de Vreemdelingenwet
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  XX  
 
 ####Wijziging van de Wet op het Notarisambt
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XXI  
 
 ####Wijziging van de Wet personenvervoer
 
+Vervallen per 01-01-2005   
+
 ### Hoofdstuk  XXII  
 
 ####Wijziging van de Wet persoonsregistraties
+
+Vervallen per 01-01-2005   
 
 ### Hoofdstuk  XXIII  
 

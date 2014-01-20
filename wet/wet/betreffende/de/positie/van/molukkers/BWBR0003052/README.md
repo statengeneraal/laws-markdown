@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Molukkers, die door de zorg van de Nederlandse regering in 1951 of 1952 in groepsverband naar Nederland zijn overgebracht, op het tijdstip van het in werking treden van deze wet in Nederland woonplaats of werkelijk verblijf hebben en niet het Nederlanderschap bezitten, worden bij de toepassing van de Nederlandse wetgeving behandeld als Nederlander.   
 2.  Zij verkrijgen daardoor niet de staat van Nederlander.   
-3.  Zij die ingevolge deze wet als Nederlander worden behandeld, gelden, indien zij daarom verzoeken, als Nederlander in de zin van de [Paspoortwet](../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). In het aan hen op zodanig verzoek te verstrekken nationaal paspoort of ander reisdocument wordt ingevolge [artikel 3, zesde lid, eerste volzin, van de Paspoortwet](../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) de Nederlandse nationaliteit vermeld.   
+3.  Zij die ingevolge deze wet als Nederlander worden behandeld, gelden, indien zij daarom verzoeken, als Nederlander in de zin van de [Paspoortwet](../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). In het aan hen op zodanig verzoek te verstrekken nationaal paspoort, ander reisdocument of Nederlandse identiteitskaart wordt ingevolge [artikel 3, zesde lid, eerste volzin, van de Paspoortwet](../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) de Nederlandse nationaliteit vermeld.   
 
 ### Artikel  2  
 
