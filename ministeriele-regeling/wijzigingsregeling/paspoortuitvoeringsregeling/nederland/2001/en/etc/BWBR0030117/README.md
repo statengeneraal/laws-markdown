@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Paspoortuitvoeringsregeling Nederland 2001.   
+Wijzigt de Paspoortuitvoeringsregeling Nederland 2001. 
 
 ### Artikel  II  
 
-Wijzigt de Paspoortuitvoeringsregeling Buitenland 2001.   
+Wijzigt de Paspoortuitvoeringsregeling Buitenland 2001. 
 
 ### Artikel  III  
 
-Op het tijdstip van inwerkingtreding van deze regeling eindigt de in [artikel 72, vierde lid, van de Paspoortuitvoeringsregeling Nederland 2001](../../../../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/nederland/2001/BWBR0012811/README.md) en in [artikel 82, vierde lid, van de Paspoortuitvoeringsregeling Buitenland 2001](../../../../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/buitenland/2001/BWBR0012810/README.md) genoemde bewaartermijn van gegevens, voor zover het betreft de vingerafdrukken die in de reisdocumentenadministratie zijn opgenomen in verband met reisdocumenten die voor dat tijdstip zijn uitgereikt.  
+Op het tijdstip van inwerkingtreding van deze regeling eindigt de in [artikel 72, vierde lid, van de Paspoortuitvoeringsregeling Nederland 2001](../../../../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/nederland/2001/BWBR0012811/README.md) en in [artikel 82, vierde lid, van de Paspoortuitvoeringsregeling Buitenland 2001](../../../../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/buitenland/2001/BWBR0012810/README.md) genoemde bewaartermijn van gegevens, voor zover het betreft de vingerafdrukken die in de reisdocumentenadministratie zijn opgenomen in verband met reisdocumenten die voor dat tijdstip zijn uitgereikt. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner     

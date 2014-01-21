@@ -13,15 +13,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a.  *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. *een medeoverheid:* een gemeente, een provincie of een openbaar lichaam dat is ingesteld op grond van [hoofdstuk I](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [II](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), of [IV van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
+b.  *een medeoverheid:* een gemeente, een provincie of een openbaar lichaam dat is ingesteld op grond van [hoofdstuk I](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [II](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), of [IV van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
 
-c. *de jaarstukken:* de jaarrekening en het jaarverslag, bedoeld in [artikel 198, eerste lid, Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 202, eerste lid, Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of de overeenkomstige stukken van een openbaar lichaam als bedoeld in onderdeel b;  
+c.  *de jaarstukken:* de jaarrekening en het jaarverslag, bedoeld in [artikel 198, eerste lid, Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 202, eerste lid, Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of de overeenkomstige stukken van een openbaar lichaam als bedoeld in onderdeel b;  
 
-d. *het verslag van bevindingen:* het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), onderscheidenlijk [artikel 217, vierde lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of het overeenkomstige stuk van een gemeenschappelijke regeling als bedoeld in onderdeel b;  
+d.  *het verslag van bevindingen:* het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), onderscheidenlijk [artikel 217, vierde lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of het overeenkomstige stuk van een gemeenschappelijke regeling als bedoeld in onderdeel b; 
 
-e. *fouten en onzekerheden:* fouten en onzekerheden als bedoeld in de [artikelen 2, derde lid](../../../../../AMvB/besluit/accountantscontrole/decentrale/overheden/BWBR0015524/README.md), en [5, vierde lid, van het Besluit accountantscontrole decentrale overheden](../../../../../AMvB/besluit/accountantscontrole/decentrale/overheden/BWBR0015524/README.md).    
+e.  *fouten en onzekerheden:* fouten en onzekerheden als bedoeld in de [artikelen 2, derde lid](../../../../../AMvB/besluit/accountantscontrole/decentrale/overheden/BWBR0015524/README.md), en [5, vierde lid, van het Besluit accountantscontrole decentrale overheden](../../../../../AMvB/besluit/accountantscontrole/decentrale/overheden/BWBR0015524/README.md).  
 
 ### §  2  
 
@@ -29,16 +29,16 @@ e. *fouten en onzekerheden:* fouten en onzekerheden als bedoeld in de [artikelen
 
 ### Artikel  2  
 
-Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), aan het CBS uiterlijk 15 juli volgend op het jaar waarop de jaarstukken betrekking hebben. De informatie gaat vergezeld van een aanbiedingsbrief van het dagelijks bestuur, waarin is vermeld wanneer de jaarstukken zijn vastgesteld en waarin is verklaard dat de op basis van deze regeling toegezonden informatie overeenstemt met de vastgestelde jaarstukken.  
+Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), aan het CBS uiterlijk 15 juli volgend op het jaar waarop de jaarstukken betrekking hebben. De informatie gaat vergezeld van een aanbiedingsbrief van het dagelijks bestuur, waarin is vermeld wanneer de jaarstukken zijn vastgesteld en waarin is verklaard dat de op basis van deze regeling toegezonden informatie overeenstemt met de vastgestelde jaarstukken. 
 
 ### Artikel  3  
 
 1.  De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md) wordt ingericht overeenkomstig de bij deze regeling behorende bijlage 1.   
-2.  De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende bijlage 2.   
+2.  De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende bijlage 2.  
 
 ### Artikel  4  
 
-De in de artikelen 2 en 3 bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende bijlage 3.  
+De in de artikelen 2 en 3 bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende bijlage 3. 
 
 ### §  3  
 
@@ -46,7 +46,7 @@ De in de artikelen 2 en 3 bedoelde informatie wordt elektronisch aangeleverd, ov
 
 ### Artikel  5  
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de artikelen 2 tot en met 4.  
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de artikelen 2 tot en met 4. 
 
 ### §  4  
 
@@ -54,7 +54,7 @@ De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid m
 
 ### Artikel  6  
 
-Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in artikel 5 bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de artikelen 2 tot en met 4, verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.  
+Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in artikel 5 bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de artikelen 2 tot en met 4, verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie. 
 
 ### §  5  
 
@@ -63,26 +63,26 @@ Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in
 ### Artikel  7  
 
 1.  De bijlagen bij deze regeling worden ter inzage gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147.   
-2.  De bijlagen worden tevens op het internet gepubliceerd, onder www.rijksoverheid.nl.   
+2.  De bijlagen worden tevens op het internet gepubliceerd, onder www.rijksoverheid.nl.  
 
 ### Artikel  7a  
 
-Vervallen bijlagen blijven van toepassing op het verantwoordingsjaar waarop zij betrekking hebben.  
+Vervallen bijlagen blijven van toepassing op het verantwoordingsjaar waarop zij betrekking hebben. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling informatieverstrekking sisa.  
+Deze regeling wordt aangehaald als: Regeling informatieverstrekking sisa. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner    
 
-### Bijlage  1  
+###Bijlage 1 
 
 ![252794](http://wetten.overheid.nl/Illustration/252794)
 ![252795](http://wetten.overheid.nl/Illustration/252795)
@@ -134,7 +134,7 @@ J.P.H.Donner
 ![252842](http://wetten.overheid.nl/Illustration/252842)
 ![252843](http://wetten.overheid.nl/Illustration/252843)
 
-### Bijlage  2  
+###Bijlage 2 
 
 ![252850](http://wetten.overheid.nl/Illustration/252850)
 ![252851](http://wetten.overheid.nl/Illustration/252851)

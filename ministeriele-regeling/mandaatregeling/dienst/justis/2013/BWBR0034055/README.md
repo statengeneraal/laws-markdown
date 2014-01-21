@@ -8,19 +8,21 @@ Besluit:
 
 ### Artikel  1  
 
-Van het ingevolge artikel 1, aanhef en onder d, van de Mandaatregeling DGJS Ministerie van Veiligheid en Justitie 2012 aan de algemeen directeur Dienst Justis verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen ondermandaat verleend aan: 
+Van het ingevolge artikel 1, aanhef en onder d, van de Mandaatregeling DGJS Ministerie van Veiligheid en Justitie 2012 aan de algemeen directeur Dienst Justis verleende ondermandaat wordt, ten aanzien van de aangelegenheden die hun dienstonderdeel en/of programma’s betreffen ondermandaat verleend aan: 
 
 a. de directeur van de sector Productie;  
 
-b. de directeur van de sector Bedrijfsvoering en Uitvoeringsbeleid.    
+b. de directeur van de sector Bedrijfsvoering en Uitvoeringsbeleid;  
+
+c. de directeur Ontwikkeling, voor zover het strategische programma’s betreft.   
 
 ### Artikel  2  
 
-Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van de onder hen ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 1 bij deze regeling.  
+Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van de onder hen ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 1 bij deze regeling. 
 
 ### Artikel  3  
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven als bedoeld in [artikel 22, vierde lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 2 bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.  
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven als bedoeld in [artikel 22, vierde lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 2 bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage. 
 
 ### Artikel  4  
 
@@ -30,37 +32,37 @@ Als bevoegd, in verband met de uitvoering van de [Garantstellingsregeling Curato
 
 2. het verhogen van het bedrag waarvoor de garantstelling is aangegaan door middel van een addendum bij de overeenkomst onder 1 genoemd;  
 
-3. het besluit tot uitbetalen van het geheel of een deel van de garantstelling bij de afwikkeling van het faillissement,   worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 3 bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.  
+3. het besluit tot uitbetalen van het geheel of een deel van de garantstelling bij de afwikkeling van het faillissement,   worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 3 bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage. 
 
 ### Artikel  5  
 
-1.  De algemeen directeur Dienst Justis wordt bij afwezigheid vervangen door directeur van de sector productie of door de directeur van de sector Bedrijfsvoering en Uitvoeringsbeleid.   
-2.  De directeur van de sector Productie en de directeur van de sector Bedrijfsvoering en Uitvoeringsbeleid kunnen elkaar bij afwezigheid wederzijds vervangen.   
+1.  De algemeen directeur Dienst Justis wordt bij afwezigheid vervangen door een van de directeuren genoemd in artikel 1, onder a tot en met c.   
+2.  De directeuren genoemd in artikel 1, onder a tot en met c kunnen elkaar bij afwezigheid wederzijds vervangen.  
 
 ### Artikel  6  
 
-De Mandaatregeling Dienst Justis 2007 en het [Mandaatbesluit Garantstellingsregeling Faillissementscuratoren Dienst Justis 2007](../../../../../../ministeriele-regeling/mandaatbesluit/garantstellingsregeling/faillissementscuratoren/dienst/etc/BWBR0022392/README.md) worden ingetrokken.  
+De Mandaatregeling Dienst Justis 2007 en het [Mandaatbesluit Garantstellingsregeling Faillissementscuratoren Dienst Justis 2007](../../../../../../ministeriele-regeling/mandaatbesluit/garantstellingsregeling/faillissementscuratoren/dienst/etc/BWBR0022392/README.md) worden ingetrokken.
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013. Bijlagen 1, 2 en 3 bij dit besluit liggen bij de Dienst Justis ter inzage.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013. Bijlagen 1, 2 en 3 bij dit besluit liggen bij de Dienst Justis ter inzage. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Mandaatregeling Dienst Justis 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling Dienst Justis 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De algemeen directeur Dienst Justis, van het Ministerie van Veiligheid en Justitie, 
 C.A.J.F. Verheij    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij de Dienst Justis.  
+Ligt ter inzage bij de Dienst Justis.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij de Dienst Justis.  
+Ligt ter inzage bij de Dienst Justis.
 
-### Bijlage  3  
+###Bijlage 3 
 
-Ligt ter inzage bij de Dienst Justis.  
+Ligt ter inzage bij de Dienst Justis.
