@@ -4,11 +4,11 @@
 
 De Minister van Verkeer en Waterstaat;  
 Gelet op [artikel 3, zesde lid, van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In dit reglement wordt verstaan onder:   a.  *de Commissie:*   de Commissie van beroep, bedoeld in [artikel 3 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md);    b.  *het instituut:*   het Examencentrum van de Stichting VAM, te Nieuwegein, eveneens bekend als INNOVAM-examencentrum.     
+In dit reglement wordt verstaan onder: a. *de Commissie:*   de Commissie van beroep, bedoeld in [artikel 3 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md);  b. *het instituut:*   het Examencentrum van de Stichting VAM, te Nieuwegein, eveneens bekend als INNOVAM-examencentrum.    
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ Over aangelegenheden die niet in dit reglement zijn geregeld, beslist de voorzit
 
 ### Artikel  8  
 
-Dit reglement treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit reglement treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -44,4 +44,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

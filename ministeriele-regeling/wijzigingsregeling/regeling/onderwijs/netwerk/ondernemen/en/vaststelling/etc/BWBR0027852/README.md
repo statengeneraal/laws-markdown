@@ -10,22 +10,22 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling Onderwijs Netwerk Ondernemen.   
+Wijzigt de Regeling Onderwijs Netwerk Ondernemen. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling Onderwijs Netwerk Ondernemen.   
+Wijzigt de Regeling Onderwijs Netwerk Ondernemen. 
 
 ### Artikel  IV  
 
 1.  De tekst van de [Regeling Onderwijs Netwerk Ondernemen](../../../../../../../../../../ministeriele-regeling/regeling/onderwijs/netwerk/ondernemen/BWBR0025709/README.md) zoals deze gold voor het moment van inwerkingtreden van de in artikel I opgenomen wijzigingen blijft van toepassing op de afwikkeling van alle verplichtingen die, op grond van de [Regeling Onderwijs Netwerk Ondernemen](../../../../../../../../../../ministeriele-regeling/regeling/onderwijs/netwerk/ondernemen/BWBR0025709/README.md), voor datzelfde moment zijn ontstaan.   
-2.  Het eerste lid is niet van toepassing op de wijziging zoals omschreven in artikel I, aanhef en onder F, H en J.   
+2.  Het eerste lid is niet van toepassing op de wijziging zoals omschreven in artikel I, aanhef en onder F, H en J.  
 
 ### Artikel  V  
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst. 
 Deze regeling zal met bijlage en toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     
