@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 maart 2012, nr. BVE/387639, houdende voorschriften inzake het terugdringen van het aantal voortijdig schoolverlaters in de studiejaren 2012–2013 tot en met 2014–2015, de verstrekking van aanvullende middelen aan vo-scholen en de regionale meld- en coördinatiefunctie voortijdig schoolverlaten (Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op de [artikelen 2](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md), [4, eerste lid](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [5 van de Wet overige OCW-subsidies](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md), de [artikelen 74](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [118i, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [artikelen 8.3.2, vijfde lid](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [8.3.3, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 1](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md) en [4, eerste lid, onderdelen a, b, c en d, van het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md);
+Gelet op de artikelen 2, 4, eerste lid en 5 van de Wet overige OCW-subsidies, de artikelen 74 en 118i, derde lid, van de Wet op het voortgezet onderwijs, de artikelen 8.3.2, vijfde lid en 8.3.3, derde lid, van de Wet educatie en beroepsonderwijs en de artikelen 1 en 4, eerste lid, onderdelen a, b, c en d, van het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,15 +17,15 @@ In deze regeling wordt verstaan onder:
 
 a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *RMC-contactgemeente:* contactgemeente als bedoeld in [artikel 8.3.2, derde lid, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 118h, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. *RMC-contactgemeente:* contactgemeente als bedoeld in artikel 8.3.2, derde lid, van de wet en artikel 118h, derde lid, van de Wet op het voortgezet onderwijs;  
 
 c. *RMC-regio:* regio als bedoeld in artikel 37;  
 
-d. *basisregister:* basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+d. *basisregister:* basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
-e. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1.1, onderdeel w, subonderdeel 2, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e. *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1.1.1, onderdeel w, subonderdeel 2, van de wet en artikel 1 van de Wet op het voortgezet onderwijs;  
 
-f. *onderwijsinstelling:* regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), vakinstelling als bedoeld in [artikel 1.3.2a van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), alsmede school voor voortgezet onderwijs, met uitzondering van een school voor praktijkonderwijs, als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f. *onderwijsinstelling:* regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de wet, vakinstelling als bedoeld in artikel 1.3.2a van de wet, agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de wet, alsmede school voor voortgezet onderwijs, met uitzondering van een school voor praktijkonderwijs, als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs;  
 
 g. *convenant:* per RMC-regio tussen de minister, de RMC-contactgemeente en het bevoegd gezag van onderwijsinstellingen gesloten convenant inzake het terugdringen van het aantal voortijdig schoolverlaters in de studiejaren 2012–2013 tot en met 2014–2015;  
 
@@ -33,13 +33,13 @@ h. *beheers- en coördinatiekosten:* kosten die voor de subsidieontvanger voortv
 
 i. *studiejaar:* tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar;  
 
-j. *deelnemer:* deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en leerling als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+j. *deelnemer:* deelnemer als bedoeld in de Wet educatie en beroepsonderwijs en leerling als bedoeld in de Wet op het voortgezet onderwijs;  
 
 k. *contactschool:* een contactschool als bedoeld in artikel 8;  
 
 l. *regionaal programma:* het regionaal programma voortijdig schoolverlaten als bedoeld in artikel 6;  
 
-m. *wet:* de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+m. *wet:* de Wet educatie en beroepsonderwijs.    
 
 ### Artikel  2  
 
@@ -49,7 +49,7 @@ m. *wet:* de [Wet educatie en beroepsonderwijs](../../../../../../../../../../we
 
 a. niet is ingeschreven bij een onderwijsinstelling terwijl de desbetreffende jongere op 1 oktober van het voorafgaande jaar wel was ingeschreven bij een onderwijsinstelling en op die datum jonger was dan 22 jaar;  
 
-b. niet in het bezit is van een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een diploma beroepsonderwijs als bedoeld in [artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); en  
+b. niet in het bezit is van een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de Wet op het voortgezet onderwijs of een diploma beroepsonderwijs als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de wet; en  
 
 c. niet is toegelaten tot een instelling voor hoger onderwijs.     
 2.  Onder een nieuwe voortijdig schoolverlater, als bedoeld in het eerste lid, wordt niet verstaan, degene die is opgenomen in bijlage A van de Regeling prestatiebox mbo.   
@@ -58,7 +58,7 @@ c. niet is toegelaten tot een instelling voor hoger onderwijs.
 
 ####Gegevens berekening nieuwe voortijdig schoolverlaters
 
-1.  Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in [artikel 2.5.5a van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), de [artikelen 4, eerste lid, onderdelen e en f](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md), en [10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md) en [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+1.  Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in artikel 2.5.5a van de wet, de artikelen 4, eerste lid, onderdelen e en f, en 10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron en artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 2.  Wat betreft de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters is artikel 7 van de Regeling prestatiebox mbo van toepassing op deze regeling.   
 
 ### Artikel  4  
@@ -75,9 +75,9 @@ c. het geven van uitvoeringsvoorschriften ter zake van de regionale meld- en co�
 
 ### Artikel  5  
 
-####Toepassing [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md)
+####Toepassing Regeling OCW-subsidies
 
-De [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is van toepassing op de hoofdstukken 2, 2A en 3 van deze regeling.  
+De Regeling OCW-subsidies is van toepassing op de hoofdstukken 2, 2A en 3 van deze regeling.  
 
 ### Hoofdstuk  2  
 
@@ -92,7 +92,7 @@ De [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/
 ####Regionaal programma voortijdig schoolverlaten
 
 1.  Het regionaal programma dat in een RMC-regio wordt uitgevoerd met als doel het voorkomen van voortijdig schoolverlaten, bevat maatregelen die, blijkens een regionale analyse door de contactschool over de RMC-regio, zijn gericht op structurele borging van het voorkomen van voortijdig schoolverlaten in het onderwijsproces van de onderwijsinstellingen en het bevorderen van de samenwerking tussen de onderwijsinstellingen onderling en gemeenten in de RMC-regio.   
-2.  Van het regionaal programma maakt in ieder geval deel uit een maatregel gericht op het voorkomen van uitval van deelnemers die één van de beroepsopleidingen, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c tot en met e, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), volgen.   
+2.  Van het regionaal programma maakt in ieder geval deel uit een maatregel gericht op het voorkomen van uitval van deelnemers die één van de beroepsopleidingen, bedoeld in artikel 7.2.2, eerste lid, onderdelen c tot en met e, van de wet, volgen.   
 3.  Het regionaal programma, bedoeld in het eerste lid, omvat ten minste één plusvoorziening, bedoeld in artikel 19, onderdeel a.   
 4.  Het bedrag per maatregel van het regionaal programma dient in redelijke verhouding te staan tot het aantal deelnemers en de doelgroep waarvoor de maatregel is bedoeld.   
 5.  Het bevoegd gezag van de contactschool motiveert de keuze van de maatregelen in het regionaal programma op het formulier in bijlage A van deze regeling, als bedoeld in artikel 10.   
@@ -204,7 +204,7 @@ c. voor het kalenderjaar 2015 € 19.150.000,–.
 2.  Het bedrag wordt vastgesteld op grond van onderstaande tabel:  Tabel 1. Maximumbedragen beschikbaar per RMC-regio 
 
 | Aantal deelnemers tot 22 jaar op de onderwijsinstellingen woonachtig in een RMC-regio  | Bedrag per RMC-regio  |
-|:---|:---|
+|---|---|
 | ≤ 12500  | € 175.000,–  |
 | 12501–18000  | € 300.000,–  |
 | 18001–24000  | € 400.000,–  |
@@ -252,7 +252,7 @@ In deze paragraaf wordt verstaan onder:
 
 a. *plusvoorziening:* een voorziening ten behoeve van de onderwijsinstellingen en scholen in een RMC-regio, die bestaat uit een gecombineerd programma van onderwijs leidend naar het behalen van een startkwalificatie, zorg, hulpverlening en waar nodig arbeidstoeleiding, dat wordt aangeboden aan jongeren tot 23 jaar, die zodanig ernstige problemen ondervinden op het gebied van financiën, gezondheid, huisvesting, sociale omgeving of maatschappelijk functioneren dat zij de onderwijsinstelling zonder diploma dreigen te verlaten;  
 
-b. *leerling:* de leerling aan een school voor het voortgezet onderwijs die voor bekostiging wordt meegeteld op grond van [artikel 2.3.2 van het Uitvoeringsbesluit WEB](../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) of [artikel 7 van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), met uitzondering van een leerling die praktijkonderwijs volgt, of de deelnemer aan een opleiding, bedoeld in [artikel 7.2.2, eerste lid, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) die voor bekostiging wordt meegeteld op grond van [artikel 2.2.3 van het Uitvoeringsbesluit WEB](../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);  
+b. *leerling:* de leerling aan een school voor het voortgezet onderwijs die voor bekostiging wordt meegeteld op grond van artikel 2.3.2 van het Uitvoeringsbesluit WEB of artikel 7 van het Bekostigingsbesluit W.V.O., met uitzondering van een leerling die praktijkonderwijs volgt, of de deelnemer aan een opleiding, bedoeld in artikel 7.2.2, eerste lid, van de wet die voor bekostiging wordt meegeteld op grond van artikel 2.2.3 van het Uitvoeringsbesluit WEB;  
 
 c. *armoedeprobleemcumulatiegebied:* gebied als bedoeld in de armoedemonitor 2008 van het Sociaal en Cultureel Planbureau en het Centraal Bureau voor de Statistiek;  
 
@@ -275,11 +275,11 @@ Het subsidieplafond op grond van deze paragraaf bedraagt € 30.400.000,– per
 ####Berekening subsidiebedrag
 
 1.  Het bedrag van de subsidie voor een RMC-regio wordt bepaald op grond van het aantal apc-leerlingen tot 22 jaar die op 1 oktober 2010 als daadwerkelijk schoolgaand zijn ingeschreven bij onderwijsinstellingen en voor de bekostiging worden meegeteld bij die onderwijsinstellingen in één RMC-regio.   
-2.  Bij de berekening van het aantal leerlingen maakt de minister gebruik van de gegevens, bedoeld in de [artikelen 4, eerste lid, onderdeel e](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md), en [10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md).   
+2.  Bij de berekening van het aantal leerlingen maakt de minister gebruik van de gegevens, bedoeld in de artikelen 4, eerste lid, onderdeel e, en 10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron.   
 3.  Het bedrag wordt vastgesteld op grond van onderstaande tabel:  Tabel 2. Maximumbedragen plusvoorzieningen beschikbaar per RMC-regio 
 
 | Aantal apc-leerlingen tot 22 jaar op de onderwijsinstellingen in één RMC-regio  | Bedrag per RMC-regio  |
-|:---|:---|
+|---|---|
 | ≤ 100  | € 25.000, –  |
 | 101–500  | € 75.000, –  |
 | 501–1500  | € 200.000, –  |
@@ -306,7 +306,7 @@ Het subsidieplafond op grond van deze paragraaf bedraagt € 30.400.000,– per
 
 ####Begripsbepalingen
 
-In dit hoofdstuk wordt onder een onderwijsinstelling niet verstaan een school voor voortgezet onderwijs, als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+In dit hoofdstuk wordt onder een onderwijsinstelling niet verstaan een school voor voortgezet onderwijs, als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs.  
 
 ### Artikel  23b  
 
@@ -347,7 +347,7 @@ f. de inrichting en uitvoering van het experiment wordt begeleid door het Centra
 
 ####Besteding van de subsidie
 
-De subsidie kan ook worden besteed aan andere activiteiten dan waarvoor zij wordt verstrekt, zoals bedoeld in [artikel 13, eerste lid, van de Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md).  
+De subsidie kan ook worden besteed aan andere activiteiten dan waarvoor zij wordt verstrekt, zoals bedoeld in artikel 13, eerste lid, van de Regeling OCW-subsidies.  
 
 ### Artikel  23f  
 
@@ -375,25 +375,25 @@ d. risico-inventarisatie en haalbaarheid.
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. *de wet:* de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+a. *de wet:* de Wet op het voortgezet onderwijs;  
 
-b. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1 van de wet;  
 
-c. *leerling:* leerling als bedoeld in de [wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. *leerling:* leerling als bedoeld in de wet;  
 
-d. *school:* een school voor voortgezet onderwijs, met inbegrip van het voorbereidend beroepsonderwijs dat wordt verzorgd in een agrarisch opleidingscentrum en met uitzondering van een school of afdeling voor praktijkonderwijs, als bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+d. *school:* een school voor voortgezet onderwijs, met inbegrip van het voorbereidend beroepsonderwijs dat wordt verzorgd in een agrarisch opleidingscentrum en met uitzondering van een school of afdeling voor praktijkonderwijs, als bedoeld in artikel 1 van de wet;  
 
 e. *schooljaar:* tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar;  
 
-f. *vmbo:* het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs tezamen, als bedoeld in [artikel 5, onderdelen b en c, van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f. *vmbo:* het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs tezamen, als bedoeld in artikel 5, onderdelen b en c, van de wet;  
 
-g. *havo:* het hoger en middelbaar algemeen voortgezet onderwijs, als bedoeld in [artikel 8 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+g. *havo:* het hoger en middelbaar algemeen voortgezet onderwijs, als bedoeld in artikel 8 van de wet;  
 
-h. *vwo:* het voorbereidend wetenschappelijk onderwijs, als bedoeld in [artikel 7 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+h. *vwo:* het voorbereidend wetenschappelijk onderwijs, als bedoeld in artikel 7 van de wet;  
 
 i. *onderbouw:* het eerste en tweede leerjaar van het vmbo en het eerste, tweede en derde leerjaar van het havo en vwo;  
 
-j. *bovenbouw vmbo:* het derde en vierde leerjaar van het vmbo en het eerste en twee leerjaar van de leergang vmbo-mbo2, bedoeld in [artikel 3 van de Tijdelijke regeling subsidiëring experimenten leergang vmbo-mbo2 2008–2013](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/subsidiëring/experimenten/leergang/vmbo-mbo2/2008–2013/BWBR0023974/README.md);  
+j. *bovenbouw vmbo:* het derde en vierde leerjaar van het vmbo en het eerste en twee leerjaar van de leergang vmbo-mbo2, bedoeld in artikel 3 van de Tijdelijke regeling subsidiëring experimenten leergang vmbo-mbo2 2008–2013;  
 
 k. *bovenbouw havo/vwo:* het vierde en vijfde leerjaar van het havo en het vierde, vijfde en zesde leerjaar van het vwo.    
 
@@ -453,7 +453,7 @@ c. voor kalenderjaar 2015: op 1 oktober 2014.
 3.  De hoogte van het vast bedrag, bedoeld in het eerste lid, wordt vastgesteld op grond van onderstaande tabel:  Tabel 3. Maximumbedragen beschikbaar per school 
 
 | Aantal leerlingen tot 22 jaar per school  | Bedrag per school  |
-|:---|:---|
+|---|---|
 | 10–1000  | € 10.000, –  |
 | 1001–2000  | € 20.000, –  |
 | 2001–6000  | € 35.000, –  |
@@ -470,7 +470,7 @@ c. voor kalenderjaar 2015: op 1 oktober 2014.
 5.  De hoogte van het variabel bedrag wordt bepaald aan de hand van het aantal leerlingen in de onderbouw tot 22 jaar, genoemd in tabel 5.  Tabel 4. Procentuele norm nieuwe voortijdig schoolverlaters 
 
 |--- | Onderbouw  | Bovenbouw vmbo  | Bovenbouw havo/vwo  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 2012–2013  | 1,0%  | 4,0%  | 0,5%  |
 | 2013–2014  | 1,0%  | 4,0%  | 0,5%  |
 | 2014–2015  | 1,0%  | 4,0%  | 0,5%  |
@@ -478,7 +478,7 @@ c. voor kalenderjaar 2015: op 1 oktober 2014.
 Tabel 5. Maximumbedragen per school beschikbaar voor de onderbouw 
 
 | Aantal leerlingen in de onderbouw tot 22 jaar  | Bedrag per school  |
-|:---|:---|
+|---|---|
 | 10–500  | € 2.000, –  |
 | 501–1000  | € 4.000, –  |
 | meer dan 1000  | € 6.000, –  |
@@ -494,7 +494,7 @@ Tabel 5. Maximumbedragen per school beschikbaar voor de onderbouw
 5.  De hoogte van het variabel bedrag wordt bepaald aan de hand van het aantal leerlingen in de bovenbouw van het vmbo tot 22 jaar, genoemd in tabel 6.  Tabel 6. Maximumbedragen beschikbaar per school voor de bovenbouw van het vmbo 
 
 | Aantal leerlingen in de bovenbouw van vmbo tot 22 jaar  | Bedrag per school  |
-|:---|:---|
+|---|---|
 | 10–500  | € 2.000, –  |
 | 501–1000  | € 4.000, –  |
 | meer dan 1000  | € 6.000, –  |
@@ -510,7 +510,7 @@ Tabel 5. Maximumbedragen per school beschikbaar voor de onderbouw
 5.  De hoogte van het variabel bedrag wordt bepaald aan de hand van het aantal leerlingen in de bovenbouw van het havo en vwo tot 22 jaar, genoemd in tabel 7.  Tabel 7. Maximumbedragen beschikbaar per school voor de bovenbouw havo en vwo 
 
 | Aantal leerlingen in de bovenbouw havo/vwo tot 22 jaar  | Bedrag per school  |
-|:---|:---|
+|---|---|
 | 10–500  | € 2.000, –  |
 | 501–1000  | € 4.000, –  |
 | meer dan 1000  | € 6.000, –  |
@@ -532,22 +532,22 @@ Tabel 5. Maximumbedragen per school beschikbaar voor de onderbouw
 
 In deze paragraaf wordt verstaan onder: 
 
-a. *besluit:*[Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md);  
+a. *besluit:*Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten;  
 
-b. *effectrapportage:* effectrapportage als bedoeld in [artikel 118h, zevende lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 8.3.2, zevende lid, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 162b, zevende lid van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+b. *effectrapportage:* effectrapportage als bedoeld in artikel 118h, zevende lid, van de Wet op het voortgezet onderwijs, artikel 8.3.2, zevende lid, van de wet en artikel 162b, zevende lid van de Wet op de expertisecentra;  
 
-c. *bevoegd gezag:* bevoegd gezag zoals bedoeld in artikel 1, onderdeel e, alsmede het bevoegd gezag, bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+c. *bevoegd gezag:* bevoegd gezag zoals bedoeld in artikel 1, onderdeel e, alsmede het bevoegd gezag, bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-d. *voortijdig schoolverlater:* voortijdig schoolverlater als bedoeld in [artikel 8.3.1. van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 118g van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 162a van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md).    
+d. *voortijdig schoolverlater:* voortijdig schoolverlater als bedoeld in artikel 8.3.1. van de wet, artikel 118g van de Wet op het voortgezet onderwijs en artikel 162a van de Wet op de expertisecentra.    
 
 ### Artikel  35  
 
 ####Vaststelling bedrag en budgetten
 
-1.  Het vaste bedrag, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md) bedraagt met ingang van het kalenderjaar 2012 € 8.825.447, –.   
-2.  Het budget, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md), dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 3.624.384, –.   
-3.  Het budget, bedoeld in [artikel 4 eerste lid, onderdeel c, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md), dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 5.675.776, –.   
-4.  Het budget, bedoeld in [artikel 4, eerste lid, onderdeel d, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md), dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 13.473.229, –.   
+1.  Het vaste bedrag, bedoeld in artikel 4, eerste lid, onderdeel a, van het besluit bedraagt met ingang van het kalenderjaar 2012 € 8.825.447, –.   
+2.  Het budget, bedoeld in artikel 4, eerste lid, onderdeel b, van het besluit, dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 3.624.384, –.   
+3.  Het budget, bedoeld in artikel 4 eerste lid, onderdeel c, van het besluit, dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 5.675.776, –.   
+4.  Het budget, bedoeld in artikel 4, eerste lid, onderdeel d, van het besluit, dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 13.473.229, –.   
 
 ### Artikel  36  
 
@@ -570,15 +570,16 @@ De vaststelling van de RMC-regio’s geschiedt conform bijlage C bij deze regeli
 
 ####Intrekking regeling
 
-1.  De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) en de [Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren](../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/plusvoorzieningen/overbelaste/jongeren/BWBR0026422/README.md) worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven.   
-2.  De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012 blijft voorts van toepassing voor het toekennen, het betalen, het verantwoorden en het vaststellen van de subsidie voor het kalenderjaar 2013.   
-3.  In afwijking van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs blijft [bijlage G van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012 voorts van toepassing voor het kalenderjaar 2013.   
+1.  De Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten en de Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven.   
+2.  De Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012 blijft voorts van toepassing voor het toekennen, het betalen, het verantwoorden en het vaststellen van de subsidie voor het kalenderjaar 2013.   
+3.  In afwijking van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs blijft bijlage G van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012 voorts van toepassing voor het kalenderjaar 2013.   
 
 ### Artikel  39  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2012.  
+1.  Deze regeling treedt in werking met ingang van 1 augustus 2012.   
+2.  Deze regeling vervalt met ingang van 1 januari 2017.   
 
 ### Artikel  40  
 
@@ -602,14 +603,14 @@ J.M. vanBijsterveldt-Vliegenthart
 ####Contactgegevens
 
 | 1a Gegevens van de RMC-regio  |
-|:---|
+|---|
 | Nummer RMC-regio  | --- |
 | Naam RMC-regio  | --- |
 | Naam VSV-accountmanager (van OCW)  | --- |
 | Gevraagde subsidie voor de RMC-regio  | --- |
 
 | 1b Contactgemeente van de RMC-regio  |
-|:---|
+|---|
 | Contactgemeente  | --- |
 | Naam verantwoordelijke wethouder contactgemeente  | --- |
 | Postadres  | --- |
@@ -617,7 +618,7 @@ J.M. vanBijsterveldt-Vliegenthart
 | E-mailadres  | --- |
 
 | 1c Contactschool van de RMC-regio  |
-|:---|
+|---|
 | Naam contactschool  | --- |
 | BRIN-nummer  | --- |
 | Voorzitter College van Bestuur  | --- |
@@ -626,7 +627,7 @@ J.M. vanBijsterveldt-Vliegenthart
 | E-mailadres  | --- |
 
 | 1d Contactpersoon RMC-contactgemeente  |
-|:---|
+|---|
 | Naam  | --- |
 | Functie  | --- |
 | Postadres  | --- |
@@ -634,7 +635,7 @@ J.M. vanBijsterveldt-Vliegenthart
 | E-mailadres  | --- |
 
 | 1e Contactpersoon contactschool  |
-|:---|
+|---|
 | Naam  | --- |
 | Functie  | --- |
 | Postadres  | --- |
@@ -646,13 +647,13 @@ J.M. vanBijsterveldt-Vliegenthart
 ####Regionale analyse 2012–2015
 
 | --- |
-|:---|
+|---|
 | Heeft u een regionale analyse 2012-2105 gemaakt, schriftelijk ter beschikking gesteld aan en besproken met uw VSV-accountmanager?  |
 | --- |
 | Ja/nee  |
 
 | --- |
-|:---|
+|---|
 | Wij verklaren in de komende jaren mee te zullen werken aan het monitorings- en evaluatieonderzoek behorende bij deze subsidieaanvraag. Wij hebben de regionale analyse 2012–2015 opgestuurd aan het onderzoeksbureau dat de evaluatie uitvoert.  |
 | --- |
 | Ja/nee  |
@@ -705,7 +706,7 @@ J.M. vanBijsterveldt-Vliegenthart
 ####Begroting
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  *Beheerskosten*   | Kostenposten  | Kosten  |
 | --- | --- | €  |
 | --- | €  |
@@ -734,7 +735,7 @@ J.M. vanBijsterveldt-Vliegenthart
 |  *Totaal van de beheerskosten en alle maatregelen*   |  *€*   |
 
 | --- |
-|:---|
+|---|
 |  *Indien van toepassing*   |
 | RMC-regio ... besteedt minder dan 75% van het indicatieve bedrag voor de plusvoorzieningen aan plusvoorzieningen, omdat...... (max. 200 woorden).  |
 
@@ -743,14 +744,14 @@ J.M. vanBijsterveldt-Vliegenthart
 ####Ondertekening
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam bevoegd persoon van de contactschool  | --- |
 | Plaats  | --- |
 | Datum  | --- |
 | Handtekening  | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam verantwoordelijke wethouder van de RMC-contactgemeente van de RMC-regio  | --- |
 | Plaats  | --- |
 | Datum  | --- |
@@ -774,25 +775,25 @@ Ten eerste specificeert u de kosten die u begroot voor de beheers- en coördinat
 
 ####Formulier en handleiding herziene RMC-Effectrapportage
 
-Deze herziene RMC-effectrapportage wordt in 2013 voor het eerst gebruikt (over het verslagjaar 2012–2013). 
+Deze herziene RMC-effectrapportage wordt in 2014 voor het eerst gebruikt (over het verslagjaar 2013–2014). 
 
 ### 1  
 
 ####Doel van de RMC-effectrapportage
 
-De RMC-effectrapportage geeft invulling aan een wettelijke verplichting en maakt het werk van de 39 RMC-regio’s zichtbaar zodat het beleid zo nodig kan worden aangepast. Tevens kan de rapportage dienen als benchmark voor een individuele RMC-regio ten opzichte van de landelijke resultaten. In de [Wet educatie en beroepsonderwijs (artikel 8.3.2)](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [Wet op het voortgezet onderwijs (artikel 118h)](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet op de expertisecentra (artikel 162b)](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) staan de taken van de gemeenten en in het bijzonder de contactgemeenten bij het bestrijden van voortijdig schoolverlaten. In het zevende lid van voornoemde artikelen staat: ‘ *Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks *een effectrapportage* vast....’.* Deze wettelijke verplichting is nader ingevuld in deze regeling in artikel 36 van de ministeriële regeling. Met het invullen van het formulier in deze bijlage geeft de RMC-contactgemeente uitvoering aan deze wettelijke verplichting tot een jaarlijkse inhoudelijke verantwoording. De RMC-effectrapportage wordt jaarlijks voor 1 december ingevuld door alle RMC-coördinatoren. In opdracht van het ministerie van OCW wordt daarna een samenvattende rapportage van alle RMC-effectrapportages gemaakt welke in het voorjaar beschikbaar komt. Op die manier wordt het werk van de 39 RMC-regio’s zichtbaar gemaakt. Wanneer daar aanleiding toe is, kan dit rapport een ander accent in de beleidsinzet van het ministerie van OCW bewerkstelligen of een voorgenomen beleidswijziging onderbouwen. Deze RMC-effectrapportage dient daarnaast in zijn geheel als benchmark. De regionale score van de RMC-functie wordt op een breed palet van kwalitatieve aspecten vergeleken met de landelijke resultaten. Deze landelijke score staat in de samenvattende rapportage die het ministerie van OCW laat maken van alle RMC-effectrapportages. Bij bijeenkomsten van Ingrado of in een ander verband kunnen de resultaten worden besproken.  
+De RMC-effectrapportage geeft invulling aan een wettelijke verplichting en maakt het werk van de 39 RMC-regio’s zichtbaar zodat het beleid zo nodig kan worden aangepast. Tevens kan de rapportage dienen als benchmark voor een individuele RMC-regio ten opzichte van de landelijke resultaten. In de Wet educatie en beroepsonderwijs (artikel 8.3.2) en de Wet op het voortgezet onderwijs (artikel 118h) en de Wet op de expertisecentra (artikel 162b) staan de taken van de gemeenten en in het bijzonder de contactgemeenten bij het bestrijden van voortijdig schoolverlaten. In het zevende lid van voornoemde artikelen staat: ‘ *Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks**een effectrapportage**vast....* ’. Deze wettelijke verplichting is nader ingevuld in artikel 36 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs. Met het invullen van het formulier in deze bijlage geeft de RMC-contactgemeente uitvoering aan deze wettelijke verplichting tot een jaarlijkse inhoudelijke verantwoording. De RMC-effectrapportage wordt jaarlijks voor 1 december door alle RMC-coördinatoren ingevuld en ingediend bij DUO. In opdracht van het ministerie van OCW wordt daarna een samenvattende rapportage van alle RMC-effectrapportages gemaakt welke in het voorjaar beschikbaar komt. Op die manier wordt het werk van de 39 RMC-regio’s zichtbaar gemaakt. Wanneer daar aanleiding toe is, kan dit rapport een ander accent in de beleidsinzet van het ministerie van OCW bewerkstelligen of een voorgenomen beleidswijziging onderbouwen. Deze RMC-effectrapportage dient daarnaast in zijn geheel als benchmark. De regionale score van de RMC-functie wordt op een breed palet van kwalitatieve aspecten vergeleken met de landelijke resultaten. Deze landelijke score staat in de samenvattende rapportage die het ministerie van OCW laat maken van alle RMC-effectrapportages. Bij bijeenkomsten van Ingrado of in een ander verband kunnen de resultaten worden besproken.  
 
 ### 2  
 
 ####Inhoud van de RMC-effectrapportage
 
-De RMC-functie is ingericht voor jongeren van 18 tot 23 jaar. Als in deze RMC-effectrapportage wordt gevraagd naar aantallen jongeren en aantallen meldingen, gaat het om ’jongeren van 18 tot 23 jaar’. De enige uitzondering is vraag 6 uit tabel 1C. Deze vraag betreft de uitvoering van de kwalificatieplicht ([art. 4a. van de Leerplichtwet](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md)). In dit geval gaat het om 16- en 17-jarigen. De middelen voor de uitvoering van de kwalificatieplicht zijn beschikbaar gesteld via de 39 RMC-regio’s. Het gaat structureel om 13 miljoen euro op landelijk niveau sinds 2008. Op deze manier konden de middelen geoormerkt worden verdeeld. Vraag 6 uit tabel 1C betreft dus niet de verantwoording van een wettelijke taak maar de beleidsmatige verantwoording van de besteding van deze middelen. In de praktijk werken RMC-regio’s op allerlei manieren samen met de gemeentelijke leerplichtafdelingen. In deze RMC-effectrapportage wordt gevraagd naar de manier waarop u samenwerkt met de gemeentelijke leerplichtafdelingen. Een inhoudelijke verantwoording van de inzet op de 18-minners is hier niet aan de orde, omdat er een jaarlijkse enquête voor alle gemeenten in Nederland naar de uitvoering van de Leerplichtwet bestaat. Sinds de introductie van het onderwijsnummer in het voortgezet en het middelbaar beroepsonderwijs is het Basisregister Onderwijs (BRON) een betrouwbare dataset geworden voor het genereren van landelijke en regionale cijfers over het aantal voortijdig schoolverlaters. Sinds 2007 wordt BRON gebruikt voor het regionale en landelijke beeld van de bestrijding van de schooluitval. De aantallen voortijdig schoolverlaters worden, samen met diverse achtergrondkenmerken, beschikbaar gesteld door DUO. In de RMC-effectrapportage staat daarom sindsdien het verzamelen van deze basisinformatie niet meer centraal. In 2008 is het vragenformulier in deze zin aangepast en uitgebreid met vragen over de uitvoering van de regionale vsv-convenanten 2008–2011. De RMC-effectrapportage is daarmee een instrument geworden voor de RMC-regio’s om de doeltreffendheid en doelmatigheid van hun aanpak van voortijdig schoolverlaten te toetsen en onderling te vergelijken en om de voortgang te monitoren van de uitvoering van de vsv-convenanten 2008–2011. In 2011 is het formulier herzien met als doel een actualisering van de vraagstelling en een verbeterde opbouw van de vragen. Nog meer dan eerst staat de ervaring, de waarneming en de mening van de RMC-functionaris centraal. Het formulier sluit ook aan bij de vsv-convenanten 2012–2015. In de RMC-effectrapportage staan vragen opgenomen over de wettelijke functies van de RMC-regio. Dit zijn de meld- en registratiefunctie en de doorverwijsfunctie. Deze functies zijn weergegeven in [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 118h van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 162b van de Wet op de expertise centra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md):  
+De RMC-functie is ingericht voor jongeren van 18 tot 23 jaar. Als in deze RMC-effectrapportage wordt gevraagd naar aantallen jongeren en aantallen meldingen, gaat het om ‘jongeren van 18 tot 23 jaar’, tenzij expliciet anders wordt vermeld. In de praktijk werken RMC-regio’s op allerlei manieren samen met de gemeentelijke leerplichtafdelingen. In deze RMC-effectrapportage wordt gevraagd naar de manier waarop u samenwerkt met de gemeentelijke leerplichtafdelingen. Een gedetailleerde inhoudelijke verantwoording van de inzet op de 18-minners is hier niet aan de orde, omdat er een jaarlijkse enquête voor alle gemeenten in Nederland naar de uitvoering van de Leerplichtwet bestaat. Sinds de introductie van het onderwijsnummer in het voortgezet onderwijs en het middelbaar beroepsonderwijs is het Basisregister Onderwijs (BRON) een betrouwbare dataset geworden voor het genereren van landelijke en regionale cijfers over het aantal voortijdig schoolverlaters. Sinds 2007 wordt BRON gebruikt voor het regionale en landelijke beeld van de bestrijding van de schooluitval. De aantallen voortijdig schoolverlaters worden, samen met diverse achtergrondkenmerken, beschikbaar gesteld door DUO. In de RMC-effectrapportage staat daarom sindsdien het verzamelen van deze basisinformatie niet meer centraal. In 2008 is het vragenformulier in deze zin aangepast en uitgebreid met vragen over de uitvoering van de regionale vsv-convenanten 2008–2011. De RMC-effectrapportage is daarmee een instrument geworden voor de RMC-regio’s om de doeltreffendheid en doelmatigheid van hun aanpak van voortijdig schoolverlaten te toetsen en onderling te vergelijken en om de voortgang te monitoren van de uitvoering van de vsv-convenanten 2008–2011. Het formulier is nu wederom herzien met als doel een actualisering van de vraagstelling en een verbeterde opbouw van de vragen. Nog meer dan eerst staat de ervaring, de waarneming en de mening van de RMC-functionaris centraal. In de RMC-effectrapportage staan vragen opgenomen over de wettelijke functies van de RMC-regio. Dit zijn de meld- en registratiefunctie en de doorverwijsfunctie. Deze functies zijn weergegeven in artikel 8.3.2 van de Wet educatie en beroepsonderwijs en artikel 118h van de Wet op het voortgezet onderwijs en artikel 162b van de Wet op de expertise centra:  
 
 | --- |
-|:---|
+|---|
 |  *Bestrijding voortijdig schoolverlaten door gemeente (zoals staat in artikel 118h van de Wet op het voortgezet onderwijs)*   |
 | --- |
-|  *1. Burgemeester en wethouders dragen zorg voor *registratie van de gegevens* die het bevoegd gezag ingevolge artikel 28 heeft gemeld. Burgemeester en wethouders dragen bovendien zorg voor een systeem van *doorverwijzing naar onderwijs of arbeidsmarkt* van de in artikel 118g bedoelde voortijdige schoolverlaters en voor het onderhoud van dit systeem. Het systeem heeft mede betrekking op de gegevens waarover de gemeente beschikt in het kader van de uitvoering van de Leerplichtwet Staatsblad 20 01 636 2 1969. Voor de uitvoering van de eerste en tweede volzin kunnen bij ministeriële regeling nadere voorschrift en worden vastgesteld.*   |
+|  *1. Burgemeester en wethouders dragen zorg voor* *registratie van de gegevens* *die het bevoegd gezag ingevolge artikel 28 heeft gemeld. Burgemeester en wethouders dragen bovendien zorg voor een systeem van* *doorverwijzing naar onderwijs of arbeidsmarkt* *van de in artikel 118g bedoelde voortijdige schoolverlaters en voor het onderhoud van dit systeem. Het systeem heeft mede betrekking op de gegevens waarover de gemeente beschikt in het kader van de uitvoering van de Leerplichtwet* *Staatsblad 2001 636* *2 1969. Voor de uitvoering van de eerste en tweede volzin kunnen bij ministeriële regeling nadere voorschrift en worden vastgesteld.*   |
 
 De opbouw van de vragen in de rapportage is als volgt: 
 
@@ -802,26 +803,24 @@ De opbouw van de vragen in de rapportage is als volgt:
 
 3. Doorverwijsfunctie  
 
-4. Inzet beschikbare middelen (waaronder de RMC-rijksbijdrage)  
+4. Inzet beschikbare middelen (waaronder de RMC-Rijksbijdrage)  
 
 5. Terugblik behaalde resultaten bij reduceren van de uitval  
 
-6. Good practices (optioneel)  
-
-7. Evaluatie van het herziene formulier   
+6. Good practices (optioneel)   
 
 ####Het invullen van de RMC-effectrapportage
 
-Deze handleiding en het herziene formulier gelden voor het eerst voor de RMC-effectrapportage die wordt ingevuld in het najaar van 2013 met betrekking tot het schooljaar 2012–2013. Tot die tijd wordt gebruik gemaakt van het formulier zoals dat in de afgelopen jaren met de bijbehorende handleiding heeft gegolden. DUO verwerkt de vragen in deze handleiding tot een digitaal, eenvoudig in te vullen formulier. DUO verstuurt deze digitale formulieren naar de betrokkenen rond 1 oktober en ontvangt de ingevulde formulieren voor 1 december weer retour. Na een technische controle op de invulling van de formulieren, wordt in opdracht van het ministerie van OCW de set met ingevulde formulieren verwerkt voor een samenvattende rapportage die ook een relatie kan leggen met de antwoorden uit eerdere jaren. Deze rapportage wordt door OCW naar de contactgemeenten gestuurd. Een aantal van de RMC-regio’s is in subregio’s onderverdeeld. Hoewel deze rapportage in principe op de gehele regio is gericht, kan gekozen worden voor een aparte beantwoording door subregio’s. In dat geval verzamelt de RMC-coördinator van de gehele regio de deelrapportages en stuurt de gehele set in. Bij het invullen van de ‘ervaringsvragen’ in deel 1 van de vragenlijst kan men ervoor kiezen deze in te laten vullen door meerdere betrokken personen uit de regio en de scores op een RMC-bijeenkomst te bespreken. Dat geeft een grotere betrouwbaarheid bij de beantwoording van deze vragen. Aan het eind van deze handleiding treft u een kort overzicht aan met relevante regelingen, definities en afkortingen. U vult het formulier in na afloop van het schooljaar en in elk geval vóór 1 december van het lopende kalenderjaar. Gevraagd wordt naar de gegevens over het aflopende of zojuist afgelopen schooljaar, hier verder aangeduid met ‘verslagperiode’. De financiële gegevens betreffen de budgetten van het lopende kalenderjaar.  
+Deze handleiding en het herziene formulier gelden voor het eerst voor de RMC-effectrapportage die wordt ingevuld in het najaar van 2014 met betrekking tot het studiejaar 2013-2014. Tot die tijd wordt gebruik gemaakt van het formulier zoals dat in de afgelopen jaren van kracht was. DUO verwerkt de vragen in deze handleiding tot een digitaal, eenvoudig in te vullen formulier. DUO verstuurt deze digitale formulieren naar de betrokkenen rond 1 oktober en ontvangt de ingevulde formulieren voor 1 december weer retour. Na een technische controle op de invulling van de formulieren, wordt in opdracht van het ministerie van OCW de set met ingevulde formulieren verwerkt voor een samenvattende rapportage die ook een relatie kan leggen met de antwoorden uit eerdere jaren. Deze rapportage wordt door het ministerie van OCW naar de contactgemeenten gestuurd. Een aantal van de RMC-regio’s is in subregio’s onderverdeeld. Hoewel deze rapportage in principe op de gehele regio is gericht, kan gekozen worden voor een aparte beantwoording door subregio’s. In dat geval verzamelt de RMC-coördinator van de gehele regio de deelrapportages en stuurt de gehele set in. Bij het invullen van de ‘ervaringsvragen’ in deel 1 van de vragenlijst kan men ervoor kiezen deze te laten invullen door meerdere betrokken personen uit de regio en de scores op een RMC-bijeenkomst te bespreken. Dat geeft een grotere betrouwbaarheid bij de beantwoording van deze vragen. Aan het eind van deze handleiding treft u een kort overzicht aan met relevante regelingen, definities en afkortingen. U vult het formulier in na afloop van het studiejaar en in elk geval vóór 1 december van het lopende kalenderjaar. Gevraagd wordt naar de gegevens over het aflopende of zojuist afgelopen studiejaar, hier verder aangeduid met ‘verslagperiode’. De financiële gegevens betreffen de budgetten van het lopende kalenderjaar. 
 
-### 0  
+### 1  
 
 ####Basisgegevens
 
 *Deze vraag wordt door elke RMC-regio ingevuld.*  Op het titelblad vult u de naam van de RMC-regio in en de datum. De volgende vraag betreft de contactgegevens van de RMC-coördinator.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Naam en nummer RMC-regio*   | --- |
 |  *Naam wethouder*   | --- |
 |  *Naam contactpersoon*   | --- |
@@ -832,57 +831,51 @@ Deze handleiding en het herziene formulier gelden voor het eerst voor de RMC-eff
 |  *Telefoonnummer*   | --- |
 |  *E-mailadres*   | --- |
 
-### 1  
+####Bestuurlijke organisatie en samenwerking binnen de RMC-regio
 
-####Bestuurlijk organisatie en samenwerking binnen de RMC-regio
-
-Vraag 1 heeft betrekking op de wettelijke taken van de RMC-contactgemeente van de RMC-regio zoals die in [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 118h van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 162b van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) benoemd zijn.  
+Vraag 1 heeft betrekking op de wettelijke taken van de RMC-contactgemeente van de RMC-regio zoals die in artikel 8.3.2 van de Wet educatie en beroepsonderwijs, artikel 118h van de Wet op het voortgezet onderwijs en artikel 162b van de Wet op de expertisecentra benoemd zijn.  
 
 | --- |
-|:---|
-|  *De colleges van burgemeester en wethouders in een regio wijzen uit hun midden een contactgemeente aan. Deze aanwijzing wordt onverwijld gemeld aan Onze Minister. Burgemeester en wethouders van de contactgemeente vervullen coördinerende taken met het oog op het voorkomen en bestrijden van voortijdig schoolverlaten. In dat verband:*   |
-| --- |
-|  *a. maken zij *afspraken* met scholen, instellingen en organisaties over de inzet en verantwoordelijkheid bij het voorkomen en bestrijden van voortijdig schoolverlaten;*   |
-|  *b. dragen zij zorg voor de totstandkoming van een *regionaal netwerk* van die scholen, instellingen en organisaties;*   |
-|  *c. organiseren en coördineren zij de *melding, registratie en doorverwijzing.**   |
+|---|
+|  *De colleges van burgemeester en wethouders in een regio wijzen uit hun midden een contactgemeente aan. Deze aanwijzing wordt onverwijld gemeld aan onze Minister. Burgemeester en wethouders van de contactgemeente vervullen coördinerende taken met het oog op het voorkomen en bestrijden van voortijdig schoolverlaten. In dat verband:*    *a. maken zij* *afspraken* *met scholen, instellingen en organisaties over de inzet en verantwoordelijkheid bij het voorkomen en bestrijden van voortijdig schoolverlaten;*    *b. dragen zij zorg voor de totstandkoming van een* *regionaal netwerk* *van die scholen, instellingen en organisaties;*    *c. organiseren en coördineren zij de* *melding, registratie en doorverwijzing.*   |
 
 ### 1A  
 
 ####Bestuurlijke organisatie
 
-In vraag 1A wordt gevraagd naar de bestuurlijke overleggen die binnen de RMC-regio plaatsvinden. Hierbij dient u tevens in te gaan op de rol die de RMC-wethouder speelt in deze overleggen.  Tabel 1A Bestuurlijke organisatie 
+In vraag 1A wordt gevraagd naar de bestuurlijke overleggen die binnen de RMC-regio plaatsvinden. Hierbij dient u tevens in te gaan op de rol die de RMC-wethouder speelt in deze overleggen.  
 
-| --- | --- |
-|:---|:---|
-| Welke bestuurlijke overleggen worden er georganiseerd binnen uw RMC-regio? Noem bij elk overleg ook welke partijen hiervoor uitgenodigd worden.  | Max. 75 woorden  |
-| Wat is de rol van de wethouder van de RMC contactgemeente in de bestuurlijke overleggen?  | Max. 50 woorden  |
+|--- | Tabel 1A Bestuurlijke organisatie  |
+|---|---|
+| 1.  | Welke bestuurlijke overleggen worden er georganiseerd binnen uw RMC-regio? Noem bij elk overleg ook welke partijen hiervoor uitgenodigd worden. (Max. 75 woorden)  | --- |
+| 2.  | Wat is de rol van de wethouder van de RMC contactgemeente in de bestuurlijke overleggen? (Max. 50 woorden)  | --- |
 
 ### 1B  
 
 ####Omvang netwerk
 
-Bij vraag 1B geeft u aan of alle gemeenten in de RMC-regio deelnemen aan het regionale netwerk. Als dit niet het geval is, geeft u aan welke gemeenten niet deelnemen en wat de redenen daarvoor zijn. Bij vraag 2 en 3 geeft u aan of alle vo-scholen en mbo-instellingen in de RMC-regio deelnemen aan het regionale netwerk. Als dit niet het geval is, geeft u aan welke scholen of instellingen niet deelnemen en wat de redenen daarvoor zijn. In de vraag 1B wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde regionale netwerk. Bij vraag 1E heeft u vrije ruimte om zo nodig uw antwoorden toe te lichten.  Tabel 1B 
+Bij vraag 1B geeft u aan of alle gemeenten in de RMC-regio deelnemen aan het regionale netwerk. Als dit niet het geval is, geeft u aan welke gemeenten niet deelnemen en wat de redenen daarvoor zijn. Bij vraag 2 en 3 geeft u aan of alle vo-scholen en mbo-instellingen in de RMC-regio deelnemen aan het regionale netwerk. Als dit niet het geval is, geeft u aan welke scholen of instellingen niet deelnemen en wat de redenen daarvoor zijn. Bij vraag 1B wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde regionale netwerk. Bij vraag 1E heeft u vrije ruimte om zo nodig uw antwoorden toe te lichten.  
 
-|--- |--- | Antwoord  | Antwoordmogelijkheden  |
-|:---|:---|:---|:---|
-| 1  | a. Nemen alle gemeenten in uw RMC-regio actief deel aan het RMC-netwerk?  | --- | 1. ja  2. nee  |
-| b. Zo nee, welke niet?  |
-| c. Wat is de reden dat de onder b genoemde gemeenten niet meewerken?  |
-| 2  | a. Nemen alle vo-scholen gevestigd in uw RMC-regio actief deel aan het RMC-netwerk?  | --- | 1. ja  2. nee  |
-| b. Zo nee, welke niet?  |
-| c. Wat is de reden dat de onder b genoemde vo-scholen niet meewerken?  |
-| 3  | a. Nemen alle mbo-instellingen die volgens de regels van het vsv-convenant 2012–2015 moeten participeren in de RMC-regio actief deel aan het RMC-netwerk?  | --- | 1. ja  2. nee  |
-| b. Zo nee, welke niet?  |
-| c. Wat is de reden dat de onder b genoemde mbo-instellingen niet meewerken?  |
+|--- | Tabel 1B  | Antwoord  |
+|---|---|---|
+| 1  | a. Nemen alle gemeenten in uw RMC-regio actief deel aan het RMC-netwerk?  | --- |
+| b. Zo nee, welke niet?  | --- |
+| c. Wat is de reden dat de onder b genoemde gemeenten niet meewerken?  | --- |
+| 2  | a. Nemen alle vo-scholen gevestigd in uw RMC-regio actief deel aan het RMC-netwerk?  | --- |
+| b. Zo nee, welke niet?  | --- |
+| c. Wat is de reden dat de onder b genoemde vo-scholen niet meewerken?  | --- |
+| 3  | a. Nemen alle mbo-instellingen die volgens de regels van het vsv-convenant 2012-2015 moeten participeren in de RMC-regio actief deel aan het RMC-netwerk?  | --- |
+| b. Zo nee, welke niet?  | --- |
+| c. Wat is de reden dat de onder b genoemde mbo-instellingen niet meewerken?  | --- |
 
 ### 1C  
 
 ####De RMC-functie: samenwerking met verschillende partijen
 
-In de vraag 1C wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde regionale netwerk. Bij vraag 1E heeft u vrije ruimte om zo nodig uw antwoorden toe te lichten.  Tabel 1C 
+Bij vraag 1C wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde regionale netwerk. Bij vraag 1E heeft u vrije ruimte om zo nodig uw antwoorden toe te lichten.  
 
-|--- |--- | Antwoord  | Antwoordmogelijkheden  |
-|:---|:---|:---|:---|
+|--- | Tabel 1C  | Antwoord  | Antwoordmogelijkheden  |
+|---|---|---|---|
 | 1  | Hoe ervaart u de samenwerking met de vo-scholen?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
 | 2  | Hoe ervaart u de samenwerking met de mbo-instellingen die belangrijk zijn in de RMC-regio?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
 | 3  | Hoe ervaart u de samenwerking met de relevante particuliere onderwijsinstellingen in de RMC-regio?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
@@ -900,7 +893,7 @@ In de vraag 1C wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde
 | 15  | Hoe ervaart u de samenwerking tussen de subregio’s (indien van toepassing)?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
 | 16  | Hoe ervaart u de samenwerking met de belangrijkste aangrenzende RMC-regio(’s)?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
 | 17  | Is er binnen uw RMC-regio sprake van een sluitende aanpak (waarbij alle jongeren in beeld zijn)?  | --- | 1. Ja  2. Nee  |
-| 18  | Met welke partijen mist u de samenwerking en wilt u in de toekomst meer gaan samenwerken?  | Max. 50 woorden  |
+| 18  | Met welke partijen mist u de samenwerking en wilt u in de toekomst meer gaan samenwerken? (Max. 50 woorden)  | --- |
 
 <sup>1</sup> Hoewel de kwalificatieplicht niet onder de wettelijke verplichting van de RMC-regio valt, vraagt het ministerie van OCW u deze vraag te beantwoorden vanwege de 13 miljoen euro voor de kwalificatieplicht die via de RMC beschikbaar is gesteld.  
 
@@ -908,134 +901,218 @@ In de vraag 1C wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde
 
 ####De RMC-functie: het maken van afspraken in het netwerk
 
-Met het regionale netwerk moet een aantal taken worden vervuld (zie vraag 1B). Naast het tot stand brengen van het regionale netwerk moeten er ook afspraken met elkaar worden gemaakt over de inzet en verantwoordelijkheid bij het voorkomen en bestrijden van voortijdig schoolverlaten.  Tabel 1D 
+Met het regionale netwerk moet een aantal taken worden vervuld (zie vraag 1B). Naast het tot stand brengen van het regionale netwerk moeten er ook afspraken met elkaar worden gemaakt over de inzet en verantwoordelijkheid bij het voorkomen en bestrijden van voortijdig schoolverlaten.  
 
-|--- |--- | Antwoord  | Antwoordmogelijkheden  |
-|:---|:---|:---|:---|
-| 1  | In hoeverre slaagt uw RMC-regio erin om gezamenlijk het aanvraagproces van de Middelen voor het Regionaal Programma Voortijdig Schoolverlaten met een gedeelde analyse van het probleem?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 2  | In hoeverre slaagt uw RMC-regio om concrete werkafspraken te maken met scholen, mbo-instellingen en organisaties over hun inzet bij het tegengaan van voortijdig schoolverlaten?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 3  | In hoeverre slaagt uw RMC-regio om met elkaar regelmatig de voortgang op ieders inzet te monitoren?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 4  | In hoeverre slaagt uw RMC-regio om elkaar aan te spreken op achterblijvende inzet of achterblijvende resultaten?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 5  | In hoeverre slaagt uw RMC-regio om de inzet van de financiële middelen (onder andere de middelen voor het Regionaal Programma Voortijdig Schoolverlaten) achteraf te evalueren?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+|--- | Tabel 1D  | Antwoord  | Antwoordmogelijkheden  |
+|---|---|---|---|
+| 1  | In hoeverre slaagt uw RMC-regio erin om tot een breed gedeelde analyse van de vsv-problematiek in de regio te komen?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 2  | In hoeverre slaagt uw RMC-regio erin om concrete werkafspraken te maken met scholen, mbo-instellingen en organisaties over hun inzet bij het tegengaan van voortijdig schoolverlaten?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 3  | In hoeverre slaagt uw RMC-regio erin om met elkaar regelmatig de voortgang op ieders inzet te monitoren?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 4  | In hoeverre slaagt uw RMC-regio erin om elkaar aan te spreken op achterblijvende inzet of achterblijvende resultaten?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 5  | In hoeverre slaagt uw RMC-regio erin om de inzet van de financiële middelen (onder andere de middelen voor het Regionaal Programma Voortijdig Schoolverlaten) achteraf te evalueren?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
 
-### 1E  
+####1E. Knelpunten en succesfactoren in het regionale netwerk
 
-####Knelpunten en succesfactoren in het regionale netwerk
+In onderstaande tabel beschrijft u de knelpunten en belemmerende factoren alsook de succesfactoren die u ervaart bij het uitoefenen van de RMC-functie (in vergelijking met het vorige rapportagejaar). U kunt (enkele van) uw antwoorden op de vragen 1B tot en met 1D toelichten bij deze vraag. Ook kunt u hier aangeven aan welke ondersteuning van het vsv-accountmanagement van het ministerie van OCW u behoefte heeft. U heeft maximaal 200 woorden in elk tekstvak voor de beantwoording van deze open vraag.  
 
-In onderstaande tabel beschrijft u de knelpunten en belemmerende factoren als ook de succesfactoren die u ervaart bij het uitoefenen van de RMC-functie (in vergelijking met het vorige rapportagejaar). U kunt enkele van uw antwoorden op de vragen 1B tot en met 1D toelichten bij deze vraag. Ook kunt u hier aangeven aan welke ondersteuning van het vsv-accountmanagement u behoefte heeft. U heeft maximaal 200 woorden in elk tekstvak voor de beantwoording van deze open vraag.  Tabel 1E 
-
+| Tabel 1E  |
+|---|
+| Welke knelpunten en belemmerende factoren ervaart u binnen uw regionale netwerk? (Tot maximaal 200 woorden)  |
 | --- |
-|:---|
-|  *Welke knelpunten en belemmerende factoren ervaart u binnen uw regionale netwerk?*   |
-|  Tot maximaal 200 woorden  |
-|  *Welke factoren dragen bij aan successen binnen uw regionale netwerk?*   |
-| Tot maximaal 200 woorden  |
+| Welke factoren dragen bij aan successen binnen uw regionale netwerk? (Tot maximaal 200 woorden)  |
+| --- |
 
 ### 2  
 
 ####De meld- en registratiefunctie
 
-Deze vraag betreft jongeren van 18 tot 23 jaar, conform de wettelijke opdracht van de RMC. De RMC-regio moet een aantal taken vervullen (zie inleiding). Daaronder valt ook het organiseren en coördineren van registratie van voortijdig schoolverlaters. In het verleden was het verzamelen van informatie over aantallen voortijdig schoolverlaters en hun achtergrondkenmerken een belangrijke taak van de RMC-regio. Met de inzet van BRON als basis voor het bepalen van het aantal voortijdig schoolverlaters heeft deze taak een andere invulling gekregen. Met de komst van BRON en het Digitaal Verzuimloket als instrumenten heeft de RMC-regio de verantwoordelijkheid voor de regionale informatievoorziening behouden. De RMC-regio behoort te stimuleren en te coördineren dat partners tijdig en accuraat BRON en het Digitaal Verzuimloket invullen en gebruiken. Daarnaast moet de RMC-regio gebruik maken van mogelijk andere nuttige informatiebronnen. Het doel hiervan is dat ‘iedere jongere in beeld is’. Met ‘tijdig’ wordt in onderstaande vragen bedoeld dat de wettelijke termijnen of gemaakte afspraken worden nageleefd en de RMC-trajectbegeleiders geen hinder ondervinden bij hun werk door een trage aanlevering van informatie door scholen.  Tabel 2 Meld- en registratiefunctie 
+Deze vraag betreft jongeren van 18 tot 23 jaar, conform de wettelijke opdracht van de RMC. Zoals in de inleiding aangegeven, moet de RMC-regio een aantal taken vervullen. Daaronder valt ook het organiseren en coördineren van registratie van voortijdig schoolverlaters. In het verleden was het verzamelen van informatie over aantallen voortijdig schoolverlaters en hun achtergrondkenmerken een belangrijke taak van de RMC-regio. Met de inzet van BRON als basis voor het bepalen van het aantal voortijdig schoolverlaters heeft deze taak een andere invulling gekregen. Met de komst van BRON en het Digitaal Verzuimloket als instrumenten heeft de RMC-regio de verantwoordelijkheid voor de regionale informatievoorziening behouden. De RMC-regio behoort te stimuleren en te coördineren dat partners tijdig en accuraat BRON en het Digitaal Verzuimloket invullen en gebruiken. Daarnaast moet de RMC-regio gebruik maken van mogelijk andere nuttige informatiebronnen. Het doel hiervan is dat ‘iedere jongere in beeld is’. Met ‘tijdig’ wordt in onderstaande vragen bedoeld dat de wettelijke termijnen of gemaakte afspraken worden nageleefd en de RMC-trajectbegeleiders geen hinder ondervinden bij hun werk door een trage aanlevering van informatie door scholen.  
 
-|--- |--- | Antwoord  | Antwoordmogelijkheden  |
-|:---|:---|:---|:---|
-| 1.  | Melden de vo-scholen in uw RMC-regio ongeoorloofd verzuim van 18-plussers tijdig via het Digitaal Verzuimloket?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 2.  | Melden de mbo-instellingen in uw RMC-regio ongeoorloofd verzuim van 18-plussers tijdig via het Digitaal Verzuimloket?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 3.  | Maken de RMC-trajectbegeleiders in de praktijk gebruik van de gegevens uit het Digitaal Verzuimloket?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 4.  | Is het aantal meldingen van 18-plussers in het Digitaal Verzuimloket te verwerken met de gegeven RMC-capaciteit?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 5.  | Geven de vo-scholen in uw RMC-regio tijdig de uitschrijvingen van 18-plussers zonder startkwalificatie door in BRON?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 6.  | Geven de mbo-instellingen in uw RMC-regio tijdig uitschrijvingen van 18-plussers zonder startkwalificatie door in BRON?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 7.  | Maken de RMC-trajectbegeleiders in de praktijk  gebruik van de gegevens van 18-plussers uit BRON (via de DUO vsv-maandrapportages)?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 8.  | Hoe is de beschikbaarheid voor de RMC-trajectbegeleiders van andere relevante informatiebronnen?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| --- | Welke informatiebronnen zijn niet toegankelijk of mist u?  | Max. 50 woorden  |
-| 10.  | Maken de RMC-trajectbegeleiders in de praktijk gebruik van andere gegevensbronnen zoals de SUWI-gegevens/Mens Centraal?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
-| 11.  | Is er binnen uw RMC-regio een meldprotocol?  | --- | 1. Ja  2. Nee  |
+|--- | Tabel 2 Meld- en registratiefunctie  | Antwoord  | Antwoordmogelijkheden  |
+|---|---|---|---|
+| 1  | Melden de vo-scholen in uw RMC-regio ongeoorloofd verzuim van 18-plussers tijdig via het Digitaal Verzuimloket?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 2  | Melden de mbo-instellingen in uw RMC-regio ongeoorloofd verzuim van 18-plussers tijdig via het Digitaal Verzuimloket?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 3  | Maken de RMC-trajectbegeleiders in de praktijk gebruik van de gegevens uit het Digitaal Verzuimloket?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 4  | Is het aantal meldingen van 18-plussers in het Digitaal Verzuimloket te verwerken met de gegeven RMC-capaciteit?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 5  | Geven de vo-scholen in uw RMC-regio tijdig de uitschrijvingen van 18-plussers zonder startkwalificatie door in BRON?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 6  | Geven de mbo-instellingen in uw RMC-regio tijdig uitschrijvingen van 18-plussers zonder startkwalificatie door in BRON?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 7  | Maken de RMC-trajectbegeleiders in de praktijk gebruik van de gegevens van 18-plussers uit BRON (via de P-leveringen van DUO)?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 8  | Hoe is de beschikbaarheid voor de RMC-trajectbegeleiders van andere relevante informatiebronnen?  | --- | 1. Onvoldoende  2. Matig  3. Voldoende  4. Goed  |
+| 9  | Welke informatiebronnen zijn niet toegankelijk of mist u? (Tot maximaal 50 woorden)  | --- |
+| 10  | Maken de RMC-trajectbegeleiders in de praktijk gebruik van andere gegevensbronnen zoals de SUWI-gegevens/Mens Centraal? Zo ja, welke bronnen zijn dat? (Tot maximaal 50 woorden)  | --- |
+| 11  | Is er binnen uw RMC-regio een meldprotocol?  | --- | 1. Ja  2. Nee  |
 
 ### 3  
 
 ####Doorverwijsfunctie
 
-Een belangrijke taak van de RMC-functie is om individuele jongeren die zonder startkwalificatie het onderwijs hebben verlaten terug te leiden naar school, werk of een combinatie daarvan. Vraag 3 gaat over de jongeren van 18 jaar en ouder in begeleidingstrajecten onder verantwoordelijkheid van de RMC-regio (dat wil zeggen begeleidingstrajecten die niet onder verantwoordelijkheid van het UWV, mbo-instellingen of andere organisaties staan). Dit sluit aan bij de wettelijke opdracht aan de RMC. De trajectbegeleiding begint met contact zoeken met jongeren op basis van beschikbare informatie. Vervolgens kunnen er al dan niet intakegesprekken plaatsvinden welke al dan niet kunnen leiden tot één of meerdere vervolggesprekken en daaraan gerelateerde activiteiten van RMC-trajectbegeleiders. Met deze vraag wil OCW een beeld krijgen van de omvang van het werk dat de RMC op dit terrein verricht. Worden er voldoende jongeren bereikt en worden er voldoende trajecten met een goed resultaat afgesloten? Deze vraag dient hoofdzakelijk voor de onderlinge benchmark van RMC-regio’s en voor een beoordeling van het verloop van de inzet over de jaren heen. Deze vraag betreft namelijk de jongeren die in hoofdzaak GEEN voortijdig schoolverlater zijn geworden mede door de inzet van de RMC-trajectbegeleiders. In tabel 3A wordt gevraagd naar het aantal opgestarte trajecten met jongeren die in de verslagperiode *voor het eerst* in contact komen met de RMC. De drie percentages bij de vraag naar de tijdspanne tussen de vermelding in de maandrapportages van DUO en het intakegesprek, moeten gezamenlijk optellen tot 100%.  Tabel 3A. Het opstarten van begeleidingstrajecten (18 plus) 
+Een belangrijke taak van de RMC-functie is om individuele jongeren die zonder startkwalificatie het onderwijs hebben verlaten terug te leiden naar school, werk of een combinatie daarvan. Ook vraag 3 gaat over de jongeren van 18 tot 23 jaar in begeleidingstrajecten onder verantwoordelijkheid van de RMC-functie (dat wil zeggen begeleidingstrajecten die niet onder verantwoordelijkheid van het UWV, mbo-instellingen of andere organisaties staan). Dit sluit aan bij de wettelijke opdracht van de RMC-functie zoals genoemd in de inleiding van dit formulier. De trajectbegeleiding begint met contact zoeken met jongeren op basis van beschikbare informatie. Vervolgens kunnen er intakegesprekken plaatsvinden welke al dan niet leiden tot één of meerdere vervolggesprekken en daaraan gerelateerde activiteiten van RMC-trajectbegeleiders Met deze vraag wil het ministerie van OCW een beeld krijgen van de omvang van het werk dat de RMC-functie op dit terrein verricht. Worden er voldoende jongeren bereikt en worden er voldoende trajecten met een goed resultaat afgesloten? Deze vraag dient hoofdzakelijk voor de onderlinge benchmark van RMC-regio’s en voor een beoordeling van het verloop van de inzet over de jaren heen. Daarnaast moet het inzicht geven in de ondersteunende taken die ten behoeve van de school worden verricht als bijdrage bij het voorkomen van uitval. In tabel 3A.1 wordt gevraagd naar het aantal opgestarte trajecten met jongeren die in de verslagperiode *voor het eerst* in contact komen met de RMC. Het gaat hier expliciet om jongeren die naar aanleiding van de P-leveringen van DUO in beeld zijn gekomen. Trajecten die zijn gestart naar aanleiding van signalen via andere kanalen worden opgenomen in tabel 3A.2. Op deze manier wordt (het verloop van) het aantal trajecten in kaart gebracht dat curatief (na uitschrijving, tabel 3A.1) en preventief (voor uitschrijving, 3A.2) is ingezet. De drie percentages bij de vraag naar de tijdspanne tussen de vermelding in de P-leveringen van DUO en het intakegesprek, moeten gezamenlijk optellen tot 100%.  
 
-|--- | aantal  |
-|:---|:---|
-| Hoeveel jongeren zijn gedurende het verslagjaar *voor het eerst* benaderd met de vraag of een begeleidingtraject nodig en/of gewenst was?  | --- |
-| Hoeveel intakegesprekken zijn er met deze jongeren gevoerd?  | --- |
-| Van alle jongeren met wie een intakegesprek is gevoerd, hoeveel tijd verstreek tussen de vermelding van de jongere in de maandrapportage van DUO en het intakegesprek?  | --- |
-| --- | minder dan 4 weken  | --- | %  |
-| tussen 4 en 6 weken  | --- | %  |
-| meer dan 6 weken  | --- | %  |
-| Met hoeveel jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- |
+|--- | Tabel 3A.1 Het opstarten van begeleidingstrajecten n.a.v. P-leveringen  |
+|---|---|
+| --- | --- | aantal  | --- |
+| 1.  | Hoeveel jongeren zijn gedurende het verslagjaar *voor het eerst* benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was?  | --- | --- |
+| 2.  | Met hoeveel van deze jongeren is er daadwerkelijk een intake gevoerd?  | --- | --- |
+| 3.  | Hoeveel gesprekken zijn er in het kader van de intake met deze jongeren gevoerd?  | --- | --- |
+| 4.  | Van alle jongeren met wie een intakegesprek is gevoerd, hoeveel tijd verstreek tussen de vermelding van de jongere in de P-leveringen van DUO en het intakegesprek?  | minder dan 2 weken  | --- | %  |
+| tussen 2 en 4 weken  | --- | %  |
+| meer dan 4 weken  | --- | %  |
+| 5.  | Met hoeveel jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- | --- |
+| 6.  | Met hoeveel van deze jongeren is het begeleidingstraject gedurende het verslagjaar beëindigd?  | --- | --- |
 
-Tabel 3B gaat over het aantal succesvol begeleide jongeren binnen het verslagjaar. Onder een begeleidingstraject wordt meer verstaan dan alleen een intakegesprek. Het gaat om jongeren van wie de verwachting is dat zij in het volgende verslagjaar niet opnieuw in een begeleidingstraject zullen worden opgenomen door de RMC-regio. Een jongere die tweemaal gedurende het verslagjaar is herplaatst, telt in tabel 3B slechts één keer mee. Het antwoord op de eerste vraag moet de optelsom zijn van de zeven categorieën daaronder  Tabel 3B Aantal gedurende de verslagperiode succesvol begeleide jongeren (18 plus) 
+In tabel 3A.2 wordt gevraagd naar het aantal opgestarte trajecten met jongeren die in de verslagperiode *voor het eerst* in contact komen met de RMC. Het gaat hier expliciet om jongeren die naar aanleiding van signalen via andere kanalen dan de P-leveringen van DUO in beeld zijn gekomen. Het kan hier dus zowel gaan om jongeren die nog ingeschreven staan bij een onderwijsinstelling als jongeren die al uitgeschreven zijn. Hoewel dit buiten de wettelijke taak van de RMC-functie valt, moet deze vraag inzicht geven in de ondersteunende taken die ten behoeve van de school worden verricht als bijdrage bij het voorkomen van uitval. De drie percentages bij de vraag naar de tijdspanne tussen eerste signaal en het intakegesprek, moeten gezamenlijk optellen tot 100%.  
 
-|--- | aantal  |
-|:---|:---|
-| 1  | Met hoeveel jongeren (18 tot 23 jaar) is het begeleidingstraject gedurende het verslagjaar beëindigd?  | --- |
-| 2  | Hoeveel jongeren zijn naar een erkende voltijd opleiding gegaan (ook particulier)?  | --- |
+|--- | Tabel 3A.2 Het opstarten van begeleidingstrajecten n.a.v. signalen anders dan de P-leveringen  |
+|---|---|
+| --- | --- | aantal  | --- |
+| 1.  | Hoeveel jongeren zijn gedurende het verslagjaar *voor het eerst* benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was?  | --- | --- |
+| 2.  | Hoeveel van de jongeren genoemd onder 1 stonden op dat moment nog ingeschreven bij een onderwijsinstelling?  | --- | --- |
+| 3.  | Hoelang hebben de jongeren zonder inschrijving geen onderwijs gevolgd?  | Jongeren die minder dan 1 schooljaar geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 1 tot 2 schooljaren geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 2 tot 3 schooljaren geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 3 tot 4 schooljaren geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 4 schooljaren of langer geen onderwijs hebben gevolgd  | --- | --- |
+| 4.  | Met hoeveel van de jongeren genoemd onder 1 is daadwerkelijk een intake gevoerd?  | --- | --- |
+| 5.  | Hoeveel gesprekken zijn er in het kader van de intake met deze jongeren gevoerd?  | --- | --- |
+| 6.  | Van alle jongeren met wie een intakegesprek is gevoerd, hoeveel tijd verstreek tussen het eerste signaal en het intakegesprek?  | minder dan 2 weken  | --- | %  |
+| tussen 2 en 4 weken  | --- | %  |
+| meer dan 4 weken  | --- | %  |
+| 7.  | Met hoeveel jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- | --- |
+| 8.  | Met hoeveel van deze jongeren is het begeleidingstraject gedurende het verslagjaar beëindigd?  | --- | --- |
 
-Tabel 3C Overige bestemmingen van gedurende de verslagperiode begeleide jongeren (18 plus) 
+In tabel 3B wordt gevraagd naar het aantal jongeren dat in het jaar voorafgaand aan het verslagjaar in begeleiding is genomen en van wie het traject gedurende het verslagjaar doorloopt.  
 
-|--- |--- | aantal  |--- |
-|:---|:---|:---|:---|
-| 1  | Hoeveel jongeren zijn een combinatietraject gaan volgen (leren/werken, BBL)?  | --- | --- |
-| 2  | Hoeveel jongeren zijn aan het werk gegaan zonder zicht op een startkwalificatie?  | --- | --- |
-| 3  | Hoeveel jongeren zijn geplaatst in een instelling voor intramurale (jeugd-)zorg, een opvangvoorziening, intensief hulpverleningstraject of een penitentiaire inrichting?  | --- | --- |
-| 4  | Hoeveel jongeren hebben het begeleidingstraject beëindigd zonder reguliere dagbesteding?  | --- | --- |
-| 5  | Hoeveel jongeren zijn uit de RMC-regio verhuisd of anderszins niet meer traceerbaar?  | --- | --- |
-| 6  | Hoeveel jongeren hebben een overige bestemming?  | --- | --- |
-| 7  | Hoelang volgt u gemiddeld genomen de herplaatste jongeren?  | --- | 1. niet of nauwelijks  2. minder dan een maand  3. 1 tot 3 maanden  4. langer dan 3 maanden  |
+|--- | Tabel 3B ‘continuerende’ voortijdig schoolverlaters  |
+|---|---|
+| --- | --- | aantal  | --- |
+| 1.  | Van hoeveel jongeren die in het verslagjaar in begeleiding waren is het begeleidingstraject in het vorige verslagjaar gestart?  | --- | --- |
+| 2.  | Hoeveel van de jongeren genoemd onder 1 stonden op dat moment nog ingeschreven bij een onderwijsinstelling?  | --- | --- |
+| 3.  | Hoelang hebben de jongeren zonder inschrijving geen onderwijs gevolgd?  | Jongeren die minder dan 1 studiejaar geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 1 tot 2 studiejaren geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 2 tot 3 studiejaren geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 3 tot 4 studiejaren geen onderwijs hebben gevolgd  | --- | --- |
+| Jongeren die 4 studiejaren of langer geen onderwijs hebben gevolgd  | --- | --- |
+| 4.  | Met hoeveel van de jongeren genoemd onder 1 is daadwerkelijk een intake gevoerd?  | --- | --- |
+| 5.  | Hoeveel gesprekken zijn er in het kader van de intake met deze jongeren gevoerd?  | --- | --- |
+| 6.  | Van alle jongeren met wie een intakegesprek is gevoerd, hoeveel tijd verstreek tussen het eerste signaal en het intakegesprek?  | minder dan 2 weken  | --- | %  |
+| tussen 2 en 4 weken  | --- | %  |
+| meer dan 4 weken  | --- | %  |
+| 7.  | Met hoeveel jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- | --- |
+| 8.  | Met hoeveel van deze jongeren is het begeleidingstraject gedurende het verslagjaar beëindigd?  | --- | --- |
 
-In tabel 3D wordt gevraagd naar jongeren die meer dan een schooljaar geen onderwijs hebben gevolgd, de ‘oude’ voortijdig schoolverlaters.  Tabel 3D ‘oude’ voortijdig schoolverlaters 
+In tabel 3C.1 wordt gevraagd naar het aantal ‘recidiverende’ voortijdig schoolverlaters. Dit zijn jongeren die in het verslagjaar zijn benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was, en in eerdere verslagjaren ook in een begeleidingstraject hebben gezeten (maar van wie het traject is afgerond voor de start van het verslagjaar). Het gaat hier niet om de jongeren die bedoeld worden bij de vraag over ‘continuerende’ voortijdig schoolverlaters. Het gaat hier expliciet om jongeren die in beeld zijn gekomen op basis van de P-leveringen van DUO. Trajecten die zijn gestart naar aanleiding van signalen via andere kanalen worden opgenomen in tabel 3C.2.  
 
-|--- |--- | aantal  |
-|:---|:---|:---|
-| Hoeveel jongeren die in het verslagjaar voor het eerst bij RMC-regio in beeld zijn gekomen, hebben al een schooljaar of langer geen onderwijs gevolgd?  | Jongeren die 1 tot 2 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 2 tot 3 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 3 tot 4 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 4 schooljaren of langer geen onderwijs hebben gevolgd  | --- |
-| Hoeveel jongeren zijn in begeleiding aan het eind van het verslagjaar (dus op 31 juli) die al een schooljaar of langer geen onderwijs gevolgd?  | Jongeren die 1 tot 2 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 2 tot 3 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 3 tot 4 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 4 schooljaren of langer geen onderwijs hebben gevolgd  | --- |
-| Hoeveel jongeren van wie het begeleidingstraject in het verslagjaar is beëindigd hebben al een schooljaar of langer geen onderwijs hebben gevolgd?  | Jongeren die 1 tot 2 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 2 tot 3 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 3 tot 4 schooljaren geen onderwijs hebben gevolgd  | --- |
-| Jongeren die 4 schooljaren of langer geen onderwijs hebben gevolgd  | --- |
+|--- | Tabel 3C.1 ‘recidiverende’ voortijdig schoolverlaters n.a.v. P-leveringen  |
+|---|---|
+| --- | --- | Aantal  | --- |
+| 1.  | Hoeveel van de jongeren die gedurende het verslagjaar zijn benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was, hebben in eerdere verslagjaren in een begeleidingstraject gezeten dat is afgerond voor de start van het verslagjaar?  | --- | --- |
+| 2.  | Met hoeveel van deze jongeren is er daadwerkelijk een intakegesprek gevoerd?  | --- | --- |
+| 3.  | Hoeveel gesprekken zijn er in het kader van de intake met deze jongeren gevoerd?  | --- | --- |
+| 4.  | Van alle jongeren met wie een intakegesprek is gevoerd, hoeveel tijd verstreek tussen de vermelding van de jongere in de P-leveringen van DUO en het intakegesprek?  | minder dan 2 weken  | --- | %  |
+| tussen 2 en 4 weken  | --- | %  |
+| meer dan 4 weken  | --- | %  |
+| 5.  | Met hoeveel van deze jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- | --- |
+| 6.  | Met hoeveel van deze jongeren is het begeleidingstraject gedurende het verslagjaar beëindigd?  | --- | --- |
+
+In tabel 3C.2 wordt gevraagd naar jongeren die in het verslagjaar zijn benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was, en in eerdere verslagjaren ook in een begeleidingstraject hebben gezeten (maar van wie het traject is afgerond voor de start van het verslagjaar). Het gaat hier niet om de jongeren die bedoeld worden bij de vraag over ‘continuerende’ voortijdig schoolverlaters. Het gaat hier expliciet om gevallen naar aanleiding van signalen anders dan de P-leveringen van DUO.  
+
+|--- | Tabel 3C.2 ‘recidiverende’ voortijdig schoolverlaters n.a.v. signalen anders dan P-leveringen  |
+|---|---|
+| --- | --- | Aantal  | --- |
+| 1.  | Hoeveel van de jongeren die gedurende het verslagjaar zijn benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was, hebben in eerdere verslagjaren in een begeleidingstraject gezeten dat is afgerond voor de start van het verslagjaar?  | --- | --- |
+| 2.  | Hoeveel van deze jongeren waren op dat moment nog ingeschreven bij een onderwijsinstelling?  | --- | --- |
+| 3.  | Met hoeveel van de jongeren genoemd onder 1 is er daadwerkelijk een intakegesprek gevoerd?  | --- | --- |
+| 4.  | Hoeveel gesprekken zijn er in het kader van de intake met deze jongeren gevoerd?  | --- | --- |
+| 5.  | Van alle jongeren met wie een intakegesprek is gevoerd, hoeveel tijd verstreek tussen het eerste signaal en het intakegesprek?  | minder dan 2 weken  | --- | %  |
+| tussen 2 en 4 weken  | --- | %  |
+| meer dan 4 weken  | --- | %  |
+| 6.  | Met hoeveel van deze jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- | --- |
+| 7.  | Met hoeveel van deze jongeren is het begeleidingstraject gedurende het verslagjaar beëindigd?  | --- | --- |
+
+Tabel 3D vormt een weergave van alle begeleidingstrajecten en de beëindiging daarvan, per categorie voortijdig schoolverlater. De kolommen ‘Totaal aantal begeleidingstrajecten’ en ‘Aantal beëindigd’ worden automatisch ingevuld met de eerder gegeven informatie.  
+
+| Tabel 3D Begeleidingstrajecten per categorie  |
+|---|
+| --- | Totaal aantal begeleidingstrajecten  | Aantal beëindigd  |
+| 1.  | Opgestarte begeleidingstrajecten n.a.v. P-leveringen  | --- | --- |
+| 2.  | Opgestarte begeleidingstrajecten n.a.v. signalen  anders dan de P-leveringen  | --- | --- |
+| 3.  | ‘continuerende’ voortijdig schoolverlaters  | --- | --- |
+| 4.  | ‘recidiverende’ voortijdig schoolverlaters n.a.v. P-  leveringen  | --- | --- |
+| 5.  | ‘recidiverende’ voortijdig schoolverlaters n.a.v.  signalen anders dan P-leveringen  | --- | --- |
+
+Tabel 3E gaat over het aantal afgeronde begeleidingstrajecten binnen het verslagjaar. Onder een begeleidingstraject wordt méér verstaan dan alleen een intakegesprek. Geef bij vraag 1 per waarde aan om hoeveel jongeren het gaat. Bij vraag 2 maakt u een keuze uit de keuzemogelijkheden.  
+
+| Tabel 3E Afgeronde begeleidingstrajecten in verslagjaar  |--- |
+|---|---|
+| --- | --- | Aantal  |
+| 1.  | Hoe lang zaten de jongeren, van wie het begeleidingstraject is afgerond, in een begeleidingstraject?  | minder dan 1 maand  | --- |
+| tussen 1 en 6 maanden  | --- |
+| meer dan 6 maanden  | --- |
+| --- | --- | --- | keuzemogelijkheid  |
+| 2.  | Hoelang volgt u de herplaatste jongeren?  | 1. niet  | --- |
+| 2. minder dan een maand  |
+| 3. 1 tot 3 maanden  |
+| 4. langer dan 3 maanden  |
+
+In tabel 3F noteert u de bestemming van de jongeren na beëindiging van het begeleidingstraject.  
+
+| Tabel 3F Bestemming na beëindiging begeleidingstraject  |--- |
+|---|---|
+| 1.  | Hoeveel jongeren zijn naar een erkende voltijd opleiding gegaan (ook particulier)?  | --- |
+| 2.  | Hoeveel jongeren zijn een combinatietraject gaan volgen (leren/werken, BBL)?  | --- |
+| 3.  | Hoeveel jongeren zijn aan het werk gegaan zonder zicht op een startkwalificatie?  | --- |
+| 4.  | Hoeveel jongeren zijn geplaatst in een instelling voor intramurale (jeugd-)zorg, een opvangvoorziening, intensief hulpverleningstraject of een penitentiaire inrichting?  | --- |
+| 5.  | Hoeveel jongeren hebben het begeleidingstraject beëindigd zonder reguliere dagbesteding?  | --- |
+| 6.  | Hoeveel jongeren zijn uit de RMC-regio verhuisd of anderszins niet meer traceerbaar?  | --- |
+| 7.  | Hoeveel jongeren hebben een overige bestemming?  | --- |
+
+Tabel 3G gaat over jongeren van 17 jaar oud die door de RMC-functie worden opgepakt. De RMC-functie is gericht op jongeren van 18 tot 23 jaar. Uit praktijk blijkt echter dat vaak ook jongeren die nog 17 jaar zijn maar binnen afzienbare tijd 18 jaar worden al door de RMC-functie in begeleiding worden genomen. Deze vraag brengt die jongeren in beeld.  
+
+|--- | Tabel 3G Jongeren van 17 jaar oud  |
+|---|---|
+| --- | --- | aantal  |
+| 1.  | Hoeveel jongeren van 17 zijn gedurende het verslagjaar benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was?  | --- |
+| 2.  | Hoeveel van de jongeren genoemd onder 1 stonden op dat moment nog ingeschreven bij een onderwijsinstelling?  | --- |
+| 3.  | Met hoeveel van de jongeren genoemd onder 1 is daadwerkelijk een intake gevoerd?  | --- |
+| 4.  | Met hoeveel jongeren is na het gevoerde intakegesprek een begeleidingstraject gestart?  | --- |
+
+In tabel 3H kunt u in algemene termen opmerkingen kwijt die specifiek zijn voor uw regio (bijvoorbeeld over de achtergrond van jongeren die in begeleiding komen, de trends in omvang van de doelgroep of een verschuiving in de bestemming van jongeren van wie het begeleidingstraject is afgerond).  
+
+| Tabel 3H Aanvullende opmerkingen (Max 200 woorden)  |
+|---|
+| --- |
 
 ### 4  
 
-####Inzet beschikbare middelen (waaronder de RMC-rijksbijdrage)
+####Inzet beschikbare middelen (waaronder de RMC-Rijksbijdrage)
 
-Gemeenten kunnen diverse financiële bronnen (deels) bestemmen voor het begeleiden van jongeren tot 23 jaar zonder opleiding of werk. Daarnaast is in 2008 structureel 13 miljoen euro verdeeld over de 39 RMC-regio’s voor de uitvoering van de kwalificatieplicht voor jongeren van 16 en 17 jaar. Mogelijk heeft de RMC-functie deze middelen doorgegeven aan gemeenten, mogelijk heeft de RMC zelf de beschikking over dit budget gehouden. In tabel 4A wordt gevraagd naar een indicatie van alle budgetten waarmee de RMC-functie wordt uitgevoerd in het lopende kalenderjaar.  Tabel 4A 
+Gemeenten kunnen diverse financiële bronnen (deels) bestemmen voor het begeleiden van jongeren tot 23 jaar zonder startkwalificatie. Daarnaast is in 2008 structureel 13 miljoen euro verdeeld over de 39 RMC-regio’s voor de uitvoering van de kwalificatieplicht voor jongeren van 16 en 17 jaar. Mogelijk heeft de RMC-functie deze middelen doorgegeven aan gemeenten, mogelijk heeft de RMC zelf de beschikking over dit budget gehouden. In tabel 4A wordt gevraagd naar een indicatie van alle budgetten waarmee de RMC-functie wordt uitgevoerd in het lopende kalenderjaar.  
 
-|--- |--- | Antwoord  | Antwoordmogelijkheden  |
-|:---|:---|:---|:---|
-| 1  | Zet de RMC-functie financiële middelen uit de Middelen voor het Regionaal Programma Voortijdig Schoolverlaten (voorheen de plusmiddelen en de programmagelden) in voor het begeleiden van jongeren tot 23 jaar zonder opleiding of werk?  | --- | 1. nee  2. ja, minder dan 10% van de totale middelen  3. ja, tussen de 10 en 25% van de totale middelen  4. ja, meer dan 25% van de totale middelen  |
-| 2  | Zet de RMC-functie financiële middelen uit de Decentrale Uitkering Jeugd ten behoeve van overbelaste jongeren in voor het begeleiden van jongeren tot 23 jaar zonder opleiding of werk?  | --- | 1. nee  2. ja, minder dan 10% van de totale middelen  3. ja, tussen de 10 en 25% van de totale middelen  4. ja, meer dan 25% van de totale middelen  |
-| 3  | Zet de RMC-functie middelen voor de versterking van de leerplicht/kwalificatieplicht in?  | --- | 1. nee  2. ja, minder dan 10% van de totale middelen  3. ja, tussen de 10 en 25% van de totale middelen  4. ja, meer dan 25% van de totale middelen  |
-| 4  | Zet de RMC-functie financiële middelen uit overige bronnen in voor het begeleiden van jongeren tot 23 jaar zonder opleiding of werk?  Zoja, Welke? Hoeveel procent van de totale middelen omvatten deze bronnen?  | --- |
+|--- |  *Tabel 4A*   |  *Antwoord*   |  *Antwoordmogelijkheden*   |
+|---|---|---|---|
+| 1  | Zet de RMC-functie financiële middelen in uit het Regionaal Programma Voortijdig Schoolverlaten (voorheen de plusmiddelen en de programmagelden) voor het begeleiden van jongeren tot 23 jaar zonder startkwalificatie?  | --- | 1. nee  2. ja, minder dan 10% van de totale middelen  3. ja, tussen de 10 en 25% van de totale middelen  4. ja, meer dan 25% van de totale middelen  |
+| 2  | Zet de RMC-functie financiële middelen in uit de Decentralisatie-uitkering Jeugd ten behoeve van overbelaste jongeren voor het begeleiden van jongeren tot 23 jaar zonder startkwalificatie?  | --- | 1. nee  2. ja, minder dan 10% van de totale middelen  3. ja, tussen de 10 en 25% van de totale middelen  4. ja, meer dan 25% van de totale middelen  |
+| 3  | Zet de RMC-functie middelen in uit het budget dat structureel beschikbaar wordt gesteld voor de uitvoering van de kwalificatieplicht voor jongeren van 16 en 17 jaar?  | --- | 1. nee  2. ja, minder dan 10% van de totale middelen  3. ja, tussen de 10 en 25% van de totale middelen  4. ja, meer dan 25% van de totale middelen  |
+| 4  | Zet de RMC-functie financiële middelen uit overige bronnen in voor het begeleiden van jongeren tot 23 jaar zonder startkwalificatie? Zo ja, Welke? Hoeveel procent van de totale middelen omvatten deze bronnen?  | --- |
 | 5  | Worden de financiële middelen waarover de RMC-functie bezit verdeeld onder de afzonderlijke gemeenten binnen de regio?  | --- | 1. nee  2. ja, tussen de 0 en 25% van de totale middelen  3. ja, tussen de 25 en 50% van de totale middelen  4. ja, tussen de 50 en 75% van de totale middelen  5. ja, tussen de 75 en 100% van de totale middelen  |
 | 6  | Heeft de RMC-functie in het lopende kalenderjaar meer of minder financiële middelen tot zijn beschikking in vergelijking met het vorige kalenderjaar (op basis van toegekende budgetten)?  | --- | 1.een reductie van meer dan 10%  2. een reductie van minder dan 10%  3. ongeveer hetzelfde  4. een stijging van minder dan 10%  5. een stijging van meer dan 10%  |
 
-In vraag 4B wordt gevraagd naar de inzet van het totale budget waar de RMC-functie over beschikt in het lopende kalenderjaar. Dit kan uit diverse bronnen komen, zie de vraag 4A. Het gaat om een globale onderverdeling. De financiële verantwoording van alle verschillende budgetten vindt elders plaats. Een beleidsmatige beoordeling van de inzet van de middelen volstaat bij de beantwoording van deze vraag. U kunt per categorie invullen hoeveel euro u besteedt, het percentage middelen volgt dan automatisch. Indien gewenst, kunt u uw antwoorden in het onderstaande tekstvak toelichten. Onder de tabel vindt u een toelichting op de gehanteerde begrippen en categorieën. *Let op*: in de RMC-effect rapportage tot en met 2012 werd alleen gevraagd naar een onderverdeling van de Rijksmiddelen (RMC-budget en kwalificatiemiddelen).  4B Inzet middelen 
+In tabel 4B wordt gevraagd naar de besteding van het totale budget uit verschillende bronnen waar de RMC-functie over beschikt in het lopende kalenderjaar. Het gaat hier om een globale onderverdeling. Een beleidsmatige beoordeling van de besteding van de middelen volstaat bij de beantwoording van deze vraag. U kunt per categorie invullen hoeveel euro u besteedt, het percentage middelen volgt dan automatisch. Onder de tabel vindt u een toelichting op de gehanteerde begrippen en categorieën. *Let op*: tot 2013 werd in de RMC-effectrapportage alleen gevraagd naar een onderverdeling van de Rijksmiddelen (RMC-budget en kwalificatiemiddelen) nu wordt gevraagd naar het totale budget waar de RMC-functie over beschikt, om zo inzichtelijk te maken hoeveel middelen aan de diverse activiteiten van de RMC-functie worden besteed.  
 
-|--- | in euro’s  | %  |
-|:---|:---|:---|
-| A. Coördinatie  | --- | --- |
-| B. Administratieve ondersteuning/Registratie/ICT  | --- | --- |
-| C. Trajectbegeleiding  | --- | --- |
-| D. Projecten voor uitgevallen jongeren  | --- | --- |
-| E. Projecten ter voorkoming van uitval  | --- | --- |
-| F. Versterking leerplicht/kwalificatieplicht  | --- | --- |
-| G. Reservering  | --- | --- |
-| H. Anders, namelijk...  | --- | --- |
-|  *Totaal*   |  *€ 0*   | --- |
-|  *Eventuele toelichting*   | Tot maximaal 200 woorden  |
-| --- | --- |
-| --- | --- |
+|--- | Tabel 4B Inzet middelen  | in euro’s  | %  |
+|---|---|---|---|
+| A.  | Coördinatie  | --- | --- |
+| B.  | Administratieve ondersteuning/Registratie/ICT  | --- | --- |
+| C.  | Trajectbegeleiding  | --- | --- |
+| D.  | Projecten voor uitgevallen jongeren  | --- | --- |
+| E.  | Projecten ter voorkoming van uitval  | --- | --- |
+| F.  | Versterking leerplicht / kwalificatieplicht  | --- | --- |
+| G.  | Reservering vorig jaar  | --- | --- |
+| H.  | Anders, namelijk…  | --- | --- |
+|  *Totaal*   | --- | --- |
+|  *Eventuele toelichting*   (Tot maximaal 200 woorden)  | --- |
 
-A. Coördinatie = het tot stand brengen van samenwerking op bestuurlijk, beleids- en uitvoerend niveau ter vermindering en voorkomen van voortijdig schoolverlaten en het organiseren van een sluitende aanpak in de melding, registratie en doorverwijzing van voortijdig schoolverlaters.  
+A. Coördinatie = het tot stand brengen van samenwerking op bestuurlijk-, beleids- en uitvoerend niveau ter vermindering en voorkoming van voortijdig schoolverlaten en het organiseren van een sluitende aanpak in de melding, registratie en doorverwijzing van voortijdig schoolverlaters.  
 
 B. Administratieve ondersteuning/registratie/ICT = administratieve verwerking van meldingen, herplaatsing en uitschrijving en de voorzieningen die daarvoor nodig zijn.  
 
@@ -1045,66 +1122,57 @@ D. Projecten voor uitgevallen jongeren = groepsactiviteiten voor uitgevallen jon
 
 E. Projecten ter voorkoming van uitval = groepsactiviteiten voor jongeren met als doel het voorkomen van uitval.  
 
-F. Versterking leerplicht/kwalificatieplicht = inzet gericht op het versterken van de structuur ter bevordering van de leerplicht en het doen naleven van de kwalificatieplicht voor 16- en 17-jarigen. Dit kan bijvoorbeeld vorm krijgen door extra leerplichtambtenaren, scholing, informatievoorziening of regionalisering.  
+F. Versterking leerplicht / kwalificatieplicht = inzet gericht op het versterken van de structuur ter bevordering van de leerplicht en het doen naleven van de kwalificatieplicht voor 16- en 17-jarigen. Dit kan bijvoorbeeld vorm krijgen door extra leerplichtambtenaren, scholing, informatievoorziening of regionalisering.  
 
 G. Reservering = indien u dit jaar een deel van de rijksbijdrage hebt gereserveerd voor een specifieke uitgave in de toekomst, kunt u dit hier aangeven. Indien u deze verslagperiode een eerder gereserveerd bedrag inzet, kunt u dat aangeven door een negatief bedrag op reservering in te vullen.  
 
-H. Anders, namelijk...= indien u RMC-gelden inzet voor andere zaken, dan kunt u dat hier invullen. U kunt zelf aangeven waar uit het geld aan uitgeeft.    
+H. Anders, namelijk…= indien u RMC-gelden inzet voor andere zaken, dan kunt u dat hier invullen.   In tabel 4C wordt ten eerste gevraagd naar het aantal fte’s van RMC-medewerkers. Vervolgens wordt bij punt 2 gevraagd naar het aantal fte’s aan RMC-medewerkers dat zich bezighoudt met het begeleiden van individuele jongeren. Begeleiding kan allerlei vormen hebben, van een telefoontje of mailtje tot een intensieve gesprekscyclus. *Een fulltime medewerker die voor 70% trajectbegeleiding doet en voor 20% bezig is met preventieve projecten en 10% coördinatie, telt bij punt 2 voor 0,7 fte mee.* Naast het begeleiden van individuele jongeren heeft een RMC-regio ook projecten, zowel voor reeds uitgevallen jongeren als ter preventie van uitval. Het betreft alle werkzaamheden die direct of indirect gericht zijn op *groepen* jongeren, gefinancierd uit het totale budget waar de RMC-regio over beschikt. Punt 3 betreft de gezamenlijke inzet op preventieve projecten (gericht op jongeren die nog ingeschreven staan bij een onderwijsinstelling, maar die dreigen uit tevallen) en de projecten voor reeds uitgevallen jongeren. Gevraagd wordt naar een inschatting van de fte-inzet per inhoudelijk type project. *Een fulltime medewerker die voor 70% werkt voor individuele jongeren, 20% voor het uitvoeren van een verzuimproject en 10% in coördinatie, telt op dit punt in deze tabel mee voor 0,2 fte.*  
 
-### 4C  
-
-####Inzet personele middelen
-
-Tabel 4C start met de vraag naar het aantal fte’s van RMC-medewerkers. In vraag 2 wordt vervolgens gevraagd naar het aantal fte’s aan RMC-medewerkers dat zich bezighoudt met het begeleiden van individuele jongeren. Begeleiding kan allerlei vormen hebben, van een telefoontje of mailtje tot een intensieve gesprekscyclus. *Een fulltime medewerker die voor 70% trajectbegeleiding doet en voor 20% bezig is met preventieve projecten en 10% coördinatie, telt in vraag 2 voor 0,7 fte mee.* Naast het begeleiden van individuele jongeren doet een RMC-regio ook projecten, zowel voor reeds uitgevallen jongeren als ter preventie van uitval. Het betreft alle werkzaamheden die direct of indirect gericht zijn op *groepen* jongeren, gefinancierd met het totale budget waar de RMC-regio over beschikt. Vraag 3 betreft de gezamenlijke inzet op preventieve projecten en de projecten voor reeds uitgevallen jongeren. Gevraagd wordt naar een inschatting van de fte-inzet per inhoudelijk type project. *Een fulltime medewerker die voor 70% werkt voor individuele jongeren, 20% voor het uitvoeren van een verzuimproject en 10% in coördinatie, telt in deze tabel mee voor 0,2 fte.*  Tabel 4C Inzet personele middelen 
-
-|--- | fte  |
-|:---|:---|
-| 1.  | Hoeveel fte aan medewerkers heeft uw RMC-regio ter beschikking?  | --- |
-| 2.  | Hoeveel fte zet uw RMC-regio in op het begeleiden van individuele jongeren (18-plus)?  | --- |
-| 3.  | Hoe is de fte-inzet per inhoudelijk type project?  | --- |
+| Tabel 4C Inzet personele middelen  | fte  |
+|---|---|
+| 1  | Hoeveel fte aan medewerkers heeft uw RMC-regio ter beschikking?  | --- |
+| 2  | Hoeveel fte zet uw RMC-regio in op het begeleiden van individuele jongeren (18-plus)?  | --- |
+| 3  | Hoe is de fte-inzet per inhoudelijk type project?  | --- |
 | --- | a. Overgang vmbo-mbo  | --- |
-| b. Loopbaanoriëntatie en -begeleiding  | --- |
-| c. De aanpak van verzuim (bijvoorbeeld spreekuren)  | --- |
-| d. Overige inhoudelijke projecten:...  | --- |
+| --- | b. Loopbaanoriëntatie en -begeleiding  | --- |
+| --- | c. De aanpak van verzuim (bijvoorbeeld spreekuren)  | --- |
+| --- | d. Overige inhoudelijke projecten:…  | --- |
 
 ### 5  
 
 ####Terugblik behaalde resultaten bij reduceren van de uitval
 
-Bij vraag 5 wordt u gevraagd kort te reflecteren op de behaalde resultaten uit het vorige convenantjaar conform de OCW-cijfers voor de regio met betrekking tot nieuwe vsv’ers. In [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) staan de taken van de contactgemeente van de RMC-regio. Het zevende lid van dit artikel stelt de verplichting om terug te kijken op behaalde resultaten in vergelijking met de streefcijfers.  
+Bij vraag 5 wordt u gevraagd kort te reflecteren op de behaalde resultaten uit het vorige verslagjaar conform de OCW-cijfers voor de regio met betrekking tot de aanpak van vsv’ers. In artikel 8.3.2 van de Wet educatie en beroepsonderwijs staan de taken van de contactgemeente van de RMC-regio. Het zevende lid van dit artikel stelt de verplichting om terug te kijken op behaalde resultaten in vergelijking met de streefcijfers.  
 
 | --- |
-|:---|
-| Artikel 8.3.2, zevende lid van de Wet educatie en beroepsonderwijs  |
-| --- |
-|  *De gemeenteraden in een regio stellen streefcijfers vast voor de in die regio te behalen resultaten. Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks een effectrapportage vast waarin zowel de *streefcijfers* als de *bereikte resultaten* zijn aangegeven en waarin *afwijkingen* worden *toegelicht.**   |
+|---|
+| Artikel 8.3.2, zevende lid van de Wet educatie en beroepsonderwijs:   *De gemeenteraden in een regio stellen streefcijfers vast voor de in die regio te behalen resultaten. Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks een effectrapportage vast waarin zowel de* *streefcijfers* *als de* *bereikte resultaten* *zijn aangegeven en waarin* *afwijkingen* *worden* *toegelicht.*   |
 
-U wordt gevraagd in uw antwoord de resultaten in relatie tot de normen op basis van de definitieve cijfers over het vorig schooljaar en de uitvalpercentages op de verschillende onderdelen (mbo 1, mbo 2, mbo 3/4) te betrekken.  
+Betrek in uw antwoord de behaalde resultaten in relatie tot de regionale streefcijfers en de landelijke normen op basis van de definitieve cijfers over het vorig schooljaar. Daarnaast wordt u gevraagd de uitvalpercentages op de verschillende onderdelen (mbo 1, mbo 2, mbo 3/4) te behandelen.  
 
 | --- | --- |
-|:---|:---|
-| Hoe kijkt u terug op de behaalde resultaten van het vorige convenantjaar (in relatie tot de normen en op de verschillende onderdelen)? Welke factoren hebben bijgedragen aan het behaalde resultaat (rol van de convenanten)? Wordt de werkwijze binnen uw regio naar aanleiding van behaalde resultaten gewijzigd?  |  Tot maximaal 200 woorden  |
+|---|---|
+| Hoe kijkt u terug op de behaalde resultaten van het vorige verslagjaar (ook in relatie tot de normen en op de verschillende onderdelen)?  Welke factoren hebben bijgedragen aan het behaalde resultaat (rol van de convenanten)?  Wordt de werkwijze binnen uw regio naar aanleiding van behaalde resultaten gewijzigd?  | --- |
 
-### 6  
+####6. Good practices (optioneel)
 
-####Good practices (optioneel)
+In onderstaande tabel kunt u *optioneel* twee “good practices” vermelden. U kunt hierbij denken aan voorbeelden over de door u gevoerde aanpak. Deze good practices kunnen worden opgenomen in de projectbank op www.aanvalopschooluitval.nl. OCW is met name geïnteresseerd in projecten met bijzondere samenwerkingspartners en/of met een nieuwe inhoudelijke invalshoek en/of een project dat grondig geëvalueerd is.  
 
-In onderstaande tabel kunt u *optioneel* twee ‘good practices’ vermelden. U kunt hierbij denken aan voorbeelden over de door u gevoerde aanpak. Deze good practices kunnen worden opgenomen in de projectbank op www.aanvalopschooluitval.nl. OCW is met name geïnteresseerd in projecten met bijzondere samenwerkingspartners en/of met een nieuwe inhoudelijke invalshoek en/of een project dat grondig geëvalueerd is.  
-
-| Good practices projecten  |--- |
-|:---|:---|
-|  *1.*   |  *1.*   |
+| Good practices projecten  |--- | 1.  |--- |
+|---|---|---|---|
 | Naam project:  | --- |
 | Doel project:  | --- |
-| Inhoud project  |  Tot maximaal 200 woorden  |
+| Inhoud project: (maximaal 200 woorden)  | --- |
 | Betrokkenen:  | --- |
-| Resultaten:  |  Tot maximaal 200 woorden  |
-|  *2.*   |  *2.*   |
+| Resultaten: (maximaal 200 woorden)  | --- |
+
+| Good practices projecten  |--- | 2.  |--- |
+|---|---|---|---|
 | Naam project:  | --- |
 | Doel project:  | --- |
-| Inhoud project  |  Tot maximaal 200 woorden  |
+| Inhoud project: (maximaal 200 woorden)  | --- |
 | Betrokkenen:  | --- |
-| Resultaten:  | Tot maximaal 200 woorden  |
+| Resultaten: (maximaal 200 woorden)  | --- |
 
 ####Definities en omschrijvingen
 
@@ -1114,13 +1182,13 @@ In onderstaande tabel kunt u *optioneel* twee ‘good practices’ vermelden. U 
 
 Tot de scholen op de onderscheiden sectoren kunnen worden gerekend: 
 
-* Scholen in de vo-sector:  
+* Scholen in de vo-sector  
 
 * Scholen voor speciaal voortgezet onderwijs  
 
 * Scholen voor regulier voortgezet onderwijs (waaronder praktijkonderwijs)  
 
-* Instellingen in de BVE-sector. Volgens [artikel 1.3.1. van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vallen hieronder roc’s, aoc’s en vakinstellingen.    
+* Instellingen in de BVE-sector. Volgens artikel 1.3.1. van de Wet educatie en beroepsonderwijs vallen hieronder roc’s, aoc’s en vakinstellingen    
 
 ### 2  
 
@@ -1132,66 +1200,65 @@ a.  *die de leeftijd van 23 jaren nog niet heeft bereikt,*
 
 b.  *die niet in het bezit is van een diploma voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs dan wel een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs, en*   
 
-c. *die* - *het onderwijs aan de school gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of – bij de school wordt uitgeschreven of van de school wordt verwijderd.*   Voor de afbakening van het begrip voortijdig schoolverlater zijn daarmee de volgende vier elementen van belang: 
+c. *die* - *het onderwijs aan de school gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of* - *bij de school wordt uitgeschreven of van de school wordt verwijderd.*   Voor de afbakening van het begrip voortijdig schoolverlater zijn daarmee de volgende vier elementen van belang: 
 
 1) maximum *leeftijdsgrens*: tot 23 jaar. In deze rapportage wordt als ondergrens 18 jaar gehanteerd, tenzij expliciet wordt aangegeven dat het om een andere leeftijdscategorie gaat.  
 
-2) minimum *opleidingsgrens*: Het niveau van de startkwalificatie is gedefinieerd als een diploma op tenminste niveau 2 van de kwalificatiestructuur secundair beroepsonderwijs (dit kan bereikt worden via de beroepsbegeleidende of de beroepsopleidende leerweg), dan wel niveau havo of vwo. Er is evenmin sprake van een voortijdig schoolverlater in geval van uitstroom uit het onderwijs met een diploma op een hoger gelegen niveau. Hoewel jongeren met een *getuigschrift praktijkonderwijs of een diploma assistent-opleiding* (niveau 1) niet aan de voornoemde opleidingsgrens (van het in algemene zin wenselijk geachte niveau 2 of hoger) van de startkwalificatie voldoen, worden zij *niet* gerekend tot de groep voortijdig schoolverlaters *mits zij een plek op de arbeidsmarkt hebben.* Deze individuele uitstromers moeten *wel* worden gemeld en na aanvullende actie om te bepalen of ze wel of niet aan het werk zijn *wel* worden geregistreerd. Jongeren die het praktijkonderwijs zonder getuigschrift of een assistent-opleiding zonder diploma verlaten en zich niet meer inschrijven voor een andere opleiding worden uiteraard *wel* gerekend tot voortijdig schoolverlaters en dienen te worden meegeteld bij de relevante tabellen: voor deze jongeren is ook nadere actie geboden.  
+2) minimum *opleidingsgrens*: Het niveau van de startkwalificatie is gedefinieerd als een diploma van tenminste havo, vwo of mbo niveau 2. Er is evenmin sprake van een voortijdig schoolverlater in geval van uitstroom uit het onderwijs met een diploma op een hoger gelegen niveau. Hoewel jongeren met een *getuigschrift praktijkonderwijs of een diploma assistent-opleiding* (niveau 1) niet aan de voornoemde opleidingsgrens (van het in algemene zin wenselijk geachte niveau 2 of hoger) van de startkwalificatie voldoen, worden zij *niet* gerekend tot de groep voortijdig schoolverlaters *mits zij een plek op de arbeidsmarkt hebben.* Deze individuele uitstromers moeten *wel* worden gemeld en, na aanvullende actie om te bepalen of ze wel of niet aan het werk zijn, *wel* worden geregistreerd. Jongeren met een getuigschrift praktijkonderwijs of diploma op mbo niveau 1 worden *wel* gerekend tot de groep vsv'ers wanneer zij niet werkzaam zijn op grond van een aanstelling of arbeidsovereenkomst en moeten worden geregistreerd en gevolgd door de RMC-functie. Het doel (en einde) van eventuele begeleiding voor deze groep jongeren is niet het behalen van een startkwalificatie, maar het werkzaam zijn op grond van een aanstelling of arbeidsovereenkomst. Jongeren die het praktijkonderwijs zonder getuigschrift of een assistent-opleiding zonder diploma verlaten en zich niet meer inschrijven voor een andere opleiding worden uiteraard *wel* gerekend tot voortijdig schoolverlaters en dienen te worden meegeteld bij de relevante tabellen: voor deze jongeren is ook nadere actie geboden.  
 
-3) geen inschrijving bij een onderwijsinstelling: Voortijdig schoolverlater = voortijdig onderwijsverlater Een voortijdig schoolverlater is feitelijk een voortijdig onderwijsverlater: na de uitschrijving is geen sprake van een nieuwe inschrijving bij een onderwijsinstelling. Leerlingen die bijvoorbeeld na het behalen van een vmbo- of mavo-diploma zich niet meer inschrijven voor een vervolgopleiding, worden gerekend tot de groep voortijdig schoolverlaters. Ook zij, die zonder de gedefinieerde minimumstartkwalificatie worden uitgeschreven bij een onderwijsinstelling en gaan werken zonder gelijktijdig een opleiding te volgen, vallen dus onder deze categorie.  
+3) geen inschrijving bij een onderwijsinstelling: Voortijdig schoolverlater = voortijdig onderwijsverlater. Een voortijdig schoolverlater is feitelijk een voortijdig onderwijsverlater: na de uitschrijving is geen sprake van een nieuwe aansluitende inschrijving bij een onderwijsinstelling. Leerlingen die bijvoorbeeld na het behalen van een vmbo- of mavodiploma zich niet meer inschrijven voor een vervolgopleiding, worden gerekend tot de groep voortijdig schoolverlaters.  
 
-4) of wel een inschrijving, maar langdurig afwezig als een ingeschreven leerling gedurende een aaneengesloten periode van tenminste 1 maand het onderwijs niet meer volgt. Er is geen sprake van voortijdig schoolverlaten in geval van overstap: 
-
-– naar een andere opleiding binnen een scholengemeenschap;  
-
-– en evenmin in geval van overstap naar een andere school; als de uitschrijving en inschrijving op elkaar aansluiten is er immers geen sprake van voortijdig ónderwijsverlaten.     Er hoeft dus dan ook *geen* registratie in het kader van de RMC-functie plaats te vinden. Vsv’ers die afkomstig zijn uit het voortgezet speciaal onderwijs (zmok) en het praktijkonderwijs dienen in het kader van de RMC-functie te worden geregistreerd. Ongeacht het feit of geconstateerd is dat een minimum startkwalificatie of assistent-opleiding niet binnen bereik van de betreffende jongere ligt.  
+4) wel een inschrijving, maar langdurig afwezig. Als een ingeschreven leerling gedurende een aaneengesloten periode van tenminste 1 maand het onderwijs niet meer volgt. Er is geen sprake van voortijdig schoolverlaten in geval van overstap naar een andere opleiding binnen een scholengemeenschap en evenmin in het geval van overstap naar een andere school: als de uitschrijving en inschrijving op elkaar aansluiten is er immers geen sprake van voortijdig ónderwijsverlaten. Er hoeft dan dus ook *geen* registratie in het kader van de RMC-functie plaats te vinden. Vsv’ers die afkomstig zijn uit het voortgezet speciaal onderwijs (zmok) en het praktijkonderwijs dienen in het kader van de RMC-functie te worden geregistreerd, ongeacht het feit of geconstateerd is dat een minimum startkwalificatie of assistent-opleiding niet binnen bereik van de betreffende jongere ligt.    
 
 ### 3  
 
-####Leeftijd
-
-De leeftijd van de persoon op 1 augustus van de verslagperiode. Het gaat dus niet om de leeftijd op het moment van uitschrijven of registreren. Deze datum is van belang voor het vaststellen van de leerplichtigheid.  
-
-### 4  
-
 ####Studiejaar of schooljaar
 
-Een schooljaar, ook wel genoemd studiejaar, is de periode van 1 augustus van een jaar t/m 31 juli van het volgende jaar.  
+Een schooljaar, ook wel genoemd studiejaar, is de periode van 1 augustus van een jaar t/m 31 juli van het volgende jaar.  
 
-### 5  
+### 4  
 
 ####Werk
 
 Onder de opvatting van werk bij herplaatsing wordt omwille van eenduidigheid de CBS definitie voor werkzame beroepsbevolking gehanteerd. Conform deze definitie wordt de situatie bedoeld waarin de jongere 12 uur of meer per week betaald werk heeft.  
 
-### 6  
+### 5  
 
 ####Preventie
 
-Onder preventie verstaan we activiteiten bedoeld om schooluitval te voorkomen en die gericht zijn op jongeren die nog ingeschreven staan bij een onderwijsinstelling maar die risico lopen uit te vallen.  Lijst van afkortingen 
+Onder preventie verstaan we activiteiten bedoeld om schooluitval te voorkomen en die gericht zijn op jongeren die nog ingeschreven staan bij een onderwijsinstelling maar die risico lopen uit te vallen.  
 
-| --- | --- |
-|:---|:---|
+### 6  
+
+####‘Continuerende’ voortijdig schoolverlaters
+
+Jongeren waarvan het begeleidingstraject het vorig verslagjaar nog niet was afgerond en dus ook dit verslag jaar nog in dit traject zaten.  
+
+### 7  
+
+####‘Recidiverende’ voortijdig schoolverlaters
+
+Jongeren die in het verslagjaar zijn benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was, en in eerdere verslagjaren ook in een begeleidingstraject hebben gezeten. Het gaat hier niet om de jongeren bedoeld bij de definitie ‘continuerende’ vsv’ers.  Lijst van afkortingen 
+
 | BRON  | Basisregistratie Onderwijs  |
+|---|---|
 | bve  | beroepsonderwijs en volwasseneneducatie  |
 | DUO  | Dienst Uitvoering Onderwijs  |
-| EVC  | Eerder verworden competenties  |
-| Havo  | hoger algemeen voortgezet onderwijs  |
-| kmbo  | kort middelbaar beroepsonderwijs  |
+| EVC  | Eerder verworven competenties  |
+| havo  | hoger algemeen voortgezet onderwijs  |
 | mavo  | middelbaar algemeen voortgezet onderwijs  |
 | mbo  | middelbaar beroepsonderwijs  |
 | OCW  | Ministerie van Onderwijs, Cultuur en Wetenschap  |
 | RMC-functie  | Regionale Meld- en Coördinatiefunctie voortijdig schoolverlaten  |
 | roc  | Regionaal Opleidingencentrum  |
 | so  | speciaal onderwijs  |
-| Svo  | speciale school voor voortgezet onderwijs  |
 | vmbo  | voorbereidend middelbaar beroepsonderwijs  |
 | vo  | Voortgezet Onderwijs  |
 | vso  | voortgezet speciaal onderwijs  |
 | vsv  | voortijdig schoolverlaten  |
 | vsv’er  | voortijdig schoolverlater  |
 | vwo  | voorbereidend wetenschappelijk onderwijs  |
-| wvo  |  [Wet op het Voortgezet Onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)   |
+| wvo  |  Wet op het Voortgezet Onderwijs   |
 
 ### Bijlage  C  
 
@@ -1442,7 +1509,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 *Contactgegevens*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1. Contactgegevens aanvragende mbo-instelling  |
 | Naam mbo-instelling  | --- |
 | BRIN-nummer  | --- |
@@ -1455,7 +1522,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 | Telefoonnummer contactpersoon  | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 2a. Contactgegevens overige aan het experiment deelnemende onderwijsinstellingen (indien van toepassing)  |
 | Naam instelling  | --- |
 | RMC-regio  | --- |
@@ -1463,7 +1530,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 | Naam contactpersoon  | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 2b. Contactgegevens overige aan het experiment deelnemende onderwijsinstellingen (indien van toepassing)  |
 | Naam instelling  | --- |
 | RMC-regio  | --- |
@@ -1471,7 +1538,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 | Naam contactpersoon  | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 2c. Contactgegevens overige aan het experiment deelnemende onderwijsinstellingen (indien van toepassing)  |
 | Naam instelling  | --- |
 | RMC-regio  | --- |
@@ -1495,7 +1562,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 4. Wat is het experiment waarvoor u subsidie aanvraagt?  *Beschrijf kort de nieuw in te richten variant.*   
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1505,7 +1572,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 5a. Wat is het beleid dat nu op dit thema wordt uitgevoerd? In hoeverre wijkt de nieuw in te richten variant waar de experimentgroep mee te maken krijgt af van het beleid waarmee de controlegroep te maken krijgt?  
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1515,7 +1582,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 5b. Op welke manier heeft u geverifieerd dat de nieuw in te richten variant niet eerder is uitgevoerd in de betrokken RMC-regio?  
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1525,7 +1592,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 6. Wat zijn de beoogde activiteiten en tijdsplanning van de nieuwe variant?  *Zet de activiteiten en tijdsplanning per activiteit in onderstaand schema. Beschrijf bij de uitvoeringsfase ook de activiteiten die u (bij gebleken succes) gaat uitvoeren voor het verspreiden van kennis en ervaringen met de variant, het overdragen van (onderdelen van) de variant aan andere onderwijsinstellingen en structurele toepassing van de variant.*   *Fase 1 (voorbereidingsfase),* periode ...... t/m ..........: 
 
 | WAT  | WANNEER  |--- | RESULTAAT  | WIE  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | activiteit 1 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
 | activiteit 2 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
 | activiteit 3  (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
@@ -1533,7 +1600,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 Etc.  *Fase 2 (Uitvoeringsfase),* periode ...... t/m ..........: 
 
 | WAT  | WANNEER  |--- | RESULTAAT  | WIE  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | activiteit 1 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
 | activiteit 2 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
 | activiteit 3  (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
@@ -1543,7 +1610,7 @@ Etc.
 7a. Wat is de verwachte omvang van de experimentgroep en de controlegroep?  
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1553,7 +1620,7 @@ Etc.
 7b. Geef een globale beschrijving (leeftijdscategorie, opleidingsniveau, etc.) van de groep die deelneemt aan het experiment.  
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1563,7 +1630,7 @@ Etc.
 8. Wat zijn mogelijke risico’s ten aanzien van de haalbaarheid van (onderdelen van) de variant en het onderzoek? *Beschrijf eventuele maatregelen om deze risico’s te beheersen.*  
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1573,7 +1640,7 @@ Etc.
 9. Geef aan waarom de voorgestelde variant naar verwachting effectief zal zijn.  *Beschrijf de steun uit (buitenlands) wetenschappelijk onderzoek of vanuit praktijkervaring. Geef tevens de verhouding aan tussen de verwachte kosten van de variant en de te verwachten inhoudelijke opbrengsten?*   
 
 | --- |
-|:---|
+|---|
 | --- |
 | --- |
 | --- |
@@ -1607,7 +1674,7 @@ h. gesprekken te organiseren tussen het Centraal Planbureau, personeel en deelne
 ####Ondertekening
 
 | Naam bevoegd persoon van de mbo- instelling  |--- |
-|:---|:---|
+|---|---|
 | Plaats  | --- |
 | Datum  | --- |
 | Handtekening  | --- |

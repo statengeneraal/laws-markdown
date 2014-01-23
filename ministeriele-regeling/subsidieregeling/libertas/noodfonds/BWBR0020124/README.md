@@ -215,7 +215,8 @@ De Nuffic voert een dusdanige administratie dat op basis van een accountantscont
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2018.   
 
 ### Artikel  16  
 

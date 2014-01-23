@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelend in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 4 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md)
+Gelet op artikel 4 van de Wet overige OCW-subsidies
 Besluit:    
 
 ### Artikel  1  
@@ -18,15 +18,15 @@ a. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
 b.  *onderwijsinstelling:*  
 
-1° een basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
+1° een basisschool als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-2° een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+2° een school voor voortgezet onderwijs als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs;  
 
-3° een school voor speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+3° een school voor speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-4° een onderwijsinstelling als bedoeld in [art. 1.1.1, onderdeel b, onder 4° van de Wet Educatie en Beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); of  
+4° een onderwijsinstelling als bedoeld in art. 1.1.1, onderdeel b, onder 4° van de Wet Educatie en Beroepsonderwijs; of  
 
-5° een onderwijsinstelling voor hoger onderwijs als bedoeld in [artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), waaraan een lerarenopleiding wordt verzorgd.      
+5° een onderwijsinstelling voor hoger onderwijs als bedoeld in artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, waaraan een lerarenopleiding wordt verzorgd.      
 
 ### Artikel  2  
 
@@ -114,7 +114,7 @@ b. de mate waarin de aanvrager in staat moet worden geacht de activiteiten, bedo
 
 ####Begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt het verleende subsidiebedrag verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.  
+In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, wordt het verleende subsidiebedrag verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.  
 
 ### Artikel  11  
 
@@ -136,14 +136,14 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eer
 ####Informatieplicht
 
 1.  De subsidieontvanger werkt mee aan door of namens de Minister ingestelde onderzoeken die erop gericht zijn de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens de Minister te voeren beleid.   
-2.  De subsidieontvanger geeft aan door of namens de Minister aangewezen ambtenaren op verzoek inzage in de in [artikel 17 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.   
+2.  De subsidieontvanger geeft aan door of namens de Minister aangewezen ambtenaren op verzoek inzage in de in artikel 17 van de Wet overige OCW-subsidies bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.   
 3.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.   
 
 ### Artikel  14  
 
 ####Egalisatiereserve
 
-1.  De subsidieontvanger vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De subsidieontvanger vormt een egalisatiereserve als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  De reserve bedraagt ten hoogste 10% van de verleende subsidie.   
 
 ### Artikel  15  
@@ -202,7 +202,8 @@ Deze regeling wordt na 4 jaar geëvalueerd.
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2015.   
 
 ### Artikel  24  
 

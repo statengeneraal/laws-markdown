@@ -262,7 +262,8 @@ Indien de subsidie meer dan € 25.000 bedraagt verleent de minister voornoemd 
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip dat het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md) in werking treedt.  
+1.  Deze regeling treedt in werking op het tijdstip dat het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md) in werking treedt.   
+2.  Deze regeling vervalt met ingang van 1 januari 2017.   
 
 ### Artikel  27  
 

@@ -191,7 +191,8 @@ c. 1/3 van het verleende subsidiebedrag indien het een aanvraag voor drie jaar b
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2016.   
 
 ### Artikel  18  
 

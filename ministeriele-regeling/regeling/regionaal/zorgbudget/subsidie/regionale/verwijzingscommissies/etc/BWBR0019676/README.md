@@ -38,17 +38,17 @@ k. REC: regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de 
 
 ### Hoofdstuk  1  
 
-####Regionaal zorgbudget en subsidie regionale verwijzingscommissies voortgezet onderwijs 2011
+####Regionaal zorgbudget en subsidie regionale verwijzingscommissies voortgezet onderwijs 2013
 
 ### Artikel  2  
 
-De hoogte van het bedrag per leerling voor de berekening van het regionaal zorgbudget voor de periode 1-1-2011 tot en met 31-12-2011 is € 227,–.  
+De hoogte van het bedrag per leerling voor de berekening van het regionaal zorgbudget voor de periode 1-1-2013 tot en met 31-12-2013 is € 228,–.  
 
 ### Artikel  3  
 
 ####Subsidie RVC’s
 
-Voor de werkzaamheden van een RVC verstrekt de minister, binnen door de begrotingswetgever ter beschikking gestelde middelen, voor het kalenderjaar 2011 een subsidie van € 150.000,– per RVC en een aanvullende bekostiging van € 22,– per leerling. Op de subsidie van € 150.000,– per RVC wordt een bedrag in mindering gebracht ter grootte van de niet bestede gelden van de subsidie die over 2009 aan dat RVC verstrekt is. De hoogte van het in mindering te brengen bedrag wordt door de minister vastgesteld op basis van de jaarrekening over 2009.  
+Voor de werkzaamheden van een RVC verstrekt de minister, binnen door de begrotingswetgever ter beschikking gestelde middelen, voor het kalenderjaar 2013 een subsidie van € 150.000,– per RVC en een aanvullende bekostiging van € 22,– per leerling. Op de subsidie van € 150.000,– per RVC wordt een bedrag in mindering gebracht ter grootte van de niet bestede gelden van de subsidie die over 2011 aan dat RVC verstrekt is. De hoogte van het in mindering te brengen bedrag wordt door de minister vastgesteld op basis van de jaarrekening over 2011.  
 
 ### Hoofdstuk  2  
 
@@ -120,7 +120,8 @@ De hoogte van het bedrag per leerling voor de berekening van de aanvullende beko
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2016.   
 
 ### Artikel  12  
 

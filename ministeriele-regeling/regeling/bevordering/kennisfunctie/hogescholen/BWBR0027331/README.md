@@ -210,7 +210,8 @@ De subsidieontvanger houdt bij de bedrijfsvoering rekening met de tijdelijkheid 
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2015.   
 
 ### Artikel  23  
 

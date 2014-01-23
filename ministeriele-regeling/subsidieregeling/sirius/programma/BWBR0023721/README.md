@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 4, van de Wet overige OCW-subsidies](../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op artikel 4, van de Wet overige OCW-subsidies;
 Besluit:     
 ### 1  
 
@@ -22,7 +22,7 @@ Besluit:
 
 ####Subsidieontvanger
 
-Subsidie wordt verleend aan een bekostigde instelling voor hoger onderwijs, opgenomen in de [onderdelen a tot en met h van de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Subsidie wordt verleend aan een bekostigde instelling voor hoger onderwijs, opgenomen in de onderdelen a tot en met h van de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  3  
 
@@ -196,7 +196,8 @@ De Minister verleent de subsidieontvangers jaarlijks een voorschot van maximaal 
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2017.   
 
 ### Artikel  21  
 

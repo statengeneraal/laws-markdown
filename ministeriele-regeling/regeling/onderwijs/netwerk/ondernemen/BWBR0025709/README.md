@@ -390,7 +390,8 @@ De [Regeling OCW-subsidies](../../../../../../ministeriele-regeling/regeling/ocw
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2016.   
 
 ### Artikel  26  
 
@@ -405,16 +406,16 @@ R.H.A.Plasterk
 
 ### Bijlage  1  
 
+![246944](http://wetten.overheid.nl/Illustration/246944)
+![246945](http://wetten.overheid.nl/Illustration/246945)
+![246946](http://wetten.overheid.nl/Illustration/246946)
+![246947](http://wetten.overheid.nl/Illustration/246947)
+![246948](http://wetten.overheid.nl/Illustration/246948)
+![246949](http://wetten.overheid.nl/Illustration/246949)
+![246950](http://wetten.overheid.nl/Illustration/246950)
 ![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
-![246951](http://wetten.overheid.nl/Illustration/246951)
+![246952](http://wetten.overheid.nl/Illustration/246952)
+![246953](http://wetten.overheid.nl/Illustration/246953)
 
 ### Bijlage  2  
 

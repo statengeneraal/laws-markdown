@@ -61,7 +61,8 @@ Deze regeling zal met de toelichting in Uitleg OCenW-Regelingen worden geplaatst
 
 ####In werkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2003.  
+1.  Deze regeling treedt in werking met ingang van 1 augustus 2003.   
+2.  Deze regeling vervalt met ingang van 1 augustus 2014.   
 
 ### Artikel  8  
 

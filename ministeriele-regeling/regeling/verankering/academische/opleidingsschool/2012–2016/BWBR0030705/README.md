@@ -164,7 +164,8 @@ Het subsidiebedrag wordt in gelijke gedeelten van € 70.000 per jaar aan de su
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2018.   
 
 ### Artikel  19  
 

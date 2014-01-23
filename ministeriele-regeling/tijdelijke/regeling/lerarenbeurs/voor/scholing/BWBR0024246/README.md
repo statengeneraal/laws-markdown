@@ -326,7 +326,8 @@ c. informatie waaruit blijkt dat de aanvrager voldoet aan artikel 3, tweede lid,
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juni 2008.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juni 2008.   
+2.  Deze regeling vervalt met ingang van 1 januari 2017.   
 
 ### Artikel  24  
 
