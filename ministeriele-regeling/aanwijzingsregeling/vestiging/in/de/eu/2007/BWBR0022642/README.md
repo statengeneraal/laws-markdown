@@ -12,12 +12,12 @@ In deze regeling wordt verstaan onder:
 
 a. richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);  
 
-b. Kamer: de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md).    
+b. Kamer: de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md).   
 
 ### Artikel  2  
 
 1.  Als instantie, bevoegd tot het op verzoek afgeven van een verklaring van daadwerkelijke en geoorloofde uitoefening in Nederland van een van de in Bijlage IV van de richtlijn vermelde werkzaamheden, wordt aangewezen de kamer in het gebied waarin de werkzaamheden van de aanvrager geheel of in hoofdzaak hebben plaatsgevonden.   
-2.  In afwijking van het eerste lid kan een kamer in het gebied waarin de werkzaamheden van de aanvrager geheel of in hoofdzaak hebben plaatsgevonden de verklaring laten afgeven door een andere kamer indien bij eerstgenoemde kamer slechts incidenteel verzoeken om de in het eerste lid bedoelde verklaringen worden ingediend.   
+2.  In afwijking van het eerste lid kan een kamer in het gebied waarin de werkzaamheden van de aanvrager geheel of in hoofdzaak hebben plaatsgevonden de verklaring laten afgeven door een andere kamer indien bij eerstgenoemde kamer slechts incidenteel verzoeken om de in het eerste lid bedoelde verklaringen worden ingediend.  
 
 ### Artikel  3  
 
@@ -28,23 +28,23 @@ b. Kamer: de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer 
 
 – het feit dat er geen faillissement heeft plaatsgehad,  
 
-– de aard en de duur van de in de landen van herkomst uitgeoefende beroepswerkzaamheden (PbEG C 81).     
+– de aard en de duur van de in de landen van herkomst uitgeoefende beroepswerkzaamheden (PbEG C 81).    
 
 ### Artikel  4  
 
-Een verklaring, verleend op grond van de [Aanwijzingsregeling vestiging in de EU](../../../../../../../../ministeriele-regeling/aanwijzingsregeling/vestiging/in/de/eu/BWBR0012577/README.md), wordt aangemerkt als een verklaring als bedoeld in artikel 3.  
+Een verklaring, verleend op grond van de [Aanwijzingsregeling vestiging in de EU](../../../../../../../../ministeriele-regeling/aanwijzingsregeling/vestiging/in/de/eu/BWBR0012577/README.md), wordt aangemerkt als een verklaring als bedoeld in artikel 3. 
 
 ### Artikel  5  
 
-De [Aanwijzingsregeling vestiging in de EU](../../../../../../../../ministeriele-regeling/aanwijzingsregeling/vestiging/in/de/eu/BWBR0012577/README.md) wordt ingetrokken.  
+De [Aanwijzingsregeling vestiging in de EU](../../../../../../../../ministeriele-regeling/aanwijzingsregeling/vestiging/in/de/eu/BWBR0012577/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 20 oktober 2007.  
+Deze regeling treedt in werking met ingang van 20 oktober 2007. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Aanwijzingsregeling vestiging in de EU 2007.  
+Deze regeling wordt aangehaald als: Aanwijzingsregeling vestiging in de EU 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -52,4 +52,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

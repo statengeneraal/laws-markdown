@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Justitie van 8 juli 1974, Stafafdeling Wetgeving Publiekrecht, nr. 336/674, gedaan mede namens de Staatssecretaris van Economische Zaken;
 
-Gelet op [artikel 7 *b*, zevende lid, van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
+Gelet op [artikel 7*b*, zevende lid, van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
 
 De Raad van State gehoord (advies van 24 juli 1974, nr. 8);
 
@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het bedrag, dat ingevolge [artikel 7 *b*, zevende lid, van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bij het indienen van een aanvraag om een vergunning voor het houden van een winkelweekaktie moet worden betaald aan de Kamer van Koophandel, wordt vastgesteld op f 50,-.  
+Het bedrag, dat ingevolge [artikel 7*b*, zevende lid, van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bij het indienen van een aanvraag om een vergunning voor het houden van een winkelweekaktie moet worden betaald aan de Kamer van Koophandel, wordt vastgesteld op f 50,-. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip bedoeld in artikel III, eerste lid, van de Wet van 2 juli 1974 (*Stb.* 441) tot wijziging van de [Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).  
+Dit besluit treedt in werking op het tijdstip bedoeld in artikel III, eerste lid, van de Wet van 2 juli 1974 (*Stb.* 441) tot wijziging van de [Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md). 
 
 Lasten en bevelen dat dit besluit in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

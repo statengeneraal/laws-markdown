@@ -10,62 +10,62 @@ Besluit:
 
 ####Uitvoeringsregeling inkomstenbelasting 2001
 
-Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.   
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001. 
 
 ### Artikel  II  
 
 ####Uitvoeringsregeling loonbelasting 2001
 
-Wijzigt de Uitvoeringsregeling loonbelasting 2001.   
+Wijzigt de Uitvoeringsregeling loonbelasting 2001. 
 
 ### Artikel  III  
 
 ####Uitvoeringsregeling afdrachtvermindering
 
-Wijzigt de Uitvoeringsregeling afdrachtvermindering.   
+Wijzigt de Uitvoeringsregeling afdrachtvermindering. 
 
 ### Artikel  IV  
 
 ####Uitvoeringsregeling willekeurige afschrijving
 
-Wijzigt de Uitvoeringsregeling willekeurige afschrijving en investeringsaftrek Nederlandse Antillen en Aruba 2001.   
+Wijzigt de Uitvoeringsregeling willekeurige afschrijving en investeringsaftrek Nederlandse Antillen en Aruba 2001. 
 
 ### Artikel  V  
 
 ####Meldingsregeling milieu-investeringsaftrek 2001
 
-Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001.   
+Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001. 
 
 ### Artikel  VI  
 
 ####Uitvoeringsregeling Successiewet 1956
 
-Wijzigt de Uitvoeringsregeling Successiewet 1956.   
+Wijzigt de Uitvoeringsregeling Successiewet 1956. 
 
 ### Artikel  VII  
 
 ####Uitvoeringsregeling Algemene wet inzake rijksbelastingen
 
-Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.   
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994. 
 
 ### Artikel  VIII  
 
 ####Uitvoeringsregeling Belastingdienst
 
-Wijzigt de Uitvoeringsregeling Belastingdienst.   
+Wijzigt de Uitvoeringsregeling Belastingdienst. 
 
 ### Artikel  IX  
 
 ####Uitvoeringsregeling Invorderingswet 1990
 
-Wijzigt de Uitvoeringsregeling Invorderingswet 19909.   
+Wijzigt de Uitvoeringsregeling Invorderingswet 19909. 
 
 ### Artikel  X  
 
 ####Overgangsrecht
 
 1.  Met betrekking tot de afhandeling van bezwaar met betrekking tot een beschikking in de zin van [artikel 3d, tweede lid, van de Ziekenfondswet](../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md), dat voor 1 juli 2001 is ingediend bij het hoofd van de eenheid Ondernemingen Enschede, treedt het hoofd van de eenheid waaronder de belastingplichtige valt in de plaats van het hoofd van de eenheid Ondernemingen Enschede.   
-2.  Met betrekking tot belastingaanslagen die verschuldigd zijn ter zake van belastbare feiten in de zin van de [Successiewet 1956](../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) die zich hebben voorgedaan voor 1 januari 2002 blijven de op grond van artikel IX, onderdelen I en J, vervangen artikelen van de [Uitvoeringsregeling Invorderingswet 1990](../../../../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md) van toepassing zoals deze luidden op het tijdstip waarop dat belastbare feit zich heeft voorgedaan.   
+2.  Met betrekking tot belastingaanslagen die verschuldigd zijn ter zake van belastbare feiten in de zin van de [Successiewet 1956](../../../../../../../wet/successiewet/1956/BWBR0002226/README.md) die zich hebben voorgedaan voor 1 januari 2002 blijven de op grond van artikel IX, onderdelen I en J, vervangen artikelen van de [Uitvoeringsregeling Invorderingswet 1990](../../../../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md) van toepassing zoals deze luidden op het tijdstip waarop dat belastbare feit zich heeft voorgedaan.  
 
 ### Artikel  XI  
 
@@ -77,9 +77,9 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 19909.
 4.  In afwijking van het eerste lid werkt artikel VIII, onderdeel A, tweede lid, en onderdeel D, vijfde lid, terug tot en met 1 september 2001.   
 5.  In afwijking van het eerste lid werkt artikel VIII, onderdeel E, terug tot en met 1 juli 2001.   
 6.  In afwijking van het eerste lid werkt artikel VIII, onderdeel H, tweede, achtste, dertiende en negentiende lid, terug tot en met 1 januari 1997.   
-7.  In afwijking van het eerste lid werkt artikel VIII, onderdeel H, zeventiende lid, terug tot en met 5 juni 1998.   
+7.  In afwijking van het eerste lid werkt artikel VIII, onderdeel H, zeventiende lid, terug tot en met 5 juni 1998.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Financiën, 
-W.Bos    
+W. Bos      

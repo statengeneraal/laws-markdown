@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. EG-besluit: bindend besluit van de Raad van de Europese Unie, van het Europese Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen;  
 
@@ -36,7 +36,7 @@ i. in gebruik nemen: eerste gebruik van een voor een eindgebruiker bestemd meeti
 
 j. aangewezen instantie: ingevolge artikel 12 aangewezen instantie;  
 
-k. toezichthoudende instantie: op grond van artikel 27, eerste lid, aangewezen rechtspersoon.    
+k. toezichthoudende instantie: op grond van artikel 27, eerste lid, aangewezen rechtspersoon.   
 
 ### Hoofdstuk  2  
 
@@ -48,7 +48,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 a. het symbool, de aanduiding, de omschrijving en het gebruik van een meeteenheid;  
 
-b. de benaming en de meetstandaard van een grootheid.    
+b. de benaming en de meetstandaard van een grootheid.   
 
 ### Artikel  3  
 
@@ -68,7 +68,7 @@ c. de instelling niet meer voldoet aan de in het tweede lid bedoelde eisen;
 
 d. de instelling niet voldoet aan andere uit deze wet voortvloeiende verplichtingen.     
 4.  Een op grond van het eerste lid aangewezen instelling herleidt de meetstandaarden van aangewezen instanties en toezichthouders op hun verzoek naar de nationale meetstandaard van de betrokken grootheid.   
-5.  Onze Minister kan een instelling aanwijzingen geven met betrekking tot de uitoefening van haar taak.   
+5.  Onze Minister kan een instelling aanwijzingen geven met betrekking tot de uitoefening van haar taak.  
 
 ### Artikel  4  
 
@@ -78,7 +78,7 @@ a. toezicht uit te oefenen op de verwezenlijking en het beheer van nationale mee
 
 b. advies uit te brengen over aangelegenheden in verband met de meetstandaarden van grootheden.     
 2.  De raad wordt door Onze Minister in de gelegenheid gesteld zijn zienswijze te geven over het voornemen tot een aanwijzing of tot een intrekking van een aanwijzing op grond van artikel 3.   
-3.  De raad bestaat uit ten hoogste negen leden.   
+3.  De raad bestaat uit ten hoogste negen leden.  
 
 ### Hoofdstuk  3  
 
@@ -96,12 +96,12 @@ c. de aanwijzing van normen die overeenkomen met geharmoniseerde Europese normen
 
 d. de merktekens waaruit blijkt dat een meetinstrument voldoet aan de gestelde eisen, alsmede andere merktekens en opschriften.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de overeenstemmingsbeoordelingen van meetinstrumenten, alsmede omtrent het aanbrengen van de merktekens en opschriften en de aanwijzing van degenen die daartoe bevoegd zijn.   
-3.  In de in het eerste en tweede lid bedoelde regels kan onderscheid worden gemaakt tussen het in de handel brengen, in gebruik nemen, verhandelen en het gebruik van meetinstrumenten.   
+3.  In de in het eerste en tweede lid bedoelde regels kan onderscheid worden gemaakt tussen het in de handel brengen, in gebruik nemen, verhandelen en het gebruik van meetinstrumenten.  
 
 ### Artikel  6  
 
 1.  Een geregeld meetinstrument ondergaat een voor dat meetinstrument op grond van artikel 5 voorgeschreven overeenstemmingsbeoordeling voordat het in de handel wordt gebracht of in gebruik wordt genomen.   
-2.  Met meetinstrumenten die een in het eerste lid bedoelde overeenstemmingsbeoordeling hebben ondergaan, worden gelijkgesteld meetinstrumenten die in een andere lidstaat van de Europese Unie dan wel in een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, rechtmatig zijn geproduceerd of in de handel zijn gebracht en die door een gelijkwaardige, door die staat erkende instantie op hun overeenstemming met de gestelde eisen zijn beoordeeld, mits bij die beoordeling aan gelijkwaardige eisen is voldaan.   
+2.  Met meetinstrumenten die een in het eerste lid bedoelde overeenstemmingsbeoordeling hebben ondergaan, worden gelijkgesteld meetinstrumenten die in een andere lidstaat van de Europese Unie dan wel in een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, rechtmatig zijn geproduceerd of in de handel zijn gebracht en die door een gelijkwaardige, door die staat erkende instantie op hun overeenstemming met de gestelde eisen zijn beoordeeld, mits bij die beoordeling aan gelijkwaardige eisen is voldaan.  
 
 ### Artikel  7  
 
@@ -111,15 +111,15 @@ a. voordat het meetinstrument weer wordt gebruikt na een reparatie of een verand
 
 b. na schending van de merktekens;  
 
-c. op verzoek van de eigenaar of de gebruiker.    
+c. op verzoek van de eigenaar of de gebruiker.   
 
 ### Artikel  8  
 
-Een meetinstrument dat bij de overeenstemmingsbeoordeling voldoet aan de aan dat meetinstrument gestelde eisen, wordt overeenkomstig de krachtens artikel 5 gestelde regels voorzien van de voor dat meetinstrument vastgestelde merktekens en opschriften.  
+Een meetinstrument dat bij de overeenstemmingsbeoordeling voldoet aan de aan dat meetinstrument gestelde eisen, wordt overeenkomstig de krachtens artikel 5 gestelde regels voorzien van de voor dat meetinstrument vastgestelde merktekens en opschriften. 
 
 ### Artikel  9  
 
-Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de handel brengen, verhandelen of in gebruik nemen van andere meetinstrumenten dan geregelde meetinstrumenten, in verband met de uitvoering van een EG-besluit, regels als bedoeld in artikel 5, eerste lid, onderdelen a tot en met d, en tweede lid, worden vastgesteld.  
+Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de handel brengen, verhandelen of in gebruik nemen van andere meetinstrumenten dan geregelde meetinstrumenten, in verband met de uitvoering van een EG-besluit, regels als bedoeld in artikel 5, eerste lid, onderdelen a tot en met d, en tweede lid, worden vastgesteld. 
 
 ### Hoofdstuk  4  
 
@@ -131,48 +131,48 @@ Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de
 
 ### Artikel  10  
 
-Bij of krachtens algemene maatregel van bestuur worden de eisen vastgesteld waaraan instanties moeten voldoen die een toetsende taak in het kader van een overeenstemmingsbeoordeling uitvoeren.  
+Bij of krachtens algemene maatregel van bestuur worden de eisen vastgesteld waaraan instanties moeten voldoen die een toetsende taak in het kader van een overeenstemmingsbeoordeling uitvoeren. 
 
 ### Artikel  11  
 
 1.  Bij ministeriële regeling kan worden bepaald dat een aangewezen instantie volgens bij die regeling vastgestelde regels een natuurlijke persoon of een rechtspersoon een erkenning kan verlenen om bepaalde werkzaamheden uit te voeren in het kader van een overeenstemmingsbeoordeling van in gebruik genomen meetinstrumenten.   
-2.  In de in het eerste lid bedoelde regels wordt bepaald op welke wijze bekendheid wordt gegeven aan een verleende of ingetrokken erkenning.   
+2.  In de in het eerste lid bedoelde regels wordt bepaald op welke wijze bekendheid wordt gegeven aan een verleende of ingetrokken erkenning.  
 
 ### Artikel  12  
 
 1.  Onze Minister wijst de instanties aan die bevoegd zijn tot het uitvoeren van een toetsende taak in het kader van een overeenstemmingsbeoordeling van een meetinstrument. Hij kan daarbij bepalen dat de instantie een bevoegdheid heeft een erkenning als bedoeld in artikel 11, eerste lid, te verlenen.   
 2.  Voor aanwijzing komt in aanmerking een instantie die een daartoe strekkende aanvraag doet en die voldoet aan de krachtens artikel 10 gestelde eisen.   
 3.  Aan een aanwijzing kunnen voorschriften worden verbonden.   
-4.  Indien door de Commissie van de Europese Gemeenschappen een kenmerk of identificatienummer voor de aangewezen instantie is vastgesteld, wordt dit opgenomen in de aanwijzing. Voorts kan in de aanwijzing een vastgesteld nationaal kenmerk of identificatienummer voor de aangewezen instantie worden opgenomen.   
+4.  Indien door de Europese Commissie een kenmerk of identificatienummer voor de aangewezen instantie is vastgesteld, wordt dit opgenomen in de aanwijzing. Voorts kan in de aanwijzing een vastgesteld nationaal kenmerk of identificatienummer voor de aangewezen instantie worden opgenomen.   
 5.  Onze Minister trekt een aanwijzing in indien: 
 
 a. de aangewezen instantie daarom verzoekt;  
 
 b. de aangewezen instantie niet langer voldoet aan de krachtens artikel 10 gestelde eisen;  
 
-c. de aangewezen instantie de haar op grond van deze wet toegekende taken verwaarloost.     
+c. de aangewezen instantie de haar op grond van deze wet toegekende taken verwaarloost.    
 
 ### Artikel  13  
 
 1.  Onze Minister doet van de aanwijzing van een instantie mededeling in de Staatscourant onder vermelding van de procedures van overeenstemmingsbeoordeling, het meetinstrument waarvoor de bevoegdheid is verleend en in voorkomend geval van de bevoegdheid een erkenning als bedoeld in artikel 11, eerste lid, te verlenen.   
-2.  Het eerste lid is van overeenkomstige toepassing op de intrekking van een aanwijzing.   
+2.  Het eerste lid is van overeenkomstige toepassing op de intrekking van een aanwijzing.  
 
 ### Artikel  14  
 
-Onze Minister kan regels stellen met betrekking tot de taakuitoefening en de werkwijze van aangewezen instanties en van personen aan wie een erkenning als bedoeld in artikel 11 is verleend.  
+Onze Minister kan regels stellen met betrekking tot de taakuitoefening en de werkwijze van aangewezen instanties en van personen aan wie een erkenning als bedoeld in artikel 11 is verleend. 
 
 ### Artikel  15  
 
-Onze Minister kan ook na de aanwijzing van een instantie voorschriften verbinden aan de aanwijzing of de daaraan verbonden voorschriften wijzigen, indien dat als gevolg van een EG-besluit of de technische ontwikkeling noodzakelijk is.  
+Onze Minister kan ook na de aanwijzing van een instantie voorschriften verbinden aan de aanwijzing of de daaraan verbonden voorschriften wijzigen, indien dat als gevolg van een EG-besluit of de technische ontwikkeling noodzakelijk is. 
 
 ### Artikel  16  
 
 1.  Een aangewezen instantie verstrekt Onze Minister alle informatie die hij nodig heeft voor de uitoefening van zijn taak. Onze Minister kan inzage vorderen van de zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-2.  Een aangewezen instantie is verplicht Onze Minister of een door hem daartoe aangezochte deskundige of instelling gelegenheid te geven, na te gaan of de aangewezen instantie voldoet aan de gestelde eisen en voorschriften.   
+2.  Een aangewezen instantie is verplicht Onze Minister of een door hem daartoe aangezochte deskundige of instelling gelegenheid te geven, na te gaan of de aangewezen instantie voldoet aan de gestelde eisen en voorschriften.  
 
 ### Artikel  17  
 
-Met een aangewezen instantie als bedoeld in artikel 12 wordt gelijkgesteld een door een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte bij de Commissie van de Europese Gemeenschappen aangemelde instantie die bevoegd is tot het uitvoeren van toetsende werkzaamheden in het kader van dezelfde procedures van overeenstemmingsbeoordeling van het desbetreffende meetinstrument.  
+Met een aangewezen instantie als bedoeld in artikel 12 wordt gelijkgesteld een door een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte bij de Europese Commissie aangemelde instantie die bevoegd is tot het uitvoeren van toetsende werkzaamheden in het kader van dezelfde procedures van overeenstemmingsbeoordeling van het desbetreffende meetinstrument. 
 
 ### Paragraaf  2  
 
@@ -191,7 +191,7 @@ c. de door instanties te hanteren tarieven;
 
 d. het toezicht op de instanties;  
 
-e. de vergoeding van kosten van aanwijzing en toezicht.     
+e. de vergoeding van kosten van aanwijzing en toezicht.    
 
 ### Paragraaf  3  
 
@@ -199,17 +199,17 @@ e. de vergoeding van kosten van aanwijzing en toezicht.
 
 ### Artikel  19  
 
-Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding door de aangewezen instantie van de kosten voor de werkzaamheden voortvloeiende uit de toepassing van de artikelen 12 en 16, tweede lid.  
+Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding door de aangewezen instantie van de kosten voor de werkzaamheden voortvloeiende uit de toepassing van de artikelen 12 en 16, tweede lid. 
 
 ### Artikel  20  
 
 1.  Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor de door hen verrichte werkzaamheden in het kader van de overeenstemmingsbeoordeling van een meetinstrument. Daarbij kunnen voor verschillende werkzaamheden verschillende tarieven worden vastgesteld.   
-2.  Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor hun werkzaamheden in verband met het verlenen van een erkenning als bedoeld in artikel 11.   
+2.  Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor hun werkzaamheden in verband met het verlenen van een erkenning als bedoeld in artikel 11.  
 
 ### Artikel  21  
 
 1.  Een aangewezen instantie zendt jaarlijks voor 1 juni een verslag van de werkzaamheden in het afgelopen kalenderjaar aan Onze Minister.   
-2.  Bij ministeriële regeling kunnen nadere eisen worden gesteld aan het verslag.   
+2.  Bij ministeriële regeling kunnen nadere eisen worden gesteld aan het verslag.  
 
 ### Hoofdstuk  5  
 
@@ -226,7 +226,7 @@ Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding doo
 a. een grootheid uit te drukken in een andere meeteenheid dan de meeteenheid die krachtens artikel 2 voor die grootheid is vastgesteld;  
 
 b. voor een grootheid een benaming te bezigen in strijd met de krachtens artikel 2 gestelde regels.     
-2.  Bij ministeriële regeling kunnen gevallen of omstandigheden worden bepaald waarin het in het eerste lid bedoelde verbod niet geldt.   
+2.  Bij ministeriële regeling kunnen gevallen of omstandigheden worden bepaald waarin het in het eerste lid bedoelde verbod niet geldt.  
 
 ### Artikel  23  
 
@@ -235,7 +235,7 @@ b. voor een grootheid een benaming te bezigen in strijd met de krachtens artikel
 3.  Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen of omstandigheden een vrijstelling geldt van het in het eerste, onderscheidenlijk het tweede lid, opgenomen verbod.   
 4.  Onze Minister kan ontheffing verlenen van het in het eerste lid, onderscheidenlijk, het tweede lid, opgenomen verbod.   
 5.  Een vrijstelling of ontheffing kan onder beperkingen worden verleend. Aan een vrijstelling of een ontheffing kunnen voorschriften worden verbonden.   
-6.  Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding van de kosten voor de behandeling van een aanvraag om ontheffing, alsmede omtrent de wijze van betaling.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding van de kosten voor de behandeling van een aanvraag om ontheffing, alsmede omtrent de wijze van betaling.  
 
 ### Artikel  24  
 
@@ -251,22 +251,22 @@ a. is voorzien van een afkeurmerkteken als bedoeld in artikel 34 of
 b. ingevolge artikel 7, onderdelen a of b, een overeenstemmingsbeoordeling moet ondergaan.     
 3.  Het is verboden anders dan overeenkomstig de krachtens artikel 5, eerste lid, onderdeel b, gestelde regels gebruik te maken van een geregeld meetinstrument voor de geregelde meettaak waarvoor het is bestemd.   
 4.  Bij ministeriële regeling kan worden bepaald dat voor een meetinstrument, al dan niet in daarbij aangegeven gevallen of omstandigheden, zonodig onder beperkingen, een vrijstelling geldt of een ontheffing kan worden verleend van het in het eerste, tweede, of derde lid, opgenomen verbod. Aan een vrijstelling of een ontheffing kunnen voorschriften worden verbonden.   
-5.  Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding van de kosten voor de behandeling van een aanvraag om ontheffing, alsmede omtrent de wijze van betaling.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding van de kosten voor de behandeling van een aanvraag om ontheffing, alsmede omtrent de wijze van betaling.  
 
 ### Artikel  25  
 
 1.  Het is verboden een meetinstrument van een merkteken te voorzien in strijd met artikel 8 en de krachtens artikel 5, eerste en tweede lid, of, in voorkomend geval krachtens artikel 9, ten aanzien van dat instrument gestelde regels.   
-2.  Het is verboden een meetinstrument te voorzien van een merkteken of opschrift dat kan leiden tot verwarring met krachtens de artikelen 5, eerste lid, onderdeel d, of 9 voorgeschreven merktekens en opschriften.   
+2.  Het is verboden een meetinstrument te voorzien van een merkteken of opschrift dat kan leiden tot verwarring met krachtens de artikelen 5, eerste lid, onderdeel d, of 9 voorgeschreven merktekens en opschriften.  
 
 ### Artikel  26  
 
-De in artikel 9 bedoelde regels kunnen een verbod inhouden om meetinstrumenten die niet aan de daarin gestelde eisen voldoen, in de handel te brengen, in gebruik te nemen of te verhandelen.  
+De in artikel 9 bedoelde regels kunnen een verbod inhouden om meetinstrumenten die niet aan de daarin gestelde eisen voldoen, in de handel te brengen, in gebruik te nemen of te verhandelen. 
 
 ### Hoofdstuk  6  
 
 ####Toezicht en maatregelen
 
-### Paragraaf  1  
+### Paragraaf   1  
 
 ####Toezichthoudende instantie
 
@@ -290,32 +290,32 @@ a. de rechtspersoon daarom verzoekt;
 b. de rechtspersoon zijn taak niet naar behoren uitoefent of zijn verplichtingen op grond van deze wet niet naleeft;  
 
 c. de rechtspersoon niet meer voldoet aan de in het tweede lid opgenomen eisen.     
-5.  Van een beschikking tot aanwijzing of tot intrekking van een aanwijzing wordt mededeling gedaan in de Staatscourant.   
+5.  Van een beschikking tot aanwijzing of tot intrekking van een aanwijzing wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  28  
 
 1.  Onze Minister kan, in voorkomend geval na overleg met Onze Minister wie het mede aangaat, ten aanzien van een meetinstrument of ten behoeve van een meettaak in plaats van de in artikel 27 bedoelde rechtspersoon een andere instelling belasten met de zorg voor een of meer onderdelen van het toezicht, bedoeld in artikel 27, eerste lid.   
 2.  De artikelen 29 tot en met 34, 35, eerste lid, en 36 zijn van overeenkomstige toepassing.   
-3.  Een instelling als bedoeld in het eerste lid verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
-4.  Onze Minister oefent zijn bevoegdheden ten aanzien van de instelling, bedoeld in het eerste lid, uit na overleg met Onze Minister onder wiens verantwoordelijkheid de instelling ressorteert.   
+3.  Een instelling als bedoeld in het eerste lid verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
+4.  Onze Minister oefent zijn bevoegdheden ten aanzien van de instelling, bedoeld in het eerste lid, uit na overleg met Onze Minister onder wiens verantwoordelijkheid de instelling ressorteert.  
 
 ### Artikel  29  
 
 1.  De toezichthoudende instantie wijst werknemers aan die zijn belast met het toezicht, bedoeld in artikel 27, eerste lid.   
-2.  Een besluit tot aanwijzing van werknemers als bedoeld in het eerste lid wordt door de aangewezen rechtspersoon aan Onze Minister medegedeeld en in de Staatscourant geplaatst.   
+2.  Een besluit tot aanwijzing van werknemers als bedoeld in het eerste lid wordt door de aangewezen rechtspersoon aan Onze Minister medegedeeld en in de Staatscourant geplaatst.  
 
 ### Artikel  30  
 
 1.  De op grond van artikel 29, eerste lid, aangewezen werknemers oefenen zonodig de in [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde bevoegdheid uit met behulp van de sterke arm.   
-2.  De op grond van artikel 29, eerste lid, aangewezen werknemers mogen bij het toezicht in hun oordeel betrekken de bevindingen van personen, die in de uitoefening van een beroep of bedrijf meetinstrumenten controleren of onderhouden, indien de toezichthoudende instantie zich er van heeft verzekerd dat die personen over de vereiste deskundigheid beschikken en de onafhankelijkheid van het toezicht niet in het geding is.   
+2.  De op grond van artikel 29, eerste lid, aangewezen werknemers mogen bij het toezicht in hun oordeel betrekken de bevindingen van personen, die in de uitoefening van een beroep of bedrijf meetinstrumenten controleren of onderhouden, indien de toezichthoudende instantie zich er van heeft verzekerd dat die personen over de vereiste deskundigheid beschikken en de onafhankelijkheid van het toezicht niet in het geding is.  
 
 ### Artikel  31  
 
-Onze Minister kan, indien een EG-besluit daartoe noodzaakt, de toezichthoudende instantie opdragen gebruik te maken van haar bevoegdheden om de naleving van deze wet af te dwingen.  
+Onze Minister kan, indien een EG-besluit daartoe noodzaakt, de toezichthoudende instantie opdragen gebruik te maken van haar bevoegdheden om de naleving van deze wet af te dwingen. 
 
 ### Artikel  33  
 
-Bij ministeriële regeling worden regels gesteld omtrent de gegevensverstrekking door de toezichthoudende instantie aan aangewezen instanties en aan de instanties die in andere lidstaten van de Europese Unie of in een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte belast zijn met het toezicht op de naleving van regels op het terrein van de metrologie die voortvloeien uit een EG-besluit.  
+Bij ministeriële regeling worden regels gesteld omtrent de gegevensverstrekking door de toezichthoudende instantie aan aangewezen instanties en aan de instanties die in andere lidstaten van de Europese Unie of in een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte belast zijn met het toezicht op de naleving van regels op het terrein van de metrologie die voortvloeien uit een EG-besluit. 
 
 ### Paragraaf  2  
 
@@ -324,17 +324,17 @@ Bij ministeriële regeling worden regels gesteld omtrent de gegevensverstrekking
 ### Artikel  34  
 
 1.  De op grond van artikel 29 aangewezen werknemers van de toezichthoudende instantie zijn bevoegd geregelde meetinstrumenten die bij het onderzoek bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet aan de krachtens artikel 5, eerste lid, gestelde eisen voldoen, te voorzien van een afkeurmerkteken.   
-2.  Het model van het in het eerste lid bedoelde afkeurmerkteken wordt bij ministeriële regeling vastgesteld.   
+2.  Het model van het in het eerste lid bedoelde afkeurmerkteken wordt bij ministeriële regeling vastgesteld.  
 
 ### Artikel  35  
 
 1.  De toezichthoudende instantie is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de artikelen 22 tot en met 25 en de krachtens artikel 26 gestelde regels.   
-2.  De te betalen geldsom van een verbeurde dwangsom komt toe aan de Staat.   
+2.  De te betalen geldsom van een verbeurde dwangsom komt toe aan de Staat.  
 
 ### Artikel  36  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van te nemen maatregelen en te volgen procedures ingeval sprake is van overtreding van de artikelen 23 of 24 of van een krachtens artikel 26 vastgesteld verbod bij alle of een deel van de meetinstrumenten van een specifiek model, waarvoor ingevolge een EG-besluit regels krachtens artikel 5 of artikel 9 zijn gesteld.   
-2.  De toezichthoudende instantie stelt Onze Minister onverwijld in kennis van overtredingen als bedoeld in het eerste lid. Zij vermeldt daarbij tevens welke maatregelen zij heeft genomen of voornemens is te nemen ter voorkoming van verdere overtredingen.   
+2.  De toezichthoudende instantie stelt Onze Minister onverwijld in kennis van overtredingen als bedoeld in het eerste lid. Zij vermeldt daarbij tevens welke maatregelen zij heeft genomen of voornemens is te nemen ter voorkoming van verdere overtredingen.  
 
 ### Hoofdstuk  7  
 
@@ -342,7 +342,7 @@ Bij ministeriële regeling worden regels gesteld omtrent de gegevensverstrekking
 
 ### Artikel  37  
 
-Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een rechtspersoon aan wie op grond van artikel 11 een erkenning is verleend, bij de uitvoering van toetsende werkzaamheden in het kader van een overeenstemmingsbeoordeling van een meetinstrument, die als gevolg of als strekking hebben dat het instrument niet voldoet aan de gestelde eisen, worden aan de betrokkenen schriftelijk en onder opgave van redenen medegedeeld.  
+Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een rechtspersoon aan wie op grond van artikel 11 een erkenning is verleend, bij de uitvoering van toetsende werkzaamheden in het kader van een overeenstemmingsbeoordeling van een meetinstrument, die als gevolg of als strekking hebben dat het instrument niet voldoet aan de gestelde eisen, worden aan de betrokkenen schriftelijk en onder opgave van redenen medegedeeld. 
 
 ### Hoofdstuk  8  
 
@@ -350,12 +350,12 @@ Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een 
 
 ### Artikel  39  
 
-Indien krachtens artikel 5 regels zijn gesteld ten aanzien van een onderdeel van een meetinstrument, zijn de hoofdstukken 3, 4, 5 en 6 van overeenkomstige toepassing op dat onderdeel.  
+Indien krachtens artikel 5 regels zijn gesteld ten aanzien van een onderdeel van een meetinstrument, zijn de hoofdstukken 3, 4, 5 en 6 van overeenkomstige toepassing op dat onderdeel. 
 
 ### Artikel  40  
 
 1.  Onze Minister zendt elke vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid van het functioneren van de aangewezen instanties en in voorkomend geval van een krachtens artikel 28 aangewezen instelling.   
-2.  In afwijking van [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), zendt Onze Minister elke vier jaar een verslag aan de beide kamers der Staten-Generaal ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van de toezichthoudende instantie.   
+2.  In afwijking van [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), zendt Onze Minister elke vier jaar een verslag aan de beide kamers der Staten-Generaal ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van de toezichthoudende instantie.  
 
 ### Hoofdstuk  9  
 
@@ -363,19 +363,19 @@ Indien krachtens artikel 5 regels zijn gesteld ten aanzien van een onderdeel van
 
 ### Artikel  41  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.
 
 ### Artikel  42  
 
-Wijzigt de Wegenverkeerswet 1994.   
+Wijzigt de Wegenverkeerswet 1994.
 
 ### Artikel  43  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.
 
 ### Artikel  44  
 
-De [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) wordt ingetrokken.  
+De [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) wordt ingetrokken.
 
 ### Hoofdstuk  10  
 
@@ -389,23 +389,23 @@ De [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) wordt ingetrokken.
 
 1.  In afwijking van artikel 23 mogen geregelde meetinstrumenten waarop richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.   
 2.  Het eerste lid is van toepassing tot de datum waarop de geldigheidsduur van de op grond van [artikel 11a van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) afgegeven verklaring inzake de toelating van het model van het meetinstrument is verstreken, dan wel bij gebreke daaraan, tot 1 november 2016 of een door Onze Minister te bepalen eerdere datum.   
-3.  Indien voor een meetinstrument als bedoeld in het eerste lid op grond van [artikel 21b van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een vrijstelling of ontheffing is verleend, blijft deze vrijstelling of ontheffing geldig tot 1 november 2016.   
+3.  Indien voor een meetinstrument als bedoeld in het eerste lid op grond van [artikel 21b van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een vrijstelling of ontheffing is verleend, blijft deze vrijstelling of ontheffing geldig tot 1 november 2016.  
 
 ### Artikel  46  
 
 1.  In afwijking van artikel 23 mogen andere geregelde meetinstrumenten dan bedoeld in artikel 45 in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.   
-2.  Indien voor een ander geregeld meetinstrument dan bedoeld in artikel 45, eerste lid, regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van [artikel 21b](../../../wet/ijkwet/BWBR0009082/README.md) of [21c, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van artikel 44 geldig was, geëerbiedigd.   
+2.  Indien voor een ander geregeld meetinstrument dan bedoeld in artikel 45, eerste lid, regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van [artikel 21b](../../../wet/ijkwet/BWBR0009082/README.md) of [21c, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van artikel 44 geldig was, geëerbiedigd.  
 
 ### Artikel  47  
 
 1.  Indien krachtens artikel 5 regels gelden inzake het gebruik van een meetinstrument wordt bij de toepassing van artikel 24, eerste lid, onderdelen a en b, een voor de desbetreffende meettaak bestemd meetinstrument, dat onmiddellijk voorafgaande aan de inwerkingtreding van artikel 44 voldeed aan de bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) gestelde regels betreffende het gebruik, beschouwd als een geregeld meetinstrument dat voldoet aan de krachtens artikel 5 gestelde regels.   
 2.  Het eerste lid geldt tenzij bij een overeenstemmingsbeoordeling op grond van artikel 7 of anderszins blijkt dat het instrument niet aan de bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) gestelde regels voldoet.   
-3.  Bij ministeriële regeling kan voor een meetinstrument worden bepaald dat het eerste lid na een daarbij te bepalen termijn niet meer geldt.   
+3.  Bij ministeriële regeling kan voor een meetinstrument worden bepaald dat het eerste lid na een daarbij te bepalen termijn niet meer geldt.  
 
 ### Artikel  48  
 
 1.  Bij de toepassing van de artikelen 45, 46 en 47 worden de in [artikel 22, eerste lid, onderdeel a, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) bedoelde taken en bevoegdheden van de ijkinstelling uitgevoerd door een aangewezen instantie als bedoeld in artikel 12, die bevoegd is tot het verrichten van toetsende werkzaamheden ten aanzien van het desbetreffende meetinstrument, tenzij krachtens artikel 51 anders is bepaald.   
-2.  De op grond van artikel 27 aangewezen rechtspersoon draagt zorg voor het toezicht op de naleving van de artikelen 45, 46 en 47.   
+2.  De op grond van artikel 27 aangewezen rechtspersoon draagt zorg voor het toezicht op de naleving van de artikelen 45, 46 en 47.  
 
 ### Artikel  49  
 
@@ -417,17 +417,17 @@ De [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) wordt ingetrokken.
 a. de in het derde lid bedoelde werkzaamheden tot 1 november 2016 te verrichten;  
 
 b. de werkzaamheden die ingevolge de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) tot zijn bevoegdheid behoorden ten aanzien van de in artikel 47 bedoelde meetinstrumenten te verrichten.     
-5.  De rechtspersoon die op grond van [artikel 22 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) was aangewezen als ijkinstelling draagt ten behoeve van de uitvoering van dit artikel of op verzoek van de ijkbevoegde, de archiefbescheiden inzake een erkenning op grond van [artikel 26 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) over aan de aangewezen instantie, bedoeld in het tweede lid, of aan de aangewezen instantie bij wie degene die over de erkenning beschikte een aanvraag tot erkenning als bedoeld in artikel 11 doet.   
+5.  De rechtspersoon die op grond van [artikel 22 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) was aangewezen als ijkinstelling draagt ten behoeve van de uitvoering van dit artikel of op verzoek van de ijkbevoegde, de archiefbescheiden inzake een erkenning op grond van [artikel 26 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) over aan de aangewezen instantie, bedoeld in het tweede lid, of aan de aangewezen instantie bij wie degene die over de erkenning beschikte een aanvraag tot erkenning als bedoeld in artikel 11 doet.  
 
 ### Artikel  50  
 
 1.  Op aanvragen om een toelating van een model als bedoeld in [artikel 11a, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md), verzoeken om ontheffing als bedoeld in de [artikelen 21b](../../../wet/ijkwet/BWBR0009082/README.md) en [21c van die wet](../../../wet/ijkwet/BWBR0009082/README.md) en aanvragen om erkenning van ijkbevoegdheid als bedoeld in [artikel 26 van die wet](../../../wet/ijkwet/BWBR0009082/README.md), waarop nog geen besluit is genomen op het tijdstip van inwerkingtreding van artikel 44, wordt beslist met toepassing van het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip.   
 2.  Ten aanzien van bezwaarschriftprocedures, beroepsprocedures en andere gerechtelijke procedures waarin op het tijdstip van inwerkingtreding van artikel 44 nog geen definitief bindende beslissing is genomen, blijft het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip van toepassing.   
-3.  De op grond van [artikel 22 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) aangewezen rechtspersoon blijft voor de toepassing van dit artikel fungeren als ijkinstelling.   
+3.  De op grond van [artikel 22 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) aangewezen rechtspersoon blijft voor de toepassing van dit artikel fungeren als ijkinstelling.  
 
 ### Artikel  51  
 
-Indien een of meer van de artikelen 1 tot en met 42 eerder in werking treden dan artikel 44, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met het oog op de afstemming van uit de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) en uit deze wet voortvloeiende taken, rechten en verplichtingen.  
+Indien een of meer van de artikelen 1 tot en met 42 eerder in werking treden dan artikel 44, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met het oog op de afstemming van uit de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) en uit deze wet voortvloeiende taken, rechten en verplichtingen. 
 
 ### Paragraaf  2  
 
@@ -435,11 +435,11 @@ Indien een of meer van de artikelen 1 tot en met 42 eerder in werking treden dan
 
 ### Artikel  52  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  53  
 
-Deze wet wordt aangehaald als: Metrologiewet.  
+Deze wet wordt aangehaald als: Metrologiewet. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -447,7 +447,7 @@ Gegeven te ’s-Gravenhage
 2 februari 2006  
 Beatrix  
 
-De Minister van Economische Zaken , 
+De Minister van Economische Zaken ,  
 L. J. Brinkhorst   
 
 de *zestiende* maart 2006 

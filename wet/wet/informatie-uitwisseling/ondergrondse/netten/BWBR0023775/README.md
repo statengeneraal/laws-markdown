@@ -14,9 +14,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);  
 
@@ -50,8 +50,8 @@ p. liggingsgegevens: de gegevens omtrent de ligging van een net binnen de betrok
 
 q. net met gevaarlijke inhoud: een buisleiding die behoort tot een krachtens [artikel 12.12, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie;  
 
-r. gebiedsinformatie: het geheel van informatie dat door beheerders, ingevolge artikel 10, eerste lid, aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon.     
-2.  Onder net als bedoeld in het eerste lid, onderdeel e, wordt niet begrepen de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).   
+r. gebiedsinformatie: het geheel van informatie dat door beheerders, ingevolge artikel 10, eerste lid, aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon.    
+2.  Onder net als bedoeld in het eerste lid, onderdeel e, wordt niet begrepen de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -67,12 +67,12 @@ a. vóór aanvang van de graafwerkzaamheden een graafmelding is gedaan,
 
 b. onderzoek is verricht naar de precieze ligging van onderdelen van netten op de graaflocatie, en  
 
-c. op de graaflocatie de van de Dienst ontvangen gebiedsinformatie aanwezig is.     
+c. op de graaflocatie de van de Dienst ontvangen gebiedsinformatie aanwezig is.    
 
 ### Artikel  3  
 
 1.  De aanleg, de instandhouding en de opruiming van netten door een beheerder geschieden op zodanige wijze dat het beheer van andere netten niet in gevaar wordt gebracht of zonder noodzaak wordt bemoeilijkt.   
-2.  De beheerder die in strijd handelt met het eerste lid, neemt op eigen kosten maatregelen ten aanzien van het betreffende onderdeel van zijn net, waaronder zonodig het verplaatsen daarvan, om aan de strijdigheid onverwijld een einde te maken.   
+2.  De beheerder die in strijd handelt met het eerste lid, neemt op eigen kosten maatregelen ten aanzien van het betreffende onderdeel van zijn net, waaronder zonodig het verplaatsen daarvan, om aan de strijdigheid onverwijld een einde te maken.  
 
 ### Hoofdstuk  3  
 
@@ -80,7 +80,7 @@ c. op de graaflocatie de van de Dienst ontvangen gebiedsinformatie aanwezig is.
 
 ### Artikel  4  
 
-Er is een elektronisch informatiesysteem waarmee informatie tussen beheerders enerzijds en opdrachtgevers, grondroerders en bestuursorganen anderzijds wordt uitgewisseld.  
+Er is een elektronisch informatiesysteem waarmee informatie tussen beheerders enerzijds en opdrachtgevers, grondroerders en bestuursorganen anderzijds wordt uitgewisseld. 
 
 ### Artikel  5  
 
@@ -89,7 +89,7 @@ Er is een elektronisch informatiesysteem waarmee informatie tussen beheerders en
 
 a. opdrachtgevers en grondroerders ten behoeve van het voorbereiden van graafwerkzaamheden en het op zorgvuldige wijze verrichten van graafwerkzaamheden;  
 
-b. bestuursorganen voor zover deze gebiedsinformatie noodzakelijk is voor de uitvoering van hun taak.     
+b. bestuursorganen voor zover deze gebiedsinformatie noodzakelijk is voor de uitvoering van hun taak.    
 
 ### Artikel  6  
 
@@ -98,7 +98,7 @@ b. bestuursorganen voor zover deze gebiedsinformatie noodzakelijk is voor de uit
 
 a. een net gaat beheren dat niet ligt binnen een door de Dienst op zijn naam geregistreerde beheerpolygoon, of  
 
-b. niet langer een net zal beheren dat ligt binnen een door de Dienst op zijn naam geregistreerde beheerpolygoon of deel daarvan,   geeft dit ten minste twintig werkdagen voor aanvang van de wijziging in het beheer van het betreffende net door aan de Dienst, zo nodig onder opgave van de gewijzigde beheerpolygoon.   
+b. niet langer een net zal beheren dat ligt binnen een door de Dienst op zijn naam geregistreerde beheerpolygoon of deel daarvan,   geeft dit ten minste twintig werkdagen voor aanvang van de wijziging in het beheer van het betreffende net door aan de Dienst, zo nodig onder opgave van de gewijzigde beheerpolygoon.  
 
 ### Hoofdstuk  4  
 
@@ -108,21 +108,21 @@ b. niet langer een net zal beheren dat ligt binnen een door de Dienst op zijn na
 
 1.  Een opdrachtgever of een grondroerder kan de Dienst om gebiedsinformatie verzoeken ten behoeve van het voorbereiden van graafwerkzaamheden.   
 2.  Een bestuursorgaan kan de Dienst om gebiedsinformatie verzoeken voor zover deze informatie noodzakelijk is voor de uitvoering van de hem opgedragen taak.   
-3.  Bij het oriëntatieverzoek geeft de opdrachtgever, de grondroerder of het bestuursorgaan een oriëntatiepolygoon op.   
+3.  Bij het oriëntatieverzoek geeft de opdrachtgever, de grondroerder of het bestuursorgaan een oriëntatiepolygoon op.  
 
 ### Artikel  8  
 
 1.  Een grondroerder meldt het voornemen tot het verrichten van graafwerkzaamheden aan de Dienst ten hoogste twintig werkdagen voorafgaande aan de aanvang van die graafwerkzaamheden.   
 2.  Bij de graafmelding geeft de grondroerder een graafpolygoon op.   
-3.  Het eerste lid is niet van toepassing, indien de graafwerkzaamheden ten hoogste een bij algemene maatregel van bestuur te bepalen diepgang hebben en uitgevoerd zullen worden in grond die in eigendom of beheer is van de grondroerder en hij weet dat sinds de voorafgaande graafmelding de ligging van de netten in deze grond niet is veranderd.   
+3.  Het eerste lid is niet van toepassing, indien de graafwerkzaamheden ten hoogste een bij algemene maatregel van bestuur te bepalen diepgang hebben en uitgevoerd zullen worden in grond die in eigendom of beheer is van de grondroerder en hij weet dat sinds de voorafgaande graafmelding de ligging van de netten in deze grond niet is veranderd.  
 
-### Artikel  8a   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  8a  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij algemene maatregel van bestuur kunnen bepaalde categorieën grondroerders worden aangewezen die zijn vrijgesteld van de verplichting om een graafmelding te doen voor zover zij graafwerkzaamheden verrichten in grond die in eigendom of in beheer is van de grondroerder en die graafwerkzaamheden niet dieper gaan dan 50 cm onder het maaiveld.   
 2.  Vrijstelling laat de op de grondroerder rustende zorgplichten bedoeld in artikel 2, eerste, tweede en derde lid, onderdeel b, onverlet.   
 3.  Artikel 2, derde lid, onderdelen a en c, is niet van toepassing op de grondroerders, bedoeld in het eerste lid.   
-4.  Voor de toepassing van dit artikel wordt de opdrachtgever voor graafwerkzaamheden als bedoeld in het eerste lid aangemerkt als grondroerder indien de opdrachtgever eigenaar of beheerder is van de grond waarin de werkzaamheden worden uitgevoerd.   
+4.  Voor de toepassing van dit artikel wordt de opdrachtgever voor graafwerkzaamheden als bedoeld in het eerste lid aangemerkt als grondroerder indien de opdrachtgever eigenaar of beheerder is van de grond waarin de werkzaamheden worden uitgevoerd.  
 
 ### Artikel  9  
 
@@ -130,7 +130,7 @@ Na ontvangst van een oriëntatieverzoek of graafmelding:
 
 a. verstrekt de Dienst aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan onverwijld een ontvangstbevestiging;  
 
-b. bericht de Dienst hierover onverwijld onder vermelding van de oriëntatiepolygoon of graafpolygoon alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon onderscheidenlijk graafpolygoon.    
+b. bericht de Dienst hierover onverwijld onder vermelding van de oriëntatiepolygoon of graafpolygoon alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon onderscheidenlijk graafpolygoon.   
 
 ### Artikel  10  
 
@@ -143,17 +143,17 @@ b. de relevante eigenschappen van zijn net binnen de betreffende oriëntatiepoly
 c. in voorkomend geval welke voorzorgsmaatregelen als bedoeld in artikel 13, eerste of tweede lid, zullen worden getroffen, en  
 
 d. zijn contactgegevens.     
-2.  Indien een beheerder de termijn, genoemd in het eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling aan Onze Minister.   
+2.  Indien een beheerder de termijn, genoemd in het eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling aan Onze Minister.  
 
 ### Artikel  11  
 
 1.  De Dienst verstrekt gebiedsinformatie via het elektronische informatiesysteem onverwijld na ontvangst van alle informatie als bedoeld in artikel 10, doch uiterlijk binnen twee werkdagen na verzending van het graafbericht, aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan.   
 2.  Indien degene die het oriëntatieverzoek of de graafmelding heeft gedaan geen gebruik maakt van het elektronische informatiesysteem, verstrekt de Dienst gebiedsinformatie op andere wijze onverwijld na ontvangst van alle vereiste informatie, doch uiterlijk binnen drie werkdagen na verzending van het graafbericht.   
-3.  Indien de Dienst niet binnen de termijn, bedoeld in het eerste lid, van alle beheerders de ingevolge artikel 10, eerste lid, vereiste informatie heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken van de gebiedsinformatie.   
+3.  Indien de Dienst niet binnen de termijn, bedoeld in het eerste lid, van alle beheerders de ingevolge artikel 10, eerste lid, vereiste informatie heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken van de gebiedsinformatie.  
 
 ### Artikel  12  
 
-Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op graafwerkzaamheden als bedoeld in artikel 8, derde lid, gezamenlijk worden gedaan door tussenkomst van een door Onze Minister aan te wijzen organisatie, bij regeling vrijstelling verlenen van de verplichtingen ten aanzien van de termijnen, bepaald in de artikelen 8, eerste lid, 9, 10, eerste lid, en 11, eerste lid. De vrijstelling kan onder beperkingen worden verleend.  
+Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op graafwerkzaamheden als bedoeld in artikel 8, derde lid, gezamenlijk worden gedaan door tussenkomst van een door Onze Minister aan te wijzen organisatie, bij regeling vrijstelling verlenen van de verplichtingen ten aanzien van de termijnen, bepaald in de artikelen 8, eerste lid, 9, 10, eerste lid, en 11, eerste lid. De vrijstelling kan onder beperkingen worden verleend. 
 
 ### Artikel  13  
 
@@ -161,26 +161,26 @@ Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op g
 2.  De beheerder van een net met een grote waarde kan voorzorgsmaatregelen treffen voordat een grondroerder graafwerkzaamheden in de omgeving daarvan verricht.   
 3.  Indien de beheerder heeft aangegeven dat hij voorzorgsmaatregelen treft, vangt de grondroerder de graafwerkzaamheden niet aan dan nadat de beheerder deze voorzorgsmaatregelen heeft getroffen.   
 4.  De beheerder treft de voorzorgsmaatregelen binnen drie werkdagen nadat de grondroerder contact met hem heeft opgenomen, tenzij hij in overleg met de grondroerder andere afspraken maakt.   
-5.  Indien een beheerder voorzorgsmaatregelen treft, treft de grondroerder eveneens de nodige voorzorgsmaatregelen. Hij legt deze schriftelijk vast en brengt deze voor aanvang van de graafwerkzaamheden ter kennis van de betrokken beheerder.   
+5.  Indien een beheerder voorzorgsmaatregelen treft, treft de grondroerder eveneens de nodige voorzorgsmaatregelen. Hij legt deze schriftelijk vast en brengt deze voor aanvang van de graafwerkzaamheden ter kennis van de betrokken beheerder.  
 
 ### Artikel  14  
 
-Onze Minister van Veiligheid en Justitie kan ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of om op voorhand de gevolgen daarvan te beperken aan de Dienst alle nodige aanwijzingen geven ten aanzien van de informatie-uitwisseling.  
+Onze Minister van Veiligheid en Justitie kan ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of om op voorhand de gevolgen daarvan te beperken aan de Dienst alle nodige aanwijzingen geven ten aanzien van de informatie-uitwisseling. 
 
 ### Artikel  15  
 
 1.  De beheerder rapporteert aan de Dienst telkens in januari het aantal schadegevallen als gevolg van graafwerkzaamheden in het voorafgaande kalenderjaar.   
-2.  Het bestuur van de Dienst neemt een overzicht op van het aantal schadegevallen in het jaarverslag, bedoeld in [artikel 25 van de Organisatiewet Kadaster](../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md).   
+2.  Het bestuur van de Dienst neemt een overzicht op van het aantal schadegevallen in het jaarverslag, bedoeld in [artikel 25 van de Organisatiewet Kadaster](../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md).  
 
 ### Artikel  16  
 
-De grondroerder meldt schade aan een net als gevolg van zijn graafwerkzaamheden onverwijld aan de beheerder van het beschadigde net.  
+De grondroerder meldt schade aan een net als gevolg van zijn graafwerkzaamheden onverwijld aan de beheerder van het beschadigde net. 
 
 ### Artikel  17  
 
 1.  Indien de ligging van een net afwijkt van de liggingsgegevens die aan de grondroerder zijn verstrekt, meldt de grondroerder dit onverwijld bij de Dienst.   
 2.  Van de melding, bedoeld in het eerste lid, doet de Dienst onverwijld mededeling aan de betrokken beheerder.   
-3.  De beheerder treft binnen dertig werkdagen na ontvangst van de mededeling, bedoeld in het tweede lid, de als gevolg van de melding, bedoeld in het eerste lid, noodzakelijke maatregelen.   
+3.  De beheerder treft binnen dertig werkdagen na ontvangst van de mededeling, bedoeld in het tweede lid, de als gevolg van de melding, bedoeld in het eerste lid, noodzakelijke maatregelen.  
 
 ### Artikel  18  
 
@@ -192,15 +192,15 @@ De grondroerder meldt schade aan een net als gevolg van zijn graafwerkzaamheden 
 a. geeft de Dienst de met betrekking tot dat net bekende gegevens door aan de gemeente in welker grondgebied dat net zich bevindt;  
 
 b. registreert de Dienst de globale ligging van de met betrekking tot dat net bekende gegevens als polygoon.     
-5.  Voor de toepassing van artikel 9 wordt de gemeente, bedoeld in het vierde lid, gelijkgesteld met een beheerder.   
+5.  Voor de toepassing van artikel 9 wordt de gemeente, bedoeld in het vierde lid, gelijkgesteld met een beheerder.  
 
 ### Artikel  19  
 
-Op een gemeente die gegevens heeft ontvangen door toepassing van artikel 18, vierde lid, zijn de artikelen 10 en 17, tweede lid, van overeenkomstige toepassing met dien verstande dat de gemeente de met betrekking tot dat net bekende gegevens verstrekt, met inbegrip van eventuele correcties ingevolge artikel 17, tweede lid.  
+Op een gemeente die gegevens heeft ontvangen door toepassing van artikel 18, vierde lid, zijn de artikelen 10 en 17, tweede lid, van overeenkomstige toepassing met dien verstande dat de gemeente de met betrekking tot dat net bekende gegevens verstrekt, met inbegrip van eventuele correcties ingevolge artikel 17, tweede lid. 
 
 ### Artikel  20  
 
-De Dienst bewaart gedurende een bij algemene maatregel van bestuur te bepalen periode gegevens over de uitvoering van de artikelen 6, tweede lid, 7, 8, eerste en tweede lid, 9, 10, 11, 12, onderdeel b, 15, eerste lid, 17, eerste en tweede lid, 18, 45, eerste lid, 46, vierde lid, en 47, met uitzondering van de gegevens, bedoeld in artikel 10, eerste lid, onderdelen a, b en c.  
+De Dienst bewaart gedurende een bij algemene maatregel van bestuur te bepalen periode gegevens over de uitvoering van de artikelen 6, tweede lid, 7, 8, eerste en tweede lid, 9, 10, 11, 12, onderdeel b, 15, eerste lid, 17, eerste en tweede lid, 18, 45, eerste lid, 46, vierde lid, en 47, met uitzondering van de gegevens, bedoeld in artikel 10, eerste lid, onderdelen a, b en c. 
 
 ### Hoofdstuk  5  
 
@@ -229,13 +229,13 @@ d. de ontvangstbevestiging, bedoeld in artikel 9, onderdeel a, en het graafberic
 
 a. meldingen als bedoeld in de artikelen 15, eerste lid, 17, eerste lid, en 18, eerste en derde lid;  
 
-b. het bewaren en verstrekken van de informatie, bedoeld in artikel 20.     
+b. het bewaren en verstrekken van de informatie, bedoeld in artikel 20.    
 
 ### Artikel  22  
 
 1.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de gebiedsinformatie die op grond van artikel 11 aan de grondroerder wordt verstrekt, waarbij voor verschillende categorieën graafwerkzaamheden verschillende regels kunnen worden gesteld, en de wijze waarop die gebiedsinformatie wordt verstrekt.   
 2.  Bij regeling van het bestuur van de Dienst worden regels gesteld omtrent de wijze waarop de registratie van beheerders, bedoeld in artikel 6, eerste lid, plaatsvindt.   
-3.  Bij regeling van het bestuur van de Dienst kunnen regels worden gesteld omtrent de tijden gedurende welke oriëntatieverzoeken en graafmeldingen kunnen worden gedaan.   
+3.  Bij regeling van het bestuur van de Dienst kunnen regels worden gesteld omtrent de tijden gedurende welke oriëntatieverzoeken en graafmeldingen kunnen worden gedaan.  
 
 ### Artikel  23  
 
@@ -243,7 +243,7 @@ Bij algemene maatregel van bestuur worden:
 
 a. de gebieden aangewezen ten aanzien waarvan om veiligheidsredenen kan worden afgeweken van de voorschriften gesteld bij of krachtens hoofdstuk 4;  
 
-b. regels gesteld over de informatie-uitwisseling in de gebieden, bedoeld onder a.    
+b. regels gesteld over de informatie-uitwisseling in de gebieden, bedoeld onder a.   
 
 ### Hoofdstuk  6  
 
@@ -252,41 +252,41 @@ b. regels gesteld over de informatie-uitwisseling in de gebieden, bedoeld onder 
 ### Artikel  24  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2, 6, tweede lid, 8, 10, eerste lid, 13, eerste, derde, vierde en vijfde lid, 15, eerste lid, 16, 17, eerste en derde lid, 18, eerste en derde lid, 21, eerste en tweede lid, derde lid, onder a, b en c, vierde lid, onder a en b, 22, eerste lid, 23, 45, 46, tweede, derde en vierde lid, 48 en 49, eerste lid, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
-2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  25  
 
-Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de artikelen 2, 6, tweede lid, 10, eerste lid, 13, eerste, derde, vierde en vijfde lid, en 15, eerste lid, 21, eerste, tweede en derde lid, onder a en c, 23, 45, 46, tweede, derde en vierde lid en 49, eerste lid, of van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de artikelen 2, 6, tweede lid, 10, eerste lid, 13, eerste, derde, vierde en vijfde lid, en 15, eerste lid, 21, eerste, tweede en derde lid, onder a en c, 23, 45, 46, tweede, derde en vierde lid en 49, eerste lid, of van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  26  
 
 1.  Ingeval van overtreding van de artikelen 2 en 13, derde lid, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000.   
-2.  Ingeval van overtreding van het bepaalde bij of krachtens de artikelen 6, tweede lid, 8, 10, eerste lid, 13, eerste, vierde en vijfde lid, 15, eerste lid, 16, 17, eerste en derde lid, 18, eerste en derde lid, 21, eerste en tweede lid, derde lid, onder a, b en c, vierde lid, onder a en b, 22, eerste lid, 23, 45, 46, tweede, derde en vierde lid, 48 en 49, eerste lid, of van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.   
+2.  Ingeval van overtreding van het bepaalde bij of krachtens de artikelen 6, tweede lid, 8, 10, eerste lid, 13, eerste, vierde en vijfde lid, 15, eerste lid, 16, 17, eerste en derde lid, 18, eerste en derde lid, 21, eerste en tweede lid, derde lid, onder a, b en c, vierde lid, onder a en b, 22, eerste lid, 23, 45, 46, tweede, derde en vierde lid, 48 en 49, eerste lid, of van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.  
 
 ### Hoofdstuk  7  
 
 ####Wijzigingen in andere wetgeving
 
-### Artikel  39   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  39  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Kadasterwet.   
+Wijzigt de Kadasterwet. 
 
 ### Artikel  40  
 
-Wijzigt de Organisatiewet Kadaster.   
+Wijzigt de Organisatiewet Kadaster. 
 
 ### Artikel  41  
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet. 
 
 ### Artikel  42  
 
-Wijzigt het Burgerlijk Wetboek Boek 6.   
+Wijzigt het Burgerlijk Wetboek Boek 6. 
 
 ### Artikel  43  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Hoofdstuk  8  
 
@@ -294,11 +294,11 @@ Wijzigt de Wet op de economische delicten.
 
 ### Artikel  44  
 
-Deze wet laat onverlet dat de gemeenteraad in het belang van de openbare orde en veiligheid bij verordening voorschriften kan geven omtrent het verrichten van graafwerkzaamheden, waaronder het binden van graafwerkzaamheden aan het hebben van een vergunning.  
+Deze wet laat onverlet dat de gemeenteraad in het belang van de openbare orde en veiligheid bij verordening voorschriften kan geven omtrent het verrichten van graafwerkzaamheden, waaronder het binden van graafwerkzaamheden aan het hebben van een vergunning. 
 
 ### Artikel  45  
 
-Binnen drie maanden na inwerkingtreding van artikel 6, eerste lid, geeft een beheerder zijn beheerpolygoon of beheerpolygonen aan de Dienst op.  
+Binnen drie maanden na inwerkingtreding van artikel 6, eerste lid, geeft een beheerder zijn beheerpolygoon of beheerpolygonen aan de Dienst op. 
 
 ### Artikel  46  
 
@@ -313,7 +313,7 @@ b. aan wie de informatie wordt verstrekt;
 c. de wijze waarop de informatie wordt verstrekt;  
 
 d. de termijnen waarbinnen deze informatie wordt verstrekt.     
-4.  In afwijking van artikel 15 rapporteren de beheerders gedurende vier jaar na inwerkingtreding van dit artikel in de maanden januari en juli het aantal schadegevallen als gevolg van graafwerkzaamheden in de voorafgaande zes maanden.   
+4.  In afwijking van artikel 15 rapporteren de beheerders gedurende vier jaar na inwerkingtreding van dit artikel in de maanden januari en juli het aantal schadegevallen als gevolg van graafwerkzaamheden in de voorafgaande zes maanden.  
 
 ### Artikel  47  
 
@@ -323,33 +323,33 @@ a. welke informatie wordt verstrekt;
 
 b. de wijze waarop de informatie wordt verstrekt;  
 
-c. de termijnen waarbinnen deze informatie wordt verstrekt.    
+c. de termijnen waarbinnen deze informatie wordt verstrekt.   
 
 ### Artikel  48  
 
 1.  In afwijking van artikel 17, eerste lid, doet een grondroerder tot het moment van inwerkingtreding van artikel 5, eerste lid, de melding, bedoeld in artikel 17, eerste lid, bij de beheerder indien hij gegevens ingevolge artikel 46, tweede lid, rechtstreeks van de beheerder heeft verkregen. In dat geval is artikel 17, tweede lid, niet van toepassing.   
-2.  Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan.   
+2.  Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan.  
 
 ### Artikel  49  
 
 1.  Bij algemene maatregel van bestuur kunnen met het oog op een goede invoering van deze wet tot 3 jaar na inwerkingtreding van artikel 4 regels worden gesteld.   
-2.  Tot 5 jaar na inwerkingtreding van deze wet kan Onze Minister bij regeling voor daarbij aan te geven categorieën van beheerders of categorieën van delen van netten vrijstelling verlenen van de verplichtingen van artikel 6, tweede lid, 10, eerste lid, 18, eerste lid, 45 en 46.   
+2.  Tot 5 jaar na inwerkingtreding van deze wet kan Onze Minister bij regeling voor daarbij aan te geven categorieën van beheerders of categorieën van delen van netten vrijstelling verlenen van de verplichtingen van artikel 6, tweede lid, 10, eerste lid, 18, eerste lid, 45 en 46.  
 
 ### Artikel  50  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  51  
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  52  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  53  
 
-Deze wet wordt aangehaald als: Wet informatie-uitwisseling ondergrondse netten.  
+Deze wet wordt aangehaald als: Wet informatie-uitwisseling ondergrondse netten. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

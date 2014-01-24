@@ -11,28 +11,28 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Gezondheids- en welzijnswet voor dieren.   
+Wijzigt de Gezondheids- en welzijnswet voor dieren.  
 
 ### Artikel  II  
 
-1.  Een besluit op grond van de [artikelen 21](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [24](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [29](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [88](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [98](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [100](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [101](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of  [104 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), zoals deze artikelen luidden voor de inwerkingtreding van deze wet, alsmede een besluit op bezwaar tegen een dergelijk besluit, genomen voor de inwerkingtreding van deze wet, geldt als een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie.   
-2.  In procedures en rechtsgedingen als bedoeld in de [hoofdstukken 6](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) betreffende besluiten van een door Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaar op grond van de [hoofdstukken II](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [VIII](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [IX van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), zoals deze luidden voor de inwerkingtreding van deze wet, treedt Onze Minister van Economische Zaken, Landbouw en Innovatie op als partij.   
+1.  Een besluit op grond van de [artikelen 21](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [24](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [29](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [88](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [98](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [100](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [101](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [104 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), zoals deze artikelen luidden voor de inwerkingtreding van deze wet, alsmede een besluit op bezwaar tegen een dergelijk besluit, genomen voor de inwerkingtreding van deze wet, geldt als een besluit van Onze Minister van Economische Zaken.   
+2.  In procedures en rechtsgedingen als bedoeld in de [hoofdstukken 6](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) betreffende besluiten van een door Onze Minister van Economische Zaken aangewezen ambtenaar op grond van de [hoofdstukken II](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [VIII](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [IX van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), zoals deze luidden voor de inwerkingtreding van deze wet, treedt Onze Minister van Economische Zaken op als partij.  
 
 ### Artikel  III  
 
-Wijzigt de Veewet.   
+Wijzigt de Veewet.  
 
 ### Artikel  IV  
 
-Wijzigt de Landbouwwet.   
+Wijzigt de Landbouwwet.  
 
 ### Artikel  V  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  VI  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

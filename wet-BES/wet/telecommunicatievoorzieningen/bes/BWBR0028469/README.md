@@ -10,13 +10,13 @@
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. *Onze Minister:* Onze Minister van Economische Zaken;  
 
 b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba  
 
 c. *telecommunicatie:* iedere overdracht, uitzending of ontvangst van gegevens van welke aard ook door middel van kabels, langs radio-elektrische weg of door middel van optische of andere elektromagnetische systemen;  
 
-d.  *openbare gronden:*  
+d. *openbare gronden:*
 
 1. de openbare wegen met inbegrip van de daartoe behorende stoepen, glooiingen, bermen, sloten, bruggen, viaducten, tunnels, duikers, beschoeiingen en andere werken;  
 
@@ -42,7 +42,7 @@ m. *aansluitpunt:* een eindpunt van de telecommunicatie-infrastructuur, dat dien
 
 n. *randapparatuur:* een inrichting of samenstel van inrichtingen, bestemd voor rechtstreekse aansluiting op de telecommunicatie-infrastructuur door middel van een sluitpunt;  
 
-o. *de houder van de concessie:* de rechtspersoon, waaraan een concessie is verleend op grond van artikel 2, tweede lid.    
+o. *de houder van de concessie:* de rechtspersoon, waaraan een concessie is verleend op grond van artikel 2, tweede lid.   
 
 ### Hoofdstuk  II  
 
@@ -58,7 +58,7 @@ o. *de houder van de concessie:* de rechtspersoon, waaraan een concessie is verl
 2.  Indien de aanleg, de instandhouding en de exploitatie van de telecommunicatie-infrastructuur geschiedt door een openbaar lichaam, is het in deze wet ten aanzien van de concessie respectievelijk de houder van de concessie bepaalde, tenzij uitdrukkelijk anders is bepaald, van overeenkomstige toepassing op het desbetreffende openbaar lichaam, met uitzondering van artikel 32, tweede lid.   
 3.  Onze Minister kent aan de houder van de concessie de radio-frequenties toe welke nodig zijn voor de uitvoering van de concessie, waarbij voorschriften en beperkingen kunnen worden gesteld.   
 4.  De houder van de concessie draagt er zorg voor dat de capaciteit, de kwaliteit en de eigenschappen van de telecommunicatie-infrastructuur voldoen voor een doelmatige verzorging van telecommunicatie.   
-5.  Het is anderen dan de houder van de concessie slechts toegestaan telecommunicatie-inrichtingen van bijzondere aard of beperkte omvang als bedoeld in hoofdstuk III aan te leggen, in stand te houden, aanwezig te hebben, te gebruiken of te doen gebruiken en te exploiteren of te doen exploiteren met in achtneming van het bepaalde bij of krachtens hoofdstuk III.   
+5.  Het is anderen dan de houder van de concessie slechts toegestaan telecommunicatie-inrichtingen van bijzondere aard of beperkte omvang als bedoeld in hoofdstuk III aan te leggen, in stand te houden, aanwezig te hebben, te gebruiken of te doen gebruiken en te exploiteren of te doen exploiteren met in achtneming van het bepaalde bij of krachtens hoofdstuk III.  
 
 ### §  2  
 
@@ -68,23 +68,23 @@ o. *de houder van de concessie:* de rechtspersoon, waaraan een concessie is verl
 
 1.  De houder van de concessie is in het belang van het algemeen maatschappelijk en economisch verkeer verplicht bij algemene maatregel van bestuur te omschrijven diensten, welke betrekking hebben op het directe transport van gegevens van en naar aansluitpunten, te verzorgen en een ieder tegen vergoeding het gebruik daarvan ter beschikking te stellen. Indien nodig kan Onze Minister deze diensten opdragen aan een of meer andere partijen die op het grondgebied van een openbaar lichaam telecommunicatieverkeer voor derden verzorgen.   
 2.  De houder van de concessie is verplicht om een ieder tegen vergoeding het gebruik van vaste verbindingen ter beschikking te stellen.   
-3.  De houder van de concessie is bevoegd om gebruikers van de in het eerste en tweede lid bedoelde voorzieningen van het gebruik daarvan geheel of gedeeltelijk uit te sluiten voorzover het gebruik dat deze gebruikers van die voorzieningen maken een zodanige belasting voor deze voorzieningen oplevert dat hinder wordt veroorzaakt aan andere gebruikers van die voorzieningen, dan wel, ingeval het betreft vanuit een openbaar lichaam uitgaande telecommunicatie, dit gebruik op zodanige wijze geschiedt dat omkering van de communicatierichting plaatsvindt, waardoor de door de gebruiker aan de concessiehouder voor het gebruik maken van deze voorzieningen verschuldigde vergoedingen niet in de volle omvang aan de concessiehouder toekomen, tenzij hierover met de houder van de concessie afspraken zijn gemaakt.   
+3.  De houder van de concessie is bevoegd om gebruikers van de in het eerste en tweede lid bedoelde voorzieningen van het gebruik daarvan geheel of gedeeltelijk uit te sluiten voorzover het gebruik dat deze gebruikers van die voorzieningen maken een zodanige belasting voor deze voorzieningen oplevert dat hinder wordt veroorzaakt aan andere gebruikers van die voorzieningen, dan wel, ingeval het betreft vanuit een openbaar lichaam uitgaande telecommunicatie, dit gebruik op zodanige wijze geschiedt dat omkering van de communicatierichting plaatsvindt, waardoor de door de gebruiker aan de concessiehouder voor het gebruik maken van deze voorzieningen verschuldigde vergoedingen niet in de volle omvang aan de concessiehouder toekomen, tenzij hierover met de houder van de concessie afspraken zijn gemaakt.  
 
 ### Artikel  4  
 
-Het is anderen dan de houder van de concessie niet toegestaan een voor het publiek toegankelijke gelegenheid bestemd voor het directe transport van spraak over de telecommunicatie-infrastructuur op openbare grond te plaatsen en te exploiteren.  
+Het is anderen dan de houder van de concessie niet toegestaan een voor het publiek toegankelijke gelegenheid bestemd voor het directe transport van spraak over de telecommunicatie-infrastructuur op openbare grond te plaatsen en te exploiteren. 
 
 ### Artikel  4a  
 
-Het is een ieder verboden voorzieningen voor telecommunicatie dan wel het gebruik daarvan in welke vorm of op welke wijze dan ook aan te bieden, voorzover deze voorzieningen een zodanige belasting opleveren voor de op grond van de in artikel 3, eerste lid, bedoelde diensten ter beschikking te stellen voorzieningen dat hinder wordt veroorzaakt aan andere gebruikers van die voorzieningen, dan wel, ingeval het betreft vanuit een openbaar lichaam uitgaande telecommunicatie, deze voorzieningen het gevolg hebben dat omkering van de communicatierichting plaatsvindt, waardoor de door de gebruiker aan de concessiehouder voor het gebruik maken van deze voorzieningen verschuldigde vergoedingen niet in de volle omvang aan de concessiehouder toekomen, tenzij hierover met de houder van de concessie afspraken zijn gemaakt.  
+Het is een ieder verboden voorzieningen voor telecommunicatie dan wel het gebruik daarvan in welke vorm of op welke wijze dan ook aan te bieden, voorzover deze voorzieningen een zodanige belasting opleveren voor de op grond van de in artikel 3, eerste lid, bedoelde diensten ter beschikking te stellen voorzieningen dat hinder wordt veroorzaakt aan andere gebruikers van die voorzieningen, dan wel, ingeval het betreft vanuit een openbaar lichaam uitgaande telecommunicatie, deze voorzieningen het gevolg hebben dat omkering van de communicatierichting plaatsvindt, waardoor de door de gebruiker aan de concessiehouder voor het gebruik maken van deze voorzieningen verschuldigde vergoedingen niet in de volle omvang aan de concessiehouder toekomen, tenzij hierover met de houder van de concessie afspraken zijn gemaakt. 
 
 ### Artikel  5  
 
-Alleen het daartoe door de houder van de concessie gemachtigde personeel, belast met de uitvoering van de krachtens artikel 3, eerste lid, aan hem opgedragen diensten en de zorg voor de vaste verbindingen, mag van de over de telecommunicatie-infrastructuur getransporteerde gegevens kennis nemen, doch slechts voor zover dit voor de goede uitvoering van de dienst noodzakelijk is.  
+Alleen het daartoe door de houder van de concessie gemachtigde personeel, belast met de uitvoering van de krachtens artikel 3, eerste lid, aan hem opgedragen diensten en de zorg voor de vaste verbindingen, mag van de over de telecommunicatie-infrastructuur getransporteerde gegevens kennis nemen, doch slechts voor zover dit voor de goede uitvoering van de dienst noodzakelijk is. 
 
 ### Artikel  6  
 
-Het vervaardigen, verspreiden of ter verspreiding in voorraad hebben van lijsten en dergelijke vermeldingen van aangeslotenen op de krachtens artikel 3, eerste lid, aan de houder van de concessie opgedragen diensten, of van andere gegevens betreffende deze diensten benevens nabootsingen, op welke wijze dan ook vervaardigd, van bij de houder van de concessie in gebruik zijnde drukwerken, formulieren en bescheiden, anders dan met toestemming van de houder van de concessie, is verboden, onverminderd hetgeen terzake van deze voorwerpen in andere wettelijke regelingen is bepaald.  
+Het vervaardigen, verspreiden of ter verspreiding in voorraad hebben van lijsten en dergelijke vermeldingen van aangeslotenen op de krachtens artikel 3, eerste lid, aan de houder van de concessie opgedragen diensten, of van andere gegevens betreffende deze diensten benevens nabootsingen, op welke wijze dan ook vervaardigd, van bij de houder van de concessie in gebruik zijnde drukwerken, formulieren en bescheiden, anders dan met toestemming van de houder van de concessie, is verboden, onverminderd hetgeen terzake van deze voorwerpen in andere wettelijke regelingen is bepaald. 
 
 ### §  3  
 
@@ -115,11 +115,11 @@ j) de gronden voor intrekking van de concessie.
 3.  De concessievoorwaarden of algemene richtlijnen bevatten alleen verplichtingen ten aanzien van het door de houder van de concessie te bereiken resultaat en niet ten aanzien van de wijze van bedrijfsvoering om dit resultaat te bereiken.   
 4.  Een besluit tot vaststelling of wijziging van de concessievoorwaarden of algemene richtlijnen wordt genomen met inachtneming van een bedrijfsmatige en op continuïteit gerichte exploitatie door de houder van de concessie.   
 5.  De houder van een concessie is een bij ministeriële regeling te bepalen vergoeding verschuldigd voor de kosten verbonden aan de verlening van de concessie, aan het toezicht op de naleving door de houder van de concessie van de bij of krachtens deze wet gegeven regels, voorschriften en beperkingen alsmede aan de uitoefening van bevoegdheden inzake de telecommunicatie door een openbaar lichaam.   
-6.  Indien de houder van een concessie een privaatrechtelijke rechtspersoon is, is iedere bestuurder van deze rechtspersoon hoofdelijk aansprakelijk voor het afdragen van de in het vijfde lid bedoelde vergoeding   
+6.  Indien de houder van een concessie een privaatrechtelijke rechtspersoon is, is iedere bestuurder van deze rechtspersoon hoofdelijk aansprakelijk voor het afdragen van de in het vijfde lid bedoelde vergoeding  
 
 ### Artikel  8  
 
-Een besluit tot wijziging van de in artikel 7 bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang dat dringend vordert of de houder van de concessie met een eerder van kracht wording instemt.  
+Een besluit tot wijziging van de in artikel 7 bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang dat dringend vordert of de houder van de concessie met een eerder van kracht wording instemt. 
 
 ### §  4  
 
@@ -132,7 +132,7 @@ Een besluit tot wijziging van de in artikel 7 bedoelde richtlijnen wordt niet ee
 
 a. het waarborgen van een goede toepassing van het eerste lid;  
 
-b. het verlenen van de nodige medewerking aan Onze Minister-President bij de voorbereiding van verdragen en besluiten als bedoeld in het eerste lid en het in verband daarmee te voeren internationale overleg.     
+b. het verlenen van de nodige medewerking aan Onze Minister-President bij de voorbereiding van verdragen en besluiten als bedoeld in het eerste lid en het in verband daarmee te voeren internationale overleg.    
 
 ### Artikel  10  
 
@@ -144,11 +144,11 @@ b. een handelen in strijd met de [artikelen 286a](../../../../../wet-BES/wetboek
 
 c. het niet of onjuist verstrekken, het onzorgvuldig beheren of verwerken van gegevens betreffende gebruikers van de bedoelde diensten en van vaste verbindingen dan wel fouten in administratieve verrichtingen samenhangend met die gegevens.     
 2.  Bij algemene maatregel van bestuur worden bedragen vastgesteld waarboven de aansprakelijkheid, bedoeld in het eerste lid, zich niet uitstrekt, waarbij de hoogte van de bedragen verschillend kan zijn voor onder meer de aard van de gebeurtenis, de onderscheiden aan de houder van de concessie krachtens artikel 3, eerste lid, opgedragen diensten en de zorg voor vaste verbindingen.   
-3.  De houder van de concessie kan zich niet beroepen op een uit het eerste en tweede lid voortvloeiende uitsluiting of beperking van zijn aansprakelijkheid, voor zover de schade is ontstaan uit zijn eigen handelen of nalaten, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.   
+3.  De houder van de concessie kan zich niet beroepen op een uit het eerste en tweede lid voortvloeiende uitsluiting of beperking van zijn aansprakelijkheid, voor zover de schade is ontstaan uit zijn eigen handelen of nalaten, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.  
 
 ### Artikel  11  
 
-Ter zake van de verzorging van het internationale telecommunicatieverkeer is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van het Internationaal Telecommunicatieverdrag met daarbij behorende bijlagen en reglementen en andere bindende verdragen of besluiten van volkenrechtelijk organisaties welke betrekking hebben op het internationale telecommunicatieverkeer.  
+Ter zake van de verzorging van het internationale telecommunicatieverkeer is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van het Internationaal Telecommunicatieverdrag met daarbij behorende bijlagen en reglementen en andere bindende verdragen of besluiten van volkenrechtelijk organisaties welke betrekking hebben op het internationale telecommunicatieverkeer. 
 
 ### Hoofdstuk  III  
 
@@ -169,7 +169,7 @@ b. het directe transport van gegevens te verzorgen;
 c. andere vormen van telecommunicatie te verzorgen dan bedoeld onder a en b anders dan door middel van de telecommunicatie-infrastructuur.     
 2.  Onze Minister kan ten aanzien van een telecommunicatie-inrichting als bedoeld in artikel 15, van het verbod in het eerste lid ontheffing verlenen voor telecommunicatie tussen gebruikers van een bepaalde bij die ontheffing aan te geven categorie, indien de houder van de concessie niet bereid is of niet in staat is binnen redelijke termijn en tegen redelijke voorwaarden het gebruik van een gelijkwaardige voorziening ter beschikking te stellen.   
 3.  Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden in verband met het doel waarvoor de ontheffing wordt verleend.   
-4.  Het verbod in het eerste lid is niet van toepassing op de bij of krachtens wet toegestane verspreiding van oproepprogramma’s door middel van de in het tweede lid bedoelde inrichtingen.   
+4.  Het verbod in het eerste lid is niet van toepassing op de bij of krachtens wet toegestane verspreiding van oproepprogramma’s door middel van de in het tweede lid bedoelde inrichtingen.  
 
 ### Artikel  13  
 
@@ -181,7 +181,7 @@ a. de wijze waarop een aanvraag tot verlening, wijziging of intrekking van een m
 b. de gegevens die bij een aanvraag tot verlening, wijziging of intrekking van machtiging worden verstrekt;  
 
 c. de termijn waarbinnen op de aanvraag wordt beslist.     
-3.  De besluiten tot weigering, intrekking of wijziging van een machtiging of ontheffing, als bedoeld in het eerste lid, dienen met redenen te zijn omkleed.   
+3.  De besluiten tot weigering, intrekking of wijziging van een machtiging of ontheffing, als bedoeld in het eerste lid, dienen met redenen te zijn omkleed.  
 
 ### §  2  
 
@@ -193,7 +193,7 @@ Voor de toepassing van deze paragraaf en artikel 20 worden met radio-elektrische
 
 a. elke samenvoeging van onderdelen, geschikt om daarmede een radio-elektrische zendinrichting dan wel ingevolge het bepaalde onder b daarmee gelijkgestelde inrichting te vormen;  
 
-b. de bij algemene maatregel van bestuur te omschrijven elektrische of elektronische inrichtingen die geschikt zijn om door gebruik tezamen met een radio-elektrische zendinrichting een radio-elektrische zendinrichting te vormen met andere technische eigenschappen.    
+b. de bij algemene maatregel van bestuur te omschrijven elektrische of elektronische inrichtingen die geschikt zijn om door gebruik tezamen met een radio-elektrische zendinrichting een radio-elektrische zendinrichting te vormen met andere technische eigenschappen.   
 
 ### Artikel  15  
 
@@ -253,7 +253,7 @@ c. een doelmatige verzorging van de telecommunicatie in het algemeen maatschappe
 d. de vrees gewettigd is dat het van kracht blijven van de machtiging gevaar zal opleveren voor de veiligheid van een openbaar lichaam of de rechtsorde;  
 
 e. de gronden, waarop de machtiging is verleend, zijn vervallen.     
-9.  Een machtiging kan worden ingetrokken indien de vrees gewettigd is dat het van kracht blijven van de machtiging gevaar zal opleveren voor de veiligheid van het Koninkrijk.   
+9.  Een machtiging kan worden ingetrokken indien de vrees gewettigd is dat het van kracht blijven van de machtiging gevaar zal opleveren voor de veiligheid van het Koninkrijk.  
 
 ### Artikel  16  
 
@@ -272,7 +272,7 @@ b. de nakoming van bindende verdragen of besluiten van volkenrechtelijke organis
 
 c. de aanvraag niet voldoet aan de daarvoor krachtens artikel 13 gestelde regels.     
 5.  Een machtiging kan worden ingetrokken indien de houder van de machtiging de bij of krachtens deze wet gestelde regels dan wel de aan de machtiging verbonden voorschriften en beperkingen niet nakomt.   
-6.  Het bepaalde in dit artikel is niet van toepassing op radio-electrische ontvanginrichtingen welke deel uitmaken van een draadomroepinrichting.   
+6.  Het bepaalde in dit artikel is niet van toepassing op radio-electrische ontvanginrichtingen welke deel uitmaken van een draadomroepinrichting.  
 
 ### Artikel  17  
 
@@ -281,7 +281,7 @@ c. de aanvraag niet voldoet aan de daarvoor krachtens artikel 13 gestelde regels
 a. andere dan schepen van een openbaar lichaam, die zich bevinden in de wateren van een openbaar lichaam, of  
 
 b. andere dan luchtvaartuigen van een openbaar lichaam, die zich bevinden in het luchtruim van een openbaar lichaam of op het grondgebied van een openbaar lichaam, is geen machtiging vereist krachtens artikel 15 of 16 indien daarvoor een vergunning is afgegeven in overeenstemming met het Internationaal Telecommunicatieverdrag met daarbij behorende bijlagen en deze vergunning door Onze Minister is erkend.     
-2.  Onze Minister kan regels stellen voor het gebruik van de in het eerste lid bedoelde radio-elektrische zendinrichtingen.   
+2.  Onze Minister kan regels stellen voor het gebruik van de in het eerste lid bedoelde radio-elektrische zendinrichtingen.  
 
 ### §  3  
 
@@ -323,7 +323,7 @@ a. de houder van de machtiging de bij of krachtens deze wet gestelde regels dan 
 
 b. de houder van de machtiging niet langer over voldoende technische en financiële middelen beschikt om de continuïteit van de exploitatie van de draadomroepinrichting te waarborgen;  
 
-c. de gronden, waarop de machtiging is verleend, zijn vervallen.     
+c. de gronden, waarop de machtiging is verleend, zijn vervallen.    
 
 ### Artikel  18a  
 
@@ -335,7 +335,7 @@ b. technische eisen te stellen aan draadomroepinrichtingen en de daarmee verbond
 
 c. eisen te stellen aan degenen die draadomroepinrichtingen installeren; en  
 
-d. de keuring van een draadomroepinrichting en het daarmee verbonden kabelnet.    
+d. de keuring van een draadomroepinrichting en het daarmee verbonden kabelnet.   
 
 ### Artikel  18b  
 
@@ -353,7 +353,7 @@ d. de bescherming van de rechten van derden; en
 
 e. de nakoming van bindende verdragen en besluiten van volkenrechtelijke organisaties.     
 4.  Een aanvullende machtiging wordt geweigerd indien een doelmatige verzorging van de telecommunicatie in het algemeen maatschappelijk en economische belang zich tegen verlening verzet alsmede op de gronden aangegeven in artikel 18, vierde lid, onderdelen a en b.   
-5.  Een aanvullende machtiging kan worden ingetrokken indien een doelmatige verzorging van de telecommunicatie in het algemeen een economisch belang dit vordert alsmede op de gronden aangegeven in artikel 18, vijfde lid.   
+5.  Een aanvullende machtiging kan worden ingetrokken indien een doelmatige verzorging van de telecommunicatie in het algemeen een economisch belang dit vordert alsmede op de gronden aangegeven in artikel 18, vijfde lid.  
 
 ### §  3a  
 
@@ -386,7 +386,7 @@ a. een doelmatige verzorging van de telecommunicatie in het algemeen maatschappe
 b. de houder van de machtiging de bij of krachtens deze wet gestelde regels dan wel de aan de machtiging verbonden voorschriften of de beperkingen waaronder deze is verleend niet nakomt;  
 
 c. de gronden waarop de machtiging is verleend, zijn vervallen.     
-6.  Ten aanzien van inrichtingen bedoeld in het eerste lid is het bepaalde in artikel 18a van overeenkomstige toepassing.   
+6.  Ten aanzien van inrichtingen bedoeld in het eerste lid is het bepaalde in artikel 18a van overeenkomstige toepassing.  
 
 ### §  4  
 
@@ -397,15 +397,15 @@ c. de gronden waarop de machtiging is verleend, zijn vervallen.
 1.  Het is degene die krachtens de paragrafen 2, 3 en 3a van dit hoofdstuk gerechtigd is een daarin bedoelde telecommunicatie-inrichting, aan te leggen, in stand te houden, te gebruiken dan wel te exploiteren of te doen exploiteren, verboden die inrichting te koppelen of te doen koppelen aan een andere zodanige inrichting, anders dan door middel van de telecommunicatie-infrastructuur.   
 2.  Onze Minister kan ten aanzien van een telecommunicatie-inrichting als bedoeld in de artikelen 15, 16 en 18c van het verbod in het eerste lid ontheffing verlenen, indien de houder van de concessie niet bereid of in staat is binnen redelijke termijn en tegen redelijke voorwaarden het gebruik van een gelijkwaardige voorziening ter beschikking te stellen.   
 3.  In verband met het doel waarvoor een ontheffing wordt verleend, kunnen aan een ontheffing voorschriften worden verbonden en kan een ontheffing onder beperkingen worden verleend.   
-4.  Het verbod in het eerste lid is niet van toepassing ten aanzien van een signaallevering door een draadomroepinrichting aan andere draadomroepinrichtingen in hetzelfde openbaar lichaam, indien de signaallevering krachtens artikel 18, derde lid onder e, verplicht is gesteld.   
+4.  Het verbod in het eerste lid is niet van toepassing ten aanzien van een signaallevering door een draadomroepinrichting aan andere draadomroepinrichtingen in hetzelfde openbaar lichaam, indien de signaallevering krachtens artikel 18, derde lid onder e, verplicht is gesteld.  
 
 ### Artikel  20  
 
-Het is verboden radio-elecktrische zend- of ontvanginrichtingen af te leveren, te verhuren dan wel op andere wijze ter beschikking te stellen aan natuurlijke of rechtspersonen aan wie geen machtiging is verleend welke bij of krachtens deze wet is vereist voor de aanleg, het aanwezig hebben en het gebruik van de betreffende zend- of ontvanginrichtingen.  
+Het is verboden radio-elecktrische zend- of ontvanginrichtingen af te leveren, te verhuren dan wel op andere wijze ter beschikking te stellen aan natuurlijke of rechtspersonen aan wie geen machtiging is verleend welke bij of krachtens deze wet is vereist voor de aanleg, het aanwezig hebben en het gebruik van de betreffende zend- of ontvanginrichtingen. 
 
 ### Artikel  21  
 
-Het bepaalde bij of krachtens dit hoofdstuk is niet van toepassing op de daarin bedoelde inrichtingen bestemd voor telecommunicatie welke tot gebruik strekken van door Onze Minister, na overleg met de Ministers die het mede aangaat, aan te wijzen overheidsorganen of diensten, die zijn belast met de zorg voor de veiligheid van een openbaar lichaam, dan wel met de handhaving van de rechtsorde, aan welke aanwijzing voorschriften en beperkingen kunnen worden verbonden.  
+Het bepaalde bij of krachtens dit hoofdstuk is niet van toepassing op de daarin bedoelde inrichtingen bestemd voor telecommunicatie welke tot gebruik strekken van door Onze Minister, na overleg met de Ministers die het mede aangaat, aan te wijzen overheidsorganen of diensten, die zijn belast met de zorg voor de veiligheid van een openbaar lichaam, dan wel met de handhaving van de rechtsorde, aan welke aanwijzing voorschriften en beperkingen kunnen worden verbonden. 
 
 ### Hoofdstuk  IV  
 
@@ -438,7 +438,7 @@ a. in betekenende mate afwijkt van de bij de aanvraag van de toelating overgeleg
 b. niet voldoet aan de krachtens het eerste lid gestelde eisen en regels.     
 6.  Ten aanzien van de goedkeuring van interne netten is het bepaalde in het vierde lid, onderdeel b, en vijfde lid, onderdeel b, van overeenkomstige toepassing.   
 7.  Het is verboden in de uitoefening van een beroep of bedrijf randapparatuur op of bestemd voor de markt van een openbaar lichaam te verkopen, te verhuren of op ander wijze ter beschikking te stellen, in voorraad te hebben, ten verkoop of te huur aan te bieden dan wel af te leveren indien van de randapparatuur niet op de voorgeschreven wijze kenbaar is dat deze is goedgekeurd.   
-8.  Het beroeps- of bedrijfsmatig aanleggen en onderhouden van randapparatuur is slechts toegestaan met inachtneming van de bij of krachtens algemene maatregel van bestuur te stellen regels met betrekking tot de vakbekwaamheid.   
+8.  Het beroeps- of bedrijfsmatig aanleggen en onderhouden van randapparatuur is slechts toegestaan met inachtneming van de bij of krachtens algemene maatregel van bestuur te stellen regels met betrekking tot de vakbekwaamheid.  
 
 ### Hoofdstuk  V  
 
@@ -447,7 +447,7 @@ b. niet voldoet aan de krachtens het eerste lid gestelde eisen en regels.
 ### Artikel  23  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van elektrische of elektronische inrichtingen, niet zijnde inrichtingen als bedoeld in de artikelen 15, 16, 18 en 18c regels worden gesteld met betrekking tot het voorkomen van en bestand zijn tegen elektromagnetische storingen.   
-2.  Het is verboden inrichtingen als bedoeld in het eerste lid op of bestemd voor de markt van een openbaar lichaam, te vervaardigen, in te voeren, te verkopen, te verhuren of op andere wijze ter beschikking te stellen, in voorraad te hebben, ten verkoop of te huur aan te bieden dan wel af te leveren, of in te voeren indien deze niet voldoen aan de technische eisen, welke zijn opgenomen in de in het eerste lid bedoelde regels.   
+2.  Het is verboden inrichtingen als bedoeld in het eerste lid op of bestemd voor de markt van een openbaar lichaam, te vervaardigen, in te voeren, te verkopen, te verhuren of op andere wijze ter beschikking te stellen, in voorraad te hebben, ten verkoop of te huur aan te bieden dan wel af te leveren, of in te voeren indien deze niet voldoen aan de technische eisen, welke zijn opgenomen in de in het eerste lid bedoelde regels.  
 
 ### Hoofdstuk  VI  
 
@@ -455,34 +455,34 @@ b. niet voldoet aan de krachtens het eerste lid gestelde eisen en regels.
 
 ### Artikel  24  
 
-Voor de toepassing van dit hoofdstuk worden kabelwerken met kabels gelijkgesteld.  
+Voor de toepassing van dit hoofdstuk worden kabelwerken met kabels gelijkgesteld. 
 
 ### Artikel  25  
 
-Wanneer tot het ontwerpen van een voorziening ten behoeve van de telecommunicatie-infrastructuur, gravingen, opmetingen of het stellen van tekens op iemands grond nodig wordt geacht, moeten de gebruikers van de gronden dat gedogen, mits hun daarvan tweemaal vierentwintig uren te voren door de houder van de concessie schriftelijk is kennis gegeven.  
+Wanneer tot het ontwerpen van een voorziening ten behoeve van de telecommunicatie-infrastructuur, gravingen, opmetingen of het stellen van tekens op iemands grond nodig wordt geacht, moeten de gebruikers van de gronden dat gedogen, mits hun daarvan tweemaal vierentwintig uren te voren door de houder van de concessie schriftelijk is kennis gegeven. 
 
 ### Artikel  26  
 
 1.  De eigenaren van gronden, zijn verplicht kabels ten dienste van de telecommunicatie-infrastructuur, in en boven hun gronden toe te staan.   
 2.  De eigenaren van gebouwen en werken zijn gehouden te dulden, dat daarover kabels worden geleid; zonder toestemming van de eigenaren mogen deze kabels echter niet aan gebouwen en werken worden bevestigd.   
 3.  Eveneens zijn de eigenaren van gronden, gebouwen en werken, bedoeld in het eerste en tweede lid, gehouden toe te staan dat op hun gronden en boven hun gebouwen en werken al datgene wordt verricht wat voor de instandhouding en opruiming van de kabels vereist wordt.   
-4.  De kabels, hoewel in, op of over bijzonder eigendom geplaatst, moeten voor het personeel van de houder van de concessie, dat belast is met de instandhouding daarvan, te allen tijde bereikbaar gesteld worden.   
+4.  De kabels, hoewel in, op of over bijzonder eigendom geplaatst, moeten voor het personeel van de houder van de concessie, dat belast is met de instandhouding daarvan, te allen tijde bereikbaar gesteld worden.  
 
 ### Artikel  27  
 
-De schade, welke uit de toepassing der bepalingen van de twee voorafgaande artikelen mocht voortvloeien, wordt op de houder van de concessie verhaald, nadat zij, behoudens hoger beroep, door de rechter in eerste aanleg is begroot en die begroting door deze is uitvoerbaar verklaard.  
+De schade, welke uit de toepassing der bepalingen van de twee voorafgaande artikelen mocht voortvloeien, wordt op de houder van de concessie verhaald, nadat zij, behoudens hoger beroep, door de rechter in eerste aanleg is begroot en die begroting door deze is uitvoerbaar verklaard. 
 
 ### Artikel  28  
 
-De houder van de concessie is verplicht op eigen kosten tot verplaatsing van kabels ten dienste van de telecommunicatie-infrastructuur over te gaan, indien deze verplaatsing nodig is voor de oprichting van gebouwen of de uitvoering van werken door of vanwege degene op wie een gedoogplicht rust.  
+De houder van de concessie is verplicht op eigen kosten tot verplaatsing van kabels ten dienste van de telecommunicatie-infrastructuur over te gaan, indien deze verplaatsing nodig is voor de oprichting van gebouwen of de uitvoering van werken door of vanwege degene op wie een gedoogplicht rust. 
 
 ### Artikel  29  
 
-De aanleg van kabels ten dienst van de telecommunicatie-infrastructuur langs of over woonhuizen moet zodanig geschieden, dat geen overlast aan de bewoners wordt veroorzaakt, hetzij door die kabels zelf hetzij door trillen daarvan.  
+De aanleg van kabels ten dienst van de telecommunicatie-infrastructuur langs of over woonhuizen moet zodanig geschieden, dat geen overlast aan de bewoners wordt veroorzaakt, hetzij door die kabels zelf hetzij door trillen daarvan. 
 
 ### Artikel  30  
 
-De houder van de concessie is verplicht de nodige voorzieningen aan te brengen ter bescherming van de kabels ten dienste van de telecommunicatie-infrastructuur tegen blikseminslag.  
+De houder van de concessie is verplicht de nodige voorzieningen aan te brengen ter bescherming van de kabels ten dienste van de telecommunicatie-infrastructuur tegen blikseminslag. 
 
 ### Hoofdstuk  VII  
 
@@ -509,7 +509,7 @@ c. de kosten van de behandeling van klachten over storing of belemmering als bed
 d. een erkenning als bedoeld in artikel 22, tweede lid onder a, welke vergoeding verschuldigd is voor de kosten van de bemoeiingen met betrekking tot het verlenen van de erkenning en het toezicht op de naleving door een erkende instantie van de bij of krachtens deze wet met betrekking tot de erkenning gegeven regels, behoudens ingeval de erkenning niet op verzoek doch eigener beweging door Onze Minister geschiedt en deze testinstelling niet in een openbaar lichaam is gevestigd;  
 
 e. de kosten van de bemoeiingen met betrekking tot het verlenen van een ontheffing als bedoeld in artikel 12, tweede lid, en het toezicht op de naleving van zodanige ontheffing.     
-2.  Indien de vergoedingen, bedoeld in het eerste lid, verschuldigd zijn door een privaatrechtelijke rechtspersoon, is iedere bestuurder van deze rechtspersoon hoofdelijk aansprakelijk voor het afdragen van die vergoedingen.   
+2.  Indien de vergoedingen, bedoeld in het eerste lid, verschuldigd zijn door een privaatrechtelijke rechtspersoon, is iedere bestuurder van deze rechtspersoon hoofdelijk aansprakelijk voor het afdragen van die vergoedingen.  
 
 ### Hoofdstuk  VIII  
 
@@ -532,12 +532,12 @@ e. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkel
 3.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel d, verschaft met behulp van de sterke arm.   
 4.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en [160, eerste lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de taakuitoefening van de krachtens het eerste lid aangewezen personen.   
-6.  Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.   
+6.  Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.  
 
 ### Artikel  32  
 
 1.  Indien de houder van de concessie een ingevolge deze wet op hem rustende verplichting niet nakomt, kan Onze Minister hem een schriftelijke met redenen omklede aanwijzing geven.   
-2.  Bij het niet naleven van de aanwijzing kan Onze Minister de houder van de concessie een administratieve boete opleggen van ten hoogste USD 56.000.   
+2.  Bij het niet naleven van de aanwijzing kan Onze Minister de houder van de concessie een administratieve boete opleggen van ten hoogste USD 56.000.  
 
 ### Artikel  33  
 
@@ -550,14 +550,14 @@ b. de inrichting op kosten van de houder van de inrichting te doen verzegelen en
 
 c. aan de houder van de machtiging voor de inrichting een administratieve boete van ten hoogste USD 28.000 op te leggen.     
 3.  De houder van een telecommunicatie-inrichting ten aanzien waarvan een dwangmaatregel als bedoeld in het tweede lid onder a. of b. is genoemd, is verplicht deze dwangmaatregel na te leven dan wel te gedogen   
-4.  Het in het tweede lid, aanhef en onder c, bepaalde is van overeenkomstige toepassing op telecommunicatie-inrichtingen bedoeld in de paragrafen 3 en 3a van hoofstuk III.   
+4.  Het in het tweede lid, aanhef en onder c, bepaalde is van overeenkomstige toepassing op telecommunicatie-inrichtingen bedoeld in de paragrafen 3 en 3a van hoofstuk III.  
 
 ### Artikel  34  
 
 1.  Onze Minister kan een krachtens de artikelen 7, zesde lid, en 31 verschuldigde vergoeding en artikel 32 of artikel 33 opgelegde boete alsmede de overige kosten als bedoeld in laatstgenoemd artikel, verhoogd met de op de invordering vallende kosten, bij dwangbevel invorderen.   
 2.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) kan worden tenuitvoergelegd. De betekening van het dwangbevel geschiedt op kosten van de overtreder.   
 3.  Gedurende een maand na betekening staat verzet tegen het dwangbevel open door dagvaarding van een openbaar lichaam.   
-4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van een openbaar lichaam kan de rechter de schorsing van de tenuitvoerlegging opheffen.   
+4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van een openbaar lichaam kan de rechter de schorsing van de tenuitvoerlegging opheffen.  
 
 ### Hoofdstuk  IX  
 
@@ -583,23 +583,23 @@ b. het aansluiten of aangesloten houden op de telecommunicatie-infrastructuur va
 
 c. het niet naleven van de verplichting bedoeld in artikel 33, derde lid.     
 4.  Overtreding van de regels gesteld bij of krachtens algemene maatregel van bestuur bedoeld in de artikelen 15, derde lid, 16, eerste lid, 18a, 22, zevende lid, 23, eerste lid, dan wel van de regels gesteld krachtens artikel 17, tweede lid, wordt, voor zover uitdrukkelijk als strafbaar feit aangemerkt, gestraft met hechtenis van ten hoogste vier maanden of een geldboete van ten hoogste USD 5.600.   
-5.  De in het eerste en tweede lid van dit artikel strafbaar gestelde feiten zijn misdrijven. De in het derde en vierde lid van dit artikel strafbaar gestelde feiten zijn overtredingen.   
+5.  De in het eerste en tweede lid van dit artikel strafbaar gestelde feiten zijn misdrijven. De in het derde en vierde lid van dit artikel strafbaar gestelde feiten zijn overtredingen.  
 
 ### Artikel  35a  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  36  
 
-Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde ambtenaren, belast de daartoe, op gezamenlijke voordracht van Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.  
+Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde ambtenaren, belast de daartoe, op gezamenlijke voordracht van Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. 
 
 ### Artikel  37  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  38  
 
-[vervallen]  
+[vervallen] 
 
 ### Hoofdstuk  IXa  
 
@@ -607,7 +607,7 @@ Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in
 
 ### Artikel  38a  
 
-Degene die rechtstreeks in zijn belang wordt getroffen door een op grond van deze wet genomen beschikking, met uitzondering van die welke betrekking heeft op een aanwijzing van overheidsorganen of diensten als bedoeld in artikel 21, kan daartegen beroep instellen bij het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.  
+Degene die rechtstreeks in zijn belang wordt getroffen door een op grond van deze wet genomen beschikking, met uitzondering van die welke betrekking heeft op een aanwijzing van overheidsorganen of diensten als bedoeld in artikel 21, kan daartegen beroep instellen bij het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. 
 
 ### Hoofdstuk  X  
 
@@ -615,19 +615,19 @@ Degene die rechtstreeks in zijn belang wordt getroffen door een op grond van dez
 
 ### Artikel  39  
 
-Het is aan een ieder toegestaan van de krachtens artikel 3, eerste lid, aan de houder van de concessie opgedragen diensten, met inachtneming van de hieromtrent vast te tellen bepalingen, gebruik te maken. Nochtans kan een opgedragen dienst worden geweigerd of gestuit, wanneer de inhoud in strijd wordt geacht met de veiligheid van een openbaar lichaam of de rechtsorde. Van de reden van de weigering of stuiting wordt kennis gegeven aan de opdrachtgever. De beslissing van Onze Minister kan te dezer zake worden ingeroepen.  
+Het is aan een ieder toegestaan van de krachtens artikel 3, eerste lid, aan de houder van de concessie opgedragen diensten, met inachtneming van de hieromtrent vast te tellen bepalingen, gebruik te maken. Nochtans kan een opgedragen dienst worden geweigerd of gestuit, wanneer de inhoud in strijd wordt geacht met de veiligheid van een openbaar lichaam of de rechtsorde. Van de reden van de weigering of stuiting wordt kennis gegeven aan de opdrachtgever. De beslissing van Onze Minister kan te dezer zake worden ingeroepen. 
 
 ### Artikel  40  
 
-Het internationaal telecommunicatieverkeer en het telecommunicatieverkeer tussen de openbare lichamen kan door Onze Minister, en het telecommunicatieverkeer binnen een openbaar lichaam kan door de gezaghebber in het algemeen belang gedurende onbepaalde tijd onder toezicht worden geplaatst of gedeeltelijk worden geschorst.  
+Het internationaal telecommunicatieverkeer en het telecommunicatieverkeer tussen de openbare lichamen kan door Onze Minister, en het telecommunicatieverkeer binnen een openbaar lichaam kan door de gezaghebber in het algemeen belang gedurende onbepaalde tijd onder toezicht worden geplaatst of gedeeltelijk worden geschorst. 
 
 ### Artikel  41  
 
-In geval van staat van oorlog of beleg kan het internationale telecommunicatieverkeer en het telecommunicatieverkeer tussen de openbare lichamen onder beheer van Onze Minister en het telecommunicatieverkeer binnen een openbaar lichaam onder beheer van de gezaghebber worden geplaatst. Onze Minister handelt in overleg met Onze Minister van Defensie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  
+In geval van staat van oorlog of beleg kan het internationale telecommunicatieverkeer en het telecommunicatieverkeer tussen de openbare lichamen onder beheer van Onze Minister en het telecommunicatieverkeer binnen een openbaar lichaam onder beheer van de gezaghebber worden geplaatst. Onze Minister handelt in overleg met Onze Minister van Defensie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  42  
 
-In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekkingen, is de houder van de concessie verplicht de aanwijzingen van Onze Minister in overeenstemming met Onze Minister-President met betrekking tot de verzorging van telecommunicatie van en naar het buitenland op te volgen.  
+In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekkingen, is de houder van de concessie verplicht de aanwijzingen van Onze Minister in overeenstemming met Onze Minister-President met betrekking tot de verzorging van telecommunicatie van en naar het buitenland op te volgen. 
 
 ### Hoofdstuk  XI  
 
@@ -635,7 +635,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ### Artikel  43  
 
-De houder van de concessie is verplicht medewerking te verlenen aan de uitvoering van een bevoegd gegeven bijzondere last tot het afluisteren of opnemen van telecommunicatie die over de telecommunicatie-infrastructuur wordt afgewikkeld.  
+De houder van de concessie is verplicht medewerking te verlenen aan de uitvoering van een bevoegd gegeven bijzondere last tot het afluisteren of opnemen van telecommunicatie die over de telecommunicatie-infrastructuur wordt afgewikkeld. 
 
 ### Artikel  44  
 
@@ -655,24 +655,24 @@ c. de taken en bevoegdheden van een dergelijke raad ten aanzien van:
 3. Het behandelen van geschillen tussen de houders van een concessie;  
 
 4. De bespreking van problemen van internationale aard.       
-3.  Bij algemene maatregel van bestuur kan aan Onze Minister de bevoegdheid worden verleend tot het nemen van een beslissing over geschillen als bedoeld in het tweede lid, onderdeel b, ten derde, die de houders van een concessie bindt.   
+3.  Bij algemene maatregel van bestuur kan aan Onze Minister de bevoegdheid worden verleend tot het nemen van een beslissing over geschillen als bedoeld in het tweede lid, onderdeel b, ten derde, die de houders van een concessie bindt.  
 
 ### Artikel  44a  
 
 1.  Een krachtens deze wet verleende concessie, machtiging of ontheffing kan op aanvraag van de houder van die concessie, machtiging of ontheffing, geheel of gedeeltelijk aan een ander worden overgedragen met toestemming van Onze Minister.   
 2.  De voorschriften en beperkingen die aan een geheel of gedeeltelijk over te dragen vergunning, machtiging of ontheffing zijn verbonden kunnen met het oog op het waarborgen van bestaande belangen worden gewijzigd dan wel aangevuld met nieuwe voorschriften en beperkingen.   
-3.  Onze Minister kan van het besluit tot toestemming mededeling doen in de Staatscourant.   
+3.  Onze Minister kan van het besluit tot toestemming mededeling doen in de Staatscourant.  
 
 ### Artikel  44b  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.   
-2.  In afwijking van hoofdstuk VIII kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt. Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van hoofdstuk VIII toe te passen.   
-3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.   
+2.  In afwijking van hoofdstuk VIII kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md). Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van hoofdstuk VIII toe te passen.  
+3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.  
 
 ### Artikel  44c  
 
 1.  Een concessie die is verleend krachtens artikel 2, eerste lid, van Landsverordening op de telecommunicatie-voorzieningen wordt gelijkgesteld met een concessie verleend krachtens artikel 2, eerste lid.   
-2.  Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens artikel 7 van de Landverordening op de telecommunicatie-voorzieningen van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.   
+2.  Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens artikel 7 van de Landverordening op de telecommunicatie-voorzieningen van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.  
 
 ### Artikel  44d  
 
@@ -682,15 +682,15 @@ c. de taken en bevoegdheden van een dergelijke raad ten aanzien van:
 4.  Een aanvullende machtiging die is verleend krachtens artikel 18b, tweede lid, van Landsverordening op de telecommunicatie-voorzieningen wordt gelijkgesteld met een machtiging verleend krachtens artikel 18, tweede lid.   
 5.  Een machtiging die is verleend krachtens artikel 18c, eerste lid, van Landsverordening op de telecommunicatie-voorzieningen wordt gelijkgesteld met een machtiging verleend krachtens artikel 18c, eerste lid.   
 6.  Een ontheffing die is verleend krachtens artikel 19, tweede lid, van Landsverordening op de telecommunicatie-voorzieningen wordt gelijkgesteld met een machtiging verleend krachtens artikel 19, tweede lid.   
-7.  Bij algemene maatregel van bestuur kan de termijn worden vastgesteld gedurende welke een ontheffing, machtiging, aanvullende machtiging, als bedoeld in het eerste tot en met zesde lid, geldt.   
+7.  Bij algemene maatregel van bestuur kan de termijn worden vastgesteld gedurende welke een ontheffing, machtiging, aanvullende machtiging, als bedoeld in het eerste tot en met zesde lid, geldt.  
 
-### Artikel  44e  
+###Artikel 44e 
 
-1.  Bij regeling van Onze Minister worden nummerplannen vastgesteld waarin in ieder geval de bestemming van de daarin opgenomen nummers wordt aangegeven.   
-2.  Het is verboden voor een bestemming die voorkomt in een nummerplan andere nummers te gebruiken dan de nummers die in dat plan voor die bestemming zijn opgenomen.   
-3.  Gedurende de voorbereiding van een nummerplan kunnen, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers worden toegekend gedurende een bij dat besluit vast te stellen termijn. Het verbod, bedoeld in het tweede lid, is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.   
-4.  Het is verboden nummers voorkomende in een nummerplan, alsmede nummers door Onze Minister aangewezen overeenkomstig het derde lid te gebruiken voor de in een nummerplan onderscheidenlijk in de aanwijzing opgenomen bestemming zonder of in afwijking van een toekenning door een daartoe bevoegde instantie.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot het beheer en het gebruik van nummers.   
+1. Bij regeling van Onze Minister worden nummerplannen vastgesteld waarin in ieder geval de bestemming van de daarin opgenomen nummers wordt aangegeven.
+2. Het is verboden voor een bestemming die voorkomt in een nummerplan andere nummers te gebruiken dan de nummers die in dat plan voor die bestemming zijn opgenomen.
+3. Gedurende de voorbereiding van een nummerplan kunnen, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers worden toegekend gedurende een bij dat besluit vast te stellen termijn. Het verbod, bedoeld in het tweede lid, is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.
+4. Het is verboden nummers voorkomende in een nummerplan, alsmede nummers door Onze Minister aangewezen overeenkomstig het derde lid te gebruiken voor de in een nummerplan onderscheidenlijk in de aanwijzing opgenomen bestemming zonder of in afwijking van een toekenning door een daartoe bevoegde instantie.
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot het beheer en het gebruik van nummers.
 
 ### Hoofdstuk  XII  
 
@@ -698,16 +698,16 @@ c. de taken en bevoegdheden van een dergelijke raad ten aanzien van:
 
 ### Artikel  45  
 
-[Vervallen]  
+[Vervallen] 
 
 ### Artikel  46  
 
-[Vervallen]  
+[Vervallen] 
 
 ### Artikel  47  
 
-[Vervallen]  
+[Vervallen] 
 
 ### Artikel  48  
 
-Deze wet wordt aangehaald als: Wet telecommunicatievoorzieningen BES.  
+Deze wet wordt aangehaald als: Wet telecommunicatievoorzieningen BES. 

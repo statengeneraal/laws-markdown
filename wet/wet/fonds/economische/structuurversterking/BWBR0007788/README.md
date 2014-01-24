@@ -12,8 +12,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  Er is een Fonds economische structuurversterking, hierna te noemen: het fonds.   
-2.  Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
-3.  Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Financiën beheren de begroting van het fonds.   
+2.   Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+3.   Onze Ministers van Economische Zaken en van Financiën beheren de begroting van het fonds.  
 
 ### Artikel  2  
 
@@ -25,16 +25,16 @@ b. het bedrag dat overeenkomt met de rentelasten die bespaard worden als gevolg 
 
 c. inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid, tot ten hoogste het nominale bedrag uit het Fes dat is besteed voor de voorfinanciering van de geraamde private bijdragen in de aanleg;  
 
-d. andere door Onze Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;  
+d. andere door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;  
 
-e. andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen;  
+e. andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen;   
 
 f. het bedrag dat overeenkomt met de annuïteiten op basis van de opbrengsten van de hierna te noemen geveilde rechten, met een looptijd die overeenkomt met de voorziene looptijd van die rechten: 
 
 1°. de verlening van het recht om bepaalde etherfrequenties te gebruiken, alsmede de verlening van het recht op het gebruik van analoge en digitale radio- en televisiefrequenties;  
 
 2°. de verlening in het jaar 2000 van het recht om UMTS-frequenties te gebruiken.       
-2.  Onder ontvangsten als bedoeld in het eerste lid, onder a, worden niet verstaan de ontvangsten van Energie Beheer Nederland B.V., meerjarige stand Miljoenennota 2002, voortkomend uit de verwerving van de certificaten Energie Beheer Nederland B.V.   
+2.  Onder ontvangsten als bedoeld in het eerste lid, onder a, worden niet verstaan de ontvangsten van Energie Beheer Nederland B.V., meerjarige stand Miljoenennota 2002, voortkomend uit de verwerving van de certificaten Energie Beheer Nederland B.V.  
 3.  Opbrengsten als bedoeld in het eerste lid, onder b, zijn: 
 
 a. ontvangsten van de staat, verkregen in verband met de overbelevering van aardgas door de Nederlandse Aardolie Maatschappij b.v. aan Brigitta Erdgas und Erdöl GmbH uit aardgaswinning in de Eemsmonding,  
@@ -53,13 +53,13 @@ c. de opbrengst van de verkoop van Roccade Informatica Groep n.v. voor zover dez
 d. de opbrengst van de verkoop van aandelen die zijn verkregen bij wijze van dividend.     
 5.  Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op langlopende staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.   
 6.  Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het derde lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.   
-7.  Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken, Landbouw en Innovatie in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.   
+7.  Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.  
 
 ### Artikel  3  
 
-1.  Ten laste van het fonds kunnen bijdragen worden toegekend aan andere begrotingen van het Rijk als bedoeld in [artikel 1, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) ten behoeve van de financiering van: 
+1.  Ten laste van het fonds kunnen bijdragen worden toegekend aan andere begrotingen van het Rijk als bedoeld in [artikel 1, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) ten behoeve van de financiering van:  
 
-a. investeringsprojecten van nationaal belang waarmee beoogd wordt de economische structuur te versterken, voorzover betrekking hebbend op: 
+a. investeringsprojecten van nationaal belang waarmee beoogd wordt de economische structuur te versterken, voorzover betrekking hebbend op:  
 
 1°. de verkeers- en vervoersinfrastructuur met inbegrip van kosten die samenhangen met milieumaatregelen;  
 
@@ -72,33 +72,33 @@ a. investeringsprojecten van nationaal belang waarmee beoogd wordt de economisch
 5°. de ecologische hoofdstructuur, voor zover een functionele relatie bestaat met projecten genoemd onder 1°;    
 
 b. de projecten in het kader van de investeringsimpuls, zoals bedoeld in de Voorjaarsnota 1993 (Kamerstukken II 1992/93, 23 100, nr. 1).     
-2.  Aan de toekenning van een bijdrage kunnen voorwaarden worden verbonden.   
+2.   Aan de toekenning van een bijdrage kunnen voorwaarden worden verbonden.  
 
 ### Artikel  4  
 
 1.  Ten gunste van de begroting van het fonds van enig jaar wordt het gerealiseerde batig saldo van het fonds van het voorafgaande jaar gebracht.   
-2.  Ten laste van de begroting van het fonds van enig jaar wordt het gerealiseerde nadelig saldo van het fonds van het voorafgaande jaar gebracht.   
+2.   Ten laste van de begroting van het fonds van enig jaar wordt het gerealiseerde nadelig saldo van het fonds van het voorafgaande jaar gebracht.   
 3.  Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in artikel 2, eerste lid, onder a.   
-4.  In afwijking van [artikel 2, derde lid](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en [artikel 52, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.   
+4.   In afwijking van [artikel 2, derde lid](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en [artikel 52, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.  
 
 ### Artikel  5  
 
-Onze Minister van Economische Zaken, Landbouw en Innovatie kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.  
+Onze Minister van Economische Zaken kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen. 
 
-### Artikel  5a  
+###Artikel 5a 
 
-1.  In afwijking van artikel 2, eerste lid, onderdeel a, wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.   
-2.  In afwijking van artikel 2, tweede lid, worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in artikel 2, eerste lid, onderdeel a, verstaan.   
-3.  Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in artikel 2, eerste lid, aanhef, verminderd met € 1 000 000 000.   
-4.  Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in artikel 2, eerste lid, aanhef, vermeerderd met € 1 000 000 000 vermeerderd met rente.   
+1. In afwijking van artikel 2, eerste lid, onderdeel a, wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast. 
+2. In afwijking van artikel 2, tweede lid, worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in artikel 2, eerste lid, onderdeel a, verstaan. 
+3. Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in artikel 2, eerste lid, aanhef, verminderd met € 1 000 000 000. 
+4. Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in artikel 2, eerste lid, aanhef, vermeerderd met € 1 000 000 000 vermeerderd met rente.
 
 ### Artikel  6  
 
-Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1993.  
+Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1993. 
 
 ### Artikel  7  
 
-Deze wet kan worden aangehaald als: Wet Fonds economische structuurversterking.  
+Deze wet kan worden aangehaald als: Wet Fonds economische structuurversterking. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

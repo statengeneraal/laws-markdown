@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. verordening: verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 (PbEU L 218) tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93;  
 
@@ -24,7 +24,7 @@ c. conformiteitsbeoordelingsinstantie: conformiteitsbeoordelingsinstantie als be
 
 d. accreditatie: accreditatie als bedoeld in artikel 2, onderdeel 10, juncto artikel 3 van de verordening;  
 
-e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in artikel 2, eerste lid.    
+e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in artikel 2, eerste lid.   
 
 ### Hoofdstuk  2  
 
@@ -33,7 +33,7 @@ e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in artike
 ### Artikel  2  
 
 1.  De Stichting Raad voor Accreditatie wordt aangewezen als nationale accreditatie-instantie in de zin van artikel 4 van de verordening.   
-2.  Het bestuur van de Raad voor Accreditatie wordt aangewezen als bestuursorgaan dat de in de verordening en deze wet aan de nationale accreditatie-instantie opgedragen taken uitvoert.   
+2.  Het bestuur van de Raad voor Accreditatie wordt aangewezen als bestuursorgaan dat de in de verordening en deze wet aan de nationale accreditatie-instantie opgedragen taken uitvoert.  
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in artike
 
 a. de Raad voor Accreditatie niet langer voldoet aan de eisen van de verordening of  
 
-b. een goede taakvervulling of onafhankelijke besluitvorming binnen de Raad voor Accreditatie onvoldoende is gewaarborgd.     
+b. een goede taakvervulling of onafhankelijke besluitvorming binnen de Raad voor Accreditatie onvoldoende is gewaarborgd.    
 
 ### Hoofdstuk  3  
 
@@ -54,7 +54,7 @@ De Raad voor Accreditatie is belast met:
 
 a. het uitvoeren van de in de verordening aan de nationale accreditatie-instantie opgedragen taken;  
 
-b. het verrichten van werkzaamheden op het gebied van accreditatie in verband met de uitvoering van verdragen of internationale afspraken, na een daartoe strekkend verzoek van Onze Minister.    
+b. het verrichten van werkzaamheden op het gebied van accreditatie in verband met de uitvoering van verdragen of internationale afspraken, na een daartoe strekkend verzoek van Onze Minister.   
 
 ### Artikel  5  
 
@@ -63,16 +63,16 @@ b. het verrichten van werkzaamheden op het gebied van accreditatie in verband me
 
 a. de aanvrager voor het verkrijgen van de accreditatie enkele wijzigingen moet aanbrengen in zijn onderneming of werkwijze alvorens de accreditatie kan worden verleend of  
 
-b. het niet mogelijk is een onderzoek naar de geschiktheid voor de accreditatie te doen wegens een feitelijk gebrek aan de zijde van de aanvrager, dat niet aan de aanvrager te wijten is, in de mogelijkheden om dat onderzoek uit te voeren.     
+b. het niet mogelijk is een onderzoek naar de geschiktheid voor de accreditatie te doen wegens een feitelijk gebrek aan de zijde van de aanvrager, dat niet aan de aanvrager te wijten is, in de mogelijkheden om dat onderzoek uit te voeren.    
 
 ### Artikel  6  
 
-De Raad voor Accreditatie kan aan een besluit tot accreditatie voorwaarden verbinden die strekken tot de verwezenlijking van het doel van de accreditatie.  
+De Raad voor Accreditatie kan aan een besluit tot accreditatie voorwaarden verbinden die strekken tot de verwezenlijking van het doel van de accreditatie. 
 
 ### Artikel  7  
 
 1.  De Raad voor Accreditatie stelt tarieven vast voor de door hem te verrichten werkzaamheden ten behoeve van conformiteitsbeoordelingsinstanties.   
-2.  De Raad voor Accreditatie kan voorts tarieven vaststellen die eenmalig of jaarlijks verschuldigd zijn voor informatieverstrekking en andere activiteiten in het kader van zijn contacten met conformiteitsbeoordelingsinstanties.   
+2.  De Raad voor Accreditatie kan voorts tarieven vaststellen die eenmalig of jaarlijks verschuldigd zijn voor informatieverstrekking en andere activiteiten in het kader van zijn contacten met conformiteitsbeoordelingsinstanties.  
 
 ### Hoofdstuk  4  
 
@@ -80,7 +80,7 @@ De Raad voor Accreditatie kan aan een besluit tot accreditatie voorwaarden verbi
 
 ### Artikel  8  
 
-De [artikelen 26 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn van toepassing ten aanzien van het financieel beheer en verantwoording door de Raad voor Accreditatie.  
+De [artikelen 26 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn van toepassing ten aanzien van het financieel beheer en verantwoording door de Raad voor Accreditatie. 
 
 ### Hoofdstuk  5  
 
@@ -88,7 +88,7 @@ De [artikelen 26 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](../
 
 ### Artikel  9  
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.   
+Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 ### Hoofdstuk  6  
 
@@ -96,29 +96,29 @@ Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 ### Artikel  10  
 
-Op verzoeken om accreditatie die aan de Raad voor Accreditatie zijn gedaan voor 1 januari 2010 en waarop op die datum nog geen beslissing is genomen, wordt besloten met inachtneming van deze wet.  
+Op verzoeken om accreditatie die aan de Raad voor Accreditatie zijn gedaan voor 1 januari 2010 en waarop op die datum nog geen beslissing is genomen, wordt besloten met inachtneming van deze wet. 
 
 ### Artikel  11  
 
-Deze wet treedt in werking met ingang van 1 januari 2010. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2009, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2010.  
+Deze wet treedt in werking met ingang van 1 januari 2010. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2009, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2010. 
 
 ### Artikel  12  
 
-Deze wet wordt aangehaald als: Wet aanwijzing nationale accreditatie-instantie.  
+Deze wet wordt aangehaald als: Wet aanwijzing nationale accreditatie-instantie. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 29 oktober 2009  
 Beatrix  
 
-De Minister van Economische Zaken, 
-M. J. A. van derHoeven 
+De Minister van Economische Zaken , 
+M. J. A. van der Hoeven   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
+G. ter Horst   
 
 *tiende* november 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

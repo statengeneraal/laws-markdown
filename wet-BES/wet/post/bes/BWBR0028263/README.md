@@ -10,21 +10,21 @@
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a.  *Onze Minister:* Onze Minister van Economische Zaken;  
 
-b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
+b.  *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
-c. *houder van de concessie:* de rechtspersoon, waaraan een concessie is verleend op grond van artikel 2, eerste lid;  
+c.  *houder van de concessie:* de rechtspersoon, waaraan een concessie is verleend op grond van artikel 2, eerste lid;  
 
-d. *brieven:* bescheiden en schriftelijke mededelingen, al dan niet verpakt, met uitzondering van die welke door toepassing van druk- of andere vermenigvuldigingstechnieken in een aantal geheel met elkaar overeenstemmende exemplaren ter verspreiding zijn vervaardigd en waarin, behoudens de adressering, geen bijvoegingen, doorhalingen of aanduidingen zijn aangebracht;  
+d.  *brieven:* bescheiden en schriftelijke mededelingen, al dan niet verpakt, met uitzondering van die welke door toepassing van druk- of andere vermenigvuldigingstechnieken in een aantal geheel met elkaar overeenstemmende exemplaren ter verspreiding zijn vervaardigd en waarin, behoudens de adressering, geen bijvoegingen, doorhalingen of aanduidingen zijn aangebracht;  
 
-e. *postzendingen:* brieven en andere geadresseerde zendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens artikel 2, tweede lid, verplicht is te vervoeren;  
+e.  *postzendingen:* brieven en andere geadresseerde zendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens artikel 2, tweede lid, verplicht is te vervoeren;  
 
-f. *vervoer:* het geheel van handelingen dat ertoe leidt dat een ter verzending aangeboden postzending wordt afgeleverd;  
+f.  *vervoer:* het geheel van handelingen dat ertoe leidt dat een ter verzending aangeboden postzending wordt afgeleverd;  
 
-g. *de akten van de Wereldpostunie:* de Constitutie (Trb. 1965, 170) met in begrip van alle daarin sedertdien aangebrachte en nog aan te brengen wijzigingen, het Algemeen Postverdrag en de overige Overeenkomsten, gesloten door de leden van de Wereldpostunie, alsmede de daarbij behorende reglementen;  
+g.  *de akten van de Wereldpostunie:* de Constitutie (Trb. 1965, 170) met in begrip van alle daarin sedertdien aangebrachte en nog aan te brengen wijzigingen, het Algemeen Postverdrag en de overige Overeenkomsten, gesloten door de leden van de Wereldpostunie, alsmede de daarbij behorende reglementen;  
 
-h. *algemene voorwaarden:* door de houder van de concessie opgestelde schriftelijke bedingen, die in overeenkomsten terzake van het vervoer van postzendingen worden opgenomen.    
+h.  *algemene voorwaarden:* door de houder van de concessie opgestelde schriftelijke bedingen, die in overeenkomsten terzake van het vervoer van postzendingen worden opgenomen.   
 
 ### Hoofdstuk  II  
 
@@ -44,7 +44,7 @@ c. het uitgeven van postzegels en postzegelafdrukken met daarop een afbeelding v
 a. op en tussen het grondgebied van de openbare lichamen tot het gewicht en de afmetingen die bij algemene maatregel van bestuur zijn aangegeven;  
 
 b. van en naar Nederland, Aruba, Curaçao en Sint Maarten, alsmede van en naar het buitenland met inachtneming van de terzake geldende bepalingen van de akten van de Wereldpostunie dan wel van andere voor de Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties.     
-3.  De houder van concessies weigert het vervoer van een postzending indien het vervoer strijdig is met enig wettelijk voorschrift of gevaar oplevert voor personen of zaken en kan het vervoer weigeren indien het vervoer strijdig is met de eisen die met het oog op een doelmatig vervoer in algemene voorwaarden worden gesteld.   
+3.  De houder van concessies weigert het vervoer van een postzending indien het vervoer strijdig is met enig wettelijk voorschrift of gevaar oplevert voor personen of zaken en kan het vervoer weigeren indien het vervoer strijdig is met de eisen die met het oog op een doelmatig vervoer in algemene voorwaarden worden gesteld.  
 
 ### Artikel  3  
 
@@ -54,14 +54,14 @@ b. van en naar Nederland, Aruba, Curaçao en Sint Maarten, alsmede van en naar h
 
 a. het waarborgen van een goede toepassing van het eerste lid;  
 
-b. het verlenen van de nodige medewerking aan Onze Minister en Onze Minister van Buitenlandse Zaken bij de voorbereiding van verdragen en besluiten als bedoeld in het eerste lid en het in verband daarmee te voeren internationale overleg.     
+b. het verlenen van de nodige medewerking aan Onze Minister en Onze Minister van Buitenlandse Zaken bij de voorbereiding van verdragen en besluiten als bedoeld in het eerste lid en het in verband daarmee te voeren internationale overleg.    
 
 ### Artikel  4  
 
 1.  De houder van de concessie kan de uitvoering van de ingevolge deze wet op hem rustende verplichtingen geheel of gedeeltelijk doen geschieden door een rechtspersoon, waarvan de houder van de concessie tenminste 51 ten honderd van het geplaatste kapitaal bezit en waarin de houder van de concessie de bevoegdheid heeft de meerderheid van de bestuurders van de rechtspersoon te benoemen, te schorsen en te ontslaan.   
 2.  Bij toepassing van het eerste lid blijft de houder van de concessie jegens Onze Minister verantwoordelijk.   
 3.  Daartoe geeft de houder van de concessie aan de in het eerste lid bedoelde rechtspersoon de nodige instructies, die deze gehouden is op te volgen.   
-4.  Bij toepassing van het eerste lid geldt het in de artikelen 7, 8, 11, 12 en 13 met betrekking tot de houder van de concessie bepaalde mede ten aanzien van de in het eerste lid bedoelde rechtspersoon.   
+4.  Bij toepassing van het eerste lid geldt het in de artikelen 7, 8, 11, 12 en 13 met betrekking tot de houder van de concessie bepaalde mede ten aanzien van de in het eerste lid bedoelde rechtspersoon.  
 
 ### Artikel  5  
 
@@ -82,11 +82,11 @@ f. het verstrekken van periodieke informatie aan Onze Minister ten dienste van h
 
 g. de gronden voor intrekking van de concessie.     
 3.  De concessievoorwaarden of algemene richtlijnen bevatten alleen verplichtingen ten aanzien van het door de houder van de concessie te bereiken resultaat en niet ten aanzien van de wijze van bedrijfsvoering om dit resultaat te bereiken.   
-4.  Een besluit tot vaststelling of wijziging van de concessievoorwaarden of algemene richtlijnen wordt genomen met inachtneming van een bedrijfsmatige en op continuïteit gerichte exploitatie door de houder van de concessie.   
+4.  Een besluit tot vaststelling of wijziging van de concessievoorwaarden of algemene richtlijnen wordt genomen met inachtneming van een bedrijfsmatige en op continuïteit gerichte exploitatie door de houder van de concessie.  
 
 ### Artikel  6  
 
-Een besluit tot wijziging van de in artikel 5 bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang zulks dringend vordert of de houder van de concessie instemt dat de wijziging eerder van kracht wordt.  
+Een besluit tot wijziging van de in artikel 5 bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang zulks dringend vordert of de houder van de concessie instemt dat de wijziging eerder van kracht wordt. 
 
 ### Artikel  7  
 
@@ -105,31 +105,31 @@ e. aanhouding op last van daartoe bevoegd gezag.
 3.  Vorderingen kunnen slechts worden ingediend door de afzender. Indien de schade is geleden door een ander dan de afzender, is de afzender van rechtswege bevoegd ten behoeve van die ander, hetzij op eigen naam hetzij als diens vertegenwoordiger, de vordering in te stellen.   
 4.  Bij algemene maatregel van bestuur worden bedragen vastgesteld waarboven de aansprakelijkheid bedoeld in het eerste lid zich niet uitstrekt, waarbij de hoogte van de afzonderlijke bedragen kan worden bepaald naar gelang van onder meer de soorten van registratie alsmede naar gelang van de aard en de waarde van de postzending.   
 5.  De houder van de concessie kan zich niet beroepen op een uit de voorgaande leden van dit artikel voortvloeiende uitsluiting of beperking van zijn aansprakelijkheid voor zover de schade is ontstaan uit zijn eigen handelen of nalaten, geschied hetzij met de opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.   
-6.  Ter zake van het internationale vervoer van postzendingen als bedoeld in artikel 2, tweede lid, onderdeel b, is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van de akten van de Wereldpostunie dan wel andere voor Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties.   
+6.  Ter zake van het internationale vervoer van postzendingen als bedoeld in artikel 2, tweede lid, onderdeel b, is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van de akten van de Wereldpostunie dan wel andere voor Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties.  
 
 ### Artikel  8  
 
 1.  De gezagvoerders van vertrekkende schepen en luchtvaartuigen zijn verplicht zich te belasten met het vervoer – tegen vergoeding – van stukken en pakketten, hetwelk hun door de houder van de concessie wordt opgedragen, voor zover bij andere wettelijke regelingen geen kosteloos vervoer is verplicht gesteld.   
 2.  De in het eerste lid bedoelde schepen en luchtvaartuigen worden niet uitgeklaard, indien hun gezagvoerders weigeren de in het eerste lid bedoelde opdracht te aanvaarden.   
 3.  De vergoeding, bedoeld in het eerste lid, wordt in onderling overleg bepaald.   
-4.  Bij gebreke van overeenstemming wordt deze vergoeding op verzoek van de meest gerede partij vastgesteld door de rechter in eerste aanleg, zittingsplaats Curaçao.   
+4.  Bij gebreke van overeenstemming wordt deze vergoeding op verzoek van de meest gerede partij vastgesteld door het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.   
 5.  De gezagvoerders van schepen en luchtvaartuigen zijn verplicht voor het behoud van het te vervoeren goed te zorgen van het ogenblik van de inontvangstneming tot dat van de aflevering.   
 6.  De gezagvoerders van schepen en luchtvaartuigen zijn verplicht de stukken en pakketten, waarvan het vervoer hun is opgedragen, zo spoedig mogelijk, doch in elk geval binnen 12 uren na aankomst, op de plaats van bestemming af te geven aan het naastbijgelegen postkantoor, tenzij de stukken en pakketten reeds door een persoon werkzaam bij de houder van de concessie zijn opgevraagd en aan hem ter hand gesteld.   
 7.  De exploitanten van schepen en luchtvaartuigen zijn ter zake van het vervoer uitsluitend jegens de houder van de concessie aansprakelijk. Deze aansprakelijkheid is beperkt tot de bedragen, welke de houder van de concessie wettelijk gehouden is aan de afzender te vergoeden.   
-8.  Overeenkomsten betreffende het postvervoer kunnen worden aangegaan voor een termijn van ten hoogste vijf jaren.   
+8.  Overeenkomsten betreffende het postvervoer kunnen worden aangegaan voor een termijn van ten hoogste vijf jaren.  
 
 ### Artikel  9  
 
 1.  De Minister kan ter bevordering van de aflevering aan geadresseerden van voor hen bestemde postzendingen regels vaststellen omtrent plaats, afmetingen en andere hoedanigheden van de voor die aflevering bestemde brievenbussen.   
-2.  Postzendingen die naar hun aard en omvang in aanmerking komen voor aflevering in brievenbussen als bedoeld in het eerste lid, kunnen als onbestelbaar worden aangemerkt indien het opgegeven adres niet beschikt over een brievenbus die aan de krachtens het eerste lid gestelde regels voldoet.   
+2.  Postzendingen die naar hun aard en omvang in aanmerking komen voor aflevering in brievenbussen als bedoeld in het eerste lid, kunnen als onbestelbaar worden aangemerkt indien het opgegeven adres niet beschikt over een brievenbus die aan de krachtens het eerste lid gestelde regels voldoet.  
 
 ### Artikel  10  
 
-Onbestelbare gesloten postzendingen die niet aan de afzender kunnen worden teruggegeven kunnen slechts geopend worden op last van de rechter in eerste aanleg, zittingsplaats Curaçao, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens.  
+Onbestelbare gesloten postzendingen die niet aan de afzender kunnen worden teruggegeven kunnen slechts geopend worden op last van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens. 
 
 ### Artikel  11  
 
-Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn toevertrouwd, is slechts toegelaten in de gevallen waarin bij wet een zodanig beslag uitdrukkelijk is geregeld.  
+Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn toevertrouwd, is slechts toegelaten in de gevallen waarin bij wet een zodanig beslag uitdrukkelijk is geregeld. 
 
 ### Artikel  12  
 
@@ -162,12 +162,12 @@ g. worden vervoerd met een ontheffing verleend ingevolge artikel 13, eerste lid.
 
 a. aan daartoe door Onze Minister aan te wijzen ambtenaren zowel mondeling als schriftelijk alle inlichtingen te verstrekken die redelijkerwijs nodig zijn voor het toezicht op de naleving van het bepaalde in het tweede lid, onderdeel a, en  
 
-b. als tegemoetkoming in de kosten die met de registratie zijn gemaakt en het toezicht op de naleving van het bepaalde in het tweede lid, onderdeel a, jaarlijks een door Onze Minister te bepalen vergoeding te betalen.     
+b. als tegemoetkoming in de kosten die met de registratie zijn gemaakt en het toezicht op de naleving van het bepaalde in het tweede lid, onderdeel a, jaarlijks een door Onze Minister te bepalen vergoeding te betalen.    
 
 ### Artikel  13  
 
 1.  De Minister is bevoegd om voor bijzondere omstandigheden, waarin de houder van de concessie niet voorziet in het vervoer van brieven die elk afzonderlijk ten hoogste 2000 gram wegen, aan anderen dan de houder van de concessie van het verbod bedoeld in artikel 12, eerste lid, ontheffing te verlenen onder door Onze Minister daaraan te verbinden voorschriften en beperkingen, welke in verband met de bijzondere omstandigheden redelijkerwijze nodig zijn.   
-2.  Bij toepassing van het eerste lid is Onze Minister bevoegd voor deze ontheffing, als tegemoetkoming in de kosten die met verlening van de ontheffing zijn gemoeid, een vergoeding vast te stellen.   
+2.  Bij toepassing van het eerste lid is Onze Minister bevoegd voor deze ontheffing, als tegemoetkoming in de kosten die met verlening van de ontheffing zijn gemoeid, een vergoeding vast te stellen.  
 
 ### Hoofdstuk  III  
 
@@ -178,7 +178,7 @@ b. als tegemoetkoming in de kosten die met de registratie zijn gemaakt en het to
 1.  De houder van de concessie, bedoeld in artikel 2, eerste lid, de vervoerder, bedoeld in artikel 12, tweede lid, onderdeel a, sub 2°, en de houder van een ontheffing als bedoeld in artikel 13, eerste lid, zijn ter dekking van de kosten die verband houden met de werkzaamheden van Onze Minister, of de bestuursorganen of het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md), bedoeld in artikel 27, jaarlijks een vergoeding verschuldigd voor zover deze kosten niet reeds krachtens artikel 13, tweede lid, verschuldigd zijn.   
 2.  De vergoeding wordt bepaald aan de hand van de door Onze Minister, de bestuursorganen of het college te verrichten werkzaamheden toegerekend aan de onderscheiden marktcategorieën. Van de toerekening van kosten van werkzaamheden zijn uitgezonderd de kosten verbonden aan de behandeling van bezwaarschriften en aan het optreden als procespartij bij behandeling van beroepsschriften.   
 3.  Onze Minister stelt de hoogte van de vergoeding vast. Indien de vergoeding betrekking heeft op werkzaamheden van een bestuursorgaan of het college wordt de vergoeding vastgesteld op voorstel van het betreffende orgaan. De vergoeding wordt opgelegd door en wordt voldaan aan het betreffende orgaan dat de werkzaamheden heeft verricht.   
-4.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven met betrekking tot de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.   
+4.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven met betrekking tot de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.  
 
 ### Hoofdstuk  IV  
 
@@ -193,13 +193,13 @@ b. als tegemoetkoming in de kosten die met de registratie zijn gemaakt en het to
 5.  De Minister kan een krachtens het tweede lid opgelegde boete, verhoogd met de op de invordering vallende kosten, bij dwangbevel invorderen.   
 6.  Het dwangbevel wordt op kosten van de overtreder bij deurwaarders-exploit betekend en levert een executoriale titel op in de zin artikel 310 van het Wetboek van Burgerlijke Rechtsvordering BES.   
 7.  Gedurende een maand na betekening staat verzet tegen het dwang-bevel open door dagvaarding van Nederland.   
-8.  Het verzet schorst de tenuitvoeringlegging. Op verzoek van Nederland kan de rechter de schorsing van de tenuitvoerlegging opheffen.   
+8.  Het verzet schorst de tenuitvoeringlegging. Op verzoek van Nederland kan de rechter de schorsing van de tenuitvoerlegging opheffen.  
 
 ### Artikel  16  
 
 1.  Het is anders dan krachtens de concessie verboden postzegels of postzegelafdrukken te vervaardigen, te verspreiden of ter verspreiding in voorraad te hebben met daarop een afbeelding van de Koning dan wel de vermelding Nederland.   
 2.  Het is anders dan krachtens de concessie voor het publiek bestemde brievenbussen dan wel postbussen aan of op de openbare weg te plaatsen.   
-3.  Het is verboden zegels, zegelafdrukken, stempelafdrukken of aanduidingen op zodanige wijze te bezigen, dat zij ten onrechte de indruk kunnen wekken, dat de bescheiden of voorwerpen, waarop zij voorkomen, door de houder van de concessie behandeld of van de houder van de concessie afkomstig zijn.   
+3.  Het is verboden zegels, zegelafdrukken, stempelafdrukken of aanduidingen op zodanige wijze te bezigen, dat zij ten onrechte de indruk kunnen wekken, dat de bescheiden of voorwerpen, waarop zij voorkomen, door de houder van de concessie behandeld of van de houder van de concessie afkomstig zijn.  
 
 ### Artikel  17  
 
@@ -213,13 +213,13 @@ b. degene, die door de houder van de concessie doet vervoeren enig niet door mid
 
 c. degene, die onbevoegd gebruik maakt van één of meer der in onderdeel b bedoelde opschriften of aanduidingen.     
 4.  De voorwerpen, waarmede één der overtredingen, bedoeld in artikel 16, derde lid, is gepleegd, kunnen voor zover zij de veroordeelde toebehoren, bij de veroordeling worden verbeurd verklaard.   
-5.  De strafbare feiten in deze wet, worden beschouwd als overtredingen.   
+5.  De strafbare feiten in deze wet, worden beschouwd als overtredingen.  
 
 ### Artikel  18  
 
 1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) bedoelde ambtenaren, belast de daartoe door Onze Minister, in overeenstemming met Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. Zij zijn bevoegd tot aanhouding en visitatie van vaar- en voertuigen waarmede de overtreding vermoed wordt te zijn begaan.   
 2.  De stukken, waarmee de overtreding vermoed wordt te zijn gepleegd worden in beslag genomen. Van de aanhouding der stukken wordt aan de geadresseerde kennis gegeven.   
-3.  De in beslag genomen stukken worden na afloop van het strafgeding aan de geadresseerde uitgereikt, tenzij daaromtrent bij rechterlijke vonnis anders is beslist.   
+3.  De in beslag genomen stukken worden na afloop van het strafgeding aan de geadresseerde uitgereikt, tenzij daaromtrent bij rechterlijke vonnis anders is beslist.  
 
 ### Hoofdstuk  V  
 
@@ -227,19 +227,19 @@ c. degene, die onbevoegd gebruik maakt van één of meer der in onderdeel b bedo
 
 ### Artikel  19  
 
-In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekking is Onze Minister bevoegd om in overeenstemming met Onze Minister van Buitenlandse Zaken aan de houder van de concessie of het openbaar lichaam aanwijzingen te geven met betrekking tot het vervoer van postzending van en naar het buitenland.  
+In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekking is Onze Minister bevoegd om in overeenstemming met Onze Minister van Buitenlandse Zaken aan de houder van de concessie of het openbaar lichaam aanwijzingen te geven met betrekking tot het vervoer van postzending van en naar het buitenland. 
 
 ### Artikel  20  
 
-De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft diens goedkeuring.  
+De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft diens goedkeuring. 
 
 ### Artikel  21  
 
-Alle bescheiden, welke door de houder van de concessie bij de uitvoering van de postdienst worden gebezigd voor handelingen ten behoeve van de gebruikers van de dienst of hun gemachtigden zijn vrij van zegel mits deze bestemming uit de stukken blijkt.  
+Alle bescheiden, welke door de houder van de concessie bij de uitvoering van de postdienst worden gebezigd voor handelingen ten behoeve van de gebruikers van de dienst of hun gemachtigden zijn vrij van zegel mits deze bestemming uit de stukken blijkt. 
 
 ### Artikel  22  
 
-Bij de voorbereiding van besluiten als bedoeld in de artikel 2, tweede lid, aanhef onder a, 3, derde lid, 5, eerste lid, 7, vierde lid, 9, eerste lid, 12, tweede lid, onderdeel a, ten 2°, 14, eerste lid, of wijzigingen van die besluiten, voert Onze Minister tijdig overleg met de houder van de concessie.  
+Bij de voorbereiding van besluiten als bedoeld in de artikel 2, tweede lid, aanhef onder a, 3, derde lid, 5, eerste lid, 7, vierde lid, 9, eerste lid, 12, tweede lid, onderdeel a, ten 2°, 14, eerste lid, of wijzigingen van die besluiten, voert Onze Minister tijdig overleg met de houder van de concessie. 
 
 ### Hoofdstuk  VI  
 
@@ -250,25 +250,25 @@ Bij de voorbereiding van besluiten als bedoeld in de artikel 2, tweede lid, aanh
 
 ### Artikel  26  
 
-Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in werking treden van deze wet en die op dat tijdstip nog niet zijn afgerond, worden afgehandeld met inachtneming van de bepalingen van de Postlandsverordening 1998 en de daarop berustende bepalingen.  
+Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in werking treden van deze wet en die op dat tijdstip nog niet zijn afgerond, worden afgehandeld met inachtneming van de bepalingen van de Postlandsverordening 1998 en de daarop berustende bepalingen. 
 
 ### Artikel  27  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Postwet 2009](../../../../../wet/postwet/2009/BWBR0025572/README.md) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.   
-2.  In afwijking van artikel 15, eerste lid, kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt. Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van artikel 15 toe te passen.   
-3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.   
+2.  In afwijking van artikel 15, eerste lid, kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md). Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van artikel 15 toe te passen.  
+3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.  
 
 ### Artikel  27a  
 
 1.  Een concessie die is verleend krachtens artikel 2, eerste lid, van Postlandsverordening 1998, wordt gelijkgesteld met een concessie verleend krachtens artikel 2, eerste lid, en heeft een geldigheidsduur tot 31 december 2012. Indien het belang van de continuïteit van de postvoorziening dat vordert kan de concessie eenmaal met een periode van maximaal 3 jaar worden verlengd. Aan de verlenging kunnen voorwaarden worden verbonden.   
-2.  Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 3 en 5 van Postlandsverordening 1998 van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.   
+2.  Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 3 en 5 van Postlandsverordening 1998 van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.  
 
 ### Artikel  27b  
 
 1.  Een registratie die is verleend krachtens artikel 12, tweede lid, onderdeel a, sub 2, van Postlandsverordening 1998, wordt gelijkgesteld met een registratie verleend krachtens artikel 12, tweede lid, onderdeel a, sub 2.   
 2.  Een ontheffing die is verleend krachtens artikel 13, eerste lid, van de Postlandsverordening 1998, wordt gelijkgesteld met een ontheffing verleend krachtens artikel 13, eerste lid.   
-3.  Bij algemene maatregel van bestuur kan de termijn worden vastgesteld gedurende welke een registratie of een ontheffing als bedoeld in het eerste lid onderscheidenlijk het tweede lid geldt.   
+3.  Bij algemene maatregel van bestuur kan de termijn worden vastgesteld gedurende welke een registratie of een ontheffing als bedoeld in het eerste lid onderscheidenlijk het tweede lid geldt.  
 
 ### Artikel  28  
 
-Deze wet wordt aangehaald als: Wet post BES.  
+Deze wet wordt aangehaald als: Wet post BES. 
