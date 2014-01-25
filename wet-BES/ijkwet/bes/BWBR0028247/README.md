@@ -301,7 +301,7 @@ In beslag genomen maten, gewichten, meet- en weegwerktuigen worden niet aan de r
 
 ### Artikel  39  
 
-Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering Bonaire, Sint Eustatius en Saba](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.  
+Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering Bonaire, Sint Eustatius en Saba](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren.  
 
 ### Artikel  40  
 

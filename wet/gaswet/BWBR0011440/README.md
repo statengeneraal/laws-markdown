@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b.  *gas:*  
 
@@ -677,7 +677,7 @@ c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.
 
 1.  Bij ministeriële regeling worden regels gesteld met betrekking tot de tariefstructuren en voorwaarden als bedoeld in de artikelen 12a en 12b.   
 2.  De Autoriteit Consument en Markt brengt advies uit over het ontwerp van de in het eerste lid bedoelde regels.   
-3.  Een krachtens het eerste lid vastgestelde ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de ministeriële regeling bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling ingetrokken.   
+3.  Een krachtens het eerste lid vastgestelde ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de ministeriële regeling bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling ingetrokken.   
 
 ### Artikel  12a  
 
@@ -1263,7 +1263,9 @@ a. een uitbreiding van het landelijk gastransportnet, voor zover het betreft de 
 
 b. de aanleg of uitbreiding van een landsgrensoverschrijdend gastransportnet als bedoeld in artikel 18h, met inbegrip van de aansluitingen op zo’n net;  
 
-c. de aanleg of uitbreiding van een LNG-installatie met een capaciteit van ten minste 4 miljard m3, met inbegrip van de aansluiting van de installatie op een net.     
+c. een uitbreiding van het landelijk gastransportnet of de aanleg of uitbreiding van een landsgrensoverschrijdend gastransportnet met inbegrip van de aansluitingen op zo’n net, voor zover het een project betreft voor gas dat is opgenomen op de Unielijst van projecten van gemeenschappelijk belang, bedoeld in artikel 3, vierde lid, Verordening (EU) nr. 347/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende richtsnoeren voor de trans-Europese energie-infrastructuur en tot intrekking van Beschikking nr. 1364/2006/EG en tot wijziging van de Verordeningen (EG) nr. 713/2009, (EG) nr. 714/2009 en (EG) nr. 715/2009 (PbEU 2013, L 115);  
+
+d. de aanleg of uitbreiding van een LNG-installatie met een capaciteit van ten minste 4 miljard m3, met inbegrip van de aansluiting van de installatie op een net.     
 2.  Een gasbedrijf meldt een voornemen tot aanleg of uitbreiding van een net of installatie als bedoeld in het eerste lid, zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.   
 3.  Indien, in aanmerking genomen de omvang, aard en ligging van een net of een deel daarvan of een installatie als bedoeld in het eerste lid, alsmede het aantal voor de aanleg of uitbreiding van dat net of die installatie benodigde besluiten, redelijkerwijze niet valt te verwachten dat toepassing van de procedure, bedoeld in het eerste lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat: 
 
@@ -1885,7 +1887,7 @@ b. de tariefstructuren vastgesteld op grond van artikel 12f of 12g,
 
 c. het bepaalde bij of krachtens artikel 81a,  
 
-d. de formule:   ![91858](http://wetten.overheid.nl/Illustration/91858)
+d. de formule:   ![249214](http://wetten.overheid.nl/Illustration/249214)
 waarbij TI <sub>t</sub> = de totale inkomsten uit de tarieven uit het jaar t, te weten de som van de vermenigvuldiging van elk tarief in het jaar t en het op basis van artikel 81a, onderdeel c, vastgestelde rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld; TI <sub>t-1</sub> = de totale inkomsten uit de tarieven in het jaar voorafgaande aan het jaar t, te weten de som van de vermenigvuldiging van elk tarief in het jaar t-1 en het op basis van artikel 81a, onderdeel c, vastgestelde rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld; cpi = de relatieve wijziging van de consumentenprijsindex (alle huishoudens), berekend uit het quotiënt van deze prijsindex, gepubliceerd in de vierde maand voorafgaande aan het jaar t, en van deze prijsindex, gepubliceerd in de zestiende maand voorafgaande aan het jaar t, zoals deze maandelijks wordt vastgesteld door het Centraal Bureau voor de Statistiek; x = de korting ter bevordering van de doelmatige bedrijfsvoering; q = de kwaliteitsterm, die de aanpassing van de tarieven in verband met de geleverde kwaliteit aangeeft en  
 
 e. de gemaakte kosten voor investeringen, bedoeld in artikel 39e of  39f, tweede lid, voor zover deze kosten doelmatig zijn;  

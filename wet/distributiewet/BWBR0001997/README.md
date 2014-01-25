@@ -14,7 +14,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  1  
 
-1.  Voor de toepassing van deze wet wordt verstaan onder «Onze Minister»: Onze Minister van Economische Zaken, Landbouw en Innovatie.   
+1.  Voor de toepassing van deze wet wordt verstaan onder «Onze Minister»: Onze Minister van Economische Zaken.   
 2.  In deze wet en de daarop berustende bepalingen wordt mede verstaan onder goederen: elektriciteit.   
 
 ### Artikel  2   
@@ -22,19 +22,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voor zover zij onverenigbaar zijn met maatregelen, ten behoeve van de landsverdediging genomen krachtens: 
 
-a. de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) (*Stb.* 1875, 67)  
+a. de Spoorwegwet (*Stb.* 1875, 67)  
 
-b. de [Wet militaire Inundatiën](../../../wet/wet/militaire/inundatiën/BWBR0001863/README.md) (*Stb.* 1896, 71),  
+b. de Wet militaire Inundatiën (*Stb.* 1896, 71),  
 
-c. de [Onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) (*Stb.* 1922, 25),  
+c. de Onteigeningswet (*Stb.* 1922, 25),  
 
-d. de [Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md),  
+d. de Wegenverkeerswet 1994,  
 
-e. de [Inkwartieringswet](../../../wet/inkwartieringswet/BWBR0002111/README.md) (*Stb.* 1953, 305),  
+e. de Inkwartieringswet (*Stb.* 1953, 305),  
 
-f. de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) (*Stb.* 1964, 337),  
+f. de Oorlogswet voor Nederland (*Stb.* 1964, 337),  
 
-g. de [Luchtvaartwet](../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47) of  
+g. de Luchtvaartwet (*Stb.* 1958, 47) of  
 
 h. de Wet op de telecommunicatievoorzieningen (*Stb.* 1988, 520).    
 
@@ -137,7 +137,7 @@ b. dat, met inachtneming van door Onzen Minister te bepalen grenzen, een gemeent
 1.  In elken kring is een distributiedienst.   
 2.  De burgemeester is het hoofd van den dienst en als zoodanig met de leiding daarvan belast. Hij kan, onder goedkeuring van Onzen Minister, een ander aanwijzen, die namens hem met de dagelijksche leiding van den dienst is belast. Hij stelt voor dezen een instructie vast.   
 3.  De burgemeester draagt er zorg voor, dat zodanige voorbereidingen getroffen worden, dat in geval van inwerkingtreding van een of meer van de in artikel 24, tweede lid, bedoelde artikelen, de distributiedienst tijdig de noodzakelijke handelingen ter uitvoering van het bij of krachtens die artikelen bepaalde kan verrichten.   
-4.  In het geval, bedoeld in lid 3, onder *a* van het vorig artikel, regelen de burgemeesters onder Onze goedkeuring de inrichting van den distributiedienst in den kring. Zij kunnen daarbij één der gemeenten als centrale gemeente aanwijzen. Bij de door de burgemeesters te treffen gemeenschappelijke regeling kan geen openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) worden ingesteld. De [artikelen 99 tot en met 103l van die wet](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) zijn niet van toepassing.   
+4.  In het geval, bedoeld in lid 3, onder *a* van het vorig artikel, regelen de burgemeesters onder Onze goedkeuring de inrichting van den distributiedienst in den kring. Zij kunnen daarbij één der gemeenten als centrale gemeente aanwijzen. Bij de door de burgemeesters te treffen gemeenschappelijke regeling kan geen openbaar lichaam als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen worden ingesteld. De artikelen 99 tot en met 103l van die wet zijn niet van toepassing.   
 5.  Indien binnen een door Onzen Minister te bepalen termijn een regeling niet aan Onze goedkeuring is onderworpen of Wij die niet goedkeuren, wordt de regeling door Ons vastgesteld.   
 6.  Het bepaalde in de leden 4 en 5 vindt overeenkomstige toepassing ten aanzien van wijziging en opheffing van een gemeenschappelijke regeling.   
 
@@ -150,7 +150,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  14   
 Treedt in werking op een nader te bepalen tijdstip   
 
-De kosten van den distributiedienst worden geacht te behooren tot de uitgaven, bedoeld in [artikel 193 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb.* 1992, 96).  
+De kosten van den distributiedienst worden geacht te behooren tot de uitgaven, bedoeld in artikel 193 van de Gemeentewet (*Stb.* 1992, 96).  
 
 ### Artikel  15   
 Treedt in werking op een nader te bepalen tijdstip   
@@ -210,7 +210,7 @@ De aangewezen ambtenaren zijn bevoegd tot het doorzoeken van voer- en vaartuigen
 
 ### Artikel  22c  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 4 tot en met 8 en artikel 10a gezamenlijk of afzonderlijk in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 4 tot en met 8 en artikel 10a gezamenlijk of afzonderlijk in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   

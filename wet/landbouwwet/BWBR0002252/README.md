@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder: *Onze Minister:* Onze Minister van Landbouw, Visserij en Voedselvoorziening; *landbouw:* akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen - teelt van griendhout en elke andere vorm van bodemcultuur hier te lande met uitzondering van bosbouw;  *produkten:*  
+1.  Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder: *Onze Minister:* Onze Minister van Economische Zaken; *landbouw:* akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen - teelt van griendhout en elke andere vorm van bodemcultuur hier te lande met uitzondering van bosbouw;  *produkten:*  
 
 a. alle voortbrengselen, welke, al dan niet na be- of verwerking, kunnen dienen als voedsel voor mens of dier, alsmede de bij be- of verwerking van die voortbrengselen verkregen derivaten en afvallen;  
 
@@ -178,6 +178,8 @@ Onze Minister brengt ieder kwartaal verslag uit aan de Staten-Generaal over de t
 ### Hoofdstuk  VI  
 
 ####Beroep
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  VII  
 

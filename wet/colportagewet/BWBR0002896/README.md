@@ -13,25 +13,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: 
 
-a. geldkrediet: krediet als bedoeld in onderdeel a van de definitie van krediet in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. geldkrediet: krediet als bedoeld in onderdeel a van de definitie van krediet in artikel 1:1 van de Wet op het financieel toezicht;  
 
-b. goederenkrediet: krediet als bedoeld in onderdeel b van de definitie van krediet in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b. goederenkrediet: krediet als bedoeld in onderdeel b van de definitie van krediet in artikel 1:1 van de Wet op het financieel toezicht;  
 
 c. goed: een roerende zaak of een vermogensrecht dat geen registergoed is;  
 
 d. colporteur: degene die in de uitoefening van een beroep of bedrijf door persoonlijk bezoek dan wel door of in samenhang met de aanprijzing van een goed of een dienst in een groep van ter plaatse van de aanprijzing aanwezige personen, tracht een particulier te bewegen tot het sluiten van een overeenkomst, strekkende tot het aan deze verschaffen van het genot van een goed, het aan deze verlenen van een dienst of het door deze als kredietnemer deelnemen aan een goederenkrediet;  
 
-e. kredietgever: een aanbieder van krediet als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+e. kredietgever: een aanbieder van krediet als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
-f. kredietnemer: degene die een overeenkomst inzake krediet aangaat als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+f. kredietnemer: degene die een overeenkomst inzake krediet aangaat als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 g. leverancier: degene die een geldsom ter beschikking krijgt gesteld van de kredietgever terzake van het aan een kredietnemer verschaffen van het genot van een roerende zaak;  
 
-h. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie.     
+h. Onze Minister: Onze Minister van Economische Zaken.     
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder een onderneming mede verstaan een bedrijf, waarmede niet wordt beoogd het maken van winst.   
 3.  Voor de toepassing van het eerste lid, onder d, wordt als persoonlijk bezoek niet aangemerkt het persoonlijk bezoek, dat in overwegende mate voortvloeit uit een initiatief van degene, die wordt bezocht, tenzij de bezoeker degene, die hij bezoekt, tracht te bewegen tot het sluiten van een overeenkomst betreffende een ander goed of een andere dienst dan het goed of de dienst, in verband waarmee om het bezoek is verzocht en degene, die wordt bezocht, toen hij het initiatief tot dat bezoek nam niet wist en redelijkerwijs niet kon weten, dat het sluiten van overeenkomsten betreffende dat andere goed of die andere dienst tot de bedrijfs- of beroepsuitoefening van de bezoeker behoorde.   
 4.  Voor de toepassing van het eerste lid, onder d wordt als een groep van personen niet aangemerkt een groep, welke kennelijk niet met of mede met het oog op de aanprijzing van een goed of een dienst in die groep is bijeengebracht.   
-5.  Voor de toepassing van het bij of krachtens deze wet bepaalde worden niet als goed aangemerkt financiële instrumenten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), ongeacht of deze zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, voorzover de waarde daarvan door middel van een openbare prijsaanduiding voor een ieder kenbaar is.   
+5.  Voor de toepassing van het bij of krachtens deze wet bepaalde worden niet als goed aangemerkt financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, ongeacht of deze zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, voorzover de waarde daarvan door middel van een openbare prijsaanduiding voor een ieder kenbaar is.   
 
 ### Artikel  6  
 

@@ -16,13 +16,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. *Onze Minister:* Onze Minister van Economische Zaken;  
 
 b. *raad van bestuur van de mededingingsautoriteit:* de raad van bestuur van de Nederlandse Mededingingsautoriteit;  
 
 c. *warmtenet:* het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat gebouw of werk;  
 
-d. *warmte:* warm water of tapwater bestemd voor ruimteverwarming of -koeling, sanitaire doeleinden en huishoudelijk gebruik;  
+d. *warmte:* warm water of tapwater bestemd voor ruimteverwarming, sanitaire doeleinden en huishoudelijk gebruik;  
 
 e. *levering van warmte:* de aflevering van warmte aan verbruikers;  
 
@@ -38,7 +38,7 @@ j. *vergunninghouder:* de houder van een vergunning als bedoeld in artikel 9;
 
 k. *representatieve organisatie:* een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;  
 
-l. *verhuurder:* een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden.    
+l. *verhuurder:* een toegelaten instelling als bedoeld in artikel 70, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden.    
 
 ### Hoofdstuk  2  
 
@@ -225,7 +225,7 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  12d  
 
-1.  Onze Minister kan een netbeheerder als bedoeld in [artikel 2, eerste lid, van de Gaswet](../../../wet/gaswet/BWBR0011440/README.md), opdracht geven tot het aanleggen van een gastransportnet in het door hem aangewezen gebied. Verbruikers ontvangen een gehele of gedeeltelijke tegemoetkoming in verband met de kosten van de aansluiting op het gastransportnet.   
+1.  Onze Minister kan een netbeheerder als bedoeld in artikel 2, eerste lid, van de Gaswet, opdracht geven tot het aanleggen van een gastransportnet in het door hem aangewezen gebied. Verbruikers ontvangen een gehele of gedeeltelijke tegemoetkoming in verband met de kosten van de aansluiting op het gastransportnet.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de hoogte van de vergoeding, bedoeld in het eerste lid en over de wijze waarop de betrokken verbruikers een gehele of gedeeltelijke tegemoetkoming ontvangen, waarbij de hoogte van de tegemoetkoming voor verschillende groepen verbruikers verschillend kan worden vastgesteld.   
 3.  De opdracht, bedoeld in het eerste lid, wordt niet gegeven dan nadat Onze Minister onderzocht heeft of anders dan door aanleg van een gastransportnet voorzien kan worden in een volwaardig alternatief voor het warmtenet. Indien uit dit onderzoek blijkt dat een volwaardig alternatief beschikbaar is dat uit oogpunt van duurzaamheid, kosten of een ander publiek belang de voorkeur verdient bevordert Onze Minister de totstandkoming van dat alternatief.   
 
@@ -235,14 +235,14 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  13  
 
-1.  Onze Minister kan van een producent, een leverancier of een verbruiker de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van deze wet en voor het opstellen van het energierapport, bedoeld in [artikel 2 van de Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
+1.  Onze Minister kan van een producent, een leverancier of een verbruiker de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van deze wet en voor het opstellen van het energierapport, bedoeld in artikel 2 van de Elektriciteitswet 1998.   
 2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door Onze Minister te stellen redelijke termijn alle medewerking te verlenen die hij redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 3.  Onze Minister gebruikt gegevens of inlichtingen welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken op grond van deze wet uitsluitend voor de uitoefening van die taak.   
 
 ### Artikel  14  
 
 1.  Artikel 13 is van overeenkomstige toepassing op de raad van bestuur van de mededingingsautoriteit voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet.   
-2.  De raad van bestuur van de mededingautoriteit kan van een gasbedrijf als bedoeld in [artikel 1, onderdeel j, van de Gaswet](../../../wet/gaswet/BWBR0011440/README.md) verlangen dat deze hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die hij nodig heeft voor de uitvoering van deze wet.   
+2.  De raad van bestuur van de mededingautoriteit kan van een gasbedrijf als bedoeld in artikel 1, onderdeel j, van de Gaswet verlangen dat deze hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die hij nodig heeft voor de uitvoering van deze wet.   
 
 ### Hoofdstuk  4  
 
@@ -261,7 +261,7 @@ De raad van bestuur van de mededingingsautoriteit kan bij een producent, leveran
 ### Artikel  17  
 
 1.  De raad van bestuur van de mededingingsautoriteit kan een bindende aanwijzing geven in verband met de naleving van deze wet.   
-2.  Van een beschikking als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
+2.  Van een beschikking als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
 
 ### Artikel  18  
 
@@ -269,9 +269,9 @@ De raad van bestuur van de mededingingsautoriteit kan bij een producent, leveran
 2.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur van de mededingingsautoriteit.   
 3.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
 4.  Indien de raad van bestuur van de mededingingsautoriteit vaststelt dat een overtreding, bedoeld in het eerste lid, is begaan, maakt hij daarvan een rapport op.   
-5.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-6.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 2, 5, eerste en vierde lid, 9, eerste lid, 13, 14, 17 en 40 alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
-7.  De berekening van de netto-omzet, bedoeld in het zesde lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+5.  Afdeling 5.4.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+6.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 2, 5, eerste en vierde lid, 9, eerste lid, 13, 14, 17 en 40 alsmede artikel 5:20 van de Algemene wet bestuursrecht, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
+7.  De berekening van de netto-omzet, bedoeld in het zesde lid, geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek.   
 
 ### Artikel  19  
 
@@ -359,7 +359,7 @@ Wijzigt de Mededingingswet.
 
 ### Artikel  38  
 
-Voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) worden werken, die worden of zijn uitgevoerd ten behoeve van de levering van warmte, aangemerkt als openbare werken van algemeen nut.  
+Voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht worden werken, die worden of zijn uitgevoerd ten behoeve van de levering van warmte, aangemerkt als openbare werken van algemeen nut.  
 
 ### Artikel  39  
 
@@ -376,7 +376,7 @@ b. een beschrijving van de door leverancier te exploiteren warmtenetten waarbij 
 
 ### Artikel  41  
 
-1.  Het in [artikel 2 van de Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) bedoelde energierapport geeft mede richting aan van rijkswege te nemen beslissingen in de periode, bedoeld in dat artikel, voor zover daarbij het belang van het betrouwbaar, duurzaam, milieuhygiënisch en doelmatig functioneren van de warmtevoorziening in beschouwing moet of kan worden genomen.   
+1.  Het in artikel 2 van de Elektriciteitswet 1998 bedoelde energierapport geeft mede richting aan van rijkswege te nemen beslissingen in de periode, bedoeld in dat artikel, voor zover daarbij het belang van het betrouwbaar, duurzaam, milieuhygiënisch en doelmatig functioneren van de warmtevoorziening in beschouwing moet of kan worden genomen.   
 2.  Het energierapport bevat in ieder geval een overzicht van de prijsontwikkelingen met betrekking tot levering van warmte.   
 
 ### Artikel  42  

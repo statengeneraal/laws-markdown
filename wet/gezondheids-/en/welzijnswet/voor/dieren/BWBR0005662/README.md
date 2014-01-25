@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; bedrijfslichaam: een produktschap of bedrijfschap bedoeld in [artikel 66 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); samenwerkingslichaam: rechtspersoonlijkheid bezittend lichaam als bedoeld in [artikel 110 Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); dier: dier dat wordt gehouden, voor zover niet uitdrukkelijk anders is bepaald en met dien verstande dat artikel 36 tevens van toepassing is op dieren die niet worden gehouden; vee: herkauwende en eenhoevige dieren en varkens; pluimvee: dieren zijnde hoenderachtigen, eenden of ganzen; besmettelijke dierziekte: elke aantasting van de gezondheid van een dier die gevaar kan opleveren voor de gezondheid van andere dieren of van de mens; smetstof: elk micro-organisme of virus dat, of elke andere biologische eenheid die, een infectieziekte en elke parasiet, die een parasitaire ziekte bij dieren kan veroorzaken; schadelijke stoffen: stoffen die de gezondheid van mens of dier kunnen aantasten; zieke dieren: dieren die zijn aangetast door een krachtens artikel 15, eerste lid, aangewezen dierziekte; verdachte dieren: dieren die overeenkomstig artikel 15, vierde lid, verdacht worden gevaar op te leveren voor verspreiding van een krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekte; produkten van dierlijke oorsprong: van dier afkomstige produkten al dan niet be- of verwerkt; houder: eigenaar, houder of hoeder; Diergezondheidsfonds: fonds als bedoeld in artikel 95a.   
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken; bedrijfslichaam: een produktschap of bedrijfschap bedoeld in [artikel 66 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); samenwerkingslichaam: rechtspersoonlijkheid bezittend lichaam als bedoeld in [artikel 110 Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); dier: dier dat wordt gehouden, voor zover niet uitdrukkelijk anders is bepaald en met dien verstande dat artikel 36 tevens van toepassing is op dieren die niet worden gehouden; vee: herkauwende en eenhoevige dieren en varkens; pluimvee: dieren zijnde hoenderachtigen, eenden of ganzen; besmettelijke dierziekte: elke aantasting van de gezondheid van een dier die gevaar kan opleveren voor de gezondheid van andere dieren of van de mens; smetstof: elk micro-organisme of virus dat, of elke andere biologische eenheid die, een infectieziekte en elke parasiet, die een parasitaire ziekte bij dieren kan veroorzaken; schadelijke stoffen: stoffen die de gezondheid van mens of dier kunnen aantasten; zieke dieren: dieren die zijn aangetast door een krachtens artikel 15, eerste lid, aangewezen dierziekte; verdachte dieren: dieren die overeenkomstig artikel 15, vierde lid, verdacht worden gevaar op te leveren voor verspreiding van een krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekte; produkten van dierlijke oorsprong: van dier afkomstige produkten al dan niet be- of verwerkt; houder: eigenaar, houder of hoeder; Diergezondheidsfonds: fonds als bedoeld in artikel 95a.   
 2.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 93a en 96a bepaalde wordt verstaan onder bedrijf: bedrijf als bedoeld in [artikel 1, eerste lid, van de Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md).   
 3.  Voor de toepassing van artikel 91e wordt verstaan onder vestiging: op één plaats gelegen bedrijf of deel van een bedrijf, bestaande uit alle aldaar gelegen aangrenzende percelen grond, gebouwen of afgescheiden gedeelten daarvan dat, naar de feitelijke omstandigheden beoordeeld, als functionele eenheid voor het houden van varkens in gebruik is of daartoe bestemd is.   
 4.  Bij ministeriële regeling worden regels gesteld waaraan percelen grond, gebouwen of afgescheiden gedeelten daarvan moeten voldoen om als aangrenzend in de zin van het derde lid te worden aangemerkt.   
@@ -81,7 +81,8 @@ a. zich als zodanig voor een bij of krachtens de maatregel genoemd tijdstip schr
 b. indien de dieren bedrijfsmatig worden gehouden, aantekening te houden van het aantal op zijn bedrijf aanwezige dieren van deze soort, van de geboorte op, onderscheidenlijk toevoeging van dieren van deze soort aan zijn bedrijf, alsmede van de afvoer van dieren van deze soort van zijn bedrijf, één en ander onder vermelding van de gegevens waardoor de dieren kunnen worden geïdentificeerd en onder vermelding van naam en adres van degene van wie de dieren afkomstig zijn onderscheidenlijk aan wie de dieren zijn afgeleverd.     
 2.  De in het eerste lid, onderdeel *b*, bedoelde aantekeningen dienen gedurende ten minste drie maanden te worden bewaard.   
 
-### Artikel  5  
+### Artikel  5   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent het houden van markten, verkopingen, keuringen en tentoonstellingen alsmede ten aanzien van het bijeenbrengen van dieren op andere plaatsen waar dieren worden verzameld. Deze regelen kunnen verschillen naar gelang het gaat om markten, verkopingen, keuringen, tentoonstellingen of andere plaatsen waar dieren worden verzameld, terwijl tevens onderscheid kan worden gemaakt naar diersoorten.   
 2.  Het is verboden op plaatsen als bedoeld in het eerste lid dieren die zijn aangetast door een besmettelijke ziekte of daarvan worden verdacht, bijeen te brengen.   
@@ -370,7 +371,8 @@ Bij het stellen van regelen en het voorschrijven van maatregelen krachtens dit h
 
 ####Algemene bepalingen
 
-### Artikel  33  
+### Artikel  33   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het is verboden dieren te houden, tenzij deze behoren tot bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren.   
 2.  Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat het houden slechts onder bepaalde voorwaarden is toegestaan.   
@@ -448,7 +450,8 @@ Bij algemene maatregel van bestuur worden regelen gesteld omtrent embryotranspla
 
 ####Het doden van dieren
 
-### Artikel  43  
+### Artikel  43   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Het is verboden om dieren te doden in andere dan bij algemene maatregel van bestuur aangewezen gevallen.  
 
@@ -508,13 +511,15 @@ b. voor zover het betreft het slachten volgens de islamitische ritus: door perso
 5.  Een regeling als bedoeld in het vierde lid blijft, behoudens eerdere intrekking, van kracht totdat de daar bedoelde algemene maatregel van bestuur in werking treedt, doch uiterlijk tot acht maanden na het in werking treden van de regeling.   
 6.  Tenzij bij een maatregel als bedoeld in het eerste of derde lid of een regeling als bedoeld in het vierde lid anders wordt bepaald, is het bepaalde bij of krachtens de artikelen 46 tot en met 54 niet van toepassing in het geval voor de dieren van de aangewezen soort of categorie van dieren bij die maatregel of regeling, regelen zijn gesteld omtrent de huisvesting.   
 
-### Artikel  46  
+### Artikel  46   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het is verboden een seriematig vervaardigd huisvestingssysteem voor dieren van bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren, voorhanden te hebben, ten verkoop in voorraad te hebben, te verkopen, af te leveren of te gebruiken.   
 2.  Het verbod, bedoeld in het eerste lid, geldt niet indien een huisvestingssysteem is toegelaten.   
 3.  Het verbod, bedoeld in het eerste lid, geldt eveneens niet ten aanzien van huisvestingssystemen die worden doorgevoerd of kennelijk bestemd zijn voor uitvoer.   
 
-### Artikel  47  
+### Artikel  47   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Een huisvestingssysteem wordt slechts toegelaten indien op grond van de door de aanvrager overgelegde gegevens met redelijke zekerheid mag worden aangenomen dat het systeem geen schadelijke effecten heeft op het welzijn van dieren waarvoor het bestemd is, in een mate die niet aanvaardbaar is. Bij het bepalen van de mate van aanvaardbaarheid wordt mede rekening gehouden met de uit het betrokken huisvestingssysteem voortvloeiende gevolgen voor andere belangen dan het welzijn van dieren.   
 2.  Over de toelating van een huisvestingssysteem beslist Onze Minister op aanvraag van de fabrikant, de importeur of een handelaar, gehoord de Commissie toelating huisvestingssystemen landbouwhuisdieren, bedoeld in artikel 50.   
@@ -545,12 +550,14 @@ c. welke gegevens naast die als bedoeld in het vierde lid dienen te worden overg
 d. in welke gevallen een aanvraag voor een toelating niet ontvankelijk wordt verklaard.     
 6.  Aan een toelating kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend.   
 
-### Artikel  48  
+### Artikel  48   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Huisvestingssystemen waarvan kan worden aangetoond dat zij vóór de inwerkingtreding van een maatregel als bedoeld in artikel 46, eerste lid, voorhanden zijn, ten verkoop in voorraad zijn gehouden, zijn verkocht, zijn afgeleverd dan wel in gebruik zijn, zijn toegelaten voor een door Onze Minister vastgestelde termijn. Deze termijn kan verschillen naar gelang het huisvestingssysteem en naar gelang de in de eerste volzin genoemde handeling.   
 2.  Onze Minister stelt regelen omtrent de wijze waarop dient te worden aangetoond dat huisvestingssystemen vóór de inwerkingtreding van een maatregel als bedoeld in artikel 46, eerste lid, voorhanden zijn, ten verkoop in voorraad zijn gehouden, zijn verkocht, zijn afgeleverd dan wel in gebruik zijn.   
 
-### Artikel  49  
+### Artikel  49   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Onze Minister kan een toelating intrekken, indien ter zake daarvan: 
 
@@ -561,25 +568,30 @@ b. blijkt dat zich zodanig schadelijke effecten voordoen dat, indien deze ten ti
 c. een ander huisvestingssysteem is toegelaten dat uit een oogpunt van welzijn van dieren de voorkeur heeft en waarvan overigens het gebruik redelijkerwijs kan worden gevergd.     
 2.  Onze Minister kan bepalen dat een huisvestingssysteem waarvan de toelating ingevolge het eerste lid is ingetrokken, nog gedurende een daarbij vast te stellen termijn voorhanden mag worden gehouden, ten verkoop in voorraad mag worden gehouden, mag worden verkocht, mag worden afgeleverd of mag worden gebruikt. Deze termijn kan verschillen naar gelang de in de eerste volzin genoemde handeling.   
 
-### Artikel  50  
+### Artikel  50   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Er is een Commissie toelating huisvestingssystemen landbouwhuisdieren die is belast met de advisering van Onze Minister over de toelating van huisvestingssystemen en de intrekking daarvan.   
 2.  Bij algemene maatregel van bestuur worden regelen gesteld omtrent onder meer de samenstelling en de werkwijze van de commissie, bedoeld in het eerste lid. Deze regelen hebben mede betrekking op de zittingsduur, de schorsing en het ontslag van de leden van de commissie.   
 
-### Artikel  51  
+### Artikel  51   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Van een toelating of intrekking daarvan wordt mededeling gedaan in de Staatscourant.  
 
-### Artikel  52  
+### Artikel  52   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld betreffende het voorhanden hebben, ten verkoop in voorraad hebben, verkopen, afleveren of gebruiken van huisvestingssystemen die kennelijk in een proefstadium verkeren. Daarbij kan worden afgeweken van het bepaalde bij of krachtens deze wet.   
 2.  Voor zover krachtens het eerste lid wordt bepaald dat proefnemingen slechts na daartoe gedane aanvraag kunnen worden toegestaan, kunnen de kosten voortvloeiende uit deze aanvraag ten laste van de aanvrager worden gebracht volgens door Onze Minister gestelde regelen.   
 
-### Artikel  53  
+### Artikel  53   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld ter uitvoering van het bepaalde in de artikelen 46 tot en met 49.  
 
-### Artikel  54  
+### Artikel  54   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bij algemene maatregel van bestuur kan worden bepaald dat het bepaalde bij of krachtens de artikelen 46 tot en met 53 geheel of gedeeltelijk van overeenkomstige toepassing is voor bij die maatregel aangewezen seriematig vervaardigde onderdelen van dan wel aangewezen seriematig vervaardigde voorzieningen binnen huisvestingssystemen.  
 
@@ -877,29 +889,43 @@ b. de ondernemer ten behoeve van wiens bedrijf de officiële erkenning is verlee
 
 ####Niet voor menselijke consumptie bestemde dierlijke bijproducten
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  1  
 
 ####Algemene bepalingen
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  2  
 
 ####Voorschriften ter uitvoering van Europese voorschriften
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  3  
 
 ####Overige voorschriften
 
+Vervallen per 01-01-2013   
+
 ### Hoofdstuk  VIIb  
 
 ####Honden- en kattenbont en producten die dergelijk bont bevatten
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  1  
 
 ####Algemene bepalingen
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  2  
 
 ####Voorschriften ter uitvoering van Europese voorschriften
+
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  VIII  
 
@@ -909,7 +935,8 @@ b. de ondernemer ten behoeve van wiens bedrijf de officiële erkenning is verlee
 
 ####Rijksbijdragen
 
-### Artikel  82  
+### Artikel  82   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bij of krachtens algemene maatregel van bestuur worden regelen gesteld ten aanzien van het verlenen van geldelijke bijdragen uit ’s Rijks kas aan de Stichting Gezondheidszorg voor dieren, opgericht op 22 december 1970 in de kosten van bij of krachtens die maatregel te bepalen werkzaamheden op het gebied van de gezondheidszorg voor dieren.  
 
@@ -978,14 +1005,16 @@ d. de te nemen preventieve maatregelen.
 
 Alvorens dieren op grond van artikel 22, eerste lid, onderdeel f, worden gedood of producten en voorwerpen op grond van artikel 22, eerste lid, onderdeel g, onschadelijk worden gemaakt, danwel producten en voorwerpen op grond van artikel 22, tweede lid, onderdeel f, worden vernietigd of onschadelijk gemaakt of bijenvolken op grond van artikel 22, tweede lid, onderdeel g, worden vernietigd, wordt de waarde daarvan vastgesteld.  
 
-### Artikel  87a  
+### Artikel  87a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De waardevaststelling geschiedt door een door Onze Minister aangewezen deskundige, die voldoet aan de bij of krachtens algemene maatregel van bestuur vastgestelde vakbekwaamheidseisen.   
 2.  De vakbekwaamheidseisen, bedoeld in het eerste lid, omvatten in ieder geval algemene kennis op het gebied van waardevaststellingen alsmede praktijkvaardigheden.   
 3.  Bij ministeriële regeling worden regels gesteld omtrent de vergoeding van de deskundige, bedoeld in het eerste lid.   
 4.  De vergoeding, bedoeld in het derde lid, wordt vergoed uit het Diergezondheidsfonds.   
 
-### Artikel  87b  
+### Artikel  87b   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Bij of krachtens algemene maatregel van bestuur worden voor de uitvoering van de waardevaststelling van bij die maatregel aangewezen soorten of categorieën van dieren, danwel producten of voorwerpen, regels gesteld.   
 2.  De in het eerste lid bedoelde regels hebben betrekking op: 
@@ -998,7 +1027,8 @@ c. de wijze van waardevaststelling, en
 
 d. de herwaardering van de waardevaststelling.     
 
-### Artikel  87c  
+### Artikel  87c   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Onze Minister stelt een formulier vast voor de onderbouwing van de waardevaststelling ten behoeve van de belanghebbenden.   
 2.  Het formulier bevat in ieder geval de aanduiding van hetgeen waarvan de waarde wordt vastgesteld, de voor de waardevaststelling relevante gegevens, de waarde en de motivering daarvan.   
@@ -1123,8 +1153,19 @@ c. ten hoogste 50% van de door het Diergezondheidsfonds terzake van de, bij de d
 
 ### Artikel  92  
 
-1.  Ter bestrijding van de kosten van de tegemoetkomingen als bedoeld in artikel 86, eerste lid, alsmede de kosten als bedoeld in artikel 82, artikel 88, vijfde lid, artikel 90, en artikel 91, kan bij algemene maatregel van bestuur de verplichting worden opgelegd tot het betalen van een geldsom ten behoeve van ’s Rijks kas aan degenen die dieren houden, verhandelen of slachten, die dierlijke produkten produceren of verhandelen of diervoeder bereiden.   
-2.  De hoogte van de in het eerste lid bedoelde geldsom, welke voor de verschillende in dat lid bedoelde categorieën van personen verschillend kan worden bepaald, wordt vastgesteld aan de hand van de in het voorafgaande jaar gemaakte kosten, als bedoeld in het eerste lid.   
+1.  Terzake van het verhandelen, vervoeren of slachten van dieren, het produceren, vervoeren of verhandelen van dierlijke producten of het bereiden van diervoeder, dan wel terzake van het anders dan op een bedrijf houden van dieren, kunnen bij algemene maatregel van bestuur, met ingang van een datum die volgt op de datum van inwerkingtreding van de desbetreffende algemene maatregel van bestuur, heffingen worden ingevoerd die worden geheven van personen of rechtspersonen, dan wel samenwerkingsverbanden van personen of rechtspersonen, welke heffingen dienen ter bestrijding van de kosten: 
+
+a. bedoeld in artikel 83 en 88, vijfde lid, voor zover die kosten noodzakelijk zijn;  
+
+b. van de tegemoetkomingen bedoeld in artikel 86, eerste lid, aanhef en onderdelen a en b, en artikel 90, alsmede de vergoedingen bedoeld in artikel 91;  
+
+c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland, en  
+
+d. die noodzakelijk zijn met het oog op de heffing en invordering van de heffingen.     
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat een heffing als bedoeld in het eerste lid, met ingang van 1 januari van een op de datum van inwerkingtreding van die maatregel volgend kalenderjaar, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds, voor zover noodzakelijk met het oog op het weren van op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten.   
+3.  Een algemene maatregel van bestuur als bedoeld in het eerste lid kan gevallen bepalen op grond waarvan korting op het tarief van de desbetreffende heffing wordt verkregen. Daarbij wordt in ieder geval rekening gehouden met de mate waarin de heffingplichtige activiteit een risico oplevert voor de verspreiding van besmettelijke dierziekten.   
+4.  De toepassing van het derde lid geschiedt zodanig dat in geen geval meer dan 70% korting op het tarief van de heffing wordt verkregen.   
+5.  Een krachtens het eerste lid ingevoerde heffing wordt geheven bij wege van aanslag.   
 
 ### Artikel  92a  
 
@@ -1205,7 +1246,8 @@ l. andere onderzoeken of verrichtingen met betrekking tot dieren, producten van 
 
 Een tarief als bedoeld in de artikelen 94 en 94a wordt zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij besluit krachtens het Verdrag tot oprichting van de Europese Gemeenschap vastgestelde verplichtingen.  
 
-### Artikel  95  
+### Artikel  95   
+Treedt in werking op een nader te bepalen tijdstip   
 
 De kosten die zijn verbonden aan het toezicht bij een wedstrijd op de naleving van afdeling 8 van hoofdstuk III kunnen ten laste worden gebracht van de organiserende instelling. Onze Minister kan regelen stellen met betrekking tot de wijze van betaling van de kosten.  
 
@@ -1223,13 +1265,13 @@ De kosten die zijn verbonden aan het toezicht bij een wedstrijd op de naleving v
 
 De ontvangsten van het fonds worden gevormd door: 
 
-a. een jaarlijkse bijdrage vanuit de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie, welke bijdrage in omvang ten hoogste overeenkomt met de op deze begroting in het desbetreffende begrotingsjaar binnenkomende som van de varkensheffing;  
+a. een jaarlijkse bijdrage vanuit de begroting van het Ministerie van Economische Zaken, welke bijdrage in omvang ten hoogste overeenkomt met de op deze begroting in het desbetreffende begrotingsjaar binnenkomende som van de varkensheffing;  
 
-b. het aantal jaarlijkse bijdragen vanuit de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie dat overeenkomt met het aantal krachtens artikel 91h ingevoerde heffingen, welke bijdragen onderscheidenlijk ten hoogste overeenkomen met de op de genoemde begroting in het desbetreffende begrotingsjaar binnenkomende som van de onderscheiden heffingen;  
+b. het aantal jaarlijkse bijdragen vanuit de begroting van het Ministerie van Economische Zaken dat overeenkomt met het aantal krachtens artikel 91h ingevoerde heffingen, welke bijdragen onderscheidenlijk ten hoogste overeenkomen met de op de genoemde begroting in het desbetreffende begrotingsjaar binnenkomende som van de onderscheiden heffingen;  
 
-c. het aantal jaarlijkse bijdragen vanuit de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie dat overeenkomt met het aantal krachtens artikel 92 ingevoerde heffingen, welke bijdragen onderscheidenlijk ten hoogste overeenkomen met de op de genoemde begroting in het desbetreffende begrotingsjaar binnenkomende som van de onderscheiden heffingen;  
+c. het aantal jaarlijkse bijdragen vanuit de begroting van het Ministerie van Economische Zaken dat overeenkomt met het aantal krachtens artikel 92 ingevoerde heffingen, welke bijdragen onderscheidenlijk ten hoogste overeenkomen met de op de genoemde begroting in het desbetreffende begrotingsjaar binnenkomende som van de onderscheiden heffingen;  
 
-d. overige bijdragen vanuit de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+d. overige bijdragen vanuit de begroting van het Ministerie van Economische Zaken;  
 
 e. de door de Europese Unie ter beschikking gestelde middelen, verband houdende met het weren en de bestrijding van op grond van artikel 15, eerste lid, aangewezen besmettelijke dierziekten;  
 

@@ -96,9 +96,9 @@ b. na het eerste jaar jaarlijks aan de algemene ledenvergadering of in het bestu
 
 ### Artikel  10  
 
-1.  De gemeente zendt een afschrift van de uitvoeringsovereenkomst en van de verordening aan Onze Minister van Economische Zaken, Landbouw en Innovatie.   
-2.  Onze Minister van Economische Zaken, Landbouw en Innovatie zendt voor 1 januari 2013 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, alsmede een standpunt inzake de voortzetting, anders dan als experiment.   
-3.  De gemeenten waar een verordening tot instelling van een BGV-bijdrage is vastgesteld en de aangewezen verenigingen en stichtingen verlenen Onze Minister van Economische Zaken, Landbouw en Innovatie op diens verzoek medewerking aan de totstandkoming van het verslag.   
+1.  De gemeente zendt een afschrift van de uitvoeringsovereenkomst en van de verordening aan Onze Minister van Economische Zaken.   
+2.  Onze Minister van Economische Zaken zendt voor 1 januari 2013 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, alsmede een standpunt inzake de voortzetting, anders dan als experiment.   
+3.  De gemeenten waar een verordening tot instelling van een BGV-bijdrage is vastgesteld en de aangewezen verenigingen en stichtingen verlenen Onze Minister van Economische Zaken op diens verzoek medewerking aan de totstandkoming van het verslag.   
 
 ### Artikel  11  
 

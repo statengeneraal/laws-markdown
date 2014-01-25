@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Deze wet verstaat onder: Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; eigenaar: hij, die krachtens eigendom of een beperkt recht het genot heeft van grond; dunning: velling, welke uitsluitend als een verzorgingsmaatregel ter bevordering van de groei van de overblijvende houtopstand moet worden beschouwd.   
+1.  Deze wet verstaat onder: Onze Minister: Onze Minister van Economische Zaken; eigenaar: hij, die krachtens eigendom of een beperkt recht het genot heeft van grond; dunning: velling, welke uitsluitend als een verzorgingsmaatregel ter bevordering van de groei van de overblijvende houtopstand moet worden beschouwd.   
 2.  Voor de toepassing van deze wet wordt onder herbeplanten mede begrepen herbebossen en wordt onder vellen mede begrepen rooien alsmede het verrichten van handelingen, welke de dood of ernstige beschadiging van houtopstand ten gevolge kunnen hebben.   
 3.  Het periodieke vellen van griend- en hakhout wordt voor de toepassing van deze wet niet onder vellen begrepen.   
 4.  De hierna volgende artikelen van deze wet zijn, behoudens het bepaalde in afdeling VII, niet van toepassing op: 
@@ -68,6 +68,8 @@ Hij, die de eigendom van grond als bedoeld in artikel 3, eerste lid, overdraagt 
 
 ####Beroep
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  IV  
 
 ### Afdeling  V  
@@ -78,7 +80,7 @@ Hij, die de eigendom van grond als bedoeld in artikel 3, eerste lid, overdraagt 
 
 ### Artikel  13  
 
-1.  Onze Ministers van Onderwijs, Cultuur en Wetenschap en van Economische Zaken, Landbouw en Innovatie kunnen ter bewaring van natuur- en landschapsschoon het vellen en doen vellen, anders dan bij wijze van dunning, van bossen en andere houtopstanden telkens voor ten hoogste vijf jaar verbieden.   
+1.  Onze Ministers van Onderwijs, Cultuur en Wetenschap en van Economische Zaken kunnen ter bewaring van natuur- en landschapsschoon het vellen en doen vellen, anders dan bij wijze van dunning, van bossen en andere houtopstanden telkens voor ten hoogste vijf jaar verbieden.   
 2.  De bekendmaking van een besluit houdende een verbod als bedoeld in het eerste lid, geschiedt door toezending of uitreiking aan de gebruiker van de grond waarop de houtopstand zich bevindt en, indien deze niet de eigenaar van die grond is, tevens aan deze laatste. Van het besluit wordt mededeling gedaan in de Staatscourant.   
 3.  Een verbod als bedoeld in het eerste lid kan niet worden opgelegd in het geval, omschreven in artikel 5, eerste lid.   
 4.  Indien de in het tweede lid bedoelde gebruiker of eigenaar tengevolge van een verbod, als bedoeld in het eerste lid, schade lijdt, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven, kennen Onze in het eerste lid genoemde Ministers hem op zijn verzoek een naar billijkheid te bepalen schadevergoeding uit 's Lands kas toe.   

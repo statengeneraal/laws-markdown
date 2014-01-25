@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor het bepaalde bij of krachtens deze wet wordt verstaan onder: 
 
-a. "Onze Minister": Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. "Onze Minister": Onze Minister van Economische Zaken;  
 
 b. "De Kamer": de Kamer voor de Binnenvisserij bedoeld in artikel 45;  
 
@@ -169,6 +169,8 @@ d. voor hem, die vist met ten hoogste twee hengels.
 
 ####Visakte
 
+Vervallen per 01-01-2013   
+
 ### §  3  
 
 ####Maatregelen in het belang van de visserij
@@ -199,7 +201,7 @@ b. de invloed van het gebruik van bepaalde vang- of lokmethoden op het welzijn v
 
 ### Artikel  21  
 
-1.  Behoudens indien het betreft het uitzetten van vis, is het verboden in een water als bedoeld in artikel 1, eerste lid, onder d, te vissen voor zover een ander rechthebbende is op het visrecht van dat water.   
+1.  Behoudens indien het betreft het uitzetten van vis, is het verboden in een water als bedoeld in artikel 1, vierde lid, onderdeel d, te vissen voor zover een ander rechthebbende is op het visrecht van dat water.   
 2.  Het verbod in het eerste lid geldt niet: 
 
 a. voor hem, die voorzien is van een schriftelijke toestemming van de rechthebbende, geldende voor de visserij, welke wordt uitgeoefend;  
@@ -355,6 +357,8 @@ Indien binnen enig gebied de versnippering van de eigendom van de grond onder he
 
 ####De organisatie ter verbetering van de binnenvisserij
 
+Vervallen per 01-01-2007   
+
 ### §  2  
 
 ####De Kamer voor de Binnenvisserij
@@ -400,7 +404,7 @@ a. bij overtreding van het bepaalde in de artikelen 50 en 51;
 
 b. wanneer zij in staat van faillissement zijn verklaard ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij, surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.     
 3.  Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Minister van Justitie en Onze Minister bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen; de schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing.   
-4.  Wanneer tijdens de in het vierde lid bedoelde schorsing het besluit tot ontslag wordt genomen, blijft de schorsing van kracht tot het tijdstip, waarop het ontslag ingaat.   
+4.  Wanneer tijdens de in het derde lid bedoelde schorsing het besluit tot ontslag wordt genomen, blijft de schorsing van kracht tot het tijdstip, waarop het ontslag ingaat.   
 
 ### Artikel  50  
 

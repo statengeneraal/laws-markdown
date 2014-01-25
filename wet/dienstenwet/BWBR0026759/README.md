@@ -34,7 +34,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *dienstverrichter:* natuurlijke persoon die onderdaan is van een lidstaat of een rechtspersoon in de zin van artikel 48 van het Verdrag, die in een lidstaat is gevestigd en die een dienst aanbiedt of verricht;  
 
-*dwingende redenen van algemeen belang:* redenen die als zodanig zijn erkend in de rechtspraak van het Hof van Justitie van de Europese Gemeenschappen;  
+*dwingende redenen van algemeen belang:* redenen die als zodanig zijn erkend in de rechtspraak van het Hof van Justitie van de Europese Unie;  
 
 *eis:* verplichting, verbodsbepaling, voorwaarde of beperking uit hoofde van wettelijke en bestuursrechtelijke bepalingen of voortvloeiend uit de rechtspraak, de administratieve praktijk, de regels van beroepsorden of de collectieve regels van beroepsverenigingen of andere beroepsorganisaties, die deze in het kader van de hun toegekende bevoegdheden hebben vastgesteld, met uitzondering van regels vastgelegd in collectieve arbeidsovereenkomsten waarover door de sociale partners is onderhandeld;  
 
@@ -48,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *lidstaat van vestiging:* lidstaat op het grondgebied waarvan de dienstverrichter is gevestigd;  
 
-*Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+*Onze Minister:* Onze Minister van Economische Zaken;  
 
 *procedures en formaliteiten:* activiteiten die naar hun aard door middel van uitwisseling van gegevens en bescheiden tussen een dienstverrichter en een of meer bevoegde instanties plaatsvinden en die op een eis of een vergunning betrekking hebben;  
 

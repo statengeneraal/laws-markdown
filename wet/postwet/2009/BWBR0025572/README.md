@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. *Onze Minister:* Onze Minister van Economische Zaken;  
 
 b. *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 

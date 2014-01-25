@@ -510,7 +510,7 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 ### Artikel  75  
 
-1.  De vermogensbestanddelen van de Kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van de stichting Syntens gaan op het tijdstip van inwerkingtreding van artikel 2, artikel 69 onderscheidenlijk artikel 70 van deze wet onder algemene titel over op de Kamer.   
+1.  De vermogensbestanddelen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van de stichting Syntens gaan op het tijdstip van inwerkingtreding van artikel 2, artikel 69 onderscheidenlijk artikel 70 van deze wet onder algemene titel over op de Kamer.   
 2.  Ingeval krachtens het eerste lid registergoederen overgaan, doet de Kamer de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
 3.  Ter zake van de overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.   
 

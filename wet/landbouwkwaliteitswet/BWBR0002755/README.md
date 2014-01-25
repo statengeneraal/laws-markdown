@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder: 
 
-Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+Onze Minister: Onze Minister van Economische Zaken;  
 
 landbouw: akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw – waaronder mede wordt verstaan fruitteelt en het kweken van bomen, bloemen en bloembollen -, teelt van griendhout en elke andere vorm van bodemcultuur met inbegrip van bosbouw;  
 
@@ -27,13 +27,13 @@ landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in artike
 
 controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in artikel 8;  
 
-verordening 510/2006: verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU L 93);  
+verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);  
 
-geografische aanduiding: geografische aanduiding als bedoeld in artikel 2, eerste lid, onder b, van verordening 510/2006;  
+geografische aanduiding: geografische aanduiding als bedoeld in artikel 5, tweede lid, van verordening (EU) 1151/2012;  
 
-geografische oorsprongsbenaming: oorsprongsbenaming als bedoeld in artikel 2, eerste lid, onder a, van verordening 510/2006;  
+geografische oorsprongsbenaming: oorsprongsbenaming als bedoeld in artikel 5, eerste lid, van verordening (EU) 1151/2012;  
 
-houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening 510/2006 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen.    
+houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening (EU) 1151/2012 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen.    
 
 ### Artikel  2  
 
@@ -123,7 +123,7 @@ d. openbaarmaking van de uitspraak op kosten van de betrokkene.
 
 ### Artikel  13a  
 
-1.  De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening 510/2006 verricht.   
+1.  De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening (EU) 1151/2012 verricht.   
 2.  De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.   
 3.  De voorzieningenrechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.   
 4.  Schadevergoeding kan slechts worden gevorderd van degene die de handelingen bewust verricht. Van bewust handelen is in elk geval sprake, indien de inbreuk is gepleegd nadat de betrokkene bij deurwaardersexploot op de strijd tussen de handelingen en de geografische aanduiding is gewezen.   

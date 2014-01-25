@@ -13,9 +13,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
-b. "directeur": directeur van de Plantenziektenkundige Dienst alsmede de ambtenaar die hem vervangt;  
+b. "inspecteur-generaal": inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit alsmede de ambtenaar die hem vervangt;  
 
 c. "instelling": privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in artikel 9;  
 
@@ -53,8 +53,8 @@ e. de plaats van bestemming en het gebruiksdoel;
 f. het vervoer naar de plaats waar het onderzoek of de tijdelijke afzondering zal geschieden, naar de plaats van bestemming, dan wel naar de plaats van weder uitvoer;  
 
 g. de reiniging en ontsmetting van ruimten waarin ingevoerde zaken, genoemd in het eerste lid, zijn opgeslagen geweest, van transportmiddelen waarmee die zaken zijn vervoerd of verplaatst en van voorwerpen die bij de opslag, het vervoer of de verplaatsing zijn gebruikt.     
-3.  De directeur is bevoegd, ter voorkoming van het optreden en van de verbreiding van schadelijke organismen, de in- en uitvoer van een zending, geheel of ten dele bestaande uit schadelijke organismen, planten, plantaardige produkten, grond of andere cultuurmedia, of uit voor planten of plantaardige produkten gebruikt verpakkingsmateriaal, te verbieden of voorschriften te geven waaraan voor, bij of na de invoer, onderscheidenlijk voor of bij de uitvoer van die zending moet worden voldaan.   
-4.  Een ieder wie zulks aangaat is verplicht planten, plantaardige produkten, grond of andere cultuurmedia en schadelijke organismen, die op grond van het krachtens de voorgaande leden bepaalde niet hadden mogen worden ingevoerd, overeenkomstig een hem door de directeur gegeven bevel binnen de daarin gestelde termijn uit te voeren dan wel te behandelen of te vernietigen en zo nodig daartoe op de in het bevel aangegeven wijze naar een daarin bepaalde plaats te brengen.   
+3.  De inspecteur-generaal is bevoegd, ter voorkoming van het optreden en van de verbreiding van schadelijke organismen, de in- en uitvoer van een zending, geheel of ten dele bestaande uit schadelijke organismen, planten, plantaardige produkten, grond of andere cultuurmedia, of uit voor planten of plantaardige produkten gebruikt verpakkingsmateriaal, te verbieden of voorschriften te geven waaraan voor, bij of na de invoer, onderscheidenlijk voor of bij de uitvoer van die zending moet worden voldaan.   
+4.  Een ieder wie zulks aangaat is verplicht planten, plantaardige produkten, grond of andere cultuurmedia en schadelijke organismen, die op grond van het krachtens de voorgaande leden bepaalde niet hadden mogen worden ingevoerd, overeenkomstig een hem door de inspecteur-generaal gegeven bevel binnen de daarin gestelde termijn uit te voeren dan wel te behandelen of te vernietigen en zo nodig daartoe op de in het bevel aangegeven wijze naar een daarin bepaalde plaats te brengen.   
 
 ### Artikel  3  
 
@@ -87,7 +87,7 @@ Onze Minister is bevoegd in gevallen waarin de schade, welke het gevolg is van h
 
 ### Artikel  5  
 
-Onze Minister kan, wanneer de toepassing van artikel 3 tot onbillijkheden aanleiding zou geven door of vanwege de directeur op ’s Rijks kosten bepaalde maatregelen tot wering en bestrijding van schadelijke organismen doen nemen.  
+Onze Minister kan, wanneer de toepassing van artikel 3 tot onbillijkheden aanleiding zou geven door of vanwege de inspecteur-generaal op ’s Rijks kosten bepaalde maatregelen tot wering en bestrijding van schadelijke organismen doen nemen.  
 
 ### Artikel  6  
 
@@ -95,7 +95,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gege
 
 ### Artikel  6a  
 
-1.  Onze Minister kan bepalen dat vergoeding van kosten wordt geheven volgens een door Onze Minister vastgesteld tarief voor in het kader van de haar opgedragen taak door de Plantenziektenkundige Dienst of een instelling gedane onderzoekingen of verrichtingen.   
+1.  Onze Minister kan bepalen dat vergoeding van kosten wordt geheven volgens een door Onze Minister vastgesteld tarief voor in het kader van de haar opgedragen taak door de Nederlandse Voedsel- en Warenautoriteit of een instelling gedane onderzoekingen of verrichtingen.   
 2.  Onze Minister kan regelen stellen met betrekking tot het heffen en betalen van de vergoeding. Daarbij kan worden bepaald dat de vergoeding wordt geheven door de instelling die de onderzoekingen of verrichtingen uitvoert.   
 
 ### Artikel  7  

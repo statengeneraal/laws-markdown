@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie; Onze Ministers: Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk; dierenarts: degene 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Economische Zaken; Onze Ministers: Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk; dierenarts: degene 
 
 a. aan wie op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad Master op het gebied van de diergeneeskunde is verleend, of  
 

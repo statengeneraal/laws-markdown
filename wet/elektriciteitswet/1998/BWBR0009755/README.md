@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. aansluiting: één of meer verbindingen tussen een net en een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), waaronder begrepen één of meer verbindingen tussen een net dat wordt beheerd door een netbeheerder en een net dat beheerd wordt door een ander dan die netbeheerder;  
 
@@ -458,7 +458,7 @@ b. beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdee
 1.  De [artikelen 155a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [158 tot en met 161a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [164](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) dan wel [265a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [268 tot en met 271a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [274 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van toepassing op de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet en haar statuten worden dienovereenkomstig ingericht.   
 2.  Het is aan de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet niet toegestaan haar statuten te wijzigen dan nadat aan de wijziging door Onze Minister goedkeuring is verleend. Onze Minister weigert goedkeuring indien de statuten na de wijziging niet in overeenstemming zijn met dit artikel.   
 3.  De leden van het bestuur en de meerderheid van de leden van de raad van commissarissen van de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet hebben direct noch indirect binding met een rechtspersoon die de productie, aankoop of levering van gas of elektriciteit verricht of met een aandeelhouder van die rechtspersoon.   
-4.  Een lid van de raad van commissarissen van de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet wordt niet benoemd dan nadat Onze Minister heeft ingestemd met het voornemen tot benoeming.   
+4.   Vervallen.    
 5.  Indien de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet een afhankelijke maatschappij is in de zin van [artikel 152](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [artikel 262 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is het eerste lid niet van toepassing.   
 6.  In het in het vijfde lid bedoelde geval: 
 
@@ -806,7 +806,13 @@ c. de klacht zo spoedig mogelijk doch uiterlijk binnen acht weken wordt afgehand
 
 ### Artikel  20a  
 
-1.  De procedure bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op een uitbreiding van het landelijke hoogspanningsnet, voor zover het betreft de van dat net deel uitmakende netten bestemd voor het transport van elektriciteit op een spanningsniveau van 220 kV of hoger en die als zodanig worden bedreven, en de van dat net deel uitmakende landsgrensoverschrijdende netten op een spanningsniveau van 500 V of hoger, met inbegrip van de aansluitingen op die netten.   
+1.  De procedure bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op een uitbreiding van het landelijk hoogspanningsnet voor zover het betreft: 
+
+a. de van dat net deel uitmakende netten bestemd voor het transport van elektriciteit op een spanningsniveau van 220 kV of hoger en die als zodanig worden bedreven met inbegrip van de aansluitingen op die netten,  
+
+b. de van dat net deel uitmakende landsgrensoverschrijdende netten op een spanningsniveau van 500 V of hoger met inbegrip van de aansluitingen op die netten, of  
+
+c. de aanleg of uitbreiding van een landsgrensoverschrijdend net met inbegrip van de aansluitingen op zo’n net, en het een project betreft voor elektriciteit dat is opgenomen op de Unielijst van projecten van gemeenschappelijk belang, bedoeld in artikel 3, vierde lid, Verordening (EU) nr. 347/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende richtsnoeren voor de trans-Europese energie-infrastructuur en tot intrekking van Beschikking nr. 1364/2006/EG en tot wijziging van de Verordeningen (EG) nr. 713/2009, (EG) nr. 714/2009 en (EG) nr. 715/2009 (PbEU 2013, L 115).     
 2.  De beheerder van het net, bedoeld in het eerste lid, meldt een voornemen tot een uitbreiding van een net waarop het eerste lid van toepassing is zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.   
 3.  Indien, in aanmerking genomen de omvang, aard en ligging van een net als bedoeld in het eerste lid, alsmede het aantal voor de aanleg of uitbreiding van dat net benodigde besluiten, redelijkerwijs niet valt te verwachten dat toepassing van de procedure, bedoeld in het eerste lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat: 
 
@@ -1295,7 +1301,7 @@ b. de tariefstructuren vastgesteld op grond van artikel 36 of 37,
 
 c. het bepaalde bij of krachtens artikel 41a,  
 
-d. de formule   ![91857](http://wetten.overheid.nl/Illustration/91857)
+d. de formule   ![249214](http://wetten.overheid.nl/Illustration/249214)
 waarbij TI <sub>t</sub> = de totale inkomsten uit de tarieven in het jaar t, te weten de som van de vermenigvuldiging van elk tarief in jaar t en het op basis van artikel 41a, eerste lid, onderdeel c, vastgestelde rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld; TI <sub>t-1</sub> = de totale inkomsten uit de tarieven in het jaar voorafgaande aan het jaar t, te weten de som van de vermenigvuldiging van elk tarief in jaar t-1 en het op basis van artikel 41a, eerste lid, onderdeel c, vastgestelde rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld; cpi = de relatieve wijziging van de consumentenprijsindex (alle huishoudens), berekend uit het quotiënt van deze prijsindex, gepubliceerd in de vierde maand voorafgaande aan het jaar t, en van deze prijsindex, gepubliceerd in de zestiende maand voorafgaande aan het jaar t, zoals deze maandelijks wordt vastgesteld door het Centraal Bureau voor de Statistiek; x = de korting ter bevordering van de doelmatige bedrijfsvoering; q = de kwaliteitsterm, die de aanpassing van de tarieven in verband met de geleverde kwaliteit aangeeft;  
 
 e. de gemaakte kosten voor investeringen, bedoeld in artikel 20d of  20e, tweede of derde lid, voor zover de kosten doelmatig zijn;  

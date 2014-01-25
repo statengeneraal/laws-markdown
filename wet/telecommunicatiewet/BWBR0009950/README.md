@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
@@ -134,7 +134,7 @@ yy. ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling va
 
 zz. openbare betaaltelefoon: voor het publiek toegankelijk telefoontoestel waarmee uitgaande gesprekken gevoerd kunnen worden en waarvan de betaling voor het gebruik kan geschieden door middel van munten, krediet- of debetkaarten of vooruitbetaalde telefoonkaarten;  
 
-aaa. notificatierichtlijn: richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204);  
+aaa. notificatierichtlijn: Richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204);  
 
 bbb. programmadienst: dienst die geheel of hoofdzakelijk bestaat uit het aanbieden van programma’s aan het algemene publiek of een deel daarvan;  
 

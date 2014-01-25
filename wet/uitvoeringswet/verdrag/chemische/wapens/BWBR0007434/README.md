@@ -56,7 +56,7 @@ p. internationaal inspectieteam: inspecteurs en inspectie-assistenten, door de D
 
 q. begeleidingsteam: de door Onze Minister tot begeleiding van het internationaal inspectieteam aangewezen ambtenaren;  
 
-r. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+r. Onze Minister: Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;  
 
 s. doorvoer: het vervoer van goederen die uitsluitend Nederland worden binnengebracht om via Nederland te worden vervoerd naar een bestemming buiten Nederland.     
 2.  Voor de toepassing van de bij of krachtens deze wet ter zake van invoer gestelde regelen worden goederen als bedoeld in de artikelen 202, eerste lid, en 203, eerste lid, alsmede goederen met betrekking tot welke niet is voldaan aan enige verplichting of voorwaarde als bedoeld in artikel 204, eerste lid, van het Communautair douanewetboek, geacht te zijn geplaatst onder de douaneregeling, bedoeld in artikel 4, onderdeel 16, onder a, van dat wetboek.   

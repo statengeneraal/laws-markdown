@@ -52,7 +52,7 @@ n. mijnbouwwerk: een werk dat behoort tot een bij algemene maatregel van bestuur
 
 o. mijnbouwinstallatie: een mijnbouwwerk dat verankerd is in of aanwezig is boven de bodem van een oppervlaktewater;  
 
-p. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+p. Onze Minister: Onze Minister van Economische Zaken;  
 
 q. opsporen van CO <sub>2</sub> -opslagcomplexen: onderzoek naar opslagcomplexen met gebruikmaking van een boorgat of door het verrichten van proeven met injectie van CO <sub>2</sub> om het opslagvoorkomen te karakteriseren;  
 
@@ -1424,7 +1424,7 @@ De Mijnraad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van z
 
 ### Artikel  112  
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de Mijnraad geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken, Landbouw en Innovatie. De bescheiden worden na beëindiging van de werkzaamheden van de raad opgeborgen in het archief van dat ministerie.  
+Het beheer van de bescheiden betreffende de werkzaamheden van de Mijnraad geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de raad opgeborgen in het archief van dat ministerie.  
 
 ### §  6.2  
 
@@ -1728,7 +1728,9 @@ a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen
 
 b. een mijnbouwwerk ten behoeve van de opslag van stoffen;  
 
-c. pijpleidingen die uitsluitend of in hoofdzaak zijn bestemd voor het vervoer van delfstoffen respectievelijk het vervoer van stoffen in verband met het opsporen of winnen van delfstoffen respectievelijk het opslaan van stoffen met behulp van een mijnbouwwerk als bedoeld in onderdeel a respectievelijk onderdeel b.     
+c. pijpleidingen die uitsluitend of in hoofdzaak zijn bestemd voor het vervoer van delfstoffen respectievelijk het vervoer van stoffen in verband met het opsporen of winnen van delfstoffen respectievelijk het opslaan van stoffen met behulp van een mijnbouwwerk als bedoeld in onderdeel a respectievelijk onderdeel b;  
+
+d. een mijnbouwwerk of pijpleidingen, voor zover het een project betreft voor olie of koolstofdioxide dat is opgenomen op de Unielijst van projecten van gemeenschappelijk belang, bedoeld in artikel 3, vierde lid, Verordening (EU) nr. 347/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende richtsnoeren voor de trans-Europese energie-infrastructuur en tot intrekking van Beschikking nr. 1364/2006/EG en tot wijziging van de Verordeningen (EG) nr. 713/2009, (EG) nr. 714/2009 en (EG) nr. 715/2009 (PbEU 2013, L 115).     
 2.  Een mijnbouwondernemer als omschreven in artikel 113 meldt een voornemen tot aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in het eerste lid, zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.   
 3.  Indien, in aanmerking genomen de omvang, aard en ligging van een mijnbouwwerk of een pijpleiding als bedoeld in het eerste lid, alsmede het aantal voor de aanleg of de uitbreiding van dat werk of die leiding benodigde besluiten, redelijkerwijze niet valt te verwachten dat toepassing van de procedures, bedoeld in het eerste lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat: 
 

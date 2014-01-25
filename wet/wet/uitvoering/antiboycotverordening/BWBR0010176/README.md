@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Met het toezicht op de naleving van artikel 2, eerste en tweede alinea, en artikel 5, eerste alinea, van de verordening (EG) nr. 2271/96 van de Raad van de Europese Unie van 22 november 1996 tot bescherming tegen de gevolgen van de extraterritoriale toepassing van rechtsregels uitgevaardigd door een derde land en daarop gebaseerde of daaruit voortvloeiende handelingen (PbEG L 309), zijn belast de bij besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van artikel 2, eerste en tweede alinea, en artikel 5, eerste alinea, van de verordening (EG) nr. 2271/96 van de Raad van de Europese Unie van 22 november 1996 tot bescherming tegen de gevolgen van de extraterritoriale toepassing van rechtsregels uitgevaardigd door een derde land en daarop gebaseerde of daaruit voortvloeiende handelingen (PbEG L 309), zijn belast de bij besluit van Onze Minister van Economische Zaken aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  2  

@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. de Raad: de Raad voor plantenrassen, genoemd in artikel 2;  
 
@@ -48,7 +48,7 @@ l. Unie-staat: staat die deel uitmaakt van de Unie;
 
 m. handelsrichtlijn of -verordening: richtlijn, onderscheidenlijk verordening, van de Raad van de Europese Unie of van het Europees Parlement en de Raad van de Europese Unie gezamenlijk die geheel of gedeeltelijk berust op de artikelen 37, 52, 95, 152 of 175 van het EG-Verdrag, betrekking heeft op de plantaardige sector en regels stelt over de economische activiteiten in die sector, de belangen van afnemers, de interne markt, de kwaliteit, de productie met het oog op het in de handel brengen en het in de handel brengen van teeltmateriaal, het milieu, de volksgezondheid, technische eisen of het verschaffen van informatie;  
 
-n. gedelegeerde richtlijn, verordening of beschikking: richtlijn, verordening, onderscheidenlijk beschikking, van de Commissie van de Europese Gemeenschappen die berust op een handelsrichtlijn of -verordening.    
+n. gedelegeerde richtlijn, verordening of beschikking: richtlijn, verordening, onderscheidenlijk beschikking, van de Europese Commissie die berust op een handelsrichtlijn of -verordening.    
 
 ### Hoofdstuk  2  
 
@@ -70,7 +70,7 @@ e. het toelaten en in het rassenregister inschrijven van plantengroepen als bedo
 
 ### Artikel  2a  
 
-Op de Raad voor plantenrassen is de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.  
+Op de Raad voor plantenrassen is de Kaderwet zelfstandige bestuursorganen van toepassing.  
 
 ### Artikel  3  
 
@@ -118,16 +118,16 @@ b. belopen niet meer dan nodig is ter dekking van de gemaakte kosten die zijn to
 
 c. worden per gewas of per categorie van gewassen waarop de activiteiten van de Raad betrekking hebben, afzonderlijk vastgesteld.     
 4.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de oplegging en inning van de tarieven alsmede met betrekking tot het periodiek aanpassen van de tarieven aan de ontwikkelingen van de lonen en prijzen.   
-5.  Bij gebreke van betaling binnen de door de Raad gestelde termijn kan de Raad het verschuldigde bedrag invorderen bij dwangbevel. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+5.  Bij gebreke van betaling binnen de door de Raad gestelde termijn kan de Raad het verschuldigde bedrag invorderen bij dwangbevel. De artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 6.  De Raad neemt geen stukken in behandeling en verstrekt geen afschriften en uittreksels uit het rassenregister, zolang niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.   
 
 ### Artikel  7  
 
 1.  De Raad kan getuigen en deskundigen horen in verband met het toelaten van rassen en opstanden en het verlenen van kwekersrecht.   
 2.  Ieder, die als getuige is opgeroepen, is verplicht aan deze oproep gehoor te geven.   
-3.  De [artikelen 191](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [203, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) vinden ten aanzien van de getuige overeenkomstige toepassing.   
+3.  De artikelen 191 en 203, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering vinden ten aanzien van de getuige overeenkomstige toepassing.   
 4.  De Raad kan bevelen, dat getuigen, die hoewel behoorlijk opgeroepen niet zijn verschenen, door de openbare macht worden voorgeleid.   
-5.  De [artikelen 197 tot en met 199](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [203](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [205 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn ten aanzien van het getuigenverhoor van overeenkomstige toepassing.   
+5.  De artikelen 197 tot en met 199, 203 en 205 van het Wetboek van Burgerlijke Rechtsvordering zijn ten aanzien van het getuigenverhoor van overeenkomstige toepassing.   
 6.  De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te verrichten.   
 
 ### Artikel  8  
@@ -180,7 +180,7 @@ b. belopen niet meer dan nodig is ter dekking van de gemaakte kosten die zijn to
 
 c. worden per gewas of per categorie van gewassen waarop de activiteiten van de keuringsinstelling betrekking hebben, afzonderlijk vastgesteld.     
 3.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de oplegging en inning van de tarieven alsmede met betrekking tot het periodiek aanpassen van de tarieven aan de ontwikkelingen van de lonen en prijzen.   
-4.  Bij gebreke van betaling binnen de door de keuringsinstelling gestelde termijn kan de keuringsinstelling het verschuldigde bedrag invorderen bij dwangbevel. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+4.  Bij gebreke van betaling binnen de door de keuringsinstelling gestelde termijn kan de keuringsinstelling het verschuldigde bedrag invorderen bij dwangbevel. De artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 5.  De keuringsinstelling verricht geen activiteiten als bedoeld in het eerste lid of staakt deze, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.   
 
 ### Artikel  22  
@@ -194,7 +194,7 @@ De keuringsinstelling houdt een afzonderlijke boekhouding bij ter zake van de bi
 
 ### Artikel  24  
 
-Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.  
+Op een keuringsinstelling als bedoeld in dit hoofdstuk is de Kaderwet zelfstandige bestuursorganen van toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -222,7 +222,7 @@ c. voor zover het opstanden betreft: een vermelding van de eigenaar of beheerder
 
 ### Artikel  26  
 
-1.  Ter uitvoering van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen stelt de Raad nationale lijsten samen van de in Nederland van een gewas toegelaten rassen en opstanden, op basis van de in het rassenregister opgenomen gegevens.   
+1.  Ter uitvoering van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Europese Commissie stelt de Raad nationale lijsten samen van de in Nederland van een gewas toegelaten rassen en opstanden, op basis van de in het rassenregister opgenomen gegevens.   
 2.  Van de vaststelling van een nationale lijst als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  27  
@@ -236,14 +236,14 @@ b. voor zover het andere rassen betreft: van iedere benaming die in enige lidsta
 3.  De benaming is niet in strijd met de openbare orde of de goede zeden.   
 4.  De benaming is gelijk aan de benaming die reeds in enige Unie-Staat, onderscheidenlijk in enige lidstaat of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor het ras is ingeschreven, mits deze voor gebruik hier te lande geschikt is.   
 5.  Geen benaming wordt vastgesteld die zodanig met een handelsnaam of merk overeenstemt, dat het gebruik daarvan aanleiding kan geven tot verwarring omtrent de aard of herkomst van waren.   
-6.  Bij ministeriële regeling worden, ter uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen nadere regels gesteld omtrent de benaming. Bij het stellen van regels als bedoeld in de eerste volzin wordt tevens rekening gehouden met de door de Raad van de Europese Unie vastgestelde aanbevelingen met betrekking tot de benaming van rassen waarvoor kwekersrecht is verleend.   
+6.  Bij ministeriële regeling worden, ter uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie nadere regels gesteld omtrent de benaming. Bij het stellen van regels als bedoeld in de eerste volzin wordt tevens rekening gehouden met de door de Raad van de Europese Unie vastgestelde aanbevelingen met betrekking tot de benaming van rassen waarvoor kwekersrecht is verleend.   
 
 ### Artikel  28  
 
 1.  Alvorens een benaming vast te stellen, doet de Raad van het voornemen daartoe mededeling in de Staatscourant.   
 2.  Een belanghebbende kan gedurende acht weken na de in het eerste lid bedoelde mededeling bij de Raad bedenkingen op grond van artikel 27, vijfde lid, tegen de benaming inbrengen.   
 3.  De Raad stelt geen benaming vast alvorens zij over de in het tweede lid bedoelde bedenkingen heeft beslist.   
-4.  Het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) verstrekt aan de Raad desgevraagd inlichtingen omtrent bij hem ingeschreven merken.   
+4.  Het bureau, bedoeld in artikel 1 van de Rijksoctrooiwet 1995 verstrekt aan de Raad desgevraagd inlichtingen omtrent bij hem ingeschreven merken.   
 
 ### Artikel  29  
 
@@ -251,13 +251,13 @@ b. voor zover het andere rassen betreft: van iedere benaming die in enige lidsta
 2.  De aanvrager kan ook volstaan met een voorlopige benaming. In dat geval is hij verplicht op een nader door de Raad te bepalen tijdstip een voorstel voor een definitieve benaming te doen.   
 3.  Het voorstel voor de benaming gaat vergezeld van een akte, inhoudende, dat de aanvrager, ingeval de voorgestelde benaming wordt ingeschreven, afstand doet van de rechten, die hem in enige Unie-Staat, respectievelijk in enige lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, met betrekking tot deze benaming voor gelijke of gelijksoortige waren mochten toekomen.   
 4.  De Raad stelt de voorgestelde benaming of de in artikel 27, vierde lid, bedoelde benaming vast, tenzij de Raad van oordeel is dat artikel 27 zich daartegen verzet. In dat geval stelt de Raad de aanvrager in de gelegenheid een andere benaming voor te stellen.   
-5.  De Raad verstrekt desgevraagd aan het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) en het Bureau van de Unie inlichtingen over de bij hem ingeschreven benamingen.   
+5.  De Raad verstrekt desgevraagd aan het bureau, bedoeld in artikel 1 van de Rijksoctrooiwet 1995 en het Bureau van de Unie inlichtingen over de bij hem ingeschreven benamingen.   
 
 ### Artikel  30  
 
 1.  Indien het gebruik van een ingeschreven benaming voor teeltmateriaal van het ras, waarvoor deze is ingeschreven, op grond van een aan een ander met betrekking tot deze benaming toekomend recht bij rechterlijke uitspraak wordt verboden, haalt de Raad op verzoek van de meest gerede partij de ingeschreven benaming door en schrijft hij een voorlopige benaming in, in overleg met degene die belang heeft bij de toelating van een ras of met de houder van het kwekersrecht.   
 2.  De Raad stelt een gewijzigde benaming vast, na degene die belang heeft bij de toelating van een ras of de houder van het kwekersrecht in de gelegenheid te hebben gesteld binnen een daarbij te bepalen termijn een andere benaming voor te stellen en schrijft de gewijzigde benaming in. Artikel 28 is van overeenkomstige toepassing.   
-3.  Indien komt vast te staan dat een ras niet onder de ingeschreven benaming kan worden opgenomen op een door de Commissie van de Europese Gemeenschappen voor het gewas, waartoe het ras behoort, vastgestelde gemeenschappelijke rassenlijst, kan de Raad op een daartoe strekkend verzoek van de houder van het kwekersrecht, of van degene die om de toelating van een ras heeft verzocht, een ingeschreven benaming doorhalen en een voorlopige benaming inschrijven. Het tweede lid is van overeenkomstige toepassing.   
+3.  Indien komt vast te staan dat een ras niet onder de ingeschreven benaming kan worden opgenomen op een door de Europese Commissie voor het gewas, waartoe het ras behoort, vastgestelde gemeenschappelijke rassenlijst, kan de Raad op een daartoe strekkend verzoek van de houder van het kwekersrecht, of van degene die om de toelating van een ras heeft verzocht, een ingeschreven benaming doorhalen en een voorlopige benaming inschrijven. Het tweede lid is van overeenkomstige toepassing.   
 
 ### Artikel  31  
 
@@ -270,7 +270,7 @@ b. ambtshalve, indien dit in verband met de beschrijving van een ander ras noodz
 
 ### Artikel  32  
 
-Onverminderd [artikel 3:41 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden de beslissingen van de Raad ingevolge dit hoofdstuk bekendgemaakt aan de in artikel 28 bedoelde belanghebbende, degene die ingevolge de artikelen 30 en 31 belang heeft bij de toelating van een ras en de in de artikelen 30 en 31 bedoelde houder van het kwekersrecht.  
+Onverminderd artikel 3:41 van de Algemene wet bestuursrecht worden de beslissingen van de Raad ingevolge dit hoofdstuk bekendgemaakt aan de in artikel 28 bedoelde belanghebbende, degene die ingevolge de artikelen 30 en 31 belang heeft bij de toelating van een ras en de in de artikelen 30 en 31 bedoelde houder van het kwekersrecht.  
 
 ### Artikel  33  
 
@@ -297,7 +297,7 @@ c. de eis dat op basis van een technisch onderzoek wordt vastgesteld of een opst
 d. de kenmerken waartoe het in de onderdelen a, b en c bedoelde technisch onderzoek zich uitstrekt alsmede de voor dit onderzoek geldende eisen en  
 
 e. nadere eisen aan de toelating alsmede de voorwaarden waaronder en de gevallen waarin de toelating door de Raad wordt gewijzigd of ingetrokken.     
-2.  Een ras wordt als onderscheidbaar aangemerkt indien het duidelijk te onderscheiden is van elk ander ras waarvan het bestaan op het tijdstip van indiening van de aanvraag algemeen bekend is. Een ras wordt als algemeen bekend beschouwd indien het ras op het ogenblik waarop de aanvraag tot toelating van een te beoordelen ras wordt ingediend, hetzij voorkomt op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen, hetzij is toegelaten dan wel het onderwerp is van een aanvraag tot toelating in een lidstaat van de Europese Unie.   
+2.  Een ras wordt als onderscheidbaar aangemerkt indien het duidelijk te onderscheiden is van elk ander ras waarvan het bestaan op het tijdstip van indiening van de aanvraag algemeen bekend is. Een ras wordt als algemeen bekend beschouwd indien het ras op het ogenblik waarop de aanvraag tot toelating van een te beoordelen ras wordt ingediend, hetzij voorkomt op een vanwege de Europese Commissie vastgestelde gemeenschappelijke lijst van rassen, hetzij is toegelaten dan wel het onderwerp is van een aanvraag tot toelating in een lidstaat van de Europese Unie.   
 3.  Een ras wordt als homogeen aangemerkt, indien het, behoudens de variatie die mag worden verwacht van de bijzonderheden die eigen zijn aan de vermeerdering ervan, voldoende eenvormig is wat zijn van belang zijnde eigenschappen betreft.   
 4.  Een ras wordt als bestendig aangemerkt indien zijn van belang zijnde eigenschappen onveranderd blijven na achtereenvolgende vermeerderingen of, in het geval van een bijzondere vermeerderingscyclus, aan het einde van iedere cyclus.   
 5.  Een ras bezit voldoende cultuur- en gebruikswaarde wanneer het ten opzichte van andere in Nederland toegelaten rassen door het geheel van zijn hoedanigheden, ten minste voor de productie in een bepaald gebied, een duidelijke verbetering betekent voor hetzij de teelt, hetzij de valorisatie van de oogst of van de daaruit verkregen producten. Een lager niveau van bepaalde eigenschappen kan door andere gunstige eigenschappen gecompenseerd worden.   
@@ -340,7 +340,7 @@ b. een ander ras dat is beoordeeld op onderscheidbaarheid, homogeniteit en beste
 
 1.  Bij of krachtens algemene maatregel van bestuur worden ten aanzien van bij die maatregel aan te wijzen gewassen regels gesteld over het in de handel brengen van teeltmateriaal van tot die gewassen behorende rassen of opstanden. Deze regels kunnen onder meer inhouden: 
 
-a. de voorwaarde dat uitsluitend teeltmateriaal in de handel wordt gebracht, indien het afkomstig is van een ras dat of een opstand die is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen of opstanden;  
+a. de voorwaarde dat uitsluitend teeltmateriaal in de handel wordt gebracht, indien het afkomstig is van een ras dat of een opstand die is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Europese Commissie vastgestelde gemeenschappelijke lijst van rassen of opstanden;  
 
 b. de voorwaarde dat slechts bepaalde categorieën van teeltmateriaal in de handel worden gebracht;  
 
@@ -351,7 +351,7 @@ a. het toezicht op de instandhouding en het in de handel brengen van teeltmateri
 
 b. het in de handel brengen met het oog op uitvoer buiten het grondgebied van de Europese Unie van teeltmateriaal van rassen en opstanden die niet voldoen aan de in het eerste lid, onder a gestelde voorwaarden.     
 3.  De registratie van instandhouders, bedoeld in het eerste lid, onderdeel c, geschiedt door de Raad op aanwijzing van de keuringsinstelling. Indien dit om kweektechnische redenen noodzakelijk is, wijst de Raad één instandhouder aan. Deze laatste is verplicht onder daartoe door de Raad te stellen voorwaarden aan anderen, die daartoe de wens kenbaar hebben gemaakt, voor de voortbrenging van teeltmateriaal geschikt materiaal te verstrekken.   
-4.  Ten aanzien van gewassen, waarvoor bij bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen regels zijn gesteld omtrent het in de handel brengen, die ingevolge de Overeenkomst betreffende de Europese Economische Ruimte van toepassing zijn op het gehele grondgebied van de Europese Economische Ruimte, zijn het eerste lid, onderdeel a, en het tweede lid, onderdeel b, van overeenkomstige toepassing op het grondgebied van de Europese Economische Ruimte.   
+4.  Ten aanzien van gewassen, waarvoor bij bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie regels zijn gesteld omtrent het in de handel brengen, die ingevolge de Overeenkomst betreffende de Europese Economische Ruimte van toepassing zijn op het gehele grondgebied van de Europese Economische Ruimte, zijn het eerste lid, onderdeel a, en het tweede lid, onderdeel b, van overeenkomstige toepassing op het grondgebied van de Europese Economische Ruimte.   
 5.  In afwijking van de krachtens het eerste lid gestelde regels is het toegestaan kleine hoeveelheden teeltmateriaal in de handel te brengen voor wetenschappelijke of kweekdoeleinden.   
 6.  In afwijking van de krachtens het eerste lid gestelde regels kan een keuringsinstelling op verzoek toestemming verlenen, hetzij om voor een bepaalde tijd teeltmateriaal in de handel te brengen, hetzij voor het in de handel brengen van passende hoeveelheden teeltmateriaal voor onderzoeks- en beproevingsdoeleinden of voor de instandhouding van de genetische diversiteit, voor zover het gaat om teeltmateriaal van een ras of opstand waarvoor in tenminste één lidstaat van de Europese Unie een aanvraag tot toelating is ingediend.   
 7.  De voorwaarden waaronder de in het zesde lid bedoelde toestemming kan worden gegeven alsmede de in dat lid bedoelde hoeveelheden worden bij ministeriële regeling vastgesteld.   
@@ -425,7 +425,7 @@ b. naar andere staten dan één der lidstaten van de Europese Unie of een andere
 
 1.  De keuringsinstelling draagt er zorg voor dat teeltmateriaal, dat niet aan de bij of krachtens dit hoofdstuk gestelde regels voldoet, uit de handel wordt genomen. Hiertoe verplicht de keuringsinstelling de overtreder schriftelijk om binnen een door haar te bepalen termijn ondeugdelijk teeltmateriaal uit de handel te nemen, op te slaan of te vernietigen.   
 2.  Indien een overtreder niet binnen de in het eerste lid bedoelde termijn maatregelen als bedoeld in dat lid treft, is de keuringsinstelling bevoegd op kosten van de overtreder zelf zodanige maatregelen te treffen.   
-3.  De keuringsinstelling kan van de overtreder bij dwangbevel de ingevolge het tweede lid verschuldigde kosten invorderen. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  De keuringsinstelling kan van de overtreder bij dwangbevel de ingevolge het tweede lid verschuldigde kosten invorderen. De artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  48  
 
@@ -547,7 +547,7 @@ a. hoofdzakelijk is afgeleid van het oorspronkelijke ras dan wel van een ras dat
 b. op grond van artikel 49, vierde lid, duidelijk onderscheidbaar is van het oorspronkelijke ras, en  
 
 c. overeenkomt met het oorspronkelijke ras voor wat betreft de expressie van de wezenlijke eigenschappen, die voortvloeit uit het genotype of de combinatie van genotypen van het oorspronkelijke ras, zulks met uitzondering van afwijkingen die voortvloeien uit de afleidingshandeling.     
-3.  Het eerste lid, onderdeel a, is niet van toepassing op rassen waarvan het bestaan op het tijdstip van inwerkingtreding van de [Uitvoeringswet UPOV 1991](../../../../../../wet/uitvoeringswet/upov/1991/BWBR0008141/README.md) algemeen bekend was. Artikel 49, derde lid, is van overeenkomstige toepassing.   
+3.  Het eerste lid, onderdeel a, is niet van toepassing op rassen waarvan het bestaan op het tijdstip van inwerkingtreding van de Uitvoeringswet UPOV 1991 algemeen bekend was. Artikel 49, derde lid, is van overeenkomstige toepassing.   
 4.  De Raad kan op verzoek adviseren omtrent de vraag of een bij het verzoek aan te wijzen ras is afgeleid van een ras waarvoor door de Raad kwekersrecht is verleend.   
 5.  Het in het vierde lid bedoelde advies van de Raad bevat de gronden waarop het rust.   
 
@@ -569,7 +569,7 @@ b. die uitvoer, anders dan voor verbruiksdoeleinden, van het materiaal inhouden 
 1.  De houder van een kwekersrecht is verplicht de licenties te verlenen die in het algemeen belang noodzakelijk zijn.   
 2.  De in het vorige lid bedoelde verplichting houdt mede in, dat de houder van het kwekersrecht het voor de uitoefening van de licentie noodzakelijke teeltmateriaal tegen een redelijke vergoeding verstrekt.   
 3.  De houder van een kwekersrecht is verplicht aan een octrooihouder een licentie te verlenen tegen een redelijke vergoeding, indien de octrooihouder een octrooi voor een biotechnologische uitvinding niet kan exploiteren zonder inbreuk te maken op het kwekersrecht van eerdere datum en de biotechnologische uitvinding een belangrijke technische vooruitgang van aanzienlijk economisch belang vertegenwoordigt ten opzichte van het beschermde ras.   
-4.  Indien aan de houder van een kwekersrecht een licentie is verleend op grond van [artikel 57, vijfde lid, van de Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md), is de houder van het kwekersrecht verplicht aan de octrooihouder op diens verzoek onder redelijke voorwaarden een wederkerige licentie te verlenen om het beschermde ras te gebruiken.   
+4.  Indien aan de houder van een kwekersrecht een licentie is verleend op grond van artikel 57, vijfde lid, van de Rijksoctrooiwet 1995, is de houder van het kwekersrecht verplicht aan de octrooihouder op diens verzoek onder redelijke voorwaarden een wederkerige licentie te verlenen om het beschermde ras te gebruiken.   
 
 ### Artikel  62  
 
@@ -586,7 +586,7 @@ b. die uitvoer, anders dan voor verbruiksdoeleinden, van het materiaal inhouden 
 
 ### Artikel  64  
 
-Een krachtens artikel 19 aangewezen keuringsinstelling alsmede een krachtens [artikel 8 van de Landbouwkwaliteitswet](../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) aangewezen controle-instelling, voor zover deze bij of krachtens [die wet](../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) is belast met de keuring van teeltmateriaal, verstrekt op verzoek aan de houder van een in Nederland geldend kwekersrecht met betrekking tot het door de keuringsinstelling, onderscheidenlijk controle-instelling, gekeurde teeltmateriaal, een overzicht van de personen of ondernemingen die teeltmateriaal van het ras, waarvoor het kwekersrecht is verleend, hebben voortgebracht en, voor zover mogelijk, van de hoeveelheden die zij daarvan hebben voortgebracht.  
+Een krachtens artikel 19 aangewezen keuringsinstelling alsmede een krachtens artikel 8 van de Landbouwkwaliteitswet aangewezen controle-instelling, voor zover deze bij of krachtens die wet is belast met de keuring van teeltmateriaal, verstrekt op verzoek aan de houder van een in Nederland geldend kwekersrecht met betrekking tot het door de keuringsinstelling, onderscheidenlijk controle-instelling, gekeurde teeltmateriaal, een overzicht van de personen of ondernemingen die teeltmateriaal van het ras, waarvoor het kwekersrecht is verleend, hebben voortgebracht en, voor zover mogelijk, van de hoeveelheden die zij daarvan hebben voortgebracht.  
 
 ### Paragraaf  4  
 
@@ -615,20 +615,20 @@ Een krachtens artikel 19 aangewezen keuringsinstelling alsmede een krachtens [ar
 
 ### Artikel  68  
 
-1.  Het beslag op een kwekersrecht wordt gelegd en het proces-verbaal van inbeslagneming wordt in het rassenregister ingeschreven met overeenkomstige toepassing van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) betreffende executoriaal en conservatoir beslag op onroerende zaken, met dien verstande dat in het proces-verbaal van inbeslagneming in plaats van de aard en de ligging van de onroerende zaak een aanduiding van het kwekersrecht wordt opgenomen.   
+1.  Het beslag op een kwekersrecht wordt gelegd en het proces-verbaal van inbeslagneming wordt in het rassenregister ingeschreven met overeenkomstige toepassing van de bepalingen van het Wetboek van Burgerlijke Rechtsvordering betreffende executoriaal en conservatoir beslag op onroerende zaken, met dien verstande dat in het proces-verbaal van inbeslagneming in plaats van de aard en de ligging van de onroerende zaak een aanduiding van het kwekersrecht wordt opgenomen.   
 2.  Een vervreemding, bezwaring, onderbewindstelling of verlening van een licentie, tot stand gekomen na de inschrijving van het proces-verbaal, kan tegen de beslaglegger niet worden ingeroepen.   
-3.  De vóór de inschrijving van het proces-verbaal nog niet betaalde licentievergoedingen vallen mede onder een op het kwekersrecht gelegd beslag, nadat het ingeschreven beslag aan de houder der licentie is betekend. Deze vergoedingen worden betaald aan de notaris voor wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de licentiehouder is medegedeeld, en behoudens de rechten van derden die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt tot de in artikel 69, tweede lid, bedoelde opbrengst gerekend. De [artikelen 475c](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [476](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [478 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
+3.  De vóór de inschrijving van het proces-verbaal nog niet betaalde licentievergoedingen vallen mede onder een op het kwekersrecht gelegd beslag, nadat het ingeschreven beslag aan de houder der licentie is betekend. Deze vergoedingen worden betaald aan de notaris voor wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de licentiehouder is medegedeeld, en behoudens de rechten van derden die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt tot de in artikel 69, tweede lid, bedoelde opbrengst gerekend. De artikelen 475c, 476 en 478 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.   
 4.  De inschrijving van het proces-verbaal van inbeslagneming kan worden doorgehaald: 
 
 a. krachtens een schriftelijke ter inschrijving aangeboden verklaring van de deurwaarder dat hij in opdracht van de beslaglegger het beslag opheft of dat het beslag is vervallen;  
 
 b. krachtens een ter inschrijving aangeboden rechterlijke uitspraak die tot opheffing van het beslag strekt of het verval van het beslag vaststelt of meebrengt.     
-5.  De [artikelen 504a](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [538-541](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [726, tweede lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [727 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn in geval van beslag op een kwekersrecht van overeenkomstige toepassing.   
+5.  De artikelen 504a, 538-541, 726, tweede lid, en 727 van het Wetboek van Burgerlijke Rechtsvordering zijn in geval van beslag op een kwekersrecht van overeenkomstige toepassing.   
 
 ### Artikel  69  
 
-1.  De verkoop van een kwekersrecht door een pandhouder of een beslaglegger tot verhaal van een vordering geschiedt in het openbaar ten overstaan van een bevoegde notaris. De [artikelen 508](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [509](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [513, eerste lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [514, tweede en derde lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [515-519](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [521-529 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing met dien verstande dat hetgeen daar ten aanzien van hypotheken en hypotheekhouders is voorgeschreven geldt voor de op het kwekersrecht rustende pandrechten en de pandhouders.   
-2.  De verdeling van de opbrengst geschiedt met overeenkomstige toepassing van de [artikelen 551-552 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+1.  De verkoop van een kwekersrecht door een pandhouder of een beslaglegger tot verhaal van een vordering geschiedt in het openbaar ten overstaan van een bevoegde notaris. De artikelen 508, 509, 513, eerste lid, 514, tweede en derde lid, 515-519 en 521-529 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing met dien verstande dat hetgeen daar ten aanzien van hypotheken en hypotheekhouders is voorgeschreven geldt voor de op het kwekersrecht rustende pandrechten en de pandhouders.   
+2.  De verdeling van de opbrengst geschiedt met overeenkomstige toepassing van de artikelen 551-552 van het Wetboek van Burgerlijke Rechtsvordering.   
 
 ### Paragraaf  5  
 
@@ -644,9 +644,9 @@ b. krachtens een ter inschrijving aangeboden rechterlijke uitspraak die tot ophe
 6.  In plaats van schadevergoeding kan worden gevorderd, dat de gedaagde veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter echter van oordeel is dat de omstandigheden van het geval geen aanleiding geven tot een dergelijke veroordeling, zal de rechter de gedaagde tot schadevergoeding kunnen veroordelen.   
 7.  De houder van een kwekersrecht kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens licentiehouders of pandhouders instellen, onverminderd de bevoegdheid van licentiehouders en pandhouders in een al of niet namens hen door de houder van het kwekersrecht ingestelde vordering tussen te komen om rechtstreeks de door hen geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde af te dragen winst te doen toewijzen. Licentiehouders en pandhouders kunnen slechts een zelfstandige vordering instellen en exploot als bedoeld in het vierde lid met het oog daarop doen uitbrengen, als zij de bevoegdheid daartoe van de houder van het kwekersrecht hebben bedongen.   
 8.  De houder van het kwekersrecht heeft de bevoegdheid roerende zaken waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken, als zijn eigendom op te vorderen dan wel de onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.   
-9.  De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor.   
+9.  De bepalingen van het Wetboek van Burgerlijke Rechtsvordering betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor.   
 10.  De maatregelen bedoeld in het achtste lid worden op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten.   
-11.  De rechter kan op vordering van de houder van het kwekersrecht degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten, waarmee de inbreuk is gepleegd, aan de houder van het kwekersrecht mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde personen.   
+11.  De rechter kan op vordering van de houder van het kwekersrecht degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten, waarmee de inbreuk is gepleegd, aan de houder van het kwekersrecht mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering bedoelde personen.   
 12.  De rechter kan op vordering van de houder van het kwekersrecht gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.   
 
 ### Artikel  71  
@@ -721,14 +721,14 @@ b. vorderingen, die worden ingesteld door een ander dan de houder van een kweker
 
 ### Artikel  79  
 
-1.  De deskundige leden, bedoeld in de [artikelen 55a, tweede lid](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [70, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), worden bij koninklijk besluit benoemd. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid, in de rechtbank Den Haag dan wel raad, onderscheidenlijk plaatsvervangend raad, in het gerechtshof Den Haag, al naar gelang het geval.   
+1.  De deskundige leden, bedoeld in de artikelen 55a, tweede lid, en 70, tweede lid, van de Wet op de rechterlijke organisatie, worden bij koninklijk besluit benoemd. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid, in de rechtbank Den Haag dan wel raad, onderscheidenlijk plaatsvervangend raad, in het gerechtshof Den Haag, al naar gelang het geval.   
 2.  De leden en de plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, worden voor de tijd van vijf jaren benoemd. Zij zijn bij aftreden terstond opnieuw benoembaar. Op eigen verzoek kunnen zij bij koninklijk besluit worden ontslagen.   
 3.  Aan de leden en de plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, wordt bij koninklijk besluit ontslag verleend met ingang van de eerste dag van de maand volgend op die waarin zij de leeftijd van zeventig jaar hebben bereikt.   
-4.  [Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden onderscheidenlijk de raden en de plaatsvervangende raden.   
+4.  Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden onderscheidenlijk de raden en de plaatsvervangende raden.   
 
 ### Artikel  80  
 
-Ten aanzien van de leden en plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, zijn de [artikelen 46c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) onderscheidenlijk [46o, tweede lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.  
+Ten aanzien van de leden en plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, zijn de artikelen 46c, 46d, 46f, 46i met uitzondering van het eerste lid, onderdeel c, 46j, 46l, eerste en derde lid, 46m, 46o, en 46p van de Wet rechtspositie rechterlijke ambtenaren van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van artikel 46j onderscheidenlijk 46o, tweede lid, onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.  
 
 ### Artikel  81  
 
@@ -758,7 +758,7 @@ c. het horen van belanghebbenden door de Raad.
 
 ### Artikel  85  
 
-Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen, regels worden gesteld over de toelating van plantengroepen, die niet aan de vereisten van artikel 35 voldoen, alsmede over het in de handel brengen van teeltmateriaal, afkomstig van die plantengroepen.  
+Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Europese Commissie, regels worden gesteld over de toelating van plantengroepen, die niet aan de vereisten van artikel 35 voldoen, alsmede over het in de handel brengen van teeltmateriaal, afkomstig van die plantengroepen.  
 
 ### Artikel  87  
 
@@ -775,7 +775,7 @@ b. voorschriften uit een handelsverordening worden aangewezen waarop door Onze M
 
 ### Artikel  88  
 
-1.  Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een productschap of bedrijfschap als bedoeld in [artikel 66 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+1.  Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een productschap of bedrijfschap als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
 2.  Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat uit het stellen van regels of nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister. Krachtens de verordening genomen besluiten behoeven, voor zover zulks bij of krachtens algemene maatregel van bestuur is bepaald, de goedkeuring van Onze Minister.   
 
 ### Artikel  89  
@@ -807,18 +807,18 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 ### Artikel  94  
 
 1.  De op het tijdstip van inwerkingtreding van deze wet in het rassenregister ingeschreven rassen worden door de Raad opnieuw gerangschikt overeenkomstig de bij of krachtens artikel 25 gestelde regels.   
-2.  De Raad draagt zorg voor de inschrijving in het rassenregister van rassen die op de dag voorafgaande aan het in het eerste lid bedoelde tijdstip op grond van [artikel 82 van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) waren toegelaten.   
-3.  De Raad draagt zorg voor een aantekening in het rassenregister van de toelating van rassen van landbouwgewassen, onderscheidenlijk bosbouwgewassen, die op de dag voorafgaande aan het in eerste lid bedoelde tijdstip vermeld stonden op de op grond van [artikel 73](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) in samenhang met de [artikelen 79](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) en [83, eerste lid, van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) vastgestelde rassenlijst voor landbouwgewassen, onderscheidenlijk op de op grond van [artikel 73](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) in samenhang met [artikel 79 van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) vastgestelde rassenlijst voor bosbouwgewassen.   
-4.  De op het tijdstip van inwerkingtreding van deze wet bij de Raad voor het Kwekersrecht aanhangige aanvragen en verzoeken zijn met ingang van dat tijdstip van rechtswege aanhangig bij de Raad in de staat, waarin zij zich op dat moment bevinden, met dien verstande dat aanvragen, die betrekking hebben op een ras als bedoeld in [artikel 18, eerste lid, onderdeel b, en tweede lid, van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), worden beschouwd als een aanvraag voor de toelating van een ras overeenkomstig hoofdstuk 5 van deze wet.   
-5.  De op het tijdstip van inwerkingtreding van deze wet aanhangige verzoeken tot aanwijzing van groepen van planten als bedoeld in [artikel 82 van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), zijn met ingang van dat tijdstip van rechtswege aanhangig bij de Raad en worden vanaf dat moment beschouwd als een aanvraag voor de toelating van een ras overeenkomstig hoofdstuk 5 van deze wet.   
-6.  Zaken die op het tijdstip van inwerkingtreding van deze wet aanhangig zijn bij de Afdeling van Beroep van de Raad voor het Kwekersrecht, bedoeld in [artikel 5, eerste lid, onderdeel d, van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), zijn van rechtswege met ingang van dat tijdstip aanhangig bij de Raad en worden vanaf dat moment behandeld als een bezwaarschrift.   
-7.  Zaken die op het tijdstip van inwerkingtreding van deze wet aanhangig zijn bij de Raad van Beroep, onderscheidenlijk de Commissie van Beroep inzake Keuringen, van een keuringsinstelling als bedoeld in [artikel 88, onder 2°, onderdeel e, onderscheidenlijk g, van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), zijn van rechtswege met ingang van dat tijdstip aanhangig bij de desbetreffende, overeenkomstig artikel 19 van deze wet aangewezen, keuringsinstelling en worden vanaf dat moment behandeld als een bezwaarschrift.   
-8.  De op het tijdstip van inwerkingtreding van deze wet bij de Raad voor het Kwekersrecht aanhangige verzoeken tot vernietiging en opeising van het kwekersrecht als bedoeld in de [artikelen 54](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) en [55 van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), worden behandeld en beslist overeenkomstig de bepalingen van de Zaaizaad- en Plantgoedwet.   
-9.  De op het tijdstip van inwerkingtreding van deze wet ingevolge de [artikelen 25, tweede lid](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), [60](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) en [69 van de Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) bij het Gerechtshof ’s- Gravenhage of de Hoge Raad aanhangige zaken worden behandeld en beslist overeenkomstig de bepalingen van de [Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md).   
+2.  De Raad draagt zorg voor de inschrijving in het rassenregister van rassen die op de dag voorafgaande aan het in het eerste lid bedoelde tijdstip op grond van artikel 82 van de Zaaizaad- en Plantgoedwet waren toegelaten.   
+3.  De Raad draagt zorg voor een aantekening in het rassenregister van de toelating van rassen van landbouwgewassen, onderscheidenlijk bosbouwgewassen, die op de dag voorafgaande aan het in eerste lid bedoelde tijdstip vermeld stonden op de op grond van artikel 73 in samenhang met de artikelen 79 en 83, eerste lid, van de Zaaizaad- en Plantgoedwet vastgestelde rassenlijst voor landbouwgewassen, onderscheidenlijk op de op grond van artikel 73 in samenhang met artikel 79 van de Zaaizaad- en Plantgoedwet vastgestelde rassenlijst voor bosbouwgewassen.   
+4.  De op het tijdstip van inwerkingtreding van deze wet bij de Raad voor het Kwekersrecht aanhangige aanvragen en verzoeken zijn met ingang van dat tijdstip van rechtswege aanhangig bij de Raad in de staat, waarin zij zich op dat moment bevinden, met dien verstande dat aanvragen, die betrekking hebben op een ras als bedoeld in artikel 18, eerste lid, onderdeel b, en tweede lid, van de Zaaizaad- en Plantgoedwet, worden beschouwd als een aanvraag voor de toelating van een ras overeenkomstig hoofdstuk 5 van deze wet.   
+5.  De op het tijdstip van inwerkingtreding van deze wet aanhangige verzoeken tot aanwijzing van groepen van planten als bedoeld in artikel 82 van de Zaaizaad- en Plantgoedwet, zijn met ingang van dat tijdstip van rechtswege aanhangig bij de Raad en worden vanaf dat moment beschouwd als een aanvraag voor de toelating van een ras overeenkomstig hoofdstuk 5 van deze wet.   
+6.  Zaken die op het tijdstip van inwerkingtreding van deze wet aanhangig zijn bij de Afdeling van Beroep van de Raad voor het Kwekersrecht, bedoeld in artikel 5, eerste lid, onderdeel d, van de Zaaizaad- en Plantgoedwet, zijn van rechtswege met ingang van dat tijdstip aanhangig bij de Raad en worden vanaf dat moment behandeld als een bezwaarschrift.   
+7.  Zaken die op het tijdstip van inwerkingtreding van deze wet aanhangig zijn bij de Raad van Beroep, onderscheidenlijk de Commissie van Beroep inzake Keuringen, van een keuringsinstelling als bedoeld in artikel 88, onder 2°, onderdeel e, onderscheidenlijk g, van de Zaaizaad- en Plantgoedwet, zijn van rechtswege met ingang van dat tijdstip aanhangig bij de desbetreffende, overeenkomstig artikel 19 van deze wet aangewezen, keuringsinstelling en worden vanaf dat moment behandeld als een bezwaarschrift.   
+8.  De op het tijdstip van inwerkingtreding van deze wet bij de Raad voor het Kwekersrecht aanhangige verzoeken tot vernietiging en opeising van het kwekersrecht als bedoeld in de artikelen 54 en 55 van de Zaaizaad- en Plantgoedwet, worden behandeld en beslist overeenkomstig de bepalingen van de Zaaizaad- en Plantgoedwet.   
+9.  De op het tijdstip van inwerkingtreding van deze wet ingevolge de artikelen 25, tweede lid, 60 en 69 van de Zaaizaad- en Plantgoedwet bij het Gerechtshof ’s- Gravenhage of de Hoge Raad aanhangige zaken worden behandeld en beslist overeenkomstig de bepalingen van de Zaaizaad- en Plantgoedwet.   
 
 ### Artikel  95  
 
-De [Zaaizaad- en Plantgoedwet](../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) wordt ingetrokken.  
+De Zaaizaad- en Plantgoedwet wordt ingetrokken.  
 
 ### Artikel  96  
 

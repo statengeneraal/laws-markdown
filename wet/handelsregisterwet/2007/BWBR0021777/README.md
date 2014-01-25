@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop rustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. onderneming: een onderneming als bedoeld in artikel 5;  
 
@@ -88,7 +88,7 @@ a. een onderneming die in Nederland is gevestigd en die toebehoort aan een naaml
 
 b. een onderneming die in Nederland gevestigd is en die toebehoort aan een natuurlijke persoon;  
 
-c. een onderneming die toebehoort aan een Europese naamloze vennootschap, een Europese coöperatieve vennootschap, een Europese commanditaire vennootschap of een Europees economisch samenwerkingverband die volgens haar statuten haar zetel in Nederland heeft;  
+c. een onderneming die toebehoort aan een Europese naamloze vennootschap, een Europese coöperatieve vennootschap of een Europees economisch samenwerkingverband die volgens haar statuten haar zetel in Nederland heeft;  
 
 d. een onderneming die toebehoort aan een buitenlandse rechtspersoon die een hoofd- of een nevenvestiging in Nederland heeft;  
 
@@ -98,7 +98,7 @@ e. een onderneming die in Nederland is gevestigd en die toebehoort aan een ander
 
 1.  In het handelsregister worden de volgende rechtspersonen die volgens hun statuten hun zetel in Nederland hebben ingeschreven: 
 
-a. een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband, een Europese commanditaire vennootschap, een Europese coöperatieve vennootschap, een coöperatie en een onderlinge waarborgmaatschappij;  
+a. een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband, een Europese coöperatieve vennootschap, een coöperatie en een onderlinge waarborgmaatschappij;  
 
 b. een vereniging met volledige rechtsbevoegdheid, een vereniging van eigenaars, een stichting en overige privaatrechtelijke rechtspersonen;  
 
@@ -323,7 +323,7 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 ### Artikel  24  
 
-1.  Heeft de opgave van een gegeven ter inschrijving in het handelsregister betrekking op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband, een Europese commanditaire vennootschapof een andere bij algemene maatregel van bestuur aangewezen rechtspersoon of vennootschap, dan draagt de Kamer er zorg voor dat daarvan zo spoedig mogelijk mededeling wordt gedaan in een door Onze Minister aangewezen publicatieblad of een ander, even doeltreffend instrument, dat ten minste het gebruik van een systeem omvat dat in chronologische volgorde via een centraal elektronisch platform toegang tot de openbaar gemaakte informatie biedt.   
+1.  Heeft de opgave van een gegeven ter inschrijving in het handelsregister betrekking op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband, een Europese coöperatieve vennootschap of een andere bij algemene maatregel van bestuur aangewezen rechtspersoon of vennootschap, dan draagt de Kamer er zorg voor dat daarvan zo spoedig mogelijk mededeling wordt gedaan in een door Onze Minister aangewezen publicatieblad of een ander, even doeltreffend instrument, dat ten minste het gebruik van een systeem omvat dat in chronologische volgorde via een centraal elektronisch platform toegang tot de openbaar gemaakte informatie biedt.   
 2.  Het eerste lid is mede van toepassing op een wijziging van het ingeschrevene en op een deponering van bescheiden.   
 3.  Bij algemene maatregel van bestuur kunnen gegevens en bescheiden worden aangewezen waarvoor het eerste of tweede lid niet geldt.   
 
@@ -376,9 +376,9 @@ b. voor zover het betreft brieven en orders, aan naamloze vennootschappen, beslo
 
 ### Artikel  28  
 
-1.  De in artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje, en artikel 16, eerste lid, genoemde gegevens kunnen door een bestuursorgaan worden ingezien.   
-2.  Artikel 22 is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste en tweede lid.   
-3.  Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door: 
+1.  De in artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje, en artikel 16, eerste lid, genoemde gegevens kunnen door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden ingezien.   
+2.  Artikel 22 is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste lid.   
+3.  Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door: 
 
 a. Onze Minister van Veiligheid en Justitie ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md) of ten behoeve van de uitvoering van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
@@ -390,7 +390,7 @@ d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsba
 
 e. burgemeesters en wethouders voor de uitvoering van de [Wet gemeentelijke schulphulpverlening](../../../../wet/wet/gemeentelijke/schuldhulpverlening/BWBR0031331/README.md), [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
-f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en een bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van die wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), in het geval waarin hij bevoegd is tot toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van die wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), in het geval waarin hij bevoegd is tot toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
 
 g. de Autoriteit Consument en Markt voor de uitvoering van haar taken;  
 
@@ -428,10 +428,9 @@ d. een goede vervulling van de taak van het bestuursorgaan door de onverkorte to
 
 ####Eenmalige gegevensverstrekking
 
-### Artikel  31   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  31  
 
-Een onderneming of rechtspersoon aan wie door een bestuursorgaan een gegeven wordt gevraagd, waarop artikel 30, eerste lid, van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon.  
+Een onderneming of rechtspersoon aan wie door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een gegeven wordt gevraagd, waarop artikel 30, eerste lid, van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon.  
 
 ### Hoofdstuk  6  
 
@@ -563,7 +562,7 @@ De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de
 
 1.  Voor de inzage of de verstrekking van gegevens is een bij of krachtens algemene maatregel van bestuur te bepalen vergoeding verschuldigd, welke kan variëren naar de wijze van inzage of verstrekking van gegevens en de hoeveelheid gegevens.   
 2.  De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van [artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek](../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md).   
-3.  De in het eerste lid bedoelde bijdrage is verschuldigd zonder dat dit bij beschikking is vastgesteld.   
+3.  De in het eerste lid bedoelde vergoeding is verschuldigd zonder dat dit bij beschikking is vastgesteld.   
 4.  Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld.   
 
 ### Artikel  50a  

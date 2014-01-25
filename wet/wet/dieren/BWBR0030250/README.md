@@ -52,7 +52,7 @@ b. een medische diagnose te stellen;
 
 – *dierlijke producten:* van dieren afkomstige producten, al dan niet bewerkt of verwerkt, en daarvan afgeleide producten, met inbegrip van levende producten als broedeieren, sperma, eicellen en embryo’s;  
 
-– *dierlijke bijproducten:* niet voor menselijke consumptie geschikte dierlijke producten;  
+– *dierlijke bijproducten:* niet voor menselijke consumptie bestemde dierlijke producten;  
 
 – *diervoeder:* elke stof, elk product of elke samenstelling van stoffen of producten die bestemd is om te worden gebruikt voor voedering aan dieren, onverminderd de toepassing van een andersluidende definitie in een EU-verordening;  
 
@@ -76,7 +76,7 @@ b. een medische diagnose te stellen;
 
 – *kadavers:* lichamen van dode dieren die niet worden verwerkt tot voor menselijke consumptie bestemde producten;  
 
-– *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+– *Onze Minister:* Onze Minister van Economische Zaken;  
 
 – *Onze Ministers:* Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk;  
 
@@ -94,20 +94,21 @@ b. een medische diagnose te stellen;
 ####Reikwijdte
 
 1.  Het bij en krachtens deze wet gestelde over dieren is van toepassing op gehouden dieren, voor zover niet anders is bepaald.   
-2.  Het bij en krachtens deze wet gestelde over dierlijke producten is, voor zover het product tevens een levensmiddel is, van toepassing op: 
+2.  Het bij en krachtens deze wet gestelde over dierlijke producten is tevens van toepassing ten aanzien van dierlijke producten van andere dan gehouden dieren en is, voor zover het product tevens een levensmiddel is, van toepassing op: 
 
 a. het keuren, uitsnijden, verpakken, merken, opslaan en vervoeren van vlees;  
 
 b. het weren, bestrijden en voorkomen van verspreiding van ziekteverwekkers die schadelijk zijn voor dieren, en  
 
 c. het bevorderen van de kwaliteit van dierlijke producten.     
+3.  Het bij en krachtens deze wet gestelde over diergeneesmiddelen en diervoeders is met betrekking tot toepassing, onderscheidenlijk gebruik bij dieren tevens van toepassing ten aanzien van andere dan gehouden dieren.   
 
 ### Artikel  1.3  
 
 ####Intrinsieke waarde
 
 1.  De intrinsieke waarde van het dier wordt erkend.   
-2.  Onder erkenning van de intrinsieke waarde als bedoeld in het eerste lid wordt verstaan erkenning van de eigenwaarde van dieren, zijnde wezens met gevoel. Bij het stellen van regels bij of krachtens deze wet, en het nemen van op die regels gebaseerde besluiten, wordt ten volle rekening gehouden met de gevolgen die deze regels of besluiten hebben voor deze intrinsieke waarde van het dier, onverminderd andere gerechtvaardigde belangen. Daarbij wordt er in elk geval in voorzien dat de inbreuk op de integriteit of het welzijn van dieren, verder dan redelijkerwijs noodzakelijk, wordt voorkomen en dat de zorg die de dieren redelijkerwijs behoeven is verzekerd.   
+2.  Onder erkenning van de intrinsieke waarde als bedoeld in het eerste lid wordt verstaan erkenning van de eigen waarde van dieren, zijnde wezens met gevoel. Bij het stellen van regels bij of krachtens deze wet, en het nemen van op die regels gebaseerde besluiten, wordt ten volle rekening gehouden met de gevolgen die deze regels of besluiten hebben voor deze intrinsieke waarde van het dier, onverminderd andere gerechtvaardigde belangen. Daarbij wordt er in elk geval in voorzien dat de inbreuk op de integriteit of het welzijn van dieren, verder dan redelijkerwijs noodzakelijk, wordt voorkomen en dat de zorg die de dieren redelijkerwijs behoeven is verzekerd.   
 3.  Voor de toepassing van het tweede lid wordt tot de zorg die dieren redelijkerwijs behoeven in elk geval gerekend dat dieren zijn gevrijwaard van: 
 
 a. dorst, honger en onjuiste voeding;  
@@ -390,7 +391,7 @@ a.  dit onderdeel is nog niet in werking getreden;
 
 b. diergeneesmiddelen waarvoor geen vergunning als bedoeld in artikel 2.19, eerste lid, is verstrekt, bij dieren toe te passen, of  
 
-c. diergeneesmiddelen toe te passen in strijd met voorschriften als bedoeld in artikel 2.19, derde lid, onderdeel a, die zijn verbonden aan de vergunning die ten behoeve van dat diergeneesmiddel is verstrekt.     
+c. diergeneesmiddelen toe te passen in strijd met voorschriften en beperkingen als bedoeld in artikel 2.19, derde lid, onderdeel a, die zijn verbonden aan de vergunning die ten behoeve van dat diergeneesmiddel is verstrekt.     
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing ten aanzien van: 
 
 a.  dit onderdeel is nog niet in werking getreden;   
@@ -414,7 +415,7 @@ d.  dit onderdeel is nog niet in werking getreden;
 e. de hoedanigheid, het voorhanden of in voorraad hebben, het aanbieden, het afleveren, het verkopen, het kopen, het in de handel brengen, het in en buiten Nederland brengen en het gebruik van hulpmiddelen, waaronder apparatuur, die bij het verrichten van diergeneeskundige handelingen worden gebruikt, en  
 
 f. het melden en het voeren van een administratie met betrekking tot verrichte diergeneeskundige handelingen, het bewaren en overleggen van die administratie en de daarmee verband houdende bescheiden alsmede de wijze van controle door de houder van de administratie, of het invoeren van gegevens in een gecentraliseerd registratiesysteem voor diergeneesmiddelen.     
-5.  Voor de toepassing van het derde lid en de daarop berustende bepalingen wordt met het toepassen van een diergeneesmiddel bij een dier gelijkgesteld het toepassen van een diergeneesmiddel bij materiaal van dierlijke herkomst, uitgezonderd cel- of weefselcultures.   
+5.  Voor de toepassing van het eerste lid en vierde lid en de daarop berustende bepalingen wordt met het toepassen van een diergeneesmiddel bij een dier gelijkgesteld het toepassen van een diergeneesmiddel bij materiaal van dierlijke herkomst, uitgezonderd cel- of weefselcultures.   
 6.  Het bij en krachtens het eerste tot en met het vijfde lid bepaalde is tevens van toepassing ten aanzien van andere dan gehouden dieren.   
 7.  Het bij en krachtens het eerste tot en met zesde lid bepaalde is tevens van toepassing ten aanzien van diervoeders met medicinale werking.   
 
@@ -652,11 +653,11 @@ l. het zich ontdoen van resten en lege verpakkingen van diervoeders.
 
 ####Vergunning ten aanzien van diergeneesmiddelen
 
-1.  Het is verboden een handeling te verrichten die ertoe strekt een diergeneesmiddel of een diervoeder met medicinale werking te bereiden, te bewerken, te verwerken, te verpakken, te etiketteren, in de handel te brengen, in of buiten Nederland te brengen, te vervoeren, aan te bieden, aan te prijzen, af te leveren, te ontvangen, voorhanden of in voorraad te hebben, voor zover deze handeling niet is toegestaan krachtens een vergunning die is verstrekt ingevolge een bij of krachtens algemene maatregel van bestuur ter uitvoering van een bindend onderdeel van een EU-rechtshandeling vastgesteld voorschrift of een bij ministeriële regeling aangewezen voorschrift van een EU-verordening inzake het in de handel brengen, vervaardiging, invoer, of het bezit van, handel in of verstrekken van een diergeneesmiddel.   
+1.  Het is verboden een handeling te verrichten die ertoe strekt een diergeneesmiddel te bereiden, te bewerken, te verwerken, te verpakken, te etiketteren, in de handel te brengen, in of buiten Nederland te brengen, te vervoeren, aan te bieden, aan te prijzen, af te leveren, te ontvangen, voorhanden of in voorraad te hebben, voor zover deze handeling niet is toegestaan krachtens een vergunning die is verstrekt ingevolge een bij of krachtens algemene maatregel van bestuur ter uitvoering van een bindend onderdeel van een EU-rechtshandeling vastgesteld voorschrift of een bij ministeriële regeling aangewezen voorschrift van een EU-verordening inzake het in de handel brengen, vervaardiging, invoer, of het bezit van, handel in of verstrekken van een diergeneesmiddel.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing op bij of krachtens algemene maatregel van bestuur, in voorkomend geval met inachtneming van EU-rechtshandelingen, aangewezen diergeneesmiddelen, of in bij of krachtens die maatregel aangewezen gevallen.   
 3.  De vergunning, bedoeld in het eerste lid, wordt op aanvraag verstrekt indien: 
 
-a. op grond van onderzoek met redelijke zekerheid mag worden aangenomen dat het diergeneesmiddel bij het toepassen overeenkomstig de aan de te verstrekken vergunning krachtens artikel 7.7 te verbinden voorschriften: 
+a. op grond van onderzoek met redelijke zekerheid mag worden aangenomen dat het diergeneesmiddel bij het toepassen overeenkomstig de aan de te verstrekken vergunning krachtens artikel 7.5, eerste lid, te verbinden voorschriften: 
 
 1°. de gestelde werking bezit, en  
 
@@ -675,9 +676,9 @@ f. bij ministeriële regeling aangewezen door de Europese Commissie vastgestelde
 g. geen ingevolge een EU-verordening of bij of krachtens algemene maatregel van bestuur vastgestelde weigeringsgrond aanwezig is.     
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de beoordelingsmethoden bij de toepassing van de voorwaarden, bedoeld in het derde lid, onderdeel a tot en met d, alsmede regels inzake de methode waarmee de op grond van het derde lid, onderdeel a, aanhef, vast te stellen voorschriften worden bepaald, voor zover deze voorschriften bij of krachtens algemene maatregel van bestuur zijn toegestaan.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de onderzoeksmethoden die worden toegepast bij een onderzoek als bedoeld in artikel 7.6, tweede lid, onderdeel b.   
-6.  Het derde lid, onderdeel a, onder 1°, is niet van toepassing op een aanvraag voor een homeopathisch diergeneesmiddel.   
+6.  Het derde lid, onderdeel a, onder 1°, is niet van toepassing op een aanvraag voor een homeopathisch diergeneesmiddel in bij of krachtens algemene maatregel van bestuur aangewezen gevallen.   
 7.  Een vergunning als bedoeld in het eerste lid wordt verstrekt, en een regeling als bedoeld in het derde lid, onderdeel c, en vierde lid, wordt vastgesteld in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.   
-8.  Hoofdstuk 7 is van overeenkomstige toepassing op een vergunning als bedoeld in het eerste lid, met dien verstande dat artikel 7.1, niet van toepassing is en artikel 7.3, eerste en tweede lid, alleen van toepassing is op wijzigingen van een vergunning als bedoeld in het eerste lid.   
+8.  Voorschriften en beperkingen die zijn verbonden aan een vergunning als bedoeld in het eerste lid die is verstrekt voor het in de handel brengen van een diergeneesmiddel, gelden voor een ieder die een handeling als bedoeld in het eerste lid verricht.   
 
 ### Artikel  2.20  
 
@@ -713,14 +714,14 @@ j. het voeren van een administratie met betrekking tot de voorraad, de bereiding
 k. de keuring van partijen diergeneesmiddelen, en  
 
 l. hygiëne, het voorkomen van de verspreiding van dierziekten, zoönosen en ziekteverschijnselen, en het weren van ziekteverwekkers.     
-3.  Het eerste en het tweede lid zijn van overeenkomstige toepassing op bij ministeriële regeling aangewezen substanties die geen diergeneesmiddel zijn maar wel als zodanig kunnen worden gebruikt.   
+3.  Het eerste en het tweede lid zijn van overeenkomstige toepassing op bij ministeriële regeling aangewezen substanties die geen diergeneesmiddel zijn maar wel als zodanig kunnen worden gebruikt, of diervoeders met medicinale werking.   
 
 ### Artikel  2.21  
 
 ####Kanalisatie
 
-1.  Bij of krachtens algemene maatregel van bestuur wordt geregeld dat daarbij aangewezen diergeneesmiddelen, diervoeders met medicinale werking, voormengsels voor diervoeders met medicinale werking of halffabricaten daarvan uitsluitend worden afgeleverd aan, onderscheidenlijk in voorraad of voorhanden worden gehouden door daarbij aangewezen personen, onder de daarbij gestelde voorwaarden.   
-2.  Een aanwijzing als bedoeld in het eerste lid vindt uitsluitend plaats ingeval een EU-rechtshandeling daartoe verplicht, of ingeval de diergeneesmiddelen of diervoeders met medicinale werking, voormengsels of halffabricaten zonder tussenkomst van een dierenarts een gevaar voor de gezondheid van mens of dier of voor het milieu kunnen opleveren.   
+1.  Bij of krachtens algemene maatregel van bestuur wordt geregeld dat daarbij aangewezen diergeneesmiddelen of diervoeders met medicinale werking uitsluitend worden afgeleverd aan, onderscheidenlijk in voorraad of voorhanden worden gehouden door daarbij aangewezen personen, onder de daarbij gestelde voorwaarden.   
+2.  Een aanwijzing als bedoeld in het eerste lid vindt uitsluitend plaats ingeval een EU-rechtshandeling daartoe verplicht, of ingeval de diergeneesmiddelen of diervoeders met medicinale werking zonder tussenkomst van een dierenarts een gevaar voor de gezondheid van mens of dier of voor het milieu kunnen opleveren.   
 
 ### Artikel  2.22  
 
@@ -785,9 +786,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen handelingen worden aangew
 
 ####Verboden substanties
 
-1.  Het is verboden om op enigerlei wijze handelingen te verrichten in strijd met bij of krachtens algemene maatregel voor de uitvoering van bindende onderdelen van EU-rechtshandelingen gestelde regels over het toepassen van diergeneesmiddelen, diervoeders, substanties of andere stoffen of producten bij dieren.   
+1.  Het is verboden om op enigerlei wijze handelingen te verrichten in strijd met bij of krachtens algemene maatregel van bestuur voor de uitvoering van bindende onderdelen van EU-rechtshandelingen gestelde regels over het bij dieren of op cel- of weefselcultures bij dieren toepassen van diergeneesmiddelen, diervoeders, substanties of andere stoffen, of producten.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing in bij ministeriële regeling, in voorkomend geval met inachtneming van EU-rechtshandelingen, aangewezen gevallen.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen voor bij deze maatregel aan te wijzen diersoorten of diercategorieën regels worden gesteld over het toepassen van diergeneesmiddelen, diervoeders, bij of krachtens die maatregel aangewezen substanties of andere stoffen of producten bij dieren, welke regels betrekking kunnen hebben op onder meer: 
+3.  Bij of krachtens algemene maatregel van bestuur kunnen voor bij deze maatregel aan te wijzen diersoorten of diercategorieën regels worden gesteld over het bij dieren of op cel- of weefselcultures bij dieren toepassen van diergeneesmiddelen, diervoeders, bij of krachtens die maatregel aangewezen substanties of andere stoffen, of producten, welke regels betrekking kunnen hebben op onder meer: 
 
 a. de aard van de substantie;  
 
@@ -795,7 +796,7 @@ b. het doel waarvoor de substantie wordt toegepast;
 
 c. de wijze waarop de substantie wordt toegepast;  
 
-d. de diersoort of diercategorie waartoe de dieren behoren waarbij de substantie uitsluitend mag worden toegepast;  
+d. de diersoort of diercategorie waartoe de dieren, dan wel cel- of weefselcultures van dieren behoren waarbij de substantie uitsluitend mag worden toegepast;  
 
 e. het moment van toepassing, en  
 
@@ -876,7 +877,7 @@ j. het afleveren van vlees en het in de handel brengen van vlees met het oog op 
 k. de hoedanigheid van vlees, en  
 
 l. het merken van vlees.     
-3.  Het eerste, het tweede en het derde lid zijn niet van toepassing op gehakt vlees, separatorvlees, vleesbereidingen en vleesproducten als bedoeld in krachtens de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften.   
+3.  Het eerste en tweede lid zijn niet van toepassing op gehakt vlees, separatorvlees, vleesbereidingen en vleesproducten als bedoeld in krachtens de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften.   
 
 ### §  2  
 
@@ -894,7 +895,7 @@ a. een in het eerste lid bedoeld werkgebied worden vastgesteld dat zich uitstrek
 b. een in het eerste lid bedoeld werkgebied worden vastgesteld voor een ondernemer die is gevestigd in een andere lidstaat van de Europese Unie.     
 3.  Indien aan een in het tweede lid, onderdeel b, bedoelde ondernemer een werkgebied binnen Nederland is toegewezen, zijn de artikelen 3.4, 3.5 en 3.6 van overeenkomstige toepassing.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de toepassing, vaststelling of wijziging van werkgebieden.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot situaties waarin wordt afgeweken van het eerste lid, ingeval de ondernemer als gevolg van overmacht niet in staat is om de ingevolge het eerste lid aangewezen dierlijke bijproducten te verwerken, waarbij Onze Minister een of meer andere verwerkers tijdelijk kan toestaan of aanwijzen om de in een werkgebied ingevolge deze dierlijke bijproducten te verwerken of te verwijderen. Deze regels zijn van toepassing zolang de situatie dit vereist.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot situaties waarin wordt afgeweken van het eerste lid, ingeval de ondernemer als gevolg van overmacht niet in staat is om de ingevolge het eerste lid aangewezen dierlijke bijproducten te verwerken, waarbij Onze Minister een of meer andere verwerkers tijdelijk kan toestaan of aanwijzen om deze dierlijke bijproducten te verwerken of te verwijderen. Deze regels zijn van toepassing zolang de situatie dit vereist.   
 
 ### Artikel  3.4  
 
@@ -1273,7 +1274,7 @@ h. een verplichting tot het behandelen, en
 
 i. een verplichting tot het identificeren en registreren.     
 4.  Het eerste en het derde lid zijn van overeenkomstige toepassing op andere dan dierlijke producten, voor zover het product een gevaar voor verspreiding van een ziekteverwekker kan opleveren.   
-6.  Maatregelen, die krachtens het eerste lid, onderdeel c, worden getroffen met betrekking tot dieren die wegens de opname, de vermoedelijke opname of het gevaar van opname van schadelijke stoffen een ernstig gevaar voor de volksgezondheid kunnen opleveren, worden getroffen in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport.   
+5.  Maatregelen, die krachtens het eerste lid, onderdeel c, worden getroffen met betrekking tot dieren die wegens de opname, de vermoedelijke opname of het gevaar van opname van schadelijke stoffen een ernstig gevaar voor de volksgezondheid kunnen opleveren, worden getroffen in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport.   
 
 ### Artikel  5.11  
 
@@ -1381,13 +1382,13 @@ b. de uitvoering van EU-rechtshandelingen die krachtens de onder a bedoelde rech
 ####Aanwijzing bevoegde instanties EU-verordeningen
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de uitvoering van onderdelen van EU-rechtshandelingen waarin een EU-rechtshandeling een tot de overheid behorend orgaan of een door de overheid aangesteld persoon de opdracht geeft of de keuze laat.   
-2.   Dit lid is nog niet in werking getreden.    
+2.  Tenzij bij wettelijk voorschrift anders is bepaald is Onze Minister bevoegd de besluiten te nemen waartoe een voorschrift van een EU-verordening als bedoeld in artikel 6.2 een tot de overheid behorend orgaan of een door de overheid aangesteld persoon de opdracht geeft of de keuze laat.   
 
 ### Artikel  6.4  
 
 ####Niveau delegatie regelgeving ter uitvoering van bindende onderdelen van EU-verordeningen of EU-besluiten
 
-1.  Onze Minister kan regels stellen voor de uitvoering van een bindend onderdeel van een EU-verordening of een EU-besluit, voor zover de EU-verordening of het EU-besluit onderwerpen betreft, bedoeld in de artikelen 2.2, tiende lid, 2.3, vierde lid, 2.4, tweede of derde lid, 2.5, tweede lid, 2.6, tweede of derde lid, 2.7, tweede lid, 2.8, vierde lid, 2.10, derde lid, 2.15, tweede of vierde lid, 2.16, tweede lid, 2.18, tweede lid, 2.19, tweede, vierde en vijfde lid, 2.20, tweede lid, 2.21, eerste lid, 2.22, tweede lid, 2.23, 2.25, derde lid, 3.1, tweede lid, 3.2, tweede lid, 4.1, derde en vijfde lid, 4.5, tweede lid, 5.4, tweede lid, 5.6, vierde en vijfde lid, 7.2, eerste tot en met derde lid, 7.3, derde lid, 7.4, eerste lid, 7.6, eerste lid, 7.8, 10.1 en 10.2.   
+1.  In afwijking van het bepaalde in de hoofdstukken 2 en 3 kan Onze Minister regels stellen voor de uitvoering van een bindend onderdeel van een EU-verordening of een EU-besluit, voor zover de EU-verordening of het EU-besluit onderwerpen betreft, bedoeld in de artikelen 2.2, tiende lid, 2.3, vierde lid, 2.4, tweede of derde lid, 2.5, tweede lid, 2.6, tweede of derde lid, 2.7, tweede lid, 2.8, vierde lid, 2.10, derde lid, 2.15, tweede of vierde lid, 2.16, tweede lid, 2.18, tweede lid, 2.19, tweede, vierde en vijfde lid, 2.20, tweede lid, 2.21, eerste lid, 2.22, tweede lid, 2.23, 2.25, derde lid, 3.1, tweede lid, 3.2, tweede lid, 4.1, derde en vijfde lid, 4.5, tweede lid, 5.4, tweede lid, 5.6, vierde en vijfde lid, 7.2, eerste tot en met derde lid, 7.3, derde lid, 7.4, eerste lid, 7.6, eerste lid, 7.8, 10.1 en 10.2.   
 2.  Artikel 7.3, tweede lid, is van overeenkomstige toepassing ten aanzien van een ministeriële regeling als bedoeld in het eerste lid.   
 
 ### Artikel  6.5  
@@ -1405,7 +1406,7 @@ b. de uitvoering van EU-rechtshandelingen die krachtens de onder a bedoelde rech
 
 ####Grondslag
 
-De regels, gesteld krachtens deze wet, kunnen inhouden dat voor een handeling waarop die regels betrekking hebben een melding of een besluit tot verlening van een vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering is vereist.  
+Dit hoofdstuk is van toepassing op besluiten die krachtens deze wet worden genomen. Bij de regels gesteld krachtens deze wet kan worden bepaald dat voor een handeling waarop die regels betrekking hebben een melding of een besluit tot verlening van een vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring, vrijstelling, ontheffing, algemeen verbindend verklaring of certificering is vereist, kan worden verleend of kan worden verstrekt.  
 
 ### Artikel  7.2  
 
@@ -1439,9 +1440,11 @@ j. de minimale of maximale duur van het bewaren van gegevens in het register.
 
 ####Verlening en wijziging
 
-1.  Een besluit als bedoeld in artikel 7.1 wordt op aanvraag door Onze Minister verleend of gewijzigd indien is voldaan aan de eisen, gesteld bij de regels, bedoeld in artikel 7.1.   
+1.  Een besluit als bedoeld in artikel 7.1 wordt door Onze Minister verleend of gewijzigd indien is voldaan aan de eisen, gesteld bij de regels, bedoeld in artikel 7.1.   
 2.  Ingeval een besluit als bedoeld in artikel 7.1 geheel of mede wordt vereist in het belang van de volksgezondheid, kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden geregeld dat deze wordt verleend of gewijzigd in overeenstemming dan wel na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport.   
-3.  Bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling wordt geregeld dat een besluit als bedoeld in artikel 7.1 van rechtswege wordt verleend of verlengd ingeval na verloop van een bij algemene maatregel van bestuur of ministeriële regeling vastgestelde termijn geen besluit als bedoeld in artikel 7.1, dan wel tot verlenging of wijziging daarvan is genomen, tenzij EU-rechtshandelingen, het belang van de gezondheid van de mens, dieren of planten, het belang van het welzijn van dieren, of het belang van het milieu zich daartegen verzetten.   
+3.  Bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling wordt bepaald dat [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is op een aanvraag tot verlening of wijziging van een besluit als bedoeld in artikel 7.1, tenzij EU-rechtshandelingen, het belang van de gezondheid van de mens, dieren of planten, het belang van het welzijn van dieren, of het belang van het milieu zich daartegen verzetten.   
+4.  Het derde lid is niet van toepassing op besluiten met betrekking tot vergunningen waarop, met toepassing van [artikel 28 van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md), [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is.   
+5.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kan met betrekking tot de in het vierde lid bedoelde besluiten toepassing worden gegeven aan [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md).   
 
 ### Artikel  7.4  
 
@@ -1460,15 +1463,15 @@ b. het besluit zelf in een andere geldigheidsduur voorziet.
 ####Voorschriften en beperkingen
 
 1.  Aan een besluit als bedoeld in artikel 7.1 kunnen voorschriften en beperkingen worden verbonden.   
-2.  De voorschriften en beperkingen, bedoeld in het eerste lid, kunnen na verlening van een vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering worden op aanvraag of ambtshalve gewijzigd, aangevuld of ingetrokken.   
-3.  Het is verboden te handelen in strijd met voorschriften als bedoeld in het eerste lid.   
-4.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen regels worden gesteld over voorschriften en beperkingen, als bedoeld in het eerste lid.   
+2.  De voorschriften en beperkingen, bedoeld in het eerste lid, kunnen op aanvraag of ambtshalve gewijzigd, aangevuld of ingetrokken worden.   
+3.  Het is verboden te handelen in strijd met voorschriften en beperkingen als bedoeld in het eerste lid.   
+4.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen regels worden gesteld over voorschriften en beperkingen als bedoeld in het eerste lid.   
 
 ### Artikel  7.6  
 
 ####Procedure
 
-1.  Bij ministeriële regeling worden regels gesteld over: 
+1.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen regels worden gesteld over: 
 
 a. het indienen van een aanvraag tot een besluit als bedoeld in artikel 7.1 dan wel tot verlenging of wijziging daarvan, of van een aanvraag tot aanwijzing, als bedoeld in artikel 2.2, eerste lid, dan wel tot wijziging daarvan;  
 
@@ -1488,14 +1491,14 @@ c. de termijn waarbinnen, na wijziging van omstandigheden, een aanvraag tot wijz
 d. de termijn voor het geven van een beslissing op een aanvraag, of  
 
 e. wie een aanvraag of een melding kan doen.     
-3.  Bij ministeriële regeling kunnen regels worden gesteld over het verwijzen door aanvragers van een aanwijzing als bedoeld in artikel 2.2, eerste lid, een besluit als bedoeld in artikel 7.1, dan wel door personen die een melding doen, naar gegevens die eerder door hen of een ander bij een aanvraag om een aanwijzing als bedoeld in artikel 2.2, eerste lid, een besluit als bedoeld in artikel 7.1, dan wel een melding zijn verstrekt.   
+3.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen regels worden gesteld over het verwijzen door aanvragers van een aanwijzing als bedoeld in artikel 2.2, eerste lid, een besluit als bedoeld in artikel 7.1, dan wel door personen die een melding doen, naar gegevens die eerder door hen of een ander bij een aanvraag om een aanwijzing als bedoeld in artikel 2.2, eerste lid, een besluit als bedoeld in artikel 7.1, dan wel een melding zijn verstrekt.   
 
 ### Artikel  7.7  
 
 ####Adviescommissies
 
-1.  Bij ministeriële regeling kan worden bepaald dat Onze Minister over de verlening van een vergunning, erkenning, toestemming, toelating of registratie, of de intrekking daarvan, wordt geadviseerd door een commissie.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld over: 
+1.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kan worden bepaald dat Onze Minister over een besluit als bedoeld in artikel 7.1, of de wijziging, de verlenging, de schorsing of de intrekking daarvan, wordt geadviseerd door een commissie.   
+2.  Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen regels worden gesteld over: 
 
 a. de samenstelling en de werkwijze van een commissie als bedoeld in het eerste lid, en  
 
@@ -1513,7 +1516,7 @@ b. de benoeming, de zittingsduur, schorsing en ontslag van leden van de commissi
 
 ####Mededeling
 
-Bij ministeriële regeling wordt voor de uitvoering van bindende onderdelen van EU-rechtshandelingen geregeld in welke gevallen mededeling wordt gedaan in de Staatscourant. Voorts kunnen bij ministeriële regeling regels worden gesteld voor mededelingen in de Staatscourant van: 
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling wordt voor de uitvoering van bindende onderdelen van EU-rechtshandelingen geregeld in welke gevallen mededeling wordt gedaan in de Staatscourant. Voorts kunnen bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling regels worden gesteld voor mededelingen in de Staatscourant van: 
 
 a. een besluit tot verlening van een besluit als bedoeld in artikel 7.1 alsmede tot wijziging of verlenging daarvan, dan wel van een melding;  
 
@@ -1535,7 +1538,7 @@ d. aantekeningen in een register als bedoeld in artikel 7.2, alsmede de doorhali
 
 ####Aanwijzing toezichthouders
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en personen.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en andere personen.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  8.2  
@@ -1579,7 +1582,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 a. *overtreding:* gedraging die in strijd is met het bepaalde bij of krachtens: 
 
-1°. de artikelen 2.2, negende en tiende lid, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.5, eerste en tweede lid, 2.6, eerste, tweede en derde lid, 2.7, eerste tot en met derde lid, 2.10, tweede, derde en vierde lid, 2.17, 2.18, 2.19, eerste lid, 2.20, 2.21, eerste en derde lid, 2.22, eerste, tweede en derde lid, 3.1, 3.2, eerste, tweede en derde lid, 3.4, 3.5, eerste en derde lid, 5.1, derde lid, tweede volzin, 5.4, eerste lid,5.5, eerste lid, 5.6, eerste en vijfde lid, 5.10, 5.11, 5.12 of  10.2, eerste lid;  
+1°. de artikelen 2.2, negende en tiende lid, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.5, eerste en tweede lid, 2.6, eerste, tweede en derde lid, 2.7, eerste tot en met derde lid, 2.10, tweede, derde en vierde lid, 2.17, 2.18, 2.19, eerste lid, 2.20, 2.21, eerste en derde lid, 2.22, eerste, tweede en derde lid, 3.1, 3.2, eerste en tweede lid, 3.4, 3.5, eerste en derde lid, 5.1, derde lid, tweede volzin, 5.4, eerste lid, 5.5, eerste lid, 5.6, eerste en vijfde lid, 5.10, 5.11, 5.12 of  10.2, eerste lid;  
 
 2°. een van de bepalingen, bedoeld in onderdeel a, in samenhang met de artikelen 6.2, eerste lid, 6.4, eerste lid, 7.1, 7.2, eerste of derde lid, 7.5, derde lid, of  10.5, eerste lid;    
 
@@ -1596,7 +1599,7 @@ Onze Minister kan een overtreder een bestuurlijke boete opleggen.
 
 ####Hoogte bestuurlijke boete
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd.   
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen kan worden opgelegd.   
 2.  De op grond van het eerste lid te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap, of, indien dat meer is, 10 procent van de jaaromzet in het boekjaar voorafgaande aan het boekjaar waarin de boete wordt opgelegd.   
 3.  De berekening van de omzet, bedoeld in het tweede lid, geschiedt op voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
 
@@ -1621,7 +1624,7 @@ Bij gebreke van volledige betaling binnen de gestelde termijn kan Onze Minister 
 
 ####Strafbaarstelling
 
-1.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1.4, 2.1, eerste lid, 2.2, zesde lid, eerste volzin, en achtste lid, 2.8, eerste lid, onderdeel a, derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen a, b en c, 2.9, eerste lid, 2.10, eerste lid, en 2.14, eerste lid, of een of meer van de voornoemde bepalingen in samenhang met artikel 6.2, eerste lid,artikel 6.4, eerste lid, of artikel 7.5, derde lid, zijn misdrijven.   
+1.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1.4, 2.1, eerste lid, 2.2, zesde lid, eerste volzin, en achtste lid, 2.8, eerste lid, onderdeel a, derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen a, b en c, 2.9, eerste lid, 2.10, eerste lid, en 2.14, eerste lid, of een of meer van de voornoemde bepalingen in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid, zijn misdrijven.   
 2.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 2.1, zesde lid, 2.2, eerste lid, negende en tiende lid voor wat betreft de onderwerpen, bedoeld in het tiende lid, onderdelen b, c en d, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.8, derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen d en e, 2.9, tweede, vierde en vijfde lid, 2.14, tweede lid, 2.15, eerste, tweede, derde, vijfde en zesde lid, en 4.4, eerste lid, of een of meer van de voornoemde bepalingen in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid, zijn overtredingen.   
 
 ### Artikel  8.12  
@@ -2052,7 +2055,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 1.  Onze Minister moedigt het opstellen en het toepassen aan van gidsen voor goede praktijken die aanbevelingen bevatten voor de naleving van het bij of krachtens deze wet bepaalde.   
 2.  Nationale gidsen voor goede praktijken kunnen aan Onze Minister ter beoordeling worden voorgelegd.   
-3.  Op aanvragen om een beoordeling als bedoeld in het tweede lid, zijn artikelen 7.6, 7.7 en 7.8 van overeenkomstige toepassing.   
+3.  Op verzoeken om een beoordeling als bedoeld in het tweede lid, zijn de artikelen 7.6, 7.7 en 7.8 van overeenkomstige toepassing.   
 
 ### §  7  
 
@@ -2328,7 +2331,7 @@ c. de periode waarop een vergoeding betrekking heeft.
 
 1.  Onze Minister kan, in voorkomend geval met inachtneming van EU-rechtshandelingen en voor zover het belang van de gezondheid van de mens, dieren of planten, het belang van het welzijn van dieren of het belang van het milieu zich daartegen niet verzetten, van het bepaalde bij of krachtens deze wet vrijstelling of ontheffing verlenen.   
 2.  Ingeval de vrijstelling of ontheffing betrekking heeft op een bepaling die geheel of mede strekt tot bescherming van de volksgezondheid, wordt zij in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport verleend.   
-3.  Aan een vrijstelling en een ontheffing kunnen voorschriften of voorwaarden worden verbonden. Zij kunnen onder beperkingen worden verleend.   
+3.  In afwijking van artikel 7.1 zijn de artikelen 7.3, 7.4, eerste lid, tweede lid, onderdeel a, en derde lid, 7.5, vierde lid, 7.6, eerste en tweede lid, onderdeel a, 7.8, eerste lid, en 7.9 niet van toepassing ten aanzien van het verlenen van een vrijstelling of ontheffing als bedoeld in het eerste lid.   
 4.  Indien Onze Minister voornemens is een vrijstelling te verlenen van het bepaalde in artikel 2.23, wordt het ontwerp van de vrijstelling in de Staatscourant bekend gemaakt en aan een ieder de gelegenheid geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp van de vrijstelling aan beide kamers der Staten-Generaal overgelegd en medegedeeld aan direct belanghebbenden.   
 5.  Een vrijstelling als bedoeld in het eerste lid kan, onverminderd de bevoegdheid van Onze Minister, bij algemene maatregel van bestuur worden verleend.   
 
@@ -2343,7 +2346,7 @@ a. de wijze waarop het onderzoek plaatsvindt;
 b. het aanwijzen van ambtenaren of personen die het onderzoek verrichten, en  
 
 c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.     
-2.  Bij algemene maatregel van bestuur kunnen voor de toepassing van hoofdstuk 3 de [artikelen 8 tot en met 13a van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van [artikel 13 van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) is onverminderd [artikel 18, tweede lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md).   
+2.  Bij algemene maatregel van bestuur kunnen voor de toepassing van hoofdstuk 2, paragraaf 2, en hoofdstuk 3 de [artikelen 8 tot en met 13a van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van [artikel 13 van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) is onverminderd [artikel 18, tweede lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md).   
 
 ### Artikel  10.4  
 
@@ -2397,7 +2400,7 @@ Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatre
 
 ####Voorhangprocedure
 
-De voordracht voor een krachtens de artikelen 2.1, derde en vijfde lid, 2.2, tweede, derde, zevende en tiende lid, 2.3, tweede en vierde lid, 2.4, tweede lid, 2.5, tweede lid, 2.6, tweede en derde lid, 2.7, tweede lid, 2.8, tweede lid, onderdeel b, en vierde lid, 2.10, eerste, derde en vierde lid, 2.15, tweede lid, en 2.16, eerste lid, en 2.24 vast te stellen algemene maatregel van bestuur voor zover het betreft een voordracht voor een maatregel mede met of met het oog op de bescherming van het welzijn van dieren, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.  
+De voordracht voor een krachtens de artikelen 2.1, derde en vijfde lid, 2.2, tweede, derde, zevende en tiende lid, 2.3, tweede en vierde lid, 2.4, tweede lid, 2.5, tweede lid, 2.6, tweede en derde lid, 2.7, tweede lid, 2.8, tweede lid, onderdeel b, en vierde lid, 2.10, eerste, derde en vierde lid, 2.15, tweede lid, 2.16, eerste lid, en 2.24 vast te stellen algemene maatregel van bestuur voor zover het betreft een voordracht voor een maatregel mede met of met het oog op de bescherming van het welzijn van dieren, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.  
 
 ### Artikel  10.11  
 
