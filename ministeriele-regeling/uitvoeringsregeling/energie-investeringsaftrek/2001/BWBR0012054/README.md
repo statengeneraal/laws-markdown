@@ -5,60 +5,60 @@
 De Staatssecretaris van Financiën,  
 Handelende in overeenstemming met de Minister van Economische Zaken en na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op artikel 3.42, tweede, vijfde en zevende lid, van de Wet inkomstenbelasting 2001,
-Besluit:    
+Gelet op [artikel 3.42, tweede, vijfde en zevende lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md),
+Besluit:     
 
 ### Artikel  1  
 
-Deze regeling verstaat onder wet: Wet inkomstenbelasting 2001.  
+Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
 
 ### Artikel  2  
 
-1.  Als energie-investeringen als bedoeld in artikel 3.42, tweede lid, van de wet worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in bijlage I van deze regeling, mits: 
+1. Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in bijlage I van deze regeling, mits:
 
 a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die bijlage, niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen; en  
 
-b. – voor zover sprake is van een investering in een voorziening als bedoeld in artikel 1, onderdeel D, onder 2.1.A, onder 1, onder a, van bijlage 1 van deze regeling – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht is afgegeven ten tijde van de aanmelding, bedoeld in artikel 3.42, zesde lid, van de wet;  
+b. – voor zover sprake is van een investering in een voorziening als bedoeld in artikel 1, onderdeel D, onder 2.1.A, onder 1, onder a, van bijlage 1 van deze regeling – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in bijlage 1 van deze regeling in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, in artikel 1, onderdeel B, onder 1.2.O, in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht is afgegeven ten tijde van de aanmelding, bedoeld in artikel 3.42, zesde lid, van de wet;  
+c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in bijlage 1 van deze regeling in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, in artikel 1, onderdeel B, onder 1.2.O, in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); 
 
-d. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 1.1.B., onder 1, onder c; onder 1.1.C., onder 1, onder c; onder 2.1.A, onder 1, onder a en b; onder 2.1.B, onder 1; onder 3.1.B, onder a en b; onder 4.1.A, onder 1; onder 5.1.A, onder 1; onder 5.1.B, onder 1; onder 5.1.C, onder 1, onder c; onder 5.1.D, onder 1, onder a; onder 5.1.E, onder 1; onder 5.1.G, onder 1, of onder 5.1.H, onder 1, onder a, b en c, van bijlage 1 van deze regeling – de belastingplichtige daarvoor ten tijde van de aanmelding houder is van een SDE-beschikking 2013 of eerder;  
+d. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 1.1.B., onder 1, onder c; onder 1.1.C., onder 1, onder c; onder 2.1.A, onder 1, onder a en b; onder 2.1.B, onder 1; onder 3.1.B, onder a en b; onder 4.1.A, onder 1; onder 5.1.A, onder 1; onder 5.1.B, onder 1; onder 5.1.C, onder 1, onder c; onder 5.1.D, onder 1, onder a; onder 5.1.E, onder 1; onder 5.1.G, onder 1, of onder 5.1.H, onder 1, onder a, b en c, van bijlage 1 van deze regeling – de belastingplichtige daarvoor ten tijde van de aanmelding houder is van een SDE-beschikking 2013 of eerder; 
 
-e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, van bijlage 1 van deze regeling – voor deze investering ten tijde van de aanmelding geen SDE-beschikking 2014 is afgegeven.     
-2.  Voor de toepassing van het eerste lid, onderdeel d, en van artikel 5, zesde lid, wordt onder een SDE-beschikking 2013 of eerder verstaan: een beschikking waarbij een subsidie als bedoeld in artikel 2 van het Besluit stimulering duurzame energieproductie is verleend op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2013, de Regeling aanwijzing categorieën duurzame energieproductie 2012, de Regeling aanwijzing categorieën duurzame energieproductie 2011, de Regeling aanwijzing categorieën duurzame energieproductie 2010, de Regeling windenergie op zee 2009, de Regeling aanwijzing categorieën duurzame energieproductie 2009 of de Regeling aanwijzing categorieën duurzame energieproductie 2008.   
-3.  Voor de toepassing van het eerste lid, onderdeel e, wordt onder een SDE-beschikking 2014 verstaan: een beschikking waarbij een subsidie als bedoeld in artikel 2 van het Besluit stimulering duurzame energieproductie, is verleend op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2014.   
+e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, van bijlage 1 van deze regeling – voor deze investering ten tijde van de aanmelding geen SDE-beschikking 2014 is afgegeven.   
+2.  Voor de toepassing van het eerste lid, onderdeel d, en van artikel 5, zesde lid, wordt onder een SDE-beschikking 2013 of eerder verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) is verleend op grond van de [Regeling aanwijzing categorieën duurzame energieproductie 2013](../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2013/BWBR0032881/README.md), de [Regeling aanwijzing categorieën duurzame energieproductie 2012](../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2012/BWBR0031291/README.md), de [Regeling aanwijzing categorieën duurzame energieproductie 2011](../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md), de [Regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md), de [Regeling windenergie op zee 2009](../../../../../ministeriele-regeling/regeling/windenergie/op/zee/2009/BWBR0026690/README.md), de [Regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md) of de [Regeling aanwijzing categorieën duurzame energieproductie 2008](../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md).  
+3.  Voor de toepassing van het eerste lid, onderdeel e, wordt onder een SDE-beschikking 2014 verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), is verleend op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2014. 
 
 ### Artikel  3  
 
-1.  De aanmelding bedoeld in artikel 3.42, zesde lid, van de wet van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in artikel 2 moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan: 
+1.  De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in artikel 2 moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan: 
 
-a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;  
+a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen; 
 
-b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwartaal volgend op dat waarin de kosten zijn gemaakt of, indien het bedrijfsmiddel of onderdeel ter zake waarvan de kosten zijn gemaakt in het kalenderkwartaal in gebruik is genomen, bij de ingebruikneming van het bedrijfsmiddel respectievelijk het onderdeel.     
-2.  Indien artikel 3.52, eerste lid, onderdeel b, van de wet van toepassing vindt, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.   
+b.  met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwartaal volgend op dat waarin de kosten zijn gemaakt of, indien het bedrijfsmiddel of onderdeel ter zake waarvan de kosten zijn gemaakt in het kalenderkwartaal in gebruik is genomen, bij de ingebruikneming van het bedrijfsmiddel respectievelijk het onderdeel.    
+2.  Indien [artikel 3.52, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van toepassing vindt, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.   
 
 ### Artikel  4  
 
-1.  De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.   
-2.  De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.   
+1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.  
+2.  De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen. 
 
 ### Artikel  5  
 
-1.  De verklaring van de Minister van Economische Zaken, bedoeld in artikel 3.42, eerste lid, van de wet vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.   
+1.  De verklaring van de Minister van Economische Zaken, bedoeld in [artikel 3.42, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.   
 2.  Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de artikelen 3 en 4.   
-3.  De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.   
-4.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien artikel 2, onderdeel b, van toepassing is.   
-5.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien artikel 2, eerste lid, onderdeel c, van toepassing is.   
-6.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de SDE-beschikking over indien artikel 2, eerste lid, onderdeel d, van toepassing is.   
+3.  De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.  
+4.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien artikel 2, onderdeel b, van toepassing is. 
+5.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien artikel 2, eerste lid, onderdeel c, van toepassing is.  
+6.  De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de SDE-beschikking over indien artikel 2, eerste lid, onderdeel d, van toepassing is. 
 
 ### Artikel  6  
 
 1.  De Minister van Economische Zaken kan de in artikel 5 bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.   
 2.  De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.   
 
-### Artikel  7  
+###Artikel 7 
 
-Indien in bijlage I sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door daartoe geaccrediteerde instellingen of instituten.  
+Indien in bijlage I sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door daartoe geaccrediteerde instellingen of instituten. 
 
 ### Artikel  8  
 
@@ -66,7 +66,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -74,15 +74,15 @@ Den Haag
 
 De 
 Staatssecretaris van Financiën, 
-W.Bos   
+W. Bos     
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####van de Uitvoeringsregeling energie-investeringsaftrek 2001
 
 ### Artikel  1  
 
-Als energie-investeringen als bedoeld in artikel 3.42, tweede lid, van de wet worden aangemerkt: 
+Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangemerkt: 
 
 ### A  
 
@@ -164,7 +164,7 @@ E. Bevochtigingsrotor voor het bevochtigen van lucht ten behoeve van klimaatbehe
 
 1.2. 
 
-F. Luchtdicht luchtverdeelsysteem voor het transporteren van toe- of afvoerlucht in een bedrijfsgebouw, en bestaande uit: luchtkanalen in combinatie met luchtklep of geluiddemper of luchtkanaalnaverwarmer of -nakoeler of luchtvolumeregelaar of aansluitkast van een ventilatierooster, gemonteerd in het luchtkanaal van een ventilatiesysteem, waarbij het ventilatiesysteem voldoet aan luchtdichtheidsklasse C gemeten conform NEN-EN 1751. Het maximum investeringsbedrag, dat voor Energie-investeringsaftrek in aanmerking komt, bedraagt € 10 per m <sup>2</sup> gebruiksoppervlak. Een ventilatorconvector of fancoilunit wordt niet gerekend tot de hiervoor genoemde luchtdichte componenten.    
+F. Luchtdicht luchtverdeelsysteem voor het transporteren van toe- of afvoerlucht in een bedrijfsgebouw, en bestaande uit: luchtkanalen in combinatie met luchtklep of geluiddemper of luchtkanaalnaverwarmer of -nakoeler of luchtvolumeregelaar of aansluitkast van een ventilatierooster, gemonteerd in het luchtkanaal van een ventilatiesysteem, waarbij het ventilatiesysteem voldoet aan luchtdichtheidsklasse C gemeten conform NEN-EN 1751. Het maximum investeringsbedrag, dat voor Energie-investeringsaftrek in aanmerking komt, bedraagt € 10 per m<sup>2</sup> gebruiksoppervlak. Een ventilatorconvector of fancoilunit wordt niet gerekend tot de hiervoor genoemde luchtdichte componenten.    
 
 1.2. 
 
@@ -210,7 +210,7 @@ c. een nominaal elektrisch vermogen groter dan of gelijk aan 1 MWe voor het geli
 
 K 
 
-1. Warmtekrachtinstallatie anders dan met behulp van een zuigermotor voor het gelijktijdig opwekken van warmte en kracht met een nominaal elektrisch vermogen tot 300 MWe, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 67% bedraagt, en bestaande uit: warmtekrachtinstallatie, (eventueel) aansluiting op het elektriciteitsnet. Het maximum investeringsbedrag dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 600 per kW elektrisch vermogen. Het elektrisch vermogen is bepaald bij het nominaal motorvermogen.  
+1.  Warmtekrachtinstallatie anders dan met behulp van een zuigermotor voor het gelijktijdig opwekken van warmte en kracht met een nominaal elektrisch vermogen tot 300 MWe, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 67% bedraagt, en bestaande uit: warmtekrachtinstallatie, (eventueel) aansluiting op het elektriciteitsnet. Het maximum investeringsbedrag dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 600 per kW elektrisch vermogen. Het elektrisch vermogen is bepaald bij het nominaal motorvermogen.  
 
 2. Hierbij geldt dat: 
 
@@ -274,17 +274,17 @@ A. Additionele efficiency-verhogende voorzieningen.
 
 A. HR-glas voor beglazing in buitengevel-, of dakconstructies voor: 
 
-a. bestaande bedrijfsgebouwen, en bestaande uit: meervoudig glas dat gemeten is conform NEN-EN 673 voor warmtereflecterend isolerend glas met een warmtewerende coating en/of gasgevulde spouw, met een warmtedoorlatingscoëfficiënt U van maximaal 1,1 W/m <sup>2</sup> K, (eventueel) kozijn;  
+a. bestaande bedrijfsgebouwen, en bestaande uit: meervoudig glas dat gemeten is conform NEN-EN 673 voor warmtereflecterend isolerend glas met een warmtewerende coating en/of gasgevulde spouw, met een warmtedoorlatingscoëfficiënt U van maximaal 1,1 W/m<sup>2</sup>K, (eventueel) kozijn;  
 
-b. bedrijfsgebouwen, en bestaande uit: meervoudig glas dat gemeten is conform NEN-EN 673 voor warmtereflecterend isolerend glas met een warmtewerende coating en/of gasgevulde spouw, met een warmtedoorlatingscoëfficiënt U van maximaal 0,7 W/m <sup>2</sup> K, (eventueel) kozijn.      
+b. bedrijfsgebouwen, en bestaande uit: meervoudig glas dat gemeten is conform NEN-EN 673 voor warmtereflecterend isolerend glas met een warmtewerende coating en/of gasgevulde spouw, met een warmtedoorlatingscoëfficiënt U van maximaal 0,7 W/m<sup>2</sup>K, (eventueel) kozijn.      
 
 2.1. 
 
 B. Isolatie voor bestaande constructies in bedrijfsgebouwen: 
 
-a. door verbetering van de isolatie van bestaande vloeren, daken, plafonds of wanden van ruimten, anders dan koel- of vriesruimten, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ (Rm) = Σ (d/λ) toeneemt met ten minste 1,50 m <sup>2</sup> K/W ten opzichte van de oude situatie. Het maximum investeringsbedrag dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 20 per m <sup>2</sup> te isoleren oppervlak;  
+a. door verbetering van de isolatie van bestaande vloeren, daken, plafonds of wanden van ruimten, anders dan koel- of vriesruimten, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ (Rm) = Σ (d/λ) toeneemt met ten minste 1,50 m<sup>2</sup>K/W ten opzichte van de oude situatie. Het maximum investeringsbedrag dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 20 per m<sup>2</sup> te isoleren oppervlak;  
 
-b. door verbetering van de isolatie van bestaande platte daken van bedrijfsgebouwen, anders dan koel- of vriesruimten,en bestaande uit: dak-isolatiemateriaal gecombineerd met witte dakbedekking, waarbij de som van de warmteweerstand van de lagen R = Σ(Rm) = Σ(d/λ) toeneemt met ten minste 1,50 m <sup>2</sup> K/W ten opzichte van de oude situatie. Het maximumbedrag dat voor Energie-investeringsaftrek in aanmerking komt, is € 30 /m <sup>2</sup> te isoleren oppervlak.      
+b. door verbetering van de isolatie van bestaande platte daken van bedrijfsgebouwen, anders dan koel- of vriesruimten,en bestaande uit: dak-isolatiemateriaal gecombineerd met witte dakbedekking, waarbij de som van de warmteweerstand van de lagen R = Σ(Rm) = Σ(d/λ) toeneemt met ten minste 1,50 m<sup>2</sup>K/W ten opzichte van de oude situatie. Het maximumbedrag dat voor Energie-investeringsaftrek in aanmerking komt, is € 30 /m<sup>2</sup> te isoleren oppervlak.      
 
 2.1. 
 
@@ -292,9 +292,9 @@ C.
 
 1. Isolatie van mechanisch gekoelde ruimten: 
 
-a. voor koelen of licht vriezen bij een ruimtetemperatuur tussen +16 °C en -10 °C, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R=Σ(Rm) = Σ (d/λ) ten minste 6,20 m <sup>2</sup> K/W dient te bedragen. Het maximum investeringsbedrag, dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 40 per m <sup>2</sup> te isoleren oppervlak;  
+a. voor koelen of licht vriezen bij een ruimtetemperatuur tussen +16 °C en -10 °C, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R=Σ(Rm) = Σ (d/λ) ten minste 6,20 m<sup>2</sup>K/W dient te bedragen. Het maximum investeringsbedrag, dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 40 per m<sup>2</sup> te isoleren oppervlak;  
 
-b. voor vriezen bij een ruimtetemperatuur lager dan -10 °C, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R=Σ(Rm) = Σ (d/λ) ten minste 10,50 m <sup>2</sup> K/W dient te bedragen. Het maximum investeringsbedrag, dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 60 per m <sup>2</sup> te isoleren oppervlak.    
+b. voor vriezen bij een ruimtetemperatuur lager dan -10 °C, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R=Σ(Rm) = Σ (d/λ) ten minste 10,50 m<sup>2</sup>K/W dient te bedragen. Het maximum investeringsbedrag, dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 60 per m<sup>2</sup> te isoleren oppervlak.    
 
 2. Hierbij geldt dat: 
 
@@ -330,7 +330,7 @@ b. het koelen of verwarmen van nieuwe bedrijfsgebouwen door het benutten van kou
 
 3.1. 
 
-C. Systeem bij radiatoren voor koude- of warmteterugwinning uit ventilatielucht voor bestaande bedrijfsgebouwen voor het koelen of verwarmen van bestaande bedrijfsgebouwen door het benutten van koude of warmte in de afzuiglucht, en bestaande uit: radiator met ventilatiedoorvoeren door de buitenmuur, met ingebouwde warmteterugwinning uit ventilatielucht, (eventueel) ventilatieregeling op basis van CO <sub>2</sub> -meting.    
+C. Systeem bij radiatoren voor koude- of warmteterugwinning uit ventilatielucht voor bestaande bedrijfsgebouwen voor het koelen of verwarmen van bestaande bedrijfsgebouwen door het benutten van koude of warmte in de afzuiglucht, en bestaande uit: radiator met ventilatiedoorvoeren door de buitenmuur, met ingebouwde warmteterugwinning uit ventilatielucht, (eventueel) ventilatieregeling op basis van CO<sub>2</sub>-meting.    
 
 3.1. 
 
@@ -437,7 +437,7 @@ b. met minimaal twee labels verbeteren, waarbij de energie-index ten minste 0,30
 
 * voor investeringen die deel uitmaken van het pakket van energie-investeringen en die zijn omschreven onder A.1.2.B., A.1.2.C., A.1.2.D., A.1.2.J., A.1.2.K., A.2.1.A., A.2.1.B., A.4.2.B., A.4.2.C., de technische eisen die aan deze bedrijfsmiddelen worden gesteld van toepassing zijn.  
 
-* voor investeringen die deel uitmaken van het pakket van energie-investeringen die ook zijn omschreven in hoofdstuk D. Duurzame energie alle eisen die aan deze bedrijfsmiddelen worden gesteld eveneens van toepassing zijn.        
+* voor investeringen die deel uitmaken van het pakket van energie-investeringen die ook zijn omschreven in hoofdstuk D. Duurzame energie alle eisen die aan deze bedrijfsmiddelen worden gesteld eveneens van toepassing zijn.       
 
 ### B  
 
@@ -459,7 +459,7 @@ A. Toepassing van efficiëntere apparatuur.
 
 B. 
 
-1. Gasgestookt HR-frituurtoestel voor het bereiden van maaltijden, dat gemeten is conform NEN-EN 437, NEN-EN 203 en CR 1404, waarbij het thermisch rendement ten minste 83% op onderwaarde bedraagt, de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm en de jaar-emissiewaarde van NO <sub>X</sub> niet meer bedraagt dan: 
+1. Gasgestookt HR-frituurtoestel voor het bereiden van maaltijden, dat gemeten is conform NEN-EN 437, NEN-EN 203 en CR 1404, waarbij het thermisch rendement ten minste 83% op onderwaarde bedraagt, de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm en de jaar-emissiewaarde van NO<sub>X</sub> niet meer bedraagt dan: 
 
 a. 40 ppm voor toestellen met een belasting t/m 36 kW op onderwaarde;  
 
@@ -469,7 +469,7 @@ c. 60 ppm voor toestellen met een belasting groter dan 54 kW op onderwaarde, en 
 
 2. Hierbij geldt dat: 
 
-* de jaar-emissiewaarden van NO <sub>X</sub> en CO zijn gebaseerd op droge verbrandingsgassen en stoichiometrische verbranding;  
+* de jaar-emissiewaarden van NO<sub>X</sub> en CO zijn gebaseerd op droge verbrandingsgassen en stoichiometrische verbranding;  
 
 * de accessoires niet voor Energie-investeringsaftrek in aanmerking komen.      
 
@@ -507,7 +507,7 @@ c. ab- of adsorptiewarmtepomp waarbij de regenerator wordt aangedreven door afva
 
 1.2. 
 
-E. Gasgestookte hogedrukreiniger voor het reinigen van oppervlakken met warm water onder hoge druk eventueel met gelijktijdige dosering van reinigingsmiddelen, die gemeten is conform NEN-EN 1196, waarbij het indirect rendement ten minste 100% op onderwaarde bedraagt, de jaar-emissiewaarde van de NO <sub>X</sub> niet meer bedraagt dan 60 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 160 ppm, en bestaande uit: gasgestookte hogedrukreiniger, (eventueel) standaard spuitlans, (eventueel) standaard hoge-drukslang. De jaar-emissiewaarden van NO <sub>X</sub> en CO zijn gebaseerd op droge verbrandingsgassen en stoichiometrische verbranding.    
+E. Gasgestookte hogedrukreiniger voor het reinigen van oppervlakken met warm water onder hoge druk eventueel met gelijktijdige dosering van reinigingsmiddelen, die gemeten is conform NEN-EN 1196, waarbij het indirect rendement ten minste 100% op onderwaarde bedraagt, de jaar-emissiewaarde van de NO<sub>X</sub> niet meer bedraagt dan 60 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 160 ppm, en bestaande uit: gasgestookte hogedrukreiniger, (eventueel) standaard spuitlans, (eventueel) standaard hoge-drukslang. De jaar-emissiewaarden van NO<sub>X</sub> en CO zijn gebaseerd op droge verbrandingsgassen en stoichiometrische verbranding.    
 
 1.2. 
 
@@ -543,17 +543,17 @@ b. 3 fasen statische UPS. Het rendement van de UPS moet minimaal bedragen:
 
 H. 
 
-1. Transportleiding voor levering van gasvormig koolstofdioxide (CO <sub>2</sub>) aan glastuinbouwbedrijven voor het bemesten van gewassen in tuinbouwkassen, en bestaande uit: pijpleiding tussen de externe bron en het glastuinbouwbedrijf, (eventueel) CO <sub>2</sub> -reinigingsapparatuur, (eventueel) CO <sub>2</sub> compressor/ventilator ten behoeve van CO <sub>2</sub> -transport naar het glastuinbouwbedrijf.  
+1. Transportleiding voor levering van gasvormig koolstofdioxide (CO<sub>2</sub>) aan glastuinbouwbedrijven voor het bemesten van gewassen in tuinbouwkassen, en bestaande uit: pijpleiding tussen de externe bron en het glastuinbouwbedrijf, (eventueel) CO<sub>2</sub>-reinigingsapparatuur, (eventueel) CO<sub>2</sub> compressor/ventilator ten behoeve van CO<sub>2</sub>-transport naar het glastuinbouwbedrijf.  
 
 2. Hierbij geldt dat: 
 
-* distributiesystemen voor CO <sub>2</sub> in de kas, CO <sub>2</sub> afvang, CO <sub>2</sub> opslag in de bodem en CO <sub>2</sub> compressoren ten behoeve van opslag van CO <sub>2</sub> in de bodem niet voor Energie-investeringsaftrek in aanmerking komen.        
+* distributiesystemen voor CO<sub>2</sub> in de kas, CO<sub>2</sub> afvang, CO<sub>2</sub> opslag in de bodem en CO<sub>2</sub> compressoren ten behoeve van opslag van CO<sub>2</sub> in de bodem niet voor Energie-investeringsaftrek in aanmerking komen.        
 
 1.2. 
 
 I. 
 
-1. Gasgestookte (stoom)convectieoven voor het bereiden van maaltijden, die gemeten is conform NEN-EN 437 en NEN-EN 203 en CR 1404, waarbij het indirect rendement ten minste 80% op onderwaarde bedraagt, de jaar-emissiewaarde van NO <sub>X</sub> niet meer bedraagt dan 83,6 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm. De jaar-emissiewaarde van NO <sub>X</sub> en CO zijn gebaseerd op droge verbrandingsgassen en stoichiometrische verbranding, en bestaande uit: gasgestookte (stoom)convectieoven, gastoevoer- en verbrandingsgasafvoersysteem.  
+1. Gasgestookte (stoom)convectieoven voor het bereiden van maaltijden, die gemeten is conform NEN-EN 437 en NEN-EN 203 en CR 1404, waarbij het indirect rendement ten minste 80% op onderwaarde bedraagt, de jaar-emissiewaarde van NO<sub>X</sub> niet meer bedraagt dan 83,6 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm. De jaar-emissiewaarde van NO<sub>X</sub> en CO zijn gebaseerd op droge verbrandingsgassen en stoichiometrische verbranding, en bestaande uit: gasgestookte (stoom)convectieoven, gastoevoer- en verbrandingsgasafvoersysteem.  
 
 2. Hierbij geldt dat: 
 
@@ -587,7 +587,7 @@ J.
 
 * een koel- en/of vriesinstallatie op basis van een halogeenvrij koudemiddel voor Energie-investeringsaftrek in aanmerking komt, uitgezonderd de installatiedelen die geen halogeenvrij koudemiddel bevatten;  
 
-* indien CO <sub>2</sub> als koudedrager wordt gebruikt het koudenet ook in aanmerking komt;  
+* indien CO<sub>2</sub> als koudedrager wordt gebruikt het koudenet ook in aanmerking komt;  
 
 * een koel- en/of vriesinstallatie waarbij in het samenstel van voorzieningen een HFK-houdend koudemiddel wordt toegepast, niet in aanmerking komt voor Energie-investeringsaftrek. Onder samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar verbonden zijn voor het koelen en/of vriezen van ruimten of processen.        
 
@@ -595,9 +595,9 @@ J.
 
 K. Energiezuinige professionele koel- of vrieskast met een maximale netto inhoud van 1.500 liter voor: 
 
-a. het koelen van producten in de temperatuurklasse M1 (+5 °C / -1 °C), met een energieverbruik van ten hoogste 10 kWh per m <sup>3</sup> netto inhoud in 48 uur gemeten conform ISO 23953 in klimaatklasse 4 (30 °C, 55% RV), en bestaande uit: koelkast of gekoelde werkbank, werkend op een halogeenvrij koudemiddel, voorzien van geforceerde ventilatie in de kast en een afzonderlijk geplaatste, niet in de wanden ingebouwde verdamper;  
+a. het koelen van producten in de temperatuurklasse M1 (+5 °C / -1 °C), met een energieverbruik van ten hoogste 10 kWh per m<sup>3</sup> netto inhoud in 48 uur gemeten conform ISO 23953 in klimaatklasse 4 (30 °C, 55% RV), en bestaande uit: koelkast of gekoelde werkbank, werkend op een halogeenvrij koudemiddel, voorzien van geforceerde ventilatie in de kast en een afzonderlijk geplaatste, niet in de wanden ingebouwde verdamper;  
 
-b. het vriezen van producten in de temperatuurklasse L1 (-15 °C / -18 °C), met een energieverbruik van ten hoogste 20 kWh per m <sup>3</sup> netto inhoud in 48 uur gemeten conform ISO 23953 in klimaatklasse 4, en bestaande uit: vrieskast, werkend op een halogeenvrij koudemiddel, voorzien van een afzonderlijk geplaatste, niet in de wanden ingebouwde verdamper.      
+b. het vriezen van producten in de temperatuurklasse L1 (-15 °C / -18 °C), met een energieverbruik van ten hoogste 20 kWh per m<sup>3</sup> netto inhoud in 48 uur gemeten conform ISO 23953 in klimaatklasse 4, en bestaande uit: vrieskast, werkend op een halogeenvrij koudemiddel, voorzien van een afzonderlijk geplaatste, niet in de wanden ingebouwde verdamper.      
 
 1.2. 
 
@@ -637,7 +637,7 @@ O.
 
 * hier onder afval wordt verstaan: de terminaal te verwijderen, niet-selectief ingezamelde fracties (restafval, grofvuil en gemeentevuil met inbegrip van straatvuil, veegvuil, marktafval, opruiming van sluikstorten, zwerfvuil) én de selectief ingezamelde fracties (aan huis en via containerparken);  
 
-* hier onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* hier onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -717,15 +717,15 @@ A. Thermische isolering.
 
 B. Energieschermen voor 
 
-a. het verminderen van het warmteverlies in tuinbouwkassen, door het aanbrengen van horizontaal beweegbare schermen aan de binnenzijde van de lichtdoorlatende gebouwschil, en bestaande uit: schermdoek dat voor tenminste 90% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 2 mm <sup>2</sup> en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 10%, mechanisch bedieningsmechanisme, (eventueel) kierafdichtingsvoorzieningen (eventueel) scherm(kier)regeling, (eventueel) meetbox boven het energiescherm, (eventueel) nokcompartimentering. Voor Energie-investeringsaftrek komt in aanmerking: in een kas(afdeling) zonder belichting: het tweede en/of derde scherm van de boven elkaar gelegen, horizontaal en elk op een eigen dradenbed beweegbare schermen, of in een kas(afdeling) met belichting: het derde scherm van de boven elkaar gelegen, horizontaal en elk op een eigen dradenbed beweegbare schermen.  
+a. het verminderen van het warmteverlies in tuinbouwkassen, door het aanbrengen van horizontaal beweegbare schermen aan de binnenzijde van de lichtdoorlatende gebouwschil, en bestaande uit: schermdoek dat voor tenminste 90% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 2 mm<sup>2</sup> en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 10%, mechanisch bedieningsmechanisme, (eventueel) kierafdichtingsvoorzieningen (eventueel) scherm(kier)regeling, (eventueel) meetbox boven het energiescherm, (eventueel) nokcompartimentering. Voor Energie-investeringsaftrek komt in aanmerking: in een kas(afdeling) zonder belichting: het tweede en/of derde scherm van de boven elkaar gelegen, horizontaal en elk op een eigen dradenbed beweegbare schermen, of in een kas(afdeling) met belichting: het derde scherm van de boven elkaar gelegen, horizontaal en elk op een eigen dradenbed beweegbare schermen.  
 
-b. het verminderen van het warmteverlies in tuinbouwkassen door het aanbrengen van beweegbare gevelschermen aan de binnenzijde van de lichtdoorlatende gebouwschil, en bestaande uit: schermdoek dat voor ten minste 90% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 2 mm <sup>2</sup> en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 10%, mechanisch bedieningsmechanisme, (eventueel) kierafdichtingsvoorzieningen.  
+b. het verminderen van het warmteverlies in tuinbouwkassen door het aanbrengen van beweegbare gevelschermen aan de binnenzijde van de lichtdoorlatende gebouwschil, en bestaande uit: schermdoek dat voor ten minste 90% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 2 mm<sup>2</sup> en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 10%, mechanisch bedieningsmechanisme, (eventueel) kierafdichtingsvoorzieningen.  
 
-c. het weren van een teveel aan zoninstraling en het verminderen van het warmteverlies uit tuinbouwkassen door het aanbrengen van beweegbare schermen aan de buitenzijde, boven de lichtdoorlatende gebouwschil, en bestaande uit: schermdoek dat voor ten minste 50% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 10 mm <sup>2</sup> en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 15%, mechanisch bedieningsmechanisme, (eventueel) afdichtingsvoorzieningen.      
+c. het weren van een teveel aan zoninstraling en het verminderen van het warmteverlies uit tuinbouwkassen door het aanbrengen van beweegbare schermen aan de buitenzijde, boven de lichtdoorlatende gebouwschil, en bestaande uit: schermdoek dat voor ten minste 50% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 10 mm<sup>2</sup> en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 15%, mechanisch bedieningsmechanisme, (eventueel) afdichtingsvoorzieningen.      
 
 2.1. 
 
-C. Isolatie van gevels van bestaande tuinbouwkassen, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ(Rm) = Σ(d/λ) toeneemt met ten minste 1,50 m <sup>2</sup> K/W ten opzichte van de oude situatie. Het maximum investeringsbedrag dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 20 per m <sup>2</sup> te isoleren oppervlak.      
+C. Isolatie van gevels van bestaande tuinbouwkassen, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ(Rm) = Σ(d/λ) toeneemt met ten minste 1,50 m<sup>2</sup>K/W ten opzichte van de oude situatie. Het maximum investeringsbedrag dat voor Energie-investeringsaftrek in aanmerking komt bedraagt € 20 per m<sup>2</sup> te isoleren oppervlak.      
 
 3. Warmtehergebruik door: 
 
@@ -795,7 +795,7 @@ b. het belichten van tuinbouwgewassen in tuinbouwkassen, anders dan genoemd onde
 
 4.3. 
 
-A. Additionele efficiency-verhogende voorzieningen.        
+A. Additionele efficiency-verhogende voorzieningen.       
 
 ### C  
 
@@ -827,13 +827,13 @@ C. Lichtgewicht composieten kipperbak voor het vervoer van bulkgoederen over de 
 
 1.2. 
 
-D. Energiezuinige opbouw of container voor cryogeen gekoeld transport, en bestaande uit: geïsoleerde opbouw of container met een K-waarde < 0,35 W/m <sup>2</sup> K, bepaald conform de Europese A.T.P.-voorschriften voor transport van gekoelde producten van 2 januari 2011, cryogene CO <sub>2</sub> koelinstallatie, (eventueel) verplaatsbare schotten die de gekoelde ruimte kunnen verkleinen, (eventueel) luchtgordijn..    
+D. Energiezuinige opbouw of container voor cryogeen gekoeld transport, en bestaande uit: geïsoleerde opbouw of container met een K-waarde < 0,35 W/m<sup>2</sup>K, bepaald conform de Europese A.T.P.-voorschriften voor transport van gekoelde producten van 2 januari 2011, cryogene CO<sub>2</sub> koelinstallatie, (eventueel) verplaatsbare schotten die de gekoelde ruimte kunnen verkleinen, (eventueel) luchtgordijn..    
 
 1.2. 
 
 E. 
 
-1. Cryogene transportkoeling voor het koelen van goederen tijdens transport, en bestaande uit: cryogene koelinstallatie met CO <sub>2</sub> als koelmiddel, opslagtank voor vloeibare CO <sub>2</sub>.  
+1. Cryogene transportkoeling voor het koelen van goederen tijdens transport, en bestaande uit: cryogene koelinstallatie met CO<sub>2</sub> als koelmiddel, opslagtank voor vloeibare CO<sub>2</sub>.  
 
 2. Hierbij geldt dat: 
 
@@ -897,7 +897,7 @@ A. Toepassing van efficiëntere apparatuur.
 
 4.3. 
 
-A. Additionele efficiency-verhogende voorzieningen.        
+A. Additionele efficiency-verhogende voorzieningen.       
 
 ### D  
 
@@ -933,11 +933,11 @@ C.
 
 1. Zonnecollectorsysteem voor het verwarmen van water of lucht, en bestaande uit: 
 
-a. zonnecollector met een totale apertuuroppervlakte van minder dan 100 m <sup>2</sup>, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) in luchtverwarmer geïntegreerde fotovoltaïsche zonnecellen, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie;  
+a. zonnecollector met een totale apertuuroppervlakte van minder dan 100 m<sup>2</sup>, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) in luchtverwarmer geïntegreerde fotovoltaïsche zonnecellen, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie;  
 
-b. onafgedekte zonnecollector met een totale apertuuroppervlakte van ten minste 100 m <sup>2</sup>, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie;  
+b. onafgedekte zonnecollector met een totale apertuuroppervlakte van ten minste 100 m<sup>2</sup>, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie;  
 
-c. afgedekte zonnecollector voorzien van een transparante isolerende laag, met een totale apertuuroppervlakte van ten minste 100 m <sup>2</sup>, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie.    
+c. afgedekte zonnecollector voorzien van een transparante isolerende laag, met een totale apertuuroppervlakte van ten minste 100 m<sup>2</sup>, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie.    
 
 2. Hierbij geldt dat: 
 
@@ -991,7 +991,7 @@ B.
 
 3.1 
 
-A. Conversie naar elektrische of mechanische energie,    
+A.  Conversie naar elektrische of mechanische energie,    
 
 3.1 
 
@@ -1071,7 +1071,7 @@ A.
 
 * onder het totaal energetisch rendement wordt verstaan: de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1105,7 +1105,7 @@ B.
 
 * onder het totaal energetisch rendement wordt verstaan: de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1145,7 +1145,7 @@ d. kachel, (eventueel) rookgasreiniger.
 
 * onder het warmterendement wordt verstaan: het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1175,7 +1175,7 @@ b. nagenoeg zuiver vloeibaar biomethaan, en bestaande uit: biogasopwaardeerinsta
 
 * op- en overslagvoorzieningen niet voor Energie-investeringsaftrek in aanmerking komen;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1201,7 +1201,7 @@ E.
 
 * nabehandelingsapparatuur voor het verder verwerken van de reactorproducten en op- en overslagvoorzieningen niet voor Energie-investeringsaftrek in aanmerking komt;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1233,7 +1233,7 @@ F.
 
 * onder een verwarmingsnet wordt verstaan: leidingnet en installatieonderdelen ten behoeve van warmteafgifte binnen het gebouw van de eindverbruiker;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1257,7 +1257,7 @@ G.
 
 2. Hierbij geldt dat: 
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1289,7 +1289,7 @@ c. hydrolysereactor voor het verhogen van de afbraak van cellulose-achtige verbi
 
 * vergistingstanks en voorzieningen voor het nabehandelen van reactorproducten voor andere doeleinden dan biogasproductie (bijvoorbeeld grondstoffenterugwinning) niet voor Energie-investeringsaftrek in aanmerking komen;  
 
-* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO <sub>2</sub> -cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO <sub>2</sub> -cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
+* onder biomassa wordt verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO<sub>2</sub>-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO<sub>2</sub>-cyclus onvermijdelijk in het materiaal aanwezig zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen. Bijvoorbeeld de volgende materiaalstromen: 
 
 – houtafval, sloophout, snoeihout, dunningshout en andere houtachtige stromen;  
 
@@ -1315,7 +1315,7 @@ A.
 
 2. Hierbij geldt dat: 
 
-* hier onder duurzame warmte wordt verstaan: warmte afkomstig van investeringen omschreven onder D.            
+* hier onder duurzame warmte wordt verstaan: warmte afkomstig van investeringen omschreven onder D.           
 
 ### E  
 
@@ -1335,7 +1335,7 @@ a. een rapportage waarin de mogelijkheden om maatregelen te treffen ter verbeter
 
 5. Een overzicht van de noodzakelijke organisatorische en administratieve aanpassingen;  
 
-6. Een raming van de te verwachten investeringskosten en de te verwachten baten. Voor afnemers met een energiegebruik van meer dan 25.000 m <sup>3</sup> aardgas (of aardgasequivalent) of 50.000 kWh elektriciteit per jaar gelden de volgende aanvullende eisen:  
+6. Een raming van de te verwachten investeringskosten en de te verwachten baten. Voor afnemers met een energiegebruik van meer dan 25.000 m<sup>3</sup> aardgas (of aardgasequivalent) of 50.000 kWh elektriciteit per jaar gelden de volgende aanvullende eisen:  
 
 7. Inzicht in alle maatregelen met een terugverdientijd tot en met vijf jaar;  
 
@@ -1359,13 +1359,13 @@ b. een actieplan als omschreven in het EU Motor Challenge Programme. Het maatwer
 
 7. Verwacht energieverbruik;  
 
-8. De terugverdientijd van de voorgestelde maatregelpakketten.      
+8. De terugverdientijd van de voorgestelde maatregelpakketten.     
 
 ### Artikel  2  
 
-1. Bij de investeringen voor de technische voorzieningen als omschreven in artikel 1 dient de energiebesparing voor de investeringen onder: A.1.1.A, A.1.2.A, A.1.3.A, A.2.2.A, A.3.1.A, A.4.1.A, A.4.2.A en A.4.3.A ten minste 0,2 Nm <sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro te bedragen, maar niet meer dan 1,0 Nm <sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro en aantoonbaar het directe gevolg te zijn van het gebruik van het bedrijfsmiddel waarin is geïnvesteerd; B.1.1.A, B.1.2.A, B.1.3.A, B.2.1.A, B.3.1.A, B.4.1.A, B.4.2.A en B.4.3.A ten minste 0,6 Nm <sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro te bedragen, maar niet meer dan 1,5 Nm <sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro en aantoonbaar het directe gevolg te zijn van het gebruik van het bedrijfsmiddel waarin is geïnvesteerd; C.1.1.A, C.1.2.A, C.1.3.A, C.2.1.A, C.2.2.A, C.3.1.A, C.4.1.A, C.4.2.A en C.4.3.A ten minste 0,2 Nm <sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro te bedragen, maar niet meer dan 0,8 Nm <sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro en aantoonbaar het directe gevolg te zijn van het gebruik van het bedrijfsmiddel waarin is geïnvesteerd.  
+1. Bij de investeringen voor de technische voorzieningen als omschreven in artikel 1 dient de energiebesparing voor de investeringen onder: A.1.1.A, A.1.2.A, A.1.3.A, A.2.2.A, A.3.1.A, A.4.1.A, A.4.2.A en A.4.3.A ten minste 0,2 Nm<sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro te bedragen, maar niet meer dan 1,0 Nm<sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro en aantoonbaar het directe gevolg te zijn van het gebruik van het bedrijfsmiddel waarin is geïnvesteerd; B.1.1.A, B.1.2.A, B.1.3.A, B.2.1.A, B.3.1.A, B.4.1.A, B.4.2.A en B.4.3.A ten minste 0,6 Nm<sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro te bedragen, maar niet meer dan 1,5 Nm<sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro en aantoonbaar het directe gevolg te zijn van het gebruik van het bedrijfsmiddel waarin is geïnvesteerd; C.1.1.A, C.1.2.A, C.1.3.A, C.2.1.A, C.2.2.A, C.3.1.A, C.4.1.A, C.4.2.A en C.4.3.A ten minste 0,2 Nm<sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro te bedragen, maar niet meer dan 0,8 Nm<sup>3</sup> aardgasequivalent (a.e.) per jaar per geïnvesteerde euro en aantoonbaar het directe gevolg te zijn van het gebruik van het bedrijfsmiddel waarin is geïnvesteerd.  
 
-2. De in lid 1 gestelde energiebesparing is ook van toepassing indien een besparing plaatsvindt op de fossiele brandstoffen, aardgas, aardolie of steenkool die als grondstof worden ingezet, De in lid 1 gestelde energiebesparing is ook van toepassing indien een besparing op fossiele brandstoffen plaatsvindt door waterstof dat als grondstof of hulpstof wordt ingezet. De in lid 1 gestelde energiebesparing is ook van toepassing indien een besparing op fossiele brandstoffen plaatsvindt door vloeibare- of gasvormige zuurstof of vloeibare- of gasvormige stikstof of vloeibare CO <sub>2</sub> die als hulpstof worden ingezet.  
+2. De in lid 1 gestelde energiebesparing is ook van toepassing indien een besparing plaatsvindt op de fossiele brandstoffen, aardgas, aardolie of steenkool die als grondstof worden ingezet, De in lid 1 gestelde energiebesparing is ook van toepassing indien een besparing op fossiele brandstoffen plaatsvindt door waterstof dat als grondstof of hulpstof wordt ingezet. De in lid 1 gestelde energiebesparing is ook van toepassing indien een besparing op fossiele brandstoffen plaatsvindt door vloeibare- of gasvormige zuurstof of vloeibare- of gasvormige stikstof of vloeibare CO<sub>2</sub> die als hulpstof worden ingezet.  
 
 3. Subsidies of andere bijdragen van derden worden niet in mindering gebracht op het investeringsbedrag waarmee de energiebesparing per geïnvesteerde euro als bedoeld in lid 1 wordt berekend.Bij het berekenen van de energiebesparing per geïnvesteerde euro voor technische voorzieningen dient geen rekening te worden gehouden met verkregen subsidies of andere bijdragen van derden.  
 
@@ -1385,45 +1385,45 @@ b. een actieplan als omschreven in het EU Motor Challenge Programme. Het maatwer
 
 11. Een warmtebuffer of (rest)warmteopslagvat die niet hoofdzakelijk bestemd is voor het opslaan van (rest)warmte vrijkomend bij bedrijfsmiddelen genoemd onder A.1.2.B., A.1.2.C., A.1.2.D., B.1.2.D., B.3.1.B., D.1.1.C., D.1.1.D., D.4.1.A., D.4.1.B., D.5.1.A., D.5.1.B., D.5.1.C. en D.5.1.F. is uitgesloten van Energie-investeringsaftrek.  
 
-12. Maximuminvesteringsbedragen die voor Energie-investeringsaftrek in aanmerking komen, zien op de totale investering in het betreffende bedrijfsmiddel. Dit geldt voor: A.1.2.B., A.1.2.C., A.1.2.F., A.1.2.J., A.1.2.K., A.2.1.B., A.2.1.C., A.2.1.D., B.1.2.M., B.1.2.O., B.2.1.C., B.3.1.B., B.3.1.C., C.1.2.B., C.1.2.G., C.1.3.C., C.1.3.D., D.2.1.A., D.2.1.B.    
+12. Maximuminvesteringsbedragen die voor Energie-investeringsaftrek in aanmerking komen, zien op de totale investering in het betreffende bedrijfsmiddel. Dit geldt voor: A.1.2.B., A.1.2.C., A.1.2.F., A.1.2.J., A.1.2.K., A.2.1.B., A.2.1.C., A.2.1.D., B.1.2.M., B.1.2.O., B.2.1.C., B.3.1.B., B.3.1.C., C.1.2.B., C.1.2.G., C.1.3.C., C.1.3.D., D.2.1.A., D.2.1.B.   
 
 ### Artikel  3  
 
 Bij de berekening van de besparing gelden de volgende omrekenfactoren: 
 
-– 1 kWh elektrische energie komt overeen met 0,26 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 kWh elektrische energie komt overeen met 0,26 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 liter huisbrandolie komt overeen met 1,2 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 liter huisbrandolie komt overeen met 1,2 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton stookolie komt overeen met 1.300 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton stookolie komt overeen met 1.300 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton steenkool komt overeen met 925 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton steenkool komt overeen met 925 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 liter vloeibaar propaan komt overeen met 0,73 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 liter vloeibaar propaan komt overeen met 0,73 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 liter LPG ten behoeve van wegvervoer komt overeen met 0,95 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 liter LPG ten behoeve van wegvervoer komt overeen met 0,95 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 liter diesel ten behoeve van wegvervoer komt overeen met 1,13 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 liter diesel ten behoeve van wegvervoer komt overeen met 1,13 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 liter benzine ten behoeve van wegvervoer komt overeen met 1,04 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 liter benzine ten behoeve van wegvervoer komt overeen met 1,04 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 kilogram gasvormig waterstof komt overeen met 4,0 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 kilogram gasvormig waterstof komt overeen met 4,0 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton gasvormige zuurstof komt overeen met 104 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton gasvormige zuurstof komt overeen met 104 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton gasvormige stikstof komt overeen met 65 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton gasvormige stikstof komt overeen met 65 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton vloeibare zuurstof komt overeen met 260 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton vloeibare zuurstof komt overeen met 260 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton vloeibare stikstof komt overeen met 208 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton vloeibare stikstof komt overeen met 208 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 ton vloeibare kooldioxide (CO <sub>2</sub>) komt overeen met 49 Nm <sup>3</sup> aardgasequivalent (a.e.);  
+– 1 ton vloeibare kooldioxide (CO<sub>2</sub>) komt overeen met 49 Nm<sup>3</sup> aardgasequivalent (a.e.);  
 
-– 1 Nm <sup>3</sup> niet-Gronings aardgas komt overeen met X Nm <sup>3</sup> aardgasequivalenten (a.e.).   Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm <sup>3</sup> van het ingezette aardgas te delen door 31,65 MJ/Nm <sup>3</sup>. Indien een brandstof wordt gebruikt die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm <sup>3</sup>.  
+– 1 Nm<sup>3</sup> niet-Gronings aardgas komt overeen met X Nm<sup>3</sup> aardgasequivalenten (a.e.).   Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm<sup>3</sup> van het ingezette aardgas te delen door 31,65 MJ/Nm<sup>3</sup>. Indien een brandstof wordt gebruikt die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm<sup>3</sup>. 
 
 ### Artikel  4  
 
-1. De voorwaarden als bedoeld in artikel 3.42, vijfde lid, van de wet waaronder de kosten van een daar bedoeld advies inzake energiebesparende maatregelen kunnen worden begrepen onder de aanschaffings- of voortbrengingskosten van een energie-investering, zijn: 
+1. De voorwaarden als bedoeld in [artikel 3.42, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) waaronder de kosten van een daar bedoeld advies inzake energiebesparende maatregelen kunnen worden begrepen onder de aanschaffings- of voortbrengingskosten van een energie-investering, zijn: 
 
 a. de energie-investering vindt plaats binnen 24 maanden na het tijdstip waarop de opdracht tot het advies is verstrekt;  
 
@@ -1431,15 +1431,15 @@ b. de energie-investering is aanbevolen in het advies;
 
 c. de kosten van het advies worden niet tevens toegerekend aan andere energie-investeringen; en  
 
-d. artikel 3.46, eerste lid, onderdeel a, b, en d van de wet en artikel 8, zevende lid, onderdeel b en c, van de Wet op de vennootschapsbelasting 1969 zijn van overeenkomstige toepassing.    
+d. [artikel 3.46, eerste lid, onderdeel a, b, en d van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [artikel 8, zevende lid, onderdeel b en c, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) zijn van overeenkomstige toepassing.    
 
 2. Bij een gecombineerd energie-milieuadvies wordt 50% van de totale advieskosten toegerekend aan het energie-advies.  
 
 3. Bij de berekening van de energiebesparing per geïnvesteerde euro voor investeringen als bedoeld in artikel 2, blijven bij het geïnvesteerde bedrag de kosten van het energie-advies buiten beschouwing.  
 
-4. Een object is een bestaand totaal bedrijfsgebouw of een bestaand totaal proces dat apart bemeterd is voor energiedragers.    
+4. Een object is een bestaand totaal bedrijfsgebouw of een bestaand totaal proces dat apart bemeterd is voor energiedragers.   
 
 ### Artikel  5  
 
-Voor investeringen onder A.5 Energieprestatieverbetering van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd onder A.5 moeten zijn aangegaan.  
+Voor investeringen onder A.5 Energieprestatieverbetering van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd onder A.5 moeten zijn aangegaan. 
 

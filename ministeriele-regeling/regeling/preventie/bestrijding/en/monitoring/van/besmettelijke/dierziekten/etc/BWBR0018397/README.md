@@ -47,7 +47,7 @@ Gelet op:
 
 – beschikking nr. 2003/100/EG van de Commissie van de Europese Gemeenschappen van 13 februari 2003 tot vaststelling van minimumeisen voor fokprogramma’s ter verkrijging van resistentie tegen overdraagbare spongiforme encefalopathieën bij schapen (PbEG L 041);
 
-Gelet op de [artikelen 10, eerste en tweede lid, onderdelen b en c](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [11, eerste lid](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [15](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [23](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [25, tweede lid](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [26](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [30](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [31](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [77](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [81](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [94](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [100](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [107](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [108a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [artikel 10a van de Veewet](../../../../../../../../../../../wet/veewet/BWBR0001900/README.md), [artikel 19 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [artikel 7, tweede en derde lid van de wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), de [artikelen 3](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en [5 van het Besluit verdachte dieren](../../../../../../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md), de [artikelen 3](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en [3a van het Besluit bescherming tegen bepaalde zoönosen en besmettelijke dierziekten](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md), de [artikelen 2](../../../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) en [3 van het Besluit gebruik sera en entstoffen](../../../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md);
+Gelet op de artikelen 10, eerste en tweede lid, onderdelen b en c, 11, eerste lid, 15, 17, 18, 23, 25, tweede lid, 26, 30, 31, 77, 81, 94, 100 en 107, 108 en 108a van de Gezondheids- en welzijnswet voor dieren, artikel 10a van de Veewet, artikel 19 van de Landbouwwet, artikel 7, tweede en derde lid van de wet op de uitoefening van de diergeneeskunde 1990, de artikelen 3 en 5 van het Besluit verdachte dieren, de artikelen 3 en 3a van het Besluit bescherming tegen bepaalde zoönosen en besmettelijke dierziekten, de artikelen 2 en 3 van het Besluit gebruik sera en entstoffen;
 Besluit:     
 ### Titel  1  
 
@@ -65,11 +65,11 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a. wet: Gezondheids- en welzijnswet voor dieren;  
 
-b. minister: Minister van Landbouw, Natuur en Voedselkwaliteit;  
+b. minister: Minister van Economische Zaken;  
 
-c. VWA: Voedsel en Waren Autoriteit;  
+c. NVWA: Nederlandse Voedsel- en Warenautoriteit;  
 
 d. evenhoevigen: varkens, runderen, schapen, geiten of herten;  
 
@@ -177,7 +177,7 @@ ao. geaccrediteerde keuringsinstantie: keuringsinstantie, ten aanzien waarvan:
 
 2°. door de Nederlandse Raad voor Accreditatie of een gelijkwaardige buitenlandse instantie is verklaard dat de keuringsinstantie voldoet aan de criteria van EN 45004 en ISO 17020 en de relevante criteria van ISO 9001/9002, voorzover deze verklaring betrekking heeft op verrichtingen in de veehouderij, en de keuringsinstantie aan de Nederlandse Raad voor Accreditatie of een gelijkwaardige buitenlandse instantie heeft verzocht te verklaren dat de keuringsinstantie aan genoemde criteria voldoet met betrekking tot het bedrijfsrapport, bedoeld in artikel 79, tweede lid, onderdeel m.    
 
-ap. UBN: UBN als bedoeld in de [Regeling identificatie en registratie van dieren](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  
+ap. UBN: UBN als bedoeld in de Regeling identificatie en registratie van dieren;  
 
 aq. AI-gevoelige dieren: gehouden dieren van een soort behorende tot de orde van de hoenderachtigen (*Galliformes*), tot de familie van de eenden, ganzen en zwanen (*Anatidae*), tot de families van de struisvogels (*Struthionidae*), emoes (*Dromaiidae*) en nandoes (*Rheidae*) en voor consumptie gehouden duiven (*Columba Livia*);  
 
@@ -195,9 +195,9 @@ aw. leghennen: dieren bestemd voor productie van consumptie-eieren;
 
 ax. reproductiedieren: dieren bestemd voor productie van broedeieren;  
 
-ay. keuringsdierenarts: bevoegde, door de VWA met werkzaamheden belaste dierenarts;  
+ay. keuringsdierenarts: bevoegde, door de NVWA met werkzaamheden belaste dierenarts;  
 
-az. assistent: door de VWA met werkzaamheden belaste persoon, niet zijnde een dierenarts;  
+az. assistent: door de NVWA met werkzaamheden belaste persoon, niet zijnde een dierenarts;  
 
 ba. verordening (EG) nr. 2160/2003: verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van de Europese Unie van 17 november 2003 inzake de bestrijding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEG L 325);  
 
@@ -251,7 +251,7 @@ by. *verordening (EG) nr. 175/2010:* verordening (EG) nr. 175/2010 van de Commis
 
 bz. Verordening (EG) nr. 998/2003: Verordening (EG) nr. 998/2003 van het Europees Parlement en de Raad van de Europese Unie van 26 mei 2003 inzake veterinairrechtelijke voorschriften voor het niet-commerciële verkeer van gezelschapsdieren en houdende wijziging van Richtlijn 92/95/EEG van de Raad (PbEU L 146).     
 2.  Voor de toepassing van artikel 13 wordt onder abortus verstaan: het spontaan meer dan 21 dagen eerder dan de gemiddelde draagtijd van het desbetreffende runderras ter wereld brengen van een vrucht of vruchten door een rund, ingeval de dracht meer dan 100 dagen heeft geduurd.   
-3.  Voor de toepassing van titel 2, hoofdstuk 1, paragraaf 7, wordt verstaan onder werkzaamheden: controle als bedoeld in [artikel 18, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
+3.  Voor de toepassing van titel 2, hoofdstuk 1, paragraaf 7, wordt verstaan onder werkzaamheden: controle als bedoeld in artikel 18, tweede lid, van de wet.   
 
 ### Hoofdstuk  2  
 
@@ -263,7 +263,7 @@ bz. Verordening (EG) nr. 998/2003: Verordening (EG) nr. 998/2003 van het Europee
 
 ### Artikel  2  
 
-Als besmettelijke dierziekten als bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bij vee worden aangewezen: 
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij vee worden aangewezen: 
 
 a. runderpest;  
 
@@ -325,7 +325,7 @@ ac. Q-koorts.
 
 ### Artikel  3  
 
-Als besmettelijke dierziekten als bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bij pluimvee worden aangewezen: 
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij pluimvee worden aangewezen: 
 
 a. vogelpest (Aviaire Influenza);  
 
@@ -333,7 +333,7 @@ b. pseudo-vogelpest (Newcastle Disease).
 
 ### Artikel  4  
 
-Als besmettelijke dierziekten als bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bij bijen worden aangewezen: 
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij bijen worden aangewezen: 
 
 a. Amerikaans vuilbroed;  
 
@@ -343,7 +343,7 @@ c. Tropilaelapsmijt (Tropilaelaps spp).
 
 ### Artikel  5  
 
-Als besmettelijke dierziekten als bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bij nertsen worden aangewezen: 
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij nertsen worden aangewezen: 
 
 a. rabies;  
 
@@ -359,7 +359,7 @@ f. miltvuur;
 
 ### Artikel  6  
 
-Als besmettelijke dierziekten als bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bij zoogdieren niet zijnde vee en nertsen worden aangewezen: 
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij zoogdieren niet zijnde vee en nertsen worden aangewezen: 
 
 a. rabies;  
 
@@ -387,7 +387,7 @@ l. apenpokken.
 
 ### Artikel  7  
 
-Als besmettelijke dierziekten als bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bij andere vogels dan pluimvee worden aangewezen: 
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij andere vogels dan pluimvee worden aangewezen: 
 
 a. psittacose;  
 
@@ -397,7 +397,7 @@ c. vogelpest (Aviaire Influenza).
 
 ### Artikel  8  
 
-Als besmettelijke dierziekten, bedoeld in [artikel 15 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), bij gevoelige soorten van aquacultuurdieren worden aangewezen: 
+Als besmettelijke dierziekten, bedoeld in artikel 15 van de wet, bij gevoelige soorten van aquacultuurdieren worden aangewezen: 
 
 a. de exotische ziekten vermeld in bijlage IV, deel II van richtlijn nr. 2006/88/EG voor de bijbehorende, in dezelfde bijlage vermelde gevoelige soorten,  
 
@@ -411,7 +411,7 @@ c. OsHV-1 µvar als bedoeld in verordening (EG) nr. 175/2010.
 
 ### Artikel  10  
 
-Als andere besmettelijke dierziekten als bedoeld in [artikel 100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) worden aangewezen: 
+Als andere besmettelijke dierziekten als bedoeld in artikel 100 van de wet worden aangewezen: 
 
 a. salmonellose;  
 
@@ -431,12 +431,12 @@ h. zwoegerziekte.
 
 ### Artikel  11  
 
-1.  De verplichting tot kennisgeving, bedoeld in [artikel 100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), van verschijnselen van BSE geldt in elk geval met betrekking tot runderen ouder dan twintig maanden, die gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratoriumonderzoek niet kan worden uitgesloten.   
-2.  De verplichting tot kennisgeving, bedoeld in [artikel 100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), van verschijnselen van scrapie geldt in elk geval met betrekking tot schapen en geiten ouder dan twaalf maanden, die gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratorium-onderzoek niet kan worden uitgesloten.   
+1.  De verplichting tot kennisgeving, bedoeld in artikel 100 van de wet, van verschijnselen van BSE geldt in elk geval met betrekking tot runderen ouder dan twintig maanden, die gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratoriumonderzoek niet kan worden uitgesloten.   
+2.  De verplichting tot kennisgeving, bedoeld in artikel 100 van de wet, van verschijnselen van scrapie geldt in elk geval met betrekking tot schapen en geiten ouder dan twaalf maanden, die gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratorium-onderzoek niet kan worden uitgesloten.   
 
 ### Artikel  11a  
 
-De verplichting tot kennisgeving, bedoeld in de [artikelen 19](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), geldt in elk geval indien uit het onderzoek, bedoeld in [artikel 5.1.4 van de Regeling tijdelijke maatregelen dierziekten](../../../../../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md), de aanwezigheid van de bacterie Coxiella burnetii, die Q-koorts veroorzaakt, is aangetoond in de schapen- of geitenmelk die wordt bewaard in een melkkoeltank.  
+De verplichting tot kennisgeving, bedoeld in de artikelen 19 en 100 van de wet, geldt in elk geval indien uit het onderzoek, bedoeld in artikel 5.1.4 van de Regeling tijdelijke maatregelen dierziekten, de aanwezigheid van de bacterie Coxiella burnetii, die Q-koorts veroorzaakt, is aangetoond in de schapen- of geitenmelk die wordt bewaard in een melkkoeltank.  
 
 ### §  2a  
 
@@ -444,7 +444,7 @@ De verplichting tot kennisgeving, bedoeld in de [artikelen 19](../../../../../..
 
 ### Artikel  11b  
 
-1.  De personen, bedoeld in het tweede lid, doen onmiddellijk melding aan een ambtenaar als bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) van de volgende situaties: 
+1.  De personen, bedoeld in het tweede lid, doen onmiddellijk melding aan een ambtenaar als bedoeld in artikel 114, tweede lid, van de wet van de volgende situaties: 
 
 a. een waterdier vertoont verschijnselen van een ziekte, bedoeld in artikel 8;  
 
@@ -475,33 +475,33 @@ g. andere personen die beroepshalve betrokken zijn bij waterdieren van gevoelige
 
 ### Artikel  13  
 
-1.  Aan de houder van een rund wordt ingeval een rund abortus ondergaat vrijstelling verleend van de verplichting tot kennisgeving van dit verschijnsel van brucellose, bedoeld in [artikel 19 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), indien wordt voldaan aan het tweede en derde lid.   
-2.  De houder stuurt binnen 7 dagen na de abortus een door een dierenarts bij dat rund genomen bloedmonster aan een door de minister van LNV aangewezen laboratorium ten behoeve van overeenkomstig bijlage C bij richtlijn nr. 64/432/EEG uit te voeren serologisch onderzoek.   
-3.  Zodra de houder ervan op de hoogte is gesteld dat de abortus blijkens het in het tweede lid bedoelde onderzoek vermoedelijk aan brucellose te wijten is, geeft de houder terstond kennis van dit vermoeden aan de ambtenaar, bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
-4.  Het eerste tot en met het derde lid zijn van overeenkomstige toepassing op de verplichting tot kennisgeving door de dierenarts, bedoeld in [artikel 100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), van brucellose bij een rund.   
+1.  Aan de houder van een rund wordt ingeval een rund abortus ondergaat vrijstelling verleend van de verplichting tot kennisgeving van dit verschijnsel van brucellose, bedoeld in artikel 19 van de wet, indien wordt voldaan aan het tweede en derde lid.   
+2.  De houder stuurt binnen 7 dagen na de abortus een door een dierenarts bij dat rund genomen bloedmonster aan een door de minister aangewezen laboratorium ten behoeve van overeenkomstig bijlage C bij richtlijn nr. 64/432/EEG uit te voeren serologisch onderzoek.   
+3.  Zodra de houder ervan op de hoogte is gesteld dat de abortus blijkens het in het tweede lid bedoelde onderzoek vermoedelijk aan brucellose te wijten is, geeft de houder terstond kennis van dit vermoeden aan de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet.   
+4.  Het eerste tot en met het derde lid zijn van overeenkomstige toepassing op de verplichting tot kennisgeving door de dierenarts, bedoeld in artikel 100 van de wet, van brucellose bij een rund.   
 
 ### Artikel  13a  
 
-1.  Vrijstelling van de verplichting tot kennisgeving, bedoeld in [artikel 19 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), van verschijnselen van Q-koorts, wordt verleend aan: 
+1.  Vrijstelling van de verplichting tot kennisgeving, bedoeld in artikel 19 van de wet, van verschijnselen van Q-koorts, wordt verleend aan: 
 
 a. de houder van een rund;  
 
 b. de houder van een eenhoevige, en  
 
 c. de houder van een varken.     
-2.  Het eerste lid is van overeenkomstige toepassing op de verplichting tot kennisgeving, bedoeld in [artikel 100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), van verschijnselen van Q-koorts door de dierenarts.   
+2.  Het eerste lid is van overeenkomstige toepassing op de verplichting tot kennisgeving, bedoeld in artikel 100 van de wet, van verschijnselen van Q-koorts door de dierenarts.   
 
 ### §  4  
 
-####De termijnen, bedoeld in de [artikelen 3, laatste onderdeel oo](../../../../../../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md), en [5, eerste lid, laatste onderdeel mm, van het Besluit verdachte dieren](../../../../../../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md)
+####De termijnen, bedoeld in de artikelen 3, laatste onderdeel oo, en 5, eerste lid, laatste onderdeel mm, van het Besluit verdachte dieren
 
 ### Artikel  14  
 
-De termijn, bedoeld in [artikel 3, onderdeel hh, van het Besluit verdachte dieren](../../../../../../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md) is bij TSE’s bij schapen en geiten 7 jaar.  
+De termijn, bedoeld in artikel 3, onderdeel hh, van het Besluit verdachte dieren is bij TSE’s bij schapen en geiten 7 jaar.  
 
 ### Artikel  15  
 
-De termijn, bedoeld in [artikel 5, eerste lid, onderdeel ff, van het Besluit verdachte dieren](../../../../../../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md) is bij TSE’s bij schapen en geiten 2 jaar.  
+De termijn, bedoeld in artikel 5, eerste lid, onderdeel ff, van het Besluit verdachte dieren is bij TSE’s bij schapen en geiten 2 jaar.  
 
 ### Titel  2  
 
@@ -526,7 +526,7 @@ Het is verboden om in strijd te handelen met de bepalingen van deze titel.
 2.  Indien een of meer evenhoevigen worden aangevoerd op een slachthuis dient deze te beschikken over een reinigings- en ontsmettingsplaats voor vervoermiddelen die is erkend ingevolge artikel 26, eerste lid.   
 3.  In afwijking van het tweede lid mogen een of meer evenhoevigen worden aangevoerd op een slachthuis met geringe capaciteit indien deze beschikt over een voorziening met voldoende capaciteit in relatie tot de werkzaamheden van het slachthuis, die zodanig is ingericht dat een deugdelijke en efficiënte reiniging en ontsmetting van vervoermiddelen kan plaatsvinden ongeacht het type vervoermiddel en voldoet aan de eisen, bedoeld in bijlage 9. De reiniging en ontsmetting wordt overeenkomstig een door de minister goedgekeurd protocol op zodanige wijze uitgevoerd dat de bioveiligheid niet in gevaar komt.   
 4.  De eigenaar of exploitant van een slachthuis met geringe capaciteit als bedoeld in het derde lid, houdt een register bij met daarin de gegevens, bedoeld in artikel 28, tweede lid en bewaart dit overeenkomstig artikel 28, derde lid.   
-5.  De eigenaar of exploitant van een slachthuis met geringe capaciteit als bedoeld in artikel 59, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s zoals deze luidde op het moment van inwerkingtreding van deze regeling, dient uiterlijk binnen drie maanden het protocol, bedoeld in het derde lid, ter goedkeuring in bij de VWA en werkt uiterlijk zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.   
+5.  De eigenaar of exploitant van een slachthuis met geringe capaciteit als bedoeld in artikel 59, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s zoals deze luidde op het moment van inwerkingtreding van deze regeling, dient uiterlijk binnen drie maanden het protocol, bedoeld in het derde lid, ter goedkeuring in bij de NVWA en werkt uiterlijk zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.   
 6.  In afwijking van het tweede lid mogen een of meer evenhoevigen worden aangevoerd op een slachthuis met geringe capaciteit die bij inwerkingtreding van deze regeling over een vergunning beschikt die is afgegeven op grond van artikel 59, vijfde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s deze zoals deze luidde op het moment van inwerkingtreding van deze regeling.   
 
 ### Artikel  19  
@@ -556,7 +556,7 @@ b. het verzamelcentrum zodanig is gelegen, ontworpen en geconstrueerd en op zoda
 
 c. op het verzamelcentrum een of meer reinigings- en ontsmettingsplaatsen die allen voldoen aan de eisen, genoemd in artikel 26, aanwezig zijn om vervoermiddelen te reinigen en ontsmetten.     
 2.  Indien een runderverzamelcentrum bestaat uit meer epidemiologische bedrijfseenheden, voldoen al deze eenheden aan artikel 1, onderdeel u, en wordt het aantal eenheden vermeld in de erkenning.   
-3.  Indien het varkensverzamelcentrum subsidie heeft ontvangen op grond van de [Subsidieregeling sanering verzamelcentra varkens](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sanering/verzamelcentra/varkens/BWBR0009818/README.md) wordt het verzamelcentrum niet erkend.   
+3.  Indien het varkensverzamelcentrum subsidie heeft ontvangen op grond van de Subsidieregeling sanering verzamelcentra varkens wordt het verzamelcentrum niet erkend.   
 4.  Een schapen- en geitenverzamelcentrum wordt door de minister erkend indien: 
 
 a. het verzamelcentrum voldoet aan de eisen, genoemd in artikel 8bis, eerste lid, onderdeel d, van richtlijn nr. 91/68/EEG;  
@@ -569,7 +569,7 @@ c. op het verzamelcentrum een of meer reinigings- en ontsmettingsplaatsen die al
 
 ### Artikel  22  
 
-1.  Een aanvraag om een erkenning als bedoeld in artikel 21, eerste en vierde lid, wordt ingediend bij de VWA.   
+1.  Een aanvraag om een erkenning als bedoeld in artikel 21, eerste en vierde lid, wordt ingediend bij de NVWA.   
 2.  De aanvraag gaat vergezeld van een protocol als bedoeld in artikel 21, zesde lid.   
 3.  Indien een runderverzamelcentrum bestaat uit meer epidemiologische bedrijfseenheden, wordt op de aanvraag het aantal eenheden vermeld.   
 
@@ -579,7 +579,7 @@ c. op het verzamelcentrum een of meer reinigings- en ontsmettingsplaatsen die al
 
 a. voldoet aan de eisen, genoemd in artikel 11, eerste lid, onderdelen c en e, van richtlijn nr. 64/432/EEG;  
 
-b. voldoet aan de artikelen 9 en 17 van verordening (EG) nr. 1/2005, de [artikelen 36](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [37 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 3](../../../../../../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md) en [4 van het Besluit welzijn productiedieren](../../../../../../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md);  
+b. voldoet aan de artikelen 9 en 17 van verordening (EG) nr. 1/2005, de artikelen 36 en 37 van de wet en de artikelen 3 en 4 van het Besluit welzijn productiedieren;  
 
 c. wordt geëxploiteerd conform het door de minister goedgekeurde protocol;  
 
@@ -591,9 +591,9 @@ e. voldoet aan:
 
 – de artikelen 36, 37, 38, 41 en 43 tot en met 46, voor zover het een runderverzamelcentrum betreft;  
 
-– de [artikelen 30, eerste lid](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), [31](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), [32](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) en [39 van de Regeling identificatie en registratie van dieren](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), voor zover het een varkensverzamelcentrum betreft;  
+– de artikelen 30, eerste lid, 31, 32 en 39 van de Regeling identificatie en registratie van dieren, voor zover het een varkensverzamelcentrum betreft;  
 
-– de [artikelen 19](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) en [20, eerste lid](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), [21](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) en [39 van de Regeling identificatie en registratie van dieren](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), voor zover het een runderverzamelcentrum betreft.       
+– de artikelen 19 en 20, eerste lid, 21 en 39 van de Regeling identificatie en registratie van dieren, voor zover het een runderverzamelcentrum betreft.       
 2.  De eigenaar of exploitant van een verzamelcentrum dat is erkend ingevolge artikel 21, houdt een voor de toezichthouder toegankelijk register bij met daarin de gegevens, bedoeld in artikel 11, tweede lid, van richtlijn nr. 64/432/EEG, en de gegevens, bedoeld in artikel 28, tweede lid.   
 3.  Het register, bedoeld in het tweede lid, wordt minimaal drie jaren bewaard.   
 
@@ -603,7 +603,7 @@ e. voldoet aan:
 
 a. voldoet aan de eisen genoemd in artikel 8bis, eerste lid, onderdeel c en e, van richtlijn nr. 91/68/EEG;  
 
-b. voldoet aan de artikelen 9 en 17 van verordening (EG) nr. 1/2005, de [artikelen 36](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [37 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 3](../../../../../../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md) en [4 van het Besluit welzijn productiedieren](../../../../../../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md);  
+b. voldoet aan de artikelen 9 en 17 van verordening (EG) nr. 1/2005, de artikelen 36 en 37 van de wet en de artikelen 3 en 4 van het Besluit welzijn productiedieren;  
 
 c. wordt geëxploiteerd conform het door de minister goedgekeurde protocol;  
 
@@ -613,7 +613,7 @@ e. voldoet aan:
 
 – de artikelen 36, 37, 38, 41 en 47;  
 
-– de [artikelen 38b](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), [38d](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), [39](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) en [44c, vijfde lid, van de Regeling identificatie en registratie van dieren](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md).       
+– de artikelen 38b, 38d, 39 en 44c, vijfde lid, van de Regeling identificatie en registratie van dieren.       
 2.  De eigenaar of exploitant van een verzamelcentrum dat is erkend ingevolge artikel 21, vierde lid, houdt een voor de toezichthouder toegankelijk register bij met daarin de gegevens, bedoeld in artikel 8bis, tweede lid, van richtlijn nr. 91/68/EEG, en de gegevens, bedoeld in artikel 28, tweede lid.   
 3.  Het register, bedoeld in het tweede lid, wordt minimaal drie jaren bewaard.   
 
@@ -639,9 +639,9 @@ b. de erkenning met onmiddellijke ingang schorsen of intrekken.
 
 ### Artikel  27  
 
-1.  De aanvraag om een erkenning als bedoeld in artikel 26, eerste lid, wordt schriftelijk ingediend bij de VWA.   
+1.  De aanvraag om een erkenning als bedoeld in artikel 26, eerste lid, wordt schriftelijk ingediend bij de NVWA.   
 2.  De aanvraag gaat vergezeld van het protocol, bedoeld in artikel 26, tweede lid.   
-3.  De minister houdt een register bij van erkende reinigings- en ontsmettingsplaatsen dat ter inzage ligt bij de VWA.   
+3.  De minister houdt een register bij van erkende reinigings- en ontsmettingsplaatsen dat ter inzage ligt bij de NVWA.   
 
 ### Artikel  28  
 
@@ -714,11 +714,12 @@ d. in het geval het vervoer van schapen of geiten betreft de gegevens, bedoeld i
 ### Artikel  34  
 
 1.  Een vervoermiddel waarmee een of meer evenhoevigen in Nederland worden gebracht, afkomstig uit een lidstaat of een derde land, en dat wordt gelost op een plaats die niet beschikt over een ingevolge artikel 26, eerste lid, erkende reinigings- en ontsmettingsplaats, wordt na reiniging en ontsmetting als bedoeld in artikel 31, eerste lid, onmiddellijk vervoerd naar een ingevolge artikel 26, eerste lid, erkende reinigings- en ontsmettingsplaats, om aldaar te worden gereinigd en ontsmet.   
-2.  Indien het vervoermiddel, bedoeld in het eerste lid, afkomstig is vanuit een lidstaat waar een uitbraak van een besmettelijke dierziekte als bedoeld in artikel 2, onderdeel a, b, c, d, l, s, t, u, v, x, y, z, is bevestigd, overlegt de vervoerder binnen 24 uur na binnenkomst in Nederland aan de VWA een bewijs van de reiniging en ontsmetting waaruit in ieder geval blijkt welk lokaal referentienummer en voor zover van toepassing welk referentienummer van het certificaat, bedoeld in verordening (EG) nr. 599/2004, het meest recentelijk voor het desbetreffende vervoermiddel is afgegeven.   
+2.  Indien het vervoermiddel, bedoeld in het eerste lid, afkomstig is vanuit een lidstaat waar een uitbraak van een besmettelijke dierziekte als bedoeld in artikel 2, onderdeel a, b, c, d, l, s, t, u, v, x, y, z, is bevestigd, overlegt de vervoerder binnen 24 uur na binnenkomst in Nederland aan de NVWA een bewijs van de reiniging en ontsmetting waaruit in ieder geval blijkt welk lokaal referentienummer en voor zover van toepassing welk referentienummer van het certificaat, bedoeld in verordening (EG) nr. 599/2004, het meest recentelijk voor het desbetreffende vervoermiddel is afgegeven.   
 
 ### Artikel  35  
 
-Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen in derde landen, alsmede in lidstaten waar een uitbraak van een besmettelijke dierziekte als bedoeld in artikel 2, onderdeel a, b, c, d, l, s, t, u, v, x, y, z, is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge artikel 26, eerste lid, erkende reiniging- en ontsmettingsplaats voor vervoermiddelen. De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de VWA een bewijs van de reiniging en ontsmetting waaruit in ieder geval blijkt welk lokaal referentienummer en voor zover van toepassing welk referentienummer van het certificaat, bedoeld in verordening (EG) nr. 599/2004, het meest recentelijk voor het desbetreffende vervoermiddel is afgegeven.  
+1.   Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen in derde landen, alsmede in lidstaten waar een uitbraak van een besmettelijke dierziekte als bedoeld in artikel 2, onderdeel a, b, c, d, l, s, t, u, v, x, y of z, bij gehouden dieren is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge artikel 26, eerste lid, erkende reiniging- en ontsmettingsplaats voor vervoermiddelen. De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de NVWA een bewijs van de reiniging en ontsmetting waaruit in ieder geval blijkt welk lokaal referentienummer en voor zover van toepassing welk referentienummer van het certificaat, bedoeld in verordening (EG) nr. 599/2004, het meest recentelijk voor het desbetreffende vervoermiddel is afgegeven.  
+2.  Het eerste lid is van overeenkomstige toepassing op een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen in Litouwen en vanuit daar anders dan in doorvoer leeg in Nederland wordt gebracht.   
 
 ### Hoofdstuk  4  
 
@@ -788,7 +789,7 @@ e. een tentoonstelling of een keuring.
 
 ### Artikel  41  
 
-De aanbieder meldt de aanvang en het einde van een blokperiode uiterlijk om 7.00 uur op de werkdag voorafgaande aan de blokperiode aan de VWA.  
+De aanbieder meldt de aanvang en het einde van een blokperiode uiterlijk om 7.00 uur op de werkdag voorafgaande aan de blokperiode aan de NVWA.  
 
 ### §  4.4.2  
 
@@ -804,7 +805,7 @@ b. ingeval de varkens fok- en gebruiksvarkens zijn en afkomstig zijn uit een and
 
 c. naar een of meer bestemmingen buiten Nederland onder de volgende voorwaarden, ingeval de varkens afkomstig zijn: 
 
-– uit Nederland gaan deze vergezeld van een of meer bewijsstukken als bedoeld in [artikel 77, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– uit Nederland gaan deze vergezeld van een of meer bewijsstukken als bedoeld in artikel 77, tweede lid, van de wet;  
 
 – uit een lidstaat gaan deze vergezeld van de gezondheidscertificaten, bedoeld in artikel 5, eerste en vijfde lid, van richtlijn nr. 64/432/EEG.      
 
@@ -815,12 +816,13 @@ c. naar een of meer bestemmingen buiten Nederland onder de volgende voorwaarden,
 ### Artikel  43  
 
 1.  Fokrunderen worden van een ingevolge artikel 21 erkend runderverzamelcentrum rechtstreeks afgevoerd naar één of meer niet in Nederland gelegen bedrijven.   
-2.  In afwijking van het eerste lid, worden de runderen, indien aan het einde van een blokperiode de fokrunderen niet zijn afgevoerd, na voorafgaande kennisgeving aan de VWA met gebruikmaking van een daartoe ter beschikking gesteld formulier: 
+2.  In afwijking van het eerste lid, worden de runderen, indien aan het einde van een blokperiode de fokrunderen niet zijn afgevoerd, na voorafgaande kennisgeving aan de NVWA met gebruikmaking van een daartoe ter beschikking gesteld formulier: 
 
 a. door de aanbieder rechtstreeks afgevoerd naar een slachthuis;  
 
-b. op het verzamelcentrum voor een periode van 21 dagen in een epidemiologische bedrijfseenheid gescheiden gehouden van andere fokrunderen waarna de fokrunderen rechtstreeks worden vervoerd naar een in Nederland gelegen bedrijf.     
+b. op het verzamelcentrum voor een periode van 21 dagen in een epidemiologische bedrijfseenheid gescheiden gehouden van andere fokrunderen als zij nog niet ten minste 21 dagen in afzondering hebben gestaan waarna de fokrunderen rechtstreeks worden vervoerd naar een in Nederland gelegen bedrijf.     
 3.  De periode, bedoeld in het tweede lid, onderdeel b, vangt aan nadat het laatste fokrund aan de epidemiologische eenheid is toegevoegd.   
+4.  In afwijking van het eerste lid, worden de runderen, indien aan het einde van een blokperiode de fokrunderen niet zijn afgevoerd, op het verzamelcentrum gescheiden gehouden van andere fokrunderen voor ten hoogste de periode die benodigd is voor het verkrijgen van de resultaten van testen op besmettelijke dierziekten die bij de desbetreffende fokrunderen binnen de blokperiode zijn uitgevoerd, waarna de fokrunderen rechtstreeks worden vervoerd naar één of meer niet in Nederland gelegen bedrijven.   
 
 ### Artikel  44  
 
@@ -870,22 +872,24 @@ In dit hoofdstuk wordt verstaan onder:
 
 a. organisator: organisator van een tentoonstelling of keuring;  
 
-b. plaats: plaats waar tentoonstelling of keuring wordt gehouden;  
-
-c. schapen of geiten: schapen of geiten, die individueel geregistreerd staan bij het Individuele Dier Registratiesysteem van de Gezondheidsdienst voor Dieren.    
+b. plaats: plaats waar tentoonstelling of keuring wordt gehouden.    
 
 ### Artikel  50  
 
-1.  De organisator stelt ten minste 30 dagen voorafgaand aan de datum waarop de tentoonstelling of keuring zal plaatsvinden de VWA schriftelijk in kennis van naam, adres en telefoonnummer van de organisator van de tentoonstelling of keuring, de datum en plaats, alsmede het UBN van de plaats, en het aantal runderen, schapen of geiten dat wordt tentoongesteld of gekeurd.   
+1.  De organisator stelt ten minste 30 dagen voorafgaand aan de datum waarop de tentoonstelling of keuring zal plaatsvinden de NVWA schriftelijk in kennis van naam, adres en telefoonnummer van de organisator van de tentoonstelling of keuring, de datum en plaats, alsmede het UBN van de plaats, en het aantal runderen, schapen of geiten dat wordt tentoongesteld of gekeurd.   
 2.  De houder of eigenaar van de tentoon te stellen of te keuren runderen, schapen of geiten laat deze binnen vijf dagen voorafgaand aan de tentoonstelling of keuring door een dierenarts klinisch onderzoeken.   
 3.  Van het onderzoek, bedoeld in het tweede lid, wordt door de dierenarts en de houder of eigenaar van de runderen, schapen of geiten een verklaring opgesteld volgens het model in bijlage 8.   
-4.  De organisator stelt voor aanvang van de tentoonstelling of keuring zeker dat de schapen of geiten individueel geregistreerd staan bij de Gezondheidsdienst voor Dieren en laat runderen, schapen of geiten toe tot de plaats indien zij vergezeld gaan van de door de dierenarts en de houder of eigenaar ondertekende verklaring, bedoeld in het derde lid.   
-5.  De tentoon te stellen of te keuren runderen, schapen of geiten worden uitsluitend op de plaats aangevoerd en van de plaats afgevoerd met vervoermiddelen waarvoor krachtens de [Wegenverkeerswet 1994](../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een kentekenbewijs of registratiebewijs is afgegeven.   
+4.  De organisator laat runderen, schapen of geiten toe tot de plaats indien zij vergezeld gaan van de door de dierenarts en de houder of eigenaar ondertekende verklaring, bedoeld in het derde lid.   
+5.  De tentoon te stellen of te keuren runderen, schapen of geiten worden uitsluitend op de plaats aangevoerd en van de plaats afgevoerd met vervoermiddelen waarvoor krachtens de Wegenverkeerswet 1994 een kentekenbewijs of registratiebewijs is afgegeven.   
 6.  Runderen, schapen of geiten worden zo spoedig mogelijk na afloop van de tentoonstelling of keuring rechtstreeks vervoerd naar: 
 
 a. een in Nederland gelegen slachthuis, of  
 
 b. het bedrijf van herkomst.     
+
+### Artikel  50a  
+
+In zoverre in afwijking van artikel 50, leden 2, 3 en 4, worden geiten of schapen toegelaten tot een tentoonstelling of keuring als de houder of eigenaar van de ten toon te stellen of te keuren geiten of schapen de dieren klinisch heeft laten onderzoeken door een dierenarts op het terrein van de tentoonstelling of keuring en de resultaten van het onderzoek geen belemmering vormen voor de tentoonstelling of keuring van de betrokken dieren.  
 
 ### Artikel  51  
 
@@ -896,9 +900,9 @@ b. het bedrijf van herkomst.
 
 ### Artikel  52  
 
-1.  De organisator houdt een administratie bij overeenkomstig de [artikelen 19](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), [38b](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) en [38d, derde, zesde en zevende lid van de Regeling identificatie en registratie van dieren](../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) en van de originele gezondheidsverklaringen, bedoeld in artikel 50, derde lid, en de kentekens van de vervoermiddelen waarmee runderen zijn aan- en afgevoerd.   
+1.  De organisator houdt een administratie bij overeenkomstig de artikelen 19, 38b en 38d, derde, zesde en zevende lid van de Regeling identificatie en registratie van dieren en van de originele gezondheidsverklaringen, bedoeld in artikel 50, derde lid, en de kentekens van de vervoermiddelen waarmee runderen zijn aan- en afgevoerd.   
 2.  De organisator bewaart de administratie, bedoeld in het eerste lid, tot ten minste drie maanden na afloop van de tentoonstelling of keuring.   
-3.  De organisator houdt de administratie zodanig bij dat de ambtenaren als bedoeld in [artikel 114 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) op basis hiervan alle aan- en afgevoerde dieren en de gebruikte vervoermiddelen eenvoudig kunnen traceren.   
+3.  De organisator houdt de administratie zodanig bij dat de ambtenaren als bedoeld in artikel 114 van de wet op basis hiervan alle aan- en afgevoerde dieren en de gebruikte vervoermiddelen eenvoudig kunnen traceren.   
 
 ### Hoofdstuk  5  
 
@@ -925,10 +929,10 @@ b. de postduiven van de betreffende houder ten minste twee weken voor het begin 
 1.  Onverminderd de artikelen 53 en 54 is het tijdelijk op één plaats bijeenbrengen van pluimvee, loopvogels of postduiven afkomstig van verschillende plaatsen toegestaan, indien is voldaan aan het tweede of derde lid.   
 2.  Degene, die voornemens is pluimvee, loopvogels of postduiven afkomstig van verschillende plaatsen tijdelijk op één plaats te bijeen te brengen, is gehouden: 
 
-a. van dit voornemen ten minste acht dagen van tevoren kennis te gegeven aan de VWA;  
+a. van dit voornemen ten minste acht dagen van tevoren kennis te gegeven aan de NVWA;  
 
 b. de dieren, alvorens deze toe te laten, bij de plaats van aanvoer op zijn kosten te laten onderzoeken door één of meer dierenartsen.     
-3.  In afwijking van het tweede lid is degene die voornemens is postduiven voor een wedvlucht bijeen te brengen gehouden van dit voornemen jaarlijks een overzicht aan de VWA te doen toekomen. De minister kan besluiten de postduiven, alvorens deze bij de wedvlucht worden toegelaten, bij de plaats van aanvoer te laten onderzoeken door één of meer dierenartsen, op kosten van degene die de postduiven voor de wedvlucht heeft bijeengebracht.   
+3.  In afwijking van het tweede lid is degene die voornemens is postduiven voor een wedvlucht bijeen te brengen gehouden van dit voornemen jaarlijks een overzicht aan de NVWA te doen toekomen. De minister kan besluiten de postduiven, alvorens deze bij de wedvlucht worden toegelaten, bij de plaats van aanvoer te laten onderzoeken door één of meer dierenartsen, op kosten van degene die de postduiven voor de wedvlucht heeft bijeengebracht.   
 
 ### Hoofdstuk  6  
 
@@ -947,7 +951,7 @@ c. voldaan wordt aan de eisen, bedoeld in artikel 63.
 ### Artikel  57  
 
 1.  De erkenning van een kwaliteitssysteem geschiedt op aanvraag van de in artikel 59, eerste lid, bedoelde rechtspersoon.   
-2.  De aanvraag wordt schriftelijk bij de VWA ingediend.   
+2.  De aanvraag wordt schriftelijk bij de NVWA ingediend.   
 3.  Op de aanvraag wordt binnen 90 dagen na ontvangst van de aanvraag een besluit genomen.   
 4.  Bij de aanvraag worden in elk geval de volgende gegevens verstrekt: 
 
@@ -978,7 +982,7 @@ b. de erkenning met onmiddellijke ingang schorsen of intrekken.
 
 ### Artikel  59  
 
-1.  Een kwaliteitssysteem wordt opgesteld en beheerd door een rechtspersoon als bedoeld in [artikel 2:3 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Een kwaliteitssysteem wordt opgesteld en beheerd door een rechtspersoon als bedoeld in artikel 2:3 van het Burgerlijk Wetboek.   
 2.  De wijze van de inrichting en het beheer en alle overige werkprocessen van de in het eerste lid bedoelde rechtspersoon zijn overzichtelijk, duidelijk en volledig beschreven in één of meer schriftelijke stukken.   
 3.  De inrichting en het beheer van het kwaliteitssysteem voldoen aan de criteria van ISO 9001 zoals die zijn gedeponeerd bij het Nederlands Normalisatie-instituut te Delft.   
 
@@ -1065,12 +1069,12 @@ b. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, d
 
 ### Artikel  88  
 
-1.  Het is verboden, onverminderd de [artikelen 19](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), AI-gevoelige dieren op een bedrijf te houden.   
+1.  Het is verboden, onverminderd de artikelen 19 en 100 van de wet, AI-gevoelige dieren op een bedrijf te houden.   
 2.  Het in het eerste lid bedoelde verbod geldt niet indien wordt voldaan aan artikel 89 en 90.   
 
 ### Artikel  89  
 
-1.  De ondernemer meldt onverwijld aan het Landelijk LNV dierziekten meldnummer elke verhoogde sterfte: 
+1.  De ondernemer meldt onverwijld aan het landelijk telefoonnummer voor dierziekten elke verhoogde sterfte: 
 
 a. van leghennen, reproductiedieren of vleeskuikens, die ouder zijn dan 10 dagen op twee opeenvolgende dagen van 0,5% of meer per dag;  
 
@@ -1088,9 +1092,9 @@ c. voor zover het leghennen of reproductiedieren betreft, er op twee opeenvolgen
 
 ### Artikel  91  
 
-1.  Ter uitvoering van de [artikelen 17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [30 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
+1.  Ter uitvoering van de artikelen 17, 18 en 30 van de wet wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit het verrichten van de noodzakelijke werkzaamheden, het aanwijzen van laboratoria en het bij verordening stellen van regels, inzake het laten afnemen van bloed bij pluimvee teneinde dit te laten onderzoeken op de aanwezigheid van Aviaire Influenza.   
-3.  Het Productschap Pluimvee en Eieren kan bepalen dat bij overtreding van de [artikelen 2, eerste lid](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [3](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [4](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [5, eerste lid](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [6](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md) en [7, tweede lid, van de Verordening monitoring Aviaire influenza (PPE) 2005](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md) tuchtrechtelijke maatregelen worden toegepast.   
+3.  Het Productschap Pluimvee en Eieren kan bepalen dat bij overtreding van de artikelen 2, eerste lid, 3, 4, 5, eerste lid, 6 en 7, tweede lid, van de Verordening monitoring Aviaire influenza (PPE) 2005 tuchtrechtelijke maatregelen worden toegepast.   
 4.  Het Productschap Pluimvee en Eieren kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het derde lid, tuchtrechtelijke maatregelen worden gesteld.   
 5.  Het Productschap Pluimvee en Eieren kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een vergoeding van kosten heffen.   
 
@@ -1104,7 +1108,7 @@ In deze paragraaf wordt verstaan onder: dieren: kippen en kalkoenen.
 
 ### Artikel  93  
 
-1.  Ter uitvoering van de [artikelen 17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [30 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
+1.  Ter uitvoering van de artikelen 17, 18 en 30 van de wet wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit het stellen van regels met betrekking tot: 
 
 a. vaccinatie van dieren ter voorkoming van een besmetting met Newcastle Disease;  
@@ -1136,7 +1140,7 @@ f. de te voeren administratie betreffende de vaccinatie van dieren ter voorkomin
 
 ### Artikel  95  
 
-1.  Ter uitvoering van [artikel 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel.   
+1.  Ter uitvoering van artikel 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten wordt medewerking gevorderd van het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel.   
 2.  De in het eerste lid gevorderde medewerking bestaat uit het stellen van regels ten behoeve van onderzoek naar de aanwezigheid van zoönosen, zoönoseverwekkers, antimicrobiële resistentie bij zoönoseverwekkers en bij andere verwekkers, wanneer deze een gevaar opleveren voor de volksgezondheid, overeenkomstig richtlijn nr. 2003/99/EG;   
 3.  Het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel verstrekken de minister de gegevens die zij hebben verzameld in het kader van het tweede lid.   
 4.  Het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel kunnen voor de onderzoeken of verrichtingen die de productschappen uitvoeren in het kader van het eerste en tweede lid een vergoeding van kosten heffen.   
@@ -1145,7 +1149,7 @@ f. de te voeren administratie betreffende de vaccinatie van dieren ter voorkomin
 
 ### Artikel  96  
 
-1.  Ter uitvoering van [artikel 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
+1.  Ter uitvoering van artikel 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
 2.  De in het eerste lid gevorderde medewerking bestaat uit: 
 
 a. het stellen van regels met betrekking tot het verrichten van onderzoek ten behoeve van de monitoring van zoönosen, zoönoseverwekkers, antimicrobiële resistentie bij zoönoseverwekkers en bij andere verwekkers, wanneer deze een gevaar opleveren voor de volksgezondheid, ter uitvoering van de door de Commissie van de Europese Gemeenschappen vastgestelde voorschriften ter uitvoering van artikel 4 verordening (EG) nr. 2160/2003;  
@@ -1170,26 +1174,28 @@ b. het stellen van regels met betrekking tot de uitvoering van het nationale bes
 
 c. het stellen van regels met betrekking tot de uitvoering van de speciale bestrijdingsmethoden die de Commissie van de Europese Gemeenschappen op basis van artikel 8 van verordening (EG) nr. 2160/2003 voorschrijft;  
 
-d. het verrichten van de noodzakelijke werkzaamheden ter uitvoering en controle van de regels die op grond van de onderdelen a, b en c worden gesteld.     
+d. het verrichten van de noodzakelijke werkzaamheden ter uitvoering en controle van de regels die op grond van de onderdelen a, b en c worden gesteld;  
+
+e. het verrichten of doen verrichten van de bemonstering als bedoeld in artikel 4 van verordening (EG) nr. 2160/2003.     
 3.  Het Productschap Pluimvee en Eieren verstrekt de minister de gegevens die het productschap verzamelt in het kader van het tweede lid.   
-4.  Het Productschap Pluimvee en Eieren kan op grond van [artikel 13 van de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md), [artikel 10 van de Verordening hygiënevoorschriften pluimveeverwerkende industrie (PPE) 2007](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/(ppe)/2007/BWBR0023512/README.md) onderscheidenlijk [artikel 12 van de Verordening hygiënevoorschriften kalkoenhouderij (PPE) 2009](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md) bepalen dat tuchtrechtelijke maatregelen worden gesteld bij overtreding van repsectievelijk: 
+4.  Het Productschap Pluimvee en Eieren kan op grond van artikel 23 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011, artikel 19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011 en artikel 10 van de Verordening hygiënemaatregelen pluimveeverwerkende industrie (PPE) 2007 bepalen dat tuchtrechtelijke maatregelen worden gesteld bij overtreding van respectievelijk: 
 
-(i) de [artikelen 2](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [3](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [4](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [5](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), [6, zesde, achtste, negende en tiende lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md), [7, derde en vierde lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), [8, zevende, negende, tiende, elfde en twaalfde lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md), [11, eerste en tweede lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md), en [12, tweede lid, van de Verordening Hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md),  
+(i) de artikelen 2, 3, 4, 5, zesde, achtste, negende en tiende lid, 6, 7, 9, 10, 11, zesde, achtste, negende, tiende en elfde lid, 12, 13, 14, derde, vierde en zesde lid, 15, tweede lid, 17, 18, 19, 21, eerste en tweede lid en 22, tweede lid, van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011,  
 
-(ii) de [artikelen 2](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [3](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [4](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [5](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), [6](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [8, eerste lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/(ppe)/2007/BWBR0023512/README.md), en [9, tweede lid van de Verordening Hygiënevoorschriften pluimveeverwerkende industrie (PPE) 2007](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/(ppe)/2007/BWBR0023512/README.md),  
+(ii) de artikelen 2, 3, 4, 5, zesde, achtste en negende lid, 6, 7, 9, 10, 11, derde, vierde en vijfde lid, 12, tweede lid, 14, 15, 16, 17, eerste en tweede lid, en 18, tweede lid van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011,  
 
-(iii) de [artikelen 2](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [3](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [4](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [5](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), [6, zesde, achtste en negende lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), [7, derde en vierde lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), [10, eerste en tweede lid](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md), en [11, tweede lid, van de Verordening hygiënevoorschriften kalkoenhouderij (PPE) 2009](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md).     
+(iii) de artikelen 2, 3, 4, 5, 6, 8, 11 en 12 van de Verordening hygiënemaatregelen en bestrijding zoönosen pluimveeslachterijen en -uitsnijderijen (PPE) 2011.     
 5.  Het Productschap Pluimvee en Eieren kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het vierde lid, tuchtrechtelijke maatregelen worden gesteld.   
 6.  Het Productschap Pluimvee en Eieren kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid een vergoeding van kosten heffen.   
 
 ### Artikel  97  
 
-De termijn, bedoeld in [artikel 2, eerste lid, onderdeel b, van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) bedraagt twee jaar.  
+De termijn, bedoeld in artikel 2, eerste lid, onderdeel b, van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten bedraagt twee jaar.  
 
 ### Artikel  98  
 
 1.  Artikel 95 en artikel 96 zijn van toepassing vanaf het moment dat de Commissie van de Europese Gemeenschappen overeenkomstig artikel 5 van verordening (EG) nr. 2160/2003 het nationale bestrijdingsprogramma zoönosen en zoönoseverwekkers heeft goedgekeurd.   
-2.  Van de goedkeuring, bedoeld in het eerste lid, doet de Minister van Landbouw, Natuur en Voedselkwaliteit mededeling in de Staatscourant.   
+2.  Van de goedkeuring, bedoeld in het eerste lid, doet de minister mededeling in de Staatscourant.   
 3.  Overeenkomstig artikel 15 van richtlijn nr. 2003/99/EG zijn tot het moment van goedkeuring, bedoeld in het eerste lid, de maatregelen van toepassing die zijn vastgesteld en uitgevoerd overeenkomstig richtlijn nr. 92/117/EEG van de Raad van de Europese Gemeenschappen van 17 december 1992 inzake maatregelen voor de bescherming tegen bepaalde zoönoses en bepaalde zoönoseverwekkers bij dieren en in producten van dierlijke oorsprong teneinde door voedsel overgedragen infecties en vergiftigingen te voorkomen (PbEG 1993 L 62).   
 
 ### Hoofdstuk  2  
@@ -1202,19 +1208,19 @@ De termijn, bedoeld in [artikel 2, eerste lid, onderdeel b, van het Besluit besc
 
 ### Artikel  99  
 
-1.  Ter uitvoering van artikel 6 bis en bijlage VII, hoofdstuk B, van verordening (EG) nr. 999/2001 wordt medewerking gevorderd van het Productschap Vee en Vlees.   
+1.  Ter uitvoering van artikel 6 bis en bijlage VII, hoofdstuk C, van verordening (EG) nr. 999/2001 wordt medewerking gevorderd van het Productschap Vee en Vlees.   
 2.  De in het eerste lid gevorderde medewerking bestaat uit: 
 
 a. het bij verordening stellen van regels ten aanzien van het fokken van schapen ter voorkoming van overdraagbare spongiforme encefalopathieën, waaronder in elk geval wordt begrepen: 
 
 1°. het stellen van regels ten aanzien van de erkenning van een fokprogramma om te selecteren op resistentie tegen overdraagbare spongiforme encefalopathieën in de schapenpopulatie;  
 
-2°. het stellen van regels ten aanzien van de erkenning van de TSE-resistente status van koppels schapen, bedoeld in bijlage VII, hoofdstuk B, deel 3, onder 1, van verordening (EG) nr. 999/2001;    
+2°. het stellen van regels ten aanzien van de erkenning van de TSE-resistente status van koppels schapen, bedoeld in bijlage VII, hoofdstuk C, deel 4, onder 1, van verordening (EG) nr. 999/2001;    
 
-b. het stellen van regels ten aanzien een tegemoetkoming in de kosten van genotypering als bedoeld in bijlage VII, hoofdstuk B, deel 1, onder 5, van verordening (EG) nr. 999/2001;  
+b. het stellen van regels ten aanzien een tegemoetkoming in de kosten van genotypering als bedoeld in bijlage VII, hoofdstuk C, deel 1, onder 5, van verordening (EG) nr. 999/2001;  
 
 c. het verrichten van de noodzakelijke werkzaamheden ter uitvoering van de regels die op grond van de onderdelen a en b worden gesteld.     
-3.  Het Productschap Vee en Vlees verstrekt de Minister de gegevens die het productschap verzamelt in het kader van het tweede lid.   
+3.  Het Productschap Vee en Vlees verstrekt de minister de gegevens die het productschap verzamelt in het kader van het tweede lid.   
 4.  De Minister kan beleidsregels stellen met betrekking tot de in het eerste lid gevorderde medewerking.   
 5.  Het Productschap Vee en Vlees kan voor de verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een vergoeding van kosten heffen.   
 
@@ -1224,7 +1230,7 @@ c. het verrichten van de noodzakelijke werkzaamheden ter uitvoering van de regel
 
 ### Artikel  100  
 
-Het is verboden in strijd te handelen met artikel 9, eerste lid, tweede lid, en bijlage VI, van verordening (EG) nr. 999/2001.  
+Het is verboden in strijd te handelen met artikel 9, eerste lid, tweede lid, van verordening (EG) nr. 999/2001.  
 
 ### Hoofdstuk  3  
 
@@ -1232,7 +1238,7 @@ Het is verboden in strijd te handelen met artikel 9, eerste lid, tweede lid, en 
 
 ### Artikel  101a  
 
-1.  Ter uitvoering van de [artikelen 17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [21](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [22](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [24](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [29](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [30](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [31b](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [106](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [107 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt medewerking gevorderd van het Productschap Vee en Vlees.   
+1.  Ter uitvoering van de artikelen 17, 21, 22, 24, 29, 30, 31b, 106 en 107 van de wet wordt medewerking gevorderd van het Productschap Vee en Vlees.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit het stellen van regels met betrekking tot de preventie, monitoring en bestrijding van de ziekte van Aujeszky, welke regels onder meer kunnen betreffen: 
 
 a. het houden van varkens die besmet zijn met de ziekte van Aujeszky, hiervan verdacht zijn of gevaccineerd zijn tegen de ziekte van Aujeszky;  
@@ -1258,7 +1264,7 @@ g. het verlenen van vrijstellingen en ontheffingen.
 
 ### Artikel  101b  
 
-1.  Het Productschap Vee en Vlees verstrekt de Minister de gegevens die het productschap verzamelt in het kader van het tweede lid van artikel 101a.   
+1.  Het Productschap Vee en Vlees verstrekt de minister de gegevens die het productschap verzamelt in het kader van het tweede lid van artikel 101a.   
 2.  Het Productschap Vee en Vlees kan bepalen dat bij overtreding van het bij of krachtens artikel 3 van de Verordening bestrijding ziekte van Aujeszky bij varkens (PVV) 2008 tuchtrechtelijke maatregelen worden toegepast.   
 3.  Het Productschap Vee en Vlees kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het tweede lid, tuchtrechtelijke maatregelen worden gesteld.   
 4.  Het Productschap Vee en Vlees kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van artikel 101a, tweede lid, een vergoeding van kosten heffen.   
@@ -1278,16 +1284,16 @@ g. het verlenen van vrijstellingen en ontheffingen.
 
 ### Artikel  102  
 
-Als modellen van waarschuwingsborden als bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), die worden geplaatst ter aanduiding van een gebied waar ingevolge [artikel 30 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) een verbod tot vervoeren van kracht is, worden vastgesteld de in bijlage 21 opgenomen modellen.  
+Als modellen van waarschuwingsborden als bedoeld in artikel 22, eerste lid, onderdeel c, van de wet, die worden geplaatst ter aanduiding van een gebied waar ingevolge artikel 30 van de wet een verbod tot vervoeren van kracht is, worden vastgesteld de in bijlage 21 opgenomen modellen.  
 
 ### Artikel  103  
 
-1.  Als modellen van kentekenen als bedoeld in [artikel 22, eerste lid, onderdeel d, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), die worden geplaatst bij een gebouw of terrein dat besmet is of van besmetting is verdacht worden vastgesteld de in bijlage 22, onder a, opgenomen modellen.   
-2.  Als model van het kenteken, bedoeld in [artikel 22, tweede lid, onderdeel c, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), dat wordt gehecht aan een bijenwoning, wordt vastgesteld het in bijlage 22, onder b, opgenomen model.   
+1.  Als modellen van kentekenen als bedoeld in artikel 22, eerste lid, onderdeel d, van de wet, die worden geplaatst bij een gebouw of terrein dat besmet is of van besmetting is verdacht worden vastgesteld de in bijlage 22, onder a, opgenomen modellen.   
+2.  Als model van het kenteken, bedoeld in artikel 22, tweede lid, onderdeel c, van de wet, dat wordt gehecht aan een bijenwoning, wordt vastgesteld het in bijlage 22, onder b, opgenomen model.   
 
 ### Artikel  104  
 
-1.  De kentekenen of waarschuwingsborden worden aan de ingang van de besmette of van besmetting verdachte gebouwen en terreinen, aan de bijenwoning of rondom het krachtens [artikel 30 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen gebied aangebracht, gehecht of geplaatst en wel zodanig dat zij duidelijk van de openbare weg af zichtbaar zijn.   
+1.  De kentekenen of waarschuwingsborden worden aan de ingang van de besmette of van besmetting verdachte gebouwen en terreinen, aan de bijenwoning of rondom het krachtens artikel 30 van de wet aangewezen gebied aangebracht, gehecht of geplaatst en wel zodanig dat zij duidelijk van de openbare weg af zichtbaar zijn.   
 2.  Waarschuwingsborden kunnen langs de openbare weg vooraangekondigd worden.   
 
 ### §  2  
@@ -1296,7 +1302,7 @@ Als modellen van waarschuwingsborden als bedoeld in [artikel 22, eerste lid, ond
 
 ### Artikel  105  
 
-Het onschadelijk maken, bedoeld in [artikel 22, eerste lid, onderdeel g, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), en het vernietigen, bedoeld in [artikel 22, tweede lid, onderdelen f en g, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), geschiedt: 
+Het onschadelijk maken, bedoeld in artikel 22, eerste lid, onderdeel g, van de wet, en het vernietigen, bedoeld in artikel 22, tweede lid, onderdelen f en g, van de wet, geschiedt: 
 
 a. overeenkomstig verordening (EG) nr. 1069/2009;  
 
@@ -1334,7 +1340,7 @@ a. hitte in de vorm van:
 
 4. kokend water;    
 
-b. ontsmettingsmiddelen die voor dat doel zijn toegelaten op grond van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+b. ontsmettingsmiddelen die voor dat doel zijn toegelaten op grond van de Wet gewasbeschermingsmiddelen en biociden;  
 
 c. andere door de minister vast te stellen ontsmettingsmiddelen.    
 
@@ -1348,7 +1354,7 @@ De minister beslist in elk bijzonder geval op welke wijze het onschadelijk maken
 
 ### Artikel  110  
 
-1.  Na afloop van de reiniging vindt controle plaats door de ambtenaar, bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
+1.  Na afloop van de reiniging vindt controle plaats door de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet.   
 2.  Het onschadelijk maken, het vernietigen en de ontsmetting geschieden onder leiding en toezicht van de in eerste lid bedoelde persoon.   
 3.  De reiniging en ontsmetting wordt door de ambtenaar geregistreerd.   
 
@@ -1362,17 +1368,15 @@ In gevallen waarin dit hoofdstuk niet voorziet, beslist de minister.
 
 ### Artikel  112  
 
-Als personen of groepen van personen die toegang hebben tot gebouwen, terreinen of gedeelten van gebouwen of terreinen waar een kenteken als bedoeld in [artikel 22, eerste lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geplaatst, worden aangewezen: 
+Als personen of groepen van personen die toegang hebben tot gebouwen, terreinen of gedeelten van gebouwen of terreinen waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst, worden aangewezen: 
 
 a. de houder van de dieren die zich in de gebouwen, op de terreinen dan wel de gedeelten van gebouwen of terreinen bevinden;  
 
-b. de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
+b. de ambtenaren van de NVWA;  
 
-c. de ambtenaren van de VWA;  
+c. de dierenarts die de dieren behandelt;  
 
-d. de dierenarts die de dieren behandelt;  
-
-e. de medewerkers van de Gezondheidsdienst voor dieren.    
+d. de medewerkers van de Gezondheidsdienst voor dieren.    
 
 ### Hoofdstuk  3  
 
@@ -1380,7 +1384,7 @@ e. de medewerkers van de Gezondheidsdienst voor dieren.
 
 ### Artikel  113  
 
-1.  Personen die gebouwen of terreinen verlaten waar een kenteken als bedoeld in [artikel 22, eerste lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is geplaatst: 
+1.  Personen die gebouwen of terreinen verlaten waar een kenteken als bedoeld in artikel 22, eerste lid, van de wet is geplaatst: 
 
 a. reinigen hun handen en, voorzover de ambtenaar aangeeft dit noodzakelijk te achten, hun overige lichaamsdelen met warm water en zeep;  
 
@@ -1407,7 +1411,7 @@ c. ontsmetten hun handen, bedrijfskleding en schoeisel met het door de ambtenaar
 
 ### Artikel  113c  
 
-Ingevolge [artikel 2, vierde lid, van het Besluit gebruik sera en entstoffen](../../../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt ter behandeling tegen rabiës een recombinant vaccin als bedoeld in bijlage I *ter*, onderdeel 1, onder a, onder ii, van Verordening (EG) nr. 998/2003 aangewezen.  
+Ingevolge artikel 2, vierde lid, van het Besluit gebruik sera en entstoffen wordt ter behandeling tegen rabiës een recombinant vaccin als bedoeld in bijlage I *ter*, onderdeel 1, onder a, onder ii, van Verordening (EG) nr. 998/2003 aangewezen.  
 
 ### Titel  6  
 
@@ -1417,43 +1421,43 @@ Ingevolge [artikel 2, vierde lid, van het Besluit gebruik sera en entstoffen](..
 
 De volgende regelingen worden ingetrokken: 
 
-1. de [Regeling betreffende het bijeenbrengen van dieren 2000](../../../../../../../../../../../ministeriele-regeling/regeling/betreffende/het/bijeenbrengen/van/dieren/2000/BWBR0011441/README.md);  
+1. de Regeling betreffende het bijeenbrengen van dieren 2000;  
 
-2. de [Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000](../../../../../../../../../../../ministeriele-regeling/regeling/inzake/hygiënevoorschriften/besmettelijke/dierziekten/2000/BWBR0012010/README.md);  
+2. de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000;  
 
-3. de [Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 25 september 2003, TRCJZ/2003/5103, houdende wijziging van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/inzake/hygiënevoorschriften/besmettelijke/etc/BWBR0015633/README.md) (Stcrt. 192);  
+3. de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 25 september 2003, TRCJZ/2003/5103, houdende wijziging van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000 (Stcrt. 192);  
 
-4. de [Regeling aanvullende voorschriften besmettelijke dierziekten](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/voorschriften/besmettelijke/dierziekten/BWBR0012537/README.md);  
+4. de Regeling aanvullende voorschriften besmettelijke dierziekten;  
 
-5. de [Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 8 juni 2001, TRCJZ/2001/8357, houdende wijziging van de Regeling bijeenbrengen van dieren 2000](../../../../../../../../../../../ministeriele-regeling/regeling/verzamelen/van/runderen/BWBR0012542/README.md) (Stcrt. 109);  
+5. de Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 8 juni 2001, TRCJZ/2001/8357, houdende wijziging van de Regeling bijeenbrengen van dieren 2000 (Stcrt. 109);  
 
-6. de [Regeling bedrijfscontrole dierziekten 1993](../../../../../../../../../../../ministeriele-regeling/regeling/bedrijfscontrole/dierziekten/1993/BWBR0006100/README.md);  
+6. de Regeling bedrijfscontrole dierziekten 1993;  
 
-7. de [Regeling monitoring Aviaire Influenza 2003](../../../../../../../../../../../ministeriele-regeling/regeling/monitoring/aviaire/influenza/2003/BWBR0014789/README.md);  
+7. de Regeling monitoring Aviaire Influenza 2003;  
 
-8. de [Regeling vaccinatie Newcastle Disease](../../../../../../../../../../../ministeriele-regeling/regeling/vaccinatie/newcastle/disease/BWBR0012614/README.md);  
+8. de Regeling vaccinatie Newcastle Disease;  
 
-9. de [Regeling aanwijzing besmettelijke dierziekten](../../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/besmettelijke/dierziekten/BWBR0007933/README.md);  
+9. de Regeling aanwijzing besmettelijke dierziekten;  
 
-10. de [Regeling inzake het verlaten van besmette of van besmetting verdachte gebouwen en terreinen](../../../../../../../../../../../ministeriele-regeling/regeling/inzake/het/verlaten/van/besmette/of/van/besmetting/verdachte/etc/BWBR0007935/README.md);  
+10. de Regeling inzake het verlaten van besmette of van besmetting verdachte gebouwen en terreinen;  
 
-11. de [Regeling toegang van personen of groepen van personen tot besmette of van besmetting verdachte gebouwen en terreinen](../../../../../../../../../../../ministeriele-regeling/regeling/toegang/van/personen/of/groepen/van/personen/tot/besmette/of/van/etc/BWBR0007934/README.md);  
+11. de Regeling toegang van personen of groepen van personen tot besmette of van besmetting verdachte gebouwen en terreinen;  
 
-12. de [Regeling betreffende uitvoering bestrijdingsmaatregelen besmettelijke dierziekten](../../../../../../../../../../../ministeriele-regeling/regeling/betreffende/uitvoering/bestrijdingsmaatregelen/besmettelijke/etc/BWBR0007936/README.md);  
+12. de Regeling betreffende uitvoering bestrijdingsmaatregelen besmettelijke dierziekten;  
 
-13. de [Regeling slachten voor huishoudelijk gebruik](../../../../../../../../../../../ministeriele-regeling/regeling/slachten/voor/huishoudelijk/gebruik/BWBR0003917/README.md).    
+13. de Regeling slachten voor huishoudelijk gebruik.    
 
 ### Artikel  115  
 
-1.  De krachtens de [artikelen 4](../../../../../../../../../../../ministeriele-regeling/regeling/betreffende/het/bijeenbrengen/van/dieren/2000/BWBR0011441/README.md), [9b](../../../../../../../../../../../ministeriele-regeling/regeling/betreffende/het/bijeenbrengen/van/dieren/2000/BWBR0011441/README.md) en [9l van de Regeling betreffende het bijeenbrengen van dieren 2000](../../../../../../../../../../../ministeriele-regeling/regeling/betreffende/het/bijeenbrengen/van/dieren/2000/BWBR0011441/README.md) verleende erkenningen worden geacht te zijn verleend op grond van respectievelijk de artikelen 21, 29 en 39 van deze regeling.   
-2.  Geschriften die ingevolge [artikel 17, eerste lid, van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000](../../../../../../../../../../../ministeriele-regeling/regeling/inzake/hygiënevoorschriften/besmettelijke/dierziekten/2000/BWBR0012010/README.md) zijn verleend, zijn geschriften als bedoeld in artikel 74, eerste lid, van deze regeling.   
-3.  De krachtens [artikel 23 van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000](../../../../../../../../../../../ministeriele-regeling/regeling/inzake/hygiënevoorschriften/besmettelijke/dierziekten/2000/BWBR0012010/README.md) verleende registraties worden geacht te zijn verleend op grond van artikel 78 van deze regeling.   
-4.  De krachtens de [artikelen 8](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/voorschriften/besmettelijke/dierziekten/BWBR0012537/README.md), [9a](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/voorschriften/besmettelijke/dierziekten/BWBR0012537/README.md) en [9b van de Regeling aanvullende voorschriften besmettelijke dierziekten en zoönosen](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/voorschriften/besmettelijke/dierziekten/BWBR0012537/README.md) vastgestelde medebewindsverordeningen worden geacht te zijn vastgesteld op grond van de artikelen 95, 96 onderscheidenlijk 99 van deze regeling.   
-5.  De krachtens [artikel 5b, tweede lid, van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000](../../../../../../../../../../../ministeriele-regeling/regeling/inzake/hygiënevoorschriften/besmettelijke/dierziekten/2000/BWBR0012010/README.md) verleende vergunningen worden geacht te zijn verleend op grond van artikel 61, tweede lid, van deze regeling.   
+1.  De krachtens de artikelen 4, 9b en 9l van de Regeling betreffende het bijeenbrengen van dieren 2000 verleende erkenningen worden geacht te zijn verleend op grond van respectievelijk de artikelen 21, 29 en 39 van deze regeling.   
+2.  Geschriften die ingevolge artikel 17, eerste lid, van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000 zijn verleend, zijn geschriften als bedoeld in artikel 74, eerste lid, van deze regeling.   
+3.  De krachtens artikel 23 van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000 verleende registraties worden geacht te zijn verleend op grond van artikel 78 van deze regeling.   
+4.  De krachtens de artikelen 8, 9a en 9b van de Regeling aanvullende voorschriften besmettelijke dierziekten en zoönosen vastgestelde medebewindsverordeningen worden geacht te zijn vastgesteld op grond van de artikelen 95, 96 onderscheidenlijk 99 van deze regeling.   
+5.  De krachtens artikel 5b, tweede lid, van de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000 verleende vergunningen worden geacht te zijn verleend op grond van artikel 61, tweede lid, van deze regeling.   
 
 ### Artikel  115a  
 
-Deze regeling berust mede op de [artikelen 2b van de Visserijwet](../../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) en [3 van het Reglement zee- en kustvisserij](../../../../../../../../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md).  
+Deze regeling berust mede op de artikelen 2b van de Visserijwet en 3 van het Reglement zee- en kustvisserij.  
 
 ### Artikel  115b  
 
@@ -1461,12 +1465,12 @@ Deze regeling berust mede op de [artikelen 2b van de Visserijwet](../../../../..
 
 a. wordt geacht te zijn erkend ingevolge artikel 21, waarbij een verzamelcentrum met een erkenning voor een bepaalde categorie runderen wordt geacht te zijn erkend als runderverzamelcentrum, en een schapenverzamelcentrum of een geitenverzamelcentrum wordt geacht te zijn erkend als schapen- en geitenverzamelcentrum;  
 
-b. dient uiterlijk binnen drie maanden na inwerkingtreding van deze regeling het protocol, bedoeld in artikel 21, zesde lid, in bij de VWA ter goedkeuring en werkt uiterlijk binnen zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.     
+b. dient uiterlijk binnen drie maanden na inwerkingtreding van deze regeling het protocol, bedoeld in artikel 21, zesde lid, in bij de NVWA ter goedkeuring en werkt uiterlijk binnen zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.     
 2.  Een reinigings- en ontsmettingsplaats die op het moment van inwerkingtreding van deze regeling, zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit houdende wijziging van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s in verband met de herziening van preventieregels voor evenhoevigen (TRCJZ/2008/2676), is geregistreerd: 
 
 a. wordt geacht te zijn erkend ingevolge artikel 26;  
 
-b. dient uiterlijk binnen drie maanden na inwerkingtreding van deze regeling het protocol, bedoeld in artikel 26, tweede lid, in bij de VWA ter goedkeuring en werkt uiterlijk binnen zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.     
+b. dient uiterlijk binnen drie maanden na inwerkingtreding van deze regeling het protocol, bedoeld in artikel 26, tweede lid, in bij de NVWA ter goedkeuring en werkt uiterlijk binnen zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.     
 
 ### Artikel  116  
 
@@ -1513,20 +1517,20 @@ c. 5% van het aantal overige varkens.
 
 ####Model van verklaring van enting van hoenderachtige of loopvogels tegen Newcastle Disease als bedoeld in artikel 54, derde lid 
 
-![163983](http://wetten.overheid.nl/Illustration/163983)
+![]()
 
 ### Bijlage  7  
 
 ####Model van verklaring van enting van duiven tegen Newcastle Disease als bedoeld in artikel 54, derde lid 
 
-![163985](http://wetten.overheid.nl/Illustration/163985)
-![163985](http://wetten.overheid.nl/Illustration/163985)
+![]()
+![]()
 
 ### Bijlage  8  
 
 ####Model van gezondheidsverklaring van ten toon te stellen of te keuren runderen, schapen of geiten als bedoeld in artikel 50, derde lid 
 
-![163987](http://wetten.overheid.nl/Illustration/163987)
+![]()
 
 ### Bijlage  9  
 
@@ -1542,7 +1546,7 @@ c. 5% van het aantal overige varkens.
 
 5. Op het bedrijf zijn voorzieningen aanwezig waarmee ontsmettingsmiddelen kunnen worden toegepast.  
 
-6. Op het bedrijf zijn reinigingsmiddelen aanwezig, alsmede ontsmettingsmiddelen die voor dat doel op grond van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn toegelaten, in voldoende mate om te kunnen voorzien in de reiniging en ontsmetting van de vervoermiddelen die op dat bedrijf een of meer evenhoevigen lossen.  
+6. Op het bedrijf zijn reinigingsmiddelen aanwezig, alsmede ontsmettingsmiddelen die voor dat doel op grond van de Wet gewasbeschermingsmiddelen en biociden zijn toegelaten, in voldoende mate om te kunnen voorzien in de reiniging en ontsmetting van de vervoermiddelen die op dat bedrijf een of meer evenhoevigen lossen.  
 
 7. Op het bedrijf is een voorziening aanwezig waar de chauffeurs van de vervoermiddelen die evenhoevigen op het bedrijf lossen hun handen kunnen wassen met warm water en zeep.  
 
@@ -1552,13 +1556,13 @@ c. 5% van het aantal overige varkens.
 
 ####Vaccinatiemethoden en voorschriften als bedoeld in artikel 93, eerste, zesde en zevende lid 
 
-![163994](http://wetten.overheid.nl/Illustration/163994)
+![]()
 
 ### Bijlage  17  
 
 ####Inzendformulier bloedmonsters pluimvee als bedoeld in artikel 93, derde lid 
 
-![163995](http://wetten.overheid.nl/Illustration/163995)
+![]()
 
 ### Bijlage  18  
 
@@ -1566,22 +1570,22 @@ c. 5% van het aantal overige varkens.
 
 #### *Voorschriften ten aanzien van bloedonderzoek:* 
 
-De effectiviteit van de vaccinaties van reproductiedieren en leghennen van 10 weken of ouder dient, door middel van onderzoek van bloed van ten minste 30 willekeurig gekozen dieren per koppel, in ieder geval te worden gecontroleerd, vóór verplaatsing van het koppel en tevens maximaal 9 weken voor de slacht. Dit geldt niet voor dieren die binnen een bedrijf naar een ander lokaal worden verplaatst, voorzover daarbij geen vervoer over de openbare weg plaatsheeft. De effectiviteit van de vaccinaties van vleeskuikens en vleeskalkoenen dient, door middel van onderzoek van bloed van ten minste 30 willekeurig gekozen dieren per koppel en ten minste 5 dieren per lokaal wanneer op het bedrijf wordt getapt en 30 willekeurig gekozen dieren per koppel wanneer op het slachthuis wordt getapt, in elk geval te worden gecontroleerd: bij vleeskuikens: vanaf een leeftijd van 4 weken op het bedrijf, dan wel aan de slachtlijn; bij vleeskalkoenen: vanaf een leeftijd van 13 weken op het bedrijf, dan wel aan de slachtlijn. Het afnemen van bloed op het bedrijf geschiedt door een dierenarts dan wel door een op aanwijzing van en onder controle van een dierenarts handelende dierenartsassistent als bedoeld in [artikel 9 van het Besluit paraveterinairen](../../../../../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md). Het afnemen van bloed aan de slachtlijn geschiedt onder verantwoordelijkheid van een dierenarts.  
+De effectiviteit van de vaccinaties van reproductiedieren en leghennen van 10 weken of ouder dient, door middel van onderzoek van bloed van ten minste 30 willekeurig gekozen dieren per koppel, in ieder geval te worden gecontroleerd, vóór verplaatsing van het koppel en tevens maximaal 9 weken voor de slacht. Dit geldt niet voor dieren die binnen een bedrijf naar een ander lokaal worden verplaatst, voorzover daarbij geen vervoer over de openbare weg plaatsheeft. De effectiviteit van de vaccinaties van vleeskuikens en vleeskalkoenen dient, door middel van onderzoek van bloed van ten minste 30 willekeurig gekozen dieren per koppel en ten minste 5 dieren per lokaal wanneer op het bedrijf wordt getapt en 30 willekeurig gekozen dieren per koppel wanneer op het slachthuis wordt getapt, in elk geval te worden gecontroleerd: bij vleeskuikens: vanaf een leeftijd van 4 weken op het bedrijf, dan wel aan de slachtlijn; bij vleeskalkoenen: vanaf een leeftijd van 13 weken op het bedrijf, dan wel aan de slachtlijn. Het afnemen van bloed op het bedrijf geschiedt door een dierenarts dan wel door een op aanwijzing van en onder controle van een dierenarts handelende dierenartsassistent als bedoeld in artikel 9 van het Besluit paraveterinairen. Het afnemen van bloed aan de slachtlijn geschiedt onder verantwoordelijkheid van een dierenarts.  
 
 ### Bijlage  21  
 
 ####Modellen van waarschuwingsborden als bedoeld in artikel 102 
 
-Wit van kleur met een rode rand en bedrukt met rode letters:   ![163998](http://wetten.overheid.nl/Illustration/163998)
-Blauw van kleur met een witte opdruk:   ![163998](http://wetten.overheid.nl/Illustration/163998)
+Wit van kleur met een rode rand en bedrukt met rode letters:   ![]()
+Blauw van kleur met een witte opdruk:   ![]()
 
 ### Bijlage  22  
 
 ####Modellen van kentekenen als bedoeld in artikel 103 
 
-a. Blauw van kleur en bedrukt met zwarte letters:   ![164001](http://wetten.overheid.nl/Illustration/164001)
-Blauw van kleur met een witte opdruk:   ![164001](http://wetten.overheid.nl/Illustration/164001)
-b. Blauw van kleur en bedrukt met zwarte letters:   ![164001](http://wetten.overheid.nl/Illustration/164001)
+a. Blauw van kleur en bedrukt met zwarte letters:   ![]()
+Blauw van kleur met een witte opdruk:   ![]()
+b. Blauw van kleur en bedrukt met zwarte letters:   ![]()
 
 ### Bijlage  23  
 
@@ -1603,7 +1607,7 @@ d. beschadigde vloeren, muren en andere delen worden hersteld nadat daarover na 
 
 e. nadat de herstellingen zijn voltooid worden zij geïnspecteerd om na te gaan of een en ander op bevredigde wijze is uitgevoerd;  
 
-f. brandbare voorwerpen worden, ter beoordeling van de ambtenaar, bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) verbrand;  
+f. brandbare voorwerpen worden, ter beoordeling van de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet verbrand;  
 
 g. aarden vloeren worden ten minste 20 centimeter diep uitgegraven en daarna ter dikte van de uitgegraven laag met nieuwe grond of vers zand aangevuld en daarna vast aangestampt. De uitgegraven grond wordt als mest behandeld;  
 
@@ -1637,7 +1641,7 @@ f. bij de in- en uitgangen van gebouwen, lokalen of plaatsen waar de voor de zie
 
 3. Voorwerpen en producten worden door vuur, stoom, kokend water of een ander ontsmettingsmiddel ontsmet.  
 
-4. Het ontsmetten van kweekvijvers geschiedt, nadat water, vis, eieren en gameten zijn verwijderd, overeenkomstig de aanwijzingen van de ambtenaar, bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
+4. Het ontsmetten van kweekvijvers geschiedt, nadat water, vis, eieren en gameten zijn verwijderd, overeenkomstig de aanwijzingen van de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet.  
 
-5. Voor het overige vindt de reiniging en ontsmetting, ter beoordeling van de ambtenaar, bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) plaats conform het draaiboek ter bestrijding van de betreffende dierziekte. Het draaiboek ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit en bij de VWA.    
+5. Voor het overige vindt de reiniging en ontsmetting, ter beoordeling van de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet plaats conform het draaiboek ter bestrijding van de betreffende dierziekte. Het draaiboek ligt ter inzage bij het Ministerie van Economische Zaken en bij de NVWA.    
 
