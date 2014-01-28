@@ -94,43 +94,59 @@ s. het behandelen van een aanvraag tot het verlenen van een visum:
 
 – het verlengen van een collectief visum: € 30 en € 1 per persoon,  
 
-– het verlengen van een visum met ten hoogste dertig dagen: € 25,  
+– het verlengen van een visum met ten hoogste dertig dagen: € 30,  
 
 – het verlengen van een visum met meer dan dertig dagen en met ten hoogste negentig dagen: € 30.    
 
 4°. aanvragen tot het wijzigen van een visum: € 35.  
 
-5°. aanvragen tot het verstrekken van een verklaring die recht geeft op terugkeer naar Nederland (terugkeervisum): € 140.  
+5°. aanvragen tot het verstrekken van een verklaring die recht geeft op terugkeer naar Nederland (terugkeervisum): € 142.  
 
-6°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf niet betrekking hebbende op de openbare lichamen Bonaire, Sint Eustatius en Saba: 
+6°. aanvragen voor Toegang en Verblijf niet betrekking hebbende op de openbare lichamen Bonaire, Sint Eustatius en Saba: 
 
-– met toepassing van de verkorte procedure: voor kennismigranten € 750, voor overigen € 250,  
+– voor verblijf als familie- of gezinslid: € 228,  
 
-– met het oog op gezinshereniging of gezinsvorming: € 830,  
+– voor arbeid als zelfstandige: € 1.266,  
 
-– met het oog op gezinshereniging of gezinsvorming als gezinslid: € 188,  
+– als vermogende vreemdeling: € 2.026,  
 
-– met het oog op verblijf als adoptie- of pleegkind: € 331,  
+– als kennismigrant: € 861,  
 
-– met het oog op familiebezoek: € 830,  
+– als houder van de Europese blauwe kaart: € 861,  
 
-– met het oog op het verrichten van arbeid: € 433,  
+– voor seizoenarbeid: € 760,  
 
-– met het oog op het volgen van een studie: € 433,  
+– voor arbeid in loondienst: € 861,  
 
-– in het kader van een uitwisseling: € 433,  
+– voor grensoverschrijdende dienstverlening: € 861,  
 
-– met het oog op het doorbrengen van verlof in Nederland door werknemers op een mijnbouwinstallatie op het continentaal plat: € 60,  
+– voor wetenschappelijk onderzoek (Richtlijn 2005/71/EG): € 304,  
 
-– ten behoeve van personen op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 125) betrekking heeft met het oog op het verrichten van de daarbedoelde werkzaamheden: € 60,  
+– voor lerend werken: € 760,  
 
-– ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 60,  
+– voor studie: € 304,  
 
-– ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of praktikant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van het Associatierecht EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 60,  
+– voor het zoeken naar en verrichten van arbeid al dan niet in loondienst: € 608,  
 
-– met het oog op gezinshereniging of gezinsvorming met een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 60,  
+– voor uitwisseling (al dan niet in het kader van een verdrag): € 608,  
 
-– in overige gevallen: € 331.    
+– voor medische behandeling: € 962,  
+
+– voor deelname aan het Working Holiday Programme/Scheme (Australië, Canada en Nieuw Zeeland) en Young Workers Exchange Programme (Canada): € 42,  
+
+– voor wedertoelating, met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../../../../wet/remigratiewet/BWBR0010424/README.md): € 962,  
+
+– voor voortgezet verblijf om humanitaire redenen in verband met achterlating: € 228,  
+
+– voor alle overige verblijfsdoelen: € 962,  
+
+– ten behoeve van personen op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 125) betrekking heeft, met het oog op het verrichten van de daarbedoelde werkzaamheden: € 61,  
+
+– ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 61,  
+
+– ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van de Associatieovereenkomst EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 61,  
+
+– voor verblijf als familie- of gezinslid in de zin van de Associatieovereenkomst EG-Turkije van een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 61.    
 
 7°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf voor verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba: 
 
@@ -160,7 +176,7 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ### Artikel  3  
 
-1.  De vergoeding, bedoeld in de artikelen 1 en 2, is in de Oekraïne en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname is verschuldigd in euro’s.   
+1.  De vergoeding, bedoeld in de artikelen 1 en 2, is in de Oekraïne en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.   
 2.  De vergoeding, bedoeld in artikel 1, onderdeel s, onder 6°, wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.   
 
 ### Artikel  3a  
@@ -178,16 +194,16 @@ c. wetenschappelijke onderzoekers die onderdaan zijn van derde landen en die zic
 
 a. is niet verschuldigd door de belanghebbende, bedoeld in [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](../../../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md), en  
 
-b. bedraagt € 40 voor Turkse onderdanen, bedoeld in artikel 1, onderdeel s, onder 6°.     
+b. bedraagt € 41 voor Turkse onderdanen, bedoeld in artikel 1, onderdeel s, onder 6°.     
 5.  De vergoeding, genoemd in artikel 1, onderdeel s, onder 6°, is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf: 
 
 a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
 
-b. met het oog op uitwisseling binnen het kader van het ‘Working Holiday Scheme’ of het ‘Working Holiday Programme’ ten behoeve van een vreemdeling die de nationaliteit van Australië, Canada respectievelijk van Nieuw-Zeeland bezit;  
+b.  vervallen;   
 
-c. met het oog op het verrichten van arbeid binnen het kader van het ‘Young Workers Exchange Programme’ ten behoeve van een vreemdeling die de Canadese nationaliteit bezit, of;  
+c.  vervallen;   
 
-d. met het oog op gezinshereniging ten behoeve van de belanghebbende die verblijf beoogt bij een vreemdeling aan wie een vergunning tot verblijf als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, mits de belanghebbende binnen drie maanden na het verlenen van deze verblijfsvergunning de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf heeft ingediend dan wel met het oog daarop een verzoek om advies is ingediend en de belanghebbende voldoet aan alle voorwaarden voor gezinshereniging in het kader van [artikel 29, eerste lid, onder e en f, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel de belanghebbende niet dezelfde nationaliteit bezit als de hoofdpersoon en louter om deze reden niet in aanmerking komt voor een verblijfsvergunning asiel op grond van artikel 29, eerste lid, onder e en f, van de Vreemdelingenwet 2000;  
+d. met het oog op gezinshereniging ten behoeve van de belanghebbende die verblijf beoogt bij een vreemdeling aan wie een vergunning tot verblijf als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, mits de belanghebbende binnen drie maanden na het verlenen van deze verblijfsvergunning de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf heeft ingediend, dan wel dat zijn referent dit voor hem heeft gedaan, en de belanghebbende voldoet aan alle voorwaarden voor gezinshereniging in het kader van [artikel 29, tweede lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
 e. met het oog op gezinshereniging van een minderjarig biologisch of juridisch kind met een slachtoffer-aangever of een getuige-aangever van mensenhandel; of  
 

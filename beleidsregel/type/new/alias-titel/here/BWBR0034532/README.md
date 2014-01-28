@@ -2,13 +2,13 @@
 
 ##Besluit Bestuurlijke Boeten Belastingdienst
 
-De Staatssecretaris van Financiën heeft het volgende besloten. *Dit besluit betreft een wijziging van het besluit van 20 december 2011, nr. DGB2011/2248M,* Stcrt. 2011, nr. 23178 *(Besluit Bestuurlijke Boeten Belastingdienst) in verband met de inwerkingtreding:* 
+De Staatssecretaris van Financiën heeft het volgende besloten.  *Dit besluit betreft een wijziging van het besluit van 20 december 2011, nr. DGB2011/2248M, *Stcrt. 2011, nr. 23178* (Besluit Bestuurlijke Boeten Belastingdienst) in verband met de inwerkingtreding:*  
 
-– *per 1 januari 2013 van een wijziging van*[artikel 67a van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)*(zie*§ 21, lid 2, 6 en 8) en [artikel 28b van de Wet LB](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)*(zie*§ 30, lid 1*)*;  
+–  *per 1 januari 2013 van een wijziging van* [artikel 67a van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) *(zie *§ 21, lid 2, 6 en 8) en [artikel 28b van de Wet LB](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) *(zie* § 30, lid 1*)*;   
 
-– *per 2 september 2013 van de wijziging van de*[inkeerregeling](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)*(*§ 7, lid 2*)*;  
+–  *per 2 september 2013 van de wijziging van de* [inkeerregeling](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)* (*§ 7, lid 2*)*;   
 
-– *per 1 januari 2014 van de*[artikelen 67cc](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)*en*[67o van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)*(zie resp.*§ 25a*en*§ 2*) en van een wijziging van*artikel 11 van de WIB*(zie*§ 28f*)*.   *Verder zijn de verzuimboeten voor betalingsgebreken in de periodiciteit (*§ 23, lid 3*) en de motorrijtuigenbelasting (*§ 33, lid 2*) verhoogd en zijn aanpassingen van meer redactionele en toelichtende aard aangebracht in*§ 1, lid 4*,*§ 8, lid 9*en*11 en § 36, lid 2 en 3.   
+–  *per 1 januari 2014 van de* [artikelen 67cc](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) *en* [67o van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) *(zie resp.* § 25a *en* § 2 *) en van een wijziging van* artikel 11 van de WIB *(zie *§ 28f*)*.     *Verder zijn de verzuimboeten voor betalingsgebreken in de periodiciteit (*§ 23, lid 3*) en de motorrijtuigenbelasting (*§ 33, lid 2*) verhoogd en zijn aanpassingen van meer redactionele en toelichtende aard aangebracht in *§ 1, lid 4*,* § 8, lid 9 *en *11 en § 36, lid 2 en 3.    
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
@@ -97,7 +97,7 @@ b. verzachtende omstandigheden die hebben geleid tot het beboetbare feit.
 
 3. Bij wanverhouding gaat het om het antwoord op de vraag hoe ernstig de normschending in het concrete geval moet worden opgevat. De afweging moet leiden tot een sanctie die proportioneel is, dat wil zeggen in evenredigheid staat tot de ernst van het feit. Indien de inspecteur zelf tot de gevolgtrekking komt dat van een wanverhouding sprake is, vermindert hij de boete op eigen initiatief.  
 
-3a. De absolute hoogte van de boete vormt op zichzelf geen aanleiding om de boete te matigen.  
+3a.  De absolute hoogte van de boete vormt op zichzelf geen aanleiding om de boete te matigen.  
 
 4. Bij verzachtende omstandigheden ligt de nadruk op buiten de (directe) invloedssfeer van belanghebbende liggende gebeurtenissen. Voor de beoordeling of die omstandigheden tot matiging van de boete aanleiding kunnen geven, kan het van belang zijn of, dan wel in hoeverre, belanghebbende maatregelen heeft getroffen of had kunnen treffen om het verzuim of vergrijp te voorkomen.  
 
@@ -178,9 +178,9 @@ b. verzachtende omstandigheden die hebben geleid tot het beboetbare feit.
 
 ####Kennisgeving en hoorplicht bij vergrijpboete
 
-1. Bij het opleggen van een verzuimboete gelden dezelfde waarborgen als bij het opleggen van een vergrijpboete, met uitzondering van de kennisgeving en hoorplicht vooraf (zie [artikel 67pa, eerste lid, van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Deze paragraaf is dus een extra waarborg bij vergrijpboeten.  
+1. Bij het opleggen van een verzuimboete gelden dezelfde waarborgen als bij het opleggen van een vergrijpboete, met uitzondering van de kennisgeving en hoorplicht vooraf (zie [artikel 67pa, eerste lid, van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Deze paragraaf is dus een extra waarborg bij vergrijpboeten.   
 
-2. Een kennisgeving is een rapport in de zin van [artikel 5:48 van de Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+2.Een kennisgeving is een rapport in de zin van [artikel 5:48 van de Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
 
 3. De kennisgeving van het voornemen een vergrijpboete op te leggen en van de gronden waarop dat voornemen berust, geschiedt schriftelijk. Het voorschrift om de kennisgeving schriftelijk te doen, is opgenomen om iedere twijfel over de nakoming van deze verplichting uit te sluiten.  
 
@@ -231,9 +231,9 @@ b. verzachtende omstandigheden die hebben geleid tot het beboetbare feit.
 
 1. Onder hetzelfde feit wordt verstaan dezelfde gedraging in materiële zin.  
 
-2a. In een aantal gevallen kan voor een beboetbare gedraging (hetzelfde feit) ofwel een verzuimboete ofwel een vergrijpboete opgelegd worden. Dit wordt samenloop genoemd; bijvoorbeeld bij aanslagbelastingen indien geen aangifte is gedaan (keuze tussen de [artikelen 67a](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67d van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).  
+2a.  In een aantal gevallen kan voor een beboetbare gedraging (hetzelfde feit) ofwel een verzuimboete ofwel een vergrijpboete opgelegd worden. Dit wordt samenloop genoemd; bijvoorbeeld bij aanslagbelastingen indien geen aangifte is gedaan (keuze tussen de [artikelen 67a](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67d van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).  
 
-2b. Indien het opleggen van een vergrijpboete tot een lager boetebedrag voor hetzelfde feit zou leiden dan het opleggen van een verzuimboete dan kiest de inspecteur voor het opleggen van de hogere verzuimboete.  
+2b.  Indien het opleggen van een vergrijpboete tot een lager boetebedrag voor hetzelfde feit zou leiden dan het opleggen van een verzuimboete dan kiest de inspecteur voor het opleggen van de hogere verzuimboete.  
 
 3. Een eenmaal opgelegde verzuimboete sluit het opleggen van een vergrijpboete voor hetzelfde feit uit ([artikel 5:43 van de Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)) behoudens bij nieuwe bezwaren ([art. 67q AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zie § 16).  
 
@@ -744,5 +744,5 @@ Den Haag
 16 december 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     
