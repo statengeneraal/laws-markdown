@@ -5,7 +5,7 @@
 ### Artikel  1  
 
 1.  In het ingevolge artikel 244 van Boek I van het Burgerlijk Wetboek BES bij het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba berustende openbaar register tekent de griffier rechtsfeiten aan, die betrekking hebben op de gezagsuitoefening over in de openbare lichamen Bonaire, Sint Eustatius en Saba geboren minderjarigen.   
-2.  Hetzelfde geldt voor minderjarigen die buiten de openbare lichamen Bonaire, Sint Eustatius en Saba geboren zijn of wier geboorteplaats onbekend is.   
+2.  Hetzelfde geldt voor minderjarigen die buiten de openbare lichamen Bonaire, Sint Eustatius en Saba geboren zijn of wier geboorteplaats onbekend is.  
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ f. alle rechterlijke beslissingen waarbij een der onder a, c, d of e bedoelde be
 g. de bereidverklaring tot aanvaarding van voogdij;  
 
 h. in kracht van gewijsde gegane uitspraken die een adoptie inhouden.     
-2.  Voor zover de in het vorige lid onder a, c, e, f, g en h genoemde feiten de griffier die deze moet registreren, niet ambtshalve bekend zijn, zullen de griffiers die deze ambtshalve hebben vernomen, hem daarvan onverwijld mededeling doen; de officieren van justitie doen hem onverwijld mededeling van bevelen bedoeld in het vorige lid onder d.   
+2.  Voor zover de in het vorige lid onder a, c, e, f, g en h genoemde feiten de griffier die deze moet registreren, niet ambtshalve bekend zijn, zullen de griffiers die deze ambtshalve hebben vernomen, hem daarvan onverwijld mededeling doen; de officieren van justitie doen hem onverwijld mededeling van bevelen bedoeld in het vorige lid onder d.  
 
 ### Artikel  3  
 
@@ -36,35 +36,35 @@ a. de wijziging of vaststelling van zijn geslachtsnaam en de vaststelling van zi
 
 b. de wijziging van zijn voornamen, zijn erkenning, de verlening van brieven van vaderschap of de ontkenning van het vaderschap door de moeder;  
 
-c. een in kracht van gewijsde gegane rechterlijke uitspraak, inhoudende de vernietiging van zijn erkenning, de gegrondverklaring van een ontkenning van het vaderschap of van een betwisting of inroeping van zijn staat, of de vernietiging van zulk een uitspraak, van welke gegevens de griffiers onverwijld kennis geven aan de in artikel 1 aangewezen griffier.    
+c. een in kracht van gewijsde gegane rechterlijke uitspraak, inhoudende de vernietiging van zijn erkenning, de gegrondverklaring van een ontkenning van het vaderschap of van een betwisting of inroeping van zijn staat, of de vernietiging van zulk een uitspraak, van welke gegevens de griffiers onverwijld kennis geven aan de in artikel 1 aangewezen griffier.   
 
 ### Artikel  4  
 
 1.  Elke kaart van het register bevat slechts de gegevens met betrekking tot de minderjarige wiens naam en voornamen aan het hoofd daarvan staan vermeld.   
-2.  Wanneer een kaart geheel beschreven is, wordt, zo nodig, voor dezelfde minderjarige een nieuwe kaart met hetzelfde hoofd aangelegd. Op elk der kaarten wordt aangegeven hoeveel kaarten van de betrokken minderjarige in het register zijn opgenomen.   
+2.  Wanneer een kaart geheel beschreven is, wordt, zo nodig, voor dezelfde minderjarige een nieuwe kaart met hetzelfde hoofd aangelegd. Op elk der kaarten wordt aangegeven hoeveel kaarten van de betrokken minderjarige in het register zijn opgenomen.  
 
 ### Artikel  5  
 
-Elke inschrijving in het register wordt door de griffier ondertekend en van dagtekening voorzien.  
+Elke inschrijving in het register wordt door de griffier ondertekend en van dagtekening voorzien. 
 
 ### Artikel  6  
 
-Het kaartregister wordt in alfabetische volgorde aangehouden. Onze Minister van Justitie kan hieromtrent nadere voorschriften geven.  
+Het kaartregister wordt in alfabetische volgorde aangehouden. Onze Minister van Justitie kan hieromtrent nadere voorschriften geven. 
 
 ### Artikel  7  
 
 1.  Binnen de eerste drie maanden van elk kalenderjaar worden de kaarten betreffende degenen, die in het vorige kalenderjaar achttien jaar geleden geboren waren, uit het register gelicht.   
-2.  Deze kaarten worden, per geboortejaar van betrokkenen in alfabetische volgorde gerangschikt, ter griffie bewaard.   
+2.  Deze kaarten worden, per geboortejaar van betrokkenen in alfabetische volgorde gerangschikt, ter griffie bewaard.  
 
 ### Artikel  8  
 
 1.  De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om tegen betaling aan ieder een uittreksel uit het register te verstrekken.   
-2.  Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van kaarten die reeds overeenkomstig artikel 7, eerste lid, uit het register zijn gelicht.   
+2.  Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van kaarten die reeds overeenkomstig artikel 7, eerste lid, uit het register zijn gelicht.  
 
 ### Artikel  9  
 
-Dit besluit berust op artikel 391, Boek 1, Burgerlijk Wetboek BES.  
+Dit besluit berust op artikel 391, Boek 1, Burgerlijk Wetboek BES. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit gezagsregisters BES.  
+Dit besluit wordt aangehaald als: Besluit gezagsregisters BES. 

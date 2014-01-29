@@ -6,24 +6,24 @@
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *verpakte geneesmiddelen:* verpakte geneesmiddelen als bedoeld in [artikel 1, onderdeel e van de Wet op de geneesmiddelenvoorziening BES](../../../../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md).  
+a.  *verpakte geneesmiddelen:* verpakte geneesmiddelen als bedoeld in [artikel 1, onderdeel e van de Wet op de geneesmiddelenvoorziening BES](../../../../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md).  
 
-b. *exploitant:* de exploitant van een televisie-inrichting als bedoeld in [artikel 1 van de Mediawet BES](../../../../../../../../wet-BES/mediawet/bes/BWBR0028433/README.md).    
+b.  *exploitant:* de exploitant van een televisie-inrichting als bedoeld in [artikel 1 van de Mediawet BES](../../../../../../../../wet-BES/mediawet/bes/BWBR0028433/README.md).   
 
 ### Artikel  1a  
 
-Dit besluit berust op [artikel 1, onderdeel e, van de Wet op de geneesmiddelenvoorziening BES](../../../../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md), alsmede op [artikel 1, onderdeel e, van de Mediawet BES](../../../../../../../../wet-BES/mediawet/bes/BWBR0028433/README.md).  
+Dit besluit berust op [artikel 1, onderdeel e, van de Wet op de geneesmiddelenvoorziening BES](../../../../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md), alsmede op [artikel 1, onderdeel e, van de Mediawet BES](../../../../../../../../wet-BES/mediawet/bes/BWBR0028433/README.md). 
 
 ### Artikel  2  
 
 1.  Het is een exploitant toegestaan reclameboodschappen uit te zenden die betrekking hebben op verpakte geneesmiddelen, tenzij Onze Minister bij ministeriële regeling verpakte geneesmiddelen aanwijst ten aanzien waarvan geen reclame mag worden uitgezonden.   
 2.  Onverminderd het in het eerste lid bepaalde is het een exploitant van een betaaltelevisiesysteem verboden reclameboodschappen die betrekking hebben op verpakte geneesmiddelen toe te voegen aan door hem uitgezonden programma’s.   
-3.  Een aanwijzing als bedoeld in het eerste lid wordt enkel gegeven met het oog op het belang van de algemene volksgezondheid.   
+3.  Een aanwijzing als bedoeld in het eerste lid wordt enkel gegeven met het oog op het belang van de algemene volksgezondheid.  
 
 ### Artikel  3  
 
 1.  De exploitant draagt er zorg voor dat steeds direct na een reclameboodschap, de volgende aankondigingen wordt uitgezonden: «Raadpleeg uw huisarts of apotheker, alvorens enige medicijn te gebruiken» en «Lees voor het kopen of gebruiken eerst de aanwijzingen op de verpakking».   
-2.  Deze aankondigingen dienen te geschieden in de landstaal en in de taal welke gebezigd werd in de daaraan voorafgegane reclameboodschap.   
+2.  Deze aankondigingen dienen te geschieden in de landstaal en in de taal welke gebezigd werd in de daaraan voorafgegane reclameboodschap.  
 
 ### Artikel  4  
 
@@ -69,16 +69,16 @@ n. de vermelding van ernstige therapeutische indicaties te maken, zoals:
 
 5° chronische slapeloosheid;  
 
-6° diabetes en andere stofwisselingsziekten.       
+6° diabetes en andere stofwisselingsziekten.      
 
-### Artikel  5  
+###Artikel  5 
 
-Het landsbesluit televisiereclame voor geneesmiddelen (P.B. 1986, no. 149) wordt ingetrokken.  
+Het landsbesluit televisiereclame voor geneesmiddelen (P.B. 1986, no. 149) wordt ingetrokken.
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit televisiereclame voor geneesmiddelen 2000 BES.  
+Dit besluit wordt aangehaald als: Besluit televisiereclame voor geneesmiddelen 2000 BES. 
 
 ### Artikel  7  
 
-[Vervallen]  
+[Vervallen] 

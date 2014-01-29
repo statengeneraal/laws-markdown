@@ -4,7 +4,7 @@
 
 ### Artikel  1  
 
-Het register, bedoeld in artikel 16, tweede lid, van de Faillissementswet BES, wordt ingericht volgens het bij dit besluit behoorend model. Alle inschrijvingen in het register worden door den griffier onderteekend.  
+Het register, bedoeld in artikel 16, tweede lid, van de Faillissementswet BES, wordt ingericht volgens het bij dit besluit behoorend model. Alle inschrijvingen in het register worden door den griffier onderteekend. 
 
 ### Artikel  2  
 
@@ -46,8 +46,8 @@ Registers, welke voldoen aan het model behoorende bij het in het tweede lid van 
 
 18. Opmerkingen.  
 
-19. Jaar en volgnummer gedurende den loop van elk jaar.    
+19. Jaar en volgnummer gedurende den loop van elk jaar.   
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit ter uitvoering van artikel 16, tweede lid van de Faillissementswet BES.  
+Dit besluit wordt aangehaald als: Besluit ter uitvoering van artikel 16, tweede lid van de Faillissementswet BES. 

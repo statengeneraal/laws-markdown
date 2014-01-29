@@ -14,7 +14,7 @@ c. de relevante algemene informatie over de vereiste reisdocumenten en over de f
 
 d. informatie over de mogelijkheid van een annuleringsverzekering;  
 
-e. de termijn waarbinnen de reiziger de reisorganisatie ervan in kennis moet stellen dat de reis niet aan zijn verwachtingen voldoet.    
+e. de termijn waarbinnen de reiziger de reisorganisatie ervan in kennis moet stellen dat de reis niet aan zijn verwachtingen voldoet.   
 
 ### Artikel  2  
 
@@ -38,7 +38,7 @@ b. ten aanzien van het verblijf:
 
 c. de andere toeristische diensten die een significant deel van de reis uitmaken;  
 
-d. dat er een minimaal aantal personen voor de reis vereist is en dat het aantal daarvan in de overeenkomst zal worden opgenomen, evenals de uiterste datum waarop de reiziger in kennis wordt gesteld van de annulering van de reis wegens ontbreken van dat aantal.    
+d. dat er een minimaal aantal personen voor de reis vereist is en dat het aantal daarvan in de overeenkomst zal worden opgenomen, evenals de uiterste datum waarop de reiziger in kennis wordt gesteld van de annulering van de reis wegens ontbreken van dat aantal.   
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ Voor de aanvang van de reis verstrekt de reisorganisator de reiziger de volgende
 
 a. de naam, het adres en het telefoonnummer van de plaatselijke vertegenwoordiger van de reisorganisator of, bij ontbreken daarvan, van de plaatselijke instantie of instanties die de reiziger kunnen helpen of, bij ontbreken ook daarvan, een telefoonnummer voor noodgevallen of andere informatie waardoor hij in contact kan treden met de reisorganisator;  
 
-b. informatie over de mogelijkheid van een reisverzekering.    
+b. informatie over de mogelijkheid van een reisverzekering.   
 
 ### Artikel  4  
 
@@ -58,12 +58,12 @@ b. informatie over de door de reiziger in het vervoermiddel in te nemen plaats;
 
 c. een beschrijving van de route naar de plaats of plaatsen van verblijf;  
 
-d. informatie over de mogelijkheid van rechtstreeks contact met een minderjarige reiziger in het buitenland indien deze niet wordt begeleid door een meerderjarige reiziger, of met de persoon die ter plaatse voor het verblijf van die minderjarige verantwoordelijk is.    
+d. informatie over de mogelijkheid van rechtstreeks contact met een minderjarige reiziger in het buitenland indien deze niet wordt begeleid door een meerderjarige reiziger, of met de persoon die ter plaatse voor het verblijf van die minderjarige verantwoordelijk is.   
 
 ### Artikel  5  
 
-Dit besluit berust op artikel 501, eerste lid, en 502, tweede lid, Boek 7, Burgerlijk Wetboek BES.  
+Dit besluit berust op artikel 501, eerste lid, en 502, tweede lid, Boek 7, Burgerlijk Wetboek BES. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit gegevens georganiseerde reizen BES.  
+Dit besluit wordt aangehaald als: Besluit gegevens georganiseerde reizen BES. 
