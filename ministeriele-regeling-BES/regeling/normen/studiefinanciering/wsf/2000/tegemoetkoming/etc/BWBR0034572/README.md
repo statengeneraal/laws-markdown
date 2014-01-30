@@ -15,29 +15,29 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder: 
 
-a. *WSF 2000:*[Wet studiefinanciering 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);  
+a.  *WSF 2000:* [Wet studiefinanciering 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);  
 
-b. *BSF 2000:*[Besluit studiefinanciering 2000](../../../../../../../../../AMvB/besluit/studiefinanciering/2000/BWBR0011545/README.md);  
+b.  *BSF 2000:* [Besluit studiefinanciering 2000](../../../../../../../../../AMvB/besluit/studiefinanciering/2000/BWBR0011545/README.md);  
 
-c. *WSF BES:*[Wet studiefinanciering BES](../../../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md);  
+c.  *WSF BES:* [Wet studiefinanciering BES](../../../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md);  
 
-d. *WTOS:*[Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md);  
+d.  *WTOS:* [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md);  
 
-e. *BTOS:*[Besluit tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../AMvB/besluit/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012645/README.md).    
+e.  *BTOS:* [Besluit tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../AMvB/besluit/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012645/README.md).   
 
 ### Artikel  2  
 
-####Indexcijfer cao-lonen en consumentenprijsindex
+####Indexcijfer CAO-lonen en consumentenprijsindex
 
 1.  Onder indexcijfer van de cao-lonen als bedoeld in [artikel 17, derde lid, van het BSF 2000](../../../../../../../../../AMvB/besluit/studiefinanciering/2000/BWBR0011545/README.md) en [artikel 5, derde lid, van het BTOS](../../../../../../../../../AMvB/besluit/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012645/README.md) wordt verstaan: de reeks ‘CAO-lonen per maand inclusief bijzondere beloningen’, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd in het Statistisch Bulletin.   
 2.  Onder consumentenprijsindex als bedoeld in [artikel 17, derde lid, van het BSF 2000](../../../../../../../../../AMvB/besluit/studiefinanciering/2000/BWBR0011545/README.md), en [artikel 5, derde lid, van het BTOS](../../../../../../../../../AMvB/besluit/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012645/README.md), wordt verstaan: de reeks ‘consumentenprijsindex alle huishoudens’, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd in het Statistisch Bulletin.   
-3.  Voor de toepassing van [artikel 8.1, eerste lid, van de WSF BES](../../../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md) wordt onder consumentenprijsindex verstaan: de index opgenomen in de reeks ‘consumentenprijsindex Caribisch Nederland’ voor Bonaire, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd op internet (Statline).   
+3.  Voor de toepassing van [artikel 8.1, eerste lid, van de WSF BES](../../../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md) wordt onder consumentenprijsindex verstaan: de index opgenomen in de reeks ‘consumentenprijsindex Caribisch Nederland’ voor Bonaire, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd op internet (Statline).  
 
 ### Artikel  3  
 
 ####Rentepercentage 2014
 
-Het rentepercentage, bedoeld in [artikel 6.3 van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), en [artikel 4.3 van de WSF BES](../../../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), wordt voor het jaar 2014 vastgesteld op 0,81 procent.  
+Het rentepercentage, bedoeld in [artikel 6.3 van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), en [artikel 4.3 van de WSF BES](../../../../../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md), wordt voor het jaar 2014 vastgesteld op 0,81 procent. 
 
 ### Hoofdstuk  2  
 
@@ -47,19 +47,19 @@ Het rentepercentage, bedoeld in [artikel 6.3 van de WSF 2000](../../../../../../
 
 ####Aanpassing toetsingsinkomen partner
 
-Met ingang van 1 januari 2014 wordt het bedrag, genoemd in [artikel 3.4, tweede lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 9.150,27.  
+Met ingang van 1 januari 2014 wordt het bedrag, genoemd in [artikel 3.4, tweede lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 9.150,27. 
 
 ### Artikel  5  
 
 ####Aanpassing vrije voet veronderstelde ouderlijke bijdrage
 
-Met ingang van 1 januari 2014 worden de bedragen, genoemd in [artikel 3.9, derde lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 17.928,66 respectievelijk € 22.736,38.  
+Met ingang van 1 januari 2014 worden de bedragen, genoemd in [artikel 3.9, derde lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 17.928,66 respectievelijk € 22.736,38. 
 
 ### Artikel  6  
 
 ####Aanpassing vrije voet eigen inkomsten studerende
 
-Met ingang van 1 januari 2014 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 13.729,80.  
+Met ingang van 1 januari 2014 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 13.729,80. 
 
 ### Artikel  7  
 
@@ -91,7 +91,7 @@ Overzicht 2. Financieringsbronnen
 
 ####Hoogte lening
 
-Van 1 januari 2014 tot 1 januari 2015 wordt het bedrag, genoemd in de [artikelen 4.7, vierde lid](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [4.18, tweede lid](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [5.2, derde lid](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), en [10.3, derde lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 894,51.  
+Van 1 januari 2014 tot 1 januari 2015 wordt het bedrag, genoemd in de [artikelen 4.7, vierde lid](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [4.18, tweede lid](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [5.2, derde lid](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), en [10.3, derde lid, van de WSF 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), vastgesteld op € 894,51. 
 
 ### Hoofdstuk  3  
 
@@ -102,7 +102,7 @@ Van 1 januari 2014 tot 1 januari 2015 wordt het bedrag, genoemd in de [artikel
 ####Aanpassingen grensbedragen draagkracht en toetsingsinkomen
 
 1.  Met ingang van schooljaar 2014–2015 wordt het grensbedrag draagkracht, bedoeld in [artikel 2.23, tweede lid, van de WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), vastgesteld op € 35.763,02.   
-2.  Van 1 januari 2014 tot 1 januari 2015 wordt het grensbedrag toetsingsinkomen, bedoeld in [artikel 10.5, tweede lid, van de WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), vastgesteld op € 3.712,73.   
+2.  Van 1 januari 2014 tot 1 januari 2015 wordt het grensbedrag toetsingsinkomen, bedoeld in [artikel 10.5, tweede lid, van de WTOS](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), vastgesteld op € 3.712,73.  
 
 ### Artikel  10  
 
@@ -140,7 +140,7 @@ b. uitwonende leerling: € 253,66.   De tegemoetkoming schoolkosten, bedoeld i
 
 ###Afdeling 5.1
 
-De tegemoetkoming schoolkosten, bedoeld in [artikel 5.4 van de wet](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), bedraagt voor het schooljaar 2014–2015: € 706,66. 
+De tegemoetkoming schoolkosten, bedoeld in [artikel 5.4 van de wet](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), bedraagt voor het schooljaar 2014–2015: € 706,66.
 ###Hoofdstuk 5
 
 ###Afdeling 5.2
@@ -173,17 +173,17 @@ a. [artikel 10.7, derde lid, onder a, van de wet](../../../../../../../../../wet
 
 b. [artikel 10.7, derde lid, onder b, van de wet](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), bedraagt voor het schooljaar 2014–2015: € 302,35  
 
-c. [artikel 10.7, derde lid, onder c, van de wet](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), bedraagt voor het schooljaar 2014–2015: € 203,70.    
+c. [artikel 10.7, derde lid, onder c, van de wet](../../../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), bedraagt voor het schooljaar 2014–2015: € 203,70.  
 
 ### Hoofdstuk  4  
 
-####Normen studiefinanciering bes
+####Normen studiefinanciering BES
 
 ### Artikel  11  
 
 ####Normbedragen per 1 januari 2014
 
-Wijzigt de Wet studiefinanciering BES.   
+Wijzigt de Wet studiefinanciering BES. 
 
 ### Hoofdstuk  5  
 
@@ -193,19 +193,19 @@ Wijzigt de Wet studiefinanciering BES.
 
 ####Het maximale verrekenbedrag 2014 in de [Regeling studiefinanciering 2000](../../../../../../../../../ministeriele-regeling/regeling/studiefinanciering/2000/BWBR0011595/README.md)
 
-Wijzigt de Regeling studiefinanciering 2000.   
+Wijzigt de Regeling studiefinanciering 2000. 
 
 ### Artikel  13  
 
 ####Het maximale verrekenbedrag 2014 in de [Regeling tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012690/README.md)
 
-Wijzigt de Regeling tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt de Regeling tegemoetkoming onderwijsbijdrage en schoolkosten. 
 
 ### Artikel  14  
 
 ####Het maximale verrekenbedrag 2014 in de [Regeling studiefinanciering BES](../../../../../../../../../ministeriele-regeling-BES/regeling/studiefinanciering/bes/BWBR0030183/README.md)
 
-Wijzigt de Regeling studiefinanciering BES.   
+Wijzigt de Regeling studiefinanciering BES. 
 
 ### Hoofdstuk  6  
 
@@ -216,15 +216,15 @@ Wijzigt de Regeling studiefinanciering BES.
 ####Inwerkingtreding en vervaldatum
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2014 en vervalt met ingang van 1 augustus 2015.   
-2.  Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2013, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2014.   
+2.  Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2013, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2014.  
 
 ### Artikel  16  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling normen studiefinanciering WSF 2000, tegemoetkoming onderwijsbijdrage en schoolkosten en studiefinanciering WSF BES, voor het jaar 2014.  
+Deze regeling wordt aangehaald als: Regeling normen studiefinanciering WSF 2000, tegemoetkoming onderwijsbijdrage en schoolkosten en studiefinanciering WSF BES, voor het jaar 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker     

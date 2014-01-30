@@ -15,21 +15,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *school:* een uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dan wel een instelling als bedoeld in [artikel 1.1.1, onderdeel b van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *school:* een uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dan wel een instelling als bedoeld in [artikel 1.1.1, onderdeel b van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-c. *po:* het primair onderwijs, bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
+c.  *po:* het primair onderwijs, bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-d. *vo:* het voortgezet onderwijs, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+d.  *vo:* het voortgezet onderwijs, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-e. *bve:* het beroepsonderwijs en de volwasseneneducatie, bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e.  *bve:* het beroepsonderwijs en de volwasseneneducatie, bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-f. *lerarenopleiding:* lerarenopleiding verbonden aan een instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+f.  *lerarenopleiding:* lerarenopleiding verbonden aan een instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-g. *opleidingsschool:* partnerschap tussen één of meer scholen voor po, vo of bve-instellingen en één of meer lerarenopleidingen dat in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleidt en wordt gesubsidieerd op grond van de [Regeling tegemoetkoming kosten opleidingsschool](../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/kosten/opleidingsscholen/BWBR0025839/README.md);  
+g.  *opleidingsschool:* partnerschap tussen één of meer scholen voor po, vo of bve-instellingen en één of meer lerarenopleidingen dat in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleidt en wordt gesubsidieerd op grond van de [Regeling tegemoetkoming kosten opleidingsschool](../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/kosten/opleidingsscholen/BWBR0025839/README.md);  
 
-h. *academische opleidingsschool:* opleidingsschool die het opleiden van leraren verbindt met het door de leraar in opleiding verrichten van praktijkgericht onderzoek en schoolontwikkeling en wordt gesubsidieerd op grond van de [Regeling verdiepingsslag academische opleidingsschool 2009–2011](../../../../../../../ministeriele-regeling/regeling/verdiepingsslag/academische/opleidingsschool/2009–2011/BWBR0025827/README.md).    
+h.  *academische opleidingsschool:* opleidingsschool die het opleiden van leraren verbindt met het door de leraar in opleiding verrichten van praktijkgericht onderzoek en schoolontwikkeling en wordt gesubsidieerd op grond van de [Regeling verdiepingsslag academische opleidingsschool 2009–2011](../../../../../../../ministeriele-regeling/regeling/verdiepingsslag/academische/opleidingsschool/2009–2011/BWBR0025827/README.md).   
 
 ### Artikel  2  
 
@@ -37,31 +37,31 @@ h. *academische opleidingsschool:* opleidingsschool die het opleiden van leraren
 
 1.  De Minister kan in aanloop naar structurele financiering van de academische opleidingsschool in de periode 1 januari 2012 tot en met maximaal 31 december 2016 aan een beperkt aantal academische opleidingsscholen en opleidingsscholen subsidie verstrekken met het oog op de verankering van het concept ‘academische opleidingsschool’ in de opleidingsschool.   
 2.  De subsidie wordt verstrekt als tegemoetkoming in de uitgaven die zijn verbonden aan de activiteiten die de academische opleidingsscholen of opleidingsscholen ondernemen om te komen tot verankering van het concept ‘academische opleidingsschool’ in de opleidingsschool. De subsidie kan ook worden gebruikt voor andere activiteiten van de scholen waarvoor bekostiging wordt verstrekt.   
-3.  Onder concept ‘academische opleidingsschool’ wordt verstaan een goed functionerende academische opleidingsschool met een duurzame onderzoekinfrastructuur waar opleiding, praktijkgericht onderzoek en schoolontwikkeling optimaal verbonden zijn.   
+3.  Onder concept ‘academische opleidingsschool’ wordt verstaan een goed functionerende academische opleidingsschool met een duurzame onderzoekinfrastructuur waar opleiding, praktijkgericht onderzoek en schoolontwikkeling optimaal verbonden zijn.  
 
 ### Artikel  3  
 
 ####Geen activiteitenplan en begroting
 
-[Artikel 4 van de Regeling OCW-subsidies](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is niet van toepassing op subsidieverstrekking op grond van deze regeling.  
+[Artikel 4 van de Regeling OCW-subsidies ](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md)is niet van toepassing op subsidieverstrekking op grond van deze regeling. 
 
 ### Artikel  4  
 
 ####Subsidieontvanger
 
-Subsidie wordt slechts verstrekt aan een rechtspersoon met volledige rechtsbevoegdheid waarvan de statutaire doelstelling in elk geval betrekking heeft op de te subsidiëren activiteiten, bedoeld in artikel 2.  
+Subsidie wordt slechts verstrekt aan een rechtspersoon met volledige rechtsbevoegdheid waarvan de statutaire doelstelling in elk geval betrekking heeft op de te subsidiëren activiteiten, bedoeld in artikel 2. 
 
 ### Artikel  5  
 
 ####Subsidieplafond
 
-Voor subsidieverstrekking op grond van deze regeling is voor de jaren 2012 tot en met 2016 een bedrag van € 17.500.000 beschikbaar.  
+Voor subsidieverstrekking op grond van deze regeling is voor de jaren 2012 tot en met 2016 een bedrag van € 17.500.000 beschikbaar. 
 
 ### Artikel  6  
 
 ####Subsidiebedrag
 
-De subsidie per subsidieontvanger bedraagt € 350.000, onverminderd artikel 14, tweede lid.  
+De subsidie per subsidieontvanger bedraagt € 350.000, onverminderd artikel 14, tweede lid. 
 
 ### Hoofdstuk  2  
 
@@ -72,21 +72,21 @@ De subsidie per subsidieontvanger bedraagt € 350.000, onverminderd artikel 14
 ####Subsidieaanvraag
 
 1.  Subsidie wordt aangevraagd door de penvoerder van de academische opleidingsschool of opleidingsschool. De penvoerder is de door de partijen van het partnerschap aangewezen rechtspersoon die namens de partijen van de academische opleidingsschool of opleidingsschool optreedt.   
-2.  Bij de aanvraag wordt een door alle partijen van de academische opleidingsschool of opleidingsschool getekende verklaring gevoegd waaruit blijkt dat de rechtspersoon, bedoeld in het eerste lid, gemachtigd is de academische opleidingsschool of opleidingsschool in en buiten rechte te vertegenwoordigen.   
+2.  Bij de aanvraag wordt een door alle partijen van de academische opleidingsschool of opleidingsschool getekende verklaring gevoegd waaruit blijkt dat de rechtspersoon, bedoeld in het eerste lid, gemachtigd is de academische opleidingsschool of opleidingsschool in en buiten rechte te vertegenwoordigen.  
 
 ### Artikel  8  
 
 ####Vereisten subsidieaanvraag
 
 1.  Een aanvraag wordt ingediend bij het Agentschap NL te Den Haag met behulp van het formulier, bedoeld in bijlage 1.   
-2.  Onverminderd artikel 7, tweede lid, gaat een aanvraag vergezeld van de documenten, bedoeld in bijlage 1.   
+2.  Onverminderd artikel 7, tweede lid, gaat een aanvraag vergezeld van de documenten, bedoeld in bijlage 1.  
 
 ### Artikel  9  
 
 ####Termijn indiening aanvraag
 
 1.  De aanvraag wordt uiterlijk 31 december 2011 ingediend.   
-2.  Een aanvraag die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling is ingediend, wordt aangemerkt als een aanvraag die op het tijdstip van inwerkingtreding van deze regeling is ingediend.   
+2.  Een aanvraag die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling is ingediend, wordt aangemerkt als een aanvraag die op het tijdstip van inwerkingtreding van deze regeling is ingediend.  
 
 ### Hoofdstuk  3  
 
@@ -96,20 +96,20 @@ De subsidie per subsidieontvanger bedraagt € 350.000, onverminderd artikel 14
 
 ####Weigeringsgronden
 
-De subsidie kan worden geweigerd, indien de subsidieaanvrager in onvoldoende mate voldoet aan de criteria, bedoeld in bijlage 2.  
+De subsidie kan worden geweigerd, indien de subsidieaanvrager in onvoldoende mate voldoet aan de criteria, bedoeld in bijlage 2. 
 
 ### Artikel  11  
 
 ####Criteria verdeling subsidie
 
 1.  De Minister voorziet in een gelijktijdige beslissing op de aanvragen op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie.   
-2.  Bij overschrijding van het subsidieplafond en bij gelijke geschiktheid verdeelt de Minister het beschikbare bedrag op basis van een evenwichtige spreiding van de academische opleidingsscholen of opleidingsscholen over de sectoren po, vo en bve en een evenwichtige spreiding over Nederland.   
+2.  Bij overschrijding van het subsidieplafond en bij gelijke geschiktheid verdeelt de Minister het beschikbare bedrag op basis van een evenwichtige spreiding van de academische opleidingsscholen of opleidingsscholen over de sectoren po, vo en bve en een evenwichtige spreiding over Nederland.  
 
 ### Artikel  12  
 
 ####Advies voorafgaand aan de subsidieverstrekking
 
-Het Agentschap NL adviseert de Minister over de subsidieaanvraag bedoeld in artikel 8, op basis van de criteria, bedoeld in bijlage 2.  
+Het Agentschap NL adviseert de Minister over de subsidieaanvraag bedoeld in artikel 8, op basis van de criteria, bedoeld in bijlage 2. 
 
 ### Artikel  13  
 
@@ -118,14 +118,14 @@ Het Agentschap NL adviseert de Minister over de subsidieaanvraag bedoeld in arti
 1.  [De artikelen 16](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) en [17 van de Regeling OCW-subsidies](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) zijn niet van toepassing.   
 2.  De minister beslist uiterlijk 31 maart 2012 op een aanvraag.   
 3.  In afwijking van het tweede lid beslist de minister op een aanvraag als bedoeld in artikel 9, tweede lid, uiterlijk 31 december 2011.   
-4.  De subsidie wordt vastgesteld zonder voorafgaande subsidieverlening.   
+4.  De subsidie wordt vastgesteld zonder voorafgaande subsidieverlening.  
 
 ### Artikel  14  
 
 ####Tijdvak subsidieverstrekking
 
 1.  Subsidie wordt verstrekt met ingang van 1 januari 2012 en eindigt uiterlijk per 31 december 2016.   
-2.  In afwijking van het eerste lid eindigt de subsidie per 31 december van het jaar waarin de accreditatietermijn, bedoeld in [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een lerarenopleiding die deel uitmaakt van een academische opleidingsschool of opleidingsschool, afloopt.   
+2.  In afwijking van het eerste lid eindigt de subsidie per 31 december van het jaar waarin de accreditatietermijn, bedoeld in [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een lerarenopleiding die deel uitmaakt van een academische opleidingsschool of opleidingsschool, afloopt.  
 
 ### Hoofdstuk  4  
 
@@ -136,7 +136,7 @@ Het Agentschap NL adviseert de Minister over de subsidieaanvraag bedoeld in arti
 ####Informatieplicht
 
 1.  De subsidieontvanger werkt mee aan door de Minister ingestelde onderzoeken die erop gericht zijn de Minister inlichtingen te verschaffen voor de ontwikkeling van het door de Minister te voeren beleid.   
-2.  De academische opleidingsscholen werken in de periode 2012 tot 2014 de vragen, bedoeld in bijlage 3, uit. Over de resultaten doen zij schriftelijk verslag.   
+2.  De academische opleidingsscholen werken in de periode 2012 tot 2014 de vragen, bedoeld in bijlage 3, uit. Over de resultaten doen zij schriftelijk verslag.  
 
 ### Artikel  16  
 
@@ -144,7 +144,7 @@ Het Agentschap NL adviseert de Minister over de subsidieaanvraag bedoeld in arti
 
 1.  [De artikelen 8](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md), [19](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md), [21](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) en [22 van de Regeling OCW-subsidies](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) zijn niet van toepassing.   
 2.  De verantwoording van de subsidie geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs.   
-3.  De accountantsverklaring bij de jaarrekening, bedoeld in de Regeling jaarverslaggeving onderwijs, omvat tevens een oordeel over de rechtmatige besteding van de subsidie.   
+3.  De accountantsverklaring bij de jaarrekening, bedoeld in de Regeling jaarverslaggeving onderwijs, omvat tevens een oordeel over de rechtmatige besteding van de subsidie.  
 
 ### Hoofdstuk  5  
 
@@ -154,7 +154,7 @@ Het Agentschap NL adviseert de Minister over de subsidieaanvraag bedoeld in arti
 
 ####Betaling per jaar
 
-Het subsidiebedrag wordt in gelijke gedeelten van € 70.000 per jaar aan de subsidieontvanger betaald, onverminderd artikel 14, tweede lid. Het eerste gedeelte wordt betaald binnen zes weken na de subsidievaststelling. De daarop volgende gedeelten worden jaarlijks betaald in de maand februari.  
+Het subsidiebedrag wordt in gelijke gedeelten van € 70.000 per jaar aan de subsidieontvanger betaald, onverminderd artikel 14, tweede lid. Het eerste gedeelte wordt betaald binnen zes weken na de subsidievaststelling. De daarop volgende gedeelten worden jaarlijks betaald in de maand februari. 
 
 ### Hoofdstuk  6  
 
@@ -164,21 +164,21 @@ Het subsidiebedrag wordt in gelijke gedeelten van € 70.000 per jaar aan de su
 
 ####Inwerkingtreding
 
-1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 januari 2018.   
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst.  
+2.  Deze regeling vervalt met ingang van 1 januari 2018. 
 
 ### Artikel  19  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling verankering academische opleidingsschool 2012–2016.  
+Deze regeling wordt aangehaald als: Regeling verankering academische opleidingsschool 2012–2016. 
 Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-H.Zijlstra  
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+H. Zijlstra    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, behorend bij artikel 8 
 
@@ -186,7 +186,7 @@ H.Zijlstra
 
 ####1. Algemene gegevens
 
-*Administratieve gegevens penvoerende instantie*  Naam instelling: Postadres, postcode, plaats: Bezoekadres, postcode, plaats: BRIN-nummer: Status inspectie: Gegevens contactpersoon (naam, telefoonnummer, e-mail): Bankrekeningnummer, tenaamstelling en plaats: Handtekening:  *Administratieve gegevens partners, weergegeven per partner*  Naam instelling: BRIN-nummer: Gegevens contactpersoon (naam, telefoonnummer, e-mail): Handtekening:  *Einddatum accreditatietermijn, weergegeven per lerarenopleiding*  Lerarenopleiding: Einddatum accreditatie:  
+*Administratieve gegevens penvoerende instantie*  Naam instelling: Postadres, postcode, plaats: Bezoekadres, postcode, plaats: BRIN-nummer: Status inspectie: Gegevens contactpersoon (naam, telefoonnummer, e-mail): Bankrekeningnummer, tenaamstelling en plaats: Handtekening:  *Administratieve gegevens partners, weergegeven per partner*  Naam instelling: BRIN-nummer: Gegevens contactpersoon (naam, telefoonnummer, e-mail): Handtekening:  *Einddatum accreditatietermijn, weergegeven per lerarenopleiding*  Lerarenopleiding: Einddatum accreditatie: 
 
 ####2. Aan te leveren documenten
 
@@ -196,27 +196,27 @@ H.Zijlstra
 
 * afspraken over de manier waarop kennis wordt gedeeld;  
 
-* afspraken over een regelmatige evaluatie van processen en opbrengsten.   *Het onderzoeksprogramma* met daarin minimaal: 
+* afspraken over een regelmatige evaluatie van processen en opbrengsten.    *Het onderzoeksprogramma* met daarin minimaal: 
 
 * een gezamenlijke visie op onderzoek en de ambitie van het partnerschap;  
 
 * de onderzoeksthema’s op hoofdlijnen;  
 
-* een heldere verdeling van de taken, verantwoordelijkheden en bevoegdheden van de partners.   *Overige relevante documenten* die beknopte informatie bieden over de academische opleidingsschool die van belang is voor de beoordeling van de aanvraag. Deze documenten zijn niet verplicht.  
+* een heldere verdeling van de taken, verantwoordelijkheden en bevoegdheden van de partners.    *Overige relevante documenten*die beknopte informatie bieden over de academische opleidingsschool die van belang is voor de beoordeling van de aanvraag. Deze documenten zijn niet verplicht. 
 
 ####Aantal exemplaren en adresgegevens
 
-De opleidingsschool dient de aanvraag schriftelijk in enkelvoud in op het volgende adres: Agentschap NL o.v.v. Academische opleidingsscholen Postbus 93144 2509 AC Den Haag Een digitale versie (in format Word of Adobe-pdf) dient te worden gemaild naar aos@agentschapnl.nl  
+De opleidingsschool dient de aanvraag schriftelijk in enkelvoud in op het volgende adres: Agentschap NL o.v.v. Academische opleidingsscholen Postbus 93144 2509 AC Den Haag Een digitale versie (in format Word of Adobe-pdf) dient te worden gemaild naar aos@agentschapnl.nl 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####, behorend bij artikel 10  en 12 
 
 ####Criteria voor de beoordeling van een subsidieaanvraag
 
-De onderstaande criteria zijn opgesteld ter beoordeling van de subsidieaanvraag voor de Regeling verankering academische opleidingsschool 2012–2016. De criteria zijn gebaseerd op het ‘Advies verankering Academische opleidingsscholen’ (Agentschap NL, mei 2011) en zijn aanvullend op de voorwaarden van het bestaande toetsingskader van de NVAO voor de [Regeling tegemoetkoming kosten opleidingsschool](../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/kosten/opleidingsscholen/BWBR0025839/README.md). 
+De onderstaande criteria zijn opgesteld ter beoordeling van de subsidieaanvraag voor de Regeling verankering academische opleidingsschool 2012–2016. De criteria zijn gebaseerd op het ‘Advies verankering Academische opleidingsscholen’ (Agentschap NL, mei 2011) en zijn aanvullend op de voorwaarden van het bestaande toetsingskader van de NVAO voor de[ Regeling tegemoetkoming kosten opleidingsschool](../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/kosten/opleidingsscholen/BWBR0025839/README.md). 
 
-1.  *De academische opleidingsschool* *verbindt het opleiden van leraren met het verrichten van praktijkgericht onderzoek en schoolontwikkeling*  <sup> 1  Voor deze bijlage mede begrepen opleidingsschool.  </sup> Aantoonbaar wordt gemaakt dat het onderzoek: 
+1.  *De academische opleidingsschool* <sup> 1 Voor deze bijlage mede begrepen opleidingsschool. </sup> *verbindt het opleiden van leraren met het verrichten van praktijkgericht onderzoek en schoolontwikkeling*  Aantoonbaar wordt gemaakt dat het onderzoek: 
 
 * bijdraagt aan de opleiding en ontwikkeling van de student;  
 
@@ -252,9 +252,9 @@ De onderstaande criteria zijn opgesteld ter beoordeling van de subsidieaanvraag 
 
 * het onderzoek en de resultaten moeten voldoen.    
 
-6.  *De academische opleidingsschool zorgt voor kennisdeling tussen de partners en met de andere academische opleidingsscholen*  Er vindt regelmatige kennisdeling tussen de partners plaats en met de andere academische opleidingsscholen (bijv. consultatie, bijeenkomsten, overleggen). Daarbij gaat het niet alleen om het verspreiden van onderzoeksresultaten, maar vooral ook om het delen van kennis over en ervaringen met de ontwikkeling van het concept ‘academische opleidingsschool’.    
+6.  *De academische opleidingsschool zorgt voor kennisdeling tussen de partners en met de andere academische opleidingsscholen*  Er vindt regelmatige kennisdeling tussen de partners plaats en met de andere academische opleidingsscholen (bijv. consultatie, bijeenkomsten, overleggen). Daarbij gaat het niet alleen om het verspreiden van onderzoeksresultaten, maar vooral ook om het delen van kennis over en ervaringen met de ontwikkeling van het concept ‘academische opleidingsschool’.   
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####, behorend bij artikel 15 
 

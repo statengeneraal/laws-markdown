@@ -19,7 +19,7 @@ In deze regeling wordt verstaan onder:
 
 a. Minister: de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. Akademie-assistent: door de instelling voor het programma geselecteerde student.    
+b. Akademie-assistent: door de instelling voor het programma geselecteerde student.   
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ b. Akademie-assistent: door de instelling voor het programma geselecteerde stude
 
 a. voor de subsidieaanvragen, bedoeld in artikel 3, tweede lid onder a, het doel is te leren wat de meest effectieve manieren zijn om functie van de Akademie-assistent vorm te geven en te organiseren;  
 
-b. voor de subsidieaanvragen, bedoeld in artikel 3, tweede lid onder b, het doel is te beoordelen of het hier om een duurzame functie gaat die structureel kan worden ingepast.     
+b. voor de subsidieaanvragen, bedoeld in artikel 3, tweede lid onder b, het doel is te beoordelen of het hier om een duurzame functie gaat die structureel kan worden ingepast.    
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ b. voor de subsidieaanvragen, bedoeld in artikel 3, tweede lid onder b, het doel
 
 a. een ronde voor het jaar 2009;  
 
-b. een ronde voor de jaren 2010 tot en met 2012.     
+b. een ronde voor de jaren 2010 tot en met 2012.    
 
 ### Artikel  4  
 
@@ -50,7 +50,7 @@ b. een ronde voor de jaren 2010 tot en met 2012.
 1.  Voor subsidieverlening op grond van deze regeling is een bedrag van € 4 miljoen beschikbaar.   
 2.  Voor de ronde voor het jaar 2009 is een bedrag van € 1 miljoen beschikbaar.   
 3.  Voor de ronde voor de jaren 2010 tot en met 2012 is een bedrag van € 3 miljoen beschikbaar.   
-4.  Van het in het eerste lid genoemde bedrag wordt een bedrag van ten hoogste € 130.000 ter beschikking gesteld voor de werkzaamheden van de Koninklijke Nederlandse Akademie van Wetenschappen, bedoeld in artikel 10.   
+4.  Van het in het eerste lid genoemde bedrag wordt een bedrag van ten hoogste € 130.000 ter beschikking gesteld voor de werkzaamheden van de Koninklijke Nederlandse Akademie van Wetenschappen, bedoeld in artikel 10.  
 
 ### 2  
 
@@ -61,7 +61,7 @@ b. een ronde voor de jaren 2010 tot en met 2012.
 ####Subsidieaanvraag
 
 1.  De subsidie wordt op aanvraag verleend.   
-2.  De subsidieaanvraag wordt ingediend bij de Koninklijke Nederlandse Akademie van Wetenschappen, bedoeld in artikel 10.   
+2.  De subsidieaanvraag wordt ingediend bij de Koninklijke Nederlandse Akademie van Wetenschappen, bedoeld in artikel 10.  
 
 ### Artikel  6  
 
@@ -79,7 +79,7 @@ d. inzicht biedt in de wijze waarop sprake kan zijn van een structurele inbeddin
 
 e. inzicht biedt in de wijze waarop evaluatie aan het eind van de looptijd wordt vormgegeven;  
 
-f. een begroting bevat voor het totale project.    
+f. een begroting bevat voor het totale project.   
 
 ### Artikel  7  
 
@@ -89,7 +89,7 @@ De subsidieaanvraag, bedoeld in artikel 5, eerste lid, wordt ingediend:
 
 a. voor de ronde, bedoeld in artikel 3, tweede lid onder a vóór 1 november 2008;  
 
-b. voor de ronde, bedoeld in artikel 3, tweede lid onder b vóór 1 november 2009.    
+b. voor de ronde, bedoeld in artikel 3, tweede lid onder b vóór 1 november 2009.   
 
 ### 3  
 
@@ -99,13 +99,13 @@ b. voor de ronde, bedoeld in artikel 3, tweede lid onder b vóór 1 november 20
 
 ####Criteria verdeling bij subsidieverlening
 
-De Minister voorziet in een gelijktijdige beslissing op subsidieaanvragen met betrekking tot projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de regeling.  
+De Minister voorziet in een gelijktijdige beslissing op subsidieaanvragen met betrekking tot projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de regeling. 
 
 ### Artikel  9  
 
 ####Besluitvorming door Minister
 
-De Minister beschikt uiterlijk op 1 februari 2009 op de aanvragen, bedoeld in artikel 7, onder a, en uiterlijk 1 maart 2010 op de aanvragen, bedoeld in artikel 7,onder b.  
+De Minister beschikt uiterlijk op 1 februari 2009 op de aanvragen, bedoeld in artikel 7, onder a, en uiterlijk 1 maart 2010 op de aanvragen, bedoeld in artikel 7,onder b. 
 
 ### Artikel  10  
 
@@ -122,7 +122,7 @@ c. de uitvoerbaarheid.
 3.  De criteria genoemd in het tweede lid, alsmede de aanvraag- en beoordelingsprocedure, zijn nader uitgewerkt in het beoordelingskader in bijlage 1 van deze regeling .   
 4.  De Koninklijke Nederlandse Akademie van Wetenschappen stelt van de door haar positief beoordeelde subsidieaanvragen een ranglijst op.   
 5.  De Koninklijke Nederlandse Akademie van Wetenschappen bewaakt de voortgang van de gesubsidieerde projecten.   
-6.  De Koninklijke Nederlandse Akademie van Wetenschappen dient voor de door haar te verrichten werkzaamheden uiterlijk 1 oktober 2008 een begroting in bij de Minister.   
+6.  De Koninklijke Nederlandse Akademie van Wetenschappen dient voor de door haar te verrichten werkzaamheden uiterlijk 1 oktober 2008 een begroting in bij de Minister.  
 
 ### Artikel  11  
 
@@ -132,7 +132,7 @@ Subsidie wordt verleend voor:
 
 a. een periode van 1 jaar voor de ronde, bedoeld in artikel 3, tweede lid, onder a;  
 
-b. voor een periode van maximaal 3 jaar voor de ronde, bedoeld in artikel 3, tweede lid, onder b.    
+b. voor een periode van maximaal 3 jaar voor de ronde, bedoeld in artikel 3, tweede lid, onder b.   
 
 ### 4  
 
@@ -142,13 +142,13 @@ b. voor een periode van maximaal 3 jaar voor de ronde, bedoeld in artikel 3, twe
 
 ####Aanvullende subsidieverplichting
 
-1.  De subsidieontvanger werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen.   
+1.  De subsidieontvanger werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen.  
 
 ### Artikel  13  
 
 ####Verslag van activiteiten in verband met bewaking van de voortgang
 
-De subsidieontvanger levert de Koninklijke Nederlandse Akademie van Wetenschappen desgevraagd de benodigde gegevens aan voor de bewaking als bedoeld in artikel 10, vijfde lid.  
+De subsidieontvanger levert de Koninklijke Nederlandse Akademie van Wetenschappen desgevraagd de benodigde gegevens aan voor de bewaking als bedoeld in artikel 10, vijfde lid. 
 
 ### 5  
 
@@ -159,7 +159,7 @@ De subsidieontvanger levert de Koninklijke Nederlandse Akademie van Wetenschappe
 ####Verslag van de activiteiten
 
 1.  De subsidieontvanger dient het verslag van de activiteiten van een subsidie, bedoeld in artikel 7, onder a, in vóór 1 juli 2010, en voor een subsidie, bedoeld in artikel 7, onder b, vóór 1 juli volgend op de duur van het tijdvak, bedoeld in artikel 11, onder b, in bij de Minister.   
-2.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het plan van aanpak en de feitelijke realisatie.   
+2.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het plan van aanpak en de feitelijke realisatie.  
 
 ### Artikel  15  
 
@@ -168,7 +168,7 @@ De subsidieontvanger levert de Koninklijke Nederlandse Akademie van Wetenschappe
 1.  De subsidieontvanger verantwoordt jaarlijks de ontvangen bedragen in de tabel Financiële Specificatie Rijkssubsidies (FSR) en in model G (geoormerkte subsidies) bij het jaarverslag.   
 2.  De verslaglegging wordt ingediend bij de Minister.   
 3.  De Minister stelt binnen dertien weken na ontvangst van de verslaglegging, bedoeld in het eerste lid en het verslag, bedoeld in artikel 14, de subsidie vast.   
-4.  De Koninklijke Nederlandse Akademie van Wetenschappen verantwoordt de uitgaven na afloop van het programma in het jaarverslag.   
+4.  De Koninklijke Nederlandse Akademie van Wetenschappen verantwoordt de uitgaven na afloop van het programma in het jaarverslag.  
 
 ### 6  
 
@@ -185,26 +185,26 @@ a. het verleende subsidiebedrag indien het een aanvraag voor één jaar betreft;
 
 b. de helft van het verleende subsidiebedrag indien het een aanvraag van twee jaar betreft en  
 
-c. 1/3 van het verleende subsidiebedrag indien het een aanvraag voor drie jaar betreft.     
+c. 1/3 van het verleende subsidiebedrag indien het een aanvraag voor drie jaar betreft.    
 
 ### Artikel  17  
 
 ####Inwerkingtreding
 
-1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 januari 2016.   
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+2.  Deze regeling vervalt met ingang van 1 januari 2016. 
 
 ### Artikel  18  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling Programma Akademie-assistenten.  
+Deze regeling wordt aangehaald als: Subsidieregeling Programma Akademie-assistenten. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap en wordt bekendgemaakt op www.cfi.nl, de internetsite van CFI, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap en de website van de Koninklijke Nederlandse Akademie van Wetenschappen.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk  
+R.H.A. Plasterk    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap en is gepubliceerd op www.cfi.nl.  
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap en is gepubliceerd op www.cfi.nl.

@@ -26,13 +26,15 @@ g. [Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);
 
 h. [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-i. [Wet handhaving consumentenbescherming](../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md);  
+i. [Warmtewet](../../../../../../wet/warmtewet/BWBR0033729/README.md); 
 
-j. [Wet implementatie EU-richtlijnen energie-efficiëntie](../../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md);  
+j. [Wet handhaving consumentenbescherming](../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md);  
 
-k. [Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+k. [Wet implementatie EU-richtlijnen energie-efficiëntie](../../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md);  
 
-l. [Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md),   belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wetten, alsmede belast met het toezicht op de naleving van Europese verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.  
+l. [Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+
+m. [Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md),   belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wetten, alsmede belast met het toezicht op de naleving van Europese verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt. 
 
 ### Artikel  2  
 
@@ -40,7 +42,7 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 a. [Aanbestedingswet 2012](../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md);  
 
-b. [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md),   belast met het opmaken van een rapport als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+b. [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md),   belast met het opmaken van een rapport als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  3  
 
@@ -50,27 +52,27 @@ a. [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/
 
 b. [Wet post BES](../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md);  
 
-c. [Wet telecommunicatievoorzieningen BES](../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md),   belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wetten, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.  
+c. [Wet telecommunicatievoorzieningen BES](../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md),   belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wetten, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt. 
 
 ### Artikel  4  
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als functionarissen als bedoeld in: 
 
-a. artikel 20, vijfde lid, van Verordening 1/2003, belast met het verlenen van bijstand aan door de Europese Commissie gemachtigde functionarissen en andere begeleidende personen; <sup> 1  Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 101 en 102 van het Verdrag betreffende de werking van de Europese Unie, PbEU 2003, L 001.  </sup>  
+a. artikel 20, vijfde lid, van Verordening 1/2003 <sup> 1  Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 101 en 102 van het Verdrag betreffende de werking van de Europese Unie, PbEU 2003, L 001. </sup>, belast met het verlenen van bijstand aan door de Europese Commissie gemachtigde functionarissen en andere begeleidende personen;  
 
-b. artikel 22, tweede lid, van de Verordening 1/2003, belast met het verrichten van een inspectie op verzoek van de Europese Commissie of andere mededingingsautoriteiten.    
+b. artikel 22, tweede lid, van de Verordening 1/2003, belast met het verrichten van een inspectie op verzoek van de Europese Commissie of andere mededingingsautoriteiten.   
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 1 april 2013.  
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 1 april 2013. 
 
 ### Artikel  6  
 
-Het [Besluit aanwijzing toezichthouders ambtenaren Consumentenautoriteit](../../../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/consumentenautoriteit/BWBR0020934/README.md) (Stcrt. 2006, nr. 250) en het [Besluit aanwijzing toezichthoudende ambtenaren OPTA 2013](../../../../../../zbo/besluit/aanwijzing/toezichthouders/opta/2013/BWBR0033219/README.md) (Stcrt. 2013, nr. 313) worden ingetrokken.  
+Het [Besluit aanwijzing toezichthouders ambtenaren Consumentenautoriteit](../../../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/consumentenautoriteit/BWBR0020934/README.md) (Stcrt. 2006, nr. 250) en het [Besluit aanwijzing toezichthoudende ambtenaren OPTA 2013](../../../../../../zbo/besluit/aanwijzing/toezichthouders/opta/2013/BWBR0033219/README.md) (Stcrt. 2013, nr. 313) worden ingetrokken. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders ACM.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders ACM. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 

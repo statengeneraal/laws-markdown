@@ -4,7 +4,7 @@
 
 ####Agreement between the Kingdom of the Netherlands and the United States of America to improve international tax compliance and to implement FATCA
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 Whereas, the Kingdom of the Netherlands and the United States of America, (each, a “Party,” and together, the “Parties”) have a longstanding and close relationship with respect to mutual assistance in tax matters in respect of the United States and the Netherlands and desire to conclude an agreement to improve international tax compliance by further building on that relationship; Whereas, [Article 30 of the Convention between the United States of America and the Kingdom of the Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md), signed at Washington on 18 December 1992, as amended in 1993 and 2004 (“the Double Tax Convention”) and the [Convention on Mutual Administrative Assistance in Tax Matters](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md), done at Strasbourg on 25 January 1988 (the “Mutual Assistance Convention”) authorize exchange of information for tax purposes, including on an automatic basis (hereinafter the “Conventions” refers to the Double Tax Convention and the Mutual Assistance Convention and any amendments to those conventions that are in force for both Parties); Whereas, the United States of America enacted provisions commonly known as the Foreign Account Tax Compliance Act (“FATCA”), which introduce a reporting regime for financial institutions with respect to certain accounts; Whereas, the Government of the Netherlands is supportive of the underlying policy goal of FATCA to improve tax compliance; Whereas, FATCA has raised a number of issues, including that Netherlands financial institutions may not be able to comply with certain aspects of FATCA due to domestic legal impediments; Whereas, the Government of the United States of America collects information regarding certain accounts maintained by U.S. financial institutions held by residents of the Netherlands and is committed to exchanging such information with the Government of the Netherlands and pursuing equivalent levels of exchange; Whereas, the Governments of the United States and the Netherlands are committed to working together over the longer term towards achieving common reporting and due diligence standards for financial institutions; Whereas, the Government of the United States of America acknowledges the need to coordinate the reporting obligations under FATCA with other U.S. tax reporting obligations of Netherlands financial institutions to avoid duplicative reporting; Whereas, an intergovernmental approach to FATCA implementation would address legal impediments and reduce burdens for Netherlands financial institutions; Whereas, the Governments of the Parties desire to conclude an agreement to improve international tax compliance and provide for the implementation of FATCA based on domestic reporting and reciprocal automatic exchange pursuant to the Conventions and subject to the confidentiality and other protections provided for therein, including the provisions limiting the use of the information exchanged under the Conventions;   Now, therefore, the Parties have agreed as follows:    
 
@@ -12,7 +12,7 @@ Whereas, the Kingdom of the Netherlands and the United States of America, (each,
 
 ####Definitions
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  For purposes of this agreement and any annexes thereto (“Agreement”), the following terms shall have the meanings set forth below: 
 
@@ -115,13 +115,13 @@ kk) The term “U.S. TIN” means a U.S. federal taxpayer identifying number.
 ll) The term “Netherlands TIN” means a taxpayer identifying number issued by the Netherlands.  
 
 mm) The term “Controlling Persons” means the natural persons who exercise control over an Entity. In the case of a trust, such term means the settlor, the trustees, the protector (if any), the beneficiaries or class of beneficiaries, and any other natural person exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term “Controlling Persons” shall be interpreted in a manner consistent with the Financial Action Task Force Recommendations.     
-2.  Any term not otherwise defined in this Agreement shall, unless the context otherwise requires or the Competent Authorities agree to a common meaning (as permitted by domestic law), have the meaning that it has at that time under the law of the Party applying this Agreement, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.   
+2.  Any term not otherwise defined in this Agreement shall, unless the context otherwise requires or the Competent Authorities agree to a common meaning (as permitted by domestic law), have the meaning that it has at that time under the law of the Party applying this Agreement, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.  
 
 ### Article  2  
 
 ####Obligations to Obtain and Exchange Information with Respect to Reportable Accounts
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Subject to the provisions of Article 3 of this Agreement, each Party shall obtain the information specified in paragraph 2 of this Article with respect to all Reportable Accounts and shall annually exchange this information with the other Party on an automatic basis pursuant to either or both of the Conventions, as appropriate.   
 2.  The information to be obtained and exchanged is: 
@@ -158,13 +158,13 @@ b) In the case of the United States, with respect to each Netherlands Reportable
 
 5. the gross amount of U.S. source dividends paid or credited to the account; and  
 
-6. the gross amount of other U.S. source income paid or credited to the account, to the extent subject to reporting under chapter 3 of subtitle A or chapter 61 of subtitle F of the U.S. Internal Revenue Code.       
+6. the gross amount of other U.S. source income paid or credited to the account, to the extent subject to reporting under chapter 3 of subtitle A or chapter 61 of subtitle F of the U.S. Internal Revenue Code.      
 
 ### Article  3  
 
 ####Time and Manner of Exchange of Information
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  For purposes of the exchange obligation in Article 2 of this Agreement, the amount and characterization of payments made with respect to a U.S. Reportable Account may be determined in accordance with the principles of the tax laws of the Netherlands, and the amount and characterization of payments made with respect to a Netherlands Reportable Account may be determined in accordance with principles of U.S. federal income tax law.   
 2.  For purposes of the exchange obligation in Article 2 of this Agreement, the information exchanged shall identify the currency in which each relevant amount is denominated.   
@@ -190,15 +190,15 @@ b) prescribe rules and procedures as may be necessary to implement Article 5 of 
 c) establish as necessary procedures for the exchange of the information reported under subparagraph 1(b) of Article 4 of this Agreement.  
 
 d) for cases where both Conventions may be applicable, indicating under which one or under both of the Conventions, the exchanges are being conducted.     
-7.  All information exchanged under this Agreement shall be subject to the confidentiality and other protections provided for in the Conventions, including the provisions limiting the use of the information exchanged.   
+7.  All information exchanged under this Agreement shall be subject to the confidentiality and other protections provided for in the Conventions, including the provisions limiting the use of the information exchanged.  
 
 ### Article  4  
 
 ####Application of FATCA to Netherlands Financial Institutions
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-1.  *Treatment of Reporting Netherlands Financial Institutions*. Each Reporting Netherlands Financial Institution shall be treated as complying with, and not subject to withholding under, section 1471 of the U.S. Internal Revenue Code if the Netherlands complies with its obligations under Articles 2 and 3 of this Agreement with respect to such Reporting Netherlands Financial Institution, and the Reporting Netherlands Financial Institution: 
+1.   *Treatment of Reporting Netherlands Financial Institutions*. Each Reporting Netherlands Financial Institution shall be treated as complying with, and not subject to withholding under, section 1471 of the U.S. Internal Revenue Code if the Netherlands complies with its obligations under Articles 2 and 3 of this Agreement with respect to such Reporting Netherlands Financial Institution, and the Reporting Netherlands Financial Institution: 
 
 a) identifies U.S. Reportable Accounts and reports annually to the Netherlands Competent Authority the information required to be reported in subparagraph 2(a) of Article 2 of this Agreement in the time and manner described in Article 3 of this Agreement;  
 
@@ -209,17 +209,17 @@ c) complies with the applicable registration requirements on the IRS FATCA regis
 d) to the extent that a Reporting Netherlands Financial Institution is (i) acting as a qualified intermediary (for purposes of section 1441 of the U.S. Internal Revenue Code) that has elected to assume primary withholding responsibility under chapter 3 of subtitle A of the U.S. Internal Revenue Code, (ii) a foreign partnership that has elected to act as a withholding foreign partnership (for purposes of both sections 1441 and 1471 of the U.S. Internal Revenue Code), or (iii) a foreign trust that has elected to act as a withholding foreign trust (for purposes of both sections 1441 and 1471 of the U.S. Internal Revenue Code), withholds 30 percent of any U.S. Source Withholdable Payment to any Nonparticipating Financial Institution; and  
 
 e) in the case of a Reporting Netherlands Financial Institution that is not described in subparagraph 1(d) of this Article and that makes a payment of, or acts as an intermediary with respect to, a U.S. Source Withholdable Payment to any Nonparticipating Financial Institution, the Reporting Netherlands Financial Institution provides to any immediate payor of such U.S. Source Withholdable Payment the information required for withholding and reporting to occur with respect to such payment.   Notwithstanding the foregoing, a Reporting Netherlands Financial Institution with respect to which the conditions of this paragraph 1 are not satisfied shall not be subject to withholding under section 1471 of the U.S. Internal Revenue Code unless such Reporting Netherlands Financial Institution is treated by the IRS as a Nonparticipating Financial Institution pursuant to subparagraph 2(b) of Article 5 of this Agreement.   
-2.  *Suspension of Rules Relating to Recalcitrant Accounts*. The United States shall not require a Reporting Netherlands Financial Institution to withhold tax under section 1471 or 1472 of the U.S. Internal Revenue Code with respect to an account held by a recalcitrant account holder (as defined in section 1471(d)(6) of the U.S. Internal Revenue Code), or to close such account, if the U.S. Competent Authority receives the information set forth in subparagraph 2(a) of Article 2 of this Agreement, subject to the provisions of Article 3 of this Agreement, with respect to such account.   
-3.  *Specific Treatment of Netherlands Retirement Plans*. The United States shall treat as deemed-compliant FFIs or exempt beneficial owners, as appropriate, for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code Netherlands retirement plans described in Annex II. For this purpose, a Netherlands retirement plan includes an Entity established or located in, and regulated in the Netherlands, or a predetermined contractual or legal arrangement, operated to provide pension or retirement benefits or earn income for providing such benefits under the laws of the Netherlands and regulated with respect to contributions, distributions, reporting, sponsorship, and taxation.   
-4.  *Identification and Treatment of Other Deemed-Compliant FFIs and Exempt Beneficial Owners*. The United States shall treat each Non-Reporting Netherlands Financial Institution as a deemed-compliant FFI or as an exempt beneficial owner, as appropriate, for purposes of section 1471 of the U.S. Internal Revenue Code.   
-5.  *Special Rules Regarding Related Entities and Branches That Are Nonparticipating Financial Institutions*. If a Netherlands Financial Institution, that otherwise meets the requirements described in paragraph 1 of this Article or is described in paragraph 3 or 4 of this Article, has a Related Entity or branch that operates in a jurisdiction that prevents such Related Entity or branch from fulfilling the requirements of a participating FFI or deemed-compliant FFI for purposes of section 1471 of the U.S. Internal Revenue Code or has a Related Entity or branch that is treated as a nonparticipating FFI solely due to the expiration of the transitional rule for limited FFIs and limited branches under relevant U.S. Treasury Regulations, such Netherlands Financial Institution shall continue to be in compliance with the terms of this Agreement and shall continue to be treated as a deemed-compliant FFI or exempt beneficial owner, as appropriate, for purposes of section 1471 of the U.S. Internal Revenue Code, provided that: 
+2.   *Suspension of Rules Relating to Recalcitrant Accounts*. The United States shall not require a Reporting Netherlands Financial Institution to withhold tax under section 1471 or 1472 of the U.S. Internal Revenue Code with respect to an account held by a recalcitrant account holder (as defined in section 1471(d)(6) of the U.S. Internal Revenue Code), or to close such account, if the U.S. Competent Authority receives the information set forth in subparagraph 2(a) of Article 2 of this Agreement, subject to the provisions of Article 3 of this Agreement, with respect to such account.   
+3.   *Specific Treatment of Netherlands Retirement Plans*. The United States shall treat as deemed-compliant FFIs or exempt beneficial owners, as appropriate, for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code Netherlands retirement plans described in Annex II. For this purpose, a Netherlands retirement plan includes an Entity established or located in, and regulated in the Netherlands, or a predetermined contractual or legal arrangement, operated to provide pension or retirement benefits or earn income for providing such benefits under the laws of the Netherlands and regulated with respect to contributions, distributions, reporting, sponsorship, and taxation.   
+4.   *Identification and Treatment of Other Deemed-Compliant FFIs and Exempt Beneficial Owners*. The United States shall treat each Non-Reporting Netherlands Financial Institution as a deemed-compliant FFI or as an exempt beneficial owner, as appropriate, for purposes of section 1471 of the U.S. Internal Revenue Code.   
+5.   *Special Rules Regarding Related Entities and Branches That Are Nonparticipating Financial Institutions*. If a Netherlands Financial Institution, that otherwise meets the requirements described in paragraph 1 of this Article or is described in paragraph 3 or 4 of this Article, has a Related Entity or branch that operates in a jurisdiction that prevents such Related Entity or branch from fulfilling the requirements of a participating FFI or deemed-compliant FFI for purposes of section 1471 of the U.S. Internal Revenue Code or has a Related Entity or branch that is treated as a nonparticipating FFI solely due to the expiration of the transitional rule for limited FFIs and limited branches under relevant U.S. Treasury Regulations, such Netherlands Financial Institution shall continue to be in compliance with the terms of this Agreement and shall continue to be treated as a deemed-compliant FFI or exempt beneficial owner, as appropriate, for purposes of section 1471 of the U.S. Internal Revenue Code, provided that: 
 
 a) the Netherlands Financial Institution treats each such Related Entity or branch as a separate Nonparticipating Financial Institution for purposes of all the reporting and withholding requirements of this Agreement and each such Related Entity or branch identifies itself to withholding agents as a Nonparticipating Financial Institution;  
 
 b) each such Related Entity or branch identifies its U.S. accounts and reports the information with respect to those accounts as required under section 1471 of the U.S. Internal Revenue Code to the extent permitted under the relevant laws pertaining to the Related Entity or branch; and  
 
 c) such Related Entity or branch does not specifically solicit U.S. accounts held by persons that are not resident in the jurisdiction where such Related Entity or branch is located or accounts held by Nonparticipating Financial Institutions that are not established in the jurisdiction where such Related Entity or branch is located, and such Related Entity or branch is not used by the Netherlands Financial Institution or any other Related Entity to circumvent the obligations under this Agreement or under section 1471 of the U.S. Internal Revenue Code, as appropriate.     
-6.  *Coordination of Timing*. Notwithstanding paragraphs 3 and 5 of Article 3 of this Agreement: 
+6.   * Coordination of Timing*. Notwithstanding paragraphs 3 and 5 of Article 3 of this Agreement: 
 
 a) the Netherlands shall not be obligated to obtain and exchange information with respect to a calendar year that is prior to the calendar year with respect to which similar information is required to be reported to the IRS by participating FFIs pursuant to relevant U.S. Treasury Regulations;  
 
@@ -228,87 +228,87 @@ b) the Netherlands shall not be obligated to begin exchanging information prior 
 c) the United States shall not be obligated to obtain and exchange information with respect to a calendar year that is prior to the first calendar year with respect to which the Netherlands is required to obtain and exchange information; and  
 
 d) the United States shall not be obligated to begin exchanging information prior to the date by which the Netherlands is required to begin exchanging information.     
-7.  *Coordination of Definitions with U.S. Treasury Regulations*. Notwithstanding Article 1 of this Agreement and the definitions provided in the Annexes to this Agreement, in implementing this Agreement the Netherlands may use, and may permit Netherlands Financial Institutions to use, a definition in relevant U.S. Treasury Regulations in lieu of a corresponding definition in this Agreement, provided that such application would not frustrate the purposes of this Agreement.   
+7.   *Coordination of Definitions with U.S. Treasury Regulations*. Notwithstanding Article 1 of this Agreement and the definitions provided in the Annexes to this Agreement, in implementing this Agreement the Netherlands may use, and may permit Netherlands Financial Institutions to use, a definition in relevant U.S. Treasury Regulations in lieu of a corresponding definition in this Agreement, provided that such application would not frustrate the purposes of this Agreement.   
 
 ### Article  5  
 
 ####Collaboration on Compliance and Enforcement
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-1.  *Minor and Administrative Errors*. A Competent Authority shall notify the Competent Authority of the other Party when the first-mentioned Competent Authority has reason to believe that administrative errors or other minor errors may have led to incorrect or incomplete information reporting or resulted in other infringements of this Agreement. The Competent Authority of such other Party shall apply its domestic law (including applicable penalties) to obtain corrected and/or complete information or to resolve other infringements of this Agreement.   
-2.  *Significant Non-Compliance*. 
+1.   *Minor and Administrative Errors*. A Competent Authority shall notify the Competent Authority of the other Party when the first-mentioned Competent Authority has reason to believe that administrative errors or other minor errors may have led to incorrect or incomplete information reporting or resulted in other infringements of this Agreement. The Competent Authority of such other Party shall apply its domestic law (including applicable penalties) to obtain corrected and/or complete information or to resolve other infringements of this Agreement.   
+2.   *Significant Non-Compliance*. 
 
 a) A Competent Authority shall notify the Competent Authority of the other Party when the first-mentioned Competent Authority has determined that there is significant non-compliance with the obligations under this Agreement with respect to a Reporting Financial Institution in the other jurisdiction. The Competent Authority of such other Party shall apply its domestic law (including applicable penalties) to address the significant non-compliance described in the notice.  
 
 b) If, in the case of a Reporting Netherlands Financial Institution, such enforcement actions do not resolve the non-compliance within a period of 18 months after notification of significant non-compliance is first provided, the United States shall treat the Reporting Netherlands Financial Institution as a Nonparticipating Financial Institution pursuant to this subparagraph 2(b).     
-3.  *Reliance on Third Party Service Providers*. Each Party may allow Reporting Financial Institutions to use third party service providers to fulfill the obligations imposed on such Reporting Financial Institutions by a Party, as contemplated in this Agreement, but these obligations shall remain the responsibility of the Reporting Financial Institutions.   
-4.  *Prevention of Avoidance*. The Parties shall implement as necessary requirements to prevent Financial Institutions from adopting practices intended to circumvent the reporting required under this Agreement.   
+3.   *Reliance on Third Party Service Providers*. Each Party may allow Reporting Financial Institutions to use third party service providers to fulfill the obligations imposed on such Reporting Financial Institutions by a Party, as contemplated in this Agreement, but these obligations shall remain the responsibility of the Reporting Financial Institutions.   
+4.   *Prevention of Avoidance*. The Parties shall implement as necessary requirements to prevent Financial Institutions from adopting practices intended to circumvent the reporting required under this Agreement.  
 
 ### Article  6  
 
 ####Mutual Commitment to Continue to Enhance the Effectiveness of Information Exchange and Transparency
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-1.  *Reciprocity*. The Government of the United States acknowledges the need to achieve equivalent levels of reciprocal automatic information exchange with the Netherlands. The Government of the United States is committed to further improve transparency and enhance the exchange relationship with the Netherlands by pursuing the adoption of regulations and advocating and supporting relevant legislation to achieve such equivalent levels of reciprocal automatic information exchange.   
-2.  *Treatment of Passthru Payments and Gross Proceeds*. The Parties are committed to work together, along with Partner Jurisdictions, to develop a practical and effective alternative approach to achieve the policy objectives of foreign passthru payment and gross proceeds withholding that minimizes burden.   
-3.  *Development of Common Reporting and Exchange Model*. The Parties are committed to working with Partner Jurisdictions, the Organisation for Economic Co-operation and Development, and the European Union, on adapting the terms of this Agreement to a common model for automatic exchange of information, including the development of reporting and due diligence standards for financial institutions.   
-4.  *Documentation of Accounts Maintained as of June 30, 2014*. With respect to Reportable Accounts maintained by a Reporting Financial Institution as of June 30, 2014: 
+1.   *Reciprocity*. The Government of the United States acknowledges the need to achieve equivalent levels of reciprocal automatic information exchange with the Netherlands. The Government of the United States is committed to further improve transparency and enhance the exchange relationship with the Netherlands by pursuing the adoption of regulations and advocating and supporting relevant legislation to achieve such equivalent levels of reciprocal automatic information exchange.   
+2.   *Treatment of Passthru Payments and Gross Proceeds*. The Parties are committed to work together, along with Partner Jurisdictions, to develop a practical and effective alternative approach to achieve the policy objectives of foreign passthru payment and gross proceeds withholding that minimizes burden.   
+3.   *Development of Common Reporting and Exchange Model*. The Parties are committed to working with Partner Jurisdictions, the Organisation for Economic Co-operation and Development, and the European Union, on adapting the terms of this Agreement to a common model for automatic exchange of information, including the development of reporting and due diligence standards for financial institutions.   
+4.   *Documentation of Accounts Maintained as of June 30, 2014*. With respect to Reportable Accounts maintained by a Reporting Financial Institution as of June 30, 2014: 
 
 a) The United States commits to establish, by January 1, 2017, for reporting with respect to 2017 and subsequent years, rules requiring Reporting U.S. Financial Institutions to obtain and report the Netherlands TIN of each Account Holder of a Netherlands Reportable Account as required pursuant to subparagraph 2(b)(1) of Article 2 of this Agreement; and  
 
-b) The Netherlands commits to establish, by January 1, 2017, for reporting with respect to 2017 and subsequent years, rules requiring Reporting Netherlands Financial Institutions to obtain the U.S. TIN of each Specified U.S. Person as required pursuant to subparagraph 2(a)(1) of Article 2 of this Agreement.     
+b) The Netherlands commits to establish, by January 1, 2017, for reporting with respect to 2017 and subsequent years, rules requiring Reporting Netherlands Financial Institutions to obtain the U.S. TIN of each Specified U.S. Person as required pursuant to subparagraph 2(a)(1) of Article 2 of this Agreement.    
 
 ### Article  7  
 
 ####Consistency in the Application of FATCA to Partner Jurisdictions
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Netherlands shall be granted the benefit of any more favorable terms under Article 4 or Annex I of this Agreement relating to the application of FATCA to Netherlands Financial Institutions afforded to another Partner Jurisdiction under a signed bilateral agreement pursuant to which the other Partner Jurisdiction commits to undertake the same obligations as the Netherlands described in Articles 2 and 3 of this Agreement, and subject to the same terms and conditions as described therein and in Articles 5 through 9 of this Agreement.   
-2.  The United States shall notify the Netherlands of any such more favorable terms, and such more favorable terms shall apply automatically under this Agreement as if such terms were specified in this Agreement and effective as of the date of signing of the agreement incorporating the more favorable terms, unless the Netherlands declines in writing the application thereof.   
+2.   The United States shall notify the Netherlands of any such more favorable terms, and such more favorable terms shall apply automatically under this Agreement as if such terms were specified in this Agreement and effective as of the date of signing of the agreement incorporating the more favorable terms, unless the Netherlands declines in writing the application thereof.  
 
 ### Article  8  
 
 ####Consultations and Amendments
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In case any difficulties in the implementation of this Agreement arise, either Party may request consultations to develop appropriate measures to ensure the fulfillment of this Agreement.   
-2.  This Agreement may be amended by written mutual agreement of the Parties. Unless otherwise agreed upon, such an amendment shall enter into force through the same procedures as set forth in paragraph 1 of Article 10 of this Agreement.   
+2.  This Agreement may be amended by written mutual agreement of the Parties. Unless otherwise agreed upon, such an amendment shall enter into force through the same procedures as set forth in paragraph 1 of Article 10 of this Agreement.  
 
 ### Article  9  
 
 ####Annexes
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-The Annexes form an integral part of this Agreement.  
+The Annexes form an integral part of this Agreement. 
 
 ### Article  10  
 
 ####Term of Agreement
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Agreement shall enter into force on the date of the Netherlands’ written notification to the United States that the Netherlands has completed its necessary internal procedures for entry into force of this Agreement and shall continue in force until terminated.   
 2.  Either Party may terminate this Agreement by giving notice of termination in writing to the other Party. Such termination shall become effective on the first day of the month following the expiration of a period of 12 months after the date of the notice of termination.   
-3.  The Parties shall, prior to December 31, 2016, consult in good faith to amend this Agreement as necessary to reflect progress on the commitments set forth in Article 6 of this Agreement.   
+3.  The Parties shall, prior to December 31, 2016, consult in good faith to amend this Agreement as necessary to reflect progress on the commitments set forth in Article 6 of this Agreement.  
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement. DONE at The Hague, in duplicate, in English, this 18 <sup>th</sup> day of December, 2013.  *For the Kingdom of the Netherlands,*  F.H.H. WEEKERS  *For the United States of America,*  A.H. STERLING  
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement. DONE at The Hague, in duplicate, in English, this 18<sup>th</sup> day of December, 2013.  *For the Kingdom of the Netherlands,*  F.H.H. WEEKERS  *For the United States of America,*  A.H. STERLING  
 
 ### Annex  I  
 
 ####Due diligence obligations for identifying and reporting on U.S. reportable accounts and on payments to certain nonparticipating Financial Institutions
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### I  
 
 ####General.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 A. The Netherlands shall require that Reporting Netherlands Financial Institutions apply the due diligence procedures contained in this Annex I to identify U.S. Reportable Accounts and accounts held by Nonparticipating Financial Institutions.  
 
@@ -324,13 +324,13 @@ B. For purposes of the Agreement,
 
 5. Unless otherwise provided, information with respect to a U.S. Reportable Account shall be reported annually in the calendar year following the year to which the information relates.    
 
-C. As an alternative to the procedures described in each section of this Annex I, the Netherlands may permit Reporting Netherlands Financial Institutions to rely on the procedures described in relevant U.S. Treasury Regulations to establish whether an account is a U.S. Reportable Account or an account held by a Nonparticipating Financial Institution. The Netherlands may permit Reporting Netherlands Financial Institutions to make such election separately for each section of this Annex I either with respect to all relevant Financial Accounts or, separately, with respect to any clearly identified group of such accounts (such as by line of business or the location of where the account is maintained).    
+C. As an alternative to the procedures described in each section of this Annex I, the Netherlands may permit Reporting Netherlands Financial Institutions to rely on the procedures described in relevant U.S. Treasury Regulations to establish whether an account is a U.S. Reportable Account or an account held by a Nonparticipating Financial Institution. The Netherlands may permit Reporting Netherlands Financial Institutions to make such election separately for each section of this Annex I either with respect to all relevant Financial Accounts or, separately, with respect to any clearly identified group of such accounts (such as by line of business or the location of where the account is maintained).   
 
 ### II  
 
 ####Preexisting Individual Accounts.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts among Preexisting Accounts held by individuals (“Preexisting Individual Accounts”). 
 
@@ -372,29 +372,29 @@ a) Where the Account Holder information unambiguously indicates a *U.S. place of
 
 1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form);  
 
-2. A non-U.S. passport or other government-issued identification evidencing the Account Holder’s citizenship or nationality in a country other than the United States; *and*  
+2. A non-U.S. passport or other government-issued identification evidencing the Account Holder’s citizenship or nationality in a country other than the United States; *and*   
 
 3. A copy of the Account Holder’s Certificate of Loss of Nationality of the United States or a reasonable explanation of: 
 
-a) The reason the Account Holder does not have such a certificate despite relinquishing U.S. citizenship; *or*  
+a) The reason the Account Holder does not have such a certificate despite relinquishing U.S. citizenship; *or*   
 
 b) The reason the Account Holder did not obtain U.S. citizenship at birth.      
 
 b) Where the Account Holder information contains a *current U.S. mailing or residence address, or one or more U.S. telephone numbers that are the only telephone numbers associated with the account*, the Reporting Netherlands Financial Institution obtains or has previously reviewed and maintains a record of: 
 
-1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); *and*  
+1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); *and*   
 
 2. Documentary evidence, as defined in paragraph D of section VI of this Annex I, establishing the Account Holder’s non-U.S. status.    
 
 c) Where the Account Holder information contains *standing instructions to transfer funds to an account maintained in the United States*, the Reporting Netherlands Financial Institution obtains, or has previously reviewed and maintains a record of: 
 
-1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); *and*  
+1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); *and*   
 
 2. Documentary evidence, as defined in paragraph D of section VI of this Annex I, establishing the Account Holder’s non-U.S. status.    
 
 d) Where the Account Holder information contains *a currently effective power of attorney or signatory authority granted to a person with a U.S. address, has an “in-care-of” address or “hold mail” address that is the sole address identified for the Account Holder, or has one or more U.S. telephone numbers (if a non-U.S. telephone number is also associated with the account)*, the Reporting Netherlands Financial Institution obtains, or has previously reviewed and maintains a record of: 
 
-1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); *or*  
+1. A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); *or*   
 
 2. Documentary evidence, as defined in paragraph D of section VI of this Annex I, establishing the Account Holder’s non-U.S. status.        
 
@@ -432,7 +432,7 @@ c) The Account Holder’s telephone number(s) currently on file, if any, with th
 
 d) Whether there are standing instructions to transfer funds in the account to another account (including an account at another branch of the Reporting Netherlands Financial Institution or another Financial Institution);  
 
-e) Whether there is a current “in-care-of” address or “hold mail” address for the Account Holder; *and*  
+e) Whether there is a current “in-care-of” address or “hold mail” address for the Account Holder; *and*   
 
 f) Whether there is any power of attorney or signatory authority for the account.    
 
@@ -458,13 +458,13 @@ E. *Additional Procedures Applicable to High Value Accounts*.
 
 5. A Reporting Netherlands Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in the United States, the Reporting Netherlands Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(4) of this section, is required to obtain the appropriate documentation from the Account Holder.    
 
-F. *Preexisting Individual Accounts That Have Been Documented for Certain Other Purposes*. A Reporting Netherlands Financial Institution that has previously obtained documentation from an Account Holder to establish the Account Holder’s status as neither a U.S. citizen nor a U.S. resident in order to meet its obligations under a qualified intermediary, withholding foreign partnership, or withholding foreign trust agreement with the IRS, or to fulfill its obligations under chapter 61 of Title 26 of the United States Code, is not required to perform the procedures described in subparagraph B(1) of this section with respect to Lower Value Accounts or subparagraphs D(1) through D(3) of this section with respect to High Value Accounts.    
+F. *Preexisting Individual Accounts That Have Been Documented for Certain Other Purposes*. A Reporting Netherlands Financial Institution that has previously obtained documentation from an Account Holder to establish the Account Holder’s status as neither a U.S. citizen nor a U.S. resident in order to meet its obligations under a qualified intermediary, withholding foreign partnership, or withholding foreign trust agreement with the IRS, or to fulfill its obligations under chapter 61 of Title 26 of the United States Code, is not required to perform the procedures described in subparagraph B(1) of this section with respect to Lower Value Accounts or subparagraphs D(1) through D(3) of this section with respect to High Value Accounts.   
 
 ### III  
 
 ####New Individual Accounts.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts among Financial Accounts held by individuals and opened on or after July 1, 2014 (“New Individual Accounts”). 
 
@@ -478,13 +478,13 @@ B. *Other New Individual Accounts*. With respect to New Individual Accounts not 
 
 1. If the self-certification establishes that the Account Holder is resident in the United States for tax purposes, the Reporting Netherlands Financial Institution must treat the account as a U.S. Reportable Account and obtain a self-certification that includes the Account Holder’s U.S. TIN (which may be an IRS Form W-9 or other similar agreed form).  
 
-2. If there is a change of circumstances with respect to a New Individual Account that causes the Reporting Netherlands Financial Institution to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Netherlands Financial Institution cannot rely on the original self-certification and must obtain a valid self-certification that establishes whether the Account Holder is a U.S. citizen or resident for U.S. tax purposes. If the Reporting Netherlands Financial Institution is unable to obtain a valid self-certification, the Reporting Netherlands Financial Institution must treat the account as a U.S. Reportable Account.      
+2. If there is a change of circumstances with respect to a New Individual Account that causes the Reporting Netherlands Financial Institution to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Netherlands Financial Institution cannot rely on the original self-certification and must obtain a valid self-certification that establishes whether the Account Holder is a U.S. citizen or resident for U.S. tax purposes. If the Reporting Netherlands Financial Institution is unable to obtain a valid self-certification, the Reporting Netherlands Financial Institution must treat the account as a U.S. Reportable Account.     
 
 ### IV  
 
 ####Preexisting Entity Accounts.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts and accounts held by Nonparticipating Financial Institutions among Preexisting Accounts held by Entities (“Preexisting Entity Accounts”). 
 
@@ -516,7 +516,7 @@ b) If the Account Holder is a Netherlands Financial Institution or other Partner
 
 c) If the Account Holder is not a Netherlands Financial Institution or other Partner Jurisdiction Financial Institution, then the Reporting Netherlands Financial Institution must treat the Account Holder as a Nonparticipating Financial Institution payments to which are reportable under subparagraph 1(b) of Article 4 of the Agreement, unless the Reporting Netherlands Financial Institution: 
 
-1. Obtains a self-certification (which may be on an IRS Form W-8 or similar agreed form) from the Account Holder that it is a certified deemed-compliant FFI, or an exempt beneficial owner, as those terms are defined in relevant U.S. Treasury Regulations; *or*  
+1. Obtains a self-certification (which may be on an IRS Form W-8 or similar agreed form) from the Account Holder that it is a certified deemed-compliant FFI, or an exempt beneficial owner, as those terms are defined in relevant U.S. Treasury Regulations; *or*   
 
 2. In the case of a participating FFI or registered deemed-compliant FFI, verifies the Account Holder’s Global Intermediary Identification Number on the published IRS FFI list.      
 
@@ -528,7 +528,7 @@ b) For purposes of determining whether the Account Holder is a Passive NFFE, the
 
 c) For purposes of determining whether a Controlling Person of a Passive NFFE is a U.S. citizen or resident for tax purposes, a Reporting Netherlands Financial Institution may rely on: 
 
-1. Information collected and maintained pursuant to AML/KYC Procedures in the case of a Preexisting Entity Account held by one or more NFFEs with an account balance or value that does not exceed $1,000,000; *or*  
+1. Information collected and maintained pursuant to AML/KYC Procedures in the case of a Preexisting Entity Account held by one or more NFFEs with an account balance or value that does not exceed $1,000,000; *or*   
 
 2. A self-certification (which may be on an IRS Form W-8 or W-9, or on a similar agreed form) from the Account Holder or such Controlling Person in the case of a Preexisting Entity Account held by one or more NFFEs with an account balance or value that exceeds $1,000,000.    
 
@@ -540,13 +540,13 @@ E. *Timing of Review and Additional Procedures Applicable to Preexisting Entity 
 
 2. Review of Preexisting Entity Accounts with an account balance or value that does not exceed $250,000 as of June 30, 2014, but exceeds $1,000,000 as of December 31 of 2015 or any subsequent year, must be completed within six months after the last day of the calendar year in which the account balance or value exceeds $1,000,000.  
 
-3. If there is a change of circumstances with respect to a Preexisting Entity Account that causes the Reporting Netherlands Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Netherlands Financial Institution must redetermine the status of the account in accordance with the procedures set forth in paragraph D of this section.      
+3. If there is a change of circumstances with respect to a Preexisting Entity Account that causes the Reporting Netherlands Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Netherlands Financial Institution must redetermine the status of the account in accordance with the procedures set forth in paragraph D of this section.     
 
 ### V  
 
 ####New Entity Accounts.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following rules and procedures apply for purposes of identifying U.S. Reportable Accounts and accounts held by Nonparticipating Financial Institutions among Financial Accounts held by Entities and opened on or after July 1, 2014 (“New Entity Accounts”). 
 
@@ -566,13 +566,13 @@ b) If the Account Holder is *a Passive NFFE*, the Reporting Netherlands Financia
 
 c) If the Account Holder is: (i) a U.S. Person that is not a Specified U.S. Person; (ii) subject to subparagraph B(3)(d) of this section, a Netherlands Financial Institution or other Partner Jurisdiction Financial Institution; (iii) a participating FFI, a deemed-compliant FFI, or an exempt beneficial owner, as those terms are defined in relevant U.S. Treasury Regulations; (iv) an Active NFFE; or (v) a Passive NFFE none of the Controlling Persons of which is a U.S. citizen or resident, then the account is not a U.S. Reportable Account, and no reporting is required with respect to the account.  
 
-d) If the Account Holder is a Nonparticipating Financial Institution (including a Netherlands Financial Institution or other Partner Jurisdiction Financial Institution treated by the IRS as a Nonparticipating Financial Institution), then the account is not a U.S. Reportable Account, but payments to the Account Holder must be reported as contemplated in subparagraph 1(b) of Article 4 of the Agreement.        
+d) If the Account Holder is a Nonparticipating Financial Institution (including a Netherlands Financial Institution or other Partner Jurisdiction Financial Institution treated by the IRS as a Nonparticipating Financial Institution), then the account is not a U.S. Reportable Account, but payments to the Account Holder must be reported as contemplated in subparagraph 1(b) of Article 4 of the Agreement.       
 
 ### VI  
 
 ####Special Rules and Definitions.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following additional rules and definitions apply in implementing the due diligence procedures described above: 
 
@@ -604,7 +604,7 @@ g) The NFFE was not a Financial Institution in the past five years, and is in th
 
 h) The NFFE primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of any such Related Entities is primarily engaged in a business other than that of a Financial Institution;  
 
-i) The NFFE is an “excepted NFFE” as described in relevant U.S. Treasury Regulations; *or*  
+i) The NFFE is an “excepted NFFE” as described in relevant U.S. Treasury Regulations; *or*   
 
 j) The NFFE meets all of the following requirements: 
 
@@ -614,13 +614,13 @@ j) The NFFE meets all of the following requirements:
 
 (iii) It has no shareholders or members who have a proprietary or beneficial interest in its income or assets;  
 
-(iv) The applicable laws of the NFFE’s jurisdiction of residence or the NFFE’s formation documents do not permit any income or assets of the NFFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFFE’s charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFFE has purchased; *and*  
+(iv) The applicable laws of the NFFE’s jurisdiction of residence or the NFFE’s formation documents do not permit any income or assets of the NFFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFFE’s charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFFE has purchased; *and*   
 
 (v) The applicable laws of the NFFE’s jurisdiction of residence or the NFFE’s formation documents require that, upon the NFFE’s liquidation or dissolution, all of its assets be distributed to a governmental entity or other non-profit organization, or escheat to the government of the NFFE’s jurisdiction of residence or any political subdivision thereof.      
 
 5. *Preexisting Account*. A “Preexisting Account” means a Financial Account maintained by a Reporting Financial Institution as of June 30, 2014.    
 
-C. *Account Balance Aggregation and Currency Translation Rules*. 
+C.  *Account Balance Aggregation and Currency Translation Rules*. 
 
 1. *Aggregation of Individual Accounts*. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Netherlands Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Netherlands Financial Institution, or by a Related Entity, but only to the extent that the Reporting Netherlands Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or taxpayer identification number, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this paragraph 1.  
 
@@ -644,13 +644,13 @@ D. *Documentary Evidence*. For purposes of this Annex I, acceptable documentary 
 
 E. *Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract*. A Reporting Netherlands Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract receiving a death benefit is not a Specified U.S. Person and may treat such Financial Account as a non-U.S. Reportable Account unless the Reporting Netherlands Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Specified U.S. Person. A Reporting Netherlands Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract is a Specified U.S. Person if the information collected by the Reporting Netherlands Financial Institution and associated with the beneficiary contains U.S. indicia as described in subparagraph (B)(1) of section II of this Annex I. If a Reporting Netherlands Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Specified U.S. Person, the Reporting Netherlands Financial Institution must follow the procedures in subparagraph B(3) of section II of this Annex I.  
 
-F. *Reliance on Third Parties*. Regardless of whether an election is made under paragraph C of section I of this Annex I, the Netherlands may permit Reporting Netherlands Financial Institutions to rely on due diligence procedures performed by third parties, to the extent provided in relevant U.S. Treasury Regulations.    
+F. *Reliance on Third Parties*. Regardless of whether an election is made under paragraph C of section I of this Annex I, the Netherlands may permit Reporting Netherlands Financial Institutions to rely on due diligence procedures performed by third parties, to the extent provided in relevant U.S. Treasury Regulations.   
 
 ### Annex  II  
 
 ####Non-reporting Netherlands Financial Institutions and Products
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 This Annex II may be modified by a mutual written decision entered into between the Competent Authorities of the Netherlands and the United States: (1) to include additional Entities, accounts and products that present a low risk of being used by U.S. Persons to evade U.S. tax and that have similar characteristics to the Entities, accounts, and products described in this Annex II as of the date of entry into force of the Agreement; or (2) to remove Entities, accounts and products that, due to changes in circumstances, no longer present a low risk of being used by U.S. Persons to evade U.S. tax. Any such addition or removal shall be effective on the date of signature of the mutual decision, unless otherwise provided therein. Procedures for reaching such a mutual decision may be included in the mutual arrangement described in paragraph 6 of Article 3 of the Agreement.    
 
@@ -658,13 +658,13 @@ This Annex II may be modified by a mutual written decision entered into between 
 
 ####Exempt Beneficial Owners.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following Entities are treated as Non-Reporting Netherlands Financial Institutions and as exempt beneficial owners for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code: 
 
 ### A  
 
-####Governmental Entities
+####Governmental Entities 
 
 1. The Government of the Netherlands, any political subdivision or local authority thereof, or any wholly owned agency or instrumentality of the foregoing.  
 
@@ -678,19 +678,19 @@ c) *N.V. Bank Nederlandse Gemeenten* (Netherlands Municipalities Bank);
 
 d) *Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.* (Netherlands Investmentbank for Developing Countries);  
 
-e) *Gemeentelijke Kredietbanken* (Municipal Social Banks).      
+e) *Gemeentelijke Kredietbanken *(Municipal Social Banks).     
 
 ### B  
 
 ####Central Bank
 
-The Central Bank (*De Nederlandsche Bank N.V.*) and any of its wholly owned subsidiaries.  
+The Central Bank (*De Nederlandsche Bank N.V.*) and any of its wholly owned subsidiaries. 
 
 ### C  
 
-####International Organizations
+####International Organizations 
 
-International Organizations and any wholly owned agency or instrumentality thereof as referred to in Article 39 of the General Tax Act (*Algemene wet inzake rijksbelastingen*).  
+International Organizations and any wholly owned agency or instrumentality thereof as referred to in Article 39 of the General Tax Act (*Algemene wet inzake rijksbelastingen*). 
 
 ### D  
 
@@ -708,19 +708,19 @@ International Organizations and any wholly owned agency or instrumentality there
 
 6. An entity as meant in paragraph 2 of Article 19a of the Wage Tax Act 1964 (*Wet op de loonbelasting 1964*) administering a pension arrangement in relation to an individual who is both an employee and substantial shareholder as referred to in Article 1 of the Pension Act(*Pensioenwet*);  
 
-7. A company pension fund or an industry-wide pension fund as meant in the Pension Act BES (*Pensioenwet BES*).    
+7. A company pension fund or an industry-wide pension fund as meant in the Pension Act BES (*Pensioenwet BES*).   
 
 ### E  
 
 ####Investment Entity Wholly Owned by Exempt Beneficial Owners
 
-An Entity that is a Netherlands Financial Institution solely because it is an Investment Entity, provided that each direct holder of an Equity Interest in the Entity is an exempt beneficial owner, and each direct holder of a debt interest in such Entity is either a Depository Institution (with respect to a loan made to such Entity) or an exempt beneficial owner.  
+An Entity that is a Netherlands Financial Institution solely because it is an Investment Entity, provided that each direct holder of an Equity Interest in the Entity is an exempt beneficial owner, and each direct holder of a debt interest in such Entity is either a Depository Institution (with respect to a loan made to such Entity) or an exempt beneficial owner. 
 
 ### II  
 
 ####Deemed-Compliant Financial Institutions.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 A. *Deemed-Compliant Financial Institutions* The following Financial Institutions are treated as Non-Reporting Netherlands Financial Institutions and as deemed-compliant FFIs for purposes of section 1471 of the U.S. Internal Revenue Code: 
 
@@ -746,7 +746,7 @@ i) Each Related Entity of the Financial Institution must be incorporated or orga
 
 j) The Financial Institution must not have policies or practices that discriminate against opening or maintaining accounts for individuals who are Specified U.S. Persons and who are residents of the Netherlands.    
 
-2.  *Non-profit Organizations*  
+2. * Non-profit Organizations*  
 
 a) An *algemeen nut beogende instelling* (“ANBI”) as described in Article 5b of the General Tax Act (*Algemene wet inzake rijksbelastingen*);  
 
@@ -768,9 +768,9 @@ e) The following quasi-governmental non-profit organizations:
 
 3. A fund that is exempt under the Corporation Tax Act (*Wet op de vennootschapsbelasting 1969*) and constituted by a Netherlands labor union and operated exclusively to administer or provide benefits to its members in case they are on strike (*stakingskassen*) and of which the payments are exempt under paragraph 1(f) of Article 3.13 of the Income Tax Act 2001 (*Wet inkomstenbelasting 2001*).  
 
-4.  *Investment Advisors and Investment Managers*  An Investment Entity resident in the Netherlands the sole activity of which is (1) to render investment advice to, and act on behalf of, or (2) to manage portfolios for, a customer based on a power of attorney or similar instrument (*e.g.*, an investment authority) issued by the holder of a Financial Account or based on investment powers in a directorship capacity for the purposes of investing, managing, or administering funds deposited in the name of the person or Entity granting the power or issuing the similar instrument with a Financial Institution other than a Nonparticipating Financial Institution.    
+4. *Investment Advisors and Investment Managers*  An Investment Entity resident in the Netherlands the sole activity of which is (1) to render investment advice to, and act on behalf of, or (2) to manage portfolios for, a customer based on a power of attorney or similar instrument (*e.g.*, an investment authority) issued by the holder of a Financial Account or based on investment powers in a directorship capacity for the purposes of investing, managing, or administering funds deposited in the name of the person or Entity granting the power or issuing the similar instrument with a Financial Institution other than a Nonparticipating Financial Institution.    
 
-B.  *Certain Collective Investment Vehicles*  
+B. *Certain Collective Investment Vehicles*  
 
 1. In the case of an Investment Entity that is a collective investment vehicle resident in the Netherlands if all of the interests in the collective investment vehicle (including debt interests in excess of $50,000) are held by or through one or more exempt beneficial owners, Active NFFEs described in subparagraph B(4) of section VI of Annex I, U.S. Persons that are not Specified U.S. Persons, or Financial Institutions that are not Nonparticipating Financial Institutions, such collective investment vehicle will be treated as a deemed-compliant FFI for purposes of section 1471 of the U.S. Internal Revenue Code, and the reporting obligations of any Investment Entity (other than a Financial Institution through which interests in the collective investment vehicle are held) shall be deemed fulfilled with respect to interests in the collective investment vehicle.  
 
@@ -780,13 +780,13 @@ a. An Investment Entity that is regulated as a collective investment vehicle und
 
 b. An Investment Entity that is a qualified collective investment vehicle under relevant U.S. Treasury Regulations;   the reporting obligations of any Investment Entity that is a Netherlands Financial Institution (other than a Financial Institution through which interests in the collective investment vehicle are held) shall be deemed fulfilled.  
 
-3. In the case of an Investment Entity that is a collective investment vehicle resident in the Netherlands not described in paragraph 1 or 2, consistent with paragraph 3 of Article 5 of the Agreement, if the information required to be reported by the collective investment vehicle pursuant to the Agreement with respect to interests in the collective investment vehicle is reported by the collective investment vehicle or another Investment Entity, the reporting obligations of all other Investment Entities required to report with respect to the interests in the collective investment vehicle will be deemed fulfilled with respect to such interests.      
+3. In the case of an Investment Entity that is a collective investment vehicle resident in the Netherlands not described in paragraph 1 or 2, consistent with paragraph 3 of Article 5 of the Agreement, if the information required to be reported by the collective investment vehicle pursuant to the Agreement with respect to interests in the collective investment vehicle is reported by the collective investment vehicle or another Investment Entity, the reporting obligations of all other Investment Entities required to report with respect to the interests in the collective investment vehicle will be deemed fulfilled with respect to such interests.     
 
 ### III  
 
 ####Exempt Products.
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The following categories of accounts and products established in the Netherlands and maintained by a Netherlands Financial Institution shall not be treated as Financial Accounts, and therefore shall not be U.S. Reportable Accounts or accounts held by a Nonparticipating Financial Institution, under the Agreement: 
 
@@ -800,17 +800,17 @@ The following categories of accounts and products established in the Netherlands
 
 3. All products that are deductible in the contribution phase and taxable in the distribution phase that are covered by Articles 3.124, 3.125 and 3.126a of the Income Tax Act 2001 (*Wet inkomstenbelasting 2001*) or paragraphs 1(a) and 1(e) of Article 16 of the Income Tax Act BES (*Wet inkomstenbelasting BES*);  
 
-4. An account or product excluded from the definition of Financial Account under an agreement between the United States and another Partner Jurisdiction to facilitate the implementation of FATCA, provided that such account or product is subject to the same requirements and oversight under the laws of such other Partner Jurisdiction as if such account or product were established in that Partner Jurisdiction and maintained by a Partner Jurisdiction Financial Institution in that Partner Jurisdiction.    
+4. An account or product excluded from the definition of Financial Account under an agreement between the United States and another Partner Jurisdiction to facilitate the implementation of FATCA, provided that such account or product is subject to the same requirements and oversight under the laws of such other Partner Jurisdiction as if such account or product were established in that Partner Jurisdiction and maintained by a Partner Jurisdiction Financial Institution in that Partner Jurisdiction.   
 
 ### B  
 
 ####Certain Other Tax-Favored Accounts or Products
 
-1. A *Kapitaalverzekering Eigen Woning* (endowment insurance connected with the mortgage on the owner-occupied home, as described in Article 3.116 Income Tax Act 2001), a *Spaarrecht Eigen Woning*, a *Beleggingsrecht Eigen Woning* (the bank and investment equivalent of the *Kapitaalverzekering Eigen Woning*, as described in Article 3.116a Income Tax Act 2001) and a *bouwdepot* (building account);  
+1. A* Kapitaalverzekering Eigen Woning* (endowment insurance connected with the mortgage on the owner-occupied home, as described in Article 3.116 Income Tax Act 2001), a *Spaarrecht Eigen Woning*, a *Beleggingsrecht Eigen Woning* (the bank and investment equivalent of the *Kapitaalverzekering Eigen Woning*, as described in Article 3.116a Income Tax Act 2001) and a *bouwdepot* (building account);  
 
-2. A *Stamrecht* (tax-favored annuity for severance benefits, as described in paragraph 1(g) of Article 11 and Article 11a of the Wage Tax Act 1964);  
+2. A* Stamrecht* (tax-favored annuity for severance benefits, as described in paragraph 1(g) of Article 11 and Article 11a of the Wage Tax Act 1964);  
 
-3. A Course of life account (including a *levenslooprekening, levensloopverzekering* and a *levenslooprecht van deelneming*) concluded and maintained prior to January 1, 2012.    
+3. A Course of life account (including a *levenslooprekening, levensloopverzekering *and a* levenslooprecht van deelneming*) concluded and maintained prior to January 1, 2012.   
 
 ### C  
 
@@ -818,5 +818,5 @@ The following categories of accounts and products established in the Netherlands
 
 1. An alimony annuity, as provided by Article 6.5 and Article 6.6 of the Income Tax Act 2001 (*Wet inkomstenbelasting 2001*);  
 
-2. Any funeral insurance policy with a premium of € 1,000 per year or less.    
+2. Any funeral insurance policy with a premium of € 1,000 per year or less.   
 

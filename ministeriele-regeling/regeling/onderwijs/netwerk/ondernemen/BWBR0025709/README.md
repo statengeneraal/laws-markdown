@@ -30,24 +30,24 @@ e. een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educati
 f. een instelling voor hoger onderwijs als bedoeld in [artikel 1.2, onderdeel a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), doch uitsluitend voor zover het gaat om het aanbieden en verzorgen van lerarenopleidingen voor het primair en voortgezet onderwijs.     
 2.  In deze regeling wordt voorts verstaan onder: 
 
-a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *een samenwerkingsverband:* een samenwerkingsverband bestaande uit minimaal vier deelnemers, waarvan tenminste twee onderwijsinstellingen en tenminste een ondernemer, die blijkens schriftelijke stukken samenwerken in het kader van een project;  
+b.  *een samenwerkingsverband:* een samenwerkingsverband bestaande uit minimaal vier deelnemers, waarvan tenminste twee onderwijsinstellingen en tenminste een ondernemer, die blijkens schriftelijke stukken samenwerken in het kader van een project;  
 
-c. *een project:* een samenhangend geheel van activiteiten gericht op het leren ondernemen volgens de doelstellingen, bedoeld in de artikelen 7, derde lid, en artikel 24a, tweede lid;  
+c.  *een project:* een samenhangend geheel van activiteiten gericht op het leren ondernemen volgens de doelstellingen, bedoeld in de artikelen 7, derde lid, en artikel 24a, tweede lid;  
 
-d. *bevoegd gezag:* het bevoegd gezag, zoals bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d.  *bevoegd gezag:* het bevoegd gezag, zoals bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-e. *ondernemer:* natuurlijke persoon of rechtspersoon, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld, die een onderneming in stand houdt;  
+e.  *ondernemer:* natuurlijke persoon of rechtspersoon, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld, die een onderneming in stand houdt;  
 
-f. *de adviescommissie:* de Adviescommissie Onderwijs Netwerk Ondernemen, als bedoeld in artikel 2;  
+f.  *de adviescommissie:* de Adviescommissie Onderwijs Netwerk Ondernemen, als bedoeld in artikel 2;  
 
-g. *AgentschapNL:* AgentschapNL, het uitvoeringsorgaan van het Ministerie van Economische Zaken, Landbouw en Innovatie.     
+g.  *AgentschapNL:* AgentschapNL, het uitvoeringsorgaan van het Ministerie van Economische Zaken, Landbouw en Innovatie.     
 3.  In deze regeling wordt voorts verstaan onder: 
 
 a. de aanvrager, en  
 
-b. de subsidieontvanger: de penvoerder, als bedoeld in artikel 7, tweede lid.     
+b. de subsidieontvanger: de penvoerder, als bedoeld in artikel 7, tweede lid.    
 
 ### Artikel  2  
 
@@ -64,34 +64,34 @@ a. daar door de desbetreffende persoon om verzocht is;
 b. het functioneren van de voorzitter of het lid daartoe aanleiding geeft;  
 
 c. gebleken is dat de onafhankelijkheid van de voorzitter of het lid niet gewaarborgd is.     
-6.  Bij tussentijds vertrek van de voorzitter of een lid kan de minister een andere voorzitter of een ander lid benoemen.   
+6.  Bij tussentijds vertrek van de voorzitter of een lid kan de minister een andere voorzitter of een ander lid benoemen.  
 
 ### Artikel  3  
 
 ####Integriteit
 
-Een lid van de adviescommissie neemt niet deel aan de voorbereiding en vaststelling van een advies indien hij een persoonlijk belang heeft bij de subsidieverlening.  
+Een lid van de adviescommissie neemt niet deel aan de voorbereiding en vaststelling van een advies indien hij een persoonlijk belang heeft bij de subsidieverlening. 
 
 ### Artikel  4  
 
 ####Informatieplicht
 
 1.  De minister kan een deskundige aanwijzen die het recht heeft de vergaderingen van de adviescommissie bij te wonen.   
-2.  De adviescommissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.   
+2.  De adviescommissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.  
 
 ### Artikel  5  
 
 ####Werkwijze
 
 1.  De adviescommissie stelt, op voordracht van AgentschapNL, haar eigen werkwijze vast.   
-2.  In het secretariaat van de adviescommissie wordt door AgentschapNL voorzien.   
+2.  In het secretariaat van de adviescommissie wordt door AgentschapNL voorzien.  
 
 ### Artikel  6  
 
 ####Vergoeding
 
 1.  De voorzitter en de andere leden van de adviescommissie ontvangen een vaste vergoeding per jaar. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor is gebaseerd op 72 werkuren per jaar.   
-2.  De voorzitter en de andere leden van de adviescommissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md). Deze vergoeding wordt door het secretariaat van de adviescommissie afgehandeld.   
+2.  De voorzitter en de andere leden van de adviescommissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md). Deze vergoeding wordt door het secretariaat van de adviescommissie afgehandeld.  
 
 ### §  2  
 
@@ -114,13 +114,13 @@ c. het stimuleren dat andere onderwijsinstellingen en partijen in de regio actie
 
 a. indien reeds subsidie is verstrekt aan een penvoerder voor eenzelfde samenwerkingsverband;  
 
-b. voor projectkosten die zijn gemaakt voor de datum van indiening van de aanvraag.     
+b. voor projectkosten die zijn gemaakt voor de datum van indiening van de aanvraag.    
 
 ### Artikel  8  
 
 ####Hoogte subsidie
 
-De subsidie voor een project bedraagt maximaal 75% van de projectkosten met een maximum van € 150.000.  
+De subsidie voor een project bedraagt maximaal 75% van de projectkosten met een maximum van € 150.000. 
 
 ### Artikel  9  
 
@@ -133,14 +133,14 @@ a. personele kosten van de deelnemers uit het samenwerkingsverband op basis van 
 b. materiaalkosten;  
 
 c. aan derden verschuldigde kosten;     
-2.  De in het eerste lid onder b en c genoemde kosten bedragen tezamen niet meer dan 25% van de totale subsidiabele kosten.   
+2.  De in het eerste lid onder b en c genoemde kosten bedragen tezamen niet meer dan 25% van de totale subsidiabele kosten.  
 
 ### Artikel  10  
 
 ####Cumulatie en begrotingsvoorwaarde
 
 1.  Kosten die op grond van enige andere regeling vanwege het Rijk reeds bekostigd of gesubsidieerd worden, zijn niet subsidiabel.   
-2.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de met inachtneming van de artikelen 11 en 24e verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.   
+2.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de met inachtneming van de artikelen 11 en 24e verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
 
 ### Artikel  11  
 
@@ -151,7 +151,7 @@ c. aan derden verschuldigde kosten;
 3.  De periode, bedoeld in het eerste lid, wordt voor 2009 vastgesteld op 20 april 2009 tot en met 15 juni 2009.   
 4.  Het subsidieplafond voor het verlenen van subsidies op aanvragen op grond van artikel 7 ontvangen in de in het derde lid genoemde periode, wordt vastgesteld op: € 4.000.000.   
 5.  De periode, bedoeld in het eerste lid, wordt voor 2010 vastgesteld op 1 augustus 2010 tot en met 1 oktober 2010.   
-6.  Het subsidieplafond voor het verlenen van subsidies op aanvragen op grond van artikel 7 ontvangen in de in het vijfde lid genoemde periode, wordt vastgesteld op € 7.250.000.   
+6.  Het subsidieplafond voor het verlenen van subsidies op aanvragen op grond van artikel 7 ontvangen in de in het vijfde lid genoemde periode, wordt vastgesteld op € 7.250.000. 
 
 ### §  3  
 
@@ -166,26 +166,26 @@ c. aan derden verschuldigde kosten;
 
 a. een activiteitenplan, conform bijlage a van het aanvraagformulier;  
 
-b. een begroting van de kosten, uitgesplitst per deelnemer van het samenwerkingsverband, conform bijlage b van het aanvraagformulier.     
+b. een begroting van de kosten, uitgesplitst per deelnemer van het samenwerkingsverband, conform bijlage b van het aanvraagformulier.    
 
 ### Artikel  13  
 
 ####Elektronische aanvraag
 
-AgentschapNL draagt zorg voor de mogelijkheid om aanvragen elektronisch in te dienen.  
+AgentschapNL draagt zorg voor de mogelijkheid om aanvragen elektronisch in te dienen. 
 
 ### Artikel  14  
 
 ####Behandeltermijn van aanvragen
 
 1.  Binnen 22 weken na de laatste dag van de krachtens artikel 11, derde lid, vastgestelde periode beslist de minister op de in die periode ontvangen aanvragen om subsidie.   
-2.  De minister kan, gehoord de adviescommissie, de toegekende subsidie lager vaststellen dan op grond van de begroting bij de aanvraag is aangevraagd.   
+2.  De minister kan, gehoord de adviescommissie, de toegekende subsidie lager vaststellen dan op grond van de begroting bij de aanvraag is aangevraagd.  
 
 ### Artikel  15  
 
 ####Criteria bij de toekenning van subsidie
 
-1.  De minister beslist in ieder geval afwijzend op een aanvraag indien die aanvraag niet voldoet aan de voorwaarden waaraan een aanvraag op grond van deze regeling moet voldoen.   
+1.  De minister beslist in ieder geval afwijzend op een aanvraag indien die aanvraag niet voldoet aan de voorwaarden waaraan een aanvraag op grond van deze regeling moet voldoen.  
 2.  De minister wint omtrent de aanvragen waarop niet met toepassing van het eerste lid afwijzend is beslist, het advies in van de adviescommissie.   
 3.  De minister beslist daarbij, geadviseerd door de adviescommissie, afwijzend op een aanvraag indien hij van oordeel is dat een aanvraag op één of meer van de vijf rankingscriteria, bedoeld in het vierde lid, kennelijk onvoldoende bijdraagt.   
 4.  De minister rangschikt, daarbij geadviseerd door de adviescommissie, de aanvragen zodanig, dat een project hoger gerangschikt wordt naar mate: 
@@ -200,14 +200,14 @@ d. het meer bijdraagt aan profilering van (de doelstellingen van) het samenwerki
 
 e. het samenwerkingsverband meer divers is samengesteld.     
 5.  Voor de rangschikking wegen de in het vierde lid genoemde criteria ieder even zwaar.   
-6.  De minister verdeelt het beschikbare bedrag in de volgorde van rangschikking, waarbij de aanvragen als bedoeld in het derde lid altijd buiten beschouwing blijven.   
+6.  De minister verdeelt het beschikbare bedrag in de volgorde van rangschikking, waarbij de aanvragen als bedoeld in het derde lid altijd buiten beschouwing blijven.  
 
 ### Artikel  16  
 
 ####Mandaat AgentschapNL en afhandeling bezwaarschriften
 
 1.  Aan de algemeen directeur van AgentschapNL te Den Haag wordt mandaat verleend om namens de minister alle noodzakelijke besluiten te nemen met betrekking tot de behandeling van aanvragen in het kader van de uitvoering van deze regeling. De algemeen directeur van AgentschapNL kan ondermandaat verlenen aan een of meer onder hem ressorterende functionarissen.   
-2.  Bezwaarschriften ingediend naar aanleiding van besluiten op grond van deze regeling worden behandeld conform de [Regeling behandeling bezwaarschriften OCW](../../../../../../ministeriele-regeling/regeling/behandeling/bezwaarschriften/ocw/BWBR0023195/README.md).   
+2.  Bezwaarschriften ingediend naar aanleiding van besluiten op grond van deze regeling worden behandeld conform de [Regeling behandeling bezwaarschriften OCW](../../../../../../ministeriele-regeling/regeling/behandeling/bezwaarschriften/ocw/BWBR0023195/README.md).  
 
 ### §  4  
 
@@ -217,7 +217,7 @@ e. het samenwerkingsverband meer divers is samengesteld.
 
 ####Bewaarplicht
 
-De aanvrager bewaart de boeken en bescheiden en informatie of andere informatiedragers die verband houden met de toepassing van deze regeling gedurende ten minste vijf jaar na datum waarop de vaststelling van de subsidie heeft plaatsgevonden.  
+De aanvrager bewaart de boeken en bescheiden en informatie of andere informatiedragers die verband houden met de toepassing van deze regeling gedurende ten minste vijf jaar na datum waarop de vaststelling van de subsidie heeft plaatsgevonden. 
 
 ### Artikel  18  
 
@@ -227,7 +227,7 @@ De aanvrager bewaart de boeken en bescheiden en informatie of andere informatied
 2.  Indien er tussentijds bijzondere omstandigheden optreden, die de voortgang van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor het recht op subsidie, doet de subsidieontvanger hiervan onverwijld mededeling aan AgentschapNL.   
 3.  De subsidieontvanger is verplicht de minister en de door hem aangewezen ambtenaren desgevraagd alle inlichtingen te geven die deze in verband met deze subsidieregeling verlangen. De subsidieontvanger geeft desgewenst deze ambtenaren de boeken en bescheiden ter inzage.   
 4.  De subsidieontvanger verleent op verzoek van de minister medewerking aan communicatieactiviteiten gericht op het presenteren van het samenwerkingsverband en het verspreiden van de (tussentijdse) projectresultaten aan overige belanghebbenden.   
-5.  De minister kan aan de subsidieverlening voorts verdere nadere voorschriften verbinden. Deze voorschriften worden opgenomen in de beschikking.   
+5.  De minister kan aan de subsidieverlening voorts verdere nadere voorschriften verbinden. Deze voorschriften worden opgenomen in de beschikking. 
 
 ### Artikel  19  
 
@@ -239,20 +239,20 @@ De aanvrager bewaart de boeken en bescheiden en informatie of andere informatied
 4.  Het in het vorige lid bedoelde verslag wordt gezonden aan AgentschapNL.   
 5.  Naar aanleiding van het in het derde lid genoemde verslag, kan de minister besluiten om de subsidiëring van het vervolg van het project geheel of gedeeltelijk te beëindigen.   
 6.  De leden 1 tot en met 5 zijn van overeenkomstige toepassing op een subsidieverlening als bedoeld in paragraaf 6a.   
-7.  Het voortgangsverslag, bedoeld in het derde lid, wordt ingeval van een subsidieverlening als bedoeld in paragraaf 6a ingediend met gebruikmaking van een formulier overeenkomstig het model dat is opgenomen in de bij deze regeling behorende bijlage 5.   
+7.  Het voortgangsverslag, bedoeld in het derde lid, wordt ingeval van een subsidieverlening als bedoeld in paragraaf 6a ingediend met gebruikmaking van een formulier overeenkomstig het model dat is opgenomen in de bij deze regeling behorende bijlage 5. 
 
 ### Artikel  20  
 
 ####Uitvoering overeenkomstig projectplan
 
 1.  De subsidieontvanger voert het project uit overeenkomstig het projectplan waarop de beschikking tot subsidieverlening betrekking heeft en voltooit het op het bij de subsidieverlening bepaalde tijdstip, doch uiterlijk binnen een tijdvak van twee en een half jaar na aanvang van het project.   
-2.  De minister kan voor het vertragen, het essentieel wijzigen of het stopzetten van het project op voorafgaand verzoek van de subsidieontvanger schriftelijk ontheffing verlenen van de verplichting, bedoeld in het eerste lid. Aan de ontheffing kunnen voorschriften worden verbonden.   
+2.  De minister kan voor het vertragen, het essentieel wijzigen of het stopzetten van het project op voorafgaand verzoek van de subsidieontvanger schriftelijk ontheffing verlenen van de verplichting, bedoeld in het eerste lid. Aan de ontheffing kunnen voorschriften worden verbonden.  
 
 ### Artikel  21  
 
 ####Aanvang project
 
-De subsidieontvanger begint met het project uiterlijk zes maanden na de subsidieverlening.  
+De subsidieontvanger begint met het project uiterlijk zes maanden na de subsidieverlening. 
 
 ### §  5  
 
@@ -263,7 +263,7 @@ De subsidieontvanger begint met het project uiterlijk zes maanden na de subsidie
 ####Voorschotten
 
 1.  Er wordt ambtshalve een voorschot verstrekt bij de subsidieverlening van 40% van de toegekende subsidie.   
-2.  Het tweede voorschot wordt verstrekt, nadat het voortgangsrapport bedoeld in artikel 19, derde lid, positief wordt beoordeeld. Het tweede voorschot bedraagt 40% van de toegekende subsidie, tenzij toepassing wordt gegeven aan artikel 19, vijfde lid.   
+2.  Het tweede voorschot wordt verstrekt, nadat het voortgangsrapport bedoeld in artikel 19, derde lid, positief wordt beoordeeld. Het tweede voorschot bedraagt 40% van de toegekende subsidie, tenzij toepassing wordt gegeven aan artikel 19, vijfde lid.  
 
 ### §  6  
 
@@ -274,13 +274,13 @@ De subsidieontvanger begint met het project uiterlijk zes maanden na de subsidie
 ####Aanvraag vaststelling
 
 1.  Uiterlijk dertien weken na afloop van het project dient de subsidieontvanger een aanvraag om vaststelling in.   
-2.  De aanvraag wordt ingediend bij AgentschapNL met een formulier, overeenkomstig het model dat is opgenomen in bijlage 3 bij deze regeling of in bijlage 6 bij deze regeling in geval van een subsidieverlening als bedoeld in paragraaf 6a en gaat vergezeld van een inhoudelijk eindverslag. Het eindverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee behaalde resultaten.   
+2.  De aanvraag wordt ingediend bij AgentschapNL met een formulier, overeenkomstig het model dat is opgenomen in bijlage 3 bij deze regeling of in bijlage 6 bij deze regeling in geval van een subsidieverlening als bedoeld in paragraaf 6a en gaat vergezeld van een inhoudelijk eindverslag. Het eindverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee behaalde resultaten.  
 
 ### Artikel  24  
 
 ####Beslistermijn vaststelling
 
-De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.  
+De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken. 
 
 ### §  6a  
 
@@ -292,7 +292,7 @@ De minister geeft de beschikking tot subsidievaststelling binnen dertien weken n
 
 1.  Deze paragraaf heeft betrekking op het verlenen van subsidies in 2012.   
 2.  De doelstelling van de subsidieverlening in 2012 is: het voor andere onderwijsinstellingen bruikbaar, overdraagbaar en gemakkelijk toepasbaar maken van reeds ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken met betrekking tot het leren ondernemen in het onderwijs alsmede de uitvoering daarvan en het verder verdiepen en versterken van reeds ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken op dat terrein.   
-3.  Op de subsidieverlening, bedoeld in het eerst lid, blijven de artikelen 1, derde lid, 7, 8, 11, 12, 14, 15 en 21 van deze regeling buiten toepassing.   
+3.  Op de subsidieverlening, bedoeld in het eerst lid, blijven de artikelen 1, derde lid, 7, 8, 11, 12, 14, 15 en 21 van deze regeling buiten toepassing.  
 
 ### Artikel  24b  
 
@@ -302,7 +302,7 @@ De minister kan subsidie verstrekken aan een onderwijsinstelling voor activiteit
 
 a. het voor tenminste drie andere onderwijsinstellingen bruikbaar, overdraagbaar en gemakkelijk toepasbaar maken van door de aanvrager ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken met betrekking tot het leren ondernemen in het onderwijs alsmede de uitvoering daarvan en  
 
-b. het verder verdiepen en versterken van de eigen, aantoonbaar effectieve uitvoeringspraktijken met betrekking tot het leren ondernemen in het onderwijs.    
+b. het verder verdiepen en versterken van de eigen, aantoonbaar effectieve uitvoeringspraktijken met betrekking tot het leren ondernemen in het onderwijs.   
 
 ### Artikel  24c  
 
@@ -320,7 +320,7 @@ b. een passage uit de schoolgids van de aanvrager voor de jaren 2009/2010, 2010/
 c. een document waaruit blijkt dat de aanvrager gedurende tenminste 20 maanden heeft deelgenomen aan een ander project in het kader van het Actieprogramma Onderwijs en Ondernemen of  
 
 d. andere informatie waardoor aannemelijk wordt dat de aanvrager op het terrein van het leren ondernemen in het onderwijs een uitvoeringspraktijk van tenminste 20 maanden kent.     
-5.  De aanvraag gaat voorts vergezeld van kopieën van de getekende overeenkomsten tussen de aanvrager en de onderwijsinstellingen ten behoeve waarvan de door de aanvrager ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken met betrekking tot het leren ondernemen in het onderwijs bruikbaar, overdraagbaar en gemakkelijk toepasbaar zullen worden gemaakt.   
+5.  De aanvraag gaat voorts vergezeld van kopieën van de getekende overeenkomsten tussen de aanvrager en de onderwijsinstellingen ten behoeve waarvan de door de aanvrager ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken met betrekking tot het leren ondernemen in het onderwijs bruikbaar, overdraagbaar en gemakkelijk toepasbaar zullen worden gemaakt.  
 
 ### Artikel  24d  
 
@@ -336,7 +336,7 @@ c. het aantal betrokken onderwijsinstellingen minder is dan drie;
 
 d. de aanvrager niet heeft aangetoond de activiteiten voor tenminste 50% zelf te financieren of  
 
-e. de totale kosten van de activiteiten waarvoor subsidie wordt gevraagd, minder bedragen dan € 200.000.    
+e. de totale kosten van de activiteiten waarvoor subsidie wordt gevraagd, minder bedragen dan € 200.000.   
 
 ### Artikel  24e  
 
@@ -358,25 +358,25 @@ d. het ondernemend onderwijs binnen de betrokken onderwijsinstellingen hierdoor 
 
 e. het verder verdiepen en versterken van de door de aanvrager ontwikkelde uitvoeringspraktijken naar verwachting succesvol zullen plaatsvinden en  
 
-f. het accent van de activiteiten meer ligt op de activiteiten bedoeld in artikel 24b, onderdeel a, dan op de activiteiten, bedoeld in artikel 24b, onderdeel b.     
+f. het accent van de activiteiten meer ligt op de activiteiten bedoeld in artikel 24b, onderdeel a, dan op de activiteiten, bedoeld in artikel 24b, onderdeel b.    
 
 ### Artikel  24f  
 
 ####Subsidiebedrag
 
-De subsidie bedraagt maximaal € 250.000.  
+De subsidie bedraagt maximaal € 250.000. 
 
 ### Artikel  24g  
 
 ####Aanvang projecten in 2012
 
-De subsidieontvanger begint met het project uiterlijk binnen drie maanden na de subsidieverlening.  
+De subsidieontvanger begint met het project uiterlijk binnen drie maanden na de subsidieverlening. 
 
 ### Artikel  24h  
 
 ####Aanvullende subsidieverplichting
 
-De subsidieontvanger is verplicht bekendheid te geven aan het project, de resultaten en de algemene kennis die daaruit voortvloeien.  
+De subsidieontvanger is verplicht bekendheid te geven aan het project, de resultaten en de algemene kennis die daaruit voortvloeien. 
 
 ### §  7  
 
@@ -384,27 +384,27 @@ De subsidieontvanger is verplicht bekendheid te geven aan het project, de result
 
 ### Artikel  25  
 
-De [Regeling OCW-subsidies](../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is niet van toepassing.  
+De [Regeling OCW-subsidies](../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is niet van toepassing. 
 
 ### Artikel  25a  
 
 ####Inwerkingtreding
 
-1.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 januari 2016.   
+1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.   
+2.  Deze regeling vervalt met ingang van 1 januari 2016. 
 
 ### Artikel  26  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling Onderwijs Netwerk Ondernemen.  
+Deze regeling wordt aangehaald als: Regeling Onderwijs Netwerk Ondernemen. 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk  
+R.H.A. Plasterk    
 
-### Bijlage  1  
+###Bijlage 1 
 
 ![246944](http://wetten.overheid.nl/Illustration/246944)
 ![246945](http://wetten.overheid.nl/Illustration/246945)
@@ -417,9 +417,9 @@ R.H.A.Plasterk
 ![246952](http://wetten.overheid.nl/Illustration/246952)
 ![246953](http://wetten.overheid.nl/Illustration/246953)
 
-### Bijlage  2  
+###Bijlage 2 
 
-####Tussenrapportage Onderwijs Netwerk Ondernemen
+####Tussenrapportage Onderwijs Netwerk Ondernemen 
 
 | --- | --- |
 |:---|:---|
@@ -473,11 +473,11 @@ Uitgangspunt bij de tussenrapportage is dat u ons inzicht geeft in de voortgang 
 
 * Is het beoogde resultaat na 1 jaar (beschreven in oorspronkelijk activiteitenplan) gehaald?    
 
-7. Vragen of opmerkingen aan adviseurs Agentschap NL.   
+7. Vragen of opmerkingen aan adviseurs Agentschap NL.  
 
-### Bijlage  3  
+###Bijlage 3 
 
-####Eindrapportage Onderwijs Netwerk Ondernemen
+####Eindrapportage Onderwijs Netwerk Ondernemen 
 
 | --- | --- |
 |:---|:---|
@@ -619,17 +619,15 @@ b. Is het beoogde eindresultaat (beschreven in oorspronkelijk activiteitenplan) 
 
 ####Aanvraagformulier Regeling onderwijs netwerk ondernemen 2011/2012
 
-Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Postbus 93144 2509AC Den Haag Meer informatie Voor uitgebreide toelichting bij het aanvraagformulier: – website www.agentschapnl.nl en www.onderwijsonderneemt.nl – telefoon 088-602 5313 (op werkdagen van 8:30–17:30 uur) 
+Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Postbus 93144 2509AC Den Haag Meer informatie Voor uitgebreide toelichting bij het aanvraagformulier: – website www.agentschapnl.nl en www.onderwijsonderneemt.nl – telefoon 088-602 5313 (op werkdagen van 8:30–17:30 uur)
 
-### 1  
+###1 
 
 ####Aanvrager
 
 ### 1.A  
 
-####Onderwijsinstelling
-
-<sup> 1  De aanvrager moet een onderwijsinstelling po, vo, mbo, lerarenopleiding voor het primair of voortgezet onderwijs of een kenniscentrum zijn. Zie ook artikel 1.  </sup>   
+####Onderwijsinstelling<sup> 1  De aanvrager moet een onderwijsinstelling po, vo, mbo, lerarenopleiding voor het primair of voortgezet onderwijs of een kenniscentrum zijn. Zie ook artikel 1.  </sup> 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -641,13 +639,11 @@ Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Post
 | Brinnummer  | --- |
 | IBAN-nummer ²    | --- | BIC-code ²  |
 
-² Vult u hier uw International Bank Account Number (IBAN) en Bank Identifier Code (BIC) in. Via www.ibanbicservice.nl kunt u van een bestaand Nederlands rekeningnummer de juiste BIC-code en het juiste IBAN-nummer opvragen.  
+² Vult u hier uw International Bank Account Number (IBAN) en Bank Identifier Code (BIC) in. Via www.ibanbicservice.nl kunt u van een bestaand Nederlands rekeningnummer de juiste BIC-code en het juiste IBAN-nummer opvragen.
 
 ### 1.B  
 
-####Contactpersoon aanvrager
-
-<sup> 3  Vul hier de contactgegevens van de aanvrager in.  </sup>   
+####Contactpersoon aanvrager<sup> 3  Vul hier de contactgegevens van de aanvrager in.  </sup> 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -658,13 +654,11 @@ Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Post
 | Telefoon  | --- | Mobiel  |
 | E-mail  | --- |
 
-### 2  
+###2 
 
-####Deelnemers in het project
+####Deelnemers in het project<sup> 4  Vul naam en sector / categorie van alle deelnemers in.Daarnaast wordt van de onderwijsinstellingen ook de naam van het bevoegd gezag en het brinnummer gevraagd.  </sup>
 
-<sup> 4  Vul naam en sector / categorie van alle deelnemers in.Daarnaast wordt van de onderwijsinstellingen ook de naam van het bevoegd gezag en het brinnummer gevraagd.  </sup>   
-
-|--- | *Naam* (als onderwijsinstelling ook naam bevoegd gezag en brinnummer noemen)  | PO  | VO  | MBO  | LO/HBO  | LO/WO  | Ondernemer  |
+|--- |  *Naam* (als onderwijsinstelling ook naam bevoegd gezag en brinnummer noemen)  | PO  | VO  | MBO  | LO/HBO  | LO/WO  | Ondernemer  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | Aanvrager:  | --- | --- | --- | --- | --- | --- | --- |
 | Bevoegd gezag:  | --- | □  | □  | □  | □  | □  | □  |
@@ -687,18 +681,16 @@ Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Post
 | Deelnemer 7:  | --- | --- | --- | --- | --- | --- | --- |
 | Bevoegd gezag:  | --- | □  | □  | □  | □  | □  | □  |
 | Brinnummer:  | --- | --- | --- | --- | --- | --- | --- |
-| Overige deelnemers <sup>5</sup>  |
+| Overige deelnemers <sup>5</sup>   |
 | Deelnemer 8:  | --- | (Toelichting)  | --- | --- | --- | --- |
 | Deelnemer 9:  | --- | (Toelichting)  | --- | --- | --- | --- |
 | Deelnemer 10:  | --- | (Toelichting)  | --- | --- | --- | --- |
 
-<sup>5</sup> Graag bij overige deelnemers (dus die géén onderwijsinstelling of onderneming zijn) korte toelichting geven van de organisatie.  
+<sup>5</sup> Graag bij overige deelnemers (dus die géén onderwijsinstelling of onderneming zijn) korte toelichting geven van de organisatie.
 
-### 3  
+###3 
 
-####Samenwerkingsovereenkomst
-
-<sup> 6  De samenwerkingsovereenkomst dient door alle partijen die bij hoofdstuk 2 van het aanvraagformulier genoemd zijn, *en* die in de begroting (hoofdstuk 5) van het project zijn opgenomen, ondertekend te worden door een tekenbevoegd persoon.   Let u erop dat de nummering van de deelnemers moet overeenstemmen met die bij hoofdstuk 2.  </sup>   
+####Samenwerkingsovereenkomst<sup> 6  De samenwerkingsovereenkomst dient door alle partijen die bij hoofdstuk 2 van het aanvraagformulier genoemd zijn, *en* die in de begroting (hoofdstuk 5) van het project zijn opgenomen, ondertekend te worden door een tekenbevoegd persoon.  Let u erop dat de nummering van de deelnemers moet overeenstemmen met die bij hoofdstuk 2.  </sup>
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -715,27 +707,27 @@ Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Post
 | Namens deelnemer 5:  | Naam:  Emailadres:  Functie:  BTW-plichtig? (ja/nee)  Handtekening:  |
 | Namens deelnemer 6:  | Naam:  Emailadres:  Functie:  BTW-plichtig? (ja/nee)  Handtekening:  |
 | Namens deelnemer 7:  | Naam:  Emailadres:  Functie:  BTW-plichtig? (ja/nee)  Handtekening:  |
-| Is er een bijlage toegevoegd met handtekeningen van overige deelnemers? <sup>8</sup>  | □ ja, aantal bladen:  | □ nee  |
+| Is er een bijlage toegevoegd met handtekeningen van overige deelnemers? <sup>8</sup>   | □ ja, aantal bladen:  | □ nee  |
 
-<sup>7</sup> Geef aan of uw organisatie btw-plichtig is door hier ja of nee in te vullen. Let u erop dat de aanvrager (penvoerder) ook hoofdstuk 6 van het aanvraagformulier dient te tekenen. <sup>8</sup> Bij meer dan 7 deelnemers dient u de handtekeningen (met naam en functie) apart toe te voegen met de tekst van de samenwerkingsovereenkomst  
+<sup>7</sup> Geef aan of uw organisatie btw-plichtig is door hier ja of nee in te vullen. Let u erop dat de aanvrager (penvoerder) ook hoofdstuk 6 van het aanvraagformulier dient te tekenen.<sup>8</sup> Bij meer dan 7 deelnemers dient u de handtekeningen (met naam en functie) apart toe te voegen met de tekst van de samenwerkingsovereenkomst
 
-### 4  
+###4 
 
 ####Projectgegevens
 
 | Naam van het project  | ...........  |
 |:---|:---|
-| Betreft de aanvraag een vervolg op een eerder toegekend project? <sup>9</sup>  | □ Ja,  referentienummer:  | □ nee  |
+| Betreft de aanvraag een vervolg op een eerder toegekend project? <sup>9</sup>   | □ Ja,  referentienummer:  | □ nee  |
 | --- | --- | --- | --- |
-| Gewenste startdatum project <sup>10</sup>  | --- | Verwachte einddatum project  | --- |
-| Totale projectkosten  | --- | Totaal gevraagde subsidie <sup>11</sup>  | --- |
+| Gewenste startdatum project <sup>10</sup>   | --- | Verwachte einddatum project  | --- |
+| Totale projectkosten  | --- | Totaal gevraagde subsidie <sup>11</sup>   | --- |
 | Is er voor dit project, of voor onderdelen ervan, al subsidie aangevraagd of gekregen?  | □ Ja  | □ nee  | --- |
-| Is er een verzoek tot surséance van betaling, tot faillisement, of tot het van toepassing verklaren van de schuldsaneringsregeling ingediend voor de aanvrager of één van de deelnemers van het samenwerkingsverband?  | □ Ja, op *(datum)*  | □ nee  |
+| Is er een verzoek tot surséance van betaling, tot faillisement, of tot het van toepassing verklaren van de schuldsaneringsregeling ingediend voor de aanvrager of één van de deelnemers van het samenwerkingsverband?  | □ Ja, op *(datum)*   | □ nee  |
 | Toelichting:  |
 
-<sup>9</sup> Onderwijs Netwerk Ondernemen 2009 of 2010 of Onderwijs & Ondernemen 2007. <sup>10</sup> De looptijd van een project kan maximaal 2,5 jaar zijn. Binnen 3 maanden na de beschikkingsdatum moet het project van start gaan. <sup>11</sup> De totaal gevraagde subsidie mag niet hoger zijn dan 50% van de totale projectkosten. De maximale subsidie bedraagt € 250.000,–.  
+<sup>9</sup> Onderwijs Netwerk Ondernemen 2009 of 2010 of Onderwijs & Ondernemen 2007.<sup>10</sup> De looptijd van een project kan maximaal 2,5 jaar zijn. Binnen 3 maanden na de beschikkingsdatum moet het project van start gaan.<sup>11</sup> De totaal gevraagde subsidie mag niet hoger zijn dan 50% van de totale projectkosten. De maximale subsidie bedraagt € 250.000,–.
 
-### 5  
+###5 
 
 ####Ondertekening
 
@@ -749,15 +741,13 @@ Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Post
 | Handtekening  | --- |
 | Heeft u over dit project vooraf met een adviseur van Agentschap NL gesproken?  | □ Ja, met:  | □ Nee  |
 
-####Bijlagen
-
-<sup> 12  Uw aanvraag is pas compleet en kan in behandeling worden genomen als alle voor uw aanvraag van toepassing zijnde bijlagen bijgevoegd zijn. Op www.agentschapnl.nl vindt u een compleet overzicht van en uitgebreide toelichting bij de benodigde bijlagen.  </sup>  
+####Bijlagen<sup> 12  Uw aanvraag is pas compleet en kan in behandeling worden genomen als alle voor uw aanvraag van toepassing zijnde bijlagen bijgevoegd zijn. Op www.agentschapnl.nl vindt u een compleet overzicht van en uitgebreide toelichting bij de benodigde bijlagen.  </sup> 
 
 □  *Gegevens van eventuele overige deelnemers*   
 
 □  *Projectplan*    Het projectplan beschrijft hoe het project aansluit bij de doelstellingen van de regeling. 
 
-□  *Projectbegroting*    De projectbegroting geeft inzicht in de totale geraamde kosten van het project en de verdeling van die kosten per projectdeelnemer.  
+□  *Projectbegroting*    De projectbegroting geeft inzicht in de totale geraamde kosten van het project en de verdeling van die kosten per projectdeelnemer.
 
 ####Projectplan Regeling Onderwijs Netwerk Ondernemen 2011/2012
 
@@ -765,25 +755,25 @@ Stuur het ingevulde formulier met bijlagen naar: Agentschap NL NL Innovatie Post
 
 ####Doel
 
-Geef een korte, heldere beschrijving van het uiteindelijke doel dat u wilt bereiken met het voorgestelde project. Geef tevens aan hoe het project aansluit bij het Actieprogramma Onderwijs en Ondernemen.  
+Geef een korte, heldere beschrijving van het uiteindelijke doel dat u wilt bereiken met het voorgestelde project. Geef tevens aan hoe het project aansluit bij het Actieprogramma Onderwijs en Ondernemen.
 
 ### 2  
 
 ####Projectdeelnemers
 
-Motiveer de samenstelling van het samenwerkingsverband. Geef aan op welke wijze de deelnemers elkaar versterken bij het bereiken van de doelstellingen van de ONO regeling 2012.  
+Motiveer de samenstelling van het samenwerkingsverband. Geef aan op welke wijze de deelnemers elkaar versterken bij het bereiken van de doelstellingen van de ONO regeling 2012.
 
 ### 3  
 
 ####Organisatie netwerk
 
-Geef in grote lijnen aan hoe het project gaat functioneren, o.a.; wie is eindverantwoordelijk, wie heeft de projectleiding, welke overlegstructuur wordt gehanteerd.  
+Geef in grote lijnen aan hoe het project gaat functioneren, o.a.; wie is eindverantwoordelijk, wie heeft de projectleiding, welke overlegstructuur wordt gehanteerd.
 
 ### 4  
 
 ####Best practice
 
-Beschrijf kort de best practice. Toon aan in hoeverre de best practice, die in dit project voor uitrol in aanmerking komt, heeft geleid tot een verbetering van de ondernemendheid van leerlingen, docenten en management.  
+Beschrijf kort de best practice. Toon aan in hoeverre de best practice, die in dit project voor uitrol in aanmerking komt, heeft geleid tot een verbetering van de ondernemendheid van leerlingen, docenten en management.
 
 ### 5  
 
@@ -793,19 +783,19 @@ Doelstelling Regeling Onderwijs Netwerk Ondernemen (ONO) 2012:
 
 a) het voor andere onderwijsinstellingen bruikbaar, overdraagbaar en gemakkelijk toepasbaar maken van reeds ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken met betrekking tot leren ondernemen in het onderwijs alsmede de uitvoering daarvan;  
 
-b) het verder verdiepen en versterken van van reeds ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken op dat terrein.   Geef een opsomming van de *activiteiten* die zowel de aanvragende instelling als de projectdeelnemers gaan ondernemen om bovenstaande doelstellingen te bereiken. Op beide *doelstellingen a en b* moet tenminste één activiteit worden ingezet. Geef *per activiteit* aan: wie deze uitvoert; hoeveel inzet van tijd en middelen dit vergt; de beginsituatie; het beoogde resultaat na 1 jaar; het beoogde eindresultaat na 2,5 jaar; hoeveel leerlingen, docenten en managers en overige partijen per onderwijsinstelling is betrokken. Aangezien u verplicht bent om bekendheid te geven aan het project, de resultaten en de kennis die daaruit voortvloeit, vragen we u om de communicatie-activiteiten in het activiteitenoverzicht te beschrijven.  
+b) het verder verdiepen en versterken van van reeds ontwikkelde en aantoonbaar effectieve uitvoeringspraktijken op dat terrein.   Geef een opsomming van de *activiteiten* die zowel de aanvragende instelling als de projectdeelnemers gaan ondernemen om bovenstaande doelstellingen te bereiken. Op beide *doelstellingen a en b* moet tenminste één activiteit worden ingezet. Geef *per activiteit* aan: wie deze uitvoert; hoeveel inzet van tijd en middelen dit vergt; de beginsituatie; het beoogde resultaat na 1 jaar; het beoogde eindresultaat na 2,5 jaar; hoeveel leerlingen, docenten en managers en overige partijen per onderwijsinstelling is betrokken.Aangezien u verplicht bent om bekendheid te geven aan het project, de resultaten en de kennis die daaruit voortvloeit, vragen we u om de communicatie-activiteiten in het activiteitenoverzicht te beschrijven.
 
 ### 6  
 
 ####Verankering
 
-Welke van de activiteiten (beschreven onder 5) hebben betrekking op de verankering van ondernemend onderwijs in zowel de aanvragende instelling als bij de overige deelnemers? Licht kort toe hoe de verankering plaatsvindt, bijv. in beleid, onderwijsprogramma, organisatie.  
+Welke van de activiteiten (beschreven onder 5) hebben betrekking op de verankering van ondernemend onderwijs in zowel de aanvragende instelling als bij de overige deelnemers? Licht kort toe hoe de verankering plaatsvindt, bijv. in beleid, onderwijsprogramma, organisatie.
 
 ### 7  
 
 ####Begroting
 
-Doelstelling en activiteiten van het project dienen goed gerelateerd te zijn aan de kosten. Gebruik de modelbegroting (die vindt u als excel-bestand op www.onderwijsonderneemt.nl) om dit inzichtelijk te maken.  
+Doelstelling en activiteiten van het project dienen goed gerelateerd te zijn aan de kosten. Gebruik de modelbegroting (die vindt u als excel-bestand op www.onderwijsonderneemt.nl) om dit inzichtelijk te maken.
 
 ![249379](http://wetten.overheid.nl/Illustration/249379)
 
@@ -867,7 +857,7 @@ Uitgangspunt bij het voortgangsverslag is dat u ons inzicht geeft in de voortgan
 
 * Is de uitputting van het budget in lijn met de voortgang; zijn er financiële bijzonderheden te vermelden?    
 
-6. Vragen of opmerkingen aan adviseurs van Agentschap NL.   
+6. Vragen of opmerkingen aan adviseurs van Agentschap NL.  
 
 ### Bijlage  6  
 
@@ -939,4 +929,4 @@ Uitgangspunt bij de eindrapportage is dat u ons inzicht geeft in de uiteindelijk
 
 * Welke partijen hebben uiteindelijk de co-financiering ingebracht?    
 
-6. Vragen of opmerkingen aan de adviseurs van Agentschap NL.   
+6. Vragen of opmerkingen aan de adviseurs van Agentschap NL.  

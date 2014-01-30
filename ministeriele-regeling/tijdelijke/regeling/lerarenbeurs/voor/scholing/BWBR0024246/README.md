@@ -35,7 +35,7 @@ h. masteropleiding: opleiding bedoeld in [artikel 7.3a, eerste lid, onderdeel b,
 
 i. subsidie: totale subsidietoekenning aan een aanvrager waaronder studiekosten en eventuele subsidie ter zake van studieverlof;  
 
-j. studiekosten: les- en collegegeld, studiemiddelen en reiskosten.    
+j. studiekosten: les- en collegegeld, studiemiddelen en reiskosten.   
 
 ### Artikel  2  
 
@@ -52,7 +52,7 @@ c. op grond van de Ministeriële regeling bedoeld in [artikel XI tweede lid van 
 
 d. voor zover het betreft de leraar in het beroepsonderwijs en volwasseneneducatie, in het bezit is van een op basis van de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) afgegeven geschiktheidsverklaring in combinatie met een getuigschrift pedagogisch didactische scholing als bepaald in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel;  
 
-e. op grond van onderwijswetgeving bevoegd is verklaard.     
+e. op grond van onderwijswetgeving bevoegd is verklaard.    
 
 ### Artikel  3  
 
@@ -79,7 +79,7 @@ a. studieverlof alleen wordt verleend voor de opleidingen bedoeld in artikel 10,
 
 b. het bevoegd gezag van de school of instelling waar de leraar in dienst is verklaart het studieverlof te zullen verlenen door middel van het invullen en het medeondertekenen van het aanvraagformulier;  
 
-c. uitgangspunt is dat het bevoegd gezag welwillend tegenover het verzoek om verlof staat, tenzij zwaarwegende redenen hieraan in de weg staan. Indien het bevoegd gezag geen studieverlof kan verlenen, dient zij dit zorgvuldig te motiveren.     
+c. uitgangspunt is dat het bevoegd gezag welwillend tegenover het verzoek om verlof staat, tenzij zwaarwegende redenen hieraan in de weg staan. Indien het bevoegd gezag geen studieverlof kan verlenen, dient zij dit zorgvuldig te motiveren.    
 
 ### Artikel  4  
 
@@ -90,9 +90,9 @@ c. uitgangspunt is dat het bevoegd gezag welwillend tegenover het verzoek om ver
 
 a. voor de eerste aanvraagtermijn van 1 juni 2008 tot en met 15 juli 2008, is het subsidieplafond € 18.000.000,–;  
 
-b. voor de tweede aanvraagtermijn van 12 januari 2009 tot en met 20 februari 2009 is het subsidieplafond € 26.000.000,–, verminderd met de in 2008 aangegane meerjarige verplichtingen die in 2009 tot vervolgbetalingen leiden;  
+b.voor de tweede aanvraagtermijn van 12 januari 2009 tot en met 20 februari 2009 is het subsidieplafond € 26.000.000,–, verminderd met de in 2008 aangegane meerjarige verplichtingen die in 2009 tot vervolgbetalingen leiden; 
 
-c. Aanvragen die buiten de aanvraagtermijnen bedoeld in dit artikel worden ontvangen bij de Minister worden afgewezen, met uitzondering van aanvragen waarvoor verzuimherstel op grond van artikel 20 is verleend.     
+c. Aanvragen die buiten de aanvraagtermijnen bedoeld in dit artikel worden ontvangen bij de Minister worden afgewezen, met uitzondering van aanvragen waarvoor verzuimherstel op grond van artikel 20 is verleend.    
 
 ### Artikel  5  
 
@@ -108,13 +108,13 @@ b. 30% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren i
 c. 13% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren is beschikbaar voor leraren in het beroepsonderwijs en de volwasseneneducatie;  
 
 d. 7% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren is beschikbaar voor leraren in het hoger beroepsonderwijs.     
-3.  Als het aantal toe te kennen aanvragen voor een of meer van de onderwijssectoren achterblijft bij het aandeel dat in het tweede lid is voorzien, worden de resterende toe te kennen aanvragen naar evenredigheid toegevoegd aan de andere onderwijssectoren.   
+3.  Als het aantal toe te kennen aanvragen voor een of meer van de onderwijssectoren achterblijft bij het aandeel dat in het tweede lid is voorzien, worden de resterende toe te kennen aanvragen naar evenredigheid toegevoegd aan de andere onderwijssectoren.  
 
 ### Artikel  6  
 
 ####Maximaal subsidiebedrag
 
-1.  De subsidie geldt voor maximaal drie jaar of zo veel korter als de nominale studieduur van de opleiding. Indien het betreft een opleiding, bedoeld in artikel 10, eerste lid, onderdeel d, geldt de subsidie voor maximaal één jaar, ter dekking van de kosten van het eerste studiejaar.   
+1.  De subsidie geldt voor maximaal drie jaar of zo veel korter als de nominale studieduur van de opleiding. Indien het betreft een opleiding, bedoeld in artikel 10, eerste lid, onderdeel d, geldt de subsidie voor maximaal één jaar, ter dekking van de kosten van het eerste studiejaar.    
 2.  De subsidie is opgebouwd uit subsidie voor studiekosten en subsidie voor studieverlof.   
 3.  De subsidie voor studiekosten is opgebouwd uit: 
 
@@ -137,7 +137,7 @@ b. De subsidiebedragen ter zake van studieverlof per onderwijssector zijn:
 | Beroepsonderwijs en Volwasseneneducatie  | € 37,09  |
 | Hoger beroepsonderwijs  | € 41,82  |
 
-c. De bedragen worden jaarlijks geïndexeerd op basis van de kabinetsbijdrage voor het betreffende jaar, onder voorbehoud van goedkeuring van de begroting door de begrotingswetgever.     
+c. De bedragen worden jaarlijks geïndexeerd op basis van de kabinetsbijdrage voor het betreffende jaar, onder voorbehoud van goedkeuring van de begroting door de begrotingswetgever.    
 
 ### §  2  
 
@@ -148,8 +148,8 @@ c. De bedragen worden jaarlijks geïndexeerd op basis van de kabinetsbijdrage vo
 ####Vereisten
 
 1.  De subsidie wordt op aanvraag verleend.   
-2.  De subsidieaanvraag wordt uitsluitend aangevraagd met gebruikmaking van een door de leraar en het bevoegd gezag volledig ingevuld en ondertekend aanvraagformulier ‘Lerarenbeurs voor scholing’.   
-3.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van deze regeling verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.   
+2.  De subsidieaanvraag wordt uitsluitend aangevraagd met gebruikmaking van een door de leraar en het bevoegd gezag volledig ingevuld en ondertekend aanvraagformulier ‘Lerarenbeurs voor scholing’.  
+3. In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van deze regeling verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.
 
 ### §  3  
 
@@ -159,13 +159,13 @@ c. De bedragen worden jaarlijks geïndexeerd op basis van de kabinetsbijdrage vo
 
 ####Subsidieverlening
 
-Een leraar kan gedurende zijn onderwijsloopbaan één maal in aanmerking komen voor subsidie op grond van deze of volgende subsidieregelingen met hetzelfde doel.  
+Een leraar kan gedurende zijn onderwijsloopbaan één maal in aanmerking komen voor subsidie op grond van deze of volgende subsidieregelingen met hetzelfde doel. 
 
 ### Artikel  9  
 
 ####Termijn beslissing
 
-De Minister beslist binnen 8 weken na het einde van de in artikel 4 genoemde termijnen van het eerste lid op een aanvraag voor subsidie.  
+De Minister beslist binnen 8 weken na het einde van de in artikel 4 genoemde termijnen van het eerste lid op een aanvraag voor subsidie. 
 
 ### Artikel  10  
 
@@ -181,17 +181,17 @@ c. opleidingen die erop gericht zijn dat de voor zijn werk bevoegde leraar in he
 
 d. opleidingen die gericht zijn op het verwerven van extra bekwaamheden, maar niet gericht op het verkrijgen van een andere onderwijsbevoegdheid of graad.     
 2.  Promotietrajecten komen niet voor subsidie in aanmerking.   
-3.  De Minister stelt in bijlage I voor de eerste aanvraagtermijn, bedoeld in artikel 4, tweede lid onderdeel a ter zake van de opleidingen bedoeld in het eerste lid onderdeel d, een limitatieve lijst van opleidingen vast die in aanmerking komen voor subsidie. Voor de aanvraagtermijn bedoeld in artikel 4, tweede lid, onderdeel b geldt dat deze lijst opnieuw wordt vastgesteld.   
-4.  Voor de tweede aanvraagtermijn, bedoeld in artikel 4, tweede lid, onderdeel b, gelden ten aanzien van de opleidingen als bedoeld in het eerste lid, onderdeel d, de volgende criteria: 
+3.  De Minister stelt in bijlage I voor de eerste aanvraagtermijn, bedoeld in artikel 4, tweede lid onderdeel a ter zake van de opleidingen bedoeld in het eerste lid onderdeel d, een limitatieve lijst van opleidingen vast die in aanmerking komen voor subsidie. Voor de aanvraagtermijn bedoeld in artikel 4, tweede lid, onderdeel b geldt dat deze lijst opnieuw wordt vastgesteld.  
+4. Voor de tweede aanvraagtermijn, bedoeld in artikel 4, tweede lid, onderdeel b, gelden ten aanzien van de opleidingen als bedoeld in het eerste lid, onderdeel d, de volgende criteria:
 
-a) de opleiding moet gericht zijn op de bevoegde leraar;  
+a) de opleiding moet gericht zijn op de bevoegde leraar; 
 
-b) de opleiding heeft een minimale studiebelasting van 200 uur en minimaal 40 contacturen;  
+b) de opleiding heeft een minimale studiebelasting van 200 uur en minimaal 40 contacturen;
 
-c) de opleiding moet worden afgesloten met een getuigschrift, certificaat of diploma;  
+c) de opleiding moet worden afgesloten met een getuigschrift, certificaat of diploma;
 
-d) opleidingen gericht op het behalen van de bevoegdheid bewegingsonderwijs zijn uitgesloten van de regeling.   Ongeacht de onder a tot en met d genoemde criteria, komen opleidingen die tot 8 juli 2008 zijn opgenomen op de lijst, bedoeld in het derde lid, in aanmerking voor subsidie in het kader van deze regeling. Hierbij geldt de subsidie voor maximaal één jaar, ter dekking van de kosten van het eerste studiejaar.   
-5.  Aanvragen voor opleidingen die niet voldoen aan de eisen gesteld in dit artikel worden afgewezen.   
+d) opleidingen gericht op het behalen van de bevoegdheid bewegingsonderwijs zijn uitgesloten van de regeling.Ongeacht de onder a tot en met d genoemde criteria, komen opleidingen die tot 8 juli 2008 zijn opgenomen op de lijst, bedoeld in het derde lid, in aanmerking voor subsidie in het kader van deze regeling. Hierbij geldt de subsidie voor maximaal één jaar, ter dekking van de kosten van het eerste studiejaar. 
+5.  Aanvragen voor opleidingen die niet voldoen aan de eisen gesteld in dit artikel worden afgewezen.  
 
 ### Artikel  11  
 
@@ -207,7 +207,7 @@ c. het niet tot stand komen of staken van het studieverlof aan de Minister te me
 
 d. mee te werken aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid; en  
 
-e. binnen een half jaar na ontvangst van de beschikking te zijn gestart met de opleiding.    
+e. binnen een half jaar na ontvangst van de beschikking te zijn gestart met de opleiding.   
 
 ### Artikel  12  
 
@@ -225,17 +225,17 @@ d. de duur van de opleiding;
 
 e. de wijze waarop de leraar aantoont dat de opleiding met goed gevolg is afgerond;  
 
-f. indien het een meerjarige opleiding betreft, als bedoeld in artikel 10, eerste lid, onderdeel a, b en c: de wijze waarop jaarlijks de studievoortgang moet worden vastgesteld;  
+f.indien het een meerjarige opleiding betreft, als bedoeld in artikel 10, eerste lid, onderdeel a, b en c: de wijze waarop jaarlijks de studievoortgang moet worden vastgesteld; 
 
-g. de uiterste datum waarop de opleiding moet zijn afgerond.    
+g. de uiterste datum waarop de opleiding moet zijn afgerond.   
 
 ### Artikel  13  
 
 ####Betaling van de subsidie
 
 1.  De tegemoetkoming in de studiekosten, de studiemiddelen en de reiskosten wordt jaarlijks als voorschot aan de aanvrager uitbetaald.   
-2.  De tegemoetkoming in de kosten van het studieverlof wordt jaarlijks aan het bevoegd gezag waar de aanvrager in dienst is uitbetaald.   
-3.  Indien het een meerjarige opleiding betreft, als bedoeld in artikel 10, eerste lid, onderdeel a, b en c, vindt de betaling van het jaarbedrag na het eerste studiejaar ieder jaar vóór 1 september plaats.   
+2.  De tegemoetkoming in de kosten van het studieverlof wordt jaarlijks aan het bevoegd gezag waar de aanvrager in dienst is uitbetaald.  
+3. Indien het een meerjarige opleiding betreft, als bedoeld in artikel 10, eerste lid, onderdeel a, b en c, vindt de betaling van het jaarbedrag na het eerste studiejaar ieder jaar vóór 1 september plaats. 
 
 ### Artikel  14  
 
@@ -245,7 +245,7 @@ De subsidie kan worden ingetrokken met inachtneming van het bepaalde in [artikel
 
 a. de studie heeft gestaakt;  
 
-b. gedurende de subsidieperiode niet meer als leraar in dienst is van een of meer onderwijsinstellingen die structureel bekostigd worden door het Ministerie van Onderwijs, Cultuur en Wetenschap of het Ministerie van Landbouw, Natuur en Voedselkwaliteit.    
+b. gedurende de subsidieperiode niet meer als leraar in dienst is van een of meer onderwijsinstellingen die structureel bekostigd worden door het Ministerie van Onderwijs, Cultuur en Wetenschap of het Ministerie van Landbouw, Natuur en Voedselkwaliteit.   
 
 ### Artikel  15  
 
@@ -260,14 +260,14 @@ b. hij voor een meerjarige opleiding niet binnen drie jaar na afloop van de subs
 c. hij binnen een jaar na het afronden van de opleiding het onderwijs verlaat om in een andere sector dan de onderwijssector te gaan werken;     
 2.  De terugbetalingsverplichting geldt niet indien de leraar onvrijwillig werkloos wordt voordat de subsidie wordt vastgesteld;   
 3.  Het terug te betalen bedrag is direct opeisbaar op de datum van de beschikking. De aanvrager kan een betalingsregeling treffen van minimaal € 100 per maand per automatische incasso.   
-4.  De maximale terugbetalingsverplichting voor de leraar is het bedrag aan studiekosten voor één studiejaar.   
+4.  De maximale terugbetalingsverplichting voor de leraar is het bedrag aan studiekosten voor één studiejaar.  
 
 ### Artikel  16  
 
 ####Terugvordering van het bevoegd gezag
 
 1.  Het bevoegd gezag van de school of instelling waar de leraar in dienst is, dient de tegemoetkoming ter zake van het studieverlof terug te betalen indien het studieverlof door zijn toedoen niet of niet geheel tot stand komt.   
-2.  De terugbetalingsverplichting geldt voor het deel van het studieverlof dat niet tot stand is gekomen.   
+2.  De terugbetalingsverplichting geldt voor het deel van het studieverlof dat niet tot stand is gekomen.  
 
 ### Artikel  17  
 
@@ -282,13 +282,13 @@ b. indien de opleiding minstens twee jaar duurt, maar geen drie jaar, binnen vij
 c. indien de opleiding minstens drie jaar duurt, binnen zes jaar na verlening van de subsidie voor deze opleiding.     
 2.  De leraar dient een aanvraag voor vaststelling van de subsidie van opleidingen als bedoeld in artikel 10, eerst lid, onderdeel d, binnen twee jaar in bij de minister na aanvang van deze opleiding.   
 3.  De aanvraag, bedoeld in het eerste lid, bevat een bewijs waaruit het aantal behaalde studiepunten blijkt.   
-4.  De aanvraag, bedoeld in het tweede lid, bevat een bewijs waaruit de deelname aan de opleiding blijkt.   
+4.  De aanvraag, bedoeld in het tweede lid, bevat een bewijs waaruit de deelname aan de opleiding blijkt.  
 
 ### Artikel  18  
 
 ####Hardheidsclausule
 
-De Minister kan voor bepaalde gevallen de regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard.  
+De Minister kan voor bepaalde gevallen de regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard. 
 
 ### §  4  
 
@@ -306,40 +306,40 @@ a. informatie waaruit de onderwijsbevoegdheid van de aanvrager op het moment van
 
 b. informatie waaruit het dienstverband van de aanvrager blijkt alsmede de duur ervan blijkt;  
 
-c. informatie waaruit blijkt dat de aanvrager voldoet aan artikel 3, tweede lid, onderdeel e.     
+c. informatie waaruit blijkt dat de aanvrager voldoet aan artikel 3, tweede lid, onderdeel e.    
 
 ### Artikel  20  
 
 ####Verzuimherstel
 
 1.  Indien de aanvrager niet heeft voldaan aan het bepaalde in de artikelen 3 tweede lid en 19 stelt de Minister de aanvrager in de gelegenheid gedurende vijf werkdagen na ontvangst dit verzuim te herstellen.   
-2.  Indien de aanvrager het verzuim niet herstelt, binnen de termijn bedoeld in het eerste lid, wordt de aanvraag afgewezen.   
+2.  Indien de aanvrager het verzuim niet herstelt, binnen de termijn bedoeld in het eerste lid, wordt de aanvraag afgewezen.  
 
 ### Artikel  21  
 
 ####Looptijd
 
 1.  De regeling is van toepassing op het tijdvak van 1 juni 2008 tot 1 juli 2009.   
-2.  Op meerjarige verplichtingen aangegaan in het tijdvak van 1 juni 2008 tot 1 juli 2009 die doorlopen na afloop van dit tijdvak blijft deze regeling ook na afloop van dit tijdvak van toepassing.   
+2.  Op meerjarige verplichtingen aangegaan in het tijdvak van 1 juni 2008 tot 1 juli 2009 die doorlopen na afloop van dit tijdvak blijft deze regeling ook na afloop van dit tijdvak van toepassing.  
 
 ### Artikel  23  
 
 ####Inwerkingtreding
 
-1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juni 2008.   
-2.  Deze regeling vervalt met ingang van 1 januari 2017.   
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juni 2008.  
+2.  Deze regeling vervalt met ingang van 1 januari 2017. 
 
 ### Artikel  24  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Tijdelijke regeling lerarenbeurs voor scholing.  
+Deze regeling wordt aangehaald als: Tijdelijke regeling lerarenbeurs voor scholing. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst (met uitzondering van de bijlage die ter inzage wordt gelegd bij het Ministerie van Onderwijs, Cultuur en Wetenschap en bekend wordt gemaakt op www.ib-groep.nl).  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk  
+R.H.A. Plasterk    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap en is gepubliceerd op www.ib-groep.nl.  
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap en is gepubliceerd op www.ib-groep.nl.

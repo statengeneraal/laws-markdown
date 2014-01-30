@@ -16,27 +16,27 @@ Besluit:
 1.  De Minister van Onderwijs, Cultuur en Wetenschap kan op aanvraag goedkeuren dat bekostigde universiteiten en hogescholen experimenten starten bedoeld in de [artikelen 4](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), [5](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md) en [6 van het Besluit experimenten excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), binnen projecten in verband met het Sirius Programma, gericht op het bevorderen van excellentie in de initiële masterfase van het hoger onderwijs.   
 2.  De minister kan op aanvraag subsidie verstrekken aan bekostigde universiteiten en hogescholen voor projecten in verband met het Sirius Programma, gericht op het bevorderen van excellentie in de initiële masteropleidingen van het hoger onderwijs, zoals bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 3.  De subsidie wordt verleend voor projecten, waarmee wordt beoogd inzicht te krijgen in de wijze waarop excellentie in het hoger onderwijs gerealiseerd kan worden en de belemmeringen die daarvoor in de huidige situatie zijn.   
-4.  De minister kan op aanvraag goedkeuren dat bekostigde universiteiten en hogescholen experimenten starten,bedoeld in [artikel 3 van het Besluit experimenten excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), binnen projecten in verband met het Sirius Programma, gericht op het bevorderen van excellentie in de bachelorfase van het hoger onderwijs.   
+4.  De minister kan op aanvraag goedkeuren dat bekostigde universiteiten en hogescholen experimenten starten,bedoeld in [artikel 3 van het Besluit experimenten excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), binnen projecten in verband met het Sirius Programma, gericht op het bevorderen van excellentie in de bachelorfase van het hoger onderwijs.  
 
 ### Artikel  2  
 
 ####Instellingen/subsidieontvanger
 
-Een aanvraag als bedoeld in artikel 1 kan worden ingediend door een bekostigde instelling voor hoger onderwijs, opgenomen in de onderdelen a tot en met h van de [bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Een aanvraag als bedoeld in artikel 1 kan worden ingediend door een bekostigde instelling voor hoger onderwijs, opgenomen in de onderdelen a tot en met h van de [bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). 
 
 ### Artikel  3  
 
 ####Vaststelling subsidieplafond
 
 1.  Voor subsidieverlening op grond van deze regeling is een bedrag van ten hoogste € 11.798.518,– beschikbaar.   
-2.  Van het in het eerste lid genoemde bedrag wordt een bedrag van maximaal € 600.000,– ter beschikking gesteld voor de werkzaamheden van de Stichting Platform Bèta en Techniek, bedoeld in artikel 8.   
+2.  Van het in het eerste lid genoemde bedrag wordt een bedrag van maximaal € 600.000,– ter beschikking gesteld voor de werkzaamheden van de Stichting Platform Bèta en Techniek, bedoeld in artikel 8.  
 
 ### Artikel  4  
 
 ####Subsidiebedrag per subsidieontvanger
 
 1.  De subsidie bedraagt maximaal 50% van de kosten van het project.   
-2.  Voor het overige deel dient cofinanciering plaats te vinden, dan wel financiering uit eigen middelen.   
+2.  Voor het overige deel dient cofinanciering plaats te vinden, dan wel financiering uit eigen middelen.  
 
 ### 2  
 
@@ -50,7 +50,7 @@ Een aanvraag als bedoeld in artikel 1 kan worden ingediend door een bekostigde i
 2.  De aanvragen worden gebundeld in een projectaanvraag ingediend bij de Stichting Platform Bèta en Techniek, bedoeld in artikel 8.   
 3.  Per instelling kan slechts één geïntegreerde instellingsbrede projectaanvraag ingediend worden.   
 4.  De aanvrager wordt in de gelegenheid gesteld de aanvraag nader toe te lichten.   
-5.  De aanvrager wordt zo nodig tot 15 oktober 2010 in de gelegenheid gesteld een verbeterde aanvraag in te dienen.   
+5.  De aanvrager wordt zo nodig tot 15 oktober 2010 in de gelegenheid gesteld een verbeterde aanvraag in te dienen.  
 
 ### Artikel  6  
 
@@ -70,7 +70,7 @@ c. Indien de projectaanvraag vergezeld gaat van een aanvraag om subsidie:
 
 d. indien de aanvraag betrekking heeft op een experimenteel programma op een of meerdere experimenten als bedoeld in artikel 1, eerste lid de opleidingen of programma’s waarvoor het experiment geldt;  
 
-e. indien van toepassing de wijze waarop voldaan zal worden aan de vereisten, genoemd in het voor de aanvraag geldende artikel van het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md).    
+e. indien van toepassing de wijze waarop voldaan zal worden aan de vereisten, genoemd in het voor de aanvraag geldende artikel van het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md).   
 
 ### 3  
 
@@ -80,7 +80,7 @@ e. indien van toepassing de wijze waarop voldaan zal worden aan de vereisten, ge
 
 ####Criteria verdeling bij subsidieverlening
 
-De minister voornoemd voorziet in een gelijktijdige beslissing op subsidieaanvragen met betrekking tot projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie. De minister gebruikt hiervoor de ranking waarin de Stichting Platform Bèta en Techniek de vergelijking van de geschiktheid heeft vastgelegd.  
+De minister voornoemd voorziet in een gelijktijdige beslissing op subsidieaanvragen met betrekking tot projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie. De minister gebruikt hiervoor de ranking waarin de Stichting Platform Bèta en Techniek de vergelijking van de geschiktheid heeft vastgelegd. 
 
 ### Artikel  8  
 
@@ -110,7 +110,7 @@ g. de doelmatigheid, doeltreffendheid en proportionaliteit van de uitgaven in ve
 h. de vereisten, genoemd in de [artikelen 4](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), [5](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), en [6 van het Besluit experimenten excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md), indien het project een aanvraag voor goedkeuring van een of meerdere experimenten bevat.     
 3.  De criteria genoemd in het tweede lid, zijn door de Stichting Platform Bèta en Techniek nader uitgewerkt in een beoordelingskader, dat als bijlage bij deze regeling is gevoegd.   
 4.  De Stichting Platform Bèta en Techniek verdeelt de beoordeelde projectaanvragen onder in de categorieën voldoende of onvoldoende, zoals omschreven in het beoordelingskader.   
-6.  Voor de te verrichten werkzaamheden dient de Stichting Platform Bèta en Techniek jaarlijks een begroting in bij de minister.   
+6.  Voor de te verrichten werkzaamheden dient de Stichting Platform Bèta en Techniek jaarlijks een begroting in bij de minister.  
 
 ### Artikel  9  
 
@@ -119,20 +119,20 @@ h. de vereisten, genoemd in de [artikelen 4](../../../../../../AMvB/besluit/expe
 1.  De minister voornoemd neemt een beslissing over de aanvragen bedoeld in artikel 1, eerste en tweede lid, op basis van het advies van de Stichting Platform Bèta en Techniek.   
 2.  De minister beschikt uiterlijk op 30 november 2010 op de aanvragen, bedoeld in artikel 1, eerste en tweede lid.   
 3.  Indien de minister niet tijdig een beslissing neemt, deelt hij de aanvrager mee binnen welke termijn de beslissing wel tegemoet kan worden gezien.   
-4.  Er kunnen aanvullende verplichtingen in de beslissing worden opgenomen verbandhoudende met de waarborging van een juiste uitvoering van het project, dan wel ten behoeve van een goed inzicht in de voortgang van het project.   
+4.  Er kunnen aanvullende verplichtingen in de beslissing worden opgenomen verbandhoudende met de waarborging van een juiste uitvoering van het project, dan wel ten behoeve van een goed inzicht in de voortgang van het project.  
 
 ### Artikel  10  
 
 ####Tijdvak goedkeuring experimenten en subsidieverlening
 
 1.  De experimenten bedoeld in artikel 1, eerste lid, worden goedgekeurd voor een tijdvak van zes jaar te rekenen vanaf het jaar waarop voor het eerst wordt geëxperimenteerd met selectie en collegegeld, maar niet later dan het studiejaar 2011–2012   
-2.  Subsidie wordt verleend voor 4 jaar, startend op 1 januari 2011.   
+2.  Subsidie wordt verleend voor 4 jaar, startend op 1 januari 2011.  
 
 ### Artikel  11  
 
 ####Begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de met inachtneming van artikel 3 verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
+In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de met inachtneming van artikel 3 verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
 
 ### 4  
 
@@ -143,7 +143,7 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, ee
 ####Aanvraag
 
 1.  Het instellingsbestuur dient een aanvraag voor goedkeuring voor een of meerdere experimenten als bedoeld in artikel 1 vierde lid in voor 1 mei 2010.   
-2.  De aanvraag wordt ingediend bij de Stichting Platform Bèta en Techniek, bedoeld in artikel 14.   
+2.  De aanvraag wordt ingediend bij de Stichting Platform Bèta en Techniek, bedoeld in artikel 14.  
 
 ### Artikel  13  
 
@@ -160,7 +160,7 @@ b. de wijze waarop voldaan zal worden aan de volgende vereisten, genoemd in [art
 
 – er is een relatie tussen de te hanteren selectiecriteria en de opzet en inhoud van de bacheloropleiding;  
 
-– selectie van de gegadigden voor inschrijving voor de bacheloropleiding heeft de voorkeur boven selectie van studenten na inschrijving voor de bacheloropleiding.       
+– selectie van de gegadigden voor inschrijving voor de bacheloropleiding heeft de voorkeur boven selectie van studenten na inschrijving voor de bacheloropleiding.      
 
 ### Artikel  14  
 
@@ -168,7 +168,7 @@ b. de wijze waarop voldaan zal worden aan de volgende vereisten, genoemd in [art
 
 1.  De Stichting Platform Bèta en Techniek adviseert de minister voornoemd over de goedkeuring van experimenten en begeleidt de projecten, waarin experimenten zijn opgenomen waaraan de minister goedkeuring heeft verleend.   
 2.  De Stichting Platform Bèta en Techniek baseert zich bij haar advisering op de vereisten genoemd in [artikel 3, derde lid van het Besluit experimenten excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md).   
-3.  De vereisten genoemd in het tweede lid, worden door de Stichting Platform Bèta en Techniek nader uitgewerkt in het in artikel 8, derde lid, genoemde beoordelingskader, dat als bijlage bij deze regeling is gevoegd.   
+3.  De vereisten genoemd in het tweede lid, worden door de Stichting Platform Bèta en Techniek nader uitgewerkt in het in artikel 8, derde lid, genoemde beoordelingskader, dat als bijlage bij deze regeling is gevoegd.  
 
 ### Artikel  15  
 
@@ -176,13 +176,13 @@ b. de wijze waarop voldaan zal worden aan de volgende vereisten, genoemd in [art
 
 1.  De minister voornoemd neemt een beslissing over de aanvragen bedoeld in artikel 12, eerste lid, op basis van het advies van de Stichting Platform Bèta en Techniek.   
 2.  De minister beschikt uiterlijk op 30 november 2010 op de aanvraag, bedoeld in artikel 12, eerste lid.   
-3.  Indien de minister niet tijdig een beslissing neemt, deelt hij de aanvrager mee binnen welke termijn de beslissing wel tegemoet kan worden gezien.   
+3.  Indien de minister niet tijdig een beslissing neemt, deelt hij de aanvrager mee binnen welke termijn de beslissing wel tegemoet kan worden gezien.  
 
 ### Artikel  16  
 
 ####Tijdvak experimenten
 
-De experimenten bedoeld in artikel 1, vierde lid, worden goedgekeurd voor een tijdvak van zes jaar te rekenen vanaf het jaar waarop voor het eerst wordt geëxperimenteerd, maar niet later dan het studiejaar 2011–2012.  
+De experimenten bedoeld in artikel 1, vierde lid, worden goedgekeurd voor een tijdvak van zes jaar te rekenen vanaf het jaar waarop voor het eerst wordt geëxperimenteerd, maar niet later dan het studiejaar 2011–2012. 
 
 ### 5  
 
@@ -194,14 +194,14 @@ De experimenten bedoeld in artikel 1, vierde lid, worden goedgekeurd voor een ti
 
 1.  De deelnemer aan het Sirius Programma werkt mee aan door of namens de minister voornoemd ingestelde onderzoeken die erop gericht zijn de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens de minister te voeren beleid.   
 2.  De subsidieontvanger geeft aan door of namens de minster aangewezen ambtenaren op verzoek inzage in de in [artikel 17 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.   
-3.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.   
+3.  De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.  
 
 ### Artikel  18  
 
 ####Verslag van activiteiten in verband met monitoring en auditing
 
 1.  De deelnemer aan het Sirius Programma maakt jaarlijks een verslag met een overzicht van de werkzaamheden van het project en van de daarmee bereikte resultaten.   
-2.  Het verslag wordt ingediend bij de Stichting Platform Bèta en Techniek in verband met monitoring en auditing.   
+2.  Het verslag wordt ingediend bij de Stichting Platform Bèta en Techniek in verband met monitoring en auditing.  
 
 ### 6  
 
@@ -211,7 +211,7 @@ De experimenten bedoeld in artikel 1, vierde lid, worden goedgekeurd voor een ti
 
 ####Besteding subsidie
 
-De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen na afloop van de looptijd van de subsidie zullen worden teruggevorderd. De subsidie wordt uiterlijk in het jaar 2014 besteed.  
+De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen na afloop van de looptijd van de subsidie zullen worden teruggevorderd. De subsidie wordt uiterlijk in het jaar 2014 besteed. 
 
 ### Artikel  20  
 
@@ -219,7 +219,7 @@ De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt.
 
 1.  De verantwoording van de subsidie geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md), met model G, behorende bij de richtlijn RJ 660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verwerking van niet-bestede of onverschuldigd betaalde middelen geschiedt in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie.   
 2.  De verantwoording van de subsidie in de jaarverslaggeving vindt tevens plaats in de FSR-bijlage bij het jaarverslag, bedoeld in [artikel 3. onderdeel g, van de regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). de jaarlijks ontvangen bedragen in de tabel Financiële Specificatie Rijkssubsidies (FSR).   
-3.  De verslaglegging wordt ingediend bij de minister voornoemd.   
+3.  De verslaglegging wordt ingediend bij de minister voornoemd.  
 
 ### Artikel  21  
 
@@ -228,27 +228,27 @@ De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt.
 1.  Indien de subsidie minder dan € 25.000 bedraagt wordt de subsidie bij de verlening vastgesteld.   
 2.  Indien de subsidie meer dan € 25.000 bedraagt wordt het financiële verslag over het laatste jaar van de periode, als bedoeld in artikel 10, tweede lid, beschouwd als verzoek om vaststelling van de subsidie.   
 3.  Indien in het financieel verslag, als bedoeld in lid 2, wordt aangetoond dat de subsidie is aangewend voor het doel waarvoor het is verleend en het oordeel van de Stichting Platform Bèta en Techniek over de prestaties als bedoeld in artikel 8, tweede lid, op basis van de monitoring en auditing daartoe aanleiding geeft, wordt de subsidie definitief vastgesteld.   
-4.  De minister voornoemd beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.   
+4.  De minister voornoemd beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.  
 
 ### Artikel  22  
 
 ####Betaling in gedeelten
 
 1.  Per jaar wordt steeds een deel van de subsidie beschikbaar gesteld. Dit jaarlijkse bedrag wordt in vier gelijke kwartaaltermijnen betaalbaar gesteld, de eerste in de maand januari.   
-2.  Het jaarlijkse subsidiebedrag wordt bepaald op grond van de door de subsidie ontvanger ingediende begroting.   
+2.  Het jaarlijkse subsidiebedrag wordt bepaald op grond van de door de subsidie ontvanger ingediende begroting.  
 
 ### Artikel  23  
 
 ####Voorschotten
 
-Indien de subsidie meer dan € 25.000 bedraagt verleent de minister voornoemd de subsidieontvanger voorschotten tot ten hoogste 80% van het jaarlijkse subsidiebedrag.  
+Indien de subsidie meer dan € 25.000 bedraagt verleent de minister voornoemd de subsidieontvanger voorschotten tot ten hoogste 80% van het jaarlijkse subsidiebedrag. 
 
 ### Artikel  24  
 
 ####Terugvordering
 
 1.  De subsidieontvanger is verplicht onverschuldigd betaalde subsidiebedragen en te veel door hem ontvangen voorschotten direct terug te betalen, tenzij de minister voornoemd heeft aangegeven dat verrekening plaatsvindt.   
-2.  Bij terugvordering van door de minister onverschuldigd betaalde subsidiebedragen of teveel door de subsidieontvanger ontvangen voorschotten kunnen de met de terugvordering verband houdende kosten bij de begunstigde in rekening worden gebracht. Tevens kan worden overgegaan tot het in rekening brengen van de wettelijke rente.   
+2.  Bij terugvordering van door de minister onverschuldigd betaalde subsidiebedragen of teveel door de subsidieontvanger ontvangen voorschotten kunnen de met de terugvordering verband houdende kosten bij de begunstigde in rekening worden gebracht. Tevens kan worden overgegaan tot het in rekening brengen van de wettelijke rente.  
 
 ### Artikel  25  
 
@@ -256,27 +256,27 @@ Indien de subsidie meer dan € 25.000 bedraagt verleent de minister voornoemd 
 
 1.  Indien de minister voornoemd van oordeel is dat een deelnemer aan het Sirius Programma de activiteiten op grond waarvan een beslissing in artikel 1 is genomen niet of niet behoorlijk uitvoert treedt hij daarmee in overleg.   
 2.  Na het overleg in het eerste lid neemt de minister een beslissing over het al dan niet voortzetten van de subsidie en/of het experiment.   
-3.  De minister kan nadere voorwaarden verbinden aan de eventuele voortzetting van de subsidie en of het experiment.   
+3.  De minister kan nadere voorwaarden verbinden aan de eventuele voortzetting van de subsidie en of het experiment.  
 
 ### Artikel  26  
 
 ####Inwerkingtreding
 
-1.  Deze regeling treedt in werking op het tijdstip dat het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md) in werking treedt.   
-2.  Deze regeling vervalt met ingang van 1 januari 2017.   
+1. Deze regeling treedt in werking op het tijdstip dat het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md) in werking treedt.  
+2.  Deze regeling vervalt met ingang van 1 januari 2017. 
 
 ### Artikel  27  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling Sirius programma 2010.  
+Deze regeling wordt aangehaald als: Regeling Sirius programma 2010. 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart  
+J.M. van Bijsterveldt-Vliegenthart    
 
-### Bijlage  
+### Bijlage 
 
 ####behorend bij artikel 8  Regeling Sirius Programma
 
@@ -286,11 +286,11 @@ Voor projectaanvragen in het kader van de masterfase en experimenteeraanvragen v
 
 ####Vooraf
 
-Dit beoordelingskader hoort bij de Regeling Sirius Programma . Met het Sirius Programma beoogt het Ministerie van Onderwijs, Cultuur en Wetenschap kennis en inzicht te verkrijgen in de wijze waarop in het hoger onderwijs de beste studenten tot een zo hoog mogelijk niveau kunnen worden gebracht. Tevens wil het ministerie de belemmeringen identificeren die daarvoor in de huidige situatie bestaan. <sup> 1  De naam Sirius Programma is gekozen omdat deze verwijst naar de helderste ster aan de hemel (na de zon). Het Platform hoopt dat in het kader van dit programma de instellingen in staat zullen zijn om hun beste studenten als heldere sterren te laten stralen.  </sup> Het Sirius Programma richt zich op de volledige breedte van het hoger onderwijs. In het kader van dit Programma kunnen bekostigde instellingen voor hoger onderwijs alleen of gezamenlijk een aanvraag indienen om meer te halen uit hun beste studenten. Deze aanvragen zijn instellingsbreed en kunnen bestaan uit een palet van maatregelen die de instelling(en) wil(len) inzetten om dit doel te bereiken. Aanvragers geven daarbij zelf aan wat hun visie op excellentie (meer halen uit de beste studenten) is. Ze beschrijven wat verstaan zij onder excellente studenten, op welke aspecten willen zij hen laten excelleren en welke prestaties willen zij op dit vlak leveren. Voor de uitvoering van dit Programma heeft het Ministerie van OCW gezocht naar een organisatie die de minister snel, deskundig en adequaat kan adviseren over de aanvragen. Die organisatie moet ook zorg kunnen dragen voor begeleiding van de instellingen, nadat de aanvragen gehonoreerd zijn. Deze werkwijze sluit goed aan bij de werkwijze van de Stichting Platform Bèta en Techniek, die als buitenboordmotor van dit Programma zal fungeren. Het Sirius Programma kent twee fases: de bachelorfase en de masterfase. De bachelorfase is in 2008 gestart en de selectie van de subsidieaanvragen is inmiddels afgerond. In 2010 start de masterfase. Het beoordelingskader voor de gehele selectie van de masterfase, en het beoordelingskader voor de selectie van de experimenteermogelijkheden voor de bachelorfase, zijn in dit document opgenomen: 
+Dit beoordelingskader hoort bij de Regeling Sirius Programma<sup> 1 De naam Sirius Programma is gekozen omdat deze verwijst naar de helderste ster aan de hemel (na de zon). Het Platform hoopt dat in het kader van dit programma de instellingen in staat zullen zijn om hun beste studenten als heldere sterren te laten stralen. </sup> . Met het Sirius Programma beoogt het Ministerie van Onderwijs, Cultuur en Wetenschap kennis en inzicht te verkrijgen in de wijze waarop in het hoger onderwijs de beste studenten tot een zo hoog mogelijk niveau kunnen worden gebracht. Tevens wil het ministerie de belemmeringen identificeren die daarvoor in de huidige situatie bestaan. Het Sirius Programma richt zich op de volledige breedte van het hoger onderwijs. In het kader van dit Programma kunnen bekostigde instellingen voor hoger onderwijs alleen of gezamenlijk een aanvraag indienen om meer te halen uit hun beste studenten. Deze aanvragen zijn instellingsbreed en kunnen bestaan uit een palet van maatregelen die de instelling(en) wil(len) inzetten om dit doel te bereiken. Aanvragers geven daarbij zelf aan wat hun visie op excellentie (meer halen uit de beste studenten) is. Ze beschrijven wat verstaan zij onder excellente studenten, op welke aspecten willen zij hen laten excelleren en welke prestaties willen zij op dit vlak leveren. Voor de uitvoering van dit Programma heeft het Ministerie van OCW gezocht naar een organisatie die de minister snel, deskundig en adequaat kan adviseren over de aanvragen. Die organisatie moet ook zorg kunnen dragen voor begeleiding van de instellingen, nadat de aanvragen gehonoreerd zijn. Deze werkwijze sluit goed aan bij de werkwijze van de Stichting Platform Bèta en Techniek, die als buitenboordmotor van dit Programma zal fungeren. Het Sirius Programma kent twee fases: de bachelorfase en de masterfase. De bachelorfase is in 2008 gestart en de selectie van de subsidieaanvragen is inmiddels afgerond. In 2010 start de masterfase. Het beoordelingskader voor de gehele selectie van de masterfase, en het beoordelingskader voor de selectie van de experimenteermogelijkheden voor de bachelorfase, zijn in dit document opgenomen: 
 
 * Deel 1: Dit deel heeft betrekking op de masterfase van het Sirius Programma. Hierin wordt nader gespecificeerd hoe de masteraanvragen worden beoordeeld.  
 
-* Deel 2: In dit deel van het beoordelingskader wordt beschreven waarop de experimenteeraanvragen voor de bachelorfase worden beoordeeld. Tijdens de selectierondes voor de bachelor waren hiervoor namelijk nog geen wettelijke mogelijkheden. Alleen de aanvragers die in het kader van het Sirius Programma subsidie toegekend hebben gekregen voor hun bacheloraanvraag kunnen een aanvraag indienen.    
+* Deel 2: In dit deel van het beoordelingskader wordt beschreven waarop de experimenteeraanvragen voor de bachelorfase worden beoordeeld. Tijdens de selectierondes voor de bachelor waren hiervoor namelijk nog geen wettelijke mogelijkheden. Alleen de aanvragers die in het kader van het Sirius Programma subsidie toegekend hebben gekregen voor hun bacheloraanvraag kunnen een aanvraag indienen.   
 
 ### Deel  1:  
 
@@ -318,17 +318,17 @@ a) Projectaanvragen met subsidie: een beschrijving van excellentiebevordering (v
 
 b) Projectaanvragen met experimenten: een beschrijving van excellentiebevordering (visie, prestaties en activiteiten) met één of meerdere experimenteeraanvragen  
 
-c) Gecombineerde projectaanvragen: een beschrijving van excellentiebevordering (visie, prestaties en activiteiten) met een subsidieaanvraag plus één of meerdere experimenteeraanvragen    
+c) Gecombineerde projectaanvragen: een beschrijving van excellentiebevordering (visie, prestaties en activiteiten) met een subsidieaanvraag plus één of meerdere experimenteeraanvragen   
 
 ####Hoofdlijn beoordelingskader
 
 De projectaanvragen van hoger onderwijsinstellingen worden beoordeeld op grond van dit beoordelingskader. De beoordeling bestaat uit drie onderdelen: 
 
-1. In het eerste onderdeel wordt de beschrijving van excellentiebevordering getoetst. Hierbij gaat het om de beoordeling van de *visie* en *ambities* van de aanvrager , de *prestaties* die hij wil neerzetten en de bijbehorende *activiteiten*. Daarbij wordt bekeken hoe ambitieus de aanvrager is, in hoeverre de geformuleerde resultaten ook haalbaar zijn en of er sprake is van integraliteit en vraaggerichtheid. Tevens wordt de verantwoording en de mate waarin de projectaanvraag bijdraagt aan de leerfunctie van het Sirius Programma beoordeeld. <sup> 2  Waar in de tekst gesproken wordt over aanvrager/instelling, moet daar meervoud gelezen worden wanneer het een gezamenlijke aanvraag van meerdere instellingen betreft.  </sup>  
+1. In het eerste onderdeel wordt de beschrijving van excellentiebevordering getoetst. Hierbij gaat het om de beoordeling van de *visie* en *ambities* van de aanvrager<sup> 2 Waar in de tekst gesproken wordt over aanvrager/instelling, moet daar meervoud gelezen worden wanneer het een gezamenlijke aanvraag van meerdere instellingen betreft. </sup> , de *prestaties* die hij wil neerzetten en de bijbehorende *activiteiten*. Daarbij wordt bekeken hoe ambitieus de aanvrager is, in hoeverre de geformuleerde resultaten ook haalbaar zijn en of er sprake is van integraliteit en vraaggerichtheid. Tevens wordt de verantwoording en de mate waarin de projectaanvraag bijdraagt aan de leerfunctie van het Sirius Programma beoordeeld.  
 
 2. In dit onderdeel wordt de subsidieaanvraag op doelmatigheid, doeltreffendheid en proportionaliteit getoetst.  
 
-3. Hierin worden de experimenteeraanvragen individueel beoordeeld. Hierbij wordt getoetst op de criteria zoals beschreven in het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md).    
+3. Hierin worden de experimenteeraanvragen individueel beoordeeld. Hierbij wordt getoetst op de criteria zoals beschreven in het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md).   
 
 ####Beoordeling en mogelijke adviezen
 
@@ -342,13 +342,13 @@ c.  *Gecombineerde projectaanvragen (toetsing op onderdeel 1,2 en 3)*  Voor een 
 
 * de projectaanvraag op basis van de onderdelen 1 en 2 voldoende scoren EN  
 
-* de experimenteeraanvragen voldoen aan de vereisten, blijkend uit de beoordeling van onderdeel 3     Het kan voorkomen dat een projectaanvraag voldoende scoort in onderdelen 1 en 2, maar niet over alle experimenteeraanvragen een positief advies krijgt. Wanneer de projectaanvraag op basis van de onderdelen 1 en 2 onvoldoende wordt bevonden, is het advies over de experimenteeraanvragen automatisch negatief. Wanneer de projectaanvraag een positief advies gekregen heeft, maar op basis van de ranking en het beschikbare budget niet kan worden gehonoreerd, krijgt de aanvrager toch toestemming om te experimenteren *wanneer hij ook zonder subsidietoekenning zelf garant staat voor de uitvoering van het beschreven project*. Dit houdt in dat de aanvrager: het project uitvoert conform het voorstel, eventuele kosten voor het project uit eigen middelen financiert, meewerkt aan door of namens de minister ingestelde onderzoekingen die erop gericht zijn de minister inlichtingen te verschaffen, alsmede jaarlijks de benodigde gegevens aanlevert voor de monitoring en auditing door de Stichting Platform Bèta en Techniek.  
+* de experimenteeraanvragen voldoen aan de vereisten, blijkend uit de beoordeling van onderdeel 3     Het kan voorkomen dat een projectaanvraag voldoende scoort in onderdelen 1 en 2, maar niet over alle experimenteeraanvragen een positief advies krijgt. Wanneer de projectaanvraag op basis van de onderdelen 1 en 2 onvoldoende wordt bevonden, is het advies over de experimenteeraanvragen automatisch negatief. Wanneer de projectaanvraag een positief advies gekregen heeft, maar op basis van de ranking en het beschikbare budget niet kan worden gehonoreerd, krijgt de aanvrager toch toestemming om te experimenteren *wanneer hij ook zonder subsidietoekenning zelf garant staat voor de uitvoering van het beschreven project*. Dit houdt in dat de aanvrager: het project uitvoert conform het voorstel, eventuele kosten voor het project uit eigen middelen financiert, meewerkt aan door of namens de minister ingestelde onderzoekingen die erop gericht zijn de minister inlichtingen te verschaffen, alsmede jaarlijks de benodigde gegevens aanlevert voor de monitoring en auditing door de Stichting Platform Bèta en Techniek. 
 
 ####Proces
 
 Op verzoek van de instellingen is gekozen voor de onderstaande procedure: 
 
-a. *Er is maar één aanvraagronde voor de masterfase*. Zoals in de Regeling Sirius Programma is vermeld, kunnen aanvragen *tot 1 mei 2010* worden ingediend bij de Stichting Platform Bèta en Techniek.  
+a.  *Er is maar één aanvraagronde voor de masterfase*. Zoals in de Regeling Sirius Programma is vermeld, kunnen aanvragen *tot 1 mei 2010* worden ingediend bij de Stichting Platform Bèta en Techniek.  
 
 b. Instellingen dienen een beknopte aanvraag in. Deze aanvraag voldoet aan de technische vereisten (zie *paragraaf 1.5 Technische vereisten*) en gaat in op de genoemde criteria (zie *hoofdstuk 2*).  
 
@@ -364,7 +364,7 @@ g. Deze aanvragen worden opnieuw door de Stichting beoordeeld, wederom bijgestaa
 
 h. De Stichting stuurt uiterlijk half november een advies met de ranking en een advisering over toewijzing van de aanvragen naar de minister van OCW.  
 
-i. De minister beschikt uiterlijk 30 november.    
+i. De minister beschikt uiterlijk 30 november.   
 
 ####Technische vereisten
 
@@ -376,7 +376,7 @@ Het uitgangspunt van het Sirius Programma is dat hogescholen en universiteiten z
 
 * Een *begroting en cofinancieringsdocument*. Een instelling kan op verschillende manieren voldoen aan de cofinancieringseis. Deze eis houdt in dat een instelling 50% van het ingediende project zelf dient te financieren. Een instelling is vrij om te kiezen hoe zij hier invulling aan wil geven. Zo kan een instelling de inzet van personeel dan wel huisvesting als cofinanciering gebruiken. Tot slot kan een instelling besluiten om met andere partijen een samenwerking aan te gaan zodat aan de eis kan worden voldaan (publiek-private samenwerking). Het betreft hier slechts voorbeelden; andere manieren zijn ook mogelijk mits duidelijk wordt dat er sprake is van expliciete cofinanciering.    *In geval van één of meerdere experimenteeraanvragen:*  
 
-* De opleiding dan wel opleidingen respectievelijk het programma dan wel de programma’s waarvoor het experiment geldt en de wijze waarop voldaan zal worden aan de vereisten, genoemd in het voor de aanvraag geldende artikel van het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md). De aanvrager dient de argumentatie per experimenteeraanvraag aan te leveren.    
+* De opleiding dan wel opleidingen respectievelijk het programma dan wel de programma’s waarvoor het experiment geldt en de wijze waarop voldaan zal worden aan de vereisten, genoemd in het voor de aanvraag geldende artikel van het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md). De aanvrager dient de argumentatie per experimenteeraanvraag aan te leveren.   
 
 ####Beoordelingskader
 
@@ -422,14 +422,14 @@ Bij dit criterium wordt de projectaanvraag getoetst op: het percentage van de st
 
 * Tevens wordt aangegeven hoe dit programma duurzaam wordt verankerd in de instelling.  
 
-* De aanvraag omvat een omschrijving van concrete, meetbare prestaties die in de looptijd van het programma (januari 2011 tot en met december 2014) bereikt zullen worden. Deze prestaties zijn ambitieus (het programma draagt bij aan aantoonbaar hogere of nieuwe prestaties).    
+* De aanvraag omvat een omschrijving van concrete, meetbare prestaties die in de looptijd van het programma (januari 2011 tot en met december 2014) bereikt zullen worden. Deze prestaties zijn ambitieus (het programma draagt bij aan aantoonbaar hogere of nieuwe prestaties).   
 
 ####Haalbaarheid
 
 Bij dit criterium wordt de haalbaarheid van de aanvraag getoetst. Er wordt beoordeeld of de ambities realiseerbaar zijn: wat het trackrecord is (op het gebied van excellentie of andere relevante terreinen) en welke randvoorwaarden worden gecreëerd (samenwerkingsverbanden, kwaliteitszorg, personeelsbeleid, kennisdeling etc.). 
 ### *Vereiste* 
 
-Een uitwerking van de realiseerbaarheid van het project, onder meer blijkend uit eerdere ervaring op het gebied van excellentie of andere relevante terreinen, of de mate waarin de aanvrager concreet randvoorwaarden schept die het behalen van de prestaties bevorderen.  
+Een uitwerking van de realiseerbaarheid van het project, onder meer blijkend uit eerdere ervaring op het gebied van excellentie of andere relevante terreinen, of de mate waarin de aanvrager concreet randvoorwaarden schept die het behalen van de prestaties bevorderen. 
 
 ####Integraliteit
 
@@ -438,7 +438,7 @@ Bij dit criterium wordt de integraliteit getoetst: of er samenhang is tussen de 
 
 * De aanvraag beschrijft een samenhangend geheel van visie, beoogde prestaties, ingezette instrumenten en de daarbij behorende begroting. Hierbij beslaan de ingezette instrumenten de drieslag ‘input, throughput en output’.  
 
-* De relevante samenwerkingsverbanden worden beschreven.    
+* De relevante samenwerkingsverbanden worden beschreven.   
 
 ####Vraaggerichtheid
 
@@ -447,7 +447,7 @@ De vraag van zowel studenten als het afnemend veld staat centraal in dit criteri
 
 * In de aanvraag wordt aangegeven hoe studenten betrokken zijn en zullen worden in de ontwikkeling en uitvoering van het project en/of zij het belang van de aanvraag onderschrijven.  
 
-* Tevens wordt aangegeven hoe het afnemende veld betrokken is en zal worden in de ontwikkeling en uitvoering van het project en/of zij het belang van de aanvraag onderschrijven.    
+* Tevens wordt aangegeven hoe het afnemende veld betrokken is en zal worden in de ontwikkeling en uitvoering van het project en/of zij het belang van de aanvraag onderschrijven.   
 
 ####Verantwoording
 
@@ -460,7 +460,7 @@ o Excellente studenten
 
 o Afnemend veld  
 
-o Studieresultaten   Daarnaast wordt omschreven hoe de voortgang op de indicatoren wordt gemonitord.  
+o Studieresultaten   Daarnaast wordt omschreven hoe de voortgang op de indicatoren wordt gemonitord. 
 
 ####Leerfunctie
 
@@ -477,7 +477,7 @@ Dit criterium hangt samen met de doelstelling van het Sirius Programma. Excellen
 * De verwevenheid met maatschappelijke prioriteiten.   
 ### *Vereiste* 
 
-Uit de aanvraag blijkt op concrete wijze dat de aanvrager unieke keuzes heeft gemaakt. Waar mogelijk worden deze onderbouwd met concrete voorbeelden. Tevens wordt beschreven hoe de aanvrager zal bijdragen aan de kennisdeling van het Sirius Programma.  
+Uit de aanvraag blijkt op concrete wijze dat de aanvrager unieke keuzes heeft gemaakt. Waar mogelijk worden deze onderbouwd met concrete voorbeelden. Tevens wordt beschreven hoe de aanvrager zal bijdragen aan de kennisdeling van het Sirius Programma. 
 
 ### Onderdeel  2:  
 
@@ -489,21 +489,21 @@ Dit onderdeel is alleen van toepassing voor projectaanvragen die een subsidieaan
 
 * Er moet een heldere relatie bestaan tussen de genoemde investeringen en de nagestreefde prestaties gedurende de looptijd van het programma. Instellingen moeten van elke begrotingspost kunnen onderbouwen op welke manier deze bijdraagt aan de nagestreefde prestaties.  
 
-* Alleen additionele kosten ten opzichte van de huidige/reguliere situatie kunnen worden opgevoerd. Tevens moeten eventuele additionele baten inzichtelijk gemaakt worden.    
+* Alleen additionele kosten ten opzichte van de huidige/reguliere situatie kunnen worden opgevoerd. Tevens moeten eventuele additionele baten inzichtelijk gemaakt worden.   
 
 ####Doelmatigheid (efficiëntie)
 
 * Er moet een heldere kosten-baten analyse gemaakt zijn.  
 
-* Maximaal 50% van de kosten kunnen worden aangevraagd als subsidie.    
+* Maximaal 50% van de kosten kunnen worden aangevraagd als subsidie.   
 
 ####Proportionaliteit
 
 * De totale kosten moeten in redelijke verhouding staan tot het aantal studenten dat bereikt wordt.  
 
-* Wanneer een aanvrager een aanvraag doet voor een hoog bedrag, maar slechts een beperkt aantal studenten bereikt, moet aannemelijk worden gemaakt waarom er gekozen is voor deze handelingswijze en dat de toegevoegde waarde groot is.    
+* Wanneer een aanvrager een aanvraag doet voor een hoog bedrag, maar slechts een beperkt aantal studenten bereikt, moet aannemelijk worden gemaakt waarom er gekozen is voor deze handelingswijze en dat de toegevoegde waarde groot is.   
 
-### Onderdeel  3:  
+### Onderdeel   3:  
 
 ####Beoordeling experimenteeraanvraag
 
@@ -531,7 +531,7 @@ ad b) de aanvrager moet aannemelijk maken dat de opzet en inhoud van de opleidin
 
 ad c) de aanvrager moet aannemelijk maken dat het niet mogelijk is de in de projectaanvraag beschreven prestaties te behalen wanneer de selectie van studenten plaatsvindt na binnenkomst. Oftewel dat het niet mogelijk is de toegevoegde waarde van de opleiding te behalen wanneer de selectie op een later tijdstip plaatsvindt;  
 
-ad d) de projectaanvraag moet voldoende hebben gescoord op de onderdelen 1 en (wanneer van toepassing) 2 en gehonoreerd zal worden of eventuele kosten zelf betaald.    
+ad d) de projectaanvraag moet voldoende hebben gescoord op de onderdelen 1 en (wanneer van toepassing) 2 en gehonoreerd zal worden of eventuele kosten zelf betaald.   
 
 ####Collegegeldverhoging
 
@@ -553,7 +553,7 @@ ad b) de aanvrager moet aannemelijk maken dat
 
 * én dat er een relatie is tussen de hoogte van de additionele kosten en de hoogte van de collegegeldverhoging;    
 
-ad c) de projectaanvraag voldoende moet hebben gescoord op de onderdelen 1 en (wanneer van toepassing) 2 en gehonoreerd zal worden of eventuele kosten zelf betaald.    
+ad c) de projectaanvraag voldoende moet hebben gescoord op de onderdelen 1 en (wanneer van toepassing) 2 en gehonoreerd zal worden of eventuele kosten zelf betaald.   
 
 ####Toelichting
 
@@ -565,25 +565,25 @@ ad c) de projectaanvraag voldoende moet hebben gescoord op de onderdelen 1 en (w
 
 ####Indienen
 
-De aanvragen moeten door het bestuur van de instelling(en) schriftelijk (in tweevoud) én elektronisch worden ingediend. Het adres is: Stichting Platform Bèta Techniek Het Sirius Programma Postbus 556 2501 CN Den Haag Email: info@siriusprogramma.nl  
+De aanvragen moeten door het bestuur van de instelling(en) schriftelijk (in tweevoud) én elektronisch worden ingediend. Het adres is: Stichting Platform Bèta Techniek Het Sirius Programma Postbus 556 2501 CN Den Haag Email: info@siriusprogramma.nl 
 
 ### b)  
 
 ####Aanvraag
 
-Omdat het gaat om instellingsbrede aanvragen kan er maximaal 1 aanvraag per instelling worden ingediend.  
+Omdat het gaat om instellingsbrede aanvragen kan er maximaal 1 aanvraag per instelling worden ingediend. 
 
 ### c)  
 
 ####Toelichting geven
 
-Verzoek aan de aanvragers is om reeds in de aanvraag aan te geven wie de aanvraag zal toelichten in mei/juni 2008 (inclusief contactgegevens).  
+Verzoek aan de aanvragers is om reeds in de aanvraag aan te geven wie de aanvraag zal toelichten in mei/juni 2008 (inclusief contactgegevens). 
 
 ### d)  
 
 ####Experts
 
-De Stichting Platform Bèta en Techniek laat zich bij de beoordeling van de aanvragen en de indeling in de drie categorieën bijstaan door een team van experts. Vaste kern van dit team wordt gevormd door de leading experts: Dhr. prof. dr. F.A. van Vught (voorzitter), Dhr. prof. dr. H.P.M. Adriaansens, Dhr. prof. dr. R.H. Dijkgraaf, Mw. prof. dr. C.A. van Egten RA, Dhr. drs. N.M. Verbraak. Daarnaast is er een poule van onafhankelijke deskundigen samengesteld. Deze deskundigen kunnen ingezet worden bij de beoordeling van de aanvragen. Voor de indieningsdatum zal de samenstelling worden gepubliceerd op www.siriusprogramma.nl.  
+De Stichting Platform Bèta en Techniek laat zich bij de beoordeling van de aanvragen en de indeling in de drie categorieën bijstaan door een team van experts. Vaste kern van dit team wordt gevormd door de leading experts: Dhr. prof. dr. F.A. van Vught (voorzitter), Dhr. prof. dr. H.P.M. Adriaansens, Dhr. prof. dr. R.H. Dijkgraaf, Mw. prof. dr. C.A. van Egten RA, Dhr. drs. N.M. Verbraak. Daarnaast is er een poule van onafhankelijke deskundigen samengesteld. Deze deskundigen kunnen ingezet worden bij de beoordeling van de aanvragen. Voor de indieningsdatum zal de samenstelling worden gepubliceerd op www.siriusprogramma.nl. 
 
 ####Het beoordelingskader
 
@@ -600,10 +600,10 @@ Dit onderdeel van het beoordelingskader bestaat uit zes criteria:
 De aanvragen starten met een heldere omschrijving van de ambities van de instelling in het kader van excellentiebevordering in de master. In dit kader dient de instelling aandacht te besteden aan twee elementen: 
 ### *Robuustheid* 
 
-In de evaluatie van de projecten in het kader van ‘Ruim baan voor talent’ heeft de Commissie Sminia ‘vraagtekens gezet bij het streven van sommige instellingen om slechts een groep van twintig tot dertig studenten genereus te voorzien van het beste onderwijs. Dit heeft nut voor die kleine groep studenten, maar het is onduidelijk wat de effecten hiervan zijn op de rest van de populatie. Om uitstraling te kunnen hebben op de kwaliteit van het onderwijs in den brede, niet alleen op het gebied van onderwijsinnovatie maar ook ten behoeve van een stimulerende werking van honoursstudenten binnen de reguliere opleidingen zou een honoursprogramma zich tenminste op de beste 10% van de populatie moeten richten’ . <sup> 3  Evaluatie van de Commissie Sminia in het kader van Ruim Baan voor Talent, 25 mei 2007, pag. 14.  </sup> Om te bevorderen dat er binnen de instellingen een cultuur van excellentie en diversiteit ontstaat, is het de bedoeling dat een aanvraag *robuust* is: er moet massa gemaakt worden, zodat het excellentiebeleid zichtbaar is en impact heeft op de gehele instelling. Binnen het Sirius Programma is daarom vastgesteld dat per cohort minimaal 5% van de studenten in initiële masteropleidingen bij de betrokken instelling(en) bereikt moet worden. Tevens moet worden aangegeven wat de impact zal zijn op de rest van de instelling. Alleen bij hoge uitzondering kunnen aanvragers, wanneer zij daar valide en goed onderbouwde redenen voor hebben, zich richten op een kleiner gedeelte van de studenten. Tijdens de inputsessies is ten slotte door de instellingen aangegeven dat het in te zetten beleid duurzaam moet zijn: er moet sprake zijn van een langdurige inzet, waar ‘uithoudingsvermogen uit spreekt’. 
+In de evaluatie van de projecten in het kader van ‘Ruim baan voor talent’ heeft de Commissie Sminia ‘vraagtekens gezet bij het streven van sommige instellingen om slechts een groep van twintig tot dertig studenten genereus te voorzien van het beste onderwijs. Dit heeft nut voor die kleine groep studenten, maar het is onduidelijk wat de effecten hiervan zijn op de rest van de populatie. Om uitstraling te kunnen hebben op de kwaliteit van het onderwijs in den brede, niet alleen op het gebied van onderwijsinnovatie maar ook ten behoeve van een stimulerende werking van honoursstudenten binnen de reguliere opleidingen zou een honoursprogramma zich tenminste op de beste 10% van de populatie moeten richten’<sup> 3 Evaluatie van de Commissie Sminia in het kader van Ruim Baan voor Talent, 25 mei 2007, pag. 14. </sup> . Om te bevorderen dat er binnen de instellingen een cultuur van excellentie en diversiteit ontstaat, is het de bedoeling dat een aanvraag *robuust* is: er moet massa gemaakt worden, zodat het excellentiebeleid zichtbaar is en impact heeft op de gehele instelling. Binnen het Sirius Programma is daarom vastgesteld dat per cohort minimaal 5% van de studenten in initiële masteropleidingen bij de betrokken instelling(en) bereikt moet worden. Tevens moet worden aangegeven wat de impact zal zijn op de rest van de instelling. Alleen bij hoge uitzondering kunnen aanvragers, wanneer zij daar valide en goed onderbouwde redenen voor hebben, zich richten op een kleiner gedeelte van de studenten. Tijdens de inputsessies is ten slotte door de instellingen aangegeven dat het in te zetten beleid duurzaam moet zijn: er moet sprake zijn van een langdurige inzet, waar ‘uithoudingsvermogen uit spreekt’. 
 ### *Prestatie* 
 
-In de aanvraag wordt concreet geformuleerd wat de instelling bereikt wil hebben aan het einde van het Programma (december 2014). Het gaat om meetbare prestaties, nieuw of extra ten opzichte van de ‘reguliere’ situatie. Het is hierbij essentieel dat deze voorzien zijn van zogenaamde nulmetingen: de score op deze indicatoren op dit moment. Anders is het onmogelijk de toegevoegde waarde te bepalen. Enkele voorbeelden van prestatie-indicatoren ten aanzien van excellentiebevordering, zeker niet uitputtend : <sup> 4  Voor alle indicatoren geldt dat benoemd moet worden hoeveel hoger/beter etc dan nu het geval is.  </sup> 
+In de aanvraag wordt concreet geformuleerd wat de instelling bereikt wil hebben aan het einde van het Programma (december 2014). Het gaat om meetbare prestaties, nieuw of extra ten opzichte van de ‘reguliere’ situatie. Het is hierbij essentieel dat deze voorzien zijn van zogenaamde nulmetingen: de score op deze indicatoren op dit moment. Anders is het onmogelijk de toegevoegde waarde te bepalen. Enkele voorbeelden van prestatie-indicatoren ten aanzien van excellentiebevordering, zeker niet uitputtend<sup> 4 Voor alle indicatoren geldt dat benoemd moet worden hoeveel hoger/beter etc dan nu het geval is. </sup> : 
 
 * (Oordelen van) Excellente studenten 
 
@@ -663,7 +663,7 @@ o De instelling scoort minimaal plaats x in een bepaalde internationale benchmar
 
 o De instelling sleept bepaalde prijzen in de wacht;  
 
-o De maatschappij blijkt de instelling vaker te zien als toonaangevend/leidend.      
+o De maatschappij blijkt de instelling vaker te zien als toonaangevend/leidend.     
 
 ### 2  
 
@@ -689,7 +689,7 @@ o (Specifiek) personeelsbeleid;
 
 o Ervaring met het selecteren van studenten;  
 
-o Benutting van samenwerkingsverbanden.    
+o Benutting van samenwerkingsverbanden.   
 
 ### 3  
 
@@ -701,13 +701,13 @@ Essentieel bij dit criterium is dat er een heldere, consistente rode lijn in de 
 
 * De throughput. Hier is van belang welke activiteiten worden ontplooid en welke maatregelen worden genomen. Hierbij gaat het niet alleen over de inhoud en vormgeving van het excellentieprogramma, maar ook om de randvoorwaarden die daarvoor gecreëerd moeten worden;  
 
-* De output. Hierbij zijn vragen van belang als: ‘Waar bereidt het traject op voor in de arbeidsmarkt (doorlopende (leer)lijn)?’ ‘Hoe worden studenten daar naartoe begeleid/op voorbereid?’ en ‘Hoe wordt de feedback van alumni/het werkveld verzameld en benut?’.   Vanzelfsprekend is het van belang dat deze instrumenten een logische samenhang vertonen. Voor wat betreft samenwerkingsverbanden: Universiteiten en hogescholen maken vaak deel uit van veel samenwerkingverbanden. Alleen die verbanden die specifiek voor dit programma worden aangegaan of benut zijn relevant.  
+* De output. Hierbij zijn vragen van belang als: ‘Waar bereidt het traject op voor in de arbeidsmarkt (doorlopende (leer)lijn)?’ ‘Hoe worden studenten daar naartoe begeleid/op voorbereid?’ en ‘Hoe wordt de feedback van alumni/het werkveld verzameld en benut?’.   Vanzelfsprekend is het van belang dat deze instrumenten een logische samenhang vertonen. Voor wat betreft samenwerkingsverbanden: Universiteiten en hogescholen maken vaak deel uit van veel samenwerkingverbanden. Alleen die verbanden die specifiek voor dit programma worden aangegaan of benut zijn relevant. 
 
 ### 4  
 
 ####Vraaggerichtheid
 
-Ervaringen uit Ruim baan voor Talent wijzen uit dat het voor het succes van excellentietrajecten van belang is dat deze aansluiten bij de behoeftes die er bestaan onder excellente studenten. En een goede afstemming met het afnemende werkveld en/of vervolgonderwijs zorgt voor een vergroot rendement op de ingezette veranderingen, waar zowel de instellingen, als de afnemers, als de studenten baat bij hebben. Voor beide groepen is het van belang dat ze zowel betrokken zijn aan de voorkant van het geheel, bij de opzet en het ontwerp én tijdens de looptijd van het programma.  
+Ervaringen uit Ruim baan voor Talent wijzen uit dat het voor het succes van excellentietrajecten van belang is dat deze aansluiten bij de behoeftes die er bestaan onder excellente studenten. En een goede afstemming met het afnemende werkveld en/of vervolgonderwijs zorgt voor een vergroot rendement op de ingezette veranderingen, waar zowel de instellingen, als de afnemers, als de studenten baat bij hebben. Voor beide groepen is het van belang dat ze zowel betrokken zijn aan de voorkant van het geheel, bij de opzet en het ontwerp én tijdens de looptijd van het programma. 
 
 ### 5  
 
@@ -719,31 +719,31 @@ Verantwoording vindt plaats op basis van de prestatie-indicatoren die de aanvrag
 
 * Afnemend veld  
 
-* Studieresultaten   Onder *ambitie* zijn in deze toelichting voorbeelden van dergelijke indicatoren te vinden. Het is ook van belang dat wordt aangegeven hoe de monitoring van de voortgang op de prestaties zal plaatsvinden. Hoewel de criteria ambitie en verantwoording met elkaar samenhangen, kan het voorkomen dat een aanvraag goed scoort op verantwoording, maar slecht op ambitie. Bijvoorbeeld doordat helder is uitgewerkt hoe monitoring zal plaatsvinden en de diversiteit in gehanteerde indicatoren groot is, maar de invulling van die indicatoren weinig ambitieus is (nauwelijks hoger/nieuwer/meer ten opzichte van de huidige situatie. Andersom kan natuurlijk ook voorkomen: ambitieuze prestaties blijkend uit de invulling van de indicatoren, maar geen invulling van de monitoring of bijvoorbeeld geen aandacht voor (oordelen van) excellente studenten.  
+* Studieresultaten   Onder *ambitie* zijn in deze toelichting voorbeelden van dergelijke indicatoren te vinden. Het is ook van belang dat wordt aangegeven hoe de monitoring van de voortgang op de prestaties zal plaatsvinden. Hoewel de criteria ambitie en verantwoording met elkaar samenhangen, kan het voorkomen dat een aanvraag goed scoort op verantwoording, maar slecht op ambitie. Bijvoorbeeld doordat helder is uitgewerkt hoe monitoring zal plaatsvinden en de diversiteit in gehanteerde indicatoren groot is, maar de invulling van die indicatoren weinig ambitieus is (nauwelijks hoger/nieuwer/meer ten opzichte van de huidige situatie. Andersom kan natuurlijk ook voorkomen: ambitieuze prestaties blijkend uit de invulling van de indicatoren, maar geen invulling van de monitoring of bijvoorbeeld geen aandacht voor (oordelen van) excellente studenten. 
 
 ### 6  
 
 ####Leerfunctie
 
-Voor dit onderdeel is met name van belang dat wanneer de aanvrager zelf van mening is op bepaalde elementen unieke keuzes gemaakt te hebben, dat hij deze dan goed onderbouwt. Essentieel is dus dat goed uitgelegd wordt waarom een en ander uniek is, dit moet expliciet onderbouwd in de aanvraag opgenomen worden.  
+Voor dit onderdeel is met name van belang dat wanneer de aanvrager zelf van mening is op bepaalde elementen unieke keuzes gemaakt te hebben, dat hij deze dan goed onderbouwt. Essentieel is dus dat goed uitgelegd wordt waarom een en ander uniek is, dit moet expliciet onderbouwd in de aanvraag opgenomen worden. 
 
-### Onderdeel  2:  
+### Onderdeel   2:  
 
-####beoordeling subsidieaanvraag
+#### beoordeling subsidieaanvraag
 
 Instellingen zijn in principe vrij in het bepalen van de soorten kosten die ze willen opvoeren in het kader van het Sirius Programma. Gezien de verwachte diversiteit van de aanvragen is het niet mogelijk om een vast raamwerk voor alle begrotingen te maken. Zij zullen daarom getoetst worden op de volgende punten: doeltreffendheid, doelmatigheid en proportionaliteit. 
 
 ####Doeltreffendheid (effectiviteit)
 
-Voorbeeld 1: een instelling die middelen voor alle studenten opvoert in het kader van het Sirius Programma (studieloopbaanbegeleiding, huisvesting, ICT), moet aantonen dat deze absoluut noodzakelijk zijn om de benoemde prestaties te behalen. Voorbeeld 2: een instelling die al excellentietrajecten faciliteert en kosten voor de uitbreiding van deze bestaande trajecten opvoert zal moeten aantonen dat deze post bijdraagt aan het behalen van nieuwe of hogere prestaties ten opzichte van de huidige situatie. Voorbeeld 3: een instelling die vervangende trajecten aanbiedt, kan alleen de additionele kosten ten opzichte van de reguliere situatie opvoeren.  
+Voorbeeld 1: een instelling die middelen voor alle studenten opvoert in het kader van het Sirius Programma (studieloopbaanbegeleiding, huisvesting, ICT), moet aantonen dat deze absoluut noodzakelijk zijn om de benoemde prestaties te behalen. Voorbeeld 2: een instelling die al excellentietrajecten faciliteert en kosten voor de uitbreiding van deze bestaande trajecten opvoert zal moeten aantonen dat deze post bijdraagt aan het behalen van nieuwe of hogere prestaties ten opzichte van de huidige situatie. Voorbeeld 3: een instelling die vervangende trajecten aanbiedt, kan alleen de additionele kosten ten opzichte van de reguliere situatie opvoeren. 
 
 ####Doelmatigheid (efficiëntie)
 
-Voorbeeld 1: een instelling die meerdere vergelijkbare trajecten gaat opzetten en geen rekening houdt met inverdieneffecten ten aanzien van bijvoorbeeld ontwikkelkosten (vijf vergelijkbare trajecten tegelijkertijd ontwikkelen zou goedkoper moeten kunnen zijn dan ze vijf keer volledig los van elkaar te ontwikkelen), zal onvoldoende scoren op doelmatigheid. Voorbeeld 2: een instelling die hoge kosten opvoert voor coördinatie en andere vormen van overhead, zal onvoldoende scoren op doelmatigheid.  
+Voorbeeld 1: een instelling die meerdere vergelijkbare trajecten gaat opzetten en geen rekening houdt met inverdieneffecten ten aanzien van bijvoorbeeld ontwikkelkosten (vijf vergelijkbare trajecten tegelijkertijd ontwikkelen zou goedkoper moeten kunnen zijn dan ze vijf keer volledig los van elkaar te ontwikkelen), zal onvoldoende scoren op doelmatigheid. Voorbeeld 2: een instelling die hoge kosten opvoert voor coördinatie en andere vormen van overhead, zal onvoldoende scoren op doelmatigheid. 
 
 ####Proportionaliteit
 
-Eén van de doelstellingen van het Sirius Programma is om een zekere massa te behalen (de 5%-norm is hierop gericht). Daarom is het van belang dat de subsidieaanvraag proportioneel is. Naast het gevraagde bedrag per student zal hiervoor ook gekeken worden naar de totale toegevoegde waarde van het project. Voorbeeld 1: een instelling die op een zeer hoog subsidiebedrag per student uitkomt (bijvoorbeeld door forse investeringen in infrastructuur of een zeer individuele begeleiding), zal een zeer grote toegevoegde waarde moeten hebben blijkend uit de prestaties, om niet slecht te scoren op proportionaliteit. Het zal dan dus om iets zeer ambitieus moeten gaan. Voorbeeld 2: een instelling die de voorfinanciering van een nieuwe opleiding opvoert als kosten, zal qua subsidiebedrag per student hoog uitkomen en dus laag scoren op proportionaliteit. Zeker in het licht van inverdieneffecten in de termijn na de subsidieperiode.  
+Eén van de doelstellingen van het Sirius Programma is om een zekere massa te behalen (de 5%-norm is hierop gericht). Daarom is het van belang dat de subsidieaanvraag proportioneel is. Naast het gevraagde bedrag per student zal hiervoor ook gekeken worden naar de totale toegevoegde waarde van het project. Voorbeeld 1: een instelling die op een zeer hoog subsidiebedrag per student uitkomt (bijvoorbeeld door forse investeringen in infrastructuur of een zeer individuele begeleiding), zal een zeer grote toegevoegde waarde moeten hebben blijkend uit de prestaties, om niet slecht te scoren op proportionaliteit. Het zal dan dus om iets zeer ambitieus moeten gaan. Voorbeeld 2: een instelling die de voorfinanciering van een nieuwe opleiding opvoert als kosten, zal qua subsidiebedrag per student hoog uitkomen en dus laag scoren op proportionaliteit. Zeker in het licht van inverdieneffecten in de termijn na de subsidieperiode. 
 
 ### Onderdeel  3:  
 
@@ -759,7 +759,7 @@ Voor beide vormen van experimenten is het van belang dat:
 
 ####Selectie
 
-Voor selectie geldt daarnaast ook dat er een heldere relatie moet zijn tussen de additionele eisen die aan de student worden gesteld, en de vorm+inhoud en de te behalen prestaties. Wanneer de prestaties zich voornamelijk richten op beter onderzoekers (verkorte PHD’s, meer Veni-beurzen onder alumni etc), maar er geselecteerd wordt op eigen bedrijfjes als nevenactiviteit, dan is die relatie niet aannemelijk. Hetzelfde geldt wanneer er gekozen wordt voor een volledig Duitstalige opleiding en er geselecteerd wordt op Engelse kennis en vaardigheden. Daarnaast moet helder zijn waarom het niet mogelijk is om te selecteren na de poort in plaats van aan de poort. Bij selectie *na* de poort kan er geselecteerd worden op de in de master behaalde resultaten. In de regel heeft selectie *na* de poort daarom een betere voorspellende waarde dan selectie *aan* de poort. Er moeten dus goede redenen zijn om toch *aan* de poort te selecteren, en bovendien moet het aannemelijk zijn dat er gelet op het profiel van de opleiding en de te hanteren criteria, voldoende voorspellende waarde is van selectie *aan* de poort.  
+Voor selectie geldt daarnaast ook dat er een heldere relatie moet zijn tussen de additionele eisen die aan de student worden gesteld, en de vorm+inhoud en de te behalen prestaties. Wanneer de prestaties zich voornamelijk richten op beter onderzoekers (verkorte PHD’s, meer Veni-beurzen onder alumni etc), maar er geselecteerd wordt op eigen bedrijfjes als nevenactiviteit, dan is die relatie niet aannemelijk. Hetzelfde geldt wanneer er gekozen wordt voor een volledig Duitstalige opleiding en er geselecteerd wordt op Engelse kennis en vaardigheden. Daarnaast moet helder zijn waarom het niet mogelijk is om te selecteren na de poort in plaats van aan de poort. Bij selectie *na* de poort kan er geselecteerd worden op de in de master behaalde resultaten. In de regel heeft selectie *na* de poort daarom een betere voorspellende waarde dan selectie *aan* de poort. Er moeten dus goede redenen zijn om toch *aan* de poort te selecteren, en bovendien moet het aannemelijk zijn dat er gelet op het profiel van de opleiding en de te hanteren criteria, voldoende voorspellende waarde is van selectie *aan* de poort. 
 
 ####Collegegeldverhoging
 
@@ -793,13 +793,13 @@ c. De aanvragen worden beoordeeld op de hierna vermelde technische vereisten en 
 
 d. De Stichting stuurt uiterlijk half november 2010 per experimenteeraanvraag een advies naar de minister.  
 
-e. De minister beschikt uiterlijk eind november 2010.    
+e. De minister beschikt uiterlijk eind november 2010.   
 
 ####Technische vereisten
 
 De aanvragers dienen per oorspronkelijke bacheloraanvraag maximaal één document in met daarin: 
 
-* De *opleiding dan wel opleidingen* waarvoor het experiment geldt en *de wijze waarop voldaan zal worden aan de vereisten*, genoemd in het voor de aanvraag geldende artikel van het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md). De aanvrager dient de argumentatie per experimenteeraanvraag aan te leveren.    
+* De *opleiding dan wel opleidingen* waarvoor het experiment geldt en *de wijze waarop voldaan zal worden aan de vereisten*, genoemd in het voor de aanvraag geldende artikel van het [Besluit experiment excellentie in het hoger onderwijs](../../../../../../AMvB/besluit/experiment/excellentie/in/het/hoger/onderwijs/BWBR0027601/README.md). De aanvrager dient de argumentatie per experimenteeraanvraag aan te leveren.   
 
 ####Beoordelingskader
 
@@ -819,7 +819,7 @@ ad a) de aanvrager moet aannemelijk maken dat toepassing van de toelatingseisen 
 
 ad b) de aanvrager moet aannemelijk maken dat de opzet en inhoud van de opleiding substantieel verschillen van de reguliere opzet en inhoud én dat de additionele eisen die aan de studenten worden gesteld voorwaardelijk zijn voor een succesvolle deelname gezien de afwijkende opzet en inhoud;  
 
-ad c) de aanvrager moet aannemelijk maken dat niet mogelijk is de beschreven prestaties te behalen wanneer de selectie van studenten plaatsvindt na binnenkomst. Oftewel, dat het niet mogelijk is de toegevoegde waarde van de opleiding te behalen wanneer de selectie op een later tijdstip plaatsvindt.    
+ad c) de aanvrager moet aannemelijk maken dat niet mogelijk is de beschreven prestaties te behalen wanneer de selectie van studenten plaatsvindt na binnenkomst. Oftewel, dat het niet mogelijk is de toegevoegde waarde van de opleiding te behalen wanneer de selectie op een later tijdstip plaatsvindt.   
 
 ####Toelichting
 
@@ -839,5 +839,5 @@ Het is van belang dat het experiment:
 
 – Er een heldere relatie is tussen de additionele eisen die aan de student worden gesteld en de vorm en inhoud van de opleiding.  
 
-– Daarnaast moet helder zijn waarom het niet mogelijk is om te selecteren na de poort in plaats van aan de poort. Bij selectie *na* de poort kan er geselecteerd worden op de in het hoger onderwijs behaalde resultaten. In de regel heeft selectie *na* de poort daarom een betere voorspellende waarde dan selectie *aan* de poort. Er moeten dus goede redenen zijn om toch *aan* de poort te selecteren, en bovendien moet het aannemelijk zijn dat er gelet op het profiel van de opleiding en de te hanteren criteria, voldoende voorspellende waarde is van selectie *aan* de poort.    
+– Daarnaast moet helder zijn waarom het niet mogelijk is om te selecteren na de poort in plaats van aan de poort. Bij selectie *na* de poort kan er geselecteerd worden op de in het hoger onderwijs behaalde resultaten. In de regel heeft selectie *na* de poort daarom een betere voorspellende waarde dan selectie *aan* de poort. Er moeten dus goede redenen zijn om toch *aan* de poort te selecteren, en bovendien moet het aannemelijk zijn dat er gelet op het profiel van de opleiding en de te hanteren criteria, voldoende voorspellende waarde is van selectie *aan* de poort.   
 

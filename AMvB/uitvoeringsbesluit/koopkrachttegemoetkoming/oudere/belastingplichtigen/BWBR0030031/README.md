@@ -17,46 +17,46 @@ Hebben goedgevonden en verstaan:
 
 ####Hoogte van de tegemoetkoming
 
-1.  De tegemoetkoming, bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md), bedraagt € 28,14 per kalendermaand.   
+1.  De tegemoetkoming, bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md), bedraagt € 25,12 per kalendermaand.   
 2.  Dit bedrag wordt jaarlijks aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister mededeling gedaan in de Staatscourant.   
+3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister mededeling gedaan in de Staatscourant.  
 
 ### Artikel  2  
 
 ####Vaststelling tegemoetkoming bij bereiken gerechtigde leeftijd of migratie
 
 1.  Met betrekking tot de periode in het kalenderjaar nadat een persoon de leeftijd heeft bereikt waarop recht kan ontstaan op de ouderenkorting of in een ander land is gaan wonen wordt voor de vaststelling of ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen zal zijn onderworpen het erop volgende kalenderjaar in aanmerking genomen.   
-2.  Met betrekking tot de periode in het kalenderjaar voordat een persoon in een ander land is gaan wonen wordt voor de vaststelling of ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen zal zijn onderworpen het voorafgaande kalenderjaar in aanmerking genomen.   
+2.  Met betrekking tot de periode in het kalenderjaar voordat een persoon in een ander land is gaan wonen wordt voor de vaststelling of ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen zal zijn onderworpen het voorafgaande kalenderjaar in aanmerking genomen.  
 
 ### Artikel  3  
 
 ####Wijziging [Besluit voorzieningen Remigratiewet](../../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md)
 
-Wijzigt het Besluit voorzieningen Remigratiewet.   
+Wijzigt het Besluit voorzieningen Remigratiewet. 
 
 ### Artikel  4  
 
 ####Wijziging van het [Uitvoeringsbesluit loonbelasting 1965](../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)
 
-Wijzigt het Uitvoeringsbesluit loonbelasting 1965.   
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965. 
 
 ### Artikel  5  
 
 ####Wijziging van het [Maatregelenbesluit socialezekerheidswetten](../../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md)
 
-Wijzigt het Maatregelenbesluit socialezekerheidswetten.   
+Wijzigt het Maatregelenbesluit socialezekerheidswetten. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md) in werking treedt. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit koopkrachttegemoetkoming oudere belastingplichtigen.  
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit koopkrachttegemoetkoming oudere belastingplichtigen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
