@@ -40,8 +40,8 @@ k. een mededeling dat al dan niet kan worden deelgenomen aan een systeem van rui
 
 l. gegevens omtrent het recht tot ontbinding overeenkomstig artikel 48c, eerste en tweede lid, van Boek 7 van het Burgerlijk Wetboek BES, de naam en de woonplaats van de persoon tot wie de in artikel 48c, tweede lid, van Boek 7 van het Burgerlijk Wetboek BES bedoelde verklaring moet worden gericht, alsmede, voor zover van toepassing, gegevens omtrent de ontbinding krachtens artikel 48e, eerste lid, van Boek 7 van het Burgerlijk Wetboek BES dan wel omtrent het recht tot ontbinding overeenkomstig artikel 48e, tweede lid, van Boek 7 van het Burgerlijk Wetboek BES en de naam en de woonplaats van de persoon tot wie de in de artikelen 48e, tweede lid, in verbinding met 48c, tweede lid, van Boek 7 van het Burgerlijk Wetboek BES bedoelde verklaring moet worden gericht;  
 
-m. datum en plaats van de ondertekening van de akte door elk van de partijen.    
+m. datum en plaats van de ondertekening van de akte door elk van de partijen.   
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Gegevensbesluit rechten van gebruik in deeltijd van onroerende zaken BES.  
+Dit besluit wordt aangehaald als: Gegevensbesluit rechten van gebruik in deeltijd van onroerende zaken BES. 

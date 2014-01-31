@@ -14,11 +14,11 @@ c. reis- en verblijfskosten van een partij;
 
 d. verletkosten van een partij; en  
 
-e. kosten van uitreksels uit openbare registers, interinsulaire en internationale telefaxen, interinsulaire en internationale telefoongesprekken alsmede telegrammen.    
+e. kosten van uitreksels uit openbare registers, interinsulaire en internationale telefaxen, interinsulaire en internationale telefoongesprekken alsmede telegrammen.   
 
 ### Artikel  1a  
 
-Dit besluit berust op artikel 50, negende lid, en 58, vierde lid, van de Wet administratieve rechtspraak BES.  
+Dit besluit berust op artikel 50, negende lid, en 58, vierde lid, van de Wet administratieve rechtspraak BES. 
 
 ### Artikel  2  
 
@@ -34,26 +34,26 @@ d. ten aanzien van de kosten bedoeld in artikel 1, sub d: overeenkomstig een tar
 
 e. ten aanzien van de kosten, bedoeld in artikel 1, sub e: de werkelijke kosten.     
 2.  Indien een partij gedeeltelijk in het gelijk is gesteld, of indien het beroep is ingetrokken omdat gedeeltelijk aan die partij is tegemoetgekomen, kan het op grond van het eerste lid, sub a tot en met e, vastgestelde bedrag worden verminderd.   
-3.  In bijzondere omstandigheden kan van het eerste lid, sub a tot en met e, worden afgeweken.   
+3.  In bijzondere omstandigheden kan van het eerste lid, sub a tot en met e, worden afgeweken.  
 
 ### Artikel  3  
 
 1.  Samenhangende zaken worden voor de toepassing van artikel 2, sub a, beschouwd als één zaak.   
-2.  Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door één of meer belanghebbenden tegen nagenoeg identieke beschikkingen op vergelijkbare gronden ingediende bezwaarschriften dan wel beroepen, waarin rechtsbijstand als bedoeld in artikel 1, sub a, is verleend door één of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.   
+2.  Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door één of meer belanghebbenden tegen nagenoeg identieke beschikkingen op vergelijkbare gronden ingediende bezwaarschriften dan wel beroepen, waarin rechtsbijstand als bedoeld in artikel 1, sub a, is verleend door één of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.  
 
 ### Artikel  4  
 
-De in dit besluit en in de bijlage, bedoeld in artikel 2, eerste lid, onderdeel a, genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd voor zover het prijsindexcijfer voor gezinsconsumptie daartoe aanleiding geeft.  
+De in dit besluit en in de bijlage, bedoeld in artikel 2, eerste lid, onderdeel a, genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd voor zover het prijsindexcijfer voor gezinsconsumptie daartoe aanleiding geeft. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit proceskosten bestuursrecht BES.  
+Dit besluit wordt aangehaald als: Besluit proceskosten bestuursrecht BES. 
 
 ### Artikel  6  
 
-[vervallen]  
+[vervallen] 
 
-### Bijlage  
+###Bijlage 
 
 ####behorende bij het Besluit proceskosten bestuursrecht BES.
 
@@ -61,59 +61,59 @@ Dit besluit wordt aangehaald als: Besluit proceskosten bestuursrecht BES.
 
 Het bedrag van de kosten, bedoeld in artikel 1, sub a, van het Besluit proceskosten bestuursrecht BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactor (C). 
 
-### A  
+###A 
 
-####Punten per proceshandeling in het kader van procedures waarop de Hoofdstukken 2, 3, 5 en 6 van de Wet administratieve rechtspraak BES van toepassing of van overeenkomstige toepassing zijn.
+####Punten per proceshandeling in het kader van procedures waarop de [Hoofdstukken 2](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), [3](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), [5](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [6 van de Wet administratieve rechtspraak BES](../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) van toepassing of van overeenkomstige toepassing zijn.
 
-| Beroep en hoger beroep.  | Punten  |
+|Beroep en hoger beroep. |Punten |
 |:---|:---|
-| 1. Beroepschrift/verweerschrift (artikelen 15, lid 1, 23, lid 3, en 76)  | 1  |
-| 2. Repliek/dupliek (artikel 27, lid 1)/schriftelijke uiteenzetting (artikel 26, lid 2)  | 0,5  |
-| 3. Verschijnen ter (inlichtingen)comparitie (artikel 37, lid 1)  | 0,5  |
-| 4. Schriftelijke inlichtingen (artikel 29, lid 1)  | 0,5  |
-| 5. Bijwonen verhoor getuigen/deskundigen (artikel 30, lid 5)  | 0,5  |
-| 6. Schriftelijke zienswijze na verslag deskundigenonderzoek (artikel 29, lid 2)  | 0,5  |
-| 7. Bijwonen onderzoek ter plaatse (artikel 30, lid 5)  | 0,5  |
-| 8. Verschijnen ter zitting (artikel 33)  | 1  |
-| 9. Nadere zitting/voortgezette behandeling (artikel 48)  | 0,5  |
+|1. Beroepschrift/verweerschrift (artikelen 15, lid 1, 23, lid 3, en 76) |1 |
+|2. Repliek/dupliek (artikel 27, lid 1)/schriftelijke uiteenzetting (artikel 26, lid 2) |0,5 |
+|3. Verschijnen ter (inlichtingen)comparitie (artikel 37, lid 1) |0,5 |
+|4. Schriftelijke inlichtingen (artikel 29, lid 1) |0,5 |
+|5. Bijwonen verhoor getuigen/deskundigen (artikel 30, lid 5) |0,5 |
+|6. Schriftelijke zienswijze na verslag deskundigenonderzoek (artikel 29, lid 2) |0,5 |
+|7. Bijwonen onderzoek ter plaatse (artikel 30, lid 5) |0,5 |
+|8. Verschijnen ter zitting (artikel 33) |1 |
+|9. Nadere zitting/voortgezette behandeling (artikel 48) |0,5 |
 | --- | --- |
-| Verzet.  | --- |
-| 10. Verzoekschrift (artikelen 80, lid 1, en 95, lid 2)  | 0,5  |
-| 11. Verschijnen ter zitting (artikelen 80, lid 2 en 95, lid 2)  | 0,5  |
+|Verzet. | --- |
+|10. Verzoekschrift (artikelen 80, lid 1, en 95, lid 2) |0,5 |
+|11. Verschijnen ter zitting (artikelen 80, lid 2 en 95, lid 2) |0,5 |
 | --- | --- |
-| Voorlopige voorziening.  | --- |
-| 12. Verzoekschrift (artikelen 81, lid 1, en 84)  | 1  |
-| 13. Verschijnen ter zitting (artikelen 82, lid 1, en 84)  | 1  |
+|Voorlopige voorziening. | --- |
+|12. Verzoekschrift (artikelen 81, lid 1, en 84) |1 |
+|13. Verschijnen ter zitting (artikelen 82, lid 1, en 84) |1 |
 | --- | --- |
-| Herziening.  | --- |
-| 14. Verzoekschrift (artikel 96)  | 1  |
+|Herziening. | --- |
+|14. Verzoekschrift (artikel 96) |1 |
 | --- | --- |
-| Bestuurlijke heroverweging, voor zover van toepassing.  | --- |
-| 15. Bezwaarschrift/schriftelijk commentaar (artikelen 55 en 62)  | 1  |
-| 16. Schriftelijke inlichtingen (artikel 61, lid 3)  | 0,5  |
-| 17. Verschijnen ter hoorzitting (artikel 64)  | 1  |
-| 18. Nadere hoorzitting (artikel 65)  | 0,5  |
+|Bestuurlijke heroverweging, voor zover van toepassing. | --- |
+|15. Bezwaarschrift/schriftelijk commentaar (artikelen 55 en 62) |1 |
+|16. Schriftelijke inlichtingen (artikel 61, lid 3) |0,5 |
+|17. Verschijnen ter hoorzitting (artikel 64) |1 |
+|18. Nadere hoorzitting (artikel 65) |0,5 |
 
-### B  
+###B 
 
 ####Waarde per punt.
 
-1 punt = USD 391.  
+1 punt = USD 391.
 
-### C  
+###C 
 
 ####Gewicht van een zaak.
 
-| C1. De zaak als zodanig.  | Factor  |
+|C1. De zaak als zodanig. |Factor |
 |:---|:---|
-| Zeer licht  | 0,25  |
-| Licht  | 0,5  |
-| Gemiddeld  | 1  |
-| Zwaar  | 1,5  |
-| Zeer zwaar  | 2  |
+|Zeer licht |0,25 |
+|Licht |0,5 |
+|Gemiddeld |1 |
+|Zwaar |1,5 |
+|Zeer zwaar |2 |
 
-| C2. Samenhangende zaken.  | Factor  |
+|C2. Samenhangende zaken. |Factor |
 |:---|:---|
-| Minder dan 4  | 1  |
-| 4 of meer  | 1,5  |
+|Minder dan 4 |1 |
+|4 of meer |1,5 |
 

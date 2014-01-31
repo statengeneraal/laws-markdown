@@ -17,14 +17,14 @@ Hebben goedgevonden en verstaan:
 
 | --- | --- |
 |:---|:---|
-| In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  |
+|  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:   |
 | a. wet:  | [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  |
-| b. certificatiediensten:  | het afgeven, beheren en intrekken van gekwalificeerde certificaten door certificatiedienstverleners, alsmede andere diensten die samenhangen met het gebruik van elektronische handtekeningen;  |
+| b. certificatiediensten:  | het afgeven, beheren en intrekken van gekwalificeerde certificaten door certificatiedienstverleners, alsmede andere diensten die samenhangen met het gebruik van elektronische handtekeningen;   |
 | c. sleutelbeheerdiensten:  | het genereren, opslaan, verstrekken of vernietigen van cryptografisch sleutelmateriaal dat gebruikt wordt voor het aanmaken of het verifiëren van elektronische handtekeningen.  |
 
 ### Artikel  2  
 
-1.  Een certificatiedienstverlener als bedoeld in [artikel 18.15, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet aan de volgende eisen: 
+1.  Een certificatiedienstverlener als bedoeld in [artikel 18.15, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet aan de volgende eisen:  
 
 a. hij beschikt over betrouwbare middelen en hanteert betrouwbare procedures voor het aanbieden van certificatiediensten aan het publiek;  
 
@@ -90,11 +90,25 @@ r. hij stelt schriftelijk, met behulp van een duurzaam communicatiemiddel en uit
 
 3°. de procedure voor intrekking van het gekwalificeerde certificaat zowel op verzoek van de gebruiker als door hem zelf, en  
 
-4°. de procedures voor klachtenbehandeling en geschillenbeslechting, en    
+4°. de procedures voor klachtenbehandeling en geschillenbeslechting;    
 
-s. hij toont door middel van een verklaring van een daartoe bevoegde instantie aan dat hij, ieder van de bestuurders van de onderneming, en de medewerkers die binnen zijn onderneming in het kader van het verlenen van certificatiediensten verantwoordelijk zijn voor de verwerking van vertrouwelijke of gevoelige gegevens, niet binnen de laatste vier jaar wegens een misdrijf onherroepelijk zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een rechter in Nederland, de Nederlandse Antillen of Aruba.     
+s. hij toont door middel van een verklaring van een daartoe bevoegde instantie aan dat hij, ieder van de bestuurders van de onderneming, en de medewerkers die binnen zijn onderneming in het kader van het verlenen van certificatiediensten verantwoordelijk zijn voor de verwerking van vertrouwelijke of gevoelige gegevens, niet binnen de laatste vier jaar wegens een misdrijf onherroepelijk zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een rechter in Nederland, de Nederlandse Antillen of Aruba, en  
+
+t. hij zorgt onverwijld na iedere veiligheidsinbreuk die of ieder integriteitsverlies dat aanzienlijke gevolgen heeft of kan hebben voor de betrouwbaarheid van door hem aangeboden of afgegeven gekwalificeerde certificaten voor een melding van die inbreuk of dat verlies aan de Autoriteit Consument en Markt, bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md), en aan Onze Minister van Veiligheid en Justitie, met een kennisgeving aan beiden van: 
+
+1°. de aard en omvang van de inbreuk of het verlies;  
+
+2°. het vermoedelijke tijdstip van de aanvang van de inbreuk of het verlies;  
+
+3°. de mogelijke gevolgen van de inbreuk of het verlies;  
+
+4°. een prognose van de tijd nodig om de inbreuk te onderzoeken;  
+
+5°. zo mogelijk de door de certificatiedienstverlener genomen of te nemen maatregelen om de gevolgen van de inbreuk of het verlies te beperken of herhaling hiervan te voorkomen;  
+
+6°. de contactgegevens van de in Nederland gevestigde functionaris die verantwoordelijk is voor het doen van de kennisgeving.      
 2.  Met een veroordeling als bedoeld in het eerste lid, onderdeel s, wordt gelijkgesteld een onherroepelijke veroordeling tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een andere rechter wegens een misdrijf waarvoor naar Nederlands recht een bevel tot voorlopige hechtenis ingevolge [artikel 67, eerste lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is toegelaten;   
-3.  Met een veroordeling tot een onvoorwaardelijke vrijheidsstraf als bedoeld in het tweede lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige onvoorwaardelijke vrijheidsstraf.   
+3.  Met een veroordeling tot een onvoorwaardelijke vrijheidsstraf als bedoeld in het tweede lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige onvoorwaardelijke vrijheidsstraf.  
 
 ### Artikel  3  
 
@@ -118,82 +132,82 @@ h. de elektronische handtekening van de afgevende certificatiedienstverlener die
 
 i. eventuele beperkingen betreffende het gebruik van het gekwalificeerde certificaat, en  
 
-j. eventuele grenzen met betrekking tot de waarde van de transacties waarvoor het gekwalificeerde certificaat kan worden gebruikt.    
+j. eventuele grenzen met betrekking tot de waarde van de transacties waarvoor het gekwalificeerde certificaat kan worden gebruikt.   
 
-### Artikel  3a  
+###Artikel 3a 
 
-1.  Een organisatie die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.16 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dient daartoe een aanvraag in en voldoet aan de volgende eisen: 
+1. Een organisatie die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.16 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dient daartoe een aanvraag in en voldoet aan de volgende eisen:
 
-a. de organisatie heeft voldoende gekwalificeerd personeel in dienst dat als auditor kan worden ingezet om een conformiteitsbeoordeling uit te voeren van een certificatiedienstverlener;  
+a.de organisatie heeft voldoende gekwalificeerd personeel in dienst dat als auditor kan worden ingezet om een conformiteitsbeoordeling uit te voeren van een certificatiedienstverlener;
 
-b. de reglementen van de organisatie bieden voldoende waarborgen dat een overeenkomstig deze reglementen door de aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan [artikel 18.15, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en dat de door een zodanige certificatiedienstverlener aan het publiek aangeboden of afgegeven gekwalificeerde certificaten voldoen aan [artikel 18.15, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+b.de reglementen van de organisatie bieden voldoende waarborgen dat een overeenkomstig deze reglementen door de aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan [artikel 18.15, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en dat de door een zodanige certificatiedienstverlener aan het publiek aangeboden of afgegeven gekwalificeerde certificaten voldoen aan [artikel 18.15, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
 
-c. de organisatie hanteert voorwaarden die objectief, transparant, evenredig en niet-discriminerend zijn;  
+c.de organisatie hanteert voorwaarden die objectief, transparant, evenredig en niet-discriminerend zijn;
 
-d. de organisatie is geaccrediteerd op basis van de norm EN 45011 of EN 45012 of een gelijkwaardige norm, welke accreditatie het vakgebied «gekwalificeerde certificaten’ dient te omvatten, door een instantie die aantoonbaar voldoet aan de norm EN 45010 of een gelijkwaardige norm.     
-2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als organisatie als bedoeld in [artikel 18.16 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) wordt ingediend, de informatie die daarbij wordt overgelegd, en het verlenen van medewerking terzake van een ingediende aanvraag.   
-3.  Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking kunnen hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen organisatie afgegeven bewijzen van toetsing bedoeld in [artikel 18.16, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsmede omtrent de medewerking die door een aangewezen organisatie wordt verleend met het oog op het voldoen door die organisatie aan de aan haar gestelde eisen.   
+d. de organisatie is geaccrediteerd op basis van de norm NEN-EN 45011: 1998, norm NEN-EN-ISO/IEC 17065:2012 of ISO 17021:2011 of een gelijkwaardige norm, welke accreditatie het vakgebied «gekwalificeerde certificaten» dient te omvatten, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008.  
+2. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als organisatie als bedoeld in [artikel 18.16 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) wordt ingediend, de informatie die daarbij wordt overgelegd, en het verlenen van medewerking terzake van een ingediende aanvraag. 
+3. Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking kunnen hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie. 
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen organisatie afgegeven bewijzen van toetsing bedoeld in [artikel 18.16, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsmede omtrent de medewerking die door een aangewezen organisatie wordt verleend met het oog op het voldoen door die organisatie aan de aan haar gestelde eisen.
 
-### Artikel  3b  
+### Artikel 3b 
 
-1.  Het personeel dat door de organisatie als auditor wordt ingezet om een conformiteitsbeoordeling uit te voeren van een certificatiedienstverlener: 
+1. Het personeel dat door de organisatie als auditor wordt ingezet om een conformiteitsbeoordeling uit te voeren van een certificatiedienstverlener:
 
-a. heeft een opleiding op minimaal HBO-niveau dan wel een daaraan gelijkwaardige aanmerkelijke ervaring en aanvullende beroepsopleiding en -training;  
+a.heeft een opleiding op minimaal HBO-niveau dan wel een daaraan gelijkwaardige aanmerkelijke ervaring en aanvullende beroepsopleiding en -training;
 
-b. beschikt over een equivalent van ten minste vier jaar voltijds praktijkervaring met betrekking tot informatietechnologie, waarvan tenminste twee jaar in een functie met betrekking tot Public Key Infrastructure en informatiebeveiliging;  
+b.beschikt over een equivalent van ten minste vier jaar voltijds praktijkervaring met betrekking tot informatietechnologie, waarvan tenminste twee jaar in een functie met betrekking tot Public Key Infrastructure en informatiebeveiliging;
 
-c. heeft voldoende begrip van de technische specificatie ETSI TS 101 456 of een daarmee gelijkwaardige technische specificatie;  
+c.heeft voldoende begrip van de technische specificatie ETSI TS 319 411-2 of een daarmee gelijkwaardige technische specificatie;
 
-d. heeft voldoende begrip van de concepten van managementsystemen in het algemeen;  
+d.heeft voldoende begrip van de concepten van managementsystemen in het algemeen;
 
-e. heeft voldoende begrip van onderwerpen die zijn gerelateerd aan Public Key Infrastructure, management van informatiebeveiliging en organisatorische betrouwbaarheid;  
+e.heeft voldoende begrip van onderwerpen die zijn gerelateerd aan Public Key Infrastructure, management van informatiebeveiliging en organisatorische betrouwbaarheid;
 
-f. heeft voldoende kennis van de principes en processen gerelateerd aan risicobeoordeling en risicomanagement;  
+f.heeft voldoende kennis van de principes en processen gerelateerd aan risicobeoordeling en risicomanagement;
 
-g. heeft een training van ten minste 5 dagen afgerond over het beoordelen van managementsystemen en het management van beoordelingsprocessen;  
+g.heeft een training van ten minste 5 dagen afgerond over het beoordelen van managementsystemen en het management van beoordelingsprocessen;
 
-h. beschikt over de volgende persoonlijke eigenschappen: integer, onbevooroordeeld, volwassen houding, onderscheidingsvermogen, analytisch, vasthoudend en realistisch;  
+h.beschikt over de volgende persoonlijke eigenschappen: integer, onbevooroordeeld, volwassen houding, onderscheidingsvermogen, analytisch, vasthoudend en realistisch;
 
-i. kan complexe operaties in een breed perspectief plaatsen en de rol van individuele eenheden in grote organisaties begrijpen;  
+i.kan complexe operaties in een breed perspectief plaatsen en de rol van individuele eenheden in grote organisaties begrijpen;
 
-j. heeft kennis en eigenschappen om beoordelingsprocessen te managen;  
+j.heeft kennis en eigenschappen om beoordelingsprocessen te managen;
 
-k. zorgt ervoor dat de eigen kennis en vaardigheden op het gebied van Public Key Infrastructure, management van informatiebeveiliging en beoordeling van managementsystemen voortdurend op peil worden gehouden;  
+k.zorgt ervoor dat de eigen kennis en vaardigheden op het gebied van Public Key Infrastructure, management van informatiebeveiliging en beoordeling van managementsystemen voortdurend op peil worden gehouden;
 
-l. heeft voorafgaand aan zelfstandig optreden als auditor ervaring opgedaan in het hele proces van beoordeling van certificatiedienstverleners, welke ervaring is verkregen door onder supervisie van een ervaren auditor deel te nemen aan minimaal vier beoordelingen bestaande uit totaal ten minste 20 dagen, hierbij inbegrepen toetsing van documentatie, implementatiebeoordeling en opstelling beoordelingsrapport.     
-2.  In aanvulling op de eisen, genoemd in het eerste lid, voldoet een auditor die als leider van een auditteam optreedt, aan de volgende eisen: 
+l.heeft voorafgaand aan zelfstandig optreden als auditor ervaring opgedaan in het hele proces van beoordeling van certificatiedienstverleners, welke ervaring is verkregen door onder supervisie van een ervaren auditor deel te nemen aan minimaal vier beoordelingen bestaande uit totaal ten minste 20 dagen, hierbij inbegrepen toetsing van documentatie, implementatiebeoordeling en opstelling beoordelingsrapport. 
+2. In aanvulling op de eisen, genoemd in het eerste lid, voldoet een auditor die als leider van een auditteam optreedt, aan de volgende eisen:
 
-a. hij heeft opgetreden als een gekwalificeerd auditor in ten minste drie complete beoordelingen van certificatiedienstverleners;  
+a.hij heeft opgetreden als een gekwalificeerd auditor in ten minste drie complete beoordelingen van certificatiedienstverleners;
 
-b. hij beschikt over adequate kennis en eigenschappen om het beoordelingsproces te managen;  
+b.hij beschikt over adequate kennis en eigenschappen om het beoordelingsproces te managen;
 
-c. hij kan effectief communiceren, zowel mondeling als schriftelijk.     
-3.  Een beoordelingsteam als geheel voldoet aan de volgende eisen: 
+c.hij kan effectief communiceren, zowel mondeling als schriftelijk. 
+3. Een beoordelingsteam als geheel voldoet aan de volgende eisen:
 
-a. in elk van de volgende kennisgebieden is tenminste één auditor binnen het beoordelingsteam gekwalificeerd om de verantwoordelijkheid te dragen voor: 
+a.in elk van de volgende kennisgebieden is tenminste één auditor binnen het beoordelingsteam gekwalificeerd om de verantwoordelijkheid te dragen voor:
 
-1°. de benodigde kennis van de regelgeving waaraan op het terrein van certificatiedienstverlening en informatiebeveiliging moet zijn voldaan;  
+1°.de benodigde kennis van de regelgeving waaraan op het terrein van certificatiedienstverlening en informatiebeveiliging moet zijn voldaan;
 
-2°. de benodigde kennis van de laatste stand van de techniek betreffende Public Key Infrastructure;  
+2°.de benodigde kennis van de laatste stand van de techniek betreffende Public Key Infrastructure;
 
-3°. De benodigde kennis om een aan informatiebeveiliging gerelateerde risicobeoordeling uit te voeren om kwetsbaarheden te ontwaren bij de certificatiedienstverlener, het begrijpen van hun betekenis voor de dienstverlening en het verminderen en onder controle brengen van deze kwetsbaarheden en  
+3°.De benodigde kennis om een aan informatiebeveiliging gerelateerde risicobeoordeling uit te voeren om kwetsbaarheden te ontwaren bij de certificatiedienstverlener, het begrijpen van hun betekenis voor de dienstverlening en het verminderen en onder controle brengen van deze kwetsbaarheden en
 
-4°. de benodigde kennis van kwesties van organisatorische betrouwbaarheid;    
+4°.de benodigde kennis van kwesties van organisatorische betrouwbaarheid;
 
-b. het beoordelingsteam is competent om indicaties van kwetsbaarheden in de certificatiedienstverlening terug te leiden naar de desbetreffende elementen van het managementsysteem van de certificatiedienstverlener opdat deze verbeterd kunnen worden.     
-4.  Om er voor te zorgen dat het beoordelingsteam alle noodzakelijke expertise tot zijn beschikking heeft, mogen technisch deskundigen met specifieke kennis over de onderwerpen, genoemd in het derde lid, onder a, 1° tot en met 4°, worden ingeschakeld om het beoordelingsteam te assisteren, ook al voldoen zij niet aan alle criteria voor een individuele auditor.   
-5.  De technisch deskundigen, bedoeld in het vierde lid, zijn te allen tijde verantwoording schuldig aan de leider van het auditteam en functioneren niet onafhankelijk van de auditors in het team die wel gekwalificeerd zijn als auditor.   
+b.het beoordelingsteam is competent om indicaties van kwetsbaarheden in de certificatiedienstverlening terug te leiden naar de desbetreffende elementen van het managementsysteem van de certificatiedienstverlener opdat deze verbeterd kunnen worden. 
+4. Om er voor te zorgen dat het beoordelingsteam alle noodzakelijke expertise tot zijn beschikking heeft, mogen technisch deskundigen met specifieke kennis over de onderwerpen, genoemd in het derde lid, onder a, 1° tot en met 4°, worden ingeschakeld om het beoordelingsteam te assisteren, ook al voldoen zij niet aan alle criteria voor een individuele auditor. 
+5. De technisch deskundigen, bedoeld in het vierde lid, zijn te allen tijde verantwoording schuldig aan de leider van het auditteam en functioneren niet onafhankelijk van de auditors in het team die wel gekwalificeerd zijn als auditor.
 
 ### Artikel  4  
 
-1.  Een instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dient daartoe een aanvraag in en voldoet aan de volgende eisen: 
+1. Een instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dient daartoe een aanvraag in en voldoet aan de volgende eisen:
 
-a. zij hanteert een toetsingskader dat waarborgt dat de beoordeelde veilige middelen voor het aanmaken van elektronische handtekeningen voldoen aan de wettelijke eisen;  
+a.zij hanteert een toetsingskader dat waarborgt dat de beoordeelde veilige middelen voor het aanmaken van elektronische handtekeningen voldoen aan de wettelijke eisen;
 
-b. zij is op basis van norm EN 45011 geaccrediteerd, welke accreditatie het vakgebied veilige middelen voor het aanmaken van elektronische handtekeningen omvat, door een instantie die aantoonbaar voldoet aan de norm EN 45010 of een gelijkwaardige norm;  
+b. zij is op basis van de norm NEN-EN 45011: 1998 of de norm ISO/IEC 17065:2012 geaccrediteerd, welke accreditatie het vakgebied veilige middelen voor het aanmaken van elektronische handtekeningen omvat, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008;  
 
-c. zij maakt gebruik van testlaboratoria die voldoen aan norm ISO/IEC 17025 voor het testen van veilige middelen voor het aanmaken van elektronische handtekeningen volgens norm ISO/IEC 15408.     
+c. zij maakt gebruik van testlaboratoria die voldoen aan norm NEN-EN-ISO 17025 voor het testen van veilige middelen voor het aanmaken van elektronische handtekeningen volgens de norm ISO/IEC 15408:2005.  
 2.  De instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet, onverminderd het eerste lid, aan de volgende eisen: 
 
 a. zij houdt zich niet bezig met activiteiten die een bedreiging kunnen vormen voor de onafhankelijkheid van haar oordeel en de integriteit bij de uitoefening van haar taak;  
@@ -232,9 +246,9 @@ i. zij behandelt de gegevens die haar ter kennis komen vertrouwelijk, en
 
 j. zij staat in voor de overeengekomen activiteiten van de instellingen door welke zij een deel van de overeenstemmingbeoordeling laat uitvoeren en kan aantonen dat deze instelling in staat is de betrokken dienst te verlenen.     
 3.  De instelling die deel uitmaakt van een organisatie die zich bezighoudt met andere activiteiten dan de beoordeling van de overeenstemming van veilige middelen voor het aanmaken van elektronische handtekeningen met de eisen van artikel 5, is binnen die organisatie herkenbaar als aangewezen instelling als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en scheidt haar werkzaamheden zodanig van de andere activiteiten, dat daardoor de correcte beoordeling van overeenstemming van veilige middelen is gewaarborgd.   
-4.  Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als instelling als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geschiedt, de informatie die daarbij wordt overgelegd en het verlenen van medewerking terzake van een ingediende aanvraag.   
-5.  Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie.   
-6.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen instelling afgegeven verklaringen bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsmede omtrent de medewerking die door een aangewezen instelling wordt verleend met het oog op het voldoen door die instelling aan de aan haar gestelde eisen.   
+4. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als instelling als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geschiedt, de informatie die daarbij wordt overgelegd en het verlenen van medewerking terzake van een ingediende aanvraag. 
+5. Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie. 
+6. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen instelling afgegeven verklaringen bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsmede omtrent de medewerking die door een aangewezen instelling wordt verleend met het oog op het voldoen door die instelling aan de aan haar gestelde eisen.
 
 ### Artikel  5  
 
@@ -246,23 +260,23 @@ b. het waarborgt met redelijke zekerheid dat de gegevens voor het aanmaken van e
 
 c. het waarborgt dat de gegevens voor het aanmaken van elektronische handtekeningen door de legitieme ondertekenaar op betrouwbare wijze kunnen worden beschermd tegen gebruik door anderen;  
 
-d. het laat de te ondertekenen gegevens ongewijzigd en belet niet dat die gegevens vóór de ondertekening aan de ondertekenaar worden voorgelegd.    
+d. het laat de te ondertekenen gegevens ongewijzigd en belet niet dat die gegevens vóór de ondertekening aan de ondertekenaar worden voorgelegd.   
 
 ### Artikel  6  
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen genoemd in dit besluit.  
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen genoemd in dit besluit. 
 
 ### Artikel  7  
 
-Wijzigt het Besluit vergoedingen Telecommunicatiewet.   
+Wijzigt het Besluit vergoedingen Telecommunicatiewet.  
 
 ### Artikel  8  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet elektronische handtekeningen](../../../../../wet/wet/elektronische/handtekeningen/BWBR0015046/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet elektronische handtekeningen](../../../../../wet/wet/elektronische/handtekeningen/BWBR0015046/README.md) in werking treedt. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit elektronische handtekeningen.  
+Dit besluit wordt aangehaald als: Besluit elektronische handtekeningen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -276,4 +290,4 @@ J. G. Wijn
 de twintigste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
