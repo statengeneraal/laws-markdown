@@ -319,7 +319,7 @@ b. de veiligheid voor de consument.
 ####Weigeringsgrond residuen
 
 1.  Een vergunning als bedoeld in artikel 2.1, eerste lid, voor een diergeneesmiddel met het oog op toepassing bij een of meer voor de productie van levensmiddelen bestemde diersoorten wordt slechts verstrekt, indien de farmacologisch werkzame stoffen van dat middel bij een krachtens Verordening (EG) nr. 470/2009 genomen EU-rechtshandeling zijn toegelaten.   
-2.  Bij de toepassing van het eerste lid geldt dat een aanvraag voor een diergeneesmiddel dat in de handel wordt gebracht voor een of meer voor de productie van levensmiddelen bestemde diersoorten en een of meer farmacologisch werkzame stoffen bevat, die niet krachtens de in het eerste lid bedoelde EU-rechtshandeling zijn toegelaten, niet eerder wordt ingediend dan 6 maanden nadat een geldige aanvraag voor de vaststelling van maximumwaarden voor residuen volgens de bepalingen van Verordening (EG) nr. 470/2009 is gedaan.   
+2.  Bij de toepassing van het eerste lid geldt dat een aanvraag voor een diergeneesmiddel dat in de handel wordt gebracht voor een of meer voor de productie van levensmiddelen bestemde diersoorten en een of meer farmacologisch werkzame stoffen bevat, die niet krachtens de in het eerste lid bedoelde EU-rechtshandeling zijn toegelaten, niet eerder wordt ingediend dan zes maanden nadat een geldige aanvraag voor de vaststelling van maximumwaarden voor residuen volgens de bepalingen van Verordening (EG) nr. 470/2009 is gedaan.   
 
 ### Artikel  2.11  
 
@@ -484,7 +484,7 @@ b. iedere andere aanvraag tot wijziging met uitzondering van:
 
 ####Schorsing vergunning en ambtshalve wijziging voorschriften
 
-1.  Onze Minister kan om te komen tot een beperking van indicaties of beschikbaarheid, wijziging van dosering of toevoeging van een contra-indicatie of voorzorgsmaatregel, besluiten de voorschriften bij een vergunning ambtshalve te wijzigen of de vergunning, bedoeld in artikel 2.12, eerste lid, te schorsen, indien hij een ernstig vermoeden heeft dat de voorschriften, bedoeld in de artikelen 2.13 of 2.14, niet worden nageleefd, het diergeneesmiddel niet voldoet aan [artikel 2.19, tweede en derde lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) of hiervan is gebleken na de ontvangst van informatie als bedoeld in artikel 6.1, eerste lid. Het Bureau, de andere lidstaten en de houder van de vergunning worden onmiddellijk in kennis gesteld.   
+1.  Onze Minister kan om te komen tot een beperking van indicaties of beschikbaarheid, wijziging van dosering of toevoeging van een contra-indicatie of voorzorgsmaatregel, de voorschriften bij een vergunning ambtshalve wijzigen of de vergunning, bedoeld in artikel 2.12, eerste lid, schorsen, indien hij een ernstig vermoeden heeft dat de voorschriften, bedoeld in de artikelen 2.13 of 2.14, niet worden nageleefd, het diergeneesmiddel niet voldoet aan [artikel 2.19, tweede en derde lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) of hiervan is gebleken na de ontvangst van informatie als bedoeld in artikel 6.1, eerste lid. Het Bureau, de andere lidstaten en de houder van de vergunning worden onmiddellijk in kennis gesteld.   
 2.  De vergunning wordt niet geschorst of gewijzigd dan nadat: 
 
 a. een verzoek van de Europese Commissie tot het nemen van tijdelijke maatregelen is ontvangen, of  
@@ -628,7 +628,7 @@ b. de preklinische en klinische proeven.
 
 1.  Een aanvraag van een vergunning voor het in de handel brengen als bedoeld in artikel 2.1, eerste lid, voor een generiek diergeneesmiddel kan worden ingediend, indien: 
 
-a. tenminste een periode van acht jaar is verstreken nadat door een EER-lidstaat of de Europese Commissie een vergunning voor het in de handel brengen van een referentiediergeneesmiddel overeenkomstig Richtlijn 2001/82/EG; respectievelijk overeenkomstig Verordening (EG) nr. 726/2004, is verstrekt, en  
+a. ten minste een periode van acht jaar is verstreken nadat door een EER-lidstaat of de Europese Commissie een vergunning voor het in de handel brengen van een referentiediergeneesmiddel overeenkomstig Richtlijn 2001/82/EG; respectievelijk overeenkomstig Verordening (EG) nr. 726/2004, is verstrekt, en  
 
 b. relevante studies inzake biologische beschikbaarheid worden overgelegd.     
 2.  Een aanvraag als bedoeld in het eerste lid gaat, in afwijking van artikel 2.3, eerste lid, onderdeel a, onder 2° en 3°, niet vergezeld van de resultaten van: 
@@ -652,13 +652,7 @@ c. zo nodig, andere relevante documenten.
 
 ####Aanvraag vergunning voor hybride diergeneesmiddel
 
-In afwijking van artikel 3.6, tweede lid, worden resultaten van onschadelijkheidsproeven, residuproeven, klinische proeven en preklinische proeven verstrekt, voor zover een diergeneesmiddel als hybride diergeneesmiddel: 
-
-a. niet valt onder de definitie van generiek diergeneesmiddel;  
-
-b. de biologische equivalentie niet aangetoond kan worden door een biologische-beschikbaarheidsstudie, of  
-
-c. één of meer werkzame stoffen, een therapeutische indicatie, de concentratie, de farmaceutische vorm of de wijze van toediening wordt gewijzigd ten opzichte van het referentiediergeneesmiddel.    
+In afwijking van artikel 3.6, tweede lid, worden resultaten van onschadelijkheidsproeven, residuproeven, klinische proeven en preklinische proeven verstrekt, indien een diergeneesmiddel als bedoeld in artikel 3.6, eerste lid, als hybride diergeneesmiddel niet valt onder de definitie van generiek diergeneesmiddel, indien van zodanig diergeneesmiddel de biologische equivalentie niet aangetoond kan worden door een biologische-beschikbaarheidsstudie, of van dat geneesmiddel één of meer werkzame stoffen, een therapeutische indicatie, de concentratie, de farmaceutische vorm of de wijze van toediening zijn gewijzigd ten opzichte van het referentiediergeneesmiddel.  
 
 ### Artikel  3.8  
 
@@ -680,9 +674,9 @@ c. het diergeneesmiddel om andere redenen niet aan artikel 3.6, eerste, derde en
 
 1.  Een generiek diergeneesmiddel waarvoor overeenkomstig de artikelen 3.6, 3.7 of 3.8 een vergunning is verstrekt, kan slechts in de handel worden gebracht na: 
 
-a. een termijn van 10 jaar of een met toepassing van het tweede lid van dit artikel verlengde termijn nadat de vergunning voor het in de handel brengen van het referentiediergeneesmiddel door de Europese Commissie of een EER-lidstaat is verstrekt, of  
+a. een termijn van tien jaar of een met toepassing van het tweede lid van dit artikel verlengde termijn nadat de vergunning voor het in de handel brengen van het referentiediergeneesmiddel door de Europese Commissie of een EER-lidstaat is verstrekt, of  
 
-b. een termijn van 13 jaar nadat de eerdere vergunning is verstrekt, indien de vergunning is verstrekt voor het in de handel brengen van diergeneesmiddelen met het oog op toepassing bij bijen of vissen.     
+b. een termijn van dertien jaar nadat de eerdere vergunning is verstrekt, indien de vergunning is verstrekt voor het in de handel brengen van diergeneesmiddelen met het oog op toepassing bij bijen of vissen.     
 2.  De in het eerste lid, onderdeel a, bedoelde termijn wordt verlengd met één jaar per diersoort, tot ten hoogste dertien jaar voor een vergunning voor het in de handel brengen voor vier of meer voor de productie van levensmiddelen bestemde diersoorten, indien: 
 
 a. het referentiediergeneesmiddel een werkzame stof bevat die op 30 april 2004 nog niet door de Europese Commissie of een EER-lidstaat in een diergeneesmiddel is toegelaten;  
@@ -751,7 +745,7 @@ c. identiek is aan een diergeneesmiddel waarvoor reeds in Nederland een vergunni
 d. afkomstig is van de onderneming die het in onderdeel c bedoelde diergeneesmiddel vervaardigt, een daarmee gelieerde onderneming, een onderneming die onder licentie het diergeneesmiddel vervaardigt of een onderneming die beschikt over een verklaring van toegang tot de documenten, bedoeld in artikel 2.3.     
 2.  In afwijking van het eerste lid, onderdelen c en d, en artikel 2.3, eerste en tweede lid, en onverminderd artikel 2.4, neemt Onze Minister een aanvraag als bedoeld in het eerste lid in behandeling indien de aanvraag betrekking heeft op een diergeneesmiddel dat voldoet aan het eerste lid, onderdelen a en b, en uit daartoe overlegde documenten blijkt dat in vergelijking met een in Nederland reeds in de handel gebracht diergeneesmiddel de samenstelling, wijze van toepassen en verpakking van het diergeneesmiddel geen wezenlijke verschillen vertoont in kwaliteit en werkzaamheid die van invloed kunnen zijn op de volksgezondheid, diergezondheid, dierenwelzijn of het milieu.   
 3.  De voorschriften die gelden voor het in de handel brengen van het in eerste lid, onderdeel c, bedoelde diergeneesmiddel gelden eveneens voor het diergeneesmiddel waarvoor krachtens het eerste lid, aanhef, een vergunning voor het in de handel brengen wordt verstrekt.   
-4.  De voorschriften die gelden voor het in de handel brengen van het diergeneesmiddel waarvoor reeds in Nederland een vergunning voor het in de handel brengen is verstrekt, bedoeld in eerste lid, onderdeel c, gelden eveneens voor het in handel brengen van een diergeneesmiddel waarvoor krachtens het tweede lid een vergunning voor het in de handel brengen wordt verstrekt met uitzondering van door Onze Minister in afwijking van die voorschriften vast te stellen voorschriften in verband met wezenlijke verschillen als bedoeld in het tweede lid.   
+4.  De voorschriften die gelden voor het in de handel brengen van het diergeneesmiddel waarvoor reeds in Nederland een vergunning voor het in de handel brengen is verstrekt, bedoeld in eerste lid, onderdeel c, gelden eveneens voor het in handel brengen van een diergeneesmiddel waarvoor ingevolge het tweede lid een vergunning voor het in de handel brengen wordt verstrekt met uitzondering van door Onze Minister in afwijking van die voorschriften vast te stellen voorschriften in verband met wezenlijke verschillen als bedoeld in het tweede lid.   
 5.  Onze Minister schorst een vergunning voor parallelle invoer zolang de vergunning, bedoeld in het eerste lid, onderdeel c, is geschorst.   
 6.  Onze Minister trekt een vergunning voor parallelle invoer in zodra de vergunning, bedoeld in het eerste lid, onderdeel c, anders dan op verzoek van de houder daarvan wordt ingetrokken dan wel van rechtswege vervalt.   
 7.  Na intrekking van de vergunning, bedoeld in het eerste lid, onderdeel c, op verzoek van de houder daarvan blijft de vergunning voor parallelle invoer van kracht gedurende een door Onze Minister te bepalen uitverkooptermijn, tenzij het bepalen van een uitverkooptermijn in strijd is met belangen van volksgezondheid, diergezondheid, dierenwelzijn of het milieu.   
@@ -805,7 +799,7 @@ Onze Minister kan, in het belang van de diergezondheid en het dierenwelzijn, van
 
 ####Vrijstelling of ontheffing diergeneesmiddelen voor specifieke diersoorten
 
-1.  Onze Minister kan van het verbod, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) inzake het in de handel brengen van een diergeneesmiddel ambtshalve vrijstelling verlenen voor diergeneesmiddelen, die geen substanties bevatten die bij toepassing een veterinaire controle vereisen en die uitsluitend bestemd zijn voor toepassing bij: 
+1.  Onze Minister kan van het verbod, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) inzake het in de handel brengen van een diergeneesmiddel ambtshalve vrijstelling verlenen voor diergeneesmiddelen die geen substanties bevatten die bij toepassing een veterinaire controle vereisen en die uitsluitend bestemd zijn voor toepassing bij: 
 
 a. aquariumvissen;  
 
@@ -1024,7 +1018,7 @@ h. een diergeneesmiddel slechts:
 
 2° in overeenstemming met paragraaf 7 wordt uitgevoerd;    
 
-i. een substantie als bedoeld in artikel 4.1, eerste lid, tweede zinsdeel, en tweede lid slechts wordt afgeleverd aan een houder van een vergunning voor vervaardiging of in overeenstemming met paragaaf 7 wordt uitgevoerd.    
+i. een substantie als bedoeld in artikel 4.1, eerste lid, tweede zinsdeel, en tweede lid slechts wordt afgeleverd aan een houder van een vergunning voor vervaardiging of in overeenstemming met paragraaf 7 van dit hoofdstuk wordt uitgevoerd.    
 
 ### Artikel  4.9  
 
@@ -1122,7 +1116,7 @@ b. voorschriften als bedoeld in artikel 4.8, onderdelen b tot en met g, of eisen
 
 ####Vervallen vergunning en uitstel
 
-1.  De vergunning, bedoeld in artikel 4.7, vervalt van rechtswege met betrekking tot een diergeneesmiddel, dat is opgenomen in een lijst als bedoeld in artikel 4.2, eerste lid, onderdeel a, indien de vergunning, bedoeld in artikel 2.1, eerste lid, voor dat diergeneesmiddel is vervallen en, indien het diergeneesmiddel bestemd is voor uitvoer, door het derde land geen instemming met invoer als bedoeld in artikel 4.6, onderdeel a, is verleend.   
+1.  De vergunning, bedoeld in artikel 4.7, vervalt van rechtswege met betrekking tot een diergeneesmiddel dat is opgenomen in een lijst als bedoeld in artikel 4.2, eerste lid, onderdeel a, indien de vergunning, bedoeld in artikel 2.1, eerste lid, voor dat diergeneesmiddel is vervallen en, indien het diergeneesmiddel bestemd is voor uitvoer, door het derde land geen instemming met invoer als bedoeld in artikel 4.6, onderdeel a, is verleend.   
 2.  Onze Minister kan in uitzonderlijke omstandigheden of om redenen van gezondheid van mens of dier het vervallen van de vergunning, bedoeld in het eerste lid, met een nader te bepalen termijn uitstellen.   
 
 ### §  6  
@@ -1133,7 +1127,7 @@ b. voorschriften als bedoeld in artikel 4.8, onderdelen b tot en met g, of eisen
 
 ####Bekendmaking en mededeling
 
-1.  Een vergunning als bedoeld in artikel 4.7 wordt bekendgemaakt in de Staatscourant en medegedeeld aan de aanvrager.   
+1.  Een besluit tot verstrekking, wijziging of intrekking van een vergunning als bedoeld in artikel 4.7 wordt bekendgemaakt in de Staatscourant en medegedeeld aan de aanvrager.   
 2.  Onze Minister zendt na de bekendmaking, bedoeld in het eerste lid, aan het Bureau een kopie van de vergunning of hanteert daartoe een andere door de Europese Commissie aangewezen wijze van mededelen.   
 3.  Onze Minister draagt zorg voor een register als bedoeld in [artikel 7.2, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) waarin aantekening wordt gehouden van iedere vergunning en een besluit tot verlenging, wijziging, schorsing of intrekking daarvan.   
 
@@ -1176,7 +1170,7 @@ b. het diergeneesmiddel of de substantie met toepassing van artikel 4.22, onderd
 ####Melding invoer vanuit EER-lidstaten
 
 1.  Degene die diergeneesmiddelen invoert waarvoor een vergunning voor vervaardiging of invoer als bedoeld in artikel 4.19, eerste lid, aanhef, is verleend en die niet tevens houder is van een vergunning als bedoeld in artikel 2.1, eerste lid, meldt een voornemen tot invoer van een diergeneesmiddel of substantie als bedoeld in artikel 4.1, eerste lid, aan de houder van de vergunning, bedoeld in artikel 2.1, eerste lid, van dat diergeneesmiddel.   
-2.  Een houder van een vergunning voor invoer als bedoeld in het eerste lid, die een diergeneesmiddel of substantie invoert, waarvoor geen vergunning voor het in handel brengen als bedoeld in artikel 38, eerste lid, van Verordening (EG) nr. 726/2004 is verstrekt, meldt dit aan Onze Minister.   
+2.  Een houder van een vergunning voor invoer als bedoeld in het eerste lid, die een diergeneesmiddel of substantie invoert waarvoor geen vergunning voor het in handel brengen als bedoeld in artikel 38, eerste lid, van Verordening (EG) nr. 726/2004 is verstrekt, meldt dit aan Onze Minister.   
 3.  Diergeneesmiddelen als bedoeld in het eerste lid die worden ingevoerd uit een andere EER-lidstaat worden niet op kwaliteit gecontroleerd, indien degene die de diergeneesmiddelen invoert deze doet vergezellen van daartoe door een persoon als bedoeld in artikel 4.2, eerste lid, onderdeel f, ondertekende controleverslagen.   
 
 ### Artikel  4.21  
@@ -1259,7 +1253,7 @@ f. de door een kleinhandel te nemen maatregelen voor het uit de handel nemen van
 ####Bevoegdheid dierenarts
 
 1.  Een dierenarts heeft van rechtswege een vergunning voor kleinhandel voor het afleveren van diergeneesmiddelen aan houders van dieren voor die dieren waarvoor de dierenarts in de uitoefening van zijn beroep de medische zorg op zich heeft genomen.   
-2.  Een dierenarts die in een andere EER-lidstaat gevestigd is, is bevoegd voor toepassing bij dieren in de uitoefening van zijn beroep in Nederland diergeneesmiddelen te bezitten, waarvoor geen vergunning als bedoeld in artikel 2.12, eerste lid van dit besluit is verstrekt, onder voorwaarden die bij ministeriële regeling worden gesteld.   
+2.  Een dierenarts die in een andere EER-lidstaat gevestigd is, is bevoegd voor toepassing bij dieren in de uitoefening van zijn beroep in Nederland diergeneesmiddelen te bezitten waarvoor geen vergunning als bedoeld in artikel 2.12, eerste lid van dit besluit is verstrekt, onder voorwaarden die bij ministeriële regeling worden gesteld.   
 3.  In afwijking van het eerste lid is het een dierenarts toegestaan om het afleveren van een diergeneesmiddel door een andere persoon uit te laten voeren voor zover dit in overeenstemming is met de zorgplichten, bedoeld in [artikel 14. onderdelen a en b, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en regels die bij ministeriële regeling met betrekking tot het afleveren door een andere persoon kunnen worden gesteld.   
 4.  In afwijking van het eerste lid beschikken personen als bedoeld in de [artikelen 3](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), [4](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), [5](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en [6 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) van rechtswege over een vergunning als bedoeld in het eerste lid, in gevallen die bij ministeriële regeling kunnen worden aangewezen, doch uitsluitend: 
 
@@ -1469,7 +1463,7 @@ g. de regels die bij ministeriële regeling worden gesteld inzake administratie 
 h. de regels die bij ministeriële regeling worden gesteld inzake de opslag en bewaring van voormengsels voor diervoeder met medicinale werking en diervoeders met medicinale werking worden nageleefd;  
 
 i. de regels die bij ministeriële regeling worden gesteld inzake verpakking, verzegeling, etikettering of andere op, bij of in de verpakking in overeenstemming met EU-rechtshandelingen aan te brengen informatie, vervoer en aflevering worden nageleefd.     
-2.  Het eerste lid, onderdelen a tot en met i, zijn van overeenkomstige toepassing bij invoer van een diervoeder met medicinale werking.   
+2.  Het eerste lid is van overeenkomstige toepassing bij invoer van een diervoeder met medicinale werking.   
 
 ### §  2  
 
@@ -1482,14 +1476,14 @@ i. de regels die bij ministeriële regeling worden gesteld inzake verpakking, ve
 1.  Ter uitvoering van de artikelen 7.1 tot en met 7.6 wordt medewerking gevorderd van het Productschap Diervoeder.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit: 
 
-1°. het beslissen op een aanvraag om een vergunning als bedoeld in artikel 7.1;  
+a. het beslissen op een aanvraag om een vergunning als bedoeld in artikel 7.1;  
 
-2°. het verrichten van de noodzakelijke werkzaamheden, waaronder het nemen van besluiten in overeenstemming met [hoofdstuk 7 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md), en  
+b. het verrichten van de noodzakelijke werkzaamheden, waaronder het nemen van besluiten in overeenstemming met [hoofdstuk 7 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md), en  
 
-3°. het bij verordening stellen van regels voor de uitvoering van artikel 7.6, onderdelen g, h en i, voorzover niet bij ministeriële regeling in deze regels is voorzien.     
+c. het bij verordening stellen van regels voor de uitvoering van artikel 7.6, onderdelen g, h en i, voorzover niet bij ministeriële regeling in deze regels is voorzien.     
 3.  De in het tweede lid bedoelde verordening behoeft de goedkeuring van Onze Minister.   
 4.  Onze Minister kan met betrekking tot het verlenen van de in het eerste lid bedoelde medewerking beleidsregels stellen.   
-5.  De in het tweede lid bedoelde regels hebben onder meer betrekking hebben op regels als bedoeld in artikel 4.9, onderdelen a tot en met l.   
+5.  De in het tweede lid, onderdeel c bedoelde regels hebben onder meer betrekking op regels als bedoeld in artikel 4.9, onderdelen a tot en met l.   
 
 ### Artikel  7.8  
 

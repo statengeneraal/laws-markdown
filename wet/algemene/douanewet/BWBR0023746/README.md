@@ -55,16 +55,16 @@ e. goederen: alle zaken die kunnen worden ingedeeld in het douanetarief;
 
 f. rechten bij invoer: zowel rechten bij invoer als invoerrechten;  
 
-g. verzoeker: aanvrager, bedoeld in de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+g. verzoeker: aanvrager, bedoeld in de Algemene wet bestuursrecht.     
 2.  Bij de regeling, bedoeld in het eerste lid, onder c, kan de aanwijzing tot inspecteur dan wel ontvanger worden beperkt tot een bepaalde locatie dan wel taak en kunnen bevoegdheden worden uitgezonderd.   
 3.  Wanneer de regeling, bedoeld in het eerste lid, onderdeel c, een aanwijzing betreft van een functionaris die niet ressorteert onder de rijksbelastingdienst, is in elk geval uitgezonderd: 
 
-a. indien het een aanwijzing betreft ter zake van taken in het kader van de [Wet tot behoud van cultuurbezit](../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) of de [Wet vervoer over zee](../../../../wet/wet/vervoer/over/zee/BWBR0003528/README.md), de bevoegdheden, bedoeld in de artikelen 1:30, 1:36 en 1:37;  
+a. indien het een aanwijzing betreft ter zake van taken in het kader van de Wet tot behoud van cultuurbezit of de Wet vervoer over zee, de bevoegdheden, bedoeld in de artikelen 1:30, 1:36 en 1:37;  
 
 b. indien het een aanwijzing betreft ter zake van andere taken dan bedoeld in onderdeel a, de bevoegdheden, bedoeld in de artikelen 1:26, 1:28, 1:30, 1:36 en 1:37;  
 
 c. de bevoegdheid, bedoeld in artikel 1:23, indien de plaats een woning betreft.     
-4.  Het derde lid, aanhef en onderdeel c, is niet van toepassing indien het betreft een controle ter zake van de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Prijzennoodwet](../../../../wet/prijzennoodwet/BWBR0003734/README.md), de [Uitvoeringswet verdrag chemische wapens](../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md), de [Waarborgwet 1986](../../../../wet/waarborgwet/1986/BWBR0009275/README.md), de [Destructiewet](../../../../wet/destructiewet/BWBR0002244/README.md), de [Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), de [Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), de [Wet tot behoud van cultuurbezit](../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet vervoer over zee](../../../../wet/wet/vervoer/over/zee/BWBR0003528/README.md), de Wet zeevarenden, de [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+4.  Het derde lid, aanhef en onderdeel c, is niet van toepassing indien het betreft een controle ter zake van de Kernenergiewet, de Prijzennoodwet, de Uitvoeringswet verdrag chemische wapens, de Waarborgwet 1986, de Destructiewet, de Gezondheids- en welzijnswet voor dieren, de Wet dieren, de Wet tot behoud van cultuurbezit, de Waterwet, de Wet vervoer over zee, de Wet zeevarenden, de Wet voorkoming verontreiniging door schepen, de Warenwet, de Wet geluidhinder en de Wet milieubeheer.   
 5.  Onze Minister van Financiën sluit met Onze Ministers wie het mede aangaat convenanten aangaande de kwantitatieve en kwalitatieve inzet van de functionarissen die ressorteren onder de rijksbelastingdienst met betrekking tot de douanecontrole van het bepaalde bij of krachtens een bindende EU-rechtshandeling of ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet. Onze Minister van Financiën plaatst deze convenanten in de Staatscourant.   
 6.  Hetgeen in deze wet en de daarop rustende bepalingen is bepaald ten aanzien van de rechten bij invoer, is van overeenkomstige toepassing op de rechten bij uitvoer, tenzij anders is bepaald.   
 7.  Indien in het Communautair douanewetboek dan wel de toepassingsverordening Communautair douanewetboek bevoegdheden zijn opgedragen aan de lidstaten worden die bevoegdheden uitgeoefend door de inspecteur onderscheidenlijk de ontvanger. Hiervan kan worden afgeweken bij of krachtens deze wet.   
@@ -82,8 +82,8 @@ Bij de toepassing van de bepalingen bij of krachtens deze wet ingevolge artikel 
 
 ### Artikel  1:6  
 
-1.  [Afdeling 2.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft de [titel 5.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
+1.  Afdeling 2.2 van de Algemene wet bestuursrecht is niet van toepassing.   
+2.  Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft de titel 5.2 van de Algemene wet bestuursrecht buiten toepassing.   
 
 ### Artikel  1:7  
 
@@ -99,7 +99,7 @@ Waar een persoon woont dan wel is gevestigd, wordt naar de omstandigheden beoord
 
 ### Artikel  1:8  
 
-De [artikelen 2:1](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [2:2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn alleen van toepassing in geval van het instellen van bezwaar en de daarbij behorende procedure.  
+De artikelen 2:1 en 2:2 van de Algemene wet bestuursrecht zijn alleen van toepassing in geval van het instellen van bezwaar en de daarbij behorende procedure.  
 
 ### Artikel  1:9  
 
@@ -118,7 +118,7 @@ De douane-expediteur is gehouden aan zijn opdrachtgever een factuur te verstrekk
 ### Artikel  1:12  
 
 1.  Douane-expediteurs hebben een voorrecht op alle vermogensbestanddelen van de opdrachtgever voor de door hen ten behoeve van hun opdrachtgever betaalde rechten bij invoer, andere belastingen, heffingen, retributies dan wel rente, interest, kosten en bestuurlijke boeten voor zover aan zijn opdrachtgever te wijten gedurende een jaar na de aan het Rijk gedane betaling.   
-2.  Het in het eerste lid toegekende voorrecht heeft gelijke rangorde als het in [artikel 21 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) toegekende voorrecht van ’s Rijks schatkist, met dien verstande dat dit laatste voorrecht voorgaat.   
+2.  Het in het eerste lid toegekende voorrecht heeft gelijke rangorde als het in artikel 21 van de Invorderingswet 1990 toegekende voorrecht van ’s Rijks schatkist, met dien verstande dat dit laatste voorrecht voorgaat.   
 
 ### Artikel  1:13  
 
@@ -150,19 +150,19 @@ Deze paragraaf is niet van toepassing op strafvordering.
 
 ### Artikel  1:18  
 
-1.  Een beschikking als bedoeld in artikel 4, aanhef en onder 5, van het Communautair douanewetboek wordt gelijkgesteld met een beschikking als bedoeld in [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Een beschikking als bedoeld in artikel 4, aanhef en onder 5, van het Communautair douanewetboek wordt gelijkgesteld met een beschikking als bedoeld in artikel 1:3, tweede lid, van de Algemene wet bestuursrecht.   
 2.  De toestemming gegeven door de ambtenaar, bedoeld in artikel 1:28, zesde lid, wordt aangemerkt als een beschikking genomen door de inspecteur.   
-3.  Het doen van aangifte is geen aanvraag in de zin van [artikel 1:3, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  [Artikel 3:40 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-5.  In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de bekendmaking dan wel kennisgeving van beschikkingen op mondelinge verzoeken mondeling aan de verzoeker geschieden.   
-6.  [Artikel 3:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is alleen van toepassing op schriftelijk genomen beschikkingen, niet zijnde een bindende inlichting.   
-7.  [Afdeling 3.7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op schriftelijk genomen beschikkingen waarbij verzoeken niet worden ingewilligd of die ongunstige gevolgen hebben voor de personen tot wie zij zijn gericht.   
-8.  [Artikel 4:2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-9.  Onverminderd artikel 2 van de toepassingsverordening Communautair douanewetboek is [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing indien een verzoek om een bindende tariefinlichting of een bindende oorsprongsinlichting dan wel een verzoek om terugbetaling of kwijtschelding van de rechten bij invoer is ingediend.   
-10.  [Artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is slechts van toepassing indien de inspecteur in redelijkheid niet kan voldoen aan de hem ingevolge artikel 2 van de toepassingsverordening Communautair douanewetboek opgelegde verplichting.   
-11.  [Afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op beschikkingen die niet-schriftelijk worden genomen of die het gevolg zijn van het doen van een aangifte.   
-12.  [Artikel 4:14 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-13.  [Artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing indien een verzoek om een bindende tariefinlichting of een bindende oorsprongsinlichting is ingediend.   
+3.  Het doen van aangifte is geen aanvraag in de zin van artikel 1:3, derde lid, van de Algemene wet bestuursrecht.   
+4.  Artikel 3:40 van de Algemene wet bestuursrecht is niet van toepassing.   
+5.  In afwijking van artikel 3:41, eerste lid, van de Algemene wet bestuursrecht kan de bekendmaking dan wel kennisgeving van beschikkingen op mondelinge verzoeken mondeling aan de verzoeker geschieden.   
+6.  Artikel 3:45 van de Algemene wet bestuursrecht is alleen van toepassing op schriftelijk genomen beschikkingen, niet zijnde een bindende inlichting.   
+7.  Afdeling 3.7 van de Algemene wet bestuursrecht is niet van toepassing op schriftelijk genomen beschikkingen waarbij verzoeken niet worden ingewilligd of die ongunstige gevolgen hebben voor de personen tot wie zij zijn gericht.   
+8.  Artikel 4:2 van de Algemene wet bestuursrecht is niet van toepassing.   
+9.  Onverminderd artikel 2 van de toepassingsverordening Communautair douanewetboek is artikel 4:5, eerste lid, van de Algemene wet bestuursrecht niet van toepassing indien een verzoek om een bindende tariefinlichting of een bindende oorsprongsinlichting dan wel een verzoek om terugbetaling of kwijtschelding van de rechten bij invoer is ingediend.   
+10.  Artikel 4:5, eerste lid, van de Algemene wet bestuursrecht is slechts van toepassing indien de inspecteur in redelijkheid niet kan voldoen aan de hem ingevolge artikel 2 van de toepassingsverordening Communautair douanewetboek opgelegde verplichting.   
+11.  Afdeling 4.1.2 van de Algemene wet bestuursrecht is niet van toepassing op beschikkingen die niet-schriftelijk worden genomen of die het gevolg zijn van het doen van een aangifte.   
+12.  Artikel 4:14 van de Algemene wet bestuursrecht is niet van toepassing.   
+13.  Artikel 4:15 van de Algemene wet bestuursrecht is niet van toepassing indien een verzoek om een bindende tariefinlichting of een bindende oorsprongsinlichting is ingediend.   
 
 ### Paragraaf  1.2.3  
 
@@ -190,16 +190,16 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 ### Artikel  1:22  
 
 1.  Bij de uitoefening van zijn taak namens de inspecteur draagt de ambtenaar een legitimatiebewijs bij zich, afgegeven door Onze Minister wie het aangaat of een door hem aangewezen ambtenaar.   
-2.  Onverminderd [artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden](../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) toont hij zijn legitimatiebewijs desgevraagd onverwijld.   
-3.  Het model van het legitimatiebewijs is het krachtens [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vastgestelde model.   
+2.  Onverminderd artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden toont hij zijn legitimatiebewijs desgevraagd onverwijld.   
+3.  Het model van het legitimatiebewijs is het krachtens artikel 5:12, derde lid, van de Algemene wet bestuursrecht vastgestelde model.   
 
 ### Artikel  1:23  
 
 1.  De inspecteur is bevoegd, met medeneming van de benodigde apparatuur of dieren elke plaats te betreden.   
 2.  Hij is bevoegd zich te doen vergezellen door personen die daartoe door hem zijn aangewezen.   
 3.  Het betreden van een woning zonder toestemming van de bewoner mag slechts door ambtenaren die deze bevoegdheid door de inspecteur toegekend hebben gekregen.   
-4.  De inspecteur is bevoegd tot het geven van een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).   
-5.  Ten aanzien van woningen op of in vervoermiddelen zijn de [artikelen 5, eerste lid](../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), en [7 van de Algemene wet op het binnentreden](../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) niet van toepassing.   
+4.  De inspecteur is bevoegd tot het geven van een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden.   
+5.  Ten aanzien van woningen op of in vervoermiddelen zijn de artikelen 5, eerste lid, en 7 van de Algemene wet op het binnentreden niet van toepassing.   
 
 ### Artikel  1:24  
 
@@ -285,7 +285,7 @@ Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het me
 
 ### Artikel  1:32  
 
-1.  Onverminderd artikel 1:5 van deze wet en de EU-regelgeving ter zake, zijn [artikel 15i van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [artikelen 10](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [24 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing: 
+1.  Onverminderd artikel 1:5 van deze wet en de EU-regelgeving ter zake, zijn artikel 15i van Boek 3 van het Burgerlijk Wetboek en de artikelen 10 en 24 van Boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing: 
 
 a. op de rechten en verplichtingen voortvloeiend uit het bepaalde bij of krachtens: 
 
@@ -310,7 +310,7 @@ b. op overige van belang zijnde gegevens voor de toepassing van het bepaalde bij
 
 ### Artikel  1:34  
 
-Een ieder die de leeftijd van veertien jaar heeft bereikt, is, indien dit voor de toepassing van de bij of krachtens de in artikel 1:1 bedoelde regelingen of de bij of krachtens deze wet vastgestelde bepalingen te zijnen aanzien van belang kan zijn, verplicht op vordering van de inspecteur terstond een identificatiebewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aan te bieden.  
+Een ieder die de leeftijd van veertien jaar heeft bereikt, is, indien dit voor de toepassing van de bij of krachtens de in artikel 1:1 bedoelde regelingen of de bij of krachtens deze wet vastgestelde bepalingen te zijnen aanzien van belang kan zijn, verplicht op vordering van de inspecteur terstond een identificatiebewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aan te bieden.  
 
 ### Artikel  1:35  
 
@@ -324,12 +324,12 @@ Bij verificatie van een aangifte worden de resultaten van het onderzoek van de g
 ### Artikel  1:37  
 
 1.  Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het ambtelijk toezicht te onttrekken of om tot het nakomen van de op grond van artikel 1:27, eerste lid, genomen dwangmaatregelen te verijdelen, zomede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot een van de hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.   
-2.  Tot inbeslagneming krachtens het eerste lid zijn, behalve de inspecteur, bevoegd de bij of ingevolge [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen personen.   
+2.  Tot inbeslagneming krachtens het eerste lid zijn, behalve de inspecteur, bevoegd de bij of ingevolge artikel 141 van het Wetboek van Strafvordering aangewezen personen.   
 3.  Van de inbeslagneming en van de gronden daartoe doet de inspecteur zo spoedig mogelijk schriftelijk mededeling aan degene op wie de inbeslagneming heeft plaatsgehad. In geval van inbeslagneming op onbekende personen geschiedt die mededeling in het openbaar volgens bij regeling van Onze Minister van Financiën te stellen regels.   
 4.  Krachtens het eerste lid in beslag genomen vervoermiddelen en voorwerpen vervallen zonder rechtsvervolging aan de staat, tenzij bij een rechterlijke beslissing als bedoeld in het zesde lid de inbeslagneming niet wordt gehandhaafd.   
 5.  De belanghebbende bij het in beslag genomen vervoermiddel of voorwerp kan binnen een maand na de mededeling omtrent de inbeslagneming bij de rechtbank van het arrondissement binnen hetwelk de inbeslagneming heeft plaatsgehad, daartegen hetzij in persoon, hetzij door een gemachtigde een met redenen omkleed klaagschrift indienen.   
-6.  De rechtbank behandelt het klaagschrift op de voet van het bepaalde in [artikel 552b van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), met dien verstande, dat ook de inspecteur in de gelegenheid wordt gesteld tijdens de behandeling te worden gehoord en hem, zo hij voor de behandeling is verschenen, tijdig tevoren door de griffier schriftelijk mededeling van de dag der uitspraak wordt gedaan.   
-7.  [Artikel 552d van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+6.  De rechtbank behandelt het klaagschrift op de voet van het bepaalde in artikel 552b van het Wetboek van Strafvordering, met dien verstande, dat ook de inspecteur in de gelegenheid wordt gesteld tijdens de behandeling te worden gehoord en hem, zo hij voor de behandeling is verschenen, tijdig tevoren door de griffier schriftelijk mededeling van de dag der uitspraak wordt gedaan.   
+7.  Artikel 552d van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 8.  Onze Minister van Financiën is bevoegd in bijzondere gevallen de aan de staat vervallen vervoermiddelen en voorwerpen onder door hem te stellen voorwaarden aan de eigenaar terug te geven.   
 
 ### Hoofdstuk  2  
@@ -398,7 +398,7 @@ Onverminderd de EU-regelgeving ter zake kunnen bij of krachtens algemene maatreg
 ### Artikel  3:2  
 
 1.  De aangifte, bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (PbEU 2005, L 309), wordt schriftelijk gedaan.   
-2.  De identiteit van de aangever wordt vastgesteld met behulp van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+2.  De identiteit van de aangever wordt vastgesteld met behulp van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
 3.  Bij regeling van Onze Minister van Financiën: 
 
 a. wordt een aangifteformulier vastgesteld;  
@@ -417,7 +417,7 @@ b. worden regels gesteld omtrent de bij de uitvoering van de verordening, genoem
 3.  De inspecteur is bevoegd de inbewaringneming van de liquide middelen te doen voortduren zolang de nodige gegevens, bedoeld in artikel 3, tweede lid, van de verordening, genoemd in het eerste lid, ontbreken.   
 4.  De inbewaringneming van de liquide middelen wordt beëindigd door strafrechtelijke inbeslagneming of door een schriftelijke beslissing van de inspecteur. Een schriftelijke beslissing van de inspecteur als bedoeld in de eerste volzin wordt aangemerkt als een beschikking. Het eerste lid, derde volzin, is met betrekking tot deze beschikking van overeenkomstige toepassing.   
 5.  De beschikking, bedoeld in het vierde lid, vermeldt het tijdstip van beëindiging van de inbewaringneming van de liquide middelen en vermeldt voorts dat deze nog tot en met het kalenderjaar dat volgt op het jaar waarin de in het vierde lid bedoelde beschikking is bekendgemaakt, ter uitkering door de inspecteur aan een rechthebbende beschikbaar blijven voorzover de liquide middelen niet strekken tot voldoening van kosten als bedoeld in het zevende lid.   
-6.  Indien liquide middelen die beschikbaar blijven in de zin van het vijfde lid niet voor afloop van het kalenderjaar dat volgt op het jaar waarin de in het vierde lid bedoelde beschikking is bekendgemaakt, aan een rechthebbende zijn uitgekeerd, wordt hetzij het bedrag daarvan, hetzij – voorzover de liquide middelen geen Nederlandse wettige betaalmiddelen zijn – de verkoopopbrengst daarvan opgenomen in de consignatiekas. [Artikel 9, tweede tot en met zesde lid, van de Wet op de consignatie van gelden](../../../../wet/wet/op/de/consignatie/van/gelden/BWBR0003338/README.md) blijft buiten toepassing.   
+6.  Indien liquide middelen die beschikbaar blijven in de zin van het vijfde lid niet voor afloop van het kalenderjaar dat volgt op het jaar waarin de in het vierde lid bedoelde beschikking is bekendgemaakt, aan een rechthebbende zijn uitgekeerd, wordt hetzij het bedrag daarvan, hetzij – voorzover de liquide middelen geen Nederlandse wettige betaalmiddelen zijn – de verkoopopbrengst daarvan opgenomen in de consignatiekas. Artikel 9, tweede tot en met zesde lid, van de Wet op de consignatie van gelden blijft buiten toepassing.   
 7.  Bij algemene maatregel van bestuur kunnen gevallen worden vastgesteld waarin de kosten verbonden aan een inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van de verordening, genoemd in het eerste lid, geheel of gedeeltelijk dienen te worden vergoed door de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van die verordening heeft voldaan. Heffing en invordering van te vergoeden kosten geschieden overeenkomstig de wettelijke regels voor de heffing, onderscheidenlijk invordering, van kosten van ambtelijke werkzaamheden als bedoeld in artikel 1:19.   
 
 ### Hoofdstuk  4  
@@ -515,12 +515,12 @@ Wanneer een douaneaangifte voor het plaatsen van goederen onder de douaneregelin
 
 ### Artikel  7:4a  
 
-1.  [Artikel 4:86 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  [Artikel 4:88, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-3.  Uitstel van betaling als bedoeld in de artikelen 224 tot en met 228 van het Communautair douanewetboek is geen uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Het uitstel van betaling, bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is een «andere betalingsfaciliteit» als bedoeld in artikel 229 van het Communautair douanewetboek.   
-5.  [Artikel 4:96 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is slechts van toepassing indien het uitstel van betaling betreft ingevolge artikel 229 van het Communautair douanewetboek.   
-6.  [Afdeling 4.4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  Artikel 4:86 van de Algemene wet bestuursrecht is niet van toepassing.   
+2.  Artikel 4:88, derde lid, van de Algemene wet bestuursrecht is niet van toepassing.   
+3.  Uitstel van betaling als bedoeld in de artikelen 224 tot en met 228 van het Communautair douanewetboek is geen uitstel van betaling als bedoeld in artikel 4:94 van de Algemene wet bestuursrecht.   
+4.  Het uitstel van betaling, bedoeld in artikel 4:94 van de Algemene wet bestuursrecht, is een «andere betalingsfaciliteit» als bedoeld in artikel 229 van het Communautair douanewetboek.   
+5.  Artikel 4:96 van de Algemene wet bestuursrecht is slechts van toepassing indien het uitstel van betaling betreft ingevolge artikel 229 van het Communautair douanewetboek.   
+6.  Afdeling 4.4.2 van de Algemene wet bestuursrecht is niet van toepassing.   
 
 ### Artikel  7:5  
 
@@ -578,9 +578,9 @@ c. de afronding van het bedrag aan rechten, andere belastingen, heffingen, retri
 
 ### Artikel  8:1  
 
-1.  De [artikelen 6:2, aanhef en onder b](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
-2.  [Artikel 8:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing, tenzij beroep is ingesteld tegen een beschikking die is genomen op grond van een regeling, genoemd in de bijlage bij de artikelen 1:1 en 1:3, onder B, van deze wet.   
-3.  [Afdeling 8.2.4A van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is alleen van toepassing indien: 
+1.  De artikelen 6:2, aanhef en onder b, en 8:1 van de Algemene wet bestuursrecht zijn niet van toepassing.   
+2.  Artikel 8:13 van de Algemene wet bestuursrecht is niet van toepassing, tenzij beroep is ingesteld tegen een beschikking die is genomen op grond van een regeling, genoemd in de bijlage bij de artikelen 1:1 en 1:3, onder B, van deze wet.   
+3.  Afdeling 8.2.4A van de Algemene wet bestuursrecht is alleen van toepassing indien: 
 
 a. artikel 243, eerste lid, tweede alinea, van het Communautair douanewetboek toepassing vindt;  
 
@@ -588,13 +588,13 @@ b. de inspecteur niet tijdig heeft beslist op bezwaar en hij de indiener van dat
 
 ### Artikel  8:2  
 
-1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 25, derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [27e](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
-2.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking voor bezwaar vatbaar indien het een beschikking betreft: 
+1.  Hoofdstuk V van de Algemene wet inzake rijksbelastingen, met uitzondering van de artikelen 25, derde lid, 26a, 27a en 27e, is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
+2.  Voor de overeenkomstige toepassing van hoofdstuk V van de Algemene wet inzake rijksbelastingen is een beschikking voor bezwaar vatbaar indien het een beschikking betreft: 
 
 a. als bedoeld in artikel 4, aanhef en onder 5, van het Communautair douanewetboek of;  
 
 b. die is genomen op grond van deze wet.     
-3.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt een uitnodiging tot betaling aangemerkt als een belastingaanslag of een aanslag.   
+3.  Voor de overeenkomstige toepassing van hoofdstuk V van de Algemene wet inzake rijksbelastingen wordt een uitnodiging tot betaling aangemerkt als een belastingaanslag of een aanslag.   
 4.  Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en paragraaf 1.2.4 gedurende een daarbij te bepalen termijn van toepassing blijven.   
 5.  Indien een uitspraak van de rechtbank of van de voorzieningenrechter van de rechtbank betrekking heeft op een beschikking die is gegeven door Onze minister wie het aangaat dan wel de ontvanger, treedt voor de toepassing van dit hoofdstuk Onze minister wie het aangaat dan wel de ontvanger in de plaats van de inspecteur.   
 6.  Indien het bezwaar is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
@@ -647,11 +647,11 @@ Het overtreden van een krachtens deze wet vastgestelde algemene maatregel van be
 
 ### Artikel  9:6  
 
-In afwijking van [artikel 5:45, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in deze afdeling door verloop van drie jaren na het tijdstip waarop het verzuim of vergrijp waarop de bestuurlijke boete betrekking heeft, heeft plaatsgevonden.  
+In afwijking van artikel 5:45, eerste en tweede lid, van de Algemene wet bestuursrecht vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in deze afdeling door verloop van drie jaren na het tijdstip waarop het verzuim of vergrijp waarop de bestuurlijke boete betrekking heeft, heeft plaatsgevonden.  
 
 ### Artikel  9:6a  
 
-De in de artikelen 9:1, eerste lid, 9:2, eerste en tweede lid, 9:3, eerste lid, 9:4, eerste lid, en 9:5, genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, bij ministeriële regeling gewijzigd. De [artikelen 10.1](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.  
+De in de artikelen 9:1, eerste lid, 9:2, eerste en tweede lid, 9:3, eerste lid, 9:4, eerste lid, en 9:5, genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, bij ministeriële regeling gewijzigd. De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.  
 
 ### Afdeling  9.2  
 
@@ -715,7 +715,7 @@ b. ingevolge de douanewetgeving verplicht is tot:
 5°. het bewaren van boeken, bescheiden of andere gegevensdragers, en deze niet bewaart; wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.       
 2.  Degene die opzettelijk een der feiten begaat, omschreven in het eerste lid, onderdeel b, onder 1°, 2°, 4° of 5°, wordt, indien het feit ertoe strekt dat te weinig rechten bij invoer worden geheven, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven rechten.   
 3.  Degene die opzettelijk een der feiten begaat, omschreven in het eerste lid, onderdeel a of b, onder 3°, wordt, indien het feit ertoe strekt dat te weinig rechten bij invoer worden geheven, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven rechten.   
-4.  Indien het feit, ter zake waarvan de verdachte kan worden vervolgd, zowel valt onder een van de bepalingen van het tweede of het derde lid, als onder die van [artikel 225, tweede lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), is strafvervolging op grond van genoemd [artikel 225, tweede lid](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), uitgesloten.   
+4.  Indien het feit, ter zake waarvan de verdachte kan worden vervolgd, zowel valt onder een van de bepalingen van het tweede of het derde lid, als onder die van artikel 225, tweede lid, van het Wetboek van Strafrecht, is strafvervolging op grond van genoemd artikel 225, tweede lid, uitgesloten.   
 5.  Dit artikel is niet van toepassing ten aanzien van de invordering van de rechten bij invoer.   
 
 ### Artikel  10:6  
@@ -757,11 +757,11 @@ De bij deze wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zij
 
 ### Artikel  10:14  
 
-Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten vindt [artikel 36e van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) geen toepassing.  
+Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten vindt artikel 36e van het Wetboek van Strafrecht geen toepassing.  
 
 ### Artikel  10:15  
 
-1.  Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 11:3, tweede lid, in handen van de officier van justitie is gesteld, kan in afwijking van de [artikelen 257a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [257b](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [257ba van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), uitsluitend de inspecteur een strafbeschikking uitvaardigen. Bij regeling van Onze minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.   
+1.  Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 11:3, tweede lid, in handen van de officier van justitie is gesteld, kan in afwijking van de artikelen 257a, 257b en 257ba van het Wetboek van Strafvordering, uitsluitend de inspecteur een strafbeschikking uitvaardigen. Bij regeling van Onze minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.   
 2.  In deze strafbeschikking kan een geldboete worden opgelegd. Voorts kan deze strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. De aanwijzingen kunnen inhouden: 
 
 a. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  
@@ -771,16 +771,16 @@ b. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerp
 c. voldoening aan de Staat van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafbare feit;  
 
 d. het alsnog voldoen aan een uit de douanewetgeving voortvloeiende verplichting.     
-3.  Een strafbeschikking waarin een geldboete wordt opgelegd van meer dan € 2000, wordt, in afwijking van [artikel 257c, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), slechts uitgevaardigd indien de verdachte daaraan voorafgaand is gehoord.   
-4.  Een geldboete wordt, in zoverre in afwijking van [artikel 257g van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), ingevorderd op de wijze, voorzien in de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Daartoe wordt een afschrift van de strafbeschikking aan de ontvanger ter hand gesteld. De inspecteur of de aangewezen functionaris bepaalt voorts de termijn binnen welke aan de gegeven aanwijzingen moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan voor de afloop daarvan eenmaal worden verlengd.   
-5.  In afwijking van [artikel 257h, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) verstrekt de inspecteur desgevraagd een afschrift van een strafbeschikking aan ieder ander dan de verdachte of zijn raadsman, tenzij verstrekking naar het oordeel van het bestuur ter bescherming van de belangen van degene ten aanzien van wie de strafbeschikking is uitgevaardigd of van de derden die in de strafbeschikking worden genoemd, geheel of gedeeltelijk dient te worden geweigerd. In het laatste geval kan de inspecteur een geanonimiseerd afschrift van de strafbeschikking verstrekken.   
-6.  Indien binnen veertien dagen geen afschrift dan wel een geanonimiseerd afschrift wordt verstrekt, kan de verzoeker een klaagschrift indienen bij de inspecteur. Deze stelt het klaagschrift, de strafbeschikking en het proces-verbaal in handen van de officier van justitie, welke het klaagschrift en de processtukken onverwijld ter kennis brengt van de rechtbank, tenzij hij alsnog aan het verzoek tegemoetkomt. De procesdeelnemers zijn, in afwijking van [artikel 23, vierde lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) niet bevoegd van de inhoud van de processtukken kennis te nemen dan voor zover de rechtbank zulks toestaat.   
-7.  [Artikel 552ab van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+3.  Een strafbeschikking waarin een geldboete wordt opgelegd van meer dan € 2000, wordt, in afwijking van artikel 257c, tweede lid, van het Wetboek van Strafvordering, slechts uitgevaardigd indien de verdachte daaraan voorafgaand is gehoord.   
+4.  Een geldboete wordt, in zoverre in afwijking van artikel 257g van het Wetboek van Strafvordering, ingevorderd op de wijze, voorzien in de Invorderingswet 1990. Daartoe wordt een afschrift van de strafbeschikking aan de ontvanger ter hand gesteld. De inspecteur of de aangewezen functionaris bepaalt voorts de termijn binnen welke aan de gegeven aanwijzingen moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan voor de afloop daarvan eenmaal worden verlengd.   
+5.  In afwijking van artikel 257h, tweede lid, van het Wetboek van Strafvordering verstrekt de inspecteur desgevraagd een afschrift van een strafbeschikking aan ieder ander dan de verdachte of zijn raadsman, tenzij verstrekking naar het oordeel van het bestuur ter bescherming van de belangen van degene ten aanzien van wie de strafbeschikking is uitgevaardigd of van de derden die in de strafbeschikking worden genoemd, geheel of gedeeltelijk dient te worden geweigerd. In het laatste geval kan de inspecteur een geanonimiseerd afschrift van de strafbeschikking verstrekken.   
+6.  Indien binnen veertien dagen geen afschrift dan wel een geanonimiseerd afschrift wordt verstrekt, kan de verzoeker een klaagschrift indienen bij de inspecteur. Deze stelt het klaagschrift, de strafbeschikking en het proces-verbaal in handen van de officier van justitie, welke het klaagschrift en de processtukken onverwijld ter kennis brengt van de rechtbank, tenzij hij alsnog aan het verzoek tegemoetkomt. De procesdeelnemers zijn, in afwijking van artikel 23, vierde lid, van het Wetboek van Strafvordering niet bevoegd van de inhoud van de processtukken kennis te nemen dan voor zover de rechtbank zulks toestaat.   
+7.  Artikel 552ab van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 
 ### Artikel  10:16  
 
-1.  Medeplichtigheid aan de in de artikelen 10:1, eerste lid, 10:2, 10:3, eerste lid, en 10:5, eerste lid, onderdeel a, vermelde overtredingen is strafbaar. Te dien aanzien vinden de [artikelen 48](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [49 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) overeenkomstige toepassing.   
-2.  Poging tot de in artikel 10:3, eerste lid, vermelde overtreding is strafbaar. Te dien aanzien vindt [artikel 45 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) overeenkomstige toepassing.   
+1.  Medeplichtigheid aan de in de artikelen 10:1, eerste lid, 10:2, 10:3, eerste lid, en 10:5, eerste lid, onderdeel a, vermelde overtredingen is strafbaar. Te dien aanzien vinden de artikelen 48 en 49 van het Wetboek van Strafrecht overeenkomstige toepassing.   
+2.  Poging tot de in artikel 10:3, eerste lid, vermelde overtreding is strafbaar. Te dien aanzien vindt artikel 45 van het Wetboek van Strafrecht overeenkomstige toepassing.   
 
 ### Artikel  10:17  
 
@@ -792,7 +792,7 @@ b. de in artikel 10:5, eerste lid, onderdeel b, onder 3°, omschreven overtredin
 
 ### Artikel  10:18  
 
-Bij veroordeling wegens een der in de artikelen 10:1, 10:2, 10:3, 10:4 en 10:5, eerste lid, onderdeel a, omschreven strafbare feiten kunnen de in [artikel 33a, eerste lid, onderdelen b tot en met e, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) genoemde voorwerpen ook worden verbeurdverklaard, indien zij niet aan de in [dat artikel](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) bedoelde persoon toebehoren.  
+Bij veroordeling wegens een der in de artikelen 10:1, 10:2, 10:3, 10:4 en 10:5, eerste lid, onderdeel a, omschreven strafbare feiten kunnen de in artikel 33a, eerste lid, onderdelen b tot en met e, van het Wetboek van Strafrecht genoemde voorwerpen ook worden verbeurdverklaard, indien zij niet aan de in dat artikel bedoelde persoon toebehoren.  
 
 ### Hoofdstuk  11  
 
@@ -810,23 +810,23 @@ b. ter zake van overtredingen ten aanzien van degene die op het tijdstip waarop 
 
 ### Artikel  11:2  
 
-Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) geacht te wonen, waar zij gevestigd zijn.  
+Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van artikel 2 van het Wetboek van Strafvordering geacht te wonen, waar zij gevestigd zijn.  
 
 ### Artikel  11:3  
 
-1.  Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.   
-2.  In afwijking van [artikel 156 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging of verdere vervolging door deze wenselijk acht.   
+1.  Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in artikel 141 van het Wetboek van Strafvordering bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.   
+2.  In afwijking van artikel 156 van het Wetboek van Strafvordering worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging of verdere vervolging door deze wenselijk acht.   
 3.  De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig artikel 10:15.   
-4.  Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
+4.  Het bepaalde in artikel 148, tweede lid, van het Wetboek van Strafvordering vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
 
 ### Artikel  11:4  
 
-De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.  
+De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het Wetboek van Strafvordering voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.  
 
 ### Artikel  11:5  
 
-1.  In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in artikel 11:3, tweede lid, aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten aanzien van het openbaar ministerie is bepaald.   
-2.  In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [552ab van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), onderscheidenlijk [artikel 552ab, vierde lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 552ab, vierde lid, van dat wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.   
+1.  In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in artikel 11:3, tweede lid, aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in artikel 116 van het Wetboek van Strafvordering ten aanzien van het openbaar ministerie is bepaald.   
+2.  In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de artikelen 552a en 552ab van het Wetboek van Strafvordering, alvorens het gerecht ingevolge artikel 552a, vijfde lid, onderscheidenlijk artikel 552ab, vierde lid, van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in artikel 552d van dat wetboek, niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge artikel 552a, vijfde lid, of artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.   
 
 ### Artikel  11:6  
 
@@ -842,7 +842,7 @@ De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of ui
 
 ### Artikel  11:9  
 
-Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.  
+Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het Wetboek van Strafvordering aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.  
 
 ### Artikel  11:10  
 
@@ -852,14 +852,14 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 1.  De ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, zijn tevens belast met de opsporing van: 
 
-a. de misdrijven omschreven in de [artikelen 179 tot en met 182 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), welke jegens hen zijn begaan;  
+a. de misdrijven omschreven in de artikelen 179 tot en met 182 van het Wetboek van Strafrecht, welke jegens hen zijn begaan;  
 
-b. het misdrijf omschreven in [artikel 184 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het bevel of de vordering is gedaan krachtens of de handeling is ondernomen ter uitvoering van de douanewetgeving.     
-2.  De [artikelen 152](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [153](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [159 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
+b. het misdrijf omschreven in artikel 184 van het Wetboek van Strafrecht, indien het bevel of de vordering is gedaan krachtens of de handeling is ondernomen ter uitvoering van de douanewetgeving.     
+2.  De artikelen 152, 153, 156 en 159 van het Wetboek van Strafvordering zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
 
 ### Artikel  11:12  
 
-1.  Met betrekking tot bij deze wet strafbaar gestelde feiten en met uitbreiding van [artikel 53 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is de inspecteur bevoegd een van misdrijf verdachte persoon die is aangehouden in of op een locatie of vervoermiddel, een en ander als bedoeld in de artikelen 1:26 en 1:27, of bij het juist hebben verlaten van een locatie of vervoermiddel als in die artikelen bedoeld, na aanhouding naar een plaats voor verhoor te geleiden dan wel diens aanhouding of voorgeleiding te bevelen.   
+1.  Met betrekking tot bij deze wet strafbaar gestelde feiten en met uitbreiding van artikel 53 van het Wetboek van Strafvordering is de inspecteur bevoegd een van misdrijf verdachte persoon die is aangehouden in of op een locatie of vervoermiddel, een en ander als bedoeld in de artikelen 1:26 en 1:27, of bij het juist hebben verlaten van een locatie of vervoermiddel als in die artikelen bedoeld, na aanhouding naar een plaats voor verhoor te geleiden dan wel diens aanhouding of voorgeleiding te bevelen.   
 2.  Indien de inspecteur die de verdachte heeft aangehouden of voor wie de verdachte wordt geleid de inverzekeringstelling of de bewaring van de verdachte nodig oordeelt, doet hij de verdachte voorgeleiden voor de officier van justitie of voor een hulpofficier van justitie.   
 3.  Indien de verdachte niet voor de officier of voor een hulpofficier van justitie wordt voorgeleid, wordt de verdachte, na te zijn verhoord, dadelijk in vrijheid gesteld.   
 4.  De verdachte mag niet langer dan zes uren voor verhoor worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur ’s ochtends niet wordt meegerekend.   
@@ -929,145 +929,145 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 – Algemene douanewet  
 
-–  [Auteurswet](../../../../wet/auteurswet/BWBR0001886/README.md)   
+–  Auteurswet   
 
-–  [Binnenvaartwet](../../../../wet/binnenvaartwet/BWBR0023009/README.md)   
+–  Binnenvaartwet   
 
-–  [Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md)   
+–  Brandweerwet 1985   
 
-–  [Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md)   
+–  Elektriciteitswet 1998   
 
-–  [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)   
+–  Flora- en faunawet   
 
-–  [Gaswet](../../../../wet/gaswet/BWBR0011440/README.md)   
+–  Gaswet   
 
-–  [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md)   
+–  Geneesmiddelenwet   
 
-–  [Havenbeveiligingswet](../../../../wet/havenbeveiligingswet/BWBR0016991/README.md)   
+–  Havenbeveiligingswet   
 
-–  [Havennoodwet](../../../../wet/havennoodwet/BWBR0002410/README.md)   
+–  Havennoodwet   
 
-–  [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md)   
+–  Kernenergiewet   
 
-–  [Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md)   
+–  Landbouwkwaliteitswet   
 
-–  [Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md)   
+–  Landbouwwet   
 
-–  [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md)   
+–  Luchtvaartwet   
 
-–  [Meetbrievenwet 1981](../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md)   
+–  Meetbrievenwet 1981   
 
-–  [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md)   
+–  Mijnbouwwet   
 
-–  [Noodwet voedselvoorziening](../../../../wet/noodwet/voedselvoorziening/BWBR0002392/README.md)   
+–  Noodwet voedselvoorziening   
 
-–  [Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md)   
+–  Opiumwet   
 
-–  [Plantenziektenwet](../../../../wet/plantenziektenwet/BWBR0002075/README.md)   
+–  Plantenziektenwet   
 
-–  [Prijzennoodwet](../../../../wet/prijzennoodwet/BWBR0003734/README.md)   
+–  Prijzennoodwet   
 
-–  [Rijksoctrooiwet 1995](../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md)   
+–  Rijksoctrooiwet 1995   
 
-–  [Sanctiewet 1977](../../../../wet/sanctiewet/1977/BWBR0003296/README.md)   
+–  Sanctiewet 1977   
 
-–  [Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md)   
+–  Scheepvaartverkeerswet   
 
-–  [Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md)   
+–  Schepenwet   
 
-–  [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md)   
+–  Telecommunicatiewet   
 
-–  [Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen](../../../../wet/uitvoeringswet/unesco-verdrag/1970/inzake/onrechtmatige/invoer/uitvoer/of/etc/BWBR0025996/README.md)   
+–  Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen   
 
-–  [Uitvoeringswet verdrag biologische wapens](../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md)   
+–  Uitvoeringswet verdrag biologische wapens   
 
-–  [Uitvoeringswet verdrag chemische wapens](../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md)   
+–  Uitvoeringswet verdrag chemische wapens   
 
-–  [Vaarplichtwet](../../../../wet/vaarplichtwet/BWBR0002828/README.md)   
+–  Vaarplichtwet   
 
-–  [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md)   
+–  Visserijwet 1963   
 
-–  [Waarborgwet 1986](../../../../wet/waarborgwet/1986/BWBR0009275/README.md)   
+–  Waarborgwet 1986   
 
-–  [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md)   
+–  Warenwet   
 
-–  [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md)   
+–  Waterwet   
 
-–  [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   
+–  Wegenverkeerswet 1994   
 
-–  [Wet aansprakelijkheid olietankschepen](../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md)   
+–  Wet aansprakelijkheid olietankschepen   
 
-–  [Wet beschikbaarheid goederen](../../../../wet/wet/beschikbaarheid/goederen/BWBR0002098/README.md)   
+–  Wet beschikbaarheid goederen   
 
-–  [Wet capaciteitsbeheersing binnenvaartvloot](../../../../wet/wet/capaciteitsbeheersing/binnenvaartvloot/BWBR0012950/README.md)   
+–  Wet capaciteitsbeheersing binnenvaartvloot   
 
-–  [Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md)   
+–  Wet dieren   
 
-–  [Wet explosieven voor civiel gebruik](../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   
+–  Wet explosieven voor civiel gebruik   
 
-–  [Wet financiële betrekkingen buitenland 1994](../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md)   
+–  Wet financiële betrekkingen buitenland 1994   
 
-–  [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md)   
+–  Wet geluidhinder   
 
-–  [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   
+–  Wet gewasbeschermingsmiddelen en biociden   
 
-–  [Wet goedkeuring en uitvoering Markham-overeenkomst](../../../../wet/wet/goedkeuring/en/uitvoering/markham-overeenkomst/BWBR0005766/README.md)   
+–  Wet goedkeuring en uitvoering Markham-overeenkomst   
 
-–  [Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](../../../../wet/wet/grensoverschrijdend/vervoer/van/aan/bederf/onderhevige/levensmiddelen/BWBR0003186/README.md)   
+–  Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen   
 
-–  [Wet havenstaatcontrole](../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md)   
+–  Wet havenstaatcontrole   
 
-–  [Wet invoering verbod tot het vervaardigen, voorradig hebben en verspreiden van drukwerken of andere voorwerpen die, in verband met de invoering van de euro, ten onrechte de indruk zouden kunnen wekken dat zij wettig betaalmiddel zijn](../../../../wet/invoeringswet/verbod/tot/het/vervaardigen/voorradig/hebben/en/verspreiden/etc/BWBR0010841/README.md)   
+–  Wet invoering verbod tot het vervaardigen, voorradig hebben en verspreiden van drukwerken of andere voorwerpen die, in verband met de invoering van de euro, ten onrechte de indruk zouden kunnen wekken dat zij wettig betaalmiddel zijn   
 
-–  [Wet inzake bloedvoorziening](../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md)   
+–  Wet inzake bloedvoorziening   
 
-–  [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md)   
+–  Wet inzake de luchtverontreiniging   
 
-–  [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+–  Wet luchtvaart   
 
-–  [Wet medewerking verdedigingsvoorbereiding](../../../../wet/wet/medewerking/verdedigingsvoorbereiding/BWBR0001995/README.md)   
+–  Wet medewerking verdedigingsvoorbereiding   
 
-–  [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   
+–  Wet milieubeheer   
 
-–  [Wet nationaliteit zeeschepen in rompbevrachting](../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md)   
+–  Wet nationaliteit zeeschepen in rompbevrachting   
 
-–  [Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md)   
+–  Wet op de kansspelen   
 
-–  [Wet op de lijkbezorging](../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md)   
+–  Wet op de lijkbezorging   
 
-–  [Wet op de medische hulpmiddelen](../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md)   
+–  Wet op de medische hulpmiddelen   
 
-–  [Wet op de naburige rechten](../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md)   
+–  Wet op de naburige rechten   
 
-–  [Wet op de strandvonderij](../../../../wet/wet/op/de/strandvonderij/BWBR0001951/README.md)   
+–  Wet op de strandvonderij   
 
-–  [Wet pleziervaartuigen](../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md)   
+–  Wet pleziervaartuigen   
 
-–  [Wet tot behoud van cultuurbezit](../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md)   
+–  Wet tot behoud van cultuurbezit   
 
-–  [Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied](../../../../wet/wet/tot/teruggave/cultuurgoederen/afkomstig/uit/bezet/gebied/BWBR0021656/README.md)   
+–  Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied   
 
-–  [Wet uitvoering internationaal energieprogramma](../../../../wet/wet/uitvoering/internationaal/energieprogramma/BWBR0003235/README.md)   
+–  Wet uitvoering internationaal energieprogramma   
 
-–  [Wet veiligheid en kwaliteit lichaamsmateriaal](../../../../wet/wet/veiligheid/en/kwaliteit/lichaamsmateriaal/BWBR0014682/README.md)   
+–  Wet veiligheid en kwaliteit lichaamsmateriaal   
 
-–  [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)   
+–  Wet vervoer gevaarlijke stoffen   
 
-–  [Wet vervoer over zee](../../../../wet/wet/vervoer/over/zee/BWBR0003528/README.md)   
+–  Wet vervoer over zee   
 
-–  [Wet voorkoming misbruik chemicaliën](../../../../wet/wet/voorkoming/misbruik/chemicaliën/BWBR0007286/README.md)   
+–  Wet voorkoming misbruik chemicaliën   
 
-–  [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md)   
+–  Wet voorkoming verontreiniging door schepen   
 
-–  [Wet voorraadvorming aardolieproducten 2001](../../../../wet/wet/voorraadvorming/aardolieproducten/2001/BWBR0012373/README.md)   
+–  Wet voorraadvorming aardolieproducten 2012   
 
-–  [Wet wapens en munitie](../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   
+–  Wet wapens en munitie   
 
-–  [Wet wegvervoer goederen](../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   
+–  Wet wegvervoer goederen   
 
-–  [Zaaizaad- en plantgoedwet 2005](../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md)   
+–  Zaaizaad- en plantgoedwet 2005   
 
-–  [Zeebrievenwet](../../../../wet/zeebrievenwet/BWBR0001933/README.md)   
+–  Zeebrievenwet   
 
 – de Wet zeevarenden    
 
